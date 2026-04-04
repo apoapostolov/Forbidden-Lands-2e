@@ -5,12 +5,14 @@ import styles from './TextBlock.module.css'
 interface TextBlockProps {
   html: string
   isChapterOpener?: boolean
+  isFiction?: boolean
   variant?: 'body' | 'blockquote'
 }
 
 export default function TextBlock({
   html,
   isChapterOpener,
+  isFiction = false,
   variant = 'body',
 }: TextBlockProps) {
   // Apply smart content fixes (emoji greyscale, diamond bullets)
@@ -22,14 +24,11 @@ export default function TextBlock({
       ? DOMPurify.sanitize(fixed, { USE_PROFILES: { html: true } })
       : fixed
 
-  const isFictionIntro =
-    variant === 'body' && /^<p>\s*<em>[\s\S]*<\/em>\s*<\/p>$/i.test(clean)
-
   const className = [
     styles.block,
     variant === 'blockquote' ? 'flavour-text' : 'body-text',
     isChapterOpener ? 'chapter-opener' : '',
-    isFictionIntro ? 'fiction-intro' : '',
+    variant === 'body' && isFiction ? 'fiction-intro' : '',
   ]
     .filter(Boolean)
     .join(' ')

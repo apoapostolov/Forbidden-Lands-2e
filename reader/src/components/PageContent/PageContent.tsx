@@ -1,10 +1,10 @@
 import type {
-  BlockquoteSegment,
-  HeadingSegment,
-  ImageRefSegment,
-  ParagraphSegment,
-  Segment,
-  TableSegment,
+    BlockquoteSegment,
+    HeadingSegment,
+    ImageRefSegment,
+    ParagraphSegment,
+    Segment,
+    TableSegment,
 } from '@app-types/book'
 import ImageBlock from '@components/ImageBlock/ImageBlock'
 import TableBlock from '@components/TableBlock/TableBlock'
@@ -13,9 +13,26 @@ import styles from './PageContent.module.css'
 
 interface PageContentProps {
   segments: Segment[]
+  sectionHeadingPage?: boolean
 }
 
-function renderSegment(seg: Segment, idx: number) {
+function renderSegment(seg: Segment, idx: number, segments: Segment[]) {
+  const previousHeading = (() => {
+    for (let i = idx - 1; i >= 0; i--) {
+      const s = segments[i]
+      if (s.type === 'heading') return s as HeadingSegment
+    }
+    return null
+  })()
+  const followsH2 = previousHeading?.level === 2
+  const isFictionAfterH2 =
+    seg.type === 'paragraph' && !!(seg as ParagraphSegment).isFiction && followsH2
+
+  const shouldSpanAll =
+    (seg.type === 'heading' && (seg as HeadingSegment).level === 2) || isFictionAfterH2
+
+  const isHeading = seg.type === 'heading'
+
   const element = (() => {
     switch (seg.type) {
       case 'heading': {
@@ -37,6 +54,7 @@ function renderSegment(seg: Segment, idx: number) {
             key={idx}
             html={p.html}
             isChapterOpener={p.isChapterOpener}
+            isFiction={isFictionAfterH2}
             variant="body"
           />
         )
@@ -72,7 +90,11 @@ function renderSegment(seg: Segment, idx: number) {
   // Wrap in a div to attach data attribute for search highlighting
   if (element && seg.type !== 'hr') {
     return (
-      <div key={idx} data-segment-idx={idx}>
+      <div
+        key={idx}
+        data-segment-idx={idx}
+        className={`${styles.segmentWrap} ${isHeading ? styles.headingWrap : ''} ${shouldSpanAll ? styles.spanAllWrap : ''} ${isFictionAfterH2 ? styles.fictionAfterH2Wrap : ''}`}
+      >
         {element}
       </div>
     )
@@ -81,10 +103,13 @@ function renderSegment(seg: Segment, idx: number) {
   return element
 }
 
-export default function PageContent({ segments }: PageContentProps) {
+export default function PageContent({
+  segments,
+  sectionHeadingPage = false,
+}: PageContentProps) {
   return (
     <main
-      className={styles.columns}
+      className={`${styles.columns} ${sectionHeadingPage ? styles.sectionHeadingPage : ''}`}
       role="region"
       aria-label="Page content"
       // Stop pointer events from reaching the flip library so that the text
@@ -93,7 +118,7 @@ export default function PageContent({ segments }: PageContentProps) {
       onMouseDown={(e) => e.stopPropagation()}
       onClick={(e) => e.stopPropagation()}
     >
-      {segments.map((seg, idx) => renderSegment(seg, idx))}
+      {segments.map((seg, idx) => renderSegment(seg, idx, segments))}
     </main>
   )
 }

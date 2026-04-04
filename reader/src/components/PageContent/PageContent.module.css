@@ -7,11 +7,26 @@
   column-fill: auto;
   /* Fixed height required so the browser knows when to start the second column */
   height: 100%;
-  orphans: 3;
-  widows: 3;
+  orphans: 2;
+  widows: 2;
   /* Hyphenation language inherited from <html lang="en"> */
   hyphens: auto;
   word-break: break-word;
+}
+
+.sectionHeadingPage {
+  --section-frame-bleed: clamp(12px, 2vw, 20px);
+  width: calc(100% + (2 * var(--section-frame-bleed)));
+  margin-left: calc(-1 * var(--section-frame-bleed));
+  margin-right: calc(-1 * var(--section-frame-bleed));
+  position: relative;
+  z-index: 2;
+}
+
+.sectionHeadingPage .spanAllWrap {
+  position: relative;
+  overflow: visible;
+  z-index: 2;
 }
 
 /* Chapter title (h1) must escape the column flow and span full page width,
@@ -26,19 +41,63 @@
   column-span: all;
   break-before: avoid;
   break-after: avoid;
+  --section-frame-height: clamp(124px, 18vw, 160px);
+  position: relative;
+  isolation: isolate;
   display: flex;
   align-items: center;
   justify-content: center;
-  min-height: 54px;
+  min-height: var(--section-frame-height);
   margin: 0.7em 0 0.35em;
-  padding: 0 18px;
+  padding: 0 clamp(24px, 4vw, 40px);
   text-align: center;
+  font-size: clamp(20px, 3.1vw, 28px);
+  line-height: 1;
+  text-wrap: balance;
+  word-break: normal;
+  overflow-wrap: normal;
+}
+
+.sectionHeadingPage > .headingWrap:first-child :global(h2.section-heading) {
+  margin-top: 12px;
+}
+
+.sectionHeadingPage :global(h2.section-heading) {
+  padding-top: 27px;
+  padding-bottom: 2px;
+}
+
+/* Guard rail: any element immediately after the H2 wrapper must start below
+   the frame's visual bottom edge. Chrome multi-column ignores margin-bottom on
+   column-span:all elements, so we use margin-top on the next sibling instead.
+   Frame overflow measured at ~46px; 60px gives comfortable clearance. */
+.sectionHeadingPage > .headingWrap:first-child + * {
+  margin-top: 60px;
+}
+
+.fictionAfterH2Wrap {
+  margin-top: 14px;
+}
+
+.columns :global(h2.section-heading)::before {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 106%;
+  aspect-ratio: 1009 / 387;
+  max-height: none;
+  transform: translate(-50%, -50%);
   background-image: url('/assets/decorations/chapter-header-overlay.png');
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 100% 100%;
-  font-size: 24px;
-  letter-spacing: 0.05em;
+  background-size: 100% auto;
+  pointer-events: none;
+  z-index: -1;
+}
+
+.sectionHeadingPage :global(h2.section-heading)::before {
+  width: 110%;
 }
 
 /* Flavour text / blockquotes span both columns and use no hyphenation ---
@@ -59,9 +118,10 @@
   column-span: all;
   hyphens: none;
   text-align: center;
-  font-size: 13px;
-  line-height: 1.6;
-  margin: 0.25em 0 0.85em;
+  font-size: 16px;
+  line-height: 1.72;
+  padding-block: 0.2em;
+  margin: 0.3em 0 0.95em;
   break-before: avoid;
   break-after: avoid;
 }
@@ -83,18 +143,38 @@
 /* Segment wrappers are the direct flow units in this layout.
    Keep each paragraph block together so single-line leftovers don't appear
    at the bottom of a column/page. */
-.columns > [data-segment-idx] {
-  display: inline-block;
+.segmentWrap {
+  display: block;
   width: 100%;
   break-inside: avoid-column;
+  page-break-inside: avoid;
+}
+
+/* Keep headings anchored to following content so no lonely heading remains at
+   the end of a column/page. */
+.headingWrap {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+.headingWrap + .segmentWrap {
+  break-before: avoid-column;
+  page-break-before: avoid;
+}
+
+.spanAllWrap {
+  column-span: all;
+  display: block;
+  width: 100%;
+  break-inside: avoid;
   page-break-inside: avoid;
 }
 
 .columns :global(p) {
   break-inside: avoid-column;
   page-break-inside: avoid;
-  orphans: 3;
-  widows: 3;
+  orphans: 2;
+  widows: 2;
 }
 
 /* ── Layout control classes (from layoutAnalyzer) ────────────── */

@@ -52,6 +52,8 @@ const COLUMN_HEIGHT_PT = 560 // usable column height (680 - 60×2 - 20 header/fo
 const WORDS_PER_COL_LINE = 8 // ~35 chars in narrow column
 const LINE_HEIGHT_PT = 11.6 // 8pt × 1.45
 const PARA_MARGIN_PT = 6 // bottom margin per paragraph
+const MIN_SPLIT_LINES = 2
+const MIN_SPLIT_HEIGHT_PT = LINE_HEIGHT_PT * MIN_SPLIT_LINES
 
 // ── Types ─────────────────────────────────────────────────────────────────────
 interface BaseSegment {
@@ -68,6 +70,7 @@ interface ParagraphSegment extends BaseSegment {
   type: 'paragraph'
   html: string
   isChapterOpener?: boolean
+  isFiction?: boolean
 }
 interface BlockquoteSegment extends BaseSegment {
   type: 'blockquote'
@@ -206,6 +209,8 @@ function parseChapter(
     .replace(/-/g, ' ')
     .replace('.md', '')
   let firstParagraph = true
+  let pendingFiction = false
+  let fictionBlock = false
   const segments: Segment[] = []
 
   // Inline markdown images are rare in this corpus; they're handled via the
@@ -216,6 +221,20 @@ function parseChapter(
 
   // Walk top-level nodes
   for (const node of tree.children) {
+    if (node.type === 'html') {
+      const raw = (node as { value?: string }).value ?? ''
+      if (/<!--\s*FICTION_START\s*-->/i.test(raw)) {
+        fictionBlock = true
+      }
+      if (/<!--\s*FICTION_END\s*-->/i.test(raw)) {
+        fictionBlock = false
+      }
+      if (/<!--\s*FICTION\s*-->/i.test(raw)) {
+        pendingFiction = true
+      }
+      continue
+    }
+
     if (node.type === 'heading') {
       const h = node as Heading
       const text = toText(h)
@@ -231,11 +250,14 @@ function parseChapter(
       const html = nodeToHtml(node)
       const text = toText(node)
       const isChapterOpener = firstParagraph && chapterIndex > 0
+      const isFiction = fictionBlock || pendingFiction
       firstParagraph = false
+      pendingFiction = false
       segments.push({
         type: 'paragraph',
         html,
         isChapterOpener,
+        isFiction,
         heightPt: textHeightPt(text),
       })
     } else if (node.type === 'blockquote') {
@@ -334,6 +356,55 @@ function paginate(chapters: { title: string; index: number; segments: Segment[] 
     }
   }
 
+  function stripHtmlText(html: string): string {
+    return html
+      .replace(/<[^>]+>/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim()
+  }
+
+  function splitParagraphByAvailableHeight(
+    seg: ParagraphSegment,
+    availablePt: number,
+  ): [ParagraphSegment, ParagraphSegment] | null {
+    const totalText = stripHtmlText(seg.html)
+    if (!totalText) return null
+
+    const words = totalText.split(/\s+/).filter(Boolean)
+    if (words.length < 10) return null
+
+    const totalLines = Math.max(
+      1,
+      Math.ceil((seg.heightPt - PARA_MARGIN_PT) / LINE_HEIGHT_PT),
+    )
+    const availableLines = Math.floor(
+      Math.max(0, availablePt - PARA_MARGIN_PT) / LINE_HEIGHT_PT,
+    )
+
+    if (availableLines < MIN_SPLIT_LINES) return null
+    if (totalLines - availableLines < MIN_SPLIT_LINES) return null
+
+    const splitIdx = Math.floor((words.length * availableLines) / totalLines)
+    if (splitIdx < 3 || words.length - splitIdx < 3) return null
+
+    const headText = words.slice(0, splitIdx).join(' ').trim()
+    const tailText = words.slice(splitIdx).join(' ').trim()
+    if (!headText || !tailText) return null
+
+    const head: ParagraphSegment = {
+      ...seg,
+      html: `<p>${headText}</p>`,
+      heightPt: textHeightPt(headText),
+    }
+    const tail: ParagraphSegment = {
+      ...seg,
+      html: `<p>${tailText}</p>`,
+      heightPt: textHeightPt(tailText),
+      isChapterOpener: false,
+    }
+    return [head, tail]
+  }
+
   function addSegment(seg: Segment, chTitle: string, chIdx: number) {
     // Ensure current page matches the chapter
     if (currentPage.chapterTitle !== chTitle && currentPage.segments.length > 0) {
@@ -344,10 +415,60 @@ function paginate(chapters: { title: string; index: number; segments: Segment[] 
       currentPage.chapterIndex = chIdx
     }
 
+    // Rule: every ## section heading starts on a new page.
+    if (seg.type === 'heading' && (seg as HeadingSegment).level === 2) {
+      if (currentPage.segments.length > 0 || colNum !== 0 || colFill > 0) {
+        flush()
+        currentPage = newPage(pageNumber, chTitle, chIdx)
+      }
+      colFill = 0
+      colNum = 0
+    }
+
     // Headings: keep with next content — simple approach: don't break heading at column bottom
     const willOverflow = colFill + seg.heightPt > COLUMN_HEIGHT_PT
 
     if (willOverflow) {
+      const availablePt = COLUMN_HEIGHT_PT - colFill
+
+      // Paragraph continuation logic:
+      // - left column: allow paragraph to continue into right column if both sides
+      //   can hold at least 2 lines.
+      // - right column: split paragraph so tail continues on next page, again with
+      //   at least 2 lines on each side.
+      if (seg.type === 'paragraph') {
+        if (colNum === 0) {
+          const split = splitParagraphByAvailableHeight(
+            seg as ParagraphSegment,
+            availablePt,
+          )
+          if (split) {
+            const [head, tail] = split
+            currentPage.segments.push(head)
+            nextColumn()
+            addSegment(tail, chTitle, chIdx)
+            return
+          }
+        }
+
+        if (colNum === 1) {
+          const split = splitParagraphByAvailableHeight(
+            seg as ParagraphSegment,
+            availablePt,
+          )
+          if (split) {
+            const [head, tail] = split
+            currentPage.segments.push(head)
+            flush()
+            currentPage = newPage(pageNumber, chTitle, chIdx)
+            colFill = 0
+            colNum = 0
+            addSegment(tail, chTitle, chIdx)
+            return
+          }
+        }
+      }
+
       if (seg.type === 'heading') {
         // Move heading to next column/page so it stays with content
         nextColumn()

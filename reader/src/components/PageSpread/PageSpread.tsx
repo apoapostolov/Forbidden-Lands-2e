@@ -20,12 +20,15 @@ export default function PageSpread({ page, side }: PageSpreadProps) {
   const hasChapterHeading = page.segments.some(
     (seg) => seg.type === 'heading' && 'level' in seg && seg.level === 1,
   )
+  const hasSectionHeading = page.segments.some(
+    (seg) => seg.type === 'heading' && 'level' in seg && seg.level === 2,
+  )
 
   return (
     <PageBackground side={side}>
       {/* PageHeader removed — using PageHeaderBanner for book-accurate layout */}
-      <PageHeaderBanner showChapterOverlay={hasChapterHeading} />
-      <PageContent segments={page.segments} />
+      {!hasSectionHeading && <PageHeaderBanner showChapterOverlay={hasChapterHeading} />}
+      <PageContent segments={page.segments} sectionHeadingPage={hasSectionHeading} />
       <PageFooter
         pageNumber={page.pageNumber}
         side={side}

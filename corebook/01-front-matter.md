@@ -58,6 +58,8 @@ Martin Duneland, Carl-Johan Svensson, Karin Tidbeck, Olle Sahlin, Fredrik Johans
 
 ---
 
+<!-- FICTION_START -->
+
 Did you hear the story of the Forbidden Lands? Beyond the mountains, beyond the mists of the north? Once, it was called the Ravenland, our promised land. These days, strange creatures haunt those valleys, beasts that should not be, for the land is cursed.
 
 Once, Zygefor the Spellbinder was one of us, leading the passage through the mountains into the new land. But when faced by the savage orcs, he opened dark gates to seek the help of demons. That was his undoing. Zygefor turned on us and placed himself on the throne of the Ravenland, his daughter Therania by his side.
@@ -69,6 +71,8 @@ To this day, the demon-king and his daughter still rule there. Using the feared 
 Yet, not all is lost. For now, the Blood Mist has lifted and there are those who dare defy the demon-king and his daughter. Adventurers. Treasure hunters. Scoundrels. Not heroes, far from it, but men and women who dare travel the land as they choose and make their own mark on it, unbound by any fate or story set for them. They hunt for ancient treasures, they fight whomsoever gets in their way, they build a new world for themselves on the ruins of the old.
 
 They are the raiders of the Forbidden Lands.
+
+<!-- FICTION_END -->
 
 ### FORBIDDEN LANDS
 

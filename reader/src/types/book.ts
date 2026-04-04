@@ -25,6 +25,7 @@ export interface ParagraphSegment extends BaseSegment {
   type: 'paragraph'
   html: string
   isChapterOpener?: boolean
+  isFiction?: boolean
 }
 
 export interface BlockquoteSegment extends BaseSegment {

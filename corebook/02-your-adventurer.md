@@ -153,6 +153,8 @@ The elders say you are the dark brothers of the halflings. Like you give a shit!
 
 ### DRUID
 
+<!-- FICTION -->
+
 _Ever since the god Clay shaped the world, you and the brothers and sisters of your order have been tasked with safeguarding nature. You maintain the balance of the world. Your hand can be gentle or cruel, depending on what the situation requires, but you always act with respect and exercise judgment. You hold the forces of nature in your hands - the earth, the weather, the plants and the animals all listen to your voice. You are a Druid._
 
 - **KEY ATTRIBUTE**: Wits
@@ -174,6 +176,8 @@ _Ever since the god Clay shaped the world, you and the brothers and sisters of y
   - **Resource Dice**: Food D8, Water D8
 
 ### FIGHTER
+
+<!-- FICTION -->
 
 _You have followed the way of the sword as long as you can remember. Wiped the blood of countless enemies from your blade. Felt many wounds heal into ugly scars on your body. You fear battle, yet you yearn for it. The battle is your life. Your task is to protect your weaker friends from all enemies and you take that task very seriously - but the truth is, you live for the thrill of battle itself. When the fight is over, you clean your blade and get ready for the next fray. You are a Fighter._
 
@@ -197,6 +201,8 @@ _You have followed the way of the sword as long as you can remember. Wiped the b
 
 ### HUNTER
 
+<!-- FICTION -->
+
 _The wild lands are your home. In the forests and the mountains, on the open plains and by the winding rivers - that's where you find inner peace. People say that the wilds are dangerous, that they are evil. Granted, you have seen the monsters that roam the lands. But you know how to move unseen and unheard, and to kill effectively if you need to. And when you bring home your prey to the camp and it's time to eat, no one is complaining. You are a Hunter._
 
 - **KEY ATTRIBUTE**: Agility
@@ -219,6 +225,8 @@ _The wild lands are your home. In the forests and the mountains, on the open pla
 
 ### MINSTREL
 
+<!-- FICTION -->
+
 _When the road is long, when the wind is fierce or the night is black, everyone needs a light in the darkness. A reminder of past deeds or treasures waiting to be found. Whether through song, poetry or prose, it's your job to spread a little hope and joy by the campfire. You have the ability to chase away despair and inject courage and hope into the hearts of your friends. And if you should all one day meet your final fate, your chronicles will let the world know of your adventures. You are a Minstrel._
 
 - **KEY ATTRIBUTE**: Empathy
@@ -240,6 +248,8 @@ _When the road is long, when the wind is fierce or the night is black, everyone 
   - **Resource Dice**: Food D8, Water D6
 
 ### PEDDLER
+
+<!-- FICTION -->
 
 _Bargaining, buying for little and selling for more, turning two silvers into three, has always been your way to survive. While the Blood Mist lay thick across the lands, trade between the villages was limited and very local. Now, the mist has lifted, and the Forbidden Lands and its treasures are yours for the taking or buying, then selling to the highest bidder. You are a Peddler._
 
@@ -264,6 +274,8 @@ _Bargaining, buying for little and selling for more, turning two silvers into th
 
 ### RIDER
 
+<!-- FICTION -->
+
 _The legends say that the animals in ancient time mocked the humans for having only two legs. For that reason, your ancestors allied themselves with the horses on the great plains. Now, you have six legs together and hands to wield spear and bow. You ride faster than anyone, you strike, and you are gone before the enemy has realized what happened. You love the open plains as the fiery blood of Aslene runs through your veins. You are a Rider._
 
 - **KEY ATTRIBUTE**: Agility
@@ -286,6 +298,8 @@ _The legends say that the animals in ancient time mocked the humans for having o
 
 ### ROGUE
 
+<!-- FICTION -->
+
 _No one will ever give you what you wish for. To get what you want, you will have to take it for yourself. This is a lesson that you learned at a young age, and already as a child you became very skilled at liberating others from belongings that you needed more. Before, people used to spit at you and kick you. Now, as an adventurer with the Forbidden Lands at your feet, your expertise in the arts of moving silently in the shadows has become highly sought after. You are a Rogue._
 
 - **KEY ATTRIBUTE**: Agility
@@ -307,6 +321,8 @@ _No one will ever give you what you wish for. To get what you want, you will hav
   - **Resource Dice**: Food D6, Water D6
 
 ### SORCERER
+
+<!-- FICTION -->
 
 _Let them stare at you in fear and disgust. Let them shy away from you, afraid that your dark arts will infect them. They fear you, but they need you. Who else can force nature itself to bend to their will? Who else can make fire roar, water freeze and the earth shake? You, and only you, have seen what is beyond the veils of the world and stared into the inner core of existence. This insight is your burden to bear, so that others don't have to. You are a Sorcerer._
 
