@@ -1,0 +1,642 @@
+## JOURNEYS
+
+> "Tonder lies Feulenmark, where my people once ruled," said Phinia, caressing the forest below them with her gesture. "It would be wise to cross the Seyster before nightfall to reach Klondervale. I know a druid there that will help us. He knows where we may safely barter with the lizardfolk."
+
+The Blood Mist has lifted. The demonic veil that rested heavily over the Forbidden Lands for three centuries, sucking the life out of anyone who wandered too far from home and hearth, has suddenly and inexplicably disappeared. You do not know why, but you do know what it means. You and other restless souls are finally free to leave your homes and travel far and wide through the Forbidden Lands, to explore and look for treasure and danger in ruins from ages past. This chapter explains how these processes work.
+
+### THE MAP
+
+The map of the Forbidden Lands found in the game box is the focus of the game when you, and your fellow adventurers, are out on a journey. The map is divided into hexagons, which are used to measure distances and govern movement. One hexagon is 10 kilometers across.
+
+#### TYPES OF TERRAIN
+
+The Forbidden Lands are divided into ten types of terrain. Each hexagon on the map has a certain type of terrain that is used to determine how difficult it is to move in the hexagon as well as what kind of random encounters can be faced.
+
+**RIVERS** are not a type of terrain in and of themselves, but they function as borders between hexes on the map. Fords and bridges can be used to pass over a river. If there are none, you need a raft or boat to cross a river, or swim across it. Read more about journeys on lakes and rivers below.
+
+**HIGH MOUNTAINS:** Hexagons with the terrain type HIGH MOUNTAINS block movement. It is impossible to move into these hexagons, and so they form a barrier around the Forbidden Lands.
+
+**THE IRON LOCK,** standing across the pass to Alderland, is also a barrier that blocks move ment completely.
+
+**THE STILLMIST** is a mythical place in the Elven domains of the north. Whatever hides in there is unknown to the humans of the Forbidden Lands, as well as what lies beyond it.
+
+> #### OTHER MAPS
+>
+>The map of the Forbidden Lands is just the beginning.
+>
+>More game maps of other areas will be published by Free League Publishing in the future. If you want to play in another fantasy world, perhaps even one of your own making, all you need to do is draw the map on an empty hexagon map and fill in the different types of terrain. Then you're ready to play!
+
+#### TERRAIN TYPES
+
+| TYPE           | MOVEMENT                | FORAGE | HUNT |
+| -------------- | ----------------------- | ------ | ---- |
+| Plains         | Open terrain            | -1     | +1   |
+| Forest         | Open terrain            | +1     | +1   |
+| Dark Forest    | Difficult terrain       | -1     | 0    |
+| Hills          | Open terrain            | 0      | 0    |
+| Mountains      | Difficult terrain       | -2     | -1   |
+| High Mountains | Impassable              | —      | —    |
+| Lake/River     | Requires a boat or raft | —      | 0    |
+| Marshlands     | Requires a raft         | +1     | -1   |
+| Quagmire       | Difficult terrain       | -1     | 0    |
+| Ruins          | Difficult terrain       | -2     | -1   |
+
+### DAILY CHECKLIST
+
+- Roll resource dice for water, food, and hygiene if you use that module.
+- Roll for weather.
+- Update your calendar.
+- Check time-sensitive effects such as critical injuries.
+
+### WEATHER
+
+Weather is an optional complication to the adventurers' hikes. If these rules are used, make three rolls each morning to determine the weather of the day: one roll each for Wind, Rainfall, and Temperature.
+
+**WIND**
+
+| D6  | FORCE  | EFFECT                                                                                                     |
+| --- | ------ | ---------------------------------------------------------------------------------------------------------- |
+| 1-2 | None   | MAKE CAMP +1                                                                                               |
+| 3-4 | Breeze | None                                                                                                       |
+| 5   | Gales  | MAKE CAMP -1                                                                                               |
+| 6   | Storm  | MAKE CAMP -2. For a Quarter Day, all player characters must succeed with an ENDURANCE roll to keep moving. |
+
+**RAINFALL**
+
+| D6  | RAINFALL                | EFFECT                                                                                                                                                                          |
+| --- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Clear skies             | LEAD THE WAY +1                                                                                                                                                                 |
+| 2-4 | None                    | None                                                                                                                                                                            |
+| 5   | Drizzle (rain or snow)  | LEAD THE WAY -1                                                                                                                                                                 |
+| 6   | Downpour (rain or snow) | LEAD THE WAY -2. For a Quarter Day, all player characters must succeed with an ENDURANCE roll to keep moving. In storms and downpours one roll is made, with a -2 modification. |
+
+**TEMPERATURE**
+
+| D6  | TEMPERATURE | EFFECT                                                                                                           |
+| --- | ----------- | ---------------------------------------------------------------------------------------------------------------- |
+| 1   | Hot         | Each HIKING player character must succeed with an ENDURANCE roll every Quarter Day not to get THIRSTY            |
+| 2-5 | Pleasant    | None                                                                                                             |
+| 6   | Cool        | All player characters who are not in a camp must succeed with an ENDURANCE roll every Quarter Day or become COLD |
+
+### EXPANDED WEATHER
+
+Each morning, make a D6 roll on the table below. Each effect stacks with the last rolled effect, and the result normally affects the weather for two days in a row. You can never feel safe for long - sudden changes can still strike because of a mishap, a random encounter, or whenever the GM deems it appropriate.
+
+#### HEAT EFFECTS
+
+HEAT represents how the air feels on the skin, not the thermometer. Start with the seasonal TEMP, then apply the weather result to adjust it. Convert TEMP into HEAT and apply modifiers from clothing, sleeping gear, fires, and exposure. Use HEAT to determine how often you must roll **ENDURANCE**, when cold sets in, and how thirst, hygiene, and sleep are affected.
+
+TEMP is the actual temperature. Around TEMP X is +/- 5 degrees Celsius or TEMP X x 20 +/- 10 degrees Fahrenheit. HEAT is instead what living warm-blooded beings feel as the temperature. Convert TEMP bonuses vs COLD to half that amount as bonus HEAT.
+
+
+#### SEASONAL TEMP
+
+| SEASON       | BASE TEMP / HEAT |
+| ------------ | ---- |
+| Summer       | 2   |
+| Spring, Fall | 1   |
+| Winter       | 0   |
+| Mountains    | -1   |
+
+| HEAT | EFFECT                                                                                                                                                          |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 4    | Roll an extra water resource die and a hygiene die every Quarter Day. No water makes you THIRSTY and SLEEPLESS. Sleeping on bare ground does not make you COLD. |
+| 3    | Roll an extra water resource die and a hygiene die once per day. Sleeping on bare ground does not make you COLD.                                                |
+| 2    | Sleeping on bare ground does not make you COLD.                                                                                                                 |
+| 1    | Roll ENDURANCE once every night to not become COLD, unless you have a fire.                                                                                     |
+| 0    | Roll ENDURANCE every Quarter Day to not become COLD.                                                                                                            |
+| -1   | Roll ENDURANCE every hour to not become COLD.                                                                                                                   |
+| -2   | Roll ENDURANCE every 15 minutes to not become COLD.                                                                                                             |
+
+#### TEMP MODIFIERS
+
+| D6  | CONVERT TO             | EFFECT                                                                                                 |
+| --- | ---------------------- | ------------------------------------------------------------------------------------------------------ |
+| 1-3 | Sun/Moon/Stars         | LEAD THE WAY +1. HIKING IN DARKNESS +1. If it replaces rain, the next Light Quarter Day is Fog.        |
+| 4   | Clouds                 | +1 TEMP if also Sun/Moon/Stars.                                                                        |
+| 5   | Strong Winds           | If TEMP is 0 or less, HEAT -1. MAKE CAMP -1. Weather changes faster; roll again after one Quarter Day. |
+| 6+  | Risk for Rain/Snowfall | Add +1 to the next day's weather roll. Each Risk stacks. Next day, roll D6 + the total Risk.           |
+
+Terrain affects the actual chance of precipitation. In mountains or near a coast, it can be 100%. In a desert, it might still be no rain.
+
+**On actual rain/snowfall:** MAKE CAMP -1. +1 to FORAGE for water.
+
+**If positive HEAT, then rain:** HEAT -1 (does not stack). Moisture can ruin sensitive items. If items vulnerable to moisture are exposed for at least 15 minutes, once per day roll item dice to see if they are damaged (each ⚔️ deals damage).
+
+**At zero or negative HEAT, then snowfall:** LEAD THE WAY -1 and FORCED MARCH -1.
+
+#### CLOTHES
+
+Clothes increase the body HEAT in conditions of low TEMP.
+
+| CLOTHES      | HEAT |
+| ------------ | ---- |
+| Soaked wet   | -2   |
+| Bare minimum | -1   |
+| Normal       | +0   |
+| Winter       | +1   |
+
+#### SLEEPING GEAR
+
+Sleeping Gear combines with Clothes when increasing body HEAT during REST and SLEEP.
+
+| SLEEPING GEAR | EFFECT                                                                  |
+| ------------- | ----------------------------------------------------------------------- |
+| Camp fire     | Up to +2 HEAT. As long as someone is STANDING GUARD it will not go out. |
+| Tent          | Protects you and your gear from rain. +2 to MAKE CAMP.                  |
+| No blanket    | -1 HEAT.                                                                |
+| Sleeping fur  | +1 HEAT.                                                                |
+
+### QUARTERS OF THE DAY
+
+During journeys, the day is divided into four Quarter Days, used to measure time in the game:
+
+- Morning
+- Day
+- Evening
+- Night
+
+At the start of every Quarter Day, each adventurer must choose one activity for the Quarter Day. No more than one activity can be performed at the same time, unless specified otherwise. Most activities can be performed by several PCs, but for a few activities, a single adventurer must be chosen. The various activities are explained in detail over the course of the coming sections.
+
+- **HIKE.** Must be done by all adventurers if you want to proceed on the game map.
+- **LEAD THE WAY.** Can be combined with HIKE, but can only be done by one adventurer in the group. Helping is not allowed.
+- **KEEP WATCH.** Can be combined with HIKE, but can only be done by one adventurer in the group. Helping is not allowed.
+- **FORAGE.** Can be done by several adventurers at the same time. Helping is allowed.
+- **HUNT.** Can be done by several adventurers at the same time. Helping is allowed.
+- **FISH.** Requires a river or a lake. Can be done by several adventurers. Helping is allowed.
+- **MAKE CAMP.** Only one adventurer may roll, but helping is allowed.
+- **REST.** Can be done by several adventurers at the same time. Occurs automatically when you SLEEP.
+- **SLEEP.** Can be done by several adventurers at the same time. When you SLEEP, you automatically REST at the same time.
+- **TRAIN.** Can be done by several adventurers at the same time if you have time, XP, and a teacher.
+- **CRAFT.** Can be done by several adventurers at the same time.
+- **REPAIR.** Can be done by several adventurers at the same time.
+- **SURVEY THE LANDS.** Can be done by several adventurers at the same time.
+- **EXPLORE.** Can be done by several adventurers at the same time.
+
+### HIKE
+
+Your journey through the Forbidden Lands progresses from hexagon to hexagon on the map. The rule of thumb is that you can hike two hexagons per Quarter Day in *OPEN TERRAIN* and one hexagon per Quarter Day in *DIFFICULT TERRAIN*. On horseback, your rate of movement increases to three hexagons per Quarter Day in *OPEN TERRAIN*. See the table below.
+
+Short breaks are included in the specified time, but if you stop for more than a few minutes along the way, you might not be able travel the entire distance. The GM has the final word.
+
+| TERRAIN   | ON FOOT             | ON HORSEBACK        |
+| --------- | ------------------- | ------------------- |
+| Open      | 2 Hexagons /Quarter | 3 Hexagons /Quarter |
+| Difficult | 1 Hexagon /Quarter  | 1 Hexagon /Quarter  |
+
+Certain hexes limit travel even if they would otherwise count as open terrain. In Dark Forests, Mountains, Marshlands, Quagmires, and Ruins, you can only hike 1 hex per Quarter Day. Lakes and Rivers require a boat or raft.
+
+#### VEHICLE SPEED
+
+Vehicles follow the same pacing as other travel unless noted below.
+
+**Cart or wagon:** A vehicle drawn by animals has a speed of 2 in normal terrain and 0 in difficult terrain (it cannot enter those hexes).
+
+**Road:** A well-maintained road increases travel speed to 3 per Quarter Day for all forms of travel.
+
+**Rowing:** Speed 2 per Quarter Day in a water hex, 1 if traveling a river upstream, or 3 if traveling it downstream.
+
+**Sailing:** Speed 3 per Quarter Day, affected by wind. Use rowing speed in rivers.
+
+#### FORCED MARCH
+
+You can hike for two of the four Quarter Days of the day without problem. If you need to, you can push yourselves and hike for a third Quarter Day. This requires that you all make *ENDURANCE* rolls. Failure means you suffer one point of damage to Agility and are unable to hike during the Quarter Day - instead, you must rest or sleep. If your *ENDURANCE* roll succeeds, you can choose to leave any stragglers behind and split up the group, or you can stay and wait.
+
+If you are in a real rush, you can even attempt to hike for a fourth Quarter Day in the day. In that case, you must roll for *ENDURANCE* again as outlined above, but the roll gets a -2 penalty. Observe that this automatically makes you sleepy, since you miss the necessary hours of sleep per day. Also, see Darkness, below.
+
+By default, you can hike for two Quarter Days before needing to roll for forced march. Apply the modifiers below to the number of hikes you can take before that roll. Any continuously forced march is made at a cumulative -2 modifier.
+
+| ITEM                   | # OF HIKES BEFORE ROLL |
+| ---------------------- | ---------------------- |
+| Drawn non-light weapon | -1                     |
+| Drawn large shield     | -1                     |
+| Negative MOVE items    | -1/point               |
+| Mounted\*              | +1                     |
+
+- This only applies to the rider; the mount can still not hike for more than 2 Quarter Days before you have to roll for **ANIMAL HANDLING**.
+
+If snowfall is active, apply -1 to all FORCED MARCH rolls. Each additional FORCED MARCH roll in the same day after the first is made at an extra -2 penalty.
+
+#### MOUNTS
+
+Horses and other mounts allow you to move faster through *OPEN TERRAIN*, but not in *DIFFICULT TERRAIN*. In addition, a riding animal can carry a number of normal items equal to its Strength doubled if you ride on it, and twice that if you lead it by the halter.
+
+A forced march (see above) is also possible while riding. Roll just like you did above, but use your *ANIMAL HANDLING* and the animal's Strength. If the roll fails, the animal goes lame. It cannot continue, and another successful *ANIMAL HANDLING* roll is required for the animal to recover and be able to travel the next day. If this roll fails, there are no options other than to put it down.
+
+#### FORCED MARCHING ON HORSEBACK
+
+Horses are more capable of long grueling marches than any kin. A horse can FORCE MARCH without making an ENDURANCE check as long as it has RESTED twice since it force marched; otherwise it makes ENDURANCE checks as normal. A horse can also make two FORCE MARCHES in succession (marching for four quarters straight) but then it becomes TIRED until it has RESTED for a full uninterrupted day; it still needs to make an ENDURANCE check during the second forced march.
+
+### LEAD THE WAY
+
+Every time you move on the map, you must appoint one person to *lead the way*. This individual is called the **pathfinder**. The pathfinder can *lead the way* and *hike* at the same time, but they cannot also *keep watch* (see below). Usually, the same person will act as pathfinder for an entire Quarter Day, but nothing stops you from changing the pathfinder whenever you enter a new hexagon.
+
+Every time you enter a new hexagon on the map, the pathfinder makes a **survival** roll, modified by the **pathfinder** talent if she has it. Success means you find a viable path into the hexagon and you move on without any problems. Failure means that you still enter the hexagon, but you suffer a mishap and must immediately roll on the table below.
+
+Apply the following modifiers when relevant:
+
+- +1 in Sun/Moon/Stars weather.
+- -1 in Darkness unless you have night vision.
+- -1 in Fog.
+- -1 during Snowfall.
+- -1 per Strong Wind when traveling by sea. If you roll a mishap at sea during Strong Wind, capsize on a failed roll.
+
+#### LEADING THE WAY MISHAPS
+
+| D66   | MISHAP            | EFFECT                                                                                                                                                                                                                                                                                                                                                                                         |
+| ----- | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 11-12 | Quicksand         | The ground gives way under your feet. You have walked into an area of quicksand. You are completely stuck, and you must roll MIGHT to escape. If you fail, you suffer 1 point of damage to Agility and must roll again. Whoever pulls free can help anyone who is still stuck. You also need to go around the treacherous area and won't make any progress on the map during this Quarter Day. |
+| 13-21 | Blocked Terrain   | The way forward is blocked by rocks, fallen trees, thick shrubbery, or flooding (depending on the terrain type in the hex). You must roll MIGHT or MOVE to be able to move forward. If you fail, you suffer one point of damage to Strength and must roll again. Anyone who rolls successfully can help anyone who did not. You won't make any progress on the map during this Quarter Day.    |
+| 22-26 | Lost              | You realize that you have walked in a circle. You are lost and won't make any progress on the map during this Quarter Day. Your pathfinder must also roll SURVIVAL successfully to find her way out of the hexagon. One roll can be made per Quarter Day.                                                                                                                                      |
+| 31-32 | Sprained Ankle    | Your pathfinder falls or twists her ankle and suffers a critical injury, equivalent to result 25-26 in the table for blunt trauma.                                                                                                                                                                                                                                                             |
+| 33-34 | Torn Clothes      | Your clothes are damaged. Your boots break or your robe rips on thorny plants or sharp rocks. You must roll for the effects of cold. Your clothes can be mended by making a successful CRAFTING roll.                                                                                                                                                                                          |
+| 35-36 | Landslide         | You are walking in rough terrain when the ground suddenly opens beneath your feet. You must roll MOVE - if you fail, you suffer an attack with four Base Dice and Weapon Damage 1 (blunt trauma).                                                                                                                                                                                              |
+| 41-45 | Downpour          | A massive rainfall or snow storm (depending on the time of year) catches you unawares. You must roll for the effects of cold. You must also seek shelter until the storm has passed and won't make any progress on the map during this Quarter Day.                                                                                                                                            |
+| 46-52 | Fog               | You are caught unawares by a thick fog. The distance you cover this Quarter Day is decreased by one hex. In difficult terrain, you're stuck in the hex you started. In addition, each adventurer suffers one point of damage to Empathy from the gloomy mist.                                                                                                                                  |
+| 53-54 | Wasps' Nest       | You step right into a nest of wasps. An angry swarm attacks the entire group. Each adventurer must make a MOVE roll or suffer an attack with four Base Dice, causing damage to Agility.                                                                                                                                                                                                        |
+| 55-61 | Mosquito Swarm    | A large swarm of mosquitoes or gnats attacks you, driving you crazy with their biting and buzzing. They attack with four Base Dice, causing damage to Empathy.                                                                                                                                                                                                                                 |
+| 62-64 | Savage Animal     | A wolf, bear or other wild animal feels threatened, and attacks you. The GM chooses an animal.                                                                                                                                                                                                                                                                     |
+| 65-66 | Persistent Animal | A squirrel, bird or other small animal follows you around and doesn't leave you alone. The animal causes trouble, described by the GM - it might make a noise at some inappropriate time, eat your food or steal something.                                                                                                                                                                    |
+
+#### DARKNESS
+
+In the dark, travel through the wilderness is dangerous. Getting lost or choosing the wrong path is an ever-present risk. A pathfinder without night vision gets a -2 penalty during the dark Quarter Days of the day. For each unexplored hex entered during darkness, everyone in the group without night vision must make a **SCOUTING** roll; failure means they fall and take one point of damage to Strength. In Sun/Moon/Stars weather, those HIKING IN DARKNESS rolls get +1.
+
+The winters are darker than the summers in the Forbidden Lands. In the winter, there is light only during the Day, while all the other Quarter Days are dark. In autumn and spring there is light in the Morning and Day, while the Evening and the Night are dark. In summer, darkness only reigns during the Night. See the table below.
+
+| LIGHT & DARKNESS | SPRING | SUMMER | AUTUMN | WINTER |
+| ---------------- | ------ | ------ | ------ | ------ |
+| Morning          | Light  | Light  | Light  | Dark   |
+| Daytime          | Light  | Light  | Light  | Light  |
+| Evening          | Dark   | Light  | Dark   | Dark   |
+| Nighttime        | Dark   | Dark   | Dark   | Dark   |
+
+#### BACK AGAIN?
+
+If you return to a hex on the map where you have been before, you don't need to make another roll to *lead the way*. It is up to you the players to keep track of where you have been during your journeys.
+
+### KEEP WATCH
+
+During every Quarter Day of your journey, you should also designate one adventurer in your group who is responsible for scouting for threats and enemies. The lookout can KEEP WATCH and HIKE at the same time, but can not LEAD THE WAY while doing so. A lookout is useful during every Quarter Day, even af ter you MAKE CAMP.
+
+You don’t need to have a lookout if you don’t want to, but without one you have no chance to spot threats before they are upon you. The scout comes into play when the GM rolls for a random encounter or introduces some other kind of threat.
+
+The rule of thumb is that the GM rolls on the random encounter table once every Quarter Day while you HIKE, and once per day if you re main in the same hexagon. Sometimes, the GM can choose to roll more or less frequently. If the random encounter is some sort of threat, the lookout makes a SCOUTING roll to detect it. Make a straight roll, not an opposed roll unless the threat is actively ambushing you. Success generally means that the lookout notices the threat while it’s still at a safe distance. You can then decide whether to show yourselves, set up an ambush, or to SNEAK away undetected. Failing the SCOUTING roll means that the threat is up
+close and personal before you notice it.
+
+Apply the following modifiers when relevant:
+
+- +2 if it is dark and only one side has dark vision.
+- -1 in Fog.
+
+#### LOOKOUT AND SCOUT MECHANICS
+
+For threats and enemies, the lookout can keep watch and hike at the same time, but cannot lead the way while doing so. A lookout is useful during every Quarter Day, even after you make camp. You don't need to have a lookout if you don't want to, but without one you have no chance to spot threats before they are upon you.
+
+The scout comes into play when the GM rolls for a random encounter or introduces some other kind of threat. Tables for random encounters, based on which type of terrain are relevant.
+
+#### HIKING ALONE
+
+If you journey alone in the Forbidden Lands, you may lead the way and keep watch at the same time. This is an exception to the rule that says these two actions cannot be combined.
+
+### CARRYING HELPLESS CHARACTERS
+
+If a character is helpless due to taking damage in combat or other reasons and unable to HIKE, and if there is no vehicle to carry them, allies can attempt to carry them as part of their HIKE journeying action. Allies cannot FORCE MARCH and carry a helpless character.
+
+Each ally who is carrying makes a MOVE check, and all allies sum up their ⚔️ successes. A medium-sized creature requires two ⚔️ successes to be carried, while a small creature without its luggage requires only one ⚔️ success. Gear that helps pull a wounded person through regular terrain, such as a travois, adds +2 bonus dice to each check. Difficult terrain and weather add negative modifiers to the check.
+
+### FORAGING
+
+If you are running out of provisions, you can spend a Quarter Day looking for edible plants and drinkable water. You cannot hike at the same time, so if you want to forage you have to stop in the hexagon that you are in.
+
+Several adventurers can *forage* at the same time. If you want to make separate rolls, you can't *forage* in the same location, which means that any mishaps will affect you individually. The alternative is that one of you *forages* and the others help her.
+
+To *forage*, you must choose whether you are looking for food or water. Then make a survival roll, modified by the terrain type. The roll is also modified by the time of year (see the table to the right).
+
+Apply these additional modifiers:
+
+- +1 if you forage in Marshland or Forest.
+- -1 if you forage in Plains, Dark Forest, or Quagmire.
+- -2 if you forage in Mountains or Ruins.
+- +1 in Spring (if you are not foraging for water).
+- +1 in Autumn (if you are not foraging for water).
+- -2 in Winter (if you are not foraging for water).
+- +1 if it is raining or snowing and you are foraging for water.
+- -1 if you are foraging for herbs (requires rank 2 **HERBALIST**).
+
+When looking for food, success means that you find a number of units of *vegetables* in the form of edible roots or plants, equal to the number of X you rolled. The *vegetables* can be cooked by a *chef* or at an *inn*, and are then turned into an equal amount of *food*. You can eat *vegetables* raw - you then consume a unit of *vegetables* instead of rolling your Resource Die for *food*. You need to do this within a day, or the *vegetables* will be spoiled.
+
+When looking for water, success means that you find enough drinkable water for everyone in your group to fill their water skins up to a D12 Resource Die, if they like.
+
+If your *forage* roll fails, you don't find any food or water and you suffer a mishap. Roll on the table to the left.
+
+#### FORAGING MISHAPS
+
+| D6  | MISHAP            | EFFECT                                                                                                                                                                                                                                                   |
+| --- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Poisonous         | You find one unit of *VEGETABLES*, but it is poisonous, something you only discover during your next meal. The poison in the *VEGETABLES* has a Potency of 3.                                                                                            |
+| 2   | Leeches           | Blood sucking leeches bite into your flesh and you suffer one point of damage to Strength. The leeches can be removed by making a successful *HEALING* roll. If you fail the roll you suffer another point of damage, but manage to get them off anyway. |
+| 3   | Sprained Ankle    | You fall or twist your ankle and suffer a critical injury, equivalent to result 25-26 in the table for blunt trauma.                                                                                                                                     |
+| 4   | Torn Clothes      | Your clothes are damaged. Your boots break or your robe snags on thorny plants or sharp rocks. You must roll for the effects of cold. Your clothes can be mended by making a successful *CRAFTING* roll.                                                 |
+| 5   | Savage Animal     | A wolf, bear or other wild animal feels threatened, and attacks you. The GM chooses an animal.                                                                                                                             |
+| 6   | Persistent Animal | A squirrel, bird or other small animal follows you around and doesn't leave you alone. The animal causes trouble, described by the GM - it might make a noise at some inappropriate time, eat your food or steal something.                              |
+
+#### SEASONS
+
+| SEASON | FORAGE |
+| ------ | ------ |
+| Spring | -1     |
+| Summer | 0      |
+| Autumn | +1     |
+| Winter | -2     |
+
+### HUNT
+
+Another way to find food during a journey is to *hunt*. You cannot *hike* at the same time as you *hunt*. However, several people can *hunt* at the same time. If you want to roll separately you cannot *hunt* in the same location, which means that any mishaps will affect you individually. An option is that one of you *hunts* and the others help.
+
+You can choose to *hunt* for one or two Quarters. If you hunt for one Quarter, you hunt for small game. If you hunt for two Quarters, you can hunt for large game. If you hunt for one Quarter, reroll results 5–6 on the hunting table below. If you hunt for two Quarters, reroll results 1–3. Reroll as long as needed to get a different result.
+
+Apply these terrain modifiers to the initial SURVIVAL roll:
+
+- +1 in Plains or Forest.
+- -1 in Mountains, Marshlands, or Ruins.
+
+You need some form of gear to *hunt* - either a ranged weapon or a hunting trap of some type. First, you must find your prey, which you can do by making a SURVIVAL roll (see the MASTER OF THE HUNT and HUNTING INSTINCTS talents in Chapter 4).
+
+Success means that you find some kind of prey. Roll on the table above to see what type of animal it is. If you roll multiple ⚔️, you can reroll on the hunting table once per extra ⚔️. You cannot go back to a previous result.
+
+To kill your prey you must roll again, this time for MARKSMANSHIP (if using a weapon) or SURVIVAL again (if you are using a trap). Modify the roll with the difficulty of the an imal, according to the table. You don’t need to fight the animal, rolling once is enough. Note that some animals cannot be caught
+with a trap.
+
+The table to the upper left indicates how many units of MEAT and PELTS your prey yields. The MEAT can be cooked by a CHEF or at an INN, and is then turned into an equal amount of FOOD. You can eat MEAT raw – you then con sume a unit of MEAT instead of rolling your Resource Die for FOOD. You need to do this within a day, or the MEAT will be spoiled. The PELTS can be turned into LEATHER by a TANNER, preferably at a TANNERY.
+
+If your first SURVIVAL roll fails, you suffer a mishap. Roll on the table to the lower left. If your second roll fails to kill your prey, it only means you don’t get the FOOD – unless it is a boar, in which case it immediately attacks.
+
+| D6  | ANIMAL | DIFFICULTY | REQUIREMENT    | MEAT | PELTS |
+| --- | ------ | ---------- | -------------- | ---- | ----- |
+| 1   | Mouse  | +1         | Weapon or trap | 1    | —     |
+| 2   | Crow   | 0          | Weapon         | 1    | —     |
+| 3   | Rabbit | +1         | Weapon or trap | 2    | 1     |
+| 4   | Fox    | -1         | Weapon or trap | 3    | 1     |
+| 5   | Boar\* | -1         | Weapon         | 4    | 2     |
+| 6   | Deer   | 0          | Weapon         | 5    | 3     |
+
+*Boars attack you if you fail.*
+
+#### HUNTING MISHAPS
+
+| D6  | MISHAP           | EFFECT                                                                                                                                                                                                |
+| --- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Sprained ankle   | You fall or twist your ankle and suffer a critical injury, equivalent to results 25-26 in the table for blunt trauma.                                                                                 |
+| 2   | Lost gear/weapon | You lose some of your hunting gear or a weapon. The GM decides which.                                                                                                                                 |
+| 3   | Torn Clothes     | Your clothes are damaged. Your boots break or your robe rips on thorny plants or sharp rocks. You must roll for the effects of cold. Your clothes can be mended by making a successful CRAFTING roll. |
+| 4   | Trap             | You step into another hunter's trap. It could be a snare, a net, or a covered pit. You suffer one point of damage to Strength and must make a MOVE roll to get out of the trap.                       |
+| 5   | Savage Animal    | A wolf, bear or other wild animal feels threatened, and attacks you. The GM chooses an animal.                                                                            |
+| 6   | Sick Prey        | You bring down a random animal, but is sick and whoever eats of its flesh is infected by a disease with a Virulence rating of 3. This is discovered during your next meal.                            |
+
+### FISH
+
+If you are in a hexagon by a river or lake or by the ocean you can *FISH*. If you are on foot, you cannot *HIKE* while *FISHING*, but you can *FISH* from a moving boat. Several people can *FISH* at the same time. If you want to roll separately you cannot *FISH* in the same location, meaning that any mishaps will affect you individually. Alternative ly, one of you FISHES and the others help. To FISH, you need fishing gear. Make a SURVIVAL roll modified by
+the FISHER talent and any Gear Bonus from your fishing gear.
+
+Success means you catch a number of units of FISH equal to the number of ⚔️ you rolled. The FISH can be cooked by a CHEF or at an INN, and is then turned into an equal amount of FOOD. You can eat FISH raw - you then consume a unit of FISH instead of rolling your Resource Die for FOOD. You need to do this within a day, or the FISH will be spoiled. If your roll fails, you don’t catch any FISH and you also suffer a mishap. Roll on the table above. If you use the "Pushed long time rolls" module, you also suffer a mishap if you push and fail to add any ⚔️.
+
+#### FISHING MISHAPS
+
+| D6  | MISHAP              | EFFECT                                                                                                                                                          |
+| --- | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Snagged Hook/Net    | Your hook or net snags on the bottom. You must make a *MIGHT* roll to be able to retrieve your fishing gear. If you fail, it is lost.                           |
+| 2   | Hook in Finger      | You manage to pierce your own finger with the hook, instead of hooking a fish. You suffer one point of damage to *Strength*. Reroll if fishing with a net.      |
+| 3   | Broken Fishing Gear | Your fishing gear breaks. You need to repair it (a *CRAFTING* roll) or get new gear.                                                                            |
+| 4   | Mosquito Swarm      | A large swarm of mosquitoes or gnats attacks you, driving you crazy with their bites and buzzing. They attack with four Base Dice, causing damage to *Empathy*. |
+| 5   | Splash!             | You lose your balance and fall into the water. See rules for swimming and drowning.                                                                             |
+| 6   | Attacked            | A vicious fish or eel attacks you, causing a nasty bleeding wound. You suffer one point of damage to *Strength*.                                                |
+
+### SURVEY THE LANDS
+
+When traveling the lands, you can survey for valuable features of the terrain by spending a Quarter Day in the same hex and making a **SCOUTING** roll. If you are in a water hex you must have a boat to survey the lands, unless you have the **DIVER** talent.
+
+If you fail, roll a mishap. If you are in a boat, roll for a Sea Travel mishap; otherwise roll on the table below.
+
+On a success, make a roll for a feature. The GM makes a roll for a complication. You will find tracks or other signs from any complication in time, unless otherwise stated in the complication. A complication will use, guard, or have laid claims to the feature if there is any. Use the feature and complication tables available for this module.
+
+On a pushed success, any complication spots the party before you find any tracks of it. It can choose to ambush the party, or make itself known. A complication can call for aid within the Quarter Day, and may become larger or more organized.
+
+You may not survey the lands while on an Ice Cap or Sea Ice tile. Rivers are scouted with their first nearby hex.
+
+#### SURVEY MISHAPS
+
+| D6  | MISHAP IN LAND HEX/WATER HEX | EFFECT                                                                                                                                                                |
+| --- | ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Lost/Floated ashore          | Roll **SURVIVAL** each Quarter Day to be able to leave your current hex.                                                                                              |
+| 2   | Torn clothes                 | Your clothes are damaged. Roll for the effects of COLD.                                                                                                               |
+| 3   | Wounded foot                 | You suffer a critical injury, equivalent to results 25-26 for blunt trauma.                                                                                           |
+| 4   | Leeches                      | Roll **HEALING**. If you succeed you take 1 Strength damage, otherwise you take 2.                                                                                    |
+| 5   | Savage animal                | A wolf, bear, crocodile, shark, or other wild animal feels threatened and attacks you.                                                                                |
+| 6   | Watched                      | Something is watching and you feel forced to abandon the survey. For 2D6 days (hidden roll), any successful Survey in this hex allows any complication to ambush you. |
+
+#### MORE TERRAIN FEATURES
+
+**Next to river or lake (not ocean):** Hunt +0. Allows fishing. You may forage water even on a failure, but then everyone doing so must roll against disease with virulence rating 3 unless boiled.
+
+**Next to river only:** Allows construction of a water mill. Halve the construction time for the moat stronghold location. Irrigation grants a +2 bonus to construct the field and garden stronghold locations.
+
+**Lake/Ocean:** Hunt +0. Allows fishing. Requires boat or raft.
+
+**Plains:** Forage -1, Hunt +1.
+
+**Forest:** Forage +1, Hunt +1. -2 to construct wind mills.
+
+**Dark forest:** Forage -1, Hunt +0. Difficult terrain. -2 to construct wind mills. Constructing a field, garden, or pasture stronghold location requires warm weather, and a failed roll creates an uncontrolled forest fire that destroys most flammable things in the hex and can spread to adjacent hexes depending on upcoming weather.
+
+**Hills:** Forage +0, Hunt +0. +2 to construct wind mills. Ramparts or palisades receive an automatic +1 to defense rating. Double construction time to construct a field or garden stronghold location. Wells must be built as cisterns and use 10 times the materials and take months instead of weeks to complete.
+
+**Mountains:** Forage -2, Hunt -1. Difficult terrain. +2 to construct Quarry. Cannot hold field, garden, fence, or pasture stronghold locations. Ramparts or palisades receive an automatic +1 to defense rating. Wells must be built as cisterns and use 10 times the materials and take months instead of weeks to complete.
+
+**Marshlands:** Forage +1, Hunt -1. Allows fishing. Requires boat or raft. -1 to construct any stronghold location, except moat. You may forage for purple shells except in winter. Diving requires an **ENDURANCE** roll at -2 unless you have **DIVER**. If the temperature is cold, roll for COLD. For each success on a dive, you find a shell worth 6D6 silver and 1 unit of MEAT. A mishap can result in a surprise crocodile attack.
+
+**Quagmire:** Forage -1, Hunt +0. Difficult terrain. -1 to construct any stronghold location, except moat. A quarry can possibly yield peat instead of stone; the peat is a LIGHT resource and can be used as fuel. If you are a **TANNER**, you can make a **SURVIVAL** roll to have the Quagmire function as a root cellar or a tannery. Do this just like if you were constructing the location, but eschew the material costs.
+
+**Ruins:** Forage -2, Hunt -1. Difficult terrain. -2 to construct the field stronghold location. Counts as a free quarry for stone. When constructing a stronghold location, you only need half the amount of stone, as you can reuse old building blocks.
+
+**Ashlands:** Any found water will be undrinkable or poisonous. Cannot construct well. Can count as a free quarry for volcanic ash.
+
+**Firelands:** Forage -2. Forage for water yields poisonous water. Cannot construct well or root cellar. Any activities requiring digging are reduced to half speed and need a roll against an extra Gear Die per week. Any X means the ground yields a flow of semi-molten rock. Roll a Gear Die for each nearby worker; on X they become covered in molten rock. NPCs are automatically killed, while player characters roll for a fire based Critical Injury.
+
+**Crimson Forest:** Forage +1, Hunt +1. Consuming anything edible or drinkable found comes with the risk of contracting Crimson Sickness.
+
+**Tundra:** Forage -1, Hunt +1. Cannot hold field, garden, fence, or pasture stronghold locations. If you use the "New quarry feature" module, then any found resource is black sand from the Bitter Reach. This cannot be used as normal sand, like to make glass, but 4 units can be made into 1 unit of Iron on a successful **CRAFTING** roll by a **SMITH**. A quarry here also has a high chance of finding peat.
+
+**Ice Cap:** Hunt -1. Difficult terrain, unless snowshoes, skis, or sled.
+
+**Beneath the ice:** Difficult terrain.
+
+**Ice Forest:** Forage -1, Hunt +0. Counts as a free quarry for Stone (petrified wood). Cannot hold the field, garden, fence, or pasture stronghold locations.
+
+**Sea Ice:** Hunt +0. Very difficult terrain. Snowshoes, skis, sled, or boat can partially help.
+
+### MAKE CAMP
+
+When the journey of the day is over, it's time to make camp. Finding a good location for a camp, making a fire, and preparing where to SLEEP takes a whole Quarter Day – usually the Evening. Only one person rolls to MAKE CAMP, but others can help her.
+
+Make a SURVIVAL roll, modified by the QUARTERMASTER talent. If your roll succeeds, you find a sheltered and comfortable place to spend the night, where you can all rest up be fore the next day’s journey.
+
+Additional ⚔️ successes after the first provide the following:
+
+- The party can recover additional points of damage from all their attributes (see Recover).
+- The camp is well hidden from enemies trying to track the party down. The enemies must succeed at a SCOUTING roll and match or exceed the number of ⚔️ successes of the MAKE CAMP roll. If they do not, a camp encounter is averted.
+
+If your roll fails, your camp is less pleasant. You still set up a camp where you can REST and SLEEP, but the GM makes a hidden roll on the mishap table below. The GM can spring this mishap on you anytime she wants while you are in the camp.
+
+#### STANDING GUARD
+
+The wilderness is a dangerous place and even while you are in your camp, you need a sentry to stay awake to *keep watch* (see above). You need to choose who stands guard during the Night, and let this person *sleep* during some other Quarter Day (usually the Evening).
+
+#### MAKING CAMP MISHAPS
+
+| D66   | MISHAP         | EFFECT                                                                                                                                                                                                                                                                                                                                                |
+| ----- | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 11-13 | Spoiled Water  | The water you are carrying has spoiled. Everyone in the group must reduce their Resource Die for water by one step.                                                                                                                                                                                                                                   |
+| 14-16 | Rotten Food    | Your food has rotted or been infected by insects. Everyone in the group must reduce their Resource Die for food by one step.                                                                                                                                                                                                                          |
+| 21-25 | Bad Campsite   | Your campsite turns out to be very uncomfortable to sleep in. No one in the group gets any **SLEEP** at all until you have found a new campsite.                                                                                                                                                                                                      |
+| 26-32 | Downpour       | A massive rainfall starts in the middle of the night. The camp is flooded and everything gets soaking wet. All adventurers must roll for the effects of cold, and no one gets any **SLEEP** this night.                                                                                                                                               |
+| 33-36 | Fire Dies      | The firewood is wet, and your campfire goes out. Everyone in the group must roll for the effects of cold.                                                                                                                                                                                                                                             |
+| 41-42 | Fire!          | Suddenly, the flames from your campfire spread out of control. Your tents, sleeping furs and other gear catch fire. Each adventurer suffers an attack with five Base Dice (Weapon Damage 1). Each adventurer must also make a **MOVE** roll to save their gear. Failure means that one piece of equipment (the GM decides which) is lost in the fire. |
+| 43-45 | Ants           | Your camp sits in the middle of an ant road. You all suffer one point of damage to Agility and no one gets any *sleep* here.                                                                                                                                                                                                                          |
+| 46-51 | Lice           | A randomly selected adventurer has caught lice. It itches horribly, and she gets a rash all over the body. The victim suffers one point of damage to Agility each day and cannot *sleep*. A successful **healing** roll stops the effect.                                                                                                             |
+| 52-54 | Mosquito Swarm | A large swarm of mosquitoes or gnats attacks the camp, driving everyone crazy with their bites and buzzing. They attack all adventurers with four Base Dice, causing damage to Empathy.                                                                                                                                                               |
+| 55-56 | Savage Animal  | A wolf, bear or other wild animal feels threatened, and attacks you. The GM chooses an animal.                                                                                                                                                                                                                        |
+| 61-63 | Lost Gear      | A randomly selected adventurer has lost a piece of gear. The GM decides what was lost, and if it can be found.                                                                                                                                                                                                                                        |
+| 64-66 | Broken Gear    | An item belonging to a randomly selected adventurer is broken. The GM decides what item it is. The item can be repaired with a **crafting** roll.                                                                                                                                                                                                     |
+
+### REST
+
+Resting by the campfire is a good opportunity to recover from damage. If your *rest* is interrupted by something dramatic, like combat or other similar activity, your activity during the Quarter Day no longer counts as REST.
+
+While you REST, you may also spend XP as long as you are not acquiring new talents or spells. If you want to acquire a new skill this way, you must have successfully used it during the session.
+
+Once per Quarter Day, and at any time during that Quarter Day, you may take a 15-minute *short break*. You may take this *short break* even if you perform some other activity that uses up that whole Quarter Day; it will not affect that action.
+
+During a *short break*, you may roll resource dice to restore attributes, see below. No attribute can be restored more than 1 point during a *short break*.
+
+**Restore 1 Strength:** Roll a resource die for food or alcohol (beer, ale, mead, wine, or liquor). Note that while alcohol can be used to restore Strength this way, you need to consume a full resource on purpose for it to have any effect on staving off HUNGER.
+
+**Restore 1 Agility:** Roll a resource die for water. Note that while undistilled alcohol can be treated as a water resource for avoiding thirst, it will not restore Agility.
+
+**Restore 1 Empathy:** Roll a resource die for liquor, or rank 3 Chef food/alcohol.
+
+**Restore 1 Wits:** Roll a resource die for tobacco.
+
+**Restore 1 Willpower:** Roll a resource die for narcotics. Cannot restore Willpower above the Potency of the narcotics; common narcotics might have a base potency of 2.
+
+#### RECREATIONAL DRUGS
+
+If you don't use the new stronghold functions modules, like that for "Brewery", then you need some other source for these. These recreational drugs work well together with the "Short break" module, but it does not require it.
+
+**Becoming intoxicated:** Whenever you roll a resource die to take some sips from alcoholic beverage or use narcotics, you must roll a successful **ENDURANCE** roll, or become INTOXICATED for a Quarter Day. You may on purpose roll extra resource dice, each then requiring an extra X on the **ENDURANCE** roll. Or you may consume a whole resource die without rolling it, to automatically become INTOXICATED.
+
+**Beer/Ale/Mead/Wine:** These resources can be used instead of water to quench thirst. If it tastes good and not poor, then it also restores Empathy, just like if a rank 3 **CHEF** had made food. See INTOXICATED.
+
+**Liquor:** Can be used as a resource die to restore Empathy, just like if a rank 3 **CHEF** had made food. If you use the "Add resource die to rolls" module, it can also be used as a resource die when performing a **HEALING** roll to save a life. See INTOXICATED.
+
+**Tobacco:** No effect, unless you use the "Short break" module.
+
+**Narcotics:** See **Becoming intoxicated** above. Otherwise, no effect, unless you use the "Short break" or the "Apothecary" talent module.
+
+**New Condition: INTOXICATED**
+When you use an alcohol or narcotics resource, you can become INTOXICATED, see **Becoming intoxicated** above. If you become INTOXICATED while already INTOXICATED, you break your Agility and begin to vomit uncontrollably. Being INTOXICATED has several effects:
+
+- Each time you become INTOXICATED, take 1 Agility damage.
+- Take a -2 penalty to all skills.
+- Always roll your full dice pool, even if your attributes have been reduced by damage.
+- After a Quarter Day, remove INTOXICATED.
+
+**Note:** If you use the INTOXICATED condition, it synergizes with the "Solid drinker" talent. Also note that rolling your full dice pool while INTOXICATED means you still roll all Agility dice, even though you did take that damage. You are likely still at a loss though, since skills are reduced by 2.
+
+| MATERIAL        | SIZE   | SHELF-LIFE | SUPPLY   | PRICE      | CREATED FROM                     | TALENT        | TOOLS               |
+| --------------- | ------ | ---------- | -------- | ---------- | -------------------------------- | ------------- | ------------------- |
+| Ale, Poor       | Normal | One Week   | Common   | 0.5 silver | Grain                            | Chef          | Brewery             |
+| Beer, Poor      | Normal | One Month  | Uncommon | 1 silver   | Grain                            | Chef          | Oast House, Brewery |
+| Mead/Wine, Poor | Light  | One Year   | Uncommon | 1.5 silver | 1/4 Honey, 4 Vegetables          | Chef          | Brewery             |
+| Ale, Good       | Normal | One Week   | Uncommon | 1 silver   | Grain                            | Chef (Rank 3) | Brewery             |
+| Beer, Good      | Normal | One Month  | Rare     | 2 silver   | Grain                            | Chef (Rank 3) | Oast House, Brewery |
+| Mead/Wine, Good | Light  | One Year   | Uncommon | 3 silver   | 1/4 Honey, 4 Vegetables          | Chef (Rank 3) | Brewery             |
+| Liquor          | Tiny   | —          | Uncommon | 4 silver   | Mead/Wine, 2 Ale, 2 Beer         | Inventor\*    | Distiller or Still  |
+| Narcotics       | Tiny   | One Year   | Rare     | 5+ silver  | 2 Herbs                          | Poisoner      | Cauldron, Fire      |
+| Tobacco         | Tiny   | One Year   | Uncommon | 1.5 silver | Field (100 units per year)       | Herbalist     | Oast House          |
+| Pipe, Clay      | Tiny   | —          | Common   | 0.5 silver | A resource roll for Stone (clay) | —             | Fire                |
+
+- If you do not use the Inventor talent module, you may substitute this for another talent, like Chef.
+
+### TRAIN
+
+If you have the XP and a teacher, you can learn a new talent, a new skill, a new magical path, or increase a magical path. Without a teacher, you need a **WITS** roll to learn a new talent or a new path. If you use the "Wits to learn magic" module, all rolls to learn magical paths or spells are made with a penalty equal to the rank you try to attain.
+
+### CRAFT
+
+Things that take a full day to craft use two Quarter Days.
+
+### REPAIR
+
+You can attempt to repair up to three items in a Quarter Day.
+
+### SLEEP
+
+You have to *sleep* at least one Quarter Day per day (usually during the Night) to avoid becoming *sleepy*. If your *sleep* is interrupted by something dramatic, like combat or other similar activity, your activity during the Quarter Day no longer counts as *sleep*. *sleep* also counts as **rest**.
+
+#### BARE GROUND
+
+It is possible to *sleep* in the wilderness without *making camp* - you simply find a suitable tree to *sleep* under. You save the time it takes to *make camp*, but everyone in the group must make a **SURVIVAL** roll to find a good spot to *sleep*. Failure means the individual doesn't *sleep* at all, and thus becomes *sleepy*. Since you don't have a fire to keep the cold away, you all also suffer the effects of cold.
+
+At HEAT 0 or lower, sleeping on bare ground automatically fails **ENDURANCE** rolls made to avoid becoming COLD.
+
+### OPTIONAL RULES
+
+#### HYGIENE
+
+In the Ravenlands, survival is gritty and intimate. Mud cakes your boots, smoke clings to your hair, and weeks on the road leave more than calluses behind. The Hygiene Die makes that lived-in hardship matter without bogging the table down, turning grime into a tangible pressure you can feel in the story.
+
+This rule sharpens the campaign's flavor by rewarding small mercies: a bath at an inn, a clean shirt hung by the fire, a barber's quick trim before a tense parley. It nudges play toward the kind of hard, human choices the setting thrives on - whether to spend coin on comfort or save it for steel.
+
+Roll your hygiene die once per day. It can also be directly lowered by very unhygienic actions. If it becomes zero, you become FILTHY.
+
+You may regain your Hygiene die, up to a maximum of a D12 die (or 4D6 if you use the "Xd6 as resources" module), by taking the actions listed below. In general, you cannot take the same hygiene restoration action again, until you have lost at least one hygiene die.
+
+**Wash your clothes:** +1 hygiene die. Add another +1 hygiene die if you use soap or if you pay 5 copper for a professional washing. Wet clothes need a Quarter Day to hang dry or by a fire in order to dry.
+
+**Take a bath:** +1 hygiene die. If you do it during a summer or pay 3 copper for a bath at an inn, you avoid becoming cold from taking it. Add another +1 hygiene die if you use soap.
+
+**Haircut:** +1 hygiene die. Includes beard trim. Costs 5 copper.
+
+**Apply perfume:** +1 hygiene die. Likely not available if you don't use the "Inventor" module.
+
+**Sleep at an inn:** No added hygiene dice, but the basic hygienic actions you may take there is enough to not have to roll your hygiene die at the end of the day.
+
+**New Condition: FILTHY**
+If you use the "Hygiene" die, then as soon as you lose all your Hygiene die, you become FILTHY. Otherwise, your GM could perhaps give you the FILTHY condition from certain events. Like falling into a pile of manure? Or sleeping in the gutter after a too heavy night out? Being FILTHY has several effects:
+
+- You both smell and look awful. Take a -2 penalty to all **MANIPULATION** rolls against targets that aren't FILTHY.
+- You cannot help others or benefit from help from others.
+- Whenever you are BROKEN, you must roll against disease with a virulence rating of 4.
+- As soon as you can wash yourself and your clothes (or in other ways regain a Hygiene die, if you use the "Hygiene" module), you are no longer FILTHY, but any contracted diseases stay.
+
+### EXPLORE
+
+When you stop at an adventure site to *EXPLORE* it, your journey is interrupted. *EXPLORING* an adventure site can take anything from a Quarter Day up to several days or even weeks. Sometimes, you might have to take a break to *REST* or *SLEEP* while *EXPLORING*. You cannot *REST* or *SLEEP* during the same Quarter as you *EXPLORE*.
+
+##### SEA TRAVEL
+
+If you have access to a boat or raft, you can cross a river without using a bridge or a ford. You can also travel along a river, across a lake or on an ocean.
+
+Travel by sea works like journeys on land, but with some differences. Instead of a pathfinder, a boat has a *skipper*, who *LEADS THE WAY* (roll for *SURVIVAL* modified by the *SAIL* or talent) in each new hexagon. Failure takes you into the new hexagon anyway, but you must make a roll on the mishap table.
+
+#### SEA TRAVEL MISHAPS
+
+| D6  | MISHAP             | EFFECT                                                                                                                                                                                                                                      |
+| --- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Navigational Error | You sail off course and make no progress on the map during this Quarter Day.                                                                                                                                                                |
+| 2   | Sudden Squall      | A sudden squall makes your boat tilt suddenly. One important item falls into the water. The GM decides what it is.                                                                                                                          |
+| 3   | Whirlpool          | Your boat is caught in a whirlpool. The skipper must make a **SURVIVAL** roll (modified by the **SAILOR** talent). Failure means the boat runs aground and has to be repaired (a **CRAFTING** roll) before your journey can continue.       |
+| 4   | Leak               | Your boat springs a leak and takes on water. The leak must be repaired (a **CRAFTING** roll), which takes one turn (15 minutes), but your journey can continue while you do so. If the leak is not repaired, the boat sinks after D6 hours. |
+| 5   | Overboard          | Someone in the group (GM's choice) falls overboard after a large wave hits the boat. See rules for swimming and drowning.                                                                                                                   |
+| 6   | Grounding          | Your boat runs aground and must be abandoned or repaired with a **CRAFTING** roll. The boat must be on the shore to be repaired.                                                                                                            |
