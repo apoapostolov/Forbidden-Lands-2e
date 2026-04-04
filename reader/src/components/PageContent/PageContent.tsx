@@ -83,7 +83,16 @@ function renderSegment(seg: Segment, idx: number) {
 
 export default function PageContent({ segments }: PageContentProps) {
   return (
-    <main className={styles.columns} role="region" aria-label="Page content">
+    <main
+      className={styles.columns}
+      role="region"
+      aria-label="Page content"
+      // Stop pointer events from reaching the flip library so that the text
+      // area remains selectable/copyable. Clicks in the page margin padding
+      // (outside this element) still propagate and trigger the page turn.
+      onMouseDown={(e) => e.stopPropagation()}
+      onClick={(e) => e.stopPropagation()}
+    >
       {segments.map((seg, idx) => renderSegment(seg, idx))}
     </main>
   )

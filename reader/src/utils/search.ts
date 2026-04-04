@@ -48,7 +48,7 @@ function getSegmentText(segment: Segment): string {
 export function searchBook(
   bookData: BookData,
   query: string,
-  caseSensitive = false
+  caseSensitive = false,
 ): SearchMatch[] {
   if (!query.trim()) return []
 

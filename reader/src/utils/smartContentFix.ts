@@ -30,32 +30,27 @@ export function smartFixContent(html: string): string {
 
   // Wrap remaining colored emoji (⚔️) in a span with greyscale filter
   // This prevents them from standing out in a black-and-white book layout
-  const coloredEmoji = ['⚔️', '⚔', '🩸']
-  for (const emoji of coloredEmoji) {
-    const regex = new RegExp(
-      `(?!<[^>]*>${emoji})${emoji.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}`,
-      'g',
-    )
-    fixed = fixed.replace(regex, `<span class="emoji-grey">${emoji}</span>`)
-  }
+  // Use a single regex per emoji type to avoid double-wrapping when both the
+  // full emoji (⚔️ = ⚔ + U+FE0F variation selector) and bare codepoint appear.
+  fixed = fixed.replace(/⚔\uFE0F?/g, '<span class="emoji-grey">⚔</span>')
+  fixed = fixed.replace(/🩸/g, '<span class="emoji-grey">🩸</span>')
 
   // Ensure diamond bullets (✦) are rendered as proper list markers
   // If found in text (not XML), wrap in list structure
   if (fixed.includes('✦')) {
-    // Match lines starting with ✦ (item definitions in spell blocks, etc.)
-    // Convert to actual list items
+    // Step 1: Convert ✦-prefixed lines to properly closed <li> items.
+    // Capture everything after the ✦ marker to the end of the line.
     fixed = fixed.replace(
-      /^✦\s*/gm,
-      '<li class="diamond-bullet"><span class="diamond-marker">✦</span> ',
+      /^✦\s*(.+)$/gm,
+      '<li class="diamond-bullet"><span class="diamond-marker">✦</span> $1</li>',
     )
-    // Close any open lists
-    if (fixed.includes('<li class="diamond-bullet">')) {
-      fixed = fixed.replace(
-        /<li class="diamond-bullet">/g,
-        '<ul class="diamond-list"><li class="diamond-bullet">',
-      )
-      fixed = fixed.replace(/(<\/li>)(?!<li class="diamond-bullet">)/g, '$1</ul>')
-    }
+    // Step 2: Wrap consecutive runs of diamond-bullet <li> elements in a
+    // single <ul>. Items are separated only by whitespace/newlines.
+    // This produces a flat sibling list rather than deeply-nested lists.
+    fixed = fixed.replace(
+      /((?:<li class="diamond-bullet">[^\n]*<\/li>\n*)+)/g,
+      '<ul class="diamond-list">$1</ul>',
+    )
   }
 
   return fixed

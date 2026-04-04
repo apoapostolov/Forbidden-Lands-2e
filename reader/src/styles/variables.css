@@ -14,19 +14,19 @@
 :root {
   /* ── Page Colors (black ink on white paper — confirmed from visual PDF pages) ── */
   --page-bg: #ffffff;
-  --page-bg-dark: #fafaf9;      /* right-side page: almost identical */
+  --page-bg-dark: #fafaf9; /* right-side page: almost identical */
   --text-primary: #0d0d0d;
   --text-heading: #000000;
-  --text-accent: #0d0d0d;       /* no colour accent — all ink is black */
+  --text-accent: #0d0d0d; /* no colour accent — all ink is black */
   --border-ornamental: #222222;
-  --sidebar-bg: #f2f2f2;        /* callout box fills */
-  --rule-color: #222222;        /* thin section rules */
+  --sidebar-bg: #f2f2f2; /* callout box fills */
+  --rule-color: #222222; /* thin section rules */
   --spine-dark: #1a1a1a;
 
   /* ── Theme Colors (gold/brass accents for UI chrome) ── */
-  --accent-gold: #8b7355;       /* warm brass/gold for UI elements */
+  --accent-gold: #8b7355; /* warm brass/gold for UI elements */
   --accent-gold-light: #a88966; /* lighter gold for hover states */
-  --accent-gold-dark: #6b5745;  /* darker gold for active states */
+  --accent-gold-dark: #6b5745; /* darker gold for active states */
 
   /* ── Environment ── */
   --color-bg-deep: #1c1c1c; /* dark reading-room surround */
@@ -48,21 +48,22 @@
   /* Section / sub-section headings: IM_FELL_Double_Pica_Roma, IM_FELL_THREE_LINE_PICA */
   --font-heading: 'IM Fell Double Pica', 'IM Fell Great Primer', Georgia, serif;
   /* Chapter titles: IM_FELL_THREE_LINE_PICA (Google Fonts: IM Fell Three Line Pica SC) */
-  --font-chapter: 'IM Fell Three Line Pica SC', 'IM Fell Double Pica', 'IM Fell Great Primer', serif;
+  --font-chapter:
+    'IM Fell Three Line Pica SC', 'IM Fell Double Pica', 'IM Fell Great Primer', serif;
   /* Callout box / table headers: Branding-Medium substitute */
   --font-label: 'Libre Franklin', 'Franklin Gothic Medium', sans-serif;
   /* Small-caps labels: NorthwoodHigh-SC700 substitute */
   --font-small-caps: 'IM Fell Great Primer', Georgia, serif;
 
   /* ── Font Size Scale (exact pt values from PDF × 1.333 px/pt) ── */
-  --text-xs: 8px;     /* 6 pt   — footer watermark, tiny captions  */
-  --text-sm: 9px;     /* 6.75 pt — secondary captions               */
-  --text-base: 11px;  /* 8 pt   — primary body text (exact match)   */
-  --text-md: 12px;    /* 9 pt   — label / callout body              */
-  --text-lg: 15px;    /* 11 pt  — bold labels / table headers        */
-  --text-xl: 21px;    /* 16 pt  — section headings (THREE_LINE_PICA) */
-  --text-2xl: 31px;   /* 23 pt  — chapter titles  (THREE_LINE_PICA) */
-  --text-3xl: 52px;   /* 39.4 pt — drop cap / large decorative       */
+  --text-xs: 8px; /* 6 pt   — footer watermark, tiny captions  */
+  --text-sm: 9px; /* 6.75 pt — secondary captions               */
+  --text-base: 11px; /* 8 pt   — primary body text (exact match)   */
+  --text-md: 12px; /* 9 pt   — label / callout body              */
+  --text-lg: 15px; /* 11 pt  — bold labels / table headers        */
+  --text-xl: 21px; /* 16 pt  — section headings (THREE_LINE_PICA) */
+  --text-2xl: 31px; /* 23 pt  — chapter titles  (THREE_LINE_PICA) */
+  --text-3xl: 52px; /* 39.4 pt — drop cap / large decorative       */
 
   /* ── Line Heights ── */
   --leading-body: 1.45;

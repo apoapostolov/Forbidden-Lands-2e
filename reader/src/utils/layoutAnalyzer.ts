@@ -71,10 +71,7 @@ export function analyzeList(itemCount: number): LayoutMetadata {
 /**
  * Analyze an image segment for text wrapping strategy
  */
-export function analyzeImage(
-  widthPt: number,
-  heightPt: number,
-): LayoutMetadata {
+export function analyzeImage(widthPt: number, heightPt: number): LayoutMetadata {
   const metadata: LayoutMetadata = {}
   const pageWidthPt = 482 // from PDF
   const columnWidthPt = (pageWidthPt - 50 * 2 - 14) / 2 // margins + gap

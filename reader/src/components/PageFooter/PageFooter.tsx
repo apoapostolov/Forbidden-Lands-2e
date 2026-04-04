@@ -10,11 +10,13 @@ export default function PageFooter({ pageNumber, side }: PageFooterProps) {
     <footer
       className={`${styles.footer} ${side === 'left' ? styles.left : styles.right}`}
     >
-      <div className={styles.container}>
-        <div className={styles.ornament} />
-        <span className={`${styles.number} small-caps-deco`}>{pageNumber}</span>
-        <div className={styles.ornament} />
-      </div>
+      <img
+        src="/assets/decorations/skull-separator.png"
+        className={styles.decorImage}
+        alt=""
+        aria-hidden="true"
+      />
+      <span className={`${styles.number} small-caps-deco`}>{pageNumber}</span>
     </footer>
   )
 }

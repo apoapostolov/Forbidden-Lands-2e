@@ -1,88 +1,36 @@
 .footer {
   display: flex;
   flex-direction: column;
-  gap: 6px;
+  align-items: center;
+  gap: 3px;
   margin-top: auto;
-  padding-top: 12px;
+  padding-top: 10px;
   flex-shrink: 0;
-  align-items: center;
 }
 
-/* Decorative container with ornaments on sides and page number in center */
-.container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 10px;
-  width: 100%;
-}
-
-/* Decorative ornament elements (small diamond or floral pattern) */
-.ornament {
-  width: 16px;
-  height: 16px;
-  flex-shrink: 0;
-  position: relative;
-  opacity: 0.4;
-}
-
-/* Create ornamental diamond shape from CSS */
-.ornament::before {
-  content: '◆';
-  font-size: 10px;
-  color: var(--rule-color);
+/* skull-separator.png as decorative divider */
+.decorImage {
+  width: 55%;
+  max-width: 220px;
+  height: auto;
+  opacity: 0.55;
   display: block;
-  text-align: center;
-  line-height: 16px;
-  opacity: 0.3;
+  /* Render in greyscale to match the book's B&W palette */
+  filter: saturate(0%) brightness(0.75);
 }
 
-/* Thin black rule above ornaments */
-.footer::before {
-  content: '';
-  display: block;
-  width: 80%;
-  max-width: 200px;
-  height: 1px;
-  background-color: var(--rule-color);
-  opacity: 0.25;
-  margin-bottom: 2px;
-}
-
-/* Page number in center with decorative treatment */
+/* Page number below the skull ornament */
 .number {
   font-family: var(--font-label);
-  font-size: 13px;
+  font-size: 12px;
   font-weight: 500;
   letter-spacing: var(--tracking-wide);
   color: var(--text-primary);
-  opacity: 0.75;
-  min-width: 32px;
-  text-align: center;
-  position: relative;
-  /* Subtle underline */
-  padding-bottom: 2px;
-  border-bottom: 1px solid var(--rule-color);
-  border-bottom-opacity: 0.15;
-}
-
-/* Left page styling (optional) */
-.left .number {
+  opacity: 0.7;
   text-align: center;
 }
 
-/* Right page styling (optional) */
-.right .number {
-  text-align: center;
-}
-
-/* Optional: Create circular or ornamental frame around number */
-.number::before {
-  content: '';
-  position: absolute;
-  inset: -4px;
-  border: 1px solid var(--rule-color);
-  border-radius: 50%;
-  opacity: 0.15;
-  pointer-events: none;
+/* Left page: mirror image so ornament faces the spine */
+.left .decorImage {
+  transform: scaleX(-1);
 }

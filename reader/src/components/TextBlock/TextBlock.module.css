@@ -27,7 +27,8 @@
 }
 
 /* Diamond bullet via ::before pseudo-element */
-.block :global(ul li)::before {
+/* Exclude .diamond-list items — they already contain a .diamond-marker span */
+.block :global(ul:not(.diamond-list) li)::before {
   content: '✦';
   margin-right: 0.5em;
   color: var(--text-primary);
@@ -72,4 +73,3 @@
 .block :global(strong) {
   filter: brightness(1);
 }
-

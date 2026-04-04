@@ -40,8 +40,8 @@ Add notes with `→ note` on the same line for blockers or decisions.
 - [x] Implement `<PageBackground>` component (white paper, no sepia)
 - [x] Verify IM Fell Great Primer renders correctly at 8pt / 10.67px body size
 - [x] Implement all 8 text role CSS classes (`.chapter-title`, `.section-heading`,
-  `.subsection`, `.bold-label`, `.flavour-text`, `.body-text`, `.small-caps-deco`,
-  `.body-label`)
+      `.subsection`, `.bold-label`, `.flavour-text`, `.body-text`, `.small-caps-deco`,
+      `.body-label`)
 - [x] Add gold separator rule (`<hr class="gold-rule">`) CSS
 - [x] Brand color palette (black ink on white paper per PDF)
 
@@ -155,21 +155,25 @@ Add notes with `→ note` on the same line for blockers or decisions.
 ## Completed Recently
 
 ✅ **Theme Colors Applied:**
+
 - Added CSS variables: `--accent-gold` (#8b7355), `--accent-gold-light` (#a88966), `--accent-gold-dark` (#6b5745)
 - Updated NavBar.module.css: button hover, search input, page counter with gold accents
 - Updated TableOfContents.module.css: border, scrollbar, active states with gold accents
 - Updated SearchPanel.module.css: border, match highlighting with gold accents
 
 ✅ **Duplicate Header Removed:**
+
 - Removed PageHeader import and component from PageSpread.tsx
 - Kept PageHeaderBanner for book-accurate layout
 - Verified build passes
 
 ✅ **Skull Emoji Replaced:**
+
 - Replaced ☠️/☠/💀 with ⚰ (coffin symbol) in smartContentFix.ts
 - Uses text-based character rendering instead of emoji
 
 ✅ **Decorative Footer Implemented:**
+
 - Added ornamental container with diamond symbols on sides
 - Page number centered with circular frame and decorative rule above
 - Updated PageFooter.tsx and PageFooter.module.css

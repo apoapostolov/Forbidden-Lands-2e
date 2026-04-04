@@ -1,7 +1,7 @@
 # Polish Phase 10 Session Summary
 
-**Date:** 2025-04-04  
-**Focus:** UI theme application, duplicate header removal, footer decoration, emoji replacement  
+**Date:** 2025-04-04
+**Focus:** UI theme application, duplicate header removal, footer decoration, emoji replacement
 **Status:** ✅ Completed — 4 major items implemented
 
 ---
@@ -15,10 +15,11 @@
 **Changes Made:**
 
 - **src/styles/variables.css** — Added three new CSS variables:
+
   ```css
-  --accent-gold: #8b7355;       /* base brass/gold tone */
+  --accent-gold: #8b7355; /* base brass/gold tone */
   --accent-gold-light: #a88966; /* hover state (lighter) */
-  --accent-gold-dark: #6b5745;  /* active state (darker) */
+  --accent-gold-dark: #6b5745; /* active state (darker) */
   ```
 
 - **src/components/NavBar/NavBar.module.css** — Replaced hardcoded `rgba(184, 150, 12, ...)` colors with new gold variables:
@@ -93,6 +94,7 @@
 **Changes Made:**
 
 - **src/components/PageFooter/PageFooter.tsx** — Updated structure:
+
   ```typescript
   <div className={styles.container}>
     <div className={styles.ornament} />
@@ -115,37 +117,42 @@
 
 ## Testing & Verification
 
-✅ **Build Status:** `npm run build` passes with no errors  
-✅ **Dev Server:** Running on port 5178, HMR active  
+✅ **Build Status:** `npm run build` passes with no errors
+✅ **Dev Server:** Running on port 5178, HMR active
 ✅ **Theme Colors:** Visually verified in browser:
+
 - NavBar buttons show gold on hover
 - TOC panel displays gold accent border and active states
 - SearchPanel border and match highlighting use gold
 - Scrollbars styled with gold colors
 
-✅ **Footer:** Verified ornamental layout renders correctly with diamonds and circular frame  
-✅ **Header Deduplication:** Confirmed single PageHeaderBanner rendering  
-✅ **Emoji Replacement:** Skull emoji successfully replaced with coffin (⚰) in content  
+✅ **Footer:** Verified ornamental layout renders correctly with diamonds and circular frame
+✅ **Header Deduplication:** Confirmed single PageHeaderBanner rendering
+✅ **Emoji Replacement:** Skull emoji successfully replaced with coffin (⚰) in content
 
 ---
 
 ## Known Issues & Next Steps
 
 ### Outstanding: TOC Navigation Offset
-**Status:** Investigated but NOT YET FIXED  
-**Issue:** Clicking TOC entries sometimes navigates to correct chapter but page counter shows different value  
+
+**Status:** Investigated but NOT YET FIXED
+**Issue:** Clicking TOC entries sometimes navigates to correct chapter but page counter shows different value
 **Root Cause:** TOC.json page numbers refer to book's PDF page numbering (1-based with covers/front matter), but reader's array indices don't align. Example:
+
 - TOC entry "1. Introduction" → page 8 (PDF numbering)
 - Subtract 1 → index 7
 - But spread mode and array layout differ from PDF pagination
 - Navigation works (chapters appear correctly) but display number doesn't match TOC expectation
 
 **Next Fix Required:**
+
 1. Create mapping between PDF page numbers and array indices
 2. Update TableOfContents to use array-based navigation instead of subtracting 1
 3. Or regenerate TOC.json with correct array indices from book-data.json
 
 ### Remaining Polish Tasks (Phase 10)
+
 - [ ] Responsive breakpoints (≥1400px / 768–1399px / <768px)
 - [ ] Dark room mode toggle
 - [ ] Optional page-turn sound
@@ -174,7 +181,7 @@
 ## Commit
 
 ```
-Polish phase 10: Apply theme colors, remove duplicate header, 
+Polish phase 10: Apply theme colors, remove duplicate header,
 implement decorative footer, replace skull emoji (Fixes #TOC-nav-investigation)
 ```
 
@@ -205,4 +212,3 @@ implement decorative footer, replace skull emoji (Fixes #TOC-nav-investigation)
 - [x] Header deduplication verified
 - [x] Footer ornaments render correctly
 - [x] Emoji replacement verified in content
-

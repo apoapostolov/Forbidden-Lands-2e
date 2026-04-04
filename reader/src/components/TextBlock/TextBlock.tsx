@@ -1,5 +1,5 @@
-import DOMPurify from 'dompurify'
 import { smartFixContent } from '@utils/smartContentFix'
+import DOMPurify from 'dompurify'
 import styles from './TextBlock.module.css'
 
 interface TextBlockProps {

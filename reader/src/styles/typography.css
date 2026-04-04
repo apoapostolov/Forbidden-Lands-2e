@@ -12,8 +12,8 @@
 /* ── 1. Chapter Title (h1 — IM_FELL_THREE_LINE_PICA @ 23 pt) ─ */
 .chapter-title {
   font-family: var(--font-chapter);
-  font-size: var(--text-2xl);   /* 31 px ≈ 23 pt */
-  font-weight: 400;             /* IM Fell fonts are naturally bold-looking */
+  font-size: var(--text-2xl); /* 31 px ≈ 23 pt */
+  font-weight: 400; /* IM Fell fonts are naturally bold-looking */
   line-height: var(--leading-tight);
   letter-spacing: var(--tracking-caps);
   color: var(--text-heading);
@@ -25,7 +25,7 @@
 /* ── 2. Section Heading (h2 — IM_FELL_THREE_LINE_PICA @ 16 pt) */
 .section-heading {
   font-family: var(--font-chapter);
-  font-size: var(--text-xl);   /* 21 px ≈ 16 pt */
+  font-size: var(--text-xl); /* 21 px ≈ 16 pt */
   font-weight: 400;
   line-height: var(--leading-tight);
   letter-spacing: var(--tracking-caps);
@@ -38,7 +38,7 @@
 /* ── 3. Subsection (h3 — IM_FELL_Double_Pica @ ~11 pt, centered) */
 .subsection {
   font-family: var(--font-heading);
-  font-size: var(--text-lg);   /* 15 px ≈ 11 pt */
+  font-size: var(--text-lg); /* 15 px ≈ 11 pt */
   font-weight: 400;
   line-height: var(--leading-tight);
   letter-spacing: var(--tracking-wide);
@@ -51,7 +51,7 @@
 /* ── 4. Bold Label (h4 — Branding-Bold @ 9 pt, all-caps sans) ─ */
 .bold-label {
   font-family: var(--font-label);
-  font-size: var(--text-md);   /* 12 px ≈ 9 pt */
+  font-size: var(--text-md); /* 12 px ≈ 9 pt */
   font-weight: 700;
   line-height: var(--leading-tight);
   letter-spacing: var(--tracking-wide);
@@ -72,7 +72,7 @@
 /* ── 6. Body Text (IM_FELL_Great_Primer_Rom @ 8 pt) ─────────── */
 .body-text {
   font-family: var(--font-body);
-  font-size: var(--text-base);  /* 11 px ≈ 8 pt */
+  font-size: var(--text-base); /* 11 px ≈ 8 pt */
   font-weight: 400;
   line-height: var(--leading-body);
   color: var(--text-primary);
@@ -104,7 +104,7 @@
 /* ── Drop Cap (chapter opening paragraphs — IM Fell @39.4 pt) ─ */
 .chapter-opener::first-letter {
   font-family: var(--font-body);
-  font-size: var(--text-3xl);  /* 52 px ≈ 39.4 pt */
+  font-size: var(--text-3xl); /* 52 px ≈ 39.4 pt */
   font-weight: 400;
   color: var(--text-heading);
   float: left;
@@ -137,4 +137,3 @@ hr.section-rule {
 hr.gold-rule {
   width: 100%;
 }
-

@@ -31,7 +31,7 @@ export default function SearchPanel({
         applyHighlight(match)
       }, 300)
     },
-    [currentPage, onNavigate]
+    [currentPage, onNavigate],
   )
 
   // Return to previous page when hover ends
