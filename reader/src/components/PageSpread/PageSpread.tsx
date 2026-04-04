@@ -22,7 +22,12 @@ export default function PageSpread({ page, side }: PageSpreadProps) {
       {/* PageHeader removed — using PageHeaderBanner for book-accurate layout */}
       <PageHeaderBanner />
       <PageContent segments={page.segments} />
-      <PageFooter pageNumber={page.pageNumber} side={side} />
+      <PageFooter
+        pageNumber={page.pageNumber}
+        side={side}
+        chapterIndex={page.chapterIndex}
+        chapterTitle={page.chapterTitle}
+      />
     </PageBackground>
   )
 }

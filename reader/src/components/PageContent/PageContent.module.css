@@ -9,6 +9,9 @@
   height: 100%;
   orphans: 3;
   widows: 3;
+  /* Hyphenation language inherited from <html lang="en"> */
+  hyphens: auto;
+  word-break: break-word;
 }
 
 /* Chapter title (h1) must escape the column flow and span full page width,
@@ -16,6 +19,18 @@
 .columns :global(h1) {
   column-span: all;
   break-before: column;
+}
+
+/* Flavour text / blockquotes span both columns and use no hyphenation ---
+   they stand as visual breaks that match the source book's centered italic
+   quotations which always occupy the full text-block width */
+.columns :global(.flavour-text) {
+  column-span: all;
+  hyphens: none;
+  text-align: center;
+  font-style: italic;
+  break-before: avoid;
+  break-after: avoid;
 }
 
 /* Section headings stay within their column — no spanning */

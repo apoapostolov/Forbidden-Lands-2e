@@ -28,7 +28,9 @@
 
 /* Diamond bullet via ::before pseudo-element */
 /* Exclude .diamond-list items — they already contain a .diamond-marker span */
-.block :global(ul:not(.diamond-list) li)::before {
+/* Use > (direct child) so deeply-nested .diamond-bullet items inside a
+  regular <ul> wrapper do not get a second ✦ from this rule. */
+.block :global(ul:not(.diamond-list) > li)::before {
   content: '✦';
   margin-right: 0.5em;
   color: var(--text-primary);

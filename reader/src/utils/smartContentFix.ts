@@ -38,15 +38,36 @@ export function smartFixContent(html: string): string {
   // Ensure diamond bullets (✦) are rendered as proper list markers
   // If found in text (not XML), wrap in list structure
   if (fixed.includes('✦')) {
-    // Step 1: Convert ✦-prefixed lines to properly closed <li> items.
-    // Capture everything after the ✦ marker to the end of the line.
+    // Step 1: Normalize markdown-parser <ul><li>✦ ... patterns.
+    // The markdown parser wraps ✦-prefixed items in plain <ul><li>, leaving
+    // the ✦ as literal text INSIDE the <li>. We must convert these to
+    // diamond-list items BEFORE the CSS ::before rule adds a second ✦.
+    fixed = fixed.replace(
+      /<ul>([\s\S]*?)<\/ul>/g,
+      (_match: string, inner: string) => {
+        if (!inner.includes('✦')) return _match
+        if (!/<li>(?:\s*<[^>]+>\s*)*✦/.test(inner)) return _match
+        // a) ✦ directly after <li>  (most common)
+        let converted = inner.replace(
+          /<li>✦\s*/g,
+          '<li class="diamond-bullet"><span class="diamond-marker">✦</span> ',
+        )
+        // b) ✦ inside first inline wrap tag, e.g. <li><strong>✦ RANK 1:</strong>
+        converted = converted.replace(
+          /<li>(<[^>]+>)\s*✦\s*/g,
+          '<li class="diamond-bullet"><span class="diamond-marker">✦</span> $1',
+        )
+        return `<ul class="diamond-list">${converted}</ul>`
+      },
+    )
+
+    // Step 2: Convert any remaining bare ✦-prefixed lines (e.g. lines that
+    // were NOT inside a <ul><li> — they appear as plain text at line start).
     fixed = fixed.replace(
       /^✦\s*(.+)$/gm,
       '<li class="diamond-bullet"><span class="diamond-marker">✦</span> $1</li>',
     )
-    // Step 2: Wrap consecutive runs of diamond-bullet <li> elements in a
-    // single <ul>. Items are separated only by whitespace/newlines.
-    // This produces a flat sibling list rather than deeply-nested lists.
+    // Step 3: Wrap consecutive diamond-bullet <li> runs in a single <ul>.
     fixed = fixed.replace(
       /((?:<li class="diamond-bullet">[^\n]*<\/li>\n*)+)/g,
       '<ul class="diamond-list">$1</ul>',
