@@ -14,22 +14,48 @@ import styles from './PageContent.module.css'
 interface PageContentProps {
   segments: Segment[]
   sectionHeadingPage?: boolean
+  pageNumber?: number
+  chapterIndex?: number
 }
 
-function renderSegment(seg: Segment, idx: number, segments: Segment[]) {
-  const previousHeading = (() => {
-    for (let i = idx - 1; i >= 0; i--) {
-      const s = segments[i]
-      if (s.type === 'heading') return s as HeadingSegment
-    }
-    return null
-  })()
-  const followsH2 = previousHeading?.level === 2
-  const isFictionAfterH2 =
-    seg.type === 'paragraph' && !!(seg as ParagraphSegment).isFiction && followsH2
+function renderSegment(
+  seg: Segment,
+  idx: number,
+  segments: Segment[],
+  pageNumber?: number,
+  chapterIndex?: number,
+) {
+  const previousSegment = idx > 0 ? segments[idx - 1] : null
+
+  // Chapter fiction is ONLY the blockquote directly after an H2 section heading.
+  const isChapterFictionAfterH2 =
+    seg.type === 'blockquote' &&
+    previousSegment?.type === 'heading' &&
+    (previousSegment as HeadingSegment).level === 2
+
+  // First prose paragraph after chapter fiction gets chapter-opener treatment.
+  const isFirstParagraphAfterChapterFiction =
+    seg.type === 'paragraph' &&
+    previousSegment?.type === 'blockquote' &&
+    idx >= 2 &&
+    segments[idx - 2]?.type === 'heading' &&
+    (segments[idx - 2] as HeadingSegment).level === 2
+
+  const isMarkedFrontMatterFiction =
+    seg.type === 'paragraph' &&
+    !!(seg as ParagraphSegment).isFiction &&
+    chapterIndex === 0
+
+  const isFrontMatterCreditsSecondColumnStart =
+    chapterIndex === 0 &&
+    pageNumber === 1 &&
+    seg.type === 'heading' &&
+    (seg as HeadingSegment).level === 3 &&
+    (seg as HeadingSegment).text === 'ILLUSTRATIONS & GRAPHICS'
 
   const shouldSpanAll =
-    (seg.type === 'heading' && (seg as HeadingSegment).level === 2) || isFictionAfterH2
+    (seg.type === 'heading' && (seg as HeadingSegment).level === 2) ||
+    isChapterFictionAfterH2
 
   const isHeading = seg.type === 'heading'
 
@@ -37,6 +63,9 @@ function renderSegment(seg: Segment, idx: number, segments: Segment[]) {
     switch (seg.type) {
       case 'heading': {
         const h = seg as HeadingSegment
+        if (h.level === 1 && pageNumber !== undefined && pageNumber <= 2) {
+          return null
+        }
         const Tag = `h${h.level}` as 'h1' | 'h2' | 'h3' | 'h4'
         const cls = ['chapter-title', 'section-heading', 'subsection', 'bold-label'][
           h.level - 1
@@ -53,15 +82,22 @@ function renderSegment(seg: Segment, idx: number, segments: Segment[]) {
           <TextBlock
             key={idx}
             html={p.html}
-            isChapterOpener={p.isChapterOpener}
-            isFiction={isFictionAfterH2}
+            isChapterOpener={!!p.isChapterOpener || isFirstParagraphAfterChapterFiction}
+            isFiction={isMarkedFrontMatterFiction}
             variant="body"
           />
         )
       }
       case 'blockquote': {
         const bq = seg as BlockquoteSegment
-        return <TextBlock key={idx} html={bq.html} variant="blockquote" />
+        return (
+          <TextBlock
+            key={idx}
+            html={bq.html}
+            variant="blockquote"
+            isFiction={isChapterFictionAfterH2}
+          />
+        )
       }
       case 'table': {
         const t = seg as TableSegment
@@ -93,7 +129,7 @@ function renderSegment(seg: Segment, idx: number, segments: Segment[]) {
       <div
         key={idx}
         data-segment-idx={idx}
-        className={`${styles.segmentWrap} ${isHeading ? styles.headingWrap : ''} ${shouldSpanAll ? styles.spanAllWrap : ''} ${isFictionAfterH2 ? styles.fictionAfterH2Wrap : ''}`}
+        className={`${styles.segmentWrap} ${isHeading ? styles.headingWrap : ''} ${shouldSpanAll ? styles.spanAllWrap : ''} ${isChapterFictionAfterH2 ? styles.fictionAfterH2Wrap : ''} ${isMarkedFrontMatterFiction ? styles.frontMatterFictionWrap : ''} ${isFrontMatterCreditsSecondColumnStart ? styles.creditsSecondColumnStart : ''}`}
       >
         {element}
       </div>
@@ -106,10 +142,35 @@ function renderSegment(seg: Segment, idx: number, segments: Segment[]) {
 export default function PageContent({
   segments,
   sectionHeadingPage = false,
+  pageNumber,
+  chapterIndex,
 }: PageContentProps) {
+  const isFrontMatterCreditsPage = chapterIndex === 0 && pageNumber === 1
+  const firstCreditsH2Index = isFrontMatterCreditsPage
+    ? segments.findIndex(
+        (seg) => seg.type === 'heading' && (seg as HeadingSegment).level === 2,
+      )
+    : -1
+
+  const renderedSegments = segments.map((seg, idx) =>
+    renderSegment(seg, idx, segments, pageNumber, chapterIndex),
+  )
+
+  if (firstCreditsH2Index >= 0) {
+    renderedSegments.splice(
+      firstCreditsH2Index + 1,
+      0,
+      <div
+        key="credits-columns-offset"
+        className={`${styles.segmentWrap} ${styles.spanAllWrap} ${styles.creditsColumnsOffset}`}
+        aria-hidden="true"
+      />,
+    )
+  }
+
   return (
     <main
-      className={`${styles.columns} ${sectionHeadingPage ? styles.sectionHeadingPage : ''}`}
+      className={`${styles.columns} ${sectionHeadingPage ? styles.sectionHeadingPage : ''} ${isFrontMatterCreditsPage ? styles.frontMatterCreditsPage : ''}`}
       role="region"
       aria-label="Page content"
       // Stop pointer events from reaching the flip library so that the text
@@ -118,7 +179,7 @@ export default function PageContent({
       onMouseDown={(e) => e.stopPropagation()}
       onClick={(e) => e.stopPropagation()}
     >
-      {segments.map((seg, idx) => renderSegment(seg, idx, segments))}
+      {renderedSegments}
     </main>
   )
 }

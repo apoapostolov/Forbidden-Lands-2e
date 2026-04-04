@@ -1,6 +1,15 @@
 .block {
   /* Inherits .body-text or .flavour-text from global typography */
-  break-inside: avoid;
+  break-inside: auto;
+  page-break-inside: auto;
+}
+
+/* Ensure list-heavy blocks can continue across column/page boundaries. */
+.block :global(ul),
+.block :global(ol),
+.block :global(li) {
+  break-inside: auto;
+  page-break-inside: auto;
 }
 
 /* Inline elements inside text blocks */
@@ -79,12 +88,6 @@
   background: rgba(0, 0, 0, 0.05);
   padding: 0 2px;
   border-radius: 2px;
-}
-
-/* Emoji styling: apply greyscale filter to colored emoji (sword, skull, blood) */
-.block :global(strong)::after,
-.block :global(p) {
-  /* Emoji filter applied via parent — see emojiGrey class below */
 }
 
 /* Force monochrome/greyscale on all emoji via filter */

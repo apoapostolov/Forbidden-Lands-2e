@@ -1,12 +1,14 @@
 .columns {
   flex: 1;
+  min-height: 0;
   overflow: hidden;
   /* CSS multi-column — two equal columns, 19 px gap (14 pt from PDF measurement) */
   column-count: 2;
   column-gap: var(--column-gap);
   column-fill: auto;
-  /* Fixed height required so the browser knows when to start the second column */
-  height: 100%;
+  /* In flex layout, flex:1 already gives a concrete available height.
+      Using height:100% here can over-allocate and push content behind footer. */
+  height: auto;
   orphans: 2;
   widows: 2;
   /* Hyphenation language inherited from <html lang="en"> */
@@ -67,16 +69,15 @@
   padding-bottom: 2px;
 }
 
-/* Guard rail: any element immediately after the H2 wrapper must start below
-   the frame's visual bottom edge. Chrome multi-column ignores margin-bottom on
-   column-span:all elements, so we use margin-top on the next sibling instead.
-   Frame overflow measured at ~46px; 60px gives comfortable clearance. */
+/* Guard rail: chapter fiction is the blockquote immediately after an H2.
+   Keep generous space from the framed H2 and breathing room below fiction.
+   We intentionally scope this to fiction wrappers only. */
 .sectionHeadingPage > .headingWrap:first-child + * {
-  margin-top: 60px;
+  margin-top: 26px;
 }
 
 .fictionAfterH2Wrap {
-  margin-top: 14px;
+  margin-bottom: 20px;
 }
 
 .columns :global(h2.section-heading)::before {
@@ -118,6 +119,7 @@
   column-span: all;
   hyphens: none;
   text-align: center;
+  font-style: italic;
   font-size: 16px;
   line-height: 1.72;
   padding-block: 0.2em;
@@ -126,18 +128,58 @@
   break-after: avoid;
 }
 
+/* Front-matter fiction on page 2: slightly smaller so the full sequence ends
+   cleanly with "They are the raiders of the Forbidden Lands." */
+.frontMatterFictionWrap :global(.fiction-intro) {
+  font-size: 15px;
+  line-height: 1.66;
+}
+
+/* Credits page: names should be centered under their headings. */
+.frontMatterCreditsPage :global(.body-text) {
+  text-align: center;
+  hyphens: none;
+}
+
+/* Credits page only: nudge both columns a bit lower so first right-column
+   heading text doesn't get clipped by the H2 frame overlap. */
+.frontMatterCreditsPage :global(h2.section-heading) {
+  padding-bottom: 10px;
+}
+
+/* Page-1 credits: explicit span-all spacer after H2 so BOTH columns
+   start at the same vertical level (prevents right-column first heading
+   from rendering behind the H2 frame). */
+.creditsColumnsOffset {
+  height: 14px;
+  margin: 0;
+  padding: 0;
+}
+
+/* Credits page: start the right column explicitly at ILLUSTRATIONS & GRAPHICS
+   so it aligns with GAME CONCEPT on the left column instead of drifting upward
+   under the H2 frame. */
+.creditsSecondColumnStart {
+  break-before: column;
+}
+
 /* Section headings stay within their column — no spanning */
-.columns :global(h2),
+.columns :global(h2) {
+  break-after: avoid;
+}
+
 .columns :global(h3),
 .columns :global(h4) {
-  break-after: avoid;
+  break-after: auto;
 }
 
 /* All direct children should not break awkwardly between columns */
 .columns > * {
-  break-inside: avoid;
-  break-inside: avoid-column;
-  page-break-inside: avoid;
+  /* Allow default flow; specific wrappers (headings/span-all) impose stricter
+     keep-together rules where needed. A global avoid-column here can force
+     clipping of long segments near the column bottom. */
+  break-inside: auto;
+  page-break-inside: auto;
 }
 
 /* Segment wrappers are the direct flow units in this layout.
@@ -146,8 +188,11 @@
 .segmentWrap {
   display: block;
   width: 100%;
-  break-inside: avoid-column;
-  page-break-inside: avoid;
+  /* Allow normal prose/list flow to continue across columns when needed.
+     Keeping this as avoid can clip oversized blocks because .columns has
+     fixed height + overflow:hidden. Heading wrappers still guard structure. */
+  break-inside: auto;
+  page-break-inside: auto;
 }
 
 /* Keep headings anchored to following content so no lonely heading remains at
@@ -155,11 +200,6 @@
 .headingWrap {
   break-inside: avoid;
   page-break-inside: avoid;
-}
-
-.headingWrap + .segmentWrap {
-  break-before: avoid-column;
-  page-break-before: avoid;
 }
 
 .spanAllWrap {
@@ -171,10 +211,17 @@
 }
 
 .columns :global(p) {
-  break-inside: avoid-column;
-  page-break-inside: avoid;
+  break-inside: auto;
+  page-break-inside: auto;
   orphans: 2;
   widows: 2;
+}
+
+.columns :global(ul),
+.columns :global(ol),
+.columns :global(li) {
+  break-inside: auto;
+  page-break-inside: auto;
 }
 
 /* ── Layout control classes (from layoutAnalyzer) ────────────── */

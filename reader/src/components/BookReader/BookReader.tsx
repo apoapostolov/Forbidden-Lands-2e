@@ -36,7 +36,6 @@ interface PageFlipRef {
 const DEFAULT_FLIP_MS = 800
 const FAST_FLIP_MS = 140
 const RAPID_NAV_THRESHOLD_MS = 220
-const BURST_STREAK_MIN = 2
 
 interface NavOptions {
   forceInstant?: boolean
@@ -46,15 +45,12 @@ const BookReader = forwardRef<BookReaderHandle, BookReaderProps>(
   ({ bookData, initialPage = -1, onPageChange }, ref) => {
     const flipRef = useRef<PageFlipRef | null>(null)
     const currentPageRef = useRef(initialPage + 1)
-    const desiredSpreadRef = useRef(0)
     const isFlippingRef = useRef(false)
     const lastNavAtRef = useRef(0)
     const resetFlipSpeedTimerRef = useRef<number | null>(null)
-    const rapidPressStreakRef = useRef(0)
-    const burstCommitRafRef = useRef<number | null>(null)
     const { scale, pageWidth, pageHeight } = useViewportScale()
     const [flippingTime, setFlippingTime] = useState(DEFAULT_FLIP_MS)
-    const [layoutStable, setLayoutStable] = useState(false)
+    const [layoutStable, setLayoutStable] = useState(true)
     const [snapOffsetX, setSnapOffsetX] = useState(0)
     const [useZoomScale, setUseZoomScale] = useState(false)
 
@@ -70,24 +66,12 @@ const BookReader = forwardRef<BookReaderHandle, BookReaderProps>(
       return internalPage - 1
     }
 
-    function logicalToSpread(logicalPage: number) {
-      if (logicalPage < 0) return -1
-      return Math.floor(logicalPage / 2)
+    function maxInternalPage() {
+      return bookData.totalPages
     }
 
-    function internalToSpread(internalPage: number) {
-      if (internalPage <= 0) return -1
-      return Math.floor((internalPage - 1) / 2)
-    }
-
-    function maxSpread() {
-      return logicalToSpread(bookData.totalPages - 1)
-    }
-
-    function spreadToInternalPage(spread: number) {
-      if (spread < 0) return 0 // cover
-      // First page of the spread in internal indexing.
-      return Math.min(bookData.totalPages, spread * 2 + 1)
+    function clampInternalPage(page: number) {
+      return Math.max(0, Math.min(page, maxInternalPage()))
     }
 
     function scheduleDefaultFlipSpeed() {
@@ -103,68 +87,9 @@ const BookReader = forwardRef<BookReaderHandle, BookReaderProps>(
       const now = Date.now()
       if (now - lastNavAtRef.current <= RAPID_NAV_THRESHOLD_MS) {
         setFlippingTime(FAST_FLIP_MS)
-        rapidPressStreakRef.current += 1
         scheduleDefaultFlipSpeed()
-      } else {
-        rapidPressStreakRef.current = 1
       }
       lastNavAtRef.current = now
-    }
-
-    function driveTowardsDesired() {
-      if (isFlippingRef.current) return
-      const currentSpread = internalToSpread(currentPageRef.current)
-      const desired = Math.max(-1, Math.min(desiredSpreadRef.current, maxSpread()))
-
-      if (desired === currentSpread) return
-
-      const api = flipRef.current?.pageFlip()
-      if (!api) return
-
-      const spreadDistance = Math.abs(desired - currentSpread)
-      const shouldBurstSkip =
-        rapidPressStreakRef.current >= BURST_STREAK_MIN && spreadDistance >= 1
-      const targetInternal = spreadToInternalPage(desired)
-
-      if (shouldBurstSkip) {
-        // Burst mode is intentionally non-animated for speed.
-        api.turnToPage(targetInternal)
-        currentPageRef.current = targetInternal
-        onPageChange?.(toLogicalPage(targetInternal))
-        isFlippingRef.current = false
-        rapidPressStreakRef.current = 0
-      } else if (desired > currentSpread) {
-        isFlippingRef.current = true
-        api.flipNext()
-      } else {
-        isFlippingRef.current = true
-        api.flipPrev()
-      }
-    }
-
-    function commitDesiredInstantly() {
-      const api = flipRef.current?.pageFlip()
-      if (!api) return
-
-      const desired = Math.max(-1, Math.min(desiredSpreadRef.current, maxSpread()))
-      const targetInternal = spreadToInternalPage(desired)
-
-      api.turnToPage(targetInternal)
-      currentPageRef.current = targetInternal
-      isFlippingRef.current = false
-      onPageChange?.(toLogicalPage(targetInternal))
-      rapidPressStreakRef.current = 0
-    }
-
-    function scheduleBurstCommit() {
-      if (burstCommitRafRef.current) {
-        cancelAnimationFrame(burstCommitRafRef.current)
-      }
-
-      burstCommitRafRef.current = requestAnimationFrame(() => {
-        burstCommitRafRef.current = null
-        commitDesiredInstantly()
-      })
     }
 
     function snapLeftPageToPixelGrid() {
@@ -193,25 +118,13 @@ const BookReader = forwardRef<BookReaderHandle, BookReaderProps>(
       if (!options.forceInstant) {
         maybeEnableFastFlip()
       }
-      desiredSpreadRef.current = logicalToSpread(clampLogicalPage(logicalPage))
-
-      const shouldPreemptAnimation = options.forceInstant || isFlippingRef.current
-
-      if (shouldPreemptAnimation) {
-        if (burstCommitRafRef.current) {
-          cancelAnimationFrame(burstCommitRafRef.current)
-          burstCommitRafRef.current = null
-        }
-        commitDesiredInstantly()
-        return
-      }
-
-      if (rapidPressStreakRef.current >= BURST_STREAK_MIN) {
-        scheduleBurstCommit()
-        return
-      }
-
-      driveTowardsDesired()
+      const api = flipRef.current?.pageFlip()
+      if (!api) return
+      const targetInternal = toInternalPage(clampLogicalPage(logicalPage))
+      api.turnToPage(targetInternal)
+      currentPageRef.current = targetInternal
+      isFlippingRef.current = false
+      onPageChange?.(toLogicalPage(targetInternal))
     }
 
     function requestDelta(delta: number, options: NavOptions = {}) {
@@ -219,28 +132,24 @@ const BookReader = forwardRef<BookReaderHandle, BookReaderProps>(
       if (!options.forceInstant) {
         maybeEnableFastFlip()
       }
-      desiredSpreadRef.current = Math.max(
-        -1,
-        Math.min(desiredSpreadRef.current + delta, maxSpread()),
-      )
+      const api = flipRef.current?.pageFlip()
+      if (!api) return
 
-      const shouldPreemptAnimation = options.forceInstant || isFlippingRef.current
-
-      if (shouldPreemptAnimation) {
-        if (burstCommitRafRef.current) {
-          cancelAnimationFrame(burstCommitRafRef.current)
-          burstCommitRafRef.current = null
-        }
-        commitDesiredInstantly()
+      if (options.forceInstant || isFlippingRef.current) {
+        const targetInternal = clampInternalPage(currentPageRef.current + delta)
+        api.turnToPage(targetInternal)
+        currentPageRef.current = targetInternal
+        isFlippingRef.current = false
+        onPageChange?.(toLogicalPage(targetInternal))
         return
       }
 
-      if (rapidPressStreakRef.current >= BURST_STREAK_MIN) {
-        scheduleBurstCommit()
-        return
+      isFlippingRef.current = true
+      if (delta > 0) {
+        api.flipNext()
+      } else {
+        api.flipPrev()
       }
-
-      driveTowardsDesired()
     }
 
     useImperativeHandle(ref, () => ({
@@ -254,7 +163,6 @@ const BookReader = forwardRef<BookReaderHandle, BookReaderProps>(
 
     useEffect(() => {
       currentPageRef.current = toInternalPage(initialPage)
-      desiredSpreadRef.current = logicalToSpread(clampLogicalPage(initialPage))
       isFlippingRef.current = false
     }, [initialPage, bookData.totalPages])
 
@@ -270,11 +178,14 @@ const BookReader = forwardRef<BookReaderHandle, BookReaderProps>(
 
     // Guard against transient react-pageflip initialization states that can
     // briefly place the spread far outside viewport bounds.
+    //
+    // Important UX rule: the reader must never stay hidden. We keep the book
+    // visible by default and only use this effect to opportunistically confirm
+    // stable bounds, not to gate rendering behind opacity: 0.
     useEffect(() => {
       let raf = 0
       let tries = 0
       const maxTries = 120
-      setLayoutStable(false)
 
       const check = () => {
         const flipBookEl = document.querySelector(`.${styles.flipBook}`)
@@ -295,9 +206,7 @@ const BookReader = forwardRef<BookReaderHandle, BookReaderProps>(
 
         tries += 1
         if (tries >= maxTries) {
-          // Fallback: show the reader even if bounds check never converges,
-          // to avoid an indefinite hidden UI.
-          setLayoutStable(true)
+          // Do not hide the reader if convergence never happens.
           return
         }
 
@@ -328,9 +237,6 @@ const BookReader = forwardRef<BookReaderHandle, BookReaderProps>(
         window.removeEventListener('keydown', onKey)
         if (resetFlipSpeedTimerRef.current) {
           window.clearTimeout(resetFlipSpeedTimerRef.current)
-        }
-        if (burstCommitRafRef.current) {
-          cancelAnimationFrame(burstCommitRafRef.current)
         }
       }
     }, [bookData.totalPages])
@@ -380,12 +286,6 @@ const BookReader = forwardRef<BookReaderHandle, BookReaderProps>(
             style={{}}
             onFlip={(e: { data: number }) => {
               const internalPage = e.data
-              const incomingSpread = internalToSpread(internalPage)
-
-              // Ignore stale completion events from preempted animations.
-              if (!isFlippingRef.current && incomingSpread !== desiredSpreadRef.current) {
-                return
-              }
 
               currentPageRef.current = internalPage
               onPageChange?.(toLogicalPage(internalPage))
@@ -393,11 +293,6 @@ const BookReader = forwardRef<BookReaderHandle, BookReaderProps>(
               isFlippingRef.current = false
               requestAnimationFrame(() => {
                 snapLeftPageToPixelGrid()
-                const currentSpread = internalToSpread(currentPageRef.current)
-                if (currentSpread === desiredSpreadRef.current) {
-                  rapidPressStreakRef.current = 0
-                }
-                driveTowardsDesired()
               })
             }}
           >

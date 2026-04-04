@@ -3,16 +3,10 @@ import styles from './PageFooter.module.css'
 interface PageFooterProps {
   pageNumber: number
   side: 'left' | 'right'
-  chapterIndex: number
   chapterTitle: string
 }
 
-export default function PageFooter({
-  pageNumber,
-  side,
-  chapterIndex,
-  chapterTitle,
-}: PageFooterProps) {
+export default function PageFooter({ pageNumber, side, chapterTitle }: PageFooterProps) {
   const chapterLabel = chapterTitle.toUpperCase()
 
   return (

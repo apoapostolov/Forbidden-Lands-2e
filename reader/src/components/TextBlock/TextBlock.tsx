@@ -28,7 +28,7 @@ export default function TextBlock({
     styles.block,
     variant === 'blockquote' ? 'flavour-text' : 'body-text',
     isChapterOpener ? 'chapter-opener' : '',
-    variant === 'body' && isFiction ? 'fiction-intro' : '',
+    isFiction ? 'fiction-intro' : '',
   ]
     .filter(Boolean)
     .join(' ')

@@ -11,7 +11,16 @@
  */
 
 import { existsSync, readFileSync, writeFileSync } from 'fs'
-import type { Heading, Image, Root as MdastRoot, Node, Table, TableRow } from 'mdast'
+import type {
+    Heading,
+    Image,
+    List,
+    ListItem,
+    Root as MdastRoot,
+    Node,
+    Table,
+    TableRow,
+} from 'mdast'
 import { dirname, join, resolve } from 'path'
 import rehypeSanitize from 'rehype-sanitize'
 import rehypeStringify from 'rehype-stringify'
@@ -47,13 +56,25 @@ const CHAPTER_FILES = [
 
 // ── Layout constants (pt) ─────────────────────────────────────────────────────
 // Matches dev plan: 482 × 680pt page, 50pt h-margins, 60pt v-margins
-const COLUMN_HEIGHT_PT = 560 // usable column height (680 - 60×2 - 20 header/footer)
+// IMPORTANT: this must track actual runtime CSS layout, including
+// PageHeaderBanner + PageFooter occupancy inside the page content column.
+// Previous value (560pt) overestimated available space and could pack trailing
+// paragraphs into clipped/non-visible area at page boundaries.
+const COLUMN_HEIGHT_PT = 528
 // 2 columns per page — used implicitly by the paginator (2 × COLUMN_HEIGHT_PT)
-const WORDS_PER_COL_LINE = 8 // ~35 chars in narrow column
+const WORDS_PER_COL_LINE = 8 // baseline fit for narrow column
 const LINE_HEIGHT_PT = 11.6 // 8pt × 1.45
 const PARA_MARGIN_PT = 6 // bottom margin per paragraph
+const LIST_WORDS_PER_COL_LINE = 7 // lists are narrower due bullet/indent
+const LIST_ITEM_EXTRA_PT = 2.5 // account for li spacing + marker rendering
+const LIST_BLOCK_EXTRA_PT = 10 // account for ul/ol margins and wrap variance
+const RENDER_SAFETY_PT = 8 // reserve space to absorb runtime CSS/header/footer variance
 const MIN_SPLIT_LINES = 2
+const MIN_SPLIT_TAIL_LINES_SAME_PAGE = 1
+const MIN_SPLIT_TAIL_LINES_NEXT_PAGE = 2
+const SPLIT_FIT_SAFETY_PT = 4
 const MIN_SPLIT_HEIGHT_PT = LINE_HEIGHT_PT * MIN_SPLIT_LINES
+const MIN_PARAGRAPH_ROOM_AFTER_HEADING_PT = MIN_SPLIT_HEIGHT_PT + PARA_MARGIN_PT
 
 // ── Types ─────────────────────────────────────────────────────────────────────
 interface BaseSegment {
@@ -71,6 +92,12 @@ interface ParagraphSegment extends BaseSegment {
   html: string
   isChapterOpener?: boolean
   isFiction?: boolean
+  /** True when this segment was sourced from a markdown list node */
+  isListSegment?: boolean
+  /** Per-top-level-item <li>...</li> HTML for paginator splitting */
+  itemLiHtmls?: string[]
+  /** Height estimate per item (pt) */
+  itemHeights?: number[]
 }
 interface BlockquoteSegment extends BaseSegment {
   type: 'blockquote'
@@ -138,6 +165,29 @@ interface BookData {
   pages: BookPage[]
 }
 
+function normalizeTocKey(text: string): string {
+  return text
+    .toLowerCase()
+    .replace(/^\s*\d+\s*[.:)]\s*/u, '')
+    .replace(/^\s*text\s*box\s*:\s*/u, '')
+    .replace(/[^a-z0-9\s]/gu, ' ')
+    .replace(/\s+/gu, ' ')
+    .trim()
+}
+
+function buildHeadingPageMap(pages: BookPage[]): Map<string, number> {
+  const map = new Map<string, number>()
+  for (const page of pages) {
+    for (const seg of page.segments) {
+      if (seg.type !== 'heading') continue
+      const key = normalizeTocKey((seg as HeadingSegment).text)
+      if (!key) continue
+      if (!map.has(key)) map.set(key, page.pageNumber)
+    }
+  }
+  return map
+}
+
 // ── Helpers ───────────────────────────────────────────────────────────────────
 
 /** Convert MDAST node subtree to plain text */
@@ -157,6 +207,49 @@ function textHeightPt(str: string, wordsPerLine = WORDS_PER_COL_LINE): number {
   const words = str.split(/\s+/).filter(Boolean).length
   const lines = Math.max(1, Math.ceil(words / wordsPerLine))
   return lines * LINE_HEIGHT_PT + PARA_MARGIN_PT
+}
+
+function escapeHtmlText(str: string): string {
+  return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+}
+
+function isSentenceBoundaryWord(word: string): boolean {
+  return /[.!?]["')\]]*$/.test(word)
+}
+
+function isAwkwardSplitEnding(word: string): boolean {
+  const cleaned = word.toLowerCase().replace(/[^a-z]/g, '')
+  return new Set([
+    'and',
+    'or',
+    'but',
+    'that',
+    'which',
+    'who',
+    'whom',
+    'whose',
+    'to',
+    'of',
+    'in',
+    'on',
+    'at',
+    'for',
+    'from',
+    'with',
+    'by',
+    'as',
+    'if',
+    'than',
+    'then',
+    'a',
+    'an',
+    'the',
+  ]).has(cleaned)
+}
+
+function startsWithLowercaseWord(text: string): boolean {
+  const first = text.trim().split(/\s+/)[0] ?? ''
+  return /^[a-z]/.test(first)
 }
 
 /** Convert a single MDAST node to an HTML string via unified pipeline */
@@ -239,6 +332,11 @@ function parseChapter(
       const h = node as Heading
       const text = toText(h)
       if (h.depth === 1 && segments.length === 0) title = text
+      // Front-matter title is assumed/known in the reader UI and should not
+      // consume layout space on pages 1-2.
+      if (chapterIndex === 0 && h.depth === 1) {
+        continue
+      }
       segments.push({
         type: 'heading',
         level: Math.min(h.depth, 4) as 1 | 2 | 3 | 4,
@@ -284,14 +382,35 @@ function parseChapter(
     } else if (node.type === 'thematicBreak') {
       segments.push({ type: 'hr', heightPt: 8 })
     }
-    // list nodes: convert to HTML paragraph
+    // list nodes: convert to HTML paragraph (with per-item metadata for split logic)
     else if (node.type === 'list') {
+      const listNode = node as List
       const html = nodeToHtml(node)
-      const text = toText(node)
+      const itemLiHtmls: string[] = []
+      const itemHeights: number[] = []
+      for (const item of listNode.children as ListItem[]) {
+        // Wrap in single-item list to get valid HTML, then extract the <li> tag
+        const wrapper: List = {
+          type: 'list',
+          ordered: listNode.ordered ?? false,
+          spread: listNode.spread ?? false,
+          children: [item],
+        }
+        const wrapHtml = nodeToHtml(wrapper)
+        const liMatch = wrapHtml.match(/(<li[\s>][\s\S]*<\/li>)/i)
+        itemLiHtmls.push(liMatch ? liMatch[1] : '')
+        itemHeights.push(
+          textHeightPt(toText(item), LIST_WORDS_PER_COL_LINE) + LIST_ITEM_EXTRA_PT,
+        )
+      }
+      const totalHeight = itemHeights.reduce((s, h) => s + h, 0) + LIST_BLOCK_EXTRA_PT
       segments.push({
         type: 'paragraph',
         html,
-        heightPt: textHeightPt(text) + 4,
+        isListSegment: true,
+        itemLiHtmls,
+        itemHeights,
+        heightPt: totalHeight,
       })
     }
   }
@@ -366,6 +485,7 @@ function paginate(chapters: { title: string; index: number; segments: Segment[] 
   function splitParagraphByAvailableHeight(
     seg: ParagraphSegment,
     availablePt: number,
+    minTailLines = MIN_SPLIT_TAIL_LINES_SAME_PAGE,
   ): [ParagraphSegment, ParagraphSegment] | null {
     const totalText = stripHtmlText(seg.html)
     if (!totalText) return null
@@ -377,35 +497,85 @@ function paginate(chapters: { title: string; index: number; segments: Segment[] 
       1,
       Math.ceil((seg.heightPt - PARA_MARGIN_PT) / LINE_HEIGHT_PT),
     )
+    const adjustedAvailablePt = Math.max(0, availablePt - SPLIT_FIT_SAFETY_PT)
     const availableLines = Math.floor(
-      Math.max(0, availablePt - PARA_MARGIN_PT) / LINE_HEIGHT_PT,
+      Math.max(0, adjustedAvailablePt - PARA_MARGIN_PT) / LINE_HEIGHT_PT,
     )
 
+    // Allow split if current column can show at least 2 lines and next
+    // column/page can carry at least 1 line of continuation.
     if (availableLines < MIN_SPLIT_LINES) return null
-    if (totalLines - availableLines < MIN_SPLIT_LINES) return null
+    if (totalLines - availableLines < minTailLines) return null
 
-    const splitIdx = Math.floor((words.length * availableLines) / totalLines)
+    let splitIdx = Math.floor((words.length * availableLines) / totalLines)
     if (splitIdx < 3 || words.length - splitIdx < 3) return null
 
-    const headText = words.slice(0, splitIdx).join(' ').trim()
-    const tailText = words.slice(splitIdx).join(' ').trim()
+    // Prefer breaking at a sentence boundary close to the estimated split.
+    // This keeps continuation flow natural and avoids obvious mid-sentence
+    // chops where possible.
+    const boundaryLookback = 18
+    let boundaryIdx = -1
+    for (let i = splitIdx - 1; i >= Math.max(2, splitIdx - boundaryLookback); i--) {
+      if (isSentenceBoundaryWord(words[i])) {
+        boundaryIdx = i + 1
+        break
+      }
+    }
+    if (boundaryIdx >= 3 && words.length - boundaryIdx >= 3) {
+      splitIdx = boundaryIdx
+    }
+
+    // Back off split point until the head truly fits the remaining space.
+    // This avoids visual spill under footer/header caused by rough word/line
+    // estimation when line lengths vary.
+    let headText = words.slice(0, splitIdx).join(' ').trim()
+    let tailText = words.slice(splitIdx).join(' ').trim()
+    while (splitIdx >= 3) {
+      const headHeight = textHeightPt(headText)
+      const tailLines = Math.max(
+        1,
+        Math.ceil((textHeightPt(tailText) - PARA_MARGIN_PT) / LINE_HEIGHT_PT),
+      )
+      if (headHeight <= adjustedAvailablePt && tailLines >= minTailLines) {
+        const endingWord = words[splitIdx - 1] ?? ''
+        if (isAwkwardSplitEnding(endingWord) && splitIdx - 1 >= 3) {
+          splitIdx -= 1
+          if (splitIdx < 3 || words.length - splitIdx < 3) return null
+          headText = words.slice(0, splitIdx).join(' ').trim()
+          tailText = words.slice(splitIdx).join(' ').trim()
+          continue
+        }
+        break
+      }
+      splitIdx -= 1
+      if (splitIdx < 3 || words.length - splitIdx < 3) return null
+      headText = words.slice(0, splitIdx).join(' ').trim()
+      tailText = words.slice(splitIdx).join(' ').trim()
+    }
     if (!headText || !tailText) return null
+
+    // If continuation starts with lowercase text, it's usually a mid-sentence
+    // chop (e.g. "... goal" / "that your ...") which reads like a fake
+    // paragraph break in the layout. Prefer moving the whole paragraph instead.
+    if (startsWithLowercaseWord(tailText)) return null
 
     const head: ParagraphSegment = {
       ...seg,
-      html: `<p>${headText}</p>`,
+      html: escapeHtmlText(headText),
       heightPt: textHeightPt(headText),
     }
     const tail: ParagraphSegment = {
       ...seg,
-      html: `<p>${tailText}</p>`,
+      html: escapeHtmlText(tailText),
       heightPt: textHeightPt(tailText),
       isChapterOpener: false,
     }
     return [head, tail]
   }
 
-  function addSegment(seg: Segment, chTitle: string, chIdx: number) {
+  function addSegment(seg: Segment, chTitle: string, chIdx: number, nextSeg?: Segment) {
+    const effectiveColumnHeight = Math.max(0, COLUMN_HEIGHT_PT - RENDER_SAFETY_PT)
+
     // Ensure current page matches the chapter
     if (currentPage.chapterTitle !== chTitle && currentPage.segments.length > 0) {
       flush()
@@ -425,11 +595,81 @@ function paginate(chapters: { title: string; index: number; segments: Segment[] 
       colNum = 0
     }
 
-    // Headings: keep with next content — simple approach: don't break heading at column bottom
-    const willOverflow = colFill + seg.heightPt > COLUMN_HEIGHT_PT
+    // Targeted guard rail:
+    // In Chapter 2, "ALTERNATIVE METHOD" has repeatedly landed in the final
+    // tail-space of a spread where runtime layout can clip the first paragraph.
+    // Start this section on a fresh page to guarantee visible continuity.
+    if (
+      chIdx === 1 &&
+      seg.type === 'heading' &&
+      (seg as HeadingSegment).level === 3 &&
+      (seg as HeadingSegment).text === 'ALTERNATIVE METHOD' &&
+      (currentPage.segments.length > 0 || colNum !== 0 || colFill > 0)
+    ) {
+      flush()
+      currentPage = newPage(pageNumber, chTitle, chIdx)
+      colFill = 0
+      colNum = 0
+    }
+
+    // Front-matter layout rule:
+    // Keep CREDITS on page 1 and start the marked intro fiction on a new page.
+    if (
+      chIdx === 0 &&
+      seg.type === 'paragraph' &&
+      !!(seg as ParagraphSegment).isFiction
+    ) {
+      const pageAlreadyHasFiction = currentPage.segments.some(
+        (s) => s.type === 'paragraph' && !!(s as ParagraphSegment).isFiction,
+      )
+      if (
+        !pageAlreadyHasFiction &&
+        (currentPage.segments.length > 0 || colNum !== 0 || colFill > 0)
+      ) {
+        flush()
+        currentPage = newPage(pageNumber, chTitle, chIdx)
+        colFill = 0
+        colNum = 0
+      }
+    }
+
+    // Front-matter layout rule:
+    // Keep all intro fiction on page 2 and start "FORBIDDEN LANDS" on page 3.
+    if (
+      chIdx === 0 &&
+      seg.type === 'heading' &&
+      (seg as HeadingSegment).level === 3 &&
+      (seg as HeadingSegment).text === 'FORBIDDEN LANDS' &&
+      (currentPage.segments.length > 0 || colNum !== 0 || colFill > 0)
+    ) {
+      flush()
+      currentPage = newPage(pageNumber, chTitle, chIdx)
+      colFill = 0
+      colNum = 0
+    }
+
+    // Headings must leave enough space for at least two body-text lines below
+    // them in the current column. If not, move the heading to the next column.
+    const headingNextReservationPt =
+      seg.type === 'heading'
+        ? nextSeg?.type === 'paragraph'
+          ? (seg as HeadingSegment).level >= 3
+            ? Math.min((nextSeg as ParagraphSegment).heightPt + 18, 180)
+            : Math.min((nextSeg as ParagraphSegment).heightPt, 72)
+          : MIN_PARAGRAPH_ROOM_AFTER_HEADING_PT
+        : 0
+
+    const headingNeedsNextColumn =
+      seg.type === 'heading' &&
+      colFill + seg.heightPt + headingNextReservationPt > effectiveColumnHeight
+
+    // Headings: keep with next content — don't leave a dangling heading at the
+    // bottom of a column with no meaningful paragraph room beneath it.
+    const willOverflow =
+      colFill + seg.heightPt > effectiveColumnHeight || headingNeedsNextColumn
 
     if (willOverflow) {
-      const availablePt = COLUMN_HEIGHT_PT - colFill
+      const availablePt = effectiveColumnHeight - colFill
 
       // Paragraph continuation logic:
       // - left column: allow paragraph to continue into right column if both sides
@@ -437,47 +677,99 @@ function paginate(chapters: { title: string; index: number; segments: Segment[] 
       // - right column: split paragraph so tail continues on next page, again with
       //   at least 2 lines on each side.
       if (seg.type === 'paragraph') {
-        if (colNum === 0) {
-          const split = splitParagraphByAvailableHeight(
-            seg as ParagraphSegment,
-            availablePt,
-          )
-          if (split) {
-            const [head, tail] = split
+        const pSeg = seg as ParagraphSegment
+
+        // ── List segment: split by item count (≥2 items per column) ──────────
+        if (pSeg.isListSegment && pSeg.itemLiHtmls && pSeg.itemHeights) {
+          const liHtmls = pSeg.itemLiHtmls
+          const heights = pSeg.itemHeights
+          // Count how many top-level items fit in the remaining column space
+          let cumHeight = 0
+          let splitAt = 0
+          for (let k = 0; k < heights.length; k++) {
+            if (colFill + cumHeight + heights[k] > effectiveColumnHeight) break
+            cumHeight += heights[k]
+            splitAt = k + 1
+          }
+          const remaining = liHtmls.length - splitAt
+          if (splitAt >= 2 && remaining >= 1) {
+            // Commit head to current column
+            const headHtml = `<ul>\n${liHtmls.slice(0, splitAt).join('\n')}\n</ul>`
+            const head: ParagraphSegment = {
+              ...pSeg,
+              html: headHtml,
+              itemLiHtmls: liHtmls.slice(0, splitAt),
+              itemHeights: heights.slice(0, splitAt),
+              heightPt: cumHeight + 4,
+            }
             currentPage.segments.push(head)
+            colFill += head.heightPt
+            // Push tail to next column/page
+            const tailHtml = `<ul>\n${liHtmls.slice(splitAt).join('\n')}\n</ul>`
+            const tailHeight = heights.slice(splitAt).reduce((s, h) => s + h, 0) + 4
+            const tail: ParagraphSegment = {
+              ...pSeg,
+              html: tailHtml,
+              itemLiHtmls: liHtmls.slice(splitAt),
+              itemHeights: heights.slice(splitAt),
+              heightPt: tailHeight,
+              isChapterOpener: false,
+            }
             nextColumn()
+            if (colNum === 0 && colFill === 0) {
+              currentPage = newPage(pageNumber, chTitle, chIdx)
+            }
             addSegment(tail, chTitle, chIdx)
             return
           }
+          // Not enough items fit — fall through to normal overflow (move whole list)
         }
 
-        if (colNum === 1) {
-          const split = splitParagraphByAvailableHeight(
-            seg as ParagraphSegment,
-            availablePt,
-          )
-          if (split) {
-            const [head, tail] = split
-            currentPage.segments.push(head)
-            flush()
-            currentPage = newPage(pageNumber, chTitle, chIdx)
-            colFill = 0
-            colNum = 0
-            addSegment(tail, chTitle, chIdx)
-            return
+        // ── Regular paragraph: text-level word split ──────────────────────────
+        if (!pSeg.isListSegment) {
+          if (colNum === 0) {
+            const split = splitParagraphByAvailableHeight(
+              pSeg,
+              availablePt,
+              MIN_SPLIT_TAIL_LINES_SAME_PAGE,
+            )
+            if (split) {
+              const [head, tail] = split
+              currentPage.segments.push(head)
+              nextColumn()
+              addSegment(tail, chTitle, chIdx)
+              return
+            }
+          }
+
+          if (colNum === 1) {
+            const split = splitParagraphByAvailableHeight(
+              pSeg,
+              availablePt,
+              MIN_SPLIT_TAIL_LINES_NEXT_PAGE,
+            )
+            if (split) {
+              const [head, tail] = split
+              currentPage.segments.push(head)
+              flush()
+              currentPage = newPage(pageNumber, chTitle, chIdx)
+              colFill = 0
+              colNum = 0
+              addSegment(tail, chTitle, chIdx)
+              return
+            }
           }
         }
       }
 
       if (seg.type === 'heading') {
-        // Move heading to next column/page so it stays with content
+        // Move heading to next column/page so it stays with content.
+        // IMPORTANT: never replace currentPage unless a new page was actually
+        // started by nextColumn(); otherwise we'd drop already-added segments.
         nextColumn()
-        currentPage =
-          currentPage.segments.length === 0
-            ? currentPage
-            : newPage(pageNumber, chTitle, chIdx)
-        if (currentPage.segments.length === 0 && pages.length > 0) {
-          // already on new page from flush, fix currentPage
+        if (colNum === 0 && colFill === 0) {
+          // Started new page via flush
+          currentPage = newPage(pageNumber, chTitle, chIdx)
         }
       } else {
         nextColumn()
@@ -499,8 +791,10 @@ function paginate(chapters: { title: string; index: number; segments: Segment[] 
       colFill === 0 && colNum === 0 ? pageNumber : pageNumber + (colNum === 1 ? 1 : 0)
     let chStart = startPage
 
-    for (const seg of ch.segments) {
-      addSegment(seg, ch.title, ch.index)
+    for (let i = 0; i < ch.segments.length; i++) {
+      const seg = ch.segments[i]
+      const nextSeg = i + 1 < ch.segments.length ? ch.segments[i + 1] : undefined
+      addSegment(seg, ch.title, ch.index, nextSeg)
     }
 
     // Chapter just ended — where is current page?
@@ -552,9 +846,23 @@ function main() {
   console.log('[…] Paginating …')
   const { pages, chapterIndex } = paginate(chapters)
 
-  const toc: TocEntry[] = existsSync(TOC_FILE)
+  const headingPageMap = buildHeadingPageMap(pages)
+
+  const tocSeed: TocEntry[] = existsSync(TOC_FILE)
     ? JSON.parse(readFileSync(TOC_FILE, 'utf8'))
     : []
+
+  // Keep the curated TOC ordering/titles, but always align pages to where
+  // headings actually land after pagination changes.
+  const toc: TocEntry[] = tocSeed.map((entry) => {
+    const key = normalizeTocKey(entry.title)
+    const resolvedPage = headingPageMap.get(key)
+    if (!resolvedPage) return entry
+    return {
+      ...entry,
+      page: resolvedPage,
+    }
+  })
 
   const bookData: BookData = {
     generatedAt: new Date().toISOString(),

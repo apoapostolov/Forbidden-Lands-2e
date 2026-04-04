@@ -81,6 +81,27 @@
   text-align: justify;
 }
 
+/* ── Lists inside body text ─────────────────────────────────── */
+.body-text ul,
+.body-text ol {
+  padding-left: 1.1em;
+  margin: 0.15em 0 0.3em;
+  list-style-position: outside;
+}
+
+.body-text li {
+  margin-bottom: 0.15em;
+}
+
+/* Nested sub-lists (PRIDE / DARK SECRET option bullets) */
+.body-text ul ul,
+.body-text ol ol,
+.body-text ul ol,
+.body-text ol ul {
+  padding-left: 0.9em;
+  margin: 0.05em 0 0;
+}
+
 /* ── 7. Flavour / Italic Body (IM_FELL_Great_Primer_Ita @ 8 pt) */
 .flavour-text {
   font-family: var(--font-body);

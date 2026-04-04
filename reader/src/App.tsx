@@ -14,7 +14,12 @@ function readHashPage(): number {
   const m = window.location.hash.match(/^#page\/(\d+)$/)
   if (!m) return -1
   const n = parseInt(m[1], 10)
-  return isNaN(n) ? -1 : Math.min(Math.max(0, n), bookData.totalPages - 1)
+  if (isNaN(n)) return -1
+
+  // URL hash is human-facing (1-based): #page/1 is the first numbered page.
+  // Convert to the reader's logical 0-based index.
+  const logical = n - 1
+  return Math.min(Math.max(0, logical), bookData.totalPages - 1)
 }
 
 const INITIAL_PAGE = readHashPage()
@@ -37,7 +42,7 @@ export default function App() {
       history.replaceState(null, '', '#')
       return
     }
-    history.replaceState(null, '', `#page/${page}`)
+    history.replaceState(null, '', `#page/${page + 1}`)
   }, [])
 
   /** 'T' key toggles the TOC panel (treated as a keyboard shortcut). */
@@ -64,7 +69,6 @@ export default function App() {
       <NavBar
         currentPage={currentPage}
         totalPages={bookData.totalPages}
-        onGoTo={(p) => readerRef.current?.goToPage(p)}
         onGoToInstant={(p) => readerRef.current?.goToPageInstant(p)}
         onPrev={() => readerRef.current?.prevPage()}
         onPrevInstant={() => readerRef.current?.prevPageInstant()}
@@ -81,7 +85,7 @@ export default function App() {
         onNavigate={(p) => {
           readerRef.current?.goToPage(p)
           setCurrentPage(p)
-          history.replaceState(null, '', `#page/${p}`)
+          history.replaceState(null, '', `#page/${p + 1}`)
         }}
         currentPage={currentPage}
       />
@@ -94,7 +98,7 @@ export default function App() {
         onNavigate={(p) => {
           readerRef.current?.goToPageInstant(p)
           setCurrentPage(p)
-          history.replaceState(null, '', `#page/${p}`)
+          history.replaceState(null, '', `#page/${p + 1}`)
         }}
       />
     </>

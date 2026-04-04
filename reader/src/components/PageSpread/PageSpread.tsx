@@ -28,11 +28,15 @@ export default function PageSpread({ page, side }: PageSpreadProps) {
     <PageBackground side={side}>
       {/* PageHeader removed — using PageHeaderBanner for book-accurate layout */}
       {!hasSectionHeading && <PageHeaderBanner showChapterOverlay={hasChapterHeading} />}
-      <PageContent segments={page.segments} sectionHeadingPage={hasSectionHeading} />
+      <PageContent
+        segments={page.segments}
+        sectionHeadingPage={hasSectionHeading}
+        pageNumber={page.pageNumber}
+        chapterIndex={page.chapterIndex}
+      />
       <PageFooter
         pageNumber={page.pageNumber}
         side={side}
-        chapterIndex={page.chapterIndex}
         chapterTitle={page.chapterTitle}
       />
     </PageBackground>

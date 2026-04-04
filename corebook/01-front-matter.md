@@ -203,6 +203,6 @@ A typical game session lasts 3-4 hours. Longer games of 5 hours or more should b
 
 If you have made your way here without knowing what a roleplaying game is, congratulations! Welcome to a rewarding and creative hobby. Roleplaying is a unique form of gaming, or cultural expression if you prefer to call it that, that combines tabletop gaming with storytelling. Roleplaying games give you a set of rules and let you create your own story with your friends in a way that books, movies, TV, and even video games cannot.
 
-The strength of roleplaying games is also a challenge - the freedom to create the story yourselves can be overwhelming. But _Forbidden Lands_ contains plenty of exciting events, places, and people you can populate your story with, and very specific tools for the GM to use. If you need advice or ideas, there is a forum for _Forbidden Lands_ as well as our other games on our website, [freelyaguepublishing.com](https://freelyaguepublishing.com).
+The strength of roleplaying games is also a challenge - the freedom to create the story yourselves can be overwhelming. But _Forbidden Lands_ contains plenty of exciting events, places, and people you can populate your story with, and very specific tools for the GM to use. If you need advice or ideas, there is a forum for _Forbidden Lands_ as well as our other games on our website, [freeleaguepublishing.com](https://freeleaguepublishing.com).
 
 Welcome!

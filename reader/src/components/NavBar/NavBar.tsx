@@ -4,7 +4,6 @@ import styles from './NavBar.module.css'
 interface NavBarProps {
   currentPage: number
   totalPages: number
-  onGoTo: (page: number) => void
   onGoToInstant: (page: number) => void
   onPrev: () => void
   onPrevInstant: () => void
@@ -22,7 +21,6 @@ function isFullscreen() {
 export default function NavBar({
   currentPage,
   totalPages,
-  onGoTo,
   onGoToInstant,
   onPrev,
   onPrevInstant,
