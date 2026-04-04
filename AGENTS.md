@@ -19,6 +19,9 @@ It is not the private source-of-truth workspace. It is a shareable copy meant to
 - `proposals/`
   - Draft design documents, revision notes, and staging material
   - Not canonical until their substance is integrated into `corebook/`
+- `skills/`
+  - Repo-bundled AI skills for writing, design, and rules analysis
+  - Maintain these copies in the repo when the project-specific skills change
 - `README.md`
   - Public explanation of scope and legal context
 - `LICENSE.md`
@@ -48,12 +51,26 @@ If you edit this repo, do not weaken those warnings in the public-facing docs.
 
 Treat `corebook/` as the manuscript and `proposals/` as staged design support that may change over time.
 
+Before drafting any manuscript-facing prose, consult `WRITING_GUIDE.md`.
+This applies to:
+
+- text written directly into `corebook/`
+- proposal passages meant to test or preview final manuscript prose
+- any final draft intended to be integrated into `corebook/` later
+
 If a proposal is accepted:
 
 1. integrate it into `corebook/`
 2. update the chapter changelog if needed
 3. keep the prose native to the manuscript
 4. do not leave proposal rationale inside final rules text
+
+## Skill Rule
+
+If a project-specific AI skill is created or revised for this repo, keep a maintained copy under `skills/`.
+
+The repo copy is the project-owned reference version.
+External installed copies may exist for live use, but they should match the bundled version in this repository.
 
 ## Voice Rule
 
@@ -65,6 +82,9 @@ The manuscript must read like a real fantasy roleplaying book:
 - atmospheric
 - not modern
 - not mechanical AI paraphrase
+
+`WRITING_GUIDE.md` is the operational style authority for achieving that voice.
+If a new passage conflicts with the guide, revise the passage, not the standard.
 
 ## Done Standard
 

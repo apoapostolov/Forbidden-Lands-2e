@@ -102,7 +102,7 @@ In the Forbidden Lands workshops are scarce, skilled labor is uneven, and time i
 | Waterskin                      | 3 silver  | Common   | —      | 1 Leather                  | Quarter Day | Tanner             | Needle and thread        | Needed to carry Water. Does not encumber.                                                                                      |
 | Bandages                       | 6 copper  | Common   | Light  | 1/2 Cloth                  | Quarter Day | Tailor             | Knife                    | Gear Bonus +1 to Healing.                                                                                                      |
 | Lamp Oil                       | 2 copper  | Common   | Light  | 1/4 Tallow or fish oil     | Quarter Day | Tanner             | Fire                     | Lasts a Quarter Day.                                                                                                           |
-| Makeshift Tools                | 1 silver  | Common   | Normal | 1/4 Iron, 1/2 Wood, 1/4 Leather or Cloth | Quarter Day | Smith              | Forge                    | A cheap, breakable field kit tracked with a `D8` Resource Die. Roll after hard use in digging, prying, hammering, patching, and similar work in the wild. |
+| Makeshift Tools                | 1 silver  | Common   | Normal | 1/4 Iron, 1/2 Wood, 1/4 Leather or Cloth | Quarter Day | Smith              | Forge                    | A rough field kit tracked with a `D8` Resource Die. Roll after hard use in digging, prying, hammering, patching, and similar work in the wild. |
 | Ink and Quill                  | 2 silver  | Uncommon | Tiny   | Feather, 1/10 Iron         | Quarter Day | Tanner             | Knife, fire              | Can be used to write down spells.                                                                                              |
 | Parchment                      | 6 copper  | Uncommon | Tiny   | 1/4 Leather                | Quarter Day | Tanner             | Knife                    | Can be used to write down spells.                                                                                              |
 | Blanket                        | 7 copper  | Common   | Light  | 1/2 Cloth                  | Quarter Day | Tailor             | Knife                    | Gear Bonus +1 against cold.                                                                                                    |
@@ -157,17 +157,17 @@ If a skill roll leans on rope or cloth and really strains it (a hard climb, yank
 
 #### MAKESHIFT TOOLS IN THE WILDS
 
-Every adventurer learns the worth of shabby little things that never earn a verse in any song. A short shovel, a hand pick, a hammer, a pry-iron, a few wedges, nails, cord, scraps of leather, a knife, a flask of oil. Each piece is cheap. Being without them can make or break an adventurer.
+Every adventurer learns the worth of the ugly little things that never earn a verse in any song. A short shovel. A hand pick. A hammer. A pry-iron. A few wedges, nails, cord, scraps of leather, a knife, a flask of oil. None of it is fine, and none of it is meant to last, but being without such things can break a journey.
 
-`Makeshift Tools` is such a kit. It is not a builder's chest or a smith's bench in a sack, only a mean bundle of rough field gear for digging, prying, staking, patching, and other ugly work on the road. These kits are commonly thrown together from offcuts, poor iron, scrap wood, and whatever straps and bits can be spared. That is why they cost little, and why they rarely stay whole for long.
+`Makeshift Tools` is such a kit. It is not a builder's chest, a mason's roll, or a smith's bench in a sack. It is a rough bundle of field gear for digging, prying, staking, patching, and other mean roadwork. Most such kits are thrown together from offcuts, poor iron, scrap wood, and whatever straps and bits can be spared. That is why they are cheap. That is also why they fail.
 
-Track `Makeshift Tools` with a `D8` Resource Die when bought. Roll the die after any significant use: digging through roots, snow, rubble, or loose earth; prying open lids, boards, doors, or stones; driving stakes; cutting away debris; making rough camp repairs; or patching harness, carts, shields, boats, and the like. On a roll of 1 or 2, something splits, dulls, bends, cracks, or is used up.
+Track `Makeshift Tools` with a `D8` Resource Die when bought. Roll the die after any hard or significant use: digging through roots, snow, rubble, or loose earth; prying at lids, boards, doors, or stones; driving stakes; cutting away debris; making rough camp repairs; or patching harness, carts, shields, boats, and the like. On a roll of `1-2`, something splits, dulls, bends, cracks, or is spent.
 
-If a task calls for a proper hand tool and you have only `Makeshift Tools`, you may still attempt the work. With a `D8` Resource Die, the roll is at `-1`. With a `D6` Resource Die, the roll is at `-2`. This only applies when `Makeshift Tools` stands in for a real tool of the same general kind. It never replaces a forge, a full workshop, or a proper craftsman's set.
+If a task calls for a proper hand tool and you have only `Makeshift Tools`, you may still attempt the work. With a `D8` Resource Die, the roll is at `-2`. With a `D6` Resource Die, the roll is at `-3`. This only applies when the kit can stand in for the same general kind of tool. It never replaces a forge, a workshop, or a true craftsman's set.
 
-When the Resource Die for `Makeshift Tools` is lost, treat the kit as broken tools. The shovel has split, the pick has come loose, the wedges are ruined, the cord and nails are gone, or too many little losses have finally made the whole bundle worthless.
+When the Resource Die for `Makeshift Tools` is lost, treat the kit as broken. The shovel has split, the pick has come loose, the wedges are ruined, the cord and nails are gone, or too many little losses have finally made the whole bundle worthless.
 
-The tools listed later in this chapter are proper implements for craft and heavy labor. `Makeshift Tools` is the traveler's version: rough, mixed, cheap, and never quite enough.
+The tools listed later in this chapter are proper implements for craft and heavy labor. `Makeshift Tools` is the traveler's version: rough, mixed, cheap, and never enough for long.
 
 ### MELEE WEAPONS
 

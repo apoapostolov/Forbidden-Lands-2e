@@ -1,0 +1,4 @@
+interface:
+  display_name: "Forbidden Lands Design"
+  short_description: "Explain and design the game's mechanics"
+  default_prompt: "Use $forbidden-lands-design to analyze or design Forbidden Lands rules, integration points, and gameplay logic."

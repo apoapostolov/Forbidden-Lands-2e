@@ -43,10 +43,11 @@ Inside `corebook/`, use this order:
 
 1. explicit user instruction
 2. this `AGENTS.md`
-3. the already integrated surrounding manuscript text
-4. `CHANGELOG.md` for implemented history
-5. `../proposals/` only as support material
-6. any external source text only to confirm inherited baseline, not to override accepted local canon without instruction
+3. `../WRITING_GUIDE.md`
+4. the already integrated surrounding manuscript text
+5. `CHANGELOG.md` for implemented history
+6. `../proposals/` only as support material
+7. any external source text only to confirm inherited baseline, not to override accepted local canon without instruction
 
 ## Integration Policy
 
@@ -91,6 +92,16 @@ It must not read like:
 - wiki prose
 - commentary about design intentions
 
+Before adding or rewriting prose in `corebook/`, read and apply `../WRITING_GUIDE.md`.
+Do not draft first and style-correct later unless the user explicitly asks for a rough pass.
+The guide is mandatory for:
+
+- new rule text
+- flavor explanations
+- item and spell descriptions
+- chapter framing prose
+- any proposal text being promoted into manuscript form
+
 ## Authorial Voice
 
 Write as an experienced tabletop writer with:
@@ -102,6 +113,7 @@ Write as an experienced tabletop writer with:
 - respect for real table use
 
 The voice should feel confident and lived-in.
+The detailed paragraph, sentence, example, and explanatory-text standards live in `../WRITING_GUIDE.md` and must be followed.
 
 ## Tone
 

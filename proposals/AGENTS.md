@@ -18,6 +18,8 @@ These files are not automatically canonical. They are meant to:
 - Explain downstream effects.
 - Keep proposal rationale in proposals, not in the final manuscript.
 - Name files descriptively.
+- If a proposal includes draft prose meant to preview final manuscript language, consult `../WRITING_GUIDE.md` before writing.
+- If a proposal is being shaped for likely promotion into `corebook/`, use `../WRITING_GUIDE.md` as the style standard rather than treating voice as a later cleanup step.
 
 ## Canon Rule
 
@@ -32,3 +34,11 @@ If a proposal is promoted:
 ## Style Rule
 
 Even proposal docs should sound like thoughtful tabletop design work, not like software tickets or AI filler.
+
+When a proposal contains:
+
+- final-draft candidate rule text
+- flavor text intended for later integration
+- rewrites meant to test manuscript voice
+
+then `../WRITING_GUIDE.md` is mandatory, not optional.

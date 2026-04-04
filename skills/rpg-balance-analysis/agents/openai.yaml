@@ -1,0 +1,4 @@
+interface:
+  display_name: "RPG Balance Analysis"
+  short_description: "Analyze balance, psychology, and GM/player expectations"
+  default_prompt: "Use $rpg-balance-analysis to evaluate mechanical balance, perceived fairness, player expectations, and GM burden in an RPG rule or subsystem."
