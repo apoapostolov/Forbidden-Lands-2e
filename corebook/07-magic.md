@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD001 MD013 MD024 MD036 MD041 -->
+
 ## MAGIC
 
 > The eyes of Braka the Stone Singer had turned grey as granite, her mouth gaping like a pit. As the walls of the gorge listened and leaned in, the orcs hesitated in their onslaught. With a piercing cry, Braka raised her arms, and with them a being of pure stone rose out of the cliff.
@@ -34,7 +36,7 @@ Casting a spell requires a great deal of mental exertion and requires that you s
 
 **OVERCHARGING:** When you cast a spell, every ⚔️ you roll increases its Power Level by one. For example, if you spend 2 WP to cast a spell and roll two ⚔️, its Power Level is increased to 4.
 
-**MAGIC MISHAP:** If you roll one or several 💀 when you cast a spell, you have unleashed powerful forces but are unable to control them and you suffer a magic mishap. Roll D66 on the table below, applying the modifier based on how many 💀 you rolled.
+**MAGIC MISHAP:** If you roll one or several 💀 when you cast a spell, you have unleashed powerful forces but are unable to control them and you suffer a magic mishap. Roll D66 on the mishap table for the discipline used to cast the spell, applying the modifier based on how many 💀 you rolled.
 
 **SAFE CASTING:** If you cast a spell at a lower rank than your talent rank for the discipline, you may opt to roll one less die for every point of difference. This reduces the risk of a magic mishap, but also makes the spell less likely to overcharge. If the result is zero dice or less, don't roll at all - the spell simply works as intended.
 
@@ -100,9 +102,17 @@ Some ingredients count as corrupted ingredient, i.e. they count as an ingredient
 
 **IMPURE MOTIVES/CONFLICTED EMOTIONS:** (+1, corrupted). You or someone helping you are doing this for power, or are stressed, or afflicted by any other emotions that are sucked into the casting of the spell. Circumstances like if a monster was hunted just to gain a powerful artifact heart will count as an impure action.
 
-### MAGIC MISHAPS
+### MAGIC MISHAP TABLES
 
-**MAGIC MISHAP MODIFIERS:** When these occur, you roll on the mishap table with a 10-digit modifier, depending on the amount of 💀 you rolled. New results have been added if you roll 01-06.
+When magic slips the leash, it recoils in the manner of the path that loosed it. Each path has its own mishap table, set after its spells.
+
+When a spell mishaps, use the table of the path that powered it.
+
+- A Healing spell uses the Healing mishap table.
+- A Blood Magic spell uses the Blood Magic mishap table.
+- A general spell uses the General Spells mishap table.
+
+**MAGIC MISHAP MODIFIERS:** Apply the following modifier to the D66 mishap roll, depending on how many 💀 you rolled.
 
 | ROLLED | MODIFIER (ROLLABLE RANGE)  |
 | ------ | -------------------------- |
@@ -111,36 +121,13 @@ Some ingredients count as corrupted ingredient, i.e. they count as an ingredient
 | 3 - 4  | +10 (22-66)                |
 | More   | +10 per each two 💀 rolled |
 
-| RESULT | EFFECT                                                                                                                                                                                                                                                                                               |
-| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 01-02  | Willpower drain. The spell drains 1D3 additional Willpower Points, or as much as you have left.                                                                                                                                                                                                      |
-| 03-04  | The spell drains your magical capabilities. Treat all your magical talents as if they were one rank lower for 1D6 days. Talents reduced to zero still allow you to chance cast spells at rank 1.                                                                                                     |
-| 05-06  | Chaotic energies surge through your body and electricity constantly crackles around you. Roll three more Base Dice when you cast your next spell. If you do not, the effect will go away by itself after a day, but you cannot benefit from _SLEEP_ during the duration.                             |
-| 11-13  | Someone witnesses your magic and tells others. Your Reputation increases one step.                                                                                                                                                                                                                   |
-| 14-15  | Your magic makes you very _HUNGRY_.                                                                                                                                                                                                                                                                  |
-| 16-21  | The spell suddenly makes you very _THIRSTY_.                                                                                                                                                                                                                                                         |
-| 22-23  | The magic disturbs your sleep. You won't be able to sleep for D6 days, which makes you _SLEEPY_.                                                                                                                                                                                                     |
-| 24-25  | Your spell drains your energy, inflicting 1 point of damage to Agility.                                                                                                                                                                                                                              |
-| 26-31  | Your magic hurts your body and you suffer 1 point of damage to Strength.                                                                                                                                                                                                                             |
-| 32-33  | You are overwhelmed by the power of your own magic and feel that people around you are mere ants compared to you. You suffer 1 point of damage to Empathy.                                                                                                                                           |
-| 34-35  | The spell unleashes demonic visions which inflict 1 point of damage to Wits.                                                                                                                                                                                                                         |
-| 36-41  | The spell triggers a magical disease with a Virulence of 2D6. You and everyone within _ARM'S LENGTH_ of you for the next Quarter Day are exposed to the contagion.                                                                                                                                   |
-| 42-45  | The spell also affects a friend or other unintended victim. A healing or helping spell affects an enemy alongside the intended target.                                                                                                                                                               |
-| 46     | Your magic permanently alters your appearance. The GM decides how.                                                                                                                                                                                                                                   |
-| 51     | The spell blinds you. You act as in total darkness for the next full day.                                                                                                                                                                                                                            |
-| 52-55  | The spell ravages your mind. Immediately roll for a critical injury (horror).                                                                                                                                                                                                                        |
-| 56     | The force of the magic breaks bones in your body. Immediately roll for a critical injury (blunt force).                                                                                                                                                                                              |
-| 61     | Your magic attracts a demon from another dimension. The GM can create a demon randomly or create it herself. The demon appears within the next Quarter Day and will create all kinds of trouble.                                                                                                     |
-| 62-65  | The spell backfires. An offensive spell affects you instead of your intended target. A protective or healing spell wounds instead of healing. A shape-shift goes horribly wrong and you become a dumb animal. A summoned undead, demon, or illusion turns against you. The GM specifies the details. |
-| 66     | Your magic rips open a rift to another dimension, and a demon pulls you over to the other side. Time to make a new character. Your old character will come back as an NPC after D66 days but will be ... changed.                                                                                    |
-
 ### NPCS & SPELLCASTING
 
 NPCs don't have pools of Willpower Points. Instead, when an NPC casts a spell, the GM may simply choose a base Power Level up to the caster's rank in the magic discipline used, plus one if an ingredient is used. Roll normally to determine any overarching or magic mishap.
 
 ##### EXAMPLE
 
-_The half-elf Nirmena has rank 2 in the path of Blood talent, and can cast Blood Magic spells of up to that rank. When she is confronted by a Rust Brother at near range, she chooses to attempt to IMMOLATE him. He carries a torch, which helps her channel the fire in the Rust Brother's blood. She spends two WP to power her spell. As she is a half-elf, these count as three WP, and she rolls three Base Dice. She rolls one ⚔️ and two 💀! The Power Level is 5 (3 from the WP, one for the ⚔️, and one for the torch ingredient). The Rust Brother suffers 5 points of 🩸 and burns like a human torch. Unfortunately, Nirmena also suffers a magic mishap due to the 💀!. Nirmena rolls 43 and the fire spreads through the room. Nirmena's friend Tygar also suffers the 🩸._
+_The half-elf Nirmena has rank 2 in the path of Blood talent, and can cast Blood Magic spells of up to that rank. When she is confronted by a Rust Brother at near range, she chooses to attempt to IMMOLATE him. He carries a torch, which helps her channel the fire in the Rust Brother's blood. She spends two WP to power her spell. As she is a half-elf, these count as three WP, and she rolls three Base Dice. She rolls one ⚔️ and two 💀! The Power Level is 5 (3 from the WP, one for the ⚔️, and one for the torch ingredient). The Rust Brother suffers 5 points of 🩸 and burns like a human torch. Unfortunately, Nirmena also suffers a magic mishap due to the 💀. She rolls 43 on the Blood Magic mishap table, and the spell catches the wrong body as well. Tyrgar is scorched by the same burst of blood-fire._
 
 ### GENERAL SPELLS
 
@@ -463,6 +450,32 @@ _Shapeshifting_: You take on animal traits and cannot leave a half-shapeshifted 
 
 _Sight_: Seeing so much takes its toll on your body. Your eyes change color and your skin and hair become pale. Take a permanent -2 penalty to _endurance_ and gain permanent true sight.
 
+#### GENERAL SPELLS MISHAPS
+
+| D66 | EFFECT |
+| --- | --- |
+| 01-02 | The spell discharges elsewhere: at a random place in the same or a nearby hex, a ward flares, an object is hurled, a door seals, a light bursts, or another brief magical disturbance causes alarm. |
+| 03-04 | You are swollen with your own importance and cannot bear counsel or contradiction. Suffer `1` point of Empathy damage. |
+| 05-06 | The spell floods you with demonic visions, impossible formulas, and broken voices. Suffer `1` point of Wits damage. |
+| 11-13 | The spell drains `1D3` extra WP from you. |
+| 14-15 | Loose power races under your skin. Roll three extra Base Dice on your next General Spell, but if that casting causes a mishap its D66 roll gains `+10`; until then, you cannot benefit from _SLEEP_. |
+| 16-21 | Your magic permanently alters your appearance. The GM decides how, but the change should reflect uncontrolled general sorcery rather than one specific path. |
+| 22-23 | A _NEAR_ or _FAR_ area is fouled by unstable magic: drifting lights, warped echoes, deadened sound, crawling sparks, false shadows, or bitter static. The area is difficult to read, and _SCOUTING_ and _STEALTH_ there are at `-2` for one Quarter Day. |
+| 24-25 | The spell drains your energy, inflicting `1` point of Agility damage. |
+| 26-31 | The magic bites into your body and you suffer `1` point of Strength damage. |
+| 32-33 | Your grasp on broad spellcraft falters. All General Spells count as one rank lower for `D6` days. Talents reduced to zero still allow you to chance cast rank `1` General Spells. |
+| 34-35 | One scroll, grimoire, warding mark, ritual tool, or packet of reagents within _NEAR_ range is smeared, scorched, spilled, or otherwise spoiled. |
+| 36-41 | The spell bursts outward in a naked display of raw sorcery: lights, voices, shockwaves, frost-smoke, sparks, or shadow-rifts, depending on the magic worked. This triggers a _FEAR_ attack against all unprepared non-allied witnesses. |
+| 42-45 | Your spell is noticed across the veil. Before the next Quarter Day ends, the GM introduces one magical complication not bound to any single path: a demon's spoor, a hungry spirit, a warped omen, a hostile scout, or another sign that uncontrolled power has drawn attention. |
+| 46 | Raw magical filth settles into flesh. You and one random other creature within _ARM'S LENGTH_ are exposed to a magical disease with Virulence `2 +` the Willpower spent on the spell. |
+| 51 | The effect also catches a friend, neutral, mount, or other unintended nearby target. |
+| 52-55 | The spell blinds you. You act as if in total darkness for the next full day. |
+| 56 | The spell ravages your mind. Immediately roll for a horror critical injury. |
+| 61 | The force of the magic breaks your body. Immediately roll for a blunt force critical injury. |
+| 62-64 | The spell backfires. A protective spell leaves you exposed, a binding loosens, a disguise slips, a transfer runs the wrong way, a living spell turns hostile, or another General Spell effect twists against its purpose. |
+| 65 | The spell tears loose the structures that keep your will, name, and magic aligned. You survive, but your self is broken into echo, ward, and hunger. You are no longer fit for ordinary adventuring unless bound, restored, or reclaimed by extraordinary means. |
+| 66 | Your magic tears open a rift to another dimension, and a demon drags you through it. Make a new character. After `D66` days, the old one may return as a changed NPC. |
+
 #### HEALING
 
 The true calling of the Druid is to further nature's cause and to heal its wounds wherever they appear. Thus, the Healing discipline is the most common among Druids, and druids focused on this discipline are often popular among adventurers.
@@ -732,6 +745,32 @@ You can restore permanently lost attribute points. To restore an attribute lost 
 
 This is an Epic Spell, see the description for those in this booklet. Each Power Level requires an ingredient. It allows you to channel nature's forces to bring back someone from the dead, not as undead, but truly alive. You do not even need the body of the target; the spell can recreate it, removing any permanent physical injuries as you see fit, also removing what is left of any corpse out there in the world. It cannot reverse age, or a shattered elven ruby, but can create a new body for an intact ruby. The more time that has passed since the target died, the more difficult it is to convince it to return. For each week that has passed since the target died, the spell requires an additional Power Level. A target that does not know you well, might also need to be convinced to return with a successful _manipulation_ roll.
 
+#### HEALING MAGIC MISHAPS
+
+| D66 | EFFECT |
+| --- | --- |
+| 01-02 | The blessing spills elsewhere: at a random place in the same or a nearby hex, wounds knit wrongly, a corpse twitches, or a sickbed flares into panicked commotion. |
+| 03-04 | The suffering around you becomes unbearable. For one Quarter Day, you cannot willingly leave a Broken ally behind. |
+| 05-06 | The veil hangs too thin around you. Whispers of the dead follow you, and _STEALTH_ and _MANIPULATION_ are both at `-2` until dawn. |
+| 11-13 | The spell drains `1D3` extra WP from you. |
+| 14-15 | Restless grace crackles through you. Roll three extra Base Dice on your next Healing spell, but if that casting causes a mishap its D66 roll gains `+10`; until then, you cannot benefit from _SLEEP_. |
+| 16-21 | Your touch leaves a holy or uncanny mark on skin, eyes, or voice. |
+| 22-23 | A _NEAR_ or _FAR_ area turns thick with cloying pollen, overripe rot, or corpse-sweet air, imposing `-2` to _SCOUTING_ and _STEALTH_ there for one Quarter Day. |
+| 24-25 | Your hands will not stop trembling. Your next _HEALING_ roll or Healing spell is at `-2`. |
+| 26-31 | The grace of the spell clings where it should not. Until your next rest, you cannot recover attributes by ordinary rest. |
+| 32-33 | Your healing gift falters. All Healing spells count as one rank lower for `D6` days. |
+| 34-35 | Herbs, bandages, poultices, and healing draughts within _NEAR_ range spoil, clot, or lose their virtue. |
+| 36-41 | A pale saint-light spills from your hands and wounds, and your breath carries the sweet rot of opened graves. This triggers a _FEAR_ attack against all unprepared non-allied witnesses. |
+| 42-45 | Demons or undead sense the miracle and are drawn toward you within the next Quarter Day. |
+| 46 | The healing turns septic. You and one random other creature within _ARM'S LENGTH_ are exposed to a magical disease with Virulence `2 +` the Willpower spent on the spell. |
+| 51 | The spell leaps to the wrong body. An enemy, rival, or unintended bystander also gains the effect or relief. |
+| 52-55 | The light blinds you for the rest of the day. |
+| 56 | The spell ravages your spirit. Roll immediately on the horror critical injury table. |
+| 61 | Life-force snaps through your bones. Roll immediately on the blunt force critical injury table. |
+| 62-64 | The spell inverts: healing wounds instead, calm turns to numbness, purge spreads the affliction, or preservation becomes stasis. |
+| 65 | You become the vessel of what answered from beyond. Your body survives, but something hungry and half-restored now wears it; only powerful ritual aid, binding, or mercy can end the fate. |
+| 66 | Your magic tears open a rift to another dimension, and a demon drags you through it. Make a new character. After `D66` days, the old one may return as a changed NPC. |
+
 ### SHAPESHIFTING
 
 Druids are closely connected to nature, and the shapeshifters are even more so in their aspiration to be one with nature. Shapeshifting means taking the form of an animal. While there are Druids who have truly mastered this art, there is a broad spectrum of spells in the Shapeshifting discipline that all relate to animals and their aspects in different ways.
@@ -977,6 +1016,32 @@ While in range, the creatures will also understand your feelings toward things, 
 
 When the duration ends, your sway over them decays and the creatures will return to nature. It is not impossible that they could cause some unwanted devastation while there or on their way out though.
 
+#### SHAPESHIFTING MISHAPS
+
+| D66 | EFFECT |
+| --- | --- |
+| 01-02 | The call lands elsewhere: at a random place in the same or a nearby hex, wolves howl, birds scatter, or a herd stampedes without clear cause. |
+| 03-04 | The pack sense goes wrong. Mounts, hunting beasts, and tame animals on your side do not trust your commands this scene. |
+| 05-06 | Beast-instinct jumps the leash. At the start of the next encounter, you must spend your first fast action mastering yourself or immediately follow one strong impulse: chase, flee, feed, or defend. |
+| 11-13 | The spell drains `1D3` extra WP from you. |
+| 14-15 | Beast-force crawls in your skin. Roll three extra Base Dice on your next Shapeshifting spell, but if that casting causes a mishap its D66 roll gains `+10`; until then, you cannot benefit from _SLEEP_. |
+| 16-21 | One beast-feature lingers after the spell: eyes, claws, scent, fur, or voice. |
+| 22-23 | A _NEAR_ or _FAR_ area erupts with animal panic, territorial musk, and warning cries; beasts there will not stay calm for one Quarter Day. |
+| 24-25 | Your limbs keep the wrong gait. _MOVE_ is at `-2` until your next rest. |
+| 26-31 | You reek of predator or prey. Animals react badly to you, and _ANIMAL HANDLING_ is at `-2` for one Quarter Day. |
+| 32-33 | Your shifting gift falters. All Shapeshifting spells count as one rank lower for `D6` days. |
+| 34-35 | Reins, leashes, leather straps, and fur-lined gear within _NEAR_ range reek of beast-scent, causing mounts and animals to shy or snap. |
+| 36-41 | Your face and limbs flicker through wrong half-forms: fang, muzzle, claw, hide, or predator eyes showing through in jolts. This triggers a _FEAR_ attack against all unprepared non-allied witnesses. |
+| 42-45 | The wrong predator answers your call and comes hunting. |
+| 46 | Nearby beasts panic, bolt, or turn aggressive for the next Quarter Day. |
+| 51 | The spell catches a friend too: an ally inherits a beast-trait, panic response, or feral instinct. |
+| 52-55 | You lose speech and can only snarl, bark, hiss, or howl until dawn. |
+| 56 | Your mind frays under the wild. Roll immediately on the horror critical injury table. |
+| 61 | Bones wrench and snap in the change. Roll immediately on the blunt force critical injury table. |
+| 62-64 | The spell backfires: you half-shift, lose self-command, turn on allies, or cannot fully shed the beast. |
+| 65 | The beast takes you for good. Your human mind is buried under fang, hide, and hunger, and your character becomes a monstrous animal unless the party can reverse it by extreme means. |
+| 66 | Your magic tears open a rift to another dimension, and a demon drags you through it. Make a new character. After `D66` days, the old one may return as a changed NPC. |
+
 ### AWARENESS
 
 Druids who practice Awareness can see what others cannot see, hear what others cannot hear. They can see what has happened in the past and sense what will happen in the future.
@@ -1209,6 +1274,32 @@ You can send a message to your past self. It could be "last time we were in town
 ✦ **INGREDIENT**: An hourglass
 
 You and your party members travel backwards in time, keeping all your memories intact. At Power Level 1 your consciousness will travel 1 round backwards in time, at PL 2 you will travel 1 turn (15-minutes), PL 3 a Quarter Day, PL 4 a day and PL 5 a week. You keep all accumulated experience (XP), but all worn items, etc., will be restored to their previous forms and owners.
+
+#### AWARENESS MISHAPS
+
+| D66 | EFFECT |
+| --- | --- |
+| 01-02 | The vision breaks loose elsewhere: at a random place in the same or a nearby hex, an omen, ghost-light, or impossible sign causes alarm. |
+| 03-04 | Plain speech becomes hard. Until your next rest, you cannot cleanly lie, bluff, or hide your immediate purpose. |
+| 05-06 | A false omen takes root in your mind. The GM names the misleading sign openly; until it is disproved or until dawn, rolls that rely on reading the current situation are at `-2`. |
+| 11-13 | The spell drains `1D3` extra WP from you. |
+| 14-15 | Too much knowing sparks in you. Roll three extra Base Dice on your next Awareness spell, but if that casting causes a mishap its D66 roll gains `+10`; until then, you cannot benefit from _SLEEP_. |
+| 16-21 | Your eyes, voice, or shadow now bear a telltale omen of prophecy or second sight. |
+| 22-23 | A _NEAR_ or _FAR_ area fills with omens, whispers, and half-seen traces; all _STEALTH_ there is at `-2` for one Quarter Day. |
+| 24-25 | Your focus splits in two. Your next _SCOUTING_, _INSIGHT_, or _LORE_ roll must ignore one success. |
+| 26-31 | Your thoughts leak into the air. Nearby allies and enemies can read your mood and intent for one scene. |
+| 32-33 | Your sight beyond sight dims. All Awareness spells count as one rank lower for `D6` days. |
+| 34-35 | Maps, letters, seals, and hidden notes within _NEAR_ range shed ink, reveal secrets, or become unreadable under too much truth. |
+| 36-41 | Your eyes glaze white and fix on things no one else can see, while your head turns toward hidden truths with dreadful certainty. This triggers a _FEAR_ attack against all unprepared non-allied witnesses. |
+| 42-45 | Spirits, seers, or unseen watchers notice your opened mind. |
+| 46 | The air fills with echoes of past and future. Everyone nearby suffers `-2` to _SCOUTING_ and _STEALTH_ for one Quarter Day. |
+| 51 | The insight is shared by the wrong person. A rival, enemy, or bystander learns part of what you just learned. |
+| 52-55 | You are blinded by too much vision and count as in total darkness for a full day. |
+| 56 | Your mind buckles under revelation. Roll immediately on the horror critical injury table. |
+| 61 | The seizure of insight batters your body. Roll immediately on the blunt force critical injury table. |
+| 62-64 | The spell backfires: you receive false certainty, lose the right memory, expose a hidden plan, or spoil the timing of an ally's action. |
+| 65 | You see too much and do not come back whole. Your mind locks into prophecy, terror, and impossible truths; the character can no longer function as an adventurer unless somehow restored by extraordinary intervention. |
+| 66 | Your magic tears open a rift to another dimension, and a demon drags you through it. Make a new character. After `D66` days, the old one may return as a changed NPC. |
 
 ### SYMBOLISM
 
@@ -1453,6 +1544,32 @@ The spell has no effect on monsters.
 You can read and fully understand everything regarding a single magical artifact or magical effect, just as if you would have been a god reading through the rules of the universe.
 
 If it is used on a magical spell that you saw in action during the past turn, or one you can read about in a grimoire, or similar, it can give you a rune of that spell per Power Level. Such runes can be used by you, to (once per rune) be able to recast the spell as if they were from the Symbolism discipline. These runes themselves does not store any Power Levels, so you decide upon using them how many Willpower Points you want to spend on it. These runes also do not count towards the spell's ingredients; so, see the spell's original description for those.
+
+#### SYMBOLISM MISHAPS
+
+| D66 | EFFECT |
+| --- | --- |
+| 01-02 | The sign lands elsewhere: at a random place in the same or a nearby hex, a doorway seals, a ward flares, or an illusion bursts into view. |
+| 03-04 | Your words twist in your own mouth. Spoken coordination and _MANIPULATION_ are at `-2` until dawn. |
+| 05-06 | Nearby signs answer you without leave. For one scene, doors, masks, mirrors, and marked things in sight may flare or react at the GM's call. |
+| 11-13 | The spell drains `1D3` extra WP from you. |
+| 14-15 | Unstable sigils crawl over your skin. Roll three extra Base Dice on your next Symbolism spell, but if that casting causes a mishap its D66 roll gains `+10`; until then, you cannot benefit from _SLEEP_. |
+| 16-21 | Your magic permanently alters your face, voice, scent, or shadow with a symbolic tell. |
+| 22-23 | A _NEAR_ or _FAR_ area is branded by glowing signs, false shadows, or crawling sigils, drawing eyes and ruining concealment for one Quarter Day. |
+| 24-25 | Sigils burn into your fingertips. Fine hand work, lockpicking, and similar tasks are at `-2` until your next rest. |
+| 26-31 | Your shadow and reflection no longer agree with you. _STEALTH_ is at `-2` for one Quarter Day. |
+| 32-33 | Your runes and signs fail you. All Symbolism spells count as one rank lower for `D6` days. |
+| 34-35 | Scrolls, doors, locks, masks, or marked gear within _NEAR_ range are overwritten with the wrong sign, seal, or ward. |
+| 36-41 | Runes crawl over your skin, gear, and shadow, burning for a heartbeat like cut lines of light. This triggers a _FEAR_ attack against all unprepared non-allied witnesses. |
+| 42-45 | A hostile thing from beyond notices the breach or mark you made. |
+| 46 | Wards, marks, or illusions nearby begin misfiring for the next Quarter Day. |
+| 51 | A friend or ally is also caught in the command, fear, illusion, or silence. |
+| 52-55 | A sign flashes in your eyes and blinds you for a day. |
+| 56 | Your mind reels under broken meaning. Roll immediately on the horror critical injury table. |
+| 61 | The recoil twists your bones and stance. Roll immediately on the blunt force critical injury table. |
+| 62-64 | The spell backfires: the command catches you, the portal miskeys, the silence encloses you, or the illusion turns on allies. |
+| 65 | The sign rewrites you instead. Your true face, voice, and self are sealed beneath a living symbol, and what remains is an omen-ridden shell unless the curse is broken. |
+| 66 | Your magic tears open a rift to another dimension, and a demon drags you through it. Make a new character. After `D66` days, the old one may return as a changed NPC. |
 
 ### STONE SONG
 
@@ -1727,6 +1844,32 @@ This spell calls forth one mountain spirit per Power Level that often take the f
 
 The spell can only be used while in a mountain range.
 
+#### STONE SONG MISHAPS
+
+| D66 | EFFECT |
+| --- | --- |
+| 01-02 | The song strikes elsewhere: at a random place in the same or a nearby hex, a wall cracks, a tunnel settles, or a standing stone splits. |
+| 03-04 | Ancestral murmurs fill your ears. You cannot hear quiet speech well enough for whispered plans or stealthy coordination until dawn. |
+| 05-06 | Mountain-pride hardens in you. You cannot willingly yield ground or retreat this scene unless an ally drags you off. |
+| 11-13 | The spell drains `1D3` extra WP from you. |
+| 14-15 | Stone hums in your bones. Roll three extra Base Dice on your next Stone Song spell, but if that casting causes a mishap its D66 roll gains `+10`; until then, you cannot benefit from _SLEEP_. |
+| 16-21 | Your skin, eyes, or voice take on a stony cast. |
+| 22-23 | A _NEAR_ or _FAR_ area shifts with dust, loose stone, or sudden heaving ground, becoming _ROUGH_ for one Quarter Day. |
+| 24-25 | Your steps go stone-heavy. _RUN_ becomes a slow action until your next rest. |
+| 26-31 | Grit and iron cling to you. Climbing, swimming, and sneaking are all at `-2` for one Quarter Day. |
+| 32-33 | The mountain grows deaf to you. All Stone Song spells count as one rank lower for `D6` days. |
+| 34-35 | Stoneware, locks, blades, hinges, and worked metal within _NEAR_ range jam, crack, or turn heavy as lead. |
+| 36-41 | Dust lifts around your feet, pebbles quiver, and your voice comes back with the weight of a cavern mouth. This triggers a _FEAR_ attack against all unprepared non-allied witnesses. |
+| 42-45 | The song reaches something old below: spirit, construct, or thing under the earth. |
+| 46 | Stone dust, cracks, and falling shards turn the zone dangerous for one Quarter Day. |
+| 51 | A friend, mount, or ally is also trapped, struck, or walled off by the mishap. |
+| 52-55 | Flying grit blinds you for a full day. |
+| 56 | The weight of the deep breaks your mind. Roll immediately on the horror critical injury table. |
+| 61 | The mountain snaps your bones. Roll immediately on the blunt force critical injury table. |
+| 62-64 | The spell backfires: the wrong wall falls, the wrong passage seals, the wrong weapon wakes, or the ground betrays your side. |
+| 65 | The mountain keeps you. Flesh turns to living stone from the feet upward until you stand as a breathing statue, aware but nearly helpless, unless some mighty unmaking frees you. |
+| 66 | Your magic tears open a rift to another dimension, and a demon drags you through it. Make a new character. After `D66` days, the old one may return as a changed NPC. |
+
 ### BLOOD MAGIC
 
 Blood magic derives its power from life itself and its liquid essence—blood. Through the power of blood, the Sorcerer can both benefit and bleed the target of his spells.
@@ -1998,6 +2141,32 @@ Select a number of humanoid non-monster targets up to one more than the spells P
 
 You can cut out a being from the life bond spell as a FREE action, as long as it is within NEAR range. The spell will also cut off a creature as soon as their Strength attribute becomes Broken. Any one target can only have one active life bond. Binding a new will cancel any old, but note that a single life bond can be shared between more than two targets.
 
+#### BLOOD MAGIC MISHAPS
+
+| D66 | EFFECT |
+| --- | --- |
+| 01-02 | The blood-call spills elsewhere: at a random place in the same or a nearby hex, beasts panic, wounds reopen, or blood runs where it should not. |
+| 03-04 | Every oath feels thin as paper. Until dawn, you cannot spend WP to aid or protect another without first passing _INSIGHT_. |
+| 05-06 | Blood wells from eyes, gums, or nose. _MANIPULATION_ and _STEALTH_ are at `-2` until cleaned and bandaged. |
+| 11-13 | The spell drains `1D3` extra WP from you. |
+| 14-15 | Your veins crackle with violent power. Roll three extra Base Dice on your next Blood Magic spell, but if that casting causes a mishap its D66 roll gains `+10`; until then, you cannot benefit from _SLEEP_. |
+| 16-21 | Your body gains a visible blood-mark, heat-shimmer, or unsettling mutation. |
+| 22-23 | A _NEAR_ or _FAR_ area becomes slick with blood-mist, copper stink, and panic; _MOVE_ there is at `-2` for one turn. |
+| 24-25 | Your pulse hammers wrong. Your next _MELEE_ or _MARKSMANSHIP_ roll must be pushed if it can be. |
+| 26-31 | You carry the smell of fresh blood. Trackers, predators, and blood-hungry things gain `+2` to find you for one day. |
+| 32-33 | Your blood-art falters. All Blood Magic spells count as one rank lower for `D6` days. |
+| 34-35 | One set of bandages, one waterskin, or one bloodied item within _NEAR_ range grows hot, slick, or foul and becomes useless until cleaned or replaced. |
+| 36-41 | Your blood beads, threads, or steams in the air around you as though tugged by an unseen hand. This triggers a _FEAR_ attack against all unprepared non-allied witnesses. |
+| 42-45 | A demon smells your blood and takes interest. |
+| 46 | A blood-borne magical disease spreads to you and one random other creature at _ARM'S LENGTH_, with Virulence `2 +` the Willpower spent on the spell. |
+| 51 | The spell catches another body as well: ally, enemy, or vessel. |
+| 52-55 | Blood bursts into your eyes and blinds you for a day. |
+| 56 | Your soul recoils from what you have worked. Roll immediately on the horror critical injury table. |
+| 61 | The blood-force breaks your frame. Roll immediately on the blunt force critical injury table. |
+| 62-64 | The spell backfires: the bond reverses, the curse rebounds, the vessel rejects you, or the flesh-shaping twists your own body. |
+| 65 | Your blood crowns a new horror. Flesh and will split into a ravening blood-thing wearing your shape, and the character is effectively lost unless contained and remade by brutal means. |
+| 66 | Your magic tears open a rift to another dimension, and a demon drags you through it. Make a new character. After `D66` days, the old one may return as a changed NPC. |
+
 ### DEATH MAGIC
 
 Death magic draws its power from dead or dying beings, from rot and decay. Practitioners of death magic, known as necromancers, can also steal power from living things by twisting and tainting them, which is the reason for much of the hate and fear these black arts stir up. The necromancers see themselves as seekers of truth, as pioneers and explorers of the true nature of life and death.
@@ -2254,6 +2423,32 @@ At Power Level 2, you can reduce the time to rise again fr om weeks to Quarter D
 ✦ **INGREDIENT**: None
 
 Half of all the humans in the hex crumbles to dust, half of all the rats, half of all the elves, half of... well everything. During the ritual everyone in the hex is subjected to a ringing pain. The caster and those within NEAR range are (unless the spell mishaps badly) excluded from the effects the first time it is cast in a hex, but not if it is ever cast twice.
+
+#### DEATH MAGIC MISHAPS
+
+| D66 | EFFECT |
+| --- | --- |
+| 01-02 | The grave-breath spills elsewhere: at a random place in the same or a nearby hex, a grave is disturbed, livestock panic, or a charnel stench spreads. |
+| 03-04 | The warmth of the living feels far away. You cannot benefit from _PERFORMANCE_ or comforting words until dawn. |
+| 05-06 | The dead keep speaking to you. Quiet rest, stealth, and concentration are all at `-2` until your next sleep. |
+| 11-13 | The spell drains `1D3` extra WP from you. |
+| 14-15 | Grave-cold clings to you. Roll three extra Base Dice on your next Death Magic spell, but if that casting causes a mishap its D66 roll gains `+10`; until then, you cannot benefit from _SLEEP_. |
+| 16-21 | Your face, breath, or shadow grows corpse-like in some lasting way. |
+| 22-23 | A _NEAR_ or _FAR_ area dims, chills, and reeks of grave-dust; plants wither and open flames burn low for one Quarter Day. |
+| 24-25 | Grave-cold settles in your limbs. You count as _COLD_ until you warm yourself by fire, spell, or proper shelter. |
+| 26-31 | Animals and mounts shy from you. Handling them is at `-2` for one Quarter Day. |
+| 32-33 | Your death-craft falters. All Death Magic spells count as one rank lower for `D6` days. |
+| 34-35 | One ration cache, herb pouch, waterskin, or candle bundle within _NEAR_ range spoils, blackens, or gutters out. |
+| 36-41 | Your flesh pales, your breath smokes cold, and the smell of grave-earth rolls outward from you. This triggers a _FEAR_ attack against all unprepared non-allied witnesses. |
+| 42-45 | Your magic attracts a hungry dead thing, wraith, or demon. |
+| 46 | Rot, spoilage, or contagion spreads through the immediate area for one Quarter Day. |
+| 51 | The dead touch a friend or wrong victim as well. |
+| 52-55 | Death-smoke blinds you for a full day. |
+| 56 | The necrotic force ravages your mind. Roll immediately on the horror critical injury table. |
+| 61 | Death snaps through your body. Roll immediately on the blunt force critical injury table. |
+| 62-64 | The spell backfires: your drain hits you, the corpse rises hostile, the darkness traps allies, or the wrong soul is stirred. |
+| 65 | Death settles into you and will not leave. You remain animate, but only as a corpse-bound thing of cold will and grave-hunger; the character is lost unless the party can somehow drag them back to life. |
+| 66 | Your magic tears open a rift to another dimension, and a demon drags you through it. Make a new character. After `D66` days, the old one may return as a changed NPC. |
 
 ### ELEMENTAL MAGIC
 
@@ -2529,6 +2724,32 @@ You can fully control the chosen element within short range. This control follow
 | Water  | You can as a fast action raise the water level (as long as there is a source), lower, split or shape it. You can have it slush around, forcing MOVE rolls to avoid falling and/or being pushed. You can as a free action use a Power Level 1 water spell each round, even if you do not know it. None of these effects cost you any extra WP or rolls any magical dice.                                                             |
 | Wind   | You take complete control of the wind in the area. You can as a fast action allow people to jump twice as far, halving fall damage, making both land and air count as rough terrain, and/or giving all ranged attacks a -2 modifier. You can as a free action use a Power Level 1 air spell each round, even if you do not know it. None of these effects cost you any extra WP or rolls any magical dice.                          |
 
+#### ELEMENTAL MAGIC MISHAPS
+
+| D66 | EFFECT |
+| --- | --- |
+| 01-02 | The spell discharges elsewhere: at a random place in the same or a nearby hex, a stray fireball, waterspout, gust-blast, or earth-heave hits without warning. |
+| 03-04 | The wrong element answers your mood. At the GM's call, nearby fire gutters, wind gusts, water sloshes, or earth shifts around you for one scene. |
+| 05-06 | Natural cover no longer trusts you. The next time you shelter behind stone, water, flame, or windbreak, it fails, shifts, or exposes you. |
+| 11-13 | The spell drains `1D3` extra WP from you. |
+| 14-15 | Wild elemental charge builds in you. Roll three extra Base Dice on your next Elemental spell, but if that casting causes a mishap its D66 roll gains `+10`; until then, you cannot benefit from _SLEEP_. |
+| 16-21 | The element leaves a lasting mark on your body, scent, or voice. |
+| 22-23 | A _NEAR_ or _FAR_ area erupts in rogue flame, mud, razor wind, or sudden floodwater and becomes a fresh tactical hazard. |
+| 24-25 | One element clings to you violently: soaked, smoking, dust-caked, wind-lashed, or burning-hot. Relevant actions are at `-2` until you clear it. |
+| 26-31 | Your next Elemental spell is unstable. If you cast one before your next rest, its mishap D66 roll gains `+10`. |
+| 32-33 | Your command of the elements falters. All Elemental spells count as one rank lower for `D6` days. |
+| 34-35 | Metal grows hot or numbingly cold, paper chars, oils spill, waterskins burst, or loose gear is flung from hands within _NEAR_ range. |
+| 36-41 | Fire, ash, spray, grit, or gale crowns you in a sudden mantle of raw, unruly element. This triggers a _FEAR_ attack against all unprepared non-allied witnesses. |
+| 42-45 | An elemental spirit or analogous being is drawn to the disturbance. |
+| 46 | The zone becomes unstable with sparks, waves, cracks, or violent gusts for one Quarter Day. |
+| 51 | The elemental force also catches a friend or wrong target. |
+| 52-55 | Flash, ash, spray, or sand blinds you for a day. |
+| 56 | The wild surge tears at your mind. Roll immediately on the horror critical injury table. |
+| 61 | The elemental force breaks your bones. Roll immediately on the blunt force critical injury table. |
+| 62-64 | The spell backfires: fire spreads wrong, the ground opens under allies, the air leaves your lungs, or the flood splits your line. |
+| 65 | The elements unmake your human form. You become a raging knot of fire, flood, gale, or broken earth, no longer fit for play unless some epic binding or restoration is achieved. |
+| 66 | Your magic tears open a rift to another dimension, and a demon drags you through it. Make a new character. After `D66` days, the old one may return as a changed NPC. |
+
 ### ICE AFFINITY
 
 Druids in the Bitter Reach often dedicate themselves to the discipline of Ice Affinity. Such druids have a supernatural sense for snow and ice, and they can draw energies from the frozen lands to create magical effects. Ice Affinity is native to the Bitter Reach. Elsewhere these spells are rare and should only be taken with the GM's approval.
@@ -2673,6 +2894,32 @@ The spell is centered on you, and moves with you. It can be made to exclude a NE
 A COLD target must succeed an Endurance roll with a penalty equal to the Power Level or become your thrall, following your commands just as if they were a mindless undead. It matters not if they are human, undead or so on.
 
 This spell will immediately end if a thrall comes into contact with fire or loses the COLD condition.
+
+#### ICE AFFINITY MISHAPS
+
+| D66 | EFFECT |
+| --- | --- |
+| 01-02 | Winter breaks loose elsewhere: at a random place in the same or a nearby hex, a door freezes shut, a stream skins over, or a sudden frost kills the warmth. |
+| 03-04 | Speech above a whisper hurts, and shouted coordination is impossible until dawn. |
+| 05-06 | Winter seizes you in a shiver-fit. At the start of the next encounter, you lose your first fast action unless fully warmed. |
+| 11-13 | The spell drains `1D3` extra WP from you. |
+| 14-15 | Killing cold nests in you. Roll three extra Base Dice on your next Ice spell, but if that casting causes a mishap its D66 roll gains `+10`; until then, you cannot benefit from _SLEEP_. |
+| 16-21 | Frost leaves a lasting mark on hair, eyes, breath, or skin. |
+| 22-23 | A _NEAR_ or _FAR_ area turns slick with ice, white with rime, or half-blinded by frost haze for one Quarter Day. |
+| 24-25 | Your grip goes numb. Bows, picks, and delicate hand tasks are at `-2` until you warm your hands. |
+| 26-31 | Hoarfrost clings to your tracks and breath. _STEALTH_ is at `-2`, and tracking you is `+2`, for one Quarter Day. |
+| 32-33 | Your winter-craft falters. All Ice Affinity spells count as one rank lower for `D6` days. |
+| 34-35 | Waterskins freeze, bowstrings stiffen, oils thicken, and metal rims bite bare skin within _NEAR_ range. |
+| 36-41 | Rime races over your skin and gear, and your eyes shine with a hard winter glaze. This triggers a _FEAR_ attack against all unprepared non-allied witnesses. |
+| 42-45 | Predators, hunters, or winter spirits find your trail. |
+| 46 | A whiteout, glaze, or bitter chill grips the area for the next Quarter Day. |
+| 51 | A friend is trapped, frozen, or cut off by the miscast ice. |
+| 52-55 | Snow glare or ice-flash blinds you for a full day. |
+| 56 | The frozen calm cracks your mind. Roll immediately on the horror critical injury table. |
+| 61 | The cold seizes and breaks your body. Roll immediately on the blunt force critical injury table. |
+| 62-64 | The spell backfires: the wrong path freezes over, allies are trapped, supplies freeze, or your shelter fails. |
+| 65 | Winter takes you alive. Your body becomes a cold-bound idol of ice and half-stopped breath, preserved but unplayable unless the party can thaw and restore what the cold has claimed. |
+| 66 | Your magic tears open a rift to another dimension, and a demon drags you through it. Make a new character. After `D66` days, the old one may return as a changed NPC. |
 
 ### NATURE
 
@@ -2915,6 +3162,32 @@ Can only be cast outdoors during a day with at least partial sunlight or moonlig
 Deal 1 fire damage per ⚔️ to the main target, ignoring armor. Also attack everyone within short range of that target with a number of Base Dice equal to twice the Power Level, dealing fire damage per ⚔️, ignoring armor. Anyone who suffers fire damage from this spell catches fire and suffers another point of damage at the start of every round until a MOVE roll (slow action) is made to extinguish the flames.
 
 All targets of the spell (regardless if they took fire damage or not) must also succeed a _sleight of hand_ roll to shield their eyes from the intense rays in time, or become blinded for 1 round per Power Level.
+
+#### NATURE MISHAPS
+
+| D66 | EFFECT |
+| --- | --- |
+| 01-02 | The green spills elsewhere: at a random place in the same or a nearby hex, roots buckle a path, bees swarm, or a tree bursts into violent bloom. |
+| 03-04 | Green mercy blunts your will. Until dawn, you cannot willingly destroy a harmless plant, nest, or beast without first passing _INSIGHT_. |
+| 05-06 | Leaves whisper in your ear. You cannot keep still enough for patient watch or careful aim; _SCOUTING_ and _MARKSMANSHIP_ are at `-2` for one scene. |
+| 11-13 | The spell drains `1D3` extra WP from you. |
+| 14-15 | Wild sap and storm-power surge in you. Roll three extra Base Dice on your next Nature spell, but if that casting causes a mishap its D66 roll gains `+10`; until then, you cannot benefit from _SLEEP_. |
+| 16-21 | The green leaves a lasting mark on your body or scent. |
+| 22-23 | A _NEAR_ or _FAR_ area overgrows, fogs over, or fills with stinging brush, roots, and pollen for one Quarter Day. |
+| 24-25 | Roots and briars seem to catch at your ankles. _RUN_ becomes a slow action until your next rest. |
+| 26-31 | Pollen, sap, and leaf-scent cling to you. _STEALTH_ is at `-2` and beasts notice you easily for one Quarter Day. |
+| 32-33 | Nature turns from you. All Nature spells count as one rank lower for `D6` days. |
+| 34-35 | One wooden tool, one bow or bundle of shafts, or one wrapped food cache within _NEAR_ range sprouts, mildews, splits, or tangles. |
+| 36-41 | Leaves, roots, spores, or thorny shoots stir and lean toward you as if the wild itself has marked you. This triggers a _FEAR_ attack against all unprepared non-allied witnesses. |
+| 42-45 | Spirits, predators, or territorial beasts are drawn in. |
+| 46 | Growth, fog, vermin, or bad weather turn the area hostile for one Quarter Day. |
+| 51 | A friend is also struck, tangled, lost, or exposed by the backlash. |
+| 52-55 | Spores, pollen, fog, or sap blind you for a day. |
+| 56 | The wild's indifference crushes your mind. Roll immediately on the horror critical injury table. |
+| 61 | Branch, root, or lightning batters your body. Roll immediately on the blunt force critical injury table. |
+| 62-64 | The spell backfires: friendly growth traps you, the wrong path opens, the servant turns feral, or stormfire falls where it should not. |
+| 65 | The wild roots you where you stand. Flesh, bark, thorn, and nest merge into one living shrine of the green, and your character is no longer a free adventurer unless torn back out of it. |
+| 66 | Your magic tears open a rift to another dimension, and a demon drags you through it. Make a new character. After `D66` days, the old one may return as a changed NPC. |
 
 ### SWARM MAGIC
 
@@ -3200,6 +3473,32 @@ Except for very vigilant guards, most people will try to hide in their homes, un
 
 After the ritual, you can gain the ability to release or absorb a blanket of insects as a SLOW action. The duration is permanent, but ends if you ever become BROKEN.
 
+#### SWARM MAGIC MISHAPS
+
+| D66 | EFFECT |
+| --- | --- |
+| 01-02 | The swarm spills elsewhere: at a random place in the same or a nearby hex, a storehouse, camp, or byre erupts with sudden infestation. |
+| 03-04 | Hive-thought bleeds out of you. Nearby creatures can read your mood from the buzzing around you. |
+| 05-06 | Your skin will not stop crawling. In the next encounter, you must spend your first fast action brushing at yourself unless harmed first. |
+| 11-13 | The spell drains `1D3` extra WP from you. |
+| 14-15 | The hive hums through your bones. Roll three extra Base Dice on your next Swarm spell, but if that casting causes a mishap its D66 roll gains `+10`; until then, you cannot benefit from _SLEEP_. |
+| 16-21 | You gain a lasting insectile tell: scent, chittering breath, skittering shadow, or blackened eyes. |
+| 22-23 | A _NEAR_ or _FAR_ area fills with stinging insects, crawling vermin, or choking moth-clouds for one Quarter Day. |
+| 24-25 | Crawling bodies distract your hands and eyes. _MARKSMANSHIP_, locks, and delicate work are at `-2` until you clear them off. |
+| 26-31 | You carry a pheromone trail. Vermin, swarms, and things that feed on them can track you at `+2` for one day. |
+| 32-33 | Your swarm-craft falters. All Swarm spells count as one rank lower for `D6` days. |
+| 34-35 | One ration bag, one bedroll, one saddlebag, or one packet of papers within _NEAR_ range is infested, webbed, or nibbled through. |
+| 36-41 | A living mantle of flies, beetles, rats, or spiders boils over you before scattering underfoot. This triggers a _FEAR_ attack against all unprepared non-allied witnesses. |
+| 42-45 | A greater swarm, giant vermin, or swarm-feeding horror is drawn to you. |
+| 46 | Infestation, webs, stink, or larval spill fouls the area for one Quarter Day. |
+| 51 | A friend is also cocooned, bitten, revealed, or cut off by the swarm. |
+| 52-55 | Insects flood your eyes and blind you for a day. |
+| 56 | The hive tears at your reason. Roll immediately on the horror critical injury table. |
+| 61 | Swarm-weight and panic batter your body. Roll immediately on the blunt force critical injury table. |
+| 62-64 | The spell backfires: your swarm turns, allies are infested, webs trap the wrong side, or your body starts to come apart into vermin. |
+| 65 | The colony claims you as host and throne. Your body becomes a crawling nest ruled by a hive-will, and your character is effectively gone unless burned out, cut open, or miraculously purged. |
+| 66 | Your magic tears open a rift to another dimension, and a demon drags you through it. Make a new character. After `D66` days, the old one may return as a changed NPC. |
+
 ### MAGMA SONG
 
 Magma Song is a sub-tradition of Stone Song, dedicated to the volcano god Horn in the Bloodmarch. Magma singers can control lava, fire, and hot water. Dwarven priests of Horn can learn both Stone Song and Magma Song, but must increase their ranks in the sub-traditions separately. Magma singers of other kin usually do not know Stone Song. Magma Song is native to the Bloodmarches. Elsewhere its spells are rare and should only be taken with the GM's approval.
@@ -3473,6 +3772,32 @@ It lasts for one turn per Power Level, and when the duration ends the target's i
 
 A target that takes almost no defensive or hostile actions during the duration of the spell, instead just trying to concentrate on remaining calm, can at the end try to make an INSIGHT roll to avoid the spell's grim fate. They roll with a -1 penalty per defensive or hostile action taken during the duration.
 
+#### MAGMA SONG MISHAPS
+
+| D66 | EFFECT |
+| --- | --- |
+| 01-02 | The magma-song lashes out elsewhere: at a random place in the same or a nearby hex, a hearth flares, a vent opens, or a sudden burst of fire scorches the wrong place. |
+| 03-04 | Your temper rises like a vent. _MANIPULATION_ is at `-2`, but intimidation gains `+1`, until dawn. |
+| 05-06 | You leave ember-traces behind. Flammable things you linger near may begin to smoke or kindle at the GM's call this scene. |
+| 11-13 | The spell drains `1D3` extra WP from you. |
+| 14-15 | Fire, ash, and pressure build in you. Roll three extra Base Dice on your next Magma Song spell, but if that casting causes a mishap its D66 roll gains `+10`; until then, you cannot benefit from _SLEEP_. |
+| 16-21 | Your body takes a lasting volcanic mark. |
+| 22-23 | A _NEAR_ or _FAR_ area fills with ash, smoke, cinders, steam, or fresh heat-cracks and becomes a new hazard. |
+| 24-25 | Heat-shimmer ruins your eye and hand. Ranged attacks and fine work are at `-2` until you cool down. |
+| 26-31 | Smoke lives in your lungs. _STEALTH_, speech, and long exertion are at `-2` until your next rest. |
+| 32-33 | Your magma-song falters. All Magma Song spells count as one rank lower for `D6` days. |
+| 34-35 | Metal turns searing, wax and glue soften, paper chars, and drink turns hot in hand within _NEAR_ range. |
+| 36-41 | Heat blooms around you, cinders leak from your mouth, and ember-light shows in the seams of your skin. This triggers a _FEAR_ attack against all unprepared non-allied witnesses. |
+| 42-45 | Something ancient below notices your call. |
+| 46 | Smoke, ash, embers, or softening stone make the area hazardous for one Quarter Day. |
+| 51 | A friend is also scorched, cut off, or exposed by the mishap. |
+| 52-55 | Ash and glare blind you for a day. |
+| 56 | The fury of the deep ravages your mind. Roll immediately on the horror critical injury table. |
+| 61 | The backlash breaks your body. Roll immediately on the blunt force critical injury table. |
+| 62-64 | The spell backfires: lava breaks wrong, wildfire spreads, steam bursts on allies, or your escape route melts. |
+| 65 | The deep fire hollows you out. You remain standing as a cracked shell full of heat and molten light, a walking eruption rather than a playable person unless somehow quenched and restored. |
+| 66 | Your magic tears open a rift to another dimension, and a demon drags you through it. Make a new character. After `D66` days, the old one may return as a changed NPC. |
+
 ### MENTALISM
 
 The moon elves of Anoma beyond the seas were masters of mentalism, a magical tradition that affects the perception, memory, and will of intelligent creatures. They stole the Eighth Mother from the worm people and fled, first to Ravenland and then onwards to Aslene. Modern moon elves have lost much of this knowledge, but are still excellent manipulators. Mentalism is native to the Bloodmarches. Elsewhere its spells are rare and should only be taken with the GM's approval.
@@ -3745,6 +4070,32 @@ This ritual can be used to permanently alter time within a location or move a lo
 You plant thoughts in your target's head. Unless the target succeeds an INSIGHT roll with a penalty equal to the spell's Power Level, you can rewrite their personality and very thoughts, but unless you obscured the magic at least others would know you cast a spell on them. Your ability to rewrite their mind lingers for as long as you both remain within short range. But any rewrite you have done will remain permanently.
 
 Monsters are immune to this spell.
+
+#### MENTALISM MISHAPS
+
+| D66 | EFFECT |
+| --- | --- |
+| 01-02 | The thought-strike lands elsewhere: at a random place in the same or a nearby hex, panic, confusion, or shared hallucination seizes a small group. |
+| 03-04 | Your tone goes wrong and cold. _MANIPULATION_ is at `-2` except for threats and raw commands. |
+| 05-06 | A false certainty lodges in your mind. The GM states the wrong assumption openly; until it is disproved or until dawn, rolls that rely on that assumption are at `-2`. |
+| 11-13 | The spell drains `1D3` extra WP from you. |
+| 14-15 | Unstable thought-power churns in you. Roll three extra Base Dice on your next Mentalism spell, but if that casting causes a mishap its D66 roll gains `+10`; until then, you cannot benefit from _SLEEP_. |
+| 16-21 | Your eyes, voice, or manner are permanently altered in some unsettling mental way. |
+| 22-23 | A _NEAR_ or _FAR_ area fills with false whispers, mirrored doubles, or creeping doubt; command and coordination there suffer `-2` for one turn. |
+| 24-25 | Your attention skips at the wrong moment. You lose one success from your next _LORE_, _INSIGHT_, or _MANIPULATION_ roll. |
+| 26-31 | Your surface thoughts leak into your face and voice. Deception is impossible until dawn. |
+| 32-33 | Your mind-craft falters. All Mentalism spells count as one rank lower for `D6` days. |
+| 34-35 | Written orders, letters, tally marks, masks, mirrors, or tokens within _NEAR_ range shift meaning, show lies, or become briefly untrustworthy. |
+| 36-41 | Your stare goes utterly wrong, and your voice lands in other minds a breath before your lips move. This triggers a _FEAR_ attack against all unprepared non-allied witnesses. |
+| 42-45 | Other minds, spirits, or hostile thinkers notice the breach. |
+| 46 | Illusion, confusion, or mental static spills into the area for one Quarter Day. |
+| 51 | A friend or wrong witness is also caught in the mind-working. |
+| 52-55 | A snap of white pain blinds you for a day. |
+| 56 | The feedback ravages your mind. Roll immediately on the horror critical injury table. |
+| 61 | The seizure of will breaks your frame. Roll immediately on the blunt force critical injury table. |
+| 62-64 | The spell backfires: your command binds you, your disguise slips, the wrong memories are cut loose, or your double turns on you. |
+| 65 | Your self is overwritten. Something clever still speaks through your mouth, but your own will is gone beneath command, echo, and borrowed thought unless violently restored. |
+| 66 | Your magic tears open a rift to another dimension, and a demon drags you through it. Make a new character. After `D66` days, the old one may return as a changed NPC. |
 
 ### ONEIROMANCY
 
@@ -4047,6 +4398,32 @@ It also includes going back and introducing more major changes, that will change
 
 In order to make minor alterations, like rerolling a die roll, you cannot wait too long. As soon as the GM and the players cannot remember the exact state everything was in, then you will have to go back further. This means that you could be stopped from going back to the middle of a combat that has since then been going on for a while or that has ended. In such case, you would likely have to redo the fight from the beginning.
 
+#### ONEIROMANCY MISHAPS
+
+| D66 | EFFECT |
+| --- | --- |
+| 01-02 | The dream spills elsewhere: at a random place in the same or a nearby hex, sleepers wake screaming, fall comatose, or wander in their sleep. |
+| 03-04 | Sleep keeps pulling at you. If you spend a Quarter Day idle, you nod off unless shaken awake. |
+| 05-06 | Sleepers murmur your name. Resting or sneaking near sleeping folk is at `-2` for one Quarter Day. |
+| 11-13 | The spell drains `1D3` extra WP from you. |
+| 14-15 | Dream-stuff clings to you. Roll three extra Base Dice on your next Oneiromancy spell, but if that casting causes a mishap its D66 roll gains `+10`; until then, you cannot benefit from _SLEEP_. |
+| 16-21 | You carry a lasting dream-mark: distant eyes, sleepwalking habits, sand in the voice, or cold from the other side. |
+| 22-23 | A _NEAR_ or _FAR_ area falls under a drowsy hush, nightmare murmur, or drifting sandman haze for one Quarter Day. |
+| 24-25 | Waking lag clings to you. Your first action in the next encounter loses one success or is taken at `-2`, GM's call. |
+| 26-31 | Dream-stain clouds the real world. _SCOUTING_ and _INSIGHT_ are at `-2` until you sleep again. |
+| 32-33 | Your dream-craft falters. All Oneiromancy spells count as one rank lower for `D6` days. |
+| 34-35 | Charms, maps, letters, sketches, candles, and timepieces within _NEAR_ range blur, dim, stop, or become dream-touched and unreliable. |
+| 36-41 | The light dims around you and dream-images bleed across your face and shadow like a waking nightmare. This triggers a _FEAR_ attack against all unprepared non-allied witnesses. |
+| 42-45 | Something from dream or astral dark notices and approaches. |
+| 46 | Dreams spill into waking life around you for one Quarter Day. |
+| 51 | A friend is also caught in sleep, prophecy, or dream-leak. |
+| 52-55 | You wake blind for the next full day. |
+| 56 | Nightmare ravages your mind. Roll immediately on the horror critical injury table. |
+| 61 | Your sleeping body thrashes itself to harm. Roll immediately on the blunt force critical injury table. |
+| 62-64 | The spell backfires: you sleepwalk, prophecy misleads you, dream travel lands wrong, or a created dream-form turns loose. |
+| 65 | You do not fully wake again. Your body lingers, but your self is lost in dream, nightmare, and wandering sleep unless the party can find and reclaim you beyond the veil of rest. |
+| 66 | Your magic tears open a rift to another dimension, and a demon drags you through it. Make a new character. After `D66` days, the old one may return as a changed NPC. |
+
 ### MAGNETISM
 
 Magnetism is a form of iron-based magic developed within the Rust Church's warrior cult the Ironbrows. It is typically not taught to anyone outside of the order. Magnetism is native to the Bloodmarches. Elsewhere its spells are rare and should only be taken with the GM's approval.
@@ -4307,6 +4684,32 @@ You have mastered magnetic energies enough, so that you are even able to repel a
 If so is done, the original spell's Power Level will be lowered with this spell's Power Level, and you can rebound, at least a part of the original spell, as if cast anew with reverse spell's Power Level, and redirect it towards any targets. You can even choose who should count as the caster of the rebound spell. This also means that if reverse spell's Power Level beats the original spell, then the Power Level of the rebound spell will be even higher than that of the original spell.
 
 The rebound spell will not roll any magical dice or cause any magical mishaps itself, but both the original spell and the reverse spell can.
+
+#### MAGNETISM MISHAPS
+
+| D66 | EFFECT |
+| --- | --- |
+| 01-02 | The pull strikes elsewhere: at a random place in the same or a nearby hex, a bell peals, a gate slams, a cart overturns, or armor is yanked from its rack. |
+| 03-04 | The field pulls your sense of direction askew. Leading the way or navigating is at `-2` until dawn. |
+| 05-06 | You cannot easily let go of held metal. Dropping or handing off metal gear takes a slow action for one scene. |
+| 11-13 | The spell drains `1D3` extra WP from you. |
+| 14-15 | Static rage clings to you. Roll three extra Base Dice on your next Magnetism spell, but if that casting causes a mishap its D66 roll gains `+10`; until then, you cannot benefit from _SLEEP_. |
+| 16-21 | The field leaves a lasting metallic tell in your body or gear. |
+| 22-23 | A _NEAR_ or _FAR_ area becomes a violent pull-field of clattering metal, flying nails, and slamming hinges for one turn. |
+| 24-25 | Iron drags at your gait. If you wear armor or carry heavy metal, _MOVE_ is at `-2` until your next rest. |
+| 26-31 | Static crackles over you. _STEALTH_ is at `-2`, and small metal objects cling to your clothes and skin. |
+| 32-33 | Your iron-craft falters. All Magnetism spells count as one rank lower for `D6` days. |
+| 34-35 | Blades leap, mail tugs, buckles snap, keys jump rings, and iron tools wrench from belts within _NEAR_ range. |
+| 36-41 | Nails, buckles, blades, and iron scraps twitch and rattle toward you as though claimed by a buried force. This triggers a _FEAR_ attack against all unprepared non-allied witnesses. |
+| 42-45 | Something metal-bound, warlike, or arcane takes notice. |
+| 46 | Nearby metal becomes unstable, flying, dragging, or clattering for one Quarter Day. |
+| 51 | A friend is also pinned, disarmed, dragged, or exposed. |
+| 52-55 | Flashing sparks blind you for a day. |
+| 56 | The magnetic surge ravages your mind. Roll immediately on the horror critical injury table. |
+| 61 | The recoil batters your bones and joints. Roll immediately on the blunt force critical injury table. |
+| 62-64 | The spell backfires: armor crushes, weapons whirl loose, polarity flips, or the wrong target is hurled. |
+| 65 | Iron claims your flesh. Metal fuses into bone and sinew until you become a locked, half-living relic of strain and magnetism, no longer fit for adventuring unless broken apart and remade. |
+| 66 | Your magic tears open a rift to another dimension, and a demon drags you through it. Make a new character. After `D66` days, the old one may return as a changed NPC. |
 
 ### FORGING NEW SPELLS
 

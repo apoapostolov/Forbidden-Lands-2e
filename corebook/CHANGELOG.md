@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD013 MD024 -->
+
 # Changelog
 
 All notable changes to the Forbidden Lands Corebook will be documented in this file.
@@ -14,6 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - Revised many critical injury labels in Chapter 6 to better match their actual recovery times while keeping the same mechanics, and rewrote several horror trauma names to fit the harsher low-tech tone of the setting.
+- Reworked Chapter 7 mishaps so each magical path now carries its own integrated mishap table, restored a separate General Spells mishap table, and replaced the old single default mishap table with path-based mishap routing and rebalanced severity bands.
 
 ### Removed
 
