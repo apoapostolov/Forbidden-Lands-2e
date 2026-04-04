@@ -2,8 +2,8 @@
  * Smart Content Fixer — Post-processing for markdown-to-HTML content
  *
  * Tasks:
- * 1. Replace skull emoji (☠️ 💀) with text-based symbol (⚰)
- * 2. Convert colored emoji (⚔️) to greyscale via CSS class
+ * 1. Replace emoji-style dice symbols with text glyph symbols
+ * 2. Bold swords, skulls, and blood drops consistently
  * 3. Fix diamond bullets (✦) as proper list markers
  * 4. Improve text wrapping around images and tables
  * 5. Prevent list orphaning across columns
@@ -11,29 +11,80 @@
 
 /**
  * Apply smart fixes to HTML content. Currently handles:
- * - Replacing skull emoji (☠️, 💀) with text-based coffin symbol (⚰)
- * - Wrapping colored emoji (⚔️) in a span with greyscale filter class
+ * - Replacing swords/skulls/blood-drop emoji with text glyph symbols
+ * - Wrapping those symbols in a bold symbol span for consistent rendering
  * - Ensuring diamond bullets display correctly
  */
 export function smartFixContent(html: string): string {
   let fixed = html
 
-  // Replace skull emoji (☠️, ☠, 💀) with text-based alternative (⚰ coffin)
-  // Coffin symbol renders as text, not colored emoji, and fits the dark DM aesthetic
-  const skullEmoji = ['☠️', '☠', '💀']
-  for (const skull of skullEmoji) {
-    fixed = fixed.replace(
-      new RegExp(skull.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'g'),
-      '⚰',
-    )
-  }
+  const swordHtml = '<span class="fl-symbol fl-symbol-sword">⚔&#xFE0E;</span>'
 
-  // Wrap remaining colored emoji (⚔️) in a span with greyscale filter
-  // This prevents them from standing out in a black-and-white book layout
-  // Use a single regex per emoji type to avoid double-wrapping when both the
-  // full emoji (⚔️ = ⚔ + U+FE0F variation selector) and bare codepoint appear.
-  fixed = fixed.replace(/⚔\uFE0F?/g, '<span class="emoji-grey">⚔</span>')
-  fixed = fixed.replace(/🩸/g, '<span class="emoji-grey">🩸</span>')
+  // Table-cell/plain-cell legacy normalization when the entire fragment is
+  // just x-markers (e.g. "x", "x x", "x x x") from corrupted dice symbols.
+  fixed = fixed.replace(/^\s*[xX](?:\s+[xX]){0,5}\s*$/g, (m: string) =>
+    m
+      .trim()
+      .split(/\s+/)
+      .map(() => swordHtml)
+      .join(' '),
+  )
+
+  // Legacy content normalization:
+  // Earlier processing passes replaced dice sword symbols with plain x/X in
+  // several passages and table cells. Convert those dice-context markers back.
+  fixed = fixed.replace(
+    /(<t[dh][^>]*>\s*)([xX](?:\s+[xX]){0,5})(\s*<\/t[dh]>)/g,
+    (_m: string, open: string, marks: string, close: string) => {
+      const swords = marks
+        .trim()
+        .split(/\s+/)
+        .map(() => '<span class="fl-symbol fl-symbol-sword">⚔&#xFE0E;</span>')
+        .join(' ')
+      return `${open}${swords}${close}`
+    },
+  )
+  fixed = fixed.replace(
+    /\bcounts?\s+as\s+[xX]\b/g,
+    (m: string) => `${m.slice(0, m.length - 1)}⚔`,
+  )
+  fixed = fixed.replace(/\bfor\s+every\s+[xX]\s+rolled\b/g, (m: string) =>
+    m.replace(/[xX]/, '⚔'),
+  )
+  fixed = fixed.replace(/\bextra\s+[xX]\b/g, (m: string) => m.replace(/[xX]/, '⚔'))
+  fixed = fixed.replace(/\bone\s+or\s+more\s+[xX]\b/g, (m: string) =>
+    m.replace(/[xX]/, '⚔'),
+  )
+  fixed = fixed.replace(/\badditional\s+[xX]\b/g, (m: string) => m.replace(/[xX]/, '⚔'))
+
+  // Broader dice-prose recovery for standalone x markers:
+  // "rolls one x", "needs two x", "more x than", "x rolled", etc.
+  fixed = fixed.replace(
+    /\b(one|two|three|four|five|more|extra|additional|several|required|needs?|counts?|rolls?|rolled|per)\s+[xX]\b/gi,
+    (_m: string, lead: string) => `${lead} ⚔`,
+  )
+  fixed = fixed.replace(/\b[xX]\s+rolled\b/gi, '⚔ rolled')
+  fixed = fixed.replace(/\b[xX]\s+than\b/gi, '⚔ than')
+  fixed = fixed.replace(
+    /\bcounts?\s+as\s+[xX]\b/gi,
+    (m: string) => `${m.slice(0, m.length - 1)}⚔`,
+  )
+
+  // Normalize all symbol variants to text-presentation glyphs and bold them.
+  // Use FE0E (text presentation selector) to avoid color emoji rendering.
+  // Also normalize any legacy coffin replacement back to skull.
+  fixed = fixed.replace(
+    /(?:☠\uFE0F?|💀|⚰\uFE0F?)/g,
+    '<i class="fl-symbol fl-symbol-fa fl-symbol-skull fa-solid fa-skull" aria-hidden="true"></i>',
+  )
+  fixed = fixed.replace(
+    /⚔\uFE0F?/g,
+    '<span class="fl-symbol fl-symbol-sword">⚔&#xFE0E;</span>',
+  )
+  fixed = fixed.replace(
+    /🩸\uFE0F?/g,
+    '<i class="fl-symbol fl-symbol-fa fl-symbol-blood fa-solid fa-droplet" aria-hidden="true"></i>',
+  )
 
   // Ensure diamond bullets (✦) are rendered as proper list markers
   // If found in text (not XML), wrap in list structure

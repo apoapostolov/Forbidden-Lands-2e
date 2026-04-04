@@ -1,3 +1,5 @@
+import { smartFixContent } from '@utils/smartContentFix'
+import DOMPurify from 'dompurify'
 import styles from './TableBlock.module.css'
 
 interface TableBlockProps {
@@ -6,6 +8,15 @@ interface TableBlockProps {
 }
 
 export default function TableBlock({ headers, rows }: TableBlockProps) {
+  function renderFixedInline(text: string) {
+    const fixed = smartFixContent(text)
+    const clean =
+      typeof window !== 'undefined'
+        ? DOMPurify.sanitize(fixed, { USE_PROFILES: { html: true } })
+        : fixed
+    return <span dangerouslySetInnerHTML={{ __html: clean }} />
+  }
+
   return (
     <div className={styles.wrapper}>
       <table className={styles.table}>
@@ -14,7 +25,7 @@ export default function TableBlock({ headers, rows }: TableBlockProps) {
             <tr>
               {headers.map((h, i) => (
                 <th key={i} className={`${styles.th} bold-label`}>
-                  {h}
+                  {renderFixedInline(h)}
                 </th>
               ))}
             </tr>
@@ -25,7 +36,7 @@ export default function TableBlock({ headers, rows }: TableBlockProps) {
             <tr key={ri} className={ri % 2 === 0 ? styles.rowEven : styles.rowOdd}>
               {row.map((cell, ci) => (
                 <td key={ci} className={`${styles.td} body-text`}>
-                  {cell}
+                  {renderFixedInline(cell)}
                 </td>
               ))}
             </tr>

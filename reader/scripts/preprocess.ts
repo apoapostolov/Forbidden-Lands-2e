@@ -12,14 +12,14 @@
 
 import { existsSync, readFileSync, writeFileSync } from 'fs'
 import type {
-  Heading,
-  Image,
-  List,
-  ListItem,
-  Root as MdastRoot,
-  Node,
-  Table,
-  TableRow,
+    Heading,
+    Image,
+    List,
+    ListItem,
+    Root as MdastRoot,
+    Node,
+    Table,
+    TableRow,
 } from 'mdast'
 import { dirname, join, resolve } from 'path'
 import rehypeSanitize from 'rehype-sanitize'
@@ -62,17 +62,17 @@ const CHAPTER_FILES = [
 // paragraphs into clipped/non-visible area at page boundaries.
 const COLUMN_HEIGHT_PT = 528
 // 2 columns per page — used implicitly by the paginator (2 × COLUMN_HEIGHT_PT)
-const WORDS_PER_COL_LINE = 8 // baseline fit for narrow column
+const WORDS_PER_COL_LINE = 9 // calibrated from rendered column width (~8.4 actual, 9 for safety)
 const LINE_HEIGHT_PT = 11.6 // 8pt × 1.45
-const PARA_MARGIN_PT = 6 // bottom margin per paragraph
-const LIST_WORDS_PER_COL_LINE = 7 // lists are narrower due bullet/indent
-const LIST_ITEM_EXTRA_PT = 2.5 // account for li spacing + marker rendering
-const LIST_BLOCK_EXTRA_PT = 10 // account for ul/ol margins and wrap variance
-const RENDER_SAFETY_PT = 8 // reserve space to absorb runtime CSS/header/footer variance
-const MIN_SPLIT_LINES = 2
+const PARA_MARGIN_PT = 3 // minimal — CSS segments have near-zero margin
+const LIST_WORDS_PER_COL_LINE = 8 // lists slightly narrower due bullet indent
+const LIST_ITEM_EXTRA_PT = 2 // account for li spacing + marker rendering
+const LIST_BLOCK_EXTRA_PT = 6 // account for ul/ol margins and wrap variance
+const RENDER_SAFETY_PT = 24 // reserve space so browser column flow doesn't clip tails
+const MIN_SPLIT_LINES = 1
 const MIN_SPLIT_TAIL_LINES_SAME_PAGE = 1
-const MIN_SPLIT_TAIL_LINES_NEXT_PAGE = 2
-const SPLIT_FIT_SAFETY_PT = 4
+const MIN_SPLIT_TAIL_LINES_NEXT_PAGE = 1
+const SPLIT_FIT_SAFETY_PT = 0
 const MIN_SPLIT_HEIGHT_PT = LINE_HEIGHT_PT * MIN_SPLIT_LINES
 const MIN_PARAGRAPH_ROOM_AFTER_HEADING_PT = MIN_SPLIT_HEIGHT_PT + PARA_MARGIN_PT
 
@@ -267,7 +267,7 @@ function nodeToHtml(node: Node): string {
   ).trim()
 }
 
-const headingHeights: Record<number, number> = { 1: 38, 2: 28, 3: 22, 4: 16 }
+const headingHeights: Record<number, number> = { 1: 28, 2: 24, 3: 14, 4: 11 }
 
 // ── Load manifest and index by "chapter" name ─────────────────────────────────
 function loadManifest(): Map<string, ManifestEntry[]> {
@@ -491,7 +491,7 @@ function paginate(chapters: { title: string; index: number; segments: Segment[] 
     if (!totalText) return null
 
     const words = totalText.split(/\s+/).filter(Boolean)
-    if (words.length < 10) return null
+    if (words.length < 6) return null
 
     const totalLines = Math.max(
       1,
@@ -512,13 +512,25 @@ function paginate(chapters: { title: string; index: number; segments: Segment[] 
 
     // Prefer breaking at a sentence boundary close to the estimated split.
     // This keeps continuation flow natural and avoids obvious mid-sentence
-    // chops where possible.
-    const boundaryLookback = 18
+    // chops where possible.  Search backward first, then forward.
+    const boundaryRange = 18
     let boundaryIdx = -1
-    for (let i = splitIdx - 1; i >= Math.max(2, splitIdx - boundaryLookback); i--) {
+    for (let i = splitIdx - 1; i >= Math.max(2, splitIdx - boundaryRange); i--) {
       if (isSentenceBoundaryWord(words[i])) {
         boundaryIdx = i + 1
         break
+      }
+    }
+    if (boundaryIdx < 0) {
+      for (
+        let i = splitIdx;
+        i < Math.min(words.length - 3, splitIdx + boundaryRange);
+        i++
+      ) {
+        if (isSentenceBoundaryWord(words[i])) {
+          boundaryIdx = i + 1
+          break
+        }
       }
     }
     if (boundaryIdx >= 3 && words.length - boundaryIdx >= 3) {
@@ -554,11 +566,6 @@ function paginate(chapters: { title: string; index: number; segments: Segment[] 
     }
     if (!headText || !tailText) return null
 
-    // If continuation starts with lowercase text, it's usually a mid-sentence
-    // chop (e.g. "... goal" / "that your ...") which reads like a fake
-    // paragraph break in the layout. Prefer moving the whole paragraph instead.
-    if (startsWithLowercaseWord(tailText)) return null
-
     const head: ParagraphSegment = {
       ...seg,
       html: escapeHtmlText(headText),
@@ -591,23 +598,6 @@ function paginate(chapters: { title: string; index: number; segments: Segment[] 
         flush()
         currentPage = newPage(pageNumber, chTitle, chIdx)
       }
-      colFill = 0
-      colNum = 0
-    }
-
-    // Targeted guard rail:
-    // In Chapter 2, "ALTERNATIVE METHOD" has repeatedly landed in the final
-    // tail-space of a spread where runtime layout can clip the first paragraph.
-    // Start this section on a fresh page to guarantee visible continuity.
-    if (
-      chIdx === 1 &&
-      seg.type === 'heading' &&
-      (seg as HeadingSegment).level === 3 &&
-      (seg as HeadingSegment).text === 'ALTERNATIVE METHOD' &&
-      (currentPage.segments.length > 0 || colNum !== 0 || colFill > 0)
-    ) {
-      flush()
-      currentPage = newPage(pageNumber, chTitle, chIdx)
       colFill = 0
       colNum = 0
     }
@@ -648,27 +638,15 @@ function paginate(chapters: { title: string; index: number; segments: Segment[] 
       colNum = 0
     }
 
-    // Headings must leave enough space for at least two body-text lines below
-    // them in the current column. If not, move the heading to the next column.
-    // Note: Chapter 1 (front-matter) h3/h4 headings don't require large
-    // reservations since they introduce brief subsections with clear visual breaks.
+    // Headings: reserve just enough room for one line of body text below.
+    // No aggressive reservation — fill space first, fix orphans later.
     const headingNextReservationPt =
-      seg.type === 'heading'
-        ? nextSeg?.type === 'paragraph'
-          ? chIdx === 0 && (seg as HeadingSegment).level >= 3
-            ? 0 // Chapter 1 h3/h4: no space reservation
-            : (seg as HeadingSegment).level >= 3
-              ? Math.min((nextSeg as ParagraphSegment).heightPt + 18, 180)
-              : Math.min((nextSeg as ParagraphSegment).heightPt, 72)
-          : MIN_PARAGRAPH_ROOM_AFTER_HEADING_PT
-        : 0
+      seg.type === 'heading' ? MIN_PARAGRAPH_ROOM_AFTER_HEADING_PT : 0
 
     const headingNeedsNextColumn =
       seg.type === 'heading' &&
       colFill + seg.heightPt + headingNextReservationPt > effectiveColumnHeight
 
-    // Headings: keep with next content — don't leave a dangling heading at the
-    // bottom of a column with no meaningful paragraph room beneath it.
     const willOverflow =
       colFill + seg.heightPt > effectiveColumnHeight || headingNeedsNextColumn
 

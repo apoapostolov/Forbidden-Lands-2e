@@ -1,8 +1,8 @@
 ## TALENTS
 
-> *Bredeman the minstrel sang through broken teeth and lips to please his captors, in a voice much too large for his scrawny body. Not until blood poured from the ears of the warriors and giant Handra fell from her bench did the horsemen realize what was going on. By then it was already too late.*
+> _Bredeman the minstrel sang through broken teeth and lips to please his captors, in a voice much too large for his scrawny body. Not until blood poured from the ears of the warriors and giant Handra fell from her bench did the horsemen realize what was going on. By then it was already too late._
 
-Adventurers survive by claiming a trick, rite, or calling that no one else can match. Those signature edges are called *talents*. Each talent can change how you use skills, how you recover from damage, or let you bend the rules of the world in ways others cannot.
+Adventurers survive by claiming a trick, rite, or calling that no one else can match. Those signature edges are called _talents_. Each talent can change how you use skills, how you recover from damage, or let you bend the rules of the world in ways others cannot.
 
 ### STARTING TALENTS
 
@@ -132,7 +132,7 @@ You peer a heartbeat ahead in every clash.
 
 Your oath is a blade you can draw at will, but it also cuts you when you falter.
 
-- ✦ **RANK 1:** When you learn this talent, transform your *Pride* into a Vow or Oath, defined with the GM in clear, binding terms. The Vow or Oath must be such that puts you and your allies against a significant challenge. Rolling your Pride die no longer risks losing it entirely; instead, on a blank you simply cannot call on Pride during the next session. You also choose one **Anathema**—a deed you may never willingly perform and the GM must agree to it. If you violate it, your Pride deactivates until the end of the following session and you carry the narrative burden of your trangression while it is deactivated.
+- ✦ **RANK 1:** When you learn this talent, transform your _Pride_ into a Vow or Oath, defined with the GM in clear, binding terms. The Vow or Oath must be such that puts you and your allies against a significant challenge. Rolling your Pride die no longer risks losing it entirely; instead, on a blank you simply cannot call on Pride during the next session. You also choose one **Anathema**—a deed you may never willingly perform and the GM must agree to it. If you violate it, your Pride deactivates until the end of the following session and you carry the narrative burden of your trangression while it is deactivated.
 - ✦ **RANK 2:** Add a second Anathema that sharpens your code, that the GM must agree on. When a roll clearly upholds your Vow you may spend 1 WP to add a D8 Artifact Die; if you refuse a beneficial opportunity because it would break an Anathema once per session, regain 1 special WP (you cannot regain another special WP until you spend it).
 - ✦ **RANK 3:** You may now invoke your Pride twice per session, and one of those uses can empower an ally who is actively pursuing your Vow. They roll your Pride die but you pay the cost and count the use.
 - ✦ **RANK 4:** Add a third Anathema that the GM must agree on. The GM may now set formal **Goals** tied to your Vow—short-term goals award you +2 XP when completed (and +1 XP to each ally who meaningfully helped), while long-term Goals award +4 XP to you and +2 XP to assisting allies. These Goals must be weighty challenges where you are the spearhead.
@@ -282,15 +282,15 @@ You share the hunt with animals that treat your word like pack-law. This path is
 
 #### TAMING A NEW COMPANION
 
-Gaining access to a creature type doesn’t hand you a ready mount—you still need to find and befriend it. When exploring a hex, spend a Quarter Day to search for signs of a suitable beast. Roll *HUNTING* and gather a number of successes equal to the rank of the companion you seek. Once spotted, make an *ANIMAL HANDLING* roll with a difficulty equal to half the rank (rounded up) to earn its attention; on a success it will follow you from a distance, often wary and prone to leave on a failure. Finally, bond with it for a number of days equal to that rank, spending a Quarter Day each day to earn its trust with an *ANIMAL HANDLING* roll each Quarter; two consecutive failures will cause a strife and the process of bonding must start anew. Once bonded, the animal becomes a Companion.
+Gaining access to a creature type doesn’t hand you a ready mount—you still need to find and befriend it. When exploring a hex, spend a Quarter Day to search for signs of a suitable beast. Roll _HUNTING_ and gather a number of successes equal to the rank of the companion you seek. Once spotted, make an _ANIMAL HANDLING_ roll with a difficulty equal to half the rank (rounded up) to earn its attention; on a success it will follow you from a distance, often wary and prone to leave on a failure. Finally, bond with it for a number of days equal to that rank, spending a Quarter Day each day to earn its trust with an _ANIMAL HANDLING_ roll each Quarter; two consecutive failures will cause a strife and the process of bonding must start anew. Once bonded, the animal becomes a Companion.
 
-| Companion Rank | Examples | Hunting successes to spot | Animal Handling difficulty | Bonding days (Quarter Day daily) |
-|----------------|----------|---------------------------|----------------------------|-------------------------------|
-| 1 | Fox, hawk, hound | 1 | 1 | 1 |
-| 2 | Wolf, boar, lynx | 2 | 1 | 2 |
-| 3 | Eagle, raven, otter | 3 | 2 | 3 |
-| 4 | Bear, great stag, saber cat | 4 | 2 | 4 |
-| 5 | Basilisk, giant lizard | 5 | 3 | 5 |
+| Companion Rank | Examples                    | Hunting successes to spot | Animal Handling difficulty | Bonding days (Quarter Day daily) |
+| -------------- | --------------------------- | ------------------------- | -------------------------- | -------------------------------- |
+| 1              | Fox, hawk, hound            | 1                         | 1                          | 1                                |
+| 2              | Wolf, boar, lynx            | 2                         | 1                          | 2                                |
+| 3              | Eagle, raven, otter         | 3                         | 2                          | 3                                |
+| 4              | Bear, great stag, saber cat | 4                         | 2                          | 4                                |
+| 5              | Basilisk, giant lizard      | 5                         | 3                          | 5                                |
 
 Only attempt to tame a Rank 5 monster in hexes where the GM has signaled its presence (tracks, lairs, rumors)—otherwise you will not find a viable target.
 
@@ -444,13 +444,13 @@ Unlike Path of the Beast, these mounts are purpose-bred riding animals. You must
 - **Approach/Break:** Once you find a suitable animal, make an ANIMAL HANDLING roll with difficulty half the rank (rounded up). On a success it accepts tack and follows you; on a failure it bolts and you must start over.
 - **Bond:** Spend one Quarter Day per rank working the mount (brush, feed, tack). Each day roll ANIMAL HANDLING; two failures in a row spook it and you must begin anew. After bonding completes, the steed becomes your Companion mount.
 
-| Mount Rank | Examples | Locate successes | Handling difficulty | Bonding days |
-|------------|----------|------------------|---------------------|--------------|
-| 1 | Donkey, mule, shaggy pony | 1 | 1 | 1 |
-| 2 | Courser, sturdy riding hog, plains horse | 2 | 1 | 2 |
-| 3 | Warhorse, giant lizard, battle boar | 3 | 2 | 3 |
-| 4 | Great elk, dire ram, barded destrier | 4 | 2 | 4 |
-| 5 | Exotic chargers (Aslene griff-horse, trollbred bull) | 5 | 3 | 5 |
+| Mount Rank | Examples                                             | Locate successes | Handling difficulty | Bonding days |
+| ---------- | ---------------------------------------------------- | ---------------- | ------------------- | ------------ |
+| 1          | Donkey, mule, shaggy pony                            | 1                | 1                   | 1            |
+| 2          | Courser, sturdy riding hog, plains horse             | 2                | 1                   | 2            |
+| 3          | Warhorse, giant lizard, battle boar                  | 3                | 2                   | 3            |
+| 4          | Great elk, dire ram, barded destrier                 | 4                | 2                   | 4            |
+| 5          | Exotic chargers (Aslene griff-horse, trollbred bull) | 5                | 3                   | 5            |
 
 Only attempt Rank 3 or higher in regions where rumors or tracks hint such beasts exist; otherwise you simply won’t find stock. If a mount dies you can repeat this process during downtime without losing talent ranks.
 
@@ -616,7 +616,7 @@ You can learn or increase ranks in locales with enough kin that speak the langua
 
 ### POLYGLOT
 
-You have had dealings with rare cultures or creatures that have developed their own spoken language or similar means of communication. You may learn exotic Languages, for example:** **Ancient** (still spoken by some Giants and Trolls), **Deep Dwelver, Demonic, Dragon speech, Whiner;** or other languages the GM mentions. These forgotten or forbidden languages do not belong to any common kin and cannot be learned with the LANGUAGE talent directly except through this talent. This talent can only be taught by teachers or members of rare cultures and never learned by practice.
+You have had dealings with rare cultures or creatures that have developed their own spoken language or similar means of communication. You may learn exotic Languages, for example:\*\* **Ancient** (still spoken by some Giants and Trolls), **Deep Dwelver, Demonic, Dragon speech, Whiner;** or other languages the GM mentions. These forgotten or forbidden languages do not belong to any common kin and cannot be learned with the LANGUAGE talent directly except through this talent. This talent can only be taught by teachers or members of rare cultures and never learned by practice.
 
 - **✦ RANK 1:** You gain a Rank 1 Language from the list above.
 - **✦ RANK 2:** You gain a Rank 1 Language from the list above.
@@ -646,16 +646,16 @@ Your bodily grace amazes.
 - ✦ **RANK 2:** If you successfully negate an attack by DODGING and remain standing, you may simultaneously RETREAT one zone, ignoring nearby enemies.
 - **✦ RANK 3:** You can add a D8 Artifact Die when you roll for MOVE to FALL, BALANCE, RETREAT, or FLEE.
 - **✦ RANK 4:** Halve any damage received from falling, being thrown or failing a FLEE action or
-retreat. Halve damage before applying reductions and round down.
+  retreat. Halve damage before applying reductions and round down.
 - **✦ RANK 5:** Replace the D8 die from RANK 3 with a D12 die.
 
 ### ADRENALINE RUSH
 
-Through countless fight or flight situations, you've harnessed your adrenaline to act calculated rather give in to your emotions. This talent allows you to gain special WP that are not added to your WP pool.  You also can only have 1 special WP at the same time; extra are lost. Special WP must be spent until the end of your turn (your current turn if you gain it during your turn, or the end of your next turn if you gain it outside of your turn) or they are lost. You can also always burn that special WP to get 1 bonus die to an ATTACK or DODGE. Special WPs are lost at the end of a combat encounter.
+Through countless fight or flight situations, you've harnessed your adrenaline to act calculated rather give in to your emotions. This talent allows you to gain special WP that are not added to your WP pool. You also can only have 1 special WP at the same time; extra are lost. Special WP must be spent until the end of your turn (your current turn if you gain it during your turn, or the end of your next turn if you gain it outside of your turn) or they are lost. You can also always burn that special WP to get 1 bonus die to an ATTACK or DODGE. Special WPs are lost at the end of a combat encounter.
 
-- **✦ RANK 1**:** When you take 2 or more damage from an enemy attack during combat, you gain 1 special WP.
+- **✦ RANK 1**:\*\* When you take 2 or more damage from an enemy attack during combat, you gain 1 special WP.
 - **✦ RANK 2:** When you DODGE completely a monster attack during combat, you gain 1 special WP.
-- **✦ RANK 3**:** The first time you BREAK an enemy opponent in combat during each round, you gain 1 special WP.
+- **✦ RANK 3**:\*\* The first time you BREAK an enemy opponent in combat during each round, you gain 1 special WP.
 - **✦ RANK 4:** You can also have up to 2 special WP at the same time. You now lose only one special WP at the end of a turn instead of all of them. When you burn special WP, you gain 2 bonus nice to ATTACK or DODGE instead of one.
 - **✦ RANK 5:** You no longer treat WP gained from RANK 1 to 3 as special. They are added to your WP pool and not lost at the end of your turn or the end of the combat encounter.
 
@@ -673,60 +673,60 @@ You can extract active substances from plants and animals to create potions with
 
 **STANDARD OPTIONS**
 
-| OPTION | PRICE | SUPPLY | WEIGHT | RAW MATERIALS | TIME | TALENT | TOOLS | EFFECT |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Drops of Strength | 50 silver | Rare | Tiny | 1 Herbs, giant's blood | Quarter Day | Alchemist | Cauldron, fire | Strength +1 for a Quarter Day |
-| Elixir of Wisdom | 50 silver | Rare | Tiny | 1 Herbs, troll's tooth | Quarter Day | Alchemist | Cauldron, fire | Empathy +1 for a Quarter Day |
-| Decoction of Cunning | 50 silver | Rare | Tiny | 1 Herbs, dragon's tooth | Quarter Day | Alchemist | Cauldron, fire | Wits +1 for a Quarter Day |
-| Quick Nectar | 50 silver | Rare | Tiny | 1 Herbs, gryphon's feather | Quarter Day | Alchemist | Cauldron, fire | Agility +1 for a Quarter Day |
-| Healing Water | 30 silver | Rare | Tiny | 1 Herbs, hydra's blood | Quarter Day | Alchemist | Cauldron, fire | Reduces the recovery time for critical injuries by half |
-| Longwalk | 10 silver | Rare | Tiny | 1 Herbs, ground ghoul's bones | Quarter Day | Alchemist | Cauldron, fire | Cures the Sleepless condition |
-| Quenching Swig | 10 silver | Rare | Tiny | 1 Herbs, sea serpent's gall | Quarter Day | Alchemist | Cauldron, fire | Cures the Thirsty condition |
-| Bellyfull | 10 silver | Rare | Tiny | 1 Herbs, troll's gastric juice | Quarter Day | Alchemist | Cauldron, fire | Cures the Hungry condition |
-| Honey of Embers | 10 silver | Rare | Tiny | 1 Herbs, insectoid's blood | Quarter Day | Alchemist | Cauldron, fire | Cures the condition COLD |
-| Elixir of Life | 100 silver | Rare | Tiny | 1 Herbs, dragon's blood | Quarter Day | Alchemist | Cauldron, fire | Delays aging for one year |
-| Iron Juice | 30 silver | Rare | Tiny | 1 Herbs, dragon's scale | Quarter Day | Alchemist | Cauldron, fire | Armor Rating +1 if applied to armor, the effect lasts a Quarter Day |
-| Healing Decoction | 40 silver | Rare | Tiny | 1 Herbs, troll's blood | Quarter Day | Alchemist | Cauldron, fire | Heals D3 Strength |
-| Refreshing Decoction | 40 silver | Rare | Tiny | 1 Herbs, hydra's acid | Quarter Day | Alchemist | Cauldron, fire | Heals D3 Agility |
-| Calming Decoction | 40 silver | Rare | Tiny | 1 Herbs, manticore's blood | Quarter Day | Alchemist | Cauldron, fire | Heals D3 Wits |
-| Intoxicating Decoction | 40 silver | Rare | Tiny | 1 Herbs, drakewyrm's acid | Quarter Day | Alchemist | Cauldron, fire | Heals D3 Empathy |
-| Porridge of Prophecy | 20 silver | Rare | Tiny | 1 Herbs, giant spider's venom | Quarter Day | Alchemist | Cauldron, fire | The user's Wits is broken (no critical injury), but they may then ask a question to the GM who will answer cryptically but truthfully |
+| OPTION                 | PRICE      | SUPPLY | WEIGHT | RAW MATERIALS                  | TIME        | TALENT    | TOOLS          | EFFECT                                                                                                                                |
+| ---------------------- | ---------- | ------ | ------ | ------------------------------ | ----------- | --------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Drops of Strength      | 50 silver  | Rare   | Tiny   | 1 Herbs, giant's blood         | Quarter Day | Alchemist | Cauldron, fire | Strength +1 for a Quarter Day                                                                                                         |
+| Elixir of Wisdom       | 50 silver  | Rare   | Tiny   | 1 Herbs, troll's tooth         | Quarter Day | Alchemist | Cauldron, fire | Empathy +1 for a Quarter Day                                                                                                          |
+| Decoction of Cunning   | 50 silver  | Rare   | Tiny   | 1 Herbs, dragon's tooth        | Quarter Day | Alchemist | Cauldron, fire | Wits +1 for a Quarter Day                                                                                                             |
+| Quick Nectar           | 50 silver  | Rare   | Tiny   | 1 Herbs, gryphon's feather     | Quarter Day | Alchemist | Cauldron, fire | Agility +1 for a Quarter Day                                                                                                          |
+| Healing Water          | 30 silver  | Rare   | Tiny   | 1 Herbs, hydra's blood         | Quarter Day | Alchemist | Cauldron, fire | Reduces the recovery time for critical injuries by half                                                                               |
+| Longwalk               | 10 silver  | Rare   | Tiny   | 1 Herbs, ground ghoul's bones  | Quarter Day | Alchemist | Cauldron, fire | Cures the Sleepless condition                                                                                                         |
+| Quenching Swig         | 10 silver  | Rare   | Tiny   | 1 Herbs, sea serpent's gall    | Quarter Day | Alchemist | Cauldron, fire | Cures the Thirsty condition                                                                                                           |
+| Bellyfull              | 10 silver  | Rare   | Tiny   | 1 Herbs, troll's gastric juice | Quarter Day | Alchemist | Cauldron, fire | Cures the Hungry condition                                                                                                            |
+| Honey of Embers        | 10 silver  | Rare   | Tiny   | 1 Herbs, insectoid's blood     | Quarter Day | Alchemist | Cauldron, fire | Cures the condition COLD                                                                                                              |
+| Elixir of Life         | 100 silver | Rare   | Tiny   | 1 Herbs, dragon's blood        | Quarter Day | Alchemist | Cauldron, fire | Delays aging for one year                                                                                                             |
+| Iron Juice             | 30 silver  | Rare   | Tiny   | 1 Herbs, dragon's scale        | Quarter Day | Alchemist | Cauldron, fire | Armor Rating +1 if applied to armor, the effect lasts a Quarter Day                                                                   |
+| Healing Decoction      | 40 silver  | Rare   | Tiny   | 1 Herbs, troll's blood         | Quarter Day | Alchemist | Cauldron, fire | Heals D3 Strength                                                                                                                     |
+| Refreshing Decoction   | 40 silver  | Rare   | Tiny   | 1 Herbs, hydra's acid          | Quarter Day | Alchemist | Cauldron, fire | Heals D3 Agility                                                                                                                      |
+| Calming Decoction      | 40 silver  | Rare   | Tiny   | 1 Herbs, manticore's blood     | Quarter Day | Alchemist | Cauldron, fire | Heals D3 Wits                                                                                                                         |
+| Intoxicating Decoction | 40 silver  | Rare   | Tiny   | 1 Herbs, drakewyrm's acid      | Quarter Day | Alchemist | Cauldron, fire | Heals D3 Empathy                                                                                                                      |
+| Porridge of Prophecy   | 20 silver  | Rare   | Tiny   | 1 Herbs, giant spider's venom  | Quarter Day | Alchemist | Cauldron, fire | The user's Wits is broken (no critical injury), but they may then ask a question to the GM who will answer cryptically but truthfully |
 
 **EXTENDED OPTIONS**
 
 Changed ingredients to not be as specifically tied to a certain monster and added more potions. You now always need at least a monster or group that together has 12+ Strength to have enough ingredients unless something else is mentioned. If you are missing just some Strength or have some in excess, your GM could allow you to roll with a -1 penalty per 2 points missing, or a +1 bonus per 3 points in excess.
 
-| NAME OF POTION:** | NEEDS CAULDRON, WATER, HERBS AND THESE ITEMS:** |
-| --- | --- |
-| Drops of Strength | Heart of a humanoid with 18+ Strength |
-| Elixir of Wisdom | Teeth from a monster that can change physically or mentally change it appearance |
-| Decoction of Cunning | Essence from a demon or group of demons with 18+ Strength |
-| Quick Nectar  | Feathers plucked from a monster or monster swarm |
-| Healing Water  | Blood from a monster with regenerative powers |
-| Longwalk | Ground bones from ghouls or more powerful undead |
-| Quenching Swig | Gall from a sea monster |
-| Bellyfull | Gastric juices from a monster that can dissolve just about anything |
-| Honey of Embers | Blood from a monstrous arthropod (exoskeletal creatures, like insects)  |
-| Elixir of Life | Blood from a dragon (not drake) with 24+ Strength |
-| Iron Juice | Scales from a monster or pulverized stone from a construct or group of constructs |
-| Healing Decoction | Blood from a monster with regenerative powers |
-| Refreshing Decoction | Slime from a mollusc / very slimy monster |
-| Calming Decoction | Blood from a monster made of different human/animal parts  |
-| Intoxicating Decoction | Acid from monster that has an acidic attack |
-| Porridge of Prophecy | Venom from a monster with a poisonous attack |
-| Instant Sobriety | Ichor from an at-least partially non-corporeal undead |
-| Everrun | Sap from a monstrous plant |
-| Neverdown | Heart or hearts from monstrous animals (like larger version of real life animals) |
-| Cat's Reflexes | Teeth from a cat or snake-like monster |
-| Pain Numb  | Essence from a demon or group of demons |
-| Dark Sight  | Ashes from the burnt bones of intelligent undead |
+| NAME OF POTION:\*\*    | NEEDS CAULDRON, WATER, HERBS AND THESE ITEMS:\*\*                                 |
+| ---------------------- | --------------------------------------------------------------------------------- |
+| Drops of Strength      | Heart of a humanoid with 18+ Strength                                             |
+| Elixir of Wisdom       | Teeth from a monster that can change physically or mentally change it appearance  |
+| Decoction of Cunning   | Essence from a demon or group of demons with 18+ Strength                         |
+| Quick Nectar           | Feathers plucked from a monster or monster swarm                                  |
+| Healing Water          | Blood from a monster with regenerative powers                                     |
+| Longwalk               | Ground bones from ghouls or more powerful undead                                  |
+| Quenching Swig         | Gall from a sea monster                                                           |
+| Bellyfull              | Gastric juices from a monster that can dissolve just about anything               |
+| Honey of Embers        | Blood from a monstrous arthropod (exoskeletal creatures, like insects)            |
+| Elixir of Life         | Blood from a dragon (not drake) with 24+ Strength                                 |
+| Iron Juice             | Scales from a monster or pulverized stone from a construct or group of constructs |
+| Healing Decoction      | Blood from a monster with regenerative powers                                     |
+| Refreshing Decoction   | Slime from a mollusc / very slimy monster                                         |
+| Calming Decoction      | Blood from a monster made of different human/animal parts                         |
+| Intoxicating Decoction | Acid from monster that has an acidic attack                                       |
+| Porridge of Prophecy   | Venom from a monster with a poisonous attack                                      |
+| Instant Sobriety       | Ichor from an at-least partially non-corporeal undead                             |
+| Everrun                | Sap from a monstrous plant                                                        |
+| Neverdown              | Heart or hearts from monstrous animals (like larger version of real life animals) |
+| Cat's Reflexes         | Teeth from a cat or snake-like monster                                            |
+| Pain Numb              | Essence from a demon or group of demons                                           |
+| Dark Sight             | Ashes from the burnt bones of intelligent undead                                  |
 
 - **✦ Instant Sobriety:** Cures the intoxicated condition.
 - **✦ Everrun:** Gain 2 ranks in ATHLETE for a Quarter Day.
-- **✦ Neverdown**:** Gain 2 ranks in BERSERKER for a Quarter Day.
-- **✦ Cat's Reflexes**:** 2 ranks in LIGHTNING FAST for a Quarter Day.
-- **✦ Pain Numb**:** Gain 2 ranks in PAIN RESISTANT for a Quarter Day.
-- **✦ Dark Sight**:** Gain the ability to see in darkness for a Quarter Day, but also a -2 penalty to SCOUTING while in daylight. Ability to see in darkness is lost for as long as anything blinds you.
+- **✦ Neverdown**:\*\* Gain 2 ranks in BERSERKER for a Quarter Day.
+- **✦ Cat's Reflexes**:\*\* 2 ranks in LIGHTNING FAST for a Quarter Day.
+- **✦ Pain Numb**:\*\* Gain 2 ranks in PAIN RESISTANT for a Quarter Day.
+- **✦ Dark Sight**:\*\* Gain the ability to see in darkness for a Quarter Day, but also a -2 penalty to SCOUTING while in daylight. Ability to see in darkness is lost for as long as anything blinds you.
 
 ### AMBIDEXTROUS
 
@@ -745,7 +745,7 @@ Animals respect you.
 
 - **✦ RANK 1:** Gain a +1 modifier when you try to calm or train an animal. You can train a tame animal to one of the following roles. This is done as when using animal handling to tame wild animals, although dogs will not roll for opposed strength. An animal can learn a maximum of one tricks category plus one for each skill level in ANIMAL HANDLING you have. See below for available categories to teach.
 - **✦ RANK 2:** You make sure your food doubles as snacks for animals. If you have the time to give
-out food, you may add any successes ⚔️ from your food resource die to the CALM ANIMAL or TRAIN ANIMAL roll, adding any successes, but also risk reducing your available food.
+  out food, you may add any successes ⚔️ from your food resource die to the CALM ANIMAL or TRAIN ANIMAL roll, adding any successes, but also risk reducing your available food.
 - **✦ RANK 3:** You can add a D8 Artifact Die when you try to calm or train an animal. An animal can now learn up to a maximum of two trick categories plus one for each skill level in animal handling you have.
 - **✦ RANK 4:** You may use ANIMAL HANDLING against unintelligent monsters. This is then always an opposed roll vs their Strength. If you use this to train a young monster, it can be intelligent, but you need to reroll every time its Strength increases with age - but only once per Strength increase.
 - **✦ RANK 5:** Replace the D8 die with a D12 die. An animal can now learn up to three categories plus one for each skill level in ANIMAL HANDLING you have. Also, the animal can now pass for more intelligent than it actually is since it has learned a variety of contexts or kin behavior that it can respond to.
@@ -754,18 +754,18 @@ out food, you may add any successes ⚔️ from your food resource die to the CA
 
 You can choose from the following categories when TRAINING an animal or monster.
 
-- **✦ Tricks**:** You have taught your animal some basic party tricks, like "Come," "Sit," "Play dead," "Roll over," "Bark," "Spin," "Drop it," and "Beg." The exact tricks it will know will vary depending on the animal. These tricks can be taught even without the Animal Whisperer talent.
-- **✦ Ride**:** You can mount/ride the animal, and it will listen to your commands. This training is included for non-predatory animals like horses when they are tamed. It cannot be applied to animals that cannot physically be ridden.
-- **✦ War**:** You no longer need to make an ANIMAL HANDLING roll to keep an animal from fleeing if it is wounded, there are loud noises, a heavy smell of blood, or there is general confusion around it. This training is only necessary for "prey animals" and not for predators.
+- **✦ Tricks**:\*\* You have taught your animal some basic party tricks, like "Come," "Sit," "Play dead," "Roll over," "Bark," "Spin," "Drop it," and "Beg." The exact tricks it will know will vary depending on the animal. These tricks can be taught even without the Animal Whisperer talent.
+- **✦ Ride**:\*\* You can mount/ride the animal, and it will listen to your commands. This training is included for non-predatory animals like horses when they are tamed. It cannot be applied to animals that cannot physically be ridden.
+- **✦ War**:\*\* You no longer need to make an ANIMAL HANDLING roll to keep an animal from fleeing if it is wounded, there are loud noises, a heavy smell of blood, or there is general confusion around it. This training is only necessary for "prey animals" and not for predators.
 - **✦ War II:** Requires War. You have applied even more training for extreme situations so that it ignores fear attacks, being surrounded by fire, or hearing nearby powerful explosions.
 - **✦ Attack:** You spend a FAST action to have your animal to engage in the same zone and attack a target once. If you have multiple trained animals, you must take SLOW action to direct up to two of them.
 - **✦ Guard:** After giving the command, it will alert the owner (or wake them) to any presence of danger it perceives. It can also add a gear dice to a lookout's SCOUTING rolls.
 - **✦ Hunt:** When hunting, you can replace the SURVIVAL roll to find your prey with an animal handling roll and add one gear die to represent the animal.
 - **✦ Hunt II:** Requires Hunt. You can send out the animal to hunt independently. Roll your animal handling for the initial hunt roll, and add one gear dice to represent the animal. If you roll multiple x, reroll on the hunting table until an animal it can hunt is found. Any prey larger than your hunting animal will not be targeted; your hunting animal will then return empty-handed, but if it is smaller, it automatically succeeds. If the initial roll fails, the hunting mishap can result in your animal returning wounded.
-- **✦ Track**:** By letting your animal sniff at something that belongs to a target, it can track it by scent, following it up to a number of days equal to your animal handling roll.
-- **✦ Herd**:** Automatically succeeds any rolls to heard animals.
-- **✦ Assist**:** Can lead a blind target. You no longer have to make scouting rolls when traveling in darkness.
-- **✦ Skill Training**:** You have repeatedly trained something so thoroughly that the animal gains a +1 bonus for one skill and your animal handling rolls when used. Can only be picked once per skill.
+- **✦ Track**:\*\* By letting your animal sniff at something that belongs to a target, it can track it by scent, following it up to a number of days equal to your animal handling roll.
+- **✦ Herd**:\*\* Automatically succeeds any rolls to heard animals.
+- **✦ Assist**:\*\* Can lead a blind target. You no longer have to make scouting rolls when traveling in darkness.
+- **✦ Skill Training**:\*\* You have repeatedly trained something so thoroughly that the animal gains a +1 bonus for one skill and your animal handling rolls when used. Can only be picked once per skill.
 
 ### APOTHECARY
 
@@ -779,9 +779,9 @@ You know to some degree which plants and minerals affect the human body. This ta
 
 **EXTENDED OPTIONS**
 
-- **✦ Narcotics**:** Base Potency 2, but the GM can introduce new types of Narcotics with higher Potency. When taking a use, gain one WP up to once per Quarter of a Day, but this cannot take your Willpower above the Potency.
+- **✦ Narcotics**:\*\* Base Potency 2, but the GM can introduce new types of Narcotics with higher Potency. When taking a use, gain one WP up to once per Quarter of a Day, but this cannot take your Willpower above the Potency.
 - **✦ Remedy for Disease:** Base Potency 4. Add bread to raw materials for mold extraction. Add potency dice to your daily endurance roll made to resist ongoing disease.
-- **✦ Restorative Salve:** Add honey to raw materials. Choose two attributes upon creating this:** heal 1 point of damage to the first, but take one point of damage to the second. It can only be used once per Quarter Day, and it takes a turn (15 minutes) after it has been applied before it takes effect.
+- **✦ Restorative Salve:** Add honey to raw materials. Choose two attributes upon creating this:\*\* heal 1 point of damage to the first, but take one point of damage to the second. It can only be used once per Quarter Day, and it takes a turn (15 minutes) after it has been applied before it takes effect.
 
 ### AXE FIGHTER
 
@@ -862,18 +862,18 @@ You are completely callous and can kill defenseless enemies without so much as a
 - **✦ RANK 1:** You can perform a COUP DE GRACE without rolling dice.
 - **✦ RANK 2:** As per rank 1, and you also don't need to spend a Willpower Point or suffer damage to Empathy.
 - **✦ RANK 3:** As per rank 2, but you also recover a point of lost Empathy when you perform a COUP DE GRACE.
-- **✦** RANK 4:** Your COUP DE GRACE attacks double as FEAR attacks against enemies within short range. Roll PERFORMANCE or MANIPULATION; you may distribute any rolled ⚔️ as Wits damage amongst your targets. Animals and monsters are immune.
+- **✦ RANK 4:** Your COUP DE GRACE attacks double as FEAR attacks against enemies within short range. Roll PERFORMANCE or MANIPULATION; you may distribute any rolled ⚔️ as Wits damage amongst your targets. Animals and monsters are immune.
 - **✦ RANK 5:** Each COUP DE GRACE you perform grants you a Willpower Point.
 
 ### COMBAT EXPERIENCED
 
 You have learned to use various maneuvers in your fighting style.
 
-- **✦ RANK 1:** Before rolling an attack, you may announce you want to push the enemy in your chosen direction. If the attack gets two or more ⚔️, you may spend 1 WP and decrease your result by one ⚔️ , but the attack must remain with at least one ⚔️. If you do, you push your enemy away from you by up to 2 meters in a desired direction. This causes the enemy to disengage with all creatures it is engaged in combat with. If the direction you push the enemy in a damaging location, such as a lit fireplace, they take up to one or more additional🩸up to the DM. If you push the enemy in a difficult terrain or against a difficult or uneven surface, they get up to -2 dice until the end of their next turn or must make a MOVE roll to remain standing, up to the DM.  This does not work against monsters.
+- **✦ RANK 1:** Before rolling an attack, you may announce you want to push the enemy in your chosen direction. If the attack gets two or more ⚔️, you may spend 1 WP and decrease your result by one ⚔️ , but the attack must remain with at least one ⚔️. If you do, you push your enemy away from you by up to 2 meters in a desired direction. This causes the enemy to disengage with all creatures it is engaged in combat with. If the direction you push the enemy in a damaging location, such as a lit fireplace, they take up to one or more additional🩸up to the DM. If you push the enemy in a difficult terrain or against a difficult or uneven surface, they get up to -2 dice until the end of their next turn or must make a MOVE roll to remain standing, up to the DM. This does not work against monsters.
 - ✦ **RANK 2:** Before rolling an attack, you may announce that you want to prone the enemy to the ground. If the attack gets two or more ⚔️, you may spend 1 WP and decrease your result by one ⚔️ , but the attack must remain with at least one ⚔️. If you do, you force the enemy to drop Prone. As long as the enemy is engaged with you, it must roll MOVE to stand up from prone and suffers -1 die modifier to that roll. This does not work against monsters.
 - ✦ **RANK 3:** Before rolling an attack, you may announce you want to overextend the enemy so they cannot attack you on the next turn. If the attack gets two or more ⚔️, you may spend 1 WP and decrease your result by one or two ⚔️ , but the attack must remain with at least one ⚔️. If you decrease by a single ⚔️, the enemy has -2 dice to their ATTACK or PARRY you until the end of their next turn, and cannot DISENGAGE or FLEE from you. If you decrease by two ⚔️, the enemy cannot ATTACK, PARRY, DISENGAGE or FLEE you until the end of their next turn. This does not work against monsters.
-- ✦ **RANK 4:** Before rolling an attack, you may announce you want to impale the enemy so the weapon goes through and lodges into them. If the attack gets three or more ⚔️, you may spend 1 WP and decrease your result by two ⚔️ , but the attack must remain with at least one ⚔️. If you do, your weapon impales and lodges into the enemy. Your attack does an additional 🩸 damage, or two 🩸 if it is two-handed stabbing weapon. Your weapon can no longer be used to make more attacks and remains impaled until you disengage with the impaled enemy or you attack another enemy with the same weapon. As long as it remains lodged into an enemy, that enemy can make an ENDURANCE roll to avoid taking 1 damage to STRENGTH at the start of their turn, and you have +2 dice to further attacks against the same enemy. As a fast or slow action, the enemy can attempt an ATTACK or DODGE roll to release themselves from your impalement. If they succeed, they are no longer impaled; if they fail, they take 1 damage to STRENGTH and remain impaled. In addition, RANK  1 and 2 now work against monsters.
-- ✦ **RANK 5:** When you decrease your attack by just one ⚔️ when using RANK 1-3, you no longer need to spend 1 WP. You also benefit from a +1 die modifier to all attacks against a Pushed, Prone, Overextended, or Impaled enemy until the end of their next turn after you or an ally apply those conditions to them. In addition, RANK 3 and  4 now works against monsters.
+- ✦ **RANK 4:** Before rolling an attack, you may announce you want to impale the enemy so the weapon goes through and lodges into them. If the attack gets three or more ⚔️, you may spend 1 WP and decrease your result by two ⚔️ , but the attack must remain with at least one ⚔️. If you do, your weapon impales and lodges into the enemy. Your attack does an additional 🩸 damage, or two 🩸 if it is two-handed stabbing weapon. Your weapon can no longer be used to make more attacks and remains impaled until you disengage with the impaled enemy or you attack another enemy with the same weapon. As long as it remains lodged into an enemy, that enemy can make an ENDURANCE roll to avoid taking 1 damage to STRENGTH at the start of their turn, and you have +2 dice to further attacks against the same enemy. As a fast or slow action, the enemy can attempt an ATTACK or DODGE roll to release themselves from your impalement. If they succeed, they are no longer impaled; if they fail, they take 1 damage to STRENGTH and remain impaled. In addition, RANK 1 and 2 now work against monsters.
+- ✦ **RANK 5:** When you decrease your attack by just one ⚔️ when using RANK 1-3, you no longer need to spend 1 WP. You also benefit from a +1 die modifier to all attacks against a Pushed, Prone, Overextended, or Impaled enemy until the end of their next turn after you or an ally apply those conditions to them. In addition, RANK 3 and 4 now works against monsters.
 
 ### DEFENDER
 
@@ -893,7 +893,7 @@ You know every trick in the book.
 - **✦ RANK 2:** When you use the FEINT action, you may, instead of swapping initiative segments, have the target lose all actions if you damage it with the next attack you take this round. The effect is reduced by 1 action per rank of the pain-resistant talent, and monsters are immune.
 - **✦ RANK 3:** You may now use the FEINT action within NEAR range of your enemy. Also, when you use the FEINT action, you may, instead of swapping initiative segments, have the target be unable to DODGE or PARRY the next action you take this round.
 - **✦ RANK 4:** You may use FEINT as a free action once per encounter (15 minutes).
-- **✦ RANK 5:** As rank 4, but you may use each variant of FEINT  as a free action once per encounter (15 minutes). You cannot use more than one of these free FEINT per round.
+- **✦ RANK 5:** As rank 4, but you may use each variant of FEINT as a free action once per encounter (15 minutes). You cannot use more than one of these free FEINT per round.
 
 ### DIVER
 
@@ -944,7 +944,7 @@ You are fast and quick on your feet, and hard to hit in combat.
 - **✦ RANK 1:** You get a +1 bonus whenever you DODGE.
 - **✦ RANK 2:** You can DODGE for free once in every round of combat. The extra DODGE doesn't count toward your actions in the round.
 - **✦ RANK 3:** You can DODGE unlimited times in the same round of combat, but only once against each attack. No matter how many times you DODGE, it will never count as more than one action.
-- **✦** RANK 4:** Ignore the -2 penalty to remain standing when performing a DODGE.
+- **✦ RANK 4:** Ignore the -2 penalty to remain standing when performing a DODGE.
 - **✦ RANK 5:** You can add a D10 Artifact Die to your roll when you DODGE.
 
 ### FAST SHOOTER
@@ -972,9 +972,9 @@ Not even the horrors that lurk in the Forbidden Lands scare you.
 It takes a lot for you to lose your grip on your weapon.
 
 - **✦ RANK 1:** DISARMING you requires an extra ⚔️ - that is, two ⚔️ for a one-handed
-weapon and three ⚔️ for a two-handed weapon.
+  weapon and three ⚔️ for a two-handed weapon.
 - **✦ RANK 2:** DISARMING you requires two extra ⚔️ - three ⚔️ for a one-handed weapon
-and four ⚔️ for a two-handed weapon.
+  and four ⚔️ for a two-handed weapon.
 - **✦ RANK 3:** You cannot be DISARMED.
 - **✦ RANK 4:** You may hold a two-handed melee weapon in one hand, but opponents can DISARM such a held weapon from you if they roll 2 ⚔️.
 - **✦ RANK 5:** You cannot be disarmed while holding a two-handed weapon in one hand.
@@ -999,7 +999,7 @@ You are adept at running.
 - **✦ RANK 3:** You can add a D8 Artifact Die when you roll for MOVE to UMP, RUN fast, FLEE, or because of rough terrain. If someone wants to RETREAT or FLEE from you, and nothing can hinder you from pursuing, add another -1 penalty to the enemy roll (to a total of -2).
 - **✦ RANK 4:** Gain one free run action per turn, i.e., usable once every 15 minutes.
 - **✦ RANK 5:** Replace the D8 die with a D12 die. If someone wants to RETREAT or FLEE from
-you, and nothing can hinder you from pursuing, add another -1 penalty to the enemy roll (to a total of -3).
+  you, and nothing can hinder you from pursuing, add another -1 penalty to the enemy roll (to a total of -3).
 
 ### HAMMER FIGHTER
 
@@ -1007,7 +1007,7 @@ Bashing heads in with a sturdy Warhammer is your idea of a good day in the Forbi
 
 - **✦ RANK 1:** You get +1 to all attack rolls with a BLUNT melee weapon.
 - **✦ RANK 2:** All attacks with a BLUNT weapon inflict at least 1 point of damage, even if the target's armor absorbs all damage.
-- **✦ RANK 3:** Add** a D8 Artifact Die to all attack rolls with a BLUNT weapon.
+- **✦ RANK 3:** Add\*\* a D8 Artifact Die to all attack rolls with a BLUNT weapon.
 - **✦ RANK 4:** Halve the target rolled amount of armor, round down.
 - **✦ RANK 5:** Replace the D8 die with a D10 die.
 
@@ -1045,7 +1045,7 @@ You can put in more effort when swinging heavy weapons, especially two-handed on
 
 You are trained in fighting from the back of a mount. All the effects below require you to be in an OPEN zone.
 
-- **✦ RANK 1 You can make a MOUNTED CHARGE attack from a mount. This combines a full movement action by the mount (from at least SHORT range to ARM'S LENGTH) with your melee attack. You may fight with a two-handed polearm in one-hand during a mounted charge. This is a SLOW action.
+- \*\*✦ RANK 1 You can make a MOUNTED CHARGE attack from a mount. This combines a full movement action by the mount (from at least SHORT range to ARM'S LENGTH) with your melee attack. You may fight with a two-handed polearm in one-hand during a mounted charge. This is a SLOW action.
 - **✦ RANK 2:** You can fire a short bow or sling from a mount. You also get a +1 bonus to all melee attacks from a mount.
 - **✦ RANK 3:** When using RANK 2, You can add a D8 Artifact Die to the melee attack at the end of the MOUNTED CHARGE. When using RANK 2, your may choose not to add an Artifact Die to the melee attack; if you do so, your MOUNTED CHARGE does not stop at ARM'S LENGTH of your target, and your mount can continue moving, up to its maximum speed.
 - **✦ RANK 4:** MOUNTED CHARGE becomes a FAST action. You also get a +1 bonus to all ranged attacks from a mount.
@@ -1079,10 +1079,10 @@ In a traditional Forbidden Lands campaign, this talent can only be taken with th
 
 - **✦ RANK 1:** You can use a distiller or still and craft items with the inventor requirement; see the Equipment chapter for a list of such items. As long as no other talent requirements are listed, like Smith, roll lore instead of craft to make items.
 - ✦ **RANK 2:** Gain a +1 bonus to lore rolls when crafting things with the INVENTOR requirement.
-You can make masterwork firearms, slingshots, bullets for slings, and black powder guns with a Weapon Bonus that is one point higher than normal. This takes twice as long, and your roll is modified by -2. If you use other metals when making masterwork bullets, only replace half the lead; you still gain the full bonus from using the other metal.
+  You can make masterwork firearms, slingshots, bullets for slings, and black powder guns with a Weapon Bonus that is one point higher than normal. This takes twice as long, and your roll is modified by -2. If you use other metals when making masterwork bullets, only replace half the lead; you still gain the full bonus from using the other metal.
 - **✦ RANK 3:** You can add a D8 Artifact Die to your lore rolls when crafting things with the INVENTOR requirement. The Weapon Bonus can be two points higher than normal when making masterwork firearms, slingshots, and bullets. This takes four times as long, and your roll is modified by -4.
 - **✦ RANK 4:** Replace the D8 Artifact Die with a D10 die when making lore rolls to craft items with
-the INVENTOR requirement. The Weapon Bonus can be three points higher than normal when making masterwork firearms, slingshots, and bullets. This takes eight times as long, and your roll is modified by -6.
+  the INVENTOR requirement. The Weapon Bonus can be three points higher than normal when making masterwork firearms, slingshots, and bullets. This takes eight times as long, and your roll is modified by -6.
 - **✦ RANK 5:** Replace the D10 Artifact Die with a D12 die when making lore rolls to craft items with the INVENTOR requirement. The Weapon Bonus can be four points higher than normal when making masterwork firearms, slingshots, and bullets. This takes sixteen times as long, and your roll is modified by -8.
 
 ### KNIFE FIGHTER
@@ -1102,7 +1102,7 @@ You inspire those around you.
 - **✦ RANK 1:** You can make a PERFORMANCE roll once per battle when you lead at least a unit of troops in said battle (see Battles at the Stronghold, in the PHB). For each ⚔️, you can, a maximum of once per turn, either reroll a die for your side's combat roll (that inflicts losses to the enemies on an ⚔️) or roll twice on the events during the combat table and pick the highest result. When you take the PERFORMANCE or HEAL OTHER action, you can ignore the requirement for no enemy at ARM'S LENGTH.
 - **✦ RANK 2:** When using PERFORMANCE during large-scale battles or when performing HEAL OTHER, you gain a +1 modifier to the roll. You may use performance to heal others at a NEAR distance, and any PERFORMANCE HEAL OTHER roll now affects all allies broken in Wits or Empathy within the range.
 - **✦ RANK 3:** You can add a D8 Artifact Die when you use PERFORMANCE during large-scale battles or when PERFORMANCE HEAL OTHER.
-- **✦ RANK 4:** Performance:** HEAL OTHER is now a fast action. Increase the range of PERFORMANCE HEAL OTHER to SHORT. As a reaction, you may now use PERFORMANCE HEAL OTHER when an ally is Broken in Wits or Empathy. The action counts towards your actions in the round but breaks the turn order. It will, however, not prevent any negative effects caused from being Broken.
+- **✦ RANK 4:** Performance:\*\* HEAL OTHER is now a fast action. Increase the range of PERFORMANCE HEAL OTHER to SHORT. As a reaction, you may now use PERFORMANCE HEAL OTHER when an ally is Broken in Wits or Empathy. The action counts towards your actions in the round but breaks the turn order. It will, however, not prevent any negative effects caused from being Broken.
 - **✦ RANK 5:** Replace the D8 with a D10 die. You may once per encounter roll PERFORMANCE HEAL OTHER instead of HEALING HEAL OTHER roll.
 
 ### LIGHTNING FAST
@@ -1121,7 +1121,7 @@ You have mastered the art of picking locks. You need some tools like a set of pi
 
 - **✦ RANK 1:** When you pick a lock, your SLEIGHT OF HAND roll is modified by +1.
 - **✦ RANK 2:** You can roll for SLEIGHT OF HAND to get out of chains or ropes even when you are bound.
-- **✦ RANK 3:** When you pick a lock, you can add a D8 Artifact Die to your roll.**
+- **✦ RANK 3:** When you pick a lock, you can add a D8 Artifact Die to your roll.\*\*
 - **✦ RANK 4:** You have a keen SENSE of mechanical mechanisms. Whenever you or your party normally triggers a non-magical trap, roll scouting, including all bonuses from this talent; if you succeed, you will have noticed the trap before it had a chance to trigger.
 - **✦ RANK 5:** Replace the D8 die with a D12 die.
 
@@ -1151,7 +1151,7 @@ You are a skilled hunter and can find prey where others cannot.
 
 You are good at clearing your thoughts by entering a calm state.
 
-- **✦ RANK 1:** You can often find the time to take a 15-minute break during one Quarter during each Day.  Doing so recovers one point of Wits unless recovery is hindered.
+- **✦ RANK 1:** You can often find the time to take a 15-minute break during one Quarter during each Day. Doing so recovers one point of Wits unless recovery is hindered.
 - **✦ RANK 2:** As RANK 1, but you may choose to recover 1 point of Empathy instead. You can meditate during up to two Quarters of the Day.
 - **✦ RANK 3:** Regular meditation can help you focus even if you are physically or mentally tax. After a meditation, you may recover no attribute but instead you can go an extra day without becoming Tired, Hungry, or Thirsty. You cannot use this effect in consecutive days.
 - **✦ RANK 4:** As RANK 1, but you may instead recover 1 point of Strength and Agility. These attributes can be recovered only once per day, each.
@@ -1173,7 +1173,7 @@ You can climb any mountain. No precipice is too steep for you to explore.
 
 - **✦ RANK 1:** Your MOVE roll is modified by +1 when you climb.
 - **✦ RANK 2:** You can help a friend when climbing. If your roll succeeds, your friend also
-makes the climb, without having to roll for themselves.
+  makes the climb, without having to roll for themselves.
 - **✦ RANK 3:** You can add a D8 Artifact Die to your roll when you climb.
 - **✦ RANK 4:** You can help your entire party when climbing. If your roll succeeds, they all succeed.
 - **✦ RANK 5:** Replace the D8 die with a D12 die.
@@ -1205,7 +1205,7 @@ You have learned to endure pain that would make others lose their minds.
 - **✦ RANK 1:** If your Strength is reduced to exactly zero (like taking 2 damage when having 2 Strength), and does not overshoot (like taking 3 damage when having 2 Strength), you can spend 1 WP and ignore 1 damage and thus stay at 1 Strength. If the damage is caused by pushing a roll, the push does not provide WP. You can benefit from this once per Day.
 - **✦ RANK 2:** As RANK 1, but you can benefit once per Quarter. You can also apply RANK 1 to Agility when your Agility becomes Broken.
 - **✦ RANK 3:** As RANK 2, but you do not need to spend WP and also you recover one lost point of Agility, Wits or Empathy each time you trigger RANK 1, as long as the attribute recovered is not Broken.
-- **✦ RANK 4:**  Once per encounter when you become Broken in Strength or Agility and can not benefit from RANK 1, you can make a SLOW action to muster and roll ENDURANCE during your next round, if successful you recover one point in one of your Broken attributes.
+- **✦ RANK 4:** Once per encounter when you become Broken in Strength or Agility and can not benefit from RANK 1, you can make a SLOW action to muster and roll ENDURANCE during your next round, if successful you recover one point in one of your Broken attributes.
 - **✦ RANK 5:** Once per encounter, when you become Broken by taking enemy damage to your Strength, before you fall prone and helpless you immediately gain one SLOW action at your full amount of attribute dice. This SLOW action interrupt the initiative order, and does not trigger any other Talents. You do not count as broken until after they complete, but any critical injuries take place before that action and you may die instantly before you can benefit from this action.
 
 ### PATHFINDER
@@ -1223,8 +1223,8 @@ You are a master at finding the right path through woods and over mountains in t
 You know how to use surgical tools and can diagnose people's illnesses and tend to their wounds.
 
 - **✦ RANK 1:** Your healing roll is modified by +1 when you try to save someone's life or when you
-apply long term care. You can replace a character's ENDURANCE roll against poison and disease with a roll you make for healing.
-- **✦ RANK 2:** You can add a D8 Artifact Die when you try to save someone's life or when you apply long term care. Also, if you fail a HEALING:** HEAL OTHER roll, you get a second chance to make the roll if you spend 15-minutes to tend to the Broken person.
+  apply long term care. You can replace a character's ENDURANCE roll against poison and disease with a roll you make for healing.
+- **✦ RANK 2:** You can add a D8 Artifact Die when you try to save someone's life or when you apply long term care. Also, if you fail a HEALING:\*\* HEAL OTHER roll, you get a second chance to make the roll if you spend 15-minutes to tend to the Broken person.
 - **✦ RANK 3:** If someone suffers a permanent critical injury, then a successful care roll will change it from being permanent to healed. You must have applied initial care within 15 minutes after the injury was suffered for this to have any effect.
 - **✦ RANK 4:** Replace the D8 die with a D12 die.
 - **✦ RANK 5:** You automatically succeed any save someone's life and longtime care rolls.
@@ -1251,18 +1251,18 @@ You have mastered the art of brewing poisons of every kind. Read more about pois
 
 **STANDARD OPTIONS**
 
-| POISON | PRICE | SUPPLY | WEIGHT | RAW MATERIALS | TIME | TALENT | TOOLS | EFFECT |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Night Terror | 5 silver | Rare | Tiny | 1 Herbs | Quarter Day | Poisoner | Cauldron, fire | Potency 6. Each step of increased Potency doubles the cost. Causes the Sleepless condition at full effect. |
-| Desert Wind | 5 silver | Rare | Tiny | 1 Herbs | Quarter Day | Poisoner | Cauldron, fire | Potency 6. Each step of increased Potency doubles the cost. Causes the Thirsty condition at full effect. |
-| Wolfhunger | 5 silver | Rare | Tiny | 1 Herbs | Quarter Day | Poisoner | Cauldron, fire | Potency 6. Each step of increased Potency doubles the cost. Causes the Hungry condition at full effect. |
-| Frostbite | 5 silver | Rare | Tiny | 1 Herbs | Quarter Day | Poisoner | Cauldron, fire | Potency 6. Each step of increased Potency doubles the cost. Causes the Cold condition at full effect. |
-| Amok | 3 silver | Rare | Tiny | 1 Herbs | Quarter Day | Poisoner | Cauldron, fire | Potency 3. Each step of increased Potency doubles the cost. Fills the victim with uncontrolled rage, aimed at the nearest creature. The effect lasts a Quarter Day. |
-| Forgetting Dust | 4 silver | Rare | Tiny | 1 Herbs | Quarter Day | Poisoner | Cauldron, fire | Potency 3. Each step of increased Potency doubles the cost. At full effect the victim forgets everything that happened in the last Quarter Day. Does not affect XP gained during that time. |
-| Power Shackles | 5 silver | Rare | Tiny | 1 Herbs | Quarter Day | Poisoner | Cauldron, fire | Potency 3. Each step of increased Potency doubles the cost. At full effect the victim casts spells with halved Power Level (rounded up) for a Quarter Day. |
-| Midnight Torment | 4 silver | Rare | Tiny | 1 Herbs | Quarter Day | Poisoner | Cauldron, fire | Potency 3. Each step of increased Potency doubles the cost. At full effect the victim is temporarily blind, lasts a Quarter Day. |
-| Love Potion | 4 silver | Rare | Tiny | 1 Herbs | Quarter Day | Poisoner | Cauldron, fire, hair from person | Potency 3. Each step of increased Potency doubles the cost. Twists the victim's mind and makes them infatuated with a specific person. The infatuated automatically fails all attempts to resist MANIPULATION by their love interest. The effect lasts a Quarter Day. |
-| Aging Drops | 8 silver | Rare | Tiny | 1 Herbs | Quarter Day | Poisoner | Cauldron, fire | Potency 3. Each step of increased Potency doubles the cost. At full effect the victim goes from youth to adult or from adult to old and loses one point in an attribute of their choice. The effect lasts until a dose of Elixir of Life is consumed or the spell Healing Hands is cast on the victim. |
+| POISON           | PRICE    | SUPPLY | WEIGHT | RAW MATERIALS | TIME        | TALENT   | TOOLS                            | EFFECT                                                                                                                                                                                                                                                                                                 |
+| ---------------- | -------- | ------ | ------ | ------------- | ----------- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Night Terror     | 5 silver | Rare   | Tiny   | 1 Herbs       | Quarter Day | Poisoner | Cauldron, fire                   | Potency 6. Each step of increased Potency doubles the cost. Causes the Sleepless condition at full effect.                                                                                                                                                                                             |
+| Desert Wind      | 5 silver | Rare   | Tiny   | 1 Herbs       | Quarter Day | Poisoner | Cauldron, fire                   | Potency 6. Each step of increased Potency doubles the cost. Causes the Thirsty condition at full effect.                                                                                                                                                                                               |
+| Wolfhunger       | 5 silver | Rare   | Tiny   | 1 Herbs       | Quarter Day | Poisoner | Cauldron, fire                   | Potency 6. Each step of increased Potency doubles the cost. Causes the Hungry condition at full effect.                                                                                                                                                                                                |
+| Frostbite        | 5 silver | Rare   | Tiny   | 1 Herbs       | Quarter Day | Poisoner | Cauldron, fire                   | Potency 6. Each step of increased Potency doubles the cost. Causes the Cold condition at full effect.                                                                                                                                                                                                  |
+| Amok             | 3 silver | Rare   | Tiny   | 1 Herbs       | Quarter Day | Poisoner | Cauldron, fire                   | Potency 3. Each step of increased Potency doubles the cost. Fills the victim with uncontrolled rage, aimed at the nearest creature. The effect lasts a Quarter Day.                                                                                                                                    |
+| Forgetting Dust  | 4 silver | Rare   | Tiny   | 1 Herbs       | Quarter Day | Poisoner | Cauldron, fire                   | Potency 3. Each step of increased Potency doubles the cost. At full effect the victim forgets everything that happened in the last Quarter Day. Does not affect XP gained during that time.                                                                                                            |
+| Power Shackles   | 5 silver | Rare   | Tiny   | 1 Herbs       | Quarter Day | Poisoner | Cauldron, fire                   | Potency 3. Each step of increased Potency doubles the cost. At full effect the victim casts spells with halved Power Level (rounded up) for a Quarter Day.                                                                                                                                             |
+| Midnight Torment | 4 silver | Rare   | Tiny   | 1 Herbs       | Quarter Day | Poisoner | Cauldron, fire                   | Potency 3. Each step of increased Potency doubles the cost. At full effect the victim is temporarily blind, lasts a Quarter Day.                                                                                                                                                                       |
+| Love Potion      | 4 silver | Rare   | Tiny   | 1 Herbs       | Quarter Day | Poisoner | Cauldron, fire, hair from person | Potency 3. Each step of increased Potency doubles the cost. Twists the victim's mind and makes them infatuated with a specific person. The infatuated automatically fails all attempts to resist MANIPULATION by their love interest. The effect lasts a Quarter Day.                                  |
+| Aging Drops      | 8 silver | Rare   | Tiny   | 1 Herbs       | Quarter Day | Poisoner | Cauldron, fire                   | Potency 3. Each step of increased Potency doubles the cost. At full effect the victim goes from youth to adult or from adult to old and loses one point in an attribute of their choice. The effect lasts until a dose of Elixir of Life is consumed or the spell Healing Hands is cast on the victim. |
 
 > **INTERACTION BETWEEN POTIONS**
 >
@@ -1270,13 +1270,13 @@ You have mastered the art of brewing poisons of every kind. Read more about pois
 >
 > **ALCHEMICAL INTERACTION**
 >
-> | D6 | INTERACTION |
-> | --- | --- |
-> | 1-2 | The potions work as intended. |
-> | 3 | The potions work as intended and add a cosmetic effect for one day. Roll D6: 1 glowing eyes; 2 crimson hair; 3 green spots; 4 black lips; 5 honey-sweet scent; 6 squeaky voice. |
-> | 4 | One of the potions stops working, roll for which one. |
-> | 5 | All potions stop working. |
-> | 6 | Toxic interaction, the potions stop working. The Potency is D6 multiplied by the number of consumed potions. |
+> | D6  | INTERACTION                                                                                                                                                                     |
+> | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | 1-2 | The potions work as intended.                                                                                                                                                   |
+> | 3   | The potions work as intended and add a cosmetic effect for one day. Roll D6: 1 glowing eyes; 2 crimson hair; 3 green spots; 4 black lips; 5 honey-sweet scent; 6 squeaky voice. |
+> | 4   | One of the potions stops working, roll for which one.                                                                                                                           |
+> | 5   | All potions stop working.                                                                                                                                                       |
+> | 6   | Toxic interaction, the potions stop working. The Potency is D6 multiplied by the number of consumed potions.                                                                    |
 
 ### QUARTERMASTER
 
@@ -1373,14 +1373,14 @@ These options and actions become available when you take the SMITH talent.
 
 - **✦ Non-metal materials:** If you want to replace any nonmetal material in an item, for example a wooden handle with some found wood of a more exquisite quality or so, your GM could add a +1 bonus dice to your crafting roll per "rating" of that material, up to a maximum of +1 per "level" of added masterwork you try to create.
 - **✦ Non-leather shields:** You can make shields without leather, removing all Leather and Tanner from the requirements. Such shields will however become fragile; taking damage from even on non-pushed rolls.
-- **✦** Metal ferrule:** You can make masterwork versions of all wooden melee weapons, like staffs and clubs, by adding a metal ferrule to them, counting them as metal headed weapons. This adds 1/2 Iron, Smith and Forge to the requirements.
-- **✦** Scrapping items:** You can grind down items made out of metal, regaining all its metal parts, or at least some of it, if it is severely damaged. No crafting roll is necessary for this. With the GMs approval, a masterwork weapon can be grinded down in this way to gain "wrought iron", "steel", and so on. The materials are still lost (not-recyclable) if you fail a craft roll while making an item though.
+- **✦ Metal ferrule:** You can make masterwork versions of all wooden melee weapons, like staffs and clubs, by adding a metal ferrule to them, counting them as metal headed weapons. This adds 1/2 Iron, Smith and Forge to the requirements.
+- **✦ Scrapping items:** You can grind down items made out of metal, regaining all its metal parts, or at least some of it, if it is severely damaged. No crafting roll is necessary for this. With the GMs approval, a masterwork weapon can be grinded down in this way to gain "wrought iron", "steel", and so on. The materials are still lost (not-recyclable) if you fail a craft roll while making an item though.
 
 ### SOLID DRINKER
 
 The best part of life is ale and more ale.
 
-- **✦** RANK 1:** Being INTOXICATED only reduce your skills by 1 point, i.e., rolls are reduced by -1 instead of -2.
+- **✦ RANK 1:** Being INTOXICATED only reduce your skills by 1 point, i.e., rolls are reduced by -1 instead of -2.
 - **✦ RANK 2:** While INTOXICATED you count as having one additional rank in PAIN RESISTANT (or one RANK if you do not have the talent). If you become INTOXICATED while already intoxicated, you do not automatically Break your Agility.
 - **✦ RANK 3:** While INTOXICATED you count as having another, so now two extra ranks in PAIN RESISTANT.
 - **✦ RANK 4:** Being INTOXICATED do not reduce your skills. You can easily pass as completely sober while intoxicated.
@@ -1452,7 +1452,7 @@ When you repair a tailor item whose Gear Bonus or Armor Rating is above its norm
 
 You know the art of turning pelts into leather, and to craft that leather into armor.
 
-- **✦ RANK 1:** With a successful CRAFTING roll, you can turn up to D6 units of PELTS into LEATHER. If you fail, the PELTS are destroyed. If you have access to a TANNERY, you can create LEATHER  faster and without rolling dice. You can also use the CRAFTING skill to make leather armor with normal stats according to the armor table. You can now also turn pelts into rawhide, buckskin and fur. You can make grease, glue, soap and varnish. When making slings, you can treat your rank in tanner, just as if you had been a bowyer.
+- **✦ RANK 1:** With a successful CRAFTING roll, you can turn up to D6 units of PELTS into LEATHER. If you fail, the PELTS are destroyed. If you have access to a TANNERY, you can create LEATHER faster and without rolling dice. You can also use the CRAFTING skill to make leather armor with normal stats according to the armor table. You can now also turn pelts into rawhide, buckskin and fur. You can make grease, glue, soap and varnish. When making slings, you can treat your rank in tanner, just as if you had been a bowyer.
 - **✦ RANK 2:** You can make leather armor with an Armor Rating that is one point higher than normal. This takes twice as long, and your roll is modified by -2. You can make glue hardened leather. You can use taxidermy to stuff and preserve slain animals and monsters. Takes 1 day per Strength of the creature or 1 week for a monster if you just keep the head. Worth 1d6 silver per Strength of the creature. You get a +1 modification to CRAFTING and repair rolls for tanner items.
 - **✦ RANK 3:** You can make leather armor with an Armor Rating that is two points higher than normal. This takes four times as long and your roll is modified by -4. You can make glass composite leather. You are good at coloring your leather, by taking a -2 penalty to the craft roll, you can have your leather armor gain a +1 bonus to either stealth or manipulation. Instead of the +1 modification, you may add a D8 Artifact Die to CRAFTING and repair rolls for tanner items.
 - **✦ RANK 4:** You can make leather armor with an Armor Rating that is three points higher than normal. This takes eight times as long and your roll is modified by -6. When you harvest resources from a slain monster, gain a reroll for all resources that are rolled forth, and if there are no rolls, instead harvest 50% more, round down. Replace the D8 with a D10 Artifact Die.
@@ -1495,7 +1495,7 @@ You can travel on foot through the wilderness for a long time without stopping f
 The blood runs hot in your veins. You can resist cold that would paralyze a lesser adventurer.
 
 - **✦ RANK 1:** Your ENDURANCE rolls are modified by +1 when you roll to avoid becoming
-COLD.
+  COLD.
 - **✦ RANK 2:** You roll half as often as normal to avoid becoming COLD.
 - **✦ RANK 3:** You can keep another person warm with your own body. Your companion also gets a +1 modification to all rolls to avoid becoming COLD. You must be in physical contact with each other to achieve this effect.
 - **✦ RANK 4:** You can add a D8 Artifact Die when you and your companion rolls to avoid becoming cold.
@@ -1508,7 +1508,7 @@ You have practiced for so long, so that a whip at this point almost feels like a
 - **✦ RANK 1:** Your attack rolls are modified by +1 when you fight with a whip.
 - **✦ RANK 2:** When taking a slow action to make a move roll, you can apply this bonus to that roll, as long as there is anything in reach you can make the whip cling to.
 - ✦ **RANK 3:** You can add a D8 Artifact Die when you fight with a whip.
-- **✦ RANK 4:** You can perform a ranged grapple attacks with a whip. You do not fall prone or drop your whip, but you cannot use it for anything but to maintain the grapple and are otherwise  considered fully engaged as if in the grapple yourself.
+- **✦ RANK 4:** You can perform a ranged grapple attacks with a whip. You do not fall prone or drop your whip, but you cannot use it for anything but to maintain the grapple and are otherwise considered fully engaged as if in the grapple yourself.
 - **✦ RANK 5:** Replace the D8 Artifact Die with a D10 die.
 
 ### WRESTLER
