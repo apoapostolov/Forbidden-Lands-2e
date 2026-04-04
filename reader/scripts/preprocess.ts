@@ -12,14 +12,14 @@
 
 import { existsSync, readFileSync, writeFileSync } from 'fs'
 import type {
-    Heading,
-    Image,
-    List,
-    ListItem,
-    Root as MdastRoot,
-    Node,
-    Table,
-    TableRow,
+  Heading,
+  Image,
+  List,
+  ListItem,
+  Root as MdastRoot,
+  Node,
+  Table,
+  TableRow,
 } from 'mdast'
 import { dirname, join, resolve } from 'path'
 import rehypeSanitize from 'rehype-sanitize'
@@ -650,12 +650,16 @@ function paginate(chapters: { title: string; index: number; segments: Segment[] 
 
     // Headings must leave enough space for at least two body-text lines below
     // them in the current column. If not, move the heading to the next column.
+    // Note: Chapter 1 (front-matter) h3/h4 headings don't require large
+    // reservations since they introduce brief subsections with clear visual breaks.
     const headingNextReservationPt =
       seg.type === 'heading'
         ? nextSeg?.type === 'paragraph'
-          ? (seg as HeadingSegment).level >= 3
-            ? Math.min((nextSeg as ParagraphSegment).heightPt + 18, 180)
-            : Math.min((nextSeg as ParagraphSegment).heightPt, 72)
+          ? chIdx === 0 && (seg as HeadingSegment).level >= 3
+            ? 0 // Chapter 1 h3/h4: no space reservation
+            : (seg as HeadingSegment).level >= 3
+              ? Math.min((nextSeg as ParagraphSegment).heightPt + 18, 180)
+              : Math.min((nextSeg as ParagraphSegment).heightPt, 72)
           : MIN_PARAGRAPH_ROOM_AFTER_HEADING_PT
         : 0
 
