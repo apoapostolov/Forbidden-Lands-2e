@@ -1,5 +1,7 @@
 # Forbidden Lands 2E
 
+<img src="corebook/00-cover-clean.png" alt="Forbidden Lands 2E cover" width="905">
+
 Unofficial public workbench for a heavily revised Forbidden Lands 2E manuscript and its supporting proposal documents.
 
 ## Status
