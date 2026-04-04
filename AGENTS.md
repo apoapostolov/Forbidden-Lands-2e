@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This repository is a public-facing workbench for a heavily revised Forbidden Lands 2E manuscript and its supporting proposal documents.
+This repository is a public-facing workbench for a heavily revised Forbidden Lands 2E manuscript and a living proposal area for future revisions.
 
 It is not the private source-of-truth workspace. It is a shareable copy meant to preserve:
 
@@ -17,7 +17,7 @@ It is not the private source-of-truth workspace. It is a shareable copy meant to
   - Integrated working manuscript
   - Canonical within this repo
 - `proposals/`
-  - Draft design documents and staging proposals
+  - Draft design documents, revision notes, and staging material
   - Not canonical until their substance is integrated into `corebook/`
 - `README.md`
   - Public explanation of scope and legal context
@@ -46,7 +46,7 @@ If you edit this repo, do not weaken those warnings in the public-facing docs.
 
 ## Editorial Rule
 
-Treat `corebook/` as the manuscript and `proposals/` as staged design support.
+Treat `corebook/` as the manuscript and `proposals/` as staged design support that may change over time.
 
 If a proposal is accepted:
 

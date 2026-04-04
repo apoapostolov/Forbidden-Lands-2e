@@ -2,7 +2,7 @@
 
 ## 300-Character Description
 
-A public workbench for an unofficial Forbidden Lands 2E manuscript: a heavily revised corebook draft plus proposal documents for injuries, gear, magic mishaps, and survival rules. Built as third-party supplement effort, not an official Free League release, and now under active editorial development.
+A public workbench for an unofficial Forbidden Lands 2E manuscript: a revised corebook draft plus a living proposals area for injuries, gear, magic mishaps, and other rules. Built as a third-party supplement effort, not an official Free League release, and kept under active editorial revision today.
 
 ## Suggested Tags
 

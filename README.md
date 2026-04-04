@@ -2,7 +2,7 @@
 
 <img src="corebook/00-cover-clean.png" alt="Forbidden Lands 2E cover" style="width: 90%;">
 
-Unofficial public workbench for a heavily revised Forbidden Lands 2E manuscript and its supporting proposal documents.
+Unofficial public workbench for a heavily revised Forbidden Lands 2E manuscript and a living proposal area for future revisions.
 
 ## Status
 
@@ -11,7 +11,7 @@ This repository is a public draft space, not an official release.
 It contains:
 
 - an integrated `corebook/` manuscript
-- a `proposals/` folder with design documents and candidate rules
+- a `proposals/` folder with design notes, draft rules, and other work-in-progress material
 
 The project is intended as a third-party supplement effort for Forbidden Lands, but the copied manuscript is a full working draft and should be treated as editorial and design material, not as a compliance guarantee under Free League's license.
 
@@ -43,7 +43,7 @@ This repository includes AI-assisted drafting and editing. If any part of this p
 - `corebook/`
   - The integrated working manuscript and its chapter-level changelog.
 - `proposals/`
-  - Draft proposals for future revisions, subsystem redesigns, and editorial staging.
+  - Draft proposals, design notes, and staging material for future revisions.
 - `AGENTS.md`
   - Root authoring and repository guidance for this public copy.
 - `LICENSE.md`
