@@ -1,0 +1,26 @@
+.wrapper {
+  width: 100dvw;
+  height: 100dvh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--color-bg-deep);
+  overflow: hidden;
+}
+
+.scaler {
+  /* transform applied inline from useViewportScale */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flipBook {
+  /* react-pageflip renders a shadow DOM; override its background */
+  background: transparent !important;
+}
+
+/* Click zones on outer page edges (left/right 40px) for page turning */
+.flipBook :global(.page) {
+  cursor: pointer;
+}

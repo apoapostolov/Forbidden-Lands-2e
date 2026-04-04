@@ -15,8 +15,9 @@ The Forbidden Lands engine encourages players to combine talents, spells, kin ab
 - Answering player or designer questions about whether a specific combo is broken.
 - Scanning the talent and spell chapters for systemic exploitation surfaces.
 - Screening new spells, talents, gear effects, or magic item properties against the known Danger Zones using the **New Content Screener** (see Bundled References).
+- Designing new rules from scratch using the screener's decision tree to ensure the draft is safe before it reaches playtest.
 
-For new content review specifically, always run the New Content Screener intake protocol before applying full five-test analysis. The screener narrows the search space in under five minutes.
+For new content review, always run the New Content Screener decision tree before or alongside full five-test analysis. The screener covers design identity, mechanism tagging, danger zone cross-reference, overlap analysis, red flag scanning, fix templates, and the seven abstract synergy patterns.
 
 ## Source Of Truth
 
@@ -35,8 +36,8 @@ Read the relevant sections before making claims. Do not argue from memory alone.
 
 Read on demand:
 
-- `skills/forbidden-lands-synergy-analysis/references/new-content-screener.md` — **start here for any new rule review.** Mechanism Tag Table, Danger Zone Index, Pattern Library, Red Flag Keywords, Cross-Rule Interaction Log.
-- `skills/forbidden-lands-synergy-analysis/references/exploitation-surface-catalog.md` — 67 worked synergy examples with five-test results and verdicts. Organized by exploitation surface category.
+- `skills/forbidden-lands-synergy-analysis/references/new-content-screener.md` — **start here for any new rule creation or review.** Professional decision tree: design identity check, mechanism tagging (37 tags), 13 danger zone cross-references, overlap analysis, red flag keywords (24), five-test analysis, 11 fix templates, 7 abstract synergy patterns, 9 guardrail sections, and a structured verdict report format.
+- `skills/forbidden-lands-synergy-analysis/references/exploitation-surface-catalog.md` — 151 worked synergy examples with five-test results and verdicts. Organized by exploitation surface category across 35+ sections.
 - `skills/forbidden-lands-design/references/design-manual.md` — pressure economy, WP economy, synergy framework, expansion framework
 - `skills/rpg-balance-analysis/references/action-economy-synergy-and-campaign-scale.md` — action economy value, game-theory taxonomy, campaign-scale tests
 

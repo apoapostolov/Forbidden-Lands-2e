@@ -1,0 +1,24 @@
+# Copyrighted and generated/binary assets — never commit these
+sources/
+analysis/
+
+# Build outputs
+reader/node_modules/
+reader/dist/
+reader/src/data/book-data.json
+reader/src/data/search-index.json
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~

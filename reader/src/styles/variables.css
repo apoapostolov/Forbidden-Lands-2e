@@ -1,0 +1,68 @@
+/* ============================================================
+   Forbidden Lands Reader — Design Tokens
+   All colors, typographic scale, spacing, and page geometry
+   sourced from the PDF layout analysis (analysis/layout_report.md)
+   ============================================================ */
+
+:root {
+  /* ── Page Colors (corrected from PyMuPDF encoding artifacts) ── */
+  --page-bg: #f5ede0; /* aged parchment — recto pages */
+  --page-bg-dark: #e8d9c4; /* verso pages, slightly darker */
+  --text-primary: #1a1208; /* near-black ink */
+  --text-heading: #2c1a0e; /* dark brown headings */
+  --text-accent: #8b1a1a; /* blood-red accent: drop caps, rules */
+  --border-ornamental: #5c3d1e; /* table borders and frame lines */
+  --sidebar-bg: #ede0cb; /* inset sidebar / callout boxes */
+  --spine-dark: #1a0f06; /* book spine deepest shadow */
+  --gold-rule: #b8960c; /* thin gold separator rules */
+
+  /* ── Environment Colors ── */
+  --color-bg-deep: #0d0a07; /* reading room background (near-black) */
+
+  /* ── Page Geometry (from PDF: 482 × 680 pt converted to px) ── */
+  --page-width: 642px; /* 482pt × 1.333 */
+  --page-height: 907px; /* 680pt × 1.333 */
+  --page-margin-h: 67px; /* ~50pt */
+  --page-margin-v: 80px; /* ~60pt */
+  --column-gap: 16px; /* ~12pt */
+
+  /* ── Font Families ── */
+  --font-body: 'IM Fell Great Primer', Georgia, 'Times New Roman', serif;
+  --font-heading: 'IM Fell Double Pica', 'IM Fell Great Primer', Georgia, serif;
+  --font-chapter: 'Cinzel Decorative', 'Cinzel', 'IM Fell Great Primer', serif;
+  --font-subheading: 'Cinzel', Georgia, serif;
+  --font-label: 'Libre Franklin', 'Franklin Gothic Medium', sans-serif;
+  --font-small-caps: 'Cormorant SC', 'IM Fell Great Primer', Georgia, serif;
+
+  /* ── Font Size Scale (body = 8pt → 10.67px) ── */
+  --text-xs: 9px; /* ~6.75pt  — footer, captions */
+  --text-sm: 11px; /* ~8.25pt  — body text */
+  --text-base: 11px; /* body (8pt × 1.333) */
+  --text-md: 14px; /* ~10.5pt  — bold labels */
+  --text-lg: 18px; /* ~13.5pt  — subsections */
+  --text-xl: 21px; /* ~15.75pt — section headings */
+  --text-2xl: 27px; /* ~20pt    — chapter openings */
+  --text-3xl: 36px; /* ~27pt    — large chapter titles */
+
+  /* ── Line Heights ── */
+  --leading-body: 1.45;
+  --leading-tight: 1.2;
+  --leading-loose: 1.65;
+
+  /* ── Letter Spacing ── */
+  --tracking-caps: 0.12em;
+  --tracking-tight: -0.01em;
+  --tracking-wide: 0.05em;
+
+  /* ── Shadows ── */
+  --shadow-page: 0 8px 40px rgba(0, 0, 0, 0.55), 0 2px 8px rgba(0, 0, 0, 0.3);
+  --shadow-page-active: 0 16px 60px rgba(0, 0, 0, 0.7), 0 4px 12px rgba(0, 0, 0, 0.4);
+  --shadow-spine: inset 12px 0 20px rgba(26, 15, 6, 0.35);
+
+  /* ── Z-index layers ── */
+  --z-page: 10;
+  --z-overlay: 50;
+  --z-toc: 60;
+  --z-search: 70;
+  --z-modal: 80;
+}

@@ -4,449 +4,839 @@
 
 ## Purpose
 
-This document is the intake protocol for evaluating new rules — spells, talents, kin abilities, gear properties, and magic item effects — before they enter the manuscript. It answers the question: _does this new thing plug into an existing dangerous synergy, duplicate a known broken pattern, or open a new one?_
+This document is the professional decision tree for designing, auditing, and approving new rules for Forbidden Lands 2E.
 
-It is designed to be fast. An AI or designer should be able to screen a new rule in under five minutes using the Mechanism Tag Table, then escalate to full five-test analysis only if a tag fires.
+It serves two users:
 
----
+1. **An AI generating new rules** — run this tree before presenting a draft. Every rule that exits this tree should be safe to playtest.
+2. **A designer asking an AI to audit rules** — feed the proposed rule and ask the AI to run this tree. The output is a structured verdict with specific risks identified.
 
-## Intake Protocol (Run This First)
-
-For every new rule being evaluated, work through these five steps in order.
-
-### Step 1 — Summarize the Mechanism
-
-Write one sentence describing what the rule **does mechanically**, not what it is thematically. Strip the flavour.
-
-Examples:
-
-- "Grants WP when the caster takes damage."
-- "Reduces the target's effective armor by 2."
-- "Allows an additional attack as a fast action."
-- "Forces an NPC to comply with the caster's stated demand."
-
-If you cannot summarize it in one sentence, the rule is doing too much — flag that before continuing.
-
-### Step 2 — Tag It
-
-Match the summary against the **Mechanism Tag Table** below. Assign every tag that applies. A rule can have multiple tags.
-
-### Step 3 — Look Up Each Tag
-
-Each tag maps to one or more **Danger Zones** in the catalog. Read the listed entries.
-
-### Step 4 — Ask the Overlap Questions
-
-For each matched Danger Zone, answer the three overlap questions:
-
-1. **Does the new rule make an existing Danger Zone entry cheaper to activate?**
-   (Lower WP cost, fewer decisions, shorter setup, no longer requires specific kin/path.)
-2. **Does the new rule increase the output of an existing Danger Zone entry?**
-   (Higher Power Level, more targets, longer duration, additional damage, wider area.)
-3. **Does the new rule remove an existing brake on a Danger Zone entry?**
-   (Eliminates a cooldown, bypasses a per-QD limit, removes a monster immunity clause, negates a concentration requirement.)
-
-If any answer is yes, escalate to full five-test analysis.
-
-### Step 5 — Check New Pattern Risk
-
-Even if no existing Danger Zone fires, ask: does this rule **combine with anything** in the manuscript to create a new loop the catalog has not mapped? Quick-test:
-
-- Does this rule grant a resource (WP, actions, healing, dice)?
-  → Does anything existing **amplify** that resource?
-- Does this rule remove a cost or risk?
-  → Does anything existing **stack** with that removal?
-- Does this rule affect multiple targets or persist over time?
-  → Does anything existing **compound** persistence or multi-targeting?
-
-If yes to any: add the new combo to the exploitation-surface-catalog.md before finalizing the rule.
+The tree is grounded in 151 worked synergy examples from the exploitation-surface-catalog.md. Every danger zone, pattern, and red flag below is derived from actual rule interactions confirmed against the manuscript.
 
 ---
 
-## Mechanism Tag Table
+## How To Use This Document
 
-| Tag                  | Applies When                                                                   | Primary Danger Zones                           | Secondary Risk                                                         |
-| -------------------- | ------------------------------------------------------------------------------ | ---------------------------------------------- | ---------------------------------------------------------------------- |
-| **WP-GRANT**         | Rule gives WP to one or more characters                                        | WP Economy Loops, Kin+Spell Interactions       | Cross with any WP-multiplying effect                                   |
-| **WP-REFUND**        | Rule returns WP already spent                                                  | WP Economy Loops                               | Any per-use cost becomes free                                          |
-| **WP-MULTIPLY**      | Rule multiplies the effect of WP spent                                         | WP Economy Loops, Cross-Category Superbuilds   | Touches every path simultaneously                                      |
-| **ACTION-GRANT**     | Rule grants an extra action (fast, slow, or free)                              | Action Compression Stacking, Temporal Exploits | Cross with high-damage or high-effect abilities                        |
-| **ACTION-FREE**      | Rule allows an action that normally costs speed as a free action               | Action Compression Stacking                    | Cross with armor bypass, forced criticals                              |
-| **ARMOR-IGNORE**     | Rule causes attacks to ignore or reduce armor                                  | Armor Bypass Chains                            | Cross with any forced-critical effect                                  |
-| **ARMOR-REDUCE**     | Rule reduces armor rating temporarily or permanently                           | Armor Bypass Chains                            | Cross with high-damage weapons                                         |
-| **CRITICAL-FORCE**   | Rule causes or guarantees a critical injury independent of the attack roll     | Armor Bypass Chains                            | Cross with Executioner talent                                          |
-| **HEAL-ATTRIB**      | Rule restores one or more attribute points                                     | Recovery Collapse                              | Cross with Living Spell, Prepare Magic                                 |
-| **HEAL-CRITICAL**    | Rule removes or reverses a critical injury                                     | Recovery Collapse                              | Cross with Inner Peace, Regeneration                                   |
-| **HEAL-PERSIST**     | Rule heals over time or without caster action                                  | Recovery Collapse                              | Cross with safe casting, Living Spell                                  |
-| **DODGE-BONUS**      | Rule adds dice, automatic successes, or free uses to Dodge                     | Defense Stacking                               | Cross with Rat's Reflexes, Hard to Catch                               |
-| **DAMAGE-REDUCE**    | Rule reduces incoming damage                                                   | Defense Stacking                               | Cross with Elemental Shield, Path of Fate                              |
-| **INVULN-PHYSICAL**  | Rule makes character immune or near-immune to physical damage                  | Defense Stacking                               | Requires GM-only enemy countermeasures                                 |
-| **MISHAP-REMOVE**    | Rule reduces or eliminates mishap dice when casting                            | Safe Casting Compression                       | Cross with grimoire, high talent rank                                  |
-| **MISHAP-NEGATE**    | Rule negates mishap effects after they occur                                   | Safe Casting Compression                       | Allows unlimited safe high-rank casting                                |
-| **RANK-REDUCE**      | Rule reduces effective spell rank for casting purposes                         | Safe Casting Compression                       | Stacks with grimoire for zero-dice casts                               |
-| **DURATION-EXTEND**  | Rule extends the duration of another effect                                    | Temporal Exploits, General Spell Amplifiers    | Cross with any buff or persistent damage spell                         |
-| **PERSIST-ZONE**     | Rule creates a persistent zone effect                                          | General Spell Amplifiers                       | Cross with any healing, damage, or buff spell                          |
-| **TARGET-MULTI**     | Rule allows one spell or ability to affect multiple targets                    | Party Composition Exploits, Social Domination  | Cross with forced-compliance, forced-critical, or forced-Break effects |
-| **COMPLIANCE-FORCE** | Rule causes NPCs to comply without a Manipulation roll                         | Social Domination, Spell-On-Spell Stacking     | Cross with Mass Spell, Path of Influence                               |
-| **MIND-CONTROL**     | Rule controls or rewrites NPC/character behavior                               | Social Domination, Spell-On-Spell Stacking     | Duration + permanence are the key risks                                |
-| **DEATH-BYPASS**     | Rule prevents death, converts death to an advantage, or provides a backup body | Spell-Path Internal Synergies                  | Cross with any self-destruct or martyr strategy                        |
-| **REROLL-ANY**       | Rule allows rerolling any die roll (including dice the character did not roll) | Spell-On-Spell Stacking                        | The most universally powerful mechanism                                |
-| **DARKNESS-GRANT**   | Rule creates or extends magical darkness                                       | Kin+Spell Interactions                         | Cross with Goblin Nocturnal                                            |
-| **TRAVEL-BYPASS**    | Rule negates travel hazards, camp needs, or food/water costs                   | Travel Pressure Bypass                         | Cross with Nature, Forest, Swarm paths                                 |
-| **TRAIN-TIME**       | Rule accelerates or skips time-gated advancement                               | Temporal and Dream Exploits                    | Cross with Dream Palace                                                |
-| **BODY-ALTER**       | Rule transforms the caster into another creature or body                       | Spell-Path Internal Synergies                  | Cross with Primal Strength, Body Swap                                  |
-| **TALENT-GRANT**     | Rule gives another character use of a talent they do not have                  | Party Composition Exploits                     | Cross with any Restructure-verdict talent                              |
-| **INGREDIENT-SKIP**  | Rule allows bypassing ritual ingredient requirements                           | Safe Casting Compression, Epic Magic           | Removes cost gating from expensive rituals                             |
-| **PREPARE-HOLD**     | Rule allows pre-loading spells or effects for later instant discharge          | General Spell Amplifiers                       | Cross with safe casting, Time Stop                                     |
-| **FEAR-IMMUNE**      | Rule grants immunity to or reduction of fear attacks                           | Condition and Tempo Manipulation               | Watch for stack count; three sources covers party                      |
-| **CONDITION-IMMUNE** | Rule grants immunity to a game condition (Broken, bleeding, stunned, etc.)     | Condition and Tempo Manipulation               | Cross with Berserker, rampage mechanics                                |
+**If you are creating a new rule:**
+
+1. Start at Step 1 (Design Identity Check)
+2. Work through all seven steps in order
+3. Exit with a verdict: Safe, Flag, Cap, Restructure, or Reject
+
+**If you are auditing an existing rule or proposal:**
+
+1. Start at Step 3 (Mechanism Tagging)
+2. Work through Steps 3-7
+3. Exit with a structured verdict and fix recommendations
+
+**If you are doing a quick screen (under 5 minutes):**
+
+1. Write the one-sentence mechanism summary (Step 2)
+2. Tag it (Step 3)
+3. Check red flags (Step 6)
+4. If no tags fire and no red flags hit, the rule is likely Safe
 
 ---
 
-## Danger Zone Quick-Reference Index
+## Step 1 — Design Identity Check
 
-Use this when a tag fires. Each Danger Zone lists the existing catalog entries most likely to be affected by new content that shares the mechanism.
+Before writing any mechanic, answer these three questions.
+If any answer is "no," stop and redesign.
 
-### WP Economy Loops
+### Does this rule preserve the pressure economy?
 
-**Existing Restructure/Cap entries:** Half-Elf Psychic Power + Any WP-Hungry Path, Psychic Power + Blood Channeling, Blood Channeling + Time Stop, Mountains' Blessing (Stone Song), Absorb Magical Residue + ambient magic.
+Forbidden Lands works because ambition costs something.
+Every gain should require a risk, a resource, a time cost,
+or a tradeoff that closes off another option.
 
-**What to watch for in new content:**
+**Pressure channels the game depends on:**
 
-- Any "gain WP when X" where X is a common in-play event (taking damage, hitting an enemy, entering a zone).
-- Any "multiply WP effect" regardless of mechanism.
-- Any temporary WP that does not expire at end of round.
-- WP costs that refund on success — these feel fair but function as net-zero costs.
+| Pressure Channel | What It Does | What Breaks It |
+| --- | --- | --- |
+| Resource attrition | Forces rationing, foraging, trade | Unlimited supply, infinite crafting |
+| Injury fear | Makes violence a real decision | Cheap healing, death bypass, armor stacking |
+| Action scarcity | Forces turn-by-turn choices | Free actions, extra slow actions, Commander spam |
+| WP scarcity | Makes talents and spells cost something | WP refund loops, passive WP generation |
+| Time pressure | Makes Quarter Days matter | Travel bypass, instant recovery, dream training |
+| Mishap risk | Makes magic dangerous | Safe casting at zero dice, mishap negation |
+| Social resistance | Makes NPCs autonomous | Auto-compliance, mind control without resistance |
+| Darkness and weather | Makes the wilderness hostile | Environmental immunity, permanent light, Firewalker |
 
-**New content auto-escalation triggers:**
+**Rule:** If the new mechanic removes a pressure channel
+entirely (not temporarily), it must be redesigned
+or gated behind extreme cost.
 
-- The new rule grants more than 1 WP per round as a passive effect.
-- The new rule interacts with Psychic Power (any Half-Elf automatically amplifies it).
-- The new rule allows WP above Empathy to persist between scenes.
+### Does this rule require a meaningful decision?
 
----
+Count the decisions needed to use the rule in play:
 
-### Action Compression Stacking
+- **0 decisions** = automatic, passive, always-on → highest risk
+- **1 decision** = one-time setup at character creation → high risk
+- **2-3 decisions** = build + play setup → moderate risk
+- **4+ decisions** = per-use cost, positioning, timing → low risk
 
-**Existing Cap/Monitor entries:** Blood Channeling + Time Stop, Path of Blade R2 + Enemy R4, Commander Rank 4, Time Stop + Prepared Spells.
+**Rule:** Abilities at 0-1 decisions that activate
+per-round need hard limits (per-QD, WP ceiling,
+target cap, or situational trigger).
 
-**What to watch for:**
+### Does this rule respect the recovery curve?
 
-- "As a fast action instead of slow action" — this doubles action efficiency.
-- "Free action once per round" — free actions are almost always undercosted.
-- "Extra slow action" — any additional slow action doubles available spell output.
-- Action grants that are not WP-gated (i.e., cost nothing to trigger).
+The game assumes:
 
-**New content auto-escalation triggers:**
+- attributes recover slowly (rest, healing, camp)
+- critical injuries linger (days to permanent)
+- WP is earned through desperation, not passive income
+- dead is dead (resurrection is epic-tier and rare)
 
-- The rule grants a free action with no per-round limit.
-- The rule lets a slow-action ability become a fast action unconditionally.
-- The rule grants additional actions during Time Stop (which already grants 1+PL extras).
-
----
-
-### Armor Bypass Chains
-
-**Existing Clean/Monitor/Cap entries:** Blade R1+R3, Killer R3, Arrow R1+R5 (Cap).
-
-**What to watch for:**
-
-- Any "ignore armor" or "target's armor does not apply."
-- Any "reduce target armor by N permanently."
-- Any "this attack always deals at least N damage regardless of armor."
-- Critical injury effects that ignore the normal critical roll prerequisite.
-
-**New content auto-escalation triggers:**
-
-- The new rule stacks armor bypass with an existing bypass (two ignore-armor effects on one attack).
-- The new rule forces a critical injury + an existing attack can already bypass armor.
-- The new rule removes armor from a target permanently (cross-check with Bane, Death Magic R5).
+**Rule:** Any mechanic that accelerates recovery
+must pay a proportional cost. Fast healing needs
+WP + action + risk. Free healing breaks the game.
 
 ---
 
-### Recovery Collapse
+## Step 2 — Mechanism Summary
 
-**Existing Restructure entries:** Living Spell + Healing Trance, Living Spell + Invigorate, Prepare Magic + Healing Arsenal.
+Write one sentence describing what the rule does
+mechanically. Strip all flavor and theme.
 
-**Existing Monitor entries:** Elf Inner Peace + Druid Healing, Healing Trance Rank 4.
+Good:
 
-**What to watch for:**
+- "Grants 1 WP when the character takes Strength damage."
+- "Allows a second melee attack as a fast action."
+- "Reduces the target's armor by 2 per Power Level."
+- "Forces an NPC to obey one command without a roll."
 
-- Any healing effect that triggers without caster action (passive healing).
-- Any healing effect with no once-per-QD limit.
-- Any critical injury removal that requires no ingredients or ritual.
-- Any "fully restore attributes" effect that is repeatable within the same scene.
+Bad:
 
-**New content auto-escalation triggers:**
+- "The warrior channels ancestral fury."
+  (What does it do mechanically?)
+- "The spell creates a protective ward."
+  (What dice, what duration, what cost?)
 
-- The new rule heals on trigger (entering a zone, completing an action, per round) with no caster cost.
-- The new rule stacks with Living Spell (zone-wide application + persistence).
-- The new rule removes a critical injury without a ritual or Quarter Day cost.
-- The new rule restores both attributes and WP simultaneously.
+**Rule:** If you cannot summarize the mechanic
+in one sentence, it is doing too much.
+Split it into two abilities or simplify.
 
 ---
+
+## Step 3 — Mechanism Tagging
+
+Match the summary against this table.
+Assign every tag that applies. A rule can have multiple tags.
+
+### Mechanism Tag Table
+
+| Tag | Applies When | Primary Danger Zone |
+| --- | --- | --- |
+| **WP-GRANT** | Gives WP to characters | WP Economy, Kin+Spell |
+| **WP-REFUND** | Returns WP already spent | WP Economy |
+| **WP-MULTIPLY** | Multiplies effect of WP spent | WP Economy, Superbuilds |
+| **ACTION-GRANT** | Gives an extra action | Action Compression |
+| **ACTION-FREE** | Makes something cost no action | Action Compression |
+| **ARMOR-IGNORE** | Attacks bypass or reduce armor | Armor Bypass |
+| **ARMOR-REDUCE** | Temporarily or permanently lowers AR | Armor Bypass |
+| **ARMOR-STACK** | Adds armor from a new source | Defense Stacking |
+| **CRITICAL-FORCE** | Guarantees critical injury | Armor Bypass |
+| **HEAL-ATTRIB** | Restores attribute points | Recovery Collapse |
+| **HEAL-CRITICAL** | Removes critical injuries | Recovery Collapse |
+| **HEAL-PERSIST** | Heals over time without caster action | Recovery Collapse |
+| **DODGE-BONUS** | Adds dice or free uses to Dodge | Defense Stacking |
+| **DAMAGE-REDUCE** | Reduces incoming damage by N | Defense Stacking |
+| **INVULN** | Immunity to a damage type or attack | Defense Stacking |
+| **MISHAP-REDUCE** | Reduces or removes mishap dice | Safe Casting |
+| **RANK-REDUCE** | Lowers effective spell rank | Safe Casting |
+| **DURATION-EXTEND** | Extends effect duration | Temporal, Spell Amplifiers |
+| **PERSIST-ZONE** | Creates a persistent area effect | Spell Amplifiers |
+| **TARGET-MULTI** | Affects multiple targets | Party Exploits, Social |
+| **COMPLIANCE-FORCE** | NPC obeys without Manipulation roll | Social Domination |
+| **MIND-CONTROL** | Controls or rewrites NPC behavior | Social Domination |
+| **DEATH-BYPASS** | Prevents death or provides backup body | Death Bypass |
+| **REROLL-ANY** | Rerolls any die roll | Spell Stacking |
+| **DARKNESS-GRANT** | Creates or extends magical darkness | Kin+Spell |
+| **TRAVEL-BYPASS** | Negates travel hazards or costs | Travel Pressure |
+| **TRAIN-TIME** | Skips time-gated advancement | Temporal Exploits |
+| **BODY-ALTER** | Transforms into another creature | Spell-Path Internal |
+| **TALENT-GRANT** | Gives another character a talent | Party Exploits |
+| **BIND-ELIGIBLE** | Can be bound to an item via Bind Magic | Bind Magic |
+| **INITIATIVE-MOD** | Modifies initiative order or actions | Initiative Exploitation |
+| **STEALTH-LOOP** | Maintains stealth after attacking | Assassination Loops |
+| **MOUNT-ACTION** | Grants mount independent actions | Mounted Combat |
+| **FEAR-IMMUNE** | Grants fear immunity or reduction | Condition Manipulation |
+| **CONDITION-IMMUNE** | Grants immunity to a game condition | Condition Manipulation |
+| **ECONOMY-BYPASS** | Creates wealth or goods without cost | Crafting and Economy |
+| **GRAPPLE-ENHANCE** | Improves grapple attack or effects | Grapple Exploitation |
+
+**Rule:** If zero tags apply, the rule is probably safe.
+Proceed to Step 6 (Red Flags) as a final check.
+If 3+ tags apply, the rule is high-risk —
+proceed directly to full five-test analysis (Step 7).
+
+---
+
+## Step 4 — Danger Zone Cross-Reference
+
+For each tag that fired, check these specific danger zones.
+Each zone lists what the catalog has already proven dangerous.
+
+### WP Economy
+
+**Known Restructure verdicts:**
+
+- Psychic Power multiplies all WP (universal amplifier)
+- Blood Channeling generates WP that feeds itself
+- Safe-cast Blood Tap converts Strength to PL at zero risk
+
+**Escalation triggers for new content:**
+
+- Grants >1 WP/round passively
+- Interacts with Psychic Power (Half-Elf auto-amplifies)
+- Allows WP above Empathy to persist between scenes
+- Refunds WP on a condition the character already achieves
+
+### Action Compression
+
+**Known Cap verdicts:**
+
+- Lightning Fast R5 + Commander = party acts before
+  enemies exist
+- Time Stop + prepared spells = unlimited alpha strike
+
+**Escalation triggers:**
+
+- Grants free action with no per-round limit
+- Converts slow action to fast unconditionally
+- Grants extra actions inside Time Stop
+- Grants ally actions without WP cost
+
+### Armor Bypass
+
+**Known Cap verdicts:**
+
+- Arrow R5 forced critical + Arrow R1 armor ignore
+- Bane R5 strips all defenses + bypass talent = zero AR
+
+**Escalation triggers:**
+
+- Stacks armor bypass with an existing bypass source
+- Forces critical + existing attack already ignores armor
+- Removes armor permanently (not per-attack)
 
 ### Defense Stacking
 
-**Existing Cap/Monitor entries:** Rat's Reflexes + Hard to Catch (Cap), Halfling Hard to Catch + Path of Fate, Swarm Form.
+**Known Restructure verdicts:**
 
-**What to watch for:**
+- Elemental Ward damage halving + Stoneskin + worn armor
+  = triple reduction gate
+- Stoneskin + Bark Skin + chain = AR 15+
 
-- "Dodge as a free action" — cross-check with Rat's Reflexes immediately.
-- "Add [attribute] as automatic successes to Dodge" — cross-check with Hard to Catch.
-- "Reduce incoming Strength damage by N" — cross with Elemental Shield, Path of Fate R2.
-- "Take maximum 1 damage per attack" — Swarm Form territory.
-- "Cannot be targeted by ranged attacks" — removes an entire damage channel.
+**Escalation triggers:**
 
-**New content auto-escalation triggers:**
+- Adds armor from a spell source (stacking question)
+- Makes dodge unlimited AND adds artifact die
+- Removes ranged attacks as a damage channel
+- Grants damage-type immunity at low rank or cost
 
-- The new rule adds another unlimited dodge per round (already have Rat's Reflexes at R5).
-- The new rule stacks WP-as-successes with a dodge (Hard to Catch already does this).
-- The new rule makes the character immune to one damage type (cross with Swarm Form immunity + elemental double-damage).
+### Safe Casting
 
----
+**Known Restructure verdicts:**
 
-### Safe Casting Compression
+- Grimoire + high rank = zero dice = no mishap
+- Stabilize + Grimoire + path rank = extends zero-dice
+  threshold to dangerous spells
 
-**Existing Restructure entries:** Grimoire + Safe Casting + High Talent Rank, Half-Elf Sorcerer Superbuild, Grimoire + Prepare Magic.
+**Escalation triggers:**
 
-**What to watch for:**
+- Reduces spell rank by any amount (stacks with Grimoire)
+- Reduces mishap severity instead of count
+- Allows casting without rolling for any spell
+- Creates a second Grimoire-equivalent item or ability
 
-- Any rule that reduces effective spell rank for any purpose.
-- Any rule that reduces the dice rolled before checking for mishaps.
-- Any rule that redirects or negates mishap consequences.
-- Any item that functions like a second grimoire (stacking -1 rank).
+### Recovery Collapse
 
-**New content auto-escalation triggers:**
+**Known Restructure verdicts:**
 
-- The new rule reduces spell rank by any amount — it stacks with grimoire.
-- The new rule reduces mishap severity (mild mishap instead of severe) — this is equivalent to negating risk.
-- The new rule allows casting without rolling at all, even for minor spells.
-- The new rule allows reducing dice to zero — this is the core break point.
+- Living Spell + Healing Trance = zone heals without
+  caster action
+- Prepare Magic + healing = fast-action hospital
 
----
+**Escalation triggers:**
+
+- Healing triggers without caster action (passive zone)
+- Healing has no per-QD limit
+- Critical injury removal without ritual or ingredients
+- Restores both attributes AND WP simultaneously
+
+### Bind Magic
+
+**Known Cap verdicts:**
+
+- Bind Arsenal: 5-6 daily buffs from items = superhero
+- Bind Firewalker: 1 WP/day = permanent fire immunity
+- Bind Attribute Buffs: 4 WP = +4 to all attributes daily
+
+**Escalation triggers:**
+
+- New buff spell is bindable at PL 1 for low WP cost
+- Bound effect grants immunity to a damage type
+- Bound effect stacks with cast version of same spell
+- No stated limit on simultaneous bound items
+
+### Initiative Exploitation
+
+**Known Cap verdicts:**
+
+- Lightning Fast R5 + Commander R3 = party blitz
+- Surprise + Commander = 2-3 actions before victims act
+
+**Escalation triggers:**
+
+- Grants bonus actions on winning initiative
+- Grants ally-affecting abilities during bonus turn
+- Stacks with surprise rules (+3 dice to all initiative)
+
+### Assassination and Stealth
+
+**Known Restructure verdicts:**
+
+- Stalker R5 + Backstabber R3 + Killer R3 =
+  hidden, auto-Break, armor-ignore, repeat
+
+**Escalation triggers:**
+
+- Maintains stealth after attacking without a new roll
+- Combines armor bypass with stealth-attack bonus
+- Has no per-round limit on stealth attacks
 
 ### Social Domination
 
-**Existing Monitor entries:** Path of Influence + Face + Reputation, Mass Spell + Serenity, Geas + Serenity + Influence (Cap), Serenity + Path of Influence.
+**Known Cap verdicts:**
 
-**What to watch for:**
+- Words R4 prevents INSIGHT = no social counterplay
+- God Spell + Mass Serenity = 25-person mind control
 
-- Any "target does X without a Manipulation roll" or "no resistance roll."
-- Any "+N dice to Manipulation" that is passive, always-on.
-- Any "affect multiple targets" with a social or domination spell.
-- Permanent or indefinite NPC behavior modification.
+**Escalation triggers:**
 
-**New content auto-escalation triggers:**
+- Removes Manipulation roll entirely
+- Extends forced-compliance duration
+- Adds to Manipulation unconditionally
+- Works on monsters or demons (existing rules restrict)
 
-- The new rule removes the Manipulation roll entirely (Serenity already does this — a second source is a redundancy exploit).
-- The new rule extends Serenity or Geas duration.
-- The new rule adds dice to Manipulation unconditionally (cross with Influence R1 +2 dice + Face R4 D8 + Reputation bonus — it is already near auto-success).
-- The new rule allows social control against monsters or demons (existing rules restrict this for good reason).
+### Mounted Combat
 
----
+**Known Clarify verdicts:**
 
-### General Spell Amplifiers
+- Horseback R4 + Melee Charge R4: do both triggers stack?
+- Heavy Cavalry R5 + mount attributes: text ambiguity
 
-**Existing Restructure entries:** Living Spell + Healing Trance, Living Spell + Invigorate, Grimoire + Prepare Magic.
+**Escalation triggers:**
 
-**What to watch for:**
+- Grants mount independent attacks with no WP cost
+- Allows rider to act while mount also acts
+- Uses mount attributes to pay rider ability costs
 
-- Any ability that converts a targeted spell into an area or zone effect.
-- Any ability that extends a non-persistent spell into a persistent (days or weeks) effect.
-- Any ability that reduces a ritual to a standard action.
-- Any ability that allows holding pre-cast spells for instant discharge.
+### God Spell Amplification
 
-**New content auto-escalation triggers:**
+**Known Restructure verdicts:**
 
-- The rule applies to any non-ritual spell (Living Spell equivalent).
-- The rule reduces casting time by more than one step (ritual → standard action, rather than ritual → fast action with a cost).
-- The rule allows stacking multiple pre-cast spells (Prepare Magic already holds up to PL — a second source doubles the arsenal).
+- God Spell + Living Spell = year-long stronghold buff
+- God Spell + Restore Life = mass resurrection
 
----
+**Escalation triggers:**
 
-### Kin + Spell Interactions
+- New spell becomes campaign-breaking at 3x PL
+- New spell affects settlement at 5x targets
+- Interacts with Living Spell for persistent God-level zone
 
-**Existing Restructure entries:** Psychic Power + Blood Channeling, Psychic Power + Serenity.
+### Condition and Death Immunity
 
-**Existing Cap entries:** Goblin Nocturnal + Darkness.
+**Known verdicts:**
 
-**What to watch for:**
+- Lucky R5 + Physician R5 = cannot die (Monitor)
+- Pain Resistant R5 + Unbreakable = double Broken
+  recovery (Clarify)
 
-- New spells that multiply, amplify, or double-down on existing kin talent effects.
-- New kin abilities that scale with spell Power Level (anything that reads "gain N per Power Level" is a Psychic Power proxy).
-- New kin abilities that interact with darkness, hiding, or magical conditions that map to existing kin-specific bonuses.
-- New spells that create conditions (darkness, intoxication, fear, specific terrain) that specific kin are already hard-coded to benefit from.
+**Escalation triggers:**
 
-**New content auto-escalation triggers:**
-
-- The new rule scales with Power Level and a Half-Elf can amplify Power Level via Psychic Power.
-- The new spell creates a named condition an existing kin has a hardcoded bonus for.
-- The new kin ability grants WP or multiplies WP — immediate cross-check with Psychic Power.
+- Prevents death without once-per-session limit
+- Converts death into power without permanent cost
+- Stacks with existing condition immunity
+- Grants multiple types of immunity from one source
 
 ---
 
-### Temporal and Dream Exploits
+## Step 5 — Overlap Questions
 
-**Existing Cap/Monitor/Clarify entries:** Time Stop + Prepared Spells (Cap), Dream Palace + Training (Clarify), Sandman + Dream Palace (Cap), Future Dream (Monitor).
+For each matched Danger Zone, answer three questions:
 
-**What to watch for:**
+### Question A — Does it make an existing danger cheaper?
 
-- Any rule that "freezes time," "grants extra turns," or "takes no time in the fiction."
-- Any dream or sleep state where in-dream activities produce real-world advancement.
-- Any time-skip mechanic that bypasses the normal Quarter Day cost of activities.
-- Any "undo" mechanic on actions or rolls.
+Lower WP cost, fewer decisions, shorter setup,
+no longer requires specific kin or profession.
 
-**New content auto-escalation triggers:**
+**Example:** A new talent that grants a free dodge
+per round makes Rat's Reflexes cheaper to replicate.
 
-- The new rule grants slow actions (cross with Time Stop which already grants 1+PL).
-- The new rule allows in-dream skill or talent advancement with no XP requirement.
-- The new rule rewinds a failed action to before it was attempted (harder version of Fate Weaving).
+### Question B — Does it increase existing danger output?
 
----
+Higher Power Level, more targets, longer duration,
+additional damage, wider area.
 
-### Death Bypass and Resurrection
+**Example:** A new spell that triples buff duration
+makes Hold Magic + Invigorate much stronger.
 
-**Existing Restructure entries:** Eternal Life + Clone.
+### Question C — Does it remove an existing brake?
 
-**What to watch for:**
+Eliminates a cooldown, bypasses a per-QD limit,
+removes a monster immunity clause, negates a
+concentration requirement.
 
-- Any "prevents death" effect without a clear once-per-campaign or once-per-session limit.
-- Any "restore to life" effect that does not cost a significant permanent resource.
-- Any backup-body or identity-transfer mechanic.
-- Any effect that triggers on death and makes the character more powerful.
+**Example:** A new item that maintains concentration
+for free removes Hold Magic's action lock.
 
-**New content auto-escalation triggers:**
+**Decision rule:**
 
-- The new rule provides a death-prevention effect that can be recast between deaths (renewable insurance).
-- The new rule converts death into power (lich form, berserker frenzy, etc.) without a corresponding permanent cost.
-- The new rule allows consciousness transfer — stacks with Clone to provide multiple backup identities.
-
----
-
-## The New-Rule Verdict Matrix
-
-After running the intake protocol, determine which of these five situations applies.
-
-| Situation                                                                                                           | Verdict                | Action                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------- | ---------------------- | --------------------------------------------------------------------------------------------------------- |
-| No tags fire. No new patterns detected.                                                                             | **Safe**               | Add to manuscript. No changes needed.                                                                     |
-| Tags fire, but overlap questions all say no (cheaper/higher/brake-removed).                                         | **Flag for record**    | Add to catalog as a Monitor entry. Rule is fine as written. Keep this cross-reference for future reviews. |
-| One overlap question is yes. Existing Danger Zone is Monitor or Clean.                                              | **Cap**                | Add a frequency limit, WP ceiling, or explicit exception clause to the new rule. Then re-run intake.      |
-| One overlap question is yes. Existing Danger Zone verdict is Cap or Restructure.                                    | **Restructure**        | The new rule duplicates or amplifies a known problem. Redesign the mechanism before adding.               |
-| Multiple overlap questions are yes, or a new pattern creates a zero-decision, zero-risk, per-round activation loop. | **Reject or Separate** | Send back to design with specific diagnosis. The rule should not enter the manuscript in current form.    |
+- 0 yes answers → proceed to Step 6
+- 1 yes answer, matched zone is Monitor/Clean → **Cap**
+- 1 yes answer, matched zone is Cap/Restructure → **Restructure**
+- 2+ yes answers → **Reject or Separate**
 
 ---
 
-## Pattern Library
+## Step 6 — Red Flag Keyword Scan
 
-These are the five abstract patterns that underlie all unhealthy synergies in the catalog. Every Restructure verdict in the catalog traces back to one or more of these.
+Scan the rule text for these phrases.
+Each hit warrants a second look.
+Two or more in the same rule → full five-test analysis.
 
-### Pattern A: The Free Refund
-
-**Template:** _Spend X to get X back under condition Y, where Y is something the character already achieves routinely._
-
-**Examples:** Fencer WP recovery per kill (kill is expected each round), Blood Channeling granting WP usable next round, Adrenaline Rush R5 WP on Break.
-
-**Recognition cue:** The cost and the trigger are in the same activity. Fighting grants WP from fighting.
-
-**Safe version:** Condition Y should be rare (not guaranteed each turn) or the refund should be partial (recover half, not all).
-
----
-
-### Pattern B: The Amplifier With No Target Scope
-
-**Template:** _Multiply the effect of all WP spent, regardless of which talent or spell receives it._
-
-**Examples:** Psychic Power (multiplies every WP spend), Fate Weaving (rerolls any die).
-
-**Recognition cue:** The word "any" in the rule description. Universal amplifiers have no natural scope limit.
-
-**Safe version:** Amplifiers should name a specific talent, spell school, or action type. "Multiply WP spent on Blood Magic" is healthy. "Multiply WP spent on anything" is not.
-
----
-
-### Pattern C: The Risk Bypass
-
-**Template:** _Remove the cost or danger that makes the underlying ability appropriately costed._
-
-**Examples:** Safe casting at zero dice removes the entire mishap structure. Eternal Life removes death as a consequence. Rat's Reflexes removes the "one dodge per round as an action" constraint.
-
-**Recognition cue:** The rule says "without X" where X is the cost the original ability was balanced around.
-
-**Safe version:** Risk reduction should be partial, not total. "Reduce mishap dice by 1" is different from "cast without rolling."
+| Keyword | Why It Is Dangerous |
+| --- | --- |
+| "free action" | Additive; two = extra fast action |
+| "any die roll" | Universal reroll removes randomness |
+| "without rolling" | Removes failure-chance cost |
+| "no mishap" | Safe casting already exists; stacks |
+| "gain WP" | Cross with Psychic Power and WP loops |
+| "ignore armor" | Cross with existing armor bypass |
+| "per Power Level" | Psychic Power amplifies per-PL scaling |
+| "zone" / "area" | Cross with Living Spell, Stabilize |
+| "persistent" / "lasts until" | Duration without decay needs cost |
+| "does not count as an action" | Equivalent to granting a free action |
+| "regardless of armor" | Stacks with existing bypass effects |
+| "automatically succeed" | Check what auto-succeed already covers |
+| "cannot be targeted" | Full channel immunity needs scrutiny |
+| "may be recast" | Renewable insurance, dominance |
+| "while unconscious" / "after death" | Death-bypass territory |
+| "transfer to another body" | Clone + Body Swap territory |
+| "stack with" | Designer was aware of an interaction |
+| "in addition to" | Additive, not replacing |
+| "all allies" / "all enemies" | Party-wide effects multiply value |
+| "bound to item" / "bind" | Cross with Bind Magic Arsenal |
+| "daily" / "at dawn" | Renewable with no limiting cost |
+| "hidden" / "remain hidden" | Cross with stealth assassination loops |
+| "immunity" | Full immunity to any channel is suspect |
+| "PL 1" + "immunity" | Low-rank immunity safe-casts trivially |
 
 ---
 
-### Pattern D: The Persistent Zone That Self-Maintains
+## Step 7 — Full Five-Test Analysis
 
-**Template:** _Convert a one-time effect into a permanent zone that activates without caster action._
+Apply these five tests to any rule that reached
+this step. If a rule fails even one test, it
+needs correction.
 
-**Examples:** Living Spell + Healing Trance (zone heals everyone without caster), Stabilize Magic Zone + Cloud of Death (persistent kill corridor).
+### Test 1 — Decision Cost
 
-**Recognition cue:** After setup, the zone operates without the caster spending actions, WP, or attention.
+How many meaningful decisions does the player
+make to activate this rule in play?
 
-**Safe version:** Zone effects should require ongoing caster maintenance (concentration, WP per round, or re-casting). If the caster is free to do other things, the zone is too independent.
+| Decisions | Risk Level | Guidance |
+| --- | --- | --- |
+| 0 (passive) | Critical | Must have hard per-QD limit |
+| 1 (build choice) | High | Must have per-use WP cost |
+| 2-3 (build + play) | Moderate | Standard design |
+| 4+ (per-use setup) | Low | Sweet spot |
+
+### Test 2 — Risk Exposure
+
+What does the player risk when they use this rule?
+
+- **Healthy:** WP drain, pushing banes, mishap, position
+- **Unhealthy:** Nothing. The cost refunds or the risk
+  is zero.
+
+Trace the WP flow. If WP spent comes back through
+the same loop, the risk is cosmetic.
+
+### Test 3 — Opportunity Cost
+
+What does the player give up to get this rule?
+
+- **Healthy:** Other strong talents, spell paths, gear
+- **Unhealthy:** Nothing important. Build still covers
+  other niches.
+
+Check whether the combo leaves adjacent specializations
+intact. If it does everything, it costs too little.
+
+### Test 4 — Repeatability
+
+How often can the rule fire?
+
+| Frequency | Expected Power |
+| --- | --- |
+| Once/campaign | Can be very strong |
+| Once/session | Can be strong |
+| Once/encounter | Should be moderate |
+| Once/QD | Should be moderate |
+| Per round | Must be weak per use |
+| Per attack | Must be minimal per use |
+
+Multiply per-use power by expected frequency.
+A moderate effect every round is stronger than
+a devastating effect once per session.
+
+### Test 5 — Campaign Erosion
+
+Does the rule hollow out a pressure channel?
+
+Name the channel (from Step 1's table).
+If the rule deletes the channel rather than
+temporarily relieving it, the campaign flattens.
+
+**Scoring:**
+
+| Result | Verdict |
+| --- | --- |
+| Passes all 5 | **Safe** |
+| Fails 1, minor | **Flag for record** |
+| Fails 1, moderate | **Cap** — add limit |
+| Fails 2 | **Restructure** — redesign |
+| Fails 3+ | **Reject** — do not add |
 
 ---
 
-### Pattern E: The One-Decision Everything Build
+## Step 7B — Fix Templates
 
-**Template:** _A single character creation choice (kin, profession, or one talent) activates a mechanism that multiplies every subsequent advancement decision._
+When a rule needs correction, use these proven fixes
+drawn from the catalog's 151 worked examples.
 
-**Examples:** Half-Elf Psychic Power (amplifies every talent and spell simultaneously), Goblin Nocturnal + Darkness (one spell creates permanent darkvision advantage for entire build).
+### Fix: Add per-round limit
 
-**Recognition cue:** The rule description reads "all," "any," "every time," or "whenever" without a specific named scope.
+> "This ability may be used once per round."
 
-**Safe version:** Kin and profession multipliers should apply to one defined category — not to all talents, not to all spells, not to all skills at once.
+Fixes: unlimited dodge, unlimited free action,
+unlimited bash, unlimited Commander grants.
+
+### Fix: Add per-QD limit
+
+> "This ability may be used once per Quarter Day."
+
+Fixes: renewable immunity, daily attribute buffs,
+repeated stealth assassination loops.
+
+### Fix: Cap WP per activation
+
+> "You may spend a maximum of [N] WP on this ability."
+
+Fixes: Psychic Power multiplication, Heavy Cavalry
+unlimited success elimination, Commander mass grants.
+
+### Fix: Make cost non-refundable
+
+> "WP spent on this ability cannot be recovered
+> by any means until the next Quarter Day."
+
+Fixes: WP refund loops, circular WP generation,
+fight-grants-WP-that-fights patterns.
+
+### Fix: Require re-rolling after trigger
+
+> "After using this ability, you must succeed on
+> a [SKILL] roll to maintain the effect."
+
+Fixes: permanent stealth after attack, indefinite
+zone without concentration, fire-and-forget buffs.
+
+### Fix: Exclude from stacking
+
+> "This effect replaces (does not stack with)
+> other sources of [armor/damage reduction/bonus]."
+
+Fixes: triple armor gate, double artifact die on dodge,
+multiple bound buffs, spell armor + worn armor.
+
+### Fix: Restrict Bind Magic eligibility
+
+> "This spell cannot be bound to an item using
+> Bind Magic."
+
+Fixes: bound immunity at PL 1, bound attribute
+buffs, bound daily healing, Bind Arsenal.
+
+### Fix: Restrict God Spell eligibility
+
+> "God Spell cannot be applied to this spell."
+
+Fixes: year-long Living Spell zones, mass
+resurrection, 25-target mind control.
+
+### Fix: Lock to specific scope
+
+> "This bonus applies only to [named spell school /
+> named talent path / named action type]."
+
+Fixes: universal amplifiers (Psychic Power, Fate
+Weaving), "any die roll" rerolls.
+
+### Fix: Escalating cost for repeat use
+
+> "Each additional use in the same [round/encounter/QD]
+> costs [N] more WP than the previous."
+
+Fixes: Arrow R5 multi-critical, fast-action stab spam,
+Commander grant stacking.
+
+### Fix: Require awareness or resistance roll
+
+> "The target may resist with [INSIGHT/ENDURANCE].
+> On success, the effect fails."
+
+Fixes: WP theft via Transfer, auto-compliance
+(Serenity), forced emotional states.
 
 ---
 
-## Red Flag Keywords
+## The Five Patterns Behind All Unhealthy Synergies
 
-Scan any new rule text for these phrases. Each one warrants at least a second look. Two or more in the same rule warrants full five-test analysis.
+Every Restructure verdict in 151 catalog entries
+traces back to one or more of these abstract patterns.
+If your new rule matches any pattern, redesign.
 
-| Keyword or Phrase                      | Why It Is A Red Flag                                                                                   |
-| -------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| "free action"                          | Free actions are additive. Two free actions per round is an extra fast action.                         |
-| "any die roll"                         | Universal reroll authority removes randomness as a balance tool.                                       |
-| "without rolling"                      | Removes the random-failure mechanic the ability was costed around.                                     |
-| "no mishap"                            | Safe casting already exists. A second source stacks.                                                   |
-| "gain WP"                              | Cross-check every WP-GRANT against Psychic Power and existing WP loops.                                |
-| "ignore armor"                         | Cross-check with existing armor-bypass stacks immediately.                                             |
-| "per Power Level"                      | Any per-PL scaling interacts with Psychic Power's PL amplification.                                    |
-| "zone" or "area"                       | Cross-check with Living Spell and Stabilize Magic Zone.                                                |
-| "persistent" or "lasts until"          | Duration without decay requires maintenance cost.                                                      |
-| "does not count as an action"          | Equivalent to granting a free action.                                                                  |
-| "regardless of target's armor"         | Stacks with existing bypass effects.                                                                   |
-| "automatically succeed"                | Check what existing auto-succeed rules cover the same territory.                                       |
-| "without offering anything"            | Social compliance without roll → Serenity territory.                                                   |
-| "cannot be targeted"                   | Full immunity to an attack channel requires scrutiny.                                                  |
-| "as a power word" / "as a fast action" | Check Prepare Magic interaction.                                                                       |
-| "may be cast as a ritual"              | If it wasn't already a ritual, check why the time cost is being removed.                               |
-| "once per campaign"                    | Once-per-campaign is a legitimate safety valve. Once-per-session is borderline.                        |
-| "may be recast"                        | Renewable backup bodies, renewable insurance, renewable dominance.                                     |
-| "while unconscious" or "after death"   | Death-bypass territory.                                                                                |
-| "transfer to another body"             | Clone + Body Swap territory.                                                                           |
-| "stack with"                           | Any rule that explicitly states it stacks needs extra scrutiny — designer was aware of an interaction. |
-| "in addition to"                       | Additive instead of replacing. Usually fine, but check against high-output existing abilities.         |
+### Pattern A — The Free Refund
+
+_Spend X to get X back under condition Y,
+where Y is something the character already achieves._
+
+- **Recognition:** Cost and trigger are the same activity.
+  Fighting grants WP from fighting.
+- **Fix:** Condition Y must be rare (not guaranteed/round)
+  or refund must be partial (half, not full).
+
+### Pattern B — The Unscoped Amplifier
+
+_Multiply the effect of all WP (or all rolls,
+or all spells) regardless of source._
+
+- **Recognition:** The word "any" in the description.
+- **Fix:** Named scope. "Blood Magic only" not "any spell."
+
+### Pattern C — The Risk Bypass
+
+_Remove the cost that makes the ability fair._
+
+- **Recognition:** "Without X" where X is the original
+  balancing cost (mishap, WP, action, time, injury).
+- **Fix:** Reduce risk partially. "Reduce mishap by 1"
+  not "cast without rolling."
+
+### Pattern D — The Self-Maintaining Zone
+
+_One-time cast creates a permanent effect
+that operates without caster action._
+
+- **Recognition:** After setup, the zone runs itself.
+- **Fix:** Require ongoing maintenance (WP/round,
+  concentration, or re-casting).
+
+### Pattern E — The One-Decision Build
+
+_One creation choice multiplies every subsequent
+advancement decision._
+
+- **Recognition:** "All," "any," "every time," "whenever"
+  without a named scope.
+- **Fix:** Multiplier applies to one named category,
+  not all abilities.
+
+### Pattern F — The Invisible Attacker
+
+_Attack from a state where the target cannot retaliate,
+with no cost to maintain that state._
+
+- **Recognition:** Hidden + attack + stay hidden,
+  or out-of-range + attack + enemy cannot close.
+- **Fix:** Require a new stealth or positioning roll
+  after each attack. Or give targets a reactive
+  detection attempt.
+
+### Pattern G — The Stacking Gate
+
+_Multiple sequential damage reduction layers where
+each layer has its own separate roll._
+
+- **Recognition:** Spell armor + physical armor + Ward +
+  immunity. Three gates that each must be beaten.
+- **Fix:** Spell armor replaces (not stacks with)
+  physical armor. Choose the higher value.
+
+---
+
+## The Verdict Matrix
+
+After completing the tree, deliver one of these verdicts.
+
+| Situation | Verdict | Action |
+| --- | --- | --- |
+| No tags. No red flags. Passes 5 tests. | **Safe** | Add to manuscript |
+| Tags fire but no overlap. Passes tests. | **Flag** | Add to manuscript. Log in catalog as Monitor |
+| 1 overlap yes. Matched zone is Monitor. | **Cap** | Apply one Fix Template. Re-run Step 5 |
+| 1 overlap yes. Matched zone is Cap+. | **Restructure** | Redesign mechanism. Re-run from Step 2 |
+| 2+ overlaps or fails 3+ tests. | **Reject** | Send back with specific diagnosis |
+
+---
+
+## Verdict Report Format
+
+When delivering a verdict, use this structure:
+
+```text
+## Rule: [Name]
+
+**Summary:** [One-sentence mechanism from Step 2]
+
+**Tags:** [List of mechanism tags from Step 3]
+
+**Danger Zones Hit:** [List from Step 4, or "None"]
+
+**Overlap Questions:**
+- Cheaper: [Yes/No — explain]
+- Stronger: [Yes/No — explain]
+- Brake removed: [Yes/No — explain]
+
+**Red Flags:** [Keywords found, or "None"]
+
+**Five-Test Results:**
+- Decision Cost: [0-5 decisions] — [Pass/Fail]
+- Risk Exposure: [description] — [Pass/Fail]
+- Opportunity Cost: [description] — [Pass/Fail]
+- Repeatability: [frequency] — [Pass/Fail]
+- Campaign Erosion: [channel affected] — [Pass/Fail]
+
+**Pattern Match:** [A-G or "None"]
+
+**Verdict:** [Safe / Flag / Cap / Restructure / Reject]
+
+**Recommended Fix:** [Specific fix template, or "None needed"]
+
+**Catalog Entry:** [If Cap+ — write the catalog entry
+for exploitation-surface-catalog.md]
+```
+
+---
+
+## Quick-Reference Design Guardrails
+
+These are the hard limits derived from 151 catalog
+entries. Any new rule that violates a guardrail must
+justify the violation or be redesigned.
+
+### WP Guardrails
+
+- No passive ability should grant >1 WP per round
+- No ability should multiply WP spent universally
+- WP refund loops (spend X, trigger returns X) are
+  banned unless the trigger is rare and not combat-linked
+- Half-Elf Psychic Power interacts with everything —
+  always check new WP costs against it
+
+### Action Economy Guardrails
+
+- Free actions: maximum 1 per round per character
+  unless explicitly gated by WP
+- Slow-to-fast conversion: requires WP cost per use
+- Commander grants: 1 grant per ally per round,
+  regardless of number of Commanders
+- Lightning Fast bonus actions: cannot include
+  Commander or other ally-affecting grants
+
+### Defense Guardrails
+
+- Spell armor replaces worn armor (higher value wins);
+  does not stack
+- Maximum 2 simultaneous bound buffs per character
+- Damage-type immunity requires PL 3+ and is
+  not safe-castable at zero dice
+- Unlimited dodges per round: must still consume
+  action economy (not truly free)
+
+### Safe Casting Guardrails
+
+- Zero-dice casting should carry a flat 1-in-6
+  mishap chance (recommendation)
+- Grimoire reduces rank for mishap only, not for
+  safe-cast threshold (recommendation)
+- No second Grimoire-equivalent should exist
+- Stabilize + Grimoire should not stack
+  (only the better reduction applies)
+
+### Assassination Guardrails
+
+- Stealth after attack: always requires a new
+  opposed STEALTH vs SCOUTING roll
+- Armor bypass + stealth bonus: choose one per attack,
+  not both
+- Auto-Break + armor ignore + repeat from stealth:
+  if all three combine, Restructure
+
+### Social Guardrails
+
+- Forced compliance (no Manipulation roll): target
+  always gets a resistance roll (INSIGHT/ENDURANCE)
+- Permanent behavior modification: target gets daily
+  resistance roll with cumulative +1
+- Party-wide social buffs: cap at +2 total from
+  all talent sources combined
+
+### Bind Magic Guardrails
+
+- Maximum 2 active bound buffs per character
+- Immunity effects cannot be bound below PL 3
+- Bound effect does not stack with cast version
+  (take the higher)
+- Attribute buff bound items cap at PL 1 (+1 only)
+
+### Mounted Combat Guardrails
+
+- Mount acts independently only if rider spends WP
+- Rider cannot use Commander grants while mount
+  also acts independently in the same round
+- Mount attribute substitution applies only to the path
+  that grants it (not all abilities)
+
+### Ranged DPS Guardrails
+
+- Forced critical (Arrow R5): maximum once per round
+  regardless of number of shots
+- Multi-shot rounds: maximum 3 ranged attacks per round
+  from any combination of talents and spells
+- Extended range shots: target always gets +2 to defense
 
 ---
 
 ## Cross-Rule Interaction Log
 
-Use this section to record combinations found during intake reviews of new content. This becomes an ongoing record of all interactions flagged, cleared, or corrected over time. Add entries as new content is screened.
+Record combinations found during intake reviews.
+This becomes the running audit trail.
 
 Format per entry:
 
 ```text
 **[New Rule Name]** × **[Existing Rule Name]**
 Tag(s): [mechanism tags that fired]
-Overlap: [which overlap question said yes, or "none — cross-reference only"]
-Verdict: [Safe / Cap / Restructure / Reject]
-Resolution: [rule text change made, or "none needed"]
+Overlap: [which question said yes, or "none"]
+Verdict: [Safe / Flag / Cap / Restructure / Reject]
+Resolution: [rule text change, or "none needed"]
 ```
 
 ### Recorded Entries
 
-Empty — populate as new content is screened.
+_Populate as new content is screened._

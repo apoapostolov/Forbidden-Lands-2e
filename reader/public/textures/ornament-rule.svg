@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 12" preserveAspectRatio="none">
+  <!-- Ornamental divider rule: gold centre line with decorative diamond nodes -->
+  <defs>
+    <linearGradient id="gold-fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#b8960c" stop-opacity="0"/>
+      <stop offset="15%"  stop-color="#b8960c" stop-opacity="1"/>
+      <stop offset="85%"  stop-color="#b8960c" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#b8960c" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <!-- Centre line -->
+  <line x1="0" y1="6" x2="400" y2="6" stroke="url(#gold-fade)" stroke-width="0.8"/>
+  <!-- Diamond node left-centre -->
+  <polygon points="188,6 192,3 196,6 192,9" fill="#b8960c" opacity="0.85"/>
+  <!-- Diamond node right-centre -->
+  <polygon points="204,6 208,3 212,6 208,9" fill="#b8960c" opacity="0.85"/>
+  <!-- Centre diamond -->
+  <polygon points="196,6 200,2 204,6 200,10" fill="#b8960c"/>
+  <!-- Smaller outer flanking dots -->
+  <circle cx="170" cy="6" r="1.5" fill="#b8960c" opacity="0.6"/>
+  <circle cx="230" cy="6" r="1.5" fill="#b8960c" opacity="0.6"/>
+  <circle cx="155" cy="6" r="1"   fill="#b8960c" opacity="0.4"/>
+  <circle cx="245" cy="6" r="1"   fill="#b8960c" opacity="0.4"/>
+</svg>

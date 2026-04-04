@@ -1,0 +1,41 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  margin-top: 6px;
+  flex-shrink: 0;
+}
+
+.rule {
+  height: 1px;
+  background: linear-gradient(
+    to right,
+    transparent,
+    rgba(184, 150, 12, 0.3),
+    var(--gold-rule)
+  );
+}
+
+.left .rule {
+  background: linear-gradient(
+    to right,
+    var(--gold-rule),
+    rgba(184, 150, 12, 0.3),
+    transparent
+  );
+}
+
+.number {
+  font-size: var(--text-xs);
+  letter-spacing: var(--tracking-caps);
+  color: var(--text-heading);
+  opacity: 0.7;
+}
+
+.left .number {
+  text-align: left;
+}
+
+.right .number {
+  text-align: right;
+}

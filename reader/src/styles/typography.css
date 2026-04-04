@@ -1,0 +1,125 @@
+/* ============================================================
+   Forbidden Lands Reader — Typography System
+   8 semantic text roles mapped to PDF font analysis
+   ============================================================ */
+
+/* ── 1. Chapter Title (h1) ─────────────────────────────────── */
+.chapter-title {
+  font-family: var(--font-chapter);
+  font-size: var(--text-3xl);
+  font-weight: 700;
+  line-height: var(--leading-tight);
+  letter-spacing: var(--tracking-caps);
+  color: var(--text-heading);
+  text-transform: uppercase;
+  margin: 0 0 0.4em;
+}
+
+/* ── 2. Section Heading (h2) ───────────────────────────────── */
+.section-heading {
+  font-family: var(--font-heading);
+  font-size: var(--text-xl);
+  font-weight: 400;
+  line-height: var(--leading-tight);
+  letter-spacing: var(--tracking-wide);
+  color: var(--text-heading);
+  text-transform: uppercase;
+  margin: 1.2em 0 0.3em;
+}
+
+/* ── 3. Subsection (h3 — Cinzel small caps) ────────────────── */
+.subsection {
+  font-family: var(--font-subheading);
+  font-size: var(--text-lg);
+  font-weight: 600;
+  line-height: var(--leading-tight);
+  letter-spacing: var(--tracking-caps);
+  color: var(--text-heading);
+  text-transform: uppercase;
+  margin: 0.9em 0 0.2em;
+}
+
+/* ── 4. Bold Label (h4 / strong calls) ─────────────────────── */
+.bold-label {
+  font-family: var(--font-label);
+  font-size: var(--text-md);
+  font-weight: 700;
+  line-height: var(--leading-tight);
+  letter-spacing: 0;
+  color: var(--text-primary);
+  margin: 0.6em 0 0.1em;
+}
+
+/* ── 5. Body Label (medium weight, Libre Franklin) ─────────── */
+.body-label {
+  font-family: var(--font-label);
+  font-size: var(--text-sm);
+  font-weight: 500;
+  line-height: var(--leading-body);
+  color: var(--text-primary);
+}
+
+/* ── 6. Body Text (primary reading text) ───────────────────── */
+.body-text {
+  font-family: var(--font-body);
+  font-size: var(--text-base);
+  font-weight: 400;
+  line-height: var(--leading-body);
+  color: var(--text-primary);
+  margin: 0 0 0.6em;
+  hyphens: auto;
+}
+
+/* ── 7. Flavour Text / Blockquote (italic, IM Fell) ───────── */
+.flavour-text {
+  font-family: var(--font-body);
+  font-size: var(--text-sm);
+  font-style: italic;
+  line-height: var(--leading-loose);
+  color: var(--text-accent);
+  padding: 0.4em 1.2em;
+  border-left: 2px solid var(--gold-rule);
+  margin: 0.8em 0;
+}
+
+/* ── 8. Small Caps Decorative (Cormorant SC) ───────────────── */
+.small-caps-deco {
+  font-family: var(--font-small-caps);
+  font-size: var(--text-md);
+  font-weight: 600;
+  letter-spacing: var(--tracking-caps);
+  color: var(--text-heading);
+  font-variant: small-caps;
+}
+
+/* ── Drop Cap (chapter opening paragraphs) ─────────────────── */
+.chapter-opener::first-letter {
+  font-family: var(--font-chapter);
+  font-size: 4.5em;
+  font-weight: 400;
+  color: var(--text-accent);
+  float: left;
+  line-height: 0.75;
+  margin: 0.05em 0.06em 0 0;
+}
+
+/* ── Gold Rule ──────────────────────────────────────────────── */
+.gold-rule {
+  border: none;
+  border-top: 1px solid var(--gold-rule);
+  margin: 0.8em 0;
+  opacity: 0.8;
+}
+
+hr.gold-rule {
+  width: 100%;
+}
+
+/* ── Ornamental border rule (wider, centered) ──────────────── */
+.ornament-rule {
+  border: none;
+  height: 8px;
+  background: url('/textures/ornament-rule.svg') center / contain no-repeat;
+  margin: 1.2em auto;
+  opacity: 0.7;
+}

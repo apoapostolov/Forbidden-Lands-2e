@@ -1,0 +1,42 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  margin-bottom: 8px;
+  flex-shrink: 0;
+}
+
+.title {
+  font-size: var(--text-xs);
+  letter-spacing: var(--tracking-caps);
+  text-transform: uppercase;
+  color: var(--text-heading);
+  opacity: 0.75;
+}
+
+.left .title {
+  text-align: left;
+}
+
+.right .title {
+  text-align: right;
+}
+
+.rule {
+  height: 1px;
+  background: linear-gradient(
+    to right,
+    var(--gold-rule),
+    rgba(184, 150, 12, 0.3),
+    transparent
+  );
+}
+
+.right .rule {
+  background: linear-gradient(
+    to left,
+    var(--gold-rule),
+    rgba(184, 150, 12, 0.3),
+    transparent
+  );
+}

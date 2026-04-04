@@ -1,0 +1,41 @@
+.block {
+  /* Inherits .body-text or .flavour-text from global typography */
+  break-inside: avoid;
+}
+
+/* Inline elements inside text blocks */
+.block :global(strong) {
+  font-family: var(--font-label);
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.block :global(em) {
+  font-style: italic;
+  color: var(--text-accent);
+}
+
+.block :global(ul),
+.block :global(ol) {
+  padding-left: 1.4em;
+  margin-bottom: 0.5em;
+}
+
+.block :global(li) {
+  margin-bottom: 0.2em;
+}
+
+.block :global(a) {
+  color: var(--text-accent);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+.block :global(code) {
+  font-family: 'Courier New', monospace;
+  font-size: 0.9em;
+  background: rgba(92, 61, 30, 0.1);
+  padding: 0 2px;
+  border-radius: 2px;
+}
