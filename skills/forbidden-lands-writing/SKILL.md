@@ -13,8 +13,11 @@ Read these files before drafting:
 
 - `AGENTS.md`
 - `WRITING_GUIDE.md`
+- `skills/forbidden-lands-writing/references/manuscript-style-analysis.md`
 
 When working in chapter or proposal folders, also read the local `AGENTS.md` there if present.
+
+If the task is specific to a chapter, pull 2-5 nearby exemplars from that chapter before drafting.
 
 ## What This Skill Is For
 
@@ -27,6 +30,20 @@ Use it when you need to:
 - review text for tone drift, modern diction, or weak paragraph structure
 
 Do not use it for purely mechanical analysis with no prose drafting. Use the design or balance skill instead.
+
+## Bundled References
+
+Read these on demand:
+
+- `references/manuscript-style-analysis.md`
+  - deep voice analysis
+  - diction and syntax habits
+  - paragraph architecture
+  - explanatory text policy
+  - example design
+  - drift warnings
+
+Use the reference file when the task involves substantial drafting, voice correction, or prose review. The main `WRITING_GUIDE.md` remains the short operational guide. The bundled reference is the deeper analysis pack.
 
 ## Writing Workflow
 

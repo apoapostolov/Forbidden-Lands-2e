@@ -1,0 +1,22 @@
+# TODO: RPG Balance Analysis Skill Research Plan
+
+- [ ] Define the full analytical framework for RPG balance, separating mathematical balance, perceived balance, table balance, campaign balance, and social-psychological balance.
+- [ ] Build a probability baseline for common RPG mechanics relevant to this repo: dice pools, threshold systems, exploding gains from rerolls, resource attrition, and risk-reward loops.
+- [ ] Create a method for comparing apparent value versus actual value so the skill can detect trap options, false promises, and misleading reward structures.
+- [ ] Build a player-expectation model covering fantasy payoff, competence payoff, fairness perception, readability of risk, and tolerance for harsh consequences.
+- [ ] Build a GM-expectation model covering adjudication burden, pacing burden, tone maintenance, encounter recalibration pressure, and the need for hidden mercy.
+- [ ] Analyze spotlight economics: how often a rule gives one player extra actions, extra procedure time, extra narrative control, or disproportionate problem-solving authority.
+- [ ] Analyze action-economy balance as a general RPG principle, including how extra actions, free reactions, out-of-turn effects, and setup actions reshape the value of all other choices.
+- [ ] Build a taxonomy of dominant strategies, degenerate loops, kingmaking incentives, false choices, and anti-party incentives that commonly emerge in roleplaying games.
+- [ ] Develop a method for testing whether a harsh rule is genuinely balanced or merely punitive, by measuring its decision quality, transparency, and emotional legitimacy.
+- [ ] Study recovery systems and attrition loops across RPGs, focusing on how healing, rest, replenishment, and condition removal change campaign pressure and player behavior.
+- [ ] Build a framework for evaluating lethality, survivability, and retirement pressure, including the difference between dramatic danger, arbitrary death, and unplayable survival states.
+- [ ] Develop a balance method for narrative authority rules, including how social mechanics, fear, mental effects, and GM-facing interpretation rules can create hidden imbalance.
+- [ ] Create a framework for synergy analysis that measures not only raw power combinations but also perception distortion, complexity inflation, and role compression.
+- [ ] Build a campaign-scale balance model that tests repeated use over many sessions, looking for scaling exploits, pacing collapse, and niche erosion over time.
+- [ ] Create scenario tests for rules under different table cultures: cautious players, reckless players, optimization-minded groups, narrative-first groups, and GMs who run hard versus soft.
+- [ ] Build a catalog of psychological failure modes: resentment, regret, helplessness, learned caution, learned recklessness, spotlight envy, and mistrust of the text.
+- [ ] Build a correction toolkit that distinguishes between numeric fixes, wording fixes, trigger fixes, cost fixes, scope fixes, and structural redesigns.
+- [ ] Apply the framework specifically to Forbidden Lands 2E, testing injuries, Willpower loops, travel pressure, talents, magic, gear scarcity, and stronghold progression through all balance lenses.
+- [ ] Produce worked case studies showing how a single rule can be mathematically fair yet psychologically poor, or mathematically harsh yet experientially satisfying, with concrete manuscript examples.
+- [ ] Write the final deep balance manual for the skill, consolidating probability tools, expectation models, social analysis, campaign models, case studies, and correction strategies into a research-grade reference.

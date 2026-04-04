@@ -14,6 +14,7 @@ Start with:
 - `AGENTS.md`
 - relevant files in `corebook/`
 - relevant files in `proposals/`
+- `skills/forbidden-lands-design/references/system-design-map.md`
 
 If the task includes manuscript drafting, also use:
 
@@ -28,6 +29,45 @@ Use it when you need to:
 - audit a proposal for deep integration
 - trace how one rule touches talents, spells, gear, conditions, travel, injuries, or recovery
 - convert vague ideas into mechanically coherent game text
+
+## Bundled References
+
+Read these on demand:
+
+- `references/system-design-map.md`
+  - the game's major loops
+  - pressure economy
+  - chapter-by-chapter subsystem map
+  - integration questions
+  - good-design tests for this repo
+- `references/engine-math-and-rule-taxonomy.md`
+  - system map by inputs, outputs, costs, and risks
+  - rule-type catalog
+  - base probability model
+  - pushed-roll mathematics
+  - mixed-pool findings
+- `references/willpower-synergy-spells-and-recovery-analysis.md`
+  - Willpower generation and spend structure
+  - subsystem interaction matrix
+  - talent-path pressure categories
+  - spell volatility tables
+  - recovery and attrition analysis
+- `references/injuries-journeys-gear-and-expansion-space.md`
+  - injury severity and retirement logic
+  - journeys as a pressure engine
+  - gear system taxonomy
+  - underdeveloped design spaces
+  - low-bloat expansion guidance
+- `references/realism-audit-synergy-and-change-scenarios.md`
+  - realism versus playability tests
+  - formal proposal-audit workflow
+  - synergy-risk categories
+  - mathematical calibration scenarios
+- `references/design-manual.md`
+  - unified research-grade design manual
+  - all major loops, pressure channels, math, audit rules, and expansion principles in one source
+
+Use the reference file whenever the task is more complex than a local rules clarification.
 
 ## Design Method
 

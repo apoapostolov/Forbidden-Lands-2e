@@ -7,6 +7,19 @@ description: Use when evaluating game balance in tabletop roleplaying games, esp
 
 Use this skill when the question is not just "is it strong?" but "how will this feel, how will players use it, and what burden will it put on the GM and campaign?"
 
+## Bundled References
+
+Read these on demand:
+
+- `references/rpg-balance-framework.md`
+  - analytical balance lenses
+  - psychological expectation models
+  - GM burden analysis
+  - campaign-scale balance questions
+  - common illusion-of-balance traps
+
+Use the reference file whenever the request asks for serious balance judgment rather than a quick opinion.
+
 ## What To Analyze
 
 Always evaluate balance across four separate lenses:
