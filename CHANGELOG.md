@@ -20,11 +20,3 @@ All notable changes to this public repository will be documented in this file.
 ### Notes
 
 - The copied manuscript remains a draft workbench and should not be treated as a compliance-reviewed public supplement
-
-## [Unreleased]
-
-### Added
-
-### Changed
-
-### Notes
