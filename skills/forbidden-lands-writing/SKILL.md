@@ -42,6 +42,31 @@ Read these on demand:
   - explanatory text policy
   - example design
   - drift warnings
+- `references/corpus-map-and-registers.md`
+  - corpus priority
+  - register map
+  - chapter voice map
+  - retrieval guidance
+- `references/paragraph-sentence-and-structure-metrics.md`
+  - measured chapter averages
+  - paragraph and sentence norms
+  - archetype library
+  - structural compression rules
+- `references/diction-voice-and-anti-style.md`
+  - lexical tendencies
+  - material word fields
+  - verb preferences
+  - anti-style warnings
+- `references/example-strategy-and-calibration-kit.md`
+  - example-usage rules
+  - scenario-based writing tests
+  - revision rubric
+- `references/rewrite-calibration-examples.md`
+  - repo-grounded before-and-after rewrites
+  - diction and structure change notes
+  - promotion guidance from proposal prose to manuscript prose
+- `references/writing-manual.md`
+  - unified research-grade writing manual
 
 Use the reference file when the task involves substantial drafting, voice correction, or prose review. The main `WRITING_GUIDE.md` remains the short operational guide. The bundled reference is the deeper analysis pack.
 

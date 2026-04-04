@@ -17,6 +17,30 @@ Read these on demand:
   - GM burden analysis
   - campaign-scale balance questions
   - common illusion-of-balance traps
+- `references/balance-lenses-and-probability-baselines.md`
+  - full balance lenses
+  - probability and cost baselines
+  - apparent versus actual value
+- `references/expectation-models-and-table-cultures.md`
+  - player and GM expectation models
+  - spotlight economics
+  - table-culture scenarios
+- `references/action-economy-synergy-and-campaign-scale.md`
+  - action-economy balance
+  - game-theory taxonomy
+  - synergy framework
+  - campaign-scale tests
+- `references/harshness-lethality-authority-and-failure-modes.md`
+  - harshness tests
+  - recovery and lethality analysis
+  - narrative authority balance
+  - psychological failure modes
+  - correction toolkit
+- `references/forbidden-lands-balance-casebook.md`
+  - Forbidden Lands-specific case studies
+  - manuscript-grounded balance lessons
+- `references/balance-manual.md`
+  - unified research-grade balance manual
 
 Use the reference file whenever the request asks for serious balance judgment rather than a quick opinion.
 

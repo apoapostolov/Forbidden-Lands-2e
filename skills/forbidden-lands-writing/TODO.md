@@ -1,22 +1,22 @@
 # TODO: Forbidden Lands Writing Skill Depth Plan
 
-- [ ] Build a representative corpus map from `corebook/01-front-matter.md` through `corebook/10-gear.md`, tagging passages by function: fiction, flavor exposition, rules explanation, item description, example, and mixed flavor-rule bridge.
-- [ ] Measure paragraph lengths by section type and record the dominant paragraph shapes used in each chapter so the skill can recommend structure by task instead of by intuition.
-- [ ] Measure sentence length distribution across the corpus, separating short declaratives, medium explanatory sentences, and long descriptive sentences, then map where each size is preferred.
-- [ ] Analyze sentence openings and endings to identify recurring cadence patterns, especially where the manuscript prefers to end on hard nouns, material detail, or bodily consequences.
-- [ ] Build a diction frequency table of favored semantic fields such as weather, injury, craft, terrain, blood, hunger, burden, and travel, and contrast them with banned modern or generic fantasy vocabulary.
-- [ ] Build a verb inventory from the manuscript and rank it by frequency and function so the skill can prefer active, physical verbs over abstract explanatory phrasing.
-- [ ] Analyze modifier density by register to determine how sparse or dense adjectives and adverbs are in successful manuscript prose.
-- [ ] Analyze punctuation habits chapter by chapter, including em dashes, semicolons, colons, parentheses, and list framing, so the skill can mimic actual manuscript restraint rather than generic prose habits.
-- [ ] Trace how the manuscript transitions from atmospheric setup into rule explanation without tonal rupture, and extract reusable transition patterns.
-- [ ] Build a paragraph archetype library with validated templates drawn from actual passages: statement-consequence, definition-procedure-exception, description-distinction, and condition-pressure-response.
-- [ ] Study example usage across the corebook to determine when examples are required, when they are omitted, and how long they are allowed to run before they become teaching clutter.
-- [ ] Analyze how the manuscript explains interacting small rules inside a concrete play scene, especially in combat, journeys, and critical injuries, and extract best-practice example structures.
-- [ ] Create a contrastive anti-style pack showing failure modes: AI-generic fantasy, modern design-blog tone, clinical phrasing, proposal leakage, and overdecorated epic prose.
-- [ ] Build a chapter-specific voice map so the skill knows the difference between the language of combat, travel, gear, stronghold, and magic rather than treating the whole manuscript as stylistically flat.
-- [ ] Study how headings, callouts, bold labels, and lists are used to compress rules explanation, and define when prose should yield to structure.
-- [ ] Produce a revision rubric that scores a draft on voice fidelity, clarity, paragraph fit, terminology integrity, example necessity, and table usability.
-- [ ] Create paired rewrite datasets with before-and-after revisions from repo material to show how weak prose is transformed into manuscript-native prose.
-- [ ] Add a scenario-based writing test set: rewrite a gear rule, explain a healing procedure, draft a chapter intro, and revise a proposal paragraph, then document what a good answer must do.
-- [ ] Build a retrieval index for the most useful exemplar passages by job, so the skill can load only relevant evidence instead of the whole guide.
-- [ ] Write the final deep reference manual for the skill, consolidating corpus findings, structural rules, stylistic statistics, positive exemplars, and anti-patterns into a reusable research document.
+- [x] Build a representative corpus map from `corebook/01-front-matter.md` through `corebook/10-gear.md`, tagging passages by function: fiction, flavor exposition, rules explanation, item description, example, and mixed flavor-rule bridge.
+- [x] Measure paragraph lengths by section type and record the dominant paragraph shapes used in each chapter so the skill can recommend structure by task instead of by intuition.
+- [x] Measure sentence length distribution across the corpus, separating short declaratives, medium explanatory sentences, and long descriptive sentences, then map where each size is preferred.
+- [x] Analyze sentence openings and endings to identify recurring cadence patterns, especially where the manuscript prefers to end on hard nouns, material detail, or bodily consequences.
+- [x] Build a diction frequency table of favored semantic fields such as weather, injury, craft, terrain, blood, hunger, burden, and travel, and contrast them with banned modern or generic fantasy vocabulary.
+- [x] Build a verb inventory from the manuscript and rank it by frequency and function so the skill can prefer active, physical verbs over abstract explanatory phrasing.
+- [x] Analyze modifier density by register to determine how sparse or dense adjectives and adverbs are in successful manuscript prose.
+- [x] Analyze punctuation habits chapter by chapter, including em dashes, semicolons, colons, parentheses, and list framing, so the skill can mimic actual manuscript restraint rather than generic prose habits.
+- [x] Trace how the manuscript transitions from atmospheric setup into rule explanation without tonal rupture, and extract reusable transition patterns.
+- [x] Build a paragraph archetype library with validated templates drawn from actual passages: statement-consequence, definition-procedure-exception, description-distinction, and condition-pressure-response.
+- [x] Study example usage across the corebook to determine when examples are required, when they are omitted, and how long they are allowed to run before they become teaching clutter.
+- [x] Analyze how the manuscript explains interacting small rules inside a concrete play scene, especially in combat, journeys, and critical injuries, and extract best-practice example structures.
+- [x] Create a contrastive anti-style pack showing failure modes: AI-generic fantasy, modern design-blog tone, clinical phrasing, proposal leakage, and overdecorated epic prose.
+- [x] Build a chapter-specific voice map so the skill knows the difference between the language of combat, travel, gear, stronghold, and magic rather than treating the whole manuscript as stylistically flat.
+- [x] Study how headings, callouts, bold labels, and lists are used to compress rules explanation, and define when prose should yield to structure.
+- [x] Produce a revision rubric that scores a draft on voice fidelity, clarity, paragraph fit, terminology integrity, example necessity, and table usability.
+- [x] Create paired rewrite datasets with before-and-after revisions from repo material to show how weak prose is transformed into manuscript-native prose.
+- [x] Add a scenario-based writing test set: rewrite a gear rule, explain a healing procedure, draft a chapter intro, and revise a proposal paragraph, then document what a good answer must do.
+- [x] Build a retrieval index for the most useful exemplar passages by job, so the skill can load only relevant evidence instead of the whole guide.
+- [x] Write the final deep reference manual for the skill, consolidating corpus findings, structural rules, stylistic statistics, positive exemplars, and anti-patterns into a reusable research document.
