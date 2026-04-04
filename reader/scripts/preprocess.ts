@@ -12,14 +12,14 @@
 
 import { existsSync, readFileSync, writeFileSync } from 'fs'
 import type {
-    Heading,
-    Image,
-    List,
-    ListItem,
-    Root as MdastRoot,
-    Node,
-    Table,
-    TableRow,
+  Heading,
+  Image,
+  List,
+  ListItem,
+  Root as MdastRoot,
+  Node,
+  Table,
+  TableRow,
 } from 'mdast'
 import { dirname, join, resolve } from 'path'
 import rehypeSanitize from 'rehype-sanitize'
@@ -62,19 +62,29 @@ const CHAPTER_FILES = [
 // paragraphs into clipped/non-visible area at page boundaries.
 const COLUMN_HEIGHT_PT = 528
 // 2 columns per page — used implicitly by the paginator (2 × COLUMN_HEIGHT_PT)
-const WORDS_PER_COL_LINE = 9 // calibrated from rendered column width (~8.4 actual, 9 for safety)
+const WORDS_PER_COL_LINE = 8 // balanced safety: allow normal left→right flow
 const LINE_HEIGHT_PT = 11.6 // 8pt × 1.45
 const PARA_MARGIN_PT = 3 // minimal — CSS segments have near-zero margin
-const LIST_WORDS_PER_COL_LINE = 8 // lists slightly narrower due bullet indent
+const LIST_WORDS_PER_COL_LINE = 7 // balanced safety for indented bullet lists
 const LIST_ITEM_EXTRA_PT = 2 // account for li spacing + marker rendering
 const LIST_BLOCK_EXTRA_PT = 6 // account for ul/ol margins and wrap variance
-const RENDER_SAFETY_PT = 24 // reserve space so browser column flow doesn't clip tails
+const RENDER_SAFETY_PT = 36 // keep strict reserve without over-fragmenting pages
 const MIN_SPLIT_LINES = 1
 const MIN_SPLIT_TAIL_LINES_SAME_PAGE = 1
 const MIN_SPLIT_TAIL_LINES_NEXT_PAGE = 1
 const SPLIT_FIT_SAFETY_PT = 0
+const MAX_SPLIT_HEAD_REMAINDER_PT = LINE_HEIGHT_PT * 0.35
+const ENABLE_ROUTINE_PARAGRAPH_SPLIT = false
 const MIN_SPLIT_HEIGHT_PT = LINE_HEIGHT_PT * MIN_SPLIT_LINES
 const MIN_PARAGRAPH_ROOM_AFTER_HEADING_PT = MIN_SPLIT_HEIGHT_PT + PARA_MARGIN_PT
+const ENABLE_HEADING_FOLLOW_SPLIT = true
+const MIN_H4_FOLLOW_PREVIEW_PT =
+  MIN_PARAGRAPH_ROOM_AFTER_HEADING_PT +
+  segmentGuardPt({ type: 'paragraph', html: '', heightPt: 0 })
+
+function estimateListBlockHeight(itemHeights: number[]): number {
+  return itemHeights.reduce((s, h) => s + h, 0) + LIST_BLOCK_EXTRA_PT
+}
 
 // ── Types ─────────────────────────────────────────────────────────────────────
 interface BaseSegment {
@@ -126,6 +136,23 @@ type Segment =
   | TableSegment
   | HRSegment
   | ImageRefSegment
+
+function segmentGuardPt(seg: Segment): number {
+  switch (seg.type) {
+    case 'heading':
+      return 4
+    case 'blockquote':
+      return 4
+    case 'table':
+      return 8
+    case 'image-ref':
+      return 6
+    case 'paragraph':
+      return (seg as ParagraphSegment).isListSegment ? 8 : 5
+    default:
+      return 4
+  }
+}
 
 interface BookPage {
   pageNumber: number
@@ -245,11 +272,6 @@ function isAwkwardSplitEnding(word: string): boolean {
     'an',
     'the',
   ]).has(cleaned)
-}
-
-function startsWithLowercaseWord(text: string): boolean {
-  const first = text.trim().split(/\s+/)[0] ?? ''
-  return /^[a-z]/.test(first)
 }
 
 /** Convert a single MDAST node to an HTML string via unified pipeline */
@@ -403,7 +425,7 @@ function parseChapter(
           textHeightPt(toText(item), LIST_WORDS_PER_COL_LINE) + LIST_ITEM_EXTRA_PT,
         )
       }
-      const totalHeight = itemHeights.reduce((s, h) => s + h, 0) + LIST_BLOCK_EXTRA_PT
+      const totalHeight = estimateListBlockHeight(itemHeights)
       segments.push({
         type: 'paragraph',
         html,
@@ -441,6 +463,7 @@ function parseChapter(
     })
   }
 
+  // Keep source paragraph boundaries exactly as-authored in corebook/*.md.
   return { title, segments }
 }
 
@@ -497,6 +520,8 @@ function paginate(chapters: { title: string; index: number; segments: Segment[] 
       1,
       Math.ceil((seg.heightPt - PARA_MARGIN_PT) / LINE_HEIGHT_PT),
     )
+    // Do not split short paragraphs; one-line tails/heads look broken.
+    if (totalLines <= 3) return null
     const adjustedAvailablePt = Math.max(0, availablePt - SPLIT_FIT_SAFETY_PT)
     const availableLines = Math.floor(
       Math.max(0, adjustedAvailablePt - PARA_MARGIN_PT) / LINE_HEIGHT_PT,
@@ -510,12 +535,12 @@ function paginate(chapters: { title: string; index: number; segments: Segment[] 
     let splitIdx = Math.floor((words.length * availableLines) / totalLines)
     if (splitIdx < 3 || words.length - splitIdx < 3) return null
 
-    // Prefer breaking at a sentence boundary close to the estimated split.
-    // This keeps continuation flow natural and avoids obvious mid-sentence
-    // chops where possible.  Search backward first, then forward.
-    const boundaryRange = 18
+    // Prefer a nearby sentence boundary if it still leaves a meaningful tail.
+    // This keeps breaks less jarring while preserving page flow.
+    const boundaryLookBack = 14
+    const boundaryLookAhead = 8
     let boundaryIdx = -1
-    for (let i = splitIdx - 1; i >= Math.max(2, splitIdx - boundaryRange); i--) {
+    for (let i = splitIdx - 1; i >= Math.max(2, splitIdx - boundaryLookBack); i--) {
       if (isSentenceBoundaryWord(words[i])) {
         boundaryIdx = i + 1
         break
@@ -524,7 +549,7 @@ function paginate(chapters: { title: string; index: number; segments: Segment[] 
     if (boundaryIdx < 0) {
       for (
         let i = splitIdx;
-        i < Math.min(words.length - 3, splitIdx + boundaryRange);
+        i < Math.min(words.length - 3, splitIdx + boundaryLookAhead);
         i++
       ) {
         if (isSentenceBoundaryWord(words[i])) {
@@ -533,8 +558,11 @@ function paginate(chapters: { title: string; index: number; segments: Segment[] 
         }
       }
     }
-    if (boundaryIdx >= 3 && words.length - boundaryIdx >= 3) {
-      splitIdx = boundaryIdx
+    if (boundaryIdx >= 3 && words.length - boundaryIdx >= 8) {
+      const tailWordCount = words.length - boundaryIdx
+      if (tailWordCount <= 16) {
+        splitIdx = boundaryIdx
+      }
     }
 
     // Back off split point until the head truly fits the remaining space.
@@ -544,11 +572,16 @@ function paginate(chapters: { title: string; index: number; segments: Segment[] 
     let tailText = words.slice(splitIdx).join(' ').trim()
     while (splitIdx >= 3) {
       const headHeight = textHeightPt(headText)
+      const headRemainderPt = adjustedAvailablePt - headHeight
       const tailLines = Math.max(
         1,
         Math.ceil((textHeightPt(tailText) - PARA_MARGIN_PT) / LINE_HEIGHT_PT),
       )
-      if (headHeight <= adjustedAvailablePt && tailLines >= minTailLines) {
+      if (
+        headHeight <= adjustedAvailablePt &&
+        tailLines >= minTailLines &&
+        headRemainderPt <= MAX_SPLIT_HEAD_REMAINDER_PT
+      ) {
         const endingWord = words[splitIdx - 1] ?? ''
         if (isAwkwardSplitEnding(endingWord) && splitIdx - 1 >= 3) {
           splitIdx -= 1
@@ -565,15 +598,16 @@ function paginate(chapters: { title: string; index: number; segments: Segment[] 
       tailText = words.slice(splitIdx).join(' ').trim()
     }
     if (!headText || !tailText) return null
+    if (tailText.split(/\s+/).filter(Boolean).length < 6) return null
 
     const head: ParagraphSegment = {
       ...seg,
-      html: escapeHtmlText(headText),
+      html: `<p>${escapeHtmlText(headText)}</p>`,
       heightPt: textHeightPt(headText),
     }
     const tail: ParagraphSegment = {
       ...seg,
-      html: escapeHtmlText(tailText),
+      html: `<p>${escapeHtmlText(tailText)}</p>`,
       heightPt: textHeightPt(tailText),
       isChapterOpener: false,
     }
@@ -582,6 +616,8 @@ function paginate(chapters: { title: string; index: number; segments: Segment[] 
 
   function addSegment(seg: Segment, chTitle: string, chIdx: number, nextSeg?: Segment) {
     const effectiveColumnHeight = Math.max(0, COLUMN_HEIGHT_PT - RENDER_SAFETY_PT)
+    const segGuardPt = segmentGuardPt(seg)
+    const segBudgetPt = seg.heightPt + segGuardPt
 
     // Ensure current page matches the chapter
     if (currentPage.chapterTitle !== chTitle && currentPage.segments.length > 0) {
@@ -638,20 +674,51 @@ function paginate(chapters: { title: string; index: number; segments: Segment[] 
       colNum = 0
     }
 
+    const headingFollowReservationPt =
+      seg.type === 'heading'
+        ? nextSeg?.type === 'paragraph'
+          ? Math.max(
+              MIN_PARAGRAPH_ROOM_AFTER_HEADING_PT,
+              Math.min((nextSeg as ParagraphSegment).heightPt * 0.4, 64),
+            )
+          : MIN_PARAGRAPH_ROOM_AFTER_HEADING_PT
+        : 0
+
+    // Heading + first-paragraph attempt: if near boundary, keep heading only
+    // when we can also keep a meaningful portion of the following paragraph.
+    if (
+      seg.type === 'heading' &&
+      (seg as HeadingSegment).level === 3 &&
+      colNum === 1 &&
+      colFill > 0 &&
+      colFill + segBudgetPt + headingFollowReservationPt > effectiveColumnHeight - 8
+    ) {
+      flush()
+      currentPage = newPage(pageNumber, chTitle, chIdx)
+      colFill = 0
+      colNum = 0
+    }
+
     // Headings: reserve just enough room for one line of body text below.
     // No aggressive reservation — fill space first, fix orphans later.
     const headingNextReservationPt =
-      seg.type === 'heading' ? MIN_PARAGRAPH_ROOM_AFTER_HEADING_PT : 0
+      seg.type === 'heading'
+        ? (seg as HeadingSegment).level === 4
+          ? nextSeg?.type === 'paragraph'
+            ? MIN_H4_FOLLOW_PREVIEW_PT
+            : MIN_PARAGRAPH_ROOM_AFTER_HEADING_PT
+          : headingFollowReservationPt
+        : 0
 
     const headingNeedsNextColumn =
       seg.type === 'heading' &&
-      colFill + seg.heightPt + headingNextReservationPt > effectiveColumnHeight
+      colFill + segBudgetPt + headingNextReservationPt > effectiveColumnHeight
 
     const willOverflow =
-      colFill + seg.heightPt > effectiveColumnHeight || headingNeedsNextColumn
+      colFill + segBudgetPt > effectiveColumnHeight || headingNeedsNextColumn
 
     if (willOverflow) {
-      const availablePt = effectiveColumnHeight - colFill
+      const availablePt = effectiveColumnHeight - colFill - segGuardPt
 
       // Paragraph continuation logic:
       // - left column: allow paragraph to continue into right column if both sides
@@ -665,11 +732,13 @@ function paginate(chapters: { title: string; index: number; segments: Segment[] 
         if (pSeg.isListSegment && pSeg.itemLiHtmls && pSeg.itemHeights) {
           const liHtmls = pSeg.itemLiHtmls
           const heights = pSeg.itemHeights
+          const listGuardPt = segmentGuardPt(pSeg)
           // Count how many top-level items fit in the remaining column space
           let cumHeight = 0
           let splitAt = 0
           for (let k = 0; k < heights.length; k++) {
-            if (colFill + cumHeight + heights[k] > effectiveColumnHeight) break
+            const headWithItemHeight = cumHeight + heights[k] + LIST_BLOCK_EXTRA_PT
+            if (colFill + headWithItemHeight + listGuardPt > effectiveColumnHeight) break
             cumHeight += heights[k]
             splitAt = k + 1
           }
@@ -682,13 +751,13 @@ function paginate(chapters: { title: string; index: number; segments: Segment[] 
               html: headHtml,
               itemLiHtmls: liHtmls.slice(0, splitAt),
               itemHeights: heights.slice(0, splitAt),
-              heightPt: cumHeight + 4,
+              heightPt: estimateListBlockHeight(heights.slice(0, splitAt)),
             }
             currentPage.segments.push(head)
             colFill += head.heightPt
             // Push tail to next column/page
             const tailHtml = `<ul>\n${liHtmls.slice(splitAt).join('\n')}\n</ul>`
-            const tailHeight = heights.slice(splitAt).reduce((s, h) => s + h, 0) + 4
+            const tailHeight = estimateListBlockHeight(heights.slice(splitAt))
             const tail: ParagraphSegment = {
               ...pSeg,
               html: tailHtml,
@@ -708,7 +777,17 @@ function paginate(chapters: { title: string; index: number; segments: Segment[] 
         }
 
         // ── Regular paragraph: text-level word split ──────────────────────────
-        if (!pSeg.isListSegment) {
+        const prevSeg =
+          currentPage.segments.length > 0
+            ? currentPage.segments[currentPage.segments.length - 1]
+            : null
+        const followsHeading = prevSeg?.type === 'heading'
+        const canSplitParagraph =
+          !pSeg.isListSegment &&
+          (ENABLE_ROUTINE_PARAGRAPH_SPLIT ||
+            (ENABLE_HEADING_FOLLOW_SPLIT && followsHeading))
+
+        if (canSplitParagraph) {
           if (colNum === 0) {
             const split = splitParagraphByAvailableHeight(
               pSeg,
@@ -775,8 +854,7 @@ function paginate(chapters: { title: string; index: number; segments: Segment[] 
 
     for (let i = 0; i < ch.segments.length; i++) {
       const seg = ch.segments[i]
-      const nextSeg = i + 1 < ch.segments.length ? ch.segments[i + 1] : undefined
-      addSegment(seg, ch.title, ch.index, nextSeg)
+      addSegment(seg, ch.title, ch.index, ch.segments[i + 1])
     }
 
     // Chapter just ended — where is current page?

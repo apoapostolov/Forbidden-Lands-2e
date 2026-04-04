@@ -188,9 +188,9 @@
 .segmentWrap {
   display: block;
   width: 100%;
-  /* Allow normal prose/list flow to continue across columns when needed.
-     Keeping this as avoid can clip oversized blocks because .columns has
-     fixed height + overflow:hidden. Heading wrappers still guard structure. */
+  /* Allow normal flow across the two visible columns.
+     Forcing avoid-column here can push segments into additional hidden
+     columns outside the main content box when the page is near capacity. */
   break-inside: auto;
   page-break-inside: auto;
 }
