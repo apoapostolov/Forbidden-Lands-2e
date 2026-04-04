@@ -17,10 +17,14 @@ interface PageSpreadProps {
  * (book-accurate decorative banner) for authentic FL book layout.
  */
 export default function PageSpread({ page, side }: PageSpreadProps) {
+  const hasChapterHeading = page.segments.some(
+    (seg) => seg.type === 'heading' && 'level' in seg && seg.level === 1,
+  )
+
   return (
     <PageBackground side={side}>
       {/* PageHeader removed — using PageHeaderBanner for book-accurate layout */}
-      <PageHeaderBanner />
+      <PageHeaderBanner showChapterOverlay={hasChapterHeading} />
       <PageContent segments={page.segments} />
       <PageFooter
         pageNumber={page.pageNumber}

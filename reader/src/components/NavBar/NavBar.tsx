@@ -1,12 +1,15 @@
-import { FormEvent, useRef, useState } from 'react'
+import { FormEvent, useEffect, useRef, useState } from 'react'
 import styles from './NavBar.module.css'
 
 interface NavBarProps {
   currentPage: number
   totalPages: number
   onGoTo: (page: number) => void
+  onGoToInstant: (page: number) => void
   onPrev: () => void
+  onPrevInstant: () => void
   onNext: () => void
+  onNextInstant: () => void
   onTocOpen: () => void
   searchValue: string
   onSearchChange: (value: string) => void
@@ -20,8 +23,11 @@ export default function NavBar({
   currentPage,
   totalPages,
   onGoTo,
+  onGoToInstant,
   onPrev,
+  onPrevInstant,
   onNext,
+  onNextInstant,
   onTocOpen,
   searchValue,
   onSearchChange,
@@ -30,12 +36,92 @@ export default function NavBar({
   const [fs, setFs] = useState(isFullscreen)
   const inputRef = useRef<HTMLInputElement>(null)
   const searchRef = useRef<HTMLInputElement>(null)
+  const holdTimerRef = useRef<number | null>(null)
+  const holdIntervalRef = useRef<number | null>(null)
+  const isHoldingRef = useRef(false)
+  const suppressClickRef = useRef(false)
+  const lastPrevClickAtRef = useRef(0)
+  const lastNextClickAtRef = useRef(0)
+
+  const MULTI_CLICK_WINDOW_MS = 650
+
+  function clearHoldTimers() {
+    if (holdTimerRef.current) {
+      window.clearTimeout(holdTimerRef.current)
+      holdTimerRef.current = null
+    }
+    if (holdIntervalRef.current) {
+      window.clearInterval(holdIntervalRef.current)
+      holdIntervalRef.current = null
+    }
+  }
+
+  function startHold(direction: 'prev' | 'next') {
+    clearHoldTimers()
+    isHoldingRef.current = false
+
+    const step = () => {
+      if (direction === 'prev') onPrevInstant()
+      else onNextInstant()
+    }
+
+    holdTimerRef.current = window.setTimeout(() => {
+      isHoldingRef.current = true
+      suppressClickRef.current = true
+      step()
+      holdIntervalRef.current = window.setInterval(step, 85)
+    }, 180)
+  }
+
+  function stopHold() {
+    if (isHoldingRef.current) {
+      suppressClickRef.current = true
+    }
+    isHoldingRef.current = false
+    clearHoldTimers()
+  }
+
+  function onPrevClick() {
+    if (suppressClickRef.current) {
+      suppressClickRef.current = false
+      return
+    }
+
+    const now = Date.now()
+    const isMultiClick = now - lastPrevClickAtRef.current <= MULTI_CLICK_WINDOW_MS
+    lastPrevClickAtRef.current = now
+
+    if (isMultiClick) {
+      onPrevInstant()
+      return
+    }
+
+    onPrev()
+  }
+
+  function onNextClick() {
+    if (suppressClickRef.current) {
+      suppressClickRef.current = false
+      return
+    }
+
+    const now = Date.now()
+    const isMultiClick = now - lastNextClickAtRef.current <= MULTI_CLICK_WINDOW_MS
+    lastNextClickAtRef.current = now
+
+    if (isMultiClick) {
+      onNextInstant()
+      return
+    }
+
+    onNext()
+  }
 
   function handleJump(e: FormEvent) {
     e.preventDefault()
     const n = parseInt(jumpValue, 10)
     if (!isNaN(n) && n >= 1 && n <= totalPages) {
-      onGoTo(n - 1) // book-data pages are 0-indexed in react-pageflip
+      onGoToInstant(n - 1) // book-data pages are 0-indexed in react-pageflip
       setJumpValue('')
       inputRef.current?.blur()
     }
@@ -48,6 +134,12 @@ export default function NavBar({
       document.exitFullscreen().then(() => setFs(false))
     }
   }
+
+  useEffect(() => {
+    return () => {
+      clearHoldTimers()
+    }
+  }, [])
 
   return (
     <nav className={styles.bar} aria-label="Book navigation">
@@ -62,7 +154,13 @@ export default function NavBar({
 
       <button
         className={styles.btn}
-        onClick={onPrev}
+        onMouseDown={() => startHold('prev')}
+        onMouseUp={stopHold}
+        onMouseLeave={stopHold}
+        onTouchStart={() => startHold('prev')}
+        onTouchEnd={stopHold}
+        onTouchCancel={stopHold}
+        onClick={onPrevClick}
         aria-label="Previous page (←)"
         title="Previous page"
       >
@@ -75,7 +173,7 @@ export default function NavBar({
           className={styles.pageInput}
           value={jumpValue}
           onChange={(e) => setJumpValue(e.target.value)}
-          placeholder={String(currentPage + 1)}
+          placeholder={currentPage < 0 ? 'Cover' : String(currentPage + 1)}
           aria-label="Jump to page"
           inputMode="numeric"
           pattern="[0-9]*"
@@ -85,7 +183,13 @@ export default function NavBar({
 
       <button
         className={styles.btn}
-        onClick={onNext}
+        onMouseDown={() => startHold('next')}
+        onMouseUp={stopHold}
+        onMouseLeave={stopHold}
+        onTouchStart={() => startHold('next')}
+        onTouchEnd={stopHold}
+        onTouchCancel={stopHold}
+        onClick={onNextClick}
         aria-label="Next page (→)"
         title="Next page"
       >

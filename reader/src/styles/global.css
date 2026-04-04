@@ -57,30 +57,26 @@ body {
 /* ── Diamond Bullet Styling (✦ from spell attribute lists) ─── */
 .diamond-list {
   list-style: none;
-  /* A small left indent lifts the list just off the column edge, giving the
-     bullet a place to protrude into without leaving the column entirely. */
+  /* Keep only a gentle indent from the column edge. */
   padding-left: 0;
   margin: 0.5em 0;
-  margin-left: 0.5em;
+  margin-left: 0.2em;
 }
 
 .diamond-bullet {
   margin-bottom: 0.2em;
   display: list-item;
   list-style: none;
-  /* Hanging indent: text starts at 1em, bullet hangs 0.5em back from text.
-     The bullet therefore protrudes half its own visual width to the left of
-     the text start, matching the "half-symbol left" look of the source book. */
-  padding-left: 1em;
-  text-indent: -1.5em;
+  /* Gentle hanging indent: minimal offset and very small marker gap. */
+  padding-left: 0.55em;
+  text-indent: -0.7em;
 }
 
 .diamond-marker {
-  /* Inline-block with explicit width lets text-indent math work precisely.
-     The marker occupies 1em, the gap occupies 0.5em → total indent 1.5em. */
+  /* Tight marker box to avoid oversized marker-to-text distance. */
   display: inline-block;
-  width: 1em;
-  margin-right: 0.5em;
+  width: 0.55em;
+  margin-right: 0.15em;
   color: var(--text-primary);
   font-weight: 400;
   text-align: center;

@@ -57,9 +57,11 @@
 }
 
 .title {
-  font-size: var(--text-md);
+  font-family: var(--font-chapter);
+  font-size: var(--text-xl);
+  line-height: 1;
   color: rgba(245, 237, 224, 0.9);
-  letter-spacing: var(--tracking-caps);
+  letter-spacing: 0.06em;
 }
 
 .closeBtn {
@@ -110,15 +112,15 @@
 
 .entryTitle {
   font-family: var(--font-label);
-  font-size: 13px;
+  font-size: 15px;
   color: rgba(245, 237, 224, 0.8);
   flex: 1;
-  line-height: 1.35;
+  line-height: 1.4;
 }
 
 .entryPage {
-  font-family: var(--font-label);
-  font-size: 11px;
+  font-family: var(--font-heading);
+  font-size: 13px;
   color: var(--accent-gold);
   flex-shrink: 0;
 }
@@ -136,15 +138,16 @@
   padding-left: 18px;
 }
 .l2 .entryTitle {
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .l3 .entryBtn {
   padding-left: 30px;
 }
 .l3 .entryTitle {
-  font-size: 11px;
-  color: rgba(245, 237, 224, 0.6);
+  font-family: var(--font-body);
+  font-size: 13px;
+  color: rgba(245, 237, 224, 0.72);
 }
 
 /* Active chapter highlight */

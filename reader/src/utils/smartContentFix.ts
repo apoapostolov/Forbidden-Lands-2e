@@ -42,24 +42,21 @@ export function smartFixContent(html: string): string {
     // The markdown parser wraps ✦-prefixed items in plain <ul><li>, leaving
     // the ✦ as literal text INSIDE the <li>. We must convert these to
     // diamond-list items BEFORE the CSS ::before rule adds a second ✦.
-    fixed = fixed.replace(
-      /<ul>([\s\S]*?)<\/ul>/g,
-      (_match: string, inner: string) => {
-        if (!inner.includes('✦')) return _match
-        if (!/<li>(?:\s*<[^>]+>\s*)*✦/.test(inner)) return _match
-        // a) ✦ directly after <li>  (most common)
-        let converted = inner.replace(
-          /<li>✦\s*/g,
-          '<li class="diamond-bullet"><span class="diamond-marker">✦</span> ',
-        )
-        // b) ✦ inside first inline wrap tag, e.g. <li><strong>✦ RANK 1:</strong>
-        converted = converted.replace(
-          /<li>(<[^>]+>)\s*✦\s*/g,
-          '<li class="diamond-bullet"><span class="diamond-marker">✦</span> $1',
-        )
-        return `<ul class="diamond-list">${converted}</ul>`
-      },
-    )
+    fixed = fixed.replace(/<ul>([\s\S]*?)<\/ul>/g, (_match: string, inner: string) => {
+      if (!inner.includes('✦')) return _match
+      if (!/<li>(?:\s*<[^>]+>\s*)*✦/.test(inner)) return _match
+      // a) ✦ directly after <li>  (most common)
+      let converted = inner.replace(
+        /<li>✦\s*/g,
+        '<li class="diamond-bullet"><span class="diamond-marker">✦</span> ',
+      )
+      // b) ✦ inside first inline wrap tag, e.g. <li><strong>✦ RANK 1:</strong>
+      converted = converted.replace(
+        /<li>(<[^>]+>)\s*✦\s*/g,
+        '<li class="diamond-bullet"><span class="diamond-marker">✦</span> $1',
+      )
+      return `<ul class="diamond-list">${converted}</ul>`
+    })
 
     // Step 2: Convert any remaining bare ✦-prefixed lines (e.g. lines that
     // were NOT inside a <ul><li> — they appear as plain text at line start).
@@ -72,6 +69,18 @@ export function smartFixContent(html: string): string {
       /((?:<li class="diamond-bullet">[^\n]*<\/li>\n*)+)/g,
       '<ul class="diamond-list">$1</ul>',
     )
+
+    // Step 4: Flatten accidental nested diamond-list wrappers where the
+    // first item is wrapped in an inner <ul>, causing deeper indentation.
+    // Repeat until stable to handle multiple nesting levels.
+    let prev = ''
+    while (prev !== fixed) {
+      prev = fixed
+      fixed = fixed.replace(
+        /<ul class="diamond-list">\s*<ul class="diamond-list">([\s\S]*?)<\/ul>\s*([\s\S]*?)<\/ul>/g,
+        '<ul class="diamond-list">$1$2</ul>',
+      )
+    }
   }
 
   return fixed

@@ -6,7 +6,13 @@
 
 import styles from './PageHeaderBanner.module.css'
 
-export default function PageHeaderBanner() {
+interface PageHeaderBannerProps {
+  showChapterOverlay?: boolean
+}
+
+export default function PageHeaderBanner({
+  showChapterOverlay = false,
+}: PageHeaderBannerProps) {
   return (
     <div className={styles.banner}>
       <img
@@ -14,6 +20,14 @@ export default function PageHeaderBanner() {
         alt="Header banner - Forbidden Lands landscape"
         className={styles.bannerImage}
       />
+      {showChapterOverlay && (
+        <img
+          src="/assets/decorations/chapter-header-overlay.png"
+          alt=""
+          aria-hidden="true"
+          className={styles.bannerOverlay}
+        />
+      )}
     </div>
   )
 }

@@ -17,13 +17,14 @@
 
 /* Unordered lists: use diamond bullet (✦) instead of default */
 .block :global(ul) {
-  padding-left: 1.4em;
+  padding-left: 0.62em;
   margin-bottom: 0.5em;
   list-style: none;
 }
 
 .block :global(ul li) {
   margin-bottom: 0.25em;
+  padding-left: 0;
 }
 
 /* Diamond bullet via ::before pseudo-element */
@@ -32,13 +33,30 @@
   regular <ul> wrapper do not get a second ✦ from this rule. */
 .block :global(ul:not(.diamond-list) > li)::before {
   content: '✦';
-  margin-right: 0.5em;
+  margin-right: 0.12em;
   color: var(--text-primary);
   font-weight: 400;
 }
 
+/* Normalize malformed nested diamond lists so all items align uniformly */
+.block :global(.diamond-list) {
+  margin-left: 0.1em;
+  padding-left: 0;
+}
+
+.block :global(.diamond-list .diamond-list) {
+  margin: 0;
+  padding-left: 0;
+}
+
+.block :global(.diamond-list .diamond-bullet) {
+  margin-left: 0;
+  padding-left: 0.55em;
+  text-indent: -0.7em;
+}
+
 .block :global(ol) {
-  padding-left: 1.4em;
+  padding-left: 0.9em;
   margin-bottom: 0.5em;
 }
 

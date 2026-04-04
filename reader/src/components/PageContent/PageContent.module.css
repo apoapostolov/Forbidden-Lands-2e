@@ -21,6 +21,26 @@
   break-before: column;
 }
 
+/* ## headings should render as framed full-span section banners */
+.columns :global(h2.section-heading) {
+  column-span: all;
+  break-before: avoid;
+  break-after: avoid;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 54px;
+  margin: 0.7em 0 0.35em;
+  padding: 0 18px;
+  text-align: center;
+  background-image: url('/assets/decorations/chapter-header-overlay.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+  font-size: 24px;
+  letter-spacing: 0.05em;
+}
+
 /* Flavour text / blockquotes span both columns and use no hyphenation ---
    they stand as visual breaks that match the source book's centered italic
    quotations which always occupy the full text-block width */
@@ -29,6 +49,19 @@
   hyphens: none;
   text-align: center;
   font-style: italic;
+  break-before: avoid;
+  break-after: avoid;
+}
+
+/* Fully italic fiction intro paragraphs from source markdown should span both
+   columns and read as chapter opener prose under the heading. */
+.columns :global(.fiction-intro) {
+  column-span: all;
+  hyphens: none;
+  text-align: center;
+  font-size: 13px;
+  line-height: 1.6;
+  margin: 0.25em 0 0.85em;
   break-before: avoid;
   break-after: avoid;
 }
@@ -43,7 +76,25 @@
 /* All direct children should not break awkwardly between columns */
 .columns > * {
   break-inside: avoid;
+  break-inside: avoid-column;
   page-break-inside: avoid;
+}
+
+/* Segment wrappers are the direct flow units in this layout.
+   Keep each paragraph block together so single-line leftovers don't appear
+   at the bottom of a column/page. */
+.columns > [data-segment-idx] {
+  display: inline-block;
+  width: 100%;
+  break-inside: avoid-column;
+  page-break-inside: avoid;
+}
+
+.columns :global(p) {
+  break-inside: avoid-column;
+  page-break-inside: avoid;
+  orphans: 3;
+  widows: 3;
 }
 
 /* ── Layout control classes (from layoutAnalyzer) ────────────── */

@@ -12,9 +12,9 @@ const bookData = bookDataRaw as BookData
 /** Read initial page from URL hash synchronously before first render. */
 function readHashPage(): number {
   const m = window.location.hash.match(/^#page\/(\d+)$/)
-  if (!m) return 0
+  if (!m) return -1
   const n = parseInt(m[1], 10)
-  return isNaN(n) ? 0 : Math.min(Math.max(0, n), bookData.totalPages - 1)
+  return isNaN(n) ? -1 : Math.min(Math.max(0, n), bookData.totalPages - 1)
 }
 
 const INITIAL_PAGE = readHashPage()
@@ -33,6 +33,10 @@ export default function App() {
   /** Called by BookReader whenever a page flip completes. */
   const handlePageChange = useCallback((page: number) => {
     setCurrentPage(page)
+    if (page < 0) {
+      history.replaceState(null, '', '#')
+      return
+    }
     history.replaceState(null, '', `#page/${page}`)
   }, [])
 
@@ -61,8 +65,11 @@ export default function App() {
         currentPage={currentPage}
         totalPages={bookData.totalPages}
         onGoTo={(p) => readerRef.current?.goToPage(p)}
+        onGoToInstant={(p) => readerRef.current?.goToPageInstant(p)}
         onPrev={() => readerRef.current?.prevPage()}
+        onPrevInstant={() => readerRef.current?.prevPageInstant()}
         onNext={() => readerRef.current?.nextPage()}
+        onNextInstant={() => readerRef.current?.nextPageInstant()}
         onTocOpen={() => setTocOpen(true)}
         searchValue={searchValue}
         onSearchChange={setSearchValue}
@@ -85,7 +92,7 @@ export default function App() {
         isOpen={tocOpen}
         onClose={() => setTocOpen(false)}
         onNavigate={(p) => {
-          readerRef.current?.goToPage(p)
+          readerRef.current?.goToPageInstant(p)
           setCurrentPage(p)
           history.replaceState(null, '', `#page/${p}`)
         }}

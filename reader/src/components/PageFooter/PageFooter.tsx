@@ -13,6 +13,8 @@ export default function PageFooter({
   chapterIndex,
   chapterTitle,
 }: PageFooterProps) {
+  const chapterLabel = chapterTitle.toUpperCase()
+
   return (
     <footer
       className={`${styles.footer} ${side === 'left' ? styles.left : styles.right}`}
@@ -27,10 +29,7 @@ export default function PageFooter({
         />
         {/* Page number sits over the skull head center (~32% from top) */}
         <span className={`${styles.number} small-caps-deco`}>{pageNumber}</span>
-        {/* Chapter label sits between the two horizontal decorative lines (~73% from top) */}
-        <span className={styles.chapterLabel}>
-          {chapterIndex}.&nbsp;{chapterTitle.toUpperCase()}
-        </span>
+        <span className={styles.chapterLabel}>{chapterLabel}</span>
       </div>
     </footer>
   )

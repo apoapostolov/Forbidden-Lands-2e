@@ -22,10 +22,14 @@ export default function TextBlock({
       ? DOMPurify.sanitize(fixed, { USE_PROFILES: { html: true } })
       : fixed
 
+  const isFictionIntro =
+    variant === 'body' && /^<p>\s*<em>[\s\S]*<\/em>\s*<\/p>$/i.test(clean)
+
   const className = [
     styles.block,
     variant === 'blockquote' ? 'flavour-text' : 'body-text',
     isChapterOpener ? 'chapter-opener' : '',
+    isFictionIntro ? 'fiction-intro' : '',
   ]
     .filter(Boolean)
     .join(' ')
