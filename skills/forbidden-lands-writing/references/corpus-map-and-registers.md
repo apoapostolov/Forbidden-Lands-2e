@@ -1,289 +1,183 @@
 <!-- markdownlint-disable MD013 -->
 
-# Corpus Map And Registers
+# Corpus Map And Retrieval Guide
 
-## Contents
+## Purpose
 
-1. Scope
-2. Corpus Priority
-3. Functional Register Map
-4. Chapter Register Tendencies
-5. Retrieval Guidance
+This reference tells you where to look before you write. It maps the manuscript by chapter, names what each chapter teaches about voice, and gives retrieval instructions by task.
 
-## Scope
-
-This reference executes writing-skill steps 1, 14, and 19:
-
-- corpus map
-- chapter-specific voice map
-- retrieval index strategy
-
-It tells the skill where to look before it writes.
+Do not retrieve too much. Two to five passages are usually enough. The goal is to absorb the temperature of the register, not to inventory the entire chapter.
 
 ## Corpus Priority
 
-Use the manuscript in this priority order when learning voice:
+When learning the manuscript voice, read in this order:
 
-1. chapter-opening fiction and epigraphs
-2. setting exposition in `corebook/01-front-matter.md`
-3. character-facing explanatory prose in `corebook/02-your-adventurer.md`
-4. rules exposition in `corebook/03-skills.md`, `corebook/05-combat-and-damage.md`, `corebook/06-critical-injuries.md`, and `corebook/08-journeys.md`
-5. item and weapon descriptions in `corebook/10-gear.md`
-6. spell and talent descriptive framing in `corebook/04-talents.md` and `corebook/07-magic.md`
-7. long-form practical subsystems in `corebook/09-the-stronghold.md`
+1. **Chapter-opening fiction and epigraphs.** The purest voice. Every chapter opens with one. These teach image density, character economy, and how to close on weight.
 
-Do not overfit to one chapter.
-The manuscript voice is stable across multiple registers, not identical across every section.
+2. **Setting exposition in `01-front-matter.md`.** The myth-and-world register. Broader cadence than other chapters, but still concrete. The Blood Mist paragraphs, the kin overviews, and the "what do you do" sections.
 
-## Functional Register Map
+3. **Character-facing prose in `02-your-adventurer.md`.** The warmest register in the book — but warmth here means "direct address to the player," not sentimentality. Creation guidance, attribute descriptions, age trade-offs.
 
-The manuscript uses six main register jobs.
+4. **Rules exposition in `03-skills.md`, `05-combat-and-damage.md`, `06-critical-injuries.md`, `08-journeys.md`.** The teaching voice. Front-loaded definitions, consequence after rule, examples through named characters.
 
-### 1. Fiction opener
+5. **Item and weapon prose in `10-gear.md`.** The tactile register. Concrete-noun-first writing. Where the manuscript sounds most like someone who has held the object.
 
-Use:
+6. **Spell and talent framing in `04-talents.md` and `07-magic.md`.** The densest content. Talents are rule-heavy with flavor bridges. Magic is the widest tonal range: wonder, danger, and procedure coexist.
 
-- chapter openings
-- epigraph-like scene setting
+7. **Long-form subsystems in `09-the-stronghold.md`.** The calmest register. Practical, infrastructural, building-focused. Reads like an honest manual.
 
-Characteristics:
+Do not overfit to one chapter. The voice is stable across registers, not identical across sections.
 
-- vivid and brief
-- action before reflection
-- body or object anchor
-- closes on an image rather than an argument
-
-### 2. Flavor exposition
-
-Use:
-
-- world state
-- kin, profession, and setting context
-
-Characteristics:
-
-- tells the reader what this world is like
-- usually pivots quickly to what that means for an adventurer
-
-### 3. Core rules exposition
-
-Use:
-
-- skill procedure
-- combat procedure
-- travel procedure
-- injury procedure
-
-Characteristics:
-
-- short-to-medium paragraphs
-- direct definition
-- consequence immediately after rule
-
-### 4. Mixed flavor-and-rule bridge
-
-Use:
-
-- subsystem intros
-- item explanation
-- setting-linked mechanics
-
-Characteristics:
-
-- opens materially
-- pivots into operation
-- keeps one voice rather than switching to tutorial copy
-
-### 5. Item and equipment description
-
-Use:
-
-- weapons
-- tools
-- clothing
-- materials
-
-Characteristics:
-
-- concrete nouns
-- function and distinction
-- little ornament
-
-### 6. Example scene
-
-Use:
-
-- multi-step rules teaching
-- sequencing clarification
-
-Characteristics:
-
-- names actors
-- states rolls
-- states effect
-- remains a miniature scene, not a sterile demo
-
-## Chapter Register Tendencies
+## Chapter Voice Map
 
 ### `01-front-matter.md`
 
-Dominant jobs:
+**Temperature:** Warm-dark, inviting, myth-shadowed.
 
-- setting exposition
-- myth-shadowed framing
+**What it teaches:** How to open a book. How to describe a world without sounding like a setting bible. How to transition from myth to game premise.
 
-Writing note:
+**Best passages to study:** The Blood Mist description. The kin overviews. The "what do you do as a player" section. The GM role description.
 
-- slightly broader cadence
-- still concrete, never purple
+**Danger when imitating:** Going too broad. This chapter has the most permission for atmospheric sweep, but even here every sentence names something concrete — a demon, a kin, a place, a curse.
 
 ### `02-your-adventurer.md`
 
-Dominant jobs:
+**Temperature:** Neutral-warm, practical, player-facing.
 
-- player invitation
-- identity framing
-- practical creation guidance
+**What it teaches:** How to address the player directly without sounding like a tutorial. How to present character options without selling them.
 
-Writing note:
+**Best passages to study:** Attribute descriptions. Age trade-offs. The kin and profession introductions.
 
-- warmer than combat text, but still unsentimental
+**Danger when imitating:** Sounding like a character-builder UI tooltip. The manuscript describes attributes as things that happen to your body, not as stats on a sheet.
 
 ### `03-skills.md`
 
-Dominant jobs:
+**Temperature:** Cool, precise, instructional.
 
-- foundational rules grammar
-- direct instructional prose
+**What it teaches:** The cleanest rules-teaching voice in the book. How to define a skill, state its dice pool, and give a brief example in three sentences.
 
-Writing note:
+**Best passages to study:** Any individual skill definition. The skill-roll procedure. The pushing rules.
 
-- clearest version of the system's teaching voice
+**Danger when imitating:** Going too dry. Even this chapter has texture — the skill descriptions carry traces of the world.
 
 ### `04-talents.md`
 
-Dominant jobs:
+**Temperature:** Cool-warm, dense, identity-rich.
 
-- identity framing
-- exception architecture
+**What it teaches:** How to pack a lot of rule content into small space while maintaining flavor bridges. How to describe what a character becomes, not just what they can do.
 
-Writing note:
+**Best passages to study:** Any three-rank talent. The profession talent introductions.
 
-- dense because of content volume, but still favors direct statement
+**Danger when imitating:** Losing the thread in density. Each talent rank should still read as one clear paragraph with one job.
 
 ### `05-combat-and-damage.md`
 
-Dominant jobs:
+**Temperature:** Harsh, compressed, forceful.
 
-- tactical rules
-- timing and tempo explanation
-- examples
+**What it teaches:** How to write rules that respect the reader's time. How to teach order of operations through examples. How to make lethality felt without performing it.
 
-Writing note:
+**Best passages to study:** The opening "Is it worth it?" paragraph. The initiative rules. The Nirmena/Tyrgar combat example. The damage/armor procedure.
 
-- crisp, forceful, little patience for vagueness
+**Danger when imitating:** Sounding clinical. Combat prose is terse, but it still uses concrete body language — not system terminology dressed as prose.
 
 ### `06-critical-injuries.md`
 
-Dominant jobs:
+**Temperature:** Cold, honest, bodily.
 
-- consequence framing
-- condition explanation
-- injury tables
+**What it teaches:** How to name injuries without clinical distance or dramatic performance. How to state permanent consequences plainly.
 
-Writing note:
+**Best passages to study:** The injury tables. The healing timers. The retirement passages.
 
-- harsh and literal
-- strongest need for rule honesty
+**Danger when imitating:** Two opposite failures: going too clinical ("the subject experiences trauma to the abdominal region") or going too purple ("a horrifying wound that will haunt them forever"). The manuscript walks between both.
 
 ### `07-magic.md`
 
-Dominant jobs:
+**Temperature:** Warm-dark, wonder-adjacent, procedurally dangerous.
 
-- atmospheric wonder
-- procedural danger
-- spell reference density
+**What it teaches:** The widest tonal range. How magic can feel enormous and specific at the same time. How to integrate casting costs into atmospheric description.
 
-Writing note:
+**Best passages to study:** The Stone Singer epigraph. The spell-casting procedure. Individual spell descriptions. The mishap tables.
 
-- the broadest tonal range in the manuscript
-- still works best when concrete and specific
+**Danger when imitating:** Inflating. Magic is where AI drafts fail hardest — they overwrite because the subject feels big. The manuscript keeps magic physical and costly.
 
 ### `08-journeys.md`
 
-Dominant jobs:
+**Temperature:** Weather-textured, logistical, pressured.
 
-- logistical pressure
-- environmental explanation
-- mishap framing
+**What it teaches:** How to make procedure feel like landscape. How to describe travel as a series of pressures, not as a subsystem explanation.
 
-Writing note:
+**Best passages to study:** The quarter-day structure. The weather table. The foraging rules. The mishap table.
 
-- often moves from landscape fact to player implication quickly
+**Danger when imitating:** Narrating instead of stating. Journey prose is the most stripped-down register in the book. It lists what happens, when, and what it costs.
 
 ### `09-the-stronghold.md`
 
-Dominant jobs:
+**Temperature:** Calm, practical, building-focused.
 
-- practical subsystem explanation
-- long-form development rules
+**What it teaches:** How to write long-form subsystem prose that stays grounded. How to describe construction and development without sounding like a design document.
 
-Writing note:
+**Best passages to study:** The stronghold construction rules. The function descriptions. The hiring rules.
 
-- calm, practical, infrastructural
+**Danger when imitating:** Sounding like a project-management document. The manuscript describes buildings as physical structures in a dangerous world, not as gameplay features.
 
 ### `10-gear.md`
 
-Dominant jobs:
+**Temperature:** Grounded, tactile, materialist.
 
-- object description
-- material specificity
-- differentiated use
+**What it teaches:** The best chapter for learning concrete-noun-first prose. How to describe objects as if you have held them. How to distinguish similar items through material and function.
 
-Writing note:
+**Best passages to study:** The Makeshift Tools description. The weapon table flavor text. The armor descriptions. The Supply rules.
 
-- one of the best chapters for learning concrete noun-first prose
+**Danger when imitating:** Catalog copy. "A fine blade crafted by master smiths" is not this chapter's voice. "A straight blade, an arm's length and a half, fitted for one hand or two" is.
 
-## Retrieval Guidance
+### `11-appendix.md`
 
-Before drafting, pull exemplars by job, not only by topic.
+**Temperature:** Reference, compressed, minimal.
 
-### If writing rules
+**What it teaches:** How to write tables and compressed reference without personality loss. Even appendix entries carry a trace of the manuscript voice.
 
-Retrieve from:
+**Best passages to study:** Table headers. NPC stat-block flavor lines.
 
-- `03-skills.md`
-- `05-combat-and-damage.md`
-- `08-journeys.md`
+**Danger when imitating:** Very little — this is the safest register to match. The danger is only in going completely flat.
 
-### If writing an item or tool
+## Retrieval By Task
 
-Retrieve from:
+### Writing rules prose
 
-- `10-gear.md`
+Pull from: `03-skills.md`, `05-combat-and-damage.md`, `08-journeys.md`.
+Look for: front-loaded definitions, consequence-after-rule patterns, brief examples.
 
-### If writing consequence text
+### Writing an item or tool description
 
-Retrieve from:
+Pull from: `10-gear.md`.
+Look for: material-first descriptions, function and limitation, comparative distinction.
 
-- `06-critical-injuries.md`
-- `08-journeys.md`
+### Writing consequence text (injuries, conditions, death)
 
-### If writing atmosphere with rule adjacency
+Pull from: `06-critical-injuries.md`, `08-journeys.md`.
+Look for: honest bodily language, timer mechanics, no clinical distance.
 
-Retrieve from:
+### Writing atmosphere with rule adjacency
 
-- `01-front-matter.md`
-- `02-your-adventurer.md`
-- the intro of the relevant chapter
+Pull from: `01-front-matter.md`, `02-your-adventurer.md`, the opening paragraphs of the relevant chapter.
+Look for: how the authors transition from world truth to game state.
 
-### If writing a proposal passage meant for promotion
+### Writing a talent or spell description
 
-Retrieve:
+Pull from: `04-talents.md`, `07-magic.md`.
+Look for: rank progression phrasing, casting cost integration, identity through capability.
 
-- one nearby final-manuscript exemplar
-- one structurally similar rules paragraph
-- one local item/example if needed
+### Writing a chapter introduction or subsystem opener
 
-Do not retrieve too much.
-Two to five targeted passages are usually enough.
+Pull from: the opening 3-5 paragraphs of any chapter.
+Look for: how the fiction epigraph sets up the rules content, how the bridge paragraph works.
+
+### Writing an example scene
+
+Pull from: `05-combat-and-damage.md` (Nirmena/Tyrgar), `08-journeys.md` (camp/weather chains).
+Look for: named characters, real-time sequence, consequences shown not explained.
+
+### Writing a proposal passage destined for promotion
+
+Pull: one nearby final-manuscript exemplar, one structurally similar rules paragraph, one item or example from the same domain.
+Look for: the voice the passage needs to match when it arrives in the chapter.

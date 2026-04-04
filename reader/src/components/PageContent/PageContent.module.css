@@ -1,27 +1,52 @@
 .columns {
   flex: 1;
   overflow: hidden;
-  /* CSS multi-column layout: the browser flows content into two columns */
+  /* CSS multi-column — two equal columns, 19 px gap (14 pt from PDF measurement) */
   column-count: 2;
   column-gap: var(--column-gap);
   column-fill: auto;
-  /* Fixed height so browser knows exactly how much space to fill */
+  /* Fixed height required so the browser knows when to start the second column */
   height: 100%;
-  /* Prevent headings from dangling alone at column bottom */
   orphans: 3;
   widows: 3;
 }
 
-/* All direct children should not break awkwardly */
-.columns > * {
-  break-inside: avoid;
-  page-break-inside: avoid;
+/* Chapter title (h1) must escape the column flow and span full page width,
+   exactly as it does in the source book where the title sits above both columns */
+.columns :global(h1) {
+  column-span: all;
+  break-before: column;
 }
 
-/* Headings keep with at least one following line */
-.columns :global(h1),
+/* Section headings stay within their column — no spanning */
 .columns :global(h2),
 .columns :global(h3),
 .columns :global(h4) {
   break-after: avoid;
 }
+
+/* All direct children should not break awkwardly between columns */
+.columns > * {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+/* ── Layout control classes (from layoutAnalyzer) ────────────── */
+
+/* Wide elements (tables, images) that span both columns */
+.columns :global(.layout-span-two-cols) {
+  column-span: all;
+  break-before: column;
+}
+
+/* Prevent awkward column break before this element */
+.columns :global(.layout-avoid-break-before) {
+  break-before: avoid;
+}
+
+/* Keep this element with the next one (list with preceding text) */
+.columns :global(.layout-keep-with-next) {
+  break-after: avoid;
+  page-break-after: avoid;
+}
+

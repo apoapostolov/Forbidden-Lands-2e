@@ -1,33 +1,19 @@
 <!-- markdownlint-disable MD013 -->
 
-# Paragraph, Sentence, And Structure Metrics
+# Manuscript Metrics
 
-## Contents
+## Purpose
 
-1. Scope
-2. Measured Chapter Averages
-3. Paragraph-Length Interpretation
-4. Sentence-Length Interpretation
-5. Paragraph Archetypes
-6. Heading And Structure Use
+This reference contains measured data from the Forbidden Lands manuscript. The numbers are not targets to hit mechanically — they are baselines that reveal the original authors' habits. When a draft's metrics diverge sharply from these baselines, the prose has probably drifted from the manuscript voice.
 
-## Scope
-
-This reference executes writing-skill steps 2, 3, 4, 9, 10, and 15:
-
-- paragraph length analysis
-- sentence size analysis
-- cadence analysis
-- transition study
-- paragraph archetype library
-- heading and list usage analysis
+Use this file to check structural fit after drafting. It answers: "Is my paragraph the right length for this chapter? Are my sentences the right shape for this register?"
 
 ## Measured Chapter Averages
 
 Measured from prose paragraphs only, excluding headings, tables, and block quotes.
 
-| Chapter | Prose Paragraphs | Avg Words | Avg Sentences |
-| ------- | ---------------- | --------- | ------------- |
+| Chapter | Prose Paragraphs | Avg Words/Para | Avg Sentences/Para |
+| ------- | ---------------- | -------------- | ------------------ |
 | `01-front-matter.md` | 65 | 46.5 | 2.9 |
 | `02-your-adventurer.md` | 153 | 58.9 | 3.9 |
 | `03-skills.md` | 123 | 48.0 | 3.0 |
@@ -40,154 +26,68 @@ Measured from prose paragraphs only, excluding headings, tables, and block quote
 | `10-gear.md` | 202 | 51.7 | 3.1 |
 | `11-appendix.md` | 82 | 53.0 | 2.9 |
 
-## Paragraph-Length Interpretation
+## What The Numbers Reveal
 
-The manuscript norm is short-to-medium paragraphs.
+### The manuscript is short-paragraphed
 
-Common working range:
+The overall working range is 35 to 60 words per paragraph, 2 to 4 sentences. This is shorter than most published fantasy fiction and shorter than most AI-generated text. AI defaults to 80-120 word paragraphs because its training data skews toward essay-length prose blocks. New drafts that consistently exceed 60 words per paragraph are probably over-explaining.
 
-- roughly 35 to 60 words
-- roughly 2 to 4 sentences
+### The two outliers are instructive
 
-Longer paragraphs exist, especially in:
+**`04-talents.md`** averages 93 words and 5.2 sentences per paragraph. This is because each talent rank packs definition, condition, effect, and sometimes exception into a single block. The density is earned by content volume, not by flabby prose. The individual sentences within these paragraphs are still short and direct.
 
-- `04-talents.md`
-- `02-your-adventurer.md`
+**`07-magic.md`** averages the lowest at 38.7 words and 2.4 sentences. This is the highest-volume chapter (1,077 paragraphs — spell descriptions). Each spell is a compact unit: name, cost, effect, and sometimes a complication. The brevity is the format, not the style.
 
-But those are content-dense exceptions, not the default target for new prose.
+### Combat and journey prose is the tightest
 
-### Practical rule
+`05-combat-and-damage.md` at 44.1 words and `08-journeys.md` at 42.1 words — these are the manuscripts' most procedural chapters. The paragraphs are small because each one does exactly one job: define a term, state a rule, show a consequence. This is the target to aim for when writing rules prose.
 
-If drafting new manuscript text:
+### The longer chapters are not looser
 
-- default to one paragraph, one job
-- split once the paragraph starts defining, explaining, and caveating at the same time
+`02-your-adventurer.md` at 58.9 words and `06-critical-injuries.md` at 54.5 words have higher averages, but not because their prose is softer. These chapters explain interacting conditions (attributes, age, kin features, injury timers) that require slightly longer paragraphs to cover in a single pass. The individual sentences stay controlled.
 
-## Sentence-Length Interpretation
+## Using The Metrics
 
-The manuscript does not rely on extremely short fragments or long winding periods as its norm.
-It prefers controlled medium sentences, supported by short declaratives and occasional longer descriptive lines.
+### For rules prose
 
-### Working sentence roles
+Target: 35-50 words, 2-3 sentences. One paragraph, one rule. If you need a second paragraph, the rule has an exception or a timing condition — give it its own paragraph.
 
-#### Short sentences
+### For flavor exposition
 
-Use for:
+Target: 40-55 words, 2-3 sentences. The first sentence names the condition or world fact. The second pivots to player relevance. A third sentence adds a note of danger, distinction, or cultural specificity if needed.
 
-- definitions
-- warnings
-- hard endings
-- tonal pivots
+### For item descriptions
 
-#### Medium sentences
+Target: 40-55 words, 2-4 sentences. Material first, function second, limitation or distinction third. The Makeshift Tools description is 48 words in three sentences — a near-perfect example.
 
-Use for:
+### For talent and spell descriptions
 
-- most rules prose
-- item descriptions
-- practical flavor
+Talents: 60-100 words is acceptable because each rank packs multiple rule hooks. But check that each sentence within the block does one job.
 
-#### Long sentences
+Spells: 30-45 words for simple spells, 45-70 for complex ones. The spell format compresses hard: name → cost → effect → complication (if any).
 
-Use for:
+### For fiction openers and epigraphs
 
-- scene-setting
-- accumulated physical detail
-- one tightly controlled explanation with one turn
+No target length. These passages earn their length from image density. A four-sentence epigraph with a reversal at the end (like the Combat epigraph) is longer by nature. A one-sentence epigraph that names a place and stops (like a Journey chapter opening) is shorter. Length follows content, not convention.
 
-### Cadence finding
+### For example scenes
 
-The manuscript often ends strong sentences on:
+Target: 3-6 short paragraphs, each 30-50 words. One paragraph for setup, one for each action, one for the consequence. The example should teach through sequence, not through explanation — so each paragraph is brief and moves forward.
 
-- hard nouns
-- bodily terms
-- material objects
-- functional consequences
+## Structural Signals To Watch
 
-Avoid trailing endings built from:
+### Paragraph length creep
 
-- abstract qualifiers
-- self-explanation
-- “voicey” filler
+If three consecutive paragraphs in a draft each exceed 70 words, the prose is probably over-explaining. Check for: re-stated definitions, embedded rationale, hedging, and trailing qualifiers. The fix is usually to cut the last sentence of each paragraph.
 
-## Paragraph Archetypes
+### Sentence count uniformity
 
-These are the dominant prose shapes.
+If every paragraph in a passage has exactly 3 sentences, the AI is running a template. The manuscript varies between 2 and 5 sentences per paragraph because different jobs require different amounts of space. A definition needs one sentence. A conditional rule needs three. An inventory list needs one long sentence. Vary by purpose, not by pattern.
 
-### Statement -> consequence
+### Heading density
 
-Use:
+The manuscript uses headings to compress complexity. If a section requires the reader to hold more than two concepts simultaneously without a heading or structural break, add a heading. The manuscript's heading-to-paragraph ratio is roughly 1:3-5 in rules chapters and 1:5-8 in flavor chapters.
 
-- item blurbs
-- subsystem intros
-- practical world rules
+### List and table use
 
-### Definition -> procedure -> exception
-
-Use:
-
-- core mechanics
-- timing rules
-- injury and healing rules
-
-### Condition -> pressure -> response
-
-Use:
-
-- journeys
-- weather
-- scarcity
-- camp logic
-
-### Description -> distinction
-
-Use:
-
-- gear
-- weapons
-- kin and profession contrasts
-
-### Example sequence
-
-Use:
-
-- multi-step procedures
-- interacting rules
-
-Shape:
-
-- scene setup
-- roll or trigger
-- result
-- consequence
-
-## Transition Study
-
-The manuscript usually transitions from atmosphere to instruction by narrowing from world truth to player implication.
-
-Common transition logic:
-
-1. state what the world is like
-2. state what that means for the adventurer
-3. state how the rule works
-
-This is stronger than:
-
-1. stating abstract flavor
-2. abruptly switching into generic instructional prose
-
-## Heading And Structure Use
-
-The manuscript compresses complexity structurally, not only rhetorically.
-
-It uses:
-
-- headings for hierarchy
-- bold labels for fast scan definitions
-- lists for discrete options or modifiers
-- tables for dense reference material
-
-### Writing rule
-
-If the reader needs to scan or compare, yield to structure.
-Do not force all information through prose if a list or table is the clearer manuscript-native tool.
+When the reader needs to scan or compare, yield to structure. The manuscript uses bold labels for inline definitions, bulleted lists for discrete options, and tables for reference-dense material. Do not force comparative information through prose when a table is the clearer manuscript-native tool.

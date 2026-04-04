@@ -1,3 +1,4 @@
+/* Pure white page — matches the FL01 book (black ink on white paper, no texture) */
 .page {
   position: relative;
   width: var(--page-width);
@@ -5,61 +6,33 @@
   background-color: var(--page-bg);
   overflow: hidden;
   user-select: text;
-  /* Parchment noise pattern from SVG */
-  background-image: url('/textures/parchment-noise.svg');
-  background-size: 512px 512px;
-  background-repeat: repeat;
 }
 
-.page.right {
-  background-color: var(--page-bg-dark);
-}
-
-/* SVG noise overlay for additional texture variation */
-.noiseOverlay {
-  position: absolute;
-  inset: 0;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='200' height='200' filter='url(%23n)' opacity='0.03'/%3E%3C/svg%3E");
-  background-size: 200px 200px;
-  pointer-events: none;
-  mix-blend-mode: multiply;
-}
-
-/* Warm centre, cooler edges simulating aged vellum */
-.gradientOverlay {
-  position: absolute;
-  inset: 0;
-  background: radial-gradient(
-    ellipse 70% 60% at 50% 50%,
-    rgba(255, 248, 220, 0.18) 0%,
-    rgba(180, 140, 80, 0.07) 60%,
-    rgba(120, 90, 40, 0.12) 100%
-  );
-  pointer-events: none;
-}
-
-/* Spine darkening on the inner page edge */
-.left .spineGradient {
+/* Left page: spine shadow on the right edge (toward the gutter) */
+.left::after {
+  content: '';
   position: absolute;
   top: 0;
   right: 0;
   bottom: 0;
-  width: 40px;
-  background: linear-gradient(to left, rgba(26, 15, 6, 0.22), transparent);
+  width: 20px;
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.08), transparent);
   pointer-events: none;
 }
 
-.right .spineGradient {
+/* Right page: spine shadow on the left edge */
+.right::after {
+  content: '';
   position: absolute;
   top: 0;
   left: 0;
   bottom: 0;
-  width: 40px;
-  background: linear-gradient(to right, rgba(26, 15, 6, 0.22), transparent);
+  width: 20px;
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.08), transparent);
   pointer-events: none;
 }
 
-/* Content floats above all texture layers */
+/* Content wrapper: horizontal + vertical page margins */
 .content {
   position: relative;
   z-index: 1;

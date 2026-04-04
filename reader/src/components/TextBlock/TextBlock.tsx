@@ -1,4 +1,5 @@
 import DOMPurify from 'dompurify'
+import { smartFixContent } from '@utils/smartContentFix'
 import styles from './TextBlock.module.css'
 
 interface TextBlockProps {
@@ -12,11 +13,14 @@ export default function TextBlock({
   isChapterOpener,
   variant = 'body',
 }: TextBlockProps) {
+  // Apply smart content fixes (emoji greyscale, diamond bullets)
+  const fixed = smartFixContent(html)
+
   // DOMPurify is available at runtime in the browser
   const clean =
     typeof window !== 'undefined'
-      ? DOMPurify.sanitize(html, { USE_PROFILES: { html: true } })
-      : html
+      ? DOMPurify.sanitize(fixed, { USE_PROFILES: { html: true } })
+      : fixed
 
   const className = [
     styles.block,

@@ -11,14 +11,7 @@
  */
 
 import { existsSync, readFileSync, writeFileSync } from 'fs'
-import type {
-    Heading,
-    Image,
-    Root as MdastRoot,
-    Node,
-    Table,
-    TableRow
-} from 'mdast'
+import type { Heading, Image, Root as MdastRoot, Node, Table, TableRow } from 'mdast'
 import { dirname, join, resolve } from 'path'
 import rehypeSanitize from 'rehype-sanitize'
 import rehypeStringify from 'rehype-stringify'
@@ -55,7 +48,7 @@ const CHAPTER_FILES = [
 // ── Layout constants (pt) ─────────────────────────────────────────────────────
 // Matches dev plan: 482 × 680pt page, 50pt h-margins, 60pt v-margins
 const COLUMN_HEIGHT_PT = 560 // usable column height (680 - 60×2 - 20 header/footer)
-const COLUMNS_PER_PAGE = 2
+// 2 columns per page — used implicitly by the paginator (2 × COLUMN_HEIGHT_PT)
 const WORDS_PER_COL_LINE = 8 // ~35 chars in narrow column
 const LINE_HEIGHT_PT = 11.6 // 8pt × 1.45
 const PARA_MARGIN_PT = 6 // bottom margin per paragraph
@@ -167,10 +160,9 @@ function textHeightPt(str: string, wordsPerLine = WORDS_PER_COL_LINE): number {
 function nodeToHtml(node: Node): string {
   const root: MdastRoot = { type: 'root', children: [node as MdastRoot['children'][0]] }
   // We already have an MDAST tree — use runSync to transform to HAST, then stringify
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const processor = unified()
-    .use(remarkRehype as Parameters<typeof unified.prototype.use>[0], {
-      allowDangerousHtml: false,
-    })
+    .use(remarkRehype as any, { allowDangerousHtml: false })
     .use(rehypeSanitize)
     .use(rehypeStringify)
   const hast = processor.runSync(root as Parameters<typeof processor.runSync>[0])
@@ -216,12 +208,9 @@ function parseChapter(
   let firstParagraph = true
   const segments: Segment[] = []
 
-  // Extract images referenced in markdown (rare in this corpus, mostly inline)
-  const mdImages: ManifestEntry[] = []
-
+  // Inline markdown images are rare in this corpus; they're handled via the
+  // manifest injection loop below. The visit call is kept for future use.
   visit(tree, 'image', (node: Image) => {
-    // Inline markdown images — we don't have file-level ones in this corpus
-    // They'll be handled via the manifest injection below
     void node
   })
 

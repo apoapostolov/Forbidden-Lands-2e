@@ -1,6 +1,6 @@
-import { useEffect, useRef } from 'react'
+import type { TocEntry } from '@app-types/book'
 import { AnimatePresence, motion } from 'framer-motion'
-import type { TocEntry } from '@types/book'
+import { useEffect, useRef } from 'react'
 import styles from './TableOfContents.module.css'
 
 interface TableOfContentsProps {
@@ -71,9 +71,7 @@ export default function TableOfContents({
             aria-label="Table of contents"
           >
             <div className={styles.header}>
-              <span className={`${styles.title} small-caps-deco`}>
-                Contents
-              </span>
+              <span className={`${styles.title} small-caps-deco`}>Contents</span>
               <button
                 className={styles.closeBtn}
                 onClick={onClose}
@@ -87,7 +85,8 @@ export default function TableOfContents({
 
             <ul className={styles.list}>
               {entries.map((entry, i) => {
-                const isActive = entry.page <= currentPage + 1 &&
+                const isActive =
+                  entry.page <= currentPage + 1 &&
                   (entries[i + 1] ? entries[i + 1].page > currentPage + 1 : true)
                 return (
                   <li

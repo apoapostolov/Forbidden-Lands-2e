@@ -11,7 +11,8 @@ export default defineConfig({
       '@data': resolve(__dirname, 'src/data'),
       '@styles': resolve(__dirname, 'src/styles'),
       '@hooks': resolve(__dirname, 'src/hooks'),
-      '@types': resolve(__dirname, 'src/types'),
+      '@utils': resolve(__dirname, 'src/utils'),
+      '@app-types': resolve(__dirname, 'src/types'),
     },
   },
   css: {

@@ -21,8 +21,8 @@ export function useViewportScale(): ViewportScale {
 
   useEffect(() => {
     function update() {
-      const vw = window.innerWidth - 32     // 16px padding each side
-      const vh = window.innerHeight - 32   // 16px padding each side
+      const vw = window.innerWidth - 32 // 16px padding each side
+      const vh = window.innerHeight - 32 // 16px padding each side
       const scaleH = vh / BASE_PAGE_H
       const scaleW = vw / BASE_SPREAD_W
       setScale(Math.min(scaleH, scaleW, 1)) // never upscale beyond 100%

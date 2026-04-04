@@ -10,8 +10,11 @@ export default function PageFooter({ pageNumber, side }: PageFooterProps) {
     <footer
       className={`${styles.footer} ${side === 'left' ? styles.left : styles.right}`}
     >
-      <div className={styles.rule} />
-      <span className={`${styles.number} small-caps-deco`}>{pageNumber}</span>
+      <div className={styles.container}>
+        <div className={styles.ornament} />
+        <span className={`${styles.number} small-caps-deco`}>{pageNumber}</span>
+        <div className={styles.ornament} />
+      </div>
     </footer>
   )
 }

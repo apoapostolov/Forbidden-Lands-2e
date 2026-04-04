@@ -1,4 +1,4 @@
-import { useState, useRef, FormEvent } from 'react'
+import { FormEvent, useRef, useState } from 'react'
 import styles from './NavBar.module.css'
 
 interface NavBarProps {
@@ -8,6 +8,12 @@ interface NavBarProps {
   onPrev: () => void
   onNext: () => void
   onTocOpen: () => void
+  searchValue: string
+  onSearchChange: (value: string) => void
+}
+
+function isFullscreen() {
+  return !!document.fullscreenElement
 }
 
 export default function NavBar({
@@ -17,9 +23,13 @@ export default function NavBar({
   onPrev,
   onNext,
   onTocOpen,
+  searchValue,
+  onSearchChange,
 }: NavBarProps) {
   const [jumpValue, setJumpValue] = useState('')
+  const [fs, setFs] = useState(isFullscreen)
   const inputRef = useRef<HTMLInputElement>(null)
+  const searchRef = useRef<HTMLInputElement>(null)
 
   function handleJump(e: FormEvent) {
     e.preventDefault()
@@ -28,6 +38,14 @@ export default function NavBar({
       onGoTo(n - 1) // book-data pages are 0-indexed in react-pageflip
       setJumpValue('')
       inputRef.current?.blur()
+    }
+  }
+
+  function toggleFullscreen() {
+    if (!document.fullscreenElement) {
+      document.documentElement.requestFullscreen().then(() => setFs(true))
+    } else {
+      document.exitFullscreen().then(() => setFs(false))
     }
   }
 
@@ -72,6 +90,30 @@ export default function NavBar({
         title="Next page"
       >
         ›
+      </button>
+
+      <div className={styles.spacer} />
+
+      <form className={styles.searchForm}>
+        <input
+          ref={searchRef}
+          className={styles.searchInput}
+          type="text"
+          value={searchValue}
+          onChange={(e) => onSearchChange(e.target.value)}
+          placeholder="Search..."
+          aria-label="Search book"
+        />
+        <span className={styles.searchIcon}>🔍</span>
+      </form>
+
+      <button
+        className={`${styles.btn} ${styles.fsBtn}`}
+        onClick={toggleFullscreen}
+        aria-label={fs ? 'Exit fullscreen' : 'Enter fullscreen'}
+        title={fs ? 'Exit fullscreen (F11)' : 'Fullscreen'}
+      >
+        {fs ? '⛶' : '⛶'}
       </button>
     </nav>
   )

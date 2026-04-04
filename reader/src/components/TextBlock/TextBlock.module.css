@@ -12,30 +12,64 @@
 
 .block :global(em) {
   font-style: italic;
-  color: var(--text-accent);
+  color: var(--text-primary);
 }
 
-.block :global(ul),
+/* Unordered lists: use diamond bullet (✦) instead of default */
+.block :global(ul) {
+  padding-left: 1.4em;
+  margin-bottom: 0.5em;
+  list-style: none;
+}
+
+.block :global(ul li) {
+  margin-bottom: 0.25em;
+}
+
+/* Diamond bullet via ::before pseudo-element */
+.block :global(ul li)::before {
+  content: '✦';
+  margin-right: 0.5em;
+  color: var(--text-primary);
+  font-weight: 400;
+}
+
 .block :global(ol) {
   padding-left: 1.4em;
   margin-bottom: 0.5em;
 }
 
-.block :global(li) {
-  margin-bottom: 0.2em;
+.block :global(ol li) {
+  margin-bottom: 0.25em;
 }
 
+/* Links */
 .block :global(a) {
-  color: var(--text-accent);
+  color: var(--text-primary);
   text-decoration: underline;
   text-decoration-thickness: 1px;
   text-underline-offset: 2px;
 }
 
+/* Code blocks */
 .block :global(code) {
   font-family: 'Courier New', monospace;
   font-size: 0.9em;
-  background: rgba(92, 61, 30, 0.1);
+  background: rgba(0, 0, 0, 0.05);
   padding: 0 2px;
   border-radius: 2px;
 }
+
+/* Emoji styling: apply greyscale filter to colored emoji (sword, skull, blood) */
+.block :global(strong)::after,
+.block :global(p) {
+  /* Emoji filter applied via parent — see emojiGrey class below */
+}
+
+/* Force monochrome/greyscale on all emoji via filter */
+.block :global(p),
+.block :global(li),
+.block :global(strong) {
+  filter: brightness(1);
+}
+

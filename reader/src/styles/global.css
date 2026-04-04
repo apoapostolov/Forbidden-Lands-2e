@@ -36,12 +36,39 @@ body {
 
 /* ── Focus styles ──────────────────────────────────────────── */
 :focus-visible {
-  outline: 2px solid var(--gold-rule);
+  outline: 2px solid var(--rule-color);
   outline-offset: 2px;
 }
 
 /* ── Selection ─────────────────────────────────────────────── */
 ::selection {
-  background: rgba(184, 150, 12, 0.3);
+  background: rgba(100, 100, 100, 0.3);
   color: var(--text-heading);
+}
+
+/* ── Emoji Greyscale (for colored emoji like ⚔️ 💀 🩸) –────– */
+.emoji-grey {
+  filter: saturate(0%) brightness(0.9);
+  display: inline-block;
+  /* Prevent layout shift */
+  margin: 0 1px;
+}
+
+/* ── Diamond Bullet Styling (✦ from spell attribute lists) ─── */
+.diamond-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0.5em 0;
+}
+
+.diamond-bullet {
+  margin-bottom: 0.2em;
+  display: list-item;
+  list-style: none;
+}
+
+.diamond-marker {
+  margin-right: 0.4em;
+  color: var(--text-primary);
+  font-weight: 400;
 }

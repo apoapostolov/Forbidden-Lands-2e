@@ -5,421 +5,311 @@
 ## Contents
 
 1. Purpose
-2. Register Map
-3. Paragraph Architecture
-4. Sentence Length And Shape
-5. Diction
-6. Explanatory Text
-7. Example Design
-8. Rules-Flavored Prose
-9. Flavor-Forward Prose
-10. Revision Tests
-11. Common Failure Modes
+2. Author Identification
+3. The Epigraph Voice
+4. The Flavor-Exposition Voice
+5. The Rules Voice
+6. The Mixed Bridge Voice
+7. The Item Voice
+8. The Example Voice
+9. Chapter-Level Voice Shifts
+10. Paragraph-Level Forensics
+11. Sentence-Level Forensics
+12. What Makes The Prose Work As Fiction
+13. Where AI Imitation Fails
 
 ## Purpose
 
-This document is the deeper reference pack behind the Forbidden Lands writing skill.
+This file is a forensic analysis of how the original Forbidden Lands authors wrote — not what style categories their prose falls into, but why specific passages work as fiction, as teaching, and as atmosphere simultaneously.
 
-Use it when the short instructions in `WRITING_GUIDE.md` are not enough and the AI needs a fuller model of how the manuscript actually behaves on the page.
+Read this file when calibrating voice on a new draft. The goal is not to copy surface habits but to understand the craft decisions underneath.
 
-It is not a style parody manual.
-It is a functional analysis of how the book mixes fiction, explanation, and procedure without sounding split into separate voices.
+## Author Identification
 
-## Register Map
+The Forbidden Lands corebook was written primarily by:
 
-The manuscript operates in four closely related registers.
+- **Tomas Härenstam** — lead rules designer. Responsible for most mechanical prose, subsystem definitions, and the structural architecture of how rules teach through progressive disclosure. His prose is the cleanest: short definitions, minimal ornament, front-loaded structure.
 
-### 1. Chapter-opening fiction
+- **Erik Granström** — setting and adventure author. Responsible for most flavor text, fiction epigraphs, world-building passages, and the cultural texture of the Ravenlands. His prose is richer, more image-laden, and carries the narrative weight.
 
-Job:
+- **Contributing authors** (Christian Granath, Nils Hintze, Nils Karlén, Kosta Kostulas) — contributed specific sections, adventures, and supplemental material.
 
-- establish danger, mood, and material reality fast
-- show character through action, not reflection
-- cast the world as old, local, and dangerous
+The distinction matters because the manuscript has two dominant writing temperatures: the cool precision of rules design (Härenstam) and the warm-dark imagery of setting fiction (Granström). Good new prose must sit between these two temperatures.
 
-Common traits:
+## The Epigraph Voice
 
-- brief and image-rich
-- usually anchored in a body, object, or wound
-- strong closing image
-- no ornamental moralizing
+### What it is
 
-### 2. Flavor exposition
+Short fiction passages that open chapters. Usually dialogue or close third-person narration. Named characters. Specific sensory details. They end on an image, a threat, or a reversal — never on a moral or reflection.
 
-Job:
+### Passage analysis: Combat chapter
 
-- tell the reader what kind of world this is
-- move from atmosphere into player implication
+> "What's in a name? That which we call a rose by any other name would smell as sweet." Mormelan wiped the blood off his thin blade with a silk handkerchief while quoting the Bard.
 
-Common traits:
+This opens with Shakespeare — immediately establishing Mormelan as educated, theatrical, and dangerous. He is cleaning a blade, so someone has already been cut. The silk handkerchief tells you he is wealthy or vain or both. The juxtaposition of literary quotation and fresh blood is the chapter's theme compressed into two sentences.
 
-- the first sentence often names the condition of the world
-- the second or third sentence turns toward what that means for adventurers
-- world detail is practical rather than encyclopedic
+> Reubenwald was in no shape to respond, clutching his bleeding chest, but his left hand reached for his grandmother's magical dagger, hidden in his boot.
 
-### 3. Rules explanation
+Narrative reversal. The reader shifts from assuming Reubenwald is finished to understanding he has one move left. "Grandmother's magical dagger" does worldbuilding in three words — there are family heirlooms, there is functional magic, there is desperation. "Hidden in his boot" grounds the magic in the physical.
 
-Job:
+**Why it works:** The epigraph teaches three things about the game's combat without stating any of them: combat is lethal (bleeding chest), characters have hidden resources (the dagger), and culture matters even in violence (the Shakespeare quotation). It teaches by showing, not by declaring.
 
-- define a procedure cleanly
-- prevent misreadings
-- preserve tone without slowing play
+### Passage analysis: Gear chapter
 
-Common traits:
+> "Oil is well and all," Haggamur said, "but there ain't nothing compared to a good long spit on your blade. Same as a horse."
 
-- short paragraphs
-- front-loaded definitions
-- exceptions arrive after the baseline
-- examples are used sparingly, only where sequence matters
+This is crude, practical, funny, and character-revealing. Haggamur treats his weapon the way he treats his horse — with rough manual care. The humor is in-world (a soldier's vanity about maintenance technique), not authorial.
 
-### 4. Mixed flavor-and-rule prose
+> "What would you know about a good grip on his shaft?" Arkel called from the other side of the campfire. Haggamur tossed a shoe at him.
 
-Job:
+The double entendre is crude and deliberate. It tells you these are soldiers killing time. The thrown shoe grounds the scene physically and closes the joke with action, not with a punchline.
 
-- make a subsystem feel native to the world while still teaching it
+**Why it works:** The chapter is about gear — items, tools, supplies. The epigraph makes equipment personal and daily. The reader enters the rules section already thinking of gear as something real people argue about around fires. No amount of "equipment is important in the Forbidden Lands" achieves what these four lines of campfire dialogue achieve.
 
-Common traits:
+### Passage analysis: Magic chapter
 
-- concrete opening
-- clear pivot into operation
-- no hard break into corporate tutorial language
+> The Stone Singer planted her feet and her eyes turned grey as granite. Slowly, impossibly, the cliff began to lean in toward the orcs on the road below. The three orcs hesitated. But it was the BEING that rose from the hewn cliff face, unfurled its new body, and turned to them — its eyes red pits, its mouth a gaping hole — that made them flee.
 
-## Paragraph Architecture
+Material-magic imagery. The druid's transformation starts with her feet (physical grounding) and her eyes (body horror). The cliff "leans in" — an impossible physical action described in concrete terms. The stone being is described through its body parts: eyes, mouth. Every magical effect is physical.
 
-The manuscript rarely builds long argumentative paragraphs.
-It prefers functional blocks with one dominant task.
+**Why it works:** Magic could be described as "channeling arcane energy" or "tapping into mystical forces." Instead it is described as a cliff moving, a body changing, and a stone creature's face. The reader fears the magic because they can picture it. The orcs flee, and the reader believes it because the being has red pit eyes and a gaping mouth — not because the text says the magic was powerful.
 
-### Most common paragraph jobs
+### The pattern
 
-1. State the thing
-2. State what it means
-3. State how it works
-4. State what limits or exceptions matter
+Epigraphs show. They name. They ground in body. They end on image or action. They never moralize, summarize, or explain their own significance. They trust the reader to extract the theme.
 
-### Typical paragraph lengths
+## The Flavor-Exposition Voice
 
-- Fiction opener: 1-4 sentences
-- Flavor explanation: 2-5 sentences
-- Rules paragraph: 1-4 sentences
-- Item description: 2-4 sentences
-- Example: 3-7 sentences
+### What it is
 
-If a paragraph tries to define, justify, exemplify, and caveat at once, it usually drifts away from the manuscript norm.
+Paragraphs that establish world conditions, cultural facts, or subsystem contexts. They open with a fact and turn quickly toward player relevance.
 
-### Common paragraph patterns
+### Passage analysis: Economy
 
-#### Statement -> consequence
+> There are no mints in the Ravenlands — and no banks either. There are no agreed-upon exchange rates, no standardized price-lists, and no coins verified by a royal stamp. Markets in the Ravenlands run like early medieval exchanges: local, personal, and shaped by scarcity more than coin.
 
-Best for:
+Three sentences. The first two strip away modern assumptions. The third replaces them with a single concrete comparison: early medieval exchanges. The reader now knows the entire economic register of the world.
 
-- gear
-- world conditions
-- subsystem introductions
+**Why it works:** AI would write three paragraphs explaining the economic system's design philosophy. The manuscript handles it in three sentences because each sentence does maximum work. The em dashes in sentence one create a natural pause that emphasizes the absence. The list in sentence two is exhaustive enough to be convincing. The comparison in sentence three is specific enough to be immediate.
 
-Shape:
+### Passage analysis: Magic introduction
 
-- sentence one names the thing plainly
-- sentence two gives use, consequence, or cost
+> Casting a spell requires a great deal of mental exertion and requires that you spend one or more WP. The amount of WP you need to spend is listed with the spell you are casting.
 
-#### Definition -> procedure -> exception
+Two sentences. The first carries flavor ("mental exertion") and rule (spend WP) in one clause. The second is pure instruction. No buildup. No explanation of why WP exists. No praise of the system.
 
-Best for:
+**Why it works:** The flavor is earned by being brief. "Mental exertion" is two words, not a paragraph about the nature of magical fatigue. The rule follows immediately. The reader does not wait for the prose to finish being atmospheric before learning what to do.
 
-- core rules
-- action economy
-- recovery rules
-- damage rules
+### The pattern
 
-Shape:
+Flavor exposition anchors the reader quickly, points toward rules relevance, and does not linger. One sentence of world truth, one or two sentences of game consequence. The ratio of atmosphere to instruction is roughly 1:2.
 
-- define term
-- teach process
-- add exception only if necessary
+## The Rules Voice
 
-#### Condition -> pressure -> player response
+### What it is
 
-Best for:
+Precise, front-loaded, compressed. Defines terms before using them. Proceeds linearly: definition → procedure → exception. Uses game terms consistently without variation.
 
-- journeys
-- scarcity
-- encumbrance
-- weather
-- camp procedure
+### Passage analysis: Initiative
 
-Shape:
+> In combat, and other situations where it matters who acts first, all the PCs and their adversaries each draw an initiative card. These cards determine the order in which everyone acts.
 
-- establish what presses on the characters
-- show the danger or cost
-- imply or state what players must do
+Two sentences. First defines the trigger (conflict). Second states the effect (order of actions). No philosophical preamble. No "let's look at how initiative works."
 
-#### Description -> distinction
+### Passage analysis: Actions
 
-Best for:
+> On your turn in the round, you can perform one slow action and one fast action, or two fast actions. Slow actions include attacking, casting spells, and other major efforts. Fast actions include drawing a weapon, moving, or using a talent.
 
-- weapons
-- items
-- kin and profession intros
+Three sentences, three jobs: the rule, examples of slow, examples of fast. The definitions teach through exemplification, not through abstraction. "Major efforts" is the only abstract term, and it follows two concrete examples.
 
-Shape:
+**Why it works:** The reader can act on this information in the same sentence they read it. They do not need to interpret an underlying design principle — they know what they can do.
 
-- describe the thing materially
-- clarify what makes it different from adjacent options
+### The pattern
 
-## Sentence Length And Shape
+Rules prose is radically front-loaded. The answer comes first, the context second, the exception last. If a rule can be stated in one sentence, it is stated in one sentence. Examples are concrete and brief. No design commentary intrudes.
 
-The manuscript relies on controlled variation rather than one default sentence length.
+## The Mixed Bridge Voice
 
-### Short sentences
+### What it is
 
-Use for:
+The register that moves from world truth to game operation in a single passage. This is the most difficult register to write and the most common site of AI failure.
 
-- definitions
-- warnings
-- hard tonal pivots
-- endings with force
+### Passage analysis: Journey opening
 
-Typical effect:
+> The Blood Mist has lifted, and a new era is upon the land. You are finally free to leave your homes and travel far and wide through the Forbidden Lands.
 
-- certainty
-- weight
-- speed
+World myth and game state in two sentences. "The Blood Mist has lifted" is a setting fact. "You are finally free to travel" is a game permission. The transition is invisible because both sentences share the same world.
 
-### Medium sentences
+### Passage analysis: Combat introduction
 
-Use for:
+> Life as an adventurer is hard and often violent. Death can come quickly, be it from a sword, a fall, or an arrow. Before you enter combat, you should always ask yourself: Is it worth it?
 
-- most rules explanation
-- practical flavor
-- consequences and comparisons
+Three sentences. The first is world truth. The second is game reality (these are the damage sources). The third is player advice delivered in the manuscript's voice. "Is it worth it?" teaches the game's lethality design more efficiently than any paragraph of explanation.
 
-Typical effect:
+**Why it works:** The bridge works because the flavor sentences ARE the rules introduction. "Death can come quickly from a sword, a fall, or an arrow" is simultaneously atmospheric (you will die violently) and mechanical (here are three damage sources you will encounter). The two frequencies — narrative and mechanical — share the same sentence.
 
-- clarity with enough room for texture
+### The pattern
 
-### Long sentences
+The best bridges make the world truth and the game truth identical. "The Blood Mist has lifted" means both "the curse is gone" and "travel mechanics are now active." This duality is what AI cannot easily reproduce, because AI tends to separate flavor and rules rather than fusing them.
 
-Use for:
+## The Item Voice
 
-- scene-setting
-- cumulative material detail
-- one extended causal or descriptive thought
+### What it is
 
-Constraint:
+Physical, material, tactile. The writer has held the object. The description names what it is made of, what it weighs, and what happens when it breaks.
 
-- they still need concrete clauses
-- they must not dissolve into ornamental fog
+### Passage analysis: Makeshift Tools
 
-### Preferred openings
+> A short shovel, a hand pick, a hammer, a pry-iron, a few wedges, nails, cord, scraps of leather, a knife, a flask of oil. Enough to dig, split, or lever most things. None of it is fine, and none of it is meant to last.
 
-The manuscript often opens sentences with:
+Three sentences. The first is a pure inventory — every item named, no item glamorized. The second states function. The third states quality. The reader knows exactly what this kit is: ugly, useful, and expendable.
 
-- the object
-- the condition
-- the action
-- the world fact
+**Why it works:** The inventory list does the atmospheric work. The reader pictures a worn satchel of crude tools because the words are crude tools: shovel, pick, nails, cord, scraps. No adjective is needed because every noun already carries texture and weight.
 
-Less often with:
+### The pattern
 
-- heavy subordinate clauses
-- self-conscious throat clearing
-- abstract commentary about what the text is doing
+Items are described from the outside in: what you see, what it does, what it costs you. The description proceeds from material to function to limitation. The reader should close the description knowing what they are holding and what will go wrong with it.
 
-### Preferred endings
+## The Example Voice
 
-Many strong sentences end on:
+### What it is
 
-- a material noun
-- a bodily consequence
-- a hard verb
-- a place or object with weight
+Named characters, concrete situations, teaching through consequence.
 
-Weak endings usually trail off into:
+### Passage analysis: Combat example
 
-- abstract qualifiers
-- explanatory mush
-- generic fantasy mood words
+> Nirmena the huntress and Tyrgar the dwarf are leaving a ruin with a handful of cheap gems when three orcs step out of the brush.
 
-## Diction
+One sentence. Two characters. A situation. A threat. The example is already a story — the reader wants to know what happens.
 
-The lexicon favors weight, craft, weather, terrain, blood, hunger, strain, and use.
+The example then walks through initiative, actions, damage, and consequences in sequence. Each rule hook is tied to a character doing something: "Nirmena spends her slow action to shoot." Not: "The character uses the ranged attack option."
 
-### Preferred word fields
+**Why it works:** AI examples sound like: "Player A declares an attack using the Melee Combat skill." Manuscript examples sound like: "Tyrgar swings his axe." The difference is that the manuscript example creates a fiction the reader inhabits. The rules are learned because the reader cares about whether Tyrgar hits, not because the rules are being demonstrated.
 
-- body: blood, gut, hand, bone, lung, scar, breath, teeth
-- craft: haft, edge, grip, cord, nails, iron, hide, tar
-- travel: mire, ford, ridge, rain, frost, trail, pack
-- ruin and survival: rot, ash, soot, hunger, burden, cold
+### The pattern
 
-### Preferred verbs
+Name the character, not the player. Use character actions, not system operations. Show the consequence, not just the roll. Close the example when the teaching is done — do not narrate further.
 
-- cut
-- drag
-- bind
-- wrench
-- bleed
-- haul
-- cling
-- split
-- stalk
-- brace
+## Chapter-Level Voice Shifts
 
-### Words and modes that usually drift
+The voice adjusts by chapter while staying within the same family.
 
-- modern therapeutic framing
-- corporate training tone
-- legalistic overqualification
-- faux-archaic theater
-- high-epic inflation without physical grounding
+| Chapter | Temperature | Dominant register |
+|---|---|---|
+| 01 Front Matter | Warm-dark, inviting | Fiction opener + mixed bridge |
+| 02 Your Adventurer | Neutral-warm, practical | Flavor exposition + rules |
+| 03 Skills | Cool, precise | Rules + definitions |
+| 04 Talents | Cool-warm, dense | Rules + flavor bridges |
+| 05 Combat | Harsh, compressed | Rules + examples |
+| 06 Critical Injuries | Cold, clinical-honest | Tables + consequences |
+| 07 Magic | Warm-dark, wonder-adjacent | Fiction + rules + bridges |
+| 08 Journeys | Weather-textured, procedural | Mixed bridge + rules |
+| 09 Stronghold | Practical, building-focused | Rules + item descriptions |
+| 10 Gear | Grounded, tactile | Item description + tables |
+| 11 Appendix | Reference, minimal | Tables + compressed rules |
 
-Replace abstract phrasing with bodily, material, or procedural phrasing whenever possible.
+Match the temperature of the chapter you are writing for. A talent description should not sound like a journey passage. A critical injury should not sound like a magic spell.
 
-## Explanatory Text
+## Paragraph-Level Forensics
 
-The book explains enough for use, not enough for lecture.
+### How to analyze a manuscript paragraph
 
-### What explanatory text should do
+1. **Name its job.** What is this paragraph for? Define? Describe? Warn? Bridge? If it does two jobs, note the transition point.
 
-- define the mechanic
-- clarify why the reader should care
-- connect rule to existing procedure
-- prevent a likely table mistake
+2. **Map its shape.** Does it open broad and narrow? Open narrow and broaden? Open with definition and proceed to exception? Open with condition and proceed to consequence?
 
-### What it should not do
+3. **Count its sentences.** Manuscript paragraphs in rules chapters average 2-4 sentences. In flavor chapters, 2-3. In talent/skill descriptions, 3-6 (denser content).
 
-- defend the author's design philosophy at length
-- narrate every edge case in advance
-- turn into advice-blog prose
-- repeat what a table or bullet list already made clear
+4. **Check the final sentence.** What does it land on? A hard fact? A practical warning? A use case? A danger? If it lands on a qualification, a restatement, or a soft summary, the paragraph was probably not written by the original authors.
 
-### Placement rule
+5. **Check for import signs.** Does the paragraph use vocabulary from another register? Does it reference design intent? Does it explain its own importance?
 
-Put explanatory prose:
+### Common paragraph shapes in the manuscript
 
-- before a table if the reader needs conceptual framing
-- after a definition if the reader needs a consequence explained
-- beside an exception only if omission would cause a live-play error
+**The hammer:** One or two sentences. Hits hard. Used for warnings, hard truths, chapter openers.
+Example: "Before you enter combat, you should always ask yourself: Is it worth it?"
 
-## Example Design
+**The tool:** Three to four sentences. Defines, explains, closes on practical guidance. The manuscript workhorse.
+Example: Most rules definitions follow this shape.
 
-Examples are not filler. They are miniature play demonstrations.
+**The window:** Two to three sentences. Opens a view into the world, then closes on game relevance. Used for flavor exposition.
+Example: The economy paragraph about Ravenlands markets.
 
-### Use an example when
+**The inventory:** One sentence listing multiple concrete items or conditions. Used for gear, ingredients, environmental details.
+Example: The Makeshift Tools description.
 
-- several small rules combine
-- timing matters
-- there is a likely false reading
-- the rule interacts with initiative, Quarter Days, recovery, resource dice, or magic power level
+## Sentence-Level Forensics
 
-### Do not use an example when
+### What makes a manuscript sentence strong
 
-- the rule is obvious from one sentence
-- the example merely restates the rule
-- the example is longer than the confusion it solves
+1. **Concrete subject.** The sentence starts with a thing, not with a condition or a meta-statement. "The mace..." not "It is worth noting that..."
 
-### Example structure
+2. **Active verb.** The subject does something. "You spend WP" not "WP is required to be spent."
 
-1. Name the acting character
-2. Establish the concrete situation
-3. State the roll or rule trigger
-4. State the result
-5. State the consequence in play
+3. **Weight at the end.** The sentence lands on a noun, a consequence, or a fact. "Hidden in his boot" ends on the physical. "...which serves to enhance the overall gameplay experience" ends on nothing.
 
-The best examples feel like moments in a campaign, not sterile demonstrations.
+4. **No trailing qualifiers.** The sentence does not soften after its core. "The blade cuts through armor" is complete. "The blade cuts through armor, though results may vary depending on circumstances" is AI.
 
-## Rules-Flavored Prose
+### Sentence length distribution
 
-This is the core register for most manuscript work.
+The manuscript uses three lengths:
 
-Characteristics:
+- **Short (4-12 words).** Definitions, warnings, tonal pivots. "Is it worth it?" "Dead is dead." "That is also why they fail."
 
-- concise
-- not dry
-- technically exact
-- unembarrassed by plain speech
+- **Medium (12-25 words).** The default. Rules explanations, flavor descriptions, example narration. Most sentences in the manuscript fall here.
 
-Checklist:
+- **Long (25-50 words).** Accumulated physical detail (inventory lists), complex conditional rules, fiction sentences building a scene. Used sparingly and only when the content earns the length.
 
-- can the GM run it without interpretation drift
-- does it use existing terms
-- does it avoid proposal-speak
-- does it preserve the book's hard tone
+The variation is functional. Short sentences follow long ones for impact. Long sentences earn their length through concrete detail, not through clause stacking.
 
-## Flavor-Forward Prose
+## What Makes The Prose Work As Fiction
 
-This is where many AI drafts fail by becoming too generic or too performative.
+This is the section that matters most. The original authors did not just follow style rules. They wrote fiction that happens to teach a game.
 
-Characteristics of successful flavor in this manuscript:
+### The world is treated as real
 
-- concrete first
-- image under control
-- grounded in use or danger
-- restrained emotion
+The manuscript never says "in this game" except in the most procedural contexts. It says "in the Ravenlands" or "among the Alderlanders" or simply states the condition as fact. The world is not presented as a construct. It is presented as a place where these rules apply.
 
-Characteristics of failed flavor:
+### Characters are people, not templates
 
-- too many adjectives
-- generic darkness
-- myth without body
-- mood detached from action
+Mormelan quotes Shakespeare. Haggamur spits on his blade. Nirmena has cheap gems and an attitude about orcs. Every named character in the manuscript exists as a person first and a game-mechanical illustration second.
 
-## Revision Tests
+### Danger is specific
 
-Before accepting a paragraph, test it against these questions:
+"A sword, a fall, or an arrow" — not "various threats." The manuscript lists the actual things that will kill you. This specificity makes the danger believable. Generic danger is not frightening.
 
-1. Could this sit beside the existing manuscript without sounding imported
-2. Did clarity survive the attempt at voice
-3. Did the text say more than the reader needs
-4. Did any modern or clinical vocabulary slip in
-5. If this is a rule, can it be run directly at the table
-6. If this is flavor, does it still point toward use, danger, or consequence
+### Humor earns its place
 
-## Common Failure Modes
+The epigraph humor is always in-character, always earned by the situation, and always brief. It never steps outside the world. It never winks at the reader. It never comments on the game as a game.
 
-### Failure: AI-generic fantasy
+### The prose trusts the reader
 
-Symptoms:
+The manuscript does not explain why rules exist. It does not praise its own design. It does not reassure the reader that everything will work out. It states the facts and moves on. This is the deepest fiction-craft principle in the book: respect for the reader's intelligence.
 
-- fog, shadow, whispers, ancient power, grim destiny
-- little procedural or material grounding
+## Where AI Imitation Fails
 
-Correction:
+Even when an AI has been instructed to match this voice, it consistently fails in these specific ways.
 
-- replace vague mood with body, terrain, weather, object, cost
+### The fiction-rules separation
 
-### Failure: rules blog voice
+AI writes three sentences of flavor, then switches to clinical rules voice. The manuscript holds both frequencies simultaneously. The fix is to make every flavor sentence point toward a rule and every rule sentence carry a trace of the world.
 
-Symptoms:
+### The absence of specific names
 
-- "basically"
-- "in other words"
-- "this means that"
-- too much teacherly paraphrase
+AI defaults to "the adventurer," "the character," "the player." The manuscript says "Nirmena," "Tyrgar," "Mormelan." Named characters carry weight that pronouns and generics cannot.
 
-Correction:
+### The fear of commitment
 
-- define once
-- state consequence
-- stop
+AI hedges: "may," "could," "potentially," "in some cases." The manuscript commits: "you will," "this costs," "the result is." The fix is to state facts and accept that game design is a series of definitive statements.
 
-### Failure: proposal logic leaking into manuscript prose
+### The impulse to explain significance
 
-Symptoms:
+AI adds a sentence at the end explaining why the preceding paragraph matters: "This makes combat one of the most engaging aspects of the game." The manuscript never does this. The reader determines significance.
 
-- visible design rationale in final text
-- editorial apology
-- "this version" wording
+### The decoration reflex
 
-Correction:
+AI adds an adjective or adverb to almost every noun and verb. The manuscript uses bare nouns and strong verbs. "The blade" is enough. "The sharp gleaming deadly enchanted blade" is five words of nothing.
 
-- write as if the rule always belonged there
+### The summary instinct
 
-### Failure: modern clinical language
-
-Symptoms:
-
-- contemporary medical, psychological, or institutional phrasing that jars against the book
-
-Correction:
-
-- keep anatomical truth where needed
-- rename toward the manuscript's older and harsher diction
+After presenting information, AI restates it in summary form: "In summary, combat in Forbidden Lands is fast, lethal, and requires careful planning." The manuscript never summarizes itself. The information is given once, clearly, and the section ends.
