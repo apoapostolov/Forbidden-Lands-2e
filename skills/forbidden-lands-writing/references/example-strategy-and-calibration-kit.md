@@ -155,3 +155,4 @@ It is to show why the new line is better in manuscript terms.
 For repo-grounded examples, use:
 
 - `rewrite-calibration-examples.md`
+- `multi-rule-sequence-calibration.md`

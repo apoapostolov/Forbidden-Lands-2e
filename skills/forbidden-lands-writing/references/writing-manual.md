@@ -258,6 +258,7 @@ Use this rubric:
 When the skill needs concrete examples rather than abstract guidance, load:
 
 - `rewrite-calibration-examples.md`
+- `multi-rule-sequence-calibration.md`
 
 Use that file to calibrate revision choices against real repo transformations before drafting new manuscript prose.
 

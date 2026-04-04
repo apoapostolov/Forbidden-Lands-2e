@@ -65,6 +65,10 @@ Read these on demand:
   - repo-grounded before-and-after rewrites
   - diction and structure change notes
   - promotion guidance from proposal prose to manuscript prose
+- `references/multi-rule-sequence-calibration.md`
+  - combat, journey, and recovery sequence examples
+  - order-of-operations teaching rules
+  - guidance for short playable example scenes
 - `references/writing-manual.md`
   - unified research-grade writing manual
 
