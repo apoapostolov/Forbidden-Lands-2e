@@ -844,7 +844,7 @@ You can meld your mind with that of a hawk and gain its inhuman sight. You can s
 ✦ **DURATION**: Quarter Day
 ✦ **INGREDIENT**: A tame animal (not consumed)
 
-You will be alerted if anyone trespasses within an area, even while you sleep, as long as there are animals in the area that can observe the intruder. If anyone enters roll animal handling as your scout roll, and also add one automatic x. You may give some basic criteria, like only warn me if the size is at least that of a wolf. Extra Power Levels can be used to increase range or double the duration.
+You will be alerted if anyone trespasses within an area, even while you sleep, as long as there are animals in the area that can observe the intruder. If anyone enters roll animal handling as your scout roll, and also add one automatic ⚔️. You may give some basic criteria, like only warn me if the size is at least that of a wolf. Extra Power Levels can be used to increase range or double the duration.
 
 #### BEAR'S CLAW
 

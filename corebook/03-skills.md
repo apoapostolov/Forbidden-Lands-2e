@@ -296,7 +296,7 @@ To be able to defend yourself with a weapon in hand is important to all adventur
 
 You often have to make your own gear in the Forbidden Lands, and repair it if it breaks. To do so requires the _CRAFTING_ skill.
 
-REPAIR: Repairing a broken item generally takes a few hours and a successful _crafting_ roll. If the roll succeeds, the item is repaired. If the item has a Gear Bonus, it will increase one step for every x rolled. You cannot go above the original Gear Bonus. If the roll fails, the Gear Bonus is permanently decreased to the current level. If the Gear Bonus has been decreased to zero and the repair fails, the item is permanent ly destroyed. Advanced items require specific talents to repair (see the boxed text).
+REPAIR: Repairing a broken item generally takes a few hours and a successful _crafting_ roll. If the roll succeeds, the item is repaired. If the item has a Gear Bonus, it will increase one step for every ⚔️ rolled. You cannot go above the original Gear Bonus. If the roll fails, the Gear Bonus is permanently decreased to the current level. If the Gear Bonus has been decreased to zero and the repair fails, the item is permanent ly destroyed. Advanced items require specific talents to repair (see the boxed text).
 
 CRAFT: Creating new items requires far more work than repairing existing ones does. It requires a _CRAFTING_ roll (and the right talent, for ADVANCED items) just like repairing, but you also need raw material, in most cases special tools, and usually a lot more time. Some items are very complicated to craft and the roll will be modified negatively. All these requirements and prerequisites can be found in the gear tables in Chapter 9. Note that some raw materials might be items which in turn must be crafted.
 
