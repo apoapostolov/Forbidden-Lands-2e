@@ -272,6 +272,14 @@ There are several actions to choose from in close combat, all of which are descr
 
 When you attack an aware opponent in close combat, they can **DODGE** or **PARRY** to avoid being hit. The defender must declare if they are going to **DODGE** or **PARRY** before you roll for your attack. **DODGE** and **PARRY** are called reactive actions, since they are performed immediately, and they break the normal initiative order in the round. However, they do count to ward your two available actions in the round (one slow and one fast action). For every reactive action you perform, you get one less action when it is your turn, and once you have used both your actions during the round, you can no longer _dodge_ or _parry_ (talents can modify this, however). _Dodging_ and _parrying_ in close combat are technically not opposed rolls, and they can be pushed.
 
+#### IMMEDIATE ATTACKS
+
+Some actions and talents let you make one attack outside your turn. You can make only one such attack in a round, no matter what triggers it. If you have already made an immediate attack, you cannot make another until the start of your next turn. This includes attacks from **BRACE**, **INTERCEPT**, **RIPOSTE**, or any similar rule. A failed **RETREAT** still gives the enemy a free attack, but it does not change this limit. You can still **DODGE** or **PARRY** as normal unless a rule says otherwise.
+
+**EXAMPLE**
+
+Kasta braces her spear when the first raider charges. The point takes him in the chest, and that is her one immediate attack for the round. Later, another raider exposes himself, but Kasta cannot also intercept him. She has already spent her outside-turn strike.
+
 #### MARK YOUR ACTIONS
 
 Because reactive actions break the initiative order, it can be hard to keep track of how many actions the combatants have performed. A tip is to mark this by rotating a token or note by 90 degrees for every performed action. Turn it to the left for a fast action and to the right for a slow action, and all the way around 180 degrees once both actions in the turn are used up.
@@ -318,9 +326,9 @@ Because reactive actions break the initiative order, it can be hard to keep trac
 
 **CUT IN / BACK:** You rush inside the other weapon's reach, or step away to open the distance again. This is a FAST action and uses _move_. Most actions and talents interact only with the **CUT IN** side of this action. Use the **BACK** side when you want to widen the gap. If you succeed, you close to the distance your weapon needs, or step back to your own reach. Against a **LONG-REACH** weapon, your CUT IN roll is at -1. If you fail, you stay where you were.
 
-**BRACE:** Requires a **POINTED** weapon with the **POLEARM** or **LONG-REACH** feature. You set the point and wait for the rush. Until the start of your next turn, the first enemy who moves into your reach by _run_, _charge_, _retreat_, or a successful **CUT IN** roll triggers an immediate **STAB** attack from you before their own action resolves. This attack does not cost another action and can be **PARRIED** or **DODGED** as normal. If the attack deals any 🩸, the target must stop where the blow caught them unless they spend 1 WP to press through. You cannot both **BRACE** and **INTERCEPT** in the same round.
+**BRACE:** Requires a **POINTED** weapon with the **POLEARM** or **LONG-REACH** feature. You set the point and wait for the rush. Until the start of your next turn, the first enemy who moves into your reach by _run_, _charge_, _retreat_, or a successful **CUT IN** roll triggers an immediate **STAB** attack from you before their own action resolves. This attack does not cost another action and can be **PARRIED** or **DODGED** as normal. If the attack deals any 🩸, the target must stop where the blow caught them unless they spend 1 WP to press through. This counts as your one immediate attack outside your turn.
 
-**INTERCEPT:** You prepare a reactive stance and wait for the opening. During your turn, you spend both your FAST and SLOW actions. Until the start of your next turn, when the trigger you are prepared for happens, you may make one **ATTACK** or **SHOOT** roll before the enemy's action resolves. The attack can be **PARRIED** or **DODGED** as usual if the enemy could see it coming. If the attack deals any 🩸, the target must stop where the blow lands unless they spend 1 WP to press through. After using **INTERCEPT**, you cannot **PARRY** or **DODGE** until the start of your next turn.
+**INTERCEPT:** You prepare a reactive stance and wait for the opening. During your turn, you spend both your FAST and SLOW actions. Until the start of your next turn, when the trigger you are prepared for happens, you may make one **ATTACK** or **SHOOT** roll before the enemy's action resolves. The attack can be **PARRIED** or **DODGED** as usual if the enemy could see it coming. If the attack deals any 🩸, the target must stop where the blow lands unless they spend 1 WP to press through. This counts as your one immediate attack outside your turn. After using **INTERCEPT**, you cannot **PARRY** or **DODGE** until the start of your next turn.
 
 > Stop where the blow lands means the attack fixes the distance between you and that enemy at your weapon's reach. A successful **BRACE** with a **POLEARM** can hold the enemy at _Long-Reach_, out of sword range.
 
@@ -453,11 +461,11 @@ The features used in the weapon tables are explained below.
 
 #### WEAPON QUALITY
 
-If you want deeper realism, apply one of these quality tiers to any weapon:
+Weapons wear with use, and some weapons are status symbols passed by generations. If you want finer grain, apply one of these quality tiers to any weapon:
 
 - **Crude:** -1 BONUS (minimum +0). Breaks if its Gear Bonus is ever reduced to zero.
 - **Standard:** Use the table as written.
-- **Fine:** +1 BONUS, cost x2, and supply shifts one step rarer. The +1 BONUS also applies to MANIPULATION rolls when the fine weapon is displayed as a status symbol.
+- **Fine/Masterwork:** +1 BONUS, cost x2 or more, and supply shifts one step rarer. The +1 BONUS also applies to MANIPULATION rolls when the fine weapon is displayed as a status symbol.
 
 Fine weapons require a specialist and proper tools; crude weapons can be made with minimal facilities. If a talent (such as SMITH) allows crafting fine weapons without added cost, the status benefit still applies.
 
@@ -469,9 +477,11 @@ Fine weapons require a specialist and proper tools; crude weapons can be made wi
 
 **BRITTLE/FRAGILE:** The item takes one point of item damage on any item die 💀, even if the attack wasn’t pushed or armor wasn’t pierced. Brittle items can’t be repaired. A character that breaks from a misfire takes the slash critical injury result 11–16.
 
-**BURNING:** If the attack deals damage and you roll three ⚔️ on the attack roll, the target catches fire. The target takes 1 point of damage at the end of their turn until they succeed at a MOVE roll (slow action) to put out the flames.
+**BURNING:** If the attack deals damage and you roll three ⚔️ on the attack roll, the target catches fire. The target is wracked with pain (-1 to all rolls) and takes 1 point of damage at the end of their turn until they succeed at a MOVE roll (slow action) to put out the flames.
 
 **CHAINED:** Opponents suffer a -2 penalty to PARRY.
+
+**FLEXIBLE:** When a target uses a shield to PARRY this weapon, reduce the shield bonus by 1, to a minimum of 0. This does not affect parries made with weapons.
 
 **EDGED:** Enables SLASH attacks and uses the Slash critical injury table. SLASH attacks grant the defender +2 to DODGE.
 
@@ -482,6 +492,8 @@ Fine weapons require a specialist and proper tools; crude weapons can be made wi
 **HOOK:** This weapon can be used for the SHOVE action.
 
 **LIGHT:** Counts as a light weapon for talents and other rules that reference light weapons.
+
+**HALF-HAND:** This is a sword-handling technique. As a FAST action, you may shorten your grip and shift the weapon one band inward. The weapon stays at that shorter reach until you spend a FAST action to extend it again. You can only move one band at a time.
 
 **LOAD:** You must spend a SLOW action to reload before the weapon can be fired again.
 
@@ -510,6 +522,8 @@ Fine weapons require a specialist and proper tools; crude weapons can be made wi
 **READY:** You must READY the weapon before shooting (see READY WEAPON).
 
 **SHIELD-BREAKER:** You may use a FAST attack called the STRIKE option when using hidden combinations. Each non-parried/uncountered ⚔️ causes item damage. These weapons receive no penalty when used to break wooden objects like doors. The GM can decide other obstacles take half damage against such inanimate objects.
+
+**SMASHING:** Weapons with this feature require Strength + Might 5 or more. When this weapon hits with 3+ ⚔️, it becomes a smashing hit. If the target wears armor, that armor loses 1 Armor Rating. If the attack is PARRIED, the weapon or shield used to PARRY it takes 1 item damage instead. Against unattended objects, count the rolled ⚔️ twice for damage and destruction.
 
 **SHORT-REACH:** This weapon does not extend your reach. You must already be inside the other weapon's reach to attack with it.
 
@@ -543,18 +557,18 @@ Fine weapons require a specialist and proper tools; crude weapons can be made wi
 | Broadsword/Armingsword       | 1H   | +2    | 2      | Arm   | 10   | Edged, Pointed, Parrying                               |
 | Rapier                       | 1H   | +2    | 2      | Arm   | 20   | Tough, Edged, Pointed, Parrying                        |
 | Tuck (Estoc)                 | 2H   | +2    | 2      | Arm   | 24   | Pointed, Pierce Armor                                  |
-| Bastard Sword (1H Longsword) | 1H   | +2    | 2      | Arm   | 18   | Tough, Edged, Pointed, Parrying                        |
-| 2H Longsword/Claymore        | 2H   | +2    | 3      | Arm   | 25   | Heavy, Edged, Pointed, Parrying                        |
-| Greatsword                   | 2H   | +2    | 3      | Arm   | 40   | Tough, Heavy, Edged, Pointed, Parrying                 |
+| Bastard Sword (1H Longsword) | 1H   | +2    | 2      | Arm   | 18   | Tough, Edged, Pointed, Parrying, Half-Hand             |
+| 2H Longsword/Claymore        | 2H   | +2    | 3      | Arm   | 25   | Heavy, Edged, Pointed, Parrying, Half-Hand             |
+| Greatsword                   | 2H   | +2    | 3      | Arm   | 40   | Tough, Heavy, Edged, Pointed, Parrying, Half-Hand      |
 | Handaxe                      | 1H   | +1    | 2      | Arm   | 2    | Edged, Hook, Shield-breaker                            |
 | Battleaxe                    | 1H   | +1    | 2      | Arm   | 6    | Tough, Heavy, Edged, Hook, Shield-breaker              |
 | Two-Handed Axe               | 2H   | +2    | 3      | Arm   | 12   | Heavy, Edged, Hook, Shield-breaker                     |
 | Mace                         | 1H   | +1    | 2      | Arm   | 4    | Tough, Blunt, Shield-breaker                           |
 | Morningstar                  | 1H   | +2    | 2      | Arm   | 8    | Tough, Blunt                                           |
 | Warhammer                    | 1H   | +2    | 2      | Arm   | 12   | Blunt, Pick, Hook, Shield-breaker                      |
-| Maul/Heavy Warhammer         | 2H   | +1    | 3      | Arm   | 22   | Tough, Heavy, Blunt, Pick, Hook, Shield-breaker        |
+| Maul/Heavy Warhammer         | 2H   | +1    | 3      | Arm   | 22   | Tough, Heavy, Blunt, Pick, Hook, Shield-breaker, Smashing        |
 | Flail                        | 1H   | +2    | 2      | Arm   | 16   | Blunt, Chained                                         |
-| Two-Handed Flail             | 2H   | +2    | 2      | Near  | 20   | Tough, Blunt, Chained                                  |
+| Two-Handed Flail             | 2H   | +2    | 2      | Near  | 20   | Tough, Blunt, Chained, Smashing                                  |
 | Rust Censer                  | 1H   | +1    | 2      | Arm   | 16   | Blunt, Chained, Burning                                |
 | Wooden Club                  | 1H   | +1    | 1      | Arm   | 1    | Blunt                                                  |
 | Large Wooden Club            | 2H   | +1    | 2      | Arm   | 2    | Heavy, Blunt                                           |
@@ -565,8 +579,8 @@ Fine weapons require a specialist and proper tools; crude weapons can be made wi
 | Halberd/Bill                 | 2H   | +3    | 2      | Near  | 30   | Heavy, Pointed, Edged, Hook, Polearm, Long-reach       |
 | Poleaxe                      | 2H   | +3    | 2      | Near  | 30   | Heavy, Pointed, Edged, Hook, Polearm, Pick, Long-reach |
 | Trident                      | 2H   | +1    | 2      | Near  | 6    | Pointed, Hook, Trapping, Long-reach                    |
-| Whip                         | 1H   | +1    | 1      | Near  | 2    | Light, Edged, Hook, Chained, Armor Rating x2           |
-| Bladed Whip                  | 1H   | +1    | 1      | Near  | 6    | Light, Edged, Hook, Chained                            |
+| Whip                         | 1H   | +1    | 1      | Near  | 2    | Light, Edged, Hook, Chained, Flexible, Armor Rating x2           |
+| Bladed Whip                  | 1H   | +1    | 1      | Near  | 6    | Light, Edged, Hook, Chained, Flexible                            |
 
 ### RANGED WEAPONS
 

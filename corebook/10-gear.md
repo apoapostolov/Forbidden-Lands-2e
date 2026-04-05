@@ -277,9 +277,9 @@ The rapier is a long, slender civilian sword built for thrusting. Its blade is n
 
 #### LONGSWORD
 
-The longsword is designed for fighting in two hands, so it has a wide grip commonly three hand-widths wide. The blade is between 35-44 inches long. It is still slender and well-balanced, meaning it can be gripped in one hand for extending reach for single attacks or lunges, or for grappling with the off-hand, but it is not sustainable to wield as a one-handed weapon over time.
+The longsword is designed for fighting in two hands, so it has a wide grip commonly three hand-widths wide. The blade is between 35-44 inches long. It is still slender and well-balanced, meaning it can be gripped in one hand for extending reach for single attacks or lunges, or for grappling with the off-hand, but it is not sustainable to wield as a one-handed weapon over time. Sword schools also teach half-handing, shortening the grip to work the blade in tight spaces when the fight closes.
 
-The bastard sword is a variant of the longsword with a slightly shorter grip and blade, a hybrid between an arming sword and a longsword. The grip is about two hand-widths wide, and the blade has a lighter taper toward a more defined tip, adding mass toward the cutting edge at the expense of some stabbing efficiency. The choice between bastard swords and longswords is usually a matter of personal preference and fighting style, but the shorter bastard sword is a bit less cumbersome in the field while remaining effective against monsters and beasts.
+The bastard sword is a variant of the longsword with a slightly shorter grip and blade, a hybrid between an arming sword and a longsword. The grip is about two hand-widths wide, and the blade has a lighter taper toward a more defined tip, adding mass toward the cutting edge at the expense of some stabbing efficiency. The choice between bastard swords and longswords is usually a matter of personal preference and fighting style, but the shorter bastard sword is a bit less cumbersome in the field while remaining effective against monsters and beasts. Its hybrid grip also makes half-handing easy when the line breaks and the steel has to work close.
 
 | Type          | Length   | Grip Width     | Description                                                       |
 | ------------- | -------- | -------------- | ----------------------------------------------------------------- |
@@ -293,7 +293,7 @@ Two-handed longswords and claymores are long-bladed swords meant for powerful cu
 
 #### TWO-HANDED SWORD
 
-The two-handed sword, or greatsword, is too heavy to wield in one hand. It resembles the longsword, but is longer and heavier, with a blade length of between 45-55 inches, and a grip that is usually four hand-widths wide. Greatswords often have a ricasso, an unsharpened length of blade close to the guard, sometimes with a second guard above it. This allows half-swording, gripping the blade to handle the weapon more like a polearm and give more power to thrusts and parries.
+The two-handed sword, or greatsword, is too heavy to wield in one hand. It resembles the longsword, but is longer and heavier, with a blade length of between 45-55 inches, and a grip that is usually four hand-widths wide. Greatswords often have a ricasso, an unsharpened length of blade close to the guard, sometimes with a second guard above it. This allows half-swording, gripping the blade to handle the weapon more like a polearm and give more power to thrusts and parries. It is a sword-handling technique, not a trick for polearms.
 
 #### TUCK
 

@@ -7,8 +7,6 @@ All notable changes to the Forbidden Lands Corebook will be documented in this f
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
-
 ## [1.0.2] - 2026-04-04
 
 ### Added
@@ -17,6 +15,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+- Reworked close-combat reach into clear range bands, with `CUT IN / BACK`, `LONG-REACH`, and `BRACE` handling the fight for distance.
+- Added `HOLD FAST`, `INTERCEPT`, and `LOCK SHIELDS` as combat options, and tightened how `BRACE` and `POLEARM` work at close range.
+- Added a one-immediate-attack limit outside your turn, so `BRACE`, `INTERCEPT`, `RIPOSTE`, and similar triggers cannot all stack in the same round.
+- Added `HALF-HAND` as a sword-handling technique for bastard swords, longswords, and the heavier two-handed blades, alongside `FLEXIBLE` for whips and bladed whips and `SMASHING` for oversized brute weapons that can crush armor, shields, or gear on a strong hit, with a Strength + Might 5+ requirement.
+- Added optional NPC morale and rout rules with morale dice, fear breaks, trapped-fighter fear penalties, and a delay before the next check.
+- Clarified how monsters use reach, including passive `LONG-REACH` for large monsters and reach listed on monster attacks.
+- Updated polearm and spear handling so haft weapons, spears, and inside-range fallback attacks each have their own role.
 - Revised many critical injury labels in Chapter 6 to better match their actual recovery times while keeping the same mechanics, and rewrote several horror trauma names to fit the harsher low-tech tone of the setting.
 - Added Chapter 6 guidance for retiring a crippled but surviving adventurer with dignity, including the option to remain with the company as a follower or retainer NPC under the existing `1 XP` per session rule for retainers.
 - Reworked Chapter 6 physical critical injuries so `65` now means survivable catastrophe rather than automatic death, placed each permanent injury subtable directly after its matching critical injury table, added new acid/corrosion, cold/freeze, and swallow injury tables, and clarified how `LUCKY`, `PHYSICIAN`, `MEND WOUNDS`, and `REGENERATION` interact with lasting bodily ruin.
