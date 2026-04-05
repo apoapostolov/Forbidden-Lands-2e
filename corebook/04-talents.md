@@ -653,9 +653,15 @@ Your bodily grace amazes.
 
 Through countless fight or flight situations, you've harnessed your adrenaline to act calculated rather give in to your emotions. This talent allows you to gain special WP that are not added to your WP pool. You also can only have 1 special WP at the same time; extra are lost. Special WP must be spent until the end of your turn (your current turn if you gain it during your turn, or the end of your next turn if you gain it outside of your turn) or they are lost. You can also always burn that special WP to get 1 bonus die to an ATTACK or DODGE. Special WPs are lost at the end of a combat encounter.
 
+<<<<<<< HEAD
 - **✦ RANK 1**:\*\* When you take 2 or more damage from an enemy attack during combat, you gain 1 special WP.
 - **✦ RANK 2:** When you DODGE completely a monster attack during combat, you gain 1 special WP.
 - **✦ RANK 3**:\*\* The first time you BREAK an enemy opponent in combat during each round, you gain 1 special WP.
+=======
+- **✦ RANK 1:** When you take 2 or more damage from an enemy attack during combat, you gain 1 special WP.
+- **✦ RANK 2:** When you DODGE completely a monster attack during combat, you gain 1 special WP.
+- **✦ RANK 3:** The first time you BREAK an enemy opponent in combat during each round, you gain 1 special WP.
+>>>>>>> d644f87 (fix: correct formatting inconsistencies in talent descriptions)
 - **✦ RANK 4:** You can also have up to 2 special WP at the same time. You now lose only one special WP at the end of a turn instead of all of them. When you burn special WP, you gain 2 bonus nice to ATTACK or DODGE instead of one.
 - **✦ RANK 5:** You no longer treat WP gained from RANK 1 to 3 as special. They are added to your WP pool and not lost at the end of your turn or the end of the combat encounter.
 
@@ -696,6 +702,7 @@ You can extract active substances from plants and animals to create potions with
 
 Changed ingredients to not be as specifically tied to a certain monster and added more potions. You now always need at least a monster or group that together has 12+ Strength to have enough ingredients unless something else is mentioned. If you are missing just some Strength or have some in excess, your GM could allow you to roll with a -1 penalty per 2 points missing, or a +1 bonus per 3 points in excess.
 
+<<<<<<< HEAD
 | NAME OF POTION:\*\*    | NEEDS CAULDRON, WATER, HERBS AND THESE ITEMS:\*\*                                 |
 | ---------------------- | --------------------------------------------------------------------------------- |
 | Drops of Strength      | Heart of a humanoid with 18+ Strength                                             |
@@ -727,6 +734,39 @@ Changed ingredients to not be as specifically tied to a certain monster and adde
 - **✦ Cat's Reflexes**:\*\* 2 ranks in LIGHTNING FAST for a Quarter Day.
 - **✦ Pain Numb**:\*\* Gain 2 ranks in PAIN RESISTANT for a Quarter Day.
 - **✦ Dark Sight**:\*\* Gain the ability to see in darkness for a Quarter Day, but also a -2 penalty to SCOUTING while in daylight. Ability to see in darkness is lost for as long as anything blinds you.
+=======
+| NAME OF POTION | NEEDS CAULDRON, WATER, HERBS AND THESE ITEMS |
+| --- | --- |
+| Drops of Strength | Heart of a humanoid with 18+ Strength |
+| Elixir of Wisdom | Teeth from a monster that can change physically or mentally change it appearance |
+| Decoction of Cunning | Essence from a demon or group of demons with 18+ Strength |
+| Quick Nectar  | Feathers plucked from a monster or monster swarm |
+| Healing Water  | Blood from a monster with regenerative powers |
+| Longwalk | Ground bones from ghouls or more powerful undead |
+| Quenching Swig | Gall from a sea monster |
+| Bellyfull | Gastric juices from a monster that can dissolve just about anything |
+| Honey of Embers | Blood from a monstrous arthropod (exoskeletal creatures, like insects)  |
+| Elixir of Life | Blood from a dragon (not drake) with 24+ Strength |
+| Iron Juice | Scales from a monster or pulverized stone from a construct or group of constructs |
+| Healing Decoction | Blood from a monster with regenerative powers |
+| Refreshing Decoction | Slime from a mollusc / very slimy monster |
+| Calming Decoction | Blood from a monster made of different human/animal parts  |
+| Intoxicating Decoction | Acid from monster that has an acidic attack |
+| Porridge of Prophecy | Venom from a monster with a poisonous attack |
+| Instant Sobriety | Ichor from an at-least partially non-corporeal undead |
+| Everrun | Sap from a monstrous plant |
+| Neverdown | Heart or hearts from monstrous animals (like larger version of real life animals) |
+| Cat's Reflexes | Teeth from a cat or snake-like monster |
+| Pain Numb  | Essence from a demon or group of demons |
+| Dark Sight  | Ashes from the burnt bones of intelligent undead |
+
+- **✦ Instant Sobriety:** Cures the intoxicated condition.
+- **✦ Everrun:** Gain 2 ranks in ATHLETE for a Quarter Day.
+- **✦ Neverdown:** Gain 2 ranks in BERSERKER for a Quarter Day.
+- **✦ Cat's Reflexes:** 2 ranks in LIGHTNING FAST for a Quarter Day.
+- **✦ Pain Numb:** Gain 2 ranks in PAIN RESISTANT for a Quarter Day.
+- **✦ Dark Sight:** Gain the ability to see in darkness for a Quarter Day, but also a -2 penalty to SCOUTING while in daylight. Ability to see in darkness is lost for as long as anything blinds you.
+>>>>>>> d644f87 (fix: correct formatting inconsistencies in talent descriptions)
 
 ### AMBIDEXTROUS
 
@@ -754,18 +794,31 @@ Animals respect you.
 
 You can choose from the following categories when TRAINING an animal or monster.
 
+<<<<<<< HEAD
 - **✦ Tricks**:\*\* You have taught your animal some basic party tricks, like "Come," "Sit," "Play dead," "Roll over," "Bark," "Spin," "Drop it," and "Beg." The exact tricks it will know will vary depending on the animal. These tricks can be taught even without the Animal Whisperer talent.
 - **✦ Ride**:\*\* You can mount/ride the animal, and it will listen to your commands. This training is included for non-predatory animals like horses when they are tamed. It cannot be applied to animals that cannot physically be ridden.
 - **✦ War**:\*\* You no longer need to make an ANIMAL HANDLING roll to keep an animal from fleeing if it is wounded, there are loud noises, a heavy smell of blood, or there is general confusion around it. This training is only necessary for "prey animals" and not for predators.
+=======
+- **✦ Tricks:** You have taught your animal some basic party tricks, like "Come," "Sit," "Play dead," "Roll over," "Bark," "Spin," "Drop it," and "Beg." The exact tricks it will know will vary depending on the animal. These tricks can be taught even without the Animal Whisperer talent.
+- **✦ Ride:** You can mount/ride the animal, and it will listen to your commands. This training is included for non-predatory animals like horses when they are tamed. It cannot be applied to animals that cannot physically be ridden.
+- **✦ War:** You no longer need to make an ANIMAL HANDLING roll to keep an animal from fleeing if it is wounded, there are loud noises, a heavy smell of blood, or there is general confusion around it. This training is only necessary for "prey animals" and not for predators.
+>>>>>>> d644f87 (fix: correct formatting inconsistencies in talent descriptions)
 - **✦ War II:** Requires War. You have applied even more training for extreme situations so that it ignores fear attacks, being surrounded by fire, or hearing nearby powerful explosions.
 - **✦ Attack:** You spend a FAST action to have your animal to engage in the same zone and attack a target once. If you have multiple trained animals, you must take SLOW action to direct up to two of them.
 - **✦ Guard:** After giving the command, it will alert the owner (or wake them) to any presence of danger it perceives. It can also add a gear dice to a lookout's SCOUTING rolls.
 - **✦ Hunt:** When hunting, you can replace the SURVIVAL roll to find your prey with an animal handling roll and add one gear die to represent the animal.
 - **✦ Hunt II:** Requires Hunt. You can send out the animal to hunt independently. Roll your animal handling for the initial hunt roll, and add one gear dice to represent the animal. If you roll multiple x, reroll on the hunting table until an animal it can hunt is found. Any prey larger than your hunting animal will not be targeted; your hunting animal will then return empty-handed, but if it is smaller, it automatically succeeds. If the initial roll fails, the hunting mishap can result in your animal returning wounded.
+<<<<<<< HEAD
 - **✦ Track**:\*\* By letting your animal sniff at something that belongs to a target, it can track it by scent, following it up to a number of days equal to your animal handling roll.
 - **✦ Herd**:\*\* Automatically succeeds any rolls to heard animals.
 - **✦ Assist**:\*\* Can lead a blind target. You no longer have to make scouting rolls when traveling in darkness.
 - **✦ Skill Training**:\*\* You have repeatedly trained something so thoroughly that the animal gains a +1 bonus for one skill and your animal handling rolls when used. Can only be picked once per skill.
+=======
+- **✦ Track:** By letting your animal sniff at something that belongs to a target, it can track it by scent, following it up to a number of days equal to your animal handling roll.
+- **✦ Herd:** Automatically succeeds any rolls to heard animals.
+- **✦ Assist:** Can lead a blind target. You no longer have to make scouting rolls when traveling in darkness.
+- **✦ Skill Training:** You have repeatedly trained something so thoroughly that the animal gains a +1 bonus for one skill and your animal handling rolls when used. Can only be picked once per skill.
+>>>>>>> d644f87 (fix: correct formatting inconsistencies in talent descriptions)
 
 ### APOTHECARY
 
@@ -779,7 +832,11 @@ You know to some degree which plants and minerals affect the human body. This ta
 
 **EXTENDED OPTIONS**
 
+<<<<<<< HEAD
 - **✦ Narcotics**:\*\* Base Potency 2, but the GM can introduce new types of Narcotics with higher Potency. When taking a use, gain one WP up to once per Quarter of a Day, but this cannot take your Willpower above the Potency.
+=======
+- **✦ Narcotics:** Base Potency 2, but the GM can introduce new types of Narcotics with higher Potency. When taking a use, gain one WP up to once per Quarter of a Day, but this cannot take your Willpower above the Potency.
+>>>>>>> d644f87 (fix: correct formatting inconsistencies in talent descriptions)
 - **✦ Remedy for Disease:** Base Potency 4. Add bread to raw materials for mold extraction. Add potency dice to your daily endurance roll made to resist ongoing disease.
 - **✦ Restorative Salve:** Add honey to raw materials. Choose two attributes upon creating this:\*\* heal 1 point of damage to the first, but take one point of damage to the second. It can only be used once per Quarter Day, and it takes a turn (15 minutes) after it has been applied before it takes effect.
 
@@ -1121,7 +1178,11 @@ You have mastered the art of picking locks. You need some tools like a set of pi
 
 - **✦ RANK 1:** When you pick a lock, your SLEIGHT OF HAND roll is modified by +1.
 - **✦ RANK 2:** You can roll for SLEIGHT OF HAND to get out of chains or ropes even when you are bound.
+<<<<<<< HEAD
 - **✦ RANK 3:** When you pick a lock, you can add a D8 Artifact Die to your roll.\*\*
+=======
+- **✦ RANK 3:** When you pick a lock, you can add a D8 Artifact Die to your roll.
+>>>>>>> d644f87 (fix: correct formatting inconsistencies in talent descriptions)
 - **✦ RANK 4:** You have a keen SENSE of mechanical mechanisms. Whenever you or your party normally triggers a non-magical trap, roll scouting, including all bonuses from this talent; if you succeed, you will have noticed the trap before it had a chance to trigger.
 - **✦ RANK 5:** Replace the D8 die with a D12 die.
 
@@ -1223,8 +1284,13 @@ You are a master at finding the right path through woods and over mountains in t
 You know how to use surgical tools and can diagnose people's illnesses and tend to their wounds.
 
 - **✦ RANK 1:** Your healing roll is modified by +1 when you try to save someone's life or when you
+<<<<<<< HEAD
   apply long term care. You can replace a character's ENDURANCE roll against poison and disease with a roll you make for healing.
 - **✦ RANK 2:** You can add a D8 Artifact Die when you try to save someone's life or when you apply long term care. Also, if you fail a HEALING:\*\* HEAL OTHER roll, you get a second chance to make the roll if you spend 15-minutes to tend to the Broken person.
+=======
+apply long term care. You can replace a character's ENDURANCE roll against poison and disease with a roll you make for healing.
+- **✦ RANK 2:** You can add a D8 Artifact Die when you try to save someone's life or when you apply long term care. Also, if you fail a HEALING or HEAL OTHER roll, you get a second chance to make the roll if you spend 15-minutes to tend to the Broken person.
+>>>>>>> d644f87 (fix: correct formatting inconsistencies in talent descriptions)
 - **✦ RANK 3:** If someone suffers a permanent critical injury, then a successful care roll will change it from being permanent to healed. You must have applied initial care within 15 minutes after the injury was suffered for this to have any effect.
 - **✦ RANK 4:** Replace the D8 die with a D12 die.
 - **✦ RANK 5:** You automatically succeed any save someone's life and longtime care rolls.
@@ -1295,7 +1361,7 @@ You draw your weapon quicker than the enemy can blink. The Quickdraw talent appl
 - **✦ RANK 1:** You can draw a LIGHT weapon without spending an action. This includes picking up a weapon from the ground.
 - **✦ RANK 2:** As per RANK 1, but also applicable to normal weapons.
 - **✦ RANK 3:** As per RANK 2, but also applicable to HEAVY weapons.
-- ✦ **RANK 4:** Enemies suffer a -1 penalty to PARRY and DODGE attacks you make.
+- **✦ RANK 4:** Enemies suffer a -1 penalty to PARRY and DODGE attacks you make.
 - **✦ RANK 5:** Enemies with less Agility than you, cannot PARRY or DODGE your attacks.
 
 ### SAILOR
@@ -1352,7 +1418,7 @@ The hairs on the back of your neck stand up when enemies lurk in the bushes.
 - **✦ RANK 2:** When you spot an ambush or a sneak attack, you also see how many the attackers are, what kin they belong to, and what weapons they use.
 - **✦ RANK 3:** You can add a D8 Artifact Die to your SCOUT roll when you try to spot an ambush or a sneak attack.
 - **✦ RANK 4:** When you spot an ambush or sneak attack, you do it in such a way, so that you may ambush or sneak attack the opponent.
-- ✦ **RANK 5:** Replace the D8 die with a D12 die.
+- **✦ RANK 5:** Replace the D8 die with a D12 die.
 
 ### SMITH
 
@@ -1486,7 +1552,7 @@ You can travel on foot through the wilderness for a long time without stopping f
 
 - **✦ RANK 1:** Your ENDURANCE roll is modified by +1 when you force march. This applies to ENDURANCE rolls made to work a third shift per day. Failure means you suffer one point of damage to Agility and don't make any progress during the Quarter Day.
 - **✦ RANK 2:** Your ENDURANCE rolls for forced marches succeed automatically.
-- ✦ **RANK 3:** HIKING for a Quarter Day counts as REST for you.
+- **✦ RANK 3:** HIKING for a Quarter Day counts as REST for you.
 - **✦ RANK 4:** All your own and your party members rolls for scouting and endurance while traveling, receive a +1 modification.
 - **✦ RANK 5:** Entering a previously unexplored world map hexagon, even if your allies have explored it before, grants you 1 Willpower Point.
 
@@ -1494,12 +1560,16 @@ You can travel on foot through the wilderness for a long time without stopping f
 
 The blood runs hot in your veins. You can resist cold that would paralyze a lesser adventurer.
 
+<<<<<<< HEAD
 - **✦ RANK 1:** Your ENDURANCE rolls are modified by +1 when you roll to avoid becoming
   COLD.
+=======
+- **✦ RANK 1:** Your ENDURANCE rolls are modified by +1 when you roll to avoid becoming COLD.
+>>>>>>> d644f87 (fix: correct formatting inconsistencies in talent descriptions)
 - **✦ RANK 2:** You roll half as often as normal to avoid becoming COLD.
 - **✦ RANK 3:** You can keep another person warm with your own body. Your companion also gets a +1 modification to all rolls to avoid becoming COLD. You must be in physical contact with each other to achieve this effect.
 - **✦ RANK 4:** You can add a D8 Artifact Die when you and your companion rolls to avoid becoming cold.
-- **✦ RANK 5:** Replace the D8 die with a D12 die
+- **✦ RANK 5:** Replace the D8 die with a D12 die.
 
 ### WHIP FIGHTER
 
@@ -1507,8 +1577,13 @@ You have practiced for so long, so that a whip at this point almost feels like a
 
 - **✦ RANK 1:** Your attack rolls are modified by +1 when you fight with a whip.
 - **✦ RANK 2:** When taking a slow action to make a move roll, you can apply this bonus to that roll, as long as there is anything in reach you can make the whip cling to.
+<<<<<<< HEAD
 - ✦ **RANK 3:** You can add a D8 Artifact Die when you fight with a whip.
 - **✦ RANK 4:** You can perform a ranged grapple attacks with a whip. You do not fall prone or drop your whip, but you cannot use it for anything but to maintain the grapple and are otherwise considered fully engaged as if in the grapple yourself.
+=======
+- **✦ RANK 3:** You can add a D8 Artifact Die when you fight with a whip.
+- **✦ RANK 4:** You can perform a ranged grapple attacks with a whip. You do not fall prone or drop your whip, but you cannot use it for anything but to maintain the grapple and are otherwise  considered fully engaged as if in the grapple yourself.
+>>>>>>> d644f87 (fix: correct formatting inconsistencies in talent descriptions)
 - **✦ RANK 5:** Replace the D8 Artifact Die with a D10 die.
 
 ### WRESTLER
