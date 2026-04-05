@@ -250,7 +250,7 @@ Weapons fall into three length bands. They decide who must close, who keeps spac
 
 - **SHORT-REACH:** Knives, fists, and other short weapons can only attack if you are already inside the other weapon's reach.
 - **NORMAL REACH:** Standard swords and axes fight at _arm's length_.
-- **LONG-REACH:** Spears and polearms fight from _Near_ range and can keep enemies out.
+- **LONG-REACH:** Spears and polearms fight from _Near_ range and can keep enemies out. If an enemy gets inside _arm's length_, the weapon is badly awkward.
 
 To attack in close combat, you must already be at the right distance for your weapon: _arm's length_ for normal weapons, _Near_ for **LONG-REACH** weapons, and inside your opponent's reach for **SHORT-REACH** weapons. If you surprise them, you start there and can strike at once.
 
@@ -316,7 +316,7 @@ Because reactive actions break the initiative order, it can be hard to keep trac
 
 **RECOVER WEAPON:** If you pick up a dropped weapon at _arm's length_ without moving this round, it is a FAST action. If you moved this round, it is a SLOW action.
 
-**CUT IN:** You rush inside the other weapon's reach. This is a FAST action and uses _move_. If you succeed, you close to the distance your weapon needs. Against a **LONG-REACH** weapon, your roll is at -1. If you fail, you stay where you were.
+**CUT IN / BACK:** You rush inside the other weapon's reach, or step away to open the distance again. This is a FAST action and uses _move_. Most actions and talents interact only with the **CUT IN** side of this action. Use the **BACK** side when you want to widen the gap. If you succeed, you close to the distance your weapon needs, or step back to your own reach. Against a **LONG-REACH** weapon, your CUT IN roll is at -1. If you fail, you stay where you were.
 
 **BRACE:** Requires a **POINTED** weapon with the **POLEARM** or **LONG-REACH** feature. You set the point and wait for the rush. Until the start of your next turn, the first enemy who moves into your reach by _run_, _charge_, _retreat_, or a successful **CUT IN** roll triggers an immediate **STAB** attack from you before their own action resolves. This attack does not cost another action and can be **PARRIED** or **DODGED** as normal. If the attack deals any 🩸, the target must stop where the blow caught them unless they spend 1 WP to press through. You cannot both **BRACE** and **INTERCEPT** in the same round.
 
@@ -503,7 +503,7 @@ Fine weapons require a specialist and proper tools; crude weapons can be made wi
 
 **POINTED:** Enables STAB attacks and uses the Stab critical injury table. STAB attacks give the defender +2 to PARRY, while parrying with a weapon (not a shield) gives a -2 penalty.
 
-**POLEARM:** You can attack from NEAR range without engaging your opponent. When attacking a mounted opponent, you ignore the -1 penalty and can also add your item bonus when attempting to SHOVE a mounted opponent.
+**POLEARM:** This tag is for haft weapons such as halberds, bills, and poleaxes. They keep enemies from the lower range bands at bay until they **CUT IN**. If an enemy gets inside _arm's length_, the point is dead and you fight with the haft, butt, or back of the shaft: roll _melee_ at -2, deal 0 damage, and use the blunt critical injury table. When attacking a mounted opponent, you ignore the -1 penalty and can also add your item gear dice when attempting to SHOVE a mounted opponent.
 
 **RANGED (BLUNT/POINTED):** Uses the listed critical injury table when damage is dealt by a ranged attack.
 
@@ -559,12 +559,12 @@ Fine weapons require a specialist and proper tools; crude weapons can be made wi
 | Wooden Club                  | 1H   | +1    | 1      | Arm   | 1    | Blunt                                                  |
 | Large Wooden Club            | 2H   | +1    | 2      | Arm   | 2    | Heavy, Blunt                                           |
 | Staff                        | 2H   | +1    | 1      | Arm   | 1    | Blunt, Parrying, Hook                                  |
-| Short Spear                  | 1H   | +1    | 2      | Near  | 2    | Pointed, Polearm                                       |
-| Long Spear                   | 2H   | +2    | 2      | Near  | 4    | Pointed, Polearm, Long-reach                           |
-| Pike/Lance                   | 2H   | +3    | 2      | Near  | 12   | Heavy, Pointed, Polearm, Long-reach                    |
+| Short Spear                  | 1H   | +1    | 2      | Near  | 2    | Pointed, Long-reach                                    |
+| Long Spear                   | 2H   | +2    | 2      | Near  | 4    | Pointed, Long-reach                                    |
+| Pike/Lance                   | 2H   | +3    | 2      | Near  | 12   | Heavy, Pointed, Long-reach                             |
 | Halberd/Bill                 | 2H   | +3    | 2      | Near  | 30   | Heavy, Pointed, Edged, Hook, Polearm, Long-reach       |
 | Poleaxe                      | 2H   | +3    | 2      | Near  | 30   | Heavy, Pointed, Edged, Hook, Polearm, Pick, Long-reach |
-| Trident                      | 2H   | +1    | 2      | Near  | 6    | Pointed, Hook, Trapping, Polearm                       |
+| Trident                      | 2H   | +1    | 2      | Near  | 6    | Pointed, Hook, Trapping, Long-reach                    |
 | Whip                         | 1H   | +1    | 1      | Near  | 2    | Light, Edged, Hook, Chained, Armor Rating x2           |
 | Bladed Whip                  | 1H   | +1    | 1      | Near  | 6    | Light, Edged, Hook, Chained                            |
 
@@ -593,11 +593,11 @@ Weapons fall into three length bands that decide who controls the distance. Thin
 - **NORMAL REACH:** Standard swords and axes that fight at arm's length. They do not force special distance rolls by default.
 - **LONG-REACH:** Longer than arm's length, like spears and polearms. They can keep opponents out and fight from Near range without engaging in melee.
 
-**CUT IN:** If your target does not have Short-reach, you must spend a FAST action and roll _move_ to close the distance before you can attack. This is the quick action that makes daggers feel risky in open ground. If the target makes an attack against you that rolls no ⚔️, you do not need to **CUT IN** again to keep attacking them until they make a successful **ATTACK** or **PARRY** action that rolls one or more ⚔️ to keep their distance.
+**CUT IN / BACK:** If your target does not have Short-reach, you must spend a FAST action and roll _move_ to close the distance or to open it again. This is the quick action that makes daggers feel risky in open ground. Most actions and talents still key off the **CUT IN** side of this action. If the target makes an attack against you that rolls no ⚔️, you do not need to **CUT IN** again to keep attacking them until they make a successful **ATTACK** or **PARRY** action that rolls one or more ⚔️ to keep their distance.
 
-**KEEP THE DISTANCE:** Your target can spend a FAST action and roll _move_ to open the distance again so they can attack you. If they succeed, while still engaged in combat, you must **CUT IN** again before you can attack.
+**KEEP THE DISTANCE:** Your target can use the **BACK** side of this action to open the distance again so they can attack you. If they succeed, while still engaged in combat, you must **CUT IN** again before you can attack.
 
-**AGAINST LONG-REACH WEAPONS:** Most Polearms are Long-Reach weapons and their wielders prefer to fight at Near range to avoid engaging with their enemies. If your opponent has a Long-Reach weapon, your **CUT IN** roll is at -2. If you fail, you stay outside their reach. If you succeed, the fight closes and the long weapon loses its distance advantage until the distance is opened again.
+**AGAINST LONG-REACH WEAPONS:** Most Polearms are Long-Reach weapons and their wielders prefer to fight at Near range to avoid engaging with their enemies. If your opponent has a Long-Reach weapon, your **CUT IN** roll is at -2. If you fail, you stay outside their reach. If you succeed, the fight closes and the long weapon loses its distance advantage until the distance is opened again. If someone gets inside a polearm's reach, the wielder can still swing the heft back, but only badly.
 
 **SURPRISE:** If you are surprising the target (Sneak Attack or Ambush), you do not need to **CUT IN**. You and your target start combat inside your preferred distance, so a short blade can strike immediately. The same applies if your target has not drawn their weapon yet.
 
