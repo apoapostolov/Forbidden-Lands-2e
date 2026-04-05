@@ -138,8 +138,8 @@
 .sidebarBottom {
   height: 26px;
   margin-top: -12px; /* lift 3/4 of a line so frame closes flush */
-  margin-left: -6px; /* ~5% wider than text area to match border edges */
-  width: calc(100% + 12px);
+  margin-left: -5px; /* ~4% wider than text area to match border edges */
+  width: calc(100% + 10px);
   background: url('/assets/decorations/blockquote-bottom.png') no-repeat center bottom;
   background-size: 100% auto;
   pointer-events: none;

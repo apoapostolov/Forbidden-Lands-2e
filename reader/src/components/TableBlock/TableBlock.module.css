@@ -1,6 +1,5 @@
 .wrapper {
   margin: 6px 0 10px;
-  overflow: hidden;
   break-inside: avoid;
   position: relative;
 }
@@ -22,7 +21,7 @@
   background: #3a3028;
   opacity: 0.55;
   pointer-events: none;
-  z-index: 2;
+  z-index: 10;
 }
 .wrapperColumn::before {
   left: 0;
