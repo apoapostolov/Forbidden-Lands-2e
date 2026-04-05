@@ -160,7 +160,7 @@ To move during combat, you use the _RUN_ action (fast) or _CRAWL_ (slow). This m
 | Long         | Up to one hundred meters (four segments) away | Forest, hills, city ruins, gigantic hall |
 | Distant      | As far as the eye can see                     | Plains, mountains                        |
 
-**CLOSE COMBAT:** If you have an active enemy at _arm's length_, you can't _run_ away from them. Instead, you must use the _retreat_ action.
+**CLOSE COMBAT:** If you have an active enemy at _arm's length_, you can't _run_ away from them. Instead, you must use the _retreat_ action. Weapon length decides who has already engaged and who must cut in first.
 
 ### MOUNTED COMBAT
 
@@ -244,7 +244,23 @@ When you attack in close combat, you use the _melee_ skill. Close combat usually
 
 You can fire crossbows from prone. One-handed LIGHT or TINY melee weapons can be used to attack while prone at a -2 penalty.
 
-**ACTIONS:** There are several actions to choose from in close combat, all of which are described below. Different actions are effective in different situations, depending on what your opponent is doing. Some actions require a weapon with a certain feature.
+#### WEAPON LENGTHS & ENGAGEMENT
+
+Weapons fall into three length bands. They decide who must close, who keeps space, and who can strike from the next zone over.
+
+- **SHORT-REACH:** Knives, fists, and other short weapons can only attack if you are already inside the other weapon's reach.
+- **NORMAL REACH:** Standard swords and axes fight at _arm's length_.
+- **LONG-REACH:** Spears and polearms fight from _Near_ range and can keep enemies out.
+
+To attack in close combat, you must already be at the right distance for your weapon: _arm's length_ for normal weapons, _Near_ for **LONG-REACH** weapons, and inside your opponent's reach for **SHORT-REACH** weapons. If you surprise them, you start there and can strike at once.
+
+If your opponent has a **LONG-REACH** weapon, your **CUT IN** roll is at -1. If you fail, you stay outside their reach and must try again.
+
+If you carry a **LONG-REACH** weapon, your enemy must **CUT IN** after every change of distance, and you can use **BRACE** or **INTERCEPT** to punish the attempt.
+
+### ACTIONS
+
+There are several actions to choose from in close combat, all of which are described below. Different actions are effective in different situations, depending on what your opponent is doing. Some actions require a weapon with a certain feature.
 
 #### REACTIVE ACTIONS
 
@@ -294,7 +310,9 @@ Because reactive actions break the initiative order, it can be hard to keep trac
 
 **RECOVER WEAPON:** If you pick up a dropped weapon at _arm's length_ without moving this round, it is a FAST action. If you moved this round, it is a SLOW action.
 
-**BRACE:** Requires a **POINTED** weapon with the **POLEARM** or **LONG-REACH** feature. You set the point and wait for the rush. Until the start of your next turn, the first enemy who moves into your reach by _run_, _charge_, _retreat_, or a successful _move_ roll to cut distance triggers an immediate **STAB** attack from you before their own attack resolves. This attack does not cost another action and can be **PARRIED** or **DODGED** as normal. If the attack deals any 🩸, the target must stop where the blow caught them unless they spend 1 WP to press through. You cannot both **BRACE** and **INTERCEPT** in the same round.
+**CUT IN:** You rush inside the other weapon's reach. This is a FAST action and uses _move_. If you succeed, you close to the distance your weapon needs. Against a **LONG-REACH** weapon, your roll is at -1. If you fail, you stay where you were.
+
+**BRACE:** Requires a **POINTED** weapon with the **POLEARM** or **LONG-REACH** feature. You set the point and wait for the rush. Until the start of your next turn, the first enemy who moves into your reach by _run_, _charge_, _retreat_, or a successful **CUT IN** roll triggers an immediate **STAB** attack from you before their own action resolves. This attack does not cost another action and can be **PARRIED** or **DODGED** as normal. If the attack deals any 🩸, the target must stop where the blow caught them unless they spend 1 WP to press through. You cannot both **BRACE** and **INTERCEPT** in the same round.
 
 **INTERCEPT:** You prepare a reactive stance and wait for the opening. During your turn, you spend both your FAST and SLOW actions. Until the start of your next turn, when the trigger you are prepared for happens, you may make one **ATTACK** or **SHOOT** roll before the enemy's action resolves. The attack can be **PARRIED** or **DODGED** as usual if the enemy could see it coming. If the attack deals any 🩸, the target must stop where the blow lands unless they spend 1 WP to press through. After using **INTERCEPT**, you cannot **PARRY** or **DODGE** until the start of your next turn.
 
@@ -463,12 +481,7 @@ Fine weapons require a specialist and proper tools; crude weapons can be made wi
 
 **LOAD X2:** You must spend two SLOW actions to reload before the weapon can be fired again.
 
-**LONG-REACH:** The weapon can only be used at its maximum reach. It also applies a -1 penalty to MOVE rolls.
-
-- To engage an opponent wielding a LONG-REACH weapon, you must spend a FAST action and succeed at a MOVE roll to close the distance.
-- If an enemy uses a MOVE roll to close in with a weapon that is not LONG-REACH, you can only use your weapon as a awkward heavy staff with the blunt end (+1 Bonus, +0 damage, BLUNT damage) until you recover the maximum reach needed by your weapon.
-- You can spend a FAST action at any time to make a MOVE roll to extend the distance again, which breaks engagement and forces you to close in again. You do not need to make a MOVE roll to recover maximum reach if they make an attack against you that rolls no ⚔️, until they make a successful ATTACK or PARRY action against you that rolls one or more ⚔️.
-- As long as you maintain maximum reach, you can keep a FAST reactive action to punish anyone who fails to cut into your distance. If they try to cut in and fail their MOVE roll, you can use your FAST reactive action to ATTACK them, and that attack cannot be PARRIED.
+**LONG-REACH:** This weapon uses the long-reach engagement rules. It fights from _Near_ range, can keep enemies out, and applies a -1 penalty to MOVE rolls.
 
 **LOUD:** Any animals within DISTANT range must succeed on an ANIMAL HANDLING roll or start fleeing, unless trained to ignore loud sounds.
 
@@ -492,11 +505,7 @@ Fine weapons require a specialist and proper tools; crude weapons can be made wi
 
 **SHIELD-BREAKER:** You may use a FAST attack called the STRIKE option when using hidden combinations. Each non-parried/uncountered ⚔️ causes item damage. These weapons receive no penalty when used to break wooden objects like doors. The GM can decide other obstacles take half damage against such inanimate objects.
 
-**SHORT-REACH:** The weapon does not extend your reach.
-
-- To engage an opponent who wields a weapon without the SHORT-REACH feature, you must spend a FAST action and succeed at a MOVE roll to close the distance, unless you are surprising them (Sneak Attack or Ambush). You can spend that FAST action at any moment before making an ATTACK roll. You do not need to make a MOVE roll if they make an attack against you that rolls no ⚔️, until they make a successful ATTACK or PARRY action against you that rolls one or more ⚔️.
-- The opponent can spend a FAST action at any time to make a MOVE roll to open the distance again, which prevents you from attacking until you close it once more.
-- Your MOVE roll is made at -2 against an opponent wielding a LONG-REACH weapon. If you fail that roll against a LONG-REACH weapon, the opponent can use a FAST action to immediately make an attack which cannot be dodged but can be parried.
+**SHORT-REACH:** This weapon does not extend your reach. You must already be inside the other weapon's reach to attack with it.
 
 **TINY:** Counts as a tiny weapon for talents and other rules that reference tiny weapons.
 
@@ -578,19 +587,19 @@ Weapons fall into three length bands that decide who controls the distance. Thin
 - **NORMAL REACH:** Standard swords and axes that fight at arm's length. They do not force special distance rolls by default.
 - **LONG-REACH:** Longer than arm's length, like spears and polearms. They can keep opponents out and fight from Near range without engaging in melee.
 
-**CUTTING THE DISTANCE:** If your target does not have Short-reach, you must spend a FAST action and make a MOVE roll to close the distance before you can attack. This is the quick "cut in" that makes daggers feel risky in open ground. If the target makes an attack against you that rolls no ⚔️, you do not need to make a MOVE roll to "cut in" and attack them until they make a successful ATTACK or PARRY action that rolls one or more ⚔️ to maintain their range.
+**CUT IN:** If your target does not have Short-reach, you must spend a FAST action and roll _move_ to close the distance before you can attack. This is the quick action that makes daggers feel risky in open ground. If the target makes an attack against you that rolls no ⚔️, you do not need to **CUT IN** again to keep attacking them until they make a successful **ATTACK** or **PARRY** action that rolls one or more ⚔️ to keep their distance.
 
-**MAINTAINING THE DISTANCE:** Your target can spend a FAST action and make a MOVE roll to extend the distance again so they can attack you. If they succeed, while still engaged in combat, the Short-reach fighter must close in again before they can attack.
+**KEEP THE DISTANCE:** Your target can spend a FAST action and roll _move_ to open the distance again so they can attack you. If they succeed, while still engaged in combat, you must **CUT IN** again before you can attack.
 
-**AGAINST LONG-REACH WEAPONS:** Most Polearms are Long-Reach weapons and their wielders prefer to fight at Near range to avoid engaging with their enemies, allowing them to step away without having to make a RETREAT or FLEE action. If your opponent has a Long-Reach weapon, your MOVE roll to close the distance is at -2. If you fail, they can immediately use a FAST reactive action to strike as you overcommit, and that ATTACK cannot be PARRIED. However, should the attacker succeed to "cut in", the Polearm wielder is at disadvantage; since it can only be used to hit at its maximum reach, it can only be used to attack with the blunt end (+1 Bonus, +0 damage, BLUNT damage) until the distance is opened again.
+**AGAINST LONG-REACH WEAPONS:** Most Polearms are Long-Reach weapons and their wielders prefer to fight at Near range to avoid engaging with their enemies. If your opponent has a Long-Reach weapon, your **CUT IN** roll is at -2. If you fail, you stay outside their reach. If you succeed, the fight closes and the long weapon loses its distance advantage until the distance is opened again.
 
-**SURPRISE:** If you are surprising the target (Sneak Attack or Ambush), you do not need the MOVE roll. You and your target start combat inside your preferred distance, so a short blade can strike immediately. The same applies if your target has not drawn their weapon yet.
+**SURPRISE:** If you are surprising the target (Sneak Attack or Ambush), you do not need to **CUT IN**. You and your target start combat inside your preferred distance, so a short blade can strike immediately. The same applies if your target has not drawn their weapon yet.
 
 **EXAMPLE**
 
-_Nirmena spots a slaver with a longsword and tries to rush him with her knife. She spends her SLOW action to CHARGE and her FAST action to make the MOVE roll to close distance against a normal-reach weapon. She fails, the blade whistles past her cheek and she is forced to break off, never reaching her enemy's throat. If she had surprised him with a Sneak Attack or Ambush, she would start inside the distance and could strike without the MOVE roll. This is the advantage a longsword holds in open space: it can keep a short blade out unless the attacker wins that close-in roll._
+_Nirmena spots a slaver with a longsword and tries to rush him with her knife. She spends her FAST action to **CUT IN** against a normal-reach weapon. She fails, the blade whistles past her cheek and she is forced to break off, never reaching her enemy's throat. If she had surprised him with a Sneak Attack or Ambush, she would start inside the distance and could strike without **CUT IN**. This is the advantage a longsword holds in open space: it can keep a short blade out unless the attacker wins that close-in roll._
 
-_Meanwhile, Tyrgar faces a guard with a polearm. The guard keeps him at Near range with wide wswings of his long spear, so Tyrgar spends a FAST action to make a succesful MOVE roll to close the distance, ducks under the sweeping head, and gets inside the line. He uses his SLOW action to strike and cuts a bleeding gash into the guard's wrist. Now the polearm wielder can only jab with the blunt end unless they spend a FAST action to make a MOVE roll to open the distance again. Instead, they panic, drop the polearm, and draw a short sword so they can fight at Arm's Length._
+_Meanwhile, Tyrgar faces a guard with a polearm. The guard keeps him at Near range with wide swings of his long spear, so Tyrgar spends a FAST action to **CUT IN**, ducks under the sweeping head, and gets inside the line. He uses his SLOW action to strike and cuts a bleeding gash into the guard's wrist. Now the polearm wielder must open the distance again if they want their reach back. Instead, they panic, drop the polearm, and draw a short sword so they can fight at Arm's Length._
 
 ### DAMAGE
 
