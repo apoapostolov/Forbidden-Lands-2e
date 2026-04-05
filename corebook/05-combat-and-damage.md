@@ -254,9 +254,15 @@ Weapons fall into three length bands. They decide who must close, who keeps spac
 
 To attack in close combat, you must already be at the right distance for your weapon: _arm's length_ for normal weapons, _Near_ for **LONG-REACH** weapons, and inside your opponent's reach for **SHORT-REACH** weapons. If you surprise them, you start there and can strike at once.
 
+The first fighter to successfully close and engage sets the distance band between them and their enemy. If your weapon does not match or exceed the reach of the enemy, you must **CUT IN** before you can attack.
+
 If your opponent has a **LONG-REACH** weapon, your **CUT IN** roll is at -1. If you fail, you stay outside their reach and must try again.
 
 If you carry a **LONG-REACH** weapon, your enemy must **CUT IN** after every change of distance, and you can use **BRACE** or **INTERCEPT** to punish the attempt.
+
+#### MONSTERS & REACH
+
+Monsters use the same reach rules as adventurers. If a monster attack lists a reach, that is the distance it uses for that attack. If the Monster description lists **LONG-REACH** as a passive reach, it fights from _Near_ range and adventurers must **CUT IN** to reach it unless they also have a **LONG-REACH** weapon. Giant and gargantuan monsters usually have **LONG-REACH** as passive reach, but the GM decides.
 
 ### ACTIONS
 
