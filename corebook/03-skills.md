@@ -143,11 +143,11 @@ As a rule, you only have one chance to succeed with any action. Once you have ro
 
 ### GROUP ROLLS
 
-When you face a challenge with your fellow adventurers, you don't roll dice separately. Instead, you choose who among you is best suited to take on this challenge. You decide who this is. The others may help them (see below) if it's relevant to the situation. If the roll fails, it counts as a failure for all of you - you are not allowed to try one time each.
+When you face a challenge with your fellow adventurers, you don't roll dice separately. Instead, you choose who among you is best suited to take on this challenge. You decide who this is. The others may help them (see below) if it's relevant to the situation. If the roll fails, it counts as a failure for all of you - you are not allowed to try one time each. If you are trying to sneak past enemies with _STEALTH_, the one most likely to fail, usually the character with the lowest _STEALTH_ skill, makes the roll instead.
 
 This rule does not apply in combat, where each adventurer is free to attack any enemy they like.
 
-When all PCs must succeed at the same task (such as a group climb or a stealthy approach), everyone rolls. Each ⚔️ beyond the first rolled by a character may be spent to cover one teammate who rolled no ⚔️. Describe how those extra successes help: a helping hand, a warning gesture, a sudden distraction. If the group cannot cover everyone, those left uncovered fail.
+When all PCs must succeed at the same task (such as a group climb or staying hidden together), everyone rolls. Each ⚔️ beyond the first rolled by a character may be spent to cover one teammate who rolled no ⚔️. Describe how those extra successes help: a helping hand, a warning gesture, a sudden distraction. If the group cannot cover everyone, those left uncovered fail. If you are sneaking past enemies with _STEALTH_, use the rule above instead.
 
 ### MODIFICATION
 
