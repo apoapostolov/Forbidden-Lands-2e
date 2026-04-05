@@ -26,10 +26,12 @@ function splitByColumnBreak(segments: Segment[]): {
   spanAll: Segment[]
   left: Segment[]
   right: Segment[]
+  bottomSpan: Segment[]
 } {
   const spanAll: Segment[] = []
   const left: Segment[] = []
   const right: Segment[] = []
+  const bottomSpan: Segment[] = []
 
   // First, extract span-all elements (H2 heading, fiction after H2, H1)
   // These go above the two-column layout
@@ -75,8 +77,15 @@ function splitByColumnBreak(segments: Segment[]): {
 
   // Now split remaining segments at the column break marker
   let inRightColumn = false
+  let inBottomSpan = false
   for (; i < segments.length; i++) {
     const seg = segments[i]
+
+    // Check for bottom span marker
+    if (seg.type === 'hr' && seg.id === '__bottom_span__') {
+      inBottomSpan = true
+      continue
+    }
 
     // Check for column break marker
     if (seg.type === 'hr' && seg.id === '__column_break__') {
@@ -84,14 +93,16 @@ function splitByColumnBreak(segments: Segment[]): {
       continue
     }
 
-    if (inRightColumn) {
+    if (inBottomSpan) {
+      bottomSpan.push(seg)
+    } else if (inRightColumn) {
       right.push(seg)
     } else {
       left.push(seg)
     }
   }
 
-  return { spanAll, left, right }
+  return { spanAll, left, right, bottomSpan }
 }
 
 function renderSegment(
@@ -166,7 +177,9 @@ function renderSegment(
       }
       case 'table': {
         const t = seg as TableSegment
-        return <TableBlock key={idx} headers={t.headers} rows={t.rows} spanAll={t.spanAll} />
+        return (
+          <TableBlock key={idx} headers={t.headers} rows={t.rows} spanAll={t.spanAll} />
+        )
       }
       case 'hr':
         // Skip column break markers
@@ -219,13 +232,20 @@ export default function PageContent({
 }: PageContentProps) {
   const isFrontMatterCreditsPage = chapterIndex === 0 && pageNumber === 1
 
-  // Split segments into span-all / left / right sections
-  const { spanAll, left, right } = splitByColumnBreak(segments)
+  // Split segments into span-all / left / right / bottomSpan sections
+  const { spanAll, left, right, bottomSpan } = splitByColumnBreak(segments)
 
   // Render span-all elements (H2 banners, fiction)
   const spanAllRendered = spanAll.map((seg, idx) =>
     renderSegment(seg, idx, spanAll, pageNumber, chapterIndex),
   )
+
+  // Detect H2 without fiction after it — needs a spacer for frame clearance
+  const hasH2 = spanAll.some(
+    (s) => s.type === 'heading' && (s as HeadingSegment).level === 2,
+  )
+  const hasFictionAfterH2 = spanAll.some((s) => s.type === 'blockquote')
+  const needsH2Spacer = sectionHeadingPage && hasH2 && !hasFictionAfterH2
 
   // Render left column segments
   const leftRendered = left.map((seg, idx) =>
@@ -235,6 +255,11 @@ export default function PageContent({
   // Render right column segments
   const rightRendered = right.map((seg, idx) =>
     renderSegment(seg, idx, right, pageNumber, chapterIndex),
+  )
+
+  // Render bottom-span segments (span-all tables placed below columns)
+  const bottomSpanRendered = bottomSpan.map((seg, idx) =>
+    renderSegment(seg, idx, bottomSpan, pageNumber, chapterIndex),
   )
 
   return (
@@ -252,11 +277,19 @@ export default function PageContent({
         <div className={styles.spanAllWrap}>{spanAllRendered}</div>
       )}
 
+      {/* Spacer to push columns below H2 decorative frame overhang */}
+      {needsH2Spacer && <div className={styles.h2NoFictionSpacer} />}
+
       {/* Two explicit columns */}
       <div className={styles.columns}>
         <div className={styles.column}>{leftRendered}</div>
         <div className={styles.column}>{rightRendered}</div>
       </div>
+
+      {/* Bottom-span content: tables placed below columns at full width */}
+      {bottomSpanRendered.length > 0 && (
+        <div className={styles.spanAllWrap}>{bottomSpanRendered}</div>
+      )}
     </main>
   )
 }

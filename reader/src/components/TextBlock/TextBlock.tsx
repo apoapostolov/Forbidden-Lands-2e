@@ -38,10 +38,7 @@ export default function TextBlock({
     return (
       <div className={styles.sidebar}>
         <div className={styles.sidebarTop} />
-        <div
-          className={className}
-          dangerouslySetInnerHTML={{ __html: clean }}
-        />
+        <div className={className} dangerouslySetInnerHTML={{ __html: clean }} />
         <div className={styles.sidebarBottom} />
       </div>
     )

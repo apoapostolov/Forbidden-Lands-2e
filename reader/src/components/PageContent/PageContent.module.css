@@ -72,7 +72,7 @@
 }
 
 .sectionHeadingPage :global(h2.section-heading) {
-  padding-top: 27px;
+  padding-top: 32px;
   padding-bottom: 2px;
 }
 
@@ -81,7 +81,7 @@
    Selector targets the fiction wrap as the sibling after the heading wrap
    inside the outer spanAllWrap container. */
 .spanAllWrap > .headingWrap:first-child + * {
-  margin-top: 26px;
+  margin-top: 31px;
 }
 
 .fictionAfterH2Wrap {
@@ -153,6 +153,15 @@
    from rendering behind the H2 frame). */
 .creditsColumnsOffset {
   height: 14px;
+  margin: 0;
+  padding: 0;
+}
+
+/* Section heading pages without fiction after the H2: push columns
+   below the decorative frame overhang (::before extends ~25px past
+   the H2 box due to its aspect ratio). */
+.h2NoFictionSpacer {
+  height: 22px;
   margin: 0;
   padding: 0;
 }

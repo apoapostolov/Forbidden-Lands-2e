@@ -20,7 +20,9 @@ export default function TableBlock({ headers, rows, spanAll }: TableBlockProps) 
   }
 
   return (
-    <div className={`${styles.wrapper} ${spanAll ? styles.wrapperSpan : styles.wrapperColumn}`}>
+    <div
+      className={`${styles.wrapper} ${spanAll ? styles.wrapperSpan : styles.wrapperColumn}`}
+    >
       <div className={styles.dressTop} />
       <table className={styles.table}>
         {headers.length > 0 && (

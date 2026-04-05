@@ -90,8 +90,14 @@ export function useFlowPagination(
   const [pageCount, setPageCount] = useState(0)
   const [error, setError] = useState<string | null>(null)
 
-  const { chapters, tocEntries, columnWidth, contentWidth, columnHeight, sectionHeadingColumnHeight } =
-    options
+  const {
+    chapters,
+    tocEntries,
+    columnWidth,
+    contentWidth,
+    columnHeight,
+    sectionHeadingColumnHeight,
+  } = options
 
   useEffect(() => {
     let cancelled = false
@@ -130,7 +136,14 @@ export function useFlowPagination(
     return () => {
       cancelled = true
     }
-  }, [chapters, tocEntries, columnWidth, contentWidth, columnHeight, sectionHeadingColumnHeight])
+  }, [
+    chapters,
+    tocEntries,
+    columnWidth,
+    contentWidth,
+    columnHeight,
+    sectionHeadingColumnHeight,
+  ])
 
   return { bookData, isReady, pageCount, error }
 }

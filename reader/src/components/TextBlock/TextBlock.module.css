@@ -106,18 +106,47 @@
   padding: 0;
 }
 
+/* Left and right borders connecting the top/bottom decorative images.
+   Matches the scratchy lines visible at the edges of blockquote-top/bottom.
+   Color sampled from the images: dark brown-charcoal ~#3a3028, ~1.5px wide. */
+.sidebar::before,
+.sidebar::after {
+  content: '';
+  position: absolute;
+  top: 18px;
+  bottom: 12px;
+  width: 2.5px;
+  background: #3a3028;
+  opacity: 0.55;
+  pointer-events: none;
+}
+.sidebar::before {
+  left: 0;
+}
+.sidebar::after {
+  right: 0;
+}
+
 .sidebarTop {
   height: 26px;
-  margin-bottom: 4px;
+  margin-bottom: 0;
   background: url('/assets/decorations/blockquote-top.png') no-repeat center top;
   background-size: 100% auto;
   pointer-events: none;
 }
 
 .sidebarBottom {
-  height: 18px;
-  margin-top: 4px;
+  height: 26px;
+  margin-top: -12px; /* lift 3/4 of a line so frame closes flush */
+  margin-left: -6px; /* ~5% wider than text area to match border edges */
+  width: calc(100% + 12px);
   background: url('/assets/decorations/blockquote-bottom.png') no-repeat center bottom;
   background-size: 100% auto;
   pointer-events: none;
+}
+
+/* Text inside the sidebar frame sits inset from the borders */
+.sidebar > .block {
+  padding-left: 10px;
+  padding-right: 10px;
 }

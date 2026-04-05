@@ -28,7 +28,7 @@ import type {
 const MIN_SPLIT_WORDS = 4
 
 /** Small gap (px) to reserve at bottom of column for safety */
-const COLUMN_BOTTOM_RESERVE_PX = 2
+const COLUMN_BOTTOM_RESERVE_PX = 4
 
 /**
  * Height reservation (px) for the H2 decorative frame.
@@ -40,7 +40,12 @@ const COLUMN_BOTTOM_RESERVE_PX = 2
 const H2_FRAME_RESERVE_PX = 160
 
 /** Extra vertical margins around the fiction blockquote after an H2 */
-const FICTION_AFTER_H2_MARGIN_PX = 46
+const FICTION_AFTER_H2_MARGIN_PX = 51
+
+/** Extra height reserve when H2 has NO fiction — accounts for decorative
+ *  frame overhang past the H2 box (::before aspect-ratio extends ~25px
+ *  below).  Matches the .h2NoFictionSpacer CSS height. */
+const H2_NO_FICTION_SPACER_PX = 22
 
 // ── Types ──────────────────────────────────────────────────────────────────
 
@@ -136,7 +141,7 @@ function renderSegmentForMeasure(seg: Segment): HTMLElement {
     case 'paragraph': {
       const p = seg as ParagraphSegment
       const div = document.createElement('div')
-      div.className = `body-text ${p.isChapterOpener ? 'chapter-opener' : ''} ${p.isFiction ? 'fiction-intro' : ''}`
+      div.className = `body-text flow-measure-text ${p.isChapterOpener ? 'chapter-opener' : ''} ${p.isFiction ? 'fiction-intro' : ''}`
       div.innerHTML = p.html
       wrapper.appendChild(div)
       break
@@ -236,7 +241,7 @@ function splitParagraphByMeasure(
     const headText = words.slice(0, mid).join(' ')
 
     const testEl = document.createElement('div')
-    testEl.className = 'body-text'
+    testEl.className = 'body-text flow-measure-text flow-measure-text'
     testEl.innerHTML = `<p>${escapeHtml(headText)}</p>`
 
     const height = measureElement(testEl, measureContainer)
@@ -260,7 +265,7 @@ function splitParagraphByMeasure(
       // Verify this still fits
       const candidateText = words.slice(0, i + 1).join(' ')
       const testEl = document.createElement('div')
-      testEl.className = 'body-text'
+      testEl.className = 'body-text flow-measure-text flow-measure-text'
       testEl.innerHTML = `<p>${escapeHtml(candidateText)}</p>`
       const h = measureElement(testEl, measureContainer)
       if (h <= availableHeight && words.length - (i + 1) >= MIN_SPLIT_WORDS) {
@@ -277,7 +282,7 @@ function splitParagraphByMeasure(
       if (isSentenceBoundary(words[i])) {
         const candidateText = words.slice(0, i + 1).join(' ')
         const testEl = document.createElement('div')
-        testEl.className = 'body-text'
+        testEl.className = 'body-text flow-measure-text flow-measure-text'
         testEl.innerHTML = `<p>${escapeHtml(candidateText)}</p>`
         const h = measureElement(testEl, measureContainer)
         if (h <= availableHeight && words.length - (i + 1) >= MIN_SPLIT_WORDS) {
@@ -325,7 +330,7 @@ function splitListByMeasure(
   for (let i = 1; i <= liMatches.length; i++) {
     const headHtml = `<${wrapperTag}>\n${liMatches.slice(0, i).join('\n')}\n</${wrapperTag}>`
     const testEl = document.createElement('div')
-    testEl.className = 'body-text'
+    testEl.className = 'body-text flow-measure-text flow-measure-text'
     testEl.innerHTML = headHtml
     const height = measureElement(testEl, measureContainer)
 
@@ -397,8 +402,9 @@ interface TableLayout {
  * Analyse a table segment to decide its layout.
  *
  * Rules:
- *   - >3 data columns → span both columns (full content width)
- *   - Otherwise → single-column width
+ *   - Measure at column width first. If the table fits without
+ *     horizontal overflow, keep it in a single column.
+ *   - If it overflows at column width, try full content width (span-all).
  *
  * Returns the measured height at the chosen width and whether to span.
  */
@@ -408,17 +414,29 @@ function analyzeTable(
   contentWidth: number,
   measureContainer: HTMLDivElement,
 ): TableLayout {
-  const numCols = seg.headers.length || (seg.rows[0]?.length ?? 0)
-  const spanAll = numCols > 3
-
-  // Measure at the target width
-  const targetWidth = spanAll ? contentWidth : columnWidth
-  measureContainer.style.width = `${targetWidth}px`
+  // First, measure at column width to see if it fits
+  measureContainer.style.width = `${columnWidth}px`
   const el = renderSegmentForMeasure(seg)
-  const height = measureElement(el, measureContainer)
+  // Temporarily insert to measure both height and scrollWidth
+  measureContainer.appendChild(el)
+  const table = el.querySelector('table')
+  const colHeight = el.getBoundingClientRect().height
+  const tableScrollWidth = table ? table.scrollWidth : 0
+  measureContainer.removeChild(el)
+
+  // The table fits in a column if its natural width ≤ column width
+  if (tableScrollWidth <= columnWidth + 2) {
+    measureContainer.style.width = `${columnWidth}px`
+    return { spanAll: false, height: colHeight }
+  }
+
+  // Table overflows column — measure at full content width (span-all)
+  measureContainer.style.width = `${contentWidth}px`
+  const elWide = renderSegmentForMeasure(seg)
+  const wideHeight = measureElement(elWide, measureContainer)
   measureContainer.style.width = `${columnWidth}px` // restore
 
-  return { spanAll, height }
+  return { spanAll: true, height: wideHeight }
 }
 
 /**
@@ -515,6 +533,7 @@ export function runFlowEngine(options: FlowEngineOptions): FlowResult {
   let rightSegments: Segment[] = []
   let currentColumn: 'left' | 'right' = 'left'
   let columnFill = 0 // px used in current column
+  let leftColumnFill = 0 // px used in left column (saved when switching to right)
   /** Per-page effective column height — reduced by span-all content */
   let effectiveHeight = normalEffective
 
@@ -534,11 +553,13 @@ export function runFlowEngine(options: FlowEngineOptions): FlowResult {
     rightSegments = []
     currentColumn = 'left'
     columnFill = 0
+    leftColumnFill = 0
     effectiveHeight = normalEffective // reset for next page
   }
 
   function nextColumn(): void {
     if (currentColumn === 'left') {
+      leftColumnFill = columnFill
       currentColumn = 'right'
       columnFill = 0
     } else {
@@ -605,8 +626,9 @@ export function runFlowEngine(options: FlowEngineOptions): FlowResult {
         if (nextI < chapter.segments.length) {
           const followingSeg = chapter.segments[nextI]
           if (followingSeg.type === 'blockquote') {
-            // Measure fiction blockquote with fiction-intro class for accurate
-            // font size (the default flavour-text class is only 11px)
+            // Measure fiction blockquote at FULL content width — fiction spans
+            // both columns, so measuring at columnWidth would double the height.
+            measureContainer.style.width = `${contentWidth}px`
             const fictionEl = document.createElement('div')
             fictionEl.style.overflow = 'hidden'
             const inner = document.createElement('div')
@@ -615,10 +637,18 @@ export function runFlowEngine(options: FlowEngineOptions): FlowResult {
             fictionEl.appendChild(inner)
             const fictionHeight =
               measureElement(fictionEl, measureContainer) + FICTION_AFTER_H2_MARGIN_PX
+            measureContainer.style.width = `${columnWidth}px` // restore
             spanAllHeight += fictionHeight
             leftSegments.push(followingSeg)
             i++ // skip fiction in main loop
           }
+        }
+
+        // Check: if the last thing pushed to spanAll was NOT a blockquote,
+        // the H2 has no fiction and we need extra clearance for frame overhang.
+        const lastSpanSeg = leftSegments[leftSegments.length - 1]
+        if (lastSpanSeg && isH2(lastSpanSeg)) {
+          spanAllHeight += H2_NO_FICTION_SPACER_PX
         }
 
         // Reduce effective column height for this page
@@ -671,6 +701,7 @@ export function runFlowEngine(options: FlowEngineOptions): FlowResult {
         (seg as HeadingSegment).level === 3 &&
         (seg as HeadingSegment).text.toUpperCase().includes('ILLUSTRATION')
       ) {
+        leftColumnFill = columnFill
         currentColumn = 'right'
         columnFill = 0
       }
@@ -685,6 +716,27 @@ export function runFlowEngine(options: FlowEngineOptions): FlowResult {
         if (layout.spanAll) {
           // Mark segment for the renderer
           tSeg.spanAll = true
+
+          // ── Bottom-span optimisation ──
+          // If we're in the right column and the table is small enough to
+          // fit below both columns, place it as a bottom-span on the
+          // current page instead of forcing a new page.
+          const BOTTOM_SPAN_GAP = 6 // px gap between columns and bottom-span table
+          if (currentColumn === 'right' && leftSegments.length > 0) {
+            const maxColFill = Math.max(leftColumnFill, columnFill)
+            const bottomSpace = effectiveHeight - maxColFill - BOTTOM_SPAN_GAP
+            if (layout.height <= bottomSpace && layout.height > 0) {
+              // Insert bottom-span marker and table into right column segments
+              rightSegments.push({
+                type: 'hr',
+                heightPt: 0,
+                id: '__bottom_span__',
+              } as Segment)
+              rightSegments.push(tSeg)
+              columnFill = effectiveHeight // mark column as full
+              continue
+            }
+          }
 
           // Spanning table needs a fresh page (placed in span-all zone)
           if (leftSegments.length > 0 || rightSegments.length > 0 || columnFill > 0) {

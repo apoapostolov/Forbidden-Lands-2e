@@ -115,3 +115,39 @@ body {
   font-weight: 400;
   text-align: center;
 }
+
+/* ── Flow Engine measurement overrides ─────────────────────────
+   The TextBlock CSS module (.block) overrides the base .body-text
+   list styles with tighter custom bullets.  The off-screen
+   measurement container can't load CSS modules, so these global
+   rules replicate the .block list overrides so measured heights
+   match rendered heights.  Without them, per-item margin drift
+   (0.15em vs 0.25em) accumulates to ~30px overflow on dense
+   list pages. ──────────────────────────────────────────────── */
+.flow-measure-text ul {
+  padding-left: 0.62em;
+  margin-bottom: 0.5em;
+  list-style: none;
+}
+
+.flow-measure-text ul li {
+  margin-bottom: 0.25em;
+  padding-left: 0.3em;
+  text-indent: -0.3em;
+}
+
+.flow-measure-text ul:not(.diamond-list) > li::before {
+  content: '✦';
+  margin-right: 0.12em;
+  color: var(--text-primary);
+  font-weight: 400;
+}
+
+.flow-measure-text ol {
+  padding-left: 0.9em;
+  margin-bottom: 0.5em;
+}
+
+.flow-measure-text ol li {
+  margin-bottom: 0.25em;
+}
