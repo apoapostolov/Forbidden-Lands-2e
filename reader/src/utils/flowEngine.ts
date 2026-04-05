@@ -10,13 +10,14 @@
  */
 
 import type {
-  BookData,
-  BookPage,
-  ChapterIndex,
-  HeadingSegment,
-  ParagraphSegment,
-  Segment,
-  TocEntry,
+    BookData,
+    BookPage,
+    ChapterIndex,
+    HeadingSegment,
+    ParagraphSegment,
+    Segment,
+    TableSegment,
+    TocEntry,
 } from '@app-types/book'
 
 // ── Configuration ──────────────────────────────────────────────────────────
@@ -28,6 +29,18 @@ const MIN_SPLIT_WORDS = 4
 
 /** Small gap (px) to reserve at bottom of column for safety */
 const COLUMN_BOTTOM_RESERVE_PX = 2
+
+/**
+ * Height reservation (px) for the H2 decorative frame.
+ * The CSS uses min-height: clamp(124px, 18vw, 160px) + padding + margins.
+ * At typical viewport widths the frame renders at ~160px box-height.
+ * We reserve enough to cover the frame + margins that the measurement
+ * container can't see (CSS module styles aren't applied there).
+ */
+const H2_FRAME_RESERVE_PX = 160
+
+/** Extra vertical margins around the fiction blockquote after an H2 */
+const FICTION_AFTER_H2_MARGIN_PX = 46
 
 // ── Types ──────────────────────────────────────────────────────────────────
 
@@ -77,13 +90,20 @@ export function destroyMeasureContainer(container: HTMLDivElement): void {
 /**
  * Measure the rendered height of a segment by inserting it into a real DOM
  * container and reading the browser's computed dimensions.
+ *
+ * Uses getComputedStyle to capture margins, which getBoundingClientRect
+ * excludes. Without this, paragraph bottom-margins (~5.5px each) accumulate
+ * to 50-80px per column, causing content to overflow the footer.
  */
 function measureElement(el: HTMLElement, container: HTMLDivElement): number {
   container.appendChild(el)
   // Force layout calculation
-  const height = el.getBoundingClientRect().height
+  const rect = el.getBoundingClientRect()
+  const style = getComputedStyle(el)
+  const marginTop = parseFloat(style.marginTop) || 0
+  const marginBottom = parseFloat(style.marginBottom) || 0
   container.removeChild(el)
-  return height
+  return rect.height + marginTop + marginBottom
 }
 
 // ── Segment rendering for measurement ──────────────────────────────────────
@@ -95,6 +115,9 @@ function measureElement(el: HTMLElement, container: HTMLDivElement): number {
 function renderSegmentForMeasure(seg: Segment): HTMLElement {
   const wrapper = document.createElement('div')
   wrapper.className = 'segment-measure-wrap'
+  // overflow:hidden creates a block formatting context so child margins
+  // don't collapse through the wrapper — getBoundingClientRect includes them
+  wrapper.style.overflow = 'hidden'
 
   switch (seg.type) {
     case 'heading': {
@@ -158,7 +181,12 @@ function renderSegmentForMeasure(seg: Segment): HTMLElement {
       break
     }
     case 'image-ref': {
-      const img = seg as { filename: string; width: number; height: number; altText: string }
+      const img = seg as {
+        filename: string
+        width: number
+        height: number
+        altText: string
+      }
       const imgEl = document.createElement('img')
       imgEl.src = `/images/${img.filename}`
       imgEl.alt = img.altText
@@ -355,13 +383,95 @@ function isFiction(seg: Segment): boolean {
   return seg.type === 'paragraph' && !!(seg as ParagraphSegment).isFiction
 }
 
+// ── Smart table analysis ───────────────────────────────────────────────────
+
+/** Minimum fraction of column height for a table to get its own full page */
+const TABLE_FULL_PAGE_THRESHOLD = 0.75
+
+interface TableLayout {
+  spanAll: boolean
+  height: number
+}
+
+/**
+ * Analyse a table segment to decide its layout.
+ *
+ * Rules:
+ *   - >3 data columns → span both columns (full content width)
+ *   - Otherwise → single-column width
+ *
+ * Returns the measured height at the chosen width and whether to span.
+ */
+function analyzeTable(
+  seg: TableSegment,
+  columnWidth: number,
+  contentWidth: number,
+  measureContainer: HTMLDivElement,
+): TableLayout {
+  const numCols = seg.headers.length || (seg.rows[0]?.length ?? 0)
+  const spanAll = numCols > 3
+
+  // Measure at the target width
+  const targetWidth = spanAll ? contentWidth : columnWidth
+  measureContainer.style.width = `${targetWidth}px`
+  const el = renderSegmentForMeasure(seg)
+  const height = measureElement(el, measureContainer)
+  measureContainer.style.width = `${columnWidth}px` // restore
+
+  return { spanAll, height }
+}
+
+/**
+ * Split a table into head and tail portions at a row boundary to
+ * fit within `availableHeight`. Returns null if the table can't be
+ * meaningfully split (fewer than 2 data rows in the head or tail).
+ */
+function splitTableByRows(
+  seg: TableSegment,
+  availableHeight: number,
+  targetWidth: number,
+  measureContainer: HTMLDivElement,
+): { head: TableSegment; tail: TableSegment } | null {
+  if (seg.rows.length < 4) return null // need at least 2+2
+
+  measureContainer.style.width = `${targetWidth}px`
+
+  let splitAt = 0
+  for (let i = 2; i <= seg.rows.length - 2; i++) {
+    const testSeg: TableSegment = {
+      ...seg,
+      rows: seg.rows.slice(0, i),
+    }
+    const el = renderSegmentForMeasure(testSeg)
+    const h = measureElement(el, measureContainer)
+    if (h <= availableHeight) {
+      splitAt = i
+    } else {
+      break
+    }
+  }
+
+  // Restore column width (caller sets after return)
+
+  if (splitAt < 2) return null
+
+  return {
+    head: { ...seg, rows: seg.rows.slice(0, splitAt) },
+    tail: { ...seg, rows: seg.rows.slice(splitAt) },
+  }
+}
+
 // ── Main flow algorithm ────────────────────────────────────────────────────
 
 export interface FlowEngineOptions {
   /** The available width for a single column, in px */
   columnWidth: number
-  /** The available height for content in a column, in px */
+  /** Full content width (both columns + gap), in px */
+  contentWidth: number
+  /** The available height for content in a column, in px (normal pages) */
   columnHeight: number
+  /** Column height on section heading pages (no header banner, taller) */
+  sectionHeadingColumnHeight: number
   /** All segments from all chapters, in order */
   chapters: Array<{
     title: string
@@ -384,10 +494,17 @@ export interface FlowResult {
  * This must be called after fonts are loaded and the DOM is ready.
  */
 export function runFlowEngine(options: FlowEngineOptions): FlowResult {
-  const { columnWidth, columnHeight, chapters, tocEntries = [] } = options
+  const {
+    columnWidth,
+    contentWidth,
+    columnHeight,
+    sectionHeadingColumnHeight,
+    chapters,
+    tocEntries = [],
+  } = options
 
   const measureContainer = createMeasureContainer(columnWidth)
-  const effectiveHeight = columnHeight - COLUMN_BOTTOM_RESERVE_PX
+  const normalEffective = columnHeight - COLUMN_BOTTOM_RESERVE_PX
 
   const pages: BookPage[] = []
   const chapterIndex: ChapterIndex[] = []
@@ -398,6 +515,8 @@ export function runFlowEngine(options: FlowEngineOptions): FlowResult {
   let rightSegments: Segment[] = []
   let currentColumn: 'left' | 'right' = 'left'
   let columnFill = 0 // px used in current column
+  /** Per-page effective column height — reduced by span-all content */
+  let effectiveHeight = normalEffective
 
   function getCurrentSegments(): Segment[] {
     return currentColumn === 'left' ? leftSegments : rightSegments
@@ -415,6 +534,7 @@ export function runFlowEngine(options: FlowEngineOptions): FlowResult {
     rightSegments = []
     currentColumn = 'left'
     columnFill = 0
+    effectiveHeight = normalEffective // reset for next page
   }
 
   function nextColumn(): void {
@@ -423,7 +543,11 @@ export function runFlowEngine(options: FlowEngineOptions): FlowResult {
       columnFill = 0
     } else {
       flushPage()
-      currentPage = newPage(pageNumber, currentPage.chapterTitle, currentPage.chapterIndex)
+      currentPage = newPage(
+        pageNumber,
+        currentPage.chapterTitle,
+        currentPage.chapterIndex,
+      )
     }
   }
 
@@ -452,6 +576,8 @@ export function runFlowEngine(options: FlowEngineOptions): FlowResult {
       const nextSeg = chapter.segments[i + 1]
 
       // ── Rule: H2 headings always start on a new page ──
+      // H2 and any fiction after it go to the span-all area above both columns.
+      // We measure their height and reduce the effective column height accordingly.
       if (isH2(seg)) {
         if (leftSegments.length > 0 || rightSegments.length > 0 || columnFill > 0) {
           flushPage()
@@ -459,9 +585,51 @@ export function runFlowEngine(options: FlowEngineOptions): FlowResult {
         }
         columnFill = 0
         currentColumn = 'left'
+
+        // Section heading pages hide the header banner → taller content area
+        const sectionBase = sectionHeadingColumnHeight - COLUMN_BOTTOM_RESERVE_PX
+
+        // The H2 decorative frame has a CSS min-height of ~160px that the
+        // measurement container can't see (CSS module styles). Use the
+        // frame reserve constant as the minimum H2 height.
+        const h2Measured = measureSeg(seg)
+        const h2Height = Math.max(h2Measured, H2_FRAME_RESERVE_PX)
+
+        // Place H2 in segments (renderer extracts it to spanAll)
+        leftSegments.push(seg)
+
+        let spanAllHeight = h2Height
+
+        // Check if next segment is fiction/blockquote that also spans
+        const nextI = i + 1
+        if (nextI < chapter.segments.length) {
+          const followingSeg = chapter.segments[nextI]
+          if (followingSeg.type === 'blockquote') {
+            // Measure fiction blockquote with fiction-intro class for accurate
+            // font size (the default flavour-text class is only 11px)
+            const fictionEl = document.createElement('div')
+            fictionEl.style.overflow = 'hidden'
+            const inner = document.createElement('div')
+            inner.className = 'flavour-text fiction-intro'
+            inner.innerHTML = (followingSeg as { html: string }).html
+            fictionEl.appendChild(inner)
+            const fictionHeight =
+              measureElement(fictionEl, measureContainer) + FICTION_AFTER_H2_MARGIN_PX
+            spanAllHeight += fictionHeight
+            leftSegments.push(followingSeg)
+            i++ // skip fiction in main loop
+          }
+        }
+
+        // Reduce effective column height for this page
+        effectiveHeight = sectionBase - spanAllHeight
+        continue
       }
 
       // ── Rule: Front-matter fiction starts on a new page ──
+      // Fiction renders full-width in spanAll at a larger font (15-16px) that the
+      // measurement container can't replicate (CSS module styles only).
+      // Force all consecutive fiction segments onto a single dedicated page.
       if (
         chapter.index === 0 &&
         isFiction(seg) &&
@@ -471,6 +639,14 @@ export function runFlowEngine(options: FlowEngineOptions): FlowResult {
           flushPage()
           currentPage = newPage(pageNumber, chapter.title, chapter.index)
         }
+        // Gather all consecutive fiction paragraphs without height-checking
+        leftSegments.push(seg)
+        while (i + 1 < chapter.segments.length && isFiction(chapter.segments[i + 1])) {
+          i++
+          leftSegments.push(chapter.segments[i])
+        }
+        columnFill = effectiveHeight // mark column as full
+        continue
       }
 
       // ── Rule: "FORBIDDEN LANDS" h3 in front-matter starts page 3 ──
@@ -486,16 +662,64 @@ export function runFlowEngine(options: FlowEngineOptions): FlowResult {
         }
       }
 
+      // ── Rule: Credits page column break at "ILLUSTRATIONS & GRAPHICS" ──
+      // Forces the right column to start at this heading so credits are balanced.
+      if (
+        chapter.index === 0 &&
+        currentColumn === 'left' &&
+        seg.type === 'heading' &&
+        (seg as HeadingSegment).level === 3 &&
+        (seg as HeadingSegment).text.toUpperCase().includes('ILLUSTRATION')
+      ) {
+        currentColumn = 'right'
+        columnFill = 0
+      }
+
+      // ── Rule: Smart table placement ──
+      // Tables with >3 columns span both columns. Large tables get a
+      // dedicated page. Very large tables are split across pages by rows.
+      if (seg.type === 'table') {
+        const tSeg = seg as TableSegment
+        const layout = analyzeTable(tSeg, columnWidth, contentWidth, measureContainer)
+
+        if (layout.spanAll) {
+          // Mark segment for the renderer
+          tSeg.spanAll = true
+
+          // Spanning table needs a fresh page (placed in span-all zone)
+          if (leftSegments.length > 0 || rightSegments.length > 0 || columnFill > 0) {
+            flushPage()
+            currentPage = newPage(pageNumber, chapter.title, chapter.index)
+          }
+
+          if (layout.height > normalEffective * TABLE_FULL_PAGE_THRESHOLD) {
+            // Large table: dedicated page, mark column as full
+            leftSegments.push(tSeg)
+            columnFill = effectiveHeight
+          } else {
+            // Place in span-all zone above columns, deduct from column height
+            leftSegments.push(tSeg)
+            effectiveHeight = normalEffective - layout.height
+            columnFill = 0
+          }
+          continue
+        }
+
+        // Non-spanning table: measure at column width and use normal flow
+        // (falls through to the standard segment handling below)
+      }
+
       // Measure the segment
       const segHeight = measureSeg(seg)
 
       // ── Rule: Heading + follow-on content cohesion ──
-      // If a heading barely fits but leaves no room for the next segment,
-      // move it to the next column/page.
+      // A heading must never be the last thing in a column. Ensure enough
+      // room for meaningful follow-on content (at least ~3 lines of body
+      // text). If not, move the heading to the next column/page.
       if (isHeading(seg) && nextSeg) {
         const headingLevel = (seg as HeadingSegment).level
-        // Measure a minimum follow-on (one line of body text ≈ 18px)
-        const minFollowOn = headingLevel >= 3 ? 20 : 30
+        // Minimum follow-on: ~3 lines body text for H3/H4, ~3.5 for H1/H2
+        const minFollowOn = headingLevel >= 3 ? 40 : 50
         if (columnFill + segHeight + minFollowOn > effectiveHeight) {
           nextColumn()
           if (currentColumn === 'left') {
@@ -516,8 +740,15 @@ export function runFlowEngine(options: FlowEngineOptions): FlowResult {
       // ── Overflow: segment does not fit ──
       const availableSpace = effectiveHeight - columnFill
 
+      // ── Rule: No single-line orphan splits ──
+      // If a multi-line paragraph can only show ~1 line at the column bottom,
+      // move the whole paragraph instead of splitting. One body-text line is
+      // ~16px (11px × 1.45 line-height) + ~5.5px margin ≈ 21px. Require
+      // room for at least 2 lines (~40px) before attempting a split.
+      const MIN_SPLIT_HEIGHT = 40
+
       // Try paragraph splitting
-      if (seg.type === 'paragraph' && availableSpace > 30) {
+      if (seg.type === 'paragraph' && availableSpace > MIN_SPLIT_HEIGHT) {
         const pSeg = seg as ParagraphSegment
 
         // Try list split first

@@ -46,8 +46,9 @@
   /* No column-span needed in explicit layout */
 }
 
-/* ## headings should render as framed full-span section banners */
-.columns :global(h2.section-heading) {
+/* ## headings should render as framed full-span section banners.
+   H2 is extracted to .spanAllWrap above .columns by the flow engine. */
+.spanAllWrap :global(h2.section-heading) {
   /* Rendered in spanAll zone above columns */
   --section-frame-height: clamp(124px, 18vw, 160px);
   position: relative;
@@ -77,8 +78,9 @@
 
 /* Guard rail: chapter fiction is the blockquote immediately after an H2.
    Keep generous space from the framed H2 and breathing room below fiction.
-   We intentionally scope this to fiction wrappers only. */
-.sectionHeadingPage > .headingWrap:first-child + * {
+   Selector targets the fiction wrap as the sibling after the heading wrap
+   inside the outer spanAllWrap container. */
+.spanAllWrap > .headingWrap:first-child + * {
   margin-top: 26px;
 }
 
@@ -86,7 +88,7 @@
   margin-bottom: 20px;
 }
 
-.columns :global(h2.section-heading)::before {
+.spanAllWrap :global(h2.section-heading)::before {
   content: '';
   position: absolute;
   left: 50%;
@@ -108,14 +110,14 @@
 }
 
 /* Flavour text / blockquotes span both columns — rendered in spanAll area */
-.columns :global(.flavour-text) {
+.spanAllWrap :global(.flavour-text) {
   hyphens: none;
   text-align: center;
   font-style: italic;
 }
 
 /* Fiction intro paragraphs span both columns — rendered in spanAll area */
-.columns :global(.fiction-intro) {
+.spanAllWrap :global(.fiction-intro) {
   hyphens: none;
   text-align: center;
   font-style: italic;
@@ -138,10 +140,12 @@
   hyphens: none;
 }
 
-/* Credits page only: nudge both columns a bit lower so first right-column
-   heading text doesn't get clipped by the H2 frame overlap. */
+/* Credits page only: push columns below the H2 decorative frame.
+   The ::before frame extends past the H2 bottom due to its aspect ratio
+   (110% width × 387/1009 ≈ 207px tall, centred on ~160px min-height).
+   Extra padding prevents overlap with the column content below. */
 .frontMatterCreditsPage :global(h2.section-heading) {
-  padding-bottom: 10px;
+  padding-bottom: 24px;
 }
 
 /* Page-1 credits: explicit span-all spacer after H2 so BOTH columns

@@ -5,9 +5,11 @@ import styles from './TableBlock.module.css'
 interface TableBlockProps {
   headers: string[]
   rows: string[][]
+  /** Table spans both columns (set by flow engine for >3-column tables) */
+  spanAll?: boolean
 }
 
-export default function TableBlock({ headers, rows }: TableBlockProps) {
+export default function TableBlock({ headers, rows, spanAll }: TableBlockProps) {
   function renderFixedInline(text: string) {
     const fixed = smartFixContent(text)
     const clean =
@@ -18,7 +20,8 @@ export default function TableBlock({ headers, rows }: TableBlockProps) {
   }
 
   return (
-    <div className={styles.wrapper}>
+    <div className={`${styles.wrapper} ${spanAll ? styles.wrapperSpan : styles.wrapperColumn}`}>
+      <div className={styles.dressTop} />
       <table className={styles.table}>
         {headers.length > 0 && (
           <thead>
@@ -43,6 +46,7 @@ export default function TableBlock({ headers, rows }: TableBlockProps) {
           ))}
         </tbody>
       </table>
+      <div className={styles.dressBottom} />
     </div>
   )
 }

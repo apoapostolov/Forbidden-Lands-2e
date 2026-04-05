@@ -33,6 +33,20 @@ export default function TextBlock({
     .filter(Boolean)
     .join(' ')
 
+  // Non-fiction blockquotes get decorative sidebar treatment
+  if (variant === 'blockquote' && !isFiction) {
+    return (
+      <div className={styles.sidebar}>
+        <div className={styles.sidebarTop} />
+        <div
+          className={className}
+          dangerouslySetInnerHTML={{ __html: clean }}
+        />
+        <div className={styles.sidebarBottom} />
+      </div>
+    )
+  }
+
   return (
     <div
       className={className}

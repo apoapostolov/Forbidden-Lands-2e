@@ -37,6 +37,8 @@ export interface TableSegment extends BaseSegment {
   type: 'table'
   headers: string[]
   rows: string[][]
+  /** Set by flow engine: table should span both columns */
+  spanAll?: boolean
 }
 
 export interface HRSegment extends BaseSegment {

@@ -33,7 +33,9 @@
 
 .block :global(ul li) {
   margin-bottom: 0.25em;
-  padding-left: 0;
+  /* Hanging indent: diamond ✦ protrudes left of wrapped text by ~half its glyph width */
+  padding-left: 0.3em;
+  text-indent: -0.3em;
 }
 
 /* Diamond bullet via ::before pseudo-element */
@@ -95,4 +97,27 @@
 .block :global(li),
 .block :global(strong) {
   filter: brightness(1);
+}
+
+/* ── Decorative sidebar for non-fiction blockquotes ──────────── */
+.sidebar {
+  position: relative;
+  margin: 0.5em 0;
+  padding: 0;
+}
+
+.sidebarTop {
+  height: 26px;
+  margin-bottom: 4px;
+  background: url('/assets/decorations/blockquote-top.png') no-repeat center top;
+  background-size: 100% auto;
+  pointer-events: none;
+}
+
+.sidebarBottom {
+  height: 18px;
+  margin-top: 4px;
+  background: url('/assets/decorations/blockquote-bottom.png') no-repeat center bottom;
+  background-size: 100% auto;
+  pointer-events: none;
 }

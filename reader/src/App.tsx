@@ -4,7 +4,7 @@ import NavBar from '@components/NavBar/NavBar'
 import SearchPanel from '@components/SearchPanel/SearchPanel'
 import TableOfContents from '@components/TableOfContents/TableOfContents'
 import bookDataRaw from '@data/book-data.json'
-import { useFlowPagination, PAGE_METRICS } from '@hooks/useFlowPagination'
+import { PAGE_METRICS, useFlowPagination } from '@hooks/useFlowPagination'
 import { searchBook } from '@utils/search'
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 
@@ -61,7 +61,9 @@ export default function App() {
     chapters,
     tocEntries: rawData.toc,
     columnWidth: PAGE_METRICS.columnWidth,
+    contentWidth: PAGE_METRICS.contentWidth,
     columnHeight: PAGE_METRICS.contentHeight,
+    sectionHeadingColumnHeight: PAGE_METRICS.sectionHeadingContentHeight,
   })
 
   const [currentPage, setCurrentPage] = useState(-1)
@@ -105,16 +107,18 @@ export default function App() {
   // Show loading state while flow engine runs
   if (!isReady || !bookData) {
     return (
-      <div style={{
-        display: 'flex',
-        alignItems: 'center',
-        justifyContent: 'center',
-        height: '100vh',
-        color: '#8b7355',
-        fontFamily: 'var(--font-body)',
-        fontSize: '18px',
-        background: '#1c1c1c',
-      }}>
+      <div
+        style={{
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          height: '100vh',
+          color: '#8b7355',
+          fontFamily: 'var(--font-body)',
+          fontSize: '18px',
+          background: '#1c1c1c',
+        }}
+      >
         {error ? (
           <div style={{ color: '#cc4444', textAlign: 'center' }}>
             <p>Flow engine error:</p>
@@ -174,4 +178,3 @@ export default function App() {
     </>
   )
 }
-

@@ -112,6 +112,17 @@
   margin: 0.6em 0;
 }
 
+/* Fiction intro: larger italic text used for chapter and front-matter fiction.
+   CSS-module selectors override font-size for specific contexts. */
+.fiction-intro {
+  font-family: var(--font-body);
+  font-size: 16px;
+  font-style: italic;
+  line-height: 1.72;
+  color: var(--text-primary);
+  margin: 0.3em 0;
+}
+
 /* ── 8. Small-Caps Inline (NorthwoodHigh-SC700 substitute) ──── */
 .small-caps-deco {
   font-family: var(--font-small-caps);
@@ -147,12 +158,14 @@ hr.section-rule {
   opacity: 0.3;
 }
 
-/* ── Legacy alias so existing JSX still works ────────────────── */
+/* ── Decorative HR separator — diamond ornament from the book ─ */
 .gold-rule {
   border: none;
-  border-top: 1px solid var(--rule-color);
-  margin: 0.8em 0;
-  opacity: 0.35;
+  height: 14px;
+  margin: 0.7em auto;
+  background: url('/assets/decorations/hr-separator.png') no-repeat center;
+  background-size: auto 100%;
+  opacity: 0.85;
 }
 
 hr.gold-rule {

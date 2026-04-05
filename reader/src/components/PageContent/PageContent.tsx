@@ -42,10 +42,7 @@ function splitByColumnBreak(segments: Segment[]): {
       spanAll.push(seg)
       i++
       // Blockquote immediately after H2 is fiction — also spans
-      if (
-        i < segments.length &&
-        segments[i].type === 'blockquote'
-      ) {
+      if (i < segments.length && segments[i].type === 'blockquote') {
         spanAll.push(segments[i])
         i++
       }
@@ -60,10 +57,14 @@ function splitByColumnBreak(segments: Segment[]): {
     }
 
     // Fiction paragraphs span
-    if (
-      seg.type === 'paragraph' &&
-      (seg as ParagraphSegment).isFiction
-    ) {
+    if (seg.type === 'paragraph' && (seg as ParagraphSegment).isFiction) {
+      spanAll.push(seg)
+      i++
+      continue
+    }
+
+    // Spanning tables (>3 columns, marked by flow engine)
+    if (seg.type === 'table' && (seg as TableSegment).spanAll) {
       spanAll.push(seg)
       i++
       continue
@@ -165,7 +166,7 @@ function renderSegment(
       }
       case 'table': {
         const t = seg as TableSegment
-        return <TableBlock key={idx} headers={t.headers} rows={t.rows} />
+        return <TableBlock key={idx} headers={t.headers} rows={t.rows} spanAll={t.spanAll} />
       }
       case 'hr':
         // Skip column break markers
@@ -193,7 +194,8 @@ function renderSegment(
   if (element && seg.type !== 'hr') {
     const isSpanAll =
       (seg.type === 'heading' && (seg as HeadingSegment).level === 2) ||
-      isChapterFictionAfterH2
+      isChapterFictionAfterH2 ||
+      (seg.type === 'table' && !!(seg as TableSegment).spanAll)
 
     return (
       <div
@@ -247,19 +249,13 @@ export default function PageContent({
     >
       {/* Span-all content: H2 banners, fiction, chapter titles */}
       {spanAllRendered.length > 0 && (
-        <div className={styles.spanAllWrap}>
-          {spanAllRendered}
-        </div>
+        <div className={styles.spanAllWrap}>{spanAllRendered}</div>
       )}
 
       {/* Two explicit columns */}
       <div className={styles.columns}>
-        <div className={styles.column}>
-          {leftRendered}
-        </div>
-        <div className={styles.column}>
-          {rightRendered}
-        </div>
+        <div className={styles.column}>{leftRendered}</div>
+        <div className={styles.column}>{rightRendered}</div>
       </div>
     </main>
   )
