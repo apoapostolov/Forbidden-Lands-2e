@@ -756,7 +756,7 @@ You can choose from the following categories when TRAINING an animal or monster.
 
 - **✦ Tricks:** You have taught your animal some basic party tricks, like "Come," "Sit," "Play dead," "Roll over," "Bark," "Spin," "Drop it," and "Beg." The exact tricks it will know will vary depending on the animal. These tricks can be taught even without the Animal Whisperer talent.
 - **✦ Ride:** You can mount/ride the animal, and it will listen to your commands. This training is included for non-predatory animals like horses when they are tamed. It cannot be applied to animals that cannot physically be ridden.
-- **✦ War:** You no longer need to make an ANIMAL HANDLING roll to keep an animal from fleeing if it is wounded, there are loud noises, a heavy smell of blood, or there is general confusion around it. This training is only necessary for "prey animals" and not for predators.
+- **✦ War:** You no longer need to make an ANIMAL HANDLING roll to keep an animal from fleeing if it is wounded, there are loud noises, a heavy smell of blood, or there is general confusion around it. This training is only necessary for "prey animals" and is naturally learned behavior for predators.
 - **✦ War II:** Requires War. You have applied even more training for extreme situations so that it ignores fear attacks, being surrounded by fire, or hearing nearby powerful explosions.
 - **✦ Attack:** You spend a FAST action to have your animal to engage in the same zone and attack a target once. If you have multiple trained animals, you must take SLOW action to direct up to two of them.
 - **✦ Guard:** After giving the command, it will alert the owner (or wake them) to any presence of danger it perceives. It can also add a gear dice to a lookout's SCOUTING rolls.
