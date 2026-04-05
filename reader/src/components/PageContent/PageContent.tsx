@@ -18,6 +18,81 @@ interface PageContentProps {
   chapterIndex?: number
 }
 
+/**
+ * Split segments into left/right columns using the __column_break__ marker
+ * inserted by the flow engine.
+ */
+function splitByColumnBreak(segments: Segment[]): {
+  spanAll: Segment[]
+  left: Segment[]
+  right: Segment[]
+} {
+  const spanAll: Segment[] = []
+  const left: Segment[] = []
+  const right: Segment[] = []
+
+  // First, extract span-all elements (H2 heading, fiction after H2, H1)
+  // These go above the two-column layout
+  let i = 0
+  while (i < segments.length) {
+    const seg = segments[i]
+
+    // H2 section heading always spans
+    if (seg.type === 'heading' && (seg as HeadingSegment).level === 2) {
+      spanAll.push(seg)
+      i++
+      // Blockquote immediately after H2 is fiction — also spans
+      if (
+        i < segments.length &&
+        segments[i].type === 'blockquote'
+      ) {
+        spanAll.push(segments[i])
+        i++
+      }
+      continue
+    }
+
+    // H1 chapter title spans
+    if (seg.type === 'heading' && (seg as HeadingSegment).level === 1) {
+      spanAll.push(seg)
+      i++
+      continue
+    }
+
+    // Fiction paragraphs span
+    if (
+      seg.type === 'paragraph' &&
+      (seg as ParagraphSegment).isFiction
+    ) {
+      spanAll.push(seg)
+      i++
+      continue
+    }
+
+    break
+  }
+
+  // Now split remaining segments at the column break marker
+  let inRightColumn = false
+  for (; i < segments.length; i++) {
+    const seg = segments[i]
+
+    // Check for column break marker
+    if (seg.type === 'hr' && seg.id === '__column_break__') {
+      inRightColumn = true
+      continue
+    }
+
+    if (inRightColumn) {
+      right.push(seg)
+    } else {
+      left.push(seg)
+    }
+  }
+
+  return { spanAll, left, right }
+}
+
 function renderSegment(
   seg: Segment,
   idx: number,
@@ -45,17 +120,6 @@ function renderSegment(
     seg.type === 'paragraph' &&
     !!(seg as ParagraphSegment).isFiction &&
     chapterIndex === 0
-
-  const isFrontMatterCreditsSecondColumnStart =
-    chapterIndex === 0 &&
-    pageNumber === 1 &&
-    seg.type === 'heading' &&
-    (seg as HeadingSegment).level === 3 &&
-    (seg as HeadingSegment).text === 'ILLUSTRATIONS & GRAPHICS'
-
-  const shouldSpanAll =
-    (seg.type === 'heading' && (seg as HeadingSegment).level === 2) ||
-    isChapterFictionAfterH2
 
   const isHeading = seg.type === 'heading'
 
@@ -104,6 +168,8 @@ function renderSegment(
         return <TableBlock key={idx} headers={t.headers} rows={t.rows} />
       }
       case 'hr':
+        // Skip column break markers
+        if (seg.id === '__column_break__') return null
         return <hr key={idx} className="gold-rule" />
       case 'image-ref': {
         const img = seg as ImageRefSegment
@@ -125,11 +191,15 @@ function renderSegment(
 
   // Wrap in a div to attach data attribute for search highlighting
   if (element && seg.type !== 'hr') {
+    const isSpanAll =
+      (seg.type === 'heading' && (seg as HeadingSegment).level === 2) ||
+      isChapterFictionAfterH2
+
     return (
       <div
         key={idx}
         data-segment-idx={idx}
-        className={`${styles.segmentWrap} ${isHeading ? styles.headingWrap : ''} ${shouldSpanAll ? styles.spanAllWrap : ''} ${isChapterFictionAfterH2 ? styles.fictionAfterH2Wrap : ''} ${isMarkedFrontMatterFiction ? styles.frontMatterFictionWrap : ''} ${isFrontMatterCreditsSecondColumnStart ? styles.creditsSecondColumnStart : ''}`}
+        className={`${styles.segmentWrap} ${isHeading ? styles.headingWrap : ''} ${isSpanAll ? styles.spanAllWrap : ''} ${isChapterFictionAfterH2 ? styles.fictionAfterH2Wrap : ''} ${isMarkedFrontMatterFiction ? styles.frontMatterFictionWrap : ''}`}
       >
         {element}
       </div>
@@ -146,40 +216,51 @@ export default function PageContent({
   chapterIndex,
 }: PageContentProps) {
   const isFrontMatterCreditsPage = chapterIndex === 0 && pageNumber === 1
-  const firstCreditsH2Index = isFrontMatterCreditsPage
-    ? segments.findIndex(
-        (seg) => seg.type === 'heading' && (seg as HeadingSegment).level === 2,
-      )
-    : -1
 
-  const renderedSegments = segments.map((seg, idx) =>
-    renderSegment(seg, idx, segments, pageNumber, chapterIndex),
+  // Split segments into span-all / left / right sections
+  const { spanAll, left, right } = splitByColumnBreak(segments)
+
+  // Render span-all elements (H2 banners, fiction)
+  const spanAllRendered = spanAll.map((seg, idx) =>
+    renderSegment(seg, idx, spanAll, pageNumber, chapterIndex),
   )
 
-  if (firstCreditsH2Index >= 0) {
-    renderedSegments.splice(
-      firstCreditsH2Index + 1,
-      0,
-      <div
-        key="credits-columns-offset"
-        className={`${styles.segmentWrap} ${styles.spanAllWrap} ${styles.creditsColumnsOffset}`}
-        aria-hidden="true"
-      />,
-    )
-  }
+  // Render left column segments
+  const leftRendered = left.map((seg, idx) =>
+    renderSegment(seg, idx, left, pageNumber, chapterIndex),
+  )
+
+  // Render right column segments
+  const rightRendered = right.map((seg, idx) =>
+    renderSegment(seg, idx, right, pageNumber, chapterIndex),
+  )
 
   return (
     <main
-      className={`${styles.columns} ${sectionHeadingPage ? styles.sectionHeadingPage : ''} ${isFrontMatterCreditsPage ? styles.frontMatterCreditsPage : ''}`}
+      className={`${sectionHeadingPage ? styles.sectionHeadingPage : ''} ${isFrontMatterCreditsPage ? styles.frontMatterCreditsPage : ''}`}
       role="region"
       aria-label="Page content"
-      // Stop pointer events from reaching the flip library so that the text
-      // area remains selectable/copyable. Clicks in the page margin padding
-      // (outside this element) still propagate and trigger the page turn.
+      style={{ flex: 1, minHeight: 0, display: 'flex', flexDirection: 'column' }}
+      // Stop pointer events from reaching the flip library
       onMouseDown={(e) => e.stopPropagation()}
       onClick={(e) => e.stopPropagation()}
     >
-      {renderedSegments}
+      {/* Span-all content: H2 banners, fiction, chapter titles */}
+      {spanAllRendered.length > 0 && (
+        <div className={styles.spanAllWrap}>
+          {spanAllRendered}
+        </div>
+      )}
+
+      {/* Two explicit columns */}
+      <div className={styles.columns}>
+        <div className={styles.column}>
+          {leftRendered}
+        </div>
+        <div className={styles.column}>
+          {rightRendered}
+        </div>
+      </div>
     </main>
   )
 }
