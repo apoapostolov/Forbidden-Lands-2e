@@ -76,6 +76,15 @@ requires deep multi-register work.
   for any fiction drafting — vignettes, epigraphs,
   character scenes, or proposal fiction previews.**
 
+- `references/setting-ravenland-and-human-peoples.md`
+  World and culture reference. Geography (Weatherstone,
+  Harga, Stillmire, Amber Peaks, etc.), the three human
+  peoples (Alderlander, Aslene, Ailander) with physical
+  archetypes and cultural tells, kin quick-reference,
+  magic path notes, and a proper-noun appendix. **Load
+  when writing or revising fiction that involves place
+  names, character nationality, or kin identity.**
+
 - `references/writing-manual.md`
   The unified writing authority. Voice identity, register
   system, paragraph and sentence rules, diction, fiction
@@ -149,14 +158,10 @@ a draft from the manuscript.
    - "This is not a rule. It is a consequence." → "This is
      not a rule, it is a consequence that follows from the
      world's logic."
-     Any two-sentence pair where the first sentence negates
-     and the second corrects must be collapsed into one sentence
-     or rewritten in a form that does not lean on the negation
-     as a structural device.
-     rule-of-three, copula avoidance, elegant variation,
-     negative parallelisms, hedging stacks, sycophantic
-     qualifiers, filler phrases, and generic positive endings.
-     If any survive, cut them.
+   Any two-sentence pair where the first sentence negates
+   and the second corrects must be collapsed into one sentence
+   or rewritten in a form that does not lean on the negation
+   as a structural device.
 
 4. **No synonym cycling.** If the game calls it Willpower,
    call it Willpower. Do not write "mental reserves" in one

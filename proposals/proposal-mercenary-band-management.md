@@ -80,7 +80,7 @@ _Feeding the Band · Provisions_
 
 Gest counted heads at the cookfire and came up one short.
 
-"Skalva," he said, to no one in particular. Then louder, toward the treeline: "Skalva." The boy came back carrying his boots, which he had been washing in the stream, because the boy washed his boots every morning as though clean leather would keep him alive. Gest took the boots out of his hands and dropped them next to the fire. "Eat," he said. "Then boots." Skalva sat down. He had learned in three weeks not to argue with the sergeant about the order of things.
+"Skalva," he said, to no one in particular. Then louder, toward the treeline: "Skalva." The boy came back from the stream carrying his boots. He was short and stocky, light-haired, the kind of pale that came from years of flat grey sky rather than weeks of cold. He washed his boots every morning as though clean leather would keep him alive. Gest took the boots out of his hands and dropped them next to the fire. "Eat," he said. "Then boots." Skalva sat down. He had learned in three weeks not to argue with the sergeant about the order of things.
 
 The Gristle watched from the other side of the fire and said nothing. She had fifteen men and Skalva, and all sixteen of them needed a quarter-day of food before they could march anywhere. That was the calculation, every morning, before routes or contracts or the question of whether the village they had been hired to protect was worth protecting. Fifteen men and a boy with clean boots. She scraped the last of the porridge from the pot with her knife and ate it off the blade. There would be nothing else until evening.
 
@@ -236,7 +236,7 @@ _Discipline and Punishment_
 
 Ferrec stole three silver from Brosa's kit while the column was marching.
 
-Brosa noticed at evening count, said nothing for an hour, then went to Gest. Gest went to the Gristle. The Gristle went to Ferrec.
+Brosa noticed at evening count, said nothing for an hour, then went to Gest. Gest went to the Gristle. The Gristle went to Ferrec. He had a flat-boned face and dark eyes that moved before the rest of him did — a man who read every room's exits before he read its fire.
 
 "Open your belt."
 
@@ -438,7 +438,7 @@ _Mercenary Hoards_
 
 The Gristle told Gest and no one else. Petter she did not tell because Petter did not need to know, and the fewer men who knew where the money went, the fewer calculations happened when things got bad.
 
-She walked an hour east of camp at dusk, carrying twenty silver and a good knife wrapped in oilcloth, and dug a hole at the base of a boulder where the stream split around a stand of birch. The boulder was distinctive — split down the middle, pale granite against the dark earth, visible from the path only if you knew to look left at the fork. She buried the bundle, covered it, scattered needles and leaf-rot over the disturbed soil, and walked back. She did not mark it. She wrote the location in the ledger in a cipher Gest had taught her, using the names of rivers for compass directions and the names of the dead for distances.
+She walked an hour east of camp at dusk, pale-haired and tall against the last of the light, carrying twenty silver and a good knife wrapped in oilcloth, and dug a hole at the base of a boulder where the stream split around a stand of birch. The boulder was distinctive — split down the middle, pale granite against the dark earth, visible from the path only if you knew to look left at the fork. She buried the bundle, covered it, scattered needles and leaf-rot over the disturbed soil, and walked back. She did not mark it. She wrote the location in the ledger in a cipher Gest had taught her, using the names of rivers for compass directions and the names of the dead for distances.
 
 If she died, Gest could read the cipher, because Gest had taught it to her. If they both died, the money stayed in the ground, and whoever found it in ten or fifty years would wonder who had buried a good knife beside twenty silver at the base of a split rock in a forest that did not have a name.
 
@@ -460,7 +460,7 @@ _Named Man Agendas · Payment in Goods_
 
 The contract had been paid in kind — grain, two goats, and the elder's offer of hospitality for the night. That was how villages paid when silver was thin, and the Gristle had learned to read the offer: what was on the table, and what was being kept off it.
 
-Rask came to her at dusk. He had been with the company four years, Veteran tier, two shares, entitled to say things the common men were not.
+Rask came to her at dusk. He was compact and dark-eyed, a frame built low and close the way horse-country built men, and he had been with the company four years — Veteran tier, two shares, entitled to say things the common men were not.
 
 "The elder has a daughter," he said.
 
@@ -550,7 +550,7 @@ _Death of a Member · Distribution of Trappings_
 
 Haldr's boots went to Skalva, because Skalva's were rotting and Haldr's were the right size. His belt knife went to Brosa, who had been using a borrowed blade since he signed. His cloak went to stores. His shield — a good one, banded iron, two years of service on it — went to the company inventory, where Gest marked it and shelved it and did not assign it until the next man was hired, because a dead man's shield on a new man's arm on the same day was bad for morale in ways that did not show immediately but showed eventually.
 
-What Haldr had in personal effects: a copper ring, a scrap of letter from someone whose handwriting nobody recognized, two silver coins hidden in his boot lining, and a lock of hair tied with leather cord. These went into a pouch. The pouch went to the Gristle.
+What Haldr had in personal effects: a copper ring, a scrap of letter from someone whose handwriting nobody recognized, two silver coins hidden in his boot lining, and a lock of straw-fair hair tied with leather cord. These went into a pouch. The pouch went to the Gristle.
 
 If they passed through Weatherstone in the spring, the pouch would go to the sister Petter had mentioned. If they did not pass through Weatherstone, the pouch would stay in the strongbox until it did not matter anymore, and eventually the ring would be spent, the letter would rot, and the lock of hair would be one more thing that outlived the person it was meant for.
 
@@ -567,6 +567,226 @@ Ask Skalva why he joined. He would say the farm burned. This was true. Ask what 
 The truth was something they all shared and none of them said aloud: they knew how to do this. They knew who the men around them were, which ones held and which ones ran, where the next meal was coming from and how far to the next village. That was a kind of certainty. Out there — past the contract, past the column, in whatever life they were supposedly saving toward — there was none.
 
 The Ravenlands did not reward the man who stopped walking.
+
+---
+
+#### The Contract
+
+_Contract Law · Binding Terms_
+
+The merchant's name was Ordovast, and he brought a clerk.
+
+The clerk had parchment, a seal, and the kind of handwriting that was small and even and meant to be too small to read quickly. He set three sheets on the table in the Hollowford inn and looked at the Gristle with the expression of a man who had learned that all negotiations were theater and that the theater was his.
+
+The Gristle looked at the sheets without picking them up. "Read it to me."
+
+The clerk read it. Somewhere in the middle of the third sheet, the Gristle said, "Stop."
+
+"Ma'am?"
+
+"Clause fourteen. 'All captures in excess of the contract scope belong to the engaging party.'"
+
+Ordovast spread his hands. "Standard form."
+
+"It is not standard. It means if we find anything in that ruin that isn't on your list, you take it. It means I'm working for sixty silver and handing you everything we pull out of the dark. It means my men risk their necks for flat wage and you keep the upside."
+
+Ordovast smiled the smile of a man who had explained this before. "You are of course free to negotiate."
+
+"Remove clause fourteen. Add a finder's fee — twelve percent of assessed value on anything recovered beyond scope."
+
+The clerk made a small sound. Ordovast looked at the ceiling. The Gristle waited with both hands flat on the table and did not help him by looking uncertain.
+
+"Ten percent," Ordovast said.
+
+"Twelve."
+
+"Done."
+
+The clerk scratched out clause fourteen and wrote the new terms in the margin. Ordovast sealed it and the Gristle pressed her ring into hot wax beside his seal, and the contract existed. It was not magic. It was not an oath. It was ink on parchment held together by the mutual knowledge that both parties would lose more by breaking it than by keeping it.
+
+"Dawn after tomorrow," the Gristle said. "East gate. Be there with the wagons."
+
+Ordovast nodded. The clerk rolled the parchment. Gest, who had said nothing throughout, picked up the copy and folded it into his jacket.
+
+"Did we do well?" he asked when they were outside.
+
+"We did fairly," the Gristle said. "That is better."
+
+---
+
+#### The Code
+
+_Band Law · Offenses_
+
+Nobody gave Skalva the list. He learned it the way everyone learned it: by watching who got hit, who got paid short, and who walked out of camp with nothing but what they were wearing.
+
+The rules were not written anywhere. They did not need to be. Every company ran on the same code because the code was not about company — it was about what happened when twenty armed men lived within arm's reach of each other for months at a time without walls or courts or anyone to appeal to.
+
+The first rule was the strongbox. You did not touch it. Not to borrow, not to hold, not to count. The strongbox was the captain's, and what made everything else work was the captain's word over it. A man who took from the box was not stealing coin — he was cutting the thing that kept twenty men from drawing blades at each other.
+
+The second rule was the fire. Any man at the fire ate. Any man who had eaten at your fire was covered until he ate at a different one. This was so old it had stopped being a rule and become something closer to weather.
+
+The third rule was the column. You held your position. You did not surge forward for glory and you did not fall back for fear, because both of those things meant the man on your left or right was now alone. Being alone in a line was how men died in ways that did not need to happen.
+
+The fourth rule was the dead. You spoke their names once, loudly, on the night they died. Then you stopped. The dead did not march, did not eat, did not draw a share. They were gone. The living had enough to carry.
+
+Skalva learned all of it in his first six weeks. Nobody taught him. He watched what Petter enforced with silence, what Gest enforced with words, and what the Gristle enforced with consequence — and after a while the code lived in him the way it lived in everyone, which was to say: in the body, before the brain.
+
+---
+
+#### Other Bands
+
+_Relations Between Companies_
+
+The other company came along the road from the south, ten men in roughly the same condition as the column — mud-black, road-pale, carrying the fatigue of a long contract in the set of their shoulders. Not hostile. Not easy. The way veterans held themselves when they did not know who they were looking at.
+
+Gest called a halt. The other column halted thirty paces out. Two captains walked out from their respective lines and met in the space between, two sword lengths apart, and spoke in the flat tones of people who did not know each other yet and intended to stay that way until they had reason to change it.
+
+"Ravenford road?"
+
+"Hollowford. You?"
+
+"North, then east. Amber Peak work."
+
+"South track?"
+
+"Barrow site, twelve miles back, east side of the road. Active. We lost a man."
+
+One nod. Professional acknowledgment of a professional disaster.
+
+"Name?"
+
+"The Three Knots. Out of Harga."
+
+"The Gristle's company. Out of wherever the last contract was."
+
+Neither of them offered a hand. They stepped back at the same interval and returned to their columns, and the two companies passed each other on the road without another word. The men watched the Three Knots as they went — running the count, reading the gear, marking the numbers and condition the way you read weather. Not suspicion. Assessment.
+
+When they had gone around the bend, Brosa said: "Lost a man to a barrow."
+
+"Every company has a barrow," Gest said. He was still watching the road. "South track was clear. That's worth knowing."
+
+---
+
+#### Earning a Name
+
+_Named Men · Reputation Events_
+
+The thing Skalva did at the Ashfall contract was not complicated. The contract was going wrong — three men down, the kill ground inside the ruin compromised, and the thing they had been hired to kill now between them and the exit. Petter was on the left holding a door that did not want to be held. Gest was calling the column back. What the Gristle was doing in the dark with her sword was not something any of them could see clearly from where they stood.
+
+Skalva was on the right side of the ruin near a window that opened onto the kill ground, and when the thing came through the gap in Petter's line he did not wait to be told. He put himself in the gap — not heroically, the way men talked about it later. He stepped into it the way you step into a queue, because nobody else was there and somebody needed to be. He braced the shield Haldr had left him and held for long enough that Petter could close the door and Gest could turn the column into something that functioned again.
+
+He did not drive the thing back. He held long enough that the men who could do those things had room to do them.
+
+After, when it was done and three men were bleeding and Ash was kneeling beside the worst of them with her hands pressed flat on the wound, the Gristle looked at Skalva.
+
+"That was right," she said. Two words. From the Gristle, it was a speech.
+
+Petter said nothing. That evening at the fire he sat down next to Skalva instead of across from him, which he had never done before. Within a week, three men were calling him Skalva the Door — not as a title, not a rank, but a story compressed to a single word, the way Named Men got named.
+
+Skalva did not use it himself. He did not need to.
+
+---
+
+#### Trust-Held
+
+_Trust-Held Bands · No Contract_
+
+There were no contracts north of the Stillmire in the late season. The boards were empty. The councils had nothing to post because they had spent their silver on grain and the grain had not come through. The Gristle knew this before they left, chose north anyway, and did not explain it to the men because the men would not have wanted the explanation.
+
+Three weeks north of Hollowford, the village of Brackmark sent a runner with a message: raiders had taken their elder, two families were in the wood and would not come out, and the village could pay eight copper now and the rest in spring. The Gristle asked what the rest was. The runner named a figure that would have been inadequate in a good season.
+
+She took the job. Gest wrote it in the ledger under the heading TRUST-HELD, which was the column for things not settled in ink.
+
+"If Brackmark can't pay in spring?" Brosa asked.
+
+"They'll pay what they can."
+
+"And if they can't pay anything?"
+
+"Then we did the job anyway and the name of Brackmark owes us something the ledger doesn't hold." She looked at him. "We are not the men who left them in the wood."
+
+There was not a contract. There was the eight copper and the runner's word and the Gristle's assessment that a trust-held band was the kind that could look faces in the eye on the next road south. They retrieved the elder in three days. The two families came out of the wood. Brackmark gave them the eight copper and seven loaves and a wheel of hard cheese and the faces of people who knew they were being treated better than the arithmetic justified.
+
+The Gristle did not explain this to Brosa. He was still asking the wrong questions.
+
+---
+
+### Host Life
+
+#### The Assembly
+
+_Host Play · Warmaster Authority_
+
+The Warmaster's name was Seld, and he had a hall in Ravenford and three companies already beneath his banner before the Gristle's arrived. She was not the fourth who had joined. She was the fourth who had been sent for — by courier, sealed document, no option implicit in the wording.
+
+The hall held seven captains. Seven companies, seven sets of numbers, seven assessments of the same man running behind the same eyes across the table.
+
+Seld spoke standing. He was pale-haired and cold-faced, with the unhurried delivery of a man who had never once had to wait for a room to go quiet. He laid the campaign the way Gest laid a plan of march: positions, logistics, timing, which village owed what to the supply line and which road would be closed by first frost. No promises about what victory paid. No appeal to anything but the mechanics of the thing.
+
+"Each captain holds their band," Seld said. "I hold the Host. You give me field obedience and council recommendation. I give you supply, intelligence, and the name at the top of the contract. If you hate someone in this room — and I expect you do — you keep it off the road."
+
+Two captains at the far end of the table were already looking at each other in the way that meant exactly that.
+
+Seld let the silence hold two beats. Long enough to land. Short enough to move past.
+
+"We ride the Stillmire corridor at first frost. Five days to gather rosters and send home the men who will not make the march. Any company that arrives under strength sends its captain to me personally to explain the number." He looked around the table. "Questions?"
+
+Nobody asked one. Not because there were none. Because every captain in the room had already calculated that questions were not why they had been called.
+
+---
+
+#### The Advisor
+
+_Host Play · Advisory Figures_
+
+The advisor had arrived with Seld's fourth company and used no name anyone had given him. The captains called him the Listener, which was not a compliment.
+
+He was a slight man — short through the frame, built economically, the kind of compact that came from a life of early work and not much of it after. He sat in the corner of every session and appeared to look at nothing, and most of the captains assumed he was decorative.
+
+He was not decorative.
+
+On the second day of the assembly, the captain from Harga — a man named Vord, competent and loud, with a reputation for filling rooms with his weight — accused the Gristle of padding her roster count to draw a larger supply share. He had numbers. He stated them in front of all seven captains, looked at Seld, and waited.
+
+The Listener looked up from his corner.
+
+Just the look. Nothing else.
+
+Seld said: "Vord. The Gristle's count is accurate. You know this."
+
+Vord's face went through something complicated. He nodded and sat down.
+
+The Gristle went back to the hall that evening and found the Listener still in his chair.
+
+"Truth Sense?" she said.
+
+"Vord believed what he said," the Listener replied. "You were correct. I confirmed which of you believed your numbers."
+
+"And if I had been lying?"
+
+"I would have told Seld." A pause. "I would have told you first."
+
+She had worked with enough people to know the ones whose use was making others uncertain. The Listener was not that. He was something simpler and therefore less avoidable: a man who knew which parts of what people said were true, and who reported to the one who could act on the knowledge. He served Seld the way a plumb line served a builder — not decoratively, but because without it you could not trust what looked straight.
+
+She decided to stay on his right side. She decided, also, to continue believing her own numbers.
+
+---
+
+#### Territorial Markers
+
+_Host Play · Camp Order_
+
+A Host camp was not a large band camp. It was five camps that happened to be adjacent, each with its own fire arrangement, its own perimeter, and its own unspoken agreement about where the boundary lay.
+
+Nobody posted signs. Nobody needed to. The markers were legible without them: the position of the latrines, the angle of the tent lines, the placement of the cook fire relative to the road. A camp that buried its fire pits when it moved was a company that did not want to be followed. A camp that built its perimeter stones waist-high instead of knee-high was a company that expected to hold ground and wanted the next company over to know it. A camp that kept its horses on the road-facing side was a company that left fast when it needed to.
+
+The Gristle put her camp two hundred paces from the nearest of Seld's companies, which was the Three Knots. That distance was not accident. Two hundred paces said: we are not separate, we are not combined. It said: we eat our own food and run our own watch and we are here because we chose it and we will still be here in the morning.
+
+The Three Knots captain posted a single man at the boundary facing away from the Gristle's camp — acknowledgment without claim. The Gristle sent Petter to the boundary that evening to sharpen something, which was her version of the same nod.
+
+The Host held seven companies. The camp held seven territories, marked by nothing and understood by all of them.
+
+---
 
 ## Section 1: The Band
 
