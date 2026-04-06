@@ -19,6 +19,63 @@ This can stand as a late section of Ch09 or as a standalone chapter if the merce
 The mercenary band system feeds the **base-building loop** and the **pressure economy** simultaneously. A band is a resource that generates coin and power, but also obligation, hunger, and moral weight. Running one should feel like herding dangerous animals in the rain. The system uses Quarter Day structure, existing condition mechanics, Settlement Reputation and Standing, and the FOOD resource die in ways that fit the existing engine without adding independent subsystems.
 
 ---
+---
+
+## Fiction Preview
+
+The following is a prose sample for the chapter opening or a sidebar. It is in the manuscript voice and subject to the writing standard from `WRITING_GUIDE.md`.
+
+---
+
+> _"The problem with twenty armed men," said the woman who later became known as the Torch Carrier, though not as a compliment, "is that they need to eat every day. The problem with twenty hungry armed men is your problem."_
+
+Mercenaries are not hirelings. A hireling tends to what you own. A mercenary is a force you direct toward a problem and hope comes back pointed the right way. Give him shelter and coin and the job stays simple. Miss a payment, let the job go wrong, give him a reason to look at you like a problem — and the calculation changes.
+
+The Ravenlands has no lack of men who would rather fight than farm. The wars that broke the world threw them up like silt. They are real fighters, most of them, scarred and practical and capable of the things fighters do. They will hold a position or clear a hex or ride hard to a burning village if that is what the contract asks. They will eat their share and sleep in what shelter they find and complain about both.
+
+But they are not loyal to a cause. They are loyal to what the cause pays, and to the man who stands in front of them when things go badly, and to the kind of work that lets them come back alive.
+
+Earn that, and you have a band. Lose it, and you have twenty men deciding whether to walk off or do something worse.
+
+---
+
+### Band Life — Extended Fiction
+
+The band eats first. Before the captain decides the march route, before the sergeant counts the watch rotation, before anyone puts a coin on a contract table — the band eats. Sixteen men need a full quarter-day's worth of food every morning, and sixteen hungry men are not sixteen men. They are sixteen separate calculations happening in sixteen heads, and every one of those calculations ends the same way. This is what a new captain learns in the first week.
+
+The next thing they learn is the march. Twenty miles in fair conditions. Fourteen in rain. Half that in the mud season, when the tracks between villages turn to brown channels and the men's boots rot through from inside. The Ravenlands does not have roads. It has the memory of roads — raised lines, old stone courses, paths that pre-Cataclysm carts used and that feet still find by instinct. Walk one long enough and you will find where it was cut by something that came up through the ground, or where the forest closed back in over twenty years, or where the bridge is now a rotten tangle three feet downstream from where it was built.
+
+---
+
+They camp inside daylight margins. Not from discipline — from arithmetic. The Mist still pools in low places after dark, thicker than air, heavier than fog, and men caught walking in it do not come back. The band has old soldiers who will tell you the worst of it lifted with the demon lords, that a man can walk two miles in it on a clear night and come through fine. Those are the same men who sleep with a knife across their chest and one boot on. Old habits from before they knew better, they say. Then they pull their fingers tight around the hilt and say nothing more.
+
+So the camp goes up before the light goes red. Fire first, then perimeter. A guard on the tree-line who lasts two hours before the cold makes him useless, then another guard, until dawn. Not because the captain orders it every night. After the third week, the men do it without being told. Fear is a better instructor than command, and the Ravenlands has never run short of fear.
+
+---
+
+A village sees them from half a mile. A hamlet will have someone up a tree before the band clears the wood-line. By the time the captain reaches the palisade gate or the elder's door, the goats have been moved twice and three men with iron are standing somewhere they can be seen. This is not hostility. It is memory.
+
+The villages that survive in the Ravenlands are the ones that learned to count strangers before the strangers counted them. Sixteen swords is larger than most villages can answer, and every elder between here and the Stillmist knows that the coin minted before the Cataclysm goes further in a mercenary's hand than in any other. Their silver is old. The faces stamped on it are kings who died before the grandfathers of these elders were born. The men carrying it have needs that a village cannot fill and places to spend it that a village farmer will never see, and when the captain speaks at the door the elder standing opposite them is calculating how much the village can give before winter becomes a problem worse than the band is.
+
+Most bands do not start with extortion. Most start with an honest demand and a reasonable number. But the arithmetic of sixteen hungry men against an elder who cannot feed them for three days without gutting the stores — that arithmetic closes fast. The captain who has not thought through what happens when it closes is the captain who finds out the hard way.
+
+---
+
+Inside the band, the social weight runs separate from rank. The sergeant holds authority. The captain holds coin and contract. But there is a third thing — harder to name — that lives in the man others look at when the situation turns bad. He is not always the sergeant. He is not always the biggest man. He is the one whose face does not change when the calculation gets ugly. The others do not discuss him. They do not vote for him. Over time, when trouble starts, they face the same direction he does. After a season, that direction is the one they trust.
+
+Bands that lose that man — to injury, to a clean desertion, to a contract that went wrong — feel the loss before they understand it. The morale holds until the first test. Then it does not hold.
+
+---
+
+The ones who last in this work are not the strongest or the fastest. They are the ones who never needed anyone to tell them that sleeping rough is fine, that cold food is fine, that the reward for doing the job correctly is getting to do the job again. They came from farms that burned or families that starved out or villages that could not feed one more mouth through the white months. They are practical in every way except the one that counts: they keep coming back.
+
+They are not unlike the first settlers who pushed into the Stillwood or up through the Blight Marshes when the Mist was still thick and no one had reason to believe any of them would return. Those men and women went because staying was also a kind of dying, and because the land beyond the hills did not ask them what they had done before they arrived. The band offers the same thing. Whatever you were before you signed — the empty field, the dead village, the name that now means nothing in a settlement that burned six years ago — the band does not care. You can march. You can hold a position. You eat when the food is there and you do not complain when it isn't. That is enough.
+
+Ask one of the old ones why they stay. They will name a figure — enough coin to get somewhere, enough to clear a debt, enough to buy land if the price stays honest. Push harder and the figure gets vague. Push harder still and they stop answering. The truth is that most of them could not say what they are marching back toward. They know how to do this. They know who the men around them are, which ones hold and which ones don't, where the next meal is and how far to the next village. That is a kind of certainty. Out there — beyond the contract, beyond the march, in the life they are supposedly saving toward — there is none.
+
+The Ravenlands does not reward the man who stops.
+
+
 
 ## Section 1: The Band
 
@@ -1315,6 +1372,227 @@ After any engagement resulting in a clear victory, award XP to each non-player N
 
 ---
 
+## Section 7.5: Hired Casters
+
+A hired caster is not a Named Man. They do not belong to the band in the same way, do not respond to the same pressures, and cannot be used for the same tasks. They are a practitioner of a discipline that most of the men around them do not understand, and they will not pretend otherwise. The rules for building and tracking them borrow the Named Man structure — attributes, skills, loyalty, triggers, agendas — but diverge in three places: their price, their power, and their reason for being there.
+
+### Hiring a Caster
+
+Casters do not respond to standard recruitment. They cannot be levied from a settlement or found in the same places as veteran soldiers. Finding one requires either a direct approach to a known practitioner, a reputation that reaches the kind of community casters move through, or chance.
+
+When a caster agrees to terms, they do so in one of two ways.
+
+**Coin terms.** The caster accepts a daily rate. This is a minimum — they will not take less, and many will take more if the work is dangerous, distasteful, or requires rank they would rather not spend in someone else's service. Coin terms are specific: they last for a defined period or objective, and when either concludes, the caster leaves. A captain who assumes a coin arrangement extends past its end will find they are mistaken.
+
+**Agenda terms.** The caster joins without a set price. They want something — passage to a location, a person found, an object recovered, a piece of information the band might encounter — and the captain's commitment to pursue that objective is the contract. Agenda casters draw no weekly coin. They stay until the objective resolves. Do not offer them coin in place of the objective. They will not take it.
+
+Initiates may take coin terms straightforwardly. Most Adepts and Masters prefer agenda terms or a combination of both. When approaching a caster who outranks the captain's network, offer the agenda first.
+
+### Caster Tiers
+
+Three tiers of hired caster, differing in raw ability, spell rank access, and the number of disciplines studied. Willpower is the measure of how much work they can do before they need to rest.
+
+---
+
+**INITIATE** (Willpower: 2)
+
+| ATTRIBUTE | VALUE |
+| --------- | ----- |
+| Strength  | 2     |
+| Agility   | 2     |
+| Wits      | 4     |
+| Empathy   | 3     |
+
+Daily rate: **5–8 silver** (minimum). Coin or agenda terms.
+
+Disciplines: 1 discipline. Spell rank: **up to rank 2** within that discipline.
+
+An Initiate has learned their craft and not yet proven it at serious cost. They are the most available tier — not common, but findable in the right settlements or through the right intermediaries. Their lower WIT and limited WP mean they are not relied on for high-stakes spells, but consistent camp casting at rank 1 and 2 is within their reach.
+
+---
+
+**ADEPT** (Willpower: 3)
+
+| ATTRIBUTE | VALUE |
+| --------- | ----- |
+| Strength  | 2     |
+| Agility   | 3     |
+| Wits      | 5     |
+| Empathy   | 4     |
+
+Daily rate: **12–18 silver** (minimum). Agenda terms as common as coin.
+
+Disciplines: 1 discipline at spell rank **up to rank 3**; or 2 disciplines at rank **up to rank 2** each.
+
+An Adept has a built reputation within their discipline. They have cast at rank 3 and lived with the results. At this tier, a captain who leads with coin and gets the agenda wrong loses their opportunity. Offer the agenda first.
+
+---
+
+**MASTER** (Willpower: 4)
+
+| ATTRIBUTE | VALUE |
+| --------- | ----- |
+| Strength  | 3     |
+| Agility   | 3     |
+| Wits      | 5     |
+| Empathy   | 5     |
+
+Daily rate: **25+ silver** (minimum; many will not answer to coin alone).
+
+Disciplines: 2 disciplines at spell rank **up to rank 3** each. One discipline may reach **rank 4** at the GM's discretion — this reflects exceptional ability and should be treated as rare even among Masters.
+
+Ranks 4 and 5 belong to the domain of player characters, significant NPCs, and named villains. A Master caster with rank 4 access is approaching that threshold. When one appears in a band, the GM should know why they are there and what they are waiting for. They are not simply expensive support.
+
+### Skills
+
+Casters use a separate skill pool. They have no MELEE. Every hired caster begins with one casting skill at the level for their tier, determined by their primary discipline. Additional skills come from the Caster Skill Pool.
+
+**Primary casting skill by discipline:**
+
+| DISCIPLINE    | SKILL           | INITIATE | ADEPT | MASTER |
+| ------------- | --------------- | -------- | ----- | ------ |
+| Healing       | HEALING         | 2        | 3     | 3      |
+| Awareness     | INSIGHT         | 2        | 3     | 3      |
+| Shapeshifting | ANIMAL HANDLING | 2        | 3     | 3      |
+| Symbolism     | LORE            | 2        | 3     | 3      |
+| Stone Song    | CRAFTING        | 2        | 3     | 3      |
+
+General Spells follow the primary discipline skill. A caster with two disciplines uses the higher applicable skill for rolls in each.
+
+**Caster Skill Pool:**
+
+| SKILL        | ATTRIBUTE | NOTES                                        |
+| ------------ | --------- | -------------------------------------------- |
+| LORE         | WIT       | Magical knowledge, identifying spells        |
+| INSIGHT      | WIT       | Reading people; interrogation and parley     |
+| SURVIVAL     | WIT       | Field craft; many druids carry this          |
+| SCOUTING     | WIT       | Perimeter awareness; complements scrying     |
+| MANIPULATION | EMP       | Social leverage; relevant at Adept and above |
+| HEALING      | EMP       | Field medicine independent of spells         |
+
+Additional skills per tier, drawn from pool: Initiate — 1 at level 1. Adept — 2; may raise one to level 2. Master — 2 at level 2.
+
+### Disciplines and Spell Rank
+
+A caster's discipline is the school of spells they have trained in and the Path talent they have developed. Select from the five disciplines in Chapter 7: Healing, Awareness, Shapeshifting, Symbolism, and Stone Song. All casters may also access General Spells, subject to the rank limits below.
+
+**Rank limits for hired casters:**
+
+| TIER     | DISCIPLINE SPELL RANK         | GENERAL SPELLS RANK |
+| -------- | ----------------------------- | ------------------- |
+| Initiate | Up to rank 2                  | Up to rank 2        |
+| Adept    | Up to rank 3                  | Up to rank 2        |
+| Master   | Up to rank 3 (rank 4 by GM)   | Up to rank 3        |
+
+Path talent rank matches spell rank access. An Adept with rank 3 spells in Awareness has PATH OF AWARENESS at rank 3. Do not assign spells the caster cannot cast.
+
+Ranks 4 and 5 are reserved for player characters and significant adversaries. A hired caster reaching rank 4 is an exception that warrants explanation.
+
+### WILLPOWER
+
+Willpower is not stamina. It is the limit of how much magical work the caster can do before they must rest. It depletes directly with use and does not partially recover between scenes — it recovers at one point per full day of downtime.
+
+| TIER     | STARTING WP | RECOVERY             |
+| -------- | ----------- | -------------------- |
+| Initiate | 2           | 1 per full day rest  |
+| Adept    | 3           | 1 per full day rest  |
+| Master   | 4           | 1 per full day rest  |
+
+State WP totals openly at the table. A caster who began the morning engagement with 3 WP and spent 2 has 1 remaining. The afternoon approach cannot use them at full capacity. The captain who does not track this will be surprised when the caster cannot cast.
+
+Hired casters push their spells exactly as player characters do — spending extra WP for higher Power Level, accepting the mishap risk. The mishap table is not reduced for NPC casters. A bad push is a session event: a spreading disease, a Fear wave through the band's own line, D6 days of degraded ability. Play it out.
+
+> **Example.** Serre is an Adept with Healing discipline and 3 WP. She spends 2 WP on Healing Hands after the morning fight. The captain wants Mend Wounds on the sergeant — a rank 2 spell requiring 2 WP. She has 1. She pushes. The mishap roll comes up badly. The band deals with what follows.
+
+### Equipment
+
+Casters do not carry heavy arms or armor. Their component pouch — herbs, carved marks, crystals, dried materials — is as critical as any weapon. If it is lost or taken, they cannot cast spells that require a physical ingredient until they resupply. Most ingredients are available through trade in larger settlements or through SURVIVAL rolls in appropriate terrain. Track this. It is a real logistics line.
+
+| TIER     | WEAPON               | ARMOR               | NOTABLE GEAR                    |
+| -------- | -------------------- | ------------------- | ------------------------------- |
+| Initiate | Knife or staff       | None or leather     | Component pouch, journal        |
+| Adept    | Short sword or staff | Leather (Armor 3)   | Component pouch, ritual tools   |
+| Master   | Staff or personal    | Leather or mail (3) | Component pouch, ritual space   |
+
+A caster in the forward line is a misused caster.
+
+### Combat Positioning
+
+In any engagement where the caster is expected to cast, two fighters are assigned to protective duty. Their only role during that fight is to keep contact from reaching the caster. They give up their own offensive action.
+
+If both protective fighters are occupied — engaged with opponents, Broken, or killed — the caster is exposed. A caster who takes a hit while exposed will not cast again in that scene, and may not cast until they have rested depending on the injury. If the caster is not casting in a given engagement, they may withdraw to Long range to remove the protection requirement, provided terrain allows it.
+
+Factor the protection cost into engagement planning. Two fighters committed to the caster is two fighters not committed to the fight.
+
+### Three Quick-Builds
+
+---
+
+**THE HEDGE DRUID** _(Initiate — Healing discipline, Loyalty 2)_
+STR 2, AGL 2, WIT 4, EMP 3 | WP: 2
+Skills: HEALING 2, SURVIVAL 1
+Path: PATH OF HEALING rank 2 | General Spells rank 1
+Spells: **Healing Hands**, **Nature's Cure**, **Preserve**, **Mend Wounds**
+Armor: none | Weapon: Staff
+Trigger: Forced to let someone die who could have been saved
+Agenda: A debt to a village that sheltered them — they will repay it, and whoever helps them get there has their loyalty until it is done
+_Appearance: Smells of bark and wet wool. Unhurried. Watches the wounded before anyone else does._
+
+---
+
+**THE WATCHER** _(Adept — Awareness discipline, Loyalty 2)_
+STR 2, AGL 3, WIT 5, EMP 4 | WP: 3
+Skills: INSIGHT 3, SCOUTING 1, MANIPULATION 2
+Path: PATH OF AWARENESS rank 3 | General Spells rank 2
+Spells: **Words on the Wind**, **Farsight**, **Compel Truth**, **Telepathy**, **Sense Magic**, **Obscure Magic**
+Armor: Leather (3) | Weapon: Knife
+Trigger: Their methods questioned publicly by someone who does not understand what they do
+Agenda: Searching for a specific person — they will not say who, or why, but the search has a direction and the band happens to be heading that way
+_Appearance: Seldom raises their voice. Listens more than they speak. The men feel watched even when the Watcher is on the other side of camp._
+
+---
+
+**THE SORCERER** _(Adept — Symbolism discipline, Loyalty 1)_
+STR 2, AGL 3, WIT 5, EMP 4 | WP: 3
+Skills: LORE 3, INSIGHT 2
+Path: PATH OF SYMBOLISM rank 3 | General Spells rank 2
+Spells: **Arcane Mark**, **Paralyze**, **Illusion**, **Sleep**, **Sense Magic**, **Obscure Magic**
+Armor: Leather (3) | Weapon: Short sword
+Trigger: A written agreement broken — they take contracts literally, to the word, and the captain who improvises around one will not get a second chance
+Agenda: Something was taken from them — something specific — and they will recover it or see it destroyed. The band's road happens to pass near where it is.
+_Appearance: Dresses better than the situation warrants. Carries a knife they clean but seldom draw. The marks they leave behind them are intentional._
+
+### Caster Agendas
+
+Unlike fighter Named Men, caster agendas tend toward the personal, the ideological, or the specific. Roll D6 or assign:
+
+| D6 | AGENDA                                                                                           |
+| -- | ------------------------------------------------------------------------------------------------ |
+| 1  | A specific place they need to reach — no explanation given, no deviation from the route          |
+| 2  | Someone they are looking for: alive, or verifiably dead                                          |
+| 3  | A piece of knowledge held by someone the band might encounter or be contracted against           |
+| 4  | A debt being repaid: protection of a person, repayment to a settlement, an obligation with a due date |
+| 5  | An object — lost, hidden, or held by the wrong hands — that they intend to recover               |
+| 6  | Passage to somewhere that cannot be hired for directly; the band is the transit                  |
+
+### Caster Triggers
+
+| D6 | TRIGGER                                                                                      |
+| -- | -------------------------------------------------------------------------------------------- |
+| 1  | Used as a weapon against something they consider protected — the sick, sacred ground, children |
+| 2  | Asked to push a spell without being told what objective justifies the risk                   |
+| 3  | A written or spoken agreement changed after the fact without their consent                   |
+| 4  | Credit for their work taken by the captain in front of a patron or employer                  |
+| 5  | Their discipline treated as something to be feared, hidden, or apologized for                |
+| 6  | Their personal agenda dismissed as unimportant by whoever they report to                     |
+
+### Caster Personalities
+
+Casters do not have their own Personality table. Roll on the Named Man Personalities table (Section 7) and adjust for register. A caster who rolls **Flat** has witnessed things that burned the reaction out long before they joined the band. **Calculating** means they track WP costs, ingredient supply, and the band's reliability in parallel. **Convincing Liar** may explain why their stated reason for being here is not quite their actual reason.
+
+
+---
+
 ## Section 8: Wanted Men
 
 ### Acquiring a Price on Your Head
@@ -1611,6 +1889,26 @@ On failure: the mutiny collapses. Each Named Man who participated rolls Loyalty 
 
 A Host is the top tier of this system — multiple bands operating under a shared authority. It is not a warfare system for armies and sieges; those remain outside scope. It is the framework for tables that want the mechanics and politics of meta-band play: the fellowship's band serving inside a larger force, dealing with other captains, navigating a Warmaster's orders, and holding their independence inside someone else's campaign.
 
+### The Hired Expert
+
+Most bands have no caster. A sword, a MANIPULATION roll, and enough food — that is the equipment a mercenary band runs on. Magic in the Ravenlands is not common property. It is learned slowly from living masters who want something in return, and the men who complete that training are rare and expensive.
+
+A warband of seven to twelve has perhaps one chance in three of containing anyone with rudimentary sorcery or druidic knowledge — and that is chance casting: a talent rank, one memorized spell, no formal instruction beyond enough to know the risk. A seasoned caster with rank 2 or higher in any discipline is a Named Man of first quality. They come at Named Man rates elevated further: 4 to 8 silver per day for a competent rank 1 caster, 10 to 20 silver for rank 2, and the rank 3 casters who work for a mercenary company at all ask something beyond coin. Access, usually. Sometimes a specific target. Sometimes passage to a place they have reasons to reach.
+
+A Host at sufficient scale — Company size or larger, running on money from a major employer — can retain a caster on staff. They do not command loyalty. They retain attention. The distinction matters.
+
+**Caster access by Host tier:**
+
+| HOST TIER | CASTER ACCESS |
+| --------- | ------------- |
+| Warband (7–20) | One rank 1 caster possible if the band can afford the retainer |
+| Company (21–50) | One rank 1–2 caster on retainer; rank 3 available for hire, not staff |
+| Multi-band Host | One caster per major band is achievable; a wealthy Host can support a rank 3 specialist |
+
+A caster on the Warmaster's staff is not a neutral utility. They have noticed everything that happened around them and they have formed opinions. The Warmaster who treats them like a walking ingredient bag will find them unreliable at the moments that matter.
+
+Where a specific spell is named in the following sections, its rank and discipline are stated. If the Host does not have a caster of that rank in that discipline, the option does not apply.
+
 ### Running a Host at the Table
 
 Each band within the Host is tracked separately. Its own roster, its own MORALE score, its own Named Men, its own daily pay requirement. The Host does not merge into a single unit — it is a collection of units operating under shared authority.
@@ -1660,6 +1958,8 @@ A Host without a strategic reserve is a Host one bad week from collapse. Experie
 
 The GM holds the treasury total. The PCs either manage it (if they are the Warmaster or hold a financial role) or observe its effects (if they are a band captain dealing with the Warmaster). The Warmaster shares treasury information at their discretion — a captain asking about pay security makes a MANIPULATION roll at difficulty 1 to get a straight answer. On a failure, they get a version of the truth.
 
+> **If the Host has a caster:** **ARCANE MARK** on the treasury coffer lets the Warmaster hear whatever the box hears, once per ritual casting — a replaced coffer fools no one using it. **BIND MAGIC** on the vault itself triggers a concealed signal when someone opens it uninvited. **COMPEL TRUTH** at a formal audit prevents the subject from stating a direct lie when questioned, though silence remains available to them.
+
 ### Band Budgets and the Purser
 
 Each band within a Host draws from the Host treasury at a fixed rate. Not coin handed over — a budget allocation, tracked by a purser. The purser is a Named Man or trusted NPC appointed by the Warmaster. The purser knows what each band is drawing, what they are spending it on, and how the ledger sits.
@@ -1683,6 +1983,8 @@ When the treasury is short, the Warmaster may declare a deferral: pay is not cut
 **What the PCs can do with this:**
 
 If the fellowship runs one band, they receive their allocation and manage it. A week where they need more than their budget requires going to the purser with a justification or the Warmaster with a request. If the fellowship runs the purser's function (trusted Named Man or direct Warmaster role), they see everything — the treasury position, the other bands' draws, the strategic reserve — and can act on that information, including selectively reporting it.
+
+> **If the Host has a caster:** **RECALL MEMORY** gives a purser perfect recollection of any past transaction on demand — no ledger entry survives a dispute against someone who literally remembers it. **COMPEL TRUTH** lets the Warmaster cross-examine specific claims without needing to prove they distrust the person they are asking.
 
 ### Dispatch and Messengers
 
@@ -1715,6 +2017,8 @@ Standing orders cover at minimum:
 **The reply problem:** A band captain sending a report back to the Warmaster faces the same delay. A response to a question asked on day 1 arrives on day 4 at best. Plans that depend on real-time communication between the Warmaster and a remote band will fail. The Host that functions well under information lag has Warmasters who write orders that do not depend on perfect relay, and captains who can execute against the intent rather than the letter.
 
 > **Example:** Pell's warband holds the east flank at the Ashriver crossing. The Warmaster sends orders on day three to pull back to the tree line before dawn — the enemy has reinforced the far bank. The rider hits mud season on the ridge road. The orders arrive at midday on day five. Pell has already held the crossing through a probe and taken two wounded. He reads the order. It says pull back before dawn. Dawn was nine hours ago. He does what the standing orders say: hold position, report status, wait for the next rider.
+
+> **If the Host has a caster:** **Words on the Wind** directs the druid's hearing to any visible point at Distant range — enough to confirm a position is still held before committing movement, though the distant band cannot answer back. **Telepathy** sends a thought directly to a captain the caster knows well, one direction, at Long range; it does not reach twelve hexes and the recipient cannot reply without their own caster. A raven commanded through **Beastmaster** crosses terrain a mounted rider cannot and ignores roadblocks. None of these replace the physical rider for general dispatch.
 
 ### Host Diplomacy
 
@@ -1756,6 +2060,8 @@ Disputes between Hosts, broken truces, or contested claims over a contract payme
 
 The arbitrator's ruling is not enforceable by law — the Ravenlands has no court. It is enforced by the same mechanism all Host obligations run on: REPUTATION damage to the party that defies it. Both Warmasters agree before arbitration begins that defying the ruling removes their right to dispute the other's response. That agreement is what gives arbitration teeth.
 
+> **If the Host has a caster:** **Compel Truth** submitted by consent during arbitration testimony is considered legitimate under Ravenlands custom — a refusal is not proof of guilt, but the arbitrator notes it. **Tongues** eliminates the interpreter and the gap between what the Warmaster said and what the other party was told they said. **Telepathy** reading a rival's surface thoughts inside a parley tent is effective and detectable; **Sense Magic** is automatic and requires no roll, and a Warmaster whose druid is caught in the act loses REPUTATION −1 on the spot.
+
 ### Inter-Band Rivalry
 
 Bands within the same Host compete. The competition is usually quiet — which band gets the better billet, which captain gets mentioned in the Warmaster's dispatches, whose men come out of a contract cycle with the most loot, whose Named Men get elevated first. When the Host has enough work for everyone, this stays manageable. When resources tighten, it sharpens into something with edges.
@@ -1784,6 +2090,8 @@ The Warmaster may spend one council action and REPUTATION 1 to formally broker a
 
 Rivalry does not reset at Host dissolution. If the two bands encounter each other again in a future Host or neutral territory, their prior Rivalry carries forward at −1 (minimum 0).
 
+> **If the Host has a caster:** **Arcane Mark** on a rival captain's coin purse or banner pole lets the Warmaster hear what the object hears, once per ritual — advance notice of what is being said at the other fire. If it is discovered, the offended captain gains grounds for a formal Grievance hearing before the full council, treated the same as withheld pay. **Mold Memory** can bury the incident that started the Rivalry; if a witness contradicts the altered version, the Rivalry resumes at its prior score plus one.
+
 ### The Host Council
 
 The Warmaster convenes the council. Band captains attend — in person if the Host is concentrated, by trusted representative if bands are dispersed. A council costs one full Quarter Day for all bands involved, paid in lost patrol time, reduced foraging, and the social currency of the Warmaster's attention divided equally among every captain who showed up.
@@ -1806,6 +2114,8 @@ A band captain with REPUTATION 3+ may call an emergency council without Warmaste
 **Council vote:**
 
 On contested decisions where the Warmaster has not issued a direct order, captains vote. Each captain has one vote. The Warmaster has two votes. A tied vote goes to the Warmaster. A vote that goes against the Warmaster two-to-one is a result they may comply with or override — overriding it costs REPUTATION −1 and starts a Rivalry entry.
+
+> **If the Host has a caster:** **Block Reading** on the council tent seals it against **Farsight**, **Arcane Mark** listening, and **Telepathy** relay from outside — useful when the opposing faction is known to keep a caster. **Compel Truth** submitted by consent during a Grievance hearing prevents direct lying; a captain who refuses when accused takes −1 on their council vote position. The druid administering it does not vote or interpret. They confirm only whether the constraint was active.
 
 ### The Warmaster's Ledger
 
@@ -1841,6 +2151,8 @@ Track the Warmaster's Ledger as a separate score from their personal REPUTATION.
 
 A Ledger that hits −6 triggers automatic Host dissolution (see below) unless the Warmaster resigns command voluntarily before a council vote removes them.
 
+> **If the Host has a caster:** **Divination** before a major operation or a contested parley gives the Warmaster one honest, brief answer to one question — a fragment of truth, not a decision. A Warmaster who acts on it and earns a Ledger-positive result counts the ritual as +1 for that quarter; one who ignores a warning and loses does not. **Portent** objects placed on approach routes crack or signal when specified conditions are met — armed crossings, a gate opened by outsiders, a ford taken. Three objects, three Ward Days of preparation; the enemy who knows your caster will search for them before they move.
+
 ### Host Dissolution
 
 Hosts end. Some cleanly. Most do not.
@@ -1856,6 +2168,8 @@ Hosts end. Some cleanly. Most do not.
 Individual bands keep their MORALE score, their Named Men, their gear, and their accumulated Allegiance with any factions they dealt with directly. The Host's shared REPUTATION is distributed unevenly: each captain's account with the factions and settlements the Host dealt with is based on what they personally did and witnessed. A band captain who honorably completed every assignment walks away with real settlement standing. A band captain who was present for an atrocity committed by a rival band under the same banner walks away with whatever the witnesses remember and whoever survived to tell it.
 
 This is the price of shared banners: the bad ones follow everyone.
+
+> **If the Host has a caster:** **Locate** traces any person or object the caster has personally encountered, starting at three hexes and doubling with additional Power Levels — enough to find scattered bands and confirm whether the strategic reserve was carried off or abandoned. A **Recall** symbol inscribed at the treasury vault before the campaign closes lets the Warmaster transport back to it during a collapse, arriving before it can be seized; enemies who know the Host kept a caster will search fixed locations for inscriptions before they move.
 
 Sieges, territorial control, and pitched battle between Hosts remain outside scope. The Host tier defines where this proposal ends and where a future large-scale warfare system begins. Each band within this proposal is the atomic unit of that future system — a Host is several companies, not a different kind of thing.
 
@@ -1887,59 +2201,92 @@ Changes 1–7 together form the minimum viable play loop. Without morale and pay
 
 ---
 
-## Fiction Preview
+## Appendix A: Magic in the Mercenary Life
 
-The following is a prose sample for the chapter opening or a sidebar. It is in the manuscript voice and subject to the writing standard from `WRITING_GUIDE.md`.
+A sorcerer in a fighting band is not a weapon. He is a condition — like bad weather or a debt that runs at interest. He changes the arithmetic of what the band can attempt, and he changes the arithmetic of what it costs to keep him. Both calculations run simultaneously, and neither waits for the other.
 
----
+Most bands have no caster. This is not a deficiency. Men-at-arms have cleared strongholds, held river crossings, and survived seasons in the Ravenlands without a single rank of magical talent among them. The work that mercenaries do is dirty, physical, and loud, and none of it requires spellcasting. A druid costs four silver a day. Fourteen veterans cost fourteen silver a day and obey directions.
 
-> _"The problem with twenty armed men," said the woman who later became known as the Torch Carrier, though not as a compliment, "is that they need to eat every day. The problem with twenty hungry armed men is your problem."_
+What a caster offers is leverage — in specific places, for specific tasks, at specific costs. The band that understands those limits uses magic well. The band that treats it as a general solution finds out, usually around the third mishap, what general solutions cost.
 
-Mercenaries are not hirelings. A hireling tends to what you own. A mercenary is a force you direct toward a problem and hope comes back pointed the right way. Give him shelter and coin and the job stays simple. Miss a payment, let the job go wrong, give him a reason to look at you like a problem — and the calculation changes.
+### The Caster in the Band
 
-The Ravenlands has no lack of men who would rather fight than farm. The wars that broke the world threw them up like silt. They are real fighters, most of them, scarred and practical and capable of the things fighters do. They will hold a position or clear a hex or ride hard to a burning village if that is what the contract asks. They will eat their share and sleep in what shelter they find and complain about both.
+A caster who hires out to a fighting company is not typical of their discipline. Most druids with real rank have a berth with a settlement, a patron, or a grove. A sorcerer of ability has options that do not involve sleeping in a camp on autumn ground.
 
-But they are not loyal to a cause. They are loyal to what the cause pays, and to the man who stands in front of them when things go badly, and to the kind of work that lets them come back alive.
+The ones who work for bands have reasons. Common ones: they need transit to somewhere the band is going, and the contract ends when the destination comes into view. Or they want something the band can help them reach — a ruin, a person, an object that requires a fight to extract. This is the most stable arrangement. Or they are in trouble and need bodies around them until it passes, which is the least stable, because the trouble may not pass. Or they did something that closed every other door. Whatever the reason is, the caster is a person with a history, a rank that took years to build, and an objective that existed before your contract. Know what it is.
 
-Earn that, and you have a band. Lose it, and you have twenty men deciding whether to walk off or do something worse.
+In open battle they stay behind the forward rank, protected by at minimum two fighters whose only job is to keep hands off them. In fights where you do not plan to use them, they still cost two fighters to protect. A caster who is not working is a liability that costs three men's-worth of formation every time blades come out. Plan for it.
 
----
+### Camp and Survival
 
-### Band Life — Extended Fiction
+This is where the value is most consistent and the risk is lowest. A druid with any Healing rank earns their keep in camp before the band draws iron.
 
-The band eats first. Before the captain decides the march route, before the sergeant counts the watch rotation, before anyone puts a coin on a contract table — the band eats. Sixteen men need a full quarter-day's worth of food every morning, and sixteen hungry men are not sixteen men. They are sixteen separate calculations happening in sixteen heads, and every one of those calculations ends the same way. This is what a new captain learns in the first week.
+After a fight, the druid moves down the line before the camp is even set — **Healing Hands** on the ones who took the worst of it. A man who would be half-useful for a week is back at fighting capacity by morning. **Preserve** keeps a good day's surplus from rotting overnight, which over a season transforms the band's food situation from constant edge-of-empty to something with a buffer. **Nature's Cure** holds off the low-grade attrition that bad water and cold ground produce in any sustained march; the man who drinks from the wrong stream doesn't cost the band a week anymore.
 
-The next thing they learn is the march. Twenty miles in fair conditions. Fourteen in rain. Half that in the mud season, when the tracks between villages turn to brown channels and the men's boots rot through from inside. The Ravenlands does not have roads. It has the memory of roads — raised lines, old stone courses, paths that pre-Cataclysm carts used and that feet still find by instinct. Walk one long enough and you will find where it was cut by something that came up through the ground, or where the forest closed back in over twenty years, or where the bridge is now a rotten tangle three feet downstream from where it was built.
+**Weathermaster** is the rarest and the most decisive in the right moment. A druid who can call conditions in a hex — fog pulled in to mask a position, rain turned clear for a crossing — holds a card no conventional force can answer. Yssa's warband had been stuck below a flooded ford for five days. She spent the spell, pulled the rain clear for one Quarter Day, and they crossed before the opposing Host had finished their morning fire. The ford was knee-deep. There was no fight.
 
----
+### Scouting and Intelligence
 
-They camp inside daylight margins. Not from discipline — from arithmetic. The Mist still pools in low places after dark, thicker than air, heavier than fog, and men caught walking in it do not come back. The band has old soldiers who will tell you the worst of it lifted with the demon lords, that a man can walk two miles in it on a clear night and come through fine. Those are the same men who sleep with a knife across their chest and one boot on. Old habits from before they knew better, they say. Then they pull their fingers tight around the hilt and say nothing more.
+The Ravenlands has no reliable maps. What the band knows about a position is what someone walked close enough to see — until a druid is involved.
 
-So the camp goes up before the light goes red. Fire first, then perimeter. A guard on the tree-line who lasts two hours before the cold makes him useless, then another guard, until dawn. Not because the captain orders it every night. After the third week, the men do it without being told. Fear is a better instructor than command, and the Ravenlands has never run short of fear.
+**Farsight** reads a location the caster has personally visited, as it stands right now: gates open or closed, guard count, horses present or absent. **Hawk's Eye** does the same for visible terrain, sharply enough to count heads and read insignia at a distance where your scouts would still be concealed. **Words on the Wind** directs hearing to any visible point, useful for listening to orders given outside a gate without needing anyone near it. A druid running **Nature's Watch** sets the local animals as a silent perimeter alarm — every sleep watch without a word spoken.
 
----
+Every one of these has a wall. **Farsight** requires the caster to have been there. **Words on the Wind** requires line of sight. **Nature's Watch** wakes the druid; it does not stop the approach. None of them send orders back. Harran went ahead on foot to a rise above the Kural gatehouse, directed his hearing to the gate, and listened for the better part of a turn. He heard four guards and a complaint about a late supply cart, and the patrol schedule at dusk. By the time the band moved on that information it was two hours old. The patrol schedule had not changed, but he could not have known that from the rise.
 
-A village sees them from half a mile. A hamlet will have someone up a tree before the band clears the wood-line. By the time the captain reaches the palisade gate or the elder's door, the goats have been moved twice and three men with iron are standing somewhere they can be seen. This is not hostility. It is memory.
+### In the Fight
 
-The villages that survive in the Ravenlands are the ones that learned to count strangers before the strangers counted them. Sixteen swords is larger than most villages can answer, and every elder between here and the Stillmist knows that the coin minted before the Cataclysm goes further in a mercenary's hand than in any other. Their silver is old. The faces stamped on it are kings who died before the grandfathers of these elders were born. The men carrying it have needs that a village cannot fill and places to spend it that a village farmer will never see, and when the captain speaks at the door the elder standing opposite them is calculating how much the village can give before winter becomes a problem worse than the band is.
+Magic in combat is expensive, risky, and decisive — all three at once. A well-placed spell turns a fight. A mishap in the middle of one turns it in a direction nobody planned.
 
-Most bands do not start with extortion. Most start with an honest demand and a reasonable number. But the arithmetic of sixteen hungry men against an elder who cannot feed them for three days without gutting the stores — that arithmetic closes fast. The captain who has not thought through what happens when it closes is the captain who finds out the hard way.
+The caster's raw output in one casting exceeds what most fighters produce in the same round. Spells that hit without a parry, strike through shields, or reach targets behind the line change the geometry of an engagement if they land clean. But every Willpower Point spent healing after yesterday's skirmish is gone. Every push toward a higher effect is a push against the mishap table, which does not care about sides. A druid who pushes too hard in the wrong moment can produce a Fear alarm that runs through their own line.
 
----
+There is also the visibility problem. Any settlement watching your band fight knows you have a caster. Some factions will pay more for that. Others close their gates before anyone speaks. The Ravenlands remembers.
 
-Inside the band, the social weight runs separate from rank. The sergeant holds authority. The captain holds coin and contract. But there is a third thing — harder to name — that lives in the man others look at when the situation turns bad. He is not always the sergeant. He is not always the biggest man. He is the one whose face does not change when the calculation gets ugly. The others do not discuss him. They do not vote for him. Over time, when trouble starts, they face the same direction he does. After a season, that direction is the one they trust.
+> **Example.** The band closes on a wyvern that has been killing livestock in the contract territory. Two fighters are already in position at Short range. Harran holds — not casting yet, not drawing attention. The captain gives the sign. Harran takes wolf form through **Animal Form** and drops into the undergrowth, forcing the wyvern to commit to the forward fighters. When it pins one, Harran comes out of form at close range and hits with **Bear's Claw**. Automatic. The wyvern breaks off. The forward fighter is still alive. Harran has no Willpower left and needs rest before he is useful again. The band killed no one.
 
-Bands that lose that man — to injury, to a clean desertion, to a contract that went wrong — feel the loss before they understand it. The morale holds until the first test. Then it does not hold.
+### After the Fight
 
----
+The druid's real value in a mercenary band is not what they do in the fight. It is what they do in the hour after it.
 
-The ones who last in this work are not the strongest or the fastest. They are the ones who never needed anyone to tell them that sleeping rough is fine, that cold food is fine, that the reward for doing the job correctly is getting to do the job again. They came from farms that burned or families that starved out or villages that could not feed one more mouth through the white months. They are practical in every way except the one that counts: they keep coming back.
+**Healing Hands** moves down the line: the worst wounds first, attribute damage restored before the camp is set. **Mend Wounds** closes a critical injury that would otherwise cost a fighter weeks of use, provided the white moss holds out — which is why the purser tracks it alongside iron and food. For a permanently severed limb, **Regeneration** has a narrow window; miss it and the work becomes a ritual, slower, more costly, the fighter grounded for days. **Resurrection** is the last question and the smallest answer to it: it demands time, remaining Willpower, and something the dead person carried, and it takes a point of Empathy from the raised. It is not a policy. It is a decision made about a specific person whose absence changes something that cannot otherwise be recovered.
 
-They are not unlike the first settlers who pushed into the Stillwood or up through the Blight Marshes when the Mist was still thick and no one had reason to believe any of them would return. Those men and women went because staying was also a kind of dying, and because the land beyond the hills did not ask them what they had done before they arrived. The band offers the same thing. Whatever you were before you signed — the empty field, the dead village, the name that now means nothing in a settlement that burned six years ago — the band does not care. You can march. You can hold a position. You eat when the food is there and you do not complain when it isn't. That is enough.
+The druid who works the wounded after every engagement will know, within two seasons, which fighters the band can afford to lose and which ones it cannot. That judgment is worth more than any individual healing.
 
-Ask one of the old ones why they stay. They will name a figure — enough coin to get somewhere, enough to clear a debt, enough to buy land if the price stays honest. Push harder and the figure gets vague. Push harder still and they stop answering. The truth is that most of them could not say what they are marching back toward. They know how to do this. They know who the men around them are, which ones hold and which ones don't, where the next meal is and how far to the next village. That is a kind of certainty. Out there — beyond the contract, beyond the march, in the life they are supposedly saving toward — there is none.
+### People and Pressure
 
-The Ravenlands does not reward the man who stops.
+Mercenary work runs on social friction — contract negotiations, parley, councils where captains who do not like each other have to reach decisions together. Magic does not remove that friction. It adjusts who has leverage inside it.
+
+**Calm Emotions** stops a council from becoming a brawl, buying the Warmaster one shot at resolution while tempers are temporarily held. **Compel Truth** prevents a specific kind of lie from a specific person for a limited time — not an accounting of everything they know, just a block on stating something they know to be false when asked directly. Evasion and silence are still possible. **Telepathy** run against an opposing Warmaster's surface thoughts during negotiations is effective and detectable; **Sense Magic** is automatic, requires no roll, and any druid at the table who catches it will use that knowledge.
+
+**Serenity** produces compliance without a social roll, which means the person it was used on did not choose to cooperate. A caster working for a legitimate employer will want an explicit order before they apply it to a contractor. The contractor who finds out afterward will not forget.
+
+### Binding and Warding
+
+A band that holds a position for more than a day has time to lay defensive magic, and a druid who knows how to use it.
+
+**Nature's Watch** covers the perimeter with animal alarms — the whole camp watched through sleep without a guard rotation. **Portent** placed on approach routes breaks or signals when specified conditions are met: armed men crossing the west tree line, a gate opened by outsiders, a river ford taken. Set the trigger accurately. A **Portent** keyed to anyone crossing the north ford will trip when the supply cart returns. False alerts erode watch discipline more reliably than absence of alerts. **Arcane Mark** on the treasury coffer gives the Warmaster its direction at all times and one listening window per ritual casting — no substituted replacement box survives it. **Bind Magic** sleeps a spell in an object until a trigger fires, which means the treasury door that sets off a concealed alarm when opened without a key phrase is doing that work while the druid sleeps somewhere else.
+
+These are tools for positions the band holds through a sustained campaign, not for camps broken before dawn.
+
+### What Magic Cannot Do
+
+**Preserve** stretches food. It does not produce it. A band that marches into a hex empty-handed cannot conjure provisions. **Telepathy** goes one direction to one person the caster knows, at limited range, once per WP expenditure — with no reply channel unless the other end has their own caster. **Farsight** requires the caster to have been at the location; without that, it costs more and risks more to reach. **Resurrection** fails when Willpower ran out in the fight, when the body is held, when the druid is down. The band that plans around guaranteed resurrection will be surprised exactly once.
+
+Mishaps are real. A bad push on a healing spell can produce a disease that spreads from the caster to whoever is nearest. A fear wave runs through your own rank. D6 days of degraded ability. The Ravenlands does not grade these results on intent.
+
+### Running the Hired Expert
+
+> *This section is addressed to the GM.*
+
+The hired caster is not a staff position. They are a person with capabilities most of the band does not understand, an objective that preceded your contract, and lines they will not cross without a clear order. Play them flat — reliable, deferential, cooperative — and you are discarding most of their use at the table.
+
+Decide three things before they arrive: what they want, what they left behind, and what they will refuse. The desire drives their cooperation for as long as it is being served. The history explains their price. The refusals are the moments where the band learns their caster is not a tool.
+
+Make the Willpower cost audible. When the druid heals, state what they spend. When they go into a fight at partial capacity, say so. The player who leads the band should know that the caster has three Willpower left and will not be available for the night's scouting. That is the decision — use them now or save them — and it only works as a decision if the cost is visible.
+
+Play mishaps straight. A pushed healing spell that rolls badly produces a spreading disease in the camp, a Fear alarm in your own line, days of degraded rank. These results feel catastrophic because they are. Use them. The druid who pushed too hard to save the sergeant has changed the session. Let it change the session.
+
+Make them leave. The caster hired for transit leaves when they arrive. The one who joined for a specific objective leaves when it resolves. Do not extend them past their reason. The empty billet is the most instructive magic lesson the band can receive — the fights after it teach exactly what the druid was doing that nobody noticed until they were gone.
+
 
 ---
 
@@ -1972,4 +2319,5 @@ The Ravenlands does not reward the man who stops.
 8. ✅ **Unintentional captive death:** Resolved. The kidnapping section now distinguishes deliberate execution from negligent death. Negligent death triggers a reduced consequence: Standing −1 at the relevant settlement, the poster is a grieved party, and the full Atrocity cascade does not apply unless the negligence was sustained and visible. GM may treat it as deliberate if the band had means to prevent it and did not.
 
 9. ✅ **Mercenary diplomacy and allegiances:** Resolved. Section 5 now opens with **Finding Work** (audience requirements and terms negotiation mechanic) and **Allegiance** (0–4 track per employer, with access tiers and exclusivity costs). The contract-vs.-bounty distinction is preserved: bounties are public, contracts are private, and conflicting obligations default to the employer's terms under the existing GRIEVANCE mechanic. The approach roll uses MANIPULATION at difficulty set by employer tier (1–4). Retained bands (Allegiance 3) carry exclusivity obligations; sworn bands (Allegiance 4) carry full exclusivity.
-10. ✅ **Host diplomacy layer:** Resolved in Section 13 expansion. The full Host system now covers: the treasury and band budget allocation (Host Treasury, Band Budgets and the Purser), information lag and rider mechanics (Dispatch and Messengers), faction negotiation and rival Host parley including flag-of-truce and arbitration procedures (Host Diplomacy), resource competition between bands with a tracked Rivalry score (Inter-Band Rivalry), the council mechanic including captain-called emergency councils and vote rules (The Host Council), the Warmaster's Ledger as a persistent authority track (The Warmaster's Ledger), and clean, contractual, and collapse dissolution paths with per-band ownership of reputation consequences (Host Dissolution). Open: high-level political intrigue and multi-faction campaign dynamics at the level of a great power using the Host as a strategic instrument — this would be a campaign design question beyond the scope of a rules proposal.
+10.
+11. ✅ **Host diplomacy layer:** Resolved in Section 13 expansion. The full Host system now covers: the treasury and band budget allocation (Host Treasury, Band Budgets and the Purser), information lag and rider mechanics (Dispatch and Messengers), faction negotiation and rival Host parley including flag-of-truce and arbitration procedures (Host Diplomacy), resource competition between bands with a tracked Rivalry score (Inter-Band Rivalry), the council mechanic including captain-called emergency councils and vote rules (The Host Council), the Warmaster's Ledger as a persistent authority track (The Warmaster's Ledger), and clean, contractual, and collapse dissolution paths with per-band ownership of reputation consequences (Host Dissolution). Open: high-level political intrigue and multi-faction campaign dynamics at the level of a great power using the Host as a strategic instrument — this would be a campaign design question beyond the scope of a rules proposal.
