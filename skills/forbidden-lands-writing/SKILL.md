@@ -66,6 +66,16 @@ For substantial drafting or revision, load the bundled references.
 Load on demand. Do not load all at once unless the task
 requires deep multi-register work.
 
+- `references/fiction-voice-abercrombie-cook.md`
+  The fiction voice authority. Deep literary analysis of
+  Glen Cook and Joe Abercrombie techniques, how the 25
+  Band Life vignettes synthesize them, and operational
+  rules for replicating the style: POV, sentence targets,
+  dialogue mechanics, emotion budget, violence rendering,
+  anti-patterns, and a diagnostic checklist. **Load first
+  for any fiction drafting — vignettes, epigraphs,
+  character scenes, or proposal fiction previews.**
+
 - `references/writing-manual.md`
   The unified writing authority. Voice identity, register
   system, paragraph and sentence rules, diction, fiction
@@ -127,6 +137,26 @@ a draft from the manuscript.
    negative parallelisms, hedging stacks, sycophantic
    qualifiers, filler phrases, and generic positive endings.
    If any survive, cut them.
+
+   **Split-sentence negative:** The pattern "It is not X. It
+   is Y." is a hard AI tell. Two short sentences, first a
+   negation, second the correction. Humans do not write this
+   way. It reads like a generated clarification — mechanical,
+   bloodless, obvious. Collapse it every time:
+   - "It is not X. It is Y." → "It is not X, but Y."
+   - "It is not a bank. It has no ledger." → "It is not a
+     bank — no lock, no ledger, no one to answer to."
+   - "This is not a rule. It is a consequence." → "This is
+     not a rule, it is a consequence that follows from the
+     world's logic."
+     Any two-sentence pair where the first sentence negates
+     and the second corrects must be collapsed into one sentence
+     or rewritten in a form that does not lean on the negation
+     as a structural device.
+     rule-of-three, copula avoidance, elegant variation,
+     negative parallelisms, hedging stacks, sycophantic
+     qualifiers, filler phrases, and generic positive endings.
+     If any survive, cut them.
 
 4. **No synonym cycling.** If the game calls it Willpower,
    call it Willpower. Do not write "mental reserves" in one

@@ -53,6 +53,32 @@ RETAINER_WEEKLY = {
     "caster_adept":   12.0,
 }
 
+# ─── V5: MISSION PAY FRACTION ─────────────────────────────────────────────
+# Mission pay = half the full daily wage, accrued only during active work days.
+# Travel to the contract site stays on retainer.
+
+MISSION_PAY_FRACTION = 0.50
+
+# ─── V6: STRUGGLING WORLD CONTRACT PRICING ────────────────────────────────
+# Base rates: −30% off V3. Captain may haggle at contract acceptance.
+# Haggle roll: HAGGLE_DICE d6. One or more 6s → pay scales to −20% floor.
+# With 2 dice: ~31% chance of haggle success per contract.
+
+HAGGLE_DICE       = 2
+HAGGLE_BONUS_MULT = 0.80 / 0.70   # ratio of −20% to −30% discount off V3 originals
+
+CONTRACT_TYPES_V6 = [
+    # (name, min_pay, max_pay, duration_days, employer_tier_min, garrison_mode)
+    ("patrol_week",         77,  116,  7,  "town",     False),
+    ("escort",              56,   98,  5,  "town",     False),
+    ("clearing",           112,  182, 10,  "town",     False),
+    ("protection_season",  385,  560, 91,  "town",     True ),   # garrison
+    ("warchief_raid",      158,  266, 14,  "warchief", False),
+    ("garrison_short",     238,  350, 21,  "warchief", False),
+    ("magical_commission", 196,  294, 12,  "town",     False),   # caster only
+    ("ritual_ward",        130,  210,  8,  "warchief", False),   # caster only
+]
+
 # ─── V2 LOOT SPLIT ──────────────────────────────────────────────────────────
 
 V2_LOOT_MEN_SHARE   = 0.60   # fraction of loot pool paid to fighters
@@ -333,6 +359,21 @@ class Band:
         self.expense_wages += wages
         self.expense_food  += food_cost
 
+    def pay_daily_v5(self, terrain, rng):
+        wages = self.daily_wage * MISSION_PAY_FRACTION if self.on_mission else self.daily_retainer
+        forage_frac = 0.30 if self.on_mission else 0.70
+        foraged = self.forage(terrain, rng, forage_frac)
+        food_cost = max(0.0, self.size*FOOD_PER_MAN_DAY - foraged) * FOOD_PRICE
+        total = wages + food_cost
+        if self.treasury >= total:
+            self.treasury -= total
+            self.days_unpaid = 0
+        else:
+            self.treasury -= max(0.0, self.treasury)
+            self.days_unpaid += 1
+        self.expense_wages += wages
+        self.expense_food  += food_cost
+
     def split_loot_v2(self, loot_pool, rng):
         if loot_pool <= 0:
             return
@@ -347,7 +388,7 @@ class Band:
             self.events.append(f"day {self.day}: loot share owed, treasury empty")
 
     def check_morale_payment(self, rng, model="v1"):
-        if model in ("v2", "v3"):
+        if model in ("v2", "v3", "v5", "v6"):
             threshold = NP_THRESHOLD_V2_MISSION if self.on_mission else NP_THRESHOLD_V2_RETAINER
             diff_plus = 1 if self.on_mission else 0
         else:
@@ -413,6 +454,8 @@ def _run_band(band, rng, world, model="v1", contracts=None, bounties=None):
 
         if model in ("v2", "v3"):
             band.pay_daily_v2(terrain, rng)
+        elif model in ("v5", "v6"):
+            band.pay_daily_v5(terrain, rng)
         else:
             band.pay_daily_v1(terrain, rng)
 
@@ -425,8 +468,8 @@ def _run_band(band, rng, world, model="v1", contracts=None, bounties=None):
         if day % 7 == 0:
             band.check_morale_payment(rng, model)
 
-        # V2/V3: prolonged-idle morale drain; garrison contracts reset the counter
-        if model in ("v2", "v3"):
+        # V2/V3/V5/V6: prolonged-idle morale drain; garrison contracts reset the counter
+        if model in ("v2", "v3", "v5", "v6"):
             if band.on_mission or band.current_contract is not None:
                 band.days_since_contract = 0
             else:
@@ -446,14 +489,14 @@ def _run_band(band, rng, world, model="v1", contracts=None, bounties=None):
                 pay = ct["pay"]
                 band.treasury        += pay
                 band.income_contracts += pay
-                if model in ("v2", "v3"):
+                if model in ("v2", "v3", "v5", "v6"):
                     band.split_loot_v2(pay * V2_BATTLE_PRIZE_PCT, rng)
 
                 if cur.bounty_available and rng.random() < 0.35:
                     bp = cur.bounty_available["pay"]
                     band.treasury       += bp
                     band.income_bounties += bp
-                    if model in ("v2", "v3"):
+                    if model in ("v2", "v3", "v5", "v6"):
                         band.split_loot_v2(bp, rng)
                     cur.bounty_available = None
 
@@ -461,7 +504,7 @@ def _run_band(band, rng, world, model="v1", contracts=None, bounties=None):
                 cur.contract_cooldown  = rng.randint(14, 35)
                 band.current_contract  = None
                 band.contract_day      = 0
-                if model in ("v2", "v3"):
+                if model in ("v2", "v3", "v5", "v6"):
                     band.on_mission = False
 
         elif (cur.contract_available is not None
@@ -473,19 +516,27 @@ def _run_band(band, rng, world, model="v1", contracts=None, bounties=None):
                 cur.contract_available = None
                 cur.contract_cooldown  = rng.randint(3, 7)
             else:
-                # V3: bands with a caster negotiate premium on standard field deployments
-                if model == "v3" and band.casters > 0 and not ct.get("garrison") and not ct.get("requires_caster"):
+                # V3/V5/V6: bands with a caster negotiate premium on standard field deployments
+                if model in ("v3", "v5", "v6") and band.casters > 0 and not ct.get("garrison") and not ct.get("requires_caster"):
                     ct = dict(ct)
                     ct["pay"] = round(ct["pay"] * (1 + CASTER_CONTRACT_PREMIUM), 1)
+                # V6: captain haggles — roll HAGGLE_DICE d6, 1+ success (6) → −20% pricing
+                if model == "v6":
+                    ct = dict(ct)
+                    dice = [rng.randint(1, 6) for _ in range(HAGGLE_DICE)]
+                    if any(d == 6 for d in dice):
+                        ct["pay"] = round(ct["pay"] * HAGGLE_BONUS_MULT, 1)
                 # Garrison contracts: accepted on retainer-cost basis, not mission-wage basis
                 if ct.get("garrison"):
                     exp_cost = band.daily_retainer * ct["duration"] * 1.1
+                elif model in ("v5", "v6"):
+                    exp_cost = band.daily_wage * MISSION_PAY_FRACTION * ct["duration"] * 1.1
                 else:
                     exp_cost = band.daily_wage * ct["duration"] * 1.1
                 if ct["pay"] >= exp_cost * 0.75 or band.treasury < band.daily_wage * 7:
                     band.current_contract = ct
                     band.contract_day     = 0
-                    if model in ("v2", "v3") and not ct.get("garrison"):
+                    if model in ("v2", "v3", "v5", "v6") and not ct.get("garrison"):
                         band.on_mission = True
 
         else:
@@ -649,38 +700,47 @@ def print_variant(s):
           f"travel {s['travel_pct']*100:.1f}%  idle {s['idle_pct']*100:.1f}%")
 
 
-def print_comparison(v1s, v2s, v3s=None):
+def print_comparison(v1s, v2s, v3s=None, v5s=None, v6s=None):
     daily_wage_base = 6*WAGE["common"] + 2*WAGE["veteran"] + 1*WAGE["named_man"]
     retainer_base   = (6*RETAINER_WEEKLY["common"] + 2*RETAINER_WEEKLY["veteran"]
                        + 1*RETAINER_WEEKLY["named_man"]) / 7
+    mission_v5      = daily_wage_base * MISSION_PAY_FRACTION
     print(f"\n{SEP2}")
-    print("  V1 / V2 / V3 COMPARISON")
+    print("  V1 / V2 / V3 / V5 / V6 COMPARISON")
     print(SEP2)
-    print(f"\n  {'Variant':<36} {'Model':<13} {'Survives':<10} {'Margin':>8} "
+    print(f"\n  {'Variant':<36} {'Model':<14} {'Survives':<10} {'Margin':>8} "
           f"{'OnContract':>12} {'TreasuryP50':>12}")
     print("  " + "─"*96)
-    triples = zip(v1s, v2s, v3s if v3s else [None]*len(v1s))
-    for v1, v2, v3 in triples:
+    quints = zip(v1s, v2s,
+                 v3s if v3s else [None]*len(v1s),
+                 v5s if v5s else [None]*len(v1s),
+                 v6s if v6s else [None]*len(v1s))
+    for v1, v2, v3, v5, v6 in quints:
         name = v1["label"].split("(")[0].strip()[:35]
         rows = [(v1, "DAILY"), (v2, "RETAINER")]
         if v3: rows.append((v3, "RETAINER+V3"))
+        if v5: rows.append((v5, "RETAINER+V5"))
+        if v6: rows.append((v6, "RETAINER+V6"))
         for s, tag in rows:
-            print(f"  {name:<36} {tag:<13} {s['survival_rate']*100:5.1f}%     "
+            print(f"  {name:<36} {tag:<14} {s['survival_rate']*100:5.1f}%     "
                   f"{s['m_net_margin']*100:+6.1f}%  "
                   f"{s['m_contract_days']:4.0f}d ({s['contract_pct']*100:4.1f}%)  "
                   f"{s['median_treas']:>10.0f}s")
         print("  " + "─"*96)
 
-    print(f"\n  Dead-time burn: V1 {daily_wage_base:.1f}s/day | V2/V3 retainer {retainer_base:.2f}s/day")
-    print(f"  Runway on 100s: V1 ~{100/daily_wage_base:.0f}d | V2/V3 ~{100/retainer_base:.0f}d")
+    print(f"\n  Dead-time burn:   V1 {daily_wage_base:.1f}s/day (full wages) | V2/V3/V5/V6 retainer {retainer_base:.2f}s/day")
+    print(f"  Mission pay rate: V1/V2/V3 {daily_wage_base:.1f}s/day | V5/V6 {mission_v5:.2f}s/day (half rate)")
+    print(f"  Contract floor:   V3/V5 at {daily_wage_base:.0f}s/day baseline | V6 at −30% (−20% haggled)")
+    print(f"  Runway on 100s:   V1 ~{100/daily_wage_base:.0f}d | V2/V3/V5/V6 ~{100/retainer_base:.0f}d")
 
 
-def print_problems(v1, v2, v3=None):
-    daily_v1 = 6*WAGE["common"] + 2*WAGE["veteran"] + 1*WAGE["named_man"]
-    retainer  = (6*RETAINER_WEEKLY["common"] + 2*RETAINER_WEEKLY["veteran"]
-                 + 1*RETAINER_WEEKLY["named_man"]) / 7
-    dead_v1  = (v1["m_travel_days"] + v1["m_idle_days"]) * daily_v1
-    dead_v2  = (v2["m_travel_days"] + v2["m_idle_days"]) * retainer
+def print_problems(v1, v2, v3=None, v5=None, v6=None):
+    daily_v1   = 6*WAGE["common"] + 2*WAGE["veteran"] + 1*WAGE["named_man"]
+    retainer   = (6*RETAINER_WEEKLY["common"] + 2*RETAINER_WEEKLY["veteran"]
+                  + 1*RETAINER_WEEKLY["named_man"]) / 7
+    mission_v5 = daily_v1 * MISSION_PAY_FRACTION
+    dead_v1    = (v1["m_travel_days"] + v1["m_idle_days"]) * daily_v1
+    dead_v2    = (v2["m_travel_days"] + v2["m_idle_days"]) * retainer
 
     print(f"\n{SEP2}")
     print("  DESIGN PROBLEMS AND STATUS")
@@ -691,6 +751,10 @@ def print_problems(v1, v2, v3=None):
     V2 retainer model:      survival {v2['survival_rate']*100:.1f}%  margin {v2['m_net_margin']*100:+.1f}%  treasury {v2['median_treas']:.0f}s median""")
     if v3:
         print(f"    V3 repriced+casters:    survival {v3['survival_rate']*100:.1f}%  margin {v3['m_net_margin']*100:+.1f}%  treasury {v3['median_treas']:.0f}s median")
+    if v5:
+        print(f"    V5 half mission pay:    survival {v5['survival_rate']*100:.1f}%  margin {v5['m_net_margin']*100:+.1f}%  treasury {v5['median_treas']:.0f}s median")
+    if v6:
+        print(f"    V6 struggling world:    survival {v6['survival_rate']*100:.1f}%  margin {v6['m_net_margin']*100:+.1f}%  treasury {v6['median_treas']:.0f}s median")
     print(f"""
   V2 FIXED:
     ✓ Dead-time runway: ~{100/daily_v1:.0f}d → ~{100/retainer:.0f}d
@@ -715,7 +779,33 @@ def print_problems(v1, v2, v3=None):
     Net margin: {v3['m_net_margin']*100:+.1f}%  ({v3['m_total_inc']-v3['m_total_exp']:+.0f}s/year)
     Adept caster wages ({WAGE['caster_adept']*365:.0f}s/year) still need explicit magic-contract pipeline
     Bands with strong loot luck and garrison access can reach profitability""")
-    else:
+    if v5 and v3:
+        v5_daily_ct = v5["m_inc_contracts"] / max(1, v5["m_contract_days"])
+        dead_v5     = (v5["m_travel_days"] + v5["m_idle_days"]) * retainer
+        print(f"""
+  V5 CHANGES (half mission pay, retainer during travel):
+    Mission pay: {daily_v1:.0f}s/day × 50% = {mission_v5:.1f}s/day (active work only — not travel)
+    Travel to site stays on retainer ({retainer:.2f}s/day)
+
+  V5 RESULT:
+    Contract income/day: {v5_daily_ct:.1f}s  | mission pay cost/day: {mission_v5:.1f}s  | gross/day on mission: +{v5_daily_ct-mission_v5:.1f}s
+    Net margin: {v5['m_net_margin']*100:+.1f}%  ({v5['m_total_inc']-v5['m_total_exp']:+.0f}s/year)
+    Wage expenditure: {v5['m_exp_wages']:.0f}s vs V3 {v3['m_exp_wages']:.0f}s (−{v3['m_exp_wages']-v5['m_exp_wages']:.0f}s)""")
+    if v6 and v5:
+        v6_daily_ct  = v6["m_inc_contracts"] / max(1, v6["m_contract_days"])
+        haggle_pct   = round(1 - (1/6)**HAGGLE_DICE, 3) * 100
+        floor_30     = CONTRACT_TYPES_V6[0][1]   # patrol_week min as proxy
+        print(f"""
+  V6 CHANGES (struggling world — −30% contract floor + haggling):
+    Contract base: −30% off V3 rates ({floor_30}s min for patrol week)
+    Haggle roll:   {HAGGLE_DICE}d6, 1+ success (6) → −20% pricing (~{haggle_pct:.0f}% of contracts)
+    Mission pay:   same as V5 (half rate, active work only)
+
+  V6 RESULT:
+    Contract income/day: {v6_daily_ct:.1f}s  | mission pay cost/day: {mission_v5:.1f}s  | gross/day on mission: +{v6_daily_ct-mission_v5:.1f}s
+    Net margin: {v6['m_net_margin']*100:+.1f}%  ({v6['m_total_inc']-v6['m_total_exp']:+.0f}s/year)
+    Wage expenditure: {v6['m_exp_wages']:.0f}s vs V5 {v5['m_exp_wages']:.0f}s | contract income: {v6['m_inc_contracts']:.0f}s vs V5 {v5['m_inc_contracts']:.0f}s""")
+    elif not v3:
         print(f"""
   V3 NOT YET RUN — contract pricing gap remains:
     ✗ Rate covers ~{v2['m_inc_contracts']/max(1,v2['m_contract_days'])*100/daily_v1:.0f}% of mission wages
@@ -753,7 +843,23 @@ if __name__ == "__main__":
     print("  V3 small done")
     v3_caster = run_all("v3", 8000, casters=1,
                         contracts=CONTRACT_TYPES_V3, bounties=BOUNTY_TABLE_V3)
-    print("  V3 caster done\n")
+    print("  V3 caster done")
+    v5_base   = run_all("v5", 9000,  contracts=CONTRACT_TYPES_V3, bounties=BOUNTY_TABLE_V3)
+    print("  V5 base done")
+    v5_small  = run_all("v5", 10000, commons=4, veterans=1, named_men=0,
+                        contracts=CONTRACT_TYPES_V3, bounties=BOUNTY_TABLE_V3)
+    print("  V5 small done")
+    v5_caster = run_all("v5", 11000, casters=1,
+                        contracts=CONTRACT_TYPES_V3, bounties=BOUNTY_TABLE_V3)
+    print("  V5 caster done")
+    v6_base   = run_all("v6", 12000, contracts=CONTRACT_TYPES_V6, bounties=BOUNTY_TABLE_V3)
+    print("  V6 base done")
+    v6_small  = run_all("v6", 13000, commons=4, veterans=1, named_men=0,
+                        contracts=CONTRACT_TYPES_V6, bounties=BOUNTY_TABLE_V3)
+    print("  V6 small done")
+    v6_caster = run_all("v6", 14000, casters=1,
+                        contracts=CONTRACT_TYPES_V6, bounties=BOUNTY_TABLE_V3)
+    print("  V6 caster done\n")
 
     sv1b = summarise(v1_base,   "Standard Warband  (6c+2v+1nm)")
     sv1s = summarise(v1_small,  "Small Band        (4c+1v)")
@@ -764,6 +870,12 @@ if __name__ == "__main__":
     sv3b = summarise(v3_base,   "Standard Warband  (6c+2v+1nm)")
     sv3s = summarise(v3_small,  "Small Band        (4c+1v)")
     sv3c = summarise(v3_caster, "Warband+Caster    (6c+2v+1nm+1ca)")
+    sv5b = summarise(v5_base,   "Standard Warband  (6c+2v+1nm)")
+    sv5s = summarise(v5_small,  "Small Band        (4c+1v)")
+    sv5c = summarise(v5_caster, "Warband+Caster    (6c+2v+1nm+1ca)")
+    sv6b = summarise(v6_base,   "Standard Warband  (6c+2v+1nm)")
+    sv6s = summarise(v6_small,  "Small Band        (4c+1v)")
+    sv6c = summarise(v6_caster, "Warband+Caster    (6c+2v+1nm+1ca)")
 
     paths = {
         "v1_baseline": save_results(v1_base,   sv1b, "v1_baseline"),
@@ -775,11 +887,17 @@ if __name__ == "__main__":
         "v3_baseline": save_results(v3_base,   sv3b, "v3_baseline"),
         "v3_small":    save_results(v3_small,  sv3s, "v3_small"),
         "v3_caster":   save_results(v3_caster, sv3c, "v3_caster"),
+        "v5_baseline": save_results(v5_base,   sv5b, "v5_baseline"),
+        "v5_small":    save_results(v5_small,  sv5s, "v5_small"),
+        "v5_caster":   save_results(v5_caster, sv5c, "v5_caster"),
+        "v6_baseline": save_results(v6_base,   sv6b, "v6_baseline"),
+        "v6_small":    save_results(v6_small,  sv6s, "v6_small"),
+        "v6_caster":   save_results(v6_caster, sv6c, "v6_caster"),
     }
 
     print(SEP2)
     print("  FL2E MERCENARY ECONOMY SIM")
-    print(f"  V1 daily  |  V2 retainer  |  V3 retainer+repriced+caster utility")
+    print(f"  V1 daily  |  V2 retainer  |  V3 retainer+repriced+caster  |  V5 half mission pay  |  V6 struggling world")
     print(f"  {RUNS} runs × {SIM_DAYS} days | Start: 100s treasury")
     print(SEP2)
 
@@ -792,12 +910,20 @@ if __name__ == "__main__":
     print("\n\n  ── V3: RETAINER + REPRICED CONTRACTS + CASTER UTILITY ──")
     for s in (sv3b, sv3s, sv3c): print_variant(s)
 
-    print_comparison([sv1b, sv1s, sv1c], [sv2b, sv2s, sv2c], [sv3b, sv3s, sv3c])
-    print_problems(sv1b, sv2b, sv3b)
+    print("\n\n  ── V5: RETAINER + REPRICED + HALF MISSION PAY ──")
+    for s in (sv5b, sv5s, sv5c): print_variant(s)
+
+    print("\n\n  ── V6: STRUGGLING WORLD (−30% CONTRACTS + HAGGLING + HALF MISSION PAY) ──")
+    for s in (sv6b, sv6s, sv6c): print_variant(s)
+
+    print_comparison([sv1b, sv1s, sv1c], [sv2b, sv2s, sv2c], [sv3b, sv3s, sv3c], [sv5b, sv5s, sv5c], [sv6b, sv6s, sv6c])
+    print_problems(sv1b, sv2b, sv3b, sv5b, sv6b)
 
     print_treasury_chart(v1_base, "V1 Standard Warband")
     print_treasury_chart(v2_base, "V2 Standard Warband (Retainer)")
     print_treasury_chart(v3_base, "V3 Standard Warband (Retainer+Repriced)")
+    print_treasury_chart(v5_base, "V5 Standard Warband (Half Mission Pay)")
+    print_treasury_chart(v6_base, "V6 Standard Warband (Struggling World)")
 
     print(f"\n{SEP2}")
     print("  RESULTS SAVED:")

@@ -28,7 +28,7 @@ The following is a prose sample for the chapter opening or a sidebar. It is in t
 
 ---
 
-> _"The problem with twenty armed men," said the woman who later became known as the Torch Carrier, though not as a compliment, "is that they need to eat every day. The problem with twenty hungry armed men is your problem."_
+> _"The problem with twenty armed men," said the woman who later became known as the Gristle, though not as a compliment, "is that they need to eat every day. The problem with twenty hungry armed men is your problem."_
 
 Mercenaries are not hirelings. A hireling tends to what you own. A mercenary is a force you direct toward a problem and hope comes back pointed the right way. Give him shelter and coin and the job stays simple. Miss a payment, let the job go wrong, give him a reason to look at you like a problem — and the calculation changes.
 
@@ -40,41 +40,533 @@ Earn that, and you have a band. Lose it, and you have twenty men deciding whethe
 
 ---
 
-### Band Life — Extended Fiction
+### Band Life
 
-The band eats first. Before the captain decides the march route, before the sergeant counts the watch rotation, before anyone puts a coin on a contract table — the band eats. Sixteen men need a full quarter-day's worth of food every morning, and sixteen hungry men are not sixteen men. They are sixteen separate calculations happening in sixteen heads, and every one of those calculations ends the same way. This is what a new captain learns in the first week.
+#### Recruitment
 
-The next thing they learn is the march. Twenty miles in fair conditions. Fourteen in rain. Half that in the mud season, when the tracks between villages turn to brown channels and the men's boots rot through from inside. The Ravenlands does not have roads. It has the memory of roads — raised lines, old stone courses, paths that pre-Cataclysm carts used and that feet still find by instinct. Walk one long enough and you will find where it was cut by something that came up through the ground, or where the forest closed back in over twenty years, or where the bridge is now a rotten tangle three feet downstream from where it was built.
+_Finding Men · Advance Payment_
 
----
+The new man's name was Brosa, and he had the look of someone who had been eating regularly until about three weeks ago. Good shoulders — Alderlander stock, the Gristle guessed, though he had the burnt complexion of someone who had been sleeping rough since long before the Mist lifted. Clean teeth, which was unusual. A scar across the back of his left hand that said he had blocked a blade once and learned from it.
 
-They camp inside daylight margins. Not from discipline — from arithmetic. The Mist still pools in low places after dark, thicker than air, heavier than fog, and men caught walking in it do not come back. The band has old soldiers who will tell you the worst of it lifted with the demon lords, that a man can walk two miles in it on a clear night and come through fine. Those are the same men who sleep with a knife across their chest and one boot on. Old habits from before they knew better, they say. Then they pull their fingers tight around the hilt and say nothing more.
+"What can you do?" the Gristle asked.
 
-So the camp goes up before the light goes red. Fire first, then perimeter. A guard on the tree-line who lasts two hours before the cold makes him useless, then another guard, until dawn. Not because the captain orders it every night. After the third week, the men do it without being told. Fear is a better instructor than command, and the Ravenlands has never run short of fear.
+"I can hold a line. I can dig. I can walk thirty miles if someone feeds me at the end."
 
----
+"Can you keep your mouth shut when the job isn't what you were told?"
 
-A village sees them from half a mile. A hamlet will have someone up a tree before the band clears the wood-line. By the time the captain reaches the palisade gate or the elder's door, the goats have been moved twice and three men with iron are standing somewhere they can be seen. This is not hostility. It is memory.
+Brosa looked at her. Then at Gest. Then at the fifteen men behind them who were not looking at him, because nobody cared about new men until they had survived something.
 
-The villages that survive in the Ravenlands are the ones that learned to count strangers before the strangers counted them. Sixteen swords is larger than most villages can answer, and every elder between here and the Stillmist knows that the coin minted before the Cataclysm goes further in a mercenary's hand than in any other. Their silver is old. The faces stamped on it are kings who died before the grandfathers of these elders were born. The men carrying it have needs that a village cannot fill and places to spend it that a village farmer will never see, and when the captain speaks at the door the elder standing opposite them is calculating how much the village can give before winter becomes a problem worse than the band is.
+"I've done that before," he said.
 
-Most bands do not start with extortion. Most start with an honest demand and a reasonable number. But the arithmetic of sixteen hungry men against an elder who cannot feed them for three days without gutting the stores — that arithmetic closes fast. The captain who has not thought through what happens when it closes is the captain who finds out the hard way.
+The Gristle held out a coin. Half-silver, clipped at the edge — the advance. He took it. That was the whole ceremony. No oath, no contract, no handshake. She paid him, which meant he was hers, which meant that if he ran with the advance she would put his name on a board somewhere and somebody down the road would collect. He understood this without being told. The men who needed it explained were the men who did not last.
 
----
-
-Inside the band, the social weight runs separate from rank. The sergeant holds authority. The captain holds coin and contract. But there is a third thing — harder to name — that lives in the man others look at when the situation turns bad. He is not always the sergeant. He is not always the biggest man. He is the one whose face does not change when the calculation gets ugly. The others do not discuss him. They do not vote for him. Over time, when trouble starts, they face the same direction he does. After a season, that direction is the one they trust.
-
-Bands that lose that man — to injury, to a clean desertion, to a contract that went wrong — feel the loss before they understand it. The morale holds until the first test. Then it does not hold.
+Gest wrote him into the roster that evening. Common. No rank. Shares last.
 
 ---
 
-The ones who last in this work are not the strongest or the fastest. They are the ones who never needed anyone to tell them that sleeping rough is fine, that cold food is fine, that the reward for doing the job correctly is getting to do the job again. They came from farms that burned or families that starved out or villages that could not feed one more mouth through the white months. They are practical in every way except the one that counts: they keep coming back.
+#### The Road
 
-They are not unlike the first settlers who pushed into the Stillwood or up through the Blight Marshes when the Mist was still thick and no one had reason to believe any of them would return. Those men and women went because staying was also a kind of dying, and because the land beyond the hills did not ask them what they had done before they arrived. The band offers the same thing. Whatever you were before you signed — the empty field, the dead village, the name that now means nothing in a settlement that burned six years ago — the band does not care. You can march. You can hold a position. You eat when the food is there and you do not complain when it isn't. That is enough.
+_Journeys · March_
 
-Ask one of the old ones why they stay. They will name a figure — enough coin to get somewhere, enough to clear a debt, enough to buy land if the price stays honest. Push harder and the figure gets vague. Push harder still and they stop answering. The truth is that most of them could not say what they are marching back toward. They know how to do this. They know who the men around them are, which ones hold and which ones don't, where the next meal is and how far to the next village. That is a kind of certainty. Out there — beyond the contract, beyond the march, in the life they are supposedly saving toward — there is none.
+They made nine miles that day. Rain since the second hour, a clay track that fell apart under their feet, and Petter the Hook walking drag because his knee had swollen up again and nobody was going to carry him. Petter was a dwarf, broad as a barrel and half a head shorter than the next man in the column, and he did not complain. Had not complained in the six years the Gristle had known him, not when the knee first went bad on the Stillmire road, not when they dug an arrowhead out of his shoulder with a skinning knife, not when his share of the Greymark contract came up four silver light because the employer lied about the headcount. He limped. He kept pace. When Gest slowed the column to let him close up, Petter spat and walked faster, because he would rather bleed inside the joint than owe the pace to someone's pity. Dwarves called that True Grit. The Gristle called it Petter.
 
-The Ravenlands does not reward the man who stops.
+The Ravenlands did not have roads. It had the memory of roads — old stone courses that carts had worn smooth before the Blood Mist rose, raised paths through the marshland where the ground held firm enough if you did not stop moving. Walk one long enough and you would find where it had been cut by something that came up from below, or where the forest had closed back over twenty years of neglect, or where the bridge was a rotten knot of timber three feet downstream from where it had been built. The maps were wrong about the bridges. The maps were always wrong about the bridges.
+
+---
+
+#### Morning Count
+
+_Feeding the Band · Provisions_
+
+Gest counted heads at the cookfire and came up one short.
+
+"Skalva," he said, to no one in particular. Then louder, toward the treeline: "Skalva." The boy came back carrying his boots, which he had been washing in the stream, because the boy washed his boots every morning as though clean leather would keep him alive. Gest took the boots out of his hands and dropped them next to the fire. "Eat," he said. "Then boots." Skalva sat down. He had learned in three weeks not to argue with the sergeant about the order of things.
+
+The Gristle watched from the other side of the fire and said nothing. She had fifteen men and Skalva, and all sixteen of them needed a quarter-day of food before they could march anywhere. That was the calculation, every morning, before routes or contracts or the question of whether the village they had been hired to protect was worth protecting. Fifteen men and a boy with clean boots. She scraped the last of the porridge from the pot with her knife and ate it off the blade. There would be nothing else until evening.
+
+---
+
+#### Night Camp
+
+_Camp Setup and Security_
+
+Camp went up before the light turned red. This was not discipline. This was arithmetic. The Mist still pooled in the low ground after dark, thin enough in most places now, but Gest had marched in the years when it was not thin, and the habits of those years had sunk into his bones like damp. Fire first. Perimeter second. Two men on the treeline in shifts, two hours each, because after two hours in the cold a man stopped seeing what was there and started seeing what he was afraid of.
+
+Skalva drew first watch. He stood at the edge of the firelight with his spear upright and his eyes on the forest, and for two hours he did not move, because Gest had told him that the man who moves on watch is the man who dies tired.
+
+The Gristle lay on her back near the fire with her sword across her chest and listened to the rain hit the canvas. Somewhere in the dark, Petter was coughing — the wet, deep sound of a dwarf whose lungs had been taking water for months and who would not mention it until he fell over. Dwarves were built for stone and dry air, not for the sucking marshlands of the Stillmire and the endless rain of the Ravenland lowlands. She would have to say something soon. She would not say it tonight.
+
+---
+
+#### The Gate
+
+_Quartering · Contract Arrival_
+
+The village of Redrun saw them from half a mile out. By the time the column reached the palisade gate, goats had been moved, grain covers drawn, and three men with hand-axes were standing where they could be seen. An elder met her at the door with the expression of a man calculating how many mouths he could not feed.
+
+"You are the company from the Greymark posting," the elder said. It was not a question.
+
+"We are."
+
+"The posting said ten men."
+
+The Gristle looked back at her column. Fifteen men, rain-black, mud to the knee, Petter leaning on his spear at the rear like a dwarf leaning on a fence post. "The posting said ten," she agreed. "The road said sixteen."
+
+The elder's eyes moved down the line, counting swords, counting mouths, doing the mathematics that every elder in every surviving village did when strangers arrived: how much can we give before winter becomes a worse problem than the men at the gate. He had done this before. Probably more than once.
+
+"We can quarter six inside the wall," he said. "The rest in the barn."
+
+"The barn will do." She paused. "We eat our own food."
+
+Something shifted in the elder's face. A small loosening, the kind of relief a man does not want to show because showing it tells the stranger exactly how thin the margin is. "Good," he said. "Good."
+
+---
+
+#### Reading the Board
+
+_Finding Work · Contracts_
+
+The posting board at Hollowford had four notices. Gest read them aloud while the Gristle ate a cold heel of bread and listened.
+
+"Escort. Merchant train, six wagons, Hollowford to the Amber Peak crossing. Nine days. Eighty silver on arrival. Half in advance."
+
+"What's on the wagons?"
+
+"Doesn't say."
+
+"Next."
+
+"Patrol. Eighteen miles of the Stillmire road, rotating, ten-day minimum. Town council. Sixty silver flat, paid on completion. No advance."
+
+"No advance means no advance. Next."
+
+"Clearing. Den site, half a day's march north. Reported casualties: three goats, one shepherd. Hundred silver on proof of elimination. Quarter advance."
+
+"Proof meaning?"
+
+"Head. Teeth. Something the council can nail to the gate."
+
+"Last one."
+
+"Bounty. Named individual, wanted alive. Sixty silver flat. No advance, delivery to Hollowford jail, alive and able to stand. They printed his face. He looks like Ferrec."
+
+"Everyone looks like Ferrec," the Gristle said. "Take the clearing contract. We can do it in four days if the weather holds. Send the advance rider today."
+
+---
+
+#### Pay Day
+
+_Pay Model · Retainer_
+
+Every seventh day, Gest sat on a rock or a fallen trunk or whatever was nearest to flat, and the men came past one at a time.
+
+The ritual never changed. Gest had the purse on his left side and the ledger on his right and a small knife stuck in the wood beside him, because once — years ago, before the Gristle's time — a man had grabbed the purse and run. The knife was not for the purse. It was for the hand.
+
+Each man received his retainer in copper, counted it in front of Gest, and walked away. Some counted slowly. Some did not count at all, because they trusted Gest, which was a kind of compliment the sergeant did not acknowledge. Skalva counted twice, each time, because the boy was careful in the way that young men are careful when they have not yet learned which things are worth checking and which are not.
+
+Petter never counted. He put the coin in his belt without looking at it and walked back to whatever he had been doing. If you had asked him the exact amount, he could have named it. He simply did not need to look.
+
+The men who still had debts — the advance not yet worked off, a replacement weapon charged against future pay — watched their pile come up short and said nothing, because the ledger was open and the arithmetic was the same every week, and a man who argued with a number he had agreed to was a man who wanted everyone to know he could not count.
+
+---
+
+#### Splitting the Take
+
+_Pay Model · Loot Share_
+
+The Greymark contract paid a hundred and fourteen silver. Three more than posted, because the employer had miscounted his own losses and made good on it without being asked — which was unusual enough that Gest wrote the man's name down for future reference.
+
+The split went like this. The Gristle took the captain's share: twenty silver, flat. Not because she had fought hardest — she had not — but because the captain's share was what paid for the next contract's advance, the replacement gear, the healer's supplies, and the bribes that kept the next employer from hearing whatever the last employer said about them. It was operating cost dressed as rank.
+
+Gest took sergeant's share: twelve silver. The remainder went into a pile and Gest counted it into portions. Each man got his cut based on tier and time served. Petter drew the largest share after Gest — almost eleven silver, because Petter was veteran-tier and had been present from the first day of the contract to the last. Brosa drew the smallest — six silver and change, because he had joined mid-contract and his tier was common. Skalva drew less than Brosa, because Skalva had not yet been promoted and was still technically on advance-debt.
+
+The boy looked at his pile and said nothing. The men around him looked at their piles and said nothing. Everyone knew the numbers were right because Gest's numbers were always right, and the man who accused the sergeant of short-dealing had better be holding evidence in both hands.
+
+---
+
+#### The Coin Runs Out
+
+_Field Non-Payment_
+
+They were three days from the Stillmire contract when the Gristle opened the strongbox and counted what was left.
+
+She did not say anything to Gest. She did not have to. The sergeant had been watching the box the way a farmer watches the sky in a dry season — not looking directly at it, but never quite looking away.
+
+"Two days," she said.
+
+"I know."
+
+"The men will know by tomorrow."
+
+"They already know." Gest rolled his shoulders. "Brosa has been talking to Ferrec. Ferrec has been talking to everyone. They are not stupid."
+
+She closed the box. Two days of retainer for sixteen men was thirty-two copper she did not have. The contract ahead was worth a hundred and ten silver if they finished the job. Between here and there, the men would eat, the men would march, and the men would do the arithmetic, and by the second morning without pay someone would ask the question that could not be answered with promises.
+
+"I'll talk to them tonight," she said.
+
+"Keep it short," Gest said. "They don't need a speech. They need to know you know."
+
+---
+
+#### Drill
+
+_Quarter Day Activities · Drill_
+
+Gest ran drill on the flat ground behind the treeline, and he ran it the same way every time: shield wall, hold, advance, reform, hold. Four hours. Six men at a time while the rest watched and ate and made the kinds of comments that men make when they are watching other men work. Hargamar — the other dwarf, older than Petter, quieter, a former stoneworker from the quarries south of the Amber Peaks who had picked up a sword when the quarry stopped paying — held the center of the line without being told. He had the low center that all dwarves brought to a wall, and his shield stayed where he planted it.
+
+Brosa was strong and quick and did everything wrong. He punched with his shield instead of bracing it. He stepped forward when Gest called hold. He watched his opponent's weapon instead of his opponent's feet. After the first hour, Gest pulled him out of the line and stood him in front of the others.
+
+"If you fight like that," Gest said, "you will kill the man next to you before the enemy does."
+
+Brosa said nothing. His face went dark.
+
+"Not because you are bad," Gest said, and his voice was flatter now, instructional rather than cruel. "Because you are alone in a line. A line works when every man does the same thing at the same time. You are doing your own thing. That is brave and it will get Skalva killed."
+
+Skalva, sitting at the edge of the field with Hargamar's waterskin because the dwarf had tossed it at him without asking, looked up. He had not known his name was going to be used.
+
+"Back in," Gest said. "Brace. Hold. When I say advance, advance one step. Not two. Not a charge. One step."
+
+Brosa went back in. He held. He advanced one step. He did this for two more hours, until his shoulders ached and his legs shook, and at the end of it Gest said nothing, which was the only compliment the sergeant gave.
+
+---
+
+#### Punishment
+
+_Discipline and Punishment_
+
+Ferrec stole three silver from Brosa's kit while the column was marching.
+
+Brosa noticed at evening count, said nothing for an hour, then went to Gest. Gest went to the Gristle. The Gristle went to Ferrec.
+
+"Open your belt."
+
+Ferrec opened his belt. Three silver and four copper fell out, alongside his own money, and the three extra coins were new-minted — the same batch the Greymark contract had paid in. Brosa's coins. Everyone at the fire recognized the mint.
+
+There was a silence. The kind of silence where sixteen men recalculate everything they know about the man sitting among them.
+
+"Ferrec," the Gristle said. "You know what this means."
+
+"I was holding them for him," Ferrec said.
+
+Nobody laughed. Gest picked up the three silver and handed them to Brosa. Then he looked at the Gristle, because the punishment was hers to name.
+
+"Half pay for four weeks," the Gristle said. "If there is a second time, you walk out of camp with what you're wearing and nothing else."
+
+Ferrec took it. He had no other choice. The men around the fire went back to their food. Some of them would talk to Ferrec again in a week. Some of them would never look at him the same way. The punishment was four weeks of short pay. The sentence was everything else.
+
+---
+
+#### Demanding Tribute
+
+_Village Extortion · Tribute_
+
+The village of Yellowdew was smaller than Redrun. Twelve houses, a ditch, and a palisade that leaned in three places. The elder was a woman with forearms like a smith's and a face that suggested she had heard speeches before.
+
+The Gristle did not give a speech.
+
+"Your village needs protection," she said. "The contract at Greymark is finished. We can stay through the season. One meal per man per day, drawn from your stores. Shelter in the barn. No looting, no interference. In exchange, we patrol the road and answer whatever comes from the north."
+
+The elder looked at Gest, who stood behind the Gristle with his arms folded. Then at Petter, who was leaning on his spear twenty paces back and looking at nothing in particular, the way Petter looked at nothing in particular when he wanted someone to think about what he could be looking at.
+
+"We cannot feed sixteen for a season," the elder said.
+
+"Ten, then. I'll rotate. You'll have ten mouths for eight weeks."
+
+"Six."
+
+"Eight, for ten weeks, and my foragers hunt your wood-line — none of it touches your stores."
+
+The elder's jaw moved. She was calculating, the way all elders calculated: not whether the offer was fair, but whether refusing it was more expensive. An unprotected village on that road had lost two goats the previous season and a man the season before. Eight mouths for ten weeks against the chance of losing the whole village to whatever came next.
+
+"Eight," the elder said. "But your men stay out of the houses."
+
+"Done."
+
+Neither of them shook hands. Neither of them needed to.
+
+---
+
+#### Pillage
+
+_Pillaging · Settlement Decay_
+
+The village at the fork of the Fen River had already been hit when they arrived.
+
+One house burned, still smoking. Grain stores torn open. Three dead — two men and a woman, cut clean, which meant swords, which meant it had not been animals. The surviving families stood in a knot near the well, watching the column approach with the empty faces of people who had already been through the worst part and were now waiting to find out if the next part was worse.
+
+The Gristle sent Gest through the village to count what was left. He came back in an hour with a tally. The stores were gutted. The livestock pen was empty. The grain that had not been taken had been scattered in the mud — deliberate waste, the mark of a band that wanted to punish the village for not having more.
+
+"Raiders?" the Gristle asked.
+
+"Mercs. Three-season men, probably out of Harga. They left a camp twelve miles south — cold fire, track for ten to twelve feet, moving east." Gest spat. "They took what they wanted and salted the rest."
+
+Petter stood among the dead and looked at the cuts. He did not say anything. After a while he walked back to the column and sat down and began sharpening his sword, which did not need sharpening. Some men prayed for the dead. Petter sharpened things.
+
+There was nothing to take. No tribute to negotiate. No stores to draw from. The village was bare. The Gristle left six days of the band's own food with the elder — more than she could afford, less than the village needed — and moved on. Some men looked back. Most did not.
+
+---
+
+#### Crossing the Line
+
+_Atrocities_
+
+The village at the edge of the marshland was not part of anyone's contract. It was on the route, and the stores were low, and Gest had been counting the food each morning with the expression of a man who could see the number zero approaching and had no plan for what happened when it arrived.
+
+Brosa said it first. "There's grain in those stores."
+
+The Gristle said nothing. She stood at the edge of the camp and looked at the village — twelve houses, smoke from four chimneys, a goat pen with actual goats in it. A village that was surviving. A village that had done nothing to them and owed them nothing.
+
+"We could ask," Skalva said.
+
+"We could," the Gristle said.
+
+"And if they say no?"
+
+The silence that followed was the kind that changes a company. Every man in the column had an opinion. None of them spoke. They waited to see which direction the Gristle faced, because that was what they always did, and the direction she chose would tell them what kind of company they were.
+
+"We ask," the Gristle said. "We offer labor. Two days of fence repair and ditch-work in exchange for what they can spare. If they say no, we march on empty. We do not take from people who have not earned being taken from."
+
+Brosa's face said what his mouth did not. Gest watched him and said nothing. Petter sharpened his knife.
+
+The village gave them grain for two days in exchange for the labor. It was not enough. It was what was offered, and what was offered was what they took, and they marched out on the third morning with sore backs and half-full bellies and something that none of them would have called pride but that functioned, in practice, the same way.
+
+---
+
+#### The Grab
+
+_Kidnapping_
+
+The kidnapping contract came through a middleman — a trader named Sorli who wore good boots and bad teeth and who named a price in the corner of the Hollowford inn without ever saying the word "kidnap."
+
+"Retrieval," was the word Sorli used. "A merchant's son who has run up debts with the wrong family. The father wants him back before the wrong family decides to collect what the son cannot pay in coin."
+
+"Where is he?"
+
+"Three days east. A village called Ashfall. He's living with a woman there. He thinks he's hidden."
+
+The Gristle took the job for ninety silver — half on acceptance, half on delivery.
+
+The grab went clean. Gest and Petter and four men walked into Ashfall at first light. The merchant's son was asleep. Petter put a hand over his mouth and Gest tied his wrists, and by the time the woman woke up and started screaming the column was already two hundred paces out of the village. The woman followed for half a mile, barefoot, calling names that nobody in the column answered.
+
+The merchant's son ate what they gave him and slept where they told him and twice tried to negotiate his own release. The second time, Petter told him to shut up, and there was something in Petter's voice — not anger, not threat, something quieter — that made the merchant's son understand that the conversation was finished.
+
+They delivered him in four days, standing and unharmed. The father paid. The Gristle put the silver in the strongbox and did not discuss what the father intended to do with the son, because that part was not in the contract and the contract was the only part that mattered.
+
+---
+
+#### The Bounty
+
+_Posting a Bounty · Bounty Work_
+
+They found the wanted man in a village east of the river crossing. He was sitting in the inn, drinking watered ale, and he saw them a full ten seconds before they reached his table, which was nine seconds longer than most men got. He did not run. He set down the cup and put both hands flat on the table.
+
+"You're from the Hollowford board," he said.
+
+"We are."
+
+"Alive?"
+
+"Alive and standing."
+
+He looked at Gest, who was blocking the door. He looked at Petter, who was blocking the window. He looked at Skalva, who was standing too close because the boy did not yet know how far back to stand.
+
+"I can walk," he said. "No shackles."
+
+"Shackles," the Gristle said. "You can walk in them."
+
+"If I run?"
+
+"You won't."
+
+He did not run. They marched him back to Hollowford in two days, fed him the same rations the rest of the column ate, and delivered him to the jail standing and unharmed. The jailer counted the coin onto the table. Sixty silver. The Gristle handed Gest the purse without looking at it.
+
+Skalva asked later what the man had done. Nobody answered, because nobody had asked.
+
+---
+
+#### A Price on Your Head
+
+_Wanted Men · Sheltering_
+
+The posting arrived at Hollowford on a tattered sheet: Ferrec's face, Ferrec's description, forty silver for delivery alive. Posted by a name none of them recognized from a settlement a day's ride east.
+
+Ferrec went white when Gest showed him the sheet. "I didn't do it," he said.
+
+"Didn't do what?"
+
+"Whatever they say I did."
+
+"The sheet doesn't say what you did. It says what you're worth."
+
+Forty silver was enough to make every freebooter within a day's march think about it. Not enough to attract a serious company, but enough for a desperate pair or a lone hunter who knew the roads.
+
+The Gristle sent Ferrec to the center of the column and told him to stay there. She doubled the night watch. She mentioned the posting to the Hollowford innkeeper and let it be known, without saying it directly, that producing Ferrec's body would cost considerably more than forty silver and would come at the expense of whoever tried.
+
+Ferrec marched in the middle of the column for three weeks, saying nothing, eating his food, and looking over his shoulder with the regularity of a man whose past had finally caught up and who knew there was no running from it while wearing another man's coin on his belt.
+
+The posting expired at the end of the season. Nobody collected. Nobody forgot.
+
+---
+
+#### The Oath
+
+_Blood Oaths_
+
+The contract at Blackwood was bad from the posting. Gest read it twice and set it down and looked at the Gristle with the expression he reserved for things he did not want to say out loud.
+
+"It's a clearing," he said. "But the thing they want cleared has been there for eighty years and three companies have tried it and none of them came back whole."
+
+"How much?"
+
+"Three hundred silver."
+
+Three hundred was more money than the band had seen in a season. Three hundred was enough to winter the whole company, replace every worn item on the roster, pay Ash for a full year, and put forty silver in the ground against the next bad stretch.
+
+The Gristle cut her palm with her belt knife in front of the company and held the bleeding hand up where every man could see it.
+
+"This one gets finished," she said. "I will leave nothing in that hole. Whatever is in there dies or we all do, and anyone who wants to walk away does it now, before the blood dries, because after it dries you have the same oath I do."
+
+Nobody walked. Skalva looked at Petter. Petter looked at nothing. Gest wrote the contract in the ledger and closed it.
+
+The oath was not magic. It was the Gristle's blood on the ground and the silence of sixteen men who had decided, each separately and all at once, that they were in.
+
+---
+
+#### Burying It
+
+_Mercenary Hoards_
+
+The Gristle told Gest and no one else. Petter she did not tell because Petter did not need to know, and the fewer men who knew where the money went, the fewer calculations happened when things got bad.
+
+She walked an hour east of camp at dusk, carrying twenty silver and a good knife wrapped in oilcloth, and dug a hole at the base of a boulder where the stream split around a stand of birch. The boulder was distinctive — split down the middle, pale granite against the dark earth, visible from the path only if you knew to look left at the fork. She buried the bundle, covered it, scattered needles and leaf-rot over the disturbed soil, and walked back. She did not mark it. She wrote the location in the ledger in a cipher Gest had taught her, using the names of rivers for compass directions and the names of the dead for distances.
+
+If she died, Gest could read the cipher, because Gest had taught it to her. If they both died, the money stayed in the ground, and whoever found it in ten or fifty years would wonder who had buried a good knife beside twenty silver at the base of a split rock in a forest that did not have a name.
+
+---
+
+#### The Direction
+
+_Morale · Named Men_
+
+Gest ran the column. The Gristle held the contract and the coin. The division was old and clean and neither of them discussed it, the way a married couple does not discuss who carries the water — whoever started doing it kept doing it, and the arrangement survived because it worked better than the alternative.
+
+But the man the others watched when the situation went wrong was Petter. He did not give orders. He did not raise his voice. When the Greymark contract turned and five men came at them through the tree-line in the dark, Petter simply faced right and braced his shield and the four men nearest him faced right and braced theirs, because that was where Petter was facing, and if Petter thought that was the direction, that was the direction. He had been wrong once, two years ago, and a man named Edvin had died because of it. Petter visited Edvin's mother on the way north every spring and left silver on the table without saying what it was for. She knew.
+
+---
+
+#### What He Was Owed
+
+_Named Man Agendas · Payment in Goods_
+
+The contract had been paid in kind — grain, two goats, and the elder's offer of hospitality for the night. That was how villages paid when silver was thin, and the Gristle had learned to read the offer: what was on the table, and what was being kept off it.
+
+Rask came to her at dusk. He had been with the company four years, Veteran tier, two shares, entitled to say things the common men were not.
+
+"The elder has a daughter," he said.
+
+The Gristle knew. She had seen her when they arrived — a girl of maybe fifteen, standing back in the doorway the way girls stood in doorways when armed strangers came through the gate.
+
+"He does," the Gristle said.
+
+"That's a good settlement for dangerous service."
+
+She looked at him. Rask was not a bad fighter. He was not a bad soldier. He was just bad with women, and not in the way that meant clumsy or nervous. She had seen the aftermath of Rask with a woman once, two contracts ago, in a village she did not go back to.
+
+The elder would give the girl if asked. The Gristle knew this too. A village that had just paid grain and goats to a band of sixteen swords would give most things if the captain looked at the elder a certain way. That was the balance of force. She had used it before in directions she could live with.
+
+"I'm paying you out of my share," she said. "Twelve silver. Three days' pay. Take it and we're settled on hospitality."
+
+Rask looked at the silver in her palm. "That's your silver," he said.
+
+"Yes."
+
+He stood there a moment, cold as steel. Then he took the twelve silver and walked back to the barn without another word. There was nothing else to say. She had paid him what the contract owed him. She had simply chosen the currency.
+
+She did not go to the elder's house that night. She stayed near the fire and listened to the village settle around her and thought about the small amount of goodwill she had just spent with a man she would need again, and whether it was worth it.
+
+It was. It always was. That did not make it free.
+
+---
+
+#### Petter's Trigger
+
+_Named Man Triggers · Loyalty_
+
+They lost a man named Haldr on the clearing contract — a cave mouth, a thing inside, and Haldr too far forward when it came out. He took a blow that broke him across the middle and he was dead before Gest could reach him.
+
+Petter carried Haldr out on his shoulders. He did this without being asked and without speaking, two miles back to the camp, and when he set the body down his face was the same face it always was. He dug the grave himself. He wrapped what was left of Haldr's gear in the man's own cloak and set it beside the hole and filled the hole and tamped the dirt and stood there for a while.
+
+That evening he went to the Gristle.
+
+"I want Haldr's axe," he said.
+
+"Haldr's axe goes to the company stores or to his next of kin, if he has one."
+
+"He has a sister in a village near Weatherstone. I know the place. I'll take the axe to her on the spring road and I'll pay the company his replacement cost out of my own share."
+
+The Gristle looked at him. Petter was not asking for the axe. Petter was telling her that another man had died under his watch and that this was the thing he did about it — the slow walk to someone's door with the dead man's belonging and the silver on the table that explained nothing and compensated for less. Dwarves carried their debts in silence. That was the difference between Petter and the human soldiers who made noise about their losses and then forgot. Petter would remember Haldr's name in ten years. He would remember the weight of the axe.
+
+"Done," she said.
+
+Petter walked away. Gest wrote it in the ledger.
+
+---
+
+#### Ash
+
+_Hired Casters_
+
+The half-elf's name was Ash, and she came to them at the river crossing south of Ravenford carrying a staff that was taller than she was and wearing a cloak that had been mended so many times it was more thread than cloth. She had the look that half-elves had — the sharp bones and the pale eyes of elven blood thinned by a human parent, and the particular expression of someone who had been told she was the crown of creation by one half of her family and something regrettable by the other.
+
+"I heard you were hiring," she said.
+
+"We're not," Gest said.
+
+"Then you are the only company between here and the Stillmire that does not need someone who can seal a wound with a word, set a man's blood on fire from across the room, and put a ward on a camp that gives her a headache when something crosses it."
+
+Gest looked at the Gristle. The Gristle looked at Ash.
+
+"What do you cost?"
+
+"Two shares. A tent of my own. Nobody touches my kit. And if I say the ground ahead is wrong, you listen before you argue."
+
+"One and a half shares. A tent. Nobody touches your kit. And if you say the ground is wrong, I listen — once. If you're wrong, you're back to one share."
+
+Ash considered this. "Fair," she said.
+
+She stayed. After the cave fight she knelt beside Brosa where he lay bleeding from the arm and pressed her hands flat over the wound and spoke a word in the old tongue that none of them recognized. The blood stopped. Not slowed — stopped, as if it had been told to stay inside the body and had obeyed. Brosa stared at his arm and then at Ash and said nothing, because there was nothing to say to a woman who could command your blood.
+
+She put a ward on the camp that winter — a Blood Oath bound to the perimeter stones, so that anything crossing the line with hostile intent would feel its own pulse turn against it. Some mornings she woke with her nose bleeding from the effort of holding the ward through the night. She wiped the blood on her sleeve and said nothing about it.
+
+She told the Gristle the ground was wrong twice, and both times she was right. The first time she said it flat — "The ground ahead has death in it" — and the Gristle took the column two miles east around a barrow mound that later swallowed a patrol from another company. The second time Ash simply stopped walking and would not continue, and the Gristle trusted the half-elf's judgment enough by then to reroute without asking why.
+
+The men did not trust her at first. That took three months. What changed it was not the magic — it was the night Skalva broke his wrist in a fall and Ash set the bone with her hands, not sorcery, and sat with him until the swelling went down. After that, the men decided she was strange but useful, which was the highest compliment the band gave anyone.
+
+---
+
+#### Dividing the Dead Man's Kit
+
+_Death of a Member · Distribution of Trappings_
+
+Haldr's boots went to Skalva, because Skalva's were rotting and Haldr's were the right size. His belt knife went to Brosa, who had been using a borrowed blade since he signed. His cloak went to stores. His shield — a good one, banded iron, two years of service on it — went to the company inventory, where Gest marked it and shelved it and did not assign it until the next man was hired, because a dead man's shield on a new man's arm on the same day was bad for morale in ways that did not show immediately but showed eventually.
+
+What Haldr had in personal effects: a copper ring, a scrap of letter from someone whose handwriting nobody recognized, two silver coins hidden in his boot lining, and a lock of hair tied with leather cord. These went into a pouch. The pouch went to the Gristle.
+
+If they passed through Weatherstone in the spring, the pouch would go to the sister Petter had mentioned. If they did not pass through Weatherstone, the pouch would stay in the strongbox until it did not matter anymore, and eventually the ring would be spent, the letter would rot, and the lock of hair would be one more thing that outlived the person it was meant for.
+
+The space in the column where Haldr had marched filled in within a day. The space around the fire where he had sat took longer. Skalva sat there on the fourth night and nobody said anything about it, and after that it was Skalva's spot, and the dead man's spot belonged to the company the way everything eventually did.
+
+---
+
+#### The Saving Price
+
+_Recruitment · Retention_
+
+Ask Skalva why he joined. He would say the farm burned. This was true. Ask what he was saving toward and he would name a figure — enough for tools and a plot near the river where the soil was supposed to be good. Ask him again in a year, if he lasted a year, and the figure would be different. Ask Petter, who had been at this for nine years, and he would tell you about a woman in a village near the coast who was probably married to someone else by now, and a piece of land he had never seen, and a price that shifted every time he named it.
+
+The truth was something they all shared and none of them said aloud: they knew how to do this. They knew who the men around them were, which ones held and which ones ran, where the next meal was coming from and how far to the next village. That was a kind of certainty. Out there — past the contract, past the column, in whatever life they were supposedly saving toward — there was none.
+
+The Ravenlands did not reward the man who stopped walking.
 
 ## Section 1: The Band
 
@@ -103,7 +595,7 @@ The band's roster is recorded separately from the stronghold hireling sheet. Men
 
 > **The Host: Multiple Bands Under One Banner**
 >
-> A Host is not a single band grown large. It is several bands — each with its own leader, its own MORALE, its own Named Men — assembled under a single authority called the **Warmaster**.
+> A Host is not a single band grown large, but several bands — each with its own leader, its own MORALE, its own Named Men — assembled under a single authority called the **Warmaster**.
 >
 > The Warmaster may be a PC or a Named Man elevated from the ranks. More often, they are an external figure: a warchief, a lord's marshal, a faction commander, or a wealthy employer who has retained multiple companies for a siege or campaign. The Warmaster holds the Host's banner, controls the supply line, and gives operational orders to the band captains. They do not manage individual men. They manage leaders.
 >
@@ -164,7 +656,7 @@ Built around one captain who holds the company by force of threat and selective 
 - **Typical Named Men personality:** Calculating, Paranoid Competent, Grudge-Holding.
 - **Breaks when:** The captain loses once — badly, visibly, in front of men who have been storing the calculation for months.
 
-**MILITARY BAND**
+**MILITARY SQUAD**
 Veterans of a larger force: soldiers who served under a warchief, garrison troops who got left behind when the campaign ended, or units whose commander died and whose pay stopped. They drill, they hold formation, and they have a professional relationship to violence that peasant bands do not.
 
 - **Recruitment:** The captain requires demonstrated prior service before accepting a new man — a verifiable record of engagements, a recognizable military background, or sponsorship from a current member who can attest to capability. Useless men are not taken on as projects. A man who cannot name his role, maintain his own equipment, and perform a specific function in the line is turned away regardless of need. Roles must be filled — the captain recruits to gaps, not to headcount. Without a SCOUT, they recruit a scout. Without a MEDIC, they find a healer. When all roles are covered, they stop recruiting until something breaks. -1 to finding men at rural settlements. +1 at town-scale settlements and at other military encampments.
@@ -173,8 +665,8 @@ Veterans of a larger force: soldiers who served under a warchief, garrison troop
 - **Typical Named Men personality:** Mercenary Proud, Territorial, Quietly Violent.
 - **Breaks when:** The captain shows they do not understand what a real formation is, or when the job clearly has no professional merit — atrocities, reckless assault, abandonment of standards.
 
-**KIN BAND**
-All members share blood, clan, or kin heritage. An orc warband. A wolfkin pack. Three halfling brothers who picked up stragglers of the same kin over two seasons. The loyalty structure runs through blood and old obligation rather than through coin and contract. These bands do not behave like mercenary companies in the standard sense — they behave like extended families who have become dangerous.
+  **KIN CLAN**
+  All members share blood, clan, or kin heritage. An orc warband. A wolfkin pack. Three halfling brothers who picked up stragglers of the same kin over two seasons. The loyalty structure runs through blood and old obligation rather than through coin and contract. These bands do not behave like mercenary companies in the standard sense — they behave like extended families who have become dangerous.
 
 - **Recruitment:** Same kin only, by default. A family-based kin band (same bloodline, not just same kin type) will not accept outsiders at all without a vouch from at least one existing member and, in some cases, a formal bond or oath before the group. An outsider vouched in is treated as kin-adjacent — they have standing but not full blood standing, and the band will not extend them the same protections automatically. A man who is vouched for and then betrays the band is an example made of without debate. Use the Kin and Recruitment modifiers from Section 2.
 - **Strengths:** MORALE is checked at -1 difficulty when the cause of distress is external (enemy action, contract failure, hunger). Internal grievances are handled within kin tradition — the GM should develop 1–3 kin-specific honor rules that function as additional Triggers for Named Men in this band. The band is **Trust-Held** by definition — kin bands cannot be Fear-Held except by a captain from outside the kin who takes command by force, and that condition lasts only until the kin remembers what they are (see Trust-Held Bands, Section 6).
@@ -243,48 +735,33 @@ When hired for field work away from the stronghold, fighters expect advance pay 
 
 The band eats. Budget 1 FOOD unit per man per day. That cost runs every day regardless of whether the band has work.
 
-Wages do not. Pay operates in three modes: **retainer**, **mission pay**, and **loot share**. Running full daily wages when no contract is active drains a warband's treasury inside a week from a standing start. The retainer model is what makes the basic operating loop viable.
+Wages do not. Pay has two rates and three modes.
 
----
+**Retainer** is what men earn when there is no work — traveling between contracts, waiting in camp, sitting inside a town while the captain looks for the next job. It is a weekly sum, paid for the full week regardless of how many days the band actually idled. Retainer is not prorated. A man committed to the band for five days of the week is owed the full week's coin.
 
-#### Retainer (Dead Weeks)
+**Mission pay** is what men earn when the work begins — not when the band sets out, but when it starts doing the job. Marching to the contract site does not qualify. A man on the road for three days is still on retainer. Mission pay starts when the band puts hands to real work and stops when that work ends. It is paid daily.
 
-When the band has no active contract — traveling, in camp, waiting on word from an employer — fighters receive a **weekly retainer**. This is not full pay. It is recognition that they are committed to the band, will not take other work, and will be ready when the call comes.
+What counts as mission pay: running a search party, building or reinforcing defenses, planning an ambush, scouting enemy positions, fighting.
 
-**Weekly retainer rates:**
+What does not count: travel to or from the contract site, resting in camp between operations, waiting on an employer's orders with no assigned task.
 
-| FIGHTER TYPE    | RETAINER (per week) | FULL WEEKLY WAGE | RETAINER AS % |
-| --------------- | ------------------- | ---------------- | ------------- |
-| Common          | 2 silver            | 7 silver         | 29%           |
-| Veteran         | 3 silver            | 14 silver        | 21%           |
-| Named Man       | 5 silver            | 21 silver        | 24%           |
-| Initiate Caster | 8 silver            | 42 silver        | 19%           |
-| Adept Caster    | 12 silver           | 105 silver       | 11%           |
+Leaders define that boundary. Call the work started too early and the treasury bleeds before the job is done. Call it too late and men who marched hard and dug ditches in the rain will notice the ledger. The band's morale will answer for either error.
 
-Retainer is paid weekly. It does not prorate by day — a man retained for five days of the week is retained for the full week. Partial weeks at contract start or end are settled on the last day.
+**Wages by fighter type:**
 
-**Non-payment threshold during retainer:** 14 days unpaid. Men on retainer are not working in the field; the grievance accumulates slower than mission non-payment, but it accumulates.
+| FIGHTER TYPE    | RETAINER (per week) | MISSION PAY (per day) |
+| --------------- | ------------------- | --------------------- |
+| Common          | 2 silver            | 5 copper              |
+| Veteran         | 3 silver            | 1 silver              |
+| Named Man       | 5 silver            | 1 silver 5 copper     |
+| Initiate Caster | 8 silver            | 3 silver              |
+| Adept Caster    | 12 silver           | 7 silver 5 copper     |
 
----
+**Non-payment — retainer:** 14 days unpaid. Men on retainer are not working; the grievance accumulates slower, but it accumulates.
 
-#### Mission Pay (Active Contract)
+**Non-payment — mission:** 3 consecutive days unpaid while the band is working. Men in the field are tired and watching. Their patience runs shorter than it does at camp.
 
-From the day a contract is formally accepted to the day it concludes — by completion, breach, or dissolution — fighters receive **full daily wages**. This covers the march to the operational area, the engagement, and any time spent in the operational hex until the employer releases the band.
-
-**Daily wages during mission:**
-
-| FIGHTER TYPE    | DAILY WAGE (silver) |
-| --------------- | ------------------- |
-| Common          | 1                   |
-| Veteran         | 2                   |
-| Elite           | 3                   |
-| Named Man       | 3                   |
-| Initiate Caster | 6                   |
-| Adept Caster    | 15                  |
-
-**Non-payment threshold during mission:** 3 days. Men are working, tired, and watching. Their patience runs shorter than it does on retainer.
-
-If a contract is breached or abandoned, mission pay ceases on the breach date and reverts to retainer pending the next arrangement.
+If a contract is breached or abandoned, mission pay ceases on the breach date and the band reverts to retainer.
 
 ---
 
@@ -292,24 +769,32 @@ If a contract is breached or abandoned, mission pay ceases on the breach date an
 
 When the band produces a material windfall — a bounty paid, tribute extracted, goods taken from a defeated enemy, a found cache recovered during a contract — that windfall is divided. It does not all go to the treasury.
 
-This is not generosity. It is the reason men fight hard rather than hold back. A man who knows his captain pockets everything still goes to battle. A man who knows there was a haul and he got nothing will have questions the next time blades come out.
+This is not generosity, but the reason men fight hard rather than hold back. A man who knows his captain pockets everything still goes to battle. A man who knows there was a haul and he got nothing will have questions the next time blades come out.
 
 Base contract pay is not loot — it goes to the treasury to fund wages and provisioning. The loot pool is the windfall only.
 
-**Division:**
+Within each tier, divide that tier's share equally among all men in it. 1 Named Man takes the full Named Man share. 3 commons split the commons share three ways.
 
-| SHARE RECIPIENT                    | % OF LOOT POOL |
-| ---------------------------------- | -------------- |
-| Leader (captain's cut + band fund) | 40%            |
-| Named Men collectively             | 30%            |
-| Veterans collectively              | 20%            |
-| Commons collectively               | 10%            |
+**Division varies by how the band is structured.** A tyrant captain commands by fear and personal authority — he takes most of everything. A kin-clan divides like a family inheriting an estate. A fraternal warband splits by rank but keeps commons and veterans closer to the top.
 
-Per-man within tier: 1 Named Man takes the full 30%. 2 Named Men split it equally. Veterans and commons divide their tier's share equally among themselves.
+| SHARE RECIPIENT | TYRANT | STANDARD WARBAND | FRATERNAL BAND | KIN-CLAN |
+| --------------- | ------ | ---------------- | -------------- | -------- |
+| Leader          | 60%    | 40%              | 25%            | 15%      |
+| Named Men       | 20%    | 25%              | 25%            | 20%      |
+| Veterans        | 12%    | 20%              | 28%            | 30%      |
+| Commons         | 8%     | 15%              | 22%            | 35%      |
 
-**If the treasury cannot pay loot shares:** MORALE −1. The captain who took their forty silver cut when the men got nothing has created a problem that does not resolve without coin or a credible explanation.
+**Tyrant:** The captain's word is law and his cut reflects it. Men serve because they have to or because the pay is still better than most. When the haul is lean, discontent rises fast — commons and veterans see the numbers. Morale is a constant management problem unless the band is continuously profitable.
 
-Tribute extracted from a settlement counts as a loot event. The captain who takes tribute without distributing the loot share faces two problems simultaneously: the standard consequences from the settlement, and the internal hit from their own men who expected a share.
+**Standard Warband:** Rank exists. The leader earns more, Named Men earn more than grunts, but commons and veterans receive a larger share than a tyrant crew. The baseline for most mercenary captains operating without a specific band philosophy.
+
+**Fraternal Band:** The captain's cut is modest. Named Men and veterans take nearly equal shares. Commons are paid better than anywhere else short of a kin-clan. Works well when the men chose each other and maintain discipline through mutual trust rather than hierarchy. Falls apart if the captain loses respect.
+
+**Kin-Clan:** The band divides like family splitting an inheritance — commons take the largest tier share, the leader's cut is the smallest of any archetype. This requires that the leader's authority rests on something other than pay differential: age, bloodline, reputation, or demonstrated skill. A kin-clan leader who starts skimming destroys the structure from the inside.
+
+**If the treasury cannot pay loot shares:** MORALE −1. The captain who pocketed his cut when the men got nothing has a problem that does not resolve without coin or a credible explanation.
+
+Tribute extracted from a settlement counts as a loot event. The captain who takes tribute without distributing shares faces two problems at once: the settlement's consequences, and his own men asking where their cut went.
 
 ### Feeding the Band
 
@@ -627,20 +1112,47 @@ A contract is a job with defined terms, a named employer, and a coin figure. Acc
 
 **Reference prices for a standard nine-man warband:**
 
-| CONTRACT TYPE        | PAY RANGE | DURATION | EMPLOYER TIER | NOTES                       |
-| -------------------- | --------- | -------- | ------------- | --------------------------- |
-| Patrol (weekly)      | 110–165s  | 7 days   | Town+         | In advance                  |
-| Escort               | 80–140s   | 5 days   | Town+         | On arrival                  |
-| Clearing             | 160–260s  | 10 days  | Town+         | On completion               |
-| Warchief raid        | 225–380s  | 14 days  | Warchief+     | Advance + half on return    |
-| Garrison (short)     | 340–500s  | 21 days  | Warchief+     | Flat advance                |
-| Protection (season)  | 550–800s  | 91 days  | Town+         | Flat advance; garrison mode |
-| Magical commission ◆ | 280–420s  | 12 days  | Town+         | In advance                  |
-| Ritual ward ◆        | 185–300s  | 8 days   | Warchief+     | Flat advance                |
-
-◆ _Caster bands only. Requires at least one hired caster in service._
+| CONTRACT TYPE              | PAY RANGE | DURATION  | EMPLOYER TIER | PAYMENT TIMING               | NOTES                                                                                      |
+| -------------------------- | --------- | --------- | ------------- | ---------------------------- | ------------------------------------------------------------------------------------------ |
+| **PATROL**                 |           |           |               |                              |                                                                                            |
+| Patrol (weekly)            | 110–165s  | 7 days    | Town+         | In advance                   | Route or hex. Employer specifies the ground.                                               |
+| Patrol (extended)          | 200–300s  | 14 days   | Town+         | Half advance, half on return | Harder terrain or wider circuit. Often renewed on completion.                              |
+| Road clearance (long)      | 390–580s  | 21 days   | Town+         | Weekly installments          | Multi-hex route security. Payment stops if band goes dark.                                 |
+| **ESCORT**                 |           |           |               |                              |                                                                                            |
+| Escort (short)             | 80–140s   | 5 days    | Town+         | On arrival                   | Person or cargo, single destination.                                                       |
+| Escort (long haul)         | 200–320s  | 14 days   | Town+         | On arrival                   | Multiple waypoints. Employer expects a report of each crossing.                            |
+| Bodyguard (personal)       | 175–280s  | 7 days    | Town+         | In advance                   | One named principal. Band does not leave their side.                                       |
+| Sensitive cargo delivery   | 160–260s  | 6 days    | Town+         | On delivery, sealed chest    | No questions about contents. Liability clause standard issue.                              |
+| **CLEARING / ELIMINATION** |           |           |               |                              |                                                                                            |
+| Clearing (area)            | 160–260s  | 10 days   | Town+         | On completion                | Remove a defined threat from a defined area.                                               |
+| Monster hunt               | 175–290s  | 8 days    | Town+         | On proof of kill             | Named specific creature. No proof, no pay.                                                 |
+| Bounty enforcement         | 100–200s  | 5–10 days | Town+         | On delivery                  | Bring back a named individual alive or dead per terms.                                     |
+| Sabotage / disruption      | 250–400s  | 10 days   | Warchief+     | Half advance                 | Destroy enemy supply, cache, or command structure.                                         |
+| **RAID / ASSAULT**         |           |           |               |                              |                                                                                            |
+| Warchief raid              | 225–380s  | 14 days   | Warchief+     | Advance + half on return     | Open-field engagement or overrun operation.                                                |
+| Siege assault support      | 380–620s  | 10 days   | Warchief+     | Half advance, half on fall   | Join an assault on a fortified position. Casualties expected.                              |
+| Punitive expedition        | 210–360s  | 10 days   | Warchief+     | In advance                   | Make an example of a specific settlement or group.                                         |
+| Ambush / interdiction      | 180–300s  | 7 days    | Warchief+     | On confirmed disruption      | Set and hold a blocking force on a named route or crossing.                                |
+| Relief force               | 400–700s  | 14 days   | Warchief+     | Half advance, half on relief | Break a besieged location. Employer pays double if it works.                               |
+| **GARRISON / DEFENSE**     |           |           |               |                              |                                                                                            |
+| Garrison (short)           | 340–500s  | 21 days   | Warchief+     | Flat advance                 | Hold position. Band is present and ready; no external contracts.                           |
+| Siege defense              | 350–550s  | 14 days   | Town+         | In advance                   | Hold against incoming assault. Employer assumes breach risk.                               |
+| Settlement pacification    | 220–380s  | 14 days   | Town+         | Weekly installments          | Occupy until population complies. Atrocity clause standard.                                |
+| Protection (season)        | 550–800s  | 91 days   | Town+         | Flat advance; garrison mode  | Retainer pay throughout. No other contracts.                                               |
+| **INTELLIGENCE / SUPPORT** |           |           |               |                              |                                                                                            |
+| Scouting / recon           | 140–240s  | 6 days    | Warchief+     | On report delivery           | Map and report a named area or enemy position. No engagement required.                     |
+| Extraction / rescue        | 160–280s  | 7 days    | Town+         | On safe return of subject    | Bring a named person out of hostile territory alive.                                       |
+| Hostile negotiation        | 150–250s  | 5 days    | Town+         | In advance                   | Show of force for an employer's demand. Fighting is optional.                              |
+| Militia training cadre     | 280–420s  | 21 days   | Town+         | Weekly installments          | Raise and drill local fighters to a service standard.                                      |
+| **CASTER CONTRACTS ◆**     |           |           |               |                              |                                                                                            |
+| Magical commission ◆       | 280–420s  | 12 days   | Town+         | In advance                   | Caster bands only. Employer specifies the working.                                         |
+| Ritual ward ◆              | 185–300s  | 8 days    | Warchief+     | Flat advance                 | Caster bands only. Ward a structure, route, or person.                                     |
+| Curse removal ◆            | 200–350s  | 7 days    | Town+         | On completion                | Caster bands only. Employer provides access; result guaranteed or partial refund standard. |
+| Divination mission ◆       | 130–220s  | 5 days    | Town+         | In advance                   | Caster bands only. Intelligence through magical means.                                     |
 
 **Price scaling:** These ranges assume a standard nine-man warband. A smaller band negotiates proportionally lower. A band with a caster negotiates **+35%** on all standard non-garrison contracts — employers who want magic in their service pay for it.
+
+Contracts without a payment timing listed pay in full on completion unless the employer proposes otherwise. Disputed timing is a negotiation failure. Settle it before the band leaves, not in the field when the work is done.
 
 **Protection season (garrison mode):** The employer pays a flat fee in advance for having the band present and available in their territory for the quarter. The band stays on **retainer pay** — not mission pay — for the full 91 days and does not march out on further contracts during that period. The band's cost for the season runs to roughly retainer wages (310 silver) plus food (315 silver), totalling around 625 silver. A mid-to-high protection season payment covers that cost with margin. Both parties lock in: the employer gets reliable presence, the band gets stable income without the attrition of continuous fieldwork.
 
@@ -655,6 +1167,22 @@ A contract is a job with defined terms, a named employer, and a coin figure. Acc
 **Breach:** If the leader breaks the contract, the employer can post a GRIEVANCE. A grievance becomes a Standing hit at every settlement the employer has Standing in, equal to the breach's severity. Repeated breaches accrue reputation as oath-breakers, which is tracked separately (see Atrocities).
 
 **Written vs. spoken:** Spoken contracts are common; anyone who witnesses the oath can testify. Written contracts require a SCRIBE or a literate PC, but they carry more legal weight in contested settlements and can be sold or transferred.
+
+---
+
+> **The ledger.**
+>
+> A warband of nine men costs between 17 and 20 silver a week just to stand still. That is retainer wages, no contracts, no food beyond what the land provides. Add food in lean terrain and the number climbs past 25. A town's seasonal tax revenue — if the harvest was good, if the merchants paid, if no one died or fled — might reach 200 silver in a year. A single bad winter takes most of that before spring. A village scrapes by on a fraction.
+>
+> This is the first thing a mercenary captain learns that their men never ask about: the people who most need a warband are the ones who can never afford one. A hamlet with a monster in the woods, a village with a warlord's outriders burning their storehouses — these are exactly the people the contracts are written for, and exactly the people who have nothing to pay with. They will offer grain, a horse, labor, a daughter's hand, the tools from every workshop. They will promise more than they have. They will lie, sometimes, about what they can deliver, because a lie that buys a week of protection is better than an honest account that sends the band walking.
+>
+> A mercenary who discovers the lie faces a simple calculation. The coin is not there. The band is owed wages. The village has grain.
+>
+> This is what adventurers are for, economically speaking. They are the people who fill the gap the market cannot. A party of four with no payroll, no retainer obligation, no starving men behind them — they can take a job a warband would refuse, accept a payment a warband would never agree to, and walk away from an outcome a warband would not survive. The village cannot pay? Adventurers have walked in for less. The treasure recovered is uncertain? Adventurers will take that risk in a way that no captain with nine men to feed ever can. And when the silver turns out to be a handful of copper and a written promise, the village elder has a chance of still being alive in the morning. The same conversation with a mercenary ends differently.
+>
+> The Ravenlands needs both. Warbands hold roads, break sieges, and enforce the agreements that hold together whatever commerce still exists. Adventurers go where no warband can go for wages any sane captain would accept. The distinction matters. A hired sword who cuts his pay gets someone killed. An adventurer who cuts their cut just goes home poorer. The world runs on the difference.
+
+---
 
 ### Posting a Bounty
 
@@ -694,13 +1222,13 @@ The prices below are floors. Below those floors, experienced collectors do not l
 
 **Professional breach bounties** arise when a mercenary, escort, or contractor broke a specific obligation that involved advance payment, sworn service, or trusted access to money, cargo, or intelligence.
 
-| BREACH                                                                        | MINIMUM PRICE        | NOTES                                                                                                                                                     |
-| ----------------------------------------------------------------------------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Abandoned a contract after taking advance pay                                 | Advance paid + 50%   | The advance plus the cost of the signal. The extra 50% is not the employer's greed. It is the market price of warning other employers what this man does. |
-| Sold intelligence to an opposing party                                        | 10–30 silver         | Posted by the employer. The amount reflects how much damage the leak caused, or how much the employer thinks it did.                                      |
-| Escort who abandoned cargo or left the employer to die                        | Equal to cargo value | If the cargo was lost, the posting matches the loss. If the employer survived, the posting is the insult's price.                                         |
-| Named Man who turned on their own company                                     | 10–30 silver         | The captain posts it. A low number says the man was not much to begin with. A high number says the captain wants blood rather than warning.               |
-| Captain who delivered a false-strength company — contracted twelve, sent five | 5–15 silver          | Low end, because the embarrassment matters as much as the silver. Posted more for the story it tells than the money it might recover.                     |
+| BREACH                                                                        | MINIMUM PRICE        | NOTES                                                                                                                                                   |
+| ----------------------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Abandoned a contract after taking advance pay                                 | Advance paid + 50%   | The advance plus the cost of the signal. The extra 50% is not the employer's greed, but the market price of warning other employers what this man does. |
+| Sold intelligence to an opposing party                                        | 10–30 silver         | Posted by the employer. The amount reflects how much damage the leak caused, or how much the employer thinks it did.                                    |
+| Escort who abandoned cargo or left the employer to die                        | Equal to cargo value | If the cargo was lost, the posting matches the loss. If the employer survived, the posting is the insult's price.                                       |
+| Named Man who turned on their own company                                     | 10–30 silver         | The captain posts it. A low number says the man was not much to begin with. A high number says the captain wants blood rather than warning.             |
+| Captain who delivered a false-strength company — contracted twelve, sent five | 5–15 silver          | Low end, because the embarrassment matters as much as the silver. Posted more for the story it tells than the money it might recover.                   |
 
 **Elimination bounties** target individuals whose removal has political, regional, or commercial value. These travel the farthest and draw the most professional interest.
 
@@ -731,35 +1259,41 @@ Goods payment is always negotiated before the bounty is accepted. The collector 
 
 **What goods can constitute payment:**
 
-| GOODS                                                                                                  | SILVER EQUIVALENT                         | NOTES                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------ | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| A riding horse, broken and sound                                                                       | 20–30 silver                              | Riding-trained and healthy. Liquid — easy to sell or ride. The most useful goods payment for a band that does not stay in one place. A green (untrained) horse moves for 12–15 silver; a war-trained horse for 60–80 silver. Verify condition and training before accepting.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| A mule or pack donkey, working                                                                         | 4–8 silver                                | Carries heavy gear without the temperament or expense of a horse. Eats less, works harder on steep and broken ground, and does not bolt from blood the way a riding animal does. A band moving equipment and loot over rough terrain values a sound mule above its coin equivalent in most seasons. A donkey toward the low end; a working mule in good condition toward the high. Not fast. Worth it.                                                                                                                                                                                                                                                                                                                                                        |
-| A plow ox, working and healthy                                                                         | 8–12 silver                               | High value in the right settlement. Difficult to move over rough terrain without slowing whoever is transporting it.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| A breeding pair of pigs or a small sheep flock                                                         | 3–6 silver                                | Only practical if the collector has somewhere to keep them. Most often taken as part of a split payment alongside coin.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| A cart with draft harness                                                                              | 10–18 silver                              | A two-wheel flatbed with single harness: 10–12 silver. A four-wheel cargo wagon with full double harness: 14–18 silver. A working cart turns the band into a mobile operation — it carries the injured, the loot, and the weight that drags on backs over long marches. The harness is useless without a draft animal; the animal loses half its utility without the cart. Offered together with an ox or mule, the combination is the most durable mobile goods payment a settled village can make.                                                                                                                                                                                                                                                          |
-| A working river boat, two- to four-oarsman capacity                                                    | 12–20 silver                              | Useful to a band that moves along waterways. Requires the collection point to be accessible to water.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| A quality weapon, master-made — axe or spear                                                           | 6–18 silver                               | Immediately useful to a fighting band. Axes and spears at this tier: battleaxe or long spear, master-worked, 6–18 silver. A master-made sword runs higher: broadsword or shortsword quality, 14–22 silver; a longsword or two-handed sword, 25–50 silver. Verify the poster holds clear title before accepting. A weapon with a known dead prior owner attached to it is not payment; it is evidence.                                                                                                                                                                                                                                                                                                                                                         |
-| A full suit of chainmail, fitted and intact                                                            | 20–28 silver                              | Worth taking if the band needs it and has someone who can wear it. New chainmail runs 24 silver; used but intact, assume 20–28 silver depending on wear and whether fitting is required. Dead weight if no one in the band can use it.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| A winter's grain store, enough for one family                                                          | 4–8 silver                                | Useful to a stationed band. Spoils over time — poor payment for a band that moves every few weeks.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| A saltbox — fifty units, dry-packed and sealed                                                         | 8–14 silver                               | Salt preserves meat, cures hide, and cleans wounds. Fifty units sealed in barrels or oilcloth runs 8–14 silver depending on how far the settlement sits from any coast. Lighter than grain, longer-keeping than most stores, and tradeable at every market that has a butcher or a tanner. Verify the seal before agreeing: wet salt is half the stated value.                                                                                                                                                                                                                                                                                                                                                                                                |
-| A season's harvest yield, unharvested at time of posting                                               | 5–12 silver                               | Forward goods. The collector receives the harvest when the season turns. Requires trust that the harvest will happen and the poster will still be present and willing to honor the agreement when it does.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Timber rights to a specified forest section, one full season                                           | 8–18 silver                               | The right to cut and sell from a marked territory. Only practical for a band that has the labor to work it, or a contact who will buy the standing timber.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Hunting, trapping, and fishing rights in a defined territory, one season                               | 6–14 silver                               | The poster grants access — marked territory, agreed season, no interference from the settlement or its neighbors. A well-stocked hunting ground within a day of a trade route: 10–14 silver in meat and pelt, if the band has someone who knows how to work it. A stripped forest or depleted river stretch: 6 silver at most. Not transferable coin. A band with a hunter or trapper on its rolls treats this as a standing food supply. A band without one treats it as a gift that requires labor to unwrap.                                                                                                                                                                                                                                               |
-| Local knowledge — terrain maps, danger positions, and patrol routes                                    | 8–25 silver equivalent                    | A settlement that has survived ten years in one place knows things no outsider can buy: where the bandits shelter in winter, which passes close before the first snow, how the local lord's patrol runs, where the old road still holds firm under the mud. Paid as time with the settlement's elders and scouts — one to three days of questions, listening, and sketched maps. Specific current intelligence on a hostile faction's positions and movements: 18–25 silver equivalent. Safe-route guidance to the next settlement: 8–12 silver equivalent. Worth more entering unfamiliar territory than it is to a band already working the ground.                                                                                                         |
-| Letters of safe conduct and guided passage through the poster's territory                              | 5–20 silver equivalent                    | The poster writes and seals a letter declaring the band under their protection and free to pass unmolested through lands they control or have standing with. A local guide accompanies them — someone who knows the roads, the checkpoints, and the names to drop at each one. Without the guide, the letter is paper. Without the letter, the guide is goodwill. Together they open territory that coin by itself cannot buy. In settled, friendly land: 5–8 silver equivalent. In contested ground bordering a hostile power or a toll-heavy lord's roads: 15–20 silver equivalent.                                                                                                                                                                         |
-| A house, outbuilding, and clear lot in a small village                                                 | 50–100 silver                             | Immovable. The materials alone for a solid wood structure run 20–40 silver; the outbuilding, cleared lot, and established claim in a living settlement add the rest. A rubble-condition structure in a dying hamlet moves for 20–30 silver and is worth what it shows. The band gains a legal presence in that settlement by accepting it. Valuable if the band wants roots; worthless if it intends to keep moving.                                                                                                                                                                                                                                                                                                                                          |
-| A working smithy forge with tools and iron stock                                                       | 80–160 silver                             | The most expensive single-item payment short of a longhouse. A forge requires 60 units of iron in its construction alone — 60 silver at floor price — before the stone, the builder's labor, and the working tools. A forge with cold iron stock and a functional hearth is worth what it costs to rebuild. The band must have a smith on its rolls or someone who can hire one, or it accepts dead weight. The poster is offering part of what the settlement runs on; do not underestimate what that means when the settlement cannot rebuild one.                                                                                                                                                                                                          |
-| A working craft building with tools — tanner, carpenter, cooperage, or equivalent                      | 30–70 silver                              | A tanner's shed or carpenter's workshop: 200 WOOD plus the specialist tools (scrapers, saw, chisel, planes, finishing tools), two to four days of labor. The tools alone run 5–15 silver for a complete working set. A tannery adds vat-pits and salt infrastructure. Upper range for a well-equipped cooper or wheelwright in a functioning settlement. Worth nothing to a band without a tradesman on its rolls or a buyer who will pay fair value on the purchase.                                                                                                                                                                                                                                                                                         |
-| A guild house — meeting hall, locked store, and charter rights                                         | 100–200 silver                            | Not a building — a position. A guild house is the structure plus the charter rights: the recognized authority to hold meetings, set prices, exclude rivals, and enforce the trade rules within the settlement's commercial life. Those rights take years of negotiation to accumulate; they are not surrendered except under genuine collapse. The structure itself runs INN-scale or larger. The band that accepts one inherits standing, outstanding debts, and a list of rivals who want what it just acquired. A poster offering a guild house is either desperate or making someone else's problem disappear.                                                                                                                                            |
-| A longhouse in a fortified settlement                                                                  | 100–250 silver                            | A significant stake. The longhouse structure itself — 400+ WOOD or equivalent stone — is only part of the cost. Space inside a fortified settlement is scarce and contested; what the poster is giving away is a position, not just a building. The band becomes a stakeholder in the settlement's politics, the settlement gains armed men inside its walls, and neither party chose the other. The lower range applies to a modest hall in a smaller palisaded camp. The upper range applies to an established longhouse with storage, a hearth, and a recognized claim in a real fortified town.                                                                                                                                                           |
-| A cleared farming plot with established soil and a standing claim                                      | 50–120 silver                             | A worked field is not raw ground. Raw ground takes a month of labor with a plough — 5 IRON in materials, a smith's week in making — to break into something that grows. What the poster is selling is soil already broken, seeded, and drained, with a boundary the neighbors have acknowledged. That prior labor does not become worthless because the holder is pressed. Contested in practice: the Ravenlands run on presence and living memory, not written deeds. The band must be able to hold what it accepts.                                                                                                                                                                                                                                         |
-| An herbalist or healer in attendance for an agreed term                                                | 12–20 silver equivalent per tenday        | The settlement's working healer — a HEALER talent holder, a practiced herbalist, or a senior midwife with real field knowledge — accompanies the band for the agreed term. Wound treatment after combat, daily poultice and herb preparation, and full HEALING rolls for injured band members outside normal recovery. One of the most practically valuable payments a band with an active injury rate can accept. A tenday of genuine healer attendance is worth more than coin to a band that has been using untrained hands to dress wounds in the field.                                                                                                                                                                                                  |
-| Pledged skilled labor from the settlement's master craftsman                                           | 10–28 silver equivalent                   | The settlement's smith, carpenter, or builder pledges a fixed number of weeks of work, redeemable at the settlement within one year. A smith's week: equipment repair, weapon maintenance, and fabrication at no extra charge — materials drawn from band stock, labor free. A carpenter's week: structural work toward a stronghold component, or gear repair. An herbalist's week: supply preparation and wound care equivalent to full HEALER attendance. Must be claimed within the year or the pledge expires. A band building toward a permanent base treats this as direct construction credit; a traveling band treats it as a reason to return.                                                                                                      |
-| Free wintering — lodging and full board with no service obligation                                     | 20–60 silver equivalent (by band size)    | The settlement grants the band winter quarters: dry beds, daily meals from communal stores, and warmth for the full winter season. Unlike a protection contract, this carries no patrol obligation — the settlement wants armed men present without bargaining for patrol schedules. Small skirmisher band (3–6 men): 20–35 silver equivalent. Full warband (7–20 men): 40–60 silver equivalent — the settlement is committing its entire winter surplus to feed twenty mouths from first frost to snowmelt. Immovable and non-transferable. Worth nothing to a band that will not stay.                                                                                                                                                                      |
-| A standing protection contract — one full season, paid in provisions, shelter, and settlement standing | 50–120 silver equivalent (by band size)   | The poster hires the band rather than paying coin. Payment is ongoing: a roof, reliable food, standing among the settlement's people. Skirmisher tier (3–6 men): 50–70 silver equivalent for the season. Warband tier (7–20 men): 80–120 silver equivalent — the settlement is committing its surplus to feed twenty armed men for twelve weeks, which is as real a payment as coin. Smaller bands can still accept subsistence-and-shelter deals at lower values; the range scales with what the settlement actually consumes. Binds both parties for the season and changes the band's relationship to that settlement permanently.                                                                                                                         |
-| A captive already held — transferred with ransom intelligence                                          | Market rate of captive (see Ransom table) | The poster holds a prisoner worth money to someone else and does not have the reach or patience to collect. They hand over the captive, whatever they know of the captive's connections, and all claim on what follows. The band gets the asset and the problem at once: feeding the captive, running the negotiation, and absorbing whatever arrives when the demand reaches the wrong ears. Price against the Ransom table. Verify identity and condition before accepting — a dead captive on arrival is a dead deal.                                                                                                                                                                                                                                      |
-| Raw materials in bulk — iron, leather, cloth, grain, pelts, or herbs                                   | Per-unit price from Ch10 (minimum floor)  | A village rarely has coin but often has stores. Per-unit minimums: iron 1 silver, herbs 2 silver, leather 12 copper, wool cloth 8 copper, grain 3 copper, pelt 8 copper. A substantial cache — forty units of iron (40 silver), a season's tannery output in leather, or a medicinal herb store — is real settlement wealth expressed in materials rather than coin. Agree the count and condition before the contract is taken. Perishable materials (grain, meat, pelt, herbs) lose value if collection is delayed past their listed shelf life; build a condition clause in if the contract is expected to run longer than a few weeks. The collector must also consider carriage: iron is heavy, grain spoils, and a wagonload of pelts requires a wagon. |
+| GOODS                                                                                                  | SILVER EQUIVALENT                         | NOTES                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------ | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Raw materials in bulk — iron, leather, cloth, grain, pelts, or herbs                                   | Per-unit price from Ch10 (minimum floor)  | A village rarely has coin but often has stores. Per-unit minimums: iron 1 silver, herbs 2 silver, leather 12 copper, wool cloth 8 copper, grain 3 copper, pelt 8 copper. A substantial cache — forty units of iron (40 silver), a season's tannery output in leather, or a medicinal herb store — is real settlement wealth expressed in materials rather than coin. Agree the count and condition before the contract is taken. Perishable materials (grain, meat, pelt, herbs) lose value if collection is delayed past their listed shelf life; build a condition clause in if the contract is expected to run longer than a few weeks. The collector must also consider carriage: iron is heavy, grain spoils, and a wagonload of pelts requires a wagon.                                                                                                                                                                                                                                                                                                                                                                                                   |
+| A riding horse, broken and sound                                                                       | 20–30 silver                              | Riding-trained and healthy. Liquid — easy to sell or ride. The most useful goods payment for a band that does not stay in one place. A green (untrained) horse moves for 12–15 silver; a war-trained horse for 60–80 silver. Verify condition and training before accepting.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| A quality weapon, master-made — axe or spear                                                           | 6–18 silver                               | Immediately useful to a fighting band. Axes and spears at this tier: battleaxe or long spear, master-worked, 6–18 silver. A master-made sword runs higher: broadsword or shortsword quality, 14–22 silver; a longsword or two-handed sword, 25–50 silver. Verify the poster holds clear title before accepting. A weapon with a known dead prior owner attached to it is not payment; it is evidence.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| A full suit of chainmail, fitted and intact                                                            | 20–28 silver                              | Worth taking if the band needs it and has someone who can wear it. New chainmail runs 24 silver; used but intact, assume 20–28 silver depending on wear and whether fitting is required. Dead weight if no one in the band can use it.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| A mule or pack donkey, working                                                                         | 4–8 silver                                | Carries heavy gear without the temperament or expense of a horse. Eats less, works harder on steep and broken ground, and does not bolt from blood the way a riding animal does. A band moving equipment and loot over rough terrain values a sound mule above its coin equivalent in most seasons. A donkey toward the low end; a working mule in good condition toward the high. Not fast. Worth it.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| A cart with draft harness                                                                              | 10–18 silver                              | A two-wheel flatbed with single harness: 10–12 silver. A four-wheel cargo wagon with full double harness: 14–18 silver. A working cart turns the band into a mobile operation — it carries the injured, the loot, and the weight that drags on backs over long marches. The harness is useless without a draft animal; the animal loses half its utility without the cart. Offered together with an ox or mule, the combination is the most durable mobile goods payment a settled village can make.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| A saltbox — fifty units, dry-packed and sealed                                                         | 8–14 silver                               | Salt preserves meat, cures hide, and cleans wounds. Fifty units sealed in barrels or oilcloth runs 8–14 silver depending on how far the settlement sits from any coast. Lighter than grain, longer-keeping than most stores, and tradeable at every market that has a butcher or a tanner. Verify the seal before agreeing: wet salt is half the stated value.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| An herbalist or healer in attendance for an agreed term                                                | 12–20 silver equivalent per tenday        | The settlement's working healer — a HEALER talent holder, a practiced herbalist, or a senior midwife with real field knowledge — accompanies the band for the agreed term. Wound treatment after combat, daily poultice and herb preparation, and full HEALING rolls for injured band members outside normal recovery. One of the most practically valuable payments a band with an active injury rate can accept. A tenday of genuine healer attendance is worth more than coin to a band that has been using untrained hands to dress wounds in the field.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Local knowledge — terrain maps, danger positions, and patrol routes                                    | 8–25 silver equivalent                    | A settlement that has survived ten years in one place knows things no outsider can buy: where the bandits shelter in winter, which passes close before the first snow, how the local lord's patrol runs, where the old road still holds firm under the mud. Paid as time with the settlement's elders and scouts — one to three days of questions, listening, and sketched maps. Specific current intelligence on a hostile faction's positions and movements: 18–25 silver equivalent. Safe-route guidance to the next settlement: 8–12 silver equivalent. Worth more entering unfamiliar territory than it is to a band already working the ground.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Letters of safe conduct and guided passage through the poster's territory                              | 5–20 silver equivalent                    | The poster writes and seals a letter declaring the band under their protection and free to pass unmolested through lands they control or have standing with. A local guide accompanies them — someone who knows the roads, the checkpoints, and the names to drop at each one. Without the guide, the letter is paper. Without the letter, the guide is goodwill. Together they open territory that coin by itself cannot buy. In settled, friendly land: 5–8 silver equivalent. In contested ground bordering a hostile power or a toll-heavy lord's roads: 15–20 silver equivalent.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Guild favor — introduction, access, or standing through a trade guild, thief guild, or equivalent      | 20–80 silver equivalent                   | Not goods. Access. A trade guild's favor opens markets: members sell to the band at settled prices rather than the stranger markup, and a sealed guild letter passes the band through trade checkpoints without the customary toll. A thief guild's favor opens territory: their people will not lift from the band while the favor stands, and the guild provides one introduction to a fence or an information source the band could not reach cold. Neither guild commits to active assistance — they commit to not working against the band and to a single specific piece of access. If the band acts against a guild member, interferes in guild business, or embarrasses the faction that extended the favor, the favor cancels immediately and what follows is the guild's business, not the poster's. Duration: one season or one specific use, whichever comes first. Agree the faction, the type of access, and the term before accepting — or the guild will interpret the pledge as broadly as suits them. An unwitnessed bribe to a guild officer is not a favor, but coin paid for a verbal promise from someone with no obligation to honor it. |
+| Services of a named expert — surgeon, engineer, navigator, or equivalent                               | 15–60 silver equivalent                   | A settlement may hold a retired army surgeon, a former city engineer, a river navigator who knows every passage between here and the next trade post, a master huntsman who has worked the same forest for twenty years. The poster calls in the expert's time on the band's behalf. A surgeon's tenday: full HEALING rolls and wound treatment at no supplies cost. An engineer's week: direct construction credit toward a stronghold component or siege preparation. A navigator's guidance: halves travel time on unfamiliar waterways and removes one hazard roll per route. The expert names the conditions of their service — they are not a hireling. The band cannot compel them past the agreed term, and an expert interrupted before completing their work provides partial value with no recourse for the shortfall. The band receives what the expert agrees to, not what the band asks for.                                                                                                                                                                                                                                                      |
+| Services of a local caster — pledged castings for a fixed term or task                                 | 30–100 silver equivalent                  | A village witch, a hedge sorcerer, a court astrologer living in reduced circumstances on a marginal holding. The poster vouches for the caster's time — two to three high-value castings, or one substantial magical task agreed in advance. The caster names which spells they will cast, under what conditions, and who they will not work against. These terms are set at acceptance, not at use. A caster pledge does not cover offensive sorcery against a third party the caster has not agreed to, and it does not obligate the caster to join a fight. If the caster refuses the specific use the band brings, the pledge is void — the risk of a caster payment falls on the band, not on the poster. Two full sessions with a traveling warband: 50–80 silver equivalent. One high-difficulty ritual with reliable execution: 60–100 silver. Agree the specific work before accepting, or learn afterward that the caster's idea of service does not match yours.                                                                                                                                                                                     |
+| Services of a local wise — lore, translation, identification, or divination                            | 10–40 silver equivalent                   | A wise is not a caster. They carry learning: genealogies, place-legends, the regional tongue of a disrupted population, the meaning in an old seal or inscription, the names of things that have not been spoken aloud in thirty years. Translation of a document or inscription: 10–15 silver equivalent. Identification of an artifact's origin or use: 15–25 silver equivalent. Lore on a specific location — what happened there, what the approach requires, what lives inside it now: 12–20 silver equivalent. Genealogical research sufficient to establish a legal claim: 20–40 silver equivalent. The wise delivers what they know, not what the band wants to hear. If the answer is "I do not know," the pledge is honored. A correct answer and an inconvenient answer are the same service from a wise. The band that wants a guarantee should hire a liar instead.                                                                                                                                                                                                                                                                                |
+| Pledged skilled labor from the settlement's master craftsman                                           | 10–28 silver equivalent                   | The settlement's smith, carpenter, or builder pledges a fixed number of weeks of work, redeemable at the settlement within one year. A smith's week: equipment repair, weapon maintenance, and fabrication at no extra charge — materials drawn from band stock, labor free. A carpenter's week: structural work toward a stronghold component, or gear repair. An herbalist's week: supply preparation and wound care equivalent to full HEALER attendance. Must be claimed within the year or the pledge expires. A band building toward a permanent base treats this as direct construction credit; a traveling band treats it as a reason to return.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| A captive already held — transferred with ransom intelligence                                          | Market rate of captive (see Ransom table) | The poster holds a prisoner worth money to someone else and does not have the reach or patience to collect. They hand over the captive, whatever they know of the captive's connections, and all claim on what follows. The band gets the asset and the problem at once: feeding the captive, running the negotiation, and absorbing whatever arrives when the demand reaches the wrong ears. Price against the Ransom table. Verify identity and condition before accepting — a dead captive on arrival is a dead deal.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| A daughter offered in marriage alliance or companionship                                               | 20–50 silver equivalent                   | The settlement's most common human payment. A family with nothing liquid may offer a daughter: to the captain as a companion or concubine, or to a Named Man willing to take a wife in exchange for committed service. The value is not the woman, but the tie she represents. A captain who accepts takes on an obligation to the family and to the settlement — they will want to know she is housed, fed, and not mistreated, and they will hear about it if she is not. A Named Man who accepts gains a local anchor: his Loyalty floor at that settlement rises to 4, and he now has a reason to return. If the captain accepts on behalf of a Named Man without informing that man first, the Named Man decides his own terms. He may decline. The settlement does not receive a replacement payment for a refusal. The family's consent is given publicly, before witnesses.                                                                                                                                                                                                                                                                             |
+| A village youth pledged to the band — to serve as camp retainer and train toward service               | 8–20 silver equivalent                    | An orphan, a youngest son with nothing to inherit, a boy whose family cannot feed him through another winter. The settlement sends him not as a burden but as a contribution: a pair of hands, a set of young legs, and eventually a fighter. In camp: carries messages, tends animals, hauls water, minds the fire, and does what he is told. Eats 1 FOOD per day, same as any man, but costs no wage until the captain decides he has earned Common fighter status — typically after one full year of service and one witnessed engagement where he did not run. Until that promotion he holds no share of loot and no vote on band decisions. A youth who survives two years at camp with a competent band arrives at Common tier with field experience no recruitment roll can simulate. The settlement that sends him expects he will not be put in front of a charge used as a distraction. A captain who takes a camp youth and kills him carelessly loses Standing with that settlement permanently.                                                                                                                                                    |
+| A winter's grain store, enough for one family                                                          | 4–8 silver                                | Useful to a stationed band. Spoils over time — poor payment for a band that moves every few weeks.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| A season's harvest yield, unharvested at time of posting                                               | 5–12 silver                               | Forward goods. The collector receives the harvest when the season turns. Requires trust that the harvest will happen and the poster will still be present and willing to honor the agreement when it does.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Hunting, trapping, and fishing rights in a defined territory, one season                               | 6–14 silver                               | The poster grants access — marked territory, agreed season, no interference from the settlement or its neighbors. A well-stocked hunting ground within a day of a trade route: 10–14 silver in meat and pelt, if the band has someone who knows how to work it. A stripped forest or depleted river stretch: 6 silver at most. Not transferable coin. A band with a hunter or trapper on its rolls treats this as a standing food supply. A band without one treats it as a gift that requires labor to unwrap.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Timber rights to a specified forest section, one full season                                           | 8–18 silver                               | The right to cut and sell from a marked territory. Only practical for a band that has the labor to work it, or a contact who will buy the standing timber.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Free wintering — lodging and full board with no service obligation                                     | 20–60 silver equivalent (by band size)    | The settlement grants the band winter quarters: dry beds, daily meals from communal stores, and warmth for the full winter season. Unlike a protection contract, this carries no patrol obligation — the settlement wants armed men present without bargaining for patrol schedules. Small skirmisher band (3–6 men): 20–35 silver equivalent. Full warband (7–20 men): 40–60 silver equivalent — the settlement is committing its entire winter surplus to feed twenty mouths from first frost to snowmelt. Immovable and non-transferable. Worth nothing to a band that will not stay.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| A working river boat, two- to four-oarsman capacity                                                    | 12–20 silver                              | Useful to a band that moves along waterways. Requires the collection point to be accessible to water.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| A plow ox, working and healthy                                                                         | 8–12 silver                               | High value in the right settlement. Difficult to move over rough terrain without slowing whoever is transporting it.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| A breeding pair of pigs or a small sheep flock                                                         | 3–6 silver                                | Only practical if the collector has somewhere to keep them. Most often taken as part of a split payment alongside coin.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| A standing protection contract — one full season, paid in provisions, shelter, and settlement standing | 50–120 silver equivalent (by band size)   | The poster hires the band rather than paying coin. Payment is ongoing: a roof, reliable food, standing among the settlement's people. Skirmisher tier (3–6 men): 50–70 silver equivalent for the season. Warband tier (7–20 men): 80–120 silver equivalent — the settlement is committing its surplus to feed twenty armed men for twelve weeks, which is as real a payment as coin. Smaller bands can still accept subsistence-and-shelter deals at lower values; the range scales with what the settlement actually consumes. Binds both parties for the season and changes the band's relationship to that settlement permanently.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| A cleared farming plot with established soil and a standing claim                                      | 50–120 silver                             | A worked field is not raw ground. Raw ground takes a month of labor with a plough — 5 IRON in materials, a smith's week in making — to break into something that grows. What the poster is selling is soil already broken, seeded, and drained, with a boundary the neighbors have acknowledged. That prior labor does not become worthless because the holder is pressed. Contested in practice: the Ravenlands run on presence and living memory, not written deeds. The band must be able to hold what it accepts.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| A house, outbuilding, and clear lot in a small village                                                 | 50–100 silver                             | Immovable. The materials alone for a solid wood structure run 20–40 silver; the outbuilding, cleared lot, and established claim in a living settlement add the rest. A rubble-condition structure in a dying hamlet moves for 20–30 silver and is worth what it shows. The band gains a legal presence in that settlement by accepting it. Valuable if the band wants roots; worthless if it intends to keep moving.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| A working craft building with tools — tanner, carpenter, cooperage, or equivalent                      | 30–70 silver                              | A tanner's shed or carpenter's workshop: 200 WOOD plus the specialist tools (scrapers, saw, chisel, planes, finishing tools), two to four days of labor. The tools alone run 5–15 silver for a complete working set. A tannery adds vat-pits and salt infrastructure. Upper range for a well-equipped cooper or wheelwright in a functioning settlement. Worth nothing to a band without a tradesman on its rolls or a buyer who will pay fair value on the purchase.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| A working smithy forge with tools and iron stock                                                       | 80–160 silver                             | The most expensive single-item payment short of a longhouse. A forge requires 60 units of iron in its construction alone — 60 silver at floor price — before the stone, the builder's labor, and the working tools. A forge with cold iron stock and a functional hearth is worth what it costs to rebuild. The band must have a smith on its rolls or someone who can hire one, or it accepts dead weight. The poster is offering part of what the settlement runs on; do not underestimate what that means when the settlement cannot rebuild one.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| A guild house — meeting hall, locked store, and charter rights                                         | 100–200 silver                            | Not a building — a position. A guild house is the structure plus the charter rights: the recognized authority to hold meetings, set prices, exclude rivals, and enforce the trade rules within the settlement's commercial life. Those rights take years of negotiation to accumulate; they are not surrendered except under genuine collapse. The structure itself runs INN-scale or larger. The band that accepts one inherits standing, outstanding debts, and a list of rivals who want what it just acquired. A poster offering a guild house is either desperate or making someone else's problem disappear.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| A longhouse in a fortified settlement                                                                  | 100–250 silver                            | A significant stake. The longhouse structure itself — 400+ WOOD or equivalent stone — is only part of the cost. Space inside a fortified settlement is scarce and contested; what the poster is giving away is a position, not just a building. The band becomes a stakeholder in the settlement's politics, the settlement gains armed men inside its walls, and neither party chose the other. The lower range applies to a modest hall in a smaller palisaded camp. The upper range applies to an established longhouse with storage, a hearth, and a recognized claim in a real fortified town.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
 **Three problems arise on nearly every large goods bounty.**
 
@@ -830,18 +1364,18 @@ A recovery bounty travels through the rumor system like any other bounty. If the
 
 Coin moved in a band does not travel safely. Inns hold it until someone drinks it. Strongholds hold it until someone attacks the stronghold. Banks do not exist in the Ravenlands. The answer most experienced captains reach is the same: bury it.
 
-A mercenary hoard is a hidden cache of valuables — coin, pelts, a good sword, whatever survives the years. It is not a bank. It has no lock and no ledger. The only security is that no one knows where it is.
+A mercenary hoard is a hidden cache of valuables — coin, pelts, a good sword, whatever survives the years. It is not a bank — no lock, no ledger. The only security is that no one knows where it is.
 
 **Establishing a hoard:** Choose a hex and a specific terrain feature — a hollow root, a marked stone, a particular river bend with a distinctive fork. Make a SURVIVAL roll. Each ⚔️ indicates how difficult the cache is to find by someone who does not know the exact location:
 
-| ⚔️  | CONCEALMENT                                                                   | FINDER'S ROLL DIFFICULTY |
-| --- | ----------------------------------------------------------------------------- | ------------------------ |
-| 0   | Poor. An obvious disturbed patch of earth or a too-neat arrangement of stone. | 1                        |
-| 1   | Adequate. Requires deliberate searching in the right hex.                     | 2                        |
-| 2   | Well hidden. Requires knowing the terrain feature specifically.               | 3                        |
-| 3+  | Expert. Requires the marker, or weeks of systematic searching.                | 4                        |
+| ⚔️  | CONCEALMENT                                                                   | HOARD LEVEL | FINDER'S ROLL DIFFICULTY |
+| --- | ----------------------------------------------------------------------------- | ----------- | ------------------------ |
+| 0   | Poor. An obvious disturbed patch of earth or a too-neat arrangement of stone. | 1           | 1                        |
+| 1   | Adequate. Requires deliberate searching in the right hex.                     | 2           | 2                        |
+| 2   | Well hidden. Requires knowing the terrain feature specifically.               | 3           | 3                        |
+| 3+  | Expert. Requires the marker, or weeks of systematic searching.                | 4           | 4                        |
 
-The leader records the hoard location and marker privately. If the leader dies or deserts without disclosing it, the hoard is lost as a practical matter — though it stays in the ground.
+The hoard level equals the finder's difficulty — a Level 4 hoard is the hardest to find and the most secure. The leader records the hoard's **marker**: the exact hex and a specific terrain feature at that hex — a hollow root, a marked stone, the downstream fork of a river where a particular boulder sits. The marker is private. If the leader dies or deserts without disclosing it, the hoard is lost as a practical matter — though it stays in the ground.
 
 **Hoard contents by band size and duration:**
 
@@ -863,11 +1397,26 @@ On arriving at an old hoard site not touched in a year, roll D6: on a 1, somethi
 >
 > Word reaches the fellowship by several routes: a survivor who knows the hex but not the exact spot, a partial map taken from a dead man's boot, a captive who mentions it under pressure, an old letter in a ruined stronghold. The information is always incomplete. The hoard is always real.
 >
-> **Finding it requires:**
+> **Without a marker:**
 >
-> - Knowing or narrowing the hex — a survivor's account, a landmark, a marking on a map fragment
-> - A SCOUTING roll at the establishment difficulty (see table above)
-> - Time: searching a hex takes one full Quarter Day per attempt
+> The seeker must know the exact hex. Hearsay, a rough description, or a map fragment that names the hex but nothing else does not narrow it further. From there, finding the hoard is a grinding search.
+>
+> - The seeker must make a number of _consecutive_ successful SCOUTING rolls equal to the hoard's level, each at that level's difficulty.
+> - Each attempt takes one full Quarter Day.
+> - A failure ends the run. The count resets to zero.
+>
+> Without a marker, this is deliberately near-impossible. It is not meant to be a routine search — a seeker without the exact location is guessing against ground that could hold a cache anywhere in the hex.
+>
+> **With a marker (hex and terrain feature):**
+>
+> The marker names the hex and a specific terrain feature — the hollow in the root of the old oak at the stream bend, the flat stone three paces north of the charcoal circle, the river fork where the tall boulder leans left. With the marker in hand, the seeker knows exactly what they are looking for and where.
+>
+> - One SCOUTING roll. A base success (any success, no difficulty requirement) locates the hoard.
+> - Each attempt takes one full Quarter Day.
+>
+> **If the marker's landmark has changed** — the tree was struck by lightning, the boulder was quarried away, the streambed shifted after a flood — the marker no longer leads directly to the cache. The seeker must search as if they had partial information. Make one SCOUTING roll at the hoard's full difficulty. This is not the grinding multi-roll blind search, but one hard roll, answered in a Quarter Day.
+>
+> The GM determines whether the landmark is intact, damaged (ruins of the tree still visible, boulder tilted but present — marker still functions), or gone (marker fails, one difficulty roll applies).
 >
 > The band that finds the hoard owns it. There is no inheritance in the Ravenlands.
 >
@@ -928,7 +1477,7 @@ When a member of the band breaks a rule, commits a crime against another member,
 
 Some captains run a company the way a man runs a dog — through pain and fear rather than coin and respect. MORALE in a tyrant company is held together by threat rather than by trust. The MORALE mechanics function the same way, but the interpretation changes.
 
-A tyrant captain may substitute INTIMIDATION for MANIPULATION on all internal MORALE checks and discipline rolls. This works — until it doesn't. Track separately whether the band's MORALE is **Fear-Held** or **Trust-Held**:
+A tyrant captain may substitute INTIMIDATION for MANIPULATION on all internal MORALE checks and discipline rolls. This works — until it doesn't. Track separately whether the band's MORALE is **Fear-Held**:
 
 - A **Fear-Held** band at MORALE 3 (Shaken) does not protest. It goes quiet. Individual Named Men begin pursuing private agendas and concealing information from the captain.
 - A **Fear-Held** band at MORALE 2 (Wavering) will not break openly. It will leak — men leaving in the night, minor sabotage, no warning given when the situation turns.
@@ -977,9 +1526,9 @@ Trust-Held is not a higher MORALE ceiling. The table is the same. What changes i
 
 **The warning.** A Trust-Held Named Man with Loyalty 1 who has reached their limit will tell the captain before they leave. Not with time to argue. Not loudly. But the captain gets one conversation — a flat statement of what is wrong and what they intend. A Fear-Held Named Man gives nothing. The captain cannot prevent either outcome. This is what trust costs and what it gives back.
 
-**Transition out of Trust-Held.** A band that was Trust-Held and drifts into fear management — a captain who increasingly substitutes INTIMIDATION for MANIPULATION, an atrocity the Named Men were ordered to carry out, a season of broken promises — loses Trust-Held status at the end of that season. The change costs MORALE -1. The men know what the company was. That knowledge is not comfort. It is the specific grief of a thing that has become something else.
+**Transition out of Trust-Held.** A band that was Trust-Held and drifts into fear management — a captain who increasingly substitutes INTIMIDATION for MANIPULATION, an atrocity the Named Men were ordered to carry out, a season of broken promises — loses Trust-Held status at the end of that season. The change costs MORALE -1. The men know what the company was. That knowledge is not comfort, but the specific grief of a thing that has become something else.
 
-**Transition into Trust-Held.** A Fear-Held band can earn Trust-Held status. The captain must pay reliably, address Named Men's triggers when they appear, and avoid using INTIMIDATION as a substitute for MANIPULATION through a full season without a loyalty break or a public trust violation. At the end of that season, the GM confirms the transition. It is slow. It is not impossible. The men remember everything that happened before it, too — and that debt does not disappear because the band is now better.
+**Transition into Trust-Held.** A Fear-Held band can earn Trust-Held status. The captain must pay reliably, address Named Men's triggers when they appear, and avoid using INTIMIDATION as a substitute for MANIPULATION through a full season without a loyalty break or a public trust violation. At the end of that season, the GM confirms the transition. It is slow, but not impossible. The men remember everything that happened before it, too — and that debt does not disappear because the band is now better.
 
 ---
 
@@ -987,7 +1536,7 @@ Trust-Held is not a higher MORALE ceiling. The table is the same. What changes i
 >
 > Every company has rules no one writes down. They are older than the captain, older than most of the men, and enforced by pressure and habit rather than stated expectation. Here is what companies actually deal with and how rough companies actually deal with it.
 >
-> **Theft between members** is the worst offense on the inside of a company. Worse than a fight, worse than lying to the sergeant, worse than sleeping through watch. A man who steals from the man who is going to stand next to him in a shield line has made a calculation about his own skin versus everyone else's, and that calculation does not have a good outcome for anyone. In most companies, a first offense earns a flogging and a reputation that follows the man until he leaves. A second offense earns expulsion. A third offense — if someone is still operating a third offense — earns whatever the men decide, and the captain looks the other way. This is not a policy. It is weather.
+> **Theft between members** is the worst offense on the inside of a company. Worse than a fight, worse than lying to the sergeant, worse than sleeping through watch. A man who steals from the man who is going to stand next to him in a shield line has made a calculation about his own skin versus everyone else's, and that calculation does not have a good outcome for anyone. In most companies, a first offense earns a flogging and a reputation that follows the man until he leaves. A second offense earns expulsion. A third offense — if someone is still operating a third offense — earns whatever the men decide, and the captain looks the other way. This is not a policy, it is weather.
 >
 > **Lying that cost blood** — telling the sergeant the left flank was clear when it wasn't, claiming to have been on watch, swearing a civilian was hostile to justify a killing — is handled faster than most things. There is no standard punishment. There is a standard outcome: the captain and the sergeant hear what happened, from everyone who was there. After that, the liar's word does not travel well. What follows depends on what the lie cost.
 >
@@ -997,7 +1546,7 @@ Trust-Held is not a higher MORALE ceiling. The table is the same. What changes i
 >
 > **Initiation** in rough companies is not formal. There is no ceremony. What happens is that new men are given the worst watch, the heaviest carry, the coldest corner of any camp, and the hardest assignments for the first two or three weeks. They are tested for the things that matter — do they hold, do they complain past the point where complaining is useful, do they lie about weakness to avoid work that will then fall on someone else. Men who pass are not told they passed. Other men start treating them differently. That is all.
 >
-> The hazing that exists beyond that boundary — targeted cruelty, sustained humiliation, deliberate injury — happens when the sergeant is weak or absent or complicit. It is not tradition. It is what bad management produces. A smart captain kills it fast, not because it is kind, but because a man who is being eaten alive by the men around him is not available to perform when it counts, and the man doing the eating is building habits that will cause a worse problem later.
+> The hazing that exists beyond that boundary — targeted cruelty, sustained humiliation, deliberate injury — happens when the sergeant is weak or absent or complicit. It is not tradition, but what bad management produces. A smart captain kills it fast, not because it is kind, but because a man who is being eaten alive by the men around him is not available to perform when it counts, and the man doing the eating is building habits that will cause a worse problem later.
 >
 > Every company has someone who thinks cruelty is a teaching method. Usually they have done it so long they cannot account for it. The sergeant who handles them early saves the captain a larger problem later.
 
@@ -1087,7 +1636,7 @@ Three kinds of blood oath are common in mercenary life:
 
 **Brotherhood oath.** Two Named Men bind themselves to each other — not to a captain, not to a company, to each other specifically. They bleed into soil or water or fire. The oath is witnessed by whoever is present; the company does not need to be assembled, but usually is. The oath states plainly: I will not leave you behind, I will not lie to you in a matter of life, and I will stand over your body before I walk away from it.
 
-Mechanics: If the oathbound partner is Broken in combat in the Named Man's presence, lied to by someone within earshot, insulted publicly, betrayed, or struck — the witnessing Named Man gains +2 to their next single roll made in direct response. This is typically MELEE against the offender, but it extends to INTIMIDATION if the response is a threat rather than a blade. It does not stack, it does not last beyond the response action, and it does not apply to anything other than the direct accountability for what was done. The men around them will recognize what it means when the bonus fires. It is not a combat advantage. It is evidence of what the oath cost.
+Mechanics: If the oathbound partner is Broken in combat in the Named Man's presence, lied to by someone within earshot, insulted publicly, betrayed, or struck — the witnessing Named Man gains +2 to their next single roll made in direct response. This is typically MELEE against the offender, but it extends to INTIMIDATION if the response is a threat rather than a blade. It does not stack, it does not last beyond the response action, and it does not apply to anything other than the direct accountability for what was done. The men around them will recognize what it means when the bonus fires. It is not a combat advantage, but evidence of what the oath cost.
 
 A Named Man who has sworn brotherhood will not abandon their oathbound partner voluntarily. If a captain orders one to leave the other behind, the Named Man rolls against Loyalty. Any result means they hesitate one Round before following the order — that hesitation may be the thing that saves the partner or the thing that gets both killed, depending on the situation.
 
@@ -1109,7 +1658,7 @@ No oath can be dissolved by agreement. That is the point of it. A man who wants 
 
 ---
 
-### Optional: Death of a Member — Distribution of Effects
+### Optional: Death of a Member — Distribution of Trappings
 
 When a company member dies — fighter, Named Man, or someone the band was traveling with — the company has to decide what happens to them before the day is done. A company that lets it sit past a day is a company with a brewing argument.
 
@@ -1138,7 +1687,7 @@ Pay owed through the end of the current contract is distributed equally among th
 
 _This subsystem is appropriate for Tyrant and Military bands operating in contested territory. Rural Peasant bands may use it under extreme conditions; Kin bands generally maintain territorial languages of their own that do not require it._
 
-Territory in the Ravenlands is not owned. It is held — by whoever is present, by whoever can demonstrate the cost of challenging it, and by how recently that demonstration was made. A deed, a boundary post, a handshake with an elder: these carry weight inside settlements and nowhere else. What carries weight in the hex between settlements is what the men at the tree line believe about what happens to people who cross without invitation.
+Territory in the Ravenlands is not owned, but held — by whoever is present, by whoever can demonstrate the cost of challenging it, and by how recently that demonstration was made. A deed, a boundary post, a handshake with an elder: these carry weight inside settlements and nowhere else. What carries weight in the hex between settlements is what the men at the tree line believe about what happens to people who cross without invitation.
 
 Two practices communicate this faster and more durably than any spoken threat.
 
@@ -1579,7 +2128,7 @@ Ranks 4 and 5 are reserved for player characters and significant adversaries. A 
 
 ### WILLPOWER
 
-Willpower is not stamina. It is the limit of how much magical work the caster can do before they must rest. It depletes directly with use and does not partially recover between scenes — it recovers at one point per full day of downtime.
+Willpower is not stamina, but the limit of how much magical work the caster can do before they must rest. It depletes directly with use and does not partially recover between scenes — it recovers at one point per full day of downtime.
 
 | TIER     | STARTING WP | RECOVERY            |
 | -------- | ----------- | ------------------- |
@@ -1617,7 +2166,7 @@ Factor the protection cost into engagement planning. Two fighters committed to t
 
 A caster changes the band's operating numbers in two direct ways.
 
-**Casualty reduction.** In any engagement the band participates in, the injury and death rate drops by roughly 40% when a caster is present. A normal combat carries around an 8% chance of a man taking a serious injury; with a caster in the band it drops to around 5%. A hard engagement — stronghold assault, defense against a superior force — drops from a 15% death rate to around 9%. This is not the caster's active ability in the fight. It is the passive effect of their presence: engagements entered on better information, protective workings in the line, the morale advantage of having something the other side does not. Fewer casualties means fewer replacements (each costs 3–8 silver and several days of gap in the roster), fewer death-morale rolls, and a band that holds its composition over seasons rather than bleeding out month by month.
+**Casualty reduction.** In any engagement the band participates in, the injury and death rate drops by roughly 40% when a caster is present. A normal combat carries around an 8% chance of a man taking a serious injury; with a caster in the band it drops to around 5%. A hard engagement — stronghold assault, defense against a superior force — drops from a 15% death rate to around 9%. This is not the caster's active ability in the fight, but the passive effect of their presence: engagements entered on better information, protective workings in the line, the morale advantage of having something the other side does not. Fewer casualties means fewer replacements (each costs 3–8 silver and several days of gap in the roster), fewer death-morale rolls, and a band that holds its composition over seasons rather than bleeding out month by month.
 
 **Contract premium.** A band with a caster negotiates 35% more on standard contracts. Employers who want military results improved by magic pay for it. An escort that pays 80–140 silver to a normal band pays 108–190 silver to a band with a caster. A clearing contract that pays 160–260 silver pays 216–350. The caster does not bargain for this separately — it is the captain's rate adjustment, and any employer who wants a caster band in the field knows the figure before the conversation begins.
 
@@ -1692,7 +2241,22 @@ Unlike fighter Named Men, caster agendas tend toward the personal, the ideologic
 
 ### Caster Personalities
 
-Casters do not have their own Personality table. Roll on the Named Man Personalities table (Section 7) and adjust for register. A caster who rolls **Flat** has witnessed things that burned the reaction out long before they joined the band. **Calculating** means they track WP costs, ingredient supply, and the band's reliability in parallel. **Convincing Liar** may explain why their stated reason for being here is not quite their actual reason.
+Casters share the same D66 roll structure as Named Men. The personalities below are tuned to practitioners — people who have spent years doing something most soldiers regard as either useful or frightening, and who have developed their own particular relationship with both outcomes. Roll D66 or assign:
+
+| D66   | PERSONALITY                                                                                                                                                                            |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 11-13 | **Burnt Out** — Has witnessed enough through their discipline that reaction has been cauterized. Eats after the mishap. Smiles at the wrong moments. Completely reliable in the field. |
+| 14-16 | **Accounting** — Tracks WP expenditures, ingredient supply, and the band's payment consistency on a private mental ledger. Always knows what they have left and what you owe them.     |
+| 21-23 | **Contemptuous Expert** — Tolerates the band's ignorance of their discipline. Will correct misunderstandings once. After that, they stop explaining.                                   |
+| 24-26 | **Transactional** — Hired for specific work; performs that work accurately. Considers interest in them as a person to be a social error. Not unfriendly. Just precise.                 |
+| 31-33 | **Hiding Something** — Their stated reason for being here is plausible and probably not true. Whatever they actually want, it is patient and specific.                                 |
+| 34-36 | **Formerly Devout** — Was a devotee of something before the band. The faith, the order, or the teacher is gone now. They do not discuss it. The gap is still there.                    |
+| 41-43 | **Unreadable** — Their face does not report. Other men cannot tell if a roll went well or not, whether they are injured, whether they are afraid. This is intentional.                 |
+| 44-46 | **Collector** — Acquires things: ingredients, texts, small objects of no obvious value, overheard information. Never explains the criteria. Never discards anything.                   |
+| 51-53 | **Protective of the Work** — Will not waste their discipline on poor planning. Asks what the objective is before casting. Refuses requests that would expend rank on a coin-flip.      |
+| 54-56 | **Professionally Proud** — Regards their craft as a serious discipline practiced by serious people. Resents being used as a shortcut or invoked without preparation.                   |
+| 61-63 | **Death-Familiar** — Has looked at death through their discipline in a way soldiers look at it with iron. Not reckless. Just done being afraid of the specific thing.                  |
+| 64-66 | **Agenda-Driven** — Has a goal that preceded the band and will outlast it. The captain knows the outline. The full shape of it is not something they have shared.                      |
 
 ---
 
@@ -1707,14 +2271,14 @@ Any member of the band — PC or Named Man — can become wanted. Common sources
 - A settlement whose Standing was destroyed
 - A warchief whose stronghold was burned
 
-**Wanted rating:** Track the coin amount of any bounty. Higher amounts travel further via rumor and reach more opportunistic ears.
+**Wanted rating:** Track the coin amount of any bounty. Higher amounts travel further via rumor and reach more opportunistic ears. Prices below are calibrated against working contract rates — a bounty that pays less than the cost of getting there draws no professional interest.
 
-| BOUNTY          | SPREAD                                                                                                       |
-| --------------- | ------------------------------------------------------------------------------------------------------------ |
-| Under 5 silver  | Local only. Known in the posting settlement and two hexes out.                                               |
-| 5–20 silver     | Regional. Reaches any settlement connected by trade road or river within 5 hexes. Hunters may take interest. |
-| 20–100 silver   | Wide. Mercenaries and bounty seekers anywhere with Reputation access may hear it within a season.            |
-| Over 100 silver | Famous. The name travels with every caravan and rumor for a year. Even allies may be tempted.                |
+| BOUNTY    | SPREAD                                                                                                                                                                       |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Under 40s | Local only. Known in the posting settlement and one hex out. Not worth the road to a professional. May interest desperate or local individuals.                              |
+| 40–150s   | Regional. Comparable to a short escort or scout contract. Reaches settlements connected by trade road within 4 hexes. Collectors may make a detour for it.                   |
+| 150–400s  | Wide. Serious money by field standards — competes with a clearing, raid, or short garrison. Mercenary bands take notice. Spreads with every trading caravan within a season. |
+| Over 400s | Famous. Full contract-equivalent or better. Worth diverting active operations. Travels with every caravan and rumor for a year. Even trusted allies weigh the number.        |
 
 ### Effect of Being Wanted
 
@@ -1951,7 +2515,7 @@ The GM may adapt: Twice-Broken, Cold-Eye, The Half, Long-Shepherd, Pale Winter. 
 
 > **Player Advice — Finding the Game at the Bottom**
 >
-> You are not in charge. You carry your gear, you eat what the cook makes, and you sleep where the sergeant indicates. That is not a limitation on the session. It is the opening condition of a different kind of play.
+> You are not in charge. You carry your gear, you eat what the cook makes, and you sleep where the sergeant indicates. That is not a limitation on the session, but the opening condition of a different kind of play.
 >
 > The game here is in the people. You have time to learn who is in this company — the sergeant who gives harsh assignments because it is the only way to keep fresh men alive, the First Blade who says less than anyone and moves decisions in ways you cannot track until you have been here long enough to watch, the cook who is older than the captain and knows things neither of them will say. Push into that web. Ask the wrong questions. Make small alliances before you understand why they matter.
 >
@@ -1990,11 +2554,11 @@ On failure: the mutiny collapses. Each Named Man who participated rolls Loyalty 
 
 ## Section 13: Host Play
 
-A Host is the top tier of this system — multiple bands operating under a shared authority. It is not a warfare system for armies and sieges; those remain outside scope. It is the framework for tables that want the mechanics and politics of meta-band play: the fellowship's band serving inside a larger force, dealing with other captains, navigating a Warmaster's orders, and holding their independence inside someone else's campaign.
+A Host is the top tier of this system — multiple bands operating under a shared authority. It is not a warfare system for armies and sieges — those remain outside scope — but the framework for tables that want the mechanics and politics of meta-band play: the fellowship's band serving inside a larger force, dealing with other captains, navigating a Warmaster's orders, and holding their independence inside someone else's campaign.
 
 ### The Hired Expert
 
-Most bands have no caster. A sword, a MANIPULATION roll, and enough food — that is the equipment a mercenary band runs on. Magic in the Ravenlands is not common property. It is learned slowly from living masters who want something in return, and the men who complete that training are rare and expensive.
+Most bands have no caster. A sword, a MANIPULATION roll, and enough food — that is the equipment a mercenary band runs on. Magic in the Ravenlands is not common property, but learned slowly from living masters who want something in return, and the men who complete that training are rare and expensive.
 
 A warband of seven to twelve has perhaps one chance in three of containing anyone with rudimentary sorcery or druidic knowledge — and that is chance casting: a talent rank, one memorized spell, no formal instruction beyond enough to know the risk. A seasoned caster with rank 2 or higher in any discipline is a Named Man of first quality. They come at Named Man rates elevated further: 4 to 8 silver per day for a competent rank 1 caster, 10 to 20 silver for rank 2, and the rank 3 casters who work for a mercenary company at all ask something beyond coin. Access, usually. Sometimes a specific target. Sometimes passage to a place they have reasons to reach.
 
@@ -2162,7 +2726,7 @@ Each proposal requires opposed MANIPULATION: the proposer rolls, the opposing Wa
 
 Disputes between Hosts, broken truces, or contested claims over a contract payment may be submitted to a third-party arbitrator both Warmasters recognize. Common arbitrators: priests of standing, prominent merchants, elders of a sufficiently neutral settlement, the patron faction of one Host if the other accepts their authority.
 
-The arbitrator's ruling is not enforceable by law — the Ravenlands has no court. It is enforced by the same mechanism all Host obligations run on: REPUTATION damage to the party that defies it. Both Warmasters agree before arbitration begins that defying the ruling removes their right to dispute the other's response. That agreement is what gives arbitration teeth.
+The arbitrator's ruling is not enforceable by law — the Ravenlands has no court — but enforced by the same mechanism all Host obligations run on: REPUTATION damage to the party that defies it. Both Warmasters agree before arbitration begins that defying the ruling removes their right to dispute the other's response. That agreement is what gives arbitration teeth.
 
 > **If the Host has a caster:** **Compel Truth** submitted by consent during arbitration testimony is considered legitimate under Ravenlands custom — a refusal is not proof of guilt, but the arbitrator notes it. **Tongues** eliminates the interpreter and the gap between what the Warmaster said and what the other party was told they said. **Telepathy** reading a rival's surface thoughts inside a parley tent is effective and detectable; **Sense Magic** is automatic and requires no roll, and a Warmaster whose druid is caught in the act loses REPUTATION −1 on the spot.
 
@@ -2223,7 +2787,7 @@ On contested decisions where the Warmaster has not issued a direct order, captai
 
 ### The Warmaster's Ledger
 
-The Warmaster's authority is not permanent. It is a stock account that grows with victories, clean pay, and honored promises — and drains with losses, deferred coin, and broken commitments.
+The Warmaster's authority is not permanent, but a stock account that grows with victories, clean pay, and honored promises — and drains with losses, deferred coin, and broken commitments.
 
 Track the Warmaster's Ledger as a separate score from their personal REPUTATION. The Ledger starts at 0 and runs from −6 to +6.
 
@@ -2351,9 +2915,9 @@ There is also the visibility problem. Any settlement watching your band fight kn
 
 ### After the Fight
 
-The druid's real value in a mercenary band is not what they do in the fight. It is what they do in the hour after it.
+The druid's real value in a mercenary band is not what they do in the fight, but what they do in the hour after it.
 
-**Healing Hands** moves down the line: the worst wounds first, attribute damage restored before the camp is set. **Mend Wounds** closes a critical injury that would otherwise cost a fighter weeks of use, provided the white moss holds out — which is why the purser tracks it alongside iron and food. For a permanently severed limb, **Regeneration** has a narrow window; miss it and the work becomes a ritual, slower, more costly, the fighter grounded for days. **Resurrection** is the last question and the smallest answer to it: it demands time, remaining Willpower, and something the dead person carried, and it takes a point of Empathy from the raised. It is not a policy. It is a decision made about a specific person whose absence changes something that cannot otherwise be recovered.
+**Healing Hands** moves down the line: the worst wounds first, attribute damage restored before the camp is set. **Mend Wounds** closes a critical injury that would otherwise cost a fighter weeks of use, provided the white moss holds out — which is why the purser tracks it alongside iron and food. For a permanently severed limb, **Regeneration** has a narrow window; miss it and the work becomes a ritual, slower, more costly, the fighter grounded for days. **Resurrection** is the last question and the smallest answer to it: it demands time, remaining Willpower, and something the dead person carried, and it takes a point of Empathy from the raised. It is not a policy, but a decision made about a specific person whose absence changes something that cannot otherwise be recovered.
 
 The druid who works the wounded after every engagement will know, within two seasons, which fighters the band can afford to lose and which ones it cannot. That judgment is worth more than any individual healing.
 
