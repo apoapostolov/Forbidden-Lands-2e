@@ -132,11 +132,11 @@ If a stronger bind rule is needed later, it should be added where the weapon fic
 
 **Would apply to:** `Bastard Sword`, `Longsword`, `2H LONGSWORD/CLAYMORE`, `Greatsword`
 
-**Verdict:** Accept with restrictions.
+**Verdict:** Accept with restrictions, with one required constraint before manuscript integration.
 
 Suggested rule text:
 
-> **HALF-HAND:** As a FAST action, you may shorten your grip and shift the weapon one band inward. The weapon stays at that shorter reach until you spend a FAST action to extend it again. You can only move one band at a time.
+> **HALF-HAND:** When you are already within NEAR range of an enemy, you may spend a FAST action to shorten your grip and shift the weapon one band inward. The weapon stays at that shorter reach until you spend a FAST action to extend it again. You can only move one band at a time.
 
 Reason:
 
@@ -144,6 +144,8 @@ Reason:
 - the manuscript already models close-range degradation through specific rules like `POLEARM` fallback and `CUT IN / BACK`
 - it works best as a sword-handling mode, not as a general reach trick
 - `Bastard Sword` is the cleanest fit because its hybrid grip already invites shortening and extension
+
+**Required constraint:** `HALF-HAND` must require that you are already at NEAR range or closer before you can shorten your grip. Without this, `HALF-HAND` as a guaranteed FAST action would bypass the risk of `CUT IN` entirely. `CUT IN` is a FAST action plus a MOVE roll to close against a longer-reach weapon — it has failure risk. If `HALF-HAND` functions from any range, a Bastard Sword user would close on a spearman for free without facing that roll. The proximity requirement keeps `CUT IN` doing its job: it handles the risky work of entering reach. `HALF-HAND` is the reward for already being there.
 
 If the book ever wants this space, it should stay on bladed swords with enough grip to make the mode meaningful.
 

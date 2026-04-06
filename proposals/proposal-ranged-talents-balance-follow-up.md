@@ -175,24 +175,31 @@ Possible change:
 
 ## Recommended Direction
 
-If a follow-up balance patch is wanted, prefer `Option A`.
+**Apply `Option C` to `FAST SHOOTER` rank 4 concurrently with the table changes. Do not defer it.**
 
-That is the clearest rule and the least likely to cause further hidden drift:
+The `Light Crossbow` range correction (Short → Long) combined with `FAST SHOOTER` rank 4 produces a character who fires `+3` effective, Damage 2, Long range every round with no penalty. A fully invested Longbow archer at the same talent cost fires `+2` effective, Damage 1, Long per round, or twice per round with Agility damage pressure on movement. The Light Crossbow with `FAST SHOOTER` 4 + `SHARPSHOOTER` costs the same talent investment but produces better results across every metric. The table change reduces the problem from `+4` effective to `+3`; it does not fix the action economy gap.
 
-- thrown hybrid weapons stay flexible
-- dedicated talent lanes stay meaningful
-- the best answer is less often "take the hybrid weapon that stacks everything"
+**Option C text for `FAST SHOOTER` rank 4:**
 
-If the manuscript wants to preserve current thrown-weapon exuberance, then do nothing yet and only watch actual play after the base-table rebalance lands.
+> `FAST SHOOTER` rank 4: Reloading a crossbow is now a FAST action. Shooting it still costs a SLOW action.
+
+Crossbow cadence stays at one shot per round. Bows retain their value through volume: `FAST SHOOTER` rank 3 lets bow users fire twice per round.
+
+**For `THROWING ARM` + `AXE FIGHTER`, prefer a targeted text amendment over `Option A`.**
+
+`Option A` overrides explicit manuscript text — `THROWING ARM` currently reads: "stacks with other weapon talents (like AXE FIGHTER)." Removing that stacking will feel like a nerf to players who built around it in good faith.
+
+A narrower clarification achieves the same result without that problem:
+
+> When you throw a melee weapon, `THROWING ARM`'s attack bonus stacks with `AXE FIGHTER`'s attack bonus and Artifact Die. `AXE FIGHTER`'s automatic critical effect (rank 2) and EXECUTIONER interaction (rank 4) do not apply on a throw.
+
+This keeps the stacking sentence intact and preserves the fantasy. It blocks only the rider effects that imply melee wound control which you do not have when the weapon is airborne.
 
 ## Recommendation For Now
 
-Do not integrate this proposal immediately.
+1. Implement the base ranged weapon rebalance.
+2. Apply the `FAST SHOOTER` rank 4 Option C fix in the same integration pass — not after playtesting.
+3. Amend `THROWING ARM` text to specify that rider effects from melee talent ranks do not carry over on throws.
+4. Test whether the remaining thrown hybrid pressure still feels dominant after those changes.
 
-Instead:
-
-1. implement the base ranged weapon rebalance first
-2. test whether thrown hybrids and late-game crossbows still dominate in play
-3. only then decide whether `THROWING ARM` or `FAST SHOOTER` needs narrowing
-
-That keeps the first correction clean and avoids solving three problems at once with one muddy patch.
+That keeps the first correction clean without leaving a known live problem in place.

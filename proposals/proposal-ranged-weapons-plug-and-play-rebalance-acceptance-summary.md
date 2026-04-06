@@ -92,14 +92,17 @@ The current manuscript already has one good explicit draw-strength exception. It
 
 ## Integration Recommendation
 
-If implemented, only these places should change:
+If implemented, these places must change:
 
 1. [05-combat-and-damage.md](/home/apoapostolov/git-public/Forbidden-Lands-2e/corebook/05-combat-and-damage.md)
    update the ranged weapon table
 2. [10-gear.md](/home/apoapostolov/git-public/Forbidden-Lands-2e/corebook/10-gear.md)
-   only if a nearby descriptive sentence becomes misleading after the new numbers
+   - **Required:** Drop the `Composite Bow` table entry from `+3` to `+2`. The crafting rule upgrades Short Bow by `+1`; at the new Short Bow baseline of `+1`, the result is `+2`, not `+3`. Leaving the entry at `+3` makes the Composite Bow an unintended outlier three times above any regular bow.
+   - Update prose only if any describing sentence becomes misleading after the new numbers
 3. [CHANGELOG.md](/home/apoapostolov/git-public/Forbidden-Lands-2e/corebook/CHANGELOG.md)
    record the rebalance under `Unreleased`
+
+> **Note:** `Blowgun` has been dropped to `+1` in this proposal to avoid a hierarchy inversion over `Short Bow`. At `+2`, the Blowgun would outperform the Short Bow in raw gear bonus at half the cost after the bow nerf. A `+1` Blowgun remains distinguishable through its `Armor Rating x2` property and ambush capability.
 
 ## Final Recommendation
 

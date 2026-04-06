@@ -26,7 +26,7 @@ Legend:
 - [x] Path of Blood Rank 5 Bleed Immunity (The Bloodproof Mage) — Monitor
 - [x] Feign Death + Critical Injury Pause (The Playing Dead Gambit) — Monitor
 - [x] Awareness Discipline + Path of Sight
-      (The All-Seeing Eye) — Monitor
+  (The All-Seeing Eye) — Monitor
 - [V] Animal Form Permanent Combat Shift — Clean
   (variant of Kaiju Build)
 - [V] Symbolism Power Rune + Geas — Clean
@@ -85,7 +85,7 @@ Legend:
 - [x] Fast Footwork R3 + Defender R3 + Fast Shooter R3 (The Untargetable) — Monitor
 - [x] Alchemist + Chef Rank 5 + Herbalist (The Field Medic Factory) — Clean
 - [x] Tamer + Path of the Beast Rank 5
-      (The Second Fighter) — Monitor
+  (The Second Fighter) — Monitor
 - [x] Acrobat Rank 4 + Halfling Hard to Catch (The Rubber Ball) — Clean
 - [x] Teacher Rank 3 Accelerated Advancement (The Tutor Mill) — Monitor
 - [V] Alchemist Combat Condition Removal — Clean
@@ -110,7 +110,7 @@ Legend:
 - [x] Sleepless via Song Rank 5 + Follow-Up Attack — Clean
 - [x] Swarm Form + Healing Trance (The Immortal Insects) — Monitor
 - [x] Cold Condition Farming via Nature Path
-      (The Frost Farmer) — Clean
+  (The Frost Farmer) — Clean
 
 ---
 

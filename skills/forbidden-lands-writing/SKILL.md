@@ -106,12 +106,6 @@ requires deep multi-register work.
   consequence, not through annotation. Load when writing
   example scenes that chain multiple rules.
 
-- `references/rules-onboarding-and-progressive-examples.md`
-  Chapter-level architecture for teaching complex subsystems.
-  Progressive disclosure, recurring characters, interconnected
-  narrative examples, audience layering, and a checklist.
-  Load when planning how a chapter introduces a major rule set.
-
 ## Hard Rules
 
 These are non-negotiable. Violating any one disqualifies
@@ -157,6 +151,28 @@ a draft from the manuscript.
    blade." If an adjective does not change what the reader
    pictures, it is decoration and should be cut.
 
+8. **No game designer jargon.** Terms like "critical riders,"
+   "proc," "tuned," "feature effects," and similar design-layer
+   vocabulary are internal shorthand. They do not belong in
+   manuscript prose. Replace them with plain description of what
+   happens at the table: not "critical riders" but "what the
+   talent does when the attack connects." "Trigger" is
+   acceptable plain English and may stay. "On-hit effects" is
+   borderline — it reads technical; prefer "what happens when
+   the attack connects" or "what the talent does on a hit."
+   If a reader would need to know design theory to understand
+   a sentence, the sentence is wrong.
+
+9. **No AI guardrail sections.** Do not introduce a section
+   labeled "GUARDRAILS," "Safety Note," "Content Warning," or
+   any equivalent. These are AI safety framing conventions and
+   read as generated text. If the rule has genuine edge cases
+   the GM needs to handle, write them as GM advice embedded
+   inside the rule itself — a short sentence beginning with
+   "The GM" or "The GM decides," placed where the concern
+   actually arises. Not a separate block before or after the
+   rule. Not a titled section. A sentence.
+
 ## Writing Workflow
 
 1. Identify the register: fiction opener, flavor exposition,
@@ -189,3 +205,9 @@ Before finalizing any draft:
       without interpretation drift?
 - [ ] If this is flavor text, does it still point toward
       use, danger, or consequence?
+- [ ] Does the draft contain any designer jargon (riders,
+      triggers, on-hit effects, procs, tuned)? Replace
+      each with plain table-language.
+- [ ] Does the draft contain a GUARDRAILS, Safety Note,
+      or Content Warning block? Break it up and embed
+      any genuine GM guidance as short in-rule sentences.

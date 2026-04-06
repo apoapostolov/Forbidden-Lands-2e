@@ -940,7 +940,7 @@ Stronghold development also feeds into local fame. Completing a Fortress, Castle
 >
 > But none of that matters at the strange hamlet on the edge of the marshes, where no road runs and no trader calls. There, they are mud-caked strangers rattling the gate at dusk.
 
-#### GM TRACKING
+#### REPUTATION TRACKING
 
 Track local Reputation and Standing only for settlements that matter, circles that matter, and strongholds that matter. Do not track the whole map. Track what the fellowship has actually touched. A simple list in a notebook is enough:
 
@@ -952,7 +952,7 @@ Track local Reputation and Standing only for settlements that matter, circles th
 
 When a rumor source expires or a new deed happens, update the list. Nothing else is needed.
 
-#### ADVICE FOR THE GM
+#### USING REPULATION
 
 A few things worth keeping in mind as the Reputation system runs at your table.
 

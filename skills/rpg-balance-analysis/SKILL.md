@@ -9,40 +9,17 @@ Use this skill when the question is not just "is it strong?" but "how will this 
 
 ## Bundled References
 
-Read these on demand:
+Read these repo-bundled references on demand:
 
-- `references/rpg-balance-framework.md`
-  - analytical balance lenses
-  - psychological expectation models
-  - GM burden analysis
-  - campaign-scale balance questions
-  - common illusion-of-balance traps
-- `references/balance-lenses-and-probability-baselines.md`
-  - full balance lenses
-  - probability and cost baselines
-  - apparent versus actual value
-- `references/expectation-models-and-table-cultures.md`
-  - player and GM expectation models
-  - spotlight economics
-  - table-culture scenarios
-- `references/action-economy-synergy-and-campaign-scale.md`
-  - action-economy balance
-  - game-theory taxonomy
-  - synergy framework
-  - campaign-scale tests
-- `references/harshness-lethality-authority-and-failure-modes.md`
-  - harshness tests
-  - recovery and lethality analysis
-  - narrative authority balance
-  - psychological failure modes
-  - correction toolkit
-- `references/forbidden-lands-balance-casebook.md`
-  - Forbidden Lands-specific case studies
-  - manuscript-grounded balance lessons
-- `references/balance-manual.md`
-  - unified research-grade balance manual
+- `/home/apoapostolov/git-public/Forbidden-Lands-2e/skills/rpg-balance-analysis/references/rpg-balance-framework.md`
+- `/home/apoapostolov/git-public/Forbidden-Lands-2e/skills/rpg-balance-analysis/references/balance-lenses-and-probability-baselines.md`
+- `/home/apoapostolov/git-public/Forbidden-Lands-2e/skills/rpg-balance-analysis/references/expectation-models-and-table-cultures.md`
+- `/home/apoapostolov/git-public/Forbidden-Lands-2e/skills/rpg-balance-analysis/references/action-economy-synergy-and-campaign-scale.md`
+- `/home/apoapostolov/git-public/Forbidden-Lands-2e/skills/rpg-balance-analysis/references/harshness-lethality-authority-and-failure-modes.md`
+- `/home/apoapostolov/git-public/Forbidden-Lands-2e/skills/rpg-balance-analysis/references/forbidden-lands-balance-casebook.md`
+- `/home/apoapostolov/git-public/Forbidden-Lands-2e/skills/rpg-balance-analysis/references/balance-manual.md`
 
-Use the reference file whenever the request asks for serious balance judgment rather than a quick opinion.
+Use them whenever the request asks for serious balance judgment rather than a quick opinion.
 
 ## What To Analyze
 

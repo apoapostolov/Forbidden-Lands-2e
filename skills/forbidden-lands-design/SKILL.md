@@ -11,14 +11,14 @@ Use this skill for rules analysis and design work in the Forbidden Lands 2E repo
 
 Start with:
 
-- `AGENTS.md`
-- relevant files in `corebook/`
-- relevant files in `proposals/`
-- `skills/forbidden-lands-design/references/system-design-map.md`
+- `/home/apoapostolov/git-public/Forbidden-Lands-2e/AGENTS.md`
+- relevant files in `/home/apoapostolov/git-public/Forbidden-Lands-2e/corebook/`
+- relevant files in `/home/apoapostolov/git-public/Forbidden-Lands-2e/proposals/`
+- `/home/apoapostolov/git-public/Forbidden-Lands-2e/skills/forbidden-lands-design/references/system-design-map.md`
 
 If the task includes manuscript drafting, also use:
 
-- `WRITING_GUIDE.md`
+- `/home/apoapostolov/git-public/Forbidden-Lands-2e/WRITING_GUIDE.md`
 
 ## When To Use It
 
@@ -32,42 +32,16 @@ Use it when you need to:
 
 ## Bundled References
 
-Read these on demand:
+Read this repo-bundled reference on demand:
 
-- `references/system-design-map.md`
-  - the game's major loops
-  - pressure economy
-  - chapter-by-chapter subsystem map
-  - integration questions
-  - good-design tests for this repo
-- `references/engine-math-and-rule-taxonomy.md`
-  - system map by inputs, outputs, costs, and risks
-  - rule-type catalog
-  - base probability model
-  - pushed-roll mathematics
-  - mixed-pool findings
-- `references/willpower-synergy-spells-and-recovery-analysis.md`
-  - Willpower generation and spend structure
-  - subsystem interaction matrix
-  - talent-path pressure categories
-  - spell volatility tables
-  - recovery and attrition analysis
-- `references/injuries-journeys-gear-and-expansion-space.md`
-  - injury severity and retirement logic
-  - journeys as a pressure engine
-  - gear system taxonomy
-  - underdeveloped design spaces
-  - low-bloat expansion guidance
-- `references/realism-audit-synergy-and-change-scenarios.md`
-  - realism versus playability tests
-  - formal proposal-audit workflow
-  - synergy-risk categories
-  - mathematical calibration scenarios
-- `references/design-manual.md`
-  - unified research-grade design manual
-  - all major loops, pressure channels, math, audit rules, and expansion principles in one source
+- `/home/apoapostolov/git-public/Forbidden-Lands-2e/skills/forbidden-lands-design/references/system-design-map.md`
+- `/home/apoapostolov/git-public/Forbidden-Lands-2e/skills/forbidden-lands-design/references/engine-math-and-rule-taxonomy.md`
+- `/home/apoapostolov/git-public/Forbidden-Lands-2e/skills/forbidden-lands-design/references/willpower-synergy-spells-and-recovery-analysis.md`
+- `/home/apoapostolov/git-public/Forbidden-Lands-2e/skills/forbidden-lands-design/references/injuries-journeys-gear-and-expansion-space.md`
+- `/home/apoapostolov/git-public/Forbidden-Lands-2e/skills/forbidden-lands-design/references/realism-audit-synergy-and-change-scenarios.md`
+- `/home/apoapostolov/git-public/Forbidden-Lands-2e/skills/forbidden-lands-design/references/design-manual.md`
 
-Use the reference file whenever the task is more complex than a local rules clarification.
+Use it whenever the task is more complex than a local rules clarification.
 
 ## Design Method
 

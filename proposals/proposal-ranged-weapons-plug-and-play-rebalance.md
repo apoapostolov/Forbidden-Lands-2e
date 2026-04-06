@@ -70,7 +70,7 @@ This proposal changes only the numbers that need changing.
 | Throwing Axe      | 1H   | +1    | 2      | Near  | 2    | Edged, Melee/Ranged                                                                                   |
 | Throwing Spear    | 1H   | +1    | 2      | Short | 2    | Pointed, Melee/Ranged                                                                                 |
 | Sling             | 1H   | +1    | 1      | Short | 1    | Light, Ranged (Blunt), Ready, Stones/Bullets                                                          |
-| Blowgun           | 1H   | +2    | 1      | Short | 3    | Light, Ranged (Pointed), Ready, Blowgun darts, Armor Rating x2, Can remain hidden during ambush round |
+| Blowgun           | 1H   | +1    | 1      | Short | 3    | Light, Ranged (Pointed), Ready, Blowgun darts, Armor Rating x2, Can remain hidden during ambush round |
 | Short Bow         | 2H   | +1    | 1      | Short | 6    | Light, Ranged (Pointed), Ready, Arrows                                                                |
 | Recurve Bow       | 2H   | +1    | 1      | Long  | 12   | Light, Ranged (Pointed), Ready, Arrows                                                                |
 | Longbow           | 2H   | +1    | 1      | Long  | 12   | Tough, Ranged (Pointed), Ready, Arrows                                                                |
@@ -154,9 +154,11 @@ If ordinary bows move down to `+1`, the `War bow` upgrade becomes more meaningfu
 
 ### Composite Bow
 
-Keep the current `Composite bow` rule unchanged for now.
+The `Composite Bow` table entry in Chapter 10 must drop from `+3` to `+2` in the same implementation pass.
 
-It already pays for its stronger profile through material rarity, moisture weakness, and crafting demands.
+The crafting rule does not change. The rule upgrades a Short Bow by `+1` weapon die. At the old baseline (`+2`), the result was `+3`. At the new baseline (`+1`), the result is `+2`. The table entry must reflect that, or the Composite Bow will sit three times above any regular bow with no cost increase — on par with a pre-nerf crossbow.
+
+The crafting demands and moisture weakness remain as written.
 
 ### Throwing Weapons and Melee Talents
 

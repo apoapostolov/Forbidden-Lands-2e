@@ -953,8 +953,8 @@ You can fire your bow or sling lightning fast. Hunters can combine this talent w
 
 - **✦ RANK 1:** You don't need to READY WEAPON before you SHOOT with a ranged weapon. Does not apply to crossbows.
 - **✦ RANK 2:** You can SHOOT with a ranged weapon and RUN at the same time.
-- **✦ RANK 3:** You only need to spend a fast action to SHOOT with a ranged weapon, meaning you can SHOOT twice in a round. Whenever used, when your round ends, you take 1 Agility damage if you have moved zones more than once during this round.
-- **✦ RANK 4:** Reloading a crossbow/firearm is now a FAST action.
+- **✦ RANK 3:** You only need to spend a fast action to SHOOT, meaning you can SHOOT twice in a round unless the weapon has LOAD. Whenever used, when your round ends, you take 1 Agility damage if you have moved zones more than once during this round.
+- **✦ RANK 4:** Reloading a crossbow/firearm is now a FAST action. Shooting it still costs a SLOW action.
 - **✦ RANK 5:** Once per round, if you spend a SLOW action to SHOOT, you gain a free action to SHOOT or RELOAD.
 
 ### FEARLESS
@@ -1491,7 +1491,7 @@ You have a scary physical presence and can threaten people to make them do what 
 
 ### THROWING ARM
 
-You can hit anything with a thrown rock. When you throw your weapons, the throwing arm talent stacks with other weapon talents (like AXE FIGHTER).
+You can hit anything with a thrown rock. When you throw your weapons, the throwing arm talent stacks with other weapon talents (like AXE FIGHTER) for attack rolls and dice modifiers, but not for effects those talents trigger on a hit.
 
 - **✦ RANK 1:** Your attack rolls are modified by +1 when you use a thrown weapon or a sling.
 - **✦ RANK 2:** You can throw incredibly far. All attacks with a thrown weapon or a sling have LONG range.

@@ -493,7 +493,7 @@ Fine weapons require a specialist and proper tools; crude weapons can be made wi
 
 **LIGHT:** Counts as a light weapon for talents and other rules that reference light weapons.
 
-**HALF-HAND:** This is a sword-handling technique. As a FAST action, you may shorten your grip and shift the weapon one band inward. The weapon stays at that shorter reach until you spend a FAST action to extend it again. You can only move one band at a time.
+**HALF-HAND:** This is a sword-handling technique. While already within NEAR range of an enemy, you may spend a FAST action to shorten your grip and shift the weapon one band inward. The weapon stays at that shorter reach until you spend a FAST action to extend it again. You can only move one band at a time.
 
 **LOAD:** You must spend a SLOW action to reload before the weapon can be fired again.
 
