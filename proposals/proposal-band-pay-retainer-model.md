@@ -175,34 +175,34 @@ Without contract pricing reform, the retainer model makes the system _survivable
 
 **Standard nine-man warband: 6 commons, 2 veterans, 1 named man. Starting treasury: 100s.**
 
-| METRIC                   | V1 DAILY WAGES | V2 RETAINER    | CHANGE        |
-| ------------------------ | -------------- | -------------- | ------------- |
-| Survival rate (1 year)   | 62.5%          | 83.5%          | +21.0 pp      |
-| Mean collapse day        | day 219        | day 240        | +21 days      |
-| Median final treasury    | 0s             | 53.6s          | +53.6s        |
-| Mean annual income       | 1,509s         | 1,781s         | +272s         |
-| Mean annual expenses     | 3,113s         | 2,269s         | −844s         |
-| Dead-time cost (annual)  | ~1,706s        | ~495s          | −1,211s       |
-| Loot shares paid to men  | n/a            | 195s           | new expense   |
-| Net margin               | −207%          | −59%           | +148 pp       |
-| Days on contract (mean)  | 97d (26.5%)    | 111d (30.5%)   | +14 days      |
-| Dead-time runway (100s)  | ~8 days        | ~30 days       | ×3.7          |
+| METRIC                  | V1 DAILY WAGES | V2 RETAINER  | CHANGE      |
+| ----------------------- | -------------- | ------------ | ----------- |
+| Survival rate (1 year)  | 62.5%          | 83.5%        | +21.0 pp    |
+| Mean collapse day       | day 219        | day 240      | +21 days    |
+| Median final treasury   | 0s             | 53.6s        | +53.6s      |
+| Mean annual income      | 1,509s         | 1,781s       | +272s       |
+| Mean annual expenses    | 3,113s         | 2,269s       | −844s       |
+| Dead-time cost (annual) | ~1,706s        | ~495s        | −1,211s     |
+| Loot shares paid to men | n/a            | 195s         | new expense |
+| Net margin              | −207%          | −59%         | +148 pp     |
+| Days on contract (mean) | 97d (26.5%)    | 111d (30.5%) | +14 days    |
+| Dead-time runway (100s) | ~8 days        | ~30 days     | ×3.7        |
 
 **Small band (4 commons, 1 veteran):**
 
-| METRIC                 | V1     | V2     |
-| ---------------------- | ------ | ------ |
-| Survival rate          | 49.5%  | 78.0%  |
-| Median final treasury  | 0s     | 95.3s  |
-| Net margin             | −105%  | −25%   |
+| METRIC                | V1    | V2    |
+| --------------------- | ----- | ----- |
+| Survival rate         | 49.5% | 78.0% |
+| Median final treasury | 0s    | 95.3s |
+| Net margin            | −105% | −25%  |
 
 **Warband with initiate caster (6c+2v+1nm+1ca):**
 
-| METRIC                 | V1     | V2     |
-| ---------------------- | ------ | ------ |
-| Survival rate          | 80.5%  | 89.5%  |
-| Median final treasury  | 0s     | 0s     |
-| Net margin             | −520%  | −143%  |
+| METRIC                | V1    | V2    |
+| --------------------- | ----- | ----- |
+| Survival rate         | 80.5% | 89.5% |
+| Median final treasury | 0s    | 0s    |
+| Net margin            | −520% | −143% |
 
 **Key finding:** The retainer model reduces dead-time cost by 71% (1,706s → 495s per year). This is the primary driver of improved survival. The mean treasury chart for V2 climbs through the year (53s median by year-end vs. 0s in V1), reflecting that surviving bands accumulate a small buffer rather than burning out.
 
