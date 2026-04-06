@@ -168,16 +168,16 @@ Contract reward rates. The V2 retainer model improves survival substantially but
 
 For the standard nine-man warband (daily cost: 13s):
 
-| CONTRACT TYPE         | OLD RANGE   | NEW RANGE    | DURATION | EMPLOYER    |
-| --------------------- | ----------- | ------------ | -------- | ----------- |
-| Patrol (weekly)       | 50–90s      | 110–165s     | 7d       | Town        |
-| Escort                | 60–130s     | 80–140s      | 5d       | Town        |
-| Clearing              | 100–220s    | 160–260s     | 10d      | Town        |
-| Protection (season)   | 80–150s     | 550–800s     | 91d      | Town        |
-| Warchief Raid         | 200–450s    | 225–380s     | 14d      | Warchief    |
-| Garrison (short)      | —           | 340–500s     | 21d      | Warchief    |
-| Magical Commission    | —           | 280–420s     | 12d      | Town        |
-| Ritual Ward           | —           | 185–300s     | 8d       | Warchief    |
+| CONTRACT TYPE       | OLD RANGE | NEW RANGE | DURATION | EMPLOYER |
+| ------------------- | --------- | --------- | -------- | -------- |
+| Patrol (weekly)     | 50–90s    | 110–165s  | 7d       | Town     |
+| Escort              | 60–130s   | 80–140s   | 5d       | Town     |
+| Clearing            | 100–220s  | 160–260s  | 10d      | Town     |
+| Protection (season) | 80–150s   | 550–800s  | 91d      | Town     |
+| Warchief Raid       | 200–450s  | 225–380s  | 14d      | Warchief |
+| Garrison (short)    | —         | 340–500s  | 21d      | Warchief |
+| Magical Commission  | —         | 280–420s  | 12d      | Town     |
+| Ritual Ward         | —         | 185–300s  | 8d       | Warchief |
 
 **Protection season (fundamental change):** The old "garrison duty" at 80–150s was incoherent — it covered less than 10% of a quarter's wages. The protection season is reframed as: the employer pays a flat fee in advance for having the band available for the quarter. The band remains on **retainer pay** during this arrangement, not mission pay. Daily cost during the season: ~3.3s/day + food. Income: 550–800s flat. Net position: +150s to +400s for the quarter.
 
@@ -185,13 +185,13 @@ For the standard nine-man warband (daily cost: 13s):
 
 **Bounties repriced:** All bounty rates approximately doubled to reflect a functional mercenary economy:
 
-| BOUNTY TYPE          | OLD RANGE | NEW RANGE |
-| -------------------- | --------- | --------- |
-| Local criminal       | 5–15s     | 12–30s    |
-| Named bandit         | 10–25s    | 25–60s    |
-| Deserter             | 2–5s      | 5–12s     |
-| Warlord enemy        | 50–200s   | 80–300s   |
-| Professional breach  | 10–30s    | 25–60s    |
+| BOUNTY TYPE         | OLD RANGE | NEW RANGE |
+| ------------------- | --------- | --------- |
+| Local criminal      | 5–15s     | 12–30s    |
+| Named bandit        | 10–25s    | 25–60s    |
+| Deserter            | 2–5s      | 5–12s     |
+| Warlord enemy       | 50–200s   | 80–300s   |
+| Professional breach | 10–30s    | 25–60s    |
 
 ---
 
@@ -226,19 +226,19 @@ An initiate caster costs roughly 29s/week on mission and 8s/week on retainer. Ag
 
 **Small band (4 commons, 1 veteran):**
 
-| METRIC                | V1    | V2    | V3         |
-| --------------------- | ----- | ----- | ---------- |
-| Survival rate         | 49.5% | 78.0% | **85.0%**  |
-| Median final treasury | 0s    | 95s   | **989s**   |
-| Net margin            | −105% | −25%  | **+31%**   |
+| METRIC                | V1    | V2    | V3        |
+| --------------------- | ----- | ----- | --------- |
+| Survival rate         | 49.5% | 78.0% | **85.0%** |
+| Median final treasury | 0s    | 95s   | **989s**  |
+| Net margin            | −105% | −25%  | **+31%**  |
 
 **Warband with initiate caster (6c+2v+1nm+1ca):**
 
-| METRIC                | V1    | V2    | V3          |
-| --------------------- | ----- | ----- | ----------- |
-| Survival rate         | 92.0% | 96.5% | **100.0%**  |
-| Median final treasury | 0s    | 0s    | **822s**    |
-| Net margin            | −106% | −27%  | **+10%**    |
+| METRIC                | V1    | V2    | V3         |
+| --------------------- | ----- | ----- | ---------- |
+| Survival rate         | 92.0% | 96.5% | **100.0%** |
+| Median final treasury | 0s    | 0s    | **822s**   |
+| Net margin            | −106% | −27%  | **+10%**   |
 
 **Key findings:**
 

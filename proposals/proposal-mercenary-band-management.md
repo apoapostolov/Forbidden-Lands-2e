@@ -19,6 +19,7 @@ This can stand as a late section of Ch09 or as a standalone chapter if the merce
 The mercenary band system feeds the **base-building loop** and the **pressure economy** simultaneously. A band is a resource that generates coin and power, but also obligation, hunger, and moral weight. Running one should feel like herding dangerous animals in the rain. The system uses Quarter Day structure, existing condition mechanics, Settlement Reputation and Standing, and the FOOD resource die in ways that fit the existing engine without adding independent subsystems.
 
 ---
+
 ---
 
 ## Fiction Preview
@@ -74,8 +75,6 @@ They are not unlike the first settlers who pushed into the Stillwood or up throu
 Ask one of the old ones why they stay. They will name a figure — enough coin to get somewhere, enough to clear a debt, enough to buy land if the price stays honest. Push harder and the figure gets vague. Push harder still and they stop answering. The truth is that most of them could not say what they are marching back toward. They know how to do this. They know who the men around them are, which ones hold and which ones don't, where the next meal is and how far to the next village. That is a kind of certainty. Out there — beyond the contract, beyond the march, in the life they are supposedly saving toward — there is none.
 
 The Ravenlands does not reward the man who stops.
-
-
 
 ## Section 1: The Band
 
@@ -240,13 +239,77 @@ When hired for field work away from the stronghold, fighters expect advance pay 
 
 ## Section 3: Pay, Provisions, and Consequences
 
-### Daily Costs
+### Pay Model
 
-The band eats. Budget 1 FOOD unit per man per day. For a warband of 10, that is 70 FOOD per week — a genuine resource pressure. This does not include the fellowship themselves.
+The band eats. Budget 1 FOOD unit per man per day. That cost runs every day regardless of whether the band has work.
 
-Add daily wages. A warband of 10 commons costs 10 silver per day, 70 silver per week. A mixed warband (6 common, 3 veteran, 1 elite) costs 15 silver per day, 105 silver per week. These numbers are before any stronghold upkeep.
+Wages do not. Pay operates in three modes: **retainer**, **mission pay**, and **loot share**. Running full daily wages when no contract is active drains a warband's treasury inside a week from a standing start. The retainer model is what makes the basic operating loop viable.
 
-This pressure is intentional. It motivates contract-taking and resource risk.
+---
+
+#### Retainer (Dead Weeks)
+
+When the band has no active contract — traveling, in camp, waiting on word from an employer — fighters receive a **weekly retainer**. This is not full pay. It is recognition that they are committed to the band, will not take other work, and will be ready when the call comes.
+
+**Weekly retainer rates:**
+
+| FIGHTER TYPE    | RETAINER (per week) | FULL WEEKLY WAGE | RETAINER AS % |
+| --------------- | ------------------- | ---------------- | ------------- |
+| Common          | 2 silver            | 7 silver         | 29%           |
+| Veteran         | 3 silver            | 14 silver        | 21%           |
+| Named Man       | 5 silver            | 21 silver        | 24%           |
+| Initiate Caster | 8 silver            | 42 silver        | 19%           |
+| Adept Caster    | 12 silver           | 105 silver       | 11%           |
+
+Retainer is paid weekly. It does not prorate by day — a man retained for five days of the week is retained for the full week. Partial weeks at contract start or end are settled on the last day.
+
+**Non-payment threshold during retainer:** 14 days unpaid. Men on retainer are not working in the field; the grievance accumulates slower than mission non-payment, but it accumulates.
+
+---
+
+#### Mission Pay (Active Contract)
+
+From the day a contract is formally accepted to the day it concludes — by completion, breach, or dissolution — fighters receive **full daily wages**. This covers the march to the operational area, the engagement, and any time spent in the operational hex until the employer releases the band.
+
+**Daily wages during mission:**
+
+| FIGHTER TYPE    | DAILY WAGE (silver) |
+| --------------- | ------------------- |
+| Common          | 1                   |
+| Veteran         | 2                   |
+| Elite           | 3                   |
+| Named Man       | 3                   |
+| Initiate Caster | 6                   |
+| Adept Caster    | 15                  |
+
+**Non-payment threshold during mission:** 3 days. Men are working, tired, and watching. Their patience runs shorter than it does on retainer.
+
+If a contract is breached or abandoned, mission pay ceases on the breach date and reverts to retainer pending the next arrangement.
+
+---
+
+#### Loot Share (Combat Outcomes)
+
+When the band produces a material windfall — a bounty paid, tribute extracted, goods taken from a defeated enemy, a found cache recovered during a contract — that windfall is divided. It does not all go to the treasury.
+
+This is not generosity. It is the reason men fight hard rather than hold back. A man who knows his captain pockets everything still goes to battle. A man who knows there was a haul and he got nothing will have questions the next time blades come out.
+
+Base contract pay is not loot — it goes to the treasury to fund wages and provisioning. The loot pool is the windfall only.
+
+**Division:**
+
+| SHARE RECIPIENT                    | % OF LOOT POOL |
+| ---------------------------------- | -------------- |
+| Leader (captain's cut + band fund) | 40%            |
+| Named Men collectively             | 30%            |
+| Veterans collectively              | 20%            |
+| Commons collectively               | 10%            |
+
+Per-man within tier: 1 Named Man takes the full 30%. 2 Named Men split it equally. Veterans and commons divide their tier's share equally among themselves.
+
+**If the treasury cannot pay loot shares:** MORALE −1. The captain who took their forty silver cut when the men got nothing has created a problem that does not resolve without coin or a credible explanation.
+
+Tribute extracted from a settlement counts as a loot event. The captain who takes tribute without distributing the loot share faces two problems simultaneously: the standard consequences from the settlement, and the internal hit from their own men who expected a share.
 
 ### Feeding the Band
 
@@ -272,11 +335,15 @@ This output fills the band's daily FOOD requirement from the bottom up. A Warban
 
 Running a large band in thin country burns your provisions. That is intentional.
 
+**Forager allocation by operational mode:** When no contract is running, assign up to 70% of band strength as foragers — men without duties have time for it. During an active contract, limit forager assignment to 30%. The delta matters: a 9-man warband in forest with 6 foragers (67%) covers its full daily food requirement and produces a surplus. The same band at 30% (3 men foraging) returns 8 FOOD against a daily need of 9 — not ruinous, but drawing on provisions every day.
+
 > **Example:** Dain moves his company of thirty out of forest cover and into hill country on day two of a contract. He assigns six men to forage each morning. The table returns 13 FOOD. The company needs 30. The gap — 17 — comes from the provision sacks. Dain's sergeant meets him at the evening fire on day three and shows him the count: two days of stores left. They turn back toward the forest or they start losing men to a CONDITION before they reach the target.
 
 If a band goes unfed for a full day, every fighter suffers a CONDITION. A second day without food, they begin to break or desert independently of MORALE.
 
 ### FIELD NON-PAYMENT
+
+**Payment thresholds:** Retainer is due weekly. At 14 days without payment, roll on this table. Mission pay is due daily during an active contract — if three consecutive days pass unpaid while the band is working, roll on this table at **+1 difficulty**. Men in the field are doing the work. Their patience is shorter than it is on retainer.
 
 When the leader fails to pay the band on time, roll D6. This replaces the standard NON-PAYMENT table for armed men away from a stronghold, because armed men unpaid in the field are more dangerous than a handyman who hasn't been paid.
 
@@ -548,13 +615,34 @@ Allegiance 3 is a commitment the employer also carries. If they ask the band to 
 
 ### Contracts
 
-A contract is a job with defined terms, a named employer, and a coin figure. Contracts can be:
+A contract is a job with defined terms, a named employer, and a coin figure. Accepting a contract is the trigger for switching from retainer pay to mission pay (Section 3). Contracts can be:
 
-- **Patrol** — Keep a hex clear of monsters or bandits for a season. Pay: weekly.
+- **Patrol** — Keep a hex or route clear of bandits or monsters for a set period. Pay: in advance or weekly.
 - **Escort** — Bring a person or cargo from point A to point B. Pay: on arrival.
-- **Assault** — Take a stronghold, clear a ruin, kill a target. Pay: advance + completion.
+- **Clearing** — Eliminate a specific threat from a defined area. Pay: on completion.
+- **Assault** — Take a stronghold, ruin, or fortified position. Pay: advance + completion.
+- **Garrison** — Hold position in or near an employer's territory for a defined period. Pay: flat fee in advance.
 - **Intimidation** — Occupy a settlement or demonstrate force until a demand is met. Pay: as agreed.
 - **Revenge** — A private party wants something destroyed. Pay: based on what they can afford.
+
+**Reference prices for a standard nine-man warband:**
+
+| CONTRACT TYPE        | PAY RANGE | DURATION | EMPLOYER TIER | NOTES                       |
+| -------------------- | --------- | -------- | ------------- | --------------------------- |
+| Patrol (weekly)      | 110–165s  | 7 days   | Town+         | In advance                  |
+| Escort               | 80–140s   | 5 days   | Town+         | On arrival                  |
+| Clearing             | 160–260s  | 10 days  | Town+         | On completion               |
+| Warchief raid        | 225–380s  | 14 days  | Warchief+     | Advance + half on return    |
+| Garrison (short)     | 340–500s  | 21 days  | Warchief+     | Flat advance                |
+| Protection (season)  | 550–800s  | 91 days  | Town+         | Flat advance; garrison mode |
+| Magical commission ◆ | 280–420s  | 12 days  | Town+         | In advance                  |
+| Ritual ward ◆        | 185–300s  | 8 days   | Warchief+     | Flat advance                |
+
+◆ _Caster bands only. Requires at least one hired caster in service._
+
+**Price scaling:** These ranges assume a standard nine-man warband. A smaller band negotiates proportionally lower. A band with a caster negotiates **+35%** on all standard non-garrison contracts — employers who want magic in their service pay for it.
+
+**Protection season (garrison mode):** The employer pays a flat fee in advance for having the band present and available in their territory for the quarter. The band stays on **retainer pay** — not mission pay — for the full 91 days and does not march out on further contracts during that period. The band's cost for the season runs to roughly retainer wages (310 silver) plus food (315 silver), totalling around 625 silver. A mid-to-high protection season payment covers that cost with margin. Both parties lock in: the employer gets reliable presence, the band gets stable income without the attrition of continuous fieldwork.
 
 **Terms always specify:**
 
@@ -1308,6 +1396,7 @@ _Appearance: Not the biggest. Just the one standing when the others aren't._
 Loyalty changes over time:
 
 - +1 if the leader demonstrates genuine regard for the named man's wellbeing (healing their wounds, honoring their victory publicly, clearing a debt for them)
+- +1 on a consistent basis if loot shares are paid immediately after every combat haul, without the named man asking. This is equivalent to "paid on time" in what it signals. A captain who pays the line without being reminded is a different kind of captain from one who has to be cornered about it.
 - -1 if their Trigger is triggered and the leader does nothing to address it
 - -1 per MORALE step the band falls below 3, each week
 
@@ -1478,11 +1567,11 @@ A caster's discipline is the school of spells they have trained in and the Path 
 
 **Rank limits for hired casters:**
 
-| TIER     | DISCIPLINE SPELL RANK         | GENERAL SPELLS RANK |
-| -------- | ----------------------------- | ------------------- |
-| Initiate | Up to rank 2                  | Up to rank 2        |
-| Adept    | Up to rank 3                  | Up to rank 2        |
-| Master   | Up to rank 3 (rank 4 by GM)   | Up to rank 3        |
+| TIER     | DISCIPLINE SPELL RANK       | GENERAL SPELLS RANK |
+| -------- | --------------------------- | ------------------- |
+| Initiate | Up to rank 2                | Up to rank 2        |
+| Adept    | Up to rank 3                | Up to rank 2        |
+| Master   | Up to rank 3 (rank 4 by GM) | Up to rank 3        |
 
 Path talent rank matches spell rank access. An Adept with rank 3 spells in Awareness has PATH OF AWARENESS at rank 3. Do not assign spells the caster cannot cast.
 
@@ -1492,11 +1581,11 @@ Ranks 4 and 5 are reserved for player characters and significant adversaries. A 
 
 Willpower is not stamina. It is the limit of how much magical work the caster can do before they must rest. It depletes directly with use and does not partially recover between scenes — it recovers at one point per full day of downtime.
 
-| TIER     | STARTING WP | RECOVERY             |
-| -------- | ----------- | -------------------- |
-| Initiate | 2           | 1 per full day rest  |
-| Adept    | 3           | 1 per full day rest  |
-| Master   | 4           | 1 per full day rest  |
+| TIER     | STARTING WP | RECOVERY            |
+| -------- | ----------- | ------------------- |
+| Initiate | 2           | 1 per full day rest |
+| Adept    | 3           | 1 per full day rest |
+| Master   | 4           | 1 per full day rest |
 
 State WP totals openly at the table. A caster who began the morning engagement with 3 WP and spent 2 has 1 remaining. The afternoon approach cannot use them at full capacity. The captain who does not track this will be surprised when the caster cannot cast.
 
@@ -1508,11 +1597,11 @@ Hired casters push their spells exactly as player characters do — spending ext
 
 Casters do not carry heavy arms or armor. Their component pouch — herbs, carved marks, crystals, dried materials — is as critical as any weapon. If it is lost or taken, they cannot cast spells that require a physical ingredient until they resupply. Most ingredients are available through trade in larger settlements or through SURVIVAL rolls in appropriate terrain. Track this. It is a real logistics line.
 
-| TIER     | WEAPON               | ARMOR               | NOTABLE GEAR                    |
-| -------- | -------------------- | ------------------- | ------------------------------- |
-| Initiate | Knife or staff       | None or leather     | Component pouch, journal        |
-| Adept    | Short sword or staff | Leather (Armor 3)   | Component pouch, ritual tools   |
-| Master   | Staff or personal    | Leather or mail (3) | Component pouch, ritual space   |
+| TIER     | WEAPON               | ARMOR               | NOTABLE GEAR                  |
+| -------- | -------------------- | ------------------- | ----------------------------- |
+| Initiate | Knife or staff       | None or leather     | Component pouch, journal      |
+| Adept    | Short sword or staff | Leather (Armor 3)   | Component pouch, ritual tools |
+| Master   | Staff or personal    | Leather or mail (3) | Component pouch, ritual space |
 
 A caster in the forward line is a misused caster.
 
@@ -1523,6 +1612,21 @@ In any engagement where the caster is expected to cast, two fighters are assigne
 If both protective fighters are occupied — engaged with opponents, Broken, or killed — the caster is exposed. A caster who takes a hit while exposed will not cast again in that scene, and may not cast until they have rested depending on the injury. If the caster is not casting in a given engagement, they may withdraw to Long range to remove the protection requirement, provided terrain allows it.
 
 Factor the protection cost into engagement planning. Two fighters committed to the caster is two fighters not committed to the fight.
+
+### Combat and Contract Value
+
+A caster changes the band's operating numbers in two direct ways.
+
+**Casualty reduction.** In any engagement the band participates in, the injury and death rate drops by roughly 40% when a caster is present. A normal combat carries around an 8% chance of a man taking a serious injury; with a caster in the band it drops to around 5%. A hard engagement — stronghold assault, defense against a superior force — drops from a 15% death rate to around 9%. This is not the caster's active ability in the fight. It is the passive effect of their presence: engagements entered on better information, protective workings in the line, the morale advantage of having something the other side does not. Fewer casualties means fewer replacements (each costs 3–8 silver and several days of gap in the roster), fewer death-morale rolls, and a band that holds its composition over seasons rather than bleeding out month by month.
+
+**Contract premium.** A band with a caster negotiates 35% more on standard contracts. Employers who want military results improved by magic pay for it. An escort that pays 80–140 silver to a normal band pays 108–190 silver to a band with a caster. A clearing contract that pays 160–260 silver pays 216–350. The caster does not bargain for this separately — it is the captain's rate adjustment, and any employer who wants a caster band in the field knows the figure before the conversation begins.
+
+**Caster-specific contracts.** Some work is only posted to bands with a caster on their rolls:
+
+- **Magical Commission (12 days, 280–420 silver):** A settlement needs a specific magical result — a warding, a curse investigated, a disease identified and stopped. Town-tier employer. Cannot be taken without a caster in service.
+- **Ritual Ward (8 days, 185–300 silver):** A warchief wants their position warded, an approach secured, or an enemy's magic countered. Warchief employer. Cannot be taken without a caster in service.
+
+These contracts exist because the work itself requires magic. They cannot be negotiated by a band without caster capacity — the employer will not have the conversation.
 
 ### Three Quick-Builds
 
@@ -1566,30 +1670,29 @@ _Appearance: Dresses better than the situation warrants. Carries a knife they cl
 
 Unlike fighter Named Men, caster agendas tend toward the personal, the ideological, or the specific. Roll D6 or assign:
 
-| D6 | AGENDA                                                                                           |
-| -- | ------------------------------------------------------------------------------------------------ |
-| 1  | A specific place they need to reach — no explanation given, no deviation from the route          |
-| 2  | Someone they are looking for: alive, or verifiably dead                                          |
-| 3  | A piece of knowledge held by someone the band might encounter or be contracted against           |
-| 4  | A debt being repaid: protection of a person, repayment to a settlement, an obligation with a due date |
-| 5  | An object — lost, hidden, or held by the wrong hands — that they intend to recover               |
-| 6  | Passage to somewhere that cannot be hired for directly; the band is the transit                  |
+| D6  | AGENDA                                                                                                |
+| --- | ----------------------------------------------------------------------------------------------------- |
+| 1   | A specific place they need to reach — no explanation given, no deviation from the route               |
+| 2   | Someone they are looking for: alive, or verifiably dead                                               |
+| 3   | A piece of knowledge held by someone the band might encounter or be contracted against                |
+| 4   | A debt being repaid: protection of a person, repayment to a settlement, an obligation with a due date |
+| 5   | An object — lost, hidden, or held by the wrong hands — that they intend to recover                    |
+| 6   | Passage to somewhere that cannot be hired for directly; the band is the transit                       |
 
 ### Caster Triggers
 
-| D6 | TRIGGER                                                                                      |
-| -- | -------------------------------------------------------------------------------------------- |
-| 1  | Used as a weapon against something they consider protected — the sick, sacred ground, children |
-| 2  | Asked to push a spell without being told what objective justifies the risk                   |
-| 3  | A written or spoken agreement changed after the fact without their consent                   |
-| 4  | Credit for their work taken by the captain in front of a patron or employer                  |
-| 5  | Their discipline treated as something to be feared, hidden, or apologized for                |
-| 6  | Their personal agenda dismissed as unimportant by whoever they report to                     |
+| D6  | TRIGGER                                                                                        |
+| --- | ---------------------------------------------------------------------------------------------- |
+| 1   | Used as a weapon against something they consider protected — the sick, sacred ground, children |
+| 2   | Asked to push a spell without being told what objective justifies the risk                     |
+| 3   | A written or spoken agreement changed after the fact without their consent                     |
+| 4   | Credit for their work taken by the captain in front of a patron or employer                    |
+| 5   | Their discipline treated as something to be feared, hidden, or apologized for                  |
+| 6   | Their personal agenda dismissed as unimportant by whoever they report to                       |
 
 ### Caster Personalities
 
 Casters do not have their own Personality table. Roll on the Named Man Personalities table (Section 7) and adjust for register. A caster who rolls **Flat** has witnessed things that burned the reaction out long before they joined the band. **Calculating** means they track WP costs, ingredient supply, and the band's reliability in parallel. **Convincing Liar** may explain why their stated reason for being here is not quite their actual reason.
-
 
 ---
 
@@ -1899,10 +2002,10 @@ A Host at sufficient scale — Company size or larger, running on money from a m
 
 **Caster access by Host tier:**
 
-| HOST TIER | CASTER ACCESS |
-| --------- | ------------- |
-| Warband (7–20) | One rank 1 caster possible if the band can afford the retainer |
-| Company (21–50) | One rank 1–2 caster on retainer; rank 3 available for hire, not staff |
+| HOST TIER       | CASTER ACCESS                                                                           |
+| --------------- | --------------------------------------------------------------------------------------- |
+| Warband (7–20)  | One rank 1 caster possible if the band can afford the retainer                          |
+| Company (21–50) | One rank 1–2 caster on retainer; rank 3 available for hire, not staff                   |
 | Multi-band Host | One caster per major band is achievable; a wealthy Host can support a rank 3 specialist |
 
 A caster on the Warmaster's staff is not a neutral utility. They have noticed everything that happened around them and they have formed opinions. The Warmaster who treats them like a walking ingredient bag will find them unreliable at the moments that matter.
@@ -1939,7 +2042,6 @@ Individual bands within a Host do not forage independently by default. The Host 
 
 If the supply line is disrupted, each individual band rolls against its own provisions. A band with enough stores sustains itself. A band without stores falls into the standard unpaid/unfed MORALE trigger chain immediately — the Host's shared logistics do not protect a band that ran its own stores dry.
 
-
 ### Host Treasury
 
 The Warmaster holds the Host's coin. Not as a personal fund — as a working account the entire force runs on. Every contract payment, every advance from a faction employer, every fee wrested from a settlement that wanted the Host gone, flows into the treasury first. The Warmaster pays out, the bands draw down, and the difference between what is promised and what is left is the number that determines how long the Host stays together.
@@ -1966,11 +2068,11 @@ Each band within a Host draws from the Host treasury at a fixed rate. Not coin h
 
 **Standard allocation per band per week:**
 
-| BAND SIZE | PAY ALLOCATION | LOCAL EXPENSES BUDGET |
-| --------- | -------------- | --------------------- |
-| Skirmishers (3–6) | 21–42 silver | 5 silver |
-| Warband (7–20) | 49–140 silver | 10–15 silver |
-| Company (21–50) | 147–350 silver | 20–30 silver |
+| BAND SIZE         | PAY ALLOCATION | LOCAL EXPENSES BUDGET |
+| ----------------- | -------------- | --------------------- |
+| Skirmishers (3–6) | 21–42 silver   | 5 silver              |
+| Warband (7–20)    | 49–140 silver  | 10–15 silver          |
+| Company (21–50)   | 147–350 silver | 20–30 silver          |
 
 Local expenses cover informants, small bribes, gear repairs the band cannot defer, emergency food, and similar costs. They do not cover Named Man bonuses, specialized equipment, or anything requiring a direct order from the Warmaster.
 
@@ -1996,16 +2098,17 @@ Information lag is real and has mechanical teeth.
 
 A rider on a sound horse covers roughly six hexes per day on clear roads, four in difficult terrain. The Warmaster's order leaves the table on day 0. The band receives it on day 0 + travel time. Until then, the band operates on last known orders.
 
-| DISTANCE | CLEAR ROAD | DIFFICULT TERRAIN | WINTER/MUD SEASON |
-| -------- | ---------- | ----------------- | ----------------- |
-| 1–2 hexes | Same day | Next morning | Next morning |
-| 3–6 hexes | 1 day | 2 days | 3 days |
-| 7–12 hexes | 2 days | 3–4 days | 5–6 days |
-| 13+ hexes | 3+ days | 5+ days | 8+ days |
+| DISTANCE   | CLEAR ROAD | DIFFICULT TERRAIN | WINTER/MUD SEASON |
+| ---------- | ---------- | ----------------- | ----------------- |
+| 1–2 hexes  | Same day   | Next morning      | Next morning      |
+| 3–6 hexes  | 1 day      | 2 days            | 3 days            |
+| 7–12 hexes | 2 days     | 3–4 days          | 5–6 days          |
+| 13+ hexes  | 3+ days    | 5+ days           | 8+ days           |
 
 **Standing orders:** Every band within a Host operates under a set of standing orders — what to do if contact is lost, what threshold justifies independent action, how long to wait for a rider before assuming the Warmaster's situation has changed. The Warmaster issues standing orders at Host formation and may update them via dispatch. A band following standing orders in good faith is not in breach of Warmaster authority, even if the action taken looks wrong from the outside.
 
 Standing orders cover at minimum:
+
 - Withdrawal threshold (when to pull back without orders)
 - Contact protocol (how to signal the Warmaster's relay point)
 - Emergency action authority (what the band captain may decide alone)
@@ -2030,12 +2133,12 @@ Diplomacy at Host scale has three forms.
 
 The Warmaster speaks for the Host. They use their own MANIPULATION, not any band captain's. Difficulty scales with the faction's power:
 
-| FACTION TIER | DIFFICULTY | EXAMPLES |
-| ------------ | ---------- | -------- |
-| Local | 1 | Village council, small cult, minor trader |
-| Regional | 2 | Warchief with a territory, guild with several towns, armed religious order |
-| Major | 3 | A lord with military force, a large faction with institutional standing |
-| Great | 4 | A power that controls borders, a major faith's military arm, a warlord with multiple Hosts |
+| FACTION TIER | DIFFICULTY | EXAMPLES                                                                                   |
+| ------------ | ---------- | ------------------------------------------------------------------------------------------ |
+| Local        | 1          | Village council, small cult, minor trader                                                  |
+| Regional     | 2          | Warchief with a territory, guild with several towns, armed religious order                 |
+| Major        | 3          | A lord with military force, a large faction with institutional standing                    |
+| Great        | 4          | A power that controls borders, a major faith's military arm, a warlord with multiple Hosts |
 
 Success: the faction treats with the Host. Negotiated terms (contract, passage, non-aggression) become binding under the GRIEVANCE mechanic at the Host level — a broken agreement costs the Warmaster's REPUTATION, not an individual band's Standing.
 
@@ -2046,6 +2149,7 @@ Failure: the faction refuses terms. The Warmaster may try again next quarter aft
 Two Hosts that could fight are often better served talking — at least until one of them has a clear advantage. A Warmaster who wants to parley sends a rider under flag of truce. The rival Warmaster may accept or refuse. Refusing is not an atrocity. Executing the rider under truce is.
 
 Parley terms a Warmaster may propose:
+
 - Non-aggression for a stated period (one week to one season)
 - Passage rights through each other's territory
 - Division of a contract between both Hosts (split pay, split zone, split obligations)
@@ -2070,13 +2174,13 @@ Bands within the same Host compete. The competition is usually quiet — which b
 
 **Rival bands:** Two bands in direct competition note each other. Track a Rivalry score (0–3) between any two bands. It starts at 0 and rises through specific triggers:
 
-| TRIGGER | RIVALRY INCREASE |
-|---------|-----------------|
-| One band receives favorable status while the other does not | +1 |
-| One band's action causes the other band to take casualties | +1 |
-| One band takes contract credit for work the other band started | +1 |
-| A Named Man from one band defects to the other | +1 |
-| Both bands bid for the same billet/territory/contract assignment | +1 |
+| TRIGGER                                                          | RIVALRY INCREASE |
+| ---------------------------------------------------------------- | ---------------- |
+| One band receives favorable status while the other does not      | +1               |
+| One band's action causes the other band to take casualties       | +1               |
+| One band takes contract credit for work the other band started   | +1               |
+| A Named Man from one band defects to the other                   | +1               |
+| Both bands bid for the same billet/territory/contract assignment | +1               |
 
 **What Rivalry costs:**
 
@@ -2141,12 +2245,12 @@ Track the Warmaster's Ledger as a separate score from their personal REPUTATION.
 
 **Ledger consequences by score:**
 
-| LEDGER | EFFECT ON WARMASTER |
-| ------ | ------------------- |
-| +4 to +6 | Authority calls cost no MANIPULATION — captains follow without rolls |
-| +1 to +3 | Standard authority. MANIPULATION at difficulty equal to REPUTATION ÷ 2. |
-| 0 | Neutral. Captains comply but observe. No modifier, no bonus. |
-| −1 to −3 | Every Warmaster order except direct operationals requires MANIPULATION at difficulty +1 above standard. |
+| LEDGER   | EFFECT ON WARMASTER                                                                                                                                       |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| +4 to +6 | Authority calls cost no MANIPULATION — captains follow without rolls                                                                                      |
+| +1 to +3 | Standard authority. MANIPULATION at difficulty equal to REPUTATION ÷ 2.                                                                                   |
+| 0        | Neutral. Captains comply but observe. No modifier, no bonus.                                                                                              |
+| −1 to −3 | Every Warmaster order except direct operationals requires MANIPULATION at difficulty +1 above standard.                                                   |
 | −4 to −6 | The Host is fracturing. Any captain with REPUTATION 2+ may call an emergency council without co-signers. The Warmaster's two council votes reduce to one. |
 
 A Ledger that hits −6 triggers automatic Host dissolution (see below) unless the Warmaster resigns command voluntarily before a council vote removes them.
@@ -2179,23 +2283,25 @@ Sieges, territorial control, and pitched battle between Hosts remain outside sco
 
 These changes are interdependent. Sections 1–6 (band formation, morale, pay, provisions, extortion and tribute, contracts) are the core and should be accepted together. Section 4 (village extortion) can be deferred if the campaign does not involve coercive play against settlements, but it ties the band economy to the Feud Track and should not be omitted from a full implementation. Sections 7–8 (Named Men, wanted status) layer onto the core and can be added separately. Section 9 (atrocities) is self-contained and adds the moral accounting layer. Section 10 requires no changes — it documents integration with existing systems. Section 11 is a new stronghold function and requires only the War Room text. Section 12 (Serving in Another's Company) is standalone — it can be accepted or omitted entirely independent of all other sections. Section 13 (Host Play) is the full meta-band system; it expands independently of all prior sections and is only meaningful for tables intending multi-band campaigns.
 
-| #   | CHANGE                                                                                         | LOCATION                     | DEPENDENCY        |
-| --- | ---------------------------------------------------------------------------------------------- | ---------------------------- | ----------------- |
-| 1   | Band formation + size tiers                                                                    | Ch09 (new section)           | None              |
-| 2   | Morale system                                                                                  | Ch09                         | 1                 |
-| 3   | Fighter tiers + recruitment                                                                    | Ch09                         | 1                 |
-| 4   | Pay, provisions, expanded forager table, field non-payment                                     | Ch09                         | 1, 2              |
-| 5   | Village extortion and tribute                                                                  | Ch09 + Ch08 cross-reference  | 1, 2, 3, 4        |
-| 6   | Finding Work, Allegiance Track, Contracts and Bounties, Kidnapping, Mercenary Hoards           | Ch09                         | 1                 |
-| 7   | Campaign life (QD activities)                                                                  | Ch09                         | 1, 2              |
-| 8   | Named Men system                                                                               | Ch09                         | 1, 2, 3           |
-| 9   | Wanted status                                                                                  | Ch09 + Ch08 cross-reference  | 6                 |
-| 10  | Atrocities                                                                                     | Ch09 + Ch08 cross-reference  | None (standalone) |
-| 11  | Integration section                                                                            | No text changes — notes only | All above         |
-| 12  | War Room function                                                                              | Ch09 functions table         | Independent       |
-| 13  | Serving in Another's Company (Section 12)                                                      | Ch09 (new optional section)  | Independent       |
-| 14  | Section 6 optionals: Arguments and Escalation, Blood Oaths, Death of a Member — Distribution   | Ch09                         | 8                 |
-| 15  | Host Play (Section 13): treasury, budgets, dispatch, diplomacy, rivalry, council, ledger, dissolution | Ch09 (new optional section)  | Independent       |
+| #   | CHANGE                                                                                                             | LOCATION                     | DEPENDENCY        |
+| --- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------- | ----------------- |
+| 1   | Band formation + size tiers                                                                                        | Ch09 (new section)           | None              |
+| 2   | Morale system                                                                                                      | Ch09                         | 1                 |
+| 3   | Fighter tiers + recruitment                                                                                        | Ch09                         | 1                 |
+| 4   | Pay model (retainer/mission/loot share), provisions, expanded forager table, field non-payment                     | Ch09                         | 1, 2              |
+| 5   | Village extortion and tribute                                                                                      | Ch09 + Ch08 cross-reference  | 1, 2, 3, 4        |
+| 6   | Finding Work, Allegiance Track, Contracts and Bounties, Kidnapping, Mercenary Hoards                               | Ch09                         | 1                 |
+| 7   | Campaign life (QD activities)                                                                                      | Ch09                         | 1, 2              |
+| 8   | Named Men system                                                                                                   | Ch09                         | 1, 2, 3           |
+| 9   | Wanted status                                                                                                      | Ch09 + Ch08 cross-reference  | 6                 |
+| 10  | Atrocities                                                                                                         | Ch09 + Ch08 cross-reference  | None (standalone) |
+| 11  | Integration section                                                                                                | No text changes — notes only | All above         |
+| 12  | War Room function                                                                                                  | Ch09 functions table         | Independent       |
+| 13  | Serving in Another's Company (Section 12)                                                                          | Ch09 (new optional section)  | Independent       |
+| 14  | Section 6 optionals: Arguments and Escalation, Blood Oaths, Death of a Member — Distribution                       | Ch09                         | 8                 |
+| 15  | Host Play (Section 13): treasury, budgets, dispatch, diplomacy, rivalry, council, ledger, dissolution              | Ch09 (new optional section)  | Independent       |
+| 16  | Contract pricing reform: reference price table, protection season (garrison mode), caster premium                  | Ch09 Section 5               | 4, 6              |
+| 17  | Caster combat and contract utility: casualty reduction (−40%), contract premium (+35%), caster-only contract types | Ch09 Section 7.5             | 8 (section 7.5)   |
 
 Changes 1–7 together form the minimum viable play loop. Without morale and pay pressure, mercenary management is just hirelings with extra paperwork. The atrocity rules (10) are standalone and can be brought in at any time.
 
@@ -2275,7 +2381,7 @@ Mishaps are real. A bad push on a healing spell can produce a disease that sprea
 
 ### Running the Hired Expert
 
-> *This section is addressed to the GM.*
+> _This section is addressed to the GM._
 
 The hired caster is not a staff position. They are a person with capabilities most of the band does not understand, an objective that preceded your contract, and lines they will not cross without a clear order. Play them flat — reliable, deferential, cooperative — and you are discarding most of their use at the table.
 
@@ -2286,7 +2392,6 @@ Make the Willpower cost audible. When the druid heals, state what they spend. Wh
 Play mishaps straight. A pushed healing spell that rolls badly produces a spreading disease in the camp, a Fear alarm in your own line, days of degraded rank. These results feel catastrophic because they are. Use them. The druid who pushed too hard to save the sergeant has changed the session. Let it change the session.
 
 Make them leave. The caster hired for transit leaves when they arrive. The one who joined for a specific objective leaves when it resolves. Do not extend them past their reason. The empty billet is the most instructive magic lesson the band can receive — the fights after it teach exactly what the druid was doing that nobody noticed until they were gone.
-
 
 ---
 
