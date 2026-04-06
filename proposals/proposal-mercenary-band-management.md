@@ -1306,21 +1306,6 @@ Within each tier, divide that tier's share equally among all men in it. 1 Named 
 
 Tribute extracted from a settlement counts as a loot event. The captain who takes tribute without distributing shares faces two problems at once: the settlement's consequences, and his own men asking where their cut went.
 
-#### Archetype Renegotiation
-
-Archetype is declared at band formation. A captain who wants to change it calls a council at any season boundary.
-
-Named Men state their position. Anonymous fighters do not vote, but their presence is a factor. The captain makes a MANIPULATION roll:
-
-- **Shifting toward a larger common share** (Tyrant → Standard, Standard → Fraternal, Fraternal → Kin-Clan): difficulty 2. Reduce difficulty by 1 for each Named Man currently at Loyalty 3, minimum difficulty 1.
-- **Shifting toward a smaller common share** (any direction that increases the captain's cut): difficulty 3. Named Men at Loyalty 1 who oppose the change roll against Loyalty immediately, before the council concludes.
-
-On success, the archetype shifts one tier in the declared direction, effective the following season. On failure, the archetype holds. A second failed renegotiation in the same season costs MORALE −1.
-
-A captain who changes the split without calling a council triggers Named Man Trigger 6 in any Named Man who notices. The council is the only legal path.
-
-When the majority of a Kin-Clan band's surviving fighters no longer share the founding kin, the difficulty to shift away from Kin-Clan drops to 1. The GM determines when this condition is met.
-
 #### Windfall Events
 
 Most contracts pay the agreed fee and nothing else. When the band clears a structure, kills a named threat, or takes a strongpoint, the GM rolls D6. On a 5–6, something was left behind that the contract price did not anticipate.
