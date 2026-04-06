@@ -1272,9 +1272,54 @@ Within each tier, divide that tier's share equally among all men in it. 1 Named 
 
 Tribute extracted from a settlement counts as a loot event. The captain who takes tribute without distributing shares faces two problems at once: the settlement's consequences, and his own men asking where their cut went.
 
+#### Windfall Events
+
+Most contracts pay the agreed fee and nothing else. When the band clears a structure, kills a named threat, or takes a strongpoint, the GM rolls D6. On a 5–6, something was left behind that the contract price did not anticipate.
+
+Roll D6 on the windfall table when:
+
+- A fortified structure is cleared, and at least one room was not obviously empty before the fight
+- A named enemy is killed (not a common bandit; a warlord, lieutenant, or faction leader)
+- The band discovers a cache or stores that the mission description did not list
+
+| D6  | WINDFALL                                                                                                                                                                                                                             |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1–2 | Nothing. The place was already stripped. Whatever was here left before you arrived.                                                                                                                                                  |
+| 3   | Useful goods — equipment, tools, stores. Value: 15–40 silver equivalent. Add to goods inventory; not immediately liquid.                                                                                                             |
+| 4   | A war chest or merchant reserve in coin. Value: 50–120 silver. Liquid. Distribute loot shares immediately.                                                                                                                           |
+| 5   | A captive of value — a minor lord's relation, a merchant's factor, a warlord's subordinate worth ransoming. See Ransom below.                                                                                                        |
+| 6   | Something extraordinary: an object of significant value, a debt letter claiming real assets, intelligence worth selling, or an item from Ch10's rare tier. GM determines value (80–250 silver equivalent); negotiate as appropriate. |
+
+Windfall events are rare. A band running three or four contracts a month on average might see one every few weeks. When it happens it covers wages. Players will remember the moments. Do not inflate the frequency to soften the model.
+
+#### Ransom
+
+When a windfall roll produces a captive, or when the band takes a prisoner of clear value in any engagement, the captain may pursue ransom. This is slow income. It requires keeping the captive, identifying the right buyer, and negotiating at distance.
+
+**Captive value:**
+
+| CAPTIVE                                             | VALUE          | NOTES                                                              |
+| --------------------------------------------------- | -------------- | ------------------------------------------------------------------ |
+| Commoner, anonymous                                 | Nothing        | No family can afford it. Release costs nothing.                    |
+| Minor merchant, craftsman, skilled laborer          | 8–20 silver    | Worth pursuing only if their employer is cooperative.              |
+| Merchant factor; captain of a rival force           | 25–50 silver   | One week to identify the right contact.                            |
+| Minor lord’s retainer, junior officer               | 40–80 silver   | Two weeks average. Family may pay promptly to avoid embarrassment. |
+| Lord’s kin; warchief’s lieutenant                   | 80–150 silver  | Three weeks. May trigger pursuit if word travels.                  |
+| Named warchief’s principal; lord’s immediate family | 150–400 silver | Major leverage — and major risk. Count the weeks carefully.        |
+
+**Logistics:** A captive consumes 1 FOOD per day and requires a dedicated guard. An unguarded captive (no guard within hearing at night) rolls D6 each night: on 1–2, they are gone by morning. A captive in transit rolls on this table at double frequency.
+
+**Negotiation:** Once the captain has identified and contacted the right party, make a MANIPULATION roll. Difficulty equals the captive’s tier: commoner = 1, factor-level = 2, officer-level = 3, principal-level = 4. A success closes terms. A failure means rejection or stonewalling; try again next week at the same difficulty. A full push (all dice fail on the final roll) means they have given up and are not negotiating further — the captain chooses whether to release or execute.
+
+**Resolution options:**
+
+- **Accept terms:** Payment arrives in 1D3 weeks. Captive released on receipt.
+- **Execute:** ATROCITY +1. Standing loss at all settlements the captive’s patron controls (−1 to −2 depending on tier).
+- **Release freely:** No coin. If the captive’s patron is a current or potential employer, Allegiance +1. A warchief remembers the gesture longer than he remembers a single contract.
+
 ### Feeding the Band
 
-The band forages when possible. Rather than rolling dice for each forager individually, use the **daily field ration table** below. Assign a number of men to foraging each Morning Quarter — they are not available for other duties that Quarter Day. The result tells you how many FOOD units the forager party brings back by Evening, before provisions are drawn.
+Rather than rolling dice for each forager individually, use the **daily field ration table** below. Assign a number of men to foraging each Morning Quarter — they are not available for other duties that Quarter Day. The result tells you how many FOOD units the forager party brings back by Evening, before provisions are drawn.
 
 **Daily forager output by terrain and party size:**
 
@@ -1302,7 +1347,15 @@ Running a large band in thin country burns your provisions. That is intentional.
 
 If a band goes unfed for a full day, every fighter suffers a CONDITION. A second day without food, they begin to break or desert independently of MORALE.
 
-### FIELD NON-PAYMENT
+### Running Costs
+
+Wages and food are the visible costs. Two others run beneath them and accumulate silently.
+
+**Equipment maintenance.** Weapons and armor wear in active service. After any season (91 days) in which the band has fought at least three engagements, each fighter's primary weapon and armor degrades unless maintained. Cost: **1 silver per common or veteran, 2 silver per Named Man**, paid once at season's end to a smith or from the band's own supply of IRON. If this cost is skipped, roll D6 for each neglected fighter: on a 1, their weapon loses the EDGED or BLUNT quality until repaired (add 3 IRON and a smith's quarter-day); on a 1–2, their armor loses 1 Armor Rating until the same.
+
+A season with no engagements requires no maintenance. A season with seven or more engagements requires double the standard cost.
+
+**Injury treatment.** Field injuries beyond what natural rest recovers require material care: HERBS for wounds, time with a healer for critical injuries. Track separately from provisions. Budget approximately **2–5 silver per critical injury sustained** in healer fees or herb consumption if the band does not carry a dedicated healer. A band in heavy rotation that sustains two or three critical injuries a season should expect 6–15 silver in treatment costs on top of wages and provisions. This is not optional: untreated critical injuries carry permanent consequences per Ch06.
 
 **Payment thresholds:** Retainer is due weekly. At 14 days without payment, roll on this table. Mission pay is due daily during an active contract — if three consecutive days pass unpaid while the band is working, roll on this table at **+1 difficulty**. Men in the field are doing the work. Their patience is shorter than it is on retainer.
 
@@ -1318,6 +1371,8 @@ When the leader fails to pay the band on time, roll D6. This replaces the standa
 | 6   | The men accept it for now, but every man remembers. Next non-payment rolls twice on this table.                                              |
 
 If the band has a BARRACKS/SHELTER back at the stronghold, apply the standard improved non-payment rule (roll twice, take the higher result) to that table only while fighters are at the stronghold. In the field, this table always applies.
+
+**Payment in goods (in-kind).** When silver is short but the goods inventory covers the gap, the captain may pay wages in-kind: grain, pelts, salvage, anything from the goods inventory valued at the owed amount. Men accept this once without consequence — lean times are understood. A second consecutive week of in-kind payment: roll FIELD NON-PAYMENT at +1 difficulty on the next scheduled check. A third consecutive week: roll at standard difficulty immediately, not at the next check. Men who live by killing are patient about coin, not indefinitely patient about never seeing it.
 
 > **Example:** Pell's warband of nine has been in the Stillmere hills for ten days. The employer's factor was due on day eight. Pay day comes and Pell has nothing to put on the table. He rolls D6 and gets a 4 — the sergeant Maret confronts him in front of the assembled men. Pell rolls MANIPULATION against difficulty 2: four dice, two ⚔️. He holds the line. The men accept it for now. Next pay day is not a matter of explanation.
 
@@ -1517,6 +1572,8 @@ Public bounties and open patrol postings find the band on their own. Posted at i
 
 Private contracts — from warchiefs, trade consortium factors, fortified-settlement headmen, and similar people of actual force — do not post themselves. The employer controls the door. The band must either earn an introduction or arrive with enough standing that the employer has a reason to open it.
 
+**Winter scarcity.** Work thins between mid-autumn and early spring. Patrol and escort contracts drop sharply — fewer caravans move, harvests are long done, and employers hold coin close. Assault, raid, and clearing contracts remain available but each settlement posts roughly half the normal volume. Garrison and protection contracts are unaffected: an employer worried about winter raiders still wants a sword present. A band that locked in a protection season before the cold set in traded the chance at better-paying active contracts for the certainty of wages through the dead months. That trade is rational once. Made every year, it is a choice to stay poor.
+
 **Getting an audience:**
 
 | APPROACH                                                                                  | REQUIREMENT                                                         |
@@ -1544,6 +1601,8 @@ Once the audience exists, the leader makes a MANIPULATION roll to settle terms. 
 On a success, the leader's proposed terms are accepted, adjusted only by what the employer can supply. Each ⚔️ beyond the first earns one concession: a higher advance payment, a shorter exclusivity window, a liability clause removed. On a failure, the employer's terms stand. The band may accept them, attempt a second negotiation at the next available meeting at -1 difficulty, or withdraw.
 
 A band at Allegiance 2 or higher with this employer reduces the terms difficulty by 1.
+
+**Reputation and opening rates.** An employer who already knows the band’s name starts from a different number. For each point of band Reputation above 2, add 5% to the employer’s initial offer on any non-garrison contract (Reputation 3 = +5%, 4 = +10%, 5 = +15%). This is not a modifier to the MANIPULATION roll — it applies before negotiation begins. A Reputation 4 band does not argue its way up to better terms; it walks in to better terms and negotiates from there. A Reputation 5 band is often approached rather than approaching.
 
 ### Allegiance
 
@@ -1588,49 +1647,53 @@ A contract is a job with defined terms, a named employer, and a coin figure. Acc
 
 **Reference prices for a standard nine-man warband:**
 
-| CONTRACT TYPE              | PAY RANGE | DURATION  | EMPLOYER TIER | PAYMENT TIMING               | NOTES                                                                                      |
-| -------------------------- | --------- | --------- | ------------- | ---------------------------- | ------------------------------------------------------------------------------------------ |
-| **PATROL**                 |           |           |               |                              |                                                                                            |
-| Patrol (weekly)            | 110–165s  | 7 days    | Town+         | In advance                   | Route or hex. Employer specifies the ground.                                               |
-| Patrol (extended)          | 200–300s  | 14 days   | Town+         | Half advance, half on return | Harder terrain or wider circuit. Often renewed on completion.                              |
-| Road clearance (long)      | 390–580s  | 21 days   | Town+         | Weekly installments          | Multi-hex route security. Payment stops if band goes dark.                                 |
-| **ESCORT**                 |           |           |               |                              |                                                                                            |
-| Escort (short)             | 80–140s   | 5 days    | Town+         | On arrival                   | Person or cargo, single destination.                                                       |
-| Escort (long haul)         | 200–320s  | 14 days   | Town+         | On arrival                   | Multiple waypoints. Employer expects a report of each crossing.                            |
-| Bodyguard (personal)       | 175–280s  | 7 days    | Town+         | In advance                   | One named principal. Band does not leave their side.                                       |
-| Sensitive cargo delivery   | 160–260s  | 6 days    | Town+         | On delivery, sealed chest    | No questions about contents. Liability clause standard issue.                              |
-| **CLEARING / ELIMINATION** |           |           |               |                              |                                                                                            |
-| Clearing (area)            | 160–260s  | 10 days   | Town+         | On completion                | Remove a defined threat from a defined area.                                               |
-| Monster hunt               | 175–290s  | 8 days    | Town+         | On proof of kill             | Named specific creature. No proof, no pay.                                                 |
-| Bounty enforcement         | 100–200s  | 5–10 days | Town+         | On delivery                  | Bring back a named individual alive or dead per terms.                                     |
-| Sabotage / disruption      | 250–400s  | 10 days   | Warchief+     | Half advance                 | Destroy enemy supply, cache, or command structure.                                         |
-| **RAID / ASSAULT**         |           |           |               |                              |                                                                                            |
-| Warchief raid              | 225–380s  | 14 days   | Warchief+     | Advance + half on return     | Open-field engagement or overrun operation.                                                |
-| Siege assault support      | 380–620s  | 10 days   | Warchief+     | Half advance, half on fall   | Join an assault on a fortified position. Casualties expected.                              |
-| Punitive expedition        | 210–360s  | 10 days   | Warchief+     | In advance                   | Make an example of a specific settlement or group.                                         |
-| Ambush / interdiction      | 180–300s  | 7 days    | Warchief+     | On confirmed disruption      | Set and hold a blocking force on a named route or crossing.                                |
-| Relief force               | 400–700s  | 14 days   | Warchief+     | Half advance, half on relief | Break a besieged location. Employer pays double if it works.                               |
-| **GARRISON / DEFENSE**     |           |           |               |                              |                                                                                            |
-| Garrison (short)           | 340–500s  | 21 days   | Warchief+     | Flat advance                 | Hold position. Band is present and ready; no external contracts.                           |
-| Siege defense              | 350–550s  | 14 days   | Town+         | In advance                   | Hold against incoming assault. Employer assumes breach risk.                               |
-| Settlement pacification    | 220–380s  | 14 days   | Town+         | Weekly installments          | Occupy until population complies. Atrocity clause standard.                                |
-| Protection (season)        | 550–800s  | 91 days   | Town+         | Flat advance; garrison mode  | Retainer pay throughout. No other contracts.                                               |
-| **INTELLIGENCE / SUPPORT** |           |           |               |                              |                                                                                            |
-| Scouting / recon           | 140–240s  | 6 days    | Warchief+     | On report delivery           | Map and report a named area or enemy position. No engagement required.                     |
-| Extraction / rescue        | 160–280s  | 7 days    | Town+         | On safe return of subject    | Bring a named person out of hostile territory alive.                                       |
-| Hostile negotiation        | 150–250s  | 5 days    | Town+         | In advance                   | Show of force for an employer's demand. Fighting is optional.                              |
-| Militia training cadre     | 280–420s  | 21 days   | Town+         | Weekly installments          | Raise and drill local fighters to a service standard.                                      |
-| **CASTER CONTRACTS ◆**     |           |           |               |                              |                                                                                            |
-| Magical commission ◆       | 280–420s  | 12 days   | Town+         | In advance                   | Caster bands only. Employer specifies the working.                                         |
-| Ritual ward ◆              | 185–300s  | 8 days    | Warchief+     | Flat advance                 | Caster bands only. Ward a structure, route, or person.                                     |
-| Curse removal ◆            | 200–350s  | 7 days    | Town+         | On completion                | Caster bands only. Employer provides access; result guaranteed or partial refund standard. |
-| Divination mission ◆       | 130–220s  | 5 days    | Town+         | In advance                   | Caster bands only. Intelligence through magical means.                                     |
+| CONTRACT TYPE              | PAY RANGE | DURATION  | EMPLOYER TIER | PAYMENT TIMING                               | NOTES                                                                                      |
+| -------------------------- | --------- | --------- | ------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| **PATROL**                 |           |           |               |                                              |                                                                                            |
+| Patrol (weekly)            | 110–165s  | 7 days    | Town+         | In advance                                   | Route or hex. Employer specifies the ground.                                               |
+| Patrol (extended)          | 200–300s  | 14 days   | Town+         | Half advance, half on return                 | Harder terrain or wider circuit. Often renewed on completion.                              |
+| Road clearance (long)      | 390–580s  | 21 days   | Town+         | Weekly installments                          | Multi-hex route security. Payment stops if band goes dark.                                 |
+| **ESCORT**                 |           |           |               |                                              |                                                                                            |
+| Escort (short)             | 80–140s   | 5 days    | Town+         | On arrival                                   | Person or cargo, single destination.                                                       |
+| Escort (long haul)         | 200–320s  | 14 days   | Town+         | On arrival                                   | Multiple waypoints. Employer expects a report of each crossing.                            |
+| Bodyguard (personal)       | 175–280s  | 7 days    | Town+         | In advance                                   | One named principal. Band does not leave their side.                                       |
+| Sensitive cargo delivery   | 160–260s  | 6 days    | Town+         | On delivery, sealed chest                    | No questions about contents. Liability clause standard issue.                              |
+| **CLEARING / ELIMINATION** |           |           |               |                                              |                                                                                            |
+| Clearing (area)            | 160–260s  | 10 days   | Town+         | On completion                                | Remove a defined threat from a defined area.                                               |
+| Monster hunt               | 175–290s  | 8 days    | Town+         | On proof of kill                             | Named specific creature. No proof, no pay.                                                 |
+| Bounty enforcement         | 100–200s  | 5–10 days | Town+         | On delivery                                  | Bring back a named individual alive or dead per terms.                                     |
+| Sabotage / disruption      | 250–400s  | 10 days   | Warchief+     | Half advance                                 | Destroy enemy supply, cache, or command structure.                                         |
+| **RAID / ASSAULT**         |           |           |               |                                              |                                                                                            |
+| Warchief raid              | 225–380s  | 14 days   | Warchief+     | Advance + half on return                     | Open-field engagement or overrun operation.                                                |
+| Siege assault support      | 380–620s  | 10 days   | Warchief+     | Half advance, half on fall                   | Join an assault on a fortified position. Casualties expected.                              |
+| Punitive expedition        | 210–360s  | 10 days   | Warchief+     | In advance                                   | Make an example of a specific settlement or group.                                         |
+| Ambush / interdiction      | 180–300s  | 7 days    | Warchief+     | On confirmed disruption                      | Set and hold a blocking force on a named route or crossing.                                |
+| Relief force               | 400–700s  | 14 days   | Warchief+     | Half advance, half on relief                 | Break a besieged location. Employer pays double if it works.                               |
+| **GARRISON / DEFENSE**     |           |           |               |                                              |                                                                                            |
+| Garrison (short)           | 340–500s  | 21 days   | Warchief+     | Flat advance                                 | Hold position. Band is present and ready; no external contracts.                           |
+| Siege defense              | 350–550s  | 14 days   | Town+         | In advance                                   | Hold against incoming assault. Employer assumes breach risk.                               |
+| Settlement pacification    | 220–380s  | 14 days   | Town+         | Weekly installments                          | Occupy until population complies. Atrocity clause standard.                                |
+| Protection (season)        | 310–420s  | 91 days   | Town+         | Advance + weekly installments. Allegiance 1+ | Retainer pay only. Food on the band. Combat call-up applies on engagement.                 |
+| **INTELLIGENCE / SUPPORT** |           |           |               |                                              |                                                                                            |
+| Scouting / recon           | 140–240s  | 6 days    | Warchief+     | On report delivery                           | Map and report a named area or enemy position. No engagement required.                     |
+| Extraction / rescue        | 160–280s  | 7 days    | Town+         | On safe return of subject                    | Bring a named person out of hostile territory alive.                                       |
+| Hostile negotiation        | 150–250s  | 5 days    | Town+         | In advance                                   | Show of force for an employer's demand. Fighting is optional.                              |
+| Militia training cadre     | 280–420s  | 21 days   | Town+         | Weekly installments                          | Raise and drill local fighters to a service standard.                                      |
+| **CASTER CONTRACTS ◆**     |           |           |               |                                              |                                                                                            |
+| Magical commission ◆       | 280–420s  | 12 days   | Town+         | In advance                                   | Caster bands only. Employer specifies the working.                                         |
+| Ritual ward ◆              | 185–300s  | 8 days    | Warchief+     | Flat advance                                 | Caster bands only. Ward a structure, route, or person.                                     |
+| Curse removal ◆            | 200–350s  | 7 days    | Town+         | On completion                                | Caster bands only. Employer provides access; result guaranteed or partial refund standard. |
+| Divination mission ◆       | 130–220s  | 5 days    | Town+         | In advance                                   | Caster bands only. Intelligence through magical means.                                     |
 
-**Price scaling:** These ranges assume a standard nine-man warband. A smaller band negotiates proportionally lower. A band with a caster negotiates **+35%** on all standard non-garrison contracts — employers who want magic in their service pay for it.
+**Price scaling:** These ranges assume a standard nine-man warband. A smaller band negotiates proportionally lower. A band with a caster negotiates **+30%** on all standard non-garrison contracts — employers who want magic in their service pay for it.
 
 Contracts without a payment timing listed pay in full on completion unless the employer proposes otherwise. Disputed timing is a negotiation failure. Settle it before the band leaves, not in the field when the work is done.
 
-**Protection season (garrison mode):** The employer pays a flat fee in advance for having the band present and available in their territory for the quarter. The band stays on **retainer pay** — not mission pay — for the full 91 days and does not march out on further contracts during that period. The band's cost for the season runs to roughly retainer wages (310 silver) plus food (315 silver), totalling around 625 silver. A mid-to-high protection season payment covers that cost with margin. Both parties lock in: the employer gets reliable presence, the band gets stable income without the attrition of continuous fieldwork.
+**Protection season (garrison mode):** The employer pays to have the band present — nothing more. The fee covers retainer wages for the quarter: roughly 310 silver for a standard nine-man warband. Food is on the band. The employer does not board them, does not supply them, and the contract price does not include a margin. A band that takes a protection season with full provisions and no income from forage will spend silver to cover food and walk away having earned nothing. The contract makes sense when the band can forage well in the territory, when no better work is available, or when building Allegiance with a powerful employer is worth trading away three months of margin.
+
+Protection season is not a profit contract. It is a holding arrangement.
+
+**Combat call-up:** When a real threat materializes during the protection season — a bandit raid, a monster attack, an enemy patrol the employer needs eliminated — the captain invoices mission pay for each day the band is actually engaged. The employer owes it. This is not included in the base fee; it is a separate charge settled in full before the season renews or the band departs. A protection season that involves no real fighting pays nothing beyond retainer. One that involves three serious engagements generates three stretches of mission pay on top. The employer who thought they were buying three months of calm at low price will feel those invoices. The captain who thought protection was easy money will feel the lean months when the territory stays quiet.
 
 **Terms always specify:**
 
@@ -2484,6 +2547,26 @@ After any engagement resulting in a clear victory, award XP to each non-player N
 
 **Named Man transition to full character:** The GM may offer a Named Man a full character sheet when their player's original character is out of action and both the player and GM agree. A Named Man eligible for this transition should have at least 15 XP recorded, an Agenda that has been actively pursued, and Loyalty 3 with the fellowship. On transition, the player selects the Named Man's kin-appropriate profession from Ch02 and picks starting skills accordingly. Prior XP carries over at 2:3 conversion rate (15 Named Man XP becomes 10 PC XP). The Personality, Trigger, and Agenda survive the transition intact — they remain who they are.
 
+### Named Man Connections
+
+A Named Man is not just a fighter. Every veteran carries a web of old relationships — former captains, garrison commanders who owe favors, factors who remember reliable work, warchiefs who knew them when. After three or more months of continuous service and Loyalty 5, a Named Man may attempt to use that network once per season.
+
+**Using a Named Man’s network:** The captain names the Named Man and declares the attempt. The Named Man makes a MANIPULATION roll against a difficulty set by the Named Man’s background:
+
+| NAMED MAN BACKGROUND / ROLE   | DIFFICULTY | CONTRACT TYPE LIKELY REACHED                  |
+| ----------------------------- | ---------- | --------------------------------------------- |
+| Former garrison soldier       | 2          | Garrison or patrol, minor warchief tier       |
+| Former caravan guard          | 2          | Escort or clearance, merchant tier            |
+| Former officer (veteran rank) | 3          | Assault or commission, warchief tier          |
+| Former noble household        | 3          | Private protection or intelligence, high-tier |
+| Former caster’s bodyguard     | 3          | Caster contract, unusual patron               |
+
+On success: the Named Man surfaces a specific contract offer — type, employer tier, and rough pay range in line with the table above. The captain may accept or decline. On failure: no contact made this season. On a push (all dice fail): the Named Man’s contact is unavailable, dead, or hostile. The connection is spent until a new one develops.
+
+**Captain investment:** If the captain has actively supported this Named Man’s Agenda — pursued it, spent coin on it, publicly acknowledged it — reduce difficulty by 1. A Named Man whose objectives are ignored does not reach out for the company’s benefit.
+
+This mechanic is once per season per Named Man. It is a resource, not a routine.
+
 ---
 
 ## Section 7.5: Hired Casters
@@ -2501,6 +2584,12 @@ When a caster agrees to terms, they do so in one of two ways.
 **Agenda terms.** The caster joins without a set price. They want something — passage to a location, a person found, an object recovered, a piece of information the band might encounter — and the captain's commitment to pursue that objective is the contract. Agenda casters draw no weekly coin. They stay until the objective resolves. Do not offer them coin in place of the objective. They will not take it.
 
 Initiates may take coin terms straightforwardly. Most Adepts and Masters prefer agenda terms or a combination of both. When approaching a caster who outranks the captain's network, offer the agenda first.
+
+**Caster coin sustainability.** Coin terms make sense for an Initiate. An Adept at daily coin rates begins to strain a standard warband’s income by month two of continuous employment: 12–18 silver per day equals 360–540 silver per 30-day period, before any other wages. If the band’s average monthly contract income over the preceding 60 days falls below four times the caster’s projected 30-day coin cost, the caster notices. At the end of that 30-day period, they set a 14-day payment deadline. The captain must cover the full owed sum, renegotiate to agenda terms, or the caster leaves on day 15 and retains any wage debt as a standing obligation.
+
+For a Master caster at coin terms: sustainable only under extraordinary income. A Master draws 25+ silver per day — 750+ per 30-day period — more than a protection season pays in 91 days. A captain who agrees to coin terms with a Master should understand this arithmetic before signing. Agenda terms exist precisely because Masters do not want coin. Ask what they want.
+
+**If a caster is not paid on time,** treat it as FIELD NON-PAYMENT but with a different consequence table. Initiates respond like common fighters. Adepts begin withdrawing magical services first — they will not cast until owed wages are settled. Masters leave. They do not complain. They are simply gone the following morning, often taking something with them that was not explicitly theirs.
 
 ### Caster Tiers
 
