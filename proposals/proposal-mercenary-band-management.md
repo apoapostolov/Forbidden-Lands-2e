@@ -1,5 +1,3 @@
-also run a realism audit of the extorted goods as it ma# Proposal: Mercenary Band Management
-
 **Status:** Draft
 **Target chapters:** Ch09 (The Stronghold), Ch08 (Journeys — Reputation integration)
 **Classification:** Major optional expansion — chapter-scale content
@@ -84,11 +82,11 @@ These change MORALE at the end of each week.
 
 A band's origin shapes how it recruits, how it holds together, and what breaks it. The following archetypes describe the most common formations in the Ravenlands. They are not mutually exclusive — a band may start as one type and drift into another — but each carries distinct mechanical defaults.
 
-**RURAL PEASANT BAND**
+**RURAL MOB**
 Farmers, woodcutters, and hunters who ran out of land or watched it burn. They know the wilderness, they are unafraid of cold and hunger, and they have no illusions about what the work is. Most started because someone raided their village and the choice was stay and die or leave and fight. The core of this band is usually a single village or hamlet — men who grew up together, buried their dead together, and trust each other the way people trust what they have tested.
 
 - **Recruitment:** +1 to finding men at rural settlements. The captain takes anyone from the home village or hamlet who can hold a weapon and is willing. Strangers are considered on a longer timeline — they must eat with the men for several weeks and be vouched for by someone already in the band before they are treated as part of it. A new man who fits the crowd is accepted without ceremony. A new man who does not fit may never be trusted regardless of skill.
-- **Strengths:** FORAGING rolls improved — treat one additional terrain type as favored when foraging. Comfortable camping in poor conditions; -1 to food cost when encamped in wilderness terrain.
+- **Strengths:** FORAGING rolls improved — treat one additional terrain type as favored when foraging. Comfortable camping in poor conditions; -1 to food cost when encamped in wilderness terrain. The band is **Trust-Held** by default (see Trust-Held Bands, Section 6).
 - **Weakness:** Loyalty is local. If a contract takes the band far from the region they know, MORALE checks are at +1 difficulty until the band has been abroad a full season. They also tend to carry the politics of the home village with them — old grudges, family debts, a face someone punched ten years ago.
 - **Typical Named Men personality:** Flat, Death-Easy, Mercenary Proud.
 - **Breaks when:** The captain starts acting like a lord. Some of these men left a lord. They know the shape of it.
@@ -106,7 +104,7 @@ Built around one captain who holds the company by force of threat and selective 
 Veterans of a larger force: soldiers who served under a warchief, garrison troops who got left behind when the campaign ended, or units whose commander died and whose pay stopped. They drill, they hold formation, and they have a professional relationship to violence that peasant bands do not.
 
 - **Recruitment:** The captain requires demonstrated prior service before accepting a new man — a verifiable record of engagements, a recognizable military background, or sponsorship from a current member who can attest to capability. Useless men are not taken on as projects. A man who cannot name his role, maintain his own equipment, and perform a specific function in the line is turned away regardless of need. Roles must be filled — the captain recruits to gaps, not to headcount. Without a SCOUT, they recruit a scout. Without a MEDIC, they find a healer. When all roles are covered, they stop recruiting until something breaks. -1 to finding men at rural settlements. +1 at town-scale settlements and at other military encampments.
-- **Strengths:** DRILL time is halved — the band reaches trained status after three days of drill rather than a full week. Common fighters hold formation in the second round of an engagement without a MORALE check. Sergeants in this band promote to full authority one engagement sooner than the standard rules require. Logistics are maintained precisely; the band never accidentally runs short through poor tracking.
+- **Strengths:** DRILL time is halved — the band reaches trained status after three days of drill rather than a full week. Common fighters hold formation in the second round of an engagement without a MORALE check. Sergeants in this band promote to full authority one engagement sooner than the standard rules require. Logistics are maintained precisely; the band never accidentally runs short through poor tracking. A military band that has maintained consistent pay and kept its captain's word for a full season is **Trust-Held** (see Trust-Held Bands, Section 6). A military band that has not yet met that threshold runs on professional exchange — not fear, not trust.
 - **Weakness:** Pay expectations are higher and non-negotiable. A military band at Steady MORALE expects full pay on schedule; a single late payment triggers a check at +1 difficulty rather than the standard threshold. They also have opinions about the captain's decisions and will not hide them.
 - **Typical Named Men personality:** Mercenary Proud, Territorial, Quietly Violent.
 - **Breaks when:** The captain shows they do not understand what a real formation is, or when the job clearly has no professional merit — atrocities, reckless assault, abandonment of standards.
@@ -115,7 +113,7 @@ Veterans of a larger force: soldiers who served under a warchief, garrison troop
 All members share blood, clan, or kin heritage. An orc warband. A wolfkin pack. Three halfling brothers who picked up stragglers of the same kin over two seasons. The loyalty structure runs through blood and old obligation rather than through coin and contract. These bands do not behave like mercenary companies in the standard sense — they behave like extended families who have become dangerous.
 
 - **Recruitment:** Same kin only, by default. A family-based kin band (same bloodline, not just same kin type) will not accept outsiders at all without a vouch from at least one existing member and, in some cases, a formal bond or oath before the group. An outsider vouched in is treated as kin-adjacent — they have standing but not full blood standing, and the band will not extend them the same protections automatically. A man who is vouched for and then betrays the band is an example made of without debate. Use the Kin and Recruitment modifiers from Section 2.
-- **Strengths:** MORALE is checked at -1 difficulty when the cause of distress is external (enemy action, contract failure, hunger). Internal grievances are handled within kin tradition — the GM should develop 1–3 kin-specific honor rules that function as additional Triggers for Named Men in this band.
+- **Strengths:** MORALE is checked at -1 difficulty when the cause of distress is external (enemy action, contract failure, hunger). Internal grievances are handled within kin tradition — the GM should develop 1–3 kin-specific honor rules that function as additional Triggers for Named Men in this band. The band is **Trust-Held** by definition — kin bands cannot be Fear-Held except by a captain from outside the kin who takes command by force, and that condition lasts only until the kin remembers what they are (see Trust-Held Bands, Section 6).
 - **Weakness:** An atrocity against a member of the same kin — a company member of the shared kin harmed by the captain's order — triggers automatic MORALE -2 and a loyalty roll for all Named Men, regardless of current MORALE level. Blood obligations can also pull Named Men away from the band for personal reasons that have nothing to do with the contract.
 - **Typical Named Men personality:** Grudge-Holding, Territorial, Flat.
 - **Breaks when:** The captain does something that violates the kin's internal code — betrayal of a blood member, dishonoring a bloodline, exposing a family weakness to outsiders.
@@ -438,17 +436,108 @@ A contract is a job with defined terms, a named employer, and a coin figure. Con
 
 ### Posting a Bounty
 
-Any person, settlement, or faction with coin can post a bounty. A bounty is an offer: kill this person, capture this person, return this stolen item. The bounty amount is paid on delivery. Bounties are posted at inns, gateposts, markets, and wherever men gather to sell their services.
+Any person, settlement, or faction with coin or goods can post a bounty. A bounty is an offer: kill this person, capture this person, return this stolen item. The bounty amount is paid on delivery. Bounties are posted at inns, gateposts, markets, and wherever men gather to sell their services.
 
 **Posting a bounty requires:**
 
 - A settlement or stronghold to anchor it (the bounty lives there)
-- The coin available upfront or guaranteed by a wealthy backer
+- The payment — coin, goods of agreed value, or a combination — available upfront or guaranteed by a backer who can make it good on delivery
 - A description clear enough for someone to act on it
 
 **Finding bounties:** Any PC making a MANIPULATION roll in a settlement of Reputation 3+ may ask about current bounties. One ⚔️ finds the local postings. Three ⚔️ turns up bounties from the broader region, carried by travelers.
 
-**Accepting a bounty:** No roll required. The PC accepts the task; the coin is held — sometimes literally in a locked box at the inn.
+**Accepting a bounty:** No roll required. The PC accepts the task; the coin or goods are held — coin sometimes literally in a locked box at the inn, goods under the custody of the posting settlement or a third-party guarantor — until delivery or confirmed kill.
+
+#### Bounty Types and Reference Prices
+
+Bounties come from grievance, necessity, or calculation. A man whose son was killed in the street posts out of grief for whatever the family can scrape together. A trade consortium posts out of commercial logic: the road needs to be clear, and hiring someone to clear it costs less than losing caravans. A warchief posts out of calculation — eliminating a named enemy is worth more than whatever is written on the notice.
+
+Silver is the Ravenlands' working currency. Gold moves at the level of warchiefs and lords and appears occasionally in old hoards; a common farmer may have held three silver coins in his life and is unlikely to have held gold at all. All prices below are in silver. When a poster's grievance is large and their liquid coin is not, see Payment in Goods.
+
+The prices below are floors. Below those floors, experienced collectors do not leave camp. A desperate poster goes higher. A pooled posting from multiple aggrieved parties can go considerably higher than any single contributor could manage alone.
+
+**Grievance bounties** arise from personal offense: humiliation, theft, injury, abandonment of debt or obligation. The price reflects the harm as the poster understands it, filtered through what the poster can actually put up.
+
+| OFFENSE                                                                       | MINIMUM PRICE | NOTES                                                                                                                                                |
+| ----------------------------------------------------------------------------- | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Fled a small debt                                                             | 1–3 silver    | Barely above the cost of tracking. Usually posted to attach the debtor's name to a public notice rather than to recover much coin.                   |
+| Theft of livestock or tools                                                   | 2–5 silver    | Typically the stolen goods' value. Doubles when the thief is identified by name and destination.                                                     |
+| Desertion from a garrison or company                                          | 2–5 silver    | Corporate discipline posting. Rarely spreads past two hexes — it signals internal problems and most captains know it.                                |
+| Assault resulting in lasting injury                                           | 3–8 silver    | Posted by the victim's family. Scales with the injury: a cracked rib is 3, a severed finger is 8.                                                    |
+| Fled a serious debt — a season's wages or more                                | 8–20 silver   | The loss plus the insult of the escape. The number climbs if the debtor is heard to be doing well somewhere else.                                    |
+| Dishonoring a kinsman — fled before settlement                                | 5–12 silver   | A family's own price on a personal offense. Poor families post what they have. Proud families post more than they can afford.                        |
+| Murder of a commoner, no witnesses of standing                                | 5–15 silver   | Higher when the dead had family with resources behind them. May sit uncollected for a year and still draw interest locally.                          |
+| Arson — barn, granary, workshop, or home                                      | 8–20 silver   | Posted by whoever held the thing that burned. Often pooled when a single fire touched more than one household's livelihood.                          |
+| Murder of a recognized community figure — craftsman, merchant, council member | 10–25 silver  | The settlement posts it as a body, not as a family. An elder commits the settlement's formal funds. The coin is real and the settlement is watching. |
+
+**Professional breach bounties** arise when a mercenary, escort, or contractor broke a specific obligation that involved advance payment, sworn service, or trusted access to money, cargo, or intelligence.
+
+| BREACH                                                                        | MINIMUM PRICE        | NOTES                                                                                                                                                     |
+| ----------------------------------------------------------------------------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Abandoned a contract after taking advance pay                                 | Advance paid + 50%   | The advance plus the cost of the signal. The extra 50% is not the employer's greed. It is the market price of warning other employers what this man does. |
+| Sold intelligence to an opposing party                                        | 10–30 silver         | Posted by the employer. The amount reflects how much damage the leak caused, or how much the employer thinks it did.                                      |
+| Escort who abandoned cargo or left the employer to die                        | Equal to cargo value | If the cargo was lost, the posting matches the loss. If the employer survived, the posting is the insult's price.                                         |
+| Named Man who turned on their own company                                     | 10–30 silver         | The captain posts it. A low number says the man was not much to begin with. A high number says the captain wants blood rather than warning.               |
+| Captain who delivered a false-strength company — contracted twelve, sent five | 5–15 silver          | Low end, because the embarrassment matters as much as the silver. Posted more for the story it tells than the money it might recover.                     |
+
+**Elimination bounties** target individuals whose removal has political, regional, or commercial value. These travel the farthest and draw the most professional interest.
+
+| TARGET                                                       | MINIMUM PRICE | NOTES                                                                                                                                                                                                                                   |
+| ------------------------------------------------------------ | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| A known bandit working a specific road section               | 3–8 silver    | Road safety restores trade. Multiple merchants may pool the posting without coordinating.                                                                                                                                               |
+| A Named Man responsible for a specific killing or attack     | 8–20 silver   | Scales with the severity of the attack. Rises when the survivors' families add to a standing pool over time.                                                                                                                            |
+| A small company captain who terrorized a village             | 15–40 silver  | The village posts what it has. May run partially to goods when coin runs out. The settlement's desperation usually exceeds its liquid resources.                                                                                        |
+| A company captain responsible for an atrocity                | 20–75 silver  | Regional posting, backed by multiple affected settlements naming themselves as parties. Often pooled over months.                                                                                                                       |
+| A specific military officer, enforcer, or rival's right hand | 25–80 silver  | Posted by a warchief's enemies or a commercial consortium. The poster generally has the resources to back the number they write.                                                                                                        |
+| A warchief's named direct enemy                              | 50–200 silver | Spreads with every caravan and rumor in the region. Professional hunters may divert active contracts for it. Always comes with political strings: the poster has a side, and delivery implicates the collector in that side's business. |
+
+**Recovery bounties** attach to stolen or missing objects rather than persons. The price is always tied to the item's actual value. A poster who understates that value gets no takers.
+
+| ITEM TYPE                                       | MINIMUM PRICE               | NOTES                                                                                                                                                        |
+| ----------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| A specific horse, ox, or breeding animal        | Equal to the animal's value | A sound horse is 8–12 silver. Post less and no one follows the tracks.                                                                                       |
+| Merchant goods, tools, or locked strongbox      | Equal to the contents       | A stated estimate that proves incorrect at delivery generates a new grievance where the old one used to be.                                                  |
+| Land deed, contract, or legal document          | 5–25 silver                 | The value is what the document controls. Difficult to price honestly because the poster does not want to explain their business. Most post high.             |
+| Personal heirloom with no market price          | 2–10 silver                 | The poster's own valuation. A low number signals poverty, an unsentimental relationship with the thing, or both.                                             |
+| Sacred or ritual object belonging to a kin band | 5–15 silver                 | Kin bands post these regardless of silver equivalence. May supplement with goods when the object's importance exceeds any coin figure and the band knows it. |
+
+#### Payment in Goods
+
+A village that wants a company captain dead may not have 30 silver. It may have 30 silver's worth of things: grain in the storehouse, a horse, a house standing empty since the family buried the last person who lived there, a working boat, the right to cut timber from a specific stretch of forest. Goods payment is common when the poster's grievance is serious and their liquid coin is not.
+
+Goods payment is always negotiated before the bounty is accepted. The collector must understand what they are taking before they agree to the work. A bounty accepted on the basis of goods promised and not yet transferred is a contract built on trust rather than iron.
+
+**What goods can constitute payment:**
+
+| GOODS                                                                                                  | SILVER EQUIVALENT                        | NOTES                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------ | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| A riding horse, broken and sound                                                                       | 20–30 silver                             | Riding-trained and healthy. Liquid — easy to sell or ride. The most useful goods payment for a band that does not stay in one place. A green (untrained) horse moves for 12–15 silver; a war-trained horse for 60–80 silver. Verify condition and training before accepting.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| A plow ox, working and healthy                                                                         | 8–12 silver                              | High value in the right settlement. Difficult to move over rough terrain without slowing whoever is transporting it.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| A breeding pair of pigs or a small sheep flock                                                         | 3–6 silver                               | Only practical if the collector has somewhere to keep them. Most often taken as part of a split payment alongside coin.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| A working river boat, two- to four-oarsman capacity                                                    | 12–20 silver                             | Useful to a band that moves along waterways. Requires the collection point to be accessible to water.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| A quality weapon, master-made — axe or spear                                                           | 6–18 silver                              | Immediately useful to a fighting band. Axes and spears at this tier: battleaxe or long spear, master-worked, 6–18 silver. A master-made sword runs higher: broadsword or shortsword quality, 14–22 silver; a longsword or two-handed sword, 25–50 silver. Verify the poster holds clear title before accepting. A weapon with a known dead prior owner attached to it is not payment; it is evidence.                                                                                                                                                                                                                                                                                                                                                         |
+| A full suit of chainmail, fitted and intact                                                            | 20–28 silver                             | Worth taking if the band needs it and has someone who can wear it. New chainmail runs 24 silver; used but intact, assume 20–28 silver depending on wear and whether fitting is required. Dead weight if no one in the band can use it.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| A winter's grain store, enough for one family                                                          | 4–8 silver                               | Useful to a stationed band. Spoils over time — poor payment for a band that moves every few weeks.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| A season's harvest yield, unharvested at time of posting                                               | 5–12 silver                              | Forward goods. The collector receives the harvest when the season turns. Requires trust that the harvest will happen and the poster will still be present and willing to honor the agreement when it does.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Timber rights to a specified forest section, one full season                                           | 8–18 silver                              | The right to cut and sell from a marked territory. Only practical for a band that has the labor to work it, or a contact who will buy the standing timber.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| A house, outbuilding, and clear lot in a small village                                                 | 20–50 silver                             | Immovable. The band gains a legal presence in that settlement by accepting it. Valuable if the band wants roots; worthless if it intends to keep moving.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| A working smithy forge and its tools                                                                   | 14–22 silver                             | Weight in iron. Taken only by a band that has a smith on its rolls or expects to acquire one.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| A longhouse in a fortified settlement                                                                  | 35–80 silver                             | A modest stronghold stake. The band becomes a stakeholder in the settlement's life, and the settlement gains a fighting presence it did not negotiate for in any ordinary sense. Neither party should take this lightly.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| A cleared farming plot with established soil and a standing claim                                      | 30–60 silver                             | The poster offers working land. There is no deed system in most of the Ravenlands — only presence, precedent, and the willingness to hold a position. Contested in practice. The band must be able to defend what it accepts.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| A standing protection contract — one full season, paid in provisions, shelter, and settlement standing | 15–30 silver equivalent                  | The poster hires the band rather than paying them outright. Payment is ongoing: a roof, reliable food, standing among the settlement's people. Binds both parties for the season and changes the band's relationship to that settlement permanently.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Raw materials in bulk — iron, leather, cloth, grain, pelts, or herbs                                   | Per-unit price from Ch10 (minimum floor) | A village rarely has coin but often has stores. Per-unit minimums: iron 1 silver, herbs 2 silver, leather 12 copper, wool cloth 8 copper, grain 3 copper, pelt 8 copper. A substantial cache — forty units of iron (40 silver), a season's tannery output in leather, or a medicinal herb store — is real settlement wealth expressed in materials rather than coin. Agree the count and condition before the contract is taken. Perishable materials (grain, meat, pelt, herbs) lose value if collection is delayed past their listed shelf life; build a condition clause in if the contract is expected to run longer than a few weeks. The collector must also consider carriage: iron is heavy, grain spoils, and a wagonload of pelts requires a wagon. |
+
+**Three problems arise on nearly every large goods bounty.**
+
+_Transfer requires presence._ Unlike coin at an inn, a house, a boat, or a grain store cannot be transferred from a distance. The collector completes the contract and must then physically appear at the collection point to receive what was posted. If the goods are far from the contract area, experienced hunters price that inconvenience into whether they take the work at all. A poster who wants serious hunters puts the goods close to where the killing is, or adds a coin supplement for the march.
+
+_The poster must hold clear title._ A settlement elder who offers the communal grain store as payment needs the settlement's agreement — not signature, agreement. If the council disputes the elder's authority to post goods that belong to everyone, the collector arrives to claim something that no one will surrender. Before accepting goods payment, ask plainly: _whose goods are these, and who vouches for it?_ A public announcement before the settlement's council, a written agreement, or a named third-party guarantor are all acceptable answers. The absence of all three is a warning.
+
+_Goods spoil, break, and die._ A horse sound at posting may be lame at collection. A grain store posted in autumn may be half-eaten by spring. A boat with one soft plank in summer is a boat with a serious problem by the following season. A bounty that takes months to collect against goods that deteriorate in those months has a gap in it. A collector who wants protection against this negotiates a condition clause at acceptance: the goods delivered must match the goods described at posting, or a silver supplement covers the difference. Most posters resist this. Most collectors who do not insist on it regret it.
+
+**Third-party guarantors.** Any goods payment above 15 silver equivalent requires a guarantor to attract professional interest. A guarantor is a trusted third party who witnesses the posting, knows the condition and location of the goods, and can testify in any dispute about whether the delivery satisfied the posted terms. Common guarantors: settlement elders, innkeepers of established standing, priests of any recognized faith, captains of unrelated bands whose Reputation makes their word carry weight in the region. A guarantor who vouches falsely damages their own standing. This is usually enough.
+
+An unguaranteed goods bounty is taken only by desperate hunters or by collectors who know the poster personally and trust them for reasons that have nothing to do with the notice. Experienced hunters discount unguaranteed goods postings by one-third in their private assessment of whether the work is worth leaving camp.
 
 **Bounties on the fellowship:** If the PCs have done something worth targeting, any aggrieved party can post a bounty on them. The bounty amount travels via the Reputation and rumor system (Ch08). At each settlement within rumor range of the posting, the GM may have NPCs react with recognition. The fellowship's Reputation makes this faster: a well-known band is easier to identify and report on.
 
@@ -611,6 +700,8 @@ A tyrant captain may substitute INTIMIDATION for MANIPULATION on all internal MO
 
 In a tyrant company, loyalty scores for Named Men decay at double normal rate when triggers are hit. Named Men with Loyalty 1 in a fear-held company will sell information and act against the captain's interest the moment they calculate it is safe. The calculation usually arrives before the captain expects it.
 
+The difference between Fear-Held and Trust-Held is not visible until it needs to be. Both bands look functional at MORALE 4. The distinction is what happens to the information when things go wrong — and where Named Men's loyalty actually sits. See **Trust-Held Bands** below.
+
 **Tyrant Punishments**
 
 Tyrant captains use punishments designed to leave a mark — on the body of the offender and on the memory of everyone watching. These replace or supplement the standard punishment table at the captain's choice.
@@ -627,6 +718,30 @@ This always triggers:
 The exception: if the executed man was openly despised by the band — a coward whose failure cost blood, a thief who stole from multiple members — the GM may waive the MORALE cost. The execution lands differently when the men already made the same calculation.
 
 A captain who uses public execution more than once in a season will eventually face a band in which everyone is calculating odds. Some captains understand this and use it anyway. They have made a trade: immediate obedience now for a shorter future.
+
+#### Trust-Held Bands
+
+Rural Peasant bands are Trust-Held by default. Kin bands are Trust-Held by definition. Military bands can become Trust-Held over a full season of consistent pay and kept word. Most bands start somewhere in the middle — professional exchange, neither fear nor trust — and drift one way or the other depending on how the captain handles the first three bad situations.
+
+Trust-Held is not a higher MORALE ceiling. The table is the same. What changes is how failure lands, what information the captain has access to, and how long the bonds hold before they break.
+
+**A Trust-Held band under pressure:**
+
+- A **Trust-Held** band at MORALE 3 (Shaken) protests aloud. Named Men say what is wrong to the captain's face instead of swallowing it. This costs the captain standing. It also means the captain knows exactly what the problem is.
+- A **Trust-Held** band at MORALE 2 (Wavering) demands a direct accounting from the captain — not from the sergeant. If the captain gives one that holds, the next MORALE check is at -1 difficulty. If they cannot give one, it is +1 difficulty instead.
+- A **Trust-Held** band at MORALE 1 (Broken) does not pretend. The dissolution is open and the captain knows it in full. This is worse in the moment and easier to survive than the slow covert collapse of a Fear-Held band.
+
+**Trust-Held mechanics:**
+
+**Loyalty decay halved.** Named Men in a Trust-Held band lose Loyalty at half the standard rate when triggers are hit. The bond was built on something. It takes more sustained failure to erode it.
+
+**The stay.** Once per season, when the captain fails a MORALE check, the GM may offer a Named Man with Loyalty 3 the chance to spend — to step forward, back the captain publicly, and hold the band together for one more day. If the Named Man does this, the MORALE cost that week is reduced by 1 step. The Named Man's Loyalty drops to 2 immediately. The bond cannot be spent again from the same Named Man until their Loyalty recovers to 3.
+
+**The warning.** A Trust-Held Named Man with Loyalty 1 who has reached their limit will tell the captain before they leave. Not with time to argue. Not loudly. But the captain gets one conversation — a flat statement of what is wrong and what they intend. A Fear-Held Named Man gives nothing. The captain cannot prevent either outcome. This is what trust costs and what it gives back.
+
+**Transition out of Trust-Held.** A band that was Trust-Held and drifts into fear management — a captain who increasingly substitutes INTIMIDATION for MANIPULATION, an atrocity the Named Men were ordered to carry out, a season of broken promises — loses Trust-Held status at the end of that season. The change costs MORALE -1. The men know what the company was. That knowledge is not comfort. It is the specific grief of a thing that has become something else.
+
+**Transition into Trust-Held.** A Fear-Held band can earn Trust-Held status. The captain must pay reliably, address Named Men's triggers when they appear, and avoid using INTIMIDATION as a substitute for MANIPULATION through a full season without a loyalty break or a public trust violation. At the end of that season, the GM confirms the transition. It is slow. It is not impossible. The men remember everything that happened before it, too — and that debt does not disappear because the band is now better.
 
 ---
 
@@ -686,6 +801,42 @@ If the argument reaches Stage 4 without intervention, roll D6 after the fight en
 
 **Deliberate provocation:** A leader or Named Man may deliberately provoke an argument to draw out a rival's true loyalties or break a standoff between two factions in the band. This is MANIPULATION difficulty 3 — the difficulty of starting a fire without being seen as the one who dropped the torch.
 
+**Agitating actions.** Not every bystander wants the argument to stop. No roll is required to push things further. The action lands and the stage responds.
+
+- **Naming a specific past offense** — a theft, a cowardice, a debt, a dead man whose death is still disputed — forces the argument up one stage if the target's Personality is Grudge-Holding or Mercenary Proud.
+- **A physical shove**, regardless of current stage, jumps the argument to Stage 3 immediately.
+- **A public insult that draws laughter** from the watching men at Stage 2 pushes to Stage 3 without a roll. Shame moves faster than anger.
+
+If a Named Man's Trigger is spoken aloud — not implied, stated plainly in front of others — the Named Man rolls WIT difficulty 2. Failure means they enter the argument at the next stage even if they were not in it beforehand. The men know each other's Triggers. Triggers can be aimed.
+
+**Mitigation actions.** Every stage admits intervention beyond the standard table entries.
+
+- **Witnessed concession.** If one party names the other's grievance out loud — not an apology, an acknowledgment — the argument drops one stage without a roll. The conceding man costs something. It stays cheaper than blood.
+- **INSIGHT to name the cause.** A bystander who succeeds on INSIGHT difficulty 2 names the actual grievance plainly, in front of both parties. On success, the argument drops one stage and the next intervention roll is at -1 difficulty. A wrong read changes nothing.
+- **Physical interposition.** A Named Man who steps between the two parties at Stage 2 or 3 takes the argument's energy onto themselves without rolling first. They must then succeed on MANIPULATION or INTIMIDATION difficulty 2. On failure, the argument continues at the same stage and the Named Man is now in it.
+
+**Flyting.** A man with a quick mouth and a specific grievance can turn Stage 2 or 3 into something the whole company watches rather than joins. An old tradition. It has a shape the Ravenlands recognizes — a word-fight instead of a blade-fight, formal enough that the watching men hold still.
+
+When an argument reaches Stage 2 or Stage 3, any participant may call for flyting. The challenge is simple: _let words settle this_. The other party may accept or refuse. Refusal pushes the argument one stage forward immediately — declining the word-fight in front of witnesses reads as an admission the man's mouth is not worth hearing.
+
+If both accept, physical escalation pauses. Resolve the exchange with an opposed PERFORMANCE roll. Difficulty equals the current stage number.
+
+| RESULT           | WINNER                                                                    | LOSER                                                                                          |
+| ---------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Winner by 1–2 ⚔️ | Standing rises among the anonymous fighters; argument resolves at Stage 1 | No injury, no Loyalty roll; owes the winner a public concession in the next unrelated dispute  |
+| Winner by 3+ ⚔️  | As above                                                                  | Loyalty roll (same rule as a Stage 3 fight loss); the humiliation settles longer than a bruise |
+| Tie              | Argument resolves at Stage 1; the company treats both men as even         | —                                                                                              |
+
+MORALE cost for a flyting exchange that ends without reaching Stage 4: none beyond the stage's existing cost. The company's blood stayed inside their bodies.
+
+If either participant breaks the frame before the roll — draws steel, throws a punch, storms off — the argument jumps to Stage 4. The provocation and the broken word land at the same time.
+
+**The compliment.** A bystander who wants neither the interposer's risk nor the orator's contest can try a third thing: publicly honor one of the men. Name a past deed, a debt the company owes them, a hard thing they did that no one has said aloud until now. Done right, it gives the man a way to step back from the argument without losing standing — the room understands that the compliment is an exit. This is PERFORMANCE difficulty 2.
+
+On success: the honored man may end the argument at Stage 1 without standing cost. The other party may accept or push forward. Pushing forward after the honored man has stepped back costs MORALE -1 as though the argument had reached Stage 3 — the company has seen a man refuse the peace, and they remember it.
+
+On failure: the compliment lands hollow. Wrong thing, wrong tone, a feat the honored man does not want on record in this company. Nothing changes except the bystander's credibility. They cannot attempt the compliment again in this argument.
+
 ---
 
 ### Optional: Blood Oaths
@@ -740,6 +891,44 @@ Pay owed through the end of the current contract is distributed equally among th
 **MORALE:** A company that settles effects quietly and fairly within the same day the man died suffers no additional MORALE penalty beyond the standard death cost. A company that bickers, delays, or allows a dispute to fester past a day costs MORALE -1 on top of any death-related loss already applied. Men can absorb death. They cannot absorb the ugliness that follows it.
 
 **Named Man's recorded effects:** If the GM has been tracking a Named Man's specific gear — a weapon with a name, an artifact, an unusual item — those should be noted at creation, not improvised at death. A Named Man who has carried a particular blade for two seasons and dies in the third should have an accounting ready. It makes the death land harder and the distribution matter more.
+
+---
+
+### Optional: Territory Marking and the Language of Violence
+
+_This subsystem is appropriate for Tyrant and Military bands operating in contested territory. Rural Peasant bands may use it under extreme conditions; Kin bands generally maintain territorial languages of their own that do not require it._
+
+Territory in the Ravenlands is not owned. It is held — by whoever is present, by whoever can demonstrate the cost of challenging it, and by how recently that demonstration was made. A deed, a boundary post, a handshake with an elder: these carry weight inside settlements and nowhere else. What carries weight in the hex between settlements is what the men at the tree line believe about what happens to people who cross without invitation.
+
+Two practices communicate this faster and more durably than any spoken threat.
+
+**Spiked markers.** After an engagement, or after an execution, the band takes heads — or visible body parts — and posts them at the edges of claimed ground: road approaches, bridge ends, prominent trees at a hex boundary, the gate of an occupied settlement. The sergeant assigns the work. It is done without ceremony. It takes one Quarter Day to mark a full hex perimeter.
+
+A traveler, scout, or rival band entering a marked hex who succeeds at SCOUTING (difficulty 1) reads the markers immediately. They know the ground is held, someone recent died here, and the band considers this theirs. Any band entering a marked hex must make a MORALE check (difficulty 1) before the first Quarter Day of movement — at MORALE 3 or below, the difficulty is 2. A Skirmisher-tier band that fails this check will refuse to enter without a direct order and a convincing reason.
+
+| MARKER CONTENT                                   | STANDING            | FEUD TRACK |
+| ------------------------------------------------ | ------------------- | ---------- |
+| Unknown enemies                                  | -1                  | +1         |
+| People the settlement recognized                 | -2                  | +2         |
+| A settlement's named defender or the elder's kin | -3, D6 revolt check | +3         |
+
+Markers degrade in two weeks without maintenance — animals, weather, rot. A band that abandons ground without clearing the markers leaves them standing for that window. Long enough to matter. Not long enough to hold the territory.
+
+**The sack.** A severed head delivered to a specific recipient in a sack. No letter is required. The head is the message. Its meaning is the identity of the dead person: you know who this was, and now you decide what happens next.
+
+This works only if the recipient recognizes the dead person. A captain who misjudges this — who delivers a head the recipient does not know — loses the leverage entirely. The recipient receives fear without target, which produces unpredictable responses and no compliance.
+
+When the identity is recognized:
+
+- No roll required. The arithmetic is already complete. The recipient knows the cost and can see it.
+- The GM rolls D6: on 1–2, the recipient capitulates (offers what was demanded or withdraws); on 3–4, they negotiate (MANIPULATION difficulty 1 to hold band terms through one exchange); on 5–6, they escalate (bounty posted within a week, allies contacted, counterattack planned).
+- Feud Track at the recipient settlement advances +2 regardless of outcome.
+
+**Repeated delivery:** A second sack sent to the same settlement or faction in the same season generates automatic escalation without a roll — the recipient has counted and they know this is policy, not warning.
+
+**Who uses this:** Tyrant captains post markers as display of ownership. Military captains may post them at a defended perimeter during a contract to mark engagement zones. Using either practice at MORALE 4 or 5 carries no additional cost. Using them at MORALE 3 or below requires the captain's justification to be visible — if the men cannot read the reason, they read it as cruelty for its own sake, and they know the difference.
+
+A Named Man with a civilian-harm Trigger who witnesses either practice applied to non-combatants must roll against Loyalty regardless of current MORALE level.
 
 ---
 
@@ -867,6 +1056,16 @@ _Command (sergeant only)_
 | ------ | -------------------------- | ----------------------------------------------- |
 | LEADER | Elite 1                    | Named Men with Loyalty 3 and Sergeant rank only |
 
+### WILLPOWER
+
+Named Men begin a mercenary engagement with a small WILLPOWER pool tied to their rank as a Named Man. This is a limited reserve — usually no more than 2–4 points.
+
+- **Veteran Named Men** start with 2 WILLPOWER.
+- **Elite Named Men** start with 3 WILLPOWER.
+- Exceptional Named Men with a special status or built-in narrative role may start with 4 WILLPOWER, but 4 is the ceiling for this system.
+
+Non-player Named Men recover **1 WILLPOWER per day** of downtime. If a Named Man is a player character, they recover WILLPOWER according to the normal player character recovery rules instead.
+
 ### Equipment
 
 Equipment determines a Named Man's fighting reach and silhouette in play. It follows from role.
@@ -988,30 +1187,32 @@ The leader can invest in an agenda — helping a named man pursue it — and in 
 
 ### Named Man Personalities
 
-Mercenaries are not broken men waiting to be healed. They are functional people shaped by years of violence, moral compromise, and self-preservation. Roll D12 or assign:
+Mercenaries are not broken men waiting to be healed. They are functional people shaped by years of violence, moral compromise, and self-preservation. Roll D66 or assign using tens-and-ones notation:
 
-| D12 | PERSONALITY                                                                                                                                 |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Flat** — Does not react to blood, screaming, or death. Eats during the aftermath.                                                         |
-| 2   | **Calculating** — Counts everything: exits, weapons, faces, who is looking where. Never unprepared, never comfortable.                      |
-| 3   | **Scornful** — Finds weakness faintly amusing. Will help, for the right price, and will say so plainly.                                     |
-| 4   | **Cruel Practical** — Uses suffering as a tool. Not sadistic — does not enjoy it unless it serves something.                                |
-| 5   | **Territorial** — Their gear, their cut, their space. Challenge any of it and they will not forget.                                         |
-| 6   | **Dark Amused** — Makes jokes about things others will not name. Laughs at violence. This is just what they are.                            |
-| 7   | **Paranoid Competent** — Assumes betrayal will come and plans for it. Usually right about the first part.                                   |
-| 8   | **Convincing Liar** — Tells the truth when convenient. Cannot always tell the difference anymore.                                           |
-| 9   | **Grudge-Holding** — Has a private list. Wrongs do not age out. They wait. Will say they've forgotten.                                      |
-| 10  | **Mercenary Proud** — This is their profession and they take it seriously. They resent men who don't.                                       |
-| 11  | **Death-Easy** — Settled their account with dying long ago. Makes them fearless in ways that look like madness.                             |
-| 12  | **Quietly Violent** — Does not threaten. Does not argue. When the moment comes, they act before anyone else has decided the moment is here. |
+| D66   | PERSONALITY                                                                                                                                 |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| 11-13 | **Flat** — Does not react to blood, screaming, or death. Eats during the aftermath.                                                         |
+| 14-16 | **Calculating** — Counts everything: exits, weapons, faces, who is looking where. Never unprepared, never comfortable.                      |
+| 21-23 | **Scornful** — Finds weakness faintly amusing. Will help, for the right price, and will say so plainly.                                     |
+| 24-26 | **Cruel Practical** — Uses suffering as a tool. Not sadistic — does not enjoy it unless it serves something.                                |
+| 31-33 | **Territorial** — Their gear, their cut, their space. Challenge any of it and they will not forget.                                         |
+| 34-36 | **Dark Amused** — Makes jokes about things others will not name. Laughs at violence. This is just what they are.                            |
+| 41-43 | **Paranoid Competent** — Assumes betrayal will come and plans for it. Usually right about the first part.                                   |
+| 44-46 | **Convincing Liar** — Tells the truth when convenient. Cannot always tell the difference anymore.                                           |
+| 51-53 | **Grudge-Holding** — Has a private list. Wrongs do not age out. They wait. Will say they've forgotten.                                      |
+| 54-56 | **Mercenary Proud** — This is their profession and they take it seriously. They resent men who don't.                                       |
+| 61-63 | **Death-Easy** — Settled their account with dying long ago. Makes them fearless in ways that look like madness.                             |
+| 64-66 | **Quietly Violent** — Does not threaten. Does not argue. When the moment comes, they act before anyone else has decided the moment is here. |
 
 ### Named Man Advancement
 
-After any engagement resulting in a clear victory, roll D6 for each Named Man who fought:
+After any engagement resulting in a clear victory, award XP to each non-player Named Man who fought.
 
-- On a 6: they gain +1 to one stat (player's choice, within reason — MELEE or STRENGTH)
-- On a 5: they develop a new habit or trait (add to personality)
-- On a 1: they took a wound that matters. Roll on the critical injury table.
+- On a 6: award **5 XP**
+- On a 5: award **3 XP**
+- On a 4–3: award **2 XP**
+- On a 2: award **no XP**
+- On a 1: award **3 XP** and the Named Man suffers a meaningful injury. Roll on the critical injury table.
 
 ---
 
@@ -1090,7 +1291,7 @@ When an atrocity occurs:
 
 4. **Bounty:** Anyone with standing and motive can post a bounty within a season of the act. Villages destroyed in an atrocity can be assumed to have survivors in neighboring hexes who will spend years carrying the story forward.
 
-### Plunder and the Dark Arithmetic
+### Plunder
 
 If the atrocity came with material gain — livestock taken, valuables looted, labor captured — MORALE may rise rather than fall, at least in the short term. This is the design's honest acknowledgment of how those situations work. However:
 
@@ -1191,14 +1392,14 @@ The fellowship is subject to standing orders immediately. Breaking one is not gr
 
 Entry rank depends on demonstrated history. A fellowship with no known record enters at FRESH. A fellowship that presents a credible history of engagements may enter at BLADE. The GM decides; the fellowship makes the case.
 
-| RANK        | ENTRY CONDITION                                                                | PAY/DAY  | AUTHORITY AND USE                                                                                                          |
-| ----------- | ------------------------------------------------------------------------------ | -------- | -------------------------------------------------------------------------------------------------------------------------- |
-| FRESH       | First contract, no record                                                      | 1 silver | None. Takes every order from anyone ranked BLADE or higher.                                                                |
-| BLADE       | Fought through at least two engagements and returned. The company has seen it. | 1 silver | May speak at company council. May be assigned a single task detachment.                                                    |
-| NAMED       | Carries a call name (see below).                                               | 2 silver | May lead scouting, flanking, or small detachments of 3–5 men. Assigned own unit.                                           |
-| TENSMAN     | Commands a unit of ten through a full contract.                                | 3 silver | MANIPULATION rolls for their unit's minor discipline. Handles the unit's daily assignments.                                |
-| SERGEANT    | Commanded a section through hard fighting and kept it together.                | 4 silver | May substitute their own MANIPULATION for the captain's on section-level MORALE checks.                                    |
-| FIRST BLADE | The captain's right hand. There is only one at a time.                         | 8 silver | Full authority short of overriding an active contract. Leads the company if the captain is absent, incapacitated, or dead. |
+| RANK        | ENTRY CONDITION                                                                | PAY/DAY    | AUTHORITY AND USE                                                                                                          |
+| ----------- | ------------------------------------------------------------------------------ | ---------- | -------------------------------------------------------------------------------------------------------------------------- |
+| FRESH       | First contract, no record                                                      | 1 silver   | None. Takes every order from anyone ranked BLADE or higher.                                                                |
+| BLADE       | Fought through at least two engagements and returned. The company has seen it. | 1 silver   | May speak at company council. May be assigned a single task detachment.                                                    |
+| CALLED      | Carries a call name (see below).                                               | 2 silver   | May lead scouting, flanking, or small detachments of 3–5 men. Assigned own unit.                                           |
+| TENSMAN     | Commands a unit of ten through a full contract.                                | 3\* silver | MANIPULATION rolls for their unit's minor discipline. Handles the unit's daily assignments.                                |
+| SERGEANT    | Commanded a section through hard fighting and kept it together.                | 4\* silver | May substitute their own MANIPULATION for the captain's on section-level MORALE checks.                                    |
+| FIRST BLADE | The captain's right hand. There is only one at a time.                         | 8\* silver | Full authority short of overriding an active contract. Leads the company if the captain is absent, incapacitated, or dead. |
 
 **Advancing in Rank**
 
