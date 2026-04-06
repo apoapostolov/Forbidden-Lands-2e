@@ -472,7 +472,7 @@ The longbow, or war bow, is a large self-bow usually made from yew and about 6-7
 
 #### LIGHT CROSSBOW
 
-The light crossbow is not a very powerful bow, but it is good enough for combat and is primarily considered a hunting weapon. It is quick and relatively easy to make and is found everywhere.
+The light crossbow is short and quick to span, suited for hunting and skirmishing alike. Its draw weight is modest compared to military stock, but a bolt loosed at range hits hard enough to stop game or drop a man. Easy to make and found everywhere from farmstead to battlefield.
 
 #### HEAVY CROSSBOW
 
