@@ -52,7 +52,7 @@ _Each entry includes a full character sheet built with standard creation rules f
 
 Pale-haired, tall, with the deliberate gait of a woman who has spent too many years making decisions that cost other people. She was not born to command. She learned it the way most things in the Ravenlands are learned: by being the last one standing with enough sense to speak. Her men do not love her. Most of them respect her, which is harder to earn and lasts longer. She named herself the Gristle — not as a compliment, as she points out — after a contract where she was the only one who ate and made the men march on empty. It stuck. She has not tried to lose it.
 
-_Human · Fighter · Adult_ &ensp; **WP Max 7**
+_Human · Fighter · Adult_ **WP Max 7**
 
 | STR | AGI | WIT | EMP |
 | :-: | :-: | :-: | :-: |
@@ -60,7 +60,7 @@ _Human · Fighter · Adult_ &ensp; **WP Max 7**
 
 **Skills:** Melee 3, Endurance 3, Might 2, Move 2, Manipulation 1, Insight 1
 
-**Kin:** Adaptive 1 &ensp; **Profession:** Path of the Commander 2 &ensp; **Languages:** Human 2, Dwarf 1
+**Kin:** Adaptive 1 **Profession:** Path of the Commander 2 **Languages:** Human 2, Dwarf 1
 
 **Gear:** Longsword · Studded leather armor · Contract ledger · D6 Silver · Food D8 · Water D6
 
@@ -76,7 +76,7 @@ _Human · Fighter · Adult_ &ensp; **WP Max 7**
 
 Old soldier, thick through the neck, carries the ledger the way some men carry a sword — like it is the thing that keeps order and he knows it. Gest has been doing this longer than the Gristle has been alive, or says so, and nobody has contradicted him to his satisfaction. He does not give speeches. He gives instructions, once, and then watches to see if you followed them. If you did not, something happens to your pay.
 
-_Human · Fighter · Old_ &ensp; **WP Max 7**
+_Human · Fighter · Old_ **WP Max 7**
 
 | STR | AGI | WIT | EMP |
 | :-: | :-: | :-: | :-: |
@@ -86,7 +86,7 @@ _Human · Fighter · Old_ &ensp; **WP Max 7**
 
 _Old characters may assign up to 4 points to one profession skill. Melee 4 applies here._
 
-**Kin:** Adaptive 1 &ensp; **Profession:** Path of the Blade 2 &ensp; **Languages:** Human 2, Dwarf 1 &ensp; **General:** Executioner 1, Threatening 1
+**Kin:** Adaptive 1 **Profession:** Path of the Blade 2 **Languages:** Human 2, Dwarf 1 **General:** Executioner 1, Threatening 1
 
 **Gear:** Longsword · Studded leather armor · Pay ledger · D6 Silver · Food D8 · Water D6
 
@@ -102,7 +102,7 @@ _Old characters may assign up to 4 points to one profession skill. Melee 4 appli
 
 Nine years at this. Knee that has been bad for six of them and will never be good again. He sharpens things that do not need sharpening. He does not complain about pain, cold, hunger, heat, short pay, bad contracts, or long roads, because dwarves who complain about those things are dwarves who did not last. He carries the debts of every man who died under his watch and pays them on the spring road to whatever family is left. He has never spoken about why he is still doing this. Nobody has asked.
 
-_Dwarf · Fighter · Adult_ &ensp; **WP Max 7**
+_Dwarf · Fighter · Adult_ **WP Max 7**
 
 | STR | AGI | WIT | EMP |
 | :-: | :-: | :-: | :-: |
@@ -112,7 +112,7 @@ _Dwarf and Fighter both key Strength — maximum Strength at creation is 6._
 
 **Skills:** Melee 3, Endurance 3, Might 2, Crafting 3, Scouting 1
 
-**Kin:** True Grit 1 &ensp; **Profession:** Path of the Blade 1 &ensp; **Languages:** Dwarf 2, Human 1 &ensp; **General:** Pain Resistant 1
+**Kin:** True Grit 1 **Profession:** Path of the Blade 1 **Languages:** Dwarf 2, Human 1 **General:** Pain Resistant 1
 
 **Gear:** Handaxe · Studded leather armor · Whetstone · D6 Silver · Food D8 · Water D6
 
@@ -128,7 +128,7 @@ _Dwarf and Fighter both key Strength — maximum Strength at creation is 6._
 
 Older than Petter and quieter. He was a stoneworker in the quarries south of the Amber Peaks until the quarry stopped paying, and then he picked up a sword because the sword paid, which he will tell you is the only reason anyone picks up a sword. He holds the center of a shield wall without being told. He has no named agenda. He has the specific competence of a man who has learned to be useful in exactly one situation and made peace with it.
 
-_Dwarf · Fighter · Old_ &ensp; **WP Max 6**
+_Dwarf · Fighter · Old_ **WP Max 6**
 
 | STR | AGI | WIT | EMP |
 | :-: | :-: | :-: | :-: |
@@ -138,7 +138,7 @@ _Dwarf and Fighter both key Strength — maximum Strength at creation is 6. Old 
 
 **Skills:** Melee 3, Endurance 4, Might 3, Crafting 3, Move 1, Survival 1, Scouting 1
 
-**Kin:** True Grit 1 &ensp; **Profession:** Path of the Shield 2 &ensp; **Languages:** Dwarf 2, Human 1 &ensp; **General:** Shield Fighter 1, Firm Grip 1
+**Kin:** True Grit 1 **Profession:** Path of the Shield 2 **Languages:** Dwarf 2, Human 1 **General:** Shield Fighter 1, Firm Grip 1
 
 **Gear:** Shortsword · Large shield · Studded leather armor · Mason's chisel · D6 Silver · Food D8 · Water D6
 
@@ -154,7 +154,7 @@ _Dwarf and Fighter both key Strength — maximum Strength at creation is 6. Old 
 
 New. Good shoulders, clean teeth, a scar across the back of his left hand that says he blocked a blade once. He does everything wrong in the line — punches with the shield, surges when Gest calls hold, watches the weapon instead of the feet. He is learning. He is also watching Ferrec more than he watches Petter, which is a bad sign that nobody has mentioned to him.
 
-_Human · Fighter · Young_ &ensp; **WP Max 7**
+_Human · Fighter · Young_ **WP Max 7**
 
 | STR | AGI | WIT | EMP |
 | :-: | :-: | :-: | :-: |
@@ -162,7 +162,7 @@ _Human · Fighter · Young_ &ensp; **WP Max 7**
 
 **Skills:** Melee 2, Endurance 2, Might 2, Move 2
 
-**Kin:** Adaptive 1 &ensp; **Profession:** Path of the Blade 1 &ensp; **Languages:** Human 2
+**Kin:** Adaptive 1 **Profession:** Path of the Blade 1 **Languages:** Human 2
 
 **Gear:** Shortsword · Studded leather armor · Spare knife · D6 Silver · Food D8 · Water D6
 
@@ -178,7 +178,7 @@ _Human · Fighter · Young_ &ensp; **WP Max 7**
 
 The boy. Short and stocky, light-haired, the kind of pale that comes from flat grey country and not enough sky. He washes his boots every morning. He has been saving toward a plot near a river since before he joined and the figure keeps changing. He is careful in the specific way of young men who have not yet learned which things are worth checking, so he checks everything. By the end of the vignettes he has earned a name.
 
-_Human · Fighter · Young_ &ensp; **WP Max 8**
+_Human · Fighter · Young_ **WP Max 8**
 
 | STR | AGI | WIT | EMP |
 | :-: | :-: | :-: | :-: |
@@ -186,7 +186,7 @@ _Human · Fighter · Young_ &ensp; **WP Max 8**
 
 **Skills:** Melee 2, Move 2, Endurance 2, Scouting 1, Survival 1
 
-**Kin:** Adaptive 1 &ensp; **Profession:** Path of the Blade 1 &ensp; **Languages:** Human 2
+**Kin:** Adaptive 1 **Profession:** Path of the Blade 1 **Languages:** Human 2
 
 **Gear:** Handaxe (Haldr's) · Studded leather armor · Haldr's boots · D6 Silver · Food D8 · Water D6
 
@@ -202,7 +202,7 @@ _Human · Fighter · Young_ &ensp; **WP Max 8**
 
 Thief. Not by profession, just by character — the kind of man who weights a scale in his favor wherever a scale appears, which extends to coins in other men's kits, loyalties, information, and blame. He has a flat-boned face and dark, quick eyes and the particular talent of appearing to be somewhere else when things go wrong. He is useful in three situations and dangerous in the other twenty. The Gristle knows this. She has not yet decided what to do about it.
 
-_Human · Rogue · Adult_ &ensp; **WP Max 7**
+_Human · Rogue · Adult_ **WP Max 7**
 
 | STR | AGI | WIT | EMP |
 | :-: | :-: | :-: | :-: |
@@ -210,7 +210,7 @@ _Human · Rogue · Adult_ &ensp; **WP Max 7**
 
 **Skills:** Stealth 3, Sleight of Hand 3, Move 2, Manipulation 2, Scouting 1, Insight 1
 
-**Kin:** Adaptive 1 &ensp; **Profession:** Path of the Burglar 2 &ensp; **Languages:** Human 2, Halfling 1
+**Kin:** Adaptive 1 **Profession:** Path of the Burglar 2 **Languages:** Human 2, Halfling 1
 
 **Gear:** Dagger · Lockpicks · Spare coin pouch · D10 Silver · Food D6 · Water D6
 
@@ -226,7 +226,7 @@ _Human · Rogue · Adult_ &ensp; **WP Max 7**
 
 She came to them at a river crossing south of Ravenford with a staff taller than she was and a cloak that was more patches than original cloth. She has the half-elf look — sharp bones, pale eyes, the face of someone told she was the crown of creation by one half of her family and something regrettable by the other. She can stop a man's bleeding with a word. She keeps a ward on the camp perimeter that costs her a nosebleed every morning. She told the Gristle the ground ahead was wrong, twice, before the Gristle stopped asking her to justify it.
 
-_Half-Elf · Sorcerer · Adult_ &ensp; **WP Max 9**
+_Half-Elf · Sorcerer · Adult_ **WP Max 9**
 
 | STR | AGI | WIT | EMP |
 | :-: | :-: | :-: | :-: |
@@ -236,7 +236,7 @@ _Half-Elf and Sorcerer both key Wits — maximum Wits at creation is 6._
 
 **Skills:** Lore 3, Insight 3, Crafting 2, Manipulation 2, Sleight of Hand 1, Healing 1
 
-**Kin:** Psychic Power 1 &ensp; **Profession:** Path of Blood 2 &ensp; **Languages:** Human 2, Elf 1
+**Kin:** Psychic Power 1 **Profession:** Path of Blood 2 **Languages:** Human 2, Elf 1
 
 **Gear:** Walking staff · Knife · Patched traveling cloak · D8 Silver · Food D6 · Water D6
 
@@ -252,7 +252,7 @@ _Half-Elf and Sorcerer both key Wits — maximum Wits at creation is 6._
 
 Compact and dark-eyed, built low and close the way horse-country makes men. He has been with the company four years, which is long enough to say things the common men are not entitled to say. He is a good fighter and a liability in villages. The Gristle has paid out of her own share to manage the liability twice. She has not told him this.
 
-_Human · Rider · Adult_ &ensp; **WP Max 6**
+_Human · Rider · Adult_ **WP Max 6**
 
 | STR | AGI | WIT | EMP |
 | :-: | :-: | :-: | :-: |
@@ -260,7 +260,7 @@ _Human · Rider · Adult_ &ensp; **WP Max 6**
 
 **Skills:** Melee 3, Survival 3, Animal Handling 2, Marksmanship 2, Endurance 1, Move 1
 
-**Kin:** Adaptive 1 &ensp; **Profession:** Path of the Plains 2 &ensp; **Languages:** Human 2, Dwarf 1
+**Kin:** Adaptive 1 **Profession:** Path of the Plains 2 **Languages:** Human 2, Dwarf 1
 
 **Gear:** Plains horse · Handaxe · Short bow · Trail provisions · D6 Silver · Food D8 · Water D8 · Arrows D10
 
@@ -276,7 +276,7 @@ _Human · Rider · Adult_ &ensp; **WP Max 6**
 
 Died at the clearing contract. A cave mouth, a thing inside, and Haldr too far forward when it came out. His boots went to Skalva. His axe went to Weatherstone with Petter. His spot at the fire took several days to fill.
 
-_Human · Fighter · Young — **Posthumous record.** His axe went to Weatherstone with Petter. His boots went to Skalva._
+\_Human · Fighter · Young — **Posthumous record.**
 
 | STR | AGI | WIT | EMP |
 | :-: | :-: | :-: | :-: |
@@ -284,7 +284,7 @@ _Human · Fighter · Young — **Posthumous record.** His axe went to Weathersto
 
 **Skills:** Melee 2, Endurance 2, Move 2, Survival 1, Scouting 1
 
-**Kin:** Adaptive 1 &ensp; **Profession:** Path of the Blade 1 &ensp; **Languages:** Human 2
+**Kin:** Adaptive 1 **Profession:** Path of the Blade 1 **Languages:** Human 2
 
 **Gear:** Handaxe (now at Weatherstone) · Studded leather armor · Boots (now Skalva's) · D6 Silver · Food D8 · Water D6
 

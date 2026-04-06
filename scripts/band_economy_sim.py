@@ -374,6 +374,26 @@ class Band:
         self.expense_wages += wages
         self.expense_food  += food_cost
 
+    def pay_daily_v6(self, terrain, rng):
+        # V6 additive model: retainer runs every day.
+        # On active work, mission pay (half daily wage) accrues on top.
+        if self.on_mission:
+            wages = self.daily_retainer + self.daily_wage * MISSION_PAY_FRACTION
+        else:
+            wages = self.daily_retainer
+        forage_frac = 0.30 if self.on_mission else 0.70
+        foraged = self.forage(terrain, rng, forage_frac)
+        food_cost = max(0.0, self.size*FOOD_PER_MAN_DAY - foraged) * FOOD_PRICE
+        total = wages + food_cost
+        if self.treasury >= total:
+            self.treasury -= total
+            self.days_unpaid = 0
+        else:
+            self.treasury -= max(0.0, self.treasury)
+            self.days_unpaid += 1
+        self.expense_wages += wages
+        self.expense_food  += food_cost
+
     def split_loot_v2(self, loot_pool, rng):
         if loot_pool <= 0:
             return
@@ -454,8 +474,10 @@ def _run_band(band, rng, world, model="v1", contracts=None, bounties=None):
 
         if model in ("v2", "v3"):
             band.pay_daily_v2(terrain, rng)
-        elif model in ("v5", "v6"):
+        elif model == "v5":
             band.pay_daily_v5(terrain, rng)
+        elif model == "v6":
+            band.pay_daily_v6(terrain, rng)
         else:
             band.pay_daily_v1(terrain, rng)
 
@@ -529,7 +551,9 @@ def _run_band(band, rng, world, model="v1", contracts=None, bounties=None):
                 # Garrison contracts: accepted on retainer-cost basis, not mission-wage basis
                 if ct.get("garrison"):
                     exp_cost = band.daily_retainer * ct["duration"] * 1.1
-                elif model in ("v5", "v6"):
+                elif model == "v6":
+                    exp_cost = (band.daily_retainer + band.daily_wage * MISSION_PAY_FRACTION) * ct["duration"] * 1.1
+                elif model == "v5":
                     exp_cost = band.daily_wage * MISSION_PAY_FRACTION * ct["duration"] * 1.1
                 else:
                     exp_cost = band.daily_wage * ct["duration"] * 1.1
@@ -729,7 +753,8 @@ def print_comparison(v1s, v2s, v3s=None, v5s=None, v6s=None):
         print("  " + "─"*96)
 
     print(f"\n  Dead-time burn:   V1 {daily_wage_base:.1f}s/day (full wages) | V2/V3/V5/V6 retainer {retainer_base:.2f}s/day")
-    print(f"  Mission pay rate: V1/V2/V3 {daily_wage_base:.1f}s/day | V5/V6 {mission_v5:.2f}s/day (half rate)")
+    print(f"  Mission pay rate: V1/V2/V3 {daily_wage_base:.1f}s/day | V5 {mission_v5:.2f}s/day (half rate, mission-only)")
+    print(f"  V6 mission total: {retainer_base:.2f}s (retainer) + {mission_v5:.2f}s (mission) = {retainer_base+mission_v5:.2f}s/day (additive)")
     print(f"  Contract floor:   V3/V5 at {daily_wage_base:.0f}s/day baseline | V6 at −30% (−20% haggled)")
     print(f"  Runway on 100s:   V1 ~{100/daily_wage_base:.0f}d | V2/V3/V5/V6 ~{100/retainer_base:.0f}d")
 
@@ -793,16 +818,16 @@ def print_problems(v1, v2, v3=None, v5=None, v6=None):
     Wage expenditure: {v5['m_exp_wages']:.0f}s vs V3 {v3['m_exp_wages']:.0f}s (−{v3['m_exp_wages']-v5['m_exp_wages']:.0f}s)""")
     if v6 and v5:
         v6_daily_ct  = v6["m_inc_contracts"] / max(1, v6["m_contract_days"])
+        additive_mission = retainer + mission_v5
         haggle_pct   = round(1 - (1/6)**HAGGLE_DICE, 3) * 100
-        floor_30     = CONTRACT_TYPES_V6[0][1]   # patrol_week min as proxy
         print(f"""
-  V6 CHANGES (struggling world — −30% contract floor + haggling):
-    Contract base: −30% off V3 rates ({floor_30}s min for patrol week)
-    Haggle roll:   {HAGGLE_DICE}d6, 1+ success (6) → −20% pricing (~{haggle_pct:.0f}% of contracts)
-    Mission pay:   same as V5 (half rate, active work only)
+  V6 CHANGES (additive pay + struggling world — −30% contract floor + haggling):
+    Pay model:     retainer ({retainer:.2f}s/day) + mission pay ({mission_v5:.2f}s/day) = {additive_mission:.2f}s/day on active work
+    Contract base: −30% off V3 rates, haggle ({HAGGLE_DICE}d6, 1+ success → −20%, ~{haggle_pct:.0f}% of contracts)
+    Travel:        on retainer only (mission pay does not accrue while marching)
 
   V6 RESULT:
-    Contract income/day: {v6_daily_ct:.1f}s  | mission pay cost/day: {mission_v5:.1f}s  | gross/day on mission: +{v6_daily_ct-mission_v5:.1f}s
+    Contract income/day: {v6_daily_ct:.1f}s  | mission total cost/day: {additive_mission:.2f}s  | gross/day on mission: {v6_daily_ct-additive_mission:+.1f}s
     Net margin: {v6['m_net_margin']*100:+.1f}%  ({v6['m_total_inc']-v6['m_total_exp']:+.0f}s/year)
     Wage expenditure: {v6['m_exp_wages']:.0f}s vs V5 {v5['m_exp_wages']:.0f}s | contract income: {v6['m_inc_contracts']:.0f}s vs V5 {v5['m_inc_contracts']:.0f}s""")
     elif not v3:
