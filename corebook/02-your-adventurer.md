@@ -680,39 +680,12 @@ After the end of a game session, you are free to redefine your relationships to 
 
 ### REPUTATION
 
-As an adventurer in the Forbidden Lands, word of your deeds will spread far and wide - assuming you live long enough. This is represented by your Reputation score, which will determine the chance of you being recognized and can affect social conflicts.
+Reputation in the Forbidden Lands is local. A deed done in one valley does not echo across every ford and market in the land. Your name grows where people have reason to remember it, and it fades where the roads run thin.
 
-Your Reputation score only tells you how well known you are, not if you are feared or admired – that depends on the type of deeds for which you are known. Your starting Reputation score depends on your age (see the table below).
+Every adventurer begins with a home settlement — the village, town, or camp where they grew up or spent their last years before taking to the road. You start with Settlement Reputation 6 and Standing +1 there. The people know your face, your kin, and enough of your business to form an opinion. That is not fame, but the ordinary weight of being a neighbor.
 
-| AGE   | STARTING REPUTATION |
-| ----- | ------------------- |
-| Young | 0                   |
-| Adult | 1                   |
-| Old   | 2                   |
+The GM should also consider any settlement within a day's walk along a road or river. Before the Blood Mist lifted, few people traveled farther than that — a night in the open meant death, and life contracted to whatever could be reached and returned from between sunrise and dark. A market town where your family traded grain, a ferry crossing you used every season, a shrine where your mother left offerings — these places may know your name at Reputation 1 or so, depending on how connected the area is.
 
-#### BEING RECOGNIZED
+If your backstory calls for it, you may choose worse Standing in your home settlement. A thief, a debtor, a disgrace to the family, or someone who left blood behind the door would start at Standing 0 or lower instead. Work this out with the GM.
 
-When you arrive at a new settlement in the Forbidden Lands, there is a chance that the people there have heard of you. You must be introduced by name or have a truly distinctive appearance for this to happen.
-
-Roll a number of D6 equal to your Reputation score. If you roll one or more sixes (the X symbol on the custom dice), your Reputation precedes you and people have heard of you and your deeds. Whether they react negatively or positively depends on which deeds you are known for, and is for the GM to decide.
-
-KIN: If the settlement you visit is primarily populated by another kin than your own, your Reputation score counts as two steps lower than normal.
-
-THE GROUP: When an entire fellowship of adventurers arrives at a new settlement, you don't roll for Reputation for each PC. Instead, roll only for the adventurer with the highest Reputation score. The roll applies to the entire group.
-
-NPCs can also have a Reputation score. When you meet such an NPC, roll dice in the same way as outlined above to determine if you have heard of this person.
-
-#### MANIPULATION
-
-When you try to _manipulate_ someone, your respective Reputation scores can affect the outcome. Read more about the _manipulation_ skill in Chapter 3.
-
-#### GROWING YOUR REPUTATION
-
-During the game, your Reputation score will increase. After a game session in which you have performed one or more great or terrible deeds of some kind, one which was made known to the world and will be spoken of for years to come, your Reputation score increases one point. What counts as a "great or terrible deed" is up to the GM, but here are some examples:
-
-- A prominent NPC was killed, or saved from certain death.
-- A feared monster was slain.
-- A legendary treasure or artifact was found or stolen.
-- The deed permanently altered the overall situation in an adventure site.
-- The deed will have significant consequences for one of the major powers in the Forbidden Lands.
-- You have built a certain function in your stronghold.
+Read more about the full Reputation rules in Chapter 8.

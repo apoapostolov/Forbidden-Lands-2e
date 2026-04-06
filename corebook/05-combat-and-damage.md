@@ -428,7 +428,7 @@ Each of the following factors modifies your roll by -1:
 
 #### REPUTATION
 
-Your chances of _MANIPULATING_ someone are also affected by your Reputation scores. If your Reputation is higher, you get a +1 modification to your roll, and if your Reputation is more than twice that of your opponent's, you get +2. If your opponent has a higher score, they get the same bonus as above.
+Your chances of _MANIPULATING_ someone are also affected by your local Reputation scores. Use the fellowship's Reputation in the settlement or trade circle where the interaction takes place. If your local Reputation is higher than your opponent's, you get a +1 modification to your roll. If your local Reputation is more than twice that of your opponent's, you get +2. If your opponent has a higher score, they get the same bonus. Standing may further modify the outcome — read more in Chapter 8.
 
 #### MANIPULATE A GROUP
 
@@ -541,46 +541,46 @@ Fine weapons require a specialist and proper tools; crude weapons can be made wi
 
 ### MELEE WEAPONS
 
-| WEAPON                       | GRIP | BONUS | DAMAGE | RANGE | COST | FEATURES                                               |
-| ---------------------------- | ---- | ----- | ------ | ----- | ---- | ------------------------------------------------------ |
-| Unarmed                      | —    | —     | 1      | Arm   | —    | Blunt, Short-reach                                     |
-| Knuckledusters/(Gauntlet)    | 1H   | +1    | 1      | Arm   | 1    | Tiny, Blunt, Unarmed                                   |
-| Shiv                         | 1H   | +1    | 1      | Arm   | 0.5  | Tiny, Pointed, Short-reach                             |
-| Knife                        | 1H   | +1    | 2      | Arm   | 1    | Light, Pointed, Short-reach                            |
-| Dagger                       | 1H   | +1    | 2      | Arm   | 2    | Light, Edged, Pointed, Short-reach                     |
-| Sai/Parrying Dagger          | 1H   | +1    | 2      | Arm   | 8    | Light, Pointed, Parrying, Trapping, Short-reach        |
-| Seax                         | 1H   | +1    | 1      | Arm   | 3    | Edged, Pointed, Short-reach                            |
-| Shortsword                   | 1H   | +1    | 2      | Arm   | 6    | Tough, Edged, Pointed, Parrying                        |
-| Swordbreaker                 | 1H   | +1    | 2      | Arm   | 14   | Tough, Edged, Pointed, Parrying, Trapping              |
-| Scimitar/Sabre               | 1H   | +1    | 2      | Arm   | 8    | Tough, Edged, Pointed, Parrying, Hook                  |
-| Falchion/Cutlass             | 1H   | +2    | 2      | Arm   | 4    | Edged, Pointed                                         |
-| Broadsword/Armingsword       | 1H   | +2    | 2      | Arm   | 10   | Edged, Pointed, Parrying                               |
-| Rapier                       | 1H   | +2    | 2      | Arm   | 20   | Tough, Edged, Pointed, Parrying                        |
-| Tuck (Estoc)                 | 2H   | +2    | 2      | Arm   | 24   | Pointed, Pierce Armor                                  |
-| Bastard Sword (1H Longsword) | 1H   | +2    | 2      | Arm   | 18   | Tough, Edged, Pointed, Parrying, Half-Hand             |
-| 2H Longsword/Claymore        | 2H   | +2    | 3      | Arm   | 25   | Heavy, Edged, Pointed, Parrying, Half-Hand             |
-| Greatsword                   | 2H   | +2    | 3      | Arm   | 40   | Tough, Heavy, Edged, Pointed, Parrying, Half-Hand      |
-| Handaxe                      | 1H   | +1    | 2      | Arm   | 2    | Edged, Hook, Shield-breaker                            |
-| Battleaxe                    | 1H   | +1    | 2      | Arm   | 6    | Tough, Heavy, Edged, Hook, Shield-breaker              |
-| Two-Handed Axe               | 2H   | +2    | 3      | Arm   | 12   | Heavy, Edged, Hook, Shield-breaker                     |
-| Mace                         | 1H   | +1    | 2      | Arm   | 4    | Tough, Blunt, Shield-breaker                           |
-| Morningstar                  | 1H   | +2    | 2      | Arm   | 8    | Tough, Blunt                                           |
-| Warhammer                    | 1H   | +2    | 2      | Arm   | 12   | Blunt, Pick, Hook, Shield-breaker                      |
-| Maul/Heavy Warhammer         | 2H   | +1    | 3      | Arm   | 22   | Tough, Heavy, Blunt, Pick, Hook, Shield-breaker, Smashing        |
-| Flail                        | 1H   | +2    | 2      | Arm   | 16   | Blunt, Chained                                         |
-| Two-Handed Flail             | 2H   | +2    | 2      | Near  | 20   | Tough, Blunt, Chained, Smashing                                  |
-| Rust Censer                  | 1H   | +1    | 2      | Arm   | 16   | Blunt, Chained, Burning                                |
-| Wooden Club                  | 1H   | +1    | 1      | Arm   | 1    | Blunt                                                  |
-| Large Wooden Club            | 2H   | +1    | 2      | Arm   | 2    | Heavy, Blunt                                           |
-| Staff                        | 2H   | +1    | 1      | Arm   | 1    | Blunt, Parrying, Hook                                  |
-| Short Spear                  | 1H   | +1    | 2      | Near  | 2    | Pointed, Long-reach                                    |
-| Long Spear                   | 2H   | +2    | 2      | Near  | 4    | Pointed, Long-reach                                    |
-| Pike/Lance                   | 2H   | +3    | 2      | Near  | 12   | Heavy, Pointed, Long-reach                             |
-| Halberd/Bill                 | 2H   | +3    | 2      | Near  | 30   | Heavy, Pointed, Edged, Hook, Polearm, Long-reach       |
-| Poleaxe                      | 2H   | +3    | 2      | Near  | 30   | Heavy, Pointed, Edged, Hook, Polearm, Pick, Long-reach |
-| Trident                      | 2H   | +1    | 2      | Near  | 6    | Pointed, Hook, Trapping, Long-reach                    |
-| Whip                         | 1H   | +1    | 1      | Near  | 2    | Light, Edged, Hook, Chained, Flexible, Armor Rating x2           |
-| Bladed Whip                  | 1H   | +1    | 1      | Near  | 6    | Light, Edged, Hook, Chained, Flexible                            |
+| WEAPON                       | GRIP | BONUS | DAMAGE | RANGE | COST | FEATURES                                                  |
+| ---------------------------- | ---- | ----- | ------ | ----- | ---- | --------------------------------------------------------- |
+| Unarmed                      | —    | —     | 1      | Arm   | —    | Blunt, Short-reach                                        |
+| Knuckledusters/(Gauntlet)    | 1H   | +1    | 1      | Arm   | 1    | Tiny, Blunt, Unarmed                                      |
+| Shiv                         | 1H   | +1    | 1      | Arm   | 0.5  | Tiny, Pointed, Short-reach                                |
+| Knife                        | 1H   | +1    | 2      | Arm   | 1    | Light, Pointed, Short-reach                               |
+| Dagger                       | 1H   | +1    | 2      | Arm   | 2    | Light, Edged, Pointed, Short-reach                        |
+| Sai/Parrying Dagger          | 1H   | +1    | 2      | Arm   | 8    | Light, Pointed, Parrying, Trapping, Short-reach           |
+| Seax                         | 1H   | +1    | 1      | Arm   | 3    | Edged, Pointed, Short-reach                               |
+| Shortsword                   | 1H   | +1    | 2      | Arm   | 6    | Tough, Edged, Pointed, Parrying                           |
+| Swordbreaker                 | 1H   | +1    | 2      | Arm   | 14   | Tough, Edged, Pointed, Parrying, Trapping                 |
+| Scimitar/Sabre               | 1H   | +1    | 2      | Arm   | 8    | Tough, Edged, Pointed, Parrying, Hook                     |
+| Falchion/Cutlass             | 1H   | +2    | 2      | Arm   | 4    | Edged, Pointed                                            |
+| Broadsword/Armingsword       | 1H   | +2    | 2      | Arm   | 10   | Edged, Pointed, Parrying                                  |
+| Rapier                       | 1H   | +2    | 2      | Arm   | 20   | Tough, Edged, Pointed, Parrying                           |
+| Tuck (Estoc)                 | 2H   | +2    | 2      | Arm   | 24   | Pointed, Pierce Armor                                     |
+| Bastard Sword (1H Longsword) | 1H   | +2    | 2      | Arm   | 18   | Tough, Edged, Pointed, Parrying, Half-Hand                |
+| 2H Longsword/Claymore        | 2H   | +2    | 3      | Arm   | 25   | Heavy, Edged, Pointed, Parrying, Half-Hand                |
+| Greatsword                   | 2H   | +2    | 3      | Arm   | 40   | Tough, Heavy, Edged, Pointed, Parrying, Half-Hand         |
+| Handaxe                      | 1H   | +1    | 2      | Arm   | 2    | Edged, Hook, Shield-breaker                               |
+| Battleaxe                    | 1H   | +1    | 2      | Arm   | 6    | Tough, Heavy, Edged, Hook, Shield-breaker                 |
+| Two-Handed Axe               | 2H   | +2    | 3      | Arm   | 12   | Heavy, Edged, Hook, Shield-breaker                        |
+| Mace                         | 1H   | +1    | 2      | Arm   | 4    | Tough, Blunt, Shield-breaker                              |
+| Morningstar                  | 1H   | +2    | 2      | Arm   | 8    | Tough, Blunt                                              |
+| Warhammer                    | 1H   | +2    | 2      | Arm   | 12   | Blunt, Pick, Hook, Shield-breaker                         |
+| Maul/Heavy Warhammer         | 2H   | +1    | 3      | Arm   | 22   | Tough, Heavy, Blunt, Pick, Hook, Shield-breaker, Smashing |
+| Flail                        | 1H   | +2    | 2      | Arm   | 16   | Blunt, Chained                                            |
+| Two-Handed Flail             | 2H   | +2    | 2      | Near  | 20   | Tough, Blunt, Chained, Smashing                           |
+| Rust Censer                  | 1H   | +1    | 2      | Arm   | 16   | Blunt, Chained, Burning                                   |
+| Wooden Club                  | 1H   | +1    | 1      | Arm   | 1    | Blunt                                                     |
+| Large Wooden Club            | 2H   | +1    | 2      | Arm   | 2    | Heavy, Blunt                                              |
+| Staff                        | 2H   | +1    | 1      | Arm   | 1    | Blunt, Parrying, Hook                                     |
+| Short Spear                  | 1H   | +1    | 2      | Near  | 2    | Pointed, Long-reach                                       |
+| Long Spear                   | 2H   | +2    | 2      | Near  | 4    | Pointed, Long-reach                                       |
+| Pike/Lance                   | 2H   | +3    | 2      | Near  | 12   | Heavy, Pointed, Long-reach                                |
+| Halberd/Bill                 | 2H   | +3    | 2      | Near  | 30   | Heavy, Pointed, Edged, Hook, Polearm, Long-reach          |
+| Poleaxe                      | 2H   | +3    | 2      | Near  | 30   | Heavy, Pointed, Edged, Hook, Polearm, Pick, Long-reach    |
+| Trident                      | 2H   | +1    | 2      | Near  | 6    | Pointed, Hook, Trapping, Long-reach                       |
+| Whip                         | 1H   | +1    | 1      | Near  | 2    | Light, Edged, Hook, Chained, Flexible, Armor Rating x2    |
+| Bladed Whip                  | 1H   | +1    | 1      | Near  | 6    | Light, Edged, Hook, Chained, Flexible                     |
 
 ### RANGED WEAPONS
 

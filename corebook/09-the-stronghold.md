@@ -54,7 +54,7 @@ To keep track of the features of your stronghold, use the stronghold sheet found
 
 A stronghold has two base effects:
 
-- You can *rest* and *sleep* undisturbed there, without risking any mishaps. You do not lose WILLPOWER when resting in comfort in your stronghold.
+- You can _rest_ and _sleep_ undisturbed there, without risking any mishaps. You do not lose WILLPOWER when resting in comfort in your stronghold.
 - Each adventurer in your group gains one WP when you arrive home to your stronghold and spend at least one day there. You can only gain one WP each session in this way.
 
 A stronghold can help you in many other ways, but for that, you will need functions and hire lings – more on those below.
@@ -91,7 +91,7 @@ A stronghold can serve as an adventure site where the adventure comes to the pla
 
 **EXAMPLE**
 
-*The sorcerer Nirmena and the dwarf Tyrgar have found an old castle ruin that they want to turn into their own stronghold. Having chased off the band of goblins that lived in the castle, they start to clean up. Tyrgar makes a CRAFTING roll with help from Nirmena. The roll is a success and the old, dilapidated castle is now a functioning stronghold. The GM determines that the castle has a working FIREPLACE, but that its walls are too ruined to work as RAMPARTS.*
+_The sorcerer Nirmena and the dwarf Tyrgar have found an old castle ruin that they want to turn into their own stronghold. Having chased off the band of goblins that lived in the castle, they start to clean up. Tyrgar makes a CRAFTING roll with help from Nirmena. The roll is a success and the old, dilapidated castle is now a functioning stronghold. The GM determines that the castle has a working FIREPLACE, but that its walls are too ruined to work as RAMPARTS._
 
 ### FUNCTIONS & HIRELINGS
 
@@ -115,7 +115,7 @@ If the roll fails, the same PC can’t try to build the same function again unti
 
 **DUPLICATE STRONGHOLD FUNCTIONS:** If you build a stronghold function again, it adds only half its Reputation to the stronghold, and if you add it again, it adds half of that, and so on. Subdividing (3 Dungeons: 1 + 0.5 + 0.25; 3 Forges: 1 + 0.5 + 0.25) adds +3 Reputation to the stronghold, rounded down to 3. If you build a function again, but in another second stronghold, you add the full Reputation bonus to that stronghold, and no extra Reputation to the first.
 
-**PLAYER REPUTATION:** Player characters add half of their most famous stronghold Reputation to their own Reputation score. If they own several strongholds, they must halve it again for each extra stronghold, i.e., a fourth from their second, an eighth from their third, and so on. Example: If you own two strongholds, “Bergwall” at 9 Reputation and “Slavesilk” at 7 Reputation, they add a total of 9/2 + 7/4 = 4.5 + 1.75 = 6.25 Reputation to the player characters, rounded down to 6.
+**PLAYER REPUTATION:** A stronghold's Reputation radiates outward by distance and travel routes as described in Chapter 8. Nearby settlements may recognize the banner before they know the faces behind it. Over time, repeated recognition becomes permanent local Settlement Reputation for the fellowship.
 
 **STAFF:** Most functions need to be staffed by a PC or an NPC (usually a hireling) to have any effect. In some cases, the staff is required to have a certain talent, and sometimes dice need to be rolled. Only PCs roll dice for functions – NPCs are assumed to succeed automatically (with one ⚔️).
 
@@ -231,9 +231,9 @@ If you have the **MASTER BUILDER** hireling in your stronghold, you can have him
 
 **EXAMPLE**
 
-*Nirmena and Tyrgar are working on their stronghold, and start out with building ramparts, a fireplace, and a scriptorium. Tyrgar has skill level 4 in CRAFTING and the BUILDER talent (level 1), and Nirmena helps out. Tyrgar spends four times the required amount of time on the work. In total, this gives Tyrgar a +4 modifier to all rolls. All three rolls succeed and, after 4+ days, the functions are all complete.*
+_Nirmena and Tyrgar are working on their stronghold, and start out with building ramparts, a fireplace, and a scriptorium. Tyrgar has skill level 4 in CRAFTING and the BUILDER talent (level 1), and Nirmena helps out. Tyrgar spends four times the required amount of time on the work. In total, this gives Tyrgar a +4 modifier to all rolls. All three rolls succeed and, after 4+ days, the functions are all complete._
 
-*Next, Nirmena and Tyrgar hire a HANDYMAN and GUARD, as they are about to go on another journey. They pay one week's salary in advance, but end up staying away longer. After one week, the players must roll on the table for non- payment (see above). They roll a 6 and a 2 – the HANDYMAN stays on, but the GUARD leaves her post and steals a barrel of mead as she goes.*
+_Next, Nirmena and Tyrgar hire a HANDYMAN and GUARD, as they are about to go on another journey. They pay one week's salary in advance, but end up staying away longer. After one week, the players must roll on the table for non- payment (see above). They roll a 6 and a 2 – the HANDYMAN stays on, but the GUARD leaves her post and steals a barrel of mead as she goes._
 
 ### KEEPING WATCH
 
@@ -441,7 +441,7 @@ A ditch is like a moat but without water. You are considered to have left a smal
 
 Homing pigeons are useful for quickly sending messages home to the stronghold from other parts of the Forbidden Lands, and can justify arrangements where travelers carry pigeons in exchange for being allowed to trade with your stronghold.
 
-✦ **REQUIREMENT:** Pigeons, which must be bought or stolen separately. A successful *Animal Handling* roll is needed to catch and tame them.
+✦ **REQUIREMENT:** Pigeons, which must be bought or stolen separately. A successful _Animal Handling_ roll is needed to catch and tame them.
 ✦ **RAW MATERIALS:** 30 Wood
 ✦ **TOOLS:** Saw, hammer
 ✦ **TIME:** One day
@@ -657,7 +657,7 @@ If you want to make your own flour in the stronghold, you'll need a mill. These 
 ✦ **RAW MATERIALS:** 400 wood, 10 stone
 ✦ **TOOLS:** Saw, hammer
 ✦ **TIME:** Two weeks
-✦ **EFFECT:** The mill converts up to a dozen units of *grain* to *flour* each Quarter Day, assuming it's staffed by a PC or a miller. The mill can also be used to crush gold or bark for tannin. It takes a Quarter Day to set up the mill for another type of production. You can always do so without a mill, but then only produce 1 unit instead of up to a dozen. As long as a mill is set to crush bark for tannin (do not keep track of these resources), your stronghold gains a +1 bonus to all craft and repair rolls that require the TANNER talent.
+✦ **EFFECT:** The mill converts up to a dozen units of _grain_ to _flour_ each Quarter Day, assuming it's staffed by a PC or a miller. The mill can also be used to crush gold or bark for tannin. It takes a Quarter Day to set up the mill for another type of production. You can always do so without a mill, but then only produce 1 unit instead of up to a dozen. As long as a mill is set to crush bark for tannin (do not keep track of these resources), your stronghold gains a +1 bonus to all craft and repair rolls that require the TANNER talent.
 
 #### MINE
 
@@ -668,7 +668,7 @@ Digging into the ground to extract ore is a large, tedious and cumbersome projec
 ✦ **TOOLS:** Sledgehammer, pickaxe, shovel
 ✦ **TIME:** One month
 ✦ **REPUTATION:** +1 (silver mine +2, gold mine +3)
-✦ **EFFECT:** Up to a dozen people can work in the mine at the same time. Each miner produces two units of ore per Quarter Day. Roll one Gear Die for each week of work. If you roll a ⚔, there is a tunnel collapse. Roll another Gear Die for each worker in the mine. Another 💀 means that the worker is trapped in the collapse. Trapped NPCs are automatically killed. For each PC, the GM rolls for an attack using ten Base Dice (Weapon Damage 1, blunt force). If the PC survives, she must make a *MIGHT* roll to dig herself out. A failed roll means that the PC suffocates, unless she gets help from the outside.
+✦ **EFFECT:** Up to a dozen people can work in the mine at the same time. Each miner produces two units of ore per Quarter Day. Roll one Gear Die for each week of work. If you roll a ⚔, there is a tunnel collapse. Roll another Gear Die for each worker in the mine. Another 💀 means that the worker is trapped in the collapse. Trapped NPCs are automatically killed. For each PC, the GM rolls for an attack using ten Base Dice (Weapon Damage 1, blunt force). If the PC survives, she must make a _MIGHT_ roll to dig herself out. A failed roll means that the PC suffocates, unless she gets help from the outside.
 
 #### MOAT
 
@@ -751,7 +751,7 @@ Pigs in the pigsty will require food, while some can be gained from the populati
 ✦ **RAW MATERIALS:** 50 WOOD
 ✦ **TOOLS:** Saw and hammer
 ✦ **TIME:** 1 day
-✦ **EFFECT:** You can slaughter the pigs at any time. This gives six units of *meat* per pig. 2d6 piglets are born in the *pigsty* each year.
+✦ **EFFECT:** You can slaughter the pigs at any time. This gives six units of _meat_ per pig. 2d6 piglets are born in the _pigsty_ each year.
 
 #### PORTCULLIS
 
@@ -877,7 +877,7 @@ A pen for sheep, which can provide both wool and meat to the inhabitants of the 
 ✦ **RAW MATERIALS:** 20 WOOD
 ✦ **TOOLS:** —
 ✦ **TIME:** 1 day
-✦ **EFFECT:** Twice per year, the sheep can be sheared by a PC or a FARMER. This takes one Quarter Day and gives two units of *wool* per sheep in the herd. You can slaughter the sheep at any time. This gives you five units of *meat* per sheep. D6 lambs are born in the *sheepfold* each year.
+✦ **EFFECT:** Twice per year, the sheep can be sheared by a PC or a FARMER. This takes one Quarter Day and gives two units of _wool_ per sheep in the herd. You can slaughter the sheep at any time. This gives you five units of _meat_ per sheep. D6 lambs are born in the _sheepfold_ each year.
 
 #### SHELTER (BARRACKS)
 
@@ -959,7 +959,7 @@ An open area where you can practice your skills with bows and other ranged weapo
 ✦ **RAW MATERIALS:** 20 wood
 ✦ **TOOLS:** Saw, hammer
 ✦ **TIME:** One day
-✦ **EFFECT:** If you practice on the *shooting range* for a Quarter Day, you gain one extra XP that can only be used to increase your *marksman* skill level. Mark this XP next to the *marksman* skill on your character sheet. You can only gain one such bonus XP between each skill level increase. A shooting range together with a TRAINING GROUND is required if you want to hire GUARDS of higher rank. Note that such guards would be in less supply and will demand increased salary or status.
+✦ **EFFECT:** If you practice on the _shooting range_ for a Quarter Day, you gain one extra XP that can only be used to increase your _marksman_ skill level. Mark this XP next to the _marksman_ skill on your character sheet. You can only gain one such bonus XP between each skill level increase. A shooting range together with a TRAINING GROUND is required if you want to hire GUARDS of higher rank. Note that such guards would be in less supply and will demand increased salary or status.
 
 #### SHRINE
 
@@ -1470,14 +1470,14 @@ A steward can take care of the administrative while you are gone. They have acce
 
 #### TAILOR
 
-Staffs the *tailor shop*. Can also sew clothes and other items made from cloth. A *tailor's crafting* rolls succeed automatically, with one ⚔️.
+Staffs the _tailor shop_. Can also sew clothes and other items made from cloth. A _tailor's crafting_ rolls succeed automatically, with one ⚔️.
 
 ✦ **SALARY:** 8 copper
 ✦ **SUPPLY:** Common
 
 #### TANNER
 
-Staffs the *tannery*. Can also craft leather armor and other leather items. A *tanner's crafting* rolls succeed automatically, with one ⚔️.
+Staffs the _tannery_. Can also craft leather armor and other leather items. A _tanner's crafting_ rolls succeed automatically, with one ⚔️.
 
 ✦ **SALARY:** 6 copper
 ✦ **SUPPLY:** Uncommon
@@ -1500,15 +1500,15 @@ If you live long enough to become skilled and rich adventures with a stronghold 
 
 Approximately once per week, or whenever the GM feels it's appropriate, she rolls for an event at your stronghold. Use the stronghold event table for this campaign, and keep it hidden from players.
 
-The GM should only roll on this table when your stronghold is guarded, either by yourselves or by hired *guards*. For what happens to an unguarded stronghold, see the unguarded stronghold rules above.
+The GM should only roll on this table when your stronghold is guarded, either by yourselves or by hired _guards_. For what happens to an unguarded stronghold, see the unguarded stronghold rules above.
 
-Note that some functions, such as the *gallows*, can affect the event roll, as can some results from the non-payment table for hiring (see above).
+Note that some functions, such as the _gallows_, can affect the event roll, as can some results from the non-payment table for hiring (see above).
 
 ### BATTLES AT THE STRONGHOLD
 
 One day, enemies might come to your gates to conquer your stronghold. When this happens, you need to be ready to defend it. When an enemy force attacks your stronghold in large numbers, one of the players rolls dice against the GM to determine the outcome of the battle. If your adventurers are present, they can affect the result (see below).
 
-The Attack Rating of the attackers is measured against the Defense Rating of your stronghold. Use the tables below to calculate these scores. If no adventurers and no *guards* are present, there is no battle - the attacker automatically succeeds at conquering your stronghold.
+The Attack Rating of the attackers is measured against the Defense Rating of your stronghold. Use the tables below to calculate these scores. If no adventurers and no _guards_ are present, there is no battle - the attacker automatically succeeds at conquering your stronghold.
 
 #### RESOLUTION
 
@@ -1717,11 +1717,11 @@ The results in the table should primarily be seen as inspiration and will need t
 
 **EXAMPLE**
 
-*Nirmena's and Tyrgar's stronghold is attacked by some 90 savage orcs led by the chieftain, Geldad. The stronghold has ramparts and 20 guards, which gives a total Defense Rating of 5 (one for the adventurers, +2 for the ramparts and +2 for the guards). The attackers have a battering ram and thus get Attack Rating 7 (5 for the number of attackers, +1 for the ram and +1 for Geldad himself).*
+_Nirmena's and Tyrgar's stronghold is attacked by some 90 savage orcs led by the chieftain, Geldad. The stronghold has ramparts and 20 guards, which gives a total Defense Rating of 5 (one for the adventurers, +2 for the ramparts and +2 for the guards). The attackers have a battering ram and thus get Attack Rating 7 (5 for the number of attackers, +1 for the ram and +1 for Geldad himself)._
 
-*In the first turn of the battle, the players roll one X while the GM rolls two. The GM chooses to have 20 orcs be cut down, decreasing the number of remaining attackers to 70 and the Attack Rating to 6. The players choose to have the ramparts damaged and then breached, reducing the Defense Rating to 3.*
+_In the first turn of the battle, the players roll one X while the GM rolls two. The GM chooses to have 20 orcs be cut down, decreasing the number of remaining attackers to 70 and the Attack Rating to 6. The players choose to have the ramparts damaged and then breached, reducing the Defense Rating to 3._
 
-*The first turn is over, and it's time to see what happens to Tyrgar and Nirmena themselves. The GM rolls a five, and lets the event happen to Nirmena. She suddenly finds herself face-to-face with Geldad himself on the ramparts! If she defeats the orc chieftain, she might turn the tide of the battle and save the stronghold from destruction...*
+_The first turn is over, and it's time to see what happens to Tyrgar and Nirmena themselves. The GM rolls a five, and lets the event happen to Nirmena. She suddenly finds herself face-to-face with Geldad himself on the ramparts! If she defeats the orc chieftain, she might turn the tide of the battle and save the stronghold from destruction..._
 
 ### SIEGES
 
@@ -1841,26 +1841,26 @@ Each 6 dice of stronghold reputation simply provide 1 ⚔️ toward weekly sales
 
 #### EXAMPLE
 
-*You hire a HUNTER, a TANNER, and a HAWKER, and you have a TANNERY and a SHOP. Your stronghold reputation is 6, so your weekly sales roll starts at 1 ⚔️.*
+_You hire a HUNTER, a TANNER, and a HAWKER, and you have a TANNERY and a SHOP. Your stronghold reputation is 6, so your weekly sales roll starts at 1 ⚔️._
 
-*The hunter produces 2 MEAT per day and 2 PELT per day. That totals 14 MEAT and 14 PELT per week. The MEAT will spoil daily unless you have a ROOT CELLAR, so you salt and cure 12 MEAT in the SMOKERY and eat the rest. The 14 PELTS go to the tannery. A tanner converts 12 PELTS into 12 LEATHER in one Quarter Day, leaving 2 PELTS for later.*
+_The hunter produces 2 MEAT per day and 2 PELT per day. That totals 14 MEAT and 14 PELT per week. The MEAT will spoil daily unless you have a ROOT CELLAR, so you salt and cure 12 MEAT in the SMOKERY and eat the rest. The 14 PELTS go to the tannery. A tanner converts 12 PELTS into 12 LEATHER in one Quarter Day, leaving 2 PELTS for later._
 
-*You decide to sell LEATHER and a few finished goods in your SHOP. Leather is a specialized item and a consumable. With 1 ⚔️ per week, you can sell 1 LEATHER per week at full price, or sell faster by lowering the price. You set leather to 70% price, moving two categories toward everyday, and triple your weekly sales for that item. That lets you sell 3 LEATHER per week.*
+_You decide to sell LEATHER and a few finished goods in your SHOP. Leather is a specialized item and a consumable. With 1 ⚔️ per week, you can sell 1 LEATHER per week at full price, or sell faster by lowering the price. You set leather to 70% price, moving two categories toward everyday, and triple your weekly sales for that item. That lets you sell 3 LEATHER per week._
 
-*You also craft 2 pairs of BOOTS and 1 SLEEPING FUR. Boots are everyday items and sell easily at 70% price (30 x 0.7 = 21 copper). A sleeping fur is specialized and sells at 70% price (30 x 0.7 = 21 copper) with 1 ⚔️ per week. You keep the remaining LEATHER as stock for next week.*
+_You also craft 2 pairs of BOOTS and 1 SLEEPING FUR. Boots are everyday items and sell easily at 70% price (30 x 0.7 = 21 copper). A sleeping fur is specialized and sells at 70% price (30 x 0.7 = 21 copper) with 1 ⚔️ per week. You keep the remaining LEATHER as stock for next week._
 
-*Totals for the week:*
-*- 3 LEATHER at 15 copper each = 45 copper*
-*- 2 BOOTS at 21 copper each = 42 copper*
-*- 1 SLEEPING FUR at 21 copper = 21 copper*
+_Totals for the week:_
+_- 3 LEATHER at 15 copper each = 45 copper_
+_- 2 BOOTS at 21 copper each = 42 copper_
+_- 1 SLEEPING FUR at 21 copper = 21 copper_
 
-*Total sales: 108 copper. Weekly wages: 84 copper (6 for a tanner per day + 6 for a hunter per day) x 7 = 84 copper, plus 42 copper for the hawker (6 per day). Net profit: 108 - 126 = -18 copper. You are running at a loss, so you choose to add a second HAWKER and set leather back to full price, or you switch the shop to sell higher value goods for fewer sales.*
+_Total sales: 108 copper. Weekly wages: 84 copper (6 for a tanner per day + 6 for a hunter per day) x 7 = 84 copper, plus 42 copper for the hawker (6 per day). Net profit: 108 - 126 = -18 copper. You are running at a loss, so you choose to add a second HAWKER and set leather back to full price, or you switch the shop to sell higher value goods for fewer sales._
 
-*If your stronghold reputation rises to 12, you gain 2 ⚔️ per week and can sell twice as many items at the same price tier. If it falls to 2, you can lower prices by 20% to keep the same number of weekly customers, or accept fewer sales and keep prices steady.*
+_If your stronghold reputation rises to 12, you gain 2 ⚔️ per week and can sell twice as many items at the same price tier. If it falls to 2, you can lower prices by 20% to keep the same number of weekly customers, or accept fewer sales and keep prices steady._
 
 ## CONTROL OF THE LAND
 
-> *"Walls hold a night. Land holds a lifetime. The wind will pry at your gates, but the soil will take your children if you do not stake it, seed it, and stand by it. Name the ground, then keep it."*
+> _"Walls hold a night. Land holds a lifetime. The wind will pry at your gates, but the soil will take your children if you do not stake it, seed it, and stand by it. Name the ground, then keep it."_
 
 This chapter expands the stronghold rules with territory control, nearby hex development, resource yields, and conflicts between settlements. It is written to stand on its own: if you use these rules, treat them as the default stronghold procedures.
 
@@ -1925,15 +1925,15 @@ Each additional Food Hex beyond the requirement supports growth. For every extra
 
 Some stronghold functions require controlled hex with a listed quality. It can be the same hex as the Stronghold, or a nearby hex, or a hex connected with a road. If a prerequisite is not met, the function cannot be built or does not operate.
 
-| Stronghold Function  | Prerequisite                                                                  |
-| -------------------- | ----------------------------------------------------------------------------- |
-| Field / Garden       | Arable land and a Plough                                                      |
-| Pasture / Sheepfold  | Grazing land, livestock, and a Herder or Fence; Barn required to feed Winter. |
-| Pigsty               | Garden, Orchard, or Forest, plus pigs                                         |
-| Quarry               | Quarry resource found                                                         |
-| Mine                 | Minable resource found                                                        |
-| Sawmill / Workshop   | Access to wood; a developed Lumber Camp hex satisfies this                    |
-| Fishery              | Adjacent lake or ocean; Pier doubles output                                   |
+| Stronghold Function | Prerequisite                                                                  |
+| ------------------- | ----------------------------------------------------------------------------- |
+| Field / Garden      | Arable land and a Plough                                                      |
+| Pasture / Sheepfold | Grazing land, livestock, and a Herder or Fence; Barn required to feed Winter. |
+| Pigsty              | Garden, Orchard, or Forest, plus pigs                                         |
+| Quarry              | Quarry resource found                                                         |
+| Mine                | Minable resource found                                                        |
+| Sawmill / Workshop  | Access to wood; a developed Lumber Camp hex satisfies this                    |
+| Fishery             | Adjacent lake or ocean; Pier doubles output                                   |
 
 ### FAMILIES, LABOR, AND LOSSES
 
@@ -2004,13 +2004,13 @@ If the job involves open conflict, cursed sites, or known horrors, increase pay 
 
 If the hireling must travel more than one hex to reach the stronghold, add 1-2 days of travel before they can begin work.
 
-| Experience Points (added on top of Class)                           | Ratio Multiplier |
-| ------------------------------------------------------------------- | ---------------- |
-| +15 XP, max Rank 1 talents, max Rank 3 skills                       | x3               |
-| +35 XP, max Rank 2 talents, max Rank 3 skills                       | x8               |
-| +60 XP, max Rank 2 talents, max Rank 4 skills                       | x20              |
-| +90 XP, max Rank 3 talents, max Rank 4 skills                       | x50              |
-| +125 XP, max Rank 3 talents, max Rank 5 skills                      | x125             |
+| Experience Points (added on top of Class)      | Ratio Multiplier |
+| ---------------------------------------------- | ---------------- |
+| +15 XP, max Rank 1 talents, max Rank 3 skills  | x3               |
+| +35 XP, max Rank 2 talents, max Rank 3 skills  | x8               |
+| +60 XP, max Rank 2 talents, max Rank 4 skills  | x20              |
+| +90 XP, max Rank 3 talents, max Rank 4 skills  | x50              |
+| +125 XP, max Rank 3 talents, max Rank 5 skills | x125             |
 | +165 XP, max Rank 4 talents, max Rank 5 skills | x320             |
 
 ### HIRING PAY AND NEGOTIATION

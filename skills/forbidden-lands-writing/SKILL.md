@@ -106,6 +106,12 @@ requires deep multi-register work.
   consequence, not through annotation. Load when writing
   example scenes that chain multiple rules.
 
+- `references/rules-onboarding-and-progressive-examples.md`
+  Chapter-level architecture for teaching complex subsystems.
+  Progressive disclosure, recurring characters, interconnected
+  narrative examples, audience layering, and a checklist.
+  Load when planning how a chapter introduces a major rule set.
+
 ## Hard Rules
 
 These are non-negotiable. Violating any one disqualifies

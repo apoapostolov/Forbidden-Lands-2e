@@ -374,7 +374,7 @@ You can also use this skill to determine an NPC's state of mind. You must be clo
 
 ### MANIPULATION (EMPATHY)
 
-Life in the Forbidden Lands is bloody, but you can often reach your goals without violence, through charm, threats, or sensible reasoning. There are many methods to make another person see things your way. Make an opposed roll with your _MANIPULATION_ against your adversary's _INSIGHT_. Your chances are affected both by your bargaining position and your Reputation.
+Life in the Forbidden Lands is bloody, but you can often reach your goals without violence, through charm, threats, or sensible reasoning. There are many methods to make another person see things your way. Make an opposed roll with your _MANIPULATION_ against your adversary's _INSIGHT_. Your chances are affected by your bargaining position, your local Reputation, and your Standing in the settlement or trade circle where the interaction takes place.
 
 If you succeed, your adversary must either do what you want or immediately attack you physically.
 

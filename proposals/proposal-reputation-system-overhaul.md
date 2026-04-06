@@ -93,15 +93,15 @@ That is close enough to other meaningful dice pools in the game to make rolling 
 
 Suggested reading of the scale:
 
-| Reputation | Meaning |
-| --- | --- |
-| `0` | Unknown |
-| `1-2` | A few have heard the name |
-| `3-4` | Known by rumor in the local area or circle |
-| `5-6` | Plainly established reputation |
-| `7-8` | Strong local or regional renown |
-| `9-10` | Very hard to ignore in that sphere |
-| `11+` | Legendary within that sphere |
+| Reputation | Meaning                                    |
+| ---------- | ------------------------------------------ |
+| `0`        | Unknown                                    |
+| `1-2`      | A few have heard the name                  |
+| `3-4`      | Known by rumor in the local area or circle |
+| `5-6`      | Plainly established reputation             |
+| `7-8`      | Strong local or regional renown            |
+| `9-10`     | Very hard to ignore in that sphere         |
+| `11+`      | Legendary within that sphere               |
 
 ### Standing
 
@@ -112,15 +112,15 @@ It modifies what successful reputation means and can affect _MANIPULATION_, pric
 
 Suggested Standing scale:
 
-| Standing | Meaning |
-| --- | --- |
-| `-3` | Hated, hunted, or outlawed |
-| `-2` | Bitterly distrusted or openly hostile |
-| `-1` | Cold, wary, suspicious |
-| `0` | No special feeling |
-| `+1` | Known as useful or decent |
-| `+2` | Trusted friends or proven allies |
-| `+3` | Honored protectors, patrons, or champions |
+| Standing | Meaning                                   |
+| -------- | ----------------------------------------- |
+| `-3`     | Hated, hunted, or outlawed                |
+| `-2`     | Bitterly distrusted or openly hostile     |
+| `-1`     | Cold, wary, suspicious                    |
+| `0`      | No special feeling                        |
+| `+1`     | Known as useful or decent                 |
+| `+2`     | Trusted friends or proven allies          |
+| `+3`     | Honored protectors, patrons, or champions |
 
 This split solves the core problem cleanly.
 You can be:
@@ -190,6 +190,11 @@ In most cases, even large local investment should raise Standing only by `+1` un
 Each stronghold keeps its own Reputation score, as Chapter 9 already does.
 That part is sound and should remain.
 
+Chapter 9 does not use a formal stronghold level, but it already has a practical tier built into its base buildings.
+A `Fortress`, `Castle`, or `Palace` throws a larger shadow than a `Cottage`, `Tower`, `Stone House`, or `Fort`.
+This proposal should use that fact instead of inventing another ladder.
+The base building tells you how imposing the place looks before anyone rolls.
+
 What changes is how it spreads.
 Stronghold Reputation should no longer convert directly into universal player Reputation.
 Instead, it should radiate outward by distance and travel routes.
@@ -203,6 +208,18 @@ A keep is known first by:
 - raiders, envoys, and power-brokers
 
 Its banner, walls, and tales often travel farther than the faces of the people who own it.
+
+The named stronghold functions in Chapter 9 should also shape how that fame moves.
+The most important are these:
+
+- `RAMPARTS`, `PALISADE`, `GUARD TOWER`, `DITCH`, `MOAT`, `DRAWBRIDGE`, and `PORTCULLIS` make the place visibly defended and change how strangers are received at the gate
+- `INN`, `MARKETPLACE`, `ROAD`, `BRIDGE`, `PIER`, `TOLL HOUSE`, and `DOVECOTE` move people, goods, messages, and stories
+- `THEATRE`, `ARENA`, `TEMPLE`, `MONUMENT`, `GALLOWS`, and similar public functions make the place memorable and color what sort of stories are told about it
+
+Chapter 8 terrain should color that judgment as well.
+A stronghold on `Hills` or `Mountains` with `RAMPARTS` or a `PALISADE` is easier to see, easier to remember, and more likely to dominate local rumor.
+A hold on a river with a `BRIDGE`, `PIER`, or `MOAT` sits on traffic and bottlenecks.
+A roadside fort with a built `ROAD` and a staffed `INN` should spread its name much faster than an isolated hall in the deep forest.
 
 ### 4. Trade Reputation
 
@@ -240,12 +257,12 @@ Each Rumor Source has:
 
 Suggested Rumor Source strength:
 
-| Strength | Effect |
-| --- | --- |
-| `1` | Minor talk, local memory, road gossip |
-| `2` | Strong local tale, likely to spread through nearby hexes |
-| `3` | Major deed, hard to suppress |
-| `4+` | Rare, region-shaping event |
+| Strength | Effect                                                   |
+| -------- | -------------------------------------------------------- |
+| `1`      | Minor talk, local memory, road gossip                    |
+| `2`      | Strong local tale, likely to spread through nearby hexes |
+| `3`      | Major deed, hard to suppress                             |
+| `4+`     | Rare, region-shaping event                               |
 
 At the end of each week, or whenever the GM advances campaign time meaningfully, a Rumor Source can spread.
 
@@ -254,6 +271,10 @@ Suggested spread rate:
 - `1` hex through wilderness
 - `2` hexes along a road or river
 - `3` hexes if carried by active caravans, ferries, troop movement, or other regular traffic
+
+When using Chapter 9 stronghold functions, treat `ROAD`, `BRIDGE`, and `PIER` as exactly the kinds of links that improve rumor travel.
+A staffed `INN`, `MARKETPLACE`, or `TOLL HOUSE` should also make a stronghold's stories spread more reliably along that route, because strangers pass through, eat, bargain, gossip, and carry tales onward.
+`DOVECOTE` is not mass rumor by itself, but it is a good reason for urgent news, claims, threats, or invitations to move unusually fast between already linked places.
 
 When a rumor reaches a new settlement or trade circle, it usually does one of these:
 
@@ -266,6 +287,125 @@ Rumors do not just create a vague boolean state.
 They build actual local Reputation scores that can later be rolled.
 
 ## Core Procedures
+
+### Step 0: Hospitality And First Impression
+
+Before anyone cares who you are, they care what they see coming down the road.
+That matters even more in the Ravenlands, where a village may have heard nothing of you at all, yet still must decide whether to open the gate, set a pot on the fire, or string bows behind the palisade.
+
+For that reason, each settlement should have a separate **Hospitality** score.
+This is not the same as Standing.
+Standing reflects what a place thinks of you once it knows you.
+Hospitality reflects how that place tends to treat unknown travelers on first sight.
+
+Suggested Hospitality scale:
+
+| Hospitality | Meaning                                                                                                     |
+| ----------- | ----------------------------------------------------------------------------------------------------------- |
+| `-2`        | Closed, frightened, hungry, or bitter. Strangers are a burden or a threat.                                  |
+| `-1`        | Wary and guarded. Outsiders are admitted reluctantly.                                                       |
+| `0`         | Ordinary caution. Strangers are judged case by case.                                                        |
+| `+1`        | Open-handed by local standards. Travelers are usually heard out.                                            |
+| `+2`        | Warm, pious, trade-minded, or proud of good hosting. Guests are welcomed unless they plainly court trouble. |
+
+Hospitality can change faster than Reputation or Standing.
+Bad harvests, raids, plague, holy days, fair days, or a hard winter should all be able to shift it.
+
+If the settlement is really a stronghold or a fortified manor, use its actual Chapter 9 functions when judging Hospitality.
+That keeps the rule grounded in the built place instead of in GM intuition alone.
+
+As a rule of thumb:
+
+- `INN`, `MARKETPLACE`, `TEMPLE`, `BRIDGE`, `ROAD`, `PIER`, and `TOWN HALL` usually push Hospitality one step toward openness if they are staffed and the place lives by traffic, trade, worship, or petition
+- `RAMPARTS`, `PALISADE`, `GUARD TOWER`, `DITCH`, `MOAT`, `DRAWBRIDGE`, and `PORTCULLIS` do not make a place hostile by themselves, but they do mean strangers are handled first as a gate matter, not a hearth matter
+- `DUNGEON`, `GALLOWS`, `TORTURE CHAMBERS`, or a history of unpaid hirelings, slave-taking, and harsh rule may leave the place well known but cold, fearful, or bitter in Standing
+
+### First Impression Roll
+
+When the fellowship first arrives at a settlement where it is not already clearly welcome, one character should make a **first impression roll**.
+This is usually **MANIPULATION**, but the group may instead roll the most relevant local **Reputation** if they are openly relying on a name already known there.
+
+This roll happens **before** the main recognition procedure below.
+It answers a simpler question:
+
+- do the locals hear you out
+- do they let you near the hearth or inside the fence
+- do they keep hands off weapons, or put hands on them
+
+Apply the settlement's Hospitality as a modifier to the roll.
+Then apply presentation modifiers.
+
+Suggested presentation modifiers:
+
+| Presentation factor                                                                                                             | Typical modifier |
+| ------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| Fine clothes, heraldry, rich packs, orderly wagons, or clear trade goods                                                        | `+1`             |
+| Useful visible burden: medicine, grain, hunted meat, captured raiders, local news, or a wounded villager brought home alive     | `+1`             |
+| Calm, respectful approach: weapons sheathed, helms off, hands visible, speaking from outside bowshot, asking leave before entry | `+1`             |
+| Road-worn, smoke-stinking, mud-caked, or visibly desperate                                                                      | `-1`             |
+| Heavily armed, blood-spattered, dragging prisoners, acting like hired killers, or plainly able to do much harm                  | `-1`             |
+| Threatening posture, shouted demands, crowding the gate, or visible siege gear                                                  | `-2`             |
+| Clean, washed, barbered, or recently lodged at an inn                                                                           | `+1`             |
+| **FILTHY** or obviously foul by the optional Hygiene rules                                                                      | `-2`             |
+
+Some of these should shift by context.
+A starving hamlet may mistrust rich strangers.
+A village plagued by beasts may welcome armed help that would unnerve a market town.
+
+Suggested reading of the first impression roll:
+
+| Result  | First reaction                                                                                   |
+| ------- | ------------------------------------------------------------------------------------------------ |
+| no ⚔️   | shut out, watched, overcharged, or told to wait outside while authority is fetched               |
+| `1` ⚔️  | heard out, but with caution; locals remain guarded                                               |
+| `2` ⚔️  | admitted without much fuss; folk treat the group as hard travelers rather than immediate trouble |
+| `3+` ⚔️ | welcomed promptly, offered guidance, and treated as guests worth dealing with                    |
+
+This roll does not replace Reputation.
+It establishes the mood before recognition, and it matters most when the fellowship is still unknown.
+
+### Gates, Palisades, And Watch Posts
+
+If a settlement has a **palisade**, **ramparts**, a guarded bridge, or a gate shut against danger, the first impression roll also decides whether the gate opens.
+
+In such places, the first conversation often happens through a gate hatch, from a tower, or over sharpened stakes.
+That should be a real moment in play.
+
+Use these guidelines:
+
+- If the fellowship has local **Standing** `+1` and local Settlement **Reputation** `2+`, no gate roll is usually needed during ordinary daylight hours.
+- If local **Standing** is `+2` or higher, or the group is expected, sponsored, or carrying an accepted token of authority, no gate roll is needed unless the settlement is under alarm.
+- Otherwise, the spokesperson rolls **MANIPULATION** or the most relevant local **Reputation** as part of the first impression.
+
+Use the stronghold's actual functions to judge how hard the gate procedure is.
+A `PALISADE` or `RAMPARTS` is enough to justify a real gate encounter.
+If the place also has a `DITCH` or `MOAT`, plus a `DRAWBRIDGE` or `PORTCULLIS`, stricter entry terms are natural even when the locals are not openly hostile.
+
+Suggested reading for fortified settlements:
+
+| Result  | Gate outcome                                                                                                                                   |
+| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| no ⚔️   | gates stay shut; the group is questioned from outside, told to camp beyond the ditch, or refused entry until a local authority arrives         |
+| `1` ⚔️  | the group is admitted narrowly, often with limits: peace-bonded weapons, one spokesperson inside, stabling outside the wall, or a guard escort |
+| `2` ⚔️  | the gate opens under ordinary caution; the group may enter and seek the inn, shrine, chief, or market                                          |
+| `3+` ⚔️ | quick admission; guards point the group toward lodging, the headman, or whoever ought to hear their business                                   |
+
+If Standing is negative, even a successful gate opening may come with conditions:
+
+- weapons stacked at the gate
+- hostages, sureties, or named sponsors
+- a watchful escort
+- denial of entry after dark
+
+### More Procedures In The Same Line
+
+The same arrival logic can support other useful pieces of play without much extra burden.
+
+- **Night arrival:** most settlements should worsen Hospitality by `-1` or `-2` after dark unless the group is expected or already trusted.
+- **Season and hunger:** in famine, plague, or siege, rich appearance may provoke fear or envy as often as respect.
+- **Sponsor rule:** if a known resident, guild contact, priest, or caravan master vouches for the group, use the sponsor's Standing for the first impression, then switch back to the group's own scores afterward.
+- **Peace-bonding weapons:** some villages may admit armed strangers only if bows are unstrung, shields stacked, and long weapons tied at the gate.
+- **Burden versus benefit:** a party with carts, animals, and retainers may look rich, but also expensive. A hungry village may prefer three armed guests to ten mouths and six pack mules.
 
 ### Being Recognized In A Settlement
 
@@ -293,15 +433,19 @@ If the fellowship owns or rules a nearby stronghold, use that stronghold's Reput
 
 Suggested distance bands from the stronghold:
 
-| Distance | Effective Stronghold Reputation |
-| --- | --- |
-| Same hex | full score |
-| `1-2` hexes | `-1` |
-| `3-5` hexes | `-2` |
-| `6-10` hexes | `-3` |
-| beyond `10` | usually no effect unless strong routes or major rumor sources apply |
+| Distance     | Effective Stronghold Reputation                                     |
+| ------------ | ------------------------------------------------------------------- |
+| Same hex     | full score                                                          |
+| `1-2` hexes  | `-1`                                                                |
+| `3-5` hexes  | `-2`                                                                |
+| `6-10` hexes | `-3`                                                                |
+| beyond `10`  | usually no effect unless strong routes or major rumor sources apply |
 
 If a road, river, or caravan route directly links the stronghold and the settlement, the GM may ignore `1` point of distance penalty.
+
+This is where the named Chapter 9 functions matter most.
+A `ROAD` built from the stronghold, a `BRIDGE` over the local river, or a `PIER` that ties the place into river or lake traffic should count as a direct link, not just as color.
+Likewise, a staffed `INN`, `MARKETPLACE`, or `TOLL HOUSE` is a good reason to convert repeated recognition into permanent local Settlement Reputation faster, because travelers keep repeating the same name.
 
 Roll the effective score as D6.
 Success means people know the keep, its banner, or the people tied to it.
@@ -338,11 +482,11 @@ The GM interprets ⚔️ according to context.
 
 Suggested benefit ladder:
 
-| ⚔️ | Typical benefit |
-| --- | --- |
-| `1` | Fair hearing, access, basic hospitality, reduced suspicion |
-| `2` | Minor favor, quick introduction, small credit, modest price break, useful rumor |
-| `3` | Significant favor, audience with authority, meaningful local help, strong deference |
+| ⚔️   | Typical benefit                                                                       |
+| ---- | ------------------------------------------------------------------------------------- |
+| `1`  | Fair hearing, access, basic hospitality, reduced suspicion                            |
+| `2`  | Minor favor, quick introduction, small credit, modest price break, useful rumor       |
+| `3`  | Significant favor, audience with authority, meaningful local help, strong deference   |
 | `4+` | Exceptional response, public backing, rare privilege, or a major practical concession |
 
 Standing modifies the outcome.
@@ -361,57 +505,73 @@ They are meant to show what the system should usually produce in play.
 Use this when the group is already known locally and the GM wants a quick answer for everyday treatment.
 Read the result through local Standing.
 
-| Local Reputation | If Standing is `-1` to `-3` | If Standing is `0` | If Standing is `+1` to `+3` |
-| --- | --- | --- | --- |
-| `0-1` | strangers are wary, rude, or watchful | strangers treat you as ordinary travelers | strangers treat you politely if introduced well |
-| `2-3` | people whisper, close shutters, or send for authority | some have heard your name, but little changes | useful folk know who you are and hear you out |
-| `4-5` | the settlement remembers you, and trouble follows your steps | your name opens basic doors and buys patience | you are greeted by name and offered ordinary local help |
-| `6-7` | folk avoid offending you, but not from love | you carry visible local weight | headmen, innkeepers, and merchants treat you as proven people |
-| `8-9` | fear, resentment, or factional hostility can gather around you quickly | your arrival becomes news | you are treated as protectors, patrons, or local celebrities |
-| `10+` | you may provoke panic, sabotage, denunciation, or mob pressure | almost everyone knows the name | the settlement bends custom for you unless doing so would be dangerous |
+| Local Reputation | If Standing is `-1` to `-3`                                            | If Standing is `0`                            | If Standing is `+1` to `+3`                                            |
+| ---------------- | ---------------------------------------------------------------------- | --------------------------------------------- | ---------------------------------------------------------------------- |
+| `0-1`            | strangers are wary, rude, or watchful                                  | strangers treat you as ordinary travelers     | strangers treat you politely if introduced well                        |
+| `2-3`            | people whisper, close shutters, or send for authority                  | some have heard your name, but little changes | useful folk know who you are and hear you out                          |
+| `4-5`            | the settlement remembers you, and trouble follows your steps           | your name opens basic doors and buys patience | you are greeted by name and offered ordinary local help                |
+| `6-7`            | folk avoid offending you, but not from love                            | you carry visible local weight                | headmen, innkeepers, and merchants treat you as proven people          |
+| `8-9`            | fear, resentment, or factional hostility can gather around you quickly | your arrival becomes news                     | you are treated as protectors, patrons, or local celebrities           |
+| `10+`            | you may provoke panic, sabotage, denunciation, or mob pressure         | almost everyone knows the name                | the settlement bends custom for you unless doing so would be dangerous |
+
+### Example Table: Hospitality Before Recognition
+
+Use this when the fellowship is still unknown or only half-known, and the question is not yet "what is their name worth here?" but "do we let these people near the fire?"
+
+| Hospitality | Usual treatment of unknown travelers                                                                 |
+| ----------- | ---------------------------------------------------------------------------------------------------- |
+| `-2`        | gates closed, arrows nocked, strangers watched from cover, no lodging inside the wall                |
+| `-1`        | admitted only with caution, questioning, or a visible local sponsor                                  |
+| `0`         | heard out fairly, but no favor without cause                                                         |
+| `+1`        | strangers can usually expect water, a place to speak, and fair access to the inn or village elder    |
+| `+2`        | guests are received warmly unless they arrive looking like obvious raiders, plague-bearers, or fools |
+
+This is the baseline before Reputation and Standing deepen the response.
 
 ### Example Table: Lodging And Hospitality
 
 This table assumes a settlement that has an inn, hall, temple guest-space, or local authority able to host strangers. Base prices come from the current services list in Chapter 10.
 
-| Reputation roll result | Typical lodging expectation |
-| --- | --- |
-| no ⚔️ | you pay full price, if there is room at all |
-| `1` ⚔️ | you are allowed into the tavern or inn without extra suspicion; normal prices apply |
-| `2` ⚔️ | you may get the better table, a safer corner, credit until morning, or a reduced inn price by about one step |
-| `3` ⚔️ | an innkeeper may waive the dormitory fee, cut the price of a separate room, or send food and ale to your table |
-| `4+` ⚔️ | the chief, mayor, priest, guild elder, or wealthy host may offer a free stay under their roof, especially if Standing is positive |
+If the fellowship is still unknown, use **Hospitality** and the **first impression roll** first. A cold village may refuse the inn loft entirely, while a generous one may offer straw and broth before it knows any name at all.
+
+| Reputation roll result | Typical lodging expectation                                                                                                       |
+| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| no ⚔️                  | you pay full price, if there is room at all                                                                                       |
+| `1` ⚔️                 | you are allowed into the tavern or inn without extra suspicion; normal prices apply                                               |
+| `2` ⚔️                 | you may get the better table, a safer corner, credit until morning, or a reduced inn price by about one step                      |
+| `3` ⚔️                 | an innkeeper may waive the dormitory fee, cut the price of a separate room, or send food and ale to your table                    |
+| `4+` ⚔️                | the chief, mayor, priest, guild elder, or wealthy host may offer a free stay under their roof, especially if Standing is positive |
 
 Suggested interpretation against current listed services:
 
-| Local mood | Dormitory (base `2` copper) | Separate room (base `5` copper) | Fine dwelling (base `2` silver) |
-| --- | --- | --- | --- |
-| hostile or fearful | refused, overcharged, or watched | rarely offered | not offered |
-| neutral | full price | full price | full price if available |
-| favorable and `2` ⚔️ | often free or half price | reduced by `1-2` copper | offered only by invitation |
-| favorable and `3+` ⚔️ | free | often free or token price | reduced or granted by a patron |
+| Local mood            | Dormitory (base `2` copper)      | Separate room (base `5` copper) | Fine dwelling (base `2` silver) |
+| --------------------- | -------------------------------- | ------------------------------- | ------------------------------- |
+| hostile or fearful    | refused, overcharged, or watched | rarely offered                  | not offered                     |
+| neutral               | full price                       | full price                      | full price if available         |
+| favorable and `2` ⚔️  | often free or half price         | reduced by `1-2` copper         | offered only by invitation      |
+| favorable and `3+` ⚔️ | free                             | often free or token price       | reduced or granted by a patron  |
 
 ### Example Table: Craftsmen, Traders, And Prices
 
 This table should apply only where the group has either local Settlement Reputation with positive Standing or actual Trade Reputation in the relevant circle.
 It should not erase scarcity, missing supply, or the need for the right talent.
 
-| Reputation roll result | Typical market effect |
-| --- | --- |
-| no ⚔️ | no special treatment |
-| `1` ⚔️ | fair weights, honest hearing, no attempt to cheat you openly |
-| `2` ⚔️ | small courtesy: modest queue priority, small extra scrap, quicker turnaround, or a light discount |
-| `3` ⚔️ | noticeable favor: better payment terms, first pick when stock is thin, reduced price, or access to the better craftsman |
-| `4+` ⚔️ | exceptional favor: celebrity treatment, deep courtesy, a master craftsman taking personal interest, or being trusted with scarce goods ahead of others |
+| Reputation roll result | Typical market effect                                                                                                                                  |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| no ⚔️                  | no special treatment                                                                                                                                   |
+| `1` ⚔️                 | fair weights, honest hearing, no attempt to cheat you openly                                                                                           |
+| `2` ⚔️                 | small courtesy: modest queue priority, small extra scrap, quicker turnaround, or a light discount                                                      |
+| `3` ⚔️                 | noticeable favor: better payment terms, first pick when stock is thin, reduced price, or access to the better craftsman                                |
+| `4+` ⚔️                | exceptional favor: celebrity treatment, deep courtesy, a master craftsman taking personal interest, or being trusted with scarce goods ahead of others |
 
 Suggested price guidance when local Standing is favorable:
 
-| Result | Ordinary innkeeper or trader | Craftsman or specialist |
-| --- | --- | --- |
-| `1` ⚔️ | normal price, but no gouging | normal price |
-| `2` ⚔️ | around `10-20%` off, or a small extra thrown in | around `10%` off, or faster work |
-| `3` ⚔️ | around `20-40%` off on common services or goods | around `20%` off, or better queue position, or partial credit |
-| `4+` ⚔️ | major courtesy on ordinary goods and lodging | a real favor rather than a simple discount |
+| Result  | Ordinary innkeeper or trader                    | Craftsman or specialist                                       |
+| ------- | ----------------------------------------------- | ------------------------------------------------------------- |
+| `1` ⚔️  | normal price, but no gouging                    | normal price                                                  |
+| `2` ⚔️  | around `10-20%` off, or a small extra thrown in | around `10%` off, or faster work                              |
+| `3` ⚔️  | around `20-40%` off on common services or goods | around `20%` off, or better queue position, or partial credit |
+| `4+` ⚔️ | major courtesy on ordinary goods and lodging    | a real favor rather than a simple discount                    |
 
 These reductions should never bypass:
 
@@ -426,6 +586,10 @@ If both Reputation and a talent-based discount apply, use the better one as the 
 
 The current social rule should stay in place, but it should use the most relevant local score.
 
+The new arrival procedures above should also feed into this.
+When no single NPC has yet stepped forward and the fellowship is dealing with a gate, a watch post, or a village mood rather than one person's judgment, **MANIPULATION** should usually be rolled as a first impression check rather than as a full opposed social conflict.
+Once a guard sergeant, elder, priest, innkeeper, or headman is actually speaking for the place, use the normal social contest rules again.
+
 When making a _MANIPULATION_ roll, compare whichever combination matters most in the moment:
 
 - local Standing, if this is chiefly about trust or resentment
@@ -436,6 +600,7 @@ The cleanest default is this:
 
 - use Standing as the modifier to the social contest
 - use Reputation to determine whether the target knows who you are and whether your name can be leaned on for extra benefits
+- use Hospitality mainly for first meetings, gates, lodging, and the settlement's instinctive treatment of unknown travelers
 
 That preserves the existing logic while giving the system more texture.
 
@@ -451,6 +616,11 @@ Instead, it should do one or more of these:
 - raise Stronghold Reputation if the deed strengthened, defended, enriched, or elevated the keep
 - raise Trade Reputation in the trade circles that care about it
 - raise or lower Trade Standing depending on how the deed is judged
+
+Stronghold development itself should also feed into this in ways that match Chapter 9.
+Completing a `Fortress`, `Castle`, or `Palace`, adding `RAMPARTS`, opening an `INN`, cutting a `ROAD`, building a `BRIDGE`, holding games in an `ARENA`, or raising a `TEMPLE` should all shape how news of the place spreads.
+So should uglier things.
+A `GALLOWS`, `DUNGEON`, slave-taking, or unpaid hirelings spreading complaints may raise notoriety while poisoning Standing in the nearby settlements that must live with that power.
 
 This keeps growth concrete.
 The group becomes known where the world has actually had time to hear of them.
@@ -500,6 +670,12 @@ That supports a slower, rooted campaign without forcing every party down that pa
 
 Nearby hexes may know your keep even when they do not know your faces.
 That is both believable and useful.
+
+### 4. It gives settlements a face before they know your name
+
+This is the main value of the Hospitality layer.
+It lets villages feel different even before Reputation enters the scene.
+A hungry hamlet, a trade-post, a shrine-hostel, and a war-frightened palisade should not all greet strangers in the same way.
 
 ## Main Balance Risks
 
@@ -713,6 +889,7 @@ If this proposal is adopted, these limits are recommended:
 3. Reputation-based discounts should not stack directly with the strongest Peddler discounts.
 4. The richest benefits should require both good Standing and actual local capacity.
 5. Stronghold recognition should become permanent local Reputation gradually.
+6. First impression should use only the few presentation factors that matter most in the moment, not every possible modifier.
 
 ## Overall Balance Verdict
 
@@ -731,6 +908,7 @@ Its main procedural risk is social snowballing through:
 - crowd performance
 - rumor loops
 - rapid conversion of stronghold fame into settlement fame
+- too many separate arrival modifiers if the GM tries to model every hat, banner, mule, and mud stain individually
 
 Both risks are manageable with the guardrails above.
 
@@ -783,6 +961,10 @@ After enough contact, that borrowed recognition becomes local Settlement Reputat
 At the same time, the fellowship has Trade Reputation `4` and Trade Standing `+1` among caravan folk after protecting wagons and honoring contracts.
 A ferryman in a distant river-town may know them by business even if the farmers there do not.
 
+Before any of that helps them, however, the village on the road to Pelgreve may still judge what comes through the gate.
+If the group arrives mud-caked, blood-spattered, loud, and dragging two bound raiders at dusk, the first reaction may be hard even if nobody there has heard the name.
+If they arrive washed, carrying news of the north road, with a wounded shepherd laid gently over a mule and their weapons tied in peace, the gate opens faster.
+
 That produces the right feel:
 
 - Pelgreve knows them well and likes them
@@ -798,10 +980,14 @@ If adopted, this proposal would mainly affect:
   - replace the current player Reputation section with local Reputation plus Standing guidance
 - `corebook/03-skills.md`
   - update _MANIPULATION_ language to reference local Standing and relevant Reputation
+- `corebook/08-journeys.md`
+  - optionally add a short note on rumor movement through roads, rivers, ferries, caravans, and travel time, plus a cross-reference to the Hygiene Die and the `FILTHY` condition as first-impression modifiers in settlements
+  - terrain notes such as `Hills`, `Mountains`, and river adjacency should remain meaningful when judging how visible and connected a stronghold is
 - `corebook/09-the-stronghold.md`
   - keep stronghold Reputation, but stop converting it directly into universal player Reputation
-- `corebook/08-journeys.md`
-  - optionally add a short note on rumor movement through roads, rivers, ferries, caravans, and travel time
+  - use the existing building tiers and actual function names such as `RAMPARTS`, `PALISADE`, `ROAD`, `BRIDGE`, `PIER`, `INN`, `MARKETPLACE`, and `TOLL HOUSE` as the main hooks for how stronghold fame travels
+- `corebook/10-gear.md`
+  - inn lodging, baths, perfume, fine clothes, and feast spending should be allowed to interact lightly with first impression and hospitality
 
 ## Recommended Direction
 

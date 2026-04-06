@@ -696,30 +696,30 @@ You can extract active substances from plants and animals to create potions with
 
 Changed ingredients to not be as specifically tied to a certain monster and added more potions. You now always need at least a monster or group that together has 12+ Strength to have enough ingredients unless something else is mentioned. If you are missing just some Strength or have some in excess, your GM could allow you to roll with a -1 penalty per 2 points missing, or a +1 bonus per 3 points in excess.
 
-| NAME OF POTION | NEEDS CAULDRON, WATER, HERBS AND THESE ITEMS |
-| --- | --- |
-| Drops of Strength | Heart of a humanoid with 18+ Strength |
-| Elixir of Wisdom | Teeth from a monster that can change physically or mentally change it appearance |
-| Decoction of Cunning | Essence from a demon or group of demons with 18+ Strength |
-| Quick Nectar  | Feathers plucked from a monster or monster swarm |
-| Healing Water  | Blood from a monster with regenerative powers |
-| Longwalk | Ground bones from ghouls or more powerful undead |
-| Quenching Swig | Gall from a sea monster |
-| Bellyfull | Gastric juices from a monster that can dissolve just about anything |
-| Honey of Embers | Blood from a monstrous arthropod (exoskeletal creatures, like insects)  |
-| Elixir of Life | Blood from a dragon (not drake) with 24+ Strength |
-| Iron Juice | Scales from a monster or pulverized stone from a construct or group of constructs |
-| Healing Decoction | Blood from a monster with regenerative powers |
-| Refreshing Decoction | Slime from a mollusc / very slimy monster |
-| Calming Decoction | Blood from a monster made of different human/animal parts  |
-| Intoxicating Decoction | Acid from monster that has an acidic attack |
-| Porridge of Prophecy | Venom from a monster with a poisonous attack |
-| Instant Sobriety | Ichor from an at-least partially non-corporeal undead |
-| Everrun | Sap from a monstrous plant |
-| Neverdown | Heart or hearts from monstrous animals (like larger version of real life animals) |
-| Cat's Reflexes | Teeth from a cat or snake-like monster |
-| Pain Numb  | Essence from a demon or group of demons |
-| Dark Sight | Ashes from the burnt bones of intelligent undead |
+| NAME OF POTION         | NEEDS CAULDRON, WATER, HERBS AND THESE ITEMS                                      |
+| ---------------------- | --------------------------------------------------------------------------------- |
+| Drops of Strength      | Heart of a humanoid with 18+ Strength                                             |
+| Elixir of Wisdom       | Teeth from a monster that can change physically or mentally change it appearance  |
+| Decoction of Cunning   | Essence from a demon or group of demons with 18+ Strength                         |
+| Quick Nectar           | Feathers plucked from a monster or monster swarm                                  |
+| Healing Water          | Blood from a monster with regenerative powers                                     |
+| Longwalk               | Ground bones from ghouls or more powerful undead                                  |
+| Quenching Swig         | Gall from a sea monster                                                           |
+| Bellyfull              | Gastric juices from a monster that can dissolve just about anything               |
+| Honey of Embers        | Blood from a monstrous arthropod (exoskeletal creatures, like insects)            |
+| Elixir of Life         | Blood from a dragon (not drake) with 24+ Strength                                 |
+| Iron Juice             | Scales from a monster or pulverized stone from a construct or group of constructs |
+| Healing Decoction      | Blood from a monster with regenerative powers                                     |
+| Refreshing Decoction   | Slime from a mollusc / very slimy monster                                         |
+| Calming Decoction      | Blood from a monster made of different human/animal parts                         |
+| Intoxicating Decoction | Acid from monster that has an acidic attack                                       |
+| Porridge of Prophecy   | Venom from a monster with a poisonous attack                                      |
+| Instant Sobriety       | Ichor from an at-least partially non-corporeal undead                             |
+| Everrun                | Sap from a monstrous plant                                                        |
+| Neverdown              | Heart or hearts from monstrous animals (like larger version of real life animals) |
+| Cat's Reflexes         | Teeth from a cat or snake-like monster                                            |
+| Pain Numb              | Essence from a demon or group of demons                                           |
+| Dark Sight             | Ashes from the burnt bones of intelligent undead                                  |
 
 - **✦ Instant Sobriety:** Cures the intoxicated condition.
 - **✦ Everrun:** Gain 2 ranks in ATHLETE for a Quarter Day.
@@ -1084,6 +1084,26 @@ In a traditional Forbidden Lands campaign, this talent can only be taken with th
 - **✦ RANK 4:** Replace the D8 Artifact Die with a D10 die when making lore rolls to craft items with
   the INVENTOR requirement. The Weapon Bonus can be three points higher than normal when making masterwork firearms, slingshots, and bullets. This takes eight times as long, and your roll is modified by -6.
 - **✦ RANK 5:** Replace the D10 Artifact Die with a D12 die when making lore rolls to craft items with the INVENTOR requirement. The Weapon Bonus can be four points higher than normal when making masterwork firearms, slingshots, and bullets. This takes sixteen times as long, and your roll is modified by -8.
+
+### INSIDE THE GUARD
+
+You read the overreach and slip past the point before the haft recovers. This talent does not work against monsters until RANK 5.
+
+- **✦ RANK 1:** Once per round, when an enemy attacks you in melee with a weapon that has longer reach than yours and rolls no ⚔️, you may spend 1 WP to step inside their guard. This counts as a successful **CUT IN** and costs no action.
+- **✦ RANK 2:** After you successfully **CUT IN** against an enemy whose weapon has longer reach than yours, your next melee attack against that enemy before the end of the round gains +1.
+- **✦ RANK 3:** After you **CUT IN** against a **LONG-REACH** weapon, that enemy suffers -2 on their next _move_ roll to use **BACK** or otherwise open the distance against you before your next turn.
+- **✦ RANK 4:** When you make a **CUT IN** roll against a weapon with longer reach than yours and roll 2 or more ⚔️, you may immediately make one free melee attack against that enemy.
+- **✦ RANK 5:** You can add a D8 Artifact Die to all your **CUT IN** rolls. This talent now works against monsters.
+
+### KEEP THEM OUT
+
+You fight from the edge of your steel and punish anyone who tries to crowd you. This talent does not work against monsters until RANK 5.
+
+- **✦ RANK 1:** When an enemy rolls no ⚔️ on a **CUT IN** roll, you may spend 1 WP to hold them at distance. They cannot attempt **CUT IN** against you again until after their next turn. If that same approach could also trigger **BRACE** or **INTERCEPT**, choose one effect or the other.
+- **✦ RANK 2:** While your weapon has longer reach than your enemy's and they have not closed the distance, your melee attacks and **PARRY** rolls with that weapon gain +1.
+- **✦ RANK 3:** When you use RANK 1, that enemy also cannot **PARRY** your attacks until after their next turn. They can still **DODGE**.
+- **✦ RANK 4:** Once per round, when you use RANK 1, you may also make one immediate melee attack against that enemy if your weapon can reach them. This counts as your one immediate attack outside your turn. If that same approach already triggered **BRACE**, **INTERCEPT**, or SPEAR FIGHTER RANK 2, you cannot also use this rank.
+- **✦ RANK 5:** Add a D8 Artifact Die to the immediate attack from RANK 4. This talent now works against monsters.
 
 ### KNIFE FIGHTER
 
