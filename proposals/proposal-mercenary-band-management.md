@@ -86,7 +86,7 @@ _Human · Fighter · Old_ **WP Max 7**
 
 _Old characters may assign up to 4 points to one profession skill. Melee 4 applies here._
 
-**Kin:** Adaptive 1 **Profession:** Path of the Blade 2 **Languages:** Human 2, Dwarf 1 **General:** Executioner 1, Threatening 1
+**Kin:** Adaptive 1 **Profession:** Path of the Blade 2 **Languages:** Human 2, Dwarf 1 **General:** Executioner 1, Educated 1
 
 **Gear:** Longsword · Studded leather armor · Pay ledger · D6 Silver · Food D8 · Water D6
 
@@ -1089,7 +1089,33 @@ MORALE is a single score from 1 to 5 tracked for the whole band. It is not a cha
 | 2      | Wavering | -2 to band MELEE rolls. Check MORALE before any dangerous assignment.      |
 | 1      | Broken   | The band may scatter. Any engagement triggers a MORALE check or desertion. |
 
-**MORALE checks:** The leader rolls MANIPULATION vs. difficulty equal to outstanding grievances (see table in Morale Triggers below). On a failure, the band loses one MORALE step. On 0 ⚔️, two steps are lost and a Named Man (see Section 7) may leave or act against the group.
+**MORALE checks:** The leader rolls MANIPULATION vs. difficulty set by outstanding grievances (see Grievance Difficulty table below). On a failure, the band loses one MORALE step. On 0 ⚔️, two steps are lost and a Named Man (see Section 7) may leave or act against the group.
+
+**Triggers are automatic.** Events in the MORALE Triggers table adjust the score without a roll. They happen when the listed condition happens.
+
+**Checks are called by context.** Three situations call for a MORALE check: leading a dangerous assignment when MORALE is WAVERING (2) or SHAKEN (3), leading any engagement when MORALE is BROKEN (1), or ordering an atrocity without material gain (Section 9). In each case the leader rolls MANIPULATION against difficulty from the Grievance Difficulty table.
+
+**One or the other, not both.** A late payment produces the automatic −1 trigger. It does not also produce a MORALE check. Where Section 9 specifically calls for a check after an atrocity causing a score change, both apply in sequence — the score drops from the trigger first, then the leader rolls the check.
+
+**Voluntary check.** The captain may call a MORALE check once per week, at the cost of one Quarter Day. The captain addresses the assembled men. Difficulty is set by the single most severe active grievance — the captain cannot choose a lesser one. On success, that grievance is cleared. On failure, nothing changes and the attempt is noted.
+
+**Grievance Difficulty:**
+
+| GRIEVANCE                                  | DIFFICULTY |
+| ------------------------------------------ | ---------- |
+| Late wages, 7 or fewer days                | 1          |
+| Named Man killed in action                 | 1          |
+| Atrocity ordered, plunder distributed      | 2          |
+| Late wages, 8–14 days                      | 2          |
+| Mission pay unpaid 3+ days                 | 2          |
+| Atrocity ordered, no plunder               | 2          |
+| Retainer unpaid 15+ days                   | 3          |
+| Contract broken through captain's decision | 3          |
+| Fellowship abandoned the band              | 3          |
+
+**Stacking.** Take the highest single grievance's difficulty, then add 1 for each additional active grievance beyond the first. Cap at 4.
+
+**Clearing.** An addressed grievance is removed at the start of the following week. Addressing means the captain has taken a concrete action — paid the wages, publicly acknowledged the Named Man's loss, made restitution. An apology without action does not clear a grievance.
 
 **Starting MORALE:** A fresh band recruited from a single settlement begins at 3. After a successful first engagement and receiving promised pay, it rises to 4.
 
@@ -1097,18 +1123,26 @@ MORALE is a single score from 1 to 5 tracked for the whole band. It is not a cha
 
 These change MORALE at the end of each week.
 
-| EVENT                                            | MORALE CHANGE                                |
-| ------------------------------------------------ | -------------------------------------------- |
-| Won an engagement with few casualties            | +1                                           |
-| Paid on time, in full                            | +1 (once/season, does not stack per payment) |
-| Band proved decisive value — took something real | +1                                           |
-| Suffered significant loss (20%+ casualties)      | -1                                           |
-| Late payment by 3+ days                          | -1                                           |
-| Broken contract (leader's fault)                 | -2                                           |
-| Atrocity ordered by leader, no plunder gained    | -1                                           |
-| Atrocity ordered, men got plunder                | +1 (but see Atrocities)                      |
-| Fellowship abandoned the band in danger          | -2                                           |
-| Named Man killed                                 | -1                                           |
+| EVENT                                            | MORALE CHANGE                                       |
+| ------------------------------------------------ | --------------------------------------------------- |
+| Won an engagement with few casualties            | +1                                                  |
+| Paid on time, in full                            | +1 (once/season, does not stack per payment)        |
+| Band proved decisive value — took something real | +1                                                  |
+| Suffered significant loss (20%+ casualties)      | -1                                                  |
+| Late payment by 3+ days                          | -1                                                  |
+| Broken contract (leader's fault)                 | -2                                                  |
+| Atrocity ordered by leader, no plunder gained    | -1                                                  |
+| Atrocity ordered, men got plunder                | +1 (only when MORALE is 2 or below; see Atrocities) |
+| Fellowship abandoned the band in danger          | -2                                                  |
+| Named Man killed                                 | -1                                                  |
+
+**Net movement cap.** All applicable MORALE triggers fire each week, ranked by severity (largest modifier first). The score stops moving after a net change of 3 in either direction. Remaining triggers do not adjust the score but are recorded as active grievances — they feed MORALE check difficulty and are visible to the captain.
+
+**Floor.** MORALE cannot drop below 1 through trigger applications alone. A trigger that would push MORALE to 0 or below holds the band at MORALE 1. Band dissolution is a MORALE check failure at MORALE 1 during an engagement, not a trigger outcome.
+
+**Ceiling.** MORALE cannot exceed 5. Positive triggers earned above the ceiling are lost.
+
+**Recovery from MORALE 1.** A positive trigger at MORALE 1 (BROKEN) raises the score to 2 without requiring a MORALE check. The floor is a pressure state, not a trap with no exit. The captain still faces the BROKEN check if an engagement fires before a positive trigger arrives.
 
 ### Band Archetypes
 
@@ -1128,7 +1162,7 @@ Built around one captain who holds the company by force of threat and selective 
 
 - **Recruitment:** Tyrant captains prefer men who are already broken to something. Criminals, former convicts, men with debts or prices on their heads, men who have no settlement to return to. The initiation is a test of submission: new men are given the worst tasks, subjected to directed cruelty from the senior members, and watched to see if they break, run, or go quiet and adapt. Men who go quiet and adapt are the ones the captain wants. Men who fight back are allowed to stay only if they fight well enough to be worth the trouble — and only if the captain can hurt them in a way that settles the question of who is in charge. A criminal background is not required but is treated as a qualification: a man with a past is a man who cannot afford to leave.
 - **Strengths:** May use INTIMIDATION in place of MANIPULATION on all internal discipline and MORALE checks (see Tyrant Punishments above). Common fighters do not check morale in the first round of any engagement — fear of the captain outweighs fear of the enemy.
-- **Weakness:** The band is Fear-Held (see Tyrant Companies, Section 6). Named Men Loyalty decay is doubled. When the captain is absent, removed, or visibly weakened, MORALE drops by 1 immediately and all Named Men re-evaluate their position.
+- **Weakness:** The band is Fear-Held (see Tyrant Companies, Section 6). Named Men Loyalty can drop to 0. When the captain is absent, removed, or visibly weakened, MORALE drops by 1 immediately and all Named Men re-evaluate their position.
 - **Typical Named Men personality:** Calculating, Paranoid Competent, Grudge-Holding.
 - **Breaks when:** The captain loses once — badly, visibly, in front of men who have been storing the calculation for months.
 
@@ -1272,6 +1306,21 @@ Within each tier, divide that tier's share equally among all men in it. 1 Named 
 
 Tribute extracted from a settlement counts as a loot event. The captain who takes tribute without distributing shares faces two problems at once: the settlement's consequences, and his own men asking where their cut went.
 
+#### Archetype Renegotiation
+
+Archetype is declared at band formation. A captain who wants to change it calls a council at any season boundary.
+
+Named Men state their position. Anonymous fighters do not vote, but their presence is a factor. The captain makes a MANIPULATION roll:
+
+- **Shifting toward a larger common share** (Tyrant → Standard, Standard → Fraternal, Fraternal → Kin-Clan): difficulty 2. Reduce difficulty by 1 for each Named Man currently at Loyalty 3, minimum difficulty 1.
+- **Shifting toward a smaller common share** (any direction that increases the captain's cut): difficulty 3. Named Men at Loyalty 1 who oppose the change roll against Loyalty immediately, before the council concludes.
+
+On success, the archetype shifts one tier in the declared direction, effective the following season. On failure, the archetype holds. A second failed renegotiation in the same season costs MORALE −1.
+
+A captain who changes the split without calling a council triggers Named Man Trigger 6 in any Named Man who notices. The council is the only legal path.
+
+When the majority of a Kin-Clan band's surviving fighters no longer share the founding kin, the difficulty to shift away from Kin-Clan drops to 1. The GM determines when this condition is met.
+
 #### Windfall Events
 
 Most contracts pay the agreed fee and nothing else. When the band clears a structure, kills a named threat, or takes a strongpoint, the GM rolls D6. On a 5–6, something was left behind that the contract price did not anticipate.
@@ -1372,7 +1421,11 @@ When the leader fails to pay the band on time, roll D6. This replaces the standa
 
 If the band has a BARRACKS/SHELTER back at the stronghold, apply the standard improved non-payment rule (roll twice, take the higher result) to that table only while fighters are at the stronghold. In the field, this table always applies.
 
-**Payment in goods (in-kind).** When silver is short but the goods inventory covers the gap, the captain may pay wages in-kind: grain, pelts, salvage, anything from the goods inventory valued at the owed amount. Men accept this once without consequence — lean times are understood. A second consecutive week of in-kind payment: roll FIELD NON-PAYMENT at +1 difficulty on the next scheduled check. A third consecutive week: roll at standard difficulty immediately, not at the next check. Men who live by killing are patient about coin, not indefinitely patient about never seeing it.
+**Payment in goods (in-kind).** When silver is short but the goods inventory covers the gap, the captain may pay wages in-kind: grain, pelts, salvage, anything from the goods inventory valued at the owed amount. In-kind payment satisfies the non-payment threshold — while the captain provides goods-payment each week, the FIELD NON-PAYMENT table does not fire.
+
+In-kind has its own cost curve. A second consecutive week of goods-payment triggers grumbling but no roll. A third consecutive week: the captain rolls MANIPULATION at difficulty 2. On failure, MORALE drops 1 step. On success, the men hold — but the difficulty increases by 1 for each additional consecutive week of goods-payment beyond the third, to a maximum of 4.
+
+The two systems do not overlap. In-kind escalation governs what happens when the captain pays in goods. The FIELD NON-PAYMENT table governs what happens when the captain pays nothing. A week with no payment of any kind fires the non-payment table regardless of prior in-kind history.
 
 > **Example:** Pell's warband of nine has been in the Stillmere hills for ten days. The employer's factor was due on day eight. Pay day comes and Pell has nothing to put on the table. He rolls D6 and gets a 4 — the sergeant Maret confronts him in front of the assembled men. Pell rolls MANIPULATION against difficulty 2: four dice, two ⚔️. He holds the line. The men accept it for now. Next pay day is not a matter of explanation.
 
@@ -1533,6 +1586,8 @@ The band can occupy a settlement — plant its banner and stay, asserting author
 - The settlement revolts: if Standing hits -5 and the detachment is fewer than required, the settlers attack. They use ANGRY MOB rules at full settlement adult strength.
 - A rival force drives the band out: the rival inherits whatever goodwill the band destroyed, at GM discretion.
 
+**Settlement drain.** A settlement that has been occupied and extracted from is weakened for one full season after the occupation ends. Its foraging yield drops by one column on the terrain table, its trade-goods output halves, and its recruitable population is treated as tapped (no recruitment rolls until the season passes). The drain reflects depleted stores, scattered families, and fields left unworked. A second occupation within the same season reduces the settlement permanently by one size category — a village becomes a hamlet, a hamlet becomes ruins.
+
 ### Feud and Resolution
 
 Extortion, tribute, and occupation all interact with the Feud Track. Use the extended track:
@@ -1602,7 +1657,9 @@ On a success, the leader's proposed terms are accepted, adjusted only by what th
 
 A band at Allegiance 2 or higher with this employer reduces the terms difficulty by 1.
 
-**Reputation and opening rates.** An employer who already knows the band’s name starts from a different number. For each point of band Reputation above 2, add 5% to the employer’s initial offer on any non-garrison contract (Reputation 3 = +5%, 4 = +10%, 5 = +15%). This is not a modifier to the MANIPULATION roll — it applies before negotiation begins. A Reputation 4 band does not argue its way up to better terms; it walks in to better terms and negotiates from there. A Reputation 5 band is often approached rather than approaching.
+**Reputation and opening rates.** An employer who already knows the band’s name starts from a different number. For each point of band Reputation above 2, add 5% to the employer’s initial offer on any non-garrison contract (Reputation 3 = +5%, 4 = +10%, 5 = +15%). This adjustment applies before negotiation begins — it sets the opening offer floor. A Reputation 4 band does not argue its way up to better terms; it walks in to better terms and negotiates from there. A Reputation 5 band is often approached rather than approaching.
+
+Reputation and Allegiance operate on different axes of the same negotiation. Reputation adjusts the employer’s opening offer floor. Allegiance adjusts the MANIPULATION difficulty for negotiating above that floor (Allegiance 2 reduces terms difficulty by 1). They do not touch the same number and do not require a stacking formula. A Reputation 5 band at Allegiance 3 walks in to a higher floor and negotiates from there at reduced difficulty.
 
 ### Allegiance
 
@@ -1685,7 +1742,11 @@ A contract is a job with defined terms, a named employer, and a coin figure. Acc
 | Curse removal ◆            | 200–350s  | 7 days    | Town+         | On completion                                | Caster bands only. Employer provides access; result guaranteed or partial refund standard. |
 | Divination mission ◆       | 130–220s  | 5 days    | Town+         | In advance                                   | Caster bands only. Intelligence through magical means.                                     |
 
-**Price scaling:** These ranges assume a standard nine-man warband. A smaller band negotiates proportionally lower. A band with a caster negotiates **+30%** on all standard non-garrison contracts — employers who want magic in their service pay for it.
+**Price scaling:** These ranges assume a standard nine-man warband. A smaller band negotiates proportionally lower.
+
+**Caster contract access.** A band with a caster attracts work that a non-caster band would not be offered — the Caster Contracts (◆) category above, plus assault and clearance contracts where magical support is a material factor. The caster premium is not a percentage on the same patrol; it is access to a higher-value job category. When both caster access and high Reputation apply and the contract type is already the highest available, the caster premium provides no additional benefit. Reputation adjustment applies to whatever contract type the band received.
+
+**Opening offer ceiling.** No contract opens above 1.5× its stated type ceiling regardless of applied bonuses.
 
 Contracts without a payment timing listed pay in full on completion unless the employer proposes otherwise. Disputed timing is a negotiation failure. Settle it before the band leaves, not in the field when the work is done.
 
@@ -1980,7 +2041,7 @@ A _Skirmisher_ band (3-6 men) needs no dedicated logistics Quarter Day. A _Warba
 
 ### DRILL
 
-Spending a full day (two Quarter Days) in DRILL improves the band's readiness. After a week of consistent drilling, the leader may make a COMMAND roll (MANIPULATION, difficulty 2). On success, Common fighters count as trained for one full engagement sequence — they do not have to roll morale when casualties mount. After three successful full weeks of drilling, Veteran fighters gain +1 to their MELEE for the season.
+Spending a full day (two Quarter Days) in DRILL improves the band's readiness. After a week of consistent drilling, the leader may make a COMMAND roll (MANIPULATION, difficulty 2). On success, Common fighters count as trained for one full engagement sequence — they do not have to roll morale when casualties mount. After three successful full weeks of drilling, Veteran fighters are **trained** for the season. Trained Veteran fighters do not check MORALE when casualties reach the standard threshold during engagements that season — they hold alongside the Commons. Trained status expires at the season boundary and must be re-earned. Skill advancement for Named Man and Veteran fighters occurs through XP only. DRILL does not increase MELEE.
 
 Drilling requires a TRAINING GROUNDS (at the stronghold) or a dedicated drill field established during camp (one Quarter Day of labor, requires at least 40 WOOD, lasts the season).
 
@@ -2022,7 +2083,7 @@ A tyrant captain may substitute INTIMIDATION for MANIPULATION on all internal MO
 - A **Fear-Held** band at MORALE 2 (Wavering) will not break openly. It will leak — men leaving in the night, minor sabotage, no warning given when the situation turns.
 - A **Fear-Held** band at MORALE 1 (Broken) does not dissolve in front of the captain. It dissolves behind them.
 
-In a tyrant company, loyalty scores for Named Men decay at double normal rate when triggers are hit. Named Men with Loyalty 1 in a fear-held company will sell information and act against the captain's interest the moment they calculate it is safe. The calculation usually arrives before the captain expects it.
+In a tyrant company, Loyalty for Named Men decays at the standard rate of 1 per trigger hit — the same speed as any other band. The difference is the floor. In a Fear-Held band, Loyalty can reach 0. At Loyalty 0, the Named Man has stopped weighing whether to leave. He is weighing when, and what he takes with him — information, equipment, or the man standing between him and the gate. A Named Man at Loyalty 0 will sell intelligence, sabotage a contract, or act against the captain the moment he calculates it is safe. The calculation usually arrives before the captain expects it.
 
 The difference between Fear-Held and Trust-Held is not visible until it needs to be. Both bands look functional at MORALE 4. The distinction is what happens to the information when things go wrong — and where Named Men's loyalty actually sits. See **Trust-Held Bands** below.
 
@@ -2145,7 +2206,9 @@ If a Named Man's Trigger is spoken aloud — not implied, stated plainly in fron
 
 **Flyting.** A man with a quick mouth and a specific grievance can turn Stage 2 or 3 into something the whole company watches rather than joins. An old tradition. It has a shape the Ravenlands recognizes — a word-fight instead of a blade-fight, formal enough that the watching men hold still.
 
-When an argument reaches Stage 2 or Stage 3, any participant may call for flyting. The challenge is simple: _let words settle this_. The other party may accept or refuse. Refusal pushes the argument one stage forward immediately — declining the word-fight in front of witnesses reads as an admission the man's mouth is not worth hearing.
+When an argument reaches Stage 2 or Stage 3, any participant may call for flyting. The challenge is simple: _let words settle this_. The other party may accept or refuse. Refusal does not advance the stage — it holds where it is. The crowd came for a word-fight; a man who will not meet words with words gives the other man the floor without contest. The refuser's next intervention roll in this argument is at +1 difficulty. Any Named Man watching takes note.
+
+A character who removes themselves from the vicinity before any blow is struck — sits down, sheathes their weapon, walks away — exits the argument at Stage 3 or below at no mechanical cost. At Stage 4, steel is moving. Leaving after a blow has landed is flight, and the company reads it that way.
 
 If both accept, physical escalation pauses. Resolve the exchange with an opposed PERFORMANCE roll. Difficulty equals the current stage number.
 
@@ -2185,7 +2248,11 @@ Mechanics: the band's Reputation in the employer's settlement increases by 1 for
 
 **Vengeance oath.** Sworn against a person or faction. Requires a wound, a name spoken aloud, and a reason. The oath states: this person — named, described, identified — has done a thing that cannot be paid for in coin, and I will see them dead. Witnesses are not required but are common.
 
-Mechanics: the oathed party (individual or whole band if sworn collectively) gains a permanent +1 MANIPULATION when attempting to gather information specifically about the oath target. They will ask anyone. Men who have sworn a vengeance oath will not agree to a contract that requires protecting or allying with the target, regardless of pay. A Named Man who holds a vengeance oath and is ordered to stand down by a captain must roll against Loyalty to comply. On a failure, they comply for now and find another time.
+Mechanics: the oathed party (individual or whole band if sworn collectively) gains a permanent +1 MANIPULATION when attempting to gather information about the oath target — the named person specifically. The bonus does not extend to their faction, their lieutenants, or their organization. Two vengeance oaths sworn against the same individual do not stack; the bonus stays at +1. They will ask anyone. Men who have sworn a vengeance oath will not agree to a contract that requires protecting or allying with the target, regardless of pay. A Named Man who holds a vengeance oath and is ordered to stand down by a captain must roll against Loyalty to comply. On a failure, they comply for now and find another time.
+
+The oath discharges when the oathed party personally witnesses the target's death or receives verifiable proof — a token of identity, a credible witness they trust. Hearsay does not discharge it. On discharge, the +1 MANIPULATION lapses and the Named Man may take contracts involving that faction without rolling against Loyalty.
+
+When a Named Man holding a vengeance oath advances to a full player character, the player chooses at transition: **Honor** (the oath carries forward under player control, +1 MANIPULATION intact); **Renounce** (the +1 MANIPULATION is permanently lost and Reputation drops by 1 in any settlement where the oath was publicly known); or **Hold** (the obligation exists but is not pursued actively — the character may accept conflicting contracts but rolls at +1 difficulty on any check directly involving the oath's subject).
 
 **Breaking a blood oath** is not acceptable by tradition — yet some low men do it nonetheless. The cost is as follows:
 
@@ -2193,7 +2260,7 @@ Mechanics: the oathed party (individual or whole band if sworn collectively) gai
 - The oath-breaker's Reputation (Ch08) drops by 1 in any settlement that hears of it.
 - A captain who breaks a brotherhood oath will find that no Named Man of quality will swear one with them again. The word travels slowly, but it travels.
 
-No oath can be dissolved by agreement. That is the point of it. A man who wants out of a blood oath can only wait for the other half to die, or be released publicly by a witnessed statement from the other party. Some men choose to die rather than break an oath. Some captains consider that a waste. It depends on the company.
+No brotherhood or bounty oath can be dissolved by agreement. That is the point of it. A man who wants out can only wait for the other half to die, or be released publicly by a witnessed statement from the other party. A vengeance oath is different — it discharges when the target is confirmed dead. The oath is not broken; it is complete. Some men choose to die rather than break an oath. Some captains consider that a waste. It depends on the company.
 
 ---
 
@@ -2481,6 +2548,8 @@ _Appearance: Not the biggest. Just the one standing when the others aren't._
 | 2       | Reliable. Will leave or act out if their trigger is hit; will not actively harm the band.   |
 | 1       | Self-interested. Will take coin elsewhere, sell information, or remain neutral in a crisis. |
 
+**Loyalty cap.** Loyalty cannot exceed 3. A positive trigger at Loyalty 3 does nothing — the man is already as loyal as a hired fighter gets. Loyalty cannot drop below 1 through normal triggers. At Loyalty 1, the Named Man is self-interested, not gone. Departure happens through a specific event: a Trigger hit at Loyalty 1, a second consecutive Trigger with no response, or a MORALE check failure at BROKEN.
+
 Loyalty changes over time:
 
 - +1 if the leader demonstrates genuine regard for the named man's wellbeing (healing their wounds, honoring their victory publicly, clearing a debt for them)
@@ -2543,13 +2612,13 @@ After any engagement resulting in a clear victory, award XP to each non-player N
 - On a 5: award **3 XP**
 - On a 4–3: award **2 XP**
 - On a 2: award **no XP**
-- On a 1: award **3 XP** and the Named Man suffers a meaningful injury. Roll on the critical injury table.
+- On a 1: award **1 XP** and the Named Man suffers a meaningful injury. Roll on the critical injury table.
 
 **Named Man transition to full character:** The GM may offer a Named Man a full character sheet when their player's original character is out of action and both the player and GM agree. A Named Man eligible for this transition should have at least 15 XP recorded, an Agenda that has been actively pursued, and Loyalty 3 with the fellowship. On transition, the player selects the Named Man's kin-appropriate profession from Ch02 and picks starting skills accordingly. Prior XP carries over at 2:3 conversion rate (15 Named Man XP becomes 10 PC XP). The Personality, Trigger, and Agenda survive the transition intact — they remain who they are.
 
 ### Named Man Connections
 
-A Named Man is not just a fighter. Every veteran carries a web of old relationships — former captains, garrison commanders who owe favors, factors who remember reliable work, warchiefs who knew them when. After three or more months of continuous service and Loyalty 5, a Named Man may attempt to use that network once per season.
+A Named Man is not just a fighter. Every veteran carries a web of old relationships — former captains, garrison commanders who owe favors, factors who remember reliable work, warchiefs who knew them when. After three or more months of continuous service and Loyalty 3, a Named Man may attempt to use that network once per season.
 
 **Using a Named Man’s network:** The captain names the Named Man and declares the attempt. The Named Man makes a MANIPULATION roll against a difficulty set by the Named Man’s background:
 
@@ -2904,13 +2973,11 @@ When an atrocity occurs:
 
 ### Plunder
 
-If the atrocity came with material gain — livestock taken, valuables looted, labor captured — MORALE may rise rather than fall, at least in the short term. This is the design's honest acknowledgment of how those situations work. However:
+If the atrocity came with material gain — livestock taken, valuables looted, labor captured — MORALE may rise rather than fall, but only when the band is already failing. The +1 MORALE trigger from “atrocity ordered, men gained plunder” fires only when MORALE is currently 2 or below. At MORALE 3 or higher, the men are functional — they do not need blood-money to hold together. The atrocity still produces plunder, still triggers Standing and Reputation consequences, still forces Named Man Loyalty checks on civilian-harm Triggers. It does not move MORALE when the band is already stable.
 
-- Short-term MORALE gain from atrocity plunder does not offset the Reputation consequences
-- Named Men with humanity-based Triggers still check loyalty regardless of plunder
-- The long-term Standing damage compounds across settlements. What paid for one good week creates obstacles for the next year.
+“Men gained plunder” is satisfied when plunder is distributed at the band's stated archetype share. The existing loot share mechanic validates the distribution.
 
-Tracking both effects simultaneously is the design intent. The system does not moralize. It accounts.
+This makes the atrocity-plunder trigger a desperation tool. A Tyrant captain who orders atrocities at MORALE 4 gains nothing from the trigger table. The Standing and Reputation damage accrues without the MORALE payoff. At MORALE 2, the same order buys one step. The system does not moralize — it accounts for when cruelty has leverage and when it has only cost.
 
 ### Oath-Breaker Status
 
@@ -2948,7 +3015,7 @@ A band leader without PATH OF THE COMMANDER uses MANIPULATION as written. PATH O
 
 **MASTER OF THE HUNT:** A fellowship member with this talent can reduce the band's daily food cost by assigning themselves as head forager. Their special trap clause (from proposal-hunting-season-weather-realism) allows traps to work while the band drills in camp.
 
-**COLD-BLOODED:** Fellowship members with COLD-BLOODED do not trigger MORALE penalties from ordered atrocities. Named Men are unaffected — their loyalty is independent.
+**COLD-BLOODED:** Fellowship members with COLD-BLOODED do not personally contribute to the band's aggregate MORALE penalty when an atrocity is ordered. The trigger table's −1 still fires — it reflects the band's reaction, not the leader's composure. Named Men still roll Loyalty checks against their own Triggers. COLD-BLOODED affects the leader's personal contribution to the atmosphere, not the men's judgment of what happened.
 
 ---
 
