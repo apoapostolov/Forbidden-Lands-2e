@@ -726,7 +726,7 @@ The Gristle knew. She had seen her when they arrived — a girl of maybe fifteen
 
 "That's a good settlement for dangerous service."
 
-She looked at him. Rask was not a bad fighter. He was not a bad soldier. He was just bad with women, and not in the way that meant clumsy or nervous. She had seen the aftermath of Rask with a woman once, two contracts ago, in a village she did not go back to.
+She looked at him. Rask was not a bad fighter. He was not a bad soldier either. He was just bad with women, and not in the way that meant clumsy or nervous. She had seen the aftermath of Rask with a woman once, two contracts ago, in a village she did not go back to.
 
 The elder would give the girl if asked. The Gristle knew this too. A village that had just paid grain and goats to a band of sixteen swords would give most things if the captain looked at the elder a certain way. That was the balance of force. She had used it before in directions she could live with.
 
@@ -744,7 +744,7 @@ It was. It always was. That did not make it free.
 
 ---
 
-#### Petter's Trigger
+#### Petter's Edge
 
 _Named Man Triggers · Loyalty_
 
@@ -996,11 +996,11 @@ Nobody asked one. Not because there were none. Because every captain in the room
 
 _Host Play · Advisory Figures_
 
-The advisor had arrived with Seld's fourth company and used no name anyone had given him. The captains called him the Listener, which was not a compliment.
+The advisor had arrived with Seld's fourth company and used no name anyone had given him. The captains called him the Listener, a name that left a lingering silence.
 
-He was a slight man — short through the frame, built economically, the kind of compact that came from a life of early work and not much of it after. He sat in the corner of every session and appeared to look at nothing, and most of the captains assumed he was decorative.
+He was a slight man — short through the frame, built economically, the kind of compact that came from a life of early work and not much of it after. He sat in the corner of every session and appeared to look at the ceiling, and most of the captains assumed he was decorative fixture.
 
-He was not decorative.
+He was not a fixture.
 
 On the second day of the assembly, the captain from Harga — a man named Vord, competent and loud, with a reputation for filling rooms with his weight — accused the Gristle of padding her roster count to draw a larger supply share. He had numbers. He stated them in front of all seven captains, looked at Seld, and waited.
 
