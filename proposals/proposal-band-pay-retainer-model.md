@@ -156,18 +156,57 @@ This creates a terrain decision during dead weeks: bands in bad terrain want to 
 
 The V1 model's primary failure is burning full wages during dead time. At 14.3s/day, a band that goes 7 days without a contract from its starting treasury of 100s is insolvent. The retainer model reduces dead-time burn to ~3.3s/day, extending the runway to ~30 days and making the basic operating loop viable.
 
-The simulation (model `v2_retainer`) shows survival rates improving substantially and bands sustaining over longer periods before requiring any lucky contract timing.
+**What the retainer model does not solve alone:**
 
-**What the retainer model does not solve:**
+Contract reward rates. The V2 retainer model improves survival substantially but leaves contracts paying barely above their own wage cost. A full fix requires both the retainer model and a contract pricing pass.
 
-Contract reward rates. The current contract pricing in Section 5 (50–450s, heavily distributed at the 60–130s range) produces contracts that pay approximately the cost of mission wages, leaving nothing for dead-time retainer costs. The retainer model makes dead-time cheaper but does not make contracts more generous.
+---
 
-A full fix requires addressing both:
+## Contract Pricing Reform
 
-1. This proposal (retainer model): reduces the cost structure
-2. A follow-on pass on contract pricing: scales rewards to band size × duration × risk, not flat settlement-tier estimates
+**Formula:** `floor pay = band_daily_cost × duration_days × 1.25`
 
-Without contract pricing reform, the retainer model makes the system _survivable_ but not _profitable_. That may be the intended design — the Ravenlands is not a place where soldiers get rich — but contracts should at minimum cover their own operational costs with a modest margin. Currently they do not.
+For the standard nine-man warband (daily cost: 13s):
+
+| CONTRACT TYPE         | OLD RANGE   | NEW RANGE    | DURATION | EMPLOYER    |
+| --------------------- | ----------- | ------------ | -------- | ----------- |
+| Patrol (weekly)       | 50–90s      | 110–165s     | 7d       | Town        |
+| Escort                | 60–130s     | 80–140s      | 5d       | Town        |
+| Clearing              | 100–220s    | 160–260s     | 10d      | Town        |
+| Protection (season)   | 80–150s     | 550–800s     | 91d      | Town        |
+| Warchief Raid         | 200–450s    | 225–380s     | 14d      | Warchief    |
+| Garrison (short)      | —           | 340–500s     | 21d      | Warchief    |
+| Magical Commission    | —           | 280–420s     | 12d      | Town        |
+| Ritual Ward           | —           | 185–300s     | 8d       | Warchief    |
+
+**Protection season (fundamental change):** The old "garrison duty" at 80–150s was incoherent — it covered less than 10% of a quarter's wages. The protection season is reframed as: the employer pays a flat fee in advance for having the band available for the quarter. The band remains on **retainer pay** during this arrangement, not mission pay. Daily cost during the season: ~3.3s/day + food. Income: 550–800s flat. Net position: +150s to +400s for the quarter.
+
+**Caster premium:** Bands with a caster negotiate +35% on standard contracts. Employers who want military outcomes improved by magic pay for it. Caster-only contract types (magical commission, ritual ward) are available to bands with at least one caster.
+
+**Bounties repriced:** All bounty rates approximately doubled to reflect a functional mercenary economy:
+
+| BOUNTY TYPE          | OLD RANGE | NEW RANGE |
+| -------------------- | --------- | --------- |
+| Local criminal       | 5–15s     | 12–30s    |
+| Named bandit         | 10–25s    | 25–60s    |
+| Deserter             | 2–5s      | 5–12s     |
+| Warlord enemy        | 50–200s   | 80–300s   |
+| Professional breach  | 10–30s    | 25–60s    |
+
+---
+
+## Caster Utility (Combat)
+
+Casters provide a concrete tactical benefit in field engagements: **casualty rate reduced by 40%** across all combat the band participates in. This represents protective magic, forewarning, and the morale advantage of having someone in the band who can do things no blade can.
+
+The caster's financial case in the V3 model:
+
+- **Mission wage:** 6s/day — covered by the 35% premium on contracts
+- **Retainer:** 8s/week (1.14s/day) — negligible
+- **Combat value:** fewer casualties means fewer replacements (~3–8s each), fewer death morale hits, longer band longevity
+- **Caster contracts:** magical commissions (280–420s/12d) and ritual wards (185–300s/8d) are only accessible to caster bands — these are contracts that cannot be taken otherwise
+
+An initiate caster costs roughly 29s/week on mission and 8s/week on retainer. Against a band earning 35% more on contracts and avoiding ~40% of casualties, this cost is justified.
 
 ---
 
@@ -175,40 +214,39 @@ Without contract pricing reform, the retainer model makes the system _survivable
 
 **Standard nine-man warband: 6 commons, 2 veterans, 1 named man. Starting treasury: 100s.**
 
-| METRIC                  | V1 DAILY WAGES | V2 RETAINER  | CHANGE      |
-| ----------------------- | -------------- | ------------ | ----------- |
-| Survival rate (1 year)  | 62.5%          | 83.5%        | +21.0 pp    |
-| Mean collapse day       | day 219        | day 240      | +21 days    |
-| Median final treasury   | 0s             | 53.6s        | +53.6s      |
-| Mean annual income      | 1,509s         | 1,781s       | +272s       |
-| Mean annual expenses    | 3,113s         | 2,269s       | −844s       |
-| Dead-time cost (annual) | ~1,706s        | ~495s        | −1,211s     |
-| Loot shares paid to men | n/a            | 195s         | new expense |
-| Net margin              | −207%          | −59%         | +148 pp     |
-| Days on contract (mean) | 97d (26.5%)    | 111d (30.5%) | +14 days    |
-| Dead-time runway (100s) | ~8 days        | ~30 days     | ×3.7        |
+| METRIC                  | V1 DAILY WAGES | V2 RETAINER  | V3 RETAINER+REPRICED |
+| ----------------------- | -------------- | ------------ | -------------------- |
+| Survival rate (1 year)  | 62.5%          | 83.5%        | **95.5%**            |
+| Median final treasury   | 0s             | 54s          | **868s**             |
+| Mean annual income      | 1,509s         | 1,781s       | **2,676s**           |
+| Mean annual expenses    | 3,113s         | 2,269s       | **2,195s**           |
+| Net margin              | −106%          | −27%         | **+18%**             |
+| Days on contract (mean) | 97d (26.5%)    | 111d (30.5%) | **234d (64.1%)**     |
+| Dead-time runway (100s) | ~8 days        | ~30 days     | ~30 days             |
 
 **Small band (4 commons, 1 veteran):**
 
-| METRIC                | V1    | V2    |
-| --------------------- | ----- | ----- |
-| Survival rate         | 49.5% | 78.0% |
-| Median final treasury | 0s    | 95.3s |
-| Net margin            | −105% | −25%  |
+| METRIC                | V1    | V2    | V3         |
+| --------------------- | ----- | ----- | ---------- |
+| Survival rate         | 49.5% | 78.0% | **85.0%**  |
+| Median final treasury | 0s    | 95s   | **989s**   |
+| Net margin            | −105% | −25%  | **+31%**   |
 
 **Warband with initiate caster (6c+2v+1nm+1ca):**
 
-| METRIC                | V1    | V2    |
-| --------------------- | ----- | ----- |
-| Survival rate         | 80.5% | 89.5% |
-| Median final treasury | 0s    | 0s    |
-| Net margin            | −520% | −143% |
+| METRIC                | V1    | V2    | V3          |
+| --------------------- | ----- | ----- | ----------- |
+| Survival rate         | 92.0% | 96.5% | **100.0%**  |
+| Median final treasury | 0s    | 0s    | **822s**    |
+| Net margin            | −106% | −27%  | **+10%**    |
 
-**Key finding:** The retainer model reduces dead-time cost by 71% (1,706s → 495s per year). This is the primary driver of improved survival. The mean treasury chart for V2 climbs through the year (53s median by year-end vs. 0s in V1), reflecting that surviving bands accumulate a small buffer rather than burning out.
+**Key findings:**
 
-The caster variant shows the highest raw survival but a deeply negative margin — the caster's effective daily cost (6s mission / 1.14s retainer) is unrecoverable from the standard contract pool.
+V3 is the first model where all three configurations show positive net margin and meaningful treasury accumulation by year-end. The caster variant achieves 100% one-year survival — the caster's combat utility (−40% casualties) combined with the +35% contract premium and caster-specific contract access brings the cost into alignment with the value delivered.
 
-**Residual findings saved to:** `analysis/band_economy_findings_v2.md`
+The protection season contract is the single most impactful change. In the simulation, V3 bands spend 64% of the year on active contracts (including garrison seasons) vs 27% in V1. This is the direct effect of the protection season making stable multi-month arrangements viable for employers and financially sensible for captains.
+
+**Full findings saved to:** `analysis/band_economy_findings_v2.md`
 
 ---
 

@@ -1,6 +1,6 @@
 {
   "tag": "v1_small",
-  "timestamp": "20260406_202943",
+  "timestamp": "20260406_202843",
   "runs": 200,
   "days": 365,
   "summary": {
@@ -21,7 +21,7 @@
     "m_exp_food": 264.50030168157684,
     "m_exp_loot": 0.0,
     "m_total_exp": 2337.4107404336014,
-    "m_net_margin": -0.4942378897003377,
+    "m_net_margin": -1.0507651433060996,
     "m_contract_days": 100.185,
     "m_travel_days": 49.03,
     "m_idle_days": 92.545,
