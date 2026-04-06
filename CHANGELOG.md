@@ -29,6 +29,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Revised many Chapter 6 critical injury labels to better match their actual recovery times while keeping the same mechanics, and rewrote several horror trauma names to fit the harsher low-tech tone of the setting.
 - Reworked Chapter 6 physical critical injuries so `65` now represents a survivable catastrophe rather than automatic death, and clarified how `LUCKY`, `PHYSICIAN`, `MEND WOUNDS`, and `REGENERATION` interact with lasting bodily ruin.
 - Restructured Chapter 7 mishaps so each magical path has its own integrated mishap table, and rebalanced severity bands.
+- Rebalanced ranged weapon table in Chapter 5: `Throwing Axe`, all three bows, `Blowgun`, and all three crossbows each lose one Gear Die of bonus; `Light Crossbow` range extended from Short to Long. `Composite Bow` entry in Chapter 10 corrected to reflect the new Short Bow baseline.
 
 ### Removed
 

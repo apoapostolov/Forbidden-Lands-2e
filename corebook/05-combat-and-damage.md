@@ -588,16 +588,18 @@ Fine weapons require a specialist and proper tools; crude weapons can be made wi
 | ----------------- | ---- | ----- | ------ | ----- | ---- | ----------------------------------------------------------------------------------------------------- |
 | Rock              | 1H   | —     | 1      | Near  | —    | Light, Ranged (Blunt)                                                                                 |
 | Throwing Knife    | 1H   | +1    | 1      | Near  | 1    | Light, Pointed, Melee/Ranged                                                                          |
-| Throwing Axe      | 1H   | +2    | 2      | Near  | 2    | Edged, Melee/Ranged                                                                                   |
+| Throwing Axe      | 1H   | +1    | 2      | Near  | 2    | Edged, Melee/Ranged                                                                                   |
 | Throwing Spear    | 1H   | +1    | 2      | Short | 2    | Pointed, Melee/Ranged                                                                                 |
 | Sling             | 1H   | +1    | 1      | Short | 1    | Light, Ranged (Blunt), Ready, Stones/Bullets                                                          |
-| Blowgun           | 1H   | +2    | 1      | Short | 3    | Light, Ranged (Pointed), Ready, Blowgun darts, Armor Rating x2, Can remain hidden during ambush round |
-| Short Bow         | 2H   | +2    | 1      | Short | 6    | Light, Ranged (Pointed), Ready, Arrows                                                                |
-| Recurve Bow       | 2H   | +2    | 1      | Long  | 12   | Light, Ranged (Pointed), Ready, Arrows                                                                |
-| Longbow           | 2H   | +2    | 1      | Long  | 12   | Tough, Ranged (Pointed), Ready, Arrows                                                                |
-| Light Crossbow    | 2H   | +3    | 2      | Short | 24   | Ranged (Pointed), Load, Quarrels/Bolts                                                                |
-| Heavy Crossbow    | 2H   | +3    | 3      | Long  | 40   | Heavy, Ranged (Pointed), Load x2, Quarrels/Bolts                                                      |
-| Windlass Crossbow | 2H   | +3    | 3      | Long  | 40   | Heavy, Ranged (Pointed), Load x2, Quarrels/Bolts, Windlass                                            |
+| Blowgun           | 1H   | +1    | 1      | Short | 3    | Light, Ranged (Pointed), Ready, Blowgun darts, Armor Rating x2, Can remain hidden during ambush round |
+| Short Bow         | 2H   | +1    | 1      | Short | 6    | Light, Ranged (Pointed), Ready, Arrows                                                                |
+| Recurve Bow       | 2H   | +1    | 1      | Long  | 12   | Light, Ranged (Pointed), Ready, Arrows                                                                |
+| Longbow           | 2H   | +1    | 1      | Long  | 12   | Tough, Ranged (Pointed), Ready, Arrows                                                                |
+| Light Crossbow    | 2H   | +2    | 2      | Long  | 24   | Ranged (Pointed), Load, Quarrels/Bolts                                                                |
+| Heavy Crossbow    | 2H   | +2    | 3      | Long  | 40   | Heavy, Ranged (Pointed), Load x2, Quarrels/Bolts                                                      |
+| Windlass Crossbow | 2H   | +2    | 3      | Long  | 40   | Heavy, Ranged (Pointed), Load x2, Quarrels/Bolts, Windlass                                            |
+
+> **ON ARROWS AND WOUNDS:** A war arrow punches through mail and buries itself in the meat beneath. A crossbow bolt at close range has punched clean through a breastplate. So why does a sword cut deeper in these rules? Because a sword stays. The blade opens tissue, severs muscle, and the wielder drives it home with his body weight behind it. An arrow strikes and is done — one hole, one moment of force, then nothing but the shaft standing in flesh. Most arrow wounds, even bad ones, leave a man fighting until the blood loss finishes him. The axe in the skull does not. Damage in this game is not just the wound. It is the whole body failing — and a blade in the hands of a man who means it reaches places an arrow cannot.
 
 ### WEAPON LENGTHS
 
