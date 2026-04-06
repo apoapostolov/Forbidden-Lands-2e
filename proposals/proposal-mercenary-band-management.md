@@ -40,6 +40,72 @@ Earn that, and you have a band. Lose it, and you have twenty men deciding whethe
 
 ---
 
+### Meet the Band
+
+_The following characters appear across the Band Life vignettes. They are not heroes. They are a working roster — some trustworthy, some not, most useful in specific conditions. They are presented here so the vignettes read as one continuous story rather than sixteen separate illustrations._
+
+---
+
+**The Gristle** — _Human (Alderlander). Captain._
+
+Pale-haired, tall, with the deliberate gait of a woman who has spent too many years making decisions that cost other people. She was not born to command. She learned it the way most things in the Ravenlands are learned: by being the last one standing with enough sense to speak. Her men do not love her. Most of them respect her, which is harder to earn and lasts longer. She named herself the Gristle — not as a compliment, as she points out — after a contract where she was the only one who ate and made the men march on empty. It stuck. She has not tried to lose it.
+
+---
+
+**Gest** — _Human. Sergeant._
+
+Old soldier, thick through the neck, carries the ledger the way some men carry a sword — like it is the thing that keeps order and he knows it. Gest has been doing this longer than the Gristle has been alive, or says so, and nobody has contradicted him to his satisfaction. He does not give speeches. He gives instructions, once, and then watches to see if you followed them. If you did not, something happens to your pay.
+
+---
+
+**Petter the Hook** — _Dwarf. Veteran._
+
+Nine years at this. Knee that has been bad for six of them and will never be good again. He sharpens things that do not need sharpening. He does not complain about pain, cold, hunger, heat, short pay, bad contracts, or long roads, because dwarves who complain about those things are dwarves who did not last. He carries the debts of every man who died under his watch and pays them on the spring road to whatever family is left. He has never spoken about why he is still doing this. Nobody has asked.
+
+---
+
+**Hargamar** — _Dwarf. Veteran._
+
+Older than Petter and quieter. He was a stoneworker in the quarries south of the Amber Peaks until the quarry stopped paying, and then he picked up a sword because the sword paid, which he will tell you is the only reason anyone picks up a sword. He holds the center of a shield wall without being told. He has no named agenda. He has the specific competence of a man who has learned to be useful in exactly one situation and made peace with it.
+
+---
+
+**Brosa** — _Human (Alderlander). Common._
+
+New. Good shoulders, clean teeth, a scar across the back of his left hand that says he blocked a blade once. He does everything wrong in the line — punches with the shield, surges when Gest calls hold, watches the weapon instead of the feet. He is learning. He is also watching Ferrec more than he watches Petter, which is a bad sign that nobody has mentioned to him.
+
+---
+
+**Skalva** — _Human (Ailander). Common._
+
+The boy. Short and stocky, light-haired, the kind of pale that comes from flat grey country and not enough sky. He washes his boots every morning. He has been saving toward a plot near a river since before he joined and the figure keeps changing. He is careful in the specific way of young men who have not yet learned which things are worth checking, so he checks everything. By the end of the vignettes he has earned a name.
+
+---
+
+**Ferrec** — _Human. Common._
+
+Thief. Not by profession, just by character — the kind of man who weights a scale in his favor wherever a scale appears, which extends to coins in other men's kits, loyalties, information, and blame. He has a flat-boned face and dark, quick eyes and the particular talent of appearing to be somewhere else when things go wrong. He is useful in three situations and dangerous in the other twenty. The Gristle knows this. She has not yet decided what to do about it.
+
+---
+
+**Ash** — _Half-Elf (Frailer). Sorcerer. Path of Blood._
+
+She came to them at a river crossing south of Ravenford with a staff taller than she was and a cloak that was more patches than original cloth. She has the half-elf look — sharp bones, pale eyes, the face of someone told she was the crown of creation by one half of her family and something regrettable by the other. She can stop a man's bleeding with a word. She keeps a ward on the camp perimeter that costs her a nosebleed every morning. She told the Gristle the ground ahead was wrong, twice, before the Gristle stopped asking her to justify it.
+
+---
+
+**Rask** — _Human (Aslene). Veteran._
+
+Compact and dark-eyed, built low and close the way horse-country makes men. He has been with the company four years, which is long enough to say things the common men are not entitled to say. He is a good fighter and a liability in villages. The Gristle has paid out of her own share to manage the liability twice. She has not told him this.
+
+---
+
+**Haldr** — _Human (Ailander). Common._
+
+Died at the clearing contract. A cave mouth, a thing inside, and Haldr too far forward when it came out. His boots went to Skalva. His axe went to Weatherstone with Petter. His spot at the fire took several days to fill.
+
+---
+
 ### Band Life
 
 #### Recruitment
@@ -3181,32 +3247,6 @@ Make them leave. The caster hired for transit leaves when they arrive. The one w
 
 ## Open Questions
 
-**✅ 1. COMMAND talent:** Resolved. PATH OF THE COMMANDER (Ch04) is the existing hook. Section 10 now defines how PC leaders with any rank in that talent substitute PERFORMANCE for MANIPULATION on MORALE checks, and how the higher ranks extend into Named Man coordination. No separate COMMAND talent is needed.
+**⏸️ Band reputation vs. fellowship reputation:** Acknowledged as deferred design gap. Section 10 (Reputation Cascade) states the deferral: the band's name is the fellowship's name without exception until a Band Notoriety track is built. Future work, not blocking integration.
 
-**✅ 2. Large-scale warfare:** Resolved at the Host tier boundary. A brief Host sidebar in Section 1 (after the Size Tiers table) introduces the Warmaster concept. Full Host mechanics — band-level tracking, Warmaster authority and alignment, supply at scale, and scope boundary — are in **Section 13: Host Play**.
-
-**✅ 3. Mercenary archetypes by kin:** Resolved. Kin recruitment modifiers are now in Section 2 (Recruitment and Quality) as a table. Elf, Dwarf, Halfling, Wolfkin, Orc, and Goblin each carry specific mechanical note. Notes were kept narrow — modifier to the settlement roll only, not permanent stat effects.
-
-**✅ 4. Named Man death and gear distribution:** Resolved. The Death of a Member — Distribution of Effects optional subsystem (Section 6) covers gear, pay, disputed items, gambling debts voided, and MORALE consequences. The process for anonymous fighters and Named Men is differentiated. What remains open: if a Named Man dies close to completing their Agenda, no rule specifies what happens to that Agenda — whether another Named Man can inherit it, whether it generates a narrative debt, or whether it simply closes. Flag for integration pass.
-
-**Open questions:**
-
-1. ✅ **Named Man promotion to PC-adjacent role:** Resolved. Section 7 (Named Man Advancement) now includes a ruling: a Named Man with 15+ XP recorded, an active Agenda, and Loyalty 3 may be granted a full character sheet by the GM when a player's original character is out of action. Prior XP carries over at 2:3 conversion. Personality, Trigger, and Agenda survive the transition.
-
-2. ⏸️ **Band reputation vs. fellowship reputation:** Acknowledged and noted as a deferred design gap. Section 10 (Reputation Cascade) now includes a stated deferral: the band's name is the fellowship's name without exception until a Band Notoriety track is built. Future work, not blocking integration.
-
-3. ✅ **Band downtime at the stronghold:** Resolved. Section 10 (Stronghold Defense Rating) now includes a Named Man downtime ruling: Named Men may be assigned to GUARD, TRAINING, SCOUTING, or LOGISTICS functions. BARRACKS covers Named Men and common guards alike. Loyalty does not decay during downtime if pay is current.
-
-4. ✅ **MORALE 5 label collision:** Resolved. The label "Hungry" is renamed to **Keen** throughout the proposal.
-
-5. ✅ **Acceptance table is out of date:** Resolved. The Acceptance Summary table now includes rows for: the expanded forager table (row 4), the full Section 5 additions including kidnapping and mercenary hoards (row 6), and the three Section 6 optional subsystems (row 14).
-
-6. ✅ **Optional subsystem grouping:** Resolved. A guidance note now precedes the Optional subsystems in Section 6: Arguments and Escalation and Death Distribution are session-one ready; Blood Oaths should wait until the Named Men have shared history.
-
-7. ✅ **Brotherhood oath bonus magnitude:** Resolved. The text already reads +2. The open question reflected a stale draft. No change needed.
-
-8. ✅ **Unintentional captive death:** Resolved. The kidnapping section now distinguishes deliberate execution from negligent death. Negligent death triggers a reduced consequence: Standing −1 at the relevant settlement, the poster is a grieved party, and the full Atrocity cascade does not apply unless the negligence was sustained and visible. GM may treat it as deliberate if the band had means to prevent it and did not.
-
-9. ✅ **Mercenary diplomacy and allegiances:** Resolved. Section 5 now opens with **Finding Work** (audience requirements and terms negotiation mechanic) and **Allegiance** (0–4 track per employer, with access tiers and exclusivity costs). The contract-vs.-bounty distinction is preserved: bounties are public, contracts are private, and conflicting obligations default to the employer's terms under the existing GRIEVANCE mechanic. The approach roll uses MANIPULATION at difficulty set by employer tier (1–4). Retained bands (Allegiance 3) carry exclusivity obligations; sworn bands (Allegiance 4) carry full exclusivity.
-10.
-11. ✅ **Host diplomacy layer:** Resolved in Section 13 expansion. The full Host system now covers: the treasury and band budget allocation (Host Treasury, Band Budgets and the Purser), information lag and rider mechanics (Dispatch and Messengers), faction negotiation and rival Host parley including flag-of-truce and arbitration procedures (Host Diplomacy), resource competition between bands with a tracked Rivalry score (Inter-Band Rivalry), the council mechanic including captain-called emergency councils and vote rules (The Host Council), the Warmaster's Ledger as a persistent authority track (The Warmaster's Ledger), and clean, contractual, and collapse dissolution paths with per-band ownership of reputation consequences (Host Dissolution). Open: high-level political intrigue and multi-faction campaign dynamics at the level of a great power using the Host as a strategic instrument — this would be a campaign design question beyond the scope of a rules proposal.
+**⏸️ Multi-faction political campaign dynamics:** High-level political intrigue and great-power use of the Host as a strategic instrument is beyond the scope of a rules proposal. Would be a campaign design document, not a system addition. Not blocking integration.
