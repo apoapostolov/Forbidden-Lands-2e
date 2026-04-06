@@ -599,8 +599,6 @@ Fine weapons require a specialist and proper tools; crude weapons can be made wi
 | Heavy Crossbow    | 2H   | +2    | 3      | Long  | 40   | Heavy, Ranged (Pointed), Load x2, Quarrels/Bolts                                                      |
 | Windlass Crossbow | 2H   | +2    | 3      | Long  | 40   | Heavy, Ranged (Pointed), Load x2, Quarrels/Bolts, Windlass                                            |
 
-> **ON ARROWS AND WOUNDS:** A war arrow punches through mail and buries itself in the meat beneath. A crossbow bolt at close range has punched clean through a breastplate. So why does a sword cut deeper in these rules? Because a sword stays. The blade opens tissue, severs muscle, and the wielder drives it home with his body weight behind it. An arrow strikes and is done — one hole, one moment of force, then nothing but the shaft standing in flesh. Most arrow wounds, even bad ones, leave a man fighting until the blood loss finishes him. The axe in the skull does not. Damage in this game is not just the wound. It is the whole body failing — and a blade in the hands of a man who means it reaches places an arrow cannot.
-
 ### WEAPON LENGTHS
 
 Weapons fall into three length bands that decide who controls the distance. Think of this as a simple way to model reach and timing without measuring exact feet.
