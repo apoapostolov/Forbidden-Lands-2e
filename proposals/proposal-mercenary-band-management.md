@@ -404,7 +404,7 @@ The posting board at Hollowford had four notices. Gest read them aloud while the
 
 "Last one."
 
-"Bounty. Named individual, wanted alive. Sixty silver flat. No advance, delivery to Hollowford jail, alive and able to stand. They printed his face. He looks like Ferrec."
+"Bounty. Named individual, wanted alive. Sixty silver flat. No advance, delivery to Hollowford jail, alive and able to stand. They drew his face. He looks like Ferrec."
 
 "Everyone looks like Ferrec," the Gristle said. "Take the clearing contract. We can do it in four days if the weather holds. Send the advance rider today."
 
