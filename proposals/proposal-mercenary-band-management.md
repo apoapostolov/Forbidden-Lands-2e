@@ -45,13 +45,21 @@ The band's roster is recorded separately from the stronghold hireling sheet. Men
 | Company     | 21–50                   | Needs dedicated logistics. A name people know or fear.                           |
 | Host        | 51+                     | Requires stronghold-level supply. Two Quarter Days of logistics per day minimum. |
 
+> **The Host: Multiple Bands Under One Banner**
+>
+> A Host is not a single band grown large. It is several bands — each with its own leader, its own MORALE, its own Named Men — assembled under a single authority called the **Warmaster**.
+>
+> The Warmaster may be a PC or a Named Man elevated from the ranks. More often, they are an external figure: a warchief, a lord's marshal, a faction commander, or a wealthy employer who has retained multiple companies for a siege or campaign. The Warmaster holds the Host's banner, controls the supply line, and gives operational orders to the band captains. They do not manage individual men. They manage leaders.
+>
+> Full Host mechanics — band-level tracking, the Warmaster's authority and alignment, and supply across multiple bands — are in **Section 13: Host Play**.
+
 ### MORALE
 
 MORALE is a single score from 1 to 5 tracked for the whole band. It is not a character attribute — it belongs to the band.
 
 | MORALE | STATE    | EFFECT                                                                     |
 | ------ | -------- | -------------------------------------------------------------------------- |
-| 5      | Hungry   | Men are eager. +1 to band MELEE rolls in first round of any engagement.    |
+| 5      | Keen     | Men are eager. +1 to band MELEE rolls in first round of any engagement.    |
 | 4      | Steady   | No modifier.                                                               |
 | 3      | Shaken   | -1 to band MELEE rolls. Non-payment requires a MORALE check this week.     |
 | 2      | Wavering | -2 to band MELEE rolls. Check MORALE before any dangerous assignment.      |
@@ -207,6 +215,8 @@ This output fills the band's daily FOOD requirement from the bottom up. A Warban
 
 Running a large band in thin country burns your provisions. That is intentional.
 
+> **Example:** Dain moves his company of thirty out of forest cover and into hill country on day two of a contract. He assigns six men to forage each morning. The table returns 13 FOOD. The company needs 30. The gap — 17 — comes from the provision sacks. Dain's sergeant meets him at the evening fire on day three and shows him the count: two days of stores left. They turn back toward the forest or they start losing men to a CONDITION before they reach the target.
+
 If a band goes unfed for a full day, every fighter suffers a CONDITION. A second day without food, they begin to break or desert independently of MORALE.
 
 ### FIELD NON-PAYMENT
@@ -223,6 +233,8 @@ When the leader fails to pay the band on time, roll D6. This replaces the standa
 | 6   | The men accept it for now, but every man remembers. Next non-payment rolls twice on this table.                                              |
 
 If the band has a BARRACKS/SHELTER back at the stronghold, apply the standard improved non-payment rule (roll twice, take the higher result) to that table only while fighters are at the stronghold. In the field, this table always applies.
+
+> **Example:** Pell's warband of nine has been in the Stillmere hills for ten days. The employer's factor was due on day eight. Pay day comes and Pell has nothing to put on the table. He rolls D6 and gets a 4 — the sergeant Maret confronts him in front of the assembled men. Pell rolls MANIPULATION against difficulty 2: four dice, two ⚔️. He holds the line. The men accept it for now. Next pay day is not a matter of explanation.
 
 ---
 
@@ -285,6 +297,8 @@ On a success, roll or choose from the **Tribute Table** based on settlement size
 | 6   | Work (1 QD labor)  | Animals (livestock)    | A week of hosted supply (food, lodging, fodder) | Two weeks of hosted supply + 2D6 silver |
 
 **Named Man surrendered:** The settlement hands over its most capable fighter — a hunter-warrior, a returned soldier, a young man the elder would rather lose now than watch die in a fight the village cannot win. This person joins the band's roster at Veteran tier. If the elder convinced them it was better than the alternative, they start at loyalty 3 and will do the work. If handed over against their will, loyalty starts at 1 — they came because the elder sold them, and they will desert or inform against the band at the first credible opportunity unless the leader wins them over personally. Either way, the settlement loses that fighter permanently. The village is now weaker than it was when the band arrived.
+
+> **Example:** The elder of Varbeck hands over a man called Galt — compact, a white scar below the ear, says nothing on the road north. He was not convinced. He was sold to keep the rest of the village housed through winter. His Loyalty starts at 1. He holds formation, reports accurately, eats what he is given. But when Pell fails to post a full watch on the third night, Galt counts the distance to the nearest tree line and says nothing about it to anyone.
 
 Each ⚔️ on a **MANIPULATION** roll allows the leader to choose freely from the tribute table rather than rolling, or to name a specific item. With 3+ ⚔️, the settlement complies without argument, up to what it actually has.
 
@@ -412,6 +426,69 @@ At Feud Track 3 or 4, the opposing force becomes an active NPC faction. The GM n
 
 ## Section 5: Contracts and Bounties
 
+### Finding Work
+
+Public bounties and open patrol postings find the band on their own. Posted at inns, gate-keeps, and markets, they are available to anyone who asks. A MANIPULATION roll in a settlement of Reputation 3 or higher turns up current local postings. Three or more ⚔️ reaches regional postings carried by travelers who have passed through in the last week.
+
+Private contracts — from warchiefs, trade consortium factors, fortified-settlement headmen, and similar people of actual force — do not post themselves. The employer controls the door. The band must either earn an introduction or arrive with enough standing that the employer has a reason to open it.
+
+**Getting an audience:**
+
+| APPROACH                                                                                  | REQUIREMENT                                                         |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| The band's Reputation is 4+                                                               | Automatic. They know who you are.                                   |
+| A letter of introduction from someone the employer trusts                                 | No roll. The door opens on the introducer's Standing.               |
+| Completed a contract for this employer before (Allegiance 1+)                             | No roll. The relationship already exists.                           |
+| The band demonstrated visible recent capability (cleared a hex, ended a threat nearby)    | MANIPULATION difficulty 2 to convert that into an invitation.       |
+| Cold approach by a band with Reputation 3                                                 | MANIPULATION difficulty 3.                                          |
+| Cold approach by a band with Reputation 1–2, or OATH-BREAKER flag visible to the employer | MANIPULATION difficulty 4. Most employers decline without a reason. |
+
+Failure does not close the door forever. The employer is occupied, not hostile. The band can return when their Reputation or recent deeds give them a better argument.
+
+**Negotiating terms:**
+
+Once the audience exists, the leader makes a MANIPULATION roll to settle terms. The base difficulty is set by the employer's standing:
+
+| EMPLOYER TIER                                      | DIFFICULTY |
+| -------------------------------------------------- | ---------- |
+| Village or settlement elder, local headman         | 1          |
+| Merchant factor, lesser warchief, consortium agent | 2          |
+| Powerful warchief, regional faction representative | 3          |
+| Major sovereign power, fortified city ruler        | 4          |
+
+On a success, the leader's proposed terms are accepted, adjusted only by what the employer can supply. Each ⚔️ beyond the first earns one concession: a higher advance payment, a shorter exclusivity window, a liability clause removed. On a failure, the employer's terms stand. The band may accept them, attempt a second negotiation at the next available meeting at -1 difficulty, or withdraw.
+
+A band at Allegiance 2 or higher with this employer reduces the terms difficulty by 1.
+
+### Allegiance
+
+A band that completes several contracts for the same employer becomes something more than a market hire. The employer has seen how they work. The band knows what the employer values. That history costs something and buys something.
+
+Track **Allegiance** (0–4) per significant employer.
+
+**Gaining Allegiance:**
+
+- +1 after completing a contract in full, within its terms, without breach
+
+**Losing Allegiance:**
+
+- −1 for any breach of terms during an active contract
+- −1 for abandoning an active contract
+- −2 for accepting a direct competitor's contract while at Allegiance 3 or higher
+- Resets to 0 if the band commits an atrocity against this employer's settlements or holdings
+
+**Allegiance levels:**
+
+| LEVEL | NAME     | ACCESS AND BENEFIT                                                                                                                         | CONSTRAINT                                                                                  |
+| ----- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
+| 0     | Unknown  | None. Cold approach required.                                                                                                              | —                                                                                           |
+| 1     | Known    | Audience automatic. The employer remembers the name. No other benefit.                                                                     | —                                                                                           |
+| 2     | Favored  | Supply at employer's settlements at cost, no markup. Terms negotiation difficulty −1.                                                      | —                                                                                           |
+| 3     | Retained | Above, plus Standing +1 at all settlements the employer controls. The employer's name deflects minor third-party threats against the band. | Taking a competitor's work is a breach (−2 Allegiance immediately).                         |
+| 4     | Sworn    | Above, plus employer covers one advance payment per season without a posted contract. Safe passage through their territories.              | Exclusive. Any competing contract resets Allegiance to 0 and Standing behaves as GRIEVANCE. |
+
+Allegiance 3 is a commitment the employer also carries. If they ask the band to act against the band's clear interest — destroy a settlement where the band holds Standing, contravene a Named Man's Trigger — the band may refuse and hold Allegiance 3 without penalty. The employer finds another force. Neither party calls it a breach. Allegiance 4 has no such buffer: sworn service means the employer's wars are the band's wars until the oath ends.
+
 ### Contracts
 
 A contract is a job with defined terms, a named employer, and a coin figure. Contracts can be:
@@ -509,23 +586,35 @@ Goods payment is always negotiated before the bounty is accepted. The collector 
 
 **What goods can constitute payment:**
 
-| GOODS                                                                                                  | SILVER EQUIVALENT                        | NOTES                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------ | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| A riding horse, broken and sound                                                                       | 20–30 silver                             | Riding-trained and healthy. Liquid — easy to sell or ride. The most useful goods payment for a band that does not stay in one place. A green (untrained) horse moves for 12–15 silver; a war-trained horse for 60–80 silver. Verify condition and training before accepting.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| A plow ox, working and healthy                                                                         | 8–12 silver                              | High value in the right settlement. Difficult to move over rough terrain without slowing whoever is transporting it.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| A breeding pair of pigs or a small sheep flock                                                         | 3–6 silver                               | Only practical if the collector has somewhere to keep them. Most often taken as part of a split payment alongside coin.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| A working river boat, two- to four-oarsman capacity                                                    | 12–20 silver                             | Useful to a band that moves along waterways. Requires the collection point to be accessible to water.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| A quality weapon, master-made — axe or spear                                                           | 6–18 silver                              | Immediately useful to a fighting band. Axes and spears at this tier: battleaxe or long spear, master-worked, 6–18 silver. A master-made sword runs higher: broadsword or shortsword quality, 14–22 silver; a longsword or two-handed sword, 25–50 silver. Verify the poster holds clear title before accepting. A weapon with a known dead prior owner attached to it is not payment; it is evidence.                                                                                                                                                                                                                                                                                                                                                         |
-| A full suit of chainmail, fitted and intact                                                            | 20–28 silver                             | Worth taking if the band needs it and has someone who can wear it. New chainmail runs 24 silver; used but intact, assume 20–28 silver depending on wear and whether fitting is required. Dead weight if no one in the band can use it.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| A winter's grain store, enough for one family                                                          | 4–8 silver                               | Useful to a stationed band. Spoils over time — poor payment for a band that moves every few weeks.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| A season's harvest yield, unharvested at time of posting                                               | 5–12 silver                              | Forward goods. The collector receives the harvest when the season turns. Requires trust that the harvest will happen and the poster will still be present and willing to honor the agreement when it does.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Timber rights to a specified forest section, one full season                                           | 8–18 silver                              | The right to cut and sell from a marked territory. Only practical for a band that has the labor to work it, or a contact who will buy the standing timber.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| A house, outbuilding, and clear lot in a small village                                                 | 20–50 silver                             | Immovable. The band gains a legal presence in that settlement by accepting it. Valuable if the band wants roots; worthless if it intends to keep moving.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| A working smithy forge and its tools                                                                   | 14–22 silver                             | Weight in iron. Taken only by a band that has a smith on its rolls or expects to acquire one.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| A longhouse in a fortified settlement                                                                  | 35–80 silver                             | A modest stronghold stake. The band becomes a stakeholder in the settlement's life, and the settlement gains a fighting presence it did not negotiate for in any ordinary sense. Neither party should take this lightly.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| A cleared farming plot with established soil and a standing claim                                      | 30–60 silver                             | The poster offers working land. There is no deed system in most of the Ravenlands — only presence, precedent, and the willingness to hold a position. Contested in practice. The band must be able to defend what it accepts.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| A standing protection contract — one full season, paid in provisions, shelter, and settlement standing | 15–30 silver equivalent                  | The poster hires the band rather than paying them outright. Payment is ongoing: a roof, reliable food, standing among the settlement's people. Binds both parties for the season and changes the band's relationship to that settlement permanently.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Raw materials in bulk — iron, leather, cloth, grain, pelts, or herbs                                   | Per-unit price from Ch10 (minimum floor) | A village rarely has coin but often has stores. Per-unit minimums: iron 1 silver, herbs 2 silver, leather 12 copper, wool cloth 8 copper, grain 3 copper, pelt 8 copper. A substantial cache — forty units of iron (40 silver), a season's tannery output in leather, or a medicinal herb store — is real settlement wealth expressed in materials rather than coin. Agree the count and condition before the contract is taken. Perishable materials (grain, meat, pelt, herbs) lose value if collection is delayed past their listed shelf life; build a condition clause in if the contract is expected to run longer than a few weeks. The collector must also consider carriage: iron is heavy, grain spoils, and a wagonload of pelts requires a wagon. |
+| GOODS                                                                                                  | SILVER EQUIVALENT                         | NOTES                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------ | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| A riding horse, broken and sound                                                                       | 20–30 silver                              | Riding-trained and healthy. Liquid — easy to sell or ride. The most useful goods payment for a band that does not stay in one place. A green (untrained) horse moves for 12–15 silver; a war-trained horse for 60–80 silver. Verify condition and training before accepting.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| A mule or pack donkey, working                                                                         | 4–8 silver                                | Carries heavy gear without the temperament or expense of a horse. Eats less, works harder on steep and broken ground, and does not bolt from blood the way a riding animal does. A band moving equipment and loot over rough terrain values a sound mule above its coin equivalent in most seasons. A donkey toward the low end; a working mule in good condition toward the high. Not fast. Worth it.                                                                                                                                                                                                                                                                                                                                                        |
+| A plow ox, working and healthy                                                                         | 8–12 silver                               | High value in the right settlement. Difficult to move over rough terrain without slowing whoever is transporting it.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| A breeding pair of pigs or a small sheep flock                                                         | 3–6 silver                                | Only practical if the collector has somewhere to keep them. Most often taken as part of a split payment alongside coin.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| A cart with draft harness                                                                              | 10–18 silver                              | A two-wheel flatbed with single harness: 10–12 silver. A four-wheel cargo wagon with full double harness: 14–18 silver. A working cart turns the band into a mobile operation — it carries the injured, the loot, and the weight that drags on backs over long marches. The harness is useless without a draft animal; the animal loses half its utility without the cart. Offered together with an ox or mule, the combination is the most durable mobile goods payment a settled village can make.                                                                                                                                                                                                                                                          |
+| A working river boat, two- to four-oarsman capacity                                                    | 12–20 silver                              | Useful to a band that moves along waterways. Requires the collection point to be accessible to water.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| A quality weapon, master-made — axe or spear                                                           | 6–18 silver                               | Immediately useful to a fighting band. Axes and spears at this tier: battleaxe or long spear, master-worked, 6–18 silver. A master-made sword runs higher: broadsword or shortsword quality, 14–22 silver; a longsword or two-handed sword, 25–50 silver. Verify the poster holds clear title before accepting. A weapon with a known dead prior owner attached to it is not payment; it is evidence.                                                                                                                                                                                                                                                                                                                                                         |
+| A full suit of chainmail, fitted and intact                                                            | 20–28 silver                              | Worth taking if the band needs it and has someone who can wear it. New chainmail runs 24 silver; used but intact, assume 20–28 silver depending on wear and whether fitting is required. Dead weight if no one in the band can use it.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| A winter's grain store, enough for one family                                                          | 4–8 silver                                | Useful to a stationed band. Spoils over time — poor payment for a band that moves every few weeks.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| A saltbox — fifty units, dry-packed and sealed                                                         | 8–14 silver                               | Salt preserves meat, cures hide, and cleans wounds. Fifty units sealed in barrels or oilcloth runs 8–14 silver depending on how far the settlement sits from any coast. Lighter than grain, longer-keeping than most stores, and tradeable at every market that has a butcher or a tanner. Verify the seal before agreeing: wet salt is half the stated value.                                                                                                                                                                                                                                                                                                                                                                                                |
+| A season's harvest yield, unharvested at time of posting                                               | 5–12 silver                               | Forward goods. The collector receives the harvest when the season turns. Requires trust that the harvest will happen and the poster will still be present and willing to honor the agreement when it does.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Timber rights to a specified forest section, one full season                                           | 8–18 silver                               | The right to cut and sell from a marked territory. Only practical for a band that has the labor to work it, or a contact who will buy the standing timber.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Hunting, trapping, and fishing rights in a defined territory, one season                               | 6–14 silver                               | The poster grants access — marked territory, agreed season, no interference from the settlement or its neighbors. A well-stocked hunting ground within a day of a trade route: 10–14 silver in meat and pelt, if the band has someone who knows how to work it. A stripped forest or depleted river stretch: 6 silver at most. Not transferable coin. A band with a hunter or trapper on its rolls treats this as a standing food supply. A band without one treats it as a gift that requires labor to unwrap.                                                                                                                                                                                                                                               |
+| Local knowledge — terrain maps, danger positions, and patrol routes                                    | 8–25 silver equivalent                    | A settlement that has survived ten years in one place knows things no outsider can buy: where the bandits shelter in winter, which passes close before the first snow, how the local lord's patrol runs, where the old road still holds firm under the mud. Paid as time with the settlement's elders and scouts — one to three days of questions, listening, and sketched maps. Specific current intelligence on a hostile faction's positions and movements: 18–25 silver equivalent. Safe-route guidance to the next settlement: 8–12 silver equivalent. Worth more entering unfamiliar territory than it is to a band already working the ground.                                                                                                         |
+| Letters of safe conduct and guided passage through the poster's territory                              | 5–20 silver equivalent                    | The poster writes and seals a letter declaring the band under their protection and free to pass unmolested through lands they control or have standing with. A local guide accompanies them — someone who knows the roads, the checkpoints, and the names to drop at each one. Without the guide, the letter is paper. Without the letter, the guide is goodwill. Together they open territory that coin by itself cannot buy. In settled, friendly land: 5–8 silver equivalent. In contested ground bordering a hostile power or a toll-heavy lord's roads: 15–20 silver equivalent.                                                                                                                                                                         |
+| A house, outbuilding, and clear lot in a small village                                                 | 50–100 silver                             | Immovable. The materials alone for a solid wood structure run 20–40 silver; the outbuilding, cleared lot, and established claim in a living settlement add the rest. A rubble-condition structure in a dying hamlet moves for 20–30 silver and is worth what it shows. The band gains a legal presence in that settlement by accepting it. Valuable if the band wants roots; worthless if it intends to keep moving.                                                                                                                                                                                                                                                                                                                                          |
+| A working smithy forge with tools and iron stock                                                       | 80–160 silver                             | The most expensive single-item payment short of a longhouse. A forge requires 60 units of iron in its construction alone — 60 silver at floor price — before the stone, the builder's labor, and the working tools. A forge with cold iron stock and a functional hearth is worth what it costs to rebuild. The band must have a smith on its rolls or someone who can hire one, or it accepts dead weight. The poster is offering part of what the settlement runs on; do not underestimate what that means when the settlement cannot rebuild one.                                                                                                                                                                                                          |
+| A working craft building with tools — tanner, carpenter, cooperage, or equivalent                      | 30–70 silver                              | A tanner's shed or carpenter's workshop: 200 WOOD plus the specialist tools (scrapers, saw, chisel, planes, finishing tools), two to four days of labor. The tools alone run 5–15 silver for a complete working set. A tannery adds vat-pits and salt infrastructure. Upper range for a well-equipped cooper or wheelwright in a functioning settlement. Worth nothing to a band without a tradesman on its rolls or a buyer who will pay fair value on the purchase.                                                                                                                                                                                                                                                                                         |
+| A guild house — meeting hall, locked store, and charter rights                                         | 100–200 silver                            | Not a building — a position. A guild house is the structure plus the charter rights: the recognized authority to hold meetings, set prices, exclude rivals, and enforce the trade rules within the settlement's commercial life. Those rights take years of negotiation to accumulate; they are not surrendered except under genuine collapse. The structure itself runs INN-scale or larger. The band that accepts one inherits standing, outstanding debts, and a list of rivals who want what it just acquired. A poster offering a guild house is either desperate or making someone else's problem disappear.                                                                                                                                            |
+| A longhouse in a fortified settlement                                                                  | 100–250 silver                            | A significant stake. The longhouse structure itself — 400+ WOOD or equivalent stone — is only part of the cost. Space inside a fortified settlement is scarce and contested; what the poster is giving away is a position, not just a building. The band becomes a stakeholder in the settlement's politics, the settlement gains armed men inside its walls, and neither party chose the other. The lower range applies to a modest hall in a smaller palisaded camp. The upper range applies to an established longhouse with storage, a hearth, and a recognized claim in a real fortified town.                                                                                                                                                           |
+| A cleared farming plot with established soil and a standing claim                                      | 50–120 silver                             | A worked field is not raw ground. Raw ground takes a month of labor with a plough — 5 IRON in materials, a smith's week in making — to break into something that grows. What the poster is selling is soil already broken, seeded, and drained, with a boundary the neighbors have acknowledged. That prior labor does not become worthless because the holder is pressed. Contested in practice: the Ravenlands run on presence and living memory, not written deeds. The band must be able to hold what it accepts.                                                                                                                                                                                                                                         |
+| An herbalist or healer in attendance for an agreed term                                                | 12–20 silver equivalent per tenday        | The settlement's working healer — a HEALER talent holder, a practiced herbalist, or a senior midwife with real field knowledge — accompanies the band for the agreed term. Wound treatment after combat, daily poultice and herb preparation, and full HEALING rolls for injured band members outside normal recovery. One of the most practically valuable payments a band with an active injury rate can accept. A tenday of genuine healer attendance is worth more than coin to a band that has been using untrained hands to dress wounds in the field.                                                                                                                                                                                                  |
+| Pledged skilled labor from the settlement's master craftsman                                           | 10–28 silver equivalent                   | The settlement's smith, carpenter, or builder pledges a fixed number of weeks of work, redeemable at the settlement within one year. A smith's week: equipment repair, weapon maintenance, and fabrication at no extra charge — materials drawn from band stock, labor free. A carpenter's week: structural work toward a stronghold component, or gear repair. An herbalist's week: supply preparation and wound care equivalent to full HEALER attendance. Must be claimed within the year or the pledge expires. A band building toward a permanent base treats this as direct construction credit; a traveling band treats it as a reason to return.                                                                                                      |
+| Free wintering — lodging and full board with no service obligation                                     | 20–60 silver equivalent (by band size)    | The settlement grants the band winter quarters: dry beds, daily meals from communal stores, and warmth for the full winter season. Unlike a protection contract, this carries no patrol obligation — the settlement wants armed men present without bargaining for patrol schedules. Small skirmisher band (3–6 men): 20–35 silver equivalent. Full warband (7–20 men): 40–60 silver equivalent — the settlement is committing its entire winter surplus to feed twenty mouths from first frost to snowmelt. Immovable and non-transferable. Worth nothing to a band that will not stay.                                                                                                                                                                      |
+| A standing protection contract — one full season, paid in provisions, shelter, and settlement standing | 50–120 silver equivalent (by band size)   | The poster hires the band rather than paying coin. Payment is ongoing: a roof, reliable food, standing among the settlement's people. Skirmisher tier (3–6 men): 50–70 silver equivalent for the season. Warband tier (7–20 men): 80–120 silver equivalent — the settlement is committing its surplus to feed twenty armed men for twelve weeks, which is as real a payment as coin. Smaller bands can still accept subsistence-and-shelter deals at lower values; the range scales with what the settlement actually consumes. Binds both parties for the season and changes the band's relationship to that settlement permanently.                                                                                                                         |
+| A captive already held — transferred with ransom intelligence                                          | Market rate of captive (see Ransom table) | The poster holds a prisoner worth money to someone else and does not have the reach or patience to collect. They hand over the captive, whatever they know of the captive's connections, and all claim on what follows. The band gets the asset and the problem at once: feeding the captive, running the negotiation, and absorbing whatever arrives when the demand reaches the wrong ears. Price against the Ransom table. Verify identity and condition before accepting — a dead captive on arrival is a dead deal.                                                                                                                                                                                                                                      |
+| Raw materials in bulk — iron, leather, cloth, grain, pelts, or herbs                                   | Per-unit price from Ch10 (minimum floor)  | A village rarely has coin but often has stores. Per-unit minimums: iron 1 silver, herbs 2 silver, leather 12 copper, wool cloth 8 copper, grain 3 copper, pelt 8 copper. A substantial cache — forty units of iron (40 silver), a season's tannery output in leather, or a medicinal herb store — is real settlement wealth expressed in materials rather than coin. Agree the count and condition before the contract is taken. Perishable materials (grain, meat, pelt, herbs) lose value if collection is delayed past their listed shelf life; build a condition clause in if the contract is expected to run longer than a few weeks. The collector must also consider carriage: iron is heavy, grain spoils, and a wagonload of pelts requires a wagon. |
 
 **Three problems arise on nearly every large goods bounty.**
 
@@ -566,6 +655,8 @@ Taking a well-guarded target requires a full combat, which costs time, noise, an
 - A captive with STR 4 or higher, or who holds any military or wilderness skill, attempts escape once every 3 days. Roll opposed SCOUTING (captive vs. the band's watch). A failed escape attempt costs the captive 1 STRENGTH from restraint. Success: the captive is gone.
 - Shackling a captive removes escape attempts but requires chains or rope (1 silver). A shackled captive cannot walk under their own power without assistance.
 - A captive who is starved, tortured, or treated as a slave rather than a prisoner arrives at delivery in a state the employer or family may find unacceptable. A consistently mistreated captive may die before the negotiation closes.
+
+A captive who dies through negligence — untreated wounds, exposure, thirst, inadequate shelter — triggers a reduced consequence: Standing at the relevant settlement drops by 1, and whoever posted the bounty is an aggrieved party. The full Atrocity cascade does not apply unless the negligence was sustained and witnessed. If the band knew the captive was dying and had the means to prevent it, the GM may treat it as deliberate. The band bears responsibility for the captive's condition from capture to delivery.
 
 **Ransom negotiation:** Send word first. The demand is a message — carried by a neutral party or left at a known location. State the amount, the delivery point, and the deadline. The GM determines whether the target's connections can pay the stated amount.
 
@@ -737,6 +828,8 @@ Trust-Held is not a higher MORALE ceiling. The table is the same. What changes i
 
 **The stay.** Once per season, when the captain fails a MORALE check, the GM may offer a Named Man with Loyalty 3 the chance to spend — to step forward, back the captain publicly, and hold the band together for one more day. If the Named Man does this, the MORALE cost that week is reduced by 1 step. The Named Man's Loyalty drops to 2 immediately. The bond cannot be spent again from the same Named Man until their Loyalty recovers to 3.
 
+> **Example:** Pell fails his MORALE check after a wet week with no contract news — the band is Shaken. The GM offers Rook, Loyalty 3, the chance to spend. Rook stands by the cookfire and tells the men he has seen worse captains and worse weather, and that Pell has paid. The men finish the meal without walking. Pell records MORALE cost reduced by 1. Rook's Loyalty drops to 2. He said it because it was true. He cannot say it again from the same place until he earns it back.
+
 **The warning.** A Trust-Held Named Man with Loyalty 1 who has reached their limit will tell the captain before they leave. Not with time to argue. Not loudly. But the captain gets one conversation — a flat statement of what is wrong and what they intend. A Fear-Held Named Man gives nothing. The captain cannot prevent either outcome. This is what trust costs and what it gives back.
 
 **Transition out of Trust-Held.** A band that was Trust-Held and drifts into fear management — a captain who increasingly substitutes INTIMIDATION for MANIPULATION, an atrocity the Named Men were ordered to carry out, a season of broken promises — loses Trust-Held status at the end of that season. The change costs MORALE -1. The men know what the company was. That knowledge is not comfort. It is the specific grief of a thing that has become something else.
@@ -764,6 +857,8 @@ Trust-Held is not a higher MORALE ceiling. The table is the same. What changes i
 > Every company has someone who thinks cruelty is a teaching method. Usually they have done it so long they cannot account for it. The sergeant who handles them early saves the captain a larger problem later.
 
 ---
+
+**Running the optionals:** Arguments and Escalation and Death Distribution are self-contained. Enable them at the first session and they will fire when the situation calls for them. Blood Oaths requires Named Men who have worked together long enough to have a real history — at minimum a full season of shared contracts. Enabling Blood Oaths before the Named Men mean something to each other produces a mechanic that exists but never reaches the table. Add it when the Named Men have names the players would miss.
 
 ### Optional: Arguments and Escalation
 
@@ -1066,6 +1161,8 @@ Named Men begin a mercenary engagement with a small WILLPOWER pool tied to their
 
 Non-player Named Men recover **1 WILLPOWER per day** of downtime. If a Named Man is a player character, they recover WILLPOWER according to the normal player character recovery rules instead.
 
+> **Example:** Helle is an Elite Skirmisher with 3 WILLPOWER when the night assault begins. She fails a MOVE roll crossing the spiked trench and pushes it — spending 1 WILLPOWER to succeed. The trench is cleared. Later, the captain asks her to run a message through contested ground alone. She has 2 WILLPOWER remaining. She goes. That night she sleeps in the occupied building and recovers 1. She starts tomorrow at 3 again — unless there is another assault.
+
 ### Equipment
 
 Equipment determines a Named Man's fighting reach and silhouette in play. It follows from role.
@@ -1214,6 +1311,8 @@ After any engagement resulting in a clear victory, award XP to each non-player N
 - On a 2: award **no XP**
 - On a 1: award **3 XP** and the Named Man suffers a meaningful injury. Roll on the critical injury table.
 
+**Named Man transition to full character:** The GM may offer a Named Man a full character sheet when their player's original character is out of action and both the player and GM agree. A Named Man eligible for this transition should have at least 15 XP recorded, an Agenda that has been actively pursued, and Loyalty 3 with the fellowship. On transition, the player selects the Named Man's kin-appropriate profession from Ch02 and picks starting skills accordingly. Prior XP carries over at 2:3 conversion rate (15 Named Man XP becomes 10 PC XP). The Personality, Trigger, and Agenda survive the transition intact — they remain who they are.
+
 ---
 
 ## Section 8: Wanted Men
@@ -1291,6 +1390,8 @@ When an atrocity occurs:
 
 4. **Bounty:** Anyone with standing and motive can post a bounty within a season of the act. Villages destroyed in an atrocity can be assumed to have survivors in neighboring hexes who will spend years carrying the story forward.
 
+> **Example:** Pell's men burn the granary at Salthorn because the gate foreman refused to open up and the contract was on a clock. No one is killed. Standing at each settlement within three hexes drops by 2 — four villages that have sheltered the band before. MORALE check: the men made nothing on the burn. Galt, Loyalty 2, a civilian-harm Trigger on his sheet, rolls against Loyalty and fails. He does not leave that night. He is in his bedroll calculating whether there is better work in the next town north.
+
 ### Plunder
 
 If the atrocity came with material gain — livestock taken, valuables looted, labor captured — MORALE may rise rather than fall, at least in the short term. This is the design's honest acknowledgment of how those situations work. However:
@@ -1315,11 +1416,15 @@ The flag can be reversed by publicly honoring a particularly costly obligation �
 
 GUARDS hired at the stronghold continue to function as described in Ch09. Merges can happen: when the band returns home, their fighters may be assigned to GUARD duty at the stronghold, contributing to its Defense Rating under the unit points formula (Strength × 3 + MELEE + talent rank sum ± armor delta from 7; average common soldier ≈ 15 points). This transition — field band to stronghold garrison and back — is how strongholds grow into real military forces.
 
+**Named Men during downtime:** Named Men assigned to GUARD duty at the stronghold count toward Defense Rating the same way common soldiers do. During a downtime period, a Named Man may additionally be assigned to one of the following stronghold functions per Quarter Day: TRAINING (they drill the common guards, +1 to the COMMAND roll for next season's drill if a Named Man ran it), SCOUTING (a Named Man dispatched as a ranger counts as a standing patrol, satisfying one week of patrol contract terms without the band deploying), or LOGISTICS (reduces the weekly provision cost for garrison fighters by 1 unit per Named Man assigned, to a minimum of half normal cost). A Named Man assigned to stronghold duty does not advance — no XP awards during home-station periods. Loyalty does not decay during downtime as long as pay is current; if pay lapses, standard non-payment rules apply.
+
 ### Reputation Cascade
 
 The band's deeds — contracts completed, atrocities committed, bounties earned — all travel through the Ch08 Reputation system. The band does not have its own Reputation score separate from the fellowship's. Their name is the fellowship's name. Every deed adds to or subtracts from the same pool of stories people carry across hexes.
 
 A stronghold's Reputation radiates outward via hire relationships. If the band was hired by a settlement, that settlement knows the fellowship's name and passes it forward. If the band burned that settlement, neighboring settlements know that too.
+
+If the band operates independently for a full season while the PCs are elsewhere — sent on contract without fellowship oversight — atrocities the band commits in that period still attach to the fellowship's name. This is the cost of the name being shared. A future subsystem may introduce a separate Band Notoriety track that can diverge from fellowship Reputation in extreme cases; for now, the band's name is the fellowship's name without exception.
 
 ### Feud Track
 
@@ -1502,27 +1607,281 @@ On success: the captain is removed — imprisoned, exiled, or killed, as the com
 
 On failure: the mutiny collapses. Each Named Man who participated rolls Loyalty immediately. The captain will purge the ringleaders. A PC who was the senior mutineer faces expulsion, a bounty, or worse, depending on what blood was shed in the attempt.
 
+## Section 13: Host Play
+
+A Host is the top tier of this system — multiple bands operating under a shared authority. It is not a warfare system for armies and sieges; those remain outside scope. It is the framework for tables that want the mechanics and politics of meta-band play: the fellowship's band serving inside a larger force, dealing with other captains, navigating a Warmaster's orders, and holding their independence inside someone else's campaign.
+
+### Running a Host at the Table
+
+Each band within the Host is tracked separately. Its own roster, its own MORALE score, its own Named Men, its own daily pay requirement. The Host does not merge into a single unit — it is a collection of units operating under shared authority.
+
+If the PCs lead one of those bands, run their band with the full mechanics of this system. The other bands exist at summary level: the GM tracks their strength die, current MORALE, and standing obligations, but does not roll for every Named Man's agenda. Their captains are supporting NPCs — available for scene work, capable of acting against band interests if the Warmaster's authority is contested.
+
+### The Warmaster's Authority
+
+A Warmaster gives operational orders. Band captains follow them — or don't. The chain of authority is real but fragile. It runs on reputation, past payment, and the belief that the Warmaster can deliver what was promised.
+
+When the PCs' band receives a Warmaster order they want to refuse or modify, the captain makes a MANIPULATION roll at difficulty equal to the Warmaster's REPUTATION divided by 2 (round up, minimum 1). On success, the objection is heard and a compromise is negotiated. On failure, the order stands as given. Openly defying a Warmaster order without even attempting the roll costs MORALE −1 and is noted.
+
+A Warmaster who fails to pay, fails to supply, or gives orders that result in serious band casualties without acknowledged cause may be challenged. A band captain with REPUTATION 3+ may formally contest the Warmaster's leadership: one MANIPULATION roll opposed by the Warmaster's. If the PC wins, their band detaches from the Host under the GRIEVANCE mechanic without triggering a full Atrocity. If they lose, the Warmaster may demand a loyalty demonstration.
+
+### The Warmaster's Alignment
+
+A Warmaster is either independent — running the Host as their own enterprise, personally responsible for all obligations — or sworn to a faction.
+
+An **independent Warmaster** negotiates contracts the same way a band captain does. They retain all bands within the Host on a contract basis, paying each band out of the overall contract fee. If the contract falls through, the Warmaster absorbs the loss or passes it down to the individual bands. If they pass it down, every band's MORALE is at risk simultaneously.
+
+A **faction Warmaster** represents an employer with institutional backing — a warchief's army, a noble's levies, a religious military order, a trade guild's private force. The faction supplies, funds, and controls the strategic objective. The Warmaster executes it. Individual band captains deal primarily with the Warmaster, not the faction directly. What the faction wants and what the Warmaster tells the captains may not be the same thing; the gap between them is where political pressure operates.
+
+**Faction alignment and individual bands:** A band serving under a faction Warmaster is treated as Allegiance 1 toward that faction by default, regardless of what the individual band captain believes about the relationship. The faction knows the band's name and what they did. If the Host achieves the campaign objective, the band gains Allegiance +1 with that faction once before the Host disperses. If the Host fails badly, the faction may redirect blame — and a named band makes an easier target than a dispersed force.
+
+### Supply at Host Scale
+
+Individual bands within a Host do not forage independently by default. The Host has a combined supply requirement — add every band's daily FOOD total. The Warmaster or a designated logistics officer handles provisioning. Each band receives its share at the end of each Quarter Day.
+
+If the supply line is disrupted, each individual band rolls against its own provisions. A band with enough stores sustains itself. A band without stores falls into the standard unpaid/unfed MORALE trigger chain immediately — the Host's shared logistics do not protect a band that ran its own stores dry.
+
+
+### Host Treasury
+
+The Warmaster holds the Host's coin. Not as a personal fund — as a working account the entire force runs on. Every contract payment, every advance from a faction employer, every fee wrested from a settlement that wanted the Host gone, flows into the treasury first. The Warmaster pays out, the bands draw down, and the difference between what is promised and what is left is the number that determines how long the Host stays together.
+
+**How the treasury works:**
+
+The treasury is divided into three parts:
+
+- **Operating reserve:** The coin allocated to cover the next two weeks of full Host pay. If this drops below one week's total cost, the Warmaster is in distress.
+- **Band advances:** Coin pre-allocated to individual bands for their local expenses — food supplements, gear repair, informants, bribes. Drawn against a written order.
+- **Strategic reserve:** Held back from all operating allocations. Emergencies only: a contract collapses mid-run, a band needs emergency resupply, a rival makes an offer to one of the captains that needs buying off.
+
+A Host without a strategic reserve is a Host one bad week from collapse. Experienced Warmasters keep their strategic reserve at two weeks of full Host pay and do not touch it except to prevent something worse than the cost of keeping it.
+
+**Tracking the treasury at the table:**
+
+The GM holds the treasury total. The PCs either manage it (if they are the Warmaster or hold a financial role) or observe its effects (if they are a band captain dealing with the Warmaster). The Warmaster shares treasury information at their discretion — a captain asking about pay security makes a MANIPULATION roll at difficulty 1 to get a straight answer. On a failure, they get a version of the truth.
+
+### Band Budgets and the Purser
+
+Each band within a Host draws from the Host treasury at a fixed rate. Not coin handed over — a budget allocation, tracked by a purser. The purser is a Named Man or trusted NPC appointed by the Warmaster. The purser knows what each band is drawing, what they are spending it on, and how the ledger sits.
+
+**Standard allocation per band per week:**
+
+| BAND SIZE | PAY ALLOCATION | LOCAL EXPENSES BUDGET |
+| --------- | -------------- | --------------------- |
+| Skirmishers (3–6) | 21–42 silver | 5 silver |
+| Warband (7–20) | 49–140 silver | 10–15 silver |
+| Company (21–50) | 147–350 silver | 20–30 silver |
+
+Local expenses cover informants, small bribes, gear repairs the band cannot defer, emergency food, and similar costs. They do not cover Named Man bonuses, specialized equipment, or anything requiring a direct order from the Warmaster.
+
+A band that exceeds its local budget without Warmaster authorization draws against the next week's allocation. Two consecutive overruns trigger a purser review. What comes out of a purser review depends on what went into the excess — legitimate combat costs are absorbed; personal expenditure comes out of the captain's own share; unexplained excess is a problem.
+
+**Deferred pay:**
+
+When the treasury is short, the Warmaster may declare a deferral: pay is not cut, it is delayed. Each week of deferred pay is a formal obligation recorded in the purser's ledger and carries interest in goodwill — the delayed band's MORALE check this week is made at the standard trigger threshold, but the Warmaster takes a −1 to their authority roll at the next Host Council if deferred pay is still outstanding. A deferred debt that goes three weeks unpaid becomes a Grievance on the standard GRIEVANCE table.
+
+**What the PCs can do with this:**
+
+If the fellowship runs one band, they receive their allocation and manage it. A week where they need more than their budget requires going to the purser with a justification or the Warmaster with a request. If the fellowship runs the purser's function (trusted Named Man or direct Warmaster role), they see everything — the treasury position, the other bands' draws, the strategic reserve — and can act on that information, including selectively reporting it.
+
+### Dispatch and Messengers
+
+A Host does not fight in one place at once. Bands may be one hex apart, twenty hexes apart, or on separate sides of a contested river. Orders written at the Warmaster's table take time to arrive. By the time they do, the situation at the receiving end may no longer match the situation the orders were written for.
+
+Information lag is real and has mechanical teeth.
+
+**Dispatch rules:**
+
+A rider on a sound horse covers roughly six hexes per day on clear roads, four in difficult terrain. The Warmaster's order leaves the table on day 0. The band receives it on day 0 + travel time. Until then, the band operates on last known orders.
+
+| DISTANCE | CLEAR ROAD | DIFFICULT TERRAIN | WINTER/MUD SEASON |
+| -------- | ---------- | ----------------- | ----------------- |
+| 1–2 hexes | Same day | Next morning | Next morning |
+| 3–6 hexes | 1 day | 2 days | 3 days |
+| 7–12 hexes | 2 days | 3–4 days | 5–6 days |
+| 13+ hexes | 3+ days | 5+ days | 8+ days |
+
+**Standing orders:** Every band within a Host operates under a set of standing orders — what to do if contact is lost, what threshold justifies independent action, how long to wait for a rider before assuming the Warmaster's situation has changed. The Warmaster issues standing orders at Host formation and may update them via dispatch. A band following standing orders in good faith is not in breach of Warmaster authority, even if the action taken looks wrong from the outside.
+
+Standing orders cover at minimum:
+- Withdrawal threshold (when to pull back without orders)
+- Contact protocol (how to signal the Warmaster's relay point)
+- Emergency action authority (what the band captain may decide alone)
+
+**Lost riders:** A dispatch rider who does not arrive is a problem. The Warmaster does not know the message failed. The receiving band does not know the order exists. The GM rolls secretly when a rider enters dangerous territory: SCOUTING at difficulty 1 in contested hexes, difficulty 2 in actively hostile territory. On a failure, the rider is delayed (re-roll arrival by 1D3 days), captured, or killed (GM decides based on what is in the hostile territory). A captured rider means the enemy has the Warmaster's orders.
+
+**Urgent riders:** A Warmaster who needs a message delivered fast may send a relay — two or three riders, each carrying a copy, taking different routes. Cost: 2–5 silver per rider depending on distance and season. Increases delivery odds, does not eliminate the delay.
+
+**The reply problem:** A band captain sending a report back to the Warmaster faces the same delay. A response to a question asked on day 1 arrives on day 4 at best. Plans that depend on real-time communication between the Warmaster and a remote band will fail. The Host that functions well under information lag has Warmasters who write orders that do not depend on perfect relay, and captains who can execute against the intent rather than the letter.
+
+> **Example:** Pell's warband holds the east flank at the Ashriver crossing. The Warmaster sends orders on day three to pull back to the tree line before dawn — the enemy has reinforced the far bank. The rider hits mud season on the ridge road. The orders arrive at midday on day five. Pell has already held the crossing through a probe and taken two wounded. He reads the order. It says pull back before dawn. Dawn was nine hours ago. He does what the standing orders say: hold position, report status, wait for the next rider.
+
+### Host Diplomacy
+
+A Host deals with parties the individual bands cannot. A faction that will not meet a single captain will meet a Warmaster. A rival Host that has a reason to fight has a reason to talk first. A settlement that would shut its gates at a warband of twelve may open them when a Host of two hundred is a day's march away.
+
+Diplomacy at Host scale has three forms.
+
+**Faction negotiation:**
+
+The Warmaster speaks for the Host. They use their own MANIPULATION, not any band captain's. Difficulty scales with the faction's power:
+
+| FACTION TIER | DIFFICULTY | EXAMPLES |
+| ------------ | ---------- | -------- |
+| Local | 1 | Village council, small cult, minor trader |
+| Regional | 2 | Warchief with a territory, guild with several towns, armed religious order |
+| Major | 3 | A lord with military force, a large faction with institutional standing |
+| Great | 4 | A power that controls borders, a major faith's military arm, a warlord with multiple Hosts |
+
+Success: the faction treats with the Host. Negotiated terms (contract, passage, non-aggression) become binding under the GRIEVANCE mechanic at the Host level — a broken agreement costs the Warmaster's REPUTATION, not an individual band's Standing.
+
+Failure: the faction refuses terms. The Warmaster may try again next quarter after a significant change in circumstances (a Host victory, a shift in the faction's position, a third party's pressure on the faction). Not before.
+
+**Rival Host parley:**
+
+Two Hosts that could fight are often better served talking — at least until one of them has a clear advantage. A Warmaster who wants to parley sends a rider under flag of truce. The rival Warmaster may accept or refuse. Refusing is not an atrocity. Executing the rider under truce is.
+
+Parley terms a Warmaster may propose:
+- Non-aggression for a stated period (one week to one season)
+- Passage rights through each other's territory
+- Division of a contract between both Hosts (split pay, split zone, split obligations)
+- One Host standing aside while the other operates (paid standoff)
+- Full alliance: both Hosts under a shared campaign objective, shared command, shared pay pool
+
+Each proposal requires opposed MANIPULATION: the proposer rolls, the opposing Warmaster rolls, the higher result determines whose terms anchor the negotiation. A tie reopens discussion. A defection offer made privately to a band captain during parley — bypassing the Warmaster — is noted in the GRIEVANCE mechanic if the offering Warmaster is ever identified.
+
+**Third-party arbitration:**
+
+Disputes between Hosts, broken truces, or contested claims over a contract payment may be submitted to a third-party arbitrator both Warmasters recognize. Common arbitrators: priests of standing, prominent merchants, elders of a sufficiently neutral settlement, the patron faction of one Host if the other accepts their authority.
+
+The arbitrator's ruling is not enforceable by law — the Ravenlands has no court. It is enforced by the same mechanism all Host obligations run on: REPUTATION damage to the party that defies it. Both Warmasters agree before arbitration begins that defying the ruling removes their right to dispute the other's response. That agreement is what gives arbitration teeth.
+
+### Inter-Band Rivalry
+
+Bands within the same Host compete. The competition is usually quiet — which band gets the better billet, which captain gets mentioned in the Warmaster's dispatches, whose men come out of a contract cycle with the most loot, whose Named Men get elevated first. When the Host has enough work for everyone, this stays manageable. When resources tighten, it sharpens into something with edges.
+
+**Favorable status:** The Warmaster may designate one band as currently favored — first pick of new contract assignments, first draw on fresh supplies, their captain's word carries more weight at council. Favorable status is noted. The other captains note it too.
+
+**Rival bands:** Two bands in direct competition note each other. Track a Rivalry score (0–3) between any two bands. It starts at 0 and rises through specific triggers:
+
+| TRIGGER | RIVALRY INCREASE |
+|---------|-----------------|
+| One band receives favorable status while the other does not | +1 |
+| One band's action causes the other band to take casualties | +1 |
+| One band takes contract credit for work the other band started | +1 |
+| A Named Man from one band defects to the other | +1 |
+| Both bands bid for the same billet/territory/contract assignment | +1 |
+
+**What Rivalry costs:**
+
+- Rivalry 1: captains are cold. MANIPULATION rolls between the two captains are at +1 difficulty.
+- Rivalry 2: men are hostile. If both bands occupy the same camp, one random Minor Offense incident per week (see Section 6: Discipline).
+- Rivalry 3: it is personal. Any joint operation requires a MANIPULATION roll from both captains (difficulty 2) before the operation begins. On a failure, the failing captain's band performs at −1 MORALE for the operation. On a double failure, neither band acts in support of the other.
+
+**Reducing Rivalry:**
+
+The Warmaster may spend one council action and REPUTATION 1 to formally broker a ceasefire between two rival bands. This drops Rivalry by 1. The alternative is letting it run — which teaches the Warmaster something about their own command, because Rivalry 3 between two of your bands means you created a condition and ignored it long enough for it to get there.
+
+Rivalry does not reset at Host dissolution. If the two bands encounter each other again in a future Host or neutral territory, their prior Rivalry carries forward at −1 (minimum 0).
+
+### The Host Council
+
+The Warmaster convenes the council. Band captains attend — in person if the Host is concentrated, by trusted representative if bands are dispersed. A council costs one full Quarter Day for all bands involved, paid in lost patrol time, reduced foraging, and the social currency of the Warmaster's attention divided equally among every captain who showed up.
+
+**What a council decides:**
+
+- Operational changes: new march routes, target assignments, contract amendments
+- Resource allocation: which bands get provisioning priority, which draw on the local goods budget
+- Grievance hearing: a captain may name a Grievance against another captain or against the Warmaster; the council rules on the response
+- Status designations: favorable status granted or revoked, Rivalry formally acknowledged, captains elevated or demoted
+
+**What the Warmaster can force through:**
+
+Everything with difficulty 0 and nothing with the word "takes." The Warmaster assigns targets, allocates budgets, and sets the march. They cannot force a captain to accept reduced pay without a MANIPULATION roll. They cannot force a captain to take an operation their band cannot sustain without a MANIPULATION roll at difficulty equal to the captain's REPUTATION divided by 2 (round up). They cannot revoke a captain's command in front of the assembled council without creating a Rivalry, a Grievance, or both — unless the revocation comes with clear evidence the captain has broken standing orders.
+
+**Captains calling council:**
+
+A band captain with REPUTATION 3+ may call an emergency council without Warmaster authorization if they can get two other captains to co-sign the call. The Warmaster must attend or formally refuse. A refusal costs the Warmaster −1 REPUTATION. A captain who calls council and cannot get co-signers marks a Grievance against the Warmaster in their own ledger — private, unspoken, building.
+
+**Council vote:**
+
+On contested decisions where the Warmaster has not issued a direct order, captains vote. Each captain has one vote. The Warmaster has two votes. A tied vote goes to the Warmaster. A vote that goes against the Warmaster two-to-one is a result they may comply with or override — overriding it costs REPUTATION −1 and starts a Rivalry entry.
+
+### The Warmaster's Ledger
+
+The Warmaster's authority is not permanent. It is a stock account that grows with victories, clean pay, and honored promises — and drains with losses, deferred coin, and broken commitments.
+
+Track the Warmaster's Ledger as a separate score from their personal REPUTATION. The Ledger starts at 0 and runs from −6 to +6.
+
+**The Ledger rises (+1 per event):**
+
+- Contract completed and all bands paid in full on schedule
+- A battle won with low band casualties
+- A faction negotiation that improved conditions for two or more bands
+- The Warmaster absorbs a personal loss to protect the bands' pay
+- Standing orders that proved accurate in an unexpected situation
+
+**The Ledger falls (−1 per event):**
+
+- Deferred pay not resolved within two weeks
+- Band casualties caused by a Warmaster order that captains disputed before the operation
+- A parley or negotiation that failed and put the Host in a worse position
+- A rider lost and an operation that failed because of it
+- A council vote overridden by the Warmaster without later justification
+
+**Ledger consequences by score:**
+
+| LEDGER | EFFECT ON WARMASTER |
+| ------ | ------------------- |
+| +4 to +6 | Authority calls cost no MANIPULATION — captains follow without rolls |
+| +1 to +3 | Standard authority. MANIPULATION at difficulty equal to REPUTATION ÷ 2. |
+| 0 | Neutral. Captains comply but observe. No modifier, no bonus. |
+| −1 to −3 | Every Warmaster order except direct operationals requires MANIPULATION at difficulty +1 above standard. |
+| −4 to −6 | The Host is fracturing. Any captain with REPUTATION 2+ may call an emergency council without co-signers. The Warmaster's two council votes reduce to one. |
+
+A Ledger that hits −6 triggers automatic Host dissolution (see below) unless the Warmaster resigns command voluntarily before a council vote removes them.
+
+### Host Dissolution
+
+Hosts end. Some cleanly. Most do not.
+
+**Clean dissolution** happens when the campaign objective is complete and all obligations are honored. The Warmaster announces dissolution at a final council. Each band receives their full outstanding pay from the treasury reserve, any equipment drawn on Host allocation is either returned or purchased at a negotiated price, and the bands separate with their prior standing intact. The Warmaster retains credit for the Host's accomplishments. Each captain walks away with whatever Allegiance they earned.
+
+**Contractual dissolution** happens when the employer discharges the Host before the objective is complete. If the contract specified an early-termination fee, the Warmaster collects it and distributes proportionally. If it did not, the Warmaster negotiates — MANIPULATION at the faction's standard difficulty. Bands receive a pro-rated share of whatever was collected. Captains who signed directly with the employer (not through the Warmaster) may press their own claims.
+
+**Collapse** is messy. Triggered by: treasury empty with no recovery path, Ledger at −6, Warmaster killed or fled, major military defeat that breaks two or more bands simultaneously. When collapse happens, each band defaults to its last known contract obligations and operates independently. There is no formal dissolution. The Warmaster's outstanding obligations do not transfer — they simply become unpaid debts that follow whatever name was attached to the Host. If that name was the fellowship's name, the fellowship holds the debt.
+
+**After dissolution:**
+
+Individual bands keep their MORALE score, their Named Men, their gear, and their accumulated Allegiance with any factions they dealt with directly. The Host's shared REPUTATION is distributed unevenly: each captain's account with the factions and settlements the Host dealt with is based on what they personally did and witnessed. A band captain who honorably completed every assignment walks away with real settlement standing. A band captain who was present for an atrocity committed by a rival band under the same banner walks away with whatever the witnesses remember and whoever survived to tell it.
+
+This is the price of shared banners: the bad ones follow everyone.
+
+Sieges, territorial control, and pitched battle between Hosts remain outside scope. The Host tier defines where this proposal ends and where a future large-scale warfare system begins. Each band within this proposal is the atomic unit of that future system — a Host is several companies, not a different kind of thing.
+
 ---
 
 ## Acceptance Summary
 
-These changes are interdependent. Sections 1–6 (band formation, morale, pay, provisions, extortion and tribute, contracts) are the core and should be accepted together. Section 4 (village extortion) can be deferred if the campaign does not involve coercive play against settlements, but it ties the band economy to the Feud Track and should not be omitted from a full implementation. Sections 7–8 (Named Men, wanted status) layer onto the core and can be added separately. Section 9 (atrocities) is self-contained and adds the moral accounting layer. Section 10 requires no changes — it documents integration with existing systems. Section 11 is a new stronghold function and requires only the War Room text. Section 12 (Serving in Another's Company) is standalone — it can be accepted or omitted entirely independent of all other sections.
+These changes are interdependent. Sections 1–6 (band formation, morale, pay, provisions, extortion and tribute, contracts) are the core and should be accepted together. Section 4 (village extortion) can be deferred if the campaign does not involve coercive play against settlements, but it ties the band economy to the Feud Track and should not be omitted from a full implementation. Sections 7–8 (Named Men, wanted status) layer onto the core and can be added separately. Section 9 (atrocities) is self-contained and adds the moral accounting layer. Section 10 requires no changes — it documents integration with existing systems. Section 11 is a new stronghold function and requires only the War Room text. Section 12 (Serving in Another's Company) is standalone — it can be accepted or omitted entirely independent of all other sections. Section 13 (Host Play) is the full meta-band system; it expands independently of all prior sections and is only meaningful for tables intending multi-band campaigns.
 
-| #   | CHANGE                                    | LOCATION                     | DEPENDENCY        |
-| --- | ----------------------------------------- | ---------------------------- | ----------------- |
-| 1   | Band formation + size tiers               | Ch09 (new section)           | None              |
-| 2   | Morale system                             | Ch09                         | 1                 |
-| 3   | Fighter tiers + recruitment               | Ch09                         | 1                 |
-| 4   | Pay, provisions, field non-payment        | Ch09                         | 1, 2              |
-| 5   | Village extortion and tribute             | Ch09 + Ch08 cross-reference  | 1, 2, 3, 4        |
-| 6   | Contracts and bounties                    | Ch09                         | 1                 |
-| 7   | Campaign life (QD activities)             | Ch09                         | 1, 2              |
-| 8   | Named Men system                          | Ch09                         | 1, 2, 3           |
-| 9   | Wanted status                             | Ch09 + Ch08 cross-reference  | 6                 |
-| 10  | Atrocities                                | Ch09 + Ch08 cross-reference  | None (standalone) |
-| 11  | Integration section                       | No text changes — notes only | All above         |
-| 12  | War Room function                         | Ch09 functions table         | Independent       |
-| 13  | Serving in Another's Company (Section 12) | Ch09 (new optional section)  | Independent       |
+| #   | CHANGE                                                                                         | LOCATION                     | DEPENDENCY        |
+| --- | ---------------------------------------------------------------------------------------------- | ---------------------------- | ----------------- |
+| 1   | Band formation + size tiers                                                                    | Ch09 (new section)           | None              |
+| 2   | Morale system                                                                                  | Ch09                         | 1                 |
+| 3   | Fighter tiers + recruitment                                                                    | Ch09                         | 1                 |
+| 4   | Pay, provisions, expanded forager table, field non-payment                                     | Ch09                         | 1, 2              |
+| 5   | Village extortion and tribute                                                                  | Ch09 + Ch08 cross-reference  | 1, 2, 3, 4        |
+| 6   | Finding Work, Allegiance Track, Contracts and Bounties, Kidnapping, Mercenary Hoards           | Ch09                         | 1                 |
+| 7   | Campaign life (QD activities)                                                                  | Ch09                         | 1, 2              |
+| 8   | Named Men system                                                                               | Ch09                         | 1, 2, 3           |
+| 9   | Wanted status                                                                                  | Ch09 + Ch08 cross-reference  | 6                 |
+| 10  | Atrocities                                                                                     | Ch09 + Ch08 cross-reference  | None (standalone) |
+| 11  | Integration section                                                                            | No text changes — notes only | All above         |
+| 12  | War Room function                                                                              | Ch09 functions table         | Independent       |
+| 13  | Serving in Another's Company (Section 12)                                                      | Ch09 (new optional section)  | Independent       |
+| 14  | Section 6 optionals: Arguments and Escalation, Blood Oaths, Death of a Member — Distribution   | Ch09                         | 8                 |
+| 15  | Host Play (Section 13): treasury, budgets, dispatch, diplomacy, rivalry, council, ledger, dissolution | Ch09 (new optional section)  | Independent       |
 
 Changes 1–7 together form the minimum viable play loop. Without morale and pay pressure, mercenary management is just hirelings with extra paperwork. The atrocity rules (10) are standalone and can be brought in at any time.
 
@@ -1588,7 +1947,7 @@ The Ravenlands does not reward the man who stops.
 
 **✅ 1. COMMAND talent:** Resolved. PATH OF THE COMMANDER (Ch04) is the existing hook. Section 10 now defines how PC leaders with any rank in that talent substitute PERFORMANCE for MANIPULATION on MORALE checks, and how the higher ranks extend into Named Man coordination. No separate COMMAND talent is needed.
 
-**⏸️ 2. Large-scale warfare:** Deferred. This proposal handles bands up to ~50 men. Armies, sieges, and coordinated multi-stronghold campaigns require a separate system. The Host tier (51+ men) flags the boundary but does not solve it. That system, if built, should treat this proposal's output as its atomic unit: a Host is several Warbands, not a different kind of thing.
+**✅ 2. Large-scale warfare:** Resolved at the Host tier boundary. A brief Host sidebar in Section 1 (after the Size Tiers table) introduces the Warmaster concept. Full Host mechanics — band-level tracking, Warmaster authority and alignment, supply at scale, and scope boundary — are in **Section 13: Host Play**.
 
 **✅ 3. Mercenary archetypes by kin:** Resolved. Kin recruitment modifiers are now in Section 2 (Recruitment and Quality) as a table. Elf, Dwarf, Halfling, Wolfkin, Orc, and Goblin each carry specific mechanical note. Notes were kept narrow — modifier to the settlement roll only, not permanent stat effects.
 
@@ -1596,18 +1955,21 @@ The Ravenlands does not reward the man who stops.
 
 **Open questions:**
 
-1. **Named Man promotion to PC-adjacent role:** Can a Named Man with sufficient advancement be given a full character sheet and played as a temporary PC if their original character is out of action? The current advancement rules (Section 7) touch this but do not resolve the full transition. A Named Man who has gained multiple stat increases, developed a clear personality, and completed their Agenda may deserve a more formal path into the fellowship if both player and GM agree. Low priority — this is a GM call in practice — but a one-paragraph ruling would prevent table confusion.
+1. ✅ **Named Man promotion to PC-adjacent role:** Resolved. Section 7 (Named Man Advancement) now includes a ruling: a Named Man with 15+ XP recorded, an active Agenda, and Loyalty 3 may be granted a full character sheet by the GM when a player's original character is out of action. Prior XP carries over at 2:3 conversion. Personality, Trigger, and Agenda survive the transition.
 
-2. **Band reputation vs. fellowship reputation:** The proposal uses the fellowship's Reputation as the band's. This works for small bands but breaks down if the band operates independently for a season while the PCs are elsewhere. A band that commits atrocities while the PCs are absent should not automatically collapse the fellowship's Reputation. Consider a secondary **Band Notoriety** track that runs parallel to fellowship Reputation and can diverge — linked by the fellowship's name but capable of accruing its own consequences. Defer unless Band Notoriety is needed in play.
+2. ⏸️ **Band reputation vs. fellowship reputation:** Acknowledged and noted as a deferred design gap. Section 10 (Reputation Cascade) now includes a stated deferral: the band's name is the fellowship's name without exception until a Band Notoriety track is built. Future work, not blocking integration.
 
-3. **Band downtime at the stronghold:** The proposal handles field operations but does not define what a Named Man does when the band is home between contracts. Section 10 notes that field fighters can be assigned to GUARD duty (Defense Rating contribution), but the transition is not mechanized. Specifically: does the BARRACKS cover Named Men as well as common guards? Can Named Men be assigned to stronghold functions during downtime? Requires a brief ruling before integration.
+3. ✅ **Band downtime at the stronghold:** Resolved. Section 10 (Stronghold Defense Rating) now includes a Named Man downtime ruling: Named Men may be assigned to GUARD, TRAINING, SCOUTING, or LOGISTICS functions. BARRACKS covers Named Men and common guards alike. Loyalty does not decay during downtime if pay is current.
 
-4. **MORALE 5 label collision:** The label "Hungry" for MORALE 5 — meaning eager and dangerous — collides with the HUNGRY condition in Ch05. Rename before integration. Candidates: **Keen**, **Sharp**, **Primed**. Pick one and propagate through the MORALE table, MORALE TRIGGERS table, and any section that references the state by name.
+4. ✅ **MORALE 5 label collision:** Resolved. The label "Hungry" is renamed to **Keen** throughout the proposal.
 
-5. **Acceptance table is out of date:** The table in the Acceptance Summary reflects the original section structure. The following have been added and are not yet listed: kidnapping rules (Section 5), mercenary hoards + dead band sidebar (Section 5), expanded forager table with coverage math (Section 3), and the three optional subsystems in Section 6 (Arguments and Escalation, Blood Oaths, Death of a Member — Distribution). Update before integration review.
+5. ✅ **Acceptance table is out of date:** Resolved. The Acceptance Summary table now includes rows for: the expanded forager table (row 4), the full Section 5 additions including kidnapping and mercenary hoards (row 6), and the three Section 6 optional subsystems (row 14).
 
-6. **Optional subsystem grouping:** The three Section 6 optionals are individually marked "Optional" but carry no guidance on running them together vs. separately. Blood Oaths requires a campaign long enough for Named Men to form meaningful bonds — a short campaign gains little from it. Arguments and Escalation and Death Distribution are self-contained and work from the first session. A brief note in the section header recommending which optionals to enable in which campaign contexts would prevent tables enabling Blood Oaths in session one and wondering why it never fires.
+6. ✅ **Optional subsystem grouping:** Resolved. A guidance note now precedes the Optional subsystems in Section 6: Arguments and Escalation and Death Distribution are session-one ready; Blood Oaths should wait until the Named Men have shared history.
 
-7. **Brotherhood oath bonus magnitude:** The current text grants +1 to the reactive roll. Confirm this is correct before integration — in a single-die-pool system, +1 is meaningful but not dominant. If the design intent was higher, update before final text lock.
+7. ✅ **Brotherhood oath bonus magnitude:** Resolved. The text already reads +2. The open question reflected a stale draft. No change needed.
 
-8. **Unintentional captive death:** The kidnapping rules specify that executing a captive after accepting ransom is an Atrocity. A captive who dies through neglect — starvation, untreated wounds, exposure — is not addressed. Clarify whether unintentional death triggers the Atrocity consequence (probably yes, on a reduced scale) or requires deliberate intent. The distinction has contract and MORALE implications.
+8. ✅ **Unintentional captive death:** Resolved. The kidnapping section now distinguishes deliberate execution from negligent death. Negligent death triggers a reduced consequence: Standing −1 at the relevant settlement, the poster is a grieved party, and the full Atrocity cascade does not apply unless the negligence was sustained and visible. GM may treat it as deliberate if the band had means to prevent it and did not.
+
+9. ✅ **Mercenary diplomacy and allegiances:** Resolved. Section 5 now opens with **Finding Work** (audience requirements and terms negotiation mechanic) and **Allegiance** (0–4 track per employer, with access tiers and exclusivity costs). The contract-vs.-bounty distinction is preserved: bounties are public, contracts are private, and conflicting obligations default to the employer's terms under the existing GRIEVANCE mechanic. The approach roll uses MANIPULATION at difficulty set by employer tier (1–4). Retained bands (Allegiance 3) carry exclusivity obligations; sworn bands (Allegiance 4) carry full exclusivity.
+10. ✅ **Host diplomacy layer:** Resolved in Section 13 expansion. The full Host system now covers: the treasury and band budget allocation (Host Treasury, Band Budgets and the Purser), information lag and rider mechanics (Dispatch and Messengers), faction negotiation and rival Host parley including flag-of-truce and arbitration procedures (Host Diplomacy), resource competition between bands with a tracked Rivalry score (Inter-Band Rivalry), the council mechanic including captain-called emergency councils and vote rules (The Host Council), the Warmaster's Ledger as a persistent authority track (The Warmaster's Ledger), and clean, contractual, and collapse dissolution paths with per-band ownership of reputation consequences (Host Dissolution). Open: high-level political intrigue and multi-faction campaign dynamics at the level of a great power using the Host as a strategic instrument — this would be a campaign design question beyond the scope of a rules proposal.
