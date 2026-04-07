@@ -9,6 +9,8 @@
 > _She did not send men back. The road ahead was paid for. The road behind was not. Gest noted the name in the ledger with a stub of charcoal and asked no questions aloud. He had been doing this longer than questions helped._
 >
 > _The column moved on. One lighter. The arithmetic was the same as always: feed the ones who stayed, pay the ones who fought, bury the ones who fell, and forget the ones who walked off in the dark. That was the work._
+>
+> _"The problem with twenty armed men," said the woman who later became known as the Gristle, though not as a compliment, "is that they need to eat every day. The problem with twenty hungry armed men is your problem."_
 
 ---
 
@@ -26,7 +28,39 @@ You do not need this chapter to play Forbidden Lands. You need it if you want th
 
 ---
 
-> **Reputation** is the fellowship's overall renown across the Ravenlands — a number from the **JOURNEYS** chapter. **Standing** is the fellowship's relationship with a specific settlement — tracked per settlement. This chapter uses both. When the text says "Reputation," it means the number. When it says "Standing," it means the settlement-specific score. When the text says "reputation" in lowercase, it means the word — what people say about the band.
+### Key Terms
+
+These terms appear throughout the chapter. They are collected here so the rest of the rules can use them without stopping to define them.
+
+**REPUTATION** — The fellowship's total renown across the Ravenlands. A single number from the **JOURNEYS** chapter. It rises from deeds and falls from failure. When this text capitalizes REPUTATION, it means that number. When it says "reputation" in lowercase, it means what people say about the band — the word, not the score.
+
+**Standing** — The fellowship's relationship with a specific settlement. Tracked per settlement separately from REPUTATION. Standing can be positive (the village knows you and trusts you), neutral (they do not know you), or in GRIEVANCE (they remember something the band did). Standing opens or closes gates, affects prices, and determines whether a settlement will shelter wounded or turn the band out.
+
+**MORALE** — The band's collective state. A score from 1 (Broken) to 5 (Keen). It belongs to the band, not to any individual. It rises from victories, paid wages, and honored promises. It falls from late pay, Named Men killed, atrocities, and failed checks. At MORALE 1 the band may scatter.
+
+**GRIEVANCE** — An unresolved bad event. Grievances set the difficulty for MORALE checks. They do not clear automatically — the captain must take a concrete action or succeed on a voluntary check. Unaddressed grievances stack, and the worst one determines the difficulty.
+
+**Allegiance** — The band's relationship with a specific employer. Tracked 0–4 per significant employer. Completing contracts builds it. Breach or abandonment drops it. At higher levels it grants access, discounts, and protection. At level 4 it is exclusive — the band cannot take competing work without resetting it.
+
+**Loyalty** — A Named Man's personal commitment to the band. Scored 1–3. It is not the same as MORALE. A Named Man with Loyalty 3 is personally invested; one with Loyalty 1 is watching the door. Loyalty rises when the captain invests in that man's wellbeing and falls when their Trigger is hit or MORALE declines.
+
+**Trigger** — The thing that breaks a Named Man's loyalty. Each Named Man has one. When the trigger fires and the captain does nothing to address it, Loyalty drops by 1. A Trigger hit at Loyalty 1 means the man leaves.
+
+**Agenda** — What a Named Man wants beyond pay. A personal goal that predates the band and will outlast it. A captain who moves the band toward a Named Man's agenda keeps that man's Loyalty stable. A captain who ignores it loses them quietly over time.
+
+**Call Name** — An earned title given by the band for a witnessed deed. Not a rank. The name that sticks is the one the band gives, not the one the man would have chosen. Call Names are recognized at settlements and by other mercenary companies.
+
+**Ledger** — The Warmaster's authority score with the band captains under the Host. Runs from −6 to +6. It rises when the Warmaster keeps their word and manages the Host well. It falls when they waste men, defer pay, or make bad decisions. A Warmaster with a collapsing Ledger loses the council and eventually the Host.
+
+**Named Men** — Individual veterans with their own stat blocks, names, Loyalty scores, Triggers, and Agendas. They are tracked separately from the roster. They can be Broken, recover, advance, and die in ways that matter to the story. They are the band's institutional memory and its most dangerous political problem.
+
+**Common fighters** — The anonymous soldiers on the roster. Tracked as a group by quality (Green, Seasoned, Veteran, Elite) and size. They do not have individual names or stats in normal play. They fight, eat, get paid, and can be broken as a unit.
+
+**Host** — Multiple bands under a single authority. Not one band grown large, but several bands with separate MORALE scores, captains, and Named Men, assembled under a Warmaster. Full Host mechanics are in the **Host Play** section.
+
+**Warmaster** — The commander of a Host. Manages supply, sets operational orders for band captains, and holds the Host's Ledger. May be a PC or a Named Man elevated from the ranks. Does not manage individual soldiers — manages leaders.
+
+---
 
 ## The Band
 
