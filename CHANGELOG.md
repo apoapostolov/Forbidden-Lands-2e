@@ -7,7 +7,7 @@ All notable changes to the Forbidden Lands Corebook will be documented in this f
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## [1.0.4] - 2026-04-07
 
 ### Added
 
@@ -20,6 +20,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - Revised `MASTER OF THE HUNT` ranks 1, 2, and 4 in Chapter 4. Rank 1 adds animal-sign reading while hiking at no Quarter Day cost. Rank 2 adds absent trap monitoring on top of REST equivalence. Rank 4 replaced extra-animals mechanic with wounded-game tracking (additional Quarter Day, SURVIVAL at -1).
+- Removed duplicate extortion vignette from Chapter 12 Part 3. Kept Yellowdew; removed Redrun as a redundant variation of the same scene.
 
 ## [1.0.3] - 2026-04-07
 
