@@ -1,5 +1,7 @@
 # Mercenaries of the Forbidden Lands
 
+> _"The problem with twenty armed men," said the woman who later became known as the Gristle, though not as a compliment, "is that they need to eat every day. The problem with twenty hungry armed men is your problem."_
+>
 > _She counted heads at the ford and came up one short. The river had not taken him — the river was knee-deep and slow, the kind of crossing that kills no one. She turned in the saddle, scanning the column, and Gest met her eye from the rear guard and held up five fingers. Five where there should have been six._
 >
 > _Ferrec was gone. He had been behind Petter at the last count. Before that, behind Brosa. Before that, nobody could say with certainty, because nobody watched Ferrec the way Ferrec watched everyone else._
