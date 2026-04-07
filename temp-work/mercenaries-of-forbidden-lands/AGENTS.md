@@ -12,21 +12,21 @@ Chapter 12 is the largest chapter in the manuscript. As a single file it exceeds
 
 ## Parts in build order
 
-| File | Content |
-|---|---|
-| `01-introduction.md` | Chapter introduction and framing |
-| `02-recruitment-and-pay.md` | Hiring, pay rates, and the retainer model |
-| `03-extortion-and-tribute.md` | Tribute and Tyrant band mechanics |
-| `04-contracts-and-bounties.md` | Contract types, Allegiance, bounty tables |
-| `05-campaign-life.md` | Travel, supply, morale, and STANDING |
-| `06-named-men.md` | Named Man rules, tiers, and advancement |
-| `07-hired-casters.md` | Caster integration and caster contracts |
-| `08-special-rules.md` | Kin bands, blood oaths, special mechanics |
-| `09-serving-in-anothers-company.md` | PC serving under an NPC band |
-| `10-host-play.md` | Running the band as an ongoing faction |
-| `11-appendix-a-meet-the-band.md` | Faction sheet and session-zero tools |
-| `12-appendix-b-premade-bands.md` | Eight ready-to-run premade bands |
-| `XX-appendix-integration.md` | Cross-chapter integration notes |
+| File                                | Content                                   |
+| ----------------------------------- | ----------------------------------------- |
+| `01-introduction.md`                | Chapter introduction and framing          |
+| `02-recruitment-and-pay.md`         | Hiring, pay rates, and the retainer model |
+| `03-extortion-and-tribute.md`       | Tribute and Tyrant band mechanics         |
+| `04-contracts-and-bounties.md`      | Contract types, Allegiance, bounty tables |
+| `05-campaign-life.md`               | Travel, supply, morale, and STANDING      |
+| `06-named-men.md`                   | Named Man rules, tiers, and advancement   |
+| `07-hired-casters.md`               | Caster integration and caster contracts   |
+| `08-special-rules.md`               | Kin bands, blood oaths, special mechanics |
+| `09-serving-in-anothers-company.md` | PC serving under an NPC band              |
+| `10-host-play.md`                   | Running the band as an ongoing faction    |
+| `11-appendix-a-meet-the-band.md`    | Faction sheet and session-zero tools      |
+| `12-appendix-b-premade-bands.md`    | Eight ready-to-run premade bands          |
+| `XX-appendix-integration.md`        | Cross-chapter integration notes           |
 
 ## After editing any part
 
