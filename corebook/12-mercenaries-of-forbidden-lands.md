@@ -3757,7 +3757,7 @@ Pell has been running contracts for two years. He pays wages on time and has not
 
 Buried in the root cavity of a fallen oak 2 hexes northeast of Ashmill, sealed in an oilcloth package inside a clay-stoppered pot:
 
-- **97 silver** in mixed denomination — a season's surplus from four contracts, accumulated slowly
+- **153 silver** in mixed denomination — two years of contract work, accumulated slowly; there is no single contract this came from
 - **Pell's mother's ring** — iron set with a chip of green stone. Worth 5 silver to a stranger. He will not sell it.
 - **A quality hand axe** taken from a garrison officer whose unit was on the wrong side of a contract two winters ago. Better than Pell's current axe. He keeps it in reserve because a second axe is the difference between a broken weapon and a dead man.
 - **A letter of recognition** on Ashmill's council seal, stating plainly that the Mourning Company completed two prior patrol engagements in good standing. Worth nothing to most people. Worth something if Pell ever needs to argue that this band has legitimate standing before a warchief or settlement council.
@@ -4029,7 +4029,7 @@ Hadric has been extracting tribute from settlements for two years. He is buildin
 
 Hadric's cache — buried under the north wall's collapsed floor in the ruined watchtower two hexes east of Feldwick, inside a sealed hardwood box:
 
-- **188 silver** accumulated over eight tribute extractions and four contracts, held back from wages at the captain's discretionary margin
+- **312 silver** accumulated over eight tribute extractions and four contracts, held back at the captain's discretionary margin; Hadric considers this the foundation investment, not a treasury
 - **A quality long sword**, master-made, taken from a garrison commander whose post they broke two seasons ago. The blade has a maker's mark the right buyer would recognize.
 - **Two full suits of chainmail**, stripped from surrendered soldiers still in serviceable condition. Each worth 12 silver on resale to an armorer, or instantly useful to whoever wears them.
 - **A sealed letter** bearing a warchief's private mark — the contact Hadric has been cultivating. The letter commits the warchief to a meeting at a location written in cipher. Varis has read it. Hadric does not know this.
@@ -4037,7 +4037,7 @@ Hadric's cache — buried under the north wall's collapsed floor in the ruined w
 
 Varis's cache — behind the south face's loose foundation stone in the same ruin, in a cavity Hadric has not checked:
 
-- **115 silver** Varis has been reserving from his own share and from funds he has redirected through the company's fence contact over three months
+- **155 silver** Varis has been reserving from his own share and from funds he has redirected through the company's fence contact over three months
 - **A master-made short sword**, balanced for draw rather than display. His own tool.
 - **A quality crossbow** with a case of 24 quarrels, wrapped in oilcloth.
 - **A working knife with a weighted pommel**, purchased from a craftsman specifically — the balance is for throwing, not cutting. Four men know this. None of them are in the company.
@@ -4201,7 +4201,7 @@ Active contract — a revenge job. An employer paid to have a specific named per
 
 **Company-unknown — the cache:** Two hexes northeast, under a flat stone foundation that looks like road debris. Sealed oilcloth inside a clay-lined depression:
 
-- **162 silver** accumulated across nine contracts, held back at the captain's personal margin — never discussed with the company and not visible in the wages ledger
+- **215 silver** accumulated across nine contracts, held back at the captain's personal margin — never discussed with the company and not visible in the wages ledger
 - **The treasury documents** — six sheets of densely ciphered text, taken from a contract two seasons ago and never returned to the employer. The employer has since died, which the captain considers closure on the contract but not the question of what the documents say.
 - **The bronze administrative seal** — a merchant house mark that Ghost has already recognized. The seal validates documents under that house's authority. It has not been used. The captain has considered it.
 - **A full set of civilian travel clothes**, folded and wrapped. A merchant-quality wool coat, a plain linen shirt, and boots with minimal wear. They fit the captain and nobody else here.
@@ -4371,7 +4371,7 @@ The Gristle keeps the company finances in a leather satchel she carries herself.
 
 **The satchel:**
 
-- **62 silver** in mixed coin — seven weeks of wages held, accumulated across three contracts on the Yendra road
+- **92 silver** in mixed coin — nine weeks of wages held, accumulated across four contracts on the Yendra road
 - **The contract ledger** — every job the band has taken, the employer, the terms, the outcome. Written in the Gristle's hand, witnessed by Gest. This is the band's reputation in physical form.
 - **A letter of recognition** from Hollowford's council, stating the band completed two prior patrol contracts in good standing
 
@@ -4533,7 +4533,7 @@ An iron-bound campaign chest with two locks. One key is around Coldhand's neck. 
 
 Inside, current count from Coldhand's private memory:
 
-- **70 silver** wage reserve — five weeks' float
+- **110 silver** wage reserve — seven weeks' float
 - **A packet of three signed work-orders** from prior employers, never cashed. Two are from settlements within two days' march. The third is from a consortium charter that may no longer function. Combined face value: 18 silver if honored, 0 if the issuers dispute or are gone.
 - **A cavalry dispatch satchel** from the last campaign — fine tooled leather, brass fittings, Coldhand's former unit's mark on the flap. Worth 8 silver to a dealer in military goods, worth a conversation Coldhand does not want to have to anyone who recognizes the mark.
 
@@ -4684,7 +4684,7 @@ The pack does not hold by individual accumulation. They cache together. Their go
 
 **The denning-ground cache** — buried under a particular root system in a pattern Sura knows by smell and direction and the count of steps from a specific tree. Currently 30 paces from the nearest settlement fire.
 
-- **47 silver** in mixed coin from three years of contract payments, accumulated net
+- **112 silver** in mixed coin from three years of contract payments, accumulated net
 - **Four quality weapons**: a short sword with a bone grip, a balanced fighting spear with a replaced shaft, a hunting bow with a full quiver of 12 arrows, and a knife with a weighted spine Fang identified as useful and took from a dead man
 - **Three cured elk hides**, rolled and bound — each worth 4 silver whole, more if worked; heavy, left here because the pack prefers to travel without the weight
 - **A winter-weight elk pelt** — prime condition, taken two seasons ago. Worth 8 silver to a furrier. Worth more to a wolfkin pack in a bad winter.
@@ -4807,7 +4807,7 @@ Dwarves do not bury coin loose under rocks. The Oslunds use a false bottom.
 
 **The supply chest, lower cavity** — a second floor of hardwood concealed by a fitted panel, detectable with a SPOT difficulty 4 check. Durn and Petra are the only two people who know it exists:
 
-- **41 silver** in mixed coin and three trade-weight ingots of refined tin (each worth 4 silver to a metalworker — impractical for daily exchange, dense, and a legitimate storage material that Harb considers perfectly sensible)
+- **68 silver** in mixed coin and three trade-weight ingots of refined tin (each worth 4 silver to a metalworker — impractical for daily exchange, dense, and a legitimate storage material that Harb considers perfectly sensible)
 - **A rough amethyst** — uncut, thumb-sized, worth 8 silver to a jeweler, 3 silver to anyone else
 - **A polished garnet** — cut and set in plain iron, a former employer's payment-in-kind; worth 14 silver as a piece, more if the iron setting is replaced
 - **A raw smoky quartz** — large, still attached to its matrix. Worth 4 silver for the stone, another 2 silver for the matrix to the right buyer. Worth nothing to someone who does not know what they are holding.
