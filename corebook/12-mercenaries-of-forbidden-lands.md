@@ -1,4 +1,4 @@
-the is# Mercenaries of the Forbidden Lands
+# Mercenaries of the Forbidden Lands
 
 > _She counted heads at the ford and came up one short. The river had not taken him — the river was knee-deep and slow, the kind of crossing that kills no one. She turned in the saddle, scanning the column, and Gest met her eye from the rear guard and held up five fingers. Five where there should have been six._
 >
