@@ -1161,10 +1161,10 @@ No matter how bad the odds are, you always get away unscathed. This talent canno
 
 You are a skilled hunter and can find prey where others cannot.
 
-- **✦ RANK 1:** Your SURVIVAL roll is modified by +1 when you HUNT during journeys. Read more about journeys in Chapter 7.
-- **✦ RANK 2:** Hunting sets you at ease. A Quarter Day spent HUNTING counts as RESTING.
+- **✦ RANK 1:** Your SURVIVAL roll is modified by +1 when you HUNT during journeys. While hiking through a hex you have not hunted in, you may read animal signs and make one forward guess about what large game uses it. The GM confirms or denies. This costs no Quarter Day action.
+- **✦ RANK 2:** Hunting sets you at ease. A Quarter Day spent HUNTING counts as RESTING. In addition, traps you set work while you are absent — you do not need to stay in the hex to monitor them. A trap you set is checked when you return or at the end of the next Quarter Day, whichever comes first.
 - **✦ RANK 3:** When HUNTING, you may roll two D6s on the animals table and choose which result you want to use.
-- **✦ RANK 4:** You may turn excessive ⚔️ on your initial roll into additionally found animals. Extra ⚔️on the second roll, then makes you take them out.
+- **✦ RANK 4:** You may track a missed kill. If your kill roll fails, you may spend one additional Quarter Day tracking the wounded animal. Roll SURVIVAL at -1. On a success, you find it and finish it — collect full MEAT and PELTS. On a failure, the animal is lost and the Quarter Day is wasted.
 - **✦ RANK 5:** Replace the +1 modifier with a d10 die.
 
 ### MEDITATION

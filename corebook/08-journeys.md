@@ -37,7 +37,7 @@ The Forbidden Lands are divided into ten types of terrain. Each hexagon on the m
 | Mountains      | Difficult terrain       | -2     | -1   |
 | High Mountains | Impassable              | —      | —    |
 | Lake/River     | Requires a boat or raft | —      | 0    |
-| Marshlands     | Requires a raft         | +1     | -1   |
+| Marshlands     | Requires a raft         | +1     | +1   |
 | Quagmire       | Difficult terrain       | -1     | 0    |
 | Ruins          | Difficult terrain       | -2     | -1   |
 
@@ -342,12 +342,14 @@ If your _forage_ roll fails, you don't find any food or water and you suffer a m
 
 #### SEASONS
 
-| SEASON | FORAGE |
-| ------ | ------ |
-| Spring | -1     |
-| Summer | 0      |
-| Autumn | +1     |
-| Winter | -2     |
+| SEASON | FORAGE | HUNT |
+| ------ | ------ | ---- |
+| Spring | -1     | -2   |
+| Summer | 0      | -1   |
+| Autumn | +1     | +1   |
+| Winter | -2     | 0    |
+
+Apply the HUNT modifier to the initial SURVIVAL roll when hunting. In autumn, game is fat and moving in the open. In spring, animals are lean, nursing, and scarce. In summer, thick cover breaks sight lines and prey is alert. In winter, snow shows every track but the short day and cold exposure limit what a hunter can do.
 
 ### HUNT
 
@@ -357,8 +359,20 @@ You can choose to _hunt_ for one or two Quarters. If you hunt for one Quarter, y
 
 Apply these terrain modifiers to the initial SURVIVAL roll:
 
-- +1 in Plains or Forest.
-- -1 in Mountains, Marshlands, or Ruins.
+- +1 in Plains, Forest, or Marshlands.
+- 0 in Dark Forest, Hills, Quagmire, or Lake/River.
+- -1 in Mountains or Ruins.
+
+If the expanded weather rules are in use, also apply these modifiers:
+
+- **Strong Wind:** HUNT -1. Animals scatter. Wind kills scent and sound.
+- **Drizzle:** HUNT -1. Game takes cover. Wet ground is loud underfoot.
+- **Downpour:** HUNT -2. Rain drowns tracks, sound, and sight. Most prey will not move.
+- **Storm:** HUNT is not possible this Quarter Day.
+- **Active snowfall:** The initial SURVIVAL roll gains +1. Fresh tracks stand out in new snow. The kill roll is unaffected.
+- **Clear skies in winter:** HUNT +1. Frozen ground is quiet and last night's tracks are still legible.
+
+Weather, season, and terrain modifiers all stack. A hunter going out in autumn rain in the forest rolls SURVIVAL with +1 (forest) +1 (autumn) -1 (drizzle) = +1. The same hunter in spring downpour in the mountains rolls -1 (mountains) -2 (spring) -2 (downpour) = -5. That roll is almost certainly a failure, which is the point — nobody hunts in a spring mountain storm.
 
 You need some form of gear to _hunt_ - either a ranged weapon or a hunting trap of some type. First, you must find your prey, which you can do by making a SURVIVAL roll (see the MASTER OF THE HUNT and HUNTING INSTINCTS talents in Chapter 4).
 
@@ -367,20 +381,24 @@ Success means that you find some kind of prey. Roll on the table above to see wh
 To kill your prey you must roll again, this time for MARKSMANSHIP (if using a weapon) or SURVIVAL again (if you are using a trap). Modify the roll with the difficulty of the an imal, according to the table. You don’t need to fight the animal, rolling once is enough. Note that some animals cannot be caught
 with a trap.
 
-The table to the upper left indicates how many units of MEAT and PELTS your prey yields. The MEAT can be cooked by a CHEF or at an INN, and is then turned into an equal amount of FOOD. You can eat MEAT raw – you then con sume a unit of MEAT instead of rolling your Resource Die for FOOD. You need to do this within a day, or the MEAT will be spoiled. The PELTS can be turned into LEATHER by a TANNER, preferably at a TANNERY.
+The table to the upper left indicates how many units of MEAT and PELTS your prey yields. The MEAT can be cooked by a CHEF or at an INN, and is then turned into an equal amount of FOOD. You can eat MEAT raw — you then consume a unit of MEAT instead of rolling your Resource Die for FOOD. The PELTS can be turned into LEATHER by a TANNER, preferably at a TANNERY.
+
+**MEAT AND SPOILAGE.** How long raw MEAT keeps depends on temperature. In summer heat (HEAT 3 or higher), raw MEAT must be eaten or cooked before the end of the current Quarter Day. In normal conditions, MEAT keeps for one day. In winter cold (HEAT 0 or lower), raw MEAT keeps for D3 days before it spoils. A successful CHEF roll during MAKE CAMP extends any MEAT by one extra day — this requires a TINDERBOX. These spoilage times also apply to raw FISH.
 
 If your first SURVIVAL roll fails, you suffer a mishap. Roll on the table to the lower left. If your second roll fails to kill your prey, it only means you don’t get the FOOD – unless it is a boar, in which case it immediately attacks.
 
-| D6  | ANIMAL | DIFFICULTY | REQUIREMENT    | MEAT | PELTS |
-| --- | ------ | ---------- | -------------- | ---- | ----- |
-| 1   | Mouse  | +1         | Weapon or trap | 1    | —     |
-| 2   | Crow   | 0          | Weapon         | 1    | —     |
-| 3   | Rabbit | +1         | Weapon or trap | 2    | 1     |
-| 4   | Fox    | -1         | Weapon or trap | 3    | 1     |
-| 5   | Boar\* | -1         | Weapon         | 4    | 2     |
-| 6   | Deer   | 0          | Weapon         | 5    | 3     |
+| D6  | ANIMAL      | DIFFICULTY | REQUIREMENT    | MEAT | PELTS |
+| --- | ----------- | ---------- | -------------- | ---- | ----- |
+| 1   | Squirrel    | +1         | Weapon or trap | 1    | 1     |
+| 2   | Game birds† | +1         | Weapon or trap | 1    | —     |
+| 3   | Hare        | +1         | Weapon or trap | 2    | 1     |
+| 4   | Fox         | 0          | Weapon or trap | 2    | 2     |
+| 5   | Boar\*      | -2         | Weapon         | 5    | 2     |
+| 6   | Deer        | -1         | Weapon         | 5    | 3     |
 
-_Boars attack you if you fail._
+_\* Boars attack you if you fail._
+
+_† Partridge, pigeon, dove, or similar. In Marshlands or next to a lake or river, treat this result as waterfowl (duck, coot, heron) with the same stats._
 
 #### HUNTING MISHAPS
 
@@ -452,7 +470,7 @@ You may not survey the lands while on an Ice Cap or Sea Ice tile. Rivers are sco
 
 **Mountains:** Forage -2, Hunt -1. Difficult terrain. +2 to construct Quarry. Cannot hold field, garden, fence, or pasture stronghold locations. Ramparts or palisades receive an automatic +1 to defense rating. Wells must be built as cisterns and use 10 times the materials and take months instead of weeks to complete.
 
-**Marshlands:** Forage +1, Hunt -1. Allows fishing. Requires boat or raft. -1 to construct any stronghold location, except moat. You may forage for purple shells except in winter. Diving requires an **ENDURANCE** roll at -2 unless you have **DIVER**. If the temperature is cold, roll for COLD. For each success on a dive, you find a shell worth 6D6 silver and 1 unit of MEAT. A mishap can result in a surprise crocodile attack.
+**Marshlands:** Forage +1, Hunt +1. Allows fishing. Requires boat or raft. -1 to construct any stronghold location, except moat. Marshlands are rich hunting ground — waterfowl, otter, and wading birds concentrate in wetland cover. You may forage for purple shells except in winter. Diving requires an **ENDURANCE** roll at -2 unless you have **DIVER**. If the temperature is cold, roll for COLD. For each success on a dive, you find a shell worth 6D6 silver and 1 unit of MEAT. A mishap can result in a surprise crocodile attack.
 
 **Quagmire:** Forage -1, Hunt +0. Difficult terrain. -1 to construct any stronghold location, except moat. A quarry can possibly yield peat instead of stone; the peat is a LIGHT resource and can be used as fuel. If you are a **TANNER**, you can make a **SURVIVAL** roll to have the Quagmire function as a root cellar or a tannery. Do this just like if you were constructing the location, but eschew the material costs.
 
