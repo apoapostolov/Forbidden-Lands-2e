@@ -3550,31 +3550,190 @@ A band leader without PATH OF THE COMMANDER uses MANIPULATION as written. PATH O
 
 ---
 
-## Appendix B: Acceptance Summary
+## Appendix B: New Chapter Plan — Chapter 12: Mercenaries of the Forbidden Lands
 
-These changes are interdependent. Sections 1–6 (band formation, morale, pay, provisions, extortion and tribute, contracts) are the core and should be accepted together. Section 4 (village extortion) can be deferred if the campaign does not involve coercive play against settlements, but it ties the band economy to the Feud Track and should not be omitted from a full implementation. Sections 7–8 (Named Men, wanted status) layer onto the core and can be added separately. Section 9 (atrocities) is self-contained and adds the moral accounting layer. Section 10 requires no changes — it documents integration with existing systems. Section 11 is a new stronghold function and requires only the War Room text. Section 12 (Serving in Another's Company) is standalone — it can be accepted or omitted entirely independent of all other sections. Section 13 (Host Play) is the full meta-band system; it expands independently of all prior sections and is only meaningful for tables intending multi-band campaigns.
+This material is too large and too self-contained to patch into Ch09. The right delivery format is a standalone chapter — **Chapter 12: Mercenaries of the Forbidden Lands** — structured as an expansion that plugs into the existing engine without modifying it. Cross-references to Ch08 and Ch09 remain in the text as links, not as edits to those chapters.
 
-| #   | CHANGE                                                                                                             | LOCATION                     | DEPENDENCY        |
-| --- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------- | ----------------- |
-| 1   | Band formation + size tiers                                                                                        | Ch09 (new section)           | None              |
-| 2   | Morale system                                                                                                      | Ch09                         | 1                 |
-| 3   | Fighter tiers + recruitment                                                                                        | Ch09                         | 1                 |
-| 4   | Pay model (retainer/mission/loot share), provisions, expanded forager table, field non-payment                     | Ch09                         | 1, 2              |
-| 5   | Village extortion and tribute                                                                                      | Ch09 + Ch08 cross-reference  | 1, 2, 3, 4        |
-| 6   | Finding Work, Allegiance Track, Contracts and Bounties, Kidnapping, Mercenary Hoards                               | Ch09                         | 1                 |
-| 7   | Campaign life (QD activities)                                                                                      | Ch09                         | 1, 2              |
-| 8   | Named Men system                                                                                                   | Ch09                         | 1, 2, 3           |
-| 9   | Wanted status                                                                                                      | Ch09 + Ch08 cross-reference  | 6                 |
-| 10  | Atrocities                                                                                                         | Ch09 + Ch08 cross-reference  | None (standalone) |
-| 11  | Integration section                                                                                                | No text changes — notes only | All above         |
-| 12  | War Room function                                                                                                  | Ch09 functions table         | Independent       |
-| 13  | Serving in Another's Company (Section 12)                                                                          | Ch09 (new optional section)  | Independent       |
-| 14  | Section 6 optionals: Arguments and Escalation, Blood Oaths, Death of a Member — Distribution                       | Ch09                         | 8                 |
-| 15  | Host Play (Section 13): treasury, budgets, dispatch, diplomacy, rivalry, council, ledger, dissolution              | Ch09 (new optional section)  | Independent       |
-| 16  | Contract pricing reform: reference price table, protection season (garrison mode), caster premium                  | Ch09 Section 5               | 4, 6              |
-| 17  | Caster combat and contract utility: casualty reduction (−40%), contract premium (+35%), caster-only contract types | Ch09 Section 7.5             | 8 (section 7.5)   |
+---
 
-Changes 1–7 together form the minimum viable play loop. Without morale and pay pressure, mercenary management is just hirelings with extra paperwork. The atrocity rules (10) are standalone and can be brought in at any time.
+### Why a Standalone Chapter
+
+Patching Ch09 requires cutting Stronghold prose to make room, creates a hybrid chapter that serves two audiences poorly, and obscures the system's scale behind a section number. Mercenary play is a mode of play, not a stronghold function. It deserves a chapter that opens with a vignette, runs through the full loop, and ends with Host-scale optional content — the same structure every major chapter in the corebook uses.
+
+A standalone chapter also means the material can be adopted at any point in a campaign without touching existing chapter structure. The GM enables it by reading it, not by retrofitting a session of play.
+
+---
+
+### Chapter Structure
+
+The chapter follows the same three-register pattern seen in Ch05 (Combat), Ch08 (Journeys), and Ch09 (The Stronghold): fiction opening, rules core, extended examples.
+
+```
+Chapter 12: Mercenaries of the Forbidden Lands
+│
+├── Opening Vignette                   [~600 words, fiction register]
+│   The band forms. The captain makes her first decision about pay.
+│   Introduces the pressure economy without naming it.
+│
+├── What a Band Is                     [~400 words, rules register]
+│   Definition, size tiers, MORALE as the central stat.
+│   Single paragraph: what distinguishes a band from hirelings.
+│
+├── Section 1: Forming the Band        [rules + example]
+├── Section 2: Recruitment             [rules + table]
+├── Section 3: Pay and Provisions      [rules + example]
+├── Section 4: Village Extortion       [rules + table + example]
+├── Section 5: Contracts and Bounties  [rules + table]
+├── Section 6: Campaign Life           [rules + QD activity table]
+├── Section 7: Named Men               [rules + quick-build table]
+├── Section 8: Hired Casters           [rules + quick-build table]
+├── Section 9: Wanted Men              [rules + table]
+├── Section 10: Atrocities             [rules + consequence table]
+│
+├── Extended Example: First Season     [~1200 words, bridge register]
+│   A complete play-through of sections 1–6 as a single
+│   narrative block. The Gristle's band takes one contract,
+│   misses a payment, resolves a Named Man trigger, and
+│   ends the season short one fighter. Shows every primary
+│   mechanic in context.
+│
+├── Optional Systems
+│   ├── Section 11: War Room           [stronghold function]
+│   ├── Section 12: Serving in Another's Company
+│   └── Section 13: Host Play
+│
+└── Cross-References
+    Ch08: Feud Track, Reputation, Wanted status spread
+    Ch09: Stronghold Defense Rating, Guard hirelings, Named Man downtime
+```
+
+---
+
+### Vignette Plan
+
+Each section gets a short vignette opener (150–250 words, fiction register) placed before the rules block. These are not examples — they do not explain the rules. They ground the section in a specific moment that the rules will then describe.
+
+| SECTION                  | VIGNETTE SUBJECT                                                                                           | POV CHARACTER     | STATUS |
+| ------------------------ | ---------------------------------------------------------------------------------------------------------- | ----------------- | ------ |
+| Chapter opening          | The Gristle forms the band; the last man to sign does so because everyone else already has                 | Gristle           | ☐ TODO |
+| Section 1: The Band      | Skalva counts heads at dawn and realizes one man is gone                                                   | Skalva            | ☐ TODO |
+| Section 2: Recruitment   | Gest reads a posting board to a man who cannot read, summarizing three contracts worth considering         | Gest              | ☐ TODO |
+| Section 3: Pay           | Pay day. One man short of what was promised. Nobody speaks first                                           | Gristle           | ☐ TODO |
+| Section 4: Extortion     | The village headman produces what he can. The captain looks at it and says nothing for a moment            | Gristle           | ☐ TODO |
+| Section 5: Contracts     | The contract is signed. The employer spells out one term the captain had not asked about                   | Unnamed employer  | ☐ TODO |
+| Section 6: Campaign Life | Morning before a fight. What each man does with the last Quarter Day                                       | Ensemble          | ☐ TODO |
+| Section 7: Named Men     | Petter earns his name — the moment it happens, before anyone celebrates it                                 | Petter            | ☐ TODO |
+| Section 8: Hired Casters | The druid arrives the morning after the bad camp fight. She does not ask what happened                     | The Hedge Druid   | ☐ TODO |
+| Section 9: Wanted Men    | A gate guard reads a description aloud to the captain and the captain says it sounds like nobody she knows | Gristle           | ☐ TODO |
+| Section 10: Atrocities   | The order is given. One named man does not move. The scene ends before the order is carried out            | Unnamed Named Man | ☐ TODO |
+
+All vignettes follow the writing standards from `WRITING_GUIDE.md` and the fiction-voice reference. POV is tight third-person. No internal explanations. End on a concrete detail, not a conclusion.
+
+---
+
+### Extended Examples Plan
+
+Two extended examples are planned. Each runs as a continuous narrative block in the bridge register — rules are named and applied in sequence, but the voice is prose, not annotation.
+
+**Extended Example 1: First Season (~1,200 words)**
+
+Covers the minimum viable play loop: band formation → recruitment → first contract → pay dispute → Named Man loyalty check → season end. Shows MORALE, the Grievance table, and the non-payment consequence table in sequence.
+
+Characters: Gristle, Skalva, Gest, one unnamed common with a named trigger.
+Outcome: Band survives the season, down one fighter, with a resolved Named Man trigger and a cleared grievance.
+Status: ☐ TODO
+
+**Extended Example 2: Extortion and Its Consequences (~800 words)**
+
+Covers Section 4 + Section 9 in sequence. Band extracts tribute from a village. One member commits an act beyond the contract terms. The atrocity rolls, the reputation consequence, and the first bounty posting are shown step by step.
+
+Characters: Gristle, unnamed line fighter, village headman.
+Outcome: Band carries a regional bounty and a −1 to Standing at the affected settlement for the remainder of the campaign.
+Status: ☐ TODO
+
+---
+
+### TODO and Ticket Tracker
+
+#### Phase 1 — Manuscript Structure ✓ (this proposal)
+
+- [x] All 13 sections drafted
+- [x] Named Men: full stat system with XP-calibrated skills and talents
+- [x] Hired Casters: full tier system with dual-path Master
+- [x] Equipment tables: body armor + head armor + shields
+- [x] Section ordering finalized
+- [x] Appendix ordering finalized
+
+#### Phase 2 — Voice and Vignettes
+
+| ID   | TASK                                                             | SECTION | PRIORITY | STATUS |
+| ---- | ---------------------------------------------------------------- | ------- | -------- | ------ |
+| V-01 | Draft chapter opening vignette (Gristle, band formation)         | Opening | HIGH     | ☐ TODO |
+| V-02 | Draft Section 1 vignette (Skalva, missing man at dawn)           | Sec 1   | HIGH     | ☐ TODO |
+| V-03 | Draft Section 2 vignette (Gest reads the board)                  | Sec 2   | HIGH     | ☐ TODO |
+| V-04 | Draft Section 3 vignette (pay day, silence)                      | Sec 3   | HIGH     | ☐ TODO |
+| V-05 | Draft Section 4 vignette (headman and tribute)                   | Sec 4   | MED      | ☐ TODO |
+| V-06 | Draft Section 5 vignette (contract signing, one unexpected term) | Sec 5   | MED      | ☐ TODO |
+| V-07 | Draft Section 6 vignette (morning before the fight, ensemble)    | Sec 6   | MED      | ☐ TODO |
+| V-08 | Draft Section 7 vignette (Petter earns his name)                 | Sec 7   | HIGH     | ☐ TODO |
+| V-09 | Draft Section 8 vignette (druid arrives after the bad fight)     | Sec 8   | MED      | ☐ TODO |
+| V-10 | Draft Section 9 vignette (gate guard reads the description)      | Sec 9   | MED      | ☐ TODO |
+| V-11 | Draft Section 10 vignette (the order, the man who does not move) | Sec 10  | HIGH     | ☐ TODO |
+
+#### Phase 3 — Extended Examples
+
+| ID   | TASK                                                              | SECTION    | PRIORITY | STATUS |
+| ---- | ----------------------------------------------------------------- | ---------- | -------- | ------ |
+| E-01 | Draft Extended Example 1: First Season (~1200 words)              | Post Sec 6 | HIGH     | ☐ TODO |
+| E-02 | Draft Extended Example 2: Extortion and Consequences (~800 words) | Post Sec 9 | MED      | ☐ TODO |
+
+#### Phase 4 — Rules Audit
+
+| ID   | TASK                                                          | SECTION    | PRIORITY | STATUS |
+| ---- | ------------------------------------------------------------- | ---------- | -------- | ------ |
+| R-01 | Verify all XP calculations: Named Man Veteran (40 XP)         | Sec 7      | HIGH     | ✓ DONE |
+| R-02 | Verify all XP calculations: Named Man Elite (100 XP)          | Sec 7      | HIGH     | ✓ DONE |
+| R-03 | Verify all XP calculations: Caster Initiate (40 XP)           | Sec 8      | HIGH     | ✓ DONE |
+| R-04 | Verify all XP calculations: Caster Adept (100 XP)             | Sec 8      | HIGH     | ✓ DONE |
+| R-05 | Verify all XP calculations: Caster Master (180 XP, dual path) | Sec 8      | HIGH     | ✓ DONE |
+| R-06 | Audit tribute table against world economy anchors             | Sec 4      | HIGH     | ✓ DONE |
+| R-07 | Audit MORALE trigger table for duplicate/conflicting entries  | Sec 1      | MED      | ☐ TODO |
+| R-08 | Cross-check Named Man talent caps against Ch04 talent system  | Sec 7      | MED      | ☐ TODO |
+| R-09 | Verify Head armor options against Ch10 gear table             | Sec 7      | MED      | ✓ DONE |
+| R-10 | Audit loot share tables against contract pay ranges           | Sec 3      | MED      | ☐ TODO |
+| R-11 | Confirm Band Notoriety deferral does not create tracking gap  | Appendix C | LOW      | ☐ TODO |
+
+#### Phase 5 — Integration Passes
+
+| ID   | TASK                                                                   | TARGET     | PRIORITY | STATUS |
+| ---- | ---------------------------------------------------------------------- | ---------- | -------- | ------ |
+| I-01 | Add cross-reference footnotes to Ch08 (Reputation, Feud Track, Wanted) | Ch08       | MED      | ☐ TODO |
+| I-02 | Add cross-reference footnote to Ch09 (Guard/Defense Rating, War Room)  | Ch09       | MED      | ☐ TODO |
+| I-03 | Confirm PATH OF THE COMMANDER integration note is current vs Ch04      | Appendix A | MED      | ☐ TODO |
+| I-04 | Confirm COLD-BLOODED interaction note is current vs Ch04               | Appendix A | LOW      | ☐ TODO |
+
+#### Phase 6 — Final Manuscript Pass
+
+| ID   | TASK                                                                  | SCOPE     | PRIORITY | STATUS |
+| ---- | --------------------------------------------------------------------- | --------- | -------- | ------ |
+| M-01 | Full anti-AI audit (em-dash clusters, rule-of-three, split negatives) | All prose | HIGH     | ☐ TODO |
+| M-02 | Paragraph job audit: every para has a named function                  | All prose | HIGH     | ☐ TODO |
+| M-03 | End-weight check: sentences land on concrete nouns or hard verbs      | All prose | MED      | ☐ TODO |
+| M-04 | Vignette register check: no rules leaked into fiction sections        | Vignettes | HIGH     | ☐ TODO |
+| M-05 | Example register check: bridge voice, not annotation                  | Examples  | MED      | ☐ TODO |
+
+---
+
+### Dependencies
+
+The chapter can be built in phases without blocking publication of earlier chapters.
+
+- **Phase 1 complete.** All rules sections are drafted. The chapter is playable in current form.
+- **Phase 2 (vignettes) and Phase 3 (examples) are independent of each other** and can be drafted in any order.
+- **Phase 4 (rules audit)** should run before Phase 6 (final pass).
+- **Phase 5 (integration)** is last — footnotes only, no structural changes to other chapters.
+
+Minimum shipped state: Phase 1 + Phase 4. A chapter without vignettes is a dry rules document. A chapter with vignettes and one extended example is a book.
 
 ---
 
