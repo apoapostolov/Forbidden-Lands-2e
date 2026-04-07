@@ -1162,7 +1162,7 @@ Built around one captain who holds the company by force of threat and selective 
 
 - **Recruitment:** Tyrant captains prefer men who are already broken to something. Criminals, former convicts, men with debts or prices on their heads, men who have no settlement to return to. The initiation is a test of submission: new men are given the worst tasks, subjected to directed cruelty from the senior members, and watched to see if they break, run, or go quiet and adapt. Men who go quiet and adapt are the ones the captain wants. Men who fight back are allowed to stay only if they fight well enough to be worth the trouble — and only if the captain can hurt them in a way that settles the question of who is in charge. A criminal background is not required but is treated as a qualification: a man with a past is a man who cannot afford to leave.
 - **Strengths:** May use INTIMIDATION in place of MANIPULATION on all internal discipline and MORALE checks (see Tyrant Punishments above). Common fighters do not check morale in the first round of any engagement — fear of the captain outweighs fear of the enemy.
-- **Weakness:** The band is Fear-Held (see Tyrant Companies, Section 6). Named Men Loyalty can drop to 0. When the captain is absent, removed, or visibly weakened, MORALE drops by 1 immediately and all Named Men re-evaluate their position.
+- **Weakness:** The band is **Fear-Held** by default (see Tyrant Companies, Section 6). Named Men Loyalty can drop to 0. When the captain is absent, removed, or visibly weakened, MORALE drops by 1 immediately and all Named Men re-evaluate their position.
 - **Typical Named Men personality:** Calculating, Paranoid Competent, Grudge-Holding.
 - **Breaks when:** The captain loses once — badly, visibly, in front of men who have been storing the calculation for months.
 
@@ -1206,11 +1206,11 @@ This applies even if the band has changed hands. The men are gone regardless of 
 
 ### Fighter Tiers
 
-| TIER    | SALARY/DAY | SUPPLY   | STATS                                      | NOTES                                                                           |
-| ------- | ---------- | -------- | ------------------------------------------ | ------------------------------------------------------------------------------- |
-| Common  | 1 silver   | Common   | STR 3, AGL 3, MELEE 1, Armor 3 (leather)   | Standard soldier. The existing GUARD hireling.                                  |
-| Veteran | 2 silver   | Uncommon | STR 4, AGL 3, MELEE 2, Armor 4 (chainmail) | Has seen blood and did not run. Requires TRAINING GROUNDS to hire.              |
-| Elite   | 3 silver   | Rare     | STR 5, AGL 4, MELEE 3, Armor 5 (plate)     | A named fighter in their own right. Requires TRAINING GROUNDS + SHOOTING RANGE. |
+| TIER    | SALARY/DAY | SUPPLY   | STATS                                                     | NOTES                                                                           |
+| ------- | ---------- | -------- | --------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| Common  | 1 silver   | Common   | STR 3, AGL 3, MELEE 1, Armor 3 (leather)                  | Standard soldier. The existing GUARD hireling.                                  |
+| Veteran | 2 silver   | Uncommon | STR 4, AGL 3, MELEE 2, MARKMANSHIP 1, Armor 4 (chainmail) | Has seen blood and did not run. Requires TRAINING GROUNDS to hire.              |
+| Elite   | 3 silver   | Rare     | STR 5, AGL 4, MELEE 3, MARKMANSHIP 2, Armor 5 (plate)     | A named fighter in their own right. Requires TRAINING GROUNDS + SHOOTING RANGE. |
 
 A band need not be uniform. A warband of 10 might include 6 Commons, 3 Veterans, and 1 Elite who serves as the sergeant.
 
@@ -1243,9 +1243,7 @@ When hired for field work away from the stronghold, fighters expect advance pay 
 
 ### Pay Model
 
-The band eats. Budget 1 FOOD unit per man per day. That cost runs every day regardless of whether the band has work.
-
-Wages do not. Pay has two rates and three modes.
+The band eats 1 FOOD unit per man per day. That cost runs every day regardless of whether the band has work. Pay has two rates:
 
 **Retainer** is what men earn when there is no work — traveling between contracts, waiting in camp, sitting inside a town while the captain looks for the next job. It is a weekly sum, paid for the full week regardless of how many days the band actually idled. Retainer is not prorated. A man committed to the band for five days of the week is owed the full week's coin.
 
@@ -1274,6 +1272,26 @@ Leaders define that boundary. Call the work started too early and the treasury b
 If a contract is breached or abandoned, mission pay ceases on the breach date and the band reverts to retainer.
 
 ---
+
+#### Windfall Events
+
+Most contracts pay the agreed fee and nothing else. When the band clears a structure, kills a named threat, or takes a strongpoint, the GM rolls D6. On a 5–6, something was left behind that the contract price did not anticipate.
+
+Roll D6 on the windfall table when:
+
+- A fortified structure is cleared, and at least one room was not obviously empty before the fight
+- A named enemy is killed (not a common bandit; a warlord, lieutenant, or faction leader)
+- The band discovers a cache or stores that the mission description did not list
+
+| D6  | WINDFALL                                                                                                                                                                                                                             |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1–2 | Nothing. The place was already stripped. Whatever was here left before you arrived.                                                                                                                                                  |
+| 3   | Useful goods — equipment, tools, stores. Value: 15–40 silver equivalent. Add to goods inventory; not immediately liquid.                                                                                                             |
+| 4   | A war chest or merchant reserve in coin. Value: 50–120 silver. Liquid. Distribute loot shares immediately.                                                                                                                           |
+| 5   | A captive of value — a minor lord's relation, a merchant's factor, a warlord's subordinate worth ransoming. See Ransom below.                                                                                                        |
+| 6   | Something extraordinary: an object of significant value, a debt letter claiming real assets, intelligence worth selling, or an item from Ch10's rare tier. GM determines value (80–250 silver equivalent); negotiate as appropriate. |
+
+Windfall events are rare. A band running three or four contracts a month on average might see one every few weeks. When it happens it covers wages. Players will remember the moments. Do not inflate the frequency to soften the model.
 
 #### Loot Share (Combat Outcomes)
 
@@ -1305,26 +1323,6 @@ Within each tier, divide that tier's share equally among all men in it. 1 Named 
 **If the treasury cannot pay loot shares:** MORALE −1. The captain who pocketed his cut when the men got nothing has a problem that does not resolve without coin or a credible explanation.
 
 Tribute extracted from a settlement counts as a loot event. The captain who takes tribute without distributing shares faces two problems at once: the settlement's consequences, and his own men asking where their cut went.
-
-#### Windfall Events
-
-Most contracts pay the agreed fee and nothing else. When the band clears a structure, kills a named threat, or takes a strongpoint, the GM rolls D6. On a 5–6, something was left behind that the contract price did not anticipate.
-
-Roll D6 on the windfall table when:
-
-- A fortified structure is cleared, and at least one room was not obviously empty before the fight
-- A named enemy is killed (not a common bandit; a warlord, lieutenant, or faction leader)
-- The band discovers a cache or stores that the mission description did not list
-
-| D6  | WINDFALL                                                                                                                                                                                                                             |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1–2 | Nothing. The place was already stripped. Whatever was here left before you arrived.                                                                                                                                                  |
-| 3   | Useful goods — equipment, tools, stores. Value: 15–40 silver equivalent. Add to goods inventory; not immediately liquid.                                                                                                             |
-| 4   | A war chest or merchant reserve in coin. Value: 50–120 silver. Liquid. Distribute loot shares immediately.                                                                                                                           |
-| 5   | A captive of value — a minor lord's relation, a merchant's factor, a warlord's subordinate worth ransoming. See Ransom below.                                                                                                        |
-| 6   | Something extraordinary: an object of significant value, a debt letter claiming real assets, intelligence worth selling, or an item from Ch10's rare tier. GM determines value (80–250 silver equivalent); negotiate as appropriate. |
-
-Windfall events are rare. A band running three or four contracts a month on average might see one every few weeks. When it happens it covers wages. Players will remember the moments. Do not inflate the frequency to soften the model.
 
 #### Ransom
 
@@ -1389,7 +1387,7 @@ Wages and food are the visible costs. Two others run beneath them and accumulate
 
 A season with no engagements requires no maintenance. A season with seven or more engagements requires double the standard cost.
 
-**Injury treatment.** Field injuries beyond what natural rest recovers require material care: HERBS for wounds, time with a healer for critical injuries. Track separately from provisions. Budget approximately **2–5 silver per critical injury sustained** in healer fees or herb consumption if the band does not carry a dedicated healer. A band in heavy rotation that sustains two or three critical injuries a season should expect 6–15 silver in treatment costs on top of wages and provisions. This is not optional: untreated critical injuries carry permanent consequences per Ch06.
+**Injury treatment.** Field injuries beyond what natural rest recovers require material care: HERBS for wounds, time with a healer for critical injuries. Track separately from provisions. Budget approximately **2–5 silver per critical injury sustained** in healer fees or herb consumption if the band does not carry a dedicated healer. A band in heavy rotation that sustains two or three critical injuries a season should expect 6–15 silver in treatment costs on top of wages and provisions. This is not optional: untreated critical injuries carry permanent consequences, listed in Chapter 6 - Critical Injuries.
 
 **Payment thresholds:** Retainer is due weekly. At 14 days without payment, roll on this table. Mission pay is due daily during an active contract — if three consecutive days pass unpaid while the band is working, roll on this table at **+1 difficulty**. Men in the field are doing the work. Their patience is shorter than it is on retainer.
 
@@ -1426,13 +1424,13 @@ This system connects directly to Settlement Standing, the Feud Track (Ch08), and
 
 Before demanding anything, compare the band's effective fighting strength to the settlement's available fighters — its guards, hunters, and able-bodied men who will stand — not its full population. Use these rough brackets:
 
-| SETTLEMENT SIZE        | APPROXIMATE FIGHTERS AVAILABLE | NOTES                                                                                                                                                                                                                 |
-| ---------------------- | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Hamlet (1-10 people)   | 1–3                            | Almost no armed capacity. Will yield or flee.                                                                                                                                                                         |
-| Village (11-40)        | 2–6                            | A few hunters and one tough elder.                                                                                                                                                                                    |
-| Large village (41-100) | 5–12                           | Organized resistance possible.                                                                                                                                                                                        |
-| Town (101-300)         | 10–30                          | A warchief or headman with force behind him. A Warband cannot hold 2:1 here — a full Company of 40+ is the minimum. Towns are rare in the Ravenlands; most bands will never have the numbers to threaten one cleanly. |
-| Fortified town         | 20–60+                         | As a stronghold. They will fight, and they have walls.                                                                                                                                                                |
+| SETTLEMENT SIZE                 | APPROXIMATE FIGHTERS AVAILABLE | NOTES                                                                                                                                                                                                                 |
+| ------------------------------- | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Hamlet, Farmstead (1-10 people) | 1–3                            | Almost no armed capacity. Will yield or flee.                                                                                                                                                                         |
+| Village (11-40)                 | 2–6                            | A few hunters and one tough elder.                                                                                                                                                                                    |
+| Large village (41-100)          | 5–12                           | Organized resistance possible.                                                                                                                                                                                        |
+| Town (101-300)                  | 10–30                          | A warchief or headman with force behind him. A Warband cannot hold 2:1 here — a full Company of 40+ is the minimum. Towns are rare in the Ravenlands; most bands will never have the numbers to threaten one cleanly. |
+| Fortified town                  | 20–60+                         | As a stronghold. They will fight, and they have walls.                                                                                                                                                                |
 
 **Clearly larger** means the band's fighting men number at least twice the settlement's available fighters — a 2:1 advantage. Against an unfortified settlement at that ratio the arithmetic is plain to everyone: resistance costs more than the tribute. Below 2:1, the settlement may calculate that fighting is worth it. Village men who watch their elder hand over the harvest without any blood drawn have a long memory and a short limit.
 
@@ -1452,7 +1450,7 @@ The band arrives at a settlement and makes a demand. The leader chooses whether 
 
 **Pushing an INTIMIDATION roll** carries additional risk: if the push still fails, the band must either attack (Pillaging) or retreat with Standing -2 and Feud Track +1. The bluff has been called and everyone in the settlement saw it.
 
-Settlements that reach Feud Track 3 or 4 after INTIMIDATION tribute post better-paid bounties. The band is feared rather than merely resented, which makes killing or capturing its leaders worth more to rivals and warchiefs looking for reputation. Treat any bounty posted against an INTIMIDATION-tribute band as worth +50% over the standard rate.
+Settlements that reach Feud Track 3 or 4 after INTIMIDATION tribute post better-paid bounties. The band is feared rather than merely resented, which makes killing or capturing its leaders worth more to rivals and warchiefs looking for reputation. Treat any bounty posted against an INTIMIDATION-tribute band as worth +20% over the standard rate.
 
 | SITUATION                                            | DIFFICULTY                                                          |
 | ---------------------------------------------------- | ------------------------------------------------------------------- |
@@ -1465,14 +1463,14 @@ Settlements that reach Feud Track 3 or 4 after INTIMIDATION tribute post better-
 
 On a success, roll or choose from the **Tribute Table** based on settlement size:
 
-| D6  | HAMLET             | VILLAGE                | LARGE VILLAGE                                   | TOWN                                    |
-| --- | ------------------ | ---------------------- | ----------------------------------------------- | --------------------------------------- |
-| 1   | 2D6 FOOD           | 1D6 silver             | 3D6 silver                                      | 5D6 silver                              |
-| 2   | 1D3 FOOD, 1 silver | 2D6 FOOD               | 1D6 silver + 5D6 FOOD                           | 3D6 silver + 2D6 FOOD                   |
-| 3   | 1D3 silver         | 3D6 FOOD               | 2D6 silver + tools/gear                         | 4D6 silver + quality gear               |
-| 4   | 1 pelt or hide     | 1D3 silver + 1D6 FOOD  | 4D6 FOOD + animals                              | 3D6 silver + animals                    |
-| 5   | 1D6 FOOD + 1 tool  | 1D3 silver + equipment | 2D6 silver + a Named Man surrendered            | A Named Man surrendered + 2D6 silver    |
-| 6   | Work (1 QD labor)  | Animals (livestock)    | A week of hosted supply (food, lodging, fodder) | Two weeks of hosted supply + 2D6 silver |
+| D6  | HAMLET                | VILLAGE                  | LARGE VILLAGE                                                | TOWN                                      |
+| --- | --------------------- | ------------------------ | ------------------------------------------------------------ | ----------------------------------------- |
+| 1   | 3D6 FOOD              | 3D6+4 silver             | 3D6+10 silver                                                | 4D6+20 silver                             |
+| 2   | 1D6 FOOD + 1D3 silver | 3D6 FOOD                 | 2D6+5 silver + 5D6 FOOD                                      | 3D6+12 silver + 2D6 FOOD                  |
+| 3   | 1D6+2 silver          | 4D6 FOOD                 | 3D6+4 silver + tools/gear                                    | 3D6+14 silver + quality gear              |
+| 4   | 1D3 pelts or hides    | 2D6+2 silver + 1D6 FOOD  | 5D6 FOOD + animals                                           | 3D6+10 silver + animals                   |
+| 5   | 2D6 FOOD + 1 tool     | 2D6+2 silver + equipment | 3D6+4 silver + a Named Man surrendered                       | A Named Man surrendered + 3D6+8 silver    |
+| 6   | Work (1 QD labor)     | Animals (livestock)      | A week of hosted supply (food, lodging, fodder) + 2D6 silver | Two weeks of hosted supply + 3D6+8 silver |
 
 **Named Man surrendered:** The settlement hands over its most capable fighter — a hunter-warrior, a returned soldier, a young man the elder would rather lose now than watch die in a fight the village cannot win. This person joins the band's roster at Veteran tier. If the elder convinced them it was better than the alternative, they start at loyalty 3 and will do the work. If handed over against their will, loyalty starts at 1 — they came because the elder sold them, and they will desert or inform against the band at the first credible opportunity unless the leader wins them over personally. Either way, the settlement loses that fighter permanently. The village is now weaker than it was when the band arrived.
 
@@ -1765,7 +1763,7 @@ Protection season is not a profit contract. It is a holding arrangement.
 >
 > This is what adventurers are for, economically speaking. They are the people who fill the gap the market cannot. A party of four with no payroll, no retainer obligation, no starving men behind them — they can take a job a warband would refuse, accept a payment a warband would never agree to, and walk away from an outcome a warband would not survive. The village cannot pay? Adventurers have walked in for less. The treasure recovered is uncertain? Adventurers will take that risk in a way that no captain with nine men to feed ever can. And when the silver turns out to be a handful of copper and a written promise, the village elder has a chance of still being alive in the morning. The same conversation with a mercenary ends differently.
 >
-> The Ravenlands needs both. Warbands hold roads, break sieges, and enforce the agreements that hold together whatever commerce still exists. Adventurers go where no warband can go for wages any sane captain would accept. The distinction matters. A hired sword who cuts his pay gets someone killed. An adventurer who cuts their cut just goes home poorer. The world runs on the difference.
+> The Ravenlands needs both. Warbands hold roads, break sieges, and enforce the agreements that hold together whatever commerce still exists. Adventurers go where no warband can go for wages any sane captain would refuse. The distinction matters. A hired sword who cuts his pay gets someone killed. An adventurer who cuts their cut just goes home poorer. The world runs on the difference.
 
 ---
 
@@ -1976,36 +1974,36 @@ On arriving at an old hoard site not touched in a year, roll D6: on a 1, somethi
 
 **Multiple caches:** Experienced captains split reserves across two or three hides in different hexes. No single capture or betrayal empties the full reserve. Record each location separately. Some captains forget one. Some captains leave one behind deliberately when they leave a region permanently. Those are the ones hunters find.
 
-> **Finding a Dead Band's Hoard**
->
-> Old bands leave things behind. A company broken by plague, ambushed and scattered, dissolved after a bad winter — the captain buried the surplus before things went wrong, or sometimes after. The captain died. The sergeant who knew the location died a week later. The hoard sits.
->
-> Word reaches the fellowship by several routes: a survivor who knows the hex but not the exact spot, a partial map taken from a dead man's boot, a captive who mentions it under pressure, an old letter in a ruined stronghold. The information is always incomplete. The hoard is always real.
->
-> **Without a marker:**
->
-> The seeker must know the exact hex. Hearsay, a rough description, or a map fragment that names the hex but nothing else does not narrow it further. From there, finding the hoard is a grinding search.
->
-> - The seeker must make a number of _consecutive_ successful SCOUTING rolls equal to the hoard's level, each at that level's difficulty.
-> - Each attempt takes one full Quarter Day.
-> - A failure ends the run. The count resets to zero.
->
-> Without a marker, this is deliberately near-impossible. It is not meant to be a routine search — a seeker without the exact location is guessing against ground that could hold a cache anywhere in the hex.
->
-> **With a marker (hex and terrain feature):**
->
-> The marker names the hex and a specific terrain feature — the hollow in the root of the old oak at the stream bend, the flat stone three paces north of the charcoal circle, the river fork where the tall boulder leans left. With the marker in hand, the seeker knows exactly what they are looking for and where.
->
-> - One SCOUTING roll. A base success (any success, no difficulty requirement) locates the hoard.
-> - Each attempt takes one full Quarter Day.
->
-> **If the marker's landmark has changed** — the tree was struck by lightning, the boulder was quarried away, the streambed shifted after a flood — the marker no longer leads directly to the cache. The seeker must search as if they had partial information. Make one SCOUTING roll at the hoard's full difficulty. This is not the grinding multi-roll blind search, but one hard roll, answered in a Quarter Day.
->
-> The GM determines whether the landmark is intact, damaged (ruins of the tree still visible, boulder tilted but present — marker still functions), or gone (marker fails, one difficulty roll applies).
->
-> The band that finds the hoard owns it. There is no inheritance in the Ravenlands.
->
-> What a dead band's hoard contains is up to the GM. Some captains buried coin and weapons. Some buried things they wanted no one to trace back to them — goods that explain a massacre, documents that implicate a warchief, a bound and preserved head. Sometimes the hoard explains why the band died. A locked strongbox at the bottom of a cache tells a story if someone takes the time to open it.
+**Finding a Dead Band's Hoard**
+
+Old bands leave things behind. A company broken by plague, ambushed and scattered, dissolved after a bad winter — the captain buried the surplus before things went wrong, or sometimes after. The captain died. The sergeant who knew the location died a week later. The hoard sits.
+
+Word reaches the fellowship by several routes: a survivor who knows the hex but not the exact spot, a partial map taken from a dead man's boot, a captive who mentions it under pressure, an old letter in a ruined stronghold. The information is always incomplete. The hoard is always real.
+
+**Without a marker:**
+
+The seeker must know the exact hex. Hearsay, a rough description, or a map fragment that names the hex but nothing else does not narrow it further. From there, finding the hoard is a grinding search.
+
+- The seeker must make a number of _consecutive_ successful SCOUTING rolls equal to the hoard's level, each at that level's difficulty.
+- Each attempt takes one full Quarter Day.
+- A failure ends the run. The count resets to zero.
+
+Without a marker, this is deliberately near-impossible. It is not meant to be a routine search — a seeker without the exact location is guessing against ground that could hold a cache anywhere in the hex.
+
+**With a marker (hex and terrain feature):**
+
+The marker names the hex and a specific terrain feature — the hollow in the root of the old oak at the stream bend, the flat stone three paces north of the charcoal circle, the river fork where the tall boulder leans left. With the marker in hand, the seeker knows exactly what they are looking for and where.
+
+- One SCOUTING roll. A base success (any success, no difficulty requirement) locates the hoard.
+- Each attempt takes one full Quarter Day.
+
+**If the marker's landmark has changed** — the tree was struck by lightning, the boulder was quarried away, the streambed shifted after a flood — the marker no longer leads directly to the cache. The seeker must search as if they had partial information. Make one SCOUTING roll at the hoard's full difficulty. This is not the grinding multi-roll blind search, but one hard roll, answered in a Quarter Day.
+
+The GM determines whether the landmark is intact, damaged (ruins of the tree still visible, boulder tilted but present — marker still functions), or gone (marker fails, one difficulty roll applies).
+
+The band that finds the hoard owns it. There is no inheritance in the Ravenlands.
+
+What a dead band's hoard contains is up to the GM. Some captains buried coin and weapons. Some buried things they wanted no one to trace back to them — goods that explain a massacre, documents that implicate a warchief, a bound and preserved head. Sometimes the hoard explains why the band died. A locked strongbox at the bottom of a cache tells a story if someone takes the time to open it.
 
 ---
 
@@ -2015,14 +2013,14 @@ On arriving at an old hoard site not touched in a year, roll D6: on a 1, somethi
 
 The band uses the fellowship's Quarter Day structure. Each Quarter Day, the leader must account for:
 
-- **March** — movement through the hex. Standard travel rules.
+- **MARCH** — movement through the hex. Standard travel rules.
 - **HUNT/FORAGE** — assign foragers to reduce food cost.
 - **MAKE CAMP** — one Quarter Day per day required for a proper camp with a perimeter.
 - **DRILL** — see below.
 - **PATROL** — satisfies patrol contract terms for the day.
 - **REST** — the band can rest one Quarter Day while encamped.
 
-A _Skirmisher_ band (3-6 men) needs no dedicated logistics Quarter Day. A _Warband_ (7-20 men) needs one Quarter Day of logistics per day — provisioning, equipment maintenance, camp discipline. A _Company_ (21-50 men) needs two Quarter Days of logistics unless a STEWARD or a senior sergeant handles them; the PC-facing requirement drops to one check per day.
+A _Skirmisher_ band (3-6 men) needs no dedicated logistics Quarter Day. A _Warband_ (7-20 men) needs one Quarter Day of logistics per day — provisioning, equipment maintenance, camp discipline. A _Company_ (21-50 men) needs two Quarter Days of logistics unless a STEWARD or a senior sergeant handles them, then it drops to one check per day.
 
 ### DRILL
 
@@ -2342,13 +2340,13 @@ Each tier provides a base attribute array. Pick the role that fits the character
 
 **ELITE** (D6: 1–2 Line, 3–4 Skirmisher, 5–6 Brute)
 
-| ROLE       | STR | AGL | WIT | EMP | NOTES                                     |
-| ---------- | --- | --- | --- | --- | ----------------------------------------- |
-| Line       | 5   | 3   | 3   | 3   | Tested veteran. Reads a fight quickly.    |
-| Skirmisher | 4   | 5   | 3   | 2   | Dangerous alone. Hard to corner.          |
-| Brute      | 6   | 3   | 3   | 2   | Uncommonly powerful. Other men give room. |
+| ROLE       | STR | AGL | WIT | EMP | NOTES                                                             |
+| ---------- | --- | --- | --- | --- | ----------------------------------------------------------------- |
+| Line       | 5   | 3   | 3   | 3   | Tested veteran. Reads a fight quickly.                            |
+| Skirmisher | 4   | 5   | 3   | 2   | Dangerous alone. Hard to corner.                                  |
+| Brute      | 6   | 3   | 3   | 2   | Typically of Dwarf kin. Uncommonly powerful. Other men give room. |
 
-WIT and EMP matter. Named Men can be manipulated, persuaded, rattled by FEAR attacks, and may recover from WITS damage in ways anonymous soldiers cannot. Use these stats whenever a Named Man is directly confronted, interrogated, or targeted by social pressure.
+Wit and Empathy matter among Named Men. Named Men can be manipulated, persuaded, rattled by FEAR attacks, and may recover from WITS damage in ways anonymous soldiers cannot. Use these stats whenever a Named Man is directly confronted, interrogated, or targeted by social pressure.
 
 ### Skills
 
@@ -2374,8 +2372,10 @@ All Named Men begin with their tier's MELEE. Then choose additional skills from 
 
 **How many additional skills:**
 
-- Veteran: choose 2 from pool, each at skill level 1
-- Elite: choose 3 from pool; may raise one to skill level 2
+Named Men are not day-hired spears. A man worth naming has fought seasons, not weeks. Their skill spread reflects that history.
+
+- Veteran: choose 4 from pool; at least 2 at rank 2; the rest at rank 1 or 2.
+- Elite: choose 6 from pool; at least 4 at rank 2 or higher; at least 1 at rank 3.
 
 **Role guidance:** A Skirmisher who carries a ranged weapon must take MARKSMANSHIP from the pool — a high AGL score does not substitute for the skill when using bows or crossbows. Without MARKSMANSHIP, the Named Man can only make base attribute rolls for ranged attacks, which is insufficient at Veteran tier and unacceptable at Elite. A Skirmisher without MARKSMANSHIP is a scout or flanker, not a shooter; adjust their equipment accordingly.
 
@@ -2383,8 +2383,8 @@ All Named Men begin with their tier's MELEE. Then choose additional skills from 
 
 Named Men carry only general talents. They do not have profession paths or kin paths unless the GM has a specific reason. Assign from the **Mercenary Talent Pool** below.
 
-- Veteran: 1 talent, rank 1–2
-- Elite: 2 talents, rank 1–3 each
+- Veteran: 2 talents, rank 1–2 each
+- Elite: 4 talents, rank 1–3 each
 
 **Mercenary Talent Pool**
 
@@ -2452,16 +2452,16 @@ Non-player Named Men recover **1 WILLPOWER per day** of downtime. If a Named Man
 
 Equipment determines a Named Man's fighting reach and silhouette in play. It follows from role.
 
-| TIER    | ROLE       | PRIMARY WEAPON                   | SECONDARY       | ARMOR                     |
-| ------- | ---------- | -------------------------------- | --------------- | ------------------------- |
-| Veteran | Line       | Sword or spear + shield          | Knife           | Chainmail (Armor 4)       |
-| Veteran | Skirmisher | Short bow or crossbow            | Short sword     | Leather (Armor 3)         |
-| Veteran | Brute      | Two-handed axe or heavy club     | —               | Chainmail (Armor 4)       |
-| Elite   | Line       | Sword + shield, or war axe       | Knife, dagger   | Chainmail (Armor 4)       |
-| Elite   | Skirmisher | Crossbow + short sword and knife | Throwing knives | Leather or light mail (3) |
-| Elite   | Brute      | Great sword, great axe, or maul  | Short sword     | Chainmail (Armor 4)       |
+| TIER    | ROLE       | PRIMARY WEAPON                   | SECONDARY       | ARMOR (BODY)                         | HEAD                               |
+| ------- | ---------- | -------------------------------- | --------------- | ------------------------------------ | ---------------------------------- |
+| Veteran | Line       | Sword or spear + shield          | Knife           | Chainmail (4)                        | Open Helmet or Mail Coif           |
+| Veteran | Skirmisher | Short bow or crossbow            | Short sword     | Studded Leather (3) or Chainmail (4) | Studded Leather Cap or Open Helmet |
+| Veteran | Brute      | Two-handed axe or heavy club     | —               | Chainmail (4)                        | Open Helmet or Mail Coif           |
+| Elite   | Line       | Sword + shield, or war axe       | Knife, dagger   | Chainmail (4) or Half-plate (5)      | Closed Helmet or Mail Coif         |
+| Elite   | Skirmisher | Crossbow + short sword and knife | Throwing knives | Studded Leather (3) or Chainmail (4) | Open Helmet                        |
+| Elite   | Brute      | Great sword, great axe, or maul  | Short sword     | Chainmail (4) to Plate (6)           | Closed Helmet or Great Helm        |
 
-An Elite in a leadership role (Sergeant) may wear plate if the band is prosperous (Armor 5). This is a mark of achievement — the men will note it.
+Named Men know that armor is survival. A man who has lasted three seasons will have traded coin for better iron and will not go into a fight bare-headed. Veterans are expected to carry at minimum an open helmet alongside their body armor. Elites with the coin and access upgrade: a Named Man who steps forward in half-plate is noticed, and one in full plate is remembered. The GM may limit the heaviest armor by band prosperity or supply, but the Names Men's default inclination is always upward.
 
 ### Sergeant
 
@@ -2485,8 +2485,8 @@ These are ready-to-play Named Men for GMs who do not want to build from scratch.
 
 **THE LINE MAN** _(Veteran, Loyalty 2)_
 STR 4, AGL 3, WIT 3, EMP 2
-Skills: MELEE 2, ENDURANCE 1, SURVIVAL 1
-Talent: PAIN RESISTANT rank 1
+Skills: MELEE 2, ENDURANCE 2, SURVIVAL 2, MIGHT 1, SCOUTING 1
+Talents: PAIN RESISTANT rank 2, COMBAT EXPERIENCED rank 1
 Armor: Chainmail (4) | Weapon: Sword + shield
 Trigger: Left behind when wounded
 Agenda: Enough coin for a small house somewhere quiet
@@ -2496,8 +2496,8 @@ _Appearance: Short, broad, no expression left. Has stopped explaining himself._
 
 **THE SKIRMISHER** _(Veteran, Loyalty 2)_
 STR 3, AGL 4, WIT 3, EMP 2
-Skills: MELEE 2, MARKSMANSHIP 1, STEALTH 1
-Talent: KNIFE FIGHTER rank 1
+Skills: MELEE 2, MARKSMANSHIP 2, STEALTH 2, MOVE 1, SCOUTING 1
+Talents: KNIFE FIGHTER rank 2, FAST SHOOTER rank 1
 Armor: Leather (3) | Weapon: Crossbow + short sword
 Trigger: Ordered to harm civilians
 Agenda: A private enemy they want dead — they'll do it themselves if the band gets close
@@ -2507,8 +2507,8 @@ _Appearance: Moves quietly. Always has a second knife no one sees until they nee
 
 **THE BRUTE** _(Veteran, Loyalty 1)_
 STR 5, AGL 3, WIT 2, EMP 2
-Skills: MELEE 2, MIGHT 1, ENDURANCE 1
-Talent: BERSERKER rank 1
+Skills: MELEE 2, MIGHT 2, ENDURANCE 2, SURVIVAL 1, MOVE 1
+Talents: BERSERKER rank 1, PAIN RESISTANT rank 2
 Armor: Chainmail (4) | Weapon: Great axe
 Trigger: Consistently spoken of as ignorant or beneath notice
 Agenda: To build a name worthy of being remembered
@@ -2518,8 +2518,8 @@ _Appearance: Large. Wears an old scar across the chin like it won an argument. U
 
 **THE SERGEANT** _(Elite, Loyalty 3)_
 STR 5, AGL 3, WIT 3, EMP 3
-Skills: MELEE 3, MANIPULATION 1, INSIGHT 1, ENDURANCE 1
-Talents: FEARLESS rank 2, LEADER rank 1
+Skills: MELEE 3, MANIPULATION 2, INSIGHT 2, ENDURANCE 3, SCOUTING 2, MIGHT 1, SURVIVAL 1
+Talents: FEARLESS rank 2, LEADER rank 1, PAIN RESISTANT rank 2, COMBAT EXPERIENCED rank 1
 Armor: Chainmail (4) | Weapon: War axe + shield
 Trigger: Not elevated in rank when clearly more capable
 Agenda: Respect — not coin, not land, but to be seen as the kind of man others follow
@@ -2696,7 +2696,7 @@ An Adept has a built reputation within their discipline. They have cast at rank 
 
 Daily rate: **25+ silver** (minimum; many will not answer to coin alone).
 
-Disciplines: 2 disciplines at spell rank **up to rank 3** each. One discipline may reach **rank 4** at the GM's discretion — this reflects exceptional ability and should be treated as rare even among Masters.
+Disciplines: 2 disciplines. The first is their **primary discipline** — the one they learned first, practiced longest, and cast from by instinct. The second is a **synergistic secondary** — a complementary school that extends or supports the primary without replacing it. A Healing Master who studies Awareness uses Farsight and Sense Magic to locate the injured before casting on them. A Symbolism Master who studies Awareness has tools for both cursework and intelligence gathering. The secondary is always rank 2 at minimum; it may reach rank 3 if the GM agrees the build supports it. Spell rank limits still apply. One discipline may reach **rank 4** at the GM's discretion — this reflects exceptional ability and should be treated as rare even among Masters.
 
 Ranks 4 and 5 belong to the domain of player characters, significant NPCs, and named villains. A Master caster with rank 4 access is approaching that threshold. When one appears in a band, the GM should know why they are there and what they are waiting for. They are not simply expensive support.
 
@@ -2727,7 +2727,11 @@ General Spells follow the primary discipline skill. A caster with two discipline
 | MANIPULATION | EMP       | Social leverage; relevant at Adept and above |
 | HEALING      | EMP       | Field medicine independent of spells         |
 
-Additional skills per tier, drawn from pool: Initiate — 1 at level 1. Adept — 2; may raise one to level 2. Master — 2 at level 2.
+A caster worth hiring has practiced their craft through years of use, not months. Their skill spread reflects that.
+
+- **Initiate:** choose 3 from pool; at least 2 at rank 2. Roughly equivalent to 40 XP of advancement above a freshly created character.
+- **Adept:** choose 5 from pool; at least 3 at rank 2, at least 1 at rank 3. Roughly equivalent to 100 XP of advancement above a freshly created character.
+- **Master:** choose 8 from pool; at least 6 at rank 3, the rest at rank 2. Roughly equivalent to 180 XP of advancement above a freshly created character, accounting for dual-path talent investment.
 
 ### Disciplines and Spell Rank
 
@@ -2753,7 +2757,7 @@ Willpower is not stamina, but the limit of how much magical work the caster can 
 | -------- | ----------- | ------------------- |
 | Initiate | 2           | 1 per full day rest |
 | Adept    | 3           | 1 per full day rest |
-| Master   | 4           | 1 per full day rest |
+| Master   | 5           | 1 per full day rest |
 
 State WP totals openly at the table. A caster who began the morning engagement with 3 WP and spent 2 has 1 remaining. The afternoon approach cannot use them at full capacity. The captain who does not track this will be surprised when the caster cannot cast.
 
@@ -2802,7 +2806,7 @@ These contracts exist because the work itself requires magic. They cannot be neg
 
 **THE HEDGE DRUID** _(Initiate — Healing discipline, Loyalty 2)_
 STR 2, AGL 2, WIT 4, EMP 3 | WP: 2
-Skills: HEALING 2, SURVIVAL 1
+Skills: HEALING 2, SURVIVAL 2, LORE 2, SCOUTING 1
 Path: PATH OF HEALING rank 2 | General Spells rank 1
 Spells: **Healing Hands**, **Nature's Cure**, **Preserve**, **Mend Wounds**
 Armor: none | Weapon: Staff
@@ -2814,7 +2818,7 @@ _Appearance: Smells of bark and wet wool. Unhurried. Watches the wounded before 
 
 **THE WATCHER** _(Adept — Awareness discipline, Loyalty 2)_
 STR 2, AGL 3, WIT 5, EMP 4 | WP: 3
-Skills: INSIGHT 3, SCOUTING 1, MANIPULATION 2
+Skills: INSIGHT 3, SCOUTING 2, MANIPULATION 2, LORE 2, SURVIVAL 2, HEALING 1
 Path: PATH OF AWARENESS rank 3 | General Spells rank 2
 Spells: **Words on the Wind**, **Farsight**, **Compel Truth**, **Telepathy**, **Sense Magic**, **Obscure Magic**
 Armor: Leather (3) | Weapon: Knife
@@ -2826,7 +2830,7 @@ _Appearance: Seldom raises their voice. Listens more than they speak. The men fe
 
 **THE SORCERER** _(Adept — Symbolism discipline, Loyalty 1)_
 STR 2, AGL 3, WIT 5, EMP 4 | WP: 3
-Skills: LORE 3, INSIGHT 2
+Skills: LORE 3, INSIGHT 3, MANIPULATION 2, SCOUTING 2, SURVIVAL 2, HEALING 1
 Path: PATH OF SYMBOLISM rank 3 | General Spells rank 2
 Spells: **Arcane Mark**, **Paralyze**, **Illusion**, **Sleep**, **Sense Magic**, **Obscure Magic**
 Armor: Leather (3) | Weapon: Short sword
@@ -2876,6 +2880,91 @@ Casters share the same D66 roll structure as Named Men. The personalities below 
 | 54-56 | **Professionally Proud** — Regards their craft as a serious discipline practiced by serious people. Resents being used as a shortcut or invoked without preparation.                   |
 | 61-63 | **Death-Familiar** — Has looked at death through their discipline in a way soldiers look at it with iron. Not reckless. Just done being afraid of the specific thing.                  |
 | 64-66 | **Agenda-Driven** — Has a goal that preceded the band and will outlast it. The captain knows the outline. The full shape of it is not something they have shared.                      |
+---
+
+### Magic in the Mercenary Life
+
+A sorcerer in a fighting band is not a weapon. He is a condition — like bad weather or a debt that runs at interest. He changes the arithmetic of what the band can attempt, and he changes the arithmetic of what it costs to keep him. Both calculations run simultaneously, and neither waits for the other.
+
+Most bands have no caster. This is not a deficiency. Men-at-arms have cleared strongholds, held river crossings, and survived seasons in the Ravenlands without a single rank of magical talent among them. The work that mercenaries do is dirty, physical, and loud, and none of it requires spellcasting. A druid costs four silver a day. Fourteen veterans cost fourteen silver a day and obey directions.
+
+What a caster offers is leverage — in specific places, for specific tasks, at specific costs. The band that understands those limits uses magic well. The band that treats it as a general solution finds out, usually around the third mishap, what general solutions cost.
+
+#### The Caster in the Band
+
+A caster who hires out to a fighting company is not typical of their discipline. Most druids with real rank have a berth with a settlement, a patron, or a grove. A sorcerer of ability has options that do not involve sleeping in a camp on autumn ground.
+
+The ones who work for bands have reasons. Common ones: they need transit to somewhere the band is going, and the contract ends when the destination comes into view. Or they want something the band can help them reach — a ruin, a person, an object that requires a fight to extract. This is the most stable arrangement. Or they are in trouble and need bodies around them until it passes, which is the least stable, because the trouble may not pass. Or they did something that closed every other door. Whatever the reason is, the caster is a person with a history, a rank that took years to build, and an objective that existed before your contract. Know what it is.
+
+In open battle they stay behind the forward rank, protected by at minimum two fighters whose only job is to keep hands off them. In fights where you do not plan to use them, they still cost two fighters to protect. A caster who is not working is a liability that costs three men's-worth of formation every time blades come out. Plan for it.
+
+#### Camp and Survival
+
+This is where the value is most consistent and the risk is lowest. A druid with any Healing rank earns their keep in camp before the band draws iron.
+
+After a fight, the druid moves down the line before the camp is even set — **Healing Hands** on the ones who took the worst of it. A man who would be half-useful for a week is back at fighting capacity by morning. **Preserve** keeps a good day's surplus from rotting overnight, which over a season transforms the band's food situation from constant edge-of-empty to something with a buffer. **Nature's Cure** holds off the low-grade attrition that bad water and cold ground produce in any sustained march; the man who drinks from the wrong stream doesn't cost the band a week anymore.
+
+**Weathermaster** is the rarest and the most decisive in the right moment. A druid who can call conditions in a hex — fog pulled in to mask a position, rain turned clear for a crossing — holds a card no conventional force can answer. Yssa's warband had been stuck below a flooded ford for five days. She spent the spell, pulled the rain clear for one Quarter Day, and they crossed before the opposing Host had finished their morning fire. The ford was knee-deep. There was no fight.
+
+#### Scouting and Intelligence
+
+The Ravenlands has no reliable maps. What the band knows about a position is what someone walked close enough to see — until a druid is involved.
+
+**Farsight** reads a location the caster has personally visited, as it stands right now: gates open or closed, guard count, horses present or absent. **Hawk's Eye** does the same for visible terrain, sharply enough to count heads and read insignia at a distance where your scouts would still be concealed. **Words on the Wind** directs hearing to any visible point, useful for listening to orders given outside a gate without needing anyone near it. A druid running **Nature's Watch** sets the local animals as a silent perimeter alarm — every sleep watch without a word spoken.
+
+Every one of these has a wall. **Farsight** requires the caster to have been there. **Words on the Wind** requires line of sight. **Nature's Watch** wakes the druid; it does not stop the approach. None of them send orders back. Harran went ahead on foot to a rise above the Kural gatehouse, directed his hearing to the gate, and listened for the better part of a turn. He heard four guards and a complaint about a late supply cart, and the patrol schedule at dusk. By the time the band moved on that information it was two hours old. The patrol schedule had not changed, but he could not have known that from the rise.
+
+#### In the Fight
+
+Magic in combat is expensive, risky, and decisive — all three at once. A well-placed spell turns a fight. A mishap in the middle of one turns it in a direction nobody planned.
+
+The caster's raw output in one casting exceeds what most fighters produce in the same round. Spells that hit without a parry, strike through shields, or reach targets behind the line change the geometry of an engagement if they land clean. But every Willpower Point spent healing after yesterday's skirmish is gone. Every push toward a higher effect is a push against the mishap table, which does not care about sides. A druid who pushes too hard in the wrong moment can produce a Fear alarm that runs through their own line.
+
+There is also the visibility problem. Any settlement watching your band fight knows you have a caster. Some factions will pay more for that. Others close their gates before anyone speaks. The Ravenlands remembers.
+
+> **Example.** The band closes on a wyvern that has been killing livestock in the contract territory. Two fighters are already in position at Short range. Harran holds — not casting yet, not drawing attention. The captain gives the sign. Harran takes wolf form through **Animal Form** and drops into the undergrowth, forcing the wyvern to commit to the forward fighters. When it pins one, Harran comes out of form at close range and hits with **Bear's Claw**. Automatic. The wyvern breaks off. The forward fighter is still alive. Harran has no Willpower left and needs rest before he is useful again. The band killed no one.
+
+#### After the Fight
+
+The druid's real value in a mercenary band is not what they do in the fight, but what they do in the hour after it.
+
+**Healing Hands** moves down the line: the worst wounds first, attribute damage restored before the camp is set. **Mend Wounds** closes a critical injury that would otherwise cost a fighter weeks of use, provided the white moss holds out — which is why the purser tracks it alongside iron and food. For a permanently severed limb, **Regeneration** has a narrow window; miss it and the work becomes a ritual, slower, more costly, the fighter grounded for days. **Resurrection** is the last question and the smallest answer to it: it demands time, remaining Willpower, and something the dead person carried, and it takes a point of Empathy from the raised. It is not a policy, but a decision made about a specific person whose absence changes something that cannot otherwise be recovered.
+
+The druid who works the wounded after every engagement will know, within two seasons, which fighters the band can afford to lose and which ones it cannot. That judgment is worth more than any individual healing.
+
+#### People and Pressure
+
+Mercenary work runs on social friction — contract negotiations, parley, councils where captains who do not like each other have to reach decisions together. Magic does not remove that friction. It adjusts who has leverage inside it.
+
+**Calm Emotions** stops a council from becoming a brawl, buying the Warmaster one shot at resolution while tempers are temporarily held. **Compel Truth** prevents a specific kind of lie from a specific person for a limited time — not an accounting of everything they know, just a block on stating something they know to be false when asked directly. Evasion and silence are still possible. **Telepathy** run against an opposing Warmaster's surface thoughts during negotiations is effective and detectable; **Sense Magic** is automatic, requires no roll, and any druid at the table who catches it will use that knowledge.
+
+**Serenity** produces compliance without a social roll, which means the person it was used on did not choose to cooperate. A caster working for a legitimate employer will want an explicit order before they apply it to a contractor. The contractor who finds out afterward will not forget.
+
+#### Binding and Warding
+
+A band that holds a position for more than a day has time to lay defensive magic, and a druid who knows how to use it.
+
+**Nature's Watch** covers the perimeter with animal alarms — the whole camp watched through sleep without a guard rotation. **Portent** placed on approach routes breaks or signals when specified conditions are met: armed men crossing the west tree line, a gate opened by outsiders, a river ford taken. Set the trigger accurately. A **Portent** keyed to anyone crossing the north ford will trip when the supply cart returns. False alerts erode watch discipline more reliably than absence of alerts. **Arcane Mark** on the treasury coffer gives the Warmaster its direction at all times and one listening window per ritual casting — no substituted replacement box survives it. **Bind Magic** sleeps a spell in an object until a trigger fires, which means the treasury door that sets off a concealed alarm when opened without a key phrase is doing that work while the druid sleeps somewhere else.
+
+These are tools for positions the band holds through a sustained campaign, not for camps broken before dawn.
+
+#### What Magic Cannot Do
+
+**Preserve** stretches food. It does not produce it. A band that marches into a hex empty-handed cannot conjure provisions. **Telepathy** goes one direction to one person the caster knows, at limited range, once per WP expenditure — with no reply channel unless the other end has their own caster. **Farsight** requires the caster to have been at the location; without that, it costs more and risks more to reach. **Resurrection** fails when Willpower ran out in the fight, when the body is held, when the druid is down. The band that plans around guaranteed resurrection will be surprised exactly once.
+
+Mishaps are real. A bad push on a healing spell can produce a disease that spreads from the caster to whoever is nearest. A fear wave runs through your own rank. D6 days of degraded ability. The Ravenlands does not grade these results on intent.
+
+#### Running the Hired Expert
+
+The hired caster is not a staff position. They are a person with capabilities most of the band does not understand, an objective that preceded your contract, and lines they will not cross without a clear order. Play them flat — reliable, deferential, cooperative — and you are discarding most of their use at the table.
+
+Decide three things before they arrive: what they want, what they left behind, and what they will refuse. The desire drives their cooperation for as long as it is being served. The history explains their price. The refusals are the moments where the band learns their caster is not a tool.
+
+Make the Willpower cost audible. When the druid heals, state what they spend. When they go into a fight at partial capacity, say so. The player who leads the band should know that the caster has three Willpower left and will not be available for the night's scouting. That is the decision — use them now or save them — and it only works as a decision if the cost is visible.
+
+Play mishaps straight. A pushed healing spell that rolls badly produces a spreading disease in the camp, a Fear alarm in your own line, days of degraded rank. These results feel catastrophic because they are. Use them. The druid who pushed too hard to save the sergeant has changed the session. Let it change the session.
+
+Make them leave. The caster hired for transit leaves when they arrive. The one who joined for a specific objective leaves when it resolves. Do not extend them past their reason. The empty billet is the most instructive magic lesson the band can receive — the fights after it teach exactly what the druid was doing that nobody noticed until they were gone.
 
 ---
 
@@ -3485,94 +3574,6 @@ These changes are interdependent. Sections 1–6 (band formation, morale, pay, p
 | 17  | Caster combat and contract utility: casualty reduction (−40%), contract premium (+35%), caster-only contract types | Ch09 Section 7.5             | 8 (section 7.5)   |
 
 Changes 1–7 together form the minimum viable play loop. Without morale and pay pressure, mercenary management is just hirelings with extra paperwork. The atrocity rules (10) are standalone and can be brought in at any time.
-
----
-
-## Appendix A: Magic in the Mercenary Life
-
-A sorcerer in a fighting band is not a weapon. He is a condition — like bad weather or a debt that runs at interest. He changes the arithmetic of what the band can attempt, and he changes the arithmetic of what it costs to keep him. Both calculations run simultaneously, and neither waits for the other.
-
-Most bands have no caster. This is not a deficiency. Men-at-arms have cleared strongholds, held river crossings, and survived seasons in the Ravenlands without a single rank of magical talent among them. The work that mercenaries do is dirty, physical, and loud, and none of it requires spellcasting. A druid costs four silver a day. Fourteen veterans cost fourteen silver a day and obey directions.
-
-What a caster offers is leverage — in specific places, for specific tasks, at specific costs. The band that understands those limits uses magic well. The band that treats it as a general solution finds out, usually around the third mishap, what general solutions cost.
-
-### The Caster in the Band
-
-A caster who hires out to a fighting company is not typical of their discipline. Most druids with real rank have a berth with a settlement, a patron, or a grove. A sorcerer of ability has options that do not involve sleeping in a camp on autumn ground.
-
-The ones who work for bands have reasons. Common ones: they need transit to somewhere the band is going, and the contract ends when the destination comes into view. Or they want something the band can help them reach — a ruin, a person, an object that requires a fight to extract. This is the most stable arrangement. Or they are in trouble and need bodies around them until it passes, which is the least stable, because the trouble may not pass. Or they did something that closed every other door. Whatever the reason is, the caster is a person with a history, a rank that took years to build, and an objective that existed before your contract. Know what it is.
-
-In open battle they stay behind the forward rank, protected by at minimum two fighters whose only job is to keep hands off them. In fights where you do not plan to use them, they still cost two fighters to protect. A caster who is not working is a liability that costs three men's-worth of formation every time blades come out. Plan for it.
-
-### Camp and Survival
-
-This is where the value is most consistent and the risk is lowest. A druid with any Healing rank earns their keep in camp before the band draws iron.
-
-After a fight, the druid moves down the line before the camp is even set — **Healing Hands** on the ones who took the worst of it. A man who would be half-useful for a week is back at fighting capacity by morning. **Preserve** keeps a good day's surplus from rotting overnight, which over a season transforms the band's food situation from constant edge-of-empty to something with a buffer. **Nature's Cure** holds off the low-grade attrition that bad water and cold ground produce in any sustained march; the man who drinks from the wrong stream doesn't cost the band a week anymore.
-
-**Weathermaster** is the rarest and the most decisive in the right moment. A druid who can call conditions in a hex — fog pulled in to mask a position, rain turned clear for a crossing — holds a card no conventional force can answer. Yssa's warband had been stuck below a flooded ford for five days. She spent the spell, pulled the rain clear for one Quarter Day, and they crossed before the opposing Host had finished their morning fire. The ford was knee-deep. There was no fight.
-
-### Scouting and Intelligence
-
-The Ravenlands has no reliable maps. What the band knows about a position is what someone walked close enough to see — until a druid is involved.
-
-**Farsight** reads a location the caster has personally visited, as it stands right now: gates open or closed, guard count, horses present or absent. **Hawk's Eye** does the same for visible terrain, sharply enough to count heads and read insignia at a distance where your scouts would still be concealed. **Words on the Wind** directs hearing to any visible point, useful for listening to orders given outside a gate without needing anyone near it. A druid running **Nature's Watch** sets the local animals as a silent perimeter alarm — every sleep watch without a word spoken.
-
-Every one of these has a wall. **Farsight** requires the caster to have been there. **Words on the Wind** requires line of sight. **Nature's Watch** wakes the druid; it does not stop the approach. None of them send orders back. Harran went ahead on foot to a rise above the Kural gatehouse, directed his hearing to the gate, and listened for the better part of a turn. He heard four guards and a complaint about a late supply cart, and the patrol schedule at dusk. By the time the band moved on that information it was two hours old. The patrol schedule had not changed, but he could not have known that from the rise.
-
-### In the Fight
-
-Magic in combat is expensive, risky, and decisive — all three at once. A well-placed spell turns a fight. A mishap in the middle of one turns it in a direction nobody planned.
-
-The caster's raw output in one casting exceeds what most fighters produce in the same round. Spells that hit without a parry, strike through shields, or reach targets behind the line change the geometry of an engagement if they land clean. But every Willpower Point spent healing after yesterday's skirmish is gone. Every push toward a higher effect is a push against the mishap table, which does not care about sides. A druid who pushes too hard in the wrong moment can produce a Fear alarm that runs through their own line.
-
-There is also the visibility problem. Any settlement watching your band fight knows you have a caster. Some factions will pay more for that. Others close their gates before anyone speaks. The Ravenlands remembers.
-
-> **Example.** The band closes on a wyvern that has been killing livestock in the contract territory. Two fighters are already in position at Short range. Harran holds — not casting yet, not drawing attention. The captain gives the sign. Harran takes wolf form through **Animal Form** and drops into the undergrowth, forcing the wyvern to commit to the forward fighters. When it pins one, Harran comes out of form at close range and hits with **Bear's Claw**. Automatic. The wyvern breaks off. The forward fighter is still alive. Harran has no Willpower left and needs rest before he is useful again. The band killed no one.
-
-### After the Fight
-
-The druid's real value in a mercenary band is not what they do in the fight, but what they do in the hour after it.
-
-**Healing Hands** moves down the line: the worst wounds first, attribute damage restored before the camp is set. **Mend Wounds** closes a critical injury that would otherwise cost a fighter weeks of use, provided the white moss holds out — which is why the purser tracks it alongside iron and food. For a permanently severed limb, **Regeneration** has a narrow window; miss it and the work becomes a ritual, slower, more costly, the fighter grounded for days. **Resurrection** is the last question and the smallest answer to it: it demands time, remaining Willpower, and something the dead person carried, and it takes a point of Empathy from the raised. It is not a policy, but a decision made about a specific person whose absence changes something that cannot otherwise be recovered.
-
-The druid who works the wounded after every engagement will know, within two seasons, which fighters the band can afford to lose and which ones it cannot. That judgment is worth more than any individual healing.
-
-### People and Pressure
-
-Mercenary work runs on social friction — contract negotiations, parley, councils where captains who do not like each other have to reach decisions together. Magic does not remove that friction. It adjusts who has leverage inside it.
-
-**Calm Emotions** stops a council from becoming a brawl, buying the Warmaster one shot at resolution while tempers are temporarily held. **Compel Truth** prevents a specific kind of lie from a specific person for a limited time — not an accounting of everything they know, just a block on stating something they know to be false when asked directly. Evasion and silence are still possible. **Telepathy** run against an opposing Warmaster's surface thoughts during negotiations is effective and detectable; **Sense Magic** is automatic, requires no roll, and any druid at the table who catches it will use that knowledge.
-
-**Serenity** produces compliance without a social roll, which means the person it was used on did not choose to cooperate. A caster working for a legitimate employer will want an explicit order before they apply it to a contractor. The contractor who finds out afterward will not forget.
-
-### Binding and Warding
-
-A band that holds a position for more than a day has time to lay defensive magic, and a druid who knows how to use it.
-
-**Nature's Watch** covers the perimeter with animal alarms — the whole camp watched through sleep without a guard rotation. **Portent** placed on approach routes breaks or signals when specified conditions are met: armed men crossing the west tree line, a gate opened by outsiders, a river ford taken. Set the trigger accurately. A **Portent** keyed to anyone crossing the north ford will trip when the supply cart returns. False alerts erode watch discipline more reliably than absence of alerts. **Arcane Mark** on the treasury coffer gives the Warmaster its direction at all times and one listening window per ritual casting — no substituted replacement box survives it. **Bind Magic** sleeps a spell in an object until a trigger fires, which means the treasury door that sets off a concealed alarm when opened without a key phrase is doing that work while the druid sleeps somewhere else.
-
-These are tools for positions the band holds through a sustained campaign, not for camps broken before dawn.
-
-### What Magic Cannot Do
-
-**Preserve** stretches food. It does not produce it. A band that marches into a hex empty-handed cannot conjure provisions. **Telepathy** goes one direction to one person the caster knows, at limited range, once per WP expenditure — with no reply channel unless the other end has their own caster. **Farsight** requires the caster to have been at the location; without that, it costs more and risks more to reach. **Resurrection** fails when Willpower ran out in the fight, when the body is held, when the druid is down. The band that plans around guaranteed resurrection will be surprised exactly once.
-
-Mishaps are real. A bad push on a healing spell can produce a disease that spreads from the caster to whoever is nearest. A fear wave runs through your own rank. D6 days of degraded ability. The Ravenlands does not grade these results on intent.
-
-### Running the Hired Expert
-
-> _This section is addressed to the GM._
-
-The hired caster is not a staff position. They are a person with capabilities most of the band does not understand, an objective that preceded your contract, and lines they will not cross without a clear order. Play them flat — reliable, deferential, cooperative — and you are discarding most of their use at the table.
-
-Decide three things before they arrive: what they want, what they left behind, and what they will refuse. The desire drives their cooperation for as long as it is being served. The history explains their price. The refusals are the moments where the band learns their caster is not a tool.
-
-Make the Willpower cost audible. When the druid heals, state what they spend. When they go into a fight at partial capacity, say so. The player who leads the band should know that the caster has three Willpower left and will not be available for the night's scouting. That is the decision — use them now or save them — and it only works as a decision if the cost is visible.
-
-Play mishaps straight. A pushed healing spell that rolls badly produces a spreading disease in the camp, a Fear alarm in your own line, days of degraded rank. These results feel catastrophic because they are. Use them. The druid who pushed too hard to save the sergeant has changed the session. Let it change the session.
-
-Make them leave. The caster hired for transit leaves when they arrive. The one who joined for a specific objective leaves when it resolves. Do not extend them past their reason. The empty billet is the most instructive magic lesson the band can receive — the fights after it teach exactly what the druid was doing that nobody noticed until they were gone.
 
 ---
 
