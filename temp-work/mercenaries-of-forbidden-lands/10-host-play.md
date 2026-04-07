@@ -52,7 +52,7 @@ A Host is the top tier of this system — multiple bands operating under a share
 
 Most bands have no caster. A sword, a MANIPULATION roll, and enough food — that is the equipment a mercenary band runs on. Magic in the Ravenlands is not common property, but learned slowly from living masters who want something in return, and the men who complete that training are rare and expensive. A seasoned caster with rank 2 or higher in any discipline is a Named Man of first quality. They come at elevated rates: 4 to 8 silver per day for a competent rank 1, 10 to 20 silver for rank 2, and rank 3 casters who work for a mercenary company ask something beyond coin.
 
-A Host at sufficient scale — Company size or larger, running on money from a major employer — can retain a caster on staff. They do not command loyalty. They retain attention. The distinction matters.
+A Host at sufficient scale — Company size or larger, running on money from a major employer — can retain a caster on staff. They do not command Loyalty. They retain attention. The distinction matters.
 
 **Caster access by Host tier:**
 
@@ -74,7 +74,7 @@ A Warmaster gives operational orders. Band captains follow them — or do not. T
 
 When the PCs' band receives a Warmaster order they want to refuse or modify, the captain makes a MANIPULATION roll at difficulty equal to the Warmaster's REPUTATION divided by 2 (round up, minimum 1). On success, the objection is heard and a compromise is negotiated. On failure, the order stands as given. Openly defying a Warmaster order without even attempting the roll costs MORALE −1 and is noted.
 
-A Warmaster who fails to pay, fails to supply, or gives orders that result in serious band casualties without acknowledged cause may be challenged. A band captain with REPUTATION 3+ may formally contest the Warmaster's leadership: one MANIPULATION roll opposed by the Warmaster's. If the PC wins, their band detaches under the GRIEVANCE mechanic without triggering a full Atrocity. If they lose, the Warmaster may demand a loyalty demonstration.
+A Warmaster who fails to pay, fails to supply, or gives orders that result in serious band casualties without acknowledged cause may be challenged. A band captain with REPUTATION 3+ may formally contest the Warmaster's leadership: one MANIPULATION roll opposed by the Warmaster's. If the PC wins, their band detaches under the GRIEVANCE mechanic without triggering a full Atrocity. If they lose, the Warmaster may demand a Loyalty demonstration.
 
 ### The Warmaster's Alignment
 
@@ -88,7 +88,7 @@ A band serving under a faction Warmaster is treated as Allegiance 1 toward that 
 
 ### Supply at Host Scale
 
-Individual bands within a Host do not forage independently by default. The Host has a combined supply requirement — add every band's daily FOOD total. The Warmaster or a designated logistics officer handles provisioning. Each band receives its share at the end of each Quarter Day. If the supply line is disrupted, each individual band rolls against its own provisions. A band with enough stores sustains itself. A band without stores falls into the standard unpaid/unfed MORALE trigger chain immediately — the Host's shared logistics do not protect a band that ran its own stores dry.
+Individual bands within a Host do not forage independently by default. The Host has a combined supply requirement — add every band's daily FOOD total. The Warmaster or a designated logistics officer handles provisioning. Each band receives its share at the end of each Quarter Day. If the supply line is disrupted, each individual band rolls against its own provisions. A band with enough stores sustains itself. A band without stores falls into the standard unpaid/unfed MORALE Trigger chain immediately — the Host's shared logistics do not protect a band that ran its own stores dry.
 
 ### Host Treasury
 
@@ -120,7 +120,7 @@ Each band draws from the Host treasury at a fixed rate, tracked by a purser — 
 | Warband (7–20)    | 49–140 silver  | 10–15 silver          |
 | Company (21–50)   | 147–350 silver | 20–30 silver          |
 
-A band that exceeds its local budget without authorization draws against the next week's allocation. Two consecutive overruns trigger a purser review.
+A band that exceeds its local budget without authorization draws against the next week's allocation. Two consecutive overruns Trigger a purser review.
 
 **Deferred pay:** When the treasury is short, the Warmaster may declare a deferral: pay is delayed, not cut. Each week of deferral is recorded. The Warmaster takes -1 to their authority roll at the next Host Council while deferred pay is outstanding. A deferred debt that goes three weeks unpaid becomes a GRIEVANCE.
 
@@ -327,7 +327,7 @@ A Ledger that hits -6 triggers automatic dissolution unless the Warmaster resign
 
 Hosts end. Some cleanly. Most do not.
 
-**Clean dissolution:** Campaign objective complete, all obligations honored. The Warmaster announces dissolution at a final council. Each band receives full outstanding pay from the treasury reserve. Equipment drawn on Host allocation is returned or purchased at a negotiated price. Bands separate with standing intact. The Warmaster retains credit for the Host's accomplishments. Each captain walks away with whatever Allegiance they earned.
+**Clean dissolution:** Campaign objective complete, all obligations honored. The Warmaster announces dissolution at a final council. Each band receives full outstanding pay from the treasury reserve. Equipment drawn on Host allocation is returned or purchased at a negotiated price. Bands separate with Standing intact. The Warmaster retains credit for the Host's accomplishments. Each captain walks away with whatever Allegiance they earned.
 
 **Contractual dissolution:** The employer discharges the Host before the objective is complete. If the contract specified an early-termination fee, the Warmaster collects and distributes proportionally. If it did not, the Warmaster negotiates — MANIPULATION at the faction's standard difficulty. Bands receive a pro-rated share of whatever was collected. Captains who signed directly with the employer, not through the Warmaster, may press their own claims.
 

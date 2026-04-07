@@ -14,7 +14,7 @@
 >
 > _Skalva did not use it himself. He did not need to._
 
-Named Men are veteran fighters with individual stats, names, personalities, and loyalty scores. They are not anonymous soldiers. They have opinions, histories, and lines they will not cross. They are also the band's most dangerous problem when things go wrong.
+Named Men are veteran fighters with individual stats, names, personalities, and Loyalty scores. They are not anonymous soldiers. They have opinions, histories, and lines they will not cross. They are also the band's most dangerous problem when things go wrong.
 
 **Guideline:** A Skirmisher band (3–6) operates with 1–2 Named Men. A Warband (7–20) supports 2–4. A Company (21–50) needs 4–8. These are guidelines, not caps — a band heavy on Named Men is expensive and politically complex; a band with too few has no sergeants and no institutional memory.
 
@@ -25,7 +25,7 @@ Assign each of the following. For personality, roll or choose from **Named Man P
 - **Tier:** Veteran or Elite (determines stats, see below)
 - **Role:** Their fighting specialty (Line, Skirmisher, or Brute — shapes attributes and skill emphasis)
 - **Loyalty:** 1, 2, or 3
-- **Trigger:** The thing that will break their loyalty
+- **Trigger:** The thing that will break their Loyalty
 - **Agenda:** What they want beyond pay
 
 Named Men are tracked individually. Record their stats on a separate NPC sheet. They are not anonymous soldiers — they can be Broken, recover, advance, and die in ways that matter to the story.
@@ -103,7 +103,7 @@ _Combat style_
 | -------------- | -------------------------- | ---------------------------------------------------------------- |
 | BERSERKER      | Veteran 1, Elite 2         | Requires a rage- or fury-based personality                       |
 | BRAWLER        | Veteran 1, Elite 2         | Preferred by men who grew up fighting without weapons            |
-| COLD-BLOODED   | Veteran 1, Elite 2         | Executioner types; will not coexist with a Civilian Harm trigger |
+| COLD-BLOODED   | Veteran 1, Elite 2         | Executioner types; will not coexist with a Civilian Harm Trigger |
 | DIRTY FIGHTING | Veteran 1, Elite 2         | Street-origin fighters                                           |
 | EXECUTIONER    | Veteran 1, Elite 2         | Requires willingness to end surrendered foes                     |
 | FIRM GRIP      | Veteran 1, Elite 2         | Grapplers, those who disarm well                                 |
@@ -177,16 +177,16 @@ Non-player Named Men recover 1 WP per day of downtime. If a Named Man transition
 | LOYALTY | MEANING                                                                                     |
 | ------- | ------------------------------------------------------------------------------------------- |
 | 3       | Trusted. Will not betray the band short of a direct command to do something they refuse.    |
-| 2       | Reliable. Will leave or act out if their trigger is hit; will not actively harm the band.   |
+| 2       | Reliable. Will leave or act out if their Trigger is hit; will not actively harm the band.   |
 | 1       | Self-interested. Will take coin elsewhere, sell information, or remain neutral in a crisis. |
 | 0       | Gone — or waiting to be. Fear-Held bands only.                                              |
 
-**Loyalty cap.** Loyalty cannot exceed 3. A positive trigger at Loyalty 3 does nothing — the man is already as loyal as a hired fighter gets. Loyalty cannot drop below 1 through normal triggers. At Loyalty 1, the Named Man is self-interested, not gone. Departure happens through a specific event: a Trigger hit at Loyalty 1, a second consecutive Trigger with no response, or a MORALE check failure at BROKEN.
+**Loyalty cap.** Loyalty cannot exceed 3. A positive Trigger at Loyalty 3 does nothing — the man is already as loyal as a hired fighter gets. Loyalty cannot drop below 1 through normal Triggers. At Loyalty 1, the Named Man is self-interested, not gone. Departure happens through a specific event: a Trigger hit at Loyalty 1, a second consecutive Trigger with no response, or a MORALE check failure at BROKEN.
 
 Loyalty changes over time:
 
-- +1 if the leader demonstrates genuine regard for the named man's wellbeing (healing their wounds, honoring their victory publicly, clearing a debt for them)
-- +1 on a consistent basis if loot shares are paid immediately after every combat haul, without the named man asking. This is equivalent to "paid on time" in what it signals. A captain who pays the line without being reminded is a different kind of captain from one who has to be cornered about it.
+- +1 if the leader demonstrates genuine regard for the Named Man's wellbeing (healing their wounds, honoring their victory publicly, clearing a debt for them)
+- +1 on a consistent basis if loot shares are paid immediately after every combat haul, without the Named Man asking. This is equivalent to "paid on time" in what it signals. A captain who pays the line without being reminded is a different kind of captain from one who has to be cornered about it.
 - −1 if their Trigger is triggered and the leader does nothing to address it
 - −1 per MORALE step the band falls below 3, each week
 
@@ -264,7 +264,7 @@ Every Named Man wants something beyond pay. Roll D6 or pick:
 | 5   | Land or a house — a place of their own                                        |
 | 6   | Something they lost: an heirloom, a title, a piece of truth they need to hear |
 
-The leader can invest in an agenda — helping a named man pursue it — and in return gain a bonus to MORALE (+1) when it succeeds and a bond that raises loyalty.
+The leader can invest in an Agenda — helping a Named Man pursue it — and in return gain a bonus to MORALE (+1) when it succeeds and a bond that raises Loyalty.
 
 ### Named Man Personalities
 
@@ -385,12 +385,12 @@ _Appearance: Not the biggest. Just the one standing when the others aren't._
 
 > **Example — The Named Man's Choice**
 >
-> Petter the Hook is a Veteran Line Man. Loyalty 2. Trigger: Left behind when wounded. The band is three days into a clearing contract — the lower chamber, where the air is thick with a smell like hot iron and scorched bristle, and something in the dark keeps charging the line — when the GM draws a trigger event. The Gristle calls a retreat after a bad fight. Brosa is down. The captain says: "Leave him. We cannot hold the position."
+> Petter the Hook is a Veteran Line Man. Loyalty 2. Trigger: Left behind when wounded. The band is three days into a clearing contract — the lower chamber, where the air is thick with a smell like hot iron and scorched bristle, and something in the dark keeps charging the line — when the GM draws a Trigger event. The Gristle calls a retreat after a bad fight. Brosa is down. The captain says: "Leave him. We cannot hold the position."
 >
-> Petter's trigger fires. Left behind when wounded. The GM rolls against Petter's Loyalty. He needs to beat difficulty 1 — the trigger's threshold. At Loyalty 2, he has room. He rolls: one sword. He holds. He follows the order. But his Loyalty drops to 1.
+> Petter's Trigger fires. Left behind when wounded. The GM rolls against Petter's Loyalty. He needs to beat difficulty 1 — the Trigger's threshold. At Loyalty 2, he has room. He rolls: one sword. He holds. He follows the order. But his Loyalty drops to 1.
 >
 > At the cookfire that night, Petter does not sit where he usually sits. He does not sharpen anything. He eats and goes to his bedroll early. Gest notices. The Gristle does not — or does, and says nothing.
 >
-> If Petter's Loyalty had been 1 when the trigger fired, he would have rolled with no margin. A failure and he leaves — walks out that night or refuses the next order and forces the captain to respond. If the band is Trust-Held, he tells the Gristle he is done and why. If it is Fear-Held, she finds the empty bedroll in the morning and has to guess.
+> If Petter's Loyalty had been 1 when the Trigger fired, he would have rolled with no margin. A failure and he leaves — walks out that night or refuses the next order and forces the captain to respond. If the band is Trust-Held, he tells the Gristle he is done and why. If it is Fear-Held, she finds the empty bedroll in the morning and has to guess.
 
 ---

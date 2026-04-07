@@ -84,7 +84,7 @@ _Dwarf and Fighter both key Strength — maximum Strength at creation is 6._
 
 **Hargamar** — _Dwarf. Veteran._
 
-Older than Petter and quieter. He was a stoneworker in the quarries south of the Amber Peaks until the quarry stopped paying, and then he picked up a sword because the sword paid, which he will tell you is the only reason anyone picks up a sword. He holds the center of a shield wall without being told. He has no named agenda. He has the specific competence of a man who has learned to be useful in exactly one situation and made peace with it.
+Older than Petter and quieter. He was a stoneworker in the quarries south of the Amber Peaks until the quarry stopped paying, and then he picked up a sword because the sword paid, which he will tell you is the only reason anyone picks up a sword. He holds the center of a shield wall without being told. He has no named Agenda. He has the specific competence of a man who has learned to be useful in exactly one situation and made peace with it.
 
 _Dwarf · Fighter · Old_ **WP Max 6**
 
@@ -158,7 +158,7 @@ _Human · Fighter · Young_ **WP Max 8**
 
 **Ferrec** — _Human. Common._
 
-Thief. Not by profession, just by character — the kind of man who weights a scale in his favor wherever a scale appears, which extends to coins in other men's kits, loyalties, information, and blame. He has a flat-boned face and dark, quick eyes and the particular talent of appearing to be somewhere else when things go wrong. He is useful in three situations and dangerous in the other twenty. The Gristle knows this. She has not yet decided what to do about it.
+Thief. Not by profession, just by character — the kind of man who weights a scale in his favor wherever a scale appears, which extends to coins in other men's kits, Loyalties, information, and blame. He has a flat-boned face and dark, quick eyes and the particular talent of appearing to be somewhere else when things go wrong. He is useful in three situations and dangerous in the other twenty. The Gristle knows this. She has not yet decided what to do about it.
 
 _Human · Rogue · Adult_ **WP Max 7**
 

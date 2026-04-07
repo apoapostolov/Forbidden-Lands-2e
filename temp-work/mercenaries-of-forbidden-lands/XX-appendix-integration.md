@@ -8,7 +8,7 @@ This chapter connects to the core rules in the following places:
 
 **MASTER OF THE HUNT.** A fellowship member with this talent can reduce the band's daily food cost by assigning themselves as head forager. Their special trap clause allows traps to work while the band drills in camp.
 
-**COLD-BLOODED.** Fellowship members with COLD-BLOODED do not personally contribute to the band's aggregate MORALE penalty when an atrocity is ordered. The trigger table's -1 still fires — it reflects the band's reaction, not the leader's composure. Named Men still roll Loyalty checks against their own Triggers.
+**COLD-BLOODED.** Fellowship members with COLD-BLOODED do not personally contribute to the band's aggregate MORALE penalty when an atrocity is ordered. The Trigger table's -1 still fires — it reflects the band's reaction, not the leader's composure. Named Men still roll Loyalty checks against their own Triggers.
 
 **JOURNEYS** chapter. Foraging uses the daily field ration table in this chapter, which replaces individual forager rolls for bands. Season modifiers from the **JOURNEYS** chapter apply. Reputation cascade from the **JOURNEYS** chapter governs how bounty and atrocity news travels.
 

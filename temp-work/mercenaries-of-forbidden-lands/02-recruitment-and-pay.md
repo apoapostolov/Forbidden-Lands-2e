@@ -24,7 +24,7 @@ In the field, recruitment happens in:
 
 - **Villages:** D6 potential recruits, roll supply as Common
 - **Inns and crossroads:** 1D3, MANIPULATION to find willing fighters
-- **Former bandits, defeated enemies:** MANIPULATION difficulty 2 to bring in; they begin at loyalty 1
+- **Former bandits, defeated enemies:** MANIPULATION difficulty 2 to bring in; they begin at Loyalty 1
 
 A SHELTER or BARRACKS at your stronghold adds the existing bonus for finding hirelings. It does not help recruiting in the field.
 
@@ -42,7 +42,7 @@ This applies even if the band has changed hands. The men are gone regardless of 
 
 A band need not be uniform. A warband of 10 might include 6 Commons, 3 Veterans, and 1 Elite who serves as the sergeant.
 
-The stats above are for Common fighters — the rank and file who do not have individual names, triggers, or agendas. Throughout this chapter, "Common fighter" and "the men" refer to this tier. Any Veteran or Elite who becomes a Named Man uses the full character build in the Named Men section, which adds WIT, EMP, individual skill distribution, and talents.
+The stats above are for Common fighters — the rank and file who do not have individual names, Triggers, or Agendas. Throughout this chapter, "Common fighter" and "the men" refer to this tier. Any Veteran or Elite who becomes a Named Man uses the full character build in the Named Men section, which adds WIT, EMP, individual skill distribution, and talents.
 
 ### Kin and Recruitment
 
@@ -198,7 +198,7 @@ When a windfall roll produces a captive, or when the band takes a prisoner of cl
 | Minor merchant, craftsman, skilled laborer          | 8–20 silver    | Worth pursuing only if their employer is cooperative.              |
 | Merchant factor; captain of a rival force           | 25–50 silver   | One week to identify the right contact.                            |
 | Minor lord's retainer, junior officer               | 40–80 silver   | Two weeks average. Family may pay promptly to avoid embarrassment. |
-| Lord's kin; warchief's lieutenant                   | 80–150 silver  | Three weeks. May trigger pursuit if word travels.                  |
+| Lord's kin; warchief's lieutenant                   | 80–150 silver  | Three weeks. May Trigger pursuit if word travels.                  |
 | Named warchief's principal; lord's immediate family | 150–400 silver | Major leverage — and major risk. Count the weeks carefully.        |
 
 **Logistics.** A captive consumes 1 FOOD per day and requires a dedicated guard. An unguarded captive (no guard within hearing at night) rolls D6 each night: on 1–2, they are gone by morning. A captive in transit rolls on this table at double frequency.

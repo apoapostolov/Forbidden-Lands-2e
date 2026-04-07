@@ -31,7 +31,7 @@ When a member of the band becomes wanted, the bounty amount determines how far t
 | 150–400s  | Wide. Serious money by field standards — competes with a clearing, raid, or short garrison. Mercenary bands take notice. Spreads with every trading caravan within a season. |
 | Over 400s | Famous. Full contract-equivalent or better. Worth diverting active operations. Travels with every caravan and rumor for a year. Even trusted allies weigh the number.        |
 
-**Effect of being wanted.** At any settlement within spread range, the GM may trigger: gate guards asking pointed questions, an innkeeper sending word, a competing band taking the contract, or a Named Man at Loyalty 1 considering whether selling the information is safer.
+**Effect of being wanted.** At any settlement within spread range, the GM may Trigger: gate guards asking pointed questions, an innkeeper sending word, a competing band taking the contract, or a Named Man at Loyalty 1 considering whether selling the information is safer.
 
 **Sheltering wanted men.** If the fellowship shelters a wanted band member, they absorb reputational exposure. A settlement that discovers this may demand surrender of the wanted person or penalize Standing by -1 to -2. If the leader publicly harbors the wanted person, the bounty's spread now includes that stronghold.
 
@@ -79,7 +79,7 @@ An atrocity is an act that crosses a visible line — visible enough that it def
 
 **Plunder and MORALE.** The +1 from "atrocity ordered, men gained plunder" fires only when MORALE is currently 2 or below. At MORALE 3+, the men do not need blood-money to hold together. The atrocity still produces plunder and still forces Standing and Reputation consequences. It does not move MORALE when the band is stable.
 
-This makes the atrocity-plunder trigger a desperation tool. A Tyrant captain who orders atrocities at MORALE 4 gains nothing from the trigger table. The Standing and Reputation damage accrues without the MORALE payoff. At MORALE 2, the same order buys one step. The system does not moralize — it accounts for when cruelty has leverage and when it has only cost.
+This makes the atrocity-plunder Trigger a desperation tool. A Tyrant captain who orders atrocities at MORALE 4 gains nothing from the Trigger table. The Standing and Reputation damage accrues without the MORALE payoff. At MORALE 2, the same order buys one step. The system does not moralize — it accounts for when cruelty has leverage and when it has only cost.
 
 **Oath-Breaker Status.** Repeat contract breaches, betrayals, and broken oaths accumulate into an OATH-BREAKER flag.
 

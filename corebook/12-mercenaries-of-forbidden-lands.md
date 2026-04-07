@@ -44,9 +44,9 @@ These terms appear throughout the chapter. They are collected here so the rest o
 
 **Loyalty** — A Named Man's personal commitment to the band. Scored 1–3. It is not the same as MORALE. A Named Man with Loyalty 3 is personally invested; one with Loyalty 1 is watching the door. Loyalty rises when the captain invests in that man's wellbeing and falls when their Trigger is hit or MORALE declines.
 
-**Trigger** — The thing that breaks a Named Man's loyalty. Each Named Man has one. When the trigger fires and the captain does nothing to address it, Loyalty drops by 1. A Trigger hit at Loyalty 1 means the man leaves.
+**Trigger** — The thing that breaks a Named Man's Loyalty. Each Named Man has one. When the Trigger fires and the captain does nothing to address it, Loyalty drops by 1. A Trigger hit at Loyalty 1 means the man leaves.
 
-**Agenda** — What a Named Man wants beyond pay. A personal goal that predates the band and will outlast it. A captain who moves the band toward a Named Man's agenda keeps that man's Loyalty stable. A captain who ignores it loses them quietly over time.
+**Agenda** — What a Named Man wants beyond pay. A personal goal that predates the band and will outlast it. A captain who moves the band toward a Named Man's Agenda keeps that man's Loyalty stable. A captain who ignores it loses them quietly over time.
 
 **Call Name** — An earned title given by the band for a witnessed deed. Not a rank. The name that sticks is the one the band gives, not the one the man would have chosen. Call Names are recognized at settlements and by other mercenary companies.
 
@@ -121,7 +121,7 @@ MORALE is a single score from 1 to 5 tracked for the whole band. It is not a cha
 
 **Checks are called by context.** Three situations call for a MORALE check: leading a dangerous assignment when MORALE is WAVERING or SHAKEN, leading any engagement when MORALE is BROKEN, or ordering an atrocity without material gain. In each case the leader rolls MANIPULATION against difficulty from the Grievance Difficulty table.
 
-**One or the other.** A late payment produces the automatic −1 trigger. It does not also produce a MORALE check. Where the Atrocities section specifically calls for a check after an atrocity causing a score change, both apply in sequence — the score drops from the trigger first, then the leader rolls the check.
+**One or the other.** A late payment produces the automatic −1 Trigger. It does not also produce a MORALE check. Where the Atrocities section specifically calls for a check after an atrocity causing a score change, both apply in sequence — the score drops from the Trigger first, then the leader rolls the check.
 
 **Voluntary check.** The captain may call a MORALE check once per week, at the cost of one Quarter Day. The captain addresses the assembled men. Difficulty is set by the single most severe active grievance — the captain cannot choose a lesser one. On success, that grievance is cleared; each extra sword beyond the difficulty clears one additional grievance of equal or lower difficulty. On failure, nothing changes and the attempt is noted.
 
@@ -176,9 +176,9 @@ These change MORALE at the end of each week.
 | Fellowship abandoned the band in danger          | -2                                               |
 | Named Man killed                                 | -1                                               |
 
-**Net movement cap.** All applicable triggers fire each week, ranked by severity (largest modifier first). The score stops moving after a net change of 2 in either direction. Remaining triggers do not adjust the score but are recorded as active grievances — they feed MORALE check difficulty and are visible to the captain. Three or more unresolved triggers at the same level compound into one grievance one step worse.
+**Net movement cap.** All applicable Triggers fire each week, ranked by severity (largest modifier first). The score stops moving after a net change of 2 in either direction. Remaining Triggers do not adjust the score but are recorded as active grievances — they feed MORALE check difficulty and are visible to the captain. Three or more unresolved Triggers at the same level compound into one grievance one step worse.
 
-**Floor.** MORALE cannot drop below 1 through trigger applications alone. A trigger that would push MORALE to 0 or below holds the band at MORALE 1. Band dissolution is a MORALE check failure at MORALE 1 during an engagement, not a trigger outcome. The captain still faces the BROKEN check if an engagement fires before a positive trigger arrives.
+**Floor.** MORALE cannot drop below 1 through Trigger applications alone. A Trigger that would push MORALE to 0 or below holds the band at MORALE 1. Band dissolution is a MORALE check failure at MORALE 1 during an engagement, not a Trigger outcome. The captain still faces the BROKEN check if an engagement fires before a positive Trigger arrives.
 
 > **Example — Triggers in a Bad Week**
 >
@@ -186,15 +186,15 @@ These change MORALE at the end of each week.
 >
 > The Named Man's death and the late wages each register as a difficulty 1 grievance. Two difficulty-1 grievances do not stack — the check difficulty is still 1, set by the worst. The captain can clear both at a voluntary check if she rolls one extra sword beyond the difficulty.
 >
-> Now consider a worse week. Same three events, plus the captain breaks the contract (-2). Total triggers: +1, -1, -1, -2 = net -3, but the cap is 2. MORALE 4 drops to 2 (Wavering), not 1. The remaining -1 that would have pushed to BROKEN does not fire — instead it is recorded as an active grievance.
+> Now consider a worse week. Same three events, plus the captain breaks the contract (-2). Total Triggers: +1, -1, -1, -2 = net -3, but the cap is 2. MORALE 4 drops to 2 (Wavering), not 1. The remaining -1 that would have pushed to BROKEN does not fire — instead it is recorded as an active grievance.
 >
-> The broken contract registers as a difficulty 2 grievance. The Named Man's death and the late wages are each difficulty 1. The capped trigger — the excess that did not move the score — also sits as a difficulty 1 grievance from the event that produced it. The captain now sits at WAVERING with a difficulty 2 grievance and three unresolved difficulty-1 grievances. Three of a kind at the same level: they compound to a difficulty 2 grievance. Two difficulty-2 grievances do not stack further — the check difficulty is 2, set by the worst.
+> The broken contract registers as a difficulty 2 grievance. The Named Man's death and the late wages are each difficulty 1. The capped Trigger — the excess that did not move the score — also sits as a difficulty 1 grievance from the event that produced it. The captain now sits at WAVERING with a difficulty 2 grievance and three unresolved difficulty-1 grievances. Three of a kind at the same level: they compound to a difficulty 2 grievance. Two difficulty-2 grievances do not stack further — the check difficulty is 2, set by the worst.
 >
-> Bad, not catastrophic. The band dropped two steps in a week. The captain still has room to act — a voluntary check at difficulty 2 with extra swords can sweep several grievances. If she pays the wages and wins the next engagement, the positive triggers can claw back toward Steady. A single disastrous week hurts, but does not end the band.
+> Bad, not catastrophic. The band dropped two steps in a week. The captain still has room to act — a voluntary check at difficulty 2 with extra swords can sweep several grievances. If she pays the wages and wins the next engagement, the positive Triggers can claw back toward Steady. A single disastrous week hurts, but does not end the band.
 
-**Ceiling.** MORALE cannot exceed 5. Positive triggers earned above the ceiling are lost.
+**Ceiling.** MORALE cannot exceed 5. Positive Triggers earned above the ceiling are lost.
 
-**Recovery from MORALE 1.** A positive trigger at MORALE 1 (BROKEN) raises the score to 2 without requiring a MORALE check. The floor is a pressure state, not a trap with no exit.
+**Recovery from MORALE 1.** A positive Trigger at MORALE 1 (BROKEN) raises the score to 2 without requiring a MORALE check. The floor is a pressure state, not a trap with no exit.
 
 ### Band Archetypes
 
@@ -224,11 +224,11 @@ A band's origin shapes how it recruits, how it holds together, and what breaks i
 - **Typical Named Men personality:** Mercenary Proud, Territorial, Quietly Violent.
 - **Breaks when:** The captain shows they do not understand what a real formation is, or when the job clearly has no professional merit — atrocities, reckless assault, abandonment of standards.
 
-**KIN CLAN.** All members share blood, clan, or kin heritage. An orc warband. A wolfkin pack. Three halfling brothers who picked up stragglers of the same kin over two seasons. The loyalty structure runs through blood and old obligation rather than through coin and contract.
+**KIN CLAN.** All members share blood, clan, or kin heritage. An orc warband. A wolfkin pack. Three halfling brothers who picked up stragglers of the same kin over two seasons. The Loyalty structure runs through blood and old obligation rather than through coin and contract.
 
 - **Recruitment:** Same kin only by default. A family-based kin band will not accept outsiders at all without a vouch from at least one existing member and, in some cases, a formal bond or oath before the group. An outsider vouched in is treated as kin-adjacent — they have standing but not full blood standing, and the band will not extend them the same protections automatically. A man who is vouched for and then betrays the band is an example made of without debate.
 - **Strengths:** MORALE checks at -1 difficulty when the cause is external. Internal grievances are handled within kin tradition — the GM should develop 1–3 kin-specific honor rules that function as additional Triggers for Named Men in this band. The band is **Trust-Held** by definition. Kin bands cannot be Fear-Held except by a captain from outside the kin who takes command by force, and that condition lasts only until the kin remembers what they are.
-- **Weakness:** An atrocity against a member of the shared kin triggers automatic MORALE -2 and a loyalty roll for all Named Men. Blood obligations can also pull Named Men away from the band for personal reasons that have nothing to do with the contract.
+- **Weakness:** An atrocity against a member of the shared kin triggers automatic MORALE -2 and a Loyalty roll for all Named Men. Blood obligations can also pull Named Men away from the band for personal reasons that have nothing to do with the contract.
 - **Typical Named Men personality:** Grudge-Holding, Territorial, Flat.
 - **Breaks when:** The captain violates the kin's internal code — betrayal of a blood member, dishonoring a bloodline, exposing a family weakness to outsiders.
 
@@ -278,7 +278,7 @@ In the field, recruitment happens in:
 
 - **Villages:** D6 potential recruits, roll supply as Common
 - **Inns and crossroads:** 1D3, MANIPULATION to find willing fighters
-- **Former bandits, defeated enemies:** MANIPULATION difficulty 2 to bring in; they begin at loyalty 1
+- **Former bandits, defeated enemies:** MANIPULATION difficulty 2 to bring in; they begin at Loyalty 1
 
 A SHELTER or BARRACKS at your stronghold adds the existing bonus for finding hirelings. It does not help recruiting in the field.
 
@@ -296,7 +296,7 @@ This applies even if the band has changed hands. The men are gone regardless of 
 
 A band need not be uniform. A warband of 10 might include 6 Commons, 3 Veterans, and 1 Elite who serves as the sergeant.
 
-The stats above are for Common fighters — the rank and file who do not have individual names, triggers, or agendas. Throughout this chapter, "Common fighter" and "the men" refer to this tier. Any Veteran or Elite who becomes a Named Man uses the full character build in the Named Men section, which adds WIT, EMP, individual skill distribution, and talents.
+The stats above are for Common fighters — the rank and file who do not have individual names, Triggers, or Agendas. Throughout this chapter, "Common fighter" and "the men" refer to this tier. Any Veteran or Elite who becomes a Named Man uses the full character build in the Named Men section, which adds WIT, EMP, individual skill distribution, and talents.
 
 ### Kin and Recruitment
 
@@ -452,7 +452,7 @@ When a windfall roll produces a captive, or when the band takes a prisoner of cl
 | Minor merchant, craftsman, skilled laborer          | 8–20 silver    | Worth pursuing only if their employer is cooperative.              |
 | Merchant factor; captain of a rival force           | 25–50 silver   | One week to identify the right contact.                            |
 | Minor lord's retainer, junior officer               | 40–80 silver   | Two weeks average. Family may pay promptly to avoid embarrassment. |
-| Lord's kin; warchief's lieutenant                   | 80–150 silver  | Three weeks. May trigger pursuit if word travels.                  |
+| Lord's kin; warchief's lieutenant                   | 80–150 silver  | Three weeks. May Trigger pursuit if word travels.                  |
 | Named warchief's principal; lord's immediate family | 150–400 silver | Major leverage — and major risk. Count the weeks carefully.        |
 
 **Logistics.** A captive consumes 1 FOOD per day and requires a dedicated guard. An unguarded captive (no guard within hearing at night) rolls D6 each night: on 1–2, they are gone by morning. A captive in transit rolls on this table at double frequency.
@@ -674,13 +674,13 @@ Settlements that reach Feud Track 3 or 4 after INTIMIDATION tribute post better-
 | 5   | 2D6 FOOD + 1 tool     | 2D6+2 silver + equipment | 3D6+4 silver + a Named Man surrendered | A Named Man surrendered + 3D6+8 silver    |
 | 6   | Work (1 QD labor)     | Animals (livestock)      | A week of hosted supply + 2D6 silver   | Two weeks of hosted supply + 3D6+8 silver |
 
-**Named Man surrendered.** The settlement hands over its most capable fighter — a hunter-warrior, a returned soldier, a young man the elder would rather lose now than watch die in a fight the village cannot win. This person joins the band's roster at Veteran tier. If the elder convinced them it was better than the alternative, they start at loyalty 3. If handed over against their will, loyalty starts at 1 — they came because the elder sold them, and they will desert or inform against the band at the first credible opportunity unless the leader wins them over personally. Either way, the settlement loses that fighter permanently.
+**Named Man surrendered.** The settlement hands over its most capable fighter — a hunter-warrior, a returned soldier, a young man the elder would rather lose now than watch die in a fight the village cannot win. This person joins the band's roster at Veteran tier. If the elder convinced them it was better than the alternative, they start at Loyalty 3. If handed over against their will, Loyalty starts at 1 — they came because the elder sold them, and they will desert or inform against the band at the first credible opportunity unless the leader wins them over personally. Either way, the settlement loses that fighter permanently.
 
 > **Example:** The elder of Varbeck hands over a man called Galt — compact, a white scar below the ear, says nothing on the road north. He was not convinced. He was sold to keep the rest of the village housed through winter. His Loyalty starts at 1. He holds formation, reports accurately, eats what he is given. But when the Gristle fails to post a full watch on the third night, Galt counts the distance to the nearest tree line and says nothing about it to anyone.
 
 Each extra sword on a **MANIPULATION** roll allows the leader to choose freely from the tribute table rather than rolling, or to name a specific item. With 3+ swords, the settlement complies without argument, up to what it actually has.
 
-Each extra sword on an **INTIMIDATION** roll suppresses one revolt trigger. The first sword cancels the D6 combat roll on a failed push — the crowd backs down rather than drawing steel. The Standing and Feud Track consequences still apply.
+Each extra sword on an **INTIMIDATION** roll suppresses one revolt Trigger. The first sword cancels the D6 combat roll on a failed push — the crowd backs down rather than drawing steel. The Standing and Feud Track consequences still apply.
 
 On a failure with MANIPULATION, the settlement refuses and Standing drops by 1. The band can force the issue (see Pillaging) or back down.
 
@@ -1185,7 +1185,7 @@ Goods payment is always negotiated before the bounty is accepted. The collector 
 | Herbalist or healer in attendance for an agreed term              | 12–20 silver per tenday                            | The settlement's working healer accompanies the band. Wound treatment, daily poultice preparation, full HEALING rolls. One of the most practically valuable payments a band with an active injury rate can accept.                                                                                                                                                   |
 | Local knowledge — terrain maps, danger positions, routes          | 8–25 silver equivalent                             | A settlement that has survived ten years knows things no outsider can buy: where bandits shelter in winter, which passes close first, how the local lord's patrol runs. Specific intelligence on a hostile faction: 18–25 silver. Safe-route guidance: 8–12 silver.                                                                                                  |
 | Letters of safe conduct and guided passage                        | 5–20 silver equivalent                             | A sealed letter declaring the band under the poster's protection, plus a local guide who knows the roads. Without the guide, the letter is paper. Without the letter, the guide is goodwill. In settled land: 5–8 silver. In contested ground: 15–20 silver.                                                                                                         |
-| Guild favor — introduction, access, or standing                   | 20–80 silver equivalent                            | Not goods. Access. A trade guild opens markets at settled prices. A thief guild ensures their people will not lift from the band and provides one introduction to a fence or information source. One season or one specific use, whichever comes first. An unwitnessed bribe to a guild officer is not a favor.                                                      |
+| Guild favor — introduction, access, or Standing                   | 20–80 silver equivalent                            | Not goods. Access. A trade guild opens markets at settled prices. A thief guild ensures their people will not lift from the band and provides one introduction to a fence or information source. One season or one specific use, whichever comes first. An unwitnessed bribe to a guild officer is not a favor.                                                      |
 | Services of a named expert — surgeon, engineer, navigator         | 15–60 silver equivalent                            | A settlement's retired army surgeon, city engineer, or master huntsman pledges time. A surgeon's tenday: full HEALING rolls at no supplies cost. An engineer's week: direct construction credit. A navigator: halves travel time on unfamiliar waterways. The expert names conditions — they are not a hireling.                                                     |
 | Services of a local caster — pledged castings                     | 30–100 silver equivalent                           | A hedge sorcerer or village witch pledges two to three high-value castings or one substantial task. Terms set at acceptance. A caster pledge does not cover offensive sorcery the caster has not agreed to, and does not obligate the caster to join a fight. Agree the specific work before accepting.                                                              |
 | Services of a local wise — lore, translation, identification      | 10–40 silver equivalent                            | Translation of a document: 10–15 silver. Identification of an artifact's origin: 15–25 silver. Lore on a specific location: 12–20 silver. Genealogical research for a legal claim: 20–40 silver. A wise delivers what they know, not what the band wants to hear. A correct answer and an inconvenient answer are the same service.                                  |
@@ -1201,12 +1201,12 @@ Goods payment is always negotiated before the bounty is accepted. The collector 
 | A working river boat, two- to four-oarsman                        | 12–20 silver                                       | Useful to a band that moves along waterways. Requires the collection point to be accessible to water.                                                                                                                                                                                                                                                                |
 | A plow ox, working and healthy                                    | 8–12 silver                                        | High value in the right settlement. Difficult to move over rough terrain.                                                                                                                                                                                                                                                                                            |
 | A breeding pair of pigs or a small sheep flock                    | 3–6 silver                                         | Only practical if the collector has somewhere to keep them. Most often taken as part of a split payment alongside coin.                                                                                                                                                                                                                                              |
-| A standing protection contract — one full season                  | 50–120 silver equivalent (by band size)            | Payment in ongoing provisions, shelter, and standing. Skirmisher tier: 50–70 silver equivalent. Warband tier: 80–120 silver equivalent. Binds both parties for the season.                                                                                                                                                                                           |
+| A standing protection contract — one full season                  | 50–120 silver equivalent (by band size)            | Payment in ongoing provisions, shelter, and Standing. Skirmisher tier: 50–70 silver equivalent. Warband tier: 80–120 silver equivalent. Binds both parties for the season.                                                                                                                                                                                           |
 | A cleared farming plot with established soil                      | 50–120 silver                                      | Worked soil already broken, seeded, and drained. The Ravenlands run on presence and living memory, not written deeds — the band must hold what it accepts.                                                                                                                                                                                                           |
 | A house, outbuilding, and clear lot in a village                  | 50–100 silver                                      | Immovable. Materials alone for a solid wood structure: 20–40 silver. The band gains a legal presence in that settlement. Valuable if the band wants roots; worthless if it keeps moving.                                                                                                                                                                             |
 | A working craft building with tools — tanner, carpenter, cooper   | 30–70 silver                                       | A tanner's shed or carpenter's workshop plus specialist tools. Tools alone: 5–15 silver. Worth nothing to a band without a tradesman or a buyer.                                                                                                                                                                                                                     |
 | A working smithy forge with tools and iron stock                  | 80–160 silver                                      | The most expensive single-item payment short of a longhouse. A forge requires 60 iron in construction alone. The poster is offering part of what the settlement runs on.                                                                                                                                                                                             |
-| A guild house — meeting hall, locked store, charter rights        | 100–200 silver                                     | Not a building — a position. Charter rights take years to accumulate. The band inherits standing, outstanding debts, and a list of rivals.                                                                                                                                                                                                                           |
+| A guild house — meeting hall, locked store, charter rights        | 100–200 silver                                     | Not a building — a position. Charter rights take years to accumulate. The band inherits Standing, outstanding debts, and a list of rivals.                                                                                                                                                                                                                           |
 | A longhouse in a fortified settlement                             | 100–250 silver                                     | A significant stake. Space inside a fortified settlement is scarce and contested. The band becomes a stakeholder in the settlement's politics. The upper range applies to an established longhouse with storage and a hearth in a real fortified town.                                                                                                               |
 
 **Three problems arise on nearly every large goods bounty.**
@@ -1491,13 +1491,13 @@ Some captains run a company the way a man runs a dog — through pain and fear r
 
 A tyrant captain may substitute INTIMIDATION for MANIPULATION on all internal MORALE checks and discipline rolls. This works — until it doesn't. Track separately whether the band's MORALE is **Fear-Held**:
 
-- A **Fear-Held** band at MORALE 3 (Shaken) does not protest. It goes quiet. Individual Named Men begin pursuing private agendas and concealing information from the captain.
+- A **Fear-Held** band at MORALE 3 (Shaken) does not protest. It goes quiet. Individual Named Men begin pursuing private Agendas and concealing information from the captain.
 - A **Fear-Held** band at MORALE 2 (Wavering) will not break openly. It will leak — men leaving in the night, minor sabotage, no warning given when the situation turns.
 - A **Fear-Held** band at MORALE 1 (Broken) does not dissolve in front of the captain. It dissolves behind them.
 
-In a tyrant company, Loyalty for Named Men decays at the standard rate of 1 per trigger hit — the same speed as any other band. The difference is the floor. In a Fear-Held band, Loyalty can reach 0. At Loyalty 0, the Named Man has stopped weighing whether to leave. He is weighing when, and what he takes with him — information, equipment, or the man standing between him and the gate. A Named Man at Loyalty 0 will sell intelligence, sabotage a contract, or act against the captain the moment he calculates it is safe. The calculation usually arrives before the captain expects it.
+In a tyrant company, Loyalty for Named Men decays at the standard rate of 1 per Trigger hit — the same speed as any other band. The difference is the floor. In a Fear-Held band, Loyalty can reach 0. At Loyalty 0, the Named Man has stopped weighing whether to leave. He is weighing when, and what he takes with him — information, equipment, or the man standing between him and the gate. A Named Man at Loyalty 0 will sell intelligence, sabotage a contract, or act against the captain the moment he calculates it is safe. The calculation usually arrives before the captain expects it.
 
-The difference between Fear-Held and Trust-Held is not visible until it needs to be. Both bands look functional at MORALE 4. The distinction is what happens to the information when things go wrong — and where Named Men's loyalty actually sits. See **Trust-Held Bands** below.
+The difference between Fear-Held and Trust-Held is not visible until it needs to be. Both bands look functional at MORALE 4. The distinction is what happens to the information when things go wrong — and where Named Men's Loyalty actually sits. See **Trust-Held Bands** below.
 
 **Tyrant Punishments**
 
@@ -1530,7 +1530,7 @@ Trust-Held is not a higher MORALE ceiling. The table is the same. What changes i
 
 **Trust-Held mechanics:**
 
-**Loyalty decay halved.** Named Men in a Trust-Held band lose Loyalty at half the standard rate when triggers are hit. The bond was built on something. It takes more sustained failure to erode it.
+**Loyalty decay halved.** Named Men in a Trust-Held band lose Loyalty at half the standard rate when Triggers are hit. The bond was built on something. It takes more sustained failure to erode it.
 
 **The stay.** Once per season, when the captain fails a MORALE check, the GM may offer a Named Man with Loyalty 3 the chance to spend — to step forward, back the captain publicly, and hold the band together for one more day. If the Named Man does this, the MORALE cost that week is reduced by 1 step. The Named Man's Loyalty drops to 2 immediately. The bond cannot be spent again from the same Named Man until their Loyalty recovers to 3.
 
@@ -1540,7 +1540,7 @@ Trust-Held is not a higher MORALE ceiling. The table is the same. What changes i
 
 **Transition out of Trust-Held.** A band that was Trust-Held and drifts into fear management — a captain who increasingly substitutes INTIMIDATION for MANIPULATION, an atrocity the Named Men were ordered to carry out, a season of broken promises — loses Trust-Held status at the end of that season. The change costs MORALE -1. The men know what the company was. That knowledge is not comfort, but the specific grief of a thing that has become something else.
 
-**Transition into Trust-Held.** A Fear-Held band can earn Trust-Held status. The captain must pay reliably, address Named Men's triggers when they appear, and avoid using INTIMIDATION as a substitute for MANIPULATION through a full season without a loyalty break or a public trust violation. At the end of that season, the GM confirms the transition. It is slow, but not impossible. The men remember everything that happened before it, too — and that debt does not disappear because the band is now better.
+**Transition into Trust-Held.** A Fear-Held band can earn Trust-Held status. The captain must pay reliably, address Named Men's Triggers when they appear, and avoid using INTIMIDATION as a substitute for MANIPULATION through a full season without a Loyalty break or a public trust violation. At the end of that season, the GM confirms the transition. It is slow, but not impossible. The men remember everything that happened before it, too — and that debt does not disappear because the band is now better.
 
 > **Example — The Tyrant's Arithmetic**
 >
@@ -1552,7 +1552,7 @@ Trust-Held is not a higher MORALE ceiling. The table is the same. What changes i
 >
 > But Jorund's civilian-harm Trigger fires. The GM rolls against Jorund's Loyalty 2: one sword needed, none rolled. Jorund's Loyalty drops to 1. He does not leave. He does not speak. That night he eats his ration facing away from the fire and calculates whether the Greywood company is still hiring.
 >
-> Next week: late payment. MORALE drops to 2 (Wavering) from the automatic trigger. Hadric does not address the men — tyrant captains do not explain. Jorund, now at Loyalty 1, begins concealing information: he knows the south road is clear from a conversation with a trader, but he does not pass it to Hadric. He passes it to Margard, the other brother, privately.
+> Next week: late payment. MORALE drops to 2 (Wavering) from the automatic Trigger. Hadric does not address the men — tyrant captains do not explain. Jorund, now at Loyalty 1, begins concealing information: he knows the south road is clear from a conversation with a trader, but he does not pass it to Hadric. He passes it to Margard, the other brother, privately.
 >
 > The following week, Hadric wakes to an empty bedroll. Jorund is gone. He took his sword, his pack, and the knowledge of the band's next contract route. Hadric does not know why. In a Fear-Held band, no one tells you.
 
@@ -1580,7 +1580,7 @@ Trust-Held is not a higher MORALE ceiling. The table is the same. What changes i
 >
 > **Lying that cost blood** — telling the sergeant the left flank was clear when it wasn't, claiming to have been on watch, swearing a civilian was hostile to justify a killing — is handled faster than most things. There is no standard punishment. There is a standard outcome: the captain and the sergeant hear what happened, from everyone who was there. After that, the liar's word does not travel well. What follows depends on what the lie cost.
 >
-> **Violence against a civilian in an occupation zone** is an atrocity under Section 10, but within the company it is also a problem of management. Men who commit it once and understand why it was wrong are men the company can keep. Men who commit it and do not understand why it was wrong are a liability that will eventually cost the company a contract, a settlement's standing, or a night ambush from twenty relatives. The sergeant handles the distinction.
+> **Violence against a civilian in an occupation zone** is an atrocity under Section 10, but within the company it is also a problem of management. Men who commit it once and understand why it was wrong are men the company can keep. Men who commit it and do not understand why it was wrong are a liability that will eventually cost the company a contract, a settlement's Standing, or a night ambush from twenty relatives. The sergeant handles the distinction.
 >
 > **Sexual violence against a civilian** triggers automatic atrocity consequences regardless of Standing. Within the company, the captain's response determines whether the company is the kind of company that can hold a contract in settled areas. Most captains who want repeat work from employers know this and respond accordingly. Some do not. Their companies have a type of reputation, and the work that finds that reputation is the work that deserves it.
 >
@@ -1607,12 +1607,12 @@ Use this subsystem when the band is under sustained pressure — unpaid, hungry,
 **Triggers — the GM may call for an argument when:**
 
 - MORALE is 3 (Shaken) or lower at the end of a day
-- Two Named Men share a Loyalty trigger overlap or directly competing Agendas
+- Two Named Men share a Loyalty Trigger overlap or directly competing Agendas
 - The band has gone two or more days without pay, food, or rest
 - A member died today and no one has spoken about it
 - A direct order produced a bad outcome and the man who gave it is still giving orders
 
-When a trigger fires, the GM picks or rolls for two participants. If one is a Named Man, use their personality to color the opening. If both are Common fighters, the argument starts below them — in the ranks — and may pull Named Men in.
+When a Trigger fires, the GM picks or rolls for two participants. If one is a Named Man, use their personality to color the opening. If both are Common fighters, the argument starts below them — in the ranks — and may pull Named Men in.
 
 **The escalation ladder:** Arguments move through stages in order. Each stage ends when someone intervenes, or when the next stage begins.
 
@@ -1647,7 +1647,7 @@ If the argument is not rooted in an active grievance — a personal grudge, a Tr
 
 **Named Men and arguments:** A Named Man involved in a Stage 3 or 4 argument who loses rolls against their Loyalty. On a failure, their Loyalty drops by 1 — whatever broke the surface is still working. A Named Man who wins a Stage 4 argument gains no mechanical benefit, but their standing in the company rises: the GM should treat them as more respected by the rank and file for the remainder of the season.
 
-**Deliberate provocation:** A leader or Named Man may deliberately provoke an argument to draw out a rival's true loyalties or break a standoff between two factions in the band. This is MANIPULATION difficulty 3 — the difficulty of starting a fire without being seen as the one who dropped the torch.
+**Deliberate provocation:** A leader or Named Man may deliberately provoke an argument to draw out a rival's true Loyalties or break a standoff between two factions in the band. This is MANIPULATION difficulty 3 — the difficulty of starting a fire without being seen as the one who dropped the torch.
 
 **Agitating actions.** Not every bystander wants the argument to stop. No roll is required to push things further. The action lands and the stage responds.
 
@@ -1902,7 +1902,7 @@ When the captain dies, command does not pause. Someone steps forward or the band
 2. **Most senior Named Man** — if there is no sergeant, the Named Man with the longest service takes command. If two Named Men share the longest tenure, the one with higher Loyalty takes it. If still tied, the GM chooses and the other becomes the rival.
 3. **No one steps forward** — if no Named Man claims command within the current Quarter Day, the band dissolves. Common fighters scatter. Named Men depart individually. The fellowship keeps whatever gear and coin they hold personally.
 
-When a new captain takes command, immediately roll MORALE at +1 difficulty. This is the band testing whether the new voice holds. On a failure, one Named Man challenges the succession openly — the GM chooses which one, guided by Triggers and agendas. The challenge must be resolved by MANIPULATION or by the challenger leaving. It cannot be resolved by killing them without consequence.
+When a new captain takes command, immediately roll MORALE at +1 difficulty. This is the band testing whether the new voice holds. On a failure, one Named Man challenges the succession openly — the GM chooses which one, guided by Triggers and Agendas. The challenge must be resolved by MANIPULATION or by the challenger leaving. It cannot be resolved by killing them without consequence.
 
 The new captain inherits the band's active contracts, Standing at settlements, and any outstanding grievances. They do not inherit the previous captain's personal reputation — they build their own.
 
@@ -1936,7 +1936,7 @@ Mercenary campaigns end. The GM should recognize when the band's story has reach
 >
 > _Skalva did not use it himself. He did not need to._
 
-Named Men are veteran fighters with individual stats, names, personalities, and loyalty scores. They are not anonymous soldiers. They have opinions, histories, and lines they will not cross. They are also the band's most dangerous problem when things go wrong.
+Named Men are veteran fighters with individual stats, names, personalities, and Loyalty scores. They are not anonymous soldiers. They have opinions, histories, and lines they will not cross. They are also the band's most dangerous problem when things go wrong.
 
 **Guideline:** A Skirmisher band (3–6) operates with 1–2 Named Men. A Warband (7–20) supports 2–4. A Company (21–50) needs 4–8. These are guidelines, not caps — a band heavy on Named Men is expensive and politically complex; a band with too few has no sergeants and no institutional memory.
 
@@ -1947,7 +1947,7 @@ Assign each of the following. For personality, roll or choose from **Named Man P
 - **Tier:** Veteran or Elite (determines stats, see below)
 - **Role:** Their fighting specialty (Line, Skirmisher, or Brute — shapes attributes and skill emphasis)
 - **Loyalty:** 1, 2, or 3
-- **Trigger:** The thing that will break their loyalty
+- **Trigger:** The thing that will break their Loyalty
 - **Agenda:** What they want beyond pay
 
 Named Men are tracked individually. Record their stats on a separate NPC sheet. They are not anonymous soldiers — they can be Broken, recover, advance, and die in ways that matter to the story.
@@ -2025,7 +2025,7 @@ _Combat style_
 | -------------- | -------------------------- | ---------------------------------------------------------------- |
 | BERSERKER      | Veteran 1, Elite 2         | Requires a rage- or fury-based personality                       |
 | BRAWLER        | Veteran 1, Elite 2         | Preferred by men who grew up fighting without weapons            |
-| COLD-BLOODED   | Veteran 1, Elite 2         | Executioner types; will not coexist with a Civilian Harm trigger |
+| COLD-BLOODED   | Veteran 1, Elite 2         | Executioner types; will not coexist with a Civilian Harm Trigger |
 | DIRTY FIGHTING | Veteran 1, Elite 2         | Street-origin fighters                                           |
 | EXECUTIONER    | Veteran 1, Elite 2         | Requires willingness to end surrendered foes                     |
 | FIRM GRIP      | Veteran 1, Elite 2         | Grapplers, those who disarm well                                 |
@@ -2099,16 +2099,16 @@ Non-player Named Men recover 1 WP per day of downtime. If a Named Man transition
 | LOYALTY | MEANING                                                                                     |
 | ------- | ------------------------------------------------------------------------------------------- |
 | 3       | Trusted. Will not betray the band short of a direct command to do something they refuse.    |
-| 2       | Reliable. Will leave or act out if their trigger is hit; will not actively harm the band.   |
+| 2       | Reliable. Will leave or act out if their Trigger is hit; will not actively harm the band.   |
 | 1       | Self-interested. Will take coin elsewhere, sell information, or remain neutral in a crisis. |
 | 0       | Gone — or waiting to be. Fear-Held bands only.                                              |
 
-**Loyalty cap.** Loyalty cannot exceed 3. A positive trigger at Loyalty 3 does nothing — the man is already as loyal as a hired fighter gets. Loyalty cannot drop below 1 through normal triggers. At Loyalty 1, the Named Man is self-interested, not gone. Departure happens through a specific event: a Trigger hit at Loyalty 1, a second consecutive Trigger with no response, or a MORALE check failure at BROKEN.
+**Loyalty cap.** Loyalty cannot exceed 3. A positive Trigger at Loyalty 3 does nothing — the man is already as loyal as a hired fighter gets. Loyalty cannot drop below 1 through normal Triggers. At Loyalty 1, the Named Man is self-interested, not gone. Departure happens through a specific event: a Trigger hit at Loyalty 1, a second consecutive Trigger with no response, or a MORALE check failure at BROKEN.
 
 Loyalty changes over time:
 
-- +1 if the leader demonstrates genuine regard for the named man's wellbeing (healing their wounds, honoring their victory publicly, clearing a debt for them)
-- +1 on a consistent basis if loot shares are paid immediately after every combat haul, without the named man asking. This is equivalent to "paid on time" in what it signals. A captain who pays the line without being reminded is a different kind of captain from one who has to be cornered about it.
+- +1 if the leader demonstrates genuine regard for the Named Man's wellbeing (healing their wounds, honoring their victory publicly, clearing a debt for them)
+- +1 on a consistent basis if loot shares are paid immediately after every combat haul, without the Named Man asking. This is equivalent to "paid on time" in what it signals. A captain who pays the line without being reminded is a different kind of captain from one who has to be cornered about it.
 - −1 if their Trigger is triggered and the leader does nothing to address it
 - −1 per MORALE step the band falls below 3, each week
 
@@ -2186,7 +2186,7 @@ Every Named Man wants something beyond pay. Roll D6 or pick:
 | 5   | Land or a house — a place of their own                                        |
 | 6   | Something they lost: an heirloom, a title, a piece of truth they need to hear |
 
-The leader can invest in an agenda — helping a named man pursue it — and in return gain a bonus to MORALE (+1) when it succeeds and a bond that raises loyalty.
+The leader can invest in an Agenda — helping a Named Man pursue it — and in return gain a bonus to MORALE (+1) when it succeeds and a bond that raises Loyalty.
 
 ### Named Man Personalities
 
@@ -2307,13 +2307,13 @@ _Appearance: Not the biggest. Just the one standing when the others aren't._
 
 > **Example — The Named Man's Choice**
 >
-> Petter the Hook is a Veteran Line Man. Loyalty 2. Trigger: Left behind when wounded. The band is three days into a clearing contract — the lower chamber, where the air is thick with a smell like hot iron and scorched bristle, and something in the dark keeps charging the line — when the GM draws a trigger event. The Gristle calls a retreat after a bad fight. Brosa is down. The captain says: "Leave him. We cannot hold the position."
+> Petter the Hook is a Veteran Line Man. Loyalty 2. Trigger: Left behind when wounded. The band is three days into a clearing contract — the lower chamber, where the air is thick with a smell like hot iron and scorched bristle, and something in the dark keeps charging the line — when the GM draws a Trigger event. The Gristle calls a retreat after a bad fight. Brosa is down. The captain says: "Leave him. We cannot hold the position."
 >
-> Petter's trigger fires. Left behind when wounded. The GM rolls against Petter's Loyalty. He needs to beat difficulty 1 — the trigger's threshold. At Loyalty 2, he has room. He rolls: one sword. He holds. He follows the order. But his Loyalty drops to 1.
+> Petter's Trigger fires. Left behind when wounded. The GM rolls against Petter's Loyalty. He needs to beat difficulty 1 — the Trigger's threshold. At Loyalty 2, he has room. He rolls: one sword. He holds. He follows the order. But his Loyalty drops to 1.
 >
 > At the cookfire that night, Petter does not sit where he usually sits. He does not sharpen anything. He eats and goes to his bedroll early. Gest notices. The Gristle does not — or does, and says nothing.
 >
-> If Petter's Loyalty had been 1 when the trigger fired, he would have rolled with no margin. A failure and he leaves — walks out that night or refuses the next order and forces the captain to respond. If the band is Trust-Held, he tells the Gristle he is done and why. If it is Fear-Held, she finds the empty bedroll in the morning and has to guess.
+> If Petter's Loyalty had been 1 when the Trigger fired, he would have rolled with no margin. A failure and he leaves — walks out that night or refuses the next order and forces the captain to respond. If the band is Trust-Held, he tells the Gristle he is done and why. If it is Fear-Held, she finds the empty bedroll in the morning and has to guess.
 
 ---
 
@@ -2345,7 +2345,7 @@ _Appearance: Not the biggest. Just the one standing when the others aren't._
 >
 > _The men did not trust her at first. That took three months. What changed it was not the magic — it was the night Skalva broke his wrist in a fall and Ash set the bone with her hands, not sorcery, and sat with him until the swelling went down. After that, the men decided she was strange but useful, which was the highest compliment the band gave anyone._
 
-A hired caster is not a Named Man. They do not belong to the band in the same way, do not respond to the same pressures, and cannot be used for the same tasks. The rules for building them borrow the Named Man structure — attributes, skills, loyalty, triggers, agendas — but diverge in three places: their price, their power, and their reason for being there.
+A hired caster is not a Named Man. They do not belong to the band in the same way, do not respond to the same pressures, and cannot be used for the same tasks. The rules for building them borrow the Named Man structure — attributes, skills, Loyalty, triggers, Agendas — but diverge in three places: their price, their power, and their reason for being there.
 
 ### Hiring a Caster
 
@@ -2357,9 +2357,9 @@ When a caster agrees to terms, they do so in one of two ways.
 
 **Agenda terms.** The caster joins without a set price. They want something — passage to a location, a person found, an object recovered, a piece of information the band might encounter — and the captain's commitment to pursue that objective is the contract. Agenda casters draw no weekly coin. They stay until the objective resolves. Do not offer them coin in place of the objective. They will not take it.
 
-Initiates may take coin terms straightforwardly. Most Adepts and Masters prefer agenda terms or a combination of both. When approaching a caster who outranks the captain's network, offer the agenda first.
+Initiates may take coin terms straightforwardly. Most Adepts and Masters prefer Agenda terms or a combination of both. When approaching a caster who outranks the captain's network, offer the Agenda first.
 
-**Caster coin sustainability.** Coin terms make sense for an Initiate. An Adept at daily coin rates begins to strain a standard warband's income by month two of continuous employment: 12–18 silver per day equals 360–540 silver per 30-day period, before any other wages. If the band's average monthly contract income over the preceding 60 days falls below four times the caster's projected 30-day coin cost, the caster notices. At the end of that 30-day period, they set a 14-day payment deadline. The captain must cover the full owed sum, renegotiate to agenda terms, or the caster leaves on day 15 and retains any wage debt as a standing obligation.
+**Caster coin sustainability.** Coin terms make sense for an Initiate. An Adept at daily coin rates begins to strain a standard warband's income by month two of continuous employment: 12–18 silver per day equals 360–540 silver per 30-day period, before any other wages. If the band's average monthly contract income over the preceding 60 days falls below four times the caster's projected 30-day coin cost, the caster notices. At the end of that 30-day period, they set a 14-day payment deadline. The captain must cover the full owed sum, renegotiate to Agenda terms, or the caster leaves on day 15 and retains any wage debt as a standing obligation.
 
 For a Master caster at coin terms: sustainable only under extraordinary income. A Master draws 25+ silver per day — 750+ per 30-day period — more than a protection season pays in 91 days. A captain who agrees to coin terms with a Master should understand this arithmetic before signing. Agenda terms exist precisely because Masters do not want coin. Ask what they want.
 
@@ -2380,7 +2380,7 @@ Three tiers of hired caster, differing in raw ability, spell rank access, and th
 | Wits      | 4     |
 | Empathy   | 3     |
 
-Daily rate: **5–8 silver** (minimum). Coin or agenda terms.
+Daily rate: **5–8 silver** (minimum). Coin or Agenda terms.
 
 Disciplines: 1 discipline. Spell rank: **up to rank 2** within that discipline.
 
@@ -2401,7 +2401,7 @@ Daily rate: **12–18 silver** (minimum). Agenda terms as common as coin.
 
 Disciplines: 1 discipline at spell rank **up to rank 3**; or 2 disciplines at rank **up to rank 2** each.
 
-An Adept has a built reputation within their discipline. They have cast at rank 3 and lived with the results. At this tier, a captain who leads with coin and gets the agenda wrong loses their opportunity. Offer the agenda first.
+An Adept has a built reputation within their discipline. They have cast at rank 3 and lived with the results. At this tier, a captain who leads with coin and gets the Agenda wrong loses their opportunity. Offer the Agenda first.
 
 ---
 
@@ -2580,13 +2580,13 @@ Mercenary work runs on social friction — contract negotiations, parley, counci
 
 A band that holds a position for more than a day has time to lay defensive magic, and a druid who knows how to use it.
 
-**Nature's Watch** covers the perimeter with animal alarms — the whole camp watched through sleep without a guard rotation. **Portent** placed on approach routes breaks or signals when specified conditions are met: armed men crossing the west tree line, a gate opened by outsiders, a river ford taken. Set the trigger accurately. A **Portent** keyed to anyone crossing the north ford will trip when the supply cart returns. False alerts erode watch discipline more reliably than absence of alerts. **Arcane Mark** on the treasury coffer gives the Warmaster its direction at all times and one listening window per ritual casting — no substituted replacement box survives it. **Bind Magic** sleeps a spell in an object until a trigger fires, which means the treasury door that sets off a concealed alarm when opened without a key phrase is doing that work while the druid sleeps somewhere else.
+**Nature's Watch** covers the perimeter with animal alarms — the whole camp watched through sleep without a guard rotation. **Portent** placed on approach routes breaks or signals when specified conditions are met: armed men crossing the west tree line, a gate opened by outsiders, a river ford taken. Set the Trigger accurately. A **Portent** keyed to anyone crossing the north ford will trip when the supply cart returns. False alerts erode watch discipline more reliably than absence of alerts. **Arcane Mark** on the treasury coffer gives the Warmaster its direction at all times and one listening window per ritual casting — no substituted replacement box survives it. **Bind Magic** sleeps a spell in an object until a Trigger fires, which means the treasury door that sets off a concealed alarm when opened without a key phrase is doing that work while the druid sleeps somewhere else.
 
 These are tools for positions the band holds through a sustained campaign, not for camps broken before dawn.
 
 > **Example — The Ford That Cried Wolf**
 >
-> Ash sets a **Portent** on the north ford. The trigger: armed men crossing. The band settles into garrison.
+> Ash sets a **Portent** on the north ford. The Trigger: armed men crossing. The band settles into garrison.
 >
 > Day two: the Portent fires. Skalva and two fighters run to the ford in half-kit. It is the supply cart driver, returning with a wood axe on his belt. Armed man. Trigger met. False alarm.
 >
@@ -2596,7 +2596,7 @@ These are tools for positions the band holds through a sustained campaign, not f
 >
 > Day six, the ford: eight riders with spears cross the north ford at dusk. No one is there to meet them. They reach the outer perimeter before the guard rotation catches the movement.
 >
-> The lesson costs the band a scrambled defense, two wounded fighters, and one lost horse. Ash re-keys the Portent the next morning: three or more armed men, on foot or mounted, approaching from the north between dusk and dawn. Tighter trigger, fewer fires. The first week taught her what the spell needed to know.
+> The lesson costs the band a scrambled defense, two wounded fighters, and one lost horse. Ash re-keys the Portent the next morning: three or more armed men, on foot or mounted, approaching from the north between dusk and dawn. Tighter Trigger, fewer fires. The first week taught her what the spell needed to know.
 
 #### What Magic Cannot Do
 
@@ -2637,7 +2637,7 @@ Path: PATH OF HEALING rank 2 | General Spells rank 1
 Spells: **Healing Hands**, **Nature's Cure**, **Preserve**, **Mend Wounds**
 Armor: none | Weapon: Staff
 Trigger: Forced to let someone die who could have been saved
-Agenda: A debt to a village that sheltered them — they will repay it, and whoever helps them get there has their loyalty until it is done
+Agenda: A debt to a village that sheltered them — they will repay it, and whoever helps them get there has their Loyalty until it is done
 _Appearance: Smells of bark and wet wool. Unhurried. Watches the wounded before anyone else does._
 
 ---
@@ -2666,7 +2666,7 @@ _Appearance: Dresses better than the situation warrants. Carries a knife they cl
 
 ### Caster Agendas
 
-Unlike fighter Named Men, caster agendas tend toward the personal, the ideological, or the specific. Roll D6 or assign:
+Unlike fighter Named Men, caster Agendas tend toward the personal, the ideological, or the specific. Roll D6 or assign:
 
 | D6  | AGENDA                                                                                                |
 | --- | ----------------------------------------------------------------------------------------------------- |
@@ -2686,15 +2686,15 @@ Unlike fighter Named Men, caster agendas tend toward the personal, the ideologic
 | 3   | A written or spoken agreement changed after the fact without their consent                     |
 | 4   | Credit for their work taken by the captain in front of a patron or employer                    |
 | 5   | Their discipline treated as something to be feared, hidden, or apologized for                  |
-| 6   | Their personal agenda dismissed as unimportant by whoever they report to                       |
+| 6   | Their personal Agenda dismissed as unimportant by whoever they report to                       |
 
 ### Caster Loyalty
 
-Hired casters do not use the Named Men Loyalty scale. Their commitment is governed by their contract terms — coin or agenda — not by a numbered score that rises and falls with shared hardship.
+Hired casters do not use the Named Men Loyalty scale. Their commitment is governed by their contract terms — coin or Agenda — not by a numbered score that rises and falls with shared hardship.
 
 A caster on coin terms stays as long as paid. If payment lapses, the non-payment rules above apply by tier: Initiates grumble like common fighters, Adepts withdraw magical services, Masters disappear.
 
-A caster on agenda terms stays as long as the agenda is progressing. Progress does not require resolution — it requires visible effort. A captain who takes contracts that move the band toward the caster's objective, who asks about it at council, who allocates a Quarter Day to pursue a lead — that captain keeps the caster. A captain who lets the agenda sit untouched for a full season with no visible effort loses the caster. No roll. No warning. The caster packed their kit the night before and was gone by first light.
+A caster on Agenda terms stays as long as the Agenda is progressing. Progress does not require resolution — it requires visible effort. A captain who takes contracts that move the band toward the caster's objective, who asks about it at council, who allocates a Quarter Day to pursue a lead — that captain keeps the caster. A captain who lets the Agenda sit untouched for a full season with no visible effort loses the caster. No roll. No warning. The caster packed their kit the night before and was gone by first light.
 
 When a caster's Trigger fires, the response follows their tier rather than a Loyalty roll:
 
@@ -2702,7 +2702,7 @@ When a caster's Trigger fires, the response follows their tier rather than a Loy
 - **Adept:** Withdraws magical services for 1D6 days. Does not cast, does not scout, does not heal. Eats the band's food and watches.
 - **Master:** Leaves. Often takes something — an ingredient cache, an intelligence map, a piece of knowledge the band did not know they had shared. The captain discovers the loss over the following week.
 
-A caster whose Trigger fires twice in the same season leaves regardless of tier, contract, or agenda. The second time is the answer.
+A caster whose Trigger fires twice in the same season leaves regardless of tier, contract, or Agenda. The second time is the answer.
 
 ### Caster Personalities
 
@@ -2770,7 +2770,7 @@ When a member of the band becomes wanted, the bounty amount determines how far t
 | 150–400s  | Wide. Serious money by field standards — competes with a clearing, raid, or short garrison. Mercenary bands take notice. Spreads with every trading caravan within a season. |
 | Over 400s | Famous. Full contract-equivalent or better. Worth diverting active operations. Travels with every caravan and rumor for a year. Even trusted allies weigh the number.        |
 
-**Effect of being wanted.** At any settlement within spread range, the GM may trigger: gate guards asking pointed questions, an innkeeper sending word, a competing band taking the contract, or a Named Man at Loyalty 1 considering whether selling the information is safer.
+**Effect of being wanted.** At any settlement within spread range, the GM may Trigger: gate guards asking pointed questions, an innkeeper sending word, a competing band taking the contract, or a Named Man at Loyalty 1 considering whether selling the information is safer.
 
 **Sheltering wanted men.** If the fellowship shelters a wanted band member, they absorb reputational exposure. A settlement that discovers this may demand surrender of the wanted person or penalize Standing by -1 to -2. If the leader publicly harbors the wanted person, the bounty's spread now includes that stronghold.
 
@@ -2818,7 +2818,7 @@ An atrocity is an act that crosses a visible line — visible enough that it def
 
 **Plunder and MORALE.** The +1 from "atrocity ordered, men gained plunder" fires only when MORALE is currently 2 or below. At MORALE 3+, the men do not need blood-money to hold together. The atrocity still produces plunder and still forces Standing and Reputation consequences. It does not move MORALE when the band is stable.
 
-This makes the atrocity-plunder trigger a desperation tool. A Tyrant captain who orders atrocities at MORALE 4 gains nothing from the trigger table. The Standing and Reputation damage accrues without the MORALE payoff. At MORALE 2, the same order buys one step. The system does not moralize — it accounts for when cruelty has leverage and when it has only cost.
+This makes the atrocity-plunder Trigger a desperation tool. A Tyrant captain who orders atrocities at MORALE 4 gains nothing from the Trigger table. The Standing and Reputation damage accrues without the MORALE payoff. At MORALE 2, the same order buys one step. The system does not moralize — it accounts for when cruelty has leverage and when it has only cost.
 
 **Oath-Breaker Status.** Repeat contract breaches, betrayals, and broken oaths accumulate into an OATH-BREAKER flag.
 
@@ -2993,7 +2993,7 @@ The captain gives orders. The fellowship may find those orders wrong, dangerous,
 >
 > The ridge holders break. Two men die. Maren's position in the tree line survives contact and links up with the wagons that evening on the south road.
 >
-> Now the reckoning. Maren rolls MANIPULATION at difficulty 2 to explain the decision. She rolls two swords — success. Torsten listens. He does not agree. He says: "The ridge held long enough because your men were not there to break first. That is not the same as being right." Maren is not punished. But the First Blade pulls her aside that night and tells her that the three men who followed her off the ridge are now known as hers. That loyalty is real. It is also noticed. The next order Torsten gives her will be the one that tests whether she follows or leads.
+> Now the reckoning. Maren rolls MANIPULATION at difficulty 2 to explain the decision. She rolls two swords — success. Torsten listens. He does not agree. He says: "The ridge held long enough because your men were not there to break first. That is not the same as being right." Maren is not punished. But the First Blade pulls her aside that night and tells her that the three men who followed her off the ridge are now known as hers. That Loyalty is real. It is also noticed. The next order Torsten gives her will be the one that tests whether she follows or leads.
 
 ### Leaving the Company
 
@@ -3017,7 +3017,7 @@ On failure: the mutiny collapses. Each Named Man who participated rolls Loyalty 
 >
 > Three Named Men refuse. Held the Pale, Loyalty 3, has a civilian-harm Trigger. Rost, Loyalty 2, fought beside these villagers once. Maren, who carries a call name, has served six months under Torsten's orders and owes the elder a personal debt from the first contract.
 >
-> The witnessed trigger is clear: Torsten is ordering an atrocity against people the company has history with. The three Named Men stand in the road. The senior mutineer is Held — longest service, highest rank among the challengers.
+> The witnessed Trigger is clear: Torsten is ordering an atrocity against people the company has history with. The three Named Men stand in the road. The senior mutineer is Held — longest service, highest rank among the challengers.
 >
 > Held rolls MANIPULATION at difficulty 3. He has EMP 3, MANIPULATION 2 — five dice. He rolls: two swords. Success.
 >
@@ -3087,7 +3087,7 @@ A Host is the top tier of this system — multiple bands operating under a share
 
 Most bands have no caster. A sword, a MANIPULATION roll, and enough food — that is the equipment a mercenary band runs on. Magic in the Ravenlands is not common property, but learned slowly from living masters who want something in return, and the men who complete that training are rare and expensive. A seasoned caster with rank 2 or higher in any discipline is a Named Man of first quality. They come at elevated rates: 4 to 8 silver per day for a competent rank 1, 10 to 20 silver for rank 2, and rank 3 casters who work for a mercenary company ask something beyond coin.
 
-A Host at sufficient scale — Company size or larger, running on money from a major employer — can retain a caster on staff. They do not command loyalty. They retain attention. The distinction matters.
+A Host at sufficient scale — Company size or larger, running on money from a major employer — can retain a caster on staff. They do not command Loyalty. They retain attention. The distinction matters.
 
 **Caster access by Host tier:**
 
@@ -3109,7 +3109,7 @@ A Warmaster gives operational orders. Band captains follow them — or do not. T
 
 When the PCs' band receives a Warmaster order they want to refuse or modify, the captain makes a MANIPULATION roll at difficulty equal to the Warmaster's REPUTATION divided by 2 (round up, minimum 1). On success, the objection is heard and a compromise is negotiated. On failure, the order stands as given. Openly defying a Warmaster order without even attempting the roll costs MORALE −1 and is noted.
 
-A Warmaster who fails to pay, fails to supply, or gives orders that result in serious band casualties without acknowledged cause may be challenged. A band captain with REPUTATION 3+ may formally contest the Warmaster's leadership: one MANIPULATION roll opposed by the Warmaster's. If the PC wins, their band detaches under the GRIEVANCE mechanic without triggering a full Atrocity. If they lose, the Warmaster may demand a loyalty demonstration.
+A Warmaster who fails to pay, fails to supply, or gives orders that result in serious band casualties without acknowledged cause may be challenged. A band captain with REPUTATION 3+ may formally contest the Warmaster's leadership: one MANIPULATION roll opposed by the Warmaster's. If the PC wins, their band detaches under the GRIEVANCE mechanic without triggering a full Atrocity. If they lose, the Warmaster may demand a Loyalty demonstration.
 
 ### The Warmaster's Alignment
 
@@ -3123,7 +3123,7 @@ A band serving under a faction Warmaster is treated as Allegiance 1 toward that 
 
 ### Supply at Host Scale
 
-Individual bands within a Host do not forage independently by default. The Host has a combined supply requirement — add every band's daily FOOD total. The Warmaster or a designated logistics officer handles provisioning. Each band receives its share at the end of each Quarter Day. If the supply line is disrupted, each individual band rolls against its own provisions. A band with enough stores sustains itself. A band without stores falls into the standard unpaid/unfed MORALE trigger chain immediately — the Host's shared logistics do not protect a band that ran its own stores dry.
+Individual bands within a Host do not forage independently by default. The Host has a combined supply requirement — add every band's daily FOOD total. The Warmaster or a designated logistics officer handles provisioning. Each band receives its share at the end of each Quarter Day. If the supply line is disrupted, each individual band rolls against its own provisions. A band with enough stores sustains itself. A band without stores falls into the standard unpaid/unfed MORALE Trigger chain immediately — the Host's shared logistics do not protect a band that ran its own stores dry.
 
 ### Host Treasury
 
@@ -3155,7 +3155,7 @@ Each band draws from the Host treasury at a fixed rate, tracked by a purser — 
 | Warband (7–20)    | 49–140 silver  | 10–15 silver          |
 | Company (21–50)   | 147–350 silver | 20–30 silver          |
 
-A band that exceeds its local budget without authorization draws against the next week's allocation. Two consecutive overruns trigger a purser review.
+A band that exceeds its local budget without authorization draws against the next week's allocation. Two consecutive overruns Trigger a purser review.
 
 **Deferred pay:** When the treasury is short, the Warmaster may declare a deferral: pay is delayed, not cut. Each week of deferral is recorded. The Warmaster takes -1 to their authority roll at the next Host Council while deferred pay is outstanding. A deferred debt that goes three weeks unpaid becomes a GRIEVANCE.
 
@@ -3362,7 +3362,7 @@ A Ledger that hits -6 triggers automatic dissolution unless the Warmaster resign
 
 Hosts end. Some cleanly. Most do not.
 
-**Clean dissolution:** Campaign objective complete, all obligations honored. The Warmaster announces dissolution at a final council. Each band receives full outstanding pay from the treasury reserve. Equipment drawn on Host allocation is returned or purchased at a negotiated price. Bands separate with standing intact. The Warmaster retains credit for the Host's accomplishments. Each captain walks away with whatever Allegiance they earned.
+**Clean dissolution:** Campaign objective complete, all obligations honored. The Warmaster announces dissolution at a final council. Each band receives full outstanding pay from the treasury reserve. Equipment drawn on Host allocation is returned or purchased at a negotiated price. Bands separate with Standing intact. The Warmaster retains credit for the Host's accomplishments. Each captain walks away with whatever Allegiance they earned.
 
 **Contractual dissolution:** The employer discharges the Host before the objective is complete. If the contract specified an early-termination fee, the Warmaster collects and distributes proportionally. If it did not, the Warmaster negotiates — MANIPULATION at the faction's standard difficulty. Bands receive a pro-rated share of whatever was collected. Captains who signed directly with the employer, not through the Warmaster, may press their own claims.
 
@@ -3479,7 +3479,7 @@ _Dwarf and Fighter both key Strength — maximum Strength at creation is 6._
 
 **Hargamar** — _Dwarf. Veteran._
 
-Older than Petter and quieter. He was a stoneworker in the quarries south of the Amber Peaks until the quarry stopped paying, and then he picked up a sword because the sword paid, which he will tell you is the only reason anyone picks up a sword. He holds the center of a shield wall without being told. He has no named agenda. He has the specific competence of a man who has learned to be useful in exactly one situation and made peace with it.
+Older than Petter and quieter. He was a stoneworker in the quarries south of the Amber Peaks until the quarry stopped paying, and then he picked up a sword because the sword paid, which he will tell you is the only reason anyone picks up a sword. He holds the center of a shield wall without being told. He has no named Agenda. He has the specific competence of a man who has learned to be useful in exactly one situation and made peace with it.
 
 _Dwarf · Fighter · Old_ **WP Max 6**
 
@@ -3553,7 +3553,7 @@ _Human · Fighter · Young_ **WP Max 8**
 
 **Ferrec** — _Human. Common._
 
-Thief. Not by profession, just by character — the kind of man who weights a scale in his favor wherever a scale appears, which extends to coins in other men's kits, loyalties, information, and blame. He has a flat-boned face and dark, quick eyes and the particular talent of appearing to be somewhere else when things go wrong. He is useful in three situations and dangerous in the other twenty. The Gristle knows this. She has not yet decided what to do about it.
+Thief. Not by profession, just by character — the kind of man who weights a scale in his favor wherever a scale appears, which extends to coins in other men's kits, Loyalties, information, and blame. He has a flat-boned face and dark, quick eyes and the particular talent of appearing to be somewhere else when things go wrong. He is useful in three situations and dangerous in the other twenty. The Gristle knows this. She has not yet decided what to do about it.
 
 _Human · Rogue · Adult_ **WP Max 7**
 

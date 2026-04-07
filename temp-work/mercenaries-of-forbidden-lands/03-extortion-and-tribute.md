@@ -92,13 +92,13 @@ Settlements that reach Feud Track 3 or 4 after INTIMIDATION tribute post better-
 | 5   | 2D6 FOOD + 1 tool     | 2D6+2 silver + equipment | 3D6+4 silver + a Named Man surrendered | A Named Man surrendered + 3D6+8 silver    |
 | 6   | Work (1 QD labor)     | Animals (livestock)      | A week of hosted supply + 2D6 silver   | Two weeks of hosted supply + 3D6+8 silver |
 
-**Named Man surrendered.** The settlement hands over its most capable fighter — a hunter-warrior, a returned soldier, a young man the elder would rather lose now than watch die in a fight the village cannot win. This person joins the band's roster at Veteran tier. If the elder convinced them it was better than the alternative, they start at loyalty 3. If handed over against their will, loyalty starts at 1 — they came because the elder sold them, and they will desert or inform against the band at the first credible opportunity unless the leader wins them over personally. Either way, the settlement loses that fighter permanently.
+**Named Man surrendered.** The settlement hands over its most capable fighter — a hunter-warrior, a returned soldier, a young man the elder would rather lose now than watch die in a fight the village cannot win. This person joins the band's roster at Veteran tier. If the elder convinced them it was better than the alternative, they start at Loyalty 3. If handed over against their will, Loyalty starts at 1 — they came because the elder sold them, and they will desert or inform against the band at the first credible opportunity unless the leader wins them over personally. Either way, the settlement loses that fighter permanently.
 
 > **Example:** The elder of Varbeck hands over a man called Galt — compact, a white scar below the ear, says nothing on the road north. He was not convinced. He was sold to keep the rest of the village housed through winter. His Loyalty starts at 1. He holds formation, reports accurately, eats what he is given. But when the Gristle fails to post a full watch on the third night, Galt counts the distance to the nearest tree line and says nothing about it to anyone.
 
 Each extra sword on a **MANIPULATION** roll allows the leader to choose freely from the tribute table rather than rolling, or to name a specific item. With 3+ swords, the settlement complies without argument, up to what it actually has.
 
-Each extra sword on an **INTIMIDATION** roll suppresses one revolt trigger. The first sword cancels the D6 combat roll on a failed push — the crowd backs down rather than drawing steel. The Standing and Feud Track consequences still apply.
+Each extra sword on an **INTIMIDATION** roll suppresses one revolt Trigger. The first sword cancels the D6 combat roll on a failed push — the crowd backs down rather than drawing steel. The Standing and Feud Track consequences still apply.
 
 On a failure with MANIPULATION, the settlement refuses and Standing drops by 1. The band can force the issue (see Pillaging) or back down.
 

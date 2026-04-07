@@ -26,7 +26,7 @@
 >
 > _The men did not trust her at first. That took three months. What changed it was not the magic — it was the night Skalva broke his wrist in a fall and Ash set the bone with her hands, not sorcery, and sat with him until the swelling went down. After that, the men decided she was strange but useful, which was the highest compliment the band gave anyone._
 
-A hired caster is not a Named Man. They do not belong to the band in the same way, do not respond to the same pressures, and cannot be used for the same tasks. The rules for building them borrow the Named Man structure — attributes, skills, loyalty, triggers, agendas — but diverge in three places: their price, their power, and their reason for being there.
+A hired caster is not a Named Man. They do not belong to the band in the same way, do not respond to the same pressures, and cannot be used for the same tasks. The rules for building them borrow the Named Man structure — attributes, skills, Loyalty, triggers, Agendas — but diverge in three places: their price, their power, and their reason for being there.
 
 ### Hiring a Caster
 
@@ -38,9 +38,9 @@ When a caster agrees to terms, they do so in one of two ways.
 
 **Agenda terms.** The caster joins without a set price. They want something — passage to a location, a person found, an object recovered, a piece of information the band might encounter — and the captain's commitment to pursue that objective is the contract. Agenda casters draw no weekly coin. They stay until the objective resolves. Do not offer them coin in place of the objective. They will not take it.
 
-Initiates may take coin terms straightforwardly. Most Adepts and Masters prefer agenda terms or a combination of both. When approaching a caster who outranks the captain's network, offer the agenda first.
+Initiates may take coin terms straightforwardly. Most Adepts and Masters prefer Agenda terms or a combination of both. When approaching a caster who outranks the captain's network, offer the Agenda first.
 
-**Caster coin sustainability.** Coin terms make sense for an Initiate. An Adept at daily coin rates begins to strain a standard warband's income by month two of continuous employment: 12–18 silver per day equals 360–540 silver per 30-day period, before any other wages. If the band's average monthly contract income over the preceding 60 days falls below four times the caster's projected 30-day coin cost, the caster notices. At the end of that 30-day period, they set a 14-day payment deadline. The captain must cover the full owed sum, renegotiate to agenda terms, or the caster leaves on day 15 and retains any wage debt as a standing obligation.
+**Caster coin sustainability.** Coin terms make sense for an Initiate. An Adept at daily coin rates begins to strain a standard warband's income by month two of continuous employment: 12–18 silver per day equals 360–540 silver per 30-day period, before any other wages. If the band's average monthly contract income over the preceding 60 days falls below four times the caster's projected 30-day coin cost, the caster notices. At the end of that 30-day period, they set a 14-day payment deadline. The captain must cover the full owed sum, renegotiate to Agenda terms, or the caster leaves on day 15 and retains any wage debt as a standing obligation.
 
 For a Master caster at coin terms: sustainable only under extraordinary income. A Master draws 25+ silver per day — 750+ per 30-day period — more than a protection season pays in 91 days. A captain who agrees to coin terms with a Master should understand this arithmetic before signing. Agenda terms exist precisely because Masters do not want coin. Ask what they want.
 
@@ -61,7 +61,7 @@ Three tiers of hired caster, differing in raw ability, spell rank access, and th
 | Wits      | 4     |
 | Empathy   | 3     |
 
-Daily rate: **5–8 silver** (minimum). Coin or agenda terms.
+Daily rate: **5–8 silver** (minimum). Coin or Agenda terms.
 
 Disciplines: 1 discipline. Spell rank: **up to rank 2** within that discipline.
 
@@ -82,7 +82,7 @@ Daily rate: **12–18 silver** (minimum). Agenda terms as common as coin.
 
 Disciplines: 1 discipline at spell rank **up to rank 3**; or 2 disciplines at rank **up to rank 2** each.
 
-An Adept has a built reputation within their discipline. They have cast at rank 3 and lived with the results. At this tier, a captain who leads with coin and gets the agenda wrong loses their opportunity. Offer the agenda first.
+An Adept has a built reputation within their discipline. They have cast at rank 3 and lived with the results. At this tier, a captain who leads with coin and gets the Agenda wrong loses their opportunity. Offer the Agenda first.
 
 ---
 
@@ -261,13 +261,13 @@ Mercenary work runs on social friction — contract negotiations, parley, counci
 
 A band that holds a position for more than a day has time to lay defensive magic, and a druid who knows how to use it.
 
-**Nature's Watch** covers the perimeter with animal alarms — the whole camp watched through sleep without a guard rotation. **Portent** placed on approach routes breaks or signals when specified conditions are met: armed men crossing the west tree line, a gate opened by outsiders, a river ford taken. Set the trigger accurately. A **Portent** keyed to anyone crossing the north ford will trip when the supply cart returns. False alerts erode watch discipline more reliably than absence of alerts. **Arcane Mark** on the treasury coffer gives the Warmaster its direction at all times and one listening window per ritual casting — no substituted replacement box survives it. **Bind Magic** sleeps a spell in an object until a trigger fires, which means the treasury door that sets off a concealed alarm when opened without a key phrase is doing that work while the druid sleeps somewhere else.
+**Nature's Watch** covers the perimeter with animal alarms — the whole camp watched through sleep without a guard rotation. **Portent** placed on approach routes breaks or signals when specified conditions are met: armed men crossing the west tree line, a gate opened by outsiders, a river ford taken. Set the Trigger accurately. A **Portent** keyed to anyone crossing the north ford will trip when the supply cart returns. False alerts erode watch discipline more reliably than absence of alerts. **Arcane Mark** on the treasury coffer gives the Warmaster its direction at all times and one listening window per ritual casting — no substituted replacement box survives it. **Bind Magic** sleeps a spell in an object until a Trigger fires, which means the treasury door that sets off a concealed alarm when opened without a key phrase is doing that work while the druid sleeps somewhere else.
 
 These are tools for positions the band holds through a sustained campaign, not for camps broken before dawn.
 
 > **Example — The Ford That Cried Wolf**
 >
-> Ash sets a **Portent** on the north ford. The trigger: armed men crossing. The band settles into garrison.
+> Ash sets a **Portent** on the north ford. The Trigger: armed men crossing. The band settles into garrison.
 >
 > Day two: the Portent fires. Skalva and two fighters run to the ford in half-kit. It is the supply cart driver, returning with a wood axe on his belt. Armed man. Trigger met. False alarm.
 >
@@ -277,7 +277,7 @@ These are tools for positions the band holds through a sustained campaign, not f
 >
 > Day six, the ford: eight riders with spears cross the north ford at dusk. No one is there to meet them. They reach the outer perimeter before the guard rotation catches the movement.
 >
-> The lesson costs the band a scrambled defense, two wounded fighters, and one lost horse. Ash re-keys the Portent the next morning: three or more armed men, on foot or mounted, approaching from the north between dusk and dawn. Tighter trigger, fewer fires. The first week taught her what the spell needed to know.
+> The lesson costs the band a scrambled defense, two wounded fighters, and one lost horse. Ash re-keys the Portent the next morning: three or more armed men, on foot or mounted, approaching from the north between dusk and dawn. Tighter Trigger, fewer fires. The first week taught her what the spell needed to know.
 
 #### What Magic Cannot Do
 
@@ -318,7 +318,7 @@ Path: PATH OF HEALING rank 2 | General Spells rank 1
 Spells: **Healing Hands**, **Nature's Cure**, **Preserve**, **Mend Wounds**
 Armor: none | Weapon: Staff
 Trigger: Forced to let someone die who could have been saved
-Agenda: A debt to a village that sheltered them — they will repay it, and whoever helps them get there has their loyalty until it is done
+Agenda: A debt to a village that sheltered them — they will repay it, and whoever helps them get there has their Loyalty until it is done
 _Appearance: Smells of bark and wet wool. Unhurried. Watches the wounded before anyone else does._
 
 ---
@@ -347,7 +347,7 @@ _Appearance: Dresses better than the situation warrants. Carries a knife they cl
 
 ### Caster Agendas
 
-Unlike fighter Named Men, caster agendas tend toward the personal, the ideological, or the specific. Roll D6 or assign:
+Unlike fighter Named Men, caster Agendas tend toward the personal, the ideological, or the specific. Roll D6 or assign:
 
 | D6  | AGENDA                                                                                                |
 | --- | ----------------------------------------------------------------------------------------------------- |
@@ -367,15 +367,15 @@ Unlike fighter Named Men, caster agendas tend toward the personal, the ideologic
 | 3   | A written or spoken agreement changed after the fact without their consent                     |
 | 4   | Credit for their work taken by the captain in front of a patron or employer                    |
 | 5   | Their discipline treated as something to be feared, hidden, or apologized for                  |
-| 6   | Their personal agenda dismissed as unimportant by whoever they report to                       |
+| 6   | Their personal Agenda dismissed as unimportant by whoever they report to                       |
 
 ### Caster Loyalty
 
-Hired casters do not use the Named Men Loyalty scale. Their commitment is governed by their contract terms — coin or agenda — not by a numbered score that rises and falls with shared hardship.
+Hired casters do not use the Named Men Loyalty scale. Their commitment is governed by their contract terms — coin or Agenda — not by a numbered score that rises and falls with shared hardship.
 
 A caster on coin terms stays as long as paid. If payment lapses, the non-payment rules above apply by tier: Initiates grumble like common fighters, Adepts withdraw magical services, Masters disappear.
 
-A caster on agenda terms stays as long as the agenda is progressing. Progress does not require resolution — it requires visible effort. A captain who takes contracts that move the band toward the caster's objective, who asks about it at council, who allocates a Quarter Day to pursue a lead — that captain keeps the caster. A captain who lets the agenda sit untouched for a full season with no visible effort loses the caster. No roll. No warning. The caster packed their kit the night before and was gone by first light.
+A caster on Agenda terms stays as long as the Agenda is progressing. Progress does not require resolution — it requires visible effort. A captain who takes contracts that move the band toward the caster's objective, who asks about it at council, who allocates a Quarter Day to pursue a lead — that captain keeps the caster. A captain who lets the Agenda sit untouched for a full season with no visible effort loses the caster. No roll. No warning. The caster packed their kit the night before and was gone by first light.
 
 When a caster's Trigger fires, the response follows their tier rather than a Loyalty roll:
 
@@ -383,7 +383,7 @@ When a caster's Trigger fires, the response follows their tier rather than a Loy
 - **Adept:** Withdraws magical services for 1D6 days. Does not cast, does not scout, does not heal. Eats the band's food and watches.
 - **Master:** Leaves. Often takes something — an ingredient cache, an intelligence map, a piece of knowledge the band did not know they had shared. The captain discovers the loss over the following week.
 
-A caster whose Trigger fires twice in the same season leaves regardless of tier, contract, or agenda. The second time is the answer.
+A caster whose Trigger fires twice in the same season leaves regardless of tier, contract, or Agenda. The second time is the answer.
 
 ### Caster Personalities
 

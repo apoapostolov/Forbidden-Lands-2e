@@ -28,8 +28,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - **The band, charted.** Size tiers from Skirmisher (3–6) to Legion (200+), MORALE thresholds by tier, Named Men guidelines, and cost-of-upkeep math that scales with the contract income your band can realistically generate.
   - **Meet the Band.** Ten fully statted pregenerated characters — the Gristle's company — built on standard creation rules from Chapter 2. Every one of them has a Pride, a dark secret, and a reason they are still doing this that they will not say aloud. All ten are available as player characters, hireable Named Men, or vignette reference.
   - **Premade bands.** Three ready-to-use bands with full rosters, Reputations, Agendas, and field histories. Install them in any campaign as employers, rivals, or the warband three contracts ahead of you on the same job.
-  - **Band Life vignettes.** Nineteen short prose pieces — in the chapter voice, named for mechanics — that walk one company from recruiting through contract, pay day, short pay, punishment, a blood oath, a kidnapping job, a bounty take, and the arithmetic of burying a man's kit. Reference material for what the rules actually feel like when the fiction is running.
-  - **Key Terms.** Fourteen defined terms — REPUTATION, MORALE, GRIEVANCE, Allegiance, Loyalty, Trigger, Agenda, Call Name, Ledger, Named Men, Common fighters, Host, Warmaster — collected at chapter open so the rules land clean on first read.
+  - **Band Life vignettes.** Thirty three short prose pieces — in the chapter voice, named for mechanics — that walk one company from recruiting through contract, pay day, short pay, punishment, a blood oath, a kidnapping job, a bounty take, and the arithmetic of burying a man's kit. Reference material for what the rules actually feel like when the fiction is running.
 
 ## [1.0.2] - 2026-04-06
 

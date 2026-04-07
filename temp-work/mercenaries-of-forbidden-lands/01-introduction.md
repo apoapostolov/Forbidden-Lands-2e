@@ -44,9 +44,9 @@ These terms appear throughout the chapter. They are collected here so the rest o
 
 **Loyalty** — A Named Man's personal commitment to the band. Scored 1–3. It is not the same as MORALE. A Named Man with Loyalty 3 is personally invested; one with Loyalty 1 is watching the door. Loyalty rises when the captain invests in that man's wellbeing and falls when their Trigger is hit or MORALE declines.
 
-**Trigger** — The thing that breaks a Named Man's loyalty. Each Named Man has one. When the trigger fires and the captain does nothing to address it, Loyalty drops by 1. A Trigger hit at Loyalty 1 means the man leaves.
+**Trigger** — The thing that breaks a Named Man's Loyalty. Each Named Man has one. When the Trigger fires and the captain does nothing to address it, Loyalty drops by 1. A Trigger hit at Loyalty 1 means the man leaves.
 
-**Agenda** — What a Named Man wants beyond pay. A personal goal that predates the band and will outlast it. A captain who moves the band toward a Named Man's agenda keeps that man's Loyalty stable. A captain who ignores it loses them quietly over time.
+**Agenda** — What a Named Man wants beyond pay. A personal goal that predates the band and will outlast it. A captain who moves the band toward a Named Man's Agenda keeps that man's Loyalty stable. A captain who ignores it loses them quietly over time.
 
 **Call Name** — An earned title given by the band for a witnessed deed. Not a rank. The name that sticks is the one the band gives, not the one the man would have chosen. Call Names are recognized at settlements and by other mercenary companies.
 
@@ -121,7 +121,7 @@ MORALE is a single score from 1 to 5 tracked for the whole band. It is not a cha
 
 **Checks are called by context.** Three situations call for a MORALE check: leading a dangerous assignment when MORALE is WAVERING or SHAKEN, leading any engagement when MORALE is BROKEN, or ordering an atrocity without material gain. In each case the leader rolls MANIPULATION against difficulty from the Grievance Difficulty table.
 
-**One or the other.** A late payment produces the automatic −1 trigger. It does not also produce a MORALE check. Where the Atrocities section specifically calls for a check after an atrocity causing a score change, both apply in sequence — the score drops from the trigger first, then the leader rolls the check.
+**One or the other.** A late payment produces the automatic −1 Trigger. It does not also produce a MORALE check. Where the Atrocities section specifically calls for a check after an atrocity causing a score change, both apply in sequence — the score drops from the Trigger first, then the leader rolls the check.
 
 **Voluntary check.** The captain may call a MORALE check once per week, at the cost of one Quarter Day. The captain addresses the assembled men. Difficulty is set by the single most severe active grievance — the captain cannot choose a lesser one. On success, that grievance is cleared; each extra sword beyond the difficulty clears one additional grievance of equal or lower difficulty. On failure, nothing changes and the attempt is noted.
 
@@ -176,9 +176,9 @@ These change MORALE at the end of each week.
 | Fellowship abandoned the band in danger          | -2                                               |
 | Named Man killed                                 | -1                                               |
 
-**Net movement cap.** All applicable triggers fire each week, ranked by severity (largest modifier first). The score stops moving after a net change of 2 in either direction. Remaining triggers do not adjust the score but are recorded as active grievances — they feed MORALE check difficulty and are visible to the captain. Three or more unresolved triggers at the same level compound into one grievance one step worse.
+**Net movement cap.** All applicable Triggers fire each week, ranked by severity (largest modifier first). The score stops moving after a net change of 2 in either direction. Remaining Triggers do not adjust the score but are recorded as active grievances — they feed MORALE check difficulty and are visible to the captain. Three or more unresolved Triggers at the same level compound into one grievance one step worse.
 
-**Floor.** MORALE cannot drop below 1 through trigger applications alone. A trigger that would push MORALE to 0 or below holds the band at MORALE 1. Band dissolution is a MORALE check failure at MORALE 1 during an engagement, not a trigger outcome. The captain still faces the BROKEN check if an engagement fires before a positive trigger arrives.
+**Floor.** MORALE cannot drop below 1 through Trigger applications alone. A Trigger that would push MORALE to 0 or below holds the band at MORALE 1. Band dissolution is a MORALE check failure at MORALE 1 during an engagement, not a Trigger outcome. The captain still faces the BROKEN check if an engagement fires before a positive Trigger arrives.
 
 > **Example — Triggers in a Bad Week**
 >
@@ -186,15 +186,15 @@ These change MORALE at the end of each week.
 >
 > The Named Man's death and the late wages each register as a difficulty 1 grievance. Two difficulty-1 grievances do not stack — the check difficulty is still 1, set by the worst. The captain can clear both at a voluntary check if she rolls one extra sword beyond the difficulty.
 >
-> Now consider a worse week. Same three events, plus the captain breaks the contract (-2). Total triggers: +1, -1, -1, -2 = net -3, but the cap is 2. MORALE 4 drops to 2 (Wavering), not 1. The remaining -1 that would have pushed to BROKEN does not fire — instead it is recorded as an active grievance.
+> Now consider a worse week. Same three events, plus the captain breaks the contract (-2). Total Triggers: +1, -1, -1, -2 = net -3, but the cap is 2. MORALE 4 drops to 2 (Wavering), not 1. The remaining -1 that would have pushed to BROKEN does not fire — instead it is recorded as an active grievance.
 >
-> The broken contract registers as a difficulty 2 grievance. The Named Man's death and the late wages are each difficulty 1. The capped trigger — the excess that did not move the score — also sits as a difficulty 1 grievance from the event that produced it. The captain now sits at WAVERING with a difficulty 2 grievance and three unresolved difficulty-1 grievances. Three of a kind at the same level: they compound to a difficulty 2 grievance. Two difficulty-2 grievances do not stack further — the check difficulty is 2, set by the worst.
+> The broken contract registers as a difficulty 2 grievance. The Named Man's death and the late wages are each difficulty 1. The capped Trigger — the excess that did not move the score — also sits as a difficulty 1 grievance from the event that produced it. The captain now sits at WAVERING with a difficulty 2 grievance and three unresolved difficulty-1 grievances. Three of a kind at the same level: they compound to a difficulty 2 grievance. Two difficulty-2 grievances do not stack further — the check difficulty is 2, set by the worst.
 >
-> Bad, not catastrophic. The band dropped two steps in a week. The captain still has room to act — a voluntary check at difficulty 2 with extra swords can sweep several grievances. If she pays the wages and wins the next engagement, the positive triggers can claw back toward Steady. A single disastrous week hurts, but does not end the band.
+> Bad, not catastrophic. The band dropped two steps in a week. The captain still has room to act — a voluntary check at difficulty 2 with extra swords can sweep several grievances. If she pays the wages and wins the next engagement, the positive Triggers can claw back toward Steady. A single disastrous week hurts, but does not end the band.
 
-**Ceiling.** MORALE cannot exceed 5. Positive triggers earned above the ceiling are lost.
+**Ceiling.** MORALE cannot exceed 5. Positive Triggers earned above the ceiling are lost.
 
-**Recovery from MORALE 1.** A positive trigger at MORALE 1 (BROKEN) raises the score to 2 without requiring a MORALE check. The floor is a pressure state, not a trap with no exit.
+**Recovery from MORALE 1.** A positive Trigger at MORALE 1 (BROKEN) raises the score to 2 without requiring a MORALE check. The floor is a pressure state, not a trap with no exit.
 
 ### Band Archetypes
 
@@ -224,11 +224,11 @@ A band's origin shapes how it recruits, how it holds together, and what breaks i
 - **Typical Named Men personality:** Mercenary Proud, Territorial, Quietly Violent.
 - **Breaks when:** The captain shows they do not understand what a real formation is, or when the job clearly has no professional merit — atrocities, reckless assault, abandonment of standards.
 
-**KIN CLAN.** All members share blood, clan, or kin heritage. An orc warband. A wolfkin pack. Three halfling brothers who picked up stragglers of the same kin over two seasons. The loyalty structure runs through blood and old obligation rather than through coin and contract.
+**KIN CLAN.** All members share blood, clan, or kin heritage. An orc warband. A wolfkin pack. Three halfling brothers who picked up stragglers of the same kin over two seasons. The Loyalty structure runs through blood and old obligation rather than through coin and contract.
 
 - **Recruitment:** Same kin only by default. A family-based kin band will not accept outsiders at all without a vouch from at least one existing member and, in some cases, a formal bond or oath before the group. An outsider vouched in is treated as kin-adjacent — they have standing but not full blood standing, and the band will not extend them the same protections automatically. A man who is vouched for and then betrays the band is an example made of without debate.
 - **Strengths:** MORALE checks at -1 difficulty when the cause is external. Internal grievances are handled within kin tradition — the GM should develop 1–3 kin-specific honor rules that function as additional Triggers for Named Men in this band. The band is **Trust-Held** by definition. Kin bands cannot be Fear-Held except by a captain from outside the kin who takes command by force, and that condition lasts only until the kin remembers what they are.
-- **Weakness:** An atrocity against a member of the shared kin triggers automatic MORALE -2 and a loyalty roll for all Named Men. Blood obligations can also pull Named Men away from the band for personal reasons that have nothing to do with the contract.
+- **Weakness:** An atrocity against a member of the shared kin triggers automatic MORALE -2 and a Loyalty roll for all Named Men. Blood obligations can also pull Named Men away from the band for personal reasons that have nothing to do with the contract.
 - **Typical Named Men personality:** Grudge-Holding, Territorial, Flat.
 - **Breaks when:** The captain violates the kin's internal code — betrayal of a blood member, dishonoring a bloodline, exposing a family weakness to outsiders.
 

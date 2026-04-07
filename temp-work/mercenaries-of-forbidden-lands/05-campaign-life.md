@@ -99,13 +99,13 @@ Some captains run a company the way a man runs a dog — through pain and fear r
 
 A tyrant captain may substitute INTIMIDATION for MANIPULATION on all internal MORALE checks and discipline rolls. This works — until it doesn't. Track separately whether the band's MORALE is **Fear-Held**:
 
-- A **Fear-Held** band at MORALE 3 (Shaken) does not protest. It goes quiet. Individual Named Men begin pursuing private agendas and concealing information from the captain.
+- A **Fear-Held** band at MORALE 3 (Shaken) does not protest. It goes quiet. Individual Named Men begin pursuing private Agendas and concealing information from the captain.
 - A **Fear-Held** band at MORALE 2 (Wavering) will not break openly. It will leak — men leaving in the night, minor sabotage, no warning given when the situation turns.
 - A **Fear-Held** band at MORALE 1 (Broken) does not dissolve in front of the captain. It dissolves behind them.
 
-In a tyrant company, Loyalty for Named Men decays at the standard rate of 1 per trigger hit — the same speed as any other band. The difference is the floor. In a Fear-Held band, Loyalty can reach 0. At Loyalty 0, the Named Man has stopped weighing whether to leave. He is weighing when, and what he takes with him — information, equipment, or the man standing between him and the gate. A Named Man at Loyalty 0 will sell intelligence, sabotage a contract, or act against the captain the moment he calculates it is safe. The calculation usually arrives before the captain expects it.
+In a tyrant company, Loyalty for Named Men decays at the standard rate of 1 per Trigger hit — the same speed as any other band. The difference is the floor. In a Fear-Held band, Loyalty can reach 0. At Loyalty 0, the Named Man has stopped weighing whether to leave. He is weighing when, and what he takes with him — information, equipment, or the man standing between him and the gate. A Named Man at Loyalty 0 will sell intelligence, sabotage a contract, or act against the captain the moment he calculates it is safe. The calculation usually arrives before the captain expects it.
 
-The difference between Fear-Held and Trust-Held is not visible until it needs to be. Both bands look functional at MORALE 4. The distinction is what happens to the information when things go wrong — and where Named Men's loyalty actually sits. See **Trust-Held Bands** below.
+The difference between Fear-Held and Trust-Held is not visible until it needs to be. Both bands look functional at MORALE 4. The distinction is what happens to the information when things go wrong — and where Named Men's Loyalty actually sits. See **Trust-Held Bands** below.
 
 **Tyrant Punishments**
 
@@ -138,7 +138,7 @@ Trust-Held is not a higher MORALE ceiling. The table is the same. What changes i
 
 **Trust-Held mechanics:**
 
-**Loyalty decay halved.** Named Men in a Trust-Held band lose Loyalty at half the standard rate when triggers are hit. The bond was built on something. It takes more sustained failure to erode it.
+**Loyalty decay halved.** Named Men in a Trust-Held band lose Loyalty at half the standard rate when Triggers are hit. The bond was built on something. It takes more sustained failure to erode it.
 
 **The stay.** Once per season, when the captain fails a MORALE check, the GM may offer a Named Man with Loyalty 3 the chance to spend — to step forward, back the captain publicly, and hold the band together for one more day. If the Named Man does this, the MORALE cost that week is reduced by 1 step. The Named Man's Loyalty drops to 2 immediately. The bond cannot be spent again from the same Named Man until their Loyalty recovers to 3.
 
@@ -148,7 +148,7 @@ Trust-Held is not a higher MORALE ceiling. The table is the same. What changes i
 
 **Transition out of Trust-Held.** A band that was Trust-Held and drifts into fear management — a captain who increasingly substitutes INTIMIDATION for MANIPULATION, an atrocity the Named Men were ordered to carry out, a season of broken promises — loses Trust-Held status at the end of that season. The change costs MORALE -1. The men know what the company was. That knowledge is not comfort, but the specific grief of a thing that has become something else.
 
-**Transition into Trust-Held.** A Fear-Held band can earn Trust-Held status. The captain must pay reliably, address Named Men's triggers when they appear, and avoid using INTIMIDATION as a substitute for MANIPULATION through a full season without a loyalty break or a public trust violation. At the end of that season, the GM confirms the transition. It is slow, but not impossible. The men remember everything that happened before it, too — and that debt does not disappear because the band is now better.
+**Transition into Trust-Held.** A Fear-Held band can earn Trust-Held status. The captain must pay reliably, address Named Men's Triggers when they appear, and avoid using INTIMIDATION as a substitute for MANIPULATION through a full season without a Loyalty break or a public trust violation. At the end of that season, the GM confirms the transition. It is slow, but not impossible. The men remember everything that happened before it, too — and that debt does not disappear because the band is now better.
 
 > **Example — The Tyrant's Arithmetic**
 >
@@ -160,7 +160,7 @@ Trust-Held is not a higher MORALE ceiling. The table is the same. What changes i
 >
 > But Jorund's civilian-harm Trigger fires. The GM rolls against Jorund's Loyalty 2: one sword needed, none rolled. Jorund's Loyalty drops to 1. He does not leave. He does not speak. That night he eats his ration facing away from the fire and calculates whether the Greywood company is still hiring.
 >
-> Next week: late payment. MORALE drops to 2 (Wavering) from the automatic trigger. Hadric does not address the men — tyrant captains do not explain. Jorund, now at Loyalty 1, begins concealing information: he knows the south road is clear from a conversation with a trader, but he does not pass it to Hadric. He passes it to Margard, the other brother, privately.
+> Next week: late payment. MORALE drops to 2 (Wavering) from the automatic Trigger. Hadric does not address the men — tyrant captains do not explain. Jorund, now at Loyalty 1, begins concealing information: he knows the south road is clear from a conversation with a trader, but he does not pass it to Hadric. He passes it to Margard, the other brother, privately.
 >
 > The following week, Hadric wakes to an empty bedroll. Jorund is gone. He took his sword, his pack, and the knowledge of the band's next contract route. Hadric does not know why. In a Fear-Held band, no one tells you.
 
@@ -188,7 +188,7 @@ Trust-Held is not a higher MORALE ceiling. The table is the same. What changes i
 >
 > **Lying that cost blood** — telling the sergeant the left flank was clear when it wasn't, claiming to have been on watch, swearing a civilian was hostile to justify a killing — is handled faster than most things. There is no standard punishment. There is a standard outcome: the captain and the sergeant hear what happened, from everyone who was there. After that, the liar's word does not travel well. What follows depends on what the lie cost.
 >
-> **Violence against a civilian in an occupation zone** is an atrocity under Section 10, but within the company it is also a problem of management. Men who commit it once and understand why it was wrong are men the company can keep. Men who commit it and do not understand why it was wrong are a liability that will eventually cost the company a contract, a settlement's standing, or a night ambush from twenty relatives. The sergeant handles the distinction.
+> **Violence against a civilian in an occupation zone** is an atrocity under Section 10, but within the company it is also a problem of management. Men who commit it once and understand why it was wrong are men the company can keep. Men who commit it and do not understand why it was wrong are a liability that will eventually cost the company a contract, a settlement's Standing, or a night ambush from twenty relatives. The sergeant handles the distinction.
 >
 > **Sexual violence against a civilian** triggers automatic atrocity consequences regardless of Standing. Within the company, the captain's response determines whether the company is the kind of company that can hold a contract in settled areas. Most captains who want repeat work from employers know this and respond accordingly. Some do not. Their companies have a type of reputation, and the work that finds that reputation is the work that deserves it.
 >
@@ -215,12 +215,12 @@ Use this subsystem when the band is under sustained pressure — unpaid, hungry,
 **Triggers — the GM may call for an argument when:**
 
 - MORALE is 3 (Shaken) or lower at the end of a day
-- Two Named Men share a Loyalty trigger overlap or directly competing Agendas
+- Two Named Men share a Loyalty Trigger overlap or directly competing Agendas
 - The band has gone two or more days without pay, food, or rest
 - A member died today and no one has spoken about it
 - A direct order produced a bad outcome and the man who gave it is still giving orders
 
-When a trigger fires, the GM picks or rolls for two participants. If one is a Named Man, use their personality to color the opening. If both are Common fighters, the argument starts below them — in the ranks — and may pull Named Men in.
+When a Trigger fires, the GM picks or rolls for two participants. If one is a Named Man, use their personality to color the opening. If both are Common fighters, the argument starts below them — in the ranks — and may pull Named Men in.
 
 **The escalation ladder:** Arguments move through stages in order. Each stage ends when someone intervenes, or when the next stage begins.
 
@@ -255,7 +255,7 @@ If the argument is not rooted in an active grievance — a personal grudge, a Tr
 
 **Named Men and arguments:** A Named Man involved in a Stage 3 or 4 argument who loses rolls against their Loyalty. On a failure, their Loyalty drops by 1 — whatever broke the surface is still working. A Named Man who wins a Stage 4 argument gains no mechanical benefit, but their standing in the company rises: the GM should treat them as more respected by the rank and file for the remainder of the season.
 
-**Deliberate provocation:** A leader or Named Man may deliberately provoke an argument to draw out a rival's true loyalties or break a standoff between two factions in the band. This is MANIPULATION difficulty 3 — the difficulty of starting a fire without being seen as the one who dropped the torch.
+**Deliberate provocation:** A leader or Named Man may deliberately provoke an argument to draw out a rival's true Loyalties or break a standoff between two factions in the band. This is MANIPULATION difficulty 3 — the difficulty of starting a fire without being seen as the one who dropped the torch.
 
 **Agitating actions.** Not every bystander wants the argument to stop. No roll is required to push things further. The action lands and the stage responds.
 
@@ -510,7 +510,7 @@ When the captain dies, command does not pause. Someone steps forward or the band
 2. **Most senior Named Man** — if there is no sergeant, the Named Man with the longest service takes command. If two Named Men share the longest tenure, the one with higher Loyalty takes it. If still tied, the GM chooses and the other becomes the rival.
 3. **No one steps forward** — if no Named Man claims command within the current Quarter Day, the band dissolves. Common fighters scatter. Named Men depart individually. The fellowship keeps whatever gear and coin they hold personally.
 
-When a new captain takes command, immediately roll MORALE at +1 difficulty. This is the band testing whether the new voice holds. On a failure, one Named Man challenges the succession openly — the GM chooses which one, guided by Triggers and agendas. The challenge must be resolved by MANIPULATION or by the challenger leaving. It cannot be resolved by killing them without consequence.
+When a new captain takes command, immediately roll MORALE at +1 difficulty. This is the band testing whether the new voice holds. On a failure, one Named Man challenges the succession openly — the GM chooses which one, guided by Triggers and Agendas. The challenge must be resolved by MANIPULATION or by the challenger leaving. It cannot be resolved by killing them without consequence.
 
 The new captain inherits the band's active contracts, Standing at settlements, and any outstanding grievances. They do not inherit the previous captain's personal reputation — they build their own.
 

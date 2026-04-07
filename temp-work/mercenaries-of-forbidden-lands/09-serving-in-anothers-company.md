@@ -126,7 +126,7 @@ The captain gives orders. The fellowship may find those orders wrong, dangerous,
 >
 > The ridge holders break. Two men die. Maren's position in the tree line survives contact and links up with the wagons that evening on the south road.
 >
-> Now the reckoning. Maren rolls MANIPULATION at difficulty 2 to explain the decision. She rolls two swords — success. Torsten listens. He does not agree. He says: "The ridge held long enough because your men were not there to break first. That is not the same as being right." Maren is not punished. But the First Blade pulls her aside that night and tells her that the three men who followed her off the ridge are now known as hers. That loyalty is real. It is also noticed. The next order Torsten gives her will be the one that tests whether she follows or leads.
+> Now the reckoning. Maren rolls MANIPULATION at difficulty 2 to explain the decision. She rolls two swords — success. Torsten listens. He does not agree. He says: "The ridge held long enough because your men were not there to break first. That is not the same as being right." Maren is not punished. But the First Blade pulls her aside that night and tells her that the three men who followed her off the ridge are now known as hers. That Loyalty is real. It is also noticed. The next order Torsten gives her will be the one that tests whether she follows or leads.
 
 ### Leaving the Company
 
@@ -150,7 +150,7 @@ On failure: the mutiny collapses. Each Named Man who participated rolls Loyalty 
 >
 > Three Named Men refuse. Held the Pale, Loyalty 3, has a civilian-harm Trigger. Rost, Loyalty 2, fought beside these villagers once. Maren, who carries a call name, has served six months under Torsten's orders and owes the elder a personal debt from the first contract.
 >
-> The witnessed trigger is clear: Torsten is ordering an atrocity against people the company has history with. The three Named Men stand in the road. The senior mutineer is Held — longest service, highest rank among the challengers.
+> The witnessed Trigger is clear: Torsten is ordering an atrocity against people the company has history with. The three Named Men stand in the road. The senior mutineer is Held — longest service, highest rank among the challengers.
 >
 > Held rolls MANIPULATION at difficulty 3. He has EMP 3, MANIPULATION 2 — five dice. He rolls: two swords. Success.
 >
