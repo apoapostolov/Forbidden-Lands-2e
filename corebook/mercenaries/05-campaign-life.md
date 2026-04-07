@@ -91,7 +91,7 @@ When a member of the band breaks a rule, commits a crime against another member,
 
 **Duels** are a controlled alternative to informal violence. Two company members with a formal grievance may request a duel before the captain. The captain may permit it or forbid it. Duels are first blood by default. Both combatants fight to one BROKEN condition and stop — unless the captain rules differently. A man killed in an unsanctioned duel counts as a company murder.
 
-**Expulsion** removes the man from the rolls, voids his pay claim, and forfeits any share of an active contract. The captain may additionally post a WANTED notice (see Section 8) if the offense was severe enough. Other companies may or may not honor it.
+**Expulsion** removes the man from the rolls, voids his pay claim, and forfeits any share of an active contract. The captain may additionally post a WANTED notice (see Section 9) if the offense was severe enough. Other companies may or may not honor it.
 
 #### Tyrant Companies
 
@@ -188,7 +188,7 @@ Trust-Held is not a higher MORALE ceiling. The table is the same. What changes i
 >
 > **Lying that cost blood** — telling the sergeant the left flank was clear when it wasn't, claiming to have been on watch, swearing a civilian was hostile to justify a killing — is handled faster than most things. There is no standard punishment. There is a standard outcome: the captain and the sergeant hear what happened, from everyone who was there. After that, the liar's word does not travel well. What follows depends on what the lie cost.
 >
-> **Violence against a civilian in an occupation zone** is an atrocity under Section 9, but within the company it is also a problem of management. Men who commit it once and understand why it was wrong are men the company can keep. Men who commit it and do not understand why it was wrong are a liability that will eventually cost the company a contract, a settlement's standing, or a night ambush from twenty relatives. The sergeant handles the distinction.
+> **Violence against a civilian in an occupation zone** is an atrocity under Section 10, but within the company it is also a problem of management. Men who commit it once and understand why it was wrong are men the company can keep. Men who commit it and do not understand why it was wrong are a liability that will eventually cost the company a contract, a settlement's standing, or a night ambush from twenty relatives. The sergeant handles the distinction.
 >
 > **Sexual violence against a civilian** triggers automatic atrocity consequences regardless of Standing. Within the company, the captain's response determines whether the company is the kind of company that can hold a contract in settled areas. Most captains who want repeat work from employers know this and respond accordingly. Some do not. Their companies have a type of reputation, and the work that finds that reputation is the work that deserves it.
 >

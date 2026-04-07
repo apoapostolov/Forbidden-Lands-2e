@@ -99,7 +99,7 @@ What counts as mission pay: running a search party, building or reinforcing defe
 
 What does not count: travel to or from the contract site, resting in camp between operations, waiting on an employer's orders with no assigned task.
 
-Leaders define that boundary. Call the work started too early and the treasury bleeds before the job is done. Call it too late and men who marched hard and dug ditches in the rain will notice the ledger. The band's morale will answer for either error.
+Leaders define that boundary. Call the work started too early and the treasury bleeds before the job is done. Call it too late and men who marched hard and dug ditches in the rain will notice the ledger. The band's MORALE will answer for either error.
 
 If a contract is breached or abandoned, mission pay ceases on the breach date and the band reverts to retainer.
 

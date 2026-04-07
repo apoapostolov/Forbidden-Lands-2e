@@ -198,9 +198,9 @@ A band's origin shapes how it recruits, how it holds together, and what breaks i
 
 > **Example — The First Week**
 >
-> The Gristle's band forms outside Weatherstone in late spring. She has three fighters from a dead captain's outfit, plus the fellowship. She needs at least three more to take the road north where the contracts are. She rolls MANIPULATION in Weatherstone — a village, D6 potential recruits — and gets three swords: two ⚔️ on the roll, so she gets to pick from what is available. She takes Brosa, who has good shoulders and no record, and Skalva, who is small and careful and checks everything twice.
+> The Gristle's band forms outside Weatherstone in late spring. She has Gest as sergeant and three fighters from a dead captain's outfit. She needs more to take the road north where the contracts are. She rolls MANIPULATION in Weatherstone — a village, D6 potential recruits — and gets three swords: two ⚔️ on the roll, so she gets to pick from what is available. She takes Brosa, who has good shoulders and no record, and Skalva, who is small and careful and checks everything twice.
 >
-> Five fighters beyond the fellowship. That puts the band at **Skirmisher** tier (3–6 men). Starting MORALE is **3** — a fresh band, recruited from one settlement.
+> Six men under her command. That puts the band at **Skirmisher** tier (3–6 men). Starting MORALE is **3** — a fresh band, recruited from one settlement.
 >
 > The first job comes two days later. A merchant at the crossroads inn wants an escort to Falcon's Ridge — five days, 80 silver on arrival. The band takes it. On day three the road turns sour. A bandit crew holds the ford. The Gristle calls the line. Petter goes forward with his axe. Gest calls Brosa into position. Brosa punches with his shield instead of holding, surges forward when the line calls hold. The bandits scatter after the first man falls. Nobody in the band takes anything worse than a bruise.
 >

@@ -140,6 +140,8 @@ SURVIVAL difficulty 2 to locate without the exact marker description.
 
 Dain has privately told Pell that Kess shows signs of a mind coming apart under sustained violence. His post-engagement talking, in her assessment, is not a coping habit — it is a symptom progressing outward. Pell told her to keep watching and said nothing else. Kess does not know he is being watched. Both Dain and Pell are aware that watching without acting carries its own risk.
 
+Parren walks the perimeter every night. He tells anyone who asks that he cannot sleep. On nights when the wind blows from the west — every third or fourth night for two weeks now — he stands at the camp's western edge and does not move. Tav followed him on the fifth night. Tav heard it too: a child's voice, faint, from the direction of Greywood, speaking a name. Parren's daughter's name. She was four when Greywood burned. Parren does not know whether she was inside the village when it happened. He still does not know. Neither man has told the other what they heard. Neither has told Pell. The voice has not grown louder. It has not stopped.
+
 ---
 
 ### GM Hook
@@ -237,6 +239,8 @@ SURVIVAL difficulty 2 to locate.
 ### Internal Tensions
 
 Lenna believes the current contract is beyond the band's capability and told Brek so before they left the village. Brek knows she is probably right. He took the contract because they needed the coin and could not afford to say that out loud. She is watching the troll situation with the specific expression of someone who was correct and is deciding whether to say so.
+
+Doss spoke with a fisherman at the marsh edge on the first morning. The fisherman said, in fewer words than Doss usually uses himself, that the company hired before the Rovers scouted the marsh, counted three trolls, and walked off the contract. The village re-posted at the lower rate. Brek does not know this. Lenna does not know this. Telling them now — three days in, ankle-deep, committed — does not obviously make anything better. Doss is carrying it the way he carries everything: silently, with his jaw shut, waiting for the moment when silence costs more than the words.
 
 ---
 
@@ -417,6 +421,8 @@ Both men know the other's cache exists. Neither has said so. SURVIVAL difficulty
 
 Miv, the youngest fighter, is carrying private messages for Hadric to contacts the other brothers have not been told about. Crane does not know what the messages contain. Varis does — he read one — and understands that Hadric is making a territorial commitment to a warchief contact that would require the company to operate directly against the Three Wolves' current employer network. Varis has not told Crane. He is deciding whether this information is the last confirmation he needed.
 
+Sorn has been asking a question on forage patrols, when the Named Men are in camp. He puts it to two or three common men at a time: what happens when the captain's ambitions stand them against a warchief's actual army. No one answers. No one walks away. Three men have heard it now — Sorn, Arnet, Kell. Hadric the Older has noticed which men forage together and is deciding whether to tell his cousin or sit on it. The question Sorn is asking is the question Hadric the Older has been asking himself.
+
 ---
 
 ### GM Hook
@@ -430,8 +436,8 @@ Varis has made contact with the Feldwick elder's neighboring settlement — not 
 ## THE PALE COMPANY
 
 **Archetype:** Tyrant
-**Size:** Warband — 14 men (3 Named Men + 11)
-**MORALE:** 4 — Steady (Fear-Held)
+**Size:** Warband — 15 men (4 Named Men + 11)
+**MORALE:** 3 — Shaken (Fear-Held)
 **Known as:** _The quiet ones. The ones who come back._
 
 The Pale Captain does not name himself. His men call him Winter behind his back and not at all to his face. He gathered the company from men who had nowhere else to go and nothing traceable before the company existed — former debtors, institutional runaways, a monastery laborer with unexplained circumstances, a man who was in the Ravenlands because he had been somewhere else and that somewhere else was no longer available. He knew what he was building. He built it carefully. It holds because the men have nowhere better to go, the work is steady, and the captain has never lost a contract.
@@ -490,6 +496,29 @@ Ghost earned the name the obvious way: nobody hears Ghost until Ghost decides to
 **Agenda:** Recover an item taken from Ghost's family three years ago by a specific party Ghost has been tracking
 **Loyalty:** 2. Professional. Ghost leaves if the captain's use of Ghost becomes incompatible with Ghost's person.
 **Personality:** Quietly Violent.
+
+---
+
+**Vael** — Veteran, Support (Human, Ailander — Sorcerer, Path of Signs)
+The captain brought her in three months ago and told the men she was contract divination — hired for intelligence on the current job and the two after it. This is a lie. She is not on the company's payroll. She eats with the captain, not the men. She speaks to Guthar only when addressed and to Ghost not at all. She draws charts on thin bark at night, burns them before dawn, and asks questions about old ruins and buried places that have no connection to any active contract.
+
+The men hate her. Not the professional distance a caster sometimes earns from fighters who do not understand the work — something harder. She does not look at them when they speak. She sleeps at the center of the perimeter as though the arrangement is owed. She has made remarks about the company's capacity that Guthar took as measurement rather than conversation.
+
+Two grievances have been filed with Guthar: one from Lort, who does not trust a caster who will not explain herself, and one unsigned — Guthar attributes it to Havel or Drike by the handwriting. Both cite the same complaints: she does not share watch, she does not work, and she acts as though the company exists for her passage.
+
+The captain's arrangement with Vael is not employment. Three months ago she identified a reference in his treasury cipher — a sealed location from before the Blood Mist. She believes it holds the binding-prison of a demon whose name she has traced through three independent sources across ten years of study. She needs safe passage through the region east of Vond. He needs the cipher read. The exchange is route and protection for readings. She has delivered two. The captain considers this useful, and the men consider her a parasite. Both are correct.
+
+| STR | AGL | WIT | EMP |
+| --- | --- | --- | --- |
+| 2   | 3   | 5   | 3   |
+
+**Skills:** LORE 3, INSIGHT 2, MANIPULATION 2, CRAFTING 1, SLEIGHT OF HAND 1
+**Talents:** PATH OF SIGNS rank 2, PSYCHIC POWER rank 1, EDUCATED rank 1
+**Armor:** None | **Weapon:** Walking staff + knife
+**Trigger:** Her belongings being searched or her person physically restrained — her response will be disproportionate and immediate
+**Agenda:** Locate and access a sealed site from before the Blood Mist, east of Vond — a place she believes holds a bound demon; she does not intend to release it; she intends to confirm the binding holds
+**Loyalty:** 0. She is not a member of this company. She is using its movement.
+**Personality:** Cold Practical. Other people are a logistics problem.
 
 ---
 
@@ -557,6 +586,8 @@ SURVIVAL difficulty 3 for the known box's backup location; difficulty 4 for the 
 ### Internal Tensions
 
 Guthar believes the current contract is a document-recovery job wearing a kill-job's clothes, and that the captain is deciding whether to keep the documents rather than deliver them. He is right on both counts. The two of them are currently in a silent standoff: the captain does not confirm the real nature of the job, Guthar does not force the question, and Ghost is watching both of them with professional appreciation.
+
+Vael is the second fracture. The captain told Guthar privately that she is temporary — two more contracts, then gone. Guthar does not believe this because he has watched the captain adjust route decisions twice to accommodate stops that serve no active contract. The men have drawn the obvious conclusion: the captain is running the company for her benefit, not theirs. Two have asked Guthar, separately, what it would take for the captain to send her away. Guthar told them to do their work. He is carrying the same question himself.
 
 ---
 
@@ -891,6 +922,8 @@ Brant and Prek are brothers. Brant has told no one. Prek believes this protects 
 
 The Nail's theory about the previous campaign: the campaign ended because a specific individual sold positioning information to the opposing force. That individual is now employed as an advisor to a settlement two hexes from the current contract area. The Nail has identified this person and has not yet told Coldhand. He is unsure whether Coldhand knew at the time and chose not to act, or whether Coldhand does not know. This distinction matters for what the Nail does next.
 
+The man who deserted with the second chest key — Tenner, his name was, which the company has stopped using — left on a night he had watch. He took nothing except his weapons and the key. Coldhand has not explained why. Boot asked once and was told the chest was fine. What Coldhand has not shared: the chest has a false bottom that Tenner helped install. Tenner knows what is in the lower compartment. No one in the current company does. Coldhand has developed a habit of checking the chest's position before he sleeps. If Tenner surfaces — alive, captured, or talking to someone with an interest — the question of what the chest contains becomes a question the whole company hears.
+
 ---
 
 ### GM Hook
@@ -1041,6 +1074,8 @@ SURVIVAL difficulty 1 for the boot cache (everyone in the pack knows); difficult
 
 Aldric Svenk received a message two weeks ago from a distant cousin: human settlement expansion is moving toward the outer edge of the pack's intended denning-ground recovery area. The newcomers are not the same settlement that took the land originally — they are a second wave who purchased from the elder who registered it. Aldric has not told Sura. He does not know whose side he is on, and until he does, he is not certain what telling her accomplishes. The Questioner has noticed Aldric's changed behavior and is currently asking questions of other people to understand what changed.
 
+The denning-ground cache is wrong. The Questioner went to the boundary markers last week — not inside, close enough to scent the perimeter. When he came back he told Sura: the ground smells wrong. Not rot. Not animal. Something is drawing warmth from the earth around the burial site, and the grass above it has gone brown in a circle the size of a man's armspan. Two of the younger wolves have been restless at night, circling camp with their hackles raised, facing the cache's direction. Sura has not gone to look. The carved bone wolf left by the dominant pair is in there, wrapped in oilcloth at the center. The Questioner has not said what he thinks is happening. He is still deciding whether what he thinks is something he should say aloud in front of the pack.
+
 ---
 
 ### GM Hook
@@ -1156,6 +1191,8 @@ SURVIVAL difficulty 4 for the false bottom; SPOT difficulty 4 if examining the c
 ### Internal Tensions
 
 Harb and Ela disagree on the current route decision. Harb believes the correct response to a collapsed track is to stop and repair it — two days of work, then a direct route. Ela believes they should push through the alternative path regardless of the schedule cost. Both have made their case to Petra. Durn has not yet ruled on it, which means both are still lobbying. This is taking slightly too long. Durn knows it is taking too long and is performing the full traditional deliberation anyway because to shorten it would be to admit that speed matters more than process, which he does not believe.
+
+Torv has been writing letters at night. He told Ela they are for their mother. This is partly true. He is also writing to a recruiter for a larger company east of the Amber Peaks, asking about terms and room. He does not want to leave his sister. He does not want to die on a contract that pays five swords to do ten swords' work. He has not told Ela. She has noticed the letters and assumed they are personal. Durn has noticed and said nothing — reading another man's correspondence violates Old Oslic hospitality code, and this binds him even toward men he considers provisional. Petra has noticed Durn noticing. She is waiting for someone in this chain to act before she acts for them.
 
 ---
 

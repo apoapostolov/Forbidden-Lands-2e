@@ -287,7 +287,7 @@ After any engagement resulting in a clear victory, award XP to each non-player N
 - On a 5: award **3 XP**
 - On a 4–3: award **2 XP**
 - On a 2: award **no XP**
-- On a 1: award **1 XP** and the Named Man suffers a meaningful injury. Roll on the critical injury table.
+- On a 1: award **1 XP** and the Named Man suffers a serious injury. Roll on the critical injury table.
 
 **Named Man transition to full character:** The GM may offer a Named Man a full character sheet when their player's original character is out of action and both the player and GM agree. A Named Man eligible for this transition should have at least 15 XP recorded, an Agenda that has been actively pursued, and Loyalty 3 with the fellowship. On transition, the player selects the Named Man's kin-appropriate profession from the **YOUR ADVENTURER** chapter and picks starting skills accordingly. Prior XP carries over at 2:3 conversion rate (15 Named Man XP becomes 10 PC XP). The Personality, Trigger, and Agenda survive the transition intact — they remain who they are.
 
@@ -299,7 +299,7 @@ After any engagement resulting in a clear victory, award XP to each non-player N
 >
 > Rask: rolls a 3. Awards 2 XP. Steady accumulation.
 >
-> Brosa: rolls a 1. Awards 1 XP — and the GM rolls on the critical injury table. Result: a deep slash across the forearm. MELEE reduced by 1 until healed, six days minimum with a healer or HERBS. Brosa fought well enough to earn the point. The dice say it cost him something anyway. He sits at the fire that night with his arm bound, eating with his off hand, gaining 1 XP he earned and carrying a wound he did not deserve. Both are true at the same time.
+> Brosa: rolls a 1. Awards 1 XP — and the GM rolls on the critical injury table. Result: a deep slash across the forearm. MELEE reduced by 1 until healed, six days minimum with a healer or HERBS. Brosa fought well enough to earn the point. The dice say it cost him something anyway. He sits at the fire that night with his arm bound, eating with his off hand, gaining 1 XP he earned and carrying a wound he did not deserve.
 
 ### Named Man Connections
 

@@ -84,11 +84,11 @@ The GM may adapt: Twice-Broken, Cold-Eye, The Half, Long-Shepherd, Pale Winter. 
 
 > **Example — Earning the Name**
 >
-> The fellowship's player has been BLADE for three sessions. During a night raid on a fortified camp, the sergeant goes down — an arrow through the shoulder that puts him flat. The ten-man section freezes. The player's character grabs the sergeant's horn, blows the rally, and calls the section forward through the breach. No MANIPULATION roll — she is not giving an order, she is filling a gap. The five nearest men follow because she moved first.
+> Maren has been BLADE for two months in Torsten's company. During a night raid on a fortified camp, the sergeant goes down — an arrow through the shoulder that puts him flat. The ten-man section freezes. Maren grabs the sergeant's horn, blows the rally, and calls the section forward through the breach. No MANIPULATION roll — she is not giving an order, she is filling a gap. The five nearest men follow because she moved first.
 >
-> The breach holds. The contract completes. Afterward, Petter — a Named Man with Loyalty 3 — goes to Torsten and tells him the girl at the breach should be Called. Torsten asks for a name. Petter says nothing — he looks at the fellowship's player. The other men are already talking about it. Someone suggests "the Horn" for the rally call, another "Breach" for where she stood. The player proposes "Ironback" because she turned her back to the archers to face the section forward. Torsten accepts it. He says the name once. The sergeant, arm in a sling, nods. By the next morning three men use it without thinking. By the following week it is the only name anyone uses.
+> The breach holds. The contract completes. Afterward, Petter — a Named Man with Loyalty 3 — goes to Torsten and tells him the girl at the breach should be Called. Torsten asks for a name. Petter says nothing — he looks at Maren. The other men are already talking about it. Someone suggests "the Horn" for the rally call, another "Breach" for where she stood. The men who were there settle on "Ironback" because she turned her back to the archers to face the section forward. Torsten accepts it. He says the name once. The sergeant, arm in a sling, nods. By the next morning three men use it without thinking. By the following week it is the only name anyone uses.
 >
-> The player's rank advances to CALLED. Pay rises to 2 silver per day. She may now lead detachments of three to five men. The name travels — at the next settlement, a gate guard recognizes it. She is the Ironback from the Stillmire breach.
+> Maren's rank advances to CALLED. Pay rises to 2 silver per day. She may now lead detachments of three to five men. The name travels — at the next settlement, a gate guard recognizes it. She is the Ironback from the Stillmire breach.
 
 > **GM Advice — Running the Captain**
 >
@@ -119,13 +119,13 @@ The captain gives orders. The fellowship may find those orders wrong, dangerous,
 
 > **Example — The Wrong Hill**
 >
-> Torsten orders the company to hold a ridge above a river ford while he pulls the supply wagons south. The enemy column is visible two hexes east and closing. The fellowship's player looks at the map and sees it: holding the ridge means the enemy pins them against the river. Torsten is preserving the wagons. He is spending the ridge holders to buy his withdrawal.
+> Torsten orders the company to hold a ridge above a river ford while he pulls the supply wagons south. The enemy column is visible to the east and closing. Maren looks at the ground and sees it: holding the ridge means the enemy pins them against the river. Torsten is preserving the wagons. He is spending the ridge holders to buy his withdrawal.
 >
-> The fellowship decides to Act Against. Instead of holding, they pull back to a tree line one hex south — lower ground but with cover and a clear escape route west. Three common fighters follow them. The rest hold the ridge as ordered.
+> Maren decides to act against the order. Instead of holding, she pulls her section back to a tree line to the south — lower ground but with cover and a clear escape route west. Three common fighters follow her. The rest hold the ridge as ordered.
 >
-> The ridge holders break. Two men die. The fellowship's position in the tree line survives contact and links up with the wagons that evening on the south road.
+> The ridge holders break. Two men die. Maren's position in the tree line survives contact and links up with the wagons that evening on the south road.
 >
-> Now the reckoning. The fellowship's player rolls MANIPULATION at difficulty 2 to explain the decision. She rolls two swords — success. Torsten listens. He does not agree. He says: "The ridge held long enough because your men were not there to break first. That is not the same as being right." The fellowship is not punished. But the First Blade pulls the player aside that night and tells her that the three men who followed her off the ridge are now known as hers. That loyalty is real. It is also noticed. The next order Torsten gives her will be the one that tests whether she follows or leads.
+> Now the reckoning. Maren rolls MANIPULATION at difficulty 2 to explain the decision. She rolls two swords — success. Torsten listens. He does not agree. He says: "The ridge held long enough because your men were not there to break first. That is not the same as being right." Maren is not punished. But the First Blade pulls her aside that night and tells her that the three men who followed her off the ridge are now known as hers. That loyalty is real. It is also noticed. The next order Torsten gives her will be the one that tests whether she follows or leads.
 
 ### Leaving the Company
 
@@ -147,9 +147,9 @@ On failure: the mutiny collapses. Each Named Man who participated rolls Loyalty 
 >
 > Torsten orders the company to burn a granary at a village that sheltered them two seasons ago. The elder had refused passage to a rival band — Torsten's current employer wants the village punished for the refusal, not the shelter. The contract says "enforce compliance." Torsten reads it as written.
 >
-> Three Named Men refuse. Held the Pale, Loyalty 3, has a civilian-harm Trigger. Rost, Loyalty 2, fought beside these villagers once. The fellowship's player, ranked CALLED, has spent six sessions under Torsten's orders and owes the elder a personal debt from the first contract.
+> Three Named Men refuse. Held the Pale, Loyalty 3, has a civilian-harm Trigger. Rost, Loyalty 2, fought beside these villagers once. Maren, ranked CALLED, has served six months under Torsten's orders and owes the elder a personal debt from the first contract.
 >
-> The witnessed trigger is clear: Torsten is ordering an atrocity against people the company has history with. The three Named Men and the PC stand in the road. The senior mutineer is Held — longest service, highest rank among the challengers.
+> The witnessed trigger is clear: Torsten is ordering an atrocity against people the company has history with. The three Named Men stand in the road. The senior mutineer is Held — longest service, highest rank among the challengers.
 >
 > Held rolls MANIPULATION at difficulty 3. He has EMP 3, MANIPULATION 2 — five dice. He rolls: two swords. Success.
 >
@@ -157,10 +157,10 @@ On failure: the mutiny collapses. Each Named Man who participated rolls Loyalty 
 >
 > The company splits. Torsten steps down. He does not beg. He sets his polearm against the wall and walks to the supply wagon and begins packing his personal kit. The First Blade watches in silence, then approaches Held within the hour and pledges service — he needs a direction to march.
 >
-> Held looks at the fellowship's player. The player looks at the village. The elder is standing in the gate, watching armed strangers argue about whether to destroy her home.
+> Held looks at Maren. Maren looks at the village. The elder is standing in the gate, watching armed strangers argue about whether to destroy her home.
 >
 > The contract is void. The employer will post a grievance. Torsten's Standing at three settlements transfers to Held's name, along with the debts. The company is intact. The cost of keeping it intact is everything the contract would have paid and the employer's Allegiance, which drops to 0. Held's first act as captain is to tell the elder they are leaving. His second act is to ask whether the village needs anything carried.
 >
-> The third act — finding new work with a company known for mutiny — is the next session's problem.
+> The third act — finding new work with a company known for mutiny — is tomorrow's problem.
 
 ---

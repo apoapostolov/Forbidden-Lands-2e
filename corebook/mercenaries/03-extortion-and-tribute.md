@@ -162,7 +162,7 @@ The GM should track the current size of any settlement the band has touched. A m
 >
 > _There was nothing to take. No tribute to negotiate. No stores to draw from. The village was bare. The Gristle left six days of the band's own food with the elder — more than she could afford, less than the village needed — and moved on. Some men looked back. Most did not._
 
-If the band takes what it wants without asking — or forces collection after a refused demand — this counts as an Atrocity (see Section 9). The Standing hit is immediate (-3 minimum at this settlement, -1 at settlements within rumor range). The Feud Track advances by 2 steps.
+If the band takes what it wants without asking — or forces collection after a refused demand — this counts as an Atrocity (see Section 10). The Standing hit is immediate (-3 minimum at this settlement, -1 at settlements within rumor range). The Feud Track advances by 2 steps.
 
 Food and goods taken this way cost nothing in coin but generate the Atrocity consequences. They do feed the band and fill the stores.
 

@@ -418,7 +418,7 @@ A captive who dies through negligence triggers a reduced consequence: Standing a
 
 If the payer counters, the leader makes a MANIPULATION roll (difficulty 1 if the band holds clear leverage, difficulty 2 if the payer is stalling). Success holds the negotiation on band terms. Failure means the payer's number creeps forward.
 
-A deadline passed without payment: execute the captive, extend at cost, or release and absorb the loss. Executing a captive who was not yet paid for is an Atrocity (see Section 9). Releasing them generates no coin but avoids the consequence.
+A deadline passed without payment: execute the captive, extend at cost, or release and absorb the loss. Executing a captive who was not yet paid for is an Atrocity (see Section 10). Releasing them generates no coin but avoids the consequence.
 
 **Ransom rates by captive value:**
 
