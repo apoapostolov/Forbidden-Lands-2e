@@ -2623,7 +2623,7 @@ This mechanic is once per season per Named Man. It is a resource, not a routine.
 
 ---
 
-## Section 7.5: Hired Casters
+## Section 8: Hired Casters
 
 A hired caster is not a Named Man. They do not belong to the band in the same way, do not respond to the same pressures, and cannot be used for the same tasks. They are a practitioner of a discipline that most of the men around them do not understand, and they will not pretend otherwise. The rules for building and tracking them borrow the Named Man structure — attributes, skills, loyalty, triggers, agendas — but diverge in three places: their price, their power, and their reason for being there.
 
@@ -2880,6 +2880,7 @@ Casters share the same D66 roll structure as Named Men. The personalities below 
 | 54-56 | **Professionally Proud** — Regards their craft as a serious discipline practiced by serious people. Resents being used as a shortcut or invoked without preparation.                   |
 | 61-63 | **Death-Familiar** — Has looked at death through their discipline in a way soldiers look at it with iron. Not reckless. Just done being afraid of the specific thing.                  |
 | 64-66 | **Agenda-Driven** — Has a goal that preceded the band and will outlast it. The captain knows the outline. The full shape of it is not something they have shared.                      |
+
 ---
 
 ### Magic in the Mercenary Life
@@ -2968,7 +2969,7 @@ Make them leave. The caster hired for transit leaves when they arrive. The one w
 
 ---
 
-## Section 8: Wanted Men
+## Section 9: Wanted Men
 
 ### Acquiring a Price on Your Head
 
@@ -3016,7 +3017,7 @@ Same as clearing a contract grievance:
 
 ---
 
-## Section 9: Atrocities
+## Section 10: Atrocities
 
 An atrocity is an act that crosses a visible line — visible enough that it defines what the band is known for. The Forbidden Lands is harsh and life is cheap, but even in this setting, some acts rupture something. Villages burn. Captives die begging. People who should have been ransomed are killed for the fun of it. Children disappear. These acts leave marks that gold does not scrub off.
 
@@ -3058,38 +3059,6 @@ This makes the atrocity-plunder trigger a desperation tool. A Tyrant captain who
 Repeat contract breaches, betrayals, and broken oaths accumulate into an OATH-BREAKER flag. Once a band has broken three oaths on record (as heard through Reputation), any MANIPULATION roll to negotiate a new contract takes -2 difficulty. Any settlement elder or warchief who knows the flag will not hire them without extraordinary assurance, usually collateral.
 
 The flag can be reversed by publicly honoring a particularly costly obligation — one where keeping the oath demonstrably hurt the band. This is the only mechanism.
-
----
-
-## Section 10: Integration Points
-
-### Stronghold Defense Rating
-
-GUARDS hired at the stronghold continue to function as described in Ch09. Merges can happen: when the band returns home, their fighters may be assigned to GUARD duty at the stronghold, contributing to its Defense Rating under the unit points formula (Strength × 3 + MELEE + talent rank sum ± armor delta from 7; average common soldier ≈ 15 points). This transition — field band to stronghold garrison and back — is how strongholds grow into real military forces.
-
-**Named Men during downtime:** Named Men assigned to GUARD duty at the stronghold count toward Defense Rating the same way common soldiers do. During a downtime period, a Named Man may additionally be assigned to one of the following stronghold functions per Quarter Day: TRAINING (they drill the common guards, +1 to the COMMAND roll for next season's drill if a Named Man ran it), SCOUTING (a Named Man dispatched as a ranger counts as a standing patrol, satisfying one week of patrol contract terms without the band deploying), or LOGISTICS (reduces the weekly provision cost for garrison fighters by 1 unit per Named Man assigned, to a minimum of half normal cost). A Named Man assigned to stronghold duty does not advance — no XP awards during home-station periods. Loyalty does not decay during downtime as long as pay is current; if pay lapses, standard non-payment rules apply.
-
-### Reputation Cascade
-
-The band's deeds — contracts completed, atrocities committed, bounties earned — all travel through the Ch08 Reputation system. The band does not have its own Reputation score separate from the fellowship's. Their name is the fellowship's name. Every deed adds to or subtracts from the same pool of stories people carry across hexes.
-
-A stronghold's Reputation radiates outward via hire relationships. If the band was hired by a settlement, that settlement knows the fellowship's name and passes it forward. If the band burned that settlement, neighboring settlements know that too.
-
-If the band operates independently for a full season while the PCs are elsewhere — sent on contract without fellowship oversight — atrocities the band commits in that period still attach to the fellowship's name. This is the cost of the name being shared. A future subsystem may introduce a separate Band Notoriety track that can diverge from fellowship Reputation in extreme cases; for now, the band's name is the fellowship's name without exception.
-
-### Feud Track
-
-If the band operates in contested hunting ground, the FEUD TRACK rules (Ch08 optional rules) apply to any hex they operate in belonging to a village. A mercenary band hunting in a claimed hex without negotiation advances the track as if it were a rival hunting party, because it is. Armed men eating game belonging to a village is not a neutral act.
-
-### Talent Integration
-
-**PATH OF THE COMMANDER (Ch04):** This is the existing answer to the band leadership problem. A PC who has taken PATH OF THE COMMANDER at any rank may substitute PERFORMANCE for MANIPULATION on band MORALE checks. At rank 3, when they grant an immediate melee attack to allies per the talent, Named Men may be included as eligible targets if they are within the command radius and the leader has direct line of sight and voice. At rank 5, the Sergeant need not be present to relay orders — the conditioning carries on the men's own initiative for that round.
-
-A band leader without PATH OF THE COMMANDER uses MANIPULATION as written. PATH OF THE COMMANDER adds depth, not replaces. A PC need not have it to lead a band.
-
-**MASTER OF THE HUNT:** A fellowship member with this talent can reduce the band's daily food cost by assigning themselves as head forager. Their special trap clause (from proposal-hunting-season-weather-realism) allows traps to work while the band drills in camp.
-
-**COLD-BLOODED:** Fellowship members with COLD-BLOODED do not personally contribute to the band's aggregate MORALE penalty when an atrocity is ordered. The trigger table's −1 still fires — it reflects the band's reaction, not the leader's composure. Named Men still roll Loyalty checks against their own Triggers. COLD-BLOODED affects the leader's personal contribution to the atmosphere, not the men's judgment of what happened.
 
 ---
 
@@ -3549,7 +3518,39 @@ Sieges, territorial control, and pitched battle between Hosts remain outside sco
 
 ---
 
-## Acceptance Summary
+## Appendix A: Integration Points
+
+### Stronghold Defense Rating
+
+GUARDS hired at the stronghold continue to function as described in Ch09. Merges can happen: when the band returns home, their fighters may be assigned to GUARD duty at the stronghold, contributing to its Defense Rating under the unit points formula (Strength × 3 + MELEE + talent rank sum ± armor delta from 7; average common soldier ≈ 15 points). This transition — field band to stronghold garrison and back — is how strongholds grow into real military forces.
+
+**Named Men during downtime:** Named Men assigned to GUARD duty at the stronghold count toward Defense Rating the same way common soldiers do. During a downtime period, a Named Man may additionally be assigned to one of the following stronghold functions per Quarter Day: TRAINING (they drill the common guards, +1 to the COMMAND roll for next season's drill if a Named Man ran it), SCOUTING (a Named Man dispatched as a ranger counts as a standing patrol, satisfying one week of patrol contract terms without the band deploying), or LOGISTICS (reduces the weekly provision cost for garrison fighters by 1 unit per Named Man assigned, to a minimum of half normal cost). A Named Man assigned to stronghold duty does not advance — no XP awards during home-station periods. Loyalty does not decay during downtime as long as pay is current; if pay lapses, standard non-payment rules apply.
+
+### Reputation Cascade
+
+The band's deeds — contracts completed, atrocities committed, bounties earned — all travel through the Ch08 Reputation system. The band does not have its own Reputation score separate from the fellowship's. Their name is the fellowship's name. Every deed adds to or subtracts from the same pool of stories people carry across hexes.
+
+A stronghold's Reputation radiates outward via hire relationships. If the band was hired by a settlement, that settlement knows the fellowship's name and passes it forward. If the band burned that settlement, neighboring settlements know that too.
+
+If the band operates independently for a full season while the PCs are elsewhere — sent on contract without fellowship oversight — atrocities the band commits in that period still attach to the fellowship's name. This is the cost of the name being shared. A future subsystem may introduce a separate Band Notoriety track that can diverge from fellowship Reputation in extreme cases; for now, the band's name is the fellowship's name without exception.
+
+### Feud Track
+
+If the band operates in contested hunting ground, the FEUD TRACK rules (Ch08 optional rules) apply to any hex they operate in belonging to a village. A mercenary band hunting in a claimed hex without negotiation advances the track as if it were a rival hunting party, because it is. Armed men eating game belonging to a village is not a neutral act.
+
+### Talent Integration
+
+**PATH OF THE COMMANDER (Ch04):** This is the existing answer to the band leadership problem. A PC who has taken PATH OF THE COMMANDER at any rank may substitute PERFORMANCE for MANIPULATION on band MORALE checks. At rank 3, when they grant an immediate melee attack to allies per the talent, Named Men may be included as eligible targets if they are within the command radius and the leader has direct line of sight and voice. At rank 5, the Sergeant need not be present to relay orders — the conditioning carries on the men's own initiative for that round.
+
+A band leader without PATH OF THE COMMANDER uses MANIPULATION as written. PATH OF THE COMMANDER adds depth, not replaces. A PC need not have it to lead a band.
+
+**MASTER OF THE HUNT:** A fellowship member with this talent can reduce the band's daily food cost by assigning themselves as head forager. Their special trap clause (from proposal-hunting-season-weather-realism) allows traps to work while the band drills in camp.
+
+**COLD-BLOODED:** Fellowship members with COLD-BLOODED do not personally contribute to the band's aggregate MORALE penalty when an atrocity is ordered. The trigger table's −1 still fires — it reflects the band's reaction, not the leader's composure. Named Men still roll Loyalty checks against their own Triggers. COLD-BLOODED affects the leader's personal contribution to the atmosphere, not the men's judgment of what happened.
+
+---
+
+## Appendix B: Acceptance Summary
 
 These changes are interdependent. Sections 1–6 (band formation, morale, pay, provisions, extortion and tribute, contracts) are the core and should be accepted together. Section 4 (village extortion) can be deferred if the campaign does not involve coercive play against settlements, but it ties the band economy to the Feud Track and should not be omitted from a full implementation. Sections 7–8 (Named Men, wanted status) layer onto the core and can be added separately. Section 9 (atrocities) is self-contained and adds the moral accounting layer. Section 10 requires no changes — it documents integration with existing systems. Section 11 is a new stronghold function and requires only the War Room text. Section 12 (Serving in Another's Company) is standalone — it can be accepted or omitted entirely independent of all other sections. Section 13 (Host Play) is the full meta-band system; it expands independently of all prior sections and is only meaningful for tables intending multi-band campaigns.
 
@@ -3577,7 +3578,7 @@ Changes 1–7 together form the minimum viable play loop. Without morale and pay
 
 ---
 
-## Open Questions
+## Appendix C: Open Questions
 
 **⏸️ Band reputation vs. fellowship reputation:** Acknowledged as deferred design gap. Section 10 (Reputation Cascade) states the deferral: the band's name is the fellowship's name without exception until a Band Notoriety track is built. Future work, not blocking integration.
 
