@@ -38,24 +38,6 @@ Before demanding anything, compare the band's effective fighting strength to the
 
 **Clearly larger** means at least a 2:1 advantage. At that ratio, resistance costs more than the tribute. Below 2:1, the settlement may calculate that fighting is worth it.
 
-> _The village of Redrun saw them from half a mile out. By the time the column reached the palisade gate, goats had been moved, grain covers drawn, and three men with hand-axes were standing where they could be seen. An elder met her at the door with the expression of a man calculating how many mouths he could not feed._
->
-> _"You are the company from the Greymark posting," the elder said. It was not a question._
->
-> _"We are."_
->
-> _"The posting said ten men."_
->
-> _The Gristle looked back at her column. Fifteen men, rain-black, mud to the knee, Petter leaning on his spear at the rear like a dwarf leaning on a fence post. "The posting said ten," she agreed. "The road said sixteen."_
->
-> _The elder's eyes moved down the line, counting swords, counting mouths, doing the mathematics that every elder in every surviving village did when strangers arrived: how much can we give before winter becomes a worse problem than the men at the gate. He had done this before. Probably more than once._
->
-> _"We can quarter six inside the wall," he said. "The rest in the barn."_
->
-> _"The barn will do." She paused. "We eat our own food."_
->
-> _Something shifted in the elder's face. A small loosening, the kind of relief a man does not want to show because showing it tells the stranger exactly how thin the margin is. "Good," he said. "Good."_
-
 ### Demanding Tribute
 
 The leader chooses whether to negotiate or threaten — use MANIPULATION or INTIMIDATION. The difficulty is the same. The consequences are not.
