@@ -1,8 +1,8 @@
 ## Named Men
 
-> _The thing Skalva did at the Ashfall contract was not complicated. The contract was going wrong — three men down, the kill ground inside the ruin compromised, and the thing they had been hired to kill now between them and the exit. Petter was on the left holding a door that did not want to be held. Gest was calling the column back. What the Gristle was doing in the dark with her sword was not something any of them could see clearly from where they stood._
+> _The thing Skalva did at the Ashfall contract was not complicated. The contract was going wrong — three men down, the kill ground inside the ruin compromised, and the thing they had been hired to kill now between them and the exit. The air in the ruin had turned wrong an hour ago — hot and close, the way stone gets above a forge after the bellows have run all day, and the walls wept moisture that was not rain. Petter was on the left holding a door that did not want to be held. Gest was calling the column back. What the Gristle was doing in the dark with her sword was not something any of them could see clearly from where they stood, but the light that spilled from the kill ground — low, amber, shifting in a way that fire does not — caught her shadow against the far wall._
 >
-> _Skalva was on the right side of the ruin near a window that opened onto the kill ground, and when the thing came through the gap in Petter's line he did not wait to be told. He put himself in the gap — not heroically, the way men talked about it later. He stepped into it the way you step into a queue, because nobody else was there and somebody needed to be. He braced the shield Haldr had left him and held for long enough that Petter could close the door and Gest could turn the column into something that functioned again._
+> _Skalva was on the right side of the ruin near a window that opened onto the kill ground, and when the thing came through the gap in Petter's line he did not wait to be told. He heard it before he saw it — a heavy dragging over flagstone, wet underneath, and the heat hit his face before the shape did. He put himself in the gap — not heroically, the way men talked about it later. He stepped into it the way you step into a queue, because nobody else was there and somebody needed to be. He braced the shield Haldr had left him and the impact drove him back a foot on the stone floor. The shield held. Whatever scraped across its face left a gouge he could fit two fingers into afterwards. He held for long enough that Petter could close the door and Gest could turn the column into something that functioned again._
 >
 > _He did not drive the thing back. He held long enough that the men who could do those things had room to do them._
 >
@@ -186,7 +186,7 @@ Loyalty changes over time:
 - −1 if their Trigger is triggered and the leader does nothing to address it
 - −1 per MORALE step the band falls below 3, each week
 
-> _They lost a man named Haldr on the clearing contract — a cave mouth, a thing inside, and Haldr too far forward when it came out. He took a blow that broke him across the middle and he was dead before Gest could reach him._
+> _They lost a man named Haldr on the clearing contract — a cave mouth, a thing inside. The smell reached them first: rotten meat and wet earth and something under both, older, the way a root cellar smells when no one has opened it in a generation. Haldr was too far forward when the daylight at the mouth went dark. Whatever filled that space was wide enough that the men behind could not see around it. He took a blow that broke him across the middle and he was dead before Gest could reach him._
 >
 > _Petter carried Haldr out on his shoulders. He did this without being asked and without speaking, two miles back to the camp, and when he set the body down his face was the same face it always was. He dug the grave himself. He wrapped what was left of Haldr's gear in the man's own cloak and set it beside the hole and filled the hole and tamped the dirt and stood there for a while._
 >
@@ -379,7 +379,7 @@ _Appearance: Not the biggest. Just the one standing when the others aren't._
 
 > **Example — The Named Man's Choice**
 >
-> Petter the Hook is a Veteran Line Man. Loyalty 2. Trigger: Left behind when wounded. The band is three days into a clearing contract when the GM draws a trigger event — the Gristle calls a retreat after a bad fight, and Brosa is down in the lower chamber. The captain says: "Leave him. We cannot hold the position."
+> Petter the Hook is a Veteran Line Man. Loyalty 2. Trigger: Left behind when wounded. The band is three days into a clearing contract — the lower chamber, where the air is thick with a smell like hot iron and scorched bristle, and something in the dark keeps charging the line — when the GM draws a trigger event. The Gristle calls a retreat after a bad fight. Brosa is down. The captain says: "Leave him. We cannot hold the position."
 >
 > Petter's trigger fires. Left behind when wounded. The GM rolls against Petter's Loyalty. He needs to beat difficulty 1 — the trigger's threshold. At Loyalty 2, he has room. He rolls: one sword. He holds. He follows the order. But his Loyalty drops to 1.
 >

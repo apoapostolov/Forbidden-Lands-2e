@@ -581,7 +581,7 @@ The cipher on the treasury documents is a standard merchant house encoding — c
 
 The Gristle named herself after a contract where she was the only one who ate and made the men march on empty. It stuck. She has not tried to lose it. The band works the Yendra and Harga road — patrol contracts, clearance jobs, escort runs through contested hexes — and has been doing it long enough that the name carries weight at settlement councils and posting boards. They are not large. They are reliable, which in the Ravenlands is worth more than size.
 
-Two dwarves, a half-elf sorcerer, an Aslene rider, a thief who has not yet been caught at it, a boy with clean boots who is learning what this costs, and the men who hold the line between them. Gest keeps the ledger. Petter sharpens things that do not need sharpening. Ash keeps a ward on the camp perimeter that costs her a nosebleed every morning. They lost Haldr at a clearing contract south of Ravenford — a cave mouth, a thing inside, Haldr too far forward. His boots went to Skalva. His axe went to Weatherstone with Petter. The fire took several days to fill.
+Two dwarves, a half-elf sorcerer, an Aslene rider, a thief who has not yet been caught at it, a boy with clean boots who is learning what this costs, and the men who hold the line between them. Gest keeps the ledger. Petter sharpens things that do not need sharpening. Ash keeps a ward on the camp perimeter that costs her a nosebleed every morning. They lost Haldr at a clearing contract south of Ravenford — a cave mouth, a thing inside that blocked the daylight, Haldr too far forward. His boots went to Skalva. His axe went to Weatherstone with Petter. The fire took several days to fill.
 
 ---
 

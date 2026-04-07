@@ -91,19 +91,19 @@ MORALE is a single score from 1 to 5 tracked for the whole band. It is not a cha
 
 | GRIEVANCE                                  | DIFFICULTY |
 | ------------------------------------------ | ---------- |
-| Late wages, 7 or fewer days                | 1          |
+| Late wages (any duration)                  | 1          |
 | Named Man killed in action                 | 1          |
-| Atrocity ordered, plunder distributed      | 2          |
-| Late wages, 8–14 days                      | 2          |
-| Mission pay unpaid 3+ days                 | 2          |
+| Mission pay unpaid 3+ days                 | 1          |
+| Atrocity ordered, plunder distributed      | 1          |
 | Atrocity ordered, no plunder               | 2          |
-| Retainer unpaid 15+ days                   | 3          |
-| Contract broken through captain's decision | 3          |
-| Fellowship abandoned the band              | 3          |
+| Contract broken through captain's decision | 2          |
+| Fellowship abandoned the band              | 2          |
+
+Most grievances sit at difficulty 1. The worst — broken contracts, abandonment, atrocities that gained nothing — start at difficulty 2. Nothing begins higher than 2 from the event alone.
+
+**Escalation.** A badly handled Argument or Escalation (see Campaign Life) can push a grievance's difficulty up by 1 or even 2. That is how difficulty 3 and 4 grievances appear — not from the original event but from the captain's failure to contain what followed. A difficulty 1 grievance that sparks an Argument and then an unresolved Escalation can land at difficulty 3. The base event did not cause it. The captain's handling did.
 
 **Stacking.** Only the highest active grievance sets the difficulty. Multiple small grievances do not pile into a catastrophic number. Two active grievances at difficulty 1 still produce difficulty 1. Three or more grievances at the same difficulty increase the effective difficulty by 1 — three difficulty-1 grievances produce difficulty 2. Cap at 4.
-
-A badly handled Argument or Escalation (see Campaign Life) can produce a difficulty 2 or even difficulty 3 grievance on its own — real bad blood does not need stacking to reach serious numbers. Events until they escalate are generally difficulty 1; only the worst of them reach difficulty 2 alone.
 
 **Clearing on a check.** When the captain succeeds on a voluntary MORALE check, the highest grievance is cleared. If the roll produced extra swords beyond the difficulty, each extra sword clears one additional grievance of equal or lower difficulty, starting from the next-highest. A single strong roll can sweep the board.
 
@@ -111,13 +111,13 @@ A badly handled Argument or Escalation (see Campaign Life) can produce a difficu
 
 > **Example — The Voluntary Check**
 >
-> The Gristle's band is at MORALE 3 (Shaken). Three grievances are active: late wages at nine days (difficulty 2), Haldr killed in action last week (difficulty 1), and a wet miserable march with no contract news (difficulty 1). The difficulty is set by the worst grievance — late wages at 2. The two additional difficulty-1 grievances do not increase the difficulty further because they are lower than the lead grievance; it would take three of them at the same level to push up by 1.
+> The Gristle's band is at MORALE 3 (Shaken). Three grievances are active: a broken contract from the botched Ashridge job (difficulty 2), Haldr killed in action last week (difficulty 1), and a wet miserable march with no contract news (difficulty 1). The difficulty is set by the worst grievance — the broken contract at 2. The two additional difficulty-1 grievances do not increase the difficulty further because they are lower than the lead grievance; it would take three of them at the same level to push up by 1.
 >
-> The Gristle has the coin now. The Ashfall contract paid yesterday. She calls the men to the fire. She pays them first — silver on the stump, names called, shares counted. Then she says Haldr's name and says what he did at the cave mouth and gives his boots to Skalva, who needed boots.
+> The Gristle has taken a new contract. She calls the men to the fire. She tells them plainly that the Ashridge job failed and what she will do differently. Then she says Haldr's name and says what he did at the cave mouth and gives his boots to Skalva, who needed boots.
 >
-> She rolls MANIPULATION: three base dice, one skill die. Three swords. Difficulty is 2. She succeeds with one extra sword. The first success clears the worst grievance — late wages. The extra sword clears one additional grievance of equal or lower difficulty: Haldr's death, difficulty 1, is cleared. The remaining grievance — the wet march, difficulty 1 — stays active, but the teeth are gone. Two out of three grievances swept in one address.
+> She rolls MANIPULATION: three base dice, one skill die. Three swords. Difficulty is 2. She succeeds with one extra sword. The first success clears the worst grievance — the broken contract. The extra sword clears one additional grievance of equal or lower difficulty: Haldr's death, difficulty 1, is cleared. The remaining grievance — the wet march, difficulty 1 — stays active, but the teeth are gone. Two out of three grievances swept in one address.
 >
-> MORALE holds at 3. The men heard her speak and watched the dice land and what they saw was a captain who paid, who said the dead man's name, and who rolled well enough to make it stick. The -1 MELEE penalty stays until MORALE rises, but the band walks into the next contract with one grievance instead of three. If the Gristle had rolled only two swords — just meeting the difficulty — only the late wages would have cleared. The extra sword is what bought the second.
+> MORALE holds at 3. The men heard her speak and watched the dice land and what they saw was a captain who owned the failure, who said the dead man's name, and who rolled well enough to make it stick. The -1 MELEE penalty stays until MORALE rises, but the band walks into the next contract with one grievance instead of three. If the Gristle had rolled only two swords — just meeting the difficulty — only the broken contract would have cleared. The extra sword is what bought the second.
 
 **Starting MORALE.** A fresh band recruited from a single settlement begins at 3. After a successful first engagement and receiving promised pay, it rises to 4.
 
@@ -138,7 +138,7 @@ These change MORALE at the end of each week.
 | Fellowship abandoned the band in danger          | -2                                               |
 | Named Man killed                                 | -1                                               |
 
-**Net movement cap.** All applicable triggers fire each week, ranked by severity (largest modifier first). The score stops moving after a net change of 3 in either direction. Remaining triggers do not adjust the score but are recorded as active grievances — they feed MORALE check difficulty and are visible to the captain. Three or more unresolved triggers at the same level compound into one grievance one step worse.
+**Net movement cap.** All applicable triggers fire each week, ranked by severity (largest modifier first). The score stops moving after a net change of 2 in either direction. Remaining triggers do not adjust the score but are recorded as active grievances — they feed MORALE check difficulty and are visible to the captain. Three or more unresolved triggers at the same level compound into one grievance one step worse.
 
 **Floor.** MORALE cannot drop below 1 through trigger applications alone. A trigger that would push MORALE to 0 or below holds the band at MORALE 1. Band dissolution is a MORALE check failure at MORALE 1 during an engagement, not a trigger outcome. The captain still faces the BROKEN check if an engagement fires before a positive trigger arrives.
 
@@ -148,11 +148,11 @@ These change MORALE at the end of each week.
 >
 > The Named Man's death and the late wages each register as a difficulty 1 grievance. Two difficulty-1 grievances do not stack — the check difficulty is still 1, set by the worst. The captain can clear both at a voluntary check if she rolls one extra sword beyond the difficulty.
 >
-> Now consider a worse week. Same three events, plus a broken contract (-2). Total triggers: +1, -1, -1, -2 = net -3. The cap fires — net movement of 3 in either direction. MORALE 4 drops to 1 (Broken).
+> Now consider a worse week. Same three events, plus the captain breaks the contract (-2). Total triggers: +1, -1, -1, -2 = net -3, but the cap is 2. MORALE 4 drops to 2 (Wavering), not 1. The remaining -1 that would have pushed to BROKEN does not fire — instead it is recorded as an active grievance.
 >
-> The broken contract registers as a difficulty 3 grievance. The Named Man's death and the late wages are each difficulty 1. Two difficulty-1 grievances do not push the check difficulty higher — the worst grievance (broken contract, difficulty 3) still sets the number alone. The captain now sits at BROKEN with a difficulty 3 grievance and two unresolved difficulty-1 grievances.
+> The broken contract registers as a difficulty 2 grievance. The Named Man's death and the late wages are each difficulty 1. The capped trigger — the excess that did not move the score — also sits as a difficulty 1 grievance from the event that produced it. The captain now sits at WAVERING with a difficulty 2 grievance and three unresolved difficulty-1 grievances. Three of a kind at the same level: they compound to a difficulty 2 grievance. Two difficulty-2 grievances do not stack further — the check difficulty is 2, set by the worst.
 >
-> If a third difficulty-1 grievance arrived — say another Named Man killed — the three-of-a-kind rule fires: three difficulty-1 grievances compound into a single difficulty-2 grievance. Now the captain faces difficulty 3 from the contract breach and difficulty 2 from the compounded grief. The check is still set by the worst: difficulty 3. But clearing it requires more extra swords to sweep the board.
+> Bad, not catastrophic. The band dropped two steps in a week. The captain still has room to act — a voluntary check at difficulty 2 with extra swords can sweep several grievances. If she pays the wages and wins the next engagement, the positive triggers can claw back toward Steady. A single disastrous week hurts, but does not end the band.
 
 **Ceiling.** MORALE cannot exceed 5. Positive triggers earned above the ceiling are lost.
 

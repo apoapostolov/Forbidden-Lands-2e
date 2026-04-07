@@ -345,11 +345,7 @@ Hosts end. Some cleanly. Most do not.
 >
 > The decision: take the forty-three silver and march before anyone else claims it, or leave it and walk out clean. Taking it is not theft — no authority remains to dispute a claim. Leaving it means the forty-three silver sits on the table until someone with fewer scruples collects it.
 >
-> The Gristle takes twenty silver. Enough for three days of food. She leaves the rest for whoever comes next. She tells Gest to note it in the ledger.
->
-> "There is no ledger," Gest says. "The Host is dissolved."
->
-> "Write it anyway," she says. "We will know what we took."
+> The Gristle takes twenty silver. Enough for three days of food. She leaves the rest for whoever comes next. She tells Gest to note it in the ledger. Gest tells her there is no ledger — the Host is dissolved. She tells him to write it anyway. They will know what they took.
 >
 > They march south. MORALE holds at 3 — the band was paid through last week and the Gristle’s decision to leave the surplus behind is the kind of act that prevents a MORALE check rather than triggering one. Petter carries the standard. Skalva watches the road behind them. Ash counts her reagents. The Host is gone. The band is not. That is the difference between a Warmaster’s problem and a captain’s.
 > **If the Host has a caster:** Locate traces any person or object the caster has personally encountered — enough to find scattered bands and confirm whether the strategic reserve was carried off. A Recall symbol inscribed at the treasury vault lets the Warmaster transport back during a collapse.

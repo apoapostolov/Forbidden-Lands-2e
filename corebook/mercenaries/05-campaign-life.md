@@ -231,14 +231,27 @@ When a trigger fires, the GM picks or rolls for two participants. If one is a Na
 | 3     | Drawn Weapons | Steel is out. Everyone in camp has stopped what they were doing.                                                         | INTIMIDATION difficulty 2, or physical interposition (grapple).  |
 | 4     | Blood         | Combat begins. First blood or BROKEN condition ends the fight — unless no one intervenes and rage runs ahead of caution. | No intervention roll. Stop the fight physically or let it end.   |
 
-If the argument reaches Stage 4 without intervention, roll D6 after the fight ends. On a 1, one participant is dead — the blow landed wrong, someone's blade slipped. On a 2–6, the loser is Broken and the winner is standing over him. The captain now has a body or a badly broken man, neither of which is good for what comes next.
+If the argument reaches Stage 4 without intervention, combat resolves until one man is Broken. Roll D6 after the fight ends. On a 6, the blow landed wrong — one participant is dead. If either fighter is drunk, death occurs on 5–6. The captain now has a body or a badly broken man, neither of which is good for what comes next.
 
 **MORALE cost by outcome:**
 
 - Argument stayed at Stage 1–2, resolved: no cost
-- Argument reached Stage 3, resolved without blood: MORALE -1 (the men saw it, they're thinking about it)
-- Stage 4 with a Broken loser: MORALE -1, and both participants are unavailable that Quarter Day
-- Stage 4 with a dead participant: MORALE -1, and apply the Death of a Member rules (see below)
+- Argument reached Stage 3, resolved without blood: no MORALE cost. The grievance hardened (+1 difficulty), and that is punishment enough. The men saw it and they are thinking about it, but the band did not bleed.
+- Stage 4, no death: MORALE -1. Both participants are unavailable that Quarter Day. Even without a corpse, Stage 4 leaves lasting grudges — the men watched two of their own try to kill each other, and the tension does not leave when the blood dries. The +2 grievance escalation is already severe; the MORALE drop is the scar on top of it.
+- Stage 4 with a death: MORALE -2 and apply the Death of a Member rules (see below). A man is dead over something that started with words. The captain allowed it.
+
+The captain's priority is clear: prevent Stage 4. Stage 3 is bad — drawn weapons harden the underlying grievance and the company remembers. Stage 4 is where the band starts to break. A death at Stage 4 is the worst single-event MORALE hit in the system, and the grievance that caused it is now two steps harder to clear. If the original grievance was difficulty 2 — a broken contract, an ordered atrocity — it is now difficulty 4, blood hatred. Four swords on a MORALE check to clear. Most captains cannot roll that.
+
+**Grievance escalation.** Arguments harden grievances. When an argument is rooted in an active grievance (late wages, a death, a broken contract), the argument's outcome pushes that grievance's difficulty upward.
+
+- Argument reached Stage 3, resolved: the underlying grievance's difficulty increases by +1
+- Argument reached Stage 4 (whether or not blood was fatal): the underlying grievance's difficulty increases by +2
+
+Cap at difficulty 4. A difficulty 4 grievance is blood hatred — the kind of wound a band carries until the captain sweeps it or the band splits. Clearing it requires four swords on a voluntary MORALE check, which means the captain must roll exceptionally well or not attempt it at all.
+
+This is the only path to difficulty 3 and 4 grievances. Base events produce grievances at difficulty 1 or at most 2. The escalation ladder is what turns a manageable complaint into something that can break a company. A late-wages grievance that starts at difficulty 1, sparks a Stage 3 argument, and then boils over into a Stage 4 fight lands at difficulty 3. The wages did not cause that. The captain's failure to intervene did.
+
+If the argument is not rooted in an active grievance — a personal grudge, a Trigger reaction, a boredom fight — no grievance escalation occurs. The MORALE cost applies as normal.
 
 **Named Men and arguments:** A Named Man involved in a Stage 3 or 4 argument who loses rolls against their Loyalty. On a failure, their Loyalty drops by 1 — whatever broke the surface is still working. A Named Man who wins a Stage 4 argument gains no mechanical benefit, but their standing in the company rises: the GM should treat them as more respected by anonymous fighters for the remainder of the season.
 
@@ -268,9 +281,11 @@ If a Named Man's Trigger is spoken aloud — not implied, stated plainly in fron
 >
 > Petter steps between them. Physical interposition. He rolls MANIPULATION difficulty 2: one sword. Failure. The argument holds at Stage 2, and now Petter is in it — Rask turns on him. "You take his side because you always take his side."
 >
-> **Stage 3 (Drawn Weapons).** Rask draws his short sword. Steel in the firelight. Everyone in camp has stopped eating. The Gristle has not moved from her seat. She watches.
+> **Stage 3 (Drawn Weapons).** Rask draws his short sword. Steel in the firelight. Everyone in camp has stopped eating.
 >
-> Skalva calls flyting. Rask looks at him. "Words?" he says. "Fine. Words."
+> The Gristle stands. She does not raise her voice. She walks to the fire and stops between Rask and the rest of the company so that his blade is pointed at her instead of at Skalva. She tells him to sheathe it. He does not move. She tells him again, flat and final, and the look on her face is the look of a woman who has been here before — not this fire, not these men. A different company, years ago, when she was Skalva's age and carried someone else's shield. Two men argued over a dead mule's saddlebags. It reached Stage 4 before the captain looked up from his wine. One man broke the other's jaw with a pommel strike and the broken man hit the ground wrong and did not get up. The captain rolled the body into the ditch with his boot and said nothing about it at morning count. The company lost a fighter over leather and brass fittings. The Gristle watched the ditch fill with rain and decided what kind of captain she would be.
+>
+> Rask sheathes the sword. Skalva sits. The argument holds at Stage 3, resolved — the underlying grievance hardens by +1 difficulty. No MORALE cost. The men saw steel and they will remember it, but nobody bled and nobody died. That is the line the Gristle holds.
 
 **Flyting.** A man with a quick mouth and a specific grievance can turn Stage 2 or 3 into something the whole company watches rather than joins. An old tradition. It has a shape the Ravenlands recognizes — a word-fight instead of a blade-fight, formal enough that the watching men hold still.
 
@@ -292,11 +307,11 @@ If either participant breaks the frame before the roll — draws steel, throws a
 
 > **Example — The Word-Fight**
 >
-> Skalva and Rask face each other at Stage 3. Flyting accepted. Opposed PERFORMANCE roll, difficulty 3 (current stage).
+> Skalva and Rask face each other at Stage 3. Flyting accepted. The men at the fire go quiet. Opposed PERFORMANCE roll, difficulty 3 (current stage).
 >
-> Skalva has PERFORMANCE 0 — no skill dice, just his EMP of 2. Two base dice. He rolls: one sword.
+> Skalva opens. He has PERFORMANCE 0 — no skill dice, just his EMP of 2. Two base dice. He calls Rask a belt-knife thief who counts another man's kills because he has none worth counting, and says the only reason Rask draws steel over a dead man's blade is that he has never owned one worth keeping. Skalva rolls: one sword.
 >
-> Rask has PERFORMANCE 1. Three dice total. He rolls: two swords.
+> Rask answers. He has PERFORMANCE 1. Three dice total. He calls Skalva a boy who ran from his mother's cookfire to play at soldiers and still flinches when the column halts, says Skalva's sword arm shakes in the cold because it has nothing in it worth warming, and tells the company that the knife is his by right because the kill was his — and if Skalva wants to dispute that, he should try making a kill of his own before the season turns. Rask rolls: two swords.
 >
 > Rask wins by 1. The argument resolves at Stage 1. Rask keeps the knife. Skalva owes a public concession — the next time an unrelated dispute arises and Rask takes a position, Skalva backs him in front of the company. The debt sits between them like a stone neither picks up until the moment arrives.
 >
@@ -316,9 +331,7 @@ On failure: the compliment lands hollow. Wrong thing, wrong tone, a feat the hon
 >
 > Rask sheathes the knife he was reaching for. The argument resolves at Stage 1.
 >
-> Edric pushes forward. "I do not care what he did at Ashfall. I care what he did last night when he was not at his post."
->
-> Pushing forward after the honored man stepped back costs MORALE -1. The company saw Rask take the exit. They saw Edric refuse the peace. They will remember.
+> Edric pushes forward — he names the real grievance, the missed watch the night before, and refuses the peace that Rask accepted. Pushing forward after the honored man stepped back costs MORALE -1. The company saw Rask take the exit. They saw Edric refuse it. They will remember.
 
 ---
 
@@ -358,11 +371,11 @@ No brotherhood or bounty oath can be dissolved by agreement. That is the point o
 >
 > Petter and Skalva swore a brotherhood oath after the Ashfall contract. Open cuts, the company watching, the words spoken over the fire.
 >
-> Three months later, the band is retreating from a clearing contract gone wrong. Skalva takes a blow that drops him to Broken in the lower passage. The Gristle calls the withdrawal: "Leave him. We cannot hold."
+> Three months later, the band is retreating from a clearing contract gone wrong — a lower passage where the air went cold fifty feet in and the walls bore claw marks that ran upward instead of along. Skalva takes a blow that drops him to Broken. The Gristle calls the withdrawal: "Leave him. We cannot hold."
 >
 > Petter's oath fires. He will not abandon his oathbound partner voluntarily. The GM calls for a Loyalty roll. Petter is at Loyalty 3. He rolls against difficulty 1. Any result — success or failure — means he hesitates one Round before following the captain's order.
 >
-> One Round. The thing in the passage is still moving. Petter stands over Skalva's body with his shield up and his back to the exit. The Round passes. On the next initiative, Petter follows the order — he drags Skalva by the collar, one-handed, shield forward, toward the withdrawal line.
+> One Round. The thing in the passage is still moving — a dry, grinding sound on stone, rhythmic, like something walking that does not bend its knees. Petter stands over Skalva's body with his shield up and his back to the exit. The Round passes. On the next initiative, Petter follows the order — he drags Skalva by the collar, one-handed, shield forward, toward the withdrawal line.
 >
 > The Gristle watches this from the corridor mouth. She does not punish the hesitation. She does not acknowledge it. But she records it in the part of her memory that tracks which orders will cost time when Petter is in the line, and she adjusts her plans accordingly.
 >

@@ -511,7 +511,7 @@ What a dead band's hoard contains is up to the GM. Some captains buried coin and
 
 > _The contract at Blackwood was bad from the posting. Gest read it twice and set it down and looked at the Gristle with the expression he reserved for things he did not want to say out loud._
 >
-> _"It's a clearing," he said. "But the thing they want cleared has been there for eighty years and three companies have tried it and none of them came back whole."_
+> _"It's a clearing," he said. "But the thing they want cleared has been there for eighty years and three companies have tried it and none of them came back whole. The posting says goats have turned up stiff on the hillside above the entrance — not dead, Gristle. Stiff. Standing where they stood. And the trees around the mouth have gone grey all the way through, like old chalk."_
 >
 > _"How much?"_
 >

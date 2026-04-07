@@ -61,13 +61,13 @@ Most fighters in the Ravenlands are human. The others are not impossible to find
 
 These modifiers apply to the settlement recruitment roll only — the MANIPULATION roll. They are not permanent attribute adjustments.
 
-> **Example — The Wolfkin Recruit**
+> **Example — The Halfling Recruit**
 >
-> The Gristle hires a wolfkin named Skara at a crossroads camp. The GM rolls D3: result 2. Two additional wolfkin arrive within the day — Skara's packmates, a male and a female, both Common tier. They sign at the same terms. No extra recruitment roll.
+> The Gristle hires a halfling named Allec at a crossroads inn south of Belifar. He is short, pale, and carries a sling he says he has used on men, which nobody believes until he demonstrates. He signs at standard terms and asks for an advance, which the Gristle declines, which he accepts without argument.
 >
-> The three wolfkin eat apart from the others. They sleep in a cluster near the tree line. Petter watches them the way he watches anything new — without expression, for three days straight. Brosa asks Skalva whether they bite. Skalva tells him not to find out.
+> Allec eats with whoever will have him. He sleeps near the fire with his pack under his head. Petter watches him the way he watches anything new — without expression, for three days straight. Brosa asks Skalva whether halflings steal. Skalva tells him not to ask that where Ferrec can hear it.
 >
-> By the second week the wolfkin are scouting ahead of the column and the human fighters have stopped flinching at the sounds from the tree line at night. The pack holds its own perimeter. Nobody asked them to. That is how wolfkin work — the captain hired one and got three, and the three function as a unit inside the unit, loyal to each other first and the band second.
+> By the second week Allec is scouting the column's flank and reporting back with a precision the human fighters find mildly irritating. He is small enough to move where the column's larger men cannot, quiet enough that the sentries have stopped flinching at sounds from the brush, and careful enough that the Gristle has begun to rely on his count without checking it. He does not complain about the food, the march, or the pay. He complains about the mud, constantly, which the men have decided is tolerable.
 
 ### Advance Payment
 
@@ -298,7 +298,7 @@ If the band has a BARRACKS or SHELTER back at the stronghold, apply the standard
 >
 > Wages are eleven days late on retainer. The treasury has 4 silver — enough for two common fighters for a week, not sixteen men. On day fourteen the GM rolls D6 on the Field Non-Payment table: a 4. The sergeant confronts the leader publicly.
 >
-> Gest stands at the evening fire with his arms at his sides and speaks loud enough for every man in the camp to hear. "The men are owed. You know the number. They know the number. What are you going to tell them?"
+> Gest stands at the evening fire with his arms at his sides and puts the question to the Gristle plainly, loud enough for every man in camp to hear: the men are owed, the number is known, and what does the captain intend to tell them.
 >
 > The Gristle rolls MANIPULATION against difficulty 2. She has three dice in the pool. She rolls: one sword. She could push — re-roll the failures — but a pushed roll that fails in front of the assembled company would cost more than the MORALE point. She accepts the failure.
 >

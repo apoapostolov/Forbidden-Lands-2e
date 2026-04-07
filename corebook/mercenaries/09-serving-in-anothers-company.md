@@ -86,17 +86,9 @@ The GM may adapt: Twice-Broken, Cold-Eye, The Half, Long-Shepherd, Pale Winter. 
 >
 > The fellowship's player has been BLADE for three sessions. During a night raid on a fortified camp, the sergeant goes down — an arrow through the shoulder that puts him flat. The ten-man section freezes. The player's character grabs the sergeant's horn, blows the rally, and calls the section forward through the breach. No MANIPULATION roll — she is not giving an order, she is filling a gap. The five nearest men follow because she moved first.
 >
-> The breach holds. The contract completes. Afterward, Petter — a Named Man with Loyalty 3 — goes to Torsten.
+> The breach holds. The contract completes. Afterward, Petter — a Named Man with Loyalty 3 — goes to Torsten and tells him the girl at the breach should be Called. Torsten asks for a name. Petter says nothing — he looks at the fellowship's player. The other men are already talking about it. Someone suggests "the Horn" for the rally call, another "Breach" for where she stood. The player proposes "Ironback" because she turned her back to the archers to face the section forward. Torsten accepts it. He says the name once. The sergeant, arm in a sling, nods. By the next morning three men use it without thinking. By the following week it is the only name anyone uses.
 >
-> "The girl at the breach," Petter says. "She should be Called."
->
-> Torsten asks: "What name?"
->
-> Petter does not answer. He looks at the fellowship's player. The other men are already talking about it. One of them says "the Horn" because of the rally call. Another says "Breach" because that is where she stood. The player proposes "Ironback" because she turned her back to the archers to face the section forward.
->
-> Torsten says: "Ironback." He says it once. The sergeant, arm in a sling, nods. By the next morning three men use the name without thinking about it. By the following week it is the only name anyone uses.
->
-> The player's rank advances to CALLED. Pay rises to 2 silver per day. She may now lead detachments of three to five men. The name travels — at the next settlement, the gate guard asks: "You're the Ironback from the Stillmire breach?" She is.
+> The player's rank advances to CALLED. Pay rises to 2 silver per day. She may now lead detachments of three to five men. The name travels — at the next settlement, a gate guard recognizes it. She is the Ironback from the Stillmire breach.
 
 > **GM Advice — Running the Captain**
 >
@@ -163,7 +155,7 @@ On failure: the mutiny collapses. Each Named Man who participated rolls Loyalty 
 >
 > Torsten's opposed roll: EMP 4, MANIPULATION 3. Seven dice. One sword. He loses.
 >
-> The company splits. Torsten steps down. He does not beg. He sets his polearm against the wall and walks to the supply wagon and begins packing his personal kit. The First Blade watches and says nothing. Within an hour the First Blade approaches Held and says: "I will serve. Tell me where we march."
+> The company splits. Torsten steps down. He does not beg. He sets his polearm against the wall and walks to the supply wagon and begins packing his personal kit. The First Blade watches in silence, then approaches Held within the hour and pledges service — he needs a direction to march.
 >
 > Held looks at the fellowship's player. The player looks at the village. The elder is standing in the gate, watching armed strangers argue about whether to destroy her home.
 >

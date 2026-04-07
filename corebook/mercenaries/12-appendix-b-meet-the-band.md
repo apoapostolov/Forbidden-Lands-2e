@@ -152,7 +152,7 @@ _Human · Fighter · Young_ **WP Max 8**
 
 **Dark Secret:** The plot near the river you have been saving for does not exist. The figure keeps going up because you keep raising it. You do not know why you cannot stop.
 
-**Relationships:** Brosa — "The other new man. He does everything wrong and walks away from it. You check everything and still feel behind." · Haldr — "He was too far forward when it came out. His boots fit. You wash them every morning."
+**Relationships:** Brosa — "The other new man. He does everything wrong and walks away from it. You check everything and still feel behind." · Haldr — "He was too far forward when the daylight went dark. His boots fit. You wash them every morning."
 
 ---
 
@@ -232,7 +232,7 @@ _Human · Rider · Adult_ **WP Max 6**
 
 **Haldr** — _Human (Ailander). Common. Posthumous._
 
-Died at the clearing contract. A cave mouth, a thing inside, and Haldr too far forward when it came out. His boots went to Skalva. His axe went to Weatherstone with Petter. His spot at the fire took several days to fill.
+Died at the clearing contract. A cave mouth, a thing inside that stank of rot and filled the entrance when it came out, and Haldr too far forward. His boots went to Skalva. His axe went to Weatherstone with Petter. His spot at the fire took several days to fill.
 
 _Human · Fighter · Young_ **WP Max 7**
 
