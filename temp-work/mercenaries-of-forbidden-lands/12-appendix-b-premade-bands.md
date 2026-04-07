@@ -398,15 +398,17 @@ Hadric has been extracting tribute from settlements for two years. He is buildin
 
 Hadric's cache — buried under the north wall's collapsed floor in the ruined watchtower two hexes east of Feldwick, inside a sealed hardwood box:
 
-- **312 silver** accumulated over eight tribute extractions and four contracts, held back at the captain's discretionary margin; Hadric considers this the foundation investment, not a treasury
+- **277 silver** accumulated over eight tribute extractions and four contracts, held back at the captain's discretionary margin; Hadric considers this the foundation investment, not a treasury
 - **A quality long sword**, master-made, taken from a garrison commander whose post they broke two seasons ago. The blade has a maker's mark the right buyer would recognize.
+- **A gold signet ring**, stripped from the same garrison commander. Heavy worked band, onyx face, no house mark — either the mark was removed before the campaign or the man had the sense not to display his origins on the road. Worth 40 silver to a goldsmith who asks no questions. Hadric wears it on evenings when he wants a room to reread him before he speaks.
 - **Two full suits of chainmail**, stripped from surrendered soldiers still in serviceable condition. Each worth 12 silver on resale to an armorer, or instantly useful to whoever wears them.
 - **A sealed letter** bearing a warchief's private mark — the contact Hadric has been cultivating. The letter commits the warchief to a meeting at a location written in cipher. Varis has read it. Hadric does not know this.
 - **A hand-drawn map** on vellum showing Hadric's intended territorial expansion: three settlement clusters circled with a system of tribute routes sketched between them. Evidence of ambition that would alarm at least two current contractors if it surfaced.
 
 Varis's cache — behind the south face's loose foundation stone in the same ruin, in a cavity Hadric has not checked:
 
-- **155 silver** Varis has been reserving from his own share and from funds he has redirected through the company's fence contact over three months
+- **144 silver** Varis has been reserving from his own share and from funds he has redirected through the company's fence contact over three months
+- **A flat gold disc on a cord**, unmarked, uninscribed. A dead man was carrying it three months ago along with a letter Varis needed more. He kept both. Pure gold, thumb-width — worth 12 silver in raw weight and nothing identifiable, which is the specific combination useful to a man building an exit. He does not know whose it was and has stopped thinking about it.
 - **A master-made short sword**, balanced for draw rather than display. His own tool.
 - **A quality crossbow** with a case of 24 quarrels, wrapped in oilcloth.
 - **A working knife with a weighted pommel**, purchased from a craftsman specifically — the balance is for throwing, not cutting. Four men know this. None of them are in the company.
@@ -573,6 +575,7 @@ Active contract — a revenge job. An employer paid to have a specific named per
 - **215 silver** accumulated across nine contracts, held back at the captain's personal margin — never discussed with the company and not visible in the wages ledger
 - **The treasury documents** — six sheets of densely ciphered text, taken from a contract two seasons ago and never returned to the employer. The employer has since died, which the captain considers closure on the contract but not the question of what the documents say.
 - **The bronze administrative seal** — a merchant house mark that Ghost has already recognized. The seal validates documents under that house's authority. It has not been used. The captain has considered it.
+- **A gold verification token**, stamped on both faces with the same merchant house cipher as the documents and the seal — a courier's authentication piece, pre-Mist guild issue. Sixteen silver in raw gold weight. The token's function: it confirms the ciphered documents originated from inside the house's senior ledger system, not from a forgery or a partial copy. The captain found it in the case with the cipher sheets and listed it nowhere. Ghost has identified the bronze seal's provenance but has not seen this.
 - **A full set of civilian travel clothes**, folded and wrapped. A merchant-quality wool coat, a plain linen shirt, and boots with minimal wear. They fit the captain and nobody else here.
 - **A sealed letter of introduction** in a false name, citing him as a factor for a trading house based three regions away. The letter is a forgery but a competent one — the captain made it himself over the better part of a winter. The trading house is real. The house does not know the letter exists.
 - **A small wax-sealed vial** containing a clear liquid. Arven, if shown it, would identify the contents in under a minute. The captain has never shown it to Arven.
@@ -1180,6 +1183,7 @@ Dwarves do not bury coin loose under rocks. The Oslunds use a false bottom.
 - **A rough amethyst** — uncut, thumb-sized, worth 8 silver to a jeweler, 3 silver to anyone else
 - **A polished garnet** — cut and set in plain iron, a former employer's payment-in-kind; worth 14 silver as a piece, more if the iron setting is replaced
 - **A raw smoky quartz** — large, still attached to its matrix. Worth 4 silver for the stone, another 2 silver for the matrix to the right buyer. Worth nothing to someone who does not know what they are holding.
+- **Two small gold strips**, refined and stamped with assay marks from the Oslund family's creditor clan — a standard Old Oslic storage unit, worth 12 silver each; immune to debasement, accepted at face value by any dwarf family with standing, and unreadable to anyone outside the tradition. Durn stores them because the debt the clan holds is expressed in historical units, and arriving at final settlement with debased coin is not an option he has considered.
 - **The amber-and-bronze piece** — a palm-sized amber cabochon in a worked bronze mount, distinctive and old. The merchant being escorted paid for a different escort three years ago, from a company that no longer exists. Several items went missing in that contract. He has been quietly looking for this one since. It is worth 18 silver on the legitimate market. It is worth a grievance to the merchant. He has not yet been near enough to the right chest to see it.
 - **A small clay-sealed tin** containing a full set of dwarf-tradition metalwork tools — punches, gauges, a specific profile of forming hammer. Worth 7 silver to a dwarf smith, 1 silver to anyone else.
 - **The clan bond document** rolled in Old Oslic script, stored at the very bottom, wrapped in linen — the founding terms of the debt Durn intends to repay, the original amount expressed in historical units, the creditor clan's formal name, and a statement that if the debt is not settled within the current generation, it passes to the next by clan law. Durn updates it after each contract that increases the payment fund. The current addition is written in the margin in a different ink.
