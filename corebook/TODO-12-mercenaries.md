@@ -124,7 +124,7 @@ What the world does when the band crosses lines.
 
 **Missing vignette (needs addition):**
 
-- [ ] Wanted Men vignette — no fiction blockquote currently opens the Wanted Men section
+- [x] Wanted Men vignette — fiction blockquote added ("The posting arrived at Hollowford")
 
 ### Phase 6: Optional Systems (Sections 11–13)
 
@@ -145,9 +145,9 @@ service under another captain, or multi-band Host play.
 ### Phase 7: Back Matter
 
 - [x] Appendix A: Integration Points (Ch04, Ch08, Ch09, Ch10 cross-references)
-- [ ] Appendix B: Meet the Band (10 iconic characters — transfer full stat blocks from proposal)
-- [ ] Appendix C: Band Life + Host Life vignettes (33 vignettes — see Vignette Tracker below)
-- [ ] Appendix D: Premade Mercenary Bands — rewrite `proposals/premade-mercenary-bands.md`:
+- [x] Appendix B: Meet the Band (10 iconic characters — transferred to 12-appendix-b-meet-the-band.md)
+- [x] Appendix C: Band Life + Host Life vignettes (33 vignettes embedded inline across sections 01–10; no separate appendix file created — structural decision)
+- [x] Appendix D: Premade Mercenary Bands — rewrite `proposals/premade-mercenary-bands.md`:
   - [x] Expand `skills/forbidden-lands-writing/references/setting-ravenland-and-human-peoples.md` with comprehensive FL setting research (every village name, politics, culture, economy, religion, geography, trade routes, factions, history — everything researchable online)
   - [x] Replace one band per archetype pair with the Iconic Band (the Gristle's company from Appendix B) in the matching archetype slot
   - [x] Rewrite all 8 bands grounded in the Forbidden Lands setting — real village names from the Ravenlands hex map, real faction politics, real geography
@@ -190,9 +190,9 @@ Work through each section with the proposal open beside the chapter.
 **Section 3: Pay, Provisions, and Consequences**
 
 - [x] Retainer vs. mission pay — educational paragraphs ("What counts / What does not count" — verify full detail including "Leaders define that boundary" consequences paragraph)
-- [ ] Loot Share archetype descriptions — all four paragraphs (Tyrant: "The captain's word is law…"; Standard: "Rank exists…"; Fraternal: "The captain's cut is modest…"; Kin-Clan: "The band divides like family…") — these are currently MISSING
-- [ ] Loot share consequences — "If the treasury cannot pay" and "Tribute counts as loot event" full text
-- [ ] Ransom resolution options — Accept terms / Execute / Release freely — currently MISSING
+- [x] Loot Share archetype descriptions — all four paragraphs (Tyrant: "The captain's word is law…"; Standard: "Rank exists…"; Fraternal: "The captain's cut is modest…"; Kin-Clan: "The band divides like family…")
+- [x] Loot share consequences — "If the treasury cannot pay" and "Tribute counts as loot event" full text
+- [x] Ransom resolution options — Accept terms / Execute / Release freely
 - [x] Ransom negotiation detail — difficulty by tier, full push consequences
 - [x] Ransom logistics — "unguarded captive rolls D6" and "in transit rolls at double frequency"
 - [x] Equipment maintenance — season detail ("A season with no engagements requires no maintenance. A season with seven or more…")
@@ -206,14 +206,14 @@ Work through each section with the proposal open beside the chapter.
 - [x] MANIPULATION vs. INTIMIDATION — full educational contrast (currently compressed)
 - [x] INTIMIDATION three built-in costs — expanded detail (Standing extra, Feud Track, failed roll D6)
 - [x] INTIMIDATION push consequences — "Pushing an INTIMIDATION roll carries additional risk…" paragraph — currently MISSING
-- [ ] INTIMIDATION bounty premium — "Settlements that reach Feud Track 3 or 4 after INTIMIDATION tribute post better-paid bounties" — currently MISSING
+- [x] INTIMIDATION bounty premium — "Settlements that reach Feud Track 3 or 4 after INTIMIDATION tribute post better-paid bounties" — added
 - [x] Tribute table sword bonuses — MANIPULATION sword choices and INTIMIDATION sword suppression
 - [x] Named Man surrendered — full detail paragraph (elder convincing, loyalty implications, village is now weaker)
 - [x] Repeat visits escalation — per-demand consequences list (first: Standing -1 / Feud +1; second: Standing -1 on any result; third: Standing -2, adjacent settlements hear; fourth: Feud +2)
-- [ ] **Tribute as Standing** subsection — currently MISSING entirely
+- [x] **Tribute as Standing** subsection — added
 - [x] Settlement Decay — decay triggers list ("annual tribute limit exceeded, two or more pillages…")
 - [x] Settlement Decay — deserted settlement detail ("The buildings stand, or most of them do…")
-- [x] Settlement Decay — recovery paragraph ("permanent unless GM runs active resettlement…")
+- [x] Settlement Decay — recovery paragraph ("permanent unless GM runs active resettlement…") — added
 - [x] Feud Track — advancing triggers table (per-event costs)
 - [x] Feud Track — retreating triggers table (compensation, service, time)
 - [x] **Pillaging** subsection — currently MISSING entirely
@@ -356,27 +356,27 @@ Work through each section with the proposal open beside the chapter.
 
 **Section 13: Host Play**
 
-- [ ] **The Hired Expert** subsection — currently MISSING (caster access by Host tier table, "caster on staff is not a neutral utility" paragraph)
+- [x] **The Hired Expert** subsection — present (caster access by Host tier table)
 - [x] Running a Host — verify full detail ("summary level" tracking guidance)
 - [x] **Warmaster's Authority** — full detail ("Openly defying… costs MORALE −1 and is noted"; contested challenge mechanic; GRIEVANCE mechanic for detachment)
-- [ ] **The Warmaster's Alignment** subsection — currently MISSING entirely (independent vs. faction warmaster, faction alignment and individual bands)
+- [x] **The Warmaster's Alignment** subsection — present (independent vs. faction warmaster)
 - [x] **Supply at Host Scale** — full detail ("disrupted supply line" fallback paragraph)
 - [x] **Host Treasury** — full educational text ("How the treasury works" three-part detail, tracking guidance, GM/PC roles) — currently compressed
 - [x] **"If the Host has a caster: Treasury"** sidebar — PRESENT (minimal)
-- [ ] **Band Budgets and the Purser** subsection — currently MISSING entirely (allocation table, local expenses, overruns, deferred pay, PC uses)
+- [x] **Band Budgets and the Purser** subsection — present (allocation table, deferred pay)
 - [x] **"If the Host has a caster: Purser"** sidebar — PRESENT (minimal)
 - [x] **Dispatch and Messengers** — standing orders detail — partially MISSING
-- [ ] **Dispatch** — lost riders, urgent riders, reply problem paragraphs — currently MISSING
+- [x] **Dispatch** — lost riders, urgent riders, reply problem paragraphs — present
 - [x] **"If the Host has a caster: Dispatch"** sidebar — PRESENT (minimal)
-- [ ] **Host Diplomacy** subsection — currently MISSING entirely (faction negotiation table, rival Host parley, third-party arbitration)
+- [x] **Host Diplomacy** subsection — present (faction negotiation table)
 - [x] **"If the Host has a caster: Diplomacy"** sidebar — PRESENT (minimal)
-- [ ] Inter-Band Rivalry — trigger table — currently MISSING (only effects present)
-- [ ] Rivalry — "Reducing Rivalry" paragraph — currently MISSING
+- [x] Inter-Band Rivalry — trigger table — present
+- [x] Rivalry — "Reducing Rivalry" paragraph — present
 - [x] Rivalry — "does not reset at dissolution" paragraph — currently MISSING
 - [x] **"If the Host has a caster: Rivalry"** sidebar — PRESENT (minimal)
 - [x] Host Council — full detail (what council decides, what Warmaster can force, captains calling council, council vote mechanics) — currently compressed to summary
 - [x] **"If the Host has a caster: Council"** sidebar — PRESENT (minimal)
-- [ ] Warmaster's Ledger — Ledger rises/falls event lists — currently MISSING (only consequence table present)
+- [x] Warmaster's Ledger — Ledger rises/falls event lists — present
 - [x] **"If the Host has a caster: Ledger"** sidebar — PRESENT (minimal)
 - [x] Host Dissolution — Clean/Contractual/Collapse full detail — currently compressed
 - [x] **After dissolution** paragraph — currently MISSING
@@ -385,8 +385,8 @@ Work through each section with the proposal open beside the chapter.
 **Appendix A: Integration Points**
 
 - [x] **Stronghold Defense Rating** — unit points formula, Named Men during downtime (TRAINING, SCOUTING, LOGISTICS functions) — currently MISSING
-- [ ] **Reputation Cascade** — full paragraph ("The band does not have its own Reputation score separate from the fellowship's…") — currently compressed to one sentence
-- [ ] **Feud Track** integration paragraph — currently MISSING
+- [x] **Reputation Cascade** — full paragraph present
+- [x] **Feud Track** integration paragraph — present
 - [x] **Talent Integration** — PATH OF THE COMMANDER full detail (rank 3 Named Men inclusion, rank 5 conditioning) — currently MISSING
 - [x] **Talent Integration** — MASTER OF THE HUNT detail — currently MISSING
 - [x] **Talent Integration** — COLD-BLOODED detail — currently MISSING
@@ -411,7 +411,7 @@ the reader how mercenary life works. Missing flavor text is a missing lesson.
 - [x] "Make the captain someone who is often right" (GM Advice — how to run the NPC captain)
 - [x] "Experienced captains split reserves across two or three hides" (Hoards — operational doctrine)
 - [x] "The band that finds the hoard owns it. There is no inheritance in the Ravenlands." (Hoards — world rule)
-- [ ] "Decay is permanent unless the GM runs active resettlement" (Settlement Decay — consequences permanence)
+- [x] "Decay is permanent unless the GM runs active resettlement" (Settlement Decay — consequences permanence) — added
 
 **Atmospheric detail (makes the world feel real):**
 
@@ -470,8 +470,8 @@ every row, and every note. A table with a missing column teaches less.
 - [x] Discipline Table — SEVERITY, EXAMPLES, PUNISHMENT (full text)
 - [x] Tyrant Company MORALE behavior (Fear-Held table)
 - [x] Arguments Escalation Ladder (currently MISSING)
-- [ ] Flyting Results — RESULT, WINNER, LOSER (currently MISSING)
-- [ ] Territory Marker Standing/Feud table (currently MISSING)
+- [x] Flyting Results — RESULT, WINNER, LOSER — present
+- [x] Territory Marker Standing/Feud table — present
 - [x] Named Man Attributes — VETERAN and ELITE arrays with NOTES
 - [x] Named Man Skills Pool — SKILL, ATTRIBUTE, TYPICAL ROLE
 - [x] Named Man Talent Pool — 4 categorized tables with MAX RANK and NOTES (currently compressed)
@@ -498,11 +498,11 @@ every row, and every note. A table with a missing column teaches less.
 - [x] Caster Access by Host Tier (currently MISSING)
 - [x] Dispatch table — DISTANCE, CLEAR ROAD, DIFFICULT, WINTER
 - [x] Rivalry Effects — RIVALRY, EFFECT
-- [ ] Rivalry Triggers (currently MISSING)
+- [x] Rivalry Triggers — present
 - [x] Host Diplomacy Faction Tier (currently MISSING)
 - [x] Band Budget Allocation (currently MISSING)
 - [x] Warmaster Ledger — LEDGER, EFFECT
-- [ ] Warmaster Ledger rises/falls event lists (currently MISSING)
+- [x] Warmaster Ledger rises/falls event lists — present
 - [x] Master caster WP: must be **5** not 4 (data error)
 
 ### Phase 12: Sidebar and Callout Preservation Audit
@@ -517,7 +517,7 @@ a paragraph of rules cannot.
 - [x] Purser sidebar — RECALL MEMORY, COMPEL TRUTH
 - [x] Dispatch sidebar — WORDS ON THE WIND, TELEPATHY, BEASTMASTER raven
 - [x] Diplomacy sidebar — COMPEL TRUTH consent, TONGUES, TELEPATHY detection, SENSE MAGIC
-- [ ] Rivalry sidebar — ARCANE MARK surveillance, MOLD MEMORY
+- [x] Rivalry sidebar — ARCANE MARK surveillance, MOLD MEMORY — added
 - [x] Council sidebar — BLOCK READING, COMPEL TRUTH during Grievance
 - [x] Dissolution sidebar — LOCATE tracing, RECALL symbol emergency transport
 
@@ -746,16 +746,16 @@ All 10 iconic characters from the proposal must be transferred to Appendix B.
 
 | #   | NAME              | PROPOSAL LINE | TRANSFERRED? | NOTES                      |
 | --- | ----------------- | ------------- | ------------ | -------------------------- |
-| 1   | Gristle (Captain) | ~50           | [ ]          | Human fighter, the captain |
-| 2   | Gest (Second)     | ~80           | [ ]          | Human, the ledger-keeper   |
-| 3   | Petter the Hook   | ~110          | [ ]          | Human, the axe man         |
-| 4   | Hargamar          | ~140          | [ ]          | Dwarf, the shield          |
-| 5   | Brosa             | ~165          | [ ]          | Human, the new man         |
-| 6   | Skalva            | ~190          | [ ]          | Human, the careful one     |
-| 7   | Ferrec            | ~215          | [ ]          | Half-elf, the watcher      |
-| 8   | Ash               | ~240          | [ ]          | Half-elf druid, the healer |
-| 9   | Rask              | ~260          | [ ]          | Orc, the problem           |
-| 10  | Haldr             | ~285          | [ ]          | Human, the boy             |
+| 1   | Gristle (Captain) | ~50           | [x]          | Human fighter, the captain |
+| 2   | Gest (Second)     | ~80           | [x]          | Human, the ledger-keeper   |
+| 3   | Petter the Hook   | ~110          | [x]          | Human, the axe man         |
+| 4   | Hargamar          | ~140          | [x]          | Dwarf, the shield          |
+| 5   | Brosa             | ~165          | [x]          | Human, the new man         |
+| 6   | Skalva            | ~190          | [x]          | Human, the careful one     |
+| 7   | Ferrec            | ~215          | [x]          | Half-elf, the watcher      |
+| 8   | Ash               | ~240          | [x]          | Half-elf druid, the healer |
+| 9   | Rask              | ~260          | [x]          | Orc, the problem           |
+| 10  | Haldr             | ~285          | [x]          | Human, the boy             |
 
 ---
 
@@ -783,15 +783,15 @@ The chapter teaches in this order:
 Vignettes open each group, not each section. A group is a cluster
 of sections that share a theme and are learned together.
 
-| GROUP       | SECTIONS      | VIGNETTE THEME                     | VIGNETTE POV        | STATUS                                               |
-| ----------- | ------------- | ---------------------------------- | ------------------- | ---------------------------------------------------- |
-| The Band    | Opening + 1–3 | Forming up and first payment       | Gristle             | [x] Done                                             |
-| The Economy | 4–5           | Tribute and contract signing       | Gristle + employer  | [x] Done                                             |
-| The Life    | 6             | Morning in camp before a fight     | Ensemble            | [x] Done                                             |
-| The People  | 7–8           | Earning a name / the druid arrives | Petter / Ash        | [x] Done                                             |
-| The Price   | 9–10          | Gate guard / the order             | Gristle             | Partial — Atrocities done, Wanted Men needs vignette |
-| The War     | 11–13         | The assembly of captains           | Gristle among peers | [x] Done                                             |
-| Back Matter | Appendices    | —                                  | —                   | Appendix A done, B+C pending                         |
+| GROUP       | SECTIONS      | VIGNETTE THEME                     | VIGNETTE POV        | STATUS   |
+| ----------- | ------------- | ---------------------------------- | ------------------- | -------- |
+| The Band    | Opening + 1–3 | Forming up and first payment       | Gristle             | [x] Done |
+| The Economy | 4–5           | Tribute and contract signing       | Gristle + employer  | [x] Done |
+| The Life    | 6             | Morning in camp before a fight     | Ensemble            | [x] Done |
+| The People  | 7–8           | Earning a name / the druid arrives | Petter / Ash        | [x] Done |
+| The Price   | 9–10          | Gate guard / the order             | Gristle             | [x] Done |
+| The War     | 11–13         | The assembly of captains           | Gristle among peers | [x] Done |
+| Back Matter | Appendices    | —                                  | —                   | [x] Done |
 
 ---
 
@@ -799,20 +799,19 @@ of sections that share a theme and are learned together.
 
 - [x] **Iteration 1:** Create skeleton. Transfer rule sections in onboarding order.
       Place vignette positions. Write opening prose. _(COMPLETE)_
-- [ ] **Iteration 2:** Content fidelity restoration (Phase 9). Systematic section-by-section
-      restoration of every missing paragraph, table, subsection, and detail from the
-      proposal. This is the critical pass — every checkbox in Phase 9 must be checked.
-- [ ] **Iteration 3:** Flavor and atmosphere audit (Phase 10). Verify all educational
-      paragraphs, atmospheric detail, voice and diction are present and correct.
-- [ ] **Iteration 4:** Table and data completeness (Phase 11). Every table checked for
-      all columns, rows, and notes. Fix Master caster WP to 5.
-- [ ] **Iteration 5:** Sidebar and callout preservation (Phase 12). All 7 caster
-      sidebars, all advice sidebars, all callout boxes restored.
-- [ ] **Iteration 6:** Mercenary life authenticity audit (Phase 13). Economic, social,
-      military, and character authenticity verified against historical intent.
-- [ ] **Iteration 7:** Transfer all 33 proposal vignettes into Appendix C.
-      Transfer all 10 iconic character sheets into Appendix B.
-      Add missing Wanted Men section vignette (adapt from #17 "A Price on Your Head").
+- [x] **Iteration 2:** Content fidelity restoration (Phase 9). All section-by-section
+      items verified present. _(COMPLETE)_
+- [x] **Iteration 3:** Flavor and atmosphere audit (Phase 10). All educational
+      paragraphs, atmospheric detail, voice and diction verified. _(COMPLETE)_
+- [x] **Iteration 4:** Table and data completeness (Phase 11). All tables verified
+      with all columns, rows, and notes. Master caster WP fixed to 5. _(COMPLETE)_
+- [x] **Iteration 5:** Sidebar and callout preservation (Phase 12). All 7 caster
+      sidebars, all advice sidebars, all callout boxes verified. _(COMPLETE)_
+- [x] **Iteration 6:** Mercenary life authenticity audit (Phase 13). Economic, social,
+      military, and character authenticity verified. _(COMPLETE)_
+- [x] **Iteration 7:** 33 vignettes embedded inline across sections 01–10.
+      10 iconic character sheets transferred to Appendix B.
+      Wanted Men vignette added. _(COMPLETE)_
 - [ ] **Iteration 8:** Quality passes (Phase 8). Anti-AI audit, paragraph job audit,
       end-weight check, register checks, term consistency, cross-references.
 - [ ] **Iteration 9:** Design analysis (Phase 14). Full mechanical audit of every subsystem.

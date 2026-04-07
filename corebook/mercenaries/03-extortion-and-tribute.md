@@ -70,6 +70,8 @@ The leader chooses whether to negotiate or threaten — use MANIPULATION or INTI
 
 **Pushing an INTIMIDATION roll** carries additional risk: if the push still fails, the band must either attack (Pillaging) or retreat with Standing -2 and Feud Track +1. The bluff has been called and everyone in the settlement saw it.
 
+Settlements that reach Feud Track 3 or 4 after INTIMIDATION tribute post better-paid bounties. The band is feared rather than merely resented, which makes killing or capturing its leaders worth more to rivals and warchiefs looking for reputation. Treat any bounty posted against an INTIMIDATION-tribute band as worth +20% over the standard rate.
+
 | SITUATION                                            | DIFFICULTY                 |
 | ---------------------------------------------------- | -------------------------- |
 | Band ≥2× settlement's fighters, Standing neutral     | 1                          |
@@ -111,6 +113,14 @@ On a failure with MANIPULATION, the settlement refuses and Standing drops by 1. 
 
 Each repeat visit before the limit costs Standing and advances the Feud Track. Third demand and beyond causes neighboring settlements to hear. Fourth demand: Feud Track +2 per demand.
 
+### Tribute as Standing
+
+A band that demands tribute and takes it is exactly the kind of force that settlements learn to either pay or destroy.
+
+- First successful tribute: Standing at this settlement drops by 1. The elder paid. They remember.
+- Second tribute (same year): Standing drops by 2. They are paying tribute now, not choosing to be generous.
+- Third tribute or forced payment: Standing drops to -3 or lower. This settlement is a tributary. It will accept help from anyone who offers to make the band stop.
+
 ### Settlement Decay
 
 A settlement bled past its annual tribute limit, pillaged, or occupied too long begins to fail.
@@ -123,6 +133,8 @@ A settlement bled past its annual tribute limit, pillaged, or occupied too long 
 | Hamlet        | Deserted      | The last families leave or die. The hex becomes Ruins.              |
 
 A deserted settlement is a ruin. You can camp in the shells. No one is there to pay tribute, offer work, or sell information.
+
+Decay is permanent unless the GM runs active resettlement as part of play. A settlement that drops to Hamlet can recover to Village over two or more years if left completely alone and the band never returns. A deserted settlement requires an active colonization effort to rebuild — treat that as stronghold founding rules from the **STRONGHOLD** chapter.
 
 The GM should track the current size of any settlement the band has touched. A map that shows villages the band turned into ruins is working as intended.
 

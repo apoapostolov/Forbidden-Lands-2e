@@ -243,7 +243,7 @@ Rivalry does not reset at Host dissolution. If the two bands encounter each othe
 > The Gristle goes to Seld. She asks him to broker a ceasefire — one council action, one REPUTATION point from Seld. He refuses. He has other problems. Rivalry stays at 2.
 >
 > Week eight: both bands bid for the same escort contract out of the garrison. Rivalry +1. Now at 3. Joint operations require MANIPULATION difficulty 2 from both captains. The next time Seld assigns them together, neither captain will agree without a separate negotiation. The Host has two bands that cannot function beside each other, and the man who could have fixed it for one REPUTATION point is now paying for it in operational flexibility.
-> **If the Host has a caster:** ARCANE MARK on a rival captain's coin purse lets the Warmaster hear what is said at the other fire. If discovered, the offended captain gains grounds for a formal Grievance hearing.
+> **If the Host has a caster:** ARCANE MARK on a rival captain's coin purse lets the Warmaster hear what is said at the other fire. If discovered, the offended captain gains grounds for a formal Grievance hearing. MOLD MEMORY can bury the incident that started the Rivalry; if a witness contradicts the altered version, the Rivalry resumes at its prior score plus one.
 
 ### The Host Council
 

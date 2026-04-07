@@ -108,7 +108,10 @@ A dedicated space for planning field operations — maps, intelligence reports, 
 
 > **Example — What the Maps Told Them**
 >
-> The Gristle receives a contract offer: escort a merchant caravan through Hex 0415 to the Amber Peak markets. Standard escort, 180 silver. Before accepting, she moves to the War Room.
+> The Gristle receives a contract offer: escort a merchant caravan through ## Atrocities vignette
+- since the example is about Hadrik's company (see below the vignette, make the vignette about Hadrick and his company not The Gristl.
+
+Never mention Hexes in example and vignettes. Hex 0415 is mentioned in an example, instead it should be referred as location with "show don't tell" vicinity (naming few villages, locations, relative to nearby villages maybe) to the Amber Peak markets. Standard escort, 180 silver. Before accepting, she moves to the War Room.
 >
 > LORE roll against difficulty 2. She has LORE 1 and WIT 4: five dice. Two swords. Success.
 >
