@@ -7,6 +7,20 @@ All notable changes to the Forbidden Lands Corebook will be documented in this f
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+### Added
+
+- Added seasonal HUNT modifiers to the Seasons table in Chapter 8: Spring -2, Summer -1, Autumn +1, Winter 0.
+- Added weather modifiers for HUNT in Chapter 8 when using expanded weather rules: Strong Wind -1, Drizzle -1, Downpour -2, Storm (impossible), active snowfall +1 to finding prey, clear winter skies +1. All stack with season and terrain.
+- Replaced the animal table in Chapter 8: Squirrel, Game birds, Hare, Fox, Boar, Deer. Corrected difficulties, yields, and requirements. Game birds become waterfowl in Marshlands or near water.
+- Added temperature-sensitive meat spoilage rule in Chapter 8 tied to the HEAT system. Summer heat spoils MEAT the same Quarter Day; winter cold preserves it for D3 days. CHEF roll extends by one day.
+- Changed Marshlands HUNT modifier from -1 to +1 in the terrain table, the in-text modifier list, and the terrain description. Marshlands are productive hunting ground, not poor.
+
+### Changed
+
+- Revised `MASTER OF THE HUNT` ranks 1, 2, and 4 in Chapter 4. Rank 1 adds animal-sign reading while hiking at no Quarter Day cost. Rank 2 adds absent trap monitoring on top of REST equivalence. Rank 4 replaced extra-animals mechanic with wounded-game tracking (additional Quarter Day, SURVIVAL at -1).
+
 ## [1.0.3] - 2026-04-07
 
 ### Added
@@ -26,7 +40,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - **Special rules.** Pillage and REPUTATION consequences, kidnapping contracts, mercenary hoards, blood oath mechanics, atrocity handling, and War Room stronghold rules.
   - **Host play.** Multi-band Hosts under a Warmaster: per-band MORALE and Named Men tracking, Ledger authority score (−6 to +6), treasury and band budget rules, Warmaster's Share and Bonus Allocation mechanics, rival dynamics, inter-band communication, Host Council voting, and dissolution procedures.
   - **Serving under another captain.** Rank progression from FRESH to FIRST BLADE, Call Name mechanics, order disagreement and mutiny thresholds.
-  - **Key Terms.** Fourteen terms defined at chapter open: REPUTATION, Standing, MORALE, GRIEVANCE, Allegiance, Loyalty, Trigger, Agenda, Call Name, Ledger, Named Men, Common fighters, Host, Warmaster.
   - **Appendix A: Meet the Band.** Ten pregenerated characters built on standard creation rules from Chapter 2, with full stat blocks, Prides, Dark Secrets, and relationships.
   - **Appendix B: Premade bands.** Three ready-to-use bands with full rosters, Reputations, Agendas, and field histories.
   - **Band Life vignettes.** Thirty-three short prose pieces illustrating mechanics in play, one per named rule area, following the Gristle's company.
