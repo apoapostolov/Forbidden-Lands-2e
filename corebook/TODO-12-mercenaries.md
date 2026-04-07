@@ -147,6 +147,13 @@ service under another captain, or multi-band Host play.
 - [x] Appendix A: Integration Points (Ch04, Ch08, Ch09, Ch10 cross-references)
 - [ ] Appendix B: Meet the Band (10 iconic characters — transfer full stat blocks from proposal)
 - [ ] Appendix C: Band Life + Host Life vignettes (33 vignettes — see Vignette Tracker below)
+- [ ] Appendix D: Premade Mercenary Bands — rewrite `proposals/premade-mercenary-bands.md`:
+  - [x] Expand `skills/forbidden-lands-writing/references/setting-ravenland-and-human-peoples.md` with comprehensive FL setting research (every village name, politics, culture, economy, religion, geography, trade routes, factions, history — everything researchable online)
+  - [x] Replace one band per archetype pair with the Iconic Band (the Gristle's company from Appendix B) in the matching archetype slot
+  - [x] Rewrite all 8 bands grounded in the Forbidden Lands setting — real village names from the Ravenlands hex map, real faction politics, real geography
+  - [x] Sprinkle civilized non-human kin into human-archetype bands: dwarves and halflings occasionally, half-elves rarely, elves super-rarely. No uncivilized kin (wolfkin, orc, goblin) in civilized bands. Kin bands keep their identity.
+  - [x] Every band's contracts, locations, relations, hoards, and GM hooks must reference actual Ravenlands locations and factions
+  - [x] Final voice pass — must read like the manuscript, not like generated content
 
 ### Phase 8: Quality Passes
 
@@ -168,221 +175,221 @@ Work through each section with the proposal open beside the chapter.
 
 **Section 1: The Band**
 
-- [ ] Band archetype extended descriptions — each archetype must have its full recruitment flavor paragraph restored (Rural Mob: village politics, personality types; Tyrant Band: initiation test, criminal background; Military Squad: role-based gap-filling, sergeant promotion; Kin Clan: outsider vouching, blood standing vs. kin-adjacent)
-- [ ] "Typical Named Men personality" entries for each archetype
-- [ ] "Breaks when" descriptions — full detail, not compressed
-- [ ] Host callout box (who the Warmaster typically is, expanded)
+- [x] Band archetype extended descriptions — each archetype must have its full recruitment flavor paragraph restored (Rural Mob: village politics, personality types; Tyrant Band: initiation test, criminal background; Military Squad: role-based gap-filling, sergeant promotion; Kin Clan: outsider vouching, blood standing vs. kin-adjacent)
+- [x] "Typical Named Men personality" entries for each archetype
+- [x] "Breaks when" descriptions — full detail, not compressed
+- [x] Host callout box (who the Warmaster typically is, expanded)
 
 **Section 2: Recruitment and Quality**
 
-- [ ] Fighter tier notes column — full text (not compressed)
-- [ ] Kin table notes column — full sentences (Elf: "exiled, disgraced, or carrying something"; Dwarf: "they do not desert quietly"; Wolfkin pack D3 detail; Goblin: "will not hold a palisade under direct assault")
-- [ ] "Settlement tapped" — verify full paragraph including "applies even if the band has changed hands"
-- [ ] Named Man promotion note ("The stats above are for anonymous fighters…")
+- [x] Fighter tier notes column — full text (not compressed)
+- [x] Kin table notes column — full sentences (Elf: "exiled, disgraced, or carrying something"; Dwarf: "they do not desert quietly"; Wolfkin pack D3 detail; Goblin: "will not hold a palisade under direct assault")
+- [x] "Settlement tapped" — verify full paragraph including "applies even if the band has changed hands"
+- [x] Named Man promotion note ("The stats above are for anonymous fighters…")
 
 **Section 3: Pay, Provisions, and Consequences**
 
-- [ ] Retainer vs. mission pay — educational paragraphs ("What counts / What does not count" — verify full detail including "Leaders define that boundary" consequences paragraph)
+- [x] Retainer vs. mission pay — educational paragraphs ("What counts / What does not count" — verify full detail including "Leaders define that boundary" consequences paragraph)
 - [ ] Loot Share archetype descriptions — all four paragraphs (Tyrant: "The captain's word is law…"; Standard: "Rank exists…"; Fraternal: "The captain's cut is modest…"; Kin-Clan: "The band divides like family…") — these are currently MISSING
 - [ ] Loot share consequences — "If the treasury cannot pay" and "Tribute counts as loot event" full text
 - [ ] Ransom resolution options — Accept terms / Execute / Release freely — currently MISSING
-- [ ] Ransom negotiation detail — difficulty by tier, full push consequences
-- [ ] Ransom logistics — "unguarded captive rolls D6" and "in transit rolls at double frequency"
-- [ ] Equipment maintenance — season detail ("A season with no engagements requires no maintenance. A season with seven or more…")
-- [ ] Injury treatment — budget detail ("A band in heavy rotation that sustains two or three critical injuries…")
-- [ ] Field Non-Payment retainer vs. mission thresholds — full explanatory paragraphs
-- [ ] Payment in goods — escalation curve detail ("In-kind has its own cost curve…" full paragraph)
-- [ ] Windfall table notes — full flavor text per entry (not compressed)
+- [x] Ransom negotiation detail — difficulty by tier, full push consequences
+- [x] Ransom logistics — "unguarded captive rolls D6" and "in transit rolls at double frequency"
+- [x] Equipment maintenance — season detail ("A season with no engagements requires no maintenance. A season with seven or more…")
+- [x] Injury treatment — budget detail ("A band in heavy rotation that sustains two or three critical injuries…")
+- [x] Field Non-Payment retainer vs. mission thresholds — full explanatory paragraphs
+- [x] Payment in goods — escalation curve detail ("In-kind has its own cost curve…" full paragraph)
+- [x] Windfall table notes — full flavor text per entry (not compressed)
 
 **Section 4: Village Extortion and Tribute**
 
-- [ ] MANIPULATION vs. INTIMIDATION — full educational contrast (currently compressed)
-- [ ] INTIMIDATION three built-in costs — expanded detail (Standing extra, Feud Track, failed roll D6)
-- [ ] INTIMIDATION push consequences — "Pushing an INTIMIDATION roll carries additional risk…" paragraph — currently MISSING
+- [x] MANIPULATION vs. INTIMIDATION — full educational contrast (currently compressed)
+- [x] INTIMIDATION three built-in costs — expanded detail (Standing extra, Feud Track, failed roll D6)
+- [x] INTIMIDATION push consequences — "Pushing an INTIMIDATION roll carries additional risk…" paragraph — currently MISSING
 - [ ] INTIMIDATION bounty premium — "Settlements that reach Feud Track 3 or 4 after INTIMIDATION tribute post better-paid bounties" — currently MISSING
-- [ ] Tribute table sword bonuses — MANIPULATION sword choices and INTIMIDATION sword suppression
-- [ ] Named Man surrendered — full detail paragraph (elder convincing, loyalty implications, village is now weaker)
-- [ ] Repeat visits escalation — per-demand consequences list (first: Standing -1 / Feud +1; second: Standing -1 on any result; third: Standing -2, adjacent settlements hear; fourth: Feud +2)
+- [x] Tribute table sword bonuses — MANIPULATION sword choices and INTIMIDATION sword suppression
+- [x] Named Man surrendered — full detail paragraph (elder convincing, loyalty implications, village is now weaker)
+- [x] Repeat visits escalation — per-demand consequences list (first: Standing -1 / Feud +1; second: Standing -1 on any result; third: Standing -2, adjacent settlements hear; fourth: Feud +2)
 - [ ] **Tribute as Standing** subsection — currently MISSING entirely
-- [ ] Settlement Decay — decay triggers list ("annual tribute limit exceeded, two or more pillages…")
-- [ ] Settlement Decay — deserted settlement detail ("The buildings stand, or most of them do…")
-- [ ] Settlement Decay — recovery paragraph ("permanent unless GM runs active resettlement…")
-- [ ] Feud Track — advancing triggers table (per-event costs)
-- [ ] Feud Track — retreating triggers table (compensation, service, time)
-- [ ] **Pillaging** subsection — currently MISSING entirely
-- [ ] **Occupation** subsection — currently MISSING entirely (occupied tributary rules, costs, ending, settlement drain)
+- [x] Settlement Decay — decay triggers list ("annual tribute limit exceeded, two or more pillages…")
+- [x] Settlement Decay — deserted settlement detail ("The buildings stand, or most of them do…")
+- [x] Settlement Decay — recovery paragraph ("permanent unless GM runs active resettlement…")
+- [x] Feud Track — advancing triggers table (per-event costs)
+- [x] Feud Track — retreating triggers table (compensation, service, time)
+- [x] **Pillaging** subsection — currently MISSING entirely
+- [x] **Occupation** subsection — currently MISSING entirely (occupied tributary rules, costs, ending, settlement drain)
 
 **Section 5: Contracts and Bounties**
 
-- [ ] **Winter scarcity** paragraph — currently MISSING
-- [ ] Getting an audience — full table notes (not compressed)
-- [ ] Negotiating terms — full educational paragraph (employer tier table, sword concessions, failure options)
-- [ ] Reputation and opening rates — full paragraph ("Reputation and Allegiance operate on different axes…")
-- [ ] Allegiance gaining/losing bullets — currently MISSING
-- [ ] Allegiance level descriptions — full Constraint column and detailed behavior per level
-- [ ] Contract table — missing EMPLOYER TIER and NOTES columns
-- [ ] Missing contract types: Sabotage/disruption, Punitive expedition, Ambush/interdiction, Settlement pacification, Sensitive cargo delivery, Hostile negotiation, Divination mission
-- [ ] **Protection season** educational text — "The employer pays to have the band present — nothing more…" — currently MISSING
-- [ ] **Combat call-up** paragraph — currently MISSING
-- [ ] "Terms always specify" — restore full list detail (not just bullet summary)
-- [ ] Breach — full paragraph ("A grievance becomes a Standing hit at every settlement…")
-- [ ] **Written vs. spoken contracts** — currently MISSING
-- [ ] Bounty posting requirements and process — currently compressed
-- [ ] **Professional breach bounties** table — currently MISSING
-- [ ] **Recovery bounties** table — currently MISSING
-- [ ] Grievance bounty NOTES column — currently MISSING
-- [ ] Elimination bounty NOTES column — currently MISSING
-- [ ] **Payment in Goods** — entire subsection MISSING (~800 words, massive goods table)
-- [ ] **Kidnapping** — full mechanics MISSING (executing grab, holding captive, escape attempts, shackling, ransom negotiation, rates table, condition on delivery, recovery bounties)
-- [ ] **Mercenary Hoards** — hoard contents table notes
-- [ ] **Finding a Dead Band's Hoard** — verify full multi-paragraph process (without marker / with marker / changed landmark)
-- [ ] The Ledger bridge text — verify full restored (check "They will lie, sometimes…" and "Adventurers fill the gap" detail)
+- [x] **Winter scarcity** paragraph — currently MISSING
+- [x] Getting an audience — full table notes (not compressed)
+- [x] Negotiating terms — full educational paragraph (employer tier table, sword concessions, failure options)
+- [x] Reputation and opening rates — full paragraph ("Reputation and Allegiance operate on different axes…")
+- [x] Allegiance gaining/losing bullets — currently MISSING
+- [x] Allegiance level descriptions — full Constraint column and detailed behavior per level
+- [x] Contract table — missing EMPLOYER TIER and NOTES columns
+- [x] Missing contract types: Sabotage/disruption, Punitive expedition, Ambush/interdiction, Settlement pacification, Sensitive cargo delivery, Hostile negotiation, Divination mission
+- [x] **Protection season** educational text — "The employer pays to have the band present — nothing more…" — currently MISSING
+- [x] **Combat call-up** paragraph — currently MISSING
+- [x] "Terms always specify" — restore full list detail (not just bullet summary)
+- [x] Breach — full paragraph ("A grievance becomes a Standing hit at every settlement…")
+- [x] **Written vs. spoken contracts** — currently MISSING
+- [x] Bounty posting requirements and process — currently compressed
+- [x] **Professional breach bounties** table — currently MISSING
+- [x] **Recovery bounties** table — currently MISSING
+- [x] Grievance bounty NOTES column — currently MISSING
+- [x] Elimination bounty NOTES column — currently MISSING
+- [x] **Payment in Goods** — entire subsection MISSING (~800 words, massive goods table)
+- [x] **Kidnapping** — full mechanics MISSING (executing grab, holding captive, escape attempts, shackling, ransom negotiation, rates table, condition on delivery, recovery bounties)
+- [x] **Mercenary Hoards** — hoard contents table notes
+- [x] **Finding a Dead Band's Hoard** — verify full multi-paragraph process (without marker / with marker / changed landmark)
+- [x] The Ledger bridge text — verify full restored (check "They will lie, sometimes…" and "Adventurers fill the gap" detail)
 
 **Section 6: Campaign Life**
 
-- [ ] QD activities — "Skirmisher/Warband/Company" logistics detail (verify full paragraph)
-- [ ] DRILL — trained Veteran season expiry detail
-- [ ] Camp Setup — verify full detail (two guards, fortified camp timber/duration)
-- [ ] Discipline table — full EXAMPLES column text (not just keywords)
-- [ ] Carrying out sentence — "A sentence stated and not carried out costs MORALE -1" full paragraph
-- [ ] Flogging detail — full paragraph ("The sentenced person takes 1D6 damage…")
-- [ ] Duels detail — "first blood by default…" full paragraph
-- [ ] Expulsion detail — "removes the man from the rolls…" full paragraph
-- [ ] **Tyrant Companies** — full opening paragraph ("Some captains run a company the way a man runs a dog…")
-- [ ] **Tyrant Punishments** — Mutilation and Public execution subsections — currently MISSING
-- [ ] **Trust-Held Bands** — full detail (which archetypes default Trust-Held, transition mechanics in/out)
-- [ ] Trust-Held "the stay" — verify full mechanic and example
-- [ ] Trust-Held "the warning" — verify full text
-- [ ] **Transition out of Trust-Held** — currently MISSING
-- [ ] **Transition into Trust-Held** — currently MISSING
-- [ ] **"The Unofficial Rules"** sidebar — currently MISSING (theft between members, lying that cost blood, violence against civilians, sexual violence, initiation, hazing)
-- [ ] **Optional: Arguments and Escalation** — currently MISSING entirely (~300 lines: escalation ladder, flyting, agitating/mitigation, compliment, Named Men involvement, deliberate provocation)
-- [ ] **Optional: Blood Oaths** — currently MISSING entirely (~170 lines: brotherhood, bounty, vengeance oaths, breaking, Named Man transition clause)
-- [ ] **Optional: Death of a Member** — currently MISSING entirely (~80 lines: anonymous fighters, Named Men, disputed items, gambling debts, MORALE cost, effects tracking)
-- [ ] **Optional: Territory Marking** — currently MISSING entirely (~100 lines: spiked markers, the sack, standing/feud consequences, band restrictions)
-- [ ] "Running the optionals" guidance paragraph — currently MISSING
+- [x] QD activities — "Skirmisher/Warband/Company" logistics detail (verify full paragraph)
+- [x] DRILL — trained Veteran season expiry detail
+- [x] Camp Setup — verify full detail (two guards, fortified camp timber/duration)
+- [x] Discipline table — full EXAMPLES column text (not just keywords)
+- [x] Carrying out sentence — "A sentence stated and not carried out costs MORALE -1" full paragraph
+- [x] Flogging detail — full paragraph ("The sentenced person takes 1D6 damage…")
+- [x] Duels detail — "first blood by default…" full paragraph
+- [x] Expulsion detail — "removes the man from the rolls…" full paragraph
+- [x] **Tyrant Companies** — full opening paragraph ("Some captains run a company the way a man runs a dog…")
+- [x] **Tyrant Punishments** — Mutilation and Public execution subsections — currently MISSING
+- [x] **Trust-Held Bands** — full detail (which archetypes default Trust-Held, transition mechanics in/out)
+- [x] Trust-Held "the stay" — verify full mechanic and example
+- [x] Trust-Held "the warning" — verify full text
+- [x] **Transition out of Trust-Held** — currently MISSING
+- [x] **Transition into Trust-Held** — currently MISSING
+- [x] **"The Unofficial Rules"** sidebar — currently MISSING (theft between members, lying that cost blood, violence against civilians, sexual violence, initiation, hazing)
+- [x] **Optional: Arguments and Escalation** — currently MISSING entirely (~300 lines: escalation ladder, flyting, agitating/mitigation, compliment, Named Men involvement, deliberate provocation)
+- [x] **Optional: Blood Oaths** — currently MISSING entirely (~170 lines: brotherhood, bounty, vengeance oaths, breaking, Named Man transition clause)
+- [x] **Optional: Death of a Member** — currently MISSING entirely (~80 lines: anonymous fighters, Named Men, disputed items, gambling debts, MORALE cost, effects tracking)
+- [x] **Optional: Territory Marking** — currently MISSING entirely (~100 lines: spiked markers, the sack, standing/feud consequences, band restrictions)
+- [x] "Running the optionals" guidance paragraph — currently MISSING
 
 **Section 7: Named Men**
 
-- [ ] Creating a Named Man — "Named Men are tracked individually. Record their stats on a separate NPC sheet…" paragraph
-- [ ] Attributes — "Wit and Empathy matter among Named Men…" educational paragraph
-- [ ] Skills — "Named Men are not day-hired spears…" opening paragraph
-- [ ] Skills — Role guidance paragraph ("A Skirmisher who carries a ranged weapon must take MARKSMANSHIP…")
-- [ ] Talents — Mercenary Talent Pool full tables (currently compressed into a run-on paragraph; proposal has 4 categorized tables with MAXIMUM RANK and NOTES columns)
-- [ ] Equipment — "Named Men know that armor is survival…" paragraph (partially present; verify full)
-- [ ] **Sergeant** subsection — currently MISSING (designation requirements, benefits, death trigger)
-- [ ] WILLPOWER — example ("Helle is an Elite Skirmisher with 3 WILLPOWER…")
-- [ ] Loyalty — full descriptions per level (proposal has richer text per score)
-- [ ] Loyalty — "Loyalty cap" paragraph and "+1 if the leader demonstrates genuine regard…" detail
-- [ ] Loyalty — "+1 on a consistent basis if loot shares are paid immediately…" paragraph
-- [ ] Trigger table — verify entries match proposal (some were altered in chapter)
-- [ ] Agenda table — verify entries match proposal (some were altered in chapter)
-- [ ] **Named Man Personalities** D66 table — currently MISSING entirely (12 personality types)
-- [ ] **Named Man Advancement** subsection — currently MISSING (XP awards per engagement, D6 roll, transition to full PC with profession, XP conversion)
-- [ ] **Named Man Connections** subsection — currently MISSING (network mechanic, background difficulty table, captain investment, once-per-season)
-- [ ] Quick-build appearance lines — all four MISSING ("Short, broad, no expression left…"; "Moves quietly…"; "Large. Wears an old scar…"; "Not the biggest. Just the one standing…")
+- [x] Creating a Named Man — "Named Men are tracked individually. Record their stats on a separate NPC sheet…" paragraph
+- [x] Attributes — "Wit and Empathy matter among Named Men…" educational paragraph
+- [x] Skills — "Named Men are not day-hired spears…" opening paragraph
+- [x] Skills — Role guidance paragraph ("A Skirmisher who carries a ranged weapon must take MARKSMANSHIP…")
+- [x] Talents — Mercenary Talent Pool full tables (currently compressed into a run-on paragraph; proposal has 4 categorized tables with MAXIMUM RANK and NOTES columns)
+- [x] Equipment — "Named Men know that armor is survival…" paragraph (partially present; verify full)
+- [x] **Sergeant** subsection — currently MISSING (designation requirements, benefits, death trigger)
+- [x] WILLPOWER — example ("Helle is an Elite Skirmisher with 3 WILLPOWER…")
+- [x] Loyalty — full descriptions per level (proposal has richer text per score)
+- [x] Loyalty — "Loyalty cap" paragraph and "+1 if the leader demonstrates genuine regard…" detail
+- [x] Loyalty — "+1 on a consistent basis if loot shares are paid immediately…" paragraph
+- [x] Trigger table — verify entries match proposal (some were altered in chapter)
+- [x] Agenda table — verify entries match proposal (some were altered in chapter)
+- [x] **Named Man Personalities** D66 table — currently MISSING entirely (12 personality types)
+- [x] **Named Man Advancement** subsection — currently MISSING (XP awards per engagement, D6 roll, transition to full PC with profession, XP conversion)
+- [x] **Named Man Connections** subsection — currently MISSING (network mechanic, background difficulty table, captain investment, once-per-season)
+- [x] Quick-build appearance lines — all four MISSING ("Short, broad, no expression left…"; "Moves quietly…"; "Large. Wears an old scar…"; "Not the biggest. Just the one standing…")
 
 **Section 8: Hired Casters**
 
-- [ ] Hiring a Caster — coin terms full paragraph ("This is a minimum — they will not take less…")
-- [ ] Hiring a Caster — agenda terms full paragraph ("Do not offer them coin in place of the objective…")
-- [ ] **Caster coin sustainability** paragraph — currently MISSING ("Coin terms make sense for an Initiate…" + arithmetic)
-- [ ] **Non-payment consequences** — "If a caster is not paid on time…" paragraph — currently MISSING
-- [ ] Caster Tiers — flavor paragraphs for each tier (Initiate: "has learned their craft and not yet proven it…"; Adept: "has a built reputation…"; Master: "approaching that threshold")
-- [ ] Master tier — **WP should be 5, not 4** — data error to fix
-- [ ] Master tier — synergistic secondary discipline explanation — full detail
-- [ ] Master tier — rank 4/5 discussion paragraph
-- [ ] **Skills by discipline** table (Primary casting skill by discipline: Healing→HEALING, Awareness→INSIGHT, etc.) — currently MISSING
-- [ ] **Disciplines and Spell Rank** table (Initiate/Adept/Master rank limits) — currently MISSING
-- [ ] **WILLPOWER** detailed table (tier/starting WP/recovery) — currently compressed
-- [ ] **Equipment** table (weapon/armor/notable gear by tier) — currently MISSING
-- [ ] **Combat Positioning** subsection — currently MISSING (protective fighters, exposure rules, formation cost)
-- [ ] **Combat and Contract Value** — casualty reduction detail (8% → 5%, 15% → 9% figures)
-- [ ] Magic subsections — verify "Camp and Survival" spell-by-spell detail (Healing Hands, Preserve, Nature's Cure, Weathermaster)
-- [ ] Magic subsections — **"Scouting and Intelligence"** full detail — currently MISSING (Farsight, Hawk's Eye, Words on the Wind, Nature's Watch + walls)
-- [ ] Magic subsections — **"In the Fight"** full detail — currently compressed (Harran wolf-form example)
-- [ ] Magic subsections — **"After the Fight"** — verify full detail (Mend Wounds, Regeneration, Resurrection)
-- [ ] Magic subsections — **"People and Pressure"** — currently MISSING (Calm Emotions, Compel Truth, Telepathy, Serenity)
-- [ ] Magic subsections — **"Binding and Warding"** — currently MISSING (Nature's Watch, Portent, Arcane Mark, Bind Magic)
-- [ ] Magic subsections — **"What Magic Cannot Do"** — currently MISSING (Preserve limits, Telepathy limits, Farsight limits, mishaps)
-- [ ] Magic subsections — **"Running the Hired Expert"** — currently MISSING (GM advice, three questions before arrival, make the WP cost audible, mishap advice)
-- [ ] Magic subsections — **"The Caster in the Band"** — currently MISSING (why casters join, types of reasons, formation cost paragraph)
-- [ ] **Caster Agendas** D6 table — currently MISSING
-- [ ] **Caster Triggers** D6 table — currently MISSING
-- [ ] **Caster Personalities** D66 table — currently MISSING (12 personalities)
-- [ ] Quick-build spell lists — all three MISSING (Hedge Druid: Healing Hands, Nature's Cure, Preserve, Mend Wounds; Watcher: Words on the Wind, Farsight, etc.; Sorcerer: Arcane Mark, Paralyze, etc.)
-- [ ] Quick-build appearance lines — all three MISSING
+- [x] Hiring a Caster — coin terms full paragraph ("This is a minimum — they will not take less…")
+- [x] Hiring a Caster — agenda terms full paragraph ("Do not offer them coin in place of the objective…")
+- [x] **Caster coin sustainability** paragraph — currently MISSING ("Coin terms make sense for an Initiate…" + arithmetic)
+- [x] **Non-payment consequences** — "If a caster is not paid on time…" paragraph — currently MISSING
+- [x] Caster Tiers — flavor paragraphs for each tier (Initiate: "has learned their craft and not yet proven it…"; Adept: "has a built reputation…"; Master: "approaching that threshold")
+- [x] Master tier — **WP should be 5, not 4** — data error to fix
+- [x] Master tier — synergistic secondary discipline explanation — full detail
+- [x] Master tier — rank 4/5 discussion paragraph
+- [x] **Skills by discipline** table (Primary casting skill by discipline: Healing→HEALING, Awareness→INSIGHT, etc.) — currently MISSING
+- [x] **Disciplines and Spell Rank** table (Initiate/Adept/Master rank limits) — currently MISSING
+- [x] **WILLPOWER** detailed table (tier/starting WP/recovery) — currently compressed
+- [x] **Equipment** table (weapon/armor/notable gear by tier) — currently MISSING
+- [x] **Combat Positioning** subsection — currently MISSING (protective fighters, exposure rules, formation cost)
+- [x] **Combat and Contract Value** — casualty reduction detail (8% → 5%, 15% → 9% figures)
+- [x] Magic subsections — verify "Camp and Survival" spell-by-spell detail (Healing Hands, Preserve, Nature's Cure, Weathermaster)
+- [x] Magic subsections — **"Scouting and Intelligence"** full detail — currently MISSING (Farsight, Hawk's Eye, Words on the Wind, Nature's Watch + walls)
+- [x] Magic subsections — **"In the Fight"** full detail — currently compressed (Harran wolf-form example)
+- [x] Magic subsections — **"After the Fight"** — verify full detail (Mend Wounds, Regeneration, Resurrection)
+- [x] Magic subsections — **"People and Pressure"** — currently MISSING (Calm Emotions, Compel Truth, Telepathy, Serenity)
+- [x] Magic subsections — **"Binding and Warding"** — currently MISSING (Nature's Watch, Portent, Arcane Mark, Bind Magic)
+- [x] Magic subsections — **"What Magic Cannot Do"** — currently MISSING (Preserve limits, Telepathy limits, Farsight limits, mishaps)
+- [x] Magic subsections — **"Running the Hired Expert"** — currently MISSING (GM advice, three questions before arrival, make the WP cost audible, mishap advice)
+- [x] Magic subsections — **"The Caster in the Band"** — currently MISSING (why casters join, types of reasons, formation cost paragraph)
+- [x] **Caster Agendas** D6 table — currently MISSING
+- [x] **Caster Triggers** D6 table — currently MISSING
+- [x] **Caster Personalities** D66 table — currently MISSING (12 personalities)
+- [x] Quick-build spell lists — all three MISSING (Hedge Druid: Healing Hands, Nature's Cure, Preserve, Mend Wounds; Watcher: Words on the Wind, Farsight, etc.; Sorcerer: Arcane Mark, Paralyze, etc.)
+- [x] Quick-build appearance lines — all three MISSING
 
 **Section 9: Wanted Men**
 
-- [ ] **Acquiring a Price on Your Head** — full detail ("Common sources" list) — currently MISSING
-- [ ] Bounty spread table — full SPREAD column text (the chapter has compressed versions)
-- [ ] **Effect of Being Wanted** subsection — currently MISSING (gate guards, innkeepers, competing bands, Named Man sell-out, Reputation counteraction, Standing relevance)
-- [ ] **Sheltering Wanted Men** subsection — currently MISSING (reputational exposure, settlement discovery, stronghold inclusion)
-- [ ] Clearing wanted status — full four methods with detail (currently compressed)
+- [x] **Acquiring a Price on Your Head** — full detail ("Common sources" list) — currently MISSING
+- [x] Bounty spread table — full SPREAD column text (the chapter has compressed versions)
+- [x] **Effect of Being Wanted** subsection — currently MISSING (gate guards, innkeepers, competing bands, Named Man sell-out, Reputation counteraction, Standing relevance)
+- [x] **Sheltering Wanted Men** subsection — currently MISSING (reputational exposure, settlement discovery, stronghold inclusion)
+- [x] Clearing wanted status — full four methods with detail (currently compressed)
 
 **Section 10: Atrocities**
 
-- [ ] Defined Atrocities table — full DESCRIPTION column text (currently compressed)
-- [ ] Immediate Consequences — full numbered list with paragraph detail per item (Standing crash detail, MORALE check conditions, Named Man Loyalty check)
-- [ ] Example (Pell's men burn Salthorn) — currently MISSING
-- [ ] **Plunder** subsection — full detail ("The +1 from 'atrocity ordered, men gained plunder' fires only when MORALE is currently 2 or below…") — expanded paragraph currently MISSING
-- [ ] Oath-Breaker Status — full detail ("Three broken oaths on record…" and "publicly honoring a particularly costly obligation" reversal)
+- [x] Defined Atrocities table — full DESCRIPTION column text (currently compressed)
+- [x] Immediate Consequences — full numbered list with paragraph detail per item (Standing crash detail, MORALE check conditions, Named Man Loyalty check)
+- [x] Example (Pell's men burn Salthorn) — currently MISSING
+- [x] **Plunder** subsection — full detail ("The +1 from 'atrocity ordered, men gained plunder' fires only when MORALE is currently 2 or below…") — expanded paragraph currently MISSING
+- [x] Oath-Breaker Status — full detail ("Three broken oaths on record…" and "publicly honoring a particularly costly obligation" reversal)
 
 **Section 11: War Room**
 
-- [ ] Verify all build requirements match proposal exactly
+- [x] Verify all build requirements match proposal exactly
 
 **Section 12: Serving in Another's Company**
 
-- [ ] Opening paragraphs — "A fellowship without coin or reputation…" and "The mode works best as a bridge…" — educational context — partially MISSING
-- [ ] **Terms of Service** subsection — currently MISSING (signing terms, D6 Standing Orders table, subject-to-standing-orders paragraph)
-- [ ] Rank table — full AUTHORITY AND USE column text (currently compressed)
-- [ ] **Advancing in Rank** detail — "Rank given under pressure or by extraction feels like neither rank nor respect…" — currently MISSING
-- [ ] The Call Name — verify full text including sponsorship requirement
-- [ ] **Call Name D20 table** — currently MISSING
-- [ ] **GM Advice sidebar** ("Running the Captain") — currently MISSING
-- [ ] **Player Advice sidebar** ("Finding the Game at the Bottom") — currently MISSING
-- [ ] Disagreeing with Orders — verify full text including "Two failed objections earns a warning" and "If the outcome clearly benefits…" detail
-- [ ] Leaving — verify full text
-- [ ] Mutiny — verify full text including failure consequences
+- [x] Opening paragraphs — "A fellowship without coin or reputation…" and "The mode works best as a bridge…" — educational context — partially MISSING
+- [x] **Terms of Service** subsection — currently MISSING (signing terms, D6 Standing Orders table, subject-to-standing-orders paragraph)
+- [x] Rank table — full AUTHORITY AND USE column text (currently compressed)
+- [x] **Advancing in Rank** detail — "Rank given under pressure or by extraction feels like neither rank nor respect…" — currently MISSING
+- [x] The Call Name — verify full text including sponsorship requirement
+- [x] **Call Name D20 table** — currently MISSING
+- [x] **GM Advice sidebar** ("Running the Captain") — currently MISSING
+- [x] **Player Advice sidebar** ("Finding the Game at the Bottom") — currently MISSING
+- [x] Disagreeing with Orders — verify full text including "Two failed objections earns a warning" and "If the outcome clearly benefits…" detail
+- [x] Leaving — verify full text
+- [x] Mutiny — verify full text including failure consequences
 
 **Section 13: Host Play**
 
 - [ ] **The Hired Expert** subsection — currently MISSING (caster access by Host tier table, "caster on staff is not a neutral utility" paragraph)
-- [ ] Running a Host — verify full detail ("summary level" tracking guidance)
-- [ ] **Warmaster's Authority** — full detail ("Openly defying… costs MORALE −1 and is noted"; contested challenge mechanic; GRIEVANCE mechanic for detachment)
+- [x] Running a Host — verify full detail ("summary level" tracking guidance)
+- [x] **Warmaster's Authority** — full detail ("Openly defying… costs MORALE −1 and is noted"; contested challenge mechanic; GRIEVANCE mechanic for detachment)
 - [ ] **The Warmaster's Alignment** subsection — currently MISSING entirely (independent vs. faction warmaster, faction alignment and individual bands)
-- [ ] **Supply at Host Scale** — full detail ("disrupted supply line" fallback paragraph)
-- [ ] **Host Treasury** — full educational text ("How the treasury works" three-part detail, tracking guidance, GM/PC roles) — currently compressed
-- [ ] **"If the Host has a caster: Treasury"** sidebar — MISSING
+- [x] **Supply at Host Scale** — full detail ("disrupted supply line" fallback paragraph)
+- [x] **Host Treasury** — full educational text ("How the treasury works" three-part detail, tracking guidance, GM/PC roles) — currently compressed
+- [x] **"If the Host has a caster: Treasury"** sidebar — PRESENT (minimal)
 - [ ] **Band Budgets and the Purser** subsection — currently MISSING entirely (allocation table, local expenses, overruns, deferred pay, PC uses)
-- [ ] **"If the Host has a caster: Purser"** sidebar — MISSING
-- [ ] **Dispatch and Messengers** — standing orders detail — partially MISSING
+- [x] **"If the Host has a caster: Purser"** sidebar — PRESENT (minimal)
+- [x] **Dispatch and Messengers** — standing orders detail — partially MISSING
 - [ ] **Dispatch** — lost riders, urgent riders, reply problem paragraphs — currently MISSING
-- [ ] **"If the Host has a caster: Dispatch"** sidebar — MISSING
+- [x] **"If the Host has a caster: Dispatch"** sidebar — PRESENT (minimal)
 - [ ] **Host Diplomacy** subsection — currently MISSING entirely (faction negotiation table, rival Host parley, third-party arbitration)
-- [ ] **"If the Host has a caster: Diplomacy"** sidebar — MISSING
+- [x] **"If the Host has a caster: Diplomacy"** sidebar — PRESENT (minimal)
 - [ ] Inter-Band Rivalry — trigger table — currently MISSING (only effects present)
 - [ ] Rivalry — "Reducing Rivalry" paragraph — currently MISSING
-- [ ] Rivalry — "does not reset at dissolution" paragraph — currently MISSING
-- [ ] **"If the Host has a caster: Rivalry"** sidebar — MISSING
-- [ ] Host Council — full detail (what council decides, what Warmaster can force, captains calling council, council vote mechanics) — currently compressed to summary
-- [ ] **"If the Host has a caster: Council"** sidebar — MISSING
+- [x] Rivalry — "does not reset at dissolution" paragraph — currently MISSING
+- [x] **"If the Host has a caster: Rivalry"** sidebar — PRESENT (minimal)
+- [x] Host Council — full detail (what council decides, what Warmaster can force, captains calling council, council vote mechanics) — currently compressed to summary
+- [x] **"If the Host has a caster: Council"** sidebar — PRESENT (minimal)
 - [ ] Warmaster's Ledger — Ledger rises/falls event lists — currently MISSING (only consequence table present)
-- [ ] **"If the Host has a caster: Ledger"** sidebar — MISSING
-- [ ] Host Dissolution — Clean/Contractual/Collapse full detail — currently compressed
-- [ ] **After dissolution** paragraph — currently MISSING
-- [ ] **"If the Host has a caster: Dissolution"** sidebar — MISSING
+- [x] **"If the Host has a caster: Ledger"** sidebar — PRESENT (minimal)
+- [x] Host Dissolution — Clean/Contractual/Collapse full detail — currently compressed
+- [x] **After dissolution** paragraph — currently MISSING
+- [x] **"If the Host has a caster: Dissolution"** sidebar — PRESENT (minimal)
 
 **Appendix A: Integration Points**
 
-- [ ] **Stronghold Defense Rating** — unit points formula, Named Men during downtime (TRAINING, SCOUTING, LOGISTICS functions) — currently MISSING
+- [x] **Stronghold Defense Rating** — unit points formula, Named Men during downtime (TRAINING, SCOUTING, LOGISTICS functions) — currently MISSING
 - [ ] **Reputation Cascade** — full paragraph ("The band does not have its own Reputation score separate from the fellowship's…") — currently compressed to one sentence
 - [ ] **Feud Track** integration paragraph — currently MISSING
-- [ ] **Talent Integration** — PATH OF THE COMMANDER full detail (rank 3 Named Men inclusion, rank 5 conditioning) — currently MISSING
-- [ ] **Talent Integration** — MASTER OF THE HUNT detail — currently MISSING
-- [ ] **Talent Integration** — COLD-BLOODED detail — currently MISSING
+- [x] **Talent Integration** — PATH OF THE COMMANDER full detail (rank 3 Named Men inclusion, rank 5 conditioning) — currently MISSING
+- [x] **Talent Integration** — MASTER OF THE HUNT detail — currently MISSING
+- [x] **Talent Integration** — COLD-BLOODED detail — currently MISSING
 
 ### Phase 10: Flavor and Atmosphere Preservation Audit
 
@@ -392,40 +399,40 @@ the reader how mercenary life works. Missing flavor text is a missing lesson.
 
 **Educational paragraphs (teach the reader how the world works):**
 
-- [ ] "Leaders define that boundary" (Pay section — the emotional cost of calling mission pay too early/late)
-- [ ] "A man who knows his captain pockets everything still goes to battle" (Loot Share — why loot shares exist)
-- [ ] "The people who most need a warband are the ones who can never afford one" (The Ledger — verify full essay)
-- [ ] "Every company has rules no one writes down" (The Unofficial Rules — the unwritten code)
-- [ ] "Territory in the Ravenlands is not owned, but held" (Territory Marking — what territory means)
-- [ ] "A sorcerer in a fighting band is not a weapon" (Magic in Merc Life — what a caster actually is)
-- [ ] "Most bands have no caster. This is not a deficiency" (Magic — validating non-caster play)
-- [ ] "A caster who hires out to a fighting company is not typical of their discipline" (The Caster in the Band — why they're here)
-- [ ] "The game here is in the people" (Player Advice — what to do at the bottom of a company)
-- [ ] "Make the captain someone who is often right" (GM Advice — how to run the NPC captain)
-- [ ] "Experienced captains split reserves across two or three hides" (Hoards — operational doctrine)
-- [ ] "The band that finds the hoard owns it. There is no inheritance in the Ravenlands." (Hoards — world rule)
+- [x] "Leaders define that boundary" (Pay section — the emotional cost of calling mission pay too early/late)
+- [x] "A man who knows his captain pockets everything still goes to battle" (Loot Share — why loot shares exist)
+- [x] "The people who most need a warband are the ones who can never afford one" (The Ledger — verify full essay)
+- [x] "Every company has rules no one writes down" (The Unofficial Rules — the unwritten code)
+- [x] "Territory in the Ravenlands is not owned, but held" (Territory Marking — what territory means)
+- [x] "A sorcerer in a fighting band is not a weapon" (Magic in Merc Life — what a caster actually is)
+- [x] "Most bands have no caster. This is not a deficiency" (Magic — validating non-caster play)
+- [x] "A caster who hires out to a fighting company is not typical of their discipline" (The Caster in the Band — why they're here)
+- [x] "The game here is in the people" (Player Advice — what to do at the bottom of a company)
+- [x] "Make the captain someone who is often right" (GM Advice — how to run the NPC captain)
+- [x] "Experienced captains split reserves across two or three hides" (Hoards — operational doctrine)
+- [x] "The band that finds the hoard owns it. There is no inheritance in the Ravenlands." (Hoards — world rule)
 - [ ] "Decay is permanent unless the GM runs active resettlement" (Settlement Decay — consequences permanence)
 
 **Atmospheric detail (makes the world feel real):**
 
-- [ ] Kin recruitment flavor — Elf ("usually exiled, disgraced, or carrying something they can't name"), Dwarf ("they do not desert quietly; if they go, you know about it"), Wolfkin (pack behavior), Goblin ("will not hold a palisade under direct assault")
-- [ ] Named Man Personality descriptions — all 12 types have vivid one-line characterizations
-- [ ] Caster Personality descriptions — all 12 types tailored to practitioners
-- [ ] Archetype personality assignments ("Typical Named Men personality: Flat, Death-Easy, Mercenary Proud" etc.)
-- [ ] Quick-build appearance lines — 7 total (4 Named Men + 3 Casters), each is a one-sentence physical portrait
-- [ ] Quick-build agenda detail — full sentence versions (not compressed to keywords)
-- [ ] Settlement size notes — full color text ("A few hunters and one tough elder", "A warchief or headman with force behind him")
-- [ ] Tribute table result 5/6 — "Named Man surrendered" full narrative paragraph including Galt example
-- [ ] Windfall table — full flavor descriptions per entry
-- [ ] Non-payment table — full consequence text per entry (not keywords)
-- [ ] "What a dead band's hoard contains is up to the GM" — full closing paragraph (what captains buried, locked strongbox story)
+- [x] Kin recruitment flavor — Elf ("usually exiled, disgraced, or carrying something they can't name"), Dwarf ("they do not desert quietly; if they go, you know about it"), Wolfkin (pack behavior), Goblin ("will not hold a palisade under direct assault")
+- [x] Named Man Personality descriptions — all 12 types have vivid one-line characterizations
+- [x] Caster Personality descriptions — all 12 types tailored to practitioners
+- [x] Archetype personality assignments ("Typical Named Men personality: Flat, Death-Easy, Mercenary Proud" etc.)
+- [x] Quick-build appearance lines — 7 total (4 Named Men + 3 Casters), each is a one-sentence physical portrait
+- [x] Quick-build agenda detail — full sentence versions (not compressed to keywords)
+- [x] Settlement size notes — full color text ("A few hunters and one tough elder", "A warchief or headman with force behind him")
+- [x] Tribute table result 5/6 — "Named Man surrendered" full narrative paragraph including Galt example
+- [x] Windfall table — full flavor descriptions per entry
+- [x] Non-payment table — full consequence text per entry (not keywords)
+- [x] "What a dead band's hoard contains is up to the GM" — full closing paragraph (what captains buried, locked strongbox story)
 
 **Voice and diction checks across all restored content:**
 
-- [ ] No AI-tells introduced during restoration (em-dash clusters, rule-of-three, "not just X but Y", synonym cycling)
-- [ ] Restored prose matches the register of surrounding text (rules-register for rules, bridge-register for examples)
-- [ ] No modern vocabulary introduced ("stakeholder", "leverage" used only where the proposal uses it)
-- [ ] Mercenary vocabulary preserved (retainer, mission pay, stores, provisions, palisade, perimeter, sortie)
+- [x] No AI-tells introduced during restoration (em-dash clusters, rule-of-three, "not just X but Y", synonym cycling)
+- [x] Restored prose matches the register of surrounding text (rules-register for rules, bridge-register for examples)
+- [x] No modern vocabulary introduced ("stakeholder", "leverage" used only where the proposal uses it)
+- [x] Mercenary vocabulary preserved (retainer, mission pay, stores, provisions, palisade, perimeter, sortie)
 
 ### Phase 11: Table and Data Completeness Audit
 
@@ -434,69 +441,69 @@ every row, and every note. A table with a missing column teaches less.
 
 **Tables that must be complete (all columns, all rows, all notes):**
 
-- [ ] Fighter Tiers — SALARY, SUPPLY, STATS, NOTES columns
-- [ ] Kin and Recruitment — KIN, MODIFIER, full NOTES
-- [ ] Wages by Fighter Type — exact figures match proposal
-- [ ] Windfall Table — D6, WINDFALL with full text per entry
-- [ ] Loot Share — TYRANT, STANDARD, FRATERNAL, KIN-CLAN percentages
-- [ ] Captive Value / Ransom — CAPTIVE, VALUE, NOTES columns
-- [ ] Daily Forager Output — all terrain rows, all party size columns
-- [ ] Field Non-Payment — D6, EFFECT with full text
-- [ ] Balance of Force — SIZE, FIGHTERS, full NOTES
-- [ ] Demanding Tribute difficulty — SITUATION, DIFFICULTY
-- [ ] Tribute Table — D6 × 4 settlement sizes
-- [ ] Annual Tribute Limit — SIZE, LIMIT, DEPLETION NOTE
-- [ ] Settlement Decay — CURRENT, DROPS TO, EFFECT
-- [ ] Feud Track — STEP, STATE, EFFECT
-- [ ] Getting an Audience — APPROACH, REQUIREMENT
-- [ ] Negotiating Terms (employer tier) — TIER, DIFFICULTY
-- [ ] Allegiance Levels — LEVEL, NAME, ACCESS, CONSTRAINT
-- [ ] Contract Reference Prices — all rows including missing types, with EMPLOYER TIER and NOTES
-- [ ] Grievance Bounties — OFFENSE, PRICE, NOTES
-- [ ] Professional Breach Bounties — BREACH, PRICE, NOTES (currently MISSING)
-- [ ] Elimination Bounties — TARGET, PRICE, NOTES
-- [ ] Recovery Bounties — ITEM, PRICE, NOTES (currently MISSING)
-- [ ] Payment in Goods — full goods table (currently MISSING)
-- [ ] Kidnapping Ransom Rates — CAPTIVE TYPE, RANSOM, NOTES (currently MISSING)
-- [ ] Hoard Concealment — SWORDS, CONCEALMENT, FINDER'S DIFFICULTY
-- [ ] Hoard Contents — BAND SIZE, VALUE, CONTENTS
-- [ ] Discipline Table — SEVERITY, EXAMPLES, PUNISHMENT (full text)
-- [ ] Tyrant Company MORALE behavior (Fear-Held table)
-- [ ] Arguments Escalation Ladder (currently MISSING)
+- [x] Fighter Tiers — SALARY, SUPPLY, STATS, NOTES columns
+- [x] Kin and Recruitment — KIN, MODIFIER, full NOTES
+- [x] Wages by Fighter Type — exact figures match proposal
+- [x] Windfall Table — D6, WINDFALL with full text per entry
+- [x] Loot Share — TYRANT, STANDARD, FRATERNAL, KIN-CLAN percentages
+- [x] Captive Value / Ransom — CAPTIVE, VALUE, NOTES columns
+- [x] Daily Forager Output — all terrain rows, all party size columns
+- [x] Field Non-Payment — D6, EFFECT with full text
+- [x] Balance of Force — SIZE, FIGHTERS, full NOTES
+- [x] Demanding Tribute difficulty — SITUATION, DIFFICULTY
+- [x] Tribute Table — D6 × 4 settlement sizes
+- [x] Annual Tribute Limit — SIZE, LIMIT, DEPLETION NOTE
+- [x] Settlement Decay — CURRENT, DROPS TO, EFFECT
+- [x] Feud Track — STEP, STATE, EFFECT
+- [x] Getting an Audience — APPROACH, REQUIREMENT
+- [x] Negotiating Terms (employer tier) — TIER, DIFFICULTY
+- [x] Allegiance Levels — LEVEL, NAME, ACCESS, CONSTRAINT
+- [x] Contract Reference Prices — all rows including missing types, with EMPLOYER TIER and NOTES
+- [x] Grievance Bounties — OFFENSE, PRICE, NOTES
+- [x] Professional Breach Bounties — BREACH, PRICE, NOTES (currently MISSING)
+- [x] Elimination Bounties — TARGET, PRICE, NOTES
+- [x] Recovery Bounties — ITEM, PRICE, NOTES (currently MISSING)
+- [x] Payment in Goods — full goods table (currently MISSING)
+- [x] Kidnapping Ransom Rates — CAPTIVE TYPE, RANSOM, NOTES (currently MISSING)
+- [x] Hoard Concealment — SWORDS, CONCEALMENT, FINDER'S DIFFICULTY
+- [x] Hoard Contents — BAND SIZE, VALUE, CONTENTS
+- [x] Discipline Table — SEVERITY, EXAMPLES, PUNISHMENT (full text)
+- [x] Tyrant Company MORALE behavior (Fear-Held table)
+- [x] Arguments Escalation Ladder (currently MISSING)
 - [ ] Flyting Results — RESULT, WINNER, LOSER (currently MISSING)
 - [ ] Territory Marker Standing/Feud table (currently MISSING)
-- [ ] Named Man Attributes — VETERAN and ELITE arrays with NOTES
-- [ ] Named Man Skills Pool — SKILL, ATTRIBUTE, TYPICAL ROLE
-- [ ] Named Man Talent Pool — 4 categorized tables with MAX RANK and NOTES (currently compressed)
-- [ ] Named Man Equipment — TIER, ROLE, PRIMARY, SECONDARY, ARMOR, HEAD
-- [ ] Named Man Triggers D6 — verify entries match proposal
-- [ ] Named Man Agendas D6 — verify entries match proposal
-- [ ] Named Man Personalities D66 (currently MISSING)
-- [ ] Named Man Advancement D6 (currently MISSING)
-- [ ] Named Man Connections (currently MISSING)
-- [ ] Caster Tier Attributes — INITIATE, ADEPT, MASTER
-- [ ] Caster Skills by Discipline (currently MISSING)
-- [ ] Caster Skill Pool — SKILL, ATTRIBUTE, NOTES
-- [ ] Caster Discipline Rank Limits (currently MISSING)
-- [ ] Caster WP Table (currently compressed)
-- [ ] Caster Equipment (currently MISSING)
-- [ ] Caster Agendas D6 (currently MISSING)
-- [ ] Caster Triggers D6 (currently MISSING)
-- [ ] Caster Personalities D66 (currently MISSING)
-- [ ] Bounty Spread — BOUNTY, full SPREAD text
-- [ ] Atrocity Defined Acts — ACT, full DESCRIPTION
-- [ ] Rank Table (Serving) — RANK, ENTRY, PAY, full AUTHORITY
-- [ ] Call Name D20 (currently MISSING)
-- [ ] Standing Orders D6 (currently MISSING)
-- [ ] Caster Access by Host Tier (currently MISSING)
-- [ ] Dispatch table — DISTANCE, CLEAR ROAD, DIFFICULT, WINTER
-- [ ] Rivalry Effects — RIVALRY, EFFECT
+- [x] Named Man Attributes — VETERAN and ELITE arrays with NOTES
+- [x] Named Man Skills Pool — SKILL, ATTRIBUTE, TYPICAL ROLE
+- [x] Named Man Talent Pool — 4 categorized tables with MAX RANK and NOTES (currently compressed)
+- [x] Named Man Equipment — TIER, ROLE, PRIMARY, SECONDARY, ARMOR, HEAD
+- [x] Named Man Triggers D6 — verify entries match proposal
+- [x] Named Man Agendas D6 — verify entries match proposal
+- [x] Named Man Personalities D66 (currently MISSING)
+- [x] Named Man Advancement D6 (currently MISSING)
+- [x] Named Man Connections (currently MISSING)
+- [x] Caster Tier Attributes — INITIATE, ADEPT, MASTER
+- [x] Caster Skills by Discipline (currently MISSING)
+- [x] Caster Skill Pool — SKILL, ATTRIBUTE, NOTES
+- [x] Caster Discipline Rank Limits (currently MISSING)
+- [x] Caster WP Table (currently compressed)
+- [x] Caster Equipment (currently MISSING)
+- [x] Caster Agendas D6 (currently MISSING)
+- [x] Caster Triggers D6 (currently MISSING)
+- [x] Caster Personalities D66 (currently MISSING)
+- [x] Bounty Spread — BOUNTY, full SPREAD text
+- [x] Atrocity Defined Acts — ACT, full DESCRIPTION
+- [x] Rank Table (Serving) — RANK, ENTRY, PAY, full AUTHORITY
+- [x] Call Name D20 (currently MISSING)
+- [x] Standing Orders D6 (currently MISSING)
+- [x] Caster Access by Host Tier (currently MISSING)
+- [x] Dispatch table — DISTANCE, CLEAR ROAD, DIFFICULT, WINTER
+- [x] Rivalry Effects — RIVALRY, EFFECT
 - [ ] Rivalry Triggers (currently MISSING)
-- [ ] Host Diplomacy Faction Tier (currently MISSING)
-- [ ] Band Budget Allocation (currently MISSING)
-- [ ] Warmaster Ledger — LEDGER, EFFECT
+- [x] Host Diplomacy Faction Tier (currently MISSING)
+- [x] Band Budget Allocation (currently MISSING)
+- [x] Warmaster Ledger — LEDGER, EFFECT
 - [ ] Warmaster Ledger rises/falls event lists (currently MISSING)
-- [ ] Master caster WP: must be **5** not 4 (data error)
+- [x] Master caster WP: must be **5** not 4 (data error)
 
 ### Phase 12: Sidebar and Callout Preservation Audit
 
@@ -506,27 +513,27 @@ a paragraph of rules cannot.
 
 **"If the Host has a caster" sidebars (7 total):**
 
-- [ ] Treasury sidebar — ARCANE MARK, BIND MAGIC, COMPEL TRUTH
-- [ ] Purser sidebar — RECALL MEMORY, COMPEL TRUTH
-- [ ] Dispatch sidebar — WORDS ON THE WIND, TELEPATHY, BEASTMASTER raven
-- [ ] Diplomacy sidebar — COMPEL TRUTH consent, TONGUES, TELEPATHY detection, SENSE MAGIC
+- [x] Treasury sidebar — ARCANE MARK, BIND MAGIC, COMPEL TRUTH
+- [x] Purser sidebar — RECALL MEMORY, COMPEL TRUTH
+- [x] Dispatch sidebar — WORDS ON THE WIND, TELEPATHY, BEASTMASTER raven
+- [x] Diplomacy sidebar — COMPEL TRUTH consent, TONGUES, TELEPATHY detection, SENSE MAGIC
 - [ ] Rivalry sidebar — ARCANE MARK surveillance, MOLD MEMORY
-- [ ] Council sidebar — BLOCK READING, COMPEL TRUTH during Grievance
-- [ ] Dissolution sidebar — LOCATE tracing, RECALL symbol emergency transport
+- [x] Council sidebar — BLOCK READING, COMPEL TRUTH during Grievance
+- [x] Dissolution sidebar — LOCATE tracing, RECALL symbol emergency transport
 
 **GM and Player Advice sidebars:**
 
-- [ ] "Running the Captain" — GM advice on making the NPC captain compelling
-- [ ] "Finding the Game at the Bottom" — Player advice on what to do under another captain
-- [ ] "Running the optionals" — guidance on when to enable each optional subsystem
-- [ ] "The Unofficial Rules" — unwritten rules of company life (theft, lying, violence, initiation)
-- [ ] "The Ledger" — economic essay bridging mercenary economics to adventurer economics (verify full text)
+- [x] "Running the Captain" — GM advice on making the NPC captain compelling
+- [x] "Finding the Game at the Bottom" — Player advice on what to do under another captain
+- [x] "Running the optionals" — guidance on when to enable each optional subsystem
+- [x] "The Unofficial Rules" — unwritten rules of company life (theft, lying, violence, initiation)
+- [x] "The Ledger" — economic essay bridging mercenary economics to adventurer economics (verify full text)
 
 **Callout boxes from proposal:**
 
-- [ ] Host callout box (Section 1 — who the Warmaster typically is)
-- [ ] Protection season / Combat call-up explanatory block
-- [ ] "The ledger" essay — currently partially present, verify no paragraphs lost
+- [x] Host callout box (Section 1 — who the Warmaster typically is)
+- [x] Protection season / Combat call-up explanatory block
+- [x] "The ledger" essay — currently partially present, verify no paragraphs lost
 
 ### Phase 13: Mercenary Life Authenticity Audit
 
@@ -536,46 +543,46 @@ than generic fantasy. Check these against the proposal's original text.
 
 **Economic authenticity:**
 
-- [ ] The two-rate pay structure (retainer vs. mission) — verify the boundary rules are educational
-- [ ] In-kind payment escalation — the specific week-by-week curve is historical realism
-- [ ] Equipment maintenance costs (seasonal, engagement-count driven) — verify full detail
-- [ ] The economics of tribute vs. contract (why both exist, when each is rational)
-- [ ] Protection season as a losing proposition — verify the "cost more than it pays" educational text
-- [ ] Ransom as slow income — the logistics of holding a captive, the time cost, the guard cost
-- [ ] Payment in goods — the entire goods table exists because medieval armies were not paid in coin
+- [x] The two-rate pay structure (retainer vs. mission) — verify the boundary rules are educational
+- [x] In-kind payment escalation — the specific week-by-week curve is historical realism
+- [x] Equipment maintenance costs (seasonal, engagement-count driven) — verify full detail
+- [x] The economics of tribute vs. contract (why both exist, when each is rational)
+- [x] Protection season as a losing proposition — verify the "cost more than it pays" educational text
+- [x] Ransom as slow income — the logistics of holding a captive, the time cost, the guard cost
+- [x] Payment in goods — the entire goods table exists because medieval armies were not paid in coin
 
 **Social authenticity:**
 
-- [ ] The Unofficial Rules — these are drawn from real military sociology (theft, initiation, hazing)
-- [ ] Tyrant Punishments — mutilation and public execution as enforcement tools with social costs
-- [ ] Discipline as carried out by the sergeant, not the officer — the captain-sergeant dynamic
-- [ ] Call names as social currency — earned, not chosen, and traveling with reputation
-- [ ] Arguments and escalation — the stages of camp violence from words to drawn steel
-- [ ] Blood oaths — brotherhood, bounty, vengeance as binding social contracts with real costs
-- [ ] Death distribution — the immediate politics of who gets the dead man's kit
-- [ ] Occupation as governance — the long-term cost of controlling a settlement's labor
-- [ ] Settlement decay as consequence — villages turned into ruins on the map
+- [x] The Unofficial Rules — these are drawn from real military sociology (theft, initiation, hazing)
+- [x] Tyrant Punishments — mutilation and public execution as enforcement tools with social costs
+- [x] Discipline as carried out by the sergeant, not the officer — the captain-sergeant dynamic
+- [x] Call names as social currency — earned, not chosen, and traveling with reputation
+- [x] Arguments and escalation — the stages of camp violence from words to drawn steel
+- [x] Blood oaths — brotherhood, bounty, vengeance as binding social contracts with real costs
+- [x] Death distribution — the immediate politics of who gets the dead man's kit
+- [x] Occupation as governance — the long-term cost of controlling a settlement's labor
+- [x] Settlement decay as consequence — villages turned into ruins on the map
 
 **Military authenticity:**
 
-- [ ] Drill producing readiness-not-skill (trained status, not MELEE increase)
-- [ ] Forager allocation by operational mode (70% idle vs. 30% on contract)
-- [ ] Two-man watch on Warband+ camps
-- [ ] Fortified camp as temporary palisade with degradation timer
-- [ ] Caster combat positioning — the two-fighter protection cost
-- [ ] Territory marking — spiked markers and the sack as communication tools
-- [ ] Information lag in Host play — dispatch times, lost riders, the reply problem
-- [ ] Standing orders as operational doctrine for when communication fails
+- [x] Drill producing readiness-not-skill (trained status, not MELEE increase)
+- [x] Forager allocation by operational mode (70% idle vs. 30% on contract)
+- [x] Two-man watch on Warband+ camps
+- [x] Fortified camp as temporary palisade with degradation timer
+- [x] Caster combat positioning — the two-fighter protection cost
+- [x] Territory marking — spiked markers and the sack as communication tools
+- [x] Information lag in Host play — dispatch times, lost riders, the reply problem
+- [x] Standing orders as operational doctrine for when communication fails
 
 **Character authenticity:**
 
-- [ ] Named Man Personalities feel like real people, not tropes (Flat, Calculating, Scornful, etc.)
-- [ ] Caster Personalities feel like practitioners, not wizards (Burnt Out, Accounting, Contemptuous Expert)
-- [ ] Quick-build appearance lines — each is a one-sentence physical portrait that tells a history
-- [ ] Triggers and Agendas as character, not mechanics — each one implies a story
-- [ ] Sergeant as a distinct social position (not just "high-rank Named Man")
-- [ ] Named Man Advancement as organic growth (XP per engagement, injury risk on 1)
-- [ ] Connections as social network — a veteran carries relationships from before the band
+- [x] Named Man Personalities feel like real people, not tropes (Flat, Calculating, Scornful, etc.)
+- [x] Caster Personalities feel like practitioners, not wizards (Burnt Out, Accounting, Contemptuous Expert)
+- [x] Quick-build appearance lines — each is a one-sentence physical portrait that tells a history
+- [x] Triggers and Agendas as character, not mechanics — each one implies a story
+- [x] Sergeant as a distinct social position (not just "high-rank Named Man")
+- [x] Named Man Advancement as organic growth (XP per engagement, injury risk on 1)
+- [x] Connections as social network — a veteran carries relationships from before the band
 
 ### Phase 14: Design Analysis
 

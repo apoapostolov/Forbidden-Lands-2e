@@ -77,13 +77,10 @@ requires deep multi-register work.
   character scenes, or proposal fiction previews.**
 
 - `references/setting-ravenland-and-human-peoples.md`
-  World and culture reference. Geography (Weatherstone,
-  Harga, Stillmire, Amber Peaks, etc.), the three human
-  peoples (Alderlander, Aslene, Ailander) with physical
-  archetypes and cultural tells, kin quick-reference,
-  magic path notes, and a proper-noun appendix. **Load
-  when writing or revising fiction that involves place
-  names, character nationality, or kin identity.**
+  **Moved to the `forbidden-lands-lore` skill.** Load that
+  skill when writing or revising fiction that involves place
+  names, character nationality, or kin identity. The lore
+  skill owns all setting-authenticity concerns.
 
 - `references/writing-manual.md`
   The unified writing authority. Voice identity, register

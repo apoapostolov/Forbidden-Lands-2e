@@ -190,11 +190,25 @@ A band's origin shapes how it recruits, how it holds together, and what breaks i
 
 ## Recruitment and Quality
 
-> _Gest stood at the recruitment board in market square and ran his thumb across the postings, which were in Alderlander script and therefore useless to him without a translator. Skalva read them. Gest listened. When Skalva finished, Gest said nothing for a while, then pointed at the bottom notice — the cheapest one, the one nobody had pulled — and said: "That one. The man who wrote it is there because nobody else wanted him. That means he will come when we call and he will not argue about the rate." That was how Gest recruited. Not the best. The available._
+> _The new man's name was Brosa, and he had the look of someone who had been eating regularly until about three weeks ago. Good shoulders — Alderlander stock, the Gristle guessed, though he had the burnt complexion of someone who had been sleeping rough since long before the Mist lifted. Clean teeth, which was unusual. A scar across the back of his left hand that said he had blocked a blade once and learned from it._
+>
+> _"What can you do?" the Gristle asked._
+>
+> _"I can hold a line. I can dig. I can walk thirty miles if someone feeds me at the end."_
+>
+> _"Can you keep your mouth shut when the job isn't what you were told?"_
+>
+> _Brosa looked at her. Then at Gest. Then at the fifteen men behind them who were not looking at him, because nobody cared about new men until they had survived something._
+>
+> _"I've done that before," he said._
+>
+> _The Gristle held out a coin. Half-silver, clipped at the edge — the advance. He took it. That was the whole ceremony. No oath, no contract, no handshake. She paid him, which meant he was hers, which meant that if he ran with the advance she would put his name on a board somewhere and somebody down the road would collect. He understood this without being told. The men who needed it explained were the men who did not last._
+>
+> _Gest wrote him into the roster that evening. Common. No rank. Shares last._
 
 ### Finding Men
 
-Fighters are recruited the same way as the GUARD hireling described in Chapter 9. Visit a settlement and make a MANIPULATION roll. Use settlement size and the band's Reputation to modify the roll. A settlement that has heard of the band through Reputation may provide candidates without a roll.
+Fighters are recruited the same way as the GUARD hireling described in **THE STRONGHOLD** chapter. Visit a settlement and make a MANIPULATION roll. Use settlement size and the band's Reputation to modify the roll. A settlement that has heard of the band through Reputation may provide candidates without a roll.
 
 In the field, recruitment happens in:
 
@@ -245,11 +259,15 @@ When hired for field work away from the stronghold, fighters expect advance pay 
 
 ## Pay, Provisions, and Consequences
 
-> _Pay day. The Gristle sat behind the counting table with the ledger open and the purse beside it. Gest stood at her left shoulder, which was where he always stood, and said nothing, which was what he always said during the count. The men filed through. Each one stated his name. Gest checked the ledger. The Gristle counted the coin. No one spoke beyond the name and the number._
+> _Every seventh day, Gest sat on a rock or a fallen trunk or whatever was nearest to flat, and the men came past one at a time._
 >
-> _Brosa came through and the Gristle put down two silver for the week's retainer. Brosa picked them up and walked to the back of the line. He did not count them. Skalva came through and counted each coin twice, turning them in the light to check the stamp. Petter came through and took his coin without looking at it. Hargamar took his and put it straight into the pouch he kept under his mail._
+> _The ritual never changed. Gest had the purse on his left side and the ledger on his right and a small knife stuck in the wood beside him, because once — years ago, before the Gristle's time — a man had grabbed the purse and run. The knife was not for the purse. It was for the hand._
 >
-> _The purse was lighter than it should have been. The escort paid, but the escort was five days and the retainer covered seven, and the two days on either side of the job ate silver without producing any. The Gristle did the arithmetic while the last man filed through. She had enough for this week and half of next. After that the treasury needed a contract or the treasury needed a miracle, and she had learned over three seasons which of those was more reliable._
+> _Each man received his retainer in copper, counted it in front of Gest, and walked away. Some counted slowly. Some did not count at all, because they trusted Gest, which was a kind of compliment the sergeant did not acknowledge. Skalva counted twice, each time, because the boy was careful in the way that young men are careful when they have not yet learned which things are worth checking and which are not._
+>
+> _Petter never counted. He put the coin in his belt without looking at it and walked back to whatever he had been doing. If you had asked him the exact amount, he could have named it. He simply did not need to look._
+>
+> _The men who still had debts — the advance not yet worked off, a replacement weapon charged against future pay — watched their pile come up short and said nothing, because the ledger was open and the arithmetic was the same every week, and a man who argued with a number he had agreed to was a man who wanted everyone to know he could not count._
 
 ### Pay Model
 
@@ -332,6 +350,14 @@ If the treasury cannot pay loot shares: MORALE −1. The captain who pocketed hi
 
 Tribute extracted from a settlement counts as a loot event. The captain who takes tribute without distributing shares faces two problems at once: the settlement's consequences, and his own men asking where their cut went.
 
+> _The Greymark contract paid a hundred and fourteen silver. Three more than posted, because the employer had miscounted his own losses and made good on it without being asked — which was unusual enough that Gest wrote the man's name down for future reference._
+>
+> _The split went like this. The Gristle took the captain's share: twenty silver, flat. Not because she had fought hardest — she had not — but because the captain's share was what paid for the next contract's advance, the replacement gear, the healer's supplies, and the bribes that kept the next employer from hearing whatever the last employer said about them. It was operating cost dressed as rank._
+>
+> _Gest took sergeant's share: twelve silver. The remainder went into a pile and Gest counted it into portions. Each man got his cut based on tier and time served. Petter drew the largest share after Gest — almost eleven silver, because Petter was veteran-tier and had been present from the first day of the contract to the last. Brosa drew the smallest — six silver and change, because he had joined mid-contract and his tier was common. Skalva drew less than Brosa, because Skalva had not yet been promoted and was still technically on advance-debt._
+>
+> _The boy looked at his pile and said nothing. The men around him looked at their piles and said nothing. Everyone knew the numbers were right because Gest's numbers were always right, and the man who accused the sergeant of short-dealing had better be holding evidence in both hands._
+
 ### Ransom
 
 When a windfall roll produces a captive, or when the band takes a prisoner of clear value, the captain may pursue ransom. This is slow income. It requires keeping the captive, identifying the right buyer, and negotiating at distance.
@@ -357,6 +383,12 @@ When a windfall roll produces a captive, or when the band takes a prisoner of cl
 - **Execute:** ATROCITY +1. Standing loss at all settlements the captive's patron controls (−1 to −2 depending on tier).
 - **Release freely:** No coin. If the captive's patron is a current or potential employer, Allegiance +1. A warchief remembers the gesture longer than he remembers a single contract.
 
+> _Gest counted heads at the cookfire and came up one short._
+>
+> _"Skalva," he said, to no one in particular. Then louder, toward the treeline: "Skalva." The boy came back from the stream carrying his boots. He was short and stocky, light-haired, the kind of pale that came from years of flat grey sky rather than weeks of cold. He washed his boots every morning as though clean leather would keep him alive. Gest took the boots out of his hands and dropped them next to the fire. "Eat," he said. "Then boots." Skalva sat down. He had learned in three weeks not to argue with the sergeant about the order of things._
+>
+> _The Gristle watched from the other side of the fire and said nothing. She had fifteen men and Skalva, and all sixteen of them needed a quarter-day of food before they could march anywhere. That was the calculation, every morning, before routes or contracts or the question of whether the village they had been hired to protect was worth protecting. Fifteen men and a boy with clean boots. She scraped the last of the porridge from the pot with her knife and ate it off the blade. There would be nothing else until evening._
+
 ### Feeding the Band
 
 Rather than rolling dice for each forager, use the **daily field ration table** below. Assign men to foraging each Morning Quarter — they are not available for other duties that Quarter Day.
@@ -375,7 +407,7 @@ Rather than rolling dice for each forager, use the **daily field ration table** 
 | Ruins       | -1       | 1            | 3            | 7             | 12           |
 | Tundra      | -2       | 0            | 2            | 4             | 8            |
 
-Apply season modifiers from Chapter 8 if in use. A fellowship member with MASTER OF THE HUNT rank 3 or above may upgrade one column to the right for the entire party.
+Apply season modifiers from the **JOURNEYS** chapter if in use. A fellowship member with MASTER OF THE HUNT rank 3 or above may upgrade one column to the right for the entire party.
 
 This output fills the band's daily FOOD requirement from the bottom up. Good terrain with enough foragers sustains a band. Plains sustain about half. Mountains and Ruins sustain a fraction — enough to slow the drain, not enough to stop it. Tundra is a death march against the stores. Running a large band in thin country burns your provisions. That is intentional.
 
@@ -399,7 +431,25 @@ Wages and food are the visible costs. Two others run beneath them and accumulate
 
 A season with no engagements requires no maintenance. A season with seven or more engagements requires double the standard cost.
 
-**Injury treatment.** Field injuries beyond what natural rest recovers require material care: HERBS for wounds, time with a healer for critical injuries. Track separately from provisions. Budget **2–5 silver per critical injury sustained** in healer fees or herb consumption if the band does not carry a dedicated healer. A band in heavy rotation that sustains two or three critical injuries a season should expect 6–15 silver in treatment costs on top of wages and provisions. This is not optional: untreated critical injuries carry permanent consequences, listed in Chapter 6.
+**Injury treatment.** Field injuries beyond what natural rest recovers require material care: HERBS for wounds, time with a healer for critical injuries. Track separately from provisions. Budget **2–5 silver per critical injury sustained** in healer fees or herb consumption if the band does not carry a dedicated healer. A band in heavy rotation that sustains two or three critical injuries a season should expect 6–15 silver in treatment costs on top of wages and provisions. This is not optional: untreated critical injuries carry permanent consequences, listed in the **CRITICAL INJURIES** chapter.
+
+> _They were three days from the Stillmire contract when the Gristle opened the strongbox and counted what was left._
+>
+> _She did not say anything to Gest. She did not have to. The sergeant had been watching the box the way a farmer watches the sky in a dry season — not looking directly at it, but never quite looking away._
+>
+> _"Two days," she said._
+>
+> _"I know."_
+>
+> _"The men will know by tomorrow."_
+>
+> _"They already know." Gest rolled his shoulders. "Brosa has been talking to Ferrec. Ferrec has been talking to everyone. They are not stupid."_
+>
+> _She closed the box. Two days of retainer for sixteen men was thirty-two copper she did not have. The contract ahead was worth a hundred and ten silver if they finished the job. Between here and there, the men would eat, the men would march, and the men would do the arithmetic, and by the second morning without pay someone would ask the question that could not be answered with promises._
+>
+> _"I'll talk to them tonight," she said._
+>
+> _"Keep it short," Gest said. "They don't need a speech. They need to know you know."_
 
 **Field Non-Payment Table.** Retainer is due weekly. At 14 days without payment, roll on this table. Mission pay is due daily during an active contract — if three consecutive days pass unpaid while the band is working, roll on this table at **+1 difficulty**. Men in the field are doing the work. Their patience is shorter than it is on retainer.
 
@@ -422,6 +472,12 @@ In-kind has its own cost curve. A second consecutive week of goods-payment trigg
 
 The two systems do not overlap. In-kind escalation governs what happens when the captain pays in goods. The FIELD NON-PAYMENT table governs what happens when the captain pays nothing. A week with no payment of any kind fires the non-payment table regardless of prior in-kind history.
 
+> _Ask Skalva why he joined. He would say the farm burned. This was true. Ask what he was saving toward and he would name a figure — enough for tools and a plot near the river where the soil was supposed to be good. Ask him again in a year, if he lasted a year, and the figure would be different. Ask Petter, who had been at this for nine years, and he would tell you about a woman in a village near the coast who was probably married to someone else by now, and a piece of land he had never seen, and a price that shifted every time he named it._
+>
+> _The truth was something they all shared and none of them said aloud: they knew how to do this. They knew who the men around them were, which ones held and which ones ran, where the next meal was coming from and how far to the next village. That was a kind of certainty. Out there — past the contract, past the column, in whatever life they were supposedly saving toward — there was none._
+>
+> _The Ravenlands did not reward the man who stopped walking._
+
 ---
 
 > **The Ledger**
@@ -438,13 +494,29 @@ The two systems do not overlap. In-kind escalation governs what happens when the
 
 ## Village Extortion and Tribute
 
-> _The village was called Tarveck. Eight buildings, a well, a granary the size of a shepherd's hut, and a headman who came out to the road before the Gristle had dismounted. He was old and he knew the arithmetic before she opened her mouth. Twelve armed men on the road outside a settlement of forty meant one thing. He did not make her say it._
+> _The village of Yellowdew was smaller than Redrun. Twelve houses, a ditch, and a palisade that leaned in three places. The elder was a woman with forearms like a smith's and a face that suggested she had heard speeches before._
 >
-> _"We have grain," he said. "Pelts. A horse that does not kick. We do not have silver."_
+> _The Gristle did not give a speech._
 >
-> _The Gristle looked at Gest. Gest looked at the granary. The headman watched both of them and said nothing else._
+> _"Your village needs protection," she said. "The contract at Greymark is finished. We can stay through the season. One meal per man per day, drawn from your stores. Shelter in the barn. No looting, no interference. In exchange, we patrol the road and answer whatever comes from the north."_
 >
-> _She took the grain and two pelts and left the horse. Rask wanted to push it further — he always wanted to push it further — and Gest told him to shut his mouth and mount up. They were gone before noon. The headman stood in the road and watched the dust settle and did not move until the column was out of sight. By evening he had sent a boy south to the next village. The boy carried no letter. He carried a count: twelve men, one woman leading, two dwarves in the line, a half-elf in the rear. The next village would decide what to do with that information._
+> _The elder looked at Gest, who stood behind the Gristle with his arms folded. Then at Petter, who was leaning on his spear twenty paces back and looking at nothing in particular, the way Petter looked at nothing in particular when he wanted someone to think about what he could be looking at._
+>
+> _"We cannot feed sixteen for a season," the elder said._
+>
+> _"Ten, then. I'll rotate. You'll have ten mouths for eight weeks."_
+>
+> _"Six."_
+>
+> _"Eight, for ten weeks, and my foragers hunt your wood-line — none of it touches your stores."_
+>
+> _The elder's jaw moved. She was calculating, the way all elders calculated: not whether the offer was fair, but whether refusing it was more expensive. An unprotected village on that road had lost two goats the previous season and a man the season before. Eight mouths for ten weeks against the chance of losing the whole village to whatever came next._
+>
+> _"Eight," the elder said. "But your men stay out of the houses."_
+>
+> _"Done."_
+>
+> _Neither of them shook hands. Neither of them needed to._
 
 ### The Balance of Force
 
@@ -459,6 +531,24 @@ Before demanding anything, compare the band's effective fighting strength to the
 | Fortified town           | 20–60+               | As a stronghold. They will fight, and they have walls.          |
 
 **Clearly larger** means at least a 2:1 advantage. At that ratio, resistance costs more than the tribute. Below 2:1, the settlement may calculate that fighting is worth it.
+
+> _The village of Redrun saw them from half a mile out. By the time the column reached the palisade gate, goats had been moved, grain covers drawn, and three men with hand-axes were standing where they could be seen. An elder met her at the door with the expression of a man calculating how many mouths he could not feed._
+>
+> _"You are the company from the Greymark posting," the elder said. It was not a question._
+>
+> _"We are."_
+>
+> _"The posting said ten men."_
+>
+> _The Gristle looked back at her column. Fifteen men, rain-black, mud to the knee, Petter leaning on his spear at the rear like a dwarf leaning on a fence post. "The posting said ten," she agreed. "The road said sixteen."_
+>
+> _The elder's eyes moved down the line, counting swords, counting mouths, doing the mathematics that every elder in every surviving village did when strangers arrived: how much can we give before winter becomes a worse problem than the men at the gate. He had done this before. Probably more than once._
+>
+> _"We can quarter six inside the wall," he said. "The rest in the barn."_
+>
+> _"The barn will do." She paused. "We eat our own food."_
+>
+> _Something shifted in the elder's face. A small loosening, the kind of relief a man does not want to show because showing it tells the stranger exactly how thin the margin is. "Good," he said. "Good."_
 
 ### Demanding Tribute
 
@@ -532,6 +622,20 @@ The GM should track the current size of any settlement the band has touched. A m
 
 ### Pillaging
 
+> _The village at the fork of the Fen River had already been hit when they arrived._
+>
+> _One house burned, still smoking. Grain stores torn open. Three dead — two men and a woman, cut clean, which meant swords, which meant it had not been animals. The surviving families stood in a knot near the well, watching the column approach with the empty faces of people who had already been through the worst part and were now waiting to find out if the next part was worse._
+>
+> _The Gristle sent Gest through the village to count what was left. He came back in an hour with a tally. The stores were gutted. The livestock pen was empty. The grain that had not been taken had been scattered in the mud — deliberate waste, the mark of a band that wanted to punish the village for not having more._
+>
+> _"Raiders?" the Gristle asked._
+>
+> _"Mercs. Three-season men, probably out of Harga. They left a camp twelve miles south — cold fire, track for ten to twelve feet, moving east." Gest spat. "They took what they wanted and salted the rest."_
+>
+> _Petter stood among the dead and looked at the cuts. He did not say anything. After a while he walked back to the column and sat down and began sharpening his sword, which did not need sharpening. Some men prayed for the dead. Petter sharpened things._
+>
+> _There was nothing to take. No tribute to negotiate. No stores to draw from. The village was bare. The Gristle left six days of the band's own food with the elder — more than she could afford, less than the village needed — and moved on. Some men looked back. Most did not._
+
 If the band takes what it wants without asking — or forces collection after a refused demand — this counts as an Atrocity (see Section 9). The Standing hit is immediate (-3 minimum at this settlement, -1 at settlements within rumor range). The Feud Track advances by 2 steps.
 
 Food and goods taken this way cost nothing in coin but generate the Atrocity consequences. They do feed the band and fill the stores.
@@ -598,19 +702,31 @@ At Feud Track 3 or 4, the opposing force becomes an active NPC faction. The GM n
 
 ## Contracts and Bounties
 
-> _The contract was written on sheepskin in a hand the Gristle could not read and Gest could barely follow. The merchant factor's clerk had drafted it. The terms were straightforward: escort a cargo of iron ingots from Falcon's Ridge to a settlement called Darkmere, fourteen days, two hundred silver on arrival. The factor had added a clause at the bottom in smaller letters. Gest read it twice and then read it a third time._
+> _The posting board at Hollowford had four notices. Gest read them aloud while the Gristle ate a cold heel of bread and listened._
 >
-> _"Liability for incidental damage," Gest said._
+> _"Escort. Merchant train, six wagons, Hollowford to the Amber Peak crossing. Nine days. Eighty silver on arrival. Half in advance."_
 >
-> _"What does it mean?"_
+> _"What's on the wagons?"_
 >
-> _"It means if we burn a farmstead on the way, we pay for it."_
+> _"Doesn't say."_
 >
-> _"We are not going to burn a farmstead."_
+> _"Next."_
 >
-> _"The man who wrote this clause does not know that." Gest folded the sheepskin. "Sign it or leave it. The iron is worth more than we are. He will find another band by morning."_
+> _"Patrol. Eighteen miles of the Stillmire road, rotating, ten-day minimum. Town council. Sixty silver flat, paid on completion. No advance."_
 >
-> _She signed it._
+> _"No advance means no advance. Next."_
+>
+> _"Clearing. Den site, half a day's march north. Reported casualties: three goats, one shepherd. Hundred silver on proof of elimination. Quarter advance."_
+>
+> _"Proof meaning?"_
+>
+> _"Head. Teeth. Something the council can nail to the gate."_
+>
+> _"Last one."_
+>
+> _"Bounty. Named individual, wanted alive. Sixty silver flat. No advance, delivery to Hollowford jail, alive and able to stand. They drew his face. He looks like Ferrec."_
+>
+> _"Everyone looks like Ferrec," the Gristle said. "Take the clearing contract. We can do it in four days if the weather holds. Send the advance rider today."_
 
 ### Finding Work
 
@@ -737,6 +853,44 @@ A contract is a job with defined terms, a named employer, and a coin figure. Acc
 
 **Written vs. spoken:** Spoken contracts are common; anyone who witnesses the oath can testify. Written contracts require a SCRIBE or a literate PC, but they carry more legal weight in contested settlements and can be sold or transferred.
 
+> _The merchant's name was Ordovast, and he brought a clerk._
+>
+> _The clerk had parchment, a seal, and the kind of handwriting that was small and even and meant to be too small to read quickly. He set three sheets on the table in the Hollowford inn and looked at the Gristle with the expression of a man who had learned that all negotiations were theater and that the theater was his._
+>
+> _The Gristle looked at the sheets without picking them up. "Read it to me."_
+>
+> _The clerk read it. Somewhere in the middle of the third sheet, the Gristle said, "Stop."_
+>
+> _"Ma'am?"_
+>
+> _"Clause fourteen. 'All captures in excess of the contract scope belong to the engaging party.'"_
+>
+> _Ordovast spread his hands. "Standard form."_
+>
+> _"It is not standard. It means if we find anything in that ruin that isn't on your list, you take it. It means I'm working for sixty silver and handing you everything we pull out of the dark. It means my men risk their necks for flat wage and you keep the upside."_
+>
+> _Ordovast smiled the smile of a man who had explained this before. "You are of course free to negotiate."_
+>
+> _"Remove clause fourteen. Add a finder's fee — twelve percent of assessed value on anything recovered beyond scope."_
+>
+> _The clerk made a small sound. Ordovast looked at the ceiling. The Gristle waited with both hands flat on the table and did not help him by looking uncertain._
+>
+> _"Ten percent," Ordovast said._
+>
+> _"Twelve."_
+>
+> _"Done."_
+>
+> _The clerk scratched out clause fourteen and wrote the new terms in the margin. Ordovast sealed it and the Gristle pressed her ring into hot wax beside his seal, and the contract existed. It was not magic. It was not an oath. It was ink on parchment held together by the mutual knowledge that both parties would lose more by breaking it than by keeping it._
+>
+> _"Dawn after tomorrow," the Gristle said. "East gate. Be there with the wagons."_
+>
+> _Ordovast nodded. The clerk rolled the parchment. Gest, who had said nothing throughout, picked up the copy and folded it into his jacket._
+>
+> _"Did we do well?" he asked when they were outside._
+>
+> _"We did fairly," the Gristle said. "That is better."_
+
 ---
 
 > **The ledger.**
@@ -754,6 +908,30 @@ A contract is a job with defined terms, a named employer, and a coin figure. Acc
 ### Posting a Bounty
 
 Any person, settlement, or faction with coin or goods can post a bounty. The bounty amount is paid on delivery. Bounties are posted at inns, gateposts, markets, and wherever men gather to sell their services.
+
+> _They found the wanted man in a village east of the river crossing. He was sitting in the inn, drinking watered ale, and he saw them a full ten seconds before they reached his table, which was nine seconds longer than most men got. He did not run. He set down the cup and put both hands flat on the table._
+>
+> _"You're from the Hollowford board," he said._
+>
+> _"We are."_
+>
+> _"Alive?"_
+>
+> _"Alive and standing."_
+>
+> _He looked at Gest, who was blocking the door. He looked at Petter, who was blocking the window. He looked at Skalva, who was standing too close because the boy did not yet know how far back to stand._
+>
+> _"I can walk," he said. "No shackles."_
+>
+> _"Shackles," the Gristle said. "You can walk in them."_
+>
+> _"If I run?"_
+>
+> _"You won't."_
+>
+> _He did not run. They marched him back to Hollowford in two days, fed him the same rations the rest of the column ate, and delivered him to the jail standing and unharmed. The jailer counted the coin onto the table. Sixty silver. The Gristle handed Gest the purse without looking at it._
+>
+> _Skalva asked later what the man had done. Nobody answered, because nobody had asked._
 
 **Posting a bounty requires:**
 
@@ -810,7 +988,7 @@ Silver is the Ravenlands' working currency. All prices below are floors. Below t
 | Personal heirloom with no market price          | 2–10 silver                 | The poster's own valuation.                                                    |
 | Sacred or ritual object belonging to a kin band | 5–15 silver                 | Kin bands post these regardless of silver equivalence.                         |
 
-**Bounties on the fellowship:** If the PCs have done something worth targeting, any aggrieved party can post a bounty on them. The bounty amount travels via the Reputation and rumor system (Ch08). The fellowship's Reputation makes this faster: a well-known band is easier to identify and report on.
+**Bounties on the fellowship:** If the PCs have done something worth targeting, any aggrieved party can post a bounty on them. The bounty amount travels via the Reputation and rumor system (the **JOURNEYS** chapter). The fellowship's Reputation makes this faster: a well-known band is easier to identify and report on.
 
 **Clearing a bounty:**
 
@@ -827,41 +1005,41 @@ Goods payment is always negotiated before the bounty is accepted. The collector 
 
 **What goods can constitute payment:**
 
-| GOODS                                                             | SILVER EQUIVALENT                       | NOTES                                                                                                                                                                                                                                                                                                                                                                |
-| ----------------------------------------------------------------- | --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Raw materials in bulk — iron, leather, cloth, grain, pelts, herbs | Per-unit price from Ch10 (minimum)      | A village rarely has coin but often has stores. Iron 1 silver per unit, herbs 2 silver, leather 12 copper, wool cloth 8 copper, grain 3 copper, pelt 8 copper. Perishable materials lose value if collection is delayed past shelf life. The collector must consider carriage: iron is heavy, grain spoils, and a wagonload of pelts requires a wagon.               |
-| A riding horse, broken and sound                                  | 20–30 silver                            | Riding-trained and healthy. Liquid — easy to sell or ride. A green horse moves for 12–15 silver; a war-trained horse for 60–80 silver. Verify condition and training before accepting.                                                                                                                                                                               |
-| A quality weapon, master-made                                     | 6–50 silver                             | Axes and spears: 6–18 silver. A master-made broadsword or shortsword: 14–22 silver. A longsword or two-handed sword: 25–50 silver. Verify the poster holds clear title. A weapon with a known dead prior owner attached to it is not payment; it is evidence.                                                                                                        |
-| A full suit of chainmail, fitted and intact                       | 20–28 silver                            | New chainmail runs 24 silver; used but intact, 20–28 depending on wear and fitting. Dead weight if no one in the band can use it.                                                                                                                                                                                                                                    |
-| A mule or pack donkey, working                                    | 4–8 silver                              | Carries heavy gear without the temperament or expense of a horse. Eats less, works harder on steep ground, does not bolt from blood. A band moving equipment over rough terrain values a sound mule above its coin equivalent.                                                                                                                                       |
-| A cart with draft harness                                         | 10–18 silver                            | Two-wheel flatbed: 10–12 silver. Four-wheel cargo wagon: 14–18 silver. Useless without a draft animal; the animal loses half its utility without the cart. Together, the most durable mobile goods payment a village can make.                                                                                                                                       |
-| A saltbox — fifty units, dry-packed and sealed                    | 8–14 silver                             | Salt preserves meat, cures hide, and cleans wounds. Lighter than grain, longer-keeping, tradeable everywhere. Verify the seal: wet salt is half the stated value.                                                                                                                                                                                                    |
-| Herbalist or healer in attendance for an agreed term              | 12–20 silver per tenday                 | The settlement's working healer accompanies the band. Wound treatment, daily poultice preparation, full HEALING rolls. One of the most practically valuable payments a band with an active injury rate can accept.                                                                                                                                                   |
-| Local knowledge — terrain maps, danger positions, routes          | 8–25 silver equivalent                  | A settlement that has survived ten years knows things no outsider can buy: where bandits shelter in winter, which passes close first, how the local lord's patrol runs. Specific intelligence on a hostile faction: 18–25 silver. Safe-route guidance: 8–12 silver.                                                                                                  |
-| Letters of safe conduct and guided passage                        | 5–20 silver equivalent                  | A sealed letter declaring the band under the poster's protection, plus a local guide who knows the roads. Without the guide, the letter is paper. Without the letter, the guide is goodwill. In settled land: 5–8 silver. In contested ground: 15–20 silver.                                                                                                         |
-| Guild favor — introduction, access, or standing                   | 20–80 silver equivalent                 | Not goods. Access. A trade guild opens markets at settled prices. A thief guild ensures their people will not lift from the band and provides one introduction to a fence or information source. One season or one specific use, whichever comes first. An unwitnessed bribe to a guild officer is not a favor.                                                      |
-| Services of a named expert — surgeon, engineer, navigator         | 15–60 silver equivalent                 | A settlement's retired army surgeon, city engineer, or master huntsman pledges time. A surgeon's tenday: full HEALING rolls at no supplies cost. An engineer's week: direct construction credit. A navigator: halves travel time on unfamiliar waterways. The expert names conditions — they are not a hireling.                                                     |
-| Services of a local caster — pledged castings                     | 30–100 silver equivalent                | A hedge sorcerer or village witch pledges two to three high-value castings or one substantial task. Terms set at acceptance. A caster pledge does not cover offensive sorcery the caster has not agreed to, and does not obligate the caster to join a fight. Agree the specific work before accepting.                                                              |
-| Services of a local wise — lore, translation, identification      | 10–40 silver equivalent                 | Translation of a document: 10–15 silver. Identification of an artifact's origin: 15–25 silver. Lore on a specific location: 12–20 silver. Genealogical research for a legal claim: 20–40 silver. A wise delivers what they know, not what the band wants to hear. A correct answer and an inconvenient answer are the same service.                                  |
-| Pledged skilled labor from a master craftsman                     | 10–28 silver equivalent                 | A smith, carpenter, or builder pledges weeks of work, redeemable within one year. A smith's week: equipment repair and fabrication at no charge. A carpenter's week: structural work toward a stronghold component. A band building a permanent base treats this as direct construction credit.                                                                      |
-| A captive held — transferred with ransom intelligence             | Market rate per Ransom table            | The poster holds a prisoner worth money and hands over the captive plus whatever intelligence they have. The band gets the asset and the problem at once. Verify identity and condition before accepting.                                                                                                                                                            |
-| A daughter offered in marriage alliance                           | 20–50 silver equivalent                 | The settlement's most common human payment. The value is not the woman, but the tie she represents. The captain who accepts takes on an obligation to the family and settlement. A Named Man who accepts gains a local anchor: Loyalty floor at that settlement rises to 4, and he has a reason to return. The family's consent is given publicly, before witnesses. |
-| A village youth pledged to the band as camp retainer              | 8–20 silver equivalent                  | An orphan or youngest son the settlement cannot feed. Carries messages, tends animals, hauls water. Costs no wage until the captain promotes to Common tier — typically after one year and one witnessed engagement. A captain who kills a camp youth carelessly loses Standing permanently.                                                                         |
-| A winter's grain store, one family's supply                       | 4–8 silver                              | Useful to a stationed band. Spoils over time — poor payment for a band that moves every few weeks.                                                                                                                                                                                                                                                                   |
-| A season's harvest yield, unharvested                             | 5–12 silver                             | Forward goods. The collector receives the harvest when the season turns. Requires trust that the harvest will happen and the poster will honor the agreement.                                                                                                                                                                                                        |
-| Hunting, trapping, and fishing rights — one season                | 6–14 silver                             | Marked territory, agreed season, no interference. A well-stocked hunting ground near a trade route: 10–14 silver in meat and pelt. A band with a hunter treats this as a standing food supply. A band without one treats it as a gift that requires labor to unwrap.                                                                                                 |
-| Timber rights to a forest section — one season                    | 8–18 silver                             | The right to cut and sell from a marked territory. Only practical for a band with the labor to work it, or a contact who will buy standing timber.                                                                                                                                                                                                                   |
-| Free wintering — full board with no service obligation            | 20–60 silver equivalent (by band size)  | Dry beds, daily meals, warmth for the full winter season. Unlike a protection contract, this carries no patrol obligation. Skirmisher band (3–6): 20–35 silver. Full warband (7–20): 40–60 silver. Immovable and non-transferable. Worth nothing to a band that will not stay.                                                                                       |
-| A working river boat, two- to four-oarsman                        | 12–20 silver                            | Useful to a band that moves along waterways. Requires the collection point to be accessible to water.                                                                                                                                                                                                                                                                |
-| A plow ox, working and healthy                                    | 8–12 silver                             | High value in the right settlement. Difficult to move over rough terrain.                                                                                                                                                                                                                                                                                            |
-| A breeding pair of pigs or a small sheep flock                    | 3–6 silver                              | Only practical if the collector has somewhere to keep them. Most often taken as part of a split payment alongside coin.                                                                                                                                                                                                                                              |
-| A standing protection contract — one full season                  | 50–120 silver equivalent (by band size) | Payment in ongoing provisions, shelter, and standing. Skirmisher tier: 50–70 silver equivalent. Warband tier: 80–120 silver equivalent. Binds both parties for the season.                                                                                                                                                                                           |
-| A cleared farming plot with established soil                      | 50–120 silver                           | Worked soil already broken, seeded, and drained. The Ravenlands run on presence and living memory, not written deeds — the band must hold what it accepts.                                                                                                                                                                                                           |
-| A house, outbuilding, and clear lot in a village                  | 50–100 silver                           | Immovable. Materials alone for a solid wood structure: 20–40 silver. The band gains a legal presence in that settlement. Valuable if the band wants roots; worthless if it keeps moving.                                                                                                                                                                             |
-| A working craft building with tools — tanner, carpenter, cooper   | 30–70 silver                            | A tanner's shed or carpenter's workshop plus specialist tools. Tools alone: 5–15 silver. Worth nothing to a band without a tradesman or a buyer.                                                                                                                                                                                                                     |
-| A working smithy forge with tools and iron stock                  | 80–160 silver                           | The most expensive single-item payment short of a longhouse. A forge requires 60 iron in construction alone. The poster is offering part of what the settlement runs on.                                                                                                                                                                                             |
-| A guild house — meeting hall, locked store, charter rights        | 100–200 silver                          | Not a building — a position. Charter rights take years to accumulate. The band inherits standing, outstanding debts, and a list of rivals.                                                                                                                                                                                                                           |
-| A longhouse in a fortified settlement                             | 100–250 silver                          | A significant stake. Space inside a fortified settlement is scarce and contested. The band becomes a stakeholder in the settlement's politics. The upper range applies to an established longhouse with storage and a hearth in a real fortified town.                                                                                                               |
+| GOODS                                                             | SILVER EQUIVALENT                                  | NOTES                                                                                                                                                                                                                                                                                                                                                                |
+| ----------------------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Raw materials in bulk — iron, leather, cloth, grain, pelts, herbs | Per-unit price from the **GEAR** chapter (minimum) | A village rarely has coin but often has stores. Iron 1 silver per unit, herbs 2 silver, leather 12 copper, wool cloth 8 copper, grain 3 copper, pelt 8 copper. Perishable materials lose value if collection is delayed past shelf life. The collector must consider carriage: iron is heavy, grain spoils, and a wagonload of pelts requires a wagon.               |
+| A riding horse, broken and sound                                  | 20–30 silver                                       | Riding-trained and healthy. Liquid — easy to sell or ride. A green horse moves for 12–15 silver; a war-trained horse for 60–80 silver. Verify condition and training before accepting.                                                                                                                                                                               |
+| A quality weapon, master-made                                     | 6–50 silver                                        | Axes and spears: 6–18 silver. A master-made broadsword or shortsword: 14–22 silver. A longsword or two-handed sword: 25–50 silver. Verify the poster holds clear title. A weapon with a known dead prior owner attached to it is not payment; it is evidence.                                                                                                        |
+| A full suit of chainmail, fitted and intact                       | 20–28 silver                                       | New chainmail runs 24 silver; used but intact, 20–28 depending on wear and fitting. Dead weight if no one in the band can use it.                                                                                                                                                                                                                                    |
+| A mule or pack donkey, working                                    | 4–8 silver                                         | Carries heavy gear without the temperament or expense of a horse. Eats less, works harder on steep ground, does not bolt from blood. A band moving equipment over rough terrain values a sound mule above its coin equivalent.                                                                                                                                       |
+| A cart with draft harness                                         | 10–18 silver                                       | Two-wheel flatbed: 10–12 silver. Four-wheel cargo wagon: 14–18 silver. Useless without a draft animal; the animal loses half its utility without the cart. Together, the most durable mobile goods payment a village can make.                                                                                                                                       |
+| A saltbox — fifty units, dry-packed and sealed                    | 8–14 silver                                        | Salt preserves meat, cures hide, and cleans wounds. Lighter than grain, longer-keeping, tradeable everywhere. Verify the seal: wet salt is half the stated value.                                                                                                                                                                                                    |
+| Herbalist or healer in attendance for an agreed term              | 12–20 silver per tenday                            | The settlement's working healer accompanies the band. Wound treatment, daily poultice preparation, full HEALING rolls. One of the most practically valuable payments a band with an active injury rate can accept.                                                                                                                                                   |
+| Local knowledge — terrain maps, danger positions, routes          | 8–25 silver equivalent                             | A settlement that has survived ten years knows things no outsider can buy: where bandits shelter in winter, which passes close first, how the local lord's patrol runs. Specific intelligence on a hostile faction: 18–25 silver. Safe-route guidance: 8–12 silver.                                                                                                  |
+| Letters of safe conduct and guided passage                        | 5–20 silver equivalent                             | A sealed letter declaring the band under the poster's protection, plus a local guide who knows the roads. Without the guide, the letter is paper. Without the letter, the guide is goodwill. In settled land: 5–8 silver. In contested ground: 15–20 silver.                                                                                                         |
+| Guild favor — introduction, access, or standing                   | 20–80 silver equivalent                            | Not goods. Access. A trade guild opens markets at settled prices. A thief guild ensures their people will not lift from the band and provides one introduction to a fence or information source. One season or one specific use, whichever comes first. An unwitnessed bribe to a guild officer is not a favor.                                                      |
+| Services of a named expert — surgeon, engineer, navigator         | 15–60 silver equivalent                            | A settlement's retired army surgeon, city engineer, or master huntsman pledges time. A surgeon's tenday: full HEALING rolls at no supplies cost. An engineer's week: direct construction credit. A navigator: halves travel time on unfamiliar waterways. The expert names conditions — they are not a hireling.                                                     |
+| Services of a local caster — pledged castings                     | 30–100 silver equivalent                           | A hedge sorcerer or village witch pledges two to three high-value castings or one substantial task. Terms set at acceptance. A caster pledge does not cover offensive sorcery the caster has not agreed to, and does not obligate the caster to join a fight. Agree the specific work before accepting.                                                              |
+| Services of a local wise — lore, translation, identification      | 10–40 silver equivalent                            | Translation of a document: 10–15 silver. Identification of an artifact's origin: 15–25 silver. Lore on a specific location: 12–20 silver. Genealogical research for a legal claim: 20–40 silver. A wise delivers what they know, not what the band wants to hear. A correct answer and an inconvenient answer are the same service.                                  |
+| Pledged skilled labor from a master craftsman                     | 10–28 silver equivalent                            | A smith, carpenter, or builder pledges weeks of work, redeemable within one year. A smith's week: equipment repair and fabrication at no charge. A carpenter's week: structural work toward a stronghold component. A band building a permanent base treats this as direct construction credit.                                                                      |
+| A captive held — transferred with ransom intelligence             | Market rate per Ransom table                       | The poster holds a prisoner worth money and hands over the captive plus whatever intelligence they have. The band gets the asset and the problem at once. Verify identity and condition before accepting.                                                                                                                                                            |
+| A daughter offered in marriage alliance                           | 20–50 silver equivalent                            | The settlement's most common human payment. The value is not the woman, but the tie she represents. The captain who accepts takes on an obligation to the family and settlement. A Named Man who accepts gains a local anchor: Loyalty floor at that settlement rises to 4, and he has a reason to return. The family's consent is given publicly, before witnesses. |
+| A village youth pledged to the band as camp retainer              | 8–20 silver equivalent                             | An orphan or youngest son the settlement cannot feed. Carries messages, tends animals, hauls water. Costs no wage until the captain promotes to Common tier — typically after one year and one witnessed engagement. A captain who kills a camp youth carelessly loses Standing permanently.                                                                         |
+| A winter's grain store, one family's supply                       | 4–8 silver                                         | Useful to a stationed band. Spoils over time — poor payment for a band that moves every few weeks.                                                                                                                                                                                                                                                                   |
+| A season's harvest yield, unharvested                             | 5–12 silver                                        | Forward goods. The collector receives the harvest when the season turns. Requires trust that the harvest will happen and the poster will honor the agreement.                                                                                                                                                                                                        |
+| Hunting, trapping, and fishing rights — one season                | 6–14 silver                                        | Marked territory, agreed season, no interference. A well-stocked hunting ground near a trade route: 10–14 silver in meat and pelt. A band with a hunter treats this as a standing food supply. A band without one treats it as a gift that requires labor to unwrap.                                                                                                 |
+| Timber rights to a forest section — one season                    | 8–18 silver                                        | The right to cut and sell from a marked territory. Only practical for a band with the labor to work it, or a contact who will buy standing timber.                                                                                                                                                                                                                   |
+| Free wintering — full board with no service obligation            | 20–60 silver equivalent (by band size)             | Dry beds, daily meals, warmth for the full winter season. Unlike a protection contract, this carries no patrol obligation. Skirmisher band (3–6): 20–35 silver. Full warband (7–20): 40–60 silver. Immovable and non-transferable. Worth nothing to a band that will not stay.                                                                                       |
+| A working river boat, two- to four-oarsman                        | 12–20 silver                                       | Useful to a band that moves along waterways. Requires the collection point to be accessible to water.                                                                                                                                                                                                                                                                |
+| A plow ox, working and healthy                                    | 8–12 silver                                        | High value in the right settlement. Difficult to move over rough terrain.                                                                                                                                                                                                                                                                                            |
+| A breeding pair of pigs or a small sheep flock                    | 3–6 silver                                         | Only practical if the collector has somewhere to keep them. Most often taken as part of a split payment alongside coin.                                                                                                                                                                                                                                              |
+| A standing protection contract — one full season                  | 50–120 silver equivalent (by band size)            | Payment in ongoing provisions, shelter, and standing. Skirmisher tier: 50–70 silver equivalent. Warband tier: 80–120 silver equivalent. Binds both parties for the season.                                                                                                                                                                                           |
+| A cleared farming plot with established soil                      | 50–120 silver                                      | Worked soil already broken, seeded, and drained. The Ravenlands run on presence and living memory, not written deeds — the band must hold what it accepts.                                                                                                                                                                                                           |
+| A house, outbuilding, and clear lot in a village                  | 50–100 silver                                      | Immovable. Materials alone for a solid wood structure: 20–40 silver. The band gains a legal presence in that settlement. Valuable if the band wants roots; worthless if it keeps moving.                                                                                                                                                                             |
+| A working craft building with tools — tanner, carpenter, cooper   | 30–70 silver                                       | A tanner's shed or carpenter's workshop plus specialist tools. Tools alone: 5–15 silver. Worth nothing to a band without a tradesman or a buyer.                                                                                                                                                                                                                     |
+| A working smithy forge with tools and iron stock                  | 80–160 silver                                      | The most expensive single-item payment short of a longhouse. A forge requires 60 iron in construction alone. The poster is offering part of what the settlement runs on.                                                                                                                                                                                             |
+| A guild house — meeting hall, locked store, charter rights        | 100–200 silver                                     | Not a building — a position. Charter rights take years to accumulate. The band inherits standing, outstanding debts, and a list of rivals.                                                                                                                                                                                                                           |
+| A longhouse in a fortified settlement                             | 100–250 silver                                     | A significant stake. Space inside a fortified settlement is scarce and contested. The band becomes a stakeholder in the settlement's politics. The upper range applies to an established longhouse with storage and a hearth in a real fortified town.                                                                                                               |
 
 **Three problems arise on nearly every large goods bounty.**
 
@@ -876,6 +1054,22 @@ _Goods spoil, break, and die._ A horse sound at posting may be lame at collectio
 An unguaranteed goods bounty is taken only by desperate hunters or by collectors who know the poster personally. Experienced hunters discount unguaranteed goods postings by one-third.
 
 ### Kidnapping
+
+> _The kidnapping contract came through a middleman — a trader named Sorli who wore good boots and bad teeth and who named a price in the corner of the Hollowford inn without ever saying the word "kidnap."_
+>
+> _"Retrieval," was the word Sorli used. "A merchant's son who has run up debts with the wrong family. The father wants him back before the wrong family decides to collect what the son cannot pay in coin."_
+>
+> _"Where is he?"_
+>
+> _"Three days east. A village called Ashfall. He's living with a woman there. He thinks he's hidden."_
+>
+> _The Gristle took the job for ninety silver — half on acceptance, half on delivery._
+>
+> _The grab went clean. Gest and Petter and four men walked into Ashfall at first light. The merchant's son was asleep. Petter put a hand over his mouth and Gest tied his wrists, and by the time the woman woke up and started screaming the column was already two hundred paces out of the village. The woman followed for half a mile, barefoot, calling names that nobody in the column answered._
+>
+> _The merchant's son ate what they gave him and slept where they told him and twice tried to negotiate his own release. The second time, Petter told him to shut up, and there was something in Petter's voice — not anger, not threat, something quieter — that made the merchant's son understand that the conversation was finished._
+>
+> _They delivered him in four days, standing and unharmed. The father paid. The Gristle put the silver in the strongbox and did not discuss what the father intended to do with the son, because that part was not in the contract and the contract was the only part that mattered._
 
 Kidnapping is a contract or a crime depending on who ordered it and who got taken. The mechanics are the same either way. The money changes.
 
@@ -916,6 +1110,12 @@ A deadline passed without payment: execute the captive, extend at cost, or relea
 **Condition on delivery:** Always settled before handoff. A captive promised unharmed who arrives with broken fingers generates a grievance regardless of payment. A captive promised alive who dies in transit earns nothing. The band bears responsibility for the captive's condition from the moment of capture to the moment of delivery.
 
 ### Mercenary Hoards
+
+> _The Gristle told Gest and no one else. Petter she did not tell because Petter did not need to know, and the fewer men who knew where the money went, the fewer calculations happened when things got bad._
+>
+> _She walked an hour east of camp at dusk, pale-haired and tall against the last of the light, carrying twenty silver and a good knife wrapped in oilcloth, and dug a hole at the base of a boulder where the stream split around a stand of birch. The boulder was distinctive — split down the middle, pale granite against the dark earth, visible from the path only if you knew to look left at the fork. She buried the bundle, covered it, scattered needles and leaf-rot over the disturbed soil, and walked back. She did not mark it. She wrote the location in the ledger in a cipher Gest had taught her, using the names of rivers for compass directions and the names of the dead for distances._
+>
+> _If she died, Gest could read the cipher, because Gest had taught it to her. If they both died, the money stayed in the ground, and whoever found it in ten or fifty years would wonder who had buried a good knife beside twenty silver at the base of a split rock in a forest that did not have a name._
 
 Coin moved in a band does not travel safely. Inns hold it until someone drinks it. Strongholds hold it until someone attacks the stronghold. Banks do not exist in the Ravenlands. The answer most experienced captains reach is the same: bury it.
 
@@ -983,17 +1183,49 @@ What a dead band's hoard contains is up to the GM. Some captains buried coin and
 >
 > He does not tell the Gristle. He does not tell Hargamar. He walks back to camp and sharpens a handaxe that was already sharp.
 
+> _The contract at Blackwood was bad from the posting. Gest read it twice and set it down and looked at the Gristle with the expression he reserved for things he did not want to say out loud._
+>
+> _"It's a clearing," he said. "But the thing they want cleared has been there for eighty years and three companies have tried it and none of them came back whole."_
+>
+> _"How much?"_
+>
+> _"Three hundred silver."_
+>
+> _Three hundred was more money than the band had seen in a season. Three hundred was enough to winter the whole company, replace every worn item on the roster, pay Ash for a full year, and put forty silver in the ground against the next bad stretch._
+>
+> _The Gristle cut her palm with her belt knife in front of the company and held the bleeding hand up where every man could see it._
+>
+> _"This one gets finished," she said. "I will leave nothing in that hole. Whatever is in there dies or we all do, and anyone who wants to walk away does it now, before the blood dries, because after it dries you have the same oath I do."_
+>
+> _Nobody walked. Skalva looked at Petter. Petter looked at nothing. Gest wrote the contract in the ledger and closed it._
+>
+> _The oath was not magic. It was the Gristle's blood on the ground and the silence of sixteen men who had decided, each separately and all at once, that they were in._
+
+> _There were no contracts north of the Stillmire in the late season. The boards were empty. The councils had nothing to post because they had spent their silver on grain and the grain had not come through. The Gristle knew this before they left, chose north anyway, and did not explain it to the men because the men would not have wanted the explanation._
+>
+> _Three weeks north of Hollowford, the village of Brackmark sent a runner with a message: raiders had taken their elder, two families were in the wood and would not come out, and the village could pay eight copper now and the rest in spring. The Gristle asked what the rest was. The runner named a figure that would have been inadequate in a good season._
+>
+> _She took the job. Gest wrote it in the ledger under the heading TRUST-HELD, which was the column for things not settled in ink._
+>
+> _"If Brackmark can't pay in spring?" Brosa asked._
+>
+> _"They'll pay what they can."_
+>
+> _"And if they can't pay anything?"_
+>
+> _"Then we did the job anyway and the name of Brackmark owes us something the ledger doesn't hold." She looked at him. "We are not the men who left them in the wood."_
+>
+> _There was not a contract. There was the eight copper and the runner's word and the Gristle's assessment that a trust-held band was the kind that could look faces in the eye on the next road south. They retrieved the elder in three days. The two families came out of the wood. Brackmark gave them the eight copper and seven loaves and a wheel of hard cheese and the faces of people who knew they were being treated better than the arithmetic justified._
+>
+> _The Gristle did not explain this to Brosa. He was still asking the wrong questions._
+
 ---
 
 ## Campaign Life
 
-> _Morning before the Kural contract. The camp smelled of wet wool and cold ash. Petter had the fire going before dawn — he always did, the way he always had the axe sharp and the boots tied before the first order — and the men gathered around it the way men gather around the only warm thing in a grey country._
+> _They made nine miles that day. Rain since the second hour, a clay track that fell apart under their feet, and Petter the Hook walking drag because his knee had swollen up again and nobody was going to carry him. Petter was a dwarf, broad as a barrel and half a head shorter than the next man in the column, and he did not complain. Had not complained in the six years the Gristle had known him, not when the knee first went bad on the Stillmire road, not when they dug an arrowhead out of his shoulder with a skinning knife, not when his share of the Greymark contract came up four silver light because the employer lied about the headcount. He limped. He kept pace. When Gest slowed the column to let him close up, Petter spat and walked faster, because he would rather bleed inside the joint than owe the pace to someone's pity. Dwarves called that True Grit. The Gristle called it Petter._
 >
-> _Gest counted heads. Twelve present. He counted again to be sure, because Gest was always sure and always checked, and then he began the morning assignments: Hargamar and Brosa on the forward perimeter, Skalva and two commons on the provision count, Rask to tend the horse, Ash to walk the ward line and report what she found. Nobody argued. Nobody had the energy to argue at this hour, and besides, Gest's assignments were the kind that looked unfair until you understood why the man at the forward perimeter was the man with the best shield and the boy on provisions was the boy who counted everything twice._
->
-> _The Gristle sat with the contract spread across her knee and the last of the hot water in a tin cup and reviewed the approach Gest had drawn on the back of a receipt. Kural was two hexes north-northeast. Ruins terrain. The clearing target was listed as "creatures, type unspecified." They did not know what was in there. They would find out when they got there, which was how most contracts resolved._
->
-> _Petter finished sharpening his axe and looked up. He did not speak. He was ready. He had been ready since before the fire was lit._
+> _The Ravenlands did not have roads. It had the memory of roads — old stone courses that carts had worn smooth before the Blood Mist rose, raised paths through the marshland where the ground held firm enough if you did not stop moving. Walk one long enough and you would find where it had been cut by something that came up from below, or where the forest had closed back over twenty years of neglect, or where the bridge was a rotten knot of timber three feet downstream from where it had been built. The maps were wrong about the bridges. The maps were always wrong about the bridges._
 
 ### Quarter Day Activities for the Band
 
@@ -1010,17 +1242,59 @@ A Skirmisher band needs no dedicated logistics Quarter Day. A Warband needs one 
 
 ### DRILL
 
+> _Gest ran drill on the flat ground behind the treeline, and he ran it the same way every time: shield wall, hold, advance, reform, hold. Four hours. Six men at a time while the rest watched and ate and made the kinds of comments that men make when they are watching other men work. Hargamar — the other dwarf, older than Petter, quieter, a former stoneworker from the quarries south of the Amber Peaks who had picked up a sword when the quarry stopped paying — held the center of the line without being told. He had the low center that all dwarves brought to a wall, and his shield stayed where he planted it._
+>
+> _Brosa was strong and quick and did everything wrong. He punched with his shield instead of bracing it. He stepped forward when Gest called hold. He watched his opponent's weapon instead of his opponent's feet. After the first hour, Gest pulled him out of the line and stood him in front of the others._
+>
+> _"If you fight like that," Gest said, "you will kill the man next to you before the enemy does."_
+>
+> _Brosa said nothing. His face went dark._
+>
+> _"Not because you are bad," Gest said, and his voice was flatter now, instructional rather than cruel. "Because you are alone in a line. A line works when every man does the same thing at the same time. You are doing your own thing. That is brave and it will get Skalva killed."_
+>
+> _Skalva, sitting at the edge of the field with Hargamar's waterskin because the dwarf had tossed it at him without asking, looked up. He had not known his name was going to be used._
+>
+> _"Back in," Gest said. "Brace. Hold. When I say advance, advance one step. Not two. Not a charge. One step."_
+>
+> _Brosa went back in. He held. He advanced one step. He did this for two more hours, until his shoulders ached and his legs shook, and at the end of it Gest said nothing, which was the only compliment the sergeant gave._
+
 Spending a full day (two Quarter Days) in DRILL improves the band's readiness. After a week of consistent drilling, the leader may make a COMMAND roll (MANIPULATION, difficulty 2). On success, Common fighters count as trained for one full engagement sequence — they do not have to roll morale when casualties mount. After three successful full weeks of drilling, Veteran fighters are **trained** for the season. Trained Veteran fighters do not check MORALE when casualties reach the standard threshold during engagements that season — they hold alongside the Commons. Trained status expires at the season boundary and must be re-earned. Skill advancement for Named Man and Veteran fighters occurs through XP only. DRILL does not increase MELEE.
 
 Drilling requires a TRAINING GROUNDS (at the stronghold) or a dedicated drill field established during camp (one Quarter Day of labor, requires at least 40 WOOD, lasts the season).
 
 ### Camp Setup and Security
 
+> _Camp went up before the light turned red. This was not discipline. This was arithmetic. The Mist still pooled in the low ground after dark, thin enough in most places now, but Gest had marched in the years when it was not thin, and the habits of those years had sunk into his bones like damp. Fire first. Perimeter second. Two men on the treeline in shifts, two hours each, because after two hours in the cold a man stopped seeing what was there and started seeing what he was afraid of._
+>
+> _Skalva drew first watch. He stood at the edge of the firelight with his spear upright and his eyes on the forest, and for two hours he did not move, because Gest had told him that the man who moves on watch is the man who dies tired._
+>
+> _The Gristle lay on her back near the fire with her sword across her chest and listened to the rain hit the canvas. Somewhere in the dark, Petter was coughing — the wet, deep sound of a dwarf whose lungs had been taking water for months and who would not mention it until he fell over. Dwarves were built for stone and dry air, not for the sucking marshlands of the Stillmire and the endless rain of the Ravenland lowlands. She would have to say something soon. She would not say it tonight._
+
 When the band makes camp, one person must STAND GUARD each Night Quarter (standard rule). With a Warband or larger force, two people must stand guard — one front perimeter, one back. If only one guards, the GM rolls SCOUTING at difficulty 2 for any threat that passes through.
 
 **Fortified Camp:** Spending two Quarter Days with materials (50 WOOD minimum) establishes a fortified camp at this position. The camp functions as a Palisade (Defense Rating +1) for one week, after which it degrades unless maintained. A fortified camp allows the band to hold a hex as a temporary stronghold and reduces the effective threat from ambushes.
 
 ### Discipline and Punishment
+
+> _Ferrec stole three silver from Brosa's kit while the column was marching._
+>
+> _Brosa noticed at evening count, said nothing for an hour, then went to Gest. Gest went to the Gristle. The Gristle went to Ferrec. He had a flat-boned face and dark eyes that moved before the rest of him did — a man who read every room's exits before he read its fire._
+>
+> _"Open your belt."_
+>
+> _Ferrec opened his belt. Three silver and four copper fell out, alongside his own money, and the three extra coins were new-minted — the same batch the Greymark contract had paid in. Brosa's coins. Everyone at the fire recognized the mint._
+>
+> _There was a silence. The kind of silence where sixteen men recalculate everything they know about the man sitting among them._
+>
+> _"Ferrec," the Gristle said. "You know what this means."_
+>
+> _"I was holding them for him," Ferrec said._
+>
+> _Nobody laughed. Gest picked up the three silver and handed them to Brosa. Then he looked at the Gristle, because the punishment was hers to name._
+>
+> _"Half pay for four weeks," the Gristle said. "If there is a second time, you walk out of camp with what you're wearing and nothing else."_
+>
+> _Ferrec took it. He had no other choice. The men around the fire went back to their food. Some of them would talk to Ferrec again in a week. Some of them would never look at him the same way. The punishment was four weeks of short pay. The sentence was everything else._
 
 Every company has rules. The printed ones go in a contract. The real ones live in what the captain will and will not take — and in what the sergeant does before the captain has to hear about it.
 
@@ -1100,6 +1374,20 @@ Trust-Held is not a higher MORALE ceiling. The table is the same. What changes i
 **Transition into Trust-Held.** A Fear-Held band can earn Trust-Held status. The captain must pay reliably, address Named Men's triggers when they appear, and avoid using INTIMIDATION as a substitute for MANIPULATION through a full season without a loyalty break or a public trust violation. At the end of that season, the GM confirms the transition. It is slow, but not impossible. The men remember everything that happened before it, too — and that debt does not disappear because the band is now better.
 
 ---
+
+> _Nobody gave Skalva the list. He learned it the way everyone learned it: by watching who got hit, who got paid short, and who walked out of camp with nothing but what they were wearing._
+>
+> _The rules were not written anywhere. They did not need to be. Every company ran on the same code because the code was not about company — it was about what happened when twenty armed men lived within arm's reach of each other for months at a time without walls or courts or anyone to appeal to._
+>
+> _The first rule was the strongbox. You did not touch it. Not to borrow, not to hold, not to count. The strongbox was the captain's, and what made everything else work was the captain's word over it. A man who took from the box was not stealing coin — he was cutting the thing that kept twenty men from drawing blades at each other._
+>
+> _The second rule was the fire. Any man at the fire ate. Any man who had eaten at your fire was covered until he ate at a different one. This was so old it had stopped being a rule and become something closer to weather._
+>
+> _The third rule was the column. You held your position. You did not surge forward for glory and you did not fall back for fear, because both of those things meant the man on your left or right was now alone. Being alone in a line was how men died in ways that did not need to happen._
+>
+> _The fourth rule was the dead. You spoke their names once, loudly, on the night they died. Then you stopped. The dead did not march, did not eat, did not draw a share. They were gone. The living had enough to carry._
+>
+> _Skalva learned all of it in his first six weeks. Nobody taught him. He watched what Petter enforced with silence, what Gest enforced with words, and what the Gristle enforced with consequence — and after a while the code lived in him the way it lived in everyone, which was to say: in the body, before the brain._
 
 > **The Unofficial Rules**
 >
@@ -1232,7 +1520,7 @@ When a Named Man holding a vengeance oath advances to a full player character, t
 **Breaking a blood oath** is not acceptable by tradition — yet some low men do it nonetheless. The cost is as follows:
 
 - Any Named Man who witnesses the oath broken loses 1 Loyalty immediately.
-- The oath-breaker's Reputation (Ch08) drops by 1 in any settlement that hears of it.
+- The oath-breaker's Reputation (the **JOURNEYS** chapter) drops by 1 in any settlement that hears of it.
 - A captain who breaks a brotherhood oath will find that no Named Man of quality will swear one with them again. The word travels slowly, but it travels.
 
 No brotherhood or bounty oath can be dissolved by agreement. That is the point of it. A man who wants out can only wait for the other half to die, or be released publicly by a witnessed statement from the other party. A vengeance oath is different — it discharges when the target is confirmed dead. The oath is not broken; it is complete. Some men choose to die rather than break an oath. Some captains consider that a waste. It depends on the company.
@@ -1240,6 +1528,14 @@ No brotherhood or bounty oath can be dissolved by agreement. That is the point o
 ---
 
 ### Optional: Death of a Member — Distribution of Trappings
+
+> _Haldr's boots went to Skalva, because Skalva's were rotting and Haldr's were the right size. His belt knife went to Brosa, who had been using a borrowed blade since he signed. His cloak went to stores. His shield — a good one, banded iron, two years of service on it — went to the company inventory, where Gest marked it and shelved it and did not assign it until the next man was hired, because a dead man's shield on a new man's arm on the same day was bad for morale in ways that did not show immediately but showed eventually._
+>
+> _What Haldr had in personal effects: a copper ring, a scrap of letter from someone whose handwriting nobody recognized, two silver coins hidden in his boot lining, and a lock of straw-fair hair tied with leather cord. These went into a pouch. The pouch went to the Gristle._
+>
+> _If they passed through Weatherstone in the spring, the pouch would go to the sister Petter had mentioned. If they did not pass through Weatherstone, the pouch would stay in the strongbox until it did not matter anymore, and eventually the ring would be spent, the letter would rot, and the lock of hair would be one more thing that outlived the person it was meant for._
+>
+> _The space in the column where Haldr had marched filled in within a day. The space around the fire where he had sat took longer. Skalva sat there on the fourth night and nobody said anything about it, and after that it was Skalva's spot, and the dead man's spot belonged to the company the way everything eventually did._
 
 When a company member dies — fighter, Named Man, or someone the band was traveling with — the company has to decide what happens to them before the day is done. A company that lets it sit past a day is a company with a brewing argument.
 
@@ -1265,6 +1561,26 @@ Pay owed through the end of the current contract is distributed equally among th
 ---
 
 ### Optional: Territory Marking and the Language of Violence
+
+> _The village at the edge of the marshland was not part of anyone's contract. It was on the route, and the stores were low, and Gest had been counting the food each morning with the expression of a man who could see the number zero approaching and had no plan for what happened when it arrived._
+>
+> _Brosa said it first. "There's grain in those stores."_
+>
+> _The Gristle said nothing. She stood at the edge of the camp and looked at the village — twelve houses, smoke from four chimneys, a goat pen with actual goats in it. A village that was surviving. A village that had done nothing to them and owed them nothing._
+>
+> _"We could ask," Skalva said._
+>
+> _"We could," the Gristle said._
+>
+> _"And if they say no?"_
+>
+> _The silence that followed was the kind that changes a company. Every man in the column had an opinion. None of them spoke. They waited to see which direction the Gristle faced, because that was what they always did, and the direction she chose would tell them what kind of company they were._
+>
+> _"We ask," the Gristle said. "We offer labor. Two days of fence repair and ditch-work in exchange for what they can spare. If they say no, we march on empty. We do not take from people who have not earned being taken from."_
+>
+> _Brosa's face said what his mouth did not. Gest watched him and said nothing. Petter sharpened his knife._
+>
+> _The village gave them grain for two days in exchange for the labor. It was not enough. It was what was offered, and what was offered was what they took, and they marched out on the third morning with sore backs and half-full bellies and something that none of them would have called pride but that functioned, in practice, the same way._
 
 _This subsystem is appropriate for Tyrant and Military bands operating in contested territory. Rural Peasant bands may use it under extreme conditions; Kin bands generally maintain territorial languages of their own that do not require it._
 
@@ -1300,19 +1616,51 @@ When the identity is recognized:
 
 A Named Man with a civilian-harm Trigger who witnesses either practice applied to non-combatants must roll against Loyalty regardless of current MORALE level.
 
+> _The other company came along the road from the south, ten men in roughly the same condition as the column — mud-black, road-pale, carrying the fatigue of a long contract in the set of their shoulders. Not hostile. Not easy. The way veterans held themselves when they did not know who they were looking at._
+>
+> _Gest called a halt. The other column halted thirty paces out. Two captains walked out from their respective lines and met in the space between, two sword lengths apart, and spoke in the flat tones of people who did not know each other yet and intended to stay that way until they had reason to change it._
+>
+> _"Ravenford road?"_
+>
+> _"Hollowford. You?"_
+>
+> _"North, then east. Amber Peak work."_
+>
+> _"South track?"_
+>
+> _"Barrow site, twelve miles back, east side of the road. Active. We lost a man."_
+>
+> _One nod. Professional acknowledgment of a professional disaster._
+>
+> _"Name?"_
+>
+> _"The Three Knots. Out of Harga."_
+>
+> _"The Gristle's company. Out of wherever the last contract was."_
+>
+> _Neither of them offered a hand. They stepped back at the same interval and returned to their columns, and the two companies passed each other on the road without another word. The men watched the Three Knots as they went — running the count, reading the gear, marking the numbers and condition the way you read weather. Not suspicion. Assessment._
+>
+> _When they had gone around the bend, Brosa said: "Lost a man to a barrow."_
+>
+> _"Every company has a barrow," Gest said. He was still watching the road. "South track was clear. That's worth knowing."_
+
 ---
 
 ## Named Men
 
-> _Petter earned his name in the usual way: he did something and someone saw it._
+> _The thing Skalva did at the Ashfall contract was not complicated. The contract was going wrong — three men down, the kill ground inside the ruin compromised, and the thing they had been hired to kill now between them and the exit. Petter was on the left holding a door that did not want to be held. Gest was calling the column back. What the Gristle was doing in the dark with her sword was not something any of them could see clearly from where they stood._
 >
-> _They were three days into a clearing contract south of the Amber Peaks. The thing in the lower chamber had broken the doorframe coming through. Brosa was down — not dead, but not standing, and not going to be standing for a while. The common man beside Brosa had been thrown into the wall and was making the sounds a man makes when his ribs are doing something they were not built for._
+> _Skalva was on the right side of the ruin near a window that opened onto the kill ground, and when the thing came through the gap in Petter's line he did not wait to be told. He put himself in the gap — not heroically, the way men talked about it later. He stepped into it the way you step into a queue, because nobody else was there and somebody needed to be. He braced the shield Haldr had left him and held for long enough that Petter could close the door and Gest could turn the column into something that functioned again._
 >
-> _Petter went forward. He did not say anything. He had his axe and his bad knee and the specific competence of a man who had learned to be useful in exactly one situation. The thing came at him and he put the axe into the joint where the forelimb met the shoulder — not the head, not the chest, the joint, because Petter had been killing things for nine years and he knew where they broke._
+> _He did not drive the thing back. He held long enough that the men who could do those things had room to do them._
 >
-> _It broke. It fell. It was still moving when Hargamar reached the doorway and put his shield on its neck. It stopped moving._
+> _After, when it was done and three men were bleeding and Ash was kneeling beside the worst of them with her hands pressed flat on the wound, the Gristle looked at Skalva._
 >
-> _That evening Gest wrote a name in the ledger next to the stats he had been tracking since Petter joined: "The Hook." Nobody argued. Nobody asked why. The name that sticks is never the one the person would have chosen._
+> _"That was right," she said. Two words. From the Gristle, it was a speech._
+>
+> _Petter said nothing. That evening at the fire he sat down next to Skalva instead of across from him, which he had never done before. Within a week, three men were calling him Skalva the Door — not as a title, not a rank, but a story compressed to a single word, the way Named Men got named._
+>
+> _Skalva did not use it himself. He did not need to._
 
 Named Men are veteran fighters with individual stats, names, personalities, and loyalty scores. They are not anonymous soldiers. They have opinions, histories, and lines they will not cross. They are also the band's most dangerous problem when things go wrong.
 
@@ -1464,6 +1812,10 @@ Non-player Named Men recover 1 WP per day of downtime. If a Named Man transition
 
 > **Example:** Helle is an Elite Skirmisher with 3 WILLPOWER when the night assault begins. She fails a MOVE roll crossing the spiked trench and pushes it — spending 1 WILLPOWER to succeed. The trench is cleared. Later, the captain asks her to run a message through contested ground alone. She has 2 WILLPOWER remaining. She goes. That night she sleeps in the occupied building and recovers 1. She starts tomorrow at 3 again — unless there is another assault.
 
+> _Gest ran the column. The Gristle held the contract and the coin. The division was old and clean and neither of them discussed it, the way a married couple does not discuss who carries the water — whoever started doing it kept doing it, and the arrangement survived because it worked better than the alternative._
+>
+> _But the man the others watched when the situation went wrong was Petter. He did not give orders. He did not raise his voice. When the Greymark contract turned and five men came at them through the tree-line in the dark, Petter simply faced right and braced his shield and the four men nearest him faced right and braced theirs, because that was where Petter was facing, and if Petter thought that was the direction, that was the direction. He had been wrong once, two years ago, and a man named Edvin had died because of it. Petter visited Edvin's mother on the way north every spring and left silver on the table without saying what it was for. She knew._
+
 ### Loyalty
 
 | LOYALTY | MEANING                                                                                     |
@@ -1482,6 +1834,24 @@ Loyalty changes over time:
 - −1 if their Trigger is triggered and the leader does nothing to address it
 - −1 per MORALE step the band falls below 3, each week
 
+> _They lost a man named Haldr on the clearing contract — a cave mouth, a thing inside, and Haldr too far forward when it came out. He took a blow that broke him across the middle and he was dead before Gest could reach him._
+>
+> _Petter carried Haldr out on his shoulders. He did this without being asked and without speaking, two miles back to the camp, and when he set the body down his face was the same face it always was. He dug the grave himself. He wrapped what was left of Haldr's gear in the man's own cloak and set it beside the hole and filled the hole and tamped the dirt and stood there for a while._
+>
+> _That evening he went to the Gristle._
+>
+> _"I want Haldr's axe," he said._
+>
+> _"Haldr's axe goes to the company stores or to his next of kin, if he has one."_
+>
+> _"He has a sister in a village near Weatherstone. I know the place. I'll take the axe to her on the spring road and I'll pay the company his replacement cost out of my own share."_
+>
+> _The Gristle looked at him. Petter was not asking for the axe. Petter was telling her that another man had died under his watch and that this was the thing he did about it — the slow walk to someone's door with the dead man's belonging and the silver on the table that explained nothing and compensated for less. Dwarves carried their debts in silence. That was the difference between Petter and the human soldiers who made noise about their losses and then forgot. Petter would remember Haldr's name in ten years. He would remember the weight of the axe._
+>
+> _"Done," she said._
+>
+> _Petter walked away. Gest wrote it in the ledger._
+
 ### Named Man Triggers
 
 Roll D6 or assign:
@@ -1494,6 +1864,34 @@ Roll D6 or assign:
 | 4   | Left behind or abandoned when wounded                                    |
 | 5   | Consistently spoken of as ignorant or beneath notice                     |
 | 6   | Witness to the leader taking more than their promised share of plunder   |
+
+> _The contract had been paid in kind — grain, two goats, and the elder's offer of hospitality for the night. That was how villages paid when silver was thin, and the Gristle had learned to read the offer: what was on the table, and what was being kept off it._
+>
+> _Rask came to her at dusk. He was compact and dark-eyed, a frame built low and close the way horse-country built men, and he had been with the company four years — Veteran tier, two shares, entitled to say things the common men were not._
+>
+> _"The elder has a daughter," he said._
+>
+> _The Gristle knew. She had seen her when they arrived — a girl of maybe fifteen, standing back in the doorway the way girls stood in doorways when armed strangers came through the gate._
+>
+> _"He does," the Gristle said._
+>
+> _"That's a good settlement for dangerous service."_
+>
+> _She looked at him. Rask was not a bad fighter. He was not a bad soldier either. He was just bad with women, and not in the way that meant clumsy or nervous. She had seen the aftermath of Rask with a woman once, two contracts ago, in a village she did not go back to._
+>
+> _The elder would give the girl if asked. The Gristle knew this too. A village that had just paid grain and goats to a band of sixteen swords would give most things if the captain looked at the elder a certain way. That was the balance of force. She had used it before in directions she could live with._
+>
+> _"I'm paying you out of my share," she said. "Twelve silver. Three days' pay. Take it and we're settled on hospitality."_
+>
+> _Rask looked at the silver in her palm. "That's your silver," he said._
+>
+> _"Yes."_
+>
+> _He stood there a moment, cold as steel. Then he took the twelve silver and walked back to the barn without another word. There was nothing else to say. She had paid him what the contract owed him. She had simply chosen the currency._
+>
+> _She did not go to the elder's house that night. She stayed near the fire and listened to the village settle around her and thought about the small amount of goodwill she had just spent with a man she would need again, and whether it was worth it._
+>
+> _It was. It always was. That did not make it free._
 
 ### Named Man Agendas
 
@@ -1539,7 +1937,7 @@ After any engagement resulting in a clear victory, award XP to each non-player N
 - On a 2: award **no XP**
 - On a 1: award **1 XP** and the Named Man suffers a meaningful injury. Roll on the critical injury table.
 
-**Named Man transition to full character:** The GM may offer a Named Man a full character sheet when their player's original character is out of action and both the player and GM agree. A Named Man eligible for this transition should have at least 15 XP recorded, an Agenda that has been actively pursued, and Loyalty 3 with the fellowship. On transition, the player selects the Named Man's kin-appropriate profession from Ch02 and picks starting skills accordingly. Prior XP carries over at 2:3 conversion rate (15 Named Man XP becomes 10 PC XP). The Personality, Trigger, and Agenda survive the transition intact — they remain who they are.
+**Named Man transition to full character:** The GM may offer a Named Man a full character sheet when their player's original character is out of action and both the player and GM agree. A Named Man eligible for this transition should have at least 15 XP recorded, an Agenda that has been actively pursued, and Loyalty 3 with the fellowship. On transition, the player selects the Named Man's kin-appropriate profession from the **YOUR ADVENTURER** chapter and picks starting skills accordingly. Prior XP carries over at 2:3 conversion rate (15 Named Man XP becomes 10 PC XP). The Personality, Trigger, and Agenda survive the transition intact — they remain who they are.
 
 ### Named Man Connections
 
@@ -1619,21 +2017,31 @@ _Appearance: Not the biggest. Just the one standing when the others aren't._
 
 ## Hired Casters
 
-> _The druid arrived the morning after the bad fight at Kural. Ash, they called her. She came to the column at a river crossing south of Ravenford with a staff taller than she was and a cloak that was more patches than original cloth. She had the half-elf look — sharp bones, pale eyes, the face of someone told she was exceptional by one half of her family and something regrettable by the other._
+> _The half-elf's name was Ash, and she came to them at the river crossing south of Ravenford carrying a staff that was taller than she was and wearing a cloak that had been mended so many times it was more thread than cloth. She had the look that half-elves had — the sharp bones and the pale eyes of elven blood thinned by a human parent, and the particular expression of someone who had been told she was the crown of creation by one half of her family and something regrettable by the other._
 >
-> _She looked at Brosa first. His arm was swollen purple from shoulder to elbow where the thing in the chamber had caught him. She put her hand on it without asking, closed her eyes, and the swelling went down while the men watched. It was the quietest thing any of them had seen that week._
+> _"I heard you were hiring," she said._
 >
-> _"I need to reach a place south of Stillmere," she said to the Gristle. "Your road passes near it."_
+> _"We're not," Gest said._
 >
-> _"What place?"_
+> _"Then you are the only company between here and the Stillmire that does not need someone who can seal a wound with a word, set a man's blood on fire from across the room, and put a ward on a camp that gives her a headache when something crosses it."_
 >
-> _"A grove. It does not concern you."_
+> _Gest looked at the Gristle. The Gristle looked at Ash._
 >
-> _"Everything that costs me two men standing on either side of you in a fight concerns me."_
+> _"What do you cost?"_
 >
-> _Ash considered this. "Then you know the price. Do you want a healer or not?"_
+> _"Two shares. A tent of my own. Nobody touches my kit. And if I say the ground ahead is wrong, you listen before you argue."_
 >
-> _The Gristle took her._
+> _"One and a half shares. A tent. Nobody touches your kit. And if you say the ground is wrong, I listen — once. If you're wrong, you're back to one share."_
+>
+> _Ash considered this. "Fair," she said._
+>
+> _She stayed. After the cave fight she knelt beside Brosa where he lay bleeding from the arm and pressed her hands flat over the wound and spoke a word in the old tongue that none of them recognized. The blood stopped. Not slowed — stopped, as if it had been told to stay inside the body and had obeyed. Brosa stared at his arm and then at Ash and said nothing, because there was nothing to say to a woman who could command your blood._
+>
+> _She put a ward on the camp that winter — a Blood Oath bound to the perimeter stones, so that anything crossing the line with hostile intent would feel its own pulse turn against it. Some mornings she woke with her nose bleeding from the effort of holding the ward through the night. She wiped the blood on her sleeve and said nothing about it._
+>
+> _She told the Gristle the ground was wrong twice, and both times she was right. The first time she said it flat — "The ground ahead has death in it" — and the Gristle took the column two miles east around a barrow mound that later swallowed a patrol from another company. The second time Ash simply stopped walking and would not continue, and the Gristle trusted the half-elf's judgment enough by then to reroute without asking why._
+>
+> _The men did not trust her at first. That took three months. What changed it was not the magic — it was the night Skalva broke his wrist in a fall and Ash set the bone with her hands, not sorcery, and sat with him until the swelling went down. After that, the men decided she was strange but useful, which was the highest compliment the band gave anyone._
 
 A hired caster is not a Named Man. They do not belong to the band in the same way, do not respond to the same pressures, and cannot be used for the same tasks. The rules for building them borrow the Named Man structure — attributes, skills, loyalty, triggers, agendas — but diverge in three places: their price, their power, and their reason for being there.
 
@@ -1745,7 +2153,7 @@ A caster worth hiring has practiced their craft through years of use, not months
 
 ### Disciplines and Spell Rank
 
-A caster's discipline is the school of spells they have trained in and the Path talent they have developed. Select from the five disciplines in Chapter 7: Healing, Awareness, Shapeshifting, Symbolism, and Stone Song. All casters may also access General Spells, subject to the rank limits below.
+A caster's discipline is the school of spells they have trained in and the Path talent they have developed. Select from the five disciplines in the **MAGIC** chapter: Healing, Awareness, Shapeshifting, Symbolism, and Stone Song. All casters may also access General Spells, subject to the rank limits below.
 
 **Rank limits for hired casters:**
 
@@ -2044,6 +2452,24 @@ Casters share the same D66 roll structure as Named Men. The personalities below 
 
 ## Wanted Men
 
+> _The posting arrived at Hollowford on a tattered sheet: Ferrec's face, Ferrec's description, forty silver for delivery alive. Posted by a name none of them recognized from a settlement a day's ride east._
+>
+> _Ferrec went white when Gest showed him the sheet. "I didn't do it," he said._
+>
+> _"Didn't do what?"_
+>
+> _"Whatever they say I did."_
+>
+> _"The sheet doesn't say what you did. It says what you're worth."_
+>
+> _Forty silver was enough to make every freebooter within a day's march think about it. Not enough to attract a serious company, but enough for a desperate pair or a lone hunter who knew the roads._
+>
+> _The Gristle sent Ferrec to the center of the column and told him to stay there. She doubled the night watch. She mentioned the posting to the Hollowford innkeeper and let it be known, without saying it directly, that producing Ferrec's body would cost considerably more than forty silver and would come at the expense of whoever tried._
+>
+> _Ferrec marched in the middle of the column for three weeks, saying nothing, eating his food, and looking over his shoulder with the regularity of a man whose past had finally caught up and who knew there was no running from it while wearing another man's coin on his belt._
+>
+> _The posting expired at the end of the season. Nobody collected. Nobody forgot._
+
 Any member of the band — PC or Named Man — can become wanted. Common sources: a posted bounty after a crime or contract breach, a surviving enemy with resources, a settlement whose Standing was destroyed, or a warchief whose stronghold was burned.
 
 **Wanted rating:** Track the coin amount of any bounty. Higher amounts travel further via rumor and reach more opportunistic ears. Prices below are calibrated against working contract rates — a bounty that pays less than the cost of getting there draws no professional interest.
@@ -2253,17 +2679,55 @@ On failure: the mutiny collapses. Each Named Man who participated rolls Loyalty 
 
 ## Host Play
 
-> _Six captains sat at a table that was really three planks laid across two stumps. The Warmaster — a man called Ekkert, who had held a Host together for nine months through a campaign that should have ended in five — stood at the head of it and said nothing while the captains argued. He had learned that silence at the head of a table was worth more than most speeches, and he had learned it by watching a Warmaster who talked too much get replaced by a Warmaster who did not._
+> _The Warmaster's name was Seld, and he had a hall in Ravenford and three companies already beneath his banner before the Gristle's arrived. She was not the fourth who had joined. She was the fourth who had been sent for — by courier, sealed document, no option implicit in the wording._
 >
-> _The Gristle was the youngest captain present. Her band was the smallest. She had twelve men. The captain to her left had forty. The one across from her had sixty and opinions about everything. The argument was about supply priority — whose band ate first when the stores thinned, and whose band marched hungry._
+> _The hall held seven captains. Seven companies, seven sets of numbers, seven assessments of the same man running behind the same eyes across the table._
 >
-> _Ekkert let it run. When it stopped running — when the captain of sixty had finished saying everything he intended to say, twice — Ekkert spoke one sentence: "Whoever is lightest on the march goes first to the stores. That is my band, then the Gristle's, then the rest by weight." The captain of sixty opened his mouth. Ekkert looked at him. The captain of sixty closed it._
+> _Seld spoke standing. He was pale-haired and cold-faced, with the unhurried delivery of a man who had never once had to wait for a room to go quiet. He laid the campaign the way Gest laid a plan of march: positions, logistics, timing, which village owed what to the supply line and which road would be closed by first frost. No promises about what victory paid. No appeal to anything but the mechanics of the thing._
 >
-> _The Gristle learned two things at that table. First, that a Host was held together by arithmetic and the Warmaster's ability to make the arithmetic feel like a decision. Second, that the man with the most men was not the man with the most authority, and the difference between those two things was the entire political education she would ever need._
+> _"Each captain holds their band," Seld said. "I hold the Host. You give me field obedience and council recommendation. I give you supply, intelligence, and the name at the top of the contract. If you hate someone in this room — and I expect you do — you keep it off the road."_
+>
+> _Two captains at the far end of the table were already looking at each other in the way that meant exactly that._
+>
+> _Seld let the silence hold two beats. Long enough to land. Short enough to move past._
+>
+> _"We ride the Stillmire corridor at first frost. Five days to gather rosters and send home the men who will not make the march. Any company that arrives under strength sends its captain to me personally to explain the number." He looked around the table. "Questions?"_
+>
+> _Nobody asked one. Not because there were none. Because every captain in the room had already calculated that questions were not why they had been called._
 
 A Host is the top tier of this system — multiple bands operating under a shared authority. It is not a warfare system for armies and sieges, but the framework for tables that want the mechanics and politics of meta-band play: the fellowship's band serving inside a larger force, dealing with other captains, navigating a Warmaster's orders, and holding their independence inside someone else's campaign.
 
 ### The Hired Expert
+
+> _The advisor had arrived with Seld's fourth company and used no name anyone had given him. The captains called him the Listener, a name that left a lingering silence._
+>
+> _He was a slight man — short through the frame, built economically, the kind of compact that came from a life of early work and not much of it after. He sat in the corner of every session and appeared to look at the ceiling, and most of the captains assumed he was decorative fixture._
+>
+> _He was not a fixture._
+>
+> _On the second day of the assembly, the captain from Harga — a man named Vord, competent and loud, with a reputation for filling rooms with his weight — accused the Gristle of padding her roster count to draw a larger supply share. He had numbers. He stated them in front of all seven captains, looked at Seld, and waited._
+>
+> _The Listener looked up from his corner._
+>
+> _Just the look. Nothing else._
+>
+> _Seld said: "Vord. The Gristle's count is accurate. You know this."_
+>
+> _Vord's face went through something complicated. He nodded and sat down._
+>
+> _The Gristle went back to the hall that evening and found the Listener still in his chair._
+>
+> _"Truth Sense?" she said._
+>
+> _"Vord believed what he said," the Listener replied. "You were correct. I confirmed which of you believed your numbers."_
+>
+> _"And if I had been lying?"_
+>
+> _"I would have told Seld." A pause. "I would have told you first."_
+>
+> _She had worked with enough people to know the ones whose use was making others uncertain. The Listener was not that. He was something simpler and therefore less avoidable: a man who knew which parts of what people said were true, and who reported to the one who could act on the knowledge. He served Seld the way a plumb line served a builder — not decoratively, but because without it you could not trust what looked straight._
+>
+> _She decided to stay on his right side. She decided, also, to continue believing her own numbers._
 
 Most bands have no caster. A sword, a MANIPULATION roll, and enough food — that is the equipment a mercenary band runs on. Magic in the Ravenlands is not common property, but learned slowly from living masters who want something in return, and the men who complete that training are rare and expensive. A seasoned caster with rank 2 or higher in any discipline is a Named Man of first quality. They come at elevated rates: 4 to 8 silver per day for a competent rank 1, 10 to 20 silver for rank 2, and rank 3 casters who work for a mercenary company ask something beyond coin.
 
@@ -2395,6 +2859,16 @@ Each proposal requires opposed MANIPULATION: the proposer rolls, the opposing Wa
 
 ### Inter-Band Rivalry
 
+> _A Host camp was not a large band camp. It was five camps that happened to be adjacent, each with its own fire arrangement, its own perimeter, and its own unspoken agreement about where the boundary lay._
+>
+> _Nobody posted signs. Nobody needed to. The markers were legible without them: the position of the latrines, the angle of the tent lines, the placement of the cook fire relative to the road. A camp that buried its fire pits when it moved was a company that did not want to be followed. A camp that built its perimeter stones waist-high instead of knee-high was a company that expected to hold ground and wanted the next company over to know it. A camp that kept its horses on the road-facing side was a company that left fast when it needed to._
+>
+> _The Gristle put her camp two hundred paces from the nearest of Seld's companies, which was the Three Knots. That distance was not accident. Two hundred paces said: we are not separate, we are not combined. It said: we eat our own food and run our own watch and we are here because we chose it and we will still be here in the morning._
+>
+> _The Three Knots captain posted a single man at the boundary facing away from the Gristle's camp — acknowledgment without claim. The Gristle sent Petter to the boundary that evening to sharpen something, which was her version of the same nod._
+>
+> _The Host held seven companies. The camp held seven territories, marked by nothing and understood by all of them._
+
 Bands within the same Host compete. When the Host has enough work for everyone, this stays manageable. When resources tighten, it sharpens.
 
 **Favorable status:** The Warmaster may designate one band as currently favored — first pick of new contract assignments, first draw on fresh supplies, their captain's word carries more weight at council. Favorable status is noted. The other captains note it too.
@@ -2489,38 +2963,1471 @@ Hosts end. Some cleanly. Most do not.
 
 This chapter connects to the core rules in the following places:
 
-**Chapter 4 — Talents.** Named Men talents are drawn from the general talent list. Caps per tier are listed in the Named Men section. No new talents are introduced.
+**TALENTS** chapter. Named Men talents are drawn from the general talent list. Caps per tier are listed in the Named Men section. No new talents are introduced.
 
-**PATH OF THE COMMANDER (Ch04).** A PC who has taken PATH OF THE COMMANDER at any rank may substitute PERFORMANCE for MANIPULATION on band MORALE checks. At rank 3, when they grant an immediate melee attack to allies, Named Men may be included if within command radius with line of sight and voice. At rank 5, the Sergeant need not be present to relay — the conditioning carries on the men's initiative.
+**PATH OF THE COMMANDER** (the **TALENTS** chapter). A PC who has taken PATH OF THE COMMANDER at any rank may substitute PERFORMANCE for MANIPULATION on band MORALE checks. At rank 3, when they grant an immediate melee attack to allies, Named Men may be included if within command radius with line of sight and voice. At rank 5, the Sergeant need not be present to relay — the conditioning carries on the men's initiative.
 
 **MASTER OF THE HUNT.** A fellowship member with this talent can reduce the band's daily food cost by assigning themselves as head forager. Their special trap clause allows traps to work while the band drills in camp.
 
 **COLD-BLOODED.** Fellowship members with COLD-BLOODED do not personally contribute to the band's aggregate MORALE penalty when an atrocity is ordered. The trigger table's -1 still fires — it reflects the band's reaction, not the leader's composure. Named Men still roll Loyalty checks against their own Triggers.
 
-**Chapter 8 — Journeys.** Foraging uses the daily field ration table in this chapter, which replaces individual forager rolls for bands. Season modifiers from Chapter 8 apply. Reputation cascade from Chapter 8 governs how bounty and atrocity news travels.
+**JOURNEYS** chapter. Foraging uses the daily field ration table in this chapter, which replaces individual forager rolls for bands. Season modifiers from the **JOURNEYS** chapter apply. Reputation cascade from the **JOURNEYS** chapter governs how bounty and atrocity news travels.
 
 **Reputation Cascade.** The band does not have its own Reputation score separate from the fellowship's. Their name is the fellowship's name. Every deed adds to or subtracts from the same pool. If the band operates independently for a full season, atrocities committed still attach to the fellowship's name.
 
-**Feud Track.** If the band operates in contested hunting ground, the FEUD TRACK rules (Ch08 optional rules) apply. A mercenary band hunting in a claimed hex without negotiation advances the track as if it were a rival hunting party — because it is.
+**Feud Track.** If the band operates in contested hunting ground, the FEUD TRACK rules (the **JOURNEYS** chapter, optional rules) apply. A mercenary band hunting in a claimed hex without negotiation advances the track as if it were a rival hunting party — because it is.
 
-**Chapter 9 — The Stronghold.** The WAR ROOM is a new Stronghold function. TRAINING GROUNDS and SHOOTING RANGE from Chapter 9 are prerequisites for Veteran and Elite recruitment. The GUARD hireling from Chapter 9 is the Common fighter tier.
+**THE STRONGHOLD** chapter. The WAR ROOM is a new Stronghold function. TRAINING GROUNDS and SHOOTING RANGE from **THE STRONGHOLD** chapter are prerequisites for Veteran and Elite recruitment. The GUARD hireling from **THE STRONGHOLD** chapter is the Common fighter tier.
 
 **Stronghold Defense Rating.** When the band returns home, fighters may be assigned to GUARD duty, contributing to Defense Rating under the unit points formula. Named Men during downtime may be assigned to: TRAINING (drill the guards, +1 to COMMAND roll next season), SCOUTING (standing patrol covering one week of contract terms), or LOGISTICS (reduces weekly provision cost by 1 per Named Man, to minimum half). Named Men on stronghold duty do not advance — no XP during home-station periods. Loyalty does not decay during downtime as long as pay is current; if pay lapses, standard non-payment rules apply.
 
-**Chapter 10 — Gear.** Named Man equipment refers to armor ratings and weapon properties from Chapter 10. No new items are introduced.
+**GEAR** chapter. Named Man equipment refers to armor ratings and weapon properties from the **GEAR** chapter. No new items are introduced.
 
 ---
 
 ## Appendix B: Meet the Band
 
-_The following characters appear across the fiction in this chapter. They are not heroes. They are a working roster — some trustworthy, some not, most useful in specific conditions. Each entry includes a full character sheet built with standard creation rules from Chapter 2._
+_The following characters appear across the fiction in this chapter. They are not heroes. They are a working roster — some trustworthy, some not, most useful in specific conditions. They are presented here so the vignettes read as one continuous story rather than separate illustrations._
 
-<!-- TODO: Transfer all 10 iconic character sheets from proposal (Gristle, Gest, Petter, Hargamar, Brosa, Skalva, Ferrec, Ash, Rask, Haldr) -->
+_Each entry includes a full character sheet built with standard creation rules from the **YOUR ADVENTURER** chapter. Any of the ten can be taken and played as written._
 
 ---
 
-## Appendix C: Band Life — Collected Vignettes
+**The Gristle** — _Human (Alderlander). Captain._
 
-_The following vignettes follow the Gristle's band through one season in the Ravenlands. They are fiction — no rules are stated within them. They illustrate what the rules produce: the daily grind, the petty tensions, the moments where a decision made over a cold fire determines who is still present at the morning count._
+Pale-haired, tall, with the deliberate gait of a woman who has spent too many years making decisions that cost other people. She was not born to command. She learned it the way most things in the Ravenlands are learned: by being the last one standing with enough sense to speak. Her men do not love her. Most of them respect her, which is harder to earn and lasts longer. She named herself the Gristle — not as a compliment, as she points out — after a contract where she was the only one who ate and made the men march on empty. It stuck. She has not tried to lose it.
 
-<!-- TODO: Transfer all 25 Band Life vignettes from proposal in sequence -->
+_Human · Fighter · Adult_ **WP Max 7**
+
+| STR | AGI | WIT | EMP |
+| :-: | :-: | :-: | :-: |
+|  4  |  3  |  4  |  3  |
+
+**Skills:** Melee 3, Endurance 3, Might 2, Move 2, Manipulation 1, Insight 1
+
+**Kin:** Adaptive 1 **Profession:** Path of the Commander 2 **Languages:** Human 2, Dwarf 1
+
+**Gear:** Longsword · Studded leather armor · Contract ledger · D6 Silver · Food D8 · Water D6
+
+**Pride:** "I have kept this band alive through worse."
+
+**Dark Secret:** You have buried what you did to win the Ash Crossing contract. Some nights the bottle makes it easier to keep it buried.
+
+**Relationships:** Gest — "He has kept order longer than you have held command. You need him and that annoys you." · Ash — "She has been right twice when you dismissed her. That is two more times than most."
+
+---
+
+**Gest** — _Human. Sergeant._
+
+Old soldier, thick through the neck, carries the ledger the way some men carry a sword — like it is the thing that keeps order and he knows it. Gest has been doing this longer than the Gristle has been alive, or says so, and nobody has contradicted him to his satisfaction. He does not give speeches. He gives instructions, once, and then watches to see if you followed them. If you did not, something happens to your pay.
+
+_Human · Fighter · Old_ **WP Max 7**
+
+| STR | AGI | WIT | EMP |
+| :-: | :-: | :-: | :-: |
+|  4  |  2  |  4  |  3  |
+
+**Skills:** Melee 4, Endurance 3, Might 3, Move 2, Crafting 1, Insight 2, Manipulation 1
+
+_Old characters may assign up to 4 points to one profession skill. Melee 4 applies here._
+
+**Kin:** Adaptive 1 **Profession:** Path of the Blade 2 **Languages:** Human 2, Dwarf 1 **General:** Executioner 1, Educated 1
+
+**Gear:** Longsword · Studded leather armor · Pay ledger · D6 Silver · Food D8 · Water D6
+
+**Pride:** "I have finished more contracts than I can count."
+
+**Dark Secret:** You have watched men die following your orders. You have not lost sleep over it. You should have.
+
+**Relationships:** Gristle — "She gives the commands. You make them stick. This has been the arrangement for three years." · Petter — "A dwarf who keeps showing up. That is all you require from a man."
+
+---
+
+**Petter the Hook** — _Dwarf. Veteran._
+
+Nine years at this. Knee that has been bad for six of them and will never be good again. He sharpens things that do not need sharpening. He does not complain about pain, cold, hunger, heat, short pay, bad contracts, or long roads, because dwarves who complain about those things are dwarves who did not last. He carries the debts of every man who died under his watch and pays them on the spring road to whatever family is left. He has never spoken about why he is still doing this. Nobody has asked.
+
+_Dwarf · Fighter · Adult_ **WP Max 7**
+
+| STR | AGI | WIT | EMP |
+| :-: | :-: | :-: | :-: |
+|  5  |  2  |  4  |  3  |
+
+_Dwarf and Fighter both key Strength — maximum Strength at creation is 6._
+
+**Skills:** Melee 3, Endurance 3, Might 2, Crafting 3, Scouting 1
+
+**Kin:** True Grit 1 **Profession:** Path of the Blade 1 **Languages:** Dwarf 2, Human 1 **General:** Pain Resistant 1
+
+**Gear:** Handaxe · Studded leather armor · Whetstone · D6 Silver · Food D8 · Water D6
+
+**Pride:** "Nothing has finished me yet."
+
+**Dark Secret:** You stopped believing this ends well years ago. You are still here because there is nowhere else to go and you have not found a better reason to stop.
+
+**Relationships:** Hargamar — "The other dwarf. You do not talk much. There is no need." · Gristle — "She makes the calls. You carry them out. It is enough."
+
+---
+
+**Hargamar** — _Dwarf. Veteran._
+
+Older than Petter and quieter. He was a stoneworker in the quarries south of the Amber Peaks until the quarry stopped paying, and then he picked up a sword because the sword paid, which he will tell you is the only reason anyone picks up a sword. He holds the center of a shield wall without being told. He has no named agenda. He has the specific competence of a man who has learned to be useful in exactly one situation and made peace with it.
+
+_Dwarf · Fighter · Old_ **WP Max 6**
+
+| STR | AGI | WIT | EMP |
+| :-: | :-: | :-: | :-: |
+|  5  |  2  |  3  |  3  |
+
+_Dwarf and Fighter both key Strength — maximum Strength at creation is 6. Old characters may assign up to 4 points to one profession skill. Endurance 4 applies here._
+
+**Skills:** Melee 3, Endurance 4, Might 3, Crafting 3, Move 1, Survival 1, Scouting 1
+
+**Kin:** True Grit 1 **Profession:** Path of the Shield 2 **Languages:** Dwarf 2, Human 1 **General:** Shield Fighter 1, Firm Grip 1
+
+**Gear:** Shortsword · Large shield · Studded leather armor · Mason's chisel · D6 Silver · Food D8 · Water D6
+
+**Pride:** "The line holds if I hold it."
+
+**Dark Secret:** The quarry did not close because the silver ran dry. Men got hurt because you filed no report. You crossed a province and picked up a sword. Neither thing undoes it.
+
+**Relationships:** Petter — "The younger dwarf. He carries his debts in silence. You understand that more than you have said." · Gest — "He calls the line. You hold it. Simple as quarry work."
+
+---
+
+**Brosa** — _Human (Alderlander). Common._
+
+New. Good shoulders, clean teeth, a scar across the back of his left hand that says he blocked a blade once. He does everything wrong in the line — punches with the shield, surges when Gest calls hold, watches the weapon instead of the feet. He is learning. He is also watching Ferrec more than he watches Petter, which is a bad sign that nobody has mentioned to him.
+
+_Human · Fighter · Young_ **WP Max 7**
+
+| STR | AGI | WIT | EMP |
+| :-: | :-: | :-: | :-: |
+|  4  |  4  |  3  |  4  |
+
+**Skills:** Melee 2, Endurance 2, Might 2, Move 2
+
+**Kin:** Adaptive 1 **Profession:** Path of the Blade 1 **Languages:** Human 2
+
+**Gear:** Shortsword · Studded leather armor · Spare knife · D6 Silver · Food D8 · Water D6
+
+**Pride:** "I do not turn and run."
+
+**Dark Secret:** Your brother joined the Rust Brothers three years back. You left before they asked you to follow. You are not running from it. You just keep moving.
+
+**Relationships:** Petter — "He knows things you don't. You watch Ferrec instead. This is a mistake you haven't figured out yet." · Ferrec — "Something about him does not add up. You cannot stop watching him."
+
+---
+
+**Skalva** — _Human (Ailander). Common._
+
+The boy. Short and stocky, light-haired, the kind of pale that comes from flat grey country and not enough sky. He washes his boots every morning. He has been saving toward a plot near a river since before he joined and the figure keeps changing. He is careful in the specific way of young men who have not yet learned which things are worth checking, so he checks everything. By the end of the vignettes he has earned a name.
+
+_Human · Fighter · Young_ **WP Max 8**
+
+| STR | AGI | WIT | EMP |
+| :-: | :-: | :-: | :-: |
+|  3  |  4  |  4  |  4  |
+
+**Skills:** Melee 2, Move 2, Endurance 2, Scouting 1, Survival 1
+
+**Kin:** Adaptive 1 **Profession:** Path of the Blade 1 **Languages:** Human 2
+
+**Gear:** Handaxe (Haldr's) · Studded leather armor · Haldr's boots · D6 Silver · Food D8 · Water D6
+
+**Pride:** "I check what the others walk past."
+
+**Dark Secret:** The plot near the river you have been saving for does not exist. The figure keeps going up because you keep raising it. You do not know why you cannot stop.
+
+**Relationships:** Brosa — "The other new man. He does everything wrong and walks away from it. You check everything and still feel behind." · Haldr — "He was too far forward when it came out. His boots fit. You wash them every morning."
+
+---
+
+**Ferrec** — _Human. Common._
+
+Thief. Not by profession, just by character — the kind of man who weights a scale in his favor wherever a scale appears, which extends to coins in other men's kits, loyalties, information, and blame. He has a flat-boned face and dark, quick eyes and the particular talent of appearing to be somewhere else when things go wrong. He is useful in three situations and dangerous in the other twenty. The Gristle knows this. She has not yet decided what to do about it.
+
+_Human · Rogue · Adult_ **WP Max 7**
+
+| STR | AGI | WIT | EMP |
+| :-: | :-: | :-: | :-: |
+|  2  |  5  |  4  |  3  |
+
+**Skills:** Stealth 3, Sleight of Hand 3, Move 2, Manipulation 2, Scouting 1, Insight 1
+
+**Kin:** Adaptive 1 **Profession:** Path of the Burglar 2 **Languages:** Human 2, Halfling 1
+
+**Gear:** Dagger · Lockpicks · Spare coin pouch · D10 Silver · Food D6 · Water D6
+
+**Pride:** "Nothing has landed on me yet that I couldn't walk away from."
+
+**Dark Secret:** You have lifted something small from every member of this company — a test. None of them have noticed. When the Gristle finally does notice, you will not know what to do.
+
+**Relationships:** Gristle — "She knows. She has not moved yet. That is the most interesting thing about her." · Brosa — "This one watches you more than the veterans do. Keep him in sight."
+
+---
+
+**Ash** — _Half-Elf (Frailer). Sorcerer. Path of Blood._
+
+She came to them at a river crossing south of Ravenford with a staff taller than she was and a cloak that was more patches than original cloth. She has the half-elf look — sharp bones, pale eyes, the face of someone told she was the crown of creation by one half of her family and something regrettable by the other. She can stop a man's bleeding with a word. She keeps a ward on the camp perimeter that costs her a nosebleed every morning. She told the Gristle the ground ahead was wrong, twice, before the Gristle stopped asking her to justify it.
+
+_Half-Elf · Sorcerer · Adult_ **WP Max 9**
+
+| STR | AGI | WIT | EMP |
+| :-: | :-: | :-: | :-: |
+|  2  |  3  |  6  |  3  |
+
+_Half-Elf and Sorcerer both key Wits — maximum Wits at creation is 6._
+
+**Skills:** Lore 3, Insight 3, Crafting 2, Manipulation 2, Sleight of Hand 1, Healing 1
+
+**Kin:** Psychic Power 1 **Profession:** Path of Blood 2 **Languages:** Human 2, Elf 1
+
+**Gear:** Walking staff · Knife · Patched traveling cloak · D8 Silver · Food D6 · Water D6
+
+**Pride:** "Nothing scares me. I have seen what is behind the veil."
+
+**Dark Secret:** The nosebleed the camp ward costs you every morning is getting worse. Some mornings the blood does not stop on its own. You have not told anyone.
+
+**Relationships:** Gristle — "She stopped asking you to justify things. That is the most respect anyone has paid you in a long time." · Haldr — "You told the Gristle the ground ahead was wrong. She waited one more day. Haldr went too far forward."
+
+---
+
+**Rask** — _Human (Aslene). Veteran._
+
+Compact and dark-eyed, built low and close the way horse-country makes men. He has been with the company four years, which is long enough to say things the common men are not entitled to say. He is a good fighter and a liability in villages. The Gristle has paid out of her own share to manage the liability twice. She has not told him this.
+
+_Human · Rider · Adult_ **WP Max 6**
+
+| STR | AGI | WIT | EMP |
+| :-: | :-: | :-: | :-: |
+|  3  |  5  |  3  |  3  |
+
+**Skills:** Melee 3, Survival 3, Animal Handling 2, Marksmanship 2, Endurance 1, Move 1
+
+**Kin:** Adaptive 1 **Profession:** Path of the Plains 2 **Languages:** Human 2, Dwarf 1
+
+**Gear:** Plains horse · Handaxe · Short bow · Trail provisions · D6 Silver · Food D8 · Water D8 · Arrows D10
+
+**Pride:** "On a horse I am faster than anything behind me."
+
+**Dark Secret:** The Gristle has paid out of her own share twice for what you did in those villages. Gest told you. You have not thanked her. You tell yourself you will.
+
+**Relationships:** Gristle — "She covered for you twice. You still haven't thanked her. You tell yourself you will." · Ferrec — "You have seen him lift from the common men's kits. You said nothing. You don't know why."
+
+---
+
+**Haldr** — _Human (Ailander). Common. Posthumous._
+
+Died at the clearing contract. A cave mouth, a thing inside, and Haldr too far forward when it came out. His boots went to Skalva. His axe went to Weatherstone with Petter. His spot at the fire took several days to fill.
+
+_Human · Fighter · Young_ **WP Max 7**
+
+| STR | AGI | WIT | EMP |
+| :-: | :-: | :-: | :-: |
+|  4  |  4  |  3  |  4  |
+
+**Skills:** Melee 2, Endurance 2, Move 2, Survival 1, Scouting 1
+
+**Kin:** Adaptive 1 **Profession:** Path of the Blade 1 **Languages:** Human 2
+
+**Gear:** Handaxe (now at Weatherstone) · Studded leather armor · Boots (now Skalva's) · D6 Silver · Food D8 · Water D6
+
+**Pride:** "I do not back away from a fight."
+
+**Dark Secret:** You had enough saved to go home. The figure had finally stopped moving. You were going to tell someone that morning. You didn't.
+
+**Relationships:** Skalva — "You checked on him every morning. It annoyed him. He didn't know how close you watched." · Petter — "He sharpened your axe the night before the clearing. He will carry the expense of it. He shouldn't have to."
+
+## Appendix C: Premade Mercenary Bands
+
+Eight ready-to-run companies — two per archetype. Each includes Named Men with full stats, a named common roster, current situation, bounties, relations to other bands in this appendix, hoard, internal tensions, and a GM hook.
+
+These bands know each other only in the ways noted under **Relations**. The GM can place any combination of them in the same region.
+
+---
+
+## RURAL PEASANT BANDS
+
+---
+
+## THE MOURNING COMPANY
+
+**Archetype:** Rural Peasant
+**Size:** Warband — 14 men (3 Named Men + 11)
+**MORALE:** 4 — Steady
+**Known as:** _The men from Greywood. The ones who stayed angry._
+
+The village of Greywood, a day's march west of Ravenford on the Yendra road, was burned by an Urhur orc warband two winters ago. Twenty-three people survived. Eleven of them are still marching. The company does not call itself a revenge band and its captain will say, if asked, that they take work wherever work is offered. He has also posted a four-silver bounty on the orc war-shaman who led the raid and has been asking about him at every inn and market for eight months. Draw your own conclusion.
+
+They are a functioning company. They hold, they don't panic, they work hard. The grief is old enough now that most of them carry it in the back of the skull rather than in the throat, and they are the better fighters for it.
+
+---
+
+### Named Men
+
+**Pell "Twice" Hartwood** — Sergeant, Veteran, Line
+Pell lost his mother, his two brothers, and a woman he had been considering asking a question to. He did not fall apart. He organized the survivors, gave them knives, and started walking toward whatever needed killing. The "Twice" came from a bandit engagement in the first month: he survived two sword strikes that should have dropped him and came back through the line anyway. He does not think of himself as lucky.
+
+| STR | AGL | WIT | EMP |
+| --- | --- | --- | --- |
+| 4   | 3   | 3   | 3   |
+
+**Skills:** MELEE 2, MANIPULATION 1, INSIGHT 1
+**Talents:** PAIN RESISTANT rank 2
+**Armor:** Chainmail (4) | **Weapon:** Axe + shield
+**Trigger:** The company splits or is abandoned by its leader — any leader
+**Agenda:** Find and kill Gruv the One-Armed, the orc war-shaman who led the Greywood raid
+**Loyalty:** 3 — to the company as a thing, not to any individual above him
+**Personality:** Grudge-Holding. Has a mental list. Wrongs do not leave it until settled.
+
+---
+
+**Dain Sowe** — Veteran, Skirmisher
+Was a midwife in Greywood. Delivered fourteen children in seven years; attended two deaths. Both sides of that ledger are present in how she moves through wounded men after a fight — calm, fast, no sentiment about what she is looking at. She took a short sword from a dead bandit three days after Greywood and has learned to use it the way she learned everything: by doing it until it worked.
+
+| STR | AGL | WIT | EMP |
+| --- | --- | --- | --- |
+| 3   | 4   | 3   | 2   |
+
+**Skills:** MELEE 2, HEALING 1, SURVIVAL 1
+**Talents:** KNIFE FIGHTER rank 1
+**Armor:** Leather (3) | **Weapon:** Short sword + knife
+**Trigger:** Ordered to harm children or the completely defenseless
+**Agenda:** Earn enough to establish a healer's post somewhere stable — she doesn't call it retirement
+**Loyalty:** 2 — reliable; will not turn on the company, will leave if her line is crossed
+**Personality:** Quietly Violent. Does not argue. Does not hesitate.
+
+---
+
+**Oskar "Rook" Veld** — Veteran, Line
+One of the oldest fighters in the company. Black-haired, still, settled. The name came from the way he makes camp — he finds a corner and stays in it and watches everything from there. Has been in two other companies in the decades before Greywood; this is the one he has stayed with longest. He does not explain why Greywood changed him because he thinks it is obvious.
+
+| STR | AGL | WIT | EMP |
+| --- | --- | --- | --- |
+| 4   | 3   | 3   | 2   |
+
+**Skills:** MELEE 2, ENDURANCE 1, SURVIVAL 1
+**Talents:** PAIN RESISTANT rank 1
+**Armor:** Chainmail (4) | **Weapon:** Sword + shield
+**Trigger:** Consistently spoken of as ignorant or beneath notice
+**Agenda:** Live long enough to see Greywood rebuilt, even if he is not the one who builds it
+**Loyalty:** 2
+**Personality:** Flat. Does not react to blood, screaming, or death. Eats during the aftermath.
+
+---
+
+### The Roster
+
+| NAME   | TIER    | STR | AGL | MELEE | ARMOR | NOTE                                                                                                                   |
+| ------ | ------- | --- | --- | ----- | ----- | ---------------------------------------------------------------------------------------------------------------------- |
+| Tav    | Common  | 3   | 3   | 1     | 3     | The youngest. Does not talk about where he came from; the older men let him not talk.                                  |
+| Maret  | Common  | 3   | 3   | 1     | 3     | Was a tanner. Smells it. Works hard enough that nobody says it.                                                        |
+| Brald  | Common  | 3   | 3   | 1     | 3     | Slow. Can carry twice what anyone else carries. Has not been dropped from the line.                                    |
+| Sindra | Common  | 3   | 3   | 1     | 3     | Was an archer before Greywood. Now carries a short sword because arrows cost coin they haven't had.                    |
+| Holt   | Veteran | 4   | 3   | 2     | 4     | Was a shepherd. Fights the way he watched his flock: patient attention, sudden violence when the wolf arrives.         |
+| Kess   | Common  | 3   | 3   | 1     | 3     | Talks after every engagement. Says it keeps the blood from settling. Nobody argues because nobody has a better answer. |
+| Parren | Common  | 3   | 3   | 1     | 3     | Left a wife and two children in Greywood before it burned. Does not know if they were still there when it happened.    |
+| Dovey  | Common  | 3   | 3   | 1     | 3     | A blacksmith's apprentice who arrived two months ago. Has thrown up after every engagement. Pell is watching.          |
+| Senne  | Veteran | 4   | 3   | 2     | 4     | Oldest fighter in the common ranks. Has been in three companies before this one. This is the first he has stayed in.   |
+| Allec  | Common  | 3   | 3   | 1     | 3     | Halfling from Belifar. Left a lord's garrison. Won't say why. Suspects someone is still looking for him.               |
+| Cad    | Common  | 3   | 3   | 1     | 3     | Missing the first two fingers on his left hand. Compensates. Will not explain how he lost them.                        |
+
+---
+
+### Current Status
+
+Midway through a month-long patrol contract with the village of Ashmill, two hexes south of Ravenford on the Harga road — keeping the trade road clear of a wolf pack and the remnant of a bandit group that broke up in winter. Three weeks in, one bandit engagement, no losses. Pay arrives weekly; current week paid in full. MORALE is steady.
+
+Pell has received word, secondhand, that Gruv the One-Armed passed through a settlement two hexes north two months ago. He has not told the company. He is thinking.
+
+---
+
+### Bounties
+
+**Posted by the company:** 4 silver on Gruv the One-Armed. Posted at Ashmill and at the trading village of Hollowford two hexes west. Description specific: a one-armed orc war-shaman with a burned right shoulder.
+
+**On the company:** None current.
+
+---
+
+### Relations
+
+**Bone Pack** — blood oath alliance (sworn five months ago, after the Bone Pack helped them through a difficult crossing when the company was short of fighters). Sura and Pell have met personally. The pack has not met most of the company and the company is only half-sure what a wolfkin blood oath actually commits them to.
+
+**Three Wolves** — cold hostility. The companies crossed paths on adjacent contracts eight months ago. The Three Wolves' behavior toward a village the Mourning Company was exiting angered Pell publicly. No blood was shed but both captains remember the encounter.
+
+**All others** — unknown or neutral.
+
+---
+
+### Hoard
+
+Pell has been running contracts for two years. He pays wages on time and has not yet spent himself stupid on a bad decision, which puts him ahead of most men in his position. The hoard is his alone — the company does not know it exists, and he has not told Dain or Rook.
+
+Buried in the root cavity of a fallen oak 2 hexes northeast of Ashmill, sealed in an oilcloth package inside a clay-stoppered pot:
+
+- **97 silver** in mixed denomination — a season's surplus from four contracts, accumulated slowly
+- **Pell's mother's ring** — iron set with a chip of green stone. Worth 5 silver to a stranger. He will not sell it.
+- **A quality hand axe** taken from a garrison officer whose unit was on the wrong side of a contract two winters ago. Better than Pell's current axe. He keeps it in reserve because a second axe is the difference between a broken weapon and a dead man.
+- **A letter of recognition** on Ashmill's council seal, stating plainly that the Mourning Company completed two prior patrol engagements in good standing. Worth nothing to most people. Worth something if Pell ever needs to argue that this band has legitimate standing before a warchief or settlement council.
+- **A rolled parchment in Pell's handwriting** — the names of the eleven dead from Greywood, the date, and three lines about each person. He updates it when he can. He has not told anyone he keeps it.
+
+SURVIVAL difficulty 2 to locate without the exact marker description.
+
+---
+
+### Internal Tensions
+
+Dain has privately told Pell that Kess shows signs of a mind coming apart under sustained violence. His post-engagement talking, in her assessment, is not a coping habit — it is a symptom progressing outward. Pell told her to keep watching and said nothing else. Kess does not know he is being watched. Both Dain and Pell are aware that watching without acting carries its own risk.
+
+---
+
+### GM Hook
+
+Gruv the One-Armed is alive. He is currently contracted to the Three Wolves for a specific use — the brothers needed someone who could identify an old orc territorial boundary, and Gruv had that knowledge. Neither Gruv nor the brothers are comfortable with the arrangement. It will not last more than another two weeks. Pell doesn't know any of this yet, but he is moving in the right direction.
+
+---
+
+---
+
+## THE SALTMARCH ROVERS
+
+**Archetype:** Rural Peasant
+**Size:** Skirmishers — 5 men (1 Named Man + 4)
+**MORALE:** 3 — Shaken
+**Known as:** _Five hungry men. Haven't heard of them._
+
+Four families walked away from a village in the Stillmire whose well went slow in the second year and stopped entirely in the third. They picked up one fighter at a crossroads inn south of Harga, lost him, picked up two more from a burned farmstead on the Moldena road, and arrived at their current size by attrition and chance rather than design. Brek named them after himself, which the others accept because Brek is the one who gets the contracts and the others have no better alternative to offer.
+
+They are a small company doing small work. They are not glamorous. They are not especially good. They are marginally better than nothing and they know it, which makes them careful.
+
+---
+
+### Named Men
+
+**Brek Saltmarch** — de facto leader, Veteran, Brute
+Not his birth name. The company took it as their name before he took it as his own, which he still thinks about occasionally. A heavy farmer with a handaxe who turned out to be hard to kill, which is most of what the mercenary business requires. He has opinions about land and water rights that suggest he is better suited to farming than soldiering, and he has no land and no water, which is why he is soldiering.
+
+| STR | AGL | WIT | EMP |
+| --- | --- | --- | --- |
+| 5   | 3   | 3   | 2   |
+
+**Skills:** MELEE 2, SURVIVAL 1, ENDURANCE 1
+**Talents:** BRAWLER rank 1
+**Armor:** Leather (3) | **Weapon:** Handaxe + knife
+**Trigger:** Being treated as incapable of making decisions for the band
+**Agenda:** Find a piece of good land that isn't already claimed — by anyone
+**Loyalty:** N/A (he is the band; the question is whether the band is loyal to him)
+**Personality:** Mercenary Proud. This is a profession. He takes it seriously.
+
+---
+
+### The Roster
+
+| NAME  | TIER   | STR | AGL | MELEE | ARMOR | NOTE                                                                                                                          |
+| ----- | ------ | --- | --- | ----- | ----- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Lenna | Common | 3   | 3   | 1     | 3     | Brek's cousin. Came because no one else in the family would. Does not look happy about it.                                    |
+| Doss  | Common | 3   | 3   | 1     | 3     | Big man, soft voice. Nobody is certain he has said more than twelve words in a single day.                                    |
+| Iker  | Common | 3   | 4   | 1     | 3     | Halfling from Belifar. Young, fast. Thinks this is temporary. The others think so too, for different reasons.                 |
+| Morn  | Common | 3   | 3   | 1     | 3     | Carries a grudge against a specific merchant factor that the others hear about every five days. Has not found the factor yet. |
+
+---
+
+### Current Status
+
+Three days into a pest clearance contract — two trolls reported in a marsh hex east of Glethra, a small fishing village on the Stillmire's edge. The village offered five silver on confirmation of the kills. The company is in the marsh. The troll count appears to be three, not two. Nobody has said this out loud yet but Lenna is going to say it.
+
+MORALE is Shaken because they have eaten poorly for four days (marsh terrain, 1–2 foragers, limited output) and the contract was sold to them as straightforward. Brek knows taking this contract was a mistake. He is hoping the trolls die before the MORALE does.
+
+---
+
+### Bounties
+
+**On the company:** None. Too small to attract attention.
+
+**Posted by the company:** None.
+
+---
+
+### Relations
+
+**The Gristle's Band** — saw them at a roadside camp on the Harga road once, three months ago. No formal introduction. The Gristle's men looked at the Rovers with the particular professional assessment that drilled soldiers apply to men who aren't, and said nothing. Brek noticed.
+
+**All others** — unknown.
+
+---
+
+### Hoard
+
+The Rovers have not been operating long enough to accumulate much of anything. This is accurate and not flattering.
+
+Under a flat marker stone at a river bend with a double fork, one hex west of their current position:
+
+- **14 silver** — the remains of two prior contracts after provisions and Brek's decision to buy a spool of good cord that has since saved two lives
+- **A quality hunting knife**, taken from a dead man on the road whose name Brek did not catch. Good steel. Better than anything else the band carries that isn't a weapon.
+- **A half-bolt of waxed canvas** folded flat — water-tight, enough to make a ground sheet or a rain cover for two men. Worth 3 silver to someone who needs it. Worth more to a band sleeping in a marsh.
+- **A water-tight leather satchel** containing a deed fragment for the village they left — not a real deed, a partial copy someone in the family made before the well gave out entirely. Legally worthless. Brek kept it because it is the only proof that the village existed and was theirs.
+
+Brek has not told anyone this money exists. The others would spend it.
+
+SURVIVAL difficulty 2 to locate.
+
+---
+
+### Internal Tensions
+
+Lenna believes the current contract is beyond the band's capability and told Brek so before they left the village. Brek knows she is probably right. He took the contract because they needed the coin and could not afford to say that out loud. She is watching the troll situation with the specific expression of someone who was correct and is deciding whether to say so.
+
+---
+
+### GM Hook
+
+The merchant factor Morn has been hunting for six months is dead. Died three months ago in a river crossing accident, verified by three witnesses. Someone is feeding Morn current sightings of this specific dead man's face, in this specific region, at well-timed intervals. Brek has begun to suspect this. Morn has not. The question is who is steering, and why Morn specifically.
+
+---
+
+---
+
+## TYRANT BANDS
+
+---
+
+## THE THREE WOLVES
+
+**Archetype:** Tyrant
+**Size:** Company — 22 men (4 Named Men + 18)
+**MORALE:** 3 — Shaken (Fear-Held)
+**Known as:** _The Hadric boys. Burn first, talk after._
+
+Three brothers and their cousin built this company by hiring men who had no options and keeping them through selective demonstration of what happens to men who leave without permission. It works, more or less. They have a real fighting force, they hold ground, they win contracts. The men stay because the calculation holds. The calculation is getting harder to hold.
+
+The company is three weeks into occupying a large village called Feldwick, in the eastern Harga plains. It is the second time they have demanded tribute from Feldwick this year. The elder is already past desperate. His neighbors know it. Feud Track at Feldwick: 2.
+
+---
+
+### Named Men
+
+**Hadric the Younger** — Captain, Elite, Line
+The youngest of three brothers, which he has never entirely forgiven. He is not stupid — he is, in fact, a careful thinker who plans two moves ahead — but his plans always circle back to the same thing: he wants to be the man in the room whose approval everyone is seeking. He is moving toward warchief-scale ambition with a company he has built on fear, which is structurally unstable, which he also knows, which he has no current plan to address.
+
+| STR | AGL | WIT | EMP |
+| --- | --- | --- | --- |
+| 5   | 3   | 4   | 3   |
+
+**Skills:** MELEE 3, MANIPULATION 2, INSIGHT 1
+**Talents:** SWORD FIGHTER rank 2, LEADER rank 1
+**Armor:** Chainmail (4) | **Weapon:** Sword + shield
+**Trigger:** Being laughed at or made visibly foolish in front of his men
+**Agenda:** Become a warchief with legitimate territorial claim; the company is the first step
+**Loyalty:** N/A (captain)
+**Personality:** Calculating. Paranoid Competent.
+
+---
+
+**Varis Hadric** — First Blade, Elite, Skirmisher
+The middle brother. The one the captain trusts least and relies on most. Varis is the intelligence function of the company: he scouts, he develops contacts, he knows things before the captain asks. He is also the reason several inconvenient people have stopped being inconvenient, though this was always framed as field necessity. He has been building an exit for three months. He needs one more confirmation that it is the right decision.
+
+| STR | AGL | WIT | EMP |
+| --- | --- | --- | --- |
+| 4   | 5   | 4   | 2   |
+
+**Skills:** MELEE 3, STEALTH 1, SCOUTING 1, MARKSMANSHIP 1
+**Talents:** KNIFE FIGHTER rank 2, COLD-BLOODED rank 1
+**Armor:** Leather (3) | **Weapon:** Crossbow + two short swords
+**Trigger:** Being passed over in the captain's trust in favor of anyone outside the family
+**Agenda:** Secure the family's strategic position independently of whether the company survives — he is preparing an alternative
+**Loyalty:** 1. Actively planning departure. Has made contact with a settlement elder who wants Hadric's location on a specific night.
+**Personality:** Convincing Liar. Tells the truth when it is convenient. Has stopped being able to tell the difference.
+
+---
+
+**Crane Hadric** — Sergeant, Veteran, Brute
+The eldest brother. Called Crane since childhood for a long neck that he has learned to carry with a fighter's posture rather than a heron's apologetic hunch. He is not complicated. He follows Hadric because Hadric is family, he enforces because enforcement is his function, and he is interested in whether this contract involves something large and dangerous enough to properly test him. This is most of what he is.
+
+| STR | AGL | WIT | EMP |
+| --- | --- | --- | --- |
+| 5   | 3   | 2   | 2   |
+
+**Skills:** MELEE 2, MIGHT 1, ENDURANCE 1
+**Talents:** HEAVY WEAPON FIGHTER rank 2
+**Armor:** Chainmail (4) | **Weapon:** Maul
+**Trigger:** Being ordered to something that will look like cowardice in front of the company
+**Agenda:** To fight the largest, most dangerous thing he has not yet fought; everything else is secondary
+**Loyalty:** 3. To the family. Not to the company concept.
+**Personality:** Death-Easy. Settled his account with dying years ago. Makes him simple and fearless in ways that look, from outside, like madness.
+
+---
+
+**"The Lamp" Merric** — Veteran, Skirmisher
+Not a brother, not a cousin — an outsider Hadric brought in specifically. Merric is a former executioner from a warchief's court, currently employed as a precision instrument. He is called the Lamp because he illuminates things people would prefer to remain dark. He is professional, exact, and genuinely disinterested in anything that does not pertain to the quality of the work.
+
+| STR | AGL | WIT | EMP |
+| --- | --- | --- | --- |
+| 3   | 4   | 4   | 2   |
+
+**Skills:** MELEE 2, INSIGHT 1, MANIPULATION 1
+**Talents:** COLD-BLOODED rank 2, EXECUTIONER rank 1
+**Armor:** Leather (3) | **Weapon:** Short sword + knife
+**Trigger:** Being asked to do sloppy work — he has standards about the work
+**Agenda:** Accumulate enough observation of specific human decision patterns to predict outcomes before they occur; this is its own kind of interest
+**Loyalty:** 2. Professional. If Hadric becomes unpredictable or demands poor craft, Merric adjusts.
+**Personality:** Cruel Practical. Uses suffering as a tool, not a hobby.
+
+---
+
+### The Roster
+
+| NAME             | TIER    | STR | AGL | MELEE | ARMOR | NOTE                                                                                                                                |
+| ---------------- | ------- | --- | --- | ----- | ----- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Ralk             | Veteran | 4   | 3   | 2     | 4     | Hadric's personal shadow. Has learned not to look at certain things.                                                                |
+| Sov              | Veteran | 4   | 3   | 2     | 4     | Been here since the third month. Knows where things are buried. Keeps this to himself.                                              |
+| Thrice           | Common  | 3   | 3   | 1     | 3     | Called Thrice because he has survived three things that should have killed him. The men find this unsettling rather than admirable. |
+| Parn             | Common  | 3   | 3   | 1     | 3     | Dwarf from Crombe. Ravenish not his first language. Follows orders extremely well. Nobody asks where he is from.                    |
+| Hadric the Older | Veteran | 4   | 3   | 2     | 4     | The captain's cousin. Present as a set of eyes among the ranks. Resented. Not included in the brothers' actual discussions.         |
+| Kell             | Common  | 3   | 3   | 1     | 3     | A former debtor who joined to clear a note. Still calculating whether the note is cleared.                                          |
+| Gurn             | Common  | 3   | 3   | 1     | 3     | Broad, slow, reliable in a line. Crane likes him. Varis does not see why.                                                           |
+| Arnet            | Common  | 3   | 3   | 1     | 3     | Smart enough to understand what he is in. Not smart enough yet to leave.                                                            |
+| Solt             | Common  | 3   | 3   | 1     | 3     | Good with a crossbow. Varis has been having him drill every morning. Nobody has asked why.                                          |
+| Hevvy            | Common  | 3   | 3   | 1     | 3     | A functioning drunk. Nobody knows exactly how functional until it matters.                                                          |
+| Miv              | Common  | 3   | 3   | 1     | 3     | Young — thirteen at most. Carrying messages for Hadric directly. The senior men have begun to notice.                               |
+| Beld             | Common  | 3   | 3   | 1     | 3     | Has a permanent expression of mild surprise that does not match his actual emotional state.                                         |
+| Sorn             | Veteran | 4   | 3   | 2     | 4     | Former military. Joined for the pay. Has not reassessed this decision but is starting to.                                           |
+| Cren             | Common  | 3   | 3   | 1     | 3     | Personable with civilians when allowed. Hadric has not permitted it twice in the same village.                                      |
+| Ovrik            | Common  | 3   | 3   | 1     | 3     | A large man who has developed a habit of sitting extremely still whenever the captain enters the camp.                              |
+| Dett             | Common  | 3   | 3   | 1     | 3     | In charge of the company's two horses. Takes this more seriously than almost anything else.                                         |
+| Yeld             | Veteran | 4   | 3   | 2     | 4     | The only man who has told Crane he was wrong about something, once, to his face. Still alive. Crane respected it, barely.           |
+| Farst            | Common  | 3   | 3   | 1     | 3     | Joined three weeks ago. Does not fully understand what he joined yet.                                                               |
+
+---
+
+### Current Status
+
+Occupying Feldwick, a large village. The band is camped inside the palisade. The elder is compliant. The company is eating well and drawing a weekly contribution from village stores. It is the second draw of the year — annual tribute limit hit next draw. Six men are posted as a permanent occupation detachment; the rest forage and patrol.
+
+Hadric is looking at the settlement's defended grain house and calculating the third draw anyway.
+
+---
+
+### Bounties
+
+**On the company:** 15 silver on Hadric the Younger personally, posted at the trading post of Vond four hexes east by a merchant factor whose grain wagon the company burned during a job that went over scope six months ago. Spread: regional. Other mercenaries in the region have heard of it.
+
+**Posted by the company:** None currently.
+
+---
+
+### Relations
+
+**Mourning Company** — cold hostility, past incident. The bands nearly came to blows eight months ago. Pell confronted Hadric publicly on a road. Hadric remembers the name.
+
+**The Gristle's Band** — professional contempt. The Gristle considers them an embarrassment to the trade and a source of civilian backlash that makes everyone's contracts harder to negotiate. No direct contact. The feeling is regional reputation only.
+
+**Cold Company** — occasional shared employer network. Have taken contracts from the same consortium twice. Uncomfortable for both sides but no direct conflict.
+
+**All others** — unknown or neutral.
+
+---
+
+### Hoard
+
+Hadric has been extracting tribute from settlements for two years. He is building toward a territorial claim and has been treating the company's excess as personal capital. His hoard is real and he considers it the foundation of what comes next.
+
+Hadric's cache — buried under the north wall's collapsed floor in the ruined watchtower two hexes east of Feldwick, inside a sealed hardwood box:
+
+- **188 silver** accumulated over eight tribute extractions and four contracts, held back from wages at the captain's discretionary margin
+- **A quality long sword**, master-made, taken from a garrison commander whose post they broke two seasons ago. The blade has a maker's mark the right buyer would recognize.
+- **Two full suits of chainmail**, stripped from surrendered soldiers still in serviceable condition. Each worth 12 silver on resale to an armorer, or instantly useful to whoever wears them.
+- **A sealed letter** bearing a warchief's private mark — the contact Hadric has been cultivating. The letter commits the warchief to a meeting at a location written in cipher. Varis has read it. Hadric does not know this.
+- **A hand-drawn map** on vellum showing Hadric's intended territorial expansion: three settlement clusters circled with a system of tribute routes sketched between them. Evidence of ambition that would alarm at least two current contractors if it surfaced.
+
+Varis's cache — behind the south face's loose foundation stone in the same ruin, in a cavity Hadric has not checked:
+
+- **115 silver** Varis has been reserving from his own share and from funds he has redirected through the company's fence contact over three months
+- **A master-made short sword**, balanced for draw rather than display. His own tool.
+- **A quality crossbow** with a case of 24 quarrels, wrapped in oilcloth.
+- **A working knife with a weighted pommel**, purchased from a craftsman specifically — the balance is for throwing, not cutting. Four men know this. None of them are in the company.
+- **The sealed document** — contents unknown to everyone except Varis, who wrote it. The document is a witnessed statement, under two false names, recording specific acts committed by Hadric over the past year. It exists so that if Varis needs to hand Hadric to an authority, he has something to hand them first.
+- **A bronze medallion** from the company's first legitimate employer — proof of prior professional service. Varis's clean-history piece. If the rest of this goes wrong, he is a mercenary who once worked a reputable contract, not one of the Hadric boys.
+
+Both men know the other's cache exists. Neither has said so. SURVIVAL difficulty 4 to locate either cache without precise prior knowledge of the ruin's layout.
+
+---
+
+### Internal Tensions
+
+Miv, the youngest fighter, is carrying private messages for Hadric to contacts the other brothers have not been told about. Crane does not know what the messages contain. Varis does — he read one — and understands that Hadric is making a territorial commitment to a warchief contact that would require the company to operate directly against the Three Wolves' current employer network. Varis has not told Crane. He is deciding whether this information is the last confirmation he needed.
+
+---
+
+### GM Hook
+
+Varis has made contact with the Feldwick elder's neighboring settlement — not through the elder, around him — and offered information about what the next demand from the company will be and when. In exchange, the neighboring settlement is preparing to invite a third party to be present for that demand. Varis's intent is for this to go badly for Hadric in a way that looks like circumstances went wrong, not like his brother arranged it. The contact has not yet confirmed the counter-party. Hadric is three days from making the demand.
+
+---
+
+---
+
+## THE PALE COMPANY
+
+**Archetype:** Tyrant
+**Size:** Warband — 14 men (3 Named Men + 11)
+**MORALE:** 4 — Steady (Fear-Held)
+**Known as:** _The quiet ones. The ones who come back._
+
+The Pale Captain does not name himself. His men call him Winter behind his back and not at all to his face. He gathered the company from men who had nowhere else to go and nothing traceable before the company existed — former debtors, institutional runaways, a monastery laborer with unexplained circumstances, a man who was in the Ravenlands because he had been somewhere else and that somewhere else was no longer available. He knew what he was building. He built it carefully. It holds because the men have nowhere better to go, the work is steady, and the captain has never lost a contract.
+
+There is a locked box in the bottom of his personal pack that he carries himself.
+
+---
+
+### Named Men
+
+**"Winter" — The Pale Captain** — Captain, Elite, Line
+He says he has no call name. The men call him Winter when he is not present, for the reason that cold and absence of warmth are descriptive but not dramatic, which is also what he is. He is not visibly cruel — cruelty is heat, and he runs cold. The company's fear of him is rational: he is smarter than they are, he plans further ahead, and he does not tell them what the plan is until the piece they play arrives. He considers this effective management. It is. It is also the reason Guthar is always watching him.
+
+| STR | AGL | WIT | EMP |
+| --- | --- | --- | --- |
+| 5   | 3   | 4   | 3   |
+
+**Skills:** MELEE 3, MANIPULATION 1, INSIGHT 2
+**Talents:** COLD-BLOODED rank 2, FEARLESS rank 1
+**Armor:** Chainmail (4) | **Weapon:** Long sword
+**Trigger:** Anyone who accurately predicts his next decision before he makes it
+**Agenda:** Decode the treasury documents from two contracts ago — some of the cipher he has cracked; the rest requires a resource he does not yet have
+**Loyalty:** N/A (captain)
+**Personality:** Paranoid Competent. Assumes betrayal will arrive and has already considered from which direction.
+
+---
+
+**Guthar** — Sergeant, Veteran, Line
+Guthar survived two previous captains who did not survive their own decisions, and he is in the process of deciding whether the Pale Captain will be a third. He has not quit because the work is honest in a mechanical sense — the captain delivers what he promises, the men are paid, the contracts hold — and Guthar has no specific ambition beyond being in a situation where this is true. He is watching because he always watches. He does not know yet whether he has a reason to be worried or whether he is just constitutionally incapable of trust.
+
+| STR | AGL | WIT | EMP |
+| --- | --- | --- | --- |
+| 4   | 3   | 3   | 2   |
+
+**Skills:** MELEE 2, ENDURANCE 1, SCOUTING 1
+**Talents:** PAIN RESISTANT rank 2
+**Armor:** Chainmail (4) | **Weapon:** Axe + shield
+**Trigger:** Being given an order that feels like a test rather than a task
+**Agenda:** Verify that the captain is not planning to dissolve the company around him — he suspects this is the current contract's actual function
+**Loyalty:** 2. Dropping. Does not yet trust his suspicion enough to act on it.
+**Personality:** Paranoid Competent.
+
+---
+
+**"Ghost" Elan** — Veteran, Skirmisher (halfling)
+Ghost earned the name the obvious way: nobody hears Ghost until Ghost decides to be heard, and by then the relevant work is already done. The halfling makes no issue of being the smallest person in any room and the most dangerous — it is simply the situation, and noting it out loud would be poor craft. Ghost has a specific recovered item in mind and has been working the company's intelligence contacts toward it for six months. This is a personal project. The captain knows Ghost is running a private angle. Ghost knows that the captain knows. Neither has brought it up.
+
+| STR | AGL | WIT | EMP |
+| --- | --- | --- | --- |
+| 2   | 5   | 3   | 3   |
+
+**Skills:** MELEE 2, STEALTH 2, SCOUTING 1
+**Talents:** KNIFE FIGHTER rank 2, LIGHTNING FAST rank 1
+**Armor:** Leather (3) | **Weapon:** Two knives + short bow
+**Trigger:** Being treated as a tool rather than a person — instruments don't get asked; people do
+**Agenda:** Recover an item taken from Ghost's family three years ago by a specific party Ghost has been tracking
+**Loyalty:** 2. Professional. Ghost leaves if the captain's use of Ghost becomes incompatible with Ghost's person.
+**Personality:** Quietly Violent.
+
+---
+
+### The Roster
+
+| NAME   | TIER    | STR | AGL | MELEE | ARMOR | NOTE                                                                                                                                                           |
+| ------ | ------- | --- | --- | ----- | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Geld   | Veteran | 4   | 3   | 2     | 4     | Guthar's runner. Delivers messages and returns accurate information without adding opinion.                                                                    |
+| Orveck | Common  | 3   | 3   | 1     | 3     | Half-elf. No traceable past before the company. Connected to nothing. The captain considers this an asset.                                                     |
+| Senn   | Common  | 3   | 3   | 1     | 3     | Economical. Three words where others use eight.                                                                                                                |
+| Lort   | Veteran | 4   | 3   | 2     | 4     | Two missing teeth. Complete absence of concern about it. Does what is asked without requiring explanation.                                                     |
+| Havel  | Common  | 3   | 3   | 1     | 3     | Third company in two years. This one has lasted the longest. He thinks it is because he stopped noticing things.                                               |
+| Drike  | Common  | 3   | 3   | 1     | 3     | Former monastery laborer. Will not explain what happened. The captain does not ask.                                                                            |
+| Vend   | Common  | 3   | 3   | 1     | 3     | Permanently cold regardless of weather. Wears extra cloth. Still cold.                                                                                         |
+| Esker  | Common  | 3   | 4   | 1     | 3     | Thin, fast. Ghost trained him for the rear advance.                                                                                                            |
+| Murl   | Common  | 3   | 3   | 1     | 3     | Has a private agreement with Ghost that Ghost will not mention three specific things to the captain. The captain knows about the agreement but not the things. |
+| Torst  | Common  | 3   | 3   | 1     | 3     | The company cook, additionally. Makes food that is edible without exception and occasionally good.                                                             |
+| Kelb   | Common  | 3   | 3   | 1     | 3     | Largest man in the company. Was once used by the captain as a physical obstacle in a narrow pass. It worked. Kelb does not know he was used.                   |
+
+---
+
+### Current Status
+
+Active contract — a revenge job. An employer paid to have a specific named person found and killed. That person (an advisor who fled a warchief's service three months ago with treasury documents) is two hexes out and closing. Ghost has located them. The captain is planning the approach. Guthar does not believe the contract is purely a kill job — he thinks the employer wants the documents recovered, not the person eliminated — and is correct. The captain is also correct about this and has not said so.
+
+---
+
+### Bounties
+
+**On Ghost specifically:** 7 silver posted at a trading settlement four hexes west. The inn burned while Ghost's company was "clearing bandits" — Ghost did not start the fire and did not stop it. Posted by the innkeeper's brother, who survived.
+
+**On the company:** None.
+
+**Posted by the company:** None.
+
+---
+
+### Relations
+
+**Three Wolves** — indirect contact only. Ghost used a fence contact that the Three Wolves also use, twice. No shared operations. Ghost and Varis Hadric know each other's names from that network.
+
+**All others** — unknown or neutral.
+
+---
+
+### Hoard
+
+**Company-known — the box:** A locked iron box in the captain's pack. The men know it exists. He has told them plainly: this is the dissolution fund, the last wages if the company breaks. The key is on a cord around his neck. 22 silver inside — he shows them the count once a season so trust does not erode. The count is accurate.
+
+**Company-unknown — the cache:** Two hexes northeast, under a flat stone foundation that looks like road debris. Sealed oilcloth inside a clay-lined depression:
+
+- **162 silver** accumulated across nine contracts, held back at the captain's personal margin — never discussed with the company and not visible in the wages ledger
+- **The treasury documents** — six sheets of densely ciphered text, taken from a contract two seasons ago and never returned to the employer. The employer has since died, which the captain considers closure on the contract but not the question of what the documents say.
+- **The bronze administrative seal** — a merchant house mark that Ghost has already recognized. The seal validates documents under that house's authority. It has not been used. The captain has considered it.
+- **A full set of civilian travel clothes**, folded and wrapped. A merchant-quality wool coat, a plain linen shirt, and boots with minimal wear. They fit the captain and nobody else here.
+- **A sealed letter of introduction** in a false name, citing him as a factor for a trading house based three regions away. The letter is a forgery but a competent one — the captain made it himself over the better part of a winter. The trading house is real. The house does not know the letter exists.
+- **A small wax-sealed vial** containing a clear liquid. Arven, if shown it, would identify the contents in under a minute. The captain has never shown it to Arven.
+
+Ghost knows the seal's provenance. Has not told the captain. Is deciding whether the information is worth more as a lever or as a gift.
+
+SURVIVAL difficulty 3 for the known box's backup location; difficulty 4 for the cache.
+
+---
+
+### Internal Tensions
+
+Guthar believes the current contract is a document-recovery job wearing a kill-job's clothes, and that the captain is deciding whether to keep the documents rather than deliver them. He is right on both counts. The two of them are currently in a silent standoff: the captain does not confirm the real nature of the job, Guthar does not force the question, and Ghost is watching both of them with professional appreciation.
+
+---
+
+### GM Hook
+
+The cipher on the treasury documents is a standard merchant house encoding — common in the trading town of Vond three hexes west, used by a particular guild network. Ghost recognized the seal on the bronze administrative piece and knows this settlement, and knows a cipher clerk there who could read it in an afternoon. Ghost has not told the captain. Ghost is deciding whether the contents of those documents are something Ghost should know before the captain does.
+
+---
+
+---
+
+## MILITARY BANDS
+
+---
+
+## THE GRISTLE'S BAND
+
+**Archetype:** Military
+**Size:** Warband — 15 men (4 Named Men + 11, one posthumous)
+**MORALE:** 4 — Steady
+**Known as:** _The Gristle's lot. Contract workers._
+
+The Gristle named herself after a contract where she was the only one who ate and made the men march on empty. It stuck. She has not tried to lose it. The band works the Yendra and Harga road — patrol contracts, clearance jobs, escort runs through contested hexes — and has been doing it long enough that the name carries weight at settlement councils and posting boards. They are not large. They are reliable, which in the Ravenlands is worth more than size.
+
+Two dwarves, a half-elf sorcerer, an Aslene rider, a thief who has not yet been caught at it, a boy with clean boots who is learning what this costs, and the men who hold the line between them. Gest keeps the ledger. Petter sharpens things that do not need sharpening. Ash keeps a ward on the camp perimeter that costs her a nosebleed every morning. They lost Haldr at a clearing contract south of Ravenford — a cave mouth, a thing inside, Haldr too far forward. His boots went to Skalva. His axe went to Weatherstone with Petter. The fire took several days to fill.
+
+---
+
+### Named Men
+
+**The Gristle** — Captain, Elite, Line (Human, Alderlander)
+Pale-haired, tall, with the deliberate gait of a woman who has spent too many years making decisions that cost other people. She was not born to command. She learned it the way most things in the Ravenlands are learned: by being the last one standing with enough sense to speak. Her men do not love her. Most of them respect her, which is harder to earn and lasts longer.
+
+| STR | AGL | WIT | EMP |
+| --- | --- | --- | --- |
+| 4   | 3   | 4   | 3   |
+
+**Skills:** MELEE 3, ENDURANCE 3, MIGHT 2, MOVE 2, MANIPULATION 1, INSIGHT 1
+**Talents:** PATH OF THE COMMANDER rank 2
+**Armor:** Studded leather (3) | **Weapon:** Longsword + contract ledger
+**Trigger:** Loss of control — being overruled or bypassed in front of the men
+**Agenda:** Keep the band alive through the current contract and the one after that; long-range planning is a luxury she cannot afford
+**Loyalty:** N/A (captain)
+**Personality:** Mercenary Proud. Carries the weight quietly. Drinks when it gets heavy.
+
+---
+
+**Gest** — Sergeant, Elite, Line (Human)
+Old soldier, thick through the neck, carries the ledger the way some men carry a sword — like it is the thing that keeps order and he knows it. Gest has been doing this longer than the Gristle has been alive, or says so, and nobody has contradicted him to his satisfaction. He does not give speeches. He gives instructions, once, and then watches to see if you followed them. If you did not, something happens to your pay.
+
+| STR | AGL | WIT | EMP |
+| --- | --- | --- | --- |
+| 4   | 2   | 4   | 3   |
+
+**Skills:** MELEE 4, ENDURANCE 3, MIGHT 3, MOVE 2, CRAFTING 1, INSIGHT 2, MANIPULATION 1
+**Talents:** PATH OF THE BLADE rank 2, EXECUTIONER rank 1, EDUCATED rank 1
+**Armor:** Studded leather (3) | **Weapon:** Longsword + pay ledger
+**Trigger:** Incompetence from men who have been told once
+**Agenda:** Finish more contracts than he can count. He is close.
+**Loyalty:** N/A (sergeant — the captain makes the calls, Gest makes them stick)
+**Personality:** Flat. Professional. Does not waste words.
+
+---
+
+**Ash** — Veteran, Support (Half-Elf, Frailer — Sorcerer, Path of Blood)
+She came to them at a river crossing south of Ravenford with a staff taller than she was and a cloak that was more patches than original cloth. She has the half-elf look — sharp bones, pale eyes, the face of someone told she was the crown of creation by one half of her family and something regrettable by the other. She can stop a man's bleeding with a word. She keeps a ward on the camp perimeter that costs her a nosebleed every morning. She told the Gristle the ground ahead was wrong, twice, before the Gristle stopped asking her to justify it.
+
+| STR | AGL | WIT | EMP |
+| --- | --- | --- | --- |
+| 2   | 3   | 6   | 3   |
+
+**Skills:** LORE 3, INSIGHT 3, CRAFTING 2, MANIPULATION 2, SLEIGHT OF HAND 1, HEALING 1
+**Talents:** PSYCHIC POWER rank 1, PATH OF BLOOD rank 2
+**Armor:** None | **Weapon:** Walking staff + knife
+**Trigger:** Being dismissed as less than the men with swords — she has seen what is behind the veil; they have not
+**Agenda:** The nosebleed the camp ward costs her every morning is getting worse. She has not told anyone.
+**Loyalty:** 2. Will stay as long as she is treated as a person, not a tool.
+**Personality:** Quietly Competent. Reads the room before anyone in it has finished thinking.
+
+---
+
+**Petter the Hook** — Veteran, Line (Dwarf)
+Nine years at this. Knee that has been bad for six of them and will never be good again. He sharpens things that do not need sharpening. He does not complain about pain, cold, hunger, heat, short pay, bad contracts, or long roads, because dwarves who complain about those things are dwarves who did not last. He carries the debts of every man who died under his watch and pays them on the spring road to whatever family is left. He has never spoken about why he is still doing this. Nobody has asked.
+
+| STR | AGL | WIT | EMP |
+| --- | --- | --- | --- |
+| 5   | 2   | 4   | 3   |
+
+**Skills:** MELEE 3, ENDURANCE 3, MIGHT 2, CRAFTING 3, SCOUTING 1
+**Talents:** TRUE GRIT rank 1, PATH OF THE BLADE rank 1, PAIN RESISTANT rank 1
+**Armor:** Studded leather (3) | **Weapon:** Handaxe + whetstone
+**Trigger:** Being offered pity; dwarves do not accept it
+**Agenda:** Pay Haldr's debt to Haldr's people. He will walk to Weatherstone when the current contract is done.
+**Loyalty:** 3. To the Gristle and the work, in that order.
+**Personality:** True Grit manifest. Hurts. Does not mention it.
+
+---
+
+### The Roster
+
+| NAME     | TIER    | STR | AGL | MELEE | ARMOR | NOTE                                                                                                                                                       |
+| -------- | ------- | --- | --- | ----- | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Hargamar | Veteran | 5   | 2   | 3     | 4     | Dwarf. Older than Petter. Was a stoneworker in the quarries south of the Amber Peaks. Holds the center of a shield wall without being told.                |
+| Rask     | Veteran | 3   | 5   | 3     | 3     | Human, Aslene. Compact, dark-eyed, horseman's build. Four years in the band. Good fighter, liability in villages. The Gristle has paid to manage it twice. |
+| Ferrec   | Common  | 2   | 5   | —     | 3     | Human. Rogue. Weights every scale in his favor. Has lifted something small from every member's kit — a test. None have noticed. Yet.                       |
+| Brosa    | Common  | 4   | 4   | 2     | 3     | Human, Alderlander. New. Good shoulders, clean teeth. Does everything wrong in the line. Learning. His brother joined the Rust Brothers three years back.  |
+| Skalva   | Common  | 3   | 4   | 2     | 3     | Human, Ailander. The boy. Short, stocky, light-haired. Washes his boots every morning. Carries Haldr's axe and Haldr's boots.                              |
+| Orell    | Common  | 3   | 3   | 1     | 3     | Joined outside Hollowford. Left a farm. Does not explain what happened to the farm.                                                                        |
+| Briva    | Common  | 3   | 3   | 1     | 3     | Former garrison cook who walked south when the garrison didn't pay. Still cooks. The men do not complain.                                                  |
+| Joreth   | Common  | 3   | 3   | 1     | 3     | Quiet. Wears a dead man's boots that fit him perfectly. Nobody asks whose.                                                                                 |
+| Nolv     | Common  | 3   | 3   | 1     | 3     | Carries a sling because a sling costs nothing. Accurate enough that Gest stopped criticizing the weapon choice.                                            |
+| Essa     | Common  | 3   | 3   | 1     | 3     | Thin, dark-haired, runs messages between the column segments faster than anyone else here.                                                                 |
+| Finn     | Common  | 3   | 3   | 1     | 3     | The newest. Seventeen and careful with it. Petter watches him the way Petter watches everyone who reminds him of the dead.                                 |
+
+---
+
+### Current Status
+
+Midway through a month-long patrol contract for the village of Hollowford — keeping the Harga road clear of a wolf pack and the remnant of a bandit group that broke up in winter. Three weeks in, one bandit engagement, no losses. Pay arrives weekly; current week paid in full. MORALE is steady.
+
+Ash's morning nosebleed lasted twenty minutes yesterday. She wiped it on her sleeve and said nothing. Gest saw.
+
+---
+
+### Bounties
+
+**On the band:** None.
+
+**Posted by the band:** None openly. Petter has made quiet inquiries about a dwarf stonemason who worked the Amber Peaks quarries — a debt owed to Haldr's family that Petter intends to settle personally.
+
+---
+
+### Relations
+
+**Mourning Company** — professional respect. The bands crossed paths outside Hollowford. Pell and the Gristle spoke for a quarter-hour at a roadside fire. No terms exchanged, no alliance formed. Each recognized the other as competent and said nothing about it.
+
+**Cold Company** — mutual respect at a distance. Both captains have heard each other's names from credible sources. If they operated in the same region, it would probably function. They have not tested this.
+
+**Three Wolves** — cold contempt. The Gristle has heard what Hadric's men did at Redrun. She has filed the name.
+
+**Salt Brothers** — friendly, functional. The Gristle's dwarves and the Oslunds shared a camp road once. Petter and Old Harb spent an evening discussing whetstone grades. This constituted friendship by dwarf standards.
+
+**All others** — neutral or unknown.
+
+---
+
+### Hoard
+
+The Gristle keeps the company finances in a leather satchel she carries herself. She does not believe in buried caches — buried money is money you are not watching.
+
+**The satchel:**
+
+- **62 silver** in mixed coin — seven weeks of wages held, accumulated across three contracts on the Yendra road
+- **The contract ledger** — every job the band has taken, the employer, the terms, the outcome. Written in the Gristle's hand, witnessed by Gest. This is the band's reputation in physical form.
+- **A letter of recognition** from Hollowford's council, stating the band completed two prior patrol contracts in good standing
+
+**Petter's pack — personal, known only to Hargamar:**
+
+- **21 silver** in debts owed to families of the dead, recorded in dwarf notation on a folded vellum
+- **Haldr's axe**, wrapped in the boy's spare shirt. He carries it to Weatherstone this spring. He has not told the Gristle he is leaving after this contract.
+
+**Ferrec's boot heel — known only to Ferrec:**
+
+- **9 silver** and a set of lockpicks, lifted one at a time from three different employers
+
+SURVIVAL difficulty 1 for the satchel (the Gristle carries it); difficulty 3 for Petter's pack; difficulty 4 for Ferrec's heel.
+
+---
+
+### Internal Tensions
+
+Ash's ward is degrading. The nosebleed that fuels the camp perimeter's Blood Magic protection is getting worse — some mornings the blood does not stop on its own. She has not told the Gristle. Gest has noticed and is deciding whether to mention it or wait for Ash to say something first. He is leaning toward waiting. This may be a mistake.
+
+Ferrec has lifted something small from every member of the band. Nobody has noticed. The Gristle will notice soon — she is more attentive than the others — and Ferrec does not know what happens when she does. Brosa is watching Ferrec more than he watches the veterans, which is a bad sign nobody has mentioned to him.
+
+Petter intends to leave after the current contract to discharge Haldr's debt at Weatherstone. He has not told anyone. Hargamar suspects.
+
+---
+
+### GM Hook
+
+Brosa's brother — the one who joined the Rust Brothers three years ago — has been assigned to a Rust Brother tax collection circuit that passes through the Gristle's current patrol area. He does not know his brother is here. Brosa does not know his brother is coming. The Gristle's contract with Hollowford requires her to keep the road clear. The Rust Brothers consider the road theirs. These facts are about to meet on the same stretch of track.
+
+---
+
+---
+
+## THE COLD COMPANY
+
+**Archetype:** Military
+**Size:** Company — 24 men (3 Named Men + 21)
+**MORALE:** 4 — Steady
+**Known as:** _The dismounts. Were cavalry once._
+
+Duve Orn commanded a cavalry unit on a campaign along the Dankwood border that ended badly in a way that veterans of the campaign are still not discussing in full. The horses are gone. Most of the original unit is gone. What walked south with Coldhand was professional muscle with a cavalry officer's training and a cavalryman's habitual preference for mobility and speed — which, without horses, means the company is fast-marching infantry that thinks in terms of positions, timing, and decisive action rather than protracted holding. This makes them effective on offensive contracts and occasionally frustrating on static ones.
+
+They want horses. This colors everything.
+
+---
+
+### Named Men
+
+**Duve "Coldhand" Orn** — Captain, Elite, Skirmisher (former cavalry officer)
+His left hand took frostbite in the second winter of the campaign. Three fingers on it move poorly. He has compensated. He is a crossbow captain rather than a melee one by preference, which is unusual — he thinks in terms of range and timing, not center mass. The cold hand is named plainly rather than with irony; it is a feature, not a joke, and the men do not joke about it.
+
+| STR | AGL | WIT | EMP |
+| --- | --- | --- | --- |
+| 4   | 5   | 4   | 3   |
+
+**Skills:** MELEE 3, MARKSMANSHIP 1, SCOUTING 1, SURVIVAL 1
+**Talents:** FAST SHOOTER rank 2, LIGHTNING FAST rank 1
+**Armor:** Leather with mail patches (3) | **Weapon:** Hand crossbow + sword
+**Trigger:** Being told by his own men that a cavalry approach won't work here — he already knows, it still lands wrong
+**Agenda:** Remount the company — 12 horses minimum; has a supplier who will deal when the coin is there
+**Loyalty:** N/A (captain)
+**Personality:** Calculating.
+
+---
+
+**"Boot" Pask** — Sergeant, Veteran, Brute
+Named because someone once said the safest place in any engagement is under Boot's foot. This is probably true. He is the company's forward violence — when Coldhand plans the approach, Boot is the approach. He does not consider himself the company's strategist and has no interest in being so; he is interested in the problem in front of him, and the problem is usually the line. He stays because he has not found a reason to leave, and Coldhand values this in a way that Boot would find embarrassing if it were stated, so it has never been stated.
+
+| STR | AGL | WIT | EMP |
+| --- | --- | --- | --- |
+| 5   | 3   | 3   | 2   |
+
+**Skills:** MELEE 2, MIGHT 1, ENDURANCE 1
+**Talents:** HEAVY WEAPON FIGHTER rank 2
+**Armor:** Chainmail (4) | **Weapon:** Great axe
+**Trigger:** Being asked to act carefully when acting quickly and decisively would solve the same problem more permanently
+**Agenda:** None formal — stays because the work is here and good enough
+**Loyalty:** 3
+**Personality:** Death-Easy.
+
+---
+
+**Ked "the Nail" Sovere** — Veteran, Tensman, Line
+Everything he does is precise and complete. His unit of ten is the best-maintained section in the company because the Nail does not consider a patrol complete if the count is wrong, does not consider an engagement closed until the field is accounted for, and does not consider an order done until the downstream consequences have been checked. He is not tyrannical about this. He simply does it, and the men in his unit eventually do it too. He has a theory about the previous campaign's ending that he has been quietly researching for eight months.
+
+| STR | AGL | WIT | EMP |
+| --- | --- | --- | --- |
+| 4   | 3   | 4   | 2   |
+
+**Skills:** MELEE 2, SCOUTING 1, INSIGHT 1
+**Talents:** COMBAT EXPERIENCED rank 2
+**Armor:** Chainmail (4) | **Weapon:** Sword + shield
+**Trigger:** An incomplete patrol — he goes back
+**Agenda:** Identify and resolve who ended the previous campaign and how; he has a theory; it involves someone who is not dead
+**Loyalty:** 2. Professional.
+**Personality:** Territorial. About accountability specifically.
+
+---
+
+### The Roster
+
+| NAME  | TIER    | STR | AGL | MELEE | ARMOR | NOTE                                                                                                                                               |
+| ----- | ------- | --- | --- | ----- | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Brant | Veteran | 4   | 4   | 2     | 4     | Former cavalry. Still moves like his horse is under him. Good in a charge, awkward stationary.                                                     |
+| Sove  | Veteran | 4   | 3   | 2     | 4     | Boot's deputy when Boot isn't available. No formal rank. Everyone treats him as having it.                                                         |
+| Reld  | Common  | 3   | 3   | 1     | 3     | Young. Trying to replicate Coldhand's controlled calm. Does not yet have the material.                                                             |
+| Osk   | Veteran | 4   | 3   | 2     | 4     | Long scar jaw to collar. Doesn't remember getting it. Coldhand has never asked.                                                                    |
+| Deff  | Common  | 3   | 3   | 1     | 3     | Dwarf from the Amber Peaks. A smith who left his clan for reasons he doesn't discuss. Keeps equipment better than anyone else here.                |
+| Ellan | Common  | 3   | 3   | 1     | 3     | Joined at fifteen, now sixteen. Old enough to hold a position; not old enough for the men to stop making adjustments they aren't supposed to make. |
+| Vorn  | Veteran | 4   | 3   | 2     | 4     | The Nail's right hand in his section. Precise, unimaginative, reliable.                                                                            |
+| Arss  | Common  | 3   | 3   | 1     | 3     | Sleeps loudly. Has been assigned outside perimeter twice. Considers this unfair. Everyone in camp disagrees.                                       |
+| Solv  | Common  | 3   | 3   | 1     | 3     | Carries a company banner on the march. An old cavalry custom with no tactical function. Coldhand lets him.                                         |
+| Kard  | Veteran | 4   | 3   | 2     | 4     | Four companies. This the best one. He does not say this out loud, partly because he doesn't want to explain how he's qualified to judge.           |
+| Mrenn | Common  | 3   | 3   | 1     | 3     | Former fisherman. Excellent swimmer. Has saved two men's lives in river crossings.                                                                 |
+| Tevek | Common  | 3   | 3   | 1     | 3     | Has strong opinions about camp placement. Coldhand notes privately that Tevek is always right about this.                                          |
+| Yane  | Veteran | 4   | 3   | 2     | 4     | The company's only woman at veteran tier. Does not discuss it. The men who needed to learn have learned.                                           |
+| Orvek | Common  | 3   | 3   | 1     | 3     | Large, cheerful, wrong about things with confidence.                                                                                               |
+| Belk  | Common  | 3   | 3   | 1     | 3     | One of three literate common fighters among all eight bands in this document. Keeps a private log. The Nail knows and has not reported it.         |
+| Fert  | Common  | 3   | 3   | 1     | 3     | Has been followed by a dog for two months. The dog has been named Spear by Boot.                                                                   |
+| Grenn | Veteran | 4   | 3   | 2     | 4     | Former gate guard. Sets up the gate watch in every camp the company makes. Nobody assigned it.                                                     |
+| Obb   | Common  | 3   | 3   | 1     | 3     | Snores. Assigned outside perimeter. Has become friends with Arss.                                                                                  |
+| Keld  | Common  | 3   | 3   | 1     | 3     | The company's best knife-thrower. This has been useful twice. He is asked about it daily.                                                          |
+| Prek  | Common  | 3   | 3   | 1     | 3     | Joined because his older brother is here. Older brother is Brant. Brant has told no one.                                                           |
+| Dov   | Veteran | 4   | 3   | 2     | 4     | Oldest fighter here. Was a cavalry officer's orderly before the campaign ended. Goes quiet when someone mentions horses.                           |
+
+---
+
+### Current Status
+
+Day three of a siege approach on a ruined stronghold held by a bandit group — assault contract, hired by a trade consortium. The company has established a fortified camp position. Access to the main gate is covered. Coldhand is planning a nighttime breach. Boot is ready. The Nail has counted the defenders twice and his second count is higher than the first.
+
+---
+
+### Bounties
+
+**On the whole company:** 12 silver, posted at the village of Lumra two hexes south. Two months ago the company acquired provisions under duress while in a difficult supply position. The settlement considers this a robbery. The company considers it an emergency requisition. The distinction is not legally meaningful in the Ravenlands, but the 12 silver is real.
+
+**Posted by the company:** None.
+
+---
+
+### Relations
+
+**Bone Pack** — active hostility. Three skirmishes in the last three months, all of them over hex territory. The Cold Company was contracted to clear a specific hex; the Bone Pack denning-ground is in that hex; the pack did not leave and the company did not stop clearing. Nobody has died but three people on each side have been Broken in a skirmish. The contract employer considers this resolved. The Bone Pack does not.
+
+**The Gristle's Band** — mutual respect at a distance. Never shared a contract area. Both captains have heard each other's names from credible sources. If they worked together, it would probably function. This has not been tested.
+
+**Three Wolves** — occasional shared employer network. This makes both companies uncomfortable. No direct engagement. The discomfort is about the Three Wolves' methods trailing into the same contracts the Cold Company is trying to maintain professionally.
+
+**All others** — neutral or unknown.
+
+---
+
+### Hoard
+
+**Company chest:**
+An iron-bound campaign chest with two locks. One key is around Coldhand's neck. A tensman who deserted two months ago had the other. The chest has not been opened in front of the company since the desertion. Coldhand has not explained why. Boot is the only man who has asked him directly. Coldhand told him the chest was fine. Boot did not believe him but did not push it.
+
+Inside, current count from Coldhand's private memory:
+
+- **70 silver** wage reserve — five weeks' float
+- **A packet of three signed work-orders** from prior employers, never cashed. Two are from settlements within two days' march. The third is from a consortium charter that may no longer function. Combined face value: 18 silver if honored, 0 if the issuers dispute or are gone.
+- **A cavalry dispatch satchel** from the last campaign — fine tooled leather, brass fittings, Coldhand's former unit's mark on the flap. Worth 8 silver to a dealer in military goods, worth a conversation Coldhand does not want to have to anyone who recognizes the mark.
+
+**Coldhand personal:** Buried inside a split-rock formation three hexes north, in a cavity sealed with a flat stone and a specific repositioned lichen mat:
+
+- **68 silver** in mixed coin — his running remount fund, grown slowly across three seasons. Twelve horses at current market rate cost 120–150 silver. He is less than halfway there and he knows it.
+- **Two cavalry sabers**, wrapped in oilcloth — taken from the saddles when the horses were lost. Good steel, cavalry balance. Too long for infantry close work. He keeps them anyway.
+- **A sealed map** in Coldhand's handwriting — three verified river crossings the enemy did not know about during the last campaign. The tactical information no longer has an immediate use. He wrote it down anyway, sealed it, and has not reopened it. He does not know why he keeps it.
+
+SURVIVAL difficulty 2 for the company chest's location when stationary; difficulty 3 for the personal cache.
+
+---
+
+### Internal Tensions
+
+Brant and Prek are brothers. Brant has told no one. Prek believes this protects him. Brant believes it protects them both. Boot figured this out six weeks ago and is watching to see if it creates a problem before saying anything to Coldhand.
+
+The Nail's theory about the previous campaign: the campaign ended because a specific individual sold positioning information to the opposing force. That individual is now employed as an advisor to a settlement two hexes from the current contract area. The Nail has identified this person and has not yet told Coldhand. He is unsure whether Coldhand knew at the time and chose not to act, or whether Coldhand does not know. This distinction matters for what the Nail does next.
+
+---
+
+### GM Hook
+
+The individual the Nail suspects is now watching the Cold Company's approach into this contract area with significant anxiety. They have sent a message — through the settlement's civilian network, carefully — asking for a private conversation with Coldhand. The message has not reached Coldhand. It reached the Nail first. The Nail has it in his pack, unopened by Coldhand's standards, and is deciding whether to deliver it as received or to read it first and decide what Coldhand needs to know.
+
+---
+
+---
+
+## KIN BANDS
+
+---
+
+## THE BONE PACK
+
+**Archetype:** Kin
+**Size:** Warband — 11 (3 Named Men + 8 fighters plus Aldric Svenk)
+**MORALE:** 4 — Steady
+**Known as:** _The wolfkin pack that hired out. The ones who don't leave when asked._
+
+Most wolfkin packs take casual work — short-range contracts, specific guard obligations — and return to their territory between jobs. The Bone Pack has been out three years. Their original denning-ground on the Shroud's western margin was occupied while they were on a contract, by a settlement elder who had a scribe register it under settlement land law. The pack returned to find their territory on a deed. They have been between work and home since, moving through contracts and building toward a specific resolution that Sura will not name explicitly and that everyone in the pack understands without it being named.
+
+They are effective hired fighters. The difficulty is that they are also a family, which means their professional decisions have emotional freight that human companies' professional decisions often don't. Sura manages this. She is very good at it.
+
+---
+
+### Named Men
+
+**Pack-Elder Sura** — Elite, Line (wolfkin)
+Sura took elder standing when the original dominant pair died — not through challenge but through the slow weight of being the one who made the right calls and was still standing. She is not the largest wolfkin in the pack and does not fight as though she is. She fights as the point of convergence — the thing the pack orients toward when the press gets bad. She has carried the denning-ground problem for three years without letting it become the only thing the pack is, and the pack has noticed.
+
+| STR | AGL | WIT | EMP |
+| --- | --- | --- | --- |
+| 5   | 3   | 3   | 4   |
+
+**Skills:** MELEE 3, MANIPULATION 1, INSIGHT 2
+**Talents:** FEARLESS rank 2, DEFENDER rank 1
+**Armor:** None (natural Armor 2) | **Weapon:** Short spear + claws
+**Trigger:** A pack member being harmed by someone the pack was contracted to protect — not enemies, the employer's side
+**Agenda:** Recover the denning-ground; the legal question is the current problem; violence may not be the correct resolution
+**Loyalty:** N/A (pack-elder)
+**Personality:** Flat to outsiders. Grudge-Holding toward the specific parties who took the ground.
+
+---
+
+**Fang** — Veteran, Skirmisher (wolfkin)
+A use-name that became the only name. Fast enough that it functions as an accurate description. Fang scouts ahead, closes distance fast, and is aware of the 5-silver bounty on them personally in a way that the others in the pack are not — it is Fang's problem to manage, so Fang manages it without involving everyone. The difficulty is that Fang would prefer to close the bounty without killing the man who posted it and currently has no mechanism for doing so.
+
+| STR | AGL | WIT | EMP |
+| --- | --- | --- | --- |
+| 3   | 5   | 3   | 2   |
+
+**Skills:** MELEE 2, STEALTH 1, SCOUTING 2
+**Talents:** LIGHTNING FAST rank 1
+**Armor:** None (Armor 2) | **Weapon:** Short sword + claws
+**Trigger:** Being made the pack's expendable without the pack having discussed it
+**Agenda:** Close the 5-silver bounty without creating a worse situation
+**Loyalty:** 3
+**Personality:** Dark Amused.
+
+---
+
+**"The Questioner" Hast** — Veteran, Skirmisher (human)
+A human man vouched into the pack seven years ago. The name came from a straightforward source: he asks questions. About everything. The pack has learned that this is usually a sign something is about to be found out rather than a sign of ignorance. He became pack-adjacent when his original connection (a wolfkin cousin-figure who ran with the pack) died; he had nowhere else to go and Sura evaluated that he would hold and kept him. He holds. He also has a private theory about the denning-ground situation that is more complicated and more accurate than Sura's current working model, and he is still assembling evidence before saying it out loud.
+
+| STR | AGL | WIT | EMP |
+| --- | --- | --- | --- |
+| 3   | 4   | 4   | 3   |
+
+**Skills:** MELEE 2, SCOUTING 1, MANIPULATION 1, SURVIVAL 1
+**Talents:** KNIFE FIGHTER rank 1
+**Armor:** Leather (3) | **Weapon:** Short sword + two knives
+**Trigger:** Being asked to stop asking a question that matters
+**Agenda:** Determine precisely why the denning-ground was taken and who made the specific decision — he does not believe it was simple opportunism
+**Loyalty:** 3. Personal bond to Sura; would challenge her before he would leave her.
+**Personality:** Calculating.
+
+---
+
+### The Roster
+
+| NAME                | TIER    | STR | AGL | MELEE | ARMOR | NOTE                                                                                                                              |
+| ------------------- | ------- | --- | --- | ----- | ----- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Keth-paw            | Common  | 3   | 4   | 1     | 2     | The youngest. Still testing where the elder will restrain him. Usually finds the line by crossing it.                             |
+| Enn (Sura's-shadow) | Veteran | 3   | 4   | 2     | 2     | Fights in Sura's blind spot as a habit she may not know has become a habit.                                                       |
+| Grey-mark           | Common  | 3   | 3   | 1     | 2     | Old scar across the muzzle. Earned in the pack's first contract, before they understood what a contract was.                      |
+| Torch               | Common  | 3   | 4   | 1     | 2     | Habit of moving ahead of the group in engagements. Sura has been patient about this.                                              |
+| Brick               | Veteran | 4   | 3   | 2     | 2     | Heaviest wolfkin in the pack. Used as a blunt instrument in tight positions.                                                      |
+| Long-coat           | Common  | 3   | 4   | 1     | 2     | A scavenged human coat she refuses to remove regardless of weather. The pack does not explain this to outsiders.                  |
+| Deep-voice          | Common  | 3   | 3   | 1     | 2     | A low growl that has stopped men cold without a blade drawn. Sura deploys this deliberately.                                      |
+| Aldric Svenk        | Veteran | 4   | 3   | 2     | 4     | Human, vouched in seven years ago. The pack kept him after his wolfkin connection died. He stays because they are his people now. |
+
+---
+
+### Current Status
+
+Between contracts. The pack is encamped in a hex adjacent to their former denning-ground. They are not occupying it — the settlement that registered the land has a presence there — but they are not going away. Sura has received an informal offer from a village elder one hex south: protection through winter in exchange for sustained provisioning. The pack is deliberating. The Questioner thinks accepting gives them a legal foothold in the region that may be useful for the denning-ground question. Sura is not sure the elder knows what they are deliberating.
+
+---
+
+### Bounties
+
+**On Fang specifically:** 5 silver, posted at a trading settlement two hexes northwest. An inn that burned while the pack's previous employer was "settling accounts" in the region — Fang did not start the fire, was present, did not stop it. Posted by the innkeeper's cousin.
+
+**On the pack:** None.
+
+**Posted by the pack:** None openly. Sura has made private inquiries about the settlement elder who registered the land, with the specific intent of understanding who he used to file it.
+
+---
+
+### Relations
+
+**Mourning Company** — blood oath alliance, sealed five months ago after the Bone Pack assisted the company through a difficult ford crossing. Sura and Pell have met personally. The alliance commits both parties to military assistance if the other is in serious danger. Neither side has yet tested what "serious danger" means in practice.
+
+**Cold Company** — active hostility. Three skirmishes. Nobody has died but three pack members and three Cold Company fighters have been Broken in the encounters. The Cold Company considers the territory dispute resolved because their contract said to clear the hex. The Bone Pack does not.
+
+**Tyrant bands** — the pack avoids contact with Tyrant bands by preference. Sura does not explain why; she simply declines those contracts and routes the pack away from known Tyrant company positions.
+
+**All others** — neutral or unknown.
+
+---
+
+### Hoard
+
+The pack does not hold by individual accumulation. They cache together. Their goods are at the denning-ground and they cannot reach them while the settlement's camp sits on top of it.
+
+**The denning-ground cache** — buried under a particular root system in a pattern Sura knows by smell and direction and the count of steps from a specific tree. Currently 30 paces from the nearest settlement fire.
+
+- **47 silver** in mixed coin from three years of contract payments, accumulated net
+- **Four quality weapons**: a short sword with a bone grip, a balanced fighting spear with a replaced shaft, a hunting bow with a full quiver of 12 arrows, and a knife with a weighted spine Fang identified as useful and took from a dead man
+- **Three cured elk hides**, rolled and bound — each worth 4 silver whole, more if worked; heavy, left here because the pack prefers to travel without the weight
+- **A winter-weight elk pelt** — prime condition, taken two seasons ago. Worth 8 silver to a furrier. Worth more to a wolfkin pack in a bad winter.
+- **Two iron cooking pots**, nested — heavy tools left at the cache for exactly this reason; the kind of equipment that makes a winter camp sustainable but that no one wants to carry on a long contract
+- **A jar of rendered tallow**, sealed with worked clay — practical heat, fire-starter, wound grease. Preserved properly. Worth 3 silver in any settlement.
+- **At the center of the cache, wrapped in a fold of old oilcloth:** a small wolf carved from bone, worn almost smooth with handling. Left here by the dominant pair before they died, three years ago. Sura knows it is in there. She has not gone back for it for reasons she does not name. The Questioner knows the figure exists. He has not asked about it.
+
+Also: Aldric Svenk carries his own cache in a sealed cavity in his boot heel, which every member of the pack who has been with them more than a month knows about:
+
+- **18 silver** — his personal reserve
+- **A folded document** recording the death of his wolfkin connection and the pack elder's formal recognition of him as clan-adjacent. The document is the only legal basis he has for being where he is.
+
+SURVIVAL difficulty 1 for the boot cache (everyone in the pack knows); difficulty 2 for the denning-ground cache if you know the site; difficulty 4 if you don't.
+
+---
+
+### Internal Tensions
+
+Aldric Svenk received a message two weeks ago from a distant cousin: human settlement expansion is moving toward the outer edge of the pack's intended denning-ground recovery area. The newcomers are not the same settlement that took the land originally — they are a second wave who purchased from the elder who registered it. Aldric has not told Sura. He does not know whose side he is on, and until he does, he is not certain what telling her accomplishes. The Questioner has noticed Aldric's changed behavior and is currently asking questions of other people to understand what changed.
+
+---
+
+### GM Hook
+
+The Questioner's theory: the denning-ground's registration was not opportunism. The scribe who filed it was specifically requested by a third party — a merchant who wanted the pack's territory clear for a route that doesn't exist yet but whose planning documents the pack's presence would complicate. The elder was paid. The scribe was paid. The merchant is the one with the decision. The merchant is also the settlement's primary trade contact and the person the Mourning Company's current employer networks through. This connection is not coincidence.
+
+---
+
+---
+
+## THE SALT BROTHERS
+
+**Archetype:** Kin
+**Size:** Skirmishers — 6 (2 Named Men + 4)
+**MORALE:** 4 — Steady
+**Known as:** _The dwarf company with the human wives. Careful workers._
+
+Durn Oslund is descended from a dwarf clan that left Crombe three generations back and has been slowly intermarrying with the surrounding human population to the point where the current generation is half dwarf and calls itself full kin. Outsiders find this confusing. The Oslunds find outsider confusion mildly amusing and not worth addressing. They travel together, work together, and apply dwarf-traditional conflict resolution to human problems, which is slower and more thorough than human conflict resolution, which has generally served them well.
+
+They are a small company doing careful work. They do not take risks unless they understand them first.
+
+---
+
+### Named Men
+
+**Durn "Goat" Oslund** — Leader, Veteran, Brute (dwarf)
+Called Goat because he climbs anything and eats anything, and because the assessment, while not dignified, is accurate. He is the band leader by clan seniority, which in Old Oslic tradition predates any professional question of competence — he leads because the clan line runs through him. He is also, by independent assessment, a competent leader who makes careful decisions. He knows the difference between leading because he was given the authority and leading because he has earned it. He makes sure the second is true before relying on the first.
+
+| STR | AGL | WIT | EMP |
+| --- | --- | --- | --- |
+| 5   | 4   | 3   | 2   |
+
+**Skills:** MELEE 2, ENDURANCE 2, MIGHT 1
+**Talents:** HEAVY WEAPON FIGHTER rank 1
+**Armor:** Chainmail (4) | **Weapon:** War hammer
+**Trigger:** The clan's honor being questioned by outsiders who have not earned standing to question it
+**Agenda:** Repay a specific debt the clan holds before the season closes; the Old Oslic interest rate is non-negotiable
+**Loyalty:** N/A (leader)
+**Personality:** Grudge-Holding / Mercenary Proud. Old wrongs do not expire. Neither does good work.
+
+---
+
+**Petra "Shepherd" Oslund** — Veteran, Skirmisher (human)
+Her name is the married-in name; she took it when she married an Oslund who died four years ago, and kept the name because the clan kept her. She was given the call name Shepherd by Durn before she earned it, which she considered presumptuous and which has since turned out to be correct — she manages the men the way she would manage livestock: firm attention, patient pressure, no raised voice, and a specific clear signal when patience has ended. She handles everything Durn doesn't handle because Durn handles a limited set of things extremely thoroughly.
+
+| STR | AGL | WIT | EMP |
+| --- | --- | --- | --- |
+| 3   | 4   | 4   | 3   |
+
+**Skills:** MELEE 2, SCOUTING 1, MANIPULATION 1, ANIMAL HANDLING 1
+**Talents:** KNIFE FIGHTER rank 1
+**Armor:** Leather (3) | **Weapon:** Short sword + crossbow
+**Trigger:** Being given responsibility without the authority to match it — she manages the men, Durn makes the calls; fine usually, a problem when Durn is wrong
+**Agenda:** Find out whether her sister, who traveled north two years ago, is alive or dead
+**Loyalty:** 3. Clan bond. She would challenge Durn to his face before she would leave him.
+**Personality:** Scornful of those who haven't done the work. Practical respect for those who have.
+
+---
+
+### The Roster
+
+| NAME        | TIER    | STR | AGL | MELEE | ARMOR | NOTE                                                                                                                                           |
+| ----------- | ------- | --- | --- | ----- | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Rem Oslund  | Common  | 3   | 3   | 1     | 4     | Durn's nephew. Good with a pick-hammer. Mostly forages while the others guard the cargo.                                                       |
+| Harb Oslund | Veteran | 4   | 3   | 2     | 4     | No call name. Answers to Old Harb. Been in the family fighting tradition longer than the current company arrangement has existed.              |
+| Ela Svenk   | Common  | 3   | 4   | 1     | 3     | Married in two years ago. Still learning dwarf-traditional conflict resolution, which takes longer than human-traditional conflict resolution. |
+| Torv Svenk  | Common  | 3   | 3   | 1     | 3     | Ela's younger brother, who followed her rather than go back. Durn considers him provisional. Harb thinks he'll hold.                           |
+
+---
+
+### Current Status
+
+Six days into an escort contract — carrying a merchant's goods through a contested hex toward the trading village of Klondervale to the east. The trade route collapsed in one section by a washed-out track; the company is moving around it and running behind schedule. The merchant is aware and is attempting to renegotiate the delivery terms. Durn has not agreed to renegotiate.
+
+The merchant has been with the company for six days. He has spent some of that time near the supply chest.
+
+---
+
+### Bounties
+
+**On the company:** None.
+
+**Posted by the company:** None.
+
+---
+
+### Relations
+
+**The Gristle's Band** — friendly, functional. The Oslunds and the Gristle's dwarves have shared a camp road twice. Durn approves of a band that keeps its edge sharp on the march. Petter considers the Oslunds reliable in a way that is infrequent enough to be worth noting.
+
+**All others** — neutral or unknown.
+
+---
+
+### Hoard
+
+Dwarves do not bury coin loose under rocks. The Oslunds use a false bottom.
+
+**The supply chest, lower cavity** — a second floor of hardwood concealed by a fitted panel, detectable with a SPOT difficulty 4 check. Durn and Petra are the only two people who know it exists:
+
+- **41 silver** in mixed coin and three trade-weight ingots of refined tin (each worth 4 silver to a metalworker — impractical for daily exchange, dense, and a legitimate storage material that Harb considers perfectly sensible)
+- **A rough amethyst** — uncut, thumb-sized, worth 8 silver to a jeweler, 3 silver to anyone else
+- **A polished garnet** — cut and set in plain iron, a former employer's payment-in-kind; worth 14 silver as a piece, more if the iron setting is replaced
+- **A raw smoky quartz** — large, still attached to its matrix. Worth 4 silver for the stone, another 2 silver for the matrix to the right buyer. Worth nothing to someone who does not know what they are holding.
+- **The amber-and-bronze piece** — a palm-sized amber cabochon in a worked bronze mount, distinctive and old. The merchant being escorted paid for a different escort three years ago, from a company that no longer exists. Several items went missing in that contract. He has been quietly looking for this one since. It is worth 18 silver on the legitimate market. It is worth a grievance to the merchant. He has not yet been near enough to the right chest to see it.
+- **A small clay-sealed tin** containing a full set of dwarf-tradition metalwork tools — punches, gauges, a specific profile of forming hammer. Worth 7 silver to a dwarf smith, 1 silver to anyone else.
+- **The clan bond document** rolled in Old Oslic script, stored at the very bottom, wrapped in linen — the founding terms of the debt Durn intends to repay, the original amount expressed in historical units, the creditor clan's formal name, and a statement that if the debt is not settled within the current generation, it passes to the next by clan law. Durn updates it after each contract that increases the payment fund. The current addition is written in the margin in a different ink.
+
+SURVIVAL difficulty 4 for the false bottom; SPOT difficulty 4 if examining the chest directly.
+
+---
+
+### Internal Tensions
+
+Harb and Ela disagree on the current route decision. Harb believes the correct response to a collapsed track is to stop and repair it — two days of work, then a direct route. Ela believes they should push through the alternative path regardless of the schedule cost. Both have made their case to Petra. Durn has not yet ruled on it, which means both are still lobbying. This is taking slightly too long. Durn knows it is taking too long and is performing the full traditional deliberation anyway because to shorten it would be to admit that speed matters more than process, which he does not believe.
+
+---
+
+### GM Hook
+
+The merchant has identified the chest he needs to be near. He has not opened it, has not made a move, and has not said anything to the company. He is waiting for a moment when he can look without being seen. What he does not know: Petra has already noticed that he is watching the chest with unusual attention. She has told Durn. Durn has decided to wait and see what the merchant does before confronting him, which is correct and maddening.
+
+---
+
+## Cross-Reference: Band Relations Summary
+
+| BAND             | ALLIES                        | HOSTILE                  | RELATED (indirect)                                         |
+| ---------------- | ----------------------------- | ------------------------ | ---------------------------------------------------------- |
+| Mourning Company | Bone Pack (blood oath)        | Three Wolves             | —                                                          |
+| Saltmarch Rovers | —                             | —                        | Gristle's Band (by sight)                                  |
+| Three Wolves     | —                             | Mourning Company         | Cold Company (same contracts), Pale Company (shared fence) |
+| Pale Company     | —                             | —                        | Three Wolves (shared fence)                                |
+| Gristle's Band   | Salt Brothers (friendly)      | Three Wolves (contempt)  | Mourning Co (respect), Cold Company (mutual respect)       |
+| Cold Company     | —                             | Bone Pack (3 skirmishes) | Gristle's Band (respect), Three Wolves (same contracts)    |
+| Bone Pack        | Mourning Company (blood oath) | Cold Company             | —                                                          |
+| Salt Brothers    | Gristle's Band                | —                        | —                                                          |
+
+---
+
+## Cross-Reference: Active Bounties
+
+| TARGET                          | AMOUNT    | POSTED BY               | LOCATION                      | NOTES                                                                           |
+| ------------------------------- | --------- | ----------------------- | ----------------------------- | ------------------------------------------------------------------------------- |
+| Gruv the One-Armed (orc shaman) | 4 silver  | Pell / Mourning Company | Ashmill and Hollowford        | Pell's private vendetta; the shaman is currently contracted to the Three Wolves |
+| Hadric the Younger              | 15 silver | Merchant factor         | Vond, 4 hexes east            | Regional spread; known to bounty hunters in the area                            |
+| Fang / Bone Pack                | 5 silver  | Innkeeper's cousin      | Trading settlement 2 hexes NW | On Fang specifically; fire in inn the pack did not stop                         |
+| Ghost / Pale Company            | 7 silver  | Innkeeper's brother     | Settlement 4 hexes west       | On Ghost specifically; fire during "bandit clearing"                            |
+| Petter / Gristle's Band         | —         | —                       | —                             | No active bounties on the band                                                  |
+| Cold Company (whole band)       | 12 silver | Village council         | Lumra, 2 hexes south          | Posted two months ago; provisions taken under duress                            |

@@ -1,6 +1,6 @@
-# Premade Mercenary Bands
+## Appendix C: Premade Mercenary Bands
 
-Eight ready-to-run companies — two per archetype. Each includes Named Men with full stats, a named common roster, current situation, bounties, relations to other bands in this document, hoard, internal tensions, and a GM hook.
+Eight ready-to-run companies — two per archetype. Each includes Named Men with full stats, a named common roster, current situation, bounties, relations to other bands in this appendix, hoard, internal tensions, and a GM hook.
 
 These bands know each other only in the ways noted under **Relations**. The GM can place any combination of them in the same region.
 
@@ -32,8 +32,8 @@ Pell lost his mother, his two brothers, and a woman he had been considering aski
 | --- | --- | --- | --- |
 | 4   | 3   | 3   | 3   |
 
-**Skills:** MELEE 2, MANIPULATION 1, INSIGHT 1
-**Talents:** PAIN RESISTANT rank 2
+**Skills:** MELEE 2, ENDURANCE 2, SURVIVAL 2, MANIPULATION 1, INSIGHT 1
+**Talents:** PAIN RESISTANT rank 2, COMBAT EXPERIENCED rank 1
 **Armor:** Chainmail (4) | **Weapon:** Axe + shield
 **Trigger:** The company splits or is abandoned by its leader — any leader
 **Agenda:** Find and kill Gruv the One-Armed, the orc war-shaman who led the Greywood raid
@@ -49,8 +49,8 @@ Was a midwife in Greywood. Delivered fourteen children in seven years; attended 
 | --- | --- | --- | --- |
 | 3   | 4   | 3   | 2   |
 
-**Skills:** MELEE 2, HEALING 1, SURVIVAL 1
-**Talents:** KNIFE FIGHTER rank 1
+**Skills:** MELEE 2, HEALING 2, MOVE 2, SURVIVAL 1, STEALTH 1
+**Talents:** KNIFE FIGHTER rank 1, FEARLESS rank 1
 **Armor:** Leather (3) | **Weapon:** Short sword + knife
 **Trigger:** Ordered to harm children or the completely defenseless
 **Agenda:** Earn enough to establish a healer's post somewhere stable — she doesn't call it retirement
@@ -66,8 +66,8 @@ One of the oldest fighters in the company. Black-haired, still, settled. The nam
 | --- | --- | --- | --- |
 | 4   | 3   | 3   | 2   |
 
-**Skills:** MELEE 2, ENDURANCE 1, SURVIVAL 1
-**Talents:** PAIN RESISTANT rank 1
+**Skills:** MELEE 2, ENDURANCE 2, SCOUTING 2, SURVIVAL 1, INSIGHT 1
+**Talents:** PAIN RESISTANT rank 1, SHIELD FIGHTER rank 1
 **Armor:** Chainmail (4) | **Weapon:** Sword + shield
 **Trigger:** Consistently spoken of as ignorant or beneath notice
 **Agenda:** Live long enough to see Greywood rebuilt, even if he is not the one who builds it
@@ -172,8 +172,8 @@ Not his birth name. The company took it as their name before he took it as his o
 | --- | --- | --- | --- |
 | 5   | 3   | 3   | 2   |
 
-**Skills:** MELEE 2, SURVIVAL 1, ENDURANCE 1
-**Talents:** BRAWLER rank 1
+**Skills:** MELEE 2, ENDURANCE 2, MIGHT 2, SURVIVAL 1, SCOUTING 1
+**Talents:** BRAWLER rank 1, PAIN RESISTANT rank 1
 **Armor:** Leather (3) | **Weapon:** Handaxe + knife
 **Trigger:** Being treated as incapable of making decisions for the band
 **Agenda:** Find a piece of good land that isn't already claimed — by anyone
@@ -274,8 +274,8 @@ The youngest of three brothers, which he has never entirely forgiven. He is not 
 | --- | --- | --- | --- |
 | 5   | 3   | 4   | 3   |
 
-**Skills:** MELEE 3, MANIPULATION 2, INSIGHT 1
-**Talents:** SWORD FIGHTER rank 2, LEADER rank 1
+**Skills:** MELEE 3, ENDURANCE 3, MANIPULATION 2, INSIGHT 2, SCOUTING 2, SURVIVAL 1, MIGHT 1
+**Talents:** SWORD FIGHTER rank 2, FEARLESS rank 2, LEADER rank 1, COLD-BLOODED rank 1
 **Armor:** Chainmail (4) | **Weapon:** Sword + shield
 **Trigger:** Being laughed at or made visibly foolish in front of his men
 **Agenda:** Become a warchief with legitimate territorial claim; the company is the first step
@@ -291,8 +291,8 @@ The middle brother. The one the captain trusts least and relies on most. Varis i
 | --- | --- | --- | --- |
 | 4   | 5   | 4   | 2   |
 
-**Skills:** MELEE 3, STEALTH 1, SCOUTING 1, MARKSMANSHIP 1
-**Talents:** KNIFE FIGHTER rank 2, COLD-BLOODED rank 1
+**Skills:** MELEE 3, STEALTH 3, INSIGHT 2, MARKSMANSHIP 2, SCOUTING 2, MANIPULATION 1, MOVE 1
+**Talents:** KNIFE FIGHTER rank 2, COLD-BLOODED rank 1, LIGHTNING FAST rank 1, FAST SHOOTER rank 1
 **Armor:** Leather (3) | **Weapon:** Crossbow + two short swords
 **Trigger:** Being passed over in the captain's trust in favor of anyone outside the family
 **Agenda:** Secure the family's strategic position independently of whether the company survives — he is preparing an alternative
@@ -308,8 +308,8 @@ The eldest brother. Called Crane since childhood for a long neck that he has lea
 | --- | --- | --- | --- |
 | 5   | 3   | 2   | 2   |
 
-**Skills:** MELEE 2, MIGHT 1, ENDURANCE 1
-**Talents:** HEAVY WEAPON FIGHTER rank 2
+**Skills:** MELEE 2, MIGHT 2, ENDURANCE 2, SURVIVAL 1, MOVE 1
+**Talents:** HEAVY WEAPON FIGHTER rank 2, BERSERKER rank 1
 **Armor:** Chainmail (4) | **Weapon:** Maul
 **Trigger:** Being ordered to something that will look like cowardice in front of the company
 **Agenda:** To fight the largest, most dangerous thing he has not yet fought; everything else is secondary
@@ -325,7 +325,7 @@ Not a brother, not a cousin — an outsider Hadric brought in specifically. Merr
 | --- | --- | --- | --- |
 | 3   | 4   | 4   | 2   |
 
-**Skills:** MELEE 2, INSIGHT 1, MANIPULATION 1
+**Skills:** MELEE 2, INSIGHT 2, STEALTH 2, MANIPULATION 1, SCOUTING 1
 **Talents:** COLD-BLOODED rank 2, EXECUTIONER rank 1
 **Armor:** Leather (3) | **Weapon:** Short sword + knife
 **Trigger:** Being asked to do sloppy work — he has standards about the work
@@ -449,8 +449,8 @@ He says he has no call name. The men call him Winter when he is not present, for
 | --- | --- | --- | --- |
 | 5   | 3   | 4   | 3   |
 
-**Skills:** MELEE 3, MANIPULATION 1, INSIGHT 2
-**Talents:** COLD-BLOODED rank 2, FEARLESS rank 1
+**Skills:** MELEE 3, INSIGHT 3, ENDURANCE 2, MANIPULATION 2, SCOUTING 2, MIGHT 1, SURVIVAL 1
+**Talents:** COLD-BLOODED rank 2, SWORD FIGHTER rank 2, FEARLESS rank 1, COMBAT EXPERIENCED rank 1
 **Armor:** Chainmail (4) | **Weapon:** Long sword
 **Trigger:** Anyone who accurately predicts his next decision before he makes it
 **Agenda:** Decode the treasury documents from two contracts ago — some of the cipher he has cracked; the rest requires a resource he does not yet have
@@ -466,8 +466,8 @@ Guthar survived two previous captains who did not survive their own decisions, a
 | --- | --- | --- | --- |
 | 4   | 3   | 3   | 2   |
 
-**Skills:** MELEE 2, ENDURANCE 1, SCOUTING 1
-**Talents:** PAIN RESISTANT rank 2
+**Skills:** MELEE 2, ENDURANCE 2, SCOUTING 2, INSIGHT 1, SURVIVAL 1
+**Talents:** PAIN RESISTANT rank 2, COMBAT EXPERIENCED rank 1
 **Armor:** Chainmail (4) | **Weapon:** Axe + shield
 **Trigger:** Being given an order that feels like a test rather than a task
 **Agenda:** Verify that the captain is not planning to dissolve the company around him — he suspects this is the current contract's actual function
@@ -483,7 +483,7 @@ Ghost earned the name the obvious way: nobody hears Ghost until Ghost decides to
 | --- | --- | --- | --- |
 | 2   | 5   | 3   | 3   |
 
-**Skills:** MELEE 2, STEALTH 2, SCOUTING 1
+**Skills:** MELEE 2, MARKSMANSHIP 2, STEALTH 2, MOVE 1, SCOUTING 1
 **Talents:** KNIFE FIGHTER rank 2, LIGHTNING FAST rank 1
 **Armor:** Leather (3) | **Weapon:** Two knives + short bow
 **Trigger:** Being treated as a tool rather than a person — instruments don't get asked; people do
@@ -595,7 +595,7 @@ Pale-haired, tall, with the deliberate gait of a woman who has spent too many ye
 | 4   | 3   | 4   | 3   |
 
 **Skills:** MELEE 3, ENDURANCE 3, MIGHT 2, MOVE 2, MANIPULATION 1, INSIGHT 1
-**Talents:** PATH OF THE COMMANDER rank 2
+**Talents:** PATH OF THE COMMANDER rank 2, SWORD FIGHTER rank 1, COMBAT EXPERIENCED rank 1
 **Armor:** Studded leather (3) | **Weapon:** Longsword + contract ledger
 **Trigger:** Loss of control — being overruled or bypassed in front of the men
 **Agenda:** Keep the band alive through the current contract and the one after that; long-range planning is a luxury she cannot afford
@@ -612,7 +612,7 @@ Old soldier, thick through the neck, carries the ledger the way some men carry a
 | 4   | 2   | 4   | 3   |
 
 **Skills:** MELEE 4, ENDURANCE 3, MIGHT 3, MOVE 2, CRAFTING 1, INSIGHT 2, MANIPULATION 1
-**Talents:** PATH OF THE BLADE rank 2, EXECUTIONER rank 1, EDUCATED rank 1
+**Talents:** PATH OF THE BLADE rank 2, EXECUTIONER rank 1, EDUCATED rank 1, SWORD FIGHTER rank 1, FEARLESS rank 1
 **Armor:** Studded leather (3) | **Weapon:** Longsword + pay ledger
 **Trigger:** Incompetence from men who have been told once
 **Agenda:** Finish more contracts than he can count. He is close.
@@ -629,7 +629,7 @@ She came to them at a river crossing south of Ravenford with a staff taller than
 | 2   | 3   | 6   | 3   |
 
 **Skills:** LORE 3, INSIGHT 3, CRAFTING 2, MANIPULATION 2, SLEIGHT OF HAND 1, HEALING 1
-**Talents:** PSYCHIC POWER rank 1, PATH OF BLOOD rank 2
+**Talents:** PSYCHIC POWER rank 1, PATH OF BLOOD rank 2, EDUCATED rank 1, LIGHTNING FAST rank 1
 **Armor:** None | **Weapon:** Walking staff + knife
 **Trigger:** Being dismissed as less than the men with swords — she has seen what is behind the veil; they have not
 **Agenda:** The nosebleed the camp ward costs her every morning is getting worse. She has not told anyone.
@@ -646,7 +646,7 @@ Nine years at this. Knee that has been bad for six of them and will never be goo
 | 5   | 2   | 4   | 3   |
 
 **Skills:** MELEE 3, ENDURANCE 3, MIGHT 2, CRAFTING 3, SCOUTING 1
-**Talents:** TRUE GRIT rank 1, PATH OF THE BLADE rank 1, PAIN RESISTANT rank 1
+**Talents:** TRUE GRIT rank 1, PATH OF THE BLADE rank 1, PAIN RESISTANT rank 1, AXE FIGHTER rank 1, FIRM GRIP rank 1
 **Armor:** Studded leather (3) | **Weapon:** Handaxe + whetstone
 **Trigger:** Being offered pity; dwarves do not accept it
 **Agenda:** Pay Haldr's debt to Haldr's people. He will walk to Weatherstone when the current contract is done.
@@ -766,8 +766,8 @@ His left hand took frostbite in the second winter of the campaign. Three fingers
 | --- | --- | --- | --- |
 | 4   | 5   | 4   | 3   |
 
-**Skills:** MELEE 3, MARKSMANSHIP 1, SCOUTING 1, SURVIVAL 1
-**Talents:** FAST SHOOTER rank 2, LIGHTNING FAST rank 1
+**Skills:** MELEE 3, MARKSMANSHIP 3, MOVE 2, SCOUTING 2, SURVIVAL 2, ENDURANCE 1, INSIGHT 1
+**Talents:** FAST SHOOTER rank 2, COMBAT EXPERIENCED rank 2, LIGHTNING FAST rank 1, FEARLESS rank 1
 **Armor:** Leather with mail patches (3) | **Weapon:** Hand crossbow + sword
 **Trigger:** Being told by his own men that a cavalry approach won't work here — he already knows, it still lands wrong
 **Agenda:** Remount the company — 12 horses minimum; has a supplier who will deal when the coin is there
@@ -783,8 +783,8 @@ Named because someone once said the safest place in any engagement is under Boot
 | --- | --- | --- | --- |
 | 5   | 3   | 3   | 2   |
 
-**Skills:** MELEE 2, MIGHT 1, ENDURANCE 1
-**Talents:** HEAVY WEAPON FIGHTER rank 2
+**Skills:** MELEE 2, MIGHT 2, ENDURANCE 2, SURVIVAL 1, MOVE 1
+**Talents:** HEAVY WEAPON FIGHTER rank 2, FEARLESS rank 1
 **Armor:** Chainmail (4) | **Weapon:** Great axe
 **Trigger:** Being asked to act carefully when acting quickly and decisively would solve the same problem more permanently
 **Agenda:** None formal — stays because the work is here and good enough
@@ -800,8 +800,8 @@ Everything he does is precise and complete. His unit of ten is the best-maintain
 | --- | --- | --- | --- |
 | 4   | 3   | 4   | 2   |
 
-**Skills:** MELEE 2, SCOUTING 1, INSIGHT 1
-**Talents:** COMBAT EXPERIENCED rank 2
+**Skills:** MELEE 2, INSIGHT 2, SCOUTING 2, ENDURANCE 1, SURVIVAL 1
+**Talents:** COMBAT EXPERIENCED rank 2, DEFENDER rank 1
 **Armor:** Chainmail (4) | **Weapon:** Sword + shield
 **Trigger:** An incomplete patrol — he goes back
 **Agenda:** Identify and resolve who ended the previous campaign and how; he has a theory; it involves someone who is not dead
@@ -927,8 +927,8 @@ Sura took elder standing when the original dominant pair died — not through ch
 | --- | --- | --- | --- |
 | 5   | 3   | 3   | 4   |
 
-**Skills:** MELEE 3, MANIPULATION 1, INSIGHT 2
-**Talents:** FEARLESS rank 2, DEFENDER rank 1
+**Skills:** MELEE 3, INSIGHT 3, ENDURANCE 2, MANIPULATION 2, SURVIVAL 2, MIGHT 1, SCOUTING 1
+**Talents:** FEARLESS rank 2, PAIN RESISTANT rank 2, DEFENDER rank 1, COMBAT EXPERIENCED rank 1
 **Armor:** None (natural Armor 2) | **Weapon:** Short spear + claws
 **Trigger:** A pack member being harmed by someone the pack was contracted to protect — not enemies, the employer's side
 **Agenda:** Recover the denning-ground; the legal question is the current problem; violence may not be the correct resolution
@@ -944,8 +944,8 @@ A use-name that became the only name. Fast enough that it functions as an accura
 | --- | --- | --- | --- |
 | 3   | 5   | 3   | 2   |
 
-**Skills:** MELEE 2, STEALTH 1, SCOUTING 2
-**Talents:** LIGHTNING FAST rank 1
+**Skills:** MELEE 2, MOVE 2, SCOUTING 2, STEALTH 2, SURVIVAL 1
+**Talents:** LIGHTNING FAST rank 1, KNIFE FIGHTER rank 1
 **Armor:** None (Armor 2) | **Weapon:** Short sword + claws
 **Trigger:** Being made the pack's expendable without the pack having discussed it
 **Agenda:** Close the 5-silver bounty without creating a worse situation
@@ -961,8 +961,8 @@ A human man vouched into the pack seven years ago. The name came from a straight
 | --- | --- | --- | --- |
 | 3   | 4   | 4   | 3   |
 
-**Skills:** MELEE 2, SCOUTING 1, MANIPULATION 1, SURVIVAL 1
-**Talents:** KNIFE FIGHTER rank 1
+**Skills:** MELEE 2, INSIGHT 2, MANIPULATION 2, SCOUTING 1, SURVIVAL 1
+**Talents:** KNIFE FIGHTER rank 1, COMBAT EXPERIENCED rank 1
 **Armor:** Leather (3) | **Weapon:** Short sword + two knives
 **Trigger:** Being asked to stop asking a question that matters
 **Agenda:** Determine precisely why the denning-ground was taken and who made the specific decision — he does not believe it was simple opportunism
@@ -1073,8 +1073,8 @@ Called Goat because he climbs anything and eats anything, and because the assess
 | --- | --- | --- | --- |
 | 5   | 4   | 3   | 2   |
 
-**Skills:** MELEE 2, ENDURANCE 2, MIGHT 1
-**Talents:** HEAVY WEAPON FIGHTER rank 1
+**Skills:** MELEE 2, ENDURANCE 2, MIGHT 2, SURVIVAL 2, MOVE 1
+**Talents:** HEAVY WEAPON FIGHTER rank 1, PAIN RESISTANT rank 1
 **Armor:** Chainmail (4) | **Weapon:** War hammer
 **Trigger:** The clan's honor being questioned by outsiders who have not earned standing to question it
 **Agenda:** Repay a specific debt the clan holds before the season closes; the Old Oslic interest rate is non-negotiable
@@ -1090,8 +1090,8 @@ Her name is the married-in name; she took it when she married an Oslund who died
 | --- | --- | --- | --- |
 | 3   | 4   | 4   | 3   |
 
-**Skills:** MELEE 2, SCOUTING 1, MANIPULATION 1, ANIMAL HANDLING 1
-**Talents:** KNIFE FIGHTER rank 1
+**Skills:** MELEE 2, MARKSMANSHIP 2, SCOUTING 2, ANIMAL HANDLING 1, MANIPULATION 1
+**Talents:** KNIFE FIGHTER rank 1, FAST SHOOTER rank 1
 **Armor:** Leather (3) | **Weapon:** Short sword + crossbow
 **Trigger:** Being given responsibility without the authority to match it — she manages the men, Durn makes the calls; fine usually, a problem when Durn is wrong
 **Agenda:** Find out whether her sister, who traveled north two years ago, is alive or dead
