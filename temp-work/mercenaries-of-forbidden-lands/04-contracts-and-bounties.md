@@ -99,6 +99,8 @@ Track **Allegiance** (0–4) per significant employer.
 
 Allegiance 3 is a commitment the employer also carries. If they ask the band to act against the band's clear interest — destroy a settlement where the band holds Standing, contravene a Named Man's Trigger — the band may refuse and hold Allegiance 3 without penalty. Allegiance 4 has no such buffer: sworn service means the employer's wars are the band's wars until the oath ends.
 
+**Allegiance decay.** Every half-year (two full seasons) with no contact — no contract, no audience, no exchange of messages — Allegiance drops by 1. The decay stops at two steps below the highest level reached: Allegiance 3 decays no lower than 1, Allegiance 4 no lower than 2. The employer remembers the band's best work, but the door cools. Resuming contact does not restore what decayed — the band must earn future increases the normal way.
+
 > **Example — The Sworn Trap**
 >
 > The band has worked three seasons for Warchief Ordovast. Allegiance 3 (Retained). Ordovast's name deflects trouble. His settlements supply the band at cost. The relationship works.
@@ -169,7 +171,7 @@ A contract is a job with defined terms, a named employer, and a coin figure. Acc
 
 **Caster contract access.** A band with a caster attracts work that a non-caster band would not be offered. The caster premium is not a percentage on the same patrol — it is access to a higher-value job category.
 
-**Protection season (garrison mode):** The employer pays to have the band present — nothing more. The fee covers retainer wages for the quarter. Food is on the band. The employer does not board them, does not supply them, and the contract price does not include a margin. The contract makes sense when the band can forage well in the territory, when no better work is available, or when building Allegiance with a powerful employer is worth trading away three months of margin. Protection season is not a profit contract. It is a holding arrangement.
+**Protection season (garrison mode):** The employer pays to have the band present — nothing more. The fee covers retainer wages for the quarter. Food is on the band. The employer does not board them, does not supply them, and the contract price does not include a margin. The contract makes sense when the band can forage well in the territory, when no better work is available, or when building Allegiance with a powerful employer is worth trading away three months of margin. Protection season is not a profit contract. It is a holding arrangement. At Allegiance 3 or higher, the employer cannot demand action against the band's clear interest without triggering the safety clause above.
 
 **Combat call-up:** When a real threat materializes during the protection season — a bandit raid, a monster attack — the captain invoices mission pay for each day the band is actually engaged. This is not included in the base fee. An employer who thought they were buying three months of calm at low price will feel those invoices. A captain who thought protection was easy money will feel the lean months when the territory stays quiet.
 
@@ -482,11 +484,12 @@ Word reaches the fellowship by several routes: a survivor who knows the hex but 
 
 The seeker must know the exact hex. From there, finding the hoard is a grinding search.
 
-- The seeker must make a number of _consecutive_ successful SCOUTING rolls equal to the hoard's level, each at that level's difficulty.
-- Each attempt takes one full Quarter Day.
-- A failure ends the run. The count resets to zero.
+- The seeker rolls SCOUTING once per Quarter Day at the hoard's finder difficulty.
+- They must accumulate successful rolls equal to the hoard level. A hoard at level 3 requires three successes.
+- Failures do not reset the count — they cost the Quarter Day and nothing else.
+- A level 3 hoard in open country may take three Quarter Days. The same hoard in dense terrain, with bad weather and interruptions, may take six or more.
 
-Without a marker, this is deliberately near-impossible. It is not meant to be a routine search.
+Without a marker, this is slow and uncertain. It is not meant to be a routine search.
 
 **With a marker (hex and terrain feature):**
 
@@ -505,7 +508,7 @@ What a dead band's hoard contains is up to the GM. Some captains buried coin and
 >
 > Petter has been sharpening things that do not need sharpening for the better part of two days. On the third morning, before anyone else stirs, he walks half a mile east of the camp to a riverbank where a particular stone sits flush against the waterline. He digs with his hands. He buries four silver, a knife with a pattern in the handle that is not Ravenland work, and a small leather roll of debts — names and figures in a hand that is not his.
 >
-> He makes a SURVIVAL roll with his WIT of 4 and SURVIVAL 1. He rolls the dice: two swords. That is a Level 3 hoard — well hidden. Anyone who does not know the specific stone at the specific bend would need three consecutive SCOUTING rolls at difficulty 3 to find it.
+> He makes a SURVIVAL roll with his WIT of 4 and SURVIVAL 1. He rolls the dice: two swords. That is a Level 3 hoard — well hidden. Anyone who does not know the specific stone at the specific bend would need three successful SCOUTING rolls at difficulty 3 to find it, each costing a Quarter Day.
 >
 > He does not tell the Gristle. He does not tell Hargamar. He walks back to camp and sharpens a handaxe that was already sharp.
 

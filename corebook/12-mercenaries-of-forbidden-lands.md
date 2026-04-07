@@ -1,6 +1,4 @@
-<!-- markdownlint-disable MD013 -->
-
-# Mercenaries of the Forbidden Lands
+the is# Mercenaries of the Forbidden Lands
 
 > _She counted heads at the ford and came up one short. The river had not taken him — the river was knee-deep and slow, the kind of crossing that kills no one. She turned in the saddle, scanning the column, and Gest met her eye from the rear guard and held up five fingers. Five where there should have been six._
 >
@@ -20,11 +18,13 @@ This chapter gives you the rules to raise that band, feed it, pay it, march it i
 
 The rules build in order. The first sections teach what a band is and how to keep it alive. The middle sections teach how it earns and what it costs. The later sections introduce the people who make the band something more than a payroll, and the consequences that follow when the band becomes something the Ravenlands cannot ignore.
 
-A party of adventurers can clear a dungeon, kill a monster, and walk home with whatever they found. A mercenary band can hold a road, break a siege, and change who controls a hex for the rest of the season. The scale is different. The problems are different. The rewards last longer and the failures are harder to walk away from.
+A party of adventurers can clear a dungeon, kill a monster, and walk home with whatever they found. A mercenary band can hold a road, break a siege, and change who controls a stretch of road for the rest of the season. The scale is different. The problems are different. The rewards last longer and the failures are harder to walk away from.
 
 You do not need this chapter to play Forbidden Lands. You need it if you want the weight of command — the daily grind of mouths to feed, wages to scrape together, and men who will follow you as long as the arithmetic works, and not one day longer.
 
 ---
+
+> **Reputation** is the fellowship's overall renown across the Ravenlands — a number from the **JOURNEYS** chapter. **Standing** is the fellowship's relationship with a specific settlement — tracked per settlement. This chapter uses both. When the text says "Reputation," it means the number. When it says "Standing," it means the settlement-specific score. When the text says "reputation" in lowercase, it means the word — what people say about the band.
 
 ## The Band
 
@@ -44,7 +44,7 @@ A mercenary band requires three things:
 - A **leader** — the PC whose Reputation and MANIPULATION anchor the group
 - A minimum of **3 fighters** beyond the fellowship
 
-There is no maximum size. There is only what you can feed. Twenty men in a hex with poor hunting is a problem. Paying twenty men while the job falls through is a worse one.
+There is no maximum size. There is only what you can feed. Twenty men in barren country with poor hunting is a problem. Paying twenty men while the job falls through is a worse one.
 
 The band's roster is tracked separately from the stronghold hireling sheet. Men in the stronghold are guards. Men in the field under a contract are the band.
 
@@ -56,6 +56,8 @@ The band's roster is tracked separately from the stronghold hireling sheet. Men 
 | Warband     | 7–20                    | A real force. Villages take notice. Contracts get serious.                       |
 | Company     | 21–50                   | Needs dedicated logistics. A name people know or fear.                           |
 | Host        | 51+                     | Requires stronghold-level supply. Two Quarter Days of logistics per day minimum. |
+
+**Transition.** When a Warband crosses 15–20 fighters, the GM should flag the shift: the band now needs a second sergeant, a supply line, and a named logistics role. If the band crosses 20 without appointing a second sergeant and establishing a supply arrangement, MORALE checks take +1 difficulty until the structure catches up. The transition to Company tier is not automatic — it is a decision the captain makes and the band pays for.
 
 > **The Host: Multiple Bands Under One Banner**
 >
@@ -85,25 +87,39 @@ MORALE is a single score from 1 to 5 tracked for the whole band. It is not a cha
 
 **One or the other.** A late payment produces the automatic −1 trigger. It does not also produce a MORALE check. Where the Atrocities section specifically calls for a check after an atrocity causing a score change, both apply in sequence — the score drops from the trigger first, then the leader rolls the check.
 
-**Voluntary check.** The captain may call a MORALE check once per week, at the cost of one Quarter Day. The captain addresses the assembled men. Difficulty is set by the single most severe active grievance — the captain cannot choose a lesser one. On success, that grievance is cleared. On failure, nothing changes and the attempt is noted.
+**Voluntary check.** The captain may call a MORALE check once per week, at the cost of one Quarter Day. The captain addresses the assembled men. Difficulty is set by the single most severe active grievance — the captain cannot choose a lesser one. On success, that grievance is cleared; each extra sword beyond the difficulty clears one additional grievance of equal or lower difficulty. On failure, nothing changes and the attempt is noted.
 
 **Grievance Difficulty:**
 
 | GRIEVANCE                                  | DIFFICULTY |
 | ------------------------------------------ | ---------- |
-| Late wages, 7 or fewer days                | 1          |
+| Late wages (any duration)                  | 1          |
 | Named Man killed in action                 | 1          |
-| Atrocity ordered, plunder distributed      | 2          |
-| Late wages, 8–14 days                      | 2          |
-| Mission pay unpaid 3+ days                 | 2          |
+| Mission pay unpaid 3+ days                 | 1          |
+| Atrocity ordered, plunder distributed      | 1          |
 | Atrocity ordered, no plunder               | 2          |
-| Retainer unpaid 15+ days                   | 3          |
-| Contract broken through captain's decision | 3          |
-| Fellowship abandoned the band              | 3          |
+| Contract broken through captain's decision | 2          |
+| Fellowship abandoned the band              | 2          |
 
-**Stacking.** Take the highest single grievance's difficulty, then add 1 for each additional active grievance beyond the first. Cap at 4.
+Most grievances sit at difficulty 1. The worst — broken contracts, abandonment, atrocities that gained nothing — start at difficulty 2. Nothing begins higher than 2 from the event alone.
 
-**Clearing.** An addressed grievance is removed at the start of the following week. Addressing means the captain has taken a concrete action — paid the wages, publicly acknowledged the Named Man's loss, made restitution. An apology without action does not clear a grievance.
+**Escalation.** A badly handled Argument or Escalation (see Campaign Life) can push a grievance's difficulty up by 1 or even 2. That is how difficulty 3 and 4 grievances appear — not from the original event but from the captain's failure to contain what followed. A difficulty 1 grievance that sparks an Argument and then an unresolved Escalation can land at difficulty 3. The base event did not cause it. The captain's handling did.
+
+**Stacking.** Only the highest active grievance sets the difficulty. Multiple small grievances do not pile into a catastrophic number. Two active grievances at difficulty 1 still produce difficulty 1. Three or more grievances at the same difficulty increase the effective difficulty by 1 — three difficulty-1 grievances produce difficulty 2. Cap at 4.
+
+**Clearing on a check.** When the captain succeeds on a voluntary MORALE check, the highest grievance is cleared. If the roll produced extra swords beyond the difficulty, each extra sword clears one additional grievance of equal or lower difficulty, starting from the next-highest. A single strong roll can sweep the board.
+
+**Clearing by action.** An addressed grievance is removed at the start of the following week. Addressing means the captain has taken a concrete action — paid the wages, publicly acknowledged the Named Man's loss, made restitution. An apology without action does not clear a grievance.
+
+> **Example — The Voluntary Check**
+>
+> The Gristle's band is at MORALE 3 (Shaken). Three grievances are active: a broken contract from the botched Ashridge job (difficulty 2), Haldr killed in action last week (difficulty 1), and a wet miserable march with no contract news (difficulty 1). The difficulty is set by the worst grievance — the broken contract at 2. The two additional difficulty-1 grievances do not increase the difficulty further because they are lower than the lead grievance; it would take three of them at the same level to push up by 1.
+>
+> The Gristle has taken a new contract. She calls the men to the fire. She tells them plainly that the Ashridge job failed and what she will do differently. Then she says Haldr's name and says what he did at the cave mouth and gives his boots to Skalva, who needed boots.
+>
+> She rolls MANIPULATION: three base dice, one skill die. Three swords. Difficulty is 2. She succeeds with one extra sword. The first success clears the worst grievance — the broken contract. The extra sword clears one additional grievance of equal or lower difficulty: Haldr's death, difficulty 1, is cleared. The remaining grievance — the wet march, difficulty 1 — stays active, but the teeth are gone. Two out of three grievances swept in one address.
+>
+> MORALE holds at 3. The men heard her speak and watched the dice land and what they saw was a captain who owned the failure, who said the dead man's name, and who rolled well enough to make it stick. The -1 MELEE penalty stays until MORALE rises, but the band walks into the next contract with one grievance instead of three. If the Gristle had rolled only two swords — just meeting the difficulty — only the broken contract would have cleared. The extra sword is what bought the second.
 
 **Starting MORALE.** A fresh band recruited from a single settlement begins at 3. After a successful first engagement and receiving promised pay, it rises to 4.
 
@@ -124,9 +140,21 @@ These change MORALE at the end of each week.
 | Fellowship abandoned the band in danger          | -2                                               |
 | Named Man killed                                 | -1                                               |
 
-**Net movement cap.** All applicable triggers fire each week, ranked by severity (largest modifier first). The score stops moving after a net change of 3 in either direction. Remaining triggers do not adjust the score but are recorded as active grievances — they feed MORALE check difficulty and are visible to the captain.
+**Net movement cap.** All applicable triggers fire each week, ranked by severity (largest modifier first). The score stops moving after a net change of 2 in either direction. Remaining triggers do not adjust the score but are recorded as active grievances — they feed MORALE check difficulty and are visible to the captain. Three or more unresolved triggers at the same level compound into one grievance one step worse.
 
 **Floor.** MORALE cannot drop below 1 through trigger applications alone. A trigger that would push MORALE to 0 or below holds the band at MORALE 1. Band dissolution is a MORALE check failure at MORALE 1 during an engagement, not a trigger outcome. The captain still faces the BROKEN check if an engagement fires before a positive trigger arrives.
+
+> **Example — Triggers in a Bad Week**
+>
+> The band starts the week at MORALE 4 (Steady). Three events fire: they win an engagement with light casualties (+1), a Named Man is killed in the same fight (-1), and wages are now four days late (-1). Net change: -1. MORALE drops to 3.
+>
+> The Named Man's death and the late wages each register as a difficulty 1 grievance. Two difficulty-1 grievances do not stack — the check difficulty is still 1, set by the worst. The captain can clear both at a voluntary check if she rolls one extra sword beyond the difficulty.
+>
+> Now consider a worse week. Same three events, plus the captain breaks the contract (-2). Total triggers: +1, -1, -1, -2 = net -3, but the cap is 2. MORALE 4 drops to 2 (Wavering), not 1. The remaining -1 that would have pushed to BROKEN does not fire — instead it is recorded as an active grievance.
+>
+> The broken contract registers as a difficulty 2 grievance. The Named Man's death and the late wages are each difficulty 1. The capped trigger — the excess that did not move the score — also sits as a difficulty 1 grievance from the event that produced it. The captain now sits at WAVERING with a difficulty 2 grievance and three unresolved difficulty-1 grievances. Three of a kind at the same level: they compound to a difficulty 2 grievance. Two difficulty-2 grievances do not stack further — the check difficulty is 2, set by the worst.
+>
+> Bad, not catastrophic. The band dropped two steps in a week. The captain still has room to act — a voluntary check at difficulty 2 with extra swords can sweep several grievances. If she pays the wages and wins the next engagement, the positive triggers can claw back toward Steady. A single disastrous week hurts, but does not end the band.
 
 **Ceiling.** MORALE cannot exceed 5. Positive triggers earned above the ceiling are lost.
 
@@ -172,9 +200,9 @@ A band's origin shapes how it recruits, how it holds together, and what breaks i
 
 > **Example — The First Week**
 >
-> The Gristle's band forms outside Weatherstone in late spring. She has three fighters from a dead captain's outfit, plus the fellowship. She needs at least three more to take the road north where the contracts are. She rolls MANIPULATION in Weatherstone — a village, D6 potential recruits — and gets three swords: two ⚔️ on the roll, so she gets to pick from what is available. She takes Brosa, who has good shoulders and no record, and Skalva, who is small and careful and checks everything twice.
+> The Gristle's band forms outside Weatherstone in late spring. She has Gest as sergeant and three fighters from a dead captain's outfit. She needs more to take the road north where the contracts are. She rolls MANIPULATION in Weatherstone — a village, D6 potential recruits — and gets three swords: two ⚔️ on the roll, so she gets to pick from what is available. She takes Brosa, who has good shoulders and no record, and Skalva, who is small and careful and checks everything twice.
 >
-> Five fighters beyond the fellowship. That puts the band at **Skirmisher** tier (3–6 men). Starting MORALE is **3** — a fresh band, recruited from one settlement.
+> Six men under her command. That puts the band at **Skirmisher** tier (3–6 men). Starting MORALE is **3** — a fresh band, recruited from one settlement.
 >
 > The first job comes two days later. A merchant at the crossroads inn wants an escort to Falcon's Ridge — five days, 80 silver on arrival. The band takes it. On day three the road turns sour. A bandit crew holds the ford. The Gristle calls the line. Petter goes forward with his axe. Gest calls Brosa into position. Brosa punches with his shield instead of holding, surges forward when the line calls hold. The bandits scatter after the first man falls. Nobody in the band takes anything worse than a bruise.
 >
@@ -232,7 +260,7 @@ This applies even if the band has changed hands. The men are gone regardless of 
 
 A band need not be uniform. A warband of 10 might include 6 Commons, 3 Veterans, and 1 Elite who serves as the sergeant.
 
-The stats above are for anonymous fighters. Any Veteran or Elite who becomes a Named Man uses the full character build in the Named Men section, which adds WIT, EMP, individual skill distribution, and talents.
+The stats above are for Common fighters — the rank and file who do not have individual names, triggers, or agendas. Throughout this chapter, "Common fighter" and "the men" refer to this tier. Any Veteran or Elite who becomes a Named Man uses the full character build in the Named Men section, which adds WIT, EMP, individual skill distribution, and talents.
 
 ### Kin and Recruitment
 
@@ -250,6 +278,14 @@ Most fighters in the Ravenlands are human. The others are not impossible to find
 | Goblin   | Common Only          | Available at Common tier only. Half the standard salary. Useful as scouts and flankers; will not hold a palisade under direct assault.                                         |
 
 These modifiers apply to the settlement recruitment roll only — the MANIPULATION roll. They are not permanent attribute adjustments.
+
+> **Example — The Halfling Recruit**
+>
+> The Gristle hires a halfling named Allec at a crossroads inn south of Belifar. He is short, pale, and carries a sling he says he has used on men, which nobody believes until he demonstrates. He signs at standard terms and asks for an advance, which the Gristle declines, which he accepts without argument.
+>
+> Allec eats with whoever will have him. He sleeps near the fire with his pack under his head. Petter watches him the way he watches anything new — without expression, for three days straight. Brosa asks Skalva whether halflings steal. Skalva tells him not to ask that where Ferrec can hear it.
+>
+> By the second week Allec is scouting the column's flank and reporting back with a precision the human fighters find mildly irritating. He is small enough to move where the column's larger men cannot, quiet enough that the sentries have stopped flinching at sounds from the brush, and careful enough that the Gristle has begun to rely on his count without checking it. He does not complain about the food, the march, or the pay. He complains about the mud, constantly, which the men have decided is tolerable.
 
 ### Advance Payment
 
@@ -281,7 +317,7 @@ What counts as mission pay: running a search party, building or reinforcing defe
 
 What does not count: travel to or from the contract site, resting in camp between operations, waiting on an employer's orders with no assigned task.
 
-Leaders define that boundary. Call the work started too early and the treasury bleeds before the job is done. Call it too late and men who marched hard and dug ditches in the rain will notice the ledger. The band's morale will answer for either error.
+Leaders define that boundary. Call the work started too early and the treasury bleeds before the job is done. Call it too late and men who marched hard and dug ditches in the rain will notice the ledger. The band's MORALE will answer for either error.
 
 If a contract is breached or abandoned, mission pay ceases on the breach date and the band reverts to retainer.
 
@@ -318,6 +354,16 @@ Roll D6 on the windfall table when:
 | 6   | Something extraordinary: an object of significant value, a debt letter, intelligence, or a rare item. GM determines value (80–250 silver equivalent). |
 
 Windfall events are rare. A band running three or four contracts a month might see one every few weeks. When it happens it covers wages. Players will remember the moments. Do not inflate the frequency to soften the model.
+
+> **Example — The Captive in the Cellar**
+>
+> The band clears a fortified farmstead held by outlaws. The GM rolls D6 for windfall: a 5, followed by another 5. A captive of value — a grain merchant's son, bound in the cellar, dehydrated but alive.
+>
+> The merchant operates out of a town two hexes north. The boy is worth 80–120 silver in ransom. The contract employer — the local elder — paid 110 silver for the clearing job. The captive is worth as much as the entire contract.
+>
+> Three options sit on the table. Ransom the boy: send word to the merchant, hold the captive for a week, collect the silver. This costs 1 FOOD per day and a guard, and the merchant may send armed men instead of coin. Release the boy and escort him home: no silver, but the merchant remembers the name. Standing +1 at his town, and a grateful factor is worth future contracts. Hand the boy over to the contract employer: the elder has his own grievance with the merchant family, something about a debt and a burned granary. The elder will pay 30 silver for the boy and the Gristle will never know what happens next.
+>
+> Gest lays out the numbers. Petter says nothing. The boy watches them from the cellar floor with the expression of someone who has already learned that armed strangers make decisions about him, not with him.
 
 ### Loot Share
 
@@ -419,7 +465,7 @@ This output fills the band's daily FOOD requirement from the bottom up. Good ter
 >
 > Gest meets her at the evening fire on day three and shows her the count. Two days of stores left at this rate. She has three choices: turn back toward the forest where foraging covers the full need, push forward and bet on finishing the contract before the food runs out, or release more men from contract duties to forage — which means arriving at the target undermanned.
 >
-> She pushes forward. On day four Petter's foraging detail finds a deer track that yields 4 extra FOOD — the GM called for a SURVIVAL roll and Petter made it. The gap narrows. On day five they reach the target ruins and the GM rolls windfall: a 3. Useful goods in the cellar — grain stores worth 20 FOOD and 15 silver in pelts. The contract pays 160 silver on completion. The band eats tonight.
+> She pushes forward. On day four Petter's foraging detail finds a deer track that yields 4 extra FOOD — the GM called for a SURVIVAL roll and Petter made it. The gap narrows. On day five they reach the target ruins and the GM rolls windfall: a 6, then 3. Useful goods in the cellar — grain stores worth 20 FOOD and 15 silver in pelts. The contract pays 160 silver on completion. The band eats tonight.
 
 If a band goes unfed for a full day, every fighter suffers a CONDITION. A second day without food, they begin to desert independently of MORALE.
 
@@ -466,9 +512,27 @@ When the leader fails to pay the band on time:
 
 If the band has a BARRACKS or SHELTER back at the stronghold, apply the standard improved non-payment rule (roll twice, take the higher result) to that table only while fighters are at the stronghold. In the field, this table always applies.
 
+> **Example — The Sergeant at the Fire**
+>
+> Wages are eleven days late on retainer. The treasury has 4 silver — enough for two common fighters for a week, not sixteen men. On day fourteen the GM rolls D6 on the Field Non-Payment table: a 4. The sergeant confronts the leader publicly.
+>
+> Gest stands at the evening fire with his arms at his sides and puts the question to the Gristle plainly, loud enough for every man in camp to hear: the men are owed, the number is known, and what does the captain intend to tell them.
+>
+> The Gristle rolls MANIPULATION against difficulty 2. She has three dice in the pool. She rolls: one sword. She could push — re-roll the failures — but a pushed roll that fails in front of the assembled company would cost more than the MORALE point. She accepts the failure.
+>
+> MORALE drops by 1 — from 3 to 2 (Wavering). The −2 to band MELEE rolls now applies. Every man in the column fights worse because the captain could not pay them and could not convince them it would be worth the wait. The Stillmire contract is three days away. If they reach it and finish the job, the 110 silver covers everything owed plus a surplus. If they do not, the next roll on this table comes with the memory of tonight.
+
 **Payment in goods.** When silver is short but the goods inventory covers the gap, the captain may pay wages in goods from the inventory: grain, pelts, salvage, anything valued at the owed amount. In-kind payment satisfies the non-payment threshold — while the captain provides goods-payment each week, the FIELD NON-PAYMENT table does not fire.
 
 In-kind has its own cost curve. A second consecutive week of goods-payment triggers grumbling but no roll. A third consecutive week: the captain rolls MANIPULATION at difficulty 2. On failure, MORALE drops 1 step. On success, the men hold — but the difficulty increases by 1 for each additional consecutive week of goods-payment beyond the third, to a maximum of 4.
+
+> **Example — Pelts for Pay**
+>
+> The treasury is empty but the band took 40 silver worth of pelts from the last contract. The Gristle offers pelts as wages. In-kind payment — the non-payment timer resets. The men accept.
+>
+> Week two, still no silver. She offers grain. The men accept again, but Rask asks what he is supposed to do with twenty pounds of barley on a march. He has a point. Grain has value at a settlement. On the road it is weight.
+>
+> Week three, the captain rolls MANIPULATION at difficulty 1 (three weeks of goods-payment without silver). She succeeds. The men hold. But Gest warns her privately: the next in-kind offer had better come with a date for real coin, or the men will start spending the goods themselves — trading pelts to the next village they pass, pocketing the copper, and calling themselves paid. The ledger will not survive that.
 
 The two systems do not overlap. In-kind escalation governs what happens when the captain pays in goods. The FIELD NON-PAYMENT table governs what happens when the captain pays nothing. A week with no payment of any kind fires the non-payment table regardless of prior in-kind history.
 
@@ -477,18 +541,6 @@ The two systems do not overlap. In-kind escalation governs what happens when the
 > _The truth was something they all shared and none of them said aloud: they knew how to do this. They knew who the men around them were, which ones held and which ones ran, where the next meal was coming from and how far to the next village. That was a kind of certainty. Out there — past the contract, past the column, in whatever life they were supposedly saving toward — there was none._
 >
 > _The Ravenlands did not reward the man who stopped walking._
-
----
-
-> **The Ledger**
->
-> A warband of nine men costs between 17 and 20 silver a week just to stand still. That is retainer wages, no contracts, no food beyond what the land provides. Add food in lean terrain and the number climbs past 25. A town's seasonal tax revenue — if the harvest was good, if the merchants paid, if no one died or fled — might reach 200 silver in a year.
->
-> This is the first thing a mercenary captain learns that their men never ask about: the people who most need a warband are the ones who can never afford one. A hamlet with a monster in the woods, a village with a warlord's outriders burning their storehouses — these are exactly the people the contracts are written for, and exactly the people who have nothing to pay with.
->
-> A mercenary who discovers the lie faces a simple calculation. The coin is not there. The band is owed wages. The village has grain.
->
-> Adventurers fill the gap the market cannot. A party of four with no payroll can take a job a warband would refuse, accept payment a warband would never agree to, and walk away from an outcome a warband would not survive. The Ravenlands needs both. Warbands hold roads and break sieges. Adventurers go where no warband can go for wages any sane captain would refuse. The world runs on the difference.
 
 ---
 
@@ -564,6 +616,8 @@ The leader chooses whether to negotiate or threaten — use MANIPULATION or INTI
 
 **Pushing an INTIMIDATION roll** carries additional risk: if the push still fails, the band must either attack (Pillaging) or retreat with Standing -2 and Feud Track +1. The bluff has been called and everyone in the settlement saw it.
 
+Settlements that reach Feud Track 3 or 4 after INTIMIDATION tribute post better-paid bounties. The band is feared rather than merely resented, which makes killing or capturing its leaders worth more to rivals and warchiefs looking for reputation. Treat any bounty posted against an INTIMIDATION-tribute band as worth +20% over the standard rate.
+
 | SITUATION                                            | DIFFICULTY                 |
 | ---------------------------------------------------- | -------------------------- |
 | Band ≥2× settlement's fighters, Standing neutral     | 1                          |
@@ -586,7 +640,7 @@ The leader chooses whether to negotiate or threaten — use MANIPULATION or INTI
 
 **Named Man surrendered.** The settlement hands over its most capable fighter — a hunter-warrior, a returned soldier, a young man the elder would rather lose now than watch die in a fight the village cannot win. This person joins the band's roster at Veteran tier. If the elder convinced them it was better than the alternative, they start at loyalty 3. If handed over against their will, loyalty starts at 1 — they came because the elder sold them, and they will desert or inform against the band at the first credible opportunity unless the leader wins them over personally. Either way, the settlement loses that fighter permanently.
 
-> **Example:** The elder of Varbeck hands over a man called Galt — compact, a white scar below the ear, says nothing on the road north. He was not convinced. He was sold to keep the rest of the village housed through winter. His Loyalty starts at 1. He holds formation, reports accurately, eats what he is given. But when Pell fails to post a full watch on the third night, Galt counts the distance to the nearest tree line and says nothing about it to anyone.
+> **Example:** The elder of Varbeck hands over a man called Galt — compact, a white scar below the ear, says nothing on the road north. He was not convinced. He was sold to keep the rest of the village housed through winter. His Loyalty starts at 1. He holds formation, reports accurately, eats what he is given. But when the Gristle fails to post a full watch on the third night, Galt counts the distance to the nearest tree line and says nothing about it to anyone.
 
 Each extra sword on a **MANIPULATION** roll allows the leader to choose freely from the tribute table rather than rolling, or to name a specific item. With 3+ swords, the settlement complies without argument, up to what it actually has.
 
@@ -605,6 +659,16 @@ On a failure with MANIPULATION, the settlement refuses and Standing drops by 1. 
 
 Each repeat visit before the limit costs Standing and advances the Feud Track. Third demand and beyond causes neighboring settlements to hear. Fourth demand: Feud Track +2 per demand.
 
+**Reputation travels.** When a band depletes a settlement past its annual tribute limit, word spreads. Every settlement within two days' march hears about it within a season. Standing at those settlements drops by 1 even if the band has never visited them. A band that bleeds one village dry finds the next village's gates closed before they arrive.
+
+### Tribute as Standing
+
+A band that demands tribute and takes it is exactly the kind of force that settlements learn to either pay or destroy.
+
+- First successful tribute: Standing at this settlement drops by 1. The elder paid. They remember.
+- Second tribute (same year): Standing drops by 2. They are paying tribute now, not choosing to be generous.
+- Third tribute or forced payment: Standing drops to -3 or lower. This settlement is a tributary. It will accept help from anyone who offers to make the band stop.
+
 ### Settlement Decay
 
 A settlement bled past its annual tribute limit, pillaged, or occupied too long begins to fail.
@@ -614,11 +678,23 @@ A settlement bled past its annual tribute limit, pillaged, or occupied too long 
 | Town          | Large village | The warchief leaves with his household. Fighters drop. Trade halts. |
 | Large village | Village       | Half the families scatter. Available fighters halved.               |
 | Village       | Hamlet        | Most adults gone. Only the stubborn remain.                         |
-| Hamlet        | Deserted      | The last families leave or die. The hex becomes Ruins.              |
+| Hamlet        | Deserted      | The last families leave or die. The settlement becomes Ruins.       |
 
 A deserted settlement is a ruin. You can camp in the shells. No one is there to pay tribute, offer work, or sell information.
 
+Decay is permanent unless the GM runs active resettlement as part of play. A settlement that drops to Hamlet can recover to Village over two or more years if left completely alone and the band never returns. A deserted settlement requires an active colonization effort to rebuild — treat that as stronghold founding rules from the **STRONGHOLD** chapter.
+
+> **GM Note:** Settlement decay is permanent by design. The map should show the consequences of the band's choices. If a village was bled dry, that village stays broken. Do not quietly restore settlements between sessions — the empty hexes are the campaign's memory.
+
 The GM should track the current size of any settlement the band has touched. A map that shows villages the band turned into ruins is working as intended.
+
+> **Example — What the Band Left Behind**
+>
+> Last season the band occupied Thornwall, a large village. The occupation lasted three weeks before a rival force drove them out. Settlement Decay applies: Thornwall drops from Large Village to Village. Half the families scattered. The available fighters halved. The trade road that used to run through Thornwall now diverts north because the merchants heard what happened.
+>
+> This season, the band passes through the same ground on a different contract. The map says Large Village. The ground holds a village — smaller, quieter, with empty houses along the road and a palisade that nobody has maintained. The elder who met them last year is gone. The woman who replaced her will not open the gate.
+>
+> The settlement the band ruined is still there. It is just less.
 
 ### Pillaging
 
@@ -636,7 +712,7 @@ The GM should track the current size of any settlement the band has touched. A m
 >
 > _There was nothing to take. No tribute to negotiate. No stores to draw from. The village was bare. The Gristle left six days of the band's own food with the elder — more than she could afford, less than the village needed — and moved on. Some men looked back. Most did not._
 
-If the band takes what it wants without asking — or forces collection after a refused demand — this counts as an Atrocity (see Section 9). The Standing hit is immediate (-3 minimum at this settlement, -1 at settlements within rumor range). The Feud Track advances by 2 steps.
+If the band takes what it wants without asking — or forces collection after a refused demand — this counts as an Atrocity (see Section 10). The Standing hit is immediate (-3 minimum at this settlement, -1 at settlements within rumor range). The Feud Track advances by 2 steps.
 
 Food and goods taken this way cost nothing in coin but generate the Atrocity consequences. They do feed the band and fill the stores.
 
@@ -663,6 +739,8 @@ The band can occupy a settlement — plant its banner and stay, asserting author
 - Neighboring settlements within 2 hexes: Standing -1 once (when occupation is established)
 - Feud Track advances +1 at occupation start
 
+> **GM Note:** Occupation is a net loss in most scenarios. A village of sixty adults produces 1D6 silver per week under occupation — call it 3–4 silver on average. The detachment guarding it costs wages and food. The Standing damage spreads to neighboring hexes. The math works only when the band needs a fixed base more than it needs coin, or when it is holding the settlement for a patron who pays the real bill. If the players want to occupy a settlement, let them — and let the ledger show them what it costs.
+
 **Ending an occupation:**
 
 - The band leaves: occupation ends. Standing does not recover automatically.
@@ -670,6 +748,18 @@ The band can occupy a settlement — plant its banner and stay, asserting author
 - A rival force drives the band out: the rival inherits whatever goodwill the band destroyed.
 
 **Settlement drain.** A settlement that has been occupied and extracted from is weakened for one full season after the occupation ends. Its foraging yield drops by one column, its trade-goods output halves, and its recruitable population is treated as tapped. A second occupation within the same season reduces the settlement permanently by one size category.
+
+> **Example — Holding Marshgate**
+>
+> The band occupies Marshgate, a village of sixty adults. The Gristle leaves four fighters behind (2 per 10 adults = minimum 12, but she can only spare 4). Gest warns her the math does not work. She leaves them anyway.
+>
+> Week one: the occupation produces 4 silver in goods (1D6 roll). Standing at Marshgate drops to -1. Neighboring Fenwick hears about it — Standing there drops by 1.
+>
+> Week two: 2 silver in goods. Standing at Marshgate hits -2. The detachment reports that adults are slipping away at night. The four fighters cannot cover the roads.
+>
+> Week three: the Gristle pulls the detachment. The occupation collapses. Standing at Marshgate is -3 and will not recover without direct restitution. The settlement's foraging yield drops one column for the rest of the season. Its trade-goods output halves. The band took 6 silver in three weeks and left behind a village that will remember the name.
+>
+> If the band had stationed 12 fighters — the actual requirement — the occupation would hold. But 12 fighters left behind means 12 fighters not on the contract road. The captain who occupies a village is the captain who splits their force, and a split force is a reduced force at the next engagement.
 
 ### Feud and Resolution
 
@@ -697,6 +787,18 @@ At Feud Track 3 or 4, the opposing force becomes an active NPC faction. The GM n
 - Compensation paid (5× weekly tribute or more): -2 steps
 - Compensation paid publicly with a Named Man witnessing the oath not to return: -3 steps
 - A genuine service to the settlement (clearing a threat, returning a captive, defending against a third party): GM may reduce 1–2 steps
+
+> **Example — The Feud That Came Back**
+>
+> Two seasons ago the band demanded tribute from Ashwick, a village with twenty adults and a wooden gate. The elder refused. The captain pushed: INTIMIDATION instead of MANIPULATION. The roll succeeded. Tribute paid. Feud Track advanced to 1 (Resentful). Standing at adjacent settlements dropped by 1.
+>
+> Last season the band returned. Second tribute in the same year: Feud Track +1, now at 2 (Coordinating). The elder's son walked three days east and found a warchief named Odmar who had twelve swords and a grudge against anyone collecting on his side of the river.
+>
+> This season the band takes a patrol contract that passes through Ashwick's territory. The GM announces: Feud Track 3 (Armed). Odmar's twelve swords are camped a day south of Ashwick, and the elder's son is with them. They know the band's route because the elder knows which road the patrol contracts use.
+>
+> The band has options. Pay compensation — 5× the weekly tribute the band collected, roughly 60 silver. That drops the Feud by 2 steps. Send a Named Man to witness a public oath not to return: that drops it by 3. Clear the warchief's camp by force: that removes the immediate threat but advances the Feud to 4 (Vengeance), and the elder's son will post an area-wide bounty.
+>
+> The captain built this. Two tribute demands, two seasons apart, and now the road home runs through hostile ground. The system does not forgive. It accounts.
 
 ---
 
@@ -735,6 +837,14 @@ Public bounties and open patrol postings find the band on their own. Posted at i
 Private contracts — from warchiefs, trade consortium factors, fortified-settlement headmen, and similar people of actual force — do not post themselves. The employer controls the door. The band must either earn an introduction or arrive with enough standing that the employer has a reason to open it.
 
 **Winter scarcity.** Work thins between mid-autumn and early spring. Patrol and escort contracts drop sharply — fewer caravans move, harvests are long done, and employers hold coin close. Assault, raid, and clearing contracts remain available but each settlement posts roughly half the normal volume. Garrison and protection contracts are unaffected: an employer worried about winter raiders still wants a sword present. A band that locked in a protection season before the cold set in traded the chance at better-paying active contracts for the certainty of wages through the dead months. That trade is rational once. Made every year, it is a choice to stay poor.
+
+> **Example — The Winter Choice**
+>
+> First frost. The board at Hollowford shows two postings. A garrison contract at a fortified farm: 220 silver for the season, food provided, no combat expected. Steady and dull. The second is an assault contract against a bandit hold in the Stillmire: 400 silver, half up front, winter march, and whatever is left of the bandits when the ice breaks.
+>
+> The garrison covers wages through spring. No risk, no windfall, no reputation. The assault pays almost double but the march is through frozen marshland and the bandits have had all autumn to fortify. Losses are likely.
+>
+> The Gristle takes the garrison. Petter says nothing. Rask, who wanted the assault money, sharpens his sword with the speed of a man who disagrees. By midwinter the band is warm, fed, and bored. Three common fighters leave for a clearing contract posted in town. The captain cannot stop them — the garrison contract does not bind the men to the stronghold, only the band to the employer. She starts spring with fewer swords and the same reputation she had in autumn.
 
 **Getting an audience:**
 
@@ -793,6 +903,28 @@ Track **Allegiance** (0–4) per significant employer.
 
 Allegiance 3 is a commitment the employer also carries. If they ask the band to act against the band's clear interest — destroy a settlement where the band holds Standing, contravene a Named Man's Trigger — the band may refuse and hold Allegiance 3 without penalty. Allegiance 4 has no such buffer: sworn service means the employer's wars are the band's wars until the oath ends.
 
+**Allegiance decay.** Every half-year (two full seasons) with no contact — no contract, no audience, no exchange of messages — Allegiance drops by 1. The decay stops at two steps below the highest level reached: Allegiance 3 decays no lower than 1, Allegiance 4 no lower than 2. The employer remembers the band's best work, but the door cools. Resuming contact does not restore what decayed — the band must earn future increases the normal way.
+
+> **Example — The Sworn Trap**
+>
+> The band has worked three seasons for Warchief Ordovast. Allegiance 3 (Retained). Ordovast's name deflects trouble. His settlements supply the band at cost. The relationship works.
+>
+> Ordovast offers Sworn terms: Allegiance 4. One advance per season without a posted contract. Safe passage through his entire territory. In return, exclusivity — no competing contracts, no outside work.
+>
+> The same week, a merchant consortium from the river towns offers a clearing contract worth 400 silver. Three weeks of work, good terrain, low risk. The best contract the band has seen in a year.
+>
+> At Allegiance 3, the band could take it. The competitor clause costs −2 Allegiance, dropping them to 1 (Known). Painful but survivable — they lose the supply discount and the Standing bonus, but Ordovast's door stays open.
+>
+> At Allegiance 4, taking the consortium contract resets Allegiance to 0. The band's Standing at every settlement Ordovast controls behaves as a GRIEVANCE. Three seasons of relationship, gone. Ordovast's name no longer deflects trouble — it generates trouble, because a sworn band that broke its oath is the kind of story that travels.
+>
+> The Gristle looks at the consortium offer. She looks at the Sworn terms on the table. Four hundred silver against three seasons of trust. She signs with Ordovast. The consortium contract goes to the Three Knots, who do not have an exclusive arrangement with anyone. Rask watches the Three Knots march south with 400 silver on the line and says nothing. He does not need to.
+
+> **Example — The Breach That Spread**
+>
+> The band abandons a contract mid-run — the objective changed, the employer lied about the size of the opposing force, and the Gristle pulled her men out before the second engagement. Allegiance with this employer drops by 1. The employer posts a professional-breach bounty: 25 silver, Grievance category.
+>
+> The bounty reaches settlements within four hexes. Every innkeeper and gate guard within that range now associates the band's name with a breach. The OATH-BREAKER flag does not fire yet — this is the first breach on record. But the next employer who checks the board will see the posting. Getting an audience at difficulty 3 instead of 2 is the invisible cost. The contract the band walked away from follows them down the road in a way the silver they saved does not.
+
 ### Contracts
 
 A contract is a job with defined terms, a named employer, and a coin figure. Accepting a contract triggers mission pay.
@@ -843,7 +975,7 @@ A contract is a job with defined terms, a named employer, and a coin figure. Acc
 
 **Caster contract access.** A band with a caster attracts work that a non-caster band would not be offered. The caster premium is not a percentage on the same patrol — it is access to a higher-value job category.
 
-**Protection season (garrison mode):** The employer pays to have the band present — nothing more. The fee covers retainer wages for the quarter. Food is on the band. The employer does not board them, does not supply them, and the contract price does not include a margin. The contract makes sense when the band can forage well in the territory, when no better work is available, or when building Allegiance with a powerful employer is worth trading away three months of margin. Protection season is not a profit contract. It is a holding arrangement.
+**Protection season (garrison mode):** The employer pays to have the band present — nothing more. The fee covers retainer wages for the quarter. Food is on the band. The employer does not board them, does not supply them, and the contract price does not include a margin. The contract makes sense when the band can forage well in the territory, when no better work is available, or when building Allegiance with a powerful employer is worth trading away three months of margin. Protection season is not a profit contract. It is a holding arrangement. At Allegiance 3 or higher, the employer cannot demand action against the band's clear interest without triggering the safety clause above.
 
 **Combat call-up:** When a real threat materializes during the protection season — a bandit raid, a monster attack — the captain invoices mission pay for each day the band is actually engaged. This is not included in the base fee. An employer who thought they were buying three months of calm at low price will feel those invoices. A captain who thought protection was easy money will feel the lean months when the territory stays quiet.
 
@@ -1092,7 +1224,7 @@ A captive who dies through negligence triggers a reduced consequence: Standing a
 
 If the payer counters, the leader makes a MANIPULATION roll (difficulty 1 if the band holds clear leverage, difficulty 2 if the payer is stalling). Success holds the negotiation on band terms. Failure means the payer's number creeps forward.
 
-A deadline passed without payment: execute the captive, extend at cost, or release and absorb the loss. Executing a captive who was not yet paid for is an Atrocity (see Section 9). Releasing them generates no coin but avoids the consequence.
+A deadline passed without payment: execute the captive, extend at cost, or release and absorb the loss. Executing a captive who was not yet paid for is an Atrocity (see Section 10). Releasing them generates no coin but avoids the consequence.
 
 **Ransom rates by captive value:**
 
@@ -1156,11 +1288,12 @@ Word reaches the fellowship by several routes: a survivor who knows the hex but 
 
 The seeker must know the exact hex. From there, finding the hoard is a grinding search.
 
-- The seeker must make a number of _consecutive_ successful SCOUTING rolls equal to the hoard's level, each at that level's difficulty.
-- Each attempt takes one full Quarter Day.
-- A failure ends the run. The count resets to zero.
+- The seeker rolls SCOUTING once per Quarter Day at the hoard's finder difficulty.
+- They must accumulate successful rolls equal to the hoard level. A hoard at level 3 requires three successes.
+- Failures do not reset the count — they cost the Quarter Day and nothing else.
+- A level 3 hoard in open country may take three Quarter Days. The same hoard in dense terrain, with bad weather and interruptions, may take six or more.
 
-Without a marker, this is deliberately near-impossible. It is not meant to be a routine search.
+Without a marker, this is slow and uncertain. It is not meant to be a routine search.
 
 **With a marker (hex and terrain feature):**
 
@@ -1179,13 +1312,13 @@ What a dead band's hoard contains is up to the GM. Some captains buried coin and
 >
 > Petter has been sharpening things that do not need sharpening for the better part of two days. On the third morning, before anyone else stirs, he walks half a mile east of the camp to a riverbank where a particular stone sits flush against the waterline. He digs with his hands. He buries four silver, a knife with a pattern in the handle that is not Ravenland work, and a small leather roll of debts — names and figures in a hand that is not his.
 >
-> He makes a SURVIVAL roll with his WIT of 4 and SURVIVAL 1. He rolls the dice: two swords. That is a Level 3 hoard — well hidden. Anyone who does not know the specific stone at the specific bend would need three consecutive SCOUTING rolls at difficulty 3 to find it.
+> He makes a SURVIVAL roll with his WIT of 4 and SURVIVAL 1. He rolls the dice: two swords. That is a Level 3 hoard — well hidden. Anyone who does not know the specific stone at the specific bend would need three successful SCOUTING rolls at difficulty 3 to find it, each costing a Quarter Day.
 >
 > He does not tell the Gristle. He does not tell Hargamar. He walks back to camp and sharpens a handaxe that was already sharp.
 
 > _The contract at Blackwood was bad from the posting. Gest read it twice and set it down and looked at the Gristle with the expression he reserved for things he did not want to say out loud._
 >
-> _"It's a clearing," he said. "But the thing they want cleared has been there for eighty years and three companies have tried it and none of them came back whole."_
+> _"It's a clearing," he said. "But the thing they want cleared has been there for eighty years and three companies have tried it and none of them came back whole. The posting says goats have turned up stiff on the hillside above the entrance — not dead, Gristle. Stiff. Standing where they stood. And the trees around the mouth have gone grey all the way through, like old chalk."_
 >
 > _"How much?"_
 >
@@ -1231,7 +1364,7 @@ What a dead band's hoard contains is up to the GM. Some captains buried coin and
 
 The band uses the fellowship's Quarter Day structure. Each Quarter Day, the leader accounts for:
 
-- **MARCH** — movement through the hex. Standard travel rules.
+- **MARCH** — movement through the terrain. Standard travel rules.
 - **HUNT/FORAGE** — assign foragers to reduce food cost.
 - **MAKE CAMP** — one Quarter Day per day required for a proper camp with a perimeter.
 - **DRILL** — see below.
@@ -1272,7 +1405,7 @@ Drilling requires a TRAINING GROUNDS (at the stronghold) or a dedicated drill fi
 
 When the band makes camp, one person must STAND GUARD each Night Quarter (standard rule). With a Warband or larger force, two people must stand guard — one front perimeter, one back. If only one guards, the GM rolls SCOUTING at difficulty 2 for any threat that passes through.
 
-**Fortified Camp:** Spending two Quarter Days with materials (50 WOOD minimum) establishes a fortified camp at this position. The camp functions as a Palisade (Defense Rating +1) for one week, after which it degrades unless maintained. A fortified camp allows the band to hold a hex as a temporary stronghold and reduces the effective threat from ambushes.
+**Fortified Camp:** Spending two Quarter Days with materials (50 WOOD minimum) establishes a fortified camp at this position. The camp functions as a Palisade (Defense Rating +1) for one week, after which it degrades unless maintained. A fortified camp allows the band to hold the ground as a temporary stronghold and reduces the effective threat from ambushes.
 
 ### Discipline and Punishment
 
@@ -1314,7 +1447,7 @@ When a member of the band breaks a rule, commits a crime against another member,
 
 **Duels** are a controlled alternative to informal violence. Two company members with a formal grievance may request a duel before the captain. The captain may permit it or forbid it. Duels are first blood by default. Both combatants fight to one BROKEN condition and stop — unless the captain rules differently. A man killed in an unsanctioned duel counts as a company murder.
 
-**Expulsion** removes the man from the rolls, voids his pay claim, and forfeits any share of an active contract. The captain may additionally post a WANTED notice (see Section 8) if the offense was severe enough. Other companies may or may not honor it.
+**Expulsion** removes the man from the rolls, voids his pay claim, and forfeits any share of an active contract. The captain may additionally post a WANTED notice (see Section 9) if the offense was severe enough. Other companies may or may not honor it.
 
 #### Tyrant Companies
 
@@ -1365,13 +1498,27 @@ Trust-Held is not a higher MORALE ceiling. The table is the same. What changes i
 
 **The stay.** Once per season, when the captain fails a MORALE check, the GM may offer a Named Man with Loyalty 3 the chance to spend — to step forward, back the captain publicly, and hold the band together for one more day. If the Named Man does this, the MORALE cost that week is reduced by 1 step. The Named Man's Loyalty drops to 2 immediately. The bond cannot be spent again from the same Named Man until their Loyalty recovers to 3.
 
-> **Example:** Pell fails his MORALE check after a wet week with no contract news — the band is Shaken. The GM offers Rook, Loyalty 3, the chance to spend. Rook stands by the cookfire and tells the men he has seen worse captains and worse weather, and that Pell has paid. The men finish the meal without walking. Pell records MORALE cost reduced by 1. Rook's Loyalty drops to 2. He said it because it was true. He cannot say it again from the same place until he earns it back.
+> **Example:** The Gristle fails her MORALE check after a wet week with no contract news — the band is Shaken. The GM offers Petter, Loyalty 3, the chance to spend. Petter stands by the cookfire and tells the men he has seen worse captains and worse weather, and that the Gristle has paid. The men finish the meal without walking. The Gristle records MORALE cost reduced by 1. Petter's Loyalty drops to 2. He said it because it was true. He cannot say it again from the same place until he earns it back.
 
 **The warning.** A Trust-Held Named Man with Loyalty 1 who has reached their limit will tell the captain before they leave. Not with time to argue. Not loudly. But the captain gets one conversation — a flat statement of what is wrong and what they intend. A Fear-Held Named Man gives nothing. The captain cannot prevent either outcome. This is what trust costs and what it gives back.
 
 **Transition out of Trust-Held.** A band that was Trust-Held and drifts into fear management — a captain who increasingly substitutes INTIMIDATION for MANIPULATION, an atrocity the Named Men were ordered to carry out, a season of broken promises — loses Trust-Held status at the end of that season. The change costs MORALE -1. The men know what the company was. That knowledge is not comfort, but the specific grief of a thing that has become something else.
 
 **Transition into Trust-Held.** A Fear-Held band can earn Trust-Held status. The captain must pay reliably, address Named Men's triggers when they appear, and avoid using INTIMIDATION as a substitute for MANIPULATION through a full season without a loyalty break or a public trust violation. At the end of that season, the GM confirms the transition. It is slow, but not impossible. The men remember everything that happened before it, too — and that debt does not disappear because the band is now better.
+
+> **Example — The Tyrant's Arithmetic**
+>
+> Hadric runs a Fear-Held band of twenty-two. MORALE 3 (Shaken). His Named Man Jorund has Loyalty 2 and a civilian-harm Trigger. Hadric substitutes INTIMIDATION for MANIPULATION on all discipline checks — the tyrant archetype permits this.
+>
+> At the evening fire, Hadric announces the next contract: a punitive burning of a grain store at a village that refused protection fees. Jorund goes quiet. The common fighters say nothing — Fear-Held at MORALE 3 means silence, not consent. Hadric reads the silence as compliance.
+>
+> They burn the granary. Atrocity fires: Standing crashes at four settlements. MORALE check: Hadric rolls INTIMIDATION against difficulty 1 (atrocity with no plunder — a single difficulty-1 grievance, no stacking). He succeeds. MORALE holds at 3.
+>
+> But Jorund's civilian-harm Trigger fires. The GM rolls against Jorund's Loyalty 2: one sword needed, none rolled. Jorund's Loyalty drops to 1. He does not leave. He does not speak. That night he eats his ration facing away from the fire and calculates whether the Greywood company is still hiring.
+>
+> Next week: late payment. MORALE drops to 2 (Wavering) from the automatic trigger. Hadric does not address the men — tyrant captains do not explain. Jorund, now at Loyalty 1, begins concealing information: he knows the south road is clear from a conversation with a trader, but he does not pass it to Hadric. He passes it to Margard, the other brother, privately.
+>
+> The following week, Hadric wakes to an empty bedroll. Jorund is gone. He took his sword, his pack, and the knowledge of the band's next contract route. Hadric does not know why. In a Fear-Held band, no one tells you.
 
 ---
 
@@ -1397,7 +1544,7 @@ Trust-Held is not a higher MORALE ceiling. The table is the same. What changes i
 >
 > **Lying that cost blood** — telling the sergeant the left flank was clear when it wasn't, claiming to have been on watch, swearing a civilian was hostile to justify a killing — is handled faster than most things. There is no standard punishment. There is a standard outcome: the captain and the sergeant hear what happened, from everyone who was there. After that, the liar's word does not travel well. What follows depends on what the lie cost.
 >
-> **Violence against a civilian in an occupation zone** is an atrocity under Section 9, but within the company it is also a problem of management. Men who commit it once and understand why it was wrong are men the company can keep. Men who commit it and do not understand why it was wrong are a liability that will eventually cost the company a contract, a settlement's standing, or a night ambush from twenty relatives. The sergeant handles the distinction.
+> **Violence against a civilian in an occupation zone** is an atrocity under Section 10, but within the company it is also a problem of management. Men who commit it once and understand why it was wrong are men the company can keep. Men who commit it and do not understand why it was wrong are a liability that will eventually cost the company a contract, a settlement's standing, or a night ambush from twenty relatives. The sergeant handles the distinction.
 >
 > **Sexual violence against a civilian** triggers automatic atrocity consequences regardless of Standing. Within the company, the captain's response determines whether the company is the kind of company that can hold a contract in settled areas. Most captains who want repeat work from employers know this and respond accordingly. Some do not. Their companies have a type of reputation, and the work that finds that reputation is the work that deserves it.
 >
@@ -1413,9 +1560,9 @@ Trust-Held is not a higher MORALE ceiling. The table is the same. What changes i
 
 > **Example — Trust vs. Fear**
 >
-> Pell's band is Fear-Held. At MORALE 2, his Named Man Galt does not complain. He goes quiet. He picks up his kit at nightfall, walks to the tree line, and does not come back. Pell discovers the empty bedroll the next morning and loses one trained fight from the roster. He does not know why Galt left.
+> Hadric's band is Fear-Held. At MORALE 2, his Named Man Jorund does not complain. He goes quiet. He picks up his kit at nightfall, walks to the tree line, and does not come back. Hadric discovers the empty bedroll the next morning and loses one trained fighter from the roster. He does not know why Jorund left.
 >
-> The Gristle's band is Trust-Held. At MORALE 2, Petter walks up to the cookfire and says: "We have not been paid for the clearing. The men are counting." The Gristle knows exactly what the problem is. She handles it or she does not, but she was warned. That warning cost Petter nothing because the band rewards speaking truth. The absence of one costs Pell everything because the band punishes it.
+> The Gristle's band is Trust-Held. At MORALE 2, Petter walks up to the cookfire and says: "We have not been paid for the clearing. The men are counting." The Gristle knows exactly what the problem is. She handles it or she does not, but she was warned. That warning cost Petter nothing because the band rewards speaking truth. The absence of one costs Hadric everything because the band punishes it.
 
 ### Optional: Arguments and Escalation
 
@@ -1429,7 +1576,7 @@ Use this subsystem when the band is under sustained pressure — unpaid, hungry,
 - A member died today and no one has spoken about it
 - A direct order produced a bad outcome and the man who gave it is still giving orders
 
-When a trigger fires, the GM picks or rolls for two participants. If one is a Named Man, use their personality to color the opening. If both are anonymous fighters, the argument starts below them — in the ranks — and may pull Named Men in.
+When a trigger fires, the GM picks or rolls for two participants. If one is a Named Man, use their personality to color the opening. If both are Common fighters, the argument starts below them — in the ranks — and may pull Named Men in.
 
 **The escalation ladder:** Arguments move through stages in order. Each stage ends when someone intervenes, or when the next stage begins.
 
@@ -1440,16 +1587,29 @@ When a trigger fires, the GM picks or rolls for two participants. If one is a Na
 | 3     | Drawn Weapons | Steel is out. Everyone in camp has stopped what they were doing.                                                         | INTIMIDATION difficulty 2, or physical interposition (grapple).  |
 | 4     | Blood         | Combat begins. First blood or BROKEN condition ends the fight — unless no one intervenes and rage runs ahead of caution. | No intervention roll. Stop the fight physically or let it end.   |
 
-If the argument reaches Stage 4 without intervention, roll D6 after the fight ends. On a 1, one participant is dead — the blow landed wrong, someone's blade slipped. On a 2–6, the loser is Broken and the winner is standing over him. The captain now has a body or a badly broken man, neither of which is good for what comes next.
+If the argument reaches Stage 4 without intervention, combat resolves until one man is Broken. Roll D6 after the fight ends. On a 6, the blow landed wrong — one participant is dead. If either fighter is drunk, death occurs on 5–6. The captain now has a body or a badly broken man, neither of which is good for what comes next.
 
 **MORALE cost by outcome:**
 
 - Argument stayed at Stage 1–2, resolved: no cost
-- Argument reached Stage 3, resolved without blood: MORALE -1 (the men saw it, they're thinking about it)
-- Stage 4 with a Broken loser: MORALE -1, and both participants are unavailable that Quarter Day
-- Stage 4 with a dead participant: MORALE -1, and apply the Death of a Member rules (see below)
+- Argument reached Stage 3, resolved without blood: no MORALE cost. The grievance hardened (+1 difficulty), and that is punishment enough. The men saw it and they are thinking about it, but the band did not bleed.
+- Stage 4, no death: MORALE -1. Both participants are unavailable that Quarter Day. Even without a corpse, Stage 4 leaves lasting grudges — the men watched two of their own try to kill each other, and the tension does not leave when the blood dries. The +2 grievance escalation is already severe; the MORALE drop is the scar on top of it.
+- Stage 4 with a death: MORALE -2 and apply the Death of a Member rules (see below). A man is dead over something that started with words. The captain allowed it.
 
-**Named Men and arguments:** A Named Man involved in a Stage 3 or 4 argument who loses rolls against their Loyalty. On a failure, their Loyalty drops by 1 — whatever broke the surface is still working. A Named Man who wins a Stage 4 argument gains no mechanical benefit, but their standing in the company rises: the GM should treat them as more respected by anonymous fighters for the remainder of the season.
+The captain's priority is clear: prevent Stage 4. Stage 3 is bad — drawn weapons harden the underlying grievance and the company remembers. Stage 4 is where the band starts to break. A death at Stage 4 is the worst single-event MORALE hit in the system, and the grievance that caused it is now two steps harder to clear. If the original grievance was difficulty 2 — a broken contract, an ordered atrocity — it is now difficulty 4, blood hatred. Four swords on a MORALE check to clear. Most captains cannot roll that.
+
+**Grievance escalation.** Arguments harden grievances. When an argument is rooted in an active grievance (late wages, a death, a broken contract), the argument's outcome pushes that grievance's difficulty upward.
+
+- Argument reached Stage 3, resolved: the underlying grievance's difficulty increases by +1
+- Argument reached Stage 4 (whether or not blood was fatal): the underlying grievance's difficulty increases by +2
+
+Cap at difficulty 4. A difficulty 4 grievance is blood hatred — the kind of wound a band carries until the captain sweeps it or the band splits. Clearing it requires four swords on a voluntary MORALE check, which means the captain must roll exceptionally well or not attempt it at all.
+
+This is the only path to difficulty 3 and 4 grievances. Base events produce grievances at difficulty 1 or at most 2. The escalation ladder is what turns a manageable complaint into something that can break a company. A late-wages grievance that starts at difficulty 1, sparks a Stage 3 argument, and then boils over into a Stage 4 fight lands at difficulty 3. The wages did not cause that. The captain's failure to intervene did.
+
+If the argument is not rooted in an active grievance — a personal grudge, a Trigger reaction, a boredom fight — no grievance escalation occurs. The MORALE cost applies as normal.
+
+**Named Men and arguments:** A Named Man involved in a Stage 3 or 4 argument who loses rolls against their Loyalty. On a failure, their Loyalty drops by 1 — whatever broke the surface is still working. A Named Man who wins a Stage 4 argument gains no mechanical benefit, but their standing in the company rises: the GM should treat them as more respected by the rank and file for the remainder of the season.
 
 **Deliberate provocation:** A leader or Named Man may deliberately provoke an argument to draw out a rival's true loyalties or break a standoff between two factions in the band. This is MANIPULATION difficulty 3 — the difficulty of starting a fire without being seen as the one who dropped the torch.
 
@@ -1467,6 +1627,22 @@ If a Named Man's Trigger is spoken aloud — not implied, stated plainly in fron
 - **INSIGHT to name the cause.** A bystander who succeeds on INSIGHT difficulty 2 names the actual grievance plainly, in front of both parties. On success, the argument drops one stage and the next intervention roll is at -1 difficulty. A wrong read changes nothing.
 - **Physical interposition.** A Named Man who steps between the two parties at Stage 2 or 3 takes the argument's energy onto themselves without rolling first. They must then succeed on MANIPULATION or INTIMIDATION difficulty 2. On failure, the argument continues at the same stage and the Named Man is now in it.
 
+> **Example — Three Stages at the Cookfire**
+>
+> The band is at MORALE 2 (Wavering). Rask and Skalva have been circling a loot-share dispute for two days. Rask took a belt knife from the last engagement and Skalva says it was from his kill. The GM calls an argument.
+>
+> **Stage 1 (Words).** Rask names the dispute at the evening fire. Skalva responds. Voices rise. Gest could intervene with MANIPULATION difficulty 1 — a hard look from the sergeant would end it. He does not. He wants to see how far it runs.
+>
+> **Stage 2 (Confrontation).** Rask stands. His hand goes to his belt. Skalva stands to match. The company is watching. Brosa tries INSIGHT difficulty 2 to name the real cause: "This is not about the knife. Rask has not been paid his share from the Ashwick job." The GM rolls: no swords. Wrong read — it is about the knife. Nothing changes.
+>
+> Petter steps between them. Physical interposition. He rolls MANIPULATION difficulty 2: one sword. Failure. The argument holds at Stage 2, and now Petter is in it — Rask turns on him. "You take his side because you always take his side."
+>
+> **Stage 3 (Drawn Weapons).** Rask draws his short sword. Steel in the firelight. Everyone in camp has stopped eating.
+>
+> The Gristle stands. She does not raise her voice. She walks to the fire and stops between Rask and the rest of the company so that his blade is pointed at her instead of at Skalva. She tells him to sheathe it. He does not move. She tells him again, flat and final, and the look on her face is the look of a woman who has been here before — not this fire, not these men. A different company, years ago, when she was Skalva's age and carried someone else's shield. Two men argued over a dead mule's saddlebags. It reached Stage 4 before the captain looked up from his wine. One man broke the other's jaw with a pommel strike and the broken man hit the ground wrong and did not get up. The captain rolled the body into the ditch with his boot and said nothing about it at morning count. The company lost a fighter over leather and brass fittings. The Gristle watched the ditch fill with rain and decided what kind of captain she would be.
+>
+> Rask sheathes the sword. Skalva sits. The argument holds at Stage 3, resolved — the underlying grievance hardens by +1 difficulty. No MORALE cost. The men saw steel and they will remember it, but nobody bled and nobody died. That is the line the Gristle holds.
+
 **Flyting.** A man with a quick mouth and a specific grievance can turn Stage 2 or 3 into something the whole company watches rather than joins. An old tradition. It has a shape the Ravenlands recognizes — a word-fight instead of a blade-fight, formal enough that the watching men hold still.
 
 When an argument reaches Stage 2 or Stage 3, any participant may call for flyting. The challenge is simple: _let words settle this_. The other party may accept or refuse. Refusal does not advance the stage — it holds where it is. The crowd came for a word-fight; a man who will not meet words with words gives the other man the floor without contest. The refuser's next intervention roll in this argument is at +1 difficulty. Any Named Man watching takes note.
@@ -1475,21 +1651,43 @@ A character who removes themselves from the vicinity before any blow is struck �
 
 If both accept, physical escalation pauses. Resolve the exchange with an opposed PERFORMANCE roll. Difficulty equals the current stage number.
 
-| RESULT           | WINNER                                                                    | LOSER                                                                                          |
-| ---------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| Winner by 1–2 ⚔️ | Standing rises among the anonymous fighters; argument resolves at Stage 1 | No injury, no Loyalty roll; owes the winner a public concession in the next unrelated dispute  |
-| Winner by 3+ ⚔️  | As above                                                                  | Loyalty roll (same rule as a Stage 3 fight loss); the humiliation settles longer than a bruise |
-| Tie              | Argument resolves at Stage 1; the company treats both men as even         | —                                                                                              |
+| RESULT           | WINNER                                                               | LOSER                                                                                          |
+| ---------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Winner by 1–2 ⚔️ | Standing rises among the rank and file; argument resolves at Stage 1 | No injury, no Loyalty roll; owes the winner a public concession in the next unrelated dispute  |
+| Winner by 3+ ⚔️  | As above                                                             | Loyalty roll (same rule as a Stage 3 fight loss); the humiliation settles longer than a bruise |
+| Tie              | Argument resolves at Stage 1; the company treats both men as even    | —                                                                                              |
 
 MORALE cost for a flyting exchange that ends without reaching Stage 4: none beyond the stage's existing cost. The company's blood stayed inside their bodies.
 
 If either participant breaks the frame before the roll — draws steel, throws a punch, storms off — the argument jumps to Stage 4. The provocation and the broken word land at the same time.
+
+> **Example — The Word-Fight**
+>
+> Skalva and Rask face each other at Stage 3. Flyting accepted. The men at the fire go quiet. Opposed PERFORMANCE roll, difficulty 3 (current stage).
+>
+> Skalva opens. He has PERFORMANCE 0 — no skill dice, just his EMP of 2. Two base dice. He calls Rask a belt-knife thief who counts another man's kills because he has none worth counting, and says the only reason Rask draws steel over a dead man's blade is that he has never owned one worth keeping. Skalva rolls: one sword.
+>
+> Rask answers. He has PERFORMANCE 1. Three dice total. He calls Skalva a boy who ran from his mother's cookfire to play at soldiers and still flinches when the column halts, says Skalva's sword arm shakes in the cold because it has nothing in it worth warming, and tells the company that the knife is his by right because the kill was his — and if Skalva wants to dispute that, he should try making a kill of his own before the season turns. Rask rolls: two swords.
+>
+> Rask wins by 1. The argument resolves at Stage 1. Rask keeps the knife. Skalva owes a public concession — the next time an unrelated dispute arises and Rask takes a position, Skalva backs him in front of the company. The debt sits between them like a stone neither picks up until the moment arrives.
+>
+> If Rask had won by 3, the humiliation would cut deeper. Skalva would roll against Loyalty — the same rule as a Stage 3 fight loss. A man made small in front of the company by words remembers it longer than a bruise. The bruise heals in a week. The laughter is still there at the next cookfire.
 
 **The compliment.** A bystander who wants neither the interposer's risk nor the orator's contest can try a third thing: publicly honor one of the men. Name a past deed, a debt the company owes them, a hard thing they did that no one has said aloud until now. Done right, it gives the man a way to step back from the argument without losing standing — the room understands that the compliment is an exit. This is PERFORMANCE difficulty 2.
 
 On success: the honored man may end the argument at Stage 1 without standing cost. The other party may accept or push forward. Pushing forward after the honored man has stepped back costs MORALE -1 as though the argument had reached Stage 3 — the company has seen a man refuse the peace, and they remember it.
 
 On failure: the compliment lands hollow. Wrong thing, wrong tone, a feat the honored man does not want on record in this company. Nothing changes except the bystander's credibility. They cannot attempt the compliment again in this argument.
+
+> **Example — The Exit That Was Offered**
+>
+> Rask and a common fighter named Edric are at Stage 2 over watch rotation. Brosa, watching from the fire, tries the compliment. He stands and says to Rask: "You held the door at Ashfall when Petter's line broke. The company walks because of what you did that day."
+>
+> PERFORMANCE difficulty 2. Brosa rolls: two swords. The compliment lands. Rask has a way out — the room has acknowledged what he is, and stepping back from a watch dispute does not diminish that.
+>
+> Rask sheathes the knife he was reaching for. The argument resolves at Stage 1.
+>
+> Edric pushes forward — he names the real grievance, the missed watch the night before, and refuses the peace that Rask accepted. Pushing forward after the honored man stepped back costs MORALE -1. The company saw Rask take the exit. They saw Edric refuse it. They will remember.
 
 ---
 
@@ -1525,6 +1723,20 @@ When a Named Man holding a vengeance oath advances to a full player character, t
 
 No brotherhood or bounty oath can be dissolved by agreement. That is the point of it. A man who wants out can only wait for the other half to die, or be released publicly by a witnessed statement from the other party. A vengeance oath is different — it discharges when the target is confirmed dead. The oath is not broken; it is complete. Some men choose to die rather than break an oath. Some captains consider that a waste. It depends on the company.
 
+> **Example — The Brotherhood Tested**
+>
+> Petter and Skalva swore a brotherhood oath after the Ashfall contract. Open cuts, the company watching, the words spoken over the fire.
+>
+> Three months later, the band is retreating from a clearing contract gone wrong — a lower passage where the air went cold fifty feet in and the walls bore claw marks that ran upward instead of along. Skalva takes a blow that drops him to Broken. The Gristle calls the withdrawal: "Leave him. We cannot hold."
+>
+> Petter's oath fires. He will not abandon his oathbound partner voluntarily. The GM calls for a Loyalty roll. Petter is at Loyalty 3. He rolls against difficulty 1. Any result — success or failure — means he hesitates one Round before following the captain's order.
+>
+> One Round. The thing in the passage is still moving — a dry, grinding sound on stone, rhythmic, like something walking that does not bend its knees. Petter stands over Skalva's body with his shield up and his back to the exit. The Round passes. On the next initiative, Petter follows the order — he drags Skalva by the collar, one-handed, shield forward, toward the withdrawal line.
+>
+> The Gristle watches this from the corridor mouth. She does not punish the hesitation. She does not acknowledge it. But she records it in the part of her memory that tracks which orders will cost time when Petter is in the line, and she adjusts her plans accordingly.
+>
+> The hesitation saved Skalva. It could have killed both. That is what the oath costs.
+
 ---
 
 ### Optional: Death of a Member — Distribution of Trappings
@@ -1539,7 +1751,7 @@ No brotherhood or bounty oath can be dissolved by agreement. That is the point o
 
 When a company member dies — fighter, Named Man, or someone the band was traveling with — the company has to decide what happens to them before the day is done. A company that lets it sit past a day is a company with a brewing argument.
 
-**Anonymous fighters:** Personal effects are pooled. The sergeant or whoever runs logistics divides usable gear back into company stores — armor, weapons, tools. Personal items with no tactical value (a carving, a letter, a child's tooth on a cord) are burned or buried with the body in most companies. What fits the stores goes to the stores. What doesn't goes in the ground.
+**Common fighters:** Personal effects are pooled. The sergeant or whoever runs logistics divides usable gear back into company stores — armor, weapons, tools. Personal items with no tactical value (a carving, a letter, a child's tooth on a cord) are burned or buried with the body in most companies. What fits the stores goes to the stores. What doesn't goes in the ground.
 
 Pay owed through the end of the current contract is distributed equally among the surviving members. This is traditional and expected. A captain who pockets a dead man's owed pay will find out how quickly that travels.
 
@@ -1584,13 +1796,13 @@ Pay owed through the end of the current contract is distributed equally among th
 
 _This subsystem is appropriate for Tyrant and Military bands operating in contested territory. Rural Peasant bands may use it under extreme conditions; Kin bands generally maintain territorial languages of their own that do not require it._
 
-Territory in the Ravenlands is not owned, but held — by whoever is present, by whoever can demonstrate the cost of challenging it, and by how recently that demonstration was made. A deed, a boundary post, a handshake with an elder: these carry weight inside settlements and nowhere else. What carries weight in the hex between settlements is what the men at the tree line believe about what happens to people who cross without invitation.
+Territory in the Ravenlands is not owned, but held — by whoever is present, by whoever can demonstrate the cost of challenging it, and by how recently that demonstration was made. A deed, a boundary post, a handshake with an elder: these carry weight inside settlements and nowhere else. What carries weight in the ground between settlements is what the men at the tree line believe about what happens to people who cross without invitation.
 
 Two practices communicate this faster and more durably than any spoken threat.
 
-**Spiked markers.** After an engagement, or after an execution, the band takes heads — or visible body parts — and posts them at the edges of claimed ground: road approaches, bridge ends, prominent trees at a hex boundary, the gate of an occupied settlement. The sergeant assigns the work. It is done without ceremony. It takes one Quarter Day to mark a full hex perimeter.
+**Spiked markers.** After an engagement, or after an execution, the band takes heads — or visible body parts — and posts them at the edges of claimed ground: road approaches, bridge ends, prominent trees at the boundary, the gate of an occupied settlement. The sergeant assigns the work. It is done without ceremony. It takes one Quarter Day to mark a full perimeter.
 
-A traveler, scout, or rival band entering a marked hex who succeeds at SCOUTING (difficulty 1) reads the markers immediately. They know the ground is held, someone recent died here, and the band considers this theirs. Any band entering a marked hex must make a MORALE check (difficulty 1) before the first Quarter Day of movement — at MORALE 3 or below, the difficulty is 2. A Skirmisher-tier band that fails this check will refuse to enter without a direct order and a convincing reason.
+A traveler, scout, or rival band entering marked ground who succeeds at SCOUTING (difficulty 1) reads the markers immediately. They know the ground is held, someone recent died here, and the band considers this theirs. Any band entering marked ground must make a MORALE check (difficulty 1) before the first Quarter Day of movement — at MORALE 3 or below, the difficulty is 2. A Skirmisher-tier band that fails this check will refuse to enter without a direct order and a convincing reason.
 
 | MARKER CONTENT                                   | STANDING            | FEUD TRACK |
 | ------------------------------------------------ | ------------------- | ---------- |
@@ -1644,13 +1856,39 @@ A Named Man with a civilian-harm Trigger who witnesses either practice applied t
 >
 > _"Every company has a barrow," Gest said. He was still watching the road. "South track was clear. That's worth knowing."_
 
+### Captain's Death
+
+When the captain dies, command does not pause. Someone steps forward or the band breaks.
+
+**Succession order:**
+
+1. **Sergeant** — if the band has a sergeant, they assume command immediately. No roll. The sergeant was already giving the orders the captain approved; now they give the orders alone.
+2. **Most senior Named Man** — if there is no sergeant, the Named Man with the longest service takes command. If two Named Men share the longest tenure, the one with higher Loyalty takes it. If still tied, the GM chooses and the other becomes the rival.
+3. **No one steps forward** — if no Named Man claims command within the current Quarter Day, the band dissolves. Common fighters scatter. Named Men depart individually. The fellowship keeps whatever gear and coin they hold personally.
+
+When a new captain takes command, immediately roll MORALE at +1 difficulty. This is the band testing whether the new voice holds. On a failure, one Named Man challenges the succession openly — the GM chooses which one, guided by Triggers and agendas. The challenge must be resolved by MANIPULATION or by the challenger leaving. It cannot be resolved by killing them without consequence.
+
+The new captain inherits the band's active contracts, Standing at settlements, and any outstanding grievances. They do not inherit the previous captain's personal reputation — they build their own.
+
+> **GM Note:** A captain's death is one of the strongest scenes the chapter produces. Do not resolve it quickly. Let the Named Men react in character. Let the common fighters watch. The person who steps into command has just changed the company, and the company knows it.
+
+### Campaign Endgame
+
+Mercenary campaigns end. The GM should recognize when the band's story has reached its natural close and offer the players a choice rather than letting the game trail off.
+
+**Retirement.** The captain disbands the company. Named Men are paid out. The fellowship keeps its REPUTATION, its stronghold, and whatever coin the ledger holds. The band's name becomes a memory — invoked at tavern tables and in settlement records, but no longer backed by men under arms. A retired captain who returns to the road starts from scratch: new men, new contracts, old name.
+
+**Landed.** The captain accepts a permanent commission — warden of a territory, garrison commander for a lord, standing protector of a settlement alliance. The band stops moving. Contracts become standing orders. Named Men become officers. The campaign shifts from road play to domain play — the stronghold is no longer a base between contracts but the thing the band defends. This is the transition from mercenary to lord, and the Ravenlands does not forget where the lord came from.
+
+**Absorbed.** The band joins a Host permanently, or merges into a larger force. The captain becomes a subordinate officer. The fellowship's MORALE and Named Men transfer into the larger structure. Individual contracts end. The band's identity dissolves into the banner above it. Some captains choose this willingly when the road runs out of work. Others accept it because the alternative is starvation.
+
 ---
 
 ## Named Men
 
-> _The thing Skalva did at the Ashfall contract was not complicated. The contract was going wrong — three men down, the kill ground inside the ruin compromised, and the thing they had been hired to kill now between them and the exit. Petter was on the left holding a door that did not want to be held. Gest was calling the column back. What the Gristle was doing in the dark with her sword was not something any of them could see clearly from where they stood._
+> _The thing Skalva did at the Ashfall contract was not complicated. The contract was going wrong — three men down, the kill ground inside the ruin compromised, and the thing they had been hired to kill now between them and the exit. The air in the ruin had turned wrong an hour ago — hot and close, the way stone gets above a forge after the bellows have run all day, and the walls wept moisture that was not rain. Petter was on the left holding a door that did not want to be held. Gest was calling the column back. What the Gristle was doing in the dark with her sword was not something any of them could see clearly from where they stood, but the light that spilled from the kill ground — low, amber, shifting in a way that fire does not — caught her shadow against the far wall._
 >
-> _Skalva was on the right side of the ruin near a window that opened onto the kill ground, and when the thing came through the gap in Petter's line he did not wait to be told. He put himself in the gap — not heroically, the way men talked about it later. He stepped into it the way you step into a queue, because nobody else was there and somebody needed to be. He braced the shield Haldr had left him and held for long enough that Petter could close the door and Gest could turn the column into something that functioned again._
+> _Skalva was on the right side of the ruin near a window that opened onto the kill ground, and when the thing came through the gap in Petter's line he did not wait to be told. He heard it before he saw it — a heavy dragging over flagstone, wet underneath, and the heat hit his face before the shape did. He put himself in the gap — not heroically, the way men talked about it later. He stepped into it the way you step into a queue, because nobody else was there and somebody needed to be. He braced the shield Haldr had left him and the impact drove him back a foot on the stone floor. The shield held. Whatever scraped across its face left a gouge he could fit two fingers into afterwards. He held for long enough that Petter could close the door and Gest could turn the column into something that functioned again._
 >
 > _He did not drive the thing back. He held long enough that the men who could do those things had room to do them._
 >
@@ -1664,6 +1902,8 @@ A Named Man with a civilian-harm Trigger who witnesses either practice applied t
 
 Named Men are veteran fighters with individual stats, names, personalities, and loyalty scores. They are not anonymous soldiers. They have opinions, histories, and lines they will not cross. They are also the band's most dangerous problem when things go wrong.
 
+**Guideline:** A Skirmisher band (3–6) operates with 1–2 Named Men. A Warband (7–20) supports 2–4. A Company (21–50) needs 4–8. These are guidelines, not caps — a band heavy on Named Men is expensive and politically complex; a band with too few has no sergeants and no institutional memory.
+
 ### Creating a Named Man
 
 Assign each of the following. For personality, roll or choose from **Named Man Personalities** below.
@@ -1675,6 +1915,8 @@ Assign each of the following. For personality, roll or choose from **Named Man P
 - **Agenda:** What they want beyond pay
 
 Named Men are tracked individually. Record their stats on a separate NPC sheet. They are not anonymous soldiers — they can be Broken, recover, advance, and die in ways that matter to the story.
+
+**Promotion from Hireling.** A GUARD hireling who has survived two engagements alongside the band may be promoted to Named Man. The captain spends one session of downtime assessing the fighter and assigning them a role. On promotion, the GUARD adopts the Veteran stat block for their assigned Role, receives Loyalty 1, and is assigned a Trigger and Agenda. Their hireling contract ends — they are now on the band's roster at Named Man rates.
 
 ### Attributes
 
@@ -1689,7 +1931,7 @@ Named Men are tracked individually. Record their stats on a separate NPC sheet. 
 | Skirmisher  | 4   | 5   | 3   | 2   | Dangerous alone. Hard to corner.                                  |
 | Brute       | 6   | 3   | 3   | 2   | Typically of Dwarf kin. Uncommonly powerful. Other men give room. |
 
-Wit and Empathy matter among Named Men. Named Men can be manipulated, persuaded, rattled by FEAR attacks, and may recover from WITS damage in ways anonymous soldiers cannot. Use these stats whenever a Named Man is directly confronted, interrogated, or targeted by social pressure.
+Wit and Empathy matter among Named Men. Named Men can be manipulated, persuaded, rattled by FEAR attacks, and may recover from WITS damage in ways Common fighters cannot. Use these stats whenever a Named Man is directly confronted, interrogated, or targeted by social pressure.
 
 ### Skills
 
@@ -1834,7 +2076,7 @@ Loyalty changes over time:
 - −1 if their Trigger is triggered and the leader does nothing to address it
 - −1 per MORALE step the band falls below 3, each week
 
-> _They lost a man named Haldr on the clearing contract — a cave mouth, a thing inside, and Haldr too far forward when it came out. He took a blow that broke him across the middle and he was dead before Gest could reach him._
+> _They lost a man named Haldr on the clearing contract — a cave mouth, a thing inside. The smell reached them first: rotten meat and wet earth and something under both, older, the way a root cellar smells when no one has opened it in a generation. Haldr was too far forward when the daylight at the mouth went dark. Whatever filled that space was wide enough that the men behind could not see around it. He took a blow that broke him across the middle and he was dead before Gest could reach him._
 >
 > _Petter carried Haldr out on his shoulders. He did this without being asked and without speaking, two miles back to the camp, and when he set the body down his face was the same face it always was. He dug the grave himself. He wrapped what was left of Haldr's gear in the man's own cloak and set it beside the hole and filled the hole and tamped the dirt and stood there for a while._
 >
@@ -1864,6 +2106,8 @@ Roll D6 or assign:
 | 4   | Left behind or abandoned when wounded                                    |
 | 5   | Consistently spoken of as ignorant or beneath notice                     |
 | 6   | Witness to the leader taking more than their promised share of plunder   |
+
+**Second Triggers.** A Named Man who has served the band through a full year of active contracts may acquire a second Trigger — through play or at the GM's discretion. Both Triggers fire independently. If a single event touches both, only the more severe consequence applies. No Named Man carries more than two Triggers. A man with that many breaking points is not reliable enough to keep under arms.
 
 > _The contract had been paid in kind — grain, two goats, and the elder's offer of hospitality for the night. That was how villages paid when silver was thin, and the Gristle had learned to read the offer: what was on the table, and what was being kept off it._
 >
@@ -1935,9 +2179,19 @@ After any engagement resulting in a clear victory, award XP to each non-player N
 - On a 5: award **3 XP**
 - On a 4–3: award **2 XP**
 - On a 2: award **no XP**
-- On a 1: award **1 XP** and the Named Man suffers a meaningful injury. Roll on the critical injury table.
+- On a 1: award **1 XP** and the Named Man suffers a serious injury. Roll on the critical injury table.
 
 **Named Man transition to full character:** The GM may offer a Named Man a full character sheet when their player's original character is out of action and both the player and GM agree. A Named Man eligible for this transition should have at least 15 XP recorded, an Agenda that has been actively pursued, and Loyalty 3 with the fellowship. On transition, the player selects the Named Man's kin-appropriate profession from the **YOUR ADVENTURER** chapter and picks starting skills accordingly. Prior XP carries over at 2:3 conversion rate (15 Named Man XP becomes 10 PC XP). The Personality, Trigger, and Agenda survive the transition intact — they remain who they are.
+
+> **Example — The Victory and the Cost**
+>
+> The band wins a clearing engagement. Three Named Men fought. The GM rolls D6 for each.
+>
+> Skalva: rolls a 5. Awards 3 XP. His total climbs to 12. Two more good engagements and he is eligible for transition.
+>
+> Rask: rolls a 3. Awards 2 XP. Steady accumulation.
+>
+> Brosa: rolls a 1. Awards 1 XP — and the GM rolls on the critical injury table. Result: a deep slash across the forearm. MELEE reduced by 1 until healed, six days minimum with a healer or HERBS. Brosa fought well enough to earn the point. The dice say it cost him something anyway. He sits at the fire that night with his arm bound, eating with his off hand, gaining 1 XP he earned and carrying a wound he did not deserve.
 
 ### Named Man Connections
 
@@ -1958,6 +2212,18 @@ On success: the Named Man surfaces a specific contract offer — type, employer 
 **Captain investment:** If the captain has actively supported this Named Man's Agenda — pursued it, spent coin on it, publicly acknowledged it — reduce difficulty by 1. A Named Man whose objectives are ignored does not reach out for the company's benefit.
 
 This mechanic is once per season per Named Man. It is a resource, not a routine.
+
+> **Example — The Contract from the Old Life**
+>
+> Petter has served the band for four months. Loyalty 3. His Agenda is a house near the coast — the Gristle has twice diverted the march route to pass through the area he named, spending a Quarter Day each time. Captain investment confirmed: difficulty reduced by 1.
+>
+> Petter's background is former garrison soldier. Base difficulty 2, reduced to 1 by the captain's investment. He rolls MANIPULATION: two base dice, one skill die. Two swords on three dice. Success.
+>
+> The GM announces the surfaced contract: a garrison commander at Stonewall, two hexes east, needs a warband to hold an outpost for a season while his regular troops are redeployed. Garrison contract, 220 silver. Standard work.
+>
+> But Stonewall sits on the edge of the territory where the band holds Standing +2 from three completed contracts. The garrison commander's redeployment is aimed at a settlement called Fenwick — where the band occupied tribute two seasons ago. Feud Track at Fenwick is 2 (Coordinating). Taking the contract means the band will be stationed within striking range of a settlement that is actively organizing against them, working on behalf of the commander who may be the outside force Fenwick has been seeking.
+>
+> Petter does not know this. He surfaced the lead. The captain must decide whether the coin is worth the position — and whether refusing a contract from Petter's old contact costs the relationship that produced it.
 
 ### Three Quick-Builds
 
@@ -2005,7 +2271,7 @@ _Appearance: Not the biggest. Just the one standing when the others aren't._
 
 > **Example — The Named Man's Choice**
 >
-> Petter the Hook is a Veteran Line Man. Loyalty 2. Trigger: Left behind when wounded. The band is three days into a clearing contract when the GM draws a trigger event — the Gristle calls a retreat after a bad fight, and Brosa is down in the lower chamber. The captain says: "Leave him. We cannot hold the position."
+> Petter the Hook is a Veteran Line Man. Loyalty 2. Trigger: Left behind when wounded. The band is three days into a clearing contract — the lower chamber, where the air is thick with a smell like hot iron and scorched bristle, and something in the dark keeps charging the line — when the GM draws a trigger event. The Gristle calls a retreat after a bad fight. Brosa is down. The captain says: "Leave him. We cannot hold the position."
 >
 > Petter's trigger fires. Left behind when wounded. The GM rolls against Petter's Loyalty. He needs to beat difficulty 1 — the trigger's threshold. At Loyalty 2, he has room. He rolls: one sword. He holds. He follows the order. But his Loyalty drops to 1.
 >
@@ -2205,7 +2471,7 @@ Factor the protection cost into engagement planning. Two fighters committed to t
 
 A caster changes the band's operating numbers in two direct ways.
 
-**Casualty reduction.** In any engagement the band participates in, the injury and death rate drops by roughly 40% when a caster is present. A normal combat carries around an 8% chance of a man taking a serious injury; with a caster in the band it drops to around 5%. A hard engagement — stronghold assault, defense against a superior force — drops from a 15% death rate to around 9%. This is not the caster's active ability in the fight, but the passive effect of their presence: engagements entered on better information, protective workings in the line, the morale advantage of having something the other side does not. Fewer casualties means fewer replacements (each costs 3–8 silver and several days of gap in the roster), fewer death-morale rolls, and a band that holds its composition over seasons rather than bleeding out month by month.
+**Casualty reduction.** In any engagement the band participates in, the injury and death rate drops by roughly 40% when a caster is present. A normal combat carries around an 8% chance of a man taking a serious injury; with a caster in the band it drops to around 5%. A hard engagement — stronghold assault, defense against a superior force — drops from a 15% death rate to around 9%. This is not the caster's active ability in the fight, but the passive effect of their presence: engagements entered on better information, protective workings in the line, the morale advantage of having something the other side does not. Fewer casualties means fewer replacements (each costs 3–8 silver and several days of gap in the roster), fewer death-MORALE rolls, and a band that holds its composition over seasons rather than bleeding out month by month.
 
 **Contract premium.** A band with a caster negotiates 35% more on standard contracts. Employers who want military results improved by magic pay for it. An escort that pays 80–140 silver to a normal band pays 108–190 silver to a band with a caster. A clearing contract that pays 160–260 silver pays 216–350. The caster does not bargain for this separately — it is the captain's rate adjustment, and any employer who wants a caster band in the field knows the figure before the conversation begins.
 
@@ -2238,7 +2504,7 @@ This is where the value is most consistent and the risk is lowest. A druid with 
 
 After a fight, the druid moves down the line before the camp is even set — **Healing Hands** on the ones who took the worst of it. A man who would be half-useful for a week is back at fighting capacity by morning. **Preserve** keeps a good day's surplus from rotting overnight, which over a season transforms the band's food situation from constant edge-of-empty to something with a buffer. **Nature's Cure** holds off the low-grade attrition that bad water and cold ground produce in any sustained march; the man who drinks from the wrong stream doesn't cost the band a week anymore.
 
-**Weathermaster** is the rarest and the most decisive in the right moment. A druid who can call conditions in a hex — fog pulled in to mask a position, rain turned clear for a crossing — holds a card no conventional force can answer. Yssa's warband had been stuck below a flooded ford for five days. She spent the spell, pulled the rain clear for one Quarter Day, and they crossed before the opposing Host had finished their morning fire. The ford was knee-deep. There was no fight.
+**Weathermaster** is the rarest and the most decisive in the right moment. A druid who can call conditions over an area — fog pulled in to mask a position, rain turned clear for a crossing — holds a card no conventional force can answer. Yssa's warband had been stuck below a flooded ford for five days. She spent the spell, pulled the rain clear for one Quarter Day, and they crossed before the opposing Host had finished their morning fire. The ford was knee-deep. There was no fight.
 
 #### Scouting and Intelligence
 
@@ -2282,11 +2548,35 @@ A band that holds a position for more than a day has time to lay defensive magic
 
 These are tools for positions the band holds through a sustained campaign, not for camps broken before dawn.
 
+> **Example — The Ford That Cried Wolf**
+>
+> Ash sets a **Portent** on the north ford. The trigger: armed men crossing. The band settles into garrison.
+>
+> Day two: the Portent fires. Skalva and two fighters run to the ford in half-kit. It is the supply cart driver, returning with a wood axe on his belt. Armed man. Trigger met. False alarm.
+>
+> Day four: fires again. A traveling merchant with a hunting knife and a walking staff. Armed man.
+>
+> Day six: Rask is on watch. The Portent fires. He does not run. He says: "Cart again." He finishes his meal.
+>
+> Day six, the ford: eight riders with spears cross the north ford at dusk. No one is there to meet them. They reach the outer perimeter before the guard rotation catches the movement.
+>
+> The lesson costs the band a scrambled defense, two wounded fighters, and one lost horse. Ash re-keys the Portent the next morning: three or more armed men, on foot or mounted, approaching from the north between dusk and dawn. Tighter trigger, fewer fires. The first week taught her what the spell needed to know.
+
 #### What Magic Cannot Do
 
-**Preserve** stretches food. It does not produce it. A band that marches into a hex empty-handed cannot conjure provisions. **Telepathy** goes one direction to one person the caster knows, at limited range, once per WP expenditure — with no reply channel unless the other end has their own caster. **Farsight** requires the caster to have been at the location; without that, it costs more and risks more to reach. **Resurrection** fails when Willpower ran out in the fight, when the body is held, when the druid is down. The band that plans around guaranteed resurrection will be surprised exactly once.
+**Preserve** stretches food. It does not produce it. A band that marches into empty country cannot conjure provisions. **Telepathy** goes one direction to one person the caster knows, at limited range, once per WP expenditure — with no reply channel unless the other end has their own caster. **Farsight** requires the caster to have been at the location; without that, it costs more and risks more to reach. **Resurrection** fails when Willpower ran out in the fight, when the body is held, when the druid is down. The band that plans around guaranteed resurrection will be surprised exactly once.
 
 Mishaps are real. A bad push on a healing spell can produce a disease that spreads from the caster to whoever is nearest. A fear wave runs through your own rank. D6 days of degraded ability. The Ravenlands does not grade these results on intent.
+
+> **Example — The Push That Cost the Week**
+>
+> Ash is healing Petter after a rough clearing. Petter is at 1 Strength, one critical injury (cracked ribs). Ash has 1 Willpower remaining. HEALING roll with 2 base dice and 2 skill dice: no swords. She could leave it. Petter will recover in four days with rest. But rest means four days without the band's best shield arm, and the contract runs six more days.
+>
+> Ash pushes. Rerolls two dice. One skull, no swords. The mishap fires.
+>
+> The GM rolls on the magic mishap table: disease. Ash develops a coughing fever that spreads to anyone within arm's reach by nightfall. Petter, who she was touching, contracts it immediately. Within two days, three common fighters are down. The band loses five fighting days across six men — more than Petter's original wound would have cost.
+>
+> The Gristle does not blame Ash publicly. She adjusts the march and pulls the contract timeline. Privately, she adjusts the caster allocation: Ash no longer pushes healing rolls when the band has cover and time. The rule is not spoken. It is understood.
 
 #### Running the Hired Expert
 
@@ -2362,60 +2652,21 @@ Unlike fighter Named Men, caster agendas tend toward the personal, the ideologic
 | 5   | Their discipline treated as something to be feared, hidden, or apologized for                  |
 | 6   | Their personal agenda dismissed as unimportant by whoever they report to                       |
 
-### Caster Personalities
+### Caster Loyalty
 
-Casters share the same D66 roll structure as Named Men. The personalities below are tuned to practitioners — people who have spent years doing something most soldiers regard as either useful or frightening, and who have developed their own particular relationship with both outcomes. Roll D66 or assign:
+Hired casters do not use the Named Men Loyalty scale. Their commitment is governed by their contract terms — coin or agenda — not by a numbered score that rises and falls with shared hardship.
 
-| D66   | PERSONALITY                                                                                                                                                                            |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 11–13 | **Burnt Out** — Has witnessed enough through their discipline that reaction has been cauterized. Eats after the mishap. Smiles at the wrong moments. Completely reliable in the field. |
-| 14–16 | **Accounting** — Tracks WP expenditures, ingredient supply, and the band's payment consistency on a private mental ledger. Always knows what they have left and what you owe them.     |
-| 21–23 | **Contemptuous Expert** — Tolerates the band's ignorance of their discipline. Will correct misunderstandings once. After that, they stop explaining.                                   |
-| 24–26 | **Transactional** — Hired for specific work; performs that work accurately. Considers interest in them as a person to be a social error. Not unfriendly. Just precise.                 |
-| 31–33 | **Hiding Something** — Their stated reason for being here is plausible and probably not true. Whatever they actually want, it is patient and specific.                                 |
-| 34–36 | **Formerly Devout** — Was a devotee of something before the band. The faith, the order, or the teacher is gone now. They do not discuss it. The gap is still there.                    |
-| 41–43 | **Unreadable** — Their face does not report. Other men cannot tell if a roll went well or not, whether they are injured, whether they are afraid. This is intentional.                 |
-| 44–46 | **Collector** — Acquires things: ingredients, texts, small objects of no obvious value, overheard information. Never explains the criteria. Never discards anything.                   |
-| 51–53 | **Protective of the Work** — Will not waste their discipline on poor planning. Asks what the objective is before casting. Refuses requests that would expend rank on a coin-flip.      |
-| 54–56 | **Professionally Proud** — Regards their craft as a serious discipline practiced by serious people. Resents being used as a shortcut or invoked without preparation.                   |
-| 61–63 | **Death-Familiar** — Has looked at death through their discipline in a way soldiers look at it with iron. Not reckless. Just done being afraid of the specific thing.                  |
-| 64–66 | **Agenda-Driven** — Has a goal that preceded the band and will outlast it. The captain knows the outline. The full shape of it is not something they have shared.                      |
+A caster on coin terms stays as long as paid. If payment lapses, the non-payment rules above apply by tier: Initiates grumble like common fighters, Adepts withdraw magical services, Masters disappear.
 
----
+A caster on agenda terms stays as long as the agenda is progressing. Progress does not require resolution — it requires visible effort. A captain who takes contracts that move the band toward the caster's objective, who asks about it at council, who allocates a Quarter Day to pursue a lead — that captain keeps the caster. A captain who lets the agenda sit untouched for a full season with no visible effort loses the caster. No roll. No warning. The caster packed their kit the night before and was gone by first light.
 
-**THE SORCERER** _(Adept — Symbolism discipline, Loyalty 1)_
-STR 2, AGL 3, WIT 5, EMP 4 | WP: 3
-Skills: LORE 3, INSIGHT 3, MANIPULATION 2, SCOUTING 2, SURVIVAL 2, HEALING 1
-Path: PATH OF SYMBOLISM rank 3 | General Spells rank 2
-Spells: **Arcane Mark**, **Paralyze**, **Illusion**, **Sleep**, **Sense Magic**, **Obscure Magic**
-Armor: Leather (3) | Weapon: Short sword
-Trigger: A written agreement broken — they take contracts literally, to the word, and the captain who improvises around one will not get a second chance
-Agenda: Something was taken from them — something specific — and they will recover it or see it destroyed. The band's road happens to pass near where it is.
-_Appearance: Dresses better than the situation warrants. Carries a knife they clean but seldom draw. The marks they leave behind them are intentional._
+When a caster's Trigger fires, the response follows their tier rather than a Loyalty roll:
 
-### Caster Agendas
+- **Initiate:** Protests openly. Refuses the specific task. Stays in the band.
+- **Adept:** Withdraws magical services for 1D6 days. Does not cast, does not scout, does not heal. Eats the band's food and watches.
+- **Master:** Leaves. Often takes something — an ingredient cache, an intelligence map, a piece of knowledge the band did not know they had shared. The captain discovers the loss over the following week.
 
-Unlike fighter Named Men, caster agendas tend toward the personal, the ideological, or the specific. Roll D6 or assign:
-
-| D6  | AGENDA                                                                                                |
-| --- | ----------------------------------------------------------------------------------------------------- |
-| 1   | A specific place they need to reach — no explanation given, no deviation from the route               |
-| 2   | Someone they are looking for: alive, or verifiably dead                                               |
-| 3   | A piece of knowledge held by someone the band might encounter or be contracted against                |
-| 4   | A debt being repaid: protection of a person, repayment to a settlement, an obligation with a due date |
-| 5   | An object — lost, hidden, or held by the wrong hands — that they intend to recover                    |
-| 6   | Passage to somewhere that cannot be hired for directly; the band is the transit                       |
-
-### Caster Triggers
-
-| D6  | TRIGGER                                                                                        |
-| --- | ---------------------------------------------------------------------------------------------- |
-| 1   | Used as a weapon against something they consider protected — the sick, sacred ground, children |
-| 2   | Asked to push a spell without being told what objective justifies the risk                     |
-| 3   | A written or spoken agreement changed after the fact without their consent                     |
-| 4   | Credit for their work taken by the captain in front of a patron or employer                    |
-| 5   | Their discipline treated as something to be feared, hidden, or apologized for                  |
-| 6   | Their personal agenda dismissed as unimportant by whoever they report to                       |
+A caster whose Trigger fires twice in the same season leaves regardless of tier, contract, or agenda. The second time is the answer.
 
 ### Caster Personalities
 
@@ -2444,9 +2695,9 @@ Casters share the same D66 roll structure as Named Men. The personalities below 
 >
 > The push succeeds. The wound closes. But Ash has 0 WP remaining. She will not cast again until tomorrow evening at the earliest.
 >
-> That afternoon the Gristle asks Ash to run a **Farsight** on the approach to the next hex. Ash shakes her head. The Gristle starts to argue. Gest says: "She spent it on your men this morning. You chose that."
+> That afternoon the Gristle asks Ash to run a **Farsight** on the approach to the next day's march. Ash shakes her head. The Gristle starts to argue. Gest says: "She spent it on your men this morning. You chose that."
 >
-> The band marches into the next hex blind. Whatever is there finds them before they find it. That is the caster's cost — not the silver per day, but the choice about when to be empty. Every Willpower Point spent is a Point not available for the next problem. The captain who does not track it will be surprised exactly once.
+> The band marches into the next stretch of road blind. Whatever is there finds them before they find it. That is the caster's cost — not the silver per day, but the choice about when to be empty. Every Willpower Point spent is a Point not available for the next problem. The captain who does not track it will be surprised exactly once.
 
 ---
 
@@ -2489,21 +2740,23 @@ When a member of the band becomes wanted, the bounty amount determines how far t
 
 **Clearing wanted status:** restitution, killing the grantor, outlasting it (spread drops 1 tier per season the bounty goes uncollected), or MANIPULATION difficulty 3 to negotiate. A bounty uncollected for one full year with no renewed pursuit is considered cold — it exists but no longer actively spreads.
 
+**Re-posting a cold bounty:** A grantor may re-post a bounty that has gone cold. If re-posted within the same year the bounty went cold, it returns at one tier lower than where it faded. If re-posted after more than a year, it starts fresh at tier 1. Either way, the cold clock resets — the new bounty must go a full year uncollected before it goes cold again. A grantor who re-posts more than once pays double the original posting cost each time.
+
 ---
 
 ## Atrocities
 
-> _The order was given at the granary gate. The headman had refused. The clock was running. The Gristle said: "Burn it." She said it the way she said most things — flat, practical, the voice of a woman who had learned that hesitation cost more than the act itself._
+> _The order was given at the granary gate. The elder had refused. The contract clock was running and Hadric did not ask twice. He looked at Crane and said: "Open it."_
 >
-> _Rask moved first. He always moved first when the order pointed toward damage. Petter stood in the line and did not move. The common fighters looked at each other. Skalva looked at the granary. It was the only structure in the village that held everything that would keep these people alive through winter._
+> _Crane put his shoulder through the latch. The Lamp stood behind the line with his arms folded, watching the common fighters' faces the way a man watches weather. Varis was already at the far end of the street, positioned where he could see the road north._
 >
-> _Gest lit the torch._
+> _Hadric said: "Burn it."_
 >
-> _The flames took the thatch in a quarter of an hour. Nobody screamed. The headman stood in the road and watched it go and did not move. The children had been pulled inside by their mothers before the first spark. By evening the column was two hexes north and the smoke was still visible behind them._
+> _Crane carried the torch. He did not hesitate. The thatch took in a quarter of an hour and the whole structure was gone before dark. The elder stood in the road and watched it go. The children had been pulled inside by their mothers before the first spark. By evening the column was a day's march north of Feldwick and the smoke was still visible behind them._
 >
-> _Nobody spoke. Not at the evening fire. Not at the morning count. Petter sharpened a knife that was already sharp. Skalva washed his boots. Brosa sat with his back to the fire and stared at nothing._
+> _Nobody spoke. Not at the evening fire. Not at the morning count. Crane cleaned his maul. Sov sat apart and stared at nothing. Merric walked the perimeter twice and spoke no report._
 >
-> _The Gristle checked the ledger. The contract was on schedule. The granary was gone. The village would have nothing to eat by first frost. She wrote this in no document and carried it in no place that anyone could read._
+> _Hadric checked the ledger. The contract was on schedule. The granary was gone. The village would starve by first frost. He carried this in no document and in no part of himself that anyone could read._
 
 An atrocity is an act that crosses a visible line — visible enough that it defines what the band is known for.
 
@@ -2525,13 +2778,31 @@ An atrocity is an act that crosses a visible line — visible enough that it def
 3. **MORALE check.** Unless the men benefited materially, check MORALE. Ordered massacres with no apparent gain: MORALE -1. A Named Man with Loyalty 2 or 3 may state they will not repeat it. A Named Man with a civilian-harm Trigger must be tested.
 4. **Bounty.** Anyone with standing and motive can post a bounty within a season. Villages destroyed in an atrocity can be assumed to have survivors carrying the story forward.
 
-> **Example:** Pell's men burn the granary at Salthorn because the gate foreman refused to open up and the contract was on a clock. No one is killed. Standing at each settlement within three hexes drops by 2 — four villages that have sheltered the band before. MORALE check: the men made nothing on the burn. Galt, Loyalty 2, a civilian-harm Trigger on his sheet, rolls against Loyalty and fails. He does not leave that night. He is in his bedroll calculating whether there is better work in the next town north.
+> **Example:** Hadric's men burn the granary at Salthorn because the gate foreman refused to open up and the contract was on a clock. No one is killed. Standing drops by 2 at Salthorn and every settlement within a day's ride — Feldwick, Vond, the Millbridge crossing, the livestock market at Gren's Fork. Four villages that have sheltered the band before. MORALE check: the men made nothing on the burn. Jorund, Loyalty 2, a civilian-harm Trigger on his sheet, rolls against Loyalty and fails. He does not leave that night. He is in his bedroll calculating whether there is better work in the next town north.
 
 **Plunder and MORALE.** The +1 from "atrocity ordered, men gained plunder" fires only when MORALE is currently 2 or below. At MORALE 3+, the men do not need blood-money to hold together. The atrocity still produces plunder and still forces Standing and Reputation consequences. It does not move MORALE when the band is stable.
 
 This makes the atrocity-plunder trigger a desperation tool. A Tyrant captain who orders atrocities at MORALE 4 gains nothing from the trigger table. The Standing and Reputation damage accrues without the MORALE payoff. At MORALE 2, the same order buys one step. The system does not moralize — it accounts for when cruelty has leverage and when it has only cost.
 
-**Oath-Breaker Status.** Repeat contract breaches, betrayals, and broken oaths accumulate into an OATH-BREAKER flag. Once a band has broken three oaths on record: all MANIPULATION rolls for new contracts take -2 difficulty. Any settlement elder or warchief who knows the flag will not hire them without extraordinary assurance, usually collateral. The flag reverses only by publicly honoring a particularly costly obligation — one where keeping the oath demonstrably hurt the band. This is the only mechanism.
+**Oath-Breaker Status.** Repeat contract breaches, betrayals, and broken oaths accumulate into an OATH-BREAKER flag.
+
+At two breaches on record, the GM should warn the players openly: one more and the flag lands. The warning is not subtle — an employer, a gate guard, or a Named Man states it plainly.
+
+Once a band has broken three oaths on record: all MANIPULATION rolls for new contracts take +2 difficulty. Any settlement elder or warchief who knows the flag will not hire them without extraordinary assurance, usually collateral.
+
+**Clearing the flag:** The band must publicly honor a costly obligation — one where keeping the oath demonstrably hurt the band. The obligation must be witnessed by at least one settlement elder or employer of Standing 2 or higher. Losing fighters, taking wounds, or forgoing profitable work all count. The flag lifts when the deed is done and the witness confirms it. This is the only mechanism.
+
+> **Example — Three Marks**
+>
+> Season one: the band abandons a clearing contract at the halfway mark when a better offer arrives from a borderlord. Breach recorded. Allegiance with the original employer drops to 0.
+>
+> Season three: the band breaks a garrison contract early to avoid a siege they were not equipped for. The employer was reasonable — he understood the situation — but the word still travels. Breach two.
+>
+> Season five: a sworn escort fails when the band diverts to pursue a personal vendetta of the captain's. The merchant's goods are lost in transit. Breach three. OATH-BREAKER flag lands.
+>
+> The next contract negotiation, the Gristle rolls MANIPULATION to secure a garrison hold at Stonewall. Base difficulty 2 for the contract type. OATH-BREAKER adds +2 difficulty. She is rolling against difficulty 4. The elder at Stonewall has heard the name. He wants collateral — half payment held by a third party, returned only on completion. The work is the same. The price of reaching it has doubled.
+>
+> One season later, a border village begs the band to hold a bridge against raiders. The contract pays poorly — 60 silver for two weeks of hard fighting. The band holds the bridge. Three fighters are wounded. The village survives. The Gristle did not take the contract for the coin. She took it for the flag. One publicly honored obligation, demonstrably costly — three wounded, no profit, a village still standing. The OATH-BREAKER flag lifts. The next negotiation returns to base difficulty.
 
 ---
 
@@ -2544,7 +2815,17 @@ A dedicated space for planning field operations — maps, intelligence reports, 
 - **Tools:** Saw, hammer
 - **Time:** 2 weeks
 - **Reputation:** +1
-- **Effect:** When planning a contract from this location, the leader makes one LORE roll (difficulty 2) to learn one material fact about the target hex or NPC. A SCRIBE automatically succeeds with one ⚔️. The leader may leave standing orders with a STEWARD that trigger under named conditions.
+- **Effect:** When planning a contract from this location, the leader makes one LORE roll (difficulty 2) to learn one material fact about the target hex or NPC. A SCRIBE automatically succeeds with one ⚔️. The leader may leave standing orders with a STEWARD (a Named Man assigned to manage the stronghold in the captain's absence) that trigger under named conditions.
+
+> **Example — What the Maps Told Them**
+>
+> The Gristle receives a contract offer: escort a merchant caravan through the old forest east of Hollowford to the Amber Peak markets. Standard escort, 180 silver. Before accepting, she moves to the War Room.
+>
+> LORE roll against difficulty 2. She has LORE 1 and WIT 4: five dice. Two swords. Success.
+>
+> The GM reveals one material fact: an active bandit camp sits on the east road between Hollowford and the ford at Gren's Crossing, reported by the last patrol through the area. The bandits number between eight and twelve — enough to overwhelm a caravan guard, not enough to hold against a prepared warband.
+>
+> The Gristle adjusts the route. Instead of the east road, she takes the caravan north through the hill country past Skaldermark — two extra days of march, rougher ground, but no known ambush point. She leaves standing orders with the Steward: if a second caravan arrives requesting the same route within ten days, send a rider to warn them about the east road. The cost of the War Room was 200 stone and 100 wood. The cost of the ambush would have been fighters and reputation. The math is simple.
 
 ---
 
@@ -2554,7 +2835,7 @@ A dedicated space for planning field operations — maps, intelligence reports, 
 >
 > _She entered as FRESH. She ate what the cook made. She slept where the sergeant indicated. She carried her gear and she fought when ordered and she held her opinions until asked, which took six weeks, because Torsten's company did not ask fresh blades for opinions and fresh blades who offered them learned quickly that the offering was the problem._
 >
-> _She advanced to BLADE after the second engagement. She advanced to CALLED after the fifth, when she held a ridge line alone for one Quarter Day because the relief was late and the alternative was letting a flank column through. Torsten gave her the name: Gristle. She did not choose it. She did not argue it. The name that sticks is never the one the person would have chosen._
+> _She advanced to BLADE after the second engagement. She earned her call name after the fifth, when she held a ridge line alone for one Quarter Day because the relief was late and the alternative was letting a flank column through. Torsten gave her the name: Gristle. She did not choose it. She did not argue it. The name that sticks is never the one the person would have chosen._
 
 Most fellowships come to mercenary life as commanders. Some start from below. A fellowship without coin or reputation may sign on under an existing captain. The view from the bottom is different — the politics are smaller and more immediate, the dangers are the same, and the captain makes decisions the fellowship must live with.
 
@@ -2590,7 +2871,6 @@ The fellowship is subject to standing orders immediately. Breaking one is not gr
 | ----------- | --------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------- |
 | FRESH       | First contract, no record                                       | 1 silver | None. Takes every order from anyone BLADE or higher.                                  |
 | BLADE       | Two engagements survived and returned. The company has seen it. | 1 silver | May speak at council. May be assigned a task detachment.                              |
-| CALLED      | Carries a call name                                             | 2 silver | May lead detachments of 3–5 men.                                                      |
 | TENSMAN     | Commands a unit of ten through a full contract                  | 3 silver | MANIPULATION for their unit's minor discipline. Handles the unit's daily assignments. |
 | SERGEANT    | Commanded a section through hard fighting and kept it together  | 4 silver | May substitute their MANIPULATION for the captain's on section-level MORALE checks.   |
 | FIRST BLADE | The captain's right hand. Only one at a time.                   | 8 silver | Full authority short of overriding a contract. Leads if captain is absent.            |
@@ -2602,6 +2882,8 @@ Rank given under pressure or by extraction feels like neither rank nor respect. 
 ### The Call Name
 
 A call name is granted when a deed is witnessed by at least three company members and at least one Named Man sponsors it. The name comes from what they did, how they look, or something they survived. The player proposes a name after the deed; the GM shapes it.
+
+A fighter who earns a call name receives 2 silver per day and may lead detachments of 3–5 men. The name is the promotion. No separate rank exists for it — the company simply knows who you are.
 
 A call name travels. Settlements that know the company may know the name before they know the face.
 
@@ -2632,6 +2914,14 @@ A call name travels. Settlements that know the company may know the name before 
 
 The GM may adapt: Twice-Broken, Cold-Eye, The Half, Long-Shepherd, Pale Winter. The words are raw material, not fixed names.
 
+> **Example — Earning the Name**
+>
+> Maren has been BLADE for two months in Torsten's company. During a night raid on a fortified camp, the sergeant goes down — an arrow through the shoulder that puts him flat. The ten-man section freezes. Maren grabs the sergeant's horn, blows the rally, and calls the section forward through the breach. No MANIPULATION roll — she is not giving an order, she is filling a gap. The five nearest men follow because she moved first.
+>
+> The breach holds. The contract completes. Afterward, Petter — a Named Man with Loyalty 3 — goes to Torsten and tells him the girl at the breach should carry a name. Torsten asks what name. Petter says nothing — he looks at Maren. The other men are already talking about it. Someone suggests "the Horn" for the rally call, another "Breach" for where she stood. The men who were there settle on "Ironback" because she turned her back to the archers to face the section forward. Torsten accepts it. He says the name once. The sergeant, arm in a sling, nods. By the next morning three men use it without thinking. By the following week it is the only name anyone uses.
+>
+> Maren earns her call name. Her pay rises to 2 silver per day and she may lead detachments of three to five men. The name travels — at the next settlement, a gate guard recognizes it. She is the Ironback from the Stillmire breach.
+
 > **GM Advice — Running the Captain**
 >
 > Make the captain someone who is often right. Not a tyrant waiting to be removed. Not a mentor waiting to validate the fellowship. Their orders look wrong when given. They tend to look correct when the fighting starts. Build at least two decisions that work this way before you put the captain in a position where the fellowship can justifiably go against them.
@@ -2659,6 +2949,16 @@ The captain gives orders. The fellowship may find those orders wrong, dangerous,
 - **Refuse openly** — no roll. The company records the refusal. The fellowship member is treated as insubordinate until they leave or the captain releases the obligation. Other Named Men may adjust their behavior.
 - **Act against the order** — the fellowship does the opposite. If the outcome clearly benefits the company, MANIPULATION difficulty 2 to explain it afterward; the captain may reconsider or, in rare cases, promote. If it costs the company, this is contract breach under Section 5. The captain does not forget it.
 
+> **Example — The Wrong Hill**
+>
+> Torsten orders the company to hold a ridge above a river ford while he pulls the supply wagons south. The enemy column is visible to the east and closing. Maren looks at the ground and sees it: holding the ridge means the enemy pins them against the river. Torsten is preserving the wagons. He is spending the ridge holders to buy his withdrawal.
+>
+> Maren decides to act against the order. Instead of holding, she pulls her section back to a tree line to the south — lower ground but with cover and a clear escape route west. Three common fighters follow her. The rest hold the ridge as ordered.
+>
+> The ridge holders break. Two men die. Maren's position in the tree line survives contact and links up with the wagons that evening on the south road.
+>
+> Now the reckoning. Maren rolls MANIPULATION at difficulty 2 to explain the decision. She rolls two swords — success. Torsten listens. He does not agree. He says: "The ridge held long enough because your men were not there to break first. That is not the same as being right." Maren is not punished. But the First Blade pulls her aside that night and tells her that the three men who followed her off the ridge are now known as hers. That loyalty is real. It is also noticed. The next order Torsten gives her will be the one that tests whether she follows or leads.
+
 ### Leaving the Company
 
 At the end of a contracted term, the fellowship departs cleanly. No roll. The captain may offer new terms; the fellowship declines or negotiates.
@@ -2674,6 +2974,26 @@ Departing mid-contract is breach. The captain's Standing at nearby settlements d
 On success: the captain is removed. The senior mutineer assumes command. If that is a PC, the company transitions to the PC-led model. The previous captain's active contracts, grievances, and Standing at settlements all transfer to the new leadership.
 
 On failure: the mutiny collapses. Each Named Man who participated rolls Loyalty immediately. The captain will purge the ringleaders.
+
+> **Example — The Breaking of Torsten's Company**
+>
+> Torsten orders the company to burn a granary at a village that sheltered them two seasons ago. The elder had refused passage to a rival band — Torsten's current employer wants the village punished for the refusal, not the shelter. The contract says "enforce compliance." Torsten reads it as written.
+>
+> Three Named Men refuse. Held the Pale, Loyalty 3, has a civilian-harm Trigger. Rost, Loyalty 2, fought beside these villagers once. Maren, who carries a call name, has served six months under Torsten's orders and owes the elder a personal debt from the first contract.
+>
+> The witnessed trigger is clear: Torsten is ordering an atrocity against people the company has history with. The three Named Men stand in the road. The senior mutineer is Held — longest service, highest rank among the challengers.
+>
+> Held rolls MANIPULATION at difficulty 3. He has EMP 3, MANIPULATION 2 — five dice. He rolls: two swords. Success.
+>
+> Torsten's opposed roll: EMP 4, MANIPULATION 3. Seven dice. One sword. He loses.
+>
+> The company splits. Torsten steps down. He does not beg. He sets his polearm against the wall and walks to the supply wagon and begins packing his personal kit. The First Blade watches in silence, then approaches Held within the hour and pledges service — he needs a direction to march.
+>
+> Held looks at Maren. Maren looks at the village. The elder is standing in the gate, watching armed strangers argue about whether to destroy her home.
+>
+> The contract is void. The employer will post a GRIEVANCE. Torsten's Standing at three settlements transfers to Held's name, along with the debts. The company is intact. The cost of keeping it intact is everything the contract would have paid and the employer's Allegiance, which drops to 0. Held's first act as captain is to tell the elder they are leaving. His second act is to ask whether the village needs anything carried.
+>
+> The third act — finding new work with a company known for mutiny — is tomorrow's problem.
 
 ---
 
@@ -2785,6 +3105,8 @@ The GM holds the treasury total. The PCs either manage it (if they are the Warma
 
 > **If the Host has a caster:** ARCANE MARK on the treasury coffer lets the Warmaster hear whatever the box hears, once per ritual casting. BIND MAGIC on the vault triggers a concealed signal when someone opens it uninvited. COMPEL TRUTH at a formal audit prevents the subject from stating a direct lie when questioned.
 
+**Warmaster's Share.** The Warmaster draws a weekly share equal to the highest-paid band captain's rate, taken from treasury before allocation. If the treasury cannot cover both the share and full band pay, the Warmaster's share defers first. A Warmaster who draws their share while bands are on deferred pay loses 1 Ledger per week until the deferral is resolved or the share is suspended.
+
 ### Band Budgets and the Purser
 
 Each band draws from the Host treasury at a fixed rate, tracked by a purser — a Named Man or trusted NPC appointed by the Warmaster.
@@ -2799,13 +3121,15 @@ Each band draws from the Host treasury at a fixed rate, tracked by a purser — 
 
 A band that exceeds its local budget without authorization draws against the next week's allocation. Two consecutive overruns trigger a purser review.
 
-**Deferred pay:** When the treasury is short, the Warmaster may declare a deferral: pay is delayed, not cut. Each week of deferral is recorded. The Warmaster takes -1 to their authority roll at the next Host Council while deferred pay is outstanding. A deferred debt that goes three weeks unpaid becomes a Grievance.
+**Deferred pay:** When the treasury is short, the Warmaster may declare a deferral: pay is delayed, not cut. Each week of deferral is recorded. The Warmaster takes -1 to their authority roll at the next Host Council while deferred pay is outstanding. A deferred debt that goes three weeks unpaid becomes a GRIEVANCE.
 
 > **If the Host has a caster:** RECALL MEMORY gives a purser perfect recollection of any past transaction. COMPEL TRUTH lets the Warmaster cross-examine specific claims.
 
+**Bonus Allocations.** The Warmaster may direct a bonus allocation to a single band from the operating pool. Each bonus that visibly favors one band costs the Warmaster 1 Ledger with every other band captain. A MANIPULATION roll at difficulty 2 keeps the bonus discreet for one season; on failure, every captain learns and the Ledger loss is immediate. Two bonuses to the same band in one season, without clear operational need, grants the favored captain +1 to their next Council authority roll and gives every other captain a GRIEVANCE.
+
 ### Dispatch and Messengers
 
-A Host does not fight in one place at once. Bands may be one hex apart or twenty hexes apart. Orders written at the Warmaster's table take time to arrive. Information lag is real and has mechanical teeth.
+A Host does not fight in one place at once. Bands may be one day apart or twenty days apart. Orders written at the Warmaster's table take time to arrive. Information lag is real and has mechanical teeth.
 
 A rider on a sound horse covers six hexes per day on clear roads, four in difficult terrain.
 
@@ -2823,6 +3147,20 @@ A rider on a sound horse covers six hexes per day on clear roads, four in diffic
 **Urgent riders:** A Warmaster who needs a message delivered fast may send a relay — two or three riders carrying copies via different routes. Cost: 2–5 silver per rider.
 
 **The reply problem:** A captain sending a report back faces the same delay. Plans that depend on real-time communication will fail. The Host that functions well under information lag has Warmasters who write orders that do not depend on perfect relay, and captains who execute against intent rather than the letter.
+
+> **Example — The Rider Who Did Not Arrive**
+>
+> Seld dispatches a rider to the Gristle’s band with new orders: hold position at the river fort, do not advance. The rider crosses two hexes of contested ground. The GM rolls SCOUTING at difficulty 2. Failure. The rider is captured by a hostile patrol.
+>
+> The Gristle does not know the order exists. Her standing orders say: advance to the supply point at the crossroads by third day if no new instruction arrives. Third day comes. No rider. She advances.
+>
+> At the crossroads she finds the enemy column — the same column Seld wanted her to avoid. The fight costs her two common fighters and a Named Man’s wound that will take a week to heal. She holds the crossroads, but the supply point is empty. The enemy stripped it two days ago.
+>
+> Seld, eight hexes south, does not know any of this happened. He sends a second rider on day five. This one arrives. The Gristle reads the order: "Hold position at the river fort." She is standing at a crossroads, two men short, with an empty supply point and a wounded Named Man.
+>
+> She sends her reply with the same rider: "Crossroads held. Supply point empty. Two lost. Send food." The rider arrives at Seld’s camp on day seven. Seld reads it. The Ledger drops −1 — a rider lost and an operation that failed because of it. The Gristle acted on standing orders. She was not wrong. Seld’s plan assumed a message would arrive. It did not. The gap between intent and information is two dead men and a week of recovery.
+
+---
 
 > **If the Host has a caster:** Words on the Wind directs the druid's hearing to any visible point at Distant range — enough to confirm a position is held before committing movement. Telepathy sends a thought directly to a captain at Long range, one direction. A raven commanded through Beastmaster crosses terrain a rider cannot.
 
@@ -2895,21 +3233,46 @@ Bands within the same Host compete. When the Host has enough work for everyone, 
 
 Rivalry does not reset at Host dissolution. If the two bands encounter each other again in a future Host or neutral territory, their prior Rivalry carries forward at −1 (minimum 0).
 
-> **If the Host has a caster:** ARCANE MARK on a rival captain's coin purse lets the Warmaster hear what is said at the other fire. If discovered, the offended captain gains grounds for a formal Grievance hearing.
+> **Example — The Gristle and the Three Wolves**
+>
+> Week one: Seld assigns the Gristle’s band and the Three Wolves to a joint clearing contract — a ruin complex, two entrances, one band per approach. The Three Wolves captain, Hadric, is competent and quiet. Rivalry starts at 0.
+>
+> Week two: The Three Wolves breach the east entrance first and claim the kill on the target. The Gristle’s band held the west approach and prevented the thing from escaping — without them, Hadric’s men would have chased it into open ground. Seld credits the Three Wolves. Rivalry +1. The Gristle says nothing. Petter sharpens something.
+>
+> Week four: A Named Man from the Gristle’s band — Rask, Loyalty 1, calculating — takes a conversation with Hadric’s sergeant. The next morning Rask announces he is transferring. Rivalry +1. Now at 2. MANIPULATION between the Gristle and Hadric carries +1 difficulty.
+>
+> Week six: Seld assigns both bands to a garrison rotation at a river fort. Shared camp. At Rivalry 2, one random Minor Offense incident fires per week. The GM rolls: a Three Wolves common fighter accuses one of the Gristle’s men of stealing rations. The accusation is probably true. The confrontation happens at the boundary line between camps. Both sergeants arrive. Neither backs down.
+>
+> The Gristle goes to Seld. She asks him to broker a ceasefire — one council action, one REPUTATION point from Seld. He refuses. He has other problems. Rivalry stays at 2.
+>
+> Week eight: both bands bid for the same escort contract out of the garrison. Rivalry +1. Now at 3. Joint operations require MANIPULATION difficulty 2 from both captains. The next time Seld assigns them together, neither captain will agree without a separate negotiation. The Host has two bands that cannot function beside each other, and the man who could have fixed it for one REPUTATION point is now paying for it in operational flexibility.
+> **If the Host has a caster:** ARCANE MARK on a rival captain's coin purse lets the Warmaster hear what is said at the other fire. If discovered, the offended captain gains grounds for a formal GRIEVANCE hearing. MOLD MEMORY can bury the incident that started the Rivalry; if a witness contradicts the altered version, the Rivalry resumes at its prior score plus one.
 
 ### The Host Council
 
 Band captains attend — in person or by representative. A council costs one full Quarter Day.
 
-**What a council decides:** Operational changes, resource allocation, Grievance hearing, status designations.
+**What a council decides:** Operational changes, resource allocation, GRIEVANCE hearing, status designations.
 
-**What the Warmaster can force through:** Everything at difficulty 0, nothing with the word "takes." The Warmaster assigns targets, allocates budgets, and sets the march. They cannot force reduced pay without a MANIPULATION roll. They cannot force an operation a band cannot sustain without a MANIPULATION roll at difficulty equal to the captain's REPUTATION divided by 2 (round up). They cannot revoke a captain's command in front of the assembled council without creating a Rivalry, a Grievance, or both — unless the revocation comes with clear evidence the captain has broken standing orders.
+**What the Warmaster can force through:** Everything at difficulty 0, nothing with the word "takes." The Warmaster assigns targets, allocates budgets, and sets the march. They cannot force reduced pay without a MANIPULATION roll. They cannot force an operation a band cannot sustain without a MANIPULATION roll at difficulty equal to the captain's REPUTATION divided by 2 (round up). They cannot revoke a captain's command in front of the assembled council without creating a Rivalry, a GRIEVANCE, or both — unless the revocation comes with clear evidence the captain has broken standing orders.
 
-**Captains calling council:** A band captain with REPUTATION 3+ may call an emergency council without Warmaster authorization if two other captains co-sign the call. The Warmaster must attend or formally refuse. A refusal costs the Warmaster −1 REPUTATION. A captain who calls council and cannot get co-signers marks a Grievance against the Warmaster in their own ledger — private, unspoken, building.
+**Captains calling council:** A band captain with REPUTATION 3+ may call an emergency council without Warmaster authorization if two other captains co-sign the call. The Warmaster must attend or formally refuse. A refusal costs the Warmaster −1 REPUTATION. A captain who calls council and cannot get co-signers marks a GRIEVANCE against the Warmaster in their own ledger — private, unspoken, building.
 
 **Council vote:** Each captain has one vote. The Warmaster has two. A tied vote goes to the Warmaster. A vote that goes against the Warmaster two-to-one may be overridden at REPUTATION -1 and a Rivalry entry.
 
-> **If the Host has a caster:** Block Reading on the council tent seals it against Farsight, Arcane Mark listening, and Telepathy relay. COMPEL TRUTH during a Grievance hearing prevents direct lying.
+> **Example — The Stillmire Vote**
+>
+> Seld calls council. The campaign needs a band to hold the Stillmire bridge for two weeks while the main force moves south. The bridge position is exposed — no fortification, no retreat line, and the enemy column has been sighted three hexes north. The assignment is a rearguard. Someone holds. Someone bleeds.
+>
+> Seld assigns the Gristle's band. The Gristle objects. She asks for a MANIPULATION roll against Seld's REPUTATION of 6 — difficulty 3. She rolls: one sword. Failure. The order stands.
+>
+> She calls for a council vote. Vord votes with Seld — Vord's band is moving south, and the Gristle's position on the bridge makes that possible. The Three Knots captain votes with the Gristle — he knows the bridge is a death post and his band could be next. Two other captains abstain. The count: Seld 2 votes (double vote) plus Vord 1 = 3 for. Gristle 1 plus Three Knots 1 = 2 against. Seld wins.
+>
+> The Gristle could push it. She has REPUTATION 3. She could call an emergency council with the Three Knots captain as co-signer and force a second hearing. But Seld is not wrong — someone must hold the bridge, and her band is the strongest available. She takes the assignment. She sends Gest to the bridge that afternoon to assess fortification options. She tells Petter to count the food.
+>
+> At the bridge, she discovers the position is better than the map suggested — a stone abutment on the west side that provides cover. She sends a rider to Seld: "We hold. Send resupply by day four." Seld notes the message. If the resupply arrives, the Ledger holds. If it does not, the Gristle will remember the vote.
+
+> **If the Host has a caster:** Block Reading on the council tent seals it against Farsight, Arcane Mark listening, and Telepathy relay. COMPEL TRUTH during a GRIEVANCE hearing prevents direct lying.
 
 ### The Warmaster's Ledger
 
@@ -2941,6 +3304,22 @@ Track separately from personal REPUTATION. Runs from -6 to +6, starts at 0.
 
 A Ledger that hits -6 triggers automatic dissolution unless the Warmaster resigns first.
 
+> **GM Note:** In practice, most Ledgers stay between -3 and +3. A Warmaster who reaches +4 has earned near-absolute authority. A Warmaster who hits -4 is already losing captains. The outer range exists for dramatic finality, not for routine play.
+
+> **Example — Seld’s Ledger Over Six Weeks**
+>
+> **Week 1:** The Host completes the garrison contract at Stillmire. All bands paid on schedule. Ledger +1. Total: +1.
+>
+> **Week 2:** Seld negotiates passage rights with a regional warchief, securing a safe supply corridor for three bands. Ledger +1. Total: +2. Standard authority — orders require normal MANIPULATION.
+>
+> **Week 3:** The supply corridor is raided. Seld deferred pay to cover emergency resupply. One week of deferral recorded. Ledger −1 at next council if unresolved. Total holds at +2 pending resolution.
+>
+> **Week 4:** Deferred pay unresolved. Council meets. Ledger −1 for the outstanding deferral. Total: +1. Seld overrides a vote to redirect the Three Wolves from garrison to a clearing contract — two captains voted against, Seld forced it. Ledger −1 for the override. Total: 0. Neutral. Seld is spending authority faster than he earns it.
+>
+> **Week 5:** The clearing contract succeeds with low casualties. Ledger +1. Total: +1. Seld pays the deferred wages from the clearing contract proceeds. The deferral penalty clears. Stable.
+>
+> **Week 6:** A dispatch rider is lost in hostile territory. The Gristle’s band advances on standing orders into an enemy column. Two men dead. Ledger −1 for the lost rider. Ledger −1 for band casualties caused by a disputed order. Total: −1. Every order now requires MANIPULATION at +1 difficulty. Two bad weeks turned a competent Warmaster from trusted to questioned. The next council will be harder.
+
 > **If the Host has a caster:** Divination before a major operation gives the Warmaster one honest, brief answer to one question. A Warmaster who acts on it and earns a positive result counts the ritual as +1.
 
 ### Host Dissolution
@@ -2955,33 +3334,26 @@ Hosts end. Some cleanly. Most do not.
 
 **After dissolution:** Individual bands keep their MORALE score, Named Men, gear, and Allegiance. The Host's shared REPUTATION distributes unevenly — each captain's account with factions and settlements is based on what they personally did. A band captain who honorably completed every assignment walks away with real standing. A band captain present for an atrocity committed by a rival band under the same banner walks away with whatever the witnesses remember. This is the price of shared banners: the bad ones follow everyone.
 
+> **Example — The Collapse of Seld’s Host**
+>
+> The campaign was supposed to last the season. It lasted nine weeks.
+>
+> The employer — a regional warchief — stopped paying after a border dispute made the campaign objective politically inconvenient. Seld’s treasury had two weeks of operating reserve and no strategic reserve, because he spent it buying off a captain who threatened to defect three weeks earlier. The Ledger sat at −4.
+>
+> Week one without pay: Seld declares a deferral. Three captains accept. The Gristle accepts. Hadric of the Three Wolves does not. He tells his men the money is gone and they should make their own arrangements.
+>
+> Week two: Two bands desert overnight. Not formally — they march before dawn and leave their camp markers standing. The watch sees them go and does not intervene. Seld’s Ledger drops to −6. Automatic dissolution triggers.
+>
+> Seld does not call council. There is no council to call. Three captains are already packing. The treasury coffer has forty-three silver in it — enough to cover one band’s pay for three days. Seld sets it on the table at the command tent and walks away.
+>
+> The Gristle arrives at the tent with Gest. They look at the coffer. Gest counts it. Forty-three silver will feed their band for four days if they forage half the food.
+>
+> The decision: take the forty-three silver and march before anyone else claims it, or leave it and walk out clean. Taking it is not theft — no authority remains to dispute a claim. Leaving it means the forty-three silver sits on the table until someone with fewer scruples collects it.
+>
+> The Gristle takes twenty silver. Enough for three days of food. She leaves the rest for whoever comes next. She tells Gest to note it in the ledger. Gest tells her there is no ledger — the Host is dissolved. She tells him to write it anyway. They will know what they took.
+>
+> They march south. MORALE holds at 3 — the band was paid through last week and the Gristle’s decision to leave the surplus behind is the kind of act that prevents a MORALE check rather than triggering one. Petter carries the standard. Skalva watches the road behind them. Ash counts her reagents. The Host is gone. The band is not. That is the difference between a Warmaster’s problem and a captain’s.
 > **If the Host has a caster:** Locate traces any person or object the caster has personally encountered — enough to find scattered bands and confirm whether the strategic reserve was carried off. A Recall symbol inscribed at the treasury vault lets the Warmaster transport back during a collapse.
-
----
-
-## Appendix A: Integration Points
-
-This chapter connects to the core rules in the following places:
-
-**TALENTS** chapter. Named Men talents are drawn from the general talent list. Caps per tier are listed in the Named Men section. No new talents are introduced.
-
-**PATH OF THE COMMANDER** (the **TALENTS** chapter). A PC who has taken PATH OF THE COMMANDER at any rank may substitute PERFORMANCE for MANIPULATION on band MORALE checks. At rank 3, when they grant an immediate melee attack to allies, Named Men may be included if within command radius with line of sight and voice. At rank 5, the Sergeant need not be present to relay — the conditioning carries on the men's initiative.
-
-**MASTER OF THE HUNT.** A fellowship member with this talent can reduce the band's daily food cost by assigning themselves as head forager. Their special trap clause allows traps to work while the band drills in camp.
-
-**COLD-BLOODED.** Fellowship members with COLD-BLOODED do not personally contribute to the band's aggregate MORALE penalty when an atrocity is ordered. The trigger table's -1 still fires — it reflects the band's reaction, not the leader's composure. Named Men still roll Loyalty checks against their own Triggers.
-
-**JOURNEYS** chapter. Foraging uses the daily field ration table in this chapter, which replaces individual forager rolls for bands. Season modifiers from the **JOURNEYS** chapter apply. Reputation cascade from the **JOURNEYS** chapter governs how bounty and atrocity news travels.
-
-**Reputation Cascade.** The band does not have its own Reputation score separate from the fellowship's. Their name is the fellowship's name. Every deed adds to or subtracts from the same pool. If the band operates independently for a full season, atrocities committed still attach to the fellowship's name.
-
-**Feud Track.** If the band operates in contested hunting ground, the FEUD TRACK rules (the **JOURNEYS** chapter, optional rules) apply. A mercenary band hunting in a claimed hex without negotiation advances the track as if it were a rival hunting party — because it is.
-
-**THE STRONGHOLD** chapter. The WAR ROOM is a new Stronghold function. TRAINING GROUNDS and SHOOTING RANGE from **THE STRONGHOLD** chapter are prerequisites for Veteran and Elite recruitment. The GUARD hireling from **THE STRONGHOLD** chapter is the Common fighter tier.
-
-**Stronghold Defense Rating.** When the band returns home, fighters may be assigned to GUARD duty, contributing to Defense Rating under the unit points formula. Named Men during downtime may be assigned to: TRAINING (drill the guards, +1 to COMMAND roll next season), SCOUTING (standing patrol covering one week of contract terms), or LOGISTICS (reduces weekly provision cost by 1 per Named Man, to minimum half). Named Men on stronghold duty do not advance — no XP during home-station periods. Loyalty does not decay during downtime as long as pay is current; if pay lapses, standard non-payment rules apply.
-
-**GEAR** chapter. Named Man equipment refers to armor ratings and weapon properties from the **GEAR** chapter. No new items are introduced.
 
 ---
 
@@ -3005,7 +3377,7 @@ _Human · Fighter · Adult_ **WP Max 7**
 
 **Skills:** Melee 3, Endurance 3, Might 2, Move 2, Manipulation 1, Insight 1
 
-**Kin:** Adaptive 1 **Profession:** Path of the Commander 2 **Languages:** Human 2, Dwarf 1
+**Kin:** Adaptive 1 **Profession:** Path of the Commander 2 **Languages:** Human 2, Dwarf 1 **General:** Sword Fighter 1, Combat Experienced 1
 
 **Gear:** Longsword · Studded leather armor · Contract ledger · D6 Silver · Food D8 · Water D6
 
@@ -3031,7 +3403,7 @@ _Human · Fighter · Old_ **WP Max 7**
 
 _Old characters may assign up to 4 points to one profession skill. Melee 4 applies here._
 
-**Kin:** Adaptive 1 **Profession:** Path of the Blade 2 **Languages:** Human 2, Dwarf 1 **General:** Executioner 1, Educated 1
+**Kin:** Adaptive 1 **Profession:** Path of the Blade 2 **Languages:** Human 2, Dwarf 1 **General:** Executioner 1, Educated 1, Sword Fighter 1, Fearless 1
 
 **Gear:** Longsword · Studded leather armor · Pay ledger · D6 Silver · Food D8 · Water D6
 
@@ -3057,7 +3429,7 @@ _Dwarf and Fighter both key Strength — maximum Strength at creation is 6._
 
 **Skills:** Melee 3, Endurance 3, Might 2, Crafting 3, Scouting 1
 
-**Kin:** True Grit 1 **Profession:** Path of the Blade 1 **Languages:** Dwarf 2, Human 1 **General:** Pain Resistant 1
+**Kin:** True Grit 1 **Profession:** Path of the Blade 1 **Languages:** Dwarf 2, Human 1 **General:** Pain Resistant 1, Axe Fighter 1, Firm Grip 1
 
 **Gear:** Handaxe · Studded leather armor · Whetstone · D6 Silver · Food D8 · Water D6
 
@@ -3083,7 +3455,7 @@ _Dwarf and Fighter both key Strength — maximum Strength at creation is 6. Old 
 
 **Skills:** Melee 3, Endurance 4, Might 3, Crafting 3, Move 1, Survival 1, Scouting 1
 
-**Kin:** True Grit 1 **Profession:** Path of the Shield 2 **Languages:** Dwarf 2, Human 1 **General:** Shield Fighter 1, Firm Grip 1
+**Kin:** True Grit 1 **Profession:** Path of the Shield 2 **Languages:** Dwarf 2, Human 1 **General:** Shield Fighter 1, Firm Grip 1, Pain Resistant 1, Defender 1
 
 **Gear:** Shortsword · Large shield · Studded leather armor · Mason's chisel · D6 Silver · Food D8 · Water D6
 
@@ -3107,7 +3479,7 @@ _Human · Fighter · Young_ **WP Max 7**
 
 **Skills:** Melee 2, Endurance 2, Might 2, Move 2
 
-**Kin:** Adaptive 1 **Profession:** Path of the Blade 1 **Languages:** Human 2
+**Kin:** Adaptive 1 **Profession:** Path of the Blade 1 **Languages:** Human 2 **General:** Sword Fighter 1
 
 **Gear:** Shortsword · Studded leather armor · Spare knife · D6 Silver · Food D8 · Water D6
 
@@ -3131,7 +3503,7 @@ _Human · Fighter · Young_ **WP Max 8**
 
 **Skills:** Melee 2, Move 2, Endurance 2, Scouting 1, Survival 1
 
-**Kin:** Adaptive 1 **Profession:** Path of the Blade 1 **Languages:** Human 2
+**Kin:** Adaptive 1 **Profession:** Path of the Blade 1 **Languages:** Human 2 **General:** Axe Fighter 1
 
 **Gear:** Handaxe (Haldr's) · Studded leather armor · Haldr's boots · D6 Silver · Food D8 · Water D6
 
@@ -3139,7 +3511,7 @@ _Human · Fighter · Young_ **WP Max 8**
 
 **Dark Secret:** The plot near the river you have been saving for does not exist. The figure keeps going up because you keep raising it. You do not know why you cannot stop.
 
-**Relationships:** Brosa — "The other new man. He does everything wrong and walks away from it. You check everything and still feel behind." · Haldr — "He was too far forward when it came out. His boots fit. You wash them every morning."
+**Relationships:** Brosa — "The other new man. He does everything wrong and walks away from it. You check everything and still feel behind." · Haldr — "He was too far forward when the daylight went dark. His boots fit. You wash them every morning."
 
 ---
 
@@ -3155,7 +3527,7 @@ _Human · Rogue · Adult_ **WP Max 7**
 
 **Skills:** Stealth 3, Sleight of Hand 3, Move 2, Manipulation 2, Scouting 1, Insight 1
 
-**Kin:** Adaptive 1 **Profession:** Path of the Burglar 2 **Languages:** Human 2, Halfling 1
+**Kin:** Adaptive 1 **Profession:** Path of the Burglar 2 **Languages:** Human 2, Halfling 1 **General:** Knife Fighter 1, Lightning Fast 1
 
 **Gear:** Dagger · Lockpicks · Spare coin pouch · D10 Silver · Food D6 · Water D6
 
@@ -3181,7 +3553,7 @@ _Half-Elf and Sorcerer both key Wits — maximum Wits at creation is 6._
 
 **Skills:** Lore 3, Insight 3, Crafting 2, Manipulation 2, Sleight of Hand 1, Healing 1
 
-**Kin:** Psychic Power 1 **Profession:** Path of Blood 2 **Languages:** Human 2, Elf 1
+**Kin:** Psychic Power 1 **Profession:** Path of Blood 2 **Languages:** Human 2, Elf 1 **General:** Educated 1, Lightning Fast 1
 
 **Gear:** Walking staff · Knife · Patched traveling cloak · D8 Silver · Food D6 · Water D6
 
@@ -3205,7 +3577,7 @@ _Human · Rider · Adult_ **WP Max 6**
 
 **Skills:** Melee 3, Survival 3, Animal Handling 2, Marksmanship 2, Endurance 1, Move 1
 
-**Kin:** Adaptive 1 **Profession:** Path of the Plains 2 **Languages:** Human 2, Dwarf 1
+**Kin:** Adaptive 1 **Profession:** Path of the Plains 2 **Languages:** Human 2, Dwarf 1 **General:** Horseback Fighter 1, Fast Shooter 1
 
 **Gear:** Plains horse · Handaxe · Short bow · Trail provisions · D6 Silver · Food D8 · Water D8 · Arrows D10
 
@@ -3219,7 +3591,7 @@ _Human · Rider · Adult_ **WP Max 6**
 
 **Haldr** — _Human (Ailander). Common. Posthumous._
 
-Died at the clearing contract. A cave mouth, a thing inside, and Haldr too far forward when it came out. His boots went to Skalva. His axe went to Weatherstone with Petter. His spot at the fire took several days to fill.
+Died at the clearing contract. A cave mouth, a thing inside that stank of rot and filled the entrance when it came out, and Haldr too far forward. His boots went to Skalva. His axe went to Weatherstone with Petter. His spot at the fire took several days to fill.
 
 _Human · Fighter · Young_ **WP Max 7**
 
@@ -3229,7 +3601,7 @@ _Human · Fighter · Young_ **WP Max 7**
 
 **Skills:** Melee 2, Endurance 2, Move 2, Survival 1, Scouting 1
 
-**Kin:** Adaptive 1 **Profession:** Path of the Blade 1 **Languages:** Human 2
+**Kin:** Adaptive 1 **Profession:** Path of the Blade 1 **Languages:** Human 2 **General:** Axe Fighter 1
 
 **Gear:** Handaxe (now at Weatherstone) · Studded leather armor · Boots (now Skalva's) · D6 Silver · Food D8 · Water D6
 
@@ -3273,8 +3645,8 @@ Pell lost his mother, his two brothers, and a woman he had been considering aski
 | --- | --- | --- | --- |
 | 4   | 3   | 3   | 3   |
 
-**Skills:** MELEE 2, MANIPULATION 1, INSIGHT 1
-**Talents:** PAIN RESISTANT rank 2
+**Skills:** MELEE 2, ENDURANCE 2, SURVIVAL 2, MANIPULATION 1, INSIGHT 1
+**Talents:** PAIN RESISTANT rank 2, COMBAT EXPERIENCED rank 1
 **Armor:** Chainmail (4) | **Weapon:** Axe + shield
 **Trigger:** The company splits or is abandoned by its leader — any leader
 **Agenda:** Find and kill Gruv the One-Armed, the orc war-shaman who led the Greywood raid
@@ -3290,8 +3662,8 @@ Was a midwife in Greywood. Delivered fourteen children in seven years; attended 
 | --- | --- | --- | --- |
 | 3   | 4   | 3   | 2   |
 
-**Skills:** MELEE 2, HEALING 1, SURVIVAL 1
-**Talents:** KNIFE FIGHTER rank 1
+**Skills:** MELEE 2, HEALING 2, MOVE 2, SURVIVAL 1, STEALTH 1
+**Talents:** KNIFE FIGHTER rank 1, FEARLESS rank 1
 **Armor:** Leather (3) | **Weapon:** Short sword + knife
 **Trigger:** Ordered to harm children or the completely defenseless
 **Agenda:** Earn enough to establish a healer's post somewhere stable — she doesn't call it retirement
@@ -3307,8 +3679,8 @@ One of the oldest fighters in the company. Black-haired, still, settled. The nam
 | --- | --- | --- | --- |
 | 4   | 3   | 3   | 2   |
 
-**Skills:** MELEE 2, ENDURANCE 1, SURVIVAL 1
-**Talents:** PAIN RESISTANT rank 1
+**Skills:** MELEE 2, ENDURANCE 2, SCOUTING 2, SURVIVAL 1, INSIGHT 1
+**Talents:** PAIN RESISTANT rank 1, SHIELD FIGHTER rank 1
 **Armor:** Chainmail (4) | **Weapon:** Sword + shield
 **Trigger:** Consistently spoken of as ignorant or beneath notice
 **Agenda:** Live long enough to see Greywood rebuilt, even if he is not the one who builds it
@@ -3381,6 +3753,8 @@ SURVIVAL difficulty 2 to locate without the exact marker description.
 
 Dain has privately told Pell that Kess shows signs of a mind coming apart under sustained violence. His post-engagement talking, in her assessment, is not a coping habit — it is a symptom progressing outward. Pell told her to keep watching and said nothing else. Kess does not know he is being watched. Both Dain and Pell are aware that watching without acting carries its own risk.
 
+Parren walks the perimeter every night. He tells anyone who asks that he cannot sleep. On nights when the wind blows from the west — every third or fourth night for two weeks now — he stands at the camp's western edge and does not move. Tav followed him on the fifth night. Tav heard it too: a child's voice, faint, from the direction of Greywood, speaking a name. Parren's daughter's name. She was four when Greywood burned. Parren does not know whether she was inside the village when it happened. He still does not know. Neither man has told the other what they heard. Neither has told Pell. The voice has not grown louder. It has not stopped.
+
 ---
 
 ### GM Hook
@@ -3413,8 +3787,8 @@ Not his birth name. The company took it as their name before he took it as his o
 | --- | --- | --- | --- |
 | 5   | 3   | 3   | 2   |
 
-**Skills:** MELEE 2, SURVIVAL 1, ENDURANCE 1
-**Talents:** BRAWLER rank 1
+**Skills:** MELEE 2, ENDURANCE 2, MIGHT 2, SURVIVAL 1, SCOUTING 1
+**Talents:** BRAWLER rank 1, PAIN RESISTANT rank 1
 **Armor:** Leather (3) | **Weapon:** Handaxe + knife
 **Trigger:** Being treated as incapable of making decisions for the band
 **Agenda:** Find a piece of good land that isn't already claimed — by anyone
@@ -3436,7 +3810,7 @@ Not his birth name. The company took it as their name before he took it as his o
 
 ### Current Status
 
-Three days into a pest clearance contract — two trolls reported in a marsh hex east of Glethra, a small fishing village on the Stillmire's edge. The village offered five silver on confirmation of the kills. The company is in the marsh. The troll count appears to be three, not two. Nobody has said this out loud yet but Lenna is going to say it.
+Three days into a pest clearance contract — two trolls reported in the marshland east of Glethra, a small fishing village on the Stillmire's edge. The village offered five silver on confirmation of the kills. The company is in the marsh. The troll count appears to be three, not two. Nobody has said this out loud yet but Lenna is going to say it.
 
 MORALE is Shaken because they have eaten poorly for four days (marsh terrain, 1–2 foragers, limited output) and the contract was sold to them as straightforward. Brek knows taking this contract was a mistake. He is hoping the trolls die before the MORALE does.
 
@@ -3462,7 +3836,7 @@ MORALE is Shaken because they have eaten poorly for four days (marsh terrain, 1�
 
 The Rovers have not been operating long enough to accumulate much of anything. This is accurate and not flattering.
 
-Under a flat marker stone at a river bend with a double fork, one hex west of their current position:
+Under a flat marker stone at a river bend with a double fork, a half-day west of their current position:
 
 - **14 silver** — the remains of two prior contracts after provisions and Brek's decision to buy a spool of good cord that has since saved two lives
 - **A quality hunting knife**, taken from a dead man on the road whose name Brek did not catch. Good steel. Better than anything else the band carries that isn't a weapon.
@@ -3478,6 +3852,8 @@ SURVIVAL difficulty 2 to locate.
 ### Internal Tensions
 
 Lenna believes the current contract is beyond the band's capability and told Brek so before they left the village. Brek knows she is probably right. He took the contract because they needed the coin and could not afford to say that out loud. She is watching the troll situation with the specific expression of someone who was correct and is deciding whether to say so.
+
+Doss spoke with a fisherman at the marsh edge on the first morning. The fisherman said, in fewer words than Doss usually uses himself, that the company hired before the Rovers scouted the marsh, counted three trolls, and walked off the contract. The village re-posted at the lower rate. Brek does not know this. Lenna does not know this. Telling them now — three days in, ankle-deep, committed — does not obviously make anything better. Doss is carrying it the way he carries everything: silently, with his jaw shut, waiting for the moment when silence costs more than the words.
 
 ---
 
@@ -3515,8 +3891,8 @@ The youngest of three brothers, which he has never entirely forgiven. He is not 
 | --- | --- | --- | --- |
 | 5   | 3   | 4   | 3   |
 
-**Skills:** MELEE 3, MANIPULATION 2, INSIGHT 1
-**Talents:** SWORD FIGHTER rank 2, LEADER rank 1
+**Skills:** MELEE 3, ENDURANCE 3, MANIPULATION 2, INSIGHT 2, SCOUTING 2, SURVIVAL 1, MIGHT 1
+**Talents:** SWORD FIGHTER rank 2, FEARLESS rank 2, LEADER rank 1, COLD-BLOODED rank 1
 **Armor:** Chainmail (4) | **Weapon:** Sword + shield
 **Trigger:** Being laughed at or made visibly foolish in front of his men
 **Agenda:** Become a warchief with legitimate territorial claim; the company is the first step
@@ -3532,8 +3908,8 @@ The middle brother. The one the captain trusts least and relies on most. Varis i
 | --- | --- | --- | --- |
 | 4   | 5   | 4   | 2   |
 
-**Skills:** MELEE 3, STEALTH 1, SCOUTING 1, MARKSMANSHIP 1
-**Talents:** KNIFE FIGHTER rank 2, COLD-BLOODED rank 1
+**Skills:** MELEE 3, STEALTH 3, INSIGHT 2, MARKSMANSHIP 2, SCOUTING 2, MANIPULATION 1, MOVE 1
+**Talents:** KNIFE FIGHTER rank 2, COLD-BLOODED rank 1, LIGHTNING FAST rank 1, FAST SHOOTER rank 1
 **Armor:** Leather (3) | **Weapon:** Crossbow + two short swords
 **Trigger:** Being passed over in the captain's trust in favor of anyone outside the family
 **Agenda:** Secure the family's strategic position independently of whether the company survives — he is preparing an alternative
@@ -3549,8 +3925,8 @@ The eldest brother. Called Crane since childhood for a long neck that he has lea
 | --- | --- | --- | --- |
 | 5   | 3   | 2   | 2   |
 
-**Skills:** MELEE 2, MIGHT 1, ENDURANCE 1
-**Talents:** HEAVY WEAPON FIGHTER rank 2
+**Skills:** MELEE 2, MIGHT 2, ENDURANCE 2, SURVIVAL 1, MOVE 1
+**Talents:** HEAVY WEAPON FIGHTER rank 2, BERSERKER rank 1
 **Armor:** Chainmail (4) | **Weapon:** Maul
 **Trigger:** Being ordered to something that will look like cowardice in front of the company
 **Agenda:** To fight the largest, most dangerous thing he has not yet fought; everything else is secondary
@@ -3566,7 +3942,7 @@ Not a brother, not a cousin — an outsider Hadric brought in specifically. Merr
 | --- | --- | --- | --- |
 | 3   | 4   | 4   | 2   |
 
-**Skills:** MELEE 2, INSIGHT 1, MANIPULATION 1
+**Skills:** MELEE 2, INSIGHT 2, STEALTH 2, MANIPULATION 1, SCOUTING 1
 **Talents:** COLD-BLOODED rank 2, EXECUTIONER rank 1
 **Armor:** Leather (3) | **Weapon:** Short sword + knife
 **Trigger:** Being asked to do sloppy work — he has standards about the work
@@ -3658,6 +4034,8 @@ Both men know the other's cache exists. Neither has said so. SURVIVAL difficulty
 
 Miv, the youngest fighter, is carrying private messages for Hadric to contacts the other brothers have not been told about. Crane does not know what the messages contain. Varis does — he read one — and understands that Hadric is making a territorial commitment to a warchief contact that would require the company to operate directly against the Three Wolves' current employer network. Varis has not told Crane. He is deciding whether this information is the last confirmation he needed.
 
+Sorn has been asking a question on forage patrols, when the Named Men are in camp. He puts it to two or three common men at a time: what happens when the captain's ambitions stand them against a warchief's actual army. No one answers. No one walks away. Three men have heard it now — Sorn, Arnet, Kell. Hadric the Older has noticed which men forage together and is deciding whether to tell his cousin or sit on it. The question Sorn is asking is the question Hadric the Older has been asking himself.
+
 ---
 
 ### GM Hook
@@ -3671,8 +4049,8 @@ Varis has made contact with the Feldwick elder's neighboring settlement — not 
 ## THE PALE COMPANY
 
 **Archetype:** Tyrant
-**Size:** Warband — 14 men (3 Named Men + 11)
-**MORALE:** 4 — Steady (Fear-Held)
+**Size:** Warband — 15 men (4 Named Men + 11)
+**MORALE:** 3 — Shaken (Fear-Held)
 **Known as:** _The quiet ones. The ones who come back._
 
 The Pale Captain does not name himself. His men call him Winter behind his back and not at all to his face. He gathered the company from men who had nowhere else to go and nothing traceable before the company existed — former debtors, institutional runaways, a monastery laborer with unexplained circumstances, a man who was in the Ravenlands because he had been somewhere else and that somewhere else was no longer available. He knew what he was building. He built it carefully. It holds because the men have nowhere better to go, the work is steady, and the captain has never lost a contract.
@@ -3690,8 +4068,8 @@ He says he has no call name. The men call him Winter when he is not present, for
 | --- | --- | --- | --- |
 | 5   | 3   | 4   | 3   |
 
-**Skills:** MELEE 3, MANIPULATION 1, INSIGHT 2
-**Talents:** COLD-BLOODED rank 2, FEARLESS rank 1
+**Skills:** MELEE 3, INSIGHT 3, ENDURANCE 2, MANIPULATION 2, SCOUTING 2, MIGHT 1, SURVIVAL 1
+**Talents:** COLD-BLOODED rank 2, SWORD FIGHTER rank 2, FEARLESS rank 1, COMBAT EXPERIENCED rank 1
 **Armor:** Chainmail (4) | **Weapon:** Long sword
 **Trigger:** Anyone who accurately predicts his next decision before he makes it
 **Agenda:** Decode the treasury documents from two contracts ago — some of the cipher he has cracked; the rest requires a resource he does not yet have
@@ -3707,8 +4085,8 @@ Guthar survived two previous captains who did not survive their own decisions, a
 | --- | --- | --- | --- |
 | 4   | 3   | 3   | 2   |
 
-**Skills:** MELEE 2, ENDURANCE 1, SCOUTING 1
-**Talents:** PAIN RESISTANT rank 2
+**Skills:** MELEE 2, ENDURANCE 2, SCOUTING 2, INSIGHT 1, SURVIVAL 1
+**Talents:** PAIN RESISTANT rank 2, COMBAT EXPERIENCED rank 1
 **Armor:** Chainmail (4) | **Weapon:** Axe + shield
 **Trigger:** Being given an order that feels like a test rather than a task
 **Agenda:** Verify that the captain is not planning to dissolve the company around him — he suspects this is the current contract's actual function
@@ -3724,13 +4102,36 @@ Ghost earned the name the obvious way: nobody hears Ghost until Ghost decides to
 | --- | --- | --- | --- |
 | 2   | 5   | 3   | 3   |
 
-**Skills:** MELEE 2, STEALTH 2, SCOUTING 1
+**Skills:** MELEE 2, MARKSMANSHIP 2, STEALTH 2, MOVE 1, SCOUTING 1
 **Talents:** KNIFE FIGHTER rank 2, LIGHTNING FAST rank 1
 **Armor:** Leather (3) | **Weapon:** Two knives + short bow
 **Trigger:** Being treated as a tool rather than a person — instruments don't get asked; people do
 **Agenda:** Recover an item taken from Ghost's family three years ago by a specific party Ghost has been tracking
 **Loyalty:** 2. Professional. Ghost leaves if the captain's use of Ghost becomes incompatible with Ghost's person.
 **Personality:** Quietly Violent.
+
+---
+
+**Vael** — Veteran, Support (Human, Ailander — Sorcerer, Path of Signs)
+The captain brought her in three months ago and told the men she was contract divination — hired for intelligence on the current job and the two after it. This is a lie. She is not on the company's payroll. She eats with the captain, not the men. She speaks to Guthar only when addressed and to Ghost not at all. She draws charts on thin bark at night, burns them before dawn, and asks questions about old ruins and buried places that have no connection to any active contract.
+
+The men hate her. Not the professional distance a caster sometimes earns from fighters who do not understand the work — something harder. She does not look at them when they speak. She sleeps at the center of the perimeter as though the arrangement is owed. She has made remarks about the company's capacity that Guthar took as measurement rather than conversation.
+
+Two grievances have been filed with Guthar: one from Lort, who does not trust a caster who will not explain herself, and one unsigned — Guthar attributes it to Havel or Drike by the handwriting. Both cite the same complaints: she does not share watch, she does not work, and she acts as though the company exists for her passage.
+
+The captain's arrangement with Vael is not employment. Three months ago she identified a reference in his treasury cipher — a sealed location from before the Blood Mist. She believes it holds the binding-prison of a demon whose name she has traced through three independent sources across ten years of study. She needs safe passage through the region east of Vond. He needs the cipher read. The exchange is route and protection for readings. She has delivered two. The captain considers this useful, and the men consider her a parasite. Both are correct.
+
+| STR | AGL | WIT | EMP |
+| --- | --- | --- | --- |
+| 2   | 3   | 5   | 3   |
+
+**Skills:** LORE 3, INSIGHT 2, MANIPULATION 2, CRAFTING 1, SLEIGHT OF HAND 1
+**Talents:** PATH OF SIGNS rank 2, PSYCHIC POWER rank 1, EDUCATED rank 1
+**Armor:** None | **Weapon:** Walking staff + knife
+**Trigger:** Her belongings being searched or her person physically restrained — her response will be disproportionate and immediate
+**Agenda:** Locate and access a sealed site from before the Blood Mist, east of Vond — a place she believes holds a bound demon; she does not intend to release it; she intends to confirm the binding holds
+**Loyalty:** 0. She is not a member of this company. She is using its movement.
+**Personality:** Cold Practical. Other people are a logistics problem.
 
 ---
 
@@ -3799,6 +4200,8 @@ SURVIVAL difficulty 3 for the known box's backup location; difficulty 4 for the 
 
 Guthar believes the current contract is a document-recovery job wearing a kill-job's clothes, and that the captain is deciding whether to keep the documents rather than deliver them. He is right on both counts. The two of them are currently in a silent standoff: the captain does not confirm the real nature of the job, Guthar does not force the question, and Ghost is watching both of them with professional appreciation.
 
+Vael is the second fracture. The captain told Guthar privately that she is temporary — two more contracts, then gone. Guthar does not believe this because he has watched the captain adjust route decisions twice to accommodate stops that serve no active contract. The men have drawn the obvious conclusion: the captain is running the company for her benefit, not theirs. Two have asked Guthar, separately, what it would take for the captain to send her away. Guthar told them to do their work. He is carrying the same question himself.
+
 ---
 
 ### GM Hook
@@ -3822,7 +4225,7 @@ The cipher on the treasury documents is a standard merchant house encoding — c
 
 The Gristle named herself after a contract where she was the only one who ate and made the men march on empty. It stuck. She has not tried to lose it. The band works the Yendra and Harga road — patrol contracts, clearance jobs, escort runs through contested hexes — and has been doing it long enough that the name carries weight at settlement councils and posting boards. They are not large. They are reliable, which in the Ravenlands is worth more than size.
 
-Two dwarves, a half-elf sorcerer, an Aslene rider, a thief who has not yet been caught at it, a boy with clean boots who is learning what this costs, and the men who hold the line between them. Gest keeps the ledger. Petter sharpens things that do not need sharpening. Ash keeps a ward on the camp perimeter that costs her a nosebleed every morning. They lost Haldr at a clearing contract south of Ravenford — a cave mouth, a thing inside, Haldr too far forward. His boots went to Skalva. His axe went to Weatherstone with Petter. The fire took several days to fill.
+Two dwarves, a half-elf sorcerer, an Aslene rider, a thief who has not yet been caught at it, a boy with clean boots who is learning what this costs, and the men who hold the line between them. Gest keeps the ledger. Petter sharpens things that do not need sharpening. Ash keeps a ward on the camp perimeter that costs her a nosebleed every morning. They lost Haldr at a clearing contract south of Ravenford — a cave mouth, a thing inside that blocked the daylight, Haldr too far forward. His boots went to Skalva. His axe went to Weatherstone with Petter. The fire took several days to fill.
 
 ---
 
@@ -3836,7 +4239,7 @@ Pale-haired, tall, with the deliberate gait of a woman who has spent too many ye
 | 4   | 3   | 4   | 3   |
 
 **Skills:** MELEE 3, ENDURANCE 3, MIGHT 2, MOVE 2, MANIPULATION 1, INSIGHT 1
-**Talents:** PATH OF THE COMMANDER rank 2
+**Talents:** PATH OF THE COMMANDER rank 2, SWORD FIGHTER rank 1, COMBAT EXPERIENCED rank 1
 **Armor:** Studded leather (3) | **Weapon:** Longsword + contract ledger
 **Trigger:** Loss of control — being overruled or bypassed in front of the men
 **Agenda:** Keep the band alive through the current contract and the one after that; long-range planning is a luxury she cannot afford
@@ -3853,7 +4256,7 @@ Old soldier, thick through the neck, carries the ledger the way some men carry a
 | 4   | 2   | 4   | 3   |
 
 **Skills:** MELEE 4, ENDURANCE 3, MIGHT 3, MOVE 2, CRAFTING 1, INSIGHT 2, MANIPULATION 1
-**Talents:** PATH OF THE BLADE rank 2, EXECUTIONER rank 1, EDUCATED rank 1
+**Talents:** PATH OF THE BLADE rank 2, EXECUTIONER rank 1, EDUCATED rank 1, SWORD FIGHTER rank 1, FEARLESS rank 1
 **Armor:** Studded leather (3) | **Weapon:** Longsword + pay ledger
 **Trigger:** Incompetence from men who have been told once
 **Agenda:** Finish more contracts than he can count. He is close.
@@ -3870,7 +4273,7 @@ She came to them at a river crossing south of Ravenford with a staff taller than
 | 2   | 3   | 6   | 3   |
 
 **Skills:** LORE 3, INSIGHT 3, CRAFTING 2, MANIPULATION 2, SLEIGHT OF HAND 1, HEALING 1
-**Talents:** PSYCHIC POWER rank 1, PATH OF BLOOD rank 2
+**Talents:** PSYCHIC POWER rank 1, PATH OF BLOOD rank 2, EDUCATED rank 1, LIGHTNING FAST rank 1
 **Armor:** None | **Weapon:** Walking staff + knife
 **Trigger:** Being dismissed as less than the men with swords — she has seen what is behind the veil; they have not
 **Agenda:** The nosebleed the camp ward costs her every morning is getting worse. She has not told anyone.
@@ -3887,7 +4290,7 @@ Nine years at this. Knee that has been bad for six of them and will never be goo
 | 5   | 2   | 4   | 3   |
 
 **Skills:** MELEE 3, ENDURANCE 3, MIGHT 2, CRAFTING 3, SCOUTING 1
-**Talents:** TRUE GRIT rank 1, PATH OF THE BLADE rank 1, PAIN RESISTANT rank 1
+**Talents:** TRUE GRIT rank 1, PATH OF THE BLADE rank 1, PAIN RESISTANT rank 1, AXE FIGHTER rank 1, FIRM GRIP rank 1
 **Armor:** Studded leather (3) | **Weapon:** Handaxe + whetstone
 **Trigger:** Being offered pity; dwarves do not accept it
 **Agenda:** Pay Haldr's debt to Haldr's people. He will walk to Weatherstone when the current contract is done.
@@ -4007,8 +4410,8 @@ His left hand took frostbite in the second winter of the campaign. Three fingers
 | --- | --- | --- | --- |
 | 4   | 5   | 4   | 3   |
 
-**Skills:** MELEE 3, MARKSMANSHIP 1, SCOUTING 1, SURVIVAL 1
-**Talents:** FAST SHOOTER rank 2, LIGHTNING FAST rank 1
+**Skills:** MELEE 3, MARKSMANSHIP 3, MOVE 2, SCOUTING 2, SURVIVAL 2, ENDURANCE 1, INSIGHT 1
+**Talents:** FAST SHOOTER rank 2, COMBAT EXPERIENCED rank 2, LIGHTNING FAST rank 1, FEARLESS rank 1
 **Armor:** Leather with mail patches (3) | **Weapon:** Hand crossbow + sword
 **Trigger:** Being told by his own men that a cavalry approach won't work here — he already knows, it still lands wrong
 **Agenda:** Remount the company — 12 horses minimum; has a supplier who will deal when the coin is there
@@ -4024,8 +4427,8 @@ Named because someone once said the safest place in any engagement is under Boot
 | --- | --- | --- | --- |
 | 5   | 3   | 3   | 2   |
 
-**Skills:** MELEE 2, MIGHT 1, ENDURANCE 1
-**Talents:** HEAVY WEAPON FIGHTER rank 2
+**Skills:** MELEE 2, MIGHT 2, ENDURANCE 2, SURVIVAL 1, MOVE 1
+**Talents:** HEAVY WEAPON FIGHTER rank 2, FEARLESS rank 1
 **Armor:** Chainmail (4) | **Weapon:** Great axe
 **Trigger:** Being asked to act carefully when acting quickly and decisively would solve the same problem more permanently
 **Agenda:** None formal — stays because the work is here and good enough
@@ -4041,8 +4444,8 @@ Everything he does is precise and complete. His unit of ten is the best-maintain
 | --- | --- | --- | --- |
 | 4   | 3   | 4   | 2   |
 
-**Skills:** MELEE 2, SCOUTING 1, INSIGHT 1
-**Talents:** COMBAT EXPERIENCED rank 2
+**Skills:** MELEE 2, INSIGHT 2, SCOUTING 2, ENDURANCE 1, SURVIVAL 1
+**Talents:** COMBAT EXPERIENCED rank 2, DEFENDER rank 1
 **Armor:** Chainmail (4) | **Weapon:** Sword + shield
 **Trigger:** An incomplete patrol — he goes back
 **Agenda:** Identify and resolve who ended the previous campaign and how; he has a theory; it involves someone who is not dead
@@ -4095,7 +4498,7 @@ Day three of a siege approach on a ruined stronghold held by a bandit group — 
 
 ### Relations
 
-**Bone Pack** — active hostility. Three skirmishes in the last three months, all of them over hex territory. The Cold Company was contracted to clear a specific hex; the Bone Pack denning-ground is in that hex; the pack did not leave and the company did not stop clearing. Nobody has died but three people on each side have been Broken in a skirmish. The contract employer considers this resolved. The Bone Pack does not.
+**Bone Pack** — active hostility. Three skirmishes in the last three months, all of them over territory. The Cold Company was contracted to clear a stretch of ground; the Bone Pack denning-ground is on that ground; the pack did not leave and the company did not stop clearing. Nobody has died but three people on each side have been Broken in a skirmish. The contract employer considers this resolved. The Bone Pack does not.
 
 **The Gristle's Band** — mutual respect at a distance. Never shared a contract area. Both captains have heard each other's names from credible sources. If they worked together, it would probably function. This has not been tested.
 
@@ -4131,6 +4534,8 @@ SURVIVAL difficulty 2 for the company chest's location when stationary; difficul
 Brant and Prek are brothers. Brant has told no one. Prek believes this protects him. Brant believes it protects them both. Boot figured this out six weeks ago and is watching to see if it creates a problem before saying anything to Coldhand.
 
 The Nail's theory about the previous campaign: the campaign ended because a specific individual sold positioning information to the opposing force. That individual is now employed as an advisor to a settlement two hexes from the current contract area. The Nail has identified this person and has not yet told Coldhand. He is unsure whether Coldhand knew at the time and chose not to act, or whether Coldhand does not know. This distinction matters for what the Nail does next.
+
+The man who deserted with the second chest key — Tenner, his name was, which the company has stopped using — left on a night he had watch. He took nothing except his weapons and the key. Coldhand has not explained why. Boot asked once and was told the chest was fine. What Coldhand has not shared: the chest has a false bottom that Tenner helped install. Tenner knows what is in the lower compartment. No one in the current company does. Coldhand has developed a habit of checking the chest's position before he sleeps. If Tenner surfaces — alive, captured, or talking to someone with an interest — the question of what the chest contains becomes a question the whole company hears.
 
 ---
 
@@ -4168,8 +4573,8 @@ Sura took elder standing when the original dominant pair died — not through ch
 | --- | --- | --- | --- |
 | 5   | 3   | 3   | 4   |
 
-**Skills:** MELEE 3, MANIPULATION 1, INSIGHT 2
-**Talents:** FEARLESS rank 2, DEFENDER rank 1
+**Skills:** MELEE 3, INSIGHT 3, ENDURANCE 2, MANIPULATION 2, SURVIVAL 2, MIGHT 1, SCOUTING 1
+**Talents:** FEARLESS rank 2, PAIN RESISTANT rank 2, DEFENDER rank 1, COMBAT EXPERIENCED rank 1
 **Armor:** None (natural Armor 2) | **Weapon:** Short spear + claws
 **Trigger:** A pack member being harmed by someone the pack was contracted to protect — not enemies, the employer's side
 **Agenda:** Recover the denning-ground; the legal question is the current problem; violence may not be the correct resolution
@@ -4185,8 +4590,8 @@ A use-name that became the only name. Fast enough that it functions as an accura
 | --- | --- | --- | --- |
 | 3   | 5   | 3   | 2   |
 
-**Skills:** MELEE 2, STEALTH 1, SCOUTING 2
-**Talents:** LIGHTNING FAST rank 1
+**Skills:** MELEE 2, MOVE 2, SCOUTING 2, STEALTH 2, SURVIVAL 1
+**Talents:** LIGHTNING FAST rank 1, KNIFE FIGHTER rank 1
 **Armor:** None (Armor 2) | **Weapon:** Short sword + claws
 **Trigger:** Being made the pack's expendable without the pack having discussed it
 **Agenda:** Close the 5-silver bounty without creating a worse situation
@@ -4202,8 +4607,8 @@ A human man vouched into the pack seven years ago. The name came from a straight
 | --- | --- | --- | --- |
 | 3   | 4   | 4   | 3   |
 
-**Skills:** MELEE 2, SCOUTING 1, MANIPULATION 1, SURVIVAL 1
-**Talents:** KNIFE FIGHTER rank 1
+**Skills:** MELEE 2, INSIGHT 2, MANIPULATION 2, SCOUTING 1, SURVIVAL 1
+**Talents:** KNIFE FIGHTER rank 1, COMBAT EXPERIENCED rank 1
 **Armor:** Leather (3) | **Weapon:** Short sword + two knives
 **Trigger:** Being asked to stop asking a question that matters
 **Agenda:** Determine precisely why the denning-ground was taken and who made the specific decision — he does not believe it was simple opportunism
@@ -4229,13 +4634,13 @@ A human man vouched into the pack seven years ago. The name came from a straight
 
 ### Current Status
 
-Between contracts. The pack is encamped in a hex adjacent to their former denning-ground. They are not occupying it — the settlement that registered the land has a presence there — but they are not going away. Sura has received an informal offer from a village elder one hex south: protection through winter in exchange for sustained provisioning. The pack is deliberating. The Questioner thinks accepting gives them a legal foothold in the region that may be useful for the denning-ground question. Sura is not sure the elder knows what they are deliberating.
+Between contracts. The pack is encamped in the country beside their former denning-ground. They are not occupying it — the settlement that registered the land has a presence there — but they are not going away. Sura has received an informal offer from a village elder a day's walk south: protection through winter in exchange for sustained provisioning. The pack is deliberating. The Questioner thinks accepting gives them a legal foothold in the region that may be useful for the denning-ground question. Sura is not sure the elder knows what they are deliberating.
 
 ---
 
 ### Bounties
 
-**On Fang specifically:** 5 silver, posted at a trading settlement two hexes northwest. An inn that burned while the pack's previous employer was "settling accounts" in the region — Fang did not start the fire, was present, did not stop it. Posted by the innkeeper's cousin.
+**On Fang specifically:** 5 silver, posted at a trading settlement two days northwest. An inn that burned while the pack's previous employer was "settling accounts" in the region — Fang did not start the fire, was present, did not stop it. Posted by the innkeeper's cousin.
 
 **On the pack:** None.
 
@@ -4247,7 +4652,7 @@ Between contracts. The pack is encamped in a hex adjacent to their former dennin
 
 **Mourning Company** — blood oath alliance, sealed five months ago after the Bone Pack assisted the company through a difficult ford crossing. Sura and Pell have met personally. The alliance commits both parties to military assistance if the other is in serious danger. Neither side has yet tested what "serious danger" means in practice.
 
-**Cold Company** — active hostility. Three skirmishes. Nobody has died but three pack members and three Cold Company fighters have been Broken in the encounters. The Cold Company considers the territory dispute resolved because their contract said to clear the hex. The Bone Pack does not.
+**Cold Company** — active hostility. Three skirmishes. Nobody has died but three pack members and three Cold Company fighters have been Broken in the encounters. The Cold Company considers the territory dispute resolved because their contract said to clear the ground. The Bone Pack does not.
 
 **Tyrant bands** — the pack avoids contact with Tyrant bands by preference. Sura does not explain why; she simply declines those contracts and routes the pack away from known Tyrant company positions.
 
@@ -4282,6 +4687,8 @@ SURVIVAL difficulty 1 for the boot cache (everyone in the pack knows); difficult
 
 Aldric Svenk received a message two weeks ago from a distant cousin: human settlement expansion is moving toward the outer edge of the pack's intended denning-ground recovery area. The newcomers are not the same settlement that took the land originally — they are a second wave who purchased from the elder who registered it. Aldric has not told Sura. He does not know whose side he is on, and until he does, he is not certain what telling her accomplishes. The Questioner has noticed Aldric's changed behavior and is currently asking questions of other people to understand what changed.
 
+The denning-ground cache is wrong. The Questioner went to the boundary markers last week — not inside, close enough to scent the perimeter. When he came back he told Sura: the ground smells wrong. Not rot. Not animal. Something is drawing warmth from the earth around the burial site, and the grass above it has gone brown in a circle the size of a man's armspan. Two of the younger wolves have been restless at night, circling camp with their hackles raised, facing the cache's direction. Sura has not gone to look. The carved bone wolf left by the dominant pair is in there, wrapped in oilcloth at the center. The Questioner has not said what he thinks is happening. He is still deciding whether what he thinks is something he should say aloud in front of the pack.
+
 ---
 
 ### GM Hook
@@ -4314,8 +4721,8 @@ Called Goat because he climbs anything and eats anything, and because the assess
 | --- | --- | --- | --- |
 | 5   | 4   | 3   | 2   |
 
-**Skills:** MELEE 2, ENDURANCE 2, MIGHT 1
-**Talents:** HEAVY WEAPON FIGHTER rank 1
+**Skills:** MELEE 2, ENDURANCE 2, MIGHT 2, SURVIVAL 2, MOVE 1
+**Talents:** HEAVY WEAPON FIGHTER rank 1, PAIN RESISTANT rank 1
 **Armor:** Chainmail (4) | **Weapon:** War hammer
 **Trigger:** The clan's honor being questioned by outsiders who have not earned standing to question it
 **Agenda:** Repay a specific debt the clan holds before the season closes; the Old Oslic interest rate is non-negotiable
@@ -4331,8 +4738,8 @@ Her name is the married-in name; she took it when she married an Oslund who died
 | --- | --- | --- | --- |
 | 3   | 4   | 4   | 3   |
 
-**Skills:** MELEE 2, SCOUTING 1, MANIPULATION 1, ANIMAL HANDLING 1
-**Talents:** KNIFE FIGHTER rank 1
+**Skills:** MELEE 2, MARKSMANSHIP 2, SCOUTING 2, ANIMAL HANDLING 1, MANIPULATION 1
+**Talents:** KNIFE FIGHTER rank 1, FAST SHOOTER rank 1
 **Armor:** Leather (3) | **Weapon:** Short sword + crossbow
 **Trigger:** Being given responsibility without the authority to match it — she manages the men, Durn makes the calls; fine usually, a problem when Durn is wrong
 **Agenda:** Find out whether her sister, who traveled north two years ago, is alive or dead
@@ -4354,7 +4761,7 @@ Her name is the married-in name; she took it when she married an Oslund who died
 
 ### Current Status
 
-Six days into an escort contract — carrying a merchant's goods through a contested hex toward the trading village of Klondervale to the east. The trade route collapsed in one section by a washed-out track; the company is moving around it and running behind schedule. The merchant is aware and is attempting to renegotiate the delivery terms. Durn has not agreed to renegotiate.
+Six days into an escort contract — carrying a merchant's goods through contested ground toward the trading village of Klondervale to the east. The trade route collapsed in one section by a washed-out track; the company is moving around it and running behind schedule. The merchant is aware and is attempting to renegotiate the delivery terms. Durn has not agreed to renegotiate.
 
 The merchant has been with the company for six days. He has spent some of that time near the supply chest.
 
@@ -4397,6 +4804,8 @@ SURVIVAL difficulty 4 for the false bottom; SPOT difficulty 4 if examining the c
 ### Internal Tensions
 
 Harb and Ela disagree on the current route decision. Harb believes the correct response to a collapsed track is to stop and repair it — two days of work, then a direct route. Ela believes they should push through the alternative path regardless of the schedule cost. Both have made their case to Petra. Durn has not yet ruled on it, which means both are still lobbying. This is taking slightly too long. Durn knows it is taking too long and is performing the full traditional deliberation anyway because to shorten it would be to admit that speed matters more than process, which he does not believe.
+
+Torv has been writing letters at night. He told Ela they are for their mother. This is partly true. He is also writing to a recruiter for a larger company east of the Amber Peaks, asking about terms and room. He does not want to leave his sister. He does not want to die on a contract that pays five swords to do ten swords' work. He has not told Ela. She has noticed the letters and assumed they are personal. Durn has noticed and said nothing — reading another man's correspondence violates Old Oslic hospitality code, and this binds him even toward men he considers provisional. Petra has noticed Durn noticing. She is waiting for someone in this chain to act before she acts for them.
 
 ---
 

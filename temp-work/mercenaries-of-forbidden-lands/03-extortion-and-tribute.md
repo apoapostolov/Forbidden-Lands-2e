@@ -113,6 +113,8 @@ On a failure with MANIPULATION, the settlement refuses and Standing drops by 1. 
 
 Each repeat visit before the limit costs Standing and advances the Feud Track. Third demand and beyond causes neighboring settlements to hear. Fourth demand: Feud Track +2 per demand.
 
+**Reputation travels.** When a band depletes a settlement past its annual tribute limit, word spreads. Every settlement within two days' march hears about it within a season. Standing at those settlements drops by 1 even if the band has never visited them. A band that bleeds one village dry finds the next village's gates closed before they arrive.
+
 ### Tribute as Standing
 
 A band that demands tribute and takes it is exactly the kind of force that settlements learn to either pay or destroy.
@@ -130,11 +132,13 @@ A settlement bled past its annual tribute limit, pillaged, or occupied too long 
 | Town          | Large village | The warchief leaves with his household. Fighters drop. Trade halts. |
 | Large village | Village       | Half the families scatter. Available fighters halved.               |
 | Village       | Hamlet        | Most adults gone. Only the stubborn remain.                         |
-| Hamlet        | Deserted      | The last families leave or die. The hex becomes Ruins.              |
+| Hamlet        | Deserted      | The last families leave or die. The settlement becomes Ruins.       |
 
 A deserted settlement is a ruin. You can camp in the shells. No one is there to pay tribute, offer work, or sell information.
 
 Decay is permanent unless the GM runs active resettlement as part of play. A settlement that drops to Hamlet can recover to Village over two or more years if left completely alone and the band never returns. A deserted settlement requires an active colonization effort to rebuild — treat that as stronghold founding rules from the **STRONGHOLD** chapter.
+
+> **GM Note:** Settlement decay is permanent by design. The map should show the consequences of the band's choices. If a village was bled dry, that village stays broken. Do not quietly restore settlements between sessions — the empty hexes are the campaign's memory.
 
 The GM should track the current size of any settlement the band has touched. A map that shows villages the band turned into ruins is working as intended.
 
@@ -142,7 +146,7 @@ The GM should track the current size of any settlement the band has touched. A m
 >
 > Last season the band occupied Thornwall, a large village. The occupation lasted three weeks before a rival force drove them out. Settlement Decay applies: Thornwall drops from Large Village to Village. Half the families scattered. The available fighters halved. The trade road that used to run through Thornwall now diverts north because the merchants heard what happened.
 >
-> This season, the band passes through the same hex on a different contract. The map says Large Village. The hex contains a village — smaller, quieter, with empty houses along the road and a palisade that nobody has maintained. The elder who met them last year is gone. The woman who replaced her will not open the gate.
+> This season, the band passes through the same ground on a different contract. The map says Large Village. The ground holds a village — smaller, quieter, with empty houses along the road and a palisade that nobody has maintained. The elder who met them last year is gone. The woman who replaced her will not open the gate.
 >
 > The settlement the band ruined is still there. It is just less.
 
@@ -188,6 +192,8 @@ The band can occupy a settlement — plant its banner and stay, asserting author
 - Standing at this settlement: -1 per week of occupation (minimum floor -5)
 - Neighboring settlements within 2 hexes: Standing -1 once (when occupation is established)
 - Feud Track advances +1 at occupation start
+
+> **GM Note:** Occupation is a net loss in most scenarios. A village of sixty adults produces 1D6 silver per week under occupation — call it 3–4 silver on average. The detachment guarding it costs wages and food. The Standing damage spreads to neighboring hexes. The math works only when the band needs a fixed base more than it needs coin, or when it is holding the settlement for a patron who pays the real bill. If the players want to occupy a settlement, let them — and let the ledger show them what it costs.
 
 **Ending an occupation:**
 
@@ -240,9 +246,9 @@ At Feud Track 3 or 4, the opposing force becomes an active NPC faction. The GM n
 >
 > Two seasons ago the band demanded tribute from Ashwick, a village with twenty adults and a wooden gate. The elder refused. The captain pushed: INTIMIDATION instead of MANIPULATION. The roll succeeded. Tribute paid. Feud Track advanced to 1 (Resentful). Standing at adjacent settlements dropped by 1.
 >
-> Last season the band returned. Second tribute in the same year: Feud Track +1, now at 2 (Coordinating). The elder's son walked three hexes east and found a warchief named Odmar who had twelve swords and a grudge against anyone collecting on his side of the river.
+> Last season the band returned. Second tribute in the same year: Feud Track +1, now at 2 (Coordinating). The elder's son walked three days east and found a warchief named Odmar who had twelve swords and a grudge against anyone collecting on his side of the river.
 >
-> This season the band takes a patrol contract that passes through Ashwick's hex. The GM announces: Feud Track 3 (Armed). Odmar's twelve swords are camped one hex south of Ashwick, and the elder's son is with them. They know the band's route because the elder knows which road the patrol contracts use.
+> This season the band takes a patrol contract that passes through Ashwick's territory. The GM announces: Feud Track 3 (Armed). Odmar's twelve swords are camped a day south of Ashwick, and the elder's son is with them. They know the band's route because the elder knows which road the patrol contracts use.
 >
 > The band has options. Pay compensation — 5× the weekly tribute the band collected, roughly 60 silver. That drops the Feud by 2 steps. Send a Named Man to witness a public oath not to return: that drops it by 3. Clear the warchief's camp by force: that removes the immediate threat but advances the Feud to 4 (Vengeance), and the elder's son will post an area-wide bounty.
 >

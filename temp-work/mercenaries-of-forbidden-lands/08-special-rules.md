@@ -37,6 +37,8 @@ When a member of the band becomes wanted, the bounty amount determines how far t
 
 **Clearing wanted status:** restitution, killing the grantor, outlasting it (spread drops 1 tier per season the bounty goes uncollected), or MANIPULATION difficulty 3 to negotiate. A bounty uncollected for one full year with no renewed pursuit is considered cold — it exists but no longer actively spreads.
 
+**Re-posting a cold bounty:** A grantor may re-post a bounty that has gone cold. If re-posted within the same year the bounty went cold, it returns at one tier lower than where it faded. If re-posted after more than a year, it starts fresh at tier 1. Either way, the cold clock resets — the new bounty must go a full year uncollected before it goes cold again. A grantor who re-posts more than once pays double the original posting cost each time.
+
 ---
 
 ## Atrocities
@@ -79,7 +81,13 @@ An atrocity is an act that crosses a visible line — visible enough that it def
 
 This makes the atrocity-plunder trigger a desperation tool. A Tyrant captain who orders atrocities at MORALE 4 gains nothing from the trigger table. The Standing and Reputation damage accrues without the MORALE payoff. At MORALE 2, the same order buys one step. The system does not moralize — it accounts for when cruelty has leverage and when it has only cost.
 
-**Oath-Breaker Status.** Repeat contract breaches, betrayals, and broken oaths accumulate into an OATH-BREAKER flag. Once a band has broken three oaths on record: all MANIPULATION rolls for new contracts take -2 difficulty. Any settlement elder or warchief who knows the flag will not hire them without extraordinary assurance, usually collateral. The flag reverses only by publicly honoring a particularly costly obligation — one where keeping the oath demonstrably hurt the band. This is the only mechanism.
+**Oath-Breaker Status.** Repeat contract breaches, betrayals, and broken oaths accumulate into an OATH-BREAKER flag.
+
+At two breaches on record, the GM should warn the players openly: one more and the flag lands. The warning is not subtle — an employer, a gate guard, or a Named Man states it plainly.
+
+Once a band has broken three oaths on record: all MANIPULATION rolls for new contracts take +2 difficulty. Any settlement elder or warchief who knows the flag will not hire them without extraordinary assurance, usually collateral.
+
+**Clearing the flag:** The band must publicly honor a costly obligation — one where keeping the oath demonstrably hurt the band. The obligation must be witnessed by at least one settlement elder or employer of Standing 2 or higher. Losing fighters, taking wounds, or forgoing profitable work all count. The flag lifts when the deed is done and the witness confirms it. This is the only mechanism.
 
 > **Example — Three Marks**
 >
@@ -104,7 +112,7 @@ A dedicated space for planning field operations — maps, intelligence reports, 
 - **Tools:** Saw, hammer
 - **Time:** 2 weeks
 - **Reputation:** +1
-- **Effect:** When planning a contract from this location, the leader makes one LORE roll (difficulty 2) to learn one material fact about the target hex or NPC. A SCRIBE automatically succeeds with one ⚔️. The leader may leave standing orders with a STEWARD that trigger under named conditions.
+- **Effect:** When planning a contract from this location, the leader makes one LORE roll (difficulty 2) to learn one material fact about the target hex or NPC. A SCRIBE automatically succeeds with one ⚔️. The leader may leave standing orders with a STEWARD (a Named Man assigned to manage the stronghold in the captain's absence) that trigger under named conditions.
 
 > **Example — What the Maps Told Them**
 >

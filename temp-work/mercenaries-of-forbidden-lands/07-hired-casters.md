@@ -221,7 +221,7 @@ This is where the value is most consistent and the risk is lowest. A druid with 
 
 After a fight, the druid moves down the line before the camp is even set — **Healing Hands** on the ones who took the worst of it. A man who would be half-useful for a week is back at fighting capacity by morning. **Preserve** keeps a good day's surplus from rotting overnight, which over a season transforms the band's food situation from constant edge-of-empty to something with a buffer. **Nature's Cure** holds off the low-grade attrition that bad water and cold ground produce in any sustained march; the man who drinks from the wrong stream doesn't cost the band a week anymore.
 
-**Weathermaster** is the rarest and the most decisive in the right moment. A druid who can call conditions in a hex — fog pulled in to mask a position, rain turned clear for a crossing — holds a card no conventional force can answer. Yssa's warband had been stuck below a flooded ford for five days. She spent the spell, pulled the rain clear for one Quarter Day, and they crossed before the opposing Host had finished their morning fire. The ford was knee-deep. There was no fight.
+**Weathermaster** is the rarest and the most decisive in the right moment. A druid who can call conditions over an area — fog pulled in to mask a position, rain turned clear for a crossing — holds a card no conventional force can answer. Yssa's warband had been stuck below a flooded ford for five days. She spent the spell, pulled the rain clear for one Quarter Day, and they crossed before the opposing Host had finished their morning fire. The ford was knee-deep. There was no fight.
 
 #### Scouting and Intelligence
 
@@ -281,7 +281,7 @@ These are tools for positions the band holds through a sustained campaign, not f
 
 #### What Magic Cannot Do
 
-**Preserve** stretches food. It does not produce it. A band that marches into a hex empty-handed cannot conjure provisions. **Telepathy** goes one direction to one person the caster knows, at limited range, once per WP expenditure — with no reply channel unless the other end has their own caster. **Farsight** requires the caster to have been at the location; without that, it costs more and risks more to reach. **Resurrection** fails when Willpower ran out in the fight, when the body is held, when the druid is down. The band that plans around guaranteed resurrection will be surprised exactly once.
+**Preserve** stretches food. It does not produce it. A band that marches into empty country cannot conjure provisions. **Telepathy** goes one direction to one person the caster knows, at limited range, once per WP expenditure — with no reply channel unless the other end has their own caster. **Farsight** requires the caster to have been at the location; without that, it costs more and risks more to reach. **Resurrection** fails when Willpower ran out in the fight, when the body is held, when the druid is down. The band that plans around guaranteed resurrection will be surprised exactly once.
 
 Mishaps are real. A bad push on a healing spell can produce a disease that spreads from the caster to whoever is nearest. A fear wave runs through your own rank. D6 days of degraded ability. The Ravenlands does not grade these results on intent.
 
@@ -369,6 +369,22 @@ Unlike fighter Named Men, caster agendas tend toward the personal, the ideologic
 | 5   | Their discipline treated as something to be feared, hidden, or apologized for                  |
 | 6   | Their personal agenda dismissed as unimportant by whoever they report to                       |
 
+### Caster Loyalty
+
+Hired casters do not use the Named Men Loyalty scale. Their commitment is governed by their contract terms — coin or agenda — not by a numbered score that rises and falls with shared hardship.
+
+A caster on coin terms stays as long as paid. If payment lapses, the non-payment rules above apply by tier: Initiates grumble like common fighters, Adepts withdraw magical services, Masters disappear.
+
+A caster on agenda terms stays as long as the agenda is progressing. Progress does not require resolution — it requires visible effort. A captain who takes contracts that move the band toward the caster's objective, who asks about it at council, who allocates a Quarter Day to pursue a lead — that captain keeps the caster. A captain who lets the agenda sit untouched for a full season with no visible effort loses the caster. No roll. No warning. The caster packed their kit the night before and was gone by first light.
+
+When a caster's Trigger fires, the response follows their tier rather than a Loyalty roll:
+
+- **Initiate:** Protests openly. Refuses the specific task. Stays in the band.
+- **Adept:** Withdraws magical services for 1D6 days. Does not cast, does not scout, does not heal. Eats the band's food and watches.
+- **Master:** Leaves. Often takes something — an ingredient cache, an intelligence map, a piece of knowledge the band did not know they had shared. The captain discovers the loss over the following week.
+
+A caster whose Trigger fires twice in the same season leaves regardless of tier, contract, or agenda. The second time is the answer.
+
 ### Caster Personalities
 
 Casters share the same D66 roll structure as Named Men. The personalities below are tuned to practitioners — people who have spent years doing something most soldiers regard as either useful or frightening, and who have developed their own particular relationship with both outcomes. Roll D66 or assign:
@@ -396,8 +412,8 @@ Casters share the same D66 roll structure as Named Men. The personalities below 
 >
 > The push succeeds. The wound closes. But Ash has 0 WP remaining. She will not cast again until tomorrow evening at the earliest.
 >
-> That afternoon the Gristle asks Ash to run a **Farsight** on the approach to the next hex. Ash shakes her head. The Gristle starts to argue. Gest says: "She spent it on your men this morning. You chose that."
+> That afternoon the Gristle asks Ash to run a **Farsight** on the approach to the next day's march. Ash shakes her head. The Gristle starts to argue. Gest says: "She spent it on your men this morning. You chose that."
 >
-> The band marches into the next hex blind. Whatever is there finds them before they find it. That is the caster's cost — not the silver per day, but the choice about when to be empty. Every Willpower Point spent is a Point not available for the next problem. The captain who does not track it will be surprised exactly once.
+> The band marches into the next stretch of road blind. Whatever is there finds them before they find it. That is the caster's cost — not the silver per day, but the choice about when to be empty. Every Willpower Point spent is a Point not available for the next problem. The captain who does not track it will be surprised exactly once.
 
 ---

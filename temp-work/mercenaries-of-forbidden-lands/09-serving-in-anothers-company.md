@@ -4,7 +4,7 @@
 >
 > _She entered as FRESH. She ate what the cook made. She slept where the sergeant indicated. She carried her gear and she fought when ordered and she held her opinions until asked, which took six weeks, because Torsten's company did not ask fresh blades for opinions and fresh blades who offered them learned quickly that the offering was the problem._
 >
-> _She advanced to BLADE after the second engagement. She advanced to CALLED after the fifth, when she held a ridge line alone for one Quarter Day because the relief was late and the alternative was letting a flank column through. Torsten gave her the name: Gristle. She did not choose it. She did not argue it. The name that sticks is never the one the person would have chosen._
+> _She advanced to BLADE after the second engagement. She earned her call name after the fifth, when she held a ridge line alone for one Quarter Day because the relief was late and the alternative was letting a flank column through. Torsten gave her the name: Gristle. She did not choose it. She did not argue it. The name that sticks is never the one the person would have chosen._
 
 Most fellowships come to mercenary life as commanders. Some start from below. A fellowship without coin or reputation may sign on under an existing captain. The view from the bottom is different — the politics are smaller and more immediate, the dangers are the same, and the captain makes decisions the fellowship must live with.
 
@@ -40,7 +40,6 @@ The fellowship is subject to standing orders immediately. Breaking one is not gr
 | ----------- | --------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------- |
 | FRESH       | First contract, no record                                       | 1 silver | None. Takes every order from anyone BLADE or higher.                                  |
 | BLADE       | Two engagements survived and returned. The company has seen it. | 1 silver | May speak at council. May be assigned a task detachment.                              |
-| CALLED      | Carries a call name                                             | 2 silver | May lead detachments of 3–5 men.                                                      |
 | TENSMAN     | Commands a unit of ten through a full contract                  | 3 silver | MANIPULATION for their unit's minor discipline. Handles the unit's daily assignments. |
 | SERGEANT    | Commanded a section through hard fighting and kept it together  | 4 silver | May substitute their MANIPULATION for the captain's on section-level MORALE checks.   |
 | FIRST BLADE | The captain's right hand. Only one at a time.                   | 8 silver | Full authority short of overriding a contract. Leads if captain is absent.            |
@@ -52,6 +51,8 @@ Rank given under pressure or by extraction feels like neither rank nor respect. 
 ### The Call Name
 
 A call name is granted when a deed is witnessed by at least three company members and at least one Named Man sponsors it. The name comes from what they did, how they look, or something they survived. The player proposes a name after the deed; the GM shapes it.
+
+A fighter who earns a call name receives 2 silver per day and may lead detachments of 3–5 men. The name is the promotion. No separate rank exists for it — the company simply knows who you are.
 
 A call name travels. Settlements that know the company may know the name before they know the face.
 
@@ -86,9 +87,9 @@ The GM may adapt: Twice-Broken, Cold-Eye, The Half, Long-Shepherd, Pale Winter. 
 >
 > Maren has been BLADE for two months in Torsten's company. During a night raid on a fortified camp, the sergeant goes down — an arrow through the shoulder that puts him flat. The ten-man section freezes. Maren grabs the sergeant's horn, blows the rally, and calls the section forward through the breach. No MANIPULATION roll — she is not giving an order, she is filling a gap. The five nearest men follow because she moved first.
 >
-> The breach holds. The contract completes. Afterward, Petter — a Named Man with Loyalty 3 — goes to Torsten and tells him the girl at the breach should be Called. Torsten asks for a name. Petter says nothing — he looks at Maren. The other men are already talking about it. Someone suggests "the Horn" for the rally call, another "Breach" for where she stood. The men who were there settle on "Ironback" because she turned her back to the archers to face the section forward. Torsten accepts it. He says the name once. The sergeant, arm in a sling, nods. By the next morning three men use it without thinking. By the following week it is the only name anyone uses.
+> The breach holds. The contract completes. Afterward, Petter — a Named Man with Loyalty 3 — goes to Torsten and tells him the girl at the breach should carry a name. Torsten asks what name. Petter says nothing — he looks at Maren. The other men are already talking about it. Someone suggests "the Horn" for the rally call, another "Breach" for where she stood. The men who were there settle on "Ironback" because she turned her back to the archers to face the section forward. Torsten accepts it. He says the name once. The sergeant, arm in a sling, nods. By the next morning three men use it without thinking. By the following week it is the only name anyone uses.
 >
-> Maren's rank advances to CALLED. Pay rises to 2 silver per day. She may now lead detachments of three to five men. The name travels — at the next settlement, a gate guard recognizes it. She is the Ironback from the Stillmire breach.
+> Maren earns her call name. Her pay rises to 2 silver per day and she may lead detachments of three to five men. The name travels — at the next settlement, a gate guard recognizes it. She is the Ironback from the Stillmire breach.
 
 > **GM Advice — Running the Captain**
 >
@@ -147,7 +148,7 @@ On failure: the mutiny collapses. Each Named Man who participated rolls Loyalty 
 >
 > Torsten orders the company to burn a granary at a village that sheltered them two seasons ago. The elder had refused passage to a rival band — Torsten's current employer wants the village punished for the refusal, not the shelter. The contract says "enforce compliance." Torsten reads it as written.
 >
-> Three Named Men refuse. Held the Pale, Loyalty 3, has a civilian-harm Trigger. Rost, Loyalty 2, fought beside these villagers once. Maren, ranked CALLED, has served six months under Torsten's orders and owes the elder a personal debt from the first contract.
+> Three Named Men refuse. Held the Pale, Loyalty 3, has a civilian-harm Trigger. Rost, Loyalty 2, fought beside these villagers once. Maren, who carries a call name, has served six months under Torsten's orders and owes the elder a personal debt from the first contract.
 >
 > The witnessed trigger is clear: Torsten is ordering an atrocity against people the company has history with. The three Named Men stand in the road. The senior mutineer is Held — longest service, highest rank among the challengers.
 >
@@ -159,7 +160,7 @@ On failure: the mutiny collapses. Each Named Man who participated rolls Loyalty 
 >
 > Held looks at Maren. Maren looks at the village. The elder is standing in the gate, watching armed strangers argue about whether to destroy her home.
 >
-> The contract is void. The employer will post a grievance. Torsten's Standing at three settlements transfers to Held's name, along with the debts. The company is intact. The cost of keeping it intact is everything the contract would have paid and the employer's Allegiance, which drops to 0. Held's first act as captain is to tell the elder they are leaving. His second act is to ask whether the village needs anything carried.
+> The contract is void. The employer will post a GRIEVANCE. Torsten's Standing at three settlements transfers to Held's name, along with the debts. The company is intact. The cost of keeping it intact is everything the contract would have paid and the employer's Allegiance, which drops to 0. Held's first act as captain is to tell the elder they are leaving. His second act is to ask whether the village needs anything carried.
 >
 > The third act — finding new work with a company known for mutiny — is tomorrow's problem.
 

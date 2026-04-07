@@ -4,15 +4,15 @@
 Run from repo root:
     python3 scripts/build_mercenaries.py
 
-Concatenates corebook/mercenaries/*.md in the defined order
-and writes the result to corebook/mercenaries-of-forbidden-lands.md
+Concatenates temp-work/mercenaries-of-forbidden-lands/*.md in the defined order
+and writes the result to corebook/12-mercenaries-of-forbidden-lands.md
 """
 
 import pathlib
 import sys
 
 REPO = pathlib.Path(__file__).resolve().parent.parent
-PARTS_DIR = REPO / "corebook" / "mercenaries"
+PARTS_DIR = REPO / "temp-work" / "mercenaries-of-forbidden-lands"
 OUTPUT = REPO / "corebook" / "12-mercenaries-of-forbidden-lands.md"
 
 PARTS = [
@@ -26,9 +26,8 @@ PARTS = [
     "08-special-rules.md",
     "09-serving-in-anothers-company.md",
     "10-host-play.md",
-    "11-appendix-a-integration.md",
-    "12-appendix-b-meet-the-band.md",
-    "13-appendix-c-premade-bands.md",
+    "11-appendix-a-meet-the-band.md",
+    "12-appendix-b-premade-bands.md",
 ]
 
 

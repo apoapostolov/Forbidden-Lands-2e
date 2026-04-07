@@ -197,7 +197,7 @@ Not his birth name. The company took it as their name before he took it as his o
 
 ### Current Status
 
-Three days into a pest clearance contract — two trolls reported in a marsh hex east of Glethra, a small fishing village on the Stillmire's edge. The village offered five silver on confirmation of the kills. The company is in the marsh. The troll count appears to be three, not two. Nobody has said this out loud yet but Lenna is going to say it.
+Three days into a pest clearance contract — two trolls reported in the marshland east of Glethra, a small fishing village on the Stillmire's edge. The village offered five silver on confirmation of the kills. The company is in the marsh. The troll count appears to be three, not two. Nobody has said this out loud yet but Lenna is going to say it.
 
 MORALE is Shaken because they have eaten poorly for four days (marsh terrain, 1–2 foragers, limited output) and the contract was sold to them as straightforward. Brek knows taking this contract was a mistake. He is hoping the trolls die before the MORALE does.
 
@@ -223,7 +223,7 @@ MORALE is Shaken because they have eaten poorly for four days (marsh terrain, 1�
 
 The Rovers have not been operating long enough to accumulate much of anything. This is accurate and not flattering.
 
-Under a flat marker stone at a river bend with a double fork, one hex west of their current position:
+Under a flat marker stone at a river bend with a double fork, a half-day west of their current position:
 
 - **14 silver** — the remains of two prior contracts after provisions and Brek's decision to buy a spool of good cord that has since saved two lives
 - **A quality hunting knife**, taken from a dead man on the road whose name Brek did not catch. Good steel. Better than anything else the band carries that isn't a weapon.
@@ -885,7 +885,7 @@ Day three of a siege approach on a ruined stronghold held by a bandit group — 
 
 ### Relations
 
-**Bone Pack** — active hostility. Three skirmishes in the last three months, all of them over hex territory. The Cold Company was contracted to clear a specific hex; the Bone Pack denning-ground is in that hex; the pack did not leave and the company did not stop clearing. Nobody has died but three people on each side have been Broken in a skirmish. The contract employer considers this resolved. The Bone Pack does not.
+**Bone Pack** — active hostility. Three skirmishes in the last three months, all of them over territory. The Cold Company was contracted to clear a stretch of ground; the Bone Pack denning-ground is on that ground; the pack did not leave and the company did not stop clearing. Nobody has died but three people on each side have been Broken in a skirmish. The contract employer considers this resolved. The Bone Pack does not.
 
 **The Gristle's Band** — mutual respect at a distance. Never shared a contract area. Both captains have heard each other's names from credible sources. If they worked together, it would probably function. This has not been tested.
 
@@ -1021,13 +1021,13 @@ A human man vouched into the pack seven years ago. The name came from a straight
 
 ### Current Status
 
-Between contracts. The pack is encamped in a hex adjacent to their former denning-ground. They are not occupying it — the settlement that registered the land has a presence there — but they are not going away. Sura has received an informal offer from a village elder one hex south: protection through winter in exchange for sustained provisioning. The pack is deliberating. The Questioner thinks accepting gives them a legal foothold in the region that may be useful for the denning-ground question. Sura is not sure the elder knows what they are deliberating.
+Between contracts. The pack is encamped in the country beside their former denning-ground. They are not occupying it — the settlement that registered the land has a presence there — but they are not going away. Sura has received an informal offer from a village elder a day's walk south: protection through winter in exchange for sustained provisioning. The pack is deliberating. The Questioner thinks accepting gives them a legal foothold in the region that may be useful for the denning-ground question. Sura is not sure the elder knows what they are deliberating.
 
 ---
 
 ### Bounties
 
-**On Fang specifically:** 5 silver, posted at a trading settlement two hexes northwest. An inn that burned while the pack's previous employer was "settling accounts" in the region — Fang did not start the fire, was present, did not stop it. Posted by the innkeeper's cousin.
+**On Fang specifically:** 5 silver, posted at a trading settlement two days northwest. An inn that burned while the pack's previous employer was "settling accounts" in the region — Fang did not start the fire, was present, did not stop it. Posted by the innkeeper's cousin.
 
 **On the pack:** None.
 
@@ -1039,7 +1039,7 @@ Between contracts. The pack is encamped in a hex adjacent to their former dennin
 
 **Mourning Company** — blood oath alliance, sealed five months ago after the Bone Pack assisted the company through a difficult ford crossing. Sura and Pell have met personally. The alliance commits both parties to military assistance if the other is in serious danger. Neither side has yet tested what "serious danger" means in practice.
 
-**Cold Company** — active hostility. Three skirmishes. Nobody has died but three pack members and three Cold Company fighters have been Broken in the encounters. The Cold Company considers the territory dispute resolved because their contract said to clear the hex. The Bone Pack does not.
+**Cold Company** — active hostility. Three skirmishes. Nobody has died but three pack members and three Cold Company fighters have been Broken in the encounters. The Cold Company considers the territory dispute resolved because their contract said to clear the ground. The Bone Pack does not.
 
 **Tyrant bands** — the pack avoids contact with Tyrant bands by preference. Sura does not explain why; she simply declines those contracts and routes the pack away from known Tyrant company positions.
 
@@ -1148,7 +1148,7 @@ Her name is the married-in name; she took it when she married an Oslund who died
 
 ### Current Status
 
-Six days into an escort contract — carrying a merchant's goods through a contested hex toward the trading village of Klondervale to the east. The trade route collapsed in one section by a washed-out track; the company is moving around it and running behind schedule. The merchant is aware and is attempting to renegotiate the delivery terms. Durn has not agreed to renegotiate.
+Six days into an escort contract — carrying a merchant's goods through contested ground toward the trading village of Klondervale to the east. The trade route collapsed in one section by a washed-out track; the company is moving around it and running behind schedule. The merchant is aware and is attempting to renegotiate the delivery terms. Durn has not agreed to renegotiate.
 
 The merchant has been with the company for six days. He has spent some of that time near the supply chest.
 

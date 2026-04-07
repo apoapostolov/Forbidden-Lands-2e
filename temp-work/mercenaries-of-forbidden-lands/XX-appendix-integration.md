@@ -16,7 +16,7 @@ This chapter connects to the core rules in the following places:
 
 **Feud Track.** If the band operates in contested hunting ground, the FEUD TRACK rules (the **JOURNEYS** chapter, optional rules) apply. A mercenary band hunting in a claimed hex without negotiation advances the track as if it were a rival hunting party — because it is.
 
-**THE STRONGHOLD** chapter. The WAR ROOM is a new Stronghold function. TRAINING GROUNDS and SHOOTING RANGE from **THE STRONGHOLD** chapter are prerequisites for Veteran and Elite recruitment. The GUARD hireling from **THE STRONGHOLD** chapter is the Common fighter tier.
+**THE STRONGHOLD** chapter. The WAR ROOM is a new Stronghold function. TRAINING GROUNDS and SHOOTING RANGE from **THE STRONGHOLD** chapter enable on-site training that upgrades Common fighters to Veteran or Elite tier. Field recruitment still follows the standard rules — a captain can hire Veterans or Elites directly when the fiction supports it, without a stronghold facility. The GUARD hireling from **THE STRONGHOLD** chapter is the Common fighter tier.
 
 **Stronghold Defense Rating.** When the band returns home, fighters may be assigned to GUARD duty, contributing to Defense Rating under the unit points formula. Named Men during downtime may be assigned to: TRAINING (drill the guards, +1 to COMMAND roll next season), SCOUTING (standing patrol covering one week of contract terms), or LOGISTICS (reduces weekly provision cost by 1 per Named Man, to minimum half). Named Men on stronghold duty do not advance — no XP during home-station periods. Loyalty does not decay during downtime as long as pay is current; if pay lapses, standard non-payment rules apply.
 

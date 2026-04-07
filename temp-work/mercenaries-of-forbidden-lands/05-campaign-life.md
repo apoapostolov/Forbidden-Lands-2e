@@ -8,7 +8,7 @@
 
 The band uses the fellowship's Quarter Day structure. Each Quarter Day, the leader accounts for:
 
-- **MARCH** — movement through the hex. Standard travel rules.
+- **MARCH** — movement through the terrain. Standard travel rules.
 - **HUNT/FORAGE** — assign foragers to reduce food cost.
 - **MAKE CAMP** — one Quarter Day per day required for a proper camp with a perimeter.
 - **DRILL** — see below.
@@ -49,7 +49,7 @@ Drilling requires a TRAINING GROUNDS (at the stronghold) or a dedicated drill fi
 
 When the band makes camp, one person must STAND GUARD each Night Quarter (standard rule). With a Warband or larger force, two people must stand guard — one front perimeter, one back. If only one guards, the GM rolls SCOUTING at difficulty 2 for any threat that passes through.
 
-**Fortified Camp:** Spending two Quarter Days with materials (50 WOOD minimum) establishes a fortified camp at this position. The camp functions as a Palisade (Defense Rating +1) for one week, after which it degrades unless maintained. A fortified camp allows the band to hold a hex as a temporary stronghold and reduces the effective threat from ambushes.
+**Fortified Camp:** Spending two Quarter Days with materials (50 WOOD minimum) establishes a fortified camp at this position. The camp functions as a Palisade (Defense Rating +1) for one week, after which it degrades unless maintained. A fortified camp allows the band to hold the ground as a temporary stronghold and reduces the effective threat from ambushes.
 
 ### Discipline and Punishment
 
@@ -220,7 +220,7 @@ Use this subsystem when the band is under sustained pressure — unpaid, hungry,
 - A member died today and no one has spoken about it
 - A direct order produced a bad outcome and the man who gave it is still giving orders
 
-When a trigger fires, the GM picks or rolls for two participants. If one is a Named Man, use their personality to color the opening. If both are anonymous fighters, the argument starts below them — in the ranks — and may pull Named Men in.
+When a trigger fires, the GM picks or rolls for two participants. If one is a Named Man, use their personality to color the opening. If both are Common fighters, the argument starts below them — in the ranks — and may pull Named Men in.
 
 **The escalation ladder:** Arguments move through stages in order. Each stage ends when someone intervenes, or when the next stage begins.
 
@@ -253,7 +253,7 @@ This is the only path to difficulty 3 and 4 grievances. Base events produce grie
 
 If the argument is not rooted in an active grievance — a personal grudge, a Trigger reaction, a boredom fight — no grievance escalation occurs. The MORALE cost applies as normal.
 
-**Named Men and arguments:** A Named Man involved in a Stage 3 or 4 argument who loses rolls against their Loyalty. On a failure, their Loyalty drops by 1 — whatever broke the surface is still working. A Named Man who wins a Stage 4 argument gains no mechanical benefit, but their standing in the company rises: the GM should treat them as more respected by anonymous fighters for the remainder of the season.
+**Named Men and arguments:** A Named Man involved in a Stage 3 or 4 argument who loses rolls against their Loyalty. On a failure, their Loyalty drops by 1 — whatever broke the surface is still working. A Named Man who wins a Stage 4 argument gains no mechanical benefit, but their standing in the company rises: the GM should treat them as more respected by the rank and file for the remainder of the season.
 
 **Deliberate provocation:** A leader or Named Man may deliberately provoke an argument to draw out a rival's true loyalties or break a standoff between two factions in the band. This is MANIPULATION difficulty 3 — the difficulty of starting a fire without being seen as the one who dropped the torch.
 
@@ -295,11 +295,11 @@ A character who removes themselves from the vicinity before any blow is struck �
 
 If both accept, physical escalation pauses. Resolve the exchange with an opposed PERFORMANCE roll. Difficulty equals the current stage number.
 
-| RESULT           | WINNER                                                                    | LOSER                                                                                          |
-| ---------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| Winner by 1–2 ⚔️ | Standing rises among the anonymous fighters; argument resolves at Stage 1 | No injury, no Loyalty roll; owes the winner a public concession in the next unrelated dispute  |
-| Winner by 3+ ⚔️  | As above                                                                  | Loyalty roll (same rule as a Stage 3 fight loss); the humiliation settles longer than a bruise |
-| Tie              | Argument resolves at Stage 1; the company treats both men as even         | —                                                                                              |
+| RESULT           | WINNER                                                               | LOSER                                                                                          |
+| ---------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Winner by 1–2 ⚔️ | Standing rises among the rank and file; argument resolves at Stage 1 | No injury, no Loyalty roll; owes the winner a public concession in the next unrelated dispute  |
+| Winner by 3+ ⚔️  | As above                                                             | Loyalty roll (same rule as a Stage 3 fight loss); the humiliation settles longer than a bruise |
+| Tie              | Argument resolves at Stage 1; the company treats both men as even    | —                                                                                              |
 
 MORALE cost for a flyting exchange that ends without reaching Stage 4: none beyond the stage's existing cost. The company's blood stayed inside their bodies.
 
@@ -395,7 +395,7 @@ No brotherhood or bounty oath can be dissolved by agreement. That is the point o
 
 When a company member dies — fighter, Named Man, or someone the band was traveling with — the company has to decide what happens to them before the day is done. A company that lets it sit past a day is a company with a brewing argument.
 
-**Anonymous fighters:** Personal effects are pooled. The sergeant or whoever runs logistics divides usable gear back into company stores — armor, weapons, tools. Personal items with no tactical value (a carving, a letter, a child's tooth on a cord) are burned or buried with the body in most companies. What fits the stores goes to the stores. What doesn't goes in the ground.
+**Common fighters:** Personal effects are pooled. The sergeant or whoever runs logistics divides usable gear back into company stores — armor, weapons, tools. Personal items with no tactical value (a carving, a letter, a child's tooth on a cord) are burned or buried with the body in most companies. What fits the stores goes to the stores. What doesn't goes in the ground.
 
 Pay owed through the end of the current contract is distributed equally among the surviving members. This is traditional and expected. A captain who pockets a dead man's owed pay will find out how quickly that travels.
 
@@ -440,13 +440,13 @@ Pay owed through the end of the current contract is distributed equally among th
 
 _This subsystem is appropriate for Tyrant and Military bands operating in contested territory. Rural Peasant bands may use it under extreme conditions; Kin bands generally maintain territorial languages of their own that do not require it._
 
-Territory in the Ravenlands is not owned, but held — by whoever is present, by whoever can demonstrate the cost of challenging it, and by how recently that demonstration was made. A deed, a boundary post, a handshake with an elder: these carry weight inside settlements and nowhere else. What carries weight in the hex between settlements is what the men at the tree line believe about what happens to people who cross without invitation.
+Territory in the Ravenlands is not owned, but held — by whoever is present, by whoever can demonstrate the cost of challenging it, and by how recently that demonstration was made. A deed, a boundary post, a handshake with an elder: these carry weight inside settlements and nowhere else. What carries weight in the ground between settlements is what the men at the tree line believe about what happens to people who cross without invitation.
 
 Two practices communicate this faster and more durably than any spoken threat.
 
-**Spiked markers.** After an engagement, or after an execution, the band takes heads — or visible body parts — and posts them at the edges of claimed ground: road approaches, bridge ends, prominent trees at a hex boundary, the gate of an occupied settlement. The sergeant assigns the work. It is done without ceremony. It takes one Quarter Day to mark a full hex perimeter.
+**Spiked markers.** After an engagement, or after an execution, the band takes heads — or visible body parts — and posts them at the edges of claimed ground: road approaches, bridge ends, prominent trees at the boundary, the gate of an occupied settlement. The sergeant assigns the work. It is done without ceremony. It takes one Quarter Day to mark a full perimeter.
 
-A traveler, scout, or rival band entering a marked hex who succeeds at SCOUTING (difficulty 1) reads the markers immediately. They know the ground is held, someone recent died here, and the band considers this theirs. Any band entering a marked hex must make a MORALE check (difficulty 1) before the first Quarter Day of movement — at MORALE 3 or below, the difficulty is 2. A Skirmisher-tier band that fails this check will refuse to enter without a direct order and a convincing reason.
+A traveler, scout, or rival band entering marked ground who succeeds at SCOUTING (difficulty 1) reads the markers immediately. They know the ground is held, someone recent died here, and the band considers this theirs. Any band entering marked ground must make a MORALE check (difficulty 1) before the first Quarter Day of movement — at MORALE 3 or below, the difficulty is 2. A Skirmisher-tier band that fails this check will refuse to enter without a direct order and a convincing reason.
 
 | MARKER CONTENT                                   | STANDING            | FEUD TRACK |
 | ------------------------------------------------ | ------------------- | ---------- |
@@ -499,5 +499,31 @@ A Named Man with a civilian-harm Trigger who witnesses either practice applied t
 > _When they had gone around the bend, Brosa said: "Lost a man to a barrow."_
 >
 > _"Every company has a barrow," Gest said. He was still watching the road. "South track was clear. That's worth knowing."_
+
+### Captain's Death
+
+When the captain dies, command does not pause. Someone steps forward or the band breaks.
+
+**Succession order:**
+
+1. **Sergeant** — if the band has a sergeant, they assume command immediately. No roll. The sergeant was already giving the orders the captain approved; now they give the orders alone.
+2. **Most senior Named Man** — if there is no sergeant, the Named Man with the longest service takes command. If two Named Men share the longest tenure, the one with higher Loyalty takes it. If still tied, the GM chooses and the other becomes the rival.
+3. **No one steps forward** — if no Named Man claims command within the current Quarter Day, the band dissolves. Common fighters scatter. Named Men depart individually. The fellowship keeps whatever gear and coin they hold personally.
+
+When a new captain takes command, immediately roll MORALE at +1 difficulty. This is the band testing whether the new voice holds. On a failure, one Named Man challenges the succession openly — the GM chooses which one, guided by Triggers and agendas. The challenge must be resolved by MANIPULATION or by the challenger leaving. It cannot be resolved by killing them without consequence.
+
+The new captain inherits the band's active contracts, Standing at settlements, and any outstanding grievances. They do not inherit the previous captain's personal reputation — they build their own.
+
+> **GM Note:** A captain's death is one of the strongest scenes the chapter produces. Do not resolve it quickly. Let the Named Men react in character. Let the common fighters watch. The person who steps into command has just changed the company, and the company knows it.
+
+### Campaign Endgame
+
+Mercenary campaigns end. The GM should recognize when the band's story has reached its natural close and offer the players a choice rather than letting the game trail off.
+
+**Retirement.** The captain disbands the company. Named Men are paid out. The fellowship keeps its REPUTATION, its stronghold, and whatever coin the ledger holds. The band's name becomes a memory — invoked at tavern tables and in settlement records, but no longer backed by men under arms. A retired captain who returns to the road starts from scratch: new men, new contracts, old name.
+
+**Landed.** The captain accepts a permanent commission — warden of a territory, garrison commander for a lord, standing protector of a settlement alliance. The band stops moving. Contracts become standing orders. Named Men become officers. The campaign shifts from road play to domain play — the stronghold is no longer a base between contracts but the thing the band defends. This is the transition from mercenary to lord, and the Ravenlands does not forget where the lord came from.
+
+**Absorbed.** The band joins a Host permanently, or merges into a larger force. The captain becomes a subordinate officer. The fellowship's MORALE and Named Men transfer into the larger structure. Individual contracts end. The band's identity dissolves into the banner above it. Some captains choose this willingly when the road runs out of work. Others accept it because the alternative is starvation.
 
 ---

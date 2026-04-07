@@ -4,7 +4,7 @@
 Run from repo root:
     python scripts/split_mercenaries.py
 
-Creates corebook/mercenaries/*.md part files and replaces chapter
+Creates temp-work/mercenaries-of-forbidden-lands/*.md part files and replaces chapter
 references with bolded all-caps name format.
 """
 
@@ -14,7 +14,7 @@ import sys
 
 REPO = pathlib.Path(__file__).resolve().parent.parent
 SOURCE = REPO / "corebook" / "12-mercenaries-of-forbidden-lands.md"
-PARTS_DIR = REPO / "corebook" / "mercenaries"
+PARTS_DIR = REPO / "temp-work" / "mercenaries-of-forbidden-lands"
 
 # Chapter name mapping (number -> ALL-CAPS name)
 CHAPTER_NAMES = {
@@ -43,9 +43,9 @@ PART_DEFS = [
     ("special-rules.md", ["Wanted Men", "Atrocities", "New Stronghold Function"]),
     ("serving-in-anothers-company.md", ["Serving in Another"]),
     ("host-play.md", ["Host Play"]),
-    ("appendix-a-integration.md", ["Appendix A"]),
-    ("appendix-b-meet-the-band.md", ["Appendix B"]),
-    ("appendix-c-vignettes.md", ["Appendix C"]),
+    ("XX-appendix-integration.md", ["Appendix A"]),
+    ("appendix-a-meet-the-band.md", ["Appendix B"]),
+    ("appendix-b-premade-bands.md", ["Appendix C"]),
 ]
 
 

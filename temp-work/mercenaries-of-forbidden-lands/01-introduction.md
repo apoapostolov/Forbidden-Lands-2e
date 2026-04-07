@@ -20,11 +20,13 @@ This chapter gives you the rules to raise that band, feed it, pay it, march it i
 
 The rules build in order. The first sections teach what a band is and how to keep it alive. The middle sections teach how it earns and what it costs. The later sections introduce the people who make the band something more than a payroll, and the consequences that follow when the band becomes something the Ravenlands cannot ignore.
 
-A party of adventurers can clear a dungeon, kill a monster, and walk home with whatever they found. A mercenary band can hold a road, break a siege, and change who controls a hex for the rest of the season. The scale is different. The problems are different. The rewards last longer and the failures are harder to walk away from.
+A party of adventurers can clear a dungeon, kill a monster, and walk home with whatever they found. A mercenary band can hold a road, break a siege, and change who controls a stretch of road for the rest of the season. The scale is different. The problems are different. The rewards last longer and the failures are harder to walk away from.
 
 You do not need this chapter to play Forbidden Lands. You need it if you want the weight of command — the daily grind of mouths to feed, wages to scrape together, and men who will follow you as long as the arithmetic works, and not one day longer.
 
 ---
+
+> **Reputation** is the fellowship's overall renown across the Ravenlands — a number from the **JOURNEYS** chapter. **Standing** is the fellowship's relationship with a specific settlement — tracked per settlement. This chapter uses both. When the text says "Reputation," it means the number. When it says "Standing," it means the settlement-specific score. When the text says "reputation" in lowercase, it means the word — what people say about the band.
 
 ## The Band
 
@@ -44,7 +46,7 @@ A mercenary band requires three things:
 - A **leader** — the PC whose Reputation and MANIPULATION anchor the group
 - A minimum of **3 fighters** beyond the fellowship
 
-There is no maximum size. There is only what you can feed. Twenty men in a hex with poor hunting is a problem. Paying twenty men while the job falls through is a worse one.
+There is no maximum size. There is only what you can feed. Twenty men in barren country with poor hunting is a problem. Paying twenty men while the job falls through is a worse one.
 
 The band's roster is tracked separately from the stronghold hireling sheet. Men in the stronghold are guards. Men in the field under a contract are the band.
 
@@ -56,6 +58,8 @@ The band's roster is tracked separately from the stronghold hireling sheet. Men 
 | Warband     | 7–20                    | A real force. Villages take notice. Contracts get serious.                       |
 | Company     | 21–50                   | Needs dedicated logistics. A name people know or fear.                           |
 | Host        | 51+                     | Requires stronghold-level supply. Two Quarter Days of logistics per day minimum. |
+
+**Transition.** When a Warband crosses 15–20 fighters, the GM should flag the shift: the band now needs a second sergeant, a supply line, and a named logistics role. If the band crosses 20 without appointing a second sergeant and establishing a supply arrangement, MORALE checks take +1 difficulty until the structure catches up. The transition to Company tier is not automatic — it is a decision the captain makes and the band pays for.
 
 > **The Host: Multiple Bands Under One Banner**
 >

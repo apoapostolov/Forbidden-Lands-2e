@@ -42,7 +42,7 @@ This applies even if the band has changed hands. The men are gone regardless of 
 
 A band need not be uniform. A warband of 10 might include 6 Commons, 3 Veterans, and 1 Elite who serves as the sergeant.
 
-The stats above are for anonymous fighters. Any Veteran or Elite who becomes a Named Man uses the full character build in the Named Men section, which adds WIT, EMP, individual skill distribution, and talents.
+The stats above are for Common fighters — the rank and file who do not have individual names, triggers, or agendas. Throughout this chapter, "Common fighter" and "the men" refer to this tier. Any Veteran or Elite who becomes a Named Man uses the full character build in the Named Men section, which adds WIT, EMP, individual skill distribution, and talents.
 
 ### Kin and Recruitment
 
