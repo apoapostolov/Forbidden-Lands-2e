@@ -276,141 +276,375 @@ and more reliable than trying to make the algorithm perfect.
 ## Manual AI Polish (Phase 3)
 
 The automated pipeline (Passes 1-9) handles roughly 80% of
-extraction artifacts. The remaining issues require contextual AI
-judgment because they are ambiguous, context-dependent, or involve
-data that was mangled beyond what regex can reconstruct. This phase
-is performed chapter-by-chapter after splitting.
+extraction artifacts. The remaining 20% require contextual AI
+judgment — they are ambiguous, context-dependent, or involve
+data mangled beyond what deterministic regex can reconstruct.
 
-### When to Use This Phase
+This phase is performed chapter-by-chapter after splitting.
+Fix scripts live in `scripts/` and operate on files in
+`corebook/`. The reference scripts for this project are:
 
-Run manual polish when the automated output has:
+- `fix_all_headings.py` — 108 heading fixes across all chapters
+- `fix_remaining.py` — structural fixes across ch03–ch10
+- `fix_ch10_v5.py` — garbled lifepath table parser
+- `fix_loose_lists.py` — bullet list compaction (automatable)
 
-- Headings that are broken across lines or contain fragments of
-  adjacent text
-- Paragraphs split mid-sentence by sidebar content that was
-  interleaved during extraction
-- Garbled text blocks where multi-column table data collapsed
-  into a single stream of ability names, numbers, and narrative
-- Orphaned text fragments (lines that belong to a paragraph
-  above or below but were separated by extraction artifacts)
-- Running headers that survived Pass 2 because they were embedded
-  inside paragraph text rather than on standalone lines
-- Character or place names split across words (e.g.,
-  `Car Mody` instead of `Carmody`)
+### Issue Catalog
 
-### Issue Categories
+Below is the complete catalog of issues encountered and fixed
+during manual polish, with enough detail for a future AI to
+identify and apply the same fixes on another document.
 
-#### Broken Headings
+---
 
-Headings that the automated spaced-heading pass could not fix
-because they were fragmented differently:
+### Category 1: Spaced-Character Headings (Automated + Manual)
 
-- **Truncated headings**: `### Erika Ga` (line break mid-name)
-- **Overgrown headings**: `### pire, the Middle East and North
-  Africa The Ottoman Em` (two fragments merged with wrong text)
-- **Fragment headings**: `### Originals in` (orphaned stub of a
-  heading that continued on the next column)
-- **Bold-heading confusion**: `### Limited Effect**` (bold marker
-  leaked into heading syntax)
+The automatic pass (Pass 3) handles most spaced headings, but
+some headings use partial spacing, mixed capitalization, or
+embedded punctuation that the automated detector misses.
 
-**Fix approach:** Cross-reference the PDF original to determine
-the intended heading text and replace or remove the broken line.
+**Detection:** `###` lines that contain 2+ single-character
+tokens with spaces between them, but that also have normal
+words mixed in.
 
-#### Sidebar-Split Paragraphs
+**Examples fixed (exact replacements):**
 
-Two-column PDF layouts interleave sidebar callout text with body
-text. pymupdf4llm reads in column order, which can split a body
-paragraph around a sidebar block. The result is a paragraph that
-starts normally, breaks off, has sidebar content, then resumes.
+```text
+### He rba li st           → ### Herbalist
+### Bron C Buster          → ### Bronc Buster
+### L ucky                 → ### Lucky
+### P is to Leer           → ### Pistoleer
+### Rabble Ro User         → ### Rabble Rouser
+### Hay Maker              → ### Haymaker
+### Light Footed           → ### Light-Footed
+### Lock Picker            → ### Lockpicker
+### L aw                   → ### Law
+```
 
-**Fix approach:** Identify where the paragraph was interrupted
-(often mid-sentence or mid-clause), remove or relocate the
-sidebar content, and rejoin the paragraph.
+**Examples fixed (regex, for inconsistent spacing):**
 
-#### Garbled Multi-Column Table Data
+```text
+### Fa st Ac t ion s       → ### Fast Actions
+### c on fl ic t mod ific at ion s → ### Conflict Modifications
+### O ve rw at ch          → ### Overwatch
+### He at st ro ke         → ### Heatstroke
+### Fi re                  → ### Fire
+### LIF E IN TO WN         → ### Life in Town
+### SAL AR IE S IN THE O LD WE ST → ### Salaries in the Old West
+```
 
-The hardest category. RPG books often present tables with 4-6
-columns (roll number, region, attributes, abilities, narrative)
-using decorative layouts that pymupdf4llm extracts as a single
-run-together text stream.
+**Fix approach:** Write exact replacements for headings that can
+be identified uniquely. Use regex with `\s*` between known
+character groups for headings with inconsistent spacing. The
+regex patterns match `re.IGNORECASE` and anchor at `^###`.
 
-**Identifying garbled blocks:** Look for long lines or paragraphs
-containing a mix of ability names (e.g., FIGHTIN', SHOOTIN'),
-stat values, region names, and narrative text without any table
-structure.
+**AI judgment required:** Determining the intended heading text
+when the spaced characters form ambiguous words (e.g., is
+`Ro User` → `Rouser` or `Ro-User`?). Cross-reference the PDF
+table of contents or page headers.
+
+---
+
+### Category 2: Missing Possessives and Apostrophes
+
+PDF extraction frequently drops or mangles possessive
+apostrophes, especially when the PDF uses typographic (smart)
+quotes (U+2019).
+
+**Examples fixed:**
+
+```text
+### Man S Best Friend      → ### Man's Best Friend
+### Your Horse S Tackle    → ### Your Horse's Tackle
+### Bron C Bustin          → ### Bronc Bustin'
+### Adventure 1 - Founder S Day → ### Adventure 1 - Founder's Day
+### Carson S Folly         → ### Carson's Folly
+### King S People in...    → ### King's People in...
+### Rockcliffe S Lie       → ### Rockcliffe's Lie
+```
+
+**Pattern:** When a heading contains ` S ` (space-S-space) or
+` S` at end, the `S` is almost always a possessive `'s` that
+was extracted as a separate token.
+
+**Critical encoding detail:** The output must use U+2019 (RIGHT
+SINGLE QUOTATION MARK `'`) not ASCII U+0027 (`'`) to match the
+rest of the document. The VS Code `replace_string_in_file` tool
+cannot match U+2019 — use Python scripts via the terminal.
+
+---
+
+### Category 3: Broken / Truncated / Orphaned Headings
+
+PDF column breaks split headings mid-word, creating fragments
+that appear as separate `###` lines.
+
+**Truncated headings (line break mid-name):**
+
+```text
+### Erika Ga               → ### Erikaga
+### Father Brayton Car Mody → ### Father Brayton Carmody
+### Francisco Castellano S → ### Francisco Castellanos
+### Don a Lmc Ginn         → ### Dona McGinn
+### Marion Freeman and Jimmy H Arles Den
+                           → ### Marion Freeman and Jimmy Harlesden
+```
+
+**Orphan heading fragments (stubs from next-column continuation):**
+
+```text
+### Originals in           → (removed, not a real heading)
+### ing, make a PRESENCE roll. → (removed, sentence fragment)
+### a little oasis amid... → (removed, prose fragment)
+### What is your           → (removed, merge with next heading)
+```
+
+**Overgrown headings (two fragments merged from adjacent columns):**
+
+```text
+### pire, the Middle East and North Africa The Ottoman Em
+                           → (removed, garbled cross-column text)
+```
+
+**Fix approach:** Cross-reference the PDF to determine the
+intended heading. For truncated names, check the character
+index or NPC roster. For orphan fragments, simply delete the
+line and collapse blank lines.
+
+---
+
+### Category 4: Bold/Heading Confusion
+
+pymupdf4llm sometimes merges bold markers with heading syntax.
+
+**Examples:**
+
+```text
+### Limited Effect** : You take 1 point of Vexes.
+→ **Limited Effect** : You take 1 point of Vexes.
+
+### Sneak Attacks Ambushes
+→ ### Sneak Attacks & Ambushes
+```
+
+**Fix approach:** If the line has `**` inside a `###` heading,
+it was likely a bold inline term, not a heading. Convert back
+to `**bold**` paragraph text.
+
+---
+
+### Category 5: Sidebar-Split Paragraphs and Orphaned Text
+
+Two-column layouts interleave sidebar content with body text.
+The result is a paragraph that starts, breaks off where the
+sidebar intruded, then resumes — often with the sidebar content
+appearing as an orphaned block between the two halves.
+
+**Example (ch05 — poison description split across Falling):**
+
+The text about poison resistance (`ability. To resist the
+poison you need to get as many successes as the Potency
+rating...`) appeared orphaned between the "Falling" and
+"Falling from your Horse" sections. The fix:
+
+1. Removed the orphaned paragraph from its wrong location
+2. Rejoined it to the RESILIENCE ability text where it
+   belonged (the text `you must roll your RESILIENCE` was
+   followed by garbled heading text instead of its proper
+   continuation)
+
+**Example (ch05 — Lethal Poison heading extracted as garbled
+inline text):**
+
+```text
+you must roll your RESILIENCE L e t h a l po i so n
+→ you must roll your RESILIENCE ability. To resist the
+  poison... [full paragraph] ...limited effect of the poison.
+
+### Lethal Poison
+```
+
+**Example (ch06 — paragraph split at column break):**
+
+```text
+selling your
+
+wares to passers-by  → selling your wares to passers-by
+```
+
+**Example (ch09 — sidebar name artifact in paragraph):**
+
+```text
+V e da  m on r oe Obedience was once enslaved
+→ Obedience was once enslaved
+```
+
+**Fix approach:** Search for mid-sentence line breaks (text
+ending without terminal punctuation, blank line, then lowercase
+continuation). Also search for garbled spaced text appearing at
+the start of a paragraph — these are sidebar artifacts that
+leaked into the wrong column.
+
+---
+
+### Category 6: Running Headers Embedded in Content
+
+Pass 2 removes standalone running headers, but some survive
+because they are embedded inside paragraph text or appear as
+non-obvious variants.
+
+**Standalone variants (ch10 — 11+ instances):**
+
+```text
+Appendix: your tale begins
+```
+
+These appeared on lines by themselves between paragraphs,
+lowercase (not matching the actual heading).
+
+**Embedded in paragraph text:**
+
+```text
+attribute point of Appendix: your tale begins your choice
+→ attribute point of your choice
+```
+
+**Production notes (layout artifacts never meant for print):**
+
+```text
+**Need a Chapter spread here??? Will blend into Chapter 10
+otherwise...**
+→ (removed entirely)
+```
+
+**Fix approach:** Build a list of known chapter headers and
+appendix titles. Search for them as standalone lines and as
+substrings within paragraphs. Use case-insensitive matching
+since running headers may differ in case from the actual
+heading.
+
+---
+
+### Category 7: Garbled Multi-Column Lifepath/Table Data
+
+The hardest category. RPG books present lifepath tables with
+4-6 columns (roll number, region, attributes, abilities,
+narrative) in decorative layouts. pymupdf4llm extracts these as
+single run-together text lines of 500+ characters interleaving
+all columns.
+
+**Identifying garbled blocks:** Lines with 3+ occurrences of
+`Grit \d`, 3+ of `Docity \d`, and length > 500 characters.
 
 **Parsing algorithm (Docity boundary method):**
 
-1. Find the last ability in the stat list (e.g., DOCITY in
-   Tales of the Old West) as an entry boundary marker
-2. Split the garbled text at each occurrence of this boundary
-   ability to isolate individual table entries
-3. For each entry, extract:
-   - Roll number (first standalone digit)
-   - Region/category name (known list lookup)
-   - Attribute values (named stat patterns)
-   - Ability list (known ability name patterns)
-   - Narrative text (everything remaining after stripping
-     the above)
-4. Format as a clean markdown table with proper columns
+1. Identify the last attribute in the game's stat block
+   (DOCITY in this game) as the entry terminal marker
+2. Find all `Docity \d` occurrences in the garbled line
+3. After each Docity match, consume any trailing ability
+   tokens (`ABILITY_NAME \d`) to find the true entry boundary
+4. Split the line into entry chunks at these boundaries
+5. For each chunk, extract:
+   - **Roll number**: first standalone digit
+   - **Attributes**: named patterns like `Grit 2`, `Quick 1`
+   - **Abilities**: known ability names + digit
+     (e.g., `FIGHTIN' 2`, `SHOOTIN' 1`)
+   - **Region name**: match against a known region list and
+     strip from narrative (use `\bEurope\b(?!an)` to avoid
+     stripping "European" from narrative text)
+   - **Narrative**: everything remaining after stripping
+     stats, abilities, and region names
+6. Format each entry as a numbered bold paragraph with
+   attribute and ability lines
 
-**Critical encoding detail:** Many RPG PDFs use typographic
-(smart) quotes. Ability names like FIGHTIN', SHOOTIN', and
+**Result:** 6 garbled blocks → 54 clean structured entries
+(9 entries each for 9-roll blocks, 6 for 6-roll blocks).
+
+**Smart quote gotcha:** Ability names like FIGHTIN', SHOOTIN',
 ANIMAL HANDLIN' use U+2019 (RIGHT SINGLE QUOTATION MARK), not
 ASCII U+0027. All regex patterns must match the actual Unicode
-character. The VS Code `replace_string_in_file` tool cannot
-match U+2019 — use Python scripts via the terminal instead.
+character or the parser will fail to identify ability tokens,
+leaving them in the narrative text.
 
-#### Orphaned Text and Running Headers
+**Additional ch10 fixes applied after parsing:**
 
-- **Embedded running headers**: `Appendix: Your Tale Begins`
-  appearing mid-paragraph because the page break fell inside
-  a sentence
-- **Production notes**: `Your Player Character 55` (chapter
-  title + page number on a standalone line)
+- `|**Te ` → `|**The ` (article truncation in table headers)
+- `Pacifc` → `Pacific` (OCR-style typo)
+- `**Te ` → `**The ` (bold text article truncation)
+- ` Te ` → ` The ` (mid-sentence article truncation)
+- Duplicate-column table headers (same header repeated in
+  adjacent pipe cells) collapsed to a single header
+- Remaining standalone `Appendix: your tale begins` lines
+  removed after lifepath block reformatting
 
-**Fix approach:** Search for known running header patterns with
-`Select-String` or `grep` across all chapter files, then remove
-or extract them.
+---
 
-#### Character Name Reconstruction
+### Category 8: Loose Bullet Lists
 
-PDF column breaks and hyphenation can split proper names:
+PDF extraction often introduces blank lines between bullet list
+items, creating "loose" lists. Markdown renderers treat loose
+lists differently (wrapping each item in `<p>` tags), producing
+excessive vertical spacing.
 
-- `Car Mody` → `Carmody`
-- `Castellano S` → `Castellanos`
-- `Erika Ga` → `Erikaga`
+**Detection:** A bullet line (`- ...`) followed by a blank line
+followed by another bullet line (`- ...`).
 
-**Fix approach:** Build a names list from the PDF's character
-index or dramatis personae, then search for broken variants.
+**This is fully automatable.** The fix script
+`fix_loose_lists.py` handles it:
+
+1. Walk through lines sequentially
+2. When a bullet item is followed by a blank line and then
+   another bullet item (or indented continuation), remove the
+   blank line
+3. Preserve blank lines around list boundaries (before first
+   item and after last item)
+
+**Scale:** 343 blank lines removed across 7 chapters in this
+project.
+
+**When to apply:** As a final pass after all other fixes, since
+earlier fixes may introduce or remove list items. Can also be
+added to the automated pipeline as Pass 10.
+
+---
 
 ### Workflow
 
 1. **Audit all chapters**: Search for common artifact patterns
-   across all files. Use terminal `Select-String` (Windows) or
-   `grep` (Linux) since AI tool search may not reach the repo.
-2. **Write targeted fix scripts**: Create Python scripts with
-   exact string replacements and regex patterns for each category.
-   Group fixes by chapter or by issue type.
+   across all files using terminal `Select-String` (Windows) or
+   `grep` (Linux). Key patterns to search for:
+   - `###.*[A-Z] [a-z]` (spaced characters in headings)
+   - `### .* S ` or `### .* S$` (missing possessives)
+   - Lines > 500 chars with ability names (garbled tables)
+   - Known running header text as substrings
+   - `^- ` followed by blank line followed by `^- `
+     (loose bullet lists)
+2. **Write targeted fix scripts** in `scripts/`: Python scripts
+   with exact string replacements and regex patterns for each
+   category. Group fixes by chapter or by issue type.
 3. **Test incrementally**: Run each script, verify output, and
-   use `git checkout` to revert if results are wrong. Complex
-   parsers (like lifepath tables) may need multiple iterations.
-4. **Delete fix scripts**: Remove all `.py` fix scripts from the
-   corebook directory before committing — they are build
-   artifacts, not part of the published content.
-5. **Verify**: Spot-check 3-5 fixed sections against the original
-   PDF to confirm accuracy.
+   use `git checkout -- corebook/filename.md` to revert if
+   results are wrong. Complex parsers (like lifepath tables)
+   may need multiple iterations — keep versioned scripts
+   (v2, v3, v4, v5) to track what was tried.
+4. **Move scripts to `scripts/`**: Fix scripts are reference
+   artifacts, not chapter content. Keep them in `scripts/` for
+   future reuse.
+5. **Verify**: Spot-check 3-5 fixed sections against the
+   original PDF to confirm accuracy.
 
 ### Manual Polish Checklist
 
 After Phase 3, verify:
 
+- [ ] No spaced-character headings remain
+- [ ] No missing possessives (`S` as standalone token)
 - [ ] No broken or truncated headings remain
 - [ ] No orphaned single-line text fragments between sections
 - [ ] No running headers embedded in paragraph text
-- [ ] Character names are spelled correctly throughout
+- [ ] Character/place names are spelled correctly throughout
 - [ ] Garbled table blocks are reformatted as readable markdown
-      tables or structured lists
-- [ ] No fix scripts remain in the chapter directory
+- [ ] Bullet lists are compact (no blank lines between items)
 - [ ] Smart quotes (U+2019, U+201C, U+201D) are consistent
       throughout (do not mix with ASCII equivalents)
+- [ ] Fix scripts are in `scripts/`, not in chapter directories
