@@ -272,3 +272,145 @@ HEADING_CORRECTIONS = {
 
 Add entries as they surface during quality review. This is cheaper
 and more reliable than trying to make the algorithm perfect.
+
+## Manual AI Polish (Phase 3)
+
+The automated pipeline (Passes 1-9) handles roughly 80% of
+extraction artifacts. The remaining issues require contextual AI
+judgment because they are ambiguous, context-dependent, or involve
+data that was mangled beyond what regex can reconstruct. This phase
+is performed chapter-by-chapter after splitting.
+
+### When to Use This Phase
+
+Run manual polish when the automated output has:
+
+- Headings that are broken across lines or contain fragments of
+  adjacent text
+- Paragraphs split mid-sentence by sidebar content that was
+  interleaved during extraction
+- Garbled text blocks where multi-column table data collapsed
+  into a single stream of ability names, numbers, and narrative
+- Orphaned text fragments (lines that belong to a paragraph
+  above or below but were separated by extraction artifacts)
+- Running headers that survived Pass 2 because they were embedded
+  inside paragraph text rather than on standalone lines
+- Character or place names split across words (e.g.,
+  `Car Mody` instead of `Carmody`)
+
+### Issue Categories
+
+#### Broken Headings
+
+Headings that the automated spaced-heading pass could not fix
+because they were fragmented differently:
+
+- **Truncated headings**: `### Erika Ga` (line break mid-name)
+- **Overgrown headings**: `### pire, the Middle East and North
+  Africa The Ottoman Em` (two fragments merged with wrong text)
+- **Fragment headings**: `### Originals in` (orphaned stub of a
+  heading that continued on the next column)
+- **Bold-heading confusion**: `### Limited Effect**` (bold marker
+  leaked into heading syntax)
+
+**Fix approach:** Cross-reference the PDF original to determine
+the intended heading text and replace or remove the broken line.
+
+#### Sidebar-Split Paragraphs
+
+Two-column PDF layouts interleave sidebar callout text with body
+text. pymupdf4llm reads in column order, which can split a body
+paragraph around a sidebar block. The result is a paragraph that
+starts normally, breaks off, has sidebar content, then resumes.
+
+**Fix approach:** Identify where the paragraph was interrupted
+(often mid-sentence or mid-clause), remove or relocate the
+sidebar content, and rejoin the paragraph.
+
+#### Garbled Multi-Column Table Data
+
+The hardest category. RPG books often present tables with 4-6
+columns (roll number, region, attributes, abilities, narrative)
+using decorative layouts that pymupdf4llm extracts as a single
+run-together text stream.
+
+**Identifying garbled blocks:** Look for long lines or paragraphs
+containing a mix of ability names (e.g., FIGHTIN', SHOOTIN'),
+stat values, region names, and narrative text without any table
+structure.
+
+**Parsing algorithm (Docity boundary method):**
+
+1. Find the last ability in the stat list (e.g., DOCITY in
+   Tales of the Old West) as an entry boundary marker
+2. Split the garbled text at each occurrence of this boundary
+   ability to isolate individual table entries
+3. For each entry, extract:
+   - Roll number (first standalone digit)
+   - Region/category name (known list lookup)
+   - Attribute values (named stat patterns)
+   - Ability list (known ability name patterns)
+   - Narrative text (everything remaining after stripping
+     the above)
+4. Format as a clean markdown table with proper columns
+
+**Critical encoding detail:** Many RPG PDFs use typographic
+(smart) quotes. Ability names like FIGHTIN', SHOOTIN', and
+ANIMAL HANDLIN' use U+2019 (RIGHT SINGLE QUOTATION MARK), not
+ASCII U+0027. All regex patterns must match the actual Unicode
+character. The VS Code `replace_string_in_file` tool cannot
+match U+2019 — use Python scripts via the terminal instead.
+
+#### Orphaned Text and Running Headers
+
+- **Embedded running headers**: `Appendix: Your Tale Begins`
+  appearing mid-paragraph because the page break fell inside
+  a sentence
+- **Production notes**: `Your Player Character 55` (chapter
+  title + page number on a standalone line)
+
+**Fix approach:** Search for known running header patterns with
+`Select-String` or `grep` across all chapter files, then remove
+or extract them.
+
+#### Character Name Reconstruction
+
+PDF column breaks and hyphenation can split proper names:
+
+- `Car Mody` → `Carmody`
+- `Castellano S` → `Castellanos`
+- `Erika Ga` → `Erikaga`
+
+**Fix approach:** Build a names list from the PDF's character
+index or dramatis personae, then search for broken variants.
+
+### Workflow
+
+1. **Audit all chapters**: Search for common artifact patterns
+   across all files. Use terminal `Select-String` (Windows) or
+   `grep` (Linux) since AI tool search may not reach the repo.
+2. **Write targeted fix scripts**: Create Python scripts with
+   exact string replacements and regex patterns for each category.
+   Group fixes by chapter or by issue type.
+3. **Test incrementally**: Run each script, verify output, and
+   use `git checkout` to revert if results are wrong. Complex
+   parsers (like lifepath tables) may need multiple iterations.
+4. **Delete fix scripts**: Remove all `.py` fix scripts from the
+   corebook directory before committing — they are build
+   artifacts, not part of the published content.
+5. **Verify**: Spot-check 3-5 fixed sections against the original
+   PDF to confirm accuracy.
+
+### Manual Polish Checklist
+
+After Phase 3, verify:
+
+- [ ] No broken or truncated headings remain
+- [ ] No orphaned single-line text fragments between sections
+- [ ] No running headers embedded in paragraph text
+- [ ] Character names are spelled correctly throughout
+- [ ] Garbled table blocks are reformatted as readable markdown
+      tables or structured lists
+- [ ] No fix scripts remain in the chapter directory
+- [ ] Smart quotes (U+2019, U+201C, U+201D) are consistent
+      throughout (do not mix with ASCII equivalents)
