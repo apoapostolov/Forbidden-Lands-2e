@@ -778,7 +778,7 @@ Breaking an enemy is not the same as killing them. A warrior who loses all Stren
 
 **KILLING THE HELPLESS:** Slaying a non-combatant — an elder, a prisoner begging for mercy, a child, or anyone clearly incapable of posing a threat — is an act of cruelty that most cannot stomach. You must **fail an Empathy roll** (roll for the attribute only, no skill). Even if the roll fails and you steel yourself to do it, you must spend **1 Willpower Point** and suffer **1 point of damage to Empathy**. If the roll succeeds, you cannot bring yourself to do it. If you have the _Cold-Blooded_ talent, you can kill helpless non-combatants without these restrictions.
 
-> **MONSTERS AND BEASTS:** Creatures without Wits — animals, demons, the walking dead — are not covered by these rules. You can finish off a broken beast or monster freely.
+> **MONSTERS AND BEASTS:** Creatures without Wits — savage animals, demons, the walking dead — are not covered by these rules. You can finish off a broken beast or monster freely.
 
 ### RECOVERY
 
