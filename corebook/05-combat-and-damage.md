@@ -766,9 +766,19 @@ You're paralyzed by fear or confusion. Roll for a critical injury on the horror 
 
 You break down in despair or self-pity. You must either explode in a violent outburst, kicking and breaking everything around you, or withdraw from everyone around you. In either case, you're uncommunicative until you've recovered a point of Empathy.
 
-#### COUP DE GRACE
+#### KILLING AND THE COUP DE GRACE
 
-An opponent who has lost all Strength or Agility is defenseless. If it's an intelligent being (with Wits) and you want to give him a _coup de grace_ and kill him outright, you must fail an Empathy roll (roll for the attribute only). Even if the roll fails, you must spend one Willpower Point and suffer one point of damage to Empathy - killing in cold blood is not as easy as you might think. If you have the _cold-blooded_ talent you can kill defenseless enemies without these negative effects.
+Breaking an enemy is not the same as killing them. A warrior who loses all Strength or Agility goes down — knocked senseless or collapsed from exhaustion — but their heart still beats. What happens next depends on how the fight ended and what you choose to do.
+
+**BROKEN BY A PUSHED ATTACK:** If you push an attack roll and the damage breaks your target's Strength or Agility, the target dies. There is no choice in the matter. The reckless violence of a pushed blow leaves no room for restraint — bones shatter past mending, a blade drives too deep to pull back. You cannot rely on a pushed attack to leave a captive. If you needed the target alive, you should not have pushed. This rule applies only to player characters. When an NPC or monster pushes an attack that breaks a PC, the PC is broken normally — not killed. The Forbidden Lands are cruel, but death by a gamemaster's push of the dice is not how adventurers meet their end.
+
+**KILLING BLOW IN ACTIVE COMBAT:** If a broken enemy still poses a threat — their allies are fighting, the battle rages on — you may deliver a killing blow as a **slow action**. No roll is needed; the target is defenseless. This costs you your turn, and that is the price: a round spent finishing a downed foe is a round you are not defending yourself or helping your companions.
+
+**COUP DE GRACE AFTER COMBAT:** Once the fighting is over and you stand over a broken, surrendered, or bound enemy, the calculus changes. Killing a defenseless intelligent being (one with Wits) in cold blood requires spending **1 Willpower Point**. The act is deliberate and heavy. If you have the _Cold-Blooded_ talent, you can perform a coup de grace without this cost.
+
+**KILLING THE HELPLESS:** Slaying a non-combatant — an elder, a prisoner begging for mercy, a child, or anyone clearly incapable of posing a threat — is an act of cruelty that most cannot stomach. You must **fail an Empathy roll** (roll for the attribute only, no skill). Even if the roll fails and you steel yourself to do it, you must spend **1 Willpower Point** and suffer **1 point of damage to Empathy**. If the roll succeeds, you cannot bring yourself to do it. If you have the _Cold-Blooded_ talent, you can kill helpless non-combatants without these restrictions.
+
+> **MONSTERS AND BEASTS:** Creatures without Wits — animals, demons, the walking dead — are not covered by these rules. You can finish off a broken beast or monster freely.
 
 ### RECOVERY
 

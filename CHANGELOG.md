@@ -7,6 +7,18 @@ All notable changes to the Forbidden Lands Corebook will be documented in this f
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.5] - 2026-04-09
+
+### Changed
+
+- Replaced the old coup de grâce rule in Chapter 5 with a four-tier killing system based on situation rather than kin.
+  - **Broken by a pushed attack:** The target dies. No choice. Applies only to PCs pushing attacks against NPCs — NPCs who push attacks that break PCs break them normally, not kill them.
+  - **Killing blow in active combat:** A slow action against a broken enemy while the fight continues. No roll required; the cost is action economy.
+  - **Coup de grâce after combat:** Killing a defenseless intelligent being once combat ends costs 1 WP. No Empathy roll required.
+  - **Killing the helpless:** Slaying a non-combatant (elder, child, surrendered prisoner) requires failing an Empathy roll, spending 1 WP, and suffering 1 Empathy damage. If the roll succeeds, the character cannot bring themselves to do it.
+  - Creatures without Wits (animals, monsters, undead) are exempt from all tiers.
+- Updated the Cold-Blooded talent in Chapter 4 to map onto the new tiers. Rank 1 removes the WP cost for post-combat coup de grâce. Rank 2 bypasses the Empathy roll, WP, and Empathy damage for killing helpless non-combatants. Ranks 3–5 updated to reference both killing blows and coup de grâce.
+
 ## [1.0.4] - 2026-04-07
 
 ### Added

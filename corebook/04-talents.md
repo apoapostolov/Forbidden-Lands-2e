@@ -859,11 +859,11 @@ You know how to cook using simple things, even while on a journey through the wi
 
 You are completely callous and can kill defenseless enemies without so much as a second's hesitation.
 
-- **✦ RANK 1:** You can perform a COUP DE GRACE without rolling dice.
-- **✦ RANK 2:** As per rank 1, and you also don't need to spend a Willpower Point or suffer damage to Empathy.
-- **✦ RANK 3:** As per rank 2, but you also recover a point of lost Empathy when you perform a COUP DE GRACE.
-- **✦ RANK 4:** Your COUP DE GRACE attacks double as FEAR attacks against enemies within short range. Roll PERFORMANCE or MANIPULATION; you may distribute any rolled ⚔️ as Wits damage amongst your targets. Animals and monsters are immune.
-- **✦ RANK 5:** Each COUP DE GRACE you perform grants you a Willpower Point.
+- **✦ RANK 1:** You can perform a COUP DE GRACE after combat without spending a Willpower Point.
+- **✦ RANK 2:** You can kill helpless non-combatants without rolling Empathy, spending WP, or suffering Empathy damage.
+- **✦ RANK 3:** You recover a point of lost Empathy whenever you perform a COUP DE GRACE or killing blow.
+- **✦ RANK 4:** Your killing blows and COUP DE GRACE attacks double as FEAR attacks against enemies within short range. Roll PERFORMANCE or MANIPULATION; you may distribute any rolled ⚔️ as Wits damage amongst your targets. Animals and monsters are immune.
+- **✦ RANK 5:** Each COUP DE GRACE or killing blow you perform grants you a Willpower Point.
 
 ### COMBAT EXPERIENCED
 
