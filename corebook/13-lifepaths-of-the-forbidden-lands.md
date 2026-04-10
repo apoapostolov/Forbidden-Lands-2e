@@ -29,7 +29,7 @@ The life generator supports three levels of player control.
 | **Guided Random** | Choose your path each cycle, roll the events. Shape the broad life, discover the details.                            |
 | **Full Guided**   | Choose your path each cycle. Roll two events per turn and pick one. Most player control without free-build softness. |
 
-Even in Full Guided mode, you never pick freely from the whole table. Roll two results and choose between them. The generator needs friction to do its work.
+Even in Full Guided mode, you never pick freely from the whole table. Roll two results and choose between them. The choice between two unwanted events is still a choice — it is how a life becomes something other than what you planned.
 
 ### REFERENCE GUIDE FOR ROLLING UP AN ADVENTURER
 
@@ -223,11 +223,11 @@ A **cycle** is one chapter of your character's past — a stretch of years spent
 | Adult |               14 |               3 |      3 |                10 |                12 |
 | Old   |               13 |               5 |      4 |                14 |                16 |
 
-The "Turns You Resolve" column counts only the turns where you roll dice. Each turn produces one skill mark, and the two marks from your childhood foundation bring the total to 8, 12, or 16 — matching the standard method's skill point budget exactly.
+The "Cycles" column is the total number of life cycles, including the first. Your first cycle is always shortened — childhood covers its first two turns, so you resolve only its third and fourth. The "Turns You Resolve" column counts only the turns where you roll dice. Each turn produces one skill mark, and the two marks from your childhood foundation bring the total to 8, 12, or 16 — matching the standard method's skill point budget exactly.
 
 Elves cannot begin as Young. They begin at Adult or Old.
 
-**Why the first cycle is shorter.** Every character's first cycle has only two resolved turns (the Third Turn and the Fourth Turn) instead of four. Your childhood foundation already represents the early years of that first life path — the two skill marks it granted stand in for the First Turn and the Second Turn. Every later cycle resolves all four turns.
+**The first cycle is shorter.** You resolve only the Third Turn and the Fourth Turn of your first cycle, not all four. Your childhood foundation covers the early years — the two skill marks it granted already account for the First Turn and the Second Turn. You step into the story at the moment life starts demanding something of you. Every cycle after the first runs the full four turns.
 
 #### YEARS PER CYCLE
 
@@ -299,9 +299,7 @@ Marks between thresholds are not wasted — they count toward the next rank. A s
 
 The same progression applies to talent ranks gained through advancement benefits. If a path's advancement table grants Rank 1 in a talent, mark one tally for that talent. A second grant of the same talent adds a second mark. Two marks raise the talent to Rank 2.
 
-**Why this works.** The life generator compresses years of living into a handful of dice rolls. Without this rule, an Old character with 16 skill points could stack the same skill five or six times and begin play with a rank that a campaign adventurer would need months of table time to reach. The mark system flattens that curve the same way real experience does — early lessons come fast, later mastery comes slow. A character who spent most of a lifetime swinging a sword may reach Rank 3 or even Rank 4 in Melee, which is roughly what a played character achieves after a short to mid-length campaign. That feels right. The marks represent not just repetition but the unseen hours of drill, correction, and hard-won habit that the generator abstracts away.
-
-The standard method's cap — no starting skill above Rank 3 without GM agreement — still applies here. If marks would push a skill to Rank 4 or Rank 5, the player should ask the GM first. Most tables will find that Rank 3 is the natural ceiling for starting characters, with Rank 4 reserved for Old characters whose entire history bends toward a single calling. Rank 5 requires seven marks in one skill — a concentration that the mark-spread mechanics and narrowing tax make vanishingly rare without deliberate GM approval.
+Early lessons come fast; later mastery comes slow. A character who spent most of a lifetime in one calling may reach Rank 3 or Rank 4 in its central skill. Rank 4 is the territory of Old characters whose every cycle bent the same direction. Rank 5 requires seven marks in a single skill, which means almost nothing else developed. If marks would push a skill to Rank 4 or higher, check with the GM before locking it in. Some tables set Rank 3 as the ceiling for starting characters and open the higher ranks only when the character's history makes a compelling case.
 
 #### PRIDE AND DARK SECRET
 
@@ -327,6 +325,8 @@ Some paths assume training, access, or recognized standing before a character ma
 | Rider                                                      | Animal Handling 1 or Move 1, or access to a herd, mount, or riding household in the fiction   |
 
 If a character does not meet a path's threshold, choose another path for that cycle. If no other path makes sense, the character falls into one of the crisis paths — Drifter, Laborer, Outcast, or Captive — whichever best fits the event that broke the old life.
+
+> **Optional — Childhood Suggested Path.** If your childhood foundation's Suggested Path has a threshold, you may enter it for the Third and Fourth Turn of your first cycle without meeting that threshold. The suggestion implies that your upbringing already laid the groundwork — a grove-keeper's household, a merchant caravan, a shrine at the edge of the village. Thresholds apply normally when entering a path as your second cycle or later, because by then you are choosing the life rather than being born into it. This is a group option; if your GM is running a campaign where scarcity of teachers and institutions matters, they may decline it.
 
 **Using fiction instead of a skill threshold?** Check with the GM first. The fictional substitutes above assume that teachers, patrons, and institutions are available somewhere in the world your group is building. Some campaigns begin in places where they are not — a remote frontier, a world of collapsed order, a starting scenario of pure hardship where no guild masters, grove keepers, or learned merchants are within reach. In those settings the GM may rule that the fictional threshold cannot be claimed for a given path. This is not a punishment; it is the world telling the character that the road to that life is not open here yet. A Sorcerer does not emerge from a village that has never seen a grimoire. A Druid does not come from country that burned its last grove. Those paths become available once the campaign makes room for them.
 
