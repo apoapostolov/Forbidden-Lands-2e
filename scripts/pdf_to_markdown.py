@@ -5,8 +5,8 @@ PDF → Markdown conversion pipeline for Forbidden Lands RPG sourcebooks.
 Usage:
     python scripts/pdf_to_markdown.py path/to/book.pdf path/to/output/
 
-Implements all 9 cleanup passes from the pdf-to-rpg-markdown skill, plus
-Pass 10 (loose bullet list compaction).
+Implements the cleanup passes from the pdf-to-rpg-markdown skill and writes
+an OCR artifact audit report alongside the raw and cleaned markdown.
 
 Pipeline:
     1. Extract with pymupdf4llm (column-aware)
@@ -24,10 +24,12 @@ Pipeline:
 
 import re
 import sys
-import shutil
 from pathlib import Path
 
-import wordninja
+try:
+    import wordninja  # type: ignore
+except ModuleNotFoundError:  # pragma: no cover - dependency fallback
+    wordninja = None
 
 # ---------------------------------------------------------------------------
 # Game-specific heading corrections
@@ -68,6 +70,18 @@ LOWERCASE_WORDS = {
 
 # Words that should stay ALL-CAPS in title case
 ALLCAPS_WORDS = {"RPG", "NPC", "GM", "PC", "FL", "D6", "D66"}
+
+AUDIT_PATTERNS = {
+    "picture_placeholders": re.compile(r"^\*\*==>.*<==\*\*$", re.MULTILINE),
+    "picture_text_markers": re.compile(r"Start of picture text|End of picture text", re.IGNORECASE),
+    "html_breaks": re.compile(r"<br\s*/?>", re.IGNORECASE),
+    "page_number_lines": re.compile(r"^(?:#\s*)?[–—-]?\s*\d{1,3}\s*[–—-]?\s*$", re.MULTILINE),
+    "all_caps_lines": re.compile(r"^[A-Z][A-Z\s&,'\-:]{4,}$", re.MULTILINE),
+    "markdown_headings": re.compile(r"^#{1,6}\s", re.MULTILINE),
+    "pipe_table_lines": re.compile(r"^\|.*\|$", re.MULTILINE),
+    "double_blank_runs": re.compile(r"\n{3,}"),
+    "spaced_heading_candidates": re.compile(r"^(?:#{1,6}\s+)?(?:[A-Za-z]\s){4,}[A-Za-z]$", re.MULTILINE),
+}
 
 
 # ---------------------------------------------------------------------------
@@ -114,7 +128,7 @@ def reconstruct_spaced_heading(text: str) -> str:
         if len(collapsed) <= 3:
             words.append(collapsed)
         else:
-            segmented = wordninja.split(collapsed)
+            segmented = wordninja.split(collapsed) if wordninja else [collapsed]
             words.extend(segmented)
 
     reconstructed = " ".join(words)
@@ -149,6 +163,10 @@ def pass1_noise_removal(lines: list[str]) -> list[str]:
             continue
         if re.match(r"^\d{1,3}$", stripped):
             continue
+        if re.match(r"^[a-z0-9 &'\-]+$", stripped) and len(stripped) <= 32:
+            # Common running footer style like "spells & sorcerers"
+            if stripped == stripped.lower() and stripped.count(" ") >= 1:
+                continue
 
         # Copyright / distribution notices
         if re.match(r"^©\s*\d{4}", stripped):
@@ -539,6 +557,39 @@ def pass10_loose_lists(lines: list[str]) -> list[str]:
     return out
 
 
+def collect_artifact_counts(text: str) -> dict[str, int]:
+    return {name: len(pattern.findall(text)) for name, pattern in AUDIT_PATTERNS.items()}
+
+
+def write_audit_report(raw_path: Path, clean_path: Path, raw_text: str, clean_text: str) -> Path:
+    raw_counts = collect_artifact_counts(raw_text)
+    clean_counts = collect_artifact_counts(clean_text)
+    report_path = raw_path.with_suffix("").with_suffix(".ocr-report.md")
+
+    lines = [
+        "# OCR Artifact Report",
+        "",
+        f"- Raw: `{raw_path.name}`",
+        f"- Clean: `{clean_path.name}`",
+        "",
+        "## Raw Counts",
+        "",
+    ]
+    for key in sorted(raw_counts):
+        lines.append(f"- `{key}`: {raw_counts[key]}")
+    lines.extend(["", "## Clean Counts", ""])
+    for key in sorted(clean_counts):
+        lines.append(f"- `{key}`: {clean_counts[key]}")
+    lines.extend(["", "## Delta", ""])
+    for key in sorted(raw_counts):
+        delta = clean_counts[key] - raw_counts[key]
+        lines.append(f"- `{key}`: {raw_counts[key]} -> {clean_counts[key]} ({delta:+d})")
+    lines.append("")
+
+    report_path.write_text("\n".join(lines), encoding="utf-8")
+    return report_path
+
+
 # ---------------------------------------------------------------------------
 # Full pipeline
 # ---------------------------------------------------------------------------
@@ -590,8 +641,11 @@ def run_pipeline(pdf_path: Path, output_dir: Path, reuse_raw: bool = False) -> P
     print("[11/11] Pass 10: loose bullet-list compaction …")
     lines = pass10_loose_lists(lines)
 
-    clean_path.write_text("".join(lines), encoding="utf-8")
+    clean_text = "".join(lines)
+    clean_path.write_text(clean_text, encoding="utf-8")
+    report_path = write_audit_report(raw_path, clean_path, md, clean_text)
     print(f"\nDone. Clean markdown → {clean_path}")
+    print(f"      OCR report     → {report_path}")
     print(f"      Lines: {len(lines):,}  |  Chars: {sum(len(l) for l in lines):,}")
     return clean_path
 

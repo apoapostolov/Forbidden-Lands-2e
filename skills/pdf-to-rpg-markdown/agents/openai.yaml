@@ -1,0 +1,4 @@
+interface:
+  display_name: "PDF to RPG Markdown"
+  short_description: "Recover RPG PDFs and OCR dumps into manuscript-grade markdown"
+  default_prompt: "Use $pdf-to-rpg-markdown to convert or repair RPG PDF/OCR material into structured markdown with a raw file, a clean file, and an OCR artifact audit."
