@@ -23,3 +23,4 @@ Thumbs.db
 *.swp
 *~
 /scripts/sim_results/
+.tools/
