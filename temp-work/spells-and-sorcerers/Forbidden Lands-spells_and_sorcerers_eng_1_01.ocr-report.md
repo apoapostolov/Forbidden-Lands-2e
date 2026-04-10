@@ -4,15 +4,15 @@
 
 ## Raw Artifact Counts
 
-- `all_caps_lines`: 1
+- `all_caps_lines`: 0
 - `double_blank_runs`: 0
-- `dropcap_damage_candidates`: 657
+- `dropcap_damage_candidates`: 543
 - `html_breaks`: 0
-- `markdown_headings`: 414
+- `markdown_headings`: 351
 - `page_number_lines`: 0
 - `picture_placeholders`: 0
 - `picture_text_markers`: 0
-- `pipe_table_lines`: 689
+- `pipe_table_lines`: 572
 - `spaced_heading_candidates`: 0
 
 ## Raw Repeated Short-Line Candidates

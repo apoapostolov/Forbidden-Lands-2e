@@ -201,43 +201,11 @@ To the delight of every sorcerer who knows how to appreciate a good donkey kick,
 
 > _Fearing the threat of the enigmatic necromancer, the orc Talldu prepares a dagger to contain the energy of one of her symbols. Whoever has the weapon will be able to invoke the power to cause, unexpectedly for the enemy, a powerful magical wound. As the group prepares for combat, the sorceress lends her dagger to Pelek, who will be able to take advantage of the right moment._
 
-ossessing knowledge about magic and the ability to manipulate it allows those people with this power Pthe possibility of manifesting certain magical effects that are typical of the management of the energy of the world and are not directly linked to any discipline.
+Possessing knowledge about magic and the ability to manipulate it allows those people with this power the possibility of manifesting certain magical effects that are typical of the management of the energy of the world and are not directly linked to any discipline.
 
 The general spells, then, are common to all known disciplines, they are effects that any magic user can access if they have a sufficient level in a magical talent, whatever it may be.
 
 When a character gains a level in any discipline, they can choose to learn one of these spells for free instead of one specific to the discipline. Likewise, learning general spells costs XP like all other spells.
-
-## Magic Strike
-
-- Rank: 1
-- Range: Near
-- Duration: Immediate
-- Ingredient: Pebble (1 roll)
-
-You can cast pure magical energy after concentrating it in your hands, altering the threads of reality in the direction of an enemy, who receives a powerful blow. The victim suffers 1 point of Strength damage and a critical injury from the bludgeoning table. The power level gained is doubled and added to the D66 result.
-
-## Perceive Magic
-
-- Rank: 1
-- Range: Short
-- Duration: Immediate
-- Ingredient: Glass object (1 roll)
-
-After learning this spell, you can automatically sense when someone is using magic or if an object is charged with magic, as long as it is within a **short** distance.
-
-Casting this spell allows you to know exactly the effects of the magic you perceive, as long as you are able to understand it. This implies that the Power Level of this spell must be equal to or greater than the level of the magic you are sensing.
-
-If you do not achieve a sufficient Power Level, you know the level of the magic but are not able to understand it, so its effects and discipline remain behind a veil of mystery.
-
-## Empower Spell
-
-- Rank: 1, POWER WORD
-
-- Range: Short
-- Duration: Varies
-- Ingredient: Candle (1 roll)
-
-Using this spell, you can increase the Power Level of another spell that has been cast by 1. To do this, you must match
 
 **General Spells by Level**
 
@@ -261,51 +229,85 @@ Using this spell, you can increase the Power Level of another spell that has bee
 | Magic Nova | 6 |
 | Anti-Magic Zone | 6 |
 
-or exceed its current Power Level with the Empower Spell Power Level. You can use this spell reactively, breaking the initiative order.
+## Magic Strike
+
+- RANK: 1
+- RANGE: Near
+- DURATION: Immediate
+- INGREDIENT: Pebble (1 roll)
+
+You can cast pure magical energy after concentrating it in your hands, altering the threads of reality in the direction of an enemy, who receives a powerful blow. The victim suffers 1 point of Strength damage and a critical injury from the bludgeoning table. The power level gained is doubled and added to the D66 result.
+
+## Perceive Magic
+
+- RANK: 1
+- RANGE: Short
+- DURATION: Immediate
+- INGREDIENT: Glass object (1 roll)
+
+After learning this spell, you can automatically sense when someone is using magic or if an object is charged with magic, as long as it is within a **short** distance.
+
+Casting this spell allows you to know exactly the effects of the magic you perceive, as long as you are able to understand it. This implies that the Power Level of this spell must be equal to or greater than the level of the magic you are sensing.
+
+If you do not achieve a sufficient Power Level, you know the level of the magic but are not able to understand it, so its effects and discipline remain behind a veil of mystery.
+
+## Empower Spell
+
+- RANK: 1, POWER WORD
+- RANGE: Short
+- DURATION: Varies
+- INGREDIENT: Candle (1 roll)
+
+Using this spell, you can increase the Power Level of another spell that has been cast by 1. To do this, you must match or exceed its current Power Level with the Empower Spell Power Level. You can use this spell reactively, breaking the initiative order.
 
 ## Magic Protection
-- Rank: 1
-- Range: Arm's Length
-- Duration: Quarter Day
-- Ingredient: Piece of wood (1 roll)
+
+- RANK: 1
+- RANGE: Arm's Length
+- DURATION: Quarter Day
+- INGREDIENT: Piece of wood (1 roll)
 
 You protect a place or a living being with the objects they carries. The approximate total size will not be larger than a person. The Power Level grants dice protection to the place or living being.
 
 Each time the protected is the target of a spell, roll the protection dice. Each success subtracts 1 from the spell's Power Level.
 
 ## Identify Object
-- Rank: 2
-- Range: Arm's Length
-- Duration: Immediate
-- Ingredient: Glass object (2 rolls)
+
+- RANK: 2
+- RANGE: Arm's Length
+- DURATION: Immediate
+- INGREDIENT: Glass object (2 rolls)
 
 By interpreting the threads of reality that weave an object, you can gain knowledge of all its characteristics. Not only if it has spells or curses, but also its age, materials and origin. All available information about the object will be revealed to you.
 
 The Power Level allows you to overcome any effect that is hiding the information you seek. It may also be the case that there is a consciousness within the object that opposes the spell (such as an elven ruby  or a possessed weapon). In these cases, consciousness must overcome the Power Level with a Wits roll.
 
 ## Imbue Magic
-- Rank: 2
-- Range: Arm's Length
-- Duration: One minute per Power Level
-- Ingredient: Piece of clear fabric (1 roll)
+
+- RANK: 2
+- RANGE: Arm's Length
+- DURATION: One minute per Power Level
+- INGREDIENT: Piece of clear fabric (1 roll)
 
 By manipulating the threads of the world and the flow of energy in general, you can cause an object to retain magical power for a certain amount of time. This allows, for example, a weapon to deal magic damage, but does not offer any additional specific benefits. The duration of the effect is one minute per Power Level.
 
 ## Nullify Spell
-- Rank: 2
-- Range: Short
-- Duration: Immediate
-- Ingredient: Iron ore (1 roll)
+
+- RANK: 2
+- RANGE: Short
+- DURATION: Immediate
+- INGREDIENT: Iron ore (1 roll)
 
 By focusing near a place, object, or person that has an active spell, you can nullify the power of the magic that is concentrated there.
 
 This spell always disperses the desired magic as long as the Power Level is equal to or greater than the level of the spell you want to nullify, regardless of its Power Level.
 
 ## Conceal Spell
-- Rank: 2, POWER WORD
-- Range: Personal
-- Duration: Ilimitada
-- Ingredient: Piece of dark fabric (1 roll)
+
+- RANK: 2, POWER WORD
+- RANGE: Personal
+- DURATION: Ilimitada
+- INGREDIENT: Piece of dark fabric (1 roll)
 
 When you want to cast a spell that is difficult to perceive, the method at your disposal is Conceal Spell. To do this you must spend at least one Willpower Point on Conceal Spell in the normal way of casting.
 
@@ -313,18 +315,19 @@ Additionally, you roll dice to determine the Power Level of this spell. Any meth
 
 ## Charge Object
 
-- Rank: 3
-- Range: Arm's Length
-- Duration: One day
-- Ingredient: Amethyst (1 roll)
+- RANK: 3
+- RANGE: Arm's Length
+- DURATION: One day
+- INGREDIENT: Amethyst (1 roll)
 
 You focus a large amount of magical energy into an object so that it becomes overloaded. The first living being to touch the object releases that entire charge at once, receiving as many points of damage to Strength as the Power Level of this spell in addition to flying 1D6 meters backwards due to the force unleashed. The victim can reduce the damage taken by 1 for every success rolled on an **endurance** check.
 
 ## Contain Spell
-- Rank: 3
-- Range: Personal
-- Duration: Quarter Day per Power Level
-- Ingredient: Aquamarine (2 rolls)
+
+- RANK: 3
+- RANGE: Personal
+- DURATION: Quarter Day per Power Level
+- INGREDIENT: Aquamarine (2 rolls)
 
 You can contain the power of a spell within an object to release it whenever you see fit. Each Power Level obtained is a quarter day that the spell remains contained in the item. Releasing a contained spell costs one fast action.
 
@@ -334,30 +337,32 @@ When the spell is released, it does so with the Power Level obtained in the orig
 
 ## Weaken Spell
 
-- Rank: 3, POWER WORD
-- Range: Short
-- Duration: Immediate
-- Ingredient: Iron ore (1 roll)
+- RANK: 3, POWER WORD
+- RANGE: Short
+- DURATION: Immediate
+- INGREDIENT: Iron ore (1 roll)
 
 If a spell is cast in your presence, you can attempt to negate it at that moment with your own magic. Weaken Spell is reactive and breaks the initiative order.
 
 The Power Level of the opponent's spell is reduced by a number of points equal to the Power Level you reach with Weaken Spell. If the result is zero or less, the effect is nullified. You can only use this spell on a newly cast spell; if you don't react in time, you won't be able to undo the magic later.
 
 ## Locate Magic
-- Rank: 4
-- Range: Distant
-- Duration: Immediate
-- Ingredient: Pointed object (1 roll)
+
+- RANK: 4
+- RANGE: Distant
+- DURATION: Immediate
+- INGREDIENT: Pointed object (1 roll)
 
 By concentrating on feeling and recognizing the echoes of magic, you can follow with your mind the ripples that a spell leaves in reality.
 
 Within a kilometer radius, you can know where magical effects are active, where spells are currently being cast, or where a ritual is being prepared. The number of spells you can locate is equal to the Power Level, prioritizing those that are closest.
 
 ## Transfer Energy
-- Rank: 4
-- Range: Near
-- Duration: Immediate
-- Ingredient: Bloody fabric (1 roll)
+
+- RANK: 4
+- RANGE: Near
+- DURATION: Immediate
+- INGREDIENT: Bloody fabric (1 roll)
 
 You know the way to mobilize the willpower of living beings through the magical threads that unite all things.
 
@@ -367,10 +372,10 @@ Likewise, you can steal Willpower Points from another character up to a maximum 
 
 ## Enchant Item
 
-- Rank: 5, RITUAL
-- Range: Arm's Length
-- Duration: Permanent
-- Ingredient: Quartz (2 rolls)
+- RANK: 5, RITUAL
+- RANGE: Arm's Length
+- DURATION: Permanent
+- INGREDIENT: Quartz (2 rolls)
 
 Through this ritual you can imbue an object with a spell, making it magical and giving it the ability to manifest the spell even if it is not wielded by a magic user.
 
@@ -387,10 +392,11 @@ To learn these details about an enchanted object without resorting to trial and 
 You can use this same spell to recharge an enchanted item that is not fully charged. To do this you must do a ritual (quarter day) and spend 1 WP, but you must not make rolls nor run the risk of magic mishaps.
 
 ## Multiply Spell
-- Rank: 5
-- Range: Personal
-- Duration: One round
-- Ingredient: Amethyst (2 rolls)
+
+- RANK: 5
+- RANGE: Personal
+- DURATION: One round
+- INGREDIENT: Amethyst (2 rolls)
 
 You supercharge your ability to cast your magic, causing your next spell to be cast an additional time for each Power Level of Multiply Spell. The Power Level of the spell is the same in all its copies, but the target may be different.
 
@@ -400,10 +406,10 @@ So much effort generates inevitable consequences on your body. The number of cop
 
 ## Magic Nova
 
-- Rank: 6
-- Range: Short
-- Duration: Immediate
-- Ingredient: Sapphire (3 rolls)
+- RANK: 6
+- RANGE: Short
+- DURATION: Immediate
+- INGREDIENT: Sapphire (3 rolls)
 
 You overload the threads of reality around you, unleashing an uncontrolled magical explosion. This causes an impact on the soul of all living beings in the area of effect, but especially those with a connection to magic.
 
@@ -413,10 +419,10 @@ You cannot differentiate between friends and enemies when using Magic Nova effec
 
 ## Anti-Magic Zone
 
-- Rank: 6, RITUAL
-- Range: Long
-- Duration: One day
-- Ingredient: Aquamarine (3 rolls)
+- RANK: 6, RITUAL
+- RANGE: Long
+- DURATION: One day
+- INGREDIENT: Aquamarine (3 rolls)
 
 Through this ritual, you can reduce the flow of magical energies over a wide area, making it more difficult to cast spells and make them effective.
 
@@ -453,69 +459,8 @@ There are many druids who focus their lives on becoming experts in this type of 
 
 This discipline allows not only to prolong life, but also to make it fuller both in body and mind, as well as on a spiritual level, reaching transcendence in communion with nature at its highest levels. In that sense, there are no natural limits that cannot be overcome by the power of magic.
 
-E RARITY: Known
-E SECRETISM: Initiation
-
-## Relieve Pain
-- Rank: 1
-- Range: Arm's Length
-- Duration: Immediate
-- Ingredient: Healing ointment (1 roll)
-
-By placing your hands on a person, you can relieve the pain they are suffering, whether physical or mental. If the spell's Power Level equals or exceeds the amount of damage in the attribute you wish to relieve, the victim regains 1 point. You cannot use Relieve Pain on yourself.
-
-## Relieve Condition
-- Rank: 1
-- Range: Arm's Length
-- Duration: Quarter Day per Power Level.
-- Ingredient: Incense (1 roll)
-
-By placing your hands on another person's shoulders, you can completely relieve the conditions they are suffering or are going to suffer. The conditions are still there, but the character does not suffer damage or debuff from them for the duration of the spell. You cannot use Relieve Status on yourself.
-
-## Cure Disease
-- Rank: 1, RITUAL
-- Range: Arm's Length
-- Duration: Immediate
-- Ingredient: Incense (1 roll)
-
-You can cure any illness that a person is suffering from, including yourself. You must prepare the ritual with the sick person, who must remain within your reach throughout the entire process. The Power Level is tripled and must be equal to or greater than the Virulence of the disease to make it disappear.
-
-## Heal Critical Wounds
-
-- Rank: 2
-- Range: Arm's Length
-- Duration: Immediate
-- Ingredient: Healing ointment (1 roll)
-
-## Cure Poison
-
-- Rank: 1
-- Range: Arm's Length
-- Duration: Immediate
-- Ingredient: Healing herbs (1 roll)
-
-You stop the effect of any poison that is affecting a person, including yourself. The substance disintegrates and stops inflicting damage on its victim. The Power Level is tripled and must be equal to or greater than the Potency of the poison to neutralize it.
-
-By placing your hands on the critical injury a character is suffering, you can regenerate it after a few moments. The Power Level of this spell must be equal to or greater than the result of the D66 tens on the critical table: for example, a result of 46, since its ten is 4, forces the spell to have Power Level 4 to heal that critical injury. This spell cannot regenerate lost body parts.
-
-## Destroy Undead
-- Rank: 2
-- Range: Near
-
-- Duration: Immediate
-- Ingredient: Mistletoe (1 roll)
-
-The magic of this discipline creates powerful vital energies of reconstruction of the body and soul, something that is contrary to the nature of the undead.
-
-This spell causes the undead to enter into a contradiction, since the healing energy is actually destroying its essence. This results in damage to Strength equal to the Power Level of this spell.
-
-## Heal Wounds
-- Rank: 2
-- Range: Arm's Length
-- Duration: Immediate
-- Ingredient: Healing ointment (1 roll)
-
-By placing your hands on the site of a wound you can heal it in a few seconds, regenerating damaged tissue. You cause to disappear a number of points of damage to Strength or Agility equal to the Power Level of the spell. You cannot use Heal Wounds on yourself.
+- Rarity: Known
+- Secretism: Initiation
 
 **Healing Spells by Level**
 
@@ -541,982 +486,214 @@ By placing your hands on the site of a wound you can heal it in a few seconds, r
 | Salvation Circle | 6 |
 | Transcend | 6 |
 
-## Heal the Mind
+## Relieve Pain
 
-- Rank: 2
-- Range: Arm's Length
-- Duration: Immediate
+- RANK: 1
+- RANGE: Arm's Length
+- DURATION: Immediate
+- INGREDIENT: Healing ointment (1 roll)
 
-## Heal at a Distance
-- Rank: 3, RITUAL
-- Range: Distant
-- Duration: Immediate
-- Ingredient: Incense (2 rolls)
+By placing your hands on a person, you can relieve the pain they are suffering, whether physical or mental. If the spell's Power Level equals or exceeds the amount of damage in the attribute you wish to relieve, the victim regains 1 point. You cannot use Relieve Pain on yourself.
 
-By meditating deeply, you can cast a Healing spell of 3rd level or lower on any character, no matter how far away they are. The requirement is that you have a clear image of the target in your mind, or failing that, some object that has a special link with they. If you attempt it without either, this spell and all the spells you cast alongside it will generate a mandatory magic mishap on you and the target.
+## Relieve Condition
 
-For each Power Level you can apply one spell at the same time, but all the spells you use, including this ritual, can cause magic mishaps.
+- RANK: 1
+- RANGE: Arm's Length
+- DURATION: Quarter Day per Power Level.
+- INGREDIENT: Incense (1 roll)
 
-## Bend Demon
-- Rank: 3
-- Range: Near
-- Duration: Quarter Day
-- Ingredient: Sacred symbol (2 rolls)
+By placing your hands on another person's shoulders, you can completely relieve the conditions they are suffering or are going to suffer. The conditions are still there, but the character does not suffer damage or debuff from them for the duration of the spell. You cannot use Relieve Status on yourself.
 
-The nature of this world does not recognize demonic creatures as its own, so you have been given the arcane knowledge to subdue them and send them back to where they came from.
+## Cure Disease
 
-This spell deals damage to a demon's Wits equal to the spell's Power Level. If by this damage it is Broken, its dimension immediately claims it but not without causing unbearable pain and terror in the process.
+- RANK: 1, RITUAL
+- RANGE: Arm's Length
+- DURATION: Immediate
+- INGREDIENT: Incense (1 roll)
 
-Bend Demon also works on misgrown, but at half its power (rounded down). Obviously, the misgrown will remain in this world even if they fall Broken.
+You can cure any illness that a person is suffering from, including yourself. You must prepare the ritual with the sick person, who must remain within your reach throughout the entire process. The Power Level is tripled and must be equal to or greater than the Virulence of the disease to make it disappear.
 
-- Ingredient: Ink (1 roll)
+## Cure Poison
 
-By placing your hands on the sides of a person's head you can bring peace to their mind and heal them in a few seconds, making them forget the traumas or confusion they are suffering. You cause to disappear a number of points of damage to Wits or Emptay equal to the Power Level of the spell. You cannot use Heal the Mind on yourself.
+- RANK: 1
+- RANGE: Arm's Length
+- DURATION: Immediate
+- INGREDIENT: Healing herbs (1 roll)
 
-## Complete Peace
-- Rank: 3
-- Range: Arm's Length
-- Duration: Quarter Day
+You stop the effect of any poison that is affecting a person, including yourself. The substance disintegrates and stops inflicting damage on its victim. The Power Level is tripled and must be equal to or greater than the Potency of the poison to neutralize it.
 
-- Ingredient: Amulet (2 rolls)
+## Heal Critical Wounds
 
-count as a single spell along with Healing Circle (if a magic mishap occurs it is only one roll).
+- RANK: 2
+- RANGE: Arm's Length
+- DURATION: Immediate
+- INGREDIENT: Healing ointment (1 roll)
 
-By placing your powerful hand on the head of another character you can make their mind enter a state of total plenitude, where peace and serenity reign despite the danger and adversity they are experiencing.
-
-The character heals as much damage to Wits equal to the Power Level. As long as the spell lasts, any restlessness that plagues them is not a problem; They also cannot feel anger, insecurity, sadness or similar feelings. Additionally, the successes of terrifying attacks are reduced by an amount equal to the Power Level before dealing damage.
-
-## Remove Curse
-- Rank: 3
-
-- Range: Arm's Length
-- Duration: Immediate
-- Ingredient: Incense (2 rolls)
-
-Placing your hands on the victim's shoulders, you make your healing power run through them, removing any curse they are suffering from, whether from another spell or the effects of monsters, even from foreign and cursed objects lost in the Forbidden Lands.
-
-To achieve this, you must exceed the level of the spell with the Power Level reached with Remove Curse. If it's not a spell, take the monster's Wits as a barrier, or whatever else makes sense to apply.
-
-## Healing Circle
-
-- Rank: 4, RITUAL
-- Range: Near
-- Duration: Immediate
-- Ingredient: Burning candles (2 rolls)
-
-Through this ritual you can apply to all characters in range, as a single spell, the effects of Relieve Condition, Cure Disease, Heal Critical Wounds, Cure Poison, Heal Wounds, and Heal the Mind.
-
-You can only apply the effects of the spells that you have learned among those mentioned above, and you cannot use grimoires during the development of the ritual, so it is not possible to add spells that you do not fully know.
-
-All effects are executed with the same Power Level and
-
-## Exorcism
-
-- Rank: 4, RITUAL
-- Range: Near
-- Duration: Immediate
-- Ingredient: Sacred symbol (2 rolls)
-
-Having a misgrown or any object possessed by a demon within the circle marked for the ritual, you can begin an exorcism to eliminate the part that comes from Churmog. To achieve this, the Power Level of this spell must exceed the maximum Wits or Strength of the demon or the demon part, which will resist with all their physical and mental power.
-
-The misgrown must consent to be part of the exorcism
-
-or be kept unconscious. It is possible that after the traumatic separation, the remaining mortal will have to recover from serious psychological traumas or even mourn lost limbs forever.
-
-costs 1 Power Level, the second day costs 2, the third costs 3, and so on.
-
-Failing a Resurrection spell only means that the druid who attempted it is unable to bring it back to life (no further attempts are possible), but other druids can attempt it.
-
-## Surge of Vitality
-
-- Rank: 4
-- Range: Short
-- Duration: Immediate
-- Ingredient: Mistletoe (2 rolls)
-
-You send out waves of pure vitality, a magical healing force that gives a pleasant sensation to living beings but destroys the undead.
-
-You deal damage to the Strength of all undead within the spell's range equal to the Power Level. At the same time, living beings in the area regain 1 point of damage in the attribute of their choice.
-
-## Regeneration
-- Rank: 5, RITUAL
-
-- Range: Arm's Length
-- Duration: Immediate
-- Ingredient: Healing ointment (3 rolls)
-
-You are able to regenerate limbs that a character has lost for any reason. Likewise, you can restore any permanently lost attribute points. The Power Level indicates how many things you can regenerate in the same ritual.
-
-## Salvation Circle
-- Rank: 6
-
-- Range: Short
-- Duration: One round per Power Level
-- Ingredient: Amulet (3 rolls)
-
-Channeling the force of your healing magic around you, you create a circle of enormous regenerative power capable of healing everyone within while wounding and frightening demons and undead.
-
-All characters within the circle that are not undead or demons are healed 1 point of damage to all of their attributes each round, as well as being immune to poisons and diseases.
-
-Likewise, all demons and undead that are or enter the circle will suffer, each round, as many points of damage as the Power Level of this spell. The undead suffer it to Strength while the demons suffer it to Wits. Misgrown take half damage (rounded down). This damage cannot be blocked in any way.
-
-## Transcend
-- Rank: 6
-- Range: Personal
-
-## Resurrection
-- Rank: 5, RITUAL
-- Duration: Quarter Day
-- Ingredient: Amulet (3 rolls)
-- Range: Arm's Length
-
-- Duration: Immediate
-- Ingredient: Sacred symbol (3 rolls)
-
-You are able to resurrect a dead character through this complex ritual, who will return almost as if they had never died, having lost a permanent point of Empathy.
-
-The mind you choose, yours or another character, becomes one with nature, being able to interact with it directly, understanding what it feels and what it wants. Additionally, they gain the effects of Complete Peace and increase their Wits and Empathy by a number of points equal to the Power Level of this spell.
-
-The effort required to revive someone depends on the number of days they have been dead: the entire first day
-
-**Magic Mishaps of Healing**
-
-| D66 | Effect |
-| --- | --- |
-| 11-13 | The spell has consumed more than normal for its healing effects, consuming any nearby ingredients. Reduce your Ingredients die by 1 level. |
-| 14-16 | The healing you have employed has taken from your own nutrients. You become  hungry . |
-| 21-22 | To effect its healing, the spell took over the water in your body. You become  thirsty . |
-| 23-24 | Healing magic has drained you of your own energy. You feel headache, fatigue and dizziness as if you haven't slept properly. You become  sleepy . |
-| 25-26 | The healing has occurred in part by the sacrifice of your muscle strength. You suffer 1 point of damage to Agility. |
-| 31-32 | The spell took some of your health and stamina for the magical healing effect. You suffer 1 point of damage to Strength. |
-| 33-34 | Your healing powers make you someone very special among mortals, the rest of the people are little more than sheep of your blessed flock. You suffer 1 point of damage to Empathy. |
-| 35-36 | You doubt that the scope of your powers is a positive force for the world, perhaps healing threatens the natural cycle of things. You suffer 1 damage to Wits. |
-| 41-42 | Your healing power becomes uncontrolled and unpredictable. The beneficial effect you applied to an ally also benefits the closest enemy. |
-| 43-44 | The natural order rebels against your healing will and gives you a powerful kick that propels you forcefully backwards. You fly 1D6 meters and receive a critical injury (blunt). |
-| 45-46 | Healing has drained your magic power unexpectedly. You will not be able to cast spells for as many turns (15 minutes) as the results of 1 you rolled. |
-| 51-52 | Your healing magic has claimed your body's natural ability to heal itself. You cannot recover damage for as many days as the results of 1 you rolled. |
-| 53-54 | The spell seems to cost you more mental effort than you had anticipated. You lose Willpower Points equal to the results of 1 on the roll and, if you do not have enough, you suffer the remaining ones as damage to Wits. |
-| 55-56 | Healing has exhausted your connection to the magical discipline. You reduce the magic talent by 1 for as many quarter days as the results of 1 you obtained in the roll. |
-| 61-62 | Due to a small error in its execution, the spell has taken over your health to generate its healing effect, causing you damage to Strength equal to the results of 1 that you obtained in the roll. |
-| 63-64 | Your magic has overflowed and you lose control over it. To your next 1D6 spell rolls you must add as many dice (of a different color) as results of 1 on the roll (cumulative with this same mishap if it comes up again). These extra dice only count if the result is 1 to suffer a magic mishap. |
-| 65-66 | You have made a mistake. You have cast the healing spell, but whatever damage you have reversed, you will suffer. Let's hope it wasn't a resurrection because otherwise... |
-
-## Wild Magic
-
-> _The druid raised his hands toward the moonlit canopy of leaves. He recited ancient words that resonated in harmony with the whisper of the wind through the branches. In response to his call, a towering brown bear emerged from the bushes, its dark fur gleaming in the silver light._
-
-hose who dedicate their lives to understanding and accompanying natural processes learn to be in Tconstant communion with wild environments and creatures.
-
-You acquire the physical abilities of the most agile animals, such as cats and deer, to increase your abilities and reach astonishing levels of expertise.
-
-Your **stealth** , **move** and **sleight of hand** checks receive a modifier equal to the spell's Power Level. Additionally, you can run with a movement capacity equal to that Power Level.
-
-Finding the meaning of their existence in their connection to nature, they are willing to defend it at any cost, even if it means evoking magical forces to alter their own bodies in a way that many would consider the opposite of natural. However, druids adhere to the concept that the essence of living beings is always the same, manifested in different forms, and that changing it is just another means to connect with the world and fulfill their purpose.
-
-## Wild Language
-- Rank: 1
-- Range: Personal
-
-- Duration: One turn (15 minutes)
-
-In this philosophical scheme, the Wild Magic discipline is the answer not only to defend the life of those who put it in danger, but also the most direct way to be in direct contact with it, to understand it from the greatest number of points of view and reach the highest levels of consciousness and communion with something greater.
-
-- Ingredient: Animal tooth (1 roll)
-
-You establish a magical link with the minds of the animals, being able to understand them and for them to understand you, even though in reality they are emitting sounds that do not make up a real language. Because of this special communication, you gain a modifier equal to the spell's Power Level to your **animal handling** checks.
-
-E RARITY: Strange E SECRETISM: Initiation To communicate with mammals you only need Power Level 1, to do so with birds you need 2, for reptiles you need 3 and for fish level 4. Each animal species has its own perception of reality, tends to a type of character and gives importance to different things in their environment.
-
-## Animal Agility
-- Rank: 1
-
-- Range: Personal
-- Duration: One turn (15 minutes)
-- Ingredient: Handful of animal hair (1 roll)
-
-**Wild Magic Spells by Level**
-
-| Spell | Level |
-| --- | --- |
-| Animal Agility | 1 |
-| Wild Language | 1 |
-| Messenger Plants | 1 |
-| Enhanced Senses | 1 |
-| Flowering | 2 |
-| Wild Strength | 2 |
-| Talk to Nature | 2 |
-| Call Animals | 2 |
-| Creeper Sprout | 3 |
-| Inhabit Animal | 3 |
-| Talk to Monsters | 3 |
-| Lord of the Beasts | 3 |
-| Strangling Vine | 4 |
-| Animal Form | 4 |
-| Call Monster | 4 |
-| Nature Spirit | 5 |
-| Guardian | 5 |
-| Monster Form | 6 |
-| Join Nature | 6 |
-
-quarter day). It can travel unlimited distance throughout the Forbidden Lands.
-
-## Enhanced Senses
-- Rank: 1
-- Range: Personal
-- Duration: One turn (15 minutes)
-- Ingredient: Handful of animal hair (1 roll)
-
-Through magic, you apply the greatest gifts of the animal kingdom to yourself, increasing your senses to levels that no one without this spell could imagine.
-
-You take the touch of the star-nosed mole, the taste of the catfish, the sight of the eagle, the hearing of the bat and the smell of the elephant. With this combination, you are able to feel the world around you in an ultradetailed way.
-
-Your **scouting** , **survival** and **insight** checks receive a modifier equal to the spell's Power Level. You can use this benefit while crossing hexes on the map, keeping in mind that you cast Enhanced Senses when it is most important.
-
-Keep in mind that your super senses can work against you if you receive too much of a sensory load, such as a sound or smell that is too powerful. In these cases, the positive modifier becomes a negative on all your rolls.
-
-## Flowering
-- Rank: 2, RITUAL
-
-## Messenger Plants
-
-- Rank: 1
-- Range: Distant
-- Range: Short
-
-- Duration: Immediate
-- Ingredient: Seeds (1 roll)
-
-- Duration: Immediate
-- Ingredient: Tree leaf (1 roll)
-
-By establishing a magical connection with nature, you can entrust it with a message to send to another character you meet as long as their face or name is clear in your mind. The message cannot be longer than a sentence and will not reach the receiver immediately, but will take as long as plants pass it to each other with the breeze (one hexagon per By connecting with the essence of nature, you can make any plot of land flourish with the vegetation you desire. It can be grass, flowers, fruit trees, wheat, or any other option within the spell's range. However, the Power Level needed depends on the previous condition of the terrain: level 1 for fertile land, level 2 for worn land, level 3 for eroded land, level 4 for arid land.
-
-Keep in mind that vegetation is not magical and its
-
-future is not assured, since it will be in constant interaction with its environment. Its emergence can also alter the natural balance of the surroundings.
-
-Wild Strength can be reactive and break the initiative order if you need to, for example for an **endurance** check or to **parry** a hit with **melee** .
-
-## Wild Strength
-
-- Rank: 2
-- Range: Personal
-- Duration: Immediate
-- Ingredient: Animal claw (1 roll)
-
-## Talk to Nature
-
-- Rank: 2
-- Range: Personal
-- Duration: One minute per Power Level
-- Ingredient: Handful of nuts (1 roll)
-
-You concentrate in your muscles the strength of the largest animals in nature, giving you great power for a very short time. This grants you a modifier equal to the spell's Power Level to a **might** , **endurance** , or **melee** roll, which you make immediately. You always cast this spell when you need the skill check. They both consume the same slow action.
-
-The magical energies of nature allow you to engage in conversation with plant life. You can communicate with trees, flowers and even grass, although the smaller and more basic the plant is, the less capacity it has to obtain and give you information. Following this logic, trees are very good observers, while an area of  grass can have a very distorted and poorly detailed view of a situation.
-
-Conversations with vegetables are more similar to an exchange of concepts than an interaction with words. The Gamemaster can give you information that is quite imprecise or subject to interpretation.
-
-## Duration of Dialogues
-
-If you don't have a clear measure of time to define an interaction, delimit the number of dialogues with a resource die: count each available minute with a die level up to a maximum of D12. Every time you and your interlocutor say something, roll the die and reduce the resource if the result is 1 or 2, 1 minute or the unit of time indicated in the spell will have passed.
-
-## Call Animals
-
-- Rank: 2
-- Range: Distant
-
-slightly with your wishes if you succeed on an **animal handling** roll, although if you fail or force its will too much, the animal will notice and expel you immediately.
-
-- Duration: Immediate
-- Ingredient: Animal bone (1 roll)
-
-By sending out magical waves that animals can perceive, you can call a specific type of animal to come to your location and carry out a simple and concise command. The closest specimens of the species you have decided to call will head towards you as fast as they can, but always limited by their possibilities.
-
-The combined Strength of all animals that respond to the call will not exceed the Power Level of the spell multiplied by five. After completing the order you have given them, the animals will act on their own without you being able to control them.
-
-## Creeper Sprout
-
-- Rank: 3
-- Range: Near
-- Duration: One round per Power Level
-- Ingredient: Creeper cutting (2 rolls)
-
-You communicate with the natural environment and nutrients of the earth to magically emerge vines that trap your enemies within the spell's range. Each performs a **grapple** action with Strength 4 and **melee** 2.
-
-Enemies who lose an opposed **melee** roll suffer the same consequences as in a normal **grapple** and can only take a **break free** action.
-
-TALK TO MONSTERS
-
-- Rank: 3
-
-## Inhabit Animal
-
-- Rank: 3
-- Range: Long
-   -
-- Range: Personal -
-- Duration: One minute per Power Level -
-- Ingredient: Monster bone (2 rolls)
-- Duration: Three minutes per Power Level
-- Ingredient: Feather (1 roll)
-
-You can concentrate on a specific species of animal to transfer your consciousness to the closest specimen and thus perceive the same thing as it. You do not assume control of its body, but rather you accompany it. You can influence it You are able to communicate mentally with monsters, even if they are not able to use or understand spoken language, such as a Gryphon or an Hydra, although they must have some type of animal nature, which leaves it out of the question to engage in conversation with creatures such as a Sanguine, an Amoeba or an undead.
-
-## Animal Form
-
-This spell also allows you to use **animal handling** on the monsters you communicate with if there is any chance of convincing them of something, although it does not mean that you can manipulate them or force them to talk to you. It may be that many monsters simply aren't interested in talking or they just repeat out loud the idea they have at the moment.
-
-- Rank: 4
-- Range: Personal
-- Duration: Permanent
-- Ingredient: Animal claw or tooth (2 rolls)
-
-You change your body shape to that of an animal, acquiring its Strength and Agility points but reducing your Wits and Empathy to 1. You gain its natural weapon and its corresponding damage. The skill points listed on the sheet become yours if they are higher.
-
-## Lord of the Beasts
-
-- Rank: 3
-- Range: Short
-
-There is an important limitation. You must choose the animal beforehand and compare your Strength and Agility with that of the animal, taking the one with which you have the greatest difference. Add or subtract the Power Level achieved with this spell: you can only transform if you equal or exceed the animal's attribute points.
-
-- Duration: One minute per Power Level
-- Ingredient: Animal claw or tooth (1 roll)
-
-You can bend the will of animals to obey your commands, as if you had trained them since they were little even if you have never seen them before. You achieve this if you pass an **animal handling** roll and obtain a minimum of successes equal to its Strength.
-
-You can cast spells while in this form. To return to your original form you must successfully cast this spell again.
-
-You receive a modifier on these **animal handling** checks equal to twice the power level of this spell.
-
-You can only give direct orders. Animals will never do things that go against their nature, that directly harm them or their herd. If you try, they may reveal themselves and become immune to the spell.
-
-## Strangling Vine
-- Rank: 4
-
-- Range: Short
-- Duration: Permanent
-- Ingredient: Creeper cutting (3 rolls)
-
-You connect with plant life to magically boost the growth of a Strangling Vine, which will attack your enemies first, although after defeating them it will be free to do whatever it wants.
-
-The monster takes five rounds to grow, but the spell's Power Level reduces the number of rounds by the same amount.
-
-For the summoning to be possible it is necessary that the Strangling Vine can grow from somewhere. Ideally there should be earthen soil or a vine.
-
-## Call Monster
-
-- Rank: 4
-- Range: Distant
-- Duration: Immediate
-- Ingredient: Monster bone (2 rolls)
-
-## Guardian
-
-- Rank: 5
-- Range: Near
-- Duration: Three rounds per Power Level
-- Ingredient: Serpent skull (3 rolls)
-
-You can focus on a monster you have seen to summon a specimen to your location and have it fulfill a simple command. The closest specimen will feel a magical impulse to head towards you and will do so as quickly as it can, but always limited to its capabilities.
-
-The monster must have some type of animal nature, such as a Gryphon, a Grey Bear, or even a Minotaur, and its Strength cannot be greater than five times the Power Level. You can summon groups of monsters, such as Harpies.
-
-After completing the order you have given it, the monster will act on its own without you being able to control it.
-
-You concentrate the magical energy of nature to help you in the form of an hydra that emerges from the ground. The Guardian will attack all your enemies with balls of blue magical fire that does not burn plants or animals.
-
-You summon one head for each Power Level. When its initiative turn comes, each head attacks one of your enemies at random, although it will prioritize whether someone is attacking it within **arm's length** .
-
-The Guardian's heads, including the neck, are the height of an average human. They have Strength 5, Agility 3, **melee** 2 and **marksmanship** 4. Their Armor Rating is 4. Each one has teeth with damage 3 (slash) and can throw a fireball up to **short** distance and with damage 3 (non-
-
-## Nature Spirit
-
-- Rank: 5, RITUAL
-- Range: Near
-- Duration: Permanent
-- Ingredient: Oak bark (2 rolls)
-
-Through this ritual you invoke a Nature Spirit that is linked to the area where you are. The monster will take on its shape while you cast the spell. Once finished, it will begin to move, but will remain permanently tied to the place.
-
-The spirit will respect you as its summoner and is very unlikely to try to attack you, but it will not obey you at all and will be guided by its own desires. It can be a positive force for the area or become a real problem over time, depending on the place, those who pass through it and the attitude that people take towards the monster, the consequences are unpredictable.
-
-typical): If the attack is successful, the victim burns and takes 1 point of damage each subsequent round until the fire is put out with a successful **move** roll (fast action).
-
-You can only summon the Guardian if there is an earthen floor from which it can emerge. You cannot summon more than one Guardian at the same time, if you create a second one the first one disappears.
-
-## Monster Form
-- Rank: 6
-
-- Range: Personal
-- Duration: Permanent
-- Ingredient: Monster part (3 rolls)
-
-You change the shape of your body to transform into a monster you have previously seen, acquiring all of its points and attacks. In practice, you take a monster sheet and use it as if it were your character.
-
-There are limitations to this spell. The monster must have some type of animal nature, such as a Gryphon, a Grey Bear, a Minotaur, or even an Hydra or Dragon. You must also choose the monster beforehand and compare your Strength with its. Add or subtract the Power Level reached with this spell multiplied by 4: you can only transform if you equal or exceed the Strength of the monster. If you don't make it, the magic mishap is mandatory.
-
-You now use the monster rules, except that you can choose which attack to make on your turn instead of rolling a die.
-
-## Join Nature
-- Rank: 6, RITUAL
-
-- Range: Personal
-- Duration: Permanent
-- Ingredient: Seven different seeds (3 rolls)
-
-Through magic you form a total bond with wildlife, merging your consciousness with nature. You leave your body behind, which remains inert, and you unite your spirit with the whole, now being part of it and being able to manipulate it.
-
-You have extrasensory vision, your mind can travel through plants and animals at will, and you can also communicate with people through concepts in their minds. You can freely use spells in this discipline that do not involve transforming your physical form without spending WP and without risking magic mishaps. The duration is permanent and the range indeterminate. You no longer need to make any rolls that are linked to animals.
-
-However, this union does not come for free: you must roll your Empathy dice, if you do not get any successes, you have been so affected that you lose 1 point permanently. If your Empathy reaches zero, the experience is too much for your mortal mind and you surrender to the spirit of nature forever.
-
-To return to your original form you must cast this ritual again, which consumes a quarter day. You return to your physical body and feel an emotional void for an entire day.
-
-Although you can still distinguish between friends and enemies, being a monster affects you psychologically and you surrender to your acquired nature while in that form: every time you transform you must roll your Empathy dice, if you do not achieve any successes, you have been so affected that you lose 1 point permanently. If your Empathy reaches zero, you are no longer able to overcome the monstrous nature and you remain like this forever.
-
-You can cast spells while in this form. To return to your original form you must successfully cast this spell again.
-
-**Magic Mishaps of Wild Magic**
-
-| D66 | Effect |
-| --- | --- |
-| 11-13 | The spell is unleashed voraciously, consuming any nearby ingredients. Reduce your Ingredients die by 1 level. |
-| 14-16 | The wild nature of the spell has awakened a primal hunger in you. You become  hungry . |
-| 21-22 | An uncontrollable need to consume water takes over you. You become  thirsty . |
-| 23-24 | By turning to the essence of nature, it has infiltrated your interior with its winter energy, making you lethargic and inciting you to hibernate. You become  sleepy . |
-| 25-26 | You will vividly dream that you are a wild animal and wake up agitated frequently. You will not be able to sleep properly for as many nights as the results of 1 you rolled on the spell check. |
-| 31-33 | The manipulation of natural forces has come about in part by the sacrifice of your muscular strength. You suffer 1 point of damage to Agility. |
-| 34-35 | The spell took part of your life force to connect with the essence of nature. You take 1 point of damage to Strength. |
-| 36-41 | You have seen the fabric of the world and the true essence of living beings. Will you be able to have a normal life after this experience? You suffer 1 point of damage to Empathy. |
-| 42-43 | You doubt that the scope of your powers is a positive force for the world, perhaps wild magic attacks the essence of nature. You suffer 1 point of damage to Wits. |
-| 44-46 | The spell has exhausted your connection to the magical discipline. You reduce the magic talent by 1 for as many quarter days as the results of 1 you obtained in the roll. |
-| 51-53 | Wild magic changes a part of your body to have the shape of an animal or a plant, depending on the spell you cast. You will have this change for as many quarter days as the results of 1 you rolled, with the possible social penalties that come with it. |
-| 54-56 | Your spell goes out of control and turns you into a random animal for as many quarter days equal to the results of 1 you rolled. You retain your reasoning, talents and abilities, but you can only use them if it makes sense with the animal's anatomy. |
-| 61-63 | The magical energies you have released turn against you. Nature understands you as a dangerous or alien element. Any group you are in receives a penalty to  lead the way , make camp ,  rest  and  sleep  equal to the results of 1 on the roll. |
-| 64-65 | The magic you have unleashed takes a heavy toll, taking you one step closer to the wild nature of animals and plants. Depending on the effect of the spell, you lose 1 point of an attribute at the Gamemaster's discretion. This reduction persists for as many days as the results of 1 on the roll. |
-| 66 | Due to an error when casting your magic you become a random animal, losing your rational mind and therefore your ability to cast spells. The effects seem permanent. It would be recommended that you make a new character, although your animal character could continue with the group, since they will be somewhat more intelligent and empathetic than normal. You can keep up to three skills from your sheet that make sense on an animal. |
-
-## Awareness
-
-> _Ramzo stroked the dagger reverently, and his vision clouded with images from the past: a thief and his audacious theft in the market, then the blade flashing in the hands of a scout in an ancient temple, also slashes of deadly precision against monstrous beasts in middle of the thickness. What other mystery could hide a weapon that had been through so much in just a few weeks?_
-
-here are those who claim that the mind is the most powerful weapon in the Forbidden Lands. There Tare few who share that idea, but druids are sure that this is the case, at least if it is to study and manipulate magic as a method of understanding the world.
-
-Consciousness is the discipline that allows to expand the horizons of the mind and senses, making them travel impossible distances even through time. E RARITY: Known E SECRETISM: Demonstration
-
-## Omen
-- Rank: 1
-- Range: Short
-
-- Duration: Immediate
-- Ingredient: Quartz (1 roll)
-
-You connect your consciousness with the magic around you, which allows you to ask for a sign over time that will manifest immediately to warn you of an event whether good or bad for you.
-
-After casting the spell, in a few seconds something will happen around you that will indicate if in the next few minutes (one per Power Level) something good or bad will happen to you. The worse or better the impression caused by the omen, the more good or bad the event will be.
-
-**Awareness Spells by Level**
-
-| Spell | Level |
-| --- | --- |
-| Omen | 1 |
-| Telepathy | 1 |
-| Transfer Senses | 1 |
-| See in the Dark | 1 |
-| Read the Past | 2 |
-| Predict Moves | 2 |
-| Accurate Course | 2 |
-| Feel the Truth | 2 |
-| Glimpse of Tomorrow | 3 |
-| Find Person | 3 |
-| Eyes of Truth | 3 |
-| Records of the Past | 3 |
-| Find Weakness | 4 |
-| Read Mind | 4 |
-| See the Future | 4 |
-| Change Memories | 5 |
-| Untouchable | 5 |
-| illumination | 6 |
-| Temporary Transfer | 6 |
-
-Some examples of omens: something catches fire, a statue (or part of it) collapses, you feel a warm breeze, you find a coin on the floor, it starts to drizzle, you hear thunder, you cut yourself with your dagger, a woman throws a bucket full of manure at you by mistake, a girl smiles at you, pleasant music plays.
-
-By manipulating the magical threads of reality, you connect your mind with that of another person, being able to exchange ideas as if they were speaking normally. Only you can hear each other and communication has no content limits as long as the spell remains active.
-
-To establish the telepathic connection you must be able to see the person, but after the spell is cast, as long as they are at **short** distance or less, they will be able to communicate even if they do not even know where the other is.
-
-## Transfer Senses
-- Rank: 1
-- Range: Distant
-- Duration: One minute per Power Level
-- Ingredient: Glass object (1 roll)
-
-This spell allows you to connect your senses to the threads of reality through magic, being able to perceive things at a distance as if you were in front of them. This way, you can see, hear, smell, even touch or taste things as if you were there, even if they are many meters away. You can use this spell anywhere you can see, but it must be focused. You cannot change locations unless you cast the spell again.
-
-## See in the Dark
-- Rank: 1
-- Range: Personal
-- Duration: One turn (15 minutes)
-- Ingredient: Flammable substance (1 roll)
-
-Your eyes become receptors of magic, which shows you things without the need for light. This allows you to see perfectly in the dark, as well as through smoke and fog, or anything else that is a natural visual impediment.
-
-## Telepathy
-
-- Rank: 1
-- Range: Short
-- Duration: One minute per Power Level
-- Ingredient: Scroll (1 roll)
-
-## Read the Past
-
-- Rank: 2
-- Range: Personal
-- Duration: Immediate
-- Ingredient: Lens (2 rolls)
-
-By touching an object and casting this spell, you have a complete vision of its past, as if it were a vivid dream. You can go back as many weeks as the Power Level, exploring any moment within that time. Although your visions are much faster than reality, things may continue to happen normally around you.
-
-## Predict Moves
-
-Feel the Truth is cast for a specific person and only works on that person, although nothing prevents you from casting it more than once to scrutinize the honesty of more than one character at the same time.
-
-Preparing and casting this spell is as obvious as any other, so those who see you do it will know that you are doing something strange, if they do not realize that it is magic. Those who know this spell will identify the gestures and words, so you will not be able to deceive them.
-
-- Rank: 2, POWER WORD
-- Range: Personal
-- Duration: Immediate
-- Ingredient: Feather (1 roll)
-
-## Glimpse of Tomorrow
-- Rank: 3
-
-- Range: Personal
-
-Using this spell you can see what will happen a few moments in the future, allowing you to anticipate the movements of your enemies. Until your next turn, you gain a modifier to your **melee** and **marksmanship** rolls equal to your Power Level.
-
-- Duration: Immediate
-- Ingredient: Glass object (1 roll)
-
-The magic of the world speaks to you, giving you a concrete vision of a future event that you want to know about. In fact, you can ask the Gamemaster a question about something that you want to know if it will happen or not,
-
-## Accurate Course
-
-- Rank: 2
-- Range: Distant
-- Duration: One minute per Power Level
-- Ingredient: Pointed object (1 roll)
-
-While this spell lasts you cannot get lost, you find the way to where you want to go as long as it is a place that you can visualize in your mind. Somehow you feel the right path, the magic guides you from one place to another along the shortest path and, if you must deviate, you will do so with the certainty of how and where you can do it.
-
-## Feel the Truth
-
-- Rank: 2
-- Range: Short
-- Duration: One minute per Power Level
-- Ingredient: Shiny object (1 roll)
-
-This spell gives you an accurate indication of when a person is telling the truth or lying. You simply feel it with indisputable clarity, as if it were becoming evident to your eyes.
-
-or how it will happen. You can anticipate events in one day per Power Level.
-
-The Gamemaster will give you an overview of the events related to your question. That vision will tend to be fulfilled in one way or another within the established period, although keep in mind that the future is not written and the details may change or the event may not occur at all depending on the characters' actions.
-
-You are able to see the past by moving your senses through time, perceiving the environment as if it were an almost perfect illusion. However, during the trance you cannot move from the point where you have performed the ritual, more than a few steps.
-
-Each Power Level allows you to go back up to one month in the past and freely access records from any time within that time. Although your trip is much faster than reality, things may continue to happen normally around you.
-
-## Find Person
-
-- Rank: 3
-- Range: Personal
-- Duration: One hour per Power Level
-- Ingredient: Character's object
-
-You can follow the trail of a person you mentally visualize to the precise location where they are. The spell guides you in a straight line and tells you if you have arrived where you need to, all like an epiphany.
-
-If you cast Find Person before a **hike** action, you can know which hex on the map to move to to find who you are looking for.
-
-## Eyes of Truth
-
-- Rank: 3
-- Range: Personal
-- Duration: Immediate
-- Ingredient: Shiny object (1 roll)
-
-Invoking this magic causes your eyes to take on an unearthly golden glow that illuminates everything in front of you as if they were two beacons. Darkness yields to your power, and any object or person affected by magic will glow blue. Your magical eyes and their effects are visible to any character.
-
-## Find Weakness
-
-- Rank: 4
-- Range: Personal
-- Duration: Immediate
-- Ingredient: Sharp or piercing object (2 rolls)
-
-You expand your senses thanks to magic to be able to supernaturally see and understand the weakness of another person, animal or monster. You immediately know how to take advantage of it and can pass it on to any other character if you wish.
-
-Through this effect, the Gamemaster will reveal the target character's weakness, no matter if it is a secret. It may not be a permanent weakness but rather a temporary one, and if the adventurers encounter the victim again, it will be necessary to cast this spell again.
-
-Beyond the narrative implications, each character who wants to take advantage of the weakness applies a -2 modifier to their attack roll, but will gain a damage bonus equal to the Power Level.
-
-## Read Mind
-
-- Rank: 4
-- Range: Personal
-- Duration: One minute per Power Level
-- Ingredient: Lens (2 rolls)
-
-## Records of the Past
-
-- Rank: 3, RITUAL
-- Range: Personal
-- Duration: Immediate
-- Ingredient: Glass object (1 roll)
-
-You can expand your consciousness and focus it into another character's mind to access their surface thoughts. Given any question that is asked or anything that happens around them, you will be able to know what is going through
-
-their head at that moment. You are not able to search for memories or secrets unless they come to the surface for the duration of the spell.
-
-You can only read a character's mind while they are in sight, although beyond this the distance limit is indeterminate.
-
-within that time. Although your trip is much faster than reality, things may continue to happen normally around you.
-
-## Change Memories
-- Rank: 5
-- Range: Arm's Length
-
-- Duration: Immediate
-
-## See the Future
-- Ingredient: Gryphon's feather (3 rolls)
-- Rank: 4, RITUAL
-
-- Range: Personal
-- Duration: Immediate
-- Ingredient: Scrolls (2 rolls)
-
-You can see the future by moving your senses through time, perceiving the environment as if it were an almost perfect illusion. However, during the trance you cannot move from the point where you have performed the ritual, more than a few steps.
-
-Each Power Level allows you to advance up to one day into the future and freely access the events of any moment This spell allows you to access the memory of a character (including yourself) to modify it in any way you wish. You must tell the Gamemaster what memory you want to change or what you want the victim to stop remembering and what will fill that void.
-
-To resist or notice that something has been changed, the victim must match the Power Level with an **insight** roll: passing it does not allow them to immediately obtain their original memories, but rather begins the process of recovering them after a few days of doubt and reflection.
-
-## Untouchable
-
-- Rank: 5
-- Range: Personal
-- Duration: One round per Power Level
-- Ingredient: White feathers (3 rolls)
-
-## Temporary Transfer
-- Rank: 6
-
-- Range: Personal
-- Duration: Immediate
-- Ingredient: Ring (3 rolls)
-
-You are able to predict your enemies' movements by influencing their minds and sensing their intentions. You become impossible to reach by targeted attacks, such as claws, thrusts, clubs or arrows, even monster attacks.
-
-Because this spell is narratively based on evading enemy movements, it has no effect against area attacks, undodgeable spells, or actions that target your soul or mind.
-
-## Illumination
-
-- Rank: 6, RITUAL
-- Range: Personal
-- Duration: One hour per Power Level
-- Ingredient: Amethyst (3 rolls)
-
-Thanks to magic you reach an unparalleled state of consciousness that allows you to perceive everything that happens in your environment as if it were completely clear. In this way, you are able to see, hear, smell, hear or taste everything you want and perceive anything that may be relevant to you. Additionally, you gain a modifier to your **lore** rolls equal to your Power Level, and you can do this even for things that would be impossible for you to know.
-
-You manipulate magic and the threads of reality, pulling them through time and space. Using this spell, you send a message to your future self or obtain something from them. It can be a message, knowledge, even attribute or Willpower points.
-
-A message requires one Power Level per phrase, whether written or spoken. A knowledge grants a bonus to a **lore** roll equal to the Power Level. In the case of attribute or Willpower points, the maximum transferable is the level achieved. Given these examples, the Gamemaster is the one who decides on any other application.
-
-What you send to the future you lose in the present, and what you receive from the future you may regret sooner or later. This way you can be your own teacher to learn a spell, for example. You can also steal points from yourself to save yourself from a situation.
-
-You can decide when in the future you receive what you have sent, but when you lose something in the future is determined by the Gamemaster.
-
-Additionally, you can freely use the effects of spells such as Omen, Telepathy, Transfer Senses, See in the Dark, Accurate Course, Feel the Truth, Eyes of Truth and See the Future, regardless of whether you have learned them.
-
-**Magic Mishaps of Awareness**
-
-| D66 | Effect |
-| --- | --- |
-| 11-13 | The spell has consumed more than normal for its healing effects, consuming any nearby ingredients. Reduce your Ingredients die by 1 level. |
-| 14-16 | The spell overloads your mind, causing you fatigue. You feel a headache and dizziness as if you haven't slept properly. You become  sleepy . |
-| 21-25 | Other people are not able to understand the wealth of knowledge you have access to thanks to your spells. Will anyone be able to experience the world alongside you? You suffer 1 point of damage to Empathy. |
-| 26-35 | The reach of your magic makes the world such a different place for you that you may never be able to fit in again. You are afraid to think that you have distanced yourself too much from the mortal experience. You suffer 1 point of damage to Wits. |
-| 36-43 | You've seen too much, you've experienced life in unique and unnatural ways, and you know people's minds and souls like perhaps no one should. You may be getting tired of sharing the world with worldly beings incapable of perceiving what you can. You take Empathy damage equal to the number of results of 1 you rolled. |
-| 44-46 | Your knowledge of time, space, and the minds of mortals confuses you as much as it frightens you, both of them and of yourself and the extent of your power. You suffer Wits damage equal to the number of results of 1 you rolled. |
-| 51-52 | You have made a mistake and your magic turns against you. The spell has moved to your target, who can use the effect as it best suits them. Even if they are not even aware of what they are doing, magic will interpret their will and convenience or as a last alternative to keep you under control. |
-| 53-54 | The spell seems to cost you more mental effort than you had anticipated. You lose Willpower Points equal to the results of 1 on the roll and, if you do not have enough, you suffer the remaining ones as damage to Wits. |
-| 55-56 | The effort has exhausted your connection to the magical discipline. You reduce the magic talent by 1 for as many quarter days as the results of 1 you obtained in the roll. |
-| 61-62 | Due to an error when casting the spell, your magic has robbed your mind of its ability to recover from trauma. You cannot recover damage from Wits or Empathy for as many days as the results of 1 on the roll. |
-| 63-64 | You are not able to control the harmful reactions that your Awareness magic can cause in you. If you cast a spell from this discipline, you will suffer an automatic magic mishap. This debuff lasts as many turns (15 minutes) as the results of 1 on the roll (cumulative). |
-| 65 | Your mind has been overwhelmed after you cast the spell. You cannot use magic for as many quarter days as the number of results of 1 you rolled. |
-| 66 | You have made a mistake in the execution of the spell and your magic has hit your mind in such a way that it is completely overwhelmed. You must pass an  insight  check with a penalty equal to the results of 1 on the roll: if you pass, you fall Broken with 0 Wits points; If you fail, your mind is permanently shattered and you will remain empty, staring into nothingness forever (time to make a new character). |
-
-## Symbolism
-
-> _Iolvor traced a symbol in the air with fluid and precise gestures. A bluish energy glowed in his outstretched hands, and with a final movement, the light enveloped the old, heavy lock, which disintegrated in a burst of mystical sparks. Now the door was open, releasing what had been locked away for centuries._
-
-eality is made up of invisible threads that unite everything, as if existence were a great tapestry. RThere are wise men who affirm that these threads are created, intertwined and cut by runes of magical power, providing those who know them with the key that shapes the world.
-
-magical stroke invisible to the eyes, releasing its power when finished. This way you don't need to draw it on a surface and it can be done in a slow action, but it doesn't count as an ingredient.
-
-DRAW SYMBOLS: A symbol is considered drawn when the sorcerer writes it on a surface, being perceptible to the naked eye. This is considered an ingredient (which only works once), but the character must take the time to draw it: one minute per level of the spell. A drawn symbol can be activated whenever the sorcerer decides it is appropriate.
-
-Each symbol is access to a specific force of reality. Sorcerers who practice the discipline of Symbolism dedicate their lives to discovering new runes that will give them the power they so desire. When they learn something new, through a teacher, a written example or through their own elaboration and rehearsal, they access one of those keys that allow them to modify the great tapestry.
-
-In short, Symbolism is the effort to manipulate reality itself using a magical power as ancient as it is divine, present in nature since its creation. The symbols have always been there for those who can and dare to use them, it is just a matter of discovering them.
-
-## Warning
-- Rank: 1
-- Range: Arm's Length
-- Duration: One day per Power Level E RARITY: Known E SECRETISM: Journey INGREDIENTS: This discipline has as its ingredient the same symbol that makes it possible to activate the spell. There is no other catalyst of power.
-
-FORM SYMBOLS: The simplest way to form a symbol is by moving a hand in the air, completing its lines with a You can send a telepathic message to one or more characters who are touching the symbol, or within a **short** maximum distance, at your choice. The message cannot contain more than ten words.
-
-In addition, you are optionally able to impose a condition for its activation: that it is a person you know, that it belongs to a certain race, that it is looking for you, that it is lost, that it wants to open a door, that it has a
-
-particular intention, etc.
-
-If you do not leave the symbol drawn and form it in the air, you must send the telepathic message immediately.
-
-## Attract
-- Rank: 1
-- Range: Short
-
-- Duration: Immediate
-
-The symbol influences the threads of reality, causing them to converge and attract a character or object. The target of this spell moves quickly toward the symbol, as if propelled by an invisible force, until it is within **arm's length** . To avoid being moved or one of their belongings being moved, the character must succeed on a **might** roll with a penalty equal to the Power Level. This spell does not affect monsters.
-
-## Emotion
-- Rank: 1
-
-- Range: Distant
-- Duration: Immediate
-
-This symbol alters the mind of any character the sorcerer can see, causing them to immediately feel a simple emotion. It can be anger, tranquility, distrust, sadness, joy, and any similar example. The emotion lasts indefinitely, diluting naturally or with the help of another character. In the event that the character does not wish to feel that way, they can avoid the effect with a successful **insight** check with a penalty equal to the Power Level.
-
-## Image
-- Rank: 1
-- Range: Short
-
-**Symbolism Spells by Level**
-
-| Spell | Level |
-| --- | --- |
-| Warning | 1 |
-| Attract | 1 |
-| Emotion | 1 |
-| Image | 1 |
-| Afflict | 2 |
-| Capture | 2 |
-| Destroy | 2 |
-| Hurt | 2 |
-| Behavior | 3 |
-| Lesser Illusion | 3 |
-| Mandate | 3 |
-| Repair | 3 |
-| Exhaust | 4 |
-| Animate Object | 4 |
-| Major Illusion | 4 |
-| Maximize | 4 |
-| Protection | 5 |
-| Fortune | 5 |
-| Teleportation | 5 |
-| Alter Space | 6 |
-| Portal | 6 |
-| Transform | 6 |
-
-be real unless they pass an **insight** check with a penalty equal to the Power Level. If they manage to cross it or see how another crosses it, they will immediately know that it is an illusion.
-
-- Duration: One turn (15 minutes)
-
-You create an image of anything you want, as long as its approximate size does not exceed that of a person. The illusion is very realistic but does not make sounds and remains motionless. Characters who see it will believe it to
-
-## Afflict
-- Rank: 2
-- Range: Personal
-- Duration: Immediate
-
-The magic released by the symbol attacks the mind of another character, causing them severe pain. The victim will suffer Wits damage equal to the Power Level, but can reduce it by 1 for each success on an **insight** roll.
-
-## Capture
-
-## E Rank 2
-
-- Range: Short
-- Duration: One round per Power Level
-
-Altered by the symbol, the threads of the world tighten around a character or object, grasping it with an invisible magical force.
-
-In the case of an object, the Gamemaster must determine if the Power Level is sufficient to immobilize it. Or tell the sorcerer the level needed before they decides to cast the spell, since they can gauge how much power it requires.
-
-If a character, the victim must pass a **might** roll with a penalty equal to the Power Level. If they fails, they are disabled as if they had lost against a **grapple** action. From that moment on and for the duration of the spell, they can repeat the **might** roll each round to free theirself.
+By placing your hands on the critical injury a character is suffering, you can regenerate it after a few moments. The Power Level of this spell must be equal to or greater than the result of the D66 tens on the critical table: for example, a result of 46, since its ten is 4, forces the spell to have Power Level 4 to heal that critical injury. This spell cannot regenerate lost body parts.
 
 ## Destroy
-- Rank: 2
 
-- Range: Near
-- Duration: Immediate
-
-Forming this symbol produces an alteration in reality that hits a character with overwhelming force, inflicting a critical injury on the blunt table if they fail an **endurance** roll with a penalty equal to the Power Level.
+- RANK: 2
+- RANGE: Near
+- DURATION: Immediate
 
 This symbol manipulates inorganic matter, managing to destroy it from its most basic structure. The Gamemaster makes a roll with the item's equipment dice plus the Power Level, each result of 1 decreases the equipment bonus by one point, following the degradation rules.
-
-Double the Power Level must be added to the result of the roll. The wound afflicts the victim for 1D6 turns, causing a cumulative -1 die penalty to all their actions.
 
 For objects that do not have specific equipment dice, the Gamemaster must estimate them as they see fit.
 
 ## Hurt
-- Rank: 2
 
-- Range: Near
-- Duration: Immediate
+- RANK: 2
+- RANGE: Near
+- DURATION: Immediate
+
+Forming this symbol produces an alteration in reality that hits a character with overwhelming force, inflicting a critical injury on the blunt table if they fail an **endurance** roll with a penalty equal to the Power Level.
+
+Double the Power Level must be added to the result of the roll. The wound afflicts the victim for 1D6 turns, causing a cumulative -1 die penalty to all their actions.
 
 ## Behavior
 
-- Rank: 3, RITUAL
-- Range: Arm's Length
-- Duration: Permanent
+- RANK: 3, RITUAL
+- RANGE: Arm's Length
+- DURATION: Permanent
 
-The base of this symbol allows you to register your wish in an object, which will act in the way you indicate when a certain condition is met. You create the symbol with wellstudied modifications according to your intention, which consumes an entire quarter day.
+The base of this symbol allows you to register your wish in an object, which will act in the way you indicate when a certain condition is met. You create the symbol with well-studied modifications according to your intention, which consumes an entire quarter day.
 
 This way you can seal doors with magic and make them open with a word or action of your choice, for example, or destroy a column as soon as someone gets close enough. The symbol must be drawn or carved on the object you want to enchant.
 
 The Power Level determines the number or complexity of actions and conditions that can be recorded. You must negotiate the details with the Gamemaster.
 
 ## Lesser Illusion
-- Rank: 3
-- Range: Short
-- Duration: One turn (15 minutes)
 
-You create an image (just one) of anything you want, as long as its approximate size does not exceed that of an average house. The illusion is very realistic, it can make simple sounds and make movements of up to fifteen seconds that it will repeat constantly.
+- RANK: 3
+- RANGE: Short
+- DURATION: One turn (15 minutes)
 
-Characters who see it will believe it to be real unless they pass an **insight** check with a penalty equal to the Power Level. If they manage to cross it or see how another crosses it, they will immediately know that it is an illusion. By attempting to interact with it and realizing that it is not reacting to any of their stimuli, they will be able to repeat the **insight** check with a +3 modifier.
+You create an image, just one, of anything you want, as long as its approximate size does not exceed that of an average house. The illusion is very realistic, it can make simple sounds and make movements of up to fifteen seconds that it will repeat constantly.
 
-_standing still_ will not work if they are about to be attacked, nether _fall asleep_ in a tense situation. However, _attack_ when some guards are about to arrest them would be indirect enough. The victim must be able to hear you to receive and be affected by the order, although they do not have to know where it comes from.
+Characters who see it will believe it to be real unless they pass an **insight** check with a penalty equal to the Power Level. If they manage to cross it or see how another crosses it, they will immediately know that it is an illusion. By attempting to interact with it and realizing that it is not reacting to any of their stimuli, they will be able to repeat the **insight** check with a `+3` modifier.
+
+## Mandate
+
+- RANK: 3
+- RANGE: Short
+- DURATION: Varies
+
+The symbol applies a hypnotic command to a character, forcing them to comply without question. The command should be direct and concise, such as `run`, `scream`, `laugh` or `attack`. The victim will not comply with the order if it totally contradicts their principles or if it puts their life at direct risk: standing still will not work if they are about to be attacked, neither will fall asleep in a tense situation. However, attack when some guards are about to arrest them would be indirect enough.
+
+The victim must be able to hear you to receive and be affected by the order, although they do not have to know where it comes from.
 
 Mandate magic can be resisted with a successful **insight** roll with a penalty equal to the Power Level.
 
 ## Repair
-- Rank: 3
-- Range: Short
 
-## Mandate
-- Rank: 3
-- Range: Arm's Length
-
-- Duration: Immediate
-- Duration: Varies
-
-The symbol applies a hypnotic command to a character, forcing them to comply without question. The command should be direct and concise, such as _run_ , _scream_ , _laugh_ or _attack_ . The victim will not comply with the order if it totally contradicts her principles or if it puts her life at direct risk:
+- RANK: 3
+- RANGE: Arm's Length
+- DURATION: Immediate
 
 You can restore a damaged object to its optimal state. The symbol restores damaged parts with an intense magical glow. Lost equipment dice are recovered in an amount equal to the Power Level. This spell works on objects that have been reduced to zero dice, but not if they have been completely destroyed.
 
 ## Exhaust
 
-- Rank: 4
-- Range: Short
-- Duration: Immediate
+- RANK: 4
+- RANGE: Short
+- DURATION: Immediate
 
 This symbol tightens the threads of reality in the victim's body, contracting their muscles violently and causing cramps, pain and fatigue. The character will take Agility damage equal to the Power Level, but can reduce it by 1 for each success on an **endurance** roll.
 
-do any physical damage, which will give it away sooner or later. At most and with ingenuity, the illusion could cause damage to Wits.
-
-Characters who see it will believe it to be real unless they pass an **insight** check with a penalty equal to the Power Level. If they happen to pass it or see someone else pass it, they will immediately know that it is an illusion, although with how realistic it is and how it reacts to them, it is unlikely that they will even try it.
-
 ## Animate Object
-- Rank: 4
 
-- Range: Arm's Length
-- Duration: One minute per Power Level
+- RANK: 4
+- RANGE: Arm's Length
+- DURATION: One minute per Power Level
 
-Through the magic of this symbol, an object is able to move on its own by performing a specific action that you indicate: _play music_ , _open the locks_ , _attack my enemies_ , even more complex orders such as _protect this place_ or _make noise if someone approaches_ .
+Through the magic of this symbol, an object is able to move on its own by performing a specific action that you indicate: `play music`, `open the locks`, `attack my enemies`, even more complex orders such as `protect this place` or `make noise if someone approaches`.
 
-Specifically, the animated object can only use one ability (which you choose related to the given command), rolling as many dice as twice the Power Level. The object can crawl and levitate at the speed you would run.
+Specifically, the animated object can only use one ability, which you choose related to the given command, rolling as many dice as twice the Power Level. The object can crawl and levitate at the speed you would run.
 
 ## Major Illusion
-- Rank: 4
 
-- Range: Varies
-- Duration: One turn (15 minutes)
+- RANK: 4
+- RANGE: Varies
+- DURATION: One turn (15 minutes)
 
 You create one or more images of anything you want, which can span as many areas of distance as the Power Level. The illusion is very realistic, it can make simple sounds and make movements following a logic according to what you imagined when creating it. A monster or a group of people will act as you expect them to when you cast the spell, although their ability to improvise is very limited.
 
-The illusion reacts to the environment, making it very realistic, although it cannot
+The illusion reacts to the environment, making it very realistic, although it cannot do any physical damage, which will give it away sooner or later. At most and with ingenuity, the illusion could cause damage to Wits.
 
-## Fortune
-
-## E Rank 5
-- Range: Arm's Length
-- Duration: One turn (15 minutes)
-
-The universe and its magical forces take the side of the character blessed by this spell. As long as the symbol remains in effect, the character can reroll a number of rolls equal to the Power Level. Furthermore, luck will be on your side in matters related to chance: cards, dice, roulette, even to be chosen (or not) randomly, both by characters within the game world as well as, by extension, by the Gamemaster theirself.
+Characters who see it will believe it to be real unless they pass an **insight** check with a penalty equal to the Power Level. If they happen to pass it or see someone else pass it, they will immediately know that it is an illusion, although with how realistic it is and how it reacts to them, it is unlikely that they will even try it.
 
 ## Maximize
-- Rank: 5
-- Range: Near
-- Duration: One round per Power Level Through this symbol you unlock the potential of a character, allowing them to obtain successes with results of 4, 5 and 6 on the dice instead of only 6. It is used for any roll that the character makes, be it skill, spells or any other nature.
 
-## Teleportation
+- RANK: 5
+- RANGE: Near
+- DURATION: One round per Power Level
+
+Through this symbol you unlock the potential of a character, allowing them to obtain successes with results of 4, 5 and 6 on the dice instead of only 6. It is used for any roll that the character makes, be it skill, spells or any other nature.
 
 ## Protection
-- Rank: 4, POWER WORD
-- Range: Near
-- Rank: 5
-- Range: Varies
-- Duration: Immediate
-- Duration: Immediate
+
+- RANK: 4, POWER WORD
+- RANGE: Near
+- DURATION: Immediate
 
 The symbol of protection is a powerful spell that blocks any attack, whether physical or magical. The barrier reduces the Power Level of a spell, the successes rolled on a **melee** or **marksmanship** roll, or any other aggression that can be quantified in successes or level, by an amount equal to the Power Level of this spell. This reduction can be accumulated with the defensive efforts of the protected character, who can decide whether to use an action to defend theirself once the aggressive action is reduced.
 
 This spell must be cast as a reaction, breaking the initiative order. You can use Protection on yourself.
 
+## Fortune
+
+- RANK: 5
+- RANGE: Arm's Length
+- DURATION: One turn (15 minutes)
+
+The universe and its magical forces take the side of the character blessed by this spell. As long as the symbol remains in effect, the character can reroll a number of rolls equal to the Power Level. Furthermore, luck will be on your side in matters related to chance: cards, dice, roulette, even to be chosen or not randomly, both by characters within the game world as well as, by extension, by the Gamemaster theirself.
+
+## Teleportation
+
+- RANK: 5
+- RANGE: Varies
+- DURATION: Immediate
+
 This symbol creates a gap in space, allowing you to teleport an object or person from one place to another in just the blink of an eye. Reality is distorted during the instant it takes for this spell to take effect. In any case, you should be able to see both the origin and destination point.
 
 The maximum distance depends on the power level: at level 1 you can teleport something at **near** distance, at level 2 at **short** distance, at level 3 at **long** distance, and at level 4 at **distant** distance.
 
-However, the size of what you want to affect reduces the Power Level: by 1 level for a very small target, by 2 levels for a target the size of a halfling, by 3 levels for a target the
-
-size of an adult human, in 4 levels for a target the size of a horse or similar, and in 5 levels for a target the size of a small room.
+However, the size of what you want to affect reduces the Power Level: by 1 level for a very small target, by 2 levels for a target the size of a halfling, by 3 levels for a target the size of an adult human, by 4 levels for a target the size of a horse or similar, and by 5 levels for a target the size of a small room.
 
 Whoever possesses the object or character targeted by the symbol can resist its effects with an **insight** or **endurance** roll with a penalty equal to the Power Level. You can teleport yourself.
 
 ## Alter Space
-- Rank: 6, RITUAL
-- Range: Near
 
-- Duration: One day per Power Level
+- RANK: 6, RITUAL
+- RANGE: Near
+- DURATION: One day per Power Level
 
 By focusing this symbol on a place or object, you magically alter the space inside it. In this way, impossible things can happen: a hallway that becomes absurdly long even though it occupies the same space in the building, a bag that stores objects larger than its own size, barrels that seem to have no bottom, ships capable of carrying much more crew, etc. The capacity of the object or place increases as many times as the Power Level, however, things still weigh the same inside it.
 
-## Transform
-- Rank: 6
-- Range: Near
-- Duration: One turn (15 minutes)
-
-With the right strokes you can make anything transform into another, even organic matter into inorganic.
-
-If it is an item, roll its equipment dice (plus artifact die if it has one) with a penalty equal to the Power Level. If it does not achieve successes, you can turn it into another object of equal or smaller volume, even food, but after this effect expires it will return to its previous state, which could lead to very unpleasant, even deadly, consequences.
-
-In the case of characters, they are opposed with a **endurance** roll with a penalty equal to the Power Level. If it fails, you can turn it into another living being or object of equal or smaller size than the original. The character is aware of their condition at all times, although they are not able to perceive reality or process it in a normal way. When this effect ends, they return to their normal form, potentially causing unpredictable consequences that must be determined by the Gamemaster. Instant death is one of the possibilities.
-
 ## Portal
-- Rank: 6, RITUAL
-- Range: Near
 
-- Duration: One turn per Power Level
+- RANK: 6, RITUAL
+- RANGE: Near
+- DURATION: One turn per Power Level
 
 You open a door in the veil between worlds through which any character can cross, but also any creature that inhabits the other side. You can close the portal whenever you want, although you must take a round to do so and not be interrupted.
 
 The other world is a strange and changing place whose details are left to the Gamemaster's consideration. What is certain is that it is inhabited by demons who have their own powers, abilities and interests.
 
 Within the other world you can draw this symbol again to create a new portal, which will take you to the place of the Forbidden Lands that you want as long as you know how to locate it on a map or have a clear mental image of it either by remembering it or thanks to some kind of vision.
+
+## Transform
+
+- RANK: 6
+- RANGE: Near
+- DURATION: One turn (15 minutes)
+
+With the right strokes you can make anything transform into another, even organic matter into inorganic.
+
+If it is an item, roll its equipment dice plus artifact die if it has one, with a penalty equal to the Power Level. If it does not achieve successes, you can turn it into another object of equal or smaller volume, even food, but after this effect expires it will return to its previous state, which could lead to very unpleasant, even deadly, consequences.
+
+In the case of characters, they are opposed with an **endurance** roll with a penalty equal to the Power Level. If it fails, you can turn it into another living being or object of equal or smaller size than the original. The character is aware of their condition at all times, although they are not able to perceive reality or process it in a normal way. When this effect ends, they return to their normal form, potentially causing unpredictable consequences that must be determined by the Gamemaster. Instant death is one of the possibilities.
 
 **Magic Mishaps of Symbolism**
 
@@ -1543,76 +720,19 @@ Within the other world you can draw this symbol again to create a new portal, wh
 
 > _With his deep, hoarse voice, the old dwarf sang an arcane chant as his rough hands rested on the rock. A vibration began to resonate from his fingers to the stone, which yielded and molded under his will, revealing a secret entrance to the depths of the mountain._
 
-rom the beginning of creation, the Song of Stone was used by the dwarves for their work of primeval Fimportance in honor of the god Huge, shaping the world, raising the mountains and carving furrows for the rivers that nourish the earth to flow.
-
-E RARITY: Strange E SECRETISM: Demonstration INGREDIENTS: For this discipline, a special type of ingredients is used: musical instruments. You carry all the instruments like a normal object and to remove them from where you have them stored you use a fast action. Therefore, the ingredient die rule does not apply in this discipline, and the same instruments can be used indefinitely as spell ingredients. You must play music with the instrument while you cast the spell.
+From the beginning of creation, the Song of Stone was used by the dwarves for their work of primeval importance in honor of the god Huge, shaping the world, raising the mountains and carving furrows for the rivers that nourish the earth to flow.
 
 It is said that in ancient times all dwarves were capable of understanding this discipline and using it for their purpose, but as their people developed their tasks diversified, requiring other functions that distanced more and more members of their race from magic.
 
 In time, the secrets of Stone Song were revealed to the elves to serve, in the eyes of the dwarves, as helpers in the grand scheme of things. The elves took their own approach to the discipline and made their own contributions to its development.
 
-## Deafening Shout
-- Rank: 1
-- Range: Long
-
 As the centuries passed, what was once a natural skill of the dwarves in their ancestral and religious work became a rare but highly polished art of arcane knowledge passed down from master to apprentice.
-- Duration: One round per Power Level
-- Ingredient: Horn You make a noise so loud and constant that it deafens all characters in the area. People will not be able to hear each other unless they pass an **insight** check with a penalty equal to the Power Level. Additionally, 1st-level spells that require a spoken or audible component cannot be cast. The spell is audible even beyond its area of  effect.
 
 Dwarven clerics preserved the discipline as one of their most precious legacies, while the few elves who knew it simply did not find many worthy candidates to learn it. Even so, the foundations of Stone Song slowly trickled down to other races, especially to the always curious humans and half-elves. The magic of controlling the foundations of the world has since been open to those willing to do whatever it takes to learn it.
 
-Very annoyed by your shout, all characters receive a -1 die penalty to all their actions, although they can
-
-ignore it for Strength and Agility skills if they pass an **endurance** roll.
-
-The mountain has a perception range that encompasses its entire map hex. For obvious reasons, this spell can only be used in mountain terrain or inside a cave that is inside a mountain.
-
-## Talk with the Mountain
-
-- Rank: 1, RITUAL
-- Range: Varies
-- Duration: Quarter Day
-- Ingredient: Drum
-
-This spell allows you to hold a conversation with the spiritual essence of a mountain. You can ask it simple questions about things that happened in the hex where it is located (take the **duration of dialogues** advice on page 25, but instead of minutes, in hours).
-
-The mountain speaks very slowly, that is why this spell works as a ritual: In the quarter day that the ritual takes (6 hours) is when the conversation occurs.
-
-The Power Level determines the ability you have to animate the mountain, its memory, and the understanding it can achieve about its surroundings. A day requires level 1, a year level 2, a decade level 3, a century level 4, a millennium level 5, and even older times level 6. Still, the mountain can forget or be very inaccurate with events that occurred far in the past.
-
-## Throw Rock
-
-- Rank: 1
-- Range: Short
-- Duration: Immediate
-- Ingredient: Ratchet
-
-You lift a rock from the ground, whether it already exists or by compacting dirt, to throw it at another character. The victim takes Strength damage equal to the Power Level, although they can reduce it by 1 for each success on an **endurance** roll plus a normal armor roll, or they can also resort to a **dodge** action against the Power Level.
-
-You can only use Throw Rock on a location that has dirt or loose rocks on its surface.
-
-## Dust Cloud
-
-- Rank: 1
-- Range: Varies
-- Duration: One round
-- Ingredient: Harp
-
-You raise a dense cloud of dust from the ground, covering the area you are in. The maximum distance depends on the Power Level: with level 1 the fog reaches **near** distance, with level 2 at **short** distance, with level 3 at **long** distance, and at level 4 at **distant** distance.
-
-Dust blocks vision, applying a penalty to all actions related to Agility and Wits equal to the Power Level. Characters who can see in the dark or have other means of magical vision ignore these effects.
-
-## Collapse
-- Rank: 2
-
-- Range: Arm's Length
-- Duration: Immediate
-- Ingredient: Drum
-
-You can destabilize a stone structure (natural or artificial) so that it crumbles before you after a few seconds. The Power Level limits the portion of the structure that is affected: approximately 1 square meter per level. However, collapsing just one part of a structure can create an unpredictable chain effect, even if it takes longer to occur or happens in a more unstable manner than with this spell.
-
-## Thundering Shout
-- Rank: 2
+- Rarity: Strange
+- Secretism: Demonstration
+- Ingredients: For this discipline, a special type of ingredients is used: musical instruments. You carry all the instruments like a normal object and to remove them from where you have them stored you use a fast action. Therefore, the ingredient die rule does not apply in this discipline, and the same instruments can be used indefinitely as spell ingredients. You must play music with the instrument while you cast the spell.
 
 **Stone Song Spells by Level**
 
@@ -1641,9 +761,69 @@ You can destabilize a stone structure (natural or artificial) so that it crumble
 | Iron Golem | 6 |
 | Transmutation | 6 |
 
-- Range: Short
-- Duration: Varies
-- Ingredient: Horn
+## Deafening Shout
+
+- RANK: 1
+- RANGE: Long
+- DURATION: One round per Power Level
+- INGREDIENT: Horn
+
+You make a noise so loud and constant that it deafens all characters in the area. People will not be able to hear each other unless they pass an **insight** check with a penalty equal to the Power Level. Additionally, 1st-level spells that require a spoken or audible component cannot be cast. The spell is audible even beyond its area of effect.
+
+Very annoyed by your shout, all characters receive a -1 die penalty to all their actions, although they can ignore it for Strength and Agility skills if they pass an **endurance** roll.
+
+## Talk with the Mountain
+
+- RANK: 1, RITUAL
+- RANGE: Varies
+- DURATION: Quarter Day
+- INGREDIENT: Drum
+
+This spell allows you to hold a conversation with the spiritual essence of a mountain. You can ask it simple questions about things that happened in the hex where it is located, take the duration of dialogues advice on page 25, but instead of minutes, in hours.
+
+The mountain speaks very slowly, that is why this spell works as a ritual: in the quarter day that the ritual takes, 6 hours, is when the conversation occurs.
+
+The Power Level determines the ability you have to animate the mountain, its memory, and the understanding it can achieve about its surroundings. A day requires level 1, a year level 2, a decade level 3, a century level 4, a millennium level 5, and even older times level 6. Still, the mountain can forget or be very inaccurate with events that occurred far in the past.
+
+The mountain has a perception range that encompasses its entire map hex. For obvious reasons, this spell can only be used in mountain terrain or inside a cave that is inside a mountain.
+
+## Throw Rock
+
+- RANK: 1
+- RANGE: Short
+- DURATION: Immediate
+- INGREDIENT: Ratchet
+
+You lift a rock from the ground, whether it already exists or by compacting dirt, to throw it at another character. The victim takes Strength damage equal to the Power Level, although they can reduce it by 1 for each success on an **endurance** roll plus a normal armor roll, or they can also resort to a **dodge** action against the Power Level.
+
+You can only use Throw Rock on a location that has dirt or loose rocks on its surface.
+
+## Dust Cloud
+
+- RANK: 1
+- RANGE: Varies
+- DURATION: One round
+- INGREDIENT: Harp
+
+You raise a dense cloud of dust from the ground, covering the area you are in. The maximum distance depends on the Power Level: with level 1 the fog reaches **near** distance, with level 2 at **short** distance, with level 3 at **long** distance, and at level 4 at **distant** distance.
+
+Dust blocks vision, applying a penalty to all actions related to Agility and Wits equal to the Power Level. Characters who can see in the dark or have other means of magical vision ignore these effects.
+
+## Collapse
+
+- RANK: 2
+- RANGE: Arm's Length
+- DURATION: Immediate
+- INGREDIENT: Drum
+
+You can destabilize a stone structure (natural or artificial) so that it crumbles before you after a few seconds. The Power Level limits the portion of the structure that is affected: approximately 1 square meter per level. However, collapsing just one part of a structure can create an unpredictable chain effect, even if it takes longer to occur or happens in a more unstable manner than with this spell.
+
+## Thundering Shout
+
+- RANK: 2
+- RANGE: Short
+- DURATION: Varies
+- INGREDIENT: Horn
 
 Imbued with the power of the mountains, your scream is capable of stunning an enemy. The character will receive a penalty to their actions equal to the Power Level, which will decrease by 1 at the end of their combat turns until it disappears. The scream is audible even beyond its area of  effect.
 
@@ -1652,11 +832,11 @@ The victim can reduce the stunning effect with an **endurance** roll with a pena
 Alternatively, you can have the shout affect all characters in the spell's range (regardless of friend or enemy). However, in this case the penalty is halved (rounding up).
 
 ## Shape the Stone
-- Rank: 2
 
-- Range: Arm's Length
-- Duration: One minute per Power Level
-- Ingredient: Whistle
+- RANK: 2
+- RANGE: Arm's Length
+- DURATION: One minute per Power Level
+- INGREDIENT: Whistle
 
 You can manipulate solid rock with your hands and objects as if it were clay. This helps you both to open holes and to trace precise grooves. If your intention is to create sculptures (or modify them precisely) you will need to use your **crafting** skill.
 
@@ -1665,18 +845,18 @@ are part of its body). In addition, the gargoyle may have additional abilities s
 The creature will obey you at all times and is immune to any damage or debuff focused on Wits or Empathy. When this spell expires, if it is still alive, it will immediately attempt to return to the place and position where it was originally.
 
 ## Burst of Stones
-- Rank: 3
-- Range: Short
 
-- Rank: 2
+- RANK: 3
+- RANGE: Short
+- RANK: 2
 
 ## Feel the Vibrations
-- Duration: Immediate
-- Ingredient: Ratchet
 
-- Range: Long
-- Duration: One minute per Power Level
-- Ingredient: Flute
+- DURATION: Immediate
+- INGREDIENT: Ratchet
+- RANGE: Long
+- DURATION: One minute per Power Level
+- INGREDIENT: Flute
 
 You become extremely sensitive to the vibrations in the earth and rock generated by objects and living beings that interact with the ground, being able to locate them in space and determine their approximate size. Its quantity and speed are clear to you.
 
@@ -1689,18 +869,18 @@ All attacked characters take Strength damage equal to the Power Level, although 
 You can only use Burst of Stones on a location that has loose rocks on its surface.
 
 ## Animate Gargoyle
-- Rank: 3
 
-- Range: Arm's Length
-- Duration: One turn per Power Level
-- Ingredient: Lute
+- RANK: 3
+- RANGE: Arm's Length
+- DURATION: One turn per Power Level
+- INGREDIENT: Lute
 
 ## Mold the Iron
-- Rank: 3
 
-- Range: Arm's Length
-- Duration: One minute per Power Level
-- Ingredient: Whistle
+- RANK: 3
+- RANGE: Arm's Length
+- DURATION: One minute per Power Level
+- INGREDIENT: Whistle
 
 You are capable of giving artificial life to a statue. It has no skills, it has Agility 2 and its Strength must be determined by the Gamemaster according to the size of the statue: 4 for small ones, 6 for human-sized ones, 8 for those up to twice the size and 10 for more than twice the human size. Its Armor Rating is 4 and the damage from slashing and stabbing attacks is halved.
 
@@ -1710,28 +890,28 @@ On the other hand, when you want to forge or repair metal objects, your **crafti
 
 ## Rocky Whirlpool
 
-- Rank: 3
-- Range: Short
-- Duration: One round per Power Level
-- Ingredient: Drum
+- RANK: 3
+- RANGE: Short
+- DURATION: One round per Power Level
+- INGREDIENT: Drum
 
 You gather all the stones around you and make them move quickly forming a whirlpool. All characters take a penalty to Agility equal to the Power Level, plus 1 point of damage to Strength each turn they do not exceed an **endurance** roll plus the Armor Rating with a penalty equal to the Power Level. Ranged attacks are automatically intercepted by rocks, making them useless.
 
 ## Stone Armor
 
-- Rank: 4
-- Range: Arm's Length
-- Duration: One round per Power Level
-- Ingredient: Whistle
+- RANK: 4
+- RANGE: Arm's Length
+- DURATION: One round per Power Level
+- INGREDIENT: Whistle
 
 You control the stones around you to form a protective layer over a character's body, like armor of rating equal to the Power Level. The armor you wear underneath still counts: every time you have to roll for your armor, roll the total number of dice, although to measure the degrade it is advisable to use dice of a different color. The character takes half damage from cutting and stabbing weapons while this spell is in effect.
 
 ## Summon Golem
-- Rank: 4
 
-- Range: Arm's Length
-- Duration: One turn per Power Level
-- Ingredient: Lute
+- RANK: 4
+- RANGE: Arm's Length
+- DURATION: One turn per Power Level
+- INGREDIENT: Lute
 
 Through the magic of this spell, a creature is assembled made of the rocks in the environment approximately two meters high.
 
@@ -1742,10 +922,11 @@ Its Strength is 10 and its Agility is 4, in addition its Armor Rating is 4 and t
 Every time it suffers Strength damage, the golem's body falls apart. When the spell ends, what remains completely collapses.
 
 ## Raise Structure
-- Rank: 4
-- Range: Near
-- Duration: Immediate
-- Ingredient: Flute
+
+- RANK: 4
+- RANGE: Near
+- DURATION: Immediate
+- INGREDIENT: Flute
 
 You are able to levitate stones to form all kinds of simple structures that you visualize in your mind, such as walls, arches or bridges. For example, creating a room will require casting this spell five times (once per wall plus the ceiling), although a simple bridge requires only one casting. You can also use this magic to repair part of a structure.
 
@@ -1754,10 +935,11 @@ The Power Level determines the speed at which what you are imagining is formed. 
 Keep in mind that with this spell you could build your own fortress or repair a ruined castle.
 
 ## Magnetism
-- Rank: 4
-- Range: Short
-- Duration: One minute per Power Level
-- Ingredient: Harmonica You are able to move a metallic object at will at a speed similar to that you would run, although while you do so you cannot perform any other action and if you take damage the effect ends.
+
+- RANK: 4
+- RANGE: Short
+- DURATION: One minute per Power Level
+- INGREDIENT: Harmonica You are able to move a metallic object at will at a speed similar to that you would run, although while you do so you cannot perform any other action and if you take damage the effect ends.
 
 With this spell you can knock the weapon out of another character's hand, or attempt to move or knock them down by controlling the metal of their armor, but they can prevent this with a successful **might** roll penalized by the Power Level.
 
@@ -1766,22 +948,23 @@ You can divide the force of Magnetism into different objects (affecting differen
 By the same principle, you can levitate characters by moving their metal equipment or transporting multiple people on a metal surface. The Power Level needed and the speed achieved must be determined by the Gamemaster.
 
 ## Create Sentinel
-- Rank: 5, RITUAL
-- Range: Arm's Length
-- Duration: Permanent
-- Ingredient: Lute This spell allows you to create a powerful gargoyle that comes to artificial life under the circumstances you wish: it can be as simple as attacking anything that enters the room where it rests, but you can add certain conditions, such as ignoring those wearing silver chain mail, for example. Instead of attacking, it might open a door or pull heavy chains after hearing some key words or another condition being met.
+
+- RANK: 5, RITUAL
+- RANGE: Arm's Length
+- DURATION: Permanent
+- INGREDIENT: Lute This spell allows you to create a powerful gargoyle that comes to artificial life under the circumstances you wish: it can be as simple as attacking anything that enters the room where it rests, but you can add certain conditions, such as ignoring those wearing silver chain mail, for example. Instead of attacking, it might open a door or pull heavy chains after hearing some key words or another condition being met.
 
 The spell must be cast on a normal statue that is already sculpted, although you can sculpt it yourself with **crafting** , taking your time.
 
 It has Agility 4 and its Strength must be estimated by the Gamemaster, and can be based on the table on the next page as a reference for both the Strength and the stone
 
 SENTINEL STATUE SIZE STRENGTH STONE TIME Up to 1m 6 10 4 days Up to 2m 8 20 8 days Up to 4m 10 40 16 days FORGE ARTIFACT More than 4m 14 80 32 days
-- Rank: 5
-- Range: Arm's Length
-- Rank: 5
-- Range: Arm's Length
-- Duration: Permanent
-- Ingredient: Harmonica necessary for the statue sizes. Its Armor Rating is 6 and the damage from slashing and stabbing attacks is halved. The narrative characteristics of its weapons depend on their original structure, but you can assume that they have damage 2 (blunt), with no equipment dice in any case (they are part of its body).
+- RANK: 5
+- RANGE: Arm's Length
+- RANK: 5
+- RANGE: Arm's Length
+- DURATION: Permanent
+- INGREDIENT: Harmonica necessary for the statue sizes. Its Armor Rating is 6 and the damage from slashing and stabbing attacks is halved. The narrative characteristics of its weapons depend on their original structure, but you can assume that they have damage 2 (blunt), with no equipment dice in any case (they are part of its body).
 
 You gain exceptional control over metal manipulation, to the point where you can forge artifacts. This spell does not allow you to imbue them with magical effects, but it does allow you to give them an artifact die: D8 with Power Level 2, D10 with Power Level 4, and D12 with Power Level 6.
 
@@ -1797,20 +980,21 @@ You need the Blacksmith talent to use this spell, since in addition to casting i
 
 ## Stone Peaks
 
-- Rank: 5
-- Range: Short
-- Duration: Immediate
-- Ingredient: Drum
+- RANK: 5
+- RANGE: Short
+- DURATION: Immediate
+- INGREDIENT: Drum
 
 Shaking the rocky ground with the vibrations of your song and the heavy pounding of your feet, you create long, thick stone spikes with a perfect tip that are lethal to your enemies. All characters you choose take Strength damage equal to the Power Level. This damage cannot be blocked by armor, but victims must roll the dice anyway: each 1 reduces its rating because of the damage done by the spikes.
 
 This spell can only be cast in areas with abundant rocks, such as hills and mountains. Otherwise, there is not enough material to form the peaks.
 
 ## Iron Golem
-- Rank: 6
-- Range: Arm's Length
-- Duration: One turn per Power Level
-- Ingredient: Lute The magic from your song shapes and attracts iron to form a powerful creature that obeys your every command and is approximately two meters tall. It has no Wits or Empathy points and is immune to mind-altering effects.
+
+- RANK: 6
+- RANGE: Arm's Length
+- DURATION: One turn per Power Level
+- INGREDIENT: Lute The magic from your song shapes and attracts iron to form a powerful creature that obeys your every command and is approximately two meters tall. It has no Wits or Empathy points and is immune to mind-altering effects.
 
 Its Agility is 4 and its Armor Rating is 8. The damage from slashing and stabbing attacks is halved. Its only weapon is its fists, which have damage 3 (blunt). Additionally, the golem is capable of forcing Strength rolls if you wish.
 
@@ -1819,17 +1003,18 @@ The Strength of the golem depends on the amount of iron that has been assembled 
 Every time it suffers Strength damage, the golem's body falls apart. When the spell ends, the iron plates separate and fall inert.
 
 ## Transmutation
-- Rank: 6, RITUAL
+
+- RANK: 6, RITUAL
 
 ## Terremoto
-- Rank: 5
-- Range: Distant
-- Range: Arm's Length
-- Duration: Immediate
-- Ingredient: Flute
 
-- Duration: One round per Power Level
-- Ingredient: Drum
+- RANK: 5
+- RANGE: Distant
+- RANGE: Arm's Length
+- DURATION: Immediate
+- INGREDIENT: Flute
+- DURATION: One round per Power Level
+- INGREDIENT: Drum
 
 You stomp the ground as you sing, evoking the strength of the mountains, causing the earth to shake violently around you. Up to an indeterminate distance, covering everything you can see, you generate an earthquake capable of destabilizing any character who does not have more than four legs or can rise from the ground. Earthquake victims suffer a penalty equal to the Power Level to all their actions.
 
@@ -1866,38 +1051,38 @@ You can rely on the Richter Seismological Scale to determine the damage you are 
 ## Burning Breath
 
 merging as a sub-tradition of the Stone Song to do the will of the god Huge in the world, the EMagma Song is dedicated to understanding the essence of lava and heat to manipulate them through sound. The intellectual basis of this discipline is the concept that matter has memory, and thanks to that memory its potential can be awakened by molding it and doing wonders.
-- Rank: 1
-- Range: Arm's Length
-- Duration: Immediate
-- Ingredient: Ratchet You inhale air until you inflate your lungs to the maximum and then release it at a very high temperature. Your breath is capable of boiling most liquids instantly, melting ice and soft materials, as well as burning a character within range. The victim must pass an **endurance** roll with a penalty equal to the Power Level or suffer one point of damage to Strength that cannot be recovered except with a **healing** roll or magic.
+- RANK: 1
+- RANGE: Arm's Length
+- DURATION: Immediate
+- INGREDIENT: Ratchet You inhale air until you inflate your lungs to the maximum and then release it at a very high temperature. Your breath is capable of boiling most liquids instantly, melting ice and soft materials, as well as burning a character within range. The victim must pass an **endurance** roll with a penalty equal to the Power Level or suffer one point of damage to Strength that cannot be recovered except with a **healing** roll or magic.
 
 Magma singers are highly appreciated as they are shown as sorcerers open to dialogue, empathetic and disciplined, with a striking artistic sensitivity, but willing to use violence when necessary, exalted with power with the heat of lava and steam. Anyone who stands before one of these priests knows that they must behave according to the customs of diplomacy or face their dangerous magic.
 
 ## Heat Immunity
 
 E RARITY: Strange E SECRETISM: Demonstration
-- Rank: 1
-- Range: Near
-- Duration: One round per Power Level
-- Ingredient: Flute INGREDIENTS: As with the Stone Song, in this discipline musical instruments are used as an ingredient. You carry the instruments like a normal object and to remove them from where you have them stored you use a fast action. Therefore, the ingredient die rule does not apply in this discipline, and the same instruments can be used indefinitely as spell ingredients. You must play music with the instrument while you cast the spell.
+- RANK: 1
+- RANGE: Near
+- DURATION: One round per Power Level
+- INGREDIENT: Flute INGREDIENTS: As with the Stone Song, in this discipline musical instruments are used as an ingredient. You carry the instruments like a normal object and to remove them from where you have them stored you use a fast action. Therefore, the ingredient die rule does not apply in this discipline, and the same instruments can be used indefinitely as spell ingredients. You must play music with the instrument while you cast the spell.
 
 Magic from the depths of the earth makes a character immune to heat, no matter its intensity. They do not feel any pain nor do it cause them any harm. However, this should not be confused with immunity to fire, as flames or lava still deal normal damage.
 
 ## Manipulate Smoke
 
-- Rank: 1
-- Range: Near
-- Duration: One minute per Power Level
-- Ingredient: Harp
+- RANK: 1
+- RANGE: Near
+- DURATION: One minute per Power Level
+- INGREDIENT: Harp
 
 In connection with the magic that comes from volcanoes, heat and fire, you control the smoke that is emitted in combustion. You can change its quantity, move it and even give it the shape you want. This spell has many possible applications, but if you attempt to use it to produce a psychological effect, you receive a bonus to your **manipulation** checks equal to the Power Level.
 
 ## Burning Hands
-- Rank: 1
 
-- Range: Personal
-- Duration: One round per Power Level
-- Ingredient: Harmonica
+- RANK: 1
+- RANGE: Personal
+- DURATION: One round per Power Level
+- INGREDIENT: Harmonica
 
 You warm your hands with the power of the depths, making them red hot as if they were the surface of a river of lava. With the intense heat of your hands you can cauterize wounds: you automatically pass the **healing** check to save the life of a character who has suffered a fatal
 
@@ -1937,11 +1122,11 @@ Your hands are a weapon under the effects of this spell. The base damage is equa
 If you use the ingredient, while you play the harmonica your hands get warmer with every second you make sound, and so does the metal of the instrument. Roll a die: if the result is 1 or 2, the harmonica melts and is ruined.
 
 ## Lava Weapon
-- Rank: 2
-- Range: Arm's Length
-- Duration: One round per Power Level
 
-- Ingredient: Harmonica
+- RANK: 2
+- RANGE: Arm's Length
+- DURATION: One round per Power Level
+- INGREDIENT: Harmonica
 
 You access the memory of the metal or stone that you are wielding as a weapon so that it begins to return to its most primordial state, heating up and transforming into a lava weapon that emits enormous heat and is capable of melting the metal as if it were butter.
 
@@ -1953,10 +1138,10 @@ You cannot use Lava Weapon on artifacts, as they are magically resistant to this
 
 ## Throw Volcanic Rock
 
-- Rank: 2
-- Range: Short
-- Duration: Immediate
-- Ingredient: Ratchet
+- RANK: 2
+- RANGE: Short
+- DURATION: Immediate
+- INGREDIENT: Ratchet
 
 You lift a rock from the ground and awaken its memory so that it acquires high temperatures, becoming a projectile of volcanic rock and magma. The victim takes Strength damage equal to the Power Level, although they can reduce it by 1 for each success on an **endurance** roll plus a normal armor roll, or they can also resort to a **dodge** action. The armor melts, any result of 1 on the roll reduces its rating.
 
@@ -1966,10 +1151,10 @@ You can only use Throw Volcanic Rock on a location that has dirt or loose rock o
 
 ## Igneous Resonance
 
-- Rank: 2
-- Range: Near
-- Duration: One round per Power Level
-- Ingredient: Lute
+- RANK: 2
+- RANGE: Near
+- DURATION: One round per Power Level
+- INGREDIENT: Lute
 
 must be rolled with their corresponding dice: each result that is not a success subtracts one from the equipment bonus. If it is an artifact, the artifact die is also rolled and successes are added to the roll to resist the effects just mentioned.
 
@@ -1980,51 +1165,50 @@ Throwing weapons or objects in your hands or that are easy to remove requires fa
 This spell also serves to emulate the temperature that an object would reach in a smithy, allowing the **crafting** skill to be used on it. However, due to the lack of optimal conditions the roll receives a -2 penalty.
 
 ## Geyser
-- Rank: 3
 
-- Range: Short
-- Duration: Immediate
-- Ingredient: Ratchet
+- RANK: 3
+- RANGE: Short
+- DURATION: Immediate
+- INGREDIENT: Ratchet
 
 You raise the temperature of the groundwater so that it comes out through a crater with great power. If an enemy is there, they will suffer burns from the boiling water: they take two points of Strength damage per Power Level, although they can reduce this by one for each success on an **endurance** roll plus their Armor Rating. Additionally, the victim is propelled 1D6 meters in any direction.
 
 ## Warm Rhythm
 
-- Rank: 2
-- Range: Arm's Length
-- Duration: One turn (15 minutes)
-- Ingredient: Drum
+- RANK: 2
+- RANGE: Arm's Length
+- DURATION: One turn (15 minutes)
+- INGREDIENT: Drum
 
 ## Shape the Stone
-- Rank: 3
 
-- Range: Arm's Length
-- Duration: One minute per Power Level
+- RANK: 3
+- RANGE: Arm's Length
+- DURATION: One minute per Power Level
 
 Through this spell you make the inside of living beings heat up as if it were lava inside a volcano. You can affect a character by Power Level. These characters do not suffer from the **cold** condition for the duration of the effect and are immune to cold, but not ice.
 
 ## Melt
 
-- Ingredient: Whistle
+- INGREDIENT: Whistle
 
 By appealing to its memory to heat it to its lava state, you can manipulate the solid rock with your hands and objects as if it were clay. This helps you both to open holes and to draw precise grooves. If your intention is to create sculptures (or modify them precisely) you will need to use your **crafting** skill.
-- Rank: 3
-
-- Range: Near
-- Duration: Immediate
-- Ingredient: Flute
-- Rank: 3
+- RANK: 3
+- RANGE: Near
+- DURATION: Immediate
+- INGREDIENT: Flute
+- RANK: 3
 
 ## Suffocate
 
-- Range: Near
+- RANGE: Near
 
 You cause a metal or stone object to return to its most elemental state and melt, falling to the ground in the form of lava. Any conventional object will be completely destroyed in a few seconds.
 
 On the other hand, items with an equipment bonus
 
-- Duration: Varies
-- Ingredient: Harp
+- DURATION: Varies
+- INGREDIENT: Harp
 
 You increase the temperature of the air inside a character, who begins to suffer from the intense heat, breathing with
 
@@ -2032,10 +1216,10 @@ great difficulty. The victim must make an **endurance** check and another **insi
 
 ## Lava Explosion
 
-- Rank: 4
-- Range: Near
-- Duration: Immediate
-- Ingredient: Whistle
+- RANK: 4
+- RANGE: Near
+- DURATION: Immediate
+- INGREDIENT: Whistle
 
 You take a stone in your hands and turn it into lava that you violently expel in one direction. You must perform an attack with **marksmanship** that can be **dodged** : if successful, the lava deals Strength damage equal to the Power Level. Armor protects, but each result of 1, 2, and 3 reduces its rating by one (regardless of whether it blocks all damage or not). This damage cannot be recovered except with a **healing** roll or magic.
 
@@ -2043,19 +1227,19 @@ You can only use Lava Explosion on a location that has dirt or loose rock on its
 
 ## Volcanic Immunity
 
-- Rank: 4
-- Range: Near
-- Duration: One round per Power Level
-- Ingredient: Flute
+- RANK: 4
+- RANGE: Near
+- DURATION: One round per Power Level
+- INGREDIENT: Flute
 
 By focusing your magical mastery on the high temperatures of lava, you make a character immune to the effects of heat and fire. They feel no pain or damage from conventional flames, and any damage from spells or fire attacks is halved (rounded down).
 
 ## Lava Wall
 
-- Rank: 4
-- Range: Short
-- Duration: One minute per Power Level
-- Ingredient: Drum
+- RANK: 4
+- RANGE: Short
+- DURATION: One minute per Power Level
+- INGREDIENT: Drum
 
 You extract the magma present underground and raise it to the surface to create a wall. The height is equal to the Power Level, the length is equal to three times the Power Level, and the depth is equal to half the Power Level (rounded up).
 
@@ -2067,10 +1251,10 @@ Any character who passes through the wall catches fire and takes one point of da
 
 ## Pressurized Steam
 
-- Rank: 4
-- Range: Near
-- Duration: Immediate
-- Ingredient: Whistle
+- RANK: 4
+- RANGE: Near
+- DURATION: Immediate
+- INGREDIENT: Whistle
 
 You heat a source of water to very high temperatures so that it shoots out with the force of a hammer.
 
@@ -2082,10 +1266,10 @@ To use this spell you must have a water source nearby or spend one level of the 
 
 ## Summon Magma Golem
 
-- Rank: 5
-- Range: Arm's Length
-- Duration: One turn per Power Level
-- Ingredient: Lute
+- RANK: 5
+- RANGE: Arm's Length
+- DURATION: One turn per Power Level
+- INGREDIENT: Lute
 
 Through the magic of this spell, a creature emerges made of volcanic rocks from the subsoil, approximately two meters high, emanating lava from various parts of its body.
 
@@ -2099,10 +1283,10 @@ Every time it suffers Strength damage, the golem's body falls apart. When the sp
 
 ## Metal Memory
 
-- Rank: 3
-- Range: Arm's Length
-- Duration: One hour per Power Level
-- Ingredient: Whistle
+- RANK: 3
+- RANGE: Arm's Length
+- DURATION: One hour per Power Level
+- INGREDIENT: Whistle
 
 You draw on the memory of iron and other metals that contain it to heat them and make them malleable as if you were in a forge, as if they were clay for your hands and tools. This can give you many advantages depending on the circumstances, but specifically, if you decide to alter a piece of equipment you make a **might** roll to reduce its equipment dice.
 
@@ -2113,10 +1297,11 @@ This spell also allows you to forge metal artifacts. You cannot imbue them with 
 Even with this magic, creating pieces of such quality is very difficult and requires a higher expenditure of resources, either due to the necessary quality or waste due to small errors. You must invest four times the raw materials of the item you are going to forge as an artifact.
 
 ## Cloud of Ashes
-- Rank: 5
-- Range: Long
-- Duration: One turn (15 minutes)
-- Ingredient: Flute You transform the surface layer of the soil into volcanic ash that begins to float in the area, filling it with black smoke that makes it difficult to both see and breathe. The density of this fog depends on the Power Level.
+
+- RANK: 5
+- RANGE: Long
+- DURATION: One turn (15 minutes)
+- INGREDIENT: Flute You transform the surface layer of the soil into volcanic ash that begins to float in the area, filling it with black smoke that makes it difficult to both see and breathe. The density of this fog depends on the Power Level.
 
 All rolls that depend on sight receive a penalty equal to twice the Power Level, this includes those related to combat. Additionally, all characters who fail an **endurance** roll at the start of their turn suffer one point of damage to Strength from pain in their airways and cough uncontrollably.
 
@@ -2125,18 +1310,18 @@ Depending on the item in question, you may need to negotiate with the Gamemaster
 You need the Blacksmith talent to use this spell in this way, since in addition to casting it, you must forge the weapon normally. Review the Crafting rules and their consequences.
 
 ## Volcanic Zone
-- Rank: 5
 
-- Range: Short
-- Duration: One round per Power Level
-- Ingredient: Drum
+- RANK: 5
+- RANGE: Short
+- DURATION: One round per Power Level
+- INGREDIENT: Drum
 
 ## Call Fire Wyrm
 
-- Rank: 6
-- Range: Distant
-- Duration: One turn per Power Level
-- Ingredient: Flute
+- RANK: 6
+- RANGE: Distant
+- DURATION: One turn per Power Level
+- INGREDIENT: Flute
 
 The ground around you heats up and cracks, the stone partially melts into lava and ash, which together with smoke and steam create a zone of heat whose intensity is almost unbearable.
 
@@ -2152,10 +1337,10 @@ To access the Fire Wyrm sheet you need the book The Bloodmarch.
 
 ## Eruption
 
-- Rank: 6, RITUAL
-- Range: Distant
-- Duration: One hour per Power Level
-- Ingredient: Drum
+- RANK: 6, RITUAL
+- RANGE: Distant
+- DURATION: One hour per Power Level
+- INGREDIENT: Drum
 
 This ritual allows you to activate a volcano or cause the movement of underground layers to cause a mountain to become an active volcano. The eruption is capable of affecting an entire hex if it lasts long enough. Every hour enough magma and volcanic ash will emerge and spread to cover a kilometer around.
 
@@ -2194,10 +1379,10 @@ Although it has its positive applications, it becomes very difficult for anyone 
 ## Exalt the Passions
 
 Everyone fears a blood sorcerer or views him with great suspicion, and they are right, since this discipline in the wrong hands is a latent threat. Those who use this magic know perfectly well what they provoke and learn to put it to their advantage, being very cautious of who they teach their knowledge to. This feeds back into the perverse image of these sorcerers, since those who access the discipline are usually chosen or instructed to project an aura of mystery and threat.
-- Rank: 1, POWER WORD
-- Range: Short
-- Duration: One turn (15 minutes)
-- Ingredient: Blood (1 roll)
+- RANK: 1, POWER WORD
+- RANGE: Short
+- DURATION: One turn (15 minutes)
+- INGREDIENT: Blood (1 roll)
 
 You inflame the emotions that run through a person's veins, making them practically uncontrollable. With this spell you can make a small resentment turn into hatred, affection become a passionate love, or a small frustration turn into excessive anger.
 
@@ -2207,49 +1392,51 @@ INGREDIENTS: It should come as no surprise that the main component of this disci
 
 likely result in no benefit to you. It has no effect against monsters.
 
-- Rank: 1
+- RANK: 1
 
 ## Temper the Blood
 
-- Range: Near
+- RANGE: Near
 
 ## Weaken
 
    -
-- Duration: One turn per Power Level
-- Ingredient: Blood (1 roll)
-- Rank: 1, POWER WORD
+- DURATION: One turn per Power Level
+- INGREDIENT: Blood (1 roll)
+- RANK: 1, POWER WORD
 
 Thanks to this spell, the blood of a person or animal acquires an ideal temperature, compensating for the heat or cold outside. While this magic lasts, the character does not suffer the **cold** condition.
 
-- Range: Short
-- Duration: One round per Power Level
-- Ingredient: Blood (1 roll)
+- RANGE: Short
+- DURATION: One round per Power Level
+- INGREDIENT: Blood (1 roll)
 
 You reduce the flow of life energy in your victim's blood, causing fatigue that results in a 1 die penalty to all Strength and Agility related skill rolls. This penalty is cumulative.
 
 ## Invigorate
-- Rank: 1, POWER WORD
-- Range: Short
-- Duration: One round per Power Level
-- Ingredient: Blood (1 roll)
+
+- RANK: 1, POWER WORD
+- RANGE: Short
+- DURATION: One round per Power Level
+- INGREDIENT: Blood (1 roll)
 
 You increase the flow of life energy in a character's blood, giving them supernatural vigor that translates into 1 bonus die to all of their Strength and Agility related skill rolls. This bonus is cumulative.
 
 ## Stink the Blood
-- Rank: 2
-- Range: Short
 
-- Duration: Immediate
-- Ingredient: Blood (1 roll)
+- RANK: 2
+- RANGE: Short
+- DURATION: Immediate
+- INGREDIENT: Blood (1 roll)
 
 You affect a character's blood, infecting it with a magical virus. The virulence of the disease is equal to the Power Level multiplied by 3 and the victim can resist normally. Follow the rules on disease in the Player's Handbook to determine their consequences.
 
 ## Boil the Blood
-- Rank: 2
-- Range: Short
-- Duration: Immediate
-- Ingredient: Blood (1 roll)
+
+- RANK: 2
+- RANGE: Short
+- DURATION: Immediate
+- INGREDIENT: Blood (1 roll)
 
 You raise the temperature of another character's blood,
 
@@ -2284,28 +1471,31 @@ causing them great despair as they feel like they are burning up inside. The vic
 Causing this kind of damage to a living being can affect you emotionally. To find out, you must make an Empathy roll: each success inflicts 1 point of damage to Empathy as a result of guilt, although in reality that is a good thing, the opposite would imply that you are becoming increasingly insensitive to the suffering of others: the consequences of something like that are interpretive.
 
 ## Feel the Blood
-- Rank: 2
-- Range: Short
-- Duration: One minute per Power Level
-- Ingredient: Blood (1 roll)
+
+- RANK: 2
+- RANGE: Short
+- DURATION: One minute per Power Level
+- INGREDIENT: Blood (1 roll)
 
 You are able to perceive the blood flow of living beings around you, being able to know where they are as well as estimating their state of health. Except for this limited information, it is not possible for you to identify specific characters, although you will be able to do so if you reach Power Level 4.
 
 ## Vitality Transfusion
-- Rank: 2
-- Range: Short
-- Duration: Immediate
-- Ingredient: Blood (2 rolls)
+
+- RANK: 2
+- RANGE: Short
+- DURATION: Immediate
+- INGREDIENT: Blood (2 rolls)
 
 You steal the vital essence that a character has in their blood, which makes them extremely tired and fills you with vitality. In order to do this, your victim must have a wound on their body from which at least a little blood is gushing (minimum 1 point of Strength damage).
 
 The target takes Agility damage equal to the Power Level, although it can be reduced by 1 for each success on an **endurance** roll. The damage you deal restores your own lost Agility by the same amount, and half of any excess (rounded down) is converted to Willpower Points.
 
 ## Poison
-- Rank: 3
-- Range: Short
-- Duration: Immediate
-- Ingredient: Blood (2 rolls)
+
+- RANK: 3
+- RANGE: Short
+- DURATION: Immediate
+- INGREDIENT: Blood (2 rolls)
 
 You manipulate a victim's blood, poisoning them with magical poison. You can choose between a lethal, paralyzing, narcotic or hallucinogenic poison. The potency of the poison
 
@@ -2313,10 +1503,10 @@ is equal to the Power Level multiplied by 3 and the victim can resist normally. 
 
 ## Crimson Explosion
 
-- Rank: 3
-- Range: Short
-- Duration: Immediate
-- Ingredient: Blood (2 rolls)
+- RANK: 3
+- RANGE: Short
+- DURATION: Immediate
+- INGREDIENT: Blood (2 rolls)
 
 You control another character's blood to violently expel it from their body, like a horrifying explosion. The victim suffers a critical injury from the blunt table instantly. They also suffer damage  to Strength equal to the Power Level, although it can be reduced by 1 for each success on an **endurance** roll.
 
@@ -2324,10 +1514,10 @@ Everyone who witnesses the explosion (including you) must make an Empathy roll: 
 
 ## Curse of Blood
 
-- Rank: 3, RITUAL
-- Range: Ilimitado
-- Duration: Varies
-- Ingredient: Blood (3 rolls)
+- RANK: 3, RITUAL
+- RANGE: Ilimitado
+- DURATION: Varies
+- INGREDIENT: Blood (3 rolls)
 
 You increase the energy that runs through a character's blood so that their performance is much higher than it would normally be. Their next action related to Strength or Agility receives a bonus equal to the Power Level. You can use Boosted Vitality on yourself.
 
@@ -2336,38 +1526,40 @@ You can affect a character's blood and life energy. The victim suffers 1 die of 
 ## Chain Soul
 
    -
-- Rank: 4, RITUAL -
-- Range: Arm's Length
-- Rank: 3
+- RANK: 4, RITUAL -
+- RANGE: Arm's Length
+- RANK: 3
 
 ## Boosted Vitality
 
    -
-- Duration: Permanent -
-- Ingredient: Blood (3 rolls)
-- Range: Short
-- Duration: Immediate
-- Ingredient: Blood (2 rolls)
+- DURATION: Permanent -
+- INGREDIENT: Blood (3 rolls)
+- RANGE: Short
+- DURATION: Immediate
+- INGREDIENT: Blood (2 rolls)
 
 You extract the life essence from a character's blood to enclose their soul in an object. The victim must be next to you throughout the ritual.
 
 make an Empathy roll: each success deals 1 point of damage to Empathy as a result of guilt.
 
 ## Threads of Blood
-- Rank: 4
-- Range: Near
-- Duration: One round per Power Level
-- Ingredient: Blood (2 rolls)
+
+- RANK: 4
+- RANGE: Near
+- DURATION: One round per Power Level
+- INGREDIENT: Blood (2 rolls)
 
 Thanks to your mastery of blood control, you manipulate it around you like crimson threads with the sharpness and hardness of steel. The blood can come from your supply, your own body, the wounds of characters around you, or a mixture of all three. What matters is that you move the substance like terrifying and deadly whips.
 
 Threads of Blood is a close range weapon, Weapon Bonus +2 and damage 2 with the parrying feature. You use the threads by rolling dice with your Agility points plus Power Level. With the same slow action you can attack all enemies within range. Additionally, you can use the **parry** action using the same dice described above.
 
 ## Paralyze the Blood
-- Rank: 4
-- Range: Near
-- Duration: One round per Power Level
-- Ingredient: Blood (2 rolls)
+
+- RANK: 4
+- RANGE: Near
+- DURATION: One round per Power Level
+- INGREDIENT: Blood (2 rolls)
 
 At the end of the quarter day the character makes an **insight** roll with a penalty equal to the Power Level. If they fail, their soul is trapped in the object forever (although you can set a condition for the soul to be released). If they pass it, the ritual has no effect, although you can try again after a full day.
 
@@ -2384,20 +1576,20 @@ Therefore, you have to sacrifice your slow action on all your turns and if you t
 Causing this kind of damage to a living being can affect you emotionally. To find out, you must make an Empathy roll: each success inflicts 1 point of damage to Empathy as a result of guilt, although in reality that is a good thing, the opposite would imply that you are becoming increasingly insensitive to the suffering of others: the consequences of something like that are interpretive.
 
 ## Vital Link
-- Rank: 4
 
-- Range: Arm's Length
-- Duration: One turn per Power Level
-- Ingredient: Blood (2 rolls)
+- RANK: 4
+- RANGE: Arm's Length
+- DURATION: One turn per Power Level
+- INGREDIENT: Blood (2 rolls)
 
 You create a supernatural connection between the vital essence of two characters. Each time one of the two takes any damage (forcing rolls does not count), the other will immediately suffer the same amount and exactly the same pain or mental ailment. The same goes for critical injurys. If one of the two perishes, the other will also fall dead instantly. Heals also work both ways.
 
 ## Magic Plague
 
-- Rank: 5, RITUAL
-- Range: Distant
-- Duration: Immediate
-- Ingredient: Blood (3 rolls)
+- RANK: 5, RITUAL
+- RANGE: Distant
+- DURATION: Immediate
+- INGREDIENT: Blood (3 rolls)
 
 You are capable of affecting an entire community of people, which you can visualize or conceptualize in your mind. The blood of all the people belonging to that community is infected by a magical virus. The virulence of the disease is equal to the Power Level multiplied by 3 and victims can resist it normally. Follow the rules of disease in the Player's Handbook to determine their consequences.
 
@@ -2405,10 +1597,10 @@ Causing this kind of damage to an entire town can affect you emotionally. To fin
 
 ## Create Bloodling
 
-- Rank: 5
-- Range: Short
-- Duration: One round per Power Level
-- Ingredient: Blood (3 rolls)
+- RANK: 5
+- RANGE: Short
+- DURATION: One round per Power Level
+- INGREDIENT: Blood (3 rolls)
 
 You create a blood monster that, thanks to the concentrated vital essence, takes on a life of its own to attack your enemies. The creature is not really a Bloodling since it does not have the same origin, but almost all inhabitants of the Forbidden Lands will believe that they are the same.
 
@@ -2416,17 +1608,17 @@ Take the Bloodling sheet from the Gamemaster's Guide, but ignore Sensitive to Li
 
 ## Reassemble
 
-- Rank: 5
-- Range: Arm's Length
-- Duration: Immediate
-- Ingredient: Blood (3 rolls)
+- RANK: 5
+- RANGE: Arm's Length
+- DURATION: Immediate
+- INGREDIENT: Blood (3 rolls)
 
 ## Steal Essence
 
-- Rank: 6, RITUAL
-- Range: Distant
-- Duration: Immediate
-- Ingredient: Blood (3 rolls)
+- RANK: 6, RITUAL
+- RANGE: Distant
+- DURATION: Immediate
+- INGREDIENT: Blood (3 rolls)
 
 Your mastery of blood and its supernatural abilities is so high that you can regenerate wounds, but not only that, but also reconnect severed limbs.
 
@@ -2434,10 +1626,10 @@ The basic effect is to restore as many Strength points as the Power Level. Addit
 
 ## Blood Body
 
-- Rank: 6
-- Range: Personal
-- Duration: One round per Power Level
-- Ingredient: Blood (3 rolls)
+- RANK: 6
+- RANGE: Personal
+- DURATION: One round per Power Level
+- INGREDIENT: Blood (3 rolls)
 
 As you carry out this ritual, all living beings with blood begin to feel how their energy and spirit are diminished. Only those who stay a few meters away from you can be excluded from the effect.
 
@@ -2478,11 +1670,10 @@ In this form you can generate terror in several ways, to do this you use **manip
 ## Talk to Corpses
 
 onsidered by most people as an aberrant discipline that should be eradicated, necromancy is the Crepresentation of one of the greatest motivations of mortals: to prolong life and dominate death. For these sorcerers the method is not really relevant, nor is the fact that their creations are a miserable copy of the truly living thing, what matters is experimentation and learning, transcending the flesh and obtaining immortal power.
-- Rank: 1
-- Range: Arm's Length
-
-- Duration: One minute per Power Level
-- Ingredient: Bone (1 roll)
+- RANK: 1
+- RANGE: Arm's Length
+- DURATION: One minute per Power Level
+- INGREDIENT: Bone (1 roll)
 
 You can reanimate a corpse to have it talk to you for a few minutes. The undead will only recover its ability to make sounds through its throat and move its mouth to speak the languages it knew in life. It will answer your questions honestly, but its memory may be faulty or its view of reality may simply be limited or distorted.
 
@@ -2496,13 +1687,13 @@ For sorcerers who dedicate themselves to studying this discipline, learning spel
 
 ## Disturbing Presence
 
-- Rank: 1
-- Range: Personal
+- RANK: 1
+- RANGE: Personal
 
 E RARITY: Prohibited
 
-- Duration: One minute per Power Level
-- Ingredient: Eyeball (1 roll)
+- DURATION: One minute per Power Level
+- INGREDIENT: Eyeball (1 roll)
 
 E SECRETISM: Demonstration
 
@@ -2536,18 +1727,20 @@ You gain a bonus of one die on your **manipulation** rolls that are intended to 
 | Undead Monster | 6 |
 
 ## Feel Death
-- Rank: 1
-- Range: Short
-- Duration: One minute per Power Level
-- Ingredient: Bone (1 roll)
+
+- RANK: 1
+- RANGE: Short
+- DURATION: One minute per Power Level
+- INGREDIENT: Bone (1 roll)
 
 You can perceive the echoes of death around you, being able to know the location of corpses, the undead, and also characters with active necromantic magic effects, although you cannot differentiate them except by their speed or movement patterns. Living creatures not affected by this discipline are unnoticed by this spell.
 
 ## Necrotic Touch
-- Rank: 1
-- Range: Arm's Length
-- Duration: Immediate
-- Ingredient: Decomposing meat (1 roll)
+
+- RANK: 1
+- RANGE: Arm's Length
+- DURATION: Immediate
+- INGREDIENT: Decomposing meat (1 roll)
 
 Just by touching a living victim you are able to kill their tissues, turning them into a mass of black, putrid flesh. You must be touching your victim with your bare hands, who suffers a critical injury on the blunt table (although you must adapt it to the context of this spell). They add twice the Power Level to the result of the roll. Additionally, the victim suffers 1 point of damage to Strength and Agility.
 
@@ -2556,41 +1749,44 @@ If the character you want to touch resists, you may need to make a **malee** rol
 Necrotic Touch can be used to make a critical injury incurable through natural means. Simply choose a wound that you have noticed and apply the touch to it.
 
 ## Raise Corpse
-- Rank: 2, RITUAL
-- Range: Short
-- Duration: Quarter Day
-- Ingredient: Brain mass (2 rolls)
+
+- RANK: 2, RITUAL
+- RANGE: Short
+- DURATION: Quarter Day
+- INGREDIENT: Brain mass (2 rolls)
 
 Through this spell you manage to achieve the main objective of Necromancy: reanimate the dead. To do this you must have access to a corpse and prepare a ritual. After all the evocation of mystical energies, the dead rises again in its new form. At power level 1 you can animate the corpse as a Restless Dead, at level 2 the corpse leaves behind all its flesh to rise as a Skeleton, and at level 3 you can reanimate the corpse as a powerful Ghoul. You can reduce the Power Level by 1 to extend the duration of the spell by an extra quarter of a day. You can see the points of these undead in the Gamemaster's Guide.
 
 The undead blindly obeys all your orders but is not able to speak for itself, for that you need the spell Talk to Corpses.
 
 ## Phantom Attack
-- Rank: 2
-- Range: Short
-- Duration: Immediate
-- Ingredient: Gray hair (1 roll)
+
+- RANK: 2
+- RANGE: Short
+- DURATION: Immediate
+- INGREDIENT: Gray hair (1 roll)
 
 You project the power of the dead through your hand. A spectral claw moves towards your enemy, piercing them and causing intense pain directly to their soul. The character has no way to defend theirself unless it is with some kind of spell that stops your magic.
 
 The victim suffers damage to Empathy equal to the Power Level, although they can negate damage with successes in **insight** . If they fall Broken, they do so emotionally dejected, hopeless.
 
 ## Inhabit Corpse
-- Rank: 2
-- Range: Short
-- Duration: One turn per Power Level
-- Ingredient: Brain mass (1 roll)
+
+- RANK: 2
+- RANGE: Short
+- DURATION: One turn per Power Level
+- INGREDIENT: Brain mass (1 roll)
 
 You can transfer your consciousness to that of a corpse, with which you are able to speak, move, and even cast spells. In other words, the corpse becomes your body, while your true body remains inert in the place where you were.
 
 Inhabit Corpse allows you to move the body, but it is very weak and clumsy, considering its Strength and Agility as if they had a single point. You can also inhabit even a small part of a corpse, such as a hand or head, with the limitations that this entails.
 
 ## Talk to Spirits
-- Rank: 2
 
-- Range: Short
-- Duration: One minute per Power Level
-- Ingredient: Piece of old fabric (1 roll)
+- RANK: 2
+- RANGE: Short
+- DURATION: One minute per Power Level
+- INGREDIENT: Piece of old fabric (1 roll)
 
 Another option you have at your disposal is to increase or reduce the Strength and Agility of a corpse, each Power Level allows you to apply a modification of 1 point, up to a minimum of 1.
 
@@ -2601,20 +1797,20 @@ You invoke the spiritual essence of a deceased person, causing them to appear be
 It is possible that the restless spirit of no dead person may not be found in the place where you are. In such cases, the nearest spirit within the spell's range will respond to your call.
 
 ## Alter Corpse
-- Rank: 3
 
-- Range: Arm's Length
-- Duration: Permanent
-- Ingredient: Decomposing meat (2 rolls)
+- RANK: 3
+- RANGE: Arm's Length
+- DURATION: Permanent
+- INGREDIENT: Decomposing meat (2 rolls)
 
 You are capable of modifying the physical characteristics of a corpse at will, both in appearance and substance. This way you can change the size of their muscles, the characteristics of their face, and even alter their state of decomposition. Any change that is narrative must be negotiated with the Gamemaster, as well as the amount of Power Level necessary to achieve it, although each level should be enough to change a feature of the face, or reduce or increase its state of putrefaction by a quarter of a day.
 
 ## Bend Spirit
 
-- Rank: 3
-- Range: Short
-- Duration: One minute per Power Level
-- Ingredient: Gray hair (2 rolls)
+- RANK: 3
+- RANGE: Short
+- DURATION: One minute per Power Level
+- INGREDIENT: Gray hair (2 rolls)
 
 You use your power of corruption on the spirit of an undead creature, bending it to your will. Through this spell you can make an undead obey your orders, as long as twice the Power Level is equal to or greater than its Strength (works against monsters). If the creature has intelligence it will realize your magical influence and hate you deeply.
 
@@ -2623,29 +1819,29 @@ The dead controlled by this spell will obey without being able to resist most or
 If the undead is independent, the Power Level of this spell is sufficient. In case it already has a master, they can regain control of it if they cast their own Bend Spirit equaling or exceeding the Power Level of the one in effect.
 
 ## Terrifying Gaze
-- Rank: 3
 
-- Range: Long
-- Duration: Immediate
-- Ingredient: Gray hair (2 rolls)
+- RANK: 3
+- RANGE: Long
+- DURATION: Immediate
+- INGREDIENT: Gray hair (2 rolls)
 
 Your eyes project the disturbing energy of death, which causes deep fear in the soul of whoever is the victim of this spell. The character looks you in the eye and takes Wits damage equal to twice the Power Level, although they can reduce it by 1 for each success on an **insight** roll. Terrifying Gaze has no effect against monsters or any creature that does not have Wits points.
 
 ## Steal Vitality
-- Rank: 3
 
-- Range: Near
-- Duration: Immediate
-- Ingredient: Bones (2 rolls)
+- RANK: 3
+- RANGE: Near
+- DURATION: Immediate
+- INGREDIENT: Bones (2 rolls)
 
 Your magic drains the life within a character's body, leaving the cold sting of death in its place. The victim suffers Agility damage equal to the Power Level in addition to aging the same number of years, although this can be reduced by 1 for each success on an **endurance** roll. You recover Strength points equal to the damage you cause, and if you are full you continue to recover Agility. If you cannot recover any more points, you gain half of the excess as Willpower Points.
 
 ## Enter the Twilight
-- Rank: 4, RITUAL
 
-- Range: Personal
-- Duration: One minute per Power Level
-- Ingredient: Old fabric (2 rolls)
+- RANK: 4, RITUAL
+- RANGE: Personal
+- DURATION: One minute per Power Level
+- INGREDIENT: Old fabric (2 rolls)
 
 You can leave your body behind for a few minutes, causing your soul to enter the Twilight, the world beyond the physical plane in which the dead dwell. There your vision is supernatural, there is no light or darkness, and the spirits wander restlessly.
 
@@ -2661,17 +1857,17 @@ Once the duration of this spell has expired, your soul is sucked into your body 
 
 ## Release Spirit
 
-- Rank: 4
-- Range: Short
-- Duration: Immediate
-- Ingredient: White candles (2 rolls)
+- RANK: 4
+- RANGE: Short
+- DURATION: Immediate
+- INGREDIENT: White candles (2 rolls)
 
 ## Summon Ghost
 
-- Rank: 4, RITUAL
-- Range: Near
-- Duration: Permanent
-- Ingredient: Gray hair (2 rolls)
+- RANK: 4, RITUAL
+- RANGE: Near
+- DURATION: Permanent
+- INGREDIENT: Gray hair (2 rolls)
 
 You call a spirit from the Twilight and materialize it on the physical plane in the form of a Ghost. The monster obeys all your orders for as many turns (15 minutes) as the Power Level, although it will act with its monster attacks (of random results) and will not distinguish between friends and enemies with its area attacks. Take the monster sheet exactly as you find it in the Gamemaster's Guide.
 
@@ -2685,10 +1881,10 @@ This spell serves to free a body that has been taken over by an intruding spirit
 
 ## Summon Knight
 
-- Rank: 5, RITUAL
-- Range: Short
-- Duration: Permanent
-- Ingredient: Bones (3 rolls)
+- RANK: 5, RITUAL
+- RANGE: Short
+- DURATION: Permanent
+- INGREDIENT: Bones (3 rolls)
 
 With the powerful magic of this ritual you raise a corpse as a Death Knight (or a Lich if it was a sorcerer). The monster is forced to obey your every command for as many turns (15 minutes) as the Power Level, but it is fully aware of your control and will most likely hate you for it. It will always try to twist your desires as much as possible to frustrate or harm you.
 
@@ -2700,17 +1896,17 @@ Many necromancers prepare this spell alone or with a group of disciples to reviv
 
 ## Torment
 
-- Rank: 5
-- Range: Short
-- Duration: One round per Power Level
-- Ingredient: Black candles (3 rolls)
+- RANK: 5
+- RANGE: Short
+- DURATION: One round per Power Level
+- INGREDIENT: Black candles (3 rolls)
 
 ## Master of Death
 
-- Rank: 6
-- Range: Personal
-- Duration: Immediate
-- Ingredient: Black candles (3 rolls)
+- RANK: 6
+- RANGE: Personal
+- DURATION: Immediate
+- INGREDIENT: Black candles (3 rolls)
 
 You access the echoes of death that a character has produced throughout their life so that they return and torment them. The spirits of people who have died or suffered great pain because of their actions return from the Otherworld and harass relentlessly.
 
@@ -2724,17 +1920,17 @@ In this way, spells such as Talk to Corpses, Phantom Attack, Alter Corpse, Bend 
 
 ## Rot Zone
 
-- Rank: 5
-- Range: Short
-- Duration: One round per Power Level
-- Ingredient: Bones (3 rolls)
+- RANK: 5
+- RANGE: Short
+- DURATION: One round per Power Level
+- INGREDIENT: Bones (3 rolls)
 
 ## Undead Monster
 
-- Rank: 6, RITUAL
-- Range: Short
-- Duration: Permanent
-- Ingredient: Brain mass (3 rolls)
+- RANK: 6, RITUAL
+- RANGE: Short
+- DURATION: Permanent
+- INGREDIENT: Brain mass (3 rolls)
 
 You release your death magic to corrupt the bodies of living beings around you. All the characters you choose within the area begin to suffer the effects of their flesh decay, which slowly brings them closer to an undead state. At the end of your turn, your victims suffer 1 point of damage to Strength.
 
@@ -2778,10 +1974,11 @@ Demonic magic is ultimately a connection with something unnatural, foreign to th
 E RARITY: Prohibited E SECRETISM: Journey
 
 ## Torment
-- Rank: 1
-- Range: Arm's Length
-- Duration: Immediate
-- Ingredient: Bloody fabric (1 roll)
+
+- RANK: 1
+- RANGE: Arm's Length
+- DURATION: Immediate
+- INGREDIENT: Bloody fabric (1 roll)
 
 You fill your victim's mind with horrifying visions of demons doing all kinds of unspeakable torture and other atrocities to animals, adults, and even innocent children, causing trauma from which they will take time to recover.
 
@@ -2819,10 +2016,10 @@ Torment has no effect against monsters or any creature that does not have a Wits
 
 ## Generate Mog
 
-- Rank: 1
-- Range: Personal
-- Duration: Immediate
-- Ingredient: Moss (1 roll)
+- RANK: 1
+- RANGE: Personal
+- DURATION: Immediate
+- INGREDIENT: Moss (1 roll)
 
 You manage to open a tiny crack towards Churmog so that the lilac green substance known as mog flows from the palm of your hands. One unit of mog per Power Level emerges, as a weak stream that falls to the ground.
 
@@ -2838,10 +2035,10 @@ The mog is an essential requirement for some spells in this discipline that cann
 
 ## Demonic Language
 
-- Rank: 1
-- Range: Personal
-- Duration: One minute per Power Level
-- Ingredient: Piece of tongue (1 roll)
+- RANK: 1
+- RANGE: Personal
+- DURATION: One minute per Power Level
+- INGREDIENT: Piece of tongue (1 roll)
 
 It is necessary to use 1 to 5 units of mog for the alteration to succeed, as indicated in the corresponding column of the table.
 
@@ -2851,19 +2048,19 @@ This spell modifies your vocal cords so that you can speak the guttural language
 
 ## Feel the Demonic
 
-- Rank: 1
-- Range: Short
-- Duration: One minute per Power Level
-- Ingredient: Piece of skin (1 roll)
+- RANK: 1
+- RANGE: Short
+- DURATION: One minute per Power Level
+- INGREDIENT: Piece of skin (1 roll)
 
 You are able to perceive the repulsion that the presence of demons causes in the natural energies of your world. These echoes allow you to determine the location of demons as well as magical effects originating from this discipline. For misgrown, you must pass an **insight** check when casting the spell, which applies to anyone within range.
 
 ## Alter Body
 
-- Rank: 2, RITUAL
-- Range: Arm's Length
-- Duration: Quarter Day per Power Level
-- Ingredient: Bones (2 rolls)
+- RANK: 2, RITUAL
+- RANGE: Arm's Length
+- DURATION: Quarter Day per Power Level
+- INGREDIENT: Bones (2 rolls)
 
 Thanks to the magic of this spell, you can alter the flesh of a living being (including yourself) as if you were a sculptor. This process takes a full quarter of a day, so it is treated as a ritual for rules purposes.
 
@@ -2871,17 +2068,17 @@ Choose from the **body alteration** options presented later in this chapter. Whi
 
 ## Exorcise Demon
 
-- Rank: 2, RITUAL
-- Range: Near
-- Duration: Immediate
-- Ingredient: Red feathers (1 roll)
+- RANK: 2, RITUAL
+- RANGE: Near
+- DURATION: Immediate
+- INGREDIENT: Red feathers (1 roll)
 
 ## Inner Monster
 
-- Rank: 2
-- Range: Short
-- Duration: One round per Power Level
-- Ingredient: Bloody fabric (1 roll)
+- RANK: 2
+- RANGE: Short
+- DURATION: One round per Power Level
+- INGREDIENT: Bloody fabric (1 roll)
 
 Through this ritual, you are able to banish a demon from this world. During the process, the creature is slowly sent back to Churmog, causing it extreme physical and psychic pain. If for any reason the ritual is interrupted, the demon can regenerate and fully recover after a quarter day of rest.
 
@@ -2889,10 +2086,10 @@ To achieve the desired full effect, the Power Level must be greater than half of
 
 ## Summon Lesser Demon
 
-- Rank: 2
-- Range: Short
-- Duration: Immediate
-- Ingredient: Piece of skin (1 roll)
+- RANK: 2
+- RANGE: Short
+- DURATION: Immediate
+- INGREDIENT: Piece of skin (1 roll)
 
 You stare fixedly at a character, who will magically be inclined to unleash their lowest destructive and sadistic instincts. You ignite the monster within the person, but you cannot bring forth something that does not exist, so a truly decent person would not be as affected by this spell, or at least not as much as someone whose evil is great.
 
@@ -2908,10 +2105,10 @@ The demon is compelled to obey all your orders for as many turns (15 minutes) as
 
 ## Capture Demon
 
-- Rank: 3, RITUAL
-- Range: Near
-- Duration: Permanent
-- Ingredient: Red candles (2 rolls)
+- RANK: 3, RITUAL
+- RANGE: Near
+- DURATION: Permanent
+- INGREDIENT: Red candles (2 rolls)
 
 The magic of this ritual allows you to trap the soul of a demon inside an object. For this, the Power Level must be greater than half of the demon's Strength, and the object must be within the spell's range throughout the ritual process. The creature's body, alien to this world, will also be absorbed by the object.
 
@@ -2924,11 +2121,11 @@ To perform this ritual, you need to cover the object with mog. You must use 1 un
 However, the weight of the object determines the power of the demon it can contain. **tiny** objects have a Strength limit of 4, **light** ones of Strength 8, **normal** ones of Strength 16, and **heavy** ones have no containment limit.
 
 ## Destroy Demon
-- Rank: 3
-- Range: Short
 
-- Duration: Immediate
-- Ingredient: Bloody fabric (2 rolls)
+- RANK: 3
+- RANGE: Short
+- DURATION: Immediate
+- INGREDIENT: Bloody fabric (2 rolls)
 
 The magic of this spell disintegrates organic matter that comes from Churmog, whether demon flesh or the mog that makes up a character.
 
@@ -2938,10 +2135,10 @@ Misgrown creatures are also potential victims of this spell but receive half dam
 
 ## Dominate Demon
 
-- Rank: 3
-- Range: Short
-- Duration: One minute per Power Level
-- Ingredient: Piece of tongue (2 rolls)
+- RANK: 3
+- RANGE: Short
+- DURATION: One minute per Power Level
+- INGREDIENT: Piece of tongue (2 rolls)
 
 This spell manipulates the nature of the demon's mind to compel it to obey your commands. The creature is unable to resist your power, although you cannot make it directly endanger its existence. Additionally, it will become aware of your magical influence and deeply resent you.
 
@@ -2954,19 +2151,19 @@ The other world is a strange and shifting place whose details are at the Gamemas
 To make this spell effective, towards the end of the ritual you must completely cover yourself in mog, although by that point the magic will protect you from its corrosive effects and use it as a means of transportation. You need 8 units of mog to smear or immerse yourself.
 
 ## Blood Contract
-- Rank: 4
-- Rank: 3
 
-- Range: Long
+- RANK: 4
+- RANK: 3
+- RANGE: Long
 
 ## Nightmares
 
    -
-- Range: Personal -
-- Duration: Permanent -
-- Ingredient: Piece of skin (2 rolls)
-- Duration: One day per Power Level
-- Ingredient: Black candles (2 rolls)
+- RANGE: Personal -
+- DURATION: Permanent -
+- INGREDIENT: Piece of skin (2 rolls)
+- DURATION: One day per Power Level
+- INGREDIENT: Black candles (2 rolls)
 
 A character you can see when casting this spell will suffer horrific nightmares related to demons and their wicked deeds. This prevents them from sleeping enough to rest, leaving them irritable and disturbed by what they see in their dreams. They suffer the **sleepy** condition and reduce their total Empathy by 1 point per night, up to a maximum equal to the Power Level.
 
@@ -2974,10 +2171,10 @@ Nightmares do not affect monsters or any kind of demon. For misgrown creatures, 
 
 ## Pass Through the Veil
 
-- Rank: 4, RITUAL
-- Range: Personal
-- Duration: One turn per Power Level
-- Ingredient: Bloody fabric (2 rolls)
+- RANK: 4, RITUAL
+- RANGE: Personal
+- DURATION: One turn per Power Level
+- INGREDIENT: Bloody fabric (2 rolls)
 
 You can make a magical commitment to a demon by writing the conditions and effects on a piece of paper (or a piece of skin in the case of using the ingredient). The commitment is signed with the blood of the characters, who are generally two but can be three or even more, although it makes sense in relation to the existence of one or more demons that must voluntarily be signatories (they cannot be under the obligation of any spell).
 
@@ -2989,17 +2186,17 @@ The Power Level acts as magical protection for the object against any damage, as
 
 ## Summon Greater Demon
 
-- Rank: 4
-- Range: Short
-- Duration: Immediate
-- Ingredient: Piece of skin (2 rolls)
+- RANK: 4
+- RANGE: Short
+- DURATION: Immediate
+- INGREDIENT: Piece of skin (2 rolls)
 
 ## Create Misgrown
 
-- Rank: 5, RITUAL
-- Range: Arm's Length
-- Duration: Permanent
-- Ingredient: Bones (4 rolls)
+- RANK: 5, RITUAL
+- RANGE: Arm's Length
+- DURATION: Permanent
+- INGREDIENT: Bones (4 rolls)
 
 With your magic, you allow a greater demon to pass through the veil between worlds. Create a demon following the Gamemaster's Manual rules. Interpret both its form and other characteristics considering its potential for damage and survival.
 
@@ -3018,10 +2215,10 @@ Each alteration applied against the character's will causes them to permanently 
 
 ## Body of Mog
 
-- Rank: 5, RITUAL
-- Range: Arm's Length
-- Duration: Quarter Day per Power Level
-- Ingredient: Piece of skin (3 rolls)
+- RANK: 5, RITUAL
+- RANGE: Arm's Length
+- DURATION: Quarter Day per Power Level
+- INGREDIENT: Piece of skin (3 rolls)
 
 Channeling this magic into a sufficient quantity of mog, the substance takes the exact form of a character, whose mind immediately transfers to its copy. It only works with volunteers, including yourself.
 
@@ -3039,10 +2236,10 @@ For this spell to work, 10 units of mog are required.
 
 ## Transfer Vital Essence
 
-- Rank: 5
-- Range: Near
-- Duration: Permanent
-- Ingredient: Black candles (3 rolls)
+- RANK: 5
+- RANGE: Near
+- DURATION: Permanent
+- INGREDIENT: Black candles (3 rolls)
 
 Through this spell you can transfer the vital essence of a character and enclose it in a container (even your own). This essence takes the form of a thick, cloudy liquid of variable color, which can be drunk to consume it or recover the lost vital essence.
 
@@ -3055,9 +2252,9 @@ The demons are particularly vulnerable to the magic of this spell. If their life
 Using this spell against the will of a living being (other than a demon) is an aberrant act that can affect you emotionally. To determine this, you must make an Empathy roll: each success inflicts 1 point of damage to Empathy due to guilt.
 
 ## Merge Bodies
-- Rank: 6, RITUAL
 
-- Range: Arm's Length
+- RANK: 6, RITUAL
+- RANGE: Arm's Length
 
 units to achieve this.
 
@@ -3068,11 +2265,11 @@ The physical capabilities of the creature depend on the parts that compose it. Y
 Fusing living bodies against their will affects them forever, eventually leading them to madness. Additionally, their constant psychic suffering can affect you emotionally. You must make an Empathy roll: on a failure, you descend one step towards callousness, reducing your Empathy points permanently by 1.
 
 ## Summon Demon Prince
-- Rank: 6
-- Range: Short
 
-- Duration: Immediate
-- Ingredient: Piece of skin (4 rolls)
+- RANK: 6
+- RANGE: Short
+- DURATION: Immediate
+- INGREDIENT: Piece of skin (4 rolls)
 
 The magic of this powerful spell allows one of the socalled demon princes of the world of Churmog to pass through the veil. These beings are incredibly powerful and intelligent and desire power more than anything else.
 
@@ -3080,17 +2277,16 @@ Create a demon following the rules in the Gamemaster's Guide, but you must multi
 
 The demon is bound to obey all your commands for as many turns (15 minutes) as the Power Level, but it is fully aware of your control and is likely to resent you for it. It will always try to twist your wishes as much as possible to frustrate or harm you. You can never compel it to directly harm itself.
 
-- Duration: Permanent
-- Ingredient: Piece of skin (3 rolls)
+- DURATION: Permanent
+- INGREDIENT: Piece of skin (3 rolls)
 
 ## Nexus Between Worlds
 
 You have extensive knowledge of the mog, so you can manipulate it to create nerves and blood flow between two different bodies. This process takes a full quarter of a day, so it is taken as a ritual for rules purposes. You need 10 mog
-- Rank: 6, RITUAL
-
-- Range: Near
-- Duration: Permanent
-- Ingredient: Vials of blood (4 rolls)
+- RANK: 6, RITUAL
+- RANGE: Near
+- DURATION: Permanent
+- INGREDIENT: Vials of blood (4 rolls)
 
 demons and in what order will emerge throughout the 15 minutes. If the Power Level is not enough for a greater demon or, more likely, a demon prince to pass through, you can make it take several turns to cross, hogging the entrance and desperately trying to make it through, until the nexus accumulates, in a certain way, the points needed for that crossing.
 
@@ -3140,36 +2336,37 @@ E SECRETISM: Journey INGREDIENTS: You manipulate the power of already existing f
 
 ## Light Source
 
-- Rank: 1
-- Range: Short
-- Duration: One turn (15 minutes)
+- RANK: 1
+- RANGE: Short
+- DURATION: One turn (15 minutes)
 
 At the end of each turn, the stress that the burning heat generates on your hands will cause 1 point of damage to Strength, but you can extinguish this spell before taking that damage if you don't want to keep it active.
 
 You can alter the light emitted by a flame, making it more intense or trapping it to make the area darker. The Power Level determines the range that the spell increases or decreases. The exact effects are determined by the Gamemaster, but 1 Power Level per range category is a reliable reference.
 
 ## Manipulate Smoke
-- Rank: 1
 
-- Range: Near
-- Duration: One minute per Power Level
+- RANK: 1
+- RANGE: Near
+- DURATION: One minute per Power Level
 
 You control one of the manifestations of fire, the smoke emitted during combustion. You can change its quantity, move it, and even shape it as you wish. This spell has many possible applications, but if you try to use it to produce a psychological effect, you receive a bonus to your **manipulation** rolls equal to the Power Level.
 
 ## Burning Hands
-- Rank: 1
 
-- Range: Personal
-- Duration: One round per Power Level
+- RANK: 1
+- RANGE: Personal
+- DURATION: One round per Power Level
 
 You heat your hands with the power of fire, making them red-hot like steel exposed to flames. With the intense heat of your hands, you can cauterize wounds: you automatically succeed in the **healing** check to save a character who has suffered a lethal critical injury. Besides this specific use, Burning Hands can have many other applications, such as wearing down objects or causing pain, but it only sears; it does not ignite flames.
 
 Your hands are a weapon under the effects of this spell. The base damage is equal to the Power Level and is fire, although armor can resist it. You must achieve a successful attack ( **melee** ) with your bare hands in order to take advantage of it in combat.
 
 ## Flaming Arrow
-- Rank: 1, POWER WORD
-- Range: Near
-- Duration: Immediate
+
+- RANK: 1, POWER WORD
+- RANGE: Near
+- DURATION: Immediate
 
 **Fire Magic Spells by Level**
 
@@ -3205,26 +2402,27 @@ Transfers part of a flame to a projectile, igniting it with magical fire. Damage
 ## E Rank 2
 
 ## Fire Immunity
-- Rank: 2
-- Range: Near
-- Duration: One round per Power Level The power within a flame is transferred to a character, who begins to emanate an invisible aura that makes them immune to fire. They feel no pain or damage from conventional flames, and any damage from spells or fire attacks is halved (rounded down).
-- Range: Near
-- Duration: Varies
+
+- RANK: 2
+- RANGE: Near
+- DURATION: One round per Power Level The power within a flame is transferred to a character, who begins to emanate an invisible aura that makes them immune to fire. They feel no pain or damage from conventional flames, and any damage from spells or fire attacks is halved (rounded down).
+- RANGE: Near
+- DURATION: Varies
 
 ## Flare
 
 You ignite the edge of a weapon with the power of flames. The weapon gains a bonus damage equal to half the Power Level (rounded up), but decreases by 1 each round until extinguished. The total damage is considered fire damage as long as the weapon retains some of this spell's bonus.
-- Rank: 2
-- Range: Near
-- Duration: Immediate
+- RANK: 2
+- RANGE: Near
+- DURATION: Immediate
 
 You take control of fire near you and expel it in the direction of an enemy. You must make a ranged attack with **marksmanship** that can be **dodged** : if successful, the flare deals Strength damage equal to the Power Level (armor does not count). Additionally, the victim catches fire and takes 1 point of damage at the end of each of their turns until they make a successful **move** action to extinguish the flames.
 
 ## Temperature
 
-- Rank: 2
-- Range: Near
-- Duration: One turn (15 minutes)
+- RANK: 2
+- RANGE: Near
+- DURATION: One turn (15 minutes)
 
 Through this spell you are able to regulate the heat in the body of living beings, transferring the heat of the fire to a character or making the flames absorb it, as you choose when casting this magic.
 
@@ -3237,23 +2435,26 @@ You can manipulate the intensity of the fire. Each Power Level allows you to inc
 You must keep in mind that the fire must have something to consume to maintain its power for more than one round, otherwise it will begin to drop one level at a time until it returns to its equilibrium state. The same happens with its decreased intensity: under normal conditions it will consume its surroundings again at the end of each round until it returns to its original level.
 
 ## Fireball
-- Rank: 3
-- Range: Long
-- Duration: Immediate
+
+- RANK: 3
+- RANGE: Long
+- DURATION: Immediate
 
 ## Alter Flames
-- Rank: 3
-- Range: Near
-- Duration: Immediate
+
+- RANK: 3
+- RANGE: Near
+- DURATION: Immediate
 
 You capture the power of fire around you and throw it in the form of a flaming ball that explodes on contact. All ranged characters **near** the impact point roll a number of dice equal to twice the Power Level: they suffer one point of damage to Strength for each success on the roll. Furthermore, they are violently expelled 1D6 meters.
 
 Victims who take damage catch fire and take one point of damage at the end of each of their turns until they make a successful **move** action to extinguish the flames.
 
 ## Heat
-- Rank: 3
-- Range: Near
-- Duration: One round per Power Level You increase the temperature of an object until it is red hot in a few seconds. If it is flammable it will catch fire slowly. If a character is carrying the item, they must get rid of it or take damage at the end of their turn: one to Strength for heat and one to Wits for fear.
+
+- RANK: 3
+- RANGE: Near
+- DURATION: One round per Power Level You increase the temperature of an object until it is red hot in a few seconds. If it is flammable it will catch fire slowly. If a character is carrying the item, they must get rid of it or take damage at the end of their turn: one to Strength for heat and one to Wits for fear.
 
 Throwing weapons or objects in your hands or that are easy to remove requires a fast action, removing other types of
 
@@ -3264,31 +2465,34 @@ Heating also serves to emulate the temperature an item would reach in a smithy, 
 to do so you must remain focused, using your slow action each turn. If you are distracted or suffer damage, the spell is interrupted. The victim can notice that you are using Suffocate against them at the start of their turn if they pass an **insight** check (it is not an action).
 
 ## Suffocate
-- Rank: 3
-- Range: Near
-- Duration: Varies
+
+- RANK: 3
+- RANGE: Near
+- DURATION: Varies
 
 ## Ignition
-- Rank: 4
-- Range: Short
-- Duration: Immediate
+
+- RANK: 4
+- RANGE: Short
+- DURATION: Immediate
 
 You increase the temperature of the air around a character, who begins to breathe with great difficulty. The victim must make an **endurance** check and another **insight** check at the beginning of each of their turns with a penalty equal to the Power Level, failing inflicts one point of damage to Agility (due to lack of air) and Wits (due to fear) respectively. You can keep this effect active indefinitely, but You concentrate all the power of the fire in one point, making it explode with a gesture. The characters at **near** distance of the source of the explosion suffer damage to Strength equal to the Power Level and are violently thrown back 1D6 meters. Armor can resist damage but any roll of 1 reduces its Armor Rating (this does not apply against natural armor).
 
 ## Fire Wall
 
-- Rank: 4
-- Range: Short
-- Duration: One minute per Power Level You create a flame barrier in a location of your choice. The height is equal to the Power Level, the length is equal to three times the Power Level, and the depth is equal to half the Power Level (rounded up).
+- RANK: 4
+- RANGE: Short
+- DURATION: One minute per Power Level You create a flame barrier in a location of your choice. The height is equal to the Power Level, the length is equal to three times the Power Level, and the depth is equal to half the Power Level (rounded up).
 
 In order for a character to dare to cross the wall, they must pass an **insight** roll with a penalty equal to the Power Level. This includes monsters capable of feeling fear and not resistant to fire.
 
 Any character who passes through the wall catches fire and takes one point of damage at the end of each of their turns until they make a successful **move** action to extinguish the flames.
 
 ## Propulsion
-- Rank: 4
-- Range: Personal
-- Duration: Immediate
+
+- RANK: 4
+- RANGE: Personal
+- DURATION: Immediate
 
 You transfer the flames to your hands and feet, propelling yourself powerfully in any direction you want, even vertically or any angle in between, but always in a straight line. You instantly move as many meters as your Power Level. You can use this momentum to make a **shove** or **retreat** action with a bonus equal to the Power Level.
 
@@ -3299,9 +2503,10 @@ Once the trance has ended, if the character has been convinced to do something, 
 The trance ends if at any time the victim is unable to see the flame, if they receive damage of any kind, if they are attacked, or if they are placed in any other kind of danger.
 
 ## Fire Elemental
-- Rank: 5
-- Range: Near
-- Duration: One turn (15 minutes)
+
+- RANK: 5
+- RANGE: Near
+- DURATION: One turn (15 minutes)
 
 You gather the magical powers of fire around you to create an artificial life form known as a fire elemental. The creature's mental capabilities are very limited but it obeys all your commands, which are transmitted to it telepathically. You will only be in communication with the elemental while it is within a **short** distance. You can undo the elemental at any time and this will happen immediately if you are Broken.
 
@@ -3314,17 +2519,18 @@ With this same spell you can destroy a fire elemental summoned by another sorcer
 **MOVEMENT:** 2 (puede volar)
 
 ## Fire Trance
-- Rank: 4
-- Range: Near
-- Duration: One minute per Power Level You control a flame in front of a character and make it dance in such a way that you subject them to a subtle trance, susceptible to your words. You gain a bonus to **manipulation** equal to the Power Level over your victim, who cannot look away from the fire. During the trance, the person can be convinced to do small, seemingly **SPECIAL:** Immune to all non-magical attacks except water. Splashing it with a bucket of water counts as a ranged attack with **CLOSE** range and weapon damage 2.
+
+- RANK: 4
+- RANGE: Near
+- DURATION: One minute per Power Level You control a flame in front of a character and make it dance in such a way that you subject them to a subtle trance, susceptible to your words. You gain a bonus to **manipulation** equal to the Power Level over your victim, who cannot look away from the fire. During the trance, the person can be convinced to do small, seemingly **SPECIAL:** Immune to all non-magical attacks except water. Splashing it with a bucket of water counts as a ranged attack with **CLOSE** range and weapon damage 2.
 
 **ATTACKS:** Fire Blast (attack with Power Level +5 base dice, **CLOSE** range, weapon damage 1, atypical). Armor offers no protection, and anyone who takes one point of damage or more catches fire and takes an additional point of damage until the fire is put out with a successful **MOVE** check.
 
 ## Immolate
-- Rank: 5
 
-- Range: Short
-- Duration: Immediate
+- RANK: 5
+- RANGE: Short
+- DURATION: Immediate
 
 A character becomes the receptacle of the magical forces of fire to become the center of a great flaming explosion. You can only choose one character who is willing to receive this power (it can be yourself).
 
@@ -3333,9 +2539,10 @@ This spell takes all the energy in the target's body to explode violently. Those
 Victims who take damage catch fire and take one point of damage at the end of each of their turns until they make a successful **move** action to extinguish the flames.
 
 ## Infernal Aura
-- Rank: 6
-- Range: Near
-- Duration: One round per Power Level You wrap yourself in a flaming veil that allows you to manipulate fire as if it were a part of you. All your enemies within range experience unbearable heat that automatically leaves them **thirsty** . Additionally, at the end of each of their turns, they suffer one point of damage to Strength from burns and to Agility from exhaustion.
+
+- RANK: 6
+- RANGE: Near
+- DURATION: One round per Power Level You wrap yourself in a flaming veil that allows you to manipulate fire as if it were a part of you. All your enemies within range experience unbearable heat that automatically leaves them **thirsty** . Additionally, at the end of each of their turns, they suffer one point of damage to Strength from burns and to Agility from exhaustion.
 
 For an enemy to dare to approach you or remain at the mercy of your aura, they must pass an **insight** roll. This includes monsters capable of feeling fear and not resistant to fire.
 
@@ -3345,9 +2552,9 @@ The character originating this effect falls Broken with zero Strength and Agilit
 
 ## Flaming Wave
 
-- Rank: 5
-- Range: Short
-- Duration: Immediate
+- RANK: 5
+- RANGE: Short
+- DURATION: Immediate
 
 You create a wall of fire in front of you that is propelled forward like a wave. This spell is like Wall of Fire, but it moves in the opposite direction from yours. You are able to create it as far as you want as long as it is within range, although the wave will advance until it reaches the end of a **short** distance from you.
 
@@ -3357,9 +2564,9 @@ Any character hit by the wave suffers Strength damage equal to the power level. 
 
 ## Summon Phoenix
 
-- Rank: 6
-- Range: Near
-- Duration: One turn (15 minutes)
+- RANK: 6
+- RANGE: Near
+- DURATION: One turn (15 minutes)
 
 You call the magical essence that fire contains and give it the form of a flaming bird, a very particular elemental known as Phoenix. The creature is similar in size and intelligence to a crow, but it can also talk to you telepathically, so you can understand each other, maintain a concept-based dialogue, and it will know what you want it to do at all times.
 
@@ -3380,9 +2587,10 @@ The Phoenix will obey all your orders, including exploring the surroundings, fig
 You can use your fire magic through the Phoenix. In addition, the creature has its own actions in combat and is capable of casting all the spells of this discipline on its own as if it were using a Willpower Point, although you can give it your WP if you wish to enhance its magic. The phoenix's spells are not altered by the intensity of the surrounding fire, nor does it suffer magic mishaps.
 
 ## Rain of Fire
-- Rank: 6
-- Range: Long
-- Duration: One round per Power Level You draw the energy of the flames around you to raise them with your magic and make them fall like an infernal rain over a large diameter area. All characters within the spell's range suffer one point of damage to Strength from the burns at the beginning of each of their turns when they are not well covered by the rain. Additionally, if rain hits them they catch fire and take one point of damage at the end of each turn unless they make a successful **move** action to extinguish the flames.
+
+- RANK: 6
+- RANGE: Long
+- DURATION: One round per Power Level You draw the energy of the flames around you to raise them with your magic and make them fall like an infernal rain over a large diameter area. All characters within the spell's range suffer one point of damage to Strength from the burns at the beginning of each of their turns when they are not well covered by the rain. Additionally, if rain hits them they catch fire and take one point of damage at the end of each turn unless they make a successful **move** action to extinguish the flames.
 
 Rain of Fire can easily cause fires as it affects any material that can burn.
 
@@ -3425,9 +2633,10 @@ ROLL: When you enter a new place the Gamemaster must roll 1D6 and look the resul
 at least that turn (15 minutes) or until she decides that the stream has changed for any reason. It may happen that she does not do so when you enter the site (perhaps due to forgetfulness), but rather when you ask to take it into account or when you want to cast a spell, but the stream there will have been that from the beginning. The probabilities of each level of air stream strength are different in open and closed spaces. It is possible that, in closed spaces, each room has different air streams and therefore the Gamemaster makes new rolls. The roll can result in a modifier between -2 and +2.
 
 ## Deviation
-- Rank: 1, POWER WORD
-- Range: Near
-- Duration: Immediate
+
+- RANK: 1, POWER WORD
+- RANGE: Near
+- DURATION: Immediate
 
 You are able to deflect an attack with the force of the wind. To achieve this, you must match or exceed your enemy's successes with this spell's Power Level, which is doubled against projectiles.
 
@@ -3436,9 +2645,10 @@ Once the blow is avoided, you can choose another enemy in the range of the attac
 You can use Deviation to defend yourself or another character. This spell is a reaction and you can decide to use it once you have seen the enemy's successes.
 
 ## Impulse
-- Rank: 1, POWER WORD
-- Range: Near
-- Duration: Immediate
+
+- RANK: 1, POWER WORD
+- RANGE: Near
+- DURATION: Immediate
 
 You aid a character's movement with the force of the wind, allowing them to reach speeds that would otherwise be impossible. This spell is a reaction that interrupts the initiative order so you can boost their **run** action (which
 
@@ -3474,18 +2684,18 @@ can be your own) and does not count as an action.
 The character increases their movement by +1 and also moves with great agility, almost taking off from the ground. Their **move** rolls receive a bonus equal to the Power Level if he attempts to jump or evade any obstacle. Additionally, they can use this momentum to make a **shove** or **retreat** action with a bonus equal to the Power Level.
 
 ## Purify
-- Rank: 1
 
-- Range: Short
-- Duration: Immediate
+- RANK: 1
+- RANGE: Short
+- DURATION: Immediate
 
 You manipulate the composition of the air around you to clean it of any impurities and make it completely breathable and also pleasant. Purify is useful for details such as refreshing the thick air of an ancient crypt as well as clearing smoke in the middle of a fire or disintegrating a toxic vapor. Although the effect occurs at **short** range, the air will continue to circulate and may quickly become contaminated again.
 
 ## Silence
-- Rank: 1
-- Range: Short
 
-- Duration: One round per Power Level
+- RANK: 1
+- RANGE: Short
+- DURATION: One round per Power Level
 
 characters make or what things move or hit.
 
@@ -3494,91 +2704,95 @@ Although the verbal component is important in some spells, sorcerers can pronoun
 ## Wind Shield
 
 ## E Rank 2
-- Range: Short
-- Duration: One round per Power Level You surround yourself with a current of air strong enough to deflect incoming weapons and projectiles. Attacks with arrows and thrown weapons receive a penalty equal to the Power Level. Attacks with melee weapons take half the penalty (rounded down). You can cast Wind Shield on an ally at **near** distance, but the duration is measured by your turns.
+
+- RANGE: Short
+- DURATION: One round per Power Level You surround yourself with a current of air strong enough to deflect incoming weapons and projectiles. Attacks with arrows and thrown weapons receive a penalty equal to the Power Level. Attacks with melee weapons take half the penalty (rounded down). You can cast Wind Shield on an ally at **near** distance, but the duration is measured by your turns.
 
 The sound is a vibration that propagates as waves through a medium, such as air. With this spell you stop the air in the area, making sure that no sound can spread. Within a **short** range of the point where you cast this spell, everything remains silent, no matter how much effort the
 
 ## Message in the Wind
 
-- Rank: 2
-- Range: Distant
-- Duration: Varies
+- RANK: 2
+- RANGE: Distant
+- DURATION: Varies
 
 ## Potency
 
-- Rank: 2, POWER WORD
-- Range: Short
-- Duration: Immediate
+- RANK: 2, POWER WORD
+- RANGE: Short
+- DURATION: Immediate
 
 By establishing a magical connection with the wind, you can entrust it with a message to send to another character you meet while their face or name is clear in your mind. The message cannot be longer than a sentence and will not reach the recipient immediately, but will take as long as the gusts of wind take to reach them (as many hexes as Power Level per quarter day). Taking this into account, it can travel without a distance limit throughout the Forbidden Lands.
 
 You make the wind support an action, giving it much greater force. This spell is a reaction that disrupts the initiative order. The magic can enhance a **melee** , **move** , or **marksmanship** roll that a character (including you) is about to make, giving it a bonus equal to the Power Level.
 
 ## Air Blast
-- Rank: 2
-- Range: Short
-- Duration: Immediate
+
+- RANK: 2
+- RANGE: Short
+- DURATION: Immediate
 
 By suddenly waving your hands, you create a powerful gust of wind that hits an enemy. Choose whether you want to **shove** or **disarm** . The victim must choose whether to defend theirself from the action, in the normal way or with **might** , but facing the Power Level as if they were your successes in the maneuver. If the character suffers consequences, they also lose a point of Strength from the wind blow and are knocked back 1D6 meters, although armor can reduce the damage.
 
 ## Asphyxiate
-- Rank: 3
-- Range: Near
-- Duration: Varies
+
+- RANK: 3
+- RANGE: Near
+- DURATION: Varies
 
 You move air around an enemy's head at such a speed that it prevents normal inspiration, making it very difficult for them to breathe. The victim must make an **endurance** check and another **insight** check at the beginning of each of their turns with a penalty equal to the Power Level, failing inflicts one point of damage to Agility (due to lack of air) and Wits (due to fear) respectively. You can keep this effect active indefinitely, but to do so you must remain focused, using your slow action each turn. If you are
 
 distracted or take damage, the spell is interrupted. The victim can tell that you are using Smother against them at the start of their turn if they pass an **insight** check (it is not an action).
 
 ## Celerity
-- Rank: 3
-- Range: Near
 
-- Duration: Immediate
+- RANK: 3
+- RANGE: Near
+- DURATION: Immediate
 
 You take the magical power in the essence of the wind and give it to a character, who receives as many extra fast actions as the Power Level and can administer them at will until they run out. There is no limit to the fast actions they can spend in a single round.
 
 ## Air Expulsion
-- Rank: 3
 
-- Range: Short
-- Duration: Immediate
+- RANK: 3
+- RANGE: Short
+- DURATION: Immediate
 
 You open your arms forcefully, creating a powerful gust around you that pushes all characters within range. Those who fail a **might** check with a penalty equal to the Power Level suffer one point of damage to Strength in addition to the effects of a **shove** action and are knocked back 1D6 meters.
 
 ## Cutting Wind
-- Rank: 3
-- Range: Short
 
-- Duration: Immediate
+- RANK: 3
+- RANGE: Short
+- DURATION: Immediate
 
 You swing your arm like a sword, sending a gust of wind so powerful and thin that it cuts like the edge of steel. Your victim suffers as many points of damage to Strength as the Power Level, although they can reduce it with their armor.
 
 ## Generate Stream
-- Rank: 4
 
-- Range: Varies
-- Duration: Immediate
+- RANK: 4
+- RANGE: Varies
+- DURATION: Immediate
 
 ## Hurricane
-- Rank: 4, RITUAL
 
-- Range: Distant
-- Duration: One minute per Power Level You connect with the essence of the wind, moving your arms so that the air current around you increases. The Gamemaster rolls the die again to determine the stream but adds the Power Level to the result.
+- RANK: 4, RITUAL
+- RANGE: Distant
+- DURATION: One minute per Power Level You connect with the essence of the wind, moving your arms so that the air current around you increases. The Gamemaster rolls the die again to determine the stream but adds the Power Level to the result.
 
 You concentrate the power of the wind at its maximum destruction capacity to unleash a hurricane. Once you have cast this spell you cannot control its devastating effects. Its power and effects depend on the Power Level: we offer you references in the table on the next page.
 
 ## Windstrike
-- Rank: 4
 
-- Range: Short
-- Duration: Immediate
+- RANK: 4
+- RANGE: Short
+- DURATION: Immediate
 
 ## Levitation
-- Rank: 4
-- Range: Arm's Length
-- Duration: One minute per Power Level You punch your fist into the air, causing a gust of wind so powerful that it hits all enemies in a straight line like a sledgehammer. Those hit suffer damage to Strength equal to the Power Level, although they can reduce it with their armor.
+
+- RANK: 4
+- RANGE: Arm's Length
+- DURATION: One minute per Power Level You punch your fist into the air, causing a gust of wind so powerful that it hits all enemies in a straight line like a sledgehammer. Those hit suffer damage to Strength equal to the Power Level, although they can reduce it with their armor.
 
 Damage is reduced by one for each body passed through (rounded up). Thus, the first will receive full damage, the second one point less, the third two points less, the fourth three points less, and so on.
 
@@ -3607,23 +2821,25 @@ Those who take damage must make a **might** check with a penalty equal to the Po
 **ATTACKS:** Whirlwind (attack with Power Level +3 base dice, **NEAR** range, weapon damage 1, affects Agility). The victim must pass a **MIGHT** check to remain standing.
 
 ## Invisibility
-- Rank: 5
-- Range: Arm's Length
-- Duration: One minute per Power Level You concentrate the essence of air to make a character invisible (it can be yourself). This spell causes light beams to pass through the body, at all levels of the spectrum, not just those of the human eye, so the character cannot be seen by any creature. Additionally, because wind magic is in their favor, they retain any smells and sounds around them, making detecting them with smell and hearing practically impossible: for this reason, the character's **stealth** rolls receive a bonus equal to Power Level.
+
+- RANK: 5
+- RANGE: Arm's Length
+- DURATION: One minute per Power Level You concentrate the essence of air to make a character invisible (it can be yourself). This spell causes light beams to pass through the body, at all levels of the spectrum, not just those of the human eye, so the character cannot be seen by any creature. Additionally, because wind magic is in their favor, they retain any smells and sounds around them, making detecting them with smell and hearing practically impossible: for this reason, the character's **stealth** rolls receive a bonus equal to Power Level.
 
 You can cancel the spell at any time with your mere will. If the invisible character performs a sudden or striking action such as attacking, falling down stairs, or uttering more than a whisper, this magic stops taking effect.
-- Rank: 5
-- Range: Near
-- Duration: One turn (15 minutes)
+- RANK: 5
+- RANGE: Near
+- DURATION: One turn (15 minutes)
 
 ## Tornado
-- Rank: 5, RITUAL
+
+- RANK: 5, RITUAL
 
 You gather the magical powers of the wind around you to create an artificial life form known as an air elemental. The creature's mental capabilities are very limited but it obeys all your commands, which are transmitted to it telepathically. You will only be in communication with the elemental while you are within a **short** distance. You can undo the elemental at any time and this will happen immediately if you fall Broken.
 
 With this same spell you can destroy an air elemental summoned by another sorcerer if you equal or exceed its Power Level.
-- Range: Distant
-- Duration: One minute per Power Level You call upon the forces of the wind to swirl between heaven and earth and create a tornado. This phenomenon moves on its own, although you are able to guide it slightly. Given its great magnitude, it is impossible to affect specific objectives and it is very easy for it to get out of control. The power of the tornado depends on the Power Level: we provide references in the table on the next page.
+- RANGE: Distant
+- DURATION: One minute per Power Level You call upon the forces of the wind to swirl between heaven and earth and create a tornado. This phenomenon moves on its own, although you are able to guide it slightly. Given its great magnitude, it is impossible to affect specific objectives and it is very easy for it to get out of control. The power of the tornado depends on the Power Level: we provide references in the table on the next page.
 
 - **LEVEL TORNADO POWER** 1 Roof tiles torn off by the wind, tree branches broken; trees with shallow roots collapsed.
 - 2 Significant damage to roofs; broken windows; Damaged or missing exterior doors.
@@ -3636,8 +2852,8 @@ With this same spell you can destroy an air elemental summoned by another sorcer
 
 ## E Rank 6
 
-- Range: Personal
-- Duration: One turn (15 minutes)
+- RANGE: Personal
+- DURATION: One turn (15 minutes)
 
 You create a wind copy of yourself, which detaches from your body like an elemental, forming your silhouette with a continuous stream of air. It has no will of its own, so you must control its every movement as if it were a puppet.
 
@@ -3646,16 +2862,18 @@ The projection has Strength and Agility equal to the Power Level and your same s
 movements that could distort its shape, so physical attacks deal normal damage to it. Projection has its own fast and slow action, but having no will shares your place in the initiative order.
 
 ## Ray
-- Rank: 6
-- Range: Long
-- Duration: Immediate
+
+- RANK: 6
+- RANGE: Long
+- DURATION: Immediate
 
 Thanks to this spell you extract all the power contained in the magical essence of the wind, forming a lightning bolt that you throw through your hands with devastating results. The victim suffers damage to Strength equal to three times the Power Level, although this can be reduced by 1 for each success on an **endurance** roll. It is highly probable that any living being that is not a monster will die instantly from burns and damage to different organs.
 
 ## Travel in the Wind
-- Rank: 6, RITUAL
-- Range: Arm's Length
-- Duration: Varies
+
+- RANK: 6, RITUAL
+- RANGE: Arm's Length
+- DURATION: Varies
 
 With this magic you turn your body and everything you carry into air. In fact you become an elemental, although the only thing you can do in this form is let yourself be carried by the wind streams to a specific place that you decide when casting this spell. The distance to travel does not matter, but you must at least know which direction it is or the magic could leave you in the wrong place, totally lost. You will not arrive immediately, but rather it will take as long as the gusts of wind take to reach the site (as many hexes as Power Level per quarter day). Taking this into account, you can travel unlimited distance throughout the Forbidden Lands. You can use this spell on other characters if they volunteer, although each one must think on their own about where they want to go.
 
@@ -3690,9 +2908,10 @@ of your waterskin. Every time you want to cast one of the spells of this discipl
 It is usually a good sign that someone has sought the knowledge of water magic over, for example, blood magic or necromancy, easier paths to power. That means that the individual is more interested in preserving life and helping others.
 
 ## Evaporate
-- Rank: 1
-- Range: Near
-- Duration: Immediate
+
+- RANK: 1
+- RANGE: Near
+- DURATION: Immediate
 
 However, do not get confused and think that this discipline does not contain dangerous secrets. Water is still one of the four elements and therefore contains potentially devastating powers that must be used with great care.
 
@@ -3701,15 +2920,16 @@ This spell allows you to control the state of water to change it from liquid to 
 E RARITY: Strange E SECRETISM: Journey INGREDIENTS: Casting the spells of this discipline requires a nearby water source. That is always the ingredient of his magic and does not increase the Power Level. You will rarely be near a river, lake, or well when you want to use this discipline, but you can take advantage of the contents
 
 ## Perfect Swim
-- Rank: 1
 
-- Range: Arm's Length
-- Duration: One minute per Power Level
+- RANK: 1
+- RANGE: Arm's Length
+- DURATION: One minute per Power Level
 
 ## Aquatic Breathing
-- Rank: 1
-- Range: Arm's Length
-- Duration: One minute per Power Level With the magic of this spell you make you or another character you touch acquire the ability to flow within water. It's not really swimming, but moving through the water at the same speed as on land.
+
+- RANK: 1
+- RANGE: Arm's Length
+- DURATION: One minute per Power Level With the magic of this spell you make you or another character you touch acquire the ability to flow within water. It's not really swimming, but moving through the water at the same speed as on land.
 
 **Water Magic Spells by Level**
 
@@ -3741,28 +2961,30 @@ E RARITY: Strange E SECRETISM: Journey INGREDIENTS: Casting the spells of this d
 The lungs of the character you touch gain the magical ability to resist liquids inside them and extract the air they need to breathe, as if it were something natural, although it will probably take a few seconds for the character to understand it and adjust to the sensation.
 
 ## Feel the Water
-- Rank: 1
-- Range: Short
-- Duration: One minute per Power Level You can perceive any source of water around you, whether it is at ground level or underground, this includes waterskins that other characters may be carrying. The spell allows you to differentiate between stagnant water, moving water such as that of a river, and water inside containers even if they are being moved.
+
+- RANK: 1
+- RANGE: Short
+- DURATION: One minute per Power Level You can perceive any source of water around you, whether it is at ground level or underground, this includes waterskins that other characters may be carrying. The spell allows you to differentiate between stagnant water, moving water such as that of a river, and water inside containers even if they are being moved.
 
 ## Drown
-- Rank: 2
-- Range: Near
-- Duration: Varies
+
+- RANK: 2
+- RANGE: Near
+- DURATION: Varies
 
 You float water around an enemy's head, causing it to block their airway. They can only breathe because they are constantly moving to avoid the water, but it is very difficult for them. The victim must make an **endurance** check and an **insight** check at the beginning of each of their turns with a penalty equal to the Power Level, failing inflicts one point of damage to Agility (due to lack of air) and Wits (due to fear) respectively. You can keep this effect active indefinitely, but to do so you must remain focused, using your slow action each turn. If you are distracted or take damage, the spell is interrupted. The victim can notice that you are using Drown against them at the start of their turn if they pass an **insight** check (it is not an action).
 
 ## Water Shield
 
-- Rank: 2
-- Range: Short
-- Duration: One round per Power Level
+- RANK: 2
+- RANGE: Short
+- DURATION: One round per Power Level
 
 ## Water Flow
 
-- Rank: 2
-- Range: Long
-- Duration: One turn per Power Level
+- RANK: 2
+- RANGE: Long
+- DURATION: One turn per Power Level
 
 You surround yourself with a layer of moving water capable of deflecting weapons and projectiles that come towards you. Attacks with arrows and thrown weapons receive a penalty equal to the Power Level. Attacks with melee weapons take half the penalty (rounded down). Additionally, fire attacks and spells are weakened by the Power Level when attempting to pass through the shield or if the character passes through flames. You can cast Water Shield on an ally at **near** distance, but the duration is measured by your own turns.
 
@@ -3770,15 +2992,15 @@ You move your hands to the rhythm of the waves, making the water oscillate and s
 
 ## Purify
 
-- Rank: 2
-- Range: Arm's Length
-- Duration: Immediate
+- RANK: 2
+- RANGE: Arm's Length
+- DURATION: Immediate
 
 ## Extract Water
 
-- Rank: 3
-- Range: Near
-- Duration: Immediate
+- RANK: 3
+- RANGE: Near
+- DURATION: Immediate
 
 With the power of this spell you remove all impurities from a volume of water determined by the level of the spell. You can measure it in different ways as the Gamemaster considers best in each case: one unit of water per level, a quarter barrel per level, a full waterskin per level, or any other option. You can place all the waterskins of the group together and purify them with the same effect.
 
@@ -3787,23 +3009,24 @@ You attract water that is diluted anywhere to your hands, making it float and pl
 The maximum amount you can extract can be measured in different ways: one unit of water per Power Level, a fourth barrel per level, a full waterskin per level, or any other option the Gamemaster deems best.
 
 ## Pressure Jet
-- Rank: 3
 
-- Range: Near
-- Duration: Immediate
-- Rank: 3
+- RANK: 3
+- RANGE: Near
+- DURATION: Immediate
+- RANK: 3
 
 ## Tide on the Ground
-- Range: Short
+
+- RANGE: Short
 
 The magic of this spell allows you to throw water with such force that it hits an enemy like a hammer. The victim suffers damage to Strength equal to the Power Level, although this can be reduced by their armor. Additionally, they must pass a **might** check with a penalty equal to the Power Level or suffer the consequences of a **shove** action and be knocked back 1D6 meters.
-- Duration: One round per Power Level You throw water at the ground and make it magically shake to cause all characters who move to make a **move** check to avoid falling to the ground (it is not an action), this includes any physical action that involves footwork, such as attacking melee. If the roll is not passed, the action is interrupted and is lost. The diameter of the tide is equal to five times the Power Level.
+- DURATION: One round per Power Level You throw water at the ground and make it magically shake to cause all characters who move to make a **move** check to avoid falling to the ground (it is not an action), this includes any physical action that involves footwork, such as attacking melee. If the roll is not passed, the action is interrupted and is lost. The diameter of the tide is equal to five times the Power Level.
 
 ## Solidify Liquid
 
-- Rank: 3
-- Range: Short
-- Duration: One turn (15 minutes)
+- RANK: 3
+- RANGE: Short
+- DURATION: One turn (15 minutes)
 
 Through this spell you can make a mass of water solidify, preventing it from moving as a liquid normally would. The water will behave as if it had turned into ice, but retains its appearance and moisture. If a character wants to pass through or disperse the solidified water, they must succeed on a **might** , **melee** or **move** check with a penalty equal to the Power Level.
 
@@ -3817,40 +3040,43 @@ You must stay focused to keep Paralyze working. Therefore, you must sacrifice yo
 
 ## Water Wall
 
-- Rank: 4
-- Range: Short
-- Duration: One minute per Power Level
+- RANK: 4
+- RANGE: Short
+- DURATION: One minute per Power Level
 
 You create a water barrier in a location of your choice. The height is equal to the Power Level, the length is equal to three times the Power Level, and the depth is equal to half the Power Level (rounded up).
 
 Fire attacks and spells are weakened equal to the Power Level when attempting to pass through the wall. Additionally, moving through the wall costs a slow action and requires making a **might** or **move** check with a penalty equal to the Power Level. If they fail to do so, the character is left fighting on the edge of the wall but cannot pass. Even after passing the roll, the character suffers one point of damage to Agility due to fatigue.
 
 ## Paralyze
-- Rank: 4
 
-- Range: Near
-- Duration: One round per Power Level
+- RANK: 4
+- RANGE: Near
+- DURATION: One round per Power Level
 
 Causing this kind of damage to a living being can affect you emotionally. To find out, you must make an Empathy roll: each success inflicts one point of damage to Empathy as a result of guilt, although in reality that is a good thing, the opposite would imply that you are becoming increasingly insensitive to the suffering of others: the consequences of something like that are interpretive.
 
 In case you need the tentacles to do other types of actions, the Strength of the tentacles is equal to the Power Level.
 
 ## Water Elemental
-- Rank: 5
-- Range: Near
-- Duration: One turn (15 minutes)
+
+- RANK: 5
+- RANGE: Near
+- DURATION: One turn (15 minutes)
 
 ## Swirl
-- Rank: 4
-- Range: Long
-- Duration: One minute per Power Level You create a whirlpool in a mass of water, causing all kinds of problems that must be interpreted according to the power achieved. The whirlpool has a diameter in meters equal to four times the Power Level. Additionally, in any case in which a character or group wants to fight against the force of water, they must pass a **might** or **move** check with a penalty equal to twice the Power Level.
+
+- RANK: 4
+- RANGE: Long
+- DURATION: One minute per Power Level You create a whirlpool in a mass of water, causing all kinds of problems that must be interpreted according to the power achieved. The whirlpool has a diameter in meters equal to four times the Power Level. Additionally, in any case in which a character or group wants to fight against the force of water, they must pass a **might** or **move** check with a penalty equal to twice the Power Level.
 
 Using this spell on small bodies of water can give unstable or disappointing results, such as in a barrel or even a fountain or well, as the water will overflow and not have sufficient consistency, although it will certainly be quite a spectacle. However, it can be a real problem in a river or lake, for both swimmers and boats.
 
 ## Tentacles
-- Rank: 4
-- Range: Near
-- Duration: One round per Power Level You gather the magical powers of water around you to create an artificial life form known as a water elemental. The creature's mental capabilities are very limited but it obeys all your commands, which are transmitted to it telepathically. You will only be in communication with the elemental while you are within a **short** distance. You can undo the elemental at any time and this will happen immediately if you fall Broken.
+
+- RANK: 4
+- RANGE: Near
+- DURATION: One round per Power Level You gather the magical powers of water around you to create an artificial life form known as a water elemental. The creature's mental capabilities are very limited but it obeys all your commands, which are transmitted to it telepathically. You will only be in communication with the elemental while you are within a **short** distance. You can undo the elemental at any time and this will happen immediately if you fall Broken.
 
 With this same spell you can destroy a water elemental summoned by another sorcerer if you match or exceed its Power Level.
 
@@ -3869,9 +3095,10 @@ By manipulating the water around you, you create liquid tentacles of muscle-like
 Tentacles are **short** range weapon, Weapon Bonus +2 and damage 1 with the **parrying** feature. You use the tentacles by rolling dice with your Agility points plus Power Level. You can use the **parry** action using the same dice described above.
 
 ## Rain
-- Rank: 5, RITUAL
-- Range: Distant
-- Duration: Quarter day
+
+- RANK: 5, RITUAL
+- RANGE: Distant
+- DURATION: Quarter day
 
 With the magic of this ritual you accumulate the water that is dispersed in the clouds so that it falls as rain. The intensity depends on the power reached: a number of millimeters of water will fall every hour depending on the Power Level, as indicated in the following reference table.
 
@@ -3882,8 +3109,9 @@ In order to cast this spell you need a significant amount of water as an ingredi
 ## Dense Fog
 
 ## E Rank 5
-- Range: Distant
-- Duration: One turn (15 minutes)
+
+- RANGE: Distant
+- DURATION: One turn (15 minutes)
 
 This spell allows you great control over water to spread it into very small drops and thus create clouds at ground level, forming a fog. The density of this fog depends on the Power Level. All rolls that depend on sight receive a penalty equal to twice the Power Level, this includes those related to combat. Most of its consequences are narrative and must be interpreted according to this penalty.
 
@@ -3896,20 +3124,22 @@ incalculable damage to the hexagon where you are. At the end of the ritual, the 
 The giant wave can measure between seven and thirty meters in height, although its destructive capacity depends on the Gamemaster's consideration. The Power Level determines how much ground you reach inland: 1 kilometer per level.
 
 ## Conversion
-- Rank: 6
-- Range: Arm's Length
-- Duration: Immediate
+
+- RANK: 6
+- RANGE: Arm's Length
+- DURATION: Immediate
 
 ## Split the Waters
-- Rank: 6
-- Range: Distant
-- Duration: One minute per Power Level You can alter the properties of water to transform it into the same amount of another liquid, even if you do not have the necessary ingredients. You can change salt water for fresh or vice versa, or turn it into blood, an alcoholic beverage, or even mog. You convert as many units of water equal to the Power Level. The quality of a drink created with this spell is mediocre.
+
+- RANK: 6
+- RANGE: Distant
+- DURATION: One minute per Power Level You can alter the properties of water to transform it into the same amount of another liquid, even if you do not have the necessary ingredients. You can change salt water for fresh or vice versa, or turn it into blood, an alcoholic beverage, or even mog. You convert as many units of water equal to the Power Level. The quality of a drink created with this spell is mediocre.
 
 ## Giant Wave
-- Rank: 6, RITUAL
 
-- Range: Distant
-- Duration: Immediate
+- RANK: 6, RITUAL
+- RANGE: Distant
+- DURATION: Immediate
 
 By charging a body of water with your magical power, you are able to separate it and keep it under control to form a safe path through it. This includes streams, lakes and fastflowing rivers. The spell raises the water level but vertically, so there is no risk of it overflowing or generating diversions: no logic that comes from natural laws is applied. You can cast Split the Waters while you **hike** , before passing through a hex.
 
@@ -3949,42 +3179,42 @@ E RARITY: Strange E SECRETISM: Journey You inhale air until you inflate your lun
 
 ## Cool Metal
 
-- Rank: 1
-- Range: Arm's Length
+- RANK: 1
+- RANGE: Arm's Length
 
 INGREDIENTS: Spells in this discipline use a piece of ice or a handful of snow as an ingredient. In the Forbidden Lands it can be difficult to obtain these items except in winter. Using ingredients boosts the Power Level normally and is not a requirement to cast spells.
 
-- Duration: One round per Power Level
+- DURATION: One round per Power Level
 
 You charge a metal with the essence of winter, which magically cools it without damaging it and gives it freezing properties. This effect grants a +1 bonus of cold damage, although it does not count as a magic weapon.
 
 ## Frozen Breath
-- Rank: 1
 
-- Range: Arm's Length
-- Duration: Immediate
+- RANK: 1
+- RANGE: Arm's Length
+- DURATION: Immediate
 
 ## Numbness
 
-- Rank: 1
-- Range: Arm's Length
-- Duration: One round per Power Level
+- RANK: 1
+- RANGE: Arm's Length
+- DURATION: One round per Power Level
 
 You throw an icy wind from your hands that numbs the muscles of your victim, who receives a penalty to all their physical actions equal to the Power Level, but it decreases by one at the end of each of their turns until it is completely lost. This penalty is not cumulative, only the one with the highest value applies.
 
 ## Ice Dagger
-- Rank: 1
 
-- Range: Arm's Length
-- Duration: One minute per Power Level
+- RANK: 1
+- RANGE: Arm's Length
+- DURATION: One minute per Power Level
 
 You concentrate the humidity of the environment in your hand and freeze the water forming a dagger. It has Weapon Bonus +1, damage 2 (due to cold) and the light, edged and pointed features. Can be thrown from **near** range.
 
 ## Ice Weapon
-- Rank: 2
 
-- Range: Arm's Length
-- Duration: Permanent
+- RANK: 2
+- RANGE: Arm's Length
+- DURATION: Permanent
 
 With your hands you freeze and mold the humidity of the place to form an ice weapon, which can be edged, pointed or blunt, as you choose. It has damage 1 (due to cold) and a Weapon Bonus equal to the Power Level. However, it cracks easily: every 1 you roll with the gear dice reduces its Weapon Bonus even if you don't force the roll.
 
@@ -4016,123 +3246,136 @@ With your hands you freeze and mold the humidity of the place to form an ice wea
 | Ice Beam | 6 |
 
 ## Frozen Aura
-- Rank: 2
-- Range: Near
-- Duration: One round per Power Level
+
+- RANK: 2
+- RANGE: Near
+- DURATION: One round per Power Level
 
 ## Frost Armor
-- Rank: 3
-- Range: Arm's Length
-- Duration: One turn (15 minutes)
+
+- RANK: 3
+- RANGE: Arm's Length
+- DURATION: One turn (15 minutes)
 
 Your body magically emanates a cold capable of freezing water and dulling the muscles of any enemy that is **near** . At the beginning of their turns they must make an **endurance** roll with a penalty equal to the Power Level or suffer the normal effects of the **cold** condition as if they were in a frozen environment. You can use Frozen Aura on an ally if you have them at **arm’s length** .
 
 You freeze moisture around armor to give it a layer of frost that makes it stronger. Adds +1 to Armor Rating for every two Power Levels. If it were to receive damage, it is the frost that is damaged first.
 
 ## Cold Immunity
-- Rank: 2
-- Range: Near
-- Duration: One round per Power Level With the power of this spell, the character you choose becomes immune to cold, which will not cause pain or particular damage (although they will receive normal damage from ice weapons). Additionally, they become immune to the **cold** condition.
+
+- RANK: 2
+- RANGE: Near
+- DURATION: One round per Power Level With the power of this spell, the character you choose becomes immune to cold, which will not cause pain or particular damage (although they will receive normal damage from ice weapons). Additionally, they become immune to the **cold** condition.
 
 ## Brittle
-- Rank: 2
-- Range: Near
-- Duration: One round per Power Level You reduce the temperature of an object to such a point that it becomes brittle. Any conventional object will be shattered after passing a **might** roll (which the Gamemaster can penalize if it is of a very strong material).
+
+- RANK: 2
+- RANGE: Near
+- DURATION: One round per Power Level You reduce the temperature of an object to such a point that it becomes brittle. Any conventional object will be shattered after passing a **might** roll (which the Gamemaster can penalize if it is of a very strong material).
 
 On the other hand, items with a Gear Bonus are always damaged with results of 1, even if the roll is not pushed. If you try to break them, the **might** roll receives a penalty equal to the Gear Bonus. If it is an artifact, the Artifact Die is rolled first and the successes are added to the character's roll penalty.
 
 ## Freeze
-- Rank: 3
 
-- Range: Near
-- Duration: Immediate
+- RANK: 3
+- RANGE: Near
+- DURATION: Immediate
 
 ## Frost Soul
-- Rank: 4
-- Range: Personal
-- Duration: One round per Power Level You manipulate the temperature around a character to instantly reduce it to freezing extremes. The victim suffers damage to Agility equal to the Power Level, but can reduce it by 1 for each success on an **endurance** roll. If they receive any point of damage, they become **cold** (suffering the normal point of damage to Strength and Wits): the cold on their skin and joints forces them to repeat the roll every minute until they pass it, but it is a normal **endurance** roll.
+
+- RANK: 4
+- RANGE: Personal
+- DURATION: One round per Power Level You manipulate the temperature around a character to instantly reduce it to freezing extremes. The victim suffers damage to Agility equal to the Power Level, but can reduce it by 1 for each success on an **endurance** roll. If they receive any point of damage, they become **cold** (suffering the normal point of damage to Strength and Wits): the cold on their skin and joints forces them to repeat the roll every minute until they pass it, but it is a normal **endurance** roll.
 
 You intensify the power of the cold within you, increasing your connection with the discipline and power of your magic. While this effect lasts, the Power Level of all your Ice Affinity spells increases by one point.
 
 ## Sharp Ice Field
-- Rank: 4
-- Range: Varies
-- Duration: One minute per Power Level
+
+- RANK: 4
+- RANGE: Varies
+- DURATION: One minute per Power Level
 
 ## Mold Ice
-- Rank: 3
-- Range: Arm's Length
-- Duration: One minute per Power Level You can manipulate ice with your hands and objects as if it were clay. This helps you both to open holes and to draw precise grooves. If your intention is to create sculptures (or modify them precisely) you will need to use your **crafting** skill.
+
+- RANK: 3
+- RANGE: Arm's Length
+- DURATION: One minute per Power Level You can manipulate ice with your hands and objects as if it were clay. This helps you both to open holes and to draw precise grooves. If your intention is to create sculptures (or modify them precisely) you will need to use your **crafting** skill.
 
 ## Ice Wall
-- Rank: 3
-- Range: Short
+
+- RANK: 3
+- RANGE: Short
 
 You cool the ground around you to sub-zero temperatures and with a gesture you raise large sharp spikes of ice. The size of the field depends on the Power Level: level 1 for **arm's length** , level 2 **near** , level 3 **short** , and level 4 **long** . The peaks continue to emerge, grow and breaking at every moment.
 
 Whenever a character (except you) moves within the area, they must make a **move** check (not an action) to avoid being hit by a spike. This includes any physical action that involves footwork, such as attacking melee. If you fail the roll, the action is interrupted and is lost, in addition to taking 2 points of damage to Strength (can be reduced by armor). You can reduce the Power Level by one to increase the damage by one point, although the range will also be reduced.
-- Duration: One minute per Power Level You create an ice barrier in a location of your choice. The height is equal to the Power Level, the length is equal to three times the Power Level, and the depth is equal to half the Power Level (rounded up).
+- DURATION: One minute per Power Level You create an ice barrier in a location of your choice. The height is equal to the Power Level, the length is equal to three times the Power Level, and the depth is equal to half the Power Level (rounded up).
 
 The wall has a number of Strength points equal to twice the Power Level, which represents its thickness and structural integrity. To resist damage, representing its toughness, it has Armor Rating 6 (which is never reduced). Fire attacks deal double damage.
 
 ## Winter Arrival
-- Rank: 4, RITUAL
-- Range: Distant
-- Duration: One day per Power Level You establish a connection with the essence of cold to invoke Winter in the hexagon where you perform the ritual. The climate changes completely to become winter, both due to the time of sunlight and any meteorological phenomenon. All characters who are not in a warm place must make a roll against cold every hour to avoid
+
+- RANK: 4, RITUAL
+- RANGE: Distant
+- DURATION: One day per Power Level You establish a connection with the essence of cold to invoke Winter in the hexagon where you perform the ritual. The climate changes completely to become winter, both due to the time of sunlight and any meteorological phenomenon. All characters who are not in a warm place must make a roll against cold every hour to avoid
 
 becoming **cold** . The rain falls like snow, the wind is very strong and chills the blood.
 
 to Strength equal to the Power Level, but can reduce it by 1 for each success on an **endurance** roll (adds armor). Most consequences are narrative and are decided by the Gamemaster according to the context.
 
 ## Ice Prison
-- Rank: 4
-- Range: Near
-- Duration: Varies
-- Rank: 5
+
+- RANK: 4
+- RANGE: Near
+- DURATION: Varies
+- RANK: 5
 
 ## Sharp Iceberg
-- Range: Short
+
+- RANGE: Short
 
 You release a strong wave of frozen magic, so intense that it freezes the enemy in place and surrounds them in a thick layer of frost, leaving them immobile.
 
 On their turns, the victim can only attempt to break the ice around them. To do this, they must invest a slow action for a **might** roll with a penalty equal to the Power Level: if successful, they manage to free theirself, otherwise they suffer the effects of the **cold** condition and loses their turn. The only thing they could do is cast a spell that is a **power word** , since they can still make small movements such as moving their eyes, gesturing and articulating words, even if they cannot be heard from outside.
-- Duration: Immediate
+- DURATION: Immediate
 
 With the force of your magic, you create a large spike of ice that you direct at high speed towards your enemy. The victim suffers damage to Strength equal to three times the Power Level, although they can reduce it by 1 for each success on an **endurance** roll plus a normal armor roll, or they can also resort to a **dodge** action.
 
 Other characters can try to break the frost, to do so they must pass the same **might** check. They can take advantage of a Weapon Bonus. However, any success will cause Strength damage to the victim. Attacks work the same way.
 
 ## Hailstorm
-- Rank: 5, RITUAL
-- Range: Distant
-- Duration: One turn (15 minutes)
+
+- RANK: 5, RITUAL
+- RANGE: Distant
+- DURATION: One turn (15 minutes)
 
 With the magic of this ritual you accumulate the water that is dispersed in the clouds and cool it so that it falls in the form of hail. The intensity depends on the power reached as well as the size of the ice lumps. Every minute, any character not covered suffers damage
 
 ## Winter Storm
-- Rank: 5
 
-- Range: Distant
-- Duration: One turn (15 minutes)
+- RANK: 5
+- RANGE: Distant
+- DURATION: One turn (15 minutes)
 
 Through this spell you create a powerful snow storm that darkens the sky and makes it impossible to see clearly. All characters who are not covered must make a roll against cold every minute to avoid becoming **cold** . Additionally, all rolls that depend on sight receive a penalty equal to twice the Power Level, this includes those related to combat. The ground fills with snow and becomes considered difficult terrain.
 
 Most consequences are narrative and must be interpreted based on Power Level.
 
 ## Frost Orb
-- Rank: 6
-- Range: Short
 
-- Duration: One round per Power Level
+- RANK: 6
+- RANGE: Short
+- DURATION: One round per Power Level
 
 You gather the magical essence of ice to create an orb that levitates to a position you indicate up to a maximum of **short** distance, where it stops and begins hurling deadly sharp shards of frost at all your enemies within range. The orb has its own place in initiative order (it acts immediately after you) and makes this attack every turn for as long as the spell lasts.
 
 of combat (or every 10 seconds), all characters must pass an **endurance** roll or suffer the effects of the **cold** condition. Either way, the temperature inside the fog is extremely low and will freeze any liquid as well as leave frost on all surfaces easily.
 
 ## Ice Beam
-- Rank: 6
-- Range: Short
-- Duration: Immediate
+
+- RANK: 6
+- RANGE: Short
+- DURATION: Immediate
 
 You have the highest affinity for ice, allowing you to conjure its very essence and concentrate it into a magical beam so you can cast it. The beam completely freezes anything it touches.
 
@@ -4143,9 +3386,10 @@ On the other hand, if it collides with an object, the same effects as the Brittl
 Victims suffer damage to Strength equal to the Power Level, although they can reduce it by 1 for each success on an **endurance** roll, also adding their armor.
 
 ## Frozen Fog
-- Rank: 6
-- Range: Distant
-- Duration: One turn (15 minutes)
+
+- RANK: 6
+- RANGE: Distant
+- DURATION: One turn (15 minutes)
 
 This spell allows you to create very cold clouds at ground level, forming a freezing fog. The density of this fog depends on the Power Level. All rolls that depend on sight receive a penalty equal to twice the Power Level, this includes those related to combat. Additionally, every round
 
@@ -4180,9 +3424,10 @@ The moon elves, whether on purpose or unintentionally, left their knowledge of t
 It is very difficult to notice the presence or influence of a mentalist sorcerer, but they are very frowned upon for obvious reasons. Manipulating the mind is considered a sacrilege, even by the most unscrupulous sorcerers who feel their most valuable treasure is in serious danger, naked before the magical forces controlled by this discipline. E RARITY: Disturbing E SECRETISM: Demonstration INFLUENCE: This discipline does not require ingredients, but to enhance its Power Level as an ingredient would do (increasing it by 1) you must be able to speak with the target, manipulating them with your words and some slight gesture that alters its attention and full mental faculties. You don't have to talk to them about anything related to the effect of the spell, it is enough for the tone of your voice and gestures to accompany the intentionality of the magical effect.
 
 ## Numb
-- Rank: 1
-- Range: Short
-- Duration: Immediate
+
+- RANK: 1
+- RANGE: Short
+- DURATION: Immediate
 
 You stare into another character's eyes, causing uncontrollable sleepiness and heaviness.
 
@@ -4191,29 +3436,32 @@ If the target is voluntary, they will fall asleep immediately regardless of the 
 If the target resists the spell (regardless of whether they know that are being affected by magic), they must make an **insight** check with a penalty equal to the Power Level or fall asleep. If they passes it, they stay awake but suffer one point of damage to Wits and becomes **sleepy** .
 
 ## Change Word
-- Rank: 1
-- Range: Short
-- Duration: One minute per Power Level You alter a character's ability to understand and use language.
+
+- RANK: 1
+- RANGE: Short
+- DURATION: One minute per Power Level You alter a character's ability to understand and use language.
 
 While they are affected by this spell, a particular word will be changed to another in their mind. This implies that when they hear the original word they will understand it as the one you have chosen, just as when they want to pronounce that original word they will say the one you chose instead and without realizing it. This can completely alter a social interaction in unpredictable ways.
 
 ## Unknown
-- Rank: 1
-- Range: Short
-- Duration: One minute per Power Level You change a character's perception so that, for the duration of the spell, they will not be able to identify you. Every time you leave their sight and they see you again you will be a different person, and they will not be able to recognize facial features if they have to remember their interactions with you. While the effect is active, the victim will not question this even if someone try to explain it to them, this will just be a strange memory loss, or a completely normal distraction. However, when the effect expires, they will be disturbed if should remind you, although they will be unable to do anything about it.
+
+- RANK: 1
+- RANGE: Short
+- DURATION: One minute per Power Level You change a character's perception so that, for the duration of the spell, they will not be able to identify you. Every time you leave their sight and they see you again you will be a different person, and they will not be able to recognize facial features if they have to remember their interactions with you. While the effect is active, the victim will not question this even if someone try to explain it to them, this will just be a strange memory loss, or a completely normal distraction. However, when the effect expires, they will be disturbed if should remind you, although they will be unable to do anything about it.
 
 ## Unlock Limits
-- Rank: 2
-- Range: Near
-- Duration: One round per Power Level You remove the limits that the mind imposes on the body so as not to give its maximum and break in the process. In this way, the target character can give their full potential in each physical action they perform, but with the risk of it being too heavy a burden on their muscles.
+
+- RANK: 2
+- RANGE: Near
+- DURATION: One round per Power Level You remove the limits that the mind imposes on the body so as not to give its maximum and break in the process. In this way, the target character can give their full potential in each physical action they perform, but with the risk of it being too heavy a burden on their muscles.
 
 The results of four, five and six on the base dice (those that correspond to the attributes) are considered successes in the rolls that are related to Strength and Agility, but they are always pushed, so they cannot be repeated and the results of one cause damage.
 
 ## Strengthen the Mind
-- Rank: 1
-- Range: Short
 
-- Duration: One minute per Power Level
+- RANK: 1
+- RANGE: Short
+- DURATION: One minute per Power Level
 
 Thanks to this magic, the character you choose (it can be yourself) becomes unfazed by fear and mindaltering magical effects. They gain a bonus equal to the Power Level to all their **insight** rolls to defend against effects or conditions if it is specified that can be avoided. Additionally, if they would suffer damage from fear or another mental disturbance that originally did not allow a roll (such as a terrifying attack), they can reduce the damage by making a normal **insight** roll.
 
@@ -4250,20 +3498,22 @@ For example, if they are in combat or about to begin fighting with a sword, thei
 The ability benefited by this spell is not chosen by you nor by the target character, but by the Gamemaster according to the circumstance and mental focus of said character. You cannot use Extreme on yourself.
 
 ## Honesty
-- Rank: 2
-- Range: Near
-- Duration: One minute per Power Level You influence a character's mind, causing them to speak honestly as if it were natural, even if it is not what suits them. To resist, they must succeed on an **insight** check with a penalty equal to the Power Level. Since it is generally difficult to create a lie, but this spell makes telling the truth a normal and unfiltered act, to know if the victim has managed to resist you must succeed on an **insight** roll after asking them a question whose answer could harm them.
+
+- RANK: 2
+- RANGE: Near
+- DURATION: One minute per Power Level You influence a character's mind, causing them to speak honestly as if it were natural, even if it is not what suits them. To resist, they must succeed on an **insight** check with a penalty equal to the Power Level. Since it is generally difficult to create a lie, but this spell makes telling the truth a normal and unfiltered act, to know if the victim has managed to resist you must succeed on an **insight** roll after asking them a question whose answer could harm them.
 
 ## Paranoia
-- Rank: 2
-- Range: Near
+
+- RANK: 2
+- RANGE: Near
 
 ## Extreme
-- Duration: Immediate
 
-- Rank: 2
-- Range: Short
-- Duration: One turn (15 minutes)
+- DURATION: Immediate
+- RANK: 2
+- RANGE: Short
+- DURATION: One turn (15 minutes)
 
 You alter the mental state of a character, who begins to perform exceptionally well in the action or intention they had at the time you cast this spell, but to the detriment of everything else they intend.
 
@@ -4271,22 +3521,21 @@ With just a look or a venomous statement, this spell heightens the impact of you
 
 ## Calm
 
-- Rank: 3
-- Range: Near
-- Duration: Immediate
+- RANK: 3
+- RANGE: Near
+- DURATION: Immediate
 
 Through the magic of this spell you transmit peace of mind with just a look or a gesture. The character feels that their worries disappear and are able to see things in a more objective way. They recover as many points of damage to Empathy as the Power Level.
 
 ## Confusion
 
-- Rank: 3
-- Range: Near
-- Duration: Immediate
+- RANK: 3
+- RANGE: Near
+- DURATION: Immediate
 
 With a suspicious look or malicious words, together with the magic of this spell, you generate in your victim a growing and uncontrollable anxiety that causes confusion and fear. The world becomes a dark place where anything is a potential danger and death lurks around every corner. The character suffers damage to Wits equal to the Power Level, but can reduce it by one for each success on an **insight** roll.
-- Rank: 3
-
-- Range: Near
+- RANK: 3
+- RANGE: Near
 
 ## Domination
 
@@ -4294,22 +3543,23 @@ to receive and be affected by the order, but in this case you must be able to lo
 
 The spell can be resisted with a successful **insight** check with a penalty equal to the Power Level.
 
-- Duration: Varies
+- DURATION: Varies
 
 You are able to give a hypnotic command to a character, forcing them to carry it out without question. The command should be direct and concise, such as _run_ , _scream_ , _laugh_ or _attack_ . The victim will not comply with the order if it totally contradicts their principles or if it puts their life at direct risk: _stay still_ will not work if they are about to be attacked, nor _sleep_ in a tense situation. However, _attack_ when some guards are about to arrest them would be indirect enough. The victim does not have to listen to you
 
 ## Focus
-- Rank: 3
-- Range: Near
-- Duration: Immediate
+
+- RANK: 3
+- RANGE: Near
+- DURATION: Immediate
 
 The magic of the spell allows you to give the character confidence and focus on their goals. They feel focused and have the will to succeed in anything they set their mind to. They recover damage to Wits equal to Power Level.
 
 ## Amnesia
-- Rank: 4
-- Range: Arm's Length other characters will see you as you are and may warn your victim that they do not understand what is happening and why they act like this in front of you.
 
-- Duration: Immediate
+- RANK: 4
+- RANGE: Arm's Length other characters will see you as you are and may warn your victim that they do not understand what is happening and why they act like this in front of you.
+- DURATION: Immediate
 
 Through the magic of this spell, being very close to another character, you are able to erase their most recent memories. A number of days into the past equal to twice the Power Level will be erased from their memory. The victim can reduce one day for each success on an **insight** roll.
 
@@ -4320,24 +3570,26 @@ Once Amnesia has applied its effect there is no way to reverse it. The character
 When the spell is applied to the character, there are a few seconds of confusion where they will not understand what has happened. They may not be aware that they do not remember their last days until they need specific information from their past.
 
 ## Change Appearance
-- Rank: 4
 
-- Range: Short
-- Duration: One hour per Power Level You affect a character's mind, making them see you as if you were someone else. It may be someone you know and can clearly visualize at the time of casting the spell, or it may simply be a face that does not exist. If you choose the appearance of an existing person, it is possible that the victim realizes that something strange is happening even if they see and hear you identical to who you want to look like. This may require **manipulation** checks on your part, **insight** checks on theirs, or both. Remember that
+- RANK: 4
+- RANGE: Short
+- DURATION: One hour per Power Level You affect a character's mind, making them see you as if you were someone else. It may be someone you know and can clearly visualize at the time of casting the spell, or it may simply be a face that does not exist. If you choose the appearance of an existing person, it is possible that the victim realizes that something strange is happening even if they see and hear you identical to who you want to look like. This may require **manipulation** checks on your part, **insight** checks on theirs, or both. Remember that
 
 ## Induction
-- Rank: 4
-- Range: Near
-- Duration: Quarter Day per Power Level With this spell you manipulate a character's mind to convince them that they should do something you want. Until they achieves it, they will be obsessed with the idea and will invest all their time, energy and resources to achieve it, although this obsession will decrease during the last quarter of a day until the end of the effect's duration.
+
+- RANK: 4
+- RANGE: Near
+- DURATION: Quarter Day per Power Level With this spell you manipulate a character's mind to convince them that they should do something you want. Until they achieves it, they will be obsessed with the idea and will invest all their time, energy and resources to achieve it, although this obsession will decrease during the last quarter of a day until the end of the effect's duration.
 
 Induction works with a very specific phrase that can be fulfilled in some way, but it cannot be an order but rather an implanted idea: _murder your boss_ is an obvious order, but _perhaps it is time to replace your boss_ is a different approach. Something like _inventing an airship would be a great goal_ is almost impossible to achieve in the Forbidden Lands, but the victim will try with all the means at their disposal. The spell will have no effect on the character if the idea completely contradicts their principles. They don't have to listen to you to receive and be affected by this magic, but in that case you must be able to look into their eyes (even if they don't look at you).
 
 Upon receiving the spell's magic and at the beginning of each subsequent quarter day, the character can understand that they have gone too far and attempt to resist their obsession with a successful **insight** check with a penalty equal to the Power Level. If successful, the idea continues in their mind and torments them, but they will be able to resist for that quarter day.
 
 ## Prohibition
-- Rank: 4
-- Range: Near
-- Duration: One hour per Power Level You can alter a character's mind so that they are unable to do something specific. The prohibition must fit in one
+
+- RANK: 4
+- RANGE: Near
+- DURATION: One hour per Power Level You can alter a character's mind so that they are unable to do something specific. The prohibition must fit in one
 
 sentence, be direct and concise, such as _you cannot cross that door_ or _you cannot speak_ . The victim will not comply with the order if it totally contradicts their principles or if it puts their life at direct risk: _do not defend yourself_ will not work if someone is about to attack them, nor _you can't breathe_ , for obvious reasons. The victim does not have to listen to you to receive and be affected by the order, but in this case you must be able to look them in the eyes (even if they do not look at you).
 
@@ -4349,9 +3601,9 @@ The spell can be resisted with a successful **insight** check with a penalty equ
 
 ## Induce Monster
 
-- Rank: 5
-- Range: Near
-- Duration: One minute per Power Level
+- RANK: 5
+- RANGE: Near
+- DURATION: One minute per Power Level
 
 This spell has the same fundamentals as Induction but its powerful magic is capable of affecting the minds of monsters. The difference is that the influence you can have on them is much more limited, related to their intellectual abilities. For example, creatures without reasoning will only respond to ideas related to feeding, selecting enemies, or similar basic things.
 
@@ -4359,31 +3611,31 @@ This spell only works on monsters with Wits points whose mind is not being contr
 
 ## Psychic Strike
 
-- Rank: 5
-- Range: Short
-- Duration: Immediate
+- RANK: 5
+- RANGE: Short
+- DURATION: Immediate
 
 You project your willpower into a character's mind, causing it severe pain and potentially destroying it completely. The victim suffers damage to Wits and Empathy equal to the Power Level.
 
 ## Hypnosis
 
-- Rank: 5
-- Range: Near
-- Duration: One minute per Power Level
+- RANK: 5
+- RANGE: Near
+- DURATION: One minute per Power Level
 
 ## Affect the Masses
 
-- Rank: 6
-- Range: Personal
-- Duration: Immediate
+- RANK: 6
+- RANGE: Personal
+- DURATION: Immediate
 
 You project the power of your mind to reach all characters in a given area. This spell is cast as a reaction (it does not consume actions) to another of your Mentalism spells, which then has an area effect. The size of the area depends on the Power Level of Affect the Masses: level 1 at **arm's length** , level 2 **near** , level 3 **short** , and level 4 **long** .
 
 ## Sealing Mind
 
-- Rank: 6
-- Range: Arm's Length
-- Duration: Permanent
+- RANK: 6
+- RANGE: Arm's Length
+- DURATION: Permanent
 
 Using this spell you can concentrate on a character's mind and block it completely, leaving them in a coma indefinitely. Not only will the victim remain unconscious, but their brain activity will be reduced to the minimum of maintaining their basic vital functions and nothing more. For obvious reasons they will remain defenseless and anyone can give them a **coup of grace** . Furthermore, their body will soon be affected by the **hungry** and **thirsty** conditions.
 
@@ -4432,19 +3684,21 @@ INTERRUPTION: The spells of this discipline can take effect while the sorcerer i
 ## E Rank 1
 
 ## E Range Distant
-- Duration: One hour per Power Level This spell allows you to avoid dreaming for yourself in order to observe the dream of another character in your sleeping mind. These dreams can contain useful information or be very random. The Gamemaster must determine this, but as a reference she can roll a die: the higher the result, the more useful information it will reveal about the person and the less it will be based on inconsequential events in the person's daily life. Each hour of observation will reveal a detail, transcendent or not, and it will be a different dream, although it can be very confusing. Its clarity can also be determined by rolling a die, so that the Gamemaster knows how to describe the dream.
+
+- DURATION: One hour per Power Level This spell allows you to avoid dreaming for yourself in order to observe the dream of another character in your sleeping mind. These dreams can contain useful information or be very random. The Gamemaster must determine this, but as a reference she can roll a die: the higher the result, the more useful information it will reveal about the person and the less it will be based on inconsequential events in the person's daily life. Each hour of observation will reveal a detail, transcendent or not, and it will be a different dream, although it can be very confusing. Its clarity can also be determined by rolling a die, so that the Gamemaster knows how to describe the dream.
 
 ## Intertwine Dreams
-- Rank: 1
-- Range: Distant
 
-- Duration: Immediate
+- RANK: 1
+- RANGE: Distant
+- DURATION: Immediate
 
 ## Night Serenity
 
 ## E Rank 1
-- Range: Distant
-- Duration: Immediate
+
+- RANGE: Distant
+- DURATION: Immediate
 
 You are able to make the dreams of sleepers mix to form one. In this way, everyone will have the same dream with elements from the unconscious of others, a narrative combination that the Gamemaster must decide according to the circumstances. You can affect one mind per Power Level. You can use Intertwine Dreams on yourself. If one of the characters suffers a nightmare, the Gamemaster must decide how the intertwined dreams affect each other.
 
@@ -4454,16 +3708,16 @@ You can calm a character's mind to make it easier for them to fall asleep and st
 
 ## E Rank 1
 
-- Range: Ilimitado
-- Duration: One turn (15 minutes)
+- RANGE: Ilimitado
+- DURATION: One turn (15 minutes)
 
 You can send a message to another character's dream. This message can be sonorous or visual, as you prefer, but is limited to one phrase or one image per Power Level. Being mixed in a dream, for the recipient it may be confusing or not very credible and it is not certain that it will be transmitted as your intention.
 
 ## Nightmares
 
-- Rank: 2
-- Range: Distant
-- Duration: One turn (15 minutes)
+- RANK: 2
+- RANGE: Distant
+- DURATION: One turn (15 minutes)
 
 With this magic you are able to alter dreams to turn them into nightmares. You can affect as many minds as the Power Level.
 
@@ -4473,8 +3727,8 @@ To do this, you make a single **manipulation** roll that is compared to each vic
 
 ## E Rank 2
 
-- Range: Distant
-- Duration: One turn (15 minutes)
+- RANGE: Distant
+- DURATION: One turn (15 minutes)
 
 The power of this spell allows you to project your will into another character's dream. In other words, you appear in their sleeping mind, you can talk to them and also interact with the elements of their dream, although you can't do anything that you can't do in the real world.
 
@@ -4486,8 +3740,8 @@ Within other people's dreams you use, for all your rolls, only your Empathy attr
 
 ## E Rank 2
 
-- Range: Distant
-- Duration: Immediate
+- RANGE: Distant
+- DURATION: Immediate
 
 You cause another character's dream to seem so real that when they wake up they will think it really happened,
 
@@ -4521,51 +3775,53 @@ even if they are not sure when, how, or why. They won't even question it. This s
 
 ## Dream Watcher
 
-- Rank: 2
-- Range: Near
+- RANK: 2
+- RANGE: Near
 
 combination with this spell you will not be able to know how turns out the interaction of the original dream and what you have modified.
 
-- Duration: One hour per Power Level
+- DURATION: One hour per Power Level
 
 You can project a small part of your mind as an image of yourself that appears next to you, impossible to perceive or detect for any character who cannot see spirits or similar supernatural elements, such as magic itself.
 
 Your watcher cannot move more than a few meters away, but remains alert while you sleep and will warn you if there is danger or anything else that seems relevant to you. You do not need to wake up to know what your projection is perceiving and you can decide to wake up at will. The only rolls you can make are those for Wits and Empathy and their respective skills.
 
 ## Revelation
-- Rank: 3
-- Range: Personal
-- Duration: Una hora
+
+- RANK: 3
+- RANGE: Personal
+- DURATION: Una hora
 
 You immerse yourself in a deep and very vivid dream that, through this magic, allows you to review the last day and realize something that you may have missed. To achieve this you must pass an **insight** roll with a bonus equal to the Power Level. The Gamemaster will tell you how the hidden truth is revealed to you during sleep.
 
 ## Destroy Nightmares
-- Rank: 3
 
-- Range: Distant
-- Duration: Immediate
+- RANK: 3
+- RANGE: Distant
+- DURATION: Immediate
 
 ## Somnambulism
-- Rank: 3
-- Range: Distant
-- Duration: Immediate
+
+- RANK: 3
+- RANGE: Distant
+- DURATION: Immediate
 
 You affect the mind of a character (which can be you) to eliminate one of their recurring nightmares, including those induced by any magical effect or mishap. In this way, what tormented them when they slept will no longer be able to sneak into their dreams. The effect is automatic in the case of trauma or magic mishaps, but in the case of rivaling another spell, the Power Level must be equal to or higher than its level, although you can still mitigate it.
 
 ## Mold Dream
 
 You have a character get up in their sleep to do a particular thing. They can orient theirself in a basic way while moving through familiar places, but anyone may notice something strange about them, mainly due to the fact that they walk with their eyes closed and do not respond to stimuli. The body moves in a very clumsy manner: all its actions are performed with a maximum number of dice equal to the Power Level, although it takes damage to its attributes normally. They cannot force rolls and will not wake up unless they suffer damage. After one turn (15 minutes) they will return to their resting place.
-- Rank: 3
-- Range: Distant
-
-- Duration: One turn (15 minutes)
+- RANK: 3
+- RANGE: Distant
+- DURATION: One turn (15 minutes)
 
 ## Dream Master
-- Rank: 4
+
+- RANK: 4
 
 You focus on a character's dream to modify as many aspects of it as the Power Level. You can make people appear who are mutual acquaintances, create characters from scratch that serve a purpose, appear elements in the environment such as buildings and statues and even make them move. Unless you use Observe Dream or Dream Projection in
-- Range: Distant
-- Duration: Five minutes per Power Level You enter a character's dream and manipulate it at will. This spell is an improvement on Dream Projection, where you can literally grab the elements of the dream and
+- RANGE: Distant
+- DURATION: Five minutes per Power Level You enter a character's dream and manipulate it at will. This spell is an improvement on Dream Projection, where you can literally grab the elements of the dream and
 
 reshape them as if they were clay. However, for each one you need to pass a **crafting** , **sleight of hand** , **manipulation** , or **performance** check. The skill you choose determines the way and focus with which you take control of the dream. Each modification is a slow action. If you fail a roll, that item is impossible for you to change for some reason.
 
@@ -4574,30 +3830,34 @@ Both the character and their mind (and their entire dream) may respond to your i
 Within dreams, characters use all their skills normally to interact with the dream world, but they only have Wits (instead of Agility) and Empathy (instead of Strength). They can suffer damage from pushing rolls as well as from any element of the dream itself, although they can leave as soon as they receive the damage, like waking up from a nightmare.
 
 ## Summon Mara
-- Rank: 4
-- Range: Distant
-- Duration: Una hora
+
+- RANK: 4
+- RANGE: Distant
+- DURATION: Una hora
 
 Perhaps this is the spell for which oneiromancers are best known and feared, since through this magic they attract a Mara to torment a character. The monster will act on its own once it has been released into the world from the shadows of dreams and will not cease its destructive efforts until it is destroyed. Consult the characteristics of the Maras in the Book of Beasts.
 
 ## Premonition
-- Rank: 4
-- Range: Personal
-- Duration: One hour
+
+- RANK: 4
+- RANGE: Personal
+- DURATION: One hour
 
 ## Dream Inspiration
-- Rank: 5
-- Range: Personal
-- Duration: Quarter day
+
+- RANK: 5
+- RANGE: Personal
+- DURATION: Quarter day
 
 You connect your sleeping mind with time and space. Through magic, your dreams will reveal to you an event that will happen days in advance equal to the Power Level. The better or worse what will happen, the greater impact it will have on the shape of the dream. The Gamemaster can be as clear or indirect as she wishes when elaborating the dream and how the premonition is revealed to you, but when the event happens it should be easy to associate what happened with the elements of the dream. Nothing prevents you from using this spell more than once in the period of days remaining until your vision is fulfilled, but the Gamemaster is free to make everything associated with that fact, even if the Power Level is less than the number of days left. Once your dreams are connected to a specific premonition, your dream world will tend to reflect that connection and the event to come.
 
 The magic of this spell allows you to be productive even while you sleep, feeding your productive or creative capacity with the wonderful restorative energy of dreams. You become a particularly useful somnambulist, gaining a bonus equal to the Power Level in a particular skill, depending on what you set out to do when you go to sleep. The clearest example is **crafting** to forge a sword, but you could also write a piece of music using your knowledge of **performance** or make a map as precise as it is beautiful with **lore** ; It even works for writing an especially threatening or inspiring letter with **manipulation** . You can only use this spell on Wits or Empathy skills. You must have the necessary elements to create what you propose or otherwise the inspiration will be useless.
 
 ## Travel in Dreams
-- Rank: 4
-- Range: Ilimitado
-- Duration: One minute per Power Level You project your mind as an image of yourself that appears anywhere in the world you have previously visited, impossible to detect for any character who cannot see spirits or similar supernatural elements, such as magic itself.
+
+- RANK: 4
+- RANGE: Ilimitado
+- DURATION: One minute per Power Level You project your mind as an image of yourself that appears anywhere in the world you have previously visited, impossible to detect for any character who cannot see spirits or similar supernatural elements, such as magic itself.
 
 If you wish, you can communicate with the people there, speaking with a faint ghostly echo. If you choose your words and delivery well, you could make terrifying attacks with as many dice as the Power Level. For you, the whole scene will seem like a dream, although you know that what happens is real.
 
@@ -4607,15 +3867,15 @@ The only rolls you can make are Wits and Empathy rolls and their respective skil
 
 ## Dreamworld
 
-- Rank: 5
-- Range: Ilimitado
-- Duration: One turn (15 minutes)
+- RANK: 5
+- RANGE: Ilimitado
+- DURATION: One turn (15 minutes)
 
 ## Dream Miracle
-- Rank: 6
 
-- Range: Distant
-- Duration: Quarter day
+- RANK: 6
+- RANGE: Distant
+- DURATION: Quarter day
 
 You create a closed plane of consciousness where only the dream projections of the characters you want can enter. You can summon a sleeper by Power Level. No one is forced to enter your dream world and can leave at any time just by wishing to. Inside there they can communicate normally and even express themselves with their imagination, creating images or elements freely (they are in a dream, after all). If you need more time, you can extend the duration by an extra turn by spending a Willpower Point.
 
@@ -4627,9 +3887,9 @@ In theory everything is possible, but it requires different Power Levels that ar
 
 Miracles always have a positive focus, so causing the death of another person, even to save others, would not be possible.
 
-- Rank: 5
-- Range: Distant
-- Duration: One turn (15 minutes)
+- RANK: 5
+- RANGE: Distant
+- DURATION: One turn (15 minutes)
 
 With this spell you trap the mind of a sleeper, who cannot wake up while being tortured with nightmares from which they are unable to escape.
 
@@ -4641,9 +3901,9 @@ The Destroy Nightmares spell is effective in undoing these effects. On the other
 
 ## Bring from Dreams
 
-- Rank: 6
-- Range: Personal
-- Duration: Quarter day
+- RANK: 6
+- RANGE: Personal
+- DURATION: Quarter day
 
 You are able to materialize with you, physically in the real world, anything you visualize in your dreams, even a person or creature. In any case, what you bring from your dreams is a copy of the original or a complete product of your imagination. The Gamemaster must determine what is possible and what is not according to what you have dreamed of and the Power Level achieved.
 
@@ -4693,9 +3953,9 @@ Over the centuries some Ironbrow have had the permission or the audacity to teac
 
 ## Magnetize
 
-- Rank: 1
-- Range: Near
-- Duration: One turn per Power Level
+- RANK: 1
+- RANGE: Near
+- DURATION: One turn per Power Level
 
 ## Iron in Objects
 
@@ -4710,39 +3970,41 @@ Likewise, if "metal" is mentioned, only those metals that contain iron are inclu
 ## Track Iron
 
 ## E Rank 1
-- Range: Distant
-- Duration: Quarter Day per Power Level You can magically charge one of your iron objects to point the direction of a character carrying iron objects, like a compass. The trail does not last more than a full day and is cut when crossing water.
+
+- RANGE: Distant
+- DURATION: Quarter Day per Power Level You can magically charge one of your iron objects to point the direction of a character carrying iron objects, like a compass. The trail does not last more than a full day and is cut when crossing water.
 
 To cast this spell you have two options: choose a specific character with their name or face in your mind or choose any of the traces of iron that you perceive at the time of activating this effect, although you will not know who you are following (and maybe you don't even care).
 
 ## Reparation
 
-- Rank: 1
-- Range: Arm's Length
-- Duration: One turn per Power Level
+- RANK: 1
+- RANGE: Arm's Length
+- DURATION: One turn per Power Level
 
 The object will move according to the movement you have achieved with the Power Level as if it were a character in a running action. If you don't even reach level 1, it means you can't move the object.
 
 By manipulating the iron of an object that has been broken, you can put its pieces back together and make them stay together for a limited time. You restore as many points as the Power Level: in the case of a weapon its Gear Bonus, and in the case of an armor its Armor Rating. When the effect comes to an end, the pieces separate again. The item will be, at best, as broken as it was before the spell was used.
 
 ## Feel the Iron
-- Rank: 1
 
-- Range: Short
-- Duration: One minute per Power Level
+- RANK: 1
+- RANGE: Short
+- DURATION: One minute per Power Level
 
 Your iron object vibrates, magically transmitting to you the location of iron pieces or objects around you, even though you cannot differentiate them except by their size, speed, and movement patterns.
 
 ## Iron Fingers
-- Rank: 2
-- Range: Near
-- Duration: One minute per Power Level Through this spell you gain precise control over iron objects that allows you to manipulate them from a distance as if you had your hand on them. This magic has a variety of applications that are very difficult to determine, but primarily it gives you a bonus to your **sleight of hand** rolls equal to the Power Level to apply to small objects made of iron, such as chains, locks, and shackles, without the need for keys or lockpicks. Another possibility is to stop a weapon in place, preventing the character from being able to draw or brandish it freely; In cases like these, opposing your control requires a **might** roll with a penalty equal to the Power Level (which does not count as an action).
+
+- RANK: 2
+- RANGE: Near
+- DURATION: One minute per Power Level Through this spell you gain precise control over iron objects that allows you to manipulate them from a distance as if you had your hand on them. This magic has a variety of applications that are very difficult to determine, but primarily it gives you a bonus to your **sleight of hand** rolls equal to the Power Level to apply to small objects made of iron, such as chains, locks, and shackles, without the need for keys or lockpicks. Another possibility is to stop a weapon in place, preventing the character from being able to draw or brandish it freely; In cases like these, opposing your control requires a **might** roll with a penalty equal to the Power Level (which does not count as an action).
 
 ## Attract Object
-- Rank: 2
 
-- Range: Short
-- Duration: Immediate
+- RANK: 2
+- RANGE: Short
+- DURATION: Immediate
 
 This spell allows you to attract an object containing iron toward your own object, as if you had a powerful magnet. Power Level determines movement speed, but decreases by 1 for each weight class: **light** -1, **normal** -2, and **heavy** -3.
 
@@ -4777,32 +4039,34 @@ If you do this with armor or other clothing containing iron, you draw the charac
 | Immortal Iron | 6 |
 
 ## Ferrous Shot
-- Rank: 2
-- Range: Short
-- Duration: Immediate
+
+- RANK: 2
+- RANGE: Short
+- DURATION: Immediate
 
 You turn an iron object into a lethal projectile that you throw from your hands at the speed of an arrow. You gain a bonus to **marksmanship** equal to the Power Level. The object becomes a throwing weapon with Gear Bonus +0 and damage 1; The Gamemaster must determine the type of damage.
 
 The objects that are already weapons lose their features since they are not being used as they were designed to be effective. For example, a sword affected by this spell simply does not have the same potential nor will it cause the same damage as if swung normally, it is just being thrown at high speed. Even an arrow does not have the same direction and penetration capacity as if shot from a bow.
 
 ## Magnetic Push
-- Rank: 3
-- Range: Short
-- Duration: Immediate
+
+- RANK: 3
+- RANGE: Short
+- DURATION: Immediate
 
 You emit a high-power magnetic wave that pushes iron objects around you. The characters you choose (as long as they have items with iron) must pass a **might** check with a penalty equal to the Power Level or be thrown 1D6 meters backwards and fall to the ground.
 
 ## Magnetic Shackles
-- Rank: 3
+
+- RANK: 3
 
 ## Magnetic Deflection
 
-- Rank: 2
-- Range: Near
-- Duration: One turn (15 minutes)
-
-- Range: Near
-- Duration: One round per Power Level
+- RANK: 2
+- RANGE: Near
+- DURATION: One turn (15 minutes)
+- RANGE: Near
+- DURATION: One round per Power Level
 
 You charge your iron equipment with a magical magnetic field that allows you to deflect any iron-containing object headed your way. All attacks against you lose one success if they are made with melee weapons or projectiles that have iron in any of their parts.
 
@@ -4813,15 +4077,16 @@ The victim must pass a **might** check with a penalty equal to the Power Level. 
 moment on and for the duration of the spell, they can repeat the **might** check each round to free theirself.
 
 ## Magnetic Impulse
-- Rank: 3, POWER WORD
-- Range: Personal
-- Duration: Immediate
+
+- RANK: 3, POWER WORD
+- RANGE: Personal
+- DURATION: Immediate
 
 ## Repel Metal
-- Rank: 3, POWER WORD
-- Range: Personal
 
-- Duration: Immediate
+- RANK: 3, POWER WORD
+- RANGE: Personal
+- DURATION: Immediate
 
 Through this magic you apply a magnetic charge to a piece of your armor that will now be able to violently repel a weapon containing iron with which someone is attacking you. The piece gains the **parrying** feature and your **parry** action receives a bonus equal to the Power Level. You cast this spell as a reaction along with your defensive action.
 
@@ -4832,9 +4097,10 @@ You magnetically link the iron weapon in your hand with an iron object on your e
 You cast this spell as a reaction to your attack and it does not consume your actions.
 
 ## Alter the Blood
-- Rank: 4
-- Range: Near
-- Duration: Immediate
+
+- RANK: 4
+- RANGE: Near
+- DURATION: Immediate
 
 With your great knowledge of this discipline you are able to manipulate the iron within the blood. You do it on a physical level, not in its essence like Blood Magic, but you can cause effects just as impressive.
 
@@ -4845,15 +4111,17 @@ If a character has suffered damage to Strength, you can cause them to bleed, cau
 Another option is to control their blood iron to cause anemia. This will leave the character with the **hungry** condition for a number of days equal to the Power Level, and they will not be able to remove the condition by eating. Finally, the most effective and brutal use of this spell is to slow down a character's blood flow to the point of almost stopping it, in addition to holding them static in place without their
 
 ## Iron Defense
-- Rank: 4
-- Range: Arm's Length
-- Duration: One round per Power Level You cause iron objects (preferably weapons) to levitate around you, moving them with telekinesis to block enemy attacks. You receive one free **parry** action per Power Level, which you can freely manage for the duration of the spell. These items count as a shield.
+
+- RANK: 4
+- RANGE: Arm's Length
+- DURATION: One round per Power Level You cause iron objects (preferably weapons) to levitate around you, moving them with telekinesis to block enemy attacks. You receive one free **parry** action per Power Level, which you can freely manage for the duration of the spell. These items count as a shield.
 
 ## Ferrous Structure
 
 ## E Rank 4
-- Range: Near
-- Duration: Immediate
+
+- RANGE: Near
+- DURATION: Immediate
 
 You are able to levitate iron pieces and objects so that they form all kinds of simple structures that you visualize in your mind, such as tubes, stairs or bridges. You can also use this magic to repair part of a structure.
 
@@ -4862,9 +4130,10 @@ The Power Level determines the speed at which what you are imagining is formed. 
 The metal moves and remains held together by the magnetic power of the spell. You must remain focused for the structure to maintain its shape, which consumes your slow action each turn. The effect ends when you decide to stop focusing or if you take any points of damage.
 
 ## Magnetic Telekinesis
-- Rank: 4 muscles being able to move. This causes them tremendous pain and terror. Each round for the duration of the effect, the victim must pass a **might** check with a penalty equal to the Power Level. If they fail, they are disabled as if they had lost against a **grapple** action and suffers 1 point of damage to Wits because of fear. You must remain focused for the effect to continue working, and therefore you have to sacrifice your slow action on all your turns. If you suffer any point of damage the effect ends.
-- Range: Short
-- Duration: One minute per Power Level You are able to move a metallic object at will at a speed similar to that you would run, although while you do so you cannot perform any other action and if you take damage the effect ends.
+
+- RANK: 4 muscles being able to move. This causes them tremendous pain and terror. Each round for the duration of the effect, the victim must pass a **might** check with a penalty equal to the Power Level. If they fail, they are disabled as if they had lost against a **grapple** action and suffers 1 point of damage to Wits because of fear. You must remain focused for the effect to continue working, and therefore you have to sacrifice your slow action on all your turns. If you suffer any point of damage the effect ends.
+- RANGE: Short
+- DURATION: One minute per Power Level You are able to move a metallic object at will at a speed similar to that you would run, although while you do so you cannot perform any other action and if you take damage the effect ends.
 
 With this spell you can knock the weapon out of another character's hand, or attempt to move or knock them down
 
@@ -4875,18 +4144,20 @@ You can divide the force of Magnetic Telekinesis into different objects (affecti
 By the same principle, you can levitate characters by moving their metal equipment or transporting multiple people on a metal surface. The Power Level needed and the speed achieved must be determined by the Gamemaster.
 
 ## Ferrous Strength
-- Rank: 5
-- Range: Personal
-- Duration: One turn (15 minutes)
+
+- RANK: 5
+- RANGE: Personal
+- DURATION: One turn (15 minutes)
 
 With your magic you are able to move the iron in your weapons and pieces of armor so that they propel you with incredible force. In a similar way, you strengthen your body and the metal that covers you with magnetic fields that increase your resistance to any aggression or demands from the environment. Your Strength points are increased by an amount equal to twice your Power Level.
 
 These extra points are not a shield. When you cast this spell, you multiply by three the damage to Strength you already suffer. When the spell ends, any Strength damage you have is divided by three (rounded down) and applied to your normal Strength points.
 
 ## Magnetic Prison
-- Rank: 5
-- Range: Short
-- Duration: Varies
+
+- RANK: 5
+- RANGE: Short
+- DURATION: Varies
 
 > You focus your magic on a point at **short** maximum distance. All the characters you choose within range, who have weapons or pieces of armor with iron, are immobilized by the power of magnetism and receive a penalty equal to double the Power Level to all their rolls, the physical ones for obvious reasons but also the mentally due to the pressure and anxiety that the situation causes them.
 
@@ -4903,24 +4174,26 @@ equal to the Power Level. Ranged attacks are intercepted by metal automatically,
 Iron units can serve the purpose of this spell, but the most practical thing is to take all the secondary weapons that you and your allies carry. You can disarm your enemies to take their weapons for the whirlpool if they fail a **might** roll. Any tied piece, whether of armor or a sheathed weapon, will be attracted but will not leave its place.
 
 ## Ceremonial Armor
-- Rank: 6, RITUAL
-- Range: Arm's Length
-- Duration: Quarter Day per Power Level You charge an armor with magnetic magic, which becomes increasingly resistant as you complete the ritual. When it is finished, its different pieces are united by an unbeatable force and any small damage they may suffer is instantly repaired by the magic that molds the iron to its original and perfect shape.
+
+- RANK: 6, RITUAL
+- RANGE: Arm's Length
+- DURATION: Quarter Day per Power Level You charge an armor with magnetic magic, which becomes increasingly resistant as you complete the ritual. When it is finished, its different pieces are united by an unbeatable force and any small damage they may suffer is instantly repaired by the magic that molds the iron to its original and perfect shape.
 
 As it is more resistant and its parts are perfectly joined, its Armor Rating is doubled to neutralize any attack, no matter how precise it may be. Results of 1 do not degrade it as it is invulnerable. Only magic capable of shaping metal could harm it.
 
 The magic of this ritual can only be used on plate armor or similar, those that can cover the entire body. The best case scenario would be an armor forged specifically for this ritual.
 
 ## Immortal Iron
-- Rank: 6, RITUAL
+
+- RANK: 6, RITUAL
 
 ## Iron Whirlpool
-- Range: Arm's Length
-- Duration: Permanent
 
-- Rank: 5
-- Range: Short
-- Duration: One round per Power Level
+- RANGE: Arm's Length
+- DURATION: Permanent
+- RANK: 5
+- RANGE: Short
+- DURATION: One round per Power Level
 
 You gather all the free metal pieces around you and make them move quickly in a whirlpool. All characters take a penalty to Agility equal to the Power Level, plus 1 point of damage to Strength each turn they do not exceed an **endurance** roll plus the Armor Rating with a penalty This powerful magic, coming from the god Rust, fills with its divine energy a weapon, pickaxe, spike or iron rod that must be stuck into the chest of a living being. The pierced character becomes immortal, as if they were an unstoppable living dead, with the temper that comes from the essence of iron. They regenerate one point of all their stats at the start of each turn, even if they have been Broken, and
 
