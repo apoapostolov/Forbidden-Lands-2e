@@ -258,8 +258,8 @@ def choose_path(char: Character, cycle_num: int) -> str:
 
 
 def resolve_turn(char: Character, path_name: str, turn_num: int,
-                 cycle_repetition: int) -> None:
-    """Resolve one turn within a cycle."""
+                 cycle_repetition: int) -> bool:
+    """Resolve one turn within a cycle. Returns True on success, False on failure."""
     path = ALL_PATHS[path_name]
     char.total_turns_resolved += 1
 
@@ -285,17 +285,18 @@ def resolve_turn(char: Character, path_name: str, turn_num: int,
         resolve_event_extras(char, turn_num)
 
         # ~12% chance of pride/dark secret tag on events
-        if not char.pride_claimed and random.random() < 0.06:
+        if not char.pride_claimed and random.random() < 0.08:
             char.pride_claimed = True
         if not char.dark_secret_claimed and random.random() < 0.06:
             char.dark_secret_claimed = True
 
+        return True
     else:
         # FAILURE: mark 1 skill from hard-lesson list via mishap
         char.total_failures += 1
         chosen_skill = random.choice(path["hard_lesson"])
         char.skill_marks[chosen_skill] += 1
-        char.wear += 1
+        # Wear is NOT added here — tracked by caller via consecutive failures
 
         # Mishap extras
         resolve_mishap_extras(char)
@@ -303,6 +304,8 @@ def resolve_turn(char: Character, path_name: str, turn_num: int,
         # Dark secret tags more common on mishaps
         if not char.dark_secret_claimed and random.random() < 0.10:
             char.dark_secret_claimed = True
+
+        return False
 
 
 def pick_event_skill(char: Character, path_name: str, normal_skills: list) -> str:
@@ -411,6 +414,12 @@ def simulate_character(age: str) -> Character:
             cycles_in_path = 1
         char.paths_taken.append(path)
 
+        # Profession talent seed: first cycle grants 1 mark toward a profession talent
+        if cycle == 0:
+            talents = PATH_TALENT_GRANTS.get(path, [])
+            if talents:
+                char.talent_marks[talents[0]] += 1
+
         # Determine turns to resolve
         if cycle == 0:
             # First cycle: childhood covers turns 1-2, resolve 3-4
@@ -418,8 +427,15 @@ def simulate_character(age: str) -> Character:
         else:
             turns = [1, 2, 3, 4]
 
+        last_turn_failed = False  # Track consecutive failures within this cycle
         for turn in turns:
-            resolve_turn(char, path, turn, cycles_in_path)
+            success = resolve_turn(char, path, turn, cycles_in_path)
+            if not success:
+                if last_turn_failed:
+                    char.wear += 1  # Consecutive failure adds Wear
+                last_turn_failed = True
+            else:
+                last_turn_failed = False
 
         # Advancement roll
         stayed = resolve_advancement(char, path, cycles_in_path)

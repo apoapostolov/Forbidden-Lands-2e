@@ -1,10 +1,12 @@
 <!-- markdownlint-disable MD013 -->
 
+# Lifepaths of the Forbidden Lands
+
 ## LIFE GENERATOR
 
 This section builds your adventurer through years of work, hardship, ruin, and hard-won skill before the game begins. Instead of distributing skill points from a list, you follow a chain of life cycles — each one a stretch of duty, weather, luck, or fear — that leave your character scarred, burdened, and rooted in the Forbidden Lands.
 
-The life generator is slower than the standard method described earlier in this chapter. Use it when your group wants more history, more hooks, and a deeper sense of the road that brought each adventurer to the table. It does not change the rest of character creation unless the text below says otherwise.
+The life generator is slower than the standard method described in Chapter 2. Use it when your group wants more history, more hooks, and a deeper sense of the road that brought each adventurer to the table. It does not change the rest of character creation unless the text below says otherwise.
 
 ### USE THIS METHOD
 
@@ -51,7 +53,7 @@ Even in Full Guided mode, you never pick freely from the whole table. Roll two r
 
 ### KIN AND HOME
 
-Choose your kin as described earlier in this chapter, or roll on the table below if your group wants the dice to decide.
+Choose your kin as described in Chapter 2, or roll on the table below if your group wants the dice to decide.
 
 | **D66** | **Kin**           |
 | ------- | ----------------- |
@@ -211,7 +213,7 @@ Childhood points you somewhere. It does not decide where you end up.
 
 ### CHOOSE AGE
 
-Choose Young, Adult, or Old as described earlier in this chapter. Your age determines three things: how many attribute points you spend, how many general talents you choose, and how many life cycles you resolve.
+Choose Young, Adult, or Old as described in Chapter 2. Your age determines three things: how many attribute points you spend, how many general talents you choose, and how many life cycles you resolve.
 
 A **cycle** is one chapter of your character's past — a stretch of years spent in a single way of life. A cycle as a Fighter means years under arms. A cycle as a Peddler means years on the trade roads. Each cycle contains four **turns**, and each turn is one beat of that life: an arrival, a hardship, a rise, or a reckoning. You make one turn test per turn, so each turn produces exactly one skill mark.
 
@@ -1483,7 +1485,7 @@ If a character dies before resolving a Life Quest, the question passes to the ne
 
 ### CHOOSE PROFESSION
 
-The life path does not replace the professions in this chapter. It leads into them.
+The life path does not replace the professions in Chapter 2. It leads into them.
 
 Use these rules:
 
@@ -1492,7 +1494,7 @@ Use these rules:
 - If you completed only one profession path across your whole history, you must use that profession.
 - If no profession path was ever completed, choose the profession tied to the skill family in which you hold the most ranks.
 
-Once your profession is set, continue with the profession rules already in this chapter:
+Once your profession is set, continue with the profession rules in Chapter 2:
 
 - Choose your profession talent. Mark 1 tally toward your chosen profession talent. This is your **profession talent seed** — the life you lived before play earns you that first mark. If advancement benefits already granted marks in the same talent, add the seed mark to that total. Talent marks from the life generator convert to ranks using the same progression table as skills. If sustained focus pushed a talent to Rank 3, keep it — the narrowing taxes and lost breadth already paid for that concentration.
 - Choose your general talents by age.
@@ -1502,7 +1504,7 @@ Once your profession is set, continue with the profession rules already in this 
 - Use the gear and silver from the life generator (plus the gear floor) instead of adding the profession's ordinary starting gear and silver on top.
 - Your home region determines your home settlement. You start with Reputation 6 and Standing +1 there, modified by any Standing changes gained during the life generator.
 
-Languages, Willpower, appearance, and name follow the rest of this chapter without change.
+Languages, Willpower, appearance, and name follow the rest of Chapter 2 without change.
 
 The contacts, rivals, enemies, rumors, and scars accumulated during the life generator are not points to spend. They are the world's grip on your character. The GM should treat them as live threads — people who might appear, debts that might come due, places that might matter. The more fiction the generator built, the more the world already knows your name.
 

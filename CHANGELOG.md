@@ -7,7 +7,29 @@ All notable changes to the Forbidden Lands Corebook will be documented in this f
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.0.5] - 2026-04-09
+## [1.0.5] - 2026-04-10
+
+### Added
+
+- Added Appendix C: Lifepaths of the Forbidden Lands (`13-lifepaths-of-the-forbidden-lands.md`) — a full cycle-based life path generator that replaces the simple backstory tables with a detailed character history system. Produces characters of the same mechanical power as the standard method, with deeper fiction, scars, contacts, and old debts.
+  - **Life generator framework.** Cycle-and-turn structure where each cycle represents years in a single way of life. Young characters resolve 2 cycles (6 turns), Adults 3 (10 turns), Old 4 (14 turns). Each turn produces exactly one skill mark via a pass/fail turn test.
+  - **Three play modes.** Full Random (roll everything), Guided Random (choose paths, roll events), and Full Guided (choose paths, roll two events per turn, pick one).
+  - **Childhood foundations.** Ten kin-specific tables (Alderlander, Ailander, Aslene, Half-Elf, Halfling, Dwarf, Elf, Goblin, Orc, Wolfkin) each with six backgrounds granting 2 starting skills, favored attributes, a narrative hook, and a profession affinity.
+  - **Eight profession paths.** Druid, Fighter, Hunter, Minstrel, Peddler, Rider, Rogue, and Sorcerer — each with a turn test skill, normal and hard-lesson skill lists, four turn-event tables (one per turn), a mishap table, a mustering-out table, and advancement benefits.
+  - **Four crisis paths.** Captive, Drifter, Laborer, and Outcast — entered through the forced-departure table when a character fails advancement and has no voluntary options. Same full table structure as profession paths but representing years of hardship rather than chosen work.
+  - **Skill ranks and marks.** Marks-to-ranks progression table (1→R1, 2→R2, 3→R3, 5→R4, 7→R5) shared with talent advancement. Prevents runaway specialization while rewarding sustained focus.
+  - **Thresholds.** Entry gates for certain profession paths requiring minimum skill ranks (e.g., Sorcerer requires Lore 2, Fighter requires Melee 1). Crisis paths have no thresholds.
+  - **Advancement and departure.** End-of-cycle roll determining whether the character stays on the current path, departs voluntarily, or is forced out. Forced departure triggers the crisis path system.
+  - **Narrowing tax.** Repeating a path applies -1 to turn tests and +1 to mishaps. Mechanically discourages grinding a single path while allowing dedicated careers.
+  - **Wear system.** Tracks consecutive failures within the same cycle. Wear tiers (0–1, 2–3, 4+) weight the character's unfinished business — higher Wear means heavier fictional debts.
+  - **Pride and Dark Secret tags.** Certain events carry "This may be your Pride" or "This may be your Dark Secret" tags, giving players the option to claim them during generation rather than choosing from a list.
+  - **Unfinished business.** Post-generation narrative hook framed as an unanswered question. Short Errands (10 XP) resolve in one to three sessions; Life Quests (25 XP) may span a campaign. Wear determines available weight.
+  - **Starting gear floor.** Ensures no character enters play unarmed and broke. Fills gaps in weapon, armor (Fighter: studded leather), mount (Rider), instrument (Minstrel), silver, waterskin, and backpack based on chosen profession's standard starting gear.
+  - **Profession integration.** Qualification rules route the character's final path into a Chapter 2 profession. Profession talent seed grants 1 mark in the chosen profession talent. Spell access for Sorcerers and Druids follows Chapter 7 rules at the granted rank.
+  - **Reputation and Standing.** Characters start with Reputation 6 and Standing +1 in their home settlement, modified by any Standing changes gained during the life generator.
+  - **Worked examples.** Two complete walkthroughs — Jorrh (Adult human Fighter via Drifter crisis) and Torvin (Old Dwarf Peddler via Captive crisis) — demonstrating full generation from childhood through profession selection.
+  - **How Did You Meet? table.** Shared table for linking characters at the end of generation.
+- Added cross-reference in Chapter 2 BACKSTORIES section directing players to Appendix C for the advanced life path system.
 
 ### Changed
 

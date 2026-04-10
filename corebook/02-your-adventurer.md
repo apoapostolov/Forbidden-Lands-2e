@@ -716,6 +716,8 @@ With the help of the following tables you can easily and quickly roll up an adve
 
 If you do, these rules fully replace the normal character generation rules, except when indicated otherwise below.
 
+> **Advanced Lifepaths.** If your group wants to spend more time at the table shaping each character's past — years of hardship, failed starts, scars, contacts, and old debts — see Appendix C: *Lifepaths of the Forbidden Lands.* The life generator there builds a full history through cycles of work, crisis, and hard-won skill before the game begins, and feeds its results back into the professions listed here. Both methods produce characters of the same power; the life generator fills in the road behind them.
+
 | **D66** | **Kin** |
 |---|---|
 | 11–22 | Alderlander Human |
