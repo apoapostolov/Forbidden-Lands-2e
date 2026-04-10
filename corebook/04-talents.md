@@ -835,7 +835,7 @@ You don't need weapons to strike down your enemy.
 
 You are a skilled engineer and can build advanced constructions in your stronghold. Builders now also have a knack for knowing where to search for valuable parts of the land, like a prospector of sorts, and can easily spot the weakest parts of a construction.
 
-- **✦ RANK 1:** You can build advanced functions in your stronghold. See Chapter 8.
+- **✦ RANK 1:** You can build advanced functions in your stronghold. See Chapter 9.
 - **✦ RANK 2:** You get a +1 modification when you build a function in a stronghold.
 - **✦ RANK 3:** You can add a D8 Artifact Die to your roll when you build a function in your stronghold.
 - **✦ RANK 4:** Replace the D8 die with a D10 die. You may supervise two simultaneous constructions. Any constructions you supervise may benefit from your rank as a builder.

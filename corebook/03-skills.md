@@ -123,7 +123,7 @@ To push yourself to the brink of your abilities is risky, but it can also have p
 
 For every 💀 you roll on the Base Dice (Weapon Dice do not count) when you push, you get a Willpower Point (WP) in addition to any damage you suffer. The Willpower Points are required to use your powerful kin talents and profession talents.
 
-You can gain additional Willpower Points from your stronghold (see Chapter 8). Mark your WP on your character sheet. You can never have more than ten (10) WP at any one time.
+You can gain additional Willpower Points from your stronghold (see Chapter 9). Mark your WP on your character sheet. You can never have more than ten (10) WP at any one time.
 
 THE GAMEMASTER can push rolls for NPCs, but she never gains Willpower Points.
 

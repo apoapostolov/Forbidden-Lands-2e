@@ -124,7 +124,7 @@ Raven's Purge is not a linear story and it has no set goal that your adventurers
 
 If your characters make it back from the ancient ruins alive, they will hopefully bring gold and other treasures with them. Eventually, you might feel the need to spend that treasure on something lasting - a _stronghold_ of your own.
 
-Having conquered an old castle or dungeon, your characters can turn it into a stronghold. Using fast and effective rules found in Chapter 8, you can develop your stronghold, adding functions such as a forge, mill, or ramparts. You can also hire NPCs to staff the stronghold when you are out on another adventure. The stronghold is a place to rest between adventures and a safe haven against the beasts that ravage the land. However, the stronghold needs upkeep and it might also invite the attention of others, looking to steal your riches.
+Having conquered an old castle or dungeon, your characters can turn it into a stronghold. Using fast and effective rules found in Chapter 9, you can develop your stronghold, adding functions such as a forge, mill, or ramparts. You can also hire NPCs to staff the stronghold when you are out on another adventure. The stronghold is a place to rest between adventures and a safe haven against the beasts that ravage the land. However, the stronghold needs upkeep and it might also invite the attention of others, looking to steal your riches.
 
 ### RAVENLAND - THE FORBIDDEN LAND
 

@@ -37,7 +37,7 @@ Most of the items in the gear lists can be made using the **crafting** skill.
 
 **TALENTS:** Items are classified as _advanced_ if they require a specific talent to be crafted. This is indicated in the Talent column. If no talent is listed, the item is _simple_ and can be crafted by anyone.
 
-**TOOLS:** Many items require specific tools to be crafted. Such requirements are listed in the Tools column. Some items even require certain functions, such as a _forge_, to be made. Read more about functions in Chapter 8. Functions don’t only exist in strongholds – the adventurers can find them in villages and other locations in the Forbidden Lands as well.
+**TOOLS:** Many items require specific tools to be crafted. Such requirements are listed in the Tools column. Some items even require certain functions, such as a _forge_, to be made. Read more about functions in Chapter 9. Functions don’t only exist in strongholds – the adventurers can find them in villages and other locations in the Forbidden Lands as well.
 
 ### CRAFTING AND LABOR
 
