@@ -111,6 +111,29 @@ If you cannot confidently infer the column structure:
 - label it for review
 - do not fabricate cells
 
+## Utility Script for Simple Flattened Tables
+
+For a narrow class of single-line OCR table collapses, use:
+
+```bash
+python3 scripts/repair_flattened_tables.py path/to/file.md
+python3 scripts/repair_flattened_tables.py path/to/file.md --write
+```
+
+This helper is intentionally conservative.
+
+Good fit:
+
+- one-line tables beginning with `D6`, `D66`, or `3D6`
+- repeated roll ranges in the same line
+- simple two-column output after recovery
+
+Bad fit:
+
+- real matrix tables
+- tables with merged headers
+- tables where row payloads contain many embedded numeric ranges
+
 ## When a Bullet List Is Better
 
 Use bullets instead of a markdown table when:

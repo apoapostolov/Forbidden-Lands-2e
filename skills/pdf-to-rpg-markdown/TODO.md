@@ -17,21 +17,30 @@
 ## Phase 3: Script Capability Upgrades
 
 - [x] Extend the converter pipeline so it can emit a structured OCR artifact report alongside `.raw.md` and cleaned markdown.
-- [ ] Add optional document profiles tuned for common RPG layouts: corebook, supplement, spell compendium, bestiary, lifepath generator.
-- [ ] Add stronger paragraph-rejoin heuristics for dropped initial letters, split all-caps headings, and repeated footer bleed.
-- [ ] Add safer table conversion helpers for common single-line OCR matrix dumps.
-- [ ] Add chapter split helpers that work for non-`Chapter N` section books.
+- [x] Add optional document profiles tuned for common RPG layouts: corebook, supplement, spell compendium, bestiary, lifepath generator.
+- [x] Add stronger paragraph-rejoin heuristics for dropped initial letters, split all-caps headings, and repeated footer bleed.
+- [x] Strengthen page-furniture recognition so repeated short header and footer strings can be inferred from page-sized chunks, not just explicit page-number lines.
+- [x] Add safer table conversion helpers for common single-line OCR matrix dumps.
+- [x] Add chapter split helpers that work for non-`Chapter N` section books.
 
 ## Phase 4: Reference Corpus and Calibration
 
-- [ ] Build a reference set of before-and-after examples from repo documents: towns, spells, battles, legends.
-- [ ] Record common Forbidden Lands-specific OCR errors: kin names, talent paths, discipline names, and recurring layout phrases.
-- [ ] Add a "high-confidence correction list" separate from speculative lore repairs.
-- [ ] Add examples of when not to repair automatically.
+- [x] Build a reference set of before-and-after examples from repo documents: towns, spells, battles, legends.
+- [x] Record common Forbidden Lands-specific OCR errors: kin names, talent paths, discipline names, and recurring layout phrases.
+- [x] Add a "high-confidence correction list" separate from speculative lore repairs.
+- [x] Add examples of when not to repair automatically.
 
 ## Phase 5: Operationalization for Other Agents
 
 - [x] Add an `agents/openai.yaml` entrypoint for invoking the skill cleanly.
-- [ ] Add a standard turn template for agents: diagnose, plan, process, verify, report.
-- [ ] Add a review checklist for human spot-checking after a long OCR cleanup pass.
-- [ ] Add a triage worksheet for deciding whether a document needs automation only, automation plus manual repair, or full manual reconstruction.
+- [x] Add a standard turn template for agents: diagnose, plan, process, verify, report.
+- [x] Add a review checklist for human spot-checking after a long OCR cleanup pass.
+- [x] Add a triage worksheet for deciding whether a document needs automation only, automation plus manual repair, or full manual reconstruction.
+
+## Phase 6: Regression and Advanced Automation
+
+- [ ] Build regression fixtures from actual repo raw and clean pairs so script changes can be checked against known outputs.
+- [ ] Add supplement-specific correction packs for recurring local OCR errors beyond the current high-confidence list.
+- [ ] Add a matrix-table classifier that can route simple one-line tables to automation and complex layouts to manual review.
+- [ ] Add section-splitting presets for common supplement structures such as `Introduction`, `New Rules`, and discipline or appendix headings.
+- [ ] Add an end-to-end processing playbook for long books that combines audit, profile selection, helper scripts, lint, and chapter splitting in one documented loop.

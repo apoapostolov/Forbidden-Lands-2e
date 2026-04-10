@@ -2266,3 +2266,201 @@ Treat **Control** as the settlement’s visible pulse. A quiet Season with stead
 Keep the Season cadence as a story clock, not a ledger. Let the span of three months breathe: there is time for hard labor, slow trade, and quiet feuds to set roots. When a hex develops, describe how the land changes in texture—the furrowed field, the cleared line through the forest, the quarry’s scar and the camp that grows around it. That steady rhythm makes setbacks meaningful and recoveries earned, and it gives your campaign a sense of history written in the landscape rather than in a single roll.
 
 Let territory be a stage for relationships, not just resources. A claimed hex might be marked by banners and argument, while a developed hex is held by habits and loyalties. Settlers argue over grazing, foresters grumble when the road eats their hunting ground, and neighboring clans test the edges of your authority. Give each hex a small identity—a name, a keeper, a grudge—and your players will see their stronghold as a living polity. The rules become a lens for politics, culture, and ambition, which is where the best long-term play grows.
+
+## PROSPECTING AND RESOURCE EXTRACTION
+
+> Iron does not announce itself. Stone and clay show themselves to a trained eye, but ore veins run blind beneath the surface. The old miners of Harga knew the signs — color in a streambed, a certain weight in the soil, the way a hillside sheds water after rain. You must learn the same, or pay someone who already has.
+
+A stronghold devours raw materials. Walls want stone. Roofs want timber. Forges want iron. The land holds all of these — but not in every hex, not in equal measure, and not forever. Before you can build, you must find what the earth is willing to give. Before you can dig, you must know where to put the pick.
+
+This section covers how to discover natural resources in a hex, how to extract them, how fast they run out, and how to move them to where they are needed.
+
+### PROSPECTING
+
+Prospecting is the act of surveying a hex for exploitable natural resources. It is a Quarter Day activity. You must be present in the hex.
+
+**Roll:** SCOUTING (for surface resources: timber, stone, clay, peat, sand) or SURVIVAL (for subsurface resources: iron ore, silver ore, gold, bog iron). Add terrain modifiers from the Prospecting Modifiers table below. A character with the PATHFINDER talent adds +1. A character with the BUILDER talent adds +1 when prospecting for stone or ore.
+
+Each hex may be prospected once per resource category per visit. You cannot roll for iron, fail, and immediately try again. You must leave the hex and return — or spend a full day (two Quarter Days) conducting a deeper survey, which allows a second roll at -1.
+
+Prospecting can be done during a journey. It follows the same Quarter Day rules as HIKE, FORAGE, HUNT, KEEP WATCH, REST, SLEEP, and MAKE CAMP. You cannot hike and prospect in the same Quarter Day — you must remain stationary in the hex. A party that wants to prospect a hex typically arrives by hiking in one Quarter Day, prospects in the second, and rests or camps in the third and fourth. If you are already camped in a hex, prospecting costs only the Quarter Day with no travel penalty.
+
+#### PROSPECTING MODIFIERS
+
+| Terrain     |   Surface Resources | Subsurface Resources |
+| ----------- | ------------------: | -------------------: |
+| Plains      |     +1 (clay, sand) |                   -2 |
+| Forest      |         +2 (timber) |                   -2 |
+| Dark Forest |         +1 (timber) |                   -3 |
+| Hills       |          +1 (stone) |                   +0 |
+| Mountains   |          +2 (stone) |             +1 (ore) |
+| Marshlands  | +1 (peat, bog iron) |                   -1 |
+| Quagmire    |           +0 (peat) |                   -3 |
+| Ruins       | +1 (stone, salvage) |                   -1 |
+| Lake/River  |     +0 (sand, clay) |    -1 (alluvial ore) |
+
+#### PROSPECTING RESULTS
+
+| Successes | Result                                                                                                                                                                                          |
+| --------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|         0 | Nothing found. The hex may still contain resources — you simply failed to find them.                                                                                                            |
+|         1 | **Common deposit found.** The GM reveals one common resource present in the hex (stone, clay, sand, peat, timber — whichever fits the terrain). Roll the deposit die on the Deposit Size table. |
+|         2 | **Significant deposit found.** As above, but the GM may reveal a less common resource (iron ore, bog iron, salt). Roll the deposit die with +1.                                                 |
+|        3+ | **Rich deposit found.** As above, plus the GM may reveal a rare resource (silver ore, gold, gemstone, marble, limestone). Roll the deposit die with +2.                                         |
+
+A hex can contain multiple deposits of different types. Each prospecting roll can reveal at most one. The GM decides which deposits exist based on terrain and setting — the table gives the player's roll a mechanical gateway, but the GM is never forced to place silver in a plains hex because a player rolled three sixes.
+
+A successful prospecting roll for subsurface resources with 2+ successes that reveals iron or silver ore satisfies the MINE function's "minable resource found" prerequisite. A successful prospecting roll for surface resources with 1+ success that reveals stone, clay, sand, or peat satisfies the QUARRY function's resource prerequisite.
+
+### DEPOSIT SIZE
+
+When a deposit is found, roll on this table to determine its scale. The deposit die represents the total extractable material. It is not rolled during extraction — it is **degraded** over time by exploitation (see Depletion).
+
+| D6 + Modifier | Deposit Size                                                                                          | Deposit Die | Approximate Total Yield |
+| ------------: | ----------------------------------------------------------------------------------------------------- | ----------- | ----------------------- |
+|           1–2 | **Pocket.** A surface scatter, an exposed seam, a single fallen trunk. Enough for a few days of work. | D6          | 50–100 units            |
+|           3–4 | **Seam.** A workable deposit. Enough to support a season of digging or cutting.                       | D8          | 100–300 units           |
+|           5–6 | **Vein.** A substantial find. Enough to justify building a mine, quarry, or lumber camp.              | D10         | 300–600 units           |
+|            7+ | **Lode.** A major deposit. Rare, valuable, and worth defending. Worth building a stronghold around.   | D12         | 600–1,200 units         |
+
+The approximate total yield is a guideline, not a tracked number. The deposit die handles depletion abstractly.
+
+### TERRAIN AND RESOURCES
+
+Each terrain type offers different resources. The GM may adjust entries for local fiction, but this table is the baseline. A resource marked **Common** can be found on a single prospecting success. One marked **Uncommon** requires two successes. One marked **Rare** requires three or more.
+
+| Terrain     | Common                      | Uncommon                    | Rare                  |
+| ----------- | --------------------------- | --------------------------- | --------------------- |
+| Plains      | Clay, sand                  | Peat, limestone             | —                     |
+| Forest      | Timber, firewood            | Resin, charcoal wood        | Bog iron (if wet)     |
+| Dark Forest | Timber, firewood            | Banewood, charcoal wood     | —                     |
+| Hills       | Stone, clay                 | Iron ore, limestone         | Silver ore            |
+| Mountains   | Stone                       | Iron ore, marble            | Silver ore, gold      |
+| Marshlands  | Peat, reeds                 | Bog iron                    | —                     |
+| Quagmire    | Peat                        | Clay                        | —                     |
+| Ruins       | Salvage stone, salvage iron | Worked stone, old bronze    | Artifacts (GM-placed) |
+| Lake/River  | Sand, clay                  | Alluvial iron, salt (coast) | Alluvial gold         |
+
+**Salvage** resources from Ruins are reclaimed, not mined. They count as half-weight for transport because they come pre-shaped but damaged.
+
+### EXTRACTION
+
+> A mine is not a hole. It is a throat driven into the earth, propped with beams that want to bow, drained of water that wants to rise, and fed with men who want to leave. Every unit of ore costs sweat, timber, and risk. If you think you can dig wealth from the ground the way you pick flowers from a meadow, the mountain will teach you otherwise.
+
+Once a deposit has been found, it can be worked. Each method below is a Quarter Day activity. All yields assume one worker.
+
+| Resource        | Method         | Skill             | Tool Required          | Yield Per Quarter Day | Notes                                                    |
+| --------------- | -------------- | ----------------- | ---------------------- | --------------------: | -------------------------------------------------------- |
+| Timber          | Felling        | MIGHT             | Timber axe             |          4 units wood | Forest or Dark Forest only.                              |
+| Firewood        | Gathering      | SURVIVAL          | Hand axe or saw        |      2 units firewood | Any hex with trees. No prospecting needed.               |
+| Stone           | Quarrying      | MIGHT             | Sledgehammer, pickaxe  |         2 units stone | Open quarry; no tunnel risk.                             |
+| Clay/Sand/Peat  | Digging        | SURVIVAL          | Shovel                 |               3 units | Open-air extraction.                                     |
+| Iron Ore        | Mining         | MIGHT             | Pickaxe, sledgehammer  |           2 units ore | Requires tunnel supports (1 wood per QD). Collapse risk. |
+| Silver Ore      | Mining         | MIGHT             | Pickaxe, sledgehammer  |            1 unit ore | As iron, but slower.                                     |
+| Gold            | Panning/Mining | SURVIVAL or MIGHT | Pan or pickaxe         |        1 unit per day | Panning (rivers) uses SURVIVAL. Mining uses MIGHT.       |
+| Bog Iron        | Gathering      | SURVIVAL          | Shovel                 |         1 unit per QD | Seasonal: available Spring and Fall only.                |
+| Resin/Charcoal  | Processing     | CRAFTING          | Hand axe, kiln or fire |        2 units per QD | Requires existing timber supply.                         |
+| Salvage (Ruins) | Scavenging     | SCOUTING          | Crowbar or hammer      |        2 units per QD | Mixed materials; GM determines type.                     |
+
+Multiple workers in the same deposit multiply yield linearly, up to the capacity of the operation. A MINE or QUARRY function supports up to twelve workers. Without a built function, no more than four workers can operate at once — the tunnel or pit is simply too cramped.
+
+A lone adventurer with a pickaxe can dig ore from a found deposit at the field rate above. Building a MINE, QUARRY, or LUMBER CAMP increases throughput, adds hireling capacity, and unlocks seasonal batch yields. The field rates exist so that a party on the road can work a deposit without building permanent infrastructure.
+
+#### COLLAPSE RISK
+
+Underground mining carries collapse risk. For each week of underground mining, roll one Gear Die. On a 💀, a tunnel section collapses. Roll another Gear Die for each worker inside — another 💀 means that worker is trapped. Trapped NPCs are killed. A trapped PC suffers an attack of ten Base Dice (Weapon Damage 1, blunt force). If the PC survives, they must make a MIGHT roll to dig free or wait for rescue.
+
+Surface quarrying, timber felling, panning, and open-air digging carry no collapse risk — but they carry weather risk. Work in rain, storm, or cold imposes the same penalties as hiking in those conditions (Chapter 8).
+
+### DEPLETION
+
+> The dwarves of Moldena speak of a mine's life the way a druid speaks of a tree's. It is born when the first pick breaks stone. It grows when the veins branch. It sickens when the ore thins to dust and the water rises. And it dies when the last man walks out and the mountain closes behind him. Every mine dies. The question is how much it gives before it does.
+
+Every deposit has a **deposit die** assigned when it is discovered. The deposit die is not rolled to produce material — it is rolled to check whether exploitation has begun to exhaust the source.
+
+**Depletion roll:** At the end of each **Season** (three months) of active exploitation, roll the deposit die once. On a **1**, the deposit die degrades one step:
+
+D12 → D10 → D8 → D6 → **Exhausted**
+
+When a D6 deposit rolls a 1, the deposit is exhausted. No further material can be extracted.
+
+**Heavy exploitation** accelerates depletion. If more than six workers operated in the deposit during the Season, roll the depletion die **twice** and apply the worse result.
+
+**Intermittent use** slows depletion. If the deposit was worked for fewer than four weeks of the Season, skip the depletion roll entirely. This rewards careful, seasonal extraction — the old pattern of working a mine in summer and leaving it to drain in winter.
+
+### RECOVERY
+
+Mineral deposits — stone, ore, silver, gold — do not recover. Once exhausted, they are gone. The mountain gave what it had.
+
+**Timber** recovers. If a forested hex is not logged for two full Seasons (six months), roll a D6. On a 5–6, the deposit die recovers one step (minimum D6). Coppiced woodland — timber cut above the root so the stump resprouts — recovers on a 4–6. A character with the HERBALIST talent or a druid can supervise coppicing.
+
+**Peat** recovers very slowly. If a peat deposit is not cut for one full year, roll a D6. On a 6, the deposit die recovers one step.
+
+**Bog iron** recovers seasonally. Bog iron forms in waterlogged soil through natural processes. A depleted bog iron deposit recovers one die step per year automatically, without a roll, as long as the marshland hex is not drained or built over.
+
+**Clay and sand** do not deplete under normal use. A clay or sand deposit is effectively inexhaustible at the scale of play. Do not track a deposit die for these materials unless something specific happens — a flood buries the clay pit, a landslide covers the sand bank.
+
+### TRANSPORT
+
+Raw materials are heavy. Moving them from the deposit to the stronghold is a logistical problem, not a footnote.
+
+| Material        | Weight Per Unit | Notes                                                         |
+| --------------- | --------------- | ------------------------------------------------------------- |
+| Timber (logs)   | 2               | Requires a cart or dragging. Cannot be carried in a backpack. |
+| Firewood        | 1               | Can be bundled and carried.                                   |
+| Stone           | 3               | Requires a cart. Wagons cannot enter difficult terrain.       |
+| Iron Ore        | 2               | Heavy, dirty, and awkward.                                    |
+| Silver/Gold Ore | 2               | As iron ore. Attracts attention.                              |
+| Clay/Sand/Peat  | 1               | Bulky but light. Sacks or barrels.                            |
+| Planks          | 1               | Lighter than raw timber; requires a SAWMILL to produce.       |
+| Charcoal        | ½               | Very light. Fragile. Crumbles if dropped or rained on.        |
+
+**Cart capacity:** A cart drawn by one horse carries 50 weight-units of material. A wagon drawn by two horses carries 100. Neither can enter difficult terrain unless a ROAD exists.
+
+**River transport:** If the source hex connects to the stronghold hex by river, timber can be floated downstream at no cart cost. One worker per 20 units of timber manages the float. Stone and ore cannot be floated.
+
+**Road bonus:** If a ROAD connects the two hexes, transport time is halved and wagon capacity doubles for that route.
+
+The distance in hexes between deposit and stronghold determines transport time: one Quarter Day per hex of open terrain, two per hex of difficult terrain. A round trip doubles the time. Building roads, bridges, and river piers is the answer to transport cost — and always has been.
+
+### STONE SONG AND THE DEEP EARTH
+
+Before the Blood Mist, the dwarves did not mine with picks. They sang — a low guttural drone pressed against the living rock that made the stone answer, revealing its veins and yielding along its grain. That art is nearly dead. Stone Song (Chapter 7) is the rarest magical tradition in the Forbidden Lands. Most outsiders never learn beyond rank 1. Rank 3 and above remain within the clans. If your band has no stone singer, nothing in these rules requires one.
+
+#### STONE SONG AND PROSPECTING
+
+A stone singer who casts **Voice of the Mountain** (rank 1 ritual) while prospecting does not roll SCOUTING or SURVIVAL. The mountain answers directly.
+
+- **Power Level 1:** Confirms a deposit exists in the hex. Does not reveal type or size. Equivalent to 1 prospecting success.
+- **Power Level 2:** Reveals type and approximate location of one deposit. Equivalent to 2 successes.
+- **Power Level 3:** Reveals all deposits in the hex, their types, and approximate sizes. Equivalent to 3+ successes. Roll deposit dice for each.
+
+The ritual costs one Quarter Day — the same as a normal prospecting roll — but cannot fail.
+
+**Feel the Vibrations** (rank 2) is faster: one turn instead of a Quarter Day. It grants +2 to a subsurface prospecting roll rather than replacing it. The singer senses density changes — voids, metal seams, water pockets — but must still interpret what they mean.
+
+#### STONE SONG AND MINING
+
+A stone singer at the rock face changes the nature of the work entirely. The singer does not swing a pick — the singer works the stone with voice and vibration while the crew handles loosened material.
+
+- **Stonesmith** (rank 2 ritual): Creates tunnel supports from the surrounding rock itself. No timber required. Eliminates the 1-wood-per-QD support cost for the duration.
+- **Shape the Stone** (rank 2): Softens the seam face so the crew can pull material free by hand. Doubles extraction yield for one Quarter Day per Power Level.
+- **Iron Song** (rank 3 ritual): Draws pure iron from raw ore by voice, bypassing smelting. One casting processes Power Level × 10 units of ore. Requires a forge and raw ore on hand.
+- **Way of the Mountain** (rank 5): Perfect awareness of tunnels, caves, and fault lines in the hex. While active, **collapse risk is eliminated** — the singer knows where every weakness lies and steers the crew clear.
+- **Petrify** (rank 3): Turns wood to stone or hardens soft ground into load-bearing rock. Used to seal flood-prone tunnels or convert timber bracing into permanent stone pillars.
+
+#### THE CHORUS
+
+Before the Blood Mist, dwarven mining was choral work. The old delvings beneath Hagha Ard and the silver road of Belderek were opened by organized voices, not tools. When stone singers work together, they add Power Levels to the lead singer's spell. Each supporting singer must know the spell (at any rank) and spend a fast action harmonizing.
+
+| Chorus             | Singers Required | Bonus           |
+| ------------------ | ---------------: | --------------- |
+| **Quartet**        |                4 | +1 Power Level  |
+| **Chamber chorus** |               20 | +2 Power Levels |
+| **Grand chorus**   |              100 | +3 Power Levels |
+
+Supporting singers pay no WP. The bonus cannot exceed +3.
+
+A quartet casting Voice of the Mountain at effective Power Level 3+ also reveals whether adjacent hexes contain significant deposits — the GM answers yes or no per hex, no further detail. A chamber chorus or grand chorus casting Shape the Stone or Stonesmith triples extraction yield for the Quarter Day instead of doubling it. A grand chorus mine produces no noise at all — only a low vibration felt through the soles of the feet on the surface above.
+
+Assembling a quartet of stone singers is an extraordinary event in the current age. A chamber chorus has not gathered since before the Blood Mist. A grand chorus belongs to the age of legends, when the dwarves raised mountains for their god Huge.

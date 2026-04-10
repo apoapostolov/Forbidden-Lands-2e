@@ -98,6 +98,8 @@ Read:
 
 - `references/ocr-artifact-taxonomy.md`
 - `references/quality-gates-and-escalation.md`
+- `references/triage-worksheet.md`
+- `references/document-profiles.md`
 
 ### Phase 2: Structural Recovery
 
@@ -135,11 +137,15 @@ Examples:
 - bestiaries need statblock boundaries preserved
 - lifepath generators need dice tables reconstructed exactly
 - warfare books need matrix tables and list indentation preserved
+- some spell books use custom glyph bullets that OCR misreads as `E`; in
+  metadata lines like `E RANK 1` or `E RANGE: Short`, treat that leading `E`
+  as a broken bullet marker, not as semantic text
 
 Use:
 
 - `references/table-reconstruction-manual.md`
 - `references/repair-playbook.md`
+- `references/high-confidence-corrections.md`
 
 ### Phase 5: Quality Gates
 
@@ -167,6 +173,22 @@ Use these references in order:
    Table-specific heuristics and safe reconstruction rules
 5. `references/quality-gates-and-escalation.md`
    When to trust automation, when to stop, and how to review results
+6. `references/document-profiles.md`
+   How to choose a cleanup profile before processing
+7. `references/agent-turn-template.md`
+   The standard turn shape weaker agents should follow
+8. `references/review-checklist.md`
+   How to spot-check a long cleanup pass
+9. `references/triage-worksheet.md`
+   How to decide automation depth
+10. `references/high-confidence-corrections.md`
+    Safe correction patterns and repo-specific OCR repairs
+11. `references/calibration-examples.md`
+    Before-and-after examples to calibrate output quality
+12. `references/when-not-to-repair-automatically.md`
+    Examples of where automation should stop
+13. `references/repo-calibration-corpus.md`
+    Real raw-to-clean examples from this repository
 
 ## Strong Default Operating Procedure
 
@@ -181,6 +203,13 @@ When the user asks to process a document:
 7. Run `markdownlint` on the cleaned file.
 8. If lint exceptions are needed because of preserved OCR complexity, use
    narrow file-local disables instead of weakening repo-wide rules.
+9. When simple one-line table collapse survives the main pass, try the
+   flattened-table helper before doing manual reconstruction.
+10. When the manuscript is clean enough to split, use the heading-based split
+    helper instead of relying only on `Chapter N` assumptions.
+11. In `Spells & Sorcerers`, normalize OCR spell metadata that begins with a
+    leading `E` into plain markdown bullets such as `- Rank:` and `- Range:`
+    instead of preserving the broken glyph surrogate.
 
 ## Tooling
 
@@ -201,7 +230,7 @@ Why:
 Primary script:
 
 ```bash
-python scripts/pdf_to_markdown.py path/to/book.pdf path/to/output-dir
+python scripts/pdf_to_markdown.py path/to/book.pdf path/to/output-dir --profile supplement
 ```
 
 Audit script:
@@ -210,6 +239,28 @@ Audit script:
 python scripts/ocr_markdown_audit.py path/to/file.raw.md
 python scripts/ocr_markdown_audit.py path/to/file.raw.md path/to/file.clean.md
 ```
+
+Flattened table helper:
+
+```bash
+python3 scripts/repair_flattened_tables.py path/to/file.clean.md --write
+```
+
+Section split helper:
+
+```bash
+python3 scripts/split_markdown_sections.py path/to/file.clean.md output-dir --level 2
+python3 scripts/split_markdown_sections.py path/to/file.clean.md output-dir --pattern '^## '
+```
+
+Available profiles:
+
+- `default`
+- `corebook`
+- `supplement`
+- `spell-compendium`
+- `bestiary`
+- `lifepath-generator`
 
 ### Lint
 

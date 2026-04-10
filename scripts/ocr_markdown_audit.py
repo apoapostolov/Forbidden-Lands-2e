@@ -11,6 +11,7 @@ from __future__ import annotations
 
 import re
 import sys
+from collections import Counter
 from pathlib import Path
 
 
@@ -32,6 +33,41 @@ def count_lines(text: str, pattern: re.Pattern[str]) -> int:
     return len(pattern.findall(text))
 
 
+def is_repeated_furniture_candidate(line: str) -> bool:
+    stripped = line.strip()
+    if not stripped:
+        return False
+    if len(stripped) < 3 or len(stripped) > 60:
+        return False
+    if stripped.startswith(("#", "-", "*", ">", "|")):
+        return False
+    if ":" in stripped:
+        return False
+    if any(ch.isdigit() for ch in stripped):
+        return False
+    if re.search(r"[.!?]$", stripped):
+        return False
+    if "  " in stripped:
+        return False
+    if not re.fullmatch(r"[A-Za-z&,'’\-\s]+", stripped):
+        return False
+    word_count = len(stripped.split())
+    if word_count < 2 or word_count > 6:
+        return False
+    return True
+
+
+def repeated_furniture_candidates(
+    text: str, limit: int = 12, minimum_count: int = 3
+) -> list[tuple[str, int]]:
+    counter: Counter[str] = Counter()
+    for raw_line in text.splitlines():
+        line = raw_line.strip()
+        if is_repeated_furniture_candidate(line):
+            counter[line] += 1
+    return [(line, count) for line, count in counter.most_common(limit) if count >= minimum_count]
+
+
 def summarize(path: Path) -> dict[str, int]:
     text = path.read_text(encoding="utf-8")
     return {name: count_lines(text, pattern) for name, pattern in PATTERNS.items()}
@@ -41,6 +77,18 @@ def format_report(label: str, counts: dict[str, int]) -> list[str]:
     lines = [f"## {label}", ""]
     for key in sorted(counts):
         lines.append(f"- `{key}`: {counts[key]}")
+    lines.append("")
+    return lines
+
+
+def furniture_report(label: str, text: str) -> list[str]:
+    candidates = repeated_furniture_candidates(text)
+    lines = [f"## {label}", ""]
+    if not candidates:
+        lines.append("- None detected")
+    else:
+        for line, count in candidates:
+            lines.append(f"- `{line}`: {count}")
     lines.append("")
     return lines
 
@@ -55,7 +103,8 @@ def delta_report(raw_counts: dict[str, int], clean_counts: dict[str, int]) -> li
 
 
 def write_report(raw_path: Path, clean_path: Path | None) -> Path:
-    raw_counts = summarize(raw_path)
+    raw_text = raw_path.read_text(encoding="utf-8")
+    raw_counts = {name: count_lines(raw_text, pattern) for name, pattern in PATTERNS.items()}
     report_lines = [
         "# OCR Markdown Audit",
         "",
@@ -65,9 +114,12 @@ def write_report(raw_path: Path, clean_path: Path | None) -> Path:
         report_lines.append(f"- Clean: `{clean_path}`")
     report_lines.append("")
     report_lines.extend(format_report("Raw Artifact Counts", raw_counts))
+    report_lines.extend(furniture_report("Raw Repeated Short-Line Candidates", raw_text))
     if clean_path:
-        clean_counts = summarize(clean_path)
+        clean_text = clean_path.read_text(encoding="utf-8")
+        clean_counts = {name: count_lines(clean_text, pattern) for name, pattern in PATTERNS.items()}
         report_lines.extend(format_report("Clean Artifact Counts", clean_counts))
+        report_lines.extend(furniture_report("Clean Repeated Short-Line Candidates", clean_text))
         report_lines.extend(delta_report(raw_counts, clean_counts))
 
     report_lines.extend(
@@ -79,6 +131,7 @@ def write_report(raw_path: Path, clean_path: Path | None) -> Path:
             "- High `spaced_heading_candidates` suggests decorative heading reconstruction remains incomplete.",
             "- High `double_blank_runs` usually indicates layout noise rather than real manuscript spacing.",
             "- `pipe_table_lines` rising after cleanup is often good if flattened tables were reconstructed.",
+            "- Repeated short-line candidates often catch leftover running headers or footer titles that generic counts miss.",
             "",
         ]
     )

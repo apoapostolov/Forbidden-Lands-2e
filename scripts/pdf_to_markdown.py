@@ -3,14 +3,15 @@
 PDF → Markdown conversion pipeline for Forbidden Lands RPG sourcebooks.
 
 Usage:
-    python scripts/pdf_to_markdown.py path/to/book.pdf path/to/output/
+    python scripts/pdf_to_markdown.py path/to/book.pdf path/to/output/ [--profile PROFILE]
 
 Implements the cleanup passes from the pdf-to-rpg-markdown skill and writes
 an OCR artifact audit report alongside the raw and cleaned markdown.
 
 Pipeline:
     1. Extract with pymupdf4llm (column-aware)
-    2. Pass 1 : Front matter and noise removal
+    2. Pass 1 : Front matter and noise removal, including repeated page
+                furniture inferred from page-sized chunks
     3. Pass 2 : Running header deduplication
     4. Pass 3 : Spaced heading reconstruction
     5. Pass 4 : Picture block conversion / removal
@@ -22,6 +23,7 @@ Pipeline:
    11. Pass 10: Loose bullet-list compaction
 """
 
+import argparse
 import re
 import sys
 from pathlib import Path
@@ -71,6 +73,33 @@ LOWERCASE_WORDS = {
 # Words that should stay ALL-CAPS in title case
 ALLCAPS_WORDS = {"RPG", "NPC", "GM", "PC", "FL", "D6", "D66"}
 
+DOCUMENT_PROFILES = {
+    "default": {
+        "description": "Generic RPG supplement cleanup profile",
+        "footer_phrases": set(),
+    },
+    "corebook": {
+        "description": "Large chaptered corebook with strong running-header patterns",
+        "footer_phrases": {"forbidden lands"},
+    },
+    "supplement": {
+        "description": "Standalone supplement with booklet-style repeated footers",
+        "footer_phrases": set(),
+    },
+    "spell-compendium": {
+        "description": "Spell-heavy manuscript with repeated spell metadata blocks",
+        "footer_phrases": {"spells & sorcerers"},
+    },
+    "bestiary": {
+        "description": "Creature-focused book with statblocks and monster attacks",
+        "footer_phrases": set(),
+    },
+    "lifepath-generator": {
+        "description": "Dense generator with many dice and matrix tables",
+        "footer_phrases": set(),
+    },
+}
+
 AUDIT_PATTERNS = {
     "picture_placeholders": re.compile(r"^\*\*==>.*<==\*\*$", re.MULTILINE),
     "picture_text_markers": re.compile(r"Start of picture text|End of picture text", re.IGNORECASE),
@@ -82,6 +111,8 @@ AUDIT_PATTERNS = {
     "double_blank_runs": re.compile(r"\n{3,}"),
     "spaced_heading_candidates": re.compile(r"^(?:#{1,6}\s+)?(?:[A-Za-z]\s){4,}[A-Za-z]$", re.MULTILINE),
 }
+
+PAGE_NUMBER_RE = re.compile(r"^#?\s*[–—-]?\s*\d{1,3}\s*[–—-]?\s*$")
 
 
 # ---------------------------------------------------------------------------
@@ -138,45 +169,156 @@ def reconstruct_spaced_heading(text: str) -> str:
     return HEADING_CORRECTIONS.get(titled, titled)
 
 
+def normalize_furniture_line(text: str) -> str:
+    text = text.strip()
+    text = re.sub(r"\*\*(.+?)\*\*", r"\1", text)
+    text = re.sub(r"\s+", " ", text)
+    return text.strip().lower()
+
+
+def is_page_furniture_candidate(text: str) -> bool:
+    stripped = text.strip()
+    lowered = stripped.lower()
+    if not stripped:
+        return False
+    if stripped.startswith("**==>") or "Start of picture text" in stripped or "End of picture text" in stripped:
+        return False
+    if stripped.startswith(("-", "*", "+")):
+        return False
+    if lowered.startswith(("e rank", "e range", "e duration", "e ingredient")):
+        return False
+    if ":" in stripped:
+        return False
+    if len(stripped) < 3 or len(stripped) > 80:
+        return False
+    if re.search(r"[.?!]", stripped):
+        return False
+    if stripped.startswith("|"):
+        return False
+    return True
+
+
+def split_pages(lines: list[str]) -> list[list[str]]:
+    pages: list[list[str]] = []
+    current: list[str] = []
+    for line in lines:
+        if PAGE_NUMBER_RE.match(line.strip()):
+            if current:
+                pages.append(current)
+            current = []
+            continue
+        current.append(line)
+    if current:
+        pages.append(current)
+    return pages
+
+
+def detect_repeated_page_furniture(
+    pages: list[list[str]],
+    top_window: int = 6,
+    bottom_window: int = 6,
+    min_count: int = 3,
+) -> tuple[set[str], set[str]]:
+    top_counts: dict[str, int] = {}
+    bottom_counts: dict[str, int] = {}
+
+    for page in pages:
+        nonempty = [line for line in page if line.strip()]
+        if not nonempty:
+            continue
+
+        top_seen: set[str] = set()
+        for line in nonempty[:top_window]:
+            normalized = normalize_furniture_line(line)
+            if is_page_furniture_candidate(line) and normalized:
+                top_seen.add(normalized)
+
+        bottom_seen: set[str] = set()
+        for line in nonempty[-bottom_window:]:
+            normalized = normalize_furniture_line(line)
+            if is_page_furniture_candidate(line) and normalized:
+                bottom_seen.add(normalized)
+
+        for item in top_seen:
+            top_counts[item] = top_counts.get(item, 0) + 1
+        for item in bottom_seen:
+            bottom_counts[item] = bottom_counts.get(item, 0) + 1
+
+    top_candidates = {item for item, count in top_counts.items() if count >= min_count}
+    bottom_candidates = {item for item, count in bottom_counts.items() if count >= min_count}
+    return top_candidates, bottom_candidates
+
+
 # ---------------------------------------------------------------------------
 # Pass 1: Front matter and noise removal
 # ---------------------------------------------------------------------------
-def pass1_noise_removal(lines: list[str]) -> list[str]:
+def pass1_noise_removal(lines: list[str], profile: dict | None = None) -> list[str]:
     out = []
+    profile = profile or DOCUMENT_PROFILES["default"]
+    footer_phrases = {p.lower() for p in profile.get("footer_phrases", set())}
+    pages = split_pages(lines)
+    repeated_top, repeated_bottom = detect_repeated_page_furniture(pages)
     in_toc = False
-    for line in lines:
-        stripped = line.strip()
+    page_lines: list[str] = []
+    page_nonempty_index = 0
+    page_nonempty_total = 0
 
-        # Table of contents: pipe-table rows with dot-leaders
-        if re.search(r"\.{4,}", stripped) or "<br>" in stripped and "......" in stripped:
-            in_toc = True
-        if in_toc:
-            if not stripped or re.match(r"^#{1,2}\s", stripped):
-                in_toc = False
-            else:
+    def flush_page(page_buffer: list[str]) -> None:
+        nonlocal out, in_toc
+        if not page_buffer:
+            return
+        nonempty_positions = [i for i, page_line in enumerate(page_buffer) if page_line.strip()]
+        total_nonempty = len(nonempty_positions)
+        seen_nonempty = 0
+        for idx, line in enumerate(page_buffer):
+            stripped = line.strip()
+            normalized = normalize_furniture_line(line)
+
+            # Table of contents: pipe-table rows with dot-leaders
+            if re.search(r"\.{4,}", stripped) or "<br>" in stripped and "......" in stripped:
+                in_toc = True
+            if in_toc:
+                if not stripped or re.match(r"^#{1,2}\s", stripped):
+                    in_toc = False
+                else:
+                    continue
+
+            if PAGE_NUMBER_RE.match(stripped):
                 continue
 
-        # Page numbers: –N–, - N -, # – N –, bare standalone digit(s)
-        if re.match(r"^#?\s*[–—-]\s*\d+\s*[–—-]\s*$", stripped):
-            continue
-        if re.match(r"^-\s*\d+\s*-$", stripped):
-            continue
-        if re.match(r"^\d{1,3}$", stripped):
-            continue
-        if re.match(r"^[a-z0-9 &'\-]+$", stripped) and len(stripped) <= 32:
+            if stripped:
+                seen_nonempty += 1
+                if seen_nonempty <= 6 and normalized in repeated_top:
+                    continue
+                if total_nonempty - seen_nonempty < 6 and normalized in repeated_bottom:
+                    continue
+
+            if stripped.lower() in footer_phrases:
+                continue
+
             # Common running footer style like "spells & sorcerers"
-            if stripped == stripped.lower() and stripped.count(" ") >= 1:
+            if re.match(r"^[a-z0-9 &'\-]+$", stripped) and len(stripped) <= 32:
+                if stripped == stripped.lower() and stripped.count(" ") >= 1:
+                    continue
+
+            # Copyright / distribution notices
+            if re.match(r"^©\s*\d{4}", stripped):
+                continue
+            if re.match(r"^PDF distributed", stripped, re.IGNORECASE):
+                continue
+            if re.match(r"^All rights reserved", stripped, re.IGNORECASE):
                 continue
 
-        # Copyright / distribution notices
-        if re.match(r"^©\s*\d{4}", stripped):
-            continue
-        if re.match(r"^PDF distributed", stripped, re.IGNORECASE):
-            continue
-        if re.match(r"^All rights reserved", stripped, re.IGNORECASE):
-            continue
+            out.append(line)
 
-        out.append(line)
+    for line in lines:
+        if PAGE_NUMBER_RE.match(line.strip()):
+            flush_page(page_lines)
+            page_lines = []
+            continue
+        page_lines.append(line)
+
+    flush_page(page_lines)
     return out
 
 
@@ -557,11 +699,43 @@ def pass10_loose_lists(lines: list[str]) -> list[str]:
     return out
 
 
+def pass11_dropcap_repair(lines: list[str]) -> list[str]:
+    """Repair a small set of high-confidence drop-cap OCR losses."""
+    replacements = {
+        "elcome ": "Welcome ",
+        "his ": "This ",
+        "othing ": "Nothing ",
+        "ossessing ": "Possessing ",
+        "aving ": "Having ",
+        "agic ": "Magic ",
+    }
+    out: list[str] = []
+    for line in lines:
+        stripped = line.lstrip()
+        if not stripped or re.match(r"^(#{1,6}\s|>|\||[-*+]\s)", stripped):
+            out.append(line)
+            continue
+        fixed = line
+        for bad, good in replacements.items():
+            if stripped.startswith(bad):
+                indent = line[: len(line) - len(stripped)]
+                fixed = indent + good + stripped[len(bad):]
+                break
+        out.append(fixed)
+    return out
+
+
 def collect_artifact_counts(text: str) -> dict[str, int]:
     return {name: len(pattern.findall(text)) for name, pattern in AUDIT_PATTERNS.items()}
 
 
-def write_audit_report(raw_path: Path, clean_path: Path, raw_text: str, clean_text: str) -> Path:
+def write_audit_report(
+    raw_path: Path,
+    clean_path: Path,
+    raw_text: str,
+    clean_text: str,
+    profile_name: str,
+) -> Path:
     raw_counts = collect_artifact_counts(raw_text)
     clean_counts = collect_artifact_counts(clean_text)
     report_path = raw_path.with_suffix("").with_suffix(".ocr-report.md")
@@ -571,6 +745,7 @@ def write_audit_report(raw_path: Path, clean_path: Path, raw_text: str, clean_te
         "",
         f"- Raw: `{raw_path.name}`",
         f"- Clean: `{clean_path.name}`",
+        f"- Profile: `{profile_name}`",
         "",
         "## Raw Counts",
         "",
@@ -593,57 +768,68 @@ def write_audit_report(raw_path: Path, clean_path: Path, raw_text: str, clean_te
 # ---------------------------------------------------------------------------
 # Full pipeline
 # ---------------------------------------------------------------------------
-def run_pipeline(pdf_path: Path, output_dir: Path, reuse_raw: bool = False) -> Path:
+def run_pipeline(
+    pdf_path: Path,
+    output_dir: Path,
+    reuse_raw: bool = False,
+    profile_name: str = "default",
+) -> Path:
     import pymupdf4llm
+
+    profile = DOCUMENT_PROFILES.get(profile_name, DOCUMENT_PROFILES["default"])
 
     output_dir.mkdir(parents=True, exist_ok=True)
     raw_path = output_dir / (pdf_path.stem + ".raw.md")
     clean_path = output_dir / (pdf_path.stem + ".md")
 
     if reuse_raw and raw_path.exists():
-        print(f"[1/11] Reusing existing raw: {raw_path.name} ({raw_path.stat().st_size:,} bytes)")
+        print(f"[1/12] Reusing existing raw: {raw_path.name} ({raw_path.stat().st_size:,} bytes)")
         md = raw_path.read_text(encoding="utf-8")
     else:
-        print(f"[1/11] Extracting {pdf_path.name} …")
+        print(f"[1/12] Extracting {pdf_path.name} …")
         md = pymupdf4llm.to_markdown(str(pdf_path))
         raw_path.write_text(md, encoding="utf-8")
         print(f"       Raw markdown saved → {raw_path.name} ({len(md):,} chars)")
+    print(f"       Profile        → {profile_name} ({profile['description']})")
 
     lines = md.splitlines(keepends=True)
 
-    print("[2/11] Pass 1: noise removal …")
-    lines = pass1_noise_removal(lines)
+    print("[2/12] Pass 1: noise removal …")
+    lines = pass1_noise_removal(lines, profile=profile)
 
-    print("[3/11] Pass 2: running headers …")
+    print("[3/12] Pass 2: running headers …")
     lines = pass2_running_headers(lines)
 
-    print("[4/11] Pass 3: spaced heading reconstruction …")
+    print("[4/12] Pass 3: spaced heading reconstruction …")
     lines = pass3_spaced_headings(lines)
 
-    print("[5/11] Pass 4: picture block conversion …")
+    print("[5/12] Pass 4: picture block conversion …")
     lines = pass4_picture_blocks(lines)
 
-    print("[6/11] Pass 5: heading hierarchy normalisation …")
+    print("[6/12] Pass 5: heading hierarchy normalisation …")
     lines = pass5_heading_hierarchy(lines)
 
-    print("[7/11] Pass 6: sidebar → blockquote …")
+    print("[7/12] Pass 6: sidebar → blockquote …")
     lines = pass6_sidebars(lines)
 
-    print("[8/11] Pass 7: paragraph joining …")
+    print("[8/12] Pass 7: paragraph joining …")
     lines = pass7_paragraph_joining(lines)
 
-    print("[9/11] Pass 8: table <br> cleanup …")
+    print("[9/12] Pass 8: table <br> cleanup …")
     lines = pass8_table_br(lines)
 
-    print("[10/11] Pass 9: whitespace normalisation …")
+    print("[10/12] Pass 9: whitespace normalisation …")
     lines = pass9_whitespace(lines)
 
-    print("[11/11] Pass 10: loose bullet-list compaction …")
+    print("[11/12] Pass 10: loose bullet-list compaction …")
     lines = pass10_loose_lists(lines)
+
+    print("[12/12] Pass 11: conservative drop-cap repair …")
+    lines = pass11_dropcap_repair(lines)
 
     clean_text = "".join(lines)
     clean_path.write_text(clean_text, encoding="utf-8")
-    report_path = write_audit_report(raw_path, clean_path, md, clean_text)
+    report_path = write_audit_report(raw_path, clean_path, md, clean_text, profile_name)
     print(f"\nDone. Clean markdown → {clean_path}")
     print(f"      OCR report     → {report_path}")
     print(f"      Lines: {len(lines):,}  |  Chars: {sum(len(l) for l in lines):,}")
@@ -654,16 +840,24 @@ def run_pipeline(pdf_path: Path, output_dir: Path, reuse_raw: bool = False) -> P
 # Entry point
 # ---------------------------------------------------------------------------
 if __name__ == "__main__":
-    if len(sys.argv) < 3:
-        print("Usage: python scripts/pdf_to_markdown.py <pdf> <output-dir> [--reuse-raw]")
-        sys.exit(1)
+    parser = argparse.ArgumentParser(description="Convert RPG PDFs to cleaned markdown")
+    parser.add_argument("pdf", help="Path to source PDF")
+    parser.add_argument("output_dir", help="Output directory for raw and cleaned markdown")
+    parser.add_argument("--reuse-raw", action="store_true", help="Reuse an existing .raw.md file")
+    parser.add_argument(
+        "--profile",
+        default="default",
+        choices=sorted(DOCUMENT_PROFILES.keys()),
+        help="Cleanup profile tuned for document type",
+    )
+    args = parser.parse_args()
 
-    pdf = Path(sys.argv[1])
-    out = Path(sys.argv[2])
-    reuse_raw = "--reuse-raw" in sys.argv
+    pdf = Path(args.pdf)
+    out = Path(args.output_dir)
+    reuse_raw = args.reuse_raw
 
     if not reuse_raw and not pdf.exists():
         print(f"Error: {pdf} not found")
         sys.exit(1)
 
-    run_pipeline(pdf, out, reuse_raw=reuse_raw)
+    run_pipeline(pdf, out, reuse_raw=reuse_raw, profile_name=args.profile)
