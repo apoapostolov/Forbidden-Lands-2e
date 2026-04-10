@@ -40,11 +40,12 @@ Even in Full Guided mode, you never pick freely from the whole table. Roll two r
 7. For each resolved turn, make the path's turn test. On success, mark 1 skill from the path's normal list and roll the turn event. On failure, mark 1 skill from the hard-lesson list and roll a mishap. Marks convert to final ranks using the progression table under Skill Ranks and Marks.
 8. At the end of each cycle, roll advancement or departure.
 9. After the last cycle, roll on the mustering-out table for your final path.
-10. Choose your profession using the qualification rules in this section.
-11. Spend attribute points by age as normal.
-12. Choose your profession talent and general talents by age.
-13. Determine Pride, Dark Secret, relationships, and Resource Dice from your profession entry.
-14. Roll or choose on the How Did You Meet? table.
+10. Choose one piece of unfinished business from your life's accumulated fiction.
+11. Choose your profession using the qualification rules in this section.
+12. Spend attribute points by age as normal.
+13. Choose your profession talent and general talents by age.
+14. Determine Pride, Dark Secret, and relationships. Use a Pride or Dark Secret claimed during the life generator, or choose from your profession entry.
+15. Roll or choose on the How Did You Meet? table.
 
 ### KIN AND HOME
 
@@ -270,17 +271,17 @@ For each turn, follow these steps.
 
 | Result                | Outcome                                                                                               |
 | --------------------- | ----------------------------------------------------------------------------------------------------- |
-| Failure               | Gain 1 skill point from the path's hard-lesson list. Then roll on the path's mishap table.            |
-| Success               | Gain 1 skill point from the path's normal skill list. Then roll on the turn's event table.            |
+| Failure               | Mark 1 skill from the path's hard-lesson list. Then roll on the path's mishap table.                  |
+| Success               | Mark 1 skill from the path's normal skill list. Then roll on the turn's event table.                  |
 | Two or more successes | As success, and gain either 1 edge on the event roll or 1 extra silver die if the event grants money. |
 
-**Step 3: Mark Wear.** Every failed turn test adds 1 Wear mark. At the end of character creation, total your Wear:
+**Step 3: Mark Wear.** If a failed turn test follows another failed turn test within the same cycle, add 1 Wear mark. A single failure followed by a success does not add Wear — only sustained hardship leaves a lasting mark. At the end of character creation, total your Wear:
 
 - 0–1 Wear: no extra effect.
 - 2–3 Wear: choose one scar, rival, debt, or lingering fear.
 - 4+ Wear: choose one of those, then also begin play with either a chronic pain, a feud, or lowered Standing in one settlement.
 
-Wear creates fiction, not hidden numerical punishment.
+Wear creates fiction, not hidden numerical punishment. Young characters often walk away clean. Old characters, who resolve more turns and face narrowing penalties on repeated paths, carry the heaviest weight.
 
 #### SKILL RANKS AND MARKS
 
@@ -290,25 +291,33 @@ Each time the life generator tells you to gain a skill, you do not raise the ran
 | -----------------: | ---------: |
 |                  1 |          1 |
 |                  2 |          2 |
-|                  4 |          3 |
-|                  7 |          4 |
-|                 10 |          5 |
+|                  3 |          3 |
+|                  5 |          4 |
+|                  7 |          5 |
 
-Marks between thresholds are not wasted — they count toward the next rank. A skill with 3 marks is Rank 2, one mark short of Rank 3.
+Marks between thresholds are not wasted — they count toward the next rank. A skill with 4 marks is Rank 3, one mark short of Rank 4.
 
 The same progression applies to talent ranks gained through advancement benefits. If a path's advancement table grants Rank 1 in a talent, mark one tally for that talent. A second grant of the same talent adds a second mark. Two marks raise the talent to Rank 2.
 
 **Why this works.** The life generator compresses years of living into a handful of dice rolls. Without this rule, an Old character with 16 skill points could stack the same skill five or six times and begin play with a rank that a campaign adventurer would need months of table time to reach. The mark system flattens that curve the same way real experience does — early lessons come fast, later mastery comes slow. A character who spent most of a lifetime swinging a sword may reach Rank 3 or even Rank 4 in Melee, which is roughly what a played character achieves after a short to mid-length campaign. That feels right. The marks represent not just repetition but the unseen hours of drill, correction, and hard-won habit that the generator abstracts away.
 
-The standard method's cap — no starting skill above Rank 3 without GM agreement — still applies here. If marks would push a skill to Rank 4 or Rank 5, the player should ask the GM first. Most tables will find that Rank 3 is the natural ceiling for starting characters, with Rank 4 reserved for Old characters whose entire history bends toward a single calling.
+The standard method's cap — no starting skill above Rank 3 without GM agreement — still applies here. If marks would push a skill to Rank 4 or Rank 5, the player should ask the GM first. Most tables will find that Rank 3 is the natural ceiling for starting characters, with Rank 4 reserved for Old characters whose entire history bends toward a single calling. Rank 5 requires seven marks in one skill — a concentration that the mark-spread mechanics and narrowing tax make vanishingly rare without deliberate GM approval.
 
-#### ENTRY GATES
+#### PRIDE AND DARK SECRET
 
-Most paths have no gate. If the fiction allows it, a character may enter.
+Some events and mishaps carry an italic tag: _This may be your Pride_ or _This may be your Dark Secret._ These are not requirements. They are offers the life generator makes when an event carries the right weight — a triumph worth standing on, or a stain worth hiding.
 
-Use gates only where the path assumes training, access, or recognized standing:
+If a character encounters one of these during generation, the player may claim it. Only one Pride and one Dark Secret may be claimed this way. A claimed Pride or Dark Secret replaces the profession's default suggestions. If no claim was made during the life generator, choose from the profession entry as normal.
 
-| Path                                                       | Entry Gate                                                                                    |
+Not every event carries a tag. The ones that do are the kind of moments that mark a life — the kill that made your name, the order you should not have obeyed, the rite you will not speak of, the season you survived when no one else did.
+
+#### THRESHOLDS
+
+Most paths have no threshold. If the fiction allows it, a character may enter.
+
+Some paths assume training, access, or recognized standing before a character may walk them:
+
+| Path                                                       | Threshold                                                                                     |
 | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | Fighter, Rogue, Hunter, Drifter, Laborer, Outcast, Captive | None                                                                                          |
 | Druid                                                      | Lore 1 or Healing 1, or a shrine, grove, teacher, or sacred duty in the fiction               |
@@ -317,7 +326,7 @@ Use gates only where the path assumes training, access, or recognized standing:
 | Peddler                                                    | Manipulation 1 or Insight 1, or trade goods, caravan work, or a market contact in the fiction |
 | Rider                                                      | Animal Handling 1 or Move 1, or access to a herd, mount, or riding household in the fiction   |
 
-If a character does not meet a gated path's condition, choose another path for that cycle. If no other path makes sense, the character falls into one of the crisis paths — Drifter, Laborer, Outcast, or Captive — whichever best fits the event that broke the old life.
+If a character does not meet a path's threshold, choose another path for that cycle. If no other path makes sense, the character falls into one of the crisis paths — Drifter, Laborer, Outcast, or Captive — whichever best fits the event that broke the old life.
 
 #### ADVANCEMENT AND DEPARTURE
 
@@ -371,7 +380,7 @@ When this happens, choose the next path from the event that caused the break. If
 
 Choose the path that best fits the break. If both fit, the player chooses.
 
-Prison, slavery, hostage-taking, and bond-service now have their own crisis path: Captive. Use it whenever the fiction puts a character in chains, behind bars, or under another person's control against their will. After the captivity ends, the character may return to a profession path if they meet the entry gate — or fall into another crisis path if the damage was too deep.
+Prison, slavery, hostage-taking, and bond-service now have their own crisis path: Captive. Use it whenever the fiction puts a character in chains, behind bars, or under another person's control against their will. After the captivity ends, the character may return to a profession path if they meet its threshold — or fall into another crisis path if the damage was too deep.
 
 ### PROFESSION PATHS
 
@@ -385,7 +394,7 @@ _You learned the names the trees remember and the prices the land collects. Holy
 
 **Turn Test:** Lore or Survival.
 **Normal Skills:** Lore, Survival, Healing, Insight, Animal Handling, Scouting.
-**Hard-Lesson Skills:** Survival, Healing, Insight.
+**Hard-Lesson Skills:** Healing, Insight, Lore.
 
 ##### Druid First Turn: Shrine, Grove, or Wandering Teacher
 
@@ -411,14 +420,14 @@ _You learned the names the trees remember and the prices the land collects. Holy
 
 ##### Druid Third Turn: Power and Burden
 
-| **D6** | **Event**                                                                                                      |
-| ------ | -------------------------------------------------------------------------------------------------------------- |
-| 1      | **Hidden Pool.** You found a place where the world felt thin. Gain Lore or Healing.                            |
-| 2      | **Protected the Wild.** Men with axes or torches learned you would not step aside. Gain Marksmanship or Melee. |
-| 3      | **Spoken For.** A chieftain, village, or clan sought your blessing. Gain Manipulation or Insight.              |
-| 4      | **Spirit Sign.** A beast, storm, or blight took on meaning for you. Gain Lore or Animal Handling.              |
-| 5      | **Forbidden Rite.** You stood too close to power and did not forget it. Gain Healing or Insight. Add one Wear. |
-| 6      | **Gathered Favors.** Quiet folk started owing you thanks. Gain Insight or Survival. Gain one contact.          |
+| **D6** | **Event**                                                                                                                                      |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | **Hidden Pool.** You found a place where the world felt thin. Gain Lore or Healing.                                                            |
+| 2      | **Protected the Wild.** Men with axes or torches learned you would not step aside. Gain Marksmanship or Melee.                                 |
+| 3      | **Spoken For.** A chieftain, village, or clan sought your blessing. Gain Manipulation or Insight. _This may be your Pride._                    |
+| 4      | **Spirit Sign.** A beast, storm, or blight took on meaning for you. Gain Lore or Animal Handling.                                              |
+| 5      | **Forbidden Rite.** You stood too close to power and did not forget it. Gain Healing or Insight. Add one Wear. _This may be your Dark Secret._ |
+| 6      | **Gathered Favors.** Quiet folk started owing you thanks. Gain Insight or Survival. Gain one contact.                                          |
 
 ##### Druid Fourth Turn: Exile, Reverence, or Loss
 
@@ -426,32 +435,32 @@ _You learned the names the trees remember and the prices the land collects. Holy
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1      | **Driven Out.** Someone feared your work or needed a scapegoat. Gain Survival or Move. You must change path next cycle unless protected by a strong contact.              |
 | 2      | **Sacred Charge.** You were entrusted with a place, relic, or oath. Gain Lore or Manipulation.                                                                            |
-| 3      | **Plague Work.** You stayed where others fled. Gain Healing or Endurance. Gain one scar or one grateful settlement.                                                       |
+| 3      | **Plague Work.** You stayed where others fled. Gain Healing or Endurance. Gain one scar or one grateful settlement. _This may be your Pride._                             |
 | 4      | **Blighted Grove.** Something ancient was spoiled, cut down, or burned. Gain Scouting or Insight. Gain one enemy tied to the deed.                                        |
 | 5      | **Pilgrimage.** You walked farther than you intended and learned the land by foot and hunger. Gain Survival or Lore.                                                      |
 | 6      | **Recognized as Wise.** Word of your judgment spread. Gain Insight or Manipulation. You may take one Druid advancement benefit even if your later advancement roll fails. |
 
 ##### Druid Mishaps
 
-| **D6** | **Mishap**                                                                                                |
-| ------ | --------------------------------------------------------------------------------------------------------- |
-| 1      | You misread a sign and someone paid for it. Gain one guilty memory and one rival.                         |
-| 2      | A rite turned on you. Gain one scar or visible mark tied to the mishap.                                   |
-| 3      | Villagers denounced you. Lower Standing by 1 in one settlement.                                           |
-| 4      | You protected the wrong thing, or at the wrong cost. Gain one enemy.                                      |
-| 5      | Something followed you out of a holy or cursed place. Gain one recurring omen.                            |
-| 6      | Your teacher died, vanished, or condemned you. Your next cycle must change path unless you take one Wear. |
+| **D6** | **Mishap**                                                                                                        |
+| ------ | ----------------------------------------------------------------------------------------------------------------- |
+| 1      | You misread a sign and someone paid for it. Gain one guilty memory and one rival. _This may be your Dark Secret._ |
+| 2      | A rite turned on you. Gain one scar or visible mark tied to the mishap.                                           |
+| 3      | Villagers denounced you. Lower Standing by 1 in one settlement.                                                   |
+| 4      | You protected the wrong thing, or at the wrong cost. Gain one enemy.                                              |
+| 5      | Something followed you out of a holy or cursed place. Gain one recurring omen.                                    |
+| 6      | Your teacher died, vanished, or condemned you. Your next cycle must change path unless you take one Wear.         |
 
 ##### Druid Advancement Benefits
 
-| **D6** | **Benefit**                                                              |
-| ------ | ------------------------------------------------------------------------ |
-| 1      | Rank 1 in Herbalist                                                      |
-| 2      | Rank 1 in Pathfinder                                                     |
-| 3      | Begin with your chosen profession talent at Rank 2 if you become a Druid |
-| 4      | One shrine, circle, or wise contact                                      |
-| 5      | Staff, herbs, and a healer's satchel                                     |
-| 6      | One sacred rumor, hidden grove, or old curse the GM may develop later    |
+| **D6** | **Benefit**                                                           |
+| ------ | --------------------------------------------------------------------- |
+| 1      | Rank 1 in Herbalist                                                   |
+| 2      | Rank 1 in Pathfinder                                                  |
+| 3      | Rank 1 in Path of Healing or Path of Sight                            |
+| 4      | One shrine, circle, or wise contact                                   |
+| 5      | Staff, herbs, and a healer's satchel                                  |
+| 6      | One sacred rumor, hidden grove, or old curse the GM may develop later |
 
 ##### Druid Mustering-Out
 
@@ -472,7 +481,7 @@ _You held a line, carried a blade, marched where you were told, and survived wha
 
 **Normal Skills:** Melee, Might, Endurance, Marksmanship, Move, Survival
 
-**Hard-Lesson Skills:** Endurance, Survival, Healing
+**Hard-Lesson Skills:** Endurance, Melee, Might
 
 ##### Fighter First Turn: Levy, Guard, or Blade for Hire
 
@@ -490,7 +499,7 @@ _You held a line, carried a blade, marched where you were told, and survived wha
 | **D6** | **Event**                                                                                                                                                                 |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1      | **Long March.** Your boots rotted and your back bent under the pack. Gain Survival or Endurance.                                                                          |
-| 2      | **Dirty Work.** You were ordered to do something shameful. Gain Insight or Manipulation. You also gain one rival or one dark memory.                                      |
+| 2      | **Dirty Work.** You were ordered to do something shameful. Gain Insight or Manipulation. You also gain one rival or one dark memory. _This may be your Dark Secret._      |
 | 3      | **Rough Company.** You learned how soldiers settle quarrels where no law can hear them. Gain Melee or Might.                                                              |
 | 4      | **Supply Raid.** Hunger drove your band to theft, or your captain called it requisition. Gain Scouting or Move.                                                           |
 | 5      | **Winter Camp.** Mud, wet wool, and thin stew taught you patience. Gain Endurance or Healing.                                                                             |
@@ -500,7 +509,7 @@ _You held a line, carried a blade, marched where you were told, and survived wha
 
 | **D6** | **Event**                                                                                                                                                        |
 | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1      | **First Blood.** You killed at arm's length and learned the sound it makes. Gain Melee or Marksmanship.                                                          |
+| 1      | **First Blood.** You killed at arm's length and learned the sound it makes. Gain Melee or Marksmanship. _This may be your Pride._                                |
 | 2      | **Standard Duty.** You carried colors, messages, or commands through danger. Gain Move or Manipulation.                                                          |
 | 3      | **Arrow Storm.** You survived what should have dropped you. Gain Endurance or Healing. You also gain one scar.                                                   |
 | 4      | **Picked for the Front.** A captain trusted you where the line would buckle first. Gain Might or Melee.                                                          |
@@ -516,7 +525,7 @@ _You held a line, carried a blade, marched where you were told, and survived wha
 | 3      | **Bad Wound.** You left the field alive but not whole. Gain Healing or Endurance. You also gain one Wear and one scar.                                                                                                       |
 | 4      | **Sworn Blade.** A hall-lord, clan chief, or war-band leader offered continued service. Gain Melee or Manipulation. You may remain in Fighter next cycle without an advancement roll if you accept that patron as a contact. |
 | 5      | **Massacre.** You escaped what others did not. Gain Survival or Move. You also gain one rumor about the killer responsible.                                                                                                  |
-| 6      | **Named in Victory.** Your deed was seen and remembered. Gain Melee or Marksmanship. You may take one Fighter advancement benefit even if your advancement roll later fails.                                                 |
+| 6      | **Named in Victory.** Your deed was seen and remembered. Gain Melee or Marksmanship. You may take one Fighter advancement benefit even if your advancement roll later fails. _This may be your Pride._                       |
 
 ##### Fighter Mishaps
 
@@ -535,7 +544,7 @@ _You held a line, carried a blade, marched where you were told, and survived wha
 | ------ | ---------------------------------------------------------------------------------- |
 | 1      | Rank 1 in Defender                                                                 |
 | 2      | Rank 1 in Pack Rat                                                                 |
-| 3      | Begin with your chosen profession talent at Rank 2 if you become a Fighter         |
+| 3      | Rank 1 in Shieldmate or Executioner                                                |
 | 4      | One war contact                                                                    |
 | 5      | One armor or weapon package of standard quality                                    |
 | 6      | One local reputation gain and one rumor about a ruin, battlefield, or old treasury |
@@ -557,7 +566,7 @@ _You fed the living by killing the wild. The forest taught patience, the quarry 
 
 **Turn Test:** Scouting or Marksmanship.
 **Normal Skills:** Scouting, Marksmanship, Survival, Animal Handling, Move, Crafting.
-**Hard-Lesson Skills:** Survival, Scouting, Endurance.
+**Hard-Lesson Skills:** Scouting, Survival, Marksmanship.
 
 ##### Hunter First Turn: Trail, Bow, and Cold Camp
 
@@ -585,7 +594,7 @@ _You fed the living by killing the wild. The forest taught patience, the quarry 
 
 | **D6** | **Event**                                                                                                                                    |
 | ------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1      | **Big Kill.** You brought down something folk feared. Gain Marksmanship or Melee.                                                            |
+| 1      | **Big Kill.** You brought down something folk feared. Gain Marksmanship or Melee. _This may be your Pride._                                  |
 | 2      | **Guide Work.** You led others who knew less than they admitted. Gain Scouting or Manipulation.                                              |
 | 3      | **Winter Hunger.** You learned what men become when game runs thin. Gain Insight or Survival.                                                |
 | 4      | **Territory Mark.** You began to think of a stretch of land as yours. Gain Scouting or Animal Handling.                                      |
@@ -594,36 +603,36 @@ _You fed the living by killing the wild. The forest taught patience, the quarry 
 
 ##### Hunter Fourth Turn: Mastery or Mauling
 
-| **D6** | **Event**                                                                                                                                                                 |
-| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1      | **Mauled.** You lived, but the beast left something behind in flesh or nerve. Gain Endurance or Healing. Gain one scar.                                                   |
-| 2      | **Named Guide.** Caravans, scouts, or hall-lords sought your eye. Gain Manipulation or Scouting.                                                                          |
-| 3      | **Poacher's Fight.** Another hunter crossed your line or you crossed theirs. Gain Melee or Marksmanship. Gain one rival.                                                  |
-| 4      | **Forest Fire.** Flame or smoke ruined land you knew by heart. Gain Survival or Move. You must change path next cycle unless revenge or duty keeps you here.              |
-| 5      | **Trained Another.** You passed on what the wild taught you. Gain Insight or Animal Handling.                                                                             |
-| 6      | **True Reputation.** Folk began trusting your judgment in the wastes. Gain Scouting or Insight. You may take one Hunter advancement benefit even if the later roll fails. |
+| **D6** | **Event**                                                                                                                                                                                           |
+| ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | **Mauled.** You lived, but the beast left something behind in flesh or nerve. Gain Endurance or Healing. Gain one scar.                                                                             |
+| 2      | **Named Guide.** Caravans, scouts, or hall-lords sought your eye. Gain Manipulation or Scouting.                                                                                                    |
+| 3      | **Poacher's Fight.** Another hunter crossed your line or you crossed theirs. Gain Melee or Marksmanship. Gain one rival.                                                                            |
+| 4      | **Forest Fire.** Flame or smoke ruined land you knew by heart. Gain Survival or Move. You must change path next cycle unless revenge or duty keeps you here.                                        |
+| 5      | **Trained Another.** You passed on what the wild taught you. Gain Insight or Animal Handling.                                                                                                       |
+| 6      | **True Reputation.** Folk began trusting your judgment in the wastes. Gain Scouting or Insight. You may take one Hunter advancement benefit even if the later roll fails. _This may be your Pride._ |
 
 ##### Hunter Mishaps
 
-| **D6** | **Mishap**                                                                                                  |
-| ------ | ----------------------------------------------------------------------------------------------------------- |
-| 1      | A beast tore you open. Gain one scar and one fear.                                                          |
-| 2      | You led someone into danger and they did not come back out. Gain one guilty contact or one grieving enemy.  |
-| 3      | Hunger drove you to theft. Lower Standing by 1 in one settlement.                                           |
-| 4      | You crossed the wrong forester, clan, or patrol. Gain one rival.                                            |
-| 5      | You brought something home that should have stayed in the dark woods. Gain one omen or rumor.               |
-| 6      | Your prey was no beast at all, or not only that. Your next cycle must change path unless you take one Wear. |
+| **D6** | **Mishap**                                                                                                                                 |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1      | A beast tore you open. Gain one scar and one fear.                                                                                         |
+| 2      | You led someone into danger and they did not come back out. Gain one guilty contact or one grieving enemy. _This may be your Dark Secret._ |
+| 3      | Hunger drove you to theft. Lower Standing by 1 in one settlement.                                                                          |
+| 4      | You crossed the wrong forester, clan, or patrol. Gain one rival.                                                                           |
+| 5      | You brought something home that should have stayed in the dark woods. Gain one omen or rumor.                                              |
+| 6      | Your prey was no beast at all, or not only that. Your next cycle must change path unless you take one Wear.                                |
 
 ##### Hunter Advancement Benefits
 
-| **D6** | **Benefit**                                                               |
-| ------ | ------------------------------------------------------------------------- |
-| 1      | Rank 1 in Master of the Hunt                                              |
-| 2      | Rank 1 in Sharpshooter                                                    |
-| 3      | Begin with your chosen profession talent at Rank 2 if you become a Hunter |
-| 4      | One hunting contact, guide, or forester ally                              |
-| 5      | Bow, traps, and field gear                                                |
-| 6      | One rumor about a beast den, hidden trail, or monster haunt               |
+| **D6** | **Benefit**                                                 |
+| ------ | ----------------------------------------------------------- |
+| 1      | Rank 1 in Master of the Hunt                                |
+| 2      | Rank 1 in Sharpshooter                                      |
+| 3      | Rank 1 in Pathfinder or Herbalist                           |
+| 4      | One hunting contact, guide, or forester ally                |
+| 5      | Bow, traps, and field gear                                  |
+| 6      | One rumor about a beast den, hidden trail, or monster haunt |
 
 ##### Hunter Mustering-Out
 
@@ -642,7 +651,7 @@ _You sang for strangers and ate by their pleasure. The songs are older than you,
 
 **Turn Test:** Performance or Manipulation.
 **Normal Skills:** Performance, Manipulation, Insight, Lore, Move, Sleight of Hand.
-**Hard-Lesson Skills:** Insight, Move, Manipulation.
+**Hard-Lesson Skills:** Insight, Performance, Manipulation.
 
 ##### Minstrel First Turn: Firelight and First Audience
 
@@ -670,7 +679,7 @@ _You sang for strangers and ate by their pleasure. The songs are older than you,
 
 | **D6** | **Event**                                                                                                                                        |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1      | **Popular Ballad.** A song of yours started walking without you. Gain Performance or Lore.                                                       |
+| 1      | **Popular Ballad.** A song of yours started walking without you. Gain Performance or Lore. _This may be your Pride._                             |
 | 2      | **Hall Intrigue.** Your ears heard more than your mouth should repeat. Gain Insight or Manipulation.                                             |
 | 3      | **Battlefield Song.** You saw men march to death and learned what rhythm does to fear. Gain Performance or Melee.                                |
 | 4      | **Mockery.** You made the wrong hall-lord, Raven Sister, or chief a laughingstock. Gain Insight or Move. Gain one enemy.                         |
@@ -679,21 +688,21 @@ _You sang for strangers and ate by their pleasure. The songs are older than you,
 
 ##### Minstrel Fourth Turn: Last Performance, New Name
 
-| **D6** | **Event**                                                                                                                                                 |
-| ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1      | **Driven Off.** Your voice stayed welcome longer than your face. Gain Move or Survival. You must change path next cycle unless a patron keeps you.        |
-| 2      | **Favored Entertainer.** A hall or camp became yours for a season. Gain Performance or Manipulation.                                                      |
-| 3      | **Duel of Words.** Insults ended in steel, blood, or both. Gain Melee or Insight.                                                                         |
-| 4      | **Witness to History.** You were present at something others will sing about badly. Gain Lore or Insight.                                                 |
-| 5      | **Broken Heart.** Love, vanity, or betrayal drove you back onto the road. Gain Performance or Move. Gain one dark memory.                                 |
-| 6      | **True Name Won.** You gained a name folk remember. Gain Performance or Lore. You may take one Minstrel advancement benefit even if the later roll fails. |
+| **D6** | **Event**                                                                                                                                                                           |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | **Driven Off.** Your voice stayed welcome longer than your face. Gain Move or Survival. You must change path next cycle unless a patron keeps you.                                  |
+| 2      | **Favored Entertainer.** A hall or camp became yours for a season. Gain Performance or Manipulation.                                                                                |
+| 3      | **Duel of Words.** Insults ended in steel, blood, or both. Gain Melee or Insight.                                                                                                   |
+| 4      | **Witness to History.** You were present at something others will sing about badly. Gain Lore or Insight.                                                                           |
+| 5      | **Broken Heart.** Love, vanity, or betrayal drove you back onto the road. Gain Performance or Move. Gain one dark memory.                                                           |
+| 6      | **True Name Won.** You gained a name folk remember. Gain Performance or Lore. You may take one Minstrel advancement benefit even if the later roll fails. _This may be your Pride._ |
 
 ##### Minstrel Mishaps
 
 | **D6** | **Mishap**                                                                                                            |
 | ------ | --------------------------------------------------------------------------------------------------------------------- |
 | 1      | You slandered the wrong person. Gain one enemy.                                                                       |
-| 2      | Drink, lust, or pride left you in disgrace. Lower Standing by 1 in one settlement.                                    |
+| 2      | Drink, lust, or pride left you in disgrace. Lower Standing by 1 in one settlement. _This may be your Dark Secret._    |
 | 3      | Your troupe broke apart violently. Gain one rival or one dead contact's memory.                                       |
 | 4      | You stole a song, tale, or lover and paid for it. Gain one scar or one dark secret.                                   |
 | 5      | A patron's protection turned to ownership. Your next cycle must change path unless you carry that patron as a burden. |
@@ -701,14 +710,14 @@ _You sang for strangers and ate by their pleasure. The songs are older than you,
 
 ##### Minstrel Advancement Benefits
 
-| **D6** | **Benefit**                                                                 |
-| ------ | --------------------------------------------------------------------------- |
-| 1      | Rank 1 in Lucky                                                             |
-| 2      | Rank 1 in Sharp Tongue                                                      |
-| 3      | Begin with your chosen profession talent at Rank 2 if you become a Minstrel |
-| 4      | One patron, troupe ally, or hall contact                                    |
-| 5      | Instrument, good clothes, and writing kit                                   |
-| 6      | One rumor, legend fragment, or map clue learned through song                |
+| **D6** | **Benefit**                                                  |
+| ------ | ------------------------------------------------------------ |
+| 1      | Rank 1 in Lucky                                              |
+| 2      | Rank 1 in Sharp Tongue                                       |
+| 3      | Rank 1 in Wanderer or Incorruptible                          |
+| 4      | One patron, troupe ally, or hall contact                     |
+| 5      | Instrument, good clothes, and writing kit                    |
+| 6      | One rumor, legend fragment, or map clue learned through song |
 
 ##### Minstrel Mustering-Out
 
@@ -727,7 +736,7 @@ _You carried what folk needed and charged what the road would bear. Every villag
 
 **Turn Test:** Manipulation or Insight.
 **Normal Skills:** Manipulation, Insight, Crafting, Animal Handling, Scouting, Lore.
-**Hard-Lesson Skills:** Insight, Survival, Manipulation.
+**Hard-Lesson Skills:** Insight, Manipulation, Crafting.
 
 ##### Peddler First Turn: Cart, Ledger, and Road Dust
 
@@ -753,47 +762,47 @@ _You carried what folk needed and charged what the road would bear. Every villag
 
 ##### Peddler Third Turn: Wider Roads
 
-| **D6** | **Event**                                                                                                                           |
-| ------ | ----------------------------------------------------------------------------------------------------------------------------------- |
-| 1      | **Profitable Route.** You found a road others feared more than they should. Gain Scouting or Insight. Roll one silver die.          |
-| 2      | **Strong Buyer.** A hall, shrine, or clan chief began buying from you. Gain Manipulation or Lore.                                   |
-| 3      | **Escort Trouble.** Guards, mercenaries, or robbers made trade expensive. Gain Melee or Insight.                                    |
-| 4      | **Found Stock.** A ruin, corpse, or abandoned cart improved your inventory. Gain Crafting or Scouting.                              |
-| 5      | **False Weights.** You cheated or were cheated and learned to count twice. Gain Insight or Manipulation.                            |
-| 6      | **Map in the Margins.** A ledger, note, or idle talk gave you a lead worth more than silver. Gain Lore or Scouting. Gain one rumor. |
+| **D6** | **Event**                                                                                                                                            |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | **Profitable Route.** You found a road others feared more than they should. Gain Scouting or Insight. Roll one silver die. _This may be your Pride._ |
+| 2      | **Strong Buyer.** A hall, shrine, or clan chief began buying from you. Gain Manipulation or Lore.                                                    |
+| 3      | **Escort Trouble.** Guards, mercenaries, or robbers made trade expensive. Gain Melee or Insight.                                                     |
+| 4      | **Found Stock.** A ruin, corpse, or abandoned cart improved your inventory. Gain Crafting or Scouting.                                               |
+| 5      | **False Weights.** You cheated or were cheated and learned to count twice. Gain Insight or Manipulation. _This may be your Dark Secret._             |
+| 6      | **Map in the Margins.** A ledger, note, or idle talk gave you a lead worth more than silver. Gain Lore or Scouting. Gain one rumor.                  |
 
 ##### Peddler Fourth Turn: Fortune, Debt, or Flight
 
-| **D6** | **Event**                                                                                                                                                        |
-| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1      | **Ruinous Deal.** One bargain broke your purse or your nerves. Gain Insight or Survival. You must change path next cycle unless you stay to rebuild.             |
-| 2      | **Well-Liked Trader.** Folk began saving goods for your return. Gain Manipulation or Insight.                                                                    |
-| 3      | **Dangerous Goods.** You carried something worth killing for. Gain Scouting or Move. Gain one enemy or one shadowing rumor.                                      |
-| 4      | **Good Season.** Silver finally stayed in your hand. Gain Manipulation or Animal Handling. Roll 2D6 silver and keep the higher die.                              |
-| 5      | **Protected by Favor.** A hall-lord, clan, or shrine took interest in your route. Gain Lore or Insight. Gain one contact.                                        |
-| 6      | **Trader of Repute.** Your word began carrying weight. Gain Manipulation or Scouting. You may take one Peddler advancement benefit even if the later roll fails. |
+| **D6** | **Event**                                                                                                                                                                                  |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1      | **Ruinous Deal.** One bargain broke your purse or your nerves. Gain Insight or Survival. You must change path next cycle unless you stay to rebuild.                                       |
+| 2      | **Well-Liked Trader.** Folk began saving goods for your return. Gain Manipulation or Insight.                                                                                              |
+| 3      | **Dangerous Goods.** You carried something worth killing for. Gain Scouting or Move. Gain one enemy or one shadowing rumor.                                                                |
+| 4      | **Good Season.** Silver finally stayed in your hand. Gain Manipulation or Animal Handling. Roll 2D6 silver and keep the higher die.                                                        |
+| 5      | **Protected by Favor.** A hall-lord, clan, or shrine took interest in your route. Gain Lore or Insight. Gain one contact.                                                                  |
+| 6      | **Trader of Repute.** Your word began carrying weight. Gain Manipulation or Scouting. You may take one Peddler advancement benefit even if the later roll fails. _This may be your Pride._ |
 
 ##### Peddler Mishaps
 
-| **D6** | **Mishap**                                                                                                                          |
-| ------ | ----------------------------------------------------------------------------------------------------------------------------------- |
-| 1      | Robbed on the road. Lose one gear benefit from this cycle and gain one enemy.                                                       |
-| 2      | You cheated the wrong buyer. Gain one rival.                                                                                        |
-| 3      | Debt closed around your throat. Begin play owing silver or service.                                                                 |
-| 4      | Pack animal lost, stolen, or eaten. Gain one bitter memory and one practical shortage.                                              |
-| 5      | Rust Brothers, shrine wardens, or hall-lords seized your wares. Lower Standing by 1 in one settlement.                              |
-| 6      | You carried contraband without knowing how far it reached. Your next cycle must change path unless you accept one dangerous patron. |
+| **D6** | **Mishap**                                                                                                                                                          |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | Robbed on the road. Lose one gear benefit from this cycle and gain one enemy.                                                                                       |
+| 2      | You cheated the wrong buyer. Gain one rival.                                                                                                                        |
+| 3      | Debt closed around your throat. Begin play owing silver or service.                                                                                                 |
+| 4      | Pack animal lost, stolen, or eaten. Gain one bitter memory and one practical shortage.                                                                              |
+| 5      | Rust Brothers, shrine wardens, or hall-lords seized your wares. Lower Standing by 1 in one settlement.                                                              |
+| 6      | You carried contraband without knowing how far it reached. Your next cycle must change path unless you accept one dangerous patron. _This may be your Dark Secret._ |
 
 ##### Peddler Advancement Benefits
 
-| **D6** | **Benefit**                                                                |
-| ------ | -------------------------------------------------------------------------- |
-| 1      | Rank 1 in Incorruptible                                                    |
-| 2      | Rank 1 in Wanderer                                                         |
-| 3      | Begin with your chosen profession talent at Rank 2 if you become a Peddler |
-| 4      | One caravan, fair-ground, or hall contact                                  |
-| 5      | Cart, pack beast, scales, and trade kit                                    |
-| 6      | One rumor, map lead, or market secret tied to treasure or danger           |
+| **D6** | **Benefit**                                                      |
+| ------ | ---------------------------------------------------------------- |
+| 1      | Rank 1 in Incorruptible                                          |
+| 2      | Rank 1 in Wanderer                                               |
+| 3      | Rank 1 in Sharp Tongue or Quartermaster                          |
+| 4      | One caravan, fair-ground, or hall contact                        |
+| 5      | Cart, pack beast, scales, and trade kit                          |
+| 6      | One rumor, map lead, or market secret tied to treasure or danger |
 
 ##### Peddler Mustering-Out
 
@@ -812,7 +821,7 @@ _You were born to the saddle, or beaten into it. Either way, you learned that a 
 
 **Turn Test:** Animal Handling or Move.
 **Normal Skills:** Animal Handling, Move, Melee, Scouting, Marksmanship, Endurance.
-**Hard-Lesson Skills:** Move, Survival, Endurance.
+**Hard-Lesson Skills:** Move, Animal Handling, Endurance.
 
 ##### Rider First Turn: Saddle, Herd, and Open Ground
 
@@ -840,7 +849,7 @@ _You were born to the saddle, or beaten into it. Either way, you learned that a 
 
 | **D6** | **Event**                                                                                                                  |
 | ------ | -------------------------------------------------------------------------------------------------------------------------- |
-| 1      | **War Band.** Mounted steel taught you speed and terror together. Gain Melee or Marksmanship.                              |
+| 1      | **War Band.** Mounted steel taught you speed and terror together. Gain Melee or Marksmanship. _This may be your Pride._    |
 | 2      | **Messenger Ride.** You crossed dangerous ground for news that mattered. Gain Move or Scouting.                            |
 | 3      | **Horse Trade.** You learned the silver side of the saddle. Gain Manipulation or Animal Handling.                          |
 | 4      | **Storm Camp.** You kept beasts and folk alive through bad weather. Gain Survival or Insight.                              |
@@ -849,21 +858,21 @@ _You were born to the saddle, or beaten into it. Either way, you learned that a 
 
 ##### Rider Fourth Turn: Broken Legs or Hard-Won Place
 
-| **D6** | **Event**                                                                                                                                                           |
-| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1      | **Fall.** Beast, weather, or battle threw you hard. Gain Endurance or Healing. Gain one scar.                                                                       |
-| 2      | **Trusted with the Herd.** Others put living wealth in your hands. Gain Animal Handling or Insight.                                                                 |
-| 3      | **Blood on the Saddle.** A raid, feud, or skirmish marked you for good. Gain Melee or Marksmanship. Gain one rival.                                                 |
-| 4      | **Lost Ground.** Drought, war, or theft ruined the life you knew. Gain Survival or Move. You must change path next cycle unless you stay to rebuild.                |
-| 5      | **Good Mount.** You and one beast became hard to separate. Gain Animal Handling or Move.                                                                            |
-| 6      | **Rider of Repute.** Your seat and judgment earned respect. Gain Manipulation or Scouting. You may take one Rider advancement benefit even if the later roll fails. |
+| **D6** | **Event**                                                                                                                                                                                     |
+| ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | **Fall.** Beast, weather, or battle threw you hard. Gain Endurance or Healing. Gain one scar.                                                                                                 |
+| 2      | **Trusted with the Herd.** Others put living wealth in your hands. Gain Animal Handling or Insight.                                                                                           |
+| 3      | **Blood on the Saddle.** A raid, feud, or skirmish marked you for good. Gain Melee or Marksmanship. Gain one rival.                                                                           |
+| 4      | **Lost Ground.** Drought, war, or theft ruined the life you knew. Gain Survival or Move. You must change path next cycle unless you stay to rebuild.                                          |
+| 5      | **Good Mount.** You and one beast became hard to separate. Gain Animal Handling or Move.                                                                                                      |
+| 6      | **Rider of Repute.** Your seat and judgment earned respect. Gain Manipulation or Scouting. You may take one Rider advancement benefit even if the later roll fails. _This may be your Pride._ |
 
 ##### Rider Mishaps
 
 | **D6** | **Mishap**                                                                                                         |
 | ------ | ------------------------------------------------------------------------------------------------------------------ |
 | 1      | Your mount died and took part of you with it. Gain one scar and one grief.                                         |
-| 2      | You lost herd, goods, or passengers under your watch. Gain one enemy or one debt.                                  |
+| 2      | You lost herd, goods, or passengers under your watch. Gain one enemy or one debt. _This may be your Dark Secret._  |
 | 3      | A fall left you wary. Gain one fear tied to speed, height, or hooves.                                              |
 | 4      | Clan or employer judged you poorly. Lower Standing by 1 in one settlement or camp.                                 |
 | 5      | Raiders or soldiers marked your trail. Gain one rival.                                                             |
@@ -871,14 +880,14 @@ _You were born to the saddle, or beaten into it. Either way, you learned that a 
 
 ##### Rider Advancement Benefits
 
-| **D6** | **Benefit**                                                              |
-| ------ | ------------------------------------------------------------------------ |
-| 1      | Rank 1 in Horseback Fighter                                              |
-| 2      | Rank 1 in Tanner                                                         |
-| 3      | Begin with your chosen profession talent at Rank 2 if you become a Rider |
-| 4      | One clan, caravan, or mounted contact                                    |
-| 5      | Riding horse with tack and travel gear                                   |
-| 6      | One rumor about a road, raid route, hidden pasture, or moving camp       |
+| **D6** | **Benefit**                                                        |
+| ------ | ------------------------------------------------------------------ |
+| 1      | Rank 1 in Horseback Fighter                                        |
+| 2      | Rank 1 in Tanner                                                   |
+| 3      | Rank 1 in Pathfinder or Pack Rat                                   |
+| 4      | One clan, caravan, or mounted contact                              |
+| 5      | Riding horse with tack and travel gear                             |
+| 6      | One rumor about a road, raid route, hidden pasture, or moving camp |
 
 ##### Rider Mustering-Out
 
@@ -899,7 +908,7 @@ _You took what was not given to you. Locks, purses, trust, silence — all of it
 
 **Normal Skills:** Stealth, Sleight of Hand, Scouting, Move, Insight, Melee
 
-**Hard-Lesson Skills:** Survival, Endurance, Stealth
+**Hard-Lesson Skills:** Stealth, Sleight of Hand, Move
 
 ##### Rogue First Turn: Lookout, Runner, or Cutpurse
 
@@ -914,36 +923,36 @@ _You took what was not given to you. Locks, purses, trust, silence — all of it
 
 ##### Rogue Second Turn: Heat and Hunger
 
-| **D6** | **Event**                                                                                                                                                      |
-| ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1      | **Guard Sweep.** The village, ferry, or camp grew watchful. Gain Scouting or Move.                                                                             |
-| 2      | **Bad Fence.** You sold to the wrong buyer. Gain Insight or Manipulation. You also gain one rival.                                                             |
-| 3      | **Cold Nights.** Hunger and wet straw taught you patience. Gain Survival or Endurance.                                                                         |
-| 4      | **Marked Door.** You cased a richer house than usual. Gain Scouting or Sleight of Hand.                                                                        |
-| 5      | **Work for a Patron.** A hall-lord, Raven Sister, or peddler used you quietly. Gain Manipulation or Insight. You also gain one high-born or dangerous contact. |
-| 6      | **Shared Score.** A partner saved your skin on the way out. Gain Stealth or Melee. Choose one contact or one future debt.                                      |
+| **D6** | **Event**                                                                                                                                                                                      |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | **Guard Sweep.** The village, ferry, or camp grew watchful. Gain Scouting or Move.                                                                                                             |
+| 2      | **Bad Fence.** You sold to the wrong buyer. Gain Insight or Manipulation. You also gain one rival.                                                                                             |
+| 3      | **Cold Nights.** Hunger and wet straw taught you patience. Gain Survival or Endurance.                                                                                                         |
+| 4      | **Marked Door.** You cased a richer house than usual. Gain Scouting or Sleight of Hand.                                                                                                        |
+| 5      | **Work for a Patron.** A hall-lord, Raven Sister, or peddler used you quietly. Gain Manipulation or Insight. You also gain one high-born or dangerous contact. _This may be your Dark Secret._ |
+| 6      | **Shared Score.** A partner saved your skin on the way out. Gain Stealth or Melee. Choose one contact or one future debt.                                                                      |
 
 ##### Rogue Third Turn: Big Score or Dirty Fall
 
-| **D6** | **Event**                                                                                                                                                        |
-| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1      | **Empty Vault.** The map was wrong or the treasure already gone. Gain Insight or Survival.                                                                       |
-| 2      | **Perfect Entry.** For one night every hinge, dog, and drunk slept at the right time. Gain Sleight of Hand or Stealth.                                           |
-| 3      | **Poison Lesson.** Someone taught you a quieter way to end trouble. Gain Crafting or Insight. You may treat poison use as part of your later profession history. |
-| 4      | **Cell Door.** You spent time behind wood or iron. Gain Endurance or Insight. You also gain one Wear.                                                            |
-| 5      | **Guild Notice.** Bigger thieves learned your name. Gain Manipulation or Scouting.                                                                               |
-| 6      | **Hidden Cache.** You salted coin or tools away where only you could find them. Gain Move or Sleight of Hand. Roll two silver dice and keep both.                |
+| **D6** | **Event**                                                                                                                                                                                        |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1      | **Empty Vault.** The map was wrong or the treasure already gone. Gain Insight or Survival.                                                                                                       |
+| 2      | **Perfect Entry.** For one night every hinge, dog, and drunk slept at the right time. Gain Sleight of Hand or Stealth. _This may be your Pride._                                                |
+| 3      | **Poison Lesson.** Someone taught you a quieter way to end trouble. Gain Crafting or Insight. You may treat poison use as part of your later profession history. _This may be your Dark Secret._ |
+| 4      | **Cell Door.** You spent time behind wood or iron. Gain Endurance or Insight. You also gain one Wear.                                                                                            |
+| 5      | **Guild Notice.** Bigger thieves learned your name. Gain Manipulation or Scouting.                                                                                                               |
+| 6      | **Hidden Cache.** You salted coin or tools away where only you could find them. Gain Move or Sleight of Hand. Roll two silver dice and keep both.                                                |
 
 ##### Rogue Fourth Turn: Betrayal, Escape, or Reinvention
 
-| **D6** | **Event**                                                                                                                                                                                           |
-| ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1      | **Sold Out.** A friend gave you to guards, slavers, or a wronged patron. Gain Insight or Endurance. You must change path next cycle unless you take the traitor as a sworn enemy.                   |
-| 2      | **Clean Getaway.** You left with enough silver and no one close behind. Gain Move or Scouting. Roll two silver dice.                                                                                |
-| 3      | **Blood on the Job.** A theft became a killing. Gain Melee or Stealth. You also gain one dark secret.                                                                                               |
-| 4      | **Under New Name.** You vanished and returned as someone else. Gain Manipulation or Insight. Start with one false identity in one settlement.                                                       |
-| 5      | **Shared Blackmail.** You learned something worth more than coin. Gain Insight or Manipulation. You also gain one rumor tied to a hall-lord, Raven Sister, or caravan master.                       |
-| 6      | **King of Rats.** For a short while, everyone below the law answered to you. Gain Stealth or Sleight of Hand. You may take one Rogue advancement benefit even if your advancement roll later fails. |
+| **D6** | **Event**                                                                                                                                                                                                                     |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | **Sold Out.** A friend gave you to guards, slavers, or a wronged patron. Gain Insight or Endurance. You must change path next cycle unless you take the traitor as a sworn enemy.                                             |
+| 2      | **Clean Getaway.** You left with enough silver and no one close behind. Gain Move or Scouting. Roll two silver dice.                                                                                                          |
+| 3      | **Blood on the Job.** A theft became a killing. Gain Melee or Stealth. You also gain one dark secret.                                                                                                                         |
+| 4      | **Under New Name.** You vanished and returned as someone else. Gain Manipulation or Insight. Start with one false identity in one settlement.                                                                                 |
+| 5      | **Shared Blackmail.** You learned something worth more than coin. Gain Insight or Manipulation. You also gain one rumor tied to a hall-lord, Raven Sister, or caravan master.                                                 |
+| 6      | **King of Rats.** For a short while, everyone below the law answered to you. Gain Stealth or Sleight of Hand. You may take one Rogue advancement benefit even if your advancement roll later fails. _This may be your Pride._ |
 
 ##### Rogue Mishaps
 
@@ -958,14 +967,14 @@ _You took what was not given to you. Locks, purses, trust, silence — all of it
 
 ##### Rogue Advancement Benefits
 
-| **D6** | **Benefit**                                                              |
-| ------ | ------------------------------------------------------------------------ |
-| 1      | Rank 1 in Sixth Sense                                                    |
-| 2      | Rank 1 in Lightning Fast                                                 |
-| 3      | Begin with your chosen profession talent at Rank 2 if you become a Rogue |
-| 4      | One underworld contact                                                   |
-| 5      | Lockpicks, dagger, and a hidden stash of silver                          |
-| 6      | One rumor about a lair, treasure site, or compromising secret            |
+| **D6** | **Benefit**                                                   |
+| ------ | ------------------------------------------------------------- |
+| 1      | Rank 1 in Sixth Sense                                         |
+| 2      | Rank 1 in Lightning Fast                                      |
+| 3      | Rank 1 in Wanderer or Sharp Tongue                            |
+| 4      | One underworld contact                                        |
+| 5      | Lockpicks, dagger, and a hidden stash of silver               |
+| 6      | One rumor about a lair, treasure site, or compromising secret |
 
 ##### Rogue Mustering-Out
 
@@ -984,24 +993,24 @@ _You read what should not be read, spoke what should not be spoken, and paid wha
 
 **Turn Test:** Lore or Insight.
 **Normal Skills:** Lore, Insight, Manipulation, Healing, Crafting, Survival.
-**Hard-Lesson Skills:** Insight, Survival, Healing.
+**Hard-Lesson Skills:** Insight, Lore, Healing.
 
 ##### Sorcerer First Turn: Apprentice, Reader, or Dabbler
 
-| **D6** | **Event**                                                                                                                                          |
-| ------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1      | **Dusty Lessons.** You read until your eyes burned and your sleep soured. Gain Lore or Insight.                                                    |
-| 2      | **Master's Errand.** A teacher trusted you with a dangerous task. Gain Manipulation or Survival.                                                   |
-| 3      | **Hidden Text.** You found writing not meant for your hands. Gain Lore or Crafting.                                                                |
-| 4      | **Circle of Salt.** You took part in your first true rite and learned fear. Gain Healing or Insight.                                               |
-| 5      | **Patron's Coin.** Someone paid for your studies and expects a return. Gain Manipulation or Lore. Roll one silver die and take one patron contact. |
-| 6      | **Night Voices.** Something answered from the other side of sleep. Gain Insight or Survival. You also gain one occult rumor.                       |
+| **D6** | **Event**                                                                                                                                                    |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1      | **Dusty Lessons.** You read until your eyes burned and your sleep soured. Gain Lore or Insight.                                                              |
+| 2      | **Master's Errand.** A teacher trusted you with a dangerous task. Gain Manipulation or Survival.                                                             |
+| 3      | **Hidden Text.** You found writing not meant for your hands. Gain Lore or Crafting.                                                                          |
+| 4      | **Circle of Salt.** You took part in your first true rite and learned fear. Gain Healing or Insight.                                                         |
+| 5      | **Patron's Coin.** Someone paid for your studies and expects a return. Gain Manipulation or Lore. Roll one silver die and take one patron contact.           |
+| 6      | **Night Voices.** Something answered from the other side of sleep. Gain Insight or Survival. You also gain one occult rumor. _This may be your Dark Secret._ |
 
 ##### Sorcerer Second Turn: Experiment and Price
 
 | **D6** | **Event**                                                                                                                                                           |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1      | **Failed Working.** You bled for knowledge and learned caution. Gain Healing or Lore. Add one Wear.                                                                 |
+| 1      | **Failed Working.** You bled for knowledge and learned caution. Gain Healing or Lore. Add one Wear. _This may be your Dark Secret._                                 |
 | 2      | **Old Bones.** A grave, ruin, or cairn yielded secrets. Gain Scouting or Lore.                                                                                      |
 | 3      | **Court Service.** You read omens, soothed nerves, or lied for someone in power. Gain Manipulation or Insight.                                                      |
 | 4      | **Poison Shelf.** You learned what grows, seeps, and kills. Gain Crafting or Healing.                                                                               |
@@ -1010,14 +1019,14 @@ _You read what should not be read, spoke what should not be spoken, and paid wha
 
 ##### Sorcerer Third Turn: Recognition or Stain
 
-| **D6** | **Event**                                                                                                                                                                 |
-| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1      | **Symbol Found.** A sign, stone, vein, or bloodline called to you. Gain Lore or Insight.                                                                                  |
-| 2      | **Named as Useful.** A hall-lord, cult, or caravan wanted a sorcerer close at hand. Gain Manipulation or Lore.                                                            |
-| 3      | **Blood Cost.** You learned power is dearer than silver. Gain Healing or Insight. You also gain one scar or one dark secret.                                              |
-| 4      | **Buried Artifact.** You touched something older than your teacher admitted. Gain Crafting or Lore.                                                                       |
-| 5      | **Jealous Eye.** Another practitioner marked you as rival or prey. Gain Insight or Manipulation. You also gain one rival.                                                 |
-| 6      | **Whispered Name.** People began seeking you for cures, omens, lies, or curses. Gain Manipulation or Healing. Gain +1 Standing in one settlement that fears or needs you. |
+| **D6** | **Event**                                                                                                                                                                                           |
+| ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | **Symbol Found.** A sign, stone, vein, or bloodline called to you. Gain Lore or Insight.                                                                                                            |
+| 2      | **Named as Useful.** A hall-lord, cult, or caravan wanted a sorcerer close at hand. Gain Manipulation or Lore.                                                                                      |
+| 3      | **Blood Cost.** You learned power is dearer than silver. Gain Healing or Insight. You also gain one scar or one dark secret.                                                                        |
+| 4      | **Buried Artifact.** You touched something older than your teacher admitted. Gain Crafting or Lore.                                                                                                 |
+| 5      | **Jealous Eye.** Another practitioner marked you as rival or prey. Gain Insight or Manipulation. You also gain one rival.                                                                           |
+| 6      | **Whispered Name.** People began seeking you for cures, omens, lies, or curses. Gain Manipulation or Healing. Gain +1 Standing in one settlement that fears or needs you. _This may be your Pride._ |
 
 ##### Sorcerer Fourth Turn: Break, Exile, or Patronage
 
@@ -1047,7 +1056,7 @@ _You read what should not be read, spoke what should not be spoken, and paid wha
 | ------ | ------------------------------------------------------------------------------- |
 | 1      | Rank 1 in Sharp Tongue                                                          |
 | 2      | Rank 1 in Poisoner                                                              |
-| 3      | Begin with your chosen profession talent at Rank 2 if you become a Sorcerer     |
+| 3      | Rank 1 in Herbalist or Sixth Sense                                              |
 | 4      | One occult contact or former mentor                                             |
 | 5      | Staff, writing kit, and one useful occult text                                  |
 | 6      | One rumor about an artifact, demon site, hidden library, or blood-bound lineage |
@@ -1069,17 +1078,17 @@ _You read what should not be read, spoke what should not be spoken, and paid wha
 
 Crisis paths are not professions. They are professionless stretches of time where the character has fallen out of a trade or calling and is struggling to get back on their feet. A cycle spent as a Captive, Drifter, Laborer, or Outcast still teaches skills and still scars the body and the memory, but it does not advance you toward any profession. These paths exist because life breaks people, and what matters is what they do after.
 
-Any character may enter a crisis path without meeting an entry gate.
+Any character may enter a crisis path without meeting a threshold.
 
 #### CAPTIVE
 
 _They took everything — your name, your blade, your say in anything. What they could not take was the part of you that counted the days and kept breathing._
 
-Captive is a crisis path, not a profession. It represents time spent in bondage — as a slave, a prisoner of war, a convicted criminal, a debt-bonded servant, or a hostage held for ransom that never came. Any character may enter it without meeting an entry gate. There is no skill to learn here except endurance and the desperate sharpness that captivity breeds. You are not building a life. You are waiting for the chance to reclaim one.
+Captive is a crisis path, not a profession. It represents time spent in bondage — as a slave, a prisoner of war, a convicted criminal, a debt-bonded servant, or a hostage held for ransom that never came. Any character may enter it without meeting a threshold. There is no skill to learn here except endurance and the desperate sharpness that captivity breeds. You are not building a life. You are waiting for the chance to reclaim one.
 
 **Turn Test:** Endurance or Insight.
 **Normal Skills:** Endurance, Insight, Survival, Melee, Stealth, Move.
-**Hard-Lesson Skills:** Endurance, Survival, Insight.
+**Hard-Lesson Skills:** Endurance, Might, Insight.
 
 ##### Captive First Turn: Taken
 
@@ -1109,21 +1118,21 @@ Captive is a crisis path, not a profession. It represents time spent in bondage 
 | ------ | --------------------------------------------------------------------------------------------------------------------------- |
 | 1      | **Failed Escape.** You ran and were caught. The punishment taught you what failure costs. Gain Move or Endurance.           |
 | 2      | **Someone Died.** A fellow prisoner broke, sickened, or was killed. You survived them. Gain Survival or Insight.            |
-| 3      | **Hidden Weapon.** You made or stole something sharp and kept it close. Gain Melee or Stealth.                              |
+| 3      | **Hidden Weapon.** You made or stole something sharp and kept it close. Gain Melee or Stealth. _This may be your Pride._    |
 | 4      | **Night Whispers.** Plans, prayers, or oaths passed between captives after dark. Gain Insight or Manipulation.              |
 | 5      | **Captor's Weakness.** You saw a crack in the authority over you — fear, greed, or sentiment. Gain Insight or Manipulation. |
 | 6      | **Hardened.** What once hurt now only aches. Something in you became stone. Gain Endurance or Survival.                     |
 
 ##### Captive Fourth Turn: Escape, Release, or Worse
 
-| **D6** | **Event**                                                                                                                                                                                           |
-| ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1      | **Broke Free.** Violence, cunning, or sheer will. You ran and did not stop. Gain Move or Melee. You must change path next cycle.                                                                    |
-| 2      | **Ransomed.** Someone paid for you. The debt followed. Gain Manipulation or Insight. Gain one debt and one contact.                                                                                 |
-| 3      | **Released.** War ended, sentence served, or the master lost interest. Gain Survival or Endurance.                                                                                                  |
-| 4      | **Sold Onward.** New master, new chains, same lesson. Gain Endurance or Insight. You may not change path this cycle unless an event forces it.                                                      |
-| 5      | **Revolt.** Captives rose together. Not all survived. Gain Melee or Move. Gain one ally or one dead friend.                                                                                         |
-| 6      | **Marked But Not Broken.** The years took skin and pride but left a core that will not bend. Gain Endurance or Survival. You may take one Captive advancement benefit even if the later roll fails. |
+| **D6** | **Event**                                                                                                                                                                                                                     |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | **Broke Free.** Violence, cunning, or sheer will. You ran and did not stop. Gain Move or Melee. You must change path next cycle.                                                                                              |
+| 2      | **Ransomed.** Someone paid for you. The debt followed. Gain Manipulation or Insight. Gain one debt and one contact.                                                                                                           |
+| 3      | **Released.** War ended, sentence served, or the master lost interest. Gain Survival or Endurance.                                                                                                                            |
+| 4      | **Sold Onward.** New master, new chains, same lesson. Gain Endurance or Insight. You may not change path this cycle unless an event forces it.                                                                                |
+| 5      | **Revolt.** Captives rose together. Not all survived. Gain Melee or Move. Gain one ally or one dead friend.                                                                                                                   |
+| 6      | **Marked But Not Broken.** The years took skin and pride but left a core that will not bend. Gain Endurance or Survival. You may take one Captive advancement benefit even if the later roll fails. _This may be your Pride._ |
 
 ##### Captive Mishaps
 
@@ -1133,7 +1142,7 @@ Captive is a crisis path, not a profession. It represents time spent in bondage 
 | 2      | Broken limb set badly. One permanent ache remains.                                                           |
 | 3      | Betrayed by a fellow captive. Gain one enemy within the prison or slave-camp.                                |
 | 4      | Starved or sickened. Lower one physical attribute by 1 (Strength or Agility, your choice).                   |
-| 5      | Witnessed cruelty you cannot forget. Gain one dark memory or one fear.                                       |
+| 5      | Witnessed cruelty you cannot forget. Gain one dark memory or one fear. _This may be your Dark Secret._       |
 | 6      | Escaped attempt failed and punishment doubled. Your next cycle must remain Captive unless freed by an event. |
 
 ##### Captive Advancement Benefits
@@ -1164,11 +1173,11 @@ Captive is a crisis path, not a profession. It represents time spent in bondage 
 
 _No hearth, no master, no plan. The road kept you because nothing else would. That is not freedom — it is what is left when everything else falls away._
 
-Drifter is a crisis path, not a profession. It represents a stretch of rootless, purposeless wandering — time between real lives. Any character may enter it without meeting an entry gate. If a forced departure leaves you with no qualifying path, you become a Drifter. You are not advancing toward anything. You are surviving until something better finds you, or you find it.
+Drifter is a crisis path, not a profession. It represents a stretch of rootless, purposeless wandering — time between real lives. Any character may enter it without meeting a threshold. If a forced departure leaves you with no qualifying path, you become a Drifter. You are not advancing toward anything. You are surviving until something better finds you, or you find it.
 
 **Turn Test:** Survival or Move.
 **Normal Skills:** Survival, Move, Insight, Scouting, Manipulation, Endurance.
-**Hard-Lesson Skills:** Survival, Move, Insight.
+**Hard-Lesson Skills:** Survival, Move, Scouting.
 
 ##### Drifter First Turn: No Wall, No Master
 
@@ -1194,25 +1203,25 @@ Drifter is a crisis path, not a profession. It represents a stretch of rootless,
 
 ##### Drifter Third Turn: Hard Habit
 
-| **D6** | **Event**                                                                                                               |
-| ------ | ----------------------------------------------------------------------------------------------------------------------- |
-| 1      | **Crossed Country.** You traveled farther than most folk ever do. Gain Move or Scouting.                                |
-| 2      | **Worked a Season.** You stayed in one place just long enough to regret it. Gain Crafting or Might.                     |
-| 3      | **Mist Memory.** Old fear from the Blood Mist years still clings to roads and ditches. Gain Insight or Survival.        |
-| 4      | **Shared Fire.** You became useful to outcasts, widows, hunters, or old men with no sons. Gain Manipulation or Insight. |
-| 5      | **Night Theft.** Need pushed your hands before your conscience. Gain Stealth or Sleight of Hand.                        |
-| 6      | **Weathered.** The road thinned you but did not break you. Gain Endurance or Survival.                                  |
+| **D6** | **Event**                                                                                                                        |
+| ------ | -------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | **Crossed Country.** You traveled farther than most folk ever do. Gain Move or Scouting. _This may be your Pride._               |
+| 2      | **Worked a Season.** You stayed in one place just long enough to regret it. Gain Crafting or Might.                              |
+| 3      | **Mist Memory.** Old fear from the Blood Mist years still clings to roads and ditches. Gain Insight or Survival.                 |
+| 4      | **Shared Fire.** You became useful to outcasts, widows, hunters, or old men with no sons. Gain Manipulation or Insight.          |
+| 5      | **Night Theft.** Need pushed your hands before your conscience. Gain Stealth or Sleight of Hand. _This may be your Dark Secret._ |
+| 6      | **Weathered.** The road thinned you but did not break you. Gain Endurance or Survival.                                           |
 
 ##### Drifter Fourth Turn: Last Road or New Life
 
-| **D6** | **Event**                                                                                                                                                             |
-| ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1      | **Too Many Doors Closed.** The road ran out of kindness. Gain Survival or Melee. You must change path next cycle.                                                     |
-| 2      | **Taken In.** A hall, camp, ferry, or caravan finally offered steadier work. Gain Manipulation or Crafting.                                                           |
-| 3      | **Old Enemy Found You.** The road is wide until it narrows all at once. Gain Move or Insight. Gain one enemy.                                                         |
-| 4      | **Road Wisdom.** You learned which folk lie first and which weather kills fastest. Gain Insight or Scouting.                                                          |
-| 5      | **Quiet Reputation.** Some places began treating you as useful instead of rootless. Gain Manipulation or Survival.                                                    |
-| 6      | **Would Not Break.** Hard years tempered rather than hollowed you. Gain Endurance or Move. You may take one Drifter advancement benefit even if the later roll fails. |
+| **D6** | **Event**                                                                                                                                                                                       |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | **Too Many Doors Closed.** The road ran out of kindness. Gain Survival or Melee. You must change path next cycle.                                                                               |
+| 2      | **Taken In.** A hall, camp, ferry, or caravan finally offered steadier work. Gain Manipulation or Crafting.                                                                                     |
+| 3      | **Old Enemy Found You.** The road is wide until it narrows all at once. Gain Move or Insight. Gain one enemy.                                                                                   |
+| 4      | **Road Wisdom.** You learned which folk lie first and which weather kills fastest. Gain Insight or Scouting.                                                                                    |
+| 5      | **Quiet Reputation.** Some places began treating you as useful instead of rootless. Gain Manipulation or Survival.                                                                              |
+| 6      | **Would Not Break.** Hard years tempered rather than hollowed you. Gain Endurance or Move. You may take one Drifter advancement benefit even if the later roll fails. _This may be your Pride._ |
 
 ##### Drifter Mishaps
 
@@ -1251,11 +1260,11 @@ Drifter is a crisis path, not a profession. It represents a stretch of rootless,
 
 _You worked with your hands because no one asked your opinion. The farm, the forge, the yard — they took your strength and gave you calluses in return._
 
-Laborer is a crisis path, not a profession. It represents hard, undifferentiated work — the kind that keeps a body fed but does not build toward a calling. Any character may enter it without meeting an entry gate. If a forced departure leaves you with no qualifying path and the road does not suit you, you become a Laborer. The work is real, the skills are real, but no guild or hall will call this a trade.
+Laborer is a crisis path, not a profession. It represents hard, undifferentiated work — the kind that keeps a body fed but does not build toward a calling. Any character may enter it without meeting a threshold. If a forced departure leaves you with no qualifying path and the road does not suit you, you become a Laborer. The work is real, the skills are real, but no guild or hall will call this a trade.
 
 **Turn Test:** Might or Crafting.
 **Normal Skills:** Might, Crafting, Endurance, Animal Handling, Insight, Manipulation.
-**Hard-Lesson Skills:** Endurance, Crafting, Insight.
+**Hard-Lesson Skills:** Might, Crafting, Endurance.
 
 ##### Laborer First Turn: Hands, Tools, and Orders
 
@@ -1281,36 +1290,36 @@ Laborer is a crisis path, not a profession. It represents hard, undifferentiated
 
 ##### Laborer Third Turn: Skill or Resentment
 
-| **D6** | **Event**                                                                                                          |
-| ------ | ------------------------------------------------------------------------------------------------------------------ |
-| 1      | **Trusted with More.** Better tools or harder work came your way. Gain Crafting or Endurance.                      |
-| 2      | **Managed Others.** For a while, your hands gave orders instead. Gain Manipulation or Insight.                     |
-| 3      | **Winter Repairs.** Cold months sharpened useful skill. Gain Crafting or Survival.                                 |
-| 4      | **Workplace Hurt.** Labor bit back with splinter, hoof, stone, or blade. Gain Healing or Endurance. Gain one scar. |
-| 5      | **Side Trade.** You learned to make a little extra under the table. Gain Crafting or Manipulation.                 |
-| 6      | **Good Reputation.** Someone would ask for you by name when hard work needed doing. Gain Insight or Crafting.      |
+| **D6** | **Event**                                                                                                               |
+| ------ | ----------------------------------------------------------------------------------------------------------------------- |
+| 1      | **Trusted with More.** Better tools or harder work came your way. Gain Crafting or Endurance. _This may be your Pride._ |
+| 2      | **Managed Others.** For a while, your hands gave orders instead. Gain Manipulation or Insight.                          |
+| 3      | **Winter Repairs.** Cold months sharpened useful skill. Gain Crafting or Survival.                                      |
+| 4      | **Workplace Hurt.** Labor bit back with splinter, hoof, stone, or blade. Gain Healing or Endurance. Gain one scar.      |
+| 5      | **Side Trade.** You learned to make a little extra under the table. Gain Crafting or Manipulation.                      |
+| 6      | **Good Reputation.** Someone would ask for you by name when hard work needed doing. Gain Insight or Crafting.           |
 
 ##### Laborer Fourth Turn: Leaving the Yoke
 
-| **D6** | **Event**                                                                                                                                                                         |
-| ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1      | **Worked to the Bone.** You could not stay in that life another season. Gain Endurance or Might. You must change path next cycle.                                                 |
-| 2      | **Kept It Running.** A farm, workshop, or camp held together because of you. Gain Crafting or Animal Handling.                                                                    |
-| 3      | **Bad Master.** Anger finally outweighed obedience. Gain Melee or Manipulation. Gain one enemy.                                                                                   |
-| 4      | **Own Tools.** You ended with gear that was yours and not borrowed. Gain Crafting or Insight.                                                                                     |
-| 5      | **Family Duty.** Kin need and labor bound you tighter than coin ever did. Gain Insight or Animal Handling. Gain one burden.                                                       |
-| 6      | **Solid Name.** Folk began to trust your work without standing over it. Gain Manipulation or Crafting. You may take one Laborer advancement benefit even if the later roll fails. |
+| **D6** | **Event**                                                                                                                                                                                                   |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | **Worked to the Bone.** You could not stay in that life another season. Gain Endurance or Might. You must change path next cycle.                                                                           |
+| 2      | **Kept It Running.** A farm, workshop, or camp held together because of you. Gain Crafting or Animal Handling.                                                                                              |
+| 3      | **Bad Master.** Anger finally outweighed obedience. Gain Melee or Manipulation. Gain one enemy.                                                                                                             |
+| 4      | **Own Tools.** You ended with gear that was yours and not borrowed. Gain Crafting or Insight.                                                                                                               |
+| 5      | **Family Duty.** Kin need and labor bound you tighter than coin ever did. Gain Insight or Animal Handling. Gain one burden.                                                                                 |
+| 6      | **Solid Name.** Folk began to trust your work without standing over it. Gain Manipulation or Crafting. You may take one Laborer advancement benefit even if the later roll fails. _This may be your Pride._ |
 
 ##### Laborer Mishaps
 
-| **D6** | **Mishap**                                                                                          |
-| ------ | --------------------------------------------------------------------------------------------------- |
-| 1      | Bad injury on the job. Gain one scar and one fear tied to tool, beast, or height.                   |
-| 2      | Cheated of wages. Begin play owed silver or holding a grudge.                                       |
-| 3      | Driven off by a master or kin. Lower Standing by 1 in one settlement.                               |
-| 4      | Hunger and overwork made you cruel or desperate. Gain one dark memory.                              |
-| 5      | A beast, wagon, or structure failed under your care. Gain one enemy or one guilty burden.           |
-| 6      | This life has wrung all it can from you. Your next cycle must change path unless you take one Wear. |
+| **D6** | **Mishap**                                                                                             |
+| ------ | ------------------------------------------------------------------------------------------------------ |
+| 1      | Bad injury on the job. Gain one scar and one fear tied to tool, beast, or height.                      |
+| 2      | Cheated of wages. Begin play owed silver or holding a grudge.                                          |
+| 3      | Driven off by a master or kin. Lower Standing by 1 in one settlement.                                  |
+| 4      | Hunger and overwork made you cruel or desperate. Gain one dark memory. _This may be your Dark Secret._ |
+| 5      | A beast, wagon, or structure failed under your care. Gain one enemy or one guilty burden.              |
+| 6      | This life has wrung all it can from you. Your next cycle must change path unless you take one Wear.    |
 
 ##### Laborer Advancement Benefits
 
@@ -1338,11 +1347,11 @@ Laborer is a crisis path, not a profession. It represents hard, undifferentiated
 
 _You were thrown out, or you fell. It does not matter which. The world outside the firelight is the same for everyone who has no name worth keeping._
 
-Outcast is a crisis path, not a profession. It represents time spent cast out from society — branded, exiled, shunned, or simply forgotten. Any character may enter it without meeting an entry gate. Exile, outlawry, branding, disgrace, or the slow death of standing all lead here. You are not building a life. You are enduring the absence of one.
+Outcast is a crisis path, not a profession. It represents time spent cast out from society — branded, exiled, shunned, or simply forgotten. Any character may enter it without meeting a threshold. Exile, outlawry, branding, disgrace, or the slow death of standing all lead here. You are not building a life. You are enduring the absence of one.
 
 **Turn Test:** Stealth or Survival.
 **Normal Skills:** Stealth, Survival, Scouting, Insight, Move, Melee.
-**Hard-Lesson Skills:** Survival, Endurance, Scouting.
+**Hard-Lesson Skills:** Stealth, Survival, Scouting.
 
 ##### Outcast First Turn: Cut Loose
 
@@ -1368,25 +1377,25 @@ Outcast is a crisis path, not a profession. It represents time spent cast out fr
 
 ##### Outcast Third Turn: Hard Reputation
 
-| **D6** | **Event**                                                                                                             |
-| ------ | --------------------------------------------------------------------------------------------------------------------- |
-| 1      | **Useful Monster.** Folk who hated your face still used your hands. Gain Manipulation or Melee.                       |
-| 2      | **Bandit Camp.** You drifted among worse company and learned from it. Gain Stealth or Scouting.                       |
-| 3      | **Settlement Edge.** You survived by moving just close enough to the walls. Gain Insight or Move.                     |
-| 4      | **Night Deal.** Something traded in whispers became your business for a season. Gain Manipulation or Sleight of Hand. |
-| 5      | **Ambush or Escape.** You learned when to strike and when to vanish. Gain Melee or Stealth.                           |
-| 6      | **Cold Wisdom.** Hard years taught you to read men faster than weather. Gain Insight or Survival.                     |
+| **D6** | **Event**                                                                                                                 |
+| ------ | ------------------------------------------------------------------------------------------------------------------------- |
+| 1      | **Useful Monster.** Folk who hated your face still used your hands. Gain Manipulation or Melee. _This may be your Pride._ |
+| 2      | **Bandit Camp.** You drifted among worse company and learned from it. Gain Stealth or Scouting.                           |
+| 3      | **Settlement Edge.** You survived by moving just close enough to the walls. Gain Insight or Move.                         |
+| 4      | **Night Deal.** Something traded in whispers became your business for a season. Gain Manipulation or Sleight of Hand.     |
+| 5      | **Ambush or Escape.** You learned when to strike and when to vanish. Gain Melee or Stealth.                               |
+| 6      | **Cold Wisdom.** Hard years taught you to read men faster than weather. Gain Insight or Survival.                         |
 
 ##### Outcast Fourth Turn: Return, Revenge, or Vanishing
 
-| **D6** | **Event**                                                                                                                                                            |
-| ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1      | **No Way Back.** The door truly shut behind you. Gain Survival or Endurance. You must change path next cycle or remain Outcast under narrowing tax.                  |
-| 2      | **Taken in by the Damned.** A gang, hidden camp, or harsh patron gave you belonging of a sort. Gain Manipulation or Stealth.                                         |
-| 3      | **Revenge Taken.** You hurt one of those who cast you out. Gain Melee or Insight. Gain one enemy and one grim satisfaction.                                          |
-| 4      | **Return in Secret.** You stepped back into old ground under another name or by moonlight. Gain Move or Manipulation.                                                |
-| 5      | **Worse than Alone.** Someone beside you proved more dangerous than solitude. Gain Insight or Scouting.                                                              |
-| 6      | **Endured Anyway.** Survival itself became a kind of strength. Gain Endurance or Insight. You may take one Outcast advancement benefit even if the later roll fails. |
+| **D6** | **Event**                                                                                                                                                                                      |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | **No Way Back.** The door truly shut behind you. Gain Survival or Endurance. You must change path next cycle or remain Outcast under narrowing tax.                                            |
+| 2      | **Taken in by the Damned.** A gang, hidden camp, or harsh patron gave you belonging of a sort. Gain Manipulation or Stealth.                                                                   |
+| 3      | **Revenge Taken.** You hurt one of those who cast you out. Gain Melee or Insight. Gain one enemy and one grim satisfaction. _This may be your Dark Secret._                                    |
+| 4      | **Return in Secret.** You stepped back into old ground under another name or by moonlight. Gain Move or Manipulation.                                                                          |
+| 5      | **Worse than Alone.** Someone beside you proved more dangerous than solitude. Gain Insight or Scouting.                                                                                        |
+| 6      | **Endured Anyway.** Survival itself became a kind of strength. Gain Endurance or Insight. You may take one Outcast advancement benefit even if the later roll fails. _This may be your Pride._ |
 
 ##### Outcast Mishaps
 
@@ -1429,6 +1438,37 @@ After the last cycle, roll once on the mustering-out table for your final path. 
 
 If a mustering-out result duplicates something you already hold, keep both if the fiction allows it or replace one with a related alternative. Two daggers from two different lives tell different stories.
 
+### UNFINISHED BUSINESS
+
+After mustering out, look back at the life the dice built. Every character carries something forward — a debt unsettled, an enemy unmet, a rumor that still pulls, a scar whose source was never repaid. Something from that road is not over yet.
+
+Choose one piece of **unfinished business** from your life's accumulated fiction. Frame it as a question your character cannot yet answer:
+
+- _Where did the ferry captain go after I could not repay him?_
+- _Who gave the order that broke my company?_
+- _What sleeps beneath the shrine they burned?_
+
+There are two kinds:
+
+| Kind             | What It Means                                                                                   | XP When Resolved |
+| ---------------- | ----------------------------------------------------------------------------------------------- | ---------------: |
+| **Short Errand** | A debt to pay, a face to find, a place to revisit. Can be settled in one to three sessions.     |            10 XP |
+| **Life Quest**   | A sworn oath, a wrong that shaped you, a truth the world owes you. May take the whole campaign. |            25 XP |
+
+**Wear determines the weight.** A character who stumbled through the life generator with few failures carries less behind them. A character beaten, broken, captured, and exiled carries debts the road will not forgive.
+
+| Wear | What You Carry                                                                                                                              |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0–1  | Choose either a Short Errand or a Life Quest.                                                                                               |
+| 2–3  | Choose a Life Quest. The past left too much undone for a quick answer.                                                                      |
+| 4+   | Choose a Life Quest. The GM also names one Short Errand drawn from your hardest Wear source — the scar, feud, or debt that weighs heaviest. |
+
+The question does not need to name the answer. It needs to point the character toward play.
+
+**Resolving Unfinished Business.** A Short Errand is resolved when the character confronts the source and acts — pays the debt, finds the face, visits the place, settles the score. A Life Quest is resolved when the central question is answered, not necessarily when the character gets what they wanted. The GM decides when a piece of unfinished business is done and awards the XP at that moment.
+
+If a character dies before resolving a Life Quest, the question passes to the next character the player creates in the same campaign. The old road has weight, and someone always inherits it.
+
 ### CHOOSE PROFESSION
 
 The life path does not replace the professions in this chapter. It leads into them.
@@ -1442,9 +1482,9 @@ Use these rules:
 
 Once your profession is set, continue with the profession rules already in this chapter:
 
-- Choose your profession talent.
+- Choose your profession talent. Mark 1 tally toward your chosen profession talent. This is your **profession talent seed** — the life you lived before play earns you that first mark. If advancement benefits already granted marks in the same talent, add the seed mark to that total.
 - Choose your general talents by age.
-- Record Pride, Dark Secret, and relationships from your profession entry.
+- Determine Pride, Dark Secret, and relationships. If you claimed a Pride or Dark Secret during the life generator, use it. Otherwise choose from your profession entry.
 - Take Resource Dice from your profession entry as normal.
 - Use the gear and silver from the life generator instead of adding the profession's ordinary starting gear and silver on top.
 
@@ -1468,11 +1508,15 @@ Languages, Willpower, appearance, and Pride follow the rest of this chapter with
 >
 > **Third cycle: Fighter.** Second run means the narrowing tax applies — turn tests at -1, mishaps at +1. This time the turns land better. He picks up Endurance and more Melee, earns a serviceable weapon, and gains one scar with a story behind it. The advancement roll succeeds.
 >
-> **Results.** Jorrh ends with 12 skill points (2 from childhood, 10 from resolved turns). His skills cluster in Melee, Survival, Scouting, and Insight — the shape of someone who fought, lost, walked hungry, and fought again. He has two scars, one enemy, one debt, one hidden shelter, and one old master who still believes in him.
+> **Results.** Jorrh ends with 12 marks (2 from childhood, 10 from resolved turns). His marks cluster in Melee (4 marks — Rank 3), Survival (3 marks — Rank 3), Scouting (2 marks — Rank 2), Insight (2 marks — Rank 2), and Healing (1 mark — Rank 1). That is the shape of someone who fought, lost, walked hungry, and fought again. He has two scars, one enemy, one debt, one hidden shelter, and one old master who still believes in him.
+>
+> When he rolled First Blood in his first cycle, the event carried a tag: _This may be your Pride._ He takes it. His Pride is: "I have killed at arm's length and I know what it costs." His Dark Secret comes from the Fighter profession entry.
+>
+> His Wear is 1 — only one pair of consecutive failures across three cycles. At 0–1 Wear he may choose either a Short Errand or a Life Quest for his unfinished business. He chooses a Life Quest. The man who left him in that ditch is still out there. His question: _Who buried me, and do they still walk free?_ That is worth 25 XP when the answer comes.
 >
 > He does not feel designed. He feels like a man who got knocked down twice and kept standing up, not because the world rewarded it but because he did not know how to do anything else.
 >
-> His profession is Fighter. The rest of the chapter takes him from here.
+> His profession is Fighter. He marks 1 tally toward Defender as his profession talent seed. The rest of the chapter takes him from here.
 
 > #### Torvin
 >
@@ -1488,9 +1532,13 @@ Languages, Willpower, appearance, and Pride follow the rest of this chapter with
 >
 > **Fourth cycle: Captive.** The Forced-Life Table sends him here — result 1, war captivity. Raiders from the Harga Wastes took his wagon, his goods, and two years of his life. He gains Endurance, Insight, Survival, and Stealth. He also gains one fellow survivor as a contact, one captor as an enemy, and one hidden route through a stronghold cellar that he will never forget.
 >
-> **Results.** Torvin ends with 16 skill points. His skills lean into Crafting, Manipulation, Insight, Endurance, and Survival — a trader shaped by stone, road, and chain. He has two contacts, two scars, one rival, one enemy, one rumor, and one escape route. He is old, slow, and knows what things cost — all things, not just the ones with prices.
+> **Results.** Torvin ends with 16 marks. His marks lean into Crafting (4 marks — Rank 3), Insight (4 marks — Rank 3), Manipulation (3 marks — Rank 3), Endurance (2 marks — Rank 2), Survival (1 mark — Rank 1), Melee (1 mark — Rank 1), and Stealth (1 mark — Rank 1). A trader shaped by stone, road, and chain. He has two contacts, two scars, one rival, one enemy, one rumor, and one escape route. He is old, slow, and knows what things cost — all things, not just the ones with prices.
 >
-> His profession is Peddler. The scars and the ledger tell the same story.
+> No tagged event offered a Pride or Dark Secret during his generation. He takes both from the Peddler profession entry.
+>
+> His Wear is 2 — two runs of consecutive failures across four cycles, one in the narrowing third cycle and one during captivity. At 2–3 Wear he chooses one lingering fear from the Wear tier. His unfinished business is a Life Quest — the past left too much undone for a quick answer. His question: _What became of the raider captain from the Harga Wastes who kept me in chains, and does he still trade in lives?_ That is worth 25 XP when answered.
+>
+> His profession is Peddler. He marks 1 tally toward Sharp Tongue as his profession talent seed. The scars and the ledger tell the same story.
 
 ### HOW DID YOU MEET?
 

@@ -1,0 +1,340 @@
+================================================================================
+FORBIDDEN LANDS 2E — LIFE PATH GENERATOR BALANCE AUDIT
+================================================================================
+
+
+────────────────────────────────────────────────────────────────────────────────
+  AGE: YOUNG (2500 characters, 2 cycles)
+────────────────────────────────────────────────────────────────────────────────
+
+  SKILL MARKS (raw tallies before rank conversion)
+  Skill                  Mean  Med  Max    Std   %≥3   %≥4   %≥7
+  Survival               1.47    1    6   1.04 14.9%  3.6%  0.0%
+  Endurance              0.94    1    5   0.97  7.2%  1.2%  0.0%
+  Insight                0.78    1    5   0.89  4.8%  1.0%  0.0%
+  Move                   0.69    1    4   0.78  2.8%  0.2%  0.0%
+  Scouting               0.59    0    5   0.75  2.0%  0.4%  0.0%
+  Healing                0.59    0    4   0.83  3.4%  0.9%  0.0%
+  Manipulation           0.55    0    6   0.77  2.4%  0.4%  0.0%
+  Stealth                0.40    0    5   0.69  1.6%  0.2%  0.0%
+  Melee                  0.33    0    2   0.51  0.0%  0.0%  0.0%
+  Animal Handling        0.32    0    3   0.53  0.0%  0.0%  0.0%
+  Crafting               0.31    0    2   0.50  0.0%  0.0%  0.0%
+  Lore                   0.31    0    3   0.52  0.1%  0.0%  0.0%
+  Marksmanship           0.30    0    2   0.50  0.0%  0.0%  0.0%
+  Might                  0.16    0    3   0.39  0.1%  0.0%  0.0%
+  Performance            0.13    0    2   0.35  0.0%  0.0%  0.0%
+  Sleight of Hand        0.11    0    2   0.33  0.0%  0.0%  0.0%
+
+  FINAL RANK DISTRIBUTION (after mark→rank conversion)
+  Skill                  R0%   R1%   R2%   R3%   R4%   R5%
+  Survival             17.6% 37.4% 41.4%  3.6%  0.0%  0.0%
+  Endurance            39.4% 35.6% 23.8%  1.2%  0.0%  0.0%
+  Insight              45.8% 36.5% 16.8%  1.0%  0.0%  0.0%
+  Move                 47.4% 38.9% 13.4%  0.2%  0.0%  0.0%
+  Scouting             53.6% 35.8% 10.2%  0.4%  0.0%  0.0%
+  Healing              58.0% 29.0% 12.1%  0.9%  0.0%  0.0%
+  Manipulation         58.2% 31.1% 10.3%  0.4%  0.0%  0.0%
+  Stealth              69.7% 22.6%  7.4%  0.2%  0.0%  0.0%
+  Melee                68.3% 29.9%  1.8%  0.0%  0.0%  0.0%
+  Animal Handling      70.5% 26.6%  2.9%  0.0%  0.0%  0.0%
+  Crafting             70.5% 27.6%  1.9%  0.0%  0.0%  0.0%
+  Lore                 71.8% 25.7%  2.5%  0.0%  0.0%  0.0%
+  Marksmanship         72.6% 25.1%  2.3%  0.0%  0.0%  0.0%
+  Might                84.3% 15.0%  0.7%  0.0%  0.0%  0.0%
+  Performance          87.9% 11.5%  0.6%  0.0%  0.0%  0.0%
+  Sleight of Hand      89.4% 10.0%  0.6%  0.0%  0.0%  0.0%
+
+  SUMMARY STATISTICS
+  Max skill rank:     mean=2.01  med=2  max=3
+  Skills with rank≥1: mean=5.95  med=6  max=8
+  Skills at Rank 1:   mean=4.38  med=4  max=8
+  Skills at Rank 2:   mean=1.49  med=2  max=4
+  Skills at Rank 3:   mean=0.08  med=0  max=2
+
+  HIGHEST RANK ACHIEVED (% of characters)
+  Rank 1:   6.5%
+  Rank 2:  85.6%
+  Rank 3:   8.0%
+  Rank 4:   0.0%
+  Rank 5:   0.0%
+  ** Characters with any skill above Rank 3: 0.0% **
+
+  TALENT GRANTS (from advancement benefits only)
+  Characters with≥1 talent: 29.9%
+  Mean talents granted: 0.32
+  Max talent rank: mean=0.30  max=2
+
+  WEAR
+  Mean: 3.25  Med: 3  Max: 6
+  0-1 Wear: 7.8%
+  2-3 Wear: 50.0%
+  4+  Wear: 42.2%
+
+  FICTION ELEMENTS
+  Contacts: mean=1.14
+  Rivals:   mean=0.77
+  Enemies:  mean=0.47
+  Scars:    mean=0.83
+  Rumors:   mean=0.74
+
+  PRIDE/DARK SECRET
+  Pride claimed:       14.9%
+  Dark Secret claimed: 39.3%
+
+  PATH USAGE (across all cycles)
+  Fighter        946 ( 18.9%)
+  Rogue          928 ( 18.6%)
+  Hunter         925 ( 18.5%)
+  Peddler        522 ( 10.4%)
+  Rider          496 (  9.9%)
+  Druid          459 (  9.2%)
+  Minstrel       411 (  8.2%)
+  Sorcerer       313 (  6.3%)
+
+  TURN TEST SUCCESS RATE
+  Mean: 45.8%  Med: 50.0%
+
+────────────────────────────────────────────────────────────────────────────────
+  AGE: ADULT (5000 characters, 3 cycles)
+────────────────────────────────────────────────────────────────────────────────
+
+  SKILL MARKS (raw tallies before rank conversion)
+  Skill                  Mean  Med  Max    Std   %≥3   %≥4   %≥7
+  Survival               2.18    2    7   1.27 36.6% 14.6%  0.1%
+  Endurance              1.58    1    6   1.22 21.6%  7.1%  0.0%
+  Insight                1.25    1    7   1.11 13.3%  3.7%  0.0%
+  Move                   1.03    1    6   0.96  7.6%  1.5%  0.0%
+  Scouting               0.89    1    6   0.91  5.4%  1.2%  0.0%
+  Healing                0.84    1    6   1.03  7.3%  2.2%  0.0%
+  Manipulation           0.76    1    6   0.91  5.1%  1.1%  0.0%
+  Stealth                0.58    0    5   0.83  3.6%  0.6%  0.0%
+  Crafting               0.53    0    4   0.68  1.1%  0.1%  0.0%
+  Melee                  0.52    0    3   0.63  0.3%  0.0%  0.0%
+  Animal Handling        0.43    0    3   0.60  0.2%  0.0%  0.0%
+  Lore                   0.42    0    3   0.60  0.3%  0.0%  0.0%
+  Marksmanship           0.41    0    3   0.60  0.4%  0.0%  0.0%
+  Might                  0.25    0    3   0.48  0.0%  0.0%  0.0%
+  Sleight of Hand        0.19    0    3   0.44  0.1%  0.0%  0.0%
+  Performance            0.14    0    3   0.38  0.1%  0.0%  0.0%
+
+  FINAL RANK DISTRIBUTION (after mark→rank conversion)
+  Skill                  R0%   R1%   R2%   R3%   R4%   R5%
+  Survival              7.3% 24.3% 53.9% 14.5%  0.1%  0.0%
+  Endurance            20.4% 31.6% 40.9%  7.1%  0.0%  0.0%
+  Insight              28.7% 35.5% 32.1%  3.7%  0.0%  0.0%
+  Move                 32.9% 40.6% 25.0%  1.5%  0.0%  0.0%
+  Scouting             39.2% 39.7% 20.0%  1.2%  0.0%  0.0%
+  Healing              48.7% 29.2% 19.9%  2.2%  0.0%  0.0%
+  Manipulation         48.2% 33.7% 17.0%  1.1%  0.0%  0.0%
+  Stealth              59.7% 27.3% 12.4%  0.6%  0.0%  0.0%
+  Crafting             56.0% 35.9%  7.9%  0.1%  0.0%  0.0%
+  Melee                55.0% 38.4%  6.6%  0.0%  0.0%  0.0%
+  Animal Handling      61.8% 33.2%  5.1%  0.0%  0.0%  0.0%
+  Lore                 63.8% 31.0%  5.2%  0.0%  0.0%  0.0%
+  Marksmanship         64.5% 30.5%  5.0%  0.0%  0.0%  0.0%
+  Might                77.4% 20.5%  2.0%  0.0%  0.0%  0.0%
+  Sleight of Hand      82.7% 15.7%  1.6%  0.0%  0.0%  0.0%
+  Performance          86.6% 12.5%  0.9%  0.0%  0.0%  0.0%
+
+  SUMMARY STATISTICS
+  Max skill rank:     mean=2.31  med=2  max=4
+  Skills with rank≥1: mean=7.67  med=8  max=12
+  Skills at Rank 1:   mean=4.80  med=5  max=12
+  Skills at Rank 2:   mean=2.55  med=3  max=6
+  Skills at Rank 3:   mean=0.32  med=0  max=2
+
+  HIGHEST RANK ACHIEVED (% of characters)
+  Rank 1:   0.1%
+  Rank 2:  69.2%
+  Rank 3:  30.6%
+  Rank 4:   0.1%
+  Rank 5:   0.0%
+  ** Characters with any skill above Rank 3: 0.1% **
+
+  TALENT GRANTS (from advancement benefits only)
+  Characters with≥1 talent: 41.7%
+  Mean talents granted: 0.47
+  Max talent rank: mean=0.43  max=2
+
+  WEAR
+  Mean: 5.35  Med: 5  Max: 10
+  0-1 Wear: 0.6%
+  2-3 Wear: 12.0%
+  4+  Wear: 87.4%
+
+  FICTION ELEMENTS
+  Contacts: mean=1.74
+  Rivals:   mean=1.25
+  Enemies:  mean=0.79
+  Scars:    mean=1.31
+  Rumors:   mean=1.02
+
+  PRIDE/DARK SECRET
+  Pride claimed:       25.1%
+  Dark Secret claimed: 57.1%
+
+  PATH USAGE (across all cycles)
+  Fighter       2475 ( 16.5%)
+  Rogue         2432 ( 16.2%)
+  Hunter        2374 ( 15.8%)
+  Rider         1425 (  9.5%)
+  Peddler       1357 (  9.0%)
+  Druid         1182 (  7.9%)
+  Minstrel      1077 (  7.2%)
+  Sorcerer       898 (  6.0%)
+  Outcast        468 (  3.1%)
+  Captive        453 (  3.0%)
+  Laborer        433 (  2.9%)
+  Drifter        426 (  2.8%)
+
+  TURN TEST SUCCESS RATE
+  Mean: 46.5%  Med: 50.0%
+
+────────────────────────────────────────────────────────────────────────────────
+  AGE: OLD (2500 characters, 4 cycles)
+────────────────────────────────────────────────────────────────────────────────
+
+  SKILL MARKS (raw tallies before rank conversion)
+  Skill                  Mean  Med  Max    Std   %≥3   %≥4   %≥7
+  Survival               2.77    3   10   1.42 54.7% 28.7%  0.7%
+  Endurance              2.12    2    9   1.42 35.2% 15.2%  0.6%
+  Insight                1.78    2    8   1.31 26.0% 10.6%  0.2%
+  Move                   1.37    1    6   1.08 13.6%  4.0%  0.0%
+  Scouting               1.21    1    5   1.01 10.8%  2.7%  0.0%
+  Healing                1.04    1    7   1.18 11.8%  4.4%  0.2%
+  Manipulation           1.02    1    6   1.05  9.4%  2.6%  0.0%
+  Stealth                0.78    0    7   1.00  6.5%  1.9%  0.1%
+  Crafting               0.73    1    5   0.80  2.5%  0.4%  0.0%
+  Melee                  0.72    1    4   0.71  1.1%  0.1%  0.0%
+  Animal Handling        0.58    0    3   0.71  1.0%  0.0%  0.0%
+  Lore                   0.58    0    4   0.72  1.3%  0.0%  0.0%
+  Marksmanship           0.50    0    3   0.66  0.6%  0.0%  0.0%
+  Might                  0.31    0    3   0.54  0.2%  0.0%  0.0%
+  Sleight of Hand        0.27    0    3   0.52  0.2%  0.0%  0.0%
+  Performance            0.19    0    3   0.45  0.2%  0.0%  0.0%
+
+  FINAL RANK DISTRIBUTION (after mark→rank conversion)
+  Skill                  R0%   R1%   R2%   R3%   R4%   R5%
+  Survival              3.7% 14.7% 52.9% 28.0%  0.6%  0.0%
+  Endurance            11.6% 24.5% 48.7% 14.6%  0.6%  0.0%
+  Insight              16.5% 29.6% 43.3% 10.4%  0.2%  0.0%
+  Move                 21.2% 39.0% 35.8%  4.0%  0.0%  0.0%
+  Scouting             25.3% 42.0% 30.1%  2.7%  0.0%  0.0%
+  Manipulation         37.9% 34.4% 25.1%  2.6%  0.0%  0.0%
+  Healing              40.8% 31.9% 22.9%  4.2%  0.2%  0.0%
+  Stealth              50.2% 30.3% 17.6%  1.8%  0.1%  0.0%
+  Melee                42.1% 45.2% 12.6%  0.1%  0.0%  0.0%
+  Crafting             45.3% 39.3% 15.0%  0.4%  0.0%  0.0%
+  Animal Handling      53.6% 35.4% 11.0%  0.0%  0.0%  0.0%
+  Lore                 54.0% 35.3% 10.6%  0.0%  0.0%  0.0%
+  Marksmanship         58.8% 32.8%  8.4%  0.0%  0.0%  0.0%
+  Might                72.5% 23.9%  3.6%  0.0%  0.0%  0.0%
+  Sleight of Hand      75.9% 21.1%  3.0%  0.0%  0.0%  0.0%
+  Performance          83.0% 14.9%  2.1%  0.0%  0.0%  0.0%
+
+  SUMMARY STATISTICS
+  Max skill rank:     mean=2.61  med=3  max=5
+  Skills with rank≥1: mean=9.08  med=9  max=14
+  Skills at Rank 1:   mean=4.94  med=5  max=12
+  Skills at Rank 2:   mean=3.43  med=3  max=8
+  Skills at Rank 3:   mean=0.69  med=1  max=3
+
+  HIGHEST RANK ACHIEVED (% of characters)
+  Rank 1:   0.0%
+  Rank 2:  40.9%
+  Rank 3:  57.4%
+  Rank 4:   1.6%
+  Rank 5:   0.0%
+  ** Characters with any skill above Rank 3: 1.7% **
+
+  TALENT GRANTS (from advancement benefits only)
+  Characters with≥1 talent: 52.2%
+  Mean talents granted: 0.65
+  Max talent rank: mean=0.54  max=2
+
+  WEAR
+  Mean: 7.26  Med: 7  Max: 14
+  0-1 Wear: 0.1%
+  2-3 Wear: 2.7%
+  4+  Wear: 97.2%
+
+  FICTION ELEMENTS
+  Contacts: mean=2.40
+  Rivals:   mean=1.71
+  Enemies:  mean=1.09
+  Scars:    mean=1.74
+  Rumors:   mean=1.31
+
+  PRIDE/DARK SECRET
+  Pride claimed:       33.1%
+  Dark Secret claimed: 70.2%
+
+  PATH USAGE (across all cycles)
+  Rogue         1481 ( 14.8%)
+  Fighter       1467 ( 14.7%)
+  Hunter        1464 ( 14.6%)
+  Rider          935 (  9.3%)
+  Peddler        912 (  9.1%)
+  Minstrel       788 (  7.9%)
+  Druid          746 (  7.5%)
+  Sorcerer       580 (  5.8%)
+  Laborer        445 (  4.5%)
+  Drifter        422 (  4.2%)
+  Outcast        386 (  3.9%)
+  Captive        374 (  3.7%)
+
+  TURN TEST SUCCESS RATE
+  Mean: 48.2%  Med: 50.0%
+
+
+================================================================================
+  CROSS-AGE COMPARISON
+================================================================================
+  Young    Max rank mean=2.01  Skills≥1 mean=5.95  Mean rank=1.28  %above R3=0.0%
+  Adult    Max rank mean=2.31  Skills≥1 mean=7.67  Mean rank=1.42  %above R3=0.1%
+  Old      Max rank mean=2.61  Skills≥1 mean=9.08  Mean rank=1.54  %above R3=1.7%
+
+
+================================================================================
+  COMPARISON WITH STANDARD METHOD
+================================================================================
+
+  Standard Method (Chapter 2):
+    Young: 8 skill points.  Max rank 3 in profession skills, 1 elsewhere.
+    Adult: 12 skill points. Max rank 3 in profession skills, 1 elsewhere.
+    Old:   16 skill points. Max rank 3 (one skill may be 4), 1 elsewhere.
+
+  Standard method typical optimized builds:
+    Young:  One skill at R3, two at R1-2, 1-2 misc at R1.  (3-5 skills total)
+    Adult:  One skill at R3, two at R2-3, rest at R1.      (5-7 skills total)
+    Old:    One skill at R4, two at R3, rest at R1.        (6-9 skills total)
+
+  Life Path Generator (this simulation):
+    Young:  See above. More spread, fewer high ranks.
+    Adult:  See above. More spread, moderate concentration.
+    Old:    See above. Widest spread, potential for R3-4 in focused skills.
+    
+
+================================================================================
+  IDENTIFIED BALANCE CONCERNS
+================================================================================
+
+  Young: R4 skill instances: 0 across 2500 characters (0.00 per char)
+  Young: R5 skill instances: 0 across 2500 characters (0.000 per char)
+
+  Adult: R4 skill instances: 4 across 5000 characters (0.00 per char)
+  Adult: R5 skill instances: 0 across 5000 characters (0.000 per char)
+
+  Old: R4 skill instances: 42 across 2500 characters (0.02 per char)
+  Old: R5 skill instances: 1 across 2500 characters (0.000 per char)
+
+  SKILL CONCENTRATION (Herfindahl index of skill marks)
+  Young: mean HHI=0.2076  (1.0=all marks in one skill, 0.0625=perfect spread across 16)
+  Adult: mean HHI=0.1713  (1.0=all marks in one skill, 0.0625=perfect spread across 16)
+  Old: mean HHI=0.1501  (1.0=all marks in one skill, 0.0625=perfect spread across 16)
+
+  NARROWING TAX ANALYSIS
+  Young: Same path entire life: 37.7%  Never repeated a path: 62.3%
+  Adult: Same path entire life: 10.3%  Never repeated a path: 41.6%
+  Old: Same path entire life: 3.3%  Never repeated a path: 27.2%
