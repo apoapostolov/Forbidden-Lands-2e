@@ -29,10 +29,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - **Reputation and Standing.** Characters start with Reputation 6 and Standing +1 in their home settlement, modified by any Standing changes gained during the life generator.
   - **Worked examples.** Two complete walkthroughs — Jorrh (Adult human Fighter via Drifter crisis) and Torvin (Old Dwarf Peddler via Captive crisis) — demonstrating full generation from childhood through profession selection.
   - **How Did You Meet? table.** Shared table for linking characters at the end of generation.
-- Added cross-reference in Chapter 2 BACKSTORIES section directing players to Appendix C for the advanced life path system.
-- Added suggested starting age ranges (Young / Adult / Old) to the YEARS PER CYCLE table in Appendix C, sourced from the kin age table in Chapter 2. Elf row notes Adult-only restriction.
-- Added GM guidance to the THRESHOLDS section in Appendix C clarifying that fictional substitutes for skill thresholds require GM sign-off. GMs running hardship or frontier campaigns where teachers, guilds, and institutions are absent may rule that no fictional threshold exists for knowledge or trained paths until the campaign makes room for them.
-- Converted Horrifying Monsters attack lists in Chapter 11 from numbered prose to `D6 / Attack / Effect` tables for each of the four monsters (Giant Serpent, Feral Ape, Enormous Spider, Forgotten God). Fixed typo OTHERWORDLY → OTHERWORLDLY on the Forgotten God.
 
 ### Changed
 
@@ -43,6 +39,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - **Killing the helpless:** Slaying a non-combatant (elder, child, surrendered prisoner) requires failing an Empathy roll, spending 1 WP, and suffering 1 Empathy damage. If the roll succeeds, the character cannot bring themselves to do it.
   - Creatures without Wits (animals, monsters, undead) are exempt from all tiers.
 - Updated the Cold-Blooded talent in Chapter 4 to map onto the new tiers. Rank 1 removes the WP cost for post-combat coup de grâce. Rank 2 bypasses the Empathy roll, WP, and Empathy damage for killing helpless non-combatants. Ranks 3–5 updated to reference both killing blows and coup de grâce.
+- Converted Horrifying Monsters attack lists in Chapter 11 from numbered prose to `D6 / Attack / Effect` tables for each of the four monsters (Giant Serpent, Feral Ape, Enormous Spider, Forgotten God). Fixed typo OTHERWORDLY → OTHERWORLDLY on the Forgotten God.
 
 ## [1.0.4] - 2026-04-07
 
