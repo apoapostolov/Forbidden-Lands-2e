@@ -30,6 +30,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - **Worked examples.** Two complete walkthroughs — Jorrh (Adult human Fighter via Drifter crisis) and Torvin (Old Dwarf Peddler via Captive crisis) — demonstrating full generation from childhood through profession selection.
   - **How Did You Meet? table.** Shared table for linking characters at the end of generation.
 - Added cross-reference in Chapter 2 BACKSTORIES section directing players to Appendix C for the advanced life path system.
+- Added suggested starting age ranges (Young / Adult / Old) to the YEARS PER CYCLE table in Appendix C, sourced from the kin age table in Chapter 2. Elf row notes Adult-only restriction.
+- Added GM guidance to the THRESHOLDS section in Appendix C clarifying that fictional substitutes for skill thresholds require GM sign-off. GMs running hardship or frontier campaigns where teachers, guilds, and institutions are absent may rule that no fictional threshold exists for knowledge or trained paths until the campaign makes room for them.
+- Converted Horrifying Monsters attack lists in Chapter 11 from numbered prose to `D6 / Attack / Effect` tables for each of the four monsters (Giant Serpent, Feral Ape, Enormous Spider, Forgotten God). Fixed typo OTHERWORDLY → OTHERWORLDLY on the Forgotten God.
 
 ### Changed
 

@@ -233,16 +233,16 @@ Elves cannot begin as Young. They begin at Adult or Old.
 
 A cycle covers a different span of calendar time depending on kin. The four turns within a cycle divide that span roughly but not equally — a turn is not a fixed number of months. It is one reach of the story: brief if the wheel bites fast, long if the years grind.
 
-| Kin      | Years Per Cycle |
-| -------- | --------------: |
-| Human    |               4 |
-| Half-Elf |              12 |
-| Halfling |               4 |
-| Dwarf    |              10 |
-| Elf      |              25 |
-| Goblin   |               4 |
-| Orc      |               3 |
-| Wolfkin  |               3 |
+| Kin      | Years Per Cycle | Young | Adult      | Old  |
+| -------- | --------------: | ----- | ---------- | ---- |
+| Human    |               4 | 16–25 | 26–50      | 51+  |
+| Half-Elf |              12 | 16–30 | 31–100     | 101+ |
+| Halfling |               4 | 16–25 | 26–60      | 61+  |
+| Dwarf    |              10 | 20–40 | 41–80      | 81+  |
+| Elf      |              25 | —     | Adult only | —    |
+| Goblin   |               4 | 16–25 | 26–60      | 61+  |
+| Orc      |               3 | 13–20 | 21–45      | 46+  |
+| Wolfkin  |               3 | 13–20 | 21–40      | 41+  |
 
 ### RESOLVE LIFE CYCLES
 
@@ -327,6 +327,8 @@ Some paths assume training, access, or recognized standing before a character ma
 | Rider                                                      | Animal Handling 1 or Move 1, or access to a herd, mount, or riding household in the fiction   |
 
 If a character does not meet a path's threshold, choose another path for that cycle. If no other path makes sense, the character falls into one of the crisis paths — Drifter, Laborer, Outcast, or Captive — whichever best fits the event that broke the old life.
+
+**Using fiction instead of a skill threshold?** Check with the GM first. The fictional substitutes above assume that teachers, patrons, and institutions are available somewhere in the world your group is building. Some campaigns begin in places where they are not — a remote frontier, a world of collapsed order, a starting scenario of pure hardship where no guild masters, grove keepers, or learned merchants are within reach. In those settings the GM may rule that the fictional threshold cannot be claimed for a given path. This is not a punishment; it is the world telling the character that the road to that life is not open here yet. A Sorcerer does not emerge from a village that has never seen a grimoire. A Druid does not come from country that burned its last grove. Those paths become available once the campaign makes room for them.
 
 #### ADVANCEMENT AND DEPARTURE
 

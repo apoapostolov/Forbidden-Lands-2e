@@ -260,12 +260,15 @@ These massive serpents can swallow whole creatures of surprising size. These eno
 ✦ **MOVE**: 1 (acts once per round)
 ✦ **WEAKNESS**: An attack aimed at the mouth suffers a -2 penalty, but is not protected by any armor.
 ✦ **ATTACKS**:
-1 - HYPNOTIZING LOOK! - The eyes of the serpent are like horrific promises. Roll an attack with 8 base dice and any damage 1. If it hits, the target loses their next SLOW action.
-2 - CRUSHING EMBRACE! - The serpent wraps one character with their massive body. Roll an attack with 8 base dice and damage 1 (Blunt). If it hits, the target is GRAPPLED and the serpent automatically succeeds on a SWALLOW HOLE on the next turn.
-3 - OTHERWORLDLY HISS! - The serpent hisses at its prey. Roll an attack with 10 base dice and deal 1 to all characters within Short range.
-4 - POISONOUS BITE! - The serpent extends its teeth and attacks. Roll 8 base dice with damage 2 (Stab). If it hits, the target suffers a lethal poison of potency 6.
-5 - TAIL SLASH! - The serpent dangerously slashes its tail. Roll an attack with 10 base dice and damage 1 (Blunt) against all enemies in Near range.
-6 - SWALLOWED WHOLE! - The serpent opens its maw and bites to swallow a character whole. Roll 6 base dice with damage 3 (Stab). If it hits, the target is trapped inside the beast and will suffer an attack with 10 base dice and damage 1 each turn inside.
+
+| D6  | Attack                 | Effect                                                                                                                                                                                                                            |
+| :-: | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  1  | **HYPNOTIZING LOOK!**  | The serpent's eyes are like horrific promises. Roll an attack with 8 base dice, damage 1. If it hits, the target loses their next SLOW action.                                                                                    |
+|  2  | **CRUSHING EMBRACE!**  | The serpent wraps one character in its massive body. Roll an attack with 8 base dice, damage 1 (Blunt). If it hits, the target is GRAPPLED and the serpent automatically succeeds on SWALLOW WHOLE on the next turn.              |
+|  3  | **OTHERWORLDLY HISS!** | The serpent hisses at its prey. Roll an attack with 10 base dice, damage 1 against all characters within Short range.                                                                                                             |
+|  4  | **POISONOUS BITE!**    | The serpent extends its fangs. Roll 8 base dice, damage 2 (Stab). If it hits, the target suffers a lethal poison of potency 6.                                                                                                    |
+|  5  | **TAIL SLASH!**        | The serpent lashes its tail in a wide arc. Roll an attack with 10 base dice, damage 1 (Blunt) against all enemies in Near range.                                                                                                  |
+|  6  | **SWALLOWED WHOLE!**   | The serpent opens its maw and lunges. Roll 6 base dice, damage 3 (Stab). If it hits, the target is trapped inside the beast and suffers an automatic attack with 10 base dice, damage 1 at the start of each turn until cut free. |
 
 #### Feral Ape
 
@@ -276,12 +279,15 @@ These humongous apes are the result of an evolutionary offshoot of humans that e
 ✦ **MOVE**: 2 (acts twice per round)
 ✦ **WEAKNESS**: Afraid of fire (attacks against a character holding fire have a -2 penalty to all attacks)
 ✦ **ATTACKS**:
-1 - CHEST BEATING! - The ape beats its chest with untamed fury. Roll an attack with 8 base dice and 1 fear damage against all characters in Short range.
-2 - RUSHED JUMP! - The ape jumps towards a character in near range. Roll an attack with 8 base dice and damage 2 (Blunt). If it hits, the target falls prone and drops a weapon.
-3 - CHARGE! - The ape charges head on against a character in Short range. Roll an attack with 6 base dice and damage 2 (Blunt). If it hits, the character falls prone and is pushed a zone.
-4 - HIDEOUS BITE! - The ape bites a character, trying to rip off some flesh. Roll an attack with 8 base dice and damage 1 (Stab).
-5 - BONE BREAKER! - The ape mauls its victim to break their bones. Roll an attack with 6 base dice and damage 2 (Blunt).
-6 - RIP APART! - The ape grabs a character with its victim and pulls with a tremendous force. Roll an attack with 4 base dice and damage 3 (Slash).
+
+| D6  | Attack             | Effect                                                                                                                                                                    |
+| :-: | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  1  | **CHEST BEATING!** | The ape beats its chest with untamed fury. Roll an attack with 8 base dice, damage 1 (Horror) against all characters in Short range.                                      |
+|  2  | **RUSHED JUMP!**   | The ape leaps at a character in Near range. Roll an attack with 8 base dice, damage 2 (Blunt). If it hits, the target falls prone and drops a weapon.                     |
+|  3  | **CHARGE!**        | The ape charges head-on into a character in Short range. Roll an attack with 6 base dice, damage 2 (Blunt). If it hits, the character falls prone and is pushed one zone. |
+|  4  | **HIDEOUS BITE!**  | The ape bites, trying to rip off flesh. Roll an attack with 8 base dice, damage 1 (Stab).                                                                                 |
+|  5  | **BONE BREAKER!**  | The ape mauls its victim to shatter bone. Roll an attack with 6 base dice, damage 2 (Blunt).                                                                              |
+|  6  | **RIP APART!**     | The ape grabs a character and pulls with tremendous force. Roll an attack with 4 base dice, damage 3 (Slash).                                                             |
 
 #### Enormous Spider
 
@@ -292,12 +298,15 @@ These large spiders only grow in the darkest corners of the earth, ambushing tra
 ✦ **MOVE**: 2 (acts twice per round)
 ✦ **WEAKNESS**: Only attacks once per turn when in bright light.
 ✦ **ATTACKS**:
-1 - DANCE OF DEATH! - The spider moves in a tantalizing way, playing with its prey. Roll an attack with 8 base dice and damage 1 (Horror) against all characters within Short range.
-2 - SILK EMBRACE! - The spider shoots a web and entangles a victim in Short range. Roll an attack with 8 base dice and damage 1 (Blunt). If it hits, the victim falls prone and is covered in sticky silk, which greatly hinders all physical actions until cleaned.
-3 - MESMERIZING EYES! - The spider looks into the eyes of its victim. Roll an attack with 8 base dice and damage 1 (Horror). If it hits, the victim loses its next FAST action.
-4 - GRUESOME BITE! - The spider bites its victim. Roll an attack with 8 base dice and damage 1 (Slash).
-5 - BODY SLAM! - The spider uses its body to crush its victim. Roll an attack with 8 base dice and damage 2 (Blunt).
-6 - POISONOUS STING! - The spider stings its victim. Roll an attack with 8 base dice and damage 1 (Stab). If it hits, the victim suffers a paralysing poison of potency 6.
+
+| D6  | Attack                | Effect                                                                                                                                                                                                                 |
+| :-: | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  1  | **DANCE OF DEATH!**   | The spider moves in a tantalising way, playing with its prey. Roll an attack with 8 base dice, damage 1 (Horror) against all characters within Short range.                                                            |
+|  2  | **SILK EMBRACE!**     | The spider shoots a web at a victim in Short range. Roll an attack with 8 base dice, damage 1 (Blunt). If it hits, the victim falls prone and is covered in sticky silk, hindering all physical actions until cleaned. |
+|  3  | **MESMERIZING EYES!** | The spider holds its victim's gaze. Roll an attack with 8 base dice, damage 1 (Horror). If it hits, the victim loses its next FAST action.                                                                             |
+|  4  | **GRUESOME BITE!**    | The spider bites. Roll an attack with 8 base dice, damage 1 (Slash).                                                                                                                                                   |
+|  5  | **BODY SLAM!**        | The spider drives its mass into the victim. Roll an attack with 8 base dice, damage 2 (Blunt).                                                                                                                         |
+|  6  | **POISONOUS STING!**  | The spider stings. Roll an attack with 8 base dice, damage 1 (Stab). If it hits, the victim suffers a paralysing poison of potency 6.                                                                                  |
 
 #### Forgotten God
 
@@ -307,9 +316,12 @@ A creature older than the earth that it inhabits and feeds from; sucking all lif
 ✦ **ARMOR**: 10
 ✦ **WEAKNESS**: Bronze weapons ignore armor and cause double damage to this foul creature.
 ✦ **ATTACKS**:
-1 - SIGHT OF AGES PAST! - The horror sends visions of past times and other worlds so alien that cause fear on the heart of the bravest warrior. Roll an attack with 10 base dice and damage 2 (Horror) at all characters in Short range.
-2 - TENTACLE GRAB! - The horror tries to grab a character in Near range and squeeze their organs out with tremendous force. Roll an attack with 10 base dice and damage 2 (Blunt).
-3 - OTHERWORDLY SCREECHING! - The horror produces an unbearable sound from an unknown source. Roll an attack with 6 base dice and damage 3 against all characters in Near range.
-4 - ACIDIC SECRETIONS! - The horror spits acid from several pustules in its body towards a character. Roll an attack with 8 base dice and damage 2 (Special). Any damage reduced by armor is permanently reduced from its armor rating.
-5 - BEAK ATTACK! - The horror uses its beak to break a character in two parts. Roll for an attack with 6 base dice and damage 3 (Slash). If it hits and causes damage, it causes Critical Injuries from both Slash and Horror tables.
-6 - TENTACLE SMASH! - The horror smashes a character. Roll an attack with 6 base dice and damage 3 (Blunt). If it hits and causes damage, it causes Critical Injuries from both Slash and Horror tables.
+
+| D6  | Attack                       | Effect                                                                                                                                                                                             |
+| :-: | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  1  | **SIGHT OF AGES PAST!**      | The horror floods minds with visions of alien worlds. Roll an attack with 10 base dice, damage 2 (Horror) against all characters in Short range.                                                   |
+|  2  | **TENTACLE GRAB!**           | The horror seizes a character in Near range and crushes. Roll an attack with 10 base dice, damage 2 (Blunt).                                                                                       |
+|  3  | **OTHERWORLDLY SCREECHING!** | The horror produces an unbearable sound from an unknown source. Roll an attack with 6 base dice, damage 3 against all characters in Near range.                                                    |
+|  4  | **ACIDIC SECRETIONS!**       | The horror spits acid from pustules across its body. Roll an attack with 8 base dice, damage 2 (Special). Any damage absorbed by armor permanently reduces that armor's rating by the same amount. |
+|  5  | **BEAK ATTACK!**             | The horror's beak snaps shut around a character. Roll an attack with 6 base dice, damage 3 (Slash). If it causes damage, roll on both the Slash and Horror critical injury tables.                 |
+|  6  | **TENTACLE SMASH!**          | The horror brings a limb crashing down. Roll an attack with 6 base dice, damage 3 (Blunt). If it causes damage, roll on both the Blunt and Horror critical injury tables.                          |
