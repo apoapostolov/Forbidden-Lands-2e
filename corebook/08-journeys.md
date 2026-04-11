@@ -633,8 +633,7 @@ You may regain your Hygiene die, up to a maximum of a D12 die (or 4D6 if you use
 If you use the "Hygiene" die, then as soon as you lose all your Hygiene die, you become FILTHY. Otherwise, your GM could perhaps give you the FILTHY condition from certain events. Like falling into a pile of manure? Or sleeping in the gutter after a too heavy night out? Being FILTHY has several effects:
 
 - You both smell and look awful. Take a -2 penalty to all **MANIPULATION** rolls against targets that aren't FILTHY.
-- You cannot help others or benefit from help from others.
-- Whenever you are BROKEN, you must roll against disease with a virulence rating of 4.
+- Whenever you are BROKEN from loss of STRENGTH or AGILITY, you must roll against disease with a virulence rating of 4.
 - As soon as you can wash yourself and your clothes (or in other ways regain a Hygiene die, if you use the "Hygiene" module), you are no longer FILTHY, but any contracted diseases stay.
 
 ### EXPLORE
@@ -988,7 +987,7 @@ A few things worth keeping in mind as the Reputation system runs at your table.
 >
 > _"We killed the thing in the barrow," Garmelda said._
 >
-> _The slot closed. A minute later the gate opened. A woman with grey braids and a belt knife stood there. She looked at the blood, the missing shield, the way Heme favored his left side._
+> _The slot closed. A minute later the gate opened. A woman with grey braids and a belt knife stood there. She looked at the blood, the missing shield, the way the Raven favored her left side._
 >
 > _"You'd better come in," she said. "There's stew. And work, if you want it."_
 
@@ -1163,8 +1162,6 @@ A **petition** is a quarter-day activity. The character travels to the hall, wai
 | -------------------------------------------------- | ---------------------------------------------------------------------------- |
 | Fellowship has local Standing +2 or higher         | Automatic. The chief knows you and will hear you.                            |
 | Fellowship has local Reputation 3+ and Standing 0+ | _MANIPULATION_ difficulty 1. A name that carries no ill will opens the door. |
-| Fellowship has a letter of introduction or sponsor | No roll. The sponsor's Standing applies for the first meeting.               |
-| Fellowship has just completed a notice board job   | No roll. The employer wants the report.                                      |
 | Cold approach, Reputation 1–2                      | _MANIPULATION_ difficulty 2. The chief is busy.                              |
 | Cold approach, Reputation 0 or Standing negative   | _MANIPULATION_ difficulty 3. Strangers, or remembered badly.                 |
 
