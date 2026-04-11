@@ -523,7 +523,7 @@ Stronghold functions create lasting trade advantages. A fellowship that invests 
 | **STABLE**      | Reduces animal upkeep costs by 50% at this stronghold. Provides replacement animals at standard price.                   |
 | **WAREHOUSE**   | Stores up to 20 load units of trade cargo at no weekly cost. Cargo stored here does not spoil.                           |
 
-### WAREHOUSE Stronghold Function
+### New Function: WAREHOUSE
 
 **Cost:** 200 wood, 100 stone. One HOUSING consumed.
 
@@ -535,19 +535,26 @@ A stronghold with MARKETPLACE and WAREHOUSE becomes a trade hub. NPC caravans se
 
 ---
 
-## Simple Trade for Faster Play
+## Simple Trade
 
-The full caravan system offers granular detail for a trading-focused campaign. For groups that want trade as background activity, use this shortcut:
+Not every campaign puts a caravan at the center. If trade is background work — a side venture between adventures, a way to move goods while traveling anyway — collapse the full system to one roll.
 
-1. **Decide**: Starting capital and destination.
-2. **Roll**: One MANIPULATION roll, difficulty based on cargo volume.
-3. **Result**: Profits equal 1D6 × capital per ⚔️ on the roll. That's the margin (before subtracting wages and feed).
+**Pick a capital.** The character commits silver to goods before leaving. This is the cargo cost.
 
-Example: A peddler with 200 silver spends it on wool, rolls MANIPULATION, and gets 2 ⚔️. Profit: 2 × 1D6 × 200 = 2 × [4] × 200 = 1600 silver... No. That is broken.
+**Make a MANIPULATION roll** when the run ends. Difficulty 1 for a small load (up to 5 load units). Difficulty 2 for a medium load (6–15 units). Difficulty 3 for a large run (16+ units). Apply the usual modifiers for MARKETPLACE, supply tier, and Standing.
 
-Instead: Use 1 ⚔️ = profit of 20% of capital, 2 ⚔️ = 30%, 3+ ⚔️ = 50%. The peddler with 200 silver at 2 ⚔️ gains 60 silver profit. A light run, but realistic.
+**Return on the roll:**
 
-The shortcut collapses a season of trading into one roll and five minutes. For campaigns where a caravan is a side activity, this works fine. For campaigns where trade is the spotlight, use the full system.
+| ⚔️ | Profit |
+| --- | --- |
+| — | Loss. Recover 75% of cargo cost. The run went badly — spoilage, bad prices, or a hostile market. |
+| 1 | Thin margin. Recover 110% of cargo cost. Wages and feed eat most of it. |
+| 2 | Decent run. Recover 130% of cargo cost. |
+| 3+ | Good trade. Recover 150% of cargo cost. The name travels ahead of the cart. |
+
+Subtract wages, feed, and tolls from the profit before counting gains. A drover and two guards on a two-week run costs roughly 15–20 silver in wages; fodder for three animals adds another 10–12 silver.
+
+This collapses a season of trade into five minutes between sessions. Use it when the caravan is a vehicle for the story, not the story itself. Use the full system when the road is the point.
 
 ---
 
