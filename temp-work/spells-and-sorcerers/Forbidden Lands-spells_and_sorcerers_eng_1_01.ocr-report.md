@@ -6,13 +6,13 @@
 
 - `all_caps_lines`: 0
 - `double_blank_runs`: 0
-- `dropcap_damage_candidates`: 543
+- `dropcap_damage_candidates`: 555
 - `html_breaks`: 0
-- `markdown_headings`: 351
+- `markdown_headings`: 328
 - `page_number_lines`: 0
 - `picture_placeholders`: 0
 - `picture_text_markers`: 0
-- `pipe_table_lines`: 572
+- `pipe_table_lines`: 641
 - `spaced_heading_candidates`: 0
 
 ## Raw Repeated Short-Line Candidates

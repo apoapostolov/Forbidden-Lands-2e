@@ -41,7 +41,7 @@ Even in Full Guided mode, you never pick freely from the whole table. Roll two r
 6. In your first cycle, childhood covers the First Turn and Second Turn — resolve only the Third Turn and Fourth Turn. Every later cycle resolves all four turns.
 7. For each resolved turn, make the path's turn test. On success, mark 1 skill from the path's normal list and roll the turn event. On failure, mark 1 skill from the hard-lesson list and roll a mishap. Marks convert to final ranks using the progression table under Skill Ranks and Marks.
 8. At the end of each cycle, roll advancement or departure.
-9. After the last cycle, roll on the mustering-out table for your final path.
+9. After the last cycle, roll on the mustering-out table for your final path. The number of rolls equals the turns you completed in that path (maximum 3). Choose one result.
 10. Check the starting gear floor — fill any gaps in weapon, armor, mount, instrument, silver, waterskin, or backpack.
 11. Choose one piece of unfinished business from your life's accumulated fiction.
 12. Choose your profession using the qualification rules in this section.
@@ -259,7 +259,7 @@ Every cycle has four turns, each carrying a different weight.
 | Third Turn  | Rise      | Promotion, discovery, recognition, temptation, secret knowledge |
 | Fourth Turn | Reckoning | Betrayal, battle, scandal, oath, escape, inheritance, ruin      |
 
-Each path in this section has a separate event table for every turn, so the fiction shifts as the cycle progresses. If a turn gives you a choice between two skills, the player decides which one fits the story better.
+Each path in this section has a separate event table for every turn, so the story shifts as the cycle progresses. If a turn gives you a choice between two skills, the player decides which one fits the story better.
 
 #### RESOLVING A TURN
 
@@ -311,34 +311,35 @@ Not every event carries a tag. The ones that do are the kind of moments that mar
 
 #### THRESHOLDS
 
-Most paths have no threshold. If the fiction allows it, a character may enter.
+Most paths have no threshold. If the story allows it, a character may enter.
 
 Some paths assume training, access, or recognized standing before a character may walk them:
 
-| Path                                                       | Threshold                                                                                     |
-| ---------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| Fighter, Rogue, Hunter, Drifter, Laborer, Outcast, Captive | None                                                                                          |
-| Druid                                                      | Lore 1 or Healing 1, or a shrine, grove, teacher, or sacred duty in the fiction               |
-| Sorcerer                                                   | Lore 1, or an occult contact, teacher, grimoire fragment, or marked sign in the fiction       |
-| Minstrel                                                   | Performance 1 or Manipulation 1, or a patron, troupe, or hall that would take you in          |
-| Peddler                                                    | Manipulation 1 or Insight 1, or trade goods, caravan work, or a market contact in the fiction |
-| Rider                                                      | Animal Handling 1 or Move 1, or access to a herd, mount, or riding household in the fiction   |
+| Path                                                       | Threshold                                                                                   |
+| ---------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Fighter, Rogue, Hunter, Drifter, Laborer, Outcast, Captive | None                                                                                        |
+| Druid                                                      | Lore 1 or Healing 1, or a shrine, grove, teacher, or sacred duty in the story               |
+| Sorcerer                                                   | Lore 1, or an occult contact, teacher, grimoire fragment, or marked sign in the story       |
+| Minstrel                                                   | Performance 1 or Manipulation 1, or a patron, troupe, or hall that would take you in        |
+| Peddler                                                    | Manipulation 1 or Insight 1, or trade goods, caravan work, or a market contact in the story |
+| Rider                                                      | Animal Handling 1 or Move 1, or access to a herd, mount, or riding household in the story   |
 
 If a character does not meet a path's threshold, choose another path for that cycle. If no other path makes sense, the character falls into one of the crisis paths — Drifter, Laborer, Outcast, or Captive — whichever best fits the event that broke the old life.
 
 > **Optional — Childhood Suggested Path.** If your childhood foundation's Suggested Path has a threshold, you may enter it for the Third and Fourth Turn of your first cycle without meeting that threshold. The suggestion implies that your upbringing already laid the groundwork — a grove-keeper's household, a merchant caravan, a shrine at the edge of the village. Thresholds apply normally when entering a path as your second cycle or later, because by then you are choosing the life rather than being born into it. This is a group option; if your GM is running a campaign where scarcity of teachers and institutions matters, they may decline it.
 
-> **Using fiction instead of a skill threshold?** Check with the GM first. The fictional substitutes above assume that teachers, patrons, and institutions are available somewhere in the world your group is building. Some campaigns begin in places where they are not — a remote frontier, a world of collapsed order, a starting scenario of pure hardship where no guild masters, grove keepers, or learned merchants are within reach. In those settings the GM may rule that the fictional threshold cannot be claimed for a given path. This is not a punishment; it is the world telling the character that the road to that life is not open here yet. A Sorcerer does not emerge from a village that has never seen a grimoire. A Druid does not come from country that burned its last grove. Those paths become available once the campaign makes room for them.
+> **Using story context instead of a skill threshold?** Check with the GM first. The story-based substitutes above assume that teachers, patrons, and institutions are available somewhere in the world your group is building. Some campaigns begin in places where they are not — a remote frontier, a world of collapsed order, a starting scenario of pure hardship where no guild masters, grove keepers, or learned merchants are within reach. In those settings the GM may rule that the story threshold cannot be claimed for a given path. This is not a punishment; it is the world telling the character that the road to that life is not open here yet. A Sorcerer does not emerge from a village that has never seen a grimoire. A Druid does not come from country that burned its last grove. Those paths become available once the campaign makes room for them.
 
 #### ADVANCEMENT AND DEPARTURE
 
 At the end of each cycle, roll once on the path's advancement table using one of the path's turn test skills.
 
-| Result                | Outcome                                                                       |
-| --------------------- | ----------------------------------------------------------------------------- |
-| Failure               | You leave that path. Roll or choose a new one next cycle.                     |
-| Success               | You may remain in the same path next cycle. Gain one listed path benefit.     |
-| Two or more successes | As success, and gain one extra contact, rumor, or path-specific gear benefit. |
+| Result        | Outcome                                                                                                                              |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Failure       | You leave that path. Roll or choose a new one next cycle.                                                                            |
+| Success       | You may remain in the same path next cycle. Roll once on the advancement benefits table and take the result.                         |
+| Two successes | As success, but roll twice on the advancement benefits table. Each roll must produce a unique result — reroll duplicates. Take both. |
+| Three or more | As two successes, then choose one result from the remaining four options on the advancement benefits table. Take all three results.  |
 
 #### REPEATING A PATH
 
@@ -350,13 +351,11 @@ After the first completed cycle in the same path:
 - Failed turn tests roll mishaps with +1.
 - The same direct talent benefit cannot be gained twice from that path's advancement table.
 
-Staying in one path is still possible. Staying forever is no longer the obvious best choice.
-
 #### CHANGING PATHS
 
 At the end of any cycle, a character may leave a path voluntarily — even after a successful advancement roll. No roll is needed. The old life has already paid for the next one.
 
-The new path must follow the fiction. You do not move from a jail pit to horse-warrior without some road between them.
+The new path must follow the story. You do not move from a jail pit to horse-warrior without some road between them.
 
 #### FORCED DEPARTURE
 
@@ -365,7 +364,7 @@ A cycle forces a path change when:
 - A Fourth Turn event says you must change path.
 - A mishap says the path is broken.
 - You fail the advancement roll.
-- The fiction clearly destroys the old life.
+- The story clearly destroys the old life.
 
 When this happens, choose the next path from the event that caused the break. If the event does not name a path, roll on the forced-life table below.
 
@@ -382,7 +381,7 @@ When this happens, choose the next path from the event that caused the break. If
 
 Choose the path that best fits the break. If both fit, the player chooses.
 
-Prison, slavery, hostage-taking, and bond-service now have their own crisis path: Captive. Use it whenever the fiction puts a character in chains, behind bars, or under another person's control against their will. After the captivity ends, the character may return to a profession path if they meet its threshold — or fall into another crisis path if the damage was too deep.
+Prison, slavery, hostage-taking, and bond-service now have their own crisis path: Captive. Use it whenever the story puts a character in chains, behind bars, or under another person's control against their will. After the captivity ends, the character may return to a profession path if they meet its threshold — or fall into another crisis path if the damage was too deep.
 
 ### PROFESSION PATHS
 
@@ -444,14 +443,15 @@ _You learned the names the trees remember and the prices the land collects. Holy
 
 ##### Druid Mishaps
 
-| **D6** | **Mishap**                                                                                                        |
-| ------ | ----------------------------------------------------------------------------------------------------------------- |
-| 1      | You misread a sign and someone paid for it. Gain one guilty memory and one rival. _This may be your Dark Secret._ |
-| 2      | A rite turned on you. Gain one scar or visible mark tied to the mishap.                                           |
-| 3      | Villagers denounced you. Lower Standing by 1 in one settlement.                                                   |
-| 4      | You protected the wrong thing, or at the wrong cost. Gain one enemy.                                              |
-| 5      | Something followed you out of a holy or cursed place. Gain one recurring omen.                                    |
-| 6      | Your teacher died, vanished, or condemned you. Your next cycle must change path unless you take one Wear.         |
+| **D6** | **Mishap**                                                                                                                                                                             |
+| ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | You misread a sign and someone paid for it. Gain one guilty memory and one rival. _This may be your Dark Secret._                                                                      |
+| 2      | A rite turned on you. Gain one scar or visible mark tied to the mishap.                                                                                                                |
+| 3      | Villagers denounced you. Lower Standing by 1 in one settlement.                                                                                                                        |
+| 4      | You protected the wrong thing, or at the wrong cost. Gain one enemy.                                                                                                                   |
+| 5      | Something followed you out of a holy or cursed place. Gain one recurring omen.                                                                                                         |
+| 6      | Your teacher died, vanished, or condemned you. Your next cycle must change path unless you take one Wear.                                                                              |
+| 7      | A curse or spirit you mishandled turned outward before you could contain it. Gain one scar and one enemy, and lower Standing by 1 in one settlement. Your next cycle must change path. |
 
 ##### Druid Advancement Benefits
 
@@ -531,14 +531,15 @@ _You held a line, carried a blade, marched where you were told, and survived wha
 
 ##### Fighter Mishaps
 
-| **D6** | **Mishap**                                                                                                                            |
-| ------ | ------------------------------------------------------------------------------------------------------------------------------------- |
-| 1      | Captured and stripped. Change your next cycle to Captive, Outcast, or Rogue.                                                          |
-| 2      | Left for dead. Gain one scar and one enemy who thinks you should have stayed buried.                                                  |
-| 3      | You obeyed a foul order. Begin play with a dark secret tied to that deed.                                                             |
-| 4      | You deserted. Lower your Standing by 1 in one settlement that knows your face.                                                        |
-| 5      | A comrade died because of you, or because you think so. Gain a grieving contact or a blood-feud rival.                                |
-| 6      | Your body held, your nerve did not. Gain Insight or Endurance, then take one fear tied to fire, cavalry, sorcery, or enclosed places. |
+| **D6** | **Mishap**                                                                                                                                                                                              |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | Captured and stripped. Change your next cycle to Captive, Outcast, or Rogue.                                                                                                                            |
+| 2      | Left for dead. Gain one scar and one enemy who thinks you should have stayed buried.                                                                                                                    |
+| 3      | You obeyed a foul order. Begin play with a dark secret tied to that deed.                                                                                                                               |
+| 4      | You deserted. Lower your Standing by 1 in one settlement that knows your face.                                                                                                                          |
+| 5      | A comrade died because of you, or because you think so. Gain a grieving contact or a blood-feud rival.                                                                                                  |
+| 6      | Your body held, your nerve did not. Gain Insight or Endurance, then take one fear tied to fire, cavalry, sorcery, or enclosed places.                                                                   |
+| 7      | You survived a rout or siege that killed everyone you served with, and you came back changed. Gain two scars and one fear tied to fire, the dark, or enclosed ground. Your next cycle must change path. |
 
 ##### Fighter Advancement Benefits
 
@@ -616,14 +617,15 @@ _You fed the living by killing the wild. The forest taught patience, the quarry 
 
 ##### Hunter Mishaps
 
-| **D6** | **Mishap**                                                                                                                                 |
-| ------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1      | A beast tore you open. Gain one scar and one fear.                                                                                         |
-| 2      | You led someone into danger and they did not come back out. Gain one guilty contact or one grieving enemy. _This may be your Dark Secret._ |
-| 3      | Hunger drove you to theft. Lower Standing by 1 in one settlement.                                                                          |
-| 4      | You crossed the wrong forester, clan, or patrol. Gain one rival.                                                                           |
-| 5      | You brought something home that should have stayed in the dark woods. Gain one omen or rumor.                                              |
-| 6      | Your prey was no beast at all, or not only that. Your next cycle must change path unless you take one Wear.                                |
+| **D6** | **Mishap**                                                                                                                                                             |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | A beast tore you open. Gain one scar and one fear.                                                                                                                     |
+| 2      | You led someone into danger and they did not come back out. Gain one guilty contact or one grieving enemy. _This may be your Dark Secret._                             |
+| 3      | Hunger drove you to theft. Lower Standing by 1 in one settlement.                                                                                                      |
+| 4      | You crossed the wrong forester, clan, or patrol. Gain one rival.                                                                                                       |
+| 5      | You brought something home that should have stayed in the dark woods. Gain one omen or rumor.                                                                          |
+| 6      | Your prey was no beast at all, or not only that. Your next cycle must change path unless you take one Wear.                                                            |
+| 7      | Something tracked you back from deep country and found what you loved. Gain one scar, one enemy, and one omen the GM will use later. Your next cycle must change path. |
 
 ##### Hunter Advancement Benefits
 
@@ -701,14 +703,15 @@ _You sang for strangers and ate by their pleasure. The songs are older than you,
 
 ##### Minstrel Mishaps
 
-| **D6** | **Mishap**                                                                                                            |
-| ------ | --------------------------------------------------------------------------------------------------------------------- |
-| 1      | You slandered the wrong person. Gain one enemy.                                                                       |
-| 2      | Drink, lust, or pride left you in disgrace. Lower Standing by 1 in one settlement. _This may be your Dark Secret._    |
-| 3      | Your troupe broke apart violently. Gain one rival or one dead contact's memory.                                       |
-| 4      | You stole a song, tale, or lover and paid for it. Gain one scar or one dark secret.                                   |
-| 5      | A patron's protection turned to ownership. Your next cycle must change path unless you carry that patron as a burden. |
-| 6      | Something you sang woke more than applause. Gain one omen, rumor, or uncanny follower.                                |
+| **D6** | **Mishap**                                                                                                                                                                                                                   |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | You slandered the wrong person. Gain one enemy.                                                                                                                                                                              |
+| 2      | Drink, lust, or pride left you in disgrace. Lower Standing by 1 in one settlement. _This may be your Dark Secret._                                                                                                           |
+| 3      | Your troupe broke apart violently. Gain one rival or one dead contact's memory.                                                                                                                                              |
+| 4      | You stole a song, tale, or lover and paid for it. Gain one scar or one dark secret.                                                                                                                                          |
+| 5      | A patron's protection turned to ownership. Your next cycle must change path unless you carry that patron as a burden.                                                                                                        |
+| 6      | Something you sang woke more than applause. Gain one omen, rumor, or uncanny follower.                                                                                                                                       |
+| 7      | A patron, hall, or rival decided your words had cost too much and made certain others agreed. Gain one enemy, lower Standing by 1 in two settlements, and begin play with one dark secret. Your next cycle must change path. |
 
 ##### Minstrel Advancement Benefits
 
@@ -786,14 +789,15 @@ _You carried what folk needed and charged what the road would bear. Every villag
 
 ##### Peddler Mishaps
 
-| **D6** | **Mishap**                                                                                                                                                          |
-| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1      | Robbed on the road. Lose one gear benefit from this cycle and gain one enemy.                                                                                       |
-| 2      | You cheated the wrong buyer. Gain one rival.                                                                                                                        |
-| 3      | Debt closed around your throat. Begin play owing silver or service.                                                                                                 |
-| 4      | Pack animal lost, stolen, or eaten. Gain one bitter memory and one practical shortage.                                                                              |
-| 5      | Rust Brothers, shrine wardens, or hall-lords seized your wares. Lower Standing by 1 in one settlement.                                                              |
-| 6      | You carried contraband without knowing how far it reached. Your next cycle must change path unless you accept one dangerous patron. _This may be your Dark Secret._ |
+| **D6** | **Mishap**                                                                                                                                                                                                                   |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | Robbed on the road. Lose one gear benefit from this cycle and gain one enemy.                                                                                                                                                |
+| 2      | You cheated the wrong buyer. Gain one rival.                                                                                                                                                                                 |
+| 3      | Debt closed around your throat. Begin play owing silver or service.                                                                                                                                                          |
+| 4      | Pack animal lost, stolen, or eaten. Gain one bitter memory and one practical shortage.                                                                                                                                       |
+| 5      | Rust Brothers, shrine wardens, or hall-lords seized your wares. Lower Standing by 1 in one settlement.                                                                                                                       |
+| 6      | You carried contraband without knowing how far it reached. Your next cycle must change path unless you accept one dangerous patron. _This may be your Dark Secret._                                                          |
+| 7      | A bad route, a dishonest broker, and a creditor with reach undid everything you built. Lose all gear from this cycle, gain one dangerous enemy, and begin play owing a serious named debt. Your next cycle must change path. |
 
 ##### Peddler Advancement Benefits
 
@@ -871,14 +875,15 @@ _You were born to the saddle, or beaten into it. Either way, you learned that a 
 
 ##### Rider Mishaps
 
-| **D6** | **Mishap**                                                                                                         |
-| ------ | ------------------------------------------------------------------------------------------------------------------ |
-| 1      | Your mount died and took part of you with it. Gain one scar and one grief.                                         |
-| 2      | You lost herd, goods, or passengers under your watch. Gain one enemy or one debt. _This may be your Dark Secret._  |
-| 3      | A fall left you wary. Gain one fear tied to speed, height, or hooves.                                              |
-| 4      | Clan or employer judged you poorly. Lower Standing by 1 in one settlement or camp.                                 |
-| 5      | Raiders or soldiers marked your trail. Gain one rival.                                                             |
-| 6      | Your path is broken by loss of beast, clan, or pasture. Your next cycle must change path unless you take one Wear. |
+| **D6** | **Mishap**                                                                                                                                                                           |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1      | Your mount died and took part of you with it. Gain one scar and one grief.                                                                                                           |
+| 2      | You lost herd, goods, or passengers under your watch. Gain one enemy or one debt. _This may be your Dark Secret._                                                                    |
+| 3      | A fall left you wary. Gain one fear tied to speed, height, or hooves.                                                                                                                |
+| 4      | Clan or employer judged you poorly. Lower Standing by 1 in one settlement or camp.                                                                                                   |
+| 5      | Raiders or soldiers marked your trail. Gain one rival.                                                                                                                               |
+| 6      | Your path is broken by loss of beast, clan, or pasture. Your next cycle must change path unless you take one Wear.                                                                   |
+| 7      | Your mount died badly and those who knew it held you responsible. Gain two scars, lose any mount-related gear from this cycle, and gain one enemy. Your next cycle must change path. |
 
 ##### Rider Advancement Benefits
 
@@ -958,14 +963,15 @@ _You took what was not given to you. Locks, purses, trust, silence — all of it
 
 ##### Rogue Mishaps
 
-| **D6** | **Mishap**                                                                                                                               |
-| ------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| 1      | Branded, beaten, or maimed in public. Gain one scar and lower Standing by 1 in one settlement.                                           |
-| 2      | A score went bad and left a corpse behind. Gain one enemy tied to that dead person's kin or patron.                                      |
-| 3      | Thrown into a cell. Your next cycle must be Captive, Fighter, Outcast, or Drifter unless you buy your way free through an event.         |
-| 4      | Your hidden cache was found first. Lose one gear result from this cycle and gain one rival.                                              |
-| 5      | You crossed an outlaw chief. Gain one bounty or one gang feud.                                                                           |
-| 6      | Panic taught you caution. Gain Endurance or Insight, then begin play with one fear tied to dogs, prison, heights, or bells in the night. |
+| **D6** | **Mishap**                                                                                                                                                                                               |
+| ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | Branded, beaten, or maimed in public. Gain one scar and lower Standing by 1 in one settlement.                                                                                                           |
+| 2      | A score went bad and left a corpse behind. Gain one enemy tied to that dead person's kin or patron.                                                                                                      |
+| 3      | Thrown into a cell. Your next cycle must be Captive, Fighter, Outcast, or Drifter unless you buy your way free through an event.                                                                         |
+| 4      | Your hidden cache was found first. Lose one gear result from this cycle and gain one rival.                                                                                                              |
+| 5      | You crossed an outlaw chief. Gain one bounty or one gang feud.                                                                                                                                           |
+| 6      | Panic taught you caution. Gain Endurance or Insight, then begin play with one fear tied to dogs, prison, heights, or bells in the night.                                                                 |
+| 7      | The wrong score brought the wrong people and they burned more than your plan. Gain one scar, one bounty in one settlement, and lower Standing by 1 in two settlements. Your next cycle must change path. |
 
 ##### Rogue Advancement Benefits
 
@@ -1043,14 +1049,15 @@ _You read what should not be read, spoke what should not be spoken, and paid wha
 
 ##### Sorcerer Mishaps
 
-| **D6** | **Mishap**                                                                                                       |
-| ------ | ---------------------------------------------------------------------------------------------------------------- |
-| 1      | Your experiment maimed someone important. Gain one enemy and one fear of discovery.                              |
-| 2      | You were denounced as unclean, cursed, or dangerous. Lower Standing by 1 in one settlement.                      |
-| 3      | Your notes were stolen. Gain one occult rival and lose one gear benefit from this cycle.                         |
-| 4      | A patron demanded more than you can safely give. Begin play owing a service, secret, or relic.                   |
-| 5      | Mishap and backlash left a mark on your flesh. Gain one scar known to those who understand magic.                |
-| 6      | You saw too much. Gain Insight or Healing, then begin play with one recurring omen, nightmare, or hallucination. |
+| **D6** | **Mishap**                                                                                                                                                                                     |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | Your experiment maimed someone important. Gain one enemy and one fear of discovery.                                                                                                            |
+| 2      | You were denounced as unclean, cursed, or dangerous. Lower Standing by 1 in one settlement.                                                                                                    |
+| 3      | Your notes were stolen. Gain one occult rival and lose one gear benefit from this cycle.                                                                                                       |
+| 4      | A patron demanded more than you can safely give. Begin play owing a service, secret, or relic.                                                                                                 |
+| 5      | Mishap and backlash left a mark on your flesh. Gain one scar known to those who understand magic.                                                                                              |
+| 6      | You saw too much. Gain Insight or Healing, then begin play with one recurring omen, nightmare, or hallucination.                                                                               |
+| 7      | A rite or formula escaped your control and hurt people who had nothing to do with it. Gain one enemy, one visible scar, and one fear tied to the wrong done. Your next cycle must change path. |
 
 ##### Sorcerer Advancement Benefits
 
@@ -1138,14 +1145,15 @@ Captive is a crisis path, not a profession. It represents time spent in bondage 
 
 ##### Captive Mishaps
 
-| **D6** | **Mishap**                                                                                                   |
-| ------ | ------------------------------------------------------------------------------------------------------------ |
-| 1      | Scarred by captor — brand, lash-mark, or cut. Gain one visible scar.                                         |
-| 2      | Broken limb set badly. One permanent ache remains.                                                           |
-| 3      | Betrayed by a fellow captive. Gain one enemy within the prison or slave-camp.                                |
-| 4      | Starved or sickened. Lower one physical attribute by 1 (Strength or Agility, your choice).                   |
-| 5      | Witnessed cruelty you cannot forget. Gain one dark memory or one fear. _This may be your Dark Secret._       |
-| 6      | Escaped attempt failed and punishment doubled. Your next cycle must remain Captive unless freed by an event. |
+| **D6** | **Mishap**                                                                                                                                                                                                                              |
+| ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | Scarred by captor — brand, lash-mark, or cut. Gain one visible scar.                                                                                                                                                                    |
+| 2      | Broken limb set badly. One permanent ache remains.                                                                                                                                                                                      |
+| 3      | Betrayed by a fellow captive. Gain one enemy within the prison or slave-camp.                                                                                                                                                           |
+| 4      | Starved or sickened. Lower one physical attribute by 1 (Strength or Agility, your choice).                                                                                                                                              |
+| 5      | Witnessed cruelty you cannot forget. Gain one dark memory or one fear. _This may be your Dark Secret._                                                                                                                                  |
+| 6      | Escaped attempt failed and punishment doubled. Your next cycle must remain Captive unless freed by an event.                                                                                                                            |
+| 7      | They made an example of you that others watched and remembered. Gain two scars and one fear that follows you into every enclosed or watched place. Your next cycle must remain Captive or become Outcast unless freed by a named event. |
 
 ##### Captive Advancement Benefits
 
@@ -1227,14 +1235,15 @@ Drifter is a crisis path, not a profession. It represents a stretch of rootless,
 
 ##### Drifter Mishaps
 
-| **D6** | **Mishap**                                                                                        |
-| ------ | ------------------------------------------------------------------------------------------------- |
-| 1      | Beaten and robbed. Gain one scar and lose one gear benefit from this cycle.                       |
-| 2      | Turned away in winter or storm. Gain one fear or one bitter oath.                                 |
-| 3      | Accused of theft, sorcery, or plague-carrying. Lower Standing by 1 in one settlement.             |
-| 4      | Hunger drove you low. Gain one dark memory or one debt.                                           |
-| 5      | Someone kind died after helping you. Gain one grieving contact or one guilty burden.              |
-| 6      | You can no longer bear the road alone. Your next cycle must change path unless you take one Wear. |
+| **D6** | **Mishap**                                                                                                                                                                                                       |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | Beaten and robbed. Gain one scar and lose one gear benefit from this cycle.                                                                                                                                      |
+| 2      | Turned away in winter or storm. Gain one fear or one bitter oath.                                                                                                                                                |
+| 3      | Accused of theft, sorcery, or plague-carrying. Lower Standing by 1 in one settlement.                                                                                                                            |
+| 4      | Hunger drove you low. Gain one dark memory or one debt.                                                                                                                                                          |
+| 5      | Someone kind died after helping you. Gain one grieving contact or one guilty burden.                                                                                                                             |
+| 6      | You can no longer bear the road alone. Your next cycle must change path unless you take one Wear.                                                                                                                |
+| 7      | The road gave you enemies you never earned and left you with worse than nothing. Gain one scar, one enemy, and lose one gear benefit from this cycle. Your next cycle must change path and begins with one Wear. |
 
 ##### Drifter Advancement Benefits
 
@@ -1314,14 +1323,15 @@ Laborer is a crisis path, not a profession. It represents hard, undifferentiated
 
 ##### Laborer Mishaps
 
-| **D6** | **Mishap**                                                                                             |
-| ------ | ------------------------------------------------------------------------------------------------------ |
-| 1      | Bad injury on the job. Gain one scar and one fear tied to tool, beast, or height.                      |
-| 2      | Cheated of wages. Begin play owed silver or holding a grudge.                                          |
-| 3      | Driven off by a master or kin. Lower Standing by 1 in one settlement.                                  |
-| 4      | Hunger and overwork made you cruel or desperate. Gain one dark memory. _This may be your Dark Secret._ |
-| 5      | A beast, wagon, or structure failed under your care. Gain one enemy or one guilty burden.              |
-| 6      | This life has wrung all it can from you. Your next cycle must change path unless you take one Wear.    |
+| **D6** | **Mishap**                                                                                                                                                                                                            |
+| ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | Bad injury on the job. Gain one scar and one fear tied to tool, beast, or height.                                                                                                                                     |
+| 2      | Cheated of wages. Begin play owed silver or holding a grudge.                                                                                                                                                         |
+| 3      | Driven off by a master or kin. Lower Standing by 1 in one settlement.                                                                                                                                                 |
+| 4      | Hunger and overwork made you cruel or desperate. Gain one dark memory. _This may be your Dark Secret._                                                                                                                |
+| 5      | A beast, wagon, or structure failed under your care. Gain one enemy or one guilty burden.                                                                                                                             |
+| 6      | This life has wrung all it can from you. Your next cycle must change path unless you take one Wear.                                                                                                                   |
+| 7      | A collapse, a violent overseer, or a catastrophic failure marked you and put you out of work at the same time. Gain one scar, one enemy, and lower Standing by 1 in one settlement. Your next cycle must change path. |
 
 ##### Laborer Advancement Benefits
 
@@ -1339,7 +1349,7 @@ Laborer is a crisis path, not a profession. It represents hard, undifferentiated
 | **D6** | **Result**                                                           |
 | ------ | -------------------------------------------------------------------- |
 | 1      | Tool kit and sturdy practical gear                                   |
-| 2      | Pack beast or work animal, if the fiction allows it                  |
+| 2      | Pack beast or work animal, if the story allows it                    |
 | 3      | D6 silver and one unpaid obligation                                  |
 | 4      | One employer contact and one bitter former master or rival worker    |
 | 5      | One scar and one useful lesson behind it                             |
@@ -1401,14 +1411,15 @@ Outcast is a crisis path, not a profession. It represents time spent cast out fr
 
 ##### Outcast Mishaps
 
-| **D6** | **Mishap**                                                                                                                   |
-| ------ | ---------------------------------------------------------------------------------------------------------------------------- |
-| 1      | Beaten, branded, or stoned out of a place. Gain one scar.                                                                    |
-| 2      | Betrayed by one of the few you trusted. Gain one rival.                                                                      |
-| 3      | Starved, froze, or nearly drowned before crawling back. Gain one fear or chronic pain.                                       |
-| 4      | Branded a thief, plague-bearer, or witch. Lower Standing by 1 in one settlement.                                             |
-| 5      | You hurt someone who did not deserve it. Gain one dark secret.                                                               |
-| 6      | The road outside society has changed you too much. Your next cycle must change path or gain one extra Wear before it begins. |
+| **D6** | **Mishap**                                                                                                                                                                                                                                         |
+| ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | Beaten, branded, or stoned out of a place. Gain one scar.                                                                                                                                                                                          |
+| 2      | Betrayed by one of the few you trusted. Gain one rival.                                                                                                                                                                                            |
+| 3      | Starved, froze, or nearly drowned before crawling back. Gain one fear or chronic pain.                                                                                                                                                             |
+| 4      | Branded a thief, plague-bearer, or witch. Lower Standing by 1 in one settlement.                                                                                                                                                                   |
+| 5      | You hurt someone who did not deserve it. Gain one dark secret.                                                                                                                                                                                     |
+| 6      | The road outside society has changed you too much. Your next cycle must change path or gain one extra Wear before it begins.                                                                                                                       |
+| 7      | Found, judged, and driven out a second time, further and harder. Gain two scars, lower Standing by 1 in two settlements, and gain one fear tied to community, firelight, or being known. Your next cycle must change path or begins with two Wear. |
 
 ##### Outcast Advancement Benefits
 
@@ -1436,9 +1447,17 @@ Outcast is a crisis path, not a profession. It represents time spent cast out fr
 
 ### MUSTER OUT
 
-After the last cycle, roll once on the mustering-out table for your final path. This gives you the practical remains of the life you just left behind — gear, silver, a contact, a rival, a rumor, or a scar that still matters.
+After the last cycle, roll on the mustering-out table for your final path. The number of rolls equals the turns you completed in that path, to a maximum of 3. Choose one result and discard the others.
 
-If a mustering-out result duplicates something you already hold, keep both if the fiction allows it or replace one with a related alternative. Two daggers from two different lives tell different stories.
+| Turns completed in final path | Draws |
+| ----------------------------- | ----- |
+| 1                             | 1     |
+| 2                             | 2     |
+| 3–4                           | 3     |
+
+This gives you the practical remains of the life you just left behind — gear, silver, a contact, a rival, a rumor, or a scar that still matters. A longer commitment earns more options; a short or desperate stint earns one chance at whatever it left you.
+
+If a mustering-out result duplicates something you already hold, keep both if the story allows it or replace one with a related alternative. Two daggers from two different lives tell different stories.
 
 ### STARTING GEAR FLOOR
 
@@ -1452,7 +1471,7 @@ The life generator may leave you with nothing but scars and stories. After muste
 
 Keep everything the dice gave you on top of the floor. The gear floor exists to prevent a character from walking into session one unarmed and broke — it does not replace the generator's results.
 
-Gear granted by events and mustering-out should be interpreted as specific items during play. "A serviceable weapon" means a real weapon from the gear chapter — the player and GM agree on what fits the fiction. When in doubt, pick the simplest version.
+Gear granted by events and mustering-out should be interpreted as specific items during play. "A serviceable weapon" means a real weapon from the gear chapter — the player and GM agree on what fits the story. When in doubt, pick the simplest version.
 
 ### UNFINISHED BUSINESS
 

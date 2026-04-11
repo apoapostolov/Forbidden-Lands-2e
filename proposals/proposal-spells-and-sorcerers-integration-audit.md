@@ -8,7 +8,9 @@ This proposal audits the third-party supplement _Spells & Sorcerers_ (v1.01) aga
 
 The operating principle: add what fills genuine gaps. Reject what replaces things that already work. Every adoption must layer onto the existing system without rewriting it.
 
-The corebook currently has 16 disciplines and approximately 300 spells. _Spells & Sorcerers_ has 17 disciplines and approximately 300 spells. Roughly 12% of S&S spells share names with corebook spells. The remaining 88% are novel content — but not all of it is compatible.
+The corebook currently has 16 disciplines and approximately 367 spells. _Spells & Sorcerers_ has 17 disciplines and approximately 300 spells. Roughly 12% of S&S spells share names with corebook spells. The remaining 88% are novel content — but not all of it is compatible.
+
+> **Cross-reference audit (April 2026).** A line-by-line cross-reference of all 28 originally proposed spells against the actual corebook spell inventory identified 7 duplicates or power-creep conflicts. The proposal has been revised to reject those 7 and adopt 21. Three factual errors in the original assessment were corrected: Dispel Magic (rank 2) was mischaracterized as targeting active spells (it is reactive at casting time); Raise the Dead was listed as rank 3 (it is rank 2, Ritual); and the existing Transfer spell (rank 3, General) was missed entirely.
 
 ## Audit Scope
 
@@ -145,63 +147,54 @@ These are assessed individually because each is tied to a specific discipline ad
 
 **Assessment: ADOPT, expanded to all four elements.** The S&S version only covers fire and uses bonus dice that add mishap risk. The corebook model is cleaner: a flat Power Level bonus, no extra dice, no extra mishap exposure. The bonus does not apply to effects created by the spell itself — you cannot stand in your own Fireball to fuel a second one.
 
-**Core principle.** Presence is not enough. The element must be acting on the caster. Each element has its own form of exposure — what it means for the caster to have surrendered some authority over their body to the element. The tiers reflect how deep that surrender goes.
+**Core principle.** Two tiers, two thresholds.
+
+- **+1** requires strong, active elemental presence — the element is dominant in the environment and the caster is exposed to it, not comfortable beside it.
+- **+2** requires genuine physical self-risk: the caster is in danger, a survival roll may be needed, and the element has authority over their body, not the other way around.
 
 The GM makes the final call on which tier applies. When in doubt, round down.
 
 ---
 
-**FIRE — the caster must be at risk of burning**
+**FIRE**
 
-A torch in hand or a campfire at a safe distance provides nothing. The fire must be large enough and close enough that catching alight is a genuine possibility — not hypothetical, but one stumble or wind-shift away.
-
-| Tier | Requirement                                                                                                           | Power Level |
-| ---- | --------------------------------------------------------------------------------------------------------------------- | ----------- |
-| —    | Open flame of any kind at safe distance (torches, campfires, hearths)                                                 | No bonus    |
-| +1   | Standing at arm's reach of a large fire; heat is painful; embers drift close; the skin tightens                       | +1 PL       |
-| +2   | Inside a burning room; smoke obscures vision; staying requires a MOVE roll each round to avoid catching fire          | +2 PL       |
-| +3   | A building or forest burns around the caster; catching fire is likely without active effort; survival is the question | +3 PL       |
+| Tier | Requirement                                                                                                                                        | Power Level |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| —    | Open flame at safe distance — torches, campfires, hearths; no threat of ignition                                                                   | No bonus    |
+| +1   | Large fire in close quarters; heat is painful; the air is hot enough to blister; embers drift onto clothing; catching alight is one stumble away   | +1 PL       |
+| +2   | Inside a burning structure or surrounded by burning terrain; smoke obscures vision; staying requires a MOVE roll each round to avoid catching fire | +2 PL       |
 
 ---
 
-**WATER — the caster must be submerged**
+**WATER**
 
-Rain, even heavy rain, does not qualify. Standing at the water's edge does not qualify. The element must have weight on the body and resistance against movement. Full submersion in violent water is not just a power source — it is a surrender of control to the element.
-
-| Tier | Requirement                                                                                                                              | Power Level |
-| ---- | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| —    | Any contact short of submersion (splashing, rain, waterskin poured over a hand)                                                          | No bonus    |
-| +1   | Knee-deep in water — river, lake, sea, or flood; water pushes against the legs                                                           | +1 PL       |
-| +2   | Waist-deep or deeper; chest-deep, swimming; the current, tide, or mass of water affects movement and balance                             | +2 PL       |
-| +3   | Fully submerged for at least one round in strong current or stormy sea; the caster is underwater, unable to breathe, pulled by the water | +3 PL       |
+| Tier | Requirement                                                                                                                             | Power Level |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| —    | Any calm water contact — splashing, rain, wading in still shallows, a calm lake or pond                                                 | No bonus    |
+| +1   | Strong current, rough sea, or flood water; knee-deep or deeper; the water is actively pushing against the caster and resisting movement | +1 PL       |
+| +2   | Fully submerged for at least one round; the caster cannot breathe; must succeed a MIGHT roll to surface or take damage from drowning    | +2 PL       |
 
 ---
 
-**WIND — the caster must be airborne or in a gale; lightning required for the highest tier**
+**WIND**
 
-Indoors means nothing. Open air on a calm day means nothing. The wind must be working against the caster — pushing, redirecting, threatening footing or altitude. Air is the most accessible element and the most forgiving to channel, so its ceiling under natural conditions is +2. The third tier belongs to lightning: the sky turning on the caster, the element expressing itself as raw electrical violence rather than movement.
-
-| Tier | Requirement                                                                                                                                                       | Power Level |
-| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| —    | Any wind that does not threaten footing or direction (light breeze, open window, moving at speed)                                                                 | No bonus    |
-| +1   | Exposed to sustained strong wind — cliff edge, mountain pass, open sea deck, hilltop in a squall; clothing snaps and tears, footing is uncertain                  | +1 PL       |
-| +2   | Airborne by any means (Flight spell, great bird, jump from height) in strong wind; the wind affects trajectory and speed                                          | +2 PL       |
-| +3   | Active lightning storm with strikes in the immediate area; the caster has been struck by lightning this scene, or is the highest point exposed to ongoing strikes | +3 PL       |
+| Tier | Requirement                                                                                                                                                                                        | Power Level |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| —    | Any wind below gale strength — light breeze, open window, still indoors                                                                                                                            | No bonus    |
+| +1   | Sustained gale; cliff edge, mountain pass, open sea deck, or hilltop in a squall; clothing tears and footing is actively threatened                                                                | +1 PL       |
+| +2   | Full storm with active lightning in the immediate area; strikes are landing nearby; the caster is close enough to be a plausible target; a MOVE roll may be required to stay standing or on course | +2 PL       |
 
 ---
 
-**EARTH — the caster must be enclosed by stone, or in the presence of the living rock**
+**EARTH**
 
-Earth is everywhere underfoot, which makes proximity meaningless. The bonus does not come from touching soil or standing on rock. It comes from being _inside_ the earth — enclosed by it, with unbroken stone on all sides — or from the presence of lava, which is earth in its most primal state: the deep rock of the world turned liquid, carrying the full pressure of everything below.
+Earth is everywhere underfoot, which makes proximity meaningless. Soil, worked stone, and shallow caves touched by human hands do not qualify. The element must be dominant and untamed.
 
-A quarry does not qualify: the stone is broken open, sky is present, the element has been undone. A cellar or dungeon does not qualify: the stone is worked, the depth is shallow. But a volcanic passage with a flowing lava channel makes the walls themselves speak — even if the caster is standing in open air, the lava is the earth's own voice.
-
-| Tier | Requirement                                                                                                                                                           | Power Level |
-| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| —    | Any surface context — open ground, shallow cave with sky visible, worked stone floor, quarry, cellar, ruins                                                           | No bonus    |
-| +1   | Inside a cave or tunnel where unworked rock walls press in from at least two sides and the ceiling is stone; no sky visible                                           | +1 PL       |
-| +2   | Deep underground — a significant mine shaft, a natural cavern, a burial mound cut into bedrock; rock overhead in mass; the weight of the earth is felt                | +2 PL       |
-| +3   | Lava is present and flowing — a volcanic tunnel, a magma chamber, a lava tube with an active channel; the rock is not dead stone but living, molten, and moving earth | +3 PL       |
+| Tier | Requirement                                                                                                                                                                                                                                                                            | Power Level |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| —    | Any surface or human-made context — open ground, quarry, cellar, dungeon, worked stone floors, shallow caves with sky visible or human construction present                                                                                                                            | No bonus    |
+| +1   | Inside a natural cave or tunnel; unworked rock on all sides and overhead; no sky visible; no human construction present                                                                                                                                                                | +1 PL       |
+| +2   | In unstable ground where collapse is a real risk (a MOVE roll may be needed each round to avoid being buried), or deep enough that breathable air is not guaranteed (an ENDURANCE roll may be needed) — or lava is present and flowing; surviving the environment is an active concern | +2 PL       |
 
 ---
 
@@ -325,15 +318,14 @@ The S&S element-split model treats each element as a specialist path with 20+ sp
 
 **Why.** The corebook already has Shapeshifting (23 spells, ranks 1–6) covering animal and humanoid transformation, and Nature (19 spells, ranks 1–6) covering plant/forest/weather magic. Wild Magic's spell list overlaps heavily with both. Its core theme — animal communion, beast control, wolf/bear/eagle forms — is already covered by Shapeshifting's animal transformation spells and Nature's Call of the Wild / Animal Whisperer effects.
 
-**What to salvage.** Two S&S Wild Magic spells fill genuine gaps:
+**What to salvage.** One S&S Wild Magic spell fills a genuine gap:
 
 - **Inhabit Animal** (rank 3): Project your consciousness into a nearby animal, controlling its body while yours lies dormant. — _The corebook's Shapeshifting transforms your body. This spell leaves your body behind and possesses an existing animal. Different mechanic, different risk profile, different story potential._
-- **Monster Form** (rank 5): Transform into a monster creature with full monster stats for a limited duration. — _The corebook's Shapeshifting covers animals and humanoids but not monsters. This is a high-risk, high-rank expansion that fits._
+- ~~**Monster Form** (rank 5)~~ — **REJECTED.** The corebook already has Monstrous Form (rank 5) in Shapeshifting, which transforms the caster into "a living, non-demon or undead monster of a type you have encountered." Identical rank, identical concept.
 
 **Recommended additions to Shapeshifting:**
 
 - **Inhabit Animal** (rank 3): Your mind enters a willing or unresisting animal within Near range. You control the animal's body and perceive through its senses. Your own body lies unconscious and defenseless. If the animal is killed, you wake with 1 point of damage to Wits. Lasts one turn per Power Level. Ingredient: A piece of the target animal (feather, hair, scale).
-- **Monster Form** (rank 5): You transform into a monster of your choice. Use the monster's attributes, armor, and natural attacks. You retain your own Wits and Empathy. You cannot cast spells while transformed. If brought to Broken, you revert to your natural form. Lasts one round per Power Level. Ingredient: A piece of the target monster. — _The GM determines which monsters are eligible. Demons, undead, and unique creatures are excluded._
 
 ---
 
@@ -345,8 +337,8 @@ The S&S element-split model treats each element as a specialist path with 20+ sp
 
 **Recommended additions to Death Magic:**
 
-- **Talk to Corpses** (rank 1): Speak with a dead body and ask it questions. The corpse answers truthfully but only knows what it knew in life. Each Power Level grants one question. The corpse does not need to be fresh, but older corpses give shorter, vaguer answers. Ingredient: A candle. — _Fills the "communication with the dead" gap. The corebook's Séance (rank 2) contacts spirits in the realm of the dead, but there is no spell for questioning a physical corpse._
-- **Corpse Servant** (rank 2): Animate a dead body as a mindless servant. The corpse follows simple commands (carry, dig, guard, attack). Strength equal to Power Level, Agility 1. Lasts one quarter day per Power Level. Ingredient: A bone. — _The corebook has Raise Undead at rank 3 for combat-capable undead. This lower-rank version creates weak, temporary servants for labor and simple tasks — a useful stepping stone._
+- ~~**Talk to Corpses** (rank 1)~~ — **REJECTED.** The corebook's Speak to the Dead (rank 2) already allows speaking "directly with the corpse" when "the victim's remains are reasonably intact." The constraints that make it rank 2 (knowing the victim's name, being near the death/burial site) are appropriate difficulty gates. A rank 1 version that removes those constraints undercuts the existing spell. The original audit incorrectly stated that the corebook had "Séance" instead of Speak to the Dead, and missed that physical-corpse questioning was already covered.
+- ~~**Corpse Servant** (rank 2)~~ — **REJECTED.** The corebook's Raise the Dead (rank 2, Ritual) already creates "a rank 1 undead... little to no mental capacity, but will obey simple commands and can use weapons and simple tools" lasting one Quarter Day. This is exactly what Corpse Servant describes. The original audit incorrectly stated Raise the Dead was rank 3.
 
 ---
 
@@ -362,11 +354,11 @@ The corebook has 22 general spells. S&S has 17, with essentially zero overlap (d
 
 - **Empower Spell** (rank 1, Power Word): As a fast action, increase the Power Level of another caster's spell by 1. Your Empower Spell's Power Level must match or exceed the target spell's current Power Level. Usable reactively, breaking initiative order. Ingredient: Candle. — _Fills the "cooperative casting" gap. No corebook general spell lets one caster boost another's spell._
 
-- **Contain Spell** (rank 3): Cast alongside another spell. The second spell is stored in an object and released later as a fast action. Lasts one quarter day per Power Level. Both spells can cause mishaps. Ingredient: Aquamarine. — _Fills the "spell trap / delayed casting" gap. The corebook's Bind Spell stores a spell in an item permanently; this is a temporary, tactical version._
+- **Contain Spell** (rank 3): Cast alongside another spell. The second spell is stored in an object and released later as a fast action. Lasts one quarter day per Power Level. Both spells can cause mishaps. Ingredient: Aquamarine. — _Fills the "spell trap / delayed casting" gap. The corebook's Bind Magic (rank 3, Ritual) stores a spell in an item permanently; this is a temporary, non-ritual, tactical version usable in combat._
 
-- **Weaken Spell** (rank 3, Power Word): As a fast action, reduce the Power Level of a spell being cast in your presence by an amount equal to your Power Level. If reduced to 0 or below, the spell is nullified. Reactive, breaks initiative order. Ingredient: Iron ore. — _Fills the "counterspell" gap. The corebook has Dispel but it targets already-active spells. Weaken Spell targets spells at the moment of casting — a genuine tactical difference._
+- ~~**Weaken Spell** (rank 3, Power Word)~~ — **REJECTED.** The corebook's Dispel Magic (rank 2, Power Word) already fills this role. Dispel Magic is reactive, breaks initiative order, and reduces the opponent's Power Level — it targets spells at the moment of casting, not already-active spells. Weaken Spell at rank 3 would be strictly worse than the existing rank 2 option. The original audit incorrectly described Dispel Magic as targeting active spells.
 
-- **Transfer Energy** (rank 4): Transfer Willpower Points from your pool to another character (equal to Power Level), or steal WP from an unwilling target (equal to Power Level –1, resisted by target's WP pool). Ingredient: Bloody fabric. — _Fills the "WP economy manipulation" gap. No corebook spell allows WP transfer or theft._
+- ~~**Transfer Energy** (rank 4)~~ — **REJECTED.** The corebook's Transfer (rank 3) already allows the caster to "steal WP from others or to give your WP to someone else... take or give as many WP as you want." Transfer Energy at rank 4 duplicates this at a higher rank with no meaningful distinction. The original audit missed that Transfer exists.
 
 - **Anti-Magic Zone** (rank 6, Ritual): For one day, all spells cast within the area reduce their Power Level by an amount equal to the ritual's Power Level. Affects all casters including yourself. Range: Long. Ingredient: Aquamarine. — _Fills the "area denial for magic" gap. The corebook has no zone-wide magic suppression effect._
 
@@ -378,7 +370,7 @@ The corebook has 25 Healing spells — the most complete discipline. S&S adds 18
 
 - **Relieve Condition** (rank 1): Remove the effects of conditions (Hungry, Thirsty, Cold, Sleepy) from a target for one quarter day per Power Level. The conditions are still present but cause no damage or penalties for the duration. Cannot be used on yourself. Ingredient: Incense. — _Fills the "condition management" gap. The corebook's Healing spells cure damage and injuries but never address conditions directly._
 
-- **Bend Demon** (rank 3): Deal damage to a demon's Wits equal to Power Level. If Broken, the demon is banished to its home dimension. Works on misgrown at half power. Ingredient: Sacred symbol. — _Note: the corebook already has Exorcise (rank 3) in Healing which deals with possession. Bend Demon is different — it is an offensive anti-demon attack, not a possession cure. Worth adopting as a distinct spell if Demonic Magic is also adopted, to give Healers a counter._
+- **Bend Demon** (rank 3): Deal damage to a demon's Wits equal to Power Level. If Broken, the demon is banished to its home dimension. Works on misgrown at half power. Ingredient: Sacred symbol. — _The corebook's Banish Demon (rank 2) targets Strength. Bend Demon targets Wits — a different attack vector that bypasses physical resilience. Worth adopting as a distinct spell if Demonic Magic is also adopted, to give Healers a counter._
 
 ### Awareness
 
@@ -388,7 +380,7 @@ The corebook has 22 Awareness spells. S&S has 18 with approximately 3 shared.
 
 - **Predict Moves** (rank 2): For one round per Power Level, you can predict one enemy's next action. The GM tells you the target's intended action before you choose yours. Ingredient: Animal bone. — _Fills the "tactical precognition" gap. No corebook Awareness spell grants combat-relevant foresight of a specific enemy's intent._
 
-- **Transfer Senses** (rank 1): For one turn per Power Level, you can perceive through the senses of an animal you can touch. During this time your own senses are suppressed. Ingredient: A piece of the animal. — _Fills the "remote scouting through familiar" gap. Distinct from the corebook's Sixth Sense (which sharpens your own senses) and True Sight (which sees through illusions)._
+- **Transfer Senses** (rank 1): For one turn per Power Level, you can perceive through the senses of an animal you can touch. During this time your own senses are suppressed. Ingredient: A piece of the animal. — _Fills the "remote scouting through familiar" gap. Distinct from the corebook's True Sight (rank 1, which sharpens your own senses and sees through disguises) and Call Familiar (General, rank 4, which gives +1 Scouting but not direct perception)._
 
 ### Symbolism
 
@@ -422,7 +414,7 @@ The corebook has 23 Blood Magic spells. S&S has 21 with only 1 shared.
 
 The corebook has 23 Death Magic spells. S&S has 20 as "Necromancy" with approximately 3 shared.
 
-**Recommended adoptions:** Talk to Corpses and Corpse Servant (see Part II above).
+**Recommended adoptions:** None. Both spells proposed in Part II (Talk to Corpses and Corpse Servant) were rejected as duplicates of existing corebook spells. See Part II, section 4.
 
 ### Ice Affinity
 
@@ -430,9 +422,9 @@ The corebook has 14 Ice Affinity spells — the smallest discipline. S&S has 22.
 
 **Recommended adoptions:**
 
-- **Frost Armor** (rank 2): Coat yourself or a willing target in a shell of magical ice. Armor Rating equal to Power Level. Lasts one round per Power Level. Anyone striking the wearer in melee takes 1 cold damage. Ingredient: Ice or snow. — _Fills the "ice-based defense" gap. The corebook has offensive ice spells and Blizzard for area denial, but no ice armor._
+- **Frost Armor** (rank 2): Coat yourself or a willing target in a shell of magical ice. Armor Rating equal to Power Level. Lasts one round per Power Level. Anyone striking the wearer in melee takes 1 cold damage. Ingredient: Ice or snow. — _Fills the "early ice-defense" gap. The corebook's Armor of Ice (rank 3) is heavier — it grants a D8 Artifact Die and AR minimum 6. Frost Armor at rank 2 is lighter (AR = PL, plus cold retaliation), filling a different power tier._
 
-- **Ice Prison** (rank 3): Encase a target in ice. The target is immobilized and cannot act. Breaking free requires a MIGHT roll with a penalty equal to the Power Level. Lasts until broken free or one turn per Power Level. Ingredient: Ice or snow. — _Fills the "single-target lockdown" gap. The corebook's Blizzard and Hail affect areas. This targets one creature._
+- ~~**Ice Prison** (rank 3)~~ — **REJECTED.** The corebook's Encase (rank 4) already does single-target ice lockdown: "MIGHT roll with a penalty equal to the spell level, completely incapacitated, lasts 1 turn per Power Level." Ice Prison at rank 3 is the same effect one rank lower, which would make Encase obsolete.
 
 - **Glacial Path** (rank 2): Create a path of ice across water, mud, or unstable terrain. The path is 2 meters wide and extends up to Near range per Power Level. Lasts one turn per Power Level. Ingredient: Ice or snow. — _Fills the "terrain creation" gap. The corebook's Ice Affinity spells damage and debuff but never create traversable terrain._
 
@@ -452,9 +444,9 @@ The corebook has 23 Mentalism spells. S&S has 21 with approximately 2 shared.
 
 - **Influence mechanic** (see subsystem section above — already recommended for adoption).
 
-- **Implant Memory** (rank 3): Plant a false memory in the target's mind. The memory must be plausible. The target believes it is real unless given strong evidence to the contrary. Resisted by the target's INSIGHT. Lasts until dispelled or the target succeeds an INSIGHT roll prompted by contradictory evidence. Ingredient: None (Influence). — _Fills the "memory manipulation" gap. The corebook has Thought Control (commands actions) and Fear (emotional manipulation), but nothing that alters what the target remembers._
+- **Implant Memory** (rank 3): Plant a false memory in the target's mind. The memory must be plausible. The target believes it is real unless given strong evidence to the contrary. Resisted by the target's INSIGHT. Lasts until dispelled or the target succeeds an INSIGHT roll prompted by contradictory evidence. Ingredient: None (Influence). — _Fills the "memory manipulation" gap. The corebook's Amnesia (rank 2) erases memories. No corebook spell creates false ones. Distinct direction._
 
-- **Mind Shield** (rank 2): Grant yourself or a willing target resistance to Mentalism and other mind-affecting spells. The shield absorbs Power Level points of incoming mental spell Power Level before the spell takes effect. Lasts one turn per Power Level. Ingredient: None (Influence). — _Fills the "mental defense" gap. The corebook has no Mentalism spell that defends against other Mentalism spells. Currently there is no counterplay within the discipline._
+- **Mind Shield** (rank 2): Grant yourself or a willing target resistance to Mentalism and other mind-affecting spells. The shield absorbs Power Level points of incoming mental spell Power Level before the spell takes effect. Lasts one turn per Power Level. Ingredient: None (Influence). — _Fills the "mental defense against control" gap. The corebook's Mental Strength (rank 1) resists damage to Wits/Empathy and fear attacks, but control spells like Geas, Amnesia, and Puppeteer don't deal attribute damage — they bypass Mental Strength entirely. Mind Shield covers that gap._
 
 ### Oneiromancy
 
@@ -468,7 +460,9 @@ The corebook has 23 Magnetism spells. S&S has 21 with approximately 4 shared.
 
 **Recommended adoptions:**
 
-- **Magnetic Shield** (rank 2): Create a magnetic field around yourself that deflects metal weapons and projectiles. Grants Armor Rating equal to Power Level against metal weapons only. Lasts one round per Power Level. Ingredient: Iron ore. — _Fills the "metal-specific defense" gap. The corebook's Magnetism has offensive and utility spells but no defensive field._
+~~**Magnetic Shield** (rank 2)~~ — **REJECTED.** The corebook's Magnetism rank 2 already has two metal-defense spells: Deflect Metal (reactive Power Word that parries with PL ⚔️) and Repel (penalty equal to PL on all metal weapon attacks). Adding a third rank-2 metal-defense spell (AR vs metal) crowds the tier without a genuinely distinct tactical niche.
+
+**No new spells recommended for Magnetism.**
 
 ---
 
@@ -516,38 +510,43 @@ The corebook has 23 Magnetism spells. S&S has 21 with approximately 4 shared.
 
 ### Spells to Adopt into Existing Disciplines
 
-| Spell             | Discipline      | Rank | Gap Filled                        |
-| ----------------- | --------------- | ---- | --------------------------------- |
-| Empower Spell     | General         | 1    | Cooperative casting               |
-| Contain Spell     | General         | 3    | Tactical delayed casting          |
-| Weaken Spell      | General         | 3    | Counterspell at moment of casting |
-| Transfer Energy   | General         | 4    | WP economy manipulation           |
-| Anti-Magic Zone   | General         | 6    | Area magic suppression            |
-| Relieve Condition | Healing         | 1    | Condition management              |
-| Bend Demon        | Healing         | 3    | Offensive anti-demon attack       |
-| Transfer Senses   | Awareness       | 1    | Remote scouting through animal    |
-| Predict Moves     | Awareness       | 2    | Tactical combat precognition      |
-| Warning           | Symbolism       | 1    | Magical alarm system              |
-| Animate Object    | Symbolism       | 4    | Object animation                  |
-| Talk to Corpses   | Death Magic     | 1    | Communication with dead bodies    |
-| Corpse Servant    | Death Magic     | 2    | Temporary undead labor            |
-| Create Bloodling  | Blood Magic     | 5    | Blood-servant creation            |
-| Frost Armor       | Ice Affinity    | 2    | Ice-based defense                 |
-| Glacial Path      | Ice Affinity    | 2    | Traversable ice terrain           |
-| Ice Prison        | Ice Affinity    | 3    | Single-target lockdown            |
-| Shatter           | Ice Affinity    | 4    | Execute combo payoff              |
-| Implant Memory    | Mentalism       | 3    | Memory manipulation               |
-| Mind Shield       | Mentalism       | 2    | Mental defense                    |
-| Magnetic Shield   | Magnetism       | 2    | Metal-specific defense            |
-| Inhabit Animal    | Shapeshifting   | 3    | Animal possession                 |
-| Monster Form      | Shapeshifting   | 5    | Monster transformation            |
-| Deviation         | Elemental Magic | 1    | Reactive wind defense             |
-| Dense Fog         | Elemental Magic | 2    | Vision-blocking zone              |
-| Impulse           | Elemental Magic | 2    | Wind-movement buff                |
-| Fire Resistance   | Elemental Magic | 2    | Fire-specific defense             |
-| Pressure Jet      | Elemental Magic | 3    | Single-target water attack        |
+| Spell             | Discipline      | Rank | Gap Filled                     |
+| ----------------- | --------------- | ---- | ------------------------------ |
+| Empower Spell     | General         | 1    | Cooperative casting            |
+| Contain Spell     | General         | 3    | Tactical delayed casting       |
+| Anti-Magic Zone   | General         | 6    | Area magic suppression         |
+| Relieve Condition | Healing         | 1    | Condition management           |
+| Bend Demon        | Healing         | 3    | Offensive anti-demon (Wits)    |
+| Transfer Senses   | Awareness       | 1    | Remote scouting through animal |
+| Predict Moves     | Awareness       | 2    | Tactical combat precognition   |
+| Warning           | Symbolism       | 1    | Magical alarm system           |
+| Animate Object    | Symbolism       | 4    | Object animation               |
+| Create Bloodling  | Blood Magic     | 5    | Blood-servant creation         |
+| Frost Armor       | Ice Affinity    | 2    | Early ice defense              |
+| Glacial Path      | Ice Affinity    | 2    | Traversable ice terrain        |
+| Shatter           | Ice Affinity    | 4    | Execute combo payoff           |
+| Implant Memory    | Mentalism       | 3    | Memory manipulation            |
+| Mind Shield       | Mentalism       | 2    | Mental defense against control |
+| Inhabit Animal    | Shapeshifting   | 3    | Animal possession              |
+| Deviation         | Elemental Magic | 1    | Reactive wind defense          |
+| Dense Fog         | Elemental Magic | 2    | Vision-blocking zone           |
+| Impulse           | Elemental Magic | 2    | Wind-movement buff             |
+| Fire Resistance   | Elemental Magic | 2    | Fire-specific defense          |
+| Pressure Jet      | Elemental Magic | 3    | Single-target water attack     |
 
-**Total: 28 new spells across 11 disciplines, plus 1 new discipline (Demonic Magic, ~20 spells).**
+### Spells Rejected (duplicates or power creep)
+
+| Spell           | Discipline    | Rank | Reason                                                                   |
+| --------------- | ------------- | ---- | ------------------------------------------------------------------------ |
+| Weaken Spell    | General       | 3    | Dispel Magic (rank 2) already does reactive PL reduction at casting time |
+| Transfer Energy | General       | 4    | Transfer (rank 3) already allows WP give/steal                           |
+| Talk to Corpses | Death Magic   | 1    | Speak to the Dead (rank 2) already covers physical corpse questioning    |
+| Corpse Servant  | Death Magic   | 2    | Raise the Dead (rank 2) already creates obedient rank 1 undead           |
+| Ice Prison      | Ice Affinity  | 3    | Encase (rank 4) does the same lockdown; rank 3 version makes it obsolete |
+| Monster Form    | Shapeshifting | 5    | Monstrous Form (rank 5) already exists — identical concept               |
+| Magnetic Shield | Magnetism     | 2    | Deflect Metal + Repel (both rank 2) already cover metal defense          |
+
+**Total: 21 new spells across 10 disciplines, plus 1 new discipline (Demonic Magic, ~20 spells).**
 
 ---
 
@@ -568,7 +567,7 @@ The corebook has 23 Magnetism spells. S&S has 21 with approximately 4 shared.
 
 ### Phase 2 — Medium Effort (spell adoptions)
 
-1. Write and integrate 28 new spells into their respective disciplines
+1. Write and integrate 21 new spells into their respective disciplines
 2. Update discipline spell tables with new entries
 3. Verify no rank conflicts or duplicate mechanics with existing spells
 
@@ -586,8 +585,8 @@ The corebook has 23 Magnetism spells. S&S has 21 with approximately 4 shared.
 
 2. **Demonic Magic scope.** The S&S version includes body alteration (grafting demon-flesh, extra limbs). How grotesque should this get in the corebook? The setting supports horror, but body-horror mechanics need careful handling.
 
-3. **Ice Affinity expansion.** Four new spells are proposed. The corebook's Ice Affinity is intentionally small (14 spells) because the discipline is described as rare outside the Bitter Reach. Does expanding it conflict with that rarity intent, or does the rarity table (Strange / Initiation) adequately gate it?
+3. **Ice Affinity expansion.** Three new spells are proposed (down from four after Ice Prison was rejected as a duplicate of Encase). The corebook's Ice Affinity is intentionally small (14 spells) because the discipline is described as rare outside the Bitter Reach. Does expanding it conflict with that rarity intent, or does the rarity table (Strange / Initiation) adequately gate it?
 
 4. **Rank disagreements.** Some S&S spells that share names with corebook spells have different ranks (e.g., S&S Telepathy at rank 1 vs. corebook rank 3). This proposal does not change any existing corebook spell ranks. Should any be re-evaluated?
 
-5. **General Spells power budget.** Five new general spells are proposed, including the rank-6 Anti-Magic Zone. General spells are available to all casters regardless of discipline. Does adding a rank-6 general spell create too much power access for characters who have not invested deeply in a specific discipline?
+5. **General Spells power budget.** Three new general spells are proposed (down from five after Weaken Spell and Transfer Energy were rejected as duplicates), including the rank-6 Anti-Magic Zone. General spells are available to all casters regardless of discipline. Does adding a rank-6 general spell create too much power access for characters who have not invested deeply in a specific discipline?

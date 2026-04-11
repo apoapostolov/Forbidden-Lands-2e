@@ -39,6 +39,16 @@ It is not permission to rewrite anything that merely looks similar.
   `E INGREDIENT: Candle (1 roll)` -> `- Ingredient: Candle (1 roll)`
 - Apply this only in spell metadata blocks, not in normal prose.
 
+## Layout Repairs Safe After Visual Confirmation
+
+These are safe once the rendered PDF clearly confirms them:
+
+- move a floated spell summary table before its spell descriptions
+- convert a short boxed sidebar into a bold label and paragraph block
+- regroup a statblock under the spell that visually owns it
+- replace a whole interleaved spell span rather than preserving the OCR line
+  order
+
 ## Use Rule
 
 Only apply these automatically when:

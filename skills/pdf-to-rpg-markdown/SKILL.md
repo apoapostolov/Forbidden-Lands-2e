@@ -146,6 +146,7 @@ Use:
 - `references/table-reconstruction-manual.md`
 - `references/repair-playbook.md`
 - `references/high-confidence-corrections.md`
+- `references/pdf-visual-comparison-and-illustrations.md`
 
 ### Phase 5: Quality Gates
 
@@ -189,6 +190,8 @@ Use these references in order:
     Examples of where automation should stop
 13. `references/repo-calibration-corpus.md`
     Real raw-to-clean examples from this repository
+14. `references/pdf-visual-comparison-and-illustrations.md`
+    How to compare visually against PDFs and preserve illustrations safely
 
 ## Strong Default Operating Procedure
 
@@ -210,6 +213,18 @@ When the user asks to process a document:
 11. In `Spells & Sorcerers`, normalize OCR spell metadata that begins with a
     leading `E` into plain markdown bullets such as `- Rank:` and `- Range:`
     instead of preserving the broken glyph surrogate.
+12. When layout corruption remains ambiguous, compare against the visual PDF and
+    replace the whole damaged span in recovered reading order instead of
+    preserving wrong OCR order line-by-line.
+13. When the PDF clearly shows a floated spell list or summary table, move it
+    before the spell descriptions in markdown so the manuscript stays
+    navigable.
+14. When a boxed note is clearly a sidebar rather than a peer section, prefer a
+    bold label plus paragraph block instead of promoting it to a section
+    heading.
+15. If the user wants illustrations preserved, save them in `/illustrations` by
+    default, preserve transparency by default, and insert at original source
+    position by default unless the user specifies otherwise.
 
 ## Tooling
 
@@ -252,6 +267,15 @@ Section split helper:
 python3 scripts/split_markdown_sections.py path/to/file.clean.md output-dir --level 2
 python3 scripts/split_markdown_sections.py path/to/file.clean.md output-dir --pattern '^## '
 ```
+
+Rendered PDF comparison:
+
+```bash
+pdftotext -layout -f START_PAGE -l END_PAGE path/to/book.pdf -
+```
+
+Use smaller page windows when mixed columns or sidebars make a large extract
+hard to interpret reliably.
 
 Available profiles:
 

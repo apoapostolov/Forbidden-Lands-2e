@@ -182,15 +182,11 @@ These change MORALE at the end of each week.
 
 > **Example — Triggers in a Bad Week**
 >
-> The band starts the week at MORALE 4 (Steady). Three events fire: they win an engagement with light casualties (+1), a Named Man is killed in the same fight (-1), and wages are now four days late (-1). Net change: -1. MORALE drops to 3.
+> The band starts the week at MORALE 4 (Steady). Four Triggers fire: they win an engagement with light casualties (+1), a Named Man is killed in the same fight (-1), wages are four days late (-1), and the Gristle breaks the contract (-2). Total: net -3, but the cap holds at 2. MORALE drops to 2 (Wavering). The excess -1 does not fire but registers as an active grievance.
 >
-> The Named Man's death and the late wages each register as a difficulty 1 grievance. Two difficulty-1 grievances do not stack — the check difficulty is still 1, set by the worst. The captain can clear both at a voluntary check if she rolls one extra sword beyond the difficulty.
+> The broken contract sits at difficulty 2. The Named Man's death and the late wages are each difficulty 1. The capped Trigger adds a third difficulty-1 grievance — three of a kind compound to difficulty 2. Two difficulty-2 grievances do not stack; the check difficulty is 2.
 >
-> Now consider a worse week. Same three events, plus the captain breaks the contract (-2). Total Triggers: +1, -1, -1, -2 = net -3, but the cap is 2. MORALE 4 drops to 2 (Wavering), not 1. The remaining -1 that would have pushed to BROKEN does not fire — instead it is recorded as an active grievance.
->
-> The broken contract registers as a difficulty 2 grievance. The Named Man's death and the late wages are each difficulty 1. The capped Trigger — the excess that did not move the score — also sits as a difficulty 1 grievance from the event that produced it. The captain now sits at WAVERING with a difficulty 2 grievance and three unresolved difficulty-1 grievances. Three of a kind at the same level: they compound to a difficulty 2 grievance. Two difficulty-2 grievances do not stack further — the check difficulty is 2, set by the worst.
->
-> Bad, not catastrophic. The band dropped two steps in a week. The captain still has room to act — a voluntary check at difficulty 2 with extra swords can sweep several grievances. If she pays the wages and wins the next engagement, the positive Triggers can claw back toward Steady. A single disastrous week hurts, but does not end the band.
+> The Gristle has options. She can call a voluntary check now — difficulty 2, and each extra sword she rolls clears one grievance. If she pays the wages before the next engagement, that Trigger resolves outright. If the band wins their next fight cleanly, the +1 Trigger begins clawing back toward Steady. None of this is guaranteed, but the band is Wavering, not gone.
 
 **Ceiling.** MORALE cannot exceed 5. Positive Triggers earned above the ceiling are lost.
 
@@ -272,13 +268,36 @@ A band's origin shapes how it recruits, how it holds together, and what breaks i
 
 ### Finding Men
 
-Fighters are recruited the same way as the GUARD hireling described in **THE STRONGHOLD** chapter. Visit a settlement and make a MANIPULATION roll. Use settlement size and the band's Reputation to modify the roll. A settlement that has heard of the band through Reputation may provide candidates without a roll.
+Searching for recruits takes a quarter-day at any settlement. Roll the location's recruit pool to determine how many willing fighters are available, then make a MANIPULATION roll — each success secures one candidate, up to the pool ceiling. A settlement that has heard of the band through Reputation may provide candidates without a roll.
 
-In the field, recruitment happens in:
+**Recruit pool by location:**
 
-- **Villages:** D6 potential recruits, roll supply as Common
-- **Inns and crossroads:** 1D3, MANIPULATION to find willing fighters
-- **Former bandits, defeated enemies:** MANIPULATION difficulty 2 to bring in; they begin at Loyalty 1
+| Location                              | Pool | Notes                                             |
+| ------------------------------------- | ---- | ------------------------------------------------- |
+| Village or hamlet                     | D6   |                                                   |
+| Crossroads or inn                     | D3   | Men between work; no ties to hold them            |
+| Town                                  | 2D6  |                                                   |
+| City                                  | 3D6  |                                                   |
+| Military camp or garrison             | D6   | Roll quality on the Military Camp column          |
+| Battlefield aftermath or routed force | 2D6  | Roll quality on the Aftermath column              |
+| Former bandits or defeated enemies    | D3   | MANIPULATION difficulty 2; all start at Loyalty 1 |
+
+**Recruit quality.** Not every willing man is the equal of the next. For each recruit secured, roll D6 and consult the column for that location. The result is their tier when they join.
+
+| D6  | Village | Crossroads/Inn | Town    | City    | Military Camp |
+| --- | ------- | -------------- | ------- | ------- | ------------- |
+| 1   | Common  | Common         | Common  | Common  | Veteran       |
+| 2   | Common  | Common         | Common  | Common  | Veteran       |
+| 3   | Common  | Common         | Common  | Veteran | Veteran       |
+| 4   | Common  | Common         | Common  | Veteran | Veteran       |
+| 5   | Common  | Veteran        | Veteran | Veteran | Elite         |
+| 6   | Veteran | Veteran        | Veteran | Elite   | Elite         |
+
+**Aftermath and bandits.** Routed soldiers, battlefield survivors, and ex-bandits are assessed separately: roll D6 per recruit, 1–5 is Common, 6 is Veteran. Elite is not available from these sources — men in those circumstances are capable, not distinguished. All bandit recruits begin at Loyalty 1 regardless of tier.
+
+**Elite recruits.** An Elite will not sign without private terms before the public offer — at minimum two weeks' advance at Elite rates and a direct word about the contract. A captain who bypasses this gets a refusal and no second chance at that particular man.
+
+**TRAINING GROUNDS.** A captain whose stronghold includes TRAINING GROUNDS gains +1 to all quality rolls when searching for recruits in the field — she can read a fighter's worth where a less practiced eye sees only a willing body. A stronghold with both TRAINING GROUNDS and SHOOTING RANGE grants +2. Apply this modifier before consulting the quality table; results above 6 count as 6.
 
 A SHELTER or BARRACKS at your stronghold adds the existing bonus for finding hirelings. It does not help recruiting in the field.
 
@@ -288,11 +307,11 @@ This applies even if the band has changed hands. The men are gone regardless of 
 
 ### Fighter Tiers
 
-| TIER    | SALARY/DAY | SUPPLY   | STATS                                                      | NOTES                                                                           |
-| ------- | ---------- | -------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| Common  | 1 silver   | Common   | STR 3, AGL 3, MELEE 1, Armor 3 (leather)                   | Standard soldier. The existing GUARD hireling.                                  |
-| Veteran | 2 silver   | Uncommon | STR 4, AGL 3, MELEE 2, MARKSMANSHIP 1, Armor 4 (chainmail) | Has seen blood and did not run. Requires TRAINING GROUNDS to hire.              |
-| Elite   | 3 silver   | Rare     | STR 5, AGL 4, MELEE 3, MARKSMANSHIP 2, Armor 5 (plate)     | A named fighter in their own right. Requires TRAINING GROUNDS + SHOOTING RANGE. |
+| TIER    | SALARY/DAY | SUPPLY   | STATS                                                      | NOTES                                                                                                       |
+| ------- | ---------- | -------- | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| Common  | 1 silver   | Common   | STR 3, AGL 3, MELEE 1, Armor 3 (leather)                   | Standard soldier. The existing GUARD hireling.                                                              |
+| Veteran | 2 silver   | Uncommon | STR 4, AGL 3, MELEE 2, MARKSMANSHIP 1, Armor 4 (chainmail) | Has seen blood and did not run. A captain with TRAINING GROUNDS gains +1 to quality rolls when recruiting.  |
+| Elite   | 3 silver   | Rare     | STR 5, AGL 4, MELEE 3, MARKSMANSHIP 2, Armor 5 (plate)     | A named fighter in their own right. TRAINING GROUNDS and SHOOTING RANGE together grant +2 to quality rolls. |
 
 A band need not be uniform. A warband of 10 might include 6 Commons, 3 Veterans, and 1 Elite who serves as the sergeant.
 

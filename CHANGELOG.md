@@ -7,6 +7,16 @@ All notable changes to the Forbidden Lands Corebook will be documented in this f
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased] - 1.0.6
+
+### Changed
+
+- **Lifepaths — Muster-out draws.** Roll count now equals turns completed in final path (1, 2, or 3+). Choose one result from all rolls. Replaces single fixed roll.
+- **Lifepaths — Advancement benefits draws.** Success yields 1 draw; 2 successes yields 2 draws, reroll duplicates; 3+ successes yields 2 draws plus free pick from the remaining four. Replaces vague "one extra contact/rumor/gear" row.
+- **Lifepaths — Mishap result 7.** Added a unique catastrophic result to all 12 mishap tables (8 profession + 4 crisis). Always forces path change; two consequences rather than one; no permanent stat damage.
+- **Lifepaths — "The fiction" language.** Replaced all instances of "the fiction" as game-jargon with "the story" throughout Lifepaths of the Forbidden Lands.
+- **Mercenaries — Finding Men.** Replaced sparse bullet list with a recruit pool table by location (Village through Military Camp and Aftermath), a D6 quality distribution table producing Common/Veteran/Elite per recruit by location, and rules for Elite recruitment terms and TRAINING GROUNDS quality modifiers. Hard building requirements for Veteran/Elite removed; replaced with +1/+2 quality roll modifiers.
+
 ## [1.0.5] - 2026-04-10
 
 ### Added

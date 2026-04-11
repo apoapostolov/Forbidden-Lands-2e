@@ -72,18 +72,11 @@ If you wish to prepare armies and battlefields more thoroughly and convincingly,
 Finally, we present a series of battle events under different circumstances to grant greater importance to the presence of key individuals, allowing them to be decisive in the course of a battle.
 
 
-## ADDITIONAL RULES
-
-> _The banners, torn by arrows and swords, barely wave their colors stained with dust and blood. Soldiers with ashen faces move like broken puppets, trying to maintain formations that fear and fury destroy at every moment. A horn sounds in the distance, an uncertain promise of help or defeat. At ground level, the metallic taste of death permeates every breath._
-
-
-o good leader would ever wish to resort to the battlefield to resolve a dispute, yet it happens Nmore often than one might expect. To address these complex scenarios filled with action and drama, we have expanded the original rules to achieve a more strategic and enjoyable simulation.
-
 ## Order of Battle
 
 Battles are fought by two or more sides, each presenting itself to the enemy in a predetermined order planned by its commanding general.
 
-Armies have an order of battle that involves organizing their forces into **lines** and **sections** , which play a fundamental role in the development of the battle and the rules system.
+Armies have an order of battle that involves organizing their forces into lines and sections, which play a fundamental role in the development of the battle and the rules system.
 
 In this chapter, we will explore all aspects of battles from a broad, distant perspective, viewing their unfolding and conclusion from afar, so that in subsequent chapters we can delve deeper into the details of those who are bleeding in the heat of combat.
 
@@ -91,7 +84,7 @@ In this chapter, we will explore all aspects of battles from a broad, distant pe
 
 As in the original rules, battles are resolved in 15-minute increments, meaning each die roll represents what occurred during one turn.
 
-At the end of each turn (after applying any modifiers corresponding to decisions and events), the opposing sides will each make a roll for each part of their order of battle, for a total of three rolls.
+At the end of each turn, after applying any modifiers corresponding to decisions and events, the opposing sides will each make a roll for each part of their order of battle, for a total of three rolls.
 
 If it becomes necessary to focus on what happens to one or more particular characters, the flow of time shifts back to normal combat rounds.
 
@@ -99,28 +92,29 @@ If it becomes necessary to focus on what happens to one or more particular chara
 
 In essence, lines represent the depth of an army on the battlefield. They allow for staggered tactics, covering fronts in response to enemy movements, situation assessment, adaptability by the commanders, and providing relief for those exhausted by combat, as well as protecting the rear. Primarily, however, this setup prevents dozens or hundreds of warriors from crowding the front line, which would be chaotic and counterproductive.
 
-Since the maximum number of dice an army can gain from its total number of troops is +5, any units beyond that point should be placed in a second line of battle, or a third if there are still more leftover units, and so forth. Thus, if every 20 soldiers grants +1 die, once you reach 100 soldiers (the maximum +5), the excess should form a new line until reaching another 100 soldiers. If this logic is not
+Since the maximum number of dice an army can gain from its total number of troops is `+5`, any units beyond that point should be placed in a second line of battle, or a third if there are still more leftover units, and so forth. Thus, if every 20 soldiers grants `+1` die, once you reach 100 soldiers, the maximum `+5`, the excess should form a new line until reaching another 100 soldiers. If this logic is not entirely clear yet, it will become simpler once all the rules are explained.
 
+In terms of rules, any lines behind the first, that is, not in the vanguard, are considered not directly involved in the battle and therefore are not counted in each side's roll. Again, you can only apply a maximum of `+5` due to troop numbers.
 
-entirely clear yet, it will become simpler once all the rules are explained.
-
-In terms of rules, any lines behind the first (that is, not in the vanguard) are considered not directly involved in the battle, and therefore are not counted in each side’s roll (again, you can only apply a maximum of +5 due to troop numbers).
-
-Given the relatively small army sizes in the Forbidden Lands, it’s likely that few sides will be able to field more than one line in a battle, especially considering that each line is divided into sections.
+Given the relatively small army sizes in the Forbidden Lands, it's likely that few sides will be able to field more than one line in a battle, especially considering that each line is divided into sections.
 
 ## Battle Line Sections
 
 Each battle line of an army is divided into three sections: left, center, and right. Each turn of the battle, both sides roll once for each section, resulting in a total of three rolls per turn.
 
-Considering that, as stated, the maximum number of dice a side can gain from the number of troops is +5 (100 warriors), each section can apply this +5 separately. As a result, a full battle line of an army can have a maximum of 300 soldiers (100 per section of a line). The group of soldiers making up a single section of a line is called a **troop** .
+Considering that, as stated, the maximum number of dice a side can gain from the number of troops is `+5` for 100 warriors, each section can apply this `+5` separately. As a result, a full battle line of an army can have a maximum of 300 soldiers, 100 per section of a line. The group of soldiers making up a single section of a line is called a **troop**.
 
-Under normal conditions, each section of an army faces off against the corresponding enemy section. However, due to a lack of warriors or one section’s victory over another, this can change as the battle progresses. In such cases, sections will attack the nearest enemy section, enjoying a clear numerical advantage. Other than that, the rules remain exactly the same.
+Under normal conditions, each section of an army faces off against the corresponding enemy section. However, due to a lack of warriors or one section's victory over another, this can change as the battle progresses. In such cases, sections will attack the nearest enemy section, enjoying a clear numerical advantage. Other than that, the rules remain exactly the same.
 
-In real battles, it is more orderly and efficient to replace one entire troop with another rather than swapping individual soldiers. Frontline troops withdraw to make room for a fresh, fully intact troops. If necessary, they can regroup in the rear to form a new troops with the remaining soldiers.
+## Troops Replacement
 
-To clarify this procedure: you cannot compensate for the loss of 20 soldiers (equivalent to +1 die) by adding 20 soldiers from another troop in the rear. Such specific movements would disrupt the different formations and chains of command, essential for maintaining effectiveness in battle.
+As a troop's soldier count diminishes, one might think that rear-line troops would fill in these gaps with fresh warriors. But this usually doesn't happen in reality.
 
-The real decision is how long a troop should remain fighting before being replaced by another. This is determined by the army’s general or the troop’s commander, if they have that authority.
+In real battles, it is more orderly and efficient to replace one entire troop with another rather than swapping individual soldiers. Frontline troops withdraw to make room for a fresh, fully intact troop. If necessary, they can regroup in the rear to form a new troop with the remaining soldiers.
+
+To clarify this procedure: you cannot compensate for the loss of 20 soldiers, equivalent to `+1` die, by adding 20 soldiers from another troop in the rear. Such specific movements would disrupt the different formations and chains of command essential for maintaining effectiveness in battle.
+
+The real decision is how long a troop should remain fighting before being replaced by another. This is determined by the army's general or the troop's commander, if they have that authority.
 
 If a frontline troop is defeated, flees, or is replaced, the next troop in the rear should take its place in the following turn. If the army has no secondary line, that section remains empty, allowing the enemy section to attack the nearest section instead.
 
@@ -128,19 +122,15 @@ If a frontline troop is defeated, flees, or is replaced, the next troop in the r
 
 A troop can stop fighting for one of three reasons: being defeated, fleeing due to demoralization, or receiving an order to withdraw. In the first case, the troop has been destroyed and no longer has warriors capable of continuing the fight or even escaping. However, in the case of fleeing or withdrawal, troops can regroup in the rear.
 
-## Troops Replacement
+| LEFT | CENTER | RIGHT |
+| --- | --- | --- |
+| section | section | section |
 
-As a troop’s soldier count diminishes, one might think that rear line troops would fill in these gaps with fresh warriors. But this usually doesn’t happen in reality.
+*1st line*  
+*2nd line*  
+*troop*
 
-
-left  center  right section section section 1st line 2nd line troop
-
-
-army a army b
-
-
-The left section of Army A forces the right section of Army B to flee and then faces the central section’s unit with a two-to-one advantage.
-
+**Army A** forces **Army B**'s right section to flee and then faces the central section's unit with a two-to-one advantage.
 
 The rules related to troop withdrawal, regrouping, and morale will be explained in detail later. For now, it should be clear that those troops that have lost their place on the front line may return to battle under certain circumstances, and the dice corresponding to their soldiers can be redistributed.
 
@@ -150,151 +140,135 @@ Although every Forbidden Lands army includes soldiers with slight differences in
 
 For example, a single troop can only be made up of infantry units with similar gear and level of training. If there are mounted units in the same army, they must form their own separate troop rather than being mixed in with infantry troops.
 
-
-TYPES OF TROOPS TYPE QUANTITY COST Infantry 20 5 Skirmishers 20 5 Chivalry 5 25 Monster 1 0
-
-
-SKIRMISHERS: Skirmishers are troops that attack their enemies from a safe distance using bows, crossbows, slings, or javelins. Their main advantage lies in their effectiveness at range, but they are highly vulnerable if forced into melee combat.
-
 ## Troop Dice
 
 In each turn of a battle, the clash between troops is resolved with a dice roll. Each troop engaged in combat is entitled to one roll per turn.
 
 To determine the dice a troop can roll, we need to know its composition as well as any orders it may have received.
 
-CAVALRY: Cavalry troops consist of mounted soldiers who typically engage in close combat, benefiting from their height advantage and the power of their mounts. However, they can also harass their enemies with ranged weapons, taking full advantage of their mounts' superior mobility.
-
-MONSTER: Monsters in the Forbidden Lands vary greatly, but this category only includes those with monster attacks and significant size. Creatures that function as standard characters (such as skeletons or ghouls) are placed in one of the previous troop categories.
-
 ## Base Dice
 
-**base dice** are determined by the number of units that make up the troop. The number of units required to gain +1 die depends on the **type** of troop. Since the maximum number of base dice a troop can have is 5, its type also determines the maximum number of soldiers it can contain.
+Base dice are determined by the number of units that make up the troop. The number of units required to gain `+1` die depends on the **type** of troop. Since the maximum number of base dice a troop can have is 5, its type also determines the maximum number of soldiers it can contain.
 
-You can easily determine the types of troops and the number of units they consist of using the **types of troops** table.
+You can easily determine the types of troops and the number of units they consist of using the **Types of Troops** table.
 
-INFANTRY: In the Forbidden Lands, infantry troops are the most common in all armies. They are soldiers who fight on foot in close combat.
+## Types of Troops
 
-COST: This represents the daily cost in copper coins to keep each unit of the troop fed. This amount doubles if the unit is also paid a salary (which is uncommon; otherwise, the promise of reward is based on plunder).
+| TYPE | QUANTITY | COST |
+| --- | ---: | ---: |
+| Infantry | 20 | 5 |
+| Skirmishers | 20 | 5 |
+| Chivalry | 5 | 25 |
+| Monster | 1 | 0 |
+
+**Infantry:** In the Forbidden Lands, infantry troops are the most common in all armies. They are soldiers who fight on foot in close combat.
+
+**Skirmishers:** Skirmishers are troops that attack their enemies from a safe distance using bows, crossbows, slings, or javelins. Their main advantage lies in their effectiveness at range, but they are highly vulnerable if forced into melee combat.
+
+**Cavalry:** Cavalry troops consist of mounted soldiers who typically engage in close combat, benefiting from their height advantage and the power of their mounts. However, they can also harass their enemies with ranged weapons, taking full advantage of their mounts' superior mobility.
+
+**Monster:** Monsters in the Forbidden Lands vary greatly, but this category only includes those with monster attacks and significant size. Creatures that function as standard characters, such as skeletons or ghouls, are placed in one of the previous troop categories.
+
+**Cost:** This represents the daily cost in copper coins to keep each unit of the troop fed. This amount doubles if the unit is also paid a salary, which is uncommon. Otherwise, the promise of reward is based on plunder.
 
 ## Advantage Dice
 
-Troops have specific advantages in combat, represented by their **advantage dice** . Each qualifying characteristic grants +1 advantage die, up to a maximum of +5.
+Troops have specific advantages in combat, represented by their **advantage dice**. Each qualifying characteristic grants `+1` advantage die, up to a maximum of `+5`.
 
-However, these extra dice can never exceed the modifier granted by the troop's **base dice** . For example, if a troop has 3 base dice, its advantage dice cannot exceed 3, regardless
+However, these extra dice can never exceed the modifier granted by the troop's **base dice**. For example, if a troop has 3 base dice, its advantage dice cannot exceed 3, regardless of the number of advantages it possesses.
 
+Remember, troops must consist of units with similar characteristics, meaning all or most soldiers in the troop should share the same advantage to apply each advantage die. If a specific advantage cannot reasonably apply to all units, you should either separate them into different troops or not apply the advantage.
 
-## Advantage Dice
+| ADVANTAGE | DICE |
+| --- | ---: |
+| Well-Trained Units | +1 |
+| Orc or Dwarf Infantry | +1 |
+| Demon or Misgrown Infantry | +2 |
+| Elven Skirmishers | +2 |
+| Religious, Racial, or Regional Fervor | +1 |
+| Includes an Important Character | +1 |
+| Larger Units | +1 |
+| Flanking Attack | +1 |
+| Rear Attack | +2 |
+| Fighting for Survival | +1 |
 
-A troop gains the indicated dice for each listed advantage it possesses. The total number of advantage dice cannot exceed the troop's base dice.
+**Well-Trained Units:** Soldiers who have undergone at least three months of training or dedicate their lives to combat are considered well-trained. These troops consist of professional warriors, such as mercenaries or guards, or units whose prestige or social standing is tied to their martial prowess.
 
+**Orc or Dwarf Infantry:** It is widely known that both orcs and dwarves possess exceptional strength and resilience, allowing them to perform better than average under the grueling conditions of battle.
 
-ADVANTAGE DICE Well-Trained Units +1 Orc or Dwarf Infantry +1 Demon or Misgrown Infantry +2 Elven Skirmishers +2 Religious, Racial, or Regional Fervor +1 Includes an Important Character +1 Larger Units +1 Flanking Attack +1 Rear Attack +2 Fighting for Survival +1
+**Demon or Demorph Infantry:** These beings are the most terrifying infantry units on the battlefield, possessing supernatural qualities that make them significantly stronger, more unpredictable, and far more fearsome.
 
+**Elven Skirmishers:** Elves possess exceptional vision and dexterity, making them outstanding archers.
 
-of the number of advantages it possesses.
+**Religious, Racial, or Regional Fervor:** This advantage die is granted to a troop with a particular motive that increases its fervor in battle, resulting in superior performance. Examples include religious missions, deep-seated hatred, or pride tied to racial or regional causes. Minor rivalries are not sufficient to grant this die. It must stem from an exceptionally high fervor, such as the Rust Brothers' zeal against heretics.
 
-Remember, troops must consist of units with similar characteristics, meaning all or most soldiers in the troop should share the same advantage to apply each **advantage die** . If a specific advantage cannot reasonably apply to all units, you should either separate them into different troops or not apply the advantage.
+**Includes an Important Character:** The troop includes one of the story's important characters. This applies not only to PCs but also to important NPCs, including antagonists on the enemy side.
 
-DEMON OR DEMORPH INFANTRY: These beings are the most terrifying infantry units on the battlefield, possessing supernatural qualities that make them significantly stronger, more unpredictable, and far more fearsome.
+**Larger Units:** A troop attacking one composed of smaller units receives a bonus. This often occurs when cavalry faces infantry or when monsters fight against smaller beings.
 
-ELVEN SKIRMISHERS: Elves possess exceptional vision and dexterity, making them outstanding archers.
+**Flanking Attack:** Troops most commonly flank an enemy when they have won their section of the battlefield and can turn to attack others. Other narrative circumstances may also allow for flanking.
 
-RELIGIOUS, RACIAL, OR REGIONAL FERVOR: This advantage die is granted to a troop with a particular motive that increases its fervor in battle, resulting in superior performance. Examples include religious missions, deepseated hatred, or pride tied to racial or regional causes. Minor rivalries are not sufficient to grant this die, it must stem from an exceptionally high fervor, such as the Rust Brothers’ zeal against heretics.
+**Rear Attack:** When an enemy troop is engaged with another, it is possible to attack it from the rear with a special maneuver.
 
-INCLUDES AN IMPORTANT CHARACTER: The troop includes one of the story’s important characters. This applies not only to PCs but also to important NPCs, including antagonists on the enemy side.
-
-LARGER UNITS: A troop attacking one composed of smaller units receives a bonus. This often occurs when cavalry faces infantry or when monsters fight against smaller beings.
-
-FLANKING ATTACK: Troops most commonly flank an enemy when they have won their section of the battlefield and can turn to attack others. Other narrative circumstances may also allow for flanking.
-
-WELL-TRAINED UNITS: Soldiers who have undergone at least three months of training or dedicate their lives to combat are considered well-trained. These troops consist of professional warriors, such as mercenaries or guards, or units whose prestige or social standing is tied to their martial prowess.
-
-ORC OR DWARF INFANTRY: It is widely known that both orcs and dwarves possess exceptional strength and resilience, allowing them to perform better than average under the grueling conditions of battle.
-
-REAR ATTACK: When an enemy troop is engaged with another, it is possible to attack it from the rear with a special maneuver.
-
-FIGHTING FOR SURVIVAL: When cornered, even animals become more dangerous. If soldiers are fighting for their lives against certain annihilation, they gain a fervent boost to save themselves from death.
-
+**Fighting for Survival:** When cornered, even animals become more dangerous. If soldiers are fighting for their lives against certain annihilation, they gain a fervent boost to save themselves from death.
 
 ## Weapon Type
 
 The following effects apply based on the weapons used by the units in the troop.
 
-
 | WEAPON | DESCRIPTION | EFFECTS | COST |
-| --- | --- | --- | --- |
-| Unarmed A unit with no weapon other than their  Attacks second. 0 |
-| bare fists. |
-| Natural Weapon or  Claws or another natural weapon with  Attacks second. Attack +2 vs polearms. 0 |
-| Short Weapon lethal potential. Also includes daggers. |
-| One-Handed  Includes most swords, axes, hammers,  --- 0 |
-| Weapon and any short weapon, including spears. |
-| Two-Handed  Short but heavy weapons that must  Attack +1 vs Infantry and Skirmishers. 10 |
-| Weapon be held with both hands, such as |
-| greatswords and heavy hammers. |
-| Polearm These are polearm weapons like long  Attacks first. Attack +2 vs cavalry. Two- 5 |
-| spears, halberds, and pikes. handed. |
-| Thrown Weapon Weapons that can be thrown, such as  A free attack before engaging in  5 |
-| javelins and throwing axes. combat. Attack +1 vs cavalry. |
-| Light Ranged  Refers to shortbows and slings. Range 1. Two-handed. Attacks second.  5 |
-| Weapon Demoralized in melee combat. |
-| Longbow A weapon with great range and  Range 2. Two-handed. Attacks second.  10 |
-| penetration. Demoralized in melee combat. |
-| Crossbow An expensive and slow weapon with  Range 1. Attack +1. Attacks second. Two- 10 |
-| exceptional piercing power. handed. Demoralized in melee combat. |
+| --- | --- | --- | ---: |
+| Unarmed | A unit with no weapon other than their bare fists. | Attacks second. | 0 |
+| Natural Weapon or Short Weapon | Claws or another natural weapon with lethal potential. Also includes daggers. | Attacks second. Attack `+2` vs polearms. | 0 |
+| One-Handed Weapon | Includes most swords, axes, hammers, and any short weapon, including spears. | --- | 0 |
+| Two-Handed Weapon | Short but heavy weapons that must be held with both hands, such as greatswords and heavy hammers. | Attack `+1` vs Infantry and Skirmishers. | 10 |
+| Polearm | These are polearm weapons like long spears, halberds, and pikes. | Attacks first. Attack `+2` vs cavalry. Two-handed. | 5 |
+| Thrown Weapon | Weapons that can be thrown, such as javelins and throwing axes. | A free attack before engaging in combat. Attack `+1` vs cavalry. | 5 |
+| Light Ranged Weapon | Refers to shortbows and slings. | Range 1. Two-handed. Attacks second. Demoralized in melee combat. | 5 |
+| Longbow | A weapon with great range and penetration. | Range 2. Two-handed. Attacks second. Demoralized in melee combat. | 10 |
+| Crossbow | An expensive and slow weapon with exceptional piercing power. | Range 1. Attack `+1`. Attacks second. Two-handed. Demoralized in melee combat. | 10 |
 
+The equipment of a troop is a fundamental aspect to consider on the battlefield, as it defines its combat capabilities against enemy units. Each troop possesses a specific weapon type chosen from the possible options in the **Weapon Type** table.
 
-WEAPON TYPE The equipment of a troop is a fundamental aspect to consider on the battlefield, as it defines its combat capabilities against enemy units. Each troop possesses a specific weapon type chosen from the possible options in the **weapon type** table.
+**Attacks First:** This is a significant advantage in combat, allowing the troop equipped with this weapon to roll their combat dice first, potentially inflicting casualties on the enemy before they can roll. If two troops have weapons that attack first, the effect is canceled, and both roll their dice simultaneously.
 
-ATTACKS FIRST: This is a significant advantage in combat, allowing the troop equipped with this weapon to roll their combat dice first, potentially inflicting casualties on the enemy before they can roll. If two troops have weapons that attack first, the effect is canceled, and both roll their dice simultaneously.
+**Cost:** Weapon types add an additional cost to the unit. This amount, expressed in copper coins, is added to the base maintenance cost of the unit type. For example, an infantry unit with a polearm will cost 10 copper coins per soldier. In a troop of 100 soldiers, that means 1,000 copper coins per day. Maintaining an army is no cheap endeavor.
 
-COST: Weapon types add an additional cost to the unit. This amount, expressed in copper coins, is added to the base maintenance cost of the unit type. For example, an infantry unit with a polearm will cost 10 copper coins per soldier (in a troop of 100 soldiers, 1,000 copper coins per day). Maintaining an army is no cheap endeavor.
+**Attack +X:** Some weapons provide a bonus to the troop's attack, usually conditional based on the weapon or the type of enemy unit they are facing. These dice are added as if they were advantage dice, but they can exceed the base dice limit.
 
-ATTACK +X: Some weapons provide a bonus to the troop's attack, usually conditional based on the weapon or the type of enemy unit they are facing. These dice are added as if they were Advantage dice, but they can exceed the base dice limit.
+**Attacks Second:** A major disadvantage that forces the troop to always wait to roll their dice until after their enemies have rolled, suffering casualties before they can inflict any. Note that this effect only applies to melee combat.
 
-ATTACKS SECOND: A major disadvantage that forces the troop to always wait to roll their dice until after their enemies have rolled, suffering casualties before they can inflict any. Note that this effect only applies to melee combat.
+**Free Attack:** Before engaging in melee combat, the troop can make an attack without the enemy troop being able to retaliate. It also does not suffer any morale-based casualties. This attack can be made either when approaching the enemy or when the enemy approaches them. This ability can be acquired more than once, but it can only be used once per battle for each instance acquired. This effect is resolved in the same turn that the troops engage and make their normal attack rolls.
 
-FREE ATTACK: Before engaging in melee combat, the troop can make an attack without the enemy troop being able to retaliate. It also does not suffer any morale-based casualties. This attack can be made either when approaching the enemy or when the enemy approaches them. This
+**Range:** We want to keep the flow of battles abstract, including troop movement and distances. However, we emphasize the advantage of ranged weapons with the Range effect. This allows troops with such weapons to attack the enemy before that enemy troop can strike. In a way, this effect can be understood as adding extra battle turns before the enemy reaches close combat. With Range 1, one additional turn is added before the front line can attack. With Range 2, two turns are added. Troops with these weapons cannot attack the enemy's rear lines and do not suffer morale losses from these attacks. Any troop with these weapons is considered a Skirmisher unless mounted.
 
+**Two-Handed:** Two-handed weapons prevent the units in the troop from carrying shields or throwable weapons.
 
-ability can be acquired more than once, but it can only be used once per battle for each instance acquired. This effect is resolved in the same turn that the troops engage and make their normal attack rolls.
-
-especially when a troop equipped with ranged weapons is forced into melee combat.
+**Demoralized:** This effect means that the troop cannot use Morale Points to avoid suffering morale-based losses. This effect applies in certain circumstances, especially when a troop equipped with ranged weapons is forced into melee combat.
 
 ## Protection Type
 
-RANGE: We want to keep the flow of battles abstract, including troop movement and distances. However, we emphasize the advantage of ranged weapons with the Range effect. This allows troops with such weapons to attack the enemy before that enemy troop can strike. In a way, this effect can be understood as adding extra battle turns before the enemy reaches close combat. With Range 1, one additional turn is added before the front line can attack; with Range 2, two turns are added. Troops with these weapons cannot attack the enemy's rear lines and do not suffer morale losses from these attacks. Any troop with these weapons is considered a Skirmisher unless mounted.
+In Ravenland, most units brought to battle wear simple linen clothing and carry a cheap yet effective weapon, such as a spear. This is due to the limited resources available to leaders and armies. These troops fall like flies when facing better-equipped troops capable of effective defense. Protections are expensive, reserved for the most privileged warriors, but they significantly increase effectiveness in battle.
 
-TWO-HANDED: Two-handed weapons prevent the units in the troop from carrying shields or throwable weapons.
+**Protection X:** These are the extra dice provided by armor or shields when defending against an attack. Sometimes they are conditional, depending on the type of weapon the units are resisting. The troop can always roll their protection dice, even when not in direct combat, to avoid taking losses.
 
-DEMORALIZED: This effect means that the troop cannot use Morale Points to avoid suffering moralebased losses. This effect applies in certain circumstances, In Ravenland, most units brought to battle wear simple linen clothing and carry a cheap yet effective weapon, such as a spear. This is due to the limited resources available to leaders and armies. These troops fall like flies when facing betterequipped troops capable of effective defense. Protections are expensive, reserved for the most privileged warriors, but they significantly increase effectiveness in battle.
-
-PROTECTION X: These are the extra dice provided by armor or shields when defending against an attack. Sometimes they are conditional, depending on the type of weapon the units are resisting. The troop can always roll their protection dice, even when not in direct combat, to avoid taking losses.
-
-MORALE +X: Increases the troop's starting Morale in battles due to the sense of security provided by their protection.
-
-## Protection Type
+**Morale +X:** Increases the troop's starting Morale in battles due to the sense of security provided by their protection.
 
 The following effects apply based on the protections used by the units in the troop.
 
+| PROTECTION | DESCRIPTION | EFFECTS | COST |
+| --- | --- | --- | ---: |
+| Small Shield | A defensive weapon that covers the forearm, made of wood or steel. | Protection 1. Protection 2 vs projectiles. | 0 |
+| Large Shield | A shield that provides broad coverage for the arm and torso. | Protection 2. Protection 3 vs thrown weapons. Protection 4 vs projectiles. Morale `+1`. | 5 |
+| Leather Armor | Corresponds to leather and studded leather armor. Includes a cap or helmet. | Protection 2. Morale `+1`. | 5 |
+| Chainmail | Made of interlocking metal rings. Includes an open helmet. | Protection 4. Protection 2 vs projectiles and polearms. Protection 1 vs blunt and thrown weapons. Morale `+2`. | 10 |
+| Plate Armor | Complex armor crafted from steel plates. Includes an open helmet or a great helm. | Protection 6. Morale `+4`. Slow 1. | 25 |
 
-PROTECTION DESCRIPTION EFFECTS COST Small Shield A defensive weapon that covers the  Protection 1. Protection 2 vs projectiles. 0 forearm, made of wood or steel.
-Large Shield A shield that provides broad coverage  Protection 2. Protection 3 vs thrown  5 for the arm and torso. weapons. Protection 4 vs projectiles.
-Morale +1.
-Leather Armor Corresponds to leather and studded  Protection 2. Morale +1. 5 leather armor. Includes a cap or helmet.
-Chainmail Made of interlocking metal rings.  Protection 4. Protection 2 vs projectiles  10 Includes an open helmet. and polearms. Protection 1 vs blunt and thrown weapons. Morale +2.
-Plate Armor Complex armor crafted from steel  Protection 6. Morale +4. Slow 1. 25 plates. Includes an open helmet or a great helm.
-
-
-SLOW X: Increases the Range of units with this weapon effect, as the troop moves more slowly due to their heavy gear.
+**Slow X:** Increases the Range of units with this weapon effect, as the troop moves more slowly due to their heavy gear.
 
 ## Battle Sequence
 
-battle, including the exact location and the advantage of positioning their troops after seeing those of the enemy. Ties are resolved with another roll.
-
-If the sections are extended as mentioned earlier, this must be clarified before the generals' roll, it should not come as a surprise to either side.
-
-It’s time to address the sequence of a battle according to the new rules in this book, from troop deployment to troop combat, and finally, the retreat of the defeated army.
+It's time to address the sequence of a battle according to the new rules in this book, from troop deployment to troop combat, and finally, the retreat of the defeated army.
 
 ## Battle Preparations
 
@@ -306,7 +280,9 @@ Once the troops are organized (which you likely already had prepared in advance)
 
 There may be cases where armies are so large that it makes sense to deploy more than one troop per section. In such cases, both generals should have the opportunity to place the same number of troops per section. This is recommended if an army exceeds two ranks in its order of battle.
 
-The order in which the armies are positioned on the battlefield is determined by an **insight** roll from the generals. The winner of this roll sets the conditions of the
+The order in which the armies are positioned on the battlefield is determined by an **insight** roll from the generals. The winner of this roll sets the conditions of the battle, including the exact location and the advantage of positioning their troops after seeing those of the enemy. Ties are resolved with another roll.
+
+If the sections are extended as mentioned earlier, this must be clarified before the generals' roll. It should not come as a surprise to either side.
 
 |**left**|**center**|**right**|
 |---|---|---|

@@ -84,6 +84,10 @@ These need comparison against nearby structure:
 - rebuilding flattened tables
 - moving a line under a different heading
 - deciding whether a short italic block is a sidebar or flavor quote
+- reassigning a block to a different spell or rules entry after a two-column
+  splice
+- deciding whether a floated table should be moved earlier in markdown reading
+  order
 
 ## Low-Confidence Repairs
 
@@ -118,6 +122,34 @@ When a suspicious line repeats across pages, it is usually page furniture.
 When a suspicious structure repeats in many sections, it is usually layout logic.
 
 Use repetition as evidence.
+
+## Visual Comparison Rules
+
+If raw markdown and local OCR heuristics still disagree about structure, use
+the visual PDF as the tie-breaker.
+
+Use visual comparison especially when:
+
+- two spell entries are interleaved
+- a table is embedded in the middle of prose
+- a sidebar has been mistaken for body text
+- a statblock has been attached to the wrong spell
+
+When the PDF makes ownership clear, it is safe to rebuild the whole span in
+proper reading order.
+
+## Manual Discoveries Confirmed In This Repo
+
+These patterns were repeatedly confirmed during `Spells & Sorcerers` cleanup:
+
+- floated spell-list tables often belong before the discipline's spell entries
+  in markdown, even if the PDF placed them later for page layout reasons
+- boxed sidebars like `Iron in Objects` or `Teramalda` are usually better kept
+  as bold labels with paragraph text than as peer headings
+- if one spell's metadata is immediately followed by another spell's body, that
+  is usually a column splice and both spell blocks should be rebuilt together
+- when a damaged run spans several related spells, replacing the whole run from
+  the PDF is safer than performing isolated line edits
 
 ## "Do Not Beautify" Rule
 
