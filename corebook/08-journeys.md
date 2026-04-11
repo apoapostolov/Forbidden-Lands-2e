@@ -981,3 +981,468 @@ A few things worth keeping in mind as the Reputation system runs at your table.
 **Generosity requires means.** A starving hamlet does not hand out free rooms and cut-rate smith work because the heroes are loved. It may offer floor space by the hearth, plain food, rumor, or a guide. Reserve the richest hospitality for places that can actually afford it and where Standing is strong enough to justify the favor.
 
 **Stronghold fame settles gradually.** When the same settlement keeps recognizing the fellowship through stronghold Reputation, convert that into permanent local Settlement Reputation over time — but not all at once. A season of repeated contact is a reasonable pace.
+
+### VILLAGES AND TOWNS
+
+> _They came down the hill mud-caked and bleeding. Garmelda had a broken rib and Heme had lost his shield somewhere in the marsh. The village gate was shut. The guard looked at them through a slot and said nothing for a long time._
+>
+> _"We killed the thing in the barrow," Garmelda said._
+>
+> _The slot closed. A minute later the gate opened. A woman with grey braids and a belt knife stood there. She looked at the blood, the missing shield, the way Heme favored his left side._
+>
+> _"You'd better come in," she said. "There's stew. And work, if you want it."_
+
+The Reputation system tells the GM how a settlement reacts to the fellowship. What follows tells the players what they can do once they pass through the gate.
+
+Every settlement is a decision point. Time spent inside the walls is time not spent on the road. A fellowship that arrives at dusk must choose: ask around for news, check the notice board for paying work, petition the chief for a favor, trade at the market, drink at the inn, or simply rest. Each of these costs a quarter day, the same as any journey activity. The walls do not stop time from moving.
+
+#### SETTLEMENT VISIT
+
+When the fellowship arrives at a settlement, the visit follows a natural sequence:
+
+1. **Arrival.** First Impression roll, if needed. Gate encounter if fortified.
+2. **Recognition.** See Reputation, above. The settlement decides what it knows about you.
+3. **Quarter-day activities.** Each character picks one activity per quarter day: ASK AROUND, SEEK WORK, PETITION, TRADE, REPAIR AND CRAFT, CAROUSE, HEAL, REST, or TRAIN.
+4. **Work.** If the fellowship takes a notice board job or accepts a commission, the work follows standard adventure procedures — travel, combat, social encounters, and return.
+5. **Return and report.** Completing work adjusts Reputation, Standing, and patron level. Payment is collected. The notice board updates.
+6. **Departure.** The fellowship leaves with whatever they gained — gear, information, reputation, silver, or scars.
+
+#### ASK AROUND
+
+A character spends a quarter day working the settlement for information: drinking at the inn, visiting the market, sitting at the shrine steps, talking to hirelings, listening at the gate. The character rolls one of the following, chosen before the roll:
+
+| Skill          | What it finds                                             | Where it works best              |
+| -------------- | --------------------------------------------------------- | -------------------------------- |
+| _MANIPULATION_ | Directed questions, pressing contacts, buying information | Inns, markets, authority halls   |
+| _INSIGHT_      | Reading mood, catching lies, sensing tension              | Anywhere with people             |
+| _LORE_         | Historical context, old stories, pattern recognition      | Shrines, libraries, learned NPCs |
+| _SCOUTING_     | Observing traffic, reading tracks, watching the gate      | Walls, roads, outskirts          |
+
+The difficulty depends on what the character is looking for:
+
+| Target                           | Difficulty               | Example                                       |
+| -------------------------------- | ------------------------ | --------------------------------------------- |
+| General mood and local news      | 0 (automatic with skill) | "What's the talk this week?"                  |
+| Specific local rumor or event    | 1                        | "Has anyone come through from the north?"     |
+| Named person, faction, or place  | 2                        | "What do people say about the barrow warden?" |
+| Hidden or suppressed information | 3                        | "Who killed the reeve's brother?"             |
+| Deliberately concealed secrets   | 4+                       | "Where does the cult meet?"                   |
+
+**Modifiers:**
+
+| Factor                                      | Modifier |
+| ------------------------------------------- | -------- |
+| Settlement has an INN or TAVERN             | +1       |
+| Settlement has a MARKETPLACE                | +1       |
+| Fellowship's local Standing is +2 or higher | +1       |
+| Fellowship's local Standing is -1 or lower  | -1       |
+| Character buys drinks or gifts (1D6 silver) | +1       |
+
+**Results:**
+
+| ⚔️  | Outcome                                                                                                                                                                                                  |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| —   | Nothing useful. The locals are tight-lipped, ignorant, or lying. The character may have drawn attention by asking the wrong person.                                                                      |
+| 1   | A fragment. One useful detail — a direction, a name, a warning — but incomplete.                                                                                                                         |
+| 2   | A solid lead. Enough information to act on: a location, a timeline, a motive, a contact.                                                                                                                 |
+| 3+  | A full picture. The character learns what is known locally, including context most people would not share with strangers. The GM should also reveal one detail the character did not think to ask about. |
+
+If more than one character spends the quarter day asking around, each rolls separately. The GM combines the results into a single briefing. Duplicate successes confirm. Contradictions are real — the sources disagree, and the fellowship must decide whom to trust.
+
+Not all information gathered this way is true. The GM tags each piece of news with a reliability level the players do not see: **Solid** (firsthand account), **Likely** (secondhand, consistent), **Uncertain** (third-hand, garbled), or **False** (planted, confused, or malicious). PATH OF WORDS Rank 5 can evaluate reliability directly. _INSIGHT_ at 3+ ⚔️ against a specific source detects evasion but does not confirm truth.
+
+**Stronghold functions and ASK AROUND.** A TEMPLE makes religious and historical rumors available; the GM may offer one lore detail automatically. A TOWN HALL makes political rumors available, and if the fellowship has Standing +1 or higher, the clerk will share posted notices. A DOVECOTE connected to at least one other settlement makes news from the linked location available. A TOLL HOUSE means the toll-keeper knows who has passed through and roughly what they carried.
+
+Settlements without any of these functions still support ASK AROUND, but the information is limited to what locals have personally seen or heard from the last traveler who passed through.
+
+**Connecting to the rumor system.** When ASK AROUND succeeds, the GM checks whether an existing rumor source has reached this settlement. If one has, the character learns about it, filtered through local bias and Standing. If not, the information is purely local — what these people have seen with their own eyes. ASK AROUND taps existing rumor sources. It does not create new ones. New rumor sources are created by deeds, not by asking.
+
+#### THE NOTICE BOARD
+
+Most settlements of Reputation 3 or higher maintain some form of public work posting. In a village this is a carved post outside the chief's hall, notched and painted. In a town it is a board at the inn or market gate. In a stronghold it is a ledger at the town hall.
+
+The notice board is not a magical quest dispenser. It is a list of problems that locals are willing to pay strangers to solve, because the locals cannot or will not solve them themselves.
+
+**Generating notices.** When the fellowship first checks the board, the GM rolls D6 to determine how many notices are posted:
+
+| Settlement Size          | D6 1–3    | D6 4–6    |
+| ------------------------ | --------- | --------- |
+| Hamlet (Rep 0–2)         | 0 notices | 1 notice  |
+| Village (Rep 3–4)        | 1 notice  | 2 notices |
+| Town (Rep 5–7)           | 2 notices | 3 notices |
+| Stronghold/City (Rep 8+) | 3 notices | 4 notices |
+
+A settlement with a TOWN HALL adds +1 notice. A MARKETPLACE adds +1 notice. These bonuses can exceed the table maximum.
+
+At a hamlet with zero notices there is no board, but the elder or the gate-guard may mention a problem if the fellowship asks. Treat that as a single verbal notice.
+
+For each notice, roll D6 on the **Notice Category Table**:
+
+| D6  | Category      |
+| --- | ------------- |
+| 1   | Clearing      |
+| 2   | Escort        |
+| 3   | Delivery      |
+| 4   | Recovery      |
+| 5   | Investigation |
+| 6   | Labor         |
+
+Hamlets re-roll results of 5 (Investigation). Settlements without outside trade links (no INN, no MARKETPLACE, no ROAD) re-roll results of 2 (Escort). The GM may substitute a category that fits the settlement's current situation.
+
+| Category          | Description                                                                              | Typical Pay                 | Typical Difficulty   |
+| ----------------- | ---------------------------------------------------------------------------------------- | --------------------------- | -------------------- |
+| **Clearing**      | Kill or drive off a threat near the settlement: beasts, undead, bandits, a monster lair  | 20–100 silver               | Moderate to high     |
+| **Escort**        | Protect a person, wagon, or cargo on a journey of 1–10 days                              | 10–50 silver + expenses     | Low to moderate      |
+| **Delivery**      | Carry an item or message to a named destination                                          | 5–30 silver                 | Low (distance-based) |
+| **Recovery**      | Retrieve a stolen or lost item, person, or livestock                                     | 30–150 silver               | Variable             |
+| **Investigation** | Discover information: who stole the grain, where the raiders camp, what killed the sheep | 15–60 silver                | Moderate to high     |
+| **Labor**         | Physical work the settlement needs: repair a wall, dig a ditch, clear a road blockage    | 5–20 silver or food/lodging | Low                  |
+
+**Payment structure.** Most notices follow one of three forms. **Flat fee:** paid on completion — the standard for small jobs. **Advance + completion:** half up front, half on return — common for escort and clearing work. **Bounty:** paid on proof — the standard for clearing and recovery; proof means a head, a token, the stolen goods, or the person delivered alive. Prices scale with the settlement's prosperity. A wealthy trade town pays 50% more than listed. A starving hamlet pays in food, lodging, or future favor.
+
+**Mercenaries of the Forbidden Lands**. Clearing, Escort, and Recovery notices overlap deliberately with mercenary contract and bounty categories. A mercenary band can take notice board work, but it is beneath their operating costs unless the band is desperate or very small. An adventuring party can attempt Chapter 12 contracts, but they lack the manpower for garrison, patrol, and assault work. Bounty types from Chapter 12 (grievance, professional breach, elimination, recovery) may appear on the notice board. When they do, use Chapter 12 pricing. The notice board does not create a separate bounty economy — it is the same economy, posted publicly.
+
+**Board refresh.** The GM refreshes available notices when the fellowship visits after an absence of at least one week. Notices taken by other parties — NPC adventurers, mercenary bands — may disappear between visits.
+
+#### SEEK WORK
+
+Not every job is posted on the notice board and not every adventurer wants a contract. Sometimes a person simply needs coin before nightfall — enough to buy a meal, replace a broken buckle, pay the inn. Settlements always have work for someone willing to sweat.
+
+**Seeking work** takes two rolls and two quarter days. The first quarter day is spent finding the job. The second is spent doing it.
+
+Roll D6 on the **Available Work Table** to determine what the settlement needs today:
+
+| D6  | Work                                                                                                                                                                               | Skill Used                               |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 1   | **Field labor.** Digging, hauling, sowing, harvesting, clearing brush, stacking timber.                                                                                            | _MIGHT_                                  |
+| 2   | **Animal work.** Tending livestock, grooming horses, mucking stalls, driving herds to pasture, mending fences.                                                                     | _ANIMAL HANDLING_                        |
+| 3   | **Guard duty.** Watching a gate, standing post at a warehouse, escorting a merchant within the settlement.                                                                         | _INSIGHT_                                |
+| 4   | **Craft assistance.** Helping a smith, carpenter, tanner, or potter. Fetching, holding, cutting, stitching — the skilled worker directs.                                           | _CRAFTING_                               |
+| 5   | **Hauling and portage.** Loading or unloading goods, carrying crates, moving stores between buildings, clearing rubble after a storm.                                              | _ENDURANCE_                              |
+| 6   | **Skilled service.** Teaching letters to a merchant's child, translating for a foreigner, copying records, reading an old contract, tending a wound the local healer cannot reach. | _LORE_ or _HEALING_ (character's choice) |
+
+The GM may substitute a different type of work that fits the settlement. A mining town offers pit work instead of field labor. A river settlement offers net-mending or barge loading. A temple settlement might need grave-digging or wall-painting. The skill used should match the labor.
+
+Settlements with a FORGE or TANNERY always have Craft assistance available regardless of the D6 result.
+
+**Finding the job.** The character spends the first quarter day asking around — the inn, the market, the docks, the fields. Roll the skill listed for the available work. The character is demonstrating competence as much as asking: a would-be laborer hefts a crate, a would-be guard stands straight and names the weapons they carry.
+
+| Situation                                                             | Successes Needed |
+| --------------------------------------------------------------------- | ---------------- |
+| Standard settlement                                                   | 1 ⚔️             |
+| Poor settlement (hamlet, starving village, settlement under hardship) | 2 ⚔️             |
+
+Settlements with a MARKETPLACE, INN, or STABLE add +1 to the roll (more commerce means more employers). Failure means no work today — the character wasted the quarter day. They may try again the next day with a new roll on the Available Work Table.
+
+**Doing the work.** On success, the character spends a second quarter day at hard graft. At the end, the character rolls the same skill again. No talent bonuses apply unless the talent explicitly names the skill and the work matches the talent's description (PATH OF THE ARTISAN applies to Craft assistance; MASTER OF THE HUNT does not apply to Animal work).
+
+| ⚔️    | Pay                      | Result                                                                                                                                                                                 |
+| ----- | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| —     | 1D6 copper               | Passable work. The employer pays grudgingly. The character is sore, tired, and barely richer.                                                                                          |
+| 1 ⚔️  | 1 silver                 | Honest day's work. The employer is satisfied and pays the going rate.                                                                                                                  |
+| 2 ⚔️  | 2 silver                 | Good work. The employer is impressed. Pay is above rate. The character may be asked back tomorrow.                                                                                     |
+| 3+ ⚔️ | 3 silver + a small favor | Exceptional work. The employer pays well, feeds the character, and speaks well of them. Standing +1 at this settlement if the work was public and the character was not already known. |
+
+**Poor settlements.** In a hamlet, a starving village, or any place where silver is scarce, the employer may pay in kind rather than coin. The value is the same — 1 silver worth of grain, a repaired tool, a skinned rabbit, a jar of tallow — but it cannot be spent as money. The GM decides whether the settlement pays silver or goods. Settlements with a MARKETPLACE always pay silver.
+
+**Working for board.** A character may choose to work for housing instead of coin. The employer provides a place to sleep — a barn loft, a corner by the hearth, a spot in the bunkhouse. Any successes on the work roll are enough to earn a proper meal as well (counts as a RATION of FOOD). No successes means bare shelter: a roof and straw, but no food. This costs the character nothing and replaces the need to pay for an inn or find a campsite. A settlement with an INN may offer a proper bed instead if the employer has an arrangement with the innkeeper.
+
+**Repeat work.** A character can seek work again the next day, but the same type of work is not always available. Roll again on the Available Work Table — the settlement's needs change. If the same result comes up, the employer from yesterday is glad to see the character return and the finding-the-job roll succeeds automatically (no roll needed — they know your hands).
+
+**Dignity and reputation.** Adventurers who seek common labor are not mocked for it in the Forbidden Lands. Settlements respect those who work. Taking a day's labor in a settlement where the fellowship has negative Standing does not worsen it — sweat is neutral ground. However, a character with Reputation 7+ doing field labor may attract attention, not scorn but curiosity, and the work itself becomes a minor rumor source ("That road-famous swordsman spent the day hauling grain at Millstone. Something must have gone wrong on his last run.").
+
+#### PETITIONING AUTHORITY
+
+Many of the most useful things a fellowship can do in a settlement require the permission or cooperation of whoever runs the place: the village elder, the trade-town reeve, the temple warden, the mine boss. Using the militia, accessing restricted areas, getting a letter of introduction, receiving a commission too sensitive for public posting — all of these go through the authority.
+
+A **petition** is a quarter-day activity. The character travels to the hall, waits, presents the case, and hears the answer.
+
+**Getting the meeting:**
+
+| Situation                                          | Requirement                                                                  |
+| -------------------------------------------------- | ---------------------------------------------------------------------------- |
+| Fellowship has local Standing +2 or higher         | Automatic. The chief knows you and will hear you.                            |
+| Fellowship has local Reputation 3+ and Standing 0+ | _MANIPULATION_ difficulty 1. A name that carries no ill will opens the door. |
+| Fellowship has a letter of introduction or sponsor | No roll. The sponsor's Standing applies for the first meeting.               |
+| Fellowship has just completed a notice board job   | No roll. The employer wants the report.                                      |
+| Cold approach, Reputation 1–2                      | _MANIPULATION_ difficulty 2. The chief is busy.                              |
+| Cold approach, Reputation 0 or Standing negative   | _MANIPULATION_ difficulty 3. Strangers, or remembered badly.                 |
+
+**What you can petition for:**
+
+| Request                                                   | Difficulty | Standing Minimum | Typical Cost                               |
+| --------------------------------------------------------- | ---------- | ---------------- | ------------------------------------------ |
+| Local information (maps, routes, known threats)           | 1          | 0+               | Free or 1 silver for a scribe's work       |
+| Word of introduction to a nearby settlement               | 1          | +1               | Free (the chief vouches for you)           |
+| Use of settlement resources (forge, stable, stores)       | 1          | 0+               | Standard rates, no markup                  |
+| Access to restricted areas (armory, vault, records)       | 2          | +1               | Usually a service in return                |
+| Militia escort or armed support (1–3 fighters, 1–3 days)  | 2          | +1               | 5 silver/day per fighter, or a service     |
+| Commission (private job, too sensitive for the board)     | 2          | 0+               | Above-market pay, discretion expected      |
+| Emergency supplies (food, medicine, arms during shortage) | 3          | +2               | Triple price, repayment expected           |
+| Political favor (endorsement, alliance, intercession)     | 3          | +2               | Significant service or reputation at stake |
+| Settlement resources for stronghold building              | 3          | +2               | Standard price, but access is the barrier  |
+
+Standing modifies the roll as usual. Extra swords on the roll may reduce the cost, remove a condition, or add a bonus — the authority throws in a guide, extends the loan, or shares a private detail.
+
+A failed petition does not mean hostility. The authority declines — too busy, too cautious, or not enough trust yet. The fellowship can try again after improving Standing or completing work that proves their value.
+
+**Patron relationships.** Repeated successful interactions with the same authority figure build toward a patron relationship:
+
+| Level | Name     | Access                                                                                  |
+| ----- | -------- | --------------------------------------------------------------------------------------- |
+| 0     | Stranger | Cold approach required                                                                  |
+| 1     | Known    | Audience automatic. No other benefit.                                                   |
+| 2     | Trusted  | Supply at local rates, priority access to commissions, letter of introduction available |
+| 3     | Favored  | Private commissions, militia support, political backing within the settlement's sphere  |
+
+Patron level increases by +1 each time the fellowship completes a commission or major favor for that authority. It decreases by -1 for each betrayal, public embarrassment, or broken promise. Adventurer-patron relationships do not offer exclusive contracts or sworn service — the scale is smaller than Chapter 12 Allegiance, the obligations lighter.
+
+#### CAROUSE
+
+A character spends a quarter day and silver at the inn, drinking hall, or whatever passes for entertainment. Roll _MANIPULATION_.
+
+| ⚔️  | Outcome                                                                                                                                                                                               |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| —   | Drunk, broke, or in trouble. Lose 1D6 silver and suffer a mishap: a pocket picked wrong, a local insulted, a brawl started, or worse. Standing -1 at this settlement if the incident was public.      |
+| 1   | A decent night. Lose 1D6 silver but recover 1 WP and hear one piece of local gossip (treat as ASK AROUND with 1 ⚔️).                                                                                  |
+| 2   | A good night. Lose 1D6 silver but recover 2 WP, hear useful gossip (ASK AROUND with 2 ⚔️), and make a friendly acquaintance who might help later.                                                     |
+| 3+  | A legendary night. Lose 2D6 silver but recover 3 WP, gain a contact (the GM names them), and the story of the evening may itself become a minor rumor source. Standing +1 if the crowd was impressed. |
+
+Carousing is the loud, messy alternative to ASK AROUND — riskier and more expensive, but it recovers WP and produces contacts that careful questioning does not.
+
+#### CRIME AND PUNISHMENT
+
+Every settlement holds its own law. There are no kings in the Forbidden Lands, no royal courts, no parchment code enforced across borders. A village answers to its elder. A trade-town answers to the reeve or the strongest merchant family. A temple-hold answers to its warden and the will of the god. What counts as a crime, how it is discovered, how it is judged, and what happens to the guilty — all of this depends on where you are standing when you drew the blade or opened the purse.
+
+Adventurers are not above these laws. Strangers carry less trust, fewer friends, and no kin to swear on their behalf. A local who steals bread may lose a hand; a stranger who steals bread may lose a head.
+
+##### OFFENSES
+
+The following table lists the offenses most settlements recognize. The GM assigns the category when a crime occurs — whether committed by a player character, witnessed by a player character, or discovered after the fact.
+
+| Category                    | Examples                                                                                                            | Severity |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------- |
+| **Petty offenses**          | Public drunkenness, brawling, vandalism, trespass, abusive language to an elder, cheating at dice, indecent conduct | Minor    |
+| **Theft**                   | Picking pockets, pilfering goods, stealing livestock, burglary, poaching in protected grounds                       | Moderate |
+| **Fraud and oath-breaking** | False trade goods, counterfeit coin, broken contracts, perjury, impersonating an official                           | Moderate |
+| **Assault**                 | Wounding in a fight, beating, threatening with a drawn weapon, poisoning                                            | Serious  |
+| **Sacrilege**               | Defiling a temple, desecrating graves, using forbidden magic openly, stealing holy objects                          | Serious  |
+| **Arson**                   | Setting fire to a building, field, or ship                                                                          | Grave    |
+| **Murder**                  | Killing outside sanctioned combat: ambush, poisoning, killing the helpless, killing a guest under the host's roof   | Grave    |
+| **Outlawry-grade crimes**   | Treason against the settlement, slave-taking, conspiring with demons, leading enemies to the gate                   | Capital  |
+
+Settlements may define additional offenses. Sorcery may be a petty offense in one place and a capital crime in another. The GM decides what the local law cares about.
+
+##### DETECTION AND ACCUSATION
+
+A crime must be discovered before anyone answers for it. How this happens depends on the settlement.
+
+**Caught in the act.** Characters seen committing the offense by a credible witness — a guard, a merchant, a crowd — are seized immediately. The settlement's militia or the aggrieved party raises the alarm. In villages this is the hue and cry: a shout goes up, and every able body is bound to join the pursuit. Fleeing from the hue and cry is itself an offense, and the whole settlement turns hunter.
+
+**Accused after the fact.** If no one witnesses the crime but evidence points to the fellowship — a stolen item found in their belongings, a dead body in their rented room, testimony from a servant or tavern-keeper — an accusation is made. Roll _INSIGHT_ for the investigating party (the reeve's man, a temple guard, an aggrieved merchant). One or more successes means enough evidence to make a formal charge. None means suspicion without proof — the fellowship may still be watched, questioned, or asked to leave.
+
+**Hue and cry.** If a crime is witnessed, the cry spreads. Any character within the settlement at that moment hears it. A character with _SCOUTING_ or _INSIGHT_ may roll to identify an escape route before the net closes — difficulty 2 in a village, difficulty 3 in a town. Failure means the character is caught or cornered.
+
+**Private accusation.** Any person of standing in the settlement — a landowner, a merchant with property, a temple servant — may bring a private accusation against the fellowship before the local authority. This requires one quarter day. The authority decides whether the accusation has merit. If the accuser is lying or malicious, the defender may later demand the accuser face the same penalties (see DEFENDING OTHERS below).
+
+##### JUDGMENT
+
+Once accused, a character faces judgment. There is no appeal to a higher power — the local authority is the law.
+
+**Who judges:**
+
+| Settlement type      | Judge                                  | Notes                                               |
+| -------------------- | -------------------------------------- | --------------------------------------------------- |
+| Village              | The elder, headman, or village council | Often a single person. Judgment is fast and public. |
+| Trade-town           | The reeve, steward, or market judge    | May have a hall of judgment. More formal.           |
+| Temple-hold          | The warden-priest or temple council    | Sacrilege is judged most harshly here.              |
+| Stronghold           | The lord or commander                  | Military law may apply: harsher, swifter.           |
+| Mine camp or outpost | The boss, foreman, or senior worker    | Rough justice. Practical, not ceremonial.           |
+
+**Public or private judgment.** The judge decides. Most villages hold judgment at the common green or the gate — the whole settlement watches. Towns may use a closed hall. The distinction matters: public judgment lets a character address the crowd, which can influence the outcome. Private judgment is quieter and harder to sway.
+
+##### THE JUDGMENT PROCEDURE
+
+Judgment follows a fixed order:
+
+**Step 1 — The Accusation.** The accuser or their representative states the charge and presents evidence. No roll is needed for this.
+
+**Step 2 — The Defense.** The accused may speak in their own defense, or another character may speak for them (see DEFENDING OTHERS below). The defender rolls a skill:
+
+| Defense approach                              | Skill                                   | Example                                                                                                          |
+| --------------------------------------------- | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Reasoned argument, citing facts and testimony | _INSIGHT_                               | "We were three hexes south that morning. Ask the ferryman."                                                      |
+| Emotional appeal, charisma, persuasion        | _MANIPULATION_                          | "My lord, we cleared the barrow-wight from your northern fields — will you call us thieves for a sack of grain?" |
+| Intimidation, invoking fear or consequence    | _MANIPULATION_ (with Standing modifier) | "Hang me, and the Rust Brothers learn your gate code before the new moon."                                       |
+| Invoking law, custom, or precedent            | _LORE_                                  | "The old covenant says a stranger who works three days in the fields has guest-right."                           |
+
+**Difficulty of the defense roll:**
+
+| Severity | Base Difficulty | Standing Modifier                                     |
+| -------- | --------------- | ----------------------------------------------------- |
+| Minor    | 1               | Standing +2 or higher: automatic success              |
+| Moderate | 2               | Positive Standing: -1 to difficulty                   |
+| Serious  | 3               | Positive Standing: -1 to difficulty                   |
+| Grave    | 4               | No reduction                                          |
+| Capital  | 5               | No reduction. Standing +3 or higher: -1 to difficulty |
+
+**Step 3 — The Verdict.** The defense roll determines the outcome:
+
+| ⚔️  | Result                                                                                                                                                                |
+| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| —   | **Guilty as charged.** Full sentence applies.                                                                                                                         |
+| 1   | **Guilty, sentence reduced.** The judge shows mercy. Drop one severity level for sentencing.                                                                          |
+| 2   | **Reasonable doubt.** The accused is released but watched. Standing -1 at this settlement. If the charge was Serious or worse, the character may be banished instead. |
+| 3+  | **Acquitted.** The charge is dismissed. If the defense was especially compelling, Standing +1 and the accuser's own credibility suffers.                              |
+
+**Compurgation.** If another character of positive Standing in the settlement swears an oath supporting the accused, the defense roll gains +1. This is called oath-helping. The oath-helper stakes their own reputation: if the accused is found guilty, the oath-helper's Standing drops by -1. Up to two oath-helpers may swear.
+
+**Trial by ordeal.** If the judge is uncertain, or the crime is Serious or worse with no witnesses on either side, the judge may offer a trial by ordeal. The accused may accept or refuse. Refusal is treated as a guilty plea.
+
+| Ordeal             | Skill                                               | Description                                                                                  |
+| ------------------ | --------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Ordeal of fire     | _ENDURANCE_                                         | Hold a red-hot iron and walk nine paces. Difficulty 3.                                       |
+| Ordeal of water    | _ENDURANCE_                                         | Plunge a hand into boiling water and retrieve a stone. Difficulty 3.                         |
+| Trial by combat    | Attacker's choice: _MELEE_ or relevant weapon skill | Fight the accuser or the settlement's champion. Standard combat. The loser is guilty.        |
+| The Bitter Draught | _ENDURANCE_                                         | Drink a foul herbal poison. Difficulty 2. Vomiting clears the charge; collapse proves guilt. |
+
+Trial by combat follows normal combat rules. Death is possible. The judge may declare the combat to first blood (the first critical injury ends it), or to the broken (the first character to be broken loses). The loser is guilty regardless of who struck first.
+
+##### DEFENDING OTHERS
+
+A character may speak for another in judgment — an accused companion, a wrongly charged local, a prisoner the fellowship believes is innocent. The procedure is the same as for self-defense, but the defending character makes the roll.
+
+**Qualifications for speaking in defense:**
+
+- The defender must have Standing 0 or higher in the settlement, or carry a letter of introduction from a recognized authority.
+- A character with Standing +2 or higher may demand the right to defend — the judge cannot refuse without cause.
+- A character with the PETITIONING AUTHORITY patron level of Trusted or higher may defend as a matter of privilege.
+
+**Consequences of defending.** If the accused is ultimately found guilty despite the defense, the defender's Standing drops by -1. The settlement remembers who vouched for the guilty. If the accused is acquitted through the defense, both the defender and the accused gain Standing +1.
+
+**Defending strangers.** Speaking for someone the fellowship has no obvious connection to is noticed. If the defense succeeds, the freed person owes a debt — the GM may use this as a contact, a rumor source, or a future ally. If it fails, the judge may suspect conspiracy and order both investigated.
+
+##### SENTENCES
+
+The sentence follows the severity of the crime. The judge may adjust up or down by one step based on circumstances — repeat offenses push upward, youth or first offense may push downward.
+
+| Severity     | Typical sentence                                                                                                                                                                                                                                                                     |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Minor**    | Public humiliation (stocks, 1 day), a fine of 1D6 silver, or forced labor (1D3 days at no pay — treated as SEEK WORK with no compensation). Standing -1.                                                                                                                             |
+| **Moderate** | A heavy fine (2D6 silver or the value of the stolen goods plus half again), branding or ear-cropping (1 point of permanent Empathy damage for the disfigurement), or 1D6 days in the stocks. Standing -2. The injured party may also demand weregild (see below).                    |
+| **Serious**  | Maiming: loss of a hand, blinding in one eye, or hamstringing (treat as a permanent critical injury — the GM selects or rolls). A fine of 3D6 silver may substitute if the judge permits and the victim's family agrees. Standing -3. Banishment from the settlement for one season. |
+| **Grave**    | Banishment and outlawry from the settlement and all allied settlements. The character's Standing drops to -5 everywhere the sentence is known. Goods and silver in the settlement are confiscated. Or: execution by hanging, beheading, or drowning, at the judge's order.           |
+| **Capital**  | Execution. No substitution. The sentence is carried out within one day. The body may be displayed as warning.                                                                                                                                                                        |
+
+##### WEREGILD
+
+When the offense involves injury or death, the victim's kin may demand weregild — a blood-price paid in silver to settle the matter without execution or feud. This is not mercy. It is a transaction. The guilty party's freedom is bought with coin.
+
+| Offense                                   | Weregild                                     |
+| ----------------------------------------- | -------------------------------------------- |
+| Maiming (hand, eye, foot)                 | 20 silver per limb or organ                  |
+| Permanent disfigurement                   | 10 silver                                    |
+| Killing a commoner                        | 50 silver                                    |
+| Killing a craftsman, merchant, or warrior | 100 silver                                   |
+| Killing a person of authority             | 200 silver                                   |
+| Killing a temple servant                  | 200 silver, plus a penance set by the temple |
+
+If weregild is offered and accepted, the criminal charge is settled. Standing is still damaged (-2 for injury, -3 for killing), but the character is not maimed, banished, or executed. If weregild is refused, the sentence proceeds.
+
+The fellowship may pool silver to pay a companion's weregild. A patron at level 2 or higher may intervene to reduce the demand by half if the victim's family can be persuaded.
+
+##### IMPRISONMENT AND ESCAPE
+
+Not every settlement kills its criminals. Some lock them up.
+
+**Dungeons and holding cells.** A settlement with a DUNGEON stronghold function can hold prisoners indefinitely. A village without one improvises: a root cellar, a grain pit, a cage of green wood. Improvised cells have a break difficulty of 1 (_MIGHT_ or _CRAFTING_). A proper dungeon has a break difficulty of 3.
+
+**Duration.** The judge sets the term. Typical imprisonment:
+
+| Severity | Term                                            |
+| -------- | ----------------------------------------------- |
+| Minor    | 1–3 days                                        |
+| Moderate | 1D6 days                                        |
+| Serious  | 1D6 weeks                                       |
+| Grave    | Season or longer — often until weregild is paid |
+
+**Conditions.** Prisoners in a proper dungeon lose 1 point of Strength per week from poor food and confinement. In an improvised cell, Strength loss is 1 per three days. Starvation and disease rules from the journey chapter apply as normal.
+
+**Escape.** A character may attempt escape once per day of imprisonment. Roll _MOVE_ to slip bonds or _MIGHT_ to force a barrier, at the break difficulty listed above. A _SLEIGHT OF HAND_ roll can conceal a tool or lockpick on the character's body before imprisonment (rolled at the moment of capture, difficulty 2).
+
+Successful escape triggers the hue and cry. The character must leave the settlement hex or hide within it (_SCOUTING_, difficulty 3 in a village, difficulty 4 in a town). If caught after escape, the sentence worsens by one severity level.
+
+**Rescue.** Other party members may attempt a rescue. This is not a guaranteed right — it is a crime (aiding a guilty party, or in the case of an acquitted person, trespassing and assaulting guards). Breaking someone out of a dungeon is played as an action scene: guards, locks, walls, timing.
+
+##### OUTLAWRY
+
+The harshest sentence short of death is outlawry. An outlawed character is declared outside the settlement's protection. Their name is spoken at the gate and carried by travelers to neighboring settlements.
+
+**Effects of outlawry:**
+
+- Standing drops to -5 at the sentencing settlement and all settlements within 3 hexes that share trade or road connections.
+- No settlement that has heard the outlawry will sell goods, offer shelter, or employ the character. A _MANIPULATION_ roll at difficulty 3 is required even to enter the gate.
+- The outlaw may be killed without legal consequence by anyone who recognizes them. This is not murder — it is enforcement.
+- Outlawry lasts one year, or until the character performs a service so significant that the sentencing settlement lifts the ban. The GM decides what qualifies.
+
+**Caput lupinum.** In some settlements the old custom holds: an outlawed person is called a wolf's head. Anyone may hunt them. A bounty of 10–50 silver may be posted. The fellowship might encounter such bounties on THE NOTICE BOARD.
+
+##### CRIMES AGAINST THE FELLOWSHIP
+
+The system works in both directions. If someone wrongs the fellowship — cheats them, steals from them, assaults them — the fellowship may bring a charge before the local authority.
+
+**Bringing a charge.** A character visits the authority and states the accusation. This is a PETITIONING AUTHORITY action (one quarter day). The accuser must have Standing 0 or higher. At Standing -1 or lower, the authority refuses to hear a stranger's complaint — find a local to sponsor the accusation.
+
+**Accuser's burden.** The fellowship provides evidence. The GM makes the defense roll for the accused NPC using the same table as above. If the NPC is found guilty, the sentence applies to them.
+
+**Weregild owed to the fellowship.** If the offense was injury or death of a companion or hireling, the fellowship may demand weregild. The same table applies. Silver is paid from the guilty party's property or, if they cannot pay, from forced labor assessed by the judge.
+
+**False accusation.** If the accused NPC is acquitted, the accuser's Standing drops by -1 and the judge may require the accuser to pay the accused's costs (1D6 silver). In some settlements a false accusation of a Serious or worse crime carries the same sentence the accused would have faced.
+
+##### SANCTUARY AND TEMPLE JUSTICE
+
+A character on temple grounds may claim sanctuary. No settlement militia may seize a person who has entered a TEMPLE without the temple warden's consent. Sanctuary lasts 3 days. During that time, the character must negotiate — through the temple — for a reduced sentence, weregild, or banishment in place of execution.
+
+Not all temples grant sanctuary. The GM decides based on the temple's disposition. A temple that profits from the settlement's trade will rarely defy the reeve on behalf of a stranger.
+
+**Temple courts.** Sacrilege and offenses on temple grounds are judged by the temple warden, not the settlement authority. Temple sentences tend toward penance rather than mutilation: forced labor at the temple (1D6 weeks), a pilgrimage (the GM defines the destination and the risk), or a geas — a binding oath to perform a specific task, enforced by the warden's authority and the fear of divine consequence. Breaking a geas set by a temple warden is itself an offense of Grave severity.
+
+##### CRIME IN PLAY
+
+Crime happens naturally in the Forbidden Lands. Adventurers steal. They kill. They break into places they are not welcome. The system above gives the GM a framework for what happens when the world pushes back.
+
+**When to use it.** Not every petty theft needs a judgment scene. Use the full procedure when the crime matters to the story: when a companion faces the gallows, when the fellowship must free a wrongly accused friend, when a powerful NPC is brought low by the fellowship's testimony, or when the adventurers' own sins finally catch up to them.
+
+**When to skip it.** If the fellowship commits a crime and escapes cleanly — no witnesses, no evidence, no trail — the settlement never knows. Standing and Reputation are unaffected. The crime's consequences are moral, not legal. But the GM may store the deed for later. A witness appears. An item surfaces. The blood was not washed from the stone. The Ravenlands remember.
+
+**Running from judgment.** A fellowship that flees a settlement before facing judgment is treated as guilty. Standing drops to -5. Outlawry may follow if the offense was Serious or worse. The settlement posts the crime to THE NOTICE BOARD as a bounty. Other settlements along the fellowship's probable route are warned if road traffic allows.
+
+**Corruption and bribery.** Not all judges are honest. A bribe may reduce a sentence, but it requires a _MANIPULATION_ roll against the judge (difficulty 2 for petty bribes, difficulty 4 for serious offenses). Failure means the bribe is rejected and the judge adds the offense of attempting to corrupt justice — raise the sentence by one severity level. A successful bribe costs 2× the standard fine for the offense and buys silence, not innocence. The crime is still known; only the outcome changes.
+
+#### REPUTATION AS LEVERAGE
+
+The Leaning on Your Name rules describe what happens when the fellowship invokes its Reputation for general advantage. The following table gives the GM concrete mechanical outcomes for specific requests. Each requires a Leaning on Your Name roll as described earlier. Standing modifies the outcome as usual.
+
+| Benefit               | ⚔️ Required | Standing Minimum | Effect                                                                                                                                            |
+| --------------------- | ----------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Credit**            | 1           | 0                | Buy goods up to 10 silver on promise of future payment. Default within one season damages Standing by -2.                                         |
+| **Shelter**           | 1           | 0                | Free lodging for the group for one night, no questions asked.                                                                                     |
+| **Introduction**      | 1           | 0                | A local vouches for you to an NPC, faction, or nearby settlement. Acts as a sponsor for your next First Impression roll there.                    |
+| **Discount**          | 2           | +1               | 10% reduction on a single large purchase (20+ silver).                                                                                            |
+| **Priority service**  | 2           | +1               | Immediate access to a healer, smith, or official who would otherwise require waiting.                                                             |
+| **Local guide**       | 2           | +1               | A knowledgeable local accompanies the group for up to 3 days, providing +1 to _SURVIVAL_ for navigation and local intelligence.                   |
+| **Emergency aid**     | 3           | +2               | The settlement commits resources in a crisis: militia reinforcement (3–6 fighters for 1 day), emergency grain, medical supplies, or a fast horse. |
+| **Political backing** | 3           | +2               | The settlement's authority figure publicly endorses the fellowship's cause. This carries weight with neighboring settlements and factions.        |
+| **Sanctuary**         | 3           | +2               | The settlement shelters the fellowship from pursuers, conceals their presence, or refuses to cooperate with those hunting them.                   |
+
+**Reputation drain.** Each time the fellowship uses Reputation as Leverage for a benefit of 2 ⚔️ or higher, the GM may note it. If the fellowship draws heavily on a settlement's goodwill without replenishing it through deeds or service, the GM may apply -1 to future Leaning on Your Name rolls there, representing social fatigue. Completing work, donating resources, or improving the settlement resets this penalty.
+
+**Fear as leverage.** Where Standing is -2 or worse, leaning on your name still works — but the mechanism is fear, not friendship. The same Reputation roll applies. The outcomes bend differently:
+
+| ⚔️  | Outcome                                                                                                                                                                              |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | Locals comply but resent it. They do what you ask to avoid trouble, and Standing worsens by -1.                                                                                      |
+| 2   | Locals comply and spread the word. Obedience in the moment, but a rumor source of strength 1–2 (tone: feared/hated) begins spreading.                                                |
+| 3+  | Locals comply completely. The settlement bends. But the rumor is strength 3, and neighboring settlements that hear it may prepare to resist, ally against you, or seek outside help. |
+
+Fear is a lever, not a currency. It works until someone decides the cost of obedience is higher than the cost of resistance.

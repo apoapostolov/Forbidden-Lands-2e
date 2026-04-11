@@ -626,7 +626,7 @@ You can learn or increase ranks in locales with enough kin that speak the langua
 
 ### POLYGLOT
 
-You have had dealings with rare cultures or creatures that have developed their own spoken language or similar means of communication. You may learn exotic Languages, for example:\*\* **Ancient** (still spoken by some Giants and Trolls), **Deep Dwelver, Demonic, Dragon speech, Whiner;** or other languages the GM mentions. These forgotten or forbidden languages do not belong to any common kin and cannot be learned with the LANGUAGE talent directly except through this talent. This talent can only be taught by teachers or members of rare cultures and never learned by practice.
+You have had dealings with rare cultures or creatures that have developed their own spoken language or similar means of communication. You may learn exotic Languages, for example: **Ancient** (still spoken by some Giants and Trolls), **Deep Dwelver, Demonic, Dragon speech, Whiner;** or other languages the GM mentions. These forgotten or forbidden languages do not belong to any common kin and cannot be learned with the LANGUAGE talent directly except through this talent. This talent can only be taught by teachers or members of rare cultures and never learned by practice.
 
 - **✦ RANK 1:** You gain a Rank 1 Language from the list above.
 - **✦ RANK 2:** You gain a Rank 1 Language from the list above.

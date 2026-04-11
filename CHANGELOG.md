@@ -11,41 +11,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- **Chapter 07 — Demonic Magic (new discipline).** A seventeenth magic discipline, restricted to Sorcerers. Centered on mog — a corrosive lilac-green substance drawn from the demon dimension Churmog. Practitioners are hunted on sight in any settlement. Rarity: Prohibited. Secrecy: Journey. Includes 20 spells across all ranks, the MOG inventory and handling rules, and a D66 mishap table.
-  - **Rank 1:** Corrosive Touch, Generate Mog, Sense Corruption
-  - **Rank 2:** Demon Tongue, Dissolve, Mog Blade, Mog Ward
-  - **Rank 3:** Call Misgrown, Demon Sight, Graft Flesh, Mog Spray
-  - **Rank 4:** Compel Demon, Demon Limb, Reshape Body, Tear the Veil
-  - **Rank 5:** Flesh Abomination, Mog Flood, Summon Demon
-  - **Rank 6:** Apotheosis, Churmog Gate
-- **Chapter 07 — New spells across existing disciplines.** Twenty-one new spells integrated into ten existing disciplines.
-  - **General Spells:** Empower Spell (rank 1), Contain Spell (rank 3), Anti-Magic Zone (rank 6)
-  - **Healing:** Relieve Condition (rank 1), Bend Demon (rank 3)
-  - **Awareness:** Transfer Senses (rank 1), Predict Moves (rank 2)
-  - **Symbolism:** Warning (rank 1), Animate Object (rank 4)
-  - **Elemental Magic:** Deviation (rank 1), Dense Fog (rank 2), Fire Resistance (rank 2), Impulse (rank 2), Pressure Jet (rank 3)
-  - **Ice Affinity:** Frost Armor (rank 2), Glacial Path (rank 2), Shatter (rank 4)
-  - **Blood Magic:** Create Bloodling (rank 5)
-  - **Mentalism:** Mind Shield (rank 2), Implant Memory (rank 3)
-  - **Shapeshifting:** Inhabit Animal (rank 3)
-- **Chapter 07 — Rarity and Secrecy table.** A reference table covering all seventeen disciplines. Ratings run from Known to Prohibited (public reaction) and Initiation to Journey (teacher access). No mechanical weight — a GM guide for social consequences and teaching availability.
-- **Chapter 07 — Burn rules.** A caster may burn their own body to fuel a spell: choose burn points up to the rank in the spell's discipline, roll a D8 per point to determine random attribute damage (Strength, Agility, Wits, or Empathy), and gain 1 temporary WP per point that can be spent only on the triggering spell.
-- **Chapter 04 — PATH OF THE UNCLEAN (new Sorcerer talent).** Demonic Magic path talent added under The Sorcerer's Talents. Five ranks unlock Demonic Magic spells and grant progressive mog-symbiosis abilities: bare-handed mog handling (R1), involuntary visible marks and demon recognition (R2), sweating mog as a free ingredient for 1 WP (R3), mog immunity and Armor Rating 1 for 1 WP (R4), drinking mog to regain D6 WP with corruption risk (R5). Each rank permanently alters the caster's appearance.
+- **Chapter 07 — Demonic Magic.** Seventeenth discipline for Sorcerers. Built around mog — a corrosive substance from the demon dimension Churmog; practitioners hunted on sight in settlements. 20 spells across R1–R6, mog handling rules, D66 mishap table.
+- **Chapter 07 — New spells across existing disciplines.** 21 new spells added to 10 existing disciplines: General (3), Healing (2), Awareness (2), Symbolism (2), Elemental Magic (5), Ice Affinity (3), Blood Magic (1), Mentalism (2), Shapeshifting (1).
+- **Chapter 07 — Rarity and Secrecy table.** Reference table for all 17 disciplines with public reaction (Known to Prohibited) and teacher access (Initiation to Journey).
+- **Chapter 07 — Burn rules.** Casters may burn attribute points to fuel a spell: 1D8 random attribute damage per point, 1 WP per point (current spell only).
+- **Chapter 04 — PATH OF THE UNCLEAN.** Five-rank Sorcerer path talent for Demonic Magic. Progressive mog-symbiosis abilities and permanent appearance changes at each rank.
+- **Chapter 08 — VILLAGES AND TOWNS.** Seven player-facing settlement activities added after REPUTATION: ASK AROUND, THE NOTICE BOARD (posted jobs by settlement size), SEEK WORK (two-roll employment, six work types by D6, tiered pay 1D6cp–3s, in-kind pay at poor settlements, board option), PETITIONING AUTHORITY (nine types, patron track 0–3), CAROUSE, REPUTATION AS LEVERAGE, and SETTLEMENT VISIT FLOW.
+- **Chapter 08 — CRIME AND PUNISHMENT.** Full crime and justice system for settlements. Eight offense categories (petty through capital), detection via hue and cry or investigation, judgment procedure with defense rolls by skill, compurgation (oath-helping), four trials by ordeal, sentencing table (stocks through execution), weregild blood-price schedule, imprisonment and escape rules, outlawry mechanics, defending others in court, bringing charges against NPCs, temple sanctuary, corruption and bribery.
+- **Chapter 14 — Appendix D: Traderoads of the Forbidden Lands.** Self-contained caravan economics module. Seven transport options, 60+ individually priced goods across seven cargo categories, supply tiers defined inline, settlement trade profiles, market MANIPULATION roll, D66 hazard table, Caravan Circle reputation, seasonal pricing, PATH OF THE CARAVAN integration, WAREHOUSE stronghold function (200 wood + 100 stone), and a one-roll simple shortcut.
 
 ### Changed
 
-- **Chapter 07 — Discipline count.** Updated from sixteen disciplines to seventeen. The sorcery count rises from seven to eight with the addition of Demonic Magic.
-- **Chapter 07 — Learning Magic.** Expanded with four named rules: MAGICAL TALENT RANKS (cap of one rank per level-up), FREE SPELLS (one spell of the new rank each time a talent rank is gained), LEARNING ADDITIONAL SPELLS (cost and teacher requirement for spells beyond the free one), and EXPANDED TALENT ACCESS (table of non-standard kin and professions who may learn specific disciplines: Dwarves for Stone Song and Magma Song, Half-Elves for Awareness, Minstrels for Mentalism, Warriors and Riders for Magnetism).
-- **Chapter 07 — Elemental Magic: Elemental Environment.** Two-tier Power Level bonus when casting in the presence of a strong or overwhelming source of the relevant element. Tier 1 (+1 PL): large fire, strong current, sustained gale, natural cave. Tier 2 (+2 PL): burning structure, fully submerged, full storm, unstable ground or lava. Bonus does not apply to elements the spell itself created. Does not add mishap dice.
-- **Chapter 07 — Blood Magic: Blood Rot.** Blood used as a spell ingredient must be drawn from a living creature within the last two quarter days. Blood from the dead is useless.
-- **Chapter 07 — Mentalism: Influence.** Mentalism spells require no physical ingredients. Speaking directly to the target — words, tone, and gesture — replaces the ingredient and grants the same +1 Power Level bonus.
-- **Chapter 07 — Symbolism: Inscribed Symbols.** Instead of casting immediately, a Symbolism spell can be inscribed onto a surface (1 minute per spell rank, ink or sharp tool required). The inscription holds until triggered by a condition set at inscription time, then resolves at the Power Level achieved when inscribed. Visible to the eye; magical nature requires Sense Magic to detect.
-- **Chapter 07 — Stone Song: Instruments.** Stone Song instruments are not consumed by casting. The same horn, drum, or lute can be used indefinitely.
-- **Lifepaths — Muster-out draws.** Roll count now equals turns completed in final path (1, 2, or 3+). Choose one result from all rolls. Replaces single fixed roll.
-- **Lifepaths — Advancement benefits draws.** Success yields 1 draw; 2 successes yields 2 draws, reroll duplicates; 3+ successes yields 2 draws plus free pick from the remaining four. Replaces vague "one extra contact/rumor/gear" row.
-- **Lifepaths — Mishap result 7.** Added a unique catastrophic result to all 12 mishap tables (8 profession + 4 crisis). Always forces path change; two consequences rather than one; no permanent stat damage.
-- **Lifepaths — "The fiction" language.** Replaced all instances of "the fiction" as game-jargon with "the story" throughout Lifepaths of the Forbidden Lands.
-- **Mercenaries — Finding Men.** Replaced sparse bullet list with a recruit pool table by location (Village through Military Camp and Aftermath), a D6 quality distribution table producing Common/Veteran/Elite per recruit by location, and rules for Elite recruitment terms and TRAINING GROUNDS quality modifiers. Hard building requirements for Veteran/Elite removed; replaced with +1/+2 quality roll modifiers.
+- **Chapter 07 — Discipline count.** Updated to 17; sorcery paths rise to 8 with Demonic Magic.
+- **Chapter 07 — Learning Magic.** Four named rules added: MAGICAL TALENT RANKS, FREE SPELLS, LEARNING ADDITIONAL SPELLS, EXPANDED TALENT ACCESS.
+- **Chapter 07 — Elemental Magic: Elemental Environment.** Two-tier PL bonus for casting near strong (+1) or overwhelming (+2) natural sources of the relevant element.
+- **Chapter 07 — Blood Magic: Blood Rot.** Blood ingredients must be drawn from a living source within the last two quarter days.
+- **Chapter 07 — Mentalism: Influence.** Word and gesture replace physical ingredients; same +1 PL bonus.
+- **Chapter 07 — Symbolism: Inscribed Symbols.** Symbols can be inscribed on surfaces and triggered by a set condition rather than cast immediately.
+- **Chapter 07 — Stone Song: Instruments.** Instruments are not consumed on use.
+- **Lifepaths — Muster-out draws.** Count equals turns completed in final path; choose best result.
+- **Lifepaths — Advancement benefits draws.** Tiered: 1 success = 1 draw; 2 = 2 draws; 3+ = 2 draws plus free pick from remaining four.
+- **Lifepaths — Mishap result 7.** Universal catastrophic result on all 12 mishap tables. Forces path change; two consequences; no permanent stat damage.
+- **Lifepaths — "The fiction" language.** Replaced throughout Lifepaths with "the story."
+- **Mercenaries — Finding Men.** Recruit pool table by location, quality distribution table (Common/Veteran/Elite) with TRAINING GROUNDS modifiers. Hard building requirements removed.
 
 ## [1.0.5] - 2026-04-10
 
