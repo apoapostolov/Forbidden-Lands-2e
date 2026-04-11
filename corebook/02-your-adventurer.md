@@ -587,7 +587,7 @@ After each session the GM simply notes how long the table played and how close t
 **Tale pace**
 
 - Short session: 2 XP.
-- Long session: 4 XP.
+- Long session: 3 XP.
 - If the party survived a fight that could have ended the chronicle (multiple PCs Broken, the foe clearly lethal), add +1 XP.
 - NPC hirelings and retainers collect 1 XP.
 

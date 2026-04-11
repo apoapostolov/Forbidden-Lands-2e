@@ -23,11 +23,11 @@ If speed matters more than history, use the standard method instead. Both produc
 
 The life generator supports three levels of player control.
 
-| Mode              | How It Works                                                                                                         |
-| ----------------- | -------------------------------------------------------------------------------------------------------------------- |
-| **Full Random**   | Roll every path and every event. Maximum surprise. Fastest at the table.                                             |
-| **Guided Random** | Choose your path each cycle, roll the events. Shape the broad life, discover the details.                            |
-| **Full Guided**   | Choose your path each cycle. Roll two events per turn and pick one. Most player control without free-build softness. |
+| Mode | How It Works |
+| --- | --- |
+| **Full Random** | Roll every path and every event. Maximum surprise. Fastest at the table. |
+| **Guided Random** | Choose your path each cycle, roll the events. Shape the broad life, but the dice pick the details. |
+| **Full Guided** | Choose your path each cycle. Roll two events per turn and pick one. Give most control without free-build softness. |
 
 Even in Full Guided mode, you never pick freely from the whole table. Roll two results and choose between them. The choice between two unwanted events is still a choice — it is how a life becomes something other than what you planned.
 

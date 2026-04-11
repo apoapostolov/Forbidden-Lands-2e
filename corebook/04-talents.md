@@ -572,7 +572,7 @@ You hum with the rhythm of bedrock. Each rank also opens the equivalent Stone So
 
 ### PATH OF THE UNCLEAN
 
-Mog seeps into you before you learn to push it out. Each rank also unlocks the matching Demonic Magic spells.
+Demonic mog seeps into you as you tinker with the unclean nature of demons. Each rank also unlocks the matching Demonic Magic spells.
 
 - ✦ **RANK 1:** Cast rank 1 Demonic Magic spells. Your fingertips darken to a bruised lilac that never fades. Raw mog no longer burns your skin — you can handle it bare-handed, though it still corrodes your gear and harms anyone else who touches it.
 - ✦ **RANK 2:** Cast rank 2 spells. Lilac-green veins trace visibly up your arms and neck. The marks are involuntary — anyone who sees your bare skin can tell what you are. Other demon-workers recognize the stain on sight, and unbound demons hesitate one round before attacking you, studying you the way a wolf studies another wolf.
