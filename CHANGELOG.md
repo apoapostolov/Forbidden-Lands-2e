@@ -34,6 +34,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Lifepaths — Mishap result 7.** Universal catastrophic result on all 12 mishap tables. Forces path change; two consequences; no permanent stat damage.
 - **Lifepaths — "The fiction" language.** Replaced throughout Lifepaths with "the story."
 - **Mercenaries — Finding Men.** Recruit pool table by location, quality distribution table (Common/Veteran/Elite) with TRAINING GROUNDS modifiers. Hard building requirements removed.
+- **Chapter 14 — Traderoad cadence and standing orders.** Clarified that seasons are the market clock while caravan runs resolve in days/weeks; added route-length guidance for expected runs per season; standing orders now remain valid through the end of the following season.
 
 ## [1.0.5] - 2026-04-10
 

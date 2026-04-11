@@ -320,7 +320,7 @@ Selling cargo is a quarter-day activity. The caravan master (or a factor acting 
 | 2 ⚔️  | Good sale. Sell at ×1.25. The caravan master found the right buyer or timed the offer well.                                                                                                           |
 | 3+ ⚔️ | Excellent sale. Sell at ×1.5. Premium buyer, bidding competition, or perfect timing. The buyer may also offer a **standing order** — guaranteed purchase of the same goods next season at ×1.25 rate. |
 
-**Standing orders** guarantee a sale at a specific settlement for a specific cargo type at ×1.25 price, valid for one season. The caravan must deliver within the season or the order lapses. Standing orders reduce risk — you know the goods will sell — but lock the caravan into a route. PATH OF THE CARAVAN R3+ characters can hold up to three standing orders simultaneously across different settlements.
+**Standing orders** guarantee a sale at a specific settlement for a specific cargo type at ×1.25 price, valid until the end of the next season. If the caravan does not deliver before then, the order lapses. Standing orders reduce sale risk but bind the caravan to a route. PATH OF THE CARAVAN R3+ characters can hold up to three standing orders simultaneously across different settlements.
 
 ### Unsold Cargo
 
@@ -339,7 +339,7 @@ If the caravan cannot sell all goods, the remainder can be:
 
 At the end of a trade run, the caravan master calculates profit:
 
-```
+```text
 PROFIT = Sale Revenue − (Cargo Cost + Wages + Feed + Tolls + Repairs + Losses)
 ```
 
@@ -448,6 +448,20 @@ Caravan Circle Reputation is a single score (0–11+) tracking how well known th
 
 The Forbidden Lands economy shifts with the seasons. Demand, supply, risk, and profit all change. The caravan master who understands the cycle has an edge.
 
+### Seasonal Cadence in Play
+
+A **season** is the market interval, not the length of a single trade run. Resolve each caravan run in days and weeks: travel, sale, costs, and hazards. Apply seasonal multipliers by the current season at the point of sale. At each season boundary, refresh market conditions, rumor age, and contract windows.
+
+One season is roughly three months (12 weeks), matching Chapter 9 cadence.
+
+| Typical One-Way Route Length   | Typical Runs Per Season |
+| ------------------------------ | ----------------------- |
+| 2–5 days between major stops   | 3–5 runs                |
+| 6–10 days between major stops  | 2–3 runs                |
+| 11–20 days between major stops | 1–2 runs                |
+
+In winter, reduce expected runs by one bracket: travel takes longer and route risk rises.
+
 | Season     | Economic Character                                                               | Trade Effect                                                                                                                                                                                                   |
 | ---------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Spring** | Recovery and planting. Rivers flood, roads thaw, villages reopen.                | Grain demand peaks (spring hunger). River routes reopen. Road conditions poor — muddy, washed fords. Fresh goods commanded at premium prices.                                                                  |
@@ -537,7 +551,7 @@ A stronghold with MARKETPLACE and WAREHOUSE becomes a trade hub. NPC caravans se
 
 ## Simple Trade
 
-Not every campaign puts a caravan at the center. If trade is background work — a side venture between adventures, a way to move goods while traveling anyway — collapse the full system to one roll.
+Use this procedure when caravan trade is background work rather than the center of play.
 
 **Pick a capital.** The character commits silver to goods before leaving. This is the cargo cost.
 
@@ -550,8 +564,8 @@ Not every campaign puts a caravan at the center. If trade is background work —
 | —   | Loss. Recover 75% of cargo cost. The run went badly — spoilage, bad prices, or a hostile market. |
 | 1   | Thin margin. Recover 110% of cargo cost. Wages and feed eat most of it.                          |
 | 2   | Decent run. Recover 130% of cargo cost.                                                          |
-| 3+  | Good trade. Recover 150% of cargo cost. The name travels ahead of the cart.                      |
+| 3+  | Good trade. Recover 150% of cargo cost.                                                          |
 
-Subtract wages, feed, and tolls from the profit before counting gains. A drover and two guards on a two-week run costs roughly 15–20 silver in wages; fodder for three animals adds another 10–12 silver.
+Subtract wages, feed, and tolls from the profit before counting gains. A drover and two guards on a two-week run cost roughly 15–20 silver in wages; fodder for three animals adds another 10–12 silver.
 
-This collapses a season of trade into five minutes between sessions. Use it when the caravan is a vehicle for the story, not the story itself. Use the full system when the road is the point.
+This resolves a trade run in a few minutes between sessions. Use the full system when caravan trade is central to play.
