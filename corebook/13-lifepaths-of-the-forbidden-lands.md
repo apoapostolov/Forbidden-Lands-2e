@@ -1,8 +1,6 @@
 <!-- markdownlint-disable MD013 -->
 
-# Lifepaths of the Forbidden Lands
-
-## LIFE GENERATOR
+## Lifepaths of the Forbidden Lands
 
 This section builds your adventurer through years of work, hardship, ruin, and hard-won skill before the game begins. Instead of distributing skill points from a list, you follow a chain of life cycles — each one a stretch of duty, weather, luck, or fear — that leave your character scarred, burdened, and rooted in the Forbidden Lands.
 
@@ -23,11 +21,11 @@ If speed matters more than history, use the standard method instead. Both produc
 
 The life generator supports three levels of player control.
 
-| Mode | How It Works |
-| --- | --- |
-| **Full Random** | Roll every path and every event. Maximum surprise. Fastest at the table. |
-| **Guided Random** | Choose your path each cycle, roll the events. Shape the broad life, but the dice pick the details. |
-| **Full Guided** | Choose your path each cycle. Roll two events per turn and pick one. Give most control without free-build softness. |
+| Mode              | How It Works                                                                                                       |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------ |
+| **Full Random**   | Roll every path and every event. Maximum surprise. Fastest at the table.                                           |
+| **Guided Random** | Choose your path each cycle, roll the events. Shape the broad life, but the dice pick the details.                 |
+| **Full Guided**   | Choose your path each cycle. Roll two events per turn and pick one. Give most control without free-build softness. |
 
 Even in Full Guided mode, you never pick freely from the whole table. Roll two results and choose between them. The choice between two unwanted events is still a choice — it is how a life becomes something other than what you planned.
 
@@ -246,7 +244,7 @@ A cycle covers a different span of calendar time depending on kin. The four turn
 
 ### RESOLVE LIFE CYCLES
 
-For each completed cycle, choose or roll a life path from the list later in this section. Then resolve the turns of that cycle in order — two turns in the first cycle, four in every cycle after that. At the end of each cycle, roll for advancement or departure before moving to the next cycle.
+For each completed cycle, choose or roll a life path from the list later in this section. Then resolve the turns of that cycle in order — two turns in the first cycle (starting from the third one), four in every cycle after that. At the end of each cycle, roll for advancement or departure before moving to the next cycle.
 
 #### THE FOUR TURNS
 
@@ -297,6 +295,8 @@ Each time the life generator tells you to gain a skill, you do not raise the ran
 
 Marks between thresholds are not wasted — they count toward the next rank. A skill with 4 marks is Rank 3, one mark short of Rank 4.
 
+**Unspent marks at the end of generation.** After all marks have been converted to ranks, count any marks that did not reach the next threshold — the 4th mark in a skill at Rank 3, the 6th mark in a skill at Rank 4, the leftover tally that fell short. Each such mark converts to **3 XP** at the start of play. This covers skills and talent marks alike.
+
 The same progression applies to talent ranks gained through advancement benefits. If a path's advancement table grants Rank 1 in a talent, mark one tally for that talent. A second grant of the same talent adds a second mark. Two marks raise the talent to Rank 2.
 
 Early lessons come fast; later mastery comes slow. A character who spent most of a lifetime in one calling may reach Rank 3 or Rank 4 in its central skill. Rank 4 is the territory of Old characters whose every cycle bent the same direction. Rank 5 requires seven marks in a single skill, which means almost nothing else developed. If marks would push a skill to Rank 4 or higher, check with the GM before locking it in. Some tables set Rank 3 as the ceiling for starting characters and open the higher ranks only when the character's history makes a compelling case.
@@ -326,7 +326,7 @@ Some paths assume training, access, or recognized standing before a character ma
 
 If a character does not meet a path's threshold, choose another path for that cycle. If no other path makes sense, the character falls into one of the crisis paths — Drifter, Laborer, Outcast, or Captive — whichever best fits the event that broke the old life.
 
-> **Optional — Childhood Suggested Path.** If your childhood foundation's Suggested Path has a threshold, you may enter it for the Third and Fourth Turn of your first cycle without meeting that threshold. The suggestion implies that your upbringing already laid the groundwork — a grove-keeper's household, a merchant caravan, a shrine at the edge of the village. Thresholds apply normally when entering a path as your second cycle or later, because by then you are choosing the life rather than being born into it. This is a group option; if your GM is running a campaign where scarcity of teachers and institutions matters, they may decline it.
+**Childhood.** If your childhood foundation lists a Suggested Path and that path has a threshold, the childhood waives it. You enter that path for your first cycle without meeting the skill or story requirement. Growing up inside a way of life counts as the threshold — the household, the trade, the mark on the land. This exception applies only to the first cycle. Thresholds apply normally when entering the same path again in a later cycle, because by then you are choosing it rather than being shaped by it.
 
 > **Using story context instead of a skill threshold?** Check with the GM first. The story-based substitutes above assume that teachers, patrons, and institutions are available somewhere in the world your group is building. Some campaigns begin in places where they are not — a remote frontier, a world of collapsed order, a starting scenario of pure hardship where no guild masters, grove keepers, or learned merchants are within reach. In those settings the GM may rule that the story threshold cannot be claimed for a given path. This is not a punishment; it is the world telling the character that the road to that life is not open here yet. A Sorcerer does not emerge from a village that has never seen a grimoire. A Druid does not come from country that burned its last grove. Those paths become available once the campaign makes room for them.
 
@@ -1537,7 +1537,7 @@ The contacts, rivals, enemies, rumors, and scars accumulated during the life gen
 >
 > He rolls **Squire** on the childhood foundation table — Melee 1 and Healing 1, Strength and Empathy favored. One former master still remembers his service. That master is the closest thing to a father he remembers.
 >
-> **First cycle: Fighter.** The border needed swords more than prayers. The first turn is covered by childhood — shield-drills and cold camps along the Alderlander marches. For the third turn he passes the turn test and rolls a 1 on Fighter Third Turn: _First Blood._ He killed at arm's length and learned the sound it makes. Gain Melee. The fourth turn fails — he rolls a 2 on Fighter Mishaps: _Left for dead._ One scar across the collarbone. One enemy who thinks he should have stayed buried. He fails the advancement roll and must leave the Fighter path.
+> **First cycle: Fighter.** The border needed swords more than prayers. The first and second turn is covered by childhood — shield-drills and cold camps along the Alderlander marches. For the third turn he passes the turn test and rolls a 1 on Fighter Third Turn: _First Blood._ He killed at arm's length and learned the sound it makes. Gain Melee. The fourth turn fails — he rolls a 2 on Fighter Mishaps: _Left for dead._ One scar across the collarbone. One enemy who thinks he should have stayed buried. He fails the advancement roll and must leave the Fighter path.
 >
 > A wound like that changes a life. He was carried out of the ditch by strangers and set down at a crossroads with nothing but a bad shoulder and a name he could not use at home. The next cycle writes itself.
 >
@@ -1549,11 +1549,11 @@ The contacts, rivals, enemies, rumors, and scars accumulated during the life gen
 >
 > **Results.** Jorrh ends with 12 marks (2 from childhood, 10 from resolved turns). His marks cluster in Melee (4 marks — Rank 3), Survival (3 marks — Rank 3), Scouting (2 marks — Rank 2), Insight (2 marks — Rank 2), and Healing (1 mark — Rank 1). That is the shape of someone who fought, lost, walked hungry, and fought again. He has two scars, one enemy, one debt, one hidden shelter, and one old master who still believes in him.
 >
-> When he rolled First Blood in his first cycle, the event carried a tag: _This may be your Pride._ He takes it. His Pride is: "I have killed at arm's length and I know what it costs." His Dark Secret comes from the Fighter profession entry.
+> When he rolled First Blood in his first cycle, the event carried a tag: _This may be your Pride._ He takes it. His Pride is: "I have killed at arm's length and I am good at this bloody work." His Dark Secret comes from the Fighter profession entry.
 >
 > His Wear is 1 — only one pair of consecutive failures across three cycles. At 0–1 Wear he may choose either a Short Errand or a Life Quest for his unfinished business. He chooses a Life Quest. The man who left him in that ditch is still out there. His question: _Who buried me, and do they still walk free?_ That is worth 25 XP when the answer comes.
 >
-> He does not feel designed. He feels like a man who got knocked down twice and kept standing up, not because the world rewarded it but because he did not know how to do anything else.
+> He does not feel a made-up hero. He feels like a man who got knocked down twice and kept standing up, not because the world rewarded it but because he did not know how to do anything else.
 >
 > His profession is Fighter. He marks 1 tally toward Defender as his profession talent seed. The rest of the chapter takes him from here.
 
