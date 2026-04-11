@@ -9,8 +9,38 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased] - 1.0.6
 
+### Added
+
+- **Chapter 07 — Demonic Magic (new discipline).** A seventeenth magic discipline, restricted to Sorcerers. Centered on mog — a corrosive lilac-green substance drawn from the demon dimension Churmog. Practitioners are hunted on sight in any settlement. Rarity: Prohibited. Secrecy: Journey. Includes 20 spells across all ranks, the MOG inventory and handling rules, and a D66 mishap table.
+  - **Rank 1:** Corrosive Touch, Generate Mog, Sense Corruption
+  - **Rank 2:** Demon Tongue, Dissolve, Mog Blade, Mog Ward
+  - **Rank 3:** Call Misgrown, Demon Sight, Graft Flesh, Mog Spray
+  - **Rank 4:** Compel Demon, Demon Limb, Reshape Body, Tear the Veil
+  - **Rank 5:** Flesh Abomination, Mog Flood, Summon Demon
+  - **Rank 6:** Apotheosis, Churmog Gate
+- **Chapter 07 — New spells across existing disciplines.** Twenty-one new spells integrated into ten existing disciplines.
+  - **General Spells:** Empower Spell (rank 1), Contain Spell (rank 3), Anti-Magic Zone (rank 6)
+  - **Healing:** Relieve Condition (rank 1), Bend Demon (rank 3)
+  - **Awareness:** Transfer Senses (rank 1), Predict Moves (rank 2)
+  - **Symbolism:** Warning (rank 1), Animate Object (rank 4)
+  - **Elemental Magic:** Deviation (rank 1), Dense Fog (rank 2), Fire Resistance (rank 2), Impulse (rank 2), Pressure Jet (rank 3)
+  - **Ice Affinity:** Frost Armor (rank 2), Glacial Path (rank 2), Shatter (rank 4)
+  - **Blood Magic:** Create Bloodling (rank 5)
+  - **Mentalism:** Mind Shield (rank 2), Implant Memory (rank 3)
+  - **Shapeshifting:** Inhabit Animal (rank 3)
+- **Chapter 07 — Rarity and Secrecy table.** A reference table covering all seventeen disciplines. Ratings run from Known to Prohibited (public reaction) and Initiation to Journey (teacher access). No mechanical weight — a GM guide for social consequences and teaching availability.
+- **Chapter 07 — Burn rules.** A caster may burn their own body to fuel a spell: choose burn points up to the rank in the spell's discipline, roll a D8 per point to determine random attribute damage (Strength, Agility, Wits, or Empathy), and gain 1 temporary WP per point that can be spent only on the triggering spell.
+- **Chapter 04 — PATH OF THE UNCLEAN (new Sorcerer talent).** Demonic Magic path talent added under The Sorcerer's Talents. Five ranks unlock Demonic Magic spells and grant progressive mog-symbiosis abilities: bare-handed mog handling (R1), involuntary visible marks and demon recognition (R2), sweating mog as a free ingredient for 1 WP (R3), mog immunity and Armor Rating 1 for 1 WP (R4), drinking mog to regain D6 WP with corruption risk (R5). Each rank permanently alters the caster's appearance.
+
 ### Changed
 
+- **Chapter 07 — Discipline count.** Updated from sixteen disciplines to seventeen. The sorcery count rises from seven to eight with the addition of Demonic Magic.
+- **Chapter 07 — Learning Magic.** Expanded with four named rules: MAGICAL TALENT RANKS (cap of one rank per level-up), FREE SPELLS (one spell of the new rank each time a talent rank is gained), LEARNING ADDITIONAL SPELLS (cost and teacher requirement for spells beyond the free one), and EXPANDED TALENT ACCESS (table of non-standard kin and professions who may learn specific disciplines: Dwarves for Stone Song and Magma Song, Half-Elves for Awareness, Minstrels for Mentalism, Warriors and Riders for Magnetism).
+- **Chapter 07 — Elemental Magic: Elemental Environment.** Two-tier Power Level bonus when casting in the presence of a strong or overwhelming source of the relevant element. Tier 1 (+1 PL): large fire, strong current, sustained gale, natural cave. Tier 2 (+2 PL): burning structure, fully submerged, full storm, unstable ground or lava. Bonus does not apply to elements the spell itself created. Does not add mishap dice.
+- **Chapter 07 — Blood Magic: Blood Rot.** Blood used as a spell ingredient must be drawn from a living creature within the last two quarter days. Blood from the dead is useless.
+- **Chapter 07 — Mentalism: Influence.** Mentalism spells require no physical ingredients. Speaking directly to the target — words, tone, and gesture — replaces the ingredient and grants the same +1 Power Level bonus.
+- **Chapter 07 — Symbolism: Inscribed Symbols.** Instead of casting immediately, a Symbolism spell can be inscribed onto a surface (1 minute per spell rank, ink or sharp tool required). The inscription holds until triggered by a condition set at inscription time, then resolves at the Power Level achieved when inscribed. Visible to the eye; magical nature requires Sense Magic to detect.
+- **Chapter 07 — Stone Song: Instruments.** Stone Song instruments are not consumed by casting. The same horn, drum, or lute can be used indefinitely.
 - **Lifepaths — Muster-out draws.** Roll count now equals turns completed in final path (1, 2, or 3+). Choose one result from all rolls. Replaces single fixed roll.
 - **Lifepaths — Advancement benefits draws.** Success yields 1 draw; 2 successes yields 2 draws, reroll duplicates; 3+ successes yields 2 draws plus free pick from the remaining four. Replaces vague "one extra contact/rumor/gear" row.
 - **Lifepaths — Mishap result 7.** Added a unique catastrophic result to all 12 mishap tables (8 profession + 4 crisis). Always forces path change; two consequences rather than one; no permanent stat damage.

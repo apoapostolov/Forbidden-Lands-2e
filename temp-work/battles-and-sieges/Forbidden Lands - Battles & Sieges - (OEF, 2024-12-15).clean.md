@@ -122,13 +122,39 @@ If a frontline troop is defeated, flees, or is replaced, the next troop in the r
 
 A troop can stop fighting for one of three reasons: being defeated, fleeing due to demoralization, or receiving an order to withdraw. In the first case, the troop has been destroyed and no longer has warriors capable of continuing the fight or even escaping. However, in the case of fleeing or withdrawal, troops can regroup in the rear.
 
-| LEFT | CENTER | RIGHT |
-| --- | --- | --- |
-| section | section | section |
+```mermaid
+flowchart LR
+  subgraph ArmyA["Army A"]
+    direction TB
+    subgraph A1["1st Line"]
+      direction LR
+      AL["Left Section"]
+      AC["Center Section"]
+      AR["Right Section"]
+    end
+    subgraph A2["2nd Line"]
+      direction LR
+      AL2["Reserve Troop"]
+      AC2["Reserve Troop"]
+      AR2["Reserve Troop"]
+    end
+  end
 
-*1st line*  
-*2nd line*  
-*troop*
+  subgraph ArmyB["Army B"]
+    direction TB
+    subgraph B1["1st Line"]
+      direction LR
+      BL["Left Section"]
+      BC["Center Section"]
+      BR["Right Section"]
+    end
+  end
+
+  AL -->|Defeats| BR
+  BR -->|Flees| Routed["Routed Troop"]
+  AL -->|Turns inward| BC
+  AR2 -->|Replaces losses in the next turn as a full troop| AR
+```
 
 **Army A** forces **Army B**'s right section to flee and then faces the central section's unit with a two-to-one advantage.
 
@@ -280,18 +306,31 @@ Once the troops are organized (which you likely already had prepared in advance)
 
 There may be cases where armies are so large that it makes sense to deploy more than one troop per section. In such cases, both generals should have the opportunity to place the same number of troops per section. This is recommended if an army exceeds two ranks in its order of battle.
 
-The order in which the armies are positioned on the battlefield is determined by an **insight** roll from the generals. The winner of this roll sets the conditions of the battle, including the exact location and the advantage of positioning their troops after seeing those of the enemy. Ties are resolved with another roll.
+The order in which the armies are positioned on the battlefield is determined by an **INSIGHT** roll from the generals. The winner of this roll sets the conditions of the battle, including the exact location and the advantage of positioning their troops after seeing those of the enemy. Ties are resolved with another roll.
 
 If the sections are extended as mentioned earlier, this must be clarified before the generals' roll. It should not come as a surprise to either side.
 
-|**left**|**center**|**right**|
-|---|---|---|
-|**section**|**section**|**section**|
+```mermaid
+flowchart TB
+  subgraph First["1st Line"]
+    direction LR
+    L1["Left Section"]
+    C1["Center Section"]
+    R1["Right Section"]
+  end
+
+  subgraph Second["2nd Line"]
+    direction LR
+    L2["Left Reserve"]
+    C2["Center Reserve"]
+    R2["Right Reserve"]
+  end
+```
 
 
 ## General’s Speech
 
-Once the armies are assembled and facing off for battle, the generals deliver their speeches to motivate their warriors. The speech consists of a few words or a short address, followed by a **performance** roll. The successes rolled grant the army's troops an equivalent amount of **morale points** .
+Once the armies are assembled and facing off for battle, the generals deliver their speeches to motivate their warriors. The speech consists of a few words or a short address, followed by a **PERFORMANCE** roll. The successes rolled grant the army's troops an equivalent amount of **morale points** .
 
 These speeches, especially those affecting armies with PCs involved, should be roleplayed in some way to create a memorable and warlike atmosphere for the battle, particularly if a PC is leading the army. While no one expects to be a medieval military leader, making an effort to set the tone before a dramatic slaughter would add an interesting element to the campaign.
 
@@ -340,10 +379,10 @@ DEATH TO COWARDS: The general can issue an order to execute any soldiers who fle
 
 ## Troop Regrouping
 
-At the start of each battle turn, army leaders can attempt a **regroup** roll to convince fleeing soldiers to return to the fight. The general is entitled to one roll per turn, while troop commanders (if they are important characters) may also make one roll. This is only possible if the character is not actively engaged in combat on the front line.
+At the start of each battle turn, army leaders can attempt a **REGROUP** roll to convince fleeing soldiers to return to the fight. The general is entitled to one roll per turn, while troop commanders (if they are important characters) may also make one roll. This is only possible if the character is not actively engaged in combat on the front line.
 
 
-The roll is with **performance** or **manipulation** . Each success convinces one base die to regroup and prepare to fight again when ordered, positioning itself in the rear. However, each result of 1 causes one die to permanently leave the battle. In both cases, the character decides which result applies to each group.
+The roll is with **PERFORMANCE** or **MANIPULATION** . Each success convinces one base die to regroup and prepare to fight again when ordered, positioning itself in the rear. However, each result of 1 causes one die to permanently leave the battle. In both cases, the character decides which result applies to each group.
 
 These 1s also apply to skill dice, so while you can push these rolls, any 1s rolled on dice cannot be re-rolled. Otherwise, apply the normal rules for pushing rolls.
 
@@ -378,7 +417,7 @@ RETREAT: A group from their troop (one base die) may carry the Broken character 
 
 Important characters have the ability to switch troops depending on the battle's situation. At the start of each turn, they can move to a different troop, granting that troop their associated advantage die. Battlefields can theoretically be traversed in one turn, allowing a commander to move to any allied troop in any section or rank.
 
-This also applies to regrouping demoralized units. A character can leave their troop at the start of a turn to move to the rear and make a **regroup** roll. However, only one movement is allowed per turn, so they cannot return to the fight after attempting to regroup.
+This also applies to regrouping demoralized units. A character can leave their troop at the start of a turn to move to the rear and make a **REGROUP** roll. However, only one movement is allowed per turn, so they cannot return to the fight after attempting to regroup.
 
 ## Range
 
@@ -430,6 +469,24 @@ For sieges, the attacking army always places its troops first, without exception
 This grants an advantage to the attackers, as they can open multiple fronts if they outnumber the defenders. However, the defenders gain the benefit of seeing the enemy’s disposition and can form smaller, equally or more effective troops for battle.
 
 Sections remain in place even if the attackers breach the walls and the battle moves inside. Sections may also change if the narrative progression of the battle warrants it. Again, the Gamemaster must remain flexible to handle these situations.
+
+```mermaid
+flowchart TB
+  B["Section B"]
+  C["Section C"]
+  A["Section A"]
+
+  subgraph Fortress["Walls / Fortress"]
+    direction TB
+    WL["Wall Segment"]
+    CY["Courtyard"]
+    WR["Wall Segment"]
+  end
+
+  B --> WL
+  C --> WR
+  A --> CY
+```
 
 
 ## Walls
@@ -569,11 +626,7 @@ Armies moving across the map of the Forbidden Lands are composed of a multitude 
 
 > _A spearman tightens his grip on his weapon, recalling the broken promises in his village. The archer exhales, feeling every fiber of her bow as it strains, unsure if her arrow will bring salvation or doom. A scarred veteran whispers a cherished name before charging. In their gestures and glances lives the essence of a battle far greater than themselves._
 
-roops are composed of units. The basics that define their characteristics in battles were explained in Tthe previous chapter, but now we will address additional rules related to the individuals themselves, such as their possible talents. We will also include examples of units and all the details regarding the troops they form.
-
-of a battle. Your presence in a troop grants it 1 advantage die. This benefit is independent of the die granted for being an important character (many great commanders might not be important characters).
-
-## General
+Troops are composed of units. The basics that define their characteristics in battles were explained in the previous chapter, but now we will address additional rules related to the individuals themselves, such as their possible talents. We will also include examples of units and all the details regarding the troops they form.
 
 ## New Talents
 
@@ -583,24 +636,33 @@ Characters, as individuals, can acquire some specific talents related to war and
 
 You possess the gift of leadership, able to give effective orders even in chaotic environments like a battlefield.
 
-- E     RANK 1: Those under your command feel the confidence of being led by a competent leader. The troop gains Morale Points equal to your level in this talent. You can grant this benefit to only one troop per battle.
-- E     RANK 2: You enforce your word. You gain a +2 modifier to your **regroup** rolls and in any other battle-related situation where the Gamemaster deems it appropriate.
+- RANK 1: Those under your command feel the confidence of being led by a competent leader. The troop gains Morale Points equal to your level in this talent. You can grant this benefit to only one troop per battle.
+- RANK 2: You enforce your word. You gain a `+2` modifier to your **REGROUP** rolls and in any other battle-related situation where the Gamemaster deems it appropriate.
+- RANK 3: You are a crucial element in the outcome of a battle. Your presence in a troop grants it 1 advantage die. This benefit is independent of the die granted for being an important character. Many great commanders might not be important characters.
+
+## General
 
 You are a leader of masses, well-versed in battle strategies and the art of war, making you a recognized and competent general for an army.
 
-   - E     RANK 1: You know how to rally the soldiers who follow you into battle. You gain a modifier to your **performance** roll for rallying your troops equal to your level in this talent.
-   - E     RANK 2: Your presence on the battlefield can influence the outcome of the conflict. The troop you join gains an additional D8 (this is not an advantage die). This benefit is independent of the advantage die granted for being an important character or from the Commander talent.
-   - E     RANK 3: You inspire confidence in your troops, fostering intense loyalty that leads them to blindly trust your decisions. In addition to the narrative effects, each time you move to a troop, you can make a **performance** roll. For every 2 successes you achieve, the troop gains 1 Morale Point.
-- E     RANK 3: You are a crucial element in the outcome
-
+- RANK 1: You know how to rally the soldiers who follow you into battle. You gain a modifier to your **PERFORMANCE** roll for rallying your troops equal to your level in this talent.
+- RANK 2: Your presence on the battlefield can influence the outcome of the conflict. The troop you join gains an additional `D8`. This is not an advantage die. This benefit is independent of the advantage die granted for being an important character or from the Commander talent.
+- RANK 3: You inspire confidence in your troops, fostering intense loyalty that leads them to blindly trust your decisions. In addition to the narrative effects, each time you move to a troop, you can make a **PERFORMANCE** roll. For every 2 successes you achieve, the troop gains 1 Morale Point.
 
 ## Engineer
 
 You have acquired valuable knowledge about the physical forces that govern the world and how to construct machines to harness them for your cause.
 
-- E     RANK 1: You can oversee the construction of a siege engine. For catapults and trebuchets, their effectiveness is only complete if you are present when the projectiles are launched. You must be assigned to a siege engine to perform these functions and can only be assigned to one at a time.
-- E     RANK 2: You reduce the construction time of the siege engine you are assigned to by 20% (rounding up).
-- E     RANK 3: Siege engines built under your supervision gain +1 to their attack or siege dice, depending on the type of engine.
+- RANK 1: You can oversee the construction of a siege engine. For catapults and trebuchets, their effectiveness is only complete if you are present when the projectiles are launched. You must be assigned to a siege engine to perform these functions and can only be assigned to one at a time.
+- RANK 2: You reduce the construction time of the siege engine you are assigned to by 20%, rounding up.
+- RANK 3: Siege engines built under your supervision gain `+1` to their attack or siege dice, depending on the type of engine.
+
+## Chief of Riders
+
+You are an expert rider, commanding respect among those who excel at mounted combat and capable of organizing them amidst the chaos of battle.
+
+- RANK 1: You can spend 1 Morale Point from your cavalry troop to charge the enemy, gaining a `D8` during the first turn of combat with the enemy troop. The lost Morale Point reflects the strain of the charge. If the enemy manages to create distance, as skirmishing cavalry do, you can charge the same troop again as long as you have Morale to spend.
+- RANK 2: You combine the advantage dice gained by your troop due to having a larger size or attacking the enemy's flanks or rear into an artifact die, which no longer counts toward the limit imposed by base dice. This die starts as a `D8` with two advantage dice and can increase up to a `D12`.
+- RANK 3: The die for charging increases to a `D10`. Additionally, even if your troop is engaged in combat, you can order a retreat by succeeding in a **PERFORMANCE** roll. Your troop will remain cohesive, move to a safe distance, and can either charge the enemy again or be repositioned as needed for the battle's situation.
 
 ## Example Units
 
@@ -610,21 +672,10 @@ To conclude this chapter, we present a few sample units to help you compose the 
 
 Human peasants tend to their small plots of land and have almost no military training. Even so, they are summoned by their local leaders to defend a common cause, serving in numbers with the simple weapons they can access.
 
-## **type:** Infantry
-
-**WEAPONS:** Long weapon (attack first, attack +2 vs cavalry, two-handed).
-
-## **protection:** None.
-
-## Chief of Riders
-
-**PAYMENT:** 10 coppers per day.
-
-You are an expert rider, commanding respect among those who excel at mounted combat and capable of organizing them amidst the chaos of battle.
-
-- E     RANK 1: You can spend 1 Morale Point from your cavalry troop to charge the enemy, gaining a D8 during the first turn of combat with the enemy troop. The lost Morale Point reflects the strain of the charge. If the enemy manages to create distance (as skirmishing cavalry do), you can charge the same troop again as long as you have Morale to spend.
-- E     RANK 2: You combine the advantage dice gained by your troop due to having a larger size or attacking the enemy's flanks or rear into an artifact die (which no longer counts toward the limit imposed by base dice). This die starts as a D8 with two advantage dice and can increase up to a D12.
-- E     RANK 3: The die for charging increases to a D10. Additionally, even if your troop is engaged in combat, you can order a retreat by succeeding in a **performance** roll. Your troop will remain cohesive, move to a safe distance, and can either charge the enemy again or be repositioned as needed for the battle’s situation.
+- TYPE: Infantry
+- WEAPONS: Long weapon (attack first, attack `+2` vs cavalry, two-handed)
+- PROTECTION: None
+- PAYMENT: 10 coppers per day
 
 ## Mounts and Size
 
@@ -632,298 +683,233 @@ As you may know, horses are not the only mounts in the Forbidden Lands. This mak
 
 Should a troop of goblins mounted on wolves gain an advantage die? Remember, the size advantage die is earned by being larger, not by being cavalry or mounted. Goblins on their mounts could deny a size advantage die to humans on foot by being larger than them and gain an advantage die against goblins or halflings on foot.
 
-
 ## Human Hunter
 
 When forming skirmisher troops on foot, recruiters look for hunters from each community, as they are the only ones with experience using bows. They are well-suited for shooting arrows from a distance but have limited equipment and little ability to withstand melee combat.
 
-## **type:** Skirmishers.
-
-**WEAPONS:** Light ranged weapon (range 1, twohanded, strikes second, demoralized in melee). Short weapon (attacks second, attack +2 vs long weapons).
-
-## **protection:** None.
+- TYPE: Skirmishers
+- WEAPONS: Light ranged weapon (range 1, two-handed, strikes second, demoralized in melee); short weapon (attacks second, attack `+2` vs long weapons)
+- PROTECTION: None
+- PAYMENT: 10 coppers per day
 
 ## Aslene Rider
 
 Nearly all Aslenes grow up on horseback, making them expert riders whose combat effectiveness is fearsome in the Forbidden Lands, where cavalry is scarce. Aslene riders form light, highly mobile troops.
 
-**TYPE:** Cavalry.
-
-**WEAPONS:** One-handed weapon.
-
-**PROTECTION:** Small Shield (protection 1, protection 2 vs projectiles).
-
-**ADVANTAGES:** Well-Trained Units (+1).
-
-**PAYMENT:** 25 coppers per day.
-
-**PAYMENT:** 10 coppers per day.
-
-## Aslene Rider with Bow
+- TYPE: Cavalry
+- WEAPONS: One-handed weapon
+- PROTECTION: Small shield (protection 1, protection 2 vs projectiles)
+- ADVANTAGES: Well-Trained Units (`+1`)
+- PAYMENT: 25 coppers per day
 
 ## Human Skirmisher
 
 Some archers are highly trained in castles to use longbows and harass their enemies, aiming to gain a tactical advantage in battle.
 
-**TYPE:** Skirmishers.
+- TYPE: Skirmishers
+- WEAPONS: Longbow (range 2, two-handed, attacks second, demoralized in melee); short weapon (attacks second, attack `+2` vs long weapons)
+- PROTECTION: Leather armor (protection 2, Morale `+1`)
+- ADVANTAGES: Well-Trained Units (`+1`)
+- PAYMENT: 20 coppers per day
 
-**WEAPONS:** Longbow (range 2, two-handed, attacks second, demoralized in melee). Short weapon (attacks second, attack +2 vs long weapons).
-
-**PROTECTION:** Leather Armor (protection 2, Morale +1). **ADVANTAGES:** Well-Trained Units (+1).
-
-**PAYMENT:** 20 coppers per day.
+## Aslene Rider with Bow
 
 Some Aslene riders are trained to shoot their curved bows from horseback, even while galloping. This makes them one of the most valuable and distinctive units in the Forbidden Lands.
 
-**TYPE:** Skirmishing Cavalry.
-
-**WEAPONS:** Light ranged weapon (range 1, twohanded, strikes second, demoralized in melee). One-handed weapon.
-
-**PROTECTION:** Small Shield (protection 1, protection 2 vs projectiles).
-
-**ADVANTAGES:** Well-Trained Units (+1).
-
-**PAYMENT:** 30 coppers per day.
-
-## Human Soldier
+- TYPE: Skirmishing Cavalry
+- WEAPONS: Light ranged weapon (range 1, two-handed, strikes second, demoralized in melee); one-handed weapon
+- PROTECTION: Small shield (protection 1, protection 2 vs projectiles)
+- ADVANTAGES: Well-Trained Units (`+1`)
+- PAYMENT: 30 coppers per day
 
 ## Crossbowman
 
 In some castles, crossbows are crafted to arm soldiers with a ranged weapon much easier to use than a bow, allowing the ranks of skirmishers to be bolstered.
 
-**TYPE:** Skirmishers.
+- TYPE: Skirmishers
+- WEAPONS: Crossbow (range 1, attack `+1`, two-handed, attacks second, demoralized in melee); short weapon (attacks second, attack `+2` vs long weapons)
+- PROTECTION: Leather armor (protection 2, Morale `+1`)
+- PAYMENT: 20 coppers per day
 
-**WEAPONS:** Crossbow (range 1, attack +1, twohanded, attacks second, demoralized in melee). Short weapon (attacks second, attack +2 vs long weapons).
-
-**PROTECTION:** Leather Armor (protection 2, Morale +1).
-
-**PAYMENT:** 20 coppers per day.
+## Human Soldier
 
 Humans trained in castles to fight in the name of their lord are few but highly valued. Their loyalty lies with the leaders who shelter them on their lands and feed them in exchange for their oath to serve in battle.
 
-**TYPE:** Infantry **WEAPONS:** One-handed weapon.
-
-**PROTECTION:** Small Shield (protection 1, protection 2 vs projectiles). Chainmail (protection 4, protection 2 vs projectiles and polearms, protection 1 against blunt and thrown weapons, Morale +2).
-
-**ADVANTAGES:** Well-Trained Units (+1).
-
-
-**PAYMENT:** 15 coppers per day.
+- TYPE: Infantry
+- WEAPONS: One-handed weapon
+- PROTECTION: Small shield (protection 1, protection 2 vs projectiles); chainmail (protection 4, protection 2 vs projectiles and polearms, protection 1 against blunt and thrown weapons, Morale `+2`)
+- ADVANTAGES: Well-Trained Units (`+1`)
+- PAYMENT: 15 coppers per day
 
 ## Knight
 
 Knights are among the best-prepared soldiers in the Forbidden Lands. This is because they are nobles, able to dedicate their lives to training for honor in battle, as well as equipping themselves with superior gear for protection. It is not uncommon for these soldiers to dismount if the circumstances of the battle require it or if they see an opportunity to gain greater prestige in combat.
 
-**TYPE:** Cavalry.
-
-**WEAPONS:** Long weapon (attack first, attack +2 vs cavalry, two-handed). One-handed weapon.
+- TYPE: Cavalry
+- WEAPONS: Long weapon (attack first, attack `+2` vs cavalry, two-handed); one-handed weapon
+- PROTECTION: Large shield (protection 2, protection 3 vs thrown weapons, protection 4 vs projectiles, Morale `+1`); plate armor (protection 6, Morale `+4`, Slow 1)
+- ADVANTAGES: Well-Trained Units (`+1`)
+- PAYMENT: 60 coppers per day
 
 ## Switching Weapons
 
 The warriors in a troop can switch the weapon they are using to adapt to the conditions of battle. This can be done at the beginning of a battle turn. It is also possible for mounted troops to dismount and fight on foot. This changes their base dice as they become infantry.
 
-**PROTECTION:** Large Shield (protection 2, protection 3 vs thrown weapons, protection 4 vs projectiles, Morale +1). Plate Armor (protection 6, Morale +4, Slow 1).
-
-**ADVANTAGES:** Well-Trained Units (+1).
-
-**PAYMENT:** 60 coppers per day.
-
 ## Rust Brother
 
 It is impossible to mention human units without giving a special section to the Rust Brothers. Fanatical and always ready to fight, they are undoubtedly the best-prepared warriors in the Forbidden Lands.
 
-**TYPE:** Infantry **WEAPONS:** One-handed weapon.
-
-**PROTECTION:** Large Shield (protection 2, protection 3 vs thrown weapons, protection 4 vs projectiles, Morale +1). Plate Armor (protection 6, Morale +4, Slow 1).
-
-**ADVANTAGES:** Well-Trained Units (+1), religious fervor vs Orcs, Elves, and Dwarves (+1).
-
-**PAYMENT:** 35 coppers per day.
-
+- TYPE: Infantry
+- WEAPONS: One-handed weapon
+- PROTECTION: Large shield (protection 2, protection 3 vs thrown weapons, protection 4 vs projectiles, Morale `+1`); plate armor (protection 6, Morale `+4`, Slow 1)
+- ADVANTAGES: Well-Trained Units (`+1`), religious fervor vs Orcs, Elves, and Dwarves (`+1`)
+- PAYMENT: 35 coppers per day
 
 ## Iron Guard
 
 The elite forces of the Rust Church, highly trained units capable of striking terror into any army in Ravenland.
 
-**PROTECTION:** Plate Armor (protection 6, Morale +4, Slow 1).
-
-**PAYMENT:** 130 coppers per day.
-
-**TYPE:** Infantry **WEAPONS:** Two-Handed Weapon (attack +1 vs infantry and skirmishers).
-
-**PROTECTION:** Plate Armor (protection 6, Morale +4, Slow 1).
-
-**ADVANTAGES:** Well-Trained Units (+1), religious fervor vs Orcs, Elves, and Dwarves (+1), misgrown infantry (+2).
-
-**PAYMENT:** 40 coppers per day.
+- TYPE: Infantry
+- WEAPONS: Two-handed weapon (attack `+1` vs infantry and skirmishers)
+- PROTECTION: Plate armor (protection 6, Morale `+4`, Slow 1)
+- ADVANTAGES: Well-Trained Units (`+1`), religious fervor vs Orcs, Elves, and Dwarves (`+1`), misgrown infantry (`+2`)
+- PAYMENT: 40 coppers per day
 
 ## Iron Cavalry
 
 When a member of the Iron Guard is trained in mounted combat, an elite unit of immense value is born, capable of overpowering most armies with the sheer strength of their mounts and the inhuman power of their warriors.
 
-**TYPE:** Cavalry.
-
-**WEAPONS:** One-handed weapon.
-
-**PROTECTION:** Large Shield (protection 2, protection 3 vs thrown weapons, protection 4 vs projectiles, Morale +1). Plate Armor (protection 6, Morale +4, Slow 1).
-
-**ADVANTAGES:** Well-Trained Units (+1), religious fervor vs Orcs, Elves, and Dwarves (+1), misgrown infantry when dismounted (+2).
-
-**PAYMENT:** 55 coppers per day.
+- TYPE: Cavalry
+- WEAPONS: One-handed weapon
+- PROTECTION: Large shield (protection 2, protection 3 vs thrown weapons, protection 4 vs projectiles, Morale `+1`); plate armor (protection 6, Morale `+4`, Slow 1)
+- ADVANTAGES: Well-Trained Units (`+1`), religious fervor vs Orcs, Elves, and Dwarves (`+1`), misgrown infantry when dismounted (`+2`)
+- PAYMENT: 55 coppers per day
 
 ## Griffon Rider
 
 Some extremely skilled riders can tame the temperamental griffons to obey their commands and fight for the Church. These riders and their mounts are truly fearsome, capable of turning the tide of a battle on their own.
 
-**TIPO:** Monstruo.
+- TYPE: Monster
+- WEAPONS: Natural weapon (attacks second, attack `+2` vs polearms); long weapon (attack first, attack `+2` vs cavalry, two-handed)
+- PROTECTION: Plate armor (protection 6, Morale `+4`, Slow 1)
+- PAYMENT: 130 coppers per day
 
 ## Dwarven Laborer
 
 Dwarves are strong, and most are skilled fighters, but not all are warriors. Many are laborers who build their strength in the mines or other demanding work. Even so, they always keep their axe ready for the moment of truth.
 
-**TYPE:** Infantry **WEAPONS:** One-handed weapon.
-
-**PROTECTION:** Small Shield (protection 1, protection 2 vs projectiles). Leather Armor (protection 2, Morale +1).
-
-**ADVANTAGES:** Dwarven Infantry (+1).
-
-**PAYMENT:** 10 coppers per day.
+- TYPE: Infantry
+- WEAPONS: One-handed weapon
+- PROTECTION: Small shield (protection 1, protection 2 vs projectiles); leather armor (protection 2, Morale `+1`)
+- ADVANTAGES: Dwarven Infantry (`+1`)
+- PAYMENT: 10 coppers per day
 
 ## Dwarven Warrior
 
 Many dwarves contribute to their community by performing various tasks, such as mining, hunting, or even trading, but at the same time, they live in preparation for war. They yearn for it, awaiting the moment their race will rise and reclaim its place in the Forbidden Lands.
 
-**TYPE:** Infantry **WEAPONS:** One-handed weapon. Thrown Weapon x1 (one free attack before engaging in combat, attack +1 vs cavalry).
-
-**PROTECTION:** Large Shield (protection 2, protection 3 vs thrown weapons, protection 4 vs projectiles, Morale +1). Chainmail (protection 4, protection 2 vs projectiles and polearms, protection 1 against blunt and thrown weapons, Morale +2).
-
-**ADVANTAGES:** Well-Trained Units (+1), Dwarven Infantry (+1).
-
-**PAYMENT:** 25 coppers per day.
-
-**WEAPONS:** Natural Weapon (attacks second, attack +2 vs polearms). Long weapon (attack first, attack +2 vs cavalry, two-handed).
-
+- TYPE: Infantry
+- WEAPONS: One-handed weapon; thrown weapon x1 (one free attack before engaging in combat, attack `+1` vs cavalry)
+- PROTECTION: Large shield (protection 2, protection 3 vs thrown weapons, protection 4 vs projectiles, Morale `+1`); chainmail (protection 4, protection 2 vs projectiles and polearms, protection 1 against blunt and thrown weapons, Morale `+2`)
+- ADVANTAGES: Well-Trained Units (`+1`), Dwarven Infantry (`+1`)
+- PAYMENT: 25 coppers per day
 
 ## Elite Dwarven Warrior
 
 Each dwarven clan has a core of warriors who serve as guardians of their strongholds or mines and are always ready to face any threat, as well as escort those traveling between communities. They are either nobles or the fiercest and most skilled fighters, many of whom earn their prestige by slaying fearsome monsters.
 
-**TYPE:** Infantry **WEAPONS:** Two-Handed Weapon (attack +1 vs infantry and skirmishers).
-
-**PROTECTION:** Plate Armor (protection 6, Morale +4, Slow 1).
-
-**ADVANTAGES:** Well-Trained Units (+1), Dwarven Infantry (+1).
-
-**PAYMENT:** 35 coppers per day.
-
-**PAYMENT:** 0 coppers per day (only consumes supplies).
+- TYPE: Infantry
+- WEAPONS: Two-handed weapon (attack `+1` vs infantry and skirmishers)
+- PROTECTION: Plate armor (protection 6, Morale `+4`, Slow 1)
+- ADVANTAGES: Well-Trained Units (`+1`), Dwarven Infantry (`+1`)
+- PAYMENT: 35 coppers per day
 
 ## Elf Ranger
 
 Elves are rare, and not all of them dedicate themselves to combat, but those who do are exceptional archers.
 
-## **type:** Skirmishers.
-
-**WEAPONS:** Light ranged weapon (range 1, twohanded, strikes second, demoralized in melee). One-handed weapon.
-
-**PROTECTION:** Leather Armor (protection 2, Morale +1).
-
-**ADVANTAGES:** Well-Trained Units (+1), Elven Skirmishers (+2).
-
-**PAYMENT:** 15 coppers per day.
+- TYPE: Skirmishers
+- WEAPONS: Light ranged weapon (range 1, two-handed, strikes second, demoralized in melee); one-handed weapon
+- PROTECTION: Leather armor (protection 2, Morale `+1`)
+- ADVANTAGES: Well-Trained Units (`+1`), Elven Skirmishers (`+2`)
+- PAYMENT: 15 coppers per day
 
 ## Dwarven Crossbowman
 
 Dwarves often disdain ranged combat, but those who do not excel in melee can still contribute with a crossbow in hand.
 
-## **type:** Skirmishers.
-
-**WEAPONS:** Crossbow (range 1, attack +1, two-handed, attacks second, demoralized in melee). One-handed weapon.
-
-**PROTECTION:** Chainmail (protection 4, protection 2 vs projectiles and polearms, protection 1 against blunt and thrown weapons, Morale +2).
-
-**ADVANTAGES:** Infantería de enanos si cambian al arma cuerpo a cuerpo (+1).
-
-**PAYMENT:** 25 coppers per day.
+- TYPE: Skirmishers
+- WEAPONS: Crossbow (range 1, attack `+1`, two-handed, attacks second, demoralized in melee); one-handed weapon
+- PROTECTION: Chainmail (protection 4, protection 2 vs projectiles and polearms, protection 1 against blunt and thrown weapons, Morale `+2`)
+- ADVANTAGES: Dwarven Infantry if they switch to their melee weapon (`+1`)
+- PAYMENT: 25 coppers per day
 
 ## Redrunner
 
 These elves are on a crusade to recover their race's rubies and protect Ravenland from threats that risk plunging it into despair. They are extraordinary warriors.
 
-**TYPE:** Infantry **WEAPONS:** Two-Handed Weapon (attack +1 vs infantry and skirmishers). Thrown Weapon x2 (one free attack before engaging in combat, attack +1 vs cavalry).
-
-**PROTECTION:** Chainmail (protection 4, protection 2 vs projectiles and polearms, protection 1 against blunt and thrown weapons, Morale +2).
-
-**ADVANTAGES:** Well-Trained Units (+1).
-
-**PAYMENT:** 35 coppers per day.
+- TYPE: Infantry
+- WEAPONS: Two-handed weapon (attack `+1` vs infantry and skirmishers); thrown weapon x2 (one free attack before engaging in combat, attack `+1` vs cavalry)
+- PROTECTION: Chainmail (protection 4, protection 2 vs projectiles and polearms, protection 1 against blunt and thrown weapons, Morale `+2`)
+- ADVANTAGES: Well-Trained Units (`+1`)
+- PAYMENT: 35 coppers per day
 
 ## Armored War Dogs
 
 The dwarves of the Canide Clan use dogs trained to fight fiercely in battle.
 
-**TYPE:** Infantry **WEAPONS:** Natural Weapon (attacks second, attack +2 vs polearms).
-
-**PROTECTION:** Leather Armor (protection 2, Morale +1).
+- TYPE: Infantry
+- WEAPONS: Natural weapon (attacks second, attack `+2` vs polearms)
+- PROTECTION: Leather armor (protection 2, Morale `+1`)
+- PAYMENT: 0 coppers per day, only consumes supplies
 
 ## Slave Orc
 
 Though degraded, weaker, and less skilled than free orcs, slave orcs remain useful combatants in battles, often relegated to the expendable front lines. If their lives are worth anything, let them prove it with blood.
 
-**TYPE:** Infantry **WEAPONS:** One-handed weapon.
-
-
-## **protection:** None.
-
-**ADVANTAGES:** Orc Infantry (+1).
-
-**PAYMENT:** 0 coppers per day (only consumes supplies).
+- TYPE: Infantry
+- WEAPONS: One-handed weapon
+- PROTECTION: None
+- ADVANTAGES: Orc Infantry (`+1`)
+- PAYMENT: 0 coppers per day, only consumes supplies
 
 ## Goblin
 
 The small warriors of the goblin race are surprising in their ferocity on the battlefield, though they often cower when things start to turn dire.
 
-**TYPE:** Infantry **WEAPONS:** One-handed weapon.
+- TYPE: Infantry
+- WEAPONS: One-handed weapon
+- PROTECTION: Small shield (protection 1, protection 2 vs projectiles)
+- PAYMENT: 10 coppers per day
 
 ## Orc Warrior
 
 Free orc males spend all their spare time preparing for combat. It is their way of proving their worth as males of the tribe.
 
-**TYPE:** Infantry **WEAPONS:** One-handed weapon.
-
-**PROTECTION:** Leather Armor (protection 2, Morale +1).
-
-**ADVANTAGES:** Well-Trained Units (+1), Orc Infantry (+1), Racial fervor vs Elves, Dwarves, and Rust Brothers (+1).
-
-**PAYMENT:** 10 coppers per day.
+- TYPE: Infantry
+- WEAPONS: One-handed weapon
+- PROTECTION: Leather armor (protection 2, Morale `+1`)
+- ADVANTAGES: Well-Trained Units (`+1`), Orc Infantry (`+1`), Racial fervor vs Elves, Dwarves, and Rust Brothers (`+1`)
+- PAYMENT: 10 coppers per day
 
 ## Hardened Orc
 
 Some orcs are untamed warriors who live with the battle ahead always in mind. They train to exhaustion daily and are the elite of their race, the most trusted members of the tribe by their leader.
 
-**PROTECTION:** Small Shield (protection 1, protection 2 vs projectiles).
-
-**PAYMENT:** 10 coppers per day.
+- TYPE: Infantry
+- WEAPONS: Two-handed weapon (attack `+1` vs infantry and skirmishers); thrown weapon x2 (one free attack before engaging in combat, attack `+1` vs cavalry)
+- PROTECTION: Leather armor (protection 2, Morale `+1`)
+- ADVANTAGES: Well-Trained Units (`+1`), Orc Infantry (`+1`), Racial fervor vs Elves, Dwarves, and Rust Brothers (`+1`)
+- PAYMENT: 30 coppers per day
 
 ## Wolf Rider
 
 Goblins mounted on their loyal wolf companions are versatile warriors with great mobility. Additionally, they manage to avoid the height disadvantage they face against other races.
 
-**TYPE:** Skirmishing Cavalry.
-
-**WEAPONS:** Light ranged weapon (range 1, twohanded, strikes second, demoralized in melee). One-handed weapon.
-
-**PROTECTION:** Small Shield (protection 1, protection 2 vs projectiles).
-
-**PAYMENT:** 30 coppers per day.
-
-**TYPE:** Infantry **WEAPONS:** Two-Handed Weapon (attack +1 vs infantry and skirmishers). Thrown Weapon x2 (one free attack before engaging in combat, attack +1 vs cavalry).
-
-**PROTECTION:** Leather Armor (protection 2, Morale +1).
-
-**ADVANTAGES:** Well-Trained Units (+1), Orc Infantry (+1), Racial fervor vs Elves, Dwarves, and Rust Brothers (+1).
-
-**PAYMENT:** 30 coppers per day.
+- TYPE: Skirmishing Cavalry
+- WEAPONS: Light ranged weapon (range 1, two-handed, strikes second, demoralized in melee); one-handed weapon
+- PROTECTION: Small shield (protection 1, protection 2 vs projectiles)
+- PAYMENT: 30 coppers per day
 
 
 ## Strongholds
@@ -960,36 +946,36 @@ This list includes only the functions that have effects related to warfare.
 
 
 | FUNCTION | COST | TIME | EFFECT |
-| --- | --- | --- | --- |
-| Guard Tower 2100 16 days Provides 1 advantage die to defenders. |
-| Lumberjack's Cabin 200 4 days Produces 144 units of wood per week or 288 copper. |
-| Road 200 16 days Doubles movement when entering or leaving the Stronghold's hex. |
-| Field * 200 32 days Produces 280 units of grain once a year (autumn) or 805 copper. |
-| Training Ground 160 4 days Allows recruiting up to 20 infantry units per week. |
-| Shooting Range 80 4 days Allows recruiting up to 20 skirmisher units per week. |
-| Quarry 20 4 days Produces 144 units of stone per week or 72 copper. |
-| Sewer 1120 16 days Reduces the severity of diseases during a siege. |
-| Tannery 400 4 days Produces 72 units of leather per week or 252 copper. |
-| Quarters * 1200 16 days 30 soldiers can live comfortably inside the stronghold. |
-| Pantry 520 7 days Can store up to 5,000 units of food. |
-| Palisade 600 7 days Defenders Attack First during sieges. |
-| Stable 1560 4 days Allows recruiting up to 5 cavalry units per week. |
-| Forge 1820 7 days Produces 72 units of iron per week or 372 copper. |
-| Moat 200 30 days Reduces the siege dice from battering rams and siege towers by 2. |
-| Orchard * 10 7 days Produces 10 units of vegetables per week or 5 copper. |
-| Market 235 7 days The stronghold can buy goods unless it is under siege. |
-| Mine 235 30 days Produces 144 units of iron ore per week or 288 copper. |
-| Mill 1225 14 days Produces 72 units of flour per week or 168 copper. |
-| Walls 800 30 days Defenders Attack First during sieges. Advantage dice +1. |
-| Bakery * 675 7 days Produces 72 units of food per week or 252 copper. |
-| Pasture * 78 1 día Produces 72 units of food (milk) per week or 144 copper. |
-| Pigsty * 195 1 día Produces 36 units of food per week or 96 copper. |
-| Inn 2275 7 days Produces 72 units of food (bread) per week or 144 copper. |
-| Well 130 14 days Defenders have access to water even during sieges. |
-| Portcullis 1300 7 days Reduces siege engine dice (battering rams) by 1. |
-| Sheepfold * 78 1 día Produces 24 units of wool per week or 91 copper. |
-| Tailor's Workshop 390 1 día Produces 72 units of cloth per week or 240 copper. |
-| Keep 2400 30 days Defenders gain +1 advantage die. |
+| --- | ---: | --- | --- |
+| Guard Tower | 2100 | 16 days | Provides 1 advantage die to defenders. |
+| Lumberjack's Cabin | 200 | 4 days | Produces 144 units of wood per week or 288 copper. |
+| Road | 200 | 16 days | Doubles movement when entering or leaving the Stronghold's hex. |
+| Field* | 200 | 32 days | Produces 280 units of grain once a year, in autumn, or 805 copper. |
+| Training Ground | 160 | 4 days | Allows recruiting up to 20 infantry units per week. |
+| Shooting Range | 80 | 4 days | Allows recruiting up to 20 skirmisher units per week. |
+| Quarry | 20 | 4 days | Produces 144 units of stone per week or 72 copper. |
+| Sewer | 1120 | 16 days | Reduces the severity of diseases during a siege. |
+| Tannery | 400 | 4 days | Produces 72 units of leather per week or 252 copper. |
+| Quarters* | 1200 | 16 days | 30 soldiers can live comfortably inside the stronghold. |
+| Pantry | 520 | 7 days | Can store up to 5,000 units of food. |
+| Palisade | 600 | 7 days | Defenders Attack First during sieges. |
+| Stable | 1560 | 4 days | Allows recruiting up to 5 cavalry units per week. |
+| Forge | 1820 | 7 days | Produces 72 units of iron per week or 372 copper. |
+| Moat | 200 | 30 days | Reduces the siege dice from battering rams and siege towers by 2. |
+| Orchard* | 10 | 7 days | Produces 10 units of vegetables per week or 5 copper. |
+| Market | 235 | 7 days | The stronghold can buy goods unless it is under siege. |
+| Mine | 235 | 30 days | Produces 144 units of iron ore per week or 288 copper. |
+| Mill | 1225 | 14 days | Produces 72 units of flour per week or 168 copper. |
+| Walls | 800 | 30 days | Defenders Attack First during sieges. Advantage dice `+1`. |
+| Bakery* | 675 | 7 days | Produces 72 units of food per week or 252 copper. |
+| Pasture* | 78 | 1 day | Produces 72 units of food, milk, per week or 144 copper. |
+| Pigsty* | 195 | 1 day | Produces 36 units of food per week or 96 copper. |
+| Inn | 2275 | 7 days | Produces 72 units of food, bread, per week or 144 copper. |
+| Well | 130 | 14 days | Defenders have access to water even during sieges. |
+| Portcullis | 1300 | 7 days | Reduces siege engine dice, battering rams, by 1. |
+| Sheepfold* | 78 | 1 day | Produces 24 units of wool per week or 91 copper. |
+| Tailor's Workshop | 390 | 1 day | Produces 72 units of cloth per week or 240 copper. |
+| Keep | 2400 | 30 days | Defenders gain `+1` advantage die. |
 
 
 * The function can be repeated.
@@ -1101,21 +1087,21 @@ When disease breaks out or when a 6 is rolled on the disease dice, besieged stro
 
 > _Stran feels the tremor in the stone beneath his feet. Another arrow grazes his helmet as an enemy appears at the staircase. Behind him, a wounded man pleads for the breach to be reinforced before it's too late. Outside, the wind lashes the tattered banners; inside, there is only a brief pause. With the heavy shield on his arm, Stran raises his sword, determined that this man will not set foot on the wall._
 
-uring battles, violent scenarios unlike any other, characters may find themselves caught in Dcircumstances both intriguing and challenging. These situations will not only test them but may also alter the course of a conflict. In this chapter, we will focus on individual units and the role Important Characters can play in shaping the drama and outcome of a battle.
-
-always shine in a battle for the sake of plot and narrative development, we also encourage you to create new ones when they can bring a fresh and exciting perspective. These characters, who rise from complete obscurity to relevance, often become the most memorable.
-
-## Important Character Die
+During battles, violent scenarios unlike any other, characters may find themselves caught in circumstances both intriguing and challenging. These situations will not only test them but may also alter the course of a conflict. In this chapter, we will focus on individual units and the role Important Characters can play in shaping the drama and outcome of a battle.
 
 ## Important Characters
 
-When we talk about **important characters** , we often think of PCs, however this doesn’t have to be a limitation. Many other characters can be important in the context of a battle, recognizable antagonists from the story are the best examples.
+When we talk about **important characters**, we often think of PCs, however this doesn't have to be a limitation. Many other characters can be important in the context of a battle. Recognizable antagonists from the story are the best examples.
 
-It’s possible for an enemy who might never otherwise become a notable character to achieve significance through the events of a battle, or for a new character to be created during the battle to add depth to the campaign.
+It's possible for an enemy who might never otherwise become a notable character to achieve significance through the events of a battle, or for a new character to be created during the battle to add depth to the campaign.
 
 In this way, a game session focused on the development of a battle can be the perfect situation for a new character, previously unknown, to become a pivotal ally or enemy.
 
-With this concept, we aim to emphasize that while established important characters in the campaign should These characters follow a basic rule in battle corresponding to the advantage die they grant their troop. Their fate, in general terms, is tied to the results of this specific die (in a different color if you wish to apply the rule).
+With this concept, we aim to emphasize that while established important characters in the campaign should always shine in a battle for the sake of plot and narrative development, we also encourage you to create new ones when they can bring a fresh and exciting perspective. These characters, who rise from complete obscurity to relevance, often become the most memorable.
+
+## Important Character Die
+
+These characters follow a basic rule in battle corresponding to the advantage die they grant their troop. Their fate, in general terms, is tied to the results of this specific die, in a different color if you wish to apply the rule.
 
 The events in this chapter are considered separate from the destiny determined by the previously explained rules. In any case, characters must face the unique events they encounter during the battle, bearing the wounds caused by the results of their advantage die.
 
@@ -1138,12 +1124,15 @@ These events may unfold just before the troop’s battle roll for the turn or du
 
 ## Battle Events Against Monsters
 
-- **D66 EFFECT** 11-36 The character does not experience any particular event during this battle turn. 41-43 The monsters let out a roar, scream, or shriek that intimidates the character's troop. The troop loses the important character die and all its Morale points, then must make a Morale roll (roll its base dice, with only 1s applying). To avoid the first effect, the character must succeed in a Demanding **insight** roll to overcome the fear, and then succeed in a Demanding **performance** roll to rally their companions and prevent the second effect.
-- 44-46 One of the monsters faces the character head-on along with a small group from their troop (1D3+2 units). Resolve the combat in 3 rounds. If the monster becomes **broken** , the enemy troop loses the corresponding **base die** .
-- 51-53 One of the monsters attempts to separate the character from their allies, circling around and attacking from different angles. A successful **move** roll can prevent the character from being surrounded. If they fail, they are isolated and suffer an attack with ten base dice.
-- 54-56 The monsters use the corpses of fallen warriors to instill fear while mocking and provoking their enemies. The character can attempt to punish these monsters to prevent the negative effects they intend to cause. To do so, they must overcome their fear with an **insight** roll, approach using a **move** or **animal handling** roll (depending on whether they are on foot or mounted), and finally succeed in a **melee** or **marksmanship** roll. Failing any of the three rolls leaves the character Stunned, and the troop loses the Important Character die and 1D6 points of Morale.
-- 61-63 The character identifies the figure keeping the monster troop cohesive (use an Important Character or invent one; it could be a monster) and has a unique opportunity to attack them. If they manage an impressive strike (a Formidable roll of **might** , **melee** , or **marksmanship** ), they cause significant disarray in the enemy troop: it loses as many points of Morale as the successes rolled and must make a Morale roll (roll its **base dice** , only applying 1s).
-- 64-66 The monsters initiate a stampede aiming to overrun the character's troop. The character must make a roll of **move** or **animal handling** (depending on whether they are on foot or mounted) against ten base attack dice to avoid being trampled. Each success below the required number deals 1 point of damage.
+| D66 | EFFECT |
+| --- | --- |
+| 11-36 | The character does not experience any particular event during this battle turn. |
+| 41-43 | The monsters let out a roar, scream, or shriek that intimidates the character's troop. The troop loses the Important Character die and all its Morale points, then must make a Morale roll, rolling its base dice with only `1s` applying. To avoid the first effect, the character must succeed in a Demanding **INSIGHT** roll to overcome the fear, and then succeed in a Demanding **PERFORMANCE** roll to rally their companions and prevent the second effect. |
+| 44-46 | One of the monsters faces the character head-on along with a small group from their troop, `1D3+2` units. Resolve the combat in 3 rounds. If the monster becomes **broken**, the enemy troop loses the corresponding **base die**. |
+| 51-53 | One of the monsters attempts to separate the character from their allies, circling around and attacking from different angles. A successful **MOVE** roll can prevent the character from being surrounded. If they fail, they are isolated and suffer an attack with ten base dice. |
+| 54-56 | The monsters use the corpses of fallen warriors to instill fear while mocking and provoking their enemies. The character can attempt to punish these monsters to prevent the negative effects they intend to cause. To do so, they must overcome their fear with an **INSIGHT** roll, approach using a **MOVE** or **ANIMAL HANDLING** roll, depending on whether they are on foot or mounted, and finally succeed in a **MELEE** or **MARKSMANSHIP** roll. Failing any of the three rolls leaves the character Stunned, and the troop loses the Important Character die and `1D6` points of Morale. |
+| 61-63 | The character identifies the figure keeping the monster troop cohesive, use an Important Character or invent one, and it could be a monster, and has a unique opportunity to attack them. If they manage an impressive strike, a Formidable roll of **MIGHT**, **MELEE**, or **MARKSMANSHIP**, they cause significant disarray in the enemy troop: it loses as many points of Morale as the successes rolled and must make a Morale roll, rolling its **base dice** and only applying `1s`. |
+| 64-66 | The monsters initiate a stampede aiming to overrun the character's troop. The character must make a roll of **MOVE** or **ANIMAL HANDLING**, depending on whether they are on foot or mounted, against ten base attack dice to avoid being trampled. Each success below the required number deals 1 point of damage. |
 
 
 Always strive for an engaging narrative that aligns with the character’s situation and the broader battle context, even if this requires modifying the event or interpreting the battle roll results in a unique way.
@@ -1152,71 +1141,63 @@ In cases where the regular troop roll results in the character taking damage acc
 
 ## Battle Events Against Cavalry
 
+| D66 | EFFECT |
+| --- | --- |
+| 11-36 | The character does not experience any particular event during this battle turn. |
+| 41-43 | A renowned rival rider, use an important character or create one, spots the character amidst the chaos and confronts them. The combat will be resolved in 3 rounds or remain inconclusive. If one of the characters is **broken**, the victor grants their troop 1 advantage die and `1D6` morale points. |
+| 44-45 | An enemy rider is unseated. The character can attempt to capture their mount, a creature of remarkable strength and beauty, with a Hard **ANIMAL HANDLING** roll to continue fighting or make an escape. |
+| 46-51 | A cavalry wedge charges at full speed toward the character's position. The character must make a **MOVE** or **ANIMAL HANDLING** roll, depending on whether they are on foot or mounted, against ten base dice of attack to avoid being trampled. Each success below the required number causes 1 point of damage. |
+| 52-53 | An exceptionally skilled enemy fires from a distance, use an important character or create one. The character can choose to defend, flee, or attack. The encounter will last a maximum of 3 rounds and may remain unresolved. |
+| 54 | The enemy commander is forced to dismount, due to an arrow shot or accident. If the character seizes the opportunity, they can kill, capture, or force the commander to flee. If successful, the enemy troop loses all its points of Morale and must make a Morale roll, rolling their base dice and only applying `1s`. |
+| 55 | The cavalry's advance raises a thick cloud of dust. The character must succeed on a Hard **SCOUTING** roll to avoid losing sight of the enemies and their allies. If they fail, their troop loses the Important Character die for `1D3` battle turns. |
+| 56 | Some riders carry lassos and attempt to immobilize the character. The character must succeed in an opposed **MIGHT** roll against 12 dice. If the character loses, they are captured by the enemy. |
+| 61-62 | The enemy cavalry appears to retreat, luring the character into a chase. If the character decides to pursue, they fall into a planned ambush aimed at capturing them. |
+| 63-64 | A section of the enemy cavalry retreats. If the character decides to pursue, their troop gains two bonus dice on their next battle roll, not limited by the base dice. |
+| 65 | An enemy messenger rides through the ranks delivering orders. If the character takes them down, a successful ranged attack with a `-2` modifier or a Hard **MOVE** roll to leap onto them, the enemy troop becomes disorganized. The character's troop gains one bonus die on their next battle roll. |
+| 66 | Two riders on stunning black steeds blow horns with a terrifying sound, capable of intimidating their enemies. If the character fails to defeat them, their troop loses all its points of Morale and must make a Morale roll, rolling their base dice and counting only results of `1`. |
+
+
+## Battle Events Against Infantry
 
 | D66 | EFFECT |
 | --- | --- |
-| 11-36 The character does not experience any particular event during this battle turn. |
-| 41-43 A renowned rival rider (use an important character or create one) spots the character amidst |
-| the chaos and confronts them. The combat will be resolved in 3 rounds or remain inconclusive. |
-| If one of the characters is  broken , the victor grants their troop 1 advantage die and 1D6 morale |
-| points. |
-| 44-45 An enemy rider is unseated. The character can attempt to capture their mount (a creature of |
-| remarkable strength and beauty) with a Hard  animal handling  roll to continue fighting or |
-| make an escape. |
-| 46-51 A cavalry wedge charges at full speed toward the character's position. The character must make an |
-| move  or  animal handling  roll (depending on whether they are on foot or mounted) against |
-| ten base dice of attack to avoid being trampled. Each success below the required number causes 1 |
-| point of damage. |
-| 52-53 An exceptionally skilled enemy fires from a distance (use an important character or create one). The |
-| character can choose to defend, flee, or attack. The encounter will last a maximum of 3 rounds and |
-| may remain unresolved. |
-| 54 The enemy commander is forced to dismount (due to an arrow shot or accident). If the character |
-| seizes the opportunity, they can kill, capture, or force the commander to flee. If successful, the enemy |
-| troop loses all its points of Morale and must make a Morale roll (roll their base dice, only 1s apply). |
-| 55 The cavalry's advance raises a thick cloud of dust. The character must succeed on a Hard |
-| scouting  roll to avoid losing sight of the enemies and their allies. If they fail, their troop loses the |
-| important character die for 1D3 battle turns. |
-| 56 Some riders carry lassos and attempt to immobilize the character. The character must succeed in |
-| an opposed  might  roll against 12 dice. If the character loses, they are captured by the enemy. |
-| 61-62 The enemy cavalry appears to retreat, luring the character into a chase. If the character decides to |
-| pursue, they fall into a planned ambush aimed at capturing them. |
-| 63-64 A section of the enemy cavalry retreats. If the character decides to pursue, their troop gains two |
-| bonus dice on their next battle roll (not limited by the base dice). |
-| 65 An enemy messenger rides through the ranks delivering orders. If the character takes them down |
-| (a successful ranged attack with a -2 modifier or a Hard  move  roll to leap onto them), the enemy |
-| troop becomes disorganized. The character's troop gains one bonus die on their next battle roll. |
-| 66 Two riders on stunning black steeds blow horns with a terrifying sound, capable of intimidating their |
-| enemies. If the character fails to defeat them, their troop loses all its points of Morale and must |
-| make a Morale roll (roll their  base dice , counting only results of 1). |
-
-
-||**BATTLE EVENTS AGAINST INFANTRY** **D66** **EFECTO** 11-36 The character does not experience any particular event duringthis battle turn. 41-42 The enemy troop forms a compact shield wall. The character can attempt to break it with a**might** or**animal handling**roll (depending on whether they are on foot or mounted) against the troop's Battle roll. If the character succeeds, they create a breach, and their troop's efforts infict 1 point of damage on the enemy. If they fail, the character suffers Strength damage equal to the enemy's excess successes, and the enemy troop gains two bonus dice while engaged with the character's troop. 43-44 The infantry attempts to encircle the character, advancing in a semicircle. The character can make a Challenging**move**roll to escape before being trapped or a Formidable**might**roll to break through. If theyfail, theysuffer an attack with 12 base dice and Weapon Damage 1 (piercing). 45-46 One of the soldiers is clad in an impressive black armor (use an important character or invent one). The character may choose to face this champion in battle. The fght will be resolved in 3 rounds or remain inconclusive. If one of the characters is**broken**, the winner grants their troop 1 bonus die and 1D6 Moralepoints. 51-52 The infantry advances in a block, pushing with their shields. The character must succeed on a Hard **might**or**animal handling**roll (depending on whether they are on foot or mounted) to hold their ground. If successful, they may inspire their troop with a**performance**roll to resist losing ground against the successes rolled from ten base dice by the enemy. The troop with the most successesgains 2 bonus dice for 1D3 battle turns. 53-54 An enemy standard bearer bolsters the morale of their troop. If the character manages to take them down (a successful ranged attack with a -2 modifer or a Hard**move**roll to leap at them), the enemy troop becomes disorganized. The character's troop gains 1 bonus die in their next battle roll. 55-56 Behind the shield line, a soldier with a bow fres projectiles and leads their troop (use an important character or create one). The character can choose to defend, fee, or attack. The encounter will last a maximum of 3 rounds,possiblyremaininginconclusive. 61-62 The ground is strewn with corpses and broken weapons. The character must succeed in a**move** roll to avoid tripping. If they fail, the character suffers a terrifying attack with six base dice, and their trooploses its important character die on the next battle roll. 63-64 An enemy soldier (use an important character or create one) raises a powerful artifact capable of changing the course of the battle. The character has 3 combat rounds to alter the situation. If they fail, the enemy troop uses a D8/D10/D12 instead of the Important Character die for the remainder of the battle. It is possible that the character may seize the artifact if the Gamemaster considers it appropriate. 65-66 The enemy commander orders a disciplined attack. The character can attempt to intimidate them or challenge them to single combat to break their command. Whoever emerges victorious from the interaction grants their troop one bonus die against the enemy troop.|
-|---|---|
+| 11-36 | The character does not experience any particular event during this battle turn. |
+| 41-42 | The enemy troop forms a compact shield wall. The character can attempt to break it with a **MIGHT** or **ANIMAL HANDLING** roll, depending on whether they are on foot or mounted, against the troop's battle roll. If the character succeeds, they create a breach, and their troop's efforts inflict 1 point of damage on the enemy. If they fail, the character suffers Strength damage equal to the enemy's excess successes, and the enemy troop gains two bonus dice while engaged with the character's troop. |
+| 43-44 | The infantry attempts to encircle the character, advancing in a semicircle. The character can make a Challenging **MOVE** roll to escape before being trapped or a Formidable **MIGHT** roll to break through. If they fail, they suffer an attack with 12 base dice and Weapon Damage 1, piercing. |
+| 45-46 | One of the soldiers is clad in an impressive black armor, use an important character or invent one. The character may choose to face this champion in battle. The fight will be resolved in 3 rounds or remain inconclusive. If one of the characters is **broken**, the winner grants their troop 1 bonus die and `1D6` Morale points. |
+| 51-52 | The infantry advances in a block, pushing with their shields. The character must succeed on a Hard **MIGHT** or **ANIMAL HANDLING** roll, depending on whether they are on foot or mounted, to hold their ground. If successful, they may inspire their troop with a **PERFORMANCE** roll to resist losing ground against the successes rolled from ten base dice by the enemy. The troop with the most successes gains 2 bonus dice for `1D3` battle turns. |
+| 53-54 | An enemy standard bearer bolsters the morale of their troop. If the character manages to take them down, a successful ranged attack with a `-2` modifier or a Hard **MOVE** roll to leap at them, the enemy troop becomes disorganized. The character's troop gains 1 bonus die in their next battle roll. |
+| 55-56 | Behind the shield line, a soldier with a bow fires projectiles and leads their troop, use an important character or create one. The character can choose to defend, flee, or attack. The encounter will last a maximum of 3 rounds, possibly remaining inconclusive. |
+| 61-62 | The ground is strewn with corpses and broken weapons. The character must succeed in a **MOVE** roll to avoid tripping. If they fail, the character suffers a terrifying attack with six base dice, and their troop loses its Important Character die on the next battle roll. |
+| 63-64 | An enemy soldier, use an important character or create one, raises a powerful artifact capable of changing the course of the battle. The character has 3 combat rounds to alter the situation. If they fail, the enemy troop uses a `D8/D10/D12` instead of the Important Character die for the remainder of the battle. It is possible that the character may seize the artifact if the Gamemaster considers it appropriate. |
+| 65-66 | The enemy commander orders a disciplined attack. The character can attempt to intimidate them or challenge them to single combat to break their command. Whoever emerges victorious from the interaction grants their troop one bonus die against the enemy troop. |
 
 
 ## Battle Events as the Attacker in Sieges
 
+| D66 | EFFECT |
+| --- | --- |
+| 11-36 | The character does not experience any particular event during this battle turn. |
+| 41-42 | The defenders fire through arrow slits. The character must organize the nearby soldiers to take proper cover with a **PERFORMANCE** roll. If they fail, the troop takes 1 extra point of damage in the next battle roll, and the character suffers an attack with five base dice. |
+| 43-44 | While the character attempts to climb the wall, boiling water is poured from above. They must make a **MOVE** roll against ten base dice to sidestep and avoid being scalded. The gear cannot protect them, so each success fewer than the enemy's is transferred as damage. |
+| 45-46 | A companion throws a rope with a grappling hook onto the battlement. The character can attempt a **MIGHT** roll to tighten it and prevent the defenders from removing the hook. They must succeed in three rolls against eight base dice from the defenders, and can receive help from two companions. If they succeed in all three, the wall loses one advantage die in the following battle rolls. If they fail, the character takes `1D6` Strength damage. |
+| 51-52 | A defender casts spells from the wall, use an important character or create one. The character can attempt **MARKSMANSHIP**, **MANIPULATION**, or any other roll that allows them to distract the sorcerer from their efforts. If successful, they must fight 3 rounds against the enemy. If they fail, the defending troop gains one advantage die. |
+| 53-54 | The defenders pour boiling oil, injuring several attackers. However, that's not the worst of it: the character sees several archers lighting their arrows in braziers, preparing to set the oil at the foot of the wall aflame. It's a critical moment. If the character decides to try to stop them, they can coordinate projectiles against the archers and shields to prevent enemy arrows from reaching the oil, a Hard **PERFORMANCE** roll. If they fail or choose not to act, the fire and smoke produced remove the defenders' ability to Attack First, but completely wipe out the troop currently attacking. |
+| 55-56 | The defenders throw corpses, logs, or rocks to clear the ladders. The character must make a **MOVE** roll against an attack of ten base dice to sidestep and avoid the impact. |
+| 61-63 | The character spots a poorly defended window or arrow slit with a successful **SCOUTING** or **INSIGHT** roll. If successful, they can slip inside and fight their way across the wall. They must face `1D6` enemies three times: if not **broken**, the defenders become sufficiently distracted for the attackers to climb the wall, causing it to lose its benefit. Warn the character that this action is as heroic as it is suicidal. |
+| 64-66 | The character is the first to scale the wall. They must face `1D6` enemies three times: if not **broken**, the defenders are sufficiently distracted for the attackers to climb the wall, causing it to lose its benefit. Each turn the character survives, `1D3` allies climb up to help. |
 
-D66 EFECTO 11-36 The character does not experience any particular event during this battle turn.
-41-42 The defenders fire through arrow slits. The character must organize the nearby soldiers to take proper cover with a  performance  roll. If they fail, the troop takes 1 extra point of damage in the next battle roll, and the character suffers an attack with five base dice.
-43-44 While the character attempts to climb the wall, boiling water is poured from above. They must make a  move  roll against ten base dice to sidestep and avoid being scalded. The gear cannot protect them, so each success fewer than the enemy's is transferred as damage.
-45-46 A companion throws a rope with a grappling hook onto the battlement. The character can attempt a  might  roll to tighten it and prevent the defenders from removing the hook. They must succeed in three rolls against eight base dice from the defenders (can receive help from two companions). If they succeed in all three, the wall loses one advantage die in the following battle rolls. If they fail, the character takes 1D6 Strength damage.
-51-52 A defender casts spells from the wall (use an important character or create one). The character can attempt a  marksmanship ,  manipulation , or any other roll that allows them to distract the sorcerer from their efforts. If successful, they must fight 3 rounds against the enemy. If they fail, the defending troop gains one advantage die.
-53-54 The defenders pour boiling oil, injuring several attackers. However, that’s not the worst of it: the character sees several archers lighting their arrows in braziers, preparing to set the oil at the foot of the wall aflame. It’s a critical moment. If the character decides to try to stop them, they can coordinate projectiles against the archers and shields to prevent enemy arrows from reaching the oil (a Hard  performance  roll). If they fail or choose not to act, the fire and smoke produced remove the defenders’ ability to Attack First, but completely wipe out the troop currently attacking.
-55-56 The defenders throw corpses, logs, or rocks to clear the ladders. The character must make an move  roll against an attack of ten base dice to sidestep and avoid the impact.
-61-63 The character spots a poorly defended window or arrow slit with a successful  scouting  or insight  roll. If successful, they can slip inside and fight their way across the wall. They must face 1D6 enemies three times: if not  broken , the defenders become sufficiently distracted for the attackers to climb the wall, causing it to lose its benefit. Warn the character that this action is as heroic as it is suicidal.
-64-66 The character is the first to scale the wall. They must face 1D6 enemies three times: if not fall broken , the defenders are sufficiently distracted for the attackers to climb the wall, causing it to lose its benefit. Each turn the character survives, 1D3 allies climb up to help.
+## Battle Events as the Defender in Sieges
 
-
-BATTLE EVENTS AS THE DEFENDER IN SIEGES D66 EFECTO 11-36 The character does not experience any particular event during this battle turn.
-41-42 The enemies throw torches and resin, creating smoke on the wall. The character makes a performance  roll to keep their companions focused. If they fail, their troop loses the ability to Attack First.
-43-44 A group of allies is carrying a large pot of boiling water to pour on the enemies climbing the wall, but they are very nervous and hurried. The character must succeed in a  performance  roll to calm and coordinate them or the water will be wasted, causing the troop to lose one advantage die in the next battle roll.
-45-46 The troop’s commander (this could be the character themselves) is wounded (losing 1D6 Strength points, down to a minimum of 1) and needs to be temporarily saved from danger. To do this, the character must make a  performance  roll (to direct their companions) or a  might  roll (to carry them). If they fail, the troop becomes demoralized, losing 1D6 Morale points, and the enemy gains one advantage die in the next battle roll.
-51-52 The character sees attackers throwing grappling hooks with ropes to climb. They can attempt to cut them (three  melee  or  might  rolls) or try to get their companions to notice amid the chaos of battle (a Hard  performance  roll). If they fail, the enemy troop gains two advantage dice on the next battle roll.
-53-54 When a defender carrying a torch to ignite the oil beneath the attackers is struck down by a projectile, the character watches as the torch soars through the air, about to fall into a pot of boiling oil carried by two allies. They can attempt to divert the torch (a Formidable  marksmanship  roll or a Hard  move  roll) or warn their allies amid the noise of battle (a Demanding  performance  roll).
-If they fail, the oil ignites and chaos shakes the defenders: they lose 1D6 Morale and Attack Second in the next battle roll.
-55-56 An allied messenger arrives with crucial orders but is gravely wounded and unable to deliver them.
-The character can interpret his signals (Demanding  insight  roll) or reach him in time to receive the message (Hard  move  roll). If they fail, the enemy troop gains two bonus dice in the next battle roll.
-61-63 Enemy soldiers have managed to climb the wall, and the character is the one who can prevent the situation from worsening. They must remove the ladder and throw it down with a  might  roll, but before making that roll, they must first defeat the enemies climbing up. 1D3 enemies have already made it up, and each turn another 1D3 enemies join. The character receives assistance from 1D6 allies. The event ends when the character manages to topple the ladder, falls  broken , or decides to  flee . If the character cannot topple the ladder, the wall loses its advantage dice in the next battle roll.
-64-66 A skilled enemy (use an important character or create one) is about to take down the commander of the defending troop. The character can prevent the attack with a Hard  marksmanship  roll or push the commander aside with a Hard  might  or  move  roll if the target is the character themselves. If they fail, the commander is  broken  and the enemy troop gains two advantage dice.
+| D66 | EFFECT |
+| --- | --- |
+| 11-36 | The character does not experience any particular event during this battle turn. |
+| 41-42 | The enemies throw torches and resin, creating smoke on the wall. The character makes a **PERFORMANCE** roll to keep their companions focused. If they fail, their troop loses the ability to Attack First. |
+| 43-44 | A group of allies is carrying a large pot of boiling water to pour on the enemies climbing the wall, but they are very nervous and hurried. The character must succeed in a **PERFORMANCE** roll to calm and coordinate them or the water will be wasted, causing the troop to lose one advantage die in the next battle roll. |
+| 45-46 | The troop's commander, and this could be the character themselves, is wounded, losing `1D6` Strength points down to a minimum of 1, and needs to be temporarily saved from danger. To do this, the character must make a **PERFORMANCE** roll, to direct their companions, or a **MIGHT** roll, to carry them. If they fail, the troop becomes demoralized, losing `1D6` Morale points, and the enemy gains one advantage die in the next battle roll. |
+| 51-52 | The character sees attackers throwing grappling hooks with ropes to climb. They can attempt to cut them, three **MELEE** or **MIGHT** rolls, or try to get their companions to notice amid the chaos of battle, a Hard **PERFORMANCE** roll. If they fail, the enemy troop gains two advantage dice on the next battle roll. |
+| 53-54 | When a defender carrying a torch to ignite the oil beneath the attackers is struck down by a projectile, the character watches as the torch soars through the air, about to fall into a pot of boiling oil carried by two allies. They can attempt to divert the torch, a Formidable **MARKSMANSHIP** roll or a Hard **MOVE** roll, or warn their allies amid the noise of battle, a Demanding **PERFORMANCE** roll. If they fail, the oil ignites and chaos shakes the defenders: they lose `1D6` Morale and Attack Second in the next battle roll. |
+| 55-56 | An allied messenger arrives with crucial orders but is gravely wounded and unable to deliver them. The character can interpret his signals, a Demanding **INSIGHT** roll, or reach him in time to receive the message, a Hard **MOVE** roll. If they fail, the enemy troop gains two bonus dice in the next battle roll. |
+| 61-63 | Enemy soldiers have managed to climb the wall, and the character is the one who can prevent the situation from worsening. They must remove the ladder and throw it down with a **MIGHT** roll, but before making that roll, they must first defeat the enemies climbing up. `1D3` enemies have already made it up, and each turn another `1D3` enemies join. The character receives assistance from `1D6` allies. The event ends when the character manages to topple the ladder, falls **broken**, or decides to **flee**. If the character cannot topple the ladder, the wall loses its advantage dice in the next battle roll. |
+| 64-66 | A skilled enemy, use an important character or create one, is about to take down the commander of the defending troop. The character can prevent the attack with a Hard **MARKSMANSHIP** roll or push the commander aside with a Hard **MIGHT** or **MOVE** roll if the target is the character themselves. If they fail, the commander is **broken** and the enemy troop gains two advantage dice. |
 

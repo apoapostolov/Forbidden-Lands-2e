@@ -570,6 +570,16 @@ You hum with the rhythm of bedrock. Each rank also opens the equivalent Stone So
 - ✦ **RANK 4:** Cast rank 4 spells. A Quarter Day of song lets you sculpt lifelike figures from a boulder or cliff face.
 - ✦ **RANK 5:** Cast rank 5 spells. Spend 1 extra WP during Rank 4’s process to store a vision or message that only Dwarves and Stone Sorcerers can draw forth by touch or meditation. After a decade the memory starts to fade and distort.
 
+### PATH OF THE UNCLEAN
+
+Mog seeps into you before you learn to push it out. Each rank also unlocks the matching Demonic Magic spells.
+
+- ✦ **RANK 1:** Cast rank 1 Demonic Magic spells. Your fingertips darken to a bruised lilac that never fades. Raw mog no longer burns your skin — you can handle it bare-handed, though it still corrodes your gear and harms anyone else who touches it.
+- ✦ **RANK 2:** Cast rank 2 spells. Lilac-green veins trace visibly up your arms and neck. The marks are involuntary — anyone who sees your bare skin can tell what you are. Other demon-workers recognize the stain on sight, and unbound demons hesitate one round before attacking you, studying you the way a wolf studies another wolf.
+- ✦ **RANK 3:** Cast rank 3 spells. Once per day, spend 1 WP to sweat a thin film of mog from your palms — enough to serve as the ingredient for one Demonic Magic spell without spending a carried unit. The mog evaporates within a round if not used. Your sweat smells of bile and hot copper even when you are not casting.
+- ✦ **RANK 4:** Cast rank 4 spells. Patches of your skin have gone hard and translucent. Once per day, spend 1 WP to flush mog through your body for one turn: you become immune to poison, disease, and mog damage (including your own spells), and you gain Armor Rating 2 from toughened tissue. Your eyes turn solid black while this lasts.
+- ✦ **RANK 5:** Cast rank 5 spells. You can drink a unit of mog to regain 1 WP and 1 Strength. Each time you drink, roll a D6: on a 1 or 2, you gain 1 point of corruption. What devours other creatures feeds you instead.
+
 ## Communication Talents
 
 ### EDUCATED

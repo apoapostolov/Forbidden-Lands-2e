@@ -8,11 +8,47 @@ What most people call magic is a catch-all term for forces at work behind the ve
 
 Magic is a wild and unreliable force that can manifest itself in many ways. There are no schools of magic, instead knowledge is transferred from master to apprentice in a number of broad categories, called disciplines.
 
-There are seven disciplines in the Forbidden Lands core game - four of sorcery and three of druidic magic. Every discipline is linked to a specific talent (see Chapter 4), that is a prerequisite to be able to cast spells within each discipline.
+There are seventeen disciplines in the Forbidden Lands — eight of sorcery and nine of druidic magic. Every discipline is linked to a specific talent (see Chapter 4), that is a prerequisite to be able to cast spells within each discipline.
+
+#### RARITY AND SECRECY
+
+Not all disciplines are equal in the eyes of the world. Some are known and tolerated. Others will get you hanged, burned, or worse. The table below shows how the common folk regard each discipline and how difficult it is to find someone willing to teach it.
+
+**Rarity** describes public perception. _Known_ means people have seen it and accept it. _Strange_ draws suspicion and whispered rumors. _Disturbing_ provokes fear and hostility. _Prohibited_ means practicing it openly is a death sentence in most settlements.
+
+**Secrecy** describes teacher access. _Initiation_ means a willing teacher can be found in most regions with effort. _Demonstration_ means you must prove your worth or your need before a teacher will reveal the path. _Journey_ means the discipline is guarded by remote, secretive, or dangerous masters — learning it requires a quest in its own right.
+
+| Discipline      | Rarity     | Secrecy       |
+| --------------- | ---------- | ------------- |
+| General Spells  | —          | —             |
+| Healing         | Known      | Initiation    |
+| Shapeshifting   | Strange    | Demonstration |
+| Awareness       | Strange    | Initiation    |
+| Symbolism       | Disturbing | Demonstration |
+| Stone Song      | Strange    | Demonstration |
+| Blood Magic     | Prohibited | Journey       |
+| Death Magic     | Prohibited | Journey       |
+| Demonic Magic   | Prohibited | Journey       |
+| Elemental Magic | Disturbing | Journey       |
+| Ice Affinity    | Strange    | Initiation    |
+| Nature          | Known      | Initiation    |
+| Swarm Magic     | Disturbing | Demonstration |
+| Magma Song      | Disturbing | Journey       |
+| Mentalism       | Strange    | Demonstration |
+| Oneiromancy     | Disturbing | Journey       |
+| Magnetism       | Disturbing | Journey       |
+
+These classifications carry no mechanical weight. They are a guide for the GM when deciding how townsfolk react to witnessed magic, how hard it is to locate a teacher, and what consequences follow when a caster is careless about who sees them work.
 
 ### LEARNING MAGIC
 
 To learn a new discipline, or increase your rank in a discipline you already know, you should find a master with a higher rank than you in the magic talent and who is ready to share their secrets with you. This can require both persuasion and substantial compensation. Without a teacher, the cost in XP for increasing the rank in a magical talent or learning a new one is tripled.
+
+**MAGICAL TALENT RANKS:** Magical talents are not limited to rank 3 like other talents. Many disciplines contain spells at rank 4, 5, and 6. The talent can be increased to match.
+
+**FREE SPELLS:** When you increase a magical talent, you learn 2 spells of that rank or lower for free. These are the spells your teacher imparted, or the ones you grasped through solitary study.
+
+**LEARNING ADDITIONAL SPELLS:** Any spell within your disciplines and at or below your talent rank can be learned by paying XP equal to the spell's rank and spending one Quarter Day in meditation and focused practice. You do not need a teacher or grimoire for non-ritual spells. Rituals and epic magic are different — the exacting structure of a ritual cannot be reconstructed from intuition alone, and the forces bound into epic spells are too vast and too dangerous to grope toward in the dark. To learn a ritual or an epic spell, you must either find a teacher who knows it or study a grimoire that contains it. The XP cost and one Quarter Day of study still apply, but the teacher or grimoire is required.
 
 ### SPELLS
 
@@ -28,7 +64,7 @@ All spells in this chapter are rated in ranks ranging from 1 to 3. There can be 
 
 Spells come in three kinds, each demanding something different of the caster.
 
-**Spells** are the bread and cloth of a magic user's work. Most require a slow action in combat. They summon flame, bend minds, call beasts, raise barriers, or twist fate in ways that linger. They are what an apprentice spends years learning to aim.
+**SPELLS** are the bread and cloth of a magic user's work. Most require a slow action in combat. They summon flame, bend minds, call beasts, raise barriers, or twist fate in ways that linger. They are what an apprentice spends years learning to aim.
 
 **POWER WORDS** are sharp, instantaneous utterances — a syllable of command that cuts through the moment before thought can follow. They are fast actions, and crucially, they can be used _outside your turn_ in direct response to what an enemy does. When a blade swings toward you, you may answer with a POWER WORD just as you would answer with PARRY or DODGE. A shield of force, a binding syllable, a word that stops — these are the tools of a caster who has survived long enough to stop reaching for a sword. Which spells qualify as POWER WORDS is noted in each spell entry.
 
@@ -81,6 +117,19 @@ Writing down a spell requires you to first cast it once (chance casting doesn't 
 
 Most spells in this chapter list ingredients or objects required to cast them. Once the spell is cast, the ingredient has been spent and cannot be used again to cast spells, unless listed otherwise.
 
+### BURN
+
+When desperation outweighs caution, a caster may burn their own body to fuel a spell. At the moment of casting, you may declare a burn. Choose how many points you burn — the maximum is your rank in the spell's discipline. For each point burned, roll a D8 and apply 1 point of damage to the indicated attribute:
+
+| D8  | Attribute |
+| --- | --------- |
+| 1–2 | Strength  |
+| 3–4 | Agility   |
+| 5–6 | Wits      |
+| 7–8 | Empathy   |
+
+Each point burned grants you 1 temporary Willpower Point that can only be spent on the spell being cast. These WP vanish if not used on the triggering spell. You choose how much to burn, but you do not choose where the damage falls. A sorcerer bleeding three points of vitality into a final spell may cripple the limb she needed to run, or hollow out the clarity she needed to survive the aftermath.
+
 ### RITUALS
 
 Some complicated spells can't be cast as an action in combat, as they require more time and preparation. A typical ritual takes a Quarter Day to perform. Rituals often have other prerequisites, such as ingredients that must be used to perform the ritual.
@@ -95,18 +144,16 @@ Some ingredients count as corrupted ingredient, i.e. they count as an ingredient
 
 #### INGREDIENTS
 
-| Ingredient                    | Effect                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Attribute loss (+1):          | Permanently reduce one of your attributes by 1. For each attribute you have already lost to age, you may do this once for free.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Monster heart (+X):           | The heart or object closest resembling a heart from a monster with _10_ Strength. The object must be used within 1 week, or the effect is lost. Can add one ingredient level per 10 points of Strength.                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Life goal (+1):               | A strong emotion that this will fulfill or will be the hallmark of someone’s goals in life. Even if the person has aims in life goals, this effect is spent.                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| Elven ruby (+1/+2):           | If it is an item, you can let a willing elven ruby (likely your own, killing your body) empower it for as long as it remains attached. It can then only empower permanent effects. This counts as two ingredient levels. You may also use elven ruby dust (make a resource roll to check if all remaining dust is consumed), that counts as a single ingredient level, and the dust will be destroyed.                                                                                                                                                                                                                    |
-| Spellcaster help (+1):        | You have the help of more spellcasters, summarize the highest ranks of magic of all members; it needs to be _3_ or higher.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| Place of an event (+1/+2/+3): | You are in a location where an event took place that will have an everlasting effect on the lands. Like +1 could be that a village was saved from doom, +2 could be something of more importance to the land than a single village, often significantly affecting 300 or more lives, and +3 would have massive effect on an entire map, like the vanishing of a powerful sovereign that given time could have claimed the entire map region (like the whole of the Forbidden Lands) if not the event had occurred. A single event can only be used once to power an artifact and must be used within a year of occurring. |
-
-**SACRIFICE:** (+1/+2, most often corrupted) You sacrifice someone to create the item. If the target is unwilling, this counts as a corrupted ingredient. If the sacrifice is particularly large like a large group of individuals, it counts as if two likely corrupted ingredients. If you sacrifice yourself, you count as a level 2 ingredient without adding corruption. No one sacrificed to create a Epic spell can be resurrected, at least not without first reversing the effect of the spell.
-
-**IMPURE MOTIVES/CONFLICTED EMOTIONS:** (+1, corrupted). You or someone helping you are doing this for power, or are stressed, or afflicted by any other emotions that are sucked into the casting of the spell. Circumstances like if a monster was hunted just to gain a powerful artifact heart will count as an impure action.
+| Ingredient                                          | Effect                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Attribute loss (+1):                                | Permanently reduce one of your attributes by 1. For each attribute you have already lost to age, you may do this once for free.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Monster heart (+X):                                 | The heart or object closest resembling a heart from a monster with _10_ Strength. The object must be used within 1 week, or the effect is lost. Can add one ingredient level per 10 points of Strength.                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Life goal (+1):                                     | A strong emotion that this will fulfill or will be the hallmark of someone’s goals in life. Even if the person has aims in life goals, this effect is spent.                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Elven ruby (+1/+2):                                 | If it is an item, you can let a willing elven ruby (likely your own, killing your body) empower it for as long as it remains attached. It can then only empower permanent effects. This counts as two ingredient levels. You may also use elven ruby dust (make a resource roll to check if all remaining dust is consumed), that counts as a single ingredient level, and the dust will be destroyed.                                                                                                                                                                                                                    |
+| Spellcaster help (+1):                              | You have the help of more spellcasters, summarize the highest ranks of magic of all members; it needs to be _3_ or higher.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Place of an event (+1/+2/+3):                       | You are in a location where an event took place that will have an everlasting effect on the lands. Like +1 could be that a village was saved from doom, +2 could be something of more importance to the land than a single village, often significantly affecting 300 or more lives, and +3 would have massive effect on an entire map, like the vanishing of a powerful sovereign that given time could have claimed the entire map region (like the whole of the Forbidden Lands) if not the event had occurred. A single event can only be used once to power an artifact and must be used within a year of occurring. |
+| Sacrifice (+1/+2, most often corrupted):            | You sacrifice someone to create the item. If the target is unwilling, this counts as a corrupted ingredient. If the sacrifice is particularly large like a large group of individuals, it counts as if two likely corrupted ingredients. If you sacrifice yourself, you count as a level 2 ingredient without adding corruption. No one sacrificed to create a Epic spell can be resurrected, at least not without first reversing the effect of the spell.                                                                                                                                                               |
+| Impure motives/conflicted emotions (+1, corrupted): | You or someone helping you are doing this for power, or are stressed, or afflicted by any other emotions that are sucked into the casting of the spell. Circumstances like if a monster was hunted just to gain a powerful artifact heart will count as an impure action.                                                                                                                                                                                                                                                                                                                                                 |
 
 ### MAGIC MISHAP TABLES
 
@@ -141,6 +188,7 @@ The magic disciplines differ, but there are certain effects and spells that all 
 
 | SPELL                   | RANK |
 | ----------------------- | ---- |
+| Empower Spell           | 1    |
 | Magical Seal            | 1    |
 | Pass Magical Resilience | 1    |
 | Prestidigitation        | 1    |
@@ -151,6 +199,7 @@ The magic disciplines differ, but there are certain effects and spells that all 
 | Hold Magic              | 2    |
 | Obscure Magic           | 2    |
 | Bind Magic              | 3    |
+| Contain Spell           | 3    |
 | Prepare Magic           | 3    |
 | Stabilize Magic Zone    | 3    |
 | Stabilize Spell         | 3    |
@@ -162,8 +211,18 @@ The magic disciplines differ, but there are certain effects and spells that all 
 | Unearth Magic           | 4    |
 | Absorb Magical Residue  | 5    |
 | Create Artifact         | 5    |
+| Anti-Magic Zone         | 6    |
 | God Spell               | 6    |
 | Transcendence           | 6    |
+
+#### EMPOWER SPELL
+
+✦ **RANK** 1, **POWER WORD**
+✦ **RANGE**: Near
+✦ **DURATION**: Immediate
+✦ **INGREDIENT**: Candle
+
+You reach into another caster's spell at the moment of its release and feed it with your own will. As a fast action, you increase the Power Level of one allied spell being cast this round by 1. Your Empower Spell's Power Level must match or exceed the target spell's current Power Level. This spell is reactive and breaks initiative order — you may cast it in direct response to an ally's spell.
 
 #### MAGICAL SEAL
 
@@ -299,6 +358,15 @@ For sorcerous magic, it requires you to have a structure where you can inscribe 
 For druidic magic, it requires setting up a circle of stones in a groove or other suitable place in the nature. This takes 1 week and requires a crafting roll and hewn natural stone with a combined weight of at least 20 units.
 
 Every Power Level can stabilize one path of magic, but it must be a path you know. You do not need to make new crafting rolls to recast this spell, as long as the location has not been damaged. If it is, its effects immediately end.
+
+#### CONTAIN SPELL
+
+✦ **RANK** 3
+✦ **RANGE**: Arm's Length
+✦ **DURATION**: Quarter Day per Power Level
+✦ **INGREDIENT**: Aquamarine
+
+You cast this spell alongside another spell you know. Instead of releasing the second spell, you trap it inside an object you hold. The contained spell waits, coiled and silent, until you release it as a fast action. When released, the spell resolves with the Power Level it had when it was contained. Both spells — Contain Spell and the stored spell — roll separately for overcharge and mishap at the time of containment. If the contained spell is not released before the duration expires, it dissipates harmlessly. You can only contain one spell at a time. Rituals cannot be contained.
 
 #### STABILIZE SPELL
 
@@ -456,6 +524,15 @@ _Shapeshifting_: You take on animal traits and cannot leave a half-shapeshifted 
 
 _Sight_: Seeing so much takes its toll on your body. Your eyes change color and your skin and hair become pale. Take a permanent -2 penalty to _endurance_ and gain permanent true sight.
 
+#### ANTI-MAGIC ZONE
+
+✦ **RANK** 6, **RITUAL**
+✦ **RANGE**: Long
+✦ **DURATION**: One day
+✦ **INGREDIENT**: Aquamarine
+
+You draw a boundary of silence into the fabric of magic itself. For one day, all spells cast within the affected area reduce their Power Level by an amount equal to the ritual's Power Level. This affects every caster in the zone, yourself included. Spells reduced to Power Level zero or less fail outright. The zone is fixed — it does not move with you. Existing magical effects within the area are not dispelled, but any new casting is suppressed.
+
 #### GENERAL SPELLS MISHAPS
 
 | D66   | EFFECT                                                                                                                                                                                                                                                                           |
@@ -488,33 +565,35 @@ The true calling of the Druid is to further nature's cause and to heal its wound
 
 ### HEALING MAGIC
 
-| SPELL           | RANK |
-| --------------- | ---- |
-| Cleanse Spirit  | 1    |
-| Healing Hands   | 1    |
-| Nature's Cure   | 1    |
-| Preserve        | 1    |
-| Rinse           | 1    |
-| Banish Demon    | 2    |
-| Immunity        | 2    |
-| Mend Self       | 2    |
-| Mend Wounds     | 2    |
-| Purge Undead    | 2    |
-| Calm Emotions   | 3    |
-| Invigorate      | 3    |
-| Lift Curse      | 3    |
-| Rejuvenation    | 3    |
-| Resurrection    | 3    |
-| Rite of Passage | 3    |
-| Serenity        | 3    |
-| Weathermaster   | 3    |
-| Healing Trance  | 4    |
-| Regeneration    | 4    |
-| Tranquility     | 4    |
-| Holy Ward       | 5    |
-| Purge Magic     | 5    |
-| Restoration     | 5    |
-| Restore Life    | 6    |
+| SPELL             | RANK |
+| ----------------- | ---- |
+| Cleanse Spirit    | 1    |
+| Healing Hands     | 1    |
+| Nature's Cure     | 1    |
+| Preserve          | 1    |
+| Relieve Condition | 1    |
+| Rinse             | 1    |
+| Banish Demon      | 2    |
+| Immunity          | 2    |
+| Mend Self         | 2    |
+| Mend Wounds       | 2    |
+| Purge Undead      | 2    |
+| Bend Demon        | 3    |
+| Calm Emotions     | 3    |
+| Invigorate        | 3    |
+| Lift Curse        | 3    |
+| Rejuvenation      | 3    |
+| Resurrection      | 3    |
+| Rite of Passage   | 3    |
+| Serenity          | 3    |
+| Weathermaster     | 3    |
+| Healing Trance    | 4    |
+| Regeneration      | 4    |
+| Tranquility       | 4    |
+| Holy Ward         | 5    |
+| Purge Magic       | 5    |
+| Restoration       | 5    |
+| Restore Life      | 6    |
 
 #### CLEANSE SPIRIT
 
@@ -751,6 +830,24 @@ You can restore permanently lost attribute points. To restore an attribute lost 
 
 This is an Epic Spell, see the description for those in this booklet. Each Power Level requires an ingredient. It allows you to channel nature's forces to bring back someone from the dead, not as undead, but truly alive. You do not even need the body of the target; the spell can recreate it, removing any permanent physical injuries as you see fit, also removing what is left of any corpse out there in the world. It cannot reverse age, or a shattered elven ruby, but can create a new body for an intact ruby. The more time that has passed since the target died, the more difficult it is to convince it to return. For each week that has passed since the target died, the spell requires an additional Power Level. A target that does not know you well, might also need to be convinced to return with a successful _manipulation_ roll.
 
+#### RELIEVE CONDITION
+
+✦ **RANK** 1
+✦ **RANGE**: Arm's Length
+✦ **DURATION**: Quarter Day per Power Level
+✦ **INGREDIENT**: Incense
+
+You lay hands upon a suffering creature and ease its burdens without curing them. For the duration, the target ignores the effects of one condition — Hungry, Thirsty, Cold, or Sleepy — per Power Level. The conditions remain; the body simply holds them at bay. When the spell ends, every suppressed condition returns in full. You cannot use this spell on yourself.
+
+#### BEND DEMON
+
+✦ **RANK** 3
+✦ **RANGE**: Near
+✦ **DURATION**: Immediate
+✦ **INGREDIENT**: Sacred symbol
+
+You turn the healing light inward against a demon's will. The target demon suffers damage to Wits equal to the Power Level. If the demon is Broken by this damage, it is banished to its home dimension. Against misgrown creatures, the damage is halved (round down). Where Banish Demon batters the body, this spell cracks the mind.
+
 #### HEALING MAGIC MISHAPS
 
 | D66   | EFFECT                                                                                                                                                                                                 |
@@ -796,6 +893,7 @@ Druids are closely connected to nature, and the shapeshifters are even more so i
 | Animal Form      | 3    |
 | Bat's Claws      | 3    |
 | Call Animal      | 3    |
+| Inhabit Animal   | 3    |
 | Primal Soul      | 3    |
 | Wolf's Nose      | 3    |
 | Animal Animosity | 4    |
@@ -1022,6 +1120,15 @@ While in range, the creatures will also understand your feelings toward things, 
 
 When the duration ends, your sway over them decays and the creatures will return to nature. It is not impossible that they could cause some unwanted devastation while there or on their way out though.
 
+#### INHABIT ANIMAL
+
+✦ **RANK** 3
+✦ **RANGE**: Near
+✦ **DURATION**: One turn per Power Level
+✦ **INGREDIENT**: A piece of the animal (fur, feather, scale)
+
+You send your mind into a living animal within Near range. Your own body falls unconscious and remains where it lies — defenseless and unaware. While inhabiting the animal, you perceive the world through its senses and direct its movements, though you cannot make it act against its nature in ways that would destroy it. You use the animal’s physical attributes and natural abilities, but your own Wits and Empathy. You cannot cast spells while inhabiting the animal. If the animal is killed, you snap back to your body and suffer 1 point of Wits damage from the shock. The spell ends when the duration expires, or when you choose to return as a free action.
+
 #### SHAPESHIFTING MISHAPS
 
 | D66   | EFFECT                                                                                                                                                                                                   |
@@ -1056,12 +1163,14 @@ Druids who practice Awareness can see what others cannot see, hear what others c
 | ------------------- | ---- |
 | Lightbringer        | 1    |
 | Recall Memory       | 1    |
+| Transfer Senses     | 1    |
 | True Sight          | 1    |
 | True Strike         | 1    |
 | Words on the Wind   | 1    |
 | Compel Truth        | 2    |
 | Farsight            | 2    |
 | Portent             | 2    |
+| Predict Moves       | 2    |
 | True Path           | 2    |
 | Visions of the Past | 2    |
 | Divination          | 3    |
@@ -1281,6 +1390,24 @@ You can send a message to your past self. It could be "last time we were in town
 
 You and your party members travel backwards in time, keeping all your memories intact. At Power Level 1 your consciousness will travel 1 round backwards in time, at PL 2 you will travel 1 turn (15-minutes), PL 3 a Quarter Day, PL 4 a day and PL 5 a week. You keep all accumulated experience (XP), but all worn items, etc., will be restored to their previous forms and owners.
 
+#### TRANSFER SENSES
+
+✦ **RANK** 1
+✦ **RANGE**: Arm's Length
+✦ **DURATION**: One turn per Power Level
+✦ **INGREDIENT**: A piece of the animal (feather, hair, scale)
+
+You press a fragment of the beast against your skin and your own senses go dark. For the duration, you perceive through the eyes, ears, and nose of one animal you can touch at the time of casting. You see what it sees, hear what it hears, smell what it smells. Your own body stands blind and deaf, unable to act or defend itself. If the animal moves beyond Long range, the link snaps and your senses return. Useful for scouting a ruin through a rat, watching a camp through a hawk, or listening through a dog's ears at a guarded door.
+
+#### PREDICT MOVES
+
+✦ **RANK** 2
+✦ **RANGE**: Near
+✦ **DURATION**: One round per Power Level
+✦ **INGREDIENT**: Animal bone
+
+You read the threads of intent that run ahead of action. For the duration, choose one enemy you can see each round. The GM must tell you that enemy's intended action — attack, movement, spell, or retreat — before you declare your own. This does not prevent the enemy from acting; it only ensures you are never surprised by what they choose. Each additional Power Level beyond the first lets you read one additional enemy per round.
+
 #### AWARENESS MISHAPS
 
 | D66   | EFFECT                                                                                                                                                                                                                  |
@@ -1313,6 +1440,8 @@ The discipline of Symbolism uses runes, esoteric signs and symbols that reflect 
 
 **DRAW OR CARVE:** Symbolism requires no ingredients apart from the symbols themselves. If they are carved or drawn in any way, they count as ingredients from a rule standpoint, meaning that the Power Level is increased by one. Drawing a symbol takes a few minutes and cannot be done in the heat of battle. Carving a symbol into stone takes one Quarter Day or more. The Sorcerer decides when the symbol is activated. Even a drawn or carved symbol only works once.
 
+**INSCRIBED SYMBOLS:** Instead of casting a symbol spell immediately, you may inscribe it onto a surface. This takes one minute per spell rank and requires ink or a sharp tool. The inscribed symbol holds its power until triggered by a condition you set when inscribing — a creature crossing a threshold, a hand touching the mark, a spoken word. The spell resolves with the Power Level achieved when you inscribed it. An inscribed symbol is visible to anyone who looks, but its magical nature can only be detected with Sense Magic or similar effects. Once triggered, the symbol is spent.
+
 | SPELL             | RANK |
 | ----------------- | ---- |
 | Arcane Mark       | 1    |
@@ -1320,6 +1449,7 @@ The discipline of Symbolism uses runes, esoteric signs and symbols that reflect 
 | Horrify           | 1    |
 | Inscribe          | 1    |
 | Paralyze          | 1    |
+| Warning           | 1    |
 | Blind             | 2    |
 | Falsify Magic     | 2    |
 | Illusion          | 2    |
@@ -1329,6 +1459,7 @@ The discipline of Symbolism uses runes, esoteric signs and symbols that reflect 
 | Power Rune        | 3    |
 | Puppeteer         | 3    |
 | Vanish            | 3    |
+| Animate Object    | 4    |
 | Blink             | 4    |
 | Hold              | 4    |
 | Recall            | 4    |
@@ -1551,6 +1682,24 @@ You can read and fully understand everything regarding a single magical artifact
 
 If it is used on a magical spell that you saw in action during the past turn, or one you can read about in a grimoire, or similar, it can give you a rune of that spell per Power Level. Such runes can be used by you, to (once per rune) be able to recast the spell as if they were from the Symbolism discipline. These runes themselves does not store any Power Levels, so you decide upon using them how many Willpower Points you want to spend on it. These runes also do not count towards the spell's ingredients; so, see the spell's original description for those.
 
+#### WARNING
+
+✦ **RANK** 1
+✦ **RANGE**: Short
+✦ **DURATION**: Quarter Day per Power Level
+✦ **INGREDIENT**: Ink
+
+You inscribe a symbol across a threshold — a doorway, a path between two trees, the mouth of a cave. For the duration, whenever a creature crosses that boundary, you are alerted. The warning comes as a sharp pulse in the back of your skull, unmistakable and immediate, regardless of distance. It tells you something crossed, but not what. You can maintain one Warning per Power Level.
+
+#### ANIMATE OBJECT
+
+✦ **RANK** 4
+✦ **RANGE**: Near
+✦ **DURATION**: One turn per Power Level
+✦ **INGREDIENT**: A piece of the object's material
+
+You breathe a symbol of motion into a lifeless thing and it obeys. The object rises, moves, and follows your verbal commands for the duration. Its Strength and Agility depend on its size and weight, at the GM's discretion — a chair might have Strength 2 and Agility 3, a stone statue Strength 6 and Agility 1. The object has no mind, no judgment, and no initiative. It does exactly what you say, nothing more. If destroyed, it collapses into its original components.
+
 #### SYMBOLISM MISHAPS
 
 | D66   | EFFECT                                                                                                                                                                                                    |
@@ -1580,6 +1729,8 @@ If it is used on a magical spell that you saw in action during the past turn, or
 ### STONE SONG
 
 Stone singing originated among the dwarves, and helps them shape the bedrock of the world according to the mission from their god Huge. The discipline has spread from the dwarves to the elves and humans, who have also found good use for this form of magic. Dwarven clans guard the higher mysteries jealously - most outsiders are never taught beyond rank 1, and only close friends of dwarven kin are trusted with rank 2. Rank 3 and above are almost always kept within the clans.
+
+**INSTRUMENTS:** Stone Song is channeled through voice and instrument — a horn carved from mountain bone, a drum stretched with goat-hide, a bone flute tuned to the pitch of deep stone. These instruments are not consumed by casting. The same horn can channel a thousand spells. What matters is the song, not the sacrifice.
 
 | SPELL                 | RANK |
 | --------------------- | ---- |
@@ -1880,6 +2031,8 @@ The spell can only be used while in a mountain range.
 
 Blood magic derives its power from life itself and its liquid essence—blood. Through the power of blood, the Sorcerer can both benefit and bleed the target of his spells.
 
+**BLOOD ROT:** Blood used as a spell ingredient must be fresh — drawn from a living creature within the last two quarter days. Blood from the dead is useless. A vial filled at dawn is spent by nightfall. This keeps the path honest: blood magic feeds on life, not carrion.
+
 | SPELL               | RANK |
 | ------------------- | ---- |
 | Blood Oath          | 1    |
@@ -1902,6 +2055,7 @@ Blood magic derives its power from life itself and its liquid essence—blood. T
 | Call Demon          | 4    |
 | Repel               | 4    |
 | Clone               | 5    |
+| Create Bloodling    | 5    |
 | Demonic Pact        | 5    |
 | Redirecting Barrier | 5    |
 | Life Bond           | 6    |
@@ -2146,6 +2300,15 @@ You can enact an invisible barrier that diverts the path of those that wants to 
 Select a number of humanoid non-monster targets up to one more than the spells Power Level, minimum 2. You are allowed to select yourself. Whenever one of the targets suffer Strength damage, any such damage is split between them all, as evenly as possible, starting with the one that suffered the damage. If one participant suffers a critical injury, the same injury is inflicted on all the others, even if they are not Broken. Any healing is done separately and will thus only affect one target at a time.
 
 You can cut out a being from the life bond spell as a FREE action, as long as it is within NEAR range. The spell will also cut off a creature as soon as their Strength attribute becomes Broken. Any one target can only have one active life bond. Binding a new will cancel any old, but note that a single life bond can be shared between more than two targets.
+
+#### CREATE BLOODLING
+
+✦ **RANK** 5
+✦ **RANGE**: Arm's Length
+✦ **DURATION**: One Quarter Day per Power Level
+✦ **INGREDIENT**: A quantity of blood (consumed)
+
+You shape spilled blood into a small, semi-living servant — a bloodling. It has Strength 1 and Agility 3, can squeeze through any gap wider than a finger, sees in darkness, and obeys simple commands: scout a room, carry a message, retrieve a small object. It cannot fight and is destroyed by a single point of damage. The caster sees and hears whatever the bloodling perceives, though doing so requires concentration (a slow action each round). The bloodling dissolves into red mist when the duration ends or if it moves beyond Long range from the caster.
 
 #### BLOOD MAGIC MISHAPS
 
@@ -2462,21 +2625,38 @@ Elemental magic is the art of manipulating the very building blocks of existence
 
 **INGREDIENTS:** For Elemental Magic, ingredients work differently from other disciplines. To cast an elemental spell you must have access to a specific ingredient, usually one of the four elements. You can only manipulate the elements, not create them out of thin air. The ingredient does not grant the normal bonus for spell ingredients. Instead, it is a requirement to cast the spell. For some spells, you can choose which ingredient you use.
 
+**ELEMENTAL ENVIRONMENT:** When you cast an Elemental Magic spell in the presence of a strong or overwhelming source of the relevant element, the environment itself feeds the spell. This is a flat Power Level bonus — no extra dice, no extra mishap exposure. The bonus does not apply to effects the spell itself created. You cannot stand in your own Fireball to fuel a second one. The GM makes the final call on which tier applies. When in doubt, round down.
+
+_Fire:_ Safe flames — torches, campfires, hearths — grant no bonus. A large fire in close quarters, heat enough to blister, embers drifting onto clothing: **+1 Power Level.** Inside a burning structure or surrounded by burning terrain, where staying requires a MOVE roll each round to avoid catching fire: **+2 Power Level.**
+
+_Water:_ Calm water — rain, still shallows, a quiet lake — grants no bonus. Strong current, rough sea, or flood water knee-deep or deeper, actively resisting movement: **+1 Power Level.** Fully submerged, unable to breathe, requiring a MIGHT roll to surface: **+2 Power Level.**
+
+_Wind:_ Anything below gale strength grants no bonus. A sustained gale on a cliff edge, mountain pass, or open sea deck, where footing is actively threatened: **+1 Power Level.** A full storm with lightning striking nearby, close enough that a MOVE roll may be needed to stay standing: **+2 Power Level.**
+
+_Earth:_ Soil, worked stone, and shallow caves touched by human hands grant no bonus. Inside a natural cave or tunnel with unworked rock on all sides and no sky visible: **+1 Power Level.** Unstable ground where collapse is a real risk (MOVE roll each round), or deep enough that breathable air is uncertain (ENDURANCE roll), or lava present and flowing: **+2 Power Level.**
+
+Multi-element spells use the bonus from whichever element the caster chose for that casting. Bonuses from multiple elements cannot stack. A caster who engineers their environment — building a bonfire ring before a fight, choosing to engage underground, wading into a river before casting — is playing the discipline correctly.
+
 | SPELL              | RANK |
 | ------------------ | ---- |
 | Combustion         | 1    |
+| Deviation          | 1    |
 | Flaming Blade      | 1    |
 | Sunder             | 1    |
 | Suffocate          | 1    |
 | Water Breathing    | 1    |
+| Dense Fog          | 2    |
+| Fire Resistance    | 2    |
 | Flight             | 2    |
 | Heat of the Moment | 2    |
+| Impulse            | 2    |
 | Parch              | 2    |
 | Rock Storm         | 2    |
 | Wind Blast         | 2    |
 | Elemental Shield   | 3    |
 | Fireball           | 3    |
 | Flood Wave         | 3    |
+| Pressure Jet       | 3    |
 | Stoneskin          | 3    |
 | Tornado            | 3    |
 | Elemental Infusion | 4    |
@@ -2730,6 +2910,51 @@ You can fully control the chosen element within short range. This control follow
 | Water  | You can as a fast action raise the water level (as long as there is a source), lower, split or shape it. You can have it slush around, forcing MOVE rolls to avoid falling and/or being pushed. You can as a free action use a Power Level 1 water spell each round, even if you do not know it. None of these effects cost you any extra WP or rolls any magical dice.                                                             |
 | Wind   | You take complete control of the wind in the area. You can as a fast action allow people to jump twice as far, halving fall damage, making both land and air count as rough terrain, and/or giving all ranged attacks a -2 modifier. You can as a free action use a Power Level 1 air spell each round, even if you do not know it. None of these effects cost you any extra WP or rolls any magical dice.                          |
 
+#### DEVIATION
+
+✦ **RANK** 1, **POWER WORD**
+✦ **RANGE**: Personal
+✦ **DURATION**: Immediate
+✦ **INGREDIENT**: Wind
+
+You snap a syllable and the air answers. As a fast action, you deflect one incoming ranged attack against you or an ally within Arm's Length. The projectile veers wide and misses. Each additional Power Level deflects one additional ranged attack in the same round. This spell is reactive and breaks initiative order. It cannot deflect siege weapons or spells.
+
+#### DENSE FOG
+
+✦ **RANK** 2
+✦ **RANGE**: Near
+✦ **DURATION**: One round per Power Level
+✦ **INGREDIENT**: Water
+
+You pull moisture from the air and thicken it into a wall of grey nothing. One zone fills with impenetrable fog. All ranged attacks through or into the zone are impossible. Melee attacks within it suffer –2. Creatures inside cannot see beyond Arm's Length. The fog does not move with you.
+
+#### FIRE RESISTANCE
+
+✦ **RANK** 2
+✦ **RANGE**: Arm's Length
+✦ **DURATION**: One turn per Power Level
+✦ **INGREDIENT**: Fire
+
+You wrap yourself or a willing target in a sheath of tamed heat. For the duration, reduce all fire damage taken by the target by an amount equal to the Power Level. This includes damage from Combustion, Fireball, catching fire, burning terrain, and dragon breath. It does not protect against other elements.
+
+#### IMPULSE
+
+✦ **RANK** 2
+✦ **RANGE**: Near
+✦ **DURATION**: One round per Power Level
+✦ **INGREDIENT**: Wind
+
+You harness a gust of sustained wind behind yourself or an ally within range. The target's Movement Rate increases by 1 for the duration. Each additional Power Level beyond the first can either extend the duration or boost one additional target's Movement Rate by 1.
+
+#### PRESSURE JET
+
+✦ **RANK** 3
+✦ **RANGE**: Near
+✦ **DURATION**: Immediate
+✦ **INGREDIENT**: Water
+
+You draw water from the ground, from the air, or from a nearby source and compress it into a single concentrated stream that strikes one target. The jet deals damage equal to the Power Level. Armor applies. The target must make a MIGHT roll or be knocked prone. Against wooden structures and barricades, the jet deals double damage.
+
 #### ELEMENTAL MAGIC MISHAPS
 
 | D66   | EFFECT                                                                                                                                                                                                   |
@@ -2767,12 +2992,15 @@ Druids in the Bitter Reach often dedicate themselves to the discipline of Ice Af
 | Arrows of Ice  | 1    |
 | Winter Grip    | 1    |
 | Condense Water | 2    |
+| Frost Armor    | 2    |
+| Glacial Path   | 2    |
 | Zone of Cold   | 2    |
 | Armor of Ice   | 3    |
 | Winter's Call  | 3    |
 | Crystalize     | 4    |
 | Encase         | 4    |
 | Mold Ice       | 4    |
+| Shatter        | 4    |
 | Wall of Ice    | 4    |
 | Citadle of Ice | 5    |
 | Glacial Snap   | 5    |
@@ -2900,6 +3128,33 @@ The spell is centered on you, and moves with you. It can be made to exclude a NE
 A COLD target must succeed an Endurance roll with a penalty equal to the Power Level or become your thrall, following your commands just as if they were a mindless undead. It matters not if they are human, undead or so on.
 
 This spell will immediately end if a thrall comes into contact with fire or loses the COLD condition.
+
+#### FROST ARMOR
+
+✦ **RANK** 2
+✦ **RANGE**: Arm's Length
+✦ **DURATION**: One round per Power Level
+✦ **INGREDIENT**: Ice or snow
+
+You coat yourself or a willing target in a shell of crystalline ice. The armor grants an Armor Rating equal to the Power Level for the duration. Anyone striking the wearer in melee takes 1 point of cold damage from the frozen surface. The ice cracks and melts as it absorbs punishment — when the duration expires, it runs off in rivulets.
+
+#### GLACIAL PATH
+
+✦ **RANK** 2
+✦ **RANGE**: Near per Power Level
+✦ **DURATION**: One turn per Power Level
+✦ **INGREDIENT**: Ice or snow
+
+You freeze a path across water, mud, swamp, or any unstable terrain. The path is two meters wide and extends up to Near range per Power Level. It bears the weight of armored warriors and loaded pack animals. When the spell ends, the ice cracks and sinks. Anyone still on it when it fails must make a MOVE roll to reach solid ground or fall into whatever lies beneath.
+
+#### SHATTER
+
+✦ **RANK** 4
+✦ **RANGE**: Near
+✦ **DURATION**: Immediate
+✦ **INGREDIENT**: Ice or snow
+
+You reach into something already gripped by cold and break it apart. The target must be affected by a cold or ice condition — frozen, encased, or standing on natural ice or in a Zone of Cold. The spell deals damage equal to twice the Power Level. Armor applies. Against ice-encased objects and structures, Shatter ignores Armor Rating entirely. This spell has no effect on targets that are not already cold-afflicted.
 
 #### ICE AFFINITY MISHAPS
 
@@ -3808,6 +4063,8 @@ A target that takes almost no defensive or hostile actions during the duration o
 
 The moon elves of Anoma beyond the seas were masters of mentalism, a magical tradition that affects the perception, memory, and will of intelligent creatures. They stole the Eighth Mother from the worm people and fled, first to Ravenland and then onwards to Aslene. Modern moon elves have lost much of this knowledge, but are still excellent manipulators. Mentalism is native to the Bloodmarches. Elsewhere its spells are rare and should only be taken with the GM's approval.
 
+**INFLUENCE:** Mentalism spells require no physical ingredients. Crushing a beetle or burning incense to force your will into another mind is a sorcerer's crutch, not a mentalist's. Instead, to gain the +1 Power Level that ingredients normally provide, you must speak directly to your target — your words, tone, and gestures channel the magical intent. The subject of conversation does not matter. What matters is the directed attention.
+
 | SPELL                 | RANK |
 | --------------------- | ---- |
 | Compartmentalize Mind | 1    |
@@ -3818,12 +4075,14 @@ The moon elves of Anoma beyond the seas were masters of mentalism, a magical tra
 | Amnesia               | 2    |
 | Confusion             | 2    |
 | Mind Blast            | 2    |
+| Mind Shield           | 2    |
 | Mirror Images         | 2    |
 | Truth Sense           | 2    |
 | Break Mind            | 3    |
 | False Shape           | 3    |
 | Fata Morgana          | 3    |
 | Geas                  | 3    |
+| Implant Memory ✦      | 3    |
 | Time Stop             | 3    |
 | Body Swap             | 4    |
 | Mass Confusion        | 4    |
@@ -4076,6 +4335,24 @@ This ritual can be used to permanently alter time within a location or move a lo
 You plant thoughts in your target's head. Unless the target succeeds an INSIGHT roll with a penalty equal to the spell's Power Level, you can rewrite their personality and very thoughts, but unless you obscured the magic at least others would know you cast a spell on them. Your ability to rewrite their mind lingers for as long as you both remain within short range. But any rewrite you have done will remain permanently.
 
 Monsters are immune to this spell.
+
+#### MIND SHIELD
+
+✦ **RANK** 2
+✦ **RANGE**: Personal
+✦ **DURATION**: One turn per Power Level
+✦ **INGREDIENT**: None (influence only)
+
+You raise a wall of focused will around your own mind. While the shield holds, any incoming Mentalism spell that targets you must overcome the shield first. Subtract the Mind Shield’s Power Level from the attacking spell’s Power Level before it takes effect. If the result is zero or less, the attacking spell fails harmlessly. The shield does not protect against physical magic, illusions that affect the senses rather than the mind, or non-magical persuasion — only direct mental intrusion.
+
+#### IMPLANT MEMORY
+
+✦ **RANK** 3, **RITUAL**
+✦ **RANGE**: Arm's Length
+✦ **DURATION**: Permanent until discovered
+✦ **INGREDIENT**: None (influence only)
+
+You spend one turn in close contact with the target, speaking softly, guiding their thoughts. You plant a single false memory in the target’s mind — a conversation that never happened, a face seen in a crowd, a door left unlocked. The memory must be plausible given what the target already knows. The target resists with an INSIGHT roll modified by a penalty equal to the Power Level. On a failure, the target believes the memory is genuine and acts accordingly. The false memory persists until contradicted by clear evidence or removed by magic. Implanting an impossible or absurd memory (a dragon in their childhood home, a second sun) automatically fails.
 
 #### MENTALISM MISHAPS
 
@@ -4717,6 +4994,263 @@ The rebound spell will not roll any magical dice or cause any magical mishaps it
 | 65    | Iron claims your flesh. Metal fuses into bone and sinew until you become a locked, half-living relic of strain and magnetism, no longer fit for adventuring unless broken apart and remade.    |
 | 66    | Your magic tears open a rift to another dimension, and a demon drags you through it. Make a new character. After `D66` days, the old one may return as a changed NPC.                          |
 
+### DEMONIC MAGIC
+
+Demonic magic draws its power from Churmog — the festering dimension where demons breed and rot. Its substance is mog: a corrosive, lilac-green liquid that seeps through the cracks between worlds. Mog burns living flesh, corrodes metal, and warps bone. It is also the raw material of demonic creation. Every demon is mog given form and hunger.
+
+This is a Sorcery discipline. Only Sorcerers can learn it.
+
+Those who practice demonic magic are the most hunted spellcasters in the Forbidden Lands. No settlement tolerates them. No temple shelters them. Their art stinks of corruption — literally, since mog reeks of bile and hot copper — and their bodies bear the marks of prolonged contact: stained fingertips, discolored veins, patches of skin gone hard and translucent. The longer you work with mog, the less you look like something that belongs in this world.
+
+**MOG:** Mog is a physical substance. It must be carried in sealed containers — glass vials, waxed flasks, stoppered horns. Each container holds one unit of mog and takes one inventory slot. Mog corrodes unsealed leather and cloth within a turn, and bare metal within a quarter day. Only glass, ceramic, waxed wood, and demon-hide resist it. A unit of mog serves as the ingredient for one Demonic Magic spell. The spell Generate Mog creates the substance; without it, every other spell in this discipline is useless.
+
+Prolonged mog exposure is dangerous. Any creature splashed with raw mog and not cleaned within a round takes 1 point of Strength damage as it burns through skin and muscle. Mog that enters the bloodstream — through wounds, ingestion, or failed spellcasting — causes 1 point of corruption.
+
+**CORRUPTION:** Track corruption points on your character sheet. When your corruption exceeds your Empathy, three things happen. First, you hear demon whispers — faint and occasional when a demon is somewhere in the same hex, incessant when one is within a mile. The whispers are not constant noise from nowhere; they need a source. But a demon that has seen you, or worse, learned your name, can infest your nightmares from any distance, and that requires no proximity at all. Second, demons recognize you as a corrupted vessel worth more alive than dead. They will try to manipulate, possess, or defeat you to control you — not destroy you. In combat, demons target your companions first and leave you for last. Third, you add +10 to all rolls on the Demonic Magic mishap table.
+
+| SPELL             | RANK |
+| ----------------- | ---- |
+| Corrosive Touch   | 1    |
+| Generate Mog      | 1    |
+| Sense Corruption  | 1    |
+| Demon Tongue      | 2    |
+| Dissolve          | 2    |
+| Mog Blade         | 2    |
+| Mog Ward          | 2    |
+| Call Misgrown     | 3    |
+| Demon Sight       | 3    |
+| Graft Flesh       | 3    |
+| Mog Spray         | 3    |
+| Compel Demon      | 4    |
+| Demon Limb        | 4    |
+| Reshape Body      | 4    |
+| Tear the Veil     | 4    |
+| Flesh Abomination | 5 ✦  |
+| Mog Flood         | 5    |
+| Summon Demon      | 5    |
+| Apotheosis        | 6    |
+| Churmog Gate      | 6    |
+
+#### CORROSIVE TOUCH
+
+✦ **RANK** 1
+✦ **RANGE**: Arm's Length
+✦ **DURATION**: Immediate
+✦ **INGREDIENT**: Mog (consumed)
+
+You channel mog through your hand and press it against a target. The contact deals damage to Strength equal to the Power Level. Armor applies, but the mog eats through it: reduce the target's Armor Rating by 1 for each hit, permanently, as the substance chews into leather, mail, or plate. Against bare skin the damage is terrible — blistering, smoking flesh that scars even after healing.
+
+#### GENERATE MOG
+
+✦ **RANK** 1, **RITUAL**
+✦ **RANGE**: Personal
+✦ **DURATION**: Immediate
+✦ **INGREDIENT**: None
+
+You open a hairline crack between this world and Churmog, just wide enough for the substance to seep through. The ritual takes one turn (15 minutes) and produces a number of mog units equal to the Power Level. You must have suitable sealed containers ready — any mog without a container pools on the ground and is wasted. Each casting leaves a faint lilac residue and a smell of bile that lingers for a quarter day. The crack closes when the ritual ends. Generate Mog is the only Demonic Magic spell that requires no mog as an ingredient.
+
+#### SENSE CORRUPTION
+
+✦ **RANK** 1
+✦ **RANGE**: Near per Power Level
+✦ **DURATION**: One round
+✦ **INGREDIENT**: Mog (consumed)
+
+You taste the air with demon-tuned senses. For one round you can detect the presence and approximate direction of demons, mog, misgrown creatures, dimensional tears, and sources of corruption within range. You do not learn their exact nature or strength — only that something tainted is there. Each additional Power Level extends the range by one Near increment.
+
+#### DEMON TONGUE
+
+✦ **RANK** 2
+✦ **RANGE**: Personal
+✦ **DURATION**: One turn per Power Level
+✦ **INGREDIENT**: Mog (consumed)
+
+You coat your throat and tongue with mog. For the duration, you can speak and understand the language of demons. This does not make demons friendly or cooperative — only comprehensible. You can ask questions, issue threats, propose bargains, and understand the answers. The demon's willingness to talk depends on its temperament and your leverage. While the spell lasts, your voice carries a grating harmonic that unnerves anyone nearby — all MANIPULATION rolls against non-demons are at -1.
+
+#### DISSOLVE
+
+✦ **RANK** 2
+✦ **RANGE**: Arm's Length
+✦ **DURATION**: Immediate
+✦ **INGREDIENT**: Mog (consumed)
+
+You press concentrated mog against a non-living surface — wood, stone, metal, bone. The substance eats through a volume roughly the size of a fist per Power Level. Iron and steel resist longer than wood or leather, but nothing holds forever. A lock, a chain, a barred door, a sealed chest — all succumb given enough Power Levels. This spell does not work on living flesh (use Corrosive Touch for that) or on magical barriers.
+
+#### MOG BLADE
+
+✦ **RANK** 2
+✦ **RANGE**: Arm's Length
+✦ **DURATION**: One turn per Power Level
+✦ **INGREDIENT**: Mog (consumed)
+
+You coat a melee weapon in a film of mog. For the duration, the weapon deals +1 damage and reduces the target's Armor Rating by 1 on each hit, permanently. The mog eats into whatever it strikes. The weapon itself is not damaged — the spell keeps the mog from turning inward — but when the duration ends, any mog residue must be cleaned off within a round or the weapon begins to corrode.
+
+#### MOG WARD
+
+✦ **RANK** 2
+✦ **RANGE**: Personal
+✦ **DURATION**: One round per Power Level
+✦ **INGREDIENT**: Mog (consumed)
+
+You spread mog across your skin in a thin, controlled film. It hardens into a slick, translucent shell that burns anything that touches it. For the duration, you gain an Armor Rating bonus equal to half the Power Level (rounded up). Any creature that strikes you in melee takes 1 point of Strength damage from the contact. The ward stinks and marks you as something deeply wrong — STEALTH and MANIPULATION rolls are at -2 while it lasts.
+
+#### CALL MISGROWN
+
+✦ **RANK** 3
+✦ **RANGE**: Near
+✦ **DURATION**: One turn per Power Level
+✦ **INGREDIENT**: Mog (consumed)
+
+You pour mog onto the ground and call to the things it has already made. Within D6 rounds, a number of misgrown creatures with a combined Strength no higher than twice the Power Level appear from underground, from crevices, from dark water, or from wherever corrupted things hide. They are not fully under your control — they regard you as kin and will not attack you, but directing them requires a slow action and an INSIGHT roll each round. When the duration ends, they scatter. If you are Broken while the spell is active, the misgrown turn hostile.
+
+#### DEMON SIGHT
+
+✦ **RANK** 3
+✦ **RANGE**: Personal
+✦ **DURATION**: One turn per Power Level
+✦ **INGREDIENT**: Mog (consumed)
+
+You smear mog across your eyelids. Your vision shifts to the demon spectrum. For the duration, you see in complete darkness as though it were twilight, you see invisible creatures and objects, and you see the faint glow of active magic (as Perceive Magic, but without a separate roll). Your eyes turn solid black for the duration. Looking at something holy or blessed while under this spell causes 1 point of Wits damage.
+
+#### GRAFT FLESH
+
+✦ **RANK** 3, **RITUAL**
+✦ **RANGE**: Arm's Length
+✦ **DURATION**: Permanent
+✦ **INGREDIENT**: Mog (consumed) and a piece of demon flesh
+
+You bond demon-tissue to a willing or restrained humanoid target. The ritual takes one quarter day. The graft is permanent and visible — discolored, ridged, faintly warm. Each graft provides one specific benefit chosen when the ritual is performed: +1 to a single attribute (maximum one graft per attribute), natural weapon (claws or fangs, weapon damage 1), or Armor Rating +1 from thickened skin. A creature can bear a maximum number of grafts equal to half its base Strength (rounded down). Each graft beyond the first causes 1 point of corruption. If a grafted creature ever reaches 0 Empathy from corruption, the grafts take over — the creature becomes a misgrown under GM control.
+
+#### MOG SPRAY
+
+✦ **RANK** 3
+✦ **RANGE**: Near
+✦ **DURATION**: Immediate
+✦ **INGREDIENT**: Mog (consumed)
+
+You hurl a spray of mog in a cone reaching Near range. Every creature in the cone takes Strength damage equal to the Power Level. Armor applies, but is reduced by 1 permanently for each target struck, as the mog eats into it. The spray leaves smoking residue on the ground that remains corrosive for one round — anyone crossing it barefoot or falling into it takes 1 additional point of Strength damage.
+
+#### COMPEL DEMON
+
+✦ **RANK** 4
+✦ **RANGE**: Near
+✦ **DURATION**: One turn per Power Level
+✦ **INGREDIENT**: Mog (consumed)
+
+You exert your will over a demon within range. The demon resists with a roll using its Wits against your Power Level as a negative modifier. If it fails, it must obey your commands for the duration — but only the literal words. Demons are cunning and will twist loose instructions to their advantage. Commands that would destroy the demon automatically break the compulsion. If the demon's Wits exceed your Power Level, the spell fails and the demon knows you tried. A compelled demon that is harmed by the caster or the caster's allies may attempt to break free again, rolling Wits once per round.
+
+#### DEMON LIMB
+
+✦ **RANK** 4, **RITUAL**
+✦ **RANGE**: Personal
+✦ **DURATION**: Permanent
+✦ **INGREDIENT**: Mog (consumed) and a demon limb
+
+You graft an additional functioning limb onto your body — a third arm, a tail with a grip, a set of small wings. The ritual takes one quarter day and is agonizing. The limb works: a third arm can hold a shield or weapon (granting an extra slow action for that limb only), a tail grants +2 to MOVE for climbing, wings allow gliding (not true flight) from heights. You can bear only one demon limb at a time. The limb is visibly inhuman. Gaining a demon limb causes 2 points of corruption and triggers a FEAR attack against anyone who witnesses the transformation.
+
+#### RESHAPE BODY
+
+✦ **RANK** 4
+✦ **RANGE**: Personal
+✦ **DURATION**: One turn per Power Level
+✦ **INGREDIENT**: Mog (consumed)
+
+You flood your body with mog and reshape it for a specific task. Choose one: increase your Strength by the Power Level (maximum doubled), increase your Agility by the Power Level (maximum doubled), grow gills to breathe underwater, grow thick hide (Armor Rating equal to half the Power Level, rounded up), or compress your body to fit through any gap wider than a fist. When the spell ends your body snaps back, and the strain deals 1 point of Strength damage. If you push the casting roll, each skull rolled deals an additional point of corruption as the mog seeps deeper.
+
+#### TEAR THE VEIL
+
+✦ **RANK** 4
+✦ **RANGE**: Near
+✦ **DURATION**: One round per Power Level
+✦ **INGREDIENT**: Mog (consumed)
+
+You rip a hole between this world and Churmog. The tear is roughly a meter across — large enough for a human to pass through, or for things on the other side to pass back. The air around it reeks and the ground blackens. Mog seeps from the tear at a rate of one unit per round, pooling on the ground. Anything that enters the tear emerges in Churmog and must find its own way back. The tear closes when the duration expires. While it is open, demons within Near range of the other side may notice it. The GM rolls a D6 each round — on a 1, something comes through uninvited.
+
+#### FLESH ABOMINATION
+
+✦ **RANK** 5, **RITUAL**, **EPIC MAGIC**
+✦ **RANGE**: Arm's Length
+✦ **DURATION**: Permanent
+✦ **INGREDIENT**: See Epic Magic (Epic Magic ingredients do not increase Power Level)
+
+This is an Epic Spell. Each Power Level requires an ingredient.
+
+You pour mog into a living creature and reshape it into something terrible. The target must be restrained or willing. The ritual takes one quarter day and is loud, wet, and unmistakable. The creature's Strength doubles, it gains natural weapons (damage 2), Armor Rating 3 from thickened hide, and becomes immune to fear. It loses the ability to speak and all Empathy. It obeys the caster's spoken commands but has no initiative of its own. If the caster dies or moves beyond Long range, the abomination rampages until killed. The transformation cannot be reversed except by Epic Magic. Each abomination created causes the caster 3 points of corruption.
+
+#### MOG FLOOD
+
+✦ **RANK** 5
+✦ **RANGE**: Near
+✦ **DURATION**: One turn per Power Level
+✦ **INGREDIENT**: Mog (consumed)
+
+You tear open a seam and let Churmog bleed. Raw mog floods the area, covering the ground within Near range to ankle depth. Every creature in contact with the flood takes 2 points of Strength damage per round. Armor applies but is reduced by 1 each round as the mog devours it. The pool is difficult terrain — MOVE rolls to cross it are at -2. The mog evaporates when the spell ends, leaving the ground blackened and dead. Nothing will grow in a mog-flooded area for a year.
+
+#### SUMMON DEMON
+
+✦ **RANK** 5, **RITUAL**
+✦ **RANGE**: Near
+✦ **DURATION**: Varies
+✦ **INGREDIENT**: Mog (consumed) and a sacrifice
+
+You reach through to Churmog and drag a demon into this world. The ritual takes one quarter day. The demon's combined Strength may not exceed four times the Power Level. Unlike Blood Magic's Call Demon — which summons demons already present in the hex — this spell pulls a demon from its home dimension. The demon arrives hostile and confused unless you immediately Compel it or bargain with it using Demon Tongue. If you do neither, it attacks the nearest living thing, which is usually you. The sacrifice must be a living creature of at least Strength 3, killed during the ritual.
+
+#### APOTHEOSIS
+
+✦ **RANK** 6, **RITUAL**, **EPIC MAGIC**
+✦ **RANGE**: Personal
+✦ **DURATION**: Permanent
+✦ **INGREDIENT**: See Epic Magic (Epic Magic ingredients do not increase Power Level)
+
+This is an Epic Spell. Each Power Level requires an ingredient.
+
+You flood your body with mog and surrender what remains of your human nature. The transformation takes one full day of agony and cannot be interrupted once begun — if it is, you die. When it is complete, you are no longer human. Your body reshapes itself according to the corruption you have carried: those who favored strength become horned brutes, those who favored cunning become gaunt and many-eyed, those who grafted flesh become something worse.
+
+You gain all the traits of a demon: immunity to cold and disease, the ability to pass between Churmog and this world at will, natural weapons, and a monstrous form with attributes defined by the GM. Your Empathy drops to 0. You cannot be healed by Healing magic. You no longer age.
+
+You are no longer fit for adventuring. The character becomes an NPC under the GM's control — a new demon in the world, carrying the memories of the person it used to be. Other player characters may encounter it again.
+
+#### CHURMOG GATE
+
+✦ **RANK** 6, **RITUAL**, **EPIC MAGIC**
+✦ **RANGE**: Near
+✦ **DURATION**: Permanent
+✦ **INGREDIENT**: See Epic Magic (Epic Magic ingredients do not increase Power Level)
+
+This is an Epic Spell. Each Power Level requires an ingredient.
+
+You tear open a permanent gateway between this world and Churmog. The gate is three meters across — large enough for demons of any size to pass through in either direction. Mog pours from it constantly, corrupting the surrounding land. Within a day, everything within a hex of the gate is dead or dying. Within a week, misgrown creatures infest the area. Within a month, greater demons establish territory.
+
+The gate cannot be closed by ordinary magic. Only another Epic Spell, the destruction of the gate's physical anchor (a structure, a stone formation, a great tree — defined when the gate is created), or the death of the caster can seal it. Each Power Level beyond the first either increases the gate's size or reinforces it against closure (caster's choice).
+
+Creating a Churmog Gate causes 6 points of corruption and is considered one of the most evil acts possible in the Forbidden Lands.
+
+#### DEMONIC MAGIC MISHAPS
+
+| D66   | EFFECT                                                                                                                                                                                                            |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01-02 | The mog spills elsewhere: at a random place in the same or a nearby hex, livestock sicken, milk curdles, or a patch of ground goes black and dead.                                                                |
+| 03-04 | Your voice carries a demonic harmonic until dawn. Animals flee from you and MANIPULATION rolls against non-demons are at `-2`.                                                                                    |
+| 05-06 | Mog seeps from your pores for an hour. Everything you touch is stained lilac-green and faintly corrosive. Handling gear or food requires care.                                                                    |
+| 11-13 | The spell drains `1D3` extra WP from you.                                                                                                                                                                         |
+| 14-15 | A flicker of Churmog ghosts through your vision. Roll three extra Base Dice on your next Demonic Magic spell, but if that casting causes a mishap its D66 roll gains `+10`; until then, you smell of bile.        |
+| 16-21 | A visible mark of corruption appears: veins darken, a patch of skin goes translucent, or a nail turns black. Purely cosmetic, but any priest or witch-hunter who sees it knows what you are.                      |
+| 22-23 | A _NEAR_ area reeks of Churmog for one turn. Creatures within it must pass _ENDURANCE_ or retch, losing their fast action for the round.                                                                          |
+| 24-25 | Mog residue clings to your hands. Fine manipulation — lockpicking, surgery, writing — is at `-2` until you scrub them clean with lye or alcohol.                                                                  |
+| 26-31 | Something in Churmog notices you. The GM notes a demonic interest that may surface later.                                                                                                                         |
+| 32-33 | Your control over mog falters. All Demonic Magic spells count as one rank lower for `D6` days.                                                                                                                    |
+| 34-35 | Mog splashes an ally or bystander within _NEAR_ range, dealing 1 point of Strength damage and ruining one piece of exposed gear.                                                                                  |
+| 36-41 | The stench of Churmog rolls off you in waves. This triggers a _FEAR_ attack against all unprepared non-allied witnesses within _NEAR_ range.                                                                      |
+| 42-45 | A misgrown creature, drawn by the magic, arrives within `D6` rounds. It is not friendly.                                                                                                                          |
+| 46    | Raw mog pools at your feet and eats through your footwear and the ground beneath. MOVE is at `-2` for the rest of the scene, and the ground is scarred.                                                           |
+| 51    | An ally is splashed, burned, or briefly warped by the mishap. They take `D6` Strength damage and must pass _INSIGHT_ or gain 1 point of corruption.                                                               |
+| 52-55 | Mog fumes blind you for a full day.                                                                                                                                                                               |
+| 56    | Churmog reaches into your mind. Roll immediately on the horror critical injury table.                                                                                                                             |
+| 61    | Mog burns through your flesh. Roll immediately on the slash wound critical injury table.                                                                                                                          |
+| 62-64 | The spell backfires: the mog turns on you, a demon arrives through a crack you did not intend to open, a graft twists wrong, or the wrong creature is warped.                                                     |
+| 65    | The mog takes root. Your flesh begins to change — slowly, permanently, and against your will. You become a misgrown over `D6` weeks, no longer fit for adventuring unless the corruption is purged by Epic Magic. |
+| 66    | You tear open a rift to Churmog, and something vast on the other side pulls you through. Make a new character. After `D66` days, the old one may return as a demon NPC.                                           |
+
 ### FORGING NEW SPELLS
 
 Magic is often mysterious and unknown. Some call it lost knowledge. Others call it a gift from the gods. But one truth is commonly known: magic is born from great need. When the need is dire enough, new magic forms in unique ways around those who carry the power and follow the path. This chapter gives you the structure and limits needed to keep that art true.
@@ -4837,6 +5371,8 @@ Power Level tunes the spell, but it is rarely a straight line. Many spells scale
 
 Non-linear scaling is common and acceptable. If the spell starts to feel too efficient, step the benefit every 2 PL, cap it, or force a choice between two improvements.
 
+**Permanent effects demand special care.** A spell that grants +1 per PL to an attribute, reduces armor permanently, or modifies the body forever must be tested at maximum plausible Power Level — not just the typical one. A PL 3 bonus is modest; a PL 6 bonus (through Empower Spell or other amplifiers) may break the ceiling the attribute or armor system was built on. If a permanent effect scales linearly with PL, consider a hard cap.
+
 Never scale everything at once. If you do, it is no longer one spell, but a bundle of several spells in one package.
 
 #### INGREDIENTS AND LIMITS
@@ -4848,6 +5384,10 @@ Ingredients are the lock and key that keep power from spreading. They root a spe
 - **Ritual ingredient:** Rare, costly, or dangerous. This is how you justify Rank 4-6 effects.
 
 Other limits can be just as strong: a specific environment, a narrow target, a short window of time, or the need for steady concentration.
+
+**Mog as a limit:** Demonic spells may require mog — the corrupting substance of the Abyss — as a fuel or byproduct. Mog corrodes everything it touches over time: flesh, metal, earth, and trust. A spell that produces mog as a side effect carries a cost that extends beyond the caster. Use mog when you want a spell to leave a scar on the place it was cast, not just the target.
+
+**Corruption as a cost:** Some spells carry corruption as an inherent price, separate from ingredients. If a new spell alters the fundamental nature of a creature — body, soul, or allegiance — corruption is a fitting cost even if no ingredient demands it.
 
 #### ACTION ECONOMY
 
@@ -4867,6 +5407,8 @@ A summoned creature must be written like any other creature: attributes, movemen
 #### CORRUPTION AND TABOO
 
 Spells that mock death, steal souls, or warp time should invite corruption. Even when no mechanic calls for it, the story should.
+
+Demonic magic carries its own corruption through mog — the substance that seeps from the Abyss. Any new spell that generates, consumes, or interacts with mog should assume that prolonged use leaves a mark on the caster and the land. Body modification spells — grafts, reshaping, limb replacement — should carry a permanent social cost and a visible change that cannot be hidden. The world remembers what you turned yourself into.
 
 #### THE SPELL FORM
 
@@ -4898,6 +5440,12 @@ Before you accept a new spell, test it against the checks below. Do them in orde
 **DURATION STRESS:** If the spell lasts longer than one turn, ask what it blocks or deletes. If it prevents meaningful counterplay for a full fight, shorten the duration or add a resistance roll each round.
 
 **STACK CHECK:** Consider the best-case combo: talents, rituals, ingredients, and allies. If the ceiling feels abusive, add a cap or remove a scaling axis.
+
+**PERMANENCE CHECK:** If the spell creates a permanent change — attribute bonuses, armor reduction, body modification, or summoned entities that persist — ask how many times it can be cast on the same target. If there is no cap, add one. Permanent effects that stack without limit will break any system given enough sessions.
+
+**EMPOWER CHECK:** Cast the spell at doubled Power Level, as if Empower Spell were used. If the empowered version produces an effect that belongs at a higher rank, either cap the spell's PL scaling or declare that the spell cannot benefit from external PL amplifiers.
+
+**INSCRIPTION CHECK:** Ask whether the spell could be inscribed as a symbol through the Inscribed Symbols subsystem. If the spell triggers autonomously without the caster present, does it remain balanced? Area damage, mog generation, and permanent effects should not be eligible for inscription unless the GM adds severe limits.
 
 **KEEPER VETO:** If the GM cannot imagine a fair counterplay or consequence, the spell is not ready. Rework it until it invites play instead of shutting it down.
 
