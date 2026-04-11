@@ -545,12 +545,12 @@ Not every campaign puts a caravan at the center. If trade is background work —
 
 **Return on the roll:**
 
-| ⚔️ | Profit |
-| --- | --- |
-| — | Loss. Recover 75% of cargo cost. The run went badly — spoilage, bad prices, or a hostile market. |
-| 1 | Thin margin. Recover 110% of cargo cost. Wages and feed eat most of it. |
-| 2 | Decent run. Recover 130% of cargo cost. |
-| 3+ | Good trade. Recover 150% of cargo cost. The name travels ahead of the cart. |
+| ⚔️  | Profit                                                                                           |
+| --- | ------------------------------------------------------------------------------------------------ |
+| —   | Loss. Recover 75% of cargo cost. The run went badly — spoilage, bad prices, or a hostile market. |
+| 1   | Thin margin. Recover 110% of cargo cost. Wages and feed eat most of it.                          |
+| 2   | Decent run. Recover 130% of cargo cost.                                                          |
+| 3+  | Good trade. Recover 150% of cargo cost. The name travels ahead of the cart.                      |
 
 Subtract wages, feed, and tolls from the profit before counting gains. A drover and two guards on a two-week run costs roughly 15–20 silver in wages; fodder for three animals adds another 10–12 silver.
 
