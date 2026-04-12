@@ -331,6 +331,38 @@ If the caravan cannot sell all goods, the remainder can be:
 - **Sold at loss** (×0.5 price) to a bulk buyer or barter agent.
 - **Donated** for standing benefit (+1 Standing per 20 silver of goods).
 
+### Caravan Mishaps
+
+When a caravan procedure roll in this chapter fails and the roll shows one or more ☠️, roll D66 on the table below.
+
+- This applies to failed rolls such as loading, market sale, negotiation, field repairs, inspection handling, and similar caravan actions.
+- Resolve the normal failure result first. Then apply the mishap.
+- If several characters roll for separate caravan tasks in the same Quarter Day, only one roll with the most ☠️ can trigger a mishap.
+- No more than three mishaps per management week (excluding Hazards).
+
+| D66   | Mishap                | 1 ☠️                                                                   | 2 ☠️                                                                | 3+ ☠️                                                                     |
+| ----- | --------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| 11–12 | Dropped crate         | Lose 1D6 silver of cargo value.                                        | Lose 2D6 silver of cargo value.                                     | Lose 3D6 silver of cargo value and one fragile load takes breakage check. |
+| 13–14 | Bad tally             | Accounting error. −1 on the next Market Roll this run.                 | As 1 ☠️ and immediate 1D6 silver shortfall.                         | As 2 ☠️ and the next contract payment is delayed one Quarter Day.         |
+| 15–16 | Buyer insulted        | Lose 1 local Standing at this settlement.                              | Lose 1 local Standing and next ASK AROUND here is at −1.            | Lose 2 local Standing; no standing order can be gained here this season.  |
+| 21–22 | Rumor turned          | Rival talk spreads. −1 on one negotiation at this stop.                | Rival talk spreads. −1 on all negotiations at this stop.            | As 2 ☠️ and one rival caravan result applies automatically next run.      |
+| 23–24 | Spoiled lot           | One perishable load loses 25% value.                                   | One perishable load is unsellable (total loss).                     | Two perishable loads are unsellable (total loss).                         |
+| 25–26 | Wet cargo             | One dry-goods load loses 10% value.                                    | One dry-goods load loses 25% value.                                 | Two dry-goods loads each lose 25% value.                                  |
+| 31–32 | Broken harness        | Lose half a Quarter Day.                                               | Lose one Quarter Day.                                               | Lose one Quarter Day and pay 1D6 silver in parts.                         |
+| 33–34 | Lame draft animal     | One draft animal cannot work for one day.                              | One draft animal cannot work for D3 days.                           | One draft animal is unusable until HEALING or ANIMAL HANDLING succeeds.   |
+| 35–36 | Crew quarrel          | One hireling refuses risky duty for this day.                          | One hireling refuses duty until paid 1 day extra wage.              | Two hirelings refuse duty; if unpaid they leave after one day.            |
+| 41–42 | Petty theft           | Lose 1D6 silver in mixed goods.                                        | Lose 2D6 silver in mixed goods.                                     | Lose 2D6 silver and one named item from caravan gear.                     |
+| 43–44 | Toll trouble          | Pay +1 silver unexpected toll.                                         | Pay +1D6 silver unexpected toll.                                    | Pay +1D6 silver or lose one Quarter Day rerouting.                        |
+| 45–46 | Wrong destination day | Miss best market window. −1 on current Market Roll.                    | Miss market day entirely; sale delayed one Quarter Day.             | Sale delayed one day and destination treated as saturated this week.      |
+| 51–52 | Buyer defaults        | 10% of sold value is delayed one week.                                 | 25% of sold value is delayed one week.                              | 25% delayed and 10% never recovered.                                      |
+| 53–54 | Contract breach claim | Dispute raised. Spend one Quarter Day proving terms or pay 1D6 silver. | Spend one Quarter Day and pay 1D6 silver in fees.                   | Spend one day and pay 2D6 silver; lose 1 Standing if unpaid.              |
+| 55–56 | Guard lapse           | Next bandit-related hazard check this run is at +1 frequency.          | Next two bandit-related hazard checks this run are at +1 frequency. | Immediate bandit scouts encounter at next travel check.                   |
+| 61–62 | Route delay           | Add one Quarter Day to current leg.                                    | Add one day to current leg.                                         | Add D3 days to current leg.                                               |
+| 63–64 | Cart damage           | Repair cost 1D6 silver.                                                | Repair cost 2D6 silver.                                             | Repair cost 2D6 silver and movement drops by 1 hex/day until repaired.    |
+| 65–66 | Hard weather turn     | Exposed goods lose 1D6 silver value.                                   | Exposed goods lose 2D6 silver value.                                | Exposed goods lose 2D6 silver and camp hazard frequency gains +1 tonight. |
+
+If a result does not fit the current scene (for example, no animals in a river convoy), re-roll or adapt to the nearest equivalent cost in time, cargo value, or Standing.
+
 ---
 
 ## Profit and Loss
