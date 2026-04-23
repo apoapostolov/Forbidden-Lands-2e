@@ -46,11 +46,9 @@ These killers, dressed in black and adorned with feathers, have slaughtered whol
 
 According to the Rust Brothers, the raven that led humankind to Ravenland was made of iron and the snake of wood – gifts to humankind so they could make tools and weapons and thus dominate their world. It is the materials, rather than the animals, that are divine. Humankind must, like iron, be worked and purified and tempered in order to reach their conviction, while the uninitiated are pieces of raw iron ore and the heretics the slag that must be removed. Iron is power and might, while wood is life and disease.
 
-The Rust Brothers call the Protector god Rust and his wife Heme. They worship rusty idols and crude wooden figurines that represent the gods. The figurines are roughly hewn and cannot be too detailed because that would be an insult to the perfect form of the gods. The Brothers spread their word throug-
+The Rust Brothers call the Protector god Rust and his wife Heme. They worship rusty idols and crude wooden figurines that represent the gods. The figurines are roughly hewn and cannot be too detailed because that would be an insult to the perfect form of the gods. The Brothers spread their word throughout the villages and help the faithful, while those who doubt are converted by force. The church leads the restless dead away from the villages to shape them into servants or soldiers. If the gods are to protect mankind, they preach that the gods Rust and Heme must be appeased with tribute in the form of food, silver and human sacrifice. It is a known fact that villages which do not pay tribute to the church suffer misgrowth and other misfortunes.
 
-hout the villages and help the faithful, while those who doubt are converted by force. The church leads the restless dead away from the villages to shape them into servants or soldiers. If the gods are to protect mankind, they preach that the gods Rust and Heme must be appeased with tribute in the form of food, silver and human sacrifice. It is a known fact that villages which do not pay tribute to the church suffer misgrowth and other misfortunes.
-
-HEME RUST The Rust Lord Kartorda is the current leader of the Rust Brothers. The high priests of the church are often Misgrown, twisted by Zytera’s demonic magic. Sometimes they wear masks to conceal especially horrifying attributes, but often these deformities are displayed openly. Many have additional body parts from some other entity since melding is part of their ordination: an extra eye, an extra limb, more fingers. They drape themselves in yellow, red and rust brown cloth that is adorned with rusty iron. Rusty iron is believed to be much more effective against troublesome demons. Often, the Rust Brothers swing rusty metal chains with balls filled with burning coals. They use them both as weapons and as tools in their rituals.
+The Rust Lord Kartorda is the current leader of the Rust Brothers. The high priests of the church are often Misgrown, twisted by Zytera’s demonic magic. Sometimes they wear masks to conceal especially horrifying attributes, but often these deformities are displayed openly. Many have additional body parts from some other entity since melding is part of their ordination: an extra eye, an extra limb, more fingers. They drape themselves in yellow, red and rust brown cloth that is adorned with rusty iron. Rusty iron is believed to be much more effective against troublesome demons. Often, the Rust Brothers swing rusty metal chains with balls filled with burning coals. They use them both as weapons and as tools in their rituals.
 
 The knightly order known as the Iron Guard is the armed branch of the church, and they answer directly to the Rust Lord Kartorda. The knights often ride animals fused with demonic creatures. They fight against orcs and other enemies, but also perform punitive actions against villages that have displeased the Rust Brothers.
 
@@ -99,13 +97,11 @@ The Shardmaiden was Clay’s prophet, a female elf who lived during the Shift. A
 
 ### Wail
 
-Wail is the air goddess that the Raven sisters believe is the wife of the Protector god, Ra-
+Wail is the air goddess that the Raven sisters believe is the wife of the Protector god, Raven. She carries the bird god and all other birds through the sky. Wail is also the goddess of weather and is honored in this capacity by all elves, Elvenspring and the humans in the villages.
 
 ### The Maha Language
 
 The druids use the Maha language for their magic rituals. It is a written language consisting of pictograms without any spoken component. Maha is not used to communicate, but to formulate statements. These statements either say something about reality or create what they state through magic rituals. At the druid temples, Maha is used in more everyday contexts such as education. The signs are often carved into clay tablets that are fired and then combined to form magic statements.
-
-ven. She carries the bird god and all other birds through the sky. Wail is also the goddess of weather and is honored in this capacity by all elves, Elvenspring and the humans in the villages.
 
 ### Flow
 

@@ -12,7 +12,9 @@ According to myth, humankind arrived as intruders from across the ocean 1,200 ye
 >
 > _So hear my answer: your place is not here, everyone hates you and you do not even like each other.”_
 
-ETARIK HAMMERHAND, ambassador from the Merromannians to Alderstone, 833 AS The villagers of the Forbidden Lands are a motley mix of splinter communities: native Ailanders led by the Raven Sisters, riders from Aslene who came to Ravenland before Shadowgate Pass was blocked, Alderlanders who remain behind the wall, stern Rust Brothers, a few half-elves with limited knowledge of magic, and mixtures of these groups. During the night, they hunker down in crowded conditions behind palisades, but are forced to go out during the day to scrounge for food and other necessities. Their life is a hard one, though not impossibly so, and there is often a strong sense of solidarity among neighboring villages. Most of these settlers are schooled in some sort of farming or craftsmanship, but also in the arts of combat, as there are plenty of threats. Villagers generally welcome newcomers, but always with some degree of suspicion. New blood and new knowledge is always welcome, as is news from distant lands – everyone is curious about the outside world now that the Blood Mist has lifted from the land. The older villagers are raised to work hard and live a simple life, but many younger ones nurture secret dreams of discovering the new world beyond the blueing crests of the hills.
+ETARIK HAMMERHAND, ambassador from the Merromannians to Alderstone, 833 AS
+
+The villagers of the Forbidden Lands are a motley mix of splinter communities: native Ailanders led by the Raven Sisters, riders from Aslene who came to Ravenland before Shadowgate Pass was blocked, Alderlanders who remain behind the wall, stern Rust Brothers, a few half-elves with limited knowledge of magic, and mixtures of these groups. During the night, they hunker down in crowded conditions behind palisades, but are forced to go out during the day to scrounge for food and other necessities. Their life is a hard one, though not impossibly so, and there is often a strong sense of solidarity among neighboring villages. Most of these settlers are schooled in some sort of farming or craftsmanship, but also in the arts of combat, as there are plenty of threats. Villagers generally welcome newcomers, but always with some degree of suspicion. New blood and new knowledge is always welcome, as is news from distant lands – everyone is curious about the outside world now that the Blood Mist has lifted from the land. The older villagers are raised to work hard and live a simple life, but many younger ones nurture secret dreams of discovering the new world beyond the blueing crests of the hills.
 
 A village usually houses somewhere between fifty and one hundred humans of able age, not counting children and the elderly. Providing for more is hard, but there are villages with several hundred inhabitants in more fertile locations. Killing people who can no longer contribute due to age or frailty is not uncommon. It is viewed as unavoidable but sad and is usually accepted by the victims as a better alternative than being forced to venture out from the village on their own.
 
@@ -32,11 +34,7 @@ Alderland is inaccessible, hidden behind the Iron Lock to the south. That’s th
 
 Alderlanders make up the majority of the villagers in the northern lands. Some remained after the Alder Wars, some deserted and some made their way east to Margelda. A few are Frailer sorcerers, half-elves seldom looked kindly upon by the Elvenspring, their blood relatives in the Forbidden Lands. Others have joined bands of marauders that ravaged Margelda during Zygofer’s glory days and now eke out a living raiding or as militia for the villages.
 
-The heraldry of Alderland takes the appearance of swords and branches from the
-
-<!-- MAP IMAGE: ELVES CANIDE DWARVES ELVES ENTS CANIDE DWARVES MEROMANNIAN D... -->
-
-STILLELVES F a r V i v e n d ELVES CROMBE DWARVES Maidenholm ELVENSPRING Anger Bay V i v e n d SAURIANS ELVENSPRING AILANDERS M a r g e l d a M o l d e n a AILANDERS QUARD ASLENES Backwater Bay MEROMANNIAN DWARVES Ye n d r a GALDANE ASLENES ALDERLANDERS GOBLINS GOBLINS WOLFKIN HALFLINGS B e l i f a r h r D S a n e o u k w h d o o T d ood s ds o o w g n a F alder tree. Alderlanders honor the alder tree as sacred and decorate themselves with branches from the tree during celebrations and festivals.
+The heraldry of Alderland takes the appearance of swords and branches from the alder tree. Alderlanders honor the alder tree as sacred and decorate themselves with branches from the tree during celebrations and festivals.
 
 **TYPICAL AILANDER**
 
