@@ -214,6 +214,33 @@ These patterns were repeatedly confirmed during `Spells & Sorcerers` cleanup:
 - when a damaged run spans several related spells, replacing the whole run from
   the PDF is safer than performing isolated line edits
 
+## Recent Issue Patterns: Adventure Site OCR Repair
+
+The latest work on Weatherstone and Vale of the Dead exposed these recurring
+issues in Forbidden Lands adventure-site extracts:
+
+- H3 headings used for every location, NPC, and event entry. Adventure sites
+  need H2 for the site, H3 for section headers, and H4 for all numbered or
+  named subentries.
+- Statblocks split across columns or attached to the wrong NPC. The attribute
+  line must be a bold paragraph, not a heading, and the full block must be
+  rebuilt in PDF reading order when it crosses columns.
+- `TALENTS:` lines were merged into `GEAR:` lines. Fix by forcing `> **TALENTS:**`
+  and `**GEAR:**` on separate lines with the correct blockquote semantics.
+- Skeleton trait lines like `BONY:` were collapsed into the gear line. These
+  require separate bullet or bold-prefix formatting.
+- OCR list prefixes such as `CREATURES:` and `TREASURES:` should be bolded on
+  bullet lines, not left as plain text.
+- `D6 Monster Attacks` should often become a labeled roll-table, not a raw
+  heading and paragraph dump.
+- Broken content often appears as orphaned fragments after a column splice
+  (`Morme` / `Captured!` / `The Flooding`). These need to be reassembled into
+  coherent event entries, not simply patched line-by-line.
+- Strange scanner residue can appear as stray alphanumeric junk lines. If a
+  line clearly comes from a page artifact rather than the narrative, remove it.
+- Loose list spacing between statblock bullets must be collapsed to keep the
+  markdown list tight and prevent renderer `<p>` wrapping.
+
 ## "Do Not Beautify" Rule
 
 Your job is not to rewrite the supplement into better prose unless the user asks.

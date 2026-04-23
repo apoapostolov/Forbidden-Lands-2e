@@ -1822,13 +1822,13 @@ Something is broken in the Vale of the Dead. Ever since the disappearance of the
 
 #### Captured!
 
-There is a terrible commotion among the whiners due to the bounty hunters managing to capture a young and careless whiner in a trap. They are celebrating in Highvale at this very moment. Nasura Kak reluctantly, but desperately, contacts the adventurers if they haven’t proven hostile. She asks for help and tells them of the horrible fate that awaits the prisoner if they decline. In return, the adven-
+There is a terrible commotion among the whiners due to the bounty hunters managing to capture a young and careless whiner in a trap. They are celebrating in Highvale at this very moment. Nasura Kak reluctantly, but desperately, contacts the adventurers if they haven’t proven hostile. She asks for help and tells them of the horrible fate that awaits the prisoner if they decline. In return, the adventurers will become the whiners’ friends. They may even give them Scrome’s crumhorn back. The orcs will protest this, since it means no more hooch. Oralda and her dwarves can, however, solve everything by making a new cooling pipe for the orcs as well as adjusting the crumhorn so that the harmful notes are blocked. This will gain them the trust of the whiners. A certain amount of diplomacy is required to stitch this solution together in a manner that is pleasing to all parties, obviously.
 
-turers will become the whiners’ friends. They may even give them Scrome’s crumhorn back. The orcs will protest this, since it means no more hooch. Oralda and her dwarves can, however, solve everything by making a new cooling pipe for the orcs as well as adjusting the crumhorn so that the harmful notes are blocked. This will gain them the trust of the whiners. A certain amount of diplomacy is required to stitch this solution together in a manner that is pleasing to all parties, obviously.
-
-restless dead (see Morme in the table of undead on page 239) has disappeared. If the adventurers can return the runaway, it will earn them Scrome’s gratitude. Morme has managed to climb up to the plateau and gotten lost in the temple. Maybe he is stuck in the whiners’ hollow-rock. If the grave robbers or bounty hunters realize that the giant wants the undead, they may take Morme hostage and demand something in exchange.
+A runaway whiner has disappeared. If the adventurers can return the missing creature, it will earn them Scrome’s gratitude. Morme has managed to climb up to the plateau and gotten lost in the temple. Maybe he is stuck in the whiners’ hollow-rock. If the grave robbers or bounty hunters realize that the giant wants the undead, they may take Morme hostage and demand something in exchange.
 
 #### The Flooding
+
+If the whiner chieftain Nasura Kak feels that her domain is being threatened and that their future is at risk, she will trigger the submersion (see Whiner Dwellings on page 237) and hope that in doing so, the adventurers and other intruders will drown or be swept away. The rushing water can, of course, lead to interesting complications for the adventurers as well as the bounty hunters or Kalmax and his men.
 
 #### Kalmax and the Treasure
 
@@ -1836,7 +1836,7 @@ Kalmax the grave robber is on the hunt for a great treasure to pay off his debts
 
 #### Morme!
 
-Scrome anxiously roams the valley, shouting “Morme! Morme!” It appears that one of the If the whiner chieftain Nasura Kak feels that her domain is being threatened and that their future is at risk, she will trigger the submersion (see Whiner dwellings on page 237) and hope that in doing so, the adventurers and other intruders will drown or be swept away. The rushing water can, of course, lead to interesting complications for the adventurers as well as the bounty hunters or Kalmax and his men.
+Scrome anxiously roams the valley, shouting “Morme! Morme!” It appears that one of the whiners has gone missing, and the giant is desperate to find them before the situation escalates. The runaway may be trapped in the whiners’ hollow-rock, and the adventurers can choose whether to help recover the missing whiner or use the situation to bargain with the whiners.
 
 #### Dance of the Unquiet
 
