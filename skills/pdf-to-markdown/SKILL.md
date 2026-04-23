@@ -1,94 +1,206 @@
 ---
 name: pdf-to-markdown
-description: Convert PDFs into clean Markdown for RPG books, rulebooks, and supplements. Use this whenever a PDF, OCR dump, or raw markdown extraction needs structural cleanup, table recovery, heading repair, and manuscript-safe formatting. In this repository, always use it for Forbidden Lands PDF-to-markdown work and consult the local cleanup module before finalizing output.
+description: Convert, extract, and clean RPG PDFs and OCR dumps into manuscript-grade markdown. Use for any Forbidden Lands PDF, rulebook, supplement, or raw markdown extraction that needs structural cleanup, table recovery, heading repair, and manuscript-safe output. In this repo, always use this skill for FL PDF work. Triggers on: PDF conversion, OCR cleanup, two-column extraction, table repair, raw markdown cleanup, supplement recovery.
 ---
 
-# PDF To Markdown
+# PDF to Markdown
 
-This skill was imported from the lifestyle repo and upgraded for this workspace.
+This is the repo's authoritative skill for converting RPG PDFs and OCR dumps into usable markdown manuscripts.
 
-It is for **conversion + cleanup discipline**, not just extraction.
+It covers the full pipeline: tool selection, phased extraction, structural repair, prose cleanup, and quality validation.
+
+## Toolchain
+
+Prefer the tool best suited to the source:
+
+| Tool                  | Best for                                                           |
+| --------------------- | ------------------------------------------------------------------ |
+| **markitdown**        | Two-column layouts, weapon/stat tables, mixed-format RPG corebooks |
+| **pymupdf4llm**       | Column-aware extraction, custom pipelines, richer layout fidelity  |
+| **pdftotext -layout** | Fast plain-text dump, text-heavy single-column pages               |
+| **md-anything**       | Scanned PDFs needing OCR first, mixed media docs                   |
+
+Markitdown wrapper: `/home/apoapostolov/.openclaw/workspace/scripts/markitdown`
+
+Install if missing:
+
+```bash
+cd /home/apoapostolov/git-ext/markitdown
+uv venv --python 3.12 .venv
+uv pip install -e 'packages/markitdown[all]'
+```
+
+For column-aware pymupdf4llm extraction:
+
+```bash
+python scripts/pdf_to_markdown.py path/to/book.pdf path/to/output-dir --profile supplement
+```
+
+Available profiles: `default`, `corebook`, `supplement`, `spell-compendium`, `bestiary`, `lifepath-generator`
+
+See `references/document-profiles.md` for profile selection guidance.
+
+## Required Mindset
+
+Weaker agents fail OCR recovery in four ways:
+
+1. over-trust the extractor and leave broken structure in place
+2. over-edit and silently invent content
+3. flatten everything into paragraphs and destroy hierarchy
+4. try to "fix everything everywhere" without a triage order
+
+Treat OCR repair as **forensic editorial work**.
+
+## Triage Before Editing
+
+Before any cleanup, run the audit script:
+
+```bash
+python scripts/ocr_markdown_audit.py path/to/file.raw.md
+python scripts/ocr_markdown_audit.py path/to/file.raw.md path/to/file.clean.md
+```
+
+Then fill out `references/triage-worksheet.md` mentally before committing to a strategy.
 
 ## Workflow
 
-1. Locate the source PDF and decide where the markdown should live.
-2. Preserve the raw source and create a staged output (`.raw.md` then `.clean.md`).
-3. Prefer layout-aware extraction when structure matters:
-   - `pdftotext -layout` for text-heavy pages
-   - PyMuPDF / `pymupdf4llm` for richer layout-aware extraction
-4. Save a raw markdown draft first, then clean it into a readable final file.
-5. Repair structure before prose:
-   - remove page numbers and running headers
-   - normalize headings and section hierarchy
-   - reconstruct tables before line-level prose edits
-6. Rejoin broken paragraphs and line wraps without inventing text.
-7. Normalize lists, blockquotes, table captions, and table footnotes consistently.
-8. Keep derived markdown beside the source PDF or in a clearly named sibling file.
-9. Run lint for final markdown if the file remains in-repo.
+### Phase 0: Preserve the Source
 
-## Module References (Read As Needed)
+Never destroy the raw extraction.
 
-### Core module for this repo
+Minimum output set:
 
-If the document is a Forbidden Lands source (corebook/supplement/proposal source PDF), read:
+- source PDF
+- `.raw.md` extraction output
+- `.clean.md` working manuscript
 
-- `references/forbidden-lands-2e-cleanup-rules.md`
+Optional: `.ocr-report.md` audit report, chapter splits, issue-specific repair notes.
 
-This module contains repository-local cleanup rules and validation priorities.
+### Phase 1: Diagnose Before Editing
 
-### Legacy and cross-repo notes
+Before rewriting anything, inspect the opening pages, a middle spread, and a late section.
 
-Use these when project logging is needed:
+- See `references/ocr-artifact-taxonomy.md` for the seven damage tiers.
+- See `references/calibration-examples.md` for before/after output calibration.
 
-- `references/projects.md` (append-only project notes)
-- `references/toolchain.md` (install/toolchain notes)
+### Phase 2: Structural Recovery
 
-## Forbidden Lands Rule
+Fix these before any prose edits:
 
-For Forbidden Lands conversions in this workspace, do not stop at generic cleanup.
-Apply the local cleanup module, especially for:
+1. page furniture (page numbers, running titles, footer slogans)
+2. heading hierarchy
+3. picture-text blocks
+4. table structure
 
-- spaced-character headings
-- possessive/apostrophe OCR damage
-- running-header contamination (standalone and inline)
-- multi-column table bleed and merged row corruption
-- loose bullet lists introduced by extraction
-- OCR glyph substitution in spell metadata blocks
+Skipping this order lets paragraph cleanup blur content that should stay separated.
 
-## RPG Book Defaults
+See `references/table-reconstruction-manual.md` for table-specific repair rules.
 
-- Treat large rulebooks as source documents, not prose to rewrite.
-- Preserve chapter structure and section order.
-- Keep OCR or extraction artifacts in a `raw` or staged file if first pass is messy.
-- Escalate to visual PDF comparison when reading order is ambiguous.
-- Prefer deterministic, scriptable repairs for repeated artifact classes.
+Flattened-table helper:
+
+```bash
+python3 scripts/repair_flattened_tables.py path/to/file.clean.md --write
+```
+
+### Phase 3: Prose Recovery
+
+After structure is stable:
+
+1. rejoin broken paragraphs
+2. remove OCR line-wrap damage
+3. fix drop-cap splits
+4. normalize blockquotes, captions, and sidebar text
+5. correct only high-confidence OCR errors
+
+Do not silently lore-edit ambiguous words unless justified by local context.
+
+### Phase 4: Supplement-Specific Repair
+
+RPG books need domain-aware repair.
+
+- See `references/repair-playbook.md` for FL-specific patterns by artifact class.
+- See `references/cleanup-issue-catalog.md` for the eight common artifact categories with examples and grep detection commands.
+- See `references/high-confidence-corrections.md` for safe FL-specific term repairs.
+
+For layout ambiguity, compare visually:
+
+```bash
+pdftotext -layout -f START_PAGE -l END_PAGE path/to/book.pdf -
+```
+
+See `references/pdf-visual-comparison-and-illustrations.md` for column-splice recovery and illustration preservation.
+
+### Phase 5: Quality Gates
+
+Run lint:
+
+```bash
+./.tools/markdownlint/node_modules/.bin/markdownlint path/to/file.clean.md
+```
+
+Section split helper:
+
+```bash
+python3 scripts/split_markdown_sections.py path/to/file.clean.md output-dir --level 2
+python3 scripts/split_markdown_sections.py path/to/file.clean.md output-dir --pattern '^## '
+```
+
+Then verify all gates with `references/review-checklist.md` and `references/quality-gates-and-escalation.md`.
 
 ## Strong Default Operating Procedure
 
-When asked to process a document:
-
 1. Preserve raw artifact.
-2. Extract or reuse raw markdown.
-3. Apply structural cleanup first.
-4. Apply prose cleanup second.
-5. Apply repo-local module rules (for Forbidden Lands docs).
-6. Validate with lint and targeted spot-checks against the PDF.
-7. Report what was fixed automatically vs what needs manual review.
+2. Run extraction or reuse raw markdown.
+3. Run audit script and read the report.
+4. Work through `references/triage-worksheet.md` to pick automation depth.
+5. Produce a separate `.clean.md` working file.
+6. Repair opening sections first so the user sees a real manuscript shape.
+7. Continue through the file by artifact class, not by whim.
+8. For table collapses, try the flattened-table helper before manual reconstruction.
+9. For ambiguous column splices, use visual PDF comparison before rewriting.
+10. When structure is clean enough to split, use the heading-based split helper.
+11. Normalize FL spell metadata glyph surrogates (`E RANK 1` → `- Rank: 1`) only inside spell metadata blocks.
+12. When layout corruption is ambiguous, replace the whole damaged span in recovered reading order rather than patching line-by-line.
+13. When a floated spell list or summary table is found, move it before the spell descriptions.
+14. When a boxed note is clearly a sidebar, use a bold label plus paragraph block instead of promoting it to a section heading.
+15. If illustrations are requested, save in `/illustrations`, retain transparency by default, insert at original position by default.
+16. At the end, report: files created, artifact classes fixed, what remains ambiguous, whether lint passed.
 
 ## Non-Negotiable Rules
 
 - Never overwrite the raw OCR file with cleaned output.
-- Never silently invent or lore-edit uncertain text.
-- Never flatten tables into paragraphs for convenience.
-- Never weaken repo-wide lint rules to hide cleanup defects.
-- Never assume one successful cleanup pattern is globally safe.
+- Never silently lore-edit ambiguous text.
+- Never merge tables into plain paragraphs for convenience.
+- Never collapse heading levels just because the extractor got them wrong.
+- Never hide risky cleanup behind broad repo-wide lint disables.
+- Never treat one successful repair as globally safe.
 
-## Validation
+## Repair Priorities (When Time Is Limited)
 
-Before handing off:
+1. title and chapter structure
+2. running headers / footers / page numbers
+3. table reconstruction in playable sections
+4. paragraph continuity
+5. repeated OCR garbage
+6. cosmetic normalization
 
-- confirm heading hierarchy is intact
-- confirm table blocks remain machine-readable markdown tables
-- confirm repeated page furniture is removed
-- confirm unresolved ambiguities are explicitly flagged
-- run markdown lint on changed files when they remain in-repo
+## Reference File Index
+
+| File                                                    | When to read                                           |
+| ------------------------------------------------------- | ------------------------------------------------------ |
+| `references/ocr-artifact-taxonomy.md`                   | Classifying damage tiers                               |
+| `references/triage-worksheet.md`                        | Before committing to a cleanup strategy                |
+| `references/document-profiles.md`                       | Choosing extraction profile                            |
+| `references/cleanup-issue-catalog.md`                   | Specific artifact patterns with grep commands and code |
+| `references/repair-playbook.md`                         | Concrete repairs by artifact class                     |
+| `references/table-reconstruction-manual.md`             | Table-specific rules and archetypes                    |
+| `references/high-confidence-corrections.md`             | Safe FL-specific term repairs                          |
+| `references/quality-gates-and-escalation.md`            | When to stop automating                                |
+| `references/review-checklist.md`                        | Post-cleanup spot-check                                |
+| `references/calibration-examples.md`                    | Output quality calibration                             |
+| `references/repo-calibration-corpus.md`                 | Real repo before/after examples                        |
+| `references/when-not-to-repair-automatically.md`        | Escalation examples                                    |
+| `references/pdf-visual-comparison-and-illustrations.md` | Column splices, illustrations                          |
+| `references/agent-turn-template.md`                     | Standard agent turn structure                          |
+| `references/projects.md`                                | Project log (append-only)                              |
+| `references/toolchain.md`                               | Tool install and version notes                         |
