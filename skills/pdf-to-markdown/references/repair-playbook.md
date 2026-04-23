@@ -133,6 +133,69 @@ Use visual comparison especially when:
 - two spell entries are interleaved
 - a table is embedded in the middle of prose
 - a sidebar has been mistaken for body text
+
+## RPG Statblock Repair Rules
+
+Forbidden Lands 2E uses a fixed NPC/monster statblock format. When repairing
+statblocks, enforce this layout:
+
+```md
+#### NPC Name
+
+Prose description of the NPC — personality, appearance, motivation.
+
+**Strength N, Agility N, Wits N, Empathy N**
+
+> **SKILLS:** Skill 3, Skill 2
+> **TALENTS:** Talent Name N
+> **GEAR:** Item (N), Item
+```
+
+Rules:
+
+1. **Attribute line is never a heading.** `### Strength N...` must become
+   `**Strength N...**`. This is the most common extractor error in this book.
+
+2. **SKILLS and TALENTS are blockquoted.** `> **SKILLS:**` and `> **TALENTS:**`
+   with no blank line between them. MD028 fires if there is a blank line between
+   consecutive blockquote lines — collapse it.
+
+3. **GEAR is bold inline, not blockquoted.** `**GEAR:** ...` without `>`.
+
+4. **ARMOR follows GEAR when present.** `> **ARMOR:** N` goes in the blockquote
+   after GEAR (or replaces it if there is no gear).
+
+5. **Prose description comes before the statblock.** If an NPC entry has no
+   description paragraph above the `**Strength` line, suspect a two-column
+   splice. Check the PDF before inventing prose.
+
+6. **Two-column splice detection:** Compare the NPC heading order in the markdown
+   against the visual order in the PDF. If statblock lines appear under the wrong
+   NPC heading, the block must be reconstructed from PDF, not patched line-by-line.
+
+## Adventure Site Heading Hierarchy Rules
+
+Adventure site chapters have a three-tier hierarchy. Apply this when repairing
+a chapter where all headings are at `###`:
+
+```
+## Adventure Site Name          (H2 — the site itself)
+  ### Named Section             (H3 — Background, Locations, Events, etc.)
+    #### 1. Numbered Location   (H4 — every numbered or named sub-entry)
+    #### Named NPC Entry        (H4 — every NPC in Monsters and NPCs)
+    #### Named Event Entry      (H4 — every event in Events)
+```
+
+Rules:
+
+1. The adventure site itself is H2 if it is a major chapter section.
+2. Top-level named sections (Background, Recommended Reading, Getting Here,
+   Legend, Locations, Monsters and NPCs, Events) are H3.
+3. Everything below a named section is H4: numbered locations, named NPCs,
+   named events, and named sub-tables (Strange Events, Who Does What?, etc.).
+4. Do not promote H4 entries to H3. That flattens the visual hierarchy and
+   breaks the reading structure.
+
 - a statblock has been attached to the wrong spell
 
 When the PDF makes ownership clear, it is safe to rebuild the whole span in

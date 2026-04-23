@@ -121,10 +121,8 @@ The mist as such seems to be immune to attacks, but it is said to disperse in br
 - **ATTRIBUTES:** Strength 8, Agility 4
 - **MOVEMENT:** 1
 - **ARMOR RATING:** 6
-
-**INCORPOREAL FORM:** In the form of the mist, the Bloodlings are immune to all types of physical violence. As soon as they materialize physically, they can be hurt by copper weapons normally. All other forms of weapons do half damage (rounding up).
-
-**SENSITIVE TO LIGHT:** Bloodlings loathe strong light. An attack with a torch or a lantern (blunt instrument) will inflict D3 additional points of damage on a Bloodling.
+- **INCORPOREAL FORM:** In the form of the mist, the Bloodlings are immune to all types of physical violence. As soon as they materialize physically, they can be hurt by copper weapons normally. All other forms of weapons do half damage (rounding up).
+- **SENSITIVE TO LIGHT:** Bloodlings loathe strong light. An attack with a torch or a lantern (blunt instrument) will inflict D3 additional points of damage on a Bloodling.
 
 **MONSTER ATTACKS**
 
@@ -310,8 +308,7 @@ A Drakewyrm can’t stand competing with anyone when it comes to its brilliance,
 - **SKILLS:** Scout 3
 - **MOVEMENT:** 2
 - **ARMOR RATING:** 8
-
-**DRAWN TO GLITTER:** If the Drakewyrm spots anyone wearing or holding anything that glitters, it will immediately attack that person. If this person leaves combat, the Drakewyrm will pursue.
+- **DRAWN TO GLITTER:** If the Drakewyrm spots anyone wearing or holding anything that glitters, it will immediately attack that person. If this person leaves combat, the Drakewyrm will pursue.
 
 **MONSTER ATTACKS**
 
@@ -337,8 +334,7 @@ The elves still honor these very old tree herders in the deep forests and when t
 - **ATTRIBUTES:** Strength 16, Agility 3, Wits 5, Empathy 3
 - **MOVEMENT:** 1
 - **ARMOR RATING:** 6
-
-**SENSITIVE TO FIRE:** Ents are sensitive to fire. All attacks using fire cause double damage.
+- **SENSITIVE TO FIRE:** Ents are sensitive to fire. All attacks using fire cause double damage.
 
 **MONSTER ATTACKS**
 
@@ -361,8 +357,7 @@ Sometimes, ghosts possess statues or other inanimate objects, bringing them to l
 
 - **ATTRIBUTES:** Strength 8, Agility 3, Wits 3, Empathy 2
 - **MOVEMENT:** 1
-
-**ARMOR RATING:** Ghosts are immaterial and can only be hurt by fire or magic. Even if a ghost is defeated, it will only be banished for a Quarter Day and then return. The only way to truly destroy a ghost is to use the PURGE UNDEAD spell on it.
+- **ARMOR RATING:** Ghosts are immaterial and can only be hurt by fire or magic. Even if a ghost is defeated, it will only be banished for a Quarter Day and then return. The only way to truly destroy a ghost is to use the PURGE UNDEAD spell on it.
 
 **MONSTER ATTACKS**
 
@@ -385,12 +380,9 @@ Giants are said to be one of the original kin and to live very long lives. They 
 
 - **ATTRIBUTES:** Strength 24, Agility 2, Wits 2, Empathy 2
 - **MOVEMENT:** 1
-
-**ARMOR RATING:** 2–6 (improvised armor)
-
-**WEAPON:** A Giant typically swings a large club or a tree. If the Giant loses its weapon, the Weapon Damage of its attacks is decreased to 1. Giants never PARRY attacks.
-
-**WEAK SPOT:** Attacks against the weak spot on the top of a Giant’s head inflict double damage. Hitting the top of the head requires either a difficult (–2) ranged attack from an elevated position or for the attacker to first climb onto the Giant. The latter move counts as a GRAPPLE attack. No other effects of the GRAPPLE apply in such a case.
+- **ARMOR RATING:** 2–6 (improvised armor)
+- **WEAPON:** A Giant typically swings a large club or a tree. If the Giant loses its weapon, the Weapon Damage of its attacks is decreased to 1. Giants never PARRY attacks.
+- **WEAK SPOT:** Attacks against the weak spot on the top of a Giant’s head inflict double damage. Hitting the top of the head requires either a difficult (–2) ranged attack from an elevated position or for the attacker to first climb onto the Giant. The latter move counts as a GRAPPLE attack. No other effects of the GRAPPLE apply in such a case.
 
 **MONSTER ATTACKS**
 
@@ -414,10 +406,8 @@ Grown squid can exude a black mist that completely darkens their surroundings so
 - **ATTRIBUTES:** Strength 14, Agility 4
 - **MOVEMENT:** 1
 - **ARMOR RATING:** 4
-
-**SENSITIVE HEAD:** BLUNT weapons ignore armor if they hit the creature’s head. Attacking the head is a difficult (–2) action.
-
-**TENTACLES:** The giant squid has D6+3 tentacles. In each round the squid attacks using up to D3 tentacles. This counts as a single slow action. Each tentacle performs an attack from the monster attack table. For every three points of damage suffered, the squid loses one tentacle.
+- **SENSITIVE HEAD:** BLUNT weapons ignore armor if they hit the creature’s head. Attacking the head is a difficult (–2) action.
+- **TENTACLES:** The giant squid has D6+3 tentacles. In each round the squid attacks using up to D3 tentacles. This counts as a single slow action. Each tentacle performs an attack from the monster attack table. For every three points of damage suffered, the squid loses one tentacle.
 
 **MONSTER ATTACKS**
 
@@ -442,8 +432,7 @@ entire hunting party except for two brothers who lived to tell of the beast. Eve
 - **SKILLS:** Scout 3
 - **ARMOR RATING:** 4 (fur)
 - **MOVEMENT RATE:** 2
-
-**FERAL RAGE:** When the Strength of a Gray Bear is halved, it is overcome by a deadly rage and will attack anything close by, letting out a deafening roar. All targets within ARM’S LENGTH each suffer an attack with seven Base Dice with a Weapon Damage of 1 (slash wound). This attack is triggered immediately and does not count toward the bear’s actions during the round.
+- **FERAL RAGE:** When the Strength of a Gray Bear is halved, it is overcome by a deadly rage and will attack anything close by, letting out a deafening roar. All targets within ARM’S LENGTH each suffer an attack with seven Base Dice with a Weapon Damage of 1 (slash wound). This attack is triggered immediately and does not count toward the bear’s actions during the round.
 
 **MONSTER ATTACKS**
 
@@ -494,10 +483,8 @@ The creature has been joined with the demon substance mog. Harpies aren’t very
 - **SKILLS:** Scout 2, Insight 4, Manipulation 2
 - **MOVEMENT:** 2
 - **ARMOR RATING:** –
-
-**FLOCK:** Harpies never fight on their own, always attacking in flocks, and a flock of harpies counts as a single monster. The Strength of the flock varies, depending on the number of individuals. A single attack against a flock of harpies can never inflict more than 1 point of damage.
-
-**COWARDLY:** Harpies are cowardly creatures and never fight until death. When the Strength of the flock has been halved, the harpies automatically FLEE from the fight (see page 89 in the Players’ Handbook). They may return at a later time.
+- **FLOCK:** Harpies never fight on their own, always attacking in flocks, and a flock of harpies counts as a single monster. The Strength of the flock varies, depending on the number of individuals. A single attack against a flock of harpies can never inflict more than 1 point of damage.
+- **COWARDLY:** Harpies are cowardly creatures and never fight until death. When the Strength of the flock has been halved, the harpies automatically FLEE from the fight (see page 89 in the Players’ Handbook). They may return at a later time.
 
 **MONSTER ATTACKS**
 
@@ -520,7 +507,7 @@ is immediately seared by fire. Anyone facing a Hydra would be wise to run away, 
 
 Most agree that the Hydra is a demonological experiment that has run amok and escaped from Zygofer’s laboratories. They have never been observed breeding, but the general belief is that the beasts bifurcate after acquiring six or more heads. A terrified druid swore to have seen a five-necked Hydra slaughter one of its own heads in a furious struggle in the Arina Forest, afterwards splitting into two Hydras with three heads each.
 
-**THE HYDRA’S HEADS:** The Hydra has D3+3 heads, each with its own Strength rating. The Hydra has as many attacks as it has heads, so draw one initiative card for each head. A head whose Strength reaches zero is crushed or severed. Two new heads grow in its place in the next round, unless the severed head is seared by fire. This requires a torch or something similar and a MOVE roll (slow action).
+- **THE HYDRA’S HEADS:** The Hydra has D3+3 heads, each with its own Strength rating. The Hydra has as many attacks as it has heads, so draw one initiative card for each head. A head whose Strength reaches zero is crushed or severed. Two new heads grow in its place in the next round, unless the severed head is seared by fire. This requires a torch or something similar and a MOVE roll (slow action).
 
 - **ATTRIBUTES:** Strength 4 (per head), Agility 4
 - **MOVEMENT:** 2
@@ -542,10 +529,6 @@ Most agree that the Hydra is a demonological experiment that has run amok and es
 Giant insect-like humanoids have appeared in the Forbidden Lands in the last three hundred years. They probably arrived from other worlds in conjunction with the Demon Flood or arose from normal insects possessed by demons. The Insectoids build colonies and threaten their surroundings by hunting sustenance for their larvae and defending the perimeter around the colony.
 
 The colonies possess a collective intelligence that increases with its size. The elf and provisioner Mazmer even claims to have had deep philosophical conversations with an Insectoid queen whose trust he managed to earn in her subterranean chamber. Mazmer said that the easiest way to approach Insectoids is to kill a worker outside the nest and smear oneself with its innards for the smell. The method was tried by at least two adventurers who were never seen again.
-
-**MONSTER ATTACKS**
-
-The rules for monsters in combat don’t apply to Insectoids. Instead, they act like normal fighters. As they lack Wits and Empathy, however, they are immune to spells that damage these attributes, as well as to the MANIPULATION skill.
 
 The Insectoid community consists of workers, drones, a queen and soldiers. The soldiers can have wings, a paralyzing poisonous sting and even wield weapons if the colony is intelligent enough. The only way to root out a colony of Insectoid is to kill the queen. If an additional queen is born, the colony will swarm, at which time half of the community wanders off to find a new nesting site.
 
@@ -570,6 +553,8 @@ The Insectoid community consists of workers, drones, a queen and soldiers. The s
 - **ARMOR RATING:** 6
 - **BITE:** Damage 2 (slash wound), lethal poison with Potency 8
 
+- **MONSTER ATTACKS:** The rules for monsters in combat don’t apply to Insectoids. Instead, they act like normal fighters. As they lack Wits and Empathy, however, they are immune to spells that damage these attributes, as well as to the MANIPULATION skill.
+
 ### Manticore
 
 The terrible Manticores have appeared in the Forbidden Lands ever since the Demon Flood, wild or like plated battle beasts in the armies of the Rust Brothers. A Manticore has the body of a lion with a shark-toothed human face and a turgid tail tip that shoots poisonous, barbed bolts. The bolts stun the victim, which is then devoured whole by the three separately moveable rows of teeth that feed the body into the maw, the jaws of which
@@ -582,8 +567,7 @@ The scholars of the Forbidden Lands believe that the first Manticores were demon
 - **SKILLS:** Scout 4
 - **MOVEMENT:** 2
 - **ARMOR RATING:** 5
-
-**SENSITIVE TAIL:** A BLUNT weapon hit on the tip of a Manticore’s tail (–3 to hit) that causes three points of damage or more will crush its poison glands, inflicting one point of damage to Agility per round of combat.
+- **SENSITIVE TAIL:** A BLUNT weapon hit on the tip of a Manticore’s tail (–3 to hit) that causes three points of damage or more will crush its poison glands, inflicting one point of damage to Agility per round of combat.
 
 **MONSTER ATTACKS**
 
@@ -629,8 +613,7 @@ Ever since, Nightwargs have appeared across the Forbidden Lands, even in cities 
 - **SKILLS:** Scout 5, Sneak 4
 - **ARMOR RATING:** 3 (fur)
 - **MOVEMENT RATE:** 2
-
-**ETHEREAL FORM:** Victims killed by Nightwargs dissolve into a dark mist. Not even Elven rubies remain. The beasts are dissolved into darkness in the same manner if slain.
+- **ETHEREAL FORM:** Victims killed by Nightwargs dissolve into a dark mist. Not even Elven rubies remain. The beasts are dissolved into darkness in the same manner if slain.
 
 **MONSTER ATTACKS**
 
@@ -647,17 +630,14 @@ Ever since, Nightwargs have appeared across the Forbidden Lands, even in cities 
 
 Sea Serpents are feared predators that can puncture the hulls of ships with their horns and then snatch away crew while they are busy with repairs. They often wrap their bodies around smaller ships to crush the vessels with their strong muscles and then devour the swimming people in peace and quiet until they are all lined up in their gullets like pups in the womb.
 
-The best way to slay a Sea Serpent is to damage its tail, the blood of which fuels a maddening desire in the monster since its genital glands are situated there. The serpent will then
-
-attack and swallow its hindquarters, soon devouring itself to death.
+The best way to slay a Sea Serpent is to damage its tail, the blood of which fuels a maddening desire in the monster since its genital glands are situated there. The serpent will then attack and swallow its hindquarters, soon devouring itself to death.
 
 Legends tell of how the pirate Scarda was attacked by three Sea Serpents but managed to cut them all three in the tail so that they devoured each other until a giant sea urchin of teeth was all that remained. This incident is supposed to be the source of the giant sea urchins of the Eastern Sea.
 
 - **ATTRIBUTES:** Strength 18, Agility 3
 - **ARMOR RATING:** 5
 - **MOVEMENT:** 2 (in water)
-
-**TAIL:** If an attack against the tail of a Sea Serpent (–2 penalty) draws blood (one point of damage or more from an edged or pointed weapon), roll a D6 each time the Sea Serpent attacks. On a 4–6, the beast attacks itself instead of an adventurer.
+- **TAIL:** If an attack against the tail of a Sea Serpent (–2 penalty) draws blood (one point of damage or more from an edged or pointed weapon), roll a D6 each time the Sea Serpent attacks. On a 4–6, the beast attacks itself instead of an adventurer.
 
 **MONSTER ATTACKS**
 
@@ -676,7 +656,9 @@ Like many of the strange beasts of the Forbidden Lands, the Strangling Vines are
 
 The vines, strong and tough enough to break limbs, originate from a central pumpkin-like trunk that is often found to have buried itself into the ground. A few beautiful violet flowers in constant bloom serve as the plant’s sensory organs, letting it know what’s going on.
 
-The vines drag the dead prey to the trunk, which extends growths similar to suction feet that attach to the dead corpse, dissolving it with its fluids and sucking out
+The vines drag the dead prey to the trunk, which extends growths similar to suction feet that attach to the dead corpse, dissolving it with its fluids and sucking out all nourishment. It is believed that the plant can draw up its roots and slowly wander to a new location.
+
+- **ATTRIBUTES:** Strength 8, Agility 3
 
 **MONSTER ATTACKS**
 
@@ -688,10 +670,6 @@ The vines drag the dead prey to the trunk, which extends growths similar to suct
 | 4      | **DEADLY EMBRACE!** A tangle of vines ensnares an adventurer within NEAR range. Roll for the attack with eight Base Dice and Weapon Damage 1 (blunt force). If the attack hits, the adventurer is GRAPPLED.                                                                               |
 | 5      | **PENETRATING ATTACK!** A vine tries to force its way into a body cavity (mouth, eyes, ears) of an adventurer within NEAR range. Roll for the attack with ten Base Dice and Weapon Damage 2 (slash wound). The attack damages both Strength and Empathy due to the horrifying experience. |
 | 6      | **POISONOUS CLOUD!** The creature’s purple flowers open and emit a cloud of spores affecting all adventurers within NEAR range. All suffer a paralyzing poison with Potency 8.                                                                                                            |
-
-all nourishment. It is believed that the plant can draw up its roots and slowly wander to a new location.
-
-- **ATTRIBUTES:** Strength 8, Agility 3
 
 ### Troll
 
@@ -707,12 +685,9 @@ Some Trolls gorge themselves until they are so large and round that they more of
 - **SKILLS:** Scout 4
 - **ARMOR RATING:** 4 (skin)
 - **MOVEMENT:** 1
-
-**REGENERATE:** A Troll recovers one point of lost Strength each round.
-
-**STENCH:** All enemies within ARM’S LENGTH suffer one point of damage to Agility each round of combat because of the Troll’s horrible stench.
-
-**SUNLIGHT:** A Troll suffers one point of damage per round in direct sunlight.
+- **REGENERATE:** A Troll recovers one point of lost Strength each round.
+- **STENCH:** All enemies within ARM’S LENGTH suffer one point of damage to Agility each round of combat because of the Troll’s horrible stench.
+- **SUNLIGHT:** A Troll suffers one point of damage per round in direct sunlight.
 
 **MONSTER ATTACKS**
 
@@ -767,8 +742,7 @@ The Wyverns have a very thin but energy-laden layer of blubber under their skin 
 - **ATTRIBUTES:** Strength 14, Agility 3, Wits 5, Empathy 2
 - **MOVEMENT:** 3
 - **ARMOR RATING:** 5 (scales)
-
-**SPECIAL:** If a Wyvern is somehow forced to the ground, all attacks against it get a +2 bonus.
+- **SPECIAL:** If a Wyvern is somehow forced to the ground, all attacks against it get a +2 bonus.
 
 **MONSTER ATTACKS**
 
@@ -781,12 +755,27 @@ The Wyverns have a very thin but energy-laden layer of blubber under their skin 
 | 5      | **SHAKE ATTACK!** The Wyvern bites and violently shakes an adventurer. Roll for the attack with nine Base Dice and Weapon Damage 2 (slash wound). If the attack hits, the victim is thrown to NEAR distance and lands prone.                                                                                                                          |
 | 6      | **FALL FROM THE SKY!** The beast grabs an adventurer within NEAR range and lifts them into the sky. Roll for the attack with eight Base Dice. If the attack hits, the Wyvern and victim both ascend to SHORT range from the ground. Next round, the victim is dropped and suffers effects of a fall from 2D6+10 meters (see the _Player’s Handbook_). |
 
-|     | **ANIMALS** **ANIMAL** **STRENGTH** **AGILITY** **SKILLS** **MOVE-** **MENT** **WEAPON** **DAMAGE** **TYPE** Bear 6 2 Melee 3, Scout 3 1 Paw 2 Slash Wolf 4 4 Move 3, Melee 3, Scout 5 2 Bite 1 Slash Fox 2 4 Move 2, Melee 2, Scout 4 1 Bite 1 Slash Deer 3 4 Move 4, Scout 4 2 Horns 1 Blunt Boar 4 2 Melee 3, Scout 3 1 Tusks 1 Blunt Riding Horse 5 4 Move 2, Scout 3 2 Kick 1 Blunt War Horse 6 5 Move 3, Melee 2, Scout 3 2 Kick 1 Blunt Donkey 3 3 Move 2, Endurance 2, Scout 3 2 Kick 1 Blunt Canide War Hound 5 3 Move 2, Melee 3, Scout 3 2 Bite 1 Slash Crocodile 4 2 Melee 3, Scout 3 1 Bite 2 Slash |
-| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+### ANIMALS
 
-### Swarms
+| **ANIMAL**       | **STRENGTH** | **AGILITY** | **SKILLS**                   | **MOVEMENT** | **WEAPON** | **DAMAGE**                   | **TYPE** |
+| ---------------- | ------------ | ----------- | ---------------------------- | ------------ | ---------- | ---------------------------- | -------- |
+| Bear             | 6            | 2           | Melee 3, Scout 3             | 1            | Paw        | 2                            | Slash    |
+| Wolf             | 4            | 4           | Move 3, Melee 3, Scout 5     | 2            | Bite       | 1                            | Slash    |
+| Fox              | 2            | 4           | Move 2, Melee 2, Scout 4     | 1            | Bite       | 1                            | Slash    |
+| Deer             | 3            | 4           | Move 4, Scout 4              | 2            | Horns      | 1                            | Blunt    |
+| Boar             | 4            | 2           | Melee 3, Scout 3             | 1            | Tusks      | 1                            | Blunt    |
+| Riding Horse     | 5            | 4           | Move 2, Scout 3              | 2            | Kick       | 1                            | Blunt    |
+| War Horse        | 6            | 5           | Move 3, Melee 2, Scout 3     | 2            | Kick       | 1                            | Blunt    |
+| Donkey           | 3            | 3           | Move 2, Endurance 2, Scout 3 | 2            | Kick       | 1                            | Blunt    |
+| Canide War Hound | 5            | 3           | Move 2, Melee 3, Scout 3     | 2            | Bite       | 1                            | Slash    |
+| Crocodile        | 4            | 2           | Melee 3, Scout 3             | 1            | Bite       | 2                            | Slash    |
+| Dog              | 3            | 3           | Melee 1, Scout 5             | 2            | Bite       | 1                            | Slash    |
+| Cat              | 1            | 5           | Move 4, Scout 5              | 1            | Claws      | 1                            | Slash    |
+| Rats (Swarm)     | 4            | 3           | Move 3, Scout 4              | 1            | Bite       | 1                            | Slash    |
+| Bats (Swarm)     | 5            | 3           | Move 3, Scout 5              | 2            | Bite       | 1                            | Slash    |
+| Raven            | 1            | 3           | Move 3, Scout 4              | 2            | Beak       | 1                            | Slash    |
+| Eagle            | 3            | 5           | Move 3, Melee 3, Scout 5     | 3            | Claws      | 1                            | Slash    |
+| Snake            | 1            | 3           | Melee 3, Scout 4             | 1            | Bite       | Lethal poison, Potency 4     | –        |
+| Scorpion/Spider  | 1            | 3           | Move 3, Melee 2, Scout 3     | 1            | Tail       | Paralyzing poison, Potency 6 | –        |
 
-A swarm of animals (see the table below) is handled as a single creature with a Strength rating that represents the swarm as a whole. A single attack on a swarm can never inflict more than one point of damage.
-
-|     | **ANIMAL** **STRENGTH** **AGILITY** **SKILLS** **MOVE-** **MENT** **WEAPON** **DAMAGE** **TYPE** Dog 3 3 Melee 1, Scout 5 2 Bite 1 Slash Cat 1 5 Move 4, Scout 5 1 Claws 1 Slash Rats (Swarm) 4 3 Move 3, Scout 4 1 Bite 1 Slash Bats (Swarm) 5 3 Move 3, Scout 5 2 Bite 1 Slash Raven 1 3 Move 3, Scout 4 2 Beak 1 Slash Eagle 3 5 Move 3, Melee 3, Scout 5 3 Claws 1 Slash Snake 1 3 Melee 3, Scout 4 1 Bite Lethal poison, Potency4 – Scorpion/ Spider 1 3 Move 3, Melee 2, Scout 3 1 Tail Paralyzing poison, Potency 6 – |
-| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> **SWARMS:** A swarm of animals is handled as a single creature with a Strength rating that represents the swarm as a whole. A single attack on a swarm can never inflict more than one point of damage.

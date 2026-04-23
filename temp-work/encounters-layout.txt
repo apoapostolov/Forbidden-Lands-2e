@@ -1,0 +1,1050 @@
+                                                                           DRAWBACKS
+                                                           If the emerald Gall-Eye is inserted into the
+                                                           Well of Tears, the gem will fuse inside the
+                                                           chalice, turning it into a solid sphere: Scrome’s
+                                                           Evil Eye (see boxed text).
+
+
+
+
+                                                                   WYRM’S KEY
+The entire legend is a fabrication. The Well of            There are no legends pertaining to the key, which
+Tears is the remains of the evil eye of the giant          was originally forged for the Psychopomp Natrix.
+Scrome (see page 242).                                     It is said, however, that no secret can be hidden
+                                                           from the god Wyrm’s gaze, no door locked against
+                                                           his passing.
+              APPEARANCE
+The Well of Tears is a hollow sphere of a tough
+bone-like material, large as the head of a man.                           APPEARANCE
+It has a light tan coloration and is streaked with         The key is strangely shaped, but in itself insig-
+what appears to be living veins. The sphere has            nificant. It consists of an old iron key shaped
+a circular opening and replenishes itself with             like a writhing serpent that devours itself. It is
+blood-mixed saltwater. It is often placed stand-           possible that the design of the key may be the
+ing upright, supported by a thick iron ring.               origin of the belief that the serpent was made
+                                                           from iron, which later gave rise to the concept
+                                                           of the father deity, Rust.
+        SUGGESTED LOCATION
+Ritual chalice of the Iron Guard at Haggler’s
+House (see Raven’s Purge).                                                    EFFECTS
+                                                           Wyrm’s Key gives a D12 Artifact Die to all at-
+                                                           tempts to pick locks using the SLEIGHT OF HAND
+                  EFFECTS                                  skill. It is a TINY item.
+Whomever drinks from the chalice immedi-
+ately restores all lost Strength and Agility and
+gains one Willpower Point. At the same time,
+he loses one point each of Wits and Empathy.
+These can be recovered normally. Only one
+person can drink from the chalice each day.
+Every morning at dawn, it is magically refilled.
+
+
+
+
+                                                     145
+
+                                               artifacts
+                        ENCOUNTERS
+
+
+
+       Himeon leaned in to poke the fire, casually grabbing his bow
+       in the process.
+           “Something watches us and hungers,” he said.
+           Sanarda looked around while drinking from her flask. Hairy
+       spider legs clambered among the darkening foliage overhead.
+           “I wasn’t tired anyway.”
+
+
+
+
+T
+        his chapters details a number of ran-             upon them. During journeys, the adventurer
+        dom encounters that you can use                   who KEEPS WATCH gets to make a SCOUTING roll.
+        during    the   adventurers’    journeys          Make a straight roll, not an opposed roll unless
+across the Forbidden Lands.                               the threat is actively ambushing the adventur-
+   Use the table on the next page by rolling              ers. Success generally means that the lookout
+D66 and enter the result in the column indi-              notices the threat while it’s still at a safe dis-
+cated by the terrain type of the hex that the             tance. The adventurers can then decide wheth-
+adventurers are currently in. Each encounter              er to show themselves, set up an ambush, or to
+has a number attached to it. Find the entry               SNEAK away undetected.
+
+with the corresponding number, and resolve                    Failing the SCOUTING roll means that the
+the encounter.                                            threat is up close and personal before the ad-
+   Typically, don’t roll when the adventurers             venturers notice it.
+enter a hex with an adventure site in it, as they
+will have plenty to do there anyway!
+
+                                                            0 NO
+                 SCOUTING
+                                                              ENCOUNTER
+The adventurers generally have a chance to
+spot a threat from an encounter before it’s               Time passes without any significant encoun-
+
+
+
+
+                                                    146
+
+                                              chapter 7
+                                   RANDOM ENCOUNTERS
+     D66     PLAINS   FOR-    DARK   HILLS        MOUN-        LAKE    MARSH-     QUAG-     RUINS
+                      EST     FOREST              TAINS                LANDS      MIRE
+     11–36   0        0       0        0          0            0       0          0         0
+     41      1        1       1        1          1            0       1          1         1
+     42      16       16      1        2          35           0       5          4         4
+     43      2        17      18       31         31           1       9          5         5
+     44      3        18      19       21         21           1       9          7         6
+     45      4        2       20       22         22           38      11         8         8
+     46      5        28      21       3          4            38      12         9         9
+     51      6        3       3        4          5            4       12         10        9
+     52      7        6       25       5          23           4       13         11        9
+     53      34       7       24       7          7            39      16         12        11
+     54      8        34      9        33         33           39      18         13        12
+     55      9        8       9        34         36           39      21         14        13
+     56      10       24      10       24         24           39      29         16        21
+     61      11       9       11       9          9            5       30         21        21
+     62      12       10      12       32         32           5       38         23        24
+     63      13       11      13       11         11           40      40         29        29
+     64      14       12      29       12         12           40      41         30        30
+     65      15       13      27       13         13           41      42         34        34
+     66      30       26      30       14         37           41      42         42        43
+
+
+
+
+ter. Describe the surrounding nature – the
+rustle of leaves in the forest, the howling
+                                                          1        THE BLOOD
+winds across the plains, the mist in moun-
+                                                                   MIST
+tain valleys, or the soft rain against the ad-
+venturer’s faces. For the moment, they are             It all happens almost imperceptibly. At first, all
+alone in their journey across the Forbidden            sounds die down and the only thing that can be
+Lands.                                                 heard is your own small talk. Then you get the
+                                                       feeling that the hair on the backs of your necks
+TERRAIN TYPES: All                                     rises up, as if the air is filled with some strange
+
+
+
+
+                                                 147
+
+                                            encounters
+                                                             must make an INSIGHT roll each round. Fail-
+                                                             ure means that the adventurer suffers 1 point
+                                                             of damage to Empathy and suffers intense
+         REOCCURING ENCOUNTERS                               feelings of homesickness. If the victim is Bro-
+       Sooner or later, you will roll                        ken, she loses her will to live and simply sits
+       an encounter that you have                            down to die. The other adventurers must drag
+       already rolled before. When this                      her to safety.
+       happens, choose one of the                                After some time in the Blood Mist, the
+       options below:                                        adventurers are attacked by a Bloodling (see
+       ✥✥ Continue the encounter.                            page 78).
+           The adventurers meet the
+           same people or creature                           TERRAIN TYPES: All
+           again.
+       ✥✥ Change the encounter. The
+           adventurers meet a similar
+           creature or person, but it’s
+                                                                2 DUEL IN THE
+           different in some way.                                 WOODS
+       ✥✥ Re-roll.
+                                                             You hear the sounds of battle and a violent bellow-
+                                                             ing mixed with battle songs and cries. Further
+                                                             along the road, an orc is dueling with a tattooed
+energy. Finally, you see it, the crimson mist, slow-         elf. They lunge at each other and parry without
+ly flowing above the ground towards you. The                 hitting each other. Occasionally they stop in order
+Blood Mist.                                                  to hurl insults at one another.
+
+
+The adventurers have walked into a pocket of                 The elf Heldemin, a wandering sap carver,
+living Blood Mist. It comes from everywhere                  has long tried to approach the orc clan of
+and forms a ring around the party. If the                    Roka to study their customs and try to un-
+lookout spots it in time, the adventurers can                derstand them. She then became acquainted
+each make a MOVE roll to get away by climb-                  with the orc smith Alachran. When she dis-
+ing a tree or something similar. If the look-                covered his great singing voice, she got the
+out fails the roll, the adventurer is caught in              idea of putting on a dramatic theatrical scene
+the Blood Mist. If the adventurer can make                   with him, performing both among the orcs
+the MOVE roll but fails, the adventurer is also              and the elves. As their friendship is rather
+stuck in the Blood Mist. Either way, the ad-                 controversial, they practice far away in the
+venturer can make another MOVE roll each                     forest.
+round to escape.
+    An adventurer engulfed by the Blood Mist                 TERRAIN TYPES: Plains, Forest, Hills
+
+
+
+
+                                                       148
+
+                                                chapter 7
+                                                               continue on their way through its territory, it
+                                                               will fight unto death.
+   3 THE ORCISH                                                    Read more about gryphons on page 102.
+
+     FUGITIVE
+                                                               TERRAIN TYPES: Plains, Hills, Mountains,
+At first you hear a guttural song, “Msshamassh, guk-           Lake, Ruins
+kull, gukkull,” and the sound of a drum beating out
+the rhythm. Then you spot a group of orcs walking in
+a chaotic procession, singing a hymn. In the middle of
+the group, two of the orcs carry a huge wooden stick,
+                                                                  5 THE HARPIES’
+where a trussed-up orc hangs dangling and helpless.
+                                                                    FEAST
+A group of orcs, twice as many in number as                    At first you hear the screams: “Giiiive meee!,”
+there are adventurers, are on their way back to                “Nooo, giiiive meee!,” “Nooo, I waaant to eeeat
+their clan with the fugitive Sargah, who ran                   the liiitle ones!” Then you spot three horrible crea-
+away to seek his own destiny in the Forbidden                  tures with eagle-like wings and twisted bodies,
+Lands. The orcs have typical game statistics as                swooping down upon you. Harpies!
+found on page 64.
+                                                               The three starving harpies, Krag, Mag and
+TERRAIN TYPES: Plains, Forest, Dark Forest,                    Serag, attack the adventurers so as to feast on
+Hills, Quagmire, Ruins                                         their corpses. During the attack, one of them
+                                                               spots a shiny object carried by one of the ad-
+                                                               venturers and starts to scream excitedly about
+                                                               “the treasure.” This presents an opportunity
+   4 DEATH FROM                                                for the adventurers to use the harpies’ greed
+
+     ABOVE                                                     against them.
+                                                                   This flock of harpies has a combined
+You hear a chilling scream in the air, and the next            Strength of 9. Read more about harpies on
+moment, the sound of heavy wing beats. Then you                page 104.
+see it. A huge, demon bird is descending from the
+clouds. It turns and wheels in the air and dives,              TERRAIN TYPES: Plains, Hills, Mountains,
+targeting your party.                                          Lake, Marshlands, Quagmire, Ruins
+
+
+The adventurers have suddenly traveled into
+the territory of a gryphon. Initially, it will
+try to scare the adventurers and assess their
+                                                                  6 THE HORSE
+strength. If the adventurers flee the way they
+came, the gryphon will circle above but will                   You hear the neighing of a horse, and suddenly it
+let them escape. If they attack the gryphon or                 stands before you. A proud stallion, with saddle, bags
+
+
+
+
+                                                         149
+
+                                                 encounters
+and a saddle blanket. Its owner is nowhere to be seen.         Harwa, has a bronze horn and when he blows on
+The lonely horse twists it head, clearly frustrated.           it, the entire group is meant to immediately leap
+                                                               up and attack their “saviors.” Their goal is not
+The horse belongs to the noble Lavide, killed in               to kill, but to put the adventurers out of action
+an ambush two days ago. In the saddle bags, there              using cudgels, and then sell them as slaves, pos-
+is a VALUABLE find as well as the rose-shaped sig-             sibly at Grindbone village (see the Raven’s Purge
+il of the noble house of the owner. The horse is               campaign book). If anyone manages to flee, the
+combat trained but does not take kindly to strang-             slavers will not pursue them, instead just proceed
+ers. However, a successful ANIMAL HANDLING roll                to secure those they have caught.
+calms the animal. If it fails, the adventures will
+have to catch it by force. If they return horse and
+sigil to Lavide’s family based in a nearby castle,                                SLAVERS
+they will be rewarded with the ownership of the                 STRENGTH 3, AGILITY 2, WITS 2, EMPATHY 2
+horse, as well as a PRECIOUS find.                              SKILLS: Melee 2
+                                                                GEAR: Wooden club or mace, leather armor,
+TERRAIN TYPES: Plains, Forest, Ruins                            D6 copper
+
+                                                               TERRAIN TYPES: Plains, Forest, Hills,
+                                                               Mountains, Quagmire
+   7 THE MASSCRE
+     LURE
+A terrible scene unfolds in front of you. A dozen
+                                                                  8 THE GREAT
+humans are crawling around with their innards
+                                                                    INSULTER
+spilled out, some still alive, soaked in blood. A cart
+with merchandise is overturned. A few people are               A loud and agitated voice cuts through the land-
+moaning, others screaming. A woman in chain-                   scape. Someone is shouting out mockery and in-
+mail is trying to lift a sword. When a comparatively           sults. When you get closer you see a rickety wooden
+healthy young man sees you, he screams hysterically.           structure rise several feet above the ground. At
+    “Robbers! They took our horses. Do you have                the top a small orc with an upstage look. When
+water? Is anyone a healer? No, brother, don’t fall             he sees you, he unbuttons his pants and urinates in
+asleep!”                                                       your direction, spewing insults all the while.
+
+
+The scene is, in fact, completely staged and no                The orc Khardnal calls himself the “Great Pro-
+one is hurt. A group of slavers have poured blood              voker” and wants to awake people from their
+and intestines from animals on to and around                   slumber. Khardnal sees it as his personal mission
+themselves, hoping that the adventurers will ap-               to spread his word and taunt passersby to release
+proach without their weapons drawn. The leader,                their inner rage, and believes that it is he who has
+
+
+
+
+                                                         150
+
+                                                   chapter 7
+scared the Blood Mist into withdrawal. If the
+adventurers attack Khardnal, he will use a bow                   D66       RUIN        WHO LIVED
+or axe and shield. He loves to enter his berserker                                     HERE
+rage. He will fight to his death whilst he taunts                25–32     Guard       Scout, fallen
+his opponents, and at the same time praises                                Post        on duty
+them for being in touch with their inner rage.                   33–35     Temple      Murdered
+    Khardnal is of the Urhur clan and has stats                                        raven sisters
+like a typical member (see page 64) with the ad-                 36–46     Farm        A rich mer-
+dition of the BERSERKER talent.                                                        chant, long
+                                                                                       since dead
+TERRAIN TYPES: Plains, Forest, Quagmire,                         51–54     Tower       A lost sorcerer
+Ruins                                                            55–62     Out-        Once manned
+                                                                           post        by Alderlander
+                                                                                       soldiers
+                                                                 64–64     Inn         Travelers be-
+   9 THE RUINS OF                                                                      fore the Blood
+                                                                                       Mist
+     OLD
+You see before you the broken remains of what was
+once a building, a civilized outpost in the wilds.
+Now nature has reclaimed the place and every-              TERR AIN TYPES: Plains, Forest, Dark
+thing that remains are but fallen remnants and             Forest, Hills, Mountains, Marshlands, Quag-
+memories lost in the mist of history.                      mire, Ruins
+
+
+The adventurers have found a ruin that is
+suitable as a safe place to make camp. In order
+to decide the type of ruin and who once lived
+                                                            10 THE FOX
+here, you should roll D66 on the table below
+                                                           A strange song echoes over the land. A growly
+                                                           male voice sings of purple flowers and deep tombs
+                                                           where heaven and earth meet. You have never
+     D66        RUIN        WHO LIVED
+                            HERE                           heard a song such as this before. As you pass a turn
+
+     11–16      Cabin       An old couple                  in the road, you suddenly find yourselves eye to eye
+                                                           with a small fox. It stares at you with large eyes.
+     21–24      Mill        A miller, bur-
+                            ied in the back                The song has ended.
+                            yard
+                                                           The fox is actually a demon called Grelf, and
+                                                           it is the creature who sang the song. However,
+
+
+
+
+                                                     151
+
+                                              encounters
+Grelf takes pride in being in character as a fox,         TERRAIN TYPES: Plains, Forest, Dark Forest,
+and prefers not to sing or talk as long as he is          Hills, Mountains, Marshlands, Quagmire,
+around the adventurers. If he decides to talk,            Ruins
+he will sound like a weary and grizzled warrior.
+Being a curious demon, Grelf will keep close
+to the adventurers and will sleep nearby when
+they camp (sometimes he talks about other
+                                                            12 THE HUNGRY
+worlds in his sleep, other times he just snores
+                                                               ROBBERS
+loudly). Grelf can transform into a demon at
+any time – use the tables for creating a demon            A group of unwashed humans, wearing worn
+on page 80.                                               clothes and all sorts of simple weapons, steps out
+                                                          on the road. They are dirty and look like they
+TERRAIN TYPES: Plains, Forest, Dark Forest,               haven’t eaten properly for a number of days. A
+Quagmire                                                  large man with a black beard steps forward,
+                                                          spits, and puts his hand on his sword. “Wot man-
+                                                          ner o’ dirt are ya? Wot are ya doin’ ’ere? Dontcha
+                                                          know who I am?”
+  11 THE FORGOT-
+     TEN PRINCE                                           A group of starving robbers, equal in number
+                                                          to the adventurers, led by Argam Twainbeard,
+A large pile of heavy rocks, stacked one atop the         has fallen on hard times and is looking for
+other in a monument that you recognize. Some-             loot that would make them happy again. The
+one has obviously spent a lot of effort building          robbers are tired and can be talked into shar-
+the cairn, and someone or something is buried             ing their camp if the adventurers offer food
+beneath it.                                               and stories.
+
+
+An Alderlander prince fell in battle hundreds
+of years ago. The prince, whose name has long                                BANDITS
+since been forgotten, was buried here beside his           STRENGTH 3, AGILITY 3, WITS 2, EMPATHY 2
+horse and two loyal knights, all of whom per-              SKILLS: Melee 3, Stealth 2, Scouting 1,
+ished in the same battle. The grave contains a             Survival 2
+silver necklace (worth 2D6 silver coins), an old           GEAR: Broadsword, hand axe or wooden
+broadsword and a piece of rusty chainmail. If              club, D6 copper
+the adventurers decide to look for treasures,
+the prince will wake from his slumber and at-             TERRAIN TYPES: Plains, Forest, Dark Forest,
+tack them as a Death Knight!                              Hills, Mountains, Marshlands, Quagmire,
+    You can read more about Death Knights on              Ruins
+page 86.
+
+
+
+
+                                                    152
+
+                                              chapter 7
+                                                            selves. Several of them have cut off their tongues
+  13 THE PLAGUE                                             or ears, some have picked out their own eyes. At
+
+     BROTHER                                                the front of the line is a group of women dressed in
+                                                            red, they carry a big plate with burning incense.
+You find the decayed remains of an unfortunate              One of them holds a pole with a strange iron sym-
+wanderer in front of you. The ravens and wild               bol. In the middle of the crowd, there is a wooden
+animals have already done their part and the                construction on wheels. From ropes, naked people
+body is just about hacked to pieces.                        hang with hooks attached under the skin. Chained
+                                                            slaves push the structure through the mud.
+The dead man was a Rust Brother who fell into
+disfavor and was subjected to a cruel experi-               The leader of the cultists is Mother Catyala,
+ment by his master. His name was Largas and                 leader of a breakout faction of the Rust Church.
+he was intentionally infected with a demonic                She preaches that the Blood Mist spread over the
+plague. Largas managed to escape from his                   Forbidden Lands to mark its downfall. When
+pursuers, but the infection had taken hold.                 the mist cleared, it was a sign that the end was
+The plague eventually ran its course, and he                near. Portals to the demon realm are open. Ban-
+died at this spot, suffering from intense pain.             dits and outlaws rape and pillage. The land is
+    Any adventurer who touches the corpse will              tearing itself apart. The only way the Forbidden
+be infected, but the disease is now a lot weaker,           Lands can be saved is if its people punish them-
+with a Virulence rating of 3. During the course of          selves enough to make the gods forgive them.
+the infection, the victim will experience strong                Mother Catyala will try to persuade the ad-
+hallucinations, seeing twisted demons instead of            ventures to throw away their clothes and gear
+people. The corpse also has a simple bronze me-             and join the crowd. To her help she has the iron
+dallion with the sigil of the Rust Brothers.                symbol, which contains the ILLUSION spell. An
+                                                            adventurer who looks at the symbol make an
+TERRAIN TYPES: Plains, Forest, Dark Forest,                 INSIGHT roll. Failure means that the adventur-
+
+Hills, Mountains, Marshlands, Quagmire,                     er will see the world through the eyes of Moth-
+Ruins                                                       er Catyala. The effect will last until the symbol
+                                                            is destroyed or out of sight.
+
+
+                                                            TERRAIN TYPES: Plains, Hills, Quagmire
+  14 FLAGELLANTS
+It’s hard to tell if it is the sound of whips and
+screams or if it is the banging of drums and chant-
+                                                              15 BEGGARS
+ing of holy words you first notice. A large proces-
+sion approaches. Dressed in black and wrapped               You see them from afar, a crowd of hungry and
+in blackberry thorns, they whip and beat them-              weary wanderers dressed in rags. The beggars
+
+
+
+
+                                                      153
+
+                                               encounters
+surround you with outstretched hands, saying                                  ANDRED
+nothing.                                                     STRENGTH 2, AGILITY 2, WITS 4, EMPATHY 4
+                                                             SKILLS: Melee 2, Manipulation 3, Move
+These twenty or so beggars are the remains of                2, Marksmanship 4, Insight 4, Stealth 4,
+the village of Freygrove, that was burned down               Sleight of Hand 5
+by rapacious adventurers.
+                                                            TERRAIN TYPES: Plains, Forest, Marsh-
+TERRAIN TYPES: Plains                                       lands, Quagmire
+
+
+
+
+  16 THE DWARF                                                17 WEDDING
+     BALLOON
+                                                            In the distance you hear song and dance; human
+     PILOT                                                  voices and deep voices of orcs. They sing songs of
+                                                            joy. As you get closer you see a wooden stage deco-
+At the distance, you spot a green cocoon up in a            rated with flowers in the center of a glade. Tables
+tree. When you get closer you see that it is an air         with food and drinks. Musicians with violins and
+balloon stuck at the top of the tree.                       accordions. And at the edge of the glade stands an
+                                                            orc woman and a human man dressed in white.
+The dwarf Andred disavowed the god Huge
+after a tunnel collapse killed his family. An-              The orc Tregga and her soon to be husband
+dred was on the other side of the collapse. He              Robert have decided to leave their lives as war-
+heard their screams and how they suffocated                 riors behind and join in matrimony. They have
+one after another. Since then, he refuses to                gathered their closest friends and family. If the
+set his feet on the ground, and he travels over             adventurers approach the wedding and talk to
+the Forbidden Lands in his hot air balloon.                 someone they will be introduced to the bride
+To survive, he lays anchor at night on top of               and groom who will invite them to stay.
+homes and steal things he can later trade for                   Some of the wedding guests both orc and
+food and other necessities. The balloon has                 human have decided to sabotage the wedding,
+now crashed in to a tree. Andred has broken                 they find the thought of mixing the kins dis-
+his leg. He needs help to repair the balloon                gusting. They have agreed to start a fight with
+but is afraid that the adventurers will rob                 each other during the ceremony in the hopes
+him. Andred has three loaded crossbows and                  that the other guests will join in. The adven-
+a battleaxe. In the balloon, there is stolen                turers can either join them or try to put an end
+property: one SIMPLE and one VALUABLE find                  to the brawl.
+(roll on the “in a lair” tables on page 188).
+                                                            TERRAIN TYPES: Forest
+
+
+
+
+                                                      154
+
+                                               chapter 7
+                                                                   only has the Strength attribute, which is
+  18 THE DEMON                                                     equal to the number of pastries divided by 5
+
+     BAKER                                                         (round up). The pastries have no skills. Their
+                                                                   attacks have Weapon Damage 1 (stab wound).
+When the wind turns you feel the smell of freshly              ✥✥ SECOND ENCOUNTER: The next time
+baked bread. As you approach you see a small stone                 the adventurers visit Melkar, he is sur-
+house nestled in vegetation. There are no trails, pas-             rounded by 70 demonic pastries that are
+tures or fields. Heavy smoke rises from the chimney                engaged in producing weapons and baking
+and light glows in the small square windows.                       new pastry creatures. They serve Melkar,
+                                                                   who sits comfortable in his armchair,
+The house is home to Melkar, a stout Hal-                          feasting on ill-behaved bread and buns,
+fling with a thin red beard. After he was driv-                    screaming in agony as the demon baker
+en away from his village of Pernty, he found                       devours them. The Halfling now shows
+some demonic rocks that he used to build                           his true personality, he acts superior and
+an oven. Melkar is dressed in white clothing                       even threatening.
+and a baker’s hat. Around him sits plates and                  ✥✥ THIRD ENCOUNTER: The third time
+bowls filled with dough. Two of the plates have                    the adventurers visit the site, the house
+dough in the shape of creatures with arms, legs                    is empty. Melkar has taken two hundred
+and raisins for eyes. Those who look closer will                   demonic pastries to the village of Pernty.
+see that the two pieces of dough are alive.                        The villagers in Pernty cast out Melkar
+    Melkar uses his oven to bake pastry creatures                  because he stole a piece of jewelry. Melkar
+made of dough. His plan is to use them as ser-                     has his revenge by letting his troops burn
+vants and warriors. One batch is already done.                     down the village and taking its inhabi-
+Chests, pots and cabinets hide twenty pastry                       tants as slaves. If the adventurers remain
+creatures armed with small spears and knifes                       in the house, he will return within a few
+    Melkar will invite the adventurers to tea and                  hours with a lot of halflings in chains.
+pastries, that are not alive. If the adventurers dis-
+cover a pastry creature Melkar tells them that he              TERRAIN TYPES: Forest, Dark Forest,
+has the ability to create life, and that he wants to           Marshlands, Quagmire
+live in peace with his creation. If the adventur-
+ers attack he will call upon all the pastry crea-
+tures. In a wooden chest there is a diamond jewel
+(worth 1 gold) that Melkar stole from the village
+                                                                 19 THE ANIMAL
+chieftain of Pernty. If the adventurers try to bake
+                                                                    SANCTUM
+their own pastries, the demon living in the rocks
+will try to corrupt them.                                      When the darkness spreads and your fire is burn-
+✥✥ DEMONIC PASTRIES: Melkar’s demonic                          ing you see the first couple of eyes in the trees. At
+    pastries are handled as a single creature. It              first there is just a few, but more and more eyes
+
+
+
+
+                                                         155
+
+                                                 encounters
+appear, more than you can count. You are sur-               a few more steps, halt and then sound off again in
+rounded. Owls and other woodland creatures                  a slow procession.
+move between the trees, mice running over your
+backpacks. Worms crawl at your feet and birds sit           The Ents are carrying a dead relative towards
+on your axes and swords. A deer stands a few feet           the Stillmist in a burial procession. The elf ruby
+away, next to it a fox. The animals approach you            heart of the dead Ent is still in place, but the
+slowly.                                                     creature has asked to be rid of its tree body and
+                                                            mounted as a ruby in the memorial wall of Ro-
+The adventurers have accidentally made camp                 senstaad. If the Ents are in an odd location or
+at the animals’ sacred sanctum. The animals                 region, perhaps they are carrying the dead Ent
+are there to peacefully drive them away. More               to a place it always wanted to see. A few elves
+animals will arrive at the camp, big wild boars,            are escorting the procession, but will not make
+wolves and elks. They will use their snouts and             themselves known unless the adventurers dis-
+horns to try to push the adventurers and their              turb the Ents. If they do so, the elves will speak
+equipment away from the spot. If the adventur-              up: “Be gone, cursed meat bags!” The elves ar-
+ers attack, the animals will stand back but not             en’t many but if there is a fight, the Ents will
+leave. Eventually the black elk arrives, the holy           lay down their burden and join the fray. They
+leader of the forest animals. She shoves the                will not kill anyone if it can be avoided, but will
+campfire with her horns and gives off a loud                smash gear and break a few limbs just to make a
+breath. If she is attacked, all the animals of the          statement. If the adventurers don’t disturb the
+forest will aid her and won’t stop attacking the            procession, they will be left alone. An Ent may
+adventurers until they leave the forest.                    even leave the procession, bow to the adventur-
+    For game stats for animals, see page 126.               ers, and bestow a gift: a fruit or a nut from the
+                                                            dead Ent, or something more useful.
+TERRAIN TYPES: Dark Forest
+                                                            TERRAIN TYPES: Dark Forest
+
+
+
+ 20 THE BURIAL
+                                                              21 THE VENGEFUL
+    PROCESSION
+                                                                 SPIRIT
+Something very large is approaching, giving off a
+sound you have never heard before. Dull, drawn-             Quiet! Can you hear it? A scream? A voice? You
+out horn signals are shaking the very air. Creak-           look at each other, but the landscape is deserted.
+ing and snapping sounds create a rhythm around              Then suddenly, you feel an ice-cold wind blow-
+howls cutting the air in plaintive cascades. After          ing through your souls. A gray, shimmering shape
+a while five walking trees appear, carrying a sixth         forms in the middle of your party, with a once
+between them. They take one step, sound off, take           human face twisted in an unnatural scream.
+
+
+
+
+                                                      156
+
+                                               chapter 7
+You have heard the stories around the campfires                  The dwarf Varamak got the vison of the glass
+before. A lost soul, a spirit unable to come to rest.            structure in her dreams. She thinks it is possi-
+                                                                 ble to understand, curb and control the Blood
+The adventurers meet the ghost of the long                       Mist. For several weeks she has been working on
+dead    Alderlander      commander         Garmagol.             her life’s project. The only thing left is to gather
+During a campaign four hundred years ago, he                     the Blood Mist in a glass tube and pour it in to
+was lured into a trap by his war-weary men and                   the structure. She asks the adventurers for help.
+murdered by his own troops. Since then, Gar-                     What Varamak does not know is that the vision
+magol has wandered the land seeking revenge.                     she had was created by a demon. If she is able
+As the Alderlander soldiers are long gone,                       to collect the Blood Mist it will spread through
+anyone with a weapon is fair game. If the ad-                    the structure with increasing speed making a
+venturers are observant, they can see that the                   screaming sound. After D6 hours, the glass will
+ghost has a shimmering dagger stuck between                      break. The mist will cover the surroundings in
+his shoulder blades. The adventurers might be                    the entire map hexagon (see the Blood Mist ran-
+able to reason with the ghost if they talk about                 dom encounter). It will disperse after D6 weeks.
+the dagger and Garmagol’s death.
+    The ghost cannot be avoided by KEEPING                       TERRAIN TYPES: Hills, Mountains
+WATCH. Read more about ghosts on page 94.
+
+
+
+TERRAIN TYPES: Plains, Forest, Dark Forest,
+Hills, Mountains, Marshlands, Quagmire,
+                                                                  23 THE PUPPY
+Ruins
+                                                                 You hear a slight squeak, and then something re-
+                                                                 sembling a bark. Beneath a bush a tail is sticking
+                                                                 out. It’s a puppy dog watching you with large eyes.
+  22 THE GLASS-
+     BLOWER                                                      It turns out the puppy has hurt one of its
+                                                                 legs. Its mother and five other puppies were
+In the distance, you hear a beeping sound every                  killed by the troll Ghormald who wanted them
+time the wind take hold of the trees. It sounds like             for lunch. The puppy managed to run away.
+a huge flute. A glass structure rises above the land-            Ghormald has followed its tracks and arrives at
+scape; corridors, openings, spirals and tunnels all              the scene with a dead puppy in each hand and
+made of glass. In the middle of the building stands              her face covered in blood. She asks the adven-
+a dwarf, illuminated by flames from a fireplace.                 turers to leave her prey be. She is ready to fight
+The dwarf lifts the tip of a long metal rod from the             for it using a club hanging from her belt.
+fire, it is covered in a pulp of glowing glass. She puts             Ghormald is a typical troll (page 120).
+the other end to her lips and with a heavy breath the
+pulp transforms in to a long winding tube of glass.              TERRAIN TYPES: Mountains, Quagmire
+
+
+
+
+                                                           157
+
+                                                   encounters
+                                                           her daughter. They make a particular type of
+ 24 THE CURSED                                             candle used in religious ceremonies. The son
+
+    OGRE                                                   of the family disappeared an hour ago into the
+                                                           forest to pick Blueshine, a type of flower used
+“Toil ‘n’ trouble, trouble ‘n’ toil.” A deep, gut-         to make the candles. The mother offers the ad-
+tural voice echoes across the land. The next mo-           venturers ten candles if they can find her son
+ment, you see a large and muscular ogre drag-              and bring him back. The candles that they are
+ging a sack. Something is kicking inside the sack,         making won’t work until they have been dipped
+causing the ogre to bash the sack repeatedly. The          in a tub of pulverized Blueshine. When they are
+movements end immediately. “Shut up, you, I                done, they can be lit and create the same effect
+said!”                                                     as the CLEANSE SPIRIT spell of Power Level 1 (see
+                                                           page 123 in the Player’s Handbook). The Engsle
+Kurge the ogre is on his way to his lair with his          son has been caught by the ogre Gonlab, who
+latest captive. In the sack can be found the un-           has taken him as his slave. Gonlab is a typical
+fortunate Rust Brother Oker, who had invoked               ogre (see page 61).
+the curse of the god Rust on Kurge. The ogre
+hasn’t yet decided what to do with Oker, but               TERRAIN TYPES: Dark Forest
+is considering something fun, like practicing
+stone throwing, or ripping his limbs from his
+body. It all depends on Kurge’s mood.
+    Kurge has the typical game statistics of an
+                                                            26 FOREST FIRE
+ogre, as found on page 61.
+                                                           The smell of smoke hits you as a deer rushes by.
+TERRAIN TYPES: Plains, Forest, Dark Forest,                Over the trees you see black smoke. The wind
+Hills, Mountains, Ruins                                    turns, and the fire is coming your way.
+
+
+                                                           A forest fire is raging. Animals are trying to
+                                                           get away, treetops catch fire and suffocating
+  25 CANDLE-                                               smoke spreads through the forest. The fire
+
+     MAKERS                                                is moving fast. The adventurers must suc-
+                                                           ceed with a roll against SURVIVAL to escape.
+Outside a cabin, two women, one old and one                If they fail, they will be attacked by flames,
+younger, stand next to a cauldron with burning             roll for the attack against each adventurer us-
+logs underneath. Next to it, blue candles hang             ing six Base Dice (Weapon Damage 1). The
+from a stand. The women look worried, staring              adventures can then roll SURVIVAL again to
+into the forest.                                           escape. If they fail again, the fire attacks
+                                                           with seven Base Dice. This cycle continues,
+The adventurers meet the woman Engsle and                  with another Base Die added to the fire at-
+
+
+
+
+                                                     158
+
+                                               chapter 7
+tacks each time, until the adventurers escape
+or are Broken.
+                                                          28 THE EMPTY
+   Don’t forget to ask the players to describe
+                                                             HOUSE
+their actions, and tell them how the flames
+surround them, how their lungs fill with                 At a distance, smoke from a chimney can be seen.
+smoke and burning trees crash to the ground              A small cottage nestled between tall trees. On a
+in front of them.                                        stand of sticks laundry hangs to dry. Next to the
+                                                         building there is a small fenced enclosure, but no
+TERRAIN TYPES: Forest                                    animals can be seen. A small field is surrounded
+                                                         by rocks picked from its soil. Green stems stand in
+                                                         straight lines. You hear a ripple from a stream.
+
+ 27 BLACK SAND                                           The adventurers have arrived at a cottage
+                                                         where the family living there recently got
+The forest opens up and you look upon a giant            attacked and taken as slaves. The cottage is
+glade surrounded by trees. The ground is cov-            empty. A fire is still burning and on the din-
+ered by black sand. You see no plants. You see           ner table there are carders for wool. In a crib
+some rocks that could be the remains of a house.         lies a doll. A chair has been tipped over and a
+Someone is sitting in the middle of the glade,           splash of coagulated blood decorates the wall.
+a young girl with her eyes fixed on the ground.          The residents nor the kidnappers are anywhere
+It reeks of sulfur. The sand rattles as the wind         to be seen but footprints can be found in the
+blows through the glade.                                 mud outside the cottage. If the adventurers
+                                                         track the kidnappers (stats as typical bandits,
+Two rival sorcerers met in the village of Wil-           see page 183) they will find that the local lord
+derwood one of them failed with her spell, the           needs new slaves for his silver mine.
+mishap resulted in the destruction of both the
+sorcerers and the entire village. The only sur-          TERRAIN TYPES: Forest
+vivor is the girl Linn. She is unreceptive and
+will not answer if spoken to, move or resist if
+the adventurers take her with them. After D6
+days, if fed, she can tell the adventurers what
+                                                          29 THE RUSTLE
+happened. If she continues to stay with them,
+                                                             OF BONES
+she will show that the accident gave her strong
+magical powers that she can’t control. Linn              They appear without warning. A group of once
+wants to learn how to cast spells. She wants to          proud human warriors. Now they are nothing
+kill all the sorcerers in the Forbidden Lands.           but crumbling skeletons, which for some reason
+                                                         have been given unholy life. They are totally silent,
+TERRAIN TYPES: Dark Forest                               but when they start to move you hear the dry sound
+
+
+
+
+                                                   159
+
+                                           encounters
+of centuries-old bones, creaking against each oth-          dwarves. Teramalda is kept alive by a magical
+er. The grinning skulls of the skeletons open their         iron spike that has been driven through the Fer-
+jaws when they attack, emitting a silent scream.            rale’s chest inside the armor. She is practically
+                                                            invulnerable and will not answer if spoken to.
+D6+3 skeletons attack the adventurers with-                 Meeting Teramalda will be different each time:
+out warning. They fight to the last man, but                ✥✥ FIRST MEETING: Teramalda will just
+are not particularly fast and it is fairly easy to             stand and look at the adventurers for a
+run away from them, although the skeletons                     while until she decides that they are not
+will pursue the adventurers as long as they                    interesting enough. If the adventurers at-
+are in sight.                                                  tack her, go directly to the third meeting.
+    The attackers have game statistics like typ-            ✥✥ SECOND MEETING: Teramalda will attack
+ical skeletons, see page 122.                                  any dwarves in the party.
+                                                            ✥✥ THIRD MEETING: Teramalda classifies the
+TERRAIN TYPES: Dark Forest, Marshlands,                        adventurers as enemies and attack them.
+Quagmire, Ruins                                                She will not pursue them if they flee.
+                                                            ✥✥ FOURTH MEETING: Teramalda sees the
+                                                               adventurers as sworn enemies and pursues
+                                                               them. She walks slowly and can be heard
+ 30 TERAMALDA                                                  some distance away but will never give up.
+                                                               She will find her enemies as long as they
+The smell of burning meat reaches your noses,                  carry any iron.
+and at the same time you hear heavy footsteps.
+Something is making its way through the green-
+ery. The creature is making a terrible racket,                            TERAMALDA
+squeaking and clattering. The very ground is                 STRENGTH 12, AGILITY 4, WITS 3, EMPATHY 2
+shaking. As it emerges from the greenery in front            SKILLS: Scout 2
+of you, stands a massive knight, completely cov-
+                                                             GEAR: Two-handed sword
+ered by ancient, rusty black armor. The breast-
+                                                             SLOW: RUN is a SLOW action for Teramalda.
+plate has a sign hammered into it. The creature
+                                                             INVULNERABLE: Teramalda is immune to all
+carries a sword, brown hued with dried blood.
+                                                             forms of damage. The only way to kill her
+                                                             is to remove the magical iron spike that
+The walking armor is the strange undead crea-                has been driven through her chest. This
+ture Teramalda, who wanders through the For-                 requires GRAPPLING or immobilizing her in
+bidden Lands looking for revenge ever since the              some other way, and then make a Formi-
+dwarves burned her alive in her armor 350 years
+                                                             dable (–3) MIGHT roll (slow action).
+ago. The Rust Brothers regard her as the cham-
+pion of their god Rust, as the breastplate carries          TERRAIN TYPES: Plains, Dark Forest,
+the sign of their god, and she primarily kills              Marshlands, Quagmire, Ruins
+
+
+
+
+                                                      160
+
+                                               chapter 7
+                                                             enslaved her but also because she knows that
+  31 THE STONE                                               there will not be enough food for the child to
+
+     SINGERS                                                 survive. A quick death is better. Miraculously
+                                                             the child managed to survive the fall without a
+A strange, gigantic and weather-beaten structure             scratch. The rats have just discovered the baby
+rises from the landscape. It glistens vaguely, as if         whose screams will become louder. If the ad-
+made of metal mixed with stone. The construction             venturers don’t save the baby, it will go silent in
+is not a building and doesn’t serve any purpose you          a couple of minutes. The mother Belinda lives
+can imagine. Next to it is a group of dwarves, busy          in a nearby rundown cabin. Once a day she is
+with measuring tools and maps. You are spotted by            visited by the father of the child, a tyrant who
+an armored guard with an axe who points at you.              has several families all around the area that
+                                                             he controls with the help of ten armed thugs.
+Dwarves from the Belderan clan (see page 58)                 Belinda will pretend that she doesn’t recognize
+have resumed the task of extending the world                 the baby but if the adventurers push her she
+globe, a work that has been dormant because of               will break down and tell them everything.
+the wars and the Blood Mist. At the moment,
+they are checking the condition of the ancient               TERRAIN TYPES: Hills, Mountains
+constructions. The group is led by the stone
+singer Porisia Silverthroat and is accompanied
+by a few soldiers acting as guards. Porisia is en-
+thusiastic and will happily talk about the work
+to honor the dwarven god Huge.
+                                                              33 THE
+                                                                 MINOTAUR’S
+TERRAIN TYPES: Hills, Mountains
+                                                                 LAMENT
+                                                             A harrowing roar echoes throughout the land. It is
+                                                             a howl filled with enormous anger – and sorrow.
+ 32 RATS                                                     After the next bend in the road, you are met by
+                                                             a terrible scene: four soldiers lie slain in a violent
+A chittering sound makes you look down the hill              battle and towering above the corpses is a bloody
+and see thirty rats moving on top of something               and sobbing minotaur. The beast is leaning over
+wrapped in white pieces of cloth. Only when the              another minotaur, killed by about a dozen ar-
+little bundle starts to scream, you realize that the         rows. The minotaur roars its sorrow towards the
+rats have found a living baby.                               sky. Then it turns towards you.
+
+
+The little halfling baby has been abandoned                  Kaun, the life partner of the minotaur Mar-
+by its mother who threw it off a cliff, partly               kut, died in a fight against a group of soldiers
+because the father of the baby is the man that               from a nearby castle, led by a battle-scarred
+
+
+
+
+                                                       161
+
+                                               encounters
+soldier named Arren. Four survivors from                   A closer look reveals the jesters to be strangely
+the patrol are currently hiding among the                  apathetic, as well as looking old and smelling
+trees nearby. Markut will not rest until all the           badly. If asked to perform, they can’t reply,
+soldiers are dead. Arren’s soldiers are deathly            can’t juggle even with a single ball, and their
+afraid of her, but also want to avenge their fall-         body parts fall off at even the simplest attempt
+en comrades and retake the banner lying on the             at acrobatics. The jesters are in fact painted,
+ground among the dead. The adventurers end                 restless dead (see page 122), that the villagers
+up in the middle. Which side will they choose?             have herded together and are secretly moving
+                                                           to a safe place, where the Rust Brothers will
+                                                           not be able to find them.
+              THE SOLDIERS                                    A unit of Iron Guards (see page 40) is
+ STRENGTH 4, AGILITY 3, WITS 2, EMPATHY 2                  tracking them and will reach the company
+
+ SKILLS: Melee 2                                           moments after the encounter with the adven-
+                                                           turers. Captain Holmar is in a good mood,
+ GEAR: Broadsword, small shield, studded
+ leather                                                   playing along, demanding a performance
+                                                           for himself and his soldiers. After a while,
+                                                           Holmar drops his facade. The dead are to be
+                                                           moved to the closest Rust Brother temple to
+                   MARKUT                                  be re-educated as servants and soldiers, while
+Markut has game stats as a typical minotaur                the escort is to be arrested for blasphemous
+(see page 112). She is armed with a two-handed             disobedience. The adventurers can help the
+axe.                                                       townsfolk, or just go on their way. If the ad-
+                                                           venturers meet the troupe again, the undead
+TERRAIN TYPES: Hills, Mountains                            jesters are being herded along with prods.
+
+
+                                                           TERRAIN TYPES: Plains, Forest, Hills, Quag-
+                                                           mire, Ruins
+ 34 THE RESTLESS
+    DEAD
+A company of jesters are traveling along the road,
+                                                            35 THE SLEEPY
+some on foot and others riding in carts. Many of
+                                                               TROLL
+them are gaudily painted and dressed in comical
+garb, although this place in the wilderness is not         A terrible roar shatters the silence of the land.
+exactly the ideal location for a performance. The          Then you notice the stench. In front of you, the
+men and women escorting the troupe on horseback            rocks of the mountain appear to have come alive.
+greet you in a tense manner. None of them are              A huge, gray, mottled form emerges from the side
+wearing make-up or body paint.                             of the mountain, staring at you with cold, yellow
+
+
+
+
+                                                     162
+
+                                               chapter 7
+eyes. Heavy rocky arms are raised in the air, and          green. Inside one of them, a black dragon
+you hear another roar. “Who arrre you, little              spawn seemed to be sleeping. The four de-
+creeeeps disturbing Karrrg?”                               cided to return to the flock for advice but on
+                                                           their way out they became ill and weak, they
+The adventurers have, unwittingly, walked                  lost all of their fur. Maybe someone can go
+right onto the lair of the mountain troll Karg             down into the underworld and make their fur
+and have wakened him from his deep slumber.                grow back.
+Karg is in a really bad mood in the mornings,                 The wolfkin have found Jagsatin the Sor-
+and will not let the adventurers pass through              cerer’s secret weapon: a dragon spawn she
+unless they have a gift for him (he is really fond         planned to train and use in her battle against
+of shiny things), or if they treat him to a din-           Zygofer. However, Jangsatin has been dead
+ner consisting of one of the juicy goblins found           for centuries. The crystals in the caves are
+in the area. Karg will also consider eating one            contaminated and placed there to keep in-
+of the adventurers or his or her horse, in ex-             truders away. If the adventurers approach the
+change for safe passage.                                   crystals, they suffer a disease with Virulence
+    Read more about trolls on page 120.                    rating of 9. To awake the dragon spawn, they
+                                                           have to break the crystal where it slumbers,
+TERRAIN TYPES: Mountains                                   which requires an attack causing at least 4
+                                                           points of damage. Each round they are close
+                                                           to the crystal they must roll an infection roll.
+                                                              The dragon spawn will be receptive in the
+ 36 THE FURLESS                                            first couple of days, and it can bond to an ad-
+                                                           venturer who makes a successful Animal Han-
+A group of creatures lurks among the rocks. Four           dling. The dragon grows fast. The older it gets
+people approach, all wrapped in cloth and armed.           the more intelligent and independent it will
+The leader growls like a wolfman, but his face is          become.
+furless.
+                                                           DRAGON SPAWN: The dragon spawn is a drag-
+The wolfman Abaken and his three wolfkin                   on (see page 88) but when hatched it has only
+friends were driven away from the flock when               Strength 4 and Armor Rating 3. Both values
+they lost all of their fur. They now hide in               increase by one point per week until the drag-
+the mountains, waiting for someone who can                 on has reached full size. At the beginning, the
+cure them from the disease that has turned                 dragon spawn is affectionate, but it will be-
+them “human.”                                              come increasingly unruly and will finally leave
+    Abaken can tell the adventurers that he                the adventurer that it bonded to.
+and his friends followed a mountain goat
+down into some underground caves. Down                     TERRAIN TYPES: Mountains
+there they found huge crystals in purple and
+
+
+
+
+                                                     163
+
+                                             encounters
+                                                              The woman in the boat is the human Linnaya,
+  37 ROAD BLOCK                                               she has been put in the boat because she has the
+                                                              Blue Plague. Her body is covered with blisters
+The narrow path winds forward along the side of               leaking blue pus. She is very weak and the in-
+the mountain. When you pass a turn, you see a pass            fection has caused her to lose her voice. If the
+with steep cliffs high above both sides of the path.          adventurers try to make contact, they suffer
+Someone has turned a wagon on its side blocking               the risk of being infected. The Blue Plague has
+the path ahead. The wagon is filled with barrels              Virulence rating of 5.
+and sandbags. There is no visible movement and
+no sound. There is no way around the roadblock.               TERR AIN TYPES: Lake, Marshlands
+
+
+The dwarf Guntermann has decided to make
+up for his mine running dry by “taxing” car-
+avans and other travelers. He has erected sev-
+                                                               39 THE
+eral roadblocks in the mountains. This road-
+                                                                  STOWAWAY
+block is guarded by three dwarfs. If attacked,
+they will sound a horn and in D6 turns three                  A shiny white sail can be seen, and then another.
+more dwarfs show up. If the adventurers want                  In front of you, a bulky wooden ship appears on the
+to pass without a fight, they have to pay 3 sil-              lake. You spot a half dozen people at work on the
+ver each.                                                     deck. One of them waves at you with his hat.
+
+
+                                                              The merchant cog Moon Apple is sailing with
+         DWARVEN WARRIORS                                     a cargo of spices, meat and various merchan-
+ STRENGTH 4, AGILITY 3, WITS 2, EMPATHY 2                     dise to a village on the other side of the lake.
+
+ SKILLS: Melee 3, Move 2, Marksmanship 3,                     The sailors are bored and will happily trade
+ Insight 4                                                    stories and goods with the adventurers. Cap-
+ GEAR: Battleaxe, studded leather, crossbow                   tain Sertold may even consider treating them
+                                                              to dinner in his cabin if they would like to stay
+TERRAIN TYPES: Mountains                                      for the night.
+                                                                  What Sertold doesn’t know is that the
+                                                              Moon Apple has a stowaway in the form of
+                                                              the goblin Meroggha. He is on the run from
+ 38 THE                                                       his brutal brother, who happens to be a local
+
+		INFECTED                                                    clan leader. When the adventurers continue on
+                                                              their journey, the goblin has snuck onto their
+You see a small boat floating around without oars.            own boat.
+In it is a pile of blankets. The blankets are moving,
+there is something underneath.                                TERRAIN TYPES: Lake
+
+
+
+
+                                                        164
+
+                                                 chapter 7
+                                                               souls that he keeps in bottles of glass with the
+ 40 DEATH FROM                                                 spell BIND SOUL (see page 139 in the Player’s
+
+    BELOW                                                      Handbook). If the adventures look at a bottle,
+                                                               they will see a gaseous form moving inside of
+Suddenly, it seems like the water around your vessel           it and the faint sound of a voice or breathing
+has started to boil. Something is moving below, some-          can be heard. Vergevil has no idea what really
+thing big. The next moment, the ship tilts over due to         is inside the bottles, but he knows that they are
+a hit from below, and you nearly fall into the water.          magical and wants to sell them as powerful ar-
+After that, everything happens fast. At first one,             tifacts. He wants 10 silver for a bottle, but he
+then two, and then three giant tentacles rise up from          can also agree to trade them for other valuable
+both sides. They grip the vessel, preparing to take it         items. If a bottle is opened, the soul escapes. A
+beneath the water’s surface. The monster beneath               Druid with the RESURRECTION spell (see page
+obviously doesn’t want you to travel in peace.                 124 in the Player’s Handbook) can let a soul en-
+                                                               ter an animal, or even give a sentient being a
+A giant squid is attacking the vessel. When the                second personality. Roll D6. On 1–3, the soul
+adventurers have chopped off half of its tenta-                retains its original personality and can act ra-
+cles, the monster sinks back into the depths.                  tionally. On 4–6, the soul has turned mad and
+Read more about giant squids on page 98 in the                 will act irrationally.
+Bestiary chapter.
+                                                               TERRAIN TYPES: Lake, Marshlands
+TERRAIN TYPES: Lake, Marshlands
+
+
+
+                                                                42 THE LIZARD
+  41 THE TRADER
+                                                                   HUNTERS
+     OF SOULS
+                                                               A strange clucking sound can be heard. It is echoed
+A small sailboat slowly slides through the water.              by more clucking sounds from another direction.
+Ten oil lamps illuminate the boat, a lyre is playing,          And from a third direction. In the mist, you spot
+and in the top of the mast a colorful pennant flies.           a number of odd creatures moving towards you.
+There are three people in the boat.                            Grey-green scaly skin, sharp teeth and yellow eyes.
+                                                               “Piiigs?” someone hisses. “Laaarge piiigiiies,”
+The trader Vergevil wants to discuss a trade                   from another hissing voice. “Biiig, uglyyy piiigs,
+with the adventurers. The goods are guarded                    can youuu speeaak?”
+by his sisters Ginda and Aneta (stats like typi-
+cal soldiers on page 183). The cargo on the boat               A group of Saurians, equal in number to the
+includes a number of peculiar things. Vergevil                 adventurers plus D6, come upon the adventur-
+has recently got his hands on a collection of                  ers. They are hunting and armed with spears
+
+
+
+
+                                                         165
+
+                                                 encounters
+and clubs. Sheeerz, the leader, lost his par-                after the mother attacked her with a knife she
+ents to human hunters and thus hates all hu-                 has decided to execute the punishment herself.
+mans (which the Saurians regard as large pigs,
+though they are unclear if humans are food or
+otherwise useful), but they are not particularly                       BOUNTY HUNTERS
+belligerent towards other races.                              STRENGTH 2, AGILITY 4, WITS 3, EMPATHY 2
+                                                              SKILLS: Melee 3, Move 3, Marksmanship 3,
+                                                              Scouting 4, Survival 3, Insight 3
+                  SAURIANS
+                                                              GEAR: Studded leather, bow, sword
+ STRENGTH 4, AGILITY 3, WITS 2, EMPATHY 2
+ SKILLS: Stealth 2, Melee 2, Survival 2,                     TERRAIN TYPES: Ruins
+ Scouting 2
+ PROTECTION: 4 (scales)
+ TYPICAL GEAR: Tridents or long spears
+
+
+
+TERRAIN TYPES: Marshlands, Quagmire
+
+
+
+
+ 43 BURIED ALIVE
+You hear screams in the distance, tormented cries
+of agony. When you get closer you see an open area
+between some abandoned stone houses. Seven elves
+armed with swords and bows stand in front of a
+deep pit. They all wear blue feathers in their hair.
+In the pit there is an elven family, a woman, a
+man and two children. They call for help but they
+don’t try to climb out of the pit. Two of the elves
+standing at the pit are using shovels to bury the
+family alive.
+
+
+The elf Bluefeather and her bounty hunters
+have found the Ylendidra family, that ran away
+after it was revealed that they had been hiding
+orcs sentenced to death. Bluefeather is sup-
+posed to bring the family back to justice, but
+
+
+
+
+                                                       166
+
+                                                chapter 7
+

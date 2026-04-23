@@ -77,7 +77,7 @@ The credits page (title + credits in columns) produced merged inline text:
 
 Some credits roles remain merged (e.g., `GRAPHIC DESIGN Christian Granath COVER ART Simon Stålenhag`) — partially resolved; these are cosmetic and low-priority.
 
-### 8. All-H3 heading hierarchy (KNOWN ISSUE — unresolved)
+### 8. All-H3 heading hierarchy (RESOLVED — 2025-04-23)
 
 The conversion produced 1 H1, 8 H2 (front matter credits), and 664 H3. The actual book structure is:
 
@@ -87,15 +87,130 @@ The conversion produced 1 H1, 8 H2 (front matter credits), and 664 H3. The actua
 
 The pipeline does not currently distinguish heading levels from PDF for this book because the PDF uses uniform font weights for all-caps headings at different sizes. A font-size-aware extraction pass would be needed to recover the hierarchy.
 
-**Workaround:** Acceptable for first-pass manuscript work. A heading hierarchy pass can be done manually or by comparing against the TOC table extracted at the top of the file.
+**Resolution (adventure sites chapters):** Heading hierarchy in The Hollows section (`09-adventure-sites.md`) was manually restructured.
+
+- Adventure site H2 headings (`## The Hollows`, `## Weatherstone`, `## The Vale of the Dead`) were already present or added.
+- Top-level named sections (Background, Recommended Reading, Getting Here, Legend, Locations, Monsters and NPCs, Events) → `###`.
+- Numbered location entries (1–21), named NPC entries, and named event sub-entries → `####`.
+- Inline sub-tables (`Strange Events`, `Who Does What?`) and undead description blocks → `####`.
+
+**Grep detection:**
+
+```bash
+grep -n '^### [0-9]\+\.' file.md          # numbered locations at wrong level
+grep -n '^### Mrs\. \|^### Brewmaster' file.md  # NPC entries at wrong level
+```
+
+**Remaining:** Chapters 04–08 hierarchy passes not yet verified against PDF TOC.
 
 ### 9. "Once Again?" sidebar table (NOT YET VERIFIED)
 
 The sidebar `ONCE AGAIN?` (stronghold events re-roll guidance) may have its three bullet points merged into prose. Check around the `Events at the Stronghold` section.
 
-### 10. Adventure site statblock formatting (NOT YET VERIFIED)
+### 10. Adventure site statblock formatting (RESOLVED — 2025-04-23)
 
-NPC/monster statblocks in the three adventure sites (The Hollows, Weatherstone, Vale of the Dead) use a two-column layout. Some may have misaligned `> **SKILLS:**` / `**TALENTS:**` blocks. Visual spot-check recommended at the adventure site chapters.
+NPC/monster statblocks in the three adventure sites (The Hollows, Weatherstone, Vale of the Dead) had two distinct defects:
+
+**Defect A — Attribute line as heading:**
+The extractor promoted each statblock's attribute line to a `###` heading:
+
+```
+### Strength 2, Agility 2, Wits 4, Empathy 3
+```
+
+Should be bold inline paragraph text matching ch04/05 convention:
+
+```
+**Strength 2, Agility 2, Wits 4, Empathy 3**
+```
+
+**Defect B — Skills line as heading:**
+Skills lines appeared as `### **skills:** ...` (heading + bold confusion) instead of blockquote format:
+
+```
+### **skills:** Lore 2, Insight 3
+> **SKILLS:** Lore 2, Insight 3
+```
+
+**Defect C — Missing blockquote on SKILLS lines:**
+Some `**SKILLS:**` lines had no leading `>`, stranded outside the blockquote block that TALENTS used.
+
+**Resolution:** Python regex pass across the full file:
+
+```python
+# Attribute heading → bold inline
+content = re.sub(r'^### (Strength \d.*?)$', r'**\1**', content, flags=re.MULTILINE)
+# Skills heading confusion
+content = re.sub(r'^### \*\*skills:\*\* (.*?)$', r'> **SKILLS:** \1', content, flags=re.MULTILINE)
+# Orphaned SKILLS lines
+content = re.sub(r'^(?!>)\*\*SKILLS:\*\* (.*?)$', r'> **SKILLS:** \1', content, flags=re.MULTILINE)
+```
+
+**Detection:**
+
+```bash
+grep -n '^### Strength' file.md
+grep -n '^### \*\*skills:' file.md
+grep -n '^\*\*SKILLS:' file.md   # not preceded by >
+```
+
+### 11. Scrambled NPC block order from column splices (RESOLVED — 2025-04-23)
+
+In The Hollows section, two-column layout caused the extractor to interleave NPC description prose with wrong statblock entries:
+
+- Nirvea's `**Strength ... Empathy 3**` / `TALENTS` / `SKILLS` / `GEAR` lines landed under **Count Nepola**'s heading.
+- **Perko**'s lore description paragraph was placed before Nepola's statblock rather than under Perko's own entry.
+- **Sturkas**'s description paragraph was split from his heading: the physical/personality prose appeared only after a partial statblock line.
+
+**Cause:** The PDF's two-column layout placed one NPC's description in the left column concurrent with the prior NPC's statblock in the right column. The extractor serialized by vertical position across both columns, mixing them.
+
+**Detection pattern:** NPC heading `#### Name` followed immediately by a statblock line with no description prose in between; or a description paragraph that begins with a lowercase word after a stat line.
+
+**Resolution:** The entire Monsters and NPCs block in The Hollows was reconstructed from the source PDF, placing each NPC's description, statblock, and gear lines in canonical order under the correct heading.
+
+**Verification rule:** Every `#### NPC Name` heading must be followed by at least one prose paragraph before any `**Strength` line.
+
+### 12. Uppercase inline labels without bold formatting (RESOLVED — 2025-04-23)
+
+The Gamemaster's Guide uses a typographic convention where inline run-in labels are set in bold capitals within numbered list entries and event descriptions:
+
+```
+OUTPOST: A simple guard post...      →  **OUTPOST:** A simple guard post...
+YAWIM'S SPEECH: On a visit...        →  **YAWIM'S SPEECH:** On a visit...
+MRS. POLLMOR'S MISSION: ...          →  **MRS. POLLMOR'S MISSION:** ...
+THE RUST BROTHER: ...                →  **THE RUST BROTHER:** ...
+```
+
+**Scope:** Appears in:
+
+- Castle type bullet lists (OUTPOST:, BLOCKHOUSE:, TOWER:, etc.)
+- Adventure event paragraphs (named scenario hooks)
+- Encounter tables with named outcomes
+
+**Detection:**
+
+```bash
+grep -n '^[A-Z][A-Z'\''S \-]\{4,\}:' file.md   # all-caps word(s) followed by colon, unbolded
+```
+
+**Fix:** Wrap the uppercase label and its colon in `**...**`.
+
+### 13. Enemy/NPC name headings in bestiary-style chapters (RESOLVED — 2025-04-23)
+
+In chapter 08 (Encounters), enemy names appeared as `###` headings when the correct style for this chapter is bold fullcap inline labels:
+
+```
+### Troll         →  **TROLL**
+### Cave Troll    →  **CAVE TROLL**
+```
+
+**Scope:** Chapters that list random encounter tables use inline bold labels, not headings, for creature names. Bestiary chapters (06) use `###` headings. The distinction depends on chapter type.
+
+**Rule:** If the creature name is followed by a stat block and the block is inside a table or list row (not a standalone section), demote to bold inline. If the creature is a standalone narrative section, keep as heading.
+
+### 14. Bullet list spacing in rules chapters (RESOLVED — 2025-04-23)
+
+Chapter 06 (Critical Injuries) had loose bullet lists (blank lines between items) causing `<p>`-wrapped list rendering. Fixed by removing inter-item blank lines per Category 8 in the cleanup issue catalog.
 
 ---
 
@@ -120,5 +235,6 @@ NPC/monster statblocks in the three adventure sites (The Hollows, Weatherstone, 
 ## Lint Status
 
 Run with: `markdownlint "supplement-1-gamemaster-guide/01.1. Gamemaster's Guide (2019).md"`
+Run on chapter splits with: `markdownlint "2-gamemasters-guide/*.md"`
 
-Not yet run. Expect MD041 (first heading not H1), MD022/MD023 (heading spacing), and MD033 if any HTML comments remain.
+**Status (2025-04-23):** Chapter splits in `2-gamemasters-guide/` pass lint clean (no errors). Previously: MD041 (first heading not H1), MD022/MD023 (heading spacing), MD028 (blank lines inside blockquotes). MD028 errors were introduced during statblock blockquote reconstruction and fixed by collapsing adjacent `> **SKILLS:**` / `> **TALENTS:**` lines with no blank line between them.
