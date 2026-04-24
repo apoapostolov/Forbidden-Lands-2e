@@ -78,7 +78,7 @@ Asina is a broadsword with Weapon Bonus +2, Weapon Damage 3, and a D10 Artifact 
 
 ### Drawbacks
 
-The Asina blade inflicts one point of damage just by contact with the skin. The risk of hurting oneself on the sword is significant, especially since Asina seems to have a will its own when wielded. Every rolled **l** (in the first roll of the attack) inflicts one point of damage (and the risk of disease) on the attacker himself or a friend within ARM’S LENGTH. The weapon sours any liquid it is dipped into, turning it undrinkable.
+The Asina blade inflicts one point of damage just by contact with the skin. The risk of hurting oneself on the sword is significant, especially since Asina seems to have a will its own when wielded. Every rolled **💀** (in the first roll of the attack) inflicts one point of damage (and the risk of disease) on the attacker himself or a friend within ARM’S LENGTH. The weapon sours any liquid it is dipped into, turning it undrinkable.
 
 ## Barkhyde
 
