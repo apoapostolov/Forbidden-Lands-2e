@@ -1,18 +1,10 @@
 # Forbidden Lands 2E
 
-<table style="width: 90%; border-collapse: collapse; border: none;">
-  <tr>
-    <td style="width: 33.333%; border: none; padding: 0; text-align: center;">
-      <img src="01-corebook/00-cover.png" alt="Forbidden Lands 2E corebook cover" style="width: 100%;">
-    </td>
-    <td style="width: 33.333%; border: none; padding: 0; text-align: center;">
-      <img src="02-gamemasters-guide/00-cover.png" alt="Forbidden Lands 2E Gamemaster's Guide cover" style="width: 100%;">
-    </td>
-    <td style="width: 33.333%; border: none; padding: 0; text-align: center;">
-      <img src="03-book-of-beasts/00-cover.png" alt="Forbidden Lands 2E Book of Beasts cover" style="width: 100%;">
-    </td>
-  </tr>
-</table>
+<div style="display: flex; width: 90%; gap: 0; align-items: flex-start;">
+  <img src="01-corebook/00-cover.png" alt="Forbidden Lands 2E corebook cover" style="display: block; width: 33.333%; height: auto;">
+  <img src="02-gamemasters-guide/00-cover.png" alt="Forbidden Lands 2E Gamemaster's Guide cover" style="display: block; width: 33.333%; height: auto;">
+  <img src="03-book-of-beasts/00-cover.png" alt="Forbidden Lands 2E Book of Beasts cover" style="display: block; width: 33.333%; height: auto;">
+</div>
 
 Public workbench for a heavily revised Forbidden Lands 2E manuscript set.
 
