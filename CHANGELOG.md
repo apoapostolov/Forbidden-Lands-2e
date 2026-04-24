@@ -18,6 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- **Chapter 10 — Villages and Towns.** Expanded settlement chapter added to the Gamemaster's Guide. Covers settlement history, current state, resources, inhabitants, situations, and long-term change through vicissitudes.
 - **Chapter 07 — Demonic Magic.** Seventeenth discipline for Sorcerers. Built around mog — a corrosive substance from the demon dimension Churmog; practitioners hunted on sight in settlements. 20 spells across R1–R6, mog handling rules, D66 mishap table.
 - **Chapter 07 — New spells across existing disciplines.** 21 new spells added to 10 existing disciplines: General (3), Healing (2), Awareness (2), Symbolism (2), Elemental Magic (5), Ice Affinity (3), Blood Magic (1), Mentalism (2), Shapeshifting (1).
 - **Chapter 07 — Rarity and Secrecy table.** Reference table for all 17 disciplines with public reaction (Known to Prohibited) and teacher access (Initiation to Journey).
@@ -30,6 +31,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+- **Chapter 10 — Villages and Towns.** Town history and oddity tables grounded further in post-apocalypse settlement life. Replaced whimsical or literary entries with feud, levy, hunger, road loss, plague, Rust Brother pressure, refugee flow, and trade recovery.
 - **Chapter 07 — Discipline count.** Updated to 17; sorcery paths rise to 8 with Demonic Magic.
 - **Chapter 07 — Learning Magic.** Four named rules added: MAGICAL TALENT RANKS, FREE SPELLS, LEARNING ADDITIONAL SPELLS, EXPANDED TALENT ACCESS.
 - **Chapter 07 — Elemental Magic: Elemental Environment.** Two-tier PL bonus for casting near strong (+1) or overwhelming (+2) natural sources of the relevant element.
