@@ -2,46 +2,36 @@
 
 > _A village is a place where every roof has a memory and every yard has a debt. The smoke is thin, the bread is hard, and the people who live there know exactly who can be trusted with a knife._
 
-This chapter gives you a slower pass at a settlement than the quick village tools in the Adventure Sites chapter. Use it when you want the place to have a past, a shape, and a reason to press back on the adventurers.
-
-The tables in this chapter are built for preparation, but they can be used at the table if you need a settlement fast. Roll what matters, decide what bites, and let the rest harden around it.
+This chapter gives you a slower way to build a settlement than the quick village tables in the Adventure Sites chapter. Use it when you want a place with a past, a shape, and a reason to press back on the adventurers. The tables are built for preparation, but they can be used at the table if you need a settlement fast. Roll what matters, decide what bites, and let the rest harden around it.
 
 ### The Settlement
 
-> _The street was muddy, the wells were half-choked with leaves, and the smoke from the roofs hung low enough to stain a beard. It was not a grand place. It was a place that had survived._
+> _The street was muddy, the wells were half-choked with leaves, and the smoke from the roofs hung low enough to stain a beard. No grand place, only a place that had survived._
 
-This chapter adds tables for the age, history, people, locations, and decline of a settlement. Use them to build a village first, then let it grow into a hamlet or town if the dice and the story demand it.
+This chapter adds tables for the age, history, people, locations, and decline of a settlement. Start with a village, then let it grow into a hamlet or town if the dice and the story demand it.
 
 #### Historical Events
 
-The age of a settlement tells you how long it has had time to collect sins. What matters is not the number of years by itself, but what has happened in them.
-
-The number of historical events is determined by age. Roll on the **Town History: Historical Events** table as many times as the age calls for. Fill the gaps with details that fit the settlement and the land around it.
+The age of a settlement tells you how long it has had time to collect sins. What matters is not the number of years by itself, but what happened in them. The number of historical events is determined by age. Roll on the **Settlement History: Historical Events** table as many times as the age calls for, then fill the gaps with details that fit the settlement and the land around it.
 
 #### History
 
-Every settlement has a story. Roll on the **Town History** tables to find the events that shaped it, then decide what those events left behind: burned beams, old grudges, a chapel with too many candles, a road no one uses anymore.
+Every settlement has a story. Roll on the **Settlement History** tables to find the events that shaped it, then decide what those events left behind: burned beams, old grudges, a chapel with too many candles, a road no one uses anymore. Treat the events as important. They should have changed the place, or the people in it, for good or ill. A single event can reach beyond the village and put a mark on the road, the woods, or the settlements around it.
 
-Treat the events as important. They should have changed the place, or the people in it, for good or ill. A single event can reach beyond the village and put a mark on the road, the woods, or the settlements around it.
+The settlement does not need to be the center of every event. A fire in another town, a war in another valley, or a death on the road can still bend the life of this place. The first event should mark the beginning of the settlement, or at least the first time it became something more than a camp and a wall. Some results contain words in square brackets. Choose a detail that fits the place, or use the bracketed word as a prompt for a better one.
 
-The settlement does not need to be the center of every event. A fire in another town, a war in another valley, or a death on the road can still bend the life of this place.
-
-The first event should mark the beginning of the settlement, or at least the first time it became something more than a camp and a wall.
-
-Some results contain words in square brackets. Choose a detail that fits the place, or use the bracketed word as a prompt for a better one.
-
-#### Town History: Antiquity
+#### Settlement History: Antiquity
 
 | D66 | Years | Events | References |
 | --- | --- | --- | --- |
 | 11-16 | D6 | 1 | The Blood Mist has begun to fade. |
-| 21-26 | 6 + D66 x 3 | D6 + 1 | The Blood Mist makes it difficult for towns to communicate. |
+| 21-26 | 6 + D66 x 3 | D6 + 1 | The Blood Mist makes it difficult for settlements to communicate. |
 | 31-36 | 204 + D66 | D6 + 2 | The Blood Mist spreads across the Forbidden Lands. |
-| 41-46 | 270 + D66 | D6 + 4 | Third and Fourth Alder War, the Demon Flood. |
+| 41-46 | 270 + D66 | D6 + 4 | Third and Fourth Alder Wars, the Demon Flood. |
 | 51-56 | 336 + D66 | D6 + 6 | Human invasions, Alder Wars, conquest of Harga. |
 | 61-66 | 400 + D66 x 3 | D6 + 8 | Arrival of the ailanders and aslenes, the Vond Wall. |
 
-#### Town History: Historical Events
+#### Settlement History: Historical Events
 
 Roll once and use the entire row, or roll twice and combine the results.
 
@@ -86,21 +76,13 @@ Roll once and use the entire row, or roll twice and combine the results.
 
 #### Present
 
-Once the history of the settlement has been established, it is time to focus on its current situation.
+Once the settlement has a past, give it a present. First determine the **size of the settlement**, which is the main reference for the rolls that follow. Then roll on the **settlement population density** table to get the rough number of people living there and learn how crowded the streets, yards, and common rooms feel. The **Town** result is unusual in the Ravenland year 1165. Use it for older places that survived the Blood Mist, or for later campaigns where roads, markets, and walls have begun to hold again.
 
-The first thing you need to do is determine the **size of the town** from the table below. The result will be the main reference in the following dice rolls.
+#### Settlement Situation
 
-Continue with the **town population density** table to learn how populated the settlement is. You will be able to narrate various aspects of the daily life of the place as well as imagine possible encounters, opportunities, and problems that constantly arise. Throw the dice indicated for the **town size** and determine with approximate accuracy the number of inhabitants of the place.
+The following rolls define the settlement in broad strokes. First determine the problem that troubles it, using the same seed-and-consequence method as the history table. Then roll for its **peculiarity**, the feature that strangers remember after they leave. If authority matters in play, roll for the **type of government** as well.
 
-Note that the **Town** size is not intended for games around the Ravenland year of 1165, but rather for later stages of the world where towns have been able to progress, perhaps thanks to adventurers.
-
-#### Town Situation
-
-The following rolls define the situation of the town in general aspects. First, determine the problem that afflicts it, following the same procedure as with historical events. Continue with its **peculiarity** to find out what its most outstanding feature is.
-
-Finally, if you think it necessary, roll to find out what **type of government** the settlement is governed by.
-
-#### Town Size
+#### Settlement Size
 
 | D66 | Size | Locations | Modifier |
 | --- | --- | --- | --- |
@@ -109,17 +91,17 @@ Finally, if you think it necessary, roll to find out what **type of government**
 | 53-63 | Village | 2D6 + 8 (10-20) | +0 |
 | 64-66 | Town | 3D6 + 20 (23-38) | +1 |
 
-#### General Condition of the Town
+#### General Condition of the Settlement
 
 | D66 | Condition | Modifier |
 | --- | --- | --- |
 | 11-14 | Ruinous | -2 |
-| 15-36 | Careless | -1 |
+| 15-36 | Neglected | -1 |
 | 41-56 | Maintained | +0 |
-| 61-64 | Pleasant | +1 |
+| 61-64 | Sound | +1 |
 | 65-66 | Distinguished | +2 |
 
-#### Town Population Density
+#### Settlement Population Density
 
 | D66 | Density | Outpost | Hamlet | Village | Town |
 | --- | --- | --- | --- | --- | --- |
@@ -129,114 +111,106 @@ Finally, if you think it necessary, roll to find out what **type of government**
 | 51-62 | Bustling | 1D6 + 15 (16-21) | 8D6 + 60 (68-108) | 2D66 + 250 (272-382) | 4D66 + 600 (644-864) |
 | 63-66 | Crowded | 1D6 + 21 (22-27) | 9D6 + 100 (109-154) | 3D66 + 350 (383-548) | 4D66 + 820 (864-1084) |
 
-#### Town Problem
+#### Settlement Problem
 
-Roll once on the **Town History: Historical Events** table to determine the seed of the event and a second time on this table to get the problem.
+Roll once on the **Settlement History: Historical Events** table to determine the seed of the event, then roll on this table to find the problem that followed.
 
 | D66 | Problem |
 | --- | --- |
 | 11-16 | It has caused an additional problem.* |
 | 21 | ...causes people to leave. |
-| 22 | ...has the townspeople concerned. |
-| 23 | ...gives [character] a lot of power. |
-| 24 | ...is ruining the economy. |
+| 22 | ...has the locals worried. |
+| 23 | ...puts power in the hands of [character]. |
+| 24 | ...is choking trade and work. |
 | 25 | ...left [1D6 structures] in ruins. |
-| 26 | ...has normalized alcoholism. |
+| 26 | ...has filled the ale benches before sunset. |
 | 31 | ...started a wave of disappearances. |
-| 32 | ...made [religious group] stir. |
-| 33 | ...has left the streets to criminals. |
-| 34 | ...has caused [monster-s] attacks. |
-| 35 | ...has normalized violence. |
+| 32 | ...has stirred [religious group] into action. |
+| 33 | ...has left the lanes to thieves and hard men. |
+| 34 | ...has brought attacks by [monster]. |
+| 35 | ...has made violence common. |
 | 36 | ...started a witch hunt. |
 | 41 | ...has civilians armed and on alert. |
-| 42 | ...has disrupted village life. |
-| 43 | ...has attracted undesirable [kin]. |
-| 44 | ...fueled cultural or racial tensions. |
-| 45 | ...attracted a hostile army. |
+| 42 | ...has disrupted work, worship, and sleep. |
+| 43 | ...has drawn unwanted [kin] to the settlement. |
+| 44 | ...has sharpened hatred between kin and households. |
+| 45 | ...has drawn a hostile force. |
 | 46 | ...has caused [faction] attacks. |
-| 51 | ...has the population under stress. |
-| 52 | ...aroused the brutality of [group]. |
+| 51 | ...has put the people under strain. |
+| 52 | ...has roused the cruelty of [group]. |
 | 53 | ...filled the roads with bandits. |
 | 54 | ...has the villagers terrified. |
 | 55 | ...has divided the population. |
-| 56 | ...made [character] dangerous. |
-| 61-66 | The town has an additional problem.* |
+| 56 | ...has made [character] dangerous. |
+| 61-66 | The settlement has an additional problem.* |
 
 \* Roll the dice again. You must then roll again for each additional effect required.
 
-#### Peculiarity of the Town
+#### Peculiarity of the Settlement
 
-Roll once to determine the peculiarity of the town.
+Roll once to determine the settlement's peculiarity.
 
 | D66 | Peculiarity |
 | --- | --- |
-| 11 | Stunning work of art. |
-| 12 | High quality ironwork. |
+| 11 | Striking work of art. |
+| 12 | Fine ironwork. |
 | 13 | Eccentric clothing. |
-| 14 | Especially beautiful landscapes. |
-| 15 | Immoral custom. |
-| 16 | Fervent religiosity. |
+| 14 | Beautiful surrounding land. |
+| 15 | Shameful local custom. |
+| 16 | Fierce shrine devotion. |
 | 21 | Absence of children. |
-| 22 | Educated and highly cultured people. |
-| 23 | Aberrant religious practice. |
-| 24 | Very calm atmosphere. |
-| 25 | Striking proportion of men. |
-| 26 | Delicious bakery. |
-| 31 | Very severe penalties against crime. |
-| 32 | Priceless hidden treasure. |
+| 22 | Learned elders and well-kept records. |
+| 23 | Forbidden religious practice. |
+| 24 | Unsettling calm. |
+| 25 | Few women in the streets. |
+| 26 | Famous bread. |
+| 31 | Harsh penalties against crime. |
+| 32 | Hidden treasure. |
 | 33 | Protected by a secret force. |
-| 34 | Striking hospitality. |
+| 34 | Open-handed hospitality. |
 | 35 | Site of an important event. |
 | 36 | Local wrestling game. |
 | 41 | Habit of chewing a bitter herb. |
 | 42 | Strange food habit. |
-| 43 | Excellent alcoholic drink. |
-| 44 | People of extraordinary bravery. |
-| 45 | Strong smell of waste. |
-| 46 | Strange or incomprehensible laws. |
-| 51 | Lots of kids. |
-| 52 | Changing and complicated weather. |
-| 53 | Severe moral censorship. |
+| 43 | Strong local ale. |
+| 44 | People slow to frighten. |
+| 45 | Strong stink of waste. |
+| 46 | Laws no outsider understands. |
+| 51 | Many children. |
+| 52 | Treacherous local weather. |
+| 53 | Severe public shaming. |
 | 54 | Difficult accent to understand. |
-| 55 | Striking proportion of women. |
-| 56 | Striking architectural design. |
-| 61 | No private property. |
-| 62 | Inbreeding. |
-| 63 | Exquisite culinary recipe. |
-| 64 | Rejection of outsiders. |
-| 65 | People who know little beyond the valley. |
-| 66 | The town has an extra peculiarity. |
+| 55 | Few men in the streets. |
+| 56 | Unusual building style. |
+| 61 | Goods held in common. |
+| 62 | Bloodlines kept too close. |
+| 63 | Famous stew, bread, or broth. |
+| 64 | Outsiders kept at the gate. |
+| 65 | People who know little beyond the ridge. |
+| 66 | The settlement has an extra peculiarity. |
 
 #### Type of Government
 
-Roll once to determine the town's government type.
+Roll once to determine the settlement's government type.
 
 | D66 | Government | Description |
 | --- | --- | --- |
-| 11-23 | Tribal | The chief is chosen by the dominant group, usually warriors. |
-| 24-46 | Communal | People spontaneously choose a referent who organizes civil life. |
-| 51-56 | Aristocratic | Those with noble blood elect a leader as dictated by their laws. |
-| 61-63 | Theocratic | The authority is exercised by a religious leader and supported by the church. |
-| 64-65 | Plutocratic | The wealthiest members run the government by making decisions in council. |
-| 66 | Feudal | The leader's power is sustained by oaths of vassalage and protection. |
+| 11-23 | Clan | The chief is chosen by the strongest kin group, often warriors. |
+| 24-46 | Communal | Households choose a speaker to settle work, stores, and quarrels. |
+| 51-56 | Noble | Old blood claims the right to rule by custom, oath, or land. |
+| 61-63 | Sacred | A priest, druid, or cult speaker rules with shrine and fear behind them. |
+| 64-65 | Merchant Council | The richest households rule through debt, stores, and trade. |
+| 66 | Oath-Lord | The leader's power is sustained by sworn service and protection. |
 
 #### Locations
 
-Having established the general situation of the town, the next step is to go into its different locations. To do this, roll the dice as many times as indicated in the **town size** table.
+Once the settlement has a general situation, give it places where trouble can stand in the open. Roll for as many locations as the **settlement size** table indicates. You can roll them as the adventurers enter the settlement, but preparation usually works better. A location has more bite when you know who owns it, who needs it, and who wants it ruined.
 
-You can do this process while the characters are moving into the settlement and discovering it, but this can take unnecessary time while the players wait for the result, as well as prevent you from planning a good adventure seed.
-
-For each location, roll the dice and determine both its **size** and its current **state** in the tables below. This will help your creativity when it comes to narrating the atmosphere and the possible problems or virtues of the establishment, and even of the town itself, depending on what structure it is.
-
-The **quality of service** table follows the same line. For locations that do not have people working, you can interpret the result as qualities from an architectural or urban point of view, or directly as their real usefulness due to how they are constituted.
-
-Finally, roll to determine the **profitability** of the location. This can be interpreted as the amount of iron from a mine, the quality and quantity of water from a well, or the profits from a tavern. However, it can also represent the beauty of a square in the case of locations that do not have direct profitability.
+For each location, determine its **size** and **condition**. These results help you describe the place and decide what problems or advantages cling to it. The **quality of service** table measures the people who work there. If no one works at the location, treat the result as craft, usefulness, or care. Finally, roll for **profitability or productivity**. This can mean iron from a mine, water from a well, coin from a tavern, grain from a barn, or the usefulness of a square where people gather.
 
 #### Interpret the Rolls
 
-With a random location generation method, your main job is to make a creative interpretation of the results. In a linear and basic way, not every result will make sense, but with a little effort very interesting combinations can emerge.
-
-If you cannot find logic in the internal situation of the place, look for it in external factors. If the tavern does not receive enough maintenance but has good service and is prosperous, where is the money going? Could someone be extorting the owners? Will they give much of their profits to a cult? Are they financing someone or something? It smells like adventure.
+Random tables produce sparks, not finished answers. Your job is to make the results fit the place. If a result seems strange, look outside the walls of the location. A tavern with poor maintenance, good service, and strong profits is hiding something. The owner may be paying a gang, feeding a cult, bribing a reeve, or saving coin for flight.
 
 #### Religious Groups
 
@@ -261,123 +235,107 @@ Roll on this table when you need a random group of people.
 | D66 | Group |
 | --- | --- |
 | 11-13 | Road robbers |
-| 14-16 | Mafia gang |
-| 21-23 | Religious fanatics |
+| 14-16 | Cutthroat gang |
+| 21-23 | Zealots |
 | 24-26 | Idle mercenaries |
-| 31-33 | Acting military |
+| 31-33 | Armed company |
 | 34-36 | Hungry mob |
-| 41-43 | Professional guild |
+| 41-43 | Craft guild |
 | 44-46 | Adventurers |
 | 51-52 | Demons |
 | 53-54 | Nobles |
 | 55-56 | Merchants |
 | 61-62 | Farmers |
-| 63-64 | Craftsmen |
-| 65-66 | Artists |
+| 63-64 | Artisans |
+| 65-66 | Performers |
 
-#### Town Locations
+#### Settlement Locations
 
 | D66 | Location |
 | --- | --- |
 | 11 | Quarry |
 | 12 | Iron mine |
 | 13 | Silver mine |
-| 14-15 | Warehouse / Barn |
-| 16 | Big house / Mansion |
+| 14-15 | Storehouse / Barn |
+| 16 | Great hall / Manor |
 | 21-22 | Windmill |
 | 23 | Chapel |
-| 24 | Tailor shop |
+| 24 | Weaver / Tailor |
 | 25 | Workshop |
 | 26-31 | Square / Well |
 | 32-33 | Inn |
 | 34 | Smithy |
 | 35-36 | Market |
 | 41 | Square |
-| 42 | Barracks |
+| 42 | Watch house |
 | 43-44 | Tavern |
 | 45 | Barn |
-| 46 | Wall |
+| 46 | Palisade / Wall |
 | 51-52 | Tower |
 | 53 | Bridge |
 | 54 | Temple |
 | 55 | Brewery |
-| 56-61 | Communal living |
-| 62 | Dock |
-| 63-64 | Drugstore |
+| 56-61 | Common house |
+| 62 | Landing / Dock |
+| 63-64 | Herbalist |
 | 65 | Castle* |
 | 66 | Dungeon* |
 
-\* If the castles or dungeons are large enough, they can be an interesting Adventure Site within the same town.
+\* If a castle or dungeon is large enough, it can be an adventure site inside or below the settlement.
 
 #### Location Size and Condition
 
-For **size**, add the modifier indicated in the **town size** table. For **condition**, use the modifier listed in the **general condition of the town** table.
+For **size**, add the modifier from the **settlement size** table. For **condition**, use the modifier from the **general condition of the settlement** table.
 
 | D6 | Size | Condition |
 | --- | --- | --- |
-| 1 | So small that it is uncomfortable or ineffective. | Dilapidated, deplorable, or abandoned. |
-| 2 | Small space, humble, but functional. | It does not receive enough maintenance. |
-| 3-4 | Standard size for the Forbidden Lands. | It is kept in good repair and presentable. |
-| 5 | High, spacious, or with many rooms. | It is in great condition. |
-| 6 | Its proportions are strikingly large. | A lot of money has been invested in the place. |
+| 1 | Cramped, awkward, or barely useful. | Ruinous, filthy, or abandoned. |
+| 2 | Small and poor, but usable. | Neglected and short of maintenance. |
+| 3-4 | Ordinary size for the Forbidden Lands. | Kept in working order. |
+| 5 | Large, high, or divided into many rooms. | Well kept. |
+| 6 | Strikingly large. | Built or repaired with serious coin. |
 
 #### Quality of Service / Workers
 
-The quality of service of a location refers to the sum of skill, will, and professionalism of the people who work there, whether it is the waitress in a tavern or the sentinel in a watchtower.
+The quality of service is the skill, will, and discipline of the people who work there, whether they are tavern hands, guards, miners, or temple servants.
 
 | D66 | Quality / Skill / Professionalism |
 | --- | --- |
-| 11-16 | Terrible, inept, or uninterested. |
-| 21-26 | Regular, clumsy, or with few qualities. |
-| 31-53 | Mediocre but standard. |
-| 54-63 | Of an outstanding and striking value. |
-| 64-66 | Excellent, expert, or impeccable. |
+| 11-16 | Useless, sullen, or drunk. |
+| 21-26 | Poor, clumsy, or careless. |
+| 31-53 | Plain but serviceable. |
+| 54-63 | Skilled and reliable. |
+| 64-66 | Skilled enough to be known beyond the settlement. |
 
 #### Profitability or Productivity
 
-The result can reflect both the profitability of a tavern, the productivity of a mine, or the attendance of a space such as a square. To determine the attendance of a place, use the **town population density** table.
+The result can reflect the profit of a tavern, the yield of a mine, or the use of a square. To determine how many people gather in a place, use the **settlement population density** table.
 
 | D66 | Profitability |
 | --- | --- |
 | 11-16 | Dying |
 | 21-26 | Scarce |
-| 31-53 | Acceptable |
-| 54-63 | Copious |
-| 64-66 | Amazing |
+| 31-53 | Enough |
+| 54-63 | Plentiful |
+| 64-66 | Rich |
 
 #### Raw Materials
 
-In the Forbidden Lands there are many raw materials waiting to be exploited by their inhabitants. These resources are a great boost to the economy of any town.
+The Forbidden Lands are full of wood, stone, ore, pasture, and buried coin. A settlement that can hold such a resource has a reason to grow, and a reason to be attacked. Not every hex has useful resources, and not every useful resource can be worked safely. Use **availability of natural resources** to see what lies near the settlement, rolling D66 for each column to determine whether the resource exists in the settlement hex and how abundant it is.
 
-However, some sites are more valuable than others, and not all raw materials are present everywhere or in the same amount. To determine the presence of these resources there is a table: **availability of natural resources**.
-
-Roll a D66 for each column to find out if the resource exists in the settlement hexagon and its abundance.
-
-If in this first roll the result corresponds to the first row, the resource does not exist. This is self-explanatory in the case of stone, iron, silver, and gold. In the case of wood, the trees are not abundant enough or their species is not suitable for the uses required by civilization. In the case of pastures, the land is not fertile enough, or can never be due to soil or climate conditions.
+If the result falls in the first row, the resource is absent or useless. Stone, iron, silver, and gold simply are not there in workable amounts. Wood may be sparse, rotten, twisted, or the wrong kind. Pasture may be thin, sour, flooded, stony, or too exposed to weather.
 
 #### Related Locations
 
-Each resource can only be exploited through the right locations and workers. If a resource exists nearby, the town has the corresponding location: crop fields for pasture, a logger's hut for wood, a quarry for stone, or a mine for iron, silver, or gold.
+Each resource needs the right location and workers. If a resource is being worked nearby, the settlement has the matching place: fields or grazing land for pasture, a logger's hut for wood, a quarry for stone, or a mine for iron, silver, or gold.
 
 #### Resource Exploitation
 
-The natural resources table shows one resource die on each row. That is the abundance of the resource in the town hexagon.
-
-To find out if the resource continues to exist in the same abundance, roll the resource die if it is being exploited. Each roll of 1 reduces the resource die by one level. When the resource is on D6 and you roll a 1, the resource is gone.
-
-You must do this every three months if there were locations in operation for at least half of that time exploiting that resource.
+The natural resources table gives each resource a resource die, measuring the abundance of the resource in the settlement hex. If the resource is being exploited, roll its resource die. On a result of 1, reduce the resource die by one step. If the resource is already D6 and you roll a 1, it is exhausted. Make this roll every three months if a working location exploited the resource for at least half that time.
 
 #### Recover Resources
 
-While trees can be depleted and land rendered unproductive, it is true that they can recover with time and effort.
-
-This is only possible if the initial roll of the resource did not result in 0. That would mean that it is already unrecoverable or that it never existed for some reason.
-
-So if the resource of **pasture** or **wood** was exhausted by exploitation of the stronghold, it is possible that it returns every six months of not using locations that wear it down.
-
-Roll a die. If the result is 5 or 6, return the resource die at D6.
-
-Do not forget to make all the rolls described before for each location.
+Trees grow back. Pasture can recover if hooves, axes, and hunger leave it alone. Recovery is possible only if the resource did not begin at 0. A resource that began at 0 was never workable, or is ruined beyond the means of the settlement. If **pasture** or **wood** was exhausted, it may return after six months without locations that wear it down. Roll a die. On a 5 or 6, the resource returns at D6. Make the location rolls as normal if the settlement begins working it again.
 
 #### Availability of Natural Resources
 
@@ -391,39 +349,29 @@ Do not forget to make all the rolls described before for each location.
 
 #### Resource Proliferation
 
-Both **pastures** and **wood** can proliferate given enough time. If you have no resource-depleting locations and the resource is already in the hexagon, roll the resource die one level higher than the current one every six months. If the result is the maximum for the die, then the resource die increases to the next level.
+Both **pasture** and **wood** can spread given time. If no location is depleting the resource and the resource already exists in the hex, roll a die one step higher than the current resource die every six months. If the roll shows the highest value on that die, increase the resource die by one step.
 
-Of course, the different characters in the Forbidden Lands and various events can cause the proliferation of resources to be assured and automatic. Do not let these rules limit the story you want to tell or the consequences of the actions of the adventurers or other individuals.
+Characters and events can make recovery certain. Do not let the table overrule a burned forest, a blessed grove, a cursed field, or the work of the adventurers.
 
 #### Discover Resources
 
-What would happen if the hexagon had a juicy deposit of silver but no one had yet discovered it? Starting roll after roll of exploration would be foolish. It is better for the Gamemaster to figure out how to get that knowledge to the characters.
-
-There may be a legend that talks about it, or a worker may stumble upon the source of the resource by chance, or perhaps they already knew. Work with the most interesting opportunity that comes to mind.
+If a hex holds silver and no one knows it, do not make the players grind through empty exploration rolls until the vein appears. Put the knowledge in the world. A legend may speak of it. A miner may find a strange seam. A drunk may know more than he should. A map may be nailed under a shrine board. Use the hook that cuts deepest.
 
 ### Characters
 
-> _They entered the courtyard of the enclosure in a group in search of the weapons of the master blacksmith. First they heard the constant hammering, the clash of steel against steel. Then, when they were close, they saw the stocky figure of Irvedd. He lifted his head and looked at them nonchalantly as he wiped away the sweat._
+> _They found Irvedd by the sound of him: hammer on steel, breath through his teeth, iron hissing in the trough. The blacksmith raised his head, wiped sweat from his brow, and looked at them as if they were another job waiting in line._
 
-Nothing would be a town without its inhabitants, especially those who represent the best and the worst of it, those who lead or support it, who pull the strings of power while playing with pawns to complete their own visions and goals.
-
-In this chapter you will find tools to generate random characters that will populate your settlements and give vitality to your games.
+A settlement is made of people before it is made of walls. Some lead, some serve, some hoard, some lie, and some keep the place alive with their hands. Use these tables to create the locals who matter: rulers, smiths, priests, rivals, witnesses, patrons, debtors, and enemies.
 
 #### The Details
 
-The tables here are detailed, but that does not mean every character needs every roll.
-
-You can do the entire process for a few inhabitants, the most important ones, and then leave others with various pending aspects. Make the rolls when you need some information from them or just invent it on the fly according to what you see fit.
+The tables here are detailed, but not every character needs every roll. Use the full process for the people who carry weight in play. For everyone else, roll only what you need or decide the answer at the table.
 
 #### First Steps
 
-The first thing you must do to get to know the character you will create is determine their most basic data: life stage, base attribute points, and kin. Record these results taking into account the increase granted by the **bonus** column. This adds 1 point to the indicated attribute.
+First determine the character's life stage, base attribute points, and kin. Apply the increase from the **bonus** column by adding 1 point to the indicated attribute. This chapter does not repeat the attributes and peculiarities from the Gamemaster's Guide. Use that book if you want to add those details.
 
-This chapter does not repeat the attributes and peculiarities from the Gamemaster's Guide. Use that book if you want to add those details.
-
-Keep in mind that thanks to this method some of the character's attributes could end up being very high. This is intentional. They are extraordinary individuals and you should highlight them as such. Adding the point for the profession, the total value could even reach 8 points, two more than the maximum for a PC.
-
-These characters can be understood as individuals of amazing potential or experience who have worked hard to improve their virtues. Those who are above 6 points in an attribute are very few in the Forbidden Lands, and it should be clear when they appear in the story.
+This method can produce very high attributes. That is intentional. These are the people worth naming, and the table should make them stand out. With the profession bonus, an attribute can reach 8, two points higher than the normal maximum for a PC. Characters with more than 6 points in an attribute are rare in the Forbidden Lands. When one appears, let the players feel it.
 
 #### Age Ranges
 
@@ -441,11 +389,11 @@ Roll the dice for each attribute.
 
 | D66 | Description | Value |
 | --- | --- | --- |
-| 11-14 | Deficient | 1 |
+| 11-14 | Weak | 1 |
 | 15-26 | Average | 2 |
-| 31-53 | Remarkable | 3 |
-| 54-63 | Outstanding | 4 |
-| 64-66 | Amazing | 5 |
+| 31-53 | Capable | 3 |
+| 54-63 | Strong | 4 |
+| 64-66 | Gifted | 5 |
 
 #### Kin and Cultural Groups
 
@@ -480,35 +428,21 @@ If you want to let NPCs improve attributes with experience points, use the same 
 
 Just as skills cost 5 times the target value, upgrading an attribute should cost the target value multiplied by 15.
 
-#### Profession and Skills
+#### Profession And Skills
 
-In many cases it will be necessary, or at least interesting, to know the character's greatest qualities, their level of experience in different disciplines, and their ability to influence the world.
+Often you only need to know what the character is good at, how long they have done it, and whether people listen when they speak. The adventurers may seek these people out for work, shelter, judgment, healing, secrets, or blades. The tables below give each such character a clear place in the settlement. Use the **profession** table when the character's work is not already obvious.
 
-The PCs might have to deal with characters spawned from this tool or need some of their services. In order to generate characters that are as unique or characteristic as possible, it is useful to have tables that allow interesting results.
+Each profession has an **attribute** column. Add 1 point to that attribute. This does not follow the PC rules exactly, but it reflects a life spent in that trade.
 
-That is what the **profession** table is for. Use it when the character's profession is not obvious from the narrative situation or a specific need in the story.
-
-Each profession has an **attribute** column, which indicates a 1-point bonus to that attribute for the character. This is not exactly how it works for PCs, but it reflects the advantage of being in that profession for a lifetime.
-
-There are also the skill columns. The **1st skill** is the main one for the professional. To know the points of the character in that skill, roll D66 on the **professional experience** table. With that value determined, assign the **2nd skill** by subtracting 1 point from that original result and the **3rd skill** by subtracting 2 points.
+The skill columns show the character's main skills. The **1st skill** is their strongest. Roll D66 on the **professional experience** table to determine its value. The **2nd skill** is one point lower, and the **3rd skill** is two points lower.
 
 This result also modifies the character's **reputation** roll on the table below.
 
-Nothing stops you from rolling the dice to get the **2nd skill** and **3rd skill** if you want more randomness. In such cases subtract only 1 from both results.
-
-When you need to know another proficiency of the character that is not in these three columns, you can refer to the **non-professional experience** table.
-
-You may have noticed that with this method characters can have up to 6 points in a skill. This reflects unbelievable levels of proficiency that are sure to exist in the Forbidden Lands in dribs and drabs. As with high attribute values, take the opportunity to highlight these talented individuals.
+If you want more randomness, roll separately for the **2nd skill** and **3rd skill**. In that case, subtract only 1 point from each result. When you need another skill not listed in the profession, use the **non-professional experience** table. This method can produce skill values up to 6. Such people are rare. Give them a name, a reputation, and a reason others fear or need them.
 
 #### Means and Objectives
 
-Finally, it remains to determine the objectives of the character and how they think they should fulfill them, what methods they will use to achieve them.
-
-Also, what resources are available to do so? Are they wealthy? Where their money comes from and how they manage it is up to you, but it is a good reference when interpreting their actions and motivations.
-
-In the Forbidden Lands, sooner or later everyone will need to use their equipment dice. The character's wealth determines what equipment they can afford. Use the equipment modifier from the table below and apply it to the gear results for both weapons and armor.
-
-Unless you need a very specific description, simply having the number of dice will suffice for the character's participation in combat or other circumstances where they must use tools.
+Finally, determine what the character wants and how far they will go to get it, then determine what resources they have. Wealth tells you what they can buy, who they can bribe, and what they are afraid to lose. In the Forbidden Lands, sooner or later everyone reaches for a tool or weapon. The character's wealth determines what equipment they can afford. Use the equipment modifier below and apply it to the gear rolls for both weapons and armor. Unless you need a specific item, the dice are enough.
 
 #### Profession
 
@@ -517,7 +451,7 @@ If it does not follow from the context, use this table to determine what the cha
 | D66 | Profession | Attribute | 1st Skill | 2nd Skill | 3rd Skill |
 | --- | --- | --- | --- | --- | --- |
 | 11 | Beggar | Empathy | Manipulation | Survival | Sleight of Hand |
-| 12 | Homeless | Agility | Survival | Scouting | Sleight of Hand |
+| 12 | Vagrant | Agility | Survival | Scouting | Sleight of Hand |
 | 13 | Farmer | Strength | Lore | Survival | Animal Handling |
 | 14 | Miller | Strength | Might | Lore | Animal Handling |
 | 15 | Carpenter | Agility | Crafting | Lore | Sleight of Hand |
@@ -527,35 +461,35 @@ If it does not follow from the context, use this table to determine what the cha
 | 23 | Woodcutter | Strength | Endurance | Might | Melee |
 | 24 | Fisherman | Agility | Lore | Survival | Scouting |
 | 25 | Baker | Empathy | Survival | Sleight of Hand | Lore |
-| 26 | Chef | Empathy | Survival | Lore | Sleight of Hand |
-| 31 | Waiter | Empathy | Sleight of Hand | Manipulation | Performance |
+| 26 | Cook | Empathy | Survival | Lore | Sleight of Hand |
+| 31 | Tavern hand | Empathy | Sleight of Hand | Manipulation | Performance |
 | 32 | Brewer | Wits | Lore | Survival | Manipulation |
 | 33 | Blacksmith | Strength | Crafting | Might | Endurance |
 | 34 | Guard | Strength | Endurance | Melee | Marksmanship |
 | 35 | Soldier | Strength | Melee | Move | Endurance |
 | 36 | Captain | Strength | Melee | Move | Animal Handling |
-| 41 | General | Wits | Insight | Melee | Animal Handling |
-| 42 | Medic | Empathy | Healing | Lore | Manipulation |
+| 41 | War chief | Wits | Insight | Melee | Animal Handling |
+| 42 | Healer | Empathy | Healing | Lore | Manipulation |
 | 43 | Priest | Wits | Lore | Manipulation | Insight |
 | 44 | Courier | Agility | Scouting | Animal Handling | Survival |
-| 45 | Actor | Empathy | Performance | Manipulation | Insight |
+| 45 | Player | Empathy | Performance | Manipulation | Insight |
 | 46 | Painter | Empathy | Crafting | Survival | Performance |
-| 51 | Writer | Wits | Lore | Insight | Survival |
+| 51 | Scribe | Wits | Lore | Insight | Survival |
 | 52 | Minstrel | Empathy | Performance | Manipulation | Survival |
-| 53 | Butler | Wits | Lore | Sleight of Hand | Insight |
+| 53 | Steward | Wits | Lore | Sleight of Hand | Insight |
 | 54 | Builder | Strength | Crafting | Endurance | Might |
 | 55 | Noble | Empathy | Manipulation | Melee | Insight |
 | 56 | Druid | Wits | Lore | Healing | Survival |
 | 61 | Merchant | Empathy | Manipulation | Insight | Lore |
 | 62 | Bandit | Strength | Melee | Scouting | Stealth |
-| 63 | Killer | Agility | Stealth | Melee | Manipulation |
+| 63 | Cutthroat | Agility | Stealth | Melee | Manipulation |
 | 64 | Thief | Agility | Sleight of Hand | Move | Melee |
-| 65 | Magician | Wits | Lore | Crafting | Insight |
+| 65 | Sorcerer | Wits | Lore | Crafting | Insight |
 | 66 | Tailor | Wits | Sleight of Hand | Lore | Insight |
 
 #### Professional Experience
 
-Determine the character's experience. Their points in the **1st skill** of the profession are equal to that indicated in the **skill** column. Subtract 1 point from the result for the **2nd skill** and 2 points for the **3rd skill**.
+Determine the character's experience. Their points in the profession's **1st skill** equal the value in the **skill** column. Subtract 1 point for the **2nd skill** and 2 points for the **3rd skill**.
 
 | D66 | Experience | Skill | Reputation |
 | --- | --- | --- | --- |
@@ -568,7 +502,7 @@ Determine the character's experience. Their points in the **1st skill** of the p
 
 #### Non-Professional Experience
 
-This table is used to determine the points in skills other than those listed in the profession.
+Use this table for skills outside the character's profession.
 
 | D66 | Experience | Skill |
 | --- | --- | --- |
@@ -582,7 +516,7 @@ This table is used to determine the points in skills other than those listed in 
 
 #### Reputation
 
-Roll a die and add the bonus from the previous table. Write down what is indicated in the **reputation** column.
+Roll a die and add the bonus from the **professional experience** table. Record the result from the **reputation** column.
 
 | D6+ | Description | Reputation |
 | --- | --- | --- |
@@ -591,10 +525,10 @@ Roll a die and add the bonus from the previous table. Write down what is indicat
 | 4 | Barely known | 2 |
 | 5 | Known | 3 |
 | 6 | Recognized | 4 |
-| 7 | Highly recognized | 5 |
+| 7 | Widely known | 5 |
 | 8 | Prestigious | 6 |
 | 9 | Famous | 7 |
-| 10 | Eminence | 8 |
+| 10 | Name of weight | 8 |
 | 11 | Legend | 9 |
 
 #### Character Objective
@@ -603,38 +537,38 @@ Roll once and use the entire row, or roll twice and combine the results.
 
 | D66 | Objective or Vision | Method to Achieve It |
 | --- | --- | --- |
-| 11-12 | To increase their personal power... | ...will make the intrigues that are necessary. |
-| 13-14 | For their community to prosper... | ...will promote an infrastructure project. |
+| 11-12 | To increase their personal power... | ...will weave whatever intrigues are needed. |
+| 13-14 | For their community to prosper... | ...will raise walls, roads, barns, or mills. |
 | 15-16 | For [religious group] to grow... | ...will destroy the heretics. |
 | 21-22 | To accumulate riches... | ...will eliminate any competition. |
-| 23-24 | For [kin] to have greater influence... | ...will generate an armed conflict. |
-| 25-26 | For people to live better... | ...will try to have social peace. |
-| 31-32 | To ingratiate themself with their superior... | ...will humiliate their rivals. |
-| 33-34 | To honor their oaths... | ...will behave honorably. |
-| 35-36 | To dispense their justice... | ...will destroy the current order. |
+| 23-24 | For [kin] to have greater influence... | ...will stir an armed conflict. |
+| 25-26 | For people to live better... | ...will bargain for peace between households. |
+| 31-32 | To win favor from their superior... | ...will humiliate their rivals. |
+| 33-34 | To honor their oaths... | ...will keep their word even when it costs blood. |
+| 35-36 | To dispense their justice... | ...will break the current order. |
 | 41-42 | To achieve personal glory... | ...will gather an army. |
 | 43-44 | To glorify their deity... | ...will burn the world if necessary. |
-| 45-46 | To destroy their rival... | ...will invest all the money they can. |
-| 51-52 | To start a conflict... | ...will generate mistrust among people. |
-| 53-54 | To achieve their revenge... | ...will do everything in their power. |
-| 55-56 | To impose their vision of the world... | ...people are replaceable pawns. |
-| 61-62 | To help a loved one... | ...will recklessly endanger themself. |
-| 63-64 | To eliminate an evil... | ...will appeal to the entire community. |
-| 65-66 | To repair a misfortune... | ...will bring together the best individuals. |
+| 45-46 | To destroy their rival... | ...will spend every coin they can spare. |
+| 51-52 | To start a conflict... | ...will sow mistrust among the people. |
+| 53-54 | To achieve their revenge... | ...will spend everything they have. |
+| 55-56 | To impose their vision of the world... | ...will spend people like kindling. |
+| 61-62 | To help a loved one... | ...will risk their own skin without thought. |
+| 63-64 | To eliminate an evil... | ...will call the whole settlement to witness. |
+| 65-66 | To repair a misfortune... | ...will gather the best hands they can find. |
 
 #### Wealth or Professional Success
 
-The result tells you the economic situation of the NPC. When applicable, roll dice twice to determine weapon and armor dice.
+The result gives the NPC's wealth. When it matters, roll twice to determine weapon and armor dice.
 
 | D66 | Wealth | Gear |
 | --- | --- | --- |
-| 11-16 | Too much debt. | -2 |
+| 11-16 | Crushed by debt. | -2 |
 | 21-26 | In debt. | -1 |
-| 31-53 | Living with the minimum. | 0 |
-| 54-63 | Several luxuries. | +1 |
-| 64-66 | Life solved. | +2 |
+| 31-53 | Barely comfortable. | 0 |
+| 54-63 | A few luxuries. | +1 |
+| 64-66 | Rich enough to refuse work. | +2 |
 
-There may be a substantial difference between the character's individual wealth and the prosperity of their business, for example. This is an opportunity to develop a story.
+Personal wealth and the prosperity of a business need not match. That difference is often where the story begins.
 
 The **gear** column determines the modifier for the gear roll shown below.
 
@@ -653,33 +587,21 @@ The **gear** column determines the modifier for the gear roll shown below.
 
 ### Situations
 
-> _Eldrin walked leisurely down the main street of Aramore, looking at the small stalls offering everything from fruit to iron tools, even well-worked steel weapons. Suddenly, the distant sound of desperate screams reached his very fine ears: a fire was getting out of control._
+> _Eldrin was crossing the market at Aramore when the screaming began. Fruit baskets overturned. A smith dropped a bar of hot iron in the mud. Smoke rose beyond the roofs, and people started running toward it with buckets._
 
-**Situations** are the seed of adventures, and there is no better breeding ground for trouble than a town. Come up with as many as fit the size of the settlement and the players' wish to stay in place and solve them.
+**Situations** are the seeds of adventures. A settlement is good soil for them, and you can create as many as fit the size of the place and the adventurers' willingness to stay and meddle. Some situations are known to everyone. Others sit under the floorboards until the adventurers ask the wrong question or open the wrong door. If a result reads like a buried problem and you need one that is active now, change the wording and keep the pressure.
 
-Some of these situations will be public knowledge and others will remain latent, so it is entirely possible that several of them will be revealed by chance or after investigations by the adventurers.
+Some combinations need interpretation. _An ancient unsolved mystery must be avoided_ may mean that someone is working hard to keep the mystery buried.
 
-If a rumor seems like a latent problem and you need a current one, change the phrase to something more convenient for you.
-
-Use this method when you need to improvise in the middle of a game. You never know when a problem will be needed.
-
-There is a possibility that in some cases you may need to use more creativity to interpret a result. _An ancient unsolved mystery must be avoided_ does not seem logical at first, but the phrase can be understood as meaning that the mystery must be prevented from becoming public knowledge.
-
-For example, _An important sacred place revives old desires for revenge_ may not seem consistent at first glance. But rather than repeating the roll, it is better to get the most out of the phrase. If some travelers find an ancient place of worship to the god Wyrm, that discovery could cause some Rust Brothers to break the social peace and start a witch hunt against heretics.
+For example, _an important sacred place revives old desires for revenge_ may begin with travelers finding an old shrine to Wyrm. The discovery could draw Rust Brothers into the village, split old neighbors, and turn a quiet grievance into a witch hunt.
 
 #### Situation Seeds
 
-The first thing you should do is roll the dice once and look at the result in the **situation seeds** table to determine the cause of the situation, then complement the sentence with a new roll to find out its **relevance**.
-
-In general, you will not have much trouble coming up with a suitable phrase, but there may be cases where it is not an obvious problem. That should not be a real drawback if you use some creativity.
+Roll once on the **situation seeds** table to determine the cause of the situation, then roll for its **relevance** to complete the phrase. If the phrase is not an obvious problem, make it one. The table gives you bone. You give it meat.
 
 #### Event Generator
 
-Although the situation is the first step toward an adventure, it is true that its resolution depends largely on the initiative of the player characters, so you must improvise the consequences of their actions in the process of achieving it. However, if the entire world revolved around what they do, sooner or later it would feel lifeless.
-
-Of course, giving the world a life of its own is a fantasy, a mirage, but it is a useful one for the Gamemaster to produce. You never know the interesting outcomes that can result from an unexpected event.
-
-For that reason, here is a method for generating random events.
+Situations become adventures when the players touch them, but the world should not wait on their permission to move. Random events give the settlement teeth of its own. They make trouble arrive while the adventurers are drinking, bargaining, sleeping, or planning to leave. Use the method below when you want an event to break into play.
 
 #### Situation Seeds Table
 
@@ -690,39 +612,39 @@ Roll once and use the entire row, or roll twice and combine the results.
 | 11 | A group of adventurers... |
 | 12 | The appearance of a monster... |
 | 13 | An artifact of great value... |
-| 14 | A local agitator... |
-| 15 | A conflict between nobles... |
+| 14 | A local troublemaker... |
+| 15 | A quarrel between highborn households... |
 | 16 | Members of [religious group]... |
-| 21 | A committed political group... |
-| 22 | The arrival of a powerful individual... |
+| 21 | An oath-bound faction... |
+| 22 | The arrival of a dangerous individual... |
 | 23 | The rumor of enemies gathering... |
-| 24 | A horde of demons... |
-| 25 | Some traveling artists... |
-| 26 | A mighty arcane book... |
-| 31 | A mafia gang... |
+| 24 | A pack of demons... |
+| 25 | A band of traveling performers... |
+| 26 | A dangerous spellbook... |
+| 31 | A cutthroat gang... |
 | 32 | A serious crime against a noble... |
 | 33 | A serious crime against a merchant... |
 | 34 | A serious crime against a villager... |
 | 35 | A serious crime against a [kin]... |
-| 36 | A strange disease... |
+| 36 | A wasting sickness... |
 | 41 | An important individual who left the village... |
-| 42 | A sacred place of importance... |
-| 43 | The rumor of a possible invasion... |
-| 44 | A wealthy foreign merchant... |
-| 45 | A serious suspicion about a [kin]... |
+| 42 | A holy place under old stones... |
+| 43 | The rumor of enemies crossing the border... |
+| 44 | A wealthy merchant from beyond the valley... |
+| 45 | A serious accusation against a [kin]... |
 | 46 | The scarcity of a resource... |
 | 51 | An ancient unsolved mystery... |
 | 52 | The planned execution of a villager... |
-| 53 | The siege of a town... |
+| 53 | The siege of a settlement... |
 | 54 | A battle about to break out... |
-| 55 | A local who did a stupid thing... |
-| 56 | A dire precognitive dream... |
+| 55 | A local who made a foolish choice... |
+| 56 | A dire dream of what may come... |
 | 61 | An offensive message painted with blood... |
 | 62 | A group of lawless warriors... |
 | 63 | A religious text found... |
-| 64 | A wonderful precognitive dream... |
+| 64 | A hopeful dream of what may come... |
 | 65 | Excavations in a mine... |
-| 66 | The brutality of an individual... |
+| 66 | The cruelty of a powerful local... |
 
 #### Relevance of the Situation
 
@@ -730,32 +652,32 @@ Roll once to finish the phrase.
 
 | D66 | Relevance of the Situation |
 | --- | --- |
-| 11-16 | ...is taking over the town. |
-| 21-26 | ...ruins a bartender's business. |
-| 31-36 | ...is causing people to die. |
+| 11-16 | ...is taking over the settlement. |
+| 21-26 | ...ruins a tavern keeper's business. |
+| 31-36 | ...is leaving bodies behind. |
 | 41-46 | ...has the villagers terrified. |
-| 51-56 | ...can cause great destruction. |
-| 61-66 | ...should be investigated. |
+| 51-56 | ...may bring fire, death, or ruin. |
+| 61-66 | ...demands investigation. |
 
-The source text also supplies these alternate relevance clauses for interpretation and substitution as needed:
+You can also use these alternate relevance clauses when they fit better:
 
 | d7 | Alternate Relevance |
 | --- | --- |
-| 1 | ...has the town's tension rising. |
-| 2 | ...has spread fear among the villagers. |
-| 3 | ...is adding supporters to a cause. |
+| 1 | ...has tension rising in the settlement. |
+| 2 | ...has spread fear from hearth to hearth. |
+| 3 | ...is drawing supporters to a cause. |
 | 4 | ...attracts the attention of [religious group]. |
-| 5 | ...has started a series of murders. |
-| 6 | ...arouses the interest of [group-faction]. |
+| 5 | ...has started a chain of killings. |
+| 6 | ...draws the interest of [group-faction]. |
 | 7 | ...is destroying the morale of the people. |
 
 #### Step One: Determine Elements
 
-Roll a D66 four times, checking the results in the **elements** table. This will give you a series of pieces to use to make up the event. For example, the results 1, 6, 2, and 3.
+Roll D66 four times on the **elements** table. These results give you the pieces of the event.
 
 #### Elements
 
-Throw a D66 four times to get the event elements.
+Roll D66 four times to get the event elements.
 
 | D66 | Element |
 | --- | --- |
@@ -768,25 +690,15 @@ Throw a D66 four times to get the event elements.
 
 #### Step Two: Get the Seeds
 
-Use the **circumstance**, **religious groups**, **other groups**, and **profession** tables here, the **monster** table from the Gamemaster's Guide, and the **action** table below to roll the event seeds.
+Use the **circumstance**, **religious groups**, **other groups**, and **profession** tables in this chapter, the **monster** table from the Gamemaster's Guide, and the **action** table below to roll the event seeds.
 
 For example, a roll of 1 (**circumstance**), 6 (**action**), 2 (**circumstance**), and 3 (**profession**) might produce Public Duel, Quit, Murder, and Brewer.
 
 #### Step Three: Interpret the Event
 
-Finally, interpret the event based on the seeds obtained. You will need to use all your creativity and imagination, since it is not easy to link concepts that are often so different and unconnected, but unexpected and interesting events can arise.
+Finally, interpret the event from the seeds. Do not worry if the words do not fit neatly at first. The best events often come from ugly combinations. Given the four example seeds, you could interpret Willem the Brewer abandoning his duel to the death in order to commit murder. It could also mean that Willem was killed for walking away from a scheduled fight in a cellar ring. You can reveal this while the adventurers attend the fight, when the crowd learns Willem has not come. They may be sent to find him, or they may see him running through the mud, either toward murder or away from it.
 
-Given the four example seeds, you could interpret Willem the Brewer abandoning his duel to the death in order to commit murder.
-
-It could also be something like this: Willem the Brewer was killed for walking out of his scheduled fight at an underground fight club.
-
-You can present this situation to the PCs when they are attending one of these shows, only to learn that they have to go find the brewer in question because he has not shown up for his match. It is also possible that they themselves see Willem running, either on his way to commit the murder or running from his killers.
-
-As you can see, all kinds of events can arise with this method. Although it takes work on your part to make it function, the seeds can result in a huge number of variables.
-
-Just as you do not have to follow the order in which the seeds appear to interpret the event, you do not have to take those seeds literally either. Public dueling can be any one-on-one combat, whether it is in the street, a tavern, or the corridors of a catacomb. Leaving as an action can be interpreted in any way that inspires you most: give up, neglect, leave, even if it already appears in the table.
-
-Always remember that events, unlike situations, often present themselves to the PCs without them looking for them. It is something that comes their way. If they prefer to ignore it, you can force them to track it down through an authority, save it for later with bigger repercussions, or simply dismiss it.
+This method takes judgment, but it can produce events you would not have planned. You do not need to keep the order of the seeds or take them literally. Public dueling can be any one-on-one fight: street, tavern, yard, bridge, or catacomb. Leaving can mean fleeing, abandoning, neglecting, betraying, or refusing the expected place. Events come to the adventurers whether they ask for them or not. If they ignore one, let an authority press them into it, let it return later with blood on it, or let it pass and leave a stain behind.
 
 #### Circumstances
 
@@ -796,31 +708,31 @@ Roll once to get a circumstance for the event.
 | --- | --- |
 | 11 | Coordinated attack. |
 | 12 | Fight in the streets. |
-| 13 | Protest. |
-| 14 | Artistic representation. |
+| 13 | Angry gathering. |
+| 14 | Public performance. |
 | 15 | Gathering of sorcerers. |
 | 16 | Procession in the streets. |
-| 21 | Inauguration of a new structure. |
+| 21 | First use of a new hall, bridge, or mill. |
 | 22 | Public execution. |
 | 23 | Summer fair. |
 | 24 | A spell goes wrong. |
-| 25 | Beer fest. |
-| 26 | Army returning. |
-| 31 | A marriage is celebrated. |
+| 25 | Ale feast. |
+| 26 | Armed company returning. |
+| 31 | Wedding feast. |
 | 32 | A building about to collapse. |
-| 33 | Heated discussion. |
+| 33 | Heated argument. |
 | 34 | Fire! |
-| 35 | Monster-s on the move. |
-| 36 | A political intrigue has just broken out. |
-| 41 | Army passing through the town. |
-| 42 | A thief is on the loose. |
-| 43 | Official announcement. |
-| 44 | Application of martial law. |
-| 45 | Earthquake! |
-| 46 | Storyteller narrating a story. |
+| 35 | Monsters on the move. |
+| 36 | Political intrigue breaking open. |
+| 41 | Army passing through the settlement. |
+| 42 | A thief loose in the lanes. |
+| 43 | Public proclamation. |
+| 44 | Martial law declared. |
+| 45 | Earth tremor! |
+| 46 | Storyteller drawing a crowd. |
 | 51 | Public duel. |
-| 52 | Military recruitment. |
-| 53 | Camp battle. |
+| 52 | Muster called. |
+| 53 | Camp fight. |
 | 54 | A criminal has escaped. |
 | 55 | The animals behave strangely. |
 | 56 | Flood! |
@@ -828,105 +740,107 @@ Roll once to get a circumstance for the event.
 | 62 | Murder. |
 | 63 | Revolt! |
 | 64 | Appearance of an artifact. |
-| 65 | A group of female adventurers appears. |
+| 65 | A band of armed strangers arrives. |
 | 66 | Refugees arriving. |
 
 #### Actions
 
 Roll once to get an action for the event.
 
-| D666 | Action | D666 | Action | D666 | Action | D666 | Action |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 111 | Ambush | 154 | Blow | 242 | Eat | 326 | Bet |
-| 112 | Point | 155 | Despair | 243 | Babble | 331 | Deal |
-| 113 | Dominate | 156 | Frighten | 244 | Grab | 332 | Confuse |
-| 114 | Submit | 161 | Congratulate | 245 | Banish | 333 | Appeal |
-| 115 | Make friends | 162 | Mock | 246 | Ridicule | 334 | Collapse |
-| 116 | Instigate | 163 | Lift | 251 | Enlarge | 335 | Complain |
-| 121 | Accuse | 164 | Discover | 252 | Disconcert | 336 | Attend |
-| 122 | Wrap | 165 | Plunder | 253 | Infuriate | 341 | Prohibit |
-| 123 | Go down | 166 | Punish | 254 | Caress | 342 | Incinerate |
-| 124 | Read | 211 | Suffer | 255 | Simulate | 343 | Command |
-| 125 | Shake | 212 | Expel | 256 | Argue | 344 | Amaze |
-| 126 | Glimpse | 213 | Abolish | 261 | Look | 345 | Harm |
-| 131 | Resist | 214 | Persuade | 262 | Sculpt | 263 | Prophesy |
-| 132 | Capture | 215 | Call | 264 | Congregate | 351 | Decree |
-| 133 | Disguise | 216 | Boast | 265 | Bribe | 352 | Build |
-| 134 | Besiege | 221 | Climb | 266 | Massacre | 353 | Amaze |
-| 135 | Challenge | 222 | Avenge | 311 | Weaken | 354 | Disfigure |
-| 136 | Crown | 223 | Betray | 312 | Focus | 355 | Bleed |
-| 141 | Attack | 224 | Beautify | 313 | Claim | 356 | Deduct |
-| 142 | Celebrate | 225 | Condemn | 314 | Beat | 361 | Support |
-| 143 | Organize | 226 | Assault | 315 | Falsify | 362 | Insult |
-| 144 | Harass | 231 | Cover | 316 | Abuse | 363 | Devour |
-| 145 | Mess up | 232 | Inherit | 321 | Regret | 364 | Finish |
-| 146 | Scratch | 233 | Scam | 322 | Fracture | 365 | Deactivate |
-| 151 | Amuse | 234 | Dazzle | 323 | Aggravate | 366 | Seek |
-| 152 | Enrich | 235 | Bother | 324 | Predict | --- | --- |
-| 153 | Participate | 236 | Pollute | 325 | Disparage | --- | --- |
-
-| D666 | Action | D666 | Action | D666 | Action | D666 | Action |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 411 | Strangle | 455 | Discipline | 543 | Attempt | 631 | Revolt |
-| 412 | Seduce | 456 | Run | 544 | Dance | 632 | Torment |
-| 413 | Patrol | 461 | Demolish | 545 | Chase | 633 | Reprimand |
-| 414 | Help | 462 | Recruit | 546 | Bite | 634 | Warn |
-| 415 | Repair | 463 | Arrange | 551 | Defeat | 635 | Discriminate |
-| 416 | Strengthen | 464 | Lose | 552 | Arrest | 636 | Transform |
-| 421 | Meet | 465 | Conjure | 553 | Illuminate | 641 | Murder |
-| 422 | Give away | 466 | Sell | 554 | Release | 642 | Steal |
-| 423 | Supplicate | 511 | Hurt | 555 | Demand | 643 | Trade |
-| 424 | Question | 512 | Terrorize | 556 | Bless | 644 | Personalize |
-| 425 | Audition | 513 | Abandon | 561 | Provoke | 645 | Consecrate |
-| 426 | Overcome | 514 | Infect | 562 | Destroy | 646 | Sleep |
-| 431 | Alarm | 515 | Bet | 563 | Push | 651 | Get away |
-| 432 | Confiscate | 516 | Exchange | 564 | Deliver | 652 | Report |
-| 433 | Flatter | 521 | Collaborate | 565 | Spread | 653 | Inquire |
-| 434 | Mourn | 522 | Shout | 566 | Spit | 654 | Narrate |
-| 435 | Catch | 523 | Point | 611 | Disturb | 655 | Torture |
-| 436 | Invent | 524 | Forge | 612 | Prevent | 656 | Construct |
-| 441 | Antagonize | 525 | Delegate | 613 | Threaten | 661 | Disarm |
-| 442 | Blame | 526 | Deal | 614 | Vanish | 662 | Dig |
-| 443 | Grant | 531 | Frustrate | 615 | Rescue | 663 | Capture |
-| 444 | Presume | 532 | Avoid | 616 | Auction | 664 | Mute |
-| 445 | Defend | 533 | Argue | 621 | Transport | 665 | Explore |
-| 446 | Bewitch | 534 | Collide | 622 | Throw | 666 | Vanish |
-| 451 | Contact | 535 | Applaud | 623 | Frighten | --- | --- |
-| 452 | Wear | 536 | Contest | 624 | Gesticulate | --- | --- |
-| 453 | Enter | 541 | Reward | 625 | Spy | --- | --- |
-| 454 | Annihilate | 542 | Enchant | 626 | Alter | --- | --- |
+| Roll | Action | Roll | Action | Roll | Action |
+| --- | --- | --- | --- | --- | --- |
+| 111 | Ambush | 311 | Weaken | 511 | Hurt |
+| 112 | Point | 312 | Focus | 512 | Terrorize |
+| 113 | Dominate | 313 | Claim | 513 | Abandon |
+| 114 | Submit | 314 | Beat | 514 | Infect |
+| 115 | Befriend | 315 | Falsify | 515 | Bet |
+| 116 | Incite | 316 | Abuse | 516 | Exchange |
+| 121 | Accuse | 321 | Regret | 521 | Aid |
+| 122 | Bind | 322 | Fracture | 522 | Shout |
+| 123 | Descend | 323 | Worsen | 523 | Point |
+| 124 | Read | 324 | Predict | 524 | Forge |
+| 125 | Shake | 325 | Belittle | 525 | Delegate |
+| 126 | Glimpse | 326 | Bet | 526 | Deal |
+| 131 | Resist | 331 | Deal | 531 | Frustrate |
+| 132 | Capture | 332 | Confuse | 532 | Avoid |
+| 133 | Disguise | 333 | Appeal | 533 | Argue |
+| 134 | Besiege | 334 | Collapse | 534 | Collide |
+| 135 | Challenge | 335 | Complain | 535 | Applaud |
+| 136 | Crown | 336 | Attend | 536 | Contest |
+| 141 | Attack | 341 | Forbid | 541 | Reward |
+| 142 | Celebrate | 342 | Incinerate | 542 | Enchant |
+| 143 | Organize | 343 | Command | 543 | Attempt |
+| 144 | Harass | 344 | Stun | 544 | Dance |
+| 145 | Botch | 345 | Harm | 545 | Chase |
+| 146 | Scratch | 346 | Offer | 546 | Bite |
+| 151 | Entertain | 351 | Decree | 551 | Defeat |
+| 152 | Enrich | 352 | Build | 552 | Arrest |
+| 153 | Join | 353 | Stun | 553 | Illuminate |
+| 154 | Blow | 354 | Disfigure | 554 | Release |
+| 155 | Despair | 355 | Bleed | 555 | Demand |
+| 156 | Frighten | 356 | Withhold | 556 | Bless |
+| 161 | Congratulate | 361 | Support | 561 | Provoke |
+| 162 | Mock | 362 | Insult | 562 | Destroy |
+| 163 | Lift | 363 | Devour | 563 | Push |
+| 164 | Discover | 364 | Finish | 564 | Deliver |
+| 165 | Plunder | 365 | Disable | 565 | Spread |
+| 166 | Punish | 366 | Seek | 566 | Spit |
+| 211 | Suffer | 411 | Strangle | 611 | Disturb |
+| 212 | Expel | 412 | Seduce | 612 | Prevent |
+| 213 | Abolish | 413 | Patrol | 613 | Threaten |
+| 214 | Persuade | 414 | Help | 614 | Vanish |
+| 215 | Call | 415 | Repair | 615 | Rescue |
+| 216 | Boast | 416 | Strengthen | 616 | Auction |
+| 221 | Climb | 421 | Meet | 621 | Transport |
+| 222 | Avenge | 422 | Gift | 622 | Throw |
+| 223 | Betray | 423 | Supplicate | 623 | Frighten |
+| 224 | Beautify | 424 | Question | 624 | Gesture |
+| 225 | Condemn | 425 | Test | 625 | Spy |
+| 226 | Assault | 426 | Overcome | 626 | Alter |
+| 231 | Cover | 431 | Alarm | 631 | Revolt |
+| 232 | Inherit | 432 | Confiscate | 632 | Torment |
+| 233 | Scam | 433 | Flatter | 633 | Reprimand |
+| 234 | Dazzle | 434 | Mourn | 634 | Warn |
+| 235 | Bother | 435 | Catch | 635 | Shun |
+| 236 | Pollute | 436 | Invent | 636 | Transform |
+| 241 | Rest | 441 | Antagonize | 641 | Murder |
+| 242 | Eat | 442 | Blame | 642 | Steal |
+| 243 | Mutter | 443 | Grant | 643 | Trade |
+| 244 | Grab | 444 | Boast | 644 | Mark |
+| 245 | Banish | 445 | Defend | 645 | Consecrate |
+| 246 | Ridicule | 446 | Bewitch | 646 | Sleep |
+| 251 | Enlarge | 451 | Meet | 651 | Escape |
+| 252 | Unsettle | 452 | Wear | 652 | Report |
+| 253 | Enrage | 453 | Enter | 653 | Inquire |
+| 254 | Caress | 454 | Annihilate | 654 | Tell |
+| 255 | Feign | 455 | Discipline | 655 | Torture |
+| 256 | Argue | 456 | Run | 656 | Build |
+| 261 | Watch | 461 | Demolish | 661 | Disarm |
+| 262 | Sculpt | 462 | Recruit | 662 | Dig |
+| 263 | Prophesy | 463 | Arrange | 663 | Capture |
+| 264 | Congregate | 464 | Lose | 664 | Silence |
+| 265 | Bribe | 465 | Conjure | 665 | Explore |
+| 266 | Massacre | 466 | Sell | 666 | Vanish |
 
 ### Vicissitudes
 
-> _Walking through the streets of Runswick, Iradros was astonished. The place had made incredible progress in the past few months. It seemed like the little help he gave to the local government had promoted the progress of the town, and it was reflected not only in its business, but in the faces of its people._
+> _When Iradros returned to Runswick, the change showed in the mud. The road had been ditched, the market posts stood straight, and the faces at the well were less hollow than before. Someone had spent coin, sweat, or fear here._
 
-Having resolved the basic facts of the settlement, both its past and its present, it is time to focus on its future. The so-called **vicissitudes** are the possible events that can happen to an Adventure Site throughout its existence and that will alter its general state as well as the quality of life of its inhabitants, offering the adventurers a palpable change of situation and altering their interaction with it.
-
-Below is the table of **vicissitudes**, followed by clarifications so as not to leave room for confusion.
+Once the settlement has a past and a present, let it have a future. **Vicissitudes** are the changes that strike a settlement between visits. They alter condition, population, locations, and the lives of the people who remain there. Use them for places the adventurers may return to. A village they save, neglect, rob, or rule should not look the same every time they pass through.
 
 #### Generate a Problem
 
-When you get a bad result on the **vicissitudes** table, you may be prompted to create a problem for the settlement.
-
-Go back to **Town Problem** and roll as indicated there. This problem is added to any problems already in effect in the settlement.
-
-Keep in mind that the more problems the town accumulates, the worse modifiers it accumulates for its next **vicissitudes** roll.
+When the **vicissitudes** table tells you to generate a problem, create a new problem for the settlement. Go back to **Settlement Problem** and roll as indicated there. Add the new problem to any problems already in effect. The more problems a settlement carries, the worse its next **vicissitudes** roll becomes.
 
 #### Vicissitude Roll
 
-**Vicissitude** rolls are made once a month for each settlement whose general progress you are interested in keeping track of, probably because it is a place that adventurers visit repeatedly.
+Make a **vicissitude** roll once per month for each settlement whose progress you want to track, usually because the adventurers return there, own something there, or left trouble behind.
 
 #### Turn Situation into Problem
 
-Another possible bad outcome will tell you to turn a **situation** into a problem. This only applies if the town has an ongoing conflict situation that the adventurers have not resolved, though you can also roll on the situation tables to generate one if you see fit.
+Some bad outcomes turn a **situation** into a problem. This applies when the settlement has an unresolved situation. If none exists, roll one now or choose a consequence that follows from play. First count the **variables**. Review the settlement and add all modifiers that apply. The `+X` modifier comes from the **general condition of the settlement** table.
 
-The first step is to count its possible **variables**. Review the situation of the settlement and add the corresponding modifiers. The one that is out of the ordinary is the first, which indicates a `+X` modifier. This corresponds to the modifier that appears in the **general condition of the town** table.
-
-The situation escalates in magnitude or importance and becomes a real problem for the stability and survival of the settlement.
-
-The **variables** give you a number that you must apply to the subsequent roll on the **vicissitudes** table. Roll 3D6 and add the pertinent modifier to obtain the consequences of the month.
-
-There are several effects to take into account in the table below.
+The situation grows teeth. It becomes a threat to order, stores, life, or authority. The **variables** give you a modifier for the **vicissitudes** roll. Roll 3D6, add the modifier, and apply the consequence for the month. The entries below describe those consequences.
 
 #### Variables
 
@@ -934,13 +848,13 @@ Each month, look at the following table and add the modifiers that apply.
 
 | Variable | Modifier |
 | --- | --- |
-| General condition of the town. | +X |
+| General condition of the settlement. | +X |
 | Population density is _deserted_ or _abandoned_. | -1 |
 | Population density is _bustling_ or _crowded_. | +1 |
-| For each unresolved problem the town has. | -1 |
-| For every problem that has been solved in the town, whether by the adventurers or another cause. | +1 |
+| For each unresolved problem the settlement has. | -1 |
+| For every problem solved in the settlement, whether by the adventurers or another cause. | +1 |
 | For every agitator or political group challenging the leader's authority. | -1 |
-| The authority of the ruling political group or leader is not being challenged. | +1 |
+| The authority of the ruling group or leader is not being challenged. | +1 |
 
 #### Vicissitudes Table
 
@@ -948,46 +862,115 @@ Roll 3D6 once and add the modifiers from the table above to get the vicissitude 
 
 | 3D6 | Vicissitude | Consequence |
 | --- | --- | --- |
-| <3 | Anarchic situation | Generate 1 problem. The population is reduced by 20D6 inhabitants. Worsen 1D6 + 3 locations. |
-| 3 | Catastrophe | Generate 1 problem. The population is reduced by 10D6 inhabitants. Worsen 1D6 locations. Reduce the general condition of the town by 1. |
+| <3 | Anarchy | Generate 1 problem. The population is reduced by 20D6 inhabitants. Worsen 1D6 + 3 locations. |
+| 3 | Catastrophe | Generate 1 problem. The population is reduced by 10D6 inhabitants. Worsen 1D6 locations. Reduce the general condition of the settlement by 1. |
 | 4-5 | Crisis | Turn 1 situation into a problem. The population is reduced by 5D6 inhabitants. Worsen 1D3 locations. |
-| 6-7 | Bad management | Turn 1 situation into a problem. Reduce the general condition of the town by 1 level. |
-| 8-9 | Restlessness | The population is reduced by 2D6 inhabitants. Worsen 1 location. Modify the next vicissitudes roll by -1. |
-| 10-11 | Quiet period | There are no apparent changes. |
-| 12-13 | Little boost | The population increases by 2D6 inhabitants. Improve 1 location. Modify the next vicissitudes roll by +1. |
+| 6-7 | Bad management | Turn 1 situation into a problem. Reduce the general condition of the settlement by 1 level. |
+| 8-9 | Unrest | The population is reduced by 2D6 inhabitants. Worsen 1 location. Modify the next vicissitudes roll by -1. |
+| 10-11 | Quiet Month | There are no apparent changes. |
+| 12-13 | Small Gain | The population increases by 2D6 inhabitants. Improve 1 location. Modify the next vicissitudes roll by +1. |
 | 14-15 | Progress | Generate 1 new location. The population increases by 5D6 inhabitants. Improve 1D3 locations. |
-| 16-17 | Good management | Improve 1D6 locations. Increase the general condition of the town by 1 level. |
+| 16-17 | Good management | Improve 1D6 locations. Increase the general condition of the settlement by 1 level. |
 | 18 | Prosperity | Generate 1D3 new locations. The population increases by 10D6 inhabitants. Improve 1D6 locations. |
-| >18 | Splendor | Generate 1D3 + 3 new locations. The population increases by 20D6 inhabitants. Improve 1D6 + 3 locations. |
+| >18 | Flourishing | Generate 1D3 + 3 new locations. The population increases by 20D6 inhabitants. Improve 1D6 + 3 locations. |
 
-Keep in mind that if any indicator, whether size, condition, or profitability, is reduced after already reaching the lowest level, it is no longer operational due to collapse, abandonment, or bankruptcy.
+If size, condition, or profitability is reduced below its lowest level, the location no longer functions. It has collapsed, been abandoned, or gone bankrupt.
 
 #### Generate Locations
 
-Upon getting a good result on the vicissitudes table, you may be prompted to generate one or more settlement locations.
-
-Go back to the location generation tables and begin the process of creating locations.
-
-Then refer to the **town size** table in the **locations** column. If the new number of locations indicates that the size category has changed, mark it on the settlement sheet.
-
-Likewise, if the settlement changes in size, its **population density** will likely change as well. Change its current category to the appropriate one based on the number of inhabitants.
+Good results on the **vicissitudes** table may tell you to generate one or more settlement locations. Return to the location generation tables and create the new locations. Then check the **settlement size** table and its **locations** column. If the number of locations changes the size category, mark it on the settlement sheet. If the settlement changes size, its **population density** may change as well. Use the number of inhabitants to choose the correct category.
 
 #### Modify Population
 
-When you are told that the population is **increasing** or **decreasing**, make the corresponding roll and add or subtract the result from the population total.
-
-Then consult the **town population density** table in the corresponding column. If the population total indicates that the density category has changed, indicate it on the settlement sheet.
+When the population **increases** or **decreases**, roll as instructed and add or subtract the result from the population total. Then consult the **settlement population density** table. If the population total changes the density category, mark it on the settlement sheet.
 
 #### Modify Locations
 
 When the result tells you to **improve** or **worsen** locations, go to the **location size and condition** and **profitability or productivity** tables.
 
-Roll the appropriate dice: 1D6 for **size**, 1D6 for **condition**, and 1D66 for **productivity**. If the consequence was **improve**, the location goes up one level if the result is higher than its current level. If the consequence was **worsen**, it goes down one level if the result is less than or equal to its current level.
+Roll the appropriate dice: 1D6 for **size**, 1D6 for **condition**, and 1D66 for **productivity**. If the consequence was **improve**, the location goes up one level if the result is higher than its current level. If the consequence was **worsen**, it goes down one level if the result is equal to or lower than its current level.
 
-#### General Condition of the Town
+#### General Condition of the Settlement
 
-There are two outcomes that can alter the overall state of the settlement. **Good management** indicates that the condition improves by one level, while **bad management** makes the condition worse by one level. In either case, refer to the **general condition of the town** table and simply change the category up or down as appropriate.
+Two outcomes can alter the overall state of the settlement. **Good management** improves the condition by one level, while **bad management** worsens it by one level. In either case, refer to the **general condition of the settlement** table and move the category up or down. A settlement can never improve above **distinguished** or worsen below **ruinous**.
 
-A town can never improve above **distinguished** nor worsen below **ruinous**.
+The settlement's general condition describes what people see when they walk through it. It does not change the condition of individual locations. Even so, good and bad rule will modify future **vicissitude** rolls, as shown in the first row of the **variables** table.
 
-Although the condition of the town corresponds to its general appearance and what is perceived when walking through it, it does not change the particular condition of its locations. Even so, the good and bad actions of the rulers of the town will modify future **vicissitude** rolls, as indicated by the first row of the **variables** table.
+### Settlement Play
+
+A village does not wait quietly while the adventurers are away. Grain runs low, timber goes missing, a widow's sons leave for the road, the reeve drinks too much, and the priest starts naming sinners from the steps of the shrine. Use the rules below for settlements that matter enough to change between visits, but not enough to need a full adventure site treatment every month.
+
+#### Settlement Turn
+
+The settlement turn is the short form of the **vicissitudes** rules. Use one or the other for the same settlement in the same month. At the end of each month, or after any event that clearly changes the village, roll `2D6` and apply the modifiers below.
+
+| Modifier | Value |
+| --- | --- |
+| Each unresolved serious problem. | +1 |
+| Food, fuel, or water is short. | +1 |
+| Roads to the settlement are blocked, taxed, or unsafe. | +1 |
+| Authority is weak, disputed, or absent. | +1 |
+| Authority is firm and broadly accepted. | -1 |
+| The settlement ended the last turn with a surplus or a solved problem. | -1 |
+
+| 2D6 | Turn | Effect |
+| --- | --- | --- |
+| 2-4 | Crisis | Add 1 new problem and worsen 1 settlement feature or location. |
+| 5-6 | Strain | Add pressure: a warning, shortage, dispute, or demand. |
+| 7-8 | Holding On | No major change. The settlement keeps its present shape. |
+| 9-10 | Recovery | Solve 1 minor problem or improve 1 settlement feature. |
+| 11-12 | Growth | Add 1 location, improve 1 feature, or raise local confidence. |
+
+Apply the result in the fiction first. A crisis can be a burned barn, a hungry crowd, a road washed out, a feud turning bloody, or a local authority losing control. The table gives the weight of the change. The GM decides whose door it lands on.
+
+#### Household Ledger
+
+A settlement is not one mind. It is a knot of households, guilds, shrine-keepers, kin groups, hired blades, debtors, and people with keys to barns. Name three to five households or power holders. Give each two scores: **Need** and **Heat**. Both start at `0` and both run from `0` to `3`.
+
+Increase **Need** by 1 if the household was not fed, paid, protected, or honored when it mattered. Increase **Heat** by 1 if the household was insulted, cheated, threatened, robbed, exposed, or humiliated. At **Need 3**, the household acts from hunger or fear. It begs, steals, leaves, sells loyalty, hides grain, or throws itself at the strongest patron available. At **Heat 3**, the household acts from anger. It boycotts, sabotages, starts a feud, shelters enemies, or reaches for knives.
+
+#### Stores And Shortages
+
+Food is the first law of a village. Firewood, feed, salt, water, seed grain, and coin follow close behind. Track only the stores that matter in play. Use four steps: **Bare**, **Thin**, **Adequate**, **Full**. Most villages start at `Thin` for grain and `Bare` for coin.
+
+At each seasonal turn, reduce each tracked store by 1 step unless the settlement had a clear surplus, a good harvest, a successful trade run, or a levy that actually reached the barns. If a store reaches **Bare**, give the settlement a fitting problem: hunger, theft, poaching, illegal woodcutting, black market trade, debt, sickness, or a quarrel over rationing. If a store reaches **Full**, improve a location, lower tension, create a trade opportunity, or let one household reduce **Need** by 1.
+
+#### Route Links
+
+The map of Forbidden Lands is a hex map, and the players may leave a settlement in any direction. Do not use route links to fence the world in. Use this rule only for a shorter road-bound adventure, a caravan-focused campaign, or any game where you want nearby places to behave as a pointcrawl. In a normal hex-map campaign, route links are local color and rumor logic. The journey rules still decide travel.
+
+If you use route links, name one to three roads, river ways, passes, ferry lines, or trade paths from the settlement to nearby places. Mark each link as one of the following:
+
+| Link State | Meaning |
+| --- | --- |
+| Open | The road is watched, clear, and easy to use. |
+| Poor | The route is usable, but rough or slow. |
+| Blocked | The route cannot be used until someone clears it. |
+| Dangerous | Raiders, beasts, or weather threaten the route. |
+| Taxed | A toll, tribute, or gate fee follows the route. |
+
+When the adventurers choose that link, use its state to judge pace, danger, tolls, rumors, and market access. If the group leaves the road and cuts across the hex map, return to the normal journey rules. When the settlement turn produces **Recovery** or **Growth**, and the link was protected, cleared, or used, improve it by one step. When the settlement turn produces **Crisis**, and the link was ignored, attacked, flooded, or starved of traffic, worsen it by one step.
+
+#### First Arrival
+
+The Journeys chapter gives player-facing rules for **Hospitality**, **First Impression**, gates, settlement visits, Reputation, and quarter-day activities inside the walls. Use those rules when the adventurers arrive. This chapter helps the GM decide what stands behind that first roll. Before the First Impression roll, answer these questions:
+
+1. Is the place watched, hungry, open-handed, sick, proud, or frightened?
+2. Who sees the adventurers first: a gate guard, a child, a ferryman, a priest, a trader, a beggar, or no one at all?
+3. What does the settlement want right now: news, coin, labor, grain, protection, justice, a scapegoat, or silence?
+4. What is said before the first cup is poured?
+
+Then make the arrival roll from the Journeys chapter. The answers above tell you what the roll feels like at the table: a silent gate, a hand held out for toll, a priest waiting with questions, or a village that smells of smoke and wants armed help before nightfall.
+
+#### Justice And Retaliation
+
+The law in a village is personal. Theft is not just a missing object, but a hungry household. A killing is not just a body, but kin at the door before dawn. Use this procedure when the adventurers steal, kill, cheat, threaten, or insult someone inside the settlement.
+
+1. Mark the offended household or authority with `Heat +1`.
+2. If the offense was public, add another `Heat +1`.
+3. If the offense killed someone, ruined food, burned shelter, or shamed an authority, add another `Heat +1`.
+4. At `Heat 2`, the settlement answers with warning, demand, fine, oath, or surety.
+5. At `Heat 3`, the settlement answers with denial of shelter, armed pursuit, ransom, blood price, outlawry, or revenge.
+6. If the adventurers repair the damage or pay compensation, reduce `Heat` by 1.
+
+If the offense is also a crime under the settlement rules in the Journeys chapter, use those rules to judge the charge and sentence. The **Heat** score tells the GM who will not let the matter die.

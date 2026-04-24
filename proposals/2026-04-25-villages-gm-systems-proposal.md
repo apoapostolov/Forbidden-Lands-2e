@@ -6,6 +6,8 @@ Chapter 10 now gives settlements a history, a present condition, people, locatio
 
 This proposal fills that gap with procedures that fit the Forbidden Lands corebook better than whimsical town color or abstract worldbuilding. The goal is a village system that behaves like part of the living world: hungry, local, political, and tied to travel.
 
+Status: implemented in `02-gamemasters-guide/10-villages.md`.
+
 ## What Is Missing
 
 - A settlement turn that advances the village between visits.
