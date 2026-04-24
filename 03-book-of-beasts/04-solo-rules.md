@@ -361,13 +361,13 @@ Here are some examples of questions you could ask the oracles to kickstart villa
 
 - “How do the villagers react to us?” Roll on the Helpful/Hazardous oracle.
 - “Does anyone in the village approach us for help?” Roll on the Yes/No oracle and then on the Theme oracle if the answer is “yes” to determine the nature of this villager’s problem.
-- “[X] is the village problem – will the village leader let me help them with it?” Roll on the Yes/No oracle.
-- “[X] is what the village is known for – is that thing in jeopardy somehow?” Roll on the Yes/No oracle.
+- “**⚔️** is the village problem – will the village leader let me help them with it?” Roll on the Yes/No oracle.
+- “**⚔️** is what the village is known for – is that thing in jeopardy somehow?” Roll on the Yes/No oracle.
 
 ### Playing Solo with Others
 
 While these rules are designed to facilitate single- player play, these rules will work just as well for co- operative (playing with friends, but no GM) and traditional play with a GM. The only change needed from the guidelines above is that a Companion is no longer necessary.
 
-For co- op play, take it in turns to consult the various oracles and discuss together the best outcome for any situation where there is uncertainty in how to proceed. Rule #1 for solo play still applies here – go with your gut! If something seems logical, don’t waste time with oracles, simply keep the game moving and save the oracles for those times when you are uncertain and would normally ask the GM for clarity.
+For co-op play, take it in turns to consult the various oracles and discuss together the best outcome for any situation where there is uncertainty in how to proceed. Rule #1 for solo play still applies here – go with your gut! If something seems logical, don’t waste time with oracles, simply keep the game moving and save the oracles for those times when you are uncertain and would normally ask the GM for clarity.
 
 For traditional play, the GM can use any of these tools to introduce some more randomness into the game. In the same way that many games have a “luck” mechanic which the players can interact with, the GM can ask the players to consult an oracle if they are themselves unsure.
