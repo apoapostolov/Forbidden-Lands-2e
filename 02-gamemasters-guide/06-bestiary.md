@@ -72,6 +72,8 @@ Monsters don’t become weaker when they are wounded – a wounded monster can b
 
 ### Abyss Worm
 
+> _The field had been harrowed at dawn. By noon it had swallowed two oxen, a boy, and half the plow. The old woman by the gate spat into the dust and told the others not to stamp their feet._
+
 Shortly after the Demon Flood, people began to vanish without a trace in the fields of the villages. Tools and the odd piece of clothing could be found lying on the ground with no signs of a struggle or even tracks in the mud. It was soon learned that it was the beasts known as Abyss Worms that had invaded the area.
 
 These predators, up to twelve meters long, slither by unnoticed under the ground, but while hunting they can plow through the loose earth of the surface as fast as a horse can trot and are then seen as a wave of earth thundering along the ground. They can also be encountered in caves or mining shafts where they threaten miners. They pierce through solid stone but slowly, gnawing it and dissolving the rock with corrosive saliva.
@@ -82,20 +84,20 @@ In particularly afflicted areas, younger Abyss Worms are trapped and killed in l
 
 to attacks. Campsites can be secured by pouring lamp oil on the ground, which the worms hate.
 
-### Young Worm
+#### Young Worm
 
 - **ATTRIBUTES:** Strength 14, Agility 2
 - **MOVEMENT:** 1
 - **ARMOR RATING:** 4
 
-### Old Worm
+#### Old Worm
 
 - **ATTRIBUTES:** Strength 18, Agility 2
 - **MOVEMENT:** 2
 - **ARMOR RATING:** 10
 - **WEAK MOUTH CAVITY:** An attack aimed at the mouth of an Abyss Worm suffers a –2 penalty, but if it hits, the worm is not protected by any armor.
 
-**MONSTER ATTACKS**
+#### Monster Attacks
 
 | **1D6** | **EFFECT**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -106,7 +108,37 @@ to attacks. Campsites can be secured by pouring lamp oil on the ground, which th
 | 5       | **SWEEPING ATTACK!** The worm uses its long body to make a sweeping attack that hits all adventurers within NEAR range. Roll for the attack with seven Base Dice and Weapon Damage 1 (blunt force). If an attack hits, the victim is also thrown to the ground.                                                                                                                                                                                                                                                                                                                               |
 | 6       | **THE GROUND SHATTERS!** The Abyss Worm dives into the ground and uses its mass to shatter the ground around the adventurers. Everyone within NEAR range falls 2D6 meters and lands prone.                                                                                                                                                                                                                                                                                                                                                                                                    |
 
+#### Lore Roll
+
+| D6 | INSIGHT                                                                                                                                             |
+| -- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1  | Abyss Worms are blind predators that hunt by sound and steady vibration in earth, loose stone, and mine rubble.                                      |
+| 2  | Lamp oil spread across the ground can hold a worm away for a short time, and older worms are most vulnerable inside the mouth.                       |
+| 3  | Villages that survived the Blood Mist sometimes know old drumming traps for young worms, but the same rhythm can call an old worm from deeper soil. |
+
+#### Random Encounter: the Silent Furrow
+
+> _A strip of freshly turned earth runs through a fallow field, though no plow stands nearby. A wooden shoe lies in the furrow. Farther on, a rake handle juts from the soil and trembles with each careful step._
+
+A young Abyss Worm hunts beneath the field after taking two villagers during the morning work. The villagers have tied bells to poles and dare not step past the fence. If the adventurers help, a successful SURVIVAL roll reveals that irregular footwork and soft ground reduce the chance of drawing the worm, while steady marching calls it straight toward the group.
+
+- **Terrain Types:** Plains, Forest, Hills
+
+#### Random Encounter: Drums under the Mine
+
+> _From the mine mouth comes a hollow beating, slow and regular, as if someone were striking a great hide drum far below the stone. Then the beat stops. Pebbles begin to dance at your feet._
+
+Miners trapped in an old dwarven shaft have tried to lure a worm away from a collapsed passage by beating on ore carts. They have instead woken an old worm with a plated hide. The mine holds D3 Valuable Finds, but every Quarter Day spent underground risks another worm answering the vibration.
+
+- **Terrain Types:** Hills, Mountains, Ruins
+
+> **RESOURCES**
+>
+> The worm’s corrosive saliva can soften stone and bone. An adventurer with the ALCHEMIST talent can extract D3 doses from the mouth glands with a successful HEALING roll. A dose may replace strong acid in an alchemical preparation or give +1 to a CRAFTING roll made to etch, loosen, or dissolve stone.
+
 ### Bloodling
+
+> _The red mist did not move like weather. It held its breath outside the shutters, listening to the quarrel inside. When the stranger began to weep, fingers formed in the fog._
 
 Bloodlings are gaseous demons normally appearing only at night, spreading out as red Blood Mist or condensing into predatory shapes. It remains unclear whether the mist is part of the demons or an environment created by them.
 
@@ -124,7 +156,7 @@ The mist as such seems to be immune to attacks, but it is said to disperse in br
 - **INCORPOREAL FORM:** In the form of the mist, the Bloodlings are immune to all types of physical violence. As soon as they materialize physically, they can be hurt by copper weapons normally. All other forms of weapons do half damage (rounding up).
 - **SENSITIVE TO LIGHT:** Bloodlings loathe strong light. An attack with a torch or a lantern (blunt instrument) will inflict D3 additional points of damage on a Bloodling.
 
-**MONSTER ATTACKS**
+#### Monster Attacks
 
 | **D6** | **ATTACK**                                                                                                                                                                                                                                                                                                                                                    |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -135,7 +167,37 @@ The mist as such seems to be immune to attacks, but it is said to disperse in br
 | 5      | **GOING FOR THE JUGULAR!** The Bloodling throws itself upon the adventurer with the lowest Strength within NEAR range and tries to bite its throat. Roll an attack with ten Base Dice and Weapon Damage 2 (slash wound). The attack damages both Strength and Wits. The victim, if hit, is also affected by a demonic infection with a Virulence rating of 9. |
 | 6      | **LIFE EXTRACTION!** The demon embraces an adventurer within NEAR range in a deadly embrace and tries to suck life out through the mouth and eyes. Roll a fear attack with twelve Base Dice.                                                                                                                                                                  |
 
+#### Lore Roll
+
+| D6 | INSIGHT                                                                                                                                           |
+| -- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1  | Bloodlings are the demons within the old Blood Mist, now rare but still able to gather as red fog at night.                                        |
+| 2  | Strong light drives them back, and copper weapons cut their manifested bodies better than iron or steel.                                           |
+| 3  | Bloodlings read fear, homesickness, and despair as a kind of invitation; a calm hearth, a true home, or fierce conviction can keep them uncertain. |
+
+#### Random Encounter: Mist at the Guest Door
+
+> _The village shuts itself before sunset. No latch is left loose, no window unbarred. Outside the guest house a red thread of fog curls along the threshold, thin as spilled blood._
+
+A stubborn bloodling has learned to hunt travelers who sleep inside settlements but do not belong there. It waits until a quarrel, nightmare, or homesick confession gives it a path. The villagers know the old rules of the Blood Mist and will blame the adventurers if a door is opened after dark.
+
+- **Terrain Types:** Plains, Forest, Marshlands
+
+#### Random Encounter: the Copper Beggar
+
+> _A beggar sits beside the road with copper wire twisted through his beard and little copper plates sewn to his cloak. He will not look at the setting sun. He only asks whether you have seen the red woman following him._
+
+The beggar is a former Rust Brother initiate who survived an initiation in the Mist and stole a copper reliquary from his cell. A bloodling trails him, appearing first as a red haze in the ditch and then as a woman-shaped smear between the trees. The reliquary is worth silver, but keeping it draws the demon’s attention.
+
+- **Terrain Types:** All
+
+> **RESOURCES**
+>
+> A bloodling leaves a dark red residue on copper that has wounded it. An adventurer with the ALCHEMIST talent can scrape enough residue for one dose after a slain manifested bloodling dissolves. Mixed into a potion or incense, the dose gives +1 to INSIGHT rolls made to sense fear, grief, or concealed despair for one Quarter Day.
+
 ### Demon
+
+> _The goat had a child’s hands. The child had a goat’s eyes. The priest said both were demons, and the mother said nothing, for one of them still called her by name._
 
 The fear of demons is widespread in all of the Forbidden Lands, ever since the Demon Flood three centuries ago. Since demons can take basically any form, villagers blame them for all kinds of inexplicable mischief. Far worse is to face demons in the form of writhing masses or vaguely man-like creatures straight from a fever dream. Some claim that not all demons are bloodthirsty and evil, but few dare stick around to explore their potential virtues.
 
@@ -143,7 +205,7 @@ In the Forbidden Lands, the word “demon” alludes to any creature foreign to 
 
 Demons can be completely impervious to cuts and strikes, fire or cold. Most of the time they have varying weaknesses in return – the trick is to figure them out. Every demon is unique. Use the tables below to create a demon’s form, abilities, strengths and weaknesses.
 
-### The Demon’s Form
+#### The Demon’s Form
 
 | D66   | FORM       | STRENGTH | AGILITY | WITS | EMPATHY | ARMOR | EFFECT                        |
 | ----- | ---------- | -------- | ------- | ---- | ------- | ----- | ----------------------------- |
@@ -164,7 +226,7 @@ Demons can be completely impervious to cuts and strikes, fire or cold. Most of t
 | 65    | Fog        | D6+3     | 3       | 3    | 3       | –     | Not hurt by physical weapons. |
 | 66    | Shadow     | D6+3     | 3       | 3    | 3       | –     | Not hurt by physical weapons. |
 
-**THE DEMON’S ABILITY**
+#### The Demon’s Ability
 
 | D66   | ABILITY               | EFFECT                                                 |
 | ----- | --------------------- | ------------------------------------------------------ |
@@ -185,7 +247,7 @@ Demons can be completely impervious to cuts and strikes, fire or cold. Most of t
 | 55    | No Eyes               | Draw one extra initiative card, discard the best one.  |
 | 56–66 | Roll Twice            | Roll twice on this table.                              |
 
-**THE DEMON’S ATTACKS**
+#### Monster Attacks
 
 | D66   | ATTACK           | BASE DICE | WEAPON DAMAGE                                                                                                 | RANGE        |
 | ----- | ---------------- | --------- | ------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -201,7 +263,7 @@ Demons can be completely impervious to cuts and strikes, fire or cold. Most of t
 | 61–65 | Roll Three Times | –         | –                                                                                                             | –            |
 | 66    | Roll Four Times  | –         | –                                                                                                             | –            |
 
-**THE DEMON’S SPECIAL ABILITY**
+#### The Demon’s Special Ability
 
 | D66   | ABILITY                    | EFFECT                                                                                                   |
 | ----- | -------------------------- | -------------------------------------------------------------------------------------------------------- |
@@ -220,7 +282,7 @@ Demons can be completely impervious to cuts and strikes, fire or cold. Most of t
 | 63–64 | Teleportation              | Can instantly teleport to anywhere within LONG range every other round.                                  |
 | 65–66 | Roll twice on this table   | –                                                                                                        |
 
-**THE DEMON’S WEAKNESS**
+#### The Demon’s Weakness
 
 | D66   | WEAKNESS     | EFFECT                                                                                                                                                                                                               |
 | ----- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -240,18 +302,48 @@ Demons can be completely impervious to cuts and strikes, fire or cold. Most of t
 
 **SKILLS:** Roll D6–1 each for Scout, Sneak, Move, Lore, Insight, and Manipulation.
 
+#### Lore Roll
+
+| D6 | INSIGHT                                                                                                                                         |
+| -- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1  | Demons are creatures from worlds beyond this one, often bound together by the living substance called mog.                                       |
+| 2  | No two demons need share the same body, powers, or weakness; observation and old village tales are often more useful than bravery.               |
+| 3  | The worst demons in Ravenland are old survivors of the Demon Flood or spawn of Zygofer’s laboratories, and many still answer to bargains made in blood. |
+
+#### Random Encounter: the Thing in the Byre
+
+> _The cow has not calved. It has opened. Something wet and many-jointed moves in the straw while the farmer stands by the wall with a pitchfork, whispering prayers to every god he knows._
+
+A demon has been born from livestock corrupted by old mog buried under the byre. Its form is rolled normally, but its first weakness is hidden in the farm’s daily life: water from the well, ash from the hearth, a child’s song, or the touch of clean soil. The family begs the adventurers to kill it before the Rust Brothers hear of the birth and burn the whole stead.
+
+- **Terrain Types:** Plains, Forest
+
+#### Random Encounter: the Old Contract
+
+> _A stone post stands beside the road, smeared with blood though no body lies nearby. The writing on it changes as you watch. First your names. Then the names of people you have buried._
+
+A demon bound during the Alder Wars has begun calling in a bargain made by dead soldiers. It claims the pass, ford, or bridge as payment and will let no armed traveler cross without sacrifice. Clever adventurers may break the contract by discovering whose blood signed it, but each failed parley roll lets the demon choose one of its attacks from the table.
+
+- **Terrain Types:** All
+
+> **RESOURCES**
+>
+> Demon bodies rarely leave clean remains, but mog, horn, bile, ash, or glassy bone may be cut from them before they decay. An adventurer with the ALCHEMIST talent can preserve one dose of demonic substance with a successful HEALING roll. The dose may serve as a forbidden ingredient for Demonic Magic, or as a +1 ingredient in a potion meant to resist the demon’s own attack type. Possessing such matter is enough to make most villagers bar their doors.
+
 ### Death Knight
+
+> _The knight’s helm was full of frost. Beneath it, a dead man’s voice asked for the king by name, though that king had been bones for three hundred years._
 
 A Death Knight is a very powerful undead with an intact will and sense of self. Both men and women may become Death Knights. If the person knew magic in life, these skills remain, but any healing or life supporting spellcasting is perverted. Magic wielding Death Knights are often referred to as liches. Death knights, as a rule, lead forces of undead followers since they automatically command lesser undead.
 
-It is whispered that Death Knights regularly need to devour certain parts of humans: the heart, liver, brain or other organs to keep their strength. Some scholars claim that the mon- sters may be weakened by preparing victims in advance with poisonous salts.
+It is whispered that Death Knights regularly need to devour certain parts of humans: the heart, liver, brain or other organs to keep their strength. Some scholars claim that the monsters may be weakened by preparing victims in advance with poisonous salts.
 
 - **ATTRIBUTES:** Strength 12, Agility 3, Wits 3, Empathy 2
 - **SKILLS:** Scout 2
 - **ARMOR RATING:** None, except worn armor. Takes half damage from physical attacks (rounded up).
 - **TYPICAL GEAR:** Longsword, chainmail
 
-**MONSTER ATTACKS**
+#### Monster Attacks
 
 | **D6** | **ATTACK**                                                                                                                                                                                                                                                                                                                 |
 | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -262,20 +354,50 @@ It is whispered that Death Knights regularly need to devour certain parts of hum
 | 5      | **CRIPPLING COLD!** An unlucky adventurer stares into the horrible gaze of the Death Knight as a wheezing sound is heard from the creature’s throat. The attack works as paralyzing poison with Potency 8 (see the _Player’s Handbook_).                                                                                   |
 | 6      | **DEATHLY VISIONS!** The Death Knight falls to its knees and gestures toward the ground. In the next moment, a temporary gate to the kingdom of death opens and a chosen adventurer within NEAR range is attacked by screaming phantoms. The victim is affected by a fear attack with twelve Base Dice.                    |
 
+#### Lore Roll
+
+| D6 | INSIGHT                                                                                                                                              |
+| -- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1  | Death Knights are powerful undead who kept their will, rank, and hatred after death.                                                                  |
+| 2  | Lesser undead obey them without question, and a Death Knight who knew magic in life may still wield a twisted form of it.                              |
+| 3  | Some Death Knights preserve their strength by eating human organs, and old salts or prepared corpses may poison such a feast.                         |
+
+#### Random Encounter: the Muster after Midnight
+
+> _Moonlight glints on helmets in a field where no army should stand. Skeletons climb from the ditch one by one, taking places in silent ranks before a mounted corpse with a sword across its knees._
+
+A Death Knight from the Alder Wars is mustering the dead for a campaign it does not know has ended. It demands news of King Algarod, Zygofer, or the Iron Lock, depending on its old allegiance. If deceived or challenged, it orders its dead to seize fresh scouts for the morning march.
+
+- **Terrain Types:** Plains, Ruins
+
+#### Random Encounter: the Organ Tithe
+
+> _A village elder waits outside the palisade with a covered bowl in her hands. She says the dead lord comes once each winter. This year the village has no condemned thief to give him._
+
+The settlement survives by feeding a Death Knight the heart or liver of an executed criminal every year. The practice began during the Blood Mist and has become a shame no one dares end. If the tithe is refused, the Death Knight returns with D6 restless dead and names the elder’s family first.
+
+- **Terrain Types:** Forest, Plains
+
+> **RESOURCES**
+>
+> A Death Knight’s grave-cold marrow can be scraped from the thigh bones if the corpse is destroyed before dawn. An adventurer with the ALCHEMIST talent can preserve one dose with a successful HEALING roll. The dose may be used in a potion that gives +1 to resist fear or cold for one Quarter Day, but any mishap while preparing it inflicts 1 Wits damage from the voices of the dead.
+
 ### Dragon
+
+> _The sheep had been taken cleanly, all but the hooves. Above the pasture, on the black tooth of rock, something small and scaled turned one golden eye toward the village smoke._
 
 The dragons of the Forbidden Lands are usually small and of a bestial mind, even if the legends speak of intelligent, talking giant beasts who brood on treasure in their lairs and spew fire from their jaws. They are all supposed to be the descendants of Scarne, the original mother of dragons, whom the dwarves of the Crombe clan claim to have slain a long time ago.
 
 By “small” dragons, one refers to those who weigh no more than four oxen. Even these can cause trouble for cattle, horses and wanderers, attacking from the sky. There are also rumors of greater, fire-breathing beasts being spotted in the eastern Forbidden Lands. All dragons are protected by scales, but since they are shed individually, gaps sometimes appear where arrows can penetrate.
 
-### Small Dragon
+#### Small Dragon
 
 - **ATTRIBUTES:** Strength 32, Agility 4, Wits 4, Empathy 2
 - **SKILLS:** Scout 3, Lore 2, Insight 2, Manipulation 2
 - **MOVEMENT:** 3
 - **ARMOR RATING:** 8
 
-### Large Dragon
+#### Large Dragon
 
 - **ATTRIBUTES:** Strength 48, Agility 4, Wits 6, Empathy 3
 - **SKILLS:** Scout 3, Lore 3, Insight 4, Manipulation 3
@@ -283,7 +405,7 @@ By “small” dragons, one refers to those who weigh no more than four oxen. Ev
 - **ARMOR RATING:** 12
 - **SPECIAL:** A successful SCOUT roll allows an adventurer to determine where to find a gap in a dragon’s scales. Any attack against this spot suffers a –3 penalty. If it hits, the dragon’s Armor Rating is halved for this attack.
 
-**MONSTER ATTACKS**
+#### Monster Attacks
 
 | **D6** | **ATTACK**                                                                                                                                                                                                                                                                                                                                                      |
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -294,13 +416,41 @@ By “small” dragons, one refers to those who weigh no more than four oxen. Ev
 | 5      | **TAIL ATTACK!** The dragon sweeps its great tail against all adventurers within NEAR range. Roll for the attack with eight Base Dice and Weapon Damage 1 (blunt force). If the attack hits, the victim is also thrown to the ground.                                                                                                                           |
 | 6      | **FIRESTORM!** The dragon rises above the adventurers and unleashes an annihilating storm of fire. All adventurers within SHORT range are targeted by an attack with twelve Base Dice and Weapon Damage 1 (non-typical damage). If the attack hits, the victim suffers subsequent damage as from Fire Attack. This attack can only be used once per combat.     |
 
+#### Lore Roll
+
+| D6 | INSIGHT                                                                                                                                        |
+| -- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1  | Dragons are descendants of Scarne, and even small dragons are strong enough to take livestock, horses, and armored travelers from the air.       |
+| 2  | Gaps open between shed scales. A careful scout can spot such a place and guide a hard shot or spear thrust.                                     |
+| 3  | Dwarven clans remember dragon blood and dragon bone in old songs, and some greater dragons may still keep grudges older than human kingdoms.    |
+
+#### Random Encounter: Smoke above the Sheepfold
+
+> _The smell of burnt wool hangs over the pasture. The shepherds have driven the surviving sheep into a thorn pen and hung iron tools from the posts, though none can say whether iron frightens dragons._
+
+A small dragon has nested on a crag above the grazing land and returns every evening for meat. The villagers want it killed before winter stock is lost. A successful SCOUT roll locates a narrow cleft below the nest where shed scales, bones, and one lesser treasure can be found.
+
+- **Terrain Types:** Plains, Hills, Mountains
+
+#### Random Encounter: the Crombe Claim
+
+> _Three dwarves stand around a blackened skull as large as a cart. They are arguing in low voices, each holding a hammer, each pretending not to watch the sky._
+
+Dwarves of the Crombe clan have found what they claim is a scale or bone of Scarne’s line. A large dragon or jealous drakewyrm circles nearby, drawn by the scent of old kin and older treasure. The dwarves will pay in craft, not coin, for help carrying the relic to stone halls.
+
+- **Terrain Types:** Mountains, Ruins, Hills
+
+> **RESOURCES**
+>
+> Dragon scale, bone, blood, and ash are prized by smiths and sorcerers. An adventurer with the ALCHEMIST talent can preserve one dose of dragon blood with a successful HEALING roll; the dose may replace a rare fire ingredient or give +1 to a potion that resists fire. A SMITH can use intact scales as rare armor material at the GM’s discretion.
+
 ### Drakewyrm
+
+> _The rainbow touched the ridge at sunset. Something below it began to sing in a cracked human voice, admiring every color and promising to eat the dullest soul first._
 
 There are many stories of how lone wanderers have met drakewyrms in craggy areas littered with caves. These creatures are said to have shimmering scales and are allegedly very vain, but also intelligent enough to master simple human speech. The wyrms are even said to have a primitive religion in which they regard the rainbow as their god and ancestor, Tincturus.
 
-Drakewyrms have voracious appetites and gladly gobble down both humans and animals, but when they’ve had their fill, it is possible to speak with them and even earn their friendship and aid through flattery, whereupon they may leave cadavers and glittering objects as gifts. Stories say that the wizard Var-
-
-leyman of Byard had a Drakewyrm for a mount. Angry drakewyrms can claw, bite and wrap themselves around their victims to crush them. Some are said to have corrosive breath.
+Drakewyrms have voracious appetites and gladly gobble down both humans and animals, but when they’ve had their fill, it is possible to speak with them and even earn their friendship and aid through flattery, whereupon they may leave cadavers and glittering objects as gifts. Stories say that the wizard Varleyman of Byard had a Drakewyrm for a mount. Angry drakewyrms can claw, bite and wrap themselves around their victims to crush them. Some are said to have corrosive breath.
 
 A Drakewyrm can’t stand competing with anyone when it comes to its brilliance, and will furiously attack anything brightly colored or with a reflecting surface. When the rainbow appears in the heavens all drakewyrms charge towards it, so as to be the first to meet Tincturus.
 
@@ -310,7 +460,7 @@ A Drakewyrm can’t stand competing with anyone when it comes to its brilliance,
 - **ARMOR RATING:** 8
 - **DRAWN TO GLITTER:** If the Drakewyrm spots anyone wearing or holding anything that glitters, it will immediately attack that person. If this person leaves combat, the Drakewyrm will pursue.
 
-**MONSTER ATTACKS**
+#### Monster Attacks
 
 | **D6** | **ATTACK**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -321,7 +471,37 @@ A Drakewyrm can’t stand competing with anyone when it comes to its brilliance,
 | 5      | **TAIL ATTACK!** The beast uses its long body to make a sweeping attack against all adventurers within NEAR range. Roll for the attacks with eight Base Dice and Weapon Damage 1 (blunt force). All victims hit are also thrown to the ground.                                                                                                                                                                                                                                                                                  |
 | 6      | **DEVOURING ATTACK!** The Drakewyrm chooses the adventurer with the highest Strength and tries to devour them. If the victim fails a MOVE roll (does not count as an action), they are attacked with ten Base Dice and Weapon Damage 1 (slash wound) and devoured whole. Inside the beast, the adventurer suffers 1 point of damage every round due to acidic gastric juices. The adventurer can attack the Drakewyrm from the inside, where it has no Armor Rating. If the beast is killed, the trapped adventurer can escape. |
 
+#### Lore Roll
+
+| D6 | INSIGHT                                                                                                                                      |
+| -- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1  | Drakewyrms are vain, hungry wyrms with glittering scales and enough wit to understand flattery and simple speech.                            |
+| 2  | They are drawn to bright colors, mirrors, coins, polished mail, and rainbows, and they attack rivals to their own brilliance first.          |
+| 3  | Some drakewyrms worship the rainbow as Tincturus, leaving offerings of bones and shiny things where the colors touch the ground.             |
+
+#### Random Encounter: the Rainbow Pilgrim
+
+> _A rain shower passes over the hills. When the sun breaks through, a rainbow falls across a stony ridge, and from the rocks below comes a scraping rush of claws._
+
+A drakewyrm races toward the rainbow’s end and mistakes the brightest adventurer for a rival priest, god, or thief. If the group throws a polished shield, gem, or bright cloak away from themselves, the beast may chase that instead for D3 rounds.
+
+- **Terrain Types:** Hills, Mountains, Plains
+
+#### Random Encounter: Gifts of the Wyrm
+
+> _Three dead goats lie neatly on the road, each crowned with a ring of colored stones. On the cliff above, something clears its throat and asks whether you like the presents._
+
+A sated drakewyrm wants praise, news, and a song about its beauty. It offers stolen meat and a pouch of coins taken from a dead peddler. Insult, dull clothing, or visible mirrors may turn the parley into a fight, but successful MANIPULATION can win a strange ally for one journey.
+
+- **Terrain Types:** Hills, Mountains, Forest
+
+> **RESOURCES**
+>
+> Drakewyrm scales keep a faint inner sheen after death. An adventurer with the ALCHEMIST talent can grind D3 doses of scale-dust with a successful CRAFTING roll. A dose may be used as a magic ingredient for illusion, charm, or light, or mixed into pigment that gives +1 to a MANIPULATION roll based on splendor and display.
+
 ### Ent
+
+> _The charcoal pit still smoked. Around it, every stump had split in the night, and something with roots for toes stood among the ash, counting the rings of the dead._
 
 The enormous living trees that traverse the northern forests of the Forbidden Lands are called Ents. Many of them have no interest in anything but the greenery of the lands, which they care for tenderly, while others are curious about visitors and enjoy music.
 
@@ -336,7 +516,7 @@ The elves still honor these very old tree herders in the deep forests and when t
 - **ARMOR RATING:** 6
 - **SENSITIVE TO FIRE:** Ents are sensitive to fire. All attacks using fire cause double damage.
 
-**MONSTER ATTACKS**
+#### Monster Attacks
 
 | **D6** | **ATTACK**                                                                                                                                                                                                                                                                                                                 |
 | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -347,7 +527,37 @@ The elves still honor these very old tree herders in the deep forests and when t
 | 5      | **ENT HUG!** The Ent embraces an adventurer and tries to devour them. Roll for the attack with eight Base Dice and Weapon Damage 1 (blunt force). If the attack succeeds, the adventurer is trapped in the Ent’s body and can only escape by inflicting four points of damage in a single blow (or be saved from outside). |
 | 6      | **ROCK THROW!** The Ent throws a huge boulder or other heavy object at an adventurer within SHORT range. Roll for the attack with twelve Base Dice and Weapon Damage 2 (blunt force). If the attack hits, the victim is also thrown to the ground.                                                                         |
 
+#### Lore Roll
+
+| D6 | INSIGHT                                                                                                                                     |
+| -- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1  | Ents are ancient tree herders, revered by many elves and feared by folk who cut or burn forest without leave.                                |
+| 2  | Fire harms them badly, but careless fire in an old forest may call more wrath than it solves.                                                |
+| 3  | An Ent may listen to music, old elven words, or honest restitution for trees killed in need rather than malice.                              |
+
+#### Random Encounter: the Charcoal Debt
+
+> _A charcoal-burner’s camp lies flattened in the moss. The kiln has been opened like an egg, and beside it stands a living tree with soot on its bark and a sleeping child cupped in one wooden hand._
+
+An Ent has spared one child but killed the adults who burned sacred trees during the Blood Mist years. It demands judgment from any elf or druid among the adventurers. If the group takes the child by force, the Ent fights; if they promise replanting, blood-price, or song, it may accept a lesser debt.
+
+- **Terrain Types:** Forest, Dark Forest
+
+#### Random Encounter: the Walking Grove
+
+> _The path you followed yesterday is gone. Young birches stand across it in a row, their leaves turned toward you like listening faces. Deeper in the wood, something heavy takes a step._
+
+An Ent is slowly moving a grove to close an old road built by dwarves and widened by humans. Merchants from a nearby village want the road kept open. Elves want it buried. The Ent will speak only after the adventurers spend a Quarter Day in silence beneath its branches.
+
+- **Terrain Types:** Forest, Dark Forest, Ruins
+
+> **RESOURCES**
+>
+> Ent heartwood is almost never taken without a curse, but fallen splinters and sap from a slain Ent hold old green strength. An adventurer with the ALCHEMIST talent can preserve D3 doses of sap with a successful HEALING roll. A dose may replace a rare plant ingredient or give +1 to a potion that heals Strength damage caused by poison, thirst, or rot.
+
 ### Ghost
+
+> _The door opened by itself. A woman’s voice asked whether the war was over. When no one answered, frost spread across the table and the cradle began to rock._
 
 Wraiths or ghosts are incorporeal dead who haunt the place where they died. They usually seek revenge or carry some sort of strong emotion or duty that keeps them from finding eternal peace. Ghosts can appear as vaguely shimmering shapes but can also be
 
@@ -359,7 +569,7 @@ Sometimes, ghosts possess statues or other inanimate objects, bringing them to l
 - **MOVEMENT:** 1
 - **ARMOR RATING:** Ghosts are immaterial and can only be hurt by fire or magic. Even if a ghost is defeated, it will only be banished for a Quarter Day and then return. The only way to truly destroy a ghost is to use the PURGE UNDEAD spell on it.
 
-**MONSTER ATTACKS**
+#### Monster Attacks
 
 | **D6** | **ATTACK**                                                                                                                                                                                                                                                  |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -370,7 +580,37 @@ Sometimes, ghosts possess statues or other inanimate objects, bringing them to l
 | 5      | **GHOSTLY EMBRACE!** The ghost emits an unnatural wheeze and engulfs its victim in a twisted embrace of death. The victim suffers an attack using ten Base Dice and Weapon Damage 2 (blunt force). If the attack succeeds, the victim is also turned COLD.  |
 | 6      | **COLD STRIKE!** The ghost grabs a victim and lets its icy chill stream into their body. The attack uses twelve Base Dice (Weapon Damage 1). If the victim is hit, they also become COLD.                                                                   |
 
+#### Lore Roll
+
+| D6 | INSIGHT                                                                                                                                        |
+| -- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1  | Ghosts are dead souls bound to the place, object, duty, or wrong that keeps them from rest.                                                     |
+| 2  | Fire and magic can banish a ghost for a time, but only settling its unrest or using PURGE UNDEAD destroys it for good.                          |
+| 3  | Ghosts may possess statues, doors, bells, tools, or other dead things near the place where their memory has hardened.                           |
+
+#### Random Encounter: the Bell That Rings Below
+
+> _A cracked chapel bell rings under the hill, though the tower above has no bell left in it. With each toll, the old graves breathe white mist._
+
+A ghost of a buried priest or Raven Sister calls for burial rites denied during the wars. Restless dead gather with each toll. If the adventurers find the stolen bell clapper or speak the correct rite, the ghost can answer one question about the surrounding dead before fading.
+
+- **Terrain Types:** Ruins
+
+#### Random Encounter: the House That Waited
+
+> _The cottage is swept clean. Bread sits on the table, hard as stone. A voice from the cold hearth asks whether the children have come home from the fields._
+
+A family ghost keeps a house ready for children taken by Blood Mist generations ago. It attacks anyone who takes food or tools, but it can be calmed by bringing news, bones, or a keepsake from the lost children’s last road.
+
+- **Terrain Types:** Forest, Plains
+
+> **RESOURCES**
+>
+> Ghosts leave little that can be cut away. After a ghost is permanently laid to rest, an ALCHEMIST can gather one dose of gravefrost from the place of haunting with a successful INSIGHT roll. The dose may be used in potions or magic that cools, preserves, or speaks with the dead.
+
 ### Giant
+
+> _The valley had no thunderclouds. Still, thunder came: one step, then another, and then a voice above the pines asking who had stolen its mother’s hill._
 
 It is said that giants once roamed the Forbidden Lands in great multitudes. At the request of the Raven God, the Nightwalker slew almost all of them in their sleep during the “Night of Cadavers” to make room for the smaller creatures of the land.
 
@@ -384,7 +624,7 @@ Giants are said to be one of the original kin and to live very long lives. They 
 - **WEAPON:** A Giant typically swings a large club or a tree. If the Giant loses its weapon, the Weapon Damage of its attacks is decreased to 1. Giants never PARRY attacks.
 - **WEAK SPOT:** Attacks against the weak spot on the top of a Giant’s head inflict double damage. Hitting the top of the head requires either a difficult (–2) ranged attack from an elevated position or for the attacker to first climb onto the Giant. The latter move counts as a GRAPPLE attack. No other effects of the GRAPPLE apply in such a case.
 
-**MONSTER ATTACKS**
+#### Monster Attacks
 
 | **D6** | **ATTACK**                                                                                                                                                                                                                                          |
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -395,7 +635,37 @@ Giants are said to be one of the original kin and to live very long lives. They 
 | 5      | **CANNONBALL!** The Giant grabs an adventurer within NEAR range and tries to throw them away. Roll for the attack with eleven Base Dice and Weapon Damage 1 (blunt force). If the attack hits, the victim is thrown to SHORT range and lands prone. |
 | 6      | **MASHING ATTACK!** In a rage, the Giant stomps and smashes wildly around itself. Everyone within NEAR range is attacked with ten Base Dice and Weapon Damage 1 (blunt force). All victims hit are also thrown to the ground.                       |
 
+#### Lore Roll
+
+| D6 | INSIGHT                                                                                                                                         |
+| -- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1  | Giants are ancient beings, said to be remnants of the world before the Nightwalker made room for smaller folk.                                  |
+| 2  | Their bodies differ wildly, but many share a weak spot on the crown of the head, reachable only by height, nerve, or desperate climbing.        |
+| 3  | Some giants remember places by older names than elves use, and may mistake hills, valleys, or ruins for kin stolen from them in sleep.          |
+
+#### Random Encounter: the Missing Hill
+
+> _A village field lies under a shadow that was not there yesterday. Above the barley stands a giant, weeping into both hands while the villagers hide behind their palisade._
+
+The giant believes a burial mound or rocky hill has been stolen and blames the nearest settlement. The mound was opened by grave robbers during the night. If the adventurers find the stolen stones or bones before the giant’s grief turns to rage, the village may survive without a fight.
+
+- **Terrain Types:** Plains, Hills
+
+#### Random Encounter: the Crown Shot
+
+> _A band of hunters crouches behind a scree slope with ropes, hooks, and a ballista older than any of them. Their leader whispers that the giant sleeps beyond the ridge, and that one clean shot will make them rich._
+
+The hunters plan to climb onto a sleeping giant and strike its weak spot. They have courage but poor judgment. The giant may be a murderer, a confused wanderer, or the guardian of an old pass; either way, the first failed roll wakes it with a bellow that shakes stones loose from the ridge.
+
+- **Terrain Types:** Hills, Mountains
+
+> **RESOURCES**
+>
+> Giant hair, teeth, nail, and bone are difficult to carry but valued by smiths, skalds, and sorcerers. An adventurer with the ALCHEMIST talent can render one dose of giant marrow from a slain giant with a successful HEALING roll and a fire large enough for the work. The dose may be used in a potion that gives +1 to MIGHT for one scene.
+
 ### Giant Squid
+
+> _The miner’s lamp showed a wet wall where there had been dry stone in the morning. Then the wall blinked, and black water spilled around his boots._
 
 The giant squid of the Forbidden Lands are mostly cave dwelling and can be encountered in subterranean bodies of water. Their bodies are very malleable, especially in their larval state, such that they can press through thin cracks for years until they find a suitable space for their adult form. Once in place, they feed off any prey that they can find, but like plants; they are also able to draw sustenance directly from the soil and the rocks with the suction cups on their arms as roots.
 
@@ -409,7 +679,7 @@ Grown squid can exude a black mist that completely darkens their surroundings so
 - **SENSITIVE HEAD:** BLUNT weapons ignore armor if they hit the creature’s head. Attacking the head is a difficult (–2) action.
 - **TENTACLES:** The giant squid has D6+3 tentacles. In each round the squid attacks using up to D3 tentacles. This counts as a single slow action. Each tentacle performs an attack from the monster attack table. For every three points of damage suffered, the squid loses one tentacle.
 
-**MONSTER ATTACKS**
+#### Monster Attacks
 
 | **D6** | **ATTACK**                                                                                                                                                                                                                                                                                                                                                                                                      |
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -420,7 +690,37 @@ Grown squid can exude a black mist that completely darkens their surroundings so
 | 5      | **DEVOURING ATTACK!** The giant squid tries to devour an adventurer within NEAR range. The victim is attacked with eight Base Dice and Weapon Damage 2 (slash wound). If the attack hits, the victim is devoured whole and suffers one point of damage every round inside the creature. The adventurer can attack the beast from the inside, where the squid has no armor, and can only be freed by killing it. |
 | 6      | **BLACK FOG!** The beast secretes ebony ink that blackens the water around it. All adventurers within NEAR range count as if they are in total darkness (see the _Player’s Handbook_). The effect lasts D6 rounds.                                                                                                                                                                                              |
 
+#### Lore Roll
+
+| D6 | INSIGHT                                                                                                                                    |
+| -- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1  | Giant squid dwell in cave lakes and flooded shafts, where their bodies can lie flat and still against stone.                               |
+| 2  | Their heads are vulnerable to blunt force, while their tentacles can be cut away one by one.                                                |
+| 3  | Adult squid draw young through cracks by scent, so a single hidden beast may mark the beginning of a whole colony.                         |
+
+#### Random Encounter: the Black Pool
+
+> _The cave lake is still enough to reflect every torch. Then all reflections go out at once, as if black cloth had been pulled under the water._
+
+A giant squid waits below the surface beside a half-drowned dwarven landing. The first adventurer to step onto the slick stone is targeted by D3 tentacles. If the beast is wounded, its black fog may hide a narrow passage to an older mine chamber.
+
+- **Terrain Types:** Ruins, Mountains
+
+#### Random Encounter: Miners on the Wall
+
+> _Three miners cling to iron spikes hammered into a shaft wall above dark water. Their lamps are gone. One whispers that the rock itself grew arms._
+
+The miners fled upward after a squid colony entered the flooded lower works. They know where tools and ore were abandoned, but they panic at splashing sounds. Every loud rescue attempt risks drawing the adult squid and D6 larval shapes from cracks in the wall.
+
+- **Terrain Types:** Mountains, Ruins
+
+> **RESOURCES**
+>
+> Squid ink and eye jelly are useful in potions of darkness, water breathing, and hidden sight. An adventurer with the ALCHEMIST talent can extract D3 doses of ink with a successful HEALING roll. One dose may also be smeared over exposed skin to give +1 to SNEAK while swimming in dark water.
+
 ### Gray Bear
+
+> _For three nights the bear stood beyond the shutter, breathing through the crack. On the fourth morning it left a hand on the step, palm upward, as if asking payment._
 
 The Gray Bear is a hunter, as unpleasant as it is bloodthirsty, that inhabits the inaccessible wilds of the Forbidden Lands. It kills to satisfy its ravenous appetite but has the bad habit of sometimes choosing and stalking a target for a long time, without haste. A terrified charcoal-burner once told of how a large Gray Bear stood and watched him through an opening in his cabin for several nights, one night even leaving a mangled human hand on the doorstep. Shortly afterwards, the man vanished without a trace.
 
@@ -434,7 +734,7 @@ entire hunting party except for two brothers who lived to tell of the beast. Eve
 - **MOVEMENT RATE:** 2
 - **FERAL RAGE:** When the Strength of a Gray Bear is halved, it is overcome by a deadly rage and will attack anything close by, letting out a deafening roar. All targets within ARM’S LENGTH each suffer an attack with seven Base Dice with a Weapon Damage of 1 (slash wound). This attack is triggered immediately and does not count toward the bear’s actions during the round.
 
-**MONSTER ATTACKS**
+#### Monster Attacks
 
 | **D6** | **ATTACK**                                                                                                                                                                                                                              |
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -445,7 +745,37 @@ entire hunting party except for two brothers who lived to tell of the beast. Eve
 | 5      | **MIGHTY ROAR!** The Gray Bear lets out a mighty roar that makes adventurers tremble with fear. All targets within NEAR range suffer a fear attack using seven Base Dice.                                                               |
 | 6      | **BEAR HUG!** The Gray Bear launches itself at an adventurer in a crushing embrace. The victim suffers an attack using nine Base Dice and Weapon Damage 1 (blunt force). If hit, the adventurer is GRAPPLED and must try to BREAK FREE. |
 
+#### Lore Roll
+
+| D6 | INSIGHT                                                                                                                                    |
+| -- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1  | Gray Bears are cruel hunters that may stalk one chosen victim for days before striking.                                                     |
+| 2  | When badly wounded, a Gray Bear falls into a killing rage and lashes out at anything within reach.                                          |
+| 3  | Some tales claim the first Gray Bears were ordinary bears possessed by flayed demonic things after the Demon Flood.                         |
+
+#### Random Encounter: the Watched Cabin
+
+> _A charcoal-burner’s hut stands shut in the pines. Claw marks score the door. Inside, someone has scratched tally marks into the beams, one row for each night._
+
+A Gray Bear has marked the hut and waits nearby, patient enough to let the adventurers settle before attacking. The missing charcoal-burner’s pack contains a map to a burn pit, a silver ring, and dried meat that still carries the bear’s scent.
+
+- **Terrain Types:** Forest, Dark Forest, Hills
+
+#### Random Encounter: the Flayed Trail
+
+> _Blood spots darken the snow in a line too straight for a wounded deer. The tracks beside them are bear tracks, but the stride is wrong, long and deliberate like a man walking on all fours._
+
+The trail leads to a den where a Gray Bear has dragged hunters, hides, and trophies. A successful LORE roll recalls the Feulenmark tale and warns that the beast may feign retreat to draw pursuers into the den mouth.
+
+- **Terrain Types:** Forest, Dark Forest, Mountains
+
+> **RESOURCES**
+>
+> Gray Bear fat burns with a cold blue edge when mixed with the right herbs. An adventurer with the ALCHEMIST talent can render D3 doses with a successful HEALING roll. One dose may be used in a salve that gives +1 to ENDURANCE against cold for one Quarter Day.
+
 ### Gryphon
+
+> _The horse screamed once. By the time the stable boy reached the yard, only blood, straw, and a shadow with wings crossed the moon._
 
 The Gryphon is believed to be an experimental mount developed by Zygofer to create a winged cavalry of Iron Guards. Single guards have also been seen riding Gryphons, but the animals are apparently so territorial that you can only keep three or four of the same family together at most. If gathered in larger groups, they will fight each other to the death.
 
@@ -458,7 +788,7 @@ Gryphons hunt anything that moves within their territory and can become a great 
 - **MOVEMENT RATE:** 3
 - **ARMOR RATING:** 3 (feathers)
 
-**MONSTER ATTACKS**
+#### Monster Attacks
 
 | **D6** | **ATTACK**                                                                                                                                                                                                                                                                                                                                                       |
 | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -469,7 +799,37 @@ Gryphons hunt anything that moves within their territory and can become a great 
 | 5      | **WHIRLWIND STRIKE!** The Gryphon uses its powerful wings to create a whirlwind, knocking all adventurers within NEAR range to the ground. Roll for the attack using six Base Dice against all victims (Weapon Damage 1). Anyone hit is also knocked to the ground. This attack cannot be DODGED.                                                                |
 | 6      | **DROPPED FROM ON HIGH!** The creature grabs one adventurer in its claws and takes to the sky. Roll for the attack using eight Base Dice. If successful, the Gryphon grabs the victim and takes off to SHORT range. At the start of the next round, the Gryphon drops the victim, who suffers damage from a fall of 2D6+10 meters (see the _Player’s Handbook_). |
 
+#### Lore Roll
+
+| D6 | INSIGHT                                                                                                                                    |
+| -- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1  | Gryphons are territorial winged predators, possibly bred from Zygofer’s old experiments for mounted war.                                    |
+| 2  | They are drawn by horse meat and may be lured into traps with a fresh carcass.                                                             |
+| 3  | Wild gryphons usually keep family crags; too many in one place will fight until only the strongest pair remains.                           |
+
+#### Random Encounter: the Empty Stable
+
+> _The stable roof has been peeled back. A saddle hangs from the rafters, and the horse beneath it is gone from the shoulders forward._
+
+A gryphon has begun taking horses from a settlement that depends on them for plowing and patrol. The villagers can provide bait, nets, and a dangerous climb to the nesting crag. D3 adolescent gryphons wait there, hungry and almost ready to fly.
+
+- **Terrain Types:** Plains, Hills
+
+#### Random Encounter: the Iron Rider
+
+> _A rusted breastplate lies in the grass beside a dead gryphon. The saddle on the beast’s back is old military work, built for a rider who had no intention of landing gently._
+
+An Iron Guard remnant or ambitious robber has tried to reclaim Zygofer’s old dream of winged cavalry. The surviving mate circles above, enraged. The saddle holds old marks pointing toward a ruined breeding perch.
+
+- **Terrain Types:** Hills, Mountains, Ruins
+
+> **RESOURCES**
+>
+> Gryphon pinions and talons are valued by bowyers, fletchers, and alchemists. An adventurer with the ALCHEMIST talent can preserve D3 doses of powdered talon with a successful CRAFTING roll. One dose may be used in a potion or charm that gives +1 to MOVE rolls involving leaps, falls, or balance for one scene.
+
 ### Harpies
+
+> _The song from the chimney sounded almost human. Then a child laughed in answer, and every bird on the roof turned its woman’s face toward the cradle._
 
 Harpies are notoriously sly and evil birds of prey with the heads of women, who appear in flocks all over the Forbidden Lands. Since they gladly attack lonesome men and steal small children who are left unsupervised, some believe that they may be cursed, hateful mothers who murdered their own children.
 
@@ -486,7 +846,7 @@ The creature has been joined with the demon substance mog. Harpies aren’t very
 - **FLOCK:** Harpies never fight on their own, always attacking in flocks, and a flock of harpies counts as a single monster. The Strength of the flock varies, depending on the number of individuals. A single attack against a flock of harpies can never inflict more than 1 point of damage.
 - **COWARDLY:** Harpies are cowardly creatures and never fight until death. When the Strength of the flock has been halved, the harpies automatically FLEE from the fight (see page 89 in the Players’ Handbook). They may return at a later time.
 
-**MONSTER ATTACKS**
+#### Monster Attacks
 
 | **1D6** | **EFFECT**                                                                                                                                                                                                                                                                                                                                           |
 | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -497,7 +857,37 @@ The creature has been joined with the demon substance mog. Harpies aren’t very
 | 5       | **MASS ATTACK!** The Harpies split up and attack a number of adventurers within NEAR range equal to the current Strength of the flock, divided by two (round up). Each attack uses six Base Dice and Weapon Damage 1 (slash wound).                                                                                                                  |
 | 6       | **EXCREMENT ATTACK!** The Harpies open their cloaca and mouths and release a rain of vomit and excrement on the adventurers. All victims within NEAR range suffer an attack using six Base Dice, causing damage to Empathy. The attack can be PARRIED with a shield.                                                                                 |
 
+#### Lore Roll
+
+| D6 | INSIGHT                                                                                                                                           |
+| -- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1  | Harpies are cowardly flock creatures that prefer theft, slander, ambush, and the stealing of children to honest battle.                           |
+| 2  | Many tales connect them to Raven Sisters corrupted by Zygofer and the Rust Brothers, though other villages claim they are cursed mothers.          |
+| 3  | A harpy flock’s strength lies in numbers; when bloodied badly enough, it usually flees and returns later with lies, stones, and worse timing.     |
+
+#### Random Encounter: the Stolen Cradle
+
+> _A cradle hangs from a pine branch thirty feet above the ground, rocking in the wind. From the treetops come women’s voices, cooing lullabies with beaks full of old blood._
+
+A flock of harpies has stolen a child from a nearby homestead and is arguing over whether to eat it, raise it, or ransom it. The flock avoids direct battle until the adventurers climb or expose themselves. A successful MANIPULATION roll can turn one harpy against another long enough to reach the child.
+
+- **Terrain Types:** Forest, Dark Forest
+
+#### Random Encounter: the False Sister
+
+> _A woman in a torn Raven Sister cloak limps along the road, begging for water. Ravens gather above her but make no sound._
+
+The woman is a harpy scout with clipped wings hidden beneath the cloak. Her flock waits near a ruined shrine, hoping to lure travelers into quarrel, guilt, and separated watches. If exposed, she shrieks accusations that may draw villagers or Rust Brothers from nearby roads.
+
+- **Terrain Types:** Plains, Forest, Ruins
+
+> **RESOURCES**
+>
+> Harpy feathers and throat gristle carry a foul mimicry of human speech. An adventurer with the ALCHEMIST talent can prepare D3 doses of voice-ash from a slain flock with a successful HEALING roll. A dose may be used in a potion or charm that gives +1 to MANIPULATION when imitating a known voice, but failure on the roll makes the user’s voice rasp like a carrion bird for a day.
+
 ### Hydra
+
+> _The first head ate the mare. The second watched the stable door. The third looked at the bucket of lye in the farmer’s hands and began to hiss._
 
 Few predators infuse their surroundings with such terror as a Hydra, for these monsters eat their way through their neighborhood with a ravenous appetite and are completely devoid of fear. They can kill an entire stable of horses in a matter of minutes. The many heads of the Hydra never sleep at the same time and spit acid if threatened.
 
@@ -513,7 +903,7 @@ Most agree that the Hydra is a demonological experiment that has run amok and es
 - **MOVEMENT:** 2
 - **ARMOR RATING:** 5
 
-**MONSTER ATTACKS**
+#### Monster Attacks
 
 | **D6** | **ATTACK**                                                                                                                                                                                                                                                                                                                                                |
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -524,7 +914,37 @@ Most agree that the Hydra is a demonological experiment that has run amok and es
 | 5      | **LOCKING BITE!** The Hydra tries to bite an adventurer within ARM’S LENGTH. Roll for the attack with seven Base Dice and Weapon Damage 1 (slash wound). If the attack succeeds, the adventurer is stuck in the jaws and attacked again next round with one extra Base Die. Repeat once per round until the adventurer is Broken or the head is defeated. |
 | 6      | **ACID SPIT!** The head spits acid at an adventurer within NEAR range. Roll for the attack with seven Base Dice and Weapon Damage 1. If the attack hits, the victim suffers one point of damage each round for D3 rounds.                                                                                                                                 |
 
+#### Lore Roll
+
+| D6 | INSIGHT                                                                                                                                          |
+| -- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1  | Hydras are ravenous many-headed beasts that do not fear pain, numbers, or fire until fire is pressed to a wound.                                 |
+| 2  | Severed heads grow back twofold unless the stump is seared at once. Lye, flame, and quick hands are the old village answers.                     |
+| 3  | Hydras are believed to be runaway demonological experiments; some may split into two beasts when their own heads turn on each other.             |
+
+#### Random Encounter: the Lye Pit
+
+> _A village soap pit bubbles beside the stream. Around it stand farmers with buckets, pitchforks, and faces gray from fear. Something with too many necks is tearing through the cattle pen below._
+
+The villagers know an old tale of killing a hydra with lye but lack the courage to get close. Each bucket thrown at a severed stump counts as searing it if the thrower succeeds with MARKSMANSHIP or MOVE at the GM’s discretion. Failed throws splash allies and burn skin.
+
+- **Terrain Types:** Plains, Marshlands
+
+#### Random Encounter: Heads in the Reeds
+
+> _Six ripples move through the reeds in different directions, then stop at once. A horse carcass lies half-submerged nearby, and something beneath the water begins chewing again._
+
+A hydra lairs in a marsh pool and has learned to keep most of its body hidden. It attacks mounts and pack animals first. Beneath the water lie saddlebags, bones, and a rusted Rust Brother reliquary that may explain who drove the beast here.
+
+- **Terrain Types:** Marshlands, Quagmire, Forest
+
+> **RESOURCES**
+>
+> Hydra blood stays warm after death and fights itself in the cup. An adventurer with the ALCHEMIST talent can preserve one dose per remaining head with a successful HEALING roll. A dose may be used in a potion that restores 1 lost Strength after a Quarter Day of rest, but if the brewing fails, the mixture grows teeth and ruins the vessel.
+
 ### Insectoids
+
+> _The first worker came for the dead goat. The second came for the goat’s rope. By sunset the fence posts were gone too, carried into the hill one splinter at a time._
 
 Giant insect-like humanoids have appeared in the Forbidden Lands in the last three hundred years. They probably arrived from other worlds in conjunction with the Demon Flood or arose from normal insects possessed by demons. The Insectoids build colonies and threaten their surroundings by hunting sustenance for their larvae and defending the perimeter around the colony.
 
@@ -532,30 +952,62 @@ The colonies possess a collective intelligence that increases with its size. The
 
 The Insectoid community consists of workers, drones, a queen and soldiers. The soldiers can have wings, a paralyzing poisonous sting and even wield weapons if the colony is intelligent enough. The only way to root out a colony of Insectoid is to kill the queen. If an additional queen is born, the colony will swarm, at which time half of the community wanders off to find a new nesting site.
 
-### Workers and Drones
+#### Workers and Drones
 
 - **ATTRIBUTES:** Strength 5, Agility 3
 - **MOVEMENT:** 1
 - **ARMOR RATING:** 4
 - **BITE:** Damage 1 (slash wound)
 
-### Soldiers
+#### Soldiers
 
 - **ATTRIBUTES:** Strength 7, Agility 4
 - **MOVEMENT:** 2
 - **ARMOR RATING:** 4
 - **BITE:** Damage 2 (slash wound), paralyzing poison with Potency 7
 
-### Queen
+#### Queen
 
 - **ATTRIBUTES:** Strength 14, Agility 3
 - **MOVEMENT:** 1
 - **ARMOR RATING:** 6
 - **BITE:** Damage 2 (slash wound), lethal poison with Potency 8
 
-- **MONSTER ATTACKS:** The rules for monsters in combat don’t apply to Insectoids. Instead, they act like normal fighters. As they lack Wits and Empathy, however, they are immune to spells that damage these attributes, as well as to the MANIPULATION skill.
+#### No Monster Attacks
+
+The rules for monsters in combat don’t apply to Insectoids. Instead, they act like normal fighters. As they lack Wits and Empathy, however, they are immune to spells that damage these attributes, as well as to the MANIPULATION skill.
+
+#### Lore Roll
+
+| D6 | INSIGHT                                                                                                                                       |
+| -- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1  | Insectoids are colony creatures from the years after the Demon Flood, defending nests and hunting food for their larvae.                      |
+| 2  | Workers, soldiers, and queens serve one shared colony mind that grows sharper as the nest grows larger.                                       |
+| 3  | Killing the queen can break a nest, but a second queen may cause a swarm that carries half the colony into new lands.                        |
+
+#### Random Encounter: the Harvest Line
+
+> _Across the road moves a line of insect-men, each carrying one sheaf of barley, one fence rail, or one dead hen. None look left or right. The line leads toward a dark hole in a hill._
+
+Workers are stripping a farm one useful thing at a time while soldiers wait out of sight. If followed, the line reveals a young nest without a full queen chamber. Destroying it now is possible; waiting a season lets it become an armed colony.
+
+- **Terrain Types:** Plains, Hills, Forest
+
+#### Random Encounter: Mazmer’s Method
+
+> _A dead worker lies beside the path, split open from throat to belly. Someone has smeared its yellow innards across a cloak and left footprints leading toward the mound._
+
+An explorer has tried Mazmer’s old approach and entered the nest disguised by scent. The adventurers may find the explorer alive in the outer chambers, accepted as a damaged worker, or cocooned as food. Wearing the scent gives +1 to SNEAK inside the nest until the wearer speaks or bleeds.
+
+- **Terrain Types:** Forest, Hills, Mountains, Ruins
+
+> **RESOURCES**
+>
+> Insectoid venom, scent glands, and royal jelly are valuable but foul. An adventurer with the ALCHEMIST talent can extract one dose of venom from a soldier or D3 doses of royal jelly from a queen with a successful HEALING roll. Venom may be used as paralyzing poison; royal jelly may replace a rare ingredient in potions of endurance, command, or unnatural growth.
 
 ### Manticore
+
+> _The face in the thorn brake smiled like a man. Then the tail rose behind it, swollen and barbed, and the smile opened into three rows of teeth._
 
 The terrible Manticores have appeared in the Forbidden Lands ever since the Demon Flood, wild or like plated battle beasts in the armies of the Rust Brothers. A Manticore has the body of a lion with a shark-toothed human face and a turgid tail tip that shoots poisonous, barbed bolts. The bolts stun the victim, which is then devoured whole by the three separately moveable rows of teeth that feed the body into the maw, the jaws of which
 
@@ -569,7 +1021,7 @@ The scholars of the Forbidden Lands believe that the first Manticores were demon
 - **ARMOR RATING:** 5
 - **SENSITIVE TAIL:** A BLUNT weapon hit on the tip of a Manticore’s tail (–3 to hit) that causes three points of damage or more will crush its poison glands, inflicting one point of damage to Agility per round of combat.
 
-**MONSTER ATTACKS**
+#### Monster Attacks
 
 | **D6** | **ATTACK**                                                                                                                                                                                                                                                                                            |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -580,13 +1032,43 @@ The scholars of the Forbidden Lands believe that the first Manticores were demon
 | 5      | **CRUSHING CHARGE!** With full force, the beast charges the adventurer with the highest Strength within NEAR range. Roll for the attack with ten Base Dice and Weapon Damage 2 (blunt force). If the attack succeeds, the victim is thrown to the ground.                                             |
 | 6      | **RAIN OF SPIKES!** The manticore fires all its spikes against all adventurers within SHORT range. Roll for the attacks with seven Base Dice and Weapon Damage 2 (stab wound). Adventurers hit are also affected by a paralyzing poison with Potency 8. This attack can only be used once per combat. |
 
+#### Lore Roll
+
+| D6 | INSIGHT                                                                                                                                    |
+| -- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1  | Manticores are demonic beasts with humanlike faces, lion bodies, and tails that fire poisoned barbs.                                       |
+| 2  | A hard blunt strike to the swollen tail tip can crush the poison glands and paralyze the beast by its own venom.                           |
+| 3  | The first manticores were likely bred for Zygofer’s wars, and some armored bloodlines may still answer old Rust Brother commands.          |
+
+#### Random Encounter: the Barbs in the Gate
+
+> _The village gate is shut. Its planks bristle with black barbs, and a man behind them whispers that the beast learned the sound of the dinner bell._
+
+A manticore has been hunting at dusk, striking when villagers gather near the gate. It retreats after firing barbs, then follows any wounded prey by scent. The villagers can provide shields and a bell-rope trap, but fear makes them slow.
+
+- **Terrain Types:** Plains, Forest
+
+#### Random Encounter: the Armored Cub
+
+> _A cub with a man’s wet face is caught in a wolf pit, hissing through little rows of teeth. Around its neck is a rusted collar stamped with a broken prayer to Heme._
+
+The cub belongs to a manticore dam nearby. The collar marks it as descended from Rust Brother stock. Killing the cub draws the dam’s rage; freeing it may lead the adventurers to an abandoned beast pen with old armor plates and a half-buried corpse.
+
+- **Terrain Types:** Forest, Ruins, Hills
+
+> **RESOURCES**
+>
+> Manticore barbs hold paralyzing venom even after death. An adventurer with the ALCHEMIST talent can extract D6 intact barbs or one dose of tail venom with a successful HEALING roll. The venom may be used as paralyzing poison with Potency 8.
+
 ### Minotaur
+
+> _The robber chief kept a horned guard in the cellar and fed it on debtors. When the door burst open, the thing came up the stairs wearing the chief’s axe and chewing the chief’s hand._
 
 Minotaurs are semi-intelligent and brutal flesh-eating crossbreeds between humans and bovines. They ravage alone or in small groups, but are also hired as guardians or as thugs in gangs of robbers. When not assaulting humans they may harass goats, sheep or horses, appearing to find pleasure in goring and beating as many as possible to a pulp. Minotaurs are strong and hardy beasts that you’d do best to run from.
 
 Some say that the whisperer Zygofer as a youthful hermit received his first unspeakable teachings among demons and undead sorcerers. For nourishment in these barren lands, he brought a cow for milking. However, possessed by the lust and rage of the demons he abused, the poor creature became pregnant and gave birth to the first Minotaurs. The creatures were so brazen and unruly that they, still sticky with fetal membrane, ran to the woods and gave rise to their own kin.
 
-**MONSTER ATTACKS**
+#### Monster Attacks
 
 | **D6** | **ATTACK**                                                                                                                                                                                                                                                    |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -603,7 +1085,37 @@ Some say that the whisperer Zygofer as a youthful hermit received his first unsp
 - **MOVEMENT RATE:** 1
 - **TYPICAL GEAR:** Two-handed axe
 
+#### Lore Roll
+
+| D6 | INSIGHT                                                                                                                                    |
+| -- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1  | Minotaurs are brutal human-bovine crossbreeds, strong enough to serve as guards, raiders, and living battering rams.                       |
+| 2  | They can use weapons and simple orders, but hunger, rage, and cruelty often matter more to them than loyalty.                              |
+| 3  | Old tales blame Zygofer’s earliest demonic teachings for their birth, and some minotaur bloodlines still gather near places of old sorcery. |
+
+#### Random Encounter: the Cellar Guard
+
+> _The tavern floor shakes under one heavy step, then another. The innkeeper smiles too broadly and says the cellar is closed for repairs._
+
+Bandits or a corrupt reeve keep a minotaur below the tavern as a guard and executioner. It is chained, badly fed, and close to breaking loose. If freed or enraged, it attacks the nearest armed figures first and then anyone who smells of blood or beer.
+
+- **Terrain Types:** Ruins, Plains
+
+#### Random Encounter: Horns in the Fold
+
+> _Every sheep in the fold has been killed, but only a few have been eaten. The rest were gored, trampled, and arranged in a rough circle around a broken fence post._
+
+A small band of minotaurs is harassing farms and testing the strength of nearby villages before a raid. Their leader carries a stolen two-handed axe and understands enough speech to accept tribute, challenge, or a bargain involving fresh meat.
+
+- **Terrain Types:** Plains, Forest, Hills
+
+> **RESOURCES**
+>
+> Minotaur horn can be powdered into a harsh strengthening draught. An adventurer with the ALCHEMIST talent can prepare D3 doses from a slain minotaur with a successful CRAFTING roll. A dose gives +1 to MIGHT for one scene, but the user suffers -1 to INSIGHT during the same time from blood heat and anger.
+
 ### Nightwargs
+
+> _The snow showed no tracks. Still, the sheep were gone, and on the fence rail lay a strip of frozen flesh that had not bled._
 
 It is rumored that the “Dreamer in Falender,” a mysterious hermit and worshipper of the Nightwalker, tried with the god’s help to create beasts to fight the demonic creatures that poured in from the west three hundred years ago. The result was a disaster, and a predatory darkness that devoured the Dreamer.
 
@@ -615,7 +1127,7 @@ Ever since, Nightwargs have appeared across the Forbidden Lands, even in cities 
 - **MOVEMENT RATE:** 2
 - **ETHEREAL FORM:** Victims killed by Nightwargs dissolve into a dark mist. Not even Elven rubies remain. The beasts are dissolved into darkness in the same manner if slain.
 
-**MONSTER ATTACKS**
+#### Monster Attacks
 
 | **D6** | **ATTACK**                                                                                                                                                                                                                                                                                                                                                                                             |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -626,7 +1138,37 @@ Ever since, Nightwargs have appeared across the Forbidden Lands, even in cities 
 | 5      | **LOCKED JAW!** The Nightwarg bites the arm or leg of one adventurer and locks its jaws in a brutal grip. Roll for the attack using seven Base Dice and Weapon Damage 2 (blunt force). If hit, the adventurer is GRAPPLED.                                                                                                                                                                             |
 | 6      | **THROAT BITE!** The Nightwarg sees a weak spot and bites an adventurer in the throat. Roll for the attack using ten Base Dice and Weapon Damage 2 (slash wound). The attack may be PARRIED. The adventurer also suffers half the damage (round up) to Empathy due to the horrific encounter and becomes COLD.                                                                                         |
 
+#### Lore Roll
+
+| D6 | INSIGHT                                                                                                                                    |
+| -- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1  | Nightwargs are predators of living darkness, seen by moon-pale eyes and cold breath more often than tracks.                                |
+| 2  | Their bite freezes flesh, and those killed by them dissolve into dark mist, leaving no proper corpse.                                      |
+| 3  | The first Nightwargs may have been made by a doomed worshipper of the Nightwalker in Falender during the Demon Flood.                     |
+
+#### Random Encounter: the Trackless Fold
+
+> _The sheepfold is locked from within. Every beast inside is gone. Frost rims the latch, and two pale circles watch from the darkness beneath the shed._
+
+A nightwarg has nested under a farm shed, coming out only after sunset. It targets animals first, then anyone who sleeps alone. No tracks lead to or from the fold, but a successful SCOUT roll finds boards rimed with unnatural cold.
+
+- **Terrain Types:** Plains, Forest
+
+#### Random Encounter: the Dreamer’s Road
+
+> _The ruined milestone bears a carved moon and a name half-worn away: Falender. At dusk, the shadows of wolves cross the road before any living beast appears._
+
+D3 nightwargs haunt an old road tied to the Dreamer’s failed prayer. They follow the party until someone sleeps, then attack the outermost bedroll. A prayer to the Nightwalker, a bright fire, or a successful LORE roll may reveal the old charm carved on the milestone.
+
+- **Terrain Types:** Forest, Dark Forest, Ruins
+
+> **RESOURCES**
+>
+> A slain nightwarg dissolves, but frost-black hairs may remain caught on blades or thorns. An adventurer with the ALCHEMIST talent can preserve one dose before sunrise with a successful SURVIVAL roll. The dose may be used in a potion that gives +1 to SNEAK at night or +1 to ENDURANCE against cold for one Quarter Day.
+
 ### Sea Serpent
+
+> _The boat did not strike a rock. The rock rose, wrapped the hull twice, and breathed through a crown of horns while the sailors hammered at the planks from inside._
 
 Sea Serpents are feared predators that can puncture the hulls of ships with their horns and then snatch away crew while they are busy with repairs. They often wrap their bodies around smaller ships to crush the vessels with their strong muscles and then devour the swimming people in peace and quiet until they are all lined up in their gullets like pups in the womb.
 
@@ -639,7 +1181,7 @@ Legends tell of how the pirate Scarda was attacked by three Sea Serpents but man
 - **MOVEMENT:** 2 (in water)
 - **TAIL:** If an attack against the tail of a Sea Serpent (–2 penalty) draws blood (one point of damage or more from an edged or pointed weapon), roll a D6 each time the Sea Serpent attacks. On a 4–6, the beast attacks itself instead of an adventurer.
 
-**MONSTER ATTACKS**
+#### Monster Attacks
 
 | **D6** | **ATTACK**                                                                                                                                                                                                                                                                                                                                                                                                  |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -650,7 +1192,37 @@ Legends tell of how the pirate Scarda was attacked by three Sea Serpents but man
 | 5      | **CRUSHING ATTACK!** The beast rises above the surface and lets its heavy body fall onto two adventurers within NEAR range. Roll for the attacks with nine Base Dice and Weapon Damage 1 (blunt force). Victims hit are thrown to the shattered deck or into the watery depths.                                                                                                                             |
 | 6      | **DEATHLY EMBRACE!** The Sea Serpent ensnares an adventurer within NEAR range with its tail and tries to squeeze life out of them. Roll for the attack with eleven Base Dice and Weapon Damage 2 (blunt force). If the attack hits, the victim is GRAPPLED and must endure the same attack in each subsequent round (this does not count as an attack for the beast).                                       |
 
+#### Lore Roll
+
+| D6 | INSIGHT                                                                                                                                    |
+| -- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1  | Sea Serpents attack boats by piercing hulls, dragging away crew, or crushing smaller vessels in their coils.                               |
+| 2  | Cutting the tail can drive the beast mad enough to bite itself, a trick made famous in tales of the pirate Scarda.                         |
+| 3  | Their bodies carry rich blubber, horn, and gut, but cutting them apart at sea may draw other hungry things from below.                     |
+
+#### Random Encounter: the Listing Boat
+
+> _A fishing boat turns in slow circles near the reeds. Its mast is cracked, the hull sits low, and something beneath it knocks once, twice, like a butcher testing a cask._
+
+A sea serpent has holed the boat and waits for the crew to enter the water. The adventurers can rescue survivors, attack from another vessel, or try to beach the wreck before the serpent wraps it. Each failed MOVE or CRAFTING roll during the rescue gives the serpent a free attack against the hull or a swimmer.
+
+- **Terrain Types:** Lake, Quagmire
+
+#### Random Encounter: Scarda’s Teeth
+
+> _On the shore lies a ring of old teeth fused together like a white crown. Sailors leave offerings inside it and swear no serpent crosses the bay while the crown is fed._
+
+The tooth-ring is a relic from the legend of Scarda, but the offerings have begun to include living captives. A young sea serpent has learned to wait near the shrine. If the adventurers break the practice, the serpent attacks the next boat that crosses the bay.
+
+- **Terrain Types:** Lake, Ruins
+
+> **RESOURCES**
+>
+> Sea Serpent tail glands, horn, and blubber have strong alchemical uses. An adventurer with the ALCHEMIST talent can extract D3 doses of tail gland with a successful HEALING roll. A dose may be used in a potion that provokes rage, hunger, or self-destructive frenzy, or rendered with blubber into D6 units of FOOD by a CHEF.
+
 ### Strangling Vine
+
+> _The glade was warm and full of violet flowers. The old man sat down to mend his boot, and the boot was the only part of him they found._
 
 Like many of the strange beasts of the Forbidden Lands, the Strangling Vines are believed to be escaped experiments from some demonological laboratory. These flesh-eating plants are difficult to combat since they usually hide among peaceful greenery and seem to possess a certain degree of intelligence. The plant often waits in a sunny glade for some unsuspecting victim to settle down nearby, and then attacks with a number of barbed vines to attempt to trap and strangle it.
 
@@ -660,7 +1232,7 @@ The vines drag the dead prey to the trunk, which extends growths similar to suct
 
 - **ATTRIBUTES:** Strength 8, Agility 3
 
-**MONSTER ATTACKS**
+#### Monster Attacks
 
 | **D6** | **ATTACK**                                                                                                                                                                                                                                                                                |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -671,15 +1243,45 @@ The vines drag the dead prey to the trunk, which extends growths similar to suct
 | 5      | **PENETRATING ATTACK!** A vine tries to force its way into a body cavity (mouth, eyes, ears) of an adventurer within NEAR range. Roll for the attack with ten Base Dice and Weapon Damage 2 (slash wound). The attack damages both Strength and Empathy due to the horrifying experience. |
 | 6      | **POISONOUS CLOUD!** The creature’s purple flowers open and emit a cloud of spores affecting all adventurers within NEAR range. All suffer a paralyzing poison with Potency 8.                                                                                                            |
 
+#### Lore Roll
+
+| D6 | INSIGHT                                                                                                                                    |
+| -- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1  | Strangling Vines are flesh-eating plants that hide among ordinary growth and strike when prey rests nearby.                                |
+| 2  | The violet flowers are sensory organs, and the central trunk feeds by dissolving corpses dragged to its roots.                             |
+| 3  | Some vines can pull up their roots and move slowly, leaving false safe glades behind them.                                                  |
+
+#### Random Encounter: the Warm Glade
+
+> _The glade is dry, sheltered, and bright with violet flowers. Old bones lie beneath the moss in a circle too regular for chance._
+
+A Strangling Vine waits for travelers to REST. It strikes only after packs are off and armor loosened unless someone succeeds with SCOUTING or notices that the flowers all turn toward speech. The bones hide a belt pouch with D6 silver and a cracked bone whistle.
+
+- **Terrain Types:** Forest, Dark Forest, Plains
+
+#### Random Encounter: the Moving Garden
+
+> _A village garden has crossed the road in the night. Bean poles, turnip leaves, and violet flowers stand in a place where yesterday there was only mud._
+
+A vine has rooted itself in a vegetable plot after feeding on grave soil or an old corpse pit. The villagers think it a blessing until animals vanish. Uprooting it risks spores and hidden tendrils under the beds, but leaving it lets it grow into the village wall.
+
+- **Terrain Types:** Forest, Marshlands
+
+> **RESOURCES**
+>
+> The violet flowers and paralytic spores can be harvested before they wilt. An adventurer with the ALCHEMIST talent can gather D3 doses with a successful HEALING roll. The spores may be used as paralyzing poison with Potency 8 or as an ingredient in sleep draughts and root-binding magic.
+
 ### Troll
+
+> _The smell reached the village before the troll did. Dogs hid under carts, children gagged, and the old dwarf at the forge began to hum, very softly, into his beard._
 
 It is known that Trolls are born underground, but often journey to the surface as they become bigger, partially because of lack of space, but partially because they are quite gluttonous.
 
 Trolls eat basically anything that they can chew. Their favorite food is fresh innards and flesh, but also carrion that even foxes won’t touch anymore slides down their gullet, along with produce and refuse from the farms, including the latrine. Not unexpectedly, they are surrounded by a stench that carries far on the wind.
 
-couple of minutes. They are, however, sensitive to glaring light and avoid direct sunlight.
+Trolls aren’t entirely unintelligent. They can use simple weapons and tools and can communicate through grunts, but appear to lack any form of self-preservation or fear. The creatures are very strong and robust, with thick and leathery skin and incomparable regeneration that allows them to heal even critical injuries in a couple of minutes. They are, however, sensitive to glaring light and avoid direct sunlight.
 
-Some Trolls gorge themselves until they are so large and round that they more often than not resemble rolling stone boulders rath- Trolls aren’t entirely unintelligent. They can use simple weapons and tools and can communicate through grunts, but appear to lack any form of self-preservation or fear. The creatures are very strong and robust, with thick and leathery skin and incomparable regeneration that allows them to heal even critical injuries in a er than living creatures. The dwarves are said to extract rare minerals from the feces and tissue they leave behind and that they might even herd them like cattle. Vicious rumors say that the dwarves lure these Troll boulders to human villages with music, since certain especially rare minerals only form when the Trolls have eaten human flesh.
+Some Trolls gorge themselves until they are so large and round that they more often than not resemble rolling stone boulders rather than living creatures. The dwarves are said to extract rare minerals from the feces and tissue they leave behind and that they might even herd them like cattle. Vicious rumors say that the dwarves lure these Troll boulders to human villages with music, since certain especially rare minerals only form when the Trolls have eaten human flesh.
 
 - **ATTRIBUTES:** Strength 12–16, Agility 2
 - **SKILLS:** Scout 4
@@ -689,7 +1291,7 @@ Some Trolls gorge themselves until they are so large and round that they more of
 - **STENCH:** All enemies within ARM’S LENGTH suffer one point of damage to Agility each round of combat because of the Troll’s horrible stench.
 - **SUNLIGHT:** A Troll suffers one point of damage per round in direct sunlight.
 
-**MONSTER ATTACKS**
+#### Monster Attacks
 
 | **D6** | **ATTACK**                                                                                                                                                                                                                                                                                                                                         |
 | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -700,38 +1302,100 @@ Some Trolls gorge themselves until they are so large and round that they more of
 | 5      | **GOOD BEATING!** The Troll grabs the nearest adventurer and throws the victim into another adventurer. The thrown victim is subjected to an attack using ten Base Dice and Weapon Damage 1 (blunt force). If this attack hits, another adventurer within NEAR range is hit by an attack of equal force. All victims hit are thrown to the ground. |
 | 6      | **STINK BREATH!** The Troll clears its throat, then vomits a cloud of bile and stinking marsh gas in the faces of the adventurers. Each adventurer within NEAR range suffers an attack using seven Base Dice that causes damage to Empathy.                                                                                                        |
 
+#### Lore Roll
+
+| D6 | INSIGHT                                                                                                                                  |
+| -- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 1  | Trolls are gluttonous underground-born creatures that heal with terrible speed and eat nearly anything they can chew.                    |
+| 2  | Direct sunlight harms them, and their stench can weaken foes before claw, bite, or club does the rest.                                  |
+| 3  | Dwarves are rumored to harvest rare minerals from trolls, and some tales claim troll flesh changes with what the creature has eaten.    |
+
+#### Random Encounter: the Latrine Thief
+
+> _The village midden has been dug out from below. A tunnel stinks of rot, smoke, and wet stone. Somewhere beneath the privies, something belches like a collapsing roof._
+
+A troll has found the village refuse and now comes nightly for scraps, dung, and the occasional drunk. The villagers want it driven away without collapsing half their palisade. If followed underground, the tunnel leads to a lair containing foul but valuable mineral lumps.
+
+- **Terrain Types:** Hills, Forest
+
+#### Random Encounter: the Dwarf with the Flute
+
+> _A dwarf sits on a stump playing a thin bone flute. Down the road rolls what first seems to be a boulder, until it sniffs the air and unfolds a pair of arms._
+
+The dwarf is luring a swollen troll toward a human settlement, claiming it must be moved before it blocks a mine. The troll follows music and meat. The dwarf knows exactly what minerals its body may yield and lies poorly about what it has been fed.
+
+- **Terrain Types:** Hills, Mountains
+
+> **RESOURCES**
+>
+> Troll bile, fat, and mineral nodules are disgusting but useful. An adventurer with the ALCHEMIST talent can extract D3 doses of regenerative bile with a successful HEALING roll. A dose may be used in a potion that restores 1 Strength at the end of a scene, but the drinker reeks badly enough to suffer -1 to MANIPULATION until washed.
+
 ### Undead
+
+> _Grandmother came back at dawn and finished milking the goat. The family thanked her, gave her a stool by the hearth, and did not ask why there was grave soil under her nails._
 
 The living dead are a natural phenomenon in the villages since the deceased often tend to keep walking about in a state of confusion before finding their final rest. They are treated with respectful courtesy. The Rust Brothers’ venture of magically creating servants and warriors from these restless dead is disliked by most.
 
 For the most part, they wander around and perform their chores in more or less broken or decomposed forms, eventually as skeletons, but some become ghouls who draw power from other bodies to fuel their mockery of life. Especially powerful dead can become Death Knights.
 
-### Restless Dead
+#### Restless Dead
 
 - **ATTRIBUTES:** Strength 3, Agility 2
 - **SKILLS:** Melee 2, Scout 2
 - **BITE:** 2
 
-### Skeleton
+#### Skeleton
 
 - **ATTRIBUTES:** Strength 3, Agility 2
 - **SKILLS:** Melee 3, Scout 3
 - **TYPICAL GEAR:** Rusty broadsword, studded leather or chainmail, closed helmet
 - **BONY:** Arrows and pointed weapons can never cause more than one point of damage to a skeleton. Other weapons cause normal damage.
 
-### Ghoul
+#### Ghoul
 
 - **ATTRIBUTES:** Strength 4, Agility 2
 - **SKILLS:** Melee 3, Scout 3
 - **BITE:** 2 (Virulence 4)
 
-**MONSTER ATTACKS:** The rules for monsters in combat don’t apply to Undead. Instead, they act like normal fighters. As they lack Wits and Empathy, however, they are immune to spells that damage these attributes, as well as to the MANIPULATION skill.
+#### No Monster Attacks
+
+The rules for monsters in combat don’t apply to Undead. Instead, they act like normal fighters. As they lack Wits and Empathy, however, they are immune to spells that damage these attributes, as well as to the MANIPULATION skill.
+
+#### Lore Roll
+
+| D6 | INSIGHT                                                                                                                                       |
+| -- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1  | Restless dead are common in villages and are often treated with fearful courtesy until they become dangerous.                                  |
+| 2  | Skeletons resist arrows and points better than chopping and crushing weapons, while ghouls carry disease in their bite.                       |
+| 3  | Rust Brother necromancy turns a tolerated village mystery into soldiers and servants, which most folk hate even when they fear to say so.      |
+
+#### Random Encounter: the Helpful Dead
+
+> _A dead man in a patched shirt chops wood beside a cottage. His widow watches from the door and tells you not to bother him. He has always been quiet before breakfast._
+
+A restless dead villager still performs old chores and harms no one unless mocked, attacked, or kept from the task that binds it. The village wants outsiders to leave the matter alone. A Rust Brother, grave robber, or frightened heir may have other plans.
+
+- **Terrain Types:** Plains, Forest
+
+#### Random Encounter: the Wrong Burial
+
+> _The graves have been opened from beneath. Bones lie sorted by size on the church floor, and something in the dark under the altar chews with patient care._
+
+A ghoul has moved into an old burial place and is arranging bones into a mock household. Skeletons rise if the adventurers disturb the piles. The ghoul carries a ring or token from the first corpse it ate, pointing to the family that failed to bury its dead properly.
+
+- **Terrain Types:** Ruins, Forest
+
+> **RESOURCES**
+>
+> Most undead should be burned or buried, not harvested, but ghoul teeth, grave salts, and finger bones have use in dark workings. An adventurer with the ALCHEMIST talent can gather one dose of grave salt or ghoul tooth with a successful HEALING roll. The dose may be used in potions or rituals dealing with disease, fear, or restless dead; carrying it openly lowers most villagers’ trust at once.
 
 ### Wyvern
 
+> _The halfling’s hat drifted down first. Then came the screaming, smaller and smaller, until the wetland swallowed it and the flock turned back for the goats._
+
 The Wyvern is probably an immigrant species in the Forbidden Lands, since predatory lizards are uncommon outside the marshes. There has, however, been speculation on whether the Wyverns are related to the lizard folk, perhaps from unnatural relations with predatory birds, since they have been observed to possess a degree of intellect.
 
-victim apart and carrying the parts home to their young. There are stories of halflings being snatched up alive and screaming from the ground by Wyverns the size of horses. The The creatures prefer to live in crags near wetlands and can attack in flocks, tearing the
+The creatures prefer to live in crags near wetlands and can attack in flocks, tearing the victim apart and carrying the parts home to their young. There are stories of halflings being snatched up alive and screaming from the ground by Wyverns the size of horses.
 
 Wyverns often seek to surprise their prey and knock it senseless by first ramming them in the head with their hard skulls. A bite from the toothed beak often becomes infected.
 
@@ -744,7 +1408,7 @@ The Wyverns have a very thin but energy-laden layer of blubber under their skin 
 - **ARMOR RATING:** 5 (scales)
 - **SPECIAL:** If a Wyvern is somehow forced to the ground, all attacks against it get a +2 bonus.
 
-**MONSTER ATTACKS**
+#### Monster Attacks
 
 | **D6** | **ATTACK**                                                                                                                                                                                                                                                                                                                                            |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -754,6 +1418,34 @@ The Wyverns have a very thin but energy-laden layer of blubber under their skin 
 | 4      | **RAM ATTACK!** The creature flies at full force straight into an adventurer with its hard head. Roll for the attack with ten Base Dice and Weapon Damage 2 (blunt force). If the attack hits, the victim is thrown to the ground.                                                                                                                    |
 | 5      | **SHAKE ATTACK!** The Wyvern bites and violently shakes an adventurer. Roll for the attack with nine Base Dice and Weapon Damage 2 (slash wound). If the attack hits, the victim is thrown to NEAR distance and lands prone.                                                                                                                          |
 | 6      | **FALL FROM THE SKY!** The beast grabs an adventurer within NEAR range and lifts them into the sky. Roll for the attack with eight Base Dice. If the attack hits, the Wyvern and victim both ascend to SHORT range from the ground. Next round, the victim is dropped and suffers effects of a fall from 2D6+10 meters (see the _Player’s Handbook_). |
+
+#### Lore Roll
+
+| D6 | INSIGHT                                                                                                                                       |
+| -- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1  | Wyverns are winged predators most often found near marshes, crags, and wetlands where they can nest above their hunting grounds.               |
+| 2  | They are dangerous in the air but clumsy on the ground; barbed chains, nets, or torn wings give attackers a strong advantage.                 |
+| 3  | Their thin blubber and hide hold warmth in winter, making them valuable prey despite their infected bites and habit of carrying victims away. |
+
+#### Random Encounter: the Chain Spears
+
+> _A row of villagers waits beside the marsh with spears tied to barbed chains. Above them, two dark shapes circle the crag, patient as tax collectors._
+
+The village has lost goats, a child, and two hunters to a wyvern pair. Their chain spears can drag a wyvern down if a MARKSMANSHIP roll succeeds, but a failed throw tangles the wielder and leaves them exposed to a dive attack.
+
+- **Terrain Types:** Marshlands, Hills
+
+#### Random Encounter: the Warm Hide
+
+> _A tailor’s frame stands beside the road, strung with a leathery wing. The owner is gone. The hide still steams in the cold air._
+
+A tailor or hunter killed a young wyvern for its hide and blubber, but the flock has followed the scent of the carcass. The prepared hide can be saved, sold, or used as bait. If the adventurers linger, D3 adult wyverns arrive from the wetland crags.
+
+- **Terrain Types:** Marshlands, Hills, Forest
+
+> **RESOURCES**
+>
+> Wyvern blubber counts as rich provision and warm alchemical fat. A CHEF can render D6 units of FOOD from a slain wyvern, and an adventurer with the ALCHEMIST talent can preserve D3 doses of warming blubber with a successful HEALING roll. One dose may be used in a salve that gives +1 to ENDURANCE against cold for one Quarter Day.
 
 ### ANIMALS
 

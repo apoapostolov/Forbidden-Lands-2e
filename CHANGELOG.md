@@ -12,14 +12,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - **Gamemastery Guide.** Added as a 2nd Edition template. It is fully processed to compliant standard Markdown format and will be expanded into a second edition in the coming weeks.
+  - - **Chapter 06 — Bestiary.** Expanded Gamemaster's Guide monster entries toward the Book of Beasts format. Added flavor vignettes, Lore Roll tables, two random encounters per main monster group, and resources blocks for alchemical or magical salvage.
+  - **Chapter 10 — Villages and Towns.** Expanded settlement chapter added to the Gamemaster's Guide. Covers settlement history, current state, resources, inhabitants, situations, and long-term change through vicissitudes.
+  - **Chapter 10 — Villages and Towns.** Added settlement turn, household ledger, stores and shortages, optional route links for pointcrawl play, first-arrival guidance, and justice/retaliation procedures.
 - **Book of Beasts.** Added as a 2nd Edition template. It is fully processed to compliant standard Markdown format and will be expanded into a second edition in the coming weeks.
 
-## [Unreleased]
+## [1.0.7] - 2026-04-13
 
 ### Added
 
-- **Chapter 10 — Villages and Towns.** Expanded settlement chapter added to the Gamemaster's Guide. Covers settlement history, current state, resources, inhabitants, situations, and long-term change through vicissitudes.
-- **Chapter 10 — Villages and Towns.** Added settlement turn, household ledger, stores and shortages, optional route links for pointcrawl play, first-arrival guidance, and justice/retaliation procedures.
 - **Chapter 07 — Demonic Magic.** Seventeenth discipline for Sorcerers. Built around mog — a corrosive substance from the demon dimension Churmog; practitioners hunted on sight in settlements. 20 spells across R1–R6, mog handling rules, D66 mishap table.
 - **Chapter 07 — New spells across existing disciplines.** 21 new spells added to 10 existing disciplines: General (3), Healing (2), Awareness (2), Symbolism (2), Elemental Magic (5), Ice Affinity (3), Blood Magic (1), Mentalism (2), Shapeshifting (1).
 - **Chapter 07 — Rarity and Secrecy table.** Reference table for all 17 disciplines with public reaction (Known to Prohibited) and teacher access (Initiation to Journey).
