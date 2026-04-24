@@ -62,6 +62,30 @@ python scripts/ocr_markdown_audit.py path/to/file.raw.md path/to/file.clean.md
 
 Then fill out `references/triage-worksheet.md` mentally before committing to a strategy.
 
+## Layout Recon Before Extraction
+
+For a new or badly damaged PDF, do a fast structural survey before choosing a profile or starting cleanup. The goal is to map the document's layout logic, not to repair prose.
+
+Capture these facts first:
+
+1. TOC/bookmarks and chapter breaks
+2. page count and spread count
+3. sample page geometry from the opening, middle, and late sections
+4. repeated running headers, footers, page furniture, and title treatments
+5. font families, sizes, and bold/italic patterns
+6. image inventory, including repeated icons, banners, and full-page art
+7. table inventory, especially matrix tables, statblocks, and roll tables
+
+Use the survey to decide whether the document is primarily:
+
+- single-column prose
+- two-column rules text
+- table-dense reference material
+- statblock-heavy bestiary content
+- image-heavy layout with captions and sidebars
+
+If a layout report already exists, use it as the first-pass map, but still verify ambiguous spans visually before rewriting. Keep the survey separate from the raw extraction so the same layout evidence can support multiple cleanup passes.
+
 ## Workflow
 
 ### Phase 0: Preserve the Source
@@ -95,6 +119,7 @@ Fix these before any prose edits:
 Skipping this order lets paragraph cleanup blur content that should stay separated.
 
 See `references/table-reconstruction-manual.md` for table-specific repair rules.
+See `references/layout-analysis-workflow.md` for the generic survey and layout-summary workflow.
 
 Flattened-table helper:
 
@@ -191,6 +216,7 @@ Then verify all gates with `references/review-checklist.md` and `references/qual
 | `references/ocr-artifact-taxonomy.md`                   | Classifying damage tiers                               |
 | `references/triage-worksheet.md`                        | Before committing to a cleanup strategy                |
 | `references/document-profiles.md`                       | Choosing extraction profile                            |
+| `references/layout-analysis-workflow.md`               | Generic PDF survey, geometry, image, and table analysis |
 | `references/cleanup-issue-catalog.md`                   | Specific artifact patterns with grep commands and code |
 | `references/repair-playbook.md`                         | Concrete repairs by artifact class                     |
 | `references/table-reconstruction-manual.md`             | Table-specific rules and archetypes                    |
