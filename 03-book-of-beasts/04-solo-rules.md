@@ -361,8 +361,8 @@ Here are some examples of questions you could ask the oracles to kickstart villa
 
 - “How do the villagers react to us?” Roll on the Helpful/Hazardous oracle.
 - “Does anyone in the village approach us for help?” Roll on the Yes/No oracle and then on the Theme oracle if the answer is “yes” to determine the nature of this villager’s problem.
-- “⚔️ is the village problem – will the village leader let me help them with it?” Roll on the Yes/No oracle.
-- “⚔️ is what the village is known for – is that thing in jeopardy somehow?” Roll on the Yes/No oracle.
+- “[X] is the village problem – will the village leader let me help them with it?” Roll on the Yes/No oracle.
+- “[X] is what the village is known for – is that thing in jeopardy somehow?” Roll on the Yes/No oracle.
 
 ### Playing Solo with Others
 
