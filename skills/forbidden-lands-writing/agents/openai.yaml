@@ -1,4 +1,0 @@
-interface:
-  display_name: "Forbidden Lands Writing"
-  short_description: "Draft manuscript-native prose for the repo"
-  default_prompt: "Use $forbidden-lands-writing to draft or revise Forbidden Lands manuscript prose using the repo's WRITING_GUIDE.md and AGENTS.md."

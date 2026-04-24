@@ -2,18 +2,17 @@
 
 <img src="01-corebook/00-cover.png" alt="Forbidden Lands 2E cover" style="width: 90%;">
 
-Public workbench for a heavily revised Forbidden Lands 2E manuscript set and a living proposal area for future revisions.
+Public workbench for a heavily revised Forbidden Lands 2E manuscript set.
 
 ## Overview
 
-This repository contains:
+This repository contains three 2nd Edition book manuscripts:
 
-- an integrated `01-corebook/` manuscript
-- a `02-gamemasters-guide/` manuscript template
-- a `03-book-of-beasts/` manuscript template
-- a `proposals/` folder with design notes, draft rules, and other work-in-progress material
+- `01-corebook/`
+- `02-gamemasters-guide/`
+- `03-book-of-beasts/`
 
-The project is intended as a third-party supplement effort for Forbidden Lands. The manuscript remains a working draft and should be treated as editorial and design material rather than a compliance-reviewed publication.
+The manuscripts are working drafts and should be treated as editorial and design material rather than compliance-reviewed publications.
 
 ## License Context
 
@@ -36,43 +35,4 @@ This repository references Forbidden Lands under Free League's third-party licen
 
 ## Generative AI Disclosure
 
-This repository includes AI-assisted drafting and editing. If any part of this project is ever offered for sale as a supplement, the Free League license currently requires a clear disclosure for generative AI text or art.
-
-## Repository Layout
-
-- `01-corebook/`
-  - The integrated working manuscript and its chapter-level changelog.
-  - **COMPLETED** - This is the final, authoritative version of the Forbidden Lands corebook. All house rules have been integrated into a cohesive, canonical rulebook.
-  - **Contents**:
-    - `01-front-matter.md` - Introduction and front matter
-    - `02-your-adventurer.md` - Character creation
-    - `03-skills.md` - Skills system
-    - `04-talents.md` - Talents and abilities
-    - `05-combat-and-damage.md` - Combat rules
-    - `06-critical-injuries.md` - Critical injuries
-    - `07-magic.md` - Magic system
-    - `08-journeys.md` - Travel and exploration
-    - `09-the-stronghold.md` - Stronghold rules
-    - `10-gear.md` - Equipment and gear
-    - `11-appendix.md` - Appendices and reference
-  - **Assets**:
-    - `00-cover.png` - Cover image
-  - **Future Updates**: This corebook may receive errata updates for clarifications and balance adjustments, but represents the complete integrated ruleset.
-- `02-gamemasters-guide/`
-  - The 2nd Edition Gamemastery Guide template.
-  - Fully processed to compliant standard Markdown format and scheduled for expansion in the coming weeks.
-- `03-book-of-beasts/`
-  - The 2nd Edition Book of Beasts template.
-  - Fully processed to compliant standard Markdown format and scheduled for expansion in the coming weeks.
-- `proposals/`
-  - Draft proposals, design notes, and staging material for future revisions.
-- `AGENTS.md`
-  - Root authoring and repository guidance for this public copy.
-- `LICENSE.md`
-  - Public-facing notice describing how this repository relates to the official Free League license.
-- `REPOSITORY_METADATA.md`
-  - Suggested GitHub description and topic tags.
-
-## Editorial Principle
-
-The core writing goal is simple: make the manuscript read like a real game book, not like notes, patches, or AI paraphrase.
+This repository includes AI-assisted drafting and editing.
