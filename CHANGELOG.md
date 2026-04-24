@@ -7,7 +7,14 @@ All notable changes to the Forbidden Lands Corebook will be documented in this f
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased] - 1.0.6
+## [1.1.0] - 2026-04-24
+
+### Added
+
+- **Gamemastery Guide.** Added as a 2nd Edition template. It is fully processed to compliant standard Markdown format and will be expanded into a second edition in the coming weeks.
+- **Book of Beasts.** Added as a 2nd Edition template. It is fully processed to compliant standard Markdown format and will be expanded into a second edition in the coming weeks.
+
+## [Unreleased]
 
 ### Added
 

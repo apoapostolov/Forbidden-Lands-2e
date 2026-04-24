@@ -10,9 +10,7 @@ Creating your main player character is done in much the same way as presented in
 
 ### Character Creation
 
-If using the standard method of character creation, give your PC one extra general talent (Lucky is recommended if you are playing solo)
-
-and two extra skill points. If you are using the lifepath character generation system found in the _Legends & Adventurers_ booklet, give them one additional formative event when they are Young, and it is advised that you swap one of your general talents for Lucky.
+If using the standard method of character creation, give your PC one extra general talent (Lucky is recommended if you are playing solo) and two extra skill points. If you are using the lifepath character generation system found in the _Legends & Adventurers_ booklet, give them one additional formative event when they are Young, and it is advised that you swap one of your general talents for Lucky.
 
 Once you have finished creating your character, you can exchange any starting equipment for its listed value and then use your starting funds to purchase additional equipment. It is highly recommended that you purchase some armor.
 
@@ -24,9 +22,9 @@ Traveling with a Companion can mean the difference between life and death, and i
 
 The following guidelines will help keep the focus on your main PC to keep the game moving smoothly:
 
-- ✥ Companions have no Willpower Points and cannot push their rolls.
-- ✥ Companions should rarely roll for themselves, instead giving a help die in many situations, except when Journeying, when they can (and should) roll independently.
-- ✥ If your Main PC dies, the Companion can get “upgraded” to replace the Main PC. At this point, give them their kin talent, a profession talent, and a number of extra general talents according to the table on page 33 of the _Player’s Handbook_ . Also give them a Pride and Dark Secret.
+- Companions have no Willpower Points and cannot push their rolls.
+- Companions should rarely roll for themselves, instead giving a help die in many situations, except when Journeying, when they can (and should) roll independently.
+- If your Main PC dies, the Companion can get “upgraded” to replace the Main PC. At this point, give them their kin talent, a profession talent, and a number of extra general talents according to the table on page 33 of the _Player’s Handbook_ . Also give them a Pride and Dark Secret.
 
 **MOTIVATION:** To help figure out why your Companion is traveling with you, draw a card and consult the table below.
 
@@ -46,7 +44,6 @@ The following guidelines will help keep the focus on your main PC to keep the ga
 | K | Friendship. They are joining you through a bond of friendship. |
 | A | Orders. They work for a faction, their motives may be unclear. |
 
-
 **CREATION:** To create a Companion, follow the steps below.
 
 1. Try to choose a profession to complement your Main PC. Use the table of complementary Companion professions below to help you decide:
@@ -64,10 +61,10 @@ The following guidelines will help keep the focus on your main PC to keep the ga
 | Champion | Hunter, Minstrel, Peddler, Rogue |
 
 2. Use the lifepath system from the _Legends & Adventurers_ booklet to create your Companion, with the following tweaks:
-- ✥ Choose their profession rather than rolling for one.
-- ✥ Don’t give them any talents (they’ll get a free one in step 3 below).
-- ✥ Like the Main PC, give them an extra formative event at Young age, ignoring the talent.
-- ✥ Skip steps 11–12.
+- Choose their profession rather than rolling for one.
+- Don’t give them any talents (they’ll get a free one in step 3 below).
+- Like the Main PC, give them an extra formative event at Young age, ignoring the talent.
+- Skip steps 11–12.
 
 3. Give your Companion one (non-combat) general talent. Draw a card or choose from the table below.
 
@@ -88,7 +85,6 @@ The following guidelines will help keep the focus on your main PC to keep the ga
 | A | Wanderer |
 
 ### Animal Companions
-
 
 If you would like an animal companion and you want it to act independently, you must take the Hunter’s Path of the Beast talent. Otherwise, your animal companion can give you a help die in relevant circumstances (i.e. when you make a SCOUTING roll when KEEPING WATCH at a camp), but won’t be able to act on its own.
 
@@ -119,7 +115,7 @@ Each Quarter Day, follow this procedure:
    - Use the XP question prompts to earn XP from the previous day.
    - Roll D6 three times for weather, using the table on page 153.
 2. Assign and resolve tasks for PC and Companion(s).
-3. Perform the New Hex Procedure (below) if entering a new hex or draw for a general encounter if keeping watch over a camp. Roll SCOUTING to see if the encounter can be spotted in time. If you roll two or more **x** you gain +1 on the next roll relating to the encounter. If needed, resolve the encounter.
+3. Perform the New Hex Procedure (below) if entering a new hex or draw for a general encounter if keeping watch over a camp. Roll SCOUTING to see if the encounter can be spotted in time. If you roll two or more ⚔️ you gain +1 on the next roll relating to the encounter. If needed, resolve the encounter.
 4. Use oracles (from the following section) as needed to resolve situations that would normally need a GM.
 5. Proceed to the next Quarter Day and start again from step 1.
 
@@ -133,7 +129,6 @@ Whenever you enter a new hex, draw a card, and consult the table below. You may 
 | Face | General Encounter. Draw a card and consult the chart on page 170. |
 | Ace | Random Adventure Site from Chapter 8 in the _Game master's Guide_. Roll D6: **1-3:** Village, **4-5:** Dungeon, **6:** Castle. |
 
-
 If you want to use published adventure sites, you will need to read them first to understand how they work. While many solo players do indeed play published adventures in this way, it can only be done by separating player and character knowledge, and you must be content with revealing an adventure site’s secrets prior to running it.
 
 To include published adventure sites, you must decide on how often and which published adventure sites to use whenever an Ace is drawn.
@@ -142,8 +137,7 @@ To include published adventure sites, you must decide on how often and which pub
 
 These entries are deliberately vague. Use one or more oracles to obtain more detail, such as location details, the demeanor of NPCs, etc. If you draw an NPC or group of NPCs, a good general rule of thumb is to have the same number as the number of PCs (including Companions), but you can also roll a D3 or D6 if you want to make it more random. Note that this table is designed for use in Ravenland – if playing in the Bitter Reach, _The Bloodmarch_ , or elsewhere, you’ll need to adapt the results accordingly.
 
-
-| CARD | DIAMONDS | HEARTS | CLUBS | SPADES |
+| CARD | DIAMONDS ♦ | HEARTS ♥ | CLUBS ♣ | SPADES ♠ |
 | --- | --- | --- | --- | --- |
 | 2-7 | No encounter | No encounter | No encounter | No encounter |
 | 8 | Unusual smell emanating from the ground. | Thick fog rises from the ground, but only comes up to knee height. | Uncanny terrain (crater, an odd tree, sandy patch in a forest, etc.). | The weather worsens in some way (colder, wetter, stormier, etc.). |
@@ -153,7 +147,6 @@ These entries are deliberately vague. Use one or more oracles to obtain more det
 | Q | Quard Pilgrims (_Game master's Guide_ pages 42 and 49). | Raven Sisters (_Game master's Guide_ page 37). | Watcher Minstrels (_Game master's Guide_ pages 55-56). | Rust Brothers (_Game master's Guide_ page 40). |
 | K | Mounted Champion and Retinue. | Wounded Adventurer, will share artifact legend if helped. | Bandits (_Game master's Guide_ page 183). | Whiner Hollows (_Game master's Guide_ page 70). |
 | A | Sorcerer & Soldier (_Game master's Guide_ pages 183-184). | Rival Adventurers. | Warriors from a Faction (roll on table below). | Aggressive Monster. Roll D66 on page 74 of the _Game master's Guide_ or page 5 of this book. |
-
 
 | D66 | FACTION |
 | --- | --- |
@@ -169,7 +162,6 @@ These entries are deliberately vague. Use one or more oracles to obtain more det
 | 54-56 | Isir Orcs (_Game master's Guide_ page 65) |
 | 61-63 | Roka Orcs (_Game master's Guide_ page 64) |
 | 64-66 | Drifter Orcs (_Game master's Guide_ page 66) |
-
 
 ### Exploring the Map
 
@@ -187,26 +179,23 @@ In addition to providing 13 different card values and 4 suits, the color of the 
 
 Rule number 1 is to go with your gut!
 
-- ✥ If you’re not sure of the odds or they’re 50/50, only draw one card.
-- ✥ If the odds are Likely, draw two cards and take the most positive result (high red > low black).
-- ✥ If the odds are Unlikely, draw two cards and take the most negative result
-
+- If you’re not sure of the odds or they’re 50/50, only draw one card.
+- If the odds are Likely, draw two cards and take the most positive result (high red > low black).
+- If the odds are Unlikely, draw two cards and take the most negative result
 (high black > low red).
 
-
-| CARD | RED SUIT | BLACK SUIT |
+| CARD | RED SUIT ♦/♥ | BLACK SUIT ♣/♠ |
 | --- | --- | --- |
 | 2-3 | Maybe, but the result is not clear. | Maybe, but the result is not clear. |
 | 4-10 | Yes (higher numbers are more definitive). | No (higher numbers are more definitive). |
 | Face | Yes, but with some complication. | No, and some complication. |
 | Ace | Exceptional Yes. | Exceptional No. |
 
-
 ### Helpful/hazardous Oracle
 
 In many situations, you may wish to know how hazardous or hostile an encounter is. This can also be used for NPCs and villages. In that case, roll for your Reputation first and use the oracle below if you are not known, to find out how people react to you.
 
-| CARD | RED SUIT | BLACK SUIT |
+| CARD | RED SUIT ♦/♥ | BLACK SUIT ♣/♠ |
 | --- | --- | --- |
 | 2-4 | Neutral | Neutral |
 | 5-7 | Mildly helpful | Mildly dangerous |
@@ -214,13 +203,11 @@ In many situations, you may wish to know how hazardous or hostile an encounter i
 | J-Q | Very helpful | Very dangerous |
 | K-A | Life saving | Deadly |
 
-
 ### Theme Oracle
 
 At times you may wonder at a situation you find yourself in – perhaps a general encounter doesn’t make much sense at first, you need some more information from an NPC, or you need help with some other idea. Whenever you are stuck in such a way, draw a card, and consult the table below. If the meaning is not clear, draw a second card and treat one as a minor theme.
 
-
-| CARD | DIAMONDS | HEARTS | CLUBS | SPADES |
+| CARD | DIAMONDS ♦ | HEARTS ♥ | CLUBS ♣ | SPADES ♠ |
 | --- | --- | --- | --- | --- |
 | 2 | Balance | Unity | Crossroads | Indecision |
 | 3 | Alliance | Community | Growth | Restoration |
@@ -235,11 +222,9 @@ At times you may wonder at a situation you find yourself in – perhaps a genera
 | Q | Practicality | Calm | Courage | Complexity |
 | K | Prosperity | Compassion | Perspective | Discipline |
 | A | Opportunity | Spirituality | Desire | Clarity |
-
 ### Wilderness Oracle
 
 The locations in the table below are intended to give a bit of flavor to the hex you are traveling in. Perhaps you are wondering where you have made camp for the night, or where exactly an encounter with some refugees takes place.
-
 
 | CARD | HILLS & MOUNTAINS | PLAINS & FORESTS | MARSHES & QUAGMIRES | WATERWAYS & SHORELINES |
 | --- | --- | --- | --- | --- |
@@ -264,7 +249,7 @@ The locations in the table below are intended to give a bit of flavor to the hex
 | 2-3 | Alderlander | Ailander | Houn |
 | 4-5 | Aslene | Ailander | Sabirian |
 | 6-7 | Ailander | Alderlander | Caberian |
-| 8 | Elvenspring (diamonds/hearts) or Frailer (clubs/spades) | Orc | Galdane |
+| 8 | Elvenspring (♦ ♥) or Frailer (♣ ♠) | Orc | Galdane |
 | 9 | Halfling | Orc | Quard |
 | 10 | Goblin | Orc | Vasnian |
 | J | Orc | Dwarf | Ravenlander |
@@ -272,11 +257,9 @@ The locations in the table below are intended to give a bit of flavor to the hex
 | K | Dwarf | Wolfkin | Dwarf |
 | A | Elf | Elf | Wolfkin |
 
-
 ### Kin Names Oracle
 
 Ailanders and Half- Elf Elvenspring take Elven names. Half- Elf Frailers take Alderlander names.
-
 
 | CARD | ALDERLANDER F | ALDERLANDER M | ASLENE F | ASLENE M | ELF F | ELF M | DWARF F | DWARF M |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -294,9 +277,7 @@ Ailanders and Half- Elf Elvenspring take Elven names. Half- Elf Frailers take Al
 | K | Tilda | Tam | Odea | Talos | Taika | Teemu | Skadi | Sunvard |
 | A | Ulrika | Viggo | Telma | Vander | Tuula | Vaino | Vigdis | Tyrnir |
 
-
 ### Kin Names Oracle
-
 
 | CARD | HALFLING F | HALFLING M | WOLFKIN F | WOLFKIN M | ORC F | ORC M | GOBLIN F | GOBLIN M |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -313,13 +294,11 @@ Ailanders and Half- Elf Elvenspring take Elven names. Half- Elf Frailers take Al
 | Q | Riann | Owin | Teona | Pali | Sirise | Narka | Nusa | Tamas |
 | K | Sheena | Sholto | Teuta | Tauron | Soyna | Nutch | Sariska | Vilmos |
 | A | Ula | Tad | Zarina | Vasil | Tori | Ykacha | Zulima | Zoltan |
-
 ### Traits Oracle
 
 Use this table to help determine an NPC’s outlook and motivations. It can also be used to determine the outlook for a community – use the Diamond column for the red suits and the Clubs column for the black suits and consult the relevant gray column.
 
-
-| CARD | NPC: DIAMONDS / COMMUNITY: RED | NPC: HEARTS | NPC: CLUBS / COMMUNITY: BLACK | NPC: SPADES |
+| CARD | NPC: DIAMONDS ♦ / COMMUNITY: RED | NPC: HEARTS ♥ | NPC: CLUBS ♣ / COMMUNITY: BLACK | NPC: SPADES ♠ |
 | --- | --- | --- | --- | --- |
 | 2 | Benevolent | Absent-Minded | Aggressive | Ambitious |
 | 3 | Calm | Careless | Aloof | Angry |
@@ -335,7 +314,6 @@ Use this table to help determine an NPC’s outlook and motivations. It can also
 | K | Religious | Weary | Suspicious | Smug |
 | A | Sociable | Wild | Wary | Stern |
 
-
 ### Combat
 
 As combat in the Forbidden Lands is very deadly, some tweaks to the core rules are recommended.
@@ -350,14 +328,13 @@ As combat in the Forbidden Lands is very deadly, some tweaks to the core rules a
 
 **LOOTING:** When looting fallen enemies, draw a card and consult the table below to see if they have any additional equipment beyond what is listed in their stat block:
 
-| CARD | DIAMONDS | HEARTS | CLUBS/SPADES |
+| CARD | DIAMONDS ♦ | HEARTS ♥ | CLUBS/SPADES ♣/♠ |
 | --- | --- | --- | --- |
 | 2-10 | No additional equipment | No additional equipment | No additional equipment |
 | J | One unit of torches | One unit of torches | One unit of torches |
 | Q | One unit of water | One unit of water | One unit of water |
 | K | One unit of food | One unit of food | One unit of food |
 | A | Precious carried find | Valuable carried find | Simple carried find |
-
 
 ### Social Interactions
 
@@ -369,24 +346,23 @@ To better facilitate solo play, social interactions can be simplified into a sin
 | 4 | 2 |
 | 5+ | 3 |
 
-
 If the NPC is particularly gifted in either INSIGHT or MANIPULATION (depending on how you are interacting with them), you should also consider further modifying your roll by removing one or more skill dice. Your bargaining position and Reputation ( _Player’s Handbook_ page 40) influence your roll as per normal.
 
 ### Roleplaying in Villages
 
 Roleplaying social interactions with an entire village or settlement by yourself can be surprisingly daunting, especially when you’re new to playing solo. Remember that the point is to have fun – not to write an award- winning novel – so here are some tips to help break down this particular barrier.
 
-- ✥ Be sure to use all the village creation tables in the _Game master’s Guide_ (especially those on pages 169–170).
+- Be sure to use all the village creation tables in the _Game master’s Guide_ (especially those on pages 169–170).
 
-- ✥ Look for obvious hooks generated from these tables and use one of them as your entry point. Make good use of the oracles!
-- ✥ Don’t stress about roleplaying the dialogue if you’re not ready or comfortable. Your game won’t grind to a halt if you keep things a bit more zoomed out.
+- Look for obvious hooks generated from these tables and use one of them as your entry point. Make good use of the oracles!
+- Don’t stress about roleplaying the dialogue if you’re not ready or comfortable. Your game won’t grind to a halt if you keep things a bit more zoomed out.
 
 Here are some examples of questions you could ask the oracles to kickstart village interactions:
 
-- ✥ “How do the villagers react to us?” Roll on the Helpful/Hazardous oracle.
-- ✥ “Does anyone in the village approach us for help?” Roll on the Yes/No oracle and then on the Theme oracle if the answer is “yes” to determine the nature of this villager’s problem.
-- ✥ “[X] is the village problem – will the village leader let me help them with it?” Roll on the Yes/No oracle.
-- ✥ “[X] is what the village is known for – is that thing in jeopardy somehow?” Roll on the Yes/No oracle.
+- “How do the villagers react to us?” Roll on the Helpful/Hazardous oracle.
+- “Does anyone in the village approach us for help?” Roll on the Yes/No oracle and then on the Theme oracle if the answer is “yes” to determine the nature of this villager’s problem.
+- “⚔️ is the village problem – will the village leader let me help them with it?” Roll on the Yes/No oracle.
+- “⚔️ is what the village is known for – is that thing in jeopardy somehow?” Roll on the Yes/No oracle.
 
 ### Playing Solo with Others
 

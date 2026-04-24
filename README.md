@@ -1,14 +1,16 @@
 # Forbidden Lands 2E
 
-<img src="corebook/00-cover.png" alt="Forbidden Lands 2E cover" style="width: 90%;">
+<img src="01-corebook/00-cover.png" alt="Forbidden Lands 2E cover" style="width: 90%;">
 
-Public workbench for a heavily revised Forbidden Lands 2E manuscript and a living proposal area for future revisions.
+Public workbench for a heavily revised Forbidden Lands 2E manuscript set and a living proposal area for future revisions.
 
 ## Overview
 
 This repository contains:
 
-- an integrated `corebook/` manuscript
+- an integrated `01-corebook/` manuscript
+- a `02-gamemasters-guide/` manuscript template
+- a `03-book-of-beasts/` manuscript template
 - a `proposals/` folder with design notes, draft rules, and other work-in-progress material
 
 The project is intended as a third-party supplement effort for Forbidden Lands. The manuscript remains a working draft and should be treated as editorial and design material rather than a compliance-reviewed publication.
@@ -38,7 +40,7 @@ This repository includes AI-assisted drafting and editing. If any part of this p
 
 ## Repository Layout
 
-- `corebook/`
+- `01-corebook/`
   - The integrated working manuscript and its chapter-level changelog.
   - **COMPLETED** - This is the final, authoritative version of the Forbidden Lands corebook. All house rules have been integrated into a cohesive, canonical rulebook.
   - **Contents**:
@@ -56,6 +58,12 @@ This repository includes AI-assisted drafting and editing. If any part of this p
   - **Assets**:
     - `00-cover.png` - Cover image
   - **Future Updates**: This corebook may receive errata updates for clarifications and balance adjustments, but represents the complete integrated ruleset.
+- `02-gamemasters-guide/`
+  - The 2nd Edition Gamemastery Guide template.
+  - Fully processed to compliant standard Markdown format and scheduled for expansion in the coming weeks.
+- `03-book-of-beasts/`
+  - The 2nd Edition Book of Beasts template.
+  - Fully processed to compliant standard Markdown format and scheduled for expansion in the coming weeks.
 - `proposals/`
   - Draft proposals, design notes, and staging material for future revisions.
 - `AGENTS.md`
