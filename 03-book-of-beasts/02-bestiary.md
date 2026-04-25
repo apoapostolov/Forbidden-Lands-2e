@@ -91,19 +91,21 @@ Roll D6 to determine the effect:
 
 Amphibians are large, froglike humanoids capable of breathing air as well as water. They are found in rivers, lakes, and bays, but have a special fondness for deeper waters. One can occasionally glimpse their sentinels, armed with leisters, like motionless statues on skerries and rocks, carefully watching the movements of the land folk. Their dwellings are located beneath the surface, and there are stories about vast underwater kingdoms with palaces and treasure troves. But the conflicts between Amphibians and other kin are mainly about their offspring. The Amphibians are born from eggs similar to frogspawn, floating on the surface and therefore easily gathered by coastal fishermen and saurians, who regards the eggs as a nutritious delicacy.
 
-#### Random Encounter: a Suspicious Stranger
+#### Random Encounter: the Reed Stake
 
-> _A solitary islet emerges from the mist before you. It is barren, without any sign of a settlement, but you notice the shape of a humanoid figure with long arms leaning against a spear on a protruding rock. The creature is too far away for you to make out any facial features, but you get a bad feeling that it is staring straight at you. Next thing you know, the creature has vanished – and you suddenly feel very vulnerable in your humble vessel._
+> _A child's wooden sandal floats past the bow. Then the second one._
 
-A patrol of belligerent Amphibians has spotted the adventurers’ boat, which is targeted by a ramming attack according to the rules on page 9. If the adventurers make a SURVIVAL roll they can spot the swimming bodies beneath the surface in time to grab hold of something before the first blow hits them (+1 to MOVE ). The GM decides whether the Amphibians are guarding a nearby hatching site with large quantities of eggs or whether the adventurers are drifting over one of the mysterious underwater realms mentioned in the legends.
+A reed stake stands knee-deep in the shallows ahead. A girl no older than eight is tied to it, rope at her chest, water at her ribs. She has been there since first light. Three Amphibian sentinels wait beneath the surface a few strokes off, harpoons across their thighs. Her village paid this tithe every spring since the spring beneath their temple ran dry; one child, until Flow returns the water. The sentinels will not rise unless the adventurers cut the rope. If they cut it, the patrol will ram the vessel as soon as it leaves the shallows. If they sail past, the girl will be dead by sundown, and the next village downriver will name them the boat that did not stop. The girl does not cry. She has been told not to.
 
 - **Terrain Types:** Lake, Quagmire
 
-#### Event: All That Glitter Is Not Eggs
+#### Random Encounter: All That Glitters Is Not Eggs
 
-> _You move between the trading stalls at the large marketplace that rises above the river on sturdy stilts. Suddenly someone comes rushing towards you – fluttering clothes, a frog- like face, a frightened voice gasping “Protect my children!” Then the figure dives into the river and disappears._
+> _A frog-faced figure pushes a wet bundle into the strongest adventurer's arms, gasps "Protect my children," and dives off the stilts into the river._
 
-After that, three things happen in quick succession. First, the adventurers discover that the largest and strongest member of the group has been handed a bundle containing what looks like oversized frog eggs. The eggs are transparent, and the adventurers can see tadpoles with bulging eyes swimming around in the cloudy liquid. Secondly, a local guard patrol shows up, armed with halberds and heavy crossbows. They are led by a merchant in a purple beret who points an accusing finger at the egg-filled bundle. Thirdly – before the patrol reaches the adventurers – D6 amphibian warriors come climbing out of the river, commanded by the female who handed over the bundle. The GM decides how the situation develops.
+Three things happen before a breath is drawn. The bundle in the adventurer's hands is oversized frog spawn — tadpoles with bulging eyes turning in the cloudy fluid. A market patrol with halberds and heavy crossbows is already shouldering through the stalls, led by a merchant in a purple beret pointing an accusing finger at the bundle. Then D6 Amphibian warriors haul themselves over the planking, leister-tips dripping, the female who handed over the eggs at their head. The patrol believes the eggs are stolen market property. The Amphibians believe the patrol stole them first. Whoever the adventurers hand the bundle to becomes their enemy in this town. Whoever they refuse becomes their pursuer on this river.
+
+- **Terrain Types:** Village, Lake
 
 #### Lore Roll
 
@@ -116,6 +118,16 @@ After that, three things happen in quick succession. First, the adventurers disc
 Adventurers who side with the Amphibians will gain a powerful ally for adventures to come.
 
 **Adventure Site:** Village
+
+> **RESOURCES**
+>
+> An adventurer with the ALCHEMIST talent, with a HEALING roll, recovers one dose of throat-membrane and one dose of skin-gland from a slain Amphibian per ⚔️ rolled, plus the eggs found in the lair (each egg counts as a tiny item).
+>
+> **Throat-membrane:** A thin film cut from where lung meets gill. Pressed to the mouth and held shut with wax, it lets the wearer breathe submerged for one Quarter Day. Past that, the membrane sloughs, and the wearer takes the Drowning condition with no chance to act before the next round.
+>
+> **Skin-gland:** Wept from the sentinel's flank where the toad warts cluster. Brewed with herbs by a Poisoner, it yields a paralytic poison of Potency 8 that grips the lungs first. The Amphibians use the same brew to slow eels in the spawning pools; using it on land is considered an insult to Flow.
+>
+> **Eggs:** A tiny item, edible raw, cooked into one unit of FOOD by a CHEF, or sold for five silver each in any river village willing to risk the Amphibians' attention. The Amphibians always know the egg is there.
 
 ### No Monster Attacks
 
@@ -141,25 +153,29 @@ Amoebas are primitive predators that feed by absorbing other creatures into thei
 | 2   | Old soldiers who survived an amoeba say good steel only angers the thing; only one bright torment seems to make it draw back, and even then not for long. |
 | 3   | Open flame is the surest answer, when one can carry enough of it. The corrosive fluids inside also serve sorcerers, who whisper an amoeba's bile may turn the walking dead from their road. |
 
-#### Random Encounter: Death in the Well
+#### Random Encounter: the Cistern Lid
 
-> _Through the trees you glimpse a lone stone well. It is an impressive structure, likely built by the ancient dwarves, surrounded by a low wall carved with runes. An iron chain linked to a pulley is hanging down into the darkness below. On closer inspection you notice that the chain is moving. Something shapeless moves quickly towards the surface – coming straight at you!_
+> _A boy stands in the village square holding a clay cup half-full of cloudy water. He will not drink._
 
-Player characters who succeed with a LORE roll realize that the runes are a warning. The ancient dwarves feared the well and the insatiable amoeba that springs to life and wells up from the depths towards the adventurers.
+The village's only sweet-water cistern sits in the square, sealed under a pitch-coated lid. Three winters ago the council drowned a Rust Brother who had asked too many questions and pitched the lid down on top of him. They now know what has formed inside. Their children dream wet dreams, then sicken, then are taken to the church. The headman pulls the adventurers aside before sundown and offers a season's grain to burn the thing out. Cracking the seal will release the amoeba into the square. The village has no other water until snowmelt. The Rust Brother's brass medallion is still inside, and when the alkaline gut bursts, it will roll out across the cobbles where everyone can see it.
 
-- **Terrain Types:** Forest, Dark Forest
+- **Terrain Types:** Village, Plains
 
-#### Random Encounter: the Living Waste Pile
+#### Random Encounter: the Plough Field
 
-> _A horrid stench assaults your nostrils and makes your eyes water. Recoiling in disgust, you see the source of the odor: a huge waste pile, towering nearby like a mountain of half- rotten remains. Strange that you did not notice it earlier… Suddenly the shapeless mass rushes towards you with such force that the ground trembles – and you realize that it is a living being, one that clearly has chosen you as its prey._
+> _Two men stand in a furrow, one sunk to the hip. The other is holding both of his arms and not pulling._
 
-- A ravenous amoeba has spotted the player char acters in its endless hunt for food. It has recently devoured a highborn wedding party on their way to a nearby castle. By defeating the amoeba and searching its remains, the player characters can find D3 Valuable Finds.
+The dragged man is a tenant whose ox went down into the furrow first. The man holding him is a lord's outrider who came over the ridge ten breaths ago. The thing beneath the field is an amoeba grown for forty years on knight-bone from an unburied battle, and the lord has known about it since his father's time. The fattest grain in the district comes from this acre. The outrider will let the farmer go all the way down rather than let him speak of it in the next village. He has counted only four adventurers, and is willing to count six bodies if it comes to that.
 
-- **Terrain Types:** Plains, Forest, Dark Forest, Hills, Mountains
+- **Terrain Types:** Plains, Forest
 
 > **RESOURCES**
 >
-> The amoeba’s gastric acid contains cosmic substances older than the mystery of death. From a dead amoeba, an ALCHEMIST (page 156) can with a HEALING roll extract one dose of gastric acid per ⚔️ rolled. If the acid is added to the brewing of a deadly poison (page 78 of the Players’ Manual), the Potency is increased by 3.
+> An adventurer with the ALCHEMIST talent, with a HEALING roll, draws one ladle of gastric acid and one wisp of bound-memory mucus from a dead amoeba per ⚔️ rolled. The acid will burn through anything that holds it but glass.
+>
+> **Gastric acid:** Older than the mystery of death. Added by a Poisoner to any deadly poison brewed within the same Quarter Day, the Potency rises by 3. A single ladle, sealed in glass and shattered at someone's feet, makes the patch impassable for one round and corrodes any metal that touches it; the cobbles hiss for a stretch.
+>
+> **Bound-memory mucus:** A film scraped from the surface where the dead faces appear. An ALCHEMIST who heats the mucus over a low flame and breathes the steam may ask the GM one question about a person whose face the amoeba absorbed. The GM answers in a fragment — what the dead saw last, what they regretted, where they hid a thing — and the alchemist takes one mental Trauma and loses one point of Empathy from carrying the dead voice in their throat for the rest of the Quarter Day.
 
 #### Monster Attacks
 
@@ -200,25 +216,31 @@ Basilisks are large, semiintelligent reptiles with great predatory claws. They a
 | 2   |     | Basilisks spring from a cockerel's egg incubated by toads, and the cracked remains of such an egg are always kept somewhere in the basilisk's lair as if guarded.                                          |
 | 3   |     | Old hunting tales say the beast and the relic in its nest share one life between them, and that crushing the wrong stone in a basilisk's lair has ended many a long pursuit. The powdered shells are also used in magical elixirs. |
 
-#### Random Encounter: a Knightly Massacre
+#### Random Encounter: the Knight in the Cage
 
-> _Agitated voices echo through the trees, mixed with the metallic resonance of heavy armor and swinging swords. A macabre scene is unfolding before you. Ten lifeless bodies lie scattered on the ground, some of them bloody and maimed, others frozen in twisted positions. In the middle of it all, a single knight is fighting valiantly against a snake- like monstrosity with the head of a bird. The knight raises his shield to protect his face, apparently trying to fight the beast without looking into its eyes._
+> _A man in burnt mail kneels in a barred wagon, hands tied behind him, eyes still bandaged from when he last opened them._
 
-The adventurers have stepped into the final act of a fight to the death between a raging basilisk and a group of Alderland knights, sent on a holy mission in the Forbidden Lands by Psychopomp Vivírula – head of the Congregation of the Serpent in Alderland. The last man standing is the knights’ commander: Dominik of House Viperion, who happens to be the psychopomp’s nephew. If the adventurers help him vanquish the basilisk, they will gain a lifelong friend that may prove extremely useful in the future. Dominik is sworn to silence regarding his order and his mission, so on that particular topic he is as slippery as the serpent he worships.
+Dominik of House Viperion, sworn knight of the Congregation of the Serpent in Alderland, has been taken alive by the men of the village he was sent to convert. The villagers fear his god more than they fear the basilisk that has nested in the old well outside their walls. Wyrm's right hand, they call it. Sleeping for them. They will not unbind his eyes unless the basilisk is dead, and they will not let him live if it is, since a freed knight will return with steel and oil. Dominik will say nothing of his order or his mission. The bandage is from when he saw the beast and went down beside his men. He will fight blind beside the adventurers if cut loose. The villagers will hunt them after.
 
-**Terrain Types:** Forest, Dark Forest
+- **Terrain Types:** Village, Forest
 
-#### Random Encounter: the Agitated Alchemist
+#### Random Encounter: the Stone Children
 
-> _A bearded old man in strange, partially torn clothes suddenly bursts onto the path before you. He stares at you with wide eyes and points back into the depths of the forest, panting with excitement as he repeats: “It’s the egg, don’t you see? The egg! I found it! You must … The egg! I found it! The egg that yields gold!”_
+> _Three children stand in a row in a clearing. Their hands are still raised. The smallest one's mouth is still open._
 
-The poor man is a learned but misguided alchemist who after years of diligent study has concluded that basilisk eggs are the secret ingredient in turning lead into gold. By studying old books, he has also managed to locate a basilisk’s lair, but in his calculations he forgot to factor in the basilisk itself. Now he needs the adventurers’ help to defeat the beast and seize the coveted egg. He promises to pay them with some of the gold he will later create in his alchemical laboratory.
+The figures are dust-grey and cool to the touch. They were seven children playing the Wyrm-and-Egg game on a warm spring morning when the basilisk came up out of the spring. Four ran. The mother of the smallest is sitting against a tree with her back to the trunk and her hands folded in her lap. She has not moved since first light. She is alive. She is waiting for the basilisk to come back so she can join them. The basilisk lairs in the spring's mouth, and the cockerel-egg sits on a moss-shelf above the water, almost within her reach. The petrification can be reversed within the day if a HEALING HANDS spell or a successful ENDURANCE roll is made on a child while still alive — but the adventurers cannot tell which children are still alive without touching the stone. The mother knows. She will not say.
 
-- **Terrain Types:** Plains, Forest, Dark Forest, Hills, Mountains, Marshlands
+- **Terrain Types:** Forest, Hills
 
 > **RESOURCES**
 >
-> Basilisk eggs contain primal magic, and from each crushed egg a sorcerous adventurer can obtain a powder that gives D6 Willpower Points.
+> An adventurer with the ALCHEMIST talent, with a HEALING roll, draws one drop of petrifying tear and one knuckle of stomach-stone from a slain basilisk per ⚔️ rolled. A crushed cockerel-egg from the lair yields one tiny pouch of egg-shell powder per crush.
+>
+> **Cockerel-egg powder:** Brewed by an Alchemist with one HERBS into a draught that the drinker may swallow to recover D6 Willpower Points immediately. A second draught within the same Quarter Day petrifies the drinker from the throat down for one stretch; a third kills them.
+>
+> **Petrifying tear:** A single drop on a blade's edge lasts one strike. The struck creature must succeed on an ENDURANCE roll or be petrified as by the basilisk's gaze, dying within 2D6 rounds unless reversed (see PETRIFYING ATTACK above). Touching the coated edge with bare skin counts as struck.
+>
+> **Stomach-stone:** A grey nodule from where the basilisk swallowed gravel to grind its food. Heated red and dropped into water, it boils the water clean and removes any non-magical poison from a brew or wineskin set to soak in the steam for one stretch. The Congregation of the Serpent will pay ten gold for one in good faith and twenty in bad.
 
 ### Bog Man
 
@@ -250,17 +272,31 @@ Bog men are the greedy and vengeful ghosts of slaves, prisoners of war, and othe
 | 2   | Bog men are undead and cannot be cut by ordinary blades. Marsh wives swear by torches and old prayers, and hunters tell of bog men drawn aside by something that catches the eye in the black water. |
 | 3   | Where bog men gather, drowned weapons, lost armor, and old offerings to the gods often lie beneath the dark water; the spirits were drawn to that place for a reason that has not stopped being true. |
 
-#### Event: the Sacrificial Bog
+#### Random Encounter: the Bridegroom in the Reeds
 
-> _Icy veils of mist surround the area: an old bog with gnarly trees and sprawling tufts of grass that snake their way up from black ponds. Further out into the mist you glimpse a stone wall with some buildings behind it. You see the outline of a mill and some form of watchtower, and from somewhere over there you can hear singing and music. But in order to get there you must cross the bog, whose dark waters suddenly look very menacing – like an ill- concealed portal to the realm of the dead._
+> _A bride sits in a punt pushed out into the bog, white linen wet to the thigh, weighted shoes already on her feet._
 
-The ominous bog is an old sacrificial site where the region’s inhabitants have made offerings to the gods since ancient times. If the adventurers move through the bog, they will immediately be attacked by D3 Bog men rising menacingly out of the water. The bog is full of underwater treasures, and if they decide to EXPLORE the site, the adventurers may roll D3 times on the table for Valuable Finds in a Lair. But adventurers who stay too long will attract even more Bog men. Furthermore, the inhabitants of the nearby village may decide to organize a posse to stop the plundering strangers – and in the process get their hands on a group of suitable prisoners to sacrifice to their ravenous gods.
+She is twenty. The village's wells went sour after the cooper's daughter was taken by the Mist three winters back, and an old woman read the omens at Midsummer. The villagers will not let her step back onto the bank. Her husband-to-be is on the bank watching, holding her ring in his closed fist; he is the cooper's son, and he asked for her name to be drawn. If she goes under, three Bog men will rise around the punt and the omen will be answered. She will not call out. She is asking the adventurers, with her eyes only, to push her under faster.
 
-- **Terrain Types:** Marshlands, Quagmire, Dark Forest
+- **Terrain Types:** Marshlands, Village
 
-> _Suddenly something rises from one of the ponds: a phantom of death, covered in moss and moldered leaves, stretches out its gnarled arms and starts moving towards you through the treacherous terrain._
+#### Random Encounter: the Greedy Drowned
 
-The adventurers are attacked by D3 Bog men who are drawn to the group’s artifacts and treasures. The creatures will primarily attack the adventurer whom the GM believes to be carrying the largest amount of treasure in their knapsack. The terrain is full of bottomless holes, and each round of combat the adventurers must succeed with a MOVE roll. On failure they sink into the freezing water and start taking damage as per the rules for drowning on page 113 of the _Player’s Handbook_.
+> _A peat-cutter waist-deep in the cut is holding a sword by the hilt with both hands. He cannot let go._
+
+The sword is a real artifact, an elven blade that some chieftain dropped here three centuries ago, lodged hilt-up in the peat. The cutter, an old widower, saw the silver and grabbed it. The bog has begun to take him. Black roots crawl up his arms, and a Bog man stands waist-deep behind him. The Bog man is willing to trade. If the adventurers throw two artifacts of equal weight into the bog, the man may be released. If they pull, the Bog man drags both man and sword down. If they cut the man's hands free of the sword at the wrist, the Bog man will accept the loss and let the rest go.
+
+- **Terrain Types:** Marshlands, Quagmire
+
+> **RESOURCES**
+>
+> An adventurer with the ALCHEMIST talent, with a HEALING roll, scrapes one handful of bog-tar from the body and one knot of bog-reed from where the heart should be per ⚔️ rolled. A successful EXPLORE of the spot where a Bog man rose recovers one sacrificial coin, scaled and green from age.
+>
+> **Bog-tar:** A black resin that smells of brackish smoke. Smeared on a weapon's edge before a fight, it lets the weapon strike Bog men, ghosts, and other partially immaterial undead for one stretch as if it were a magic weapon. The smear washes off in clean water.
+>
+> **Bog-reed knot:** Chewed slow before going under cold or foul water, it lets the chewer hold their breath for one full stretch and ignore the COLD condition for that time. The chewer comes up coughing peat for a Quarter Day after.
+>
+> **Sacrificial coin:** A coin already given to the gods. Cast back into a still body of water with the giver's name spoken aloud, it turns the Bog men of that water aside from them for one Quarter Day. The water keeps the coin. The next person who takes it from the water without giving a name of their own is taken in their stead.
 
 **Adventure Site:** Village
 
@@ -304,25 +340,31 @@ The aggressive dread raptor is a giant carnivorous bird that is mostly found in 
 | 2   | Dread raptors are ravenous, man-eating beasts, but they prefer horse meat, and the Aslenes regard them as the archenemy of horses and a toughening ordeal for young riders. |
 | 3   | Dread raptors are swift and effective killers, but dumber than giants and easily tricked by clever adventurers.                                                             |
 
-#### Random Encounter: Feathery Ambush
+#### Random Encounter: the Rider's Naming
 
-> _The first thing you notice is that something is causing a curious tremor in the ground under your feet – not just once, but over and over and over. Then you see a swirling cloud of smoke suddenly emerging a bit further out in the open, heath- like landscape. Something large and heavy is moving out there – and whatever it is, it is most definitely headed your way._
+> _A boy of fourteen sits cross-legged in the dust beside a dead foal. He has been there since dawn. He is unarmed and he is smiling._
 
-D3 dread raptors are dashing across the plains to sink their beaks into the adventurers’ flesh. They come running at incredible speed and throw themselves at the adventurers D3 rounds after they notice the cloud of smoke. The beasts are bloodcrazed and will fight fiercely to the last drop of blood – but they can be tricked or lured away from the area as per the rules below. One way of achieving this is to abandon one’s horses and simply run away while the dread raptors satisfy their horse killing instincts (requires a successful LORE roll). Another option is for the group to split up and confuse the unintelligent killer birds, for example by running in different directions.
+The foal was his. He hobbled it himself, two days ago, in front of a dread raptor's nest east of the spring. The bird ate the foal whole this morning, vomited the bones, and walked back to the nest. The boy is from the Galdane clan and is here to take three feathers from the bird's tail and a name. He cannot leave with the adventurers if they come, cannot accept their bow, cannot let them kill the bird. Killing the bird makes him a man without a name, and a Galdane without a name does not ride. The bird will scent the adventurers' horses within the stretch and will come for them, not the boy. He will watch.
 
-**Terrain Types:** Plains, Hills
+- **Terrain Types:** Plains, Hills
 
-#### Random Encounter: the Horse Farmers’ Revenge
+#### Random Encounter: the Tethered Horse
 
-> _A hysterical bellow echoes across the landscape. It is coming from a group of trees a bit further away, an inconspicuous grove in the middle of the heath. The bellowing continues with increasing intensity. It is difficult to tell whether it is the sound of a brute beast or a thinking being, but there is no doubt that something is suffering out there – scared out of its wits, to the very core of its being._
+> _A young horse stands tethered to a single oak in the middle of the heath, screaming. There is no smoke. There is no farmer. There is only the rope._
 
-The bellowing creature is a terrified young horse that has been tethered to a tree at the edge of the grove, to serve as bait in a trap set by some farmers from a nearby settlement. The purpose is to stop a stubborn dread raptor that has devoured several of their horses. If they move closer, the adventurers will see the dread raptor – it too is attracted by the noise made by the poor horse. Moments later a few arrows are fired from some bushes behind the adventurers. The arrows are clearly aimed at the killer bird, but simply bounce off its dense coat of feathers. The dread raptor turns furiously to the adventurers and attacks them with vengeful rage. If the combat proves too difficult, the adventurers can be assisted by the D6 farmers armed with short bows (MARKSMANSHIP 2) who are hiding in the bushes.
+Farmers from a settlement two valleys over set this trap three sundowns ago for the dread raptor that ate their breeding stock. The farmers were eaten yesterday, and their bodies are in the bushes the adventurers will pass through to reach the horse. The horse has not stopped screaming since first light. The dread raptor is half a stretch off and closing. Cutting the rope releases the horse to bolt; the bird will run it down within two stretches and the adventurers can ride away while it feeds. Leaving the horse tethered means the bird will eat it in front of them and then come for them, slow and full. The horse is a Galdane warmare, branded with the running flame of Horn. Selling the brand to the wrong village hangs them.
 
 - **Terrain Types:** Plains, Hills, Forest
 
 > **RESOURCES**
 >
-> Arrows with fletching from the plumage of a dread raptor give the archer modification +1 (+2 against horses and mounted adversaries). An adventurer with the BOWYER talent can extract enough feathers for D6 arrows from a slain dread raptor.
+> An adventurer with the ALCHEMIST talent, with a HEALING roll, recovers one tail-feather and one horn-shard of beak from a slain dread raptor per ⚔️ rolled, plus one beating of the heart per kill if cut while still warm.
+>
+> **Tail-feather:** Fletched onto an arrow by a BOWYER without a CRAFTING roll, the arrow gains a D8 Artifact Die against any mounted target or any horse, and ignores 1 Armor Rating. One feather, one arrow. The Aslenes know what they look like and what their loss costs.
+>
+> **Horn-beak:** A shard struck from the beak's edge holds a thirst that does not die with the bird. Bound to the haft of a hand axe or hatchet, it lets the wielder reroll any one attack die in a fight against a horse, hippogriff, or gryphon. After the fight, the wielder is THIRSTY for one Quarter Day.
+>
+> **Heart, eaten warm:** The young Galdane rite. The eater takes one D8 Artifact Die on their next SURVIVAL or RIDE roll and gains the rider name from the bird that fed them. Eating it cold is the act of a butcher and does nothing.
 
 ### Gatekeeper
 
@@ -355,27 +397,31 @@ Gatekeepers are extradimensional creatures who for reasons unknown have come to 
 | 2   | Gatekeepers watch over boundaries and passages, but those who solves their riddles are allowed to pass.                                                     |
 | 3   | Gatekeepers possess interdimensional powers that can cause mortal minds to dissolve, but the damage from their attacks can be minimized with druidic magic. |
 
-#### Random Encounter: Tears in Creation
+#### Random Encounter: the Wrong Side of the Door
 
-> _A bloodcurdling scream echoes through the landscape. It builds into a long, anguished crescendo – there is no doubt that it is coming from somewhere nearby. You approach cautiously through the terrain. The scream is terrible indeed, full of anguish and unspeakable torment, and yet you are not prepared for the horrific sight that meets your eyes. A grown man in armor sitting on the ground, crying like a child. He is surrounded by torn bodies, and in the middle of the macabre mess – in front of what looks like a maelstrom of whirling air – sits a foul demon with great wings and bloody fangs._
+> _A weeping man in chainmail sits among nine of his sworn brothers, unhurt. The portal behind him spins slow. The gatekeeper sits across from him, watching, also weeping._
 
-An adventurer who succeeds with a LORE roll realizes that the maelstromlike phenomenon is a magic portal. The GM decides where it leads, but it could be the Vale of the Dead ( _Gamemaster’s Guide_, page 231) or some other suitable adventure site connected to an ongoing campaign. But to pass through the portal, the adventurers must first deal with the gatekeeper. It notices them as soon as they set foot in the clearing. At first it will try to communicate with the adventurers through telepathy, but they will only be allowed through the portal if they pass the telepathic challenge.
+Sir Alvund of the Iron Lock came through with his nine knights yesterday at dusk. They answered the riddle and went through. The Vale of the Dead does not want them. They came back, and his brothers are dead. The gatekeeper is bound to keep him here until he answers a different riddle, the one that lets him go home, and Alvund cannot solve it because he no longer remembers what home was. He will offer the adventurers his sword, his name, and the Iron Lock's seal if they will solve the riddle for him so the gatekeeper may release him. He has been weeping since dawn because the gatekeeper showed him, in pictures, that on the other side of his riddle is the man he was when he came over the wall thirty years ago, and he has only this one chance to walk back into that man.
 
-- **Terrain Types:** Plains, Forest, Dark Forest, Hills, Mountains, Marshlands, Ruins
+- **Terrain Types:** Plains, Forest, Hills, Ruins
 
-#### Random Encounter: This Far, but No Further!
+#### Random Encounter: the Pass That Was Open Yesterday
 
-> _You move slowly up the narrow path winding its way along the rock face towards the mountain pass. The air is thin and hard to breathe, and a single misstep might cost you your life – the precipice_
->
-> _plunges hundreds of meters down into a foggy haze. But you are close now. You can glimpse the passage that opens between the cliffs in front of you. Alas, there is something else as well. Something with huge black wings, waiting just where the path makes a turn and continues into the pass. Something you will clearly have to face in order to move on._
+> _A merchant train stands halted on the cliff path. Eight wagons, forty mules, three children sleeping under the lead axle. The pass beyond is the only way out before snow._
 
-The road ahead is blocked by a gatekeeper who has made the mountain pass its territory. It starts to move threateningly and aggressively – whipping its tail, beating its wings – if the adventures go closer. It stares at them with its black eyes, clearly perceiving their presence as a threat. When the adventurers come into NEAR range they are faced with the gatekeeper’s telepathic challenge. If they succeed, the gatekeeper reluctantly lets them pass, but if they fail, the beast attacks in a frenzied rage.
+The gatekeeper arrived in the pass at first light and is bound to it now. Behind the train, two days back, an avalanche has closed the lower road. The pass must be crossed before the next snowfall or the children will die of cold under the wagons. The merchant has been at the gatekeeper's riddle since first light and is no nearer the answer; his teamster's eldest is sitting beside him crying because the merchant is now down to the wits of a frightened old man. The riddle takes the answer from the strongest mind that tries it. If the adventurers' best mind tries and fails, that adventurer loses one point of permanent Wits to the trial. If they walk past, the train and the children remain. The gatekeeper cannot leave the pass. The cold can.
 
 - **Terrain Types:** Mountains
 
 > **RESOURCES**
 >
-> Gatekeepers are eerily perceptive beasts that can see right through the veils and lies of the world. Their eyes can therefore be used as a kind of truthseeing artifact that always gives its bearer a D10 artifact die when using the INSIGHT skill.
+> A gatekeeper that dissolves more than a SHORT range from its bound portal leaves nothing behind. A gatekeeper killed at its portal yields, for an ALCHEMIST with a HEALING roll, one tear of black ichor and one fold of wing-leather per ⚔️ rolled, plus the portal-stone the beast was bound to.
+>
+> **Black ichor:** The blood of the void. One drop poured onto a cooling forge-edge and worked into a blade by a SMITH binds the blade against demons; the blade strikes Misgrown and demon-flesh as if magic, and against a true demon adds a D8 Artifact Die. Used on a sword that has already drunk human blood, the sword refuses the binding and rusts through within a Quarter Day.
+>
+> **Wing-leather:** A patch of demon-skin no larger than a man's hand. Sewn under a hood by a TANNER, it returns one Willpower Point to the wearer the first time they pass through any threshold (a doorway, a ford, a gate) on each Quarter Day. The wearer dreams the gatekeeper's riddle every night until the patch is given away.
+>
+> **Portal-stone:** The stone or sill the gatekeeper was bound to. Carried, it can be used once to demand passage at any other portal in the Forbidden Lands, magic or mundane: the bearer states the destination they wish, and the stone splits open as the door opens. The stone is then dust. Rust Brothers know the shape of these stones and will hunt the bearer.
 
 ### Giant Specter
 
@@ -413,27 +459,31 @@ Giant specters are the departed souls of ancient titans, who have a strange conn
 | 2   | Giant specters have some connection to the elves and seem drawn to their settlements in the great forests.                            |
 | 3   | Giant specters are under the infuence of the Red Wanderer and extremely dangerous to encounter when the star burns bright in the sky. |
 
-#### Random Encounter: Sighs in the Night
+#### Random Encounter: the Stargazer's Witness
 
-> _Something is clearly moving out there, in the deep darkness among the trees. Something big and heavy is snapping the sky- high pine trees as if they were twigs or the bones of a freshly slaughtered lamb. And it is getting closer. Fast. A tree falls to the ground right next to you, and you hear a hollow sigh – heavy with boundless sorrow. An unholy light glows through the trees and an enormous shadow, blacker than the night itself, comes stomping towards you._
+> _An old man with a brass tube under his arm sits on a stump in the dark forest, drawing the same star on the same scrap of parchment, again and again. The trees behind him have been pushed apart, not cut._
 
-The adventurers have attracted the attention of a giant specter that is haunting these parts of the woods. If there are humans in the group, these will be of particular interest to the great wraith. The GM rolls a die (as described below) to determine the specter’s state of mind: on a 1–2 it is possible to communicate with the giant specter, who speaks in an ancient but understandable version of the human tongue. In that case the GM can let the specter recount a legend, perhaps one that suggests where the adventurers can find a suitable elven artifact such as Clay’s Rosary (see the _Game master’s Guide_, page 132).
+The man is Brother Petrek, a former lay-priest of the Iron Guard who left the order to study the heavens. The Red Wanderer killed his apprentice three nights ago when a giant specter came down out of the trees and the boy stepped between Petrek and it. The specter let Petrek live so he could carry the answer home: the Red Wanderer is moving toward conjunction, and when it burns bright next month every one of his calculations will be ash. The specter is at MEDIUM range, watching. It has not moved in three days. If Petrek lives until the conjunction, the specter will kill him. Petrek will refuse to leave; his apprentice's body is in the ground at his feet, and he is finishing the work the boy died for. The adventurers can carry him by force, kill the specter (it returns at the next Quarter Day), or sit with him and watch the sky.
 
-**Terrain Types:** Forest, Dark Forest
+- **Terrain Types:** Forest, Dark Forest
 
-#### Event: the Vengeance of the Gods
+#### Random Encounter: the Elf Who Will Not Speak
 
-> _“Ladies and gentlemen, I’ve found the truth – the power rests with the stars! It is the Red Wanderer that protects the integrity of the cosmic structures!” A heavily bearded man in a fluttering robe bursts into the inn. One hand is clutching a long brass pipe, the other a scroll of parchment. “Don’t you see – it is the red …” continues the stranger, before being interrupted by a deafening crash. Much of the_
->
-> _roof is suddenly torn off, leaving behind a gaping hole. Something terrible is standing outside – two burning eyes are staring down into the inn from swirling shadows and rotting flesh._
+> _An elf sits on the moss with her back against a standing stone, naked from the waist up, drawing on her own skin with a piece of charred wood. Beside her, half-buried in the moss, is a giant skull twice the size of a man._
 
-The man is a studious stargazer who through diligent and persistent research has incurred the wrath of higher powers. Before the eyes of the adventurers and other guests at the inn, he now finds himself face to face with his nemesis: a giant specter that has come to silence him forever and protect the integrity of the cosmic structures. If the adventurers decide to defend the stargazer, they must face a giant specter in all its power (see roll result 5–6 on page 33). If they instead choose to stay out of it, the GM makes a roll on the table below to determine the specter’s state of mind.
+The elf is Aelainne of the Long Watch. She has been sitting at this skull since the Bloodmist lifted, drawing on her arms what the giant specter inside the skull tells her at sundown each day. She speaks no human tongue. The skull is not a relic; the specter is bound to it and will rise from it tonight when the Red Wanderer clears the ridge. Aelainne is the only living thing the specter will not kill, because she is listening, and what she has been told is the location of an elven artifact buried somewhere on the campaign map (the GM places it on a hex of their choice, three days' travel away). The drawing is the map. Aelainne will not give it. She will not stop the specter from killing the adventurers when it rises. If the adventurers kill her, the drawing on her body becomes legible to the reader at the cost of one permanent point of Empathy.
 
-**Adventure Site:** Village
+- **Terrain Types:** Forest, Dark Forest, Hills
 
 > **RESOURCES**
 >
-> The giant specter’s essence contains stardust, which can be extracted from its remains by a sorcerous adventurer. This mighty substance, which manifests itself as a sparking powder, adds a D12 Artifact Die to all forms of healing magic as well as the HEALING skill. Each vanquished giant specter is enough for D3 doses.
+> A vanquished giant specter dissolves into a sparking residue. An adventurer with the ALCHEMIST or DRUID talent, with a HEALING roll made before the body fades, gathers one fold of star-ash and one ribbon of bound-shadow per ⚔️ rolled, plus the specter's heart-stone if the killing blow was struck while the Red Wanderer was visible.
+>
+> **Star-ash:** A pinch of glittering grey dust. Brewed by an Alchemist with one HERBS into a draught that, drunk before HEALING HANDS or any other healing magic is cast, adds a D12 Artifact Die to the healing roll. The drinker dreams of the Red Wanderer that night and is HUNGRY at dawn.
+>
+> **Bound-shadow:** A black ribbon as long as a man's arm. Wrapped around a sorcerer's wrist before casting PURGE UNDEAD, the spell is cast at one Power Level higher without spending the Willpower for it. The ribbon burns to nothing on use. The undead the spell touches do not return.
+>
+> **Heart-stone:** A red pebble warm to the touch. Held during a night under the open sky, it lets the holder ask one true question of the heavens and receive a one-line answer in dream. The Red Wanderer takes one permanent point of Wits in payment, taken at sunrise. The Iron Guard burns those known to carry one.
 
 ### Giant Spider
 
@@ -518,35 +568,33 @@ This crumbled and overgrown temple is dedicated to an incarnation of the Nightwa
 | 5   | **WEB ATTACK!** The elder female’s disgustingly numerous eyes focus on the adventurer with the highest STRENGTH – or whoever the GM considers to have the bulkiest body. A moment later the giant spider spews a cloud of slimy web over the adventurer. The victim must make a MOVE roll (not an action). On failure the victim is caught in the web and unable to move. Breaking free requires a successful MIGHT roll (long action). The slimy threads form a cocoon around the adventurer, who takes 2 points of damage for every round they spend encapsulated in the toxic substance. |
 | 6   | **TELEPATHIC DEATH BLOW!** The adventurers’ minds are filled with evil whispers that grow louder and louder in a cacophony of death screams. At the same time they have visions of burning battlefields where gods and spiders war against demons on mountains of humanoid skulls and bones. All adventurers within NEAR range suffer a fear attack with nine Base Dice.                                                                                                                                                                                                                    |
 
-#### Random Encounter: a Teeming Candlemas
+#### Random Encounter: the Spider Wife
 
-> _The night falls quickly in the forest and soon the area is submerged in deep, almost impenetrable darkness. Suddenly you see something glittering. It is a captivating glow that spreads through the trees in the pitch- black forest, twinkling like a thousand fallen stars. But the lights are coming straight at you – and the next moment an aggressive mass of hairy spider legs and shiny black eyes swarms into your camp from all directions._
+> _A barefoot woman in a clean apron stands at the door of a turf-roofed cottage, holding a wooden bowl of milk for an audience of nine spider hatchlings the size of cats._
 
-The adventurers are attacked by a ravenous pack of giant spider hatchlings, attracted by the light of their torches and the irresistible scent of living flesh. They fight to the last mandible, but are focused on quick and simple solutions. They will therefore target the adventurer with the lowest STRENGTH.
+The woman is Hela Karsdotter, widow, of a holding two valleys back. The brood is the offspring of an elder female that took her husband on the road from the spring market and left her his teeth and his ring. She has been raising the brood for two summers. The hatchlings sleep in the rafters and bring her hares and once a child from the forest road that she buried decent. She has fed eight winters' worth of grain to keep them tame. They obey her voice. She will not let the adventurers kill them. The elder female mother is a day's travel away in the deep forest and has not returned. If the adventurers explain that the mother is hunting them now, Hela will offer to call the brood off the trail in exchange for one of the adventurers' horses and a blood oath that the brood will be left alone after. The hatchlings cannot be tamed by anyone but Hela, and after her death they will revert. She is forty.
 
-- **Terrain Types:** Forest, Dark Forest
+- **Terrain Types:** Forest, Hills
 
-#### Random Encounter: the Groaning Cocoon
+#### Random Encounter: the Spinner's Bargain
 
-> _A desperate cry for help echoes through the forest, followed by anguished screams and loud gasps. The sounds are coming from somewhere nearby. You rush through the tall trees and are soon met by a strange sight: a cocoon the size of a grown man is dangling from the bough of a tree. It is hanging barely a meter above the ground, and as you draw near you can hear soft sobs from inside the mysterious cocoon._
+> _A peat road through the dark forest. A clearing. Twenty cocoons hang from the boughs at head-height, all of them human-sized, all of them softly breathing._
 
-An adventurer who succeeds with a SURVIVAL roll notices that the dirt around the cocoon shows clear marks from one or several clawed beasts with a great number of legs. The adventurer also realizes that the cocoon might be the bait for some form of trap. Unfortunately, that is absolutely correct. Lurking among the trees are two giant spiders, both of them wellfed males, awaiting the right moment for an ambush. That moment may come if the adventurers try to free the battered but welltodo merchant whimpering inside the grotesque cocoon.
+The cocoons are alive. The elder female that spun them is the one that has kept the village of Otterleg fed for nine winters: each spring the village offers her three of their condemned in exchange for a bucket of her venom, which the village alchemist brews into Porridge of Prophecy and sells along the trade road. The spider has eaten her side of the bargain only once, the year the village offered a child instead of a thief. She is in her web above. She remembers the smell of the alchemist who feeds her. The cocoons are not yet drained; she keeps them alive on a slow drip, draining them across the year. Eight of them are condemned thieves and murderers. Six of them are the rivals of the alderman who chose them. Three of them are the alderman's enemies' children. Three of them are villagers who saw too much and were offered to the spider on a quiet night. The cocoons cannot be told apart. The villagers will be on the road behind the adventurers within the stretch.
 
-- **Terrain Types:** Forest, Dark Forest, Hills
-
-#### Random Encounter: the Whispers of the Spider Woman
-
-> _A strange sight emerges among the trees in front of you: a huge uprooted tree, covered in thick, white tufts and threads that hang in sheets from the sprawling roots. The ground to the right has been torn up and the tree seems to serve as a pathway down to some form of burrow. With a shudder you realize that the white stuff fluttering in the wind is an enormous spider web, and that the remains of humanoid victims are sticking out here and there. And then you hear it – a female voice, whispering threateningly in an ancient tongue, appears to be coming from inside your heads._
-
-The unfortunate adventurers have stepped right onto the underground lair of an ancient giant spider. The female beast is outside the lair and comes crawling through the undergrowth behind the adventurers. Too huge and clumsy to take them by surprise, she instead tries to distract the adventurers with her telepathic ability (see stat block) before she attacks.
-
-Adventurers who search through the grotesque number of bones inside the lair can find D3 Valuable Finds.
-
-**Terrain Types:** Forest, Dark Forest
+- **Terrain Types:** Forest, Dark Forest, Marshlands
 
 > **RESOURCES**
 >
->The giant spider’s mandibles are composed of an ancient and durable material. Mandibles from a swarm of hatchlings can be used instead of IRON when crafting arrowheads ( _Player’s Handbook_, page 182). Each point of STRENGTH the swarm possesses gives ½ unit of IRON. A mandible from an adult male can be used instead of ½ unit of IRON when crafting a knife or dagger, and a mandible from an elder female can be used instead of 1 unit of IRON when crafting a sword. An arrowhead or weapon made from giant spider mandibles has +1 Weapon Damage.
+> An adventurer with the ALCHEMIST talent, with a HEALING roll, draws one phial of venom and one skein of black silk per ⚔️ rolled from a slain adult male or elder female. A swarm of hatchlings yields one mandible-bundle per point of STRENGTH the swarm possessed. The web of an elder female cut down whole and folded yields one cocoon-bolt regardless of dice rolled.
+>
+> **Giant spider's venom (canonical):** One phial is the bound alchemical ingredient for **Porridge of Prophecy** (see _Alchemical Potions_, _Gamemaster Tools_). A second use: one drop on a blade's edge holds a paralyzing poison of Potency 10 for one strike (lethal Potency 12 from an elder female). The Congregation of the Serpent will buy elder-female venom for double weight in silver and ask no questions about its origin.
+>
+> **Black silk:** Spun, twisted, and dried, a skein makes one bowstring that does not part in rain or fire and adds a D8 Artifact Die to one shot per Quarter Day. Worked by a TANNER into the lining of a cloak, it lets the wearer ignore the first damage from any falling or grappling attack each fight.
+>
+> **Cocoon-bolt:** A bolt of folded spider-cloth the weight of a child, white and faintly warm. Wrapped around a wounded adventurer at half their max HP or below, it heals D3 points of Strength over one stretch and ignores the COLD condition. The wrapped adventurer cannot speak, cannot fight, and dreams of the spider that spun it. A second use within the same Quarter Day kills.
+>
+> **Mandibles:** A mandible from a hatchling swarm gives ½ unit of IRON for arrowheads. An adult male mandible gives ½ unit for a knife or dagger. An elder female mandible gives 1 unit for a sword. Any weapon forged from a mandible takes +1 Weapon Damage and rusts only in salt water.
 
 ### Greater Golem
 
@@ -578,27 +626,31 @@ A greater golem is a humanoid and often very roughly cut creature of stone, insi
 | 2 | The dwarves who cut greater golems from the living rock bound a chained soul into each one, and marked the place of binding for any who knew where to look. |
 | 3 | An old dwarven word of binding stands graven on every greater golem like a brand of shame. Where the binding is set, the binding can also be undone — but only by one who can read what the dwarves carved there. |
 
-#### Random Encounter: the End of the Road
+#### Random Encounter: the Bound Soul
 
-> _The old sunken lane plows deeper and deeper into the rocky landscape. You have wandered this trail of ancient civilizations for what feels like forever. It has been a long time since you passed the last milestone. What little remains of the paving blocks is almost impossible to see, and the increasingly high roadsides suggest that the sunken lane is slowly turning into a cleft. Soon the road ends at a simple opening in the mountain, about the height of two men and twice as wide, surrounded by dwarven runes that are hard to decipher._
+> _The greater golem stands at the lip of the dwarven crypt, motionless, as it has stood for nine hundred years. A young dwarf sits cross-legged at its feet, reading from a slate held on her knees._
 
-The adventurers find themselves on a detour through the Gordian road system that was never intended for other kin. The cave in front of them is a dwarven crypt. A successful LORE roll makes it possible to interpret the runes, which tell of the proud stone singers, engineers, and master smiths who were once responsible for maintaining the roads in these parts. Although their souls have passed on, their bones still rest in this sacred place. The crypt is guarded by a greater golem, who comes alive the moment someone enters the cave. It will not stop until all intruders have been slain, but cannot move more than two zones away from the opening. Allow one roll for Valuable Finds in the cave if the adventurers search the crypt.
+The dwarf is Thrudd Ironvein, last of a clan that mined this slope before the Bloodmist. She has come back, alone, to read the binding-rune on the golem's brow because the soul bound inside is her great-grandmother. The binding can be undone here, today, with the words on the slate; the golem will then collapse into rock and the great-grandmother's soul will pass on. The crypt behind it holds the bones and gold of three centuries of Ironveins. The moment Thrudd reads the words, the crypt is unguarded forever, and the surface families have wanted in for a long time. Thrudd cannot read the rune through tears. She will ask the adventurers to read it for her so she can stand witness without breaking. After, she will ask them to leave the crypt unopened. The Iron Guard will be along the road within two days; word travels.
 
-**Terrain Types:** Ruins
+- **Terrain Types:** Mountains, Hills, Ruins
 
-#### Random Encounter: the Dwelver Dilemma
+#### Random Encounter: the Loaned Stone
 
-> _With a terrible rumbling and a stench straight from the realm of the dead, a rift opens in the ground some twenty meters in front of you. A dozen unsightly creatures come rushing up from the depths. They look vaguely dwarven, but pale as maggots, staring at you with bulging and likely half- blind eyes. They surround you in no time, chattering in a tongue you do not understand, but they do not seem hostile. The same cannot be said of the colossal stone creature slowly rising from the abyss behind them._
+> _Three Rust Brothers have set up camp in a road-cut. One of them is hammering a freshly-graven rune onto the brow of a greater golem stretched out on the gravel like a slab of granite._
 
-A cohort of dwelvers from the lower levels of the World Sphere are making a brief appearance in the sun. They are attracted by the smell of a rare type of rock that one of the adventurers is unknowingly carrying in the mud under her left boot. Unable to speak in the thin air of the overworld, they gesture wildly in the hope of buying the boot in question. An adventurer
+The brothers stripped the binding-rune off this golem two days ago in a crypt north of here, and they are now binding the soul of one of their own dying brothers into the stone. Brother Aelmar is sixty-three and has the wasting cough; he asked for the binding so he could keep walking. The work is half-done. If left to finish, the brothers will walk away with a fresh greater golem under their command and the wasted body of Aelmar buried under the road. If interrupted at the wrong moment, the binding takes a different soul; the nearest soul in range goes into the stone, and that means an adventurer. The Rust Brothers know the timing. They will not bargain. They will buy the adventurers' silence with one of three things: an artifact one of them carries, a name on the trade road, or a vial of dragon's blood from their stores. They will hunt anyone who refuses the trade.
 
-who succeeds with a MANIPULATION roll can use sign language to make the dwelvers pay one gold coin’s worth of gold dust. If the adventurer refuses to part with the boot – or if the group behaves in a clearly hostile manner – the dwelvers will set their greater golem on them to take the rock by force.
-
-- **Terrain Types:** Plains, Forest, Dark Forest, Hills, Mountains, Ruins
+- **Terrain Types:** Plains, Hills, Mountains, Ruins
 
 > **RESOURCES**
 >
-> Greater golems are created through ancient magic, and from each defeated creature a sorcerous adventurer can extract D6 doses of a magic powder that increases the Power Level of a spell of their choice by +1.
+> A greater golem reduced to rubble yields, for an ALCHEMIST or DRUID with a HEALING roll, one fold of binding-dust per ⚔️ rolled, plus the binding-rune chisel from the brow if recovered before the rubble cools. The slate or stele the golem was bound to is recovered intact regardless of dice rolled.
+>
+> **Binding-dust:** A grey powder that smells of old smoke. One fold sprinkled across the threshold of a casting circle adds one Power Level to the next spell cast within the circle, without spending the Willpower for it. A second fold within the same Quarter Day cracks the casting circle and the spell takes the caster instead.
+>
+> **Binding-rune chisel:** A dwarven chisel three fingers long, the rune cut into its head. With a CRAFTING roll and one full day, an adventurer who can read dwarven runes uses the chisel to bind the soul of a freshly-dying creature into a worked stone of at least man-weight. The bound stone obeys the binder for one year and a day; after, it serves the soul's nearest kin if any survive. The Iron Guard, the Rust Brothers, and the Vault of Iron will all hunt for one of these chisels.
+>
+> **Slate or stele:** The dwarven slab the golem was carved from. Built into a stronghold wall, it gives the wall +1 Stability and refuses sorcerous demolition. Built into the floor of a chapel, it makes any binding-rite cast there one Power Level stronger and binds the caster's soul to that stone for the duration of the rite. Dwarves will pay for the slab's return in worked silver, weight for weight.
 
 ### Imp
 
@@ -630,25 +682,31 @@ Imps are magical beings of unknown origins – small, humanoid creatures that mo
 | 2 | Imps gather where magic has spilled loose; sorcerers who survived them speak of the smell of cold-worked iron and the murmur of certain old prayers turning the things back. |
 | 3 | Imps will scatter from honest worked iron and from any true sign of the Protector god, in any of his old forms. Against a sorcerer alone, they grow bold. |
 
-#### Random Encounter: the Unhappy Donkey
+#### Random Encounter: the Sorcerer Who Cannot Stop
 
-> _A sad bray is heard in the distance. It is rapidly coming closer, accompanied by the sound of snapping branches and the panting of an agitated animal. Some form of large beast is clearly rushing through the vegetation – coming right at you! The source of the noise soon reveals itself: a grotesque creature with a human body and the head of a donkey, lunging at you with a shrill and hysteric bray._
+> _An old sorcerer in road-worn robes sits cross-legged at the centre of a stone circle, casting a low spell on a thin wisp of smoke. Twelve imps wheel above him in a slow ring, waiting._
 
-The donkeyheaded creature is a cursed blood mage on the run from two malevolent imps. Because of the donkey’s head, he cannot speak nor use magic (see monster attack #3). Instead, he tries to hide behind the adventurers while braying and gesturing heavily. The imps come flying in hot pursuit – they have no intention of letting their prey escape and will fight to the death unless the adventurers willingly hand over the terrified donkey creature.
+The sorcerer is Master Ottenbar, formerly of the school at Vaesen. The thin spell is a binding-spell on his own daughter, who lies on the slab beside him, eight years old, dying of a wasting fever. The binding will lock her soul to her body and keep her alive. He has been casting since dawn, and every time the spell rises the imps catch a thread of it and the spell weakens. He cannot stop. The imps cannot leave. The cycle has gone six hours and the daughter has another three. The imps will tear apart any sorcerer who joins the circle. They will not touch the adventurers if they keep no spells on them. If a non-sorcerer adventurer carries the daughter out of the circle, the binding breaks and she dies in their arms within the stretch. If they kill an imp, the rest scatter for one Quarter Day and Ottenbar finishes the binding; the daughter lives, the spell takes her hair and her voice forever, and Ottenbar offers the adventurers his name and his school's seal in payment.
 
-- **Terrain Types:** Plains, Forest, Dark Forest, Hills, Ruins
+- **Terrain Types:** Plains, Forest, Hills, Ruins
 
-#### Random Encounter: a Questionable Experiment
+#### Random Encounter: the Iron Cage
 
-> _A covered wagon, pulled by massive oxen, is bumping along the narrow forest road. Sitting in the driver’s seat is a tall man with a slouch hat and a whip. He nods grimly in greetings as the wagon comes closer. At the same time, you hear a moaning sound that seems to be coming from inside the vehicle, and for a brief moment you see a mysterious hooded figure through a hole in the canvas. The figure is leaning over a strange cage – and before the wagon rolls by you see something moving in the cage._
+> _A cage of cold-forged iron sits abandoned beside a forest path, the bars half-pried open from the inside. A single imp lies curled on the moss beside it, both wings broken, watching the adventurers with old eyes._
 
-Inside the wagon, the necromancer Volterra is trying to drain a captured imp of magical energy. The suffering creature is completely perforated by thick needles connected to strange vials that are slowly filled with black secretion. If the adventurers stop the questionable experiment and save the poor beast’s life, it immediately becomes the familiar of the group’s most skilled sorcerer. If there is no sorcerer, it binds itself to the adventurer with the highest WITS instead. (Use the NPC tables on pages 183–184 of the _Game master’s Guide_ for Volterra and her bodyguard/soldier.)
+The imp is what is left of Master Nicodemus's familiar, the one the song speaks of. Nicodemus is dead twenty years; his apprentice took the imp and used it as a battery until the apprentice died last winter. The cage held the imp in dormancy. The lock came undone at first thaw. The imp's wings are broken from the cage door. The imp will not flee; it has been bound so long it cannot remember how. It will, in clear human speech, offer to bind itself as familiar to whichever of the adventurers has the highest Wits, granting the +1 Power Level on every spell. The first time that adventurer fails a spell roll, the imp eats the failed spell and the caster's voice with it: the caster takes one permanent point of Empathy in damage and cannot speak for one Quarter Day. The imp will not warn them. The next sorcerer the imp serves will not know it remembers the last one.
 
 - **Terrain Types:** Forest, Dark Forest, Hills
 
 > **RESOURCES**
 >
-> Imps dissolve immediately upon death, but if trapped in an iron cage or bound as a familiar (requires an opposed roll for MANIPULATION against the imp’s WITS), they can be used as external power sources by spellcasting adventurers. A sorcerer with a bound imp by their side automatically receives +1 Power Level on all spells.
+> An imp killed by sorcery dissolves to nothing; an imp killed by honest worked iron leaves the body. An ALCHEMIST with a HEALING roll draws one drop of imp-bile and one scrap of wing-leather per ⚔️ rolled. The iron cage that held an imp is recovered intact regardless of dice rolled.
+>
+> **Imp-bile:** A black drop that smells of cold iron. One drop in a sorcerer's drink before casting lets the sorcerer ignore the next 1 they roll on the attribute dice; the bile takes the failure for them. A second use within the same Quarter Day catches the sorcerer's tongue: the next spell is silent and miscasts on the spot.
+>
+> **Wing-leather:** A patch of demon-skin no larger than a thumb. Stitched into a sorcerer's hood by a TANNER, it lets the sorcerer cast one spell at +1 Power Level per Quarter Day without spending the extra Willpower. Each use leaves a small black burn on the wearer's scalp; nine burns and the wearer's hair will not grow back.
+>
+> **Iron cage:** A cage of cold-forged iron, four hands wide, the bars marked with old runes of containment. A live imp held in the cage by a sorcerer with a successful MANIPULATION roll (opposed by the imp's Wits) becomes a bound familiar that grants the bearer +1 Power Level on all spells. The cage rusts to powder if any spell is cast inside it. Holy figures of the Congregation of the Serpent, the Raven Church, or the Rust Brothers will burn anyone known to carry one, and the Iron Guard will send hounds.
 
 ### Iron Dragon
 
@@ -681,25 +739,33 @@ Iron dragons are huge, wingless dragons that live deep underground. Unlike their
 | 2   | Dwarven smiths who survived an iron dragon's coming describe its hide as forge-plate that turns nearly any blow, save where the long neck takes its breath.                                                       |
 | 3   | Its scales answer to almost no weapon, but along the throat run softer gills that the beast must use to draw the deep air. A spear set true into one of those slits has felled more than the hammer ever could.    |
 
-#### Random Encounter: the Wrath of the Underworld
+#### Random Encounter: the Sinking Stronghold
 
-> _Suddenly you feel a heavy tremor spread through the ground. It is followed by another one – and then another one. The strength of the vibrations increases rapidly, and you struggle to keep your balance. A flock of startled birds clatter into the sky and you see a terrified deer leap across the path and disappear into the terrain._
+> _A wattle-and-daub stronghold leans on its eastern wall like a man with a broken hip. Two of its towers are already in the ground to the lintels. The well in the courtyard is full of dry dust._
 
-A successful SURVIVAL roll reveals that something huge is making its way up from the under ground, probably right under the adventurers’ feet. Adventurers who succeed with a MOVE roll can leap aside before the ground splits open and a great iron dragon rises up in a swirling cascade of stones and dirt. Adventurers who fail to move in time automatically suffer a monster attack as the beast bursts through the earth’s crust. It is the smell of metal that has brought the dragon to the surface, and it immediately turns its cruel head – and its full, monstrous focus – to the adventurer who wears the most metal on their body (armor, weapons, and other items).
+The stronghold is Falconwatch, the holding of Lady Cosgren, fourth daughter of an Alderlander house, sworn to the trade road. She has fifty-three souls inside the walls and a fortnight of stores. The iron dragon is below the stronghold, gnawing the roots of the rock the foundations rest on. The eastern wall sank a finger's breadth this morning. Within ten days the stronghold goes into the earth with everyone inside. Lady Cosgren has a smith and his apprentice working a great spear of cold-forged iron, and an old soldier who has seen the wound-spot on a dragon's throat once. She needs three of the adventurers to go down into the new tunnels with the spear, drive the spear into the gill-slit, and come back. She offers her stronghold's name on her seal. She does not say that the smith is her brother and that he will not survive the descent. She is forty-one and has been holding this place since she was nineteen.
 
-- **Terrain Types:** Plains, Forest, Dark Forest, Hills, Mountains, Ruins
+- **Terrain Types:** Hills, Mountains, Ruins
 
-#### Random Encounter: the Dragon Slayer
+#### Random Encounter: the Dwarf Who Will Not Surface
 
-> _“Hold it, folks! This is no place for maidens and milksops!” A heavily armed dwarf in a great helm and full plate armor comes stomping authoritatively through the boulders. In one hand he carries a battle axe, in the other an iron chain attached to some form of anchor. “The ground is completely undermined. This is where they breed …” he continues, before being interrupted by a loud noise – coming from the ground beneath your feet. “Huge’s whiskers!” exclaims the dwarf and disappears between the rocks, axe and anchor at the ready._
+> _Outside a fresh dragon-tunnel, a dwarf in stripped armor sits on a stone hammering a great chain into a length, link by link. He is alone. Beside him is a small iron lockbox the weight of a child._
 
-The dwarf is a Meromannian dragon slayer on the hunt for the ultimate trophy: the head of an adult iron dragon. If the adventurers follow him, they see the dwarf squeeze into a narrow crevice. Inside there is a cave passage that slopes steeply into the darkness. It soon leads to a mazelike system of gigantic tunnels, many of them recently dug, winding their way further into the depths. This can be developed into a whole adventure site, which can be created using the tables on page 172 of the _Game master’s Guide_. The GM decides whether the adventurers catch up with the dragon slayer in time or get lost and wander into an underground orc kingdom or the like – or even come face to face with an iron dragon.
+The dwarf is Old Helgrim of the Tooth Hold, last of his line. The lockbox holds his clan's bones, sixteen of them, gathered from a hold that an iron dragon ate three years ago in the Blackpeak. He has been hunting the same dragon since. He found it. He has it pinned, spear-wedged in a narrow crevice a half-stretch into the tunnel, and he is forging a chain to drag the carcass out so he can render the metal and recast his clan's hammers from the iron. He cannot do the rendering alone. He will offer the adventurers a third of the iron, by weight, in exchange for their work. He will not tell them that the dragon is not yet dead, only stuck, and that the spear will hold for one more Quarter Day. After, he means to go down with the chain and finish it himself if they do not come. He is two hundred years old and his eyes are clouding.
 
 - **Terrain Types:** Hills, Mountains, Ruins
 
 > **RESOURCES**
 >
-> An adventurer with the SMITH talent can extract 2D6 units of pure metal from a slain iron dragon. The procedure requires a successful CRAFTING roll and takes a Quarter Day. Metals from the iron dragon can be used instead of IRON when crafting weapons and metal armor, which then have Weapon Bonus +1 and Armor Rating +2 respectively.
+> A slain iron dragon yields, for an ALCHEMIST or SMITH with a HEALING or CRAFTING roll, one phial of dragon's blood, one lath of dragon's scale, and one tooth per ⚔️ rolled. A SMITH with a CRAFTING roll over one Quarter Day strips 2D6 units of pure dragon-iron from the carcass.
+>
+> **Dragon's blood (canonical):** The bound alchemical ingredient for **Elixir of Life** (see _Alchemical Potions_, _Gamemaster Tools_). One phial of iron dragon's blood, drunk straight, restores D3 points to a single attribute of the drinker's choice and burns the drinker for one Quarter Day with a fever no fire warms. A second phial within the same week kills.
+>
+> **Dragon's scale (canonical):** The bound alchemical ingredient for the dwarves' **Tincture of Earth-Hide**. One lath stitched into a leather coat by a TANNER gives the wearer +2 Armor Rating. A lath worked into a shield by a SMITH gives the shield +1 Block Value and refuses to splinter. The Iron Guard will recognize the metal.
+>
+> **Dragon's tooth (canonical):** The bound alchemical ingredient for **Tooth Powder of the Stoneborn**. A tooth set into a spear-haft adds a D10 Artifact Die to the first attack of any fight; the wielder must succeed on a WILLPOWER check after the strike or take 1 point of damage from the tooth's hunger. The Vault of Iron will pay forty gold for one in trade.
+>
+> **Dragon-iron:** Pure metal stripped from the carcass, used in place of IRON in weapons and armor. Weapons forged from dragon-iron take Weapon Bonus +1; armor forged from dragon-iron takes Armor Rating +2. The smith who forges it must succeed on a CRAFTING roll or the metal warps and the work is lost. Dwarves believe weapons forged of dragon-iron must one day be turned back upon another iron dragon, or the iron will rust the wielder's hands first.
 
 ### Mara
 
@@ -731,25 +797,29 @@ The mara is a magical being that haunts humanoid creatures in their sleep. Linke
 | 2   | Old village wives keep a candle and a charm by the bed against the mara, and dream-sorcerers swear no mara stands long against an honest spell.   |
 | 3   | Steel and iron pass through a mara's shadow as through smoke; only flame and a true working press it back. Aslene dream sorcerers can summon them, and a bound mara always wears the features of the sorcerer that gave it life. |
 
-#### Random Encounter: Unknown Enemy
+#### Random Encounter: the Sender's Face
 
-> _You are suddenly awoken by a weight on your chest, and a pair of sinister, glittering eyes are staring into yours. A shadowlike, nightmarish creature, shriveled and hairy, is straddling your hurting chest and scratching at your face with black claws. Unable to move, you feel the maliciously grinning creature squeeze the life out of your body._
+> _An adventurer wakes choking. A small, leathery thing crouches on their chest, hands at their throat, eyes the colour of the Bloodmist. The face on the mara is the face of someone the adventurer once wronged._
 
-One of the adventurers is attacked by a mara once the group has set up camp to REST. The chosen victim is at the creature’s mercy, but other adventurers may be awakened by the noise and stop the attack as described below. The problem is that the mara returns the following night – roll to decide which member of the group it targets next. It has been summoned through Aslene dream magic by an old enemy of the adventurers. The GM decides who and why, but the adventurers can recognize their enemy’s face if any of them succeeds with a WITS roll during the mara’s attacks. If they manage to kill it, another D3 maras will show up the next night. The only way to stop the onslaught is to find and defeat the unknown enemy.
+The mara wears the features of an Aslene dream-sorcerer named Brenna of the Tall Salt, who has paid an old man in the river-village of Otterleg to summon it. Brenna is the mother of a girl one of the adventurers killed three years ago in a road-fight (the GM picks the player and the killing). She has been saving for the binding for two years. The mara comes every night that the adventurers REST in the open. Each night it picks a different sleeper at random; each night the chosen sleeper wakes the next morning with one less point of Empathy until they recover the loss with a Quarter Day in a settlement. The dream cannot be ended by killing the mara: kill one, and three come the next night. The only ways out are to ride three days to Brenna's holding and confront her (she will offer to call the mara off in exchange for the killer's right hand or the killer's name burned onto a tablet thrown into Lake Varda), or to hand over the killer to her village's justice. She is forty-eight, blind in her left eye from grief, and was kind to her daughter.
 
 - **Terrain Types:** All
 
-#### Random Encounter: a Dreamlike Mission
+#### Random Encounter: the Borrowed Dream
 
-> _You suddenly wake up to a frightening sound – soaked in a cold sweat, terrified, and painfully aware of each heartbeat hammering inside your startled bodies. What just happened? And what was that noise? A terrifying scream or a sudden cry? Or was someone trying to say something? A forgotten power word or an ancient secret? Or maybe someone was dying?_
+> _An adventurer wakes from a dream so vivid it leaves the taste of strange bread in their mouth. Beside the campfire sits a mara, small and folded, weeping into its hands._
 
-The adventurers are beset by a vicious mara attracted by the anxiety of their dreams. It was not sent by some external enemy, but acts of its own accord. As a matter of fact, the mara has a specific problem which it tries to make the adventurers solve. The GM decides the nature of the mission, but it could be a matter of settling a score, retrieving a lost object, or slaying a monster. When the mission has been completed, the attacks cease and the adventurers can sleep peacefully again.
+The mara has been the bound dream-companion of an old wisewoman in a peat-village called Myrkfen. The wisewoman died at sundown, and the mara is now loose in the world for the first time in forty years. It has chosen this campfire to attach itself. It will, in clear and quiet voice, offer to bind itself to the adventurer with the highest Empathy: that adventurer thereafter dreams the dreams of every sleeper within NEAR range of their camp each night, gaining one Willpower Point per Quarter Day from the dreams of others, but losing one point of Empathy each Quarter Day until they cannot bear the dreams of strangers anymore. The wisewoman's village will come for the mara within a week; she had three daughters who learned the binding and want what the mother left them.
 
 - **Terrain Types:** All
 
 > **RESOURCES**
 >
-> The mara is a creature of terror and dread, and Sorcerers can extract a fear-inducing substance from the remains of a slain specimen. Mara extract takes the form of a smoky mist that, when inhaled, allows the user to perform a fear attack with ten Base Dice against a chosen victim. Each killed mara is enough to produce D3 doses of mara extract.
+> A mara killed before it can fade leaves a smear of dream-smoke on the ground. An ALCHEMIST or DRUID with a HEALING roll catches one phial of mara-smoke and one strand of mara-hair per ⚔️ rolled.
+>
+> **Mara-smoke:** A coiling grey mist held under cork. Released into a sleeper's face by the breath of an attacker, it forces a fear attack with ten Base Dice and gives the attacker the next dream the sleeper has, in full. A second use within the same Quarter Day gives the attacker the sleeper's worst memory and the sleeper's permanent loss of one point of Empathy.
+>
+> **Mara-hair:** A black strand the length of a finger. Tied around an opponent's bedpost or knapsack while they sleep, it lets the binder send a mara of their own (or a dream of their making) to that sleeper for one night. The sleeper rolls an opposed INSIGHT against the binder's WITS; on failure they wake with whatever message or fear-attack the binder chose. Aslene dream-sorcerers will pay in worked silver for one strand. The Raven Sisters will burn anyone caught with one and the village that harbours them.
 
 ### Mire Drake
 
@@ -781,25 +851,33 @@ Mire drakes are strange, amphibian predators living in lakes, rivers, and quagmi
 | 2   | Mire drakes are extremely territorial predators that jealously protect their chosen domains by spreading death and destruction.                     |
 | 3   | Mire drakes are as cunning as they are ravenous and cruel, and it is said that they can exercise a sinister infuence over weak- minded humans.      |
 
-#### Random Encounter: the Oracle in the Marsh
+#### Random Encounter: the Mussel-Gatherers' Tithe
 
-> _You can see figures moving through the mists of the gloomy landscape. They do not appear hostile, but nor do they seem particularly interested in you. Soon you see that these are groups of humans, probably fishermen or farmers – both children and adults – moving purposefully between treacherous floating mats and bottomless pits. From what they are saying, you gather that they are going to see the oracle; the oracle who speaks the truth about life and death._
+> _A mussel-boat at anchor in the shallows. Two women and a boy of nine kneel on a plank above a flat stone, and the women are weighing the boy with a length of net-cord. The mire drake is on the rock at the edge of the cove, watching, polite._
 
-These people are swamp farmers from a nearby settlement that for years have been plagued by a malevolent mire drake. By playing on the farmers’ considerable fears, the beast has developed an oracle cult around itself and is predicting the future for its frightened audience during regular ceremonies at the heart of the swamp, always for the price of one or several human children. The farmers are all under the mire drake’s spell and will not intervene if the adventurers decide to attack it, but if the beast is defeated, stories of their heroic deeds will be forever enshrined in local folklore.
+The village of Three Stakes pays the mire drake one child every spring in exchange for the season's mussel-bed prophecies. The drake speaks fluently and has been correct on storms, sickness, and the year of the bad ice. The boy is the eldest of the village's headwoman; she had two children, and she is here because last year's tithe was a stranger and the year before that was a thief, and this year is theirs by oath. She is not weeping. She is asking the drake whether the boy will speak to her after he has been swallowed, the way the last child reportedly spoke to her aunt for a stretch from inside the beast's belly. The drake has answered yes. If the adventurers kill the drake, the village's mussel-beds fail this year and the village starves; the women on the boat will tell the villages downriver who did this. If they do nothing, the drake calls the boy to the rock at the next stretch.
 
-- **Terrain Types:** Quagmire, Marshlands
+- **Terrain Types:** Lake, Quagmire, Marshlands
 
-#### Random Encounter: a Strange Bird
+#### Random Encounter: the Tribute Runner
 
-> _The boat moves slowly through the dark waters. You are far from land, but can still see the twisted vegetation where the river delta turns into marshes. Suddenly you hear a wailing cry that echoes between the banks. It sounds like the call of a large bird, and soon you see a winged creature gliding over the waves on thin membranous wings. But it is definitely no ordinary bird. It has a serpent- like body, massive claws, and a humanoid face with glistening predatory eyes that are staring furiously at your vulnerable vessel._
+> _A flat-bottomed boat poled by a single old man crosses the channel. Tied in the bow, a young man in fine clothes sits gagged with a fishing net, eyes shut. The old man is whistling._
 
-The adventurers have been spotted by an angered mire drake that comes gliding from its nest in the dense mangroves. An adventurer with a successful SURVIVAL roll realizes that the beast is defending its territory. The attack will cease if the adventurers turn the boat around and return the way they came; otherwise the mire drake will fight to the death – or until it flies away with one of them in its drooling jaws.
+The young man is Lord Avven, second son of the Wakehouse, on his way to the mire drake's nest in the central pool. He is to be the spring's tribute. The old man is the village hetman, paid by the Wakehouse's headmother (Avven's mother) to deliver him. Avven was caught last winter with a Raven Sister; the headmother chose the drake over the burning. The drake will appear within the stretch when the boat reaches the pool. If the adventurers stop the boat, the village will rise the next morning to recover Avven and burn the adventurers in his place; if they let the boat through, Avven will be eaten alive while watching the old man pole away. If the adventurers free Avven and kill the drake, Avven offers them the seal of the Wakehouse and a road home; the headmother will hunt them by every road in the Forbidden Lands. The Raven Sister Avven was caught with is in the village still, and is six months gone with child.
 
-- **Terrain Types:** Lake, Quagmire
+- **Terrain Types:** Lake, Quagmire, Marshlands
 
 > **RESOURCES**
 >
-> An adventurer with the SMITH talent (level 2 and higher) can use the scales of the mire drake to craft a suit of dragon scale mail with Armor Rating 8.
+> A slain mire drake yields, for an ALCHEMIST or SMITH with a HEALING or CRAFTING roll, one phial of dragon's blood, one lath of dragon's scale, and one tooth per ⚔️ rolled. The drake's tongue is a separate harvest, recovered intact regardless of dice rolled if cut before the body cools.
+>
+> **Dragon's blood (canonical):** The bound alchemical ingredient for **Elixir of Life** (see _Alchemical Potions_, _Gamemaster Tools_). One phial of mire drake's blood, drunk by a sorcerer with a successful HEALING roll, restores D3 points to one attribute and grants a D8 Artifact Die to the next MANIPULATION roll the drinker makes against a human. The drinker dreams of the drake's mussel-pool that night.
+>
+> **Dragon's scale (canonical):** The bound alchemical ingredient for **Tincture of Earth-Hide**. A SMITH (level 2 or higher) with a CRAFTING roll over one Quarter Day forges a suit of dragon scale mail with Armor Rating 8 from a slain mire drake. The mail does not rust in fresh or salt water and lets the wearer ignore the first damage from any swimming or drowning attack each fight.
+>
+> **Dragon's tooth (canonical):** The bound alchemical ingredient for **Tooth Powder of the Stoneborn**. A tooth carried in a pouch lets the bearer reroll one INSIGHT roll per Quarter Day; if the bearer ever lies under a roof made by another's hands, the tooth burns through the pouch and is lost.
+>
+> **Drake-tongue:** A purple-black slab as long as a man's arm. Eaten raw by an adventurer with a successful WILLPOWER check, it grants the eater the ability to speak with one human within NEAR range so persuasively that the listener takes a fear attack of eight Base Dice and obeys one one-line command if the attack succeeds. The eater is THIRSTY for one Quarter Day after. The mussel-villages of the Blush will pay any price to recover one. The Iron Guard will burn anyone known to have eaten one.
 
 ### Mummy
 
@@ -833,25 +911,31 @@ Mummies are the embalmed remains of ancient lords and great warriors. They are a
 | 2   | Mummies are a higher form of undead and do not fall to ordinary blows; their bodies are hollow, and they carry the long hunger that drove them down into the dark. |
 | 3   | Old grave-priests warn that no mummy will follow far from the bones laid with it, and that what survived embalming and three centuries of dust does not love an open flame. |
 
-#### Random Encounter: Remnants of Former Glory
+#### Random Encounter: the Heir Who Came Back
 
-> _A strange rock formation emerges from the mist on top of a hill further ahead. As you come closer you see that it is an ancient burial site. Moss- covered rocks have been placed in a large, horseshoe- shaped semicircle, in the middle of which lies a huge stone slab, partially overgrown by heather._
+> _A young woman in worn travel-clothes sits on the lip of a freshly-opened cairn, holding a brass crown in her lap. The cairn is open. The mummy inside is not yet awake._
 
-Adventurers who succeed with a LORE roll recall that the lords of old were often laid to rest in elevated burial mounds, so they could watch over the kingdoms they left behind. Underneath the stone slab – which can be lifted with a successful MIGHT roll – is the entrance to the tomb itself, which consists of four paved chambers connected by a long dirt tunnel. The chambers are full of corroded tools, cracked pottery, and the driedup remains of servants and pets. In the innermost chamber, a chieftainlike figure sits upon a throne of stone, his hands resting on a twohanded sword. The mummy wakes up and attacks just as the adventurers enter the chamber.
+The woman is Cael of the Long Fen, last living heir of a chieftain-line that died out three centuries ago when the Bloodmist came down. She has come home with the crown the family carried into exile. To set the crown back on her grandmother's mummy is to bind the Long Fen's old land to her name and her line. The villagers of the valley below worked the land for three centuries while the Long Fen were gone; setting the crown wakes the mummy, and the mummy's first act after waking is to walk down to the valley and reclaim what is owed in blood. Cael has been sitting at the cairn since first light. She has not yet set the crown. She is asking the adventurers what to do. Below in the valley are eighty souls. Behind her in the cairn is her name. The mummy will rise within the stretch if the crown touches the brow.
 
-- **Terrain Types:** Plains, Forest, Dark Forest, Hills, Mountains, Ruins
+- **Terrain Types:** Plains, Hills, Mountains, Ruins
 
-#### Random Encounter: Grave Robbers in Distress
+#### Random Encounter: the Coffin in the River
 
-> _Further out into the terrain you see a strange wooden stand. It is crudely made, with a thick rope in the middle that extends to the ground. Soon you see that it is some form of hoisting device – and that the rope stretches down through an opening in the earth, between two massive boulders. Knapsacks, blankets, and other field gear lies scattered around the opening, along with a worn old map._
+> _A peasant boat is hauling something out of the river: a stone coffin, lashed to two punts, half-flooded. The peasants are arguing. Inside the coffin, something is moving._
 
-The adventurers can climb down the rope with a successful MOVE roll; otherwise they take damage from a sixmeter fall. In the darkness below, a group of battered grave robbers is in desperate combat against three mummies: an ancient princess assisted by two embalmed servants. The princess wields a mighty double axe, while the servants are somewhat weaker (STRENGTH 8) and armed with broadswords. The underground crypt contains lots of riches – D6 Valuable Finds in a Lair – and the grave robbers promise them a share in the spoils if they help defeat the mummies. However, the grave robbers demand a bigger share, since they were the ones who found the treasure.
+The coffin is a Mero burial-stone of the old Aslene chieftains, washed loose by spring flooding. Inside is a mummy that has been dreaming under twenty feet of river-mud for two centuries. The peasants want the gold on its arms; their headman wants the body for the village's reliquary. They have been fighting since dawn and have settled on opening it on the bank, here, with axes. If the adventurers warn them off, the headman will accuse them of trying to claim the body for themselves and call the village down. If they help open it, the mummy steps out onto the bank holding the gold of three centuries and chooses, by some old judgment, the adventurer with the highest Empathy as the one most worthy to receive its grave-goods, before attacking. The river behind them carries six more coffins downstream from the same flooded barrow.
 
-- **Terrain Types:** Plains, Forest, Dark Forest, Hills, Mountains, Ruins
+- **Terrain Types:** Lake, Marshlands, Plains, Hills
 
 > **RESOURCES**
 >
-> Sorcerous adventurers can extract the ancient strength that is bound inside the embalmed bodies of the mummies. At the cost of 1 Willpower Point, a vanquished mummy can be ground into a potent powder that when swallowed gives the adventurer +3 to all STRENGTH-based skill rolls. The effect is instantaneous and lasts for one round. Each mummy is enough for D6 doses.
+> A vanquished mummy crumbles to a dry residue. An ALCHEMIST or DRUID with a HEALING roll, made before the body finishes crumbling, gathers one fold of grave-salt and one strip of binding-linen per ⚔️ rolled, plus the mummy's grave-token (a ring, crown, brass plate, or weapon) intact regardless of dice rolled.
+>
+> **Grave-salt:** A pinch of grey-pink salt rendered from the embalmed flesh. Brewed by an Alchemist with one HERBS into a draught at the cost of 1 Willpower Point, the drinker takes a D8 Artifact Die on all STRENGTH-based skill rolls for one round. A second draught within the same Quarter Day takes one permanent point of Strength from the drinker as the salt finishes its old work.
+>
+> **Binding-linen:** A strip of yellow grave-cloth as long as a man's arm. Wrapped tight around a wound by a HEALER, it staunches the bleeding completely and stops the wound from worsening for one Quarter Day; after, the wound has not healed at all and the linen has rotted to dust. Wrapped around a corpse on the third day after death by a sorcerer with a successful HEALING roll, it slows the body's decay for one year and a day; the wrapped corpse remembers the wrapper and will, if it ever rises, hunt them first.
+>
+> **Grave-token:** A worked artifact (ring, crown, brass plate, or two-handed sword) carried by the mummy in its tomb. Carried, it gives the bearer the right to be heard in any court that knows the mummy's house. Worn or wielded, it adds a D8 Artifact Die to one MANIPULATION or melee attack roll per Quarter Day in the presence of any descendant or rival of the mummy's line. The Iron Guard, the Raven Sisters, and the Vault of Iron all keep records of these tokens and will hunt the bearer.
 
 ### Nature Spirit
 
@@ -883,25 +967,31 @@ Nature spirits are partially immaterial, parasitic creatures that have developed
 | 2   | Nature spirits are gluttonous but immaterial beings that feeds on the life force of living creatures.                                                                            |
 | 3   | The nature spirits’ weakness is their insatiable greed, and they are easily fooled with promises of blood sacrifces, riches, and other types of offer- ings – including fattery. |
 
-#### Random Encounter: Bloody Harvest
+#### Random Encounter: the Bound Sister
 
-> _A strong smell of smoke blows in across the fields. You have walked through the rolling landscape for a long time, without encountering a single farmer, shepherd, or villager. But then you see the column of smoke. It rises from a place nearby, out among the tall ears of grain. Moving closer, you hear terrified screams and an ominous, rhythmic chanting._
+> _A village of fifteen souls lives in a hollow ringed by oat-fields. At the south edge of the fields, lashed to a straw idol, stands a young woman in clean linen, smiling._
 
-A dozen farmers from a nearby village are about to sacrifice a captured youngster to ensure the next year’s harvest. The smoke is coming from a burning, vaguely humanlike idol the farmers have made from straw and old clothes, where a famished nature spirit has its dwelling. The idol leans over the terrified victim as the farmers drag him there, eagerly invoking old gods and ancestors. The farmers will flee if the adventurers decide to attack, but the nature spirit will fight to the last straw for its promised meal.
+The woman is Astra, the headman's younger sister. She has been the village's spirit-bride for three winters; the nature spirit in the idol takes her at first frost, returns her at the spring sowing, and the village eats well on the back of it. She is twenty-four. The previous bride lasted seven winters before she was returned for good, blind and unable to speak. Astra knows. She has volunteered for a fourth winter because her brother's twins are too young to take her place and the village will starve without the harvest. The spirit is in the idol now, listening. The villagers will not let the adventurers cut her down. If the adventurers kill the spirit, the field rots from the roots within ten days and the village dies before midwinter; the headman, on his knees, will offer them his sister's place in the contract if they take her with them. Astra will not go. Her smile has not moved since dawn.
 
-- **Terrain Types:** Plains, Forest
+- **Terrain Types:** Plains, Forest, Hills
 
-#### Random Encounter: Queen of the Crossroads
+#### Random Encounter: the Crossroad Crown
 
-> _The narrow forest trail suddenly branches off into numerous paths of various sizes leading deeper into the dense vegetation. A strange cairn rises from the trampled earth where the paths converge. Resting on its top is a crown of woven twigs and broken- off antlers. Coins of different denominations lie scattered on the ground before the peculiar creation, along with a few rings and other shiny, half- buried objects._
+> _A cairn at a four-way meeting of forest paths. A crown of bone and ivy on top. Coins, rings, milk-teeth in the dirt. A child of six sleeps curled at the base of the cairn, breathing shallow._
 
-The cairn is inhabited by a greedy nature spirit that demands a road toll from any travelers who wish to pass. Most of all it desires a blood sacrifice, but the spirit can also be appeased with shiny objects worth at least D6 silver coins, depending on mood and weather. An adventurer who succeeds with a LORE roll realizes that it is probably a good idea to present some kind of offering at the cairn. If that does not happen, the nature spirit attacks in the form of a crowned, somewhat witchlike creature that forms out of the cairn itself. The adventurers can find D3 SIMPLE finds if they search the place.
+The child is Hess, the only daughter of a peat-village two days back. The village's own offerings ran thin this autumn and the village wisewoman gave the spirit the child instead, with the village's silent permission. The spirit took her three days ago and has been feeding from her since; she is now half-drained, breathing once a stretch, will not last another night. The spirit will fight to keep the child. The villagers will hunt the adventurers if Hess is brought back: she was given. If the adventurers kill the spirit and walk away with Hess, she lives but loses the use of her legs and her speech. If the adventurers leave her, the spirit will release her at first thaw, blind, and the village will eat well. The wisewoman is at the cairn within the next Quarter Day to retrieve the child's bones. She has done this twice before.
 
 - **Terrain Types:** Forest, Dark Forest, Hills
 
 > **RESOURCES**
 >
-> Nature spirits thrive on their commanding presence and have a strange but aweinspiring scent that can be collected and stored in a box or bottle. Releasing the scent gives the container’s owner a +3 modification to all EMPATHY - based rolls. The effect lasts for one round and each slain nature spirit can provide D3 doses.
+> A nature spirit dispelled or killed releases its essence into the air. An ALCHEMIST or DRUID with a HEALING roll catches one phial of spirit-musk and one knot of straw-thread per ⚔️ rolled. The straw idol or cairn the spirit was bound to is recovered intact regardless of dice rolled, but the bound earth around the cairn dies for a year and a day.
+>
+> **Spirit-musk:** A heady scent kept under cork. Released into the air at a council, a feast, or a court of judgment, it grants the bearer a D8 Artifact Die on all EMPATHY-based skill rolls for one round. The scent fills the room: every other adventurer present must succeed on a WILLPOWER check or be charmed into agreeing with whatever the bearer last said. A second use within the same Quarter Day curdles and the bearer is feared and reviled.
+>
+> **Straw-thread:** A knot of woven straw and red thread. Tied around a child's wrist or buried under a doorstep, it turns aside one nature spirit per Quarter Day from the house or person it protects. Tied around the wrist of a healthy adult who is not a child of the village, the thread strangles them in their sleep within three nights. The Raven Sisters and the wisewomen of the peat-villages will trade flour and fish for one knot, openly.
+>
+> **Idol or cairn:** The straw figure or stone cairn the spirit was bound to. Carried into another field by a SURVIVAL roll over one Quarter Day, the idol calls one new nature spirit to bind itself to that field within a fortnight. The new spirit is hungry and demands one offering immediately. The land the cairn was taken from will not bear a crop for a year and a day, and the village it protected will know who took it.
 
 ### Possessor
 
@@ -935,25 +1025,31 @@ Possessors are sheets of blood mist that take physical form by possessing other 
 | 2 | Possessors share something of the old Blood Mist's nature, and the warnings villages still use against red fog after dark hold against them too. |
 | 3 | The mist enters through the breath and dies with the body it wears, so long as the host is killed before the red breath has time to leave the mouth. |
 
-#### Event: a Demonic Bottom- Dweller
+#### Random Encounter: the Husband Who Came Home
 
-> _Thick sheets of crimson mist suddenly well out of the pot and slither around the defenseless spice merchant. His rotund little body is twisted into a demonic abomination whose enormity threatens to demolish the humble trading post. “Fools, surrender yourselves to the red mist!” roars the abomination before launching itself at you._
+> _A trade-road inn at last light. A heavy farmer eats stew at the long table beside his wife and two boys, telling a story about the road. He breathes red mist between sentences, and the wife and boys do not see it._
 
-Stocking up on provisions for their next journey, the adventurers run into a possessor that for a long time has slumbered inside a pot of exotic spices. Having possessed the owner of the trading post, the blood mist tries to kill as many people as possible in the village before slipping off into the wilderness.
+The farmer is Ulver Strawhand, missing eight months on a salt-run. The possessor took him three days back at a way-stop and walked the rest of the road home. The wife is twenty-six. The boys are six and four. The wife knows her husband well enough to know this is not him; she has been watching him eat for an hour and has not yet said anything because the boys are at the table. The possessor will leave the body if attacked, jump to the closest hot mouth (likely a child), and the body of Ulver will fall dead with his story half-told. If the wife sees this happen in front of the boys, she will not survive the winter. She will, before the meal is over, ask the adventurers to take her husband out into the yard and kill him there, where the boys cannot see, and then to lie to the boys about it. She has decided. The possessor knows she has decided.
 
-**Adventure Site:** Village
+- **Terrain Types:** Village, Plains, Hills
 
-#### Random Encounter: Nebulous Assault
+#### Random Encounter: the Long-Held Breath
 
-> _The winding path leads down into a small valley that plows through the hilly landscape. The air is cold, the ground covered in thorn thickets. Suddenly you see something move out there, close to the ground, practically slithering through the dense vegetation. Next thing you know, a blood- red mist comes flowing from the thickets and wraps you in its demonic embrace._
+> _A hermit's hut beside a forest spring. An old man sits naked in the spring, holding his breath. He has been holding it for ninety heartbeats and counting._
 
-The adventurers are attacked by a furious possessor who immediately tries to invade the person with the highest STRENGTH. After D6 rounds, the demon gets tired of the adventurers’ unmanageable bodies and instead possesses a deer passing by. The possessor continues the attack in deer form, which means that it can be destroyed according to the rules below.
+The man is Brother Aelmar, formerly of the Iron Guard, hermit forty years. The possessor came down with the river-fog yesterday and entered him at dawn; he is half-possessed, fighting it with his lungs. He cannot speak. He has tied a cord around the door of the hut to mark the path inside; on the door is written, in soot, _THE SECOND POT FROM THE LEFT_. Inside the hut is a clay pot full of charcoal and salt. If the pot is broken over the man's mouth as he exhales, the mist is bound in the salt and the man lives. If the pot is broken too soon, the mist takes the breaker. If it is broken too late, the man is gone. Aelmar's lungs will give out within the stretch. The closest hot mouth in the clearing, after Aelmar, is whoever is reading the door.
 
-- **Terrain Types:** Plains, Forest, Dark Forest, Hills
+- **Terrain Types:** Forest, Dark Forest, Hills
 
 > **RESOURCES**
 >
-> A defeated possessor turns into wisps of fleeting mist, which the adventurers with a MOVE roll can store in a glass bottle or a similar container. The wisps contain demonic energies which when inhaled add a D10 Artifact Die to all LORE rolls concerning demons and other monsters in the Forbidden Lands. Each possessor contains D6 doses.
+> A possessor expelled and trapped before it finds a new host disperses into wisps of mist. An ALCHEMIST or DRUID with a HEALING roll catches one phial of red breath and one fold of host-skin per ⚔️ rolled, plus the salt-pot or container that bound the mist intact regardless of dice rolled.
+>
+> **Red breath:** A coiling crimson mist held under cork. Inhaled, it adds a D10 Artifact Die to all LORE rolls concerning demons, the old Blood Mist, the Misgrown, and the works of Wyrm. The breather coughs blood for one stretch and dreams of the host the breath was taken from for one night. A second use within the same Quarter Day takes one permanent point of Empathy as the demon's calculation seeps in.
+>
+> **Host-skin:** A patch of demon-armoured skin from the body the possessor most recently wore. Stitched into a glove by a TANNER, it lets the wearer reroll one INSIGHT roll per Quarter Day against any creature that lies. The glove burns to ash the first time the wearer tells a deliberate lie aloud while wearing it. The Iron Guard will hang the wearer; the Rust Brothers will hire them.
+>
+> **Salt-pot:** A clay vessel filled with charcoal and rough salt, used to bind the mist. A live possessor caught in the pot can be carried for one Quarter Day before the pot cracks. Released into a closed room of breathing creatures, the possessor takes the closest hot mouth and obeys, for one Quarter Day, the one who released it. After that, the possessor is its own. The Congregation of the Serpent will pay for sealed pots and asks no questions.
 
 ### Rat King
 
@@ -985,25 +1081,31 @@ Rat kings are demonic creatures sent by Pox Yersinia, a demon lord associated wi
 | 2   | Rat kings carry her plague with them; villages overrun by them no longer bury their dead, because no one is left to dig.                          |
 | 3   | Druids and others who heal by craft are the rat king's particular dread, for what is sent to spread sickness has no answer for one who can mend it. Their long bone flutes, carved from a demon goddess's cadaver, command rats, fleas, and carrion birds. |
 
-#### Random Encounter: the Village of the Dead
+#### Random Encounter: the Last Healer
 
-> _A stone wall encloses the little farming village that emerges from the misty landscape. It looks quite prosperous with its sturdy half- timbered houses and multiple watchtowers. But moving closer you see that something is wrong. The iron- studded oak door is ajar, the towers are unmanned, and no smoke rises from the chimneys. The place looks abandoned, and yet you can hear music playing faintly: eerie but sometimes beautiful tunes that seem to be coming from some kind of flute._
+> _A village of forty stone houses, half of them hung with white sheets at the door. A young woman in a leather apron walks the lanes alone, ringing a small bell, leaving cups of broth at the doorsteps of the sick._
 
-The village has recently been attacked by a rat king, and all its villagers lie dead in a square at the center of the settlement. The bodies are covered in purpleblue boils, and an adventurer who succeeds with a HEALING roll realizes that it is the Blue Plague and that the bodies must not be touched (Virulence 5 on contact). In the middle of the macabre scene sits the rat king, perched on a well. The creature bows when it notices the adventurers and hisses a greeting before it attacks: “Welcome, welcome – open yourselves to my mistress’ embrace!”
+The woman is Magdane, the village's only Druid. The Blue Plague came in with the rat king nine days ago. Twelve are dead. Eighteen are sick. Magdane has been keeping the rest alive by going from house to house with broth and HEALING HANDS, and she has not slept in four days. The rat king is in the village's bell-tower, watching her, waiting; the demon's pact requires that the village die in full, and Magdane is the only one keeping them. Magdane will not leave. She will ask the adventurers to take the village's nine children, who are not yet sick, out the south road to the next village. The next village will not let plague-children in; the headman there will turn them back at the gate. If the adventurers leave the children with Magdane, they die with her. If the adventurers kill the rat king, the plague does not stop, and Magdane works herself dead in three more days. If they take her with them, the village's sick die in their cups within the stretch.
 
-- **Terrain Types:** Plains, Forest, Hills, Mountains
+- **Terrain Types:** Plains, Forest, Hills, Mountains, Village
 
-#### Random Encounter: the Plague Is Coming
+#### Random Encounter: the Pied Piper's Toll
 
-> _A cacophony of high- pitched, aggressive animal noises breaks the silence. Next thing you know, a teeming mass comes flowing down the path towards you. Rats! Before you have a chance to react, they are everywhere – swarming around your feet and scratching their way up your boots, clothes, and knapsacks. Then you hear the flute. The tunes are aggressive, dissonant and rousing, and they are coming from a skinny figure who slowly comes walking through the sea of rats._
+> _A stone bridge across a slow river. On the far side, a rat king sits on the parapet playing its flute. Behind it, a column of children walks the road towards the bridge in silence, eyes glassy. There are eighteen of them._
 
-The adventurers are attacked by a malevolent rat king who roams the Forbidden Lands to spread its mistress’ message. The vanguard of rats carries the plague, and each adventurer must succeed with a MOVE roll to avoid being exposed to the Blue Plague (Virulence 5). If the adventurers attack the rats, they will retaliate as a swarm (see the _Game master’s Guide_, page 127).
+The children are from a village called Rye Bottom, two days' walk back. The rat king came in three days ago and killed every adult who would not pay; the surviving adults paid in their children, and the rat king is leading the column to a chasm in the hills where Pox Yersinia's bone-altar is buried, to feed her with eighteen names. The flute compels the children. They are not sick. If the flute breaks or the rat king dies, the children wake on the road and weep, and the rat king's plague-mist (Virulence 5) is released into the air across NEAR range. If the adventurers play the flute themselves with a successful PERFORMANCE roll, the children obey them instead. The rat king will not fight to keep the children if the adventurers walk past; it has eighteen, it can collect more.
 
-- **Terrain Types:** Plains, Forest, Dark Forest, Hills
+- **Terrain Types:** Plains, Forest, Dark Forest, Hills, Mountains
 
 > **RESOURCES**
 >
-> The rat king’s bone flute was created by a mighty demon lord and makes its bearer immune to demonic diseases, demonic magic, and other nonphysical attacks from lesser demonic entities ( STRENGTH 8 or lower).
+> A slain rat king collapses to a pile of plague-rags and bone. An ALCHEMIST or DRUID with a HEALING roll, made before the body is approached, gathers one fold of plague-ash and one cup of curdled-blood per ⚔️ rolled. The rat king's bone flute is recovered intact regardless of dice rolled. Touching the body without the HEALING roll exposes the toucher to the Blue Plague (Virulence 5).
+>
+> **Plague-ash:** A grey-blue powder kept under wax. One pinch added to drinking-water by a Druid with a successful HEALING roll inoculates one village or up to forty souls against the Blue Plague for one season; the inoculated suffer cramps and bloody stools for one Quarter Day after drinking. A second pinch in the same water curdles the inoculation and the village falls sick in three days.
+>
+> **Curdled-blood:** A cup of black blood from the rat king's heart, kept under wax. Drunk straight by a HEALER as part of the brewing of any anti-plague broth, it adds a D8 Artifact Die to the brewing roll and lets the broth carry the HEALING HANDS spell at Power Level 2 in liquid form for one Quarter Day. The drinker dreams of Pox Yersinia for one night and is feverish at dawn.
+>
+> **Bone flute:** A long flute carved from the rib of Pox Yersinia herself. Carried, it makes the bearer immune to all non-physical attacks from lesser demons (Strength 8 or below), to all demonic disease, and to all demonic magic of Power Level 2 or below. Played with a PERFORMANCE roll, it commands all rats, fleas, ticks, and carrion birds within NEAR range to obey one one-line command from the player; the player coughs blood for one stretch after each use. The Iron Guard, the Raven Sisters, and the Rust Brothers will hunt the bearer; Pox Yersinia herself dreams of the player every night and will, in time, send word.
 
 ### Rock Troll
 
@@ -1039,25 +1141,31 @@ Rock trolls are trolls that have partially turned and, because of their old age 
 | 2 | The smell of human flesh wakes them from their sluggishness, and dwarves prize what their bodies hold of stone and metal enough to lure the beasts toward villages. |
 | 3 | Old herders warn against keeping watch with a rock troll until dawn; like all their ilk, the open day burns them more cruelly than any blade. |
 
-#### Event: a Sordid Plan
+#### Random Encounter: the Dwarven Husbandry
 
-> _You are woken by a deafening crash that shakes the building to its foundations. A deep, rumbling roar is heard from the ground floor of the inn, followed by the agonized screams of dying humans. Rushing downstairs, you see a huge stone creature with glowing troll eyes smashing everything around it with boulder- like fists. It has charged straight through the wall and is now surrounded by crushed bricks, furniture, and humans.
+> _A clearing in the deep forest. Three Meromannian dwarves in field-leather are setting out a row of staked cattle along the treeline. The cattle are blindfolded and gagged. The dwarves are arguing in their own tongue about which calf should go first._
 
-Actually, the rock troll is as rattled as the adventurers are, even though the smell of human flesh has triggered its bloodlust. It was cast down into the inn from a nearby forest hill by some lugubrious dwarves of the Meromannian clan. The dwarves arrive at dawn, expecting the sunlight to have made short work of the troll. They claim to be a belated rescue party, but what they really want are the precious gems that hopefully dropped from the troll’s body as a result of the attack. A successful INSIGHT roll reveals that the dwarves are not who they say they are. If the situation turns hostile, use the stats of a Typical Meromannian ( _Game master’s Guide_, page 59).
+The Meromannians are running a rock-troll husbandry. They have been fattening this troll for nine winters in a cave behind the clearing, feeding it stolen calves and, twice now, kidnapped travellers from the trade road. The troll is twice the weight of an old rock troll and dense with gold and copper. The dwarves plan to slaughter it next spring, when the smell of human meat in its body has had a winter to set. The cattle are to be the last feeding before the slaughter. The clan that owns these cattle is the village of Three Stakes, two days back, who lost them to the dwarves last week and are following the dwarves' wagon-tracks here. The villagers will be in the clearing within the stretch. The troll smells the cattle now and is coming up out of the cave. The dwarves will offer the adventurers a one-tenth share in the slaughter to keep them quiet. They will pay anyone who walks away with stories. They will kill anyone who reaches the village.
 
-- **Terrain Types:** Forest, Dark Forest, Hills
+- **Terrain Types:** Forest, Dark Forest, Hills, Mountains
 
-#### Random Encounter: the Hunger of the Forest
+#### Random Encounter: the Sunlit Hour
 
-> _The forest has suddenly grown very dark – and eerily still and quiet. Looking through the dense trees, you see a dilapidated structure that is partially covered with shrubs and roots. Next minute the forest seems to come alive. A colossal creature of stone and moss rises from the darkness and attacks you with its granite fists, as big and heavy as small boulders._
+> _A clearing at the foot of a granite outcrop. A rock troll lies asleep on its back in the open glade, half-turned to stone in the morning light. Three Rust Brothers stand around it, arguing whether it is dead._
 
-The adventurers have had the misfortune to come across a halfslumbering rock troll. The drowsy giant attacks frenetically, governed by ancient instincts. If the fight proves too difficult, the GM can let an adventurer who succeeds with a LORE or SURVIVAL roll recall that trolls are sensitive to sunlight, and that cutting down a few trees in strategic places would expose the creature to the relentless rays of the sun.
+The troll is not dead. It is paralyzed by sun and will wake at sundown. The Rust Brothers are here to harvest the troll's gallstones for the troll's-blood draught their order brews against the Bloodmist's lingering effects. Brother Tomek wants to cut the troll open while it is paralyzed; Brother Saren wants to wait until it is dead, because cutting a living troll is a sin against the Protector. They have been arguing since dawn. Sundown is one stretch off. If the adventurers help cut the troll open before sundown, Saren will not forget; the Rust Brothers' order keeps long memories. If they wait, the troll wakes and kills the brothers and any adventurer who has not retreated to the treeline. The troll's blood is needed in the village of Three Stakes for a Druid named Magdane, who is dying of the Blue Plague the rat king brought.
 
-**Adventure Site:** Village
+- **Terrain Types:** Forest, Hills, Mountains
 
 > **RESOURCES**
 >
-> Rock trolls contain valuable minerals and rocks that dwarven adventurers can extract from the cadaver. However, this also requires the SMITH talent and a successful CRAFTING roll. The roll generates glittering stones worth one gold coin for each ⚔️ rolled.
+> A slain rock troll yields, for an ALCHEMIST or SMITH with a HEALING or CRAFTING roll, one phial of troll's blood, one knot of troll's gastric juice, and one tooth per ⚔️ rolled. A SMITH (level 2 or higher) with a separate CRAFTING roll over one Quarter Day extracts glittering stones worth one gold coin per ⚔️ from the body.
+>
+> **Troll's blood (canonical):** The bound alchemical ingredient for **Tincture of Earth-Hide** (see _Alchemical Potions_, _Gamemaster Tools_). One phial of rock-troll blood, drunk by a HEALER or DRUID, lets the drinker reroll one ENDURANCE roll per Quarter Day and ignore the COLD condition for one stretch. A second phial within the same Quarter Day turns the drinker's skin to a slow grey crust and they take a permanent loss of one point of Agility.
+>
+> **Troll's gastric juice (canonical):** The bound alchemical ingredient for **Aqua Fortis of the Smiths**. One knot poured onto a locked door, a chained gate, or a weapon's haft eats through worked iron in one stretch. The reek can be smelt at NEAR range and brings hounds. The Iron Guard will hang anyone caught with a phial in the Bloodmarch.
+>
+> **Troll's tooth (canonical):** The bound alchemical ingredient for **Tooth Powder of the Stoneborn**. A tooth set into the haft of a hammer or maul by a SMITH adds a D8 Artifact Die to the first attack of any fight against worked stone, walls, or armor of Armor Rating 5 or higher. The Meromannians will pay in worked silver for one tooth and ask the slayer no questions.
 
 ### Shapeshifter
 
@@ -1089,25 +1197,31 @@ The shapeshifter is a creature that is hard to classify, capable of transforming
 | 2   | Shapeshifters have diffculty mimicking humanoid languages and often give themselves away with their attempts at intelligent communication.                              |
 | 3   | In their original form, shapeshifters are gelatinous beings and always leave a glittering trail of mottled gray slime, which is a sure warning sign to the trained eye. |
 
-#### Random Encounter: Gray Slime in the Staircase
+#### Random Encounter: the Wife Who Came Back
 
-> _You enter the dark house at the top of the cliff. The place seems to have been abandoned long ago. There are moldy tapestries on the walls and a thick layer of dust has accumulated on the stone floor. The only sign of life is a strange trail of slime that covers much of the winding staircase at the center of the tower. Suddenly you hear cautious footsteps and see a pale- faced girl in old fashioned clothes tiptoeing anxiously down the stairs. She stares at you with terror in her eyes and holds her index finger to her lips in a shushing gesture._
+> _A village inn at first dark. A man in his fifties sits with his wife at the long table. They are eating bread and barley-broth and not talking. The wife has been missing four months and walked back into the village this morning, healthy._
 
-The child is a starving shapeshifter that for too many years has waited for food in the secluded tower. It has assumed the form of a traumatized girl who has something important to show the visitors – down in the dark, labyrinthine basement. If the shapeshifter gets the adventurers to come along, it will try to divide the group into smaller units before attacking. However, with a successful LORE roll (see below), the adventurers start to suspect that something is wrong as soon as they notice the trail of slime.
+The wife is Astrid Ronesdotter, taken by the shapeshifter on the salt-road in midwinter. The thing wearing her face has been in the village since this morning. The husband knows. He noticed at midday that the wife does not remember the names of their two grown children, who are at the inn now and have not yet been alone with her. He has not told them. He has been sitting beside the thing for eight hours because he wants the rest of the day with what looks like his wife. The shapeshifter intends to take him and the children tonight. The husband will, if approached privately, ask the adventurers to wait until morning to act, so he can say goodbye. He will pay them with the only gold his wife and he ever saved, hidden under the well. The children will not believe the adventurers if told before the husband says so. The shapeshifter has not eaten since first thaw and is on the edge of failing.
 
-**Terrain Types:** Hills, Mountains, Ruins
+- **Terrain Types:** Plains, Forest, Hills, Village
 
-#### Event: an Enemy Among Us
+#### Random Encounter: the Trail of Slime
 
-> _“He has not been himself since he drank from the goblet with that ungodly slime – the time has come to confront him!” The leader raises his hunting spear towards the ceiling and is met with murmurs of agreement from his audience. It is the village’s strong men and axe- wielding matrons who have gathered at the inn, evidently to deal with a local concern. You hear voices muttering about animals and villagers disappearing without a trace, before the grim- looking crowd grab their simple weapons and head out into the night._
+> _Three woodcutters sit on the trail beside their handcart, eating bread. One of them is a shapeshifter wearing the face of a fourth woodcutter who left the camp at dawn. None of the three knows who is wearing whose face._
 
-The village where the adventures have sought shelter for the night is haunted by a shapeshifter. Several villagers and livestock have gone missing, hence the action being taken before the adventurers’ eyes. The village elder leads the mob (the GM decides how many they are) to an aged lumberjack at the edge of the settlement who has been acting strangely for the past few days. The lumberjack has indeed been consumed by the nasty creature, but unfortunately it has already shapeshifted and is now part of the elder’s mob. Adventurers who succeed with a SCOUTING roll notice that one of the goblets on the elder’s table has slime on its rim. If the adventurers fail to intervene, the shapeshifter will kill the entire crowd before returning to the inn in the guise of the elder.
+The shapeshifter ate one of the four men an hour ago and stepped into his place. The other two have been eating bread with what they think is their friend for half a stretch. The shapeshifter has not yet decided whom to take next. A LORE roll picks out the slime-trail leading from the camp behind the men into the brush at NEAR range, where the half-eaten body of the original woodcutter lies. The two living men carry no weapons. If the adventurers point out the impostor, the impostor will say one of the others is the shapeshifter and the wood-cutters will draw knives on each other. If the adventurers cut down all three, two innocent men die. If the adventurers walk past, the impostor takes one of the others before the next stretch and walks back to the village wearing whichever face suits the road. The village is half a day off and contains the shapeshifter's daughter, the impostor knows.
 
-**Adventure Site:** Village
+- **Terrain Types:** Forest, Dark Forest, Hills
 
 > **RESOURCES**
 >
-> Adventurers can extract D6 doses of a metamorphous secretion from the shapeshifter’s remains. The secretion takes effect immediately upon application and twists the person’s face beyond recognition. However, the drawback is that the head becomes all lumpy and generally repulsive, which gives a –2 penalty to all EMPATHY - based skills. The effect lasts for a Quarter Day.
+> A slain shapeshifter collapses to a pool of grey-mottled slime within the stretch. An ALCHEMIST or DRUID with a HEALING roll, made before the body finishes settling, gathers one phial of metamorph-secretion and one fold of mimic-skin per ⚔️ rolled. The trail of slime that led to the killing is preserved in a clay vessel intact regardless of dice rolled.
+>
+> **Metamorph-secretion:** A clear, glittering ichor kept under wax. Smeared on the face by an ALCHEMIST with a HEALING roll, it twists the bearer's features beyond recognition for one Quarter Day. The face comes back lumpy and the bearer takes a −2 penalty to all EMPATHY-based skill rolls until they sleep a full night. A second use within the same Quarter Day fixes the face that way for a year and a day.
+>
+> **Mimic-skin:** A patch of grey-mottled hide the size of a man's hand. Worn under the tongue by an ALCHEMIST with a HEALING roll, it lets the bearer perfectly imitate the voice of any one person whose voice they have heard within the last Quarter Day. The skin spoils after one stretch and the bearer cannot speak in their own voice for one Quarter Day after.
+>
+> **Trail-slime:** A clay vessel of mottled grey slime preserved from the killing-ground. Tracked into a house and left, the slime calls another shapeshifter to that house within a fortnight if any walks within a day's range. Used as a tracker's bait by a HUNTER with a SURVIVAL roll, the slime points the hunter to the nearest shapeshifter within LONG range; the slime is consumed in the use. The Iron Guard will pay for sealed vessels and burn anyone caught taking them out of the country.
 
 ### Skolopendra
 
@@ -1139,25 +1253,31 @@ Skolopendras are primitive predators living in the damp, nearsurface parts of un
 | 2   | The skolopendra reproduces by laying eggs inside other animals and creatures, which it fertilizes through invasive attacks.                       |
 | 3   | The skolopendra is instinctively drawn to prey larger than itself, as ample- bodied hosts give the beast’s offspring a better chance of survival. |
 
-#### Event: Fatal Passage
+#### Random Encounter: the Hatchling-Husband
 
-> _As you move further into the dark cave, you are met by an almost unbearable stench. In the flickering torchlight you see the outline of a giant beast wedged between the rock walls. It lies perfectly still, and you soon realize that it is a carcass: the remains of an underground abomination that met its end down here in the depths. Unfortunately it is blocking the way ahead – and the only way forward is through its decaying body._
+> _A peat-cutter's hut on the edge of the marsh. A man in his thirties lies on a pallet, weeping. His wife sits beside him with a knife in her lap. The man's belly is moving on its own._
 
-The carcass is that of a powerful abyss worm recently killed by a skolopendra. With a successful SURVIVAL roll the adventurers can locate its mouth and enter the decomposing, tunnellike body. Before the adventurers come out on the other side, they encounter the great worm’s killer: a creeping skolopendra furiously defending its prey. The beast has already laid hundreds of eggs, and adventurers who succeed with a SCOUTING roll quickly notice that the carcass is crawling with unusually large and aggressive larvae.
+The man is Olav, a peat-cutter. A skolopendra impregnated him eight days ago in the cuts. The wife, Inge, sent for the village's only HEALER yesterday and the HEALER cut Olav's belly open this morning, found nine larvae each the length of a finger, took her fee, and left because she said the eggs were too many to take and she would not waste her draughts. Inge has been sitting with the knife since dawn. Olav wants Inge to cut his throat before the larvae eat their way out (one stretch off, by the look of him). Inge cannot. The adventurers are passing through. The skolopendra that did it is in the cuts at NEAR range, drawn back by the smell of the wound; it will attack any large body that moves. A successful HEALING roll lets one adventurer cut the larvae out before they hatch; failure costs Olav his bowels and he dies in the cut. If the adventurers leave him for Inge to do, Inge does not do it.
 
-**Adventure Site:** Dungeon
+- **Terrain Types:** Plains, Marsh, Forest, Hills
 
-#### Random Encounter: the Boiling Earth
+#### Random Encounter: Lord of the Hole
 
-> _Without warning the ground gives way before you. Cascades of earth and mud shoot up around you, rocks are sent rolling and roots are snapping. It is almost as if the earth itself has suddenly started to boil. The next moment you see a revolting monstrosity with numerous legs and spiked growths come crawling out of the maelstromlike sinkhole._
+> _A dwarven mining gallery. Six Meromannian dwarves stand in a half-ring around a pit they have just opened. At the bottom of the pit lies a sleeping skolopendra the size of an ox-cart. Beside the pit, lashed to a stake, is a young Aslene woman, gagged._
 
-The adventurers are attacked from below by a famished skolopendra. The adventurer with the highest STRENGTH is its primary target. They – and everyone else within NEAR range of the chosen victim – must make a MOVE roll. On failure they slide down into the pit and suffer a –2 penalty to all attacks and combatbased skills, including DODGE and PARRY. If the combat gets too difficult, a successful roll for SURVIVAL or LORE can remind the adventurers that skolopendras tend to favor larger prey. Perhaps they can escape by leading the beast to the halfhidden gray bear den that the adventurers passed a while ago?
+The woman is Hild, a Bloodmarch rider taken in a Meromannian raid two days back. The dwarves have been opening this gallery for a copper seam and broke through into the skolopendra's nest. The skolopendra will not move from its eggs unless given a body large enough to take more. Hild is the body. The dwarven foreman, Thorgrid, will offer the adventurers Hild's horse and tack to walk on. Hild's horse is a fine warhorse worth eight gold pieces. Hild's clan, the Riders of the Black Banner, are camped one day off and will pay better for her safe return; they will also burn this gallery and the dwarves in it if they learn what was done. The skolopendra's nest holds two hundred eggs in a single cluster; if the dwarves are killed and the gallery left open, the eggs hatch in three days and the larvae fan out through the underground passages of the whole hill country.
 
-- **Terrain Types:** Plains, Hills, Forest, Dark Forest
+- **Terrain Types:** Hills, Mountains, Dungeon
 
 > **RESOURCES**
 >
-> The skolopendra’s feces is a stinking substance that strikes fear in monsters and wild beasts. Adventurers who smear their bodies with the grainy mass gain a +1 bonus to all weapon attacks against monsters and ordinary animals, which are left nervous and unfocused by the foul stench. However, the effect does not work on undead and only lasts one combat encounter per application. Each killed skolopendra contains enough feces for D10 applications.
+> A slain skolopendra yields, for an ALCHEMIST or HUNTER with a HEALING or SURVIVAL roll, one fold of stinging-feces and one phial of paralyzing-venom per ⚔️ rolled. A separate carve, requiring a HEALING roll over one Quarter Day, takes one whole stinger from the tail intact regardless of dice rolled.
+>
+> **Stinging-feces:** A grainy, foul-smelling paste kept under wax. Smeared on the body before a fight, it gives a D8 Artifact Die to attack rolls against ordinary animals and beasts of WITS 3 or below for one combat encounter; the smear does not work on undead, demons, or anything that does not breathe. The bearer cannot be approached for one stretch after each application without giving offense; settlements will not have them inside the gate.
+>
+> **Paralyzing-venom:** A clear oil from the skolopendra's mandibles, kept under wax. One phial coated on a weapon by a HUNTER with a CRAFTING roll lets the next attack with that weapon, on a hit, paralyze the target with Potency 7 for one stretch; the oil keeps for one fortnight in a sealed phial. A second phial on the same weapon ruins both.
+>
+> **Stinger:** A barbed bone needle the length of a forearm. Mounted on a haft by a SMITH, it serves as a one-handed stab weapon (Weapon Damage 2, Bonus +1, Range NEAR) that injects paralyzing-venom (Potency 7) on a hit; the stinger crumbles to chitin after three hits and the venom must be replenished from a fresh phial each new fight. The Rust Brothers' apothecaries pay in silver and ask no questions; the Iron Guard will hang anyone caught with one.
 
 ### The Swarming Death
 
@@ -1189,23 +1309,31 @@ The swarming death is an allconsuming cloud of flesheating locusts and other ins
 | 2 | The swarming death plagues the Forbidden Lands on a regular basis and seems to bear some kinship with the western wind and with whatever lies beyond the demon gate at Shadowgate Pass. |
 | 3 | Their teeming bodies turn aside steel and arrow alike, but heat and burning flame are the old answers; like all primitive things, the swarms dread what they cannot share with their own number. |
 
-#### Random Encounter: the Shards of a World
+#### Random Encounter: the Last Field
 
-> _You gaze out at a dead and desolate landscape – or rather, the cadaver of a landscape, grazed bare and cleared of life. Sprawling shadows are all that remain of the trees, and the ground is cracked, brown, and arid, without even the slightest hint of vegetation. Gnawed bones and sharp vertebrae lie scattered across the wasteland. Locusts move here and there, disturbingly fearless and well- fed, clinging to these shards of a world._
+> _A wheat field at noon. Half the field has been cut and stacked in neat sheaves; the other half stands ripe. Twenty villagers from Three Stakes are in the field, scything as fast as they can. To the west, the sky has gone grey-green with the wing-cloud of an approaching swarming death. They have, by the look of the sky, the better part of a stretch._
 
-The adventurers have come to a region that was recently attacked by the Swarming Death. The barren waste covers a kilometerwide area, at the center of which there once stood a lone tower; only the bottom floor remains. Here a terrified, hysterically mumbling blood mage has barricaded herself behind thick basalt walls. She will not come out or let the adventurers in unless presented with excellent arguments (requires a successful MANIPULATION roll). The GM decides whether she is an innocent, traumatized victim or the person who actually brought the death swarms to the area, perhaps as a side effect of a magical experiment.
+The village's whole year of barley is in this field. The headman, Saren Bytefiel, knows the swarm will be on them within the stretch and has put every able body on the scything. The swarm will eat what is uncut. Saren will offer the adventurers a sack of last year's barley apiece if they cut alongside; he will offer the same to anyone who burns a firebreak across the western edge. The firebreak takes the village's whole oil-store and one of the village's three milch-cows for a smoke-pyre, and if it is lit, the swarm bends north and falls instead on the village of Eikholm, two leagues off, who do not know it is coming. Eikholm has eight children. If the firebreak is not lit, Three Stakes loses the field and a third of the village starves come midwinter. If both villages are warned, the swarm finds them anyway and both lose their fields.
 
-- **Terrain Types:** Plains, Forest, Dark Forest, Hills, Mountains, Lake, Quagmire, Marshlands, Ruins
+- **Terrain Types:** Plains, Hills
 
-#### Random Encounter: Death from Above
+#### Random Encounter: the Tower Mage
 
-> _Suddenly the sky turns dark and the whole world is filled with a terrifyingly deep growl that makes your insides twist like snakes. The harsh western wind lashes your faces, and you hear animals cry out in wild panic. That is when you notice the infernal wing beats – the sound of tens of thousands of rustling insect wings, descending on the land in a deadly whirlwind of hunger and mindless, swarming evil._
+> _A stone tower on the open plain, half-fallen. The land around it for a kilometre in every direction has been grazed bare to dust by a recent swarming death. At the foot of the tower a young woman in blood-mage's leathers is digging a grave for an old man with her hands._
 
-The adventurers are attacked by the swarming death, which descends ravenously on the area to clear the place of life and nutrients. There is no escaping the swarms, so the adventurers must fight to survive. If the odds are too grim, a successful SURVIVAL roll can allow the adventures to find shelter in some underground cavern. Alternatively, in the heat of battle, a single ⚔️ in LORE could be enough to access the information below concerning the swarming death’s sensitivity to fire. However, in that case, all firewielding adventurers must succeed with a SURVIVAL roll to prevent the flames from spreading from the insects to the surroundings. Failure gives rise to a wildfire, and all adventurers must make with a MOVE roll or suffer the eight Base Dice of damage from the rapidly spreading fire.
+The young woman is Yala. The old man is her teacher, the blood mage Kreven. Kreven called the swarm three days ago to drive a Wyrm warband off this plain; the warband died, and so did three villages downwind that Kreven did not account for. Kreven cut his own throat at sunup. Yala stayed. She is sixteen, her hands are shaking, and she has the spellbook in her satchel. She will tell the adventurers what was done if they ask. The Iron Guard will pay forty silver for any blood mage delivered alive; the Rust Brothers will pay sixty for the spellbook and burn the mage. The book contains the calling of the swarming death; if the adventurers leave it on the road, someone else will find it. The swarm itself is not yet gone; it has settled in the next valley over and is finishing the last of the wild deer.
+
+- **Terrain Types:** Plains, Hills, Mountains, Ruins
 
 > **RESOURCES**
 >
-> The swarming death possesses a collective intelligence that can be partially extracted from a vanquished swarm. With a successful HEALING roll, an adventurer can extract D3 doses of a bonedry but remarkably glittering powder that adds a D8 Artifact Artifact Die for one day to all WITS -based skills and a D10 Artifact Die to SURVIVAL when the adventurer in question LEADS THE WAY.
+> A vanquished swarming death (a swarm broken by fire or carried off by wind) leaves behind, for an ALCHEMIST or SORCERER with a HEALING or LORE roll made within the stretch, one fold of glittering hive-dust and one phial of insect-ichor per ⚔️ rolled. A separate gather, requiring a SCOUTING roll across the killing-ground, finds one black queen-husk intact regardless of dice rolled.
+>
+> **Hive-dust:** A bone-dry, glittering powder kept under wax. One pinch dissolved in water by a SORCERER and drunk grants a D8 Artifact Die to all WITS-based skill rolls for one Quarter Day; on the same draught, the drinker grants a D10 Artifact Die to SURVIVAL when LEADING THE WAY for one journey leg. The drinker hears the wing-whisper of the swarm in their sleep for one fortnight after.
+>
+> **Insect-ichor (canonical):** The bound alchemical ingredient for **Insect Brew of the Hive-Mind**. One phial brewed by an ALCHEMIST with a HEALING roll over a Quarter Day yields a draught that lets one drinker, for one stretch, hear the thoughts of any one creature with a hive-mind (insectoids, swarming death, gryphon broods) within NEAR range; the drinker takes one point of WITS damage at the end of the stretch and dreams of the western wind for three nights.
+>
+> **Queen-husk:** The cracked carapace of the swarm's directing queen, the size of two hands cupped together. Buried at the centre of a planted field by a DRUID with a HEALING roll, the husk turns aside the next swarming death that passes within a day's range; the field that holds the husk yields half its expected harvest for the year and the soil cannot be planted again for three years. The Rust Brothers will pay in worked silver for any whole husk; the Wyrm cult will pay double and ask where the queen was killed.
 
 ### Tupilaq
 
@@ -1237,25 +1365,31 @@ Tupilaqs are merged from parts of corpses and carcasses that have been risen fro
 | 2   | Tupilaqs are used as executioners and assassins, and the creature’s exis- tence is always bound to the completion of a specifc task.                                        |
 | 3   | Since tupilaqs are an affront to life itself and their deaths are always pleasing to the gods, it is possible to extract a life- giving elixir from each defeated specimen. |
 
-#### Event: a Real Vagrant
+#### Random Encounter: the Wrong Name
 
-> _A strange figure sits in the corner of the simple inn where you are staying for the night. The darkness of the lounge and the wisps of smoke from the fireplace make it hard to see much more than a hunched person at a secluded table, face hidden under a hood. And yet it is giving you a bad feeling. Something is wrong; something makes it feel as though the gods’ creation is about to fall apart – in this exact spot. “A real vagrant if you ask me,” mutters the innkeeper as she passes your table carrying large tankards of beer, nodding towards the smoke- filled corner._
+> _A village square at first dark. A tupilaq is squatting on the well, intoning the name "Halvar Bessesson" over and over from its half-rotten throats. Halvar Bessesson is the village smith, currently inside his forge with the door barred._
 
-The figure in the corner is a murderous tupilaq waiting for its designated victim: the wealthy brewmaster Hieronymus Klack, who has made some powerful enemies over the years. As soon as Hieronymus sets foot inside the inn, with a scrawny scribe as his only companion, the tupilaq rises in all its gruesome horror and turns out to consist of humanoid body parts crowned by the halfrotten head of a wild boar. After hissing a few hateful words about unpaid debts, it attacks the brewmaster. Adventurers who save Hieronymus’ life are rewarded with gold, and he also promises to make sure that all his powerful customers and benefactors hear of their bravery.
+The tupilaq was set on Halvar nine days ago by a Sorcerer named Naren of the Silent. Halvar paid Naren forty silver to send a tupilaq after Halvar's brother in a quarrel over their father's land. Naren took the silver and named Halvar instead, because Naren was paid sixty silver by Halvar's brother on the same day. The tupilaq does not know it was misnamed; it knows only the name. It will not leave until Halvar is dead and his body is in pieces. Halvar's wife and three children are inside the forge with him. Halvar will, if approached through the back door, confess what he tried to have done; he will offer the adventurers the forge and his trade if they end the tupilaq. The brother is two villages over and will, if found, confirm the story. Naren is on the road to Vajenden and will not be caught.
 
-**Adventure Site:** Village
+- **Terrain Types:** Plains, Forest, Hills, Village
 
-#### Random Encounter: What Goes Around, Comes Around
+#### Random Encounter: the Patient Vagrant
 
-> _“Ah, there you are!” The unpleasant man is suddenly standing right in front of you, as if sprung from a hole in the fabric of creation. He leans on a wooden staff with a human skull at the top, staring >_at you with fire in his eyes. “Time to feed, my love,” he whispers softly – and from the shadows behind the mad sorcerer comes a crawling mass of halfrotten body parts. To your horror, you hear your own names coming from the abomination’s many cadaverous throats, uttered in a guttural wheeze; again and again and again.
+> _A roadside inn. A hooded figure sits unmoving at a corner table. It has been there four days. The innkeeper, an old widow named Astri, has been bringing it bread because she does not know what else to do. The bread sits on the table, untouched, half-rotted._
 
-Because of some past offense, the adventurers are approached by a sorcerer from the Order of the Silent: a necromantic cult of assassins who offer their services to clients who share their twisted world view. The GM is free to make up the details, but the client could be an adversary from a previous adventure or a rival who feels cheated out of gold or glory. One or several adventurers are designated targets, which gives the tupilaq an attack bonus against them (see below). The sorcerer vanishes without a trace as soon as the tupilaq begins its assault.
+The figure is a tupilaq waiting for its target. Its target is a peddler named Leski Vinde who passes this inn every fortnight on his salt-route. Leski is due in two days. Leski's offense was to bed the daughter of a sorcerer of the Silent in a town three years past; the daughter died of the bedding-fever and the sorcerer set the tupilaq on him. Leski does not know any of this. Astri has noticed the figure does not breathe and is afraid; she will pay the adventurers her late husband's silver belt to send the thing away. If the adventurers wait for Leski and ask, Leski will swear by the Protector that he has done nothing; the daughter's name was Mara and Leski did know her. If the tupilaq is destroyed before Leski arrives, the sorcerer is alerted by the breaking of the binding and will, in time, send another. If Leski is delivered to the tupilaq, the matter is finished and Astri keeps her belt.
 
-- **Terrain Types:** Plains, Forest, Dark Forest, Hills, Mountains, Quagmire, Marshlands, Ruins
+- **Terrain Types:** Plains, Forest, Hills
 
 > **RESOURCES**
 >
-> The tupilaq is created out of death and decay, but, ironically, its tissue has healing properties if treated correctly. An ALCHEMIST (page 156) who makes a HEALING roll can extract D3 doses of a foulsmelling cream from a dead tupilaq. Applying the cream completely restores any lost points of STRENGTH or AGILITY. It has no effect on critical injuries.
+> A slain tupilaq collapses to its component cadavers within the stretch. An ALCHEMIST or HEALER with a HEALING roll, made before the body finishes coming apart, gathers one phial of unmaking-cream and one fold of bound-marrow per ⚔️ rolled. The sorcerer's binding-token (a knotted cord, a knucklebone, or a tooth) is found pressed into the flesh between the cadaver-parts intact regardless of dice rolled.
+>
+> **Unmaking-cream:** A foul, milk-coloured cream kept under wax. One dose smeared into a wound by a HEALER with a HEALING roll restores all lost points of STRENGTH and AGILITY in one Quarter Day; the dose has no effect on critical injuries. The healer who applies the cream takes the rotted-flesh smell on their hands for one stretch and smell-sensitive horses will not bear them.
+>
+> **Bound-marrow:** A grey, jellied marrow scraped from the longbones of the tupilaq's component cadavers, kept under wax. One spoon dissolved in a brewing draught by a SORCERER with a HEALING roll over a Quarter Day yields a Restoration of Power Level 2 in liquid form, drinkable, that restores D6 points of one chosen attribute. The drinker dreams of the cadavers the marrow came from for one night and wakes naming names they do not know.
+>
+> **Binding-token:** The sorcerer's token of compulsion: a cord, a knuckle, a tooth. Carried by the slayer to the sorcerer who set the tupilaq, the token grants a D8 Artifact Die on the first MANIPULATION or INSIGHT roll made against that sorcerer. Burnt on a smith's coals while the sorcerer's name is spoken, the token sends back the binding's curse on the sorcerer; they take three points of WITS damage and dream of the tupilaq's victims for one fortnight. The Order of the Silent will pay forty silver for any token returned to them; they will pay sixty for the slayer to disappear.
 
 ### Twisted Ent
 
@@ -1288,25 +1422,31 @@ Twisted ents are demonic tree creatures that have heeded the wicked call of the 
 | 2   | Twisted ents were once elves, and old elves still remember when these ents sang and danced; what twisted them did not erase the memory.      |
 | 3   | A beautiful tune can stay a twisted ent's hand, for in the old air the creature half-remembers what it was before the larvae and the dark went into its rubies. The pause is brief; spend it well. |
 
-#### Random Encounter: What the Trolls Saw
+#### Random Encounter: the Singer in the Stocks
 
-> _The silence is broken by a terrifying roar. It is followed by a crash and loud thuds as a couple of trolls come rushing onto the path in front of you. They stare at you with yellowed eyes, but you see in them not hostility, but sheer terror. Something has scared them out of their minds. Before you have time to react, they vanish into the terrain on the other side of the path. Then you hear the dreadful roar again – much closer this time. There is something demonic about it, like the screams of thousands upon thousands of tortured souls._
+> _A Rust Brothers' camp on a forest road. A twisted ent stands chained to four oxen at the centre of the camp, larvae spilling from its bark. In a wooden stocks beside it kneels an old elf, her hands free, a small harp in her lap. She is playing._
 
-There are as many Rust Brothers as there are adventurers. Their commander is an Iron Guard, and it is he who controls the twisted ent that will soon be unleashed on the D6 Maidens who have entrenched themselves among the ruins. Use the stats for typical Rust Brothers and Maiden Druids ( _Game master’s Guide_, page 40 and 51 respectively) if the adventurers decide to intervene.
+The elf is Salinde Whitebough. The Rust Brothers caught her three days ago and are using her to keep the ent calm on the march; her music is the only thing that holds it. The ent was, six hundred years ago, her brother. Salinde knows the song to wake him for one short stretch into himself; she also knows that the wakening kills what is left of him. The Rust Brothers' commander, Brother Halric, has worked out the same and is waiting for Salinde to finish the journey to the Wyrm cult's grove at Three Stakes; once there, the ent is to be turned loose on the village and Salinde is to be hanged. Salinde will, if approached, ask the adventurers to cut her hands free and let her play the wakening song; the ent will turn on Halric for one stretch and then collapse to wood, and Salinde herself will not survive the song. She is six hundred years old and would like to end with her brother. If the adventurers refuse the song, Salinde will play whatever the Rust Brothers want and the village will burn.
 
-- **Terrain Types:** Plains, Forest, Dark Forest, Hills, Mountains, Marshlands, Ruins
+- **Terrain Types:** Forest, Dark Forest, Hills, Ruins
 
-#### Random Encounter: the Secret Weapon of the Rust Brothers
+#### Random Encounter: the Old Path
 
-> _Angry shouts and obscenities are heard in the distance. Moving closer, you see a band of Rust Brothers forming a circle around a small hill in the middle of the overgrown landscape. The hilltop is covered with crumbling ruins, and several druids armed with bows can be seen up there. The Rust Brothers do not seem as well- armed, but they have brought with them a huge, demonic abomination that is pulling aggressively at its rusty iron chains._
+> _A trade road through deep forest. A twisted ent stands across the road in the path of a slow oxcart driven by an old woman with three small children in the cart-bed. The ent has been standing motionless for a stretch. The old woman is humming a lullaby. The children are asleep._
 
-The trolls are on the run from a twisted ent that roams the landscape in its crazed anger and endless hunt for lives to end. If the adventurers ignore the warning signs and stay on the path, the ent shows up after D3 rounds and attacks immediately. It has already forgotten all about the trolls and will not leave the area until all adventurers are dead and devoured by the larvae inside it.
+The old woman is Maire Bolesdotter, a wandering goose-herd who once, sixty years ago, was an apprentice with the elves of Alderstone before the Bloodmist. She knows two of the elven songs. She has been holding the ent in place for half a stretch by humming. The cart's axle is cracked and will not move without the village smith, who is two days off. Maire is eighty-four winters old and her voice will fail before sundown. The children are her grandchildren and not hers to leave. A PERFORMANCE roll on a passing adventurer who hears the tune lets the adventurer take up the humming after Maire fails; failure on the song wakes the ent. The Rust Brothers have a patrol on this road and will, in time, find the cart; if they find it before the ent moves, they take the ent in chains and the children are left to walk. If the ent is killed, Maire weeps for it as for a man.
 
 - **Terrain Types:** Forest, Dark Forest, Hills
 
 > **RESOURCES**
 >
-> An ALCHEMIST (page 156) who makes a HEALING roll can extract a paralyzing poison with Potency 6 from the demonic larvae inside the twisted ent’s body. Each dead ent is enough for D12 doses. Furthermore, the blackened ruby is an attractive ingredient in various magical elixirs, and can be sold for D3 gold coins to alchemists and other practically oriented sorcerers.
+> A slain twisted ent (or one wakened to itself by song and collapsed) yields, for an ALCHEMIST or DRUID with a HEALING roll over a Quarter Day, one phial of larvae-venom and one fold of bark-dust per ⚔️ rolled. The blackened ruby is found at the heart of the trunk intact regardless of dice rolled.
+>
+> **Larvae-venom:** A clear, glistening oil pressed from the demonic larvae inside the bark, kept under wax. One phial coated on a weapon by an ALCHEMIST with a HEALING roll lets the next attack with that weapon, on a hit, paralyze the target with Potency 6 for one stretch; one ent yields enough larvae for D12 doses. The Rust Brothers will pay in silver for any phial brought to them; the Iron Guard will hang anyone caught carrying one across the Bloodmarch.
+>
+> **Bark-dust:** A red-grey powder rasped from the heart-wood of the trunk. One pinch sprinkled on a sapling planted by a DRUID with a HEALING roll grants the sapling resistance to demonic taint for nine years; the sapling grows three times its natural rate and is sterile. A second pinch on the same sapling kills it within the season.
+>
+> **Blackened ruby (canonical):** The bound alchemical ingredient for **Demon-Heart Tincture**. The shrivelled ruby at the heart of the ent's trunk, sold to alchemists or sorcerers for D3 gold coins. Brewed by an ALCHEMIST with a HEALING roll over a Quarter Day with one cup of mortal blood, the ruby yields a tincture that grants the drinker a D8 Artifact Die against demonic magic and demonic disease for one Quarter Day; on the same draught, the drinker hears the ent's last memory of its elven life for one stretch and weeps for it. A second draught within the same Quarter Day fixes the weeping for one fortnight.
 
 ### Undead Dragon
 
@@ -1339,27 +1479,33 @@ Undead dragons are vicious carrioneaters that haunt burial sites, old battlefiel
 | 2   | Undead dragons are majestic creatures who, despite their decayed and repulsive exterior, possess the vanity and charisma of a prince.             |
 | 3   | The undead dragon’s unholy life force is bound to its bone marrow, which it constantly replenishes by devouring the bones of other undead beings. |
 
-#### Random Encounter: the Choir of the Dead
+#### Random Encounter: the Court at the Mass Grave
 
-> _At first it sounds like a melodic hum, but soon you realize that it is a croak: the hoarse croaking of multiple voices echoing eerily through the night. As you go closer you see torchlight and dark figures waddling around, surrounded by tall stones, in what looks like a dilapidated burial site. At the center of it all is a winged beast: the decaying carcass of a huge dragon, morbidly attired in princely purple and adorned with shimmering jewelry. It seems to enjoy the song and the attention it is getting from the shuffling figures._
+> _A field of standing stones at moonrise. An undead dragon sits enthroned on a heap of skulls, dressed in rotted purple cloth and a torque of beaten gold. Around it stand twenty Bog Men, motionless. At the dragon's feet kneels a young man in a peddler's coat, reading aloud from a book of poems. The dragon listens._
 
-The adventurers have stumbled across an undead dragon who, after a finished meal, is holding court at a burial site in the vicinity of a human settlement. The dragon is exceptionally vain, and with a successful MANIPULATION roll the adventurers can not only flatter themselves to a place at the beast’s side, but even be rewarded for their panegyrical efforts (allow D3 rolls on the table for Valuable Finds in a Lair). But this is a dangerous game to play, and a failed MANIP - ULATION roll will instead cause the dragon to attack, along with its mindless, undead court (see the beast’s special ability).
+The young man is Halvor, an apprentice scribe from Vajenden. The dragon, who calls itself Lord Anselbrim, has been here for nine years and has Halvor's twin sister chained at the next stone over; if Halvor stops reading, the dragon eats the sister. Halvor has been reading without sleep for three days. The book is almost finished. Lord Anselbrim has the bones of nine villages buried under this field and will not move from this seat. He will, if approached, offer the adventurers their pick of his court treasury (D3 rolls on Valuable Finds) for a fresh book of poems and a fresh reader; he will eat both Halvor and the sister at sunup regardless. If the adventurers fight, the twenty Bog Men rise. If they bring a poet, the dragon takes the poet's tongue when the book ends. If they leave, both twins die at sunup. Halvor is twenty-three winters old.
+
+- **Terrain Types:** Plains, Hills, Marshlands, Ruins
+
+#### Random Encounter: the Iron Cages
+
+> _A trade road by night. Two iron cages on wheeled wagons stand abandoned in the middle of the road, their doors broken outward from the inside. Around them are twenty Rust Brothers, dead, half-eaten. An undead dragon sits in the road licking marrow from a long-bone, watching the wagon-wheels._
+
+The Rust Brothers were carting forty restless dead from villages along the Bloodmarch to a corpse-pit at Three Stakes. The dragon, who calls itself Lord Vyrasen, fell on the wagons at sunset, ate eight Rust Brothers, and let the rest die fighting his risen dead. The forty restless dead are scattered through the surrounding forest, mindless, and will reach Three Stakes by dawn. The Iron Guard's commander, an Aslene named Captain Halrid, is among the dying; he has the cage-key and the names of the villages the dead came from in his belt-pouch. Lord Vyrasen has eaten his fill and is willing, with a MANIPULATION roll, to listen to a parley; he will agree, for one tribute of a fresh corpse, to call the forty dead back to him so they do not reach Three Stakes. The corpse he wants is Captain Halrid, who is still breathing. If the adventurers refuse and fight, the dragon raises Halrid as another mouth.
 
 - **Terrain Types:** Plains, Forest, Dark Forest, Hills, Mountains, Ruins
 
-#### Random Encounter: a Feast on Wheels
-
-> _The ominous form of a winged beast suddenly covers the world in shadows as it sweeps by, high above your heads. You can see its huge, clawed wings and fiendishly staring reptilian head. Moments later, terrified screams and the metallic clatter of weapons are heard somewhere further ahead. After a few_
->
-> _loud thuds you hear the sound of running footsteps approaching through the rough terrain._
-
-Only a hundred meters from the adventurers, an undead dragon has sunken its claws into a band of Rust Brothers. It is drawn to the dozens of restless dead that the Rust Brothers have picked from various villages and locked up in two wheeled iron cages. The beast is starving and slays anyone standing in the way of its feast. A handful of Iron Guards desperately tries to put up a fight while the Rust Brothers flee in panic – several of them in the adventurers’ direction, along with a number of confused undead who have escaped their cages.
-
-- **Terrain Types:** Plains, Forest, Dark Forest, Hills, Mountains, Marshlands, Ruins
-
 > **RESOURCES**
 >
-> To slow down the relentless decay of the body, the undead dragon must constantly replenish its stores of bone marrow. This is achieved by absorbing the marrow of other creatures, preferably fresh undead. The beast’s life essence resides in this everdwindling bone marrow – and this is something the adventurers can extract. In its pure form the marrow is toxic, but an ALCHEMIST (page 156) can with a HEALING roll produce D3 doses of a highly potent elixir. Anyone who drinks it suddenly feels invincible and gets a +2 bonus to all skill rolls based on STRENGTH and EMPATHY for D3 days. During that period the adventurer is also immune to fear attacks.
+> A slain undead dragon yields, for an ALCHEMIST or SORCERER with a HEALING roll over a Quarter Day, one phial of corrupt-marrow, one fold of grave-scale, and one tooth per ⚔️ rolled. The dragon's torque, crown, or grave-treasure (one personal piece) is found among the bones intact regardless of dice rolled.
+>
+> **Corrupt-marrow (canonical, corrupted):** The shadowed ingredient for a corrupted **Elixir of Life**. One phial of bone-marrow brewed by an ALCHEMIST with a HEALING roll over one Quarter Day yields a draught that grants the drinker a D10 Artifact Die to STRENGTH and EMPATHY rolls and immunity to fear attacks for three days. On the third day, the drinker ages D6 years overnight and the years cannot be returned. The Order of the Silent will pay forty silver for any phial; the Rust Brothers will burn the brewer.
+>
+> **Grave-scale (canonical, corrupted):** The shadowed ingredient for a corrupted **Tincture of Earth-Hide**. One scale stitched into a leather hauberk by a SMITH grants the wearer a D8 Artifact Die on ENDURANCE rolls against poison and disease for one season; on every dawn the hauberk is worn, the wearer wakes with one fewer point of Empathy until they leave the hauberk off for one fortnight. A second scale on the same hauberk fixes the loss permanently.
+>
+> **Dragon's tooth (canonical):** The bound alchemical ingredient for **Tooth Powder of the Stoneborn**. A long fang from the upper jaw, ground to powder by an ALCHEMIST with a HEALING roll over a Quarter Day, yields one dose that adds a D8 Artifact Die to a SMITH's first attack of any fight against worked stone or armor of Armor Rating 5 or higher. The Meromannians will pay in worked silver and ask no questions.
+>
+> **Grave-treasure:** A torque, crown, or armband from the dragon's hoard. Worth D6 gold pieces to a town fence; worn openly, the piece marks the bearer to other undead dragons (Lore 4 enough to know the make), who will follow the bearer for the chance to add the piece back to their court.
 
 ### Vampyr
 
@@ -1394,25 +1540,31 @@ Vampyrs are ancient humanlike predators that feed on the blood of humanoid creat
 | 2   | Vampyrs worship the protector god Rust but reject Zytera as a false prophet and regard the Rust Brothers as victims of perverted teachings. |
 | 3   | Vampyrs are cruel and powerful creatures, but quickly grow weaker unless they drink blood every day.                                        |
 
-#### Event: the Temple of the Blood Lord
+#### Random Encounter: the Cleansing of Eikholm
 
-> _From a distance, the village with the smoking chimneys seemed rather welcoming, but as you pass through the village gate there is tension and hostility in the air. People run and hide at the sight of you, and pale, frightened faces can be seen in the windows along the desolate street. In the middle of the village rises a temple with a bloodstained statue of rusted iron standing guard by the dark entrance._
+> _A village green at first dark. The bell of the temple is ringing. Forty villagers stand in a half-ring around a stone trough, and a vampyr in chainmail stands beside the trough with a small girl held under one arm. The villagers' eyes are glassy. The girl is awake._
 
-The creature is a vampyr on the verge of starvation, having not had any blood for several days. Now it makes one last attempt to save its own life. If the adventurers step closer to help, the vampyr springs to its feet and subjects a chosen victim to Monster Attack 6 (see below). The dying vampyr only has 1 point of STRENGTH, but regenerates quickly by consuming the blood spilt from the adventurers during combat.
+The vampyr is Sir Avven, who has been here nine months. He calls himself a messenger of Rust and is cleansing the village of "unclean blood" by draining one villager every third night into the trough. The trough holds the blood of nineteen villagers and is what keeps the mass hypnosis on the rest. The girl tonight is Inge Kaarsdotter, the headman's youngest daughter, and Inge's mother Astri is the only villager not under the hypnosis; she is in her own house, gagged by her hypnotised husband, awaiting Avven's return. Avven is on his ninth month of cleansing because the village is the only one between Vajenden and the Bloodmarch where the Iron Guard does not patrol. The Rust Brothers are camped one day off and have come to kill Avven; they will arrive at sundown tomorrow. If the adventurers kill Avven now, the hypnotised villagers wake the next morning and find what they have stood by, and four hang themselves before the week is out. If they wait for the Rust Brothers, Inge dies tonight. If Avven dies and his blood-trough is burnt, the village becomes a Rust Brothers' garrison; if the trough is preserved, the Order of the Silent will pay for it.
 
-- **Terrain Types:** Forest, Dark Forest, Plains
+- **Terrain Types:** Plains, Forest, Hills, Village
 
-#### Random Encounter: the Dying Vampyr
+#### Random Encounter: the Starving Lord
 
-> _A faint, wheezing whimper is heard from somewhere off the overgrown sunken road. Following the sound through the rugged terrain, you soon encounter a humanoid creature of indeterminate species – ancient and emaciated, stretched out on the ground in a suit of magnificent chainmail. It stares at you with pleading eyes and reaches out a bony, almost skeletal hand, as if asking for help._
+> _A roadside chapel of the Protector. Inside, on the altar, a vampyr in old chainmail lies emaciated, his lips cracked, his eyes closed. He has not fed in nine days. Beside the altar, kneeling, is a young woman in a Rust Brothers' apprentice-frock, holding her own wrist out, weeping._
 
-The village is under the influence of a powerful vampyr who has recently taken up residence in the temple. The creature sees itself as a messenger of Rust, sent to cleanse the humans by draining their blood. It is killing 1–2 villagers a day and will not stop until it has purged the village of impurity – that is, wiped out the entire population. The vampyr surrounds itself with a group of armed villagers (adventurers +D6 in numbers), all of them victims of mass hypnosis (see stat block) and willing to die for their master. Use the stats for Villager ( _Gamemaster’s Guide_, page 184), but add Melee 2 as well as a short spear or an axe.
+The vampyr is Lord Halric the Just, six hundred years old, the last vampyr of his hold. He has been refusing blood for nine days because he has, after six centuries, stopped being able to tell the difference between the blood of an unjust man and the blood of a child; he has been killing both. The young apprentice is his great-great-great-granddaughter, Ylva, who tracked him here through the Rust Brothers' archives and has come to give him her blood and her life. Ylva believes Halric will recover his judgement if he feeds on willing kin-blood. The Rust Brothers, who think Halric is a heretic and Ylva a runaway, have sent a fast band of six to bring her back; the band is half a stretch off. If the adventurers let Halric drink, Ylva dies and Halric does or does not recover; the GM rolls. If the adventurers stop her, Halric dies of thirst within the stretch. If the Rust Brothers arrive, they take Halric's chainmail and Ylva's tongue.
 
-**ADVENTURE SITE:** Village
+- **Terrain Types:** Plains, Forest, Hills, Mountains, Ruins
 
 > **RESOURCES**
 >
-> Instead of a heart, every vampyr carries a rusty piece of iron ore in its chest. The ore is charged with ancient powers that the adventurers can use for their own purposes. Carrying the ore allows the adventurer to perform mass hypnosis (page 108) or become invisible for D10 rounds. The bearer can also regenerate D3 points of STRENGTH by drinking the blood of a humanoid creature, who suffers an equal amount of damage to STRENGTH in the process. However, the powers of the ore can only be used D6 times. The stone can also be hammered into the heart of an adventurer or some other humanoid. It slides into the person’s chest with surprising ease, but the stone bearer turns into a vampyr after D10 days.
+> A slain vampyr yields, for an ALCHEMIST or HEALER with a HEALING roll over a Quarter Day, one phial of vampyr-blood and one fold of fang-dust per ⚔️ rolled. The blood-stone (a rusty iron-ore lump) is found in the chest cavity in place of a heart, intact regardless of dice rolled.
+>
+> **Vampyr-blood:** A red-black ichor kept under wax. One phial drunk by a HEALER as part of any HEALING brew adds a D8 Artifact Die to the brewing roll and lets the brew restore one critical injury. The drinker takes one point of WITS damage and one point of EMPATHY damage that do not heal until they sleep three nights in a chapel of the Protector or a sanctum of the Raven Sisters.
+>
+> **Fang-dust:** A fine, ivory-coloured powder ground from the upper canines. One pinch dissolved in water by an ALCHEMIST with a HEALING roll yields one dose; drunk, the dose lets the drinker, for one stretch, hypnotise one humanoid NPC of EMPATHY 4 or below into doing one one-line task; the drinker's eyes glow red for the stretch and the task cannot be "die" or "hurt yourself." One vampyr yields three doses.
+>
+> **Blood-stone:** A rusty iron-ore lump the size of a fist, the vampyr's heart. Carried, it grants the bearer one of three powers per use, up to D6 uses total: hypnotise D10 weak humanoids (Empathy 3 or below) for D10 days; turn invisible for D10 rounds; or restore D3 points of STRENGTH by drinking the blood of one humanoid (the source takes the same loss). When the uses run out, the stone goes cold and is worth one gold piece to a smith for the ore. Hammered into the chest of any willing humanoid by an ALCHEMIST with a HEALING roll, the stone slides in without a wound and the bearer becomes a vampyr in D10 days; the Rust Brothers will burn anyone who consents to it.
 
 ### Water Troll
 
@@ -1447,25 +1599,31 @@ Water trolls are an offshoot of the troll species that has evolved to live in wa
 | 2   | Water trolls are cunning and devious killers, but strange scratch marks in waterside terrain are a classic warning sign to trained eyes. |
 | 3   | Water trolls live in deep, maze- like lairs which they dig into the banks of watercourses and fll with food and glittering objects.      |
 
-#### Random Encounter: the Missing Groom
+#### Random Encounter: the Bride's Toll
 
-> _Loud moans and wails are heard in the distance. As you draw closer, you see farmers in festive clothes moving frantically around a carriage adorned with flowers, in the middle of a stone bridge over a small river. They are crying, complaining, tearing their hair, and making agitated gestures toward the dark water. “Help!” bellows a sturdy matron who rushes towards you, braids flapping behind her: “The river god has taken my boy! He was supposed to get married today – you’ve got to help us!”_
+> _A stone bridge over a slow river. A wedding party of forty stands on the bridge, their cart blocked. The bride, a stout woman of thirty named Halge, is on her knees on the bridge-stones beside an old well-shaft cut into the parapet. She is lowering a basket of fresh-killed pork into the shaft. The shaft drops into the river._
 
-The poor youngster has been snatched by a hungry water troll that has swum away with the body to its underground larder. The body is mangled and covered in bite marks, but the groom’s life can still be saved. The water troll’s lair is a veritable cave system with lots of chambers connected by labyrinthine, partially flooded tunnels. The entrance is partially hidden under the surface and can only be discovered with a successful SURVIVAL roll. By rummaging through the ungodly remains covering the floor and crevices, the adventurers can find Valuable Finds.
+The bridge has stood for two hundred years. Three generations back, the village paid a water troll a yearly tithe of pork through this shaft and the troll left their children alone. The tithe stopped twenty winters ago when the village joined the Protector's church. Last spring the troll, called Old Brackish, took two children from the riverbank and one washerwoman; the village has been losing six head of pork a year ever since to keep the rest. Halge's groom, Saren, refused to pay tithe on his wedding-day because he is now a Rust Brother and the Rust Brothers do not pay troll-tithes. Saren is on the far side of the bridge with his fellow Brothers, watching. Halge is paying the tithe anyway because her sister was one of the children Old Brackish took. If the adventurers stop the tithe, the troll will rise from the shaft within the stretch and take Halge or Saren or any nearer body; if they let it pass, Saren will renounce Halge before the village. The Rust Brothers expect the adventurers to back the new faith.
 
-- **Terrain Types:** Lake, Quagmire, Marshlands
+- **Terrain Types:** Plains, Lake, Marshlands, Village
 
-#### Random Encounter: Death in the Pond
+#### Random Encounter: the Tooth-Carver's Stones
 
-> _A small pond is seen through the tall trees of the forest. The water’s surface is glassy and calm, and the place seems infinitely peaceful. Moving closer, you notice strange traces in the terrain around the dark pool. What looks like a kind of runes have been carved deeply into trees and stones – though they may just as well be the marks of a large beast that has sharpened its claws by the shore._
+> _A still pond in deep forest. The trees and stones around the pond are scored with deep, careful runes. A girl of perhaps thirteen sits cross-legged on a rock by the water, carving another rune into the bark of a birch with a long bone knife. She has not noticed the travellers._
 
-Adventurers who succeed with a SURVIVAL roll realize that these are the marks of a water troll. More importantly: the large number of carvings indicates that the adventurers are intruding on the beast’s territory. This is an important realization. It means that the famished water troll lurking at the water’s edge loses its positive modification as it moments later ambushes the adventurers.
+The girl is Sigrid, daughter of the river-witch Liva. Liva died of fever last winter and Sigrid has been keeping the troll-pact alone for three seasons. The runes are an old Aslene tongue and they tell Old Mossback, the water troll of this pond, the names of the year's drowned (the troll eats only the named dead, not the living, while the runes are kept fresh). Sigrid has run out of names; she has been carving the names of the still-living one by one to keep the pact going, and seven villagers along the river have died of fever in their beds in the last fortnight, each of them on the night their name was carved. The troll is coming up out of the pond at sundown to read the new names. Sigrid is thirteen, alone, and out of names; the next name she will carve is her own. The Iron Guard has heard rumours of the river-witch and is one day off, hunting. If the troll is killed, the pact ends and the village downstream loses its drowned-protection and its yearly grain-tithe.
 
-- **Terrain Types:** Forest, Dark Forest, Quagmire, Marshlands
+- **Terrain Types:** Forest, Dark Forest, Lake, Quagmire, Marshlands
 
 > **RESOURCES**
 >
-> An adventurer with the TANNER talent can craft a leather armor with Armor Rating 4 from the tough and scaly skin of the water troll.
+> A slain water troll yields, for an ALCHEMIST or HUNTER with a HEALING or CRAFTING roll, one phial of brackish-bile, one tooth, and one fold of scaled-hide per ⚔️ rolled. A separate carve, requiring the TANNER talent, takes the whole hide intact regardless of dice rolled.
+>
+> **Brackish-bile (canonical, troll's blood):** The bound alchemical ingredient for **Tincture of Earth-Hide**, brackish variant. One phial of bile drunk by a HEALER or DRUID lets the drinker breathe water like air for one stretch and reroll one ENDURANCE roll within that stretch; a second phial within the same Quarter Day fills the drinker's lungs with mire-water and they drown on dry land in three rounds.
+>
+> **Water-troll's tooth (canonical):** The bound alchemical ingredient for **Tooth Powder of the Stoneborn**, river variant. One tooth set into the haft of a fishing-spear or net-pole by a SMITH adds a D8 Artifact Die to the first attack of any fight against creatures wholly or mostly underwater (water trolls, sea serpents, mire drakes, hydra) and to the first FISHING roll of any one stretch. The Aslene riverfolk pay in worked silver for any tooth and ask the slayer no questions.
+>
+> **Scaled-hide:** The whole hide of the troll, scaled along the back, soft along the belly. Worked by a TANNER over one Quarter Day, the hide yields a leather armor of Armor Rating 4 that does not stiffen in cold water and does not rot in marsh-water for two seasons. The Rust Brothers will not buy it; the Aslene riverfolk and the village of Three Stakes will pay handsomely.
 
 ### Will-o’-the-wisp
 
@@ -1497,25 +1655,31 @@ Willo’-thewisps are said to be the ghosts of druids, Raven Sisters, and other 
 | 2   | A will-o'-the-wisp does not haunt the place of its ash by chance; some bone, scrap, or scorched timber from the day of its death still holds it to the world. |
 | 3   | Steel cannot end them, nor sword nor arrow. Only the breaking of the keepsake that binds them — the burned post, the cursed relic, the very tree that took the fire — will release the soul they once were. |
 
-#### Random Encounter: Wisps in the Woods
+#### Random Encounter: the Stake That Will Not Burn
 
-> _Something flashes in the darkness among the trees. A sudden flare of light, faint and flickering. It moves rapidly, almost teasingly, to the side. Then it vanishes and all goes dark again. A few moments later it flares up anew, a bit further into the woods. It is an eerie yet beautiful glow, one that makes you long to step out of the darkness, into the light and the embracing warmth._
+> _A village square. In the centre stands a black, half-burnt stake of yew, scorched but not consumed. A will-o'-the-wisp circles the stake, slowly, as it has every dusk for thirty years. Around it the villagers have lit a ring of nine torches and forty of them are kneeling on the cobbles in prayer to the Protector. They have done this every dusk for thirty years._
 
-The adventurers have been spotted by a vicious willo’-thewisp that tries to lure them into a treacherous mangrove swamp. All adventurers must make an opposed roll for INSIGHT against the creature’s WITS. Those who fail begin to follow the light into the cold waters of the swamp. Another opposed roll can be made once the victim is underwater, at which point they start to take damage according to the rules for drowning (the _Player’s Handbook_, page 113). The willo’-thewisp has its dwelling inside a charred tree at the heart of the swamp. That is where it once met its fiery end, and the tree still glows with a cold, bleak light.
+The wisp is the ghost of a Raven Sister named Hild Whitecuff, burned at this stake forty winters ago by Brother Halric of the Rust order. The villagers, then Rust Brothers' converts, lit the pyre. Their grandchildren have been keeping the dusk-vigil since the wisp first appeared, ten years on, because the wisp leaves anyone in prayer alone and burns alive any villager out of the ring. Six villagers have died over the years to the wisp's flame. The headman, Ola Jonsson, has been told by a passing Druid that the stake itself is the dwelling and that burning it ends the wisp. Ola will not burn it; the stake is the village's only relic of the old faith and the only reason the Raven Sisters have not yet come to burn the village in turn. A young woman, Inge, who has converted back to the old faith, will offer the adventurers her dead mother's silver brooch (worth two gold pieces) to chop down the stake at dawn while the wisp sleeps. Halfway through the chopping, the village's Rust Brothers' priest will arrive with three Iron Guards.
 
-- **Terrain Types:** Forest, Dark Forest, Hills
+- **Terrain Types:** Plains, Forest, Hills, Village
 
-#### Random Encounter: the Enchanted Cauldron
+#### Random Encounter: the Lantern of the Drowned
 
-> _First you notice the outlandish smell. It slithers between the trees with the promise of food and a warming hearth. Perhaps it is roasted boar or rabbit stew being cooked? Soon you see it: a partially collapsed, moss- covered stone building, in the middle of an overgrown clearing. The place seems abandoned, but faint wisps of smoke are rising from the chimney._
+> _A peat-cutter's hut on the edge of a black mire at twilight. A will-o'-the-wisp hangs over the door of the hut, faintly. Inside, a man called Olav lies on a pallet with a smashed leg, fevered. His seven-year-old son, Tomas, sits cross-legged on the doorstep, staring at the wisp, smiling._
 
-A powerful willo’-thewisp has taken up residence in the old house. It is bound to a mossy iron cauldron hanging in the dark over an extinguished hearth. But player characters who fail their opposed roll against the wisp’s WITS see something else: a delicious meat stew over a crackling fire. Lured victims who go near the fireplace will fall down a smoke shaft along with the cauldron and the laughing willo’-thewisp (a fivemeter drop). The whole building is in fact one big death trap, and adventurers who fail a MOVE roll crash through the floor and fall into the cellar, where they are attacked by a drowsy gray bear.
+The wisp's dwelling is a charred yew lantern hanging from the eaves of the hut, lit by Olav's grandfather forty years ago and never put out. Olav has known the wisp all his life; it has led nine drowned bodies home through the mire, including Olav's wife three years ago. It has also lured eleven travellers off the safe paths to drown. The wisp keeps the mire's footing safe for Olav's family alone. Olav's leg, smashed under a peat-sled, will kill him within the night without a Druid; the nearest Druid is across the mire, two leagues. Tomas can be led across the mire by the wisp because the wisp knows him; no one else can cross safely without a SURVIVAL roll, and any failure drowns. If the wisp's lantern is broken, the wisp ends and the mire-paths come open to anyone, but Olav dies tonight because Tomas cannot cross without it. If Tomas is sent across with the wisp, he comes back at dawn with a Druid and the wisp takes one of the Druid's apprentices on the return. If the adventurers cross the mire with Tomas, the wisp kills one of them on the way.
 
-- **Terrain Types:** Plains, Forest, Dark Forest, Hills, Mountains, Marshlands
+- **Terrain Types:** Forest, Dark Forest, Marshlands, Quagmire
 
 > **RESOURCES**
 >
-> A sorcerous adventurer can extract a crystal of concentrated vile light from a defeated willo’-thewisp by using 1 Willpower Point. The crystal counts as a TINY item and works as a permanent light source that can only be dimmed by covering it with a thick piece of cloth or the like. It lights up one zone, even in magical darkness, and also gives all adventurers a +2 modification to attacks against nightwargs and all forms of blood mist.
+> A banished will-o'-the-wisp (one whose dwelling has been broken or whose body has been driven off by fire) leaves behind, for a SORCERER who spends 1 Willpower Point at the moment of the banishing, one cold-light crystal and one fold of pyre-ash. A separate gather, requiring a HEALING roll over a Quarter Day, takes one shaving from the broken dwelling intact regardless of dice rolled.
+>
+> **Cold-light crystal:** A clear shard the size of a thumb, kept in a cloth pouch. Carried, the crystal sheds a steady cold light at NEAR range that does not blow out, does not run out of fuel, and works in magical darkness. Drawn from the pouch in the presence of nightwargs or any form of Blood Mist, it grants all adventurers within NEAR range a D8 Artifact Die on attack rolls against the wargs or against fog-bound foes. The crystal can be smothered for a stretch by wrapping it in cloth.
+>
+> **Pyre-ash:** A grey-white ash, the residue of the wisp's last flame. One pinch sprinkled at a doorway by a DRUID with a HEALING roll keeps wisps from settling on the threshold for one season; one pinch dropped into a hearth-fire makes the fire burn green and silent for one stretch and lets the household speak with one named dead person of their choosing through the smoke. The dead speaks once and then will not speak again until the next pinch is given.
+>
+> **Dwelling-shaving:** A splinter or shard from the broken stake, cauldron, or lantern that bound the wisp. Carried, the shaving lets the bearer recognize any other will-o'-the-wisp's dwelling within NEAR range with a SCOUTING roll; the shaving turns to ash after one season and crumbles in the bearer's hand. The Raven Sisters will pay in worked silver for any shaving from a Sister's pyre and burn anyone they catch keeping one for hire.
 
 ### Wolfshadow
 
@@ -1550,26 +1714,31 @@ The wolfshadow is an immaterial being that possesses humanoid creatures and grad
 | 2   | Old hunters say the wolfshadow flinches from one god above all others, and that a weapon blessed in the right rite has driven more than one back into the night where it was born. The host meanwhile turns into a raging hunger beast that gradually transforms into a nightwarg. |
 | 3   | The Nightwalker is the wolfshadow's own dread, and a blade consecrated in his rites can drive the thing from a stolen body. But such a duel must wait for the night when the moon is full and round, when the old god's hand is heaviest in the world. |
 
-#### Random Encounter: the Survivor
+#### Random Encounter: the Knight in the Wheat
 
-> _The first thing you notice are the carrion birds ominously circling a place further ahead. Moving closer you see the remains of a battlefield opening up like a great wound in the terrain. The ground is trampled and covered in blood, broken weapons, and mangled bodies. Suddenly you hear a deep growl – and a nightmarish figure of darkness and blood slowly rises from the mass of corpses._
+> _A wheat field at high summer. A knight in dented Alderlander plate kneels in the standing grain, weeping. Beside him on the trampled stalks lies the body of his squire, a boy of fourteen, half-eaten. The knight has been kneeling here three days. Twice he has tried to fall on his sword and twice the sword has refused to bite._
 
-The adventurers are attacked by a bloodcrazed wolfshadow that leaps at them with gaping jaws and a huge twohanded sword. It has recently possessed one of the battlefield’s warriors: an Alderlander knight who attracted the creature in the heat of battle. The wolfshadow attacks frenetically, but retreats if the opposition proves too great. If the GM wants, the knight could return in a later context, perhaps to seek the adventurers’ help in lifting the deadly curse.
+The knight is Sir Halric of Ravenholt, possessed by a wolfshadow nine months ago in a battle on the Bloodmarch. Sir Halric has been keeping the wolfshadow chained by refusing all combat for nine months, but yesterday he was set upon by three Iron Guardsmen on this road and the wolfshadow took him; the squire was the third body of the day. Sir Halric knows the rite of single combat under the full moon with a blade consecrated to the Nightwalker; the moon is full tomorrow night and he carries the consecrated blade in a wrapped bundle. He cannot fight himself; the wolfshadow turns the blade. He will, if approached, ask one of the adventurers to fight him at moonrise tomorrow. He warns: the wolfshadow takes whichever fighter loses control of their wrath first, and the chosen adventurer must keep their head, or wake possessed in his place. The squire's family is in the village two days off and have not yet been told. The Iron Guard has noticed three of their men missing and a patrol is one day behind.
 
-- **Terrain Types:** Forest, Plains, Hills, Marshlands
+- **Terrain Types:** Plains, Forest, Hills
 
-#### Event: a Defiled Place
+#### Random Encounter: the Wolves' Convert
 
-> _A place of death suddenly opens up in the peaceful farmland. Scores of corpses litter the ground, hidden behind tall stalks of grain. The bodies are covered in strange runes, written in ash, and many of them have been partially eaten, but in a macabre, ritualistic fashion rather than savage and animalistic. A bloody trail runs through the field towards some smoking chimneys in the distance: a small oasis of civilization in the middle of the Forbidden Lands._
+> _A clearing in deep forest. Twelve villagers stand in a half-ring around a stone altar smeared in fresh blood. On the altar lies a young man, willing, his eyes open. A swordsman in old chain stands over him with a knife. The swordsman's shadow is wrong: it has the head of a wolf._
 
-A bloodthirsty swordsman, fanatical in his worship of the Nightwalker, has performed the ancient and forbidden ritual that turns a human
-being into a wolfshadow. The creature has gone to the nearby village to spread the predatory darkness’ cruel message by forcing the villagers to perform the same ritual – thereby creating even more wolfshadows. Unless the adventurers intervene and prevent the massacre, they will soon be hunted through the fields by D6 newly formed wolfshadows.
+The swordsman is Brother Eldrik of the Howling Path, a willing wolfshadow who serves the Nightwalker as missionary. He has been working this stretch of road for six seasons and has converted three villages. The young man on the altar is Ragnar, the headman's son of the village of Grevsdal. Ragnar has come to the conversion willingly because his sister was taken by the Blue Plague last spring and the Nightwalker's rite is the only path he was offered to power enough to stop another plague-summer. The twelve villagers around the altar are Ragnar's neighbours and friends, all converted in the last three nights. Eldrik will, if interrupted, offer the adventurers their own conversion or their lives; he has the patience of his kind. If the adventurers stop the rite, Ragnar's sister stays unavenged and Ragnar weeps for it; if they let it complete, Grevsdal becomes a wolfshadow village by midwinter and the next plague-summer is broken before it begins. The Iron Guard has heard of the village and has sent a Captain named Halrid to settle the matter; he is camped one day off with twenty Iron Guards and twelve Rust Brothers and intends to burn the whole village.
 
-**Adventure Site:** Village
+- **Terrain Types:** Forest, Dark Forest, Hills, Village
 
 > **RESOURCES**
 >
-> The wolfshadow is linked to the mysteries of night and darkness. From the darkness that arises from a slain wolfshadow, an ALCHEMIST (page 156) who makes a HEALING roll can produce D3 doses of a magical extract that gives the user a D10 artifact die to STEALTH and all attempts to hide or move unseen under the cover of night.
+> A slain wolfshadow yields, for an ALCHEMIST or HUNTER with a HEALING or SCOUTING roll, one phial of shadow-extract and one fold of darkmane per ⚔️ rolled. The wolfshadow's weapon (whatever it carried into the fight) is found beside the body, intact regardless of dice rolled.
+>
+> **Shadow-extract:** A black, oily liquid kept under a sealed pewter stopper. One dose drunk by the bearer grants a D10 Artifact Die to STEALTH and to all attempts to hide or move unseen between sundown and sunup for one Quarter Day; one wolfshadow yields D3 doses. The drinker's eyes turn yellow for the same Quarter Day and any sworn worshipper of the Nightwalker recognizes the eye-mark on sight; the Iron Guard takes the eye-mark as cause to hang.
+>
+> **Darkmane:** Coarse fur the colour of black water, scraped from the throat. One fold spun into a hunting-cloak by a TANNER over a Quarter Day yields a cloak that turns aside the COLD condition for one full journey leg and grants a D8 Artifact Die on SCOUTING rolls made between sundown and sunup. The cloak smells of carrion to dogs and horses, who will not bear the wearer.
+>
+> **Wolfshadow's weapon:** Whatever the host was carrying when it fell. The weapon retains the wolfshadow's edge: a D10 Artifact Die to the wielder's first attack of any fight, but the wielder must succeed on an ENDURANCE roll after the fight or attract another wolfshadow within nine days. The weapon can be cleansed by a Druid or a Raven Sister at a forge over a Quarter Day; the cleansing strips the bonus and ends the threat. The Howling Path will pay forty silver for any wolfshadow's weapon brought to them; the Raven Sisters will burn anyone caught keeping one for hire.
 
 ## Legends
 
