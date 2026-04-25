@@ -2,13 +2,22 @@
 name: forbidden-lands-lore
 description: |
   Use when checking, auditing, or enforcing Forbidden Lands setting
-  authenticity. Covers geography, the three human peoples, non-human kin,
-  magic paths, religion, currency, proper nouns, and the world state
-  after the Blood Mist. Load this skill whenever writing or reviewing
-  prose that involves place names, character nationality, kin identity,
-  cultural details, or any fact claim about the Ravenlands setting.
-  Also use when auditing existing text for setting errors or
-  anachronisms.
+  authenticity, and when classifying tone or designing encounters
+  for the Forbidden Lands 2E manuscript. Covers geography, the three
+  human peoples, non-human kin, magic paths, the full pantheon and
+  religious orders, the canonical chronology and named historical
+  figures, the bestiary lore (origin myths, ecology, encounter
+  shapes), the canonical artifacts, and the village-as-system model
+  (The Hollows reference, Heat and Need, named geography). Also the
+  authority for genre register: re-feudal medieval survival fantasy
+  with Swedish tone, realistic village authenticity, soft
+  Tolkienesque worldbuilding, and the encounter anti-trope catalog.
+  Load this skill whenever writing or reviewing prose that involves
+  place names, character nationality, kin identity, cultural detail,
+  monster lore, religious factions, artifacts, named NPCs, village
+  texture, or any fact claim about the Ravenlands setting. Also use
+  when auditing existing text for setting errors, anachronisms,
+  basic-fantasy tropes, or wrong-register tone.
 ---
 
 # Forbidden Lands Lore
@@ -34,20 +43,85 @@ author decisions.
 - `references/setting-ravenland-and-human-peoples.md`
   The master setting document. Contains:
   - World state (post-Blood Mist, broken infrastructure)
-  - Religion (Raven Church, Congregation, Rust Brothers)
+  - Religion (Raven Church, Congregation, Rust Brothers) — quick form
   - Currency (silver, no mines, old Alder War coins)
   - Geography table (canonical and manuscript-canon locations)
-  - The three human peoples with approved physical types:
-    - Alderlander (Icelandic/Swedish)
-    - Aslene (Arabic/Mongol mix, proper Mongol features)
-    - Ailander (Slavic)
+  - The three human peoples with approved physical types
   - Non-human kin table (8 kin with physical and cultural tells)
   - Dwarf and half-elf cultural details
-  - Magic system notes (15 paths, key details for Blood Magic,
-    Mentalism, Awareness, Symbolism, Death Magic, Healing, Stone Song)
+  - Magic system notes (15 paths)
   - Writing rules for human nationality in prose
-  - Proper noun appendix (canonical names for people, settlements,
-    terrain, factions)
+  - Proper noun appendix
+
+- `references/tone-and-encounter-design.md`
+  The genre-register and encounter-authenticity authority. Contains:
+  - Genre Classification: re-feudal medieval survival fantasy with
+    Swedish tone, realistic village authenticity, soft Tolkienesque
+    poetic worldbuilding (each clause defined as a constraint)
+  - What Forbidden Lands Is Not (failure modes)
+  - Encounter Anti-Trope Catalog (7 anti-tropes with in-world
+    reasons, paired to the 7 encounter shapes in the bestiary skill)
+  - Vignette and Novella Register (sensory anchors, voice anchors,
+    plot anchors)
+
+- `references/history-and-chronology.md`
+  Calendar (8 phases and named festivals), full chronology from the
+  Mythic Past to 1165 AS, named historical figures index (~32
+  entries), guidance on referencing dates in prose.
+
+- `references/gods-and-religions.md`
+  The full pantheon: the Protector under three faces (Wyrm/Raven/
+  Rust), Reapenters, Sisters of Heme, Vampyr heresy, the Older
+  Gods (Huge, Clay, Wail, Flow, Nightwalker, Horn, Eor, Red
+  Wanderer), other powers (Shardmaiden, Golden Bough, Order of
+  the Silent, Stone Singers, Maha language). Reference NPC
+  statblocks for each major religious order. Faction distribution
+  by region.
+
+- `references/kin-deep-dive.md`
+  Cultural depth on every kin: clan names, governance, customs,
+  named individuals, statblock anchors. Humans (Alderlanders,
+  Ailanders, Frailers, The Silent, Aslenes, Quards, Galdanes),
+  Elvenspring, Misgrown, Elves (Stillelves, Unruly, Ents, Melders,
+  Watchers, Redrunners), Dwarves (Belderranian, Meromannian,
+  Canide, Crombe, Dwelvers), Ogres, Orcs (Urhur, Roka, Isir,
+  Viraga, Drifters), Wolfkin, Saurians, Whiners, Halflings,
+  Goblins.
+
+- `references/bestiary-creatures-and-monsters.md`
+  Lore for every named creature: origin myth, ecology, cultural
+  integration, named individuals (Erinya, Menkaura, Krasjika),
+  folk warnings, encounter-shape anchors. Includes the lore-rule:
+  _A monster is a contract the village has been keeping, and the
+  contract is now breaking._ Pair with the bestiary skill for
+  encounter mechanics.
+
+- `references/artifacts-and-named-relics.md`
+  Every named artifact: myth-as-told, truth-behind-myth,
+  mechanical hint, current location/holder. Asina, Barkhyde,
+  Carskenfoot's Boots, Clay's Rosary, Feroxa's Claws, Ivelde,
+  Menkaura's Tooth, Phantom Daggers, Queen Agatha's Twin Tablets,
+  Scarnesbane, Nightwalker's Hourglass, Tezaur, Tvedra's Twin
+  Rings, Voller's Helmet, Wail's Horn, Well of Tears, Wyrm's
+  Key, Arrow of the Fire Wyrm.
+
+- `references/places-villages-adventure-sites.md`
+  The village-as-system model (seven components), The Hollows
+  full reference (template for village authenticity), Heat and
+  Need lore-side, settlement archetypes, named geography master
+  index covering all manuscript regions.
+
+## Companion Skills
+
+- `skills/forbidden-lands-bestiary/SKILL.md` — encounter design
+  mandate, the seven encounter shapes, the Resources mandate,
+  statblock format. **Load alongside this skill** when writing
+  any monster encounter or bestiary entry.
+- `skills/forbidden-lands-writing/SKILL.md` — sentence-level prose
+  technique and the Worldbuilding Voice section. **Load alongside
+  this skill** when drafting manuscript or proposal prose.
+- `skills/forbidden-lands-design/SKILL.md` — mechanics and rules
+  integration.
 
 ## Hard Rules
 
@@ -79,8 +153,39 @@ author decisions.
    assemble it.
 
 7. **The Blood Mist is recent history.** Ten generations of isolation.
-   The Mist lifted recently. Infrastructure is broken. Settlements
-   are suspicious. This is the baseline.
+   The Mist lifted in 1160 AS; the manuscript "now" is 1165 AS.
+   Infrastructure is broken. Settlements are suspicious. This is
+   the baseline.
+
+8. **The tonal register is fixed.** Re-feudal medieval survival
+   fantasy with Swedish tone, realistic village authenticity, and
+   soft Tolkienesque poetic worldbuilding. Each clause is a
+   constraint — see `references/tone-and-encounter-design.md` for
+   the definitions. Reject any draft that drifts toward generic
+   high-fantasy, heroic-quest, or modern-comic register.
+
+9. **Encounters refuse the seven anti-tropes.** Kill-the-monster,
+   purge-the-undead, defeat-the-cultists, kill-the-bandits,
+   mindless-orcs, good-faction-vs-bad-faction, find-the-artifact-win.
+   Every monster encounter is a contract that the village has been
+   keeping. Every undead is a confused dead or a wrong unanswered.
+   Every faction is partly right. Every artifact carries a curse,
+   a contested provenance, or a binding that was load-bearing
+   somewhere. Pair with the seven approved encounter shapes in the
+   bestiary skill.
+
+10. **Named historical figures are mostly still alive.** Elves
+    millennia, dwarves centuries, Death Knights and undead artifacts
+    longer. Hroka, Archa, Karonax, Sulma, Tademir, Turik, Tormund,
+    Zytera, Zygofer, Therania, Merigall, Krasylla, Zertorme,
+    Badalar, Geno, Kartorda, Blaudewedd, Veliman, Teramalda — alive
+    in 1165 AS. See `references/history-and-chronology.md`.
+
+11. **Every village described in prose names at least three of its
+    seven components in the first 200 words** — food source, water
+    source, defense, shrine(s), burial place, authority, grudge
+    structure. The Hollows is the template. See
+    `references/places-villages-adventure-sites.md`.
 
 ## Audit Checklist
 
@@ -88,12 +193,37 @@ When auditing prose for setting authenticity, check:
 
 - [ ] Place names match canonical or manuscript-canon list
 - [ ] Human character descriptions match approved physical types
-- [ ] Kin descriptions match the kin table
+- [ ] Kin descriptions match the kin table and the deep-dive file
 - [ ] Magic references match the correct path and mechanics
-- [ ] Religious references use correct faction names
-- [ ] Currency references use silver (not gold, not "coins" generically)
-- [ ] World state reflects post-Blood Mist conditions
-- [ ] No anachronisms (no modern institutions, no banks, no courts)
+- [ ] Religious references use correct faction names; faction
+      distribution is plausible for the region
+- [ ] Currency references use silver (not gold, not "coins"
+      generically); old Alder War coin is the prestige form
+- [ ] World state reflects post-Blood Mist conditions (1165 AS,
+      five years since the Mist lifted)
+- [ ] No anachronisms (no banks, no courts, no postal service, no
+      printed broadsheets, no hospitals)
 - [ ] Proper nouns spelled consistently
-- [ ] Cultural behaviors match the people (Alderlander = hierarchical,
-  Aslene = horse/steppe, Ailander = pastoral/egalitarian)
+- [ ] Cultural behaviors match the people
+- [ ] **Tonal register** matches the genre classification
+      (re-feudal / survival / Swedish / village-real / soft
+      Tolkienesque). No high-fantasy drift, no comic-fantasy
+      drift, no modern-genre drift.
+- [ ] **Encounters refuse the anti-trope catalog.** No
+      kill-the-monster as the right answer; no undead-purge as
+      the right answer; no mindless-orcs; no good-faction-vs-bad;
+      no find-artifact-win.
+- [ ] **Monsters carry a contract** that some village or person
+      has been keeping. The contract is the scene, not the fight.
+- [ ] **Named historical figures** referenced consistently with
+      the chronology (alive vs dead, current location, current
+      pressure).
+- [ ] **Villages** are named via at least three of the seven
+      components (food, water, defense, shrine, burial, authority,
+      grudge) in the first 200 words.
+- [ ] **Time** is anchored by the eight phases (Springrise →
+      Winterwane) or named festivals (Awakening Day, Lushday,
+      Harvest Day, Rotday, Midwinter, Midsummer), not "spring,"
+      "autumn," "next year."
+- [ ] **Calendar dates** are in AS (After the Shift) only when an
+      old object, person, or grievance forces them into the scene.

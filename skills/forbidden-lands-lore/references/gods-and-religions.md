@@ -37,6 +37,7 @@ they led the Ailanders out of Alderland 700 years ago and are
 hated by Alderland orthodoxy as heretics and traitors.
 
 **Typical Raven Sister:**
+
 - STR 3, AGI 3, WIT 3, EMP 3
 - Skills: Healing 3, Lore 2, Insight 3, Manipulation 2
 - Talents: Path of Healing 2, Path of Shifting Shapes 1, or Path of Sight 1
@@ -50,6 +51,7 @@ the last human, dead or alive, has left it. So they kill any
 human they meet who does not yet understand this.
 
 **Typical Blackwing:**
+
 - STR 3, AGI 4, WIT 2, EMP 2
 - Skills: Stealth 3, Melee 2, Marksmanship 2, Survival 2
 - Gear: Black-feathered cloak, knife, garrote, short bow
@@ -71,12 +73,14 @@ guardians. They are said to know how to turn a ghoul into a
 **Death Knight**.
 
 **Typical Rust Brother:**
+
 - STR 4, AGI 3, WIT 3, EMP 2
 - Skills: Melee 3, Endurance 2, Manipulation 2, Lore 2
 - Talents: Path of the Enemy 1
 - Gear: Mace, rusty chainmail, iron Rust sigil
 
 **Typical Iron Guard:**
+
 - STR 4, AGI 3, WIT 3, EMP 3
 - Skills: Melee 4, Move 2, Endurance 3, Animal Handling 2
 - Talents: Path of the Enemy 2
@@ -90,6 +94,7 @@ of Heme appear in roadside shrines. The Wolfkin call her _the
 Huntress_ and worship her in seasonal blood-rituals.
 
 **Typical Sister of Heme:**
+
 - STR 3, AGI 3, WIT 3, EMP 3
 - Skills: Melee 2, Healing 2, Survival 2, Animal Handling 2, Manipulation 2
 - Talents: Path of the Forest 1
@@ -219,6 +224,7 @@ foreheads. The Maidens are the most aggressive druidic order;
 they fight Zytera and the Rust Brothers as a primary calling.
 
 **Typical Maiden Druid:**
+
 - STR 2, AGI 3, WIT 4, EMP 3
 - Skills: Melee 2, Marksmanship 2, Lore 2, Manipulation 2, Move 1
 - Talents: Path of Shifting Shapes 2
@@ -232,6 +238,7 @@ Their domain is **Dankwood** and **Vivend**. Most members are
 become Ents. They accept nature's cruelty as part of its course.
 
 **Typical Golden Bough Druid:**
+
 - STR 3, AGI 3, WIT 4, EMP 3
 - Skills: Melee 2, Scouting 2, Lore 3, Marksmanship 2, Survival 3, Animal Handling 3
 - Talents: Path of Healing 2

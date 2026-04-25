@@ -30,6 +30,7 @@ a merchant who controls the mill. Courts and banks do not exist.
 Nobles exist but their writ stops at the next hill.
 
 What this means in prose:
+
 - Authority is personal, not institutional.
 - Coin is silver, scarce, and often "old Alder War coin."
 - Travel between villages is an event, not a routine.
@@ -71,6 +72,7 @@ The tonal signature in English prose:
 
 Villages are not adventure-hub sets. They are economies. Each one
 has:
+
 - A working food source (field, herd, fishery, fungus, foraging).
 - A water source (well, stream, cistern, river).
 - A defense (palisade, wall, cliff, marsh).
@@ -101,6 +103,7 @@ inheritance — long-lived elves, lineage dwarves, half-kin, wandering
 strangers, songs older than walls — but never the imperial register.
 
 What is Tolkienesque:
+
 - A song is older than the singer.
 - A name in a story may belong to someone still alive — or to a
   ruby in a temple.
@@ -110,6 +113,7 @@ What is Tolkienesque:
   mountain; the Stillmist beyond.
 
 What is **not** Tolkienesque:
+
 - No high kings. No prophesied returns. No clean good-vs-evil.
 - No epic march of armies as the central plot mode.
 - No quest as monomyth. The party is not chosen.
