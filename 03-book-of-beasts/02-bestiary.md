@@ -1935,9 +1935,11 @@ The capsule is locked, but can be opened with a SLEIGHT OF HAND roll. Inside is 
 
 ### **3** the Man in the Iron Cage
 
-> _A big, black iron cage dangles ominously from a dead tree nearby. Straw and bones from previous prisoners can be glimpsed through the rusty bars. In the middle of the mess sits an emaciated, wild-looking man. He seems preoccupied with cleaning his nails with a torn-off skeleton finger, but suddenly looks up and stretches out his arms towards you in an imploring gesture._
+> _The cage is iron, old iron, spotted with rust at the hinges — but the lock is new. The man inside is using a finger-bone from someone's skeleton as a nail-file, working it between his fingers with the casual patience of a man accustomed to waiting. When he sees you he sets the bone down and stretches both arms through the bars. "My friends," he says. "I have been hoping for men of discernment."_
 
-The man with the feral beard introduces himself as Ambrosius Klack. He claims to be the most skilled and handsome swordsman in Ravenland, unjustly imprisoned by a local usurper because of a slight amorous misunderstanding. If the player characters pick the lock (SLEIGHT OF HAND) and free Ambrosius, he will show his gratitude by taking them to a hollow tree nearby, where he has stowed a treasure that he now offers them as a reward. Roll once on the table Valuable Finds in a Lair.
+The man is Ambrosius Klack, who introduces himself as the finest and most handsome swordsman in the Forbidden Lands. He is in the cage because a local lord caught him in the lord's bed with the lord's wife. Ambrosius maintains he was invited. He will tell the party whatever version seems most likely to get the lock open.
+
+If the adventurers pick the lock (SLEIGHT OF HAND) and free him, he leads them to a hollow tree nearby where he has stashed a cache of valuables. Roll once on the table Valuable Finds in a Lair. Ambrosius will also, if not discouraged, attach himself to the party. The lord's men are two hexes away with a warrant carrying his description, which becomes the party's problem the moment anyone sees them with him.
 
 - **Terrain Types:** Forest, Dark Forest, Plains, Hills
 
@@ -1950,21 +1952,15 @@ The man with the feral beard introduces himself as Ambrosius Klack. He claims to
 
 ### **4** Garmar’s Wall
 
-> _A crumbling structure suddenly emerges from the terrain. It is the remains of a rampart from long ago, much higher than a well- fed ogre, quietly and mysteriously towering over the ancient landscape. Many of its stone blocks are partially eroded and covered with moss and vines. Scanning the long structure, you notice a number of gaping holes where the wall has collapsed, but also a few watchtowers rising above the rest of the rampart. Despite the ravages of - time, it is clear that this was once a mighty fortifica tion meant to keep the horrors of Ravenland at bay._
+> _The wall does not announce itself. You crest a low rise and it is simply there — a dark rampart following the contour of the hill, taller than the trees in places, collapsed to rubble in others. Moss has worked into every joint. Whatever stood against this wall is long gone, but the wall is still standing._
 
-All that remains of the ancient wall is the 500 meter long, partially collapsed, section that rises from the terrain in front of the adventurers. However, in some places there is little left but the stone foundation, barely noticeable on the ground beneath thorns and tussocks of grass.
+A five-hundred-meter section of crumbling rampart, the rest long since quarried or scattered. In some places the stone foundation is barely visible beneath thorns and tussocks.
 
-The rampart’s origin has been lost in antiquity, but a successful LORE roll suggests that it is probably the remains of Garmar’s Wall: a dwarven wonder mentioned in songs about the first Alder War between dwarves and Alderlanders.
+A successful LORE roll identifies it as Garmar’s Wall: a dwarven fortification mentioned in songs of the first Alder War, raised to hold the horrors of the Ravenlands at bay. The adventurers will eventually find the dwarven chronicler Grumhildur Quartz of the Belderan clan working along the wall. She is looking for the tomb of the chieftain Garmar Fourbeard, which her research suggests is brimming with gold, artifacts, and indestructible dwarven steel. She hates orcs and is suspicious of humans, but can be won over — and will show them her map if they are.
 
-Adventurers who decide to explore the wall will sooner or later run into the dwarven chronicler Grumhildur Quartz. This fearless truthseeker from the Belderan clan is looking for the tomb of the dwarf chieftain Garmar Fourbeard. According to Grumhildur’s research – which she will happily brag about to anyone willing to listen – this legendary chieftain’s tomb is brimming with gold, artifacts, and indestructible dwarven steel.
+Her landmark is a watchtower that once anchored the wall’s system of dwarven signal fires, more advanced by far than the beacon-posts used by men, as she will explain at length. A Quarter Day of dedicated searching finds a flame-rune engraved on the outer face of a crumbling watchtower. Grumhildur — or a LORE roll — reads it as the old dwarven symbol for fire, lightbringer, or warning. Below it, hidden under thorny growth, is an underground entrance blocked by two massive boulders. A successful MIGHT roll shifts them.
 
-She hates orcs and is suspicious of humans, but if the adventurers manage to gain her trust, she can show them her map which indicates that the tomb is located next to the wall section in question. Her landmark is a specific tower, which according to the oldest records used to be the center point of the wall’s “dwarven fires”: an ingenious system of signal fires created by the ancient stone singers - far more advanced than the primitive beacons used by the humans, Grumhildur points out.
-
-After a Quarter Day, adventurers dedicated to the task will find a symbol resembling a flame engraved on the external surface of a crumbling watchtower. Grumhildur, or a successful LORE roll, identifies the symbol as an old dwarven rune for “fire”, “lightbringer”, or possibly “warning”. And sure enough: hidden beneath the thorny thickets is the entrance to an underground chamber.
-
-Two massive boulders are blocking the entrance, but they can be removed with a successful MIGHT roll. But what awaits on the other side is no chieftain’s tomb, but a surly fire demon who has been locked up in this inhospitable hole for as long as it can remember.
-
-The fire demon tries to fight past the adventurers and escape, with only one goal in mind: to get as far away as possible from that cursed wall – and set the world on fire once more.
+What is inside is no chieftain’s tomb. It is a fire demon, locked here since before memory, and its only intention upon being freed is to leave this wall as far behind it as possible — and set the world on fire on the way.
 
 **Terrain Types:** Plains, Hills
 
@@ -1976,33 +1972,37 @@ The fire demon tries to fight past the adventurers and escape, with only one goa
 
 ### **5** the Missing Egg
 
-> _Something smooth and speckled protrudes from the ground behind some hastily dug up piles of dirt nearby. It could be the bald scalp of a lurking goblin, but moving closer, you see that it is a huge egg embedded in straw at the bottom of a deep pit._
+> _Fresh digging — a pit opened in a hurry, the turned earth still dark with wet. At the bottom, braced in dry straw and old leaves, an egg the size of a man's torso, mottled brown-gray. Warm to the hand from three feet away._
 
-The eggshell is speckled in muted natural colors and looks rock solid. With a successful ANIMAL HANDLING roll the adventurers realize that it probably comes from a goodsized reptile rather than a large bird, although there are of course legends about the titanic bird known as the roc.
+A successful ANIMAL HANDLING roll identifies it as the egg of a large reptile, not a bird, whatever the roc legends say. It is heavy enough to require a successful MIGHT roll to move. A village within reach would pay 2D6 silver without questions.
 
-It takes a successful MIGHT roll to move the egg from the area, but if taken to a nearby village it can be sold at a price of 2D6 silver coins. If the GM wants to develop this random encounter into a small adventure, the egg could start to hatch a Quarter Day after it is found. A network of cracks spreads across the shell and an intense heat starts to - radiate from within. Before long the adven turers hear a strange hissing sound coming from the depths of the egg, which is soon answered by a more powerful version of the same sound from a place farther away. The mother has returned to receive her offspring. The GM chooses a suitable monster, but a dragon, drakewyrm, or hydra could make for an epic adversary in a small scenario.
+If the party lingers, the egg cracks a Quarter Day after it is found — the shell heats and fractures from inside, and from somewhere in the terrain a hissing call rises, answered at once by a deeper version of the same sound, closer and moving closer. The mother. The party has until the answering call stops moving before it arrives. The GM chooses: a dragon, drakewyrm, or hydra.
 
 - **Terrain Types:** Forest, Dark Forest, Plains, Hills, Marshlands
 
 ### **6** Rock Carvings
 
-> _Imposing images of monsters, beasts, and humanoid creatures can be seen all over a nearby rock wall. Armed warriors and plowing peasants both feature in the dramatic scenes. The stylized images are carved directly into the rock and colored in shades of red, blue, and gold._
+> _A rock wall, not natural — too vertical, too clean at the face. Carved into it from ground to above your reach: warriors in massed ranks, beasts with too many legs, plowing farmers, gods with hands raised. All of it colored in red, blue, and gold that has survived what the carvings depict._
 
-With a successful LORE roll the adventurers recognize several symbols of the old gods, not least ravens with writhing snakes in their talons. If they rolled at least two ⚔️, the adventurers realize that the place is linked to the Ailanders and the oldest human settlements in Ravenland. Some druidic societies worship the site as an unusually capricious and incomprehensible aspect of the omnipresent Nightwalker.
+A successful LORE roll places the symbols — old gods of the Ravenlands, ravens with snakes in their talons, the marks of the Ailanders and the oldest human settlements. Two ⚔️ on the roll connects the site to druidic societies that worship it as an active aspect of the Nightwalker, not merely a relic. The offerings at the base of the wall are not old.
 
 **Terrain Types:** Plains, Hills
 
 ### **7** the Forgotten God
 
-> _A majestic oak tree reaches for the sky from a small hill nearby. The tree looks sturdy and vital with its thick branches and shimmering foliage, but there is also something ancient about it – something watching._
+> _A shape at the tree-line that is not a tree. As you close the distance you see the stone — a statue, life-size or larger, humanoid at the shoulders and hips. The face is wrong. Wide-set compound eyes. The ridged plates of a mandible. The sweep of twin antennae. Not a craftsman's approximation of something imagined. A portrait._
 
-If they move closer, the adventurers notice that the statue may have a humanoid body, but its face is not of this world and resembles that of an insect with antennae, mandibles, and staring compound eyes. With a successful LORE roll the adventurers remember legends about an insectoid god called Harm: an incarnation of the wild and untamed nature, worshiped by certain druidic societies as an unusually capricious and incomprehensible aspect of the omnipresent Nightwalker.
+A successful LORE roll names the face: Harm, an insectoid god ancient even to the druids, worshiped as a capricious and untameable aspect of the omnipresent Nightwalker. The statue has been maintained. The stone face is clean of moss that should have spread across it decades ago; the scraping is recent. Someone still comes here. Someone may be watching the party look at it.
 
 - **Terrain Types:** Mountains, Hills
 
 ### **8** the Living Tree
 
-> _The silhouette of an enormous humanoid creature rises from the terrain. It is as tall as many men, but fortunately it does not move at all. Soon you see that it is a giant statue of a two- legged creature holding a serrated two- handed sword to its chest._
+> _The tree stands apart from the others — taller, broader, the bark a shade of gold-red that changes as the light shifts. The branches move. There is no wind. When you press your ear to the trunk you can hear something inside it: low, steady, not mechanical, not insects. A voice, or something that was once a voice._
+
+A SCOUTING roll confirms three things: the branches move without wind; the bark shimmers faintly in gold-red; and the hum in the trunk contains elvish words, audible to anyone who presses an ear to the wood. A character who spends a Quarter Day listening gets to hear a random legend from the stillelf whose ruby is embedded inside the tree. The ruby is the stillelf. It is beyond reach. If the GM wishes to develop this encounter into a small adventure, the tree can come to life as an Ent (see the _Game master's Guide_, page 92).
+
+- **Terrain Types:** Forest, Dark Forest, Plains, Hills
 
 Adventurers who examine the great tree and succeed with a SCOUTING roll can make three interesting observations. First, the tree’s branches are constantly moving, even though there is no wind blowing in the area. Second, its trunk and leaves shimmer with a shade of golden red. Third, those who put their ears to the trunk can hear a faint humming. With a successful LORE roll the adventurers recognize a few elvish words, and a PC who spends a Quarter Day listening to the tree gets to hear a random legend.
 
@@ -2024,51 +2024,45 @@ For the Viraga’s stats, see the _Game master’s Guide_, page 66.
 
 ### **10** a Guard of Stone
 
-> _The outline of a humanoid figure can be seen in the dense vegetation. The figure does not answer when spoken to and seems almost unnaturally still._
+> _Something human-shaped in the undergrowth that does not breathe. Too still for a living thing, not still enough for a rock. When you part the bracken your hand finds stone carved smooth at the shoulder._
 
-Adventurers who venture into the thick undergrowth will soon find that the figure is in fact an overgrown statue. Removing the dense tangle of vegetation requires a successful MIGHT roll.
+It is a statue of a female warrior, not eroded at the face — good stone, cut by someone who knew the work. In one hand, a short sword whose hilt ends in a self-eating serpent (ouroboros). In the other, the severed head of a Misgrown: ram’s horns, a toad’s face, the long expression of something killed in the middle of its own contempt. Dense vegetation has grown over and through the statue; removing it requires a successful MIGHT roll to clear the worst of the growth.
 
-Hidden beneath the vegetation is a wellmade statue of a female human warrior. In one hand she holds a thick short sword whose hilt ends in a selfeating snake (ouroboros). In the other she carries the severed head of a demonic Misgrown with winding ram’s horns and a greedylooking toad’s face.
-
-Adventurers who succeed with a LORE roll recognize the shape of the twisted hilt as a symbol of the Congregation of the Serpent. If the roll results in at least two ⚔️, they also remember legends about a guard of shieldmaidens who protected King Algarod against the demonic hordes of Zygofer during the escape to Alderstone at the end of the fourth Alder War.
+A successful LORE roll names the hilt-symbol as a mark of the Congregation of the Serpent. Two ⚔️ on the roll surfaces the old story: shieldmaidens who guarded King Algarod against the demonic hordes of Zygofer during the retreat to Alderstone at the end of the fourth Alder War. The statue was placed here and then the world grew over it.
 
 - **Terrain Types:** Forest, Dark Forest
 
 ### **11** Dwarven Runestone
 
-> _A large rock carved with runes protrudes from the ground on a nearby hilltop. The runes are colored in shades of red and encircled by ornate loops that look a lot like dragon tails._
+> _A great cut stone on the hilltop, older than the trees around it, the runes hammered deep and colored red. At the base, small offerings — a coin, a twist of cloth, a tooth — placed recently enough that the cloth has not faded._
 
-These are dwarven runes and can be read by someone with a successful LORE roll: “Tyrmyr son of Grundhir lord of the Great Hall of Mountainfall raised this monument so that the world shall forever fear and admire his manful slaughter of the spawn of Rust in the great war.”
+A successful LORE roll reads the runes: “Tyrmyr son of Grundhir lord of the Great Hall of Mountainfall raised this monument so that the world shall forever fear and admire his manful slaughter of the spawn of Rust in the great war.” The spawn of Rust named in the text is Ferrale Teramalda’s Alderlander army.
 
-The runestone is a memorial from the First Alder War and the spawn of Rust scorned in the text is Ferrale Teramalda’s Alderlander army. Dwarven adventurers who stay here for one turn have all their attributes restored to full if they have sustained any kind of damage. The effect only applies once.
+Dwarven adventurers who spend one turn at the stone have all their attributes restored to full if they have sustained any kind of damage. The effect only applies once. Whoever left the offerings is not far off.
 
 - **Terrain Types:** Forest, Dark Forest, Plains, Hills, Marshlands, Quagmire
 
 ### **12** Overgrown Battlefield
 
-> _An old battlefield opens up in the landscape like a wound of bad memories. The field is covered in wild grass and winding thorns, with grinning skulls on spikes protruding from the vegetation. Between the tussocks there are rusty weapons lying side by side with gnawed- up bones._
+> _A field that refuses to become a meadow. The grass grows ragged and wrong where bodies were buried without depth, and the skull-spikes still stand at the edges, weathered to the grain. Rust-eaten steel lies half-sunk in the mud. Gnawed bone next to it._
 
-Adventurers who examine the trail of slime and succeed with a SURVIVAL roll can conclude that it comes from a basilisk in heat. They also remember that the slime is poisonous and can paralyze even the strongest of adventurers on contact (paralyzing poison, Potency 6). With a pair of thick gloves the poison can be collected in bottles and, for example, applied to weapons (2D6 doses).
+Orcs, elves, dwarves, and humans all fought and died here; you can tell by the skulls. Adventurers who spend a Quarter Day EXPLORING the battlefield may roll once on the table of Carried Valuable Finds. They also find D66 coins of various denominations. Roll a D6 for every unit of ten coins: 1–3 gives copper; 4–5 silver; 6 gold.
 
 - **Terrain Types:** Forest, Plains, Hills
 
 ### **13** Slime Trails in the Vegetation
 
-> _Glistening threads of slimy secretion extend across the terrain. They cover the stones, tussocks, and moss, and hang in clusters from bushes and branches like dripping cocoons of ungodly substances._
+> _Threads of wet secretion stretch between the branches, hang from the undergrowth in loops and clusters, coat the stones and moss in a glistening layer. The smell is animal and wrong — something that lives in water, brought too long into the air._
 
-Judging by the skulls, it seems that orcs, elves, dwarves, and humans have all fought and died in this place. If the adventurers spend a Quarter Day EXPLORING the battlefield, you may roll once on the table of Carried Valuable Finds. They also find D66 coins of various denominations. Roll a D6 for every unit of ten coins: 1–3 gives copper; 4–5 silver; 6 gold.
+A SURVIVAL roll identifies the source as a basilisk in heat. The slime is a paralyzing contact poison, Potency 6, strong enough to stop the strongest adventurer cold. With thick gloves it can be collected in bottles: 2D6 doses, suitable for application to weapons or sale to anyone who knows what they have. The basilisk itself is not visible, but the trail is fresh and the secretion is still warm.
 
 - **Terrain Types:** Forest, Dark Forest, Plains
 
 ### **14** the Skeleton in the Tree
 
-> _Your travel- weary eyes are met by an ominous sight: a skeleton in torn, threadbare robes, dangling from a tree farther ahead. The head is bent forward at an unnatural angle and a thick iron chain attached to one of the branches is wrapped like a noose around the skeleton’s neck._
+> _A chain through a branch, and at the end of the chain a skeleton in rotted robes, hanging still in the windless air. One hand is raised mid-gesture, preserved there for years. Travelers before you have thrown stones at it; the marks are on the bone._
 
-The skeleton is all that remains of the learned necromancer Mortelius Quidom who was murdered by frightened villagers after an esoteric experiment in the local cemetery. Adventurers who search the skeleton will find a compendium of yellowed parchment containing three necromantic spells. The deceased cannot move as long as the iron chain remains in place, but if it is removed, Mortelius returns in the form of a ghost.
-
-The undead necromancer is a terrifying sight and has a morbid fascination with his own remains, but has no hostile intentions. Not towards the adventurers, at any rate. As long as they behave somewhat decently, Mortelius will show his gratitude for being freed from his carnal prison by telling them the legend of the Phantomdaggers or some other artifact that you think has a logical connection to the mystery of death (for Phantomdagger, see the _Game master’s Guide_, page 137).
-
-Should the player characters decide to attack Mortelius, he will summon all his unholy powers to turn the adventurers into undead slaves. As a ghost he is a formidable adversary, but fortunately cannot move out of sight of the tree where he met his untimely death.
+The chain is the lock. The skeleton is Mortelius Quidom, a necromancer killed by frightened villagers after an experiment in the local cemetery went beyond what frightened villagers were prepared to accept. A search of the remains finds a compendium of parchment: three necromantic spells, yellowed, still legible. The chain keeps Mortelius still; remove it and he returns as a ghost — terrifying to look at and morbidly preoccupied with his own remains, but not hostile to the party as long as they behave. He shows gratitude for release by telling the legend of the Phantomdaggers or another artifact linked to the mysteries of death (for Phantomdagger, see the _Game master’s Guide_, page 137). Attack him and he marshals everything he has to make undead servants of the party. He cannot leave sight of this tree.
 
 Mortelius has stats as a Ghost (see the _Game master’s Guide_, page 95), but with Strength 12 and Wits 7.
 
@@ -2076,53 +2070,45 @@ Mortelius has stats as a Ghost (see the _Game master’s Guide_, page 95), but w
 
 ### **15** Old Well
 
-> _An old and partially overgrown well can be glimpsed amid the dense vegetation. It does not have a pulley, but the rotten remains of its wooden cover and a bucket lie scattered among the tussocks that surround it._
+> _The wooden cover rotted away years ago; the planks lie scattered in the grass. No pulley, no chain. When you lean over the edge, the smell that rises is cold and mineral and old._
 
-Adventurers peering down into the dark are met by a musty smell. It is possible to climb down to the bottom (four meters), but the walls are slippery and the player characters must succeed with a MOVE roll to avoid losing their grip and taking damage from the fall ( _Player’s Handbook_, page 113).
-
-Scattered in the mud at the bottom of the well are bone fragments from several unfortunate animals who have tumbled down the deep hole. If the players actively explore the place, roll once on the table for Simple Finds in a Lair.
+The walls are slippery. Climbing down to the bottom (four meters) requires a MOVE roll to avoid a fall and its damage (_Player’s Handbook_, page 113). At the bottom: bone fragments from animals that tumbled in over the years. Adventurers who actively explore roll once on the table for Simple Finds in a Lair.
 
 - **Terrain Types:** Forest, Dark Forest
 
 ### **16** the Stone Table of the Gods
 
-> _A large stone table is standing between some trees nearby. It is an impressive construction of granite and marble, cut in rough but symmetrical blocks. The surrounding vegetation is dense and wild, but the table itself is remarkably untouched by the ravages of time and nature._
+> _A stone table between the trees, granite and marble, large enough to seat twelve. The surrounding vegetation has grown wild and close, but the table itself is clean — no moss, no bird-droppings, no weathering at the joints. The stone is being maintained._
 
-Archaic symbols that seem to indicate seating arrangements are seen around the tabletop. With a successful LORE roll the adventurers recognize a handful of them as ancient symbols for the old gods of Ravenland. The Nightwalker is positioned at the end of the table, but Wail, Flow, Clay, and Huge are represented along with several forgotten, now nameless gods.
+Archaic symbols mark seating positions around the tabletop. A successful LORE roll identifies a handful as the signs of the old gods of Ravenland: the Nightwalker at the head, Wail, Flow, Clay, and Huge along the sides, and several gods whose names are gone. The offerings at three seats are fresh. Who set them is not apparent.
 
 - **Terrain Types:** Forest, Dark Forest
 
 ### **17** an Orcish Delicacy
 
-> _There are meter- high mushrooms growing in the gloom beneath a group of trees nearby. Their funnelshaped caps are emitting a faint fluorescent light in a venomous shade of green._
+> _Mushrooms as tall as a man's knee, clustered at the base of the trees. Their caps are broad and funnel-shaped and glowing — a cold green, the color of something you would not eat. The light is faint but real, coming from inside the cap._
 
-Adventurers who succeed with a SURVIVAL roll recognize the mushrooms as Glowing Green Caps. In their unprocessed form they are lethally poisonous (Potency 7) to everyone but orcs, but the poison disappears if they are sliced and dried in the sun. Prepared that way, the Glowing Green Cap makes excellent food for travelers: light, long-lasting, and nutritious.
-
-Unprocessed Glowing Green Cap is considered a delicacy by the orcs and can be extremely useful in negotiations. Among orcs the price per unit is D10 silver coins.
+A SURVIVAL roll identifies them as Glowing Green Caps. Raw, they are lethal to any kin except orcs — Potency 7. Dried in the sun, the poison leaves entirely and they become excellent trail food: light, durable, nutritious. Among orcs they are a delicacy commanding D10 silver per unit, useful in any negotiation at an orc-controlled market.
 
 - **Terrain Types:** Forest, Dark Forest, Plains, Hills
 
 ### **18** the Miserable Brewmaster
 
-> _The silence is broken by a loud sob, followed by several wet sneezes that turn into whimpers. The torrent of tears is coming from a stout gentleman who is crying by a smashed wooden cart a couple of hundred meters up ahead. Apart from his puffy, purple beret, the distressed man is stark naked. Scattered around him are torn shreds of clothing and pieces of broken crates and barrels._
+> _A man sits on the road beside an overturned cart, leaning his back against one wheel. His packs have been rifled and scattered. He is not weeping; he is still, the way a man goes still when he has assessed the damage and found it complete. When you approach, he looks up and says nothing for a moment. Then: "They took the herbarium."_
 
-The miserable man is none other than Brewmaster Humla: legendary brewer and supplier of fermented beverages to lords, heroes, and thirsty throats in castles and caves alike. At least according to himself. But now he has nothing.
+The man is Brewmaster Humla. The reputation is real: lords, heroes, and cold-footed mercenaries have paid honestly for his lager. Twenty years went into the recipe collection and the travel herbarium that make the beer what it is. Both are in a saddlebag at the bottom of a bandit den somewhere in the terrain. He talks about the kegs — seventeen of the finest he has ever made, stolen along with everything else — because when he speaks of the herbarium his voice changes, and he is not a man who lets his voice change in front of strangers.
 
-Shortly before the adventurers arrived, Master Humla was attacked by a gang of ferocious bandits who not only stole all the kegs of his best lager, but also left with his recipe collection and his indispensable travel herbarium of beerfriendly herbs.
+He has nothing to pay with now. He promises payment once the stolen goods are returned. A successful SURVIVAL roll finds the drag-marks of seventeen kegs in the terrain; a half-day of tracking leads to an underground den in a random adjacent hexagon. A dozen bandits are there, most sleeping off the beer, a few still upright and ready to fight. The herbarium and the recipe collection are in a saddlebag under a sleeping man at the back of the den. They have not been opened; bandits do not read.
 
-If the adventurers comfort Master Humla, he asks them to find and retrieve his stolen wares from the unwashed goons. Because of the bandits he has nothing to pay them with, but he promises them a handsome reward once the mission is completed.
+Payment on return: one keg of beer and Humla's gratitude. Escort him back to his brewery and he adds D10 silver and a second keg. If the party refuses the beer entirely, he is not upset. He is confused. He has never met anyone who refused the beer.
 
-With a successful SURVIVAL roll, the adventurers find traces of dragged kegs in the terrain. The traces lead to an underground den in a random adjacent hexagon on the map. Here are the seventeen remaining beer kegs along with a dozen snoring bandits in a beerinduced slumber. But a few are still awake and will fight tooth and nail to defend their loot.
-
-Adventurers who return the stolen goods to Master Humla are offered one keg of beer as payment. If they decline, the brewmaster gets upset and declares them barbarous oafs with no insight into the true values of life. If they escort him back to the safety of his brewery, Master Humla is willing to pay them D10 silver and another keg of his finest lager.
-
-For the bandits’ stats, see page 183 in the _Game master’s Guide_.
+For the bandits' stats, see page 183 in the _Game master's Guide_.
 
 - **Terrain Types:** Forest, Dark Forest, Plains, Hills, Marshlands, Ruins
 
 ### **19** Old Root Cellar
 
-> _A partially underground cellar can be seen behind some tall trees. The roof is overgrown with shrubs and moss, but the entrance is made up of gray stone and a large wooden door with iron fittings._
+> _A roof of moss and roots where none should be. The stone entrance is half-sunk in the bank but the door is iron-fitted and the stonework is good. Whatever is inside has not been opened in some time._
 
 The wooden door can be opened with a successful SLEIGHT OF HAND roll. Behind it is a short flight of stairs leading down to a cool cellar with large crates, jars, and other vessels. It is mostly empty and covered with cobwebs, but a few amphorae at the back of the room turn out to contain four liters of mature and exceptionally delicious wine. However, the wine is so potent that it can be used as a sedative (sleeping poison, Potency 6).
 
@@ -2130,21 +2116,19 @@ The wooden door can be opened with a successful SLEIGHT OF HAND roll. Behind it 
 
 ### **20** Old Stone Bridge
 
-> _An old arch bridge of stone stretches across a small and partially dried- up stream. The span of the bridge rests on three small arches of moss- covered granite._
+> _The stream has mostly dried to a dark cut in the earth, wet stone at the bottom. The bridge that crosses it is three arches of moss-covered granite, old enough that the mortar has gone but the stones have not moved._
 
 A successful CRAFTING roll reveals that the construction is simple and definitely not of dwarven make: natural dry stone masonry held together without mortar or magic. Anyone trying to cross the bridge must make a MOVE roll.
 
-Failure means that the person causes a minor collapse and plunges into the stream below (a threemeter fall, see page 113 in the _Player’s Handbook_ for falling damage). Beneath the middle arch, the adventurers find bones from a large humanoid creature, probably an ogre or a troll. Roll twice on the table for Simple Finds in a Lair if they explore the space under the bridge.
+Failure means that the person causes a minor collapse and plunges into the stream below (a three-meter fall, see page 113 in the _Player’s Handbook_ for falling damage). Beneath the middle arch, the adventurers find bones from a large humanoid creature, probably an ogre or a troll. Roll twice on the table for Simple Finds in a Lair if they explore the space under the bridge.
 
 - **Terrain Types:** Forest, Dark Forest, Plains, Hills, Marshlands
 
 ### **21** the Living Rock
 
-> _Something fills the silence around you. A sound, barely audible, but definitely there. A deep murmur. Constant, rumbling, chanting. Creeping closer through the rocky terrain, you can make out a few words, although none of you understand the language._
->
-> _Soon you notice a flaming light and longbearded man in dark red robe in the shadow of some large rocks. Big, glowing cracks have opened in the ground before the man’s feet. As he raises his arms to the sky and begins to speak in a commanding voice, you see a rough- cut creature of stone and roots slowly rising from the living rock._
+> _Low voices in the rocks ahead — one deeper than the others, cadenced like a command. The cracks in the earth before a man in a dark red robe are not cracks. They glow. Something is rising from the stone._
 
-The robed man is a stone singer in the process of creating a powerful golem. The roughcut creature is effectively completed when the adventurers encounter the chanting mage. If they interfere with or try to disrupt the experiment, the stone singer will set his golem (Power Level 4) on them.
+The robed man is a stone singer in the process of creating a powerful golem. The rough-cut creature is effectively completed when the adventurers encounter the chanting mage. If they interfere with or try to disrupt the experiment, the stone singer will set his golem (Power Level 4) on them.
 
 Adventurers who instead decide to follow the sorcerer and his creation will see them disappear through a low cave opening by some rocks. Inside is a natural cave that after about ten meters of darkness ends in a rock wall. The adventurers can hear the sorcerer’s chanting and the golem’s footsteps from the other side of the rock wall, but after a while they fade into silence.
 
@@ -2159,9 +2143,9 @@ If they examine the rock wall, they find carved symbols which a successful LORE 
 
 ### **22** Petrified Troll
 
-> _A monstrous silhouette taller than two men looms farther ahead in the terrain. With its club raised for battle, the figure seems intent on smashing anyone who passes by._
+> _A shape at the treeline that is too large and too still to be a living thing. Club raised as though frozen mid-swing. Moss has grown into every crevice. The rage is in it still._
 
-It soon becomes clear to the adventurers that the menacing shadow is harmless, as it turns out to consist of halfcrumbled rocks covered in moss and lichen. With a successful LORE roll they realize that that these are the remains of a troll turned to stone by the sun.
+It soon becomes clear to the adventurers that the menacing shadow is harmless, as it turns out to consist of half-crumbled rocks covered in moss and lichen. With a successful LORE roll they realize that these are the remains of a troll turned to stone by the sun.
 
 Scattered on the ground around it are the bones of several unfortunate enemies, as well as their rusted weapons. Adventurers who look around will find D6 silver coins and possibly a weapon of excellent quality that is relatively unscathed by time.
 
@@ -2169,7 +2153,7 @@ Scattered on the ground around it are the bones of several unfortunate enemies, 
 
 ### **23** Parts of a Gondian Road
 
-> _Crumbled sections of an ancient paved road wind their way through the terrain, bearing silent witness to a glorious past and knowledge long forgotten. Much of the road is overgrown and the visible sections are covered with cracks, yet it is clear that it was once an impressive piece of engineering._
+> _Cut stone beneath the roots and leaf-rot, laid in a pattern too deliberate for chance. Where the ground has heaved it you can see the depth of the foundation. Someone built here to last._
 
 With a successful LORE roll, the adventurers realize that they are looking at a fragment of the intricate road system that the dwarf king Gonder had built in the time before the Alder Wars. If the adventurers EXPLORE the cracks for a Quarter Day, you can let them roll once on the table for Valuable Finds in a Lair.
 
@@ -2177,21 +2161,21 @@ With a successful LORE roll, the adventurers realize that they are looking at a 
 
 ### **24** Monster Droppings
 
-> _You are struck by a pungent stench. Up ahead is a huge green- brown pile of dung, surrounded by large, frantically buzzing insects. The pile is larger than a full- grown human and has not yet hardened._
+> _The smell reaches you before you see it. A mound of dark green-brown waste larger than a man, still warm, flies already thick on it. Something with a large gut passed through here not long ago and did not hurry._
 
-With a successful SURVIVAL or ANIMAL HAN - DLING roll, the adventurers conclude that the droppings are still fresh and that their source is likely not far away. Judging by the size of the feces, it must be a beast of considerable size.
+With a successful SURVIVAL or ANIMAL HANDLING roll, the adventurers conclude that the droppings are still fresh and that their source is likely not far away. Judging by the size of the feces, it must be a beast of considerable size.
 
-Should the adventurers dig around in the excrement, you can let them roll once on the table for Valuable Carried Finds (a possession that belonged to an unfortunate individual who became the beast’s breakfast). However, the beast’s dung is corrosive and works as a lethal poison with Potency 6.
+Should the adventurers dig around in the excrement, you can let them roll once on the table for Carried Valuable Finds (a possession that belonged to an unfortunate individual who became the beast’s breakfast). However, the beast’s dung is corrosive and works as a lethal poison with Potency 6.
 
 - **Terrain Types:** Forest, Dark Forest, Plains, Hills, Marshlands, Quagmire
 
 ### **25** Great Serpent
 
-> _A cry for help echoes through the fog. It is the voice of a youth, shrill and panicked. Drawing closer you see ten figures standing on a cliff by the water, barbed long spears in hand. A terrified youngster in a snow- white nightshirt is balancing on the edge of the cliff, with the menacing figures slowly goading him towards the water. In between the youngster’s panicked screams, - they repeat the same monotonous chant: “Great Ser pent, Great Father, Great Life- Giving Master Death.” Ripples and sudden waves in the water indicate that something in the dark depths has heeded their call._
+> _A youth in a white shirt at the edge of a cliff, ten figures behind him with barbed spears. They chant as one, slow and flat. The water below is moving in circles that don’t match the wind._
 
-The hooded cultists are local fishermen who believe that the Protector God, Wyrm, dwells in the black waters where they catch their food. The fishermen are by no means religious fanatics, but driven by a pragmatic and downtoearth attitude toward life’s big questions. It is tradition, however, to sacrifice one of the local sons or daughters every year to ensure good fishing for the coming season.
+The hooded cultists are local fishermen who believe that the Protector God, Wyrm, dwells in the black waters where they catch their food. The fishermen are by no means religious fanatics, but driven by a pragmatic and down-to-earth attitude toward life’s big questions. It is tradition, however, to sacrifice one of the local sons or daughters every year to ensure good fishing for the coming season.
 
-In other words, the blood sacrifices are performed for the fun of it, and the adventurers can MANIPULATE the fishermen into sparing the young man’s life. But they demand another life in return. The Protector God can only give life and good fishing fortune if He himself is presented with a living creature for immediate consumption. If the adventurers win the MANIPULATION roll by two ⚔️, the fishermen can be persuaded to sacrifice a valuable item instead, just for this year, but only one that glitters and gleams.
+In other words, the blood sacrifices are not performed for pleasure, and the adventurers can MANIPULATE the fishermen into sparing the young man’s life. But they demand another life in return. The Protector God can only give life and good fishing fortune if He himself is presented with a living creature for immediate consumption. If the adventurers win the MANIPULATION roll by two ⚔️, the fishermen can be persuaded to sacrifice a valuable item instead, just for this year, but only one that glitters and gleams.
 
 So the fishermen can be reasoned with, though they will defend themselves ferociously if attack. But the sea serpent lurking in the black water is not so reasonable. When the player characters show up, it is already fired up by the all the chanting and the smell of the fear.
 
@@ -2209,7 +2193,7 @@ For the sea serpent’s stats, see the _Gamemaster’s Guide_, pages 116–117.
 
 ### **26** A Peaceful Place
 
-> _An overgrown meadow undulates through the landscape. Colorful flower heads in red, blue, and yellow peep up above the waist- high grass, and the air buzzes with well- fed bees and butterflies. A rare serenity reigns over the place._
+> _A meadow where there should be bird noise but isn’t. The flowers are heavy-headed and wrong-colored, the kind that don’t grow together naturally. The bees working them move slowly._
 
 Adventurers who succeed with a SURVIVAL roll notice large quantities of Stonefreeze growing in the meadow: a plant whose spores have a paralyzing effect. With another successful SURVIVAL roll, the plants can be distilled into a transportable poison and applied to weapons (D10 doses). Adventurers moving through the flowery meadow without protecting their airways are exposed to a poison attack (paralyzing poison, Potency 7).
 
@@ -2217,17 +2201,17 @@ Adventurers who succeed with a SURVIVAL roll notice large quantities of Stonefre
 
 ### **27** Giant Bird’s Nest
 
-> _The shape of a giant bird’s nest can be seen at the top of an enormous tree. Nothing seems to be moving among its branches, but the glint of gleaming metal can be seen in the sunlight._
+> _The mass of woven branches at the crown of that tree is too deliberate to be natural. Something built it. The glint from inside could be water on old feathers, or it could be metal._
 
 If the adventurers climb to the top of the tree, which requires a successful MOVE roll each, it becomes clear that the nest is long abandoned. Beneath a thick layer of cobwebs and a cover of moss-like greenery they can see eggshells of worrying size and bones from an animal and what appears to have been a small humanoid creature.
 
-Halfmoldered scraps of clothing, a broken meerschaum pipe, and a rusty but still deadly short sword can also be seen among the remains. If the adventurers rifle through the mess, roll once on the table for Valuable Finds in a Lair.
+Half-moldered scraps of clothing, a broken meerschaum pipe, and a rusty but still deadly short sword can also be seen among the remains. If the adventurers rifle through the mess, roll once on the table for Valuable Finds in a Lair.
 
 - **Terrain Types:** Forest, Dark Forest
 
 ### **28** a Bridge of Bones
 
-> _A deep ravine opens like a wound in the ground and blocks the path forward. However, a bit farther away is the skeleton of an enormous beast that after its death forms a natural bridge over the ravine._
+> _A ravine in the earth and no way across it. Except for the skeleton — ribs the height of a man’s shoulder, a skull at the far end large enough to walk through. Whatever this was, it died here and nothing finished it._
 
 The two-meter-high ribs prevent the adventurers from plunging into the chasm below, and once on the other side they come out through the gigantic skull and its gaping jaws. The beast’s bones are extremely durable and can be shaped by a skilled craftsman into some form of weapon. An excellent bow or blade can be crafted with the CRAFTING skill and the BOWYER or TANNER talent (rank 3). The weapon gets a D8 Artifact Die.
 
@@ -2235,7 +2219,7 @@ The two-meter-high ribs prevent the adventurers from plunging into the chasm bel
 
 ### **29** the Raven
 
-> _The sound of frenzied wingbeats is heard from a place nearby. Moving closer, you see a large raven hopping, flapping its wings, and moving jerkily around a flyinfested deer carcass. You soon notice a snare wrapped in an iron grip around one of the raven’s talons, and one of its wings is hanging limp, as if broken. The raven struggles to break free, but is too exhausted and confused to stand a chance against the cruel trap._
+> _A raven on the ground — one talon caught in an iron snare, one wing hanging wrong. It fights the trap but the trap is stronger. The deer carcass it was eating is close. No sign of the trapper._
 
 The raven is in fact a druid of the Raven Sisters who has gotten caught in a devious hunting trap. She is dazed with pain and too weak to resume human form, but will recover if the adventurers free her and give her something to drink.
 
@@ -2254,20 +2238,17 @@ As a member of the Raven Sisters, Ravlunda has built an impressive personal netw
 
 ### **30** the Demon Trap
 
-> _There is something strange writhing and kicking on the ground further ahead. As you get closer you see that it is a humanoid creature pinned to the earth by roots and vines. You notice something else as well – the trapped one suffers from a demonic infection. Hornlike growths, fangs, and reptilian eyes can be glimpsed as the creature tries to break free from the vegetation._
->
-> _The next moment you hear a whistling sound as strong roots spring up from the earth around you. They slither up your bodies and start pulling you relentlessly to the ground. A voice full of hatred rasps behind you: “Spawn of demons, your time is at an end: the wrath of the Shardmaiden shall annihilate your bodies and eradicate any trace of your unholy souls.”_
+> _Something humanoid is pinned to the earth by roots and vines, fighting them. Too many wrong things about the face for sickness: horns at the temples, reptilian eyes placed where they shouldn’t be. The roots have had it there a while._
 
-The adventurers have accidentally walked into a magical nature trap set by the forest’s Maiden Druids to capture Misgrown creatures in the area. The Maidens (one more than the number of adventurers) soon realize their mistake, but they are proud and suspicious and will only free the adventurers if there are elves or Elvenspring among them.
+The adventurers have walked into a magical nature trap set by the forest’s Maiden Druids to capture Misgrown creatures in the area. The moment they get close enough to see what is pinned, roots spring from the earth around them and pull them to the ground. A voice behind them: “Spawn of demons, your time is at an end — the wrath of the Shardmaiden shall annihilate your bodies and eradicate any trace of your unholy souls.”
 
-If not, they will leave the adventurers among the roots until the spell wears off (a Quarter Day). Breaking free requires a successful MOVE roll with –2 or someone casting the spell DISPEL MAGIC (Power Level 2 or higher).
+The Maidens (one more than the number of adventurers) soon realize their mistake, but they are proud and suspicious and will only free the adventurers if there are elves or Elvenspring among them. If not, they leave them in the roots until the spell wears off (a Quarter Day). Breaking free requires a successful MOVE roll with –2, or the spell DISPEL MAGIC (Power Level 2 or higher).
 
-The trapped Misgrown is an escaped experiment from one of Zytera’s demonological laboratories (see _Raven’s Purge_ ). Unless the adventurers intervene, the Maidens will take it to a sacred glade and have it put down in an ancient druidic ritual. However, if the adventurers save the creature’s life it will show both gratitude and affection. It is not aggressive, but terrified of sorcerers and growls alarmingly when there are magical places or items nearby.
+The trapped Misgrown is an escaped experiment from one of Zytera’s demonological laboratories (see _Raven’s Purge_). Unless the adventurers intervene, the Maidens will take it to a sacred glade and have it put down in an ancient druidic ritual. If the adventurers save the creature’s life, it shows both gratitude and affection — not aggressive, but terrified of sorcerers, and it growls when there are magical places or items nearby.
 
 For the Maiden Druids’ stats, see the _Gamemaster’s Guide_, page 51.
 
 - **Terrain Types:** Forest, Dark Forest
-
 **ESCAPED EXPERIMENT**
 
 The snared creature has a terrifying appearance with hornlike spikes all over its body. The face is dominated by an oversized mouth with huge fangs. Ten green reptilian eyes are positioned around its scalp, staring ravenously in all direction. The Misgrown understands human speech and is rather fond of humans, but only communicates through guttural grunts.
@@ -2281,7 +2262,7 @@ The snared creature has a terrifying appearance with hornlike spikes all over it
 
 ### **31** the Burning Bush
 
-> _A waist-high bush in the middle of the terrain is emitting a strange, shimmering blue light. Closer up you see great flames of blue fire flaring out in every direction from the gnarled plant. Oddly enough, the surrounding vegetation seems unaffected by the fire._
+> _A bush burning with blue fire, alone in the terrain. No char, no scorching at the roots. The flames reach outward but the grass is untouched. The heat is real; the burning is not._
 
 Adventurers who touch the burning bush can feel an intense heat, but are not harmed. However, they sense a strong unworldly presence and must make an INSIGHT roll. Anyone who fails must roll on the Horror table (the _Player’s Handbook_, pages 199–200), while those who succeed gain an extra Willpower Point.
 
@@ -2291,7 +2272,7 @@ With a successful LORE roll, the adventurers can recall legends of old, partiall
 
 ### **32** Magical Glade
 
-> _You suddenly find yourself in a shimmering glade where the surrounding trees are adorned with feathers and wind chimes. The faint, ethereal tinkle of the wind chimes is as beautiful as it is eerie, and several of the trees have archaic symbols carved into their bark._
+> _The trees have been decorated — feathers tied to the branches, wind chimes of carved bone hanging from the lower limbs. They move when there is no wind. The symbols cut into the bark are old and have been recut recently._
 
 A successful LORE roll identifies the symbols as druidic Maha runes, and sorcerous adventurers can instinctively feel ancient magic radiating from the glade. Each adventurer who spends the night in the glade gains an extra Willpower Point.
 
@@ -2299,7 +2280,7 @@ A successful LORE roll identifies the symbols as druidic Maha runes, and sorcero
 
 ### **33** the Possessed Stone Throne
 
-> _An ancient but still majestic throne of stone sits perched on a small height nearby. It is partially overgrown with thick thorns and there is a deep crack zigzagging across its back. Seven steps cut in stone lead up to the modestly decorated throne. Its armrests end in roaring, monstrous faces and at the top of the cracked backrest are two crossed scimitars under a stylized crown._
+> _A throne of stone on a low rise: seven steps, thorn-wrapped, a deep crack zigzagging through the back. The armrests end in carved snarling faces. Two crossed scimitars under a crown at the top. It has been empty a long time._
 
 The stone throne once belonged to an orc lord that ruled the area many generations ago. If an adventurer sits on the weathered throne, the orc lord will materialize as a ghost. Filled with undead rage and envy of the living, he ferociously attacks the adventurer who dared sully his high seat.
 
@@ -2311,24 +2292,17 @@ Stats for Ghost are found in the _Gamemaster’s Guide_, pages 94–95.
 
 ### **34** the Jolly Gravediggers
 
-> _The wind carries a cheerful tune from a place nearby. Someone is singing out there, with more enthusiasm than skill. Soon you hear that it is coming from a small choir of merry but less than musical voices. The few words you can make out are about goblin feats and achievements._
->
-> _The sound draws closer and you soon notice three jolly goblins strutting through the terrain. They are carrying large spades and fully stuffed backpacks, but seem unequipped for combat. Their black eyes gaze expectantly at the horizon as they croak out their heroic songs about bold goblins rescuing careless halflings from the wolf’s jaws._
+> _Three goblins on the road, carrying spades and heavy packs. They walk with the deliberate pace of people who know where they are going. Their black eyes find you before you have decided what to do about them._
 
-The adventurers have run into the goblin siblings Plump, Kolk, and Hekate who are on their way to a nearby village to seek employment as gravediggers. They are cheerful, unafraid, and outgoing.
+The adventurers have run into the goblin siblings Plump, Kolk, and Hekate: a family gravedigging operation on its way to the nearest village in search of work. They have done this before. Plump and Kolk dig; Hekate handles accounts and the dead. They are not aggressive, but they are not naïve. Their standard opening is to share a fire and some food, because food is disarming and they have learned this.
 
-If attacked the goblins will defend themselves with a variety of sneaky tricks, but if everything plays out peacefully, they will offer the adventurers some roasted squirrel and freshly brewed mead by a warming campfire.
+If things go peaceably, Hekate will eventually produce their family heirloom — a mummified goblin finger with a long black claw. It belonged to their great-grandmother, a necromancer of the Worm Crawler clan. Hekate keeps the restless dead cooperative at the gravesites where they work; the finger is how she does it. She will sell it for D6 gold coins or a keg of dwarven beer, but the deal must be made quickly. If the adventurers hesitate, she changes her mind.
 
-They talk about their plans for the future and their excellent division of labor: Plump and Kolk will do the digging while the fasttalking Hekate handles the finances and coordinate their work efforts.
+If attacked, the siblings fight dirty. They have done this before too.
 
-The latter includes keeping the restless dead in a good mood. Hekate claims to be good with undead. Her secret is an old family heirloom which she will proudly show off after a few drops of mead. It is a mummified goblin finger with a long black claw at the end. According to Hekate, the finger belonged to her greatgrandmother - who was a respected necromancer of the Worm crawler clan.
-
-The mummified finger is the siblings’ most prized possession. However, with a successful opposed roll for MANIPULATION versus Hekate’s INSIGHT, the adventurers can persuade the goblins to sell their heirloom for D6 gold coins or a keg of dwarven beer – but only if they can make a quick deal.
-
-The finger contains ectoplasmic memories from a goblin necromancer and gives its bearer the necromantic ability to communicate with the dead (see the spell Speak to the Dead in the _Player’s Handbook_, page 142). The ability also works with undead, but can only be used once per Quarter Day and costs one Willpower Point per use.
+The finger gives its bearer the necromantic ability to communicate with the dead (as the spell Speak to the Dead, _Player’s Handbook_, page 142). Works with undead as well. Once per Quarter Day, costs one Willpower Point per use.
 
 - **Terrain Types:** Forest, Dark Forest
-
 **PLUMP, KOLK AND HEKATE**
 
 - **Attributes:** Strength 2, Agility 4, Wits 3, Empathy 2
@@ -2338,11 +2312,9 @@ The finger contains ectoplasmic memories from a goblin necromancer and gives its
 
 ### **35** the Ferocious Battle
 
-> _The first thing you notice are the carrion birds greedily circling a place further ahead. There are so many of them that they form a small cloud of black feathers and bad omens. Then you hear it. Metal hitting metal, the deep and rhythmic beating of drums, roars of rage and pain._
->
-> _Colorful pennants and fluttering banners of war appear above the treetops. For a moment they disappear behind a rain of black arrows, followed by heavy thuds. The screams and drums grow louder, as do the resounding, frantic clangs of axes meeting swords and metal shields._
+> _Carrion birds circling ahead in numbers large enough to shadow a patch of ground. Then drums. Then the sound of metal on metal — close enough that you feel it through your boots._
 
-The adventurers have stumbled into a ferocious battle between belligerent orcs of the Isir clan and a division of Meromannian dwarves from the army of the warlord Tormund. It is a skirmish rather than a fullscale battle, with about fifty warriors on either side.
+The adventurers have stumbled into a ferocious battle between belligerent orcs of the Isir clan and a division of Meromannian dwarves from the army of the warlord Tormund. It is a skirmish rather than a full-scale battle, with about fifty warriors on either side.
 
 Both the orcs and the dwarves are consumed with bloodlust and extremely dangerous to be around. Consequently, adventurers who interfere in the fighting risk being attacked by both sides.
 
@@ -2356,9 +2328,7 @@ Stats for Meromannians and Isirs can be found in the _Game master’s Guide_, pa
 
 ### **36** the Castaway
 
-> _You suddenly see large amounts of broken planks and other debris floating near the surface of the water. The lumber seems sturdy and beautifully decorated, but is broken to pieces and full of strange gashes, possibly from a giant beak._
->
-> _Floating the middle of the mess are straw- filled crates and large oak barrels of sugar- coated apples, fermented herring, and other delicacies. The wet and bearded head of a man peeps up from one of the barrels: “Oh, decent folk on the big blue – dare I ask you to lend me a hand? I shall pay you handsomely for helping me out of this predicament.”_
+> _Broken planks on the water — good timber, carved fittings, smashed. The gashes through the hull are too regular for rocks and too large for any normal animal. Among the floating debris, a bearded head in a barrel._
 
 The man in the barrel is the sole survivor of a noble sloop that was attacked by a giant squid during a diplomatic mission. He answers to the name of Permodius Pen and has a tongue as silvery as his quill is sharp. For the past twenty years he has served as a special advisor and envoy to Duke Gottfried of House Three Stars.
 
@@ -2366,6 +2336,6 @@ Adventurers who succeed with a LORE roll have heard of the Duke. He belongs to a
 
 If the adventurers rescue master Permodius, he will let them keep all the barrels of precious delicacies from Duke Gottfried’s cellars. The fermented herring is particularly sought after, and the total market price of all the sloop’s food supplies is 4D6 silver coins. If this is not enough, he promises to put in a good word for the adventures with the Duke, who never fails to generously return a favor.
 
-Master Permodius is tightlipped about the exact purpose of his diplomatic mission, but he does mention the dwarf king Turik of Belder and the importance of an alliance against “the demonic rabble.” He is highly educated and wellversed in the legends of Ravenland.
+Master Permodius is tight-lipped about the exact purpose of his diplomatic mission, but he does mention the dwarf king Turik of Belder and the importance of an alliance against “the demonic rabble.” He is highly educated and well-versed in the legends of Ravenland.
 
-**Terrain Types:** Lake
+- **Terrain Types:** Lake
