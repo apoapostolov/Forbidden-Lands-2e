@@ -116,25 +116,25 @@ to attacks. Campsites can be secured by pouring lamp oil on the ground, which th
 | 2  | Old miner songs warn against the wide jaw the plating does not cover, and of certain spilled liquids that turn a worm aside if the ground is wet enough. |
 | 3  | Lamps emptied into a shallow trench have saved more than one camp. The hide hardens with age, but the gullet stays meat; what no axe can chop, a spear through the open mouth will reach. |
 
-#### Random Encounter: the Silent Furrow
+#### Random Encounter: the Seeded Field
 
-> _A strip of freshly turned earth runs through a fallow field, though no plow stands nearby. A wooden shoe lies in the furrow. Farther on, a rake handle juts from the soil and trembles with each careful step._
+> _The field has fed the stead through two winters when the valley ones did not. At first plowing a single clean furrow opens by itself across the headland. No ox, no blade, no voice. Only a slow pressure under the clay._
 
-A young Abyss Worm hunts beneath the field after taking two villagers during the morning work. The villagers have tied bells to poles and dare not step past the fence. If the adventurers help, a successful SURVIVAL roll reveals that irregular footwork and soft ground reduce the chance of drawing the worm, while steady marching calls it straight toward the group.
+An Alderlander stead of forty souls has fed through the Mist years because an Abyss Worm lives under its long field and breaks the ground the plow cannot. Every spring, at first plowing, the worm takes one villager. By old lot, the lot falls on someone past work. This spring the lot fell wrong: a young widow with two small children. Her dead husband’s uncle, who holds the drawn straw, waits at the party’s fire and asks them to lead her away before sunrise. He does not want to be the sacrifice instead. He wants the children not to know the name of who was meant to go.
 
 - **Terrain Types:** Plains, Forest, Hills
 
-#### Random Encounter: Drums under the Mine
+#### Random Encounter: the Drum and the Jar
 
-> _From the mine mouth comes a hollow beating, slow and regular, as if someone were striking a great hide drum far below the stone. Then the beat stops. Pebbles begin to dance at your feet._
+> _The old widow sets her small drum on the dead turf and lifts the mallet. In her other hand a sealed clay jar, cord-wound, unmarked. The mule she led here is tied well away. She begins a slow, even beat._
 
-Miners trapped in an old dwarven shaft have tried to lure a worm away from a collapsed passage by beating on ore carts. They have instead woken an old worm with a plated hide. The mine holds D3 Valuable Finds, but every Quarter Day spent underground risks another worm answering the vibration.
+A charcoal-burner’s widow has walked three days to the ruined stead where her husband was taken by an Abyss Worm. She means to drum until the worm answers and then open the sealed jar in its mouth. She will not say what is in the jar. She has paid three silver for the adventurers to keep her mule alive and carry a letter of her daughter’s inheritance to a Raven Sister two days east. The mule is worth more than three silver. The drum is already calling.
 
-- **Terrain Types:** Hills, Mountains, Ruins
+- **Terrain Types:** Plains, Forest, Hills, Ruins
 
 > **RESOURCES**
 >
-> The worm’s corrosive saliva can soften stone and bone. An adventurer with the ALCHEMIST talent can extract D3 doses from the mouth glands with a successful HEALING roll. A dose may replace strong acid in an alchemical preparation or give +1 to a CRAFTING roll made to etch, loosen, or dissolve stone.
+> The worm feeds by dissolving rock with a saliva older than farming. An adventurer with the ALCHEMIST talent can, with a HEALING roll, draw one dose of saliva per ⚔️ rolled from the jaw glands, together with D3 pebble-hard jaw stones that grind any dried ingredient to powder without mortar or pestle. A dose smeared on an edged weapon eats through 3 points of Armor Rating on a single hit before the metal dulls, or undoes a locked iron fitting in the time a cold prayer takes; spilt on a flag floor, it opens a hand-wide hole through the stone to whatever lies below. The saliva keeps its bite for one Quarter Day in a horn flask and spoils any clay or metal vessel it touches. A full jaw stone sells to a dwarven SMITH for D6 silver as a Rare Find.
 
 ### Bloodling
 
@@ -175,25 +175,25 @@ The mist as such seems to be immune to attacks, but it is said to disperse in br
 | 2  | Village warnings from the Blood Mist years tell travelers to keep flame and bright metal close after sunset, and to mistrust any red haze that gathers around a quarrel. |
 | 3  | Where a torch flares, a bloodling draws back; where the old red metal bites, it bleeds. Iron and good steel cut the empty mist and find nothing beneath. |
 
-#### Random Encounter: Mist at the Guest Door
+#### Random Encounter: the Sickroom Watch
 
-> _The village shuts itself before sunset. No latch is left loose, no window unbarred. Outside the guest house a red thread of fog curls along the threshold, thin as spilled blood._
+> _A copper kettle hangs over the hearth, dented from other hands. In the back room an old woman is dying slowly and speaking to the rafters. Outside the shutters, a thin red breath gathers and waits for the next quarrel._
 
-A stubborn bloodling has learned to hunt travelers who sleep inside settlements but do not belong there. It waits until a quarrel, nightmare, or homesick confession gives it a path. The villagers know the old rules of the Blood Mist and will blame the adventurers if a door is opened after dark.
+A travelling midwife tends a dying alderlander matron whose nightmares draw a bloodling each dusk to the guest door of the village inn. Her three grown sons want the thing gone so their mother can sleep. The midwife wants the old woman to name, before she dies, who poisoned her first husband in the Mist years. The matron will only speak the name if the red mist is at the window one more time. Drive the bloodling off and the wrong stays buried. Let it come and the mother dies before sunrise. There is one copper kettle in the house, one copper mirror, and no more copper than that.
 
 - **Terrain Types:** Plains, Forest, Marshlands
 
-#### Random Encounter: the Copper Beggar
+#### Random Encounter: the Red Calf
 
-> _A beggar sits beside the road with copper wire twisted through his beard and little copper plates sewn to his cloak. He will not look at the setting sun. He only asks whether you have seen the red woman following him._
+> _The calf stands in its stall with its mouth still open from birth. It has not closed. A faint red breath drifts from it in the cold air, and the oats in the next-door field have put out a second head six weeks early._
 
-The beggar is a former Rust Brother initiate who survived an initiation in the Mist and stole a copper reliquary from his cell. A bloodling trails him, appearing first as a red haze in the ditch and then as a woman-shaped smear between the trees. The reliquary is worth silver, but keeping it draws the demon’s attention.
+A farmer’s calf was born three weeks ago with its throat full of red mist. It has not died. It does not eat and does not grow, but at night a red vapor gathers about it and the farmer’s crops thrive as nothing else in the valley does. A priestess of the Raven Church two villages over will pay silver for the calf’s head and witness. The farmer will pay silver to keep the calf alive through harvest. A Rust Brother journeyman, just arrived at the inn, will pay in other ways if he learns of it first.
 
 - **Terrain Types:** All
 
 > **RESOURCES**
 >
-> A bloodling leaves a dark red residue on copper that has wounded it. An adventurer with the ALCHEMIST talent can scrape enough residue for one dose after a slain manifested bloodling dissolves. Mixed into a potion or incense, the dose gives +1 to INSIGHT rolls made to sense fear, grief, or concealed despair for one Quarter Day.
+> A manifest bloodling put down with copper leaves a dark red residue drying on the blade. An adventurer with the ALCHEMIST talent, with a HEALING roll, collects one dose per ⚔️ rolled. A dose burned as incense for one Quarter Day draws the nearest bloodling still abroad in that land within NEAR range of the burner, and nothing else; if no bloodling is abroad, the incense wakes every sleeper in the house with the same nightmare. Rubbed on the eyelids, the residue shows the bearer where mortal blood has soaked ground, stone, or linen within the last Quarter Day, even through whitewash and fresh turning. The bearer’s eyes weep red tears for the rest of the day; any villager who sees it will bar her door.
 
 ### Demon
 
@@ -310,25 +310,25 @@ Demons can be completely impervious to cuts and strikes, fire or cold. Most of t
 | 2  | No two demons need share the same body, powers, or weakness; observation and old village tales are often more useful than bravery.               |
 | 3  | The worst demons in Ravenland are old survivors of the Demon Flood or spawn of Zygofer’s laboratories, and many still answer to bargains made in blood. |
 
-#### Random Encounter: the Thing in the Byre
+#### Random Encounter: the Oak That Keeps the Peace
 
-> _The cow has not calved. It has opened. Something wet and many-jointed moves in the straw while the farmer stands by the wall with a pitchfork, whispering prayers to every god he knows._
+> _The oak is five hundred years old and has never shed its lowest branch. No iron has been sharpened in its shadow since the Alder Wars. A Raven Sister stands at its foot with a broad-axe and a young novice who has never lifted one._
 
-A demon has been born from livestock corrupted by old mog buried under the byre. Its form is rolled normally, but its first weakness is hidden in the farm’s daily life: water from the well, ash from the hearth, a child’s song, or the touch of clean soil. The family begs the adventurers to kill it before the Rust Brothers hear of the birth and burn the whole stead.
+A small, quiet demon lives bound in an old oak at the edge of a marsh village. For nineteen years the village has kept the peace: no traveler sleeps more than one night in sight of its branches, no blade is whetted beneath its crown. In return, the fever that killed three generations of children has not returned. A Raven Sister has arrived with orders from the Congregation to cut the oak down. The village will not refuse a Sister. They will also not see the next winter’s first week if the peace breaks. The novice has been told the tree holds a demon. She has not been told the rest.
 
-- **Terrain Types:** Plains, Forest
+- **Terrain Types:** Plains, Forest, Marshlands
 
-#### Random Encounter: the Old Contract
+#### Random Encounter: the Father Who Paid
 
-> _A stone post stands beside the road, smeared with blood though no body lies nearby. The writing on it changes as you watch. First your names. Then the names of people you have buried._
+> _An old fisherman cleans a pike by firelight, thumbs steady, eyes not. His wife sleeps by the hearth. His grown son is outside mending a net. He asks the adventurers to sit closer, and when they do, he speaks softly enough that only they can hear._
 
-A demon bound during the Alder Wars has begun calling in a bargain made by dead soldiers. It claims the pass, ford, or bridge as payment and will let no armed traveler cross without sacrifice. Clever adventurers may break the contract by discovering whose blood signed it, but each failed parley roll lets the demon choose one of its attacks from the table.
+During the Alder Wars the fisherman bought his firstborn son’s life from a minor demon by promising the demon could take the boy back when his beard came in full. The boy’s beard is now three fingers long. The fisherman asks the adventurers to kill him — the father — before morning, so the contract dies with the signer. He wants it done after his wife has gone to sleep and before his son comes back from the net. He has two silver in his hand and the rest under his bed. He cannot raise a knife to himself; he has tried, and the demon keeps his hands steady.
 
 - **Terrain Types:** All
 
 > **RESOURCES**
 >
-> Demon bodies rarely leave clean remains, but mog, horn, bile, ash, or glassy bone may be cut from them before they decay. An adventurer with the ALCHEMIST talent can preserve one dose of demonic substance with a successful HEALING roll. The dose may serve as a forbidden ingredient for Demonic Magic, or as a +1 ingredient in a potion meant to resist the demon’s own attack type. Possessing such matter is enough to make most villagers bar their doors.
+> Demon matter rarely keeps its shape, but fresh mog, splintered horn, or glassy tooth can be cut away before the body dries. An adventurer with the ALCHEMIST talent gathers one dose per ⚔️ rolled with a HEALING roll, each dose of one named part. A dose of mog replaces the rare ingredient in any Demonic Magic ritual or demonic potion and frees the caster from the usual mog-handling for that casting. Ground horn in blood-wine grants the drinker D6 additional points of Strength that do not exceed her starting value and fade at the next Quarter Day; when they fade she rolls a random critical injury on the Broken table. Carrying demon matter openly has Reaction value: most villagers refuse shelter at sight, Raven Sisters confiscate and question, and Rust Brothers pay silver to take it off a traveler’s hands and her questions.
 
 ### Death Knight
 
@@ -362,25 +362,25 @@ It is whispered that Death Knights regularly need to devour certain parts of hum
 | 2  | Lesser undead obey them without question, and a Death Knight who knew magic in life may still wield a twisted form of it.                              |
 | 3  | Some Death Knights preserve their strength by eating human organs, and old salts or prepared corpses may poison such a feast.                         |
 
-#### Random Encounter: the Muster after Midnight
+#### Random Encounter: the Roll of Three Hundred Names
 
-> _Moonlight glints on helmets in a field where no army should stand. Skeletons climb from the ditch one by one, taking places in silent ranks before a mounted corpse with a sword across its knees._
+> _He rides into the road at a quiet walk. The horse is bone and the sword across his knees is older than any living king. He asks the adventurers their names and waits for an answer._
 
-A Death Knight from the Alder Wars is mustering the dead for a campaign it does not know has ended. It demands news of King Algarod, Zygofer, or the Iron Lock, depending on its old allegiance. If deceived or challenged, it orders its dead to seize fresh scouts for the morning march.
+A Death Knight of the Alder Wars has risen with a parchment roll of three hundred names his dead king swore to. Each night he visits the nearest living descendant of a name on the roll and calls for renewed oath. The descendants are a weaver, two farmhands, a half-elf midwife, a child of nine, a Rust Brother cook. Refusal is death; oath is to march with him on first frost. One descendant, a poor fletcher, has already gone willingly and walks a half step behind the horse. He still answers to his own name. He asks the adventurers to take his knife back to his daughter and tell her he has not been captured.
 
-- **Terrain Types:** Plains, Ruins
+- **Terrain Types:** Plains, Forest, Ruins
 
-#### Random Encounter: the Organ Tithe
+#### Random Encounter: the Salt Merchant on the Eastroad
 
-> _A village elder waits outside the palisade with a covered bowl in her hands. She says the dead lord comes once each winter. This year the village has no condemned thief to give him._
+> _The wagon creaks north. Two wheels and a grey mule, a seal stamped on each side of the canvas, a thin man at the reins who does not sing as salt-carters sing. He waves the adventurers down and offers them hot food, and under the food he offers more._
 
-The settlement survives by feeding a Death Knight the heart or liver of an executed criminal every year. The practice began during the Blood Mist and has become a shame no one dares end. If the tithe is refused, the Death Knight returns with D6 restless dead and names the elder’s family first.
+A salt-merchant on the road tells the adventurers that he is in fact the condemned criminal his home village pays in annual tithe to a Death Knight. He bought execution-right from the village court with his last coin, rode out a freeman, and does not mean to return. If the adventurers escort him past the Knight’s range the village will be taken in full within the month. If they turn him in, he offers his full wagon of salt — a working season’s wages for a stronghold — and the silver hidden in the axle. He wept once already, at dawn; he will not weep again.
 
-- **Terrain Types:** Forest, Plains
+- **Terrain Types:** All
 
 > **RESOURCES**
 >
-> A Death Knight’s grave-cold marrow can be scraped from the thigh bones if the corpse is destroyed before dawn. An adventurer with the ALCHEMIST talent can preserve one dose with a successful HEALING roll. The dose may be used in a potion that gives +1 to resist fear or cold for one Quarter Day, but any mishap while preparing it inflicts 1 Wits damage from the voices of the dead.
+> Grave-cold marrow can be scraped from the thigh bones of a fallen Death Knight before the first cock crows. An adventurer with the ALCHEMIST talent, with a HEALING roll, preserves one dose per ⚔️ rolled. A dose mixed in drink makes the user indistinguishable to restless dead for one full day: skeletons, restless dead, ghouls, and lesser undead pass her by as they would pass a corpse, unless she draws steel or speaks aloud. A dose pressed onto the blade of a pointed weapon lets that weapon deal full damage to skeletons and ignore bone resistance for one combat before the coating burns off. Preparing the marrow demands silence at the cauldron; any word spoken over the brew costs the alchemist 1 Wits as the old voices answer.
 
 ### Dragon
 
@@ -424,25 +424,25 @@ By “small” dragons, one refers to those who weigh no more than four oxen. Ev
 | 2  | Gaps open between shed scales. A careful scout can spot such a place and guide a hard shot or spear thrust.                                     |
 | 3  | Dwarven clans remember dragon blood and dragon bone in old songs, and some greater dragons may still keep grudges older than human kingdoms.    |
 
-#### Random Encounter: Smoke above the Sheepfold
+#### Random Encounter: the Payment in Sheep
 
-> _The smell of burnt wool hangs over the pasture. The shepherds have driven the surviving sheep into a thorn pen and hung iron tools from the posts, though none can say whether iron frightens dragons._
+> _Eleven sheep taken in six months, no more, no less. The shepherd keeps count out loud when he thinks no one hears, and his grandfather’s old ledger sits on the shelf with a mark for every month since the bargain. The Iron Guard ride up the valley the morning after the eleventh sheep is taken._
 
-A small dragon has nested on a crag above the grazing land and returns every evening for meat. The villagers want it killed before winter stock is lost. A successful SCOUT roll locates a narrow cleft below the nest where shed scales, bones, and one lesser treasure can be found.
+A small dragon has taken eleven sheep from one flock in six months. The absent lord pays the shepherd for the loss and now sends Iron Guard to “inspect the claim.” The shepherd knows the dragon eats eleven sheep and no more, because his grandfather struck a bargain with a nesting pair during the Mist years. Exposing the bargain ruins him. Upholding it means the Iron Guard climbs the crag and kills whatever they find. A pair of flightless chicks sleeps behind the shepherd’s barn. His daughter feeds them at dusk and has named them.
 
 - **Terrain Types:** Plains, Hills, Mountains
 
-#### Random Encounter: the Crombe Claim
+#### Random Encounter: the Scale in the Road
 
-> _Three dwarves stand around a blackened skull as large as a cart. They are arguing in low voices, each holding a hammer, each pretending not to watch the sky._
+> _Three dwarves of the Crombe clan stand around a single dragon scale as long as a forearm and as black as wet coal. Two hold hammers. The third, who does not, is already dying from a wound the others did not give him. Above the pass a great shadow crosses the sun._
 
-Dwarves of the Crombe clan have found what they claim is a scale or bone of Scarne’s line. A large dragon or jealous drakewyrm circles nearby, drawn by the scent of old kin and older treasure. The dwarves will pay in craft, not coin, for help carrying the relic to stone halls.
+The Crombe dwarves have dug a scale belonging to a large dragon still alive. Two of them want to carry it home and bind it in stone. The third, who wants it destroyed, knows that the scale is how dragons of Scarne’s line find each other — and that the dwarves are not all of a mind on what they mean to do once found. He will finish his argument before he dies. If the adventurers speak, the shadow above them pauses. It has heard everything so far.
 
 - **Terrain Types:** Mountains, Ruins, Hills
 
 > **RESOURCES**
 >
-> Dragon scale, bone, blood, and ash are prized by smiths and sorcerers. An adventurer with the ALCHEMIST talent can preserve one dose of dragon blood with a successful HEALING roll; the dose may replace a rare fire ingredient or give +1 to a potion that resists fire. A SMITH can use intact scales as rare armor material at the GM’s discretion.
+> Dragon blood, scale, tooth, and ash each have named uses. An adventurer with the ALCHEMIST talent, with a HEALING roll, preserves one dose per ⚔️ rolled from a small dragon, or one dose per **two** ⚔️ rolled from a large one whose body is mostly bone and flame. Dragon blood replaces the rare ingredient in Elixir of Life (see the Corebook), a scale serves for Iron Juice, and a whole tooth ground with its root is enough for a Decoction of Cunning. An intact scale given to a SMITH of Rank 3 or higher counts as one Valuable Find in forging; a matched set of nine scales will armor a helm or corselet with +3 Armor Rating against fire for its first season before the glaze fails. Blood is hot in the cup for two days and then goes to ash. Nothing else preserves it.
 
 ### Drakewyrm
 
@@ -479,25 +479,25 @@ A Drakewyrm can’t stand competing with anyone when it comes to its brilliance,
 | 2  | They are drawn to bright colors, mirrors, coins, polished mail, and rainbows, and they attack rivals to their own brilliance first.          |
 | 3  | Some drakewyrms worship the rainbow as Tincturus, leaving offerings of bones and shiny things where the colors touch the ground.             |
 
-#### Random Encounter: the Rainbow Pilgrim
+#### Random Encounter: the Dowry
 
-> _A rain shower passes over the hills. When the sun breaks through, a rainbow falls across a stony ridge, and from the rocks below comes a scraping rush of claws._
+> _A wedding caravan has stopped on the road outside a hill village. Thirty pieces of polished copper, a silver mirror, two bolts of green cloth, and a bride who has not spoken since her father told her where they were going. At dawn the drakewyrm paces the ridge above them._
 
-A drakewyrm races toward the rainbow’s end and mistakes the brightest adventurer for a rival priest, god, or thief. If the group throws a polished shield, gem, or bright cloak away from themselves, the beast may chase that instead for D3 rounds.
+A merchant’s daughter is two days from her wedding in a hill village when a drakewyrm decides her dowry — the polished copper and the silver mirror — belongs to it. The merchant wants the beast killed before the ceremony. The bride, sitting quietly among the wagons, wants it to take the dowry in full. If the adventurers ask her why, she will not answer, but she writes well and hands one of them a folded scrap. The scrap is in a tongue the merchant cannot read.
 
 - **Terrain Types:** Hills, Mountains, Plains
 
-#### Random Encounter: Gifts of the Wyrm
+#### Random Encounter: the Song Taught Wrong
 
-> _Three dead goats lie neatly on the road, each crowned with a ring of colored stones. On the cliff above, something clears its throat and asks whether you like the presents._
+> _An elderly bard walks the road teaching hill-children the long flattering verses that calm drakewyrms. Rain has stopped twice for her. She carries a lyre wrapped in oiled leather and has paid coin in three villages already for the right to teach a child one verse._
 
-A sated drakewyrm wants praise, news, and a song about its beauty. It offers stolen meat and a pouch of coins taken from a dead peddler. Insult, dull clothing, or visible mirrors may turn the parley into a fight, but successful MANIPULATION can win a strange ally for one journey.
+The bard was fed as an orphan by a drakewyrm in trade for song. She is returning now because the drakewyrm who raised her is dying. She wants to teach one village child one last verse before the beast passes, so the song she was given is not lost. The child’s parents do not want their son anywhere near a dying drakewyrm, and the bard pays silver and will pay more. The death-rattle is expected to last three days. A Rust Brother priory lies a day’s ride east. The bard has not slept in four nights.
 
 - **Terrain Types:** Hills, Mountains, Forest
 
 > **RESOURCES**
 >
-> Drakewyrm scales keep a faint inner sheen after death. An adventurer with the ALCHEMIST talent can grind D3 doses of scale-dust with a successful CRAFTING roll. A dose may be used as a magic ingredient for illusion, charm, or light, or mixed into pigment that gives +1 to a MANIPULATION roll based on splendor and display.
+> Drakewyrm scales hold a faint inner sheen that answers to flame and to praise. An adventurer with the ALCHEMIST talent, with a CRAFTING roll, grinds one dose of scale-dust per ⚔️ rolled, and one dose of stomach acid per ⚔️ rolled from the gut. The acid replaces the rare ingredient in Intoxicating Decoction (see the Corebook). A dose of scale-dust scattered on a person, weapon, or beast marks it until the next rain: any drakewyrm, wyvern, or small dragon sighting the marked target in a fight will attack it in preference to any other. The dust can also be mixed into a paint or dye that does not dim under torchlight; one jar marks a shield, a door, or a covered wagon, and a jar sells for D6 silver to any alchemist, herald, or vain lordling within reach.
 
 ### Ent
 
@@ -535,25 +535,25 @@ The elves still honor these very old tree herders in the deep forests and when t
 | 2  | Woodcutters who lived through an Ent's wrath speak of the wrong torch carried by a foolish man, and of green bark turning black beneath one careful blaze. |
 | 3  | Flame that would singe a hare can put a great Ent to ruin, but the same blaze loose in a dry summer wood may call more wrath than it ends. An Ent may listen instead to music, old elven words, or honest restitution. |
 
-#### Random Encounter: the Charcoal Debt
+#### Random Encounter: the Ent’s Witness
 
-> _A charcoal-burner’s camp lies flattened in the moss. The kiln has been opened like an egg, and beside it stands a living tree with soot on its bark and a sleeping child cupped in one wooden hand._
+> _It has stood at the edge of the logging camp for four days. It has not moved. It has not spoken. The loggers work under a timber tithe set by a lord who does not know the Ent is there. A half-elf girl from the camp walks up to it every morning with a handful of acorns and feeds one into the hollow beneath its bark._
 
-An Ent has spared one child but killed the adults who burned sacred trees during the Blood Mist years. It demands judgment from any elf or druid among the adventurers. If the group takes the child by force, the Ent fights; if they promise replanting, blood-price, or song, it may accept a lesser debt.
+An Ent has stood at the edge of an Alderlander logging camp for four days. It is judging. The loggers are tenants on a lord’s timber tax and cannot stop work. The girl does not know what the Ent is or that her father was one of the men who burned its grove during the Mist years. When the Ent decides, it will take one thing from the camp: the tree the girl hides behind when she plays, the girl’s father, or the girl herself. She is the only person in the camp who has ever shown it kindness.
 
 - **Terrain Types:** Forest, Dark Forest
 
-#### Random Encounter: the Walking Grove
+#### Random Encounter: the Grove Sold
 
-> _The path you followed yesterday is gone. Young birches stand across it in a row, their leaves turned toward you like listening faces. Deeper in the wood, something heavy takes a step._
+> _A village sold its old grove to a hill-clan chieftain in the famine of fifty-two winters back for twelve iron ingots. The chieftain cut one tree and left. The village has taken the rest, year by year, for the charcoal-burners and the winter stoves. One tree remains. At dawn the old spinster of the village is waiting outside with her belongings on a sledge._
 
-An Ent is slowly moving a grove to close an old road built by dwarves and widened by humans. Merchants from a nearby village want the road kept open. Elves want it buried. The Ent will speak only after the adventurers spend a Quarter Day in silence beneath its branches.
+The last tree of a sold grove is an Ent, though no villager knows. Last evening it spoke to the oldest woman of the stead in the elven tongue and told her what it means to do at dawn. She has not told the others. She has packed a bag and sat down at the road’s edge to wait for travellers. She will tell the adventurers the whole story only if they agree first to take her back to her sister’s house, six days off. She will not warn the village. She owes the village nothing.
 
 - **Terrain Types:** Forest, Dark Forest, Ruins
 
 > **RESOURCES**
 >
-> Ent heartwood is almost never taken without a curse, but fallen splinters and sap from a slain Ent hold old green strength. An adventurer with the ALCHEMIST talent can preserve D3 doses of sap with a successful HEALING roll. A dose may replace a rare plant ingredient or give +1 to a potion that heals Strength damage caused by poison, thirst, or rot.
+> Fallen splinters, sap, and heartwood rings from a slain Ent hold old green strength and old green grief. An adventurer with the ALCHEMIST talent, with a HEALING roll, preserves one dose of sap per ⚔️ rolled, plus one fragment of heartwood for every Ent put down. A dose of sap poured into a shared cup cures the Thirsty condition for every adventurer within ARM’S LENGTH of the draught, not one drinker. A fragment of heartwood set into a weapon haft by a CRAFTER grants that weapon a D8 Artifact Die on the first attack of every combat for one natural season; at season’s end the wood cracks and the weapon is ordinary again. A dose of sap poured on a cut stump raises a hand’s breadth of new bark and green leaves by sunrise. Villagers who see such things know what the bearer has done.
 
 ### Ghost
 
@@ -588,25 +588,25 @@ Sometimes, ghosts possess statues or other inanimate objects, bringing them to l
 | 2  | Fire and old rites drive a ghost back for a season, never longer; villages know the dead come again until the wrong is mended.                  |
 | 3  | Only the holy purging spoken by a Raven Sister, or the answering of the unfinished thing that pins the dead in place, will lay a ghost down for good. They may otherwise possess statues, doors, bells, or tools where their memory has hardened. |
 
-#### Random Encounter: the Bell That Rings Below
+#### Random Encounter: the Sexton’s Silence
 
-> _A cracked chapel bell rings under the hill, though the tower above has no bell left in it. With each toll, the old graves breathe white mist._
+> _The little chapel sits half a day off the road, kept clean by one old sexton who never married. A Raven Sister arrives at the adventurers’ camp at dusk, asks politely for lamp oil, and tells them why she has come._
 
-A ghost of a buried priest or Raven Sister calls for burial rites denied during the wars. Restless dead gather with each toll. If the adventurers find the stolen bell clapper or speak the correct rite, the ghost can answer one question about the surrounding dead before fading.
+A ghost of an Alder War veteran haunts a small chapel a half day from the road. The Sister has come to banish him. The sexton — the veteran’s son, grown old himself — is hiding inside. His mother died in childbirth; the ghost raised him through moved tools and cold spots for forty years, one father speaking through a house. He does not want the banishing. The Sister cannot perform the purging if the son is present to refuse. If he hides while the rite is read, she will cut the ghost without knowing. If he shows himself, she must attempt a harder rite and may fail. Either way he loses. He asks the adventurers for nothing; he has a lantern of his own and has not eaten today.
 
-- **Terrain Types:** Ruins
+- **Terrain Types:** Ruins, Plains
 
-#### Random Encounter: the House That Waited
+#### Random Encounter: the Cheap Room
 
-> _The cottage is swept clean. Bread sits on the table, hard as stone. A voice from the cold hearth asks whether the children have come home from the fields._
+> _The inn charges two copper for the back room. No one takes it twice. The innkeeper knows why. He does not say so until a weary guest is already sitting at his board and counting coin on the table._
 
-A family ghost keeps a house ready for children taken by Blood Mist generations ago. It attacks anyone who takes food or tools, but it can be calmed by bringing news, bones, or a keepsake from the lost children’s last road.
+An innkeeper on a lonely road rents a back room that is always cold. His daughter died there six winters back. Since then her ghost has sat at the foot of the bed each night, mending the same shirt she was mending when she died. She does not harm any sleeper. She does not leave. The innkeeper has rented the room eighty-three times, in small silver. He tells himself he is giving his daughter eighty-three last faces. His wife left him four summers ago for the same reason. Tonight’s guest is the adventurers. He would rather they stayed.
 
-- **Terrain Types:** Forest, Plains
+- **Terrain Types:** All
 
 > **RESOURCES**
 >
-> Ghosts leave little that can be cut away. After a ghost is permanently laid to rest, an ALCHEMIST can gather one dose of gravefrost from the place of haunting with a successful INSIGHT roll. The dose may be used in potions or magic that cools, preserves, or speaks with the dead.
+> Ghosts leave nothing that can be cut. What remains is the place: frost on a hinge, dust that will not settle, the last object the dead touched. An adventurer with the ALCHEMIST talent, with an INSIGHT roll at the place of rest, gathers one dose of gravefrost per ⚔️ rolled, from floorboard, stone, or keepsake. A dose sealed in wax preserves any corpse for a full season with no rot. A dose burned in a lantern makes a recently dead person audible through the flame for one Quarter Day, if she has something unsaid; when the lantern goes out, she goes with it and so does whatever she meant to say. A dose added to any potion that would restore Empathy (see the Corebook) doubles the Empathy restored, but the drinker sleeps one extra Quarter Day and speaks with a dead accent she does not recognize for the rest of the day.
 
 ### Giant
 
@@ -643,25 +643,25 @@ Giants are said to be one of the original kin and to live very long lives. They 
 | 2  | Skalds who sing of the old giant-killers always sing of the climb, and of the blow struck downward from above; few giants have died from a stroke aimed up. |
 | 3  | The hide that turns an axe is thinner where no other creature looks, between the great eyes and the sloped crown above. Reaching that place takes height, rope, and worse nerve than most warriors own. |
 
-#### Random Encounter: the Missing Hill
+#### Random Encounter: Wergild for a Hill
 
-> _A village field lies under a shadow that was not there yesterday. Above the barley stands a giant, weeping into both hands while the villagers hide behind their palisade._
+> _A giant stands at the corner of the stead’s longest field with a great stone balanced on his shoulder. He has waited four days. He will wait one more. Behind the palisade the jarl’s son argues with his pregnant wife, loudly enough for the field hands to hear._
 
-The giant believes a burial mound or rocky hill has been stolen and blames the nearest settlement. The mound was opened by grave robbers during the night. If the adventurers find the stolen stones or bones before the giant’s grief turns to rage, the village may survive without a fight.
+An Alderlander stead’s old jarl died this spring and, before he died, broke open a barrow for its cut masonry. The giant’s own mother is buried in that barrow. The jarl’s son has offered wergild in cattle and daughters, as the old law allows. The son’s wife is pregnant and will not give up a daughter to the hill country. The giant does not want cattle. He has waited four days for the right answer to walk out of the gate. If none walks out before dawn, he will decide for himself which stone of the stead’s wall is his mother’s.
 
 - **Terrain Types:** Plains, Hills
 
-#### Random Encounter: the Crown Shot
+#### Random Encounter: the Climb without Orders
 
-> _A band of hunters crouches behind a scree slope with ropes, hooks, and a ballista older than any of them. Their leader whispers that the giant sleeps beyond the ridge, and that one clean shot will make them rich._
+> _Ten hirelings camp below a sleeping giant’s crag. Their ropes are coiled at their feet. Their captain sits apart with a month-old letter in her hand and reads it for the eighth time tonight._
 
-The hunters plan to climb onto a sleeping giant and strike its weak spot. They have courage but poor judgment. The giant may be a murderer, a confused wanderer, or the guardian of an old pass; either way, the first failed roll wakes it with a bellow that shakes stones loose from the ridge.
+Ten hirelings from a nearby stronghold are camped below a sleeping giant. Their lord paid a purse to climb and strike the crown shot; the crag’s giant has taken no village’s kin and kills only those who come for it. Their captain has a month-old letter from her daughter saying the stronghold is failing, the steward has cut rations, and no pay will come. She is telling the adventurers this because she wants them to take the purse and make the climb while her men look the other way — or she wants them to refuse and bear witness when she leaves in the morning. She has not decided which, and is waiting to see who the adventurers are.
 
 - **Terrain Types:** Hills, Mountains
 
 > **RESOURCES**
 >
-> Giant hair, teeth, nail, and bone are difficult to carry but valued by smiths, skalds, and sorcerers. An adventurer with the ALCHEMIST talent can render one dose of giant marrow from a slain giant with a successful HEALING roll and a fire large enough for the work. The dose may be used in a potion that gives +1 to MIGHT for one scene.
+> A slain giant feeds a great many crafts. An adventurer with the ALCHEMIST talent, with a HEALING roll and a fire large enough for the work, preserves one dose of giant’s blood per ⚔️ rolled and pulls D6 teeth whose roots are bone and whose tips are flint. The blood is the named ingredient of Drops of Strength (see the Corebook). One tooth set into a club or war-hammer by a SMITH adds +2 to Weapon Damage for as long as the tooth holds; it cracks on any push of the attack and shatters at the end of the next fight. A braid of a full-grown giant’s beard-hair, plaited thick, holds where hemp rope breaks and will haul four times its weight — one braid can lift a man and a horse out of a crevasse without fraying. Skalds pay D6 silver for a single verifiable molar.
 
 ### Giant Squid
 
@@ -698,25 +698,25 @@ Grown squid can exude a black mist that completely darkens their surroundings so
 | 2  | Old wreck-divers warn that the grasping arms can be cut away one by one, but the heavy mass behind them answers to weight rather than edge. |
 | 3  | A hammer or club brought down on the bulb between the arms will end a squid faster than any blade. The rest of the body cares little for steel, and a single hidden beast may mark a whole colony drawn through the cracks by scent. |
 
-#### Random Encounter: the Black Pool
+#### Random Encounter: the Miner Who Sold the Tunnel
 
-> _The cave lake is still enough to reflect every torch. Then all reflections go out at once, as if black cloth had been pulled under the water._
+> _A retired dwarven miner keeps a stone house above an old claim. He lays a small purse of silver on the table. Beside it, a sealed brass box stamped with his family’s mark. He will not come along for what he is asking._
 
-A giant squid waits below the surface beside a half-drowned dwarven landing. The first adventurer to step onto the slick stone is targeted by D3 tentacles. If the beast is wounded, its black fog may hide a narrow passage to an older mine chamber.
-
-- **Terrain Types:** Ruins, Mountains
-
-#### Random Encounter: Miners on the Wall
-
-> _Three miners cling to iron spikes hammered into a shaft wall above dark water. Their lamps are gone. One whispers that the rock itself grew arms._
-
-The miners fled upward after a squid colony entered the flooded lower works. They know where tools and ore were abandoned, but they panic at splashing sounds. Every loud rescue attempt risks drawing the adult squid and D6 larval shapes from cracks in the wall.
+An old dwarven miner offers the adventurers D10 silver — not coin, bullion — to descend into a flooded lower chamber of his family’s old claim and bring out a sealed brass box. He will not come. His brother drowned in that chamber eight winters back. He will not tell the adventurers that a giant squid has colonized the water, and he knows it has, and that is why he did not pay his own brother’s son to go. The box does contain what he says: his father’s pressed maps. Opening the box on the way out, or not opening it, is the other question.
 
 - **Terrain Types:** Mountains, Ruins
 
+#### Random Encounter: the Dark Cistern
+
+> _A small village draws its water from a cistern under the old priory. The water has gone dark this month; no one has said so aloud. The children are told not to look down the cistern shaft in full light. One of the children draws the adventurers aside at the well._
+
+A squid has crawled through the cracks into the village cistern. It died there, no one knows when, and its ink still colors the water. The villagers are drinking anyway because the dark keeps them from seeing what else has sunk to the bottom of the cistern — a body, bodies, no one will say. A girl of eleven asks the adventurers quietly to bring a torch down the shaft. She wants to know what happened to her sister. She does not know what she is asking for.
+
+- **Terrain Types:** Ruins, Mountains, Plains
+
 > **RESOURCES**
 >
-> Squid ink and eye jelly are useful in potions of darkness, water breathing, and hidden sight. An adventurer with the ALCHEMIST talent can extract D3 doses of ink with a successful HEALING roll. One dose may also be smeared over exposed skin to give +1 to SNEAK while swimming in dark water.
+> An adventurer with the ALCHEMIST talent, with a HEALING roll, draws one dose of squid ink per ⚔️ rolled from the sack, and one intact eye-lens for every squid slain. Mixed into a black oil and poured on the surface of still water up to LONG range across, the ink holds that water in full darkness for one Quarter Day — infrared vision reads through it, torchlight and sunlight do not. An eye-lens held to the eye like a coin gives the bearer full sight in complete darkness for one scene and then clouds over, useless afterward; during that scene all MARKSMANSHIP, SCOUT, and SNEAK rolls under dark sky or in deep stone gain a D8 Artifact Die. The bearer’s own eyes weep clear fluid for one day after, and will not tolerate sunlight without a hood.
 
 ### Gray Bear
 
@@ -753,25 +753,25 @@ entire hunting party except for two brothers who lived to tell of the beast. Eve
 | 2  | When badly wounded, a Gray Bear falls into a killing rage and lashes out at anything within reach.                                          |
 | 3  | Some tales claim the first Gray Bears were ordinary bears possessed by flayed demonic things after the Demon Flood.                         |
 
-#### Random Encounter: the Watched Cabin
+#### Random Encounter: the Widow’s Hut
 
-> _A charcoal-burner’s hut stands shut in the pines. Claw marks score the door. Inside, someone has scratched tally marks into the beams, one row for each night._
+> _A charcoal-burner’s widow has kept her dead husband’s hut on the ridge for nine winters. The men of the valley village are walking up the trail now with torches and an axe. Two hills east the Gray Bear watches them come. The widow is folding clothing quietly into a pack on the bed._
 
-A Gray Bear has marked the hut and waits nearby, patient enough to let the adventurers settle before attacking. The missing charcoal-burner’s pack contains a map to a burn pit, a silver ring, and dried meat that still carries the bear’s scent.
+For nine winters, a widow has kept her dead husband’s ridge hut standing because a Gray Bear takes one child from the valley village each winter. The widow believes the bear comes for the hut’s children — hers, long dead — and not for the village’s. The village lost one last winter and two this winter, and the reeve has led the village men up the trail to burn the hut and turn out the widow. The bear is two hills off, watching. The widow knows all of it and is packing. She is slow. She will not make it before the reeve arrives, and she knows this also.
 
 - **Terrain Types:** Forest, Dark Forest, Hills
 
-#### Random Encounter: the Flayed Trail
+#### Random Encounter: the Paw on the Road
 
-> _Blood spots darken the snow in a line too straight for a wounded deer. The tracks beside them are bear tracks, but the stride is wrong, long and deliberate like a man walking on all fours._
+> _A Raven Sister walks the road with an oilcloth bundle on a leather cord. In the bundle is a single severed bear-paw. A younger monk follows her at fifty paces, and neither will speak to the other when the adventurers come between them._
 
-The trail leads to a den where a Gray Bear has dragged hunters, hides, and trophies. A successful LORE roll recalls the Feulenmark tale and warns that the beast may feign retreat to draw pursuers into the den mouth.
+A Raven Sister carries a Gray Bear’s severed paw, wrapped in oilcloth, toward a distant shrine for a blessing. The paw is said to belong to the bear that killed her predecessor, a woman she loved before her vows. A younger monk of the same order follows at fifty paces. He has orders to take the paw and destroy it before it reaches the shrine; his Sister Superior called it an obscene relic the day the elder Sister left. The elder Sister cannot fight. The younger will not, unless he is ordered. The road the adventurers are travelling lies between them.
 
-- **Terrain Types:** Forest, Dark Forest, Mountains
+- **Terrain Types:** Forest, Hills, Plains
 
 > **RESOURCES**
 >
-> Gray Bear fat burns with a cold blue edge when mixed with the right herbs. An adventurer with the ALCHEMIST talent can render D3 doses with a successful HEALING roll. One dose may be used in a salve that gives +1 to ENDURANCE against cold for one Quarter Day.
+> Gray Bear fat holds its heat in the skin long after death. An adventurer with the ALCHEMIST talent, with a HEALING roll, renders one dose of fat per ⚔️ rolled, together with D3 claw-caps from a single kill. A dose of fat worked into a traveller’s cloak, boots, and hood at the end of a Quarter Day’s rest outdoors cures the Cold condition and grants the wearer Cold immunity for the following night, no matter the weather. A claw-cap lashed onto an arrow or spear-point which then draws first blood on any creature of flesh provokes in that creature the same patient stalking the Gray Bear shows its chosen prey: until the cap is washed off in snow-water, the wounded creature follows the bearer wherever she goes, night by night, pacing her doorways and waiting at her windows. The bearer decides whether to feed it, fight it, or let it find her.
 
 ### Gryphon
 
@@ -807,25 +807,25 @@ Gryphons hunt anything that moves within their territory and can become a great 
 | 2  | Hunters in the gryphon hills speak of beasts that lose all wits when their favored meat hangs on the wind, and of nests broken by a single careless carcass left in the open. |
 | 3  | A horse killed and dragged into a clearing is the old trap. The pair will quarrel over the meat before it cools, and forget every other thing that walked nearby. Wild gryphons keep family crags; too many in one place fight until only the strongest pair remains. |
 
-#### Random Encounter: the Empty Stable
+#### Random Encounter: the Horse Merchant’s Sister
 
-> _The stable roof has been peeled back. A saddle hangs from the rafters, and the horse beneath it is gone from the shoulders forward._
+> _A lowland horse-merchant stops the adventurers at a ford and offers silver to escort him, his sister, and four horses over the pass. His sister does not look at him when he speaks. Her hands are stained with something darker than road-mud._
 
-A gryphon has begun taking horses from a settlement that depends on them for plowing and patrol. The villagers can provide bait, nets, and a dangerous climb to the nesting crag. D3 adolescent gryphons wait there, hungry and almost ready to fly.
+A horse-merchant hires the adventurers to take his sister and four horses over a pass. His sister is not his sister — she is his wife, fled. The four horses are not his. A gryphon pair nests above the pass and will take one horse when the party crosses; he has been planning this crossing for months. The question is which horse, which rider, and whether he can choose without the wife noticing. She has a knife in her boot and has noticed most of it already.
 
-- **Terrain Types:** Plains, Hills
+- **Terrain Types:** Hills, Mountains, Plains
 
-#### Random Encounter: the Iron Rider
+#### Random Encounter: the Iron Saddle
 
-> _A rusted breastplate lies in the grass beside a dead gryphon. The saddle on the beast’s back is old military work, built for a rider who had no intention of landing gently._
+> _A skeleton in Iron Guard regalia sits propped against a wind-bleached rock halfway up a gryphon cliff. The saddle on its back is dragon-scale and iron, empty. Inside the saddle a fledgling gryphon sleeps the sleep of the very new-hatched._
 
-An Iron Guard remnant or ambitious robber has tried to reclaim Zygofer’s old dream of winged cavalry. The surviving mate circles above, enraged. The saddle holds old marks pointing toward a ruined breeding perch.
+An Iron Guard rider fell from this crag at the end of the Alder Wars and his bones weathered here. A fledgling gryphon has taken to sleeping inside his armored saddle. The mother gryphon has not come back for three days. A bandit chief from a nearby hill-fort has decided to raise the fledgling as a mount and has offered good silver for the saddle, the fledgling, or both, delivered alive. The bandit has sent two of his own men, already halfway up the crag by another path.
 
 - **Terrain Types:** Hills, Mountains, Ruins
 
 > **RESOURCES**
 >
-> Gryphon pinions and talons are valued by bowyers, fletchers, and alchemists. An adventurer with the ALCHEMIST talent can preserve D3 doses of powdered talon with a successful CRAFTING roll. One dose may be used in a potion or charm that gives +1 to MOVE rolls involving leaps, falls, or balance for one scene.
+> Gryphon pinion-feathers, talons, and crop-stones each find a use. An adventurer with the ALCHEMIST talent, with a CRAFTING roll, preserves one intact pinion per ⚔️ rolled and D3 talons for every kill. A single pinion is the named ingredient of Quick Nectar (see the Corebook). A full pinion lashed to a ranged weapon by a CRAFTER grants a D8 Artifact Die to the first MARKSMANSHIP roll made with it in any day; the feather burns clean after three such shots. A pair of ground talons mixed into fresh horse-blood drives any mount drinking it into a charging rage against the first gryphon it sees, and renders the mount useless thereafter unless it survives the fight and is left to heal for a full season.
 
 ### Harpies
 
@@ -865,25 +865,25 @@ The creature has been joined with the demon substance mog. Harpies aren’t very
 | 2  | Many tales connect them to Raven Sisters corrupted by Zygofer and the Rust Brothers, though other villages claim they are cursed mothers.          |
 | 3  | A harpy flock’s strength lies in numbers; when bloodied badly enough, it usually flees and returns later with lies, stones, and worse timing.     |
 
-#### Random Encounter: the Stolen Cradle
+#### Random Encounter: the Inheritance
 
-> _A cradle hangs from a pine branch thirty feet above the ground, rocking in the wind. From the treetops come women’s voices, cooing lullabies with beaks full of old blood._
+> _A village elder is dying in her own longhouse. Her three grown daughters left the valley long ago and have not come. For six evenings a flock of harpies has roosted on the longhouse eaves. The elder has left the shutter of her bedroom open. The village reeve waits outside with a bow._
 
-A flock of harpies has stolen a child from a nearby homestead and is arguing over whether to eat it, raise it, or ransom it. The flock avoids direct battle until the adventurers climb or expose themselves. A successful MANIPULATION roll can turn one harpy against another long enough to reach the child.
+An Alderlander village elder lies dying. Her three grown daughters are gone — one married into a hill-clan, one took Raven vows, one drowned at Scarda two summers back. For six nights a flock of harpies has watched the longhouse from the eaves. The elder believes the harpies are her daughters, finally come in the only shape grief allowed them. She has left her shutter open. The death-writ, witnessed at noon, leaves the stead to whatever comes in at the window. The reeve has asked the adventurers to enter the house and kill the flock before she dies. She has pulled her curtain and will not see anyone without a daughter’s face.
 
-- **Terrain Types:** Forest, Dark Forest
+- **Terrain Types:** Plains, Forest
 
-#### Random Encounter: the False Sister
+#### Random Encounter: the Beggar-Mothers
 
-> _A woman in a torn Raven Sister cloak limps along the road, begging for water. Ravens gather above her but make no sound._
+> _Six women walk the road together, draped head to foot in brown rags. They carry nothing. They do not look up. They have begged only bread, and only from farmers, for ten days._
 
-The woman is a harpy scout with clipped wings hidden beneath the cloak. Her flock waits near a ruined shrine, hoping to lure travelers into quarrel, guilt, and separated watches. If exposed, she shrieks accusations that may draw villagers or Rust Brothers from nearby roads.
+Six harpies, clipped of wing, walk the road toward a roadside shrine of Heme four days ahead. They have renounced the flock. They are, as they have always been, desperately hungry, and have eaten only what is freely given. A Rust Brother priory lies two days back along the road; delivering them there fills a purse and buys them a burning. Feeding them tonight means they will follow the adventurers for as long as there is bread. The adventurers pass them at midday and one of the women, without looking up, asks a question in a half-human voice that the others do not seem to hear.
 
 - **Terrain Types:** Plains, Forest, Ruins
 
 > **RESOURCES**
 >
-> Harpy feathers and throat gristle carry a foul mimicry of human speech. An adventurer with the ALCHEMIST talent can prepare D3 doses of voice-ash from a slain flock with a successful HEALING roll. A dose may be used in a potion or charm that gives +1 to MANIPULATION when imitating a known voice, but failure on the roll makes the user’s voice rasp like a carrion bird for a day.
+> A slain harpy yields feathers, throat-stones, and a long grey tongue. An adventurer with the ALCHEMIST talent, with a HEALING roll, prepares one dose of voice-ash per ⚔️ rolled and one throat-stone for every flock member put down. A pinch of voice-ash on the tongue lets the bearer imitate any one voice heard within the past Quarter Day, down to breath and cadence, for the length of one conversation; any MANIPULATION, PERFORMANCE, or DECEIT roll within that conversation gains a D8 Artifact Die. A throat-stone held in the mouth while the bearer sleeps brings the face of one person she has wronged into the dream. She may ask one honest question and must answer one in return. The stone dissolves on her tongue before waking. Voice-ash used twice in the same day leaves the bearer’s own voice indistinguishable from a raven’s cry for the rest of that day; no village will open a door to her.
 
 ### Hydra
 
@@ -922,25 +922,25 @@ Most agree that the Hydra is a demonological experiment that has run amok and es
 | 2  | Marsh-burners and old village wives warn that no neck must be cut without something searing pressed at once to the stump, or the beast doubles its grief. |
 | 3  | Lye from a soap pit, fire from a torch, even iron heated red — anything that scorches the wound shut will hold a stump closed. Without it, every cut neck answers with two, and the beast may someday split into two beasts of its own. |
 
-#### Random Encounter: the Lye Pit
+#### Random Encounter: the Heretic’s Oven
 
-> _A village soap pit bubbles beside the stream. Around it stand farmers with buckets, pitchforks, and faces gray from fear. Something with too many necks is tearing through the cattle pen below._
+> _A half-elf coppersmith keeps a flat iron oven outside a small village. The oven has been paid for once a year for eleven years. This year the village has not paid. The smith is packing her tools. The hydra sleeps in the village pond two fields off._
 
-The villagers know an old tale of killing a hydra with lye but lack the courage to get close. Each bucket thrown at a severed stump counts as searing it if the thrower succeeds with MARKSMANSHIP or MOVE at the GM’s discretion. Failed throws splash allies and burn skin.
+A half-elf coppersmith outside a small village has run, for eleven years, a flat iron oven hot enough to sear the stump of a severed hydra head. Each year the village pays her and she walks down to the pond to earn her fee. This year the village could not raise the coin. The smith is closing her shop. The villagers stand at her door with coins they pretended not to have, asking her to come down to the pond one more time. The hydra has grown. The smith has not yet said yes or no. When she does, the adventurers will be expected to help one side or the other — or walk on.
 
 - **Terrain Types:** Plains, Marshlands
 
-#### Random Encounter: Heads in the Reeds
+#### Random Encounter: the Birth in the Reeds
 
-> _Six ripples move through the reeds in different directions, then stop at once. A horse carcass lies half-submerged nearby, and something beneath the water begins chewing again._
+> _A hydra with exactly six heads stands very still in the middle of a shallow reed-lake. It is splitting. A handful of Rust Brother acolytes watch from the shore with writing-boards, torches, and dry firewood stacked for a long night._
 
-A hydra lairs in a marsh pool and has learned to keep most of its body hidden. It attacks mounts and pack animals first. Beneath the water lie saddlebags, bones, and a rusted Rust Brother reliquary that may explain who drove the beast here.
+A six-headed hydra in a shallow lake is dividing. A small party of Rust Brother acolytes — none ordained — watches from the shore with writing boards, torches, and a pile of dry firewood. They are paid in advance to witness the split and report, and they have promised the adventurers silver to escort them home safely once the division is finished. The split will take D3 hours. Anything that enters the water in those hours becomes first meal to the newborn pair and sets the Rust Brothers’ report badly on fire. A horse-hauler from the next village is approaching the water now with a cart and a sick child to drown. She does not know about the acolytes.
 
 - **Terrain Types:** Marshlands, Quagmire, Forest
 
 > **RESOURCES**
 >
-> Hydra blood stays warm after death and fights itself in the cup. An adventurer with the ALCHEMIST talent can preserve one dose per remaining head with a successful HEALING roll. A dose may be used in a potion that restores 1 lost Strength after a Quarter Day of rest, but if the brewing fails, the mixture grows teeth and ruins the vessel.
+> Hydra blood still fights in the cup. An adventurer with the ALCHEMIST talent, with a HEALING roll, preserves one dose of blood per head remaining at the moment of death, and D3 doses of spent acid per kill. A dose of blood is the named ingredient of Healing Water (see the Corebook); the acid serves for Refreshing Decoction. A dose of blood swallowed raw restores D3 Strength and regrows a single severed finger, toe, or ear over the next Quarter Day — not a hand, foot, eye, or tongue — and the regrown part is one shade too pale and does not warm. Brewing hydra blood requires a cauldron with a lid that can be sat upon; if the HEALING roll fails, the mixture grows small teeth and bites the alchemist for 1 Strength before the vessel cracks.
 
 ### Insectoids
 
@@ -985,25 +985,25 @@ The rules for monsters in combat don’t apply to Insectoids. Instead, they act 
 | 2  | Workers, soldiers, and queens serve one shared colony mind that grows sharper as the nest grows larger.                                       |
 | 3  | Killing the queen can break a nest, but a second queen may cause a swarm that carries half the colony into new lands.                        |
 
-#### Random Encounter: the Harvest Line
+#### Random Encounter: the Translator
 
-> _Across the road moves a line of insect-men, each carrying one sheaf of barley, one fence rail, or one dead hen. None look left or right. The line leads toward a dark hole in a hill._
+> _A half-elf scribe lives in a one-room shed a day’s walk from a mature insectoid mound. She keeps an iron stove, a salvaged bell, and a stack of pressed wax tablets worked in a script no human reads. Six armed men ride up the trail toward her shed at noon, wearing the livery of a lord’s reeve._
 
-Workers are stripping a farm one useful thing at a time while soldiers wait out of sight. If followed, the line reveals a young nest without a full queen chamber. Destroying it now is possible; waiting a season lets it become an armed colony.
+A half-elf scribe has lived alone in a shed a day from an insectoid mound for twelve years. She has learned a crude trade-language with the workers, exchanges salvaged iron for honey, wax, and larvae that brew a strong drink. A neighbouring lord’s reeve is coming to burn the shed. She can carry the warning to the queen and live, but a warning buys the colony room to spread into the valley. If she does not warn the queen, she is dead by sundown and the mound shrinks for a generation. She will not run. She asks the adventurers to choose which errand to ride.
 
 - **Terrain Types:** Plains, Hills, Forest
 
-#### Random Encounter: Mazmer’s Method
+#### Random Encounter: the Worker-Boy
 
-> _A dead worker lies beside the path, split open from throat to belly. Someone has smeared its yellow innards across a cloak and left footprints leading toward the mound._
+> _An Alderlander boy of eleven sits cross-legged outside the mouth of a new insectoid mound. He is wrapped head to foot in old worker-scent and holds a clay jar of ashes in his lap. He has been sitting there since dawn. No worker has come out, and none has come in past him._
 
-An explorer has tried Mazmer’s old approach and entered the nest disguised by scent. The adventurers may find the explorer alive in the outer chambers, accepted as a damaged worker, or cocooned as food. Wearing the scent gives +1 to SNEAK inside the nest until the wearer speaks or bleeds.
+A farm-boy sits at the entrance of a new insectoid mound with a jar of his grandmother’s ashes in his lap. His grandmother asked him to do it; she claimed to be Mazmer’s great-granddaughter and believed the queens remember what their workers told them. The boy is waiting to be eaten. He is not frightened. He has done this once before, with a dead goat’s ashes for practice, and the queen sent him back. He thinks today is different. Two soldiers watch from inside the mound and have not moved. No one has come looking for him.
 
 - **Terrain Types:** Forest, Hills, Mountains, Ruins
 
 > **RESOURCES**
 >
-> Insectoid venom, scent glands, and royal jelly are valuable but foul. An adventurer with the ALCHEMIST talent can extract one dose of venom from a soldier or D3 doses of royal jelly from a queen with a successful HEALING roll. Venom may be used as paralyzing poison; royal jelly may replace a rare ingredient in potions of endurance, command, or unnatural growth.
+> An adventurer with the ALCHEMIST talent, with a HEALING roll, draws one dose of soldier venom per ⚔️ rolled, and one pot of queen’s glandular honey for each queen slain — no more. Soldier venom is paralyzing poison with Potency 8 and, unlike most poisons, does not degrade for a full season. Worker or drone blood is the named ingredient of Honey of Embers (see the Corebook). Queen’s honey, any dose, fully restores Empathy and cures the Hungry condition for every person within ARM’S LENGTH of the open pot — it smells of childhood to each of them, each in her own way. Carrying queen’s honey through a living colony is taken as a declaration of war by every worker who scents it, and no silent exit is possible.
 
 ### Manticore
 
@@ -1040,25 +1040,25 @@ The scholars of the Forbidden Lands believe that the first Manticores were demon
 | 2  | Hunters who lived to tell of a manticore speak of the swollen tail, scarred from older fights, and how the beast's own venom can turn against it if the gland is broken. |
 | 3  | A heavy club brought down hard on the tail tip, where the barbs are thickest, has put more than one beast to sleep with its own poison. Its blade-toothed bite means little if the legs no longer answer. |
 
-#### Random Encounter: the Barbs in the Gate
+#### Random Encounter: the Barb-Hunter
 
-> _The village gate is shut. Its planks bristle with black barbs, and a man behind them whispers that the beast learned the sound of the dinner bell._
+> _A Rust Brother apothecary pulls his cart along the road with three manticore barbs worked into his own thigh, wound clean, walking slowly. He stops at the adventurers’ fire at dusk and offers silver for an escort to the manticore’s range and back._
 
-A manticore has been hunting at dusk, striking when villagers gather near the gate. It retreats after firing barbs, then follows any wounded prey by scent. The villagers can provide shields and a bell-rope trap, but fear makes them slow.
+A Rust Brother apothecary hunts manticore barbs with bow and poniard. He needs three more in two days to brew the paralyzing salve that keeps his senior — a dying old priest who raised him from an orphan — alive through one more winter. He offers silver, a small boat, or a first-call debt from his priory. A village on the same road pleads that the manticore has taken six children this season and the villagers need it dead, not milked for barbs. The apothecary will not kill a breeding manticore and will not say why.
 
-- **Terrain Types:** Plains, Forest
+- **Terrain Types:** Plains, Forest, Ruins
 
-#### Random Encounter: the Armored Cub
+#### Random Encounter: the Boy and the Cub
 
-> _A cub with a man’s wet face is caught in a wolf pit, hissing through little rows of teeth. Around its neck is a rusted collar stamped with a broken prayer to Heme._
+> _A manticore cub sleeps in a rusted Rust Brother iron cage. The cage has been dragged into a hay barn behind a small Alderlander farmhouse. A barefoot boy of nine sits beside it with strips of mutton. The cub has begun to speak in a small child’s voice — not the boy’s voice, a different one._
 
-The cub belongs to a manticore dam nearby. The collar marks it as descended from Rust Brother stock. Killing the cub draws the dam’s rage; freeing it may lead the adventurers to an abandoned beast pen with old armor plates and a half-buried corpse.
+A barefoot Alderlander boy found a manticore cub abandoned in a cave three weeks back. He has been feeding it strips of his family’s mutton ration. The cage, stolen from a priory wagon, is Rust Brother work and marks the cub as descended from their old breeding stock. His father has not yet noticed either the cage or the missing mutton. The cub has begun to speak in a small child’s voice — not the boy’s voice, a different one — and is asking the boy questions it should not ask. The boy wants the adventurers to teach him how to care for it. The nearest priory is three days off and the boy has never left his valley.
 
-- **Terrain Types:** Forest, Ruins, Hills
+- **Terrain Types:** Forest, Hills, Ruins
 
 > **RESOURCES**
 >
-> Manticore barbs hold paralyzing venom even after death. An adventurer with the ALCHEMIST talent can extract D6 intact barbs or one dose of tail venom with a successful HEALING roll. The venom may be used as paralyzing poison with Potency 8.
+> Manticore barbs, venom glands, and the triple row of teeth each have a use. An adventurer with the ALCHEMIST talent, with a HEALING roll, draws one dose of venom per ⚔️ rolled, plus D6 intact barbs and one full row of teeth from each kill. Venom is paralyzing poison with Potency 8; manticore blood is the named ingredient of Calming Decoction (see the Corebook). A row of teeth set by a SMITH into the bite-edge of a saw, axe, or chisel halves the time needed to cut wood, bone, or frozen flesh for one Quarter Day and cannot be reset afterward. A single intact barb thrown by hand at a human target counts as a ranged attack with Weapon Damage 2 and Potency 8 venom, one use, no skill required — a thrower who misses recovers the barb only if she can read the ground at the throw’s end.
 
 ### Minotaur
 
@@ -1093,25 +1093,25 @@ Some say that the whisperer Zygofer as a youthful hermit received his first unsp
 | 2  | They can use weapons and simple orders, but hunger, rage, and cruelty often matter more to them than loyalty.                              |
 | 3  | Old tales blame Zygofer’s earliest demonic teachings for their birth, and some minotaur bloodlines still gather near places of old sorcery. |
 
-#### Random Encounter: the Cellar Guard
+#### Random Encounter: the Bull-Child
 
-> _The tavern floor shakes under one heavy step, then another. The innkeeper smiles too broadly and says the cellar is closed for repairs._
+> _A herd boy has found a minotaur calf in the hazel coppice near his aunt’s milking shed. It is no larger than a calf, bleats like a calf, and steps like a child. He has named it Bren, after his cousin. His aunt has not come in for supper._
 
-Bandits or a corrupt reeve keep a minotaur below the tavern as a guard and executioner. It is chained, badly fed, and close to breaking loose. If freed or enraged, it attacks the nearest armed figures first and then anyone who smells of blood or beer.
-
-- **Terrain Types:** Ruins, Plains
-
-#### Random Encounter: Horns in the Fold
-
-> _Every sheep in the fold has been killed, but only a few have been eaten. The rest were gored, trampled, and arranged in a rough circle around a broken fence post._
-
-A small band of minotaurs is harassing farms and testing the strength of nearby villages before a raid. Their leader carries a stolen two-handed axe and understands enough speech to accept tribute, challenge, or a bargain involving fresh meat.
+A herd boy from a small Alderlander hamlet has found a minotaur calf in the coppice. He has named it. His aunt, the hamlet’s cheese-keeper, recognizes the signs: her own sister bore a minotaur thirty years back and the village killed it with stones in the dry bed of the creek. She has not told the boy. She tells the adventurers she will kill the calf herself tonight with a rock and a wet sack, but she wants them in the hamlet when the boy wakes and finds it gone. She will pay in hard cheese: one round each, a half-winter’s ration. She has been crying where no one can see.
 
 - **Terrain Types:** Plains, Forest, Hills
 
+#### Random Encounter: the Bandit’s Heir
+
+> _A minotaur in battered Alderlander half-armor halts the adventurers on the road and greets them politely. In his belt he carries a dead bandit chief’s signet ring on a leather cord. He asks whether any of them read the inside of rings._
+
+A minotaur in patched Alderlander armor is the last living member of a dead robber chief’s gang. The gang kept him for fighting and for amusement; after the chief fell, the minotaur inherited what was left by being the only survivor the others still feared. He is walking to the chief’s mother’s village to return the ring and apologize. He cannot read the inside of the ring and does not know what the mother will ask of him. He is also still a minotaur, and the village will see him coming across a mile of open barley.
+
+- **Terrain Types:** Plains, Forest, Ruins
+
 > **RESOURCES**
 >
-> Minotaur horn can be powdered into a harsh strengthening draught. An adventurer with the ALCHEMIST talent can prepare D3 doses from a slain minotaur with a successful CRAFTING roll. A dose gives +1 to MIGHT for one scene, but the user suffers -1 to INSIGHT during the same time from blood heat and anger.
+> Minotaur horn and marrow are the most prized parts. An adventurer with the ALCHEMIST talent, with a CRAFTING roll, powders D3 doses of horn per kill and draws one dose of marrow per ⚔️ rolled. A dose of horn stirred into blood-wine grants +2 Strength for one scene and forces the drinker’s Empathy to 1 for the same scene: she is immune to fear, immune to MANIPULATION, and her allies must make an INSIGHT roll to be sure she still knows them. A horn still attached to its piece of skull can be carved into a drinking-cup by a CRAFTER; liquid drunk from that cup cannot be poisoned by any alchemical or natural venom of Potency 6 or less while the cup holds it. The cup lasts a year before it splits, and it is bad luck to drink from another cup while it holds yours.
 
 ### Nightwargs
 
@@ -1146,25 +1146,25 @@ Ever since, Nightwargs have appeared across the Forbidden Lands, even in cities 
 | 2  | Their bite freezes flesh, and those killed by them dissolve into dark mist, leaving no proper corpse.                                      |
 | 3  | The first Nightwargs may have been made by a doomed worshipper of the Nightwalker in Falender during the Demon Flood.                     |
 
-#### Random Encounter: the Trackless Fold
+#### Random Encounter: the Lost Hound
 
-> _The sheepfold is locked from within. Every beast inside is gone. Frost rims the latch, and two pale circles watch from the darkness beneath the shed._
+> _A farm dog came home at dawn with pale eyes and a body cold to the touch. The farmer has set three copper coins on the table in front of the adventurers. His daughter of ten is asleep on the hearthrug with the dog beside her._
 
-A nightwarg has nested under a farm shed, coming out only after sunset. It targets animals first, then anyone who sleeps alone. No tracks lead to or from the fold, but a successful SCOUT roll finds boards rimed with unnatural cold.
+A farmer’s old sheepdog came home yesterday morning after a nightwarg attack. Eyes pale as full moons, body cold, uninjured. The dog no longer eats. It no longer answers to its name. It still works the sheep. The farmer knows what has happened. His daughter, ten years old, does not. She is sleeping on the hearthrug with the dog beside her. The farmer has three copper coins on the table. The nearest Nightwalker shrine is two days off, half-ruined, and its last priest dead. He has not told his wife about the coins. He wants it done before the girl wakes.
 
 - **Terrain Types:** Plains, Forest
 
-#### Random Encounter: the Dreamer’s Road
+#### Random Encounter: the Survivor
 
-> _The ruined milestone bears a carved moon and a name half-worn away: Falender. At dusk, the shadows of wolves cross the road before any living beast appears._
+> _A half-elf sits by the adventurers’ fire. He has not slept in six nights. Each night since his party was taken by nightwargs, the nightwargs have come within sight of him and stopped. They have not approached him. He is going home to say goodbye to his mother._
 
-D3 nightwargs haunt an old road tied to the Dreamer’s failed prayer. They follow the party until someone sleeps, then attack the outermost bedroll. A prayer to the Nightwalker, a bright fire, or a successful LORE roll may reveal the old charm carved on the milestone.
+A half-elf survivor of a nightwarg attack sits at the fire and speaks slowly. Every night since the attack, nightwargs have come within sight of him and not struck. He will not explain why. He is walking home to say goodbye to his mother and asks the adventurers not to follow. If they escort him anyway, on the second night something comes to the firelight and sits at the edge — a nightwarg he knows, a different nightwarg, or something else — and waits there until the half-elf goes to sleep and then walks away with him.
 
 - **Terrain Types:** Forest, Dark Forest, Ruins
 
 > **RESOURCES**
 >
-> A slain nightwarg dissolves, but frost-black hairs may remain caught on blades or thorns. An adventurer with the ALCHEMIST talent can preserve one dose before sunrise with a successful SURVIVAL roll. The dose may be used in a potion that gives +1 to SNEAK at night or +1 to ENDURANCE against cold for one Quarter Day.
+> A slain nightwarg dissolves at dawn, but a careful alchemist can preserve what remains of the dark. An adventurer with the ALCHEMIST talent, with a SURVIVAL roll before sunrise, gathers one dose of night-shadow per ⚔️ rolled. A dose brushed onto a cloak grants a D10 Artifact Die to SNEAK rolls made under any sky without sun — moonlit, overcast, or starlit — for one full night. A dose swallowed in drink makes the drinker’s breath plume cold even in summer, and any bite she takes with weapon, teeth, or tool leaves frost on the wound for the next Quarter Day; fresh-frozen blood is easier to carry, easier to preserve, and easier to read by tracker or augur. Night-shadow carried past sunrise in a common flask escapes and returns to the dark it came from; only horn-and-tallow vessels sealed by hot wax will hold it.
 
 ### Sea Serpent
 
@@ -1200,25 +1200,25 @@ Legends tell of how the pirate Scarda was attacked by three Sea Serpents but man
 | 2  | Old sailor riddles speak of a beast that eats itself: cut its tail and wait, and the sea will quiet on its own.                            |
 | 3  | The blood that drives the serpent's mating runs in its tail. Spill it, and the beast turns, biting at its own length until little is left but a ring of teeth on the water — the trick made famous in the tales of the pirate Scarda. |
 
-#### Random Encounter: the Listing Boat
+#### Random Encounter: the Wife on the Hull
 
-> _A fishing boat turns in slow circles near the reeds. Its mast is cracked, the hull sits low, and something beneath it knocks once, twice, like a butcher testing a cask._
+> _A fishing boat works a coastal bay. On the third day, one fisherman’s pregnant wife has strapped herself to the mast with her own shawl. Her husband has been at sea for three weeks. The serpent took him on the first day._
 
-A sea serpent has holed the boat and waits for the crew to enter the water. The adventurers can rescue survivors, attack from another vessel, or try to beach the wreck before the serpent wraps it. Each failed MOVE or CRAFTING roll during the rescue gives the serpent a free attack against the hull or a swimmer.
+A small fishing boat works a coastal bay near the road. On the third day, one fisherman’s pregnant wife ties herself to the mast with her own shawl. Her husband was taken by the serpent three weeks ago; she intends the serpent take her too, and the weight of what she carries in her belly with her. If the adventurers pull her off, her husband’s body never comes home. If they leave her, her unborn child dies with her and the serpent feeds on her and the child together. She does not know which of the two she wants, only that she will not take the choice back to shore. The other two fishermen have been drinking for six hours and will not row.
 
 - **Terrain Types:** Lake, Quagmire
 
 #### Random Encounter: Scarda’s Teeth
 
-> _On the shore lies a ring of old teeth fused together like a white crown. Sailors leave offerings inside it and swear no serpent crosses the bay while the crown is fed._
+> _A fused ring of old serpent teeth stands on the bay shore as a shrine. The village has tended it for seven generations. Tonight is full moon, the night of offering. A halfling storyteller has hired a cart, a mule, and the adventurers to carry the ring away before dawn._
 
-The tooth-ring is a relic from the legend of Scarda, but the offerings have begun to include living captives. A young sea serpent has learned to wait near the shrine. If the adventurers break the practice, the serpent attacks the next boat that crosses the bay.
+A halfling storyteller has been paid by a wealthy Alderlander merchant to steal the Scarda tooth-ring from the bay shrine and deliver it inland to a private collector. The halfling has no nerve for the work. He has paid the adventurers in full silver, no questions. A rival storyteller, from the same fishing village, is in the tavern tonight telling the tale of Scarda in a voice loud enough to be heard from the shore. Tonight is the full moon, the traditional night of offering. If the ring leaves the shore before dawn the fishing fails for a generation, and the village knows it.
 
 - **Terrain Types:** Lake, Ruins
 
 > **RESOURCES**
 >
-> Sea Serpent tail glands, horn, and blubber have strong alchemical uses. An adventurer with the ALCHEMIST talent can extract D3 doses of tail gland with a successful HEALING roll. A dose may be used in a potion that provokes rage, hunger, or self-destructive frenzy, or rendered with blubber into D6 units of FOOD by a CHEF.
+> Sea serpent tail-glands, gall, and crown-horn each have long-standing uses. An adventurer with the ALCHEMIST talent, with a HEALING roll, draws one dose of gall per ⚔️ rolled, D3 doses of tail-gland from each kill, and one crown-horn from each serpent slain. The gall replaces the rare ingredient in Quenching Swig (see the Corebook). A dose of tail-gland poured into any still water up to SHORT range in any direction draws every sea serpent, water drake, or drowning dead within NEAR range toward that water for one full hour; a CHEF can alternately render the tail and blubber into D6 units of FOOD by the usual method. A crown-horn carved into a whistle will, once only, call the next sea serpent under that stretch of water to the whistler — whether the whistler meant a friend or a challenge is the serpent’s decision.
 
 ### Strangling Vine
 
@@ -1251,25 +1251,25 @@ The vines drag the dead prey to the trunk, which extends growths similar to suct
 | 2  | The violet flowers are sensory organs, and the central trunk feeds by dissolving corpses dragged to its roots.                             |
 | 3  | Some vines can pull up their roots and move slowly, leaving false safe glades behind them.                                                  |
 
-#### Random Encounter: the Warm Glade
+#### Random Encounter: the Charcoal-Burner’s Hedge
 
-> _The glade is dry, sheltered, and bright with violet flowers. Old bones lie beneath the moss in a circle too regular for chance._
+> _A charcoal-burner stops the adventurers in the road beside his cart. He lifts the canvas and shows them a Strangling Vine seedling in a barrel, grey-veined and humming at his humming. He has brought it two years from a seed he found in a woodpile. He makes the adventurers an offer._
 
-A Strangling Vine waits for travelers to REST. It strikes only after packs are off and armor loosened unless someone succeeds with SCOUTING or notices that the flowers all turn toward speech. The bones hide a belt pouch with D6 silver and a cracked bone whistle.
+A charcoal-burner found a Strangling Vine seedling in his woodpile two winters back. He has kept it in a barrel, fed it old mice and beggars’ fingers, and taught it to obey his humming. He has come to the adventurers with a plain offer: his vine will strangle any person they name, anywhere a seed can be planted inside a house, for twenty silver and one horse. He asks no return except help moving the barrel over the ridge to the hill town where his buyer waits. He is neither mad nor desperate. He is tired.
 
 - **Terrain Types:** Forest, Dark Forest, Plains
 
 #### Random Encounter: the Moving Garden
 
-> _A village garden has crossed the road in the night. Bean poles, turnip leaves, and violet flowers stand in a place where yesterday there was only mud._
+> _A small Alderlander village has noticed that its vegetable plot moves six paces north each spring. No one has said anything. Yields have been excellent for seven years. This spring a child fell into it and did not come back. Tonight the village council meets in the chapel._
 
-A vine has rooted itself in a vegetable plot after feeding on grave soil or an old corpse pit. The villagers think it a blessing until animals vanish. Uprooting it risks spores and hidden tendrils under the beds, but leaving it lets it grow into the village wall.
+A small Alderlander village has noticed, in quiet, that its common vegetable plot has moved six paces north each spring for seven springs. No one has spoken of it. Yields have fed them through three Mist winters. This spring a child of the village fell into the plot and did not come out. Tonight the village council meets in the chapel. The adventurers, passing through, are asked — not as outsiders, but as the only people present who are not themselves eating from the plot — to decide whether it is uprooted. Whatever they decide, the village will honor; whatever they decide, they will be remembered by their names.
 
-- **Terrain Types:** Forest, Marshlands
+- **Terrain Types:** Forest, Marshlands, Plains
 
 > **RESOURCES**
 >
-> The violet flowers and paralytic spores can be harvested before they wilt. An adventurer with the ALCHEMIST talent can gather D3 doses with a successful HEALING roll. The spores may be used as paralyzing poison with Potency 8 or as an ingredient in sleep draughts and root-binding magic.
+> An adventurer with the ALCHEMIST talent, with a HEALING roll, harvests one dose of violet spores per ⚔️ rolled, plus a full basket of flesh-eating root fibre from the central trunk of a full-grown vine. Spores are paralyzing poison with Potency 8, and serve as the rare ingredient in any sleep-draught; two doses brewed together reach Potency 12 for a single preparation. Root-fibre, with a CRAFTING roll, can be woven into a living rope: a ten-foot length of vine-rope will strangle any living thing bound in it over one full day, ignoring 3 points of Armor Rating and keeping its victim from sleep, food, and water until she is cut free. Carrying it is not unlawful; settlements that recognize it close their gates.
 
 ### Troll
 
@@ -1310,25 +1310,25 @@ Some Trolls gorge themselves until they are so large and round that they more of
 | 2  | Herders warn travelers never to keep watch with a troll until dawn; what the night gives, the morning takes.                              |
 | 3  | Open daylight burns a troll worse than the foulest fever, and old healers say their bile and bone change with what the creature has eaten — for use, or for shame. |
 
-#### Random Encounter: the Latrine Thief
+#### Random Encounter: the Patient Troll
 
-> _The village midden has been dug out from below. A tunnel stinks of rot, smoke, and wet stone. Somewhere beneath the privies, something belches like a collapsing roof._
+> _A troll sits at a crossroads with its back against a milestone and its hands folded in its lap. It is not hunting. It is waiting. The midden-cart has not come for two days. A dwarven merchant from the next village died on the road; his son, weeping in the tavern, has not yet found anyone to take the delivery._
 
-A troll has found the village refuse and now comes nightly for scraps, dung, and the occasional drunk. The villagers want it driven away without collapsing half their palisade. If followed underground, the tunnel leads to a lair containing foul but valuable mineral lumps.
+A troll waits quietly at a crossroads. A dwarven merchant from a nearby stead has been bringing it, once a week for nine years, the particular rotten thing it prefers — no one asks what it is; the merchant was discreet. The merchant died two days back of a fall. The troll is patient and does not understand why the merchant is late. The merchant’s son is in the tavern two villages off, weeping because the last promise he made his father was to continue the delivery, and he does not know where the troll is or what the troll eats. He will pay the adventurers silver to stand in his place if they learn what it eats; he will pay more silver if they don’t ask him how it started.
 
 - **Terrain Types:** Hills, Forest
 
 #### Random Encounter: the Dwarf with the Flute
 
-> _A dwarf sits on a stump playing a thin bone flute. Down the road rolls what first seems to be a boulder, until it sniffs the air and unfolds a pair of arms._
+> _A dwarven herder sits on a stump at a bend in the road, playing a thin bone flute. Up the road rolls a fattened troll, shuffling to her tune. Behind the dwarven herder, in the grass, a written ledger and a small flask stamped with a clan seal._
 
-The dwarf is luring a swollen troll toward a human settlement, claiming it must be moved before it blocks a mine. The troll follows music and meat. The dwarf knows exactly what minerals its body may yield and lies poorly about what it has been fed.
+A dwarven herder is leading a swollen troll toward a human settlement in the next valley. She is not cruel; her own hold has run out of the mineral that only forms when a troll has eaten human flesh, and the hold’s old pump-wheel has broken. Thirty miners are trapped below the water table and will drown in a season without the mineral. She has brought the flute and a ledger of what she intends to take after the troll has fed. She will show the adventurers the ledger if asked. She will not be turned back by argument; she will be turned back by force, or by an alternative none of the human villages she has already considered can offer.
 
 - **Terrain Types:** Hills, Mountains
 
 > **RESOURCES**
 >
-> Troll bile, fat, and mineral nodules are disgusting but useful. An adventurer with the ALCHEMIST talent can extract D3 doses of regenerative bile with a successful HEALING roll. A dose may be used in a potion that restores 1 Strength at the end of a scene, but the drinker reeks badly enough to suffer -1 to MANIPULATION until washed.
+> An adventurer with the ALCHEMIST talent, with a HEALING roll, draws one dose of troll bile per ⚔️ rolled, D3 teeth per kill, and one mineral nodule from the gut of each troll put down. Troll blood is the named ingredient of Healing Decoction, troll’s tooth of Elixir of Wisdom, and troll’s gastric juice of Bellyfull (see the Corebook, all three). A dose of bile rubbed into an open wound restores D3 Strength at the end of the scene and holds any disease taken in that fight at its current Virulence for one day. A mineral nodule given to a dwarven SMITH of Rank 2 or higher counts as a Rare Find in ore; a single nodule can reforge a broken weapon to full Weapon Damage at no iron cost, and the smith who works it tastes what the troll ate. This is one of the reasons dwarves rarely share troll-nodule lore with humans.
 
 ### Undead
 
@@ -1369,25 +1369,25 @@ The rules for monsters in combat don’t apply to Undead. Instead, they act like
 | 2  | Skeletons resist arrows and points better than chopping and crushing weapons, while ghouls carry disease in their bite.                       |
 | 3  | Rust Brother necromancy turns a tolerated village mystery into soldiers and servants, which most folk hate even when they fear to say so.      |
 
-#### Random Encounter: the Helpful Dead
+#### Random Encounter: the Grandmother Who Milks
 
-> _A dead man in a patched shirt chops wood beside a cottage. His widow watches from the door and tells you not to bother him. He has always been quiet before breakfast._
+> _A dead grandmother milks the goats of a small farm at dawn and again at dusk. She has done so for eight years. Her daughter-in-law has gone over to the new rigorous strain of the Raven faith and walked the eight miles to the nearest priory yesterday. She has asked a purger to come. The five-year-old grandson hides behind the milking stool at every milking._
 
-A restless dead villager still performs old chores and harms no one unless mocked, attacked, or kept from the task that binds it. The village wants outsiders to leave the matter alone. A Rust Brother, grave robber, or frightened heir may have other plans.
+A restless dead grandmother milks the goats of a small farm. She has done so for eight years without wearing out or speaking. Her daughter-in-law, newly converted to the rigorous Raven strain, has reported the corpse to the nearest priory, and a Rust Brother purger is expected before sundown. The grandmother’s five-year-old grandson hides behind the milking stool every morning to listen to the dead woman hum. He has never known her any other way. The daughter-in-law has asked the adventurers to take the boy away for the day. She will not watch.
 
 - **Terrain Types:** Plains, Forest
 
-#### Random Encounter: the Wrong Burial
+#### Random Encounter: the Millrace
 
-> _The graves have been opened from beneath. Bones lie sorted by size on the church floor, and something in the dark under the altar chews with patient care._
+> _An Alderlander miller has buried his dead workers in the millrace for twenty years, because the ground near the mill is too stony to dig. This winter the millrace ran backwards for one night. A ghoul has since taken up residence in the lower wheel. Tonight the miller’s daughter has stacked dry straw under the millhouse._
 
-A ghoul has moved into an old burial place and is arranging bones into a mock household. Skeletons rise if the adventurers disturb the piles. The ghoul carries a ring or token from the first corpse it ate, pointing to the family that failed to bury its dead properly.
+An Alderlander miller has buried the bodies of his dead workers in the millrace for twenty years, for no darker reason than that the ground near the mill is stone. The Mist years covered the practice. This winter the race ran backwards one night and a ghoul has since moved into the lower wheel, eating what rises to it. The miller will not admit the cause. His daughter of seventeen has worked it out on her own. She has packed her brother’s clothes and stacked dry straw under the millhouse; she means to burn it tonight with her father inside. She asks the adventurers to leave the valley before midnight and tells them why.
 
-- **Terrain Types:** Ruins, Forest
+- **Terrain Types:** Ruins, Forest, Plains
 
 > **RESOURCES**
 >
-> Most undead should be burned or buried, not harvested, but ghoul teeth, grave salts, and finger bones have use in dark workings. An adventurer with the ALCHEMIST talent can gather one dose of grave salt or ghoul tooth with a successful HEALING roll. The dose may be used in potions or rituals dealing with disease, fear, or restless dead; carrying it openly lowers most villagers’ trust at once.
+> Most undead matter is best burned. What remains — grave-salt, finger bones, ghoul teeth — has use in specific craft. An adventurer with the ALCHEMIST talent, with a HEALING roll, preserves one dose of grave-salt per ⚔️ rolled, D3 ghoul teeth per kill, and one finger-bone from each skeleton put down. Ghoul bones are the named ingredient of Longwalk (see the Corebook). A dose of grave-salt sprinkled across a threshold prevents any restless dead, skeleton, or ghoul from crossing that line for one Quarter Day — and prevents any living person who crossed before the sprinkling from crossing back out, which is why the salt is seldom used at any door not first emptied. A ghoul’s tooth set into a ring and worn in plain sight disturbs every village the bearer enters and may draw Rust Brother attention; while worn, it lets the bearer understand the broken speech of any restless dead person she meets. The tooth crumbles at the next full moon.
 
 ### Wyvern
 
@@ -1427,25 +1427,25 @@ The Wyverns have a very thin but energy-laden layer of blubber under their skin 
 | 2  | Old archer-king lore tells of clipped wings and chained spears, of beasts dragged down from the sky to where the great teeth count for less.   |
 | 3  | On the earth a wyvern is clumsy and bewildered; barbed nets, hooked chains, or a single torn pinion turn the air-master into prey for foot soldiers with shields. |
 
-#### Random Encounter: the Chain Spears
+#### Random Encounter: the Tailor’s Wife
 
-> _A row of villagers waits beside the marsh with spears tied to barbed chains. Above them, two dark shapes circle the crag, patient as tax collectors._
+> _A tailor and his wife live in a small cottage beyond a marsh village. He stitches warm winter cloaks for the Eastroad trade. She came down from the hill country four summers back and brings him hides that he does not buy. The marsh wyvern flock has, this week, finally noticed where the hides come from._
 
-The village has lost goats, a child, and two hunters to a wyvern pair. Their chain spears can drag a wyvern down if a MARKSMANSHIP roll succeeds, but a failed throw tangles the wielder and leaves them exposed to a dive attack.
+A tailor lives beyond a marsh village, stitching warm winter cloaks. He married a hill-country woman four summers back; she is a wyvern-hunter by trade and has been climbing to the nest crag above the village, quietly, to kill fledglings for his best cloaks. The flock has finally traced the scent. She is leaving tomorrow with a full cart of unfinished hides. Before she goes, she asks the adventurers to carry a single finished hide to her sister in a village five days off, no questions. The hide is unusually warm. The tailor, who loves his wife, does not yet know any of it. The flock will come for the cottage at dusk.
 
-- **Terrain Types:** Marshlands, Hills
+- **Terrain Types:** Marshlands, Hills, Forest
 
-#### Random Encounter: the Warm Hide
+#### Random Encounter: the Empty Village
 
-> _A tailor’s frame stands beside the road, strung with a leathery wing. The owner is gone. The hide still steams in the cold air._
+> _A village of twelve houses stands empty beside a marsh. Every door is open. Every hearth is cold. A single wyvern sits on the roof of the largest house. It is very old and has not eaten in days. The villagers stand on the far side of the marsh and will not come back until the wyvern is dead._
 
-A tailor or hunter killed a young wyvern for its hide and blubber, but the flock has followed the scent of the carcass. The prepared hide can be saved, sold, or used as bait. If the adventurers linger, D3 adult wyverns arrive from the wetland crags.
+A village of twelve houses stands empty. Doors open, fires cold, a meal half on the table. A single wyvern sits on the roof of the largest house. It is too old to fly, and clearly not the beast that frightened the villagers off, who now stand a mile off on the far side of the marsh and will not come home while the wyvern is there. The wyvern did not empty the village. It is dying where it sits and is waiting for the adventurers to decide. The villagers’ children are hungry. The wyvern does not want to be killed. It will not leave either, and does not have the strength to be moved without shame.
 
 - **Terrain Types:** Marshlands, Hills, Forest
 
 > **RESOURCES**
 >
-> Wyvern blubber counts as rich provision and warm alchemical fat. A CHEF can render D6 units of FOOD from a slain wyvern, and an adventurer with the ALCHEMIST talent can preserve D3 doses of warming blubber with a successful HEALING roll. One dose may be used in a salve that gives +1 to ENDURANCE against cold for one Quarter Day.
+> An adventurer with the ALCHEMIST talent, with a HEALING roll, preserves D3 doses of wyvern blubber per ⚔️ rolled, plus one intact pinion-bone per adult wyvern. A CHEF can separately render D6 units of FOOD from any slain wyvern without an alchemist’s art. A dose of blubber burned in open flame casts a warmth equal to a fair cooking-fire for one Quarter Day and gives no smoke or scent; it is legendary among winter-scouts and smugglers. A pinion-bone split lengthwise and set into a shield by a SMITH adds +2 to DODGE against any flying creature for the shield’s natural life. Pinion-bone oil rubbed onto a bowstring grants a D8 Artifact Die to one MARKSMANSHIP roll aimed upward at a flying target; the string must be re-oiled after each such shot. The oil is sold by the drop, not the flask.
 
 ### ANIMALS
 
