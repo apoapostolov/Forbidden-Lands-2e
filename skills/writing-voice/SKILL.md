@@ -147,6 +147,30 @@ Load by scene type, not by preference:
   body as consciousness, sound before sight, specific vs. generic
   decision tree, master vocabulary lists by environment type.
 
+- `references/worked-examples.md`
+  13 wrong/correct pairs targeting the 13 highest-frequency AI
+  patterns. Quick Diagnostic checklist. Use when an abstract
+  rule is not landing — read the correct example, not the rule.
+
+- `references/register-contrastive.md`
+  Same scene (arrive at dark village, gate barred, no dogs, no fire)
+  rendered in all six author registers with cross-register notes.
+  Use when checking whether a passage sounds like the named register
+  or has drifted.
+
+- `references/world-vocabulary.md`
+  Setting-specific vocabulary rules. How the three human peoples
+  name themselves in speech, thought, and writing. Non-human kin
+  speech patterns. Divine names in use by tradition. The Older Gods
+  naming practice. Currency and economic vocabulary. Social rank terms.
+  Place names. Register rules by culture. Forbidden vocabulary.
+
+- `references/voice-test-protocol.md`
+  Three tests: Quick Scan (13 highest-frequency patterns, binary,
+  under 2 minutes), Full Pass (all 43 patterns with scoring
+  thresholds), Author Lens Check (per-register positive and negative
+  signals). Use as the final gate before integrating prose.
+
 ## Hard Rules
 
 1. **Load the anti-AI humanizer before submitting any draft.** Run
