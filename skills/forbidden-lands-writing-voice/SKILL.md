@@ -1,36 +1,45 @@
 ---
 name: forbidden-lands-writing-voice
 description: |
-  Use when drafting, revising, or auditing fiction prose that must match
-  the pre-feudal medieval survival fantasy register of this project. This
-  skill identifies and teaches the literary techniques of six modern authors
-  whose combined practice defines the target voice — Andrzej Sapkowski,
-  Guy Gavriel Kay, K.J. Parker, Ursula K. Le Guin, Bernard Cornwell, and
-  John Gwynne — alongside the Abercrombie-Cook line already analyzed in
-  the forbidden-lands-writing skill. Includes the master anti-AI humanizer
-  catalog (43 patterns, each with AI example, human fix, and Forbidden
-  Lands application), a composite voice synthesis for blending authors
-  by scene type, sentence architecture targets, dialogue mechanics, and a
-  sensory vocabulary catalog. Load when writing village scenes, vignettes,
-  encounter fiction, monster encounters, NPC introductions, epigraphs, or
-  any prose where generic AI output would be detected immediately. Also
-  load for humanizing or auditing a draft that reads generated.
+  Use when drafting, revising, or auditing any prose for the Forbidden
+  Lands 2E manuscript. Covers two distinct voice modes: the Writing Voice
+  (fiction vignettes, epigraphs, novella-style worldbuilding, flavor
+  exposition) and the Rules Voice (talent and skill definitions, combat
+  procedures, item entries, spell descriptions, game example scenes, and
+  any rules text in the corebook or supplements). Includes eight author
+  deep-dives, the 43-pattern anti-AI humanizer, composite voice synthesis,
+  rules-voice game-designer register, sentence architecture, dialogue
+  mechanics, sensory vocabulary, rewrite calibration examples, and the
+  voice test protocol. Load when writing or auditing any manuscript prose
+  — fiction or rules — where generic AI output would be detected.
 ---
 
 # Forbidden Lands Writing Voice
 
-This skill is the literary technique layer for the Forbidden Lands 2E
-manuscript. It names the authors, maps their techniques, and gives
-the operational rules for applying those techniques to new prose.
+This skill covers the complete literary and mechanical voice standard
+for the Forbidden Lands 2E manuscript. It defines two voice modes that
+must coexist in the book, names the authors whose techniques define the
+fiction mode, and gives the operational rules for the rules mode.
 
-For the complete combined skill — sentence rules, manuscript register,
-rewrite calibration, worldbuilding voice patterns, and these author
-techniques together — load `skills/forbidden-lands-writing/` instead.
-This skill is the author-technique layer only.
+For the complete combined skill that adds sentence rules, manuscript
+register system, worldbuilding voice patterns, and rewrite calibration
+on top of this layer, load `skills/forbidden-lands-writing/` instead.
 
-## The Target Voice
+## The Two Voices
 
-The target register is:
+The Forbidden Lands manuscript operates in two distinct voice modes.
+Both are mandatory. A chapter that gets the rules voice right but
+writes weak fiction is half a manuscript. A chapter with vivid fiction
+and mechanical mush is the other half.
+
+### The Writing Voice
+
+**Scope:** Fiction vignettes, epigraphs, flavor exposition, novella-style
+worldbuilding passages, NPC introductions, atmospheric scene-setters, the
+in-world fiction that opens chapters or sections, and backtick-offset
+prose blocks meant to be read as fiction first.
+
+**What it must do:**
 
 > **Pre-feudal medieval survival fantasy with a Swedish tone, the
 > realistic authenticity of village life, and a soft Tolkienesque
@@ -47,6 +56,38 @@ Each clause is a constraint, not a mood. The prose must be:
   than the speaker
 - **Oral-culture patterned** — people speak in memory and repetition,
   not analysis
+
+The literary tradition below defines its technical lineage. The eight
+author deep-dives are the primary operational references for this voice.
+
+### The Rules Voice
+
+**Scope:** Talent descriptions, skill definitions, attribute rules,
+combat procedures, journey phases, item and spell entries, example
+scenes demonstrating a mechanic, GM guidance, tables, and all rules
+text in the corebook or any supplement.
+
+**What it must do:**
+
+The rules voice belongs to a game designer who has playtested the
+system until its failure modes are known. It writes:
+
+- **Declaratively** — not "players may wish to consider," but "roll"
+- **From consequence** — trigger first, decision second, consequence third;
+  not in the order the designer thinks about the rule
+- **Without design commentary** — no "this elegant mechanic," no design
+  philosophy intrusions
+- **In second person for player-facing instructions** — "you roll," not
+  "the character rolls"
+- **With radical compression** — one paragraph, one rule; one sentence
+  if the rule allows it
+
+The rules voice has five manuscript registers: pure rules, mixed bridge
+(world truth and game operation in the same sentence), item description,
+example scene, and flavor exposition. See `references/rules-voice.md`
+for the complete game-designer persona, paragraph shapes, multi-rule
+sequence writing, progressive disclosure architecture, and the
+submission checklist.
 
 ## The Literary Tradition
 
