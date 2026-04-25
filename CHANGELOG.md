@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.1.0] - 2026-04-24
 
+### Changed
+
+- **Bestiaries — Lore Roll spoiler scaling.** Restructured Lore Roll tables across the Gamemaster's Guide bestiary (Abyss Worm, Bloodling, Ent, Ghost, Giant, Giant Squid, Gryphon, Hydra, Manticore, Sea Serpent, Troll, Wyvern) and the Book of Beasts (Amoeba, Basilisk, Bog Man, Greater Golem, Imp, Iron Dragon, Mara, Mummy, Possessor, Rat King, Rock Troll, Swarming Death, Twisted Ent, Will-o'-the-Wisp, Wolfshadow). Two successes now give a solid in-world hint via songs, warnings, and observations that still requires the players to think; three successes give a more directional hint with narrative effect, no bare mechanic words or spell names.
+
 ### Added
 
 - **Gamemastery Guide.** Added as a 2nd Edition template. It is fully processed to compliant standard Markdown format and will be expanded into a second edition in the coming weeks.

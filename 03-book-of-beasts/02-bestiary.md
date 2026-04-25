@@ -138,8 +138,8 @@ Amoebas are primitive predators that feed by absorbing other creatures into thei
 | D6  | INSIGHT                                                                                                                                                |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1   | Amoebas are exceptionally ravenous predators that never back down from a fight, but they can be distracted with strong-smelling food.                  |
-| 2   | Amoebas are difficult to harm with ordinary weapons, but are terrified of fire.                                                                        |
-| 3   | Amoebas contain corrosive substances which can be used to concoct a potent poison that, according to legend, is particularly effective against undead. |
+| 2   | Old soldiers who survived an amoeba say good steel only angers the thing; only one bright torment seems to make it draw back, and even then not for long. |
+| 3   | Open flame is the surest answer, when one can carry enough of it. The corrosive fluids inside also serve sorcerers, who whisper an amoeba's bile may turn the walking dead from their road. |
 
 #### Random Encounter: Death in the Well
 
@@ -197,8 +197,8 @@ Basilisks are large, semiintelligent reptiles with great predatory claws. They a
 | D6  |     | INSIGHT                                                                                                                                                                                                   |
 | --- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   |     | Basilisks are terrifying predators with poisonous breath and a petrifying gaze.                                                                                                                           |
-| 2   |     | Basilisks spring from a cockerel’s egg incubated by toads, and the remains of such a mysterious egg are always kept in the basilisk’s lair.                                                               |
-| 3   |     | The basilisk’s life force is bound to the egg from which it hatched. Destroying the egg renders the beast harmless, and the powdered shells of basilisk eggs can also be used to concoct magical elixirs. |
+| 2   |     | Basilisks spring from a cockerel's egg incubated by toads, and the cracked remains of such an egg are always kept somewhere in the basilisk's lair as if guarded.                                          |
+| 3   |     | Old hunting tales say the beast and the relic in its nest share one life between them, and that crushing the wrong stone in a basilisk's lair has ended many a long pursuit. The powdered shells are also used in magical elixirs. |
 
 #### Random Encounter: a Knightly Massacre
 
@@ -246,9 +246,9 @@ Bog men are the greedy and vengeful ghosts of slaves, prisoners of war, and othe
 
 | D6  | INSIGHT                                                                                                                                        |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Bog men are the ghosts of slaves, prisoners of war, and other unfortu- nate individuals who were sacrifced by being buried alive in a wetland. |
-| 2   | Bog men are undead spirits and cannot be harmed with ordinary weapons, but they fear fre and magic, and can be lured away with shiny objects.  |
-| 3   | Bog men are often found near powerful weapons, artifacts, and treasures that have been dropped into the bog as offerings to the gods.          |
+| 1   | Bog men are the ghosts of slaves, prisoners of war, and other unfortunate souls sacrificed by being buried alive in a wetland.                  |
+| 2   | Bog men are undead and cannot be cut by ordinary blades. Marsh wives swear by torches and old prayers, and hunters tell of bog men drawn aside by something that catches the eye in the black water. |
+| 3   | Where bog men gather, drowned weapons, lost armor, and old offerings to the gods often lie beneath the dark water; the spirits were drawn to that place for a reason that has not stopped being true. |
 
 #### Event: the Sacrificial Bog
 
@@ -575,8 +575,8 @@ A greater golem is a humanoid and often very roughly cut creature of stone, insi
 | D6 | INSIGHT |
 | --- | --- |
 | 1 | Greater golems are magical guardians watching over underground tombs and treasure chambers. |
-| 2 | Greater golems were created by the ancient dwarves and contain the souls of fettered traitors. |
-| 3 | A greater golem’s strength is bound to the dwarven rune for “traitor” that is carved into every greater golem’s forehead like a permanent stigma. |
+| 2 | The dwarves who cut greater golems from the living rock bound a chained soul into each one, and marked the place of binding for any who knew where to look. |
+| 3 | An old dwarven word of binding stands graven on every greater golem like a brand of shame. Where the binding is set, the binding can also be undone — but only by one who can read what the dwarves carved there. |
 
 #### Random Encounter: the End of the Road
 
@@ -626,9 +626,9 @@ Imps are magical beings of unknown origins – small, humanoid creatures that mo
 
 | D6 | INSIGHT |
 | --- | ------- |
-| 1 | Imps are magical beings attracted by magical discharges and magically charged places. |
-| 2 | Imps feed on magical energies and pose an extreme danger to sorcerers. |
-| 3 | Imps are vulnerable to magic, they respect iron, and fear the Protector God in all his forms and incarnations. |
+| 1 | Imps are magical beings drawn to magical discharges and to places where old workings have stained the air. |
+| 2 | Imps gather where magic has spilled loose; sorcerers who survived them speak of the smell of cold-worked iron and the murmur of certain old prayers turning the things back. |
+| 3 | Imps will scatter from honest worked iron and from any true sign of the Protector god, in any of his old forms. Against a sorcerer alone, they grow bold. |
 
 #### Random Encounter: the Unhappy Donkey
 
@@ -677,9 +677,9 @@ Iron dragons are huge, wingless dragons that live deep underground. Unlike their
 
 | D6  | INSIGHT                                                                                                                                                                                                                 |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Iron dragons are huge, ancient beasts that inhabit the forgotten chasms of the world, where – according to the dwarves – they gnaw on the deep- est roots of bedrock and cause the foundations of the world to crumble. |
-| 2   | Iron dragons feed on metals they extract from magma, crystals, and various types of rock.                                                                                                                               |
-| 3   | Iron dragons are extremely powerful and virtually indestructible adver- saries, but they have additional breathing organs on the outside of the neck where the skin is thin and vulnerable.                             |
+| 1   | Iron dragons are huge, ancient beasts that inhabit the forgotten chasms of the world, where — according to the dwarves — they gnaw on the deepest roots of bedrock and cause the foundations of the world to crumble. |
+| 2   | Dwarven smiths who survived an iron dragon's coming describe its hide as forge-plate that turns nearly any blow, save where the long neck takes its breath.                                                       |
+| 3   | Its scales answer to almost no weapon, but along the throat run softer gills that the beast must use to draw the deep air. A spear set true into one of those slits has felled more than the hammer ever could.    |
 
 #### Random Encounter: the Wrath of the Underworld
 
@@ -727,9 +727,9 @@ The mara is a magical being that haunts humanoid creatures in their sleep. Linke
 
 | D6  | INSIGHT                                                                                                                              |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 1   | The mara is a magical being that manifests itself in anxious nightmares to torment the sleeper.                                      |
-| 2   | The mara cannot be harmed by ordinary weapons, but its shadow form in the physical world fears magic and is clearly bothered by fre. |
-| 3   | Aslene dream sorcerers can summon maras, and these bound creatures always bear the features of the sorcerer that gave them life.     |
+| 1   | The mara is a magical being that manifests in anxious nightmares to torment the sleeper.                                                          |
+| 2   | Old village wives keep a candle and a charm by the bed against the mara, and dream-sorcerers swear no mara stands long against an honest spell.   |
+| 3   | Steel and iron pass through a mara's shadow as through smoke; only flame and a true working press it back. Aslene dream sorcerers can summon them, and a bound mara always wears the features of the sorcerer that gave it life. |
 
 #### Random Encounter: Unknown Enemy
 
@@ -829,9 +829,9 @@ Mummies are the embalmed remains of ancient lords and great warriors. They are a
 
 | D6  | INSIGHT                                                                                                                                                |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1   | Mummies are the dried- up remains of ancient warriors that haunt burial cairns and underground crypts.                                                 |
-| 2   | Mummies’ bodies are empty and hollow, and they always hunger for human entrails.                                                                       |
-| 3   | Mummies are a higher form of undead and diffcult to defeat in combat, but they fear fre and are bound to their burial chambers by ancient death magic. |
+| 1   | Mummies are the dried-up remains of ancient warriors who haunt burial cairns and underground crypts.                                         |
+| 2   | Mummies are a higher form of undead and do not fall to ordinary blows; their bodies are hollow, and they carry the long hunger that drove them down into the dark. |
+| 3   | Old grave-priests warn that no mummy will follow far from the bones laid with it, and that what survived embalming and three centuries of dust does not love an open flame. |
 
 #### Random Encounter: Remnants of Former Glory
 
@@ -931,9 +931,9 @@ Possessors are sheets of blood mist that take physical form by possessing other 
 
 | D6 | INSIGHT |
 | --- | ------- |
-| 1 | Possessors are remnants of blood mist that assume physical form by taking over the bodies of other creatures, which they invade through the airways. |
-| 2 | Possessors are difficult to combat, but like other forms of blood mist they are sensitive to bright light. |
-| 3 | Possessors die along with their physical host, as long as the blood mist is prevented from leaving the host’s body at the moment of death. |
+| 1 | Possessors are remnants of blood mist that take physical form by entering another body through the airways. |
+| 2 | Possessors share something of the old Blood Mist's nature, and the warnings villages still use against red fog after dark hold against them too. |
+| 3 | The mist enters through the breath and dies with the body it wears, so long as the host is killed before the red breath has time to leave the mouth. |
 
 #### Event: a Demonic Bottom- Dweller
 
@@ -981,9 +981,9 @@ Rat kings are demonic creatures sent by Pox Yersinia, a demon lord associated wi
 
 | D6  | INSIGHT                                                                                                                       |
 | --- | ----------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Rat kings are demonic servants of Pox Yersinia, the mistress of pestilence and decay.                                         |
-| 2   | Rat kings are terrifed of druids and others capable of using healing magic.                                                   |
-| 3   | Rat kings control disease- carrying life forms with their long bone futes, carved from the undead cadaver of a demon goddess. |
+| 1   | Rat kings are demonic servants of Pox Yersinia, the mistress of pestilence and decay.                                                            |
+| 2   | Rat kings carry her plague with them; villages overrun by them no longer bury their dead, because no one is left to dig.                          |
+| 3   | Druids and others who heal by craft are the rat king's particular dread, for what is sent to spread sickness has no answer for one who can mend it. Their long bone flutes, carved from a demon goddess's cadaver, command rats, fleas, and carrion birds. |
 
 #### Random Encounter: the Village of the Dead
 
@@ -1035,9 +1035,9 @@ Rock trolls are trolls that have partially turned and, because of their old age 
 
 | D6 | INSIGHT |
 | --- | ------- |
-| 1 | Rock trolls are partially petrified trolls hiding from the sunlight in the depths of the great forests. |
-| 2 | Rock trolls are ancient and sluggish creatures, but the smell of human flesh turns them into ferocious killers. |
-| 3 | A rock troll’s body contains minerals and precious metals avidly sought by the dwarves. |
+| 1 | Rock trolls are old trolls who have partly turned to stone, withdrawn into the deep forests where the canopy is thickest. |
+| 2 | The smell of human flesh wakes them from their sluggishness, and dwarves prize what their bodies hold of stone and metal enough to lure the beasts toward villages. |
+| 3 | Old herders warn against keeping watch with a rock troll until dawn; like all their ilk, the open day burns them more cruelly than any blade. |
 
 #### Event: a Sordid Plan
 
@@ -1185,9 +1185,9 @@ The swarming death is an allconsuming cloud of flesheating locusts and other ins
 
 | D6 | INSIGHT |
 | --- | ------- |
-| 1 | The swarming death is an allconsuming cloud of flesheating locusts and other insects. |
-| 2 | The swarming death plagues the Forbidden Lands on a regular basis and seems to bear some connection to the western wind. |
-| 3 | The swarming death’s teeming morphology makes it difficult to fight and defeat in combat, but like all primitive creatures it dreads fire and fire magic. |
+| 1 | The swarming death is an all-consuming cloud of flesh-eating locusts and other insects. |
+| 2 | The swarming death plagues the Forbidden Lands on a regular basis and seems to bear some kinship with the western wind and with whatever lies beyond the demon gate at Shadowgate Pass. |
+| 3 | Their teeming bodies turn aside steel and arrow alike, but heat and burning flame are the old answers; like all primitive things, the swarms dread what they cannot share with their own number. |
 
 #### Random Encounter: the Shards of a World
 
@@ -1285,8 +1285,8 @@ Twisted ents are demonic tree creatures that have heeded the wicked call of the 
 | D6  | INSIGHT                                                                                                                 |
 | --- | ----------------------------------------------------------------------------------------------------------------------- |
 | 1   | Twisted ents are ancient tree creatures that have given in to demonic calls and been twisted into bloodthirsty killers. |
-| 2   | Twisted ents were once elves, but their rubies have blackened and become home to demonic larvae and dark energies.      |
-| 3   | Twisted ents can be pacifed with beautiful music that makes them remember happier times before the demon plague.        |
+| 2   | Twisted ents were once elves, and old elves still remember when these ents sang and danced; what twisted them did not erase the memory.      |
+| 3   | A beautiful tune can stay a twisted ent's hand, for in the old air the creature half-remembers what it was before the larvae and the dark went into its rubies. The pause is brief; spend it well. |
 
 #### Random Encounter: What the Trolls Saw
 
@@ -1493,9 +1493,9 @@ Willo’-thewisps are said to be the ghosts of druids, Raven Sisters, and other 
 
 | D6  | **INSIGHT**                                                                                                                                              |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Will- o’-the- wisps are the ghosts of holy men and women who once per- ished on the heretic’s stake.                                                     |
-| 2   | Will- o’-the- wisps are bound to specifc places or artifacts that contain memories of their violent death.                                               |
-| 3   | Will- o’-the- wisps are incorporeal beings and can only be banished by destroy- ing the specifc place or artifact that binds them to the physical world. |
+| 1   | Will-o'-the-wisps are the ghosts of holy men and women who once perished on the heretic's stake.                                                     |
+| 2   | A will-o'-the-wisp does not haunt the place of its ash by chance; some bone, scrap, or scorched timber from the day of its death still holds it to the world. |
+| 3   | Steel cannot end them, nor sword nor arrow. Only the breaking of the keepsake that binds them — the burned post, the cursed relic, the very tree that took the fire — will release the soul they once were. |
 
 #### Random Encounter: Wisps in the Woods
 
@@ -1547,8 +1547,8 @@ The wolfshadow is an immaterial being that possesses humanoid creatures and grad
 | D6  | INSIGHT                                                                                                                                                                                                                                 |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | The wolfshadow is an incorporeal, murderous being that is drawn to mighty warriors and possesses their bodies.                                                                                                                          |
-| 2   | The wolfshadow turns its host into a raging hunger beast that gradually transforms into a nightwarg.                                                                                                                                    |
-| 3   | The wolfshadow fears the Nightwalker and can be driven from its host by using weapons consecrated to this ancient deity. But the duel must take place on the night of a full moon, when the Nightwalker’s infuence is at its strongest. |
+| 2   | Old hunters say the wolfshadow flinches from one god above all others, and that a weapon blessed in the right rite has driven more than one back into the night where it was born. The host meanwhile turns into a raging hunger beast that gradually transforms into a nightwarg. |
+| 3   | The Nightwalker is the wolfshadow's own dread, and a blade consecrated in his rites can drive the thing from a stolen body. But such a duel must wait for the night when the moon is full and round, when the old god's hand is heaviest in the world. |
 
 #### Random Encounter: the Survivor
 
@@ -1573,7 +1573,6 @@ being into a wolfshadow. The creature has gone to the nearby village to spread t
 
 ## Legends
 
-
 ### Amphibian
 
 > _The water goddess Flow – caring and good – appears to have her sharp side. To protect the source of the healing springs and the crystal- clear waters that are the essence of Flow, she created the amphibians: cosmological hybrids of lung and gill, tasked with preserving the purity of the waters by watching the entrances to their goddess’ realm. They are secretive creatures, reclusive and shy, but in carrying out their protective duties they are as slippery as eels and as cruel as poison toads. Woe to those who bring the filth of the earth to their unsullied realm, woe to those who bring human diseases to the springs of the divine. Above all they guard against the demons who muddy the waters with their mog, but unwashed adventurers will also meet a swift end if they try to pass down into the sacred freshwater deep._
@@ -1596,13 +1595,11 @@ being into a wolfshadow. The creature has gone to the nearby village to spread t
 
 ### Gatekeeper
 
-
 > _They are creatures of the void, guardians of the empty spaces, commanders of the free flow of life between worlds. Such is their divine mission and cosmological purpose – preserving the invisible boundaries and structures that maintain harmony in the universe. Unfortunately, they have strayed into the Forbidden Lands, drawn to Zygofer’s demonology and the hordes of unnatural abominations that have poured into the human world through the tears in Shadowgate Pass. Perhaps they are disoriented or blinded by hatred and hunger. Perhaps they follow an unknowable plan inscribed into the cosmos with runes of lava and the blood of gods._
 
 ### Giant Specter
 
 > _They have always been here. Always been a part of the essence of the world, its ancient history and slumbering rage. But no one knows how long they have been dead. Maybe they were never alive? Maybe they are the dark side of eternal life: forever dead twins of the immortal elves? Maybe they are – as described in many ancient texts – tormenting spirits sent by the Red Wanderer to keep the spread of the human race under control? Perhaps they herald the end of mankind’s domination and the return to everything that once was, eons before the Shift and the treason of Wyrm?_
-
 
 ### Giant Spider
 
@@ -1639,7 +1636,6 @@ being into a wolfshadow. The creature has gone to the nearby village to spread t
 ### Possessor
 
 > _When the Blood Mist cleared and life returned to the Forbidden Lands, sheets of these bloodthirsty, demonic fumes held on to the world by inhabiting other creatures and using their bodies as mindless puppets. Our scholars call them Possessors: some see them as vanths, the mythological huntresses of the night, who in the name of the Nightwalker invade our bodies and turn us into beasts in service of the red mist._
-
 
 ### Rat King
 
@@ -2086,7 +2082,6 @@ As a member of the Raven Sisters, Ravlunda has built an impressive personal netw
 - **Skills:** Healing 3, Lore 3, Marksmanship 3, Melee 2, Survival 1
 - **Talents:** Path of Healing 3, Path of Shifting Shapes 3
 - **Gear:** Short bow, dagger, quiver of arrows (D6 Resource Die), bottle of healing potion which like the spell MEND WOUNDS heals broken bones and bleeding wounds, Power Level 2 (four doses)
-
 
 ### **30** the Demon Trap
 

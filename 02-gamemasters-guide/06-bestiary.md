@@ -113,8 +113,8 @@ to attacks. Campsites can be secured by pouring lamp oil on the ground, which th
 | D6 | INSIGHT                                                                                                                                             |
 | -- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1  | Abyss Worms are blind predators that hunt by sound and steady vibration in earth, loose stone, and mine rubble.                                      |
-| 2  | Lamp oil spread across the ground can hold a worm away for a short time, and older worms are most vulnerable inside the mouth.                       |
-| 3  | Villages that survived the Blood Mist sometimes know old drumming traps for young worms, but the same rhythm can call an old worm from deeper soil. |
+| 2  | Old miner songs warn against the wide jaw the plating does not cover, and of certain spilled liquids that turn a worm aside if the ground is wet enough. |
+| 3  | Lamps emptied into a shallow trench have saved more than one camp. The hide hardens with age, but the gullet stays meat; what no axe can chop, a spear through the open mouth will reach. |
 
 #### Random Encounter: the Silent Furrow
 
@@ -172,8 +172,8 @@ The mist as such seems to be immune to attacks, but it is said to disperse in br
 | D6 | INSIGHT                                                                                                                                           |
 | -- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1  | Bloodlings are the demons within the old Blood Mist, now rare but still able to gather as red fog at night.                                        |
-| 2  | Strong light drives them back, and copper weapons cut their manifested bodies better than iron or steel.                                           |
-| 3  | Bloodlings read fear, homesickness, and despair as a kind of invitation; a calm hearth, a true home, or fierce conviction can keep them uncertain. |
+| 2  | Village warnings from the Blood Mist years tell travelers to keep flame and bright metal close after sunset, and to mistrust any red haze that gathers around a quarrel. |
+| 3  | Where a torch flares, a bloodling draws back; where the old red metal bites, it bleeds. Iron and good steel cut the empty mist and find nothing beneath. |
 
 #### Random Encounter: Mist at the Guest Door
 
@@ -532,8 +532,8 @@ The elves still honor these very old tree herders in the deep forests and when t
 | D6 | INSIGHT                                                                                                                                     |
 | -- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1  | Ents are ancient tree herders, revered by many elves and feared by folk who cut or burn forest without leave.                                |
-| 2  | Fire harms them badly, but careless fire in an old forest may call more wrath than it solves.                                                |
-| 3  | An Ent may listen to music, old elven words, or honest restitution for trees killed in need rather than malice.                              |
+| 2  | Woodcutters who lived through an Ent's wrath speak of the wrong torch carried by a foolish man, and of green bark turning black beneath one careful blaze. |
+| 3  | Flame that would singe a hare can put a great Ent to ruin, but the same blaze loose in a dry summer wood may call more wrath than it ends. An Ent may listen instead to music, old elven words, or honest restitution. |
 
 #### Random Encounter: the Charcoal Debt
 
@@ -585,8 +585,8 @@ Sometimes, ghosts possess statues or other inanimate objects, bringing them to l
 | D6 | INSIGHT                                                                                                                                        |
 | -- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1  | Ghosts are dead souls bound to the place, object, duty, or wrong that keeps them from rest.                                                     |
-| 2  | Fire and magic can banish a ghost for a time, but only settling its unrest or using PURGE UNDEAD destroys it for good.                          |
-| 3  | Ghosts may possess statues, doors, bells, tools, or other dead things near the place where their memory has hardened.                           |
+| 2  | Fire and old rites drive a ghost back for a season, never longer; villages know the dead come again until the wrong is mended.                  |
+| 3  | Only the holy purging spoken by a Raven Sister, or the answering of the unfinished thing that pins the dead in place, will lay a ghost down for good. They may otherwise possess statues, doors, bells, or tools where their memory has hardened. |
 
 #### Random Encounter: the Bell That Rings Below
 
@@ -640,8 +640,8 @@ Giants are said to be one of the original kin and to live very long lives. They 
 | D6 | INSIGHT                                                                                                                                         |
 | -- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1  | Giants are ancient beings, said to be remnants of the world before the Nightwalker made room for smaller folk.                                  |
-| 2  | Their bodies differ wildly, but many share a weak spot on the crown of the head, reachable only by height, nerve, or desperate climbing.        |
-| 3  | Some giants remember places by older names than elves use, and may mistake hills, valleys, or ruins for kin stolen from them in sleep.          |
+| 2  | Skalds who sing of the old giant-killers always sing of the climb, and of the blow struck downward from above; few giants have died from a stroke aimed up. |
+| 3  | The hide that turns an axe is thinner where no other creature looks, between the great eyes and the sloped crown above. Reaching that place takes height, rope, and worse nerve than most warriors own. |
 
 #### Random Encounter: the Missing Hill
 
@@ -695,8 +695,8 @@ Grown squid can exude a black mist that completely darkens their surroundings so
 | D6 | INSIGHT                                                                                                                                    |
 | -- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1  | Giant squid dwell in cave lakes and flooded shafts, where their bodies can lie flat and still against stone.                               |
-| 2  | Their heads are vulnerable to blunt force, while their tentacles can be cut away one by one.                                                |
-| 3  | Adult squid draw young through cracks by scent, so a single hidden beast may mark the beginning of a whole colony.                         |
+| 2  | Old wreck-divers warn that the grasping arms can be cut away one by one, but the heavy mass behind them answers to weight rather than edge. |
+| 3  | A hammer or club brought down on the bulb between the arms will end a squid faster than any blade. The rest of the body cares little for steel, and a single hidden beast may mark a whole colony drawn through the cracks by scent. |
 
 #### Random Encounter: the Black Pool
 
@@ -803,9 +803,9 @@ Gryphons hunt anything that moves within their territory and can become a great 
 
 | D6 | INSIGHT                                                                                                                                    |
 | -- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1  | Gryphons are territorial winged predators, possibly bred from Zygofer’s old experiments for mounted war.                                    |
-| 2  | They are drawn by horse meat and may be lured into traps with a fresh carcass.                                                             |
-| 3  | Wild gryphons usually keep family crags; too many in one place will fight until only the strongest pair remains.                           |
+| 1  | Gryphons are territorial winged predators, possibly bred from Zygofer's old experiments for mounted war.                                    |
+| 2  | Hunters in the gryphon hills speak of beasts that lose all wits when their favored meat hangs on the wind, and of nests broken by a single careless carcass left in the open. |
+| 3  | A horse killed and dragged into a clearing is the old trap. The pair will quarrel over the meat before it cools, and forget every other thing that walked nearby. Wild gryphons keep family crags; too many in one place fight until only the strongest pair remains. |
 
 #### Random Encounter: the Empty Stable
 
@@ -918,9 +918,9 @@ Most agree that the Hydra is a demonological experiment that has run amok and es
 
 | D6 | INSIGHT                                                                                                                                          |
 | -- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1  | Hydras are ravenous many-headed beasts that do not fear pain, numbers, or fire until fire is pressed to a wound.                                 |
-| 2  | Severed heads grow back twofold unless the stump is seared at once. Lye, flame, and quick hands are the old village answers.                     |
-| 3  | Hydras are believed to be runaway demonological experiments; some may split into two beasts when their own heads turn on each other.             |
+| 1  | Hydras are ravenous many-headed beasts that do not fear pain, numbers, or wounds until something hot is pressed to one.                          |
+| 2  | Marsh-burners and old village wives warn that no neck must be cut without something searing pressed at once to the stump, or the beast doubles its grief. |
+| 3  | Lye from a soap pit, fire from a torch, even iron heated red — anything that scorches the wound shut will hold a stump closed. Without it, every cut neck answers with two, and the beast may someday split into two beasts of its own. |
 
 #### Random Encounter: the Lye Pit
 
@@ -1037,8 +1037,8 @@ The scholars of the Forbidden Lands believe that the first Manticores were demon
 | D6 | INSIGHT                                                                                                                                    |
 | -- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1  | Manticores are demonic beasts with humanlike faces, lion bodies, and tails that fire poisoned barbs.                                       |
-| 2  | A hard blunt strike to the swollen tail tip can crush the poison glands and paralyze the beast by its own venom.                           |
-| 3  | The first manticores were likely bred for Zygofer’s wars, and some armored bloodlines may still answer old Rust Brother commands.          |
+| 2  | Hunters who lived to tell of a manticore speak of the swollen tail, scarred from older fights, and how the beast's own venom can turn against it if the gland is broken. |
+| 3  | A heavy club brought down hard on the tail tip, where the barbs are thickest, has put more than one beast to sleep with its own poison. Its blade-toothed bite means little if the legs no longer answer. |
 
 #### Random Encounter: the Barbs in the Gate
 
@@ -1197,8 +1197,8 @@ Legends tell of how the pirate Scarda was attacked by three Sea Serpents but man
 | D6 | INSIGHT                                                                                                                                    |
 | -- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1  | Sea Serpents attack boats by piercing hulls, dragging away crew, or crushing smaller vessels in their coils.                               |
-| 2  | Cutting the tail can drive the beast mad enough to bite itself, a trick made famous in tales of the pirate Scarda.                         |
-| 3  | Their bodies carry rich blubber, horn, and gut, but cutting them apart at sea may draw other hungry things from below.                     |
+| 2  | Old sailor riddles speak of a beast that eats itself: cut its tail and wait, and the sea will quiet on its own.                            |
+| 3  | The blood that drives the serpent's mating runs in its tail. Spill it, and the beast turns, biting at its own length until little is left but a ring of teeth on the water — the trick made famous in the tales of the pirate Scarda. |
 
 #### Random Encounter: the Listing Boat
 
@@ -1307,8 +1307,8 @@ Some Trolls gorge themselves until they are so large and round that they more of
 | D6 | INSIGHT                                                                                                                                  |
 | -- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | 1  | Trolls are gluttonous underground-born creatures that heal with terrible speed and eat nearly anything they can chew.                    |
-| 2  | Direct sunlight harms them, and their stench can weaken foes before claw, bite, or club does the rest.                                  |
-| 3  | Dwarves are rumored to harvest rare minerals from trolls, and some tales claim troll flesh changes with what the creature has eaten.    |
+| 2  | Herders warn travelers never to keep watch with a troll until dawn; what the night gives, the morning takes.                              |
+| 3  | Open daylight burns a troll worse than the foulest fever, and old healers say their bile and bone change with what the creature has eaten — for use, or for shame. |
 
 #### Random Encounter: the Latrine Thief
 
@@ -1424,8 +1424,8 @@ The Wyverns have a very thin but energy-laden layer of blubber under their skin 
 | D6 | INSIGHT                                                                                                                                       |
 | -- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1  | Wyverns are winged predators most often found near marshes, crags, and wetlands where they can nest above their hunting grounds.               |
-| 2  | They are dangerous in the air but clumsy on the ground; barbed chains, nets, or torn wings give attackers a strong advantage.                 |
-| 3  | Their thin blubber and hide hold warmth in winter, making them valuable prey despite their infected bites and habit of carrying victims away. |
+| 2  | Old archer-king lore tells of clipped wings and chained spears, of beasts dragged down from the sky to where the great teeth count for less.   |
+| 3  | On the earth a wyvern is clumsy and bewildered; barbed nets, hooked chains, or a single torn pinion turn the air-master into prey for foot soldiers with shields. |
 
 #### Random Encounter: the Chain Spears
 
