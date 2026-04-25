@@ -243,3 +243,290 @@ Before finalizing any draft:
 - [ ] Does the draft contain a GUARDRAILS, Safety Note,
       or Content Warning block? Break it up and embed
       any genuine GM guidance as short in-rule sentences.
+
+## Worldbuilding Voice: History, Kin, and Gods
+
+This section is for writing and evaluating world-facing content — history
+passages, god descriptions, kin profiles, cultural detail, in-world quotes,
+folk sayings, and founding myths. It derives from forensic analysis of
+`02-gamemasters-guide/03-history.md`, `04-gods.md`, and `05-kin.md`.
+
+These chapters are not lore documents. They are operational world tools that
+a GM needs to run a campaign starting tonight. Every stylistic choice serves
+that function.
+
+---
+
+### History as Survival Chronicle
+
+The Forbidden Lands history chapter does not narrate a heroic story. It
+records a chain of practical failures: food shortages, religious wars, a
+drunken dwarf's victory banquet, a demon that got homesick. The prose
+treats these causes without irony *markers* — there is no "ironically"
+or "sadly" — because the irony is carried entirely by the juxtaposition of
+stated cause and actual consequence.
+
+**Pattern: mundane cause, epic consequence, no comment.**
+
+The Blood Mist lifted because a demon was seduced by homesickness from a
+bard's songs and turned to cannibalism. This is stated in one paragraph
+without exclamation. The sentence reads: "Such was their killer instinct
+that they could not refrain from cannibalism." The paragraph ends. This
+is the technique. Do not explain why this is remarkable.
+
+**Pattern: named character, role first, then name.**
+
+Write "the dwarven lord Garmar Four-Beard" not "Garmar Four-Beard, a
+dwarven lord." Role before name. This applies to all historical figures:
+"the priestess Jamharda," "the sorcerer Zygofer," "the bard Merigall."
+Role first, always.
+
+**Pattern: dates and durations compress rather than summarize.**
+
+"820-821 AS" carries more weight than "after a year of bitter fighting."
+Dates do not explain; they bound. The reader can calculate that the first
+Alder War lasted one year. They do not need to be told it was brief.
+
+**Pattern: dark acts in procedural tone.**
+
+"When he turned her down, she had him killed, brought him back to life
+with her necrokinetics, and took his dead body for a lover." Three
+comma-separated events. No horror adjectives. No moral framing. The horror
+is the list; the grammar is doing the work. If your sentence about a
+terrible act contains the word "horrifying," "terrifying," "unspeakable,"
+or "chilling," you have failed this pattern.
+
+**Pattern: historic quotes carry attribution, role, and date.**
+
+> ETARIK HAMMERHAND, ambassador from the Merromannians to Alderstone, 833 AS
+
+Three pieces of information: who said it, what their specific role was at
+the moment they said it, when they said it. The date is 332 years before the
+game's present. This temporal distance is not decorative; it says that this
+insult has been true for over three centuries.
+
+---
+
+### Gods as Faction Definitions
+
+A god in this world is not a theology. A god is defined by three facts:
+what the followers believe the god *is*, what material things they hold
+sacred, and what they do to people who believe otherwise.
+
+**Never describe a god abstractly first.**
+
+Describe the physical rite, then the belief, then the faction behavior.
+The gods chapter opens with the Rust Lord Kartorda nude among iron chains,
+being stained rust-brown for a coming human sacrifice. This is the first
+sentence about gods. Not "the god Rust is worshipped by the Iron Guard."
+A body, chains, staining, the preparation. Then the belief follows.
+
+**Material holiness is specific and grounded.**
+
+- The Rust Brothers swing chains with balls of burning coals. Rusty iron
+  is more effective against demons than clean iron. The figurines cannot
+  be too detailed or it insults the gods' perfection.
+- The Congregation of the Serpent keeps a library. Their symbol is an
+  ouroboros snake biting its own tail.
+- Raven Sisters move constantly, always on guard, because there are
+  informants everywhere and the Rust Brothers pay for captured sisters.
+- The god Clay's followers create clay objects for ritual. Clay and soil
+  are divine substances.
+
+The material objects are not symbolic. They are operational — they tell
+the GM what the NPCs carry, what they build, what they fear. Write gods
+so that every paragraph could arm an encounter.
+
+**Multiple contradictory interpretations of the same deity are not
+resolved.**
+
+The Protector god is Wyrm (the Congregation), Raven (the Raven Sisters),
+and Rust (the Rust Brothers). The text does not propose a reconciliation
+or suggest which is correct. It describes the three camps and notes they
+are "deeply hostile towards one another." This is the model. Do not tidy
+theological contradictions. The contradiction *is* the world fact.
+
+---
+
+### Kin as Survival Ecologies
+
+People in the Forbidden Lands are defined by what they do to survive, not
+by who they claim to be. The first fact about human villagers is that they
+kill their elderly when they can no longer contribute. This is stated plainly:
+"It is viewed as unavoidable but sad and is usually accepted by the victims."
+This is the baseline register for all human cultural writing in this book.
+
+**Cultural identity lives in behavior, not self-description.**
+
+Do not write "the Galdanes are a proud, nomadic people." Write what they
+do: they drink too much, go back and forth between wanting to fight and
+weeping and singing sad songs, hate fences and walls as an expression of
+contempt for farmers who divide land that should belong to everyone. The
+culture is in the behavior.
+
+Concrete behavioral details from the text:
+
+- Alderlanders wear alder branches during festivals and keep them as
+  sacred heraldry
+- Quards braid hair (both men and women), wear earth-tone clothes with
+  field patterns, prefer gold and bronze over silver
+- Redrunners carry dried starfish, flowers, and star-shaped jewelry in
+  red — because their name comes from the red wandering star that bore
+  the first elves
+- Dwarves cultivate troll excrement to extract rare minerals
+- Elves can rearrange the darker sap in their bodies to create skin
+  patterns — neither cut nor painted — as an art form
+
+Each of these is a physical act or material object. None are character
+traits described abstractly.
+
+**Social structure is clan, priestly, and martial — not feudal.**
+
+The present-day Forbidden Lands has no lords, no kings, no feudal titles
+in active use. There are clan warlords (Tormund Halfhand, King Karonax),
+priesthoods (the Raven Sisters, the Rust Brothers, the Congregation of
+Serpents), druidic orders (the Golden Bough, the Order of Maidens), and
+knightly orders (the Iron Guard, the Redrunners). When writing settlement
+NPCs and social friction, do not default to lord/peasant feudal vocabulary.
+Default to the factional web: which priestly presence, which clan pressure,
+which order's eyes are on this village.
+
+**Undeath is a social phenomenon, not a horror event.**
+
+"The living dead are a natural phenomenon in the villages since the deceased
+often tend to keep walking about in a state of confusion before finding their
+final rest. They are treated with respectful courtesy." Villages soothe the
+restless dead with music and conversation, treating them like confused children.
+The Rust Brothers remove them to turn into soldiers. This is the register: dead
+are a village problem with social management protocols, not a jump-scare threat.
+Write undead encounters from this angle: who manages the dead here, and what
+has gone wrong with that management.
+
+---
+
+### The Oral and Poetic Register
+
+Forbidden Lands world content circulates in-world as song, saying, folk
+warning, and traveler's tale. When writing in this register, follow these
+patterns.
+
+**A folk song sounds like a real person singing it, not an author composing
+atmosphere.**
+
+The beggar from Varassa's song in the history chapter uses a refrain and
+simple imagery: "walks and whispers," "walks and lures you in and whimpers."
+It does not try to be beautiful. It tries to remember something true and
+terrifying about the mountains, through the voice of someone who is cold
+and scared. When writing a folk song, write what the specific person
+singing it is afraid of, not what the author wants to evoke.
+
+**An elvish saying uses three physical objects and a consequence.**
+
+"Three things mortal hands cannot mend: broken birds' eggs, the heart ruby
+and ravaged oaths between kin."
+
+The pattern: a number, a list of physical or material objects in escalating
+gravity, no verb in the conclusion. The saying does not explain. It lists.
+The reader constructs the meaning. The punchline — dwarves mend eggs to
+spite the elves — is delivered in the next sentence, in flat prose. The
+joke lands because the saying was not set up to be funny.
+
+**A historical quote from a named NPC requires role and date.**
+
+Not: *"Your kind does not belong here," said the dwarven ambassador.*
+
+Yes: *"Your place is not here, everyone hates you and you do not even like
+each other." — Etarik Hammerhand, ambassador from the Merromannians to
+Alderstone, 833 AS*
+
+The attribution earns the quote. The date carries the weight.
+
+---
+
+### The Soft Tolkienesque Technique
+
+The founding myths of this world are poetic but not decorative. Each myth
+has three components:
+
+1. A physical cosmic object that explains origin
+2. A consequence the believer can act on
+3. A mechanical reality at the table
+
+**Dwarves:** The sun is the fire in Huge's forge. Their goal is to reach
+it by expanding the earth until they do. All clans want to reach it first
+to secure the best seats at his table. — The myth explains the meritocracy,
+the inter-clan rivalry, and the daily work of world-expansion. The believer
+acts on it every morning at the forge.
+
+**Elves:** Rubies fell like seeds from the wandering red star to guide
+confused life toward higher purpose. Elves renew themselves from their
+rubies. If the ruby is destroyed, the elf is gone forever. — The myth is
+also the game mechanic. The ruby grows like a pearl in an oyster. This is
+poetry that the GM can act on: the ruby is a target, a commodity, a person.
+
+**Horses of Aslene:** Ancient horses galloped from the volcano Horn with
+manes aflame at the dawn of time. Fire comes from Horn. — The myth explains
+why Quards light huge fires at festivals and why a prophet identifying a
+sorcerer as Horn's chosen savior draws pilgrims. The physical image (manes
+aflame) is the covenant between myth and behavior.
+
+The technique: **state the myth in the believer's voice, not the narrator's.
+Ground it in a physical object. Show the behavior it produces.**
+
+Do not write: "According to elven mythology, their souls originate from
+a celestial source." Write: "The elves say the rubies fell like seeds from
+the wandering red star, to guide the confused life of the world towards
+a higher purpose."
+
+The first is a summary. The second is someone speaking.
+
+---
+
+### The Swedish/Nordic Tonal Signature
+
+This is the hardest to teach and the easiest to violate. The following
+passages are exemplars of the tone. Read them and then read your draft.
+If your draft sounds warmer or more moralized, revise.
+
+**The deadpan atrocity list:**
+"Therania had grown tired of the cold embrace of the dead king Algarod and
+suggested that the reanimated corpse should be sent to command the fortress
+at Weatherstone, and so he was."
+One sentence. Past tense. "And so he was." No dramatic weight. The sentence
+does not feel the horror it describes because the text is not trying to make
+you feel the horror. The horror is in the information.
+
+**The procedural cruelty:**
+"Garmar Four-Beard, drunk on power and alcohol, had the priestess thrown on
+a bed of hot coals during the victory banquet at Lumra, to bake her like a
+shellfish. He swore to eat her heart himself after it had been tenderized
+into submission."
+There is dark comedy here. "Tenderized into submission" is almost a recipe.
+The text does not apologize for the comedy. The comedy comes from the
+precision, not from mockery.
+
+**The flat disproof:**
+"The entire legend is false."
+After a full paragraph founding myth for the Crombe dwarves (complete with
+divine hammer, slain dragon-mother, fortress built from dragon ribs), this
+is the entire next paragraph. Three words. No explanation follows
+immediately. The text continues with what actually happened. This is a
+writing choice, not a fact-delivery choice. It signals that the world
+contains people who believe things that are wrong, and that the text is
+comfortable being right without performing being right.
+
+**The practical relationship to death:**
+"Killing people who can no longer contribute due to age or frailty is not
+uncommon. It is viewed as unavoidable but sad and is usually accepted by the
+victims as a better alternative than being forced to venture out from the
+village on their own."
+No moral judgment. No authorial distance marker ("it must be noted" or "this
+disturbing practice"). The sentence treats this as a management fact of
+pre-feudal survival life. The observation that "victims" usually accept it
+is delivered as a practical note, not as horror.
+
+**The operating rule:** In this world, cruelty, death, dark humor, and
+practical atrocity are reported in the same register as weather and harvest.
+The reader's emotional response is not managed by the text. The text provides
+the fact; the reader provides the reaction. Write everything at the same
+temperature.
