@@ -407,3 +407,84 @@ sentences to short, or from short to medium.
 
 **Rule:** The first sentence of any scene is not allowed
 to be the same type as the first sentence of the previous scene.
+
+---
+
+## Forbidden Lands Manuscript Metrics
+
+Measured from prose paragraphs in the Forbidden Lands corebook,
+excluding headings, tables, and block quotes. These are baselines
+that reveal the original authors' habits. When a draft's metrics
+diverge sharply, the prose has probably drifted from the manuscript voice.
+
+### Chapter Averages
+
+| Chapter | Prose Paragraphs | Avg Words/Para | Avg Sentences/Para |
+|---|---|---|---|
+| 01 Front Matter | 65 | 46.5 | 2.9 |
+| 02 Your Adventurer | 153 | 58.9 | 3.9 |
+| 03 Skills | 123 | 48.0 | 3.0 |
+| 04 Talents | 304 | 93.1 | 5.2 |
+| 05 Combat and Damage | 195 | 44.1 | 2.9 |
+| 06 Critical Injuries | 47 | 54.5 | 3.8 |
+| 07 Magic | 1077 | 38.7 | 2.4 |
+| 08 Journeys | 147 | 42.1 | 3.0 |
+| 09 The Stronghold | 459 | 44.2 | 2.5 |
+| 10 Gear | 202 | 51.7 | 3.1 |
+| 11 Appendix | 82 | 53.0 | 2.9 |
+
+**Working range:** 35–60 words per paragraph, 2–4 sentences.
+Drafts consistently above 60 words per paragraph are over-explaining.
+
+**The two outliers:**
+Chapter 04 (Talents) averages 93 words because each talent rank
+packs definition, condition, effect, and exception into a single
+block. The density is earned by content volume, not by flabby prose.
+Chapter 07 (Magic) averages 38.7 words because spell descriptions
+compress hard: name, cost, effect, complication. The brevity is
+the format, not the style.
+
+### Target by Register
+
+**Rules prose:** 35–50 words, 2–3 sentences. One paragraph, one
+rule. If a second paragraph is needed, the rule has an exception
+or timing condition — give it its own paragraph.
+
+**Flavor exposition:** 40–55 words, 2–3 sentences. First sentence
+names the condition or world fact. Second pivots to player relevance.
+Third adds danger, distinction, or cultural specificity if needed.
+
+**Item descriptions:** 40–55 words, 2–4 sentences. Material first,
+function second, limitation or distinction third.
+
+**Talent descriptions:** 60–100 words acceptable per rank block.
+Each sentence must do exactly one job.
+
+**Spell descriptions:** 30–45 words for simple spells, 45–70 for
+complex. Format compresses: name → cost → effect → complication.
+
+**Fiction openers and epigraphs:** No target length. Length follows
+image density. A four-sentence epigraph with a reversal is longer
+by nature. A one-sentence opener that names a place and stops is
+shorter. Length follows content, not convention.
+
+**Example scenes:** 3–6 short paragraphs, each 30–50 words.
+One paragraph for setup, one for each action, one for consequence.
+The example teaches through sequence, not explanation.
+
+### Structural Warning Signals
+
+**Paragraph length creep:** Three consecutive paragraphs each
+over 70 words means over-explanation. Check for: re-stated
+definitions, embedded rationale, hedging, trailing qualifiers.
+Fix: cut the last sentence of each paragraph.
+
+**Sentence count uniformity:** Every paragraph at exactly
+3 sentences is AI template behavior. Vary between 2 and 5
+by purpose: a definition needs one sentence; a conditional
+rule needs three; an inventory list needs one long sentence.
+
+**Heading density:** Roughly 1 heading per 3–5 paragraphs in
+rules chapters, 1 per 5–8 in flavor chapters. If a reader must
+hold more than two concepts simultaneously without a break, add
+a heading.

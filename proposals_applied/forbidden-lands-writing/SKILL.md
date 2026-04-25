@@ -1,13 +1,19 @@
 ---
 name: forbidden-lands-writing
 description: |
-  Use when drafting, revising, or reviewing manuscript-facing prose for the
-  Forbidden Lands 2E repo. Applies the voice, structure, diction, and
-  anti-AI rules so prose reads like native fiction and practical rulebook
-  text — harsh, clear, physical, atmospheric, and free of generated-text
-  tells. Covers corebook chapters, proposal prose intended for promotion,
-  item and spell descriptions, flavor exposition, examples, and mixed
-  fiction-and-rule bridges.
+  Use when drafting, revising, or auditing any prose for the Forbidden
+  Lands 2E manuscript — fiction vignettes, rules text, worldbuilding
+  passages, item and spell descriptions, flavor exposition, example
+  scenes, proposals, and mixed fiction-and-rule bridges. Covers the
+  literary techniques of six authors whose combined practice defines the
+  target voice, the complete manuscript register and paragraph system,
+  the 43-pattern anti-AI humanizer, composite voice synthesis, sentence
+  architecture, dialogue mechanics, sensory vocabulary, worldbuilding
+  voice patterns for history, gods, kin, and oral register, and all
+  revision calibration tools. Load when writing village scenes,
+  vignettes, encounter fiction, NPC introductions, epigraphs, or any
+  prose where generic AI output would be detected immediately. Also load
+  when humanizing or auditing a draft that reads generated.
 ---
 
 # Forbidden Lands Writing
@@ -49,6 +55,64 @@ AI writing fails in roleplaying books in three stacked ways:
 
 This skill attacks all three layers.
 
+## The Target Voice
+
+The target register is:
+
+> **Pre-feudal medieval survival fantasy with a Swedish tone, the
+> realistic authenticity of village life, and a soft Tolkienesque
+> poetic worldbuilding.**
+
+Each clause is a constraint, not a mood. The prose must be:
+
+- **Physical before atmospheric** — body, weather, food, iron, wood
+- **Small-scale before epic** — village before kingdom, family before
+  faction, one bad winter before the war
+- **Morally weighted without moral resolution** — every faction has
+  a price, every choice has a cost, no one is simply right
+- **Melancholy as baseline** — joy is earned and small; loss is older
+  than the speaker
+- **Oral-culture patterned** — people speak in memory and repetition,
+  not analysis
+
+## The Literary Tradition
+
+This voice sits at the intersection of six modern literary lineages.
+
+| Author | Primary Contribution |
+|---|---|
+| Andrzej Sapkowski | Monster-as-contract, village ecology, fable structure, Eastern European pre-Christian daily religion |
+| Guy Gavriel Kay | Elegiac register, sacred geography, long memory, soft Tolkienesque poetic inheritance |
+| K.J. Parker | Pre-industrial craft authenticity, economic realism, unreliable pragmatist narrator, dark comedy |
+| Ursula K. Le Guin | Anthropological village authenticity, absence as presence, ecological specificity, the unhurried sentence |
+| Bernard Cornwell | Dark Ages physical survival, food and weather as constant pressure, first-person pragmatist, no clean heroes |
+| John Gwynne | Norse/Dark Ages oath culture, body-first narration, shield-wall perspective, physical grief |
+| Joe Abercrombie & Glen Cook | Band of brothers, mercenary company voice, contracted violence, grimdark moral neutrality, character through habit |
+
+## When To Load Which Reference
+
+Load by scene type, not by preference:
+
+- **Village scenes, NPC texture, daily life** → Le Guin + Cornwell +
+  Sapkowski
+- **Monster encounter, ecological horror** → Sapkowski + Cook
+- **Moral dilemma, faction conflict** → Abercrombie + Sapkowski +
+  Parker
+- **Artifact or relic with history** → Kay + Parker
+- **Battle or combat** → Cornwell + Gwynne + Cook
+- **Grief, long memory, sacred place** → Kay + Gwynne
+- **Economic pressure, craft, survival mechanics** → Parker + Cornwell + Le Guin
+- **Vignette or epigraph** → Kay + Sapkowski
+- **Mercenary company, band-of-brothers, hired-sword** →
+  `fiction-voice-abercrombie-cook.md`
+- **History, gods, kin, or oral register prose** →
+  Worldbuilding Voice section below + `manuscript-style-analysis.md`
+- **Calibrating a draft against the manuscript** →
+  `rewrite-calibration-examples.md` + `manuscript-style-analysis.md`
+- **Rules text, mixed bridge scenes, example scenes** →
+  `writing-manual.md` + `corpus-map-and-registers.md`
+- **Humanizing or auditing a draft** → anti-AI humanizer first
+
 ## Source Of Truth
 
 Read before drafting:
@@ -66,49 +130,134 @@ For substantial drafting or revision, load the bundled references.
 Load on demand. Do not load all at once unless the task
 requires deep multi-register work.
 
-- `references/fiction-voice-abercrombie-cook.md`
-  The fiction voice authority. Deep literary analysis of
-  Glen Cook and Joe Abercrombie techniques, how the 25
-  Band Life vignettes synthesize them, and operational
-  rules for replicating the style: POV, sentence targets,
-  dialogue mechanics, emotion budget, violence rendering,
-  anti-patterns, and a diagnostic checklist. **Load first
-  for any fiction drafting — vignettes, epigraphs,
-  character scenes, or proposal fiction previews.**
+### Anti-AI and Diagnostic Tools
 
-- `references/setting-ravenland-and-human-peoples.md`
-  **Moved to the `forbidden-lands-lore` skill.** Load that
-  skill when writing or revising fiction that involves place
-  names, character nationality, or kin identity. The lore
-  skill owns all setting-authenticity concerns.
-
-- `references/writing-manual.md`
-  The unified writing authority. Voice identity, register
-  system, paragraph and sentence rules, diction, fiction
-  craft, anti-AI pattern library, emotional intelligence,
-  revision method. Load this for any non-trivial drafting.
-
-- `references/manuscript-style-analysis.md`
-  Forensic analysis of original author techniques. Passage-
-  level breakdowns of why specific manuscript prose works.
-  Load when studying the originals or calibrating voice.
+- `../forbidden-lands-writing-voice/references/anti-ai-humanizer.md`
+  **The canonical 43-pattern anti-AI library.** Each pattern has an
+  AI example, human fix, Forbidden Lands application, and the author
+  model that never does it. Also contains the 7-layer failure
+  taxonomy, author-specific evasion techniques, the full diagnostic
+  checklist, and the revision protocol. **Load this first when
+  auditing or humanizing a draft. When any pattern description here
+  conflicts with `writing-manual.md` or `diction-voice-and-anti-style.md`,
+  this file takes precedence.**
 
 - `references/diction-voice-and-anti-style.md`
-  The anti-AI bible for this manuscript. 30+ concrete AI
-  writing patterns mapped to Forbidden Lands-specific fixes.
-  Word-field inventories, verb preferences, and contrastive
-  revision rules. Load when cleaning or auditing prose.
+  **Manuscript lexical identity and FL-specific anti-patterns.**
+  Load for: word fields by domain (body, material, travel, survival,
+  culture), verb preferences, modifier discipline, punctuation
+  restraint, and Forbidden Lands-specific anti-patterns not in the
+  general humanizer. The pattern detection list here overlaps with
+  `anti-ai-humanizer.md` — the humanizer is the authoritative count
+  and format; this file is supplementary for the manuscript-specific
+  lexical rules.
+
+- `../forbidden-lands-writing-voice/references/voice-test-protocol.md`
+  Three tests: Quick Scan (13 highest-frequency patterns, binary,
+  under 2 minutes), Full Pass (all 43 patterns with scoring
+  thresholds), Author Lens Check (per-register positive and negative
+  signals). Use as the final gate before integrating prose.
+
+### Author Technique References
+
+- `../forbidden-lands-writing-voice/references/composite-voice.md`
+  How the six authors combine into one working voice. Priority
+  hierarchy when techniques conflict. Register map by scene type.
+  Worked examples of the composite voice applied to FL2E scenes.
+  Anti-patterns of misapplication.
+
+- `../forbidden-lands-writing-voice/references/author-sapkowski.md`
+  Andrzej Sapkowski: techniques, sentence architecture, the false
+  threshold structure, fable frame, monster-as-contract, dialogue
+  as duel, the price mechanism, pre-Christian ecology.
+
+- `../forbidden-lands-writing-voice/references/author-kay.md`
+  Guy Gavriel Kay: techniques, elegiac omniscience, sacred geography,
+  long memory, the "last time" marker, death in subordinate clauses,
+  song as structure, parallel construction as emotional intensifier.
+
+- `../forbidden-lands-writing-voice/references/author-parker.md`
+  K.J. Parker: techniques, the unreliable pragmatist narrator,
+  technical procedure as character, economics as plot, institutional
+  characters, dark comedy through incongruity.
+
+- `../forbidden-lands-writing-voice/references/author-leguin.md`
+  Ursula K. Le Guin: techniques, thick description, custom over drama,
+  gift economies as worldbuilding, absence as presence, the unhurried
+  sentence, ecological specificity.
+
+- `../forbidden-lands-writing-voice/references/author-cornwell.md`
+  Bernard Cornwell: techniques, food and weather as constant pressure,
+  first-person survivor narration, the loyalty test, tactical
+  geography, death without ceremony.
+
+- `../forbidden-lands-writing-voice/references/author-gwynne.md`
+  John Gwynne: techniques, body-first narration, oath as narrative
+  spine, shield-wall perspective, grief as physical, oral-culture
+  tells, the named object.
+
+- `references/fiction-voice-abercrombie-cook.md`
+  **The mercenary company fiction voice.** Deep literary analysis of
+  Glen Cook and Joe Abercrombie techniques, how the 25 Band Life
+  vignettes synthesize them, and operational rules for replicating
+  the style: POV, sentence targets, dialogue mechanics, emotion
+  budget, violence rendering, anti-patterns, and a diagnostic
+  checklist. **Load when writing mercenary band characters,
+  contracted violence, company hierarchy scenes, or any prose
+  operating in the hired-sword register.**
+
+### Sentence, Dialogue, and Sensory Craft
+
+- `../forbidden-lands-writing-voice/references/sentence-architecture.md`
+  Per-author sentence profiles, the Forbidden Lands target sentence,
+  rhythm techniques, variation strategies, and diagnostic questions.
+
+- `../forbidden-lands-writing-voice/references/dialogue-mechanics.md`
+  Per-author dialogue profiles, oral-culture sentence patterns,
+  dialect without parody, silence between lines, implied conversation,
+  tags, attribution, and when to skip dialogue entirely.
+
+- `../forbidden-lands-writing-voice/references/sensory-vocabulary.md`
+  Priority sense hierarchy, weather as character, food as
+  worldbuilding, body as consciousness, sound before sight, specific
+  vs. generic decision tree, master vocabulary lists by environment
+  type.
+
+### Manuscript Calibration
+
+- `references/writing-manual.md`
+  **The unified manuscript-specific synthesis.** Voice identity, the
+  six registers, fiction craft, emotional intelligence, paragraph
+  architecture, sentence craft, diction, rules prose, item/equipment
+  prose, mixed bridges, example scenes, and revision method — all
+  applied to this manuscript specifically. Contains its own anti-AI
+  pattern list (a shorter derivative set). When those patterns
+  conflict with `anti-ai-humanizer.md`, the humanizer takes
+  precedence. Load for any non-trivial drafting.
+
+- `references/manuscript-style-analysis.md`
+  Forensic analysis of original author techniques. Passage-level
+  breakdowns of why specific manuscript prose works. Load when
+  studying the originals or calibrating voice.
 
 - `references/corpus-map-and-registers.md`
-  Chapter voice map and retrieval guide. Where to find
-  exemplars by task, what each chapter teaches about voice,
-  and what to watch for when imitating each register.
-  Load when choosing what to read before drafting.
+  Chapter voice map and retrieval guide. Where to find exemplars
+  by task, what each chapter teaches about voice, and what to watch
+  for when imitating each register. Load when choosing what to read
+  before drafting.
 
 - `references/paragraph-sentence-and-structure-metrics.md`
   Measured chapter averages for paragraph and sentence length.
-  Per-register targets and structural signals to watch.
-  Load when checking whether a draft fits its chapter.
+  Per-register targets and structural signals to watch. Load when
+  checking whether a draft fits its chapter.
+
+- `../forbidden-lands-writing-voice/references/register-contrastive.md`
+  Same scene (arrive at dark village, gate barred, no dogs, no fire)
+  rendered in all six author registers with cross-register notes.
+  Use when checking whether a passage sounds like the named register
+  or has drifted.
+
+### Worked Examples
 
 - `references/rewrite-calibration-examples.md`
   Ten before-and-after pairs across all six registers.
@@ -116,16 +265,64 @@ requires deep multi-register work.
   talent, journey, and item rewrites with change notes.
   Load when calibrating revision choices.
 
+- `../forbidden-lands-writing-voice/references/worked-examples.md`
+  13 wrong/correct pairs targeting the 13 highest-frequency AI
+  patterns. Quick Diagnostic checklist. Use when an abstract
+  rule is not landing — read the correct example, not the rule.
+
 - `references/multi-rule-sequence-calibration.md`
-  Combat, journey, and recovery sequence examples. How to
-  write playable multi-rule scenes that teach through
-  consequence, not through annotation. Load when writing
-  example scenes that chain multiple rules.
+  Combat, journey, and recovery sequence examples. How to write
+  playable multi-rule scenes that teach through consequence, not
+  through annotation. Load when writing example scenes that chain
+  multiple rules.
+
+- `references/rules-onboarding-and-progressive-examples.md`
+  Progressive rule examples. How to teach a rule through graduated
+  scenario examples that assume increasing table familiarity.
+
+### World Vocabulary
+
+- `../forbidden-lands-writing-voice/references/world-vocabulary.md`
+  Setting-specific vocabulary rules. How the three human peoples
+  name themselves in speech, thought, and writing. Non-human kin
+  speech patterns. Divine names in use by tradition. Currency and
+  economic vocabulary. Social rank terms. Place names. Register
+  rules by culture. Forbidden vocabulary.
+
+### Setting (Redirect)
+
+- `references/setting-ravenland-and-human-peoples.md`
+  **Moved to the `forbidden-lands-lore` skill.** Load that skill
+  when writing or revising fiction that involves place names,
+  character nationality, or kin identity. The lore skill owns all
+  setting-authenticity concerns.
 
 ## Hard Rules
 
 These are non-negotiable. Violating any one disqualifies
 a draft from the manuscript.
+
+### Framework Rules
+
+1. **Load the anti-AI humanizer before submitting any draft.** Run
+   the 43-pattern diagnostic in
+   `../forbidden-lands-writing-voice/references/anti-ai-humanizer.md`.
+   Not a suggestion.
+
+2. **Choose an author register for each scene.** Name it before
+   writing: "This scene is Cornwell-primary with Le Guin texture."
+   Mixed registers without a named primary always produce generic
+   output.
+
+3. **Physical before atmospheric.** Every scene opens on a body doing
+   a physical thing in a specific place. Weather, mood, and theme
+   enter through that body, not before it.
+
+4. **The monster is a contract. The relic has a price. The faction
+   is partly right.** These are structural constraints built into the
+   lore. See `skills/forbidden-lands-lore/references/tone-and-encounter-design.md`.
+
+### Manuscript Rules
 
 1. **No mood without object.** Every atmospheric sentence must
    contain a physical noun — a body part, a material, a tool,
@@ -173,37 +370,37 @@ a draft from the manuscript.
    reads them.
 
 6. **End on weight.** Sentences should land on concrete nouns,
-   bodily consequences, hard verbs, or material facts. Trailing
-   qualifiers, abstract summaries, and "voicey" filler at
-   the end of a sentence are the most reliable sign of
-   generated text.
+    bodily consequences, hard verbs, or material facts. Trailing
+    qualifiers, abstract summaries, and "voicey" filler at
+    the end of a sentence are the most reliable sign of
+    generated text.
 
 7. **Earn every adjective.** One strong noun beats two
-   modified ones. "The blade" beats "the sharp, gleaming
-   blade." If an adjective does not change what the reader
-   pictures, it is decoration and should be cut.
+    modified ones. "The blade" beats "the sharp, gleaming
+    blade." If an adjective does not change what the reader
+    pictures, it is decoration and should be cut.
 
 8. **No game designer jargon.** Terms like "critical riders,"
-   "proc," "tuned," "feature effects," and similar design-layer
-   vocabulary are internal shorthand. They do not belong in
-   manuscript prose. Replace them with plain description of what
-   happens at the table: not "critical riders" but "what the
-   talent does when the attack connects." "Trigger" is
-   acceptable plain English and may stay. "On-hit effects" is
-   borderline — it reads technical; prefer "what happens when
-   the attack connects" or "what the talent does on a hit."
-   If a reader would need to know design theory to understand
-   a sentence, the sentence is wrong.
+    "proc," "tuned," "feature effects," and similar design-layer
+    vocabulary are internal shorthand. They do not belong in
+    manuscript prose. Replace them with plain description of what
+    happens at the table: not "critical riders" but "what the
+    talent does when the attack connects." "Trigger" is
+    acceptable plain English and may stay. "On-hit effects" is
+    borderline — it reads technical; prefer "what happens when
+    the attack connects" or "what the talent does on a hit."
+    If a reader would need to know design theory to understand
+    a sentence, the sentence is wrong.
 
 9. **No AI guardrail sections.** Do not introduce a section
-   labeled "GUARDRAILS," "Safety Note," "Content Warning," or
-   any equivalent. These are AI safety framing conventions and
-   read as generated text. If the rule has genuine edge cases
-   the GM needs to handle, write them as GM advice embedded
-   inside the rule itself — a short sentence beginning with
-   "The GM" or "The GM decides," placed where the concern
-   actually arises. Not a separate block before or after the
-   rule. Not a titled section. A sentence.
+    labeled "GUARDRAILS," "Safety Note," "Content Warning," or
+    any equivalent. These are AI safety framing conventions and
+    read as generated text. If the rule has genuine edge cases
+    the GM needs to handle, write them as GM advice embedded
+    inside the rule itself — a short sentence beginning with
+    "The GM" or "The GM decides," placed where the concern
+    actually arises. Not a separate block before or after the
+    rule. Not a titled section. A sentence.
 
 ## Writing Workflow
 

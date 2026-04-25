@@ -1461,3 +1461,224 @@ apply their specific technique.
 The draft is ready when a careful reader cannot
 identify the passage as generated. That is the
 only standard.
+
+---
+
+## Forbidden Lands Lexical Reference
+
+This section is manuscript-specific. It documents the word fields,
+verb choices, and diction rules observed in the Forbidden Lands
+original text. Use it alongside the 43-pattern catalog when drafting
+or auditing prose for this project specifically.
+
+---
+
+### Word Fields
+
+The manuscript's lexicon is narrow, physical, and specific. When
+in doubt, choose the smaller word with edges over the larger word
+with vagueness.
+
+**Body**
+
+blood, hand, bone, teeth, breath, scar, gut, flesh, lung, wound,
+skin, sinew, throat, brow, back, spine, skull, knuckle, rib,
+marrow, nerve, jaw, palm, finger, wrist, shoulder, knee, hip,
+chest, heart, eye, ear
+
+*Use for:* injury descriptions, physical exertion, mortality
+passages, exhaustion, kin distinctions.
+
+**Material and craft**
+
+iron, stone, grip, haft, cord, wood, nail, hide, tar, edge,
+wedge, spike, leather, cloth, rope, bone, antler, flint, bronze,
+steel, copper, tin, glass, clay, wax, oil, pitch, straw, wool,
+linen, chain, ring, rivet, forge, anvil, bellows, tongs, mould
+
+*Use for:* item descriptions, crafting passages, gear tables,
+stronghold construction, cultural flavor.
+
+**Travel and weather**
+
+cold, rain, frost, trail, mire, ridge, road, ash, mud, pack,
+ford, dusk, dawn, wind, fog, sleet, hail, snow, sun, cloud, sky,
+storm, dark, night, fire, smoke, camp, hearth, tent, cloak, boot,
+saddle, reins, wagon, cart, bridge, gate, ruin, tower, village,
+well, stream, river, lake, marsh, swamp, forest, hill, cliff,
+cave, pass, vale
+
+*Use for:* journey narration, terrain descriptions, weather
+tables, overnight camp, exploration.
+
+**Survival and pressure**
+
+burden, hunger, fear, rot, grime, thirst, pain, strain, ruin,
+ration, supply, coin, debt, scarcity, loss, trap, ambush, flight,
+siege, plague, curse, poison, starvation, exhaustion, cold, dark,
+death
+
+*Use for:* encumbrance, supply tracking, deprivation mechanics,
+camp phase, zone descriptions, threat narration.
+
+**Culture and society**
+
+kin, clan, village, elder, lord, priest, smith, trader, wanderer,
+outcast, thief, hunter, soldier, farmer, slave, beggar, healer,
+druid, sorcerer, bard, knight, jarl, thrall, beast, mount, hound
+
+*Use for:* kin descriptions, profession intros, NPC templates,
+settlement flavor.
+
+---
+
+### Verb Preferences
+
+**Physical verbs — use these:**
+
+cut, drag, bind, haul, split, twist, break, climb, carry, cling,
+stalk, brace, wield, bleed, wrench, grind, hack, pull, shove,
+pin, lift, drop, throw, swing, strike, crush, tear, pierce, slam,
+kick, grip, hold, press, lean, crouch, duck, roll, crawl, stagger,
+collapse, fall, rise, reach, seize, grab
+
+**Rules-prose verbs — use these:**
+
+roll, spend, gain, lose, take, suffer, push, mark, choose, count,
+deal, draw, heal, recover, add, subtract, reduce, increase,
+succeed, fail, attempt, activate, trigger
+
+**Inflated verbs — replace these:**
+
+- "serves as" → "is"
+- "functions as" → "is"
+- "stands as" → "is"
+- "represents" → "is" (unless genuinely metaphorical)
+- "boasts" → "has"
+- "features" → "has"
+- "offers" → "gives" or "has"
+- "enables" → "lets"
+- "fosters" → cut the sentence and say what actually happens
+- "underscores" → cut or replace with plain statement
+- "highlights" → cut or replace with plain statement
+- "leverages" → "uses"
+- "utilizes" → "uses"
+- "facilitates" → "helps" or restructure
+- "encompasses" → "includes"
+- "embodies" → "is"
+- "navigates" → "crosses" or "enters" or the physical action
+- "delves into" → "explores" or cut entirely
+
+---
+
+### Modifier Discipline
+
+**Adjective rule:** One adjective per noun maximum unless stacking
+physical observations. "A short broad-bladed axe" works — both
+words describe what you see. "A powerful ancient devastating weapon"
+is three adjectives doing one job.
+
+**Earned vs. decorative:** An adjective earns its place if removing
+it changes what the reader pictures. "An iron mace" — removing
+"iron" changes the image. "A deadly mace" — removing "deadly"
+changes nothing; maces are deadly by nature.
+
+**Adverb rule:** The manuscript uses almost no adverbs. Replace
+the adverb-verb pair with a stronger verb: "walked slowly" →
+"crept" or "shuffled."
+
+**The AI modifier problem:** AI drafts over-modify because the
+model has learned that qualified statements are safe. "The
+relatively dangerous somewhat unpredictable mildly corrosive..."
+State the fact. If it is dangerous, say dangerous.
+
+---
+
+### Punctuation Restraint
+
+**Commas:** Use for lists, for separating clauses, and for
+conditional openers. Do not sprinkle for rhythm.
+
+**Em dashes:** One per paragraph at most. AI drafts produce
+2–4 per paragraph, often nested. This is one of the most
+reliable AI tells in genre fiction. Replace with full stops,
+commas, or restructured sentences.
+
+**Semicolons:** The manuscript avoids them. Use only when
+connecting two independent clauses that share a tight logical
+link and a period would create false separation.
+
+**Exclamation marks:** Only in dialogue. Never in rules or
+flavor text.
+
+**Ellipses:** Only in dialogue to indicate trailing speech.
+Never in rules or flavor prose.
+
+**Colons:** Used freely for introducing lists and definition
+structures. Workhorse punctuation, not dramatic.
+
+---
+
+### Forbidden Lands-Specific Anti-Patterns
+
+These are failure modes specific to Forbidden Lands draft text,
+not general AI tells.
+
+**Fantasy fog:** "Shadow and sorrow haunt the ancient stones
+of the Forbidden Lands, where destiny intertwines with despair
+beneath a blood-red sky." Not one concrete noun refers to
+something touchable. Fix: replace mood nouns with material
+nouns. Cold rain on a mail shirt is atmospheric. "Sorrow
+haunting stones" teaches nothing.
+
+**Therapeutic framing:** "Through their journey, the adventurers
+will discover deeper truths about themselves." The manuscript
+is not therapy. Characters bleed, starve, and die. Fix: cut
+the sentence. If growth needs showing, show it through changed
+capabilities.
+
+**Epic inflation:** "An awe-inspiring display of raw, unbridled
+magical power surged through the ancient halls." The manuscript
+describes magic through specific sensory images: eyes turned
+grey as granite, stone rising from a cliff. Fix: replace
+inflation with one specific image.
+
+**Design-document voice:** "This talent is designed to synergize
+with the combat system's action economy." The manuscript never
+acknowledges that it is designed. Fix: state the rule as a fact
+about the character and world, not the system.
+
+**Proposal leakage:** "As proposed in the balance review, this
+adjustment addresses the observed power gap." Fix: remove all
+design rationale. Once promoted to the manuscript, the rule
+stands alone.
+
+---
+
+### Contrastive Revision Tests
+
+Apply these five tests to any draft before finalizing.
+
+**1. The replacement test:** Would the original authors have
+written this sentence, or would they have written something
+shorter, harder, and more specific? If shorter-harder-specific,
+rewrite.
+
+**2. The placement test:** Imagine the draft placed inside the
+manuscript between two existing paragraphs. Would the reader
+feel a voice shift? If yes, the draft has imported a foreign
+register.
+
+**3. The deletion test:** Can you remove this sentence and lose
+nothing? If the remaining text says the same thing, the sentence
+was filler. Cut it.
+
+**4. The specificity test:** Does this sentence contain at least
+one concrete noun — something with weight, temperature, texture,
+or edges? If purely abstract, it needs an anchor.
+
+**5. The ending test:** Read only the last five words of each
+sentence. Concrete nouns, hard verbs, or material facts? Or
+trailing qualifiers, soft abstractions, mood-word fog? Sentence
+endings are where AI writing leaks most visibly. Fix endings
+first.

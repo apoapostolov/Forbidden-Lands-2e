@@ -1,5 +1,5 @@
 ---
-name: writing-voice
+name: forbidden-lands-writing-voice
 description: |
   Use when drafting, revising, or auditing fiction prose that must match
   the pre-feudal medieval survival fantasy register of this project. This
@@ -17,23 +17,22 @@ description: |
   load for humanizing or auditing a draft that reads generated.
 ---
 
-# Writing Voice
+# Forbidden Lands Writing Voice
 
-This skill is the literary ancestor layer for the Forbidden Lands 2E
+This skill is the literary technique layer for the Forbidden Lands 2E
 manuscript. It names the authors, maps their techniques, and gives
 the operational rules for applying those techniques to new prose.
 
-It is not a substitute for `skills/forbidden-lands-writing/`. That
-skill owns the sentence-level rules, register system, anti-AI patterns,
-and rewrite calibration for the manuscript specifically. This skill owns
-the deeper question: who writes in this tradition, how do they do it,
-and what does a human writer in this style actually produce?
+For the complete combined skill — sentence rules, manuscript register,
+rewrite calibration, worldbuilding voice patterns, and these author
+techniques together — load `skills/forbidden-lands-writing/` instead.
+This skill is the author-technique layer only.
 
 ## The Target Voice
 
 The target register is:
 
-> **Re-feudal medieval survival fantasy with a Swedish tone, the
+> **Pre-feudal medieval survival fantasy with a Swedish tone, the
 > realistic authenticity of village life, and a soft Tolkienesque
 > poetic worldbuilding.**
 
@@ -52,11 +51,13 @@ Each clause is a constraint, not a mood. The prose must be:
 ## The Literary Tradition
 
 This voice sits at the intersection of six modern literary lineages.
-The Abercrombie-Cook line is the primary existing analysis:
-see `skills/forbidden-lands-writing/references/fiction-voice-abercrombie-cook.md`.
+The Abercrombie-Cook line covers the mercenary company fiction voice
+specifically — contracted violence, company hierarchy, band-of-brothers
+register. See `skills/forbidden-lands-writing/references/fiction-voice-abercrombie-cook.md`
+when writing mercenary band fiction.
 
-The six authors analyzed in this skill extend that foundation into the
-specific registers the manuscript also requires:
+The six authors analyzed in this skill define the general manuscript
+registers the project requires:
 
 | Author | Primary Contribution |
 |---|---|
@@ -66,10 +67,8 @@ specific registers the manuscript also requires:
 | Ursula K. Le Guin | Anthropological village authenticity, absence as presence, ecological specificity, the unhurried sentence |
 | Bernard Cornwell | Dark Ages physical survival, food and weather as constant pressure, first-person pragmatist, no clean heroes |
 | John Gwynne | Norse/Dark Ages oath culture, body-first narration, shield-wall perspective, physical grief |
-
-The Abercrombie-Cook line provides: grimdark moral neutrality, military
-logistics as baseline, character through habit, humor as survival
-mechanism.
+| Joe Abercrombie | Close-third confessional, physicality as psychology, bathetic pivot, dark humor as character property, violence as claustrophobic aftermath |
+| Glen Cook | Military annals voice, radical understatement, logistical baseline, character through repeated habit, structural absence as emotional content |
 
 ## When To Load Which Reference
 
@@ -78,14 +77,26 @@ Load by scene type, not by preference:
 - **Village scenes, NPC texture, daily life** → Le Guin + Cornwell +
   Sapkowski
 - **Monster encounter, ecological horror** → Sapkowski + Cook
+  (`references/author-glen-cook.md` for understatement and logistics)
 - **Moral dilemma, faction conflict** → Abercrombie + Sapkowski +
-  Parker
+  Parker (`references/author-abercrombie.md` for moral weight through
+  consequence)
 - **Artifact or relic with history** → Kay + Parker
-- **Battle or combat** → Cornwell + Gwynne + Cook
+- **Battle or combat** → Cornwell + Gwynne + Cook + Abercrombie
+  (`references/author-glen-cook.md` for military logistics;
+  `references/author-abercrombie.md` for violence in claustrophobic
+  detail and aftermath)
 - **Grief, long memory, sacred place** → Kay + Gwynne
 - **Economic pressure, craft, survival mechanics** → Parker + Cornwell
   - Le Guin
+- **Mercenary company, contracted violence, hired sword** →
+  `references/author-abercrombie.md` + `references/author-glen-cook.md`
+  For the vignette synthesis of how both authors combine into one
+  operational fiction voice, load
+  `skills/forbidden-lands-writing/references/fiction-voice-abercrombie-cook.md`
 - **Vignette or epigraph** → Kay + Sapkowski
+- **Rules prose, game example scenes, chapter structure** →
+  `references/rules-voice.md`
 - **Humanizing or auditing a draft** → anti-AI humanizer first
 
 ## Bundled References
@@ -133,6 +144,29 @@ Load by scene type, not by preference:
   spine, shield-wall perspective, grief as physical, oral-culture
   tells, the named object.
 
+- `references/author-abercrombie.md`
+  Joe Abercrombie: close-third confessional tied to character
+  psychology, physicality as psychology, the bathetic pivot,
+  dark humor sourced in character not narrator, violence as
+  claustrophobic and undignified, aftermath worse than event,
+  moral weight through consequence.
+
+- `references/author-glen-cook.md`
+  Glen Cook: the annalist voice, radical understatement, logistical
+  baseline as default mode, character through repeated habit,
+  structural absence as emotional content, dark humor as survival
+  mechanism, the material catalogue as world-building.
+
+- `references/rules-voice.md`
+  The game designer register. Two manuscript temperatures (Härenstam
+  cool precision vs. Granström warm-dark). The five manuscript
+  registers (rules, mixed bridge, item, example, flavor). Chapter
+  temperature map. Paragraph shapes. Multi-rule sequence writing.
+  Progressive disclosure architecture. Recurring characters in
+  examples. What AI gets wrong in rules prose. **Load when writing
+  or auditing any rules text, talent, spell description, item entry,
+  or example scene.**
+
 - `references/sentence-architecture.md`
   Per-author sentence profiles, the Forbidden Lands target sentence,
   rhythm techniques, variation strategies, and diagnostic questions.
@@ -151,6 +185,15 @@ Load by scene type, not by preference:
   13 wrong/correct pairs targeting the 13 highest-frequency AI
   patterns. Quick Diagnostic checklist. Use when an abstract
   rule is not landing — read the correct example, not the rule.
+
+- `references/rewrite-calibration-examples.md`
+  10 before-and-after pairs across all six manuscript registers:
+  item description, injury naming, proposal tone, fiction opening,
+  spell description, cultural flavor, mixed bridge, talent, journey,
+  and item distinction. Each pair includes change notes explaining
+  what was cut, what was added, and why. **Load when calibrating
+  voice for a specific register — these are register-focused where
+  worked-examples.md is pattern-focused.**
 
 - `references/register-contrastive.md`
   Same scene (arrive at dark village, gate barred, no dogs, no fire)
@@ -190,21 +233,24 @@ Load by scene type, not by preference:
    the literary tradition and built into the lore. See
    `skills/forbidden-lands-lore/references/tone-and-encounter-design.md`.
 
-5. **Cross-load `skills/forbidden-lands-writing/` for manuscript
-   prose.** This skill is the author-technique layer. The
-   forbidden-lands-writing skill is the manuscript-application
-   layer. Both must be active for manuscript drafting.
+5. **For manuscript drafting, load `skills/forbidden-lands-writing/`**
+   which combines this author-technique layer with sentence rules,
+   register system, rewrite calibration, and worldbuilding voice
+   patterns.
 
-6. **The Abercrombie-Cook analysis is the primary existing reference.**
-   Read it first at
+6. **Abercrombie and Cook are the mercenary company voice.**
+   For individual author technique: `references/author-abercrombie.md`
+   and `references/author-glen-cook.md`. For the vignette synthesis
+   (how the 25 Band Life vignettes combine both authors into one
+   operational voice), load
    `skills/forbidden-lands-writing/references/fiction-voice-abercrombie-cook.md`.
-   The authors in this skill extend, not replace, that analysis.
+   Neither is the general manuscript voice.
 
 ## Companion Skills
 
-- `skills/forbidden-lands-writing/SKILL.md` — sentence rules,
-  register system, anti-AI patterns, rewrite examples for this
-  manuscript
+- `skills/forbidden-lands-writing/SKILL.md` — complete combined skill:
+  author techniques (this skill), sentence rules, register system,
+  anti-AI patterns, worldbuilding voice, rewrite calibration
 - `skills/forbidden-lands-lore/SKILL.md` — setting authenticity,
   tonal classification, encounter anti-tropes
 - `skills/forbidden-lands-bestiary/SKILL.md` — encounter design

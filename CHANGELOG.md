@@ -7,6 +7,12 @@ All notable changes to the Forbidden Lands Corebook will be documented in this f
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.1] - 2026-04-25
+
+### Changed
+
+- **Corebook — Prose quality improvements across eleven chapters.** Opening and framing prose revised in Chapters 1, 2, 3, 5, 7, 8, 9, 11, 12, and 13 (Front Matter, Your Adventurer, Skills, Combat & Damage, Magic, Journeys, The Stronghold, Appendix, Mercenaries of the Forbidden Lands, Lifepaths of the Forbidden Lands). Filler phrasing, rhetorical ornamentation, and over-articulated observations replaced with direct, physically-grounded prose. Key revisions: kin entry descriptions (Half-Elf, Orc, Rider) rewritten to open on behavior and physical circumstance; the Civilized/Uncivilized framing section tightened and the embedded narrator-apology sentence removed; LORE skill description revised to a single clear statement; Magic chapter opening replaced with concrete grounded language; Stronghold chapter intro's closing rhetorical question removed; Heroic Campaign section in the Appendix reframed to state its register directly; the Mercenaries chapter scope paragraph condensed; the Lifepaths intro and one descriptive bullet reworked to open on specific consequence. No rules content changed.
+
 ## [1.1.0] - 2026-04-24
 
 ### Changed

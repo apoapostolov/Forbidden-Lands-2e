@@ -401,3 +401,194 @@ do not earn their place. No resolution.
 It draws on: Le Guin's economic specificity, Cornwell's
 logistics tracking, Sapkowski's social edge, Cook's
 absence of commentary.
+
+---
+
+## Worldbuilding Voice Registers
+
+These registers govern world-facing content — history passages,
+god descriptions, kin profiles, cultural detail, in-world
+quotes, folk sayings, and founding myths. They derive from
+forensic analysis of the Gamemaster's Guide history, gods,
+and kin chapters. These chapters are not lore documents;
+they are operational world tools a GM needs to run a campaign
+starting tonight.
+
+---
+
+### History as Survival Chronicle
+
+The history chapter does not narrate a heroic story. It records
+a chain of practical failures: food shortages, religious wars,
+a drunken dwarf's victory banquet, a demon that got homesick.
+Causes are stated without irony markers — no "ironically" or
+"sadly" — because the irony is carried entirely by the
+juxtaposition of stated cause and actual consequence.
+
+**Pattern: mundane cause, epic consequence, no comment.**
+The Blood Mist lifted because a demon was seduced by homesickness
+from a bard's songs and turned to cannibalism. State it in one
+paragraph without exclamation. The sentence ends. Do not explain
+why this is remarkable.
+
+**Pattern: named character, role first, then name.**
+"The dwarven lord Garmar Four-Beard" — not "Garmar Four-Beard,
+a dwarven lord." Role before name. "The priestess Jamharda."
+"The sorcerer Zygofer." "The bard Merigall." Always role first.
+
+**Pattern: dates and durations compress rather than summarize.**
+"820–821 AS" carries more weight than "after a year of bitter
+fighting." Dates bound; they do not explain. The reader
+calculates the duration.
+
+**Pattern: dark acts in procedural tone.**
+"When he turned her down, she had him killed, brought him back
+to life with her necrokinetics, and took his dead body for a
+lover." Three comma-separated events. No horror adjectives. No
+moral framing. The horror is the list; the grammar is doing
+the work. If a sentence about a terrible act contains the word
+"horrifying," "terrifying," "unspeakable," or "chilling," the
+pattern has failed.
+
+**Pattern: historic quotes carry attribution, role, and date.**
+> ETARIK HAMMERHAND, ambassador from the Merromannians to Alderstone, 833 AS
+
+Three pieces: who said it, their specific role at the moment,
+when they said it.
+
+---
+
+### Gods as Faction Definitions
+
+A god in this world is not a theology. A god is defined by:
+what the followers believe the god is, what material things
+they hold sacred, and what they do to people who believe
+otherwise.
+
+**Never describe a god abstractly first.** Describe the physical
+rite, then the belief, then the faction behavior. The gods
+chapter opens with the Rust Lord Kartorda nude among iron chains,
+being stained rust-brown for a coming human sacrifice. This is
+the first sentence about gods. Not "the god Rust is worshipped
+by the Iron Guard." A body, chains, staining, preparation. Then
+the belief.
+
+**Material holiness is specific and operational.** The material
+objects are not symbolic — they are operational. They tell the
+GM what the NPCs carry, what they build, what they fear. Every
+paragraph about a god should arm an encounter.
+
+**Multiple contradictory interpretations of the same deity are
+not resolved.** The Protector god is Wyrm (the Congregation),
+Raven (the Raven Sisters), and Rust (the Rust Brothers). The
+text does not propose a reconciliation. It describes the three
+camps and notes they are "deeply hostile towards one another."
+Do not tidy theological contradictions. The contradiction is
+the world fact.
+
+---
+
+### Kin as Survival Ecologies
+
+People in the Forbidden Lands are defined by what they do to
+survive, not by who they claim to be. Cultural identity lives
+in behavior, not self-description.
+
+**Do not write "the Galdanes are a proud, nomadic people."**
+Write what they do: they drink too much, go back and forth
+between wanting to fight and weeping and singing sad songs,
+hate fences and walls as contempt for farmers who divide land
+that should belong to everyone. Culture is in the behavior.
+
+**Social structure is clan, priestly, and martial — not feudal.**
+The present-day Forbidden Lands has no lords, no kings, no
+feudal titles in active use. When writing settlement NPCs and
+social friction, do not default to lord/peasant feudal
+vocabulary. Use the factional web: which priestly presence,
+which clan pressure, which order's eyes are on this village.
+
+**Undeath is a social phenomenon, not a horror event.**
+"The living dead are a natural phenomenon in the villages
+since the deceased often tend to keep walking about in a state
+of confusion before finding their final rest. They are treated
+with respectful courtesy." Villages soothe the restless dead
+with music and conversation. The Rust Brothers remove them to
+turn into soldiers. Write undead encounters from this angle:
+who manages the dead here, and what has gone wrong with that
+management.
+
+---
+
+### The Oral and Poetic Register
+
+**A folk song sounds like a real person singing it, not an
+author composing atmosphere.** When writing a folk song, write
+what the specific person singing it is afraid of. Not what the
+author wants to evoke.
+
+**An elvish saying uses three physical objects and a consequence.**
+"Three things mortal hands cannot mend: broken birds' eggs,
+the heart ruby and ravaged oaths between kin." Pattern: a
+number, a list of physical objects in escalating gravity, no
+verb in the conclusion. The saying does not explain. It lists.
+The reader constructs the meaning.
+
+**A historical quote from a named NPC requires role and date.**
+The attribution earns the quote. The date carries the weight.
+
+---
+
+### The Soft Tolkienesque Technique
+
+Founding myths in this world are poetic but not decorative.
+Each myth has three components: a physical cosmic object
+explaining origin, a consequence the believer can act on,
+and a mechanical reality at the table.
+
+**State the myth in the believer's voice, not the narrator's.
+Ground it in a physical object. Show the behavior it produces.**
+
+Do not write: "According to elven mythology, their souls
+originate from a celestial source." Write: "The elves say
+the rubies fell like seeds from the wandering red star,
+to guide the confused life of the world towards a higher
+purpose."
+
+---
+
+### The Swedish/Nordic Tonal Signature
+
+In this world, cruelty, death, dark humor, and practical
+atrocity are reported in the same register as weather and
+harvest. The reader's emotional response is not managed by
+the text. The text provides the fact; the reader provides
+the reaction. Write everything at the same temperature.
+
+**The deadpan atrocity list:** "Therania had grown tired of
+the cold embrace of the dead king Algarod and suggested that
+the reanimated corpse should be sent to command the fortress
+at Weatherstone, and so he was." One sentence. Past tense.
+"And so he was." No dramatic weight.
+
+**The procedural cruelty:** "Garmar Four-Beard, drunk on power
+and alcohol, had the priestess thrown on a bed of hot coals
+during the victory banquet at Lumra, to bake her like a
+shellfish." There is dark comedy here. "Tenderized into
+submission" is almost a recipe. The text does not apologize
+for the comedy. The comedy comes from the precision, not
+from mockery.
+
+**The flat disproof:** "The entire legend is false." After a
+full paragraph founding myth, this is the entire next
+paragraph. Three words. No explanation follows immediately.
+This signals that the world contains people who believe things
+that are wrong, and the text is comfortable being right
+without performing being right.
+
+**The practical relationship to death:** "Killing people who
+can no longer contribute due to age or frailty is not uncommon.
+It is viewed as unavoidable but sad and is usually accepted by
+the victims as a better alternative than being forced to venture
+out from the village on their own." No moral judgment. No
+authorial distance markers. The sentence treats this as a
+management fact of pre-feudal survival life.

@@ -536,7 +536,52 @@ Kay register.
 
 ---
 
-## Using the Tests Together
+### Abercrombie / Cook Lens
+
+Use for: mercenary company scenes, contracted violence, logistics
+and supply, moral-neutrality passages, aftermath narration, scenes
+where the writing must record rather than judge.
+
+**Positive signals — these should be present:**
+
+- The contract is named before the violence starts. Who is
+  paying, for what, and by when?
+- Characters defined by habit not description: a tic, a routine,
+  a tool they always reach for.
+- Humor as survival mechanism — the wry observation from someone
+  who has seen this exact thing before and knows how it ends.
+- First-person survival narrator framing: prior-experience voice,
+  "I had seen this before," "this was the part where."
+- Moral neutrality: the narrator records without judging. Both
+  sides' logic is presented; neither is endorsed.
+- Logistics and supply are accounted for: what was spent, what
+  remains, whether the horses will make it.
+- Undignified deaths: people die off-balance, mid-sentence,
+  in awkward positions. Death does not grant dignity.
+- Aftermath is worse than the event. The cost becomes clear
+  after the violence ends, not during.
+
+**Negative signals — these must be absent:**
+
+- Heroic register or glory language of any kind.
+- Clean deaths — the corpse is never arranged for the reader's
+  benefit.
+- Any lesson stated by the narrator or a character about the
+  meaning of the violence.
+- "Not just X, but Y" elevation: any construct that frames
+  violence as meaningful rather than transactional.
+- Characters who reflect on the deeper significance of their
+  service, contract, or cause.
+- Sentimentality at scene endings.
+
+**Quick lens test:** Does the passage contain a reference to
+payment, supply, or what the contract actually covers? Abercrombie
+and Cook prose always counts what the job costs. If the passage
+has no accounting — no coin, no rations, no ammunition, no debt —
+the register is drifting toward adventure fiction and away from
+mercenary company voice.
+
+---
 
 **Typical workflow for a passage being drafted:**
 
