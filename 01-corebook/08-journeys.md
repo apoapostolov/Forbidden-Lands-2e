@@ -2,7 +2,7 @@
 
 > "Tonder lies Feulenmark, where my people once ruled," said Phinia, caressing the forest below them with her gesture. "It would be wise to cross the Seyster before nightfall to reach Klondervale. I know a druid there that will help us. He knows where we may safely barter with the lizardfolk."
 
-The Blood Mist has lifted. The demonic veil that rested heavily over the Forbidden Lands for three centuries, sucking the life out of anyone who wandered too far from home and hearth, has suddenly and inexplicably disappeared. You do not know why, but you do know what it means. You and other restless souls are finally free to leave your homes and travel far and wide through the Forbidden Lands, to explore and look for treasure and danger in ruins from ages past. This chapter explains how these processes work.
+The Blood Mist has lifted. The demonic veil that rested heavily over the Forbidden Lands for three centuries, sucking the life out of anyone who wandered too far from home and hearth, has suddenly and inexplicably disappeared. You do not know why, but you do know what it means. You and others like you are free now to leave your homes and cross the Forbidden Lands, to explore and look for treasure and danger in ruins from ages past. This chapter explains how these processes work.
 
 ### THE MAP
 

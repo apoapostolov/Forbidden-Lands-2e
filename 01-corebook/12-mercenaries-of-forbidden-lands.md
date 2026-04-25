@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD013 -->
+<!-- markdownlint-disable MD013 MD028 -->
 
 # Mercenaries of the Forbidden Lands
 
@@ -22,9 +22,9 @@ This chapter gives you the rules to raise that band, feed it, pay it, march it i
 
 The rules build in order. The first sections teach what a band is and how to keep it alive. The middle sections teach how it earns and what it costs. The later sections introduce the people who make the band something more than a payroll, and the consequences that follow when the band becomes something the Ravenlands cannot ignore.
 
-A party of adventurers can clear a dungeon, kill a monster, and walk home with whatever they found. A mercenary band can hold a road, break a siege, and change who controls a stretch of road for the rest of the season. The scale is different. The problems are different. The rewards last longer and the failures are harder to walk away from.
+A party of adventurers clears a dungeon and goes home. A mercenary band holds a road, breaks a siege, and decides who controls the approaches until the job ends. The scale shifts and the failures are harder to leave behind.
 
-You do not need this chapter to play Forbidden Lands. You need it if you want the weight of command — the daily grind of mouths to feed, wages to scrape together, and men who will follow you as long as the arithmetic works, and not one day longer.
+You do not need this chapter to play Forbidden Lands. You need it if you want the weight of command — mouths to feed, wages to scrape, and men who will stay only as long as the arithmetic works, and not one day longer.
 
 ---
 

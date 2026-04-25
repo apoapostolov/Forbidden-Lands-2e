@@ -358,7 +358,7 @@ Every adventurer rolls _SCOUTING_ when avoiding ambushes. Add up all ⚔️ roll
 
 #### LORE (WITS)
 
-Myths and legends are not just tales to amuse around the campfire. They often contain vital knowledge about the Forbidden Lands that has been passed down through generations. Roll for _LORE_ when you want to know more about an adventure site, an important NPC, or an artifact. If you succeed, you will remember a legend about it. Some legends are available as premade handouts.
+Myths and legends carry vital knowledge about the Forbidden Lands, passed down through generations. Roll for _LORE_ when you want to know more about an adventure site, an important NPC, or an artifact. If you succeed, you will remember a legend about it. Some legends are available as premade handouts.
 
 #### SURVIVAL (WITS)
 

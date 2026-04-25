@@ -1,7 +1,6 @@
 # Traderoads of the Forbidden Lands
 
 > "A silver coin becomes ten in the hands of a patient merchant. A fool with ten lets them slip away."
->
 > — Bartel the Ledger, factor to the Gristle's company
 
 ## The Caravan

@@ -1,8 +1,8 @@
-<!-- markdownlint-disable MD013 -->
+<!-- markdownlint-disable MD013 MD028 -->
 
 ## Lifepaths of the Forbidden Lands
 
-This section builds your adventurer through years of work, hardship, ruin, and hard-won skill before the game begins. Instead of distributing skill points from a list, you follow a chain of life cycles — each one a stretch of duty, weather, luck, or fear — that leave your character scarred, burdened, and rooted in the Forbidden Lands.
+This section builds your adventurer through the years before the game begins — bad luck, bad choices, and whatever skill survived both. Instead of distributing skill points from a list, you follow a chain of life cycles — each one a stretch of duty, weather, luck, or fear — that leave your character scarred, burdened, and rooted in the Forbidden Lands.
 
 The life generator is slower than the standard method described in Chapter 2. Use it when your group wants more history, more hooks, and a deeper sense of the road that brought each adventurer to the table. It does not change the rest of character creation unless the text below says otherwise.
 
@@ -11,7 +11,7 @@ The life generator is slower than the standard method described in Chapter 2. Us
 Use the life generator when your group wants any of the following:
 
 - Characters who feel worn into shape rather than assembled from a list
-- A stronger sense of age, failed starts, and second lives
+- A character who has already failed at something and carries it
 - More contacts, rivals, rumors, and old debts before the first session
 - A harsher road into a final profession
 

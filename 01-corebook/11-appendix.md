@@ -6,9 +6,9 @@
 
 Player characters in Forbidden Lands are fragile things. A single blow can leave them bleeding to death on the floor, an unlucky roll can compromise a carefully laid plan, and a rushed action can risk the lives of the entire party. The Heroic Campaign optional rules reshape that baseline into a larger-than-life cadence with a Sword & Sorcery pulse, where characters hurl themselves into peril and barely escape with their honor intact.
 
-Heroes in this mode are not saviors or saints. Their victories are personal, their motives sharp, their appetites plain: coin, revenge, and the next hard‑won victory. This tone fits high heroism and the darker breath of demonic menace alike, where the world is cruel, the stakes are real, and the heroes still press forward.
+Heroes in this mode fight for coin, revenge, or the next hard-won victory — not for any land or common good. This tone fits high heroism and the darker breath of demonic menace alike, where the world is cruel, the stakes are real, and the heroes still press forward.
 
-Whether by divine providence or hard‑won narrative momentum, they can resist more blows and take risks that no ordinary mortal would dare. They may not be the heroes of the land, but they are the heroes of their own saga.
+Whether by luck or sheer bloody refusal to fall, they can resist more blows and take risks that would kill an ordinary man. They are the heroes of their own story.
 
 What keeps these characters from succumbing to their foes is their magnificent VIGOR and RESOLVE, and their extraordinary WILLPOWER.
 

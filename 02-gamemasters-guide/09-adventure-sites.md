@@ -42,6 +42,8 @@ You can create one or more adventure sites before a session, for instance, one i
 
 While large tracts of the Forbidden Lands are sparsely populated, many villages dot the landscape. Use the tables below to create a village or settlement.
 
+For a fuller treatment of settlement history, people, and decline, see Chapter 10.
+
 ### Size of the Village
 
 | **D6** | **SIZE** | **INHABITANTS** |
@@ -1806,7 +1808,7 @@ If the adventurers help Harama die, he may give them his magical soup stone as t
 - **STRENGTH** **6**, **AGILITY** **2**, **WITS** **3**, **EMPATHY** **2**
 - **SKILLS:** Melee 2, Lore 2, Manipulation 2
 - **GEAR:** Cleaver, soup stone
-* **HARAMA’S SOUP STONE:** Looks like a piece of shimmering, milky agate shaped like the egg of a goose. Putting it in a soup or stew while cooking will make the food so delicious that anyone who eats it will become temporarily sympathetic to the chef. The chef gets +3 on all rolls for MANIPULATION directed towards people who have eaten of the meal.
+- **HARAMA’S SOUP STONE:** Looks like a piece of shimmering, milky agate shaped like the egg of a goose. Putting it in a soup or stew while cooking will make the food so delicious that anyone who eats it will become temporarily sympathetic to the chef. The chef gets +3 on all rolls for MANIPULATION directed towards people who have eaten of the meal.
 
 ### Events
 

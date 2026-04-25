@@ -2,7 +2,7 @@
 
 > "What's in a name?" Mormelan asked while wiping blood from his blade on a silk handkerchief. "That which we call a heart, by any word would bleed as rich." Reubenwald was in no shape to respond, clutching his bleeding chest, but his left hand reached for his grandmother's magical dagger, hidden in his boot.
 
-Life as an adventurer is hard and often violent. You can run into wild beasts, malicious raiders, cold-souled Rust Brothers, and demonic monsters. When someone gets in your way, sometimes you have no choice but to hack your way through them. Combat can be rough for your player character and can even be lethal. Before you enter combat, you should always ask yourself: Is it worth it?
+Life as an adventurer is hard and often violent. You can run into wild beasts, raiders, Rust Brothers, and things that should not be alive. When someone gets in your way, sometimes you have no choice but to hack your way through them. Combat can be rough for your player character and can even be lethal. Before you enter combat, you should always ask yourself: Is it worth it?
 
 ### ROUNDS & INITIATIVE
 

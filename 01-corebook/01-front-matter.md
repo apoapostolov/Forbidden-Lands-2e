@@ -68,7 +68,7 @@ To keep their vile corruption from spreading, our wise king built a great wall a
 
 To this day, the demon-king and his daughter still rule there. Using the feared Rust Brothers, and the demonic Blood Mist sucking the life out of anyone who dared stray too far from their hearth, Zygefor and Therania have kept the human folks who still live north of the wall under their heel.
 
-Yet, not all is lost. For now, the Blood Mist has lifted and there are those who dare defy the demon-king and his daughter. Adventurers. Treasure hunters. Scoundrels. Not heroes, far from it, but men and women who dare travel the land as they choose and make their own mark on it, unbound by any fate or story set for them. They hunt for ancient treasures, they fight whomsoever gets in their way, they build a new world for themselves on the ruins of the old.
+Yet, not all is lost. For now, the Blood Mist has lifted and there are those who dare defy the demon-king and his daughter. Adventurers. Treasure hunters. Scoundrels. Not heroes, far from it, but men and women who dare travel the land as they choose and make their own mark on it, unbound by any fate or story set for them. They hunt for ancient treasures, fight whomsoever gets in their way, and build new lives from the ruins of the old.
 
 They are the raiders of the Forbidden Lands.
 
