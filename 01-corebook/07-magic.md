@@ -4,9 +4,9 @@
 
 > The eyes of Braka the Stone Singer had turned grey as granite, her mouth gaping like a pit. As the walls of the gorge listened and leaned in, the orcs hesitated in their onslaught. With a piercing cry, Braka raised her arms, and with them a being of pure stone rose out of the cliff.
 
-What most people call magic is a catch-all term for forces at work behind the veil of the world, beyond what the common folk understand or dare perceive. The magic users of the Forbidden Lands are a diverse group of individuals, including both Sorcerers and Druids (see Chapter 2).
+What most people call magic is a word for things that happen without explanation — fire without fuel, stone that moves, wounds that close at a word. The magic users of the Forbidden Lands are a diverse group of individuals, including both Sorcerers and Druids (see Chapter 2).
 
-Magic is a wild and unreliable force that can manifest itself in many ways. There are no schools of magic, instead knowledge is transferred from master to apprentice in a number of broad categories, called disciplines.
+Magic does not behave. Knowledge passes from master to apprentice in broad categories called disciplines — not schools, not traditions, just names for what worked.
 
 There are seventeen disciplines in the Forbidden Lands — eight of sorcery and nine of druidic magic. Every discipline is linked to a specific talent (see Chapter 4), that is a prerequisite to be able to cast spells within each discipline.
 

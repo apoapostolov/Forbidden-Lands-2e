@@ -573,3 +573,315 @@ revised without a full voice check.
 
 1. Violations 15–17 (Chapters 8–9 intro phrases) — single-phrase
    replacements.
+
+---
+
+## Chapters 10–14 Audit
+
+### Chapter 10 — Gear
+
+**Fiction vignette:**
+
+> _"Oil is well and all, but nothing beats the spit of a ginger
+> girl for a better grip!"_ Haggamur mused, as he dipped the cloth
+> and greased his axe with it by the campfire in the night.
+> _"Like any girl ever let you close!"_ Molder said from the fire.
+> _"But he does know everything about a good grip on his shaft,"_
+> laughed Miria Mott.
+
+**Assessment: STRONG.** Three voices, three beats, all physical.
+The punchline is earned. No inflation, no narrator softening.
+
+---
+
+**Narrative prose assessed:**
+
+Supply definitions, Economy and Prices, Crafting and Labor —
+all functional, clean, and registrationally appropriate. The
+economic realism prose ("Markets in the Ravenlands run like
+early medieval exchanges: local, personal, and shaped by
+scarcity more than coin") is specific and grounded.
+
+**Chapter 10 summary: 0 violations.** This chapter is
+predominantly tables. The vignette and economy narrative sections
+are the best functional prose in the corebook — physical,
+specific, no inflation vocabulary.
+
+---
+
+### Chapter 11 — Appendix (Heroic Campaign Rules)
+
+**No fiction vignette.** The chapter opens with an epigraph
+from Robert E. Howard's Conan saga. Epigraphs are canonical
+quotes — they are not manuscript prose and are not assessed.
+
+---
+
+**Violation 18** — Heroic Campaign intro, Pattern 9
+(Negative-Then-Positive):
+
+> "Heroes in this mode are not saviors or saints. Their
+> victories are personal, their motives sharp, their appetites
+> plain: coin, revenge, and the next hard‑won victory."
+
+"Not saviors or saints" is the negative-definition preamble.
+The functional description starts at "Their victories are
+personal." The opening sentence is a throat-clearing negative
+that delays the real statement.
+
+---
+
+**Violation 19** — Heroic Campaign intro, Pattern 9
+(Negative-Then-Positive, formula):
+
+> "They may not be the heroes of the land, but they are the
+> heroes of their own saga."
+
+Textbook Pattern 9. The sentence performs the "not X but Y"
+elevation move. The word "saga" also drifts into the self-aware
+genre vocabulary the voice guide warns against (Pattern 42,
+Fantasy Register Drift in meta-language).
+
+---
+
+**Violation 20** — Heroic Campaign intro, Pattern 6
+(Abstract Noun Preference):
+
+> "Whether by divine providence or hard‑won narrative momentum,
+> they can resist more blows and take risks that no ordinary
+> mortal would dare."
+
+"Narrative momentum" is corporate-register vocabulary inside
+game-book fiction framing. A character does not survive blows
+because of "narrative momentum" — they survive because they
+refuse to fall, or because luck has not run out. The phrase
+transfers agency from the character to a story mechanic.
+"Ordinary mortal" is also generic fantasy register.
+
+---
+
+**Chapter 11 summary:** 3 violations, concentrated in the
+introductory framing paragraph of the Heroic Campaign
+optional rules. The mechanical sections (VIGOR, RESOLVE,
+WILLPOWER, MENACE) are clean. The Howard epigraphs
+are not manuscript prose and are not assessed.
+
+---
+
+### Chapter 12 — Mercenaries of the Forbidden Lands
+
+**Fiction vignette (opening ford passage):**
+
+> _She counted heads at the ford and came up one short._
+
+**Assessment: STRONG.** The best vignette in the corebook.
+Physical, specific, no narrator inflation. The arithmetic
+observation ("feed the ones who stayed, pay the ones who
+fought, bury the ones who fell, and forget the ones who
+walked off in the dark") is the correct register throughout.
+The Gristle's line is earned.
+
+---
+
+**Violation 21** — "What This Chapter Is" section, Pattern 8
+(Rule-of-Three × 2 consecutive):
+
+> "A party of adventurers can clear a dungeon, kill a monster,
+> and walk home with whatever they found. A mercenary band can
+> hold a road, break a siege, and change who controls a stretch
+> of road for the rest of the season."
+
+Two consecutive Rule-of-Three sentences where each action-set
+has exactly three items in the same grammatical form. The pattern
+doubles on itself, which is more noticeable than a single
+instance.
+
+---
+
+**Violation 22** — "What This Chapter Is" section, Pattern 8
+extended (anaphoric stacking):
+
+> "The scale is different. The problems are different. The
+> rewards last longer and the failures are harder to walk away
+> from."
+
+Three consecutive short sentences in increasing rhythm toward a
+compound conclusion. The anaphoric opening ("The X is different.
+The Y is different.") is a deliberate stylistic move, but it
+arrives immediately after the two Rule-of-Three sentences
+above — it reads as a continuation of the same pattern rather
+than a tonal shift.
+
+---
+
+**Violation 23** — "What This Chapter Is" section, Pattern 7
+(Em-Dash Cluster) + Pattern 8:
+
+> "you want the weight of command — the daily grind of mouths
+> to feed, wages to scrape together, and men who will follow you
+> as long as the arithmetic works, and not one day longer."
+
+The em-dash introduces a three-item elaboration. The content
+is specific and strong ("the arithmetic works, and not one day
+longer" is the correct kicker). The structural form — em-dash
+opening a three-part build — is the pattern. The kicker earns
+its keep; the em-dash setup does not.
+
+---
+
+**Chapter 12 summary:** 3 violations in the introductory
+narrative section. The vignette and the key-terms section are
+clean. The bulk of the chapter (band mechanics, morale, named
+men) is functional rules prose with minimal narrative. The
+fiction vignette at the start of "The Band" section is also
+strong.
+
+---
+
+### Chapter 13 — Lifepaths of the Forbidden Lands
+
+**No fiction vignette.**
+
+---
+
+**Violation 24** — Chapter intro, Pattern 8 (four-item rhythm):
+
+> "This section builds your adventurer through years of
+> **work, hardship, ruin, and hard-won skill** before the game
+> begins."
+
+Four-item accumulation with the same rhetorical weight as
+Pattern 8. "Hard-won skill" carries inflation vocabulary
+("hard-won" signals that earning the skill was meaningful, but
+that significance is already implied by the survival context).
+
+---
+
+**Violation 25** — "Use This Method" section, Pattern 8
+(Rule-of-Three):
+
+> "A stronger sense of age, failed starts, and second lives"
+
+Three-item bullet. "Second lives" is the abstract noun — what
+it means in concrete terms is that the character has changed
+paths at least once. "Failed starts and second lives" is a pair
+of euphemisms for failure and recovery; the more direct
+observation would be more useful.
+
+---
+
+**Chapter 13 summary:** 2 violations in introductory prose.
+Both are in lists or near-list structures, which reduces their
+impact compared to flowing-prose violations. The procedural
+sections (rolling, kin tables, reference guide) are clean.
+
+---
+
+### Chapter 14 — Traderoads of the Forbidden Lands
+
+**Epigraph:**
+
+> "A silver coin becomes ten in the hands of a patient merchant.
+> A fool with ten lets them slip away."
+> — Bartel the Ledger, factor to the Gristle's company
+
+**Assessment: CLEAN.** Character voice, in-world attribution.
+Not assessed as manuscript prose.
+
+---
+
+**Narrative prose assessed:**
+
+The caravan introduction ("A caravan is any organized trade
+expedition that moves goods between settlements for profit.
+It may be as small as a peddler with a laden mule, or as large
+as a six-wagon train with guards, factors, and a scout riding
+ahead.") is specific and functional. The tables dominate the
+chapter. No narrative violations found.
+
+**Chapter 14 summary: 0 violations.** Functional, specific,
+no inflation vocabulary in assessed prose.
+
+---
+
+## Summary Table (Full Corebook)
+
+| Chapter | P1 | P2 | P3 | P5 | P6 | P7 | P8 | P9 | P16 | P24 | P38 | Total |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Ch01 Front Matter | — | — | — | — | — | — | 1 | — | — | — | — | 1 |
+| Ch02 Adventurer | 2 | 1 | 1 | 1 | — | 1 | 4 | — | — | 1 | — | 9 |
+| Ch03 Skills | — | — | — | — | — | — | — | — | 1 | — | — | 1 |
+| Ch04 Talents | — | — | — | — | — | — | — | — | — | — | — | 0 |
+| Ch05 Combat | 1 | — | — | — | — | — | 1 | — | — | — | — | 2 |
+| Ch06 Critical Injuries | — | — | — | — | — | — | — | — | — | — | — | 0 |
+| Ch07 Magic | — | 1 | — | — | 1 | — | — | — | — | — | — | 2 |
+| Ch08 Journeys | — | 1 | — | — | — | — | — | — | — | — | — | 1 |
+| Ch09 Stronghold | — | — | — | — | 1 | — | — | — | — | — | 1 | 2 |
+| Ch10 Gear | — | — | — | — | — | — | — | — | — | — | — | 0 |
+| Ch11 Appendix | — | — | — | — | 1 | — | — | 2 | — | — | — | 3 |
+| Ch12 Mercenaries | — | — | — | — | — | 1 | 2 | — | — | — | — | 3 |
+| Ch13 Lifepaths | — | — | — | — | — | — | 2 | — | — | — | — | 2 |
+| Ch14 Traderoads | — | — | — | — | — | — | — | — | — | — | — | 0 |
+| **Total** | **3** | **3** | **1** | **1** | **3** | **2** | **10** | **2** | **1** | **1** | **1** | **25** |
+
+_Pattern codes: P1 Significance Inflation · P2 Fantasy-Register
+Drift · P3 Corporate Register · P5 Promotional Language · P6
+Abstract Noun Preference · P7 Em-Dash Cluster · P8 Rule-of-Three
+· P9 Negative-Then-Positive · P16 Not-Just-X-But-Y · P24
+Sympathetic Narrator Insert · P38 Quest-Hook Framing_
+
+---
+
+## Updated Pattern Distribution
+
+**Pattern 8 (Rule-of-Three):** Highest frequency (10
+occurrences across the full corebook). Concentrated in Ch02
+and Ch12. Chapter 12's "What This Chapter Is" section has
+three consecutive instances (V21, V22, V23).
+
+**Patterns 1 and 2 (Significance Inflation, Fantasy-Register
+Drift):** Three occurrences each. Scattered. No single chapter
+dominates.
+
+**Pattern 9 (Negative-Then-Positive):** Two occurrences, both
+in Ch11 (Heroic Campaign). Not found elsewhere in the corebook
+prose — previously noted as absent in Ch1–9.
+
+**Pattern 6 (Abstract Noun Preference):** Three occurrences
+(Ch07, Ch09, Ch11). The Ch09 and Ch08 instances share the
+"restless" vocabulary cluster.
+
+**Patterns 3, 5, 7 (Corporate Register, Promotional Language,
+Em-Dash Cluster):** One or two occurrences each. Low severity
+individually.
+
+**Patterns 16, 24, 38:** Single occurrences. Lowest priority.
+
+---
+
+## Priority for Revision (Full Corebook)
+
+**High:**
+
+1. Ch02 civilized/uncivilized section — V5 through V9,
+   including V7 (Sympathetic Narrator Insert: remove the
+   sentence).
+
+2. Ch12 "What This Chapter Is" — V21 through V23, three
+   consecutive pattern violations in one paragraph.
+
+**Medium:**
+
+1. Ch02 kin vocabulary — V2, V3, V4.
+2. Ch07 magic intro — V13, V14.
+3. Ch11 Heroic Campaign framing — V18, V19, V20.
+
+**Low:**
+
+1. Ch01 — V1.
+2. Ch03 — V11.
+3. Ch05 — V12.
+4. Ch08 — V15.
+5. Ch09 — V16, V17.
+6. Ch02 lifepath table — V10.
+7. Ch13 — V24, V25.

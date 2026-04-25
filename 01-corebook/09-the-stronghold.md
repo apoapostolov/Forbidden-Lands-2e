@@ -6,7 +6,7 @@
 >
 > "So you'll hire the clan stonemasons before winter?" said Vons of Horn, and the dwarf gaped at the gall of the human.
 
-Adventurers are restless by nature, but even you might one day want to settle down somewhere. If you live long enough to gather significant treasures, you can use your riches to create your own stronghold in the Forbidden Lands. In the stronghold, you can rest between your journeys, repair and build items, and even acquire hirelings to work for you. Who knows, one day you might even become rulers of a kingdom of your own?
+Even an adventurer can tire of sleeping rough. If you live long enough to gather significant treasures, you can use your riches to create your own stronghold in the Forbidden Lands. In the stronghold, you can rest between your journeys, repair and build items, and hire men to work for you.
 
 The drawback of having a stronghold is that it can draw unwelcome attention, and it's risky to leave your stronghold unattended.
 
