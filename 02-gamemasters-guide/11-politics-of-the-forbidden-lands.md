@@ -90,7 +90,7 @@ You can still use these rules for powers that are small in land but wide in cons
 
 ### Creating a Faction
 
-Build a faction in this order.
+Build a faction in this order. The sequence matters because each step tells you how the next one should feel. Seat before strength. Rule before resources. Aim before weakness. If you reverse that logic, you get numbers first and a power second, which is exactly how machine-written factions start sounding alike.
 
 1. **Name the seat.** Where does this power stand?
 2. **Choose the basis of rule.** Why do people obey?
@@ -120,7 +120,7 @@ Leave every other faction skill at 0.
 
 ### The Faction Sheet
 
-Record the following.
+Record the following on one working sheet. Think of it as the same kind of ledger a careful steward or shrine-keeper would keep: not a grand history, but a living count of what still answers, what has gone cold, what can be spent, and what may break first when the weather, the levy, or the neighbors all turn at once.
 
 - Name
 - Seat
@@ -450,9 +450,7 @@ Example: Stonewall breaks Fenwick, secures the ferry, and forces the river road 
 
 ### The Roll
 
-A faction act is resolved with:
-
-**attribute + skill + one asset die + modifiers**
+A faction act is resolved with **attribute + skill + one asset die + modifiers**. Keep that frame plain and do not hide it under clever exceptions. Faction play is easiest to run when the GM can look from the fiction to the numbers and back again without losing the thread of who is pressing whom and what resource is truly being risked.
 
 The asset die is a normal d6. It represents a relevant stronghold function, shrine, market charter, road net, named lieutenant, hostage, or prepared advantage. A faction normally gains **one** asset die, not more. If several advantages apply, choose the most important one.
 
@@ -471,7 +469,7 @@ When another faction actively resists, both sides roll. The higher number of suc
 
 ### Extra Successes
 
-Extra successes matter.
+Extra successes matter because political acts are rarely simple yes-or-no events. One bargain may hold only for a month while another binds a valley for a year. One levy may arrive in bad temper while another comes with carts already loaded and village elders publicly committed to the campaign.
 
 - In diplomacy, they improve terms.
 - In collection, they widen compliance or increase yield.
@@ -484,9 +482,7 @@ Do not roll just because a faction exists. Roll when another will, another short
 
 ### Pushing
 
-Factions may push rolls.
-
-When a faction pushes:
+Factions may push rolls when a ruler wants the result more than the health of the thing being spent to get it. When a faction pushes:
 
 - **banes on base dice** damage the relevant attribute
 - **banes on asset dice** damage, expose, or poison the asset: a bridge wrecked by haste, a priest alienated, a steward compromised, a hostage mishandled, a settlement turned cold
@@ -529,6 +525,8 @@ Every important settlement stands in one of these relations to a faction.
 
 A settlement can change status. That is most of politics.
 
+In a pre-feudal land, those changes are rarely written cleanly and almost never enforced by a distant office. They are enforced by who keeps the ford, who witnesses the oath, who holds the hostage, and whose men arrive first when cattle are driven off in the rain. One village may call itself ruled while thinking of itself as bought protection. Another may call itself protected while knowing perfectly well that the next missed tribute will bring armed collectors through the gate.
+
 ### Political Instruments
 
 These are the common tools of power.
@@ -546,6 +544,8 @@ These are the common tools of power.
 **Temple Sanction** — A shrine, priesthood, or cult makes rule cleaner or dirtier in the eyes of the faithful.
 
 **Outlawry** — A person or household is stripped of ordinary protection and may be seized, hunted, or denied shelter.
+
+These instruments matter because rule in the Ravenlands is personal before it is territorial. A hall does not govern by parchment drifting down a chain of clerks. It governs because a known face stands at the gate with witnesses, because a priest names who broke faith, because a child of the right blood eats under another roof, because ferrymen know which banner will avenge them and which one will only promise. Use that reality when deciding what any bargain, oath, or threat actually means.
 
 ### Standing and Reputation
 
@@ -584,7 +584,7 @@ Track the state of hostility between factions.
 
 Advance the track when insult is not repaired, when dues are forced, when roads are cut, when blood is spilled, or when occupation begins.
 
-Reduce it through:
+Reduce it only through acts that would convince suspicious people the quarrel has truly been lowered:
 
 - public compensation
 - witnessed apology backed by real payment
@@ -594,6 +594,8 @@ Reduce it through:
 - one full quiet season without contact
 
 Do not reduce Feud simply because time passed if the injury remains visible.
+
+Old-world politics is full of men who say the matter is settled while everyone at table can still point to the burned barn, the unpaid blood price, or the empty place where a hostage used to sleep. A feud is lowered by compensation that bites, by witnessed submission, by useful marriage, by shared enemies, or by some heavier fear pushing both sides to quiet. Words alone seldom do it unless those words come wrapped in silver, sons, or surrender.
 
 ---
 
@@ -605,6 +607,8 @@ Do not reduce Feud simply because time passed if the injury remains visible.
 
 A faction acts in one of four states.
 
+These states are not moods. They are changes in how the whole body of rule spends itself. In **Peace**, authority is tested by dues, law, repair, and who comes when called. In **Pressure**, the same authority begins to lean harder on roads, kin, and hidden debts. In **Muster** and **Campaign**, all the small bargains that held the realm together are converted into carts, fodder, watchfires, and men with spears.
+
 | STATE | WHAT IT LOOKS LIKE |
 | --- | --- |
 | **Peace** | ordinary dues, local judgment, patrols, gifts, trade, small repairs |
@@ -614,7 +618,7 @@ A faction acts in one of four states.
 
 ### Season Turn
 
-Use this in **Peace** and **Pressure**.
+Use this in **Peace** and **Pressure**, when the struggle is still being measured in dues, law, rumor, and local obedience rather than open marching.
 
 Resolve each major faction in this order.
 
@@ -624,9 +628,11 @@ Resolve each major faction in this order.
 4. **Choose Acts** — one major act and one minor act.
 5. **Resolve Consequences** — Standing shifts, Feud shifts, status shifts, stores rise or fall.
 
+Run the Season Turn as a count of frictions, not as an empty administration phase. Who paid short? Which oath is beginning to sour? Which road is still open only because one tired captain has not yet decided he has had enough? A healthy faction survives the season because these questions remain small. A failing one turns each of them into next month's crisis.
+
 ### Campaign Week
 
-Use this in **Muster** and **Campaign**.
+Use this in **Muster** and **Campaign**, when movement, fodder, convoy timing, and the temper of armed men matter more than speeches in the hall.
 
 Resolve each active faction in this order.
 
@@ -636,9 +642,11 @@ Resolve each active faction in this order.
 4. **Check Burden** — apply extraction, hunger, disease, or local resentment.
 5. **Escalate or Hand Off** — if a real battle begins, go to **BATTLES & SIEGES**.
 
+Campaign Week is where a faction learns whether its glory can survive arithmetic. Men must be fed before they can be brave. Horses founder before banners do. A host can look fearsome at dawn and begin dissolving by dusk because the wagons failed, the ferrymen took bribes, or the villages ahead had already hidden their barley in pits under dung and brush.
+
 ### Major and Minor Acts
 
-A faction normally takes:
+A faction normally takes the following actions in a turn. These limits matter because even a powerful ruler can only lean in so many directions at once before some other obligation is left to sour.
 
 - **one major act** per Season Turn
 - **one minor act** per Season Turn
@@ -656,9 +664,9 @@ If the player characters are the knife-edge of the act, let the faction roll set
 
 ### Ordinary Dues
 
-A stable power does not collect at war rate.
+A stable power does not collect at war rate. It collects through custom, memory, and the village's wish to avoid worse hands than the collector's. That is why ordinary dues are dangerous to mishandle. Once the people begin to feel that every visit from the hall takes more than custom allows, they stop reading the collector as part of rule and start reading him as the first man of an occupation.
 
-Ordinary dues are:
+Ordinary dues are the regular extractions that a settlement can recognize as part of the known order, even if it dislikes paying them:
 
 - tax
 - rent
@@ -698,7 +706,7 @@ A settlement can be asked for, per week:
 - up to **five times its population in copper** as the outer acceptable cash demand
 - more than that only by destructive over-extraction
 
-Chapter 11 decides **who is asked** and **what it costs politically**. Chapter 12 tells you the hard physical ceiling.
+Chapter 11 decides **who is asked** and **what it costs politically**. Chapter 12 tells you the hard physical ceiling. A village can survive one week of hard taking and still look whole from the road. It may take a season for the truth to show itself in pawned tools, thin seed grain, daughters married badly for bread, or three households slipping away before dawn with what animals they can still drive.
 
 ### Burden Levels
 
@@ -715,9 +723,11 @@ Chapter 11 decides **who is asked** and **what it costs politically**. Chapter 1
 
 Use **Mandate + Accord** or **Hearth + Yield** when tribute is recognized and grudgingly accepted. Use **Iron + Assault** or **Mandate + Decree** when tribute is imposed by open pressure. Toll rights rely on **Road + Traffic**. A toll road that is not watched is only a place where armed men take coin until someone stronger arrives.
 
+Treat tolls and tribute as a question of legitimacy every time. A ferryman pays one lord because his father did, another because that lord keeps raiders away, and a third because spears are already on the bank and arguing would only get his sons beaten. The money may look the same in the chest. The kind of obedience behind it is not the same at all, and it matters the first time the road goes dangerous.
+
 ### Over-Collection
 
-Over-collection has visible costs.
+Over-collection has visible costs, and those costs are usually delayed just long enough to tempt a foolish ruler into thinking he got away with it.
 
 - Standing falls.
 - Mandate is damaged.
@@ -727,6 +737,8 @@ Over-collection has visible costs.
 - Villagers hide stores, flee, or invite a rival power in.
 
 Do not make the political cost vague. Name the harmed household, the shuttered market, the empty byre, the closed gate.
+
+That naming matters because over-collection rarely breaks a realm all at once. It breaks it by turning specific people into future enemies. The ferryman whose daughter went hungry remembers. The steward who had to choose which widow paid full remembers. The village that smiled and handed over grain this month may already be measuring whether a rival banner, an outlaw band, or a shrine with sharper promises would cost less next winter.
 
 ---
 
@@ -749,41 +761,31 @@ A faction binds a settlement under rule or protection. Roll with **Mandate + Acc
 | settlement has another suitor or old protector | 2 |
 | settlement distrusts the faction | 3 |
 
-On success, the settlement becomes **Protected**. With 2+ extra successes, it may become **Ruled** if the fiction supports direct lordship. On failure, Standing falls by 1 and the settlement seeks another shield.
-
-Protection that is never proved rots fast. If the faction won this act because the village feared raiders, the first missed patrol, burned barn, or robbed cart should test that new bond immediately.
+On success, the settlement becomes **Protected**. With 2+ extra successes, it may become **Ruled** if the fiction supports direct lordship. On failure, Standing falls by 1 and the settlement seeks another shield. Protection that is never proved rots fast. If the faction won this act because the village feared raiders, the first missed patrol, burned barn, or robbed cart should test that new bond immediately.
 
 ### Collect Due
 
 A faction gathers ordinary dues, delayed payment, or tithe. Roll with **Hearth + Yield**.
 
-On success, coin, grain, labor, or transport comes in as expected. On failure, payment is short, delayed, or actively contested.
-
-Use this act for ordinary collection, not for wringing blood out of a place already on the edge. If the sacks come in under spearpoint, or the villagers watch from behind barred doors, you are no longer collecting due. You are imposing tribute or burden, and the cost should be paid elsewhere on the sheet.
+On success, coin, grain, labor, or transport comes in as expected. On failure, payment is short, delayed, or actively contested. Use this act for ordinary collection, not for wringing blood out of a place already on the edge. If the sacks come in under spearpoint, or the villagers watch from behind barred doors, you are no longer collecting due. You are imposing tribute or burden, and the cost should be paid elsewhere on the sheet.
 
 ### Press a Claim
 
 A faction asserts inheritance, old boundary, temple right, or lawful possession. Roll with **Mandate + Claim**.
 
-On success, the claim becomes politically real. Another faction must now answer it or suffer Standing loss where the claim matters. On failure, the claimant looks grasping, weak, or false, and Mandate takes 1 damage if the claim was pressed publicly.
-
-A claim is strongest when it can be pointed to: an old cairn, a marriage chest, a witness too stubborn to lie, a shrine book that still carries the right seal. If there is nothing to show, the roll is still possible, but the result should feel thinner and more exposed.
+On success, the claim becomes politically real. Another faction must now answer it or suffer Standing loss where the claim matters. On failure, the claimant looks grasping, weak, or false, and Mandate takes 1 damage if the claim was pressed publicly. A claim is strongest when it can be pointed to: an old cairn, a marriage chest, a witness too stubborn to lie, a shrine book that still carries the right seal. If there is nothing to show, the roll is still possible, but the result should feel thinner and more exposed.
 
 ### Swear Fealty
 
 A lesser power binds upward. Roll with **Mandate + Accord**.
 
-On success, the lesser power becomes **Vassal** or **Ally** as negotiated. Hostages, marriage, or witnessed oaths can add one asset die. On failure, the negotiation sours, and Feud may advance if either side pushed too hard.
-
-Fealty is easiest to win from the afraid, the isolated, or the recently saved. It is hardest to win from a power that still believes it has another road open. If you want the oath to last, say what was promised upward and what was promised back down.
+On success, the lesser power becomes **Vassal** or **Ally** as negotiated. Hostages, marriage, or witnessed oaths can add one asset die. On failure, the negotiation sours, and Feud may advance if either side pushed too hard. Fealty is easiest to win from the afraid, the isolated, or the recently saved. It is hardest to win from a power that still believes it has another road open. If you want the oath to last, say what was promised upward and what was promised back down.
 
 ### Give Safe-Conduct
 
 The faction guarantees passage, convoy, or legal peace along a named route. Roll with **Road + Traffic**.
 
-On success, trade, messengers, or travelers move under the faction's name. A second failure to protect the same route damages Mandate as well as Road.
-
-Safe-conduct is not a speech. It is men at the ford, torches at the ferry, one hanged robber left where the next two can see him, and a merchant who reaches the next bridge with every chest still nailed shut.
+On success, trade, messengers, or travelers move under the faction's name. A second failure to protect the same route damages Mandate as well as Road. Safe-conduct is not a speech. It is men at the ford, torches at the ferry, one hanged robber left where the next two can see him, and a merchant who reaches the next bridge with every chest still nailed shut.
 
 ### Take Hostage
 
@@ -804,21 +806,19 @@ Hostages work because everyone can picture the face in the room where the doors 
 
 The ruler gathers powers, households, priests, or captains and tries to hold the room together long enough to decide something. Roll with **Mandate + Rite** or **Mandate + Decree**.
 
-On success, judgment or agreement stands for now. On failure, factions leave angrier than they arrived, Mandate takes 1 damage, and one local power holder chooses a side openly.
-
-Councils fail more often from pride than from law. When this act goes bad, do not make the failure abstract. Name the man who walked out, the widow who laughed in the wrong place, the priest who refused the cup, or the captain who touched sword-hilt before the room was done talking.
+On success, judgment or agreement stands for now. On failure, factions leave angrier than they arrived, Mandate takes 1 damage, and one local power holder chooses a side openly. Councils fail more often from pride than from law. When this act goes bad, do not make the failure abstract. Name the man who walked out, the widow who laughed in the wrong place, the priest who refused the cup, or the captain who touched sword-hilt before the room was done talking.
 
 ### Judge or Outlaw
 
 The faction declares punishment, blood price, sentence, or exclusion. Roll with **Mandate + Decree**.
 
-On success, the judgment holds. On failure, it looks partial, weak, or unlawful, and if the punished side has kin or backing, Feud advances.
-
-Good judgment is one of the few ways a faction can spend Mandate and still come away richer in it. Bad judgment does the opposite. It teaches every watching household that law is only another name for whichever hand reached the bench first.
+On success, the judgment holds. On failure, it looks partial, weak, or unlawful, and if the punished side has kin or backing, Feud advances. Good judgment is one of the few ways a faction can spend Mandate and still come away richer in it. Bad judgment does the opposite. It teaches every watching household that law is only another name for whichever hand reached the bench first.
 
 ### Send Gift or Bride-Price
 
 A faction tries to soften grievance, open alliance, or buy patience. Roll with **Mandate + Accord**. This act always costs Treasury or Stores if it is to matter. On success, Standing improves by 1 or Feud reduces by 1. On failure, the gift was too poor, too late, or read as insult.
+
+In a hard land, gifts are judged by use before beauty. A chest of fine cloth may impress a town household, but a spring village with two weak barns will remember the wagons of grain longer than any dyed wool. Bride-price works the same way. It is not romance made visible. It is a public measure of how much weight one side is willing to set beneath the marriage so the peace does not collapse at the first bad harvest.
 
 ### Hire Mercenaries
 
@@ -869,13 +869,19 @@ The faction hits a road, farm belt, granary, ferry, shrine, or outwork without c
 
 On failure, the raid bloodies itself, hits the wrong place, or hardens resistance instead.
 
+A raid is often more political than it first appears. Burning a granary says one thing. Driving off cattle says another. Hanging two ferrymen where the river villages can see them says a third, and that message may outlast the goods taken. Choose targets according to what the raiding faction wants remembered: weakness, reach, vengeance, or simple hunger.
+
 ### Invest a Place
 
 A faction begins siege, encirclement, or coercive isolation. Roll with **Iron + Siegecraft**. On success, the place is under investment. From the next Campaign Week onward, apply campaign burden and supply pressure. If both sides are actually in position and the action becomes open siege, go to **BATTLES & SIEGES**.
 
+Investment begins before the walls are tested. Roads are watched. Mills are denied. Fields nearest the place are stripped. Families inside count their meal sacks and try to guess whether relief will come before the first horse is slaughtered for meat. That is why even a short investment changes politics around the target. Nearby villages must decide whom they feed, what they hide, and which side will remember them afterward.
+
 ### Negotiate Truce or Peace
 
 A faction tries to stop a feud before it becomes ruinous. Roll with **Mandate + Accord**. Difficulty is the current Feud step. On success, reduce Feud by 1. With 2+ extra successes, reduce it by 2 if real concessions were made. On failure, the enemy reads weakness, stalling, or dishonor.
+
+Real peace in a land like this is made of hostages, marriages, witnesses, crossing rights, and compensation that leaves marks on both parties. If none of those things change hands, you do not have peace. You have a breathing space in which everyone sharpens tools and waits to see who blinks first.
 
 ### Failure Must Bite
 
@@ -891,6 +897,8 @@ A failed political act should never mean only nothing. On failure, choose or rol
 
 Politics that never wounds is not politics. It is weather talk.
 
+When in doubt, choose the consequence that creates the next human problem rather than the neatest accounting result. A lost point of Standing matters most when it means one gate now opens after dark instead of before, one elder delays sending word, or one vassal's son begins listening to the wrong men in the alehouse. The GM should always be able to point from the sheet to a face, a road, a barn, or a grave.
+
 ---
 
 ## Retainers, Levy, and Mercenaries
@@ -899,7 +907,7 @@ Politics that never wounds is not politics. It is weather talk.
 
 ### Sources of Force
 
-A faction fields force from five places.
+A faction fields force from five places. No pre-feudal power commands a clean standing army waiting idle for parchment orders. It pulls force from households, oaths, paid blades, shrine loyalties, and whatever hard men can be kept close enough to answer before the road turns bad. That is why the source matters as much as the numbers. Men fight differently when they are defending their own fields, chasing pay, or serving because their brother's child sleeps as hostage in another hall.
 
 1. **Retainers** — permanent sworn fighters.
 2. **Levy** — temporary service drawn from settlements or kin groups.
@@ -909,7 +917,7 @@ A faction fields force from five places.
 
 ### What Settlements Can Provide
 
-This chapter decides what a settlement can credibly put in the field. Chapter 12 decides how that force fights once formed.
+This chapter decides what a settlement can credibly put in the field. Chapter 12 decides how that force fights once formed. Be strict here. Most places can spare fewer trained bodies than a proud ruler claims after drink. A village may have fifty adults and still only yield one useful contingent, because someone must watch the animals, grind the grain, mend the harness, and keep the old and young alive while the spears are gone.
 
 | SETTLEMENT | WHAT IT CAN PROVIDE |
 | --- | --- |
@@ -921,7 +929,7 @@ This chapter decides what a settlement can credibly put in the field. Chapter 12
 
 ### Levy Service
 
-Levy is not free. It removes hands from field, flock, ferry, and workshop.
+Levy is not free. It removes hands from field, flock, ferry, and workshop. In a pre-feudal countryside, that cost bites fast because the same men who stand in line with spear and shield are the men who should be mending fence, cutting hay, watching lambing, and hauling sacks before rain gets into the grain. Long service is not only a question of morale. It is a question of whether the settlement can still function when the fighters do come home.
 
 A village levy gives **one campaign week** of ordinary service without further strain if the cause is accepted and the season permits it.
 
@@ -936,13 +944,17 @@ Each additional campaign week requires **Iron + Discipline** or **Mandate + Must
 
 A protected or tributary settlement gives shorter leash than a ruled one. A vassal may give longer if the oath is real.
 
+Season matters here. A levy called just after sowing or at the edge of harvest is costlier than the same levy called in a quiet winter month, and the people know it. A wise ruler remembers that men count service not only in danger faced but in work missed. A foolish one learns too late that the next summons is being weighed against an empty barn and a dead plow horse.
+
 ### Retainers
 
 Retainers do not vanish with harvest week. They are the hard core. A faction with **Retainers: Handful** can defend its own seat and enforce judgment nearby. A faction with **Retainers: Company** can hold roads, escort dues, and begin Campaign state without first begging villages for men. A faction with **Strong Garrison** can absorb one bad turn of levy failure without losing Iron immediately.
 
+Treat retainers as the people who make rule feel continuous. Villagers know their faces. Children know which ones kick dogs and which ones share dried apples at the gate. They are also expensive. A lord who keeps too many hard men too long without coin, plunder, or lawful work nearby is breeding the next extortion ring with his own banner stitched over it.
+
 ### Infrastructure and Force Quality
 
-Stronghold functions matter.
+Stronghold functions matter because troops do not improve by declaration alone. Better fighters come from yards to drill in, roofs to sleep under, fodder for mounts, iron that can be worked, and roads good enough that a captain can gather men before half of them melt back into their own fields.
 
 | FUNCTION OR HOLDING | WHAT IT IMPROVES |
 | --- | --- |
@@ -959,9 +971,11 @@ If the holding is not there, do not let the faction field the improved troop as 
 
 ### Mercenary Integration
 
-Not all strength comes from obedient subjects.
+Not all strength comes from obedient subjects. Some of it arrives from elsewhere with scarred shields, hard appetites, and no reason to care which lineage claims the local hill fort. That makes mercenaries useful, but it also makes them politically loud. Their presence tells every nearby settlement that coin has replaced consent somewhere inside the ruler's house.
 
 A faction may:
+
+Those choices do not carry the same smell in the world. A one-task hire says urgency. A seasonal retainer says weakness, ambition, or both. A garrison contract says the ruler no longer trusts local obedience to stand on its own.
 
 - hire a band for one task
 - retain a band for a season
@@ -974,7 +988,7 @@ A mercenary band changes politics the moment it appears. Villages that would end
 
 ### Converting to Chapter 12 Troops
 
-When you hand a faction to **BATTLES & SIEGES**, use this logic.
+When you hand a faction to **BATTLES & SIEGES**, use this logic. The point of the conversion is not to make the politics disappear. It is to carry those political truths forward so the battle still feels like the same campaign rather than a separate game suddenly dropped on top of it.
 
 In this chapter, a **contingent** is the political source of men. In Chapter 12, that contingent becomes a **troop** once its exact size and quality are set.
 
@@ -990,6 +1004,8 @@ If a faction's **Mandate** is low, reduce levy quality or willingness. If **Iron
 
 This is the handoff point where politics becomes bodies. Do not smooth over what the sheet already told you. A faction that reached war by fear, late dues, and broken roads should feel ragged when the banners finally appear.
 
+Use that principle in both directions. A disciplined, well-fed host with good Standing behind it should feel steadier before dice are ever rolled in Chapter 12. A host gathered from resentful villages, unpaid mercenaries, and one desperate shrine should feel dangerous, but dangerous in the way brushfire is dangerous: hot, fast, and always close to turning on the hand that spread it.
+
 ---
 
 ## Logistics and Campaign Burden
@@ -997,6 +1013,8 @@ This is the handoff point where politics becomes bodies. Do not smooth over what
 > _A lord who thinks war is men soon learns it is wagons. A lord who thinks it is wagons soon learns it is grain. A lord who thinks it is grain soon learns it is the villages that grow it, and that villages remember better than armies do._
 
 Before a faction enters open war, answer four questions.
+
+Ask them in that order because pre-feudal warfare breaks first at the bottom of the list and then everywhere above it. A lord may think first of honor or vengeance. His steward thinks of fodder. His ferrymen think of who will pay if the boats are burned. His villages think of how much grain can be hidden before the collectors arrive with armed witnesses.
 
 1. **Who feeds this force?**
 2. **Who pays it?**
@@ -1007,7 +1025,7 @@ If you cannot answer all four, the faction may still march. It simply marches to
 
 ### Base and Supply Line
 
-Every campaigning faction needs:
+Every campaigning faction needs the following, and each missing piece should make you suspicious that the campaign is already half-broken before the first shield is raised:
 
 - a **base** — stronghold, fortified town, major shrine, secured camp, or supply town
 - a **line** — road, river, pack trail, ferry chain, or convoy route
@@ -1032,6 +1050,8 @@ Extra successes let you combine two of these results if the fiction allows it.
 The target may restore the line with **Road + Relay**. If another faction is actively holding the cut, treat it as an opposed roll. Ties favor the line already in place.
 
 Once armies are truly in the field, use Chapter 12's exact supply rules.
+
+Supply cutting is one of the clearest ways to show that politics and war are the same struggle wearing different cloaks. A convoy fails because scouts were bribed, because a ferryman chose kin over contract, because a village did not ring the warning bell, or because some widow pointed the raiders toward the right cart out of spite for last month's collector. Let the reason matter. It tells the GM which wounds in the countryside are beginning to feed the campaign.
 
 ### Disease, Waste, and Hard Country
 
@@ -1064,6 +1084,8 @@ A faction may turn a place from **Ruled**, **Protected**, or **Tributary** into 
 - some answer to resistance
 
 Treat occupation as Campaign state even if no field army is moving. Occupation always creates Hard burden. A bad occupation becomes Crushing fast.
+
+Occupation is where weak politics tries to live off strong fear. It can hold for a while, especially if the first examples are brutal and the granaries are still full enough to pay the garrison. But no garrison is large enough to watch every path, every oven, every byre, and every whispering cousin. Sooner or later occupation either finds local hands willing to cooperate or begins bleeding itself white on a village map that never looks dangerous from a distance.
 
 **Occupation modes.** Chapter 12 identifies three immediate ways a place is held after it falls:
 
@@ -1105,6 +1127,8 @@ On failure, choose one:
 
 Occupation never ends when the gate opens. It ends when people start bringing dues without an armed escort, when the wells are no longer poisoned in rumor, and when the children of the place stop counting which house last burned. Until then, the war is merely wearing a quieter face.
 
+If you want occupation to feel true at the table, make the occupying power depend on the people it frightens. Someone still has to bake the bread, shoe the horses, bury the dead, and point out which path floods after rain. That dependency is where resistance lives. Open revolt is only one shape of it. Slow ovens, vanished nails, false directions, hidden grain, and a gate bar left unlifted at the right hour can bleed an occupier as surely as arrows.
+
 ---
 
 ## From Politics to War
@@ -1122,9 +1146,11 @@ Move into **BATTLES & SIEGES** when any of the following becomes true.
 
 Feud at **4: Mustered War** does not always mean Chapter 12 has begun. It means armies are gathered and war is openly intended. If both sides still maneuver, threaten, raid, negotiate, or try to break the other's support before committing, remain in Chapter 11. Move to Chapter 12 only when the matter is about to be decided by battle, siege, or relief in the field.
 
+Think of Chapter 11 as the chapter of leverage and Chapter 12 as the chapter of collision. As long as the struggle is still being decided by oaths, roads, stores, hostages, and village obedience, stay here. Once bodies in formed numbers are about to settle what politics could not, hand the matter to war.
+
 ### What Chapter 11 Exports
 
-Before Chapter 12 begins, know these things.
+Before Chapter 12 begins, know these things. An army does not appear from nowhere, and two hosts with the same troop count can behave like entirely different forces if one is fed by willing towns and the other is dragging itself forward on frightened levy and late pay.
 
 - Who is the general?
 - Which named captains or officers are present?
@@ -1137,9 +1163,11 @@ Before Chapter 12 begins, know these things.
 
 If you know that, the handoff works.
 
+If you do not know that, stop and answer it before battle begins. The missing answer is usually the real weakness of the campaign.
+
 ### After the War
 
-When Chapter 12 ends, return here. Battle aftermath should change faction play.
+When Chapter 12 ends, return here. Battle aftermath should change faction play because war in a pre-feudal land does not end at the field edge. It keeps moving through barns, kin groups, ferries, harvest schedules, and blood-price demands. A ruler can win the battle and lose the winter if too many villages were stripped to feed it.
 
 - lost troops reduce levy and retainers
 - pillaged villages change status and Standing
@@ -1165,13 +1193,15 @@ Then set the status of every settlement that changed hands during the campaign u
 
 A faction that does not reckon is a faction that has not finished the war. The things that did not get counted do not disappear. They appear later, at worse interest.
 
+This is also where the GM should cash in all the lies war allows men to tell themselves while the banners are up. A "victorious" ruler may still come home to three tribute villages on the edge of refusal, one ruined bridge, and a hall full of veterans who learned in the field that they obey one another better than they obey the seat. Reckoning is not punishment for its own sake. It is the book restoring memory to events that men in power would rather call finished.
+
 A campaign is only complete when you account for the ground it passed over.
 
 ---
 
 ## Quick-Build Faction Types
 
-Use these when you need a ready frame before assigning full numbers.
+Use these when you need a ready frame before assigning full numbers. Treat them as social engines, not skin-deep labels. A castle lordship extracts, protects, and threatens differently from a clan confederacy. A merchant league may look weaker in open war and still choke a valley harder by turning bridges, grain contracts, and ferries against its rivals.
 
 | TYPE | BASIS OF RULE | MAIN INCOME | TYPICAL FORCE |
 | --- | --- | --- | --- |
@@ -1191,6 +1221,8 @@ Use these when you need a ready frame before assigning full numbers.
 > _No power in the Ravenlands is alone long enough to stay clean. If it rules men, roads, shrines, or grain, it already owes something and is already owed in return._
 
 Use the following factions as written or steal from them shamelessly.
+
+Do not treat these entries as frozen specimens. Take the numbers, then ask what the faction looked like a month ago and what it will look like after one bad season. A faction sheet becomes alive the moment one score changes for a reason the players can point to. That is when the table stops reading it as prep and starts reading it as part of the same hard world as their own wounds, bargains, and road choices.
 
 ### Stonewall Lordship
 
@@ -1422,4 +1454,4 @@ A mercenary band is not always a faction. Under long service, regular collection
 
 Build the faction. Mark its seat. Mark its roads. Mark the places that feed it. Mark the places that fear it. Then ask what it wants badly enough to spend Mandate, Iron, Road, or Hearth for.
 
-That answer is the beginning.
+Then ask who pays for that desire in hunger, in sons, in broken oaths, or in a shuttered gate at dusk. That answer is where politics stops sounding like administration and starts sounding like the Ravenlands.

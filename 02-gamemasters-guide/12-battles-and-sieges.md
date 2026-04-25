@@ -36,7 +36,7 @@ When combat between individual characters becomes necessary in the middle of a l
 
 Every army enters a battle with an **order of battle** — a deliberate arrangement of its forces into lines and sections that shapes how those forces fight. This is not an abstract formation. It is the fundamental tool of pre-battle planning, and getting it wrong before a sword is drawn costs more men than getting it wrong during the fighting.
 
-### Game Time
+#### Game Time
 
 As in the original rules, battles are resolved in 15-minute increments, meaning each die roll represents what occurred during one turn.
 
@@ -44,23 +44,15 @@ At the end of each turn, after applying any modifiers corresponding to decisions
 
 If it becomes necessary to focus on what happens to one or more particular characters, the flow of time shifts back to normal combat rounds.
 
-### Army Lines
-
-In essence, lines represent the depth of an army on the battlefield. They allow for staggered tactics, covering fronts in response to enemy movements, situation assessment, adaptability by the commanders, and providing relief for those exhausted by combat, as well as protecting the rear. Primarily, however, this setup prevents dozens or hundreds of warriors from crowding the front line, which would be chaotic and counterproductive.
-
-Since the maximum number of dice an army can gain from its total number of troops is `+5`, any units beyond that point should be placed in a second line of battle, or a third if there are still more leftover units, and so forth. Thus, if every 20 soldiers grants `+1` die, once you reach 100 soldiers, the maximum `+5`, the excess should form a new line until reaching another 100 soldiers. If this logic is not entirely clear yet, it will become simpler once all the rules are explained.
-
-In terms of rules, any lines behind the first, that is, not in the vanguard, are considered not directly involved in the battle and therefore are not counted in each side's roll. Again, you can only apply a maximum of `+5` due to troop numbers.
-
-Given the relatively small army sizes in the Forbidden Lands, it's likely that few sides will be able to field more than one line in a battle, especially considering that each line is divided into sections.
-
 #### Army Lines
 
-Lines represent the depth of an army. The **first line** is the vanguard — the troops in active combat at the start of the battle. Any troops beyond the first line are **reserve lines**, held back and not counted in each side's initial rolls. They wait for their turn: to replace broken troops, to exploit a gap, or to form a second defense if the first shatters.
+Lines represent the depth of an army on the battlefield. They allow for staggered tactics, covering fronts in response to enemy movements, relieving exhausted troops, and protecting the rear. Primarily, they prevent hundreds of warriors from crowding the front line — which would be chaotic and counterproductive. More bodies than the line can absorb do not improve it. They clog it.
 
-Because the maximum number of base dice a troop can contribute from its numbers is **+5**, every unit beyond that threshold must be placed in a second or third line. There is no tactical benefit to cramming more bodies into a front that is already saturated.
+The **first line** is the vanguard — the troops in active combat at the start of the battle. Any troops beyond the first line are **reserve lines**, held back and not counted in each side's battle rolls. They wait for their turn: to replace broken troops, to exploit a gap, or to form a second defense if the first shatters.
 
-In practice, the Ravenlands rarely produces armies large enough to sustain more than one line. The rules account for the exception, not the expectation.
+The maximum number of dice a troop can gain from its size is **+5**. Any soldiers beyond that threshold belong in a second or third line. Since infantry reach this cap at 100 soldiers — one base die per 20 — a force of 150 infantry would fill one line with 100 and place the remaining 50 in a reserve line with 2 base dice. If this logic is not yet clear, it will become so once the troop dice rules are explained.
+
+Given the relatively small army sizes in the Ravenlands, most forces will never field more than one line — each line is also divided into sections, which further limits how many troops each side can effectively deploy. The rules account for the exception, not the expectation.
 
 #### Battle Line Sections
 
@@ -74,7 +66,7 @@ Under normal circumstances, each section fights the section directly opposite it
 
 Frontline troops do not absorb individual reinforcements from the rear. The movement of single soldiers between different chains of command disrupts formations and erases the cohesion that makes a trained troop effective.
 
-The real decision is when to relieve a battered troop entirely. A commander orders a frontline troop to withdraw; the next troop in that section moves up in the following turn. The withdrawn troop, if not destroyed, may regroup in the rear and re-enter when ordered.
+The real decision is when to relieve a battered troop entirely. A commander orders a frontline troop to withdraw; the next troop in that section moves up in the following turn. The withdrawn troop, if not destroyed, may regroup in the rear. The general may order it back at the start of any subsequent turn — no roll required — but it cannot fight on the same turn it advances.
 
 If a troop is **destroyed** — its last base die eliminated by damage — it is gone. No regrouping, no return. Its men are dead or fled.
 
@@ -150,7 +142,7 @@ A troop that has survived 3 or more engagements intact — not rebuilt, not fold
 
 **Advantage dice upgrade.** Veterans substitute their advantage dice with dice one step higher on the ladder: D6 → D8 → D10 → D12. A troop with D8 advantage dice needs 3 more engagements to reach D10. This upgrade reflects accuracy, timing, and survival habit at the unit level. The base dice are unchanged — Veterans still need numbers to field strength.
 
-**First morale check immunity.** Veterans waive the first morale check they would otherwise make each engagement. They have seen worse. After the first check, morale loss applies as normal.
+**First morale check immunity.** Veterans automatically pass the first morale check they would otherwise make each engagement. They have seen worse. After the first check, morale loss applies as normal.
 
 **Commander loss.** When a Veterans troop's Important Character is killed or removed from the field, the troop must make a Formidable morale check. These soldiers knew that officer. The loss is not just tactical.
 
@@ -214,7 +206,7 @@ Most fighters in the Ravenlands wear cloth or rough leather and carry whatever s
 
 The generals face each other across the field they did not choose. One of them reads it better.
 
-Both sides organize their troops before the battle begins. Infantry, cavalry, and skirmishers sort into separate troops. Troops with different advantages should not share a section if those advantages cannot apply to all soldiers — any advantage that does not apply to the whole troop is lost and does not count toward the dice pool, at least until the condition is met.
+Both sides organize their troops before the battle begins. Infantry, cavalry, and skirmishers sort into separate troops. Troops with different advantages should not share a section if those advantages cannot apply to all soldiers — any advantage that does not apply to every soldier in that troop is lost.
 
 The exception is an Important Character. They may join any troop regardless of its composition, acting as its champion, commander, or leader. In this case, however, the character sacrifices all their own trait-based advantages to contribute — the troop gains the single advantage die for having an Important Character present, and no more from the character.
 
@@ -224,7 +216,7 @@ If one army is large enough to field more than one line, this must be declared b
 
 #### The General's Speech
 
-Before the battle roll, each general speaks to their troops. This can be brief — a hard sentence, a name repeated — or long enough to make the enemy wonder what is being said. Roll **PERFORMANCE**. Each success grants the army's troops a combined pool of **morale points** split among them as the general sees fit. Push the roll if the situation demands it — but every 1 on a push is a failure that the troops will remember.
+Before the battle roll, each general speaks to their troops. This can be brief — a hard sentence, a name repeated — or long enough to make the enemy wonder what is being said. Roll **PERFORMANCE**. Each success grants the army's troops a combined pool of **morale points** — see Morale Points below for how they work — split among them as the general sees fit. Push the roll if the situation demands it — each result of 1 on any pushed die removes 1 morale point from any one troop of the general's choice.
 
 A general without the words for this may delegate to a Named Man or subordinate commander, but that commander becomes the one rolling.
 
@@ -306,13 +298,13 @@ Each point of damage that reduces a troop's base dice also reduces its morale po
 
 When soldiers are executed this way, each remaining troop in the army makes a morale roll. Success: add 1 morale point. Failure: lose 1 morale point. Some soldiers watch the executions and decide the general is the greater threat to them. Others hold harder.
 
-At the start of the next session following a battle in which this order was given, roll one D6 for the army as a whole. On a result of 6+, the army's loyalty holds. On a lower result, the general loses 1D3 base dice worth of soldiers to desertion. Borrowed loyalty has a cost that comes due when the army is not in immediate danger.
+Within 1D3 days following a battle in which this order was given, roll one D6 for the army as a whole. On a result of 6+, the army's loyalty holds. On a lower result, the general loses 1D3 base dice worth of soldiers to desertion. Borrowed loyalty has a cost that comes due when the army is not in immediate danger.
 
 This is a real order. It has been given. It works. What follows is a separate problem.
 
 > *In the third battle turn, two 1s came up on the center's base dice in the same roll. Torkel had no morale points left on that section — they had been spent in turns one and two. Twenty soldiers ran. The rear-line troops let them go. Torkel had not given the Death to Cowards order.*
 >
-> *He had considered it. He decided that executing his own men in front of the survivors would cost him more in the next engagement than losing twenty men cost him in this one. This calculation was correct. It was not a calculation he had made quickly, and the time it took said something about the kind of general he had been in his second campaign.*
+> *He had considered it. He decided that executing his own men in front of the survivors would cost him more in the next engagement than losing twenty men cost him in this one. This calculation was correct. He had not made it quickly, and the time it took said something about the kind of general he had been in his second campaign.*
 >
 > *The section held on four base dice instead of five. It held for two more turns, which was enough.*
 >
@@ -342,7 +334,7 @@ A general may declare that no prisoners will be taken. The declaration is given 
 
 At the start of each turn, commanders may attempt to rally fleeing troops. The general may make one **REGROUP** roll per turn — **PERFORMANCE** or **MANIPULATION**. Each success brings back one fleeing group and prepares it to fight again from the rear. Each result of 1 on this roll loses that group permanently.
 
-Important characters acting as troop commanders may also roll separately, but only if they are not actively fighting on the front line.
+Important characters acting as troop commanders may also roll separately — PERFORMANCE or MANIPULATION, the same as the general — but only if they are not actively fighting on the front line.
 
 Fleeing troops that are not rallied within two turns of fleeing leave the battle permanently.
 
@@ -408,7 +400,7 @@ A commander who wishes to end the fighting without total destruction may offer s
 
 **Terms.** The victor sets them. Minimum: all weapons surrendered, prisoners transferred, stronghold handed over intact. Additional terms are leverage — extracted from the gap between what the surrendering side needs and what they cannot refuse.
 
-**After the inner wall breaks.** A garrison that refuses to surrender after the outer walls are breached and enemy troops are inside the courtyard may be offered no further terms at the GM's discretion. The attacker is now inside. Negotiation at that point is noise.
+**After the inner wall breaks.** A garrison that refuses to surrender after the outer walls are breached and enemy troops are inside the courtyard may be offered no further terms at the GM's discretion. The attacker is now inside. Negotiation at that point is noise. For surrender negotiations during an ongoing siege, see Surrender and Parley under Sieges.
 
 ---
 
@@ -420,11 +412,11 @@ Troops with Range 1 or Range 2 attack the enemy before melee contact. This adds 
 
 The Range effect applies only to advancing troops. Skirmisher troops should not fire into a general melee with allied troops already engaged — there is a real chance of striking friends.
 
-**Skirmisher morale.** Skirmisher troops firing from distance — not yet forced into melee and not being targeted by enemy skirmishers in a battle roll — do not lose morale from results of 1 on their base dice. They are not in immediate danger. The moment they are being engaged directly by other skirmishers or forced into melee, morale loss applies as normal.
+**Skirmisher morale.** Skirmisher troops firing from distance — not yet forced into melee and not being targeted by enemy skirmishers in a battle roll — results of 1 on their base dice do not trigger demoralization. They are not in immediate danger. The moment they are being engaged directly by other skirmishers or forced into melee, morale loss applies as normal.
 
 **Exception:** Skirmishers on the flank or rear of an enemy troop already engaged may fire freely. There are no allies in that arc.
 
-**Friendly Fire.** Skirmisher volleys lack precision. If skirmishers fire into a general melee already involving allied troops, results of 1 on their base and advantage dice deal damage to allied troops instead of the enemy. The exception above does not apply here — arc-clear fire from the flank is safe; firing into a melee your own side is in is not.
+**Friendly Fire.** Skirmisher volleys lack precision. If skirmishers fire into a general melee already involving allied troops, results of 1 on their base dice deal damage to allied troops instead of the enemy. The exception above does not apply here — arc-clear fire from the flank is safe; firing into a melee your own side is in is not.
 
 #### Skirmisher Troops in Melee
 
@@ -456,7 +448,7 @@ The ground beneath an army's feet changes the fight. Before deployment, the GM a
 
 **Forest or Broken Ground.** Cavalry cannot fight effectively in dense woodland, marsh, or rocky scree. Any cavalry troop ordered to advance through broken ground loses its attack roll entirely that turn. Infantry and skirmishers move freely.
 
-**River Crossing.** A troop advancing across a river or contested ford while under fire uses half their base dice (rounded up) on the crossing turn only. Once across, they roll normally.
+**River Crossing.** A troop advancing across a river or contested ford while under fire uses half their base dice (rounded up) on the crossing turn only — a crossing takes one battle turn. Once across, they roll normally.
 
 **Prepared Ground.** A defending general who has held position for 24 hours may prepare the ground in front of their line with stakes, pitfalls, or abatis. Cavalry attacking into prepared ground loses 2 base dice on the attack roll. Infantry attacks are unaffected — prepared ground is an anti-cavalry measure.
 
@@ -515,7 +507,7 @@ To advance troops in darkness without disorganization, the attacking general mus
 
 #### Feigned Retreat
 
-A cavalry or skirmisher troop may execute a feigned retreat — appearing to break, drawing the enemy forward, then wheeling to strike. The maneuver requires a capable officer present in the troop.
+A cavalry or skirmisher troop may execute a feigned retreat — appearing to break, drawing the enemy forward, then wheeling to strike. The maneuver requires an Important Character present in the troop.
 
 **The roll:** The commanding Important Character or troop commander makes an Opposed roll — their **PERFORMANCE** against the opposing general's **INSIGHT**. On success: the troop withdraws in apparent disorder and may re-enter combat at the start of the next turn, gaining a free D8 pursuit die that is not subject to the base dice cap. On failure: the retreat becomes genuine. The troop must make a morale roll this turn, and if they lose morale points, those losses count as if the troop had fled.
 
@@ -543,7 +535,7 @@ An ambush is not a battle. It is an arrangement — one side already in position
 
 **If the target has scouts.** Before entering suspected ground, the target general may make a **SCOUTING** roll. On success, they spot signs in time to halt, bypass, or advance in formation — removing the surprise turn. On failure, they enter unprepared.
 
-**Cavalry in ambush.** A cavalry troop caught in an ambush in broken ground or forest cannot use its speed advantage for the first two turns. The terrain that allowed the ambush prevents effective cavalry operation. This applies to both sides.
+**Cavalry in ambush.** A cavalry troop caught in an ambush in broken ground or forest loses its attack roll for the first two turns, as the terrain that concealed the ambush prevents effective mounted operation. Skirmishing cavalry in this situation also loses its mobility advantage for those turns.
 
 > *The supply convoy was Torkel's — eight wagons, thirty guards, moving through the valley below the Kord ridge before the siege lines were established.*
 >
@@ -597,7 +589,7 @@ Each engine must be **constructed on-site**. Build time is listed in the table b
 
 | ENGINE | EFFECTS | BUILD TIME |
 |---|---|---|
-| Battering Ram | Protection 3. Siege dice equal to 3. Breaks the gate if all siege dice succeed. Cavalry may enter through a broken gate | 7 days |
+| Battering Ram | Protection 3. Siege dice equal to 3. Gate breaks when cumulative siege dice successes reach 3. Cavalry may enter through a broken gate | 7 days |
 | Siege Tower | Siege dice equal to 6. Allows infantry to reach the wall top directly | 30 days |
 | Catapult | 4 attack dice, rolled once per day. Each success reduces wall advantage dice by 1 in one section | 14 days |
 | Trebuchet | 8 attack dice, rolled once per day. Each success reduces wall advantage dice by 1 in one section | 60 days |
@@ -605,9 +597,9 @@ Each engine must be **constructed on-site**. Build time is listed in the table b
 
 **Battering Rams and Siege Towers.** These engines grant **siege dice** (a separate color). Each success from siege dice does not deal damage — it progresses the breach. Defender successes damage the machine: results of 1 on siege dice absorb 1 point of damage inflicted by defenders. When siege dice are reduced to zero, the engine is destroyed.
 
-**Battering Ram completion.** The gate breaks when all siege dice succeed in the same roll. Cavalry may advance through a broken gate on the following turn.
+**Battering Ram completion.** Track cumulative successes from the ram's siege dice across turns. When the total reaches 3, the gate breaks. Cavalry may advance through on the following turn.
 
-**Siege Tower completion.** Track cumulative successes from the tower's siege dice across turns. When the total equals the target wall section's current advantage dice, the tower has made contact with the parapet — the bridge or ramp is down. From that turn onward, the wall section's **attack-first** quality and all **high-ground advantage dice** no longer apply against the troop ascending the tower. The fight is at wall level: the same press, without the defenders' position advantage. A tower reduced to zero siege dice before completing its approach is destroyed and must be rebuilt.
+**Siege Tower completion.** Track cumulative successes from the tower's siege dice across turns. When the total equals the target wall section's original advantage dice, the tower has made contact with the parapet — the bridge or ramp is down. From that turn onward, the wall section's **attack-first** quality and all **high-ground advantage dice** no longer apply against the troop ascending the tower. The fight is at wall level: the same press, without the defenders' position advantage. A tower reduced to zero siege dice before completing its approach is destroyed and must be rebuilt.
 
 **Catapults and Trebuchets.** Attack dice rolled once per day. Each success chips away wall advantage. Defenders who watch their cover being systematically removed must consider sorties to destroy these engines. The machines are protected by their assigned troops, which makes this costly.
 
@@ -631,7 +623,7 @@ An engineer costs **5 silver per day**. Only a character with the Engineer talen
 
 #### Blockade
 
-Starving a fortress into surrender is slower than assault and far safer. To prevent resupply, the besieging force must outnumber the defending garrison **three to one**. If the fortress has sea access, a naval blockade must close that route as well — an army that cannot control the water cannot control the siege.
+Starving a fortress into surrender is slower than assault and far safer. To prevent resupply, the besieging force must field at least **three soldiers for every one soldier** in the defending garrison. If the fortress has sea access, a naval blockade must close that route as well — an army that cannot control the water cannot control the siege.
 
 Once the blockade holds, the defenders consume their stored reserves. They cannot restock. They can only wait and hope the besiegers run out of food first.
 
@@ -791,7 +783,7 @@ A single supply unit — enough for one soldier for one day — costs **2 copper
 
 An ordered foraging operation sends troops into the surrounding countryside to hunt and gather. When the general orders it, the foraging troops roll their base dice. Skirmisher troops double their dice for foraging — hunters know what they are doing.
 
-Sum the results. Multiply by 10. That is the total supply units gathered in one quarter day.
+Add all die results together — every result counts, not just 6s. Multiply the total by 10. That is the total supply units gathered in one quarter day.
 
 **Depletion.** A hex foraged by an army yields less each quarter day. For every quarter day of foraging in the same hex, reduce each die's result by 1 when totaling. This penalty recovers at 1 per week. A foraged hex eventually yields nothing. Armies that stay in one place long enough eat the countryside to the bone.
 
@@ -873,7 +865,7 @@ After a disease fully clears (all dice removed), run the outbreak check again at
 
 ### Aftermath
 
-The last body falls. The routing troop abandons the field or is pursued to pieces. What remains is the dead, the wounded who can still speak, the ones who cannot, the captives worth keeping, and whatever decisions must now be made before night.
+The last body falls. The fighting ends — by rout, concession, or nightfall. What remains is the dead, the wounded who can still speak, the ones who cannot, the captives worth keeping, and whatever decisions must now be made before night.
 
 #### Prisoners and Ransom
 
@@ -1002,7 +994,7 @@ You understand weight, leverage, and stress. Other people look at a wall and see
 The cavalry does not just ride when you say ride. It hits where you point it and gets clear before the enemy can close.
 
 - **RANK 1:** Spend 1 morale point from your cavalry troop to charge. The troop gains a D8 on its first combat turn. If the enemy creates distance, you may charge again as long as you have morale to spend.
-- **RANK 2:** Combine advantage dice from size and flanking or rear attack into a single artifact die, starting at D8 and increasing to D12 with two dice. This combined die does not count toward the base dice cap.
+- **RANK 2:** Combine advantage dice from size and flanking or rear attack into a single artifact die, starting at D8 and jumping directly to D12 when two qualifying dice combine — D10 is intentionally skipped. This combined die does not count toward the base dice cap.
 - **RANK 3:** The charge die increases to D10. While engaged, you may attempt to disengage with a **PERFORMANCE** roll. Success means the troop withdraws in order — cohesive, able to charge again or reposition.
 
 ---
@@ -1166,7 +1158,7 @@ These units give a baseline for composing the troops in any battle in the Ravenl
 - **TYPE:** Skirmishers
 - **WEAPON:** Crossbow (range 1, attack +1, two-handed, attacks second, demoralized in melee); one-handed weapon
 - **PROTECTION:** Chainmail (protection 4, protection 2 vs. projectiles and polearms, protection 1 vs. blunt and thrown, Morale +2)
-- **ADVANTAGES:** Dwarf infantry when switched to melee weapon (+1)
+- **ADVANTAGES:** Dwarf (+1)
 - **DAILY COST:** 25 copper
 
 #### Redrunner Elf
@@ -1284,7 +1276,7 @@ This section covers only the stronghold functions relevant to warfare: those tha
 
 Income from production functions is calculated weekly. The copper values listed represent income after worker wages.
 
-Income is calculated weekly. The table shows weekly production converted to copper if sold, or equivalent supply units for food-producing functions. Costs include construction materials and workers.
+The table shows weekly production converted to copper if sold, or equivalent supply units for food-producing functions. Costs include construction materials and workers.
 
 | FUNCTION | COST | BUILD TIME | WAR EFFECT |
 |---|---:|---|---|
@@ -1363,13 +1355,13 @@ Villages near the stronghold can be called upon to contribute to a war effort. T
 
 These are the sustainable limits. Demanding more is possible, but it kills villages.
 
-**If excess supplies are taken (four to ten times population):** Roll a D6. The result is the percentage of the village's population that dies of starvation that week. The same applies to looting. A result of 4 against a village of two hundred people is eight dead — not soldiers, not combatants, but the people at the bottom of the food chain when the bottom runs out: the youngest children and the oldest adults, who eat last. The army that caused this is three hexes away by the time these deaths happen. The campaign it was supplying may already be over. The village will remember, because villages stay and armies move through.
+**If excess supplies are taken (four to ten times population):** Roll a D6. The result is the percentage of the village's population that dies of starvation that week. The same applies to looting. A result of 4 against a village of two hundred people is eight dead. The village will remember.
 
 The Ravenlands cannot spare its people, and the army that destroys the villages feeding it has solved its supply problem by eliminating the force that needed supplying.
 
 **Coin above five times population** (up to ten times, maximum) can be extracted, but most of it will not exist — the subsistence economy of most Ravenlands settlements does not produce coin that is not already spent.
 
-**Deterioration.** Villages forced to pay tributes beyond their normal capacity — above three times their population in supplies or five times in coin — suffer hunger, poverty, and growing resentment. The acceptable limits above are exactly that: the maximum a village can give without beginning to collapse. Taking more is possible. It guarantees that the region feeding the army will be poorer and angrier when the campaign ends, and armies that need to return to that ground will find less waiting for them.
+**Deterioration.** Villages forced beyond these limits suffer hunger, poverty, and growing resentment. The army that causes this returns to a poorer, angrier region.
 
 #### Refusal, Hostages, and Example
 
