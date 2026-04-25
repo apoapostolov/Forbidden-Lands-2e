@@ -121,7 +121,7 @@ Adventurers who side with the Amphibians will gain a powerful ally for adventure
 
 > **RESOURCES**
 >
-> An adventurer with the ALCHEMIST talent, with a HEALING roll, recovers one dose of throat-membrane and one dose of skin-gland from a slain Amphibian per ⚔️ rolled, plus the eggs found in the lair (each egg counts as a tiny item).
+> An adventurer with the ALCHEMIST talent, with a HEALING roll, recovers one of the following per ⚔️ rolled, player's choice: **throat-membrane** or **skin-gland**, from a slain Amphibian, plus the eggs found in the lair (each egg counts as a tiny item).
 >
 > **Throat-membrane:** A thin film cut from where lung meets gill. Pressed to the mouth and held shut with wax, it lets the wearer breathe submerged for one Quarter Day. Past that, the membrane sloughs, and the wearer takes the Drowning condition with no chance to act before the next round.
 >
@@ -171,7 +171,7 @@ The dragged man is a tenant whose ox went down into the furrow first. The man ho
 
 > **RESOURCES**
 >
-> An adventurer with the ALCHEMIST talent, with a HEALING roll, draws one ladle of gastric acid and one wisp of bound-memory mucus from a dead amoeba per ⚔️ rolled. The acid will burn through anything that holds it but glass.
+> An adventurer with the ALCHEMIST talent, with a HEALING roll, draws one of the following per ⚔️ rolled, player's choice: **gastric acid** or **bound-memory mucus**, from a dead amoeba. The acid will burn through anything that holds it but glass.
 >
 > **Gastric acid:** Older than the mystery of death. Added by a Poisoner to any deadly poison brewed within the same Quarter Day, the Potency rises by 3. A single ladle, sealed in glass and shattered at someone's feet, makes the patch impassable for one round and corrodes any metal that touches it; the cobbles hiss for a stretch.
 >
@@ -234,7 +234,7 @@ The figures are dust-grey and cool to the touch. They were seven children playin
 
 > **RESOURCES**
 >
-> An adventurer with the ALCHEMIST talent, with a HEALING roll, draws one drop of petrifying tear and one knuckle of stomach-stone from a slain basilisk per ⚔️ rolled. A crushed cockerel-egg from the lair yields one tiny pouch of egg-shell powder per crush.
+> An adventurer with the ALCHEMIST talent, with a HEALING roll, draws one of the following per ⚔️ rolled, player's choice: **petrifying tear** or **stomach-stone**, from a slain basilisk. A crushed cockerel-egg from the lair yields one tiny pouch of **cockerel-egg powder** per crush.
 >
 > **Cockerel-egg powder:** Brewed by an Alchemist with one HERBS into a draught that the drinker may swallow to recover D6 Willpower Points immediately. A second draught within the same Quarter Day petrifies the drinker from the throat down for one stretch; a third kills them.
 >
@@ -290,7 +290,7 @@ The sword is a real artifact, an elven blade that some chieftain dropped here th
 
 > **RESOURCES**
 >
-> An adventurer with the ALCHEMIST talent, with a HEALING roll, scrapes one handful of bog-tar from the body and one knot of bog-reed from where the heart should be per ⚔️ rolled. A successful EXPLORE of the spot where a Bog man rose recovers one sacrificial coin, scaled and green from age.
+> An adventurer with the ALCHEMIST talent, with a HEALING roll, scrapes one of the following per ⚔️ rolled, player's choice: **bog-tar** or **bog-reed**, from the body. A successful EXPLORE of the spot where a Bog man rose recovers one **sacrificial coin**, scaled and green from age.
 >
 > **Bog-tar:** A black resin that smells of brackish smoke. Smeared on a weapon's edge before a fight, it lets the weapon strike Bog men, ghosts, and other partially immaterial undead for one stretch as if it were a magic weapon. The smear washes off in clean water.
 >
@@ -305,10 +305,6 @@ The sword is a real artifact, an elven blade that some chieftain dropped here th
 > _The terrain is becoming increasingly wet and boggy, and the virgin forest gradually gives way to hanging mangroves and strange bushes with serpentine root systems growing out of stinking ponds. Cold veils of mist float over the bog and you hear the call of a blackthroated loon coming from somewhere ahead of you._
 
 Bog men are highly attracted to valuable and magical items which they desperately want to drag down into the bog as offerings to the ever-demanding gods. In combat they always target the adventurer who carries the largest number of treasures or magical items. It could be gold or silver coins, magic weapons, and artifacts – whatever the GM deems most appropriate, but Bog men have a special fondness for shiny objects. In a crisis situation, the Bog men can always be lured away from a fight by throwing a shiny piece of treasure into the bog.
-
-> **RESOURCES**
->
-> Bog men are greedy creatures, always on the lookout for victims and treasures to pull down into their dark and solitary ponds. This rapacious vigilance can be extracted by a sorcerous adventurer and used to create an unpalatable but potent elixir that grants the user a D10 artifact die to SCOUTING. Each killed bog man is enough for D3 doses.
 
 ### Dread Raptor
 
@@ -358,7 +354,7 @@ Farmers from a settlement two valleys over set this trap three sundowns ago for 
 
 > **RESOURCES**
 >
-> An adventurer with the ALCHEMIST talent, with a HEALING roll, recovers one tail-feather and one horn-shard of beak from a slain dread raptor per ⚔️ rolled, plus one beating of the heart per kill if cut while still warm.
+> An adventurer with the ALCHEMIST talent, with a HEALING roll, recovers one of the following per ⚔️ rolled, player's choice: **tail-feather** or **horn-shard**, from a slain dread raptor, plus one warm **heart** per kill if cut while still warm.
 >
 > **Tail-feather:** Fletched onto an arrow by a BOWYER without a CRAFTING roll, the arrow gains a D8 Artifact Die against any mounted target or any horse, and ignores 1 Armor Rating. One feather, one arrow. The Aslenes know what they look like and what their loss costs.
 >
@@ -415,7 +411,7 @@ The gatekeeper arrived in the pass at first light and is bound to it now. Behind
 
 > **RESOURCES**
 >
-> A gatekeeper that dissolves more than a SHORT range from its bound portal leaves nothing behind. A gatekeeper killed at its portal yields, for an ALCHEMIST with a HEALING roll, one tear of black ichor and one fold of wing-leather per ⚔️ rolled, plus the portal-stone the beast was bound to.
+> A gatekeeper that dissolves more than a SHORT range from its bound portal leaves nothing behind. A gatekeeper killed at its portal yields, for an ALCHEMIST with a HEALING roll, one of the following per ⚔️ rolled, player's choice: **black ichor** or **wing-leather**, plus the **portal-stone** the beast was bound to.
 >
 > **Black ichor:** The blood of the void. One drop poured onto a cooling forge-edge and worked into a blade by a SMITH binds the blade against demons; the blade strikes Misgrown and demon-flesh as if magic, and against a true demon adds a D8 Artifact Die. Used on a sword that has already drunk human blood, the sword refuses the binding and rusts through within a Quarter Day.
 >
@@ -477,7 +473,7 @@ The elf is Aelainne of the Long Watch. She has been sitting at this skull since 
 
 > **RESOURCES**
 >
-> A vanquished giant specter dissolves into a sparking residue. An adventurer with the ALCHEMIST or DRUID talent, with a HEALING roll made before the body fades, gathers one fold of star-ash and one ribbon of bound-shadow per ⚔️ rolled, plus the specter's heart-stone if the killing blow was struck while the Red Wanderer was visible.
+> A vanquished giant specter dissolves into a sparking residue. An adventurer with the ALCHEMIST or DRUID talent, with a HEALING roll made before the body fades, gathers one of the following per ⚔️ rolled, player's choice: **star-ash** or **bound-shadow**, plus the specter's **heart-stone** if the killing blow was struck while the Red Wanderer was visible.
 >
 > **Star-ash:** A pinch of glittering grey dust. Brewed by an Alchemist with one HERBS into a draught that, drunk before HEALING HANDS or any other healing magic is cast, adds a D12 Artifact Die to the healing roll. The drinker dreams of the Red Wanderer that night and is HUNGRY at dawn.
 >
@@ -586,7 +582,7 @@ The cocoons are alive. The elder female that spun them is the one that has kept 
 
 > **RESOURCES**
 >
-> An adventurer with the ALCHEMIST talent, with a HEALING roll, draws one phial of venom and one skein of black silk per ⚔️ rolled from a slain adult male or elder female. A swarm of hatchlings yields one mandible-bundle per point of STRENGTH the swarm possessed. The web of an elder female cut down whole and folded yields one cocoon-bolt regardless of dice rolled.
+> An adventurer with the ALCHEMIST talent, with a HEALING roll, draws one of the following per ⚔️ rolled, player's choice: **venom** or **black silk**, from a slain adult male or elder female. A swarm of hatchlings yields one **mandible-bundle** per point of STRENGTH the swarm possessed. The web of an elder female cut down whole and folded yields one **cocoon-bolt** regardless of dice rolled.
 >
 > **Giant spider's venom (canonical):** One phial is the bound alchemical ingredient for **Porridge of Prophecy** (see _Alchemical Potions_, _Gamemaster Tools_). A second use: one drop on a blade's edge holds a paralyzing poison of Potency 10 for one strike (lethal Potency 12 from an elder female). The Congregation of the Serpent will buy elder-female venom for double weight in silver and ask no questions about its origin.
 >
@@ -700,7 +696,7 @@ The imp is what is left of Master Nicodemus's familiar, the one the song speaks 
 
 > **RESOURCES**
 >
-> An imp killed by sorcery dissolves to nothing; an imp killed by honest worked iron leaves the body. An ALCHEMIST with a HEALING roll draws one drop of imp-bile and one scrap of wing-leather per ⚔️ rolled. The iron cage that held an imp is recovered intact regardless of dice rolled.
+> An imp killed by sorcery dissolves to nothing; an imp killed by honest worked iron leaves the body. An ALCHEMIST with a HEALING roll draws one of the following per ⚔️ rolled, player's choice: **imp-bile** or **wing-leather**. The iron cage that held an imp is recovered intact regardless of dice rolled.
 >
 > **Imp-bile:** A black drop that smells of cold iron. One drop in a sorcerer's drink before casting lets the sorcerer ignore the next 1 they roll on the attribute dice; the bile takes the failure for them. A second use within the same Quarter Day catches the sorcerer's tongue: the next spell is silent and miscasts on the spot.
 >
@@ -757,7 +753,7 @@ The dwarf is Old Helgrim of the Tooth Hold, last of his line. The lockbox holds 
 
 > **RESOURCES**
 >
-> A slain iron dragon yields, for an ALCHEMIST or SMITH with a HEALING or CRAFTING roll, one phial of dragon's blood, one lath of dragon's scale, and one tooth per ⚔️ rolled. A SMITH with a CRAFTING roll over one Quarter Day strips 2D6 units of pure dragon-iron from the carcass.
+> A slain iron dragon yields, for an ALCHEMIST or SMITH with a HEALING or CRAFTING roll, one of the following per ⚔️ rolled, player's choice: **dragon's blood**, **dragon's scale**, or **dragon's tooth**. A SMITH with a CRAFTING roll over one Quarter Day strips 2D6 units of pure **dragon-iron** from the carcass.
 >
 > **Dragon's blood (canonical):** The bound alchemical ingredient for **Elixir of Life** (see _Alchemical Potions_, _Gamemaster Tools_). One phial of iron dragon's blood, drunk straight, restores D3 points to a single attribute of the drinker's choice and burns the drinker for one Quarter Day with a fever no fire warms. A second phial within the same week kills.
 >
@@ -815,7 +811,7 @@ The mara has been the bound dream-companion of an old wisewoman in a peat-villag
 
 > **RESOURCES**
 >
-> A mara killed before it can fade leaves a smear of dream-smoke on the ground. An ALCHEMIST or DRUID with a HEALING roll catches one phial of mara-smoke and one strand of mara-hair per ⚔️ rolled.
+> A mara killed before it can fade leaves a smear of dream-smoke on the ground. An ALCHEMIST or DRUID with a HEALING roll catches one of the following per ⚔️ rolled, player's choice: **mara-smoke** or **mara-hair**.
 >
 > **Mara-smoke:** A coiling grey mist held under cork. Released into a sleeper's face by the breath of an attacker, it forces a fear attack with ten Base Dice and gives the attacker the next dream the sleeper has, in full. A second use within the same Quarter Day gives the attacker the sleeper's worst memory and the sleeper's permanent loss of one point of Empathy.
 >
@@ -869,7 +865,7 @@ The young man is Lord Avven, second son of the Wakehouse, on his way to the mire
 
 > **RESOURCES**
 >
-> A slain mire drake yields, for an ALCHEMIST or SMITH with a HEALING or CRAFTING roll, one phial of dragon's blood, one lath of dragon's scale, and one tooth per ⚔️ rolled. The drake's tongue is a separate harvest, recovered intact regardless of dice rolled if cut before the body cools.
+> A slain mire drake yields, for an ALCHEMIST or SMITH with a HEALING or CRAFTING roll, one of the following per ⚔️ rolled, player's choice: **dragon's blood**, **dragon's scale**, or **dragon's tooth**. The drake's **tongue** is a separate harvest, recovered intact regardless of dice rolled if cut before the body cools.
 >
 > **Dragon's blood (canonical):** The bound alchemical ingredient for **Elixir of Life** (see _Alchemical Potions_, _Gamemaster Tools_). One phial of mire drake's blood, drunk by a sorcerer with a successful HEALING roll, restores D3 points to one attribute and grants a D8 Artifact Die to the next MANIPULATION roll the drinker makes against a human. The drinker dreams of the drake's mussel-pool that night.
 >
@@ -929,7 +925,7 @@ The coffin is a Mero burial-stone of the old Aslene chieftains, washed loose by 
 
 > **RESOURCES**
 >
-> A vanquished mummy crumbles to a dry residue. An ALCHEMIST or DRUID with a HEALING roll, made before the body finishes crumbling, gathers one fold of grave-salt and one strip of binding-linen per ⚔️ rolled, plus the mummy's grave-token (a ring, crown, brass plate, or weapon) intact regardless of dice rolled.
+> A vanquished mummy crumbles to a dry residue. An ALCHEMIST or DRUID with a HEALING roll, made before the body finishes crumbling, gathers one of the following per ⚔️ rolled, player's choice: **grave-salt** or **binding-linen**, plus the mummy's **grave-token** (a ring, crown, brass plate, or weapon) intact regardless of dice rolled.
 >
 > **Grave-salt:** A pinch of grey-pink salt rendered from the embalmed flesh. Brewed by an Alchemist with one HERBS into a draught at the cost of 1 Willpower Point, the drinker takes a D8 Artifact Die on all STRENGTH-based skill rolls for one round. A second draught within the same Quarter Day takes one permanent point of Strength from the drinker as the salt finishes its old work.
 >
@@ -985,7 +981,7 @@ The child is Hess, the only daughter of a peat-village two days back. The villag
 
 > **RESOURCES**
 >
-> A nature spirit dispelled or killed releases its essence into the air. An ALCHEMIST or DRUID with a HEALING roll catches one phial of spirit-musk and one knot of straw-thread per ⚔️ rolled. The straw idol or cairn the spirit was bound to is recovered intact regardless of dice rolled, but the bound earth around the cairn dies for a year and a day.
+> A nature spirit dispelled or killed releases its essence into the air. An ALCHEMIST or DRUID with a HEALING roll catches one of the following per ⚔️ rolled, player's choice: **spirit-musk** or **straw-thread**. The straw **idol or cairn** the spirit was bound to is recovered intact regardless of dice rolled, but the bound earth around the cairn dies for a year and a day.
 >
 > **Spirit-musk:** A heady scent kept under cork. Released into the air at a council, a feast, or a court of judgment, it grants the bearer a D8 Artifact Die on all EMPATHY-based skill rolls for one round. The scent fills the room: every other adventurer present must succeed on a WILLPOWER check or be charmed into agreeing with whatever the bearer last said. A second use within the same Quarter Day curdles and the bearer is feared and reviled.
 >
@@ -1043,7 +1039,7 @@ The man is Brother Aelmar, formerly of the Iron Guard, hermit forty years. The p
 
 > **RESOURCES**
 >
-> A possessor expelled and trapped before it finds a new host disperses into wisps of mist. An ALCHEMIST or DRUID with a HEALING roll catches one phial of red breath and one fold of host-skin per ⚔️ rolled, plus the salt-pot or container that bound the mist intact regardless of dice rolled.
+> A possessor expelled and trapped before it finds a new host disperses into wisps of mist. An ALCHEMIST or DRUID with a HEALING roll catches one of the following per ⚔️ rolled, player's choice: **red breath** or **host-skin**, plus the **salt-pot** or container that bound the mist intact regardless of dice rolled.
 >
 > **Red breath:** A coiling crimson mist held under cork. Inhaled, it adds a D10 Artifact Die to all LORE rolls concerning demons, the old Blood Mist, the Misgrown, and the works of Wyrm. The breather coughs blood for one stretch and dreams of the host the breath was taken from for one night. A second use within the same Quarter Day takes one permanent point of Empathy as the demon's calculation seeps in.
 >
@@ -1099,7 +1095,7 @@ The children are from a village called Rye Bottom, two days' walk back. The rat 
 
 > **RESOURCES**
 >
-> A slain rat king collapses to a pile of plague-rags and bone. An ALCHEMIST or DRUID with a HEALING roll, made before the body is approached, gathers one fold of plague-ash and one cup of curdled-blood per ⚔️ rolled. The rat king's bone flute is recovered intact regardless of dice rolled. Touching the body without the HEALING roll exposes the toucher to the Blue Plague (Virulence 5).
+> A slain rat king collapses to a pile of plague-rags and bone. An ALCHEMIST or DRUID with a HEALING roll, made before the body is approached, gathers one of the following per ⚔️ rolled, player's choice: **plague-ash** or **curdled-blood**. The rat king's **bone flute** is recovered intact regardless of dice rolled. Touching the body without the HEALING roll exposes the toucher to the Blue Plague (Virulence 5).
 >
 > **Plague-ash:** A grey-blue powder kept under wax. One pinch added to drinking-water by a Druid with a successful HEALING roll inoculates one village or up to forty souls against the Blue Plague for one season; the inoculated suffer cramps and bloody stools for one Quarter Day after drinking. A second pinch in the same water curdles the inoculation and the village falls sick in three days.
 >
@@ -1159,7 +1155,7 @@ The troll is not dead. It is paralyzed by sun and will wake at sundown. The Rust
 
 > **RESOURCES**
 >
-> A slain rock troll yields, for an ALCHEMIST or SMITH with a HEALING or CRAFTING roll, one phial of troll's blood, one knot of troll's gastric juice, and one tooth per ⚔️ rolled. A SMITH (level 2 or higher) with a separate CRAFTING roll over one Quarter Day extracts glittering stones worth one gold coin per ⚔️ from the body.
+> A slain rock troll yields, for an ALCHEMIST or SMITH with a HEALING or CRAFTING roll, one of the following per ⚔️ rolled, player's choice: **troll's blood**, **troll's gastric juice**, or **troll's tooth**. A SMITH (level 2 or higher) with a separate CRAFTING roll over one Quarter Day extracts glittering stones worth one gold coin per ⚔️ from the body.
 >
 > **Troll's blood (canonical):** The bound alchemical ingredient for **Tincture of Earth-Hide** (see _Alchemical Potions_, _Gamemaster Tools_). One phial of rock-troll blood, drunk by a HEALER or DRUID, lets the drinker reroll one ENDURANCE roll per Quarter Day and ignore the COLD condition for one stretch. A second phial within the same Quarter Day turns the drinker's skin to a slow grey crust and they take a permanent loss of one point of Agility.
 >
@@ -1215,7 +1211,7 @@ The shapeshifter ate one of the four men an hour ago and stepped into his place.
 
 > **RESOURCES**
 >
-> A slain shapeshifter collapses to a pool of grey-mottled slime within the stretch. An ALCHEMIST or DRUID with a HEALING roll, made before the body finishes settling, gathers one phial of metamorph-secretion and one fold of mimic-skin per ⚔️ rolled. The trail of slime that led to the killing is preserved in a clay vessel intact regardless of dice rolled.
+> A slain shapeshifter collapses to a pool of grey-mottled slime within the stretch. An ALCHEMIST or DRUID with a HEALING roll, made before the body finishes settling, gathers one of the following per ⚔️ rolled, player's choice: **metamorph-secretion** or **mimic-skin**. The **trail-slime** is preserved in a clay vessel intact regardless of dice rolled.
 >
 > **Metamorph-secretion:** A clear, glittering ichor kept under wax. Smeared on the face by an ALCHEMIST with a HEALING roll, it twists the bearer's features beyond recognition for one Quarter Day. The face comes back lumpy and the bearer takes a −2 penalty to all EMPATHY-based skill rolls until they sleep a full night. A second use within the same Quarter Day fixes the face that way for a year and a day.
 >
@@ -1271,7 +1267,7 @@ The woman is Hild, a Bloodmarch rider taken in a Meromannian raid two days back.
 
 > **RESOURCES**
 >
-> A slain skolopendra yields, for an ALCHEMIST or HUNTER with a HEALING or SURVIVAL roll, one fold of stinging-feces and one phial of paralyzing-venom per ⚔️ rolled. A separate carve, requiring a HEALING roll over one Quarter Day, takes one whole stinger from the tail intact regardless of dice rolled.
+> A slain skolopendra yields, for an ALCHEMIST or HUNTER with a HEALING or SURVIVAL roll, one of the following per ⚔️ rolled, player's choice: **stinging-feces** or **paralyzing-venom**. A separate carve, requiring a HEALING roll over one Quarter Day, takes one whole **stinger** from the tail intact regardless of dice rolled.
 >
 > **Stinging-feces:** A grainy, foul-smelling paste kept under wax. Smeared on the body before a fight, it gives a D8 Artifact Die to attack rolls against ordinary animals and beasts of WITS 3 or below for one combat encounter; the smear does not work on undead, demons, or anything that does not breathe. The bearer cannot be approached for one stretch after each application without giving offense; settlements will not have them inside the gate.
 >
@@ -1327,7 +1323,7 @@ The young woman is Yala. The old man is her teacher, the blood mage Kreven. Krev
 
 > **RESOURCES**
 >
-> A vanquished swarming death (a swarm broken by fire or carried off by wind) leaves behind, for an ALCHEMIST or SORCERER with a HEALING or LORE roll made within the stretch, one fold of glittering hive-dust and one phial of insect-ichor per ⚔️ rolled. A separate gather, requiring a SCOUTING roll across the killing-ground, finds one black queen-husk intact regardless of dice rolled.
+> A vanquished swarming death (a swarm broken by fire or carried off by wind) leaves behind, for an ALCHEMIST or SORCERER with a HEALING or LORE roll made within the stretch, one of the following per ⚔️ rolled, player's choice: **hive-dust** or **insect-ichor**. A separate gather, requiring a SCOUTING roll across the killing-ground, finds one **queen-husk** intact regardless of dice rolled.
 >
 > **Hive-dust:** A bone-dry, glittering powder kept under wax. One pinch dissolved in water by a SORCERER and drunk grants a D8 Artifact Die to all WITS-based skill rolls for one Quarter Day; on the same draught, the drinker grants a D10 Artifact Die to SURVIVAL when LEADING THE WAY for one journey leg. The drinker hears the wing-whisper of the swarm in their sleep for one fortnight after.
 >
@@ -1383,7 +1379,7 @@ The figure is a tupilaq waiting for its target. Its target is a peddler named Le
 
 > **RESOURCES**
 >
-> A slain tupilaq collapses to its component cadavers within the stretch. An ALCHEMIST or HEALER with a HEALING roll, made before the body finishes coming apart, gathers one phial of unmaking-cream and one fold of bound-marrow per ⚔️ rolled. The sorcerer's binding-token (a knotted cord, a knucklebone, or a tooth) is found pressed into the flesh between the cadaver-parts intact regardless of dice rolled.
+> A slain tupilaq collapses to its component cadavers within the stretch. An ALCHEMIST or HEALER with a HEALING roll, made before the body finishes coming apart, gathers one of the following per ⚔️ rolled, player's choice: **unmaking-cream** or **bound-marrow**. The sorcerer's **binding-token** (a knotted cord, a knucklebone, or a tooth) is found pressed into the flesh between the cadaver-parts intact regardless of dice rolled.
 >
 > **Unmaking-cream:** A foul, milk-coloured cream kept under wax. One dose smeared into a wound by a HEALER with a HEALING roll restores all lost points of STRENGTH and AGILITY in one Quarter Day; the dose has no effect on critical injuries. The healer who applies the cream takes the rotted-flesh smell on their hands for one stretch and smell-sensitive horses will not bear them.
 >
@@ -1440,7 +1436,7 @@ The old woman is Maire Bolesdotter, a wandering goose-herd who once, sixty years
 
 > **RESOURCES**
 >
-> A slain twisted ent (or one wakened to itself by song and collapsed) yields, for an ALCHEMIST or DRUID with a HEALING roll over a Quarter Day, one phial of larvae-venom and one fold of bark-dust per ⚔️ rolled. The blackened ruby is found at the heart of the trunk intact regardless of dice rolled.
+> A slain twisted ent (or one wakened to itself by song and collapsed) yields, for an ALCHEMIST or DRUID with a HEALING roll over a Quarter Day, one of the following per ⚔️ rolled, player's choice: **larvae-venom** or **bark-dust**. The **blackened ruby** is found at the heart of the trunk intact regardless of dice rolled.
 >
 > **Larvae-venom:** A clear, glistening oil pressed from the demonic larvae inside the bark, kept under wax. One phial coated on a weapon by an ALCHEMIST with a HEALING roll lets the next attack with that weapon, on a hit, paralyze the target with Potency 6 for one stretch; one ent yields enough larvae for D12 doses. The Rust Brothers will pay in silver for any phial brought to them; the Iron Guard will hang anyone caught carrying one across the Bloodmarch.
 >
@@ -1497,7 +1493,7 @@ The Rust Brothers were carting forty restless dead from villages along the Blood
 
 > **RESOURCES**
 >
-> A slain undead dragon yields, for an ALCHEMIST or SORCERER with a HEALING roll over a Quarter Day, one phial of corrupt-marrow, one fold of grave-scale, and one tooth per ⚔️ rolled. The dragon's torque, crown, or grave-treasure (one personal piece) is found among the bones intact regardless of dice rolled.
+> A slain undead dragon yields, for an ALCHEMIST or SORCERER with a HEALING roll over a Quarter Day, one of the following per ⚔️ rolled, player's choice: **corrupt-marrow**, **grave-scale**, or **dragon's tooth**. The dragon's **grave-treasure** (a torque, crown, or armband, one personal piece) is found among the bones intact regardless of dice rolled.
 >
 > **Corrupt-marrow (canonical, corrupted):** The shadowed ingredient for a corrupted **Elixir of Life**. One phial of bone-marrow brewed by an ALCHEMIST with a HEALING roll over one Quarter Day yields a draught that grants the drinker a D10 Artifact Die to STRENGTH and EMPATHY rolls and immunity to fear attacks for three days. On the third day, the drinker ages D6 years overnight and the years cannot be returned. The Order of the Silent will pay forty silver for any phial; the Rust Brothers will burn the brewer.
 >
@@ -1558,7 +1554,7 @@ The vampyr is Lord Halric the Just, six hundred years old, the last vampyr of hi
 
 > **RESOURCES**
 >
-> A slain vampyr yields, for an ALCHEMIST or HEALER with a HEALING roll over a Quarter Day, one phial of vampyr-blood and one fold of fang-dust per ⚔️ rolled. The blood-stone (a rusty iron-ore lump) is found in the chest cavity in place of a heart, intact regardless of dice rolled.
+> A slain vampyr yields, for an ALCHEMIST or HEALER with a HEALING roll over a Quarter Day, one of the following per ⚔️ rolled, player's choice: **vampyr-blood** or **fang-dust**. The **blood-stone** (a rusty iron-ore lump) is found in the chest cavity in place of a heart, intact regardless of dice rolled.
 >
 > **Vampyr-blood:** A red-black ichor kept under wax. One phial drunk by a HEALER as part of any HEALING brew adds a D8 Artifact Die to the brewing roll and lets the brew restore one critical injury. The drinker takes one point of WITS damage and one point of EMPATHY damage that do not heal until they sleep three nights in a chapel of the Protector or a sanctum of the Raven Sisters.
 >
@@ -1617,7 +1613,7 @@ The girl is Sigrid, daughter of the river-witch Liva. Liva died of fever last wi
 
 > **RESOURCES**
 >
-> A slain water troll yields, for an ALCHEMIST or HUNTER with a HEALING or CRAFTING roll, one phial of brackish-bile, one tooth, and one fold of scaled-hide per ⚔️ rolled. A separate carve, requiring the TANNER talent, takes the whole hide intact regardless of dice rolled.
+> A slain water troll yields, for an ALCHEMIST or HUNTER with a HEALING or CRAFTING roll, one of the following per ⚔️ rolled, player's choice: **brackish-bile**, **water-troll's tooth**, or **scaled-hide**. A separate carve, requiring the TANNER talent, takes the whole hide intact regardless of dice rolled.
 >
 > **Brackish-bile (canonical, troll's blood):** The bound alchemical ingredient for **Tincture of Earth-Hide**, brackish variant. One phial of bile drunk by a HEALER or DRUID lets the drinker breathe water like air for one stretch and reroll one ENDURANCE roll within that stretch; a second phial within the same Quarter Day fills the drinker's lungs with mire-water and they drown on dry land in three rounds.
 >
@@ -1673,7 +1669,7 @@ The wisp's dwelling is a charred yew lantern hanging from the eaves of the hut, 
 
 > **RESOURCES**
 >
-> A banished will-o'-the-wisp (one whose dwelling has been broken or whose body has been driven off by fire) leaves behind, for a SORCERER who spends 1 Willpower Point at the moment of the banishing, one cold-light crystal and one fold of pyre-ash. A separate gather, requiring a HEALING roll over a Quarter Day, takes one shaving from the broken dwelling intact regardless of dice rolled.
+> A banished will-o'-the-wisp (one whose dwelling has been broken or whose body has been driven off by fire) leaves behind, for a SORCERER who spends 1 Willpower Point at the moment of the banishing, one of the following, player's choice: **cold-light crystal** or **pyre-ash**. A separate gather, requiring a HEALING roll over a Quarter Day, takes one **dwelling-shaving** from the broken dwelling intact regardless of dice rolled.
 >
 > **Cold-light crystal:** A clear shard the size of a thumb, kept in a cloth pouch. Carried, the crystal sheds a steady cold light at NEAR range that does not blow out, does not run out of fuel, and works in magical darkness. Drawn from the pouch in the presence of nightwargs or any form of Blood Mist, it grants all adventurers within NEAR range a D8 Artifact Die on attack rolls against the wargs or against fog-bound foes. The crystal can be smothered for a stretch by wrapping it in cloth.
 >
@@ -1732,7 +1728,7 @@ The swordsman is Brother Eldrik of the Howling Path, a willing wolfshadow who se
 
 > **RESOURCES**
 >
-> A slain wolfshadow yields, for an ALCHEMIST or HUNTER with a HEALING or SCOUTING roll, one phial of shadow-extract and one fold of darkmane per ⚔️ rolled. The wolfshadow's weapon (whatever it carried into the fight) is found beside the body, intact regardless of dice rolled.
+> A slain wolfshadow yields, for an ALCHEMIST or HUNTER with a HEALING or SCOUTING roll, one of the following per ⚔️ rolled, player's choice: **shadow-extract** or **darkmane**. The wolfshadow's **weapon** (whatever it carried into the fight) is found beside the body, intact regardless of dice rolled.
 >
 > **Shadow-extract:** A black, oily liquid kept under a sealed pewter stopper. One dose drunk by the bearer grants a D10 Artifact Die to STEALTH and to all attempts to hide or move unseen between sundown and sunup for one Quarter Day; one wolfshadow yields D3 doses. The drinker's eyes turn yellow for the same Quarter Day and any sworn worshipper of the Nightwalker recognizes the eye-mark on sight; the Iron Guard takes the eye-mark as cause to hang.
 >
