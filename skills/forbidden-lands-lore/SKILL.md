@@ -156,34 +156,69 @@ asking.
 
 An expansion region is a neighboring country with its own kin,
 geography, religions, magic traditions, terrain rules, and
-creatures. Its content is **entirely self-contained** in its
-own campaign file — nothing from an expansion region merges
-into the `/references/` files. This is because most Forbidden
-Lands stories do not involve these regions; loading expansion
-content by default would pollute the core world reference.
+creatures. Its content lives in a dedicated `regions/<slug>/`
+directory — nothing from an expansion region merges into the
+`/references/` files. The references describe the Ravenlands
+only. Campaign spoilers for an expansion region live in the
+matching `campaigns/<slug>.md` file.
 
-**Loading rule:** Load an expansion region file only when the
-user explicitly asks about that region, its creatures, its kin,
-or its campaign. Do not load it for general Forbidden Lands
-queries, Ravenlands lore checks, or Raven's Purge questions.
+**Loading rule:** Load expansion region files only when the user
+explicitly asks about that region, its creatures, its kin, its
+gods, or its campaign. Do not load them for general Forbidden
+Lands queries, Ravenlands lore checks, or Raven's Purge questions.
 
 **Spoiler rule:** Expansion region spoilers follow the same
 protocol as campaign spoilers above. Ask before reading any
 section marked ⚠️ SPOILER.
 
-- `campaigns/bloodmarch.md`
-  Full reference for **The Bloodmarch** (Aslene) by Erik
-  Granström. Scope: entirely new region west of Ravenland.
-  New kin (horse clans, Vasnians, Caprids, red elves, moon elves,
-  grargs), new terrain types (Ashlands, Firelands, Crimson
-  Forest), new magic traditions (Magma Song, Mentalism,
-  Oneiromancy, Magnetism), new creatures, new gods. Campaign:
-  **Legacy of Horn** — competing factions race to collect five
-  sacred Astra and determine who controls the Bloodmarch. Key
-  players: Selligar Horne, Poansa Moulter, Colonel Grudenstaal,
-  Fiena Fromelei, The Seventh, Vinhelm Kaal, Konana, Vaerefor
-  Van Reiben, the Dreamstress, Octomadria. Access via Shadowgate
-  Pass (opened after events of Raven's Purge).
+### The Bloodmarch (Aslene)
+
+**Source:** Erik Granström, Free League Publishing
+**Campaign:** Legacy of Horn
+**Access:** Via Shadowgate Pass (opened after events of Raven's Purge)
+
+Non-spoiler reference files:
+
+- `regions/bloodmarch/setting.md` — world state, climate, access
+  routes, terrain types (Ashlands, Firelands, Crimson Forest
+  with full journey rules and Crimson Sickness 9-stage table),
+  magic traditions (Magma Song, Mentalism, Oneiromancy, Magnetism
+  with full spell lists), drugs and potions (Blue Tar, Blue Blood,
+  Dense Water, Crimson Ooze, Lycopodium Powder)
+- `regions/bloodmarch/kin.md` — the five horse clans (Houns/
+  Selligar Horne, Sabirians/Mommodar, Caberians/Merdekai,
+  Galdanes/Kormella Mira + Trandesso Haveman, Quards/Jorgundos
+  Ash), Vasnians, red elves, Caprid dwarves (Firestead, kulli/
+  baas kulli, abolished clans), Aslene orcs (Étosh, Sisterhood
+  of Viraga), wolfkin (Ranghöge, grargs), moon elves (moonstone
+  not ruby, Mentalism), halflings and goblins (Penite pilgrims)
+- `regions/bloodmarch/history.md` — Vasnian age, horse clan
+  arrival, Sella the Liberator, the Demon Flood (875 AS),
+  three centuries of isolation, Shadowgate reopening (1165 AS)
+- `regions/bloodmarch/gods.md` — Horn, Have, Pyrolytes, Volitia,
+  Sisterhood of Viraga, Nightwalker/Ranghöge, Order of Egression,
+  Eor, Rubor and Kolor, Rust Church/Ironbrows
+- `regions/bloodmarch/bestiary.md` — Smolderer, Bloodbeech, Prune,
+  Wingsteed, Fraege, Grave Lily, Kton/Fire Wyrm, Mecha, Salamander,
+  Sarcoptes, Forest Star, Slime Snail, Slithernet, Sporewalker,
+  Hoverfrog, Pearlyveine
+- `regions/bloodmarch/artifacts.md` — Horn's Astra public knowledge
+  (Goblet Staff of Have, Helm of Horn, Sella's Dragonboot,
+  Glasstooth, Arrows of the Fire Wyrm, Stonechest), Witherbeam
+  public description (no true powers here)
+- `regions/bloodmarch/places.md` — eleven sub-regions (Ashenvale,
+  The Black, Vasnia, Havenmark, Firestead, The Wailing, Kreysel,
+  Strilling, Druma, Varina, Hadruma), Horn volcano, Shadowgate
+  Pass, Gander's Pass, adventure site overviews (Taregyll,
+  Ashenstead, Salterstay, Oxengelder, Bann Guelder, Watch of
+  the Sisters, Tribolia of the Kogler, Agnostica pointer only)
+
+Spoiler-only file:
+
+- `campaigns/bloodmarch.md` — load only with explicit user
+  consent; contains true powers of the Astra, Witherbeam's full
+  capabilities, NPC true agendas, ancient world history, campaign
+  phases, adventure site secrets, and campaign outcomes
 
 - `skills/forbidden-lands-bestiary/SKILL.md` — encounter design
   mandate, the seven encounter shapes, the Resources mandate,
