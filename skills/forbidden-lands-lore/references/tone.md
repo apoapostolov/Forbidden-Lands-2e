@@ -13,15 +13,15 @@ For monster-encounter mechanics specifically, also consult
 
 Forbidden Lands 2E is, in this manuscript:
 
-**Re-feudal medieval survival fantasy with a Swedish tone, the
+**Pre-feudal medieval survival fantasy with a Swedish tone, the
 realistic authenticity of village life, and a soft Tolkienesque
 poetic worldbuilding.**
 
 Each clause is a constraint. Read them in order.
 
-### "Re-feudal"
+### "Pre-feudal"
 
-The world is not feudal in the high-medieval sense. It is _re-feudal_:
+The world is not feudal in the high-medieval sense. It is _pre-feudal_:
 ten generations of Blood Mist destroyed travel, trade, and central
 authority. Old roads are reopening. Old claims are being relitigated.
 Old kingdoms exist as rumor, as tax-collectors, as pretenders, as
