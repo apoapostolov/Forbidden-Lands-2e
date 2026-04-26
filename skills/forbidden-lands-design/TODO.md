@@ -1,0 +1,22 @@
+# TODO: Forbidden Lands Design Skill Research Plan
+
+- [x] Build a full system map of every corebook rules chapter, listing each subsystem, its inputs, outputs, costs, risks, and downstream consequences.
+- [x] Catalog the main rule types in the game: resolution rules, action economy rules, injury rules, recovery rules, travel rules, resource rules, economic rules, talent exceptions, spell procedures, and optional modules.
+- [x] Extract the core mathematical grammar of the game from skills, attributes, gear dice, pushing, banes, and success thresholds, and formalize it as the base engine model.
+- [x] Model baseline success probabilities across common dice pools and difficulties, including the effect of gear dice and success thresholds for normal, challenging, and difficult tasks.
+- [x] Model pushed-roll outcomes, including expected additional successes, expected bane exposure, and downstream conversion into damage, wear, and Willpower.
+- [x] Map the Willpower economy mathematically: expected gain rates from pushed rolls, expected spend rates by talent and spell usage, and the relative power of risk-fed advancement loops.
+- [x] Build a subsystem interaction matrix showing how combat, journeys, injuries, conditions, gear, talents, magic, and strongholds influence each other directly and indirectly.
+- [x] Analyze each talent path for niche, power expression, timing, and overlap with adjacent talents so the skill can spot redundancy, hidden combos, and invalidated niches.
+- [x] Analyze the spell system by rank, Willpower cost, power-level scaling, mishap risk, and safe-casting behavior to map both intended volatility and exploitable stability.
+- [x] Analyze damage and recovery mathematically, including how often characters become Broken, how quickly they recover, and how healing effects compress or preserve danger over time.
+- [x] Analyze critical injuries as a design category, separating temporary setbacks, campaign-altering injuries, retirement-default states, and outright lethality.
+- [x] Analyze the journeys chapter as a pressure engine, including Quarter Day use, terrain friction, supply attrition, forage and hunt odds, camp safety, and environmental hazards.
+- [x] Analyze gear as a design system, distinguishing between scarcity tools, economy gates, specialist enablers, consumables, and resource-die items, and identify missing categories worth expanding.
+- [x] Build a design-space map of underdeveloped areas in the game, such as logistics, social leverage, downtime craft, mundane field medicine, camp discipline, hirelings, and travel tradeoffs.
+- [x] For each identified design space, define what kinds of new rules would deepen the game without bloating procedure or invalidating existing talents and gear.
+- [x] Study how the game handles realism versus playability and document where added realism strengthens decision quality and where it only creates drag or fake severity.
+- [x] Build a formal proposal-audit method that tests any new rule for terminology fit, chapter ownership, subsystem integration, table speed, agency, and campaign consequences.
+- [x] Run synergy analysis on existing and proposed rules, identifying high-value combinations, dominant lines, dead interactions, and places where one rule quietly erases the pressure of another.
+- [x] Build a library of mathematical change scenarios, showing how adjusting target numbers, resource dice, recovery rates, or action costs would alter the game's feel and strategic incentives.
+- [x] Write the final design reference manual, unifying the system map, probability findings, rule taxonomy, interaction matrix, expansion opportunities, and proposal-evaluation method into one deep research document.

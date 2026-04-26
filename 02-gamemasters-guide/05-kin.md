@@ -11,8 +11,8 @@ According to myth, humankind arrived as intruders from across the ocean 1,200 ye
 > _“You ask about our view of humans in Ravenland, my lady?_
 >
 > _So hear my answer: your place is not here, everyone hates you and you do not even like each other.”_
-
-ETARIK HAMMERHAND, ambassador from the Merromannians to Alderstone, 833 AS
+>
+> ETARIK HAMMERHAND, ambassador from the Merromannians to Alderstone, 833 AS
 
 The villagers of the Forbidden Lands are a motley mix of splinter communities: native Ailanders led by the Raven Sisters, riders from Aslene who came to Ravenland before Shadowgate Pass was blocked, Alderlanders who remain behind the wall, stern Rust Brothers, a few half-elves with limited knowledge of magic, and mixtures of these groups. During the night, they hunker down in crowded conditions behind palisades, but are forced to go out during the day to scrounge for food and other necessities. Their life is a hard one, though not impossibly so, and there is often a strong sense of solidarity among neighboring villages. Most of these settlers are schooled in some sort of farming or craftsmanship, but also in the arts of combat, as there are plenty of threats. Villagers generally welcome newcomers, but always with some degree of suspicion. New blood and new knowledge is always welcome, as is news from distant lands – everyone is curious about the outside world now that the Blood Mist has lifted from the land. The older villagers are raised to work hard and live a simple life, but many younger ones nurture secret dreams of discovering the new world beyond the blueing crests of the hills.
 
@@ -36,47 +36,11 @@ Alderlanders make up the majority of the villagers in the northern lands. Some r
 
 The heraldry of Alderland takes the appearance of swords and branches from the alder tree. Alderlanders honor the alder tree as sacred and decorate themselves with branches from the tree during celebrations and festivals.
 
-**TYPICAL AILANDER**
+Alderlanders are tall. Build ranges lean to hardy — long-limbed, spare in the shoulders, built for cold-weather labor and long marches. Complexion pale, the ash-white of northern winters. Hair fair: straw, flaxen, ash-blond, or mid-brown, worn long and simply dressed. Men are usually bearded or close-cropped. Eyes pale grey, ice-blue, or blue-grey. Spare in expression, slow to gesture. They look like people built for endurance who do not advertise what they carry.
 
-- **STRENGTH** **3**, **AGILITY** **3**, **WITS** **3**, **EMPATHY** **3**
-- **SKILLS:** Melee 2, Move 2, Marksmanship 2, Healing 1
-- **TALENTS:** –
-- **GEAR:** Shortsword, short bow
+Alderlanders default to hierarchy. When they enter a room they establish who holds rank before saying anything. This is not calculation — it is reflex, generations of clan obligation pressed into the spine. They negotiate by written contract where Ailanders trust memory and Aslene trust a witnessed handshake. They believe a person is what they have sworn, not what they feel.
 
-AILANDERS: The Ailanders were the first group of humans who found their way north to Ravenland from Alderland. They fled religious persecution seven hundred years ago. The Ailanders worship the Protector under the name Raven and were led during their exodus by the priesthood of the Raven Sisters. Many Alderlanders believe Ailanders in general and Raven Sisters in particular are heretics and traitors since the Rust Brothers claim the raven worshippers, backed by the elves and dwarves, tried to take control of Ravenland using trickery. The Ailanders keep a low profile and often want to live simple lives in peace with others. They have the same appearance as Alderlanders, but deviate when it comes to equality, striving for peace and living in accordance with the will of the gods. Many of them have fled east to the coastal plains of the Forbidden Lands, but rumors speak of the hidden village of Koracia, supposedly housing a shrine honoring the Raven god.
-
-There is a murderous sect of fanatics among the Ailanders called the Reapenters. The sect blames the misery of the world on the treachery of humankind. When the Alderlanders defied the Shift and pushed across the the Divide into Ravenland, they incurred the wrath of the Raven God. The Reapenters say the curse will end only when the last human, dead or alive, has left the Forbidden Lands. And that it is their duty to kill anyone who does not understand this.
-
-FRAILERS: Half-elves of Alderland heritage are called Frailers. They are the descendants of the elven hostages among the humans in Alderland after the Shift. Alderland spellbinders often have Frailer blood in their veins. They are long-lived, typically with a slender body and a tendency towards pointed ears. Unlike the Elvenspring, who are half-elves born of the hostages in Ravenland, they have no concept of duty or living according to the needs of nature. Both groups are driven by the same impatience and ambition, but among the Frailers it manifests as a greedy search for power and knowledge. Zygofer is of Frailer blood, as are many of his closest supporters.
-
-**TYPICAL FRAILER**
-
-- **STRENGTH** **2**, **AGILITY** **3**, **WITS** **4**, **EMPATHY** **4**
-- **SKILLS:** Lore 2, Insight 2, Manipulation 2
-- **TALENTS:** –
-- **GEAR:** Dagger, quill and ink
-
-THE SILENT: The guardians standing watch on the Iron Lock are called The Silent. They are believed to be deaf mutes, as they do not speak to anyone in the Forbidden Lands and do not seem to even listen when spoken to. If
-
-someone comes too close to their walls, they give warning by banging on metal cylinders and then shoot. The open ground below the wall is littered with the skeletons of those who have heard the warnings of The Silent but ignored them.
-
-terns of various colors. They prefer gold and bronze jewelry to silver. The Aslenes are shorter but stouter than Alderlanders, who believe that the riders lack both beauty and culture.
-
-**TYPICAL ASLENE**
-
-- **STRENGTH** **3**, **AGILITY** **4**, **WITS** **3**, **EMPATHY** **2**
-- **SKILLS:** Melee 2, Marksmanship 2, Move 2, Animal Handling 2
-- **TALENTS:** Horseback Fighter
-- **GEAR:** Short spear, short bow, leather armor, riding horse
-
-**TYPICAL SILENT GUARD**
-
-- **STRENGTH** **4**, **AGILITY** **3**, **WITS** **3**, **EMPATHY** **2**
-- **SKILLS:** Might 2, Melee 3, Insight 4
-- **TALENTS:** –
-- **GEAR:** Short spear, large shield, chainmail, great helm, heavy crossbow
-
-OTHER ALDERLANDERS: Humans descended from Alderlands who are neither Ailanders or Frailers are simply called Alderlanders. They are a varied group with different loyalties and temperaments.
+Their speech is measured. They ask before they answer. They sit with silence in conversation without feeling compelled to fill it. When they grieve they work harder. Wearing loss on the face is considered weak, even indecent. The alder tree is sacred to them not because it is beautiful but because it roots and survives in wet ground that kills most other trees. Alderlanders find this appropriate.
 
 **TYPICAL ALDERLANDER**
 
@@ -85,9 +49,67 @@ OTHER ALDERLANDERS: Humans descended from Alderlands who are neither Ailanders o
 - **TALENTS:** –
 - **GEAR:** Shortsword, short bow
 
+#### Ailanders
+
+The Ailanders were the first group of humans who found their way north to Ravenland from Alderland. They fled religious persecution seven hundred years ago. The Ailanders worship the Protector under the name Raven and were led during their exodus by the priesthood of the Raven Sisters. Many Alderlanders believe Ailanders in general and Raven Sisters in particular are heretics and traitors since the Rust Brothers claim the raven worshippers, backed by the elves and dwarves, tried to take control of Ravenland using trickery. The Ailanders keep a low profile and often want to live simple lives in peace with others.
+
+Ailanders do not look like Alderlanders. They are shorter — short to medium — with a stocky, practical build: wide through the shoulders, thick-wristed, the frame of generations of farmers and herders. Complexion pale. Hair lighter than expected: straw-blond to light brown, sometimes near-white in early childhood. Eyes blue, grey, or pale watery hazel. Plain wool in earth tones, nothing decorative on anything used daily. They differ from Alderlanders most sharply in how they live: equality-minded, peace-seeking, and guided by the will of the gods in everything from planting to settling disputes. Many of them have fled east to the coastal plains of the Forbidden Lands, but rumors speak of the hidden village of Koracia, supposedly housing a shrine honoring the Raven god.
+
+Ailanders do not have leaders. They have spokespeople. Someone voices a view, the community weighs it, a path emerges. An Ailander who acts without that consensus has already lost standing, regardless of outcome. This makes them difficult under pressure and impossible to command directly.
+
+They explain everything. A question asked of an Ailander becomes a story about why the question exists. They share before they claim — food, fire, space, news. A stranger at the door eats before any business is discussed. This is obligation, not charity.
+
+When they disagree they go quiet. Silence from an Ailander means dissent. They rarely raise a grievance to the responsible person's face. They wait, work around it, and let the offending party discover the cost in their own time. They carry these things for generations.
+
+There is a murderous sect of fanatics among the Ailanders called the Reapenters. The sect blames the misery of the world on the treachery of humankind. When the Alderlanders defied the Shift and pushed across the Divide into Ravenland, they incurred the wrath of the Raven God. The Reapenters say the curse will end only when the last human, dead or alive, has left the Forbidden Lands. And that it is their duty to kill anyone who does not understand this.
+
+**TYPICAL AILANDER**
+
+- **STRENGTH** **3**, **AGILITY** **3**, **WITS** **3**, **EMPATHY** **3**
+- **SKILLS:** Melee 2, Move 2, Marksmanship 2, Healing 1
+- **TALENTS:** –
+- **GEAR:** Shortsword, short bow
+
+#### Frailers
+
+Half-elves of Alderland heritage are called Frailers. They are the descendants of the elven hostages among the humans in Alderland after the Shift. Alderland spellbinders often have Frailer blood in their veins. They are long-lived, typically with a slender body and a tendency towards pointed ears. Unlike the Elvenspring, who are half-elves born of the hostages in Ravenland, they have no concept of duty or living according to the needs of nature. Both groups are driven by the same impatience and ambition, but among the Frailers it manifests as a greedy search for power and knowledge. Zygofer is of Frailer blood, as are many of his closest supporters.
+
+**TYPICAL FRAILER**
+
+- **STRENGTH** **2**, **AGILITY** **3**, **WITS** **4**, **EMPATHY** **4**
+- **SKILLS:** Lore 2, Insight 2, Manipulation 2
+- **TALENTS:** –
+- **GEAR:** Dagger, quill and ink
+
+#### The Silent
+
+The guardians standing watch on the Iron Lock are called The Silent. They are believed to be deaf mutes, as they do not speak to anyone in the Forbidden Lands and do not seem to even listen when spoken to. If someone comes too close to their walls, they give warning by banging on metal cylinders and then shoot. The open ground below the wall is littered with the skeletons of those who have heard the warnings of The Silent but ignored them.
+
+**TYPICAL SILENT GUARD**
+
+- **STRENGTH** **4**, **AGILITY** **3**, **WITS** **3**, **EMPATHY** **2**
+- **SKILLS:** Might 2, Melee 3, Insight 4
+- **TALENTS:** –
+- **GEAR:** Short spear, large shield, chainmail, great helm, heavy crossbow
+
 ### Aslenes
 
-The Aslenes have a more colorful physical appearance than the Alderlanders. They have various skin tones, always with a healthy luster. Their hair is always vibrant, regardless of color. Usually Aslenes braid their hair, with both men and women having artful hair styles. Their clothes are equally colorful, consisting of earth tones decorated with fields and pat- QUARDS: The Quards are a rider clan from Aslene. They made contact with the Ailanders of Ravenland through Shadowgate Pass some six hundred years ago and chose to emigrate from the harsh clan wars that threatened to wipe them out. The clans of Aslene are wise in the ways of war and more ambitious than the Ailanders, and adhere to strict hierarchies. They soon rose to positions of power, built fortresses and pushed further into Ravenland, against the will of the elves and dwarves. In time, they had mated and mixed their blood with that of the Ailanders, so that all sorts of variations existed among the two cultures. Like all Aslene, the Quards strongly believe in honor and loyalty among friends. They are no longer a nomadic people, but their former lifestyle has given them an air of mystery and long years of living in the wild is part of their upbringing since the Blood Mist lifted. Skill in the saddle and with a blade are held as the highest expressions of their cultural heritage. The Aslene worship the fire god, Horn, whose physical manifestation is a volcano in their homeland. Lately, many Quards have flocked to the banner of the sorcerer Zertorme, since a prophet has identified him as Horn’s chosen savior.
+Aslenes are unmistakable beside Alderlanders. Medium height, lean, with a horseman’s compact build — strong through the thighs and core, low center of gravity. Complexion warm bronze, sun-caught from years in the saddle, lighter in winter, darker by harvest. Wide cheekbones, flat nasal bridge, strong jaw. Dark brown eyes, slightly upward-set, built for reading weather across open ground. Hair black to very dark brown, straight and coarse-textured, worn tied back at work and braided artfully for any gathering — both men and women braid. Clothing in earth tones with patterned color fields. Gold and bronze over silver. Alderlanders call them stouter than themselves and believe the riders lack culture. The Aslenes do not dispute this.
+
+Aslenes tell the truth to your face. An insult behind someone's back is cowardice; the same insult said to their face is a courtesy. This reads as aggression to Alderlanders, who soften everything. Aslenes do not adjust for this.
+
+They measure people by how they handle horses. An Aslene who watches you with a mount has taken your measure before you have spoken ten words. Music and recitation are serious crafts — a poor performance at a gathering insults the host as plainly as spilling their ale. Laughter comes easily and stops completely.
+
+Gifts carry obligation. You do not refuse a gift from an Aslene. You accept and give in return. The exchange matters more than the objects. They have a proverb for every situation. They recite the proverb instead of offering advice.
+
+**TYPICAL ASLENE**
+
+- **STRENGTH** **3**, **AGILITY** **4**, **WITS** **3**, **EMPATHY** **2**
+- **SKILLS:** Melee 2, Marksmanship 2, Move 2, Animal Handling 2
+- **TALENTS:** Horseback Fighter
+- **GEAR:** Short spear, short bow, leather armor, riding horse
+
+QUARDS: The Quards are a rider clan from Aslene. They made contact with the Ailanders of Ravenland through Shadowgate Pass some six hundred years ago and chose to emigrate from the harsh clan wars that threatened to wipe them out. The clans of Aslene are wise in the ways of war and more ambitious than the Ailanders, and adhere to strict hierarchies. They soon rose to positions of power, built fortresses and pushed further into Ravenland, against the will of the elves and dwarves. In time, they had mated and mixed their blood with that of the Ailanders, so that all sorts of variations existed among the two cultures. Like all Aslene, the Quards strongly believe in honor and loyalty among friends. They are no longer a nomadic people, but their former lifestyle has given them an air of mystery and long years of living in the wild is part of their upbringing since the Blood Mist lifted. Skill in the saddle and with a blade are held as the highest expressions of their cultural heritage. The Aslene worship the fire god, Horn, whose physical manifestation is a volcano in their homeland. Lately, many Quards have flocked to the banner of the sorcerer Zertorme, since a prophet has identified him as Horn’s chosen savior.
 
 GALDANES: The parts of Aslene that lie to the west of the Forbidden Lands were ravaged in 875 AS by demonic hordes sent by Zygofer. The Galdane clan fled this catastrophe and pushed into Ravenland where the few hundred that survived ended up in Margelda, where Zertome gave them land and let them stay in exchange for their promise to defend the land.
 
@@ -124,15 +146,13 @@ Misgrown are humans who have been seduced and twisted by Zytera, and thus assume
 
 ### – Geno the Heckler –
 
-Elves live for a very long time, unlike the other inhabitants of the Forbidden Lands. Over time, many elves lose interest in the world unless they find some goal in life that pushes them on. Their society has no formal power structure. Age, skill and experience grants a level of status that is accepted by most elves. Other kin rarely understand the society of the elves, and so divide them into Stillelves and The Unruly, based on their behavior. The elves, in turn, have a hard time understanding the motivations and lives of the other kin, likening them to soft berries that rot when au-
+Elves live for a very long time, unlike the other inhabitants of the Forbidden Lands. Over time, many elves lose interest in the world unless they find some goal in life that pushes them on. Their society has no formal power structure. Age, skill and experience grants a level of status that is accepted by most elves. Other kin rarely understand the society of the elves, and so divide them into Stillelves and The Unruly, based on their behavior. The elves, in turn, have a hard time understanding the motivations and lives of the other kin, likening them to soft berries that rot when autumn approaches, while the elves themselves are lasting stone fruit. Their flesh is renewed by the rubies in their chests, from which the individual can be recreated even if their bodies are completely destroyed.
 
 ### Elvish Saying
 
 > _“Three things mortal hands cannot mend: broken birds’ eggs, the heart ruby and ravaged oaths between kin.”_
 
 Dwarf stonesingers love mending broken eggs simply to spite the elves.
-
-tumn approaches, while the elves themselves are lasting stone fruit. Their flesh is renewed by the rubies in their chests, from which the individual can be recreated even if their bodies are completely destroyed.
 
 Blood relation does not matter to the elves and they have no hierarchies beyond respect for age and knowledge. They are not religious and do not worship the gods, but they do not deny their existence, instead viewing them as honorable teachers.
 
@@ -163,8 +183,6 @@ Elves with the quiet disposition of the Stillelves did not resist when the human
 - **TALENTS:** Path of Shifting Shapes 2
 - **GEAR:** Wooden staff
 
-their ruby with a slender oak or ash tree, which has then grown around the jewel, creating a new body for them. Ents are revered by the elves and Elvenspring. They are sought out for advice and gifts are left for them in the glades. The ents are the shepherds and protectors of the great forests. Ents that have become aggressive for some reason are very dangerous adversaries.
-
 ### The Unruly
 
 Less patient elves still want to leave an impression on the world. Hopefully, it is from this group the players create their characters. Some are good-humored and curious, others are filled with a lust for revenge, focusing on experiencing the world or defending the living. Even if the Unruly respect the elders of their kin and the Stillelves, they often carry hatred or even secret disdain for their torpid and inactive relatives. They furiously resist their kin’s inclination towards lethargy, and want to fight, avenge, conquer and experience – they believe they have an obligation to commit great deeds during their long lives. This duality births a rage they gladly subject the rest of the world to. The Stillelves lovingly tolerate this rage, saying that all elves tend to go through a few centuries as Unruly while they are young. Wisdom comes with age.
@@ -178,17 +196,13 @@ Less patient elves still want to leave an impression on the world. Hopefully, it
 
 ### Ents
 
-Ents are elves who have tired of the fast and fleeting life as a being of flesh. They have merged
+Ents are elves who have tired of the fast and fleeting life as a being of flesh. They have merged their ruby with a slender oak or ash tree, which has then grown around the jewel, creating a new body for them. Ents are revered by the elves and Elvenspring. They are sought out for advice and gifts are left for them in the glades. The ents are the shepherds and protectors of the great forests. Ents that have become aggressive for some reason are very dangerous adversaries.
 
 ### The Golden Bough
 
 Elves who feel like they still have a responsibility for nature and the circle of life lead the Golden Bough, the largest order of druids in the Forbidden Lands. Many older elves in the order are skilled spellbinders, focusing on magic and harnessing the forces of nature and life. However, most of the members of the order are Elvenspring – half-elves who have adopted elvish customs and culture. The domain of the Golden Bough is Dankwood and Vivend, where they live in hidden elven dwellings. They feel a special responsibility for the Stillelves that have become ents, and revere them with gifts and songs. They spend their days destroying things inimical to nature and helping life continue as it was intended. They do not coddle nature, accepting its cruel whims as well.
 
 Dwarves like singing satirical songs about their allies, in which “the Golden Bough” means something completely different.
-
-and experience the world as new over and over. Their name comes from their custom of adorning their bodies with organic patterns. These patterns are neither cut nor painted. Instead, they are created by the elf by rearranging the darker sap of their bodies into patterns on their skin. This artform was discovered by the legendary Veliman the Painter long before humans arrived in Ravenland. The ancient Melder is said to be roaming the land still.
-
-Melders are very hard to discover, unless they choose to reveal themselves. This is partly because their skin patterns function as a sort of camouflage when the Melder is in areas with vegetation, but also because they often know magic that allow them to hide themselves. If you come across a Melder, they are usually kind, generous and curious about everything and everybody. They especially love talking in great detail about their special interests, which can get tiresome rather quickly. After all, they have no great rush in explaining things given they are immortal.
 
 **TYPICAL GOLDEN BOUGH DRUID**
 
@@ -197,6 +211,12 @@ Melders are very hard to discover, unless they choose to reveal themselves. This
 - **TALENTS:** Path of Healing 2
 - **GEAR:** Throwing spear, falcion, leather armor
 
+### Melders
+
+Some active elves travel through the Forbidden Lands in the role of scientists and artists, perhaps to find the perfect pine cone, spread flowers to create landscapes of art, or to catalogue and memorize all species of beetle in the land. Some have been blessed with a bad memory, and experience the world as new over and over. Their name comes from their custom of adorning their bodies with organic patterns. These patterns are neither cut nor painted. Instead, they are created by the elf by rearranging the darker sap of their bodies into patterns on their skin. This artform was discovered by the legendary Veliman the Painter long before humans arrived in Ravenland. The ancient Melder is said to be roaming the land still.
+
+Melders are very hard to discover, unless they choose to reveal themselves. This is partly because their skin patterns function as a sort of camouflage when the Melder is in areas with vegetation, but also because they often know magic that allow them to hide themselves. If you come across a Melder, they are usually kind, generous and curious about everything and everybody. They especially love talking in great detail about their special interests, which can get tiresome rather quickly. After all, they have no great rush in explaining things given they are immortal.
+
 **TYPICAL MELDER**
 
 - **STRENGTH** **3**, **AGILITY** **4**, **WITS** **4**, **EMPATHY** **3**
@@ -204,9 +224,7 @@ Melders are very hard to discover, unless they choose to reveal themselves. This
 - **TALENTS:** Path of Sight 2
 - **GEAR:** Knife
 
-### Melders
-
-Some active elves travel through the Forbidden Lands in the role of scientists and artists, perhaps to find the perfect pine cone, spread flowers to create landscapes of art, or to catalogue and memorize all species of beetle in the land. Some have been blessed with a bad memory, WATCHERS: Among the Melders, there is a special group called the Watchers. Their name derives from the fact that they have taken it upon themselves to roam the world to gather impressions and curios that they carry back to the Stillelves in the Stillmist to amuse them and tell them about the world. The Watchers are more interested in meeting other kin, and usually come across as travelling minstrels.
+WATCHERS: Among the Melders, there is a special group called the Watchers. Their name derives from the fact that they have taken it upon themselves to roam the world to gather impressions and curios that they carry back to the Stillelves in the Stillmist to amuse them and tell them about the world. The Watchers are more interested in meeting other kin, and usually come across as travelling minstrels.
 
 ### Redrunners
 
@@ -262,17 +280,6 @@ The Meromannians have been forced to fight against the humans ever since their e
 
 More ambitious Meromannians have been gathering an army since the Blood Mist lifted, so as to attack the villages of the orcs and humans and take back their land. The fiery Tormund Halfhand has proclaimed himself warlord and is attracting and gathering large numbers of dwarves with his heated speeches.
 
-carry heavy axes. They also use armored war hounds (see page 126).
-
-A group of nobles in Stonegarden does not have the same confidence in the clan’s own abilities, and have secretly contacted the Urhur orc clan to forge an alliance against the humans.
-
-**TYPICAL CANIDE**
-
-- **STRENGTH** **5**, **AGILITY** **3**, **WITS** **2**, **EMPATHY** **2**
-- **SKILLS:** Might 4, Endurance 2, Melee 3, Scouting 2, Survival 2
-- **TALENTS:** –
-- **GEAR:** Two-handed axe, plate armor, closed helmet
-
 **TYPICAL MEROMANNIAN**
 
 - **STRENGTH** **4**, **AGILITY** **3**, **WITS** **3**, **EMPATHY** **2**
@@ -282,7 +289,16 @@ A group of nobles in Stonegarden does not have the same confidence in the clan�
 
 ### Canides – the Iron Dog Clans
 
-The Iron Hounds live on the surface of the world, and have taken responsibility for the dwarves’ duties above ground. They are proud and believe themselves hardier and more adaptable than other dwarves, both physically and morally. Their skin and hair are generally darker because they have adapted to life in the sunlight. When the humans invaded, the Iron Hounds fought alongside the Meromannians, but were forced to retreat to their mountain Stonegarden, where no one can attack them, since the sides are sheer cliffs while the top of the mountain is riddled with caves. They still claim they are the guardians of the land, even though they are currently at a disadvantage. King Karonax and his queen, Sulma the “Iron Bitch,” are both great warriors. In the field, the Iron Hounds wear black armor and
+The Iron Hounds live on the surface of the world, and have taken responsibility for the dwarves’ duties above ground. They are proud and believe themselves hardier and more adaptable than other dwarves, both physically and morally. Their skin and hair are generally darker because they have adapted to life in the sunlight. When the humans invaded, the Iron Hounds fought alongside the Meromannians, but were forced to retreat to their mountain Stonegarden, where no one can attack them, since the sides are sheer cliffs while the top of the mountain is riddled with caves. They still claim they are the guardians of the land, even though they are currently at a disadvantage. King Karonax and his queen, Sulma the “Iron Bitch,” are both great warriors. In the field, the Iron Hounds wear black armor and carry heavy axes. They also use armored war hounds (see page 126).
+
+A group of nobles in Stonegarden does not have the same confidence in the clan’s own abilities, and have secretly contacted the Urhur orc clan to forge an alliance against the humans.
+
+**TYPICAL CANIDE**
+
+- **STRENGTH** **5**, **AGILITY** **3**, **WITS** **2**, **EMPATHY** **2**
+- **SKILLS:** Might 4, Endurance 2, Melee 3, Scouting 2, Survival 2
+- **TALENTS:** –
+- **GEAR:** Two-handed axe, plate armor, closed helmet
 
 ### Crombes – the Guardian Clan
 
@@ -375,15 +391,13 @@ The homeland of the orcs is called Feulenmark, or simply the Clan Land, which al
 
 Apart from the clans there are plenty of smaller orc groups in the forests and mountains that have either been cast out or are simply uncomfortable as part of a larger society. These groups are called drifters.
 
-city and demonstrating how orcs can also be cultivated folk and builders of empires. They tend to adorn themselves garishly, try to seem interested in music and poetry, and are a comic parody of civilization to other kin. Since they are also prone to violence and are easily offended those that meet them would do well to keep such thoughts to themselves. The Urhurs, like other orcs, dislike being reminded of their origins as servants of dwarves and elves and tend to embellish their own history. Emperor Hroka has a great weakness for gold and everything that sparkles. He doesn’t really know what to do with his treasures but knows that an emperor is supposed to appreciate such things. Recently, he presented his wife, Soria, with the elven ruby, Iridne, as a gift to commemorate their wedding.
+### The Urhur Clan
+
+The Urhur clan is ruled by the self-proclaimed Emperor Hroka the First and the Greatest from an abandoned elven city. The Urhurs claim to be at the top of the orcs’ growing civilization. Their main focus is respect and power, building their city and demonstrating how orcs can also be cultivated folk and builders of empires. They tend to adorn themselves garishly, try to seem interested in music and poetry, and are a comic parody of civilization to other kin. Since they are also prone to violence and are easily offended those that meet them would do well to keep such thoughts to themselves. The Urhurs, like other orcs, dislike being reminded of their origins as servants of dwarves and elves and tend to embellish their own history. Emperor Hroka has a great weakness for gold and everything that sparkles. He doesn’t really know what to do with his treasures but knows that an emperor is supposed to appreciate such things. Recently, he presented his wife, Soria, with the elven ruby, Iridne, as a gift to commemorate their wedding.
 
 There are a few humans and dwarves at Hroka’s court. They all play along with the emperor’s delusions and act as councilors, among them the trickster, Hranga Gala. Others dislike Hroka’s imperial ambitions and would love to see him dethroned. The Urhurs are secretly developing diplomatic ties with the dwarves at Stonegarden.
 
 The name Urhur is derived from “purple,” a word the orcs cannot pronounce properly. Their clan symbol is a purple hand and they frequently use purple color collected from shells in the Gargan Marshes to paint their faces. They trade with the Saurians for the shells.
-
-### The Urhur Clan
-
-The Urhur clan is ruled by the self-proclaimed Emperor Hroka the First and the Greatest from an abandoned elven city. The Urhurs claim to be at the top of the orcs’ growing civilization. Their main focus is respect and power, building their
 
 **TYPICAL URHUR**
 
@@ -425,7 +439,9 @@ The leader of the Isirs is called Eldag the Ravager. Ravaging bands of Isir warr
 - **GEAR:** Two-handed sword, studded leather armor, closed helmet
 - **POISON:** Isir warriors have a poisonous bite (hallucinogenic poison with Potency D3+2). The bite itself is an unarmed attack with Weapon Damage 1 (slash wound). Isir warrior also get a +3 bonus to ENDURANCE rolls to resist poison.
 
-carry a piece of fox fur in their clothes (which is common among other orcs as well). They enact wild rituals in the forests where living prey, often humans, dwarves, and elves, are hunted, torn apart and then eaten after the Viraga have ingested various holy plant extracts and become intoxicated.
+### Viraga
+
+The Viraga are a group of female orcs, not unlike a witch coven. Barren female orcs from all the clans often seek out the Viraga to serve their kin among them. The Viraga are a unifying force between the clans, and function as a shadow government. The cunning fox is the totem of the Viraga and its members always carry a piece of fox fur in their clothes (which is common among other orcs as well). They enact wild rituals in the forests where living prey, often humans, dwarves, and elves, are hunted, torn apart and then eaten after the Viraga have ingested various holy plant extracts and become intoxicated.
 
 The Viraga believe that their most important task is to increase the knowledge and power of the orcs. Especially human-like females are chosen to infiltrate human settlements, where they steal practical and theoretical knowledge as well as items that may be of use to the kin. Sometimes they lure craftsmen or other skilled humans into the woods, where they are captured to be used as teachers, slaves, or prey.
 
@@ -437,10 +453,6 @@ The Viraga are often sent on especially difficult or dangerous covert actions, s
 - **SKILLS:** Melee 2, Stealth 2, Move 2, Marksmanship 2, Lore 2, Insight 3, Manipulation 2
 - **TALENTS:** Path of the Killer 2
 - **GEAR:** Shortsword, dagger, four throwing knives, leather armor
-
-### Viraga
-
-The Viraga are a group of female orcs, not unlike a witch coven. Barren female orcs from all the clans often seek out the Viraga to serve their kin among them. The Viraga are a unifying force between the clans, and function as a shadow government. The cunning fox is the totem of the Viraga and its members always
 
 ### Drifters
 
@@ -476,9 +488,7 @@ _“Intruders are et”_ _“Strangers be meat”_ – Warning signs at the trad
 
 Saurians prefer to keep to themselves, but since they have realized the value of metal tools and cannot manufacture them for themselves, they trade with outsiders at a few select places along the southern rim of the Gargan Marshes. These simple trading posts consist of a wooden platform that can be reached from the shore using wooden walkways sloping down towards the water. There are simple huts, sheds and stables for traders, their horses, and their wares on the platforms. The Saurians keep a strict peace at the trading posts but see anything alive out in the marshes as prey. They trade for meat and metal objects, such as knives, eel spears and spearheads, for fish, purple shells, frogs, and bread root – the large, starchy roots from bread sedge. Bread root is the staple diet in the area around Laak Varda and Elya River and is eaten in great quantities by humans as well as dwarves, halflings and orcs. The Saurians are not interested in gold or silver or other valuables.
 
-Some claim Saurians have attacked settlements close to the marshes in times of need, and that groups of banished Saurians hide in bogs and lakes further inland where they pillage and kill, but they are rarely seen otherwise. On some odd occasions, Saurians
-
-have been used for raids against ships or targets near water.
+Some claim Saurians have attacked settlements close to the marshes in times of need, and that groups of banished Saurians hide in bogs and lakes further inland where they pillage and kill, but they are rarely seen otherwise. On some odd occasions, Saurians have been used for raids against ships or targets near water.
 
 Saurians are unable to chew. They can cut their prey up in little pieces and devour them without chewing but prefer to let carcasses ferment to the point of falling apart, and then rip pieces from them. They prefer to do so during a feast, such as a whole family tearing ripe carrion apart in their special feasting pond. This diet makes them stink and we won’t even talk about their breath. In an emergency, Saurians can eat mashed bread root.
 
@@ -523,7 +533,11 @@ deepest forest, or in an inaccessible ravine. Males are not allowed in these pla
 
 Both half-kin worship the moon goddess Eor, whose cyclic shifts mirror the dark and light side of the kin. Being born under the full moon is considered to be a sign of a greater destiny.
 
-their jovial facade. There are plenty of taverns in their villages, since they prefer to meet on neutral ground rather than at home where any flaws may be revealed.
+### Halflings
+
+Halflings often live in small villages where they work as farmers and gatherers. Often, they have a deep need of sweeping any problems under the rug and present an image of an idyllic life, a need grown from their shame of the dark side of their half-kin. Behind this veneer are hidden burrows where they keep the old, disfigured and misfits. Drug use is rampant but well hidden, including tobacco, alcohol and narcotic plants, which are considered a quaint and innocent part of their culture.
+
+Halflings trade with humans, dwarves, half-elves and elves, but never open up to anyone and distrust all other kin behind their jovial facade. There are plenty of taverns in their villages, since they prefer to meet on neutral ground rather than at home where any flaws may be revealed.
 
 Some halflings feel smothered by the idyllic life in the villages, grow restless, and leave to live lives as adventurers, thieves and, in some cases, even assassins. They are said to be born “under the dark moon” or “when Eor slept.” It is often implied that they were born to a goblin mother, even if their actual lineage is taboo as a topic of discussion.
 
@@ -533,12 +547,6 @@ Some halflings feel smothered by the idyllic life in the villages, grow restless
 - **SKILLS:** Melee 1, Crafting 2, Stealth 2, Sleight of Hand 1, Insight 2, Manipulation 2
 - **TALENTS:** –
 - **GEAR:** Shortsword, sling, leather armor
-
-### Halflings
-
-Halflings often live in small villages where they work as farmers and gatherers. Often, they have a deep need of sweeping any problems under the rug and present an image of an idyllic life, a need grown from their shame of the dark side of their half-kin. Behind this veneer are hidden burrows where they keep the old, disfigured and misfits. Drug use is rampant but well hidden, including tobacco, alcohol and narcotic plants, which are considered a quaint and innocent part of their culture.
-
-Halflings trade with humans, dwarves, half-elves and elves, but never open up to anyone and distrust all other kin behind
 
 ### Goblins
 

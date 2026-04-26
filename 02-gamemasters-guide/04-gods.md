@@ -109,7 +109,7 @@ The water goddess, Flow, is worshipped by elves, Elvenspring, and villagers. Dur
 
 ### The Nightwalker
 
-The Nightwalker is considered the oldest of all the gods, the untameable force of nature that shatters harmony and the ordinary. Nor- mal people do not worship him but may seek to appease him to avoid bad luck and disaster, sometimes by blood sacrifice. The Nightwalker is the protector of the night, mysteries, and untamed magic. He sees through any veil. The moon is his eye and wisps of smoke are his spies, as are the vague and ethereal fragments of fog that rise from the ground when the weather is cold and damp.
+The Nightwalker is considered the oldest of all the gods, the untameable force of nature that shatters harmony and the ordinary. Normal people do not worship him but may seek to appease him to avoid bad luck and disaster, sometimes by blood sacrifice. The Nightwalker is the protector of the night, mysteries, and untamed magic. He sees through any veil. The moon is his eye and wisps of smoke are his spies, as are the vague and ethereal fragments of fog that rise from the ground when the weather is cold and damp.
 
 ### Horn
 
