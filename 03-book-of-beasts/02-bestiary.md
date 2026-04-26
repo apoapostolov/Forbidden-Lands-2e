@@ -4675,7 +4675,8 @@ The trapped Misgrown is an escaped experiment from one of Zytera’s demonologic
 For the Maiden Druids’ stats, see the _Gamemaster’s Guide_, page 51.
 
 - **Terrain Types:** Forest, Dark Forest
-**ESCAPED EXPERIMENT**
+
+#### ESCAPED EXPERIMENT
 
 The snared creature has a terrifying appearance with hornlike spikes all over its body. The face is dominated by an oversized mouth with huge fangs. Ten green reptilian eyes are positioned around its scalp, staring ravenously in all direction. The Misgrown understands human speech and is rather fond of humans, but only communicates through guttural grunts.
 
