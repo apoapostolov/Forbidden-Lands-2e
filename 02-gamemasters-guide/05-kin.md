@@ -94,7 +94,7 @@ The guardians standing watch on the Iron Lock are called The Silent. They are be
 
 ### Aslenes
 
-Aslenes are unmistakable beside Alderlanders. Medium height, lean, with a horseman’s compact build — strong through the thighs and core, low center of gravity. Complexion in the light inner-Asian steppe way: the warmer, lighter end of Mongolian coloring, not pale Nordic and not deep Mediterranean. Features distinctly Mongolic: wide cheekbones, flat nasal bridge, strong jaw, dark brown eyes slightly tilted, often with a light epicanthic fold. Hair black to very dark brown, straight and coarse-textured, worn tied back at work and braided artfully for any gathering — both men and women braid. Clothing in earth tones with patterned color fields. Gold and bronze over silver. Alderlanders call them stouter than themselves and believe the riders lack culture. The Aslenes do not dispute this.
+Aslenes are unmistakable beside Alderlanders. Medium height, lean, with a horseman’s compact build — strong through the thighs and core, low center of gravity. Complexion warm bronze, sun-caught from years in the saddle, lighter in winter, darker by harvest. Wide cheekbones, flat nasal bridge, strong jaw. Dark brown eyes, slightly upward-set, built for reading weather across open ground. Hair black to very dark brown, straight and coarse-textured, worn tied back at work and braided artfully for any gathering — both men and women braid. Clothing in earth tones with patterned color fields. Gold and bronze over silver. Alderlanders call them stouter than themselves and believe the riders lack culture. The Aslenes do not dispute this.
 
 Aslenes tell the truth to your face. An insult behind someone's back is cowardice; the same insult said to their face is a courtesy. This reads as aggression to Alderlanders, who soften everything. Aslenes do not adjust for this.
 
@@ -146,15 +146,13 @@ Misgrown are humans who have been seduced and twisted by Zytera, and thus assume
 
 ### – Geno the Heckler –
 
-Elves live for a very long time, unlike the other inhabitants of the Forbidden Lands. Over time, many elves lose interest in the world unless they find some goal in life that pushes them on. Their society has no formal power structure. Age, skill and experience grants a level of status that is accepted by most elves. Other kin rarely understand the society of the elves, and so divide them into Stillelves and The Unruly, based on their behavior. The elves, in turn, have a hard time understanding the motivations and lives of the other kin, likening them to soft berries that rot when au-
+Elves live for a very long time, unlike the other inhabitants of the Forbidden Lands. Over time, many elves lose interest in the world unless they find some goal in life that pushes them on. Their society has no formal power structure. Age, skill and experience grants a level of status that is accepted by most elves. Other kin rarely understand the society of the elves, and so divide them into Stillelves and The Unruly, based on their behavior. The elves, in turn, have a hard time understanding the motivations and lives of the other kin, likening them to soft berries that rot when autumn approaches, while the elves themselves are lasting stone fruit. Their flesh is renewed by the rubies in their chests, from which the individual can be recreated even if their bodies are completely destroyed.
 
 ### Elvish Saying
 
 > _“Three things mortal hands cannot mend: broken birds’ eggs, the heart ruby and ravaged oaths between kin.”_
 
 Dwarf stonesingers love mending broken eggs simply to spite the elves.
-
-tumn approaches, while the elves themselves are lasting stone fruit. Their flesh is renewed by the rubies in their chests, from which the individual can be recreated even if their bodies are completely destroyed.
 
 Blood relation does not matter to the elves and they have no hierarchies beyond respect for age and knowledge. They are not religious and do not worship the gods, but they do not deny their existence, instead viewing them as honorable teachers.
 
@@ -490,9 +488,7 @@ _“Intruders are et”_ _“Strangers be meat”_ – Warning signs at the trad
 
 Saurians prefer to keep to themselves, but since they have realized the value of metal tools and cannot manufacture them for themselves, they trade with outsiders at a few select places along the southern rim of the Gargan Marshes. These simple trading posts consist of a wooden platform that can be reached from the shore using wooden walkways sloping down towards the water. There are simple huts, sheds and stables for traders, their horses, and their wares on the platforms. The Saurians keep a strict peace at the trading posts but see anything alive out in the marshes as prey. They trade for meat and metal objects, such as knives, eel spears and spearheads, for fish, purple shells, frogs, and bread root – the large, starchy roots from bread sedge. Bread root is the staple diet in the area around Laak Varda and Elya River and is eaten in great quantities by humans as well as dwarves, halflings and orcs. The Saurians are not interested in gold or silver or other valuables.
 
-Some claim Saurians have attacked settlements close to the marshes in times of need, and that groups of banished Saurians hide in bogs and lakes further inland where they pillage and kill, but they are rarely seen otherwise. On some odd occasions, Saurians
-
-have been used for raids against ships or targets near water.
+Some claim Saurians have attacked settlements close to the marshes in times of need, and that groups of banished Saurians hide in bogs and lakes further inland where they pillage and kill, but they are rarely seen otherwise. On some odd occasions, Saurians have been used for raids against ships or targets near water.
 
 Saurians are unable to chew. They can cut their prey up in little pieces and devour them without chewing but prefer to let carcasses ferment to the point of falling apart, and then rip pieces from them. They prefer to do so during a feast, such as a whole family tearing ripe carrion apart in their special feasting pond. This diet makes them stink and we won’t even talk about their breath. In an emergency, Saurians can eat mashed bread root.
 
@@ -537,7 +533,11 @@ deepest forest, or in an inaccessible ravine. Males are not allowed in these pla
 
 Both half-kin worship the moon goddess Eor, whose cyclic shifts mirror the dark and light side of the kin. Being born under the full moon is considered to be a sign of a greater destiny.
 
-their jovial facade. There are plenty of taverns in their villages, since they prefer to meet on neutral ground rather than at home where any flaws may be revealed.
+### Halflings
+
+Halflings often live in small villages where they work as farmers and gatherers. Often, they have a deep need of sweeping any problems under the rug and present an image of an idyllic life, a need grown from their shame of the dark side of their half-kin. Behind this veneer are hidden burrows where they keep the old, disfigured and misfits. Drug use is rampant but well hidden, including tobacco, alcohol and narcotic plants, which are considered a quaint and innocent part of their culture.
+
+Halflings trade with humans, dwarves, half-elves and elves, but never open up to anyone and distrust all other kin behind their jovial facade. There are plenty of taverns in their villages, since they prefer to meet on neutral ground rather than at home where any flaws may be revealed.
 
 Some halflings feel smothered by the idyllic life in the villages, grow restless, and leave to live lives as adventurers, thieves and, in some cases, even assassins. They are said to be born “under the dark moon” or “when Eor slept.” It is often implied that they were born to a goblin mother, even if their actual lineage is taboo as a topic of discussion.
 
@@ -547,12 +547,6 @@ Some halflings feel smothered by the idyllic life in the villages, grow restless
 - **SKILLS:** Melee 1, Crafting 2, Stealth 2, Sleight of Hand 1, Insight 2, Manipulation 2
 - **TALENTS:** –
 - **GEAR:** Shortsword, sling, leather armor
-
-### Halflings
-
-Halflings often live in small villages where they work as farmers and gatherers. Often, they have a deep need of sweeping any problems under the rug and present an image of an idyllic life, a need grown from their shame of the dark side of their half-kin. Behind this veneer are hidden burrows where they keep the old, disfigured and misfits. Drug use is rampant but well hidden, including tobacco, alcohol and narcotic plants, which are considered a quaint and innocent part of their culture.
-
-Halflings trade with humans, dwarves, half-elves and elves, but never open up to anyone and distrust all other kin behind
 
 ### Goblins
 
