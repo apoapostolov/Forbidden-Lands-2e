@@ -41,19 +41,27 @@ their lineage to Sella the Liberator. Their culture is
 matrilineal — inheritance, leadership, and clan membership
 pass through the female line.
 
-**Keeper of the Astra:** Sella's Dragonboot — a single
-left boot, armored, knee-high. Currently held by the
-chieftain **Mommodar**, a young woman who inherited the
-position recently.
+**Associated Astra:** Sella's Dragonboot — a single left
+boot, armored, knee-high. Current location unknown; no
+longer in Sabirian custody.
 
 **Cultural notes:**
 - The Sabirians are the fastest riders in the Bloodmarch.
   Their horses are bred specifically for the open grassland.
-- Sabirian women lead both domestically and in war. Men
-  hold secondary positions but are not suppressed — the
-  culture is matriarchal, not anti-male.
-- Mommodar is young enough to be underestimated. She is
-  not.
+- Sabirian culture is matriarchal. Women lead both
+  domestically and in war; the hierarchy comes from
+  deep tradition, not from grievance.
+- **Mommodar** (called "the Gnawer" or "the Rodent") was
+  once a powerful warrior, now old and heavyset. He moves
+  slowly but is considered the shrewdest mind in the clan.
+  His manner is genial and grandpaternal; his calculating
+  gaze never fully disappears. He never loses composure.
+  He owns the famous wingsteed Barganos — whose offspring
+  have all been born wingless. Mommodar is considered too
+  old and fat to ride Barganos himself.
+- Mommodar's daughter **Gerbera** is considered a dark
+  beauty, which she does not want to hear about. She lives
+  for horses and dresses as a man.
 
 ### Caberians (Clan of Craft and Trade)
 
@@ -61,19 +69,26 @@ Eastern hills and river passes. Traders and craftspeople.
 The Caberians work the most extensively with non-clan kin —
 including Vasnians and Caprid dwarves.
 
-**Keeper of the Astra:** Glasstooth — a dagger of translucent
-material, also called Serpent's Bane. Currently held by
-the chieftain **Merdekai**, a merchant-warrior of middle
-age who views most things in terms of their practical value.
+**Associated Astra:** Glasstooth — a dagger of translucent
+material, also called Serpent's Bane. Current location
+unknown; not in Caberian custody.
 
 **Cultural notes:**
 - Caberian towns are the most cosmopolitan in the Bloodmarch.
-  Vasnians, dwarves, and halflings all have quarters in
-  the larger Caberian settlements.
-- Merdekai is not a fan of the Pyrolytes, who he regards
-  as expensive and politically unpredictable.
+  Vasnians, dwarves, and halflings all have quarters in the
+  larger Caberian settlements.
+- **Merdekai** is chieftain of the Caberians and scarred by
+  countless battles and hardships. His skin is lined and
+  tanned like old leather under a mop of dark hair; his
+  bright eyes are sharp. He provokes people as a habit and
+  does not back down.
+- Merdekai's son **Siltellos** is curly-haired and weak
+  under his dominant father's shadow. He barely has the
+  courage to meet people's eyes but knows what is required
+  of him, which gives a conflicted and nervous impression.
 - The Caberians maintain the best road network inside the
-  Bloodmarch.
+  Bloodmarch. Merdekai regards the Pyrolytes as expensive
+  and politically unpredictable.
 
 ### Galdanes (The Northern Clans)
 
@@ -298,3 +313,215 @@ were at least known; Ravenlanders are genuinely foreign.
 
 Standard human and kin mechanics apply for Ravenlanders
 who are playing characters from outside the region.
+
+---
+
+## Named Individuals
+
+Named characters encountered across the Bloodmarch.
+Spoiler-adjacent agendas are in `campaigns/bloodmarch.md`.
+
+### Horse Clan Leadership
+
+**Selligar Horne** — Houn chieftain. Tall and handsome
+in his forties, thick chestnut hair, silver-plated chainmail
+with a silk tunic of colored triangles. A pragmatic man
+who has held power through careful neutrality. He holds the
+Helm of Horn and is the candidate the Ashenstead priests
+believe must unify the Bloodmarch. He is always on the move
+and difficult to find; messengers hunting him often come
+back empty-handed.
+
+**Mommodar** — Sabirian chieftain. See Sabirian section.
+His daughter Gerbera attends the wedding at Ashenstead with
+him; Siltellos (Merdekai's son) is the intended match.
+
+**Merdekai** — Caberian chieftain. See Caberian section.
+
+**Konana** — Vasnian representative and guide. Tall and
+heavy-set with short ash-blonde hair. Almost full-blooded
+orc but can pass for human — canines slightly too long,
+build too dense, but she presents as a professional mercenary
+from the Drawn Lands and fills in plausible-sounding details
+if pressed. She is skilled with sword, shield, and crossbow.
+She knows secret mountain paths through the northern Aslene
+range. She is aware that the Goblet Staff of Have is mounted
+as a war prize in a Vasnian chieftain's hall, and is willing
+to broker that information.
+
+**Sumber Greatheel** — Historical Houn warrior, claimed
+ancestor of Selligar Horne. Led a small force to hold off
+demonic attackers during the Demon Flood, giving other
+Houns time to take their own lives in battle rather than
+die on the demons' terms. His warriors were all killed;
+his pregnant wife **Ismaela** escaped and founded the
+lineage. Horse clan tradition treats this story as founding
+myth for the Houn warrior code.
+
+### Ashenstead Temple
+
+**Liklaudos** — Fair-haired, fair-bearded high priest of
+Horn at Ashenstead. Mild-tempered and diplomatic; used to
+mediating between hotheaded clan riders. He talks too much
+and preachily about life. Wears a light-colored cowl painted
+with Horn's symbols.
+
+**Prunofilia** — Priestess of Have; Liklaudos's wife. Thin,
+long dark hair nearly covering large piercing eyes. Reluctant
+to speak. Deeply religious. Wears a silk kimono embroidered
+with greenery, passed from her predecessor. Manages the
+temple library and sends others on errands she cannot
+perform herself.
+
+**Melgir Skylark** — High priestess of Have. Under thirty,
+both a skilled rider and a singer. Highly valued as an
+advisor; people trust her quickly. Married to Tordenost.
+
+**Tordenost** — Horn priest; Melgir's husband. Short dark
+hair and a beard. His gaze is described as burning with
+Horn's fire when he is angry. Devoted to magma singing and
+practices it openly.
+
+**Mongelo** — Alchemist at Ashenstead. Refines blue tar
+to higher potency and conducts anatomical experiments
+on captured red elves to produce Prunes. Curly hair always
+messy; teeth corroded by sweet roots. Wears a battered
+black cowl. He lives for the work.
+
+**Blauder of Have** — A Prune serving the Ashenstead
+temple. Blue-black, emaciated, obsidian-orb eyes. Smells
+of turpentine. Used as a servant and enforcer by the
+priests; retains enough awareness to carry out orders
+but is filled with hatred.
+
+### Taregyll
+
+**Kurmena** — Egressor (Order of Egression) who runs
+the House of the Dead in Taregyll. Stout, middle-aged,
+wispy blonde hair; calm and gentle in her work. She reads
+the restless dead and prepares them for death, writing
+notes directly on their bodies in tar runes.
+
+**Eisendor** — Kurmena's assistant. Large, bald, sad-
+faced man with sagging cheeks. Torn between loyalties;
+Rust Church tattoos under his monk's garb.
+
+**Strunde** — Horned dwarf Horn priest assigned to
+Tagryll's lava vent chapel, there as an alternative to
+exile in disgrace. He broke his left horn, a source of
+unbearable shame. Copes with it by drinking. When drunk
+he laughs and performs his duties perversely. Sober, he
+trembles and hallucinates.
+
+**Captain Brock** — Ravenland deserter (never confirmed
+publicly) who controls both of Taregyll's executioners'
+guilds through a third party. Careful to look like a
+smart officer at all times: dyed black hair and beard,
+black pomade, silver-buckled leather. He wants competing
+guilds to keep the town insecure, which is good for
+his protection business.
+
+**Jagra** — Galdane-born fencing teacher and fronted
+leader of Jagra's Executioners' Guild. Heavily scarred
+war veteran. Officially competes with the Ironclad;
+actually works for Brock. Skilled rider and fighter.
+
+**Antmar Stickyfingers** — Fence and information broker
+in Taregyll. Rat-like appearance, sand-colored mustache,
+fast talker. Buys anything, no questions asked. Sends
+secret caravans to collectors in Alderland every few
+months. The closest thing Taregyll has to an intelligence
+clearinghouse.
+
+**Modler** — Taregyll's tavern keeper and former animal
+tamer and jester from Ravenland. Performs in the evenings
+with a dancing bear and goat. Happy to hire visitors.
+His competitors have a habit of vanishing.
+
+### Salterstay
+
+**Mortilla** — A hedoness who claims to be a goddess of
+death that stumbled into Aslene during the Demon Flood.
+Looks like a woman in her forties with curly dark hair
+and strangely opulent clothes. She is near-immortal
+(swords bounce off her rubbery substance) and immensely
+strong. She travels in an elegant carriage drawn by two
+skeletal horses. Her pleasure is witnessing unusual and
+beautiful deaths. She is not hostile toward those who
+treat her well. She raises the dead of old barrow sites
+to keep her company.
+
+**Turenfort** — Village headman of Salterstay. Portly,
+indecisive, wears official garb he has dyed red to appease
+the red elves. He also wears an Alderlander wig — backwards,
+because he does not know any better.
+
+**Evianda** — Priestess at the Salterstay temple ridge.
+Holds two barrels of blue tar and is willing to sell;
+she has no holy fire but can direct adventurers to a
+source.
+
+### Random Encounter and Regional NPCs
+
+**Pottus Tynk** — Traveling jester. Leader of a troupe
+that came to the Bloodmarch to spread joy. He carries
+Sella's Dragonboot as his left shoe and uses it for
+balance on a slack rope. He is unaware of its nature
+or value. He had a matching right shoe made in ordinary
+leather.
+
+**Mahogany** — Leader of the Inglourious Butchars, a
+group of ten former red elves restored to elvenkind but
+too quickly, leaving defects. All ten carry wood-related
+names. They hunt red elves to cut out their rubies and
+bring them to the Stillmist for recycling. Mahogany carries
+a special knife — Glasstooth — saved for Vaerefor. Both
+he and the Serpent agent Poansa believe they carry the
+"profoundly cursed dagger Serpent's Bane."
+
+**Draug of the White** — Egressor necromancer. Following
+the Seventh (worm people) across the Bloodmarch, raising
+the polished skeletons they leave behind to build an army
+for vengeance. He has a mechanical heart crafted by a
+dwarven smith; it resurrects him one round after death.
+Crushing the heart kills him permanently. Friendly to
+those who oppose the Seventh.
+
+**Mildella** — Draug's companion. Dwarven widow serving
+a five-year mourning period. She knows the Kogler in
+Tribolia and can direct adventurers there.
+
+**Krasylla** — A demon imprisoned in the magma of the
+Bloodmarch, burning perpetually for his crimes during
+the Demon Flood. He can speak to those who approach
+an open lava flow. He offers information and the Arrow
+of the Fire Wyrm he carries if someone helps him
+escape into a living body.
+
+**Vinhelm Kaal** — Moon elf key player. Telepathic;
+Mentalism leaks affect those nearby. Accompanied by
+Orehanne (thief) and Sisella (druid). He moves through
+the Bloodmarch testing the adventurers' usefulness.
+
+**Fiena Fromelei** — Penite pilgrim leader. Leads a
+community of halflings and goblins on a religious
+pilgrimage. Escorted in part by the goblin wolf rider
+**Crudehack** and his riders.
+
+**Prophet Fangler** — Alderlander prophet based in
+Brodelmarg. Claims to have a third eye that grants
+true sight. Preaches that Wyrm will be reborn in the
+Bloodmarch. He has active TRUE SIGHT ability. He is
+guided by the psychopomp Vivírula of the Congregation
+of the Serpent.
+
+**Colonel Grudenstaal** — Rust Church commander in the
+Bloodmarch. Commands the Ironbrow fighting unit. He is
+a believer in name only; politically motivated. Hostile
+to the Congregation of the Serpent.
+
+**Poansa Moulter** — Leader of the Congregation of the
+Serpent's forces in the Bloodmarch. Member of the
+Sisterhood of the Black Mamba; immune to all poisons,
+capable of shapeshifting into a black mamba. Commands
+60 agents.

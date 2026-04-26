@@ -15,7 +15,7 @@ share a name.
 
 All five clans revere Horn as the origin point of humanity
 (or at least of their humanity). His priests are called
-Stonelungs. The central temple, Ashenstead, stands on the
+Horn priests. The central temple, Ashenstead, stands on the
 slopes of the volcano where the Firelands begin. He is depicted
 as a massive man with a head of ash and a spine of burning
 stone.
@@ -188,3 +188,77 @@ disciplined and function as a mercenary force when needed.
 
 They are not connected to the Pyrolytes and regard them
 as rivals.
+
+---
+
+## Wail
+
+Goddess of the Drawn Lands, worshipped by the Sabirian
+horse clan. The Wailing plains take their name from her.
+
+The Sabirians believe wingsteeds are gifts from Wail, sent
+as atonement for her abandonment of the horse clans when
+they most needed her support during Sella's campaign. This
+tradition shapes Sabirian treatment of wingsteeds as holy
+animals.
+
+Wail is paired with Flow in the myths of the Drawn Lands.
+Both are gods of passage; both are associated with the
+west road that is now blocked by the Kreysel hurricane.
+Details involving Wail's role in the true history of the
+Bloodmarch are a campaign spoiler. See `campaigns/bloodmarch.md`.
+
+---
+
+## Congregation of the Serpent
+
+Alderlander religious organization that worships Wyrm.
+Politically rival to the Rust Church in Alderland and
+now competing in the Bloodmarch. They have 60 agents
+and operatives in the Bloodmarch under the command of
+**Poansa Moulter**.
+
+Headquartered in Brodelmarg, the Congregation uses the
+Alderlander prophet **Fangler** as their Bloodmarch mouthpiece.
+Fangler preaches that Wyrm will be reborn in the Bloodmarch.
+
+**Ad Vipera:** The Congregation's secret intelligence unit.
+Motto: *Ad vipera, ad versa.* They believe the end of the
+world is close. Priority target: the Rust Church. Their
+sixty agents in the Bloodmarch include ten elites of
+the Sisterhood of the Black Mamba.
+
+**Sisterhood of the Black Mamba:** Elite sub-unit within
+Ad Vipera. All members are immune to all poisons and can
+shapeshift into a black mamba. Poansa Moulter leads this
+grouping personally.
+
+---
+
+## Meat
+
+The god of the Seventh (worm people). Called "The Crawling
+Land." The Seventh believe their people are engaged in
+a multigenerational transformation: at the twelfth
+generation, all that exists will be Meat — the god's
+living body. "Beyond the Becoming there will be only Meat,
+and all living things will be part of her."
+
+The worm people do not speak directly of their religion;
+this information is pieced together from their behavior,
+from what they have written in the flesh of their hosts,
+and from what those hosts remember.
+
+Vaerefor van Reiben has been known to argue to the Seventh
+that the Crimson Forest is a precursor to Meat, recruiting
+them as unwilling allies.
+
+---
+
+## Tincturus
+
+The god of the drakewyrms. Described as a divine giant
+rainbow. Drakewyrms are not sapient in the human sense but
+they will fight to the death to defend any rainbow that
+appears near them, which they experience as a manifestation
+of their god.

@@ -149,20 +149,24 @@ and people who want to know why it really collapsed.
 **Location:** Fixed, just inside Shadowgate on the
 Bloodmarch side
 **Overview:** Taregyll sprang up when Shadowgate first
-loosened. It attracts the desperate, the opportunistic,
-the curious, and the criminal. It has no charter and
-no formal government. The strongest armed group in town
-functions as the de facto authority, and that changes.
+loosened. Population: rough and varied. No charter, no
+formal government. Two executioners' guilds — the Ironclad
+and Jagra's — are openly run by different people but
+secretly controlled by the same man, Captain Brock, who
+profits from keeping them competing.
 
-Services: multiple inns of variable quality, a trading
-post, a healer of uncertain credentials, weapon and
-armor repair, guides for hire (verify their experience
-before paying), and at least three factions trying to
-recruit newcomers.
+Key locations: House of the Dead (Egressor Kurmena),
+Fire Temple of Have (Ansika), Horn priest Strunde's lava
+vent chapel, Father's Pocket (a banking and storage
+facility run by Frisikos Pyrra), Madam Munna's Inn,
+Meager Modler's Tavern, Fences' Guild (Antmar Stickyfingers),
+the Coal Mill, Tar Distilleries, and the Silent Tower
+(houses the demonic mass Gest, former First Keeper, now
+sealed inside the tower).
 
-Information: The Taregyll rumor mill is extremely
-active. Most information has a grain of truth. Some
-of it is planted by interested parties.
+The Stream of Galme runs through Taregyll: hot, sulfurous,
+undrinkable. Sacred fire fish live in it and are protected
+by local law. The stream cannot be waded safely.
 
 ### Ashenstead
 
@@ -179,24 +183,31 @@ minor clerical status or the specific vouching of a
 Warmother or Warfather. Pyrolytes have standing access.
 
 **Notable feature:** Blue Tar heated on Have's holy fire
-here cures Crimson Sickness. The Warmistress controls
-access to the flame. She does not charge for its use
-against genuine Crimson Sickness; she does charge for
-other uses.
+here cures Crimson Sickness. The flame is maintained
+continuously by three unnamed vazuls under the supervision
+of the high priests Liklaudos and Prunofilia. They do not
+charge for its use against genuine Crimson Sickness; they
+do charge for other uses.
 
 ### Salterstay
 
-**Type:** Penite settlement
-**Location:** Strilling coast
-**Overview:** A significant Penite halfling and goblin
-community. Salt production here is communal and substantial.
-The town's holy days are public; non-Penite are welcomed as
-observers at most ceremonies.
+**Type:** Settler community
+**Location:** Central Aslene, near Lake Suna and the Seindel stream
+**Overview:** A community of about 50 adults who came from
+Harga in Ravenland, probably following the initial reopening
+of Shadowgate. Built on a hill above a salt mine cut into
+the nearby mountains. The Seindel stream runs nearby into
+Lake Suna, giving the community a fishing harbor as well.
+Salt and fish are the main products.
 
-Good place for purchasing salt, salt-preserved goods,
-and information about sea routes. Bad place to show
-disrespect to the local religion — the guest-right
-protections only hold if you observe the salt ceremony.
+Salterstay is currently in crisis. Red elves have occupied
+the east bank of the Seindel and are holding a captured
+rainbow. Vaerefor van Reiben is approaching with Kasabatoda
+to paint the rainbow permanently red. The hedoness
+Mortilla is present and has raised the old barrow dead
+nearby for company. Drakewyrms circle the rainbow,
+regarding it as a manifestation of Tincturus. The village
+headman Turenfort cannot decide what to do about any of it.
 
 ### Oxengelder
 
@@ -278,3 +289,103 @@ is known in Bloodmarch rumor. Its location, contents,
 and significance are campaign spoilers.
 
 See `campaigns/bloodmarch.md`.
+
+---
+
+## Geographic Features
+
+### The Burn
+
+A lava river flowing westward from the volcano Horn
+until it crashes into Scorne Gorge. Forms the northern
+border of Firestead. The Burn is impassable except at
+the Grinagap bridge.
+
+### Scorne Gorge
+
+Wide gorge where the Burn lava river descends. The
+collision of lava and the gorge creates intense heat
+and sulfur fumes visible from a distance.
+
+### Grinagap
+
+The only natural bridge over the Burn. Held by dwarven
+fighters during the worst Demon Flood attacks. It was
+breach when the Tarkin clan sided with the demons,
+enabling them to cross it. Now the bridge is held again
+by the remaining dwarven clans.
+
+### Helya
+
+The only dwarven city in Firestead. Note: Firestead is
+the region; Helya is the city within it. Mostly
+inaccessible to outsiders. The Kogler's workshop is in
+the lower levels of Helya.
+
+### Mount Faltenvil
+
+The specific volcanic mountain hosting Ashenstead temple.
+Rises like a massive anvil; flat top with a horn pointing
+east. Violent conflict is forbidden on the mountain and
+in the village at its base. The mountain has three plateaus
+(the Council Face, Horn Face, and Strike/Fire Face).
+Climbing takes one or two Quarter Days. Not navigable
+by horses — wingsteeds can make it. Called "Verga's Slope"
+after a chieftain who had to crawl it as penance.
+
+### Dunfalt Village
+
+Settlement at the base of Mount Faltenvil. Monthly horse
+market. Tent camps of Sabira and Quard riders around its
+edges. Services include stables, veterinarians, blacksmiths,
+and the Horn's Hammer inn.
+
+### Guardian Temple
+
+A field temple of Horn and Have built on a cliff
+overlooking the central plains. A large stone horse statue
+stands on the cliff top — this is Witherbeam, functional
+but disguised. Inside: priest Valliman (Have), priestess
+Insinera (Horn), a Motherpine (ancient blue pine
+that exudes high-quality blue tar), a smithy, and a
+simple marketplace. Young riders from multiple clans
+come here for training and courtship.
+
+### Lake Suna
+
+Lake in the central Aslene interior near the Seindel
+stream. Salterstay's fishing harbor is on its shore.
+
+### Limestone Region
+
+The lowlands below the eastern mountains near Oxengelder.
+Horn's power does not extend to limestone terrain;
+volcanic magic (Fire Memory, Mold Stone) does not work
+there. Oxengelder is built on limestone — the Dreamstress
+may have chosen this deliberately. The demon Krasylla,
+if freed from the magma, also seeks limestone ground.
+
+### Gåsbenen (Goose Bones)
+
+Eight stone pillars that once flanked Gander's Pass,
+each inhabited by one of the eight wisest Gander mage
+guild members for their lifetimes. Several were destroyed
+when the pass collapsed. Those that survive can still be
+visited for counsel and prophecy; how much remains active
+is unknown.
+
+### Nuggler's Harrow
+
+Dwarven mining districts in or near Vasnia. Contested
+historically between Caprid dwarves and the Vasnians
+who occupied the land above. The dwarves traded the
+five Astra weapons to Sella specifically to obtain horse
+clan military force to clear the Vasnians from Nuggler's
+Harrow. The Book of Winds records this transaction.
+
+### Reiben
+
+The horse clan and Vasnian word for territories covered
+by Crimson Forest — mainly the Havenmark borderlands
+and surrounding demonic regions. Vaerefor van Reiben
+takes his name from this term.

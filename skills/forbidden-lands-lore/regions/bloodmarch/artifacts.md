@@ -29,7 +29,11 @@ the Astra are spoiler content. See `campaigns/bloodmarch.md`.
 ### Goblet Staff of Have
 
 **Clan:** Quards
-**Current Holder:** Jorgundos Ash, Quard chieftain
+**Current Location:** Taken as a war prize and mounted
+on a wall in a Vasnian chieftain's hall somewhere in
+Vasnia. Most Vasnians refuse to part with it as a point
+of pride. The orc/human crossbreed Konana knows which
+hall holds it and is willing to broker access.
 **Appearance:** A walking staff of dark wood, smoothed by
 centuries of handling. The top is carved into a cup shape
 that can hold liquid. The wood grain runs in an unusual
@@ -56,7 +60,11 @@ stone eyes."
 ### Sella's Dragonboot
 
 **Clan:** Sabirians
-**Current Holder:** Mommodar, Sabirian chieftain
+**Current Location:** In the possession of the traveling
+jester **Pottus Tynk**, who wears it as his left shoe
+and uses it for balance on a slack rope. He is unaware
+of its nature or value. He had a matching right shoe
+made in ordinary leather.
 **Appearance:** A single left boot. Armored, knee-high,
 made from scaled hide of a creature no one has
 satisfactorily identified. The scales are a dark bronze-
@@ -68,20 +76,24 @@ do not publicly discuss why only one remains.
 ### Glasstooth
 
 **Clan:** Caberians
-**Current Holder:** Merdekai, Caberian chieftain
+**Current Location:** Held by **Mahogany**, leader of
+the Inglourious Butchars — a group of restored former
+red elves hunting their kind through the Bloodmarch. He
+calls it Serpent's Bane and is saving it for Vaerefor.
+The Serpent Congregation agent **Poansa Moulter** also
+believes she carries the same dagger. The GM decides
+which is real and which is a replica.
 **Appearance:** A dagger blade of translucent crystal,
 edge-sharp and harder than any known mineral. The hilt
 is wrapped in aged leather. The crystal has no bubbles
 or flaws — it appears grown rather than carved.
 **Also called:** Serpent's Bane — a title that implies
-specific power against serpentine creatures, though
-the Caberians do not confirm or deny any specific
-capability beyond "it cuts what needs cutting."
+specific power against serpentine creatures.
 
 ### Arrows of the Fire Wyrm
 
 **Clan:** Galdanes
-**Current Holder:** Contested within the Galdane clan
+**Current Location:** Contested within the Galdane clan
 **Appearance:** Three arrows. The shafts are dark and
 slightly warm. The arrowheads are a dull reddish metal —
 not iron; something else. The fletching is fire wyrm
@@ -90,8 +102,12 @@ Astra. The set is never split.
 **Legend:** Said to have been given by the fire wyrm
 Erinya to the first Galdane who demonstrated sufficient
 courage. The Galdanes alone can operate the arrows as
-intended. (Whether this is literally true or simply
-clan tradition is unverified.)
+intended. (Whether this is literally true or simply clan
+tradition is unverified.)
+**Note on the quiver:** Collecting all three arrows
+summons the quiver; only when held together do they
+constitute one full Astra. Arrows placed in the quiver
+crumble to ash.
 
 ---
 
@@ -116,6 +132,42 @@ campaign spoilers. See `campaigns/bloodmarch.md`.
 
 ---
 
+## Book of Winds
+
+Not an Astra. A historical document — described as the
+oldest book in Aslene, dating to the time the horse clans
+first arrived from the Drawn Lands.
+
+**Public knowledge:**
+- Believed to define the horse clans' founding mission.
+- Said to explain why the route back to the Drawn Lands
+  is blocked by a fierce hurricane in Kreysel.
+- Its location: the Watch of the Sisters, an ancient
+  temple to the goddess Wail.
+- The priestess Prunofilia at Ashenstead wants it
+  retrieved; she can point to the Watch of the Sisters'
+  approximate location.
+
+The true contents of the Book of Winds are spoiler content.
+See `campaigns/bloodmarch.md`.
+
+---
+
+## Hoverfrog Antennae
+
+A craft resource harvested from hoverfrogs. Not a named
+artifact but functionally significant.
+
+- 2D6 antennae can be harvested from each hoverfrog.
+- An antenna broken in half activates it: the effect
+  lasts one Quarter Day.
+- 12 active antennae (broken and held against the body)
+  allow a human-sized creature to float.
+- Unbroken antennae can be stored approximately one
+  month after harvesting before they stop working.
+
+---
+
 ## Witherbeam
 
 A mechanical horse built by the Caprid dwarves. Considered
@@ -134,6 +186,12 @@ construction, if an extraordinary one.
 - It does not eat, tire, or get sick.
 - It cannot be permanently destroyed — damage repairs
   over time through an internal mechanism involving heat.
+- **Current location:** Disguised as a stone statue of a
+  horse on the cliff of the Guardian Temple, a field
+  temple of Horn and Have overlooking the central plains.
+  The horse is painted and in good condition. Most
+  visitors assume it is a statue of Sella the Liberator's
+  horse.
 
 The extent of Witherbeam's capabilities beyond these
 publicly known facts is spoiler content. See

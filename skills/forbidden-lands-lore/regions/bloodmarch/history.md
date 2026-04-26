@@ -116,3 +116,44 @@ sides.
 The clans' reactions to the reopening range from cautious
 welcome to hostility. The Galdanes, who suffered most from
 the Demon Flood, are deeply suspicious of outsiders.
+
+---
+
+## Additional Historical Detail
+
+### Drawn Lands Origin
+
+Historical analysis of language, religion, and tradition
+suggests the horse clans arrived from the Drawn Lands
+more than a thousand years before the Demon Flood. They
+expelled the Vasnians from the best grazing territories
+and adopted the god Horn \u2014 likely influenced by the
+dwarves of Eldhem, the dwarven homeland in the Drawn Lands.
+
+The Book of Winds, believed held at the Watch of the\nSisters, records details about this origin that the horse
+clans guard carefully.
+
+### The Gander Mage Guild
+
+A guild of eight master mages who lived in self-imposed exile\non the eight Gåsbenen pillars at Gander's Pass. They watched\nover the pass in its open years, never taking sides in wars.
+They offered prophecy and counsel to any who climbed the
+pillars and asked. The eight wisest members lived out their
+lives on those pillars as a form of devotion.
+
+The collapse of Gander's Pass during the Demon Flood period\ndestroyed several of the pillars. Whether the collapse was\nnatural or triggered by the Gander to seal the pass is\nunresolved. Surviving pillars can still be visited and\nmay still provide counsel.
+
+### Tarkin Clan Betrayal
+
+During the Demon Flood, a civil war broke out in Firestead\nbetween the dwarven clans. The Tarkin clan sided with the\ndemons, enabling them to breach the Grinagap bridge \u2014 the\nonly natural crossing over the Burn lava river. This allowed\nthe demons to gain a foothold inside Firestead. The Tarkin\nclan has since been abolished and their name struck from\nCaprid records. No living person publicly claims Tarkin\ndescent.
+
+### Sumber Greatheel
+
+An ancestor claimed by Selligar Horne. During the worst\nof the Demon Flood attacks, Sumber led a small force to\nhold off the demonic advance in open ground so that the\nremaining Houns could die in battle on their own terms\nrather than be overrun. His warriors were all killed.\nHis pregnant wife Ismaela escaped and founded the lineage\nSelligar claims today. Sumber Greatheel is a founding\nfigure of Houn warrior tradition; his name means something\nclose to "the one who held the heel of the line."
+
+### Kreysel \u2014 The Hurricane Road
+
+The Drawn Lands road is blocked by the permanent hurricane\nin Kreysel. Public explanation: the sorcerers of the Drawn\nLands sealed the road magically to protect themselves when\nthe Demon Flood reached the Bloodmarch, and have not\nreopened it. This explanation is widely accepted as fact.\n\nThe true cause involves Wail and Flow and deliberate\ndecision. This is a campaign spoiler. See\n`campaigns/bloodmarch.md`.
+
+### Nuggler's Harrow
+
+The dwarves of Eldhem did not give Sella the five Astra\npurely out of religious conviction. The Book of Winds\n(the oldest document of the horse clans) records that\nwhat the dwarves actually wanted was for Sella's united\nclans to drive the Vasnians out of the mining districts\nof Nuggler's Harrow in Vasnia. The Astra were the price\nfor military alliance, not a gift. This does not diminish\nthe religious weight they carry \u2014 but it contextualizes\nwhy the dwarves had them to give.

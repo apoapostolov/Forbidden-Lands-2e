@@ -8,102 +8,104 @@
 
 ## Smolderer
 
-**Terrain:** Ashlands and Firelands
-**Threat:** Moderate
+**Terrain:** Ashlands exclusively
+**Threat:** Moderate in groups; low alone
 
-Gray humanoid figures, approximately man-height, made of
-compacted volcanic ash and bound by demonic energy. They
-move in groups, typically in the early morning when ash
-mist obscures visibility. They draw heat from living
-creatures — a group of Smolderers can drain warmth from
-a camp fire before it is noticed.
+Small, dark gray humanoid creatures with glowing eyes.
+Their warm bodies give off faint wisps of smoke and smell
+of sulfur, but are cold to the touch — they draw heat
+from their surroundings. They tend to attack in great
+hordes, often riding on the backs of ktones.
 
-**Combat trait:** Smolderers resist all physical damage.
-Weapons pass through them. Fire, lightning, and magic
-damage them normally. Blue Tar on a weapon deals +1 damage.
+**Combat trait:** They drain body heat from victims on
+a successful strike. If they take damage they disappear
+into the ashland and do not return. A killed smolderer
+disintegrates into ash.
 
-**On death:** Disintegrates into a pile of cold ash.
-The ash is slightly warm for an hour then cools.
-
-**Ecology:** No clear purpose. They appear, they drain
-warmth, they die or disperse. Local superstition says
-they are the memories of people who died in the Demon
-Flood.
+**Ecology:** They live off heat. Living warmth is
+considered a delicacy among them; the volcanic heat of
+the earth is sufficient to survive but is not the same.
+Their wheezing laughter-like sound when they appear is
+believed to be their language. They are likely intelligent.
 
 ---
 
 ## Bloodbeech
 
 **Terrain:** Crimson Forest edges and boundaries
-**Threat:** Significant for travelers; passive otherwise
+**Threat:** Minor injury; significant across multiple trees
 
-A red tree with white flowers. The flowers track warm-blooded
-creatures who come within a few meters. They attack by
-closing petals into a striking shape and launching at skin.
-The impact is minor — the problem is the sap in the stem
-left behind, which causes rapid numbness and paralysis.
+Large red trees with beautiful white flowers. When flowers
+detect warm-blooded creatures within range, their petals
+drop off and fly down to attack. Each flower draws a few
+drops of blood to sustain seed production. The tree tracks
+how many flowers it has lost and sends only as many as
+needed — the same tree can attack again if more creatures
+come close.
 
-**Combat trait:** A Bloodbeech flower attack stuns the
-target on a hit. Multiple hits within a short time can
-paralyze a creature entirely.
+**Combat trait:** Flower attack against each warm-blooded
+creature within Near range once per round. Cannot be dodged
+or parried.
 
-**Ecology:** The trees grow at the edges of Crimson Forests
-as if marking the boundary. Whether they are part of the
-forest's spread mechanism or native to forest margins is
-uncertain. Red elves tend to walk around them rather than
-through them, which suggests the trees do not distinguish
-kin.
+**Ecology:** Trees grow at Crimson Forest edges. Red elves
+walk around them rather than through them.
 
 ---
 
 ## Prune
 
-**Terrain:** Anywhere their handlers bring them
-**Threat:** Very high; unreliable
+**Terrain:** Near Ashenstead; anywhere their handlers bring them
+**Threat:** Dangerous if fire is present; unpredictable
 
-A red elf that has been injected with Blue Tar. The injection
-transforms the elf's body chemistry. The skin becomes blue-
-veined; the elf's internal temperature rises. Contact with
-open flame causes the elf to detonate explosively.
+Red elves subjected to anatomical procedures and pumping
+of blue tar into their bodies by the priests of Ashenstead.
+The results are scrawny, blue-black creatures that follow
+instructions. Consciousness varies; whatever they retain
+is filled with hatred toward their creators and the world.
 
-Prunes cannot be created voluntarily by the elf — the process
-requires restraint and force. They are used as weapons by
-the Rubor-Kolor cult and, reportedly, by some Galdane
-factions. The use of Prunes is uniformly regarded as
-horrific by the other horse clans.
+Some have escaped or been deliberately released, probably
+to mock or intimidate other red elves. They wander near
+Ashenstead. Elves from Ravenland hunt Prunes to cut out
+the rubies still embedded in their chests — these rubies
+can be used at the Stillmist in Ravenland to recreate
+the original elves.
 
-**Combat trait:** On contact with fire (torch, spell, etc.),
-the Prune detonates. Everyone within Near range suffers
-massive Strength damage. Blue Tar fragments scatter and
-slow demon regeneration.
-
-**Ecology:** Not natural. A created weapon. Prunes cannot
-reproduce and die within months of transformation due to
-internal heat damage.
+**Combat trait:** Prunes explode on contact with fire.
+The explosion deals damage to all creatures within Near
+range.
 
 ---
 
 ## Wingsteed
 
-**Terrain:** Open sky, typically around Horn volcano
+**Terrain:** The Wailing and Kreysel; open grasslands
 **Threat:** Low if not provoked; high if provoked
 
-Gray winged horses. Twenty are known to exist — exactly
-twenty. None have been born in living memory; none have
-died in living memory. They appear to be fixed in number.
+On rare occasions a horse in The Wailing or Kreysel —
+almost always gray — is born with wings. Approximately
+twenty are currently found in the Bloodmarch. The Sabirians
+value them immensely and view them as gifts from the
+goddess Wail, sent as atonement for her betrayal of the
+horse clans during Sella's campaign.
 
-**Barganos** is the most famous: a Wingsteed bonded to a
-young Sabirian rider. Her bond is a matter of local legend.
+Wingsteeds can take flight upwind with powerful wingbeats
+then ride winds like eagles, relying on updrafts for
+altitude. They cannot carry out precise maneuvers or fight
+in the air and will fall if they stop moving. Their flight
+is mainly used for display, carrying messages, and
+overcoming ground obstacles. They move as well on the
+ground as any other horse.
 
-**Combat trait:** Wingesteeds do not fight unless cornered.
-If cornered, their kicks deal devastating damage. They are
-fast enough to escape almost any pursuit.
+**Barganos:** The most famous wingsteed in the Bloodmarch.
+A stallion owned by the Sabirian chieftain Mommodar the
+Gnawer. Mommodar tried to breed more wingsteeds through
+Barganos, but all offspring were born wingless.
 
-**Riding:** A Wingsteed cannot be tamed by normal means.
-Anyone who attempts to mount an unbonded Wingsteed is thrown.
-How bonding occurs is a matter of folklore and disagreement —
-the Sabirians believe Sella's lineage is required; others
-believe any pure enough purpose will suffice.
+**Combat trait:** Wingsteeds do not fight unless cornered.
+Kick attack. Fast enough to escape almost any ground pursuit.
+
+**Breeding note:** Wingsteeds cannot be reliably bred.
+The wing trait does not pass to offspring.
 
 ---
 
@@ -182,97 +184,131 @@ used in lamps that burn hotter than ordinary fuel.
 
 ## Mecha
 
-**Terrain:** Firestead and Caprid underground
-**Threat:** Low individually; significant in groups
+**Terrain:** Tribolia (Firestead surface) and Caprid underground
+**Threat:** Significant; dilapidated machinery creates unpredictability
 
-Mechanical constructs made by the Caprid dwarves. Iron
-frames animated by Magma Song and fed on fire. They are
-not sapient — they follow instructions built into their
-control mechanisms.
+Dwarven mechanical constructs of bronze, steel, and leather,
+with optical crystals for eyes and hydraulic mechanisms for
+muscles. Dwarf-proportioned. The spring that drives them must
+be wound every twelve hours with a key fitted to the hole in
+the back. They follow simple instructions built into the
+mechanisms behind a hatch on the back; only dwarven
+mastersmiths like the Kogler can reprogram them.
 
-Standard Caprid mechas are small — approximately the size
-of a dog — and used for labor: hauling stone, maintaining
-forge temperatures, carrying messages. Larger versions exist
-for defense but are not deployed openly.
+The functional ones in Tribolia are old and worn. There is
+a risk with every action that the grime and age cause a
+malfunction.
 
-**Combat trait:** Fire resistance absolute — fire cannot
-damage a Mecha, it heals it. Physical damage deals normal
-effect. Mechas do not get tired, afraid, or broken by
-morale. Destroying one requires breaking its central gear
-mechanism.
+**Combat trait:** Mechas only take half damage from fire and
+cold; their metal bodies protect them. Artificial eyes see
+in complete darkness. Old mechas risk malfunction on any
+action: overload, sparks, seized limb, or explosion.
 
 ---
 
 ## Salamander
 
-**Terrain:** Firelands and volcanic pools
-**Threat:** Low; moderate if surrounded
+**Terrain:** Firelands; occasionally plains
+**Threat:** Moderate in groups; low alone
 
-Small fire-resistant lizards native to the Firelands.
-They are not demonic — they evolved in volcanic heat.
-They eat insects, small animals, and occasionally each
-other. Their skin is flame-resistant; crushing them produces
-an oily substance used in heat-resistant applications.
+Aslene saurians resembling the saurians of Ravenland, but
+cold-blooded, faster, and weaker. Heat-loving creatures
+that hunt in coordinated packs. They have a primitive
+language of sounds. They cannot chew prey and leave kills
+to rot before returning to eat.
 
-Salamander colonies number in the hundreds. They are
-curious about humanoids and not shy. A camp fire in the
-Firelands will attract a crowd of salamanders within
-the hour.
+Pack hunting method: fast runners drive prey toward other
+salamanders burrowed in the ground, who spring up as the
+prey tires and comes close. A nest can hold up to 60
+individuals built from stacked branches, stones, and bones.
+Salamanders will occupy abandoned buildings. Scouts lurk
+buried in the ground near their nests.
 
-**Products:** Salamander oil. Salamander teeth (used as
-ornaments in horse clan jewelry).
+**Combat trait:** Coordinated pack. Claw attack. Cold-blooded:
+not affected by fire-based fear effects.
 
 ---
 
 ## Sarcoptes
 
-**Terrain:** Crimson Forest; kept by red elves
-**Threat:** Moderate if wild; low if handled by a red elf
+**Terrain:** Crimson Forest; used as mounts by red elves
+**Threat:** High; very high at full size
 
-Scorpion-like arthropods approximately the size of a large
-dog. Red elves breed them as mounts. Wild Sarcoptes are
-territorial and sting on contact.
+Large, almost spherical, eight-legged arachnids that red
+elves use as both draft animals and combat mounts. In combat
+they bite, scratch with front legs, squirt acid at opponents,
+or try to crush prey under their weight. The largest animals
+can weigh more than five tonnes and are often decorated with
+intricate patterns of crimson slime by their riders.
 
-**Mount trait:** Red elf riders treat Sarcoptes as bonded
-mounts. They cannot be ridden by other kin without extensive
-conditioning, and even then the bond is unreliable.
+Red elves only ride the largest sarcoptes. Smaller ones
+swarm alongside in combat with voracious appetites.
 
-**Venom:** Sarcoptes sting venom is a powerful paralytic.
-Wild Sarcoptes inject it as a self-defense mechanism. Tame
-ones are not devenomed — they simply choose not to sting.
+**Combat trait:** Acid spit (corrodes armor), claw scratch,
+bite, and body-crush. Acid corrodes the victim's armor —
+damage blocked by armor decreases the armor's rating by
+the same amount.
+
+**Sarcoptes Nymph:** The smallest sarcoptes have only six
+legs and cannot squirt acid. They still weigh several
+hundred kilos.
+
+**Mount trait:** Red elf riders use the large ones as
+bonded mounts. Cannot be ridden by other kin without
+extensive conditioning.
 
 ---
 
 ## Forest Star
 
 **Terrain:** Crimson Forest
-**Threat:** Low unless threatened
+**Threat:** Very high
 
-A plant that looks like a five-pointed star lying flat on
-the forest floor. Bioluminescent. Moves slowly by pulling
-its points along the ground in alternating steps.
+A huge five-armed monstrosity that sweeps between trees at
+great speed hunting prey. At the end of each arm is a
+fanged head. These heads act together but independently —
+the creature counts as five separate monsters in combat,
+one initiative draw per head. Some forest stars are covered
+in snake scales, others in fur.
 
-Forest Stars are eaten by Slime Snails and several
-Crimson Forest insects. They do not attack warm-blooded
-creatures. Walking across them is uncomfortable — the
-texture is similar to stepping on a blister.
+Forest stars can cross open plains at night to hunt
+temporarily, but they prefer forested terrain where they
+move more easily. Large forest stars hunt alone or in pairs;
+smaller ones appear in packs.
+
+**Combat trait:** Five independent attacking heads. Each
+head has its own Strength. A head whose Strength is reduced
+to zero is severed. Abilities include acid spit, bite, fear
+scream, grapple, arm lash, and a two-head rip-apart kill
+if the beast wins an opposed Strength roll on a grappled
+victim.
 
 ---
 
 ## Slime Snail
 
-**Terrain:** Crimson Forest (and Crimson Ooze trails)
-**Threat:** High due to the Crimson Ooze they produce
+**Terrain:** Crimson Forest; small packs near forest edges
+**Threat:** High; Crimson Forest spread vector
 
-Large mollusks that produce Crimson Ooze as a byproduct
-of their digestion. They trail Crimson Ooze wherever they go.
-This accelerates Crimson Forest spread. They eat Forest Stars,
-fungi, and organic debris.
+Large mollusks that devour all organic matter in their path
+without chewing — including living creatures — and convert
+it into a trail of red slime that spreads Crimson Forest.
+Since they are not active predators, they move slowly, but
+shoot strings of adhesive slime at moving things in front
+of them and drag them into their mouths.
 
-**Kasabatoda:** The legendary giant Slime Snail — house-sized.
-It appears somewhere in the Bloodmarch's deep Crimson
-Forests. Its true nature and relationship to a specific
-campaign faction is a spoiler. See `campaigns/bloodmarch.md`.
+Smaller versions are found in packs near forest edges.
+
+**Kasabatoda:** A legendary giant slime snail with a castle
+on its back. It carries the demon Vaerefor van Reiben and
+serves as his moving fortress. Its relationship to Vaerefor
+is spoiler content. See `campaigns/bloodmarch.md`.
+
+**Combat trait:** Slime string shot at Near range. A hit
+grapples the target. If still trapped on the snail's next
+turn, it pulls the victim into its mouth and swallows them;
+victim takes damage each turn. An adventurer broken inside
+the snail dies instantly.
 
 ---
 
@@ -281,16 +317,22 @@ campaign faction is a spoiler. See `campaigns/bloodmarch.md`.
 **Terrain:** Crimson Forest; occasionally grassland edges
 **Threat:** High
 
-A creature that resembles a net of moving vines but is
-actually a single organism — a flat web of muscle and
-digestive tissue that spreads across the ground and waits.
-When warm-blooded prey walks across it, the Slithernet
-contracts and begins digesting from the outside.
+A terrestrial carnivorous plant. Its large leaves have
+turned into thick nets that lie hidden among leaves and
+twigs on the ground. When prey steps into the net, the
+leaves snap shut like a mousetrap, pinning the target.
+Sharp shoots immediately sprout through the mesh from
+the plant's ground tissue and pierce the victim; death
+follows in a day or two. The body is left to rot until
+the plant can absorb the juices.
 
-**Combat trait:** A creature that steps on a Slithernet
-must succeed at a MOVE roll or be grappled. Each round
-trapped the creature suffers acid damage. Cutting pieces
-off the Slithernet does not kill it — it must be burned.
+The nets can be cut off and used as durable rope. Poking
+them with a long stick triggers the snap safely.
+
+**Combat trait:** Net attack against all creatures entering
+Near range. A trapped victim's arms are pinned. Victim
+takes damage each Quarter Day until freed or dead. Can
+be cut from the outside.
 
 ---
 
@@ -314,33 +356,71 @@ of exposure increase the roll difficulty.
 
 ## Hoverfrog
 
-**Terrain:** Crimson Forest clearings
-**Threat:** None
+**Terrain:** Open air above Crimson Forest clearings
+**Threat:** None to humanoids; prey for those who want antennae
 
-A large transparent-skinned frog that can inflate itself
-and float on air currents. They eat insects. They make a
-resonant croaking sound audible at long distances. They
-are harmless and slow.
+A predatory amphibian that hovers in the air using antennae
+on its back that suspend the law of gravity. It pads
+slowly forward with webbed claws, catches birds by shooting
+out its sticky tongue when one comes close enough.
 
-**Hunting:** DIFFICULTY 0. The frog barely moves.
-A reasonable amount of meat for the risk.
+Not dangerous to humans, but hunted for its antennae.
+An antenna broken in half activates the levitation effect
+for one Quarter Day. Twelve active antennae held against
+the body can float a human. 2D6 antennae can be harvested
+from each hoverfrog. Unbroken antennae remain usable for
+about one month after harvest.
 
 ---
 
 ## Pearlyveine
 
-**Terrain:** Crimson Forest and Crimson Ooze trails
-**Threat:** Moderate to high depending on size
+**Terrain:** Deep Crimson Forest; dense vegetation or crevices
+**Threat:** Indirect; possible intelligence
 
-A large pale larva — at mature size roughly the length
-of a large boat. It moves through the earth and
-occasionally surfaces. It follows Crimson Ooze trails.
+Not a mobile creature but a fixed structure. Interconnected
+veins of viscous red slime spread through mature Crimson
+Forest floors and converge into a glistening white node
+resembling a large pearl or eyeball with neither retina
+nor pupil. They are found in the densest vegetation,
+preferably in crevices or under fallen trunks.
 
-**Combat trait:** Can surface anywhere within a Crimson
-Ooze trail. A large Pearlyveine can swallow human-sized
-creatures or knock them prone with a surface lunge.
+Red elves worship pearlyveines as the root galls of the
+red god Rubor, from which his body will one day grow.
+They believe the demon Vaerefor van Reiben is the first
+aggregate of root galls to form the god's prophet.
 
-**Ecology:** Pearlyveine larvae appear to be an early stage
-of something larger. What they grow into is unknown
-within Bloodmarch oral tradition — no one has seen a
-mature specimen.
+Pearlyveines may be intelligent. They may direct other
+creatures in the forest, open and close passages to lead
+intruders astray or into traps, and grant adherents
+clear passage. None of this is confirmed.
+
+---
+
+## Drakewyrm
+
+**Terrain:** Open plains; near rainbows
+**Threat:** High if the rainbow is disturbed
+
+A long, slender flying serpent with iridescent scales that
+shift color with the light. Its wingspan is sufficient to
+carry prey away. Harmless when left alone \u2014 they live off
+small animals and roost in open ground.
+
+Drakewyrms regard rainbows as manifestations of their god
+**Tincturus**, a divine giant rainbow. They will fight to the
+death to defend a rainbow that appears near them. Any group
+near an active rainbow will attract drakewyrms within hours.
+
+**Combat trait:** Flying. Bite and wing strike. A group of
+three or more drakewyrms protects the rainbow with extreme
+ferocity \u2014 they take no morale penalties defending it.
+
+---
+
+## Grarg
+
+**Terrain:** Orc camps in Aslene; battle vanguards
+**Threat:** Extreme in battle conditions; unpredictable at all times
+
+Massive orc-related bipeds, considerably larger than an adult\norc. They are born of the same bloodline but twisted by\nsomething \u2014 the orcs themselves will not explain to\nstrangers. Only males are born; females die at birth. Males\nare born sterile. Grargs cannot form packs and must be\nkept separated from each other and from more civilized folk.\n\nOrcs drug grargs heavily and arm them with knuckledusters\nand other crude blunt weapons. In major battles the orc\nwarchiefs send armed grargs into enemy lines first, "where\nthey advance like flesh-tearing windmills."\n\n**Combat trait:** Massive physical damage. Extremely\nunpredictable \u2014 even orc handlers keep clear of them.\nA grarg that takes critical damage has a chance to turn\non the nearest living thing regardless of allegiance.

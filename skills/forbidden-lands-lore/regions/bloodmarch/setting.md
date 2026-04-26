@@ -116,7 +116,7 @@ effect.
 **Red elves** are the only kin that live inside Crimson
 Forests without risk of Crimson Sickness.
 
-*Crimson Forests also have their own D66 journey mishap table.*
+*Crimson Forests also have their own D66 journey mishap table.*\n\n### Terrain Movement and Foraging Summary\n\n| Terrain | Movement | Forage | Hunt |\n|---|---|---|---|\n| Active Volcano | Impassable (crater accessible) | \u2212 | \u2212 |\n| Ashlands | Normal | None | None |\n| Firelands | Difficult | \u22122 | None |\n| Crimson Forest | Difficult | +1 | +1 |
 
 ---
 
