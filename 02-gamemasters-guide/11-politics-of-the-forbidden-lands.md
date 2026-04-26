@@ -641,7 +641,16 @@ If the player characters play the whole undertaking out in ordinary adventurer t
 
 ### Agent Undertaking
 
-When an agent's work happens mostly offstage, or when the GM wants to resolve a whole dangerous stretch of service between turns, make one **Agent Undertaking** roll with ordinary adventurer mechanics.
+When an agent's work happens mostly offstage, do not crush a whole campaign into one throw. First decide what the finished undertaking could be worth if it lands cleanly on the faction sheet. That tells you how many undertaking rolls it requires.
+
+- a deed worth **no CP** stays one roll
+- a deed worth **1 CP** takes **1 roll**
+- a deed worth **2 CP** takes **2 rolls**
+- a deed worth **5 CP** takes **5 rolls**
+
+If the deed would be worth more than **5 CP**, it is too large for one offstage undertaking. Play it out in full or break it into several linked undertakings.
+
+Each roll is one decisive step inside the larger work: one crossing, one bribe, one hidden meeting, one duel, one theft, one sermon, one ride home through watched country. Different steps may use different pairings if the fiction changes.
 
 Roll the attribute and skill that truly carried the work.
 
@@ -655,30 +664,72 @@ Other pairings are allowed if the table can say plainly what the agent actually 
 
 A faction may support the undertaking with letters of authority, silver, guides, horses, shrine witness, safe-conduct tokens, or one known local contact. Treat that as ordinary help or difficulty modification, not as a faction roll.
 
+Because each roll now covers one step rather than a whole campaign, use this tighter difficulty scale.
+
 | DIFFICULTY | UNDERTAKING |
 | --- | --- |
-| **1** | dangerous road, one guarded target, one wary local ally, or one hard but direct objective |
-| **2** | hostile ground, winter travel, a guarded secret, or two linked objectives that must both hold |
-| **3** | enemy heartland, rival agents, demon-work, or work that must remain deniable if it succeeds or fails |
-| **4** | campaign-ending strike, impossible weather, layered betrayal, or a task that could damage the faction badly if exposed |
+| **1** | dangerous road, one guarded target, one wary local ally, or one hard but direct step |
+| **2** | hostile ground, winter travel, a guarded secret, or a step with two linked pressures on it |
+| **3** | enemy heartland, rival agents, demon-work, or a step that turns ugly at once if it is seen |
 
-On success, the agent does the thing. With extra successes, choose one for each.
+Hard undertakings should usually grow longer, not simply climb higher. A five-roll undertaking is dangerous because it asks the agents to keep landing blows, not because every blow is rolled at impossible difficulty.
 
-- return unseen, or leave the blame uncertain
+Each successful roll completes one step. Extra successes may be spent immediately, or banked as **carryover dice** for the next undertaking roll. Each banked extra success becomes **+1 die** on that next roll, to a maximum of **+3 dice** carried forward. Carryover dice are lost if there is no next roll to use them on.
+
+Each failed roll marks one failed step and brings immediate trouble. In a one-roll undertaking, that is usually the end of it. In an undertaking of two rolls or more, later steps may still drag one bad step over the line.
+
+After any later successful roll in the same undertaking, the agents may spend **2 extra successes** to turn one earlier failed step into a **limited success**. That failed step now counts as completed for the undertaking and for any later CP award, but it always leaves a trail behind. That trail counts as a **seen step**, can never be made unseen, can never be laid on another faction, and gives no extra effect beyond making the step succeed after all.
+
+With each extra success after the first, choose one for that step.
+
+- bank **+1 carryover die** for the next undertaking roll, to a maximum of **+3**
+- make that step unseen; if you do not spend one extra success this way, the step is seen, heard of, or traced sooner or later
 - bring back a named hostage, witness, chart, relic, letter, or other hard proof
 - widen the result to one more settlement, route, captain, or subordinate question tied to the same undertaking
 - spare the faction one immediate fallout that failure would otherwise have caused
 
-On failure, choose one result that fits.
+On a failed roll, choose one result that fits.
 
 - the work is delayed, and the next related faction roll takes +1 difficulty
 - the agent returns hurt, thinned, or short one key member
 - the enemy learns who sent them, and **Feud** advances by 1
 - the agent is trapped, bought, lost, or forced to cut ugly terms just to come home alive
 
+#### Seen Steps
+
+Most offstage work leaves a wake. A dead sentry is seen. A bought ferryman talks when he drinks. A missing hostage is counted. A frightened village notices hoofbeats in the dark. Count every successful step not made unseen, and every failed step that was not buried entirely, as a **seen step**.
+
+At the end of the undertaking, apply the highest result that fits.
+
+| SEEN STEPS | WHAT THE ENEMY LEARNS |
+| --- | --- |
+| **1-2** | someone is working against them; the next related enemy faction roll gains **+1 bonus die**, or your next related faction roll against them takes **+1 difficulty** |
+| **3-4** | they have a real trail; in addition to the effect above, **Standing** falls by 1 in one relevant place, or **Feud** advances by 1 if blame already points your way |
+| **5+** | the hand behind the work is known or strongly suspected; **Feud** advances by 1, and one related settlement, captain, or faction turns one step colder at once |
+
+#### Shaping Long Undertakings
+
+For a long chain — especially one meant to win **2 CP** or **5 CP** — the GM may build the undertaking as a short scenario rather than a row of identical throws. Give each step its own demand. One roll may be **Agility + Stealth** to cross a watched ford. The next may be **Empathy + Manipulation** to win shelter from a frightened elder. The next may be **Wits + Lore** to prove the relic is true, or **Strength + Melee** to cut a way out once the alarm is raised.
+
+The GM may also vary the difficulty from step to step and attach one or two local rewards to extra successes beyond the standard choices above. A watched kennel might let extra successes quiet the dogs. A shrine hearing might let them win one more witness. A flight through snow might let them keep mounts fresh, save a wounded companion, or reach the ferry before the rope is cut. Use such added rewards when they belong to that exact moment. Keep the standard extra-success options available unless the fiction makes one of them impossible.
+
+Build the chain with shape. Some undertakings should bite early and stay ugly after that. Some should begin quietly, then harden step by step until the last roll is the one that matters. Others should move like breath in the chest: pressure, brief shelter, pressure again, a quiet room, then blood in the yard before dawn. A long undertaking feels truer when each roll asks a different question of the same hard work.
+
 ### Agent Deeds and Campaign Points
 
 Agents do not mint CP by surviving one dangerous night. Ordinary adventurer success is already its own reward. Give CP only when the finished work changed faction play in a way you can point to on the map, in the oath-ring, or in the grain tally.
+
+When an undertaking is resolved offstage, the number of successful steps tells you the highest award it can still claim.
+
+| DECLARED SCALE | SUCCESSFUL STEPS | MAXIMUM CP STILL POSSIBLE |
+| --- | --- | --- |
+| **1-roll undertaking** | 1 | **1 CP** |
+| **2-roll undertaking** | 2 | **2 CP** |
+| **2-roll undertaking** | 1 | **1 CP** if that one success still changed faction play |
+| **5-roll undertaking** | 5 | **5 CP** |
+| **5-roll undertaking** | 3-4 | **2 CP** |
+| **5-roll undertaking** | 1-2 | **1 CP** if the result still matters politically |
+| **any undertaking** | 0 | **No CP** |
 
 | CP AWARD | WHAT THE DEED REALLY WAS |
 | --- | --- |
@@ -697,7 +748,7 @@ Advisors do not travel for their work. If they ride out on the road, scout hosti
 
 ### Seat Work
 
-Once per **Season Turn** or **Campaign Week**, one named advisor or advisor circle may attempt one piece of **Seat Work**. Use ordinary adventurer mechanics.
+Once per **Season Turn** or **Campaign Week**, one named advisor or advisor circle may attempt one piece of **Seat Work**. If the work is small, roll once. If the advisor is trying to build a deeper edge, declare that they are trying to bank **2** or **3** stored dice and make that many rolls instead. Each roll is one concrete action at the seat: one tested seal, one calmed envoy, one hidden watch, one checked tally, one overheard quarrel, one false message set in another hand.
 
 Roll the attribute and skill that truly fit the work.
 
@@ -711,23 +762,35 @@ Roll the attribute and skill that truly fit the work.
 
 Other pairings are allowed if the table can state the work in concrete terms. Advisors do not solve things by abstraction. They solve them by reading faces, checking seals, testing boards, counting sacks, placing men, and hearing the wrong note in a frightened lie.
 
+Different steps may use different pairings if the work changes shape while it unfolds.
+
+For longer chains of Seat Work, use the same method as long undertakings on the road. One roll may be seals and records. The next may be feast politics. The next may be hidden watch in the stables or whispered work among hostages and servants. Let the seat have its own shape instead of making three copies of the same lie.
+
 | DIFFICULTY | SEAT WORK |
 | --- | --- |
 | **1** | one guest-hall quarrel, one small secret, one ordinary muster reckoning, or one suspicious messenger |
 | **2** | enemy envoys, disputed records, jealous captains, a hidden thief in the seat, or a peace that could still sour at table |
-| **3** | false charters, bought witnesses, poisoned hospitality, hostage unrest, or a muster plan that must hold under strain and bad weather |
-| **4** | a seat already split by fear, layered intrigue under one roof, demon-work, or a plot that could open the gates from within |
+| **3** | false charters, bought witnesses, poisoned hospitality, hostage unrest, or a step that could open the gates from within if it goes wrong |
 
-On success, bank **1 bonus die** for one later faction roll made from the seat or directly sustained by the seat. Each extra success after the first may do one of two things:
+Each successful roll banks **1 bonus die** for one later faction roll made from the seat or directly sustained by the seat. Extra successes may also be banked as **carryover dice** for the next Seat Work roll. Each banked extra success becomes **+1 die** on that next roll, to a maximum of **+3 dice** carried forward. These carryover dice are separate from the stored bonus dice gained from success. Carryover dice are lost if there is no next roll to use them on.
 
-- add **1** more bonus die, to a maximum of **3** stored from one piece of Seat Work
-- if the Seat Work was difficulty **4** and the advisor scored **3 or more total successes**, turn one stored bonus die into one **D8 Ascendancy Die** instead
+If one roll in a multi-roll piece of Seat Work fails, the whole effort is not ruined at once. After any later successful roll in the same Seat Work, the advisor may spend **2 extra successes** to turn one earlier failed step into a **limited success**. That failed step now counts as completed and yields its ordinary stored bonus die, but it always leaves a trail. That trail counts as a **seen step**, can never be made unseen, and can never be laid on a third faction.
+
+With each extra success after the first, choose one for that step:
+
+- bank **+1 carryover die** for the next Seat Work roll, to a maximum of **+3**
+- make that step unseen, so no one hostile notices it was done
+- make it look as though a named third faction, household, shrine, or rival hand did it instead
+
+If the whole Seat Work was rolled at difficulty **3** and the advisor scores **3 or more total successes** across the full piece of work, turn one stored bonus die into one **D8 Ascendancy Die** instead.
 
 This stored die lasts until the end of the next faction turn of the same length. A **Season Turn** result helps only the next **Season Turn**. A **Campaign Week** result helps only the next **Campaign Week**. It may be applied only to a faction roll whose truth still lives at the seat: **Decree**, **Accord**, **Claim**, **Intrigue**, **Watch**, muster planning, line-of-supply preparation from base, envoy handling, and similar work. It does not strengthen a field army already days away except where the roll is truly about orders, support, or help sent from the seat.
 
 If one stored die becomes a **D8 Ascendancy Die**, it counts as that roll's Ascendancy Die and does not stack with another one.
 
-On failure, choose one result that fits.
+Seat Work is seen the same way as an Agent Undertaking. Any successful step not made unseen, and any failed step that was not buried by the fiction, becomes a **seen step**. Count them with the **Seen Steps** table above. A step blamed on a third faction counts against that faction instead of yours unless the lie is later broken.
+
+On a failed roll, choose one result that fits.
 
 - the wrong man is trusted, and the next related seat-based faction roll takes +1 difficulty
 - rumor outruns the truth, and **Standing** falls by 1 at the seat or in one nearby settlement that heard the tale
