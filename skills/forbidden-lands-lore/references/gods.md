@@ -42,6 +42,18 @@ hated by Alderland orthodoxy as heretics and traitors.
 - Skills: Healing 3, Lore 2, Insight 3, Manipulation 2
 - Talents: Path of Healing 2, Path of Shifting Shapes 1, or Path of Sight 1
 
+Named NPC: **Virelda Bloodbeak** — the most feared Raven Sister
+currently active. Wide-built, white hair that bleeds when cut
+(cursed legacy from the Rust Church's experiments). Originally
+a Sister of Heme who defected after finding forbidden documents
+in a locked library proving the Rust Church's origins were
+heretical — specifically that the Church's founding preceded
+Zytera and bent toward demon-worship, not away from it. She now
+hunts **Teramalda** across the Forbidden Lands. Carries a staff
+with a D10 Artifact Die. Has personally killed dozens of Iron
+Guard. Carries a severed head at her hip, depending on
+the season of the campaign.
+
 #### Reapenters / Blackwings
 
 A murderous Ailander schism. Led by **Badalar the Butcher** with
@@ -49,6 +61,33 @@ the elf **Father Geno** at his side. The cry is **"Nevermore!"**
 The doctrine: the curse on the Forbidden Lands will only end when
 the last human, dead or alive, has left it. So they kill any
 human they meet who does not yet understand this.
+
+The theological core of Blackwing doctrine hinges on the name
+**Corax** — the scavenger-and-destroyer face of the Raven God,
+distinct from the protective shepherd face worshipped by the
+common Raven Church. The Blackwings believe the Raven God
+showed his Corax face when the Blood Mist descended, and that
+he will not lift the curse permanently until humans vacate the
+land they defiled. They hold that the Mist's lifting in 1160 AS
+was a test, not a gift — evidence that the Raven God is watching
+what humans do with the reopened land.
+
+The Blackwings were founded not in the Forbidden Lands but in
+**Alderland**, by Raven Sisters who remained there after the
+Ailander exodus and grew to believe the majority who fled north
+were cowards who compromised with the despoilers. A founding
+sister brought the Corax doctrine back into Ravenland by foot,
+alone. The sect now recruits from disillusioned Raven Sisters
+and is hunted by the Rust Church, which correctly identifies
+them as a greater long-term threat than the mainstream Raven
+Church.
+
+Named NPC: **Rimenda of Karnevera** — a Raven Sister who lost
+her faith under Iron Guard torture in the dungeons of Vond. The
+Blackwings sent a representative to offer her fellowship in
+the same cells; she died before deciding. Her story is an
+entrance point to both the Vond campaign arc and the question
+of what the Raven God actually wants.
 
 **Typical Blackwing:**
 
@@ -103,11 +142,58 @@ Huntress_ and worship her in seasonal blood-rituals.
 The Rust Brothers and the Sisters of Heme together are the **Rust
 & Heme Church**. The two are theologically married. Their union
 produced (in myth) the daughter **Feroxa**, broken into the
-hematite of the world; see `artifacts-and-named-relics.md`.
+hematite of the world; see `artifacts.md`.
+
+#### The Whispering Council
+
+A secretive sect within the Rust Brothers who believe the lifting
+of the Blood Mist in 1160 AS was a catastrophe, not a liberation.
+Their doctrine: the Mist sealed the Forbidden Lands against
+further human encroachment, gave the Church unchallenged control
+over a closed territory, and protected Zytera from enemies. They
+were working to restore the Mist through a ritual at **Haggler's
+House**, using accumulated demonic materials and old Church
+records.
+
+The demon **Merigall** discovered the project and silenced the
+Council; their public members are dead or scattered. Surviving
+members operate in deep cover. Their research materials — ledgers,
+ritual progress notes — remain intact at Haggler's House, locked
+in the rooms of the Council's principal surviving member
+**Karuptus**, who is in hiding inside the temple grounds.
+
+The Council's work was partially successful. Given access to their
+notes and materials, the Blood Mist restoration could be completed
+— covering a finite number of hexagons rather than the entire
+Forbidden Lands.
+
+#### Corpse Herders
+
+A specialist order within the Rust Church whose function is the
+management and handling of demon-tainted beasts, animated dead,
+and the more unstable misgrown creatures that serve as Zytera's
+soldiers and guardians. They work with heavy iron tools: pronged
+poles, chain leads, and pronged metal feelers that interfere with
+a creature's perception and suppress attack responses. Without
+Corpse Herders, the creatures become unmanageable.
+
+Corpse Herders are stationed at **Haggler's House**, at the
+fortress of **Vond**, and at the largest Iron Guard priories.
+They are less ideologically driven than the Iron Guard — they
+consider themselves specialists in a difficult trade, not holy
+warriors. They are paid better than most Rust Brothers and keep
+to themselves.
+
+**Typical Corpse Herder:**
+
+- STR 3, AGI 3, WIT 4, EMP 2
+- Skills: Melee 2, Lore 3, Animal Handling 4, Insight 2
+- Gear: Pronged iron pole, chain leads, leather gloves, iron
+  wrist guards
 
 ### Vampyr Heresy
 
-The vampyrs (see `bestiary-creatures-and-monsters.md`) claim that
+The vampyrs (see `bestiary.md`) claim that
 **they** keep the true rite of Rust and the Rust Brothers are the
 corrupted ones — that Zytera is a false prophet who has sullied
 the Protector's legacy with demonic influence. They worship Rust,
@@ -170,6 +256,18 @@ Goddess of springs, rivers, and lakes. The **amphibians** are her
 created guardians of pure water. Sacred sites at her springs are
 called **Flow's Delight**; the rite at Springturn (overflowing the
 village well) is named for her.
+
+Flow loved her element in all its capriciousness and left marshes
+ungoverned — she considered directed water too tame to need a
+goddess. When the elf **Neyd** proposed that rivers should have
+names so they would _stick together and have will_, Flow agreed
+to name them herself. She named the first river **the Seyster**.
+The marshes she left unnamed and therefore without direction or
+will — this is the theological origin of the **Gargan Marshes**
+being called godless land. Marsh water has no intent. It gathers
+and spreads as it likes. The goblins and saurians who trade
+across it know not to pray to Flow for passage; she is not
+listening to those channels.
 
 ### Nightwalker — Oldest of the Gods
 
@@ -249,6 +347,33 @@ become Ents. They accept nature's cruelty as part of its course.
 A necromantic assassin cult that creates **tupilaqs** — sewn-together
 abominations bound to a single target. They take contracts from
 those "who share their twisted world view."
+
+## Demon Lords and Demonic Powers
+
+These entities are not gods. No village prays to them for harvest
+or healing. They are powers that other powers have entangled with
+the world, and they persist because they are harder to kill than
+most things that live.
+
+### Brinhelda — Fire Demon of Amber's Peak
+
+A fire demon, the patron and lover of the sorcerer **Zertorme**.
+She taught him demonic fire magic, and her price was his face.
+She considers the face her property and keeps it mounted on a
+statue in her chambers at **Amber's Peak**. Normally appears as
+a young woman. Her fire only burns those she chooses to burn;
+women and children may stand in it unharmed if Brinhelda approves.
+
+She produces valuable **fire essences** — demonic substances Zertorme
+uses in his creature experiments at Amber's Peak. Despite
+being a demon, she has no connection to the Rust Church and no
+interest in Zytera. **Galdane warriors** in Zertorme's camp believe
+she is an aspect of the god Horn; this is incorrect and Zertorme
+has not corrected them.
+
+If the demonic pacts at Amber's Peak unravel, Brinhelda
+will want her payment — specifically the face — returned to her,
+whatever the current wearer thinks of the arrangement.
 
 ### Stone Singers
 

@@ -174,9 +174,41 @@ west.
 - **Alderstone** — Zytera's seat. The largest fortified town
   in the western lands. **Wardens of the Rust Lord** based here.
   Misgrown gather around the city. Iron Guard mustering ground.
-- **Vond** — fell to demons in the Demon Flood; partly reclaimed.
-  The **Vond Wall** raised in 620 AS by the Aslenes against
-  southern incursion. Now a contested ruin.
+  The ruins of what was once the greatest city in Ravenland —
+  Zygofer's original capital. **Growth warpers** infest its
+  alleyways. The fortress of **Vond** sits at the base of
+  Mount Ora at the city's edge.
+- **Vond** — The Crombe dwarves' strongest fortress in the
+  Ravenlands, built above Shadowgate Pass to guard the southern
+  approach. Driven out in the Alder Wars; the dwarves demolished
+  their underground passages on the way. Now the seat of
+  **Krasylla**, the demon-prince who stayed after the Demon
+  Flood. The city ruins surrounding the fortress crawl with
+  Iron Guard and misgrown creatures. At the summit of
+  **Mount Ora** above the fortress: **Zytera's Mogarium** —
+  Zytera's laboratory and living palace, surrounded by
+  perpetual lightning. On the southern slope above the fortress
+  is **Merigall's pavilion** — a ruined elven-style mountain
+  residence Merigall has occupied for two centuries.
+  A **secret passage** runs from a crevice on the west face
+  of Mount Ora to a floor tile inside the old bronze gates;
+  known to the Crombe dwarves and to the prisoner **Peyraman**.
+  Kybos — a twenty-meter red granite cube — is the Iron Guard's
+  arena; a challenge to fight there cannot be refused under
+  their code of honor.
+- **Haggler's House** — The greatest temple of the goddess
+  **Heme** in the Forbidden Lands. Annual harvest feasts
+  mandatory for any village that wants its idols blessed for
+  the coming year. Controlled by the Rust Brothers and Iron
+  Guard. The **Whispering Council** long operated here; the
+  **Corpse Herders** still do. Accessible from western roads.
+  The **Rust Prince Kartorda** visits annually; the ritual
+  year ends with the **Blood Cauldron** sacrifice. Bloodlings
+  are kept in the catacombs fed with sacrificial blood.
+  Villages that cannot bring the required silver tribute must
+  instead surrender their dead — and sometimes their living.
+  A musician named **Ferelde** performs at these feasts; it
+  is Merigall in disguise.
 - **Falender** — burned 869 AS in the Demon Flood. The **Dreamer
   in Falender** lived and worked here. Now a ruin where wolfshadows
   and nightwargs are sometimes seen. Site of Hinrek's grave and
@@ -186,6 +218,23 @@ west.
 - **Wailer's Hold** — fell 865 AS to demons and Alderlanders.
   **Tormund Halfhand** is gathering an army to retake it.
 - **Weatherstone** — a noble's tower with a small village.
+- **Ravenhole** — former **Meromannian** dwarven blue marble
+  quarry; mined out, then abandoned. Ogres moved in. Every
+  full moon the ogres' feasts inside the stone cauldron create
+  a noise that stampedes animals for miles. Do not approach at
+  the full moon.
+- **Stoneloom Mines** — a mine complex in the western ranges,
+  abandoned after the Third Alder Wars. Something moved into the
+  tunnels after the dwarves left. None who have entered in
+  recent memory have returned. Stench of corpses reported from
+  the entrance. The truth: **Marga** — Zygofer and his wife
+  Martea's demonified daughter — moved in and consumed the
+  dwarves who sheltered her. She is now a massive demonic
+  flesh-mass filling the deepest chamber; only her girl-avatar
+  (her heart) can be killed to end her. **Martea** herself
+  is still alive inside the mines, fused with an Abyss Worm.
+  A pocket of dwarves led by a woman named **Milva** is
+  barricaded inside the mushroom patches, surviving.
 
 ### Central Ravenland
 
@@ -211,6 +260,50 @@ west.
 - **Stonegarden** — Canide dwarven hold on a sheer plateau, ruled
   by **King Karonax** and **Queen Sulma**. Scarne is imprisoned
   beneath. Site of a secret Canide-Urhur diplomatic channel.
+  The **Stone Gardens** are gem-lit cave promenades open to
+  pilgrims during the **Veneration of the Earth** festival —
+  the dwarves' annual celebration of their origin-place, attended
+  by all clans except the Crombe. Below the catacombs, a gate
+  leads to the **deep structures**: elder underground layers
+  1000m or more below the surface, home of the dwelvers, the
+  imprisoned dragon Scarne, and sun caves filled with rolling
+  fireballs. Dwarven clans are forbidden to enter these layers
+  on pain of being declared clanless.
+- **Eye of the Rose** — an ancient elven cliff-fortress above
+  the ruins of an old elven city. Built originally by
+  **Meromannian** dwarves as a gift to the elves. The elves
+  abandoned it; the **Urhur orc clan** under **Emperor Hroka**
+  now holds court here, attempting to build an orcish
+  civilization. The elf-woman **Klotinda** — an Ent-shapeshifter
+  of considerable size — is known to circle the area.
+  Redrunner scouts (**Ulmaya** and **Alsurso**) are hidden
+  in the city park below the acropolis. **Hrang Gala**, a human
+  advisor who invented the imperial court's customs from
+  scratch, holds significant political influence; he changed
+  his name so the orcs could pronounce it. Elven Redrunners
+  have a concealed access route through the Chapel of the Gods
+  and five trapped rooms into the fortress library.
+- **Pelagia** — a druidic sea sanctuary of the **Elvenspring**
+  on the eastern coast. Four tall coastal monoliths mark it.
+  The druids claim the winds of the land are born between the
+  four stones. They operate a fishing harbor, a healing house,
+  and a pottery. Access to the sacred inner chamber requires
+  knowledge of the **Maha** druidic tongue. A sealed stone
+  chest in the eastern cliff holds what the druids call "the
+  gift of the sea" — something arrived from the water, and the
+  druids cannot open the chest themselves. The inner **Chamber
+  of the Winds** holds **Scarnesbane**, the giant-slaying hammer.
+  Four **stone titans** — twelve-meter black obsidian giants —
+  are sealed in obsidian alcoves here; they can be wakened by
+  Scarnesbane or the Scarnesclaw artifact. Per druidic legend,
+  Pelagia is the first human landing site in Ravenland.
+  The druid **Kritre the Caller** leads a community of roughly
+  26 practitioners here.
+- **Dragon's Tooth / Scarnehall** — the **Crombe** dwarves'
+  current seat, a fortress built along the ancient stone-clad
+  ribs of the dragon **Scarne**. **King Tademir Stonefriend**
+  rules. **Totela's Head**, carved from a mountainside by the
+  ancient king Totela Goldbeard, overlooks it.
 - **Belderand** — under-mountain dwarven city, **Belderranian**
   capital, ruled by **King Turik**. Main temple of the stone
   singers. Wail's Horn vaulted here.
@@ -222,7 +315,18 @@ west.
   **Aspis** the Psychopomp tends it. Queen Agatha's Twin Tablets
   sealed here in lead.
 - **Amber's Peak** — **Zertorme**'s seat, hailed by Quards as
-  Horn's chosen savior; pilgrim Quards camp at its foot.
+  Horn's chosen savior; pilgrim Quards camp at its foot. The
+  site is a ruined fortress on three connected stone plateaus.
+  The fire demon **Brinhelda** is Zertorme's patron and resides
+  here; her fire-essence feeds demonic creature experiments.
+  Fire-breathing animals — **pyrotaurs** (bull-headed humanoids)
+  and **calydones** (fire-breathing boars) — roam the surrounding
+  plains. Attached market town: **Agurville** (forge, horse
+  market, fishing village, the ancient **Raukwaye Bridge**).
+  Two Aslene rider clans are camped nearby: the **Quards**
+  (who believe Zertorme is Horn's prophet) and the **Galdanes**
+  (skeptical but loyal). These two clans were enemies in Aslene
+  and the tension has not resolved.
 
 ### Northern Ravenland
 
@@ -236,7 +340,12 @@ west.
 - **Yendra** — fishing town on the Eastern Sea.
 - **Gargan Marshes** — the Saurian heartland; trade only at the
   southern rim platform-stations; everywhere else is hunting
-  ground.
+  ground. The marshes are theological **godless land**: when
+  Flow agreed to name the rivers so they would "stick together
+  and have will," she left the marshes unnamed deliberately.
+  Marsh water has no direction or intent. Goblins and reptile
+  folk trade on barges across them. No prayer to Flow gains
+  safe passage here.
 - **Stridehome** — village near old **Dankwood**, holds
   **Menkaura's Tooth** in the war-leader's family.
 - **Stillmist** — the elven sanctuary; cannot be found by looking;
@@ -244,11 +353,49 @@ west.
 - **Rosenstaad** — the elven temple where dead Ents' rubies are
   mounted; also where shattered elves can be remade.
 - **Pernty** — small Ailander village.
-- **Grindbone** — bone-dust trade settlement.
+- **Grindbone** — slaver and thief settlement, established since
+  the Alder Wars when prisoners of war flooded the region. A
+  mill on the river grinds continuously day and night. The
+  **Bone Ferrets** (a slaver company led by **Misela Ferrumar**)
+  and a **Thieves' Guild** (led by **Undar "The Duke" Alderman**)
+  operate jointly here. Orcs and humans both accepted. Double
+  palisade, stakes pointing both ways. Key internal details:
+  an arena, a theater, a brewery, and the haunted **Stonefang**
+  ruin (ghost of **Arbia Mundo** and a bloodling). The three
+  **Somaya sisters** pose as human healer-witches here; they are
+  Viraga agents who abduct craftsmen and send them to the Eye
+  of the Rose. **Captain Kratullos** commands the militia
+  (neutral, dreams of open war). The bard **Mahinniver** is a
+  secret **Nightwalker** cultist. **Hamedas** is an alcoholic
+  Rust Brother who knows more than he should.
+- **Ravenhole** — former **Meromannian** dwarven marble quarry
+  at the edge of the forest. After the blue marble was exhausted,
+  the dwarves left. Ogres moved in; they feast inside the stone
+  cauldron on full moons, creating a din that causes animal
+  stampedes for miles. A dwarven diplomat (**Murble Tribbletwine**)
+  has cautiously established relations with the ogre leader
+  (**Murge**). Do not approach at the full moon.
 - **Freygrove** — sacred Heme grove with a small village beside it.
 - **Wilderwood** — vast western forest, less explored than Dankwood.
   The Well of Tears is somewhere east of here.
-- **Mount Ora** — peak in the central range.
+- **Mount Ora** — peak in the central range. The fortress of Vond
+  stands at its base. The Mogarium laboratory is at its summit.
+  Merigall's elven-style pavilion is on the southern slope above
+  the fortress. The **Shadowgate Pass** at Vond's base is a known
+  access point for demonic traffic from Churmog.
+- **The Vale of the Dead** — a valley guarded by **Scrome**, a
+  one-eyed giant. Scrome's evil eye was removed by the first elf
+  **Viridia** and became the **Well of Tears**; the giant body
+  that remained is benign and gentle, marked by a soft yellow
+  eye. If the evil eye is ever returned to him, he regains full
+  destructive power and terrorizes the surrounding land.
+  The Well of Tears, if someone looks into it, shows them their
+  own death.
+- **Lake Harga / Blaudwater** — a lake in the north. After the
+  Redrunners dissolved Merigall's body in acid following the
+  events of the ancient campaign against him, they poured the
+  residue into the lake. The lake turned blood-red and has been
+  called **Blaudwater** (blood water) since 1160 AS.
 - **Byard** — village; **Varleyman of Byard** rode a drakewyrm.
 - **Dankwood** — vast forest of the Stillelves and Golden Bough;
   Menkaura's old queendom; many Ent-groves.

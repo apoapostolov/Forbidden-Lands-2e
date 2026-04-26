@@ -375,13 +375,145 @@ a few they would rather you didn't enter.
 **Father Geno** carries it on a thong around his neck, hidden
 under a black-feather cloak.
 
+## Stanengist — the Hanging Stones Crown
+
+**Myth:** It is said that the first six elves of the Forbidden
+Lands — the ones who shaped the rivers, planted the forests, and
+gave every creature its nature — after completing their work, had
+their heart-rubies gathered in a crown of dwarven gold. The crown
+bore six sockets; six stones were set. The elves rested inside
+and kept watch. Kings wore the crown for generations, and the
+land held together. Then, before humans arrived, the thief
+**Merigall** stole three of the six rubies and the land has
+been divided ever since. Whoever reassembles the six stones in
+the crown and places it on their head will, according to legend,
+gain the power to rally all kin and rule the Forbidden Lands.
+
+**Truth:** The crown exists. Multiple independent traditions —
+Redrunner dispatches, Canide clan records, and a sealed document
+in the Library of Farhaven — confirm both the six original elves
+and the theft. The full history of the stones is a matter of
+serious contest. The crown's powers beyond the legend are not
+publicly known.
+
+_Full provenance and powers contested. See `campaigns/ravens_purge.md`._
+
+**Mechanical hint:** A crown of bright dwarven metal with six
+ruby sockets; three stones set and three empty in the version
+most commonly described.
+
+**Location:** Unknown. Current location is the central question
+of the Raven's Purge campaign.
+
+## Maligarn — the Giant Slayer
+
+**Myth:** The shieldmaiden **Viridia** fought the bloodthirsty
+giant **Scrome**, who had devoured whole villages. She killed
+him in a gorge with the sword Maligarn but died of wounds
+shortly after. Her companions had her emerald heart placed in
+the crown Stanengist in her honor. The emerald later left the
+crown and was set into the sword's crossguard, where Viridia
+now watches from the blade. The sword has been lost ever since,
+passing through many hands and ending in none.
+
+**Truth:** Viridia was real. Whether her death came from wounds
+or the encounter with Scrome itself is debated. The emerald in
+the sword is of elven origin — how a ruby becomes an emerald
+is a question the scholarly traditions of Stonegarden and
+Farhaven disagree on. The sword itself has been sighted in
+multiple locations over the centuries, never held for long.
+
+_Full provenance and powers contested. See `campaigns/ravens_purge.md`._
+
+**Mechanical hint:** A longsword with a copper-twined grip and
+a gold crossguard bearing a single large emerald. Old accounts
+note the emerald glows faintly green in the dark.
+
+**Location:** Lost. Last credible rumor places it in an abandoned
+dwarven mine complex in the western ranges.
+
+## Nekhaka — the Scepter of Kings
+
+**Myth:** When **Algared**, first and wisest king of the
+Algarian line in Alderland, died, he asked that his ruby heart
+be set in his shepherd's crook of alderwood so that he might
+continue to counsel his descendants in dreams. The scepter
+passed through the Algarian dynasty for generations. When
+**King Algarod** was destroyed in the Fourth Alder Wars by
+Zygofer's demonic hordes, the scepter was lost somewhere in
+the Ravenlands. Its location has never been confirmed.
+
+**Truth:** Whether Algared was human, half-elf, or something
+else is disputed even within Alderland scholarship. His
+influence over the Algarian dynasty through the scepter is
+documented in Raven Church records. The scepter's loss during
+the Demon Flood is historically accepted.
+
+_Full provenance and powers contested. See `campaigns/ravens_purge.md`._
+
+**Mechanical hint:** A shepherd's crook of dark alderwood, the
+wood still supple despite centuries. A ruby is mounted at the
+crown. Accounts note it hums faintly in the hands of those
+with a blood claim to Alderland's old line.
+
+**Location:** Unknown. Lost in the Ravenlands during the Demon
+Flood of 874 AS.
+
+## Blood Star (Hemella) — the Cloak Clasp
+
+**Myth:** The elven princess **Iridne**, forbidden by her father
+to be with the orc chieftain **Horena**, chose death over exile
+from her love. Her companions had her ruby heart set into a round
+copper clasp bearing a golden tree motif — the Blood Star —
+and delivered it secretly to Horena. Her father discovered this
+and sent ships to reclaim the ruby; the clasp was lost at sea in
+the battle that followed. Those who have carried it since say the
+elf inside appears in their dreams, counselling patience and
+understanding.
+
+**Truth:** Iridne's ruby is real and confirmed by multiple
+traditions. Whether the legend of the orc lover is accurate
+history or a later romanticization is debated. The clasp itself
+is described identically in documents from human, orc, and
+elven sources.
+
+_Full provenance and powers contested. See `campaigns/ravens_purge.md`._
+
+**Mechanical hint:** A round copper-base clasp with a golden
+tree motif and an elven ruby at center. The elf within
+sometimes speaks — or is said to — in the dreams of those who
+carry it.
+
+**Location:** Among the eastern orc clans. **Empress Soria** of
+the Urhur has been seen wearing it, a gift from Emperor Hroka.
+
+## Scarnesclaw
+
+**Myth:** A claw taken from the dragon **Scarne** while she lay
+in chains. The thief was found the next morning with no wounds
+and no face. The claw was filed into a blade at some point by
+someone who did not survive the process. The blade cuts
+anything — no armor holds it. It has been in druidic hands for
+as long as any living person can remember.
+
+**Truth:** Whether Scarne was alive or dead when the claw was
+taken is unknown. The knife is real and is now confirmed in
+the possession of **Kritre the Caller**, high druid of the
+**Pelagia** sanctuary. Kritre will not discuss it.
+
+**Mechanical hint:** A blade of curved dark horn material,
+darkened nearly to black. Treats all armor as if it were not
+there.
+
+**Location:** Carried by **Kritre the Caller** at **Pelagia**.
+
 ## Cross-References
 
-- `gods-and-religions.md` — divine sources of the artifacts
+- `gods.md` — divine sources of the artifacts
   (Rust, Heme, Wail, Clay, Wyrm, Nightwalker, Horn, Eor)
-- `bestiary-creatures-and-monsters.md` — monster origins of
+- `bestiary.md` — monster origins of
   artifacts (Erinya, Menkaura, the worm-god of Asina, Throat-of-Oaths)
-- `history-and-chronology.md` — historical events tied to artifacts
+- `history.md` — historical events tied to artifacts
   (Hollerbellows, Garmar Four-Beard, Hinrek, the Demon Flood)
-- `tone-and-encounter-design.md` — the anti-trope that artifacts
+- `tone.md` — the anti-trope that artifacts
   exist to refuse: _"Find the artifact, win"_

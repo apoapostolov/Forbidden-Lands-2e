@@ -1,6 +1,6 @@
 # Kin Deep Dive
 
-This file extends `setting-ravenland-and-human-peoples.md` with the
+This file extends `setting.md` with the
 detailed kin material from the Gamemaster's Guide chapter on Kin.
 The master peoples document keeps the physical-type anchors and
 quick reference; this file gives the cultural depth — clan names,
@@ -62,7 +62,7 @@ knowledge — the Frailer pathology. **Zygofer** is a Frailer.
 - Skills: Lore 2, Insight 2, Manipulation 2
 - Gear: Dagger, quill and ink
 
-**Subgroup — Reapenters:** see `gods-and-religions.md`.
+**Subgroup — Reapenters:** see `gods.md`.
 
 **The Silent:** Deaf-mute guards on the Iron Lock. Bang on metal
 cylinders to warn, then shoot. Open ground below the wall is
@@ -120,7 +120,7 @@ and the Raven god. Sacred substances: earth and clay. Ritual
 items: clay figurines and Maha-script clay tablets.
 
 The most militant order is the **Order of Maidens** — see
-`gods-and-religions.md`.
+`gods.md`.
 
 ## Misgrown
 
@@ -242,6 +242,15 @@ lovers _to experience the bittersweetness_ of watching them die.
 They write songs about it. Hunt and recover lost elven rubies.
 Function as the elves' intelligence service.
 
+**Commander: Kalman Rodenfell** — one of the oldest active
+Redrunner commanders, based in **Dankwood**. His name translates
+as "He who fell from the red one." Ancient, worn, still committed
+to physical action when most of his age-contemporaries have become
+Stillelves. Leads intelligence operations across the Forbidden
+Lands, maintains contacts in every major faction. Has a settled
+romantic attachment to the bardic demon Merigall — a relationship
+both consider impractical and neither has stopped.
+
 **Typical Redrunner:**
 
 - STR 4, AGI 5, WIT 3, EMP 3
@@ -325,8 +334,18 @@ to the elves; arrogant and complacent in others' view; eat fish.
 **King Tademir Stonefriend** rules. **Totela's Head** — a giant
 portrait carved by king **Totela Goldbeard** with the hammer
 **Scarnesbane** — is on the slope above. Huge punished his vanity
-with beard-rot and cast the hammer out into the world. The hammer
-remains lost.
+with beard-rot and cast the hammer out into the world.
+
+**Vond** was originally the Crombe clan's strongest fortress in
+the Ravenlands, built to guard **Shadowgate Pass** against Aslene
+incursion from the southwest. The dwarves demolished the
+underground passages when they were driven out during the Alder
+Wars. Zytera's forces have held it since the Demon Flood.
+A faction of Crombe dwarves — led by the zealot warrior **Arvia**,
+born outside the kinship line and marked by Huge for war — is
+sworn to the single cause of retaking Vond, killing Krasylla, and
+killing Zytera. Other Crombe regard Arvia's followers with a
+mixture of respect and unease.
 
 The legend that Scarne was killed is false; Scarne is imprisoned
 beneath Stonegarden.
@@ -339,11 +358,28 @@ beneath Stonegarden.
 
 ### The Elders — Dwelvers
 
-Pale, half-intelligible dwarven-like creatures from the deep
-structures beneath the world. Treated with respect by dwarves as
+Pale, chalk-white dwarven-like creatures from the deep structures
+beneath the world. Roughly halfling-sized. The ancient ancestors
+of the dwarven kin — the original stone-crafting beings from
+before the clans divided. Treated with respect by dwarves as
 forefathers. Given mineral gifts; retreat underground with one
-or two stones into impassable crevices. Suspected by dwarven
-scholars of being able to control **iron dragons**.
+or two stones into impassable crevices.
+
+Dwelvers live 1000 meters and more below the surface in the elder
+layers under **Stonegarden**. Dwarven clans are no longer allowed
+to tread those layers (doing so means becoming clanless). Dwelvers
+can **partially or completely soften their skeletons** to press
+through cracks as narrow as an inch in the rock. They cannot speak
+at surface level — the air is too thin for their anatomy; they
+speak freely at 200 meters depth and below. They cannot see the
+sun or touch land above without harm. Suspected by dwarven scholars
+of being able to control **iron dragons**.
+
+Dwelvers are master Stone Singers; they can teach the
+skeleton-softening technique to human Stone Singers who earn their
+trust. As of 1165 AS, a faction among the dwelvers is secretly
+debating whether to release the imprisoned dragon **Scarne**, whose
+net prison is weakening after 1500 years.
 
 ## Ogres
 
@@ -430,8 +466,11 @@ Forest**. Orcs roam everywhere.
 #### The Urhur Clan
 
 **Self-styled emperor Hroka the First and the Greatest** rules
-from an abandoned elven city. The clan tries to civilize itself
-imperially — adorns garishly, pretends interest in poetry, parodies
+from an abandoned elven cliff-fortress called the **Eye of the
+Rose** (the Meromannian dwarves built the structure as a gift to
+the elves; the elves abandoned it; the orcs claimed it after the
+Blood Mist). The clan tries to civilize itself imperially —
+adorns garishly, pretends interest in poetry, parodies
 civilization. Hroka loves gold; doesn't know what to do with it.
 Recently gave wife **Soria** the elven ruby **Iridne**. Court
 includes humans and dwarves who play along; the trickster
@@ -491,11 +530,22 @@ Wild forest rituals where living prey (often humans, dwarves, or
 elves) is hunted, torn apart, and eaten after the Viraga ingest
 holy plant extracts.
 
+The organization is secret: most male orcs are unaware it exists.
+**Empress Soria of the Urhur clan** leads the Viraga; Emperor
+Hroka knows her only as his wife and court advisor, not as the
+head of an inter-clan power structure. The Viraga's long-term
+objective is to rally all orc clans under a single regime without
+the males understanding that the females are orchestrating it.
+
 Send especially human-passing females to infiltrate human
 settlements as spies, kidnappers of useful craftsmen, and
-collectors of knowledge. Pronounced victim mentality; will die for
-the kin. Males call them "iraga" because they cannot pronounce
-the V; the Viraga emphasize the V.
+collectors of knowledge. The **three Somaya sisters** in
+**Grindbone** are Viraga agents disguised as human healer-witches;
+they abduct craftsmen and learned individuals for the Urhur clan's
+workshop-slavery program at the Eye of the Rose. Viraga with
+human coloring are their most useful operatives. Pronounced victim
+mentality; will die for the kin. Males call them "iraga" because
+they cannot pronounce the V; the Viraga emphasize the V.
 
 **Typical Viraga:**
 
@@ -662,10 +712,50 @@ ally).
 
 ## Cross-References
 
-- `setting-ravenland-and-human-peoples.md` — physical-type anchors
+- `setting.md` — physical-type anchors
   for the three human peoples; quick kin table
-- `gods-and-religions.md` — religious detail for each kin's faith
-- `tone-and-encounter-design.md` — encounter authenticity rules
+- `gods.md` — religious detail for each kin's faith
+- `tone.md` — encounter authenticity rules
   for each kin
-- `bestiary-creatures-and-monsters.md` — for the dragons, ents,
+- `bestiary.md` — for the dragons, ents,
   ogres, trolls, and others that overlap with the bestiary
+
+## Named Individuals: Raven's Purge Campaign
+
+The following NPCs originate in the Raven's Purge source material
+and are listed here for lore-level identification. Statblocks and
+scenario mechanics are in `campaigns/ravens_purge.md`.
+
+**Klotinda** — an elven woman who loved the first elf **Iridne**.
+She helped Iridne re-assume flesh after Iridne's ruby was removed
+by her father. When Iridne voluntarily became the Blood Star clasp
+\u2014 an act Klotinda did not know was coming \u2014 Klotinda believed
+the orcs had murdered Iridne and stolen her ruby. She has taken
+Ent form and circles the **Eye of the Rose**, attacking any orc
+she encounters. She carries perhaps ten humanoids in her branches
+and functions as a significant combat force in any engagement
+near that site. Her grief is the engine of a scenario: she is
+not wrong that the ruby is in orc hands. She is wrong about
+what it means.
+
+**Merigall's offspring** \u2014 the demon Merigall has twelve children
+scattered across all kin and regions of the Forbidden Lands.
+All bear yellow eyes \u2014 the demon's tell. Each allows Merigall
+to teleport to them instantly, without a roll and without
+Willpower cost. If an offspring dies, that teleport point is
+permanently lost. Merigall loves them without reservation and
+is a mortal enemy to anyone who harms them. The children are
+found among humans, dwarves, elves, half-elves, and orcs. Two
+named examples: **Morelde** (blonde boy, ten years old) and
+**Migalda** (dark-haired girl, twelve) living in Merigall's
+pavilion at Mount Ora; **Hirena** (adult, serves as steward
+in the fortress of Vond). Offspring used as bait can kindle
+Merigall's hatred against a specific enemy.
+
+**Bone Ferrets** \u2014 a named slaver company of roughly twenty
+members headquartered in **Grindbone**. Led by **Misela Ferrumar**.
+Operate as hunters, kidnappers, bodyguards, and assassins for
+hire across the Forbidden Lands. Use wolfkin trackers from the
+**Fangwoods** for prey that has fled into the forest. The Bone
+Ferrets and the Grindbone Thieves' Guild operate jointly; the
+settlement is effectively a two-faction criminal state.

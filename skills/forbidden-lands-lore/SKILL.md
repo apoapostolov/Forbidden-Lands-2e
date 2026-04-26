@@ -40,7 +40,7 @@ author decisions.
 
 ## Bundled References
 
-- `references/setting-ravenland-and-human-peoples.md`
+- `references/setting.md`
   The master setting document. Contains:
   - World state (post-Blood Mist, broken infrastructure)
   - Religion (Raven Church, Congregation, Rust Brothers) — quick form
@@ -53,7 +53,7 @@ author decisions.
   - Writing rules for human nationality in prose
   - Proper noun appendix
 
-- `references/tone-and-encounter-design.md`
+- `references/tone.md`
   The genre-register and encounter-authenticity authority. Contains:
   - Genre Classification: re-feudal medieval survival fantasy with
     Swedish tone, realistic village authenticity, soft Tolkienesque
@@ -64,12 +64,12 @@ author decisions.
   - Vignette and Novella Register (sensory anchors, voice anchors,
     plot anchors)
 
-- `references/history-and-chronology.md`
+- `references/history.md`
   Calendar (8 phases and named festivals), full chronology from the
   Mythic Past to 1165 AS, named historical figures index (~32
   entries), guidance on referencing dates in prose.
 
-- `references/gods-and-religions.md`
+- `references/gods.md`
   The full pantheon: the Protector under three faces (Wyrm/Raven/
   Rust), Reapenters, Sisters of Heme, Vampyr heresy, the Older
   Gods (Huge, Clay, Wail, Flow, Nightwalker, Horn, Eor, Red
@@ -78,7 +78,7 @@ author decisions.
   statblocks for each major religious order. Faction distribution
   by region.
 
-- `references/kin-deep-dive.md`
+- `references/kin.md`
   Cultural depth on every kin: clan names, governance, customs,
   named individuals, statblock anchors. Humans (Alderlanders,
   Ailanders, Frailers, The Silent, Aslenes, Quards, Galdanes),
@@ -88,7 +88,7 @@ author decisions.
   Viraga, Drifters), Wolfkin, Saurians, Whiners, Halflings,
   Goblins.
 
-- `references/bestiary-creatures-and-monsters.md`
+- `references/bestiary.md`
   Lore for every named creature: origin myth, ecology, cultural
   integration, named individuals (Erinya, Menkaura, Krasjika),
   folk warnings, encounter-shape anchors. Includes the lore-rule:
@@ -96,22 +96,61 @@ author decisions.
   contract is now breaking._ Pair with the bestiary skill for
   encounter mechanics.
 
-- `references/artifacts-and-named-relics.md`
+- `references/artifacts.md`
   Every named artifact: myth-as-told, truth-behind-myth,
   mechanical hint, current location/holder. Asina, Barkhyde,
   Carskenfoot's Boots, Clay's Rosary, Feroxa's Claws, Ivelde,
   Menkaura's Tooth, Phantom Daggers, Queen Agatha's Twin Tablets,
-  Scarnesbane, Nightwalker's Hourglass, Tezaur, Tvedra's Twin
-  Rings, Voller's Helmet, Wail's Horn, Well of Tears, Wyrm's
-  Key, Arrow of the Fire Wyrm.
+  Scarnesbane, Scarnesclaw, Nightwalker's Hourglass, Tezaur,
+  Tvedra's Twin Rings, Voller's Helmet, Wail's Horn, Well of
+  Tears, Wyrm's Key, Arrow of the Fire Wyrm. Campaign artifacts
+  (public legend only, true powers in campaign file):
+  Stanengist, Maligarn, Nekhaka, Blood Star (Hemella).
 
-- `references/places-villages-adventure-sites.md`
+- `references/places.md`
   The village-as-system model (seven components), The Hollows
   full reference (template for village authenticity), Heat and
   Need lore-side, settlement archetypes, named geography master
-  index covering all manuscript regions.
+  index covering all manuscript regions. Includes Raven's Purge
+  adventure site locations (Vond, Eye of the Rose, Pelagia,
+  Stoneloom Mines, Haggler's House, Ravenhole, Grindbone).
 
-## Companion Skills
+## Campaign Files
+
+Bundled campaign references live in `campaigns/`. Each campaign
+file contains both **non-spoiler** public lore and a
+**SPOILER SECTION** with plot secrets, NPC true agendas,
+artifact powers, and outcome paths.
+
+- `campaigns/ravens_purge.md`
+  Full reference for the **Raven's Purge** campaign by Erik
+  Granström. Scope: entirely within the core Ravenlands.
+  Central conflict: Stanengist (the elven crown) and who controls
+  the Forbidden Lands after the Blood Mist. Covers all key
+  players (Zytera, Merigall, Krasylla, Zertorme, Arvia, Soria,
+  Kalman Rodenfell, Kartorda), all adventure sites (Grindbone,
+  Ravenhole, Amber's Peak, Eye of the Rose, Pelagia, Stonegarden,
+  Stoneloom Mines, Haggler's House, Vond), all four campaign
+  artifacts, and the full range of campaign outcomes.
+
+### Spoiler Handling Protocol
+
+**Before reading any section marked ⚠️ SPOILER or SPOILER SECTION
+in a campaign file, stop and ask the user:**
+
+> *"This content contains major campaign spoilers for [Campaign
+> Name]. Do you want me to proceed with spoiler content?"*
+
+Wait for explicit confirmation before continuing. This applies
+to:
+- True natures and secret agendas of named NPCs
+- Artifact full powers and true histories
+- Adventure site secrets and dungeon contents
+- Plot twist reveals and campaign outcome paths
+
+Non-spoiler content (public legends, location descriptions,
+faction structures, geography) can be shared freely without
+asking.
 
 - `skills/forbidden-lands-bestiary/SKILL.md` — encounter design
   mandate, the seven encounter shapes, the Resources mandate,
@@ -160,7 +199,7 @@ author decisions.
 8. **The tonal register is fixed.** Re-feudal medieval survival
    fantasy with Swedish tone, realistic village authenticity, and
    soft Tolkienesque poetic worldbuilding. Each clause is a
-   constraint — see `references/tone-and-encounter-design.md` for
+   constraint — see `references/tone.md` for
    the definitions. Reject any draft that drifts toward generic
    high-fantasy, heroic-quest, or modern-comic register.
 
@@ -179,13 +218,13 @@ author decisions.
     longer. Hroka, Archa, Karonax, Sulma, Tademir, Turik, Tormund,
     Zytera, Zygofer, Therania, Merigall, Krasylla, Zertorme,
     Badalar, Geno, Kartorda, Blaudewedd, Veliman, Teramalda — alive
-    in 1165 AS. See `references/history-and-chronology.md`.
+    in 1165 AS. See `references/history.md`.
 
 11. **Every village described in prose names at least three of its
     seven components in the first 200 words** — food source, water
     source, defense, shrine(s), burial place, authority, grudge
     structure. The Hollows is the template. See
-    `references/places-villages-adventure-sites.md`.
+    `references/places.md`.
 
 ## Audit Checklist
 

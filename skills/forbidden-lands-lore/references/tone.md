@@ -92,7 +92,7 @@ bridge between Mrs. Pollmor's traditional faction (Dead Man's
 Hand Inn) and Yawim the dwarf brewmaster's commerce faction
 (Three Skulls Tavern), where ghosts are integrated into evening
 custom and the Spring ritual is letting the well overflow.
-See `places-villages-adventure-sites.md` for the full reference.
+See `places.md` for the full reference.
 
 ### "Soft Tolkienesque Poetic Worldbuilding"
 
@@ -244,7 +244,7 @@ no clean side.
 **7. "Find the artifact, win."**
 
 Wrong because: every named artifact in the canon (see
-`artifacts-and-named-relics.md`) carries a curse, a contested
+`artifacts.md`) carries a curse, a contested
 provenance, or a binding that was load-bearing somewhere. Asina
 cuts demons but is the smuggled fang of the worm-god the priests
 threw the smuggler overboard for bringing. Tvedra's Twin Rings

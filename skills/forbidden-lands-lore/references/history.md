@@ -38,6 +38,63 @@ Years count from the Shift (the human arrival in Ravenland)
 - The god **Clay** creates living things; the Ents are the first,
   and so powerful Clay must root the rest of vegetation as a
   precaution. Ents remain as forest shepherds.
+- The **six first elves** tend the land before the arrival of
+  humans. Their names and current states:
+  - **Gemelda** (eldest, wisest, largest ruby) — resting in
+    Stanengist; appointed Scrome to guard the Vale of the Dead.
+  - **Neyd** — resting in Stanengist; proposed that rivers be
+    named so they "stick together and have will"; Flow agreed
+    and named the first river **the Seyster**.
+  - **Nebulos** (craftsman) — built the **Stillmist** from
+    morning dewdrops and starlight; forged Stanengist with
+    dwarven smiths. Resting in Stanengist.
+  - **Iridne** — fell in love with the orc chieftain Horena;
+    her father the elf lord forbade the union and had her ruby
+    stripped and set in Stanengist to "cool off." She defied
+    him, re-assumed flesh, and then chose to become the
+    **Blood Star** clasp (Hemella), sent in secret to Horena
+    by her handmaiden. Her father went to war to reclaim it;
+    lost; had Horena whipped to death. The Blood Star has been
+    missing since. Iridne remains inside it, advising whoever
+    wears it in dreams. **Emperor Hroka** now holds the Blood
+    Star and gave it to Empress Soria; Iridne appears in
+    Soria's dreams without Soria knowing who speaks to her.
+  - **Viridia** (shieldmaiden) — fought the giant Scrome's
+    evil green eye; was fatally wounded. Her ruby became the
+    emerald **Gall-Eye**, now set into the sword Maligarn.
+    Corrupted by demonic influence during the battle. The demon
+    Merigall loved her and still keeps her portrait covered in
+    its pavilion.
+  - **Algared** (the Resourceful) — took human form, became
+    the first king of Alderland, and founded the Algarian
+    dynasty. His ruby is in the scepter **Nekhaka**. His three
+    successors were **Algamar**, **Alvagard**, and **Algarod**.
+    All possessed the elven ability to walk secret paths.
+    Algarod was the last, killed by Zygofer's demons in 874 AS.
+  - **The Shardmaiden** (seventh elder elf, sometimes called
+    Algared's "sixth wife") — shattered herself into shards
+    carried in the foreheads of Elvenspring Maiden druids.
+    See `gods.md`.
+- **The three Stanengist stones lost to Merigall:** Sometime
+  before the human arrival, the demon Merigall stole three
+  rubies from Stanengist; the land has been split ever since.
+  A stonesinger named Brander of Bynd received a vision from
+  Huge claiming the lost stones are in a king's scepter, a
+  queen's jewelry, and a giant-slaying sword. The stones are
+  Algared's ruby (in Nekhaka), Iridne's ruby (in the Blood
+  Star), and Viridia's ruby (in the sword Maligarn).
+- **Scrome and the Well of Tears:** The giant Scrome had two
+  eyes: a gentle yellow eye and a destructive green eye. The
+  elf Viridia fought him; he swallowed her ruby, which became
+  the emerald Gall-Eye after demonic corruption. Gemelda the
+  eldest elf extracted the ruby from Scrome's evil eye. The
+  evil eye was then separated from Scrome's body and became
+  the **Well of Tears** — it refills itself endlessly with
+  blood-mixed saltwater of its own power. Scrome's yellow-eyed
+  body now guards the Vale of the Dead on Gemelda's order.
+  He is living, ancient, and gentle in this form. If the evil
+  eye is returned to him, he reverts to full destructive power
+  and terrorizes the land.
 - **Scarne**, the dragon mother, rules in Ravenland. The dwarven
   commander **Oramund**, with the hammer **Scarnesbane** (legend:
   sent by Huge), defeats her. The truth is uglier: Scarne was
@@ -83,7 +140,7 @@ Years count from the Shift (the human arrival in Ravenland)
 
 - **800 AS:** The **Iron League** forms; **Teramalda** invades.
   Teramalda's living armor is the truth behind the legend of
-  **Feroxa's Claws** — see `artifacts-and-named-relics.md`.
+  **Feroxa's Claws** — see `artifacts.md`.
 - **820–821 AS:** **Lumra** falls. The dwarven lord **Garmar
   Four-Beard** has the woman who would become the wandering
   armor cooked over embers in her own steel. Her armor wakes;
@@ -103,17 +160,36 @@ Years count from the Shift (the human arrival in Ravenland)
   predatory darkness against the demon hordes; the result was
   the first **wolfshadows** and **nightwargs**, and the Dreamer
   himself may have been the first wolfshadow.
-- **874 AS:** **King Algarod**, the **Demon Flood**. King Algarod
-  falls in the Fourth Alder Wars. The ground that becomes **The
-  Hollows** is his battlefield and burial cairn.
+- **874 AS:** **King Algarod**, the **Demon Flood**. This is the
+  Fourth Alder Wars' culminating event. The Frailer sorcerer
+  **Zygofer** opens a demonic passage, flooding the Forbidden
+  Lands with hordes that slaughter Algarod's army. Algarod falls.
+  The ground that becomes **The Hollows** is his battlefield and
+  burial cairn. The royal scepter **Nekhaka** is lost during the
+  rout. Algarod was the last of the Algarian half-elven dynasty:
+  **Algamar**, **Alvagard**, and **Algarod** in succession, all
+  carrying Algared's elven ruby in the scepter and all able to
+  walk secret elven paths.
 - **875 AS:** The western parts of Aslene are razed by Zygofer's
   demonic hordes. The **Galdane** clan flees east into Margelda
   and is given land by **Zertorme**.
+- **Around 875–878 AS:** Zygofer and his daughter **Therania**
+  are said to have sealed a demonic compact — merging with a
+  demon prince to form the creature known as **Zytera**. The
+  Rust Brothers venerate the resulting entity as the prophet
+  of the god Rust and claim it protects humanity from demonic
+  invasion by channeling demon energies. Whether this protection
+  is real or a fabrication to justify the Church's expansion is
+  debated in every surviving Raven Sister circle.
 - **878 AS:** The **Iron Lock** is built across the southern
   passes by the Alderlanders. **The Silent** stand guard on it.
   The land north of the Lock becomes _the Forbidden Lands_.
-- **880 AS:** **Zytera** rises to power. He breaks elven rubies
-  for his demonic experiments.
+- **880 AS:** **Zytera** holds the fortress of **Vond** and
+  the western lands. The Crombe dwarves have been driven out;
+  their underground passages demolished on the way. Zytera
+  breaks elven rubies for demonic experiments. The **Rust
+  Brothers** — founded **883 AS** — spread from Vond and its
+  priory network.
 - **883 AS:** The **Rust Brothers** are founded.
 
 ### The Blood Mist (around 900–1160 AS)
@@ -130,10 +206,14 @@ Years count from the Shift (the human arrival in Ravenland)
 
 ### The Mist Lifts (1160 AS)
 
-- The Mist lifts because the demon **Merigall** sings a song of
+- The **Mist lifts** because the demon **Merigall** sings a song of
   homesickness to the bloodlings, drawing them back through the
   nexus. The land is open again. Roads are bones; old claims
   return; old grudges return; refugees move; news moves.
+- **The Redrunners** dissolved Merigall's body in acid after
+  capturing it during the Blood Mist years; they poured the acid
+  into **Lake Harga**, turning it red. The lake has been called
+  **Blaudwater** (blood water) ever since.
 - **The party of any campaign exists in the five years since.**
 
 ### Now (1165 AS)
@@ -204,6 +284,12 @@ Years count from the Shift (the human arrival in Ravenland)
 | Hinrek of Falender | Captain | Wore Tvedra's Twin Ring |
 | Tvedra | Witch | Died of his shared wounds |
 | Mazmer | Half-elf provisioner | Spoke with an Insectoid queen |
+| Arvia of Crombe / Hugefury | Crombe warrior-princess | Sworn by holy oath to retake Vond; fights disguised as a bodyguard |
+| Peyraman | Crombe dwarf captive at Vond | Partner of Viseria; knows the Arrow of the Fire Wyrm |
+| Viseria | Galdane Aslene fighter | Peyraman's partner; held at Vond's Cauldron of Torment |
+| Virelda Bloodbeak | Raven Sister / monster hunter | Hunts Teramalda; carries magical staff |
+| Rimenda of Karnevera | Raven Sister, Vond prisoner | Died before deciding whether to join the Blackwings |
+| Hrang Gala | Human advisor at Eye of the Rose | Invented the emperor's court customs; changed his name for orcish pronunciation |
 
 ## How to Use This Chronology in Prose
 

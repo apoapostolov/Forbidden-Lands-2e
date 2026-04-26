@@ -9,7 +9,7 @@ encounter shapes.
 For statblocks see the source chapters. For encounter design
 mandate (the seven shapes; resources tied to physiology), see
 `skills/forbidden-lands-bestiary/SKILL.md`. For the wider tonal
-rules and anti-trope list, see `tone-and-encounter-design.md`.
+rules and anti-trope list, see `tone.md`.
 
 The lore-rule for monsters in this setting:
 
@@ -105,13 +105,22 @@ Small, bestial-minded creatures in the Forbidden Lands today,
 though legends speak of intelligent giant dragons. All descended
 from **Scarne**, the original dragon mother. **Crombe dwarves
 claim they slew her**; in fact, she is imprisoned far below
-**Stonegarden**. **Drakewyrms** are the smaller cousins —
+**Stonegarden** in an elastic metallic net that has been weakening
+for 1500 years. She is highly intelligent, speaks all languages,
+is utterly humorless, and remembers every slight ever done to her
+with perfect fidelity. She is furious at the Crombe dwarves. If
+freed, her stated intent is to demolish **Dragon's Tooth** mountain,
+drop **Scarnesbane** in the ocean so no one can ever use it against
+her, and establish herself as dragon matron in the northern
+mountains to breed a new generation. The dwelvers below Stonegarden
+are debating whether to release her; the net is weakening whether
+they act or not. **Drakewyrms** are the smaller cousins \u2014
 glittering scales, vain, hungry, can be flattered, worship the
 **rainbow as Tincturus** and leave offerings of bone and shiny
 things where colors touch the ground. The wizard **Varleyman of
 Byard** rode one as a mount.
 
-Gaps open between shed scales — a careful scout can guide a hard
+Gaps open between shed scales \u2014 a careful scout can guide a hard
 shot. Dwarven clans remember dragon blood and bone in old songs;
 some greater dragons may keep grudges older than human kingdoms.
 
@@ -474,7 +483,7 @@ in crevices to age the flesh to its preferred consistency.
 
 ## Whiner
 
-See `kin-deep-dive.md`. Bestiary classification reflects how
+See `kin.md`. Bestiary classification reflects how
 hunters treat them — as creatures, not as kin — but the lore
 remembers their humanoid intelligence and grief.
 
@@ -516,13 +525,96 @@ A dragon mother referenced in the opening of the Book of Beasts.
 to leave this world out of love for her offspring and human
 flesh."** Encountered by **Shieldmaiden Armanda** in legend.
 
+---
+
+## Raven's Purge Creatures
+
+The following entries originate from the Raven's Purge source.
+Statblocks are in `campaigns/ravens_purge.md`; these entries hold
+the lore and ecology.
+
+## Calydone
+
+A fire-breathing boar — demonic animal produced through
+**Brinhelda**'s fire essences and Zertorme's experimental program
+at Amber's Peak. Released onto the surrounding plains as a field
+weapon and ecological weapon simultaneously. Not domesticated;
+not controllable. Larger and longer-legged than a natural boar.
+
+## Dwelver
+
+Pale, chalk-white, roughly halfling-sized. The ancient ancestors
+of the dwarves. Live 1000 meters and more underground in the
+elder layers beneath Stonegarden. Can partially or completely
+soften their skeletons to press through cracks one inch wide.
+Cannot speak at surface level (air too thin for their vocal
+anatomy); speak fluently at 200m depth or below. Cannot see the
+sun or touch above-ground land without harm.
+
+Master Stone Singers; metallurgists beyond any living craftsman.
+Can teach the **skeleton-softening** technique to above-ground
+Stone Singers who earn their trust. Possibly able to control
+iron dragons; this is uncertain even to dwarven scholars.
+
+## Marga
+
+Zygofer and his wife Martea's demonified daughter. She was a
+girl who absorbed mog before she was ready; the result is a
+massive flesh-mass that fills the deepest chamber of the
+**Stoneloom Mines**. Her avatar \u2014 the only part of her that
+retains her original appearance \u2014 is a girl of eleven years,
+brown-haired, sullen, with disturbed and willful intelligence.
+The avatar is her heart. **Marga can only be killed by impaling
+her avatar's heart.** Destroying the mass does nothing
+permanently. She has the personality of a child who learned
+the world will give her whatever she devours, and has been
+devouring for a long time.
+
+## Ore-Weller
+
+Mobile mineral fusiform living in the deep structures below
+Stonegarden. Devours raw materials and reshapes itself from
+them. Not a living being in any organic sense; immune to
+ordinary weapons \u2014 every hit with a metallic weapon degrades
+the weapon by 1. Dissolves metals in humanoid tissue with acid
+secretions. Distracted reliably by gold coins: will stop to
+absorb them, ignoring other targets.
+
+## Pyrotaur
+
+Humanoid with a bull's head; fire-immune; breathes fire.
+Produced by Zertorme through a program using fire essences
+from the demon **Brinhelda**. Semi-intelligent; completely
+loyal to Zertorme. Released onto the plains near Amber's Peak
+alongside calydones.
+
+## Stone Titan
+
+Twelve-meter black obsidian giant. No higher intelligence. Four
+are sealed in obsidian alcoves at **Pelagia**. Wakened by the
+hammer **Scarnesbane** or by the artifact **Scarnesclaw**
+(which scratches them awake). Controlled by **Maha** sign-tablets;
+without instructions they wander randomly. Stop after 60 days
+of activation or when encountering a mountain barrier. Per druid
+legend, the stone titans came from the sea with the first humans.
+They are the druids' final deterrent.
+
+## Swinehound
+
+A demon-tainted crossbreed \u2014 part dog, part unknown \u2014 sold
+by Rust Brothers as guardians and war-hounds. Fed on human
+flesh in the kennels; they will not accept animal meat once
+trained. The **Demonic Bite** passes infection: Virulence 5.
+The bite does not heal normally until the demonic element is
+purged.
+
 ## Cross-References
 
 - `skills/forbidden-lands-bestiary/SKILL.md` — encounter design
   mandate, resources mandate, statblock format
-- `tone-and-encounter-design.md` — anti-trope catalog
-- `artifacts-and-named-relics.md` — artifacts derived from monster
+- `tone.md` — anti-trope catalog
+- `artifacts.md` — artifacts derived from monster
   parts (Asina, Menkaura's Tooth, Wail's Horn, Erinya's arrows)
-- `gods-and-religions.md` — divine origins of named monsters
-- `history-and-chronology.md` — historical events that produced
+- `gods.md` — divine origins of named monsters
+- `history.md` — historical events that produced
   monsters (Demon Flood, Falender, Wailer's Hold)

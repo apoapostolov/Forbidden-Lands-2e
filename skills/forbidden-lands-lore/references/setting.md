@@ -36,6 +36,34 @@ Gold from local deposits exists but is treated with suspicion.
 
 ---
 
+## Demonic Cosmology
+
+**Churmog** is the demon world \u2014 the home dimension of demon princes including
+Krasylla and Merigall. Its ruler is **Goder**. Demons are made of **mog**, a
+living substance from Churmog. The key property of mog: it is immune to ordinary
+death. Destroy a demon's body and it regenerates at the side of one of its
+offspring. Merigall's own words: _"I consist of mog and cannot die in the normal
+sense."_ The only reliable way to destroy a demon permanently is to kill the mog
+itself \u2014 acid and lye will do it, or specific magical means.
+
+**Sarmog** is an advanced stage of demonic evolution achieved when a demon
+consumes enough matter. It results in vastly greater power, size, and resilience.
+A demon in sarmog can then pursue **nexus** \u2014 a permanent gate between the world
+and Churmog \u2014 and potentially challenge Goder himself. **Krasylla** is in the
+process of transitioning into sarmog inside the fortress of Vond: roughly ten
+meters tall, multiple limbs, natural stone armor. Krasylla's comment on the
+current arrangement: _"Let Goder keep Churmog, while I make mog of the Forbidden
+Lands."_
+
+**A protonexus** is a primitive, controlled one-way portal to Churmog. **Zytera**
+has built one at the summit of Mount Ora. It is contained: demons do not pour
+through unless the gate is uncontrolled. A protonexus can be destabilized into
+a full uncontrolled nexus by sacrificing a being of royal blood. The only way
+to permanently seal a nexus once opened is to throw **Stanengist** into it \u2014
+which destroys the crown.
+
+---
+
 ## Geography (Known Locations)
 
 | Location               | Notes                                                                                                                                                                                               |
