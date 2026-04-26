@@ -265,13 +265,13 @@ You do not need to rewrite the whole sheet every turn. Holdings, basis of rule, 
 
 Treasury and Stores are the faction's backing tracks. They do not work like pillars or practices. They tell you whether coin or provisions can actually stand behind an act when the ruler tries to buy peace, pay hard men, send gifts, feed a siege, carry a campaign, or survive a bad season.
 
-When an act plainly depends on silver, wages, bribes, ransom, bought repair, or gifts, Treasury is the relevant backing track. When it depends on grain, fodder, reserve arms, wagon loads, draft animals, or siege food, Stores is the relevant backing track. A backing track at **Thin** or better may supply the act's single asset die if no better asset exists. A backing track at **Bare** cannot do so. If the act has no other meaningful backing, increase its difficulty by 1 instead.
+When an act plainly depends on silver, wages, bribes, ransom, bought repair, or gifts, Treasury is the relevant backing track. When it depends on grain, fodder, reserve arms, wagon loads, draft animals, or siege food, Stores is the relevant backing track. A backing track at **Thin** or better may supply an asset rating if no better asset exists. A backing track at **Bare** cannot do so. If the act has no other meaningful backing, increase its difficulty by 1 instead.
 
 Read the silver figures below as ready coin or bullion the faction can spend now, not the value of walls, herds, unsold grain, or land. They are grounded against the corebook economy: a guard costs 1 silver a day, a warhorse costs 80 silver, a stone house costs 300 silver, and a fort costs 2,500 silver.
 
 | RATING | TREASURY | READY SILVER ON HAND | STORES | RULE WEIGHT |
 | --- | --- | --- | --- | --- |
-| **Bare** | Coin exists only in immediate hands. A bad week is a crisis. | less than 20 silver | Granaries and warehouses are almost empty. Campaigning is short and ugly. | The track cannot back an act with an asset die. The first further loss while already Bare damages **Hearth** instead, or **Force** if unpaid troops are the real problem. |
+| **Bare** | Coin exists only in immediate hands. A bad week is a crisis. | less than 20 silver | Granaries and warehouses are almost empty. Campaigning is short and ugly. | The track cannot back an act with an asset rating. The first further loss while already Bare damages **Hearth** instead, or **Force** if unpaid troops are the real problem. |
 | **Thin** | Ordinary duties can be met, but shocks bite hard. | 20 silver or more | Enough for routine obligations and one short push. | The track may back one relevant act, but any major spend, convoy loss, siege week, or week of hired force usually steps it down. |
 | **Sound** | The faction can pay retainers, bribe, repair, and weather trouble. | 100 silver or more | Enough for a serious muster or a brief siege. | Ordinary rule does not step the track down. A major political spend, a field campaign week, or a real supply loss still can. |
 | **Deep** | The faction can absorb shocks, buy loyalty, and fund a campaign. | 500 silver or more | Granaries are heavy enough to feed a real host. | Ignore the first ordinary step-down each **Season Turn** or **Campaign Week**. Raids, bad harvest, sack, famine relief, or catastrophe still cut it normally. |
@@ -288,9 +288,9 @@ Track the available strength behind the faction because these ratings decide wha
 
 | RATING | WHAT IT LOOKS LIKE | RULE WEIGHT | WHAT IT COSTS |
 | --- | --- | --- | --- |
-| **Light** | a few spare carts, ditch hands, quarry crews, or draft beasts | Labor may supply the asset die for one local **WORKS** or **RELIEF** act per **Season Turn**. A second similar act that turn takes +1 difficulty. | Even light labor means someone is not in the field, at the mill, or on another necessary job that day. |
-| **Working** | enough routine hands for ordinary repairs, hauling, and relief work | Labor may back one local **WORKS** or **RELIEF** act each turn without strain. | The faction is coping, but those hands are still tied to local work rather than war. |
-| **Heavy** | drafted crews, hauled timber, stone carts, organized work gangs | Labor may back one local **WORKS** or **RELIEF** act each turn, and one successful such act counts 1 extra success if tools and materials are on hand. | Heavy labor means men, carts, and draft beasts are being kept from harvest, patrol, or transport elsewhere. |
+| **Light** | a few spare carts, ditch hands, quarry crews, or draft beasts | Labor counts as **asset rating 1** for one local **WORKS** or **RELIEF** act per **Season Turn**. A second similar act that turn takes +1 difficulty. | Even light labor means someone is not in the field, at the mill, or on another necessary job that day. |
+| **Working** | enough routine hands for ordinary repairs, hauling, and relief work | Labor counts as **asset rating 2** for one local **WORKS** or **RELIEF** act each turn without strain. | The faction is coping, but those hands are still tied to local work rather than war. |
+| **Heavy** | drafted crews, hauled timber, stone carts, organized work gangs | Labor counts as **asset rating 3** for one local **WORKS** or **RELIEF** act each turn, and one successful such act counts 1 extra success if tools and materials are on hand. | Heavy labor means men, carts, and draft beasts are being kept from harvest, patrol, or transport elsewhere. |
 
 #### Levy
 
@@ -306,9 +306,9 @@ Track the available strength behind the faction because these ratings decide wha
 | RATING | WHAT IT LOOKS LIKE | RULE WEIGHT | WHAT IT COSTS |
 | --- | --- | --- | --- |
 | **None** | no standing hard core beyond household guards or temporary companions | The faction has no permanent force pool to back local coercion. | Every hard act depends on fresh levy, bought blades, or bluff. |
-| **Handful** | gate guards, shrine guards, hall men, oathbound riders | Retainers may supply the asset die for local **DECREE**, **WATCH**, or occupation checks at the seat. | They must still be paid, fed, and kept loyal every week. |
-| **Company** | a real standing body of sworn fighters | Retainers provide one standing contingent and let the faction enter **Campaign** state without depending wholly on fresh levy. | A company eats coin, grain, and discipline even in quiet weeks. |
-| **Strong Garrison** | enough permanent force to hold the seat and another point of pressure nearby | The faction can hold the seat and one nearby holding or occupation at the same time before levy must be borrowed to do it. | A strong garrison still means coin, food, and discipline must be found every week if those hard men are not to become a danger of their own. |
+| **Handful** | gate guards, shrine guards, hall men, oathbound riders | Retainers count as **asset rating 1** for local **DECREE**, **WATCH**, or occupation checks at the seat. | They must still be paid, fed, and kept loyal every week. |
+| **Company** | a real standing body of sworn fighters | Retainers count as **asset rating 2**, provide one standing contingent, and let the faction enter **Campaign** state without depending wholly on fresh levy. | A company eats coin, grain, and discipline even in quiet weeks. |
+| **Strong Garrison** | enough permanent force to hold the seat and another point of pressure nearby | Retainers count as **asset rating 3**. The faction can hold the seat and one nearby holding or occupation at the same time before levy must be borrowed to do it. | A strong garrison still means coin, food, and discipline must be found every week if those hard men are not to become a danger of their own. |
 
 ---
 
@@ -489,7 +489,7 @@ Here the art of rule begins with rolls of names, sharpened spears, and captains 
 This faction has learned that roads, walls, camps, and work yards win wars before heroes do.
 
 - ✦ **RANK 1 — SET THE STAKES:** Good ground is made, not merely found. Works tied to roads, bridges, palisades, or field camps take one fewer **SEASON TURN** or **CAMPAIGN WEEK** step to establish in play.
-- ✦ **RANK 2 — BUILD UNDER PRESSURE:** The hand that repairs under attack is worth twice the hand that only builds in peace. A damaged stronghold, bridge, mill, or wall section counts one extra success whenever a **WORKS** roll is made to restore it. Camps, ditches, and forward stockpiles are substantial enough to justify the act's asset die for **SIEGECRAFT** or **PROVISION** even when no permanent holding is present.
+- ✦ **RANK 2 — BUILD UNDER PRESSURE:** The hand that repairs under attack is worth twice the hand that only builds in peace. A damaged stronghold, bridge, mill, or wall section counts one extra success whenever a **WORKS** roll is made to restore it. Camps, ditches, and forward stockpiles are substantial enough to justify **asset rating 1** for **SIEGECRAFT** or **PROVISION** even when no permanent holding is present.
 - ✦ **RANK 3 — MAKE THE GROUND READY:** Veteran builders know which ditch to deepen and which gate timber to keep seasoned. One stronghold under this faction always counts as prepared ground when Chapter 12 begins there. Once per season, prevent 1 Hearth damage from war or weather by consuming timber, stone, and labor already on hand.
 - ✦ **RANK 4 — THROW UP EARTH AND TIMBER:** When a district has learned this art well, defense begins the same week the danger appears. Once per campaign week, one defended point may gain a ditch, camp wall, breach patch, bridge block, or stockade quickly enough to matter immediately. Treat the first assault, raid, or breach attempt against it that week as one step harder.
 - ✦ **RANK 5 — TURN THE DISTRICT INTO A FORTRESS:** At the height of this legacy the countryside itself starts behaving like an outwork. At the start of a siege or invasion of one ruled district, choose one stronghold and up to two roads, bridges, or ferries tied to it. For the rest of the Campaign Week they all count as prepared, supplied, and hard to wreck: the first successful enemy damage to each only scars it, and the second is needed to break it.
@@ -508,7 +508,7 @@ Its strength lies in movement, contract, and the promise that goods under its se
 
 Here relic, witness, and sermon carry almost as much weight as spears and storehouses.
 
-- ✦ **RANK 1 — CALL WITNESSES TO THE OATH:** A public rite gains weight when the gods are asked to hear it. A public **RITE** before a shrine, relic, or acknowledged priest adds one asset die.
+- ✦ **RANK 1 — CALL WITNESSES TO THE OATH:** A public rite gains weight when the gods are asked to hear it. A public **RITE** before a shrine, relic, or acknowledged priest raises the chosen asset by 1, to a maximum of **5**, or provides **asset rating 1** if no other asset applies.
 - ✦ **RANK 2 — GIVE THE PEOPLE A HOLY ANSWER:** Sanction does not feed anyone, but it can keep a grievance from turning into refusal. One settlement under cult sanction may ignore the first 1-point Standing loss from a minor grievance this season if the shrine publicly supports the ruler. Fanatical or sworn troops raised through the shrine gain +1 Discipline for one campaign week.
 - ✦ **RANK 3 — SANCTIFY THE RULE:** Once the shrine's word bites, it can do work that soldiers alone would do clumsily. Sanctuary, interdict, or public condemnation can be used as a political act with **ACCORD** or **RITE** instead of Assault. Once per season, a holy proclamation may turn one allied or neutral settlement into **PROTECTED** ground without a separate **GRANT PROTECTION** act, if the cult is acknowledged there.
 - ✦ **RANK 4 — NAME THE OATH-BREAKER BEFORE GODS AND MEN:** A priesthood at full voice can wound a rival without raising a single spear. Once per season, publicly condemn one rival captain, household, or settlement. Until it makes amends, it takes +1 difficulty to **ACCORD**, **CLAIM**, or **CALL COUNCIL OR MOOT** in places where the cult holds weight.
@@ -519,7 +519,7 @@ Here relic, witness, and sermon carry almost as much weight as spears and storeh
 This power prefers open victory only after secret work has already loosened every hinge that mattered.
 
 - ✦ **RANK 1 — BUY A QUIET HAND:** The first secret is rarely found; it is paid for. Intrigue rolls to gather blackmail or private dirt gain one extra success if they succeed.
-- ✦ **RANK 2 — TURN THE LOCK FROM INSIDE:** Every power has someone near the gate who can be bought. A forged message, bought guard, or bribed ferryman counts as an asset die once per turn. Once per season, force an enemy faction to re-roll a successful **RELAY** or **ACCORD** act and keep the worse result.
+- ✦ **RANK 2 — TURN THE LOCK FROM INSIDE:** Every power has someone near the gate who can be bought. A forged message, bought guard, or bribed ferryman counts as **asset rating 1** once per turn, or raises an existing relevant asset by 1 to a maximum of **5**. Once per season, force an enemy faction to re-roll a successful **RELAY** or **ACCORD** act and keep the worse result.
 - ✦ **RANK 3 — LEAVE NO OPEN ACCUSER:** A good hidden hand makes the damage obvious and the culprit doubtful. A quiet removal, theft, or vanished courier can advance a feud without immediate Standing loss outside the directly injured place, so long as your faction is not publicly named. Once per campaign, cancel one enemy minor act entirely by revealing or triggering work you already set in motion.
 - ✦ **RANK 4 — MAKE THE HOUSE DO YOUR WORK:** Once the knives are planted deep enough, the victim begins to injure itself for you. After a successful **INTRIGUE** act, freeze one enemy contingent, route, or subordinate settlement for one turn. It arrives late, withholds dues, or refuses an order until separately steadied.
 - ✦ **RANK 5 — STRIKE BEFORE THE HORN:** At its highest form this legacy lets the battle begin before the battle begins. If open war, battle, or siege starts after successful intrigue, choose one before Chapter 12 begins: one gate, ferry, or supply asset is already compromised; one enemy captain or courier line is missing; or one enemy contingent begins late, shaken, or badly placed.
@@ -565,13 +565,24 @@ Read those results broadly. The table shows the scale of outcome that should jus
 
 ### CP and Recovery
 
-Whenever a faction earns CP from one event, recover 1 point in one damaged pillar clearly strengthened by that success. The GM chooses the pillar if two seem equally true, but the examples above should usually settle the matter. A single CP award recovers only 1 point even if it grants 5 or 10 CP, because the CP themselves already measure the scale of growth. If no related pillar is damaged, the recovery is lost.
+When a faction earns CP, it may either bank those points for advancement or spend some or all of that award immediately to heal a damaged pillar. Healing is not free recovery. It is the faction turning victory, submission, plunder, reopened trade, restored rites, or saved labor straight back into political strength.
+
+Spend CP to heal only a pillar the event clearly strengthened. A won council, public submission, or accepted judgment may heal **Mandate**. A battlefield success, crushed revolt, or restored discipline may heal **Force**. A reopened road, secured ford, or repaired courier chain may heal **Reach**. A saved harvest, recaptured stores, rebuilt mill, or relieved district may heal **Hearth**. If no damaged pillar fits the event, bank the CP instead.
+
+| PILLAR HEALING | CP COST |
+| --- | --- |
+| **1 → 2** | **1** |
+| **2 → 3** | **1** |
+| **3 → 4** | **2** |
+| **4 → 5** | **3** |
+
+One award may heal more than one pillar if the fiction plainly supports it and enough CP are spent. Unspent CP from the same award may still be banked for advancement.
 
 Do not pay twice for the same event. If one victory already earned **5 CP**, do not also pay **2 CP** because a road opened on the way.
 
 ### Spending Campaign Points
 
-A faction needs no **Teacher** to improve. Its teachers are defeat, profit, blood, drilled labor, and the memory of what nearly broke it. Spend CP only when the fiction explains the change: a conquered toll road may justify **Traffic**, a season of hard service may justify **Discipline**, a stronger cult hold may justify **Path of the Shrine**, and absorbed villages may justify **Hearth** or **Mandate**.
+A faction needs no **Teacher** to improve. Its teachers are defeat, profit, blood, drilled labor, and the memory of what nearly broke it. Spend banked CP only when the fiction explains the change: a conquered toll road may justify **Traffic**, a season of hard service may justify **Discipline**, a stronger cult hold may justify **Path of the Shrine**, and absorbed villages may justify **Hearth** or **Mandate**.
 
 Raise practices, pillars, and legacies one rank or step at a time. A faction can never raise a pillar above **5** through CP, and no practice or legacy should exceed the ranks already used elsewhere in this chapter.
 
@@ -611,9 +622,46 @@ Example: Stonewall breaks Fenwick, secures the ferry, and forces the river road 
 
 ### The Roll
 
-A faction act is resolved with **pillar + practice + one asset die + modifiers**. Keep that frame plain and do not hide it under clever exceptions. Faction play is easiest to run when the GM can look from the fiction to the numbers and back again without losing the thread of who is pressing whom and what resource is truly being risked.
+A faction act is resolved with **pillar + practice + one asset source + modifiers**. Keep that frame plain and do not hide it under clever exceptions. Faction play is easiest to run when the GM can look from the fiction to the numbers and back again without losing the thread of who is pressing whom and what resource is truly being risked.
 
-The asset die is a normal d6. It represents a relevant stronghold function, shrine, market charter, road net, named lieutenant, hostage, or prepared advantage. A faction normally gains **one** asset die, not more. If several advantages apply, choose the most important one.
+The chosen asset source contributes **1 to 5 asset dice**, according to its **asset rating**. If several assets apply, use only the single highest rating among them. Do not stack assets from three smaller advantages into one swollen pool. A stronghold, relic, convoy charter, hostage, bridge right, spell-circle, or chained monster may all count as assets, but only the most decisive edge should matter on the roll.
+
+### Assets
+
+Most assets roll normal d6s. Their rating tells you how many dice they contribute.
+
+| ASSET RATING | ASSET DICE | EXAMPLES |
+| --- | --- | --- |
+| **1** | **1D6** | a witness of weight, a known hostage, a ferryman under oath, a narrow market charter, **Thin Treasury**, **Light Labor**, or **Handful Retainers** |
+| **2** | **2D6** | a fortified bridgehead, a trusted steward network, **Sound Treasury**, **Working Labor**, **Company Retainers**, or a good shrine whose word still bites |
+| **3** | **3D6** | a strong convoy system, a hard local garrison, **Deep Treasury**, **Heavy Labor**, **Strong Garrison**, or a well-kept chain of signal posts |
+| **4** | **4D6** | a sworn circle of spellcasters, a famed relic, a veteran mercenary company under paid retainer, or a fortress-complex that dominates a district |
+| **5** | **5D6** | the Crown of Five Elven Rubies, a captured monster kept as a weapon, a daemon gate under command, or some other campaign-defining instrument of rule |
+
+If an advantage is useful but not overwhelming, rate it at **1**. Ratings **4** and **5** should be rare and named. They are not background conveniences. They are reasons other powers change their plans.
+
+When an act would benefit from Treasury or Stores alone, use these fallback ratings:
+
+| BACKING TRACK | ASSET RATING |
+| --- | --- |
+| **Bare** | none |
+| **Thin** | **1** |
+| **Sound** | **2** |
+| **Deep** | **3** |
+
+### Ascendancy Dice
+
+For overwhelming advantages that do more than add weight, use an **Ascendancy Die**. This replaces one d6 in the roll with a larger die. Use it for miracles, throne-claims backed by unquestioned symbols, world-defining relics, ancient gates, or any edge so large that ordinary asset dice undersell it.
+
+An Ascendancy Die is not an asset. A faction may use both one asset source and one Ascendancy Die on the same roll. A named Ascendancy can be invoked only **once per Season Turn**.
+
+| ASCENDANCY DIE | SUCCESS RESULTS |
+| --- | --- |
+| **D8** | `6-7 = 1 success`, `8 = 2 successes` |
+| **D10** | `6-7 = 1 success`, `8-9 = 2 successes`, `10 = 3 successes` |
+| **D12** | `6-7 = 1 success`, `8-9 = 2 successes`, `10-11 = 3 successes`, `12 = 4 successes` |
+
+If the final resolved roll is a failure and the Ascendancy Die showed **0 successes**, the faction loses that Ascendancy. The miracle passes. The relic is shattered, stolen, or spent. The gate slips free of command. The great mandate no longer binds the room.
 
 ### Difficulty and Opposition
 
@@ -642,7 +690,7 @@ Do not roll just because a faction exists. Roll when another will, another short
 
 Factions may push rolls when a ruler wants the result more than the health of the thing being spent to get it. When a faction pushes:
 
-**Banes on base dice** damage the relevant pillar. **Banes on asset dice** damage, expose, or poison the asset instead: a bridge wrecked by haste, a priest alienated, a steward compromised, a hostage mishandled, a settlement turned cold.
+**Banes on base dice** damage the relevant pillar. **Banes on asset dice** reduce that asset's rating by 1 instead: a bridge wrecked by haste, a priest alienated, a steward compromised, a hostage mishandled, a contract broken, a chained monster wounded, or a settlement turned cold. If an asset falls to **0**, it is no longer useful until it is repaired, renewed, recaptured, or replaced in the fiction.
 
 Examples:
 
@@ -652,7 +700,7 @@ Examples:
 
 ### Recovery
 
-Faction pillars recover slowly. At the start of a **Season Turn**, recover 1 point in up to two damaged pillars if the fiction supports it.
+Faction pillars recover slowly. At the start of a **Season Turn**, recover 1 point in **one** damaged pillar if the fiction supports it.
 
 **Mandate** recovers through kept promises, sound judgment, visible justice, remission, witnessed mercy, or victory that still looks lawful. **Force** recovers through rest, replacement, repaired arms, fresh horses, new captains, and the ending of hard service. **Reach** recovers through repaired crossings, patrolled roads, rebuilt courier lines, fresh scouts, and cleared snow or flood wreckage. **Hearth** recovers through harvest, reopened trade, repaired works, relief, new labor, or ordinary quiet after strain.
 
@@ -685,19 +733,19 @@ In a pre-feudal land, those changes are rarely written cleanly and almost never 
 
 These are the common tools of power.
 
-**Protection Pact** — A settlement pays because another power keeps road, ford, harvest, or shrine safer than it would otherwise be.
+**Protection Pact** — A protection pact is not parchment first. It is watched roads, answered horn-calls, judged disputes, and armed return when cattle are driven or barns are threatened. The price is usually grain, ferry duty, warning service, shelter for patrols, or winter dues rather than neat silver. If the protecting hand fails once in public, the pact begins to rot at once.
 
-**Fealty Oath** — A lesser ruler, captain, or shrine binds upward.
+**Fealty Oath** — Fealty is a witnessed upward promise made by a lesser ruler, captain, elder circle, or shrine. It should be sworn before people who matter and tied to some visible exchange: backing in feud, confirmation in office, protection of heirs, or lawful share of dues. A fealty oath with no witness, no hostage, and no return promise is only frightened talk.
 
-**Hostage Compact** — A child, sibling, sworn man, or ward is kept as proof that an agreement still lives.
+**Hostage Compact** — A hostage compact binds terms through living flesh. The child, sibling, heir, or sworn retainer held under another roof stands in place of trust that does not yet exist. Such compacts work only when the hostage is known to be alive, identifiable, and worth recovering. A lost hostage weakens the bargain even before blame is assigned.
 
-**Betrothal or Fosterage** — Long peace bought through kinship rather than immediate obedience.
+**Betrothal or Fosterage** — Marriage bargain and fosterage are slower tools. They turn peace into kinship, or something close enough that breaking it costs more face than breaking a toll agreement. They are useful where two powers expect to deal with one another for years, not weeks. They fail when one side treats the bond as ornament while the other treats it as foundation.
 
-**Market Charter or Toll Right** — Authority over crossing, bridge, ferry, road, or market day.
+**Market Charter or Toll Right** — A charter or toll right is permission made profitable: the right to hold market, weigh silver, keep bridge dues, run a ferry, or shelter caravans under a seal. In a hard land, such rights exist only while they are enforced. A toll with no patrols, no bridge men, and no one to avenge robbery is not a right for long.
 
-**Temple Sanction** — A shrine, priesthood, or cult makes rule cleaner or dirtier in the eyes of the faithful.
+**Temple Sanction** — Temple sanction gives rule a holier face or a dirtier one. A priesthood may witness oaths, denounce oath-breakers, bless levy, condemn a rival, or make obedience feel lawful in the eyes of the fearful. It can also turn a ruler into a defiler overnight if the shrine withdraws support in public.
 
-**Outlawry** — A person or household is stripped of ordinary protection and may be seized, hunted, or denied shelter.
+**Outlawry** — Outlawry strips a person or household of ordinary protection. Trade, shelter, and lawful appeal close around them. In practice it matters only if enough people accept the sentence and fear the cost of breaking it. A weak outlawry is only a threat spoken from a bench. A strong one makes doors stay barred after dusk.
 
 These instruments matter because rule in the Ravenlands is personal before it is territorial. A hall does not govern by parchment drifting down a chain of clerks. It governs because a known face stands at the gate with witnesses, because a priest names who broke faith, because a child of the right blood eats under another roof, because ferrymen know which banner will avenge them and which one will only promise. Use that reality when deciding what any bargain, oath, or threat actually means.
 
@@ -745,48 +793,100 @@ Old-world politics is full of men who say the matter is settled while everyone a
 >
 > _That was the shape of power when it was healthy enough not to march._
 
-A faction acts in one of four states.
+The faction's **Current State** is its present **Mode of Rule**. Use the mode below that best matches what the power is spending itself on now.
 
-These states describe how the whole body of rule is spending itself at the moment. In **Peace**, authority is tested by dues, law, repair, and who comes when called. In **Pressure**, the same authority leans harder on roads, kin, and hidden debts. In **Muster** and **Campaign**, the small bargains that held the realm together are converted into carts, fodder, watchfires, and men with spears. Use the current state to judge what kinds of acts are ordinary, what kinds of costs are expected, and what kind of strain the countryside is already beginning to feel.
+| MODE OF RULE | TURN SCALE | WHAT IT IS FOR |
+| --- | --- | --- |
+| **Peace** | **Season Turn** | accepted rule, dues, repair, judgment, trade |
+| **Pressure** | **Season Turn** | coercion short of open war, hard collection, spying, closures, hostage terms |
+| **Muster** | **Campaign Week** | calling levy, gathering stores, preparing roads, camps, and captains |
+| **Campaign** | **Campaign Week** | feeding armies, holding the rear, cutting supply, siege, occupation, open war |
 
-| STATE | WHAT IT LOOKS LIKE |
-| --- | --- |
-| **Peace** | ordinary dues, local judgment, patrols, gifts, trade, small repairs |
-| **Pressure** | spies, bribes, raids, stockpiles, road closures, hostage demands |
-| **Muster** | levy called, stores gathered, roads secured, captains summoned |
-| **Campaign** | armies in the field, regular burden, cut supply, siege, open war |
+These procedures are not decorative summaries. Run them in order. The checks below are what move the faction sheet even before any major political act is chosen.
 
-### Season Turn
+### Peace Procedure
 
-Use this in **Peace** and **Pressure**, when the struggle is still being measured in dues, law, rumor, and local obedience rather than open marching.
+Use this when the faction still rules mostly through acceptance, habit, and known dues.
 
-Resolve each major faction in this order.
+1. **Recover** — if this is the start of a new **Season Turn**, apply passive pillar recovery from **Recovery** above.
+2. **Community** — roll **Mandate + Accord** or **Mandate + Rite**.
+    - On success, improve Standing by 1 in one ruled or protected settlement, or keep one small grievance from hardening.
+    - On failure, one settlement grows cold, one elder circle resists quietly, or one small grievance advances to **Pressure**.
+3. **Development** — roll **Hearth + Works**.
+    - On success, repair one holding, improve one local function, or prepare one minor future advantage worth **asset rating 1**.
+    - On failure, labor is spent for no lasting gain. If the ruler pushes anyway, damage **Hearth** or tie up **Labor** so the next Development check takes +1 difficulty.
+4. **Prosperity** — roll **Hearth + Yield** or **Reach + Traffic**.
+    - On success, one due comes in cleanly and, if the season supports it, **Treasury** or **Stores** may rise one step.
+    - On failure, payment comes short, trade falters, or one paying settlement loses 1 Standing.
+5. **Acts** — take **one major act** and **one minor act**.
+6. **Fallout** — apply Standing shifts, Feud movement, status changes, and any damage caused by failure or overreach.
 
-1. **Recover** — restore damaged pillars where the fiction allows.
-2. **Count Dues** — routine taxes, tithes, tolls, and agreed tribute come in.
-3. **Check Oaths** — note what is due, disputed, or close to failing.
-4. **Choose Acts** — one major act and one minor act.
-5. **Resolve Consequences** — Standing shifts, Feud shifts, status shifts, stores rise or fall.
+Peace is where rot first shows. A quiet season is never empty. It is the season where the barns tell the truth before the captains do.
 
-Run the Season Turn as a count of frictions, not as an empty administration phase. Who paid short? Which oath is beginning to sour? Which road is still open only because one tired captain has not yet decided he has had enough? A healthy faction survives the season because these questions remain small. A failing one turns each of them into next month's crisis.
+### Pressure Procedure
 
-### Campaign Week
+Use this when the faction is leaning harder than custom allows, but has not yet committed to open campaigning.
 
-Use this in **Muster** and **Campaign**, when movement, fodder, convoy timing, and the temper of armed men matter more than speeches in the hall.
+1. **Recover** — if this is the start of a new **Season Turn**, apply passive pillar recovery from **Recovery** above.
+2. **Control the Community** — roll **Mandate + Decree** or **Reach + Watch**.
+    - On success, one pressured settlement, tributary, or captain stays compliant.
+    - On failure, 1 Standing is lost in one place under pressure, or the relevant Feud advances by 1.
+3. **Development Under Strain** — roll **Hearth + Works**.
+    - On success, fortify one route, patch one weak point, prepare one stockade, or repair one damaged holding before the next blow lands.
+    - On failure, the work is rushed, undercut, or sabotaged. One holding stays exposed, or **Hearth** takes 1 damage if the ruler forces the matter through.
+4. **Stockpile and Extraction** — roll **Hearth + Provision** or **Reach + Traffic**.
+    - On success, the faction may raise **Treasury** or **Stores** one step if real seizure, collection, or convoy traffic supports it.
+    - On failure, goods vanish into hiding, a route closes, or one supplying place grows cold and obstructive.
+5. **Acts** — take **one major act** and **one minor act**.
+6. **Fallout** — apply Feud, Standing, and status changes immediately. Pressure that is not paid for on the sheet is lying.
 
-Resolve each active faction in this order.
+Pressure is unstable rule. It can succeed for a long time. It just stops feeling lawful while it does so.
 
-1. **Pay and Feed** — decide whether troops, mercenaries, and roads are actually sustained. A host that remains in the field for the week usually spends **Stores** down one step, and a host leaning on bought transport or hired men often spends **Treasury** as well unless new plunder, tribute, or convoys replace the loss.
-2. **Move or Concentrate** — march, redeploy, escort stores, call reserve, cut roads.
-3. **Take One Campaign Act** — raid, invest, reinforce, negotiate surrender, cut supply.
-4. **Check Burden** — apply extraction, hunger, disease, or local resentment.
-5. **Escalate or Hand Off** — if a real battle begins, go to **BATTLES & SIEGES**.
+### Muster Procedure
 
-Campaign Week is where a faction learns whether its glory can survive arithmetic. Men must be fed before they can be brave. Horses founder before banners do. A host can look fearsome at dawn and begin dissolving by dusk because the wagons failed, the ferrymen took bribes, or the villages ahead had already hidden their barley in pits under dung and brush.
+Use this when levy is being called, carts gathered, roads watched, and the question is whether the faction can become a host before courage and supplies run thin.
 
-### Major and Minor Acts
+1. **Control the Community** — roll **Mandate + Decree** or **Force + Muster**.
+    - On success, one supplying settlement avoids immediate Standing loss, and one contingent answers as expected.
+    - On failure, one levy contingent arrives late, thin, or angry, and one supplying place loses 1 Standing.
+2. **Development** — roll **Hearth + Works**.
+    - On success, prepare one camp, ditch line, bridge block, rally yard, or field magazine. The result may grant **asset rating 1** to the next relevant **Muster**, **Invest**, or defensive act tied to it.
+    - On failure, the work is half-done, badly sited, or too slow. The next **Logistics** check takes +1 difficulty unless the faction accepts **Hearth** damage.
+3. **Logistics** — roll **Reach + Relay** or **Hearth + Provision**.
+    - On success, one line of march, reserve movement, or escort route holds together, and the first related movement or concentration problem this week is ignored.
+    - On failure, **Stores** step down one level, or one contingent arrives split or late.
+4. **Production** — roll **Hearth + Yield** or **Hearth + Provision**.
+    - On success, food, draft animals, and basic war material hold together well enough that the first ordinary Stores strain from readiness this week is ignored.
+    - On failure, **Stores** step down, or **Treasury** does if the shortfall is bought in haste.
+5. **Acts** — take **one campaign act**.
+6. **Burden** — apply the first real pull on settlements, ferries, mills, and labor.
 
-A faction normally takes one **major act** and one **minor act** in each **Season Turn**, and one **campaign act** in each **Campaign Week**. These limits matter because even a powerful ruler can only lean in so many directions at once before some other obligation is left to sour.
+Muster is where a realm learns whether it has soldiers or only names on a tally stick.
+
+### Campaign Procedure
+
+Use this when armies are already moving, a place is under investment, or the countryside is feeding war by the week.
+
+1. **Control the Rear** — roll **Mandate + Decree** or **Force + Discipline**.
+    - On success, one ruled, occupied, or tributary place behind the line stays compliant.
+    - On failure, choose one: refusal of dues, sabotage, open flight, or 1 Standing lost in the relevant place.
+2. **Logistics** — roll **Reach + Relay** or **Hearth + Provision**.
+    - On success, one convoy, retreat line, reinforcement, or relief route works as intended.
+    - On failure, **Stores** step down, the line is cut, or the next campaign act takes +1 difficulty.
+3. **Production and Requisition** — roll **Hearth + Yield** or **Force + Assault**.
+    - On success, the host stays fed without worsening burden beyond the current level in one supplying settlement.
+    - On failure, burden worsens by one step in one settlement, or **Treasury** or **Stores** steps down.
+4. **Relief and Waste** — roll **Hearth + Relief** when plague, marsh, winter, siege filth, or refugees matter.
+    - On success, sickness, burial failure, and camp rot do not spread this week.
+    - On failure, damage **Hearth** or **Force**, whichever the neglect clearly harms most.
+5. **Acts** — take **one campaign act**.
+6. **Handoff** — if battle begins, go to **BATTLES & SIEGES**. If a place falls, run the relevant **Occupation** check before the week closes.
+
+Campaign is arithmetic with corpses hanging from it. If the lines fail, the banners lie.
+
+### Acts and Player-Facing Play
+
+In **Peace** and **Pressure**, a faction normally takes **one major act** and **one minor act**. In **Muster** and **Campaign**, it normally takes **one campaign act**. These limits matter because even a powerful ruler can only lean in so many directions at once before some other obligation is left to sour.
 
 Minor acts are the small things that support rule: send gifts, dispatch riders, hear petitioners, shift a small garrison, issue safe-conduct, inspect a bridge, gather quiet dirt. Major acts change the political map: call levy, press claim, hire a band, grant protection, impose tribute, take hostages, occupy a place, settle or break a feud. If a faction clearly lacks the reach to do two things at once, do not let the turn economy lie for it.
 
@@ -890,7 +990,7 @@ On success, the claim becomes politically real. Another faction must now answer 
 
 A lesser power binds upward. Roll with **Mandate + Accord**.
 
-On success, the lesser power becomes **Vassal** or **Ally** as negotiated. Hostages, marriage, or witnessed oaths can add one asset die. On failure, the negotiation sours, and Feud may advance if either side pushed too hard. Fealty is easiest to win from the afraid, the isolated, or the recently saved. It is hardest to win from a power that still believes it has another road open. If you want the oath to last, say what was promised upward and what was promised back down.
+On success, the lesser power becomes **Vassal** or **Ally** as negotiated. Hostages, marriage, or witnessed oaths usually provide **asset rating 1**, or raise an existing relevant asset by 1 to a maximum of **5**. On failure, the negotiation sours, and Feud may advance if either side pushed too hard. Fealty is easiest to win from the afraid, the isolated, or the recently saved. It is hardest to win from a power that still believes it has another road open. If you want the oath to last, say what was promised upward and what was promised back down.
 
 ### Give Safe-Conduct
 
@@ -948,7 +1048,7 @@ On success, choose one:
 - gain a real fact
 - worsen enemy Standing at one place by 1
 - force an enemy act to take +1 difficulty next turn
-- steal or corrupt one asset die before it is used
+- reduce one enemy asset's rating by 1 before it is used
 
 On failure, traces are found. The target may advance Feud without needing open proof.
 
