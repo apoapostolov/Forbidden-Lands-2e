@@ -131,6 +131,8 @@ Base dice come from the troop's size. The threshold to gain one base die depends
 
 **Cost** is daily supply — food, water, fodder. It doubles if soldiers also receive wages. Most armies in the Ravenlands do not pay coin during a campaign. They pay in plunder, or in the promise of plunder.
 
+The GM may still note the troop's exact muster in soldiers or beasts. Battle does not count those bodies one by one. It counts full fighting groups. One base die normally stands for twenty infantry or skirmishers, five cavalry, or one monster. In siege defense, infantry and skirmishers use the tighter wall count of ten per base die instead. A troop keeps its current base dice as long as enough soldiers remain to fill those groups. When its remaining strength falls below the next full group, it loses one base die. Men removed this way may be dead, maimed, scattered, or too shaken to keep their place in the line. The rule tracks fighting strength, not a burial tally.
+
 #### Advantage Dice
 
 Advantage dice represent the troop's edge in the clash — better training, stronger position, or some other battlefield advantage. Roll them with the troop. Their successes cancel enemy advantage successes first. Any successes left after that become the troop's edge in the clash and are spent under **Pressing the Advantage** below. Advantage dice can never exceed the troop's base dice. Each qualifying characteristic below grants +1 advantage die, up to a maximum of +5.
@@ -387,6 +389,8 @@ After cancelling opposing advantage successes, spend any successes left as follo
 Once both sides have rolled and spent their edge, total the damage coming into each troop.
 
 Count 1 damage for each base success, then add any damage created by **Pressing the Advantage**. After that, roll protection dice. Each protection success cancels 1 damage. Each point of damage left removes 1 base die and 1 morale point.
+
+When a base die is removed, the troop loses one full fighting group: usually twenty infantry or skirmishers, five cavalry, or one monster, or ten defenders on a wall. If the GM keeps an exact muster, reduce it by that amount.
 
 If neither side attacked first or second, both sides take their remaining damage from that exchange even if one troop is destroyed.
 
