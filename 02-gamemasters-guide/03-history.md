@@ -76,7 +76,7 @@ The Aslene soon mixed their blood with that of the Ailanders. Settlers made thei
 
 ### 690-695 AS — The Gold Mines at Glethra
 
-Aslene mountain men have searched for gold ever since they came to Ravenland. In 690 AS, they found rich veins at Glethra in the Thynde Range and they immediately started mining them. The dwarves protested, since Glethra was considered part of the area forbidden to humankind. A force of stalwart dwarves from Stonegarden gathered and the humans in turn built a fortified wall. Smaller skirmishes were fought several times, without deciding the ownership of Glethra. After the dwarves blocked all trade with Aslene through Shadowgate Pass, a new deal was struck in which the Aslene kept the mines in return for submitting to the Law of the Lands. Trade through Shadowgate Pass was heavily regulated by the dwarves, who also exacted massive tariffs on all goods that passed through the Pass. The humans could not use all the gold that the mines yielded, and therefore there are plenty of gold treasures hidden in Ravenland. The gold has little value to the people in the villages and is con- sidered unlucky by them. Today, no one knows where the Glethra mines were.
+Aslene mountain men have searched for gold ever since they came to Ravenland. In 690 AS, they found rich veins at Glethra in the Thynde Range and they immediately started mining them. The dwarves protested, since Glethra was considered part of the area forbidden to humankind. A force of stalwart dwarves from Stonegarden gathered and the humans in turn built a fortified wall. Smaller skirmishes were fought several times, without deciding the ownership of Glethra. After the dwarves blocked all trade with Aslene through Shadowgate Pass, a new deal was struck in which the Aslene kept the mines in return for submitting to the Law of the Lands. Trade through Shadowgate Pass was heavily regulated by the dwarves, who also exacted massive tariffs on all goods that passed through the Pass. The humans could not use all the gold that the mines yielded, and therefore there are plenty of gold treasures hidden in Ravenland. The gold has little value to the people in the villages and is considered unlucky by them. Today, no one knows where the Glethra mines were.
 
 ### 800 AS — The Iron League Invades
 
@@ -108,29 +108,21 @@ The dwarves had already mobilized and marched to meet the humans. War between th
 
 After a few skirmishes, the dwarves were victorious, and a violent celebration began. Teramalda had been taken prisoner, but her armor could not be opened. The hot-headed dwarven lord Garmar Four-Beard, drunk on power and alcohol, had the priestess thrown on a bed of hot coals during the victory banquet at Lumra, to bake her like a shellfish. He swore to eat her heart himself after it had been tenderized into submission. Perhaps the god Rust chose to heed Teramalda’s prayers for martyrdom, because the armor with her scorched body suddenly tore free from its shackles, rose from the fiery coals, and killed Garmar and his bodyguards. Since that day, this creature, a rusty suit of armor, roams through Ravenland hunting for enemies to slay. When the wind is right, you may be able to smell Teramalda’s seared flesh, and then it’s time to run. Some say the god Rust himself has manifested inside the armor.
 
-### 825 AS
+### The Man Flood
 
-Church came slinking back after their failed invasion of Ravenland, Alvagard’s interest was roused. Alderland had been forced to cede a mining district to Aslene as payment for a holy city that had been razed to the ground. The tales of Lumra’s iron mines and the gold mines of Glethra beyond the mountain drew the king like a bee to honey.
+King Algamar fell in battle against Aslene in Alderland. His son, Alvagard, sat on the throne after a shameful peace had been signed with Aslene. Once the members of the Rust Church came slinking back after their failed invasion of Ravenland, Alvagard’s interest was roused. Alderland had been forced to cede a mining district to Aslene as payment for a holy city that had been razed to the ground. The tales of Lumra’s iron mines and the gold mines of Glethra beyond the mountain drew the king like a bee to honey.
+
+### 825 AS
 
 This time, the nobility was eager to fill their empty coffers with plunder, and happily sent troops. In 825 AS, Alvagard led a wellequipped army of seven thousand men and an equal number of support troops across the mountains. The sorcerers’ guild sent a group of war sorcerers to support the army, among them the young and excessively power hungry Zygofer the Whisperer, who claimed he could hear voices from beyond the world and the night. Since these Frailer sorcerers were descended from the elves of Ravenland, they believed they were entitled to the land beyond the mountains. They assumed the betrayal of the Raven Sisters had robbed them of their heritage.
 
 The army was met with little resistance, and what little there was, was destroyed swiftly. In 825 AS, Alvagard’s army secured the Harga Plains beyond the pass in three days, and conquered the dwarves fortress of Vond. They made camp at Teramalda’s abandoned campsite at Alderstone, where the king’s banner, stitched with the images of crossed swords and branches of alder wood, was raised.
 
-### The Man Flood
-
-King Algamar fell in battle against Aslene in Alderland. His son, Alvagard, sat on the throne after a shameful peace had been signed with Aslene. Once the members of the Rust
-
 ### 826-833 AS — The Second Alder War
 
-The new human incursion with more soldiers once again mobilized the dwarves of Wailer’s
+The new human incursion with more soldiers once again mobilized the dwarves of Wailer’s Hold and Lumra. Messages were sent north, requesting aid from other dwarven holds. Soon, an army was sent to Harga, where newly arrived farmers from Alderland had already started clearing the abandoned land of the Ailanders for farming. The wars that followed were as merciless as they were futile.
 
-Hold and Lumra. Messages were sent north, requesting aid from other dwarven holds. Soon, an army was sent to Harga, where newly arrived farmers from Alderland had already started clearing the abandoned land of the Ailanders for farming. The wars that followed were as merciless as they were futile.
-
-ly, they armed their servants, the orcs, and let them go to war. The chosen orcs were the biggest, meanest and strongest, and they were given their freedom in exchange for going to Since the dwarves were few in number and only moved across open ground reluctant-
-
-war, which made them fight in a vicious rage. The dwarves also sought to enlist the powerful ogres, but these half-dwarves simply laughed and stayed in Feulenmark. The human king, Alvagard, was soon forced to call for more troops from Alderland, to be able to hold Harga. The humans soon came to view the orcs as their main adversaries, since there were more orcs than other enemies and they were far more dangerous than others.
-
-to assassinate their counterparts, thrown in prison and interrogated and tortured to give up information about their country’s defenses. Most of them were then executed. Zygofer secured mercy for Martea and she was so blinded by love that she believed the accusations were true and decided to stay with her love in Alderstone. They married and honeymooned together in the hidden valley of the dead, where Martea taught her husband the art of necromancy – to speak with the dead. In 834 AS Martea gave birth to a son, who was named Zertorme – “the chosen one.”
+Since the dwarves were few in number and only moved across open ground reluctantly, they armed their servants, the orcs, and let them go to war. The chosen orcs were the biggest, meanest and strongest, and they were given their freedom in exchange for going to war, which made them fight in a vicious rage. The dwarves also sought to enlist the powerful ogres, but these half-dwarves simply laughed and stayed in Feulenmark. The human king, Alvagard, was soon forced to call for more troops from Alderland, to be able to hold Harga. The humans soon came to view the orcs as their main adversaries, since there were more orcs than other enemies and they were far more dangerous than others.
 
 ### 833 AS — Peace and Betrayal
 
@@ -138,7 +130,7 @@ The elves of Ravenland had stayed out of the war, but during an armistice in 833
 
 Among the elven delegates was a woman called Martea, who was wise in the ways of magic. She could communicate with animals as well as with the dead. When the Frailers from Alderland met the spellbinders of Ravenland in council, Zygofer and Martea were struck by a sudden love for each other. In all other respects the Elvenspring regarded their distant relatives with distaste, since they had defiled the magic of the world and were driven by the greed for power rather than duty towards gods, land and life.
 
-While Zygofer and Martea were busy with each other, Alvagard’s diplomats hid weapons and talismans in the luggage of their guests. The delegation was then accused of conspiracy
+While Zygofer and Martea were busy with each other, Alvagard’s diplomats hid weapons and talismans in the luggage of their guests. The delegation was then accused of conspiracy to assassinate their counterparts, thrown in prison and interrogated and tortured to give up information about their country’s defenses. Most of them were then executed. Zygofer secured mercy for Martea and she was so blinded by love that she believed the accusations were true and decided to stay with her love in Alderstone. They married and honeymooned together in the hidden valley of the dead, where Martea taught her husband the art of necromancy – to speak with the dead. In 834 AS Martea gave birth to a son, who was named Zertorme – “the chosen one.”
 
 ### 833-845 AS — The Third Alder War
 
@@ -186,21 +178,17 @@ Zygofer’s request for more troops and weapons to cleanse Ravenland of elves an
 
 Dwarves and elves pulled back in horror from these ungodly battles and left their servants, the orcs, to defend the land against the humans and their horrible creations. Zygofer’s troops conquered and devastated the elven city of Varassa in Arina Forest in a terrifying bloodbath.
 
-### 870 AS
-
-Ravenland since he, through his Frailer blood, was descended from the elves. He demanded the Alderlanders stay on their side of the mountains unless they came to trade peacefully. He did not even bother to mention the Congregation of Serpents.
-
 ### Algarod Is Crowned King
 
 King Alvagard, who had led the Man Flood thirty-six years earlier, finally passed away of old age, and his grandson, Algarod, ascended to the throne. During the previous twenty years, Alderland had been forced to go to war against the riders of Aslene to ensure that Zygofer held undisputed power in Ravenland. Now Algarod made peace with Aslene, since both sides were tired of war.
 
+### 870 AS — The Emissary of the Psychopomp
+
+In 869 AS, the Psychopomp, the high priest of the Congregation of Serpents in Alderland, sent an emissary north to investigate the situation in Ravenland after refugees had given worrying testimonies of Zygofer’s ungodly rule. The emissary returned the next year, deeply shocked by what was going on. After the Psychopomp had received his report, he convinced king Algarod to send a message to Zygofer to inform him that he had been removed as governor and should immediately appear before the king and the church with his remaining daughter Therania. The messenger returned with a living pig head attached to his shoulders. Zygofer informed the king through the sniveling snout of the messenger that he was the rightful ruler of Ravenland since he, through his Frailer blood, was descended from the elves. He demanded the Alderlanders stay on their side of the mountains unless they came to trade peacefully. He did not even bother to mention the Congregation of Serpents.
+
 ### 872 AS — Fourth Alder Wars
 
 Two years later, Algarod gathered a mighty host with the blessing of the Psychopomp and led it across the mountains. The goal was to capture Zygofer, Merigall and Therania, and to destroy the unholy forces of the rebels. The war raged for two years. Fire and magic inimical to all life devastated the Harga Plains for the foreseeable future.
-
-### 870 AS — The Emissary of the Psychopomp
-
-In 869 AS, the Psychopomp, the high priest of the Congregation of Serpents in Alderland, sent an emissary north to investigate the situation in Ravenland after refugees had given worrying testimonies of Zygofer’s ungodly rule. The emissary returned the next year, deeply shocked by what was going on. After the Psychopomp had received his report, he convinced king Algarod to send a message to Zygofer to inform him that he had been removed as governor and should immediately appear before the king and the church with his remaining daughter Therania. The messenger returned with a living pig head attached to his shoulders. Zygofer informed the king through the sniveling snout of the messenger that he was the rightful ruler of
 
 ### 874 AS — The Demon Flood
 
@@ -220,9 +208,7 @@ Forced to fight desperate battles with the demons in Aslene, the Galdane rider c
 
 With the demonic horde occupied in the west,
 
-Zygo- fer and Merigall sealed the nexus and stran-
-
-gled the flow of ether through the passage, a flow that kept the demons alive. The beasts weakened and many perished, but Aslene was already a ruined wasteland and has since this time been called the Ashen Vale. When the demon lord Krasylla realized the danger it was too late; he returned with his remaining servants to try to seize the nexus, but was faced with the defenders’ amassed troops and sorcery. The road was closed for all intents and purposes and a contract was drawn up in blood and phlegm. Krasylla was to remain in Ravenland, allied with the new rulers of the land, to possess and watch the old dwarven stronghold of Vond. In return, Krasylla would receive a number of human sacrifices to enslave or feed upon every year.
+Zygofer and Merigall sealed the nexus and strangled the flow of ether through the passage, a flow that kept the demons alive. The beasts weakened and many perished, but Aslene was already a ruined wasteland and has since this time been called the Ashen Vale. When the demon lord Krasylla realized the danger it was too late; he returned with his remaining servants to try to seize the nexus, but was faced with the defenders’ amassed troops and sorcery. The road was closed for all intents and purposes and a contract was drawn up in blood and phlegm. Krasylla was to remain in Ravenland, allied with the new rulers of the land, to possess and watch the old dwarven stronghold of Vond. In return, Krasylla would receive a number of human sacrifices to enslave or feed upon every year.
 
 Therania had grown tired of the cold embrace of the dead king Algarod and suggested that the reanimated corpse should be sent to command the fortress at Weatherstone, and so he was.
 
@@ -268,9 +254,7 @@ The Rust Brothers soon learned that the Mist was not of uniform thickness. It co
 
 The beautiful demon Merigall feeds off feelings and spectacle, and soon tired of the wet blanket the Blood Mist left over the Forbidden Lands. Merigall soon learned that the Mist consisted of demons that were usually gaseous but that solidified and took shape when they intended to eat their prey. Merigall slowly learned how to speak with the creatures and learned they were called bloodlings and that they read emotions. In their own world, the bloodlings attack and remove sick creatures or those who are unhappy in life. In the Forbidden Lands, the bloodlings interpreted humans’ fear and unease due to being in a foreign place as a deathwish. Humans who were happy in their homes were left alone. Merigall understood that the Rust Brothers could walk in the Mist because they believed it was the breath of the goddess Heme, and so believed it was their own domain.
 
-Once Merigall won the trust of the bloodlings, the bard began praising their homeworld with song and stories, full of sympathy for the loss of their homeland. With beautiful words infused with magic, the demon managed to plant a seed of homesickness in the bloodlings, so they began devouring each other. Such was their kill-
-
-er instinct that they could not refrain from cannibalism. The mist slowly disappeared over the next few years as Merigall’s songs spread through the land. As the mist disappeared, so did the influence of the Rust Brothers in the villages. Today, there are only a few stubborn bloodlings left in the Forbidden Lands, with no intention of ever going home, as well as a few fearful gas demons hiding from their stronger brethren.
+Once Merigall won the trust of the bloodlings, the bard began praising their homeworld with song and stories, full of sympathy for the loss of their homeland. With beautiful words infused with magic, the demon managed to plant a seed of homesickness in the bloodlings, so they began devouring each other. Such was their killer instinct that they could not refrain from cannibalism. The mist slowly disappeared over the next few years as Merigall’s songs spread through the land. As the mist disappeared, so did the influence of the Rust Brothers in the villages. Today, there are only a few stubborn bloodlings left in the Forbidden Lands, with no intention of ever going home, as well as a few fearful gas demons hiding from their stronger brethren.
 
 ### 1165 AS — Now
 

@@ -20,6 +20,8 @@ This book is for the Gamemaster only. It contains the tools that the GM needs to
 
 ### Create Your Own Adventures
 
+_Forbidden Lands_ contains a lot of pre-made material for you to play, but the game is also designed for you to be able to create and incorporate your own material into the campaign with ease. Feel free to create your own random encounters and adventure sites, and feel free to share them with other groups of players on the Free League forum!
+
 ### Principles of the Game
 
 The purpose of the seven principles in _Forbidden Lands_ is to help you create the right feeling in the game and to guide you when you are unsure on how to handle situations that come up.
@@ -32,9 +34,7 @@ On the adventurers’ journeys, it is your task to place exciting challenges in 
 
 ### 2. the Land Is Full of Legends
 
-The Forbidden Lands may be unfamiliar ground to the adventurers, who have lived isolated in villages and other settlements, but it is _Forbidden Lands_ contains a lot of pre-made material for you to play, but the game is also designed for you to be able to create and incorporate your own material into the campaign with ease. Feel free to create your own random encounters and adventure sites, and feel free to share them with other groups of players on the Free League forum!
-
-a land with a long and rich history. Through the centuries, the land has experienced conquests, wars, great feats and nefarious deeds. There are layers of history that the adventurers can discover over the course of the game (see Chapter 2).
+The Forbidden Lands may be unfamiliar ground to the adventurers, who have lived isolated in villages and other settlements, but it is a land with a long and rich history. Through the centuries, the land has experienced conquests, wars, great feats and nefarious deeds. There are layers of history that the adventurers can discover over the course of the game (see Chapter 2).
 
 To convey the history and myths of the Forbidden Lands to the players in-game, you use _legends_ . Every monster, every artifact, every adventure site and every character of importance in campaign modules like _Raven’s Purge_ have their own legend. All of these are available to download as player material that you can present to the players when they get to hear or read the legends in their travels. In this way, the players build their own knowledge of the Forbidden Lands and its denizens.
 
