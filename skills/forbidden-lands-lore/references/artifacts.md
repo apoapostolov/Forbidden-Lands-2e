@@ -400,7 +400,13 @@ _Full provenance and powers contested. See `campaigns/ravens_purge.md`._
 
 **Mechanical hint:** A crown of bright dwarven metal with six
 ruby sockets; three stones set and three empty in the version
-most commonly described.
+most commonly described. The metal is ancient dwarf gold worked
+with a hardening alloy that gives it the strength of steel;
+the design is worked as winding greenery, with the six ruby
+sockets arranged as fruits: five in a horizontal row, one
+elevated above the center. Only a skilled jeweler can safely
+set or remove the stones without damaging socket or ruby;
+attempts by others invariably damage one or both.
 
 **Location:** Unknown. Current location is the central question
 of the Raven's Purge campaign.
@@ -427,7 +433,12 @@ _Full provenance and powers contested. See `campaigns/ravens_purge.md`._
 
 **Mechanical hint:** A longsword with a copper-twined grip and
 a gold crossguard bearing a single large emerald. Old accounts
-note the emerald glows faintly green in the dark.
+note the emerald glows faintly green in the dark. The blade is
+silver-white, the alloy unknown to any living smith; it holds
+an edge that has never required sharpening. Those who have
+wielded it describe it as moving almost of its own accord —
+as though the sword has a preferred angle of attack and angles
+toward it.
 
 **Location:** Lost. Last credible rumor places it in an abandoned
 dwarven mine complex in the western ranges.
@@ -452,9 +463,15 @@ the Demon Flood is historically accepted.
 _Full provenance and powers contested. See `campaigns/ravens_purge.md`._
 
 **Mechanical hint:** A shepherd's crook of dark alderwood, the
-wood still supple despite centuries. A ruby is mounted at the
-crown. Accounts note it hums faintly in the hands of those
-with a blood claim to Alderland's old line.
+wood still supple despite centuries. The crown is carved in
+the shape of a temple roof — the curve carved rather than bent,
+with elder pendants hanging from carved cross-pegs, and the
+ruby set as the roof's eye at the apex. An iron spiral at the
+base allows the scepter to stand upright without support. In
+Algarian tradition, the shape expresses 'the king's strength
+and vigilance in his role as the people's protector.' Accounts
+note it hums faintly in the hands of those with a blood claim
+to Alderland's old line.
 
 **Location:** Unknown. Lost in the Ravenlands during the Demon
 Flood of 874 AS.

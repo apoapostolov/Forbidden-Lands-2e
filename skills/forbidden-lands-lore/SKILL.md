@@ -162,6 +162,18 @@ asking.
 - `skills/forbidden-lands-design/SKILL.md` — mechanics and rules
   integration.
 
+## Playbooks
+
+Operational workflows for expanding the skill live in `playbooks/`.
+
+- `playbooks/integrate-region-source.md`
+  Step-by-step protocol for absorbing a new sourcebook, regional
+  supplement, or campaign module into the reference files. Covers
+  the three-pass integration workflow (structural extraction, lore
+  depth audit, small-detail texture pass), spoiler triage, campaign
+  file creation, wiring, cross-reference audit, and multi-session
+  handoff. Use this whenever a new source is being added.
+
 ## Hard Rules
 
 1. **Canonical locations are not movable.** Weatherstone, Harga,

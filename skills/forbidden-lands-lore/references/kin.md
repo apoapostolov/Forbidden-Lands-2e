@@ -122,6 +122,8 @@ items: clay figurines and Maha-script clay tablets.
 The most militant order is the **Order of Maidens** — see
 `gods.md`.
 
+Elvenspring druids manage local animal populations with the same precision they bring to everything else. When culling a fox litter, they attract the cubs using low-level nature magic — a scent, a sound — and snap the necks of the selected ones by hand. Witnesses who observe this for the first time usually read it as cruelty and say so. The druids do not explain themselves to people who misread them.
+
 ## Misgrown
 
 Humans seduced and twisted by **Zytera** into demonic forms.
@@ -381,6 +383,8 @@ trust. As of 1165 AS, a faction among the dwelvers is secretly
 debating whether to release the imprisoned dragon **Scarne**, whose
 net prison is weakening after 1500 years.
 
+To a surface-dweller who encounters one in the depths, a dwelver appears as a chalky white halfling of considerable and entirely indeterminate age — the face suggests anywhere from forty to four hundred years, with nothing to distinguish. The skin is cold and clammy and does not tolerate sunlight or unfiltered surface air. Below two hundred meters they speak continuously — running commentary on everything in view, opinions on everything in range, observations on everyone present. Above ground they produce no sounds at all; their anatomy does not support it. They regard the surface dwarves with contemptuous familiarity, like a grandparent who has been proven right about everything and expects to be acknowledged for it. Their sense of humor is eccentric to the degree of being untranslatable even in fluent conversation; what they find funny has no identifiable punchline.
+
 ## Ogres
 
 Offspring of dwarves and humans — descendants of the human
@@ -476,7 +480,13 @@ Recently gave wife **Soria** the elven ruby **Iridne**. Court
 includes humans and dwarves who play along; the trickster
 **Hranga Gala** advises. The clan secretly negotiates with
 Stonegarden Canides.
+Hranga Gala invented every piece of Urhur court ceremonial on the spot, telling Hroka that each new rule was ancient custom recovered from his research. He made them up as he pleased and changed them between sessions according to his mood. The fashion he imposed on the palace guards — hats and cloth details taken from human courts, nothing orcish about them — became permanent tradition before anyone thought to question the precedent. The Eye of the Rose court customs are consequently peculiar in ways that visiting dignitaries cannot quite account for. They attribute it to orcs being orcs. It isn't that.
 
+Hroka holds court at night in the open courtyard, only the far raised end roofed — the throne end. He extracts marrowbone with his fingers at the start of every session, wipes his hands on whatever cloth is near, then hears civil cases, watches duels, expects human jesters. His ladies-in-waiting are trained Viraga assassins. Guards on night duty nap standing. Yellow-eyed Urhur warriors hum hunting tunes through the corridors at any hour.
+
+**Hroka's exploitable weaknesses:** uncontrollable temper when contradicted in front of witnesses; absolute susceptibility to flattery; inability to endure criticism before an audience. He receives most of his political ideas from his dreams — Soria guides those dreams through the Iridne ruby without his knowledge.
+
+Isir orcs and Drifters mock the Urhur as soft. The standard insult is **'leavened bread'** — something that rises and takes its shape from what others put into it. The companion rumor, which the Isir believe and use as evidence, is that Soria is a planted human agent who passed as orc and took Hroka's ear. The rumor is false.
 The name "Urhur" comes from "purple" (a word orcs cannot
 pronounce). Symbol: purple hand. Face paint from **purple shells**
 of the **Gargan Marshes**, traded from Saurians.
@@ -542,7 +552,7 @@ settlements as spies, kidnappers of useful craftsmen, and
 collectors of knowledge. The **three Somaya sisters** in
 **Grindbone** are Viraga agents disguised as human healer-witches;
 they abduct craftsmen and learned individuals for the Urhur clan's
-workshop-slavery program at the Eye of the Rose. Viraga with
+workshop-slavery program at the Eye of the Rose. Their method: they approach the target through healer consultation, diagnose an invented chronic ailment, insist the only remedy requires harvesting a rare herb available only under a full moon in a specific forest clearing. When the target enters the forest at night — accompanied by one of the sisters for protection — they are drugged, then carried to an orc patrol waiting at the forest's edge. By morning the craftsman is a day's march toward the Eye of the Rose. The sisters work under the protection of a Viraga enforcer named **Charna**. Viraga with
 human coloring are their most useful operatives. Pronounced victim
 mentality; will die for the kin. Males call them "iraga" because
 they cannot pronounce the V; the Viraga emphasize the V.
@@ -590,6 +600,8 @@ multiple harmonies over complicated drumming.
 Despite shared interest in nature, elves and druids hate them as
 half-demons. Aslene warriors who wear wolf pelts hate them too.
 Outcast wolfkin work as trackers and mercenaries.
+
+Cubs are trained to hunt by the breaking of a single hind leg of a live rabbit — one leg, not both, so the prey limps and panics but can still attempt to escape. The young wolfkin practice on the wounded animal. A clean kill is expected. Failure means the animal is taken away and the cub goes hungry.
 
 **Typical Wolfkin:**
 
@@ -675,6 +687,8 @@ of the dark side of their kin.** Hidden burrows shelter old,
 disfigured, and misfits. Drug use is rampant and well-hidden:
 tobacco, alcohol, narcotic plants. Prefer to meet in taverns
 rather than at home where flaws may be revealed.
+
+A halfling household at morning: stewed butter with nut bread; the bowl passed from hand to hand until it reaches the in-laws, greasy and scraped clean. A drunk grandfather who has to be extracted from somewhere embarrassing before noon. Any child in the household who isn't quite right — too dark, too quiet, someone else's — kept in a cubbyhole under the floor during meals and during any visit from neighbors. The idyllic facade requires constant maintenance; the strain shows most in the first hour of the morning.
 
 Trade with all civilized kin but trust none. Some halflings,
 restless, leave to become adventurers, thieves, assassins —

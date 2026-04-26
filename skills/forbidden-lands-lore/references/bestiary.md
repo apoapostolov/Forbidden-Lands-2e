@@ -556,6 +556,33 @@ Can teach the **skeleton-softening** technique to above-ground
 Stone Singers who earn their trust. Possibly able to control
 iron dragons; this is uncertain even to dwarven scholars.
 
+On encounter in the depths: cold, clammy skin; apparent age
+indeterminate between forty and four hundred years. Below two
+hundred meters they speak continuously — running commentary on
+everything present, every opinion aired, every observation made.
+Above ground they produce no sounds at all; the anatomy will not
+allow it. They regard the surface dwarves with contemptuous
+familiarity, like a grandparent who has been proved right about
+everything and expects acknowledgment. Their sense of humor is
+ecentric to the degree of being untranslatable. Can fashion tin
+rope ladders: treated with diffundants, the ladder hardens to
+steel strength for half an hour. The treatment is repeatable.
+
+## Erosia
+
+A demonic entity assembled from cobbled human parts fused with
+mog from Churmog. First impression: a flesh-colored, shapeless
+toad the size of a horse. On close inspection the individual
+components retain their own beauty; the whole does not reflect
+the parts. **If one can look past the big picture, it is possible
+to find a certain beauty and grace in the individual parts.**
+
+Personality adjusts to match the visitor. Always friendly, always
+inviting. Will not defend itself if attacked — responds instead
+by citing poetry about the beautiful mortality of life. Masters
+several musical instruments and other arts. Merigall uses Erosia
+as a host and receptionist in the pavilion.
+
 ## Marga
 
 Zygofer and his wife Martea's demonified daughter. She was a
@@ -570,15 +597,41 @@ permanently. She has the personality of a child who learned
 the world will give her whatever she devours, and has been
 devouring for a long time.
 
+The Saurians trapped in the mines worship her as the **Goddess
+of the Mines**; she treats them as pets and sometimes gives them
+prey she has caught to feed on. She still plays. Her idea of
+an introduction is 'You're it!' Her lullabies: *Sister, brother,
+how we wax. Mother, father sharpens the axe.* Above all other
+things, she wants a playmate her own age. This is a worse
+problem than it sounds.
+
+## Martea
+
+Zygofer's wife. She followed his path too closely and was
+absorbed by an Abyss Worm she could not control. Now fused with
+it — her disfigured face emerges from a slit at the front of
+the worm's body. Additional slits along the body hold the faces
+of creatures she has 'saved' — all of them terrified, all still
+screaming for help.
+
+Martea carries a lock of Zygofer's hair against her face and
+addresses it as her husband. Between encounters involving blood,
+she is rational and maternal. When she smells blood, the worm's
+nature takes over and she attacks without exception. She
+considers herself a good mother. She is in the Stoneloom Mines.
+
 ## Ore-Weller
 
 Mobile mineral fusiform living in the deep structures below
 Stonegarden. Devours raw materials and reshapes itself from
-them. Not a living being in any organic sense; immune to
-ordinary weapons \u2014 every hit with a metallic weapon degrades
-the weapon by 1. Dissolves metals in humanoid tissue with acid
-secretions. Distracted reliably by gold coins: will stop to
-absorb them, ignoring other targets.
+them. Not a living being in any organic sense; no organs of
+any kind. Immune to ordinary weapons — every hit with a
+metallic weapon degrades the weapon by 1. Can only be destroyed
+by complete dispersal: sufficient explosive force to scatter
+the mass prevents reformation; isolated fragments do not
+reconstitute. Dissolves metals in humanoid tissue with acid
+secretions. Distracted reliably by gold coins — its preferred
+material; will stop to absorb them, ignoring other targets.
 
 ## Pyrotaur
 
@@ -587,7 +640,22 @@ Produced by Zertorme through a program using fire essences
 from the demon **Brinhelda**. Semi-intelligent; completely
 loyal to Zertorme. Released onto the plains near Amber's Peak
 alongside calydones.
+## Scarne
 
+A female dragon, imprisoned in the deep structures below
+Stonegarden for 1500 years in a net that is now weakening.
+The Crombe dwarves built the Dragon's Tooth fortress along the
+stone-clad ribs of her body before she was imprisoned, mistaking
+her for dead. She knows this.
+
+Completely devoid of humor. Interprets every joke and attempt
+at irony as a literal statement; has not developed the capacity
+to model otherwise. Remembers every perceived slight without
+exception, across centuries. The Crombe dwarves have accumulated
+a significant account. Post-release plans, finalized over 1500
+years: demolish Dragon's Tooth, drop Scarnesbane in the ocean
+far from any land, travel north of the Forbidden Lands to become
+matron dragon to her younger kin.
 ## Stone Titan
 
 Twelve-meter black obsidian giant. No higher intelligence. Four

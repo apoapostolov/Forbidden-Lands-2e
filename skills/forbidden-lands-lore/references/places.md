@@ -195,7 +195,19 @@ west.
   known to the Crombe dwarves and to the prisoner **Peyraman**.
   Kybos — a twenty-meter red granite cube — is the Iron Guard's
   arena; a challenge to fight there cannot be refused under
-  their code of honor.
+  their code of honor. A blood willow grows north of the assembly
+  hall; it weeps blood-red sap and its roots trap the living and
+  the dead. Corvids in its branches take bites from the prisoners.
+  Only Seneschal **Mordarga** can direct the roots. Krasylla's
+  tower has no conventional entrance — access is through a
+  rotating drum with a quicksilver time-lock, set for three to
+  five minutes per rotation. Merigall's pavilion holds two
+  preserved human specimens, posed and dressed; Merigall calls
+  them former lovers and speaks of them warmly to guests. A
+  floor ditch along the main chamber perimeter holds a living
+  mass of mog from Churmog; Merigall shapes it by touch. The
+  demon sleeps with a snare around its neck to keep the body in
+  place while the mind travels.
 - **Haggler's House** — The greatest temple of the goddess
   **Heme** in the Forbidden Lands. Annual harvest feasts
   mandatory for any village that wants its idols blessed for
@@ -208,7 +220,23 @@ west.
   Villages that cannot bring the required silver tribute must
   instead surrender their dead — and sometimes their living.
   A musician named **Ferelde** performs at these feasts; it
-  is Merigall in disguise.
+  is Merigall in disguise. In the days before the ceremony, crowds
+  camp outside the walls in tents packed unnecessarily close and
+  inexplicably silent — a flock afraid to attract predator
+  attention. Iron Guards sweep the camps for heretics. Entry
+  requires washing feet at the Washing Stairs and having signs
+  painted on the face; all visitors walk the inner yard barefoot
+  on deliberately sharp gravel — the thorns of existence, in Rust
+  Church doctrine. Priests and Iron Guards are exempt. At the
+  Blood Cauldron: six iron cow heads ring the arena floor, mouths
+  open, blood from the sacrifices poured in and piped down to the
+  Bloodlings in the catacombs. White-painted, shaven, claw-tipped
+  dancers called **Death-Shadows** stalk the chained sacrifices —
+  caressing, then drawing blood. In the House of Chains, priests
+  in ceremonial dance entwine with hanging chains and clatter in
+  rhythm; the most devout hang from hooks through their own flesh.
+  In the upper catacombs: the dead hang by hooks through their
+  Achilles' tendons, packed tightly from the ceiling, still moving.
 - **Falender** — burned 869 AS in the Demon Flood. The **Dreamer
   in Falender** lived and worked here. Now a ruin where wolfshadows
   and nightwargs are sometimes seen. Site of Hinrek's grave and
@@ -226,8 +254,16 @@ west.
 - **Stoneloom Mines** — a mine complex in the western ranges,
   abandoned after the Third Alder Wars. Something moved into the
   tunnels after the dwarves left. None who have entered in
-  recent memory have returned. Stench of corpses reported from
-  the entrance. The truth: **Marga** — Zygofer and his wife
+  recent memory have returned. The entrance gapes like a toothless
+  mouth — one gate panel missing, the other hanging askew. Stench
+  of corpses from the opening. Inside: consistently damp, a few
+  degrees above freezing except near Marga's recent paths, where
+  her residual heat lingers for hours. Below the first level, the
+  only light is fluorescent algae on the wet walls. Brass bells
+  hang throughout the tunnels — remnants of the old dwarven
+  signaling system; ringing one draws monsters. A chapel to Huge
+  survives near the middle levels, its ceiling thick with
+  glimmering salt crystals. The truth: **Marga** — Zygofer and his wife
   Martea's demonified daughter — moved in and consumed the
   dwarves who sheltered her. She is now a massive demonic
   flesh-mass filling the deepest chamber; only her girl-avatar
@@ -256,7 +292,12 @@ west.
 ### Eastern Ravenland
 
 - **Iron Lock** — the great wall built 878 AS by the Alderlanders
-  to seal the south. **The Silent** stand guard.
+  to seal the south. **The Silent** stand guard. The approach
+  from the south runs through a ravine between two mountain walls;
+  the slope below the wall is littered with old bone and abandoned
+  sandals. A single vulture works the thermals. The guards do not
+  call out, do not challenge, do not warn twice; they shoot from
+  the crenellations without sound and return to their posts.
 - **Stonegarden** — Canide dwarven hold on a sheer plateau, ruled
   by **King Karonax** and **Queen Sulma**. Scarne is imprisoned
   beneath. Site of a secret Canide-Urhur diplomatic channel.
@@ -268,7 +309,16 @@ west.
   1000m or more below the surface, home of the dwelvers, the
   imprisoned dragon Scarne, and sun caves filled with rolling
   fireballs. Dwarven clans are forbidden to enter these layers
-  on pain of being declared clanless.
+  on pain of being declared clanless. The public Stone Gardens
+  have a gem-studded ceiling laid in the pattern of the starry sky,
+  reflecting from thousands of brazier flames set into the walls.
+  Mineral beds contain crystals cut into flower shapes, each standing
+  on stems of tourmaline in greenery carved from dark green malachite.
+  Private clearings with stone benches are set back from the main
+  paths for personal encounters. White marble catacombs lie below
+  the promenades. The ancient gate from the catacombs to the deep
+  structures bears one inscription: **'Ye who pass through here,
+  pass away from the world.'**
 - **Eye of the Rose** — an ancient elven cliff-fortress above
   the ruins of an old elven city. Built originally by
   **Meromannian** dwarves as a gift to the elves. The elves
@@ -282,7 +332,14 @@ west.
   scratch, holds significant political influence; he changed
   his name so the orcs could pronounce it. Elven Redrunners
   have a concealed access route through the Chapel of the Gods
-  and five trapped rooms into the fortress library.
+  and five trapped rooms into the fortress library. The library
+  tower has been blackened with soot since at least the original
+  elven occupation — it burned once and was never cleaned. The court
+  of audience is an open courtyard with a roof only over the far
+  raised end, the throne end; Hroka holds court there at night.
+  The guards' dress — hats and cloth details derived from human
+  courts — was introduced by Hranga Gala as a joke that became
+  permanent court fashion.
 - **Pelagia** — a druidic sea sanctuary of the **Elvenspring**
   on the eastern coast. Four tall coastal monoliths mark it.
   The druids claim the winds of the land are born between the
@@ -298,7 +355,13 @@ west.
   Scarnesbane or the Scarnesclaw artifact. Per druidic legend,
   Pelagia is the first human landing site in Ravenland.
   The druid **Kritre the Caller** leads a community of roughly
-  26 practitioners here.
+  26 practitioners here. Maha script is carved on every permanent
+  surface inside the sanctuary — directional and procedural, not
+  decorative; visitors who cannot read Maha cannot navigate without
+  a guide. Druids embroider their names in Maha sign on the left
+  shoulder of their outer garment, readable at two paces. The
+  secular inn for non-initiated visitors is the **Three Small Black
+  Snakes**, named for a local water-snake species; no other signage.
 - **Dragon's Tooth / Scarnehall** — the **Crombe** dwarves'
   current seat, a fortress built along the ancient stone-clad
   ribs of the dragon **Scarne**. **King Tademir Stonefriend**
@@ -321,7 +384,12 @@ west.
   here; her fire-essence feeds demonic creature experiments.
   Fire-breathing animals — **pyrotaurs** (bull-headed humanoids)
   and **calydones** (fire-breathing boars) — roam the surrounding
-  plains. Attached market town: **Agurville** (forge, horse
+  plains. Bridges inside the fortress compound run approximately
+  two feet to the side of where they appear — an illusion built
+  into the construction for defense. Visitors are given blindfolds
+  at the main gate and led across. Pyrotaurs stand guard at the
+  gate from a stone ledge; fire dances across their feet and lower
+  legs. Attached market town: **Agurville** (forge, horse
   market, fishing village, the ancient **Raukwaye Bridge**).
   Two Aslene rider clans are camped nearby: the **Quards**
   (who believe Zertorme is Horn's prophet) and the **Galdanes**
@@ -374,7 +442,18 @@ west.
   cauldron on full moons, creating a din that causes animal
   stampedes for miles. A dwarven diplomat (**Murble Tribbletwine**)
   has cautiously established relations with the ogre leader
-  (**Murge**). Do not approach at the full moon.
+  (**Murge**). Do not approach at the full moon. Inside the stone
+  cauldron on feast nights: three large fires on the floor, tables
+  improvised from cut logs, belching contests judged by volume.
+  Beer tubs — some drunk, some used for bathing; the bellyflop is
+  a standard competition. Goblins race wolves around the perimeter
+  for stakes. The second entertainment, which the ogres call
+  **'playing small-song'**, is forcing the session's prisoners to
+  make music. In the quarry: a half-finished marble statue of the
+  dwarven hero **Skarda**, broken in half, mouth drilled through.
+  A written instruction placed on a tightly rolled paper inside
+  the mouth will animate the statue briefly — long enough to carry
+  out the instruction, then it stops.
 - **Freygrove** — sacred Heme grove with a small village beside it.
 - **Wilderwood** — vast western forest, less explored than Dankwood.
   The Well of Tears is somewhere east of here.

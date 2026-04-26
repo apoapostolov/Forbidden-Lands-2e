@@ -28,7 +28,9 @@ Lands are not the dark past — they are the present that the past left behind.
 - **The Congregration** — originally set Zygofer on his destructive path; tried
   to reel him in. Organized, morally compromised.
 - **The Rust Brothers** — aligned with Zygofer wholeheartedly; his former
-  servants, still active.
+  servants, still active. Formal ceremony dress: a mask of iron and
+  deliberately rusted outer clothes \u2014 the rust is worn as a mark, not
+  an oversight.
 
 **Currency:** Silver coins. There are no silver mines in Ravenland. All coins
 are old Alder War remnants, worn and clipped. Copper also comes from Alderland.
