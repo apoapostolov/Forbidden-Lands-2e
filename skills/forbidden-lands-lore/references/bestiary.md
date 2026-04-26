@@ -640,6 +640,7 @@ Produced by Zertorme through a program using fire essences
 from the demon **Brinhelda**. Semi-intelligent; completely
 loyal to Zertorme. Released onto the plains near Amber's Peak
 alongside calydones.
+
 ## Scarne
 
 A female dragon, imprisoned in the deep structures below
@@ -656,6 +657,7 @@ a significant account. Post-release plans, finalized over 1500
 years: demolish Dragon's Tooth, drop Scarnesbane in the ocean
 far from any land, travel north of the Forbidden Lands to become
 matron dragon to her younger kin.
+
 ## Stone Titan
 
 Twelve-meter black obsidian giant. No higher intelligence. Four
