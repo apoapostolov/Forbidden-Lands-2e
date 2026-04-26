@@ -157,3 +157,63 @@ The Drawn Lands road is blocked by the permanent hurricane\nin Kreysel. Public e
 ### Nuggler's Harrow
 
 The dwarves of Eldhem did not give Sella the five Astra\npurely out of religious conviction. The Book of Winds\n(the oldest document of the horse clans) records that\nwhat the dwarves actually wanted was for Sella's united\nclans to drive the Vasnians out of the mining districts\nof Nuggler's Harrow in Vasnia. The Astra were the price\nfor military alliance, not a gift. This does not diminish\nthe religious weight they carry \u2014 but it contextualizes\nwhy the dwarves had them to give.
+
+### Watch of the Sisters — Founding and Metrochrone
+
+The Watch of the Sisters was built during the original
+period when the five horse clans had just arrived in
+Aslene and there was still diplomatic contact with the
+Drawn Lands. The Drawn Lands had sent an outpost team
+to establish a joint religious space honoring both Wail
+(goddess of the Drawn Lands) and Flow (her sister).
+The intent was a permanent friendship between the two
+countries.
+
+Sella's campaign — and specifically her arrogance in
+claiming the Bloodmarch as horse clan territory without
+negotiation — ended that relationship. Wail, furious
+at the insult to the Drawn Lands' people, raised the
+permanent hurricane Kreysel that blocks the road west.
+The Watch of the Sisters became a watchtower rather
+than a friendship outpost.
+
+In the first century after the rupture, the horned
+dwarves of Firestead built the Metrochrone at the Watch's
+request — a mechanical clock designed to measure the
+time remaining until the curse conditions are satisfied
+and the road opens again. The clock's builders embedded
+the timing in its mechanism so that it would stop on its
+own when the moment came. The Kogler's theft of the
+flywheel has prevented this from ever being read.
+
+### Moon Elves in the Bloodmarch
+
+The moon elf community arrived in the Bloodmarch approximately
+1,200 years ago. They are originally from the eastern
+continent Anoma, where their civilization was destroyed
+by the worm people (the Seventh). They fled first to
+Ravenland and then south into Aslene, where they were
+granted sanctuary by the Drawn Lands people and eventually
+by the horse clans who arrived later.
+
+They brought the temple Agnostica with them. Details of
+what Agnostica contains are spoiler content. The moon
+elves made Agnostica disappear from the world some centuries
+later as a protective measure. The timing mechanism
+that governs its concealment was bound to the Metrochrone.
+The Kogler's theft has extended its concealment far beyond
+what was intended.
+
+### Astra — Creation Location
+
+Horn's Astra were created in Tribolia, the great dwarven
+smithy in Firestead, not in some lost open-air forge.
+The Fresco of Sella — the original design blueprint — is
+painted on the chapel wall inside the smithy. This is
+not common knowledge among the horse clans; their oral
+tradition describes the Astra as Horn-given gifts without
+specifying how they were made. The dwarves also did not
+gift the Astra purely out of reverence: they wanted
+Sella's united clans to drive the Vasnians out of the
+mining territory at Nuggler's Harrow. This fact is
+recorded in the Book of Winds.

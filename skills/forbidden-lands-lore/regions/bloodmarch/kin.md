@@ -525,3 +525,180 @@ Serpent's forces in the Bloodmarch. Member of the
 Sisterhood of the Black Mamba; immune to all poisons,
 capable of shapeshifting into a black mamba. Commands
 60 agents.
+
+### Salterstay (Additional)
+
+**Zender** — A Ravenlander (possibly part elf) hiding in the
+salt mines below Salterstay. Three companions were taken by
+the red elves; he alone escaped. He carries six rubies cut
+from the chests of red elves he helped kill. He also has a
+green jade dagger that dissolves the violet color band in
+the Salterstay rainbow barrier, allowing passage. He knows
+that Vaerefor van Reiben is coming to the Salterstay rainbow,
+accompanied by the red elf host Kasabatoda.
+
+**Nuntoonia and Dyrengaard** — Two Egressors stationed at
+Salterstay as interpreters. Both can communicate with the
+undead Drawn Lands chieftain Haudaros and with the twelve
+ghost horsemen imprisoned by the rainbow. If Haudaros is
+freed from the violet color band, they can broker terms
+between the adventurers and his warrior dead.
+
+### Bann Guelder
+
+**Elder Korlo** — Commander of the Elderguard. Tall, scarred,
+and weathered. Chews betel roots. Speaks little. Knows the
+gold deposit is going to destroy the clan if it gets out
+and is personally committed to keeping the secret absolute.
+Old friends with the blood mage Betsom. Will sacrifice
+himself to protect the settlement.
+
+**Mergonella and Meskella** — Twin sisters, half Galdane
+and half Houn. STR 3, AGI 5. Melee 2, Horseback Fighter 2.
+Dressed for war and traveling as a unit; they finish each
+other's sentences. They want the gold moved out and used
+to buy weapons and horses for the clan. They distrust the
+dwarf prince and despise the waiting.
+
+**Verdegas** — Cousin of Mergonella and Meskella. Cautious
+and indecisive by nature. He agrees with the twins in
+general but stalls and second-guesses every plan. Easily
+manipulated by anyone patient enough to listen to him
+worry aloud.
+
+**Kresos** — A Quard merchant who travels with the mule trains
+and supplies the Sons of Nesos. He has worked out that the
+settlement is hiding a massive treasure. He sells goods at
+five times normal price while assembling a raiding band
+under cover of running the supply chain. Dense Water available.
+
+**Prince Merdenvil** — A Firestead dwarf prince with formal
+education and practiced charm. Poses as a botanist studying
+Bloodmarch flora. Travels with six armored dwarf warriors and
+a chain-leashed troll. His actual goal: assess the gold
+deposit and offer to move it to Firestead in exchange for
+a year of dwarven military service. He does not understand
+the clan politics of the offer and is genuinely baffled
+when his pitch does not land.
+
+**Betsom** — A seventy-year-old Aslene blood mage living in
+the tunnels of the burial mound, near the gold deposit.
+Blood Magic 3. Lonely and old; glad to talk to visitors who
+are not afraid of the darkness. Old friends with Elder Korlo.
+He is not greedy about the gold; he wants the Sons of Nesos
+to make a decision and stop the paralysis.
+
+**Legion** — An immortal demon being held prisoner in the
+deepest tunnel, shackled above a fire. Made up of multiple
+merged demons who have been studying humankind from inside.
+Can split into four component demons. The Sons of Nesos
+torture him in ritual sessions to extract intelligence.
+If a crowd gathers, he can explode into red slime that
+possesses nearby individuals. Each possessed person can
+resist with an EMPATHY roll.
+
+### Oxengelder
+
+**Pirimena** — Half-elf headmistress of the Oxengelder school.
+STR 3, AGI 3, WITS 5, EMP 4. Oneiromancy 3 (Power Level 5).
+Runs the practical administration of the school; the
+Dreamstress handles ideology. She is unswervingly loyal
+and will cover up any crime the Dreamstress commits rather
+than let the school suffer. Cool, precise, and difficult
+to read.
+
+**Ketre Meskalma** — Foremost coloratura dreamer at Oxengelder.
+STR 2, AGI 3, WITS 4, EMP 4. Oneiromancy 3 (Power Level 4).
+Specializes in dream detail — she enters others' dreams to
+help them construct more vivid visions. She is usually found
+sleeping under the lily maple in the Garden of Masters, a
+willow-shaped tree with drooping branches.
+
+**Marika Moonfriend** — Renegade oneiromancer who left
+Oxengelder after discovering the Dreamstress has a hidden
+agenda. Now leads a cult called the Daydreamers, spreading
+a heretical version of Oneira worship. STR 3, AGI 3, WITS 4,
+EMP 3. Oneiromancy 3, Fearless 1. Short sword, leather armor.
+Some of the accusations the school levels at her are true;
+she is genuinely tormented by uncontrolled daydreaming.
+
+**Kalemes** — A penniless Caberian novice at Oxengelder. Cut
+all ties with his clan to study here. Cleaning duty in the
+limestone basins. Unruly; uses the Horn of Abundance to
+conjure food for vulgar pranks with his friend Trommel.
+
+### Watch of the Sisters
+
+**Prince Cavaldo da Putenze** — Duke of Putenze from the
+Drawn Lands. STR 3, AGI 3, WITS 4, EMP 4. Performance 3,
+Lore 3. A gifted composer who crashed his airship near the
+Watch of the Hermit decades ago and never left. He is now
+entirely mad. His music attracts Crimson Forest, which
+spreads outward in response to his playing. He murdered
+his wife Donna Mardiena and his valet Carafo in a fit of
+madness; he has no memory of it. His daughter was taken
+to safety and has returned.
+
+**D'Irae (Dhiria)** — Cavaldo's daughter. Fourteen years
+old. STR 3, AGI 4, WITS 3, EMP 4. Head shaved; face painted
+white in mourning. Acts entirely mute. Has found the
+necromancer Vheilor and convinced him to help her. Her
+goal is to confront her father — whether to receive
+an explanation or take revenge she does not fully know.
+
+**Vheilor** — Egressor necromancer and bard. STR 2, AGI 3,
+WITS 4, EMP 4. Death Magic 2, Performance 3. He considers
+himself on a sacred mission: Cavaldo's memories must be
+restored so that the murdered dead can have peace and
+move on. He may kill Cavaldo or make him an undead servant
+depending on how events unfold. He has no quarrel with the
+Crimson Forest itself.
+
+**Vrendenholm** — An Alderlander historian who serves
+as a spy. STR 2, AGI 3, WITS 5, EMP 4. Lore 5. Operates
+on behalf of Poansa Moulter but acts on his own initiative.
+Claims to study the early history of the Bloodmarch.
+His real objective: get the Book of Winds out of the
+Watch of the Sisters cipher vault.
+
+**Protelas** — A Ravenland elf posing as a non-assimilated
+red elf commander at the Watch of the Hermit. STR 4, AGI 4,
+WITS 3, EMP 3. Healing 3. Commands a unit of red elves who
+serve Cavaldo as holy attendants. Secret mission: find a
+weakness in the Crimson Forest. Carries a unit of blue tar
+hidden inside his Aesculapian Staff. Suspects the Crimson
+Forest's core consciousness (Margarita) is the key. Will
+cooperate with trusted adventurers.
+
+**Hina, Costolena, and Kremiled** — The last three
+priestesses of the Watch of the Sisters, now ghosts. They
+do not know they are dead. They replay the same day in a
+loop, sustained by the grace of Wail and Flow. They believe
+the Kogler murdered them (he did not — Hina accidentally
+made a poisonous mushroom soup that killed all three).
+They want adventurers to retrieve the Metrochrone flywheel
+from the Kogler and restart the clock. When the Book of
+Winds is removed from its crypt, they recover their memories
+and realize the truth.
+
+### Tribolia of the Kogler
+
+**The Kogler** — An elderly Caprid dwarf craftsman who
+entered the forbidden smithy Tribolia illegally in his
+airship and cannot get out. His left horn, left half-face,
+left eye, and left arm are brass prosthetics. The eye is
+telescopic, sees in darkness, and sees through smoke and
+fog. The arm attacks as a monster. STR 6, AGI 4, WITS 4,
+EMP 3. Crafting 5, Lore 3. Headstrong, irritable, contemptuous,
+and brilliant. He has trained his mechas to obey whistle
+commands. He wants out of Tribolia but cannot manage it
+alone, and refuses to admit it until pressed.
+
+**Bydmer Dribblecliff and Aramalia Crack** — Two dwelvers
+trapped in the smithy. Meter-high creatures resembling
+pale, moist-skinned fetuses with floating facial features.
+STR 2, AGI 5, WITS 4, EMP 3. Crafting 3, Move 3. Their
+protective pressure suits were punctured by mechas; the suits
+are in a chapel off the main chamber. They know how to
+restart the Metrochrone and can help blow open the sealed
+main gate if their suits are repaired and they are freed.

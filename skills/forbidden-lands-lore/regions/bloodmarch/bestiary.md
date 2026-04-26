@@ -416,6 +416,41 @@ near an active rainbow will attract drakewyrms within hours.
 three or more drakewyrms protects the rainbow with extreme
 ferocity \u2014 they take no morale penalties defending it.
 
+### Glittercrawler (subtype)
+
+Drakewyrms especially favored by Tincturus are called
+glittercrawlers. They wear a metal collar that glitters
+in six rainbow colors. **DRAWN TO GLITTER:** If a
+glittercrawler spots anyone wearing or holding anything
+that glitters (polished armor, a held mirror), it attacks
+that person immediately and pursues them if they leave
+combat.
+
+**Zhozhach** is the most prominent glittercrawler in the
+Bloodmarch — leader of a group of seven at Salterstay
+(two were killed attacking red elves). His collar glitters
+in all six rainbow colors; it can serve as a clue about
+which colors complement each other.
+
+| Attribute | Value |
+|---|---|
+| STRENGTH | 16 |
+| AGILITY | 5 |
+| WITS | 5 |
+| EMPATHY | 2 |
+| ARMOR | 8 |
+| Skills | Scouting 3, Move 2 |
+
+**Monster Attacks (D6):**
+
+1. **BITE** — 9 dice, WD2 (slash), targets highest STRENGTH adventurer.
+2. **ICY ROAR** — fear attack 5 dice vs. all within NEAR range.
+3. **CLAW** — 8 dice, WD2 (slash) against two targets within NEAR.
+4. **ACID** — 6 dice, WD1 vs. all within NEAR; ongoing D3 rounds.
+5. **TAIL** — 6 dice, WD1 (blunt) vs. all within NEAR; knocked prone.
+6. **TEARING** — Two drakewyrms required; 10 dice, WD1; instant
+   death if the target is broken.
+
 ---
 
 ## Grarg
@@ -424,3 +459,71 @@ ferocity \u2014 they take no morale penalties defending it.
 **Threat:** Extreme in battle conditions; unpredictable at all times
 
 Massive orc-related bipeds, considerably larger than an adult\norc. They are born of the same bloodline but twisted by\nsomething \u2014 the orcs themselves will not explain to\nstrangers. Only males are born; females die at birth. Males\nare born sterile. Grargs cannot form packs and must be\nkept separated from each other and from more civilized folk.\n\nOrcs drug grargs heavily and arm them with knuckledusters\nand other crude blunt weapons. In major battles the orc\nwarchiefs send armed grargs into enemy lines first, "where\nthey advance like flesh-tearing windmills."\n\n**Combat trait:** Massive physical damage. Extremely\nunpredictable \u2014 even orc handlers keep clear of them.\nA grarg that takes critical damage has a chance to turn\non the nearest living thing regardless of allegiance.
+
+---
+
+## Mara
+
+**Terrain:** Anywhere people sleep; attracted to oneiromancers
+**Threat:** Very high in sleep; immaterial to normal weapons
+
+An immaterial demon that attacks sleeping victims by
+manifesting in their dreams. The mara straddles the
+sleeper's chest and attacks through nightmare. It only
+attacks one person at a time but switches target if the
+victim is broken.
+
+A mara cannot be hurt with ordinary weapons. Magic and
+magic weapons damage it normally. Fire deals half damage.
+
+An adventurer attacked by a mara cannot be woken or wake
+themselves. Other adventurers in the same room can act
+against the mara's shadow (a frenzied silhouette visible
+in the physical world) with a successful WITS roll once
+per round.
+
+**STR 12, AGI 3, WITS 2. No armor (immaterial).**
+
+**Monster Attacks (D6):**
+
+1. **RIDE** — 8 dice, WD1 (blunt). On damage, victim can roll
+   WITS (+1 per round assaulted) to wake.
+2. **SCREAM** — fear attack, 8 dice; on hit victim is COLD.
+3. **KISS** — lethal poison Potency 7 on failed WITS roll.
+4. **BITE** — 9 dice, WD2 (slash). Physical wound; victim wakes
+   automatically if hit.
+5. **DREAM CLAWS** — fear attack, 10 dice; victim wakes
+   screaming for D10 rounds on success.
+6. **CHEST CLAWS** — 10 dice, WD2 (stab). Bypasses armor. If
+   victim is broken, heart is torn out; only healing magic
+   can treat this wound.
+
+---
+
+## Tupilaq
+
+**Terrain:** Ancient crypts; anywhere corpses and carcasses
+have been gathered and risen
+**Threat:** Extreme; near-immune to non-magical damage
+
+A composite risen from merged parts of human corpses and
+animal carcasses. Slow but almost immune to normal weapons
+(takes half damage from non-magic weapons). The one at
+the Watch of the Sisters guards the Book of Winds and
+wakes to defend it if anyone from the horse clans or
+anyone intending harm touches the book.
+
+**STR 24, AGI 2, WITS 1. No armor rating.**
+
+**Monster Attacks (D6):**
+
+1. **NECROTIC BITE** — 5 dice, WD1 (slash); paralytic
+   poison Potency 6 on damage.
+2. **SCRATCH** — 6 dice, WD1 (slash).
+3. **DARKNESS** — magical oily darkness; all within NEAR
+   must roll INSIGHT or fight at −2 until next round.
+4. **ROAR OF ANGUISH** — fear attack, 7 dice vs. all within NEAR.
+5. **TACKLE** — 8 dice, WD1 (blunt); victim knocked prone.
+6. **DISSOLVING EMBRACE** — 7 dice, WD1 (blunt); victim
+   GRAPPLED; lethal poison Potency 6 each round while held
+   (Potency 9 against a designated target).

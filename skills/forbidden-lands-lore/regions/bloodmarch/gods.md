@@ -262,3 +262,46 @@ rainbow. Drakewyrms are not sapient in the human sense but
 they will fight to the death to defend any rainbow that
 appears near them, which they experience as a manifestation
 of their god.
+
+---
+
+## Flow
+
+Sister of Wail. Goddess of flowing freshwater. She is paired
+with Wail in all Drawn Lands tradition — the two sisters
+together represent the full journey of water from rain to
+river to ocean.
+
+The Watch of the Sisters was dedicated jointly to Wail and
+Flow when it was built as a friendship outpost between the
+Drawn Lands and Aslene. After the curse, Flow's role became
+secondary to Wail's in local tradition, though the priestesses
+maintained both faiths.
+
+The Cauldron of Flow is a sacred spring in the Watch complex
+that runs when the Metrochrone is running. It is currently dry.
+
+---
+
+## Oneira
+
+The sleeping goddess of existence, worshipped through the
+Dreamstress at Oxengelder.
+
+The Dreamstress teaches that Oneira is dreaming the entire
+world into existence — all life, all history, all time is
+the content of her dream. The Dreamstress claims to be
+Oneira's prophet, the one being whose dreaming is perfectly
+attuned to the goddess's visions.
+
+Oneiromancy — the practice taught at Oxengelder — is the
+act of participating in Oneira's dream rather than merely
+existing inside it. Advanced oneiromancers can reshape
+small parts of the dream (and therefore reality) through
+practice.
+
+Who or what Oneira actually is beyond the Dreamstress's
+doctrine is not established in public tradition. The
+theological claims remain unverified. Oneiromancy as a
+functional magic school is real regardless of the doctrine
+behind it.

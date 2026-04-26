@@ -196,3 +196,78 @@ construction, if an extraordinary one.
 The extent of Witherbeam's capabilities beyond these
 publicly known facts is spoiler content. See
 `campaigns/bloodmarch.md`.
+
+---
+
+## Mekefalos
+
+**Type:** Giant mechanical horse
+**Location:** Tribolia of the Kogler (stuck in hardened lava)
+**Creator:** Caprid dwarves of Firestead
+
+An enormous mechanical horse, built by the Caprid dwarves
+as a gift to the united horse clans — a gift that was
+never delivered because the gift-giving ceremony was
+disrupted by the Demon Flood. The horse was stored in
+the smithy at Tribolia and has been there since.
+
+STR 32, Armor 7 (full steel plating). Requires a CRAFTING
+or LORE roll each round to operate; failing the roll means
+the operator loses control for that round. Built for war
+but controlled by a trained rider.
+
+Mekefalos is embedded in hardened lava from a flow that
+occurred when the Kogler cracked the cave floor years ago.
+The Kogler installed the Metrochrone flywheel inside its
+chest cavity to keep it operational; extracting the flywheel
+requires opening the chest panel. The horse can be freed
+from the lava using the Jormensul axle as a lever and a
+heavy chain.
+
+---
+
+## Metrochrone
+
+**Type:** Giant mechanical clock
+**Location:** Watch of the Sisters (currently stopped)
+**Creator:** Horned dwarves of Firestead
+
+A massive mechanism mounted on the rock face of the Watch
+of the Sisters, shaped like a stylized eagle with rotating
+wings that mark the hours. Built to measure the time
+remaining until the horse clan curse laid by Wail is
+lifted — the specific moment when the Drawn Lands road
+opens again.
+
+Currently stopped because the Kogler stole its driving
+flywheel (now inside Mekefalos at Tribolia). The three
+ghost priestesses of the Watch — Hina, Costolena, and
+Kremiled — are sustained only until the Metrochrone
+restarts and their watch ends.
+
+The moon elf temple Agnostica cannot return to the world
+while the Metrochrone is stopped. Restarting the clock
+also awakens the Cauldron of Flow, a sacred spring in
+the temple complex.
+
+---
+
+## Recreating Astra
+
+**Where:** Tribolia of the Kogler
+**Authority:** The Kogler
+
+The original blueprint for Horn's five Astra is painted
+on the chapel wall inside Tribolia — the Fresco of Sella,
+a full rendering of all five objects in their unmade
+state. The Kogler has studied it and claims he can recreate
+a destroyed or disappeared Astra given the materials.
+
+**Cost per Astra:** Five living elven rubies (fresh-cut from
+a living red elf's chest; not dormant or dried) and ten
+gold coins' worth of gold.
+
+**Time:** One week per Astra.
+
+The Kogler will not do this as a favor. He will negotiate
+terms: safe passage out of Tribolia is his starting demand.

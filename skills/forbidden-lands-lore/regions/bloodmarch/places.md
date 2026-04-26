@@ -211,74 +211,167 @@ headman Turenfort cannot decide what to do about any of it.
 
 ### Oxengelder
 
-**Type:** Fortified tower and settlement
-**Location:** Eastern Bloodmarch, near Crimson Forest
-**Overview:** A limestone formation shaped over decades
-into a town. The central tower belongs to the Dreamstress,
-an oneiromancer of significant power and uncertain
-disposition. She is the primary (possibly only) teacher
-of Oneiromancy in the Bloodmarch.
+**Type:** Dream school and settlement
+**Location:** Limestone region in eastern Bloodmarch; out of range of volcanic magic
+**Overview:** An ancient Vasnian site of sacrifice,
+deserted when the Dreamstress settled here after
+arriving during the Demon Flood. Now a sprawling
+oneiromancy school built on and into the limestone,
+with a pillared hall, gardens, marble plaza, and
+a thirty-meter Sky Tower. The site is peaceful —
+all kin come here to trade and gather news.
 
-**The Dreamstress:** Does not advertise. Does not take
-students on demand. She has tested candidates and
-refused some who appeared qualified; she has accepted
-some who appeared unqualified. Her criteria are not
-public knowledge.
+**The Dreamstress:** A creature from another world (Eoni)
+who came during the Demon Flood and is classified as a
+demon, though she has always appeared peaceful. She is
+a giantess of immense size, covered in jewelry. She
+teaches oneiromancy and helps visitors change what they
+dislike — restoring lost limbs, locating lost people.
+Her hidden agenda is to dream herself back to Eoni.
 
-The town around the tower has developed to service both
-pilgrims visiting the Dreamstress and travelers who
-stop because the limestone architecture is defensible.
+**Admission criteria:** Applicants for study must have
+Wits 3 or lower and Empathy 3 or higher. Criteria are
+not disclosed — failed applicants are only told they
+are unsuitable. Exception: any adventurer carrying one
+of Horn's Astra is automatically accepted regardless
+of attributes.
 
 ### Bann Guelder
 
-**Type:** Trade town
-**Location:** Central Bloodmarch, road junction
-**Overview:** The best-supplied market in the Bloodmarch
-for outsiders. Merchant **Kresos** runs the main trading
-house. He specializes in Dense Water (the rarest product
-of the Caprid dwarves) and acts as broker for other
-exotic Bloodmarch goods.
+**Type:** Burial mound settlement
+**Location:** Central Bloodmarch, named for the edible
+guelder rose that grows there
+**Overview:** A traditional Aslene burial mound
+surrounded by spectacular red sandstone formations.
+A family group called the **Sons of Nesos** — roughly
+a hundred members — has been camped here for almost
+two years. Other horse folk regard this as pathetically
+weak. The only permanent inhabitants are supposed to
+be the Elderguard with its graying fighters.
 
-Kresos does not discuss his suppliers. He will negotiate
-on price but not on terms — he does not provide goods on
-credit to unknown buyers.
+The great secret: the Sons of Nesos discovered an immense
+gold deposit inside the burial mound when digging new
+passageways. The mound holds tons of pure metallic gold.
+The settlement is now gripped by discord and forced calm
+— everyone maintains a strained normalcy to keep the
+secret from strangers. The atmosphere is tense.
 
-**Products reliably available:**
-- Dense Water (expensive; limited supply)
-- Blue Tar (expensive outside Havenmark)
-- Standard equipment and food
-- Horses — ordinary ones, not Wingesteeds
+**Elder Korlo** enforces strict secrecy; the penalty for
+stealing gold is the loss of a hand and the tongue.
+
+**Key factions present:**
+- **Mergonella and Meskella** (twin warrior sisters) —
+  want to mine the gold and use it to strengthen the clan.
+- **Prince Merdenvil** (Firestead dwarf posing as a
+  botanist) — wants to appraise and then offer to move the
+  gold to Firestead.
+- **Merchant Kresos** — traveling Quard trader who has
+  figured out the Sons of Nesos are hiding a large
+  treasure. He is assembling thugs to raid the place;
+  in the meantime he sells goods at five times normal
+  price and does not haggle. Dense Water available.
 
 ### Watch of the Sisters
 
-**Type:** Orc institution
-**Location:** Druma
-**Overview:** The main complex of the Sisterhood of Viraga.
-At its center is the Metrochrone — a clock of unusual
-design that the Sisterhood uses for timekeeping in rites.
-The Metrochrone is Caprid-built. How the Sisterhood
-acquired it involves a negotiation that neither party
-publicly describes.
+**Type:** Ancient temple (currently abandoned)
+**Location:** Dense Crimson Forest on the Guardian
+Mountain; accessible via river or slog through Crimson
+Forest
+**Overview:** A thousand-year-old temple dedicated to
+the sister goddesses Wail and Flow. Built as a religious
+outpost when the Drawn Lands and Aslene were meant to
+be joined in friendship — before Sella's campaign broke
+that compact. Now abandoned.
 
-Non-orcs are not typically admitted to the Watch complex.
-The Sisterhood will receive outsiders at the outer gate
-for specific inquiries. Attempting to enter uninvited
-is a fast way to become an ethics case.
+The temple is completely embedded in dense Crimson Forest,
+which grew around it after the Demon Flood. The forest
+has a primitive consciousness called **Margarita** ("the
+Pearl"), born from the music of the mad composer Cavaldo
+who settled here decades ago. Margarita manifests as a
+talking fruit when she hears music she likes. She can
+be killed with blue tar thrown on her concentrated form.
+
+**Metrochrone:** A huge mechanical clock mounted on the
+rock face of the temple, shaped like a stylized eagle.
+Built by horned dwarves to measure the time until the
+horse clan curse is lifted. Currently stopped — the
+dwarf mechanic known as the Kogler stole the waterwheel
+(flywheel) and took it to Tribolia. The Metrochrone
+cannot run without it. The moon elf temple Agnostica
+cannot return to the world until the Metrochrone is
+restarted.
+
+**Ghost priestesses:** Hina, Costolena, and Kremiled
+are the last three priestesses of the Watch. They are
+ghosts but do not know it — they replay the same day
+repeatedly and are sustained by the grace of Wail and
+Flow until their watch ends. When the Book of Winds is
+removed from its crypt, they regain their memories and
+realize they are dead. They believe the Kogler murdered
+them (he did not — Hina accidentally poisoned them all
+with a mushroom soup).
+
+**Book of Winds:** Kept in a crypt beneath the House of
+Winds pavilion, behind a four-person cipher lock. The
+Kogler took the missing Metrochrone component but did
+not steal the Book.
+
+**Prince Cavaldo:** A mad composer from the Drawn Lands
+who crashed his airship near the temple and never left.
+His music feeds the Crimson Forest and drives its growth.
+He does not realize he murdered his wife and valet in
+a fit of madness. Red elves protect him as a holy figure.
+His daughter D'Irae (traveling as the mute girl) and the
+necromancer Vheilor are coming to find him.
 
 ### Tribolia of the Kogler
 
-**Type:** Ruin
-**Location:** Eastern Varina
-**Overview:** The ruins of a Vasnian town that was fully
-consumed by Crimson Forest during the Demon Flood. Aerial
-observation (if you can manage it) shows the town's
-original street plan under the forest canopy. Inside,
-everything is red vegetation.
+**Type:** Forbidden dwarven smithy (active)
+**Location:** A mountain in Firestead, accessible by
+following a stream on the mountainside above the
+closed main gate
+**Overview:** In ancient times the largest and most
+advanced dwarven smithy in Firestead. Abandoned after
+it was invaded by demons during the Demon Flood; declared
+taboo and forbidden by the great dwarven council. The
+dwarf called **the Kogler** (a professional title, not
+a name) has defied the prohibition and returned to work
+here alone.
 
-Treasure hunters have gone in. Some have come back.
-What they find and what they bring out varies wildly.
-The red elves in the forest tolerate scavengers at the
-margins but not penetration to the interior.
+The smithy is inside a cave lit entirely by a lava river
+flowing from a volcanic crater. Its most remarkable
+features are three huge stone spheres floating in mid-air,
+rotated by a massive iron axle (the Jormensul) driven
+by a paddle wheel in the lava.
+
+**The Kogler:** A grouchy elderly dwarf mechanic and
+inventor. His left horn, left half-face, and left arm
+are prosthetic brass — a lens eye that sees in darkness,
+a mechanical arm of great strength. He is headstrong,
+easily irritated, and brilliant. He is wanted in Firestead
+and does not want visitors. He keeps two mechas as
+assistants. He can be negotiated with.
+
+**The Metrochrone flywheel:** The Kogler installed the
+stolen flywheel from the Watch of the Sisters inside
+the giant mechanical horse **Mekefalos**, where it now
+drives the horse. Mekefalos is stuck in hardened lava.
+Freeing the horse and extracting the flywheel is
+necessary to restart the Metrochrone.
+
+**Dwelvers:** Two dwelvers from the depths —
+Bydmer Dribblecliff and Aramalia Crack — are trapped
+here in an inflated emergency tent. Their suits were
+damaged by the Kogler's mechas. They know how to restart
+the Metrochrone and can blow open the sealed main gate
+with explosives if freed.
+
+**Recreating Astra:** The Kogler has found the original
+blueprint for Horn's Astra in a chapel inside the smithy
+(the Fresco of Sella — original, not a copy). He claims
+he can recreate a destroyed Astra given: five living
+elven rubies, ten gold coins' worth of gold, and one
+week of work.
 
 ### Agnostica
 
