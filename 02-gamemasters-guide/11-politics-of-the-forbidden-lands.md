@@ -821,7 +821,7 @@ A decree must be spoken as a real order that could be cried before witnesses or 
 
 If players rule the faction, the players must decide the exact order. The GM then chooses the pillar and practice that truly carry it, based on whether the order rests on law, stores, roads, fear, faith, or armed enforcement. For an NPC faction, the GM does both.
 
-A decree is a **minor act** by type. In **Peace** or **Pressure**, issuing one uses the turn's minor act. In **Muster** or **Campaign**, the weekly decree step still exists because command does not wait for war to end, but it does not replace the week's single campaign act. Resolve the decree with **ISSUE DECREE** under **Political Acts** below.
+A decree is a **minor act** by type. In **Peace** or **Pressure**, issuing one uses the turn's minor act. In **Muster** or **Campaign**, the weekly decree step still exists because command does not wait for war to end, but it does not replace the week's single campaign act. Resolve the decree with **Issue Decree** under **Faction Acts** below.
 
 ### Peace Procedure
 
@@ -919,66 +919,7 @@ If the player characters are the knife-edge of the act, let the faction roll set
 
 ---
 
-## Revenue, Tribute, and Burden
-
-> _The grain was measured in silence. That was the part the steward hated most. Not the sacks. Not the arguments. The silence of a household watching the scale and knowing the hand on the other side had counted their winter before they did._
-
-### Ordinary Dues
-
-A stable power does not collect at war rate. It collects through custom, memory, and the village's wish to avoid worse hands than the collector's. Ordinary dues are therefore dangerous to mishandle. Once the people begin to feel that every visit from the hall takes more than custom allows, they stop reading the collector as part of rule and start reading him as the first man of an occupation.
-
-Ordinary dues are the regular extractions that a settlement can still recognize as part of the known order, even if it dislikes paying them: tax, rent, tithe, toll, labor days, wagon service, shelter rights, and market percentages.
-
-Collect ordinary dues with **Hearth + Yield**.
-
-| SITUATION | DIFFICULTY |
-| --- | --- |
-| ruled settlement, positive Standing | 0 |
-| ruled settlement, neutral Standing | 1 |
-| protected settlement, terms clear | 1 |
-| dues raised above custom | 2 |
-| tribute disputed, or settlement already strained | 3 |
-
-On success, the dues come in. On failure, the settlement pays short or delays openly, Standing falls by 1, or the Feud advances by 1 if the matter was already heated.
-
-A short payment is not just arithmetic. It means some household hid sacks under wet hides, some widow swore the sheep died of rot, or some reeve decided this was the season to learn how much weakness lived in the lord across the river.
-
-### Campaign Burden
-
-Campaign burden is different. It is what a faction takes once war, mustering, or occupation has begun. Use the burden ceilings already established in **BATTLES & SIEGES**. Campaign burden is counted over **seven consecutive days**. When a settlement provides three times its population in supplies, that total is the outer acceptable pull for one campaign week before real local harm begins.
-
-A settlement can be asked, per week, for up to **three times its population in supplies** without immediate collapse, up to **five times its population in copper** as the outer acceptable cash demand, and more than that only by destructive over-extraction.
-
-Chapter 11 decides **who is asked** and **what it costs politically**. Chapter 12 tells you the hard physical ceiling. A village can survive one week of hard taking and still look whole from the road. It may take a season for the truth to show itself in pawned tools, thin seed grain, daughters married badly for bread, or three households slipping away before dawn with what animals they can still drive.
-
-### Burden Levels
-
-| BURDEN | EFFECT |
-| --- | --- |
-| **Light** | no immediate harm; the settlement still lives its own life |
-| **Hard** | Standing -1 unless the settlement is fiercely loyal; next Settlement Turn worsens by 1 |
-| **Crushing** | Standing -2, Feud +1, one household or local power holder gains Need +1 or Heat +1 if you use village play |
-| **Ruinous** | use the starvation, collapse, and deterioration rules from Chapter 12 immediately |
-
-**Hard** burden is the point where ordinary rule begins to taste like occupation. **Crushing** burden is where names are remembered. If you are unsure whether the demand crossed the line, ask who will still speak for the faction after the wagons leave.
-
-### Tribute and Tolls
-
-Use **Mandate + Accord** or **Hearth + Yield** when tribute is recognized and grudgingly accepted. Use **Force + Assault** or **Mandate + Decree** when tribute is imposed by open pressure. Toll rights rely on **Reach + Traffic**. A toll road needs patrols, ferrymen, collectors, and visible enforcement; without them it is only a place where armed men take coin until someone stronger arrives.
-
-Treat tolls and tribute as a question of legitimacy every time. A ferryman pays one lord because his father did, another because that lord keeps raiders away, and a third because spears are already on the bank and arguing would only get his sons beaten. The money may look the same in the chest, but the obedience behind it is different in each case, and that difference matters the first time the road goes dangerous.
-
-### Over-Collection
-
-Over-collection has visible costs, and those costs are usually delayed just long enough to tempt a foolish ruler into thinking he got away with it. Standing falls. Mandate is damaged. Feud advances. Future levy weakens. Trade turns away. Villagers hide stores, flee, or invite a rival power in.
-
-Do not make the political cost vague. Name the harmed household, the shuttered market, the empty byre, the closed gate.
-
-That naming matters because over-collection rarely breaks a realm all at once. It breaks it by turning specific people into future enemies. The ferryman whose daughter went hungry remembers. The steward who had to choose which widow paid full remembers. The village that smiled and handed over grain this month may already be measuring whether a rival banner, an outlaw band, or a shrine with sharper promises would cost less next winter.
-
----
-
-## Political Acts
+## Faction Acts
 
 > _The elder did not agree. He yielded. Those are not the same thing, and only fools fail to count the difference._
 
@@ -990,21 +931,99 @@ They do not replace scenes. They tell you what stands when the scene ends. Use t
 
 Faction acts do not all work on the same level.
 
-| SCALE | WHAT IT DOES |
+| SCALE | WHAT IT DOES | COMMON ACTS |
+| --- | --- | --- |
+| **Minor act** | keeps rule working, supports an existing policy, or changes one local question without redrawing the whole political map | **Call Council or Moot**, **Collect Due**, **Give Safe-Conduct**, **Issue Decree**, **Send Gift or Bride-Price**, **Spy or Suborn** |
+| **Major act** | changes bonds, status, feud, legitimacy, force posture, or another enduring part of rule | **Grant Protection**, **Hire Mercenaries**, **Judge or Outlaw**, **Negotiate Truce or Peace**, **Press a Claim**, **Swear Fealty**, **Take Hostage** |
+| **Campaign act** | acts directly inside live mustering or war and changes troops, supply, pressure, occupation, or the theater itself | **Call Levy**, **Invest a Place**, **Raid**, plus any major act taken directly inside an active **Muster** or **Campaign** state |
+
+The GM may shift an act one scale up or down if the fiction plainly makes it larger or smaller than usual. The acts below are set in alphabetical order so they can be found quickly in play.
+
+### Call Council or Moot
+
+**TYPE:** Minor act
+
+The ruler gathers powers, households, priests, or captains and tries to hold the room together long enough to decide something. Roll with **Mandate + Rite** or **Mandate + Decree**.
+
+On success, judgment or agreement stands for now. On failure, factions leave angrier than they arrived, Mandate takes 1 damage, and one local power holder chooses a side openly. When this act goes bad, name the person who broke the room: the man who walked out, the widow who laughed in the wrong place, the priest who refused the cup, or the captain who touched sword-hilt before the room was done talking.
+
+### Call Levy
+
+**TYPE:** Campaign act
+
+The faction turns right, fear, or obligation into bodies. Roll with **Force + Muster**. The result does not create men from air. It activates the levy the faction truly has available, up to the limit set by the faction's current **Levy** rating: **None** raises nothing, **Small** raises one contingent, **Ready** raises two, and **Heavy** raises three. See **Retainers, Levy, and Mercenaries** below. On failure, the levy arrives late, thin, or unwilling, and Mandate or Force takes 1 damage depending on why.
+
+When levy is converted to troops for Chapter 12, use Mandate to judge willingness.
+
+| MANDATE | LEVY CONDITION |
 | --- | --- |
-| **Minor act** | keeps rule working, supports an existing policy, or changes one local question without redrawing the whole political map |
-| **Major act** | changes bonds, status, feud, legitimacy, force posture, or another enduring part of rule |
-| **Campaign act** | acts directly inside live mustering or war and changes troops, supply, pressure, occupation, or the theater itself |
+| **5** | eager or well-backed levy; if the settlement or troops already merit a quality bonus, keep it |
+| **3-4** | ordinary levy; no extra change |
+| **2** | reluctant levy; remove one quality edge or reduce willingness in the fiction |
+| **1** | fraying levy; remove one quality edge and treat morale as brittle from the first hard reverse |
 
-Use the following default classifications.
+Every extra week of levy service is paid twice: once in the field and once at home. Fences go down. Lambing is missed. Mill work slows. A ruler who keeps levy too long may still win the campaign and come home to poorer villages, harder faces, and fewer sons willing to answer next spring.
 
-- **Minor acts:** **Issue Decree**, **Collect Due**, **Give Safe-Conduct**, **Call Council or Moot**, **Send Gift or Bride-Price**, **Spy or Suborn**
-- **Major acts:** **Grant Protection**, **Press a Claim**, **Swear Fealty**, **Take Hostage**, **Judge or Outlaw**, **Hire Mercenaries**, **Negotiate Truce or Peace**
-- **Campaign acts:** **Call Levy**, **Raid**, **Invest a Place**, plus any major act that is being taken directly inside an active **Muster** or **Campaign** state rather than in ordinary politics
+### Collect Due
 
-The GM may shift an act one scale up or down if the fiction plainly makes it larger or smaller than usual.
+**TYPE:** Minor act
+
+A faction gathers ordinary dues, delayed payment, or tithe. Roll with **Hearth + Yield**.
+
+| SITUATION | DIFFICULTY |
+| --- | --- |
+| ruled settlement, positive Standing | 0 |
+| ruled settlement, neutral Standing | 1 |
+| protected settlement, terms clear | 1 |
+| dues raised above custom | 2 |
+| settlement already strained, or the due is disputed | 3 |
+
+On success, coin, grain, labor, or transport comes in as expected. On failure, payment is short, delayed, or actively contested. Use this act for ordinary collection, not for wringing blood out of a place already on the edge. If the sacks come in under spearpoint, or the villagers watch from behind barred doors, you are no longer collecting due. You are imposing tribute or burden, and the cost should be paid elsewhere on the sheet.
+
+### Give Safe-Conduct
+
+**TYPE:** Minor act
+
+The faction guarantees passage, convoy, or legal peace along a named route. Roll with **Reach + Traffic**.
+
+On success, trade, messengers, or travelers move under the faction's name. A second failure to protect the same route damages Mandate as well as Reach. Treat safe-conduct as an ongoing duty of escorts, watched ferries, warning posts, and visible enforcement rather than a promise spoken once in the hall. If those protections are missing, the route is no safer than any other road in bad country.
+
+### Grant Protection
+
+**TYPE:** Major act
+
+A faction binds a settlement under rule or protection. Roll with **Mandate + Accord**.
+
+| SITUATION | DIFFICULTY |
+| --- | --- |
+| settlement asked for protection | 1 |
+| settlement is afraid and exposed | 1 |
+| settlement has another suitor or old protector | 2 |
+| settlement distrusts the faction | 3 |
+
+On success, the settlement becomes **Protected**. With 2+ extra successes, it may become **Ruled** if the fiction supports direct lordship. On failure, Standing falls by 1 and the settlement seeks another shield. A new protection bond should be tested the first time the danger that justified it returns. If the village accepted protection because of raiders, the first missed patrol, burned barn, or robbed cart should immediately test whether the pact still means anything.
+
+### Hire Mercenaries
+
+**TYPE:** Major act
+
+The faction buys force outside the ties of blood and custom. Roll with **Hearth + Provision** to see whether the faction can actually sustain the terms, then use the hiring rules in **MERCENARIES OF THE FORBIDDEN LANDS**. If the bargain is chiefly coin, let **Treasury** back the roll. If it is chiefly food, transport, or plunder-share, let **Stores** back it instead.
+
+A faction with **Thin** or **Bare** Treasury may still hire a band. The question is whether it can keep the band after the first promises are spoken. If exact pay matters, use the daily soldier salaries from **BATTLES & SIEGES** for the force being hired and count the price across seven days. A band held under retainer for a full campaign week will usually step **Treasury** down one rating unless the faction has **Deep** Treasury, a rich charter behind it, or captured pay to spend. On a failed hire-sustain roll, the band serves for `D3 + 1` weeks before demanding harsher terms, fresh plunder, or release.
+
+Mercenaries allow a faction to field more force than its own blood, oath, and land would normally support. They also place armed men in the field who are tied first to pay and terms. If pay is late, if plunder thins, or if a better purse appears, expect immediate demands, desertion risk, or local intimidation by the band itself.
+
+### Invest a Place
+
+**TYPE:** Campaign act
+
+A faction begins siege, encirclement, or coercive isolation. Roll with **Force + Siegecraft**. On success, the place is under investment. From the next Campaign Week onward, apply campaign burden and supply pressure. If both sides are actually in position and the action becomes open siege, go to **BATTLES & SIEGES**.
+
+Investment begins before the walls are tested. Roads are watched. Mills are denied. Fields nearest the place are stripped. Families inside count their meal sacks and try to guess whether relief will come before the first horse is slaughtered for meat. Even a short investment changes politics around the target, because nearby villages must decide whom they feed, what they hide, and which side will remember them afterward.
 
 ### Issue Decree
+
+**TYPE:** Minor act
 
 The ruler announces a law, mandate, exemption, ban, appointment, seizure order, quartering order, toll order, market rule, or other direct command. A decree is not vague intent. It must be stated in the words of rule.
 
@@ -1026,85 +1045,56 @@ Use decrees for things like these:
 - suspend or impose tolls on one road, river, or ferry
 - name who now judges, escorts, commands, or collects in one district
 
-### Grant Protection
-
-A faction binds a settlement under rule or protection. Roll with **Mandate + Accord**.
-
-| SITUATION | DIFFICULTY |
-| --- | --- |
-| settlement asked for protection | 1 |
-| settlement is afraid and exposed | 1 |
-| settlement has another suitor or old protector | 2 |
-| settlement distrusts the faction | 3 |
-
-On success, the settlement becomes **Protected**. With 2+ extra successes, it may become **Ruled** if the fiction supports direct lordship. On failure, Standing falls by 1 and the settlement seeks another shield. A new protection bond should be tested the first time the danger that justified it returns. If the village accepted protection because of raiders, the first missed patrol, burned barn, or robbed cart should immediately test whether the pact still means anything.
-
-### Collect Due
-
-A faction gathers ordinary dues, delayed payment, or tithe. Roll with **Hearth + Yield**.
-
-On success, coin, grain, labor, or transport comes in as expected. On failure, payment is short, delayed, or actively contested. Use this act for ordinary collection, not for wringing blood out of a place already on the edge. If the sacks come in under spearpoint, or the villagers watch from behind barred doors, you are no longer collecting due. You are imposing tribute or burden, and the cost should be paid elsewhere on the sheet.
-
-### Press a Claim
-
-A faction asserts inheritance, old boundary, temple right, or lawful possession. Roll with **Mandate + Claim**.
-
-On success, the claim becomes politically real. Another faction must now answer it or suffer Standing loss where the claim matters. On failure, the claimant looks grasping, weak, or false, and Mandate takes 1 damage if the claim was pressed publicly. A claim is strongest when it can be pointed to: an old cairn, a marriage chest, a witness too stubborn to lie, a shrine book that still carries the right seal. If there is nothing to show, the roll is still possible, but the result should feel thinner and more exposed.
-
-### Swear Fealty
-
-A lesser power binds upward. Roll with **Mandate + Accord**.
-
-On success, the lesser power becomes **Vassal** or **Ally** as negotiated. Hostages, marriage, or witnessed oaths usually provide **asset rating 1**, or raise an existing relevant asset by 1 to a maximum of **5**. On failure, the negotiation sours, and Feud may advance if either side pushed too hard. Fealty is easiest to win from the afraid, the isolated, or the recently saved. It is hardest to win from a power that still believes it has another road open. If you want the oath to last, say what was promised upward and what was promised back down.
-
-### Give Safe-Conduct
-
-The faction guarantees passage, convoy, or legal peace along a named route. Roll with **Reach + Traffic**.
-
-On success, trade, messengers, or travelers move under the faction's name. A second failure to protect the same route damages Mandate as well as Reach. Treat safe-conduct as an ongoing duty of escorts, watched ferries, warning posts, and visible enforcement rather than a promise spoken once in the hall. If those protections are missing, the route is no safer than any other road in bad country.
-
-### Take Hostage
-
-The faction secures an agreement with a ward, hostage, or important dependent. Roll with **Mandate + Accord** or **Reach + Intrigue**. Use Accord when the hostage is given under terms. Use Intrigue when the hostage is seized or manipulated into place. On failure, the act turns uglier than intended, and Standing falls by 1 with the other party even if the hostage is taken.
-
-**Hostages from Chapter 12.** Hostages taken through siege surrender terms, coercive village collection, or occupation rule count as normal hostage assets under this chapter. They carry the same political weight as any other hostage and interact with Feud, Standing, and occupation checks accordingly. Returning them cleanly — after a truce, on good terms at the end of a campaign — can reduce Feud by 1 or improve Standing by 1 where the fiction supports it. Harming them, losing them through negligence, or executing them under duress worsens Feud or Standing by 1 even if the death was not deliberate: the other side makes no distinction between malice and carelessness when the body comes back.
-
-**Hostage lifecycle.** The rules above handle the taking. Keep track of these states during long campaigns:
-
-- **Escape** — the hostage leaves without formal release. Treat as a failed Take Hostage act with all its Standing consequences.
-- **Rescue** — an enemy raid, intrigue, or field action frees the hostage. This is an enemy act using Reach + Intrigue or a military operation in Chapter 12.
-- **Death by neglect or illness** — the hostage dies in custody through no deliberate act. Treat as hostage harm for Standing and Feud purposes unless the holding faction can demonstrate the death was beyond their control and the other side accepts that. They usually do not.
-- **Formal return** — the holding faction releases the hostage as part of a truce or political act. Use Send Gift or Bride-Price or Negotiate Truce or Peace to structure the return.
-
-Hostage-based terms remain strong only while both sides are certain the hostage is alive, identifiable, and still under the agreed control. Let messages, visits, tokens, and rumors matter. If no one has seen or heard from the hostage in months, treat the compact as weakened and raise the difficulty of any act that depends on that hostage by 1 until proof is shown.
-
-### Call Council or Moot
-
-The ruler gathers powers, households, priests, or captains and tries to hold the room together long enough to decide something. Roll with **Mandate + Rite** or **Mandate + Decree**.
-
-On success, judgment or agreement stands for now. On failure, factions leave angrier than they arrived, Mandate takes 1 damage, and one local power holder chooses a side openly. When this act goes bad, name the person who broke the room: the man who walked out, the widow who laughed in the wrong place, the priest who refused the cup, or the captain who touched sword-hilt before the room was done talking.
-
 ### Judge or Outlaw
+
+**TYPE:** Major act
 
 The faction declares punishment, blood price, sentence, or exclusion. Roll with **Mandate + Decree**.
 
 On success, the judgment holds. On failure, it looks partial, weak, or unlawful, and if the punished side has kin or backing, Feud advances. Good judgment is one of the few ways a faction can spend Mandate and still come away richer in it. Bad judgment does the opposite. It teaches every watching household that law is only another name for whichever hand reached the bench first.
 
+### Negotiate Truce or Peace
+
+**TYPE:** Major act
+
+A faction tries to stop a feud before it becomes ruinous. Roll with **Mandate + Accord**. Difficulty is the current Feud step. On success, reduce Feud by 1. With 2+ extra successes, reduce it by 2 if real concessions were made. On failure, the enemy reads weakness, stalling, or dishonor.
+
+Real peace in a land like this requires hostages, marriages, witnesses, crossing rights, compensation, or some other concession both sides can point to afterward. If nothing substantial changes hands, record the result as a short truce rather than a settled peace.
+
+### Press a Claim
+
+**TYPE:** Major act
+
+A faction asserts inheritance, old boundary, temple right, or lawful possession. Roll with **Mandate + Claim**.
+
+On success, the claim becomes politically real. Another faction must now answer it or suffer Standing loss where the claim matters. On failure, the claimant looks grasping, weak, or false, and Mandate takes 1 damage if the claim was pressed publicly. A claim is strongest when it can be pointed to: an old cairn, a marriage chest, a witness too stubborn to lie, a shrine book that still carries the right seal. If there is nothing to show, the roll is still possible, but the result should feel thinner and more exposed.
+
+### Raid
+
+**TYPE:** Campaign act
+
+The faction hits a road, farm belt, granary, ferry, shrine, or outwork without committing to full battle. Roll with **Force + Assault** or **Reach + Watch**. Use Assault for direct violence. Use Watch when the raid is really a sharp interception or border bite. On success, choose one:
+
+- reduce enemy Stores one step
+- worsen enemy Standing by 1 in one settlement
+- advance Feud by 1 in your favor
+- seize immediate goods or labor
+
+On failure, the raid bloodies itself, hits the wrong place, or hardens resistance instead.
+
+A raid is often more political than it first appears. Burning a granary says one thing. Driving off cattle says another. Hanging two ferrymen where the river villages can see them says a third, and that message may outlast the goods taken. Choose targets according to what the raiding faction wants remembered: weakness, reach, vengeance, or simple hunger.
+
 ### Send Gift or Bride-Price
+
+**TYPE:** Minor act
 
 A faction tries to soften grievance, open alliance, or buy patience. Roll with **Mandate + Accord**. This act always costs **Treasury** or **Stores** if it is to matter, and a faction that is Bare in both is offering promises more than gifts. On success, Standing improves by 1 or Feud reduces by 1. On failure, the gift was too poor, too late, or read as insult.
 
 In a hard land, gifts are judged by use before beauty. A chest of fine cloth may impress a town household, but a spring village with two weak barns will remember the wagons of grain longer than any dyed wool. Bride-price works the same way: it is a public measure of how much weight one side is willing to set beneath the marriage so the peace does not collapse at the first bad harvest.
 
-### Hire Mercenaries
-
-The faction buys force outside the ties of blood and custom. Roll with **Hearth + Provision** to see whether the faction can actually sustain the terms, then use the hiring rules in **MERCENARIES OF THE FORBIDDEN LANDS**. If the bargain is chiefly coin, let **Treasury** back the roll. If it is chiefly food, transport, or plunder-share, let **Stores** back it instead.
-
-A faction with **Thin** or **Bare** Treasury may still hire a band. The question is whether it can keep the band after the first promises are spoken. If exact pay matters, use the daily soldier salaries from **BATTLES & SIEGES** for the force being hired and count the price across seven days. A band held under retainer for a full campaign week will usually step **Treasury** down one rating unless the faction has **Deep** Treasury, a rich charter behind it, or captured pay to spend. On a failed hire-sustain roll, the band serves for `D3 + 1` weeks before demanding harsher terms, fresh plunder, or release.
-
-Mercenaries allow a faction to field more force than its own blood, oath, and land would normally support. They also place armed men in the field who are tied first to pay and terms. If pay is late, if plunder thins, or if a better purse appears, expect immediate demands, desertion risk, or local intimidation by the band itself.
-
 ### Spy or Suborn
+
+**TYPE:** Minor act
 
 The faction works quietly inside another power. Roll with **Reach + Intrigue**.
 
@@ -1119,53 +1109,143 @@ On failure, traces are found. The target may advance Feud without needing open p
 
 Use intrigue when the pressure must stay deniable. If public humiliation, open threat, or armed seizure would serve just as well, use another act. Intrigue is for the gatekeeper with gambling debts, the ferryman with two sons under another man's roof, the priest who drinks alone after compline.
 
-### Call Levy
+### Swear Fealty
 
-The faction turns right, fear, or obligation into bodies. Roll with **Force + Muster**. The result does not create men from air. It activates the levy the faction truly has available, up to the limit set by the faction's current **Levy** rating: **None** raises nothing, **Small** raises one contingent, **Ready** raises two, and **Heavy** raises three. See **Retainers, Levy, and Mercenaries** below. On failure, the levy arrives late, thin, or unwilling, and Mandate or Force takes 1 damage depending on why.
+**TYPE:** Major act
 
-When levy is converted to troops for Chapter 12, use Mandate to judge willingness.
+A lesser power binds upward. Roll with **Mandate + Accord**.
 
-| MANDATE | LEVY CONDITION |
+On success, the lesser power becomes **Vassal** or **Ally** as negotiated. Hostages, marriage, or witnessed oaths usually provide **asset rating 1**, or raise an existing relevant asset by 1 to a maximum of **5**. On failure, the negotiation sours, and Feud may advance if either side pushed too hard. Fealty is easiest to win from the afraid, the isolated, or the recently saved. It is hardest to win from a power that still believes it has another road open. If you want the oath to last, say what was promised upward and what was promised back down.
+
+### Take Hostage
+
+**TYPE:** Major act
+
+The faction secures an agreement with a ward, hostage, or important dependent. Roll with **Mandate + Accord** or **Reach + Intrigue**. Use Accord when the hostage is given under terms. Use Intrigue when the hostage is seized or manipulated into place. On failure, the act turns uglier than intended, and Standing falls by 1 with the other party even if the hostage is taken.
+
+**Hostages from Chapter 12.** Hostages taken through siege surrender terms, coercive village collection, or occupation rule count as normal hostage assets under this chapter. They carry the same political weight as any other hostage and interact with Feud, Standing, and occupation checks accordingly. Returning them cleanly — after a truce, on good terms at the end of a campaign — can reduce Feud by 1 or improve Standing by 1 where the fiction supports it. Harming them, losing them through negligence, or executing them under duress worsens Feud or Standing by 1 even if the death was not deliberate: the other side makes no distinction between malice and carelessness when the body comes back.
+
+**Hostage lifecycle.** The rules above handle the taking. Keep track of these states during long campaigns:
+
+- **Escape** — the hostage leaves without formal release. Treat as a failed Take Hostage act with all its Standing consequences.
+- **Rescue** — an enemy raid, intrigue, or field action frees the hostage. This is an enemy act using Reach + Intrigue or a military operation in Chapter 12.
+- **Death by neglect or illness** — the hostage dies in custody through no deliberate act. Treat as hostage harm for Standing and Feud purposes unless the holding faction can demonstrate the death was beyond their control and the other side accepts that. They usually do not.
+- **Formal return** — the holding faction releases the hostage as part of a truce or political act. Use Send Gift or Bride-Price or Negotiate Truce or Peace to structure the return.
+
+Hostage-based terms remain strong only while both sides are certain the hostage is alive, identifiable, and still under the agreed control. Let messages, visits, tokens, and rumors matter. If no one has seen or heard from the hostage in months, treat the compact as weakened and raise the difficulty of any act that depends on that hostage by 1 until proof is shown.
+
+---
+
+## Fallout
+
+Failure must bite. A failed faction act should never mean only nothing. It should leave a colder village, a bolder rival, a damaged road, a compromised hostage, or some other change the table can point to when the next turn begins.
+
+Use the list inside each act first. If you want sharper color fast, roll or choose on the table below when a faction act fails.
+
+| D66 | FALLOUT ON A FAILED ACT |
 | --- | --- |
-| **5** | eager or well-backed levy; if the settlement or troops already merit a quality bonus, keep it |
-| **3-4** | ordinary levy; no extra change |
-| **2** | reluctant levy; remove one quality edge or reduce willingness in the fiction |
-| **1** | fraying levy; remove one quality edge and treat morale as brittle from the first hard reverse |
+| 11-13 | One settlement's Standing falls by 1. |
+| 14-16 | A local notable delays, stalls, or answers only on paper. |
+| 21-23 | Feud advances by 1 with the most injured party. |
+| 24-26 | One useful witness, priest, reeve, or captain turns cold. |
+| 31-33 | One asset loses 1 rating, or a prepared advantage is exposed before it can be used. |
+| 34-36 | The faction must spend coin, grain, or labor just to stop the failure spreading. Step down **Treasury** or **Stores**, or tie up **Labor** for the next turn. |
+| 41-43 | A rival gains the right to answer with one minor act immediately in the fiction. |
+| 44-46 | Rumor outruns the truth. The next related **Accord**, **Claim**, or **Decree** act takes +1 difficulty. |
+| 51-53 | The work partly succeeds, but one relevant pillar takes 1 damage. |
+| 54-56 | A dependent settlement pays, obeys, or yields now, but becomes cold or obstructive afterward. |
+| 61-63 | A hostage, treaty term, convoy promise, or sworn right is now openly doubted. |
+| 64-66 | The failure names a face. Choose one person who now bears the grudge and begins acting on it next turn. |
 
-Every extra week of levy service is paid twice: once in the field and once at home. Fences go down. Lambing is missed. Mill work slows. A ruler who keeps levy too long may still win the campaign and come home to poorer villages, harder faces, and fewer sons willing to answer next spring.
+When in doubt, choose the fallout that creates the next human problem rather than the neatest accounting result. A lost point of Standing matters most when it means one gate now opens after dark instead of before, one elder delays sending word, or one vassal's son begins listening to the wrong men in the alehouse.
 
-### Raid
+## Burden
 
-The faction hits a road, farm belt, granary, ferry, shrine, or outwork without committing to full battle. Roll with **Force + Assault** or **Reach + Watch**. Use Assault for direct violence. Use Watch when the raid is really a sharp interception or border bite. On success, choose one:
+Campaign burden is what a faction takes once war, mustering, or occupation has begun. Use the burden ceilings already established in **BATTLES & SIEGES**. Campaign burden is counted over **seven consecutive days**. When a settlement provides three times its population in supplies, that total is the outer acceptable pull for one campaign week before real local harm begins.
 
-- reduce enemy Stores one step
-- worsen enemy Standing by 1 in one settlement
-- advance Feud by 1 in your favor
-- seize immediate goods or labor
+A settlement can be asked, per week, for up to **three times its population in supplies** without immediate collapse, up to **five times its population in copper** as the outer acceptable cash demand, and more than that only by destructive over-extraction.
 
-On failure, the raid bloodies itself, hits the wrong place, or hardens resistance instead.
+Chapter 11 decides **who is asked** and **what it costs politically**. Chapter 12 tells you the hard physical ceiling. A village can survive one week of hard taking and still look whole from the road. It may take a season for the truth to show itself in pawned tools, thin seed grain, daughters married badly for bread, or three households slipping away before dawn with what animals they can still drive.
 
-A raid is often more political than it first appears. Burning a granary says one thing. Driving off cattle says another. Hanging two ferrymen where the river villages can see them says a third, and that message may outlast the goods taken. Choose targets according to what the raiding faction wants remembered: weakness, reach, vengeance, or simple hunger.
+### Burden Levels
 
-### Invest a Place
+| BURDEN | EFFECT |
+| --- | --- |
+| **Light** | no immediate harm; the settlement still lives its own life |
+| **Hard** | Standing -1 unless the settlement is fiercely loyal; next Settlement Turn worsens by 1 |
+| **Crushing** | Standing -2, Feud +1, one household or local power holder gains Need +1 or Heat +1 if you use village play |
+| **Ruinous** | use the starvation, collapse, and deterioration rules from Chapter 12 immediately |
 
-A faction begins siege, encirclement, or coercive isolation. Roll with **Force + Siegecraft**. On success, the place is under investment. From the next Campaign Week onward, apply campaign burden and supply pressure. If both sides are actually in position and the action becomes open siege, go to **BATTLES & SIEGES**.
+**Hard** burden is the point where ordinary rule begins to taste like occupation. **Crushing** burden is where names are remembered. If you are unsure whether the demand crossed the line, ask who will still speak for the faction after the wagons leave.
 
-Investment begins before the walls are tested. Roads are watched. Mills are denied. Fields nearest the place are stripped. Families inside count their meal sacks and try to guess whether relief will come before the first horse is slaughtered for meat. Even a short investment changes politics around the target, because nearby villages must decide whom they feed, what they hide, and which side will remember them afterward.
+When a burden-linked roll fails — requisition, occupation enforcement, campaign extraction, or any other act whose real cost falls on the settlement — roll or choose on this table.
 
-### Negotiate Truce or Peace
+| D66 | BURDEN FAILURE |
+| --- | --- |
+| 11-13 | One household flees by night with tools, animals, or seed. |
+| 14-16 | Grain is hidden, spoiled, or carried off before the carts arrive. |
+| 21-23 | Standing falls by 1 in the burdened settlement and one nearby place hears of it. |
+| 24-26 | A ferryman, miller, smith, or carter refuses service until protected or bribed. |
+| 31-33 | One child, elder, or sick dependent dies of neglect, and the village remembers the name. |
+| 34-36 | One local notable begins quiet resistance: false tallies, delayed wagons, or bad directions. |
+| 41-43 | Feud advances by 1, or an occupied settlement edges toward open revolt. |
+| 44-46 | One road, ferry, byre, mill, or storehouse is sabotaged. |
+| 51-53 | The burden spreads. One nearby settlement must also be tested or worsens by one burden step. |
+| 54-56 | Levy willingness drops. The next **Call Levy** from this ground takes +1 difficulty. |
+| 61-63 | Disease, hunger, or burial failure begins to spread. Damage **Hearth** unless real relief is sent at once. |
+| 64-66 | The settlement openly seeks another protector, patron, or enemy of your enemy. |
 
-A faction tries to stop a feud before it becomes ruinous. Roll with **Mandate + Accord**. Difficulty is the current Feud step. On success, reduce Feud by 1. With 2+ extra successes, reduce it by 2 if real concessions were made. On failure, the enemy reads weakness, stalling, or dishonor.
+## Handoff
 
-Real peace in a land like this requires hostages, marriages, witnesses, crossing rights, compensation, or some other concession both sides can point to afterward. If nothing substantial changes hands, record the result as a short truce rather than a settled peace.
+When a struggle leaves this chapter and passes into **BATTLES & SIEGES**, make one handoff roll for each faction that matters. This is the last political truth before the field begins to speak for itself.
 
-### Failure Must Bite
+The GM chooses the pairing that best reflects what must hold together for the host to arrive in fighting order:
 
-A failed political act should never mean only nothing. On failure, choose or roll a real consequence: Standing falls, a lesser power stalls openly, a rival gains ground, Feud advances, an asset is strained, a settlement pays but grows cold, or the work succeeds only at pillar damage after a push.
+- **Force + Muster** if the real question is whether men answer and form cleanly
+- **Reach + Relay** if the real question is roads, couriers, reserves, and timing
+- **Hearth + Provision** if the real question is supply, carts, fodder, and who can still eat
+- **Mandate + Discipline** if the real question is obedience, cohesion, and whether the host still believes in the hand above it
 
-Use failure to create the next concrete problem rather than a vague sense that the plan went badly. A failed act should leave a colder village, a bolder rival, a damaged road, a compromised hostage, or some other change that the players and GM can point to when the next turn begins.
+On success, the faction enters Chapter 12 in the state it earned. With extra successes, choose one: the first ordinary supply strain is ignored, one contingent arrives in good order and does not suffer opening confusion, or one first morale test in the opening battle or siege counts one step easier.
 
-When in doubt, choose the consequence that creates the next human problem rather than the neatest accounting result. A lost point of Standing matters most when it means one gate now opens after dark instead of before, one elder delays sending word, or one vassal's son begins listening to the wrong men in the alehouse. The GM should always be able to point from the sheet to a face, a road, a barn, or a grave.
+On failure, the passage into war is crooked. Roll or choose on the table below.
+
+| D66 | FAILED HANDOFF |
+| --- | --- |
+| 11-13 | One contingent arrives late. It cannot act in the first opening exchange unless the fiction strongly favors it. |
+| 14-16 | Carts, fodder, or reserve food go missing. **Stores** step down before the first week is done. |
+| 21-23 | One captain disputes the order of march, deployment, or command. The faction begins with one cold subordinate. |
+| 24-26 | Scouts fail, and the enemy learns more of your movement than you learn of theirs. |
+| 31-33 | One road, ferry, ford, or bridge on the intended line fails at the wrong hour. The first related movement or reinforcement takes +1 difficulty. |
+| 34-36 | One levy contingent arrives thin, angry, or badly armed. Remove one quality edge if it had one. |
+| 41-43 | Fear outruns command. One nearby settlement worsens Standing by 1 when the host passes through. |
+| 44-46 | Camp discipline is loose before the first clash. Theft, brawling, or premature plunder shames the banner. |
+| 51-53 | The enemy reaches the ground first. Treat the foe as better positioned when Chapter 12 opens. |
+| 54-56 | A rumor of bad omens, broken oath, or failed rite spreads through the host. Damage **Mandate** or **Force** by 1. |
+| 61-63 | One named captain, guide, priest, or courier is absent when needed most. |
+| 64-66 | The campaign begins already divided: choose two lesser failures above, or one and immediate Feud +1 in the rear. |
+
+## Revenue
+
+> _The grain was measured in silence. That was the part the steward hated most. Not the sacks. Not the arguments. The silence of a household watching the scale and knowing the hand on the other side had counted their winter before they did._
+
+A stable power does not collect at war rate. It collects through custom, memory, and the village's wish to avoid worse hands than the collector's. Ordinary revenue is therefore dangerous to mishandle. Once people feel that every visit from the hall takes more than custom allows, they stop reading the collector as part of rule and start reading him as the first man of an occupation.
+
+Revenue is the regular income a settlement can still recognize as part of the known order, even if it dislikes paying it: tax, rent, tithe, toll share, labor days, wagon service, shelter rights, and market percentages. Use **Collect Due** to gather it. Use **Yield** to judge how hard the faction can press before next season is poorer than this one.
+
+A short payment is not just arithmetic. It means some household hid sacks under wet hides, some widow swore the sheep died of rot, or some reeve decided this was the season to learn how much weakness lived in the lord across the river.
+
+Over-collection has visible costs, and those costs are usually delayed just long enough to tempt a foolish ruler into thinking he got away with it. Standing falls. Mandate is damaged. Feud advances. Future levy weakens. Trade turns away. Villagers hide stores, flee, or invite a rival power in.
+
+Do not make the political cost vague. Name the harmed household, the shuttered market, the empty byre, the closed gate. A ferryman whose daughter went hungry remembers. The steward who had to choose which widow paid full remembers. The village that smiled and handed over grain this month may already be measuring whether another banner, an outlaw band, or a shrine with sharper promises would cost less next winter.
+
+## Tribute
+
+Tribute is not ordinary revenue. It is payment extracted because refusal costs more than payment. Use **Mandate + Accord** or **Hearth + Yield** when tribute is recognized and grudgingly accepted. Use **Force + Assault** or **Mandate + Decree** when tribute is imposed by open pressure.
+
+Toll rights sit close to tribute but are not the same thing. A toll road relies on **Reach + Traffic** and must be made real by patrols, ferrymen, collectors, and visible enforcement. Without them it is only a place where armed men take coin until someone stronger arrives.
+
+Treat tolls and tribute as a question of legitimacy every time. A ferryman pays one lord because his father did, another because that lord keeps raiders away, and a third because spears are already on the bank and arguing would only get his sons beaten. The money may look the same in the chest, but the obedience behind it is different in each case, and that difference matters the first time the road goes dangerous.
 
 ---
 
@@ -1226,14 +1306,14 @@ Stronghold functions matter because troops do not improve by declaration alone. 
 
 | FUNCTION OR HOLDING | WHAT IT IMPROVES |
 | --- | --- |
-| **Barracks / Quarters** | larger permanent garrison |
-| **Training Grounds** | better infantry quality |
-| **Shooting Range** | skirmishers, bowmen, crossbowmen |
-| **Stables / Pasture** | cavalry, mounted couriers, mounted pursuit |
-| **Forge / Mine / Market** | reliable arms, armor, upkeep |
-| **Temple / Shrine** | fanatics, oath men, cult levy, holy sanction |
-| **Road / Bridge / Ferry / Dock** | concentration speed, supply, messenger work |
-| **Walls / Keep / Tower** | stronger garrison posture, siege capacity |
+| BARRACKS / QUARTERS | larger permanent garrison |
+| TRAINING GROUNDS | better infantry quality |
+| SHOOTING RANGE | skirmishers, bowmen, crossbowmen |
+| STABLES / PASTURE | cavalry, mounted couriers, mounted pursuit |
+| FORGE / MINE / MARKET | reliable arms, armor, upkeep |
+| TEMPLE / SHRINE | fanatics, oath men, cult levy, holy sanction |
+| ROAD / BRIDGE / FERRY / DOCK | concentration speed, supply, messenger work |
+| WALLS / KEEP / TOWER | stronger garrison posture, siege capacity |
 
 If the holding is not there, do not let the faction field the improved troop as though it were.
 
@@ -1260,13 +1340,13 @@ When you hand a faction to **BATTLES & SIEGES**, use this logic so the politics 
 
 In this chapter, a **contingent** is the political source of men. In Chapter 12, that contingent becomes a **troop** once its exact size and quality are set.
 
-- **Village levy** becomes levy infantry or skirmishers.
-- **Large village with Training Grounds** becomes trained infantry.
+- **Village Levy** becomes levy infantry or skirmishers.
+- **Large Village with Training Grounds** becomes trained infantry.
 - **Town with Shooting Range** adds trained skirmishers.
-- **Stable or horse-rich land** can add cavalry.
-- **Mercenary band** contributes the troop type its own chapter says it truly is.
-- **Shrine-raised zealots** may count as fervent troops where appropriate.
-- **Undead, cult, or monstrous power** converts according to the creature or troop entries of Chapter 12.
+- **Horse-Rich Land** can add cavalry.
+- **Mercenary Band** contributes the troop type its own chapter says it truly is.
+- **Shrine-Raised Zealots** may count as fervent troops where appropriate.
+- **Undead, Cult, or Monstrous Power** converts according to the creature or troop entries of Chapter 12.
 
 If a faction's **Mandate** is low, reduce levy quality or willingness. If **Force** is low, reduce numbers or remove reserve. If **Reach** is low, have one contingent arrive late or split. If **Hearth** is low, begin the campaign with worse supply or weaker repair. A single contingent is enough to use Chapter 12 if it is facing another formed force, but a faction built on one troop alone cannot sustain long Campaign state without quick reinforcement, easy retreat, or outside support.
 
@@ -1386,11 +1466,11 @@ To run occupation well, track where the occupier still depends on the people it 
 
 Move into **BATTLES & SIEGES** when two real armies are in position to fight, when a place is fully invested and the next question is wall, gate, or relief, when supply lines and quarter-day army movement matter more than faction acts, or when the PCs are acting as generals, champions, or officers inside a battle.
 
-Feud at **4: Mustered War** does not always mean Chapter 12 has begun. It means armies are gathered and war is openly intended. If both sides still maneuver, threaten, raid, negotiate, or try to break the other's support before committing, remain in Chapter 11. Move to Chapter 12 only when the matter is about to be decided by battle, siege, or relief in the field.
+A feud in the **Mustered War** state does not always mean Chapter 12 has begun. It means armies are gathered and war is openly intended. If both sides still maneuver, threaten, raid, negotiate, or try to break the other's support before committing, remain in Chapter 11. Move to Chapter 12 only when the matter is about to be decided by battle, siege, or relief in the field. When you cross that threshold, make the **Handoff** roll first.
 
 Stay in Chapter 11 while the struggle is still being decided by oaths, roads, stores, hostages, and village obedience. Move to Chapter 12 once formed bodies in the field are about to decide the matter by battle, siege, or relief.
 
-### What Chapter 11 Exports
+### What the Host Carries to War
 
 Before Chapter 12 begins, know these things. An army does not appear from nowhere, and two hosts with the same troop count can behave like entirely different forces if one is fed by willing towns and the other is dragging itself forward on frightened levy and late pay. Know who the general is, which named captains or officers are present, what contingents and troop types are fielded, what quality they are, what base feeds them, what line of supply connects base to army, whether nearby settlements are feeding willingly or under force, and whether the troops are levy, retainers, mercenaries, zealots, or monsters.
 
@@ -1418,6 +1498,58 @@ Then set the status of every settlement that changed hands during the campaign u
 Do not skip reckoning. Any loss not counted here should return later as weaker levy, colder Standing, damaged holdings, mutiny risk, or renewed feud.
 
 This is also where the GM should apply the political cost of a campaign that looked successful on the field but damaged the ruler's support base. A victorious ruler may still return to tribute villages on the edge of refusal, a ruined bridge, and veterans who no longer answer as cleanly as before. Use reckoning to carry those results back into ordinary faction play.
+
+#### Hungry Ground
+
+War eats next season first. Any settlement that was pillaged, burdened at **Crushing** or worse, or stripped to keep a host alive must be tested at the start of the next **Season Turn** with **Hearth + Relief**.
+
+| DIFFICULTY | CONDITION |
+| --- | --- |
+| **1** | the settlement lost one week of ordinary production |
+| **2** | the settlement was pillaged, burned lightly, or held under hard burden |
+| **3** | the settlement was sacked, starved, or left with broken mills, dead draft animals, or lost seed |
+
+On success, the place limps through. On failure, reduce local output, worsen Standing by 1, and treat the first due collected there next season as one step harder. A second failed season in the same place damages **Hearth** for the ruling faction unless real relief, seed grain, or remitted dues are sent.
+
+#### Men Come Home Hard
+
+Soldiers do not walk back through the gate and become ploughmen by sunset. After any campaign that kept levy or retainers in the field for two weeks or more, test each heavily used ruled settlement with **Mandate + Accord** or **Force + Discipline**.
+
+On success, the men come home tired but governable. On failure, choose one:
+
+- brawling, extortion, and knife-feuds break out among returning men
+- one band of veterans refuses ordinary labor and drifts toward outlaw life
+- one named captain, sergeant, or shrine-firebrand becomes a harder local power than before
+- the next levy call from that settlement takes +1 difficulty
+
+If soldiers return unpaid, hungry, or ashamed after defeat, choose two instead.
+
+#### Dear Markets and Thin Shelves
+
+War makes goods dear before the smoke is gone. In any district touched by siege, sack, heavy requisition, or broken roads, treat common availability as one step worse for one full season after the war. Iron, salt, draft beasts, wagon parts, and milling service are the first things to bite.
+
+If you prefer price to availability, raise ordinary prices by half in the damaged district instead. Use both only when the land is plainly broken and traders fear the road.
+
+#### Broken Works
+
+Destroyed infrastructure keeps wounding the land until it is repaired.
+
+| BROKEN WORK | UNTIL REPAIRED |
+| --- | --- |
+| bridge, ferry, ford works | the first related **Relay** or **Traffic** act each turn takes +1 difficulty |
+| mill, granary, bakehouse | the first related **Yield** or **Provision** act each turn takes +1 difficulty |
+| forge, yard, stable | one troop improvement, repair effort, or remount question is delayed or weakened |
+| wall, gate, tower | the first occupation, defense, or local coercion question in that place starts one step worse |
+
+Repair does not happen by declaration. It needs **WORKS**, labor, material, and time.
+
+#### Tainted Ground
+
+War leaves places hungry for worse things. A battlefield thick with unburied dead, a burned village full of grief, a plague camp, or ground scorched by sorcery may begin drawing monsters, undead, or demons more readily than ordinary country.
+
+For one full season after a massacre, sack, demon-work, or openly corrupt war, the GM may treat the place as cursed ground for encounter purposes. Roll twice for local encounter pressure and keep the harsher result, or add one unnatural sign even if no creature appears: lights over graves, beasts born wrong, carrion that will not leave, dreams that spread from house to house, or whispers from ditch water after dark.
+
+Ground like this is quieted only by burial, cleansing rites, relief work, and time. A full quiet season may be enough. A place soaked in demon-work usually wants more.
 
 A campaign is only complete when you account for the ground it passed over.
 

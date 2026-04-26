@@ -137,6 +137,15 @@ The shared qualities are:
 - emotional restraint
 - low tolerance for fluff
 
+Rule voice is not technical voice.
+
+The manuscript can be direct, procedural, and exact without sounding like a
+specification, export note, design memo, or systems document. Headings and
+lead-ins such as `default classifications`, `exports`, `inputs`, `outputs`,
+`module`, `state change`, or similar technical scaffolding do not belong in
+final manuscript prose. Rules should sound like this book teaching play, not
+like a backend document explaining itself.
+
 ## Tone
 
 The world is dangerous, old, and intimate.
@@ -345,6 +354,7 @@ Rules prose should:
 - give the effect cleanly
 - name the exceptions only when needed
 - keep examples brief and useful
+- stay direct without slipping into technical-document language
 
 Rules prose may carry atmosphere, but never at the cost of procedure.
 
@@ -361,6 +371,7 @@ Do not:
 - hide rules inside flavor
 - invent synonyms for established game terms
 - stack multiple exceptions into one sentence if they can be split
+- use technical labels or headings where ordinary rule language would do
 
 ## Sentence Size And Structure
 
