@@ -98,6 +98,8 @@ A reserve committed to a section does one of two things:
 
 A reserve cannot be committed to a section and also be held for another purpose in the same turn. Once committed, it is part of the line.
 
+If a frontline troop is destroyed before it can make its own attack roll, and a reserve already waits in that section's rear line, the general may throw that reserve in at once. The reserve makes that section's roll in the ruined troop's place, but with 1 fewer advantage die on that roll. Fresh soldiers can close a gap. They do not do it in perfect order.
+
 If a section was emptied on the previous turn and no reserve is committed to replace it on the following turn, that section is conceded. The enemy controls that ground and may pivot inward at the start of the turn.
 
 #### Troop Uniformity
@@ -357,7 +359,7 @@ Resolve each section's clash separately. The concept of simultaneous rolls refle
 
 A section with the edge does not always turn it straight into bodies. Sometimes it buys ground, time, disorder, or the one opening that changes the whole field.
 
-After cancelling opposing advantage successes, spend any successes left as follows. Each named choice may be taken only once per section per turn, including the choice that inflicts direct damage. Successes not spent are lost in the press of the fighting. A choice that refers to the next turn is lost if that section is no longer engaged when the next turn begins. The GM should favor the choices that fit the ground, the troop type, and the weapons in hand.
+After cancelling opposing advantage successes, spend any successes left as follows. Each named choice may be taken only once per section per turn. No section may choose more than one option that inflicts direct damage. Successes not spent are lost in the press of the fighting. A choice that refers to the next turn is lost if that section is no longer engaged when the next turn begins. The GM should favor the choices that fit the ground, the troop type, and the weapons in hand.
 
 **Spend 1 success:**
 
@@ -389,6 +391,8 @@ After cancelling opposing advantage successes, spend any successes left as follo
 Once both sides have rolled and spent their edge, total the damage coming into each troop.
 
 Count 1 damage for each base success, then add any damage created by **Pressing the Advantage**. After that, roll protection dice. Each protection success cancels 1 damage. Each point of damage left removes 1 base die and 1 morale point.
+
+If the troop rolls at least one protection success, reduce the morale loss from that exchange by 1, to a minimum of 0. A line that still trusts its shields or mail holds a little longer.
 
 When a base die is removed, the troop loses one full fighting group: usually twenty infantry or skirmishers, five cavalry, or one monster, or ten defenders on a wall. If the GM keeps an exact muster, reduce it by that amount.
 
