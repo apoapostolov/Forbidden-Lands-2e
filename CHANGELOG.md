@@ -47,8 +47,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - **Corebook — Prose quality improvements across eleven chapters.** Opening and framing prose revised in Chapters 1, 2, 3, 5, 7, 8, 9, 11, 12, and 13 (Front Matter, Your Adventurer, Skills, Combat & Damage, Magic, Journeys, The Stronghold, Appendix, Mercenaries of the Forbidden Lands, Lifepaths of the Forbidden Lands). Filler phrasing, rhetorical ornamentation, and over-articulated observations replaced with direct, physically-grounded prose. Key revisions: kin entry descriptions (Half-Elf, Orc, Rider) rewritten to open on behavior and physical circumstance; the Civilized/Uncivilized framing section tightened and the embedded narrator-apology sentence removed; LORE skill description revised to a single clear statement; Magic chapter opening replaced with concrete grounded language; Stronghold chapter intro's closing rhetorical question removed; Heroic Campaign section in the Appendix reframed to state its register directly; the Mercenaries chapter scope paragraph condensed; the Lifepaths intro and one descriptive bullet reworked to open on specific consequence. No rules content changed.
 
-## [1.1.0] - 2026-04-24
-
 ### Changed
 
 - **Bestiaries — Lore Roll spoiler scaling.** Restructured Lore Roll tables across the Gamemaster's Guide bestiary (Abyss Worm, Bloodling, Ent, Ghost, Giant, Giant Squid, Gryphon, Hydra, Manticore, Sea Serpent, Troll, Wyvern) and the Book of Beasts (Amoeba, Basilisk, Bog Man, Greater Golem, Imp, Iron Dragon, Mara, Mummy, Possessor, Rat King, Rock Troll, Swarming Death, Twisted Ent, Will-o'-the-Wisp, Wolfshadow). Two successes now give a solid in-world hint via songs, warnings, and observations that still requires the players to think; three successes give a more directional hint with narrative effect, no bare mechanic words or spell names.
@@ -63,6 +61,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - **Structure:** Tropes of "the village is attacked" replaced throughout with named NPCs, factional pressures (Iron Guard, Rust Brothers, Raven Sisters, Wyrm cult, Order of the Silent, Howling Path, Meromannian dwarves, Aslene riders), and time-pressure scenarios where every choice has a price.
   - **Resources:** Book 03 resource-gathering notes were expanded into a large section that makes monster parts play a more important role for alchemists and spellcasters.
   - **Harvest:** RESOURCES blocks de-templated and tied to canonical Alchemical Potions where the monster's ingredient is bound (dragon's blood/scale/tooth, troll's blood/tooth/gastric juice, giant spider venom for Porridge of Prophecy, insect-ichor, blackened ent ruby, manticore-line components), with named materials, harvest mechanic per ⚔️ rolled, factional buyers and hunters, and narrative tools (cold-light crystals, bone flutes that command vermin, queen-husks that turn aside swarms, blood-stones that hypnotise weak humanoids, mimic-skins that imitate one voice, binding-tokens that send curses back to the sorcerer who set them).
+
+## [1.0.8] - 2026-04-24
 
 ### Added
 
