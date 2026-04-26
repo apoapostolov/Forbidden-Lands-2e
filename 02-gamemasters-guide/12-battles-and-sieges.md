@@ -30,7 +30,7 @@ When combat between individual characters becomes necessary in the middle of a l
 
 ### The Order of Battle
 
-> *Torkel had twenty years of wars behind him and he arranged his troops the same way every time. Heavy infantry in the center to hold. Light men on the wings to bend without breaking. Skirmishers back far enough to shoot without catching a cavalry charge in the side. He did not explain this to anyone. He expected competent subordinates to read his intention from the disposition of the lines.*
+> *The Alderlander war-captain Torkel had twenty years of wars behind him and he arranged his troops the same way every time. Heavy infantry in the center to hold. Light men on the wings to bend without breaking. Skirmishers back far enough to shoot without catching a cavalry charge in the side. He did not explain this to anyone. He expected competent subordinates to read his intention from the disposition of the lines.*
 >
 > *The problem with this campaign was that no one under him was competent, and the problem before that was that he'd run out of money to hire the ones who were.*
 
@@ -220,9 +220,9 @@ Before the battle roll, each general speaks to their troops. This can be brief �
 
 A general without the words for this may delegate to a Named Man or subordinate commander, but that commander becomes the one rolling.
 
-> *Senna was not a soldier. She was a herald's daughter who knew the difference between the words that move people and the words that only sound like them. She stood in front of the center line with the morning cold and gave Torkel's speech because Torkel had not spoken before a battle in eleven years — since the second campaign, since the pause where he was still finding the next sentence and a man in the fourth row laughed.*
+> *Senna was not a soldier. She was a crier's daughter who knew the difference between the words that move people and the words that only sound like them. She stood in front of the center line with the morning cold and gave Torkel's speech because Torkel had not spoken before a battle in eleven years — since the second campaign, since the pause where he was still finding the next sentence and a man in the fourth row laughed.*
 >
-> *Four successes on PERFORMANCE. Torkel split the morale points: two to the center infantry, one to Galdur's section on the left, one to Idris and the cavalry on the right. Idris did not need the morale. He was going to be fine with or without it. Torkel gave it to him because Idris had held the ford ambush and this was how you kept men loyal without coins.*
+> *Her voice carried clean through the frost. When she was done, Torkel sent the stoutest share of that new steadiness to the center, where the line would have to stand and take the worst of it. Galdur got some on the left. Idris got some on the right. Idris did not need much. Torkel gave it to him anyway because Idris had held the ford ambush and this was how you kept men loyal without coins.*
 
 #### The Challenge
 
@@ -238,13 +238,13 @@ This section may be skipped entirely at the GM's discretion. Not every conflict 
 
 > *The man Vidar sent out was called Haerek. He was very large and he stood in the killing ground between the two armies with a white flag and enough patience to wait for an answer.*
 >
-> *Torkel declined. The refusal cost 2 morale points across his front sections — not much on paper, not nothing in the faces of the men watching. You could see it: those nearest to Torkel stopped leaning forward. Laughter from the Krymark wall carried.*
+> *Torkel declined. The refusal ran the line like cold water. Not enough to break men, but enough to make them shift their feet and look aside. You could see it: those nearest to Torkel stopped leaning forward. Laughter from the Krymark wall carried.*
 >
 > *That evening, Galdur said: "You should have sent me."*
 >
 > *"You would have lost," Torkel said.*
 >
-> *"Maybe. But they would have watched a dwarf stand in front of a man twice his size and not move. That's worth more than two morale points."*
+> *"Maybe. But they would have watched a dwarf stand in front of a man twice his size and not move. That's worth more than hearing them laugh from the wall."*
 >
 > *Torkel had no answer for this and did not pretend to have one, which was one of the things that made him a good general.*
 
@@ -270,15 +270,15 @@ Resolve each section's clash separately. The concept of simultaneous rolls refle
 
 > *Vidar's first sortie out of Krymark's south gate came on the third morning, when Holk's crew was still unloading timber for the catapult frame. Sixty infantry in chainmail and shields — the idea was to burn the equipment before it was built.*
 >
-> *Torkel's center: 80 soldiers with polearms and leather armor, Galdur's thirty dwarves folded in. Three base dice for the numbers. Two advantage dice — well-trained, and the Dwarf infantry bonus. One protection die for the leather.*
+> *Torkel's center was eighty soldiers with polearms and leather, with Galdur's thirty dwarves folded in to stiffen the line.*
 >
-> *Vidar's sortie: sixty men in chainmail and shields, well-trained. Three base dice. One advantage die. Three protection dice.*
+> *Vidar sent sixty men in chainmail and shields, fast enough to reach the timber if no one stopped them.*
 >
-> *Torkel's center rolled 6, 4, 1 on base dice — two successes, one demoralization — and 3, 5 on advantage — one success. Vidar's infantry rolled 5, 2, 6 on base — two successes — and 4 on advantage — nothing. Protection rolled 4, 2, 3 — one success.*
+> *The first crash went harder for Torkel than Vidar expected. The center took the sortie in the mud, the dwarves locked the line, and men started dropping before they had reached the frame.*
 >
-> *Result: Torkel's 2 base and 1 advantage against their 1 protection: 2 damage to the sortie. Forty men, approximately. The 1 on Torkel's base dice: he had one morale point on this section from Senna's speech. He spent it. No one ran.*
+> *By the time the first push had spent itself, near forty of Vidar's men were down, broken, or stumbling back toward the gate. A knot of Torkel's front rank had begun to waver under the return blows, but the courage Senna had put into them held. No one ran.*
 >
-> *Vidar's 2 successes against Torkel's 1 protection die — rolled 6. One damage absorbed. One damage still lands. One of Torkel's base dice gone. Twenty men.*
+> *Vidar's men still took a bite out of the center before they were thrown back. Twenty of Torkel's soldiers were gone from the line by the end of the first quarter hour.*
 >
 > *First fifteen minutes. The dwarves had not broken. The catapult would be built.*
 
@@ -302,11 +302,11 @@ Within 1D3 days following a battle in which this order was given, roll one D6 fo
 
 This is a real order. It has been given. It works. What follows is a separate problem.
 
-> *In the third battle turn, two 1s came up on the center's base dice in the same roll. Torkel had no morale points left on that section — they had been spent in turns one and two. Twenty soldiers ran. The rear-line troops let them go. Torkel had not given the Death to Cowards order.*
+> *By the third push the center had spent what heart Senna had put into it. Then the line rippled and twenty soldiers went to the rear all at once. The rear-line troops let them go. Torkel had not given the Death to Cowards order.*
 >
 > *He had considered it. He decided that executing his own men in front of the survivors would cost him more in the next engagement than losing twenty men cost him in this one. This calculation was correct. He had not made it quickly, and the time it took said something about the kind of general he had been in his second campaign.*
 >
-> *The section held on four base dice instead of five. It held for two more turns, which was enough.*
+> *The section held with a gap where another rank should have been. It held through two more hard exchanges, which was enough.*
 >
 > *Brec was in it for all five. Afterward he could not account clearly for turns three and four. He remembered the press, the man on his left going down, the man on his right filling the space without being told to. He did not remember the soldiers who ran. That was not cowardice. That was how the mind manages what it cannot use.*
 
@@ -352,7 +352,7 @@ Pursuit is a choice, not an obligation. The general who orders it wins that flan
 
 > *Idris broke Vidar's cavalry on the right flank in the fourth turn. He ordered pursuit without asking Torkel.*
 >
-> *The pursuit roll: Idris's Aslene riders — 2 base dice, 2 advantage — against the routing cavalry's 1 remaining base die. Three successes to one. Vidar's horse was gone — not retreating, not regrouping, scattered.*
+> *Idris's Aslene riders ran them down in the open and did not look back until Vidar's horse was gone — not retreating, not regrouping, simply scattered.*
 >
 > *Torkel's center took two damage in that turn without cavalry on the flank. Three men died in those fifteen minutes who would not have died if Idris had wheeled instead of chased. Idris did not learn about the three men until the following day. He would have made the same decision again. Whether that was correct is a question each general answers for themselves, ideally before the pursuit begins.*
 
@@ -370,7 +370,7 @@ A general who chooses to withdraw — ceding the field rather than fighting to d
 
 > *On the second engagement, Torkel called the retreat at the end of turn five.*
 >
-> *Four successes on PERFORMANCE. Three sections withdrew in good order — cavalry first, center infantry second, the left flank walking backward with shields raised. Galdur's dwarves on the left had not heard the signal in time. They made their morale roll and lost two dice before the order reached them through the noise.*
+> *The order was heard cleanly by three sections — cavalry first, center infantry second, the left flank walking backward with shields raised. Galdur's dwarves on the left had not heard the signal in time. By the time the order reached them through the noise, men had already been cut down or scattered from the line.*
 >
 > *Torkel left a rearguard of thirty infantry at the tree line. He did not explain what he was asking — a rearguard that understands its situation too clearly sometimes runs before the cavalry is clear. He told them to hold until the horn sounded twice.*
 >
@@ -464,11 +464,11 @@ If the army must move before the 3 days are complete, the partial works provide 
 
 Terrain is not secret. Both generals see the same ground. What matters is who uses it.
 
-> *The INSIGHT roll before Krymark's south field: Torkel rolled two successes, Vidar one. Torkel placed last — he saw where Vidar's lines were standing before he committed his own.*
+> *Before Krymark's south field, Torkel held his line back until he had seen where Vidar meant to stand. Vidar committed first. Torkel read the ground better.*
 >
-> *Vidar's infantry held the ridge above the ford. High ground, 1 advantage die, and anyone advancing on them came uphill and wet. Torkel accepted this for the center. He sent Idris's cavalry to the right, where the ground was flat and open. He moved Galdur's dwarves to the left, where the marsh would slow horses but not infantry. He accepted that the center would bleed climbing the ridge and arranged the wings to make that bleeding worthwhile.*
+> *Vidar's infantry held the ridge above the ford. Anyone advancing on them went uphill and through wet ground. Torkel accepted that for the center. He sent Idris's cavalry to the right, where the ground was flat and open. He moved Galdur's dwarves to the left, where the marsh would slow horses but not infantry. He accepted that the center would bleed climbing the ridge and arranged the wings to make that bleeding worthwhile.*
 >
-> *Idris descended from the far ridge at a gallop on turn two — the high ground charge D6 bonus on top of his standard dice. It was not a subtle maneuver. The right flank of Vidar's line had never faced Aslene cavalry on open ground before and it showed in the way they received the charge, which was badly.*
+> *Idris descended from the far ridge at a gallop in the second exchange, coming downhill with the whole slope under his horses. It was not a subtle maneuver. The right flank of Vidar's line had never faced Aslene cavalry on open ground before and it showed in the way they received the charge, which was badly.*
 
 #### Weather
 
@@ -499,9 +499,9 @@ To advance troops in darkness without disorganization, the attacking general mus
 
 > *The night attack on the south wall was Senna's idea. She acknowledged she was wrong about it before Torkel did, which was the quickest she had ever been wrong about anything.*
 >
-> *Torkel's SCOUTING roll to advance in darkness: 4, 1. One success, one failure. Two base dice of center infantry never found the rally point. They were in the wrong field when Krymark's sentries heard a horse shift and raised the alarm.*
+> *Torkel got most of the center to the rally point, but not all. Forty men never found it. They were in the wrong field when Krymark's sentries heard a horse shift and raised the alarm.*
 >
-> *Torches lit inside two minutes. Lit walls, unlit attackers: the defenders dropped their advantage halving from the second turn onward. Torkel's soldiers entered the assault with half their advantage dice and two fewer base dice than planned, and they were cold, and they had been walking in the wrong direction for an hour.*
+> *Torches lit inside two minutes. After that the men on the wall could see clearly enough while Torkel's soldiers were still feeling their way in the dark. The attackers went in thinned, half-blind, and colder than they should have been, after an hour spent walking in the wrong direction.*
 >
 > *No section fell. Three ladders burned. Holk recorded the ladders in his accounts and mentioned them at every meeting afterward, not in anger, simply as a number that needed to appear somewhere.*
 
@@ -515,9 +515,9 @@ Feigned retreat may be attempted once per troop per battle. Infantry cannot exec
 
 > *Vara commanded the Aslene skirmishing cavalry on Torkel's right in the second engagement. When Vidar's cavalry pressed her riders back, she let them press — just raggedly enough to look like a line about to break. The officer following her was Vidar's subordinate, not Vidar, and he had more enthusiasm than patience.*
 >
-> *Vara's PERFORMANCE against his INSIGHT: three successes to two. The feigned retreat held. She wheeled at the treeline, her riders already drawing. The cavalry pursuing her took a volley they had not anticipated and then Idris's flanking attack, which they had anticipated even less.*
+> *Vara sold the lie and he bought it. She wheeled at the treeline, her riders already drawing. The cavalry pursuing her took a volley they had not anticipated and then Idris's flanking attack, which they had anticipated even less.*
 >
-> *The free D8 pursuit die did not count against her base dice cap. The cavalry section she hit was already wounded from the volley. It was done in two turns.*
+> *The first shock of her turn cut deeper than it should have. The cavalry section she hit was already wounded from the volley. It was done in two turns.*
 >
 > *Her father had taught her the maneuver with one rule: use it only when you are already certain, not when you need the outcome to save you. She had used it twice in her career. Both times she had been certain. This was the second time.*
 
@@ -541,9 +541,9 @@ An ambush is not a battle. It is an arrangement — one side already in position
 >
 > *Vara set the ambush on day three of the approach. She had sixty riders in the tree line and four hours of patience. The convoy's outriders passed within fifty meters of her line. She waited until the wagons were fully in the valley.*
 >
-> *SCOUTING roll: four successes.*
+> *She set it clean. No one saw them.*
 >
-> *Free first turn. The outriders had no warning and could not roll. Vara's skirmishers rolled from the trees. The thirty guards had two turns of volleys before they could form sections and answer.*
+> *The outriders had no warning. Vara's skirmishers loosed from the trees before the convoy had even begun to form. The thirty guards took two hard volleys before they could dress a line and answer.*
 >
 > *No wagons were captured. By the time the guards assembled and the relieving cavalry were visible on the ridge, four guards were dead, two were already riding for help, and Vara was withdrawing.*
 >
@@ -609,11 +609,11 @@ The objective can be abandoned at any time. A new tunnel can begin.
 
 **Important Character inside a collapsing tunnel.** If the tunnel collapses while an Important Character is inside, they are Broken immediately. After the battle, roll D6 using the Wounded Important Characters table. On a result of 1, they die. The tunnel collapse is equivalent to a troop defeat for the purposes of this character.
 
-> *Holk's catapult was finished on day eleven — three days past the original estimate, because on day four two timber beams split, and on day seven a stone dropped from Krymark's south tower broke the arm assembly. His rank 2 Engineer talent had taken the standard fourteen-day build down to eleven, rounding up.*
+> *Holk's catapult was finished on day eleven — three days past the original estimate, because on day four two timber beams split, and on day seven a stone dropped from Krymark's south tower broke the arm assembly. Even so, Holk's hands shaved time off the work that would have taken other men longer.*
 >
-> *First firing: 4 attack dice at dawn. One success. The southeast wall section lost one of its two advantage dice. Second day: two successes. The section was stripped. Defenders in that stretch no longer attacked first and had no advantage dice to contribute.*
+> *First firing at dawn took one bite from the southeast wall. The second day took the rest. Men on that stretch no longer held the height as they had before, and the wall there stopped giving them the same cruel edge.*
 >
-> *Vidar sent a sortie on the third night, targeting the catapult. Two of Holk's crew were killed. A third was taken and not recovered. Holk spent the next morning training replacement soldiers on equipment they could break with a wrong lever. Without him present, the catapult would fire 1 attack die instead of 4. He did not leave the machine for the rest of the siege, which was not in his original contract and which he billed for separately.*
+> *Vidar sent a sortie on the third night, targeting the catapult. Two of Holk's crew were killed. A third was taken and not recovered. Holk spent the next morning training replacement soldiers on equipment they could break with a wrong lever. Without him there the machine would have thrown more hope than stone. He did not leave it for the rest of the siege, which was not in his original contract and which he billed for separately.*
 
 #### Engineers
 
@@ -715,9 +715,9 @@ Defenders who wait behind walls surrender the initiative. A general with enough 
 
 > *Vidar's second sortie came on day eighteen. The first had been turned back at the catapult. The second came not for the catapult but for the crew.*
 >
-> *Twenty soldiers, light armor, no shields. They moved fast. Torkel's skirmishers had been watching the south field for three days and had them in range before they crossed the cleared ground. Three turns of open-field combat before the sortie hit the catapult line. The sortie won by three successes.*
+> *Twenty soldiers, light armor, no shields. They moved fast. Torkel's skirmishers had been watching the south field for three days and had them in range before they crossed the cleared ground. Three volleys hit them before they reached the catapult line. They came on anyway and hit hard enough to reach the machine.*
 >
-> *They reached the machine. Rolled their base dice against the arm assembly — one success. One attack die gone. The catapult went from four dice to three.*
+> *They hacked one spar half through and smashed part of the arm assembly. The catapult never threw with the same bite again.*
 >
 > *They killed two engineers. One was not Holk.*
 >
@@ -767,9 +767,9 @@ These rolls are independent. A troop starving for three days is rolling base dic
 
 > *Day nineteen. The supply numbers said two days of grain at current consumption. Torkel designated two infantry sections unfed — not because the supplies were gone but because they would be in two days, and the cavalry could not be short-rationed and remain cavalry.*
 >
-> *The unfed sections suffered demoralization on results of 1 and 2 on their base dice, not only 1s. Any enemy troop fighting them gained 2 advantage dice outside the cap. A real penalty. Torkel knew it and made the decision anyway, which was the right decision and still a bad one.*
+> *The unfed sections went brittle at once. Men who would have held yesterday began looking over their shoulders, and any enemy pressing them found the work easier. Torkel knew that before he gave the order. It was the right decision and still a bad one.*
 >
-> *Day twenty: desertion. Each starving section's base dice rolled. A 1 was a deserter — that die removed permanently. One die gone from the nearer section. Six men.*
+> *Day twenty: desertion. Men slipped away before dawn. The nearer section lost six.*
 >
 > *The supply wagon from Thornwall arrived on day twenty-one. Two men from the starving sections were dead by then — cold ground, hunger the contributing cause. They were recorded in the official account as lost to illness.*
 >
@@ -851,11 +851,11 @@ After a disease fully clears (all dice removed), run the outbreak check again at
 
 > *Day thirty-one: the camp physician found the first case in the east trench — one man, high fever, the cough that started in the chest.*
 >
-> *End-of-week check: one die per 100 soldiers. Torkel had 190, so two dice rolled. One came up 1. One disease die entered play.*
+> *By week's end the cough had not stayed with one man. The sickness had found another hold in camp.*
 >
-> *Following week: the disease die rolled 6. No dead, but a second disease die added. Two disease dice. The week after: one die rolled 1 — ten dead — the other rolled 3 and was removed.*
+> *The following week it bred faster than it killed. The week after that it took ten men and loosened its grip nowhere else.*
 >
-> *Inside Krymark, Vidar had no sewer. When his disease dice spread, they doubled. His garrison of sixty was packed behind walls built to withstand assault. Those walls were also keeping the illness in, and the doubling rule applied every time a die rolled 6 or the outbreak began.*
+> *Inside Krymark, Vidar had no sewer. Every bout of sickness bred another. His garrison of sixty was packed behind walls built to withstand assault. Those walls were also keeping the illness in.*
 >
 > *Torkel received Vidar's messenger on day forty-three. The garrison had eleven soldiers capable of standing. Torkel had lost twenty-two men to disease and forty more to battle.*
 >
@@ -873,11 +873,11 @@ Important Characters and Named Men captured during battle may be held for ransom
 
 | PRISONER TYPE | RANSOM VALUE |
 |---|---:|
-| Common soldier | 10 copper |
-| Sergeant or equivalent | 50 copper |
-| Knight or named officer | 200 copper |
-| Commander or minor noble | 500 copper |
-| General or significant lord | 2,000 copper or more |
+| Common soldier | 10 silver |
+| Sergeant or equivalent | 50 silver |
+| Knight or named officer | 200 silver |
+| Commander or minor noble | 500 silver |
+| General or significant lord | 2,000 silver or more |
 
 Ransoms are negotiated, not fixed. The values above are starting points. A general who broke a siege might be worth far more dead to the enemy than alive to their own side. The captors know this. So does the prisoner.
 
@@ -885,9 +885,9 @@ When the exact terms matter, both sides roll **MANIPULATION** or **INSIGHT**. Co
 
 > *Vidar came out of the gate himself, which Torkel read as either courage or the recognition that a commander who sends a subordinate to negotiate his own ransom is worth less before the negotiation ends than when it began.*
 >
-> *The table value for a commander of his rank was 500 copper. He opened at 200, which was a test and an insult and functioned as both. The negotiation ran four days.*
+> *The table value for a commander of his rank was 500 silver. He opened at 200, which was a test and an insult and functioned as both. The negotiation ran four days.*
 >
-> *Final terms: 400 copper, an oath of non-aggression for one year, and the surrender of Haerek — the large man who had stood in the killing ground on the second day with his white flag and his patience.*
+> *Final terms: 400 silver, an oath of non-aggression for one year, and the surrender of Haerek — the large man who had stood in the killing ground on the second day with his white flag and his patience.*
 >
 > *Torkel had no tactical use for Haerek. He took him anyway because Vidar flinched slightly when Haerek's name was mentioned, and anything that caused Vidar to flinch was worth putting in the terms.*
 >
@@ -1434,7 +1434,7 @@ Mercenaries operate under contract. Contracts are leverage — and leverage chan
 >
 > *He had delivered the flanking charge on day twelve that had ended Vidar's relief force as a military factor. He was owed for it. What he wanted was one horse per rider who had lost a mount in the campaign — taken from Krymark's stables when the fortress fell, not purchased from Torkel's own supplies. His pick before anyone else's, including the general's cavalry.*
 >
-> *Torkel rolled MANIPULATION: three successes.*
+> *Torkel answered him well.*
 >
 > *He told Idris the horses would come from the fortress stables, first selection, before the general's own cavalry made their choices. The count would be made right.*
 >
@@ -1446,7 +1446,7 @@ Mercenaries operate under contract. Contracts are leverage — and leverage chan
 
 > *Stran was not supposed to be on that section of wall. He had been sent to check the storage under the south tower, which was a job for a courier, and the fact that it had been given to him meant the courier was probably dead. When he arrived, the tower section was in the hands of men he did not recognize who were losing it, and he had a sword and a reasonable objection to the enemy having the wall, so he stayed.*
 >
-> *He stayed for three turns, in the battle's accounting. In his accounting, it was somewhat longer.*
+> *He stayed long enough for the shouting to go hoarse and the light to change. In the tally afterward it was less time than it felt.*
 
 Battles are the most dramatic scenes in a campaign. They should feel like it. The dice determine outcomes, but the outcomes should become specific events — not the abstraction that generated them, but what that abstraction means to the soldiers who lived it.
 
