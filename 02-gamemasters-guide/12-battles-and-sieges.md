@@ -26,6 +26,21 @@ The rules build in order. Begin with army structure. Then move to how troops fig
 
 When combat between individual characters becomes necessary in the middle of a larger engagement, return to the normal combat rules in Chapter 5.
 
+### To Run a Battle Tonight
+
+Use this order for a quick battle preparation:
+
+1. Build each side into troops and place them in left, center, and right sections.
+2. Note reserves, commanders, weapon types, protection, and starting advantages.
+3. Roll **INSIGHT** for deployment and set the final ground.
+4. Roll the general's speech and divide morale points.
+5. Resolve any ranged approach turns before melee contact.
+6. Run the battle turn loop until the fight is decided.
+7. End the battle on rout, retreat, surrender, or nightfall.
+8. Then handle prisoners, wounded, plunder, occupation, supply, and the rest.
+
+The rest of the chapter expands this path for sieges, campaign pressure, and the hard work that follows the clash.
+
 ---
 
 ### The Order of Battle
@@ -60,6 +75,8 @@ Each battle line divides into three sections: **left**, **center**, and **right*
 
 A group of soldiers assigned to a single section is called a **troop**. The maximum base dice a troop can have from sheer numbers is +5. The maximum troop size varies by type.
 
+For any rule that refers to an adjacent section, the center is adjacent to both wings. Each wing is adjacent only to the center.
+
 Under normal circumstances, each section fights the section directly opposite it. If one section destroys or routs its opponent, it pivots inward to attack the nearest surviving enemy section, gaining a numerical advantage.
 
 #### Troop Replacement
@@ -69,6 +86,19 @@ Frontline troops do not absorb individual reinforcements from the rear. The move
 The real decision is when to relieve a battered troop entirely. A commander orders a frontline troop to withdraw; the next troop in that section moves up in the following turn. The withdrawn troop, if not destroyed, may regroup in the rear. The general may order it back at the start of any subsequent turn — no roll required — but it cannot fight on the same turn it advances.
 
 If a troop is **destroyed** — its last base die eliminated by damage — it is gone. No regrouping, no return. Its men are dead or fled.
+
+#### Committing Reserves
+
+At the start of a turn, before the battle roll, the general may commit one reserve troop from a section's rear line.
+
+A reserve committed to a section does one of two things:
+
+- If the frontline troop still stands, the reserve relieves it and takes that section's next battle roll. The withdrawn troop falls back to the rear and may not fight again that turn.
+- If the frontline troop was destroyed, routed, or withdrawn on the previous turn, the reserve moves up and holds the section for this turn.
+
+A reserve cannot be committed to a section and also be held for another purpose in the same turn. Once committed, it is part of the line.
+
+If a section was emptied on the previous turn and no reserve is committed to replace it on the following turn, that section is conceded. The enemy controls that ground and may pivot inward at the start of the turn.
 
 #### Troop Uniformity
 
@@ -83,6 +113,8 @@ A troop must be composed of soldiers sharing the same general fighting character
 > *"It's not about how many of you there are. It's about how many of you there are who are worth counting."*
 
 Every troop in combat has three categories of dice: **base dice**, **advantage dice**, and **protection dice**. Each type uses the same six-sided die, but their successes work differently. Separate them by color when possible.
+
+Base dice come from numbers. Advantage dice come from quality, position, and circumstance. Protection dice come from shields, armor, and similar gear.
 
 #### Base Dice
 
@@ -101,7 +133,7 @@ Base dice come from the troop's size. The threshold to gain one base die depends
 
 #### Advantage Dice
 
-Advantage dice represent quality, position, and circumstance. They can never exceed the troop's base dice. Each qualifying characteristic below grants +1 advantage die, up to a maximum of +5.
+Advantage dice represent the troop's edge in the clash — better training, stronger position, or some other battlefield advantage. Roll them with the troop. Their successes cancel enemy advantage successes first. Any successes left after that become the troop's edge in the clash and are spent under **Pressing the Advantage** below. Advantage dice can never exceed the troop's base dice. Each qualifying characteristic below grants +1 advantage die, up to a maximum of +5.
 
 | ADVANTAGE | DICE |
 |---|---:|
@@ -148,9 +180,13 @@ A troop that has survived 3 or more engagements intact — not rebuilt, not fold
 
 **Earned, not purchased.** Veterans cannot be recruited as a starting quality. They must be earned through play. The GM tracks which allied troops have reached Veterans status and when they last saw battle.
 
+### Arms and Armor
+
+Troop dice tell you how many soldiers stand, how sharp their edge is, and how much punishment they can take. Arms and armor decide how that force fights.
+
 #### Weapon Type
 
-Each troop carries one weapon type. Switching weapons at the start of a battle turn is permitted — mounted troops may dismount and become infantry, changing their base dice accordingly.
+Each troop carries one weapon type. Weapon type does not grant base dice. It decides when the troop attacks, what targets it handles well, and whether it can strike before contact or from a distance. Switching weapons at the start of a battle turn is permitted — mounted troops may dismount and become infantry, changing their base dice accordingly.
 
 | WEAPON | EFFECTS | ADDED COST |
 |---|---|---:|
@@ -202,6 +238,20 @@ Most fighters in the Ravenlands wear cloth or rough leather and carry whatever s
 
 ### The Battle Sequence
 
+#### Screening and Pickets
+
+Before deployment, an army with cavalry, skirmishers, or another troop suited to scouting may assign one troop to screen the line and keep pickets on the likely approaches. The troop still fights where it was assigned once the battle begins.
+
+If both sides do this, both commanders roll **SCOUTING**. If only one side screens, that side wins automatically.
+
+The winner chooses one:
+
+- gain +1 bonus die on the coming **INSIGHT** deployment roll
+- shift one troop one section left or right after deployment but before the speech
+- deny the enemy any benefit from hidden approach or uncertain ground on the first turn
+
+An army that kept proper pickets through the dark can never be treated as having no sentries for a night attack unless those pickets were first scattered, bribed, or killed.
+
 #### Before The Battle: Deployment
 
 The generals face each other across the field they did not choose. One of them reads it better.
@@ -216,7 +266,9 @@ If one army is large enough to field more than one line, this must be declared b
 
 #### The General's Speech
 
-Before the battle roll, each general speaks to their troops. This can be brief — a hard sentence, a name repeated — or long enough to make the enemy wonder what is being said. Roll **PERFORMANCE**. Each success grants the army's troops a combined pool of **morale points** — see Morale Points below for how they work — split among them as the general sees fit. Push the roll if the situation demands it — each result of 1 on any pushed die removes 1 morale point from any one troop of the general's choice.
+After deployment and the **INSIGHT** contest, but before the first ranged exchange or battle roll, each general speaks to their troops. This can be brief — a hard sentence, a name repeated — or long enough to make the enemy wonder what is being said. Roll **PERFORMANCE**. Each success grants the army's troops a combined pool of **morale points** — see Morale Points below for how they work — split among them as the general sees fit. Push the roll if the situation demands it — each result of 1 on any pushed die removes 1 morale point from any one troop of the general's choice.
+
+Most generals weight the center first, or whichever section must decide the day. Morale spread too thin across the whole line is easier to lose than morale piled where the line is expected to bend hardest.
 
 A general without the words for this may delegate to a Named Man or subordinate commander, but that commander becomes the one rolling.
 
@@ -254,13 +306,30 @@ Each battle turn represents fifteen minutes of fighting. At the end of each turn
 
 During the turn, the general and troop commanders may issue orders, important characters may move, and any pending special effects resolve before the roll.
 
+#### Turn Order
+
+Run each battle turn in this order:
+
+1. Move generals and Important Characters.
+2. Commit reserves or relieve battered troops.
+3. Attempt **REGROUP** rolls for fleeing groups.
+4. Resolve special effects that happen before the clash — returning feigned retreats, battle magic, weather changes, and similar effects.
+5. Resolve ranged approach turns, free attacks, and any **Attacks First / Attacks Second** sequence.
+6. Roll each engaged section.
+7. Apply protection, damage, morale loss, and demoralization.
+8. Decide pursuit, pivot, reserve advance, or retreat for any section whose fight has now been decided.
+
+If a timing dispute arises, earlier steps happen before later ones.
+
 #### The Battle Roll
 
 Each engaged troop assembles its dice and rolls:
 
+Before counting damage, apply any weapon properties that affect the clash. **Attacks First**, **Attacks Second**, **Free Attack**, and **Range** decide whether the roll happens now, earlier, or after the enemy. Any **Attack +X** from weapons is added now. These dice count as advantage dice for the roll, but are not limited by the troop's base dice.
+
 **Base successes** inflict 1 point of damage on the opposing troop per success. Each damage point reduces the enemy troop's base dice by 1 — those soldiers are dead or too broken to fight.
 
-**Advantage successes** are compared against the enemy's advantage successes. They cancel each other out first. Remaining successes inflict 1 damage per success on the opposing troop.
+**Advantage successes** are compared against the enemy's advantage successes. They cancel each other out first. Any successes left after that are the section's edge. Spend that edge on one or more effects from **Pressing the Advantage** below.
 
 **Protection successes** cancel incoming damage, one success per point of damage.
 
@@ -282,6 +351,47 @@ Resolve each section's clash separately. The concept of simultaneous rolls refle
 >
 > *First fifteen minutes. The dwarves had not broken. The catapult would be built.*
 
+#### Pressing the Advantage
+
+A section with the edge does not always turn it straight into bodies. Sometimes it buys ground, time, disorder, or the one opening that changes the whole field.
+
+After cancelling opposing advantage successes, spend any successes left as follows. Each named choice may be taken only once per section per turn, including the choice that inflicts direct damage. Successes not spent are lost in the press of the fighting. A choice that refers to the next turn is lost if that section is no longer engaged when the next turn begins. The GM should favor the choices that fit the ground, the troop type, and the weapons in hand.
+
+**Spend 1 success:**
+
+- **Drive the blow home.** Inflict 1 point of damage on the enemy troop.
+- **Press them back.** The enemy loses 1 advantage die on its next roll in this section.
+- **Pin them in place.** The enemy cannot pivot or pursue from this section on its next turn.
+- **Cut down the signalers.** The enemy loses 1 morale point.
+- **Carry the hurt clear.** One friendly Broken Important Character or one fleeing group from this section reaches the rear in order.
+- **Take the footing.** On corpses, rubble, mud, stairs, or other bad ground, the enemy attacks second on the next turn unless it already would.
+
+**Spend 2 successes:**
+
+- **Open a gap.** One adjacent friendly section gains 1 advantage die on its next roll against an already engaged enemy section.
+- **Break their rotation.** The enemy cannot relieve this section with a reserve on its next turn.
+- **Throw them off the work.** On a wall, breach lip, ford, ferry, bridgehead, gate, stair, or ladder-top, the enemy loses all position-based advantage dice in this section on its next turn.
+- **Silence the standard.** The enemy loses its Important Character advantage die in this section on its next turn.
+- **Disorder the shields.** The enemy halves its protection dice in this section on its next roll, rounded up.
+
+**Spend 3 successes:**
+
+- **Cut them to pieces.** Inflict 2 points of damage on the enemy troop. If this section is still engaged on the next turn, the enemy gains 1 advantage die against that troop as the line opens and order is lost.
+- **Roll the flank.** One adjacent friendly section counts as making a flanking attack on its next roll if a route exists.
+- **Panic the line.** The enemy section makes an immediate morale roll. If it fails, it loses 1 base die at once to flight.
+- **Seize the stair or gate.** In siege, breach, ford, ferry, or bridgehead fighting, this section no longer grants **Attacks First** or position advantage to the enemy from the next turn onward unless fresh defenders reclaim it.
+- **Ride through the rear.** Cavalry or skirmishing cavalry only. If a route exists behind this section and no baggage guard bars it, the troop may strike baggage or engines at once as though it had already won the section.
+
+#### Taking Damage
+
+Once both sides have rolled and spent their edge, total the damage coming into each troop.
+
+Count 1 damage for each base success, then add any damage created by **Pressing the Advantage**. After that, roll protection dice. Each protection success cancels 1 damage. Each point of damage left removes 1 base die and 1 morale point.
+
+If neither side attacked first or second, both sides take their remaining damage from that exchange even if one troop is destroyed.
+
+Use this same sequence for free attacks, ranged approach turns, and ordinary clashes. Then resolve demoralization from results of 1 on base dice.
+
 #### Morale Points
 
 A troop's morale points represent its collective will to hold. They come from the general's speech, from armor bonuses, and from the troop's own circumstances.
@@ -290,7 +400,9 @@ When a rule calls for a **morale roll**, roll a number of D6 equal to the troop'
 
 A troop with no morale points does not roll. It fails automatically.
 
-When a troop rolls 1s on its base dice, each 1 triggers demoralization — a number of soldiers flee the battlefield equal to the number shown on that base die. The troop can spend one morale point to nullify each result of 1. When morale points run out, the 1s are not nullified. Each fleeing group becomes one lost base die — those soldiers are gone from the troop's front position and have retreated to the rear.
+When a troop rolls 1s on its base dice, each 1 triggers demoralization — one fleeing group breaks from the line. At battle scale, one fleeing group equals one base die's worth of soldiers for that troop type: twenty infantry or skirmishers, five cavalry, or one monster unit. The face value on the die is not counted as exact bodies. It marks the panic, not the headcount.
+
+The troop can spend one morale point to nullify each result of 1. When morale points run out, the 1s are not nullified. Each unresolved result removes one base die and sends that fleeing group to the rear, where it may be rallied later.
 
 Each point of damage that reduces a troop's base dice also reduces its morale points by 1. Losses grind down will as well as numbers.
 
@@ -356,6 +468,20 @@ Pursuit is a choice, not an obligation. The general who orders it wins that flan
 >
 > *Torkel's center took two damage in that turn without cavalry on the flank. Three men died in those fifteen minutes who would not have died if Idris had wheeled instead of chased. Idris did not learn about the three men until the following day. He would have made the same decision again. Whether that was correct is a question each general answers for themselves, ideally before the pursuit begins.*
 
+#### Winning a Section
+
+A troop that destroys or routes the troop directly opposite it has won that section. The victory matters at the start of the next turn, not in the middle of the same clash.
+
+If the enemy commits a reserve to that section on the following turn, the section remains contested. The winning troop must face the fresh enemy before it can exploit the gap.
+
+If no fresh enemy takes the section, the winning troop chooses one:
+
+- **Hold the ground.** Stay in place, dress the line, and deny the section to the enemy.
+- **Pivot inward.** Turn against the nearest engaged enemy section. This counts as a flanking attack on that turn.
+- **Pursue.** If the defeated enemy routed and the troop is cavalry or skirmishing cavalry, pursue instead of pivoting.
+
+If a troop wins a section and the adjacent enemy section is already engaged from the front, a commander who times the wheel cleanly may turn the flank into a rear attack on the following turn. The GM should allow this only when the route truly exists on the field.
+
 #### Ordered Retreat
 
 A general who chooses to withdraw — ceding the field rather than fighting to destruction — may order a full retreat. This is not defeat without decision. It is the use of what remains.
@@ -380,7 +506,7 @@ A general who chooses to withdraw — ceding the field rather than fighting to d
 
 A battle does not end when someone decides it has. It ends when one of these conditions is met.
 
-**Rout.** All of one side's active troops in the first line have been destroyed or broken. Reserve lines, if any, must advance immediately or the army has conceded the field by inaction.
+**Rout.** All of one side's active troops in the first line have been destroyed or broken. Reserve lines, if any, must advance on the following turn or the army has conceded the field by inaction.
 
 **Concession.** The losing general orders a retreat or sends word to the enemy accepting defeat. A general who concedes before total destruction preserves more. One who waits too long may not have anything left to concede with.
 
@@ -416,7 +542,7 @@ The Range effect applies only to advancing troops. Skirmisher troops should not 
 
 **Exception:** Skirmishers on the flank or rear of an enemy troop already engaged may fire freely. There are no allies in that arc.
 
-**Friendly Fire.** Skirmisher volleys lack precision. If skirmishers fire into a general melee already involving allied troops, results of 1 on their base dice deal damage to allied troops instead of the enemy. The exception above does not apply here — arc-clear fire from the flank is safe; firing into a melee your own side is in is not.
+**Friendly Fire.** Skirmisher volleys lack precision. If skirmishers fire into a general melee already involving allied troops, each result of 1 on their base dice inflicts 1 point of damage on one allied troop in that melee instead of the enemy. The ally rolls protection as normal. If more than one allied troop is exposed in that section, the GM assigns the hit to the troop most exposed. The exception above does not apply here — arc-clear fire from the flank is safe; firing into a melee your own side is in is not.
 
 #### Skirmisher Troops in Melee
 
@@ -579,6 +705,16 @@ If, in any battle turn, an attacking infantry troop achieves more successes than
 
 If the fortress has multiple walls, each wall's bonuses are tracked independently. They do not stack.
 
+#### Breach and Gate Fighting
+
+Once a gate is broken, or a wall section is reduced to no positional advantage and the attackers secure footing there, that section stops fighting as a wall and starts fighting as a breach.
+
+Defenders no longer attack first from position alone on that section. Any remaining advantage must come from inner barricades, a second wall, or troops already standing in the way.
+
+Cavalry may enter only through a broken gate or a breach wide enough for mounted passage, as the GM judges. A narrow rubble breach admits infantry first.
+
+If the stronghold has an inner wall, keep, or barricaded court, the defenders may withdraw one surviving troop to that new line at the start of the next turn. Otherwise the fight spills into the yard and is treated as ordinary ground inside the fortress.
+
 See **Stronghold Functions** for wall construction costs and advantage dice values.
 
 #### Siege Engines
@@ -586,6 +722,8 @@ See **Stronghold Functions** for wall construction costs and advantage dice valu
 Siege engines are how attackers reduce the defensive advantage. Each engine requires a troop to operate and protect it. Engines that attack from distance are typically assigned to skirmisher or cavalry troops. Engines meant to directly contact the walls go with infantry.
 
 Each engine must be **constructed on-site**. Build time is listed in the table below.
+
+Engine progress is not secret. Defenders can see towers rise, hear mining, and judge when a ram is close enough to matter. Track that progress openly unless concealment is itself the point of the scene.
 
 | ENGINE | EFFECTS | BUILD TIME |
 |---|---|---|
@@ -637,7 +775,7 @@ If the defenders win, choose one:
 
 - `D6 x 20` supply units get through.
 - One messenger, engineer, healer, or Important Character gets in or out.
-- One base die worth of reinforcements reaches the fortress, if friendly troops are near enough to matter.
+- One base die worth of reinforcements reaches the fortress, if friendly troops are within one campaign week's march or already in direct contact with the siege.
 
 If the besieger wins, the run is broken. The boats are taken, the pack train is scattered, or the messenger is caught with the letter still on him.
 
@@ -722,6 +860,30 @@ Defenders who wait behind walls surrender the initiative. A general with enough 
 > *They killed two engineers. One was not Holk.*
 >
 > *Eight of Vidar's twenty soldiers made it back through the gate.*
+
+#### Counter-Siege Measures
+
+Defenders are not limited to waiting, repairing, and sortying. A commander with prepared hands and the right materials may answer the engines directly.
+
+**Fire against towers and rams.** A defending troop with ranged weapons and pitch, oil, or braziers may target a battering ram or siege tower that has reached the wall or gate. If the defenders score 2 or more uncancelled successes, the engine catches or begins to smolder. It loses 1 siege die at the start of each following turn until the operators spend a full turn extinguishing it. Heavy rain or soaked hides cancel the first such loss.
+
+**Countermine.** If the defenders know a tunnel is being dug and have an engineer, dwarf laborers, or another plausible skilled crew, they may attempt a countermine once per day. Roll **SCOUTING** or **INSIGHT**. On success, reduce the tunnel's stability by 1. With 2 or more successes, choose instead: reduce the tunnel's stability by 2, or force the attackers to lose one day's digging progress as the tunnel is flooded, smoked, or collapsed short of the wall.
+
+**Abandon the outer wall.** A commander may give up an outer section before it collapses in order to preserve troops for the inner line. The section is lost immediately, but one defending troop may withdraw in order to the next defensible line at the start of the following turn. Troops withdrawn this way keep their remaining morale points.
+
+#### Relief of a Siege
+
+A siege changes the moment a relief army arrives. The besieger must now face outward and inward at once.
+
+When a friendly field army reaches the fortress, the besieger chooses one course before the next battle turn:
+
+- **Hold the ring.** Keep troops facing both the garrison and the relief army. Every besieger section engaged on either side loses 1 advantage die that turn. No besieger reserve may answer both threats in the same turn.
+- **Turn to meet relief.** Face the relief army as an open-field battle. The garrison may sortie on the following turn without first needing to win initiative over the siege line.
+- **Raise the siege.** Abandon engines, stores too heavy to move quickly, and any works that cannot be carried. The relief army has broken the investment without a full battle.
+
+If the besieger holds the ring and, in the same turn, a garrison sortie and the relief army engage the same besieger section, that section counts as attacked from front and rear.
+
+The siege is broken when the garrison and the relief force open a clear path between fortress and countryside, or when the besieger withdraws. Once the siege is broken, supplies, messengers, and reinforcements may move again, and the fighting continues as field battle only if the attackers choose to stand.
 
 ---
 
@@ -813,6 +975,22 @@ Supplies are typically delivered once per week. A cut line denies an army food f
 
 Cavalry troops make the best raiders. They are fast enough to cut through and re-establish distance before the main army can respond.
 
+#### Baggage, Camp, and Rear Pressure
+
+An army brings more than fighters: wagons, cookfires, spare weapons, pack animals, engineers, and the food that keeps the rest moving. A flank broken open is not only a path to the rear of the line. It is a path to all of that.
+
+**Guarding the rear.** A general expecting raiders may hold one troop back as baggage guard. That troop does not take part in the main battle until committed.
+
+**Raiding baggage in battle.** A cavalry, skirmishing cavalry, or skirmisher troop that wins its section and does not pivot or pursue may strike the enemy baggage instead. If no baggage guard stands there, choose one consequence immediately:
+
+- lose `D6 x 20` supply units
+- lose one engineer, messenger chain, or `1D3` spare mounts or draught beasts
+- one frontline troop loses 1 morale point on the next turn as smoke, panic, and contradiction reach the line
+
+If a baggage guard is present, fight it as a normal section first. Only a second victory opens the baggage.
+
+**Camp raids.** An army that camps without proper pickets or baggage guard invites night work. A successful raid on camp burns `D6 x 20` supply units, scatters animals, or prevents one troop from taking part in the first turn of the next day's battle, as the GM judges.
+
 ---
 
 ### Campaign Movement
@@ -826,6 +1004,18 @@ Armies moving across the Ravenlands are slow, loud, and visible. The quarter day
 - The army's slowest element sets the army's pace
 
 An army moving through allied territory can sustain itself longer. An army moving through stripped or hostile ground eats its reserves, then eats the countryside, then begins to die.
+
+#### Ferries, Boats, and Water Operations
+
+A ford, bridge, ferry, or landing is a battlefield in its own right. Whoever holds the bank controls more than movement. They control time.
+
+**Ferry and landing fights.** A troop defending a ferry, bridgehead, or boat landing gains 1 advantage die on the first turn if the enemy must disembark or crowd onto narrow ground. Cavalry fighting from boats or on a narrow ferry fights as infantry until clear ground is gained.
+
+**Crossing under fire.** Troops crossing by boats, rafts, or ferries under missile fire use half their base dice on the landing turn, rounded up, just as at a ford. If they land in disorder, they cannot claim flanking or rear advantage on that turn.
+
+**Water relief and escape.** A fortress with river or sea access that is not fully blockaded may attempt one extra messenger run, supply run, or escape by boat each siege week. Resolve it with the same opposed roll as a weak-side blockade run. If the boats are taken, the run fails and the craft are lost.
+
+**Assault from the water.** Troops storming a waterside gate, quay, or river wall from boats attack second on the first turn after landing. Defenders attack first if they already hold the dock, stairs, or gatehouse.
 
 ---
 
