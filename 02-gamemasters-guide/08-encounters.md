@@ -315,8 +315,6 @@ For game stats for animals, see page 126.
 
 **TERRAIN TYPES:** Dark Forest
 
-**TERRAIN TYPES:** Dark Forest
-
 ### **20** the Burial Procession
 
 > _Something walks toward you that you have no name for. The sound comes first — a long low note from a horn that has no mouth, then the creak and snap of green wood under weight. Five trees crest the rise, walking. They carry a sixth between them. A pace, a horn-note, three more paces, halt, another horn-note. The procession is older than your great-grandfathers and you are intruding on it._

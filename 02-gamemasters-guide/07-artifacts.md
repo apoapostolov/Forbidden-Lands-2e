@@ -33,7 +33,8 @@ In this chapter, 18 unique artifacts are described in detail, including legends,
 | 55–56 | Voller’s Helmet             |
 | 61–62 | Wail’s Horn                 |
 | 63–64 | Well of Tears               |
-| 65–66 | Wyrm’s Key                  |
+| 65–66 | Wyrm's Key                  |
+
 ### Playing Cards
 
 All artifacts in this chapter, as well as the four artifacts in the _Raven’s Purge_ campaign book, can be found on playing cards included in the custom Forbidden Lands card deck, which is sold separately. The full-color illustrated cards summarize the history and the effects of these artifacts.
@@ -45,7 +46,7 @@ Several of the artifacts in this chapter are in some way connected to events and
 > _It is said that the volcano god Horn first awoke when the demons that Zygofer let loose had already laid waste to Aslene. So awful was his rage that magma and ash were spewed across the heavens. Brought before the god were three snakes, who had bitten three prophets to death. These prophets had seen the coming of the demon flood, and had wanted to warn the people and wake Horn. The snakes groveled before Horn and opined that they had not intended the desolation of the land, that they had only followed their nature as the gods had created them. When Horn’s priests still wanted to punish the reptiles by throwing them into the magma, they writhed, cried out and begged to atone for their crime by bringing vengeance to those who were truly responsible._
 >
 > _Horn listened to them and called his servant from the magma depths of the volcano, the mighty fire wyrm, Erinya. She breathed on her lesser kin, whereupon they turned into arrows. These arrows would, when shot from a bow, mark the butchers of Aslene so that Erinya could find and devour them._
-###
+
 ### Appearance
 
 An Arrow of the Fire Wyrm is always hot and smells of sulfur. Its shaft is carved of dark wood and wrapped with copper in the shape of a writhing snake. The tail feathers are small and red. The arrow appears to be intended more for ceremonial use than for combat.
@@ -226,7 +227,9 @@ Queen Agatha’s Twin Tablets are identical and made from agate, with the flowin
 
 ## Scarnesbane
 
-> _The legends tell of how Scarne, the ancient mother of dragons, ruled in Ravenland when the dwarves arrived in an age long forgotten, and that her armor was of impregnable obsidian that she herself had melted around her body. But Oramund, the commander of the dwarves, prayed to the god Huge, who sent him a hammer the blows of which could crush anything. With it, Oramund slew the she-dragon. The dwarves then chased the serpent’s offspring up_
+> _The legends tell of how Scarne, the ancient mother of dragons, ruled in Ravenland when the dwarves arrived in an age long forgotten, and that her armor was of impregnable obsidian that she herself had melted around her body. But Oramund, the commander of the dwarves, prayed to the god Huge, who sent him a hammer the blows of which could crush anything. With it, Oramund slew the she-dragon. The dwarves then chased the serpent’s offspring u into the mountains from whence they still plague the land. Oramund named the hammer Scarnesbane._
+
+In fact, the hammer was never used against Scarne. Nor is the dragon dead, but merely imprisoned far below the dwarven fortress of Stonegarden. You can read more about this in the _Raven’s Purge_ campaign book.
 
 ### Appearance
 
@@ -240,23 +243,19 @@ Scarnesbane is a heavy warhammer with Weapon Bonus +2, Weapon Damage 3, and Arti
 
 The hammer is very unwieldy and requires Strength 6 to be handled without penalty. A fighter with Strength 5 can wield Scarnesbane, but suffers a –2 penalty to all attacks. Weaklings of Strength 4 or less cannot use the weapon.
 
-> _into the mountains from whence they still plague the land. Oramund named the hammer Scarnesbane._
-
-In fact, the hammer was never used against Scarne. Nor is the dragon dead, but merely imprisoned far below the dwarven fortress of Stonegarden. You can read more about this in the _Raven’s Purge_ campaign book.
-
 ## The Nightwalker’s Hourglass
 
-> _It is said that the stone singer Dordela was so vexed late one night over a mistake she’d made on an anniversary statue, that she begged the Nightwalker to return the stone slab to its original form, such as it was before she marred it with her high note. At the same time, there was a knock on the door to the workshop, frightening her. Outside the door was a mysterious figure with the features of a bat. In his arms he held a box, which he handed over without a word before turning around to leave. The only answer to Dordela’s questions was a hiss:_
-
-Pelagia (see _Raven’s Purge_ ).
-
-> _“Fracture time, unmake mistake, bone break,” and then the mysterious messenger was gone._
+> _It is said that the stone singer Dordela was so vexed late one night over a mistake she’d made on an anniversary statue, that she begged the Nightwalker to return the stone slab to its original form, such as it was before she marred it with her high note. At the same time, there was a knock on the door to the workshop, frightening her. Outside the door was a mysterious figure with the features of a bat. In his arms he held a box, which he handed over without a word before turning around to leave. The only answer to Dordela’s questions was a hiss: “Fracture time, unmake mistake, bone break,” and then the mysterious messenger was gone._
 >
 > _In the box, Dordela found three hourglasses lying in purple velvet and on the inside of the lid were the same words, written in black ink. She picked up one of the hourglasses, observed the sand running from the top to the bottom and, on a whim, broke the instrument in half. She immediately fainted, but when she woke the stone slab stood before her, untouched, just as she had wished. Delighted, she reached for her stone wand but found it impossible: her hand was missing._
 >
 > _They say that the second hourglass was broken when King Ardeburd had lost the battle against the Canides below the Icefang Mountains. He is then said to have allowed all the sand to flow from the hourglass and was never seen again. Without their leader, the dwarves lost the battle a second time._
 
 Only one hourglass now remains in the box.
+
+### Suggested Location
+
+Pelagia (see _Raven’s Purge_ ).
 
 A jet black, undecorated lacquered box, the inside of which is covered with purple velvet. Within the velvet of the shrine, there is room for three hourglasses, but only one occupies the space. The hourglass is angular, decorated with the sign of the Nightwalker and filled with black sand. Inside the lid of the box is the inscription: “Fracture Time, Unmake Mistake, Bone Break.”
 
@@ -270,13 +269,12 @@ The time travel will cost the breaker of the hourglass a limb: a finger for an h
 
 ## The Tezaur
 
-> _It is told that Duke Fargalon of Aslene had a son who was named Ungule, after the god Horn’s master smith of the volcano, he who forges the hoofs of the holy steeds. After bones had been thrown in front of the newborn, the seeress proclaimed that it was the destiny of the duke’s son to fall in love with a flautist of the wandering folk and take her as his bride. The proclamation angered Fargalon, and he forbade all forms of music in his domain. Riders were even sent out to cut down the reeds that rustled too loudly on the river banks. Ungule grew up to be a handsome young man, and one day_
+> _It is told that Duke Fargalon of Aslene had a son who was named Ungule, after the god Horn’s master smith of the volcano, he who forges the hoofs of the holy steeds. After bones had been thrown in front of the newborn, the seeress proclaimed that it was the destiny of the duke’s son to fall in love with a flautist of the wandering folk and take her as his bride. The proclamation angered Fargalon, and he forbade all forms of music in his domain. Riders were even sent out to cut down the reeds that rustled too loudly on the river banks. Ungule grew up to be a handsome young man, and one da when he was out hunting in the forest, he caught the eye of Tezara of the Tarn, who became fiercely stricken with love._
 
 The legend of the flute is probably true. The flute is from Aslene.
 
 ### Appearance
 
-> _when he was out hunting in the forest, he caught the eye of Tezara of the Tarn, who became fiercely stricken with love._
 >
 > _Tezara was a masterful singer, but she could not sing her love to the duke’s son since he lived in a fortress of stone and always wore a helmet of silence when he ventured outside. Tezara sang her lament in the forest, where a naiad heard her. She took pity on Tezara, and gave the lovestruck maiden a silver flute, forged from the waters of a babbling brook. Anyone who plays the flute can walk through stone and iron and guards like light through water. With its help, Tezara made her way to Ungule and won his heart with her song._
 >

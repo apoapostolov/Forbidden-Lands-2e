@@ -911,9 +911,7 @@ An Iron Guard rider fell from this crag at the end of the Alder Wars and his bon
 
 Harpies are notoriously sly and evil birds of prey with the heads of women, who appear in flocks all over the Forbidden Lands. Since they gladly attack lonesome men and steal small children who are left unsupervised, some believe that they may be cursed, hateful mothers who murdered their own children.
 
-the minds of these women through torture and magic, since death is considered all too lenient for these heretics. The intention was to fuse the head and torso to the bodies of ravens to mock the beliefs of the Raven Sisters, but since the raven is too weak to support such a weight they had to choose the larger bodies of birds of prey.
-
-The more general opinion is that Zygofer and the Rust Brothers create harpies from captured Raven Sisters after having corrupted
+The more general opinion is that Zygofer and the Rust Brothers create harpies from captured Raven Sisters after having corrupted the minds of these women through torture and magic, since death is considered all too lenient for these heretics. The intention was to fuse the head and torso to the bodies of ravens to mock the beliefs of the Raven Sisters, but since the raven is too weak to support such a weight they had to choose the larger bodies of birds of prey.
 
 The creature has been joined with the demon substance mog. Harpies aren’t very powerful in open combat, but on the other hand, they prefer to act in secrecy through betrayal.
 
@@ -1170,6 +1168,12 @@ Minotaurs are semi-intelligent and brutal flesh-eating crossbreeds between human
 
 Some say that the whisperer Zygofer as a youthful hermit received his first unspeakable teachings among demons and undead sorcerers. For nourishment in these barren lands, he brought a cow for milking. However, possessed by the lust and rage of the demons he abused, the poor creature became pregnant and gave birth to the first Minotaurs. The creatures were so brazen and unruly that they, still sticky with fetal membrane, ran to the woods and gave rise to their own kin.
 
+- **ATTRIBUTES:** Strength 10, Agility 4, Wits 2, Empathy 2
+- **SKILLS:** Scout 3
+- **ARMOR RATING:** 2 (fur) and possible armor
+- **MOVEMENT RATE:** 1
+- **TYPICAL GEAR:** Two-handed axe
+
 #### Monster Attacks
 
 | **D6** | **ATTACK**                                                                                                                                                                                                                                                    |
@@ -1180,12 +1184,6 @@ Some say that the whisperer Zygofer as a youthful hermit received his first unsp
 | 4      | **CLEAVING CHOP!** The beast swings its weapon above its head and brings it down with maximum force. The adventurer suffers an attack using ten Base Dice (Weapon Damage according to the weapon), ignoring three points of armor. The attack may be PARRIED. |
 | 5      | **SWEEPING ATTACK!** Roaring, the Minotaur sweeps its weapon in a wide arc, hitting everyone within ARM’S LENGTH. Roll for an attack using eight Base Dice (Weapon Damage according to the weapon) against each victim.                                       |
 | 6      | **STOMPING ATTACK!** The Minotaur jumps high into the air and lands hard on top of an adventurer. The victim is felled to the ground if hit. The attack is performed using twelve Base Dice and Weapon Damage 1 (blunt force).                                |
-
-- **ATTRIBUTES:** Strength 10, Agility 4, Wits 2, Empathy 2
-- **SKILLS:** Scout 3
-- **ARMOR RATING:** 2 (fur) and possible armor
-- **MOVEMENT RATE:** 1
-- **TYPICAL GEAR:** Two-handed axe
 
 #### Lore Roll
 
