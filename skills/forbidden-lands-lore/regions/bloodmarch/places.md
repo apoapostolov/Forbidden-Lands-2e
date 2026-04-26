@@ -260,6 +260,7 @@ secret from strangers. The atmosphere is tense.
 stealing gold is the loss of a hand and the tongue.
 
 **Key factions present:**
+
 - **Mergonella and Meskella** (twin warrior sisters) —
   want to mine the gold and use it to strengthen the clan.
 - **Prince Merdenvil** (Firestead dwarf posing as a

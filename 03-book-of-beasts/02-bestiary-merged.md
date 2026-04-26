@@ -30,10 +30,13 @@ Air Spirit and Earth Spirit carry variant-opener sentences per merge instruction
 | 5 | **THROWING WIND!** All adventurers within NEAR range are hurled down and take 1D6+3 meters of falling damage. |
 | 6 | **LIGHTNING BREATH!** One adventurer within SHORT range suffers an attack with nine Base Dice and Weapon Damage 2. |
 
-An Air Spirit is the wrathful cousin of the canonical Nature Spirit in the wind: it does not patron the bridge or the pasture, only the cliff, the gibbet, and the headland where the weather changes faster than the people on it. Air Spirits gather where men have hanged one another, on cliff shrines,
-open barrows, and headlands where the weather changes fast. They do not
-hate the living in any human way. They simply have no patience for the
-weight of flesh and like to see it broken against the land.
+An Air Spirit carries no face a man could read. It draws from movement: the shudder of rope on a gibbet post, the turning of a vane above a charnel house, the spin of dry leaves over a cairn. When the wind is steady one looks like nothing at all. When it changes direction without cause, that is when they are closest and most interested in what passes below.
+
+They settle where men have killed other men and left the evidence to weather. Old gibbets are preferred, especially those still in use. A cliff shrine where a man fell is good ground. A headland where old burials run along the edge, where roots bring up bones in dry years. Air Spirits do not choose these places for sentimental reasons. They choose them because the energy of killing and the energy of open sky share a seam at such spots, and that seam is where they thicken and grow strong.
+
+A man on a cliff path registers the way a stone in the road registers to a dog that has run the route a hundred times. Older spirits are selective: they take the weak, the burdened, those who had thin chances anyway. Shepherds in hill country consider that mercy. They are wrong.
+
+Villages near known Air Spirit ground keep their gibbets low or leave them unbuilt. Execution hills carry long memories in such places. A headman who hangs a man on exposed ground and then has trouble with livestock through the autumn is a headman whose council will not allow that mistake twice.
 
 #### Lore Roll
 
@@ -117,10 +120,13 @@ with it.
 | 5 | **DROWNED VEIL!** The hag vanishes into mist. Until the next round she fights as if invisible. |
 | 6 | **WORM-BELLY!** One adventurer within NEAR range suffers an attack with eight Base Dice and Weapon Damage 1. If the attack hits, the victim is exposed to a disease with Virulence 7. |
 
-Bog Hags live at the seam between midwife craft and grave filth. Some are
-born witches turned crooked. Some are only marsh things that learned the
-shape of human pity because it opened more doors than claws ever did.
-They bargain in babies, miscarried futures, and names washed downriver.
+A Bog Hag is hard to see wrong at first. The face at the doorway in the rain is the face of a tired woman, a little old, a little damp, carrying something that smells faintly of herbs and the marsh-bottom. The hands are where the lie shows, if the light is good enough: long-fingered, the nails wrong in a way that takes a moment to name. A midwife who knows her trade will notice. Most men will not until the third or fourth visit.
+
+They live in the seam between need and rot: reed huts, drowned orchards, tidal margins where the ground changes character with the season. The borrowed face never fits perfectly and does not hold in strong direct light. But they are precise mimics of social roles before they mimic faces, and most people open a door to function before they inspect appearance.
+
+What they want depends on what was promised. The older ones keep bargains running for generations — a favor earned from a grandmother paid back through the great-granddaughter. Babies, names, futures not yet realized. They prefer to be owed rather than to take outright, because debt is renewable and a stolen child is only a single transaction.
+
+Most villages do not know they have one. A healer who never loses a birth, a wisewoman who knows things about a family she should not know — these are the signs. The reed villages pass one word for a confirmed hag: _downriver_, because washing a name in running water is how you dissolve a debt she can no longer collect on.
 
 #### Lore Roll
 
@@ -207,10 +213,13 @@ who dared marry her.
 | 5 | **THROWN STONE!** One adventurer within SHORT range suffers an attack with eight Base Dice and Weapon Damage 2. |
 | 6 | **HEEL KICK!** One adventurer at ARM'S LENGTH suffers an attack with eight Base Dice and Weapon Damage 2. If the attack hits, the victim is thrown to SHORT range. |
 
-Clay Golems are cheap obedience made large. Temple vaults, barrow doors,
-and lordly treasuries keep them because they do not need food, sleep, or
-forgiveness. The soul inside, if there is one, is usually a detail the
-owner prefers not to discuss.
+A Clay Golem's face has no mouth. The maker scores a suggestion of nose and brow but leaves the lower third blank, because a blank face disturbs the living less than the alternative. The scored lines in the dust below tell a different story: long dragged furrows, fingernails working against fired clay, pressing at something that was never going to yield. The soul inside — if there is one, and there usually is — knows it is sealed.
+
+They are cheaper than Iron Golems and more reliable than the walking dead. A Clay Golem does not need feeding, does not drift the way servants drift, cannot be bribed or reasoned into looking away. It holds a command for years without loss. Temple vaults, barrow doors, and old treasuries prefer them to guards for this reason. The soul, if it persists, carries the maker's instruction set: one threshold, one list of permitted names, nothing else.
+
+The trouble comes when commands are poorly formed or the keeper dies without passing on the release sequence. A Golem left with an unfinished command will continue it past any reasonable end. There are stories of one holding a room for a century after the lord who sealed it had turned to dust in the next chamber. The clay does not notice the passage. The soul inside has stopped caring about it.
+
+Potters who deal in golem-work share that knowledge selectively and with strangers not at all. The craft of clay and kiln is learnable. The craft of binding and releasing is where apprentices die, because a golem given an incomplete command can interpret it in ways the maker never anticipated, and it is strong enough to carry the interpretation through.
 
 #### Lore Roll
 
@@ -293,10 +302,13 @@ it and the dowry silver is gone. Leave it and the feud starts by dawn.
 | 5 | **WORD OF STUN!** One adventurer within NEAR range suffers an attack with eight Base Dice that damages Agility. |
 | 6 | **CLOUD OF THE TOMB!** All adventurers within NEAR range suffer an attack with eight Base Dice and Weapon Damage 2. The attack cannot be parried. |
 
-A Death Magister is what a sorcerer becomes when power outlives grief,
-pity, and the natural length of a body. They are not common because the
-price of becoming one is high, and because once they do become one,
-there are always people with good reasons to finish what death began.
+A Death Magister stopped looking like a person at roughly the same time they stopped being one, but the transition is gradual enough that most of them do not notice when it tips. The face goes gray — not pale, gray, the color of old wax. The eyes hold light a little too long after the source has moved. The hands are cold at any temperature, the movements deliberate in the way that things with no urgency are deliberate. The real change is interior: nothing touches them the way it once did, and they have not yet understood how much of what they were was built from things that can touch a person.
+
+They live where age has concentrated: sealed tower libraries, barrow-back chambers, the closed wings of monasteries that started practicing something they are now too committed to abandon. Their requirements are few. A phylactery in good repair, materials for working, enough distance from the living that the living do not reach the obvious conclusion before the Death Magister is ready for that conversation. Some employ guards. Some rely on reputation. The very old ones rely on the fact that most hunters who tried them once are working for them now, whether they intended to or not.
+
+The ambition that drove them to this burned out in the transition. What they want, with the narrowness of things that have given up everything else, is to continue. The sorcerer who bound their life away to keep studying is now a thing that forgot what the study was for and continues only because the binding holds. The Raven Sisters count this as tragedy. The Druids count it as work.
+
+Villages that have one nearby tend to discover it through a pattern of deaths: not violence, not famine — just healthy men and women who were fine in the evening and absent by morning, with nothing the healer can name.
 
 #### Lore Roll
 
@@ -381,10 +393,13 @@ will be in the village churchyard by choice, not need.
 | 5 | **WALL HAND!** One adventurer within NEAR range suffers an attack with seven Base Dice and Weapon Damage 1. If the attack hits, the victim is held fast until an ally inflicts 2 points of damage on the spirit. |
 | 6 | **BACKHAND OF STONE!** One adventurer within ARM'S LENGTH suffers an attack with eight Base Dice and Weapon Damage 2. If the attack hits, the victim is thrown to SHORT range. |
 
-An Earth Spirit is the wrathful cousin of the canonical Nature Spirit in the stone: it does not patron the road or the marsh, only the broken cairn, the bitten quarry, and the grave opened for gain. Earth Spirits are the oldest temper of the land, usually roused by
-quarrying, oath-breaking on cairn ground, or graves opened in greed.
-They are slow to wake and slower to forget. Once angered, they stand on
-one patch of land and make all passage there costly.
+Earth Spirits are old. They were old before the Blood Mist, before the roads, before the kin-cities were cut from the hillsides and the quarry faces began accumulating names. In that earlier time, every quarry face had a mark on it before the first stone came free, and the cairn-mounds on the ridge lines were left space in the plans the way a living elder is left space at a table. That practice is largely gone. The Earth Spirits have not been informed.
+
+They look like men made from local stone by someone who had heard a man described but never met one. The face is suggested more than cut. The arms are too long and end somewhere between hands and the flat working surfaces of a stone tool. They are slow, but not as slow as they look. A quarry worker who keeps seeing the same irregular shadow from a newly-worked face should report it before the third day, because by the third day the spirit has decided.
+
+What wakes them is always a debt: a cairn broken without ceremony, a grave opened for the metal in it, a quarry cut into ground with old marks the foreman did not recognize as marks. They do not always return to the exact place of the offense. Sometimes they wake in the nearest ground with old claims and walk from there. The walk is unhurried. It arrives.
+
+Once fixed to a place, an Earth Spirit is nearly impossible to drive out. It has become the territory, in the sense that the offense and the spirit and the violated ground are now the same object. The road-warden custom of leaving flint and ochre at old quarry mouths is not superstition. It is the collected record of what worked, at least once, when something that had stopped being still was given a reason to remain so.
 
 #### Lore Roll
 
@@ -468,10 +483,13 @@ quite willing to lose the trade.
 | 5 | **TAIL STING!** One adventurer at ARM'S LENGTH suffers an attack with six Base Dice and Weapon Damage 1. If damage is dealt, the victim is exposed to a paralyzing poison with Potency 6. |
 | 6 | **DOUBLE PINCER!** One adventurer at ARM'S LENGTH suffers two separate attacks, each with six Base Dice and Weapon Damage 2. |
 
-Giant Scorpions dwell in sun-shot ruin courts, quarry pits, and warm
-stone caves where the rock keeps the day's heat. They do not pursue far.
-They kill what passes through their ground and go back to stillness
-before the blood has dried.
+A Giant Scorpion at rest could pass for a boulder if the light were bad. The carapace runs from yellow-gray to rust-brown depending on the stone it prefers, and it flattens itself against the ground when waiting. The pincers are the size of a grown man's torso. The tail arches over everything else like a question that has already decided its answer.
+
+They favor warm stone: ruin courts that hold the sun until midnight, quarry pits above old thermal vents, and cave mouths facing south where the rock keeps the day's heat deep into the cold months. They are ambush hunters with a fixed territory. Each one claims a kill zone of roughly ten paces in every direction and rarely moves beyond it except to mate or when drought drives the prey elsewhere.
+
+Their patience is the real danger. A scorpion will wait through a full watch cycle. The tail strike is fast — faster than the body's size suggests — and the venom reaches the muscles in a few heartbeats. The sting rarely kills immediately; it pins. The claws are for after.
+
+Old temple grounds, abandoned quarries, and ruined outpost courts often have one. The masons and quarrymen who work such sites learn the carapace deflects most iron and the eyes do not. A foreman who puts workers into a ruined pit without first checking the overhead lip is a foreman who explains himself to the widows.
 
 #### Lore Roll
 
@@ -553,10 +571,13 @@ half the clan. If they leave it, the brood hatches before frost.
 | 5 | **SAVAGE CLAWS!** One adventurer at ARM'S LENGTH suffers two separate attacks, each with six Base Dice and Weapon Damage 2. |
 | 6 | **MESMERIZING GAZE!** One adventurer within NEAR range is exposed to a paralyzing effect with Potency 8. |
 
-Grave Bats roost in plague towers, charnel caves, and church lofts above
-unblessed dead. They are not quite vampyrs and not quite beasts. They
-feed hard, heal fast, and leave the reek of old crypts wherever they
-settle.
+A Grave Bat is larger than it should be and shaped like a creature that wanted to become something worse. The wingspan spans a doorway. The face is blunt and noseless, the ears too long, the claws at the wing-joint thick enough to open a man's back with one pass. The fur runs from charcoal to bone-white depending on age. The old ones are pale.
+
+They roost where the dead were poorly kept: plague towers, charnel caves, the unlocked lofts of churches that ran out of space and stacked the coffins unblessed. They are kin to vampyrs the way a cur is kin to a war-hound — same blood, less discipline. They feed hard on any warm thing, heal fast from anything short of fire or daylight, and carry the reek of old crypts into any space they settle in long enough.
+
+They are creatures of enclosed ground. A Grave Bat in open sky hunts sloppily. A Grave Bat in a bell tower, a mine shaft, or a plague ward knows every surface by sound and has learned the habits of anything that moves below it. The ones that have nested long in one place know the prayer hour, the guard rotation, and which child sleeps nearest the outside wall.
+
+Villages with plague histories often have one in the old loft or the charnel chapel. Many years pass before anyone connects the nightly disappearances to the sounds above the ceiling beams. When they do connect them, the question is always the same: if the Grave Bat goes, what warns them when the dead below start to move? The bat has been warning them for years. No one thought to ask how it knew.
 
 #### Lore Roll
 
@@ -641,10 +662,13 @@ this morning. The bat must eat from the healthy next.
 | 5 | **THROWING GRIP!** One adventurer within NEAR range suffers an attack with eleven Base Dice and Weapon Damage 2. If the attack hits, the victim is thrown to SHORT range. |
 | 6 | **DEFENSIVE STANCE!** The golem braces and then lashes out at one adventurer with eight Base Dice and Weapon Damage 2. Until the next round its Armor Rating rises by 2. |
 
-Iron Golems are not for guarding grain or pious boxes. They guard the
-things men expect armies to die for: old war stockpiles, royal foundries,
-and the hidden rooms where the books that built dynasties were sealed
-away from their heirs.
+An Iron Golem is as tall as two men and smells of old forges and the specific cold of iron that has never been allowed to rust. The chest holds a furnace cavity — not always lit, but always warm. The face has no expression because no maker has ever bothered to give one a mouth; there is nowhere to put an expression that would not be wasted. The hands are flat-palmed and enormous, built for breaking rather than holding.
+
+Where a Clay Golem protects property, an Iron Golem protects consequence. It guards the things men expect armies to die for: royal foundries, old war stockpiles, the sealed rooms where the ledgers and letters that built dynasties were locked away from their heirs. Clay Golems are cheap obedience. Iron Golems are the point past which no one was supposed to get.
+
+There is a way to fight one and a way to die fighting one. The former requires knowing that fire feeds the furnace in its chest and strengthens it, that the eyes are the only gap in the plate worth targeting, and that the thing does not tire. The golem's instruction set has a boundary condition somewhere. The man who set that boundary is usually no longer alive to have told anyone what it was.
+
+They are rare because making one requires a master smith, a master sorcerer, and a treasury large enough to absorb the cost of both. In the Ravenlands they tend to appear in the remnants of old power: a buried throne room, a sealed armoury under a ruin the surface-folk have no record of. Finding one means someone, once, had enemies worth building it for.
 
 #### Lore Roll
 
@@ -726,10 +750,13 @@ order is tried, it kills everyone still in the chamber.
 | 5 | **DEVIL'S MOAN!** All adventurers within NEAR range suffer a fear attack with five Base Dice. |
 | 6 | **BORROWED BEAUTY!** One adventurer within NEAR range suffers a fear attack with eight Base Dice as the Night Bride takes a beloved face. |
 
-Night Brides are desire made predatory. They appear in houses where love
-has already turned to bargain, in courts where marriage is coin, and on
-roads where lonely men promise more than they remember by dawn. Some are
-demons. Some are only what certain promises become when repeated enough.
+A Night Bride looks like whatever the person looking at her most wanted to see. This is not quite shapeshifting — the underlying form is consistent, proportioned like a tall woman with dark hair and a stillness that other women rarely hold in company. What shifts is the detail: the face adjusts, the hair color changes, the hands match a memory the observer has not thought about in years. Close up, in good light, the eyes are wrong. They are too steady. They do not blink at the right intervals.
+
+They appear in houses where love has already turned to accounting, in courts where marriage is a land transaction, and on roads where lonely men make promises they will not remember by dawn. They do not create the conditions they need. They find them. A village already sick with what was promised and not delivered, a marriage bed already cold for reasons neither party will name — these are the places a Night Bride finds useful.
+
+Some are demons. Some are only what certain promises become when repeated in the dark for long enough. The method is the same either way. They feed by touch, by charm, and by longing, and what they leave behind is not quite a corpse but a person used past the point of returning easily. The aging effect varies. Some victims grow old in a night. Some only grow tired in a way that does not lift.
+
+Old wives know two defenses: iron under the pillow slows the working, and a Night Bride will not stay in a house where every door stands open at once. The second is practical. The first requires knowing she is there before she has finished choosing whom to start with.
 
 #### Lore Roll
 
@@ -813,11 +840,13 @@ stop the haunting. The widow wants the promise kept.
 | 5 | **CAVE RUSH!** The ape throws its whole weight into two adventurers at ARM'S LENGTH. Roll the attack with seven Base Dice and Weapon Damage 1 against both. Anyone hit is knocked prone. |
 | 6 | **BONE CRACK!** The ape lifts one GRAPPLED victim and smashes them against the cave wall. Roll the attack with nine Base Dice and Weapon Damage 2. |
 
-Pale Apes are cave clans gone feral or beasts risen almost into the shape
-of men and then left there by hunger. They gather shiny things, salt,
-and children with singing voices. In old mine-country there are still
-families who leave fruit and offal at cave mouths rather than risk their
-stock on a hungry spring.
+A Pale Ape is white-furred in the way things are white when they have not seen the sun in several generations: a deep, static white with no luster, more like old bone than anything living. The arms are too long. Standing, the knuckles brush the ground. The eyes are large for the face and function well in full dark and poorly in full daylight. They know this about themselves and choose accordingly.
+
+They live deep in cave systems, old mine works, and the black cracks in limestone uplands. Whether they are a beast that grew toward the human shape or a people that grew away from it depends on which theory you favor and who you ask. The answer is less important than the behavior: they make crude tools, recognize the concept of trade, and develop fierce attachment to particular objects — including, occasionally, children with unusual voices.
+
+In their own caves they are dangerous. They know every passage, every ledge, every squeeze point where a larger animal loses its speed advantage. They throw stones with accuracy and fight in groups by instinct, one making noise to draw attention while others close from behind. Dragged into daylight they squint and grow clumsy, and the oldest ones have learned never to emerge in daylight even when the village below is there for the taking.
+
+In old mine-country there is a custom so old no one remembers why it started: leave something at the cave mouth. Fruit, salt, offal, a child's shoe — the offering varies but the logic is the same. A Pale Ape treated as a neighbor takes fewer children than one treated as a pest. Some mine-clans have kept a relationship with the same family of apes for three generations. The apes do not acknowledge this continuity in any way that would satisfy a scholar, but they do seem to remember which families have kept the offering up.
 
 #### Lore Roll
 
@@ -900,9 +929,13 @@ carry home alive.
 | 5 | **WALL SMASH!** One adventurer within SHORT range suffers an attack with nine Base Dice and Weapon Damage 2 as the creature slams them into stone. |
 | 6 | **DROP KILL!** The Rock-Hanger drops from above onto one adventurer at ARM'S LENGTH. Roll the attack with ten Base Dice and Weapon Damage 2. |
 
-Rock-Hangers feed on narrow ground: bridge spans, cliff paths, mine
-shafts, and roofed passages where prey cannot spread out. They are cave
-ambush given flesh and patience enough to pass for stone all season.
+A Rock-Hanger is mostly ceiling. The body is a mass of calcified flesh the color of local stone, ringed with tentacles that hang in loose folds until they are needed. The mouth opens downward, lined with small triangular teeth built for grip rather than cutting. At rest, with tentacles hanging still and coloration set, it is indistinguishable from the rock it clings to. The smell gives it away if the air is right: a faint sweetness under the damp-stone, the product of old prey.
+
+It favors narrow overhead ground: bridge spans, cave shafts, quarry roofs, mine crossings. The geometry does the work. Prey cannot spread out and cannot retreat without turning their backs. The tentacles reach to SHORT range, which in a nine-foot corridor is everywhere.
+
+A Rock-Hanger has occupied the same ceiling for years and feeds on whatever the passage delivers. This is not preference; it is procedure. Bridge crossings near known sites develop informal customs — an offering left at the far end, a toll paid to nothing visible above the arch. The keepers of those crossings know why and do not explain.
+
+Miners know the signs. A cave that smells faintly sweet and shows old bone in the rubble at the wall-base is a cave worth checking. The clearer sign is the absence of everything else: no bats, no centipedes, no rats. A Rock-Hanger clears a corridor of all smaller life, and it does that work quietly enough that most travelers only understand the arrangement from the wrong side of the drop.
 
 #### Lore Roll
 
@@ -985,10 +1018,13 @@ whether the beast has fed enough. His own son now drew the next chain.
 | 5 | **DANCE OF BLADES!** All adventurers at ARM'S LENGTH suffer an attack with seven Base Dice and Weapon Damage 1. |
 | 6 | **CALL THE EYE!** One adventurer within NEAR range must make an INSIGHT roll. On failure, the victim lifts their eyes and suffers the Snake Queen's gaze at once. |
 
-Snake Queens are shrine tyrants, spring prophets, cave recluses, and the
-last daughters of forgotten serpent cults. Some were born human and made
-monster by holy vanity. Some were always closer to the old reptile gods
-than to ordinary flesh.
+A Snake Queen's hair moves without wind. The serpents in it are not ornamental: they are bonded to her, with their own dim will directed entirely at whatever she directs them at. Her eyes are gold-irised and do not dilate in normal light. She moves with the deliberate economy of something that is either very controlled or very close to losing it. The gaze works at distance. You do not have to be close for it to start working.
+
+They occupy spring caves, old oracle shrines, and the deep rooms of limestone hills where seeps collect and the floor stays permanently wet. Some were born human and arrived here through devotion to the old serpent paths. Some were closer to the reptile gods from the start and learned the human parts they needed to deal with petitioners. What differs in origin arrives at the same result: a creature of genuine power seated at a point of genuine leverage.
+
+The spring is almost always the key. Springs mean water, and water means dependency. A Snake Queen at a spring can demand whatever she wants from the settlements downstream, and what she tends to want is the same thing oracle-keepers have always wanted: tribute, privacy, and regular acknowledgment of what would happen if the relationship ended. Villages downstream maintain these arrangements for generations. The arrangement suits everyone as long as the tribute keeps arriving.
+
+Most petitioners leave satisfied. Those who arrive with weapons and intent to end the arrangement encounter something different: the gaze at full reach, the serpents no longer decorative, and an oracle who has held water rights long enough to know exactly how long a siege takes.
 
 #### Lore Roll
 
@@ -1073,11 +1109,13 @@ stay silent, the son goes to stone on the first wedding night.
 | 5 | **CRUSHING BITE!** The floating horror drops to ARM'S LENGTH and bites. Roll the attack with nine Base Dice and Weapon Damage 2. |
 | 6 | **VOID OPENING!** The Star-Watcher opens its central gaze on one adventurer within NEAR range. That adventurer must win an opposed WITS roll or suffer an attack with ten Base Dice that damages Wits. |
 
-The Star-Watchers are not kin, not demons, and not anything the Raven
-Sisters name gladly. They seem drawn to broken observatories, high ruin
-courts, and old portals that no longer open cleanly. They do not guard
-such places out of loyalty. They feed on ordered passage, and it
-pleases them when the wrong thing goes through a broken gate.
+A Star-Watcher is a roughly spherical body of dense, variably dark flesh, covered in eyes. The central gaze is the large one, forward-facing and pale. The lesser eyes run in rings around the body and fire independently. The whole thing floats, hovering with the specific stillness of something that monitors several directions at once and is not concerned with any of them.
+
+The Raven Sisters have words for most things and choose them carefully. Star-Watchers are the exception. The best available description is that they arrived through a gate that no longer maintains itself, and the abandoned high observatories and broken portals of the Ravenlands feel like home to them in the way a flooded cellar feels like home to something that does not need to understand a cellar to prefer it.
+
+They feed on ordered passage, and they are most animated when the wrong thing goes through a broken gate. A spell cast within the central gaze zone disappears and the Star-Watcher brightens slightly. A traveler who approaches a broken portal and watches it flicker incorrectly will find the Star-Watcher already closer than it was. The thing is not directing these outcomes so much as savoring them. It drifts toward the interesting failure the way a crow drifts toward a dropped piece of meat.
+
+Fighting one in a ruin means fighting on its preferred ground. The lesser eyes fire in rotation, meaning there is always a gaze available regardless of angle. Blinding one eye takes a precise strike and buys a round, not a fight. The central gaze must be avoided: fighting in cover, in reflection, or by feel is the answer when the alternative is standing in it.
 
 #### Lore Roll
 
@@ -1160,10 +1198,13 @@ sit gently among them.
 | 5 | **GRASPING TENTACLES!** One adventurer at ARM'S LENGTH suffers an attack with eleven Base Dice and Weapon Damage 2. If the attack hits, the victim is GRAPPLED. |
 | 6 | **LIFE DRAIN!** One adventurer within NEAR range suffers a fear attack with twelve Base Dice. |
 
-Thought-Krakens lurk in well shafts, flooded vaults, deep cisterns, and
-old scholar-houses where thought mattered more than mercy. They feed on
-memory, shame, and the mind's private rooms. Some have been worshiped as
-oracles because they can answer any question after eating the questioner.
+A Thought-Kraken's body stays in the water and the dark. What encounters people first is the voice: a perfectly reproduced version of their own, coming from somewhere below the rope. The body, for those who have seen it, is bulbous and soft, eyeless in normal light, with tentacles that work by surface contact rather than grip and a surface that seems to draw shadow rather than reflect it. The telepathy reaches to LONG range. The body rarely surfaces by more than an arm-length.
+
+They dwell in well shafts, flooded vaults, deep cisterns, and the lower chambers of buildings where thought was valued above mercy. Old libraries built over natural cave-water systems are ideal territory. They prefer locations where people come regularly with something they need answered, because regular petitioners produce more varied mental material than opportunistic prey.
+
+They feed on memory and shame and the mind's private inventory. The interrogation process — the voice asking, the person answering, the back-and-forth that feels like genuine wisdom — is the feeding. The Thought-Kraken's questions are always the right questions because it can hear the answer forming before the question finishes. The questioner experiences this as uncanny insight. What it is, is something eating their thoughts.
+
+Some have been worshiped as oracles. The villages that kept the relationship deliberately fed the thing curated memories, managed the petitioner list, and used what it knew to run their valley for a century. When they stopped maintaining it, the Thought-Kraken went hungry. What a hungry one does to a well is not subtle.
 
 #### Lore Roll
 
@@ -1249,11 +1290,13 @@ stores.
 | 5 | **UNDERFOOT!** The ground opens under the adventurer with the highest Strength. That adventurer must make a MOVE roll. On failure, they suffer an attack with six Base Dice and Weapon Damage 2 and land prone in the torn earth. |
 | 6 | **DOWN THE BURROW!** The Tunneler seizes one adventurer at ARM'S LENGTH and tries to drag them under whole. Roll the attack with eight Base Dice and Weapon Damage 1. If the attack hits, the victim is dragged into the breach, takes 1 point of damage each round, and escapes only by inflicting 3 points of damage from inside or by being pulled free by an ally. |
 
-A Tunneler is a plated burrow-hunter bred for clay banks, collapsed mine
-cuts, and the under-soil of long-settled fields. It hunts by patience,
-not speed, and is clever enough to learn where animals are tethered, who
-walks first across the yard, and which road keeps being repaired after
-rain.
+A Tunneler is broad and flattened, built for pushing through compact earth. The carapace is banded in yellow and dark gray, the color of waterlogged clay. The head is mostly mandible, and the mandibles serve two functions: cutting earth and delivering acid. The acid is yellow, thick, and produces faint smoke on contact with flesh or iron. It burns slowly and persistently rather than fast.
+
+Tunnelers live beneath fields, roads, and old cuts. They are why certain stretches of road need repair after every hard rain: the animal moves through the subsoil and the tunnels collapse under cart weight. They can smell blood through ten feet of packed clay and have a memory for routine. They know where the stock pen is, when the night goats are moved, which side of the yard the dogs do not patrol.
+
+They hunt by patience. The burst through the surface is fast, but the period before it lasts days: stillness below a frequently-used path, learning the foot-fall intervals, waiting for the right weight. Once the ambush fails, they do not pursue. They sink back and wait again in a new location.
+
+Villages with Tunnelers under the road learn to sound the earth each morning before the first cart goes through. A plank walked on a suspicious rut, a pole pushed into the soft mud at an angle — these are country skills old enough that no one remembers why they started. The landlord who dismisses them and lets the toll-road run until it stops producing revenue is usually the same landlord whose oxen disappear first.
 
 #### Lore Roll
 
@@ -1340,10 +1383,13 @@ full of children sent to temple service.
 | 5 | **HORRIFIC ROAR!** All adventurers within NEAR range suffer a fear attack with six Base Dice. |
 | 6 | **BITE OF THE BOAR!** One adventurer at ARM'S LENGTH suffers an attack with ten Base Dice and Weapon Damage 2. If the attack hits, the victim becomes COLD and HUNGRY until they rest. |
 
-Wereboars come from bad feasts, blood grudges, old farm gods, and men
-who mistook appetite for strength. They are angriest around stores,
-pens, and winter meat because those are the things they wanted to keep
-when they first changed.
+In boar-form a Wereboar stands chest-high at the shoulder and weighs enough to move a loaded cart off a road with its body. The tusks are functional, not ornamental. The skin hardens to something close to leather through the shoulders and neck. The face retains a suggestion of what was once there: the eyes are wrong for a boar, the brow line is wrong, and the hands at the ends of those heavy forelegs end in blunt knuckle-shapes that have not fully committed to hooves.
+
+Wereboars come from bad feasts, blood grudges, old farm gods, and men who mistook appetite for strength. The change takes hold at the moment where appetite starts winning the argument — over the stores, over the winter provisions, over the livestock pens that should have been enough. Once established, the change recurs on its own calendar, usually around the new moon or around slaughter season, when the smell of blood makes the timing worse.
+
+In the changed state the rage is agricultural. They return to stores, pens, and winter provisions, because those are the things they wanted to control when they first changed. A Wereboar in a village is usually looking for something specific: the pen that was taken from them, the grain store they were shorted on, the farm they remember. The change sharpens the grievance without improving the judgment about how to address it.
+
+Some keep enough of themselves to chain their own doors on the worst nights. These are worth more mercy than the ones who stopped chaining themselves. The village that gave mercy to the last one is usually not around to discuss whether it was the right call.
 
 #### Lore Roll
 
@@ -1429,9 +1475,13 @@ same time.
 | 5 | **ALPHA GLARE!** One adventurer within NEAR range suffers a fear attack with ten Base Dice. |
 | 6 | **MAD BLOOD FRENZY!** All adventurers at ARM'S LENGTH suffer an attack with eight Base Dice and Weapon Damage 1. |
 
-Werewolves belong to moon trails, old packs, and the part of a man that
-learns too late how much he enjoyed the first kill. Some are cursed. Some
-seek it. The result at the door is much the same.
+A Werewolf at the kill is faster than its size suggests and harder to kill than either fact suggests. The change is not a clean transformation. The result is neither wolf nor man but something between the two that moves like neither, fights like both, and looks wrong from any angle. The claws are functional where the teeth are preferred. The howl carries farther than sound should carry, and animals in the village hear it before the people do.
+
+Some are cursed. Some sought it. Some woke up in it and have spent years trying to understand how. The result at the door is much the same regardless. What makes the condition worse than a simple predator is that the human interior does not entirely disappear in the changed state: it is still present, pushed to one side, watching. Some say this is the cruelty of it. Some say it is the only mercy.
+
+Werewolves on moon trails run in loose pairs or threes, rarely more. The hierarchy is physical and settles after every fight. What holds them together is not loyalty but the calculation that two changed men are harder to kill than one. Villages near wolf-roads learn to count packs. When the count changes, something has moved in from elsewhere.
+
+A werewolf that still comes back to the same house is not free of its human life. Some keep themselves well enough between the bad nights that no one outside the household is certain. These are the hardest cases: the village is split between those who know and those who are not ready to believe it yet, and the ones not ready to believe it tend to get hurt first.
 
 #### Lore Roll
 

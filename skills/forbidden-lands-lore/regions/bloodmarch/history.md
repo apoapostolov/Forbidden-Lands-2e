@@ -127,36 +127,74 @@ Historical analysis of language, religion, and tradition
 suggests the horse clans arrived from the Drawn Lands
 more than a thousand years before the Demon Flood. They
 expelled the Vasnians from the best grazing territories
-and adopted the god Horn \u2014 likely influenced by the
+and adopted the god Horn — likely influenced by the
 dwarves of Eldhem, the dwarven homeland in the Drawn Lands.
 
-The Book of Winds, believed held at the Watch of the\nSisters, records details about this origin that the horse
+The Book of Winds, believed held at the Watch of the
+Sisters, records details about this origin that the horse
 clans guard carefully.
 
 ### The Gander Mage Guild
 
-A guild of eight master mages who lived in self-imposed exile\non the eight Gåsbenen pillars at Gander's Pass. They watched\nover the pass in its open years, never taking sides in wars.
+A guild of eight master mages who lived in self-imposed exile
+on the eight Gåsbenen pillars at Gander's Pass. They watched
+over the pass in its open years, never taking sides in wars.
 They offered prophecy and counsel to any who climbed the
 pillars and asked. The eight wisest members lived out their
 lives on those pillars as a form of devotion.
 
-The collapse of Gander's Pass during the Demon Flood period\ndestroyed several of the pillars. Whether the collapse was\nnatural or triggered by the Gander to seal the pass is\nunresolved. Surviving pillars can still be visited and\nmay still provide counsel.
+The collapse of Gander's Pass during the Demon Flood period
+destroyed several of the pillars. Whether the collapse was
+natural or triggered by the Gander to seal the pass is
+unresolved. Surviving pillars can still be visited and
+may still provide counsel.
 
 ### Tarkin Clan Betrayal
 
-During the Demon Flood, a civil war broke out in Firestead\nbetween the dwarven clans. The Tarkin clan sided with the\ndemons, enabling them to breach the Grinagap bridge \u2014 the\nonly natural crossing over the Burn lava river. This allowed\nthe demons to gain a foothold inside Firestead. The Tarkin\nclan has since been abolished and their name struck from\nCaprid records. No living person publicly claims Tarkin\ndescent.
+During the Demon Flood, a civil war broke out in Firestead
+between the dwarven clans. The Tarkin clan sided with the
+demons, enabling them to breach the Grinagap bridge — the
+only natural crossing over the Burn lava river. This allowed
+the demons to gain a foothold inside Firestead. The Tarkin
+clan has since been abolished and their name struck from
+Caprid records. No living person publicly claims Tarkin
+descent.
 
 ### Sumber Greatheel
 
-An ancestor claimed by Selligar Horne. During the worst\nof the Demon Flood attacks, Sumber led a small force to\nhold off the demonic advance in open ground so that the\nremaining Houns could die in battle on their own terms\nrather than be overrun. His warriors were all killed.\nHis pregnant wife Ismaela escaped and founded the lineage\nSelligar claims today. Sumber Greatheel is a founding\nfigure of Houn warrior tradition; his name means something\nclose to "the one who held the heel of the line."
+An ancestor claimed by Selligar Horne. During the worst
+of the Demon Flood attacks, Sumber led a small force to
+hold off the demonic advance in open ground so that the
+remaining Houns could die in battle on their own terms
+rather than be overrun. His warriors were all killed.
+His pregnant wife Ismaela escaped and founded the lineage
+Selligar claims today. Sumber Greatheel is a founding
+figure of Houn warrior tradition; his name means something
+close to "the one who held the heel of the line."
 
-### Kreysel \u2014 The Hurricane Road
+### Kreysel — The Hurricane Road
 
-The Drawn Lands road is blocked by the permanent hurricane\nin Kreysel. Public explanation: the sorcerers of the Drawn\nLands sealed the road magically to protect themselves when\nthe Demon Flood reached the Bloodmarch, and have not\nreopened it. This explanation is widely accepted as fact.\n\nThe true cause involves Wail and Flow and deliberate\ndecision. This is a campaign spoiler. See\n`campaigns/bloodmarch.md`.
+The Drawn Lands road is blocked by the permanent hurricane
+in Kreysel. Public explanation: the sorcerers of the Drawn
+Lands sealed the road magically to protect themselves when
+the Demon Flood reached the Bloodmarch, and have not
+reopened it. This explanation is widely accepted as fact.
+
+The true cause involves Wail and Flow and deliberate
+decision. This is a campaign spoiler. See
+`campaigns/bloodmarch.md`.
 
 ### Nuggler's Harrow
 
-The dwarves of Eldhem did not give Sella the five Astra\npurely out of religious conviction. The Book of Winds\n(the oldest document of the horse clans) records that\nwhat the dwarves actually wanted was for Sella's united\nclans to drive the Vasnians out of the mining districts\nof Nuggler's Harrow in Vasnia. The Astra were the price\nfor military alliance, not a gift. This does not diminish\nthe religious weight they carry \u2014 but it contextualizes\nwhy the dwarves had them to give.
+The dwarves of Eldhem did not give Sella the five Astra
+purely out of religious conviction. The Book of Winds
+(the oldest document of the horse clans) records that
+what the dwarves actually wanted was for Sella's united
+clans to drive the Vasnians out of the mining districts
+of Nuggler's Harrow in Vasnia. The Astra were the price
+for military alliance, not a gift. This does not diminish
+the religious weight they carry — but it contextualizes
+why the dwarves had them to give.
 
 ### Watch of the Sisters — Founding and Metrochrone
 

@@ -19,7 +19,7 @@ poetic worldbuilding.**
 
 Each clause is a constraint. Read them in order.
 
-### "Pre-feudal"
+### "Re-feudal"
 
 The world is not feudal in the high-medieval sense. It is _re-feudal_:
 ten generations of Blood Mist destroyed travel, trade, and central
@@ -28,6 +28,16 @@ Old kingdoms exist as rumor, as tax-collectors, as pretenders, as
 ruined walls. Power is local: a clan elder, a Rust priory, an oath-lord,
 a merchant who controls the mill. Courts and banks do not exist.
 Nobles exist but their writ stops at the next hill.
+
+The manuscript's present moment is **1165 AS**. The Blood Mist lifted
+in **1160 AS** — five years ago. A woman of forty-five was born inside
+the Mist. A child of four is the first of her family to see a stranger
+on the road. Old claims are not distant history; they are being settled
+by people who are still alive and still angry. The world has a
+knowledge-gap of ten generations in it.
+
+Do not write this setting as a world that has been open for centuries.
+Write it as a world that has just reopened and does not yet know itself.
 
 What this means in prose:
 - Authority is personal, not institutional.
@@ -108,6 +118,12 @@ What is Tolkienesque:
   one grove. The Stillmist exists and cannot be found by looking.
 - Rubies in elven chests; Huge as forge-god; Belderand under the
   mountain; the Stillmist beyond.
+- The old ones are not cleanly gone. **Scarne** is imprisoned
+  under Stonegarden, not dead; the Crombe dwarves say they killed
+  her. **Iridne** chose to become the Blood Star ruby and still
+  speaks to the wearer in dreams; the wearer does not know who
+  is speaking. **Blaudewedd of the First** is believed to remain
+  in the Stillmist. The past is contained, not concluded.
 
 What is **not** Tolkienesque:
 - No high kings. No prophesied returns. No clean good-vs-evil.
@@ -192,6 +208,18 @@ The fisherman who paid for his son's life with the demon's right
 to take him back when the boy's beard came in cannot now raise
 a knife to his own son; the demon keeps his hands steady. The
 contract was always the load-bearing thing.
+
+The structural reason: demons are foreign matter from the demonic
+world **Churmog**, held here by **mog** — a living binding
+substance. A demon cannot anchor in this world without a contract
+or a nexus. The mog that forms the demon and the terms of the
+agreement are the same thing. Break the contract and the demon's
+coherence breaks with it. An unsettled demon — no contract, no
+anchor — is rarer and far more dangerous than any bound one.
+
+**Zytera** at Mount Ora is a protonexus: the largest single
+concentration of mog in the Forbidden Lands. He is not the dark
+lord. He is a gate.
 
 The right shape: the party stands in the contract-breaking
 moment. Cutting the oak releases the fever. Killing the son ends
@@ -306,18 +334,16 @@ acknowledged, even if none is resolved.
 
 ## Cross-References
 
-- `setting-ravenland-and-human-peoples.md` — geography, peoples,
-  proper nouns
-- `history-and-chronology.md` — what happened when, named
-  historical figures
-- `gods-and-religions.md` — full pantheon and orders
-- `kin-deep-dive.md` — extended detail on every kin
-- `bestiary-creatures-and-monsters.md` — origin myths,
-  ecology, encounter seeds for every monster
-- `artifacts-and-named-relics.md` — every named artifact's
-  legend and the reason its legend is partly false
-- `places-villages-adventure-sites.md` — The Hollows model,
-  village framework, named geography
+- `setting.md` — geography, peoples, proper nouns
+- `history.md` — what happened when, named historical figures
+- `gods.md` — full pantheon and orders
+- `kin.md` — extended detail on every kin
+- `bestiary.md` — origin myths, ecology, encounter seeds for
+  every monster
+- `artifacts.md` — every named artifact's legend and the reason
+  its legend is partly false
+- `places.md` — The Hollows model, village framework, named
+  geography
 - `skills/forbidden-lands-bestiary/SKILL.md` — the seven
   encounter shapes and the Resources mandate
 - `skills/forbidden-lands-writing/SKILL.md` — sentence-level

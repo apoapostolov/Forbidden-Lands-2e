@@ -116,7 +116,16 @@ effect.
 **Red elves** are the only kin that live inside Crimson
 Forests without risk of Crimson Sickness.
 
-*Crimson Forests also have their own D66 journey mishap table.*\n\n### Terrain Movement and Foraging Summary\n\n| Terrain | Movement | Forage | Hunt |\n|---|---|---|---|\n| Active Volcano | Impassable (crater accessible) | \u2212 | \u2212 |\n| Ashlands | Normal | None | None |\n| Firelands | Difficult | \u22122 | None |\n| Crimson Forest | Difficult | +1 | +1 |
+*Crimson Forests also have their own D66 journey mishap table.*
+
+### Terrain Movement and Foraging Summary
+
+| Terrain | Movement | Forage | Hunt |
+|---|---|---|---|
+| Active Volcano | Impassable (crater accessible) | − | − |
+| Ashlands | Normal | None | None |
+| Firelands | Difficult | −2 | None |
+| Crimson Forest | Difficult | +1 | +1 |
 
 ---
 
@@ -444,3 +453,65 @@ MOVE roll to extinguish itself.
 caused by demonic plague grants a D12 artifact die for
 HEALING. The burning is so painful the treated character
 must roll ENDURANCE or pass out for a Quarter Day.
+
+---
+
+## Oneiromancy — Admission and Training
+
+Oxengelder accepts students on criteria the school does not
+publish. Applicants who fail are told only that they are
+unsuitable. In practice the requirement is WITS 3 or
+lower and EMPATHY 3 or higher.
+
+Exception: any adventurer who has access to one of Horn's
+five Astra is automatically accepted for study regardless
+of their attributes. The Dreamstress is categorical about
+this; Pirimena enforces it.
+
+Training does not come with a payment structure. The
+Dreamstress teaches freely. The social weight of the
+school's loyalty expectations is the cost.
+
+---
+
+## Salterstay Rainbow — Mechanics
+
+The Salterstay rainbow barrier is maintained by Vaerefor
+van Reiben through a red elf host. It traps the ghost
+warriors from the Drawn Lands inside a ring of color bands.
+Each color band requires a specific counter to dissolve:
+
+- **Turquoise band:** Dissolved by rubies cut fresh from
+  a living red elf's chest, used as projectiles or applied.
+  Also dissolved by salt-dipped arrows.
+- **Violet band:** Dissolved by green jade.
+
+Red elves cannot tolerate non-red colors. Any adventurer
+wearing visibly non-red clothing who enters the rainbow
+perimeter risks attracting red elf attention.
+
+The entire rainbow (and Vaerefor's presence) can be
+avoided: Vaerefor will spare the rainbow and withdraw
+if offered the Goblet Staff of Have. The Goblet Staff
+is Vaerefor's actual objective; the rainbow barrier is
+leverage.
+
+---
+
+## Bann Guelder Gold — Economic Consequences
+
+The burial mound at Bann Guelder contains a massive deposit
+of pure gold. If it enters circulation in quantity, the
+local economy collapses in stages:
+
+1. Gold becomes nearly worthless in the immediate area
+   as supply floods the market.
+2. Merchants outside the area begin refusing gold from
+   the region.
+3. Saturation spreads outward over weeks or months as
+   the gold is traded into neighboring territories.
+
+This is not a campaign event that happens automatically
+— it requires someone to actually move the gold. The
+Sons of Nesos know this and it is part of why they have
+not mined it themselves.

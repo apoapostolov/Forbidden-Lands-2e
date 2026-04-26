@@ -169,6 +169,20 @@ slavery in the same way Ravenland elves do.
 Red elves are immune to Crimson Sickness — they emerged from
 the same process as the forests themselves.
 
+**Forest behavior:** Red elves move through the Crimson
+Forest without disturbing it. Bloodbeeches do not track
+them. Forest stars and slime snails ignore their movement.
+To a red elf, the forest is home terrain; to anyone else,
+moving through heavy Crimson Forest with a red elf guide
+is the difference between survival and not.
+
+They do not welcome company. They communicate with
+outside kin only when they choose to, and their choices
+about who to engage tend to be opaque to horse clan
+members. A group of red elves that decides an interaction
+is over will disengage without signaling it — they step
+backward into the forest and are gone.
+
 **Prune:** A red elf who has been injected with Blue Tar
 becomes a Prune. The transformation is irreversible. Prunes
 are blue-veined and explosive — physical contact with fire
@@ -192,6 +206,21 @@ The Caprid dwarves live in **Firestead** — a geothermal
 city under the Firelands, carved from and built on volcanic
 basalt. The city never cools. Visitors from outside consider
 it punishing. The Caprids consider our climate punishing.
+
+**Entering Firestead:** The city is accessed through
+shafts reinforced into the Firelands surface. The heat
+hits at midpoint of the descent. By the time a visitor
+reaches the main levels they are sweating through their
+clothes. The walls are dry basalt, warm to the touch.
+The ambient light comes from controlled lava flows in
+ceiling channels; the glow is orange and constant.
+Forges are distributed through the city, not concentrated
+in a district, so the sound of hammering is always
+present somewhere.
+
+Caprid dwarves dress for heat: short tunics, bare arms,
+minimal leather. In surface weather they layer heavily
+and make no attempt to hide their discomfort.
 
 **Religion:** The Caprid dwarves worship Have as the primary
 creator-deity. Their priests are also Magma Song druids —
