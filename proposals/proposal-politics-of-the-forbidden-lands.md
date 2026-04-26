@@ -234,23 +234,23 @@ The chapter should keep the coverage of a sixteen-skill engine, but the skills s
 
 ### 2.5 Faction Talents
 
-Faction talents should be five-rank paths like character talents, but they represent either the ruling style of the faction or the tradition imposed by its leader.
+Faction talents should be five-rank legacies like character talents, but they represent either the ruling style of the faction or the tradition imposed by its leader.
 
 They should not all be written in the chapter as bland administrative bonuses. They should create recognizable political identities.
 
-Candidate talent paths:
+Candidate faction legacies:
 
-- **Path of Blood Right** — dynastic legitimacy, succession, oath-weight, named retainers
-- **Path of Tribute** — regular dues, tolls, pressure, punitive exactions, tributary webs
-- **Path of the Iron Muster** — faster levy calls, reserve officers, discipline, demobilization control
-- **Path of Stone and Timber** — fortification, repair, roads, siege preparation, war stockpiles
-- **Path of the Caravan** — trade reach, safe-conducts, supply movement, merchant influence
-- **Path of the Shrine** — tithes, sermons, religious courts, zeal, sanctified claims
-- **Path of Hidden Knives** — spies, blackmail, stolen messages, sabotage, quiet removals
-- **Path of Horse and Hound** — riders, relays, scouts, huntsmen, aggressive pursuit
-- **Path of the Old Law** — moot authority, oath-helping, weregild, outlawry, precedent
-- **Path of Terror** — dread, brittle obedience, harsh collection, exemplary punishments
-- **Path of the Black Banner** — demonic or undead rule, sorcerous coercion, unnatural musters
+- **Legacy of the Claimant House** — dynastic legitimacy, succession, oath-weight, named retainers
+- **Legacy of the Tribute Throne** — regular dues, tolls, pressure, punitive exactions, tributary webs
+- **Legacy of the Mustering Crown** — faster levy calls, reserve officers, discipline, demobilization control
+- **Legacy of the Walled Seat** — fortification, repair, roads, siege preparation, war stockpiles
+- **Legacy of the Toll Court** — trade reach, safe-conducts, supply movement, merchant influence
+- **Legacy of the Sacred Seat** — tithes, sermons, religious courts, zeal, sanctified claims
+- **Legacy of the Veiled Court** — spies, blackmail, stolen messages, sabotage, quiet removals
+- **Legacy of the Riding Lord** — riders, relays, scouts, huntsmen, aggressive pursuit
+- **Legacy of the Moot Seat** — moot authority, oath-helping, weregild, outlawry, precedent
+- **Legacy of the Dread Throne** — dread, brittle obedience, harsh collection, exemplary punishments
+- **Legacy of the Black Throne** — demonic or undead rule, sorcerous coercion, unnatural musters
 
 The chapter does not need twenty talent paths at first integration. Eight to twelve good ones are enough.
 

@@ -26,7 +26,7 @@ A battle does not begin when the first horn sounds. It begins months earlier, wh
 
 Use it when a power in the Ravenlands is more than one captain and more than one village. A faction can be a petty crown, a castle lordship, a shrine federation, a merchant league, a clan confederacy, a free company in permanent service, or a dark dominion held together by dread.
 
-Use this chapter to build a faction from scratch or give hard shape to one already present in your campaign. It tells you what settlements a power rules, protects, taxes, or bleeds; how it bargains through oaths, hostage compacts, charters, tolls, and feuds; how it turns silver, grain, labor, levy, and mercenaries into usable force; and what it can truly put into the field before Chapter 12 begins.
+Use this chapter to build a faction from scratch or give hard shape to one already present in your campaign. It tells you what settlements a power rules, protects, taxes, or bleeds; how it bargains through oaths, hostage compacts, charters, tolls, and feuds; how it turns silver, grain, labor, levy, and mercenaries into usable force; and what it can truly put into the field before **BATTLES & SIEGES** begins.
 
 Do not use these rules for every loud reeve or every village elder with six cousins and a cudgel. Use them when one hand can close a gate in Fenwick, demand grain in Ash Mill, and promise protection at Duskbridge in the same hungry week. If the same power can harm, reward, or command in more than one place at once, it is large enough to deserve a faction sheet.
 
@@ -146,25 +146,25 @@ This chapter uses many old political words in a narrow way. Read them by the mea
 
 **Relief.** Relief is the practice of preventing plague, hunger, flight, burial failure, and settlement ruin from spreading faster than rule can answer them.
 
-#### Legacy paths
+#### Legacy traditions
 
-**Blood Right.** This legacy turns lineage, heirs, and remembered descent into heavier political fact.
+**Claimant House.** This legacy turns lineage, heirs, and remembered descent into heavier political fact.
 
-**Tribute.** This legacy keeps lesser places paying after the first fear cools.
+**Tribute Throne.** This legacy keeps lesser places paying after the first fear cools.
 
-**War Muster.** This legacy turns dispersed households into a more obedient host.
+**Mustering Crown.** This legacy turns dispersed households into a more obedient host.
 
-**Stone and Timber.** This legacy wins power through camps, roads, walls, repairs, and earthworks.
+**Walled Seat.** This legacy wins power through camps, roads, walls, repairs, and earthworks.
 
-**Caravan.** This legacy rules through contracts, convoy security, route privilege, and market control.
+**Toll Court.** This legacy rules through contracts, convoy security, route privilege, and market control.
 
-**Shrine.** This legacy binds obedience through witness, sermon, relic, and holy sanction.
+**Sacred Seat.** This legacy binds obedience through witness, sermon, relic, and holy sanction.
 
-**Hidden Knives.** This legacy works through bought gatekeepers, silenced messengers, and quiet ruin inside another power.
+**Veiled Court.** This legacy works through bought gatekeepers, silenced messengers, and quiet ruin inside another power.
 
-**Horse and Hound.** This legacy gives a faction sharp scouts, faster riders, and a longer pursuing hand.
+**Riding Lord.** This legacy gives a faction sharp scouts, faster riders, and a longer pursuing hand.
 
-**Terror.** This legacy makes fear itself part of the language of rule.
+**Dread Throne.** This legacy makes fear itself part of the language of rule.
 
 Use these terms consistently because later procedures call back to them as working parts of rule rather than decorative setting words.
 
@@ -256,10 +256,19 @@ Record the faction on one working sheet that looks more like a character sheet t
 | Vassals and allies |  |
 | Strongholds, roads, bridges, shrines, ferries, markets, mines, and other key holdings |  |
 | Retainers and hired bands in service |  |
+| Named agents and resident advisors |  |
 | Standing with important settlements and factions |  |
 | Active feud states |  |
 
+| ARMIES AT DISPOSAL | RECORD |
+| --- | --- |
+| Standing armies and named garrisons |  |
+| Mustered hosts and raid columns |  |
+| Current bases, supply lines, and burdensome quartering |  |
+
 You do not need to rewrite the whole sheet every turn. Holdings, basis of rule, and legacy ranks change rarely. Standing, feud, treasury, stores, campaign points, and which settlements are turning cold are the things that move most often. If you want less bookkeeping, keep one current sheet and note only what changed this week in the margin.
+
+If one army entry takes more than a line, give that force its own army roster. Most factions only need one or two before a real war begins.
 
 ### Treasury and Stores
 
@@ -309,8 +318,6 @@ Track the available strength behind the faction because these ratings decide wha
 | **Handful** | gate guards, shrine guards, hall men, oathbound riders | Retainers count as **asset rating 1** for local **DECREE**, **WATCH**, or occupation checks at the seat. | They must still be paid, fed, and kept loyal every week. |
 | **Company** | a real standing body of sworn fighters | Retainers count as **asset rating 2**, provide one standing contingent, and let the faction enter **Campaign** state without depending wholly on fresh levy. | A company eats coin, grain, and discipline even in quiet weeks. |
 | **Strong Garrison** | enough permanent force to hold the seat and another point of pressure nearby | Retainers count as **asset rating 3**. The faction can hold the seat and one nearby holding or occupation at the same time before levy must be borrowed to do it. | A strong garrison still means coin, food, and discipline must be found every week if those hard men are not to become a danger of their own. |
-
----
 
 ## Basis of Rule
 
@@ -454,7 +461,7 @@ Relief is the practice of preventing ruin from spreading faster than rule can an
 
 These legacies work like **Talents** for an adventurer. They are not tricks. They are old habits of power: drilled customs, remembered methods, and inherited ways of surviving the years when weather, debt, rebellion, hunger, and war all press at once.
 
-### Path of Blood Right
+### Legacy of the Claimant House
 
 This house keeps its dead close and its proofs closer, making lineage feel heavier than argument.
 
@@ -464,7 +471,7 @@ This house keeps its dead close and its proofs closer, making lineage feel heavi
 - ✦ **RANK 4 — CALL THE BLOOD TOGETHER:** One name can gather a countryside if enough witnesses still remember it. After a successful succession rite, fealty oath, or settled inheritance dispute, improve Standing by 1 in up to three relevant settlements, vassals, or kin groups that respect that line.
 - ✦ **RANK 5 — MAKE BLOOD LAW:** When the house prevails cleanly in a major succession struggle, the land closes around the result. Once per season, after you win such a dispute, one wavering vassal, protected settlement, or claimant household must either submit, flee, or go to open Feud at once.
 
-### Path of Tribute
+### Legacy of the Tribute Throne
 
 This power knows how to keep lesser places paying after the first fear cools and the collector has to come back again.
 
@@ -474,7 +481,7 @@ This power knows how to keep lesser places paying after the first fear cools and
 - ✦ **RANK 4 — MAKE AN EXAMPLE OF THE LATE:** One harsh collection can frighten nearby granaries open. After a successful forced collection or punitive seizure, up to two nearby tributaries or cold protected settlements must immediately decide whether to pay, hide stores, or slide toward Feud. Treat the first follow-up collection against them this season as one step easier.
 - ✦ **RANK 5 — TURN THE VALLEY INTO REVENUE:** At its height this legacy makes submission contagious. Once per season, after a decisive victory, sack, or public submission, choose up to three lesser settlements on one road or river stretch that already fear you or depend on your passage. Each becomes Tributary unless it chooses immediate open Feud.
 
-### Path of the War Muster
+### Legacy of the Mustering Crown
 
 Here the art of rule begins with rolls of names, sharpened spears, and captains who know how to turn households into ranks before courage leaks away.
 
@@ -484,17 +491,17 @@ Here the art of rule begins with rolls of names, sharpened spears, and captains 
 - ✦ **RANK 4 — CALL THE SECOND HOST:** A seasoned realm can pull another line of men from the same countryside once the first has thinned. Once per campaign, when one contingent breaks, straggles, or goes home, a second contingent from the same region can be raised or rallied without a separate **CALL LEVY** act if bodies still exist to draw on. The cost is immediate Hard burden in the supplying ground.
 - ✦ **RANK 5 — EMPTY THE LAND FOR WAR:** In its harshest form this legacy lets a ruler shake a whole district by the shoulders. Once per season, during one declared campaign, ignore the normal Levy rating limit for one **CALL LEVY** act across one whole region or cluster of ruled settlements. After that campaign week ends, every settlement that answered suffers Standing -1 unless victory, plunder, or holy cause plainly paid for the loss.
 
-### Path of Stone and Timber
+### Legacy of the Walled Seat
 
 This faction has learned that roads, walls, camps, and work yards win wars before heroes do.
 
 - ✦ **RANK 1 — SET THE STAKES:** Good ground is made, not merely found. Works tied to roads, bridges, palisades, or field camps take one fewer **SEASON TURN** or **CAMPAIGN WEEK** step to establish in play.
 - ✦ **RANK 2 — BUILD UNDER PRESSURE:** The hand that repairs under attack is worth twice the hand that only builds in peace. A damaged stronghold, bridge, mill, or wall section counts one extra success whenever a **WORKS** roll is made to restore it. Camps, ditches, and forward stockpiles are substantial enough to justify **asset rating 1** for **SIEGECRAFT** or **PROVISION** even when no permanent holding is present.
-- ✦ **RANK 3 — MAKE THE GROUND READY:** Veteran builders know which ditch to deepen and which gate timber to keep seasoned. One stronghold under this faction always counts as prepared ground when Chapter 12 begins there. Once per season, prevent 1 Hearth damage from war or weather by consuming timber, stone, and labor already on hand.
+- ✦ **RANK 3 — MAKE THE GROUND READY:** Veteran builders know which ditch to deepen and which gate timber to keep seasoned. One stronghold under this faction always counts as prepared ground when **BATTLES & SIEGES** begins there. Once per season, prevent 1 Hearth damage from war or weather by consuming timber, stone, and labor already on hand.
 - ✦ **RANK 4 — THROW UP EARTH AND TIMBER:** When a district has learned this art well, defense begins the same week the danger appears. Once per campaign week, one defended point may gain a ditch, camp wall, breach patch, bridge block, or stockade quickly enough to matter immediately. Treat the first assault, raid, or breach attempt against it that week as one step harder.
 - ✦ **RANK 5 — TURN THE DISTRICT INTO A FORTRESS:** At the height of this legacy the countryside itself starts behaving like an outwork. At the start of a siege or invasion of one ruled district, choose one stronghold and up to two roads, bridges, or ferries tied to it. For the rest of the Campaign Week they all count as prepared, supplied, and hard to wreck: the first successful enemy damage to each only scars it, and the second is needed to break it.
 
-### Path of the Caravan
+### Legacy of the Toll Court
 
 Its strength lies in movement, contract, and the promise that goods under its seal arrive alive.
 
@@ -504,7 +511,7 @@ Its strength lies in movement, contract, and the promise that goods under its se
 - ✦ **RANK 4 — BUY THE ROAD BEFORE OTHERS DO:** A rich league can pay danger to stand aside before danger even arrives. Once per season, before an **ACCORD**, **GIVE SAFE-CONDUCT**, or **HIRE MERCENARIES** act, declare a wave of contracts, escorts, and paid assurances. Improve Standing by 1 for the turn in up to three settlements on the same route, or let one mercenary bargain ignore its first late-payment consequence.
 - ✦ **RANK 5 — MAKE THE BANNER THE MARKET:** At full strength the league's seal becomes a moving jurisdiction of its own. For one full season, one road or river corridor under your protection becomes league ground. Settlements on that corridor count one step closer for **RELAY**, supply and market questions are treated as one step easier there, and the first enemy attempt to cut the line fails unless they also seize a key bridge, ferry, or warehouse.
 
-### Path of the Shrine
+### Legacy of the Sacred Seat
 
 Here relic, witness, and sermon carry almost as much weight as spears and storehouses.
 
@@ -514,7 +521,7 @@ Here relic, witness, and sermon carry almost as much weight as spears and storeh
 - ✦ **RANK 4 — NAME THE OATH-BREAKER BEFORE GODS AND MEN:** A priesthood at full voice can wound a rival without raising a single spear. Once per season, publicly condemn one rival captain, household, or settlement. Until it makes amends, it takes +1 difficulty to **ACCORD**, **CLAIM**, or **CALL COUNCIL OR MOOT** in places where the cult holds weight.
 - ✦ **RANK 5 — OPEN THE PILGRIM ROAD:** When this legacy reaches its height, belief itself begins to move men and supplies. On a declared holy cause, all ruled or protected settlements that acknowledge the shrine treat Mandate as 1 higher for levy, fealty, and refuge for one Campaign Week or Season Turn. One of them may also contribute a zealot guard, sanctuary network, or holy escort without a separate act.
 
-### Path of Hidden Knives
+### Legacy of the Veiled Court
 
 This power prefers open victory only after secret work has already loosened every hinge that mattered.
 
@@ -522,19 +529,19 @@ This power prefers open victory only after secret work has already loosened ever
 - ✦ **RANK 2 — TURN THE LOCK FROM INSIDE:** Every power has someone near the gate who can be bought. A forged message, bought guard, or bribed ferryman counts as **asset rating 1** once per turn, or raises an existing relevant asset by 1 to a maximum of **5**. Once per season, force an enemy faction to re-roll a successful **RELAY** or **ACCORD** act and keep the worse result.
 - ✦ **RANK 3 — LEAVE NO OPEN ACCUSER:** A good hidden hand makes the damage obvious and the culprit doubtful. A quiet removal, theft, or vanished courier can advance a feud without immediate Standing loss outside the directly injured place, so long as your faction is not publicly named. Once per campaign, cancel one enemy minor act entirely by revealing or triggering work you already set in motion.
 - ✦ **RANK 4 — MAKE THE HOUSE DO YOUR WORK:** Once the knives are planted deep enough, the victim begins to injure itself for you. After a successful **INTRIGUE** act, freeze one enemy contingent, route, or subordinate settlement for one turn. It arrives late, withholds dues, or refuses an order until separately steadied.
-- ✦ **RANK 5 — STRIKE BEFORE THE HORN:** At its highest form this legacy lets the battle begin before the battle begins. If open war, battle, or siege starts after successful intrigue, choose one before Chapter 12 begins: one gate, ferry, or supply asset is already compromised; one enemy captain or courier line is missing; or one enemy contingent begins late, shaken, or badly placed.
+- ✦ **RANK 5 — STRIKE BEFORE THE HORN:** At its highest form this legacy lets the battle begin before the battle begins. If open war, battle, or siege starts after successful intrigue, choose one before **BATTLES & SIEGES** begins: one gate, ferry, or supply asset is already compromised; one enemy captain or courier line is missing; or one enemy contingent begins late, shaken, or badly placed.
 
-### Path of Horse and Hound
+### Legacy of the Riding Lord
 
 Its reach is measured in how quickly scouts, riders, and pursuers appear where they are needed.
 
 - ✦ **RANK 1 — READ THE TRACK AND WIND:** The first advantage is simply knowing sooner. Scout and courier acts using **WATCH** or **RELAY** count one terrain step easier than normal.
 - ✦ **RANK 2 — RIDE THEM DOWN:** A host with fast hands can turn retreat into another kind of defeat. Mounted or fast-moving contingents under this faction arrive one campaign step sooner than ordinary levy. A successful pursuit or road-cut automatically worsens either the enemy's Feud or Standing position by one step.
-- ✦ **RANK 3 — BREAK THEIR MESSENGERS:** Once scouts and outriders know the ground, enemy movement begins to look clumsy. One hostile courier line or road movement per campaign week may be intercepted before it reaches its destination. Once per battle campaign, turn a broken enemy flank into a pursuit advantage when Chapter 12 begins, if your fast troops were present.
+- ✦ **RANK 3 — BREAK THEIR MESSENGERS:** Once scouts and outriders know the ground, enemy movement begins to look clumsy. One hostile courier line or road movement per campaign week may be intercepted before it reaches its destination. Once per battle campaign, turn a broken enemy flank into a pursuit advantage when **BATTLES & SIEGES** begins, if your fast troops were present.
 - ✦ **RANK 4 — APPEAR WHERE YOU WERE NOT EXPECTED:** A seasoned rider host can answer two alarms in what looks to others like one motion. Once per campaign week, shift one ready contingent from one threatened holding to another as if the destination were one step closer and still let it act that week.
 - ✦ **RANK 5 — HUNT THEM TO THE LAST CART:** At full strength the pursuit does not end when the line breaks. After winning a field battle, raid, or broken retreat, choose one: seize baggage and step the enemy's Stores or Treasury down one step; capture a named captain or hostage; or turn the retreat into immediate collapse at one nearby settlement, worsening its Standing or pushing it into open Feud.
 
-### Path of Terror
+### Legacy of the Dread Throne
 
 This faction has made fear part of its ordinary language of rule and wants the countryside to remember that fact.
 
@@ -582,11 +589,11 @@ Do not pay twice for the same event. If one victory already earned **5 CP**, do 
 
 ### Spending Campaign Points
 
-A faction needs no **Teacher** to improve. Its teachers are defeat, profit, blood, drilled labor, and the memory of what nearly broke it. Spend banked CP only when the fiction explains the change: a conquered toll road may justify **Traffic**, a season of hard service may justify **Discipline**, a stronger cult hold may justify **Path of the Shrine**, and absorbed villages may justify **Hearth** or **Mandate**.
+A faction needs no **Teacher** to improve. Its teachers are defeat, profit, blood, drilled labor, and the memory of what nearly broke it. Spend banked CP only when the fiction explains the change: a conquered toll road may justify **Traffic**, a season of hard service may justify **Discipline**, a stronger cult hold may justify **Legacy of the Sacred Seat**, and absorbed villages may justify **Hearth** or **Mandate**.
 
 Raise practices, pillars, and legacies one rank or step at a time. A faction can never raise a pillar above **5** through CP, and no practice or legacy should exceed the ranks already used elsewhere in this chapter.
 
-Example: Stonewall breaks Fenwick, secures the ferry, and forces the river road open again. That may be **5 CP** for the victory itself. If those points are spent on **Traffic**, the meaning is that the reopened ferries and tollmen now answer more cleanly than before. If the same points go into **Path of Tribute**, the victory taught a different lesson: not how to move goods, but how to keep lesser places paying after the fear of battle begins to cool.
+Example: Stonewall breaks Fenwick, secures the ferry, and forces the river road open again. That may be **5 CP** for the victory itself. If those points are spent on **Traffic**, the meaning is that the reopened ferries and tollmen now answer more cleanly than before. If the same points go into **Legacy of the Tribute Throne**, the victory taught a different lesson: not how to move goods, but how to keep lesser places paying after the fear of battle begins to cool.
 
 ### Raising Practices with CP
 
@@ -615,6 +622,119 @@ Example: Stonewall breaks Fenwick, secures the ferry, and forces the river road 
 | **2 → 3** | **9** |
 | **3 → 4** | **12** |
 | **4 → 5** | **15** |
+
+---
+
+## Agents and Advisors
+
+Power does not always move as a host, a seal, or a shouted decree. Sometimes it moves in one hard rider, one widow who keeps the hostage keys, one shrine-reader who knows which oath is false, one old groom who can tell which horse was ridden after midnight, or one fellowship of adventurers willing to carry a faction's need farther than its own captains can reach.
+
+Use these rules for named hands acting for a faction without being armies of their own. A group of player characters can serve in either role. If they ride beyond the seat, work in hostile ground, or return with captives, proofs, relics, or blood on them, they are acting as **Agents**. If they stay at the seat and do their work through hostages, guest halls, records, kitchens, chapels, armories, and intrigue under the ruler's own roof, they are acting as **Advisors**.
+
+Record them on the faction sheet or in its margin. Name matters here. Faceless helpers do not change faction play the way a known captain, hostage-keeper, shrine-wife, or player fellowship does.
+
+### Agents
+
+An agent is a named hand sent out from the seat: champion, rider, shrine emissary, spy, monster-hunter, outlaw-broker, oath-bearer, mercenary captain on special service, or one whole fellowship of adventurers. Agents travel. They carry the faction's will beyond the hall and are judged by what they bring back: a road opened, a hostage freed, a traitor named, a beast killed, a relic recovered, an oath won, or a corpse with the right seal hanging from its belt.
+
+If the player characters play the whole undertaking out in ordinary adventurer time, do not flatten that into one roll. Let the short campaign happen at the table. Judge the faction reward only when the work is finished and its political meaning is clear.
+
+### Agent Undertaking
+
+When an agent's work happens mostly offstage, or when the GM wants to resolve a whole dangerous stretch of service between turns, make one **Agent Undertaking** roll with ordinary adventurer mechanics.
+
+Roll the attribute and skill that truly carried the work.
+
+- **Strength + Melee** for duel, hard seizure, bloody rescue, or killing the one person whose death ends the obstacle
+- **Agility + Stealth** or **Agility + Move** for infiltration, escape, hidden entry, night crossing, or getting the captive out alive
+- **Wits + Scouting** or **Wits + Survival** for ranging, pursuit, hidden roads, border work, long hunting, or monster-tracking
+- **Wits + Lore** for relic recovery, ruin-work, shrine mysteries, demon signs, blood-proof, or old-right questions that no sword settles cleanly
+- **Empathy + Manipulation** or **Empathy + Performance** for embassy, oath-bargain, seduction, public witness, rumor-turning, or winning a local power without open blood
+
+Other pairings are allowed if the table can say plainly what the agent actually did with hand, voice, horse, steel, or wit.
+
+A faction may support the undertaking with letters of authority, silver, guides, horses, shrine witness, safe-conduct tokens, or one known local contact. Treat that as ordinary help or difficulty modification, not as a faction roll.
+
+| DIFFICULTY | UNDERTAKING |
+| --- | --- |
+| **1** | dangerous road, one guarded target, one wary local ally, or one hard but direct objective |
+| **2** | hostile ground, winter travel, a guarded secret, or two linked objectives that must both hold |
+| **3** | enemy heartland, rival agents, demon-work, or work that must remain deniable if it succeeds or fails |
+| **4** | campaign-ending strike, impossible weather, layered betrayal, or a task that could damage the faction badly if exposed |
+
+On success, the agent does the thing. With extra successes, choose one for each.
+
+- return unseen, or leave the blame uncertain
+- bring back a named hostage, witness, chart, relic, letter, or other hard proof
+- widen the result to one more settlement, route, captain, or subordinate question tied to the same undertaking
+- spare the faction one immediate fallout that failure would otherwise have caused
+
+On failure, choose one result that fits.
+
+- the work is delayed, and the next related faction roll takes +1 difficulty
+- the agent returns hurt, thinned, or short one key member
+- the enemy learns who sent them, and **Feud** advances by 1
+- the agent is trapped, bought, lost, or forced to cut ugly terms just to come home alive
+
+### Agent Deeds and Campaign Points
+
+Agents do not mint CP by surviving one dangerous night. Ordinary adventurer success is already its own reward. Give CP only when the finished work changed faction play in a way you can point to on the map, in the oath-ring, or in the grain tally.
+
+| CP AWARD | WHAT THE DEED REALLY WAS |
+| --- | --- |
+| **No CP** | one bold raid, one hard duel, one smuggling run, one rescued purse, one slain outlaw captain, one ruined tomb survived, or any other success that matters to the fellowship more than to the faction sheet |
+| **1 CP** | the sort of deed that could carry a short campaign: slaying the beast that had closed three villages, bringing back a hostage whose loss would have broken terms, burning the magazines feeding one raid season, returning with proof that settles a blood-claim in one district, or winning one cold protector back into open oath |
+| **2 CP** | a major deed that shifts a season or a feud: exposing and ruining a rival spy-road, winning a rider clan or shrine circle into service, seizing a relic, charter, bridge, or ferry chain that changes the campaign, or carrying cure, witness, or holy ward through hostile ground strongly enough to save a district |
+| **5 CP or more** | the end of a true campaign: bringing back claimant, relic, and sworn backing enough to end a succession war, killing or casting down the creature or war-captain that made campaigning impossible across a frontier, or breaking a whole plot that would have opened several gates or turned several settlements at once. When the deed reaches this scale, use the normal CP table above. |
+
+If the player characters are serving as agents, be stricter rather than looser. Do not hand out CP for ordinary session victories. Award it only when the completed arc changed the faction's actual position in the world.
+
+### Advisors
+
+An advisor is not merely a wise mouth beside the chair. An advisor is the hand that keeps a seat from being surprised in its own hall: the steward who knows which tally was lied about, the keeper of seals who sees fresh wax on an old order, the woman set over hostages and foster children, the old groom who knows which horse was ridden at midnight, the shrine-reader who can tell when a holy witness has been bought, the quartermaster who knows whether the wagons promised for muster truly exist, or the brewer and chamber-servants who hear what captains say once the cups have gone low.
+
+Advisors do not travel for their work. If they ride out on the road, scout hostile ground, or act beyond the seat's immediate reach, they are agents for that undertaking instead.
+
+### Seat Work
+
+Once per **Season Turn** or **Campaign Week**, one named advisor or advisor circle may attempt one piece of **Seat Work**. Use ordinary adventurer mechanics.
+
+Roll the attribute and skill that truly fit the work.
+
+- **Wits + Insight** to read envoys, captains, hostages, or liars in the hall
+- **Wits + Lore** to test charters, blood claims, shrine law, old rights, or conflicting records
+- **Wits + Scouting** to uncover a planted agent, trace secret movement around the seat, or learn who met whom after dark
+- **Empathy + Manipulation** to pacify envoys, keep captains together, soothe hostage kin, or stop a council from splitting wide open
+- **Empathy + Performance** to master feast politics, ceremonial witness, public reading, sermon, or rumor-shaping at the seat
+- **Strength + Crafting** to reckon engines, armories, quartering, wagon order, or a muster plan whose truth lies in timber, iron, rope, and stores
+- **Empathy + Healing** to keep a vital hostage, heir, witness, or wounded captain alive long enough for politics to hold
+
+Other pairings are allowed if the table can state the work in concrete terms. Advisors do not solve things by abstraction. They solve them by reading faces, checking seals, testing boards, counting sacks, placing men, and hearing the wrong note in a frightened lie.
+
+| DIFFICULTY | SEAT WORK |
+| --- | --- |
+| **1** | one guest-hall quarrel, one small secret, one ordinary muster reckoning, or one suspicious messenger |
+| **2** | enemy envoys, disputed records, jealous captains, a hidden thief in the seat, or a peace that could still sour at table |
+| **3** | false charters, bought witnesses, poisoned hospitality, hostage unrest, or a muster plan that must hold under strain and bad weather |
+| **4** | a seat already split by fear, layered intrigue under one roof, demon-work, or a plot that could open the gates from within |
+
+On success, bank **1 bonus die** for one later faction roll made from the seat or directly sustained by the seat. Each extra success after the first may do one of two things:
+
+- add **1** more bonus die, to a maximum of **3** stored from one piece of Seat Work
+- if the Seat Work was difficulty **4** and the advisor scored **3 or more total successes**, turn one stored bonus die into one **D8 Ascendancy Die** instead
+
+This stored die lasts until the end of the next faction turn of the same length. A **Season Turn** result helps only the next **Season Turn**. A **Campaign Week** result helps only the next **Campaign Week**. It may be applied only to a faction roll whose truth still lives at the seat: **Decree**, **Accord**, **Claim**, **Intrigue**, **Watch**, muster planning, line-of-supply preparation from base, envoy handling, and similar work. It does not strengthen a field army already days away except where the roll is truly about orders, support, or help sent from the seat.
+
+If one stored die becomes a **D8 Ascendancy Die**, it counts as that roll's Ascendancy Die and does not stack with another one.
+
+On failure, choose one result that fits.
+
+- the wrong man is trusted, and the next related seat-based faction roll takes +1 difficulty
+- rumor outruns the truth, and **Standing** falls by 1 at the seat or in one nearby settlement that heard the tale
+- the plot stays hidden, and the enemy keeps one unseen edge for one more turn
+- one named advisor is compromised, discredited, silenced, or forced to flee the hall
+
+Advisors do not generate CP. Even a brilliant counselor usually strengthens one later decision rather than enlarging the faction by itself. Their victory is local, immediate, and often invisible until the die is finally spent.
 
 ---
 
@@ -953,7 +1073,9 @@ On success, judgment or agreement stands for now. On failure, factions leave ang
 
 The faction turns right, fear, or obligation into bodies. Roll with **Force + Muster**. The result does not create men from air. It activates the levy the faction truly has available, up to the limit set by the faction's current **Levy** rating: **None** raises nothing, **Small** raises one contingent, **Ready** raises two, and **Heavy** raises three. See **Retainers, Levy, and Mercenaries** below. On failure, the levy arrives late, thin, or unwilling, and Mandate or Force takes 1 damage depending on why.
 
-When levy is converted to troops for Chapter 12, use Mandate to judge willingness.
+Each contingent raised this way must either join an existing army roster at its base or form a new army before the week ends.
+
+When levy is converted to battle troops, use Mandate to judge willingness.
 
 | MANDATE | LEVY CONDITION |
 | --- | --- |
@@ -1008,6 +1130,8 @@ On success, the settlement becomes **Protected**. With 2+ extra successes, it ma
 **TYPE:** Major act
 
 The faction buys force outside the ties of blood and custom. Roll with **Hearth + Provision** to see whether the faction can actually sustain the terms, then use the hiring rules in **MERCENARIES OF THE FORBIDDEN LANDS**. If the bargain is chiefly coin, let **Treasury** back the roll. If it is chiefly food, transport, or plunder-share, let **Stores** back it instead.
+
+Write the band into the army roster it is joining as soon as terms are sworn. A company with no named base, no commander responsible for it, and no honest answer to who feeds it is only trouble waiting for dusk.
 
 A faction with **Thin** or **Bare** Treasury may still hire a band. The question is whether it can keep the band after the first promises are spoken. If exact pay matters, use the daily soldier salaries from **BATTLES & SIEGES** for the force being hired and count the price across seven days. A band held under retainer for a full campaign week will usually step **Treasury** down one rating unless the faction has **Deep** Treasury, a rich charter behind it, or captured pay to spend. On a failed hire-sustain roll, the band serves for `D3 + 1` weeks before demanding harsher terms, fresh plunder, or release.
 
@@ -1123,12 +1247,12 @@ On success, the lesser power becomes **Vassal** or **Ally** as negotiated. Hosta
 
 The faction secures an agreement with a ward, hostage, or important dependent. Roll with **Mandate + Accord** or **Reach + Intrigue**. Use Accord when the hostage is given under terms. Use Intrigue when the hostage is seized or manipulated into place. On failure, the act turns uglier than intended, and Standing falls by 1 with the other party even if the hostage is taken.
 
-**Hostages from Chapter 12.** Hostages taken through siege surrender terms, coercive village collection, or occupation rule count as normal hostage assets under this chapter. They carry the same political weight as any other hostage and interact with Feud, Standing, and occupation checks accordingly. Returning them cleanly — after a truce, on good terms at the end of a campaign — can reduce Feud by 1 or improve Standing by 1 where the fiction supports it. Harming them, losing them through negligence, or executing them under duress worsens Feud or Standing by 1 even if the death was not deliberate: the other side makes no distinction between malice and carelessness when the body comes back.
+**Hostages from BATTLES & SIEGES.** Hostages taken through siege surrender terms, coercive village collection, or occupation rule count as normal hostage assets under this chapter. They carry the same political weight as any other hostage and interact with Feud, Standing, and occupation checks accordingly. Returning them cleanly — after a truce, on good terms at the end of a campaign — can reduce Feud by 1 or improve Standing by 1 where the fiction supports it. Harming them, losing them through negligence, or executing them under duress worsens Feud or Standing by 1 even if the death was not deliberate: the other side makes no distinction between malice and carelessness when the body comes back.
 
 **Hostage lifecycle.** The rules above handle the taking. Keep track of these states during long campaigns:
 
 - **Escape** — the hostage leaves without formal release. Treat as a failed Take Hostage act with all its Standing consequences.
-- **Rescue** — an enemy raid, intrigue, or field action frees the hostage. This is an enemy act using Reach + Intrigue or a military operation in Chapter 12.
+- **Rescue** — an enemy raid, intrigue, or field action frees the hostage. This is an enemy act using Reach + Intrigue or a military operation in **BATTLES & SIEGES**.
 - **Death by neglect or illness** — the hostage dies in custody through no deliberate act. Treat as hostage harm for Standing and Feud purposes unless the holding faction can demonstrate the death was beyond their control and the other side accepts that. They usually do not.
 - **Formal return** — the holding faction releases the hostage as part of a truce or political act. Use Send Gift or Bride-Price or Negotiate Truce or Peace to structure the return.
 
@@ -1165,7 +1289,7 @@ Campaign burden is what a faction takes once war, mustering, or occupation has b
 
 A settlement can be asked, per week, for up to **three times its population in supplies** without immediate collapse, up to **five times its population in copper** as the outer acceptable cash demand, and more than that only by destructive over-extraction.
 
-Chapter 11 decides **who is asked** and **what it costs politically**. Chapter 12 tells you the hard physical ceiling. A village can survive one week of hard taking and still look whole from the road. It may take a season for the truth to show itself in pawned tools, thin seed grain, daughters married badly for bread, or three households slipping away before dawn with what animals they can still drive.
+Chapter 11 decides **who is asked** and **what it costs politically**. **BATTLES & SIEGES** tells you the hard physical ceiling. A village can survive one week of hard taking and still look whole from the road. It may take a season for the truth to show itself in pawned tools, thin seed grain, daughters married badly for bread, or three households slipping away before dawn with what animals they can still drive.
 
 ### Burden Levels
 
@@ -1174,7 +1298,7 @@ Chapter 11 decides **who is asked** and **what it costs politically**. Chapter 1
 | **Light** | no immediate harm; the settlement still lives its own life |
 | **Hard** | Standing -1 unless the settlement is fiercely loyal; next Settlement Turn worsens by 1 |
 | **Crushing** | Standing -2, Feud +1, one household or local power holder gains Need +1 or Heat +1 if you use village play |
-| **Ruinous** | use the starvation, collapse, and deterioration rules from Chapter 12 immediately |
+| **Ruinous** | use the starvation, collapse, and deterioration rules from **BATTLES & SIEGES** immediately |
 
 **Hard** burden is the point where ordinary rule begins to taste like occupation. **Crushing** burden is where names are remembered. If you are unsure whether the demand crossed the line, ask who will still speak for the faction after the wagons leave.
 
@@ -1206,7 +1330,7 @@ The GM chooses the pairing that best reflects what must hold together for the ho
 - **Hearth + Provision** if the real question is supply, carts, fodder, and who can still eat
 - **Mandate + Discipline** if the real question is obedience, cohesion, and whether the host still believes in the hand above it
 
-On success, the faction enters Chapter 12 in the state it earned. With extra successes, choose one: the first ordinary supply strain is ignored, one contingent arrives in good order and does not suffer opening confusion, or one first morale test in the opening battle or siege counts one step easier.
+On success, the faction enters **BATTLES & SIEGES** in the state it earned. With extra successes, choose one: the first ordinary supply strain is ignored, one contingent arrives in good order and does not suffer opening confusion, or one first morale test in the opening battle or siege counts one step easier.
 
 On failure, the passage into war is crooked. Roll or choose on the table below.
 
@@ -1220,7 +1344,7 @@ On failure, the passage into war is crooked. Roll or choose on the table below.
 | 34-36 | One levy contingent arrives thin, angry, or badly armed. Remove one quality edge if it had one. |
 | 41-43 | Fear outruns command. One nearby settlement worsens Standing by 1 when the host passes through. |
 | 44-46 | Camp discipline is loose before the first clash. Theft, brawling, or premature plunder shames the banner. |
-| 51-53 | The enemy reaches the ground first. Treat the foe as better positioned when Chapter 12 opens. |
+| 51-53 | The enemy reaches the ground first. Treat the foe as better positioned when **BATTLES & SIEGES** opens. |
 | 54-56 | A rumor of bad omens, broken oath, or failed rite spreads through the host. Damage **Mandate** or **Force** by 1. |
 | 61-63 | One named captain, guide, priest, or courier is absent when needed most. |
 | 64-66 | The campaign begins already divided: choose two lesser failures above, or one and immediate Feud +1 in the rear. |
@@ -1260,12 +1384,12 @@ A faction fields force from five places. No pre-feudal power commands a clean st
 1. **Retainers** — permanent sworn fighters.
 2. **Levy** — temporary service drawn from settlements or kin groups.
 3. **Specialists** — riders, scouts, engineers, healers, shrine men, hunters.
-4. **Mercenaries** — hired companies from Chapter 12 of Book 01.
+4. **Mercenaries** — hired companies from **MERCENARIES OF THE FORBIDDEN LANDS**.
 5. **Unnatural or Fanatical Forces** — cult zealots, thralls, undead, monstrous troops.
 
 ### What Settlements Can Provide
 
-This chapter decides what a settlement can credibly put in the field. Chapter 12 decides how that force fights once formed. Be strict here. Most places can spare fewer trained bodies than a proud ruler claims after drink. A village may have fifty adults and still only yield one useful contingent, because someone must watch the animals, grind the grain, mend the harness, and keep the old and young alive while the spears are gone.
+This chapter decides what a settlement can credibly put in the field. **BATTLES & SIEGES** decides how that force fights once formed. Be strict here. Most places can spare fewer trained bodies than a proud ruler claims after drink. A village may have fifty adults and still only yield one useful contingent, because someone must watch the animals, grind the grain, mend the harness, and keep the old and young alive while the spears are gone.
 
 | SETTLEMENT | WHAT IT CAN PROVIDE |
 | --- | --- |
@@ -1334,11 +1458,11 @@ Use **MERCENARIES OF THE FORBIDDEN LANDS** to build the band exactly. Use this c
 
 A mercenary band changes local politics the moment it appears. Villages that would endure their lord's own men may balk at foreign boots in the yard. Rival powers may read the hire as weakness, ambition, or proof that war is now certain. Apply those reactions through Standing shifts, harder negotiations, or quicker feud escalation where appropriate.
 
-### Converting to Chapter 12 Troops
+### Converting to Battle Troops
 
 When you hand a faction to **BATTLES & SIEGES**, use this logic so the politics already established here continue to matter once battle begins. The conversion should carry forward the same shortages, obligations, resentments, and strengths that shaped the campaign up to this point.
 
-In this chapter, a **contingent** is the political source of men. In Chapter 12, that contingent becomes a **troop** once its exact size and quality are set.
+In this chapter, a **contingent** is the political source of men. In **BATTLES & SIEGES**, that contingent becomes a **troop** once its exact size and quality are set.
 
 - **Village Levy** becomes levy infantry or skirmishers.
 - **Large Village with Training Grounds** becomes trained infantry.
@@ -1346,13 +1470,175 @@ In this chapter, a **contingent** is the political source of men. In Chapter 12,
 - **Horse-Rich Land** can add cavalry.
 - **Mercenary Band** contributes the troop type its own chapter says it truly is.
 - **Shrine-Raised Zealots** may count as fervent troops where appropriate.
-- **Undead, Cult, or Monstrous Power** converts according to the creature or troop entries of Chapter 12.
+- **Undead, Cult, or Monstrous Power** converts according to the creature or troop entries of **BATTLES & SIEGES**.
 
-If a faction's **Mandate** is low, reduce levy quality or willingness. If **Force** is low, reduce numbers or remove reserve. If **Reach** is low, have one contingent arrive late or split. If **Hearth** is low, begin the campaign with worse supply or weaker repair. A single contingent is enough to use Chapter 12 if it is facing another formed force, but a faction built on one troop alone cannot sustain long Campaign state without quick reinforcement, easy retreat, or outside support.
+If a faction's **Mandate** is low, reduce levy quality or willingness. If **Force** is low, reduce numbers or remove reserve. If **Reach** is low, have one contingent arrive late or split. If **Hearth** is low, begin the campaign with worse supply or weaker repair. A single contingent is enough to use **BATTLES & SIEGES** if it is facing another formed force, but a faction built on one troop alone cannot sustain long Campaign state without quick reinforcement, easy retreat, or outside support.
 
-Use this handoff to preserve what the faction sheet already established. A faction that reached war through fear, late dues, and broken roads should begin Chapter 12 with weaker cohesion, strained supply, or brittle levy quality rather than receiving a clean military reset.
+Use this handoff to preserve what the faction sheet already established. A faction that reached war through fear, late dues, and broken roads should begin **BATTLES & SIEGES** with weaker cohesion, strained supply, or brittle levy quality rather than receiving a clean military reset.
 
-Use that principle in both directions. A disciplined, well-fed host with good Standing behind it should feel steadier before dice are ever rolled in Chapter 12. A host gathered from resentful villages, unpaid mercenaries, and one desperate shrine should feel dangerous, but dangerous in the way brushfire is dangerous: hot, fast, and always close to turning on the hand that spread it.
+Use that principle in both directions. A disciplined, well-fed host with good Standing behind it should feel steadier before dice are ever rolled in **BATTLES & SIEGES**. A host gathered from resentful villages, unpaid mercenaries, and one desperate shrine should feel dangerous, but dangerous in the way brushfire is dangerous: hot, fast, and always close to turning on the hand that spread it.
+
+## Armies at Disposal
+
+A levy roll is not an army. It only tells you who answered. An army exists once those men are named, grouped, put under a commander, tied to a base, and given some honest answer to how they will eat next week. Until then you have bodies, not a host.
+
+Keep a separate army roster for every force that stays in being across turns: a seat garrison, a punitive column, a field host, a siege line, a mercenary band under long retainer, or a holy war-circle that keeps one road and two ferries obedient. If the same bodies go home at dusk and are called again next month, they do not need a roster yet.
+
+### Army Scale in the Ravenlands
+
+The Ravenlands does not commonly produce the kind of giant army that darkens a whole horizon. Most wars are decided by forces small enough that captains still know one another by face, but large enough that villages remember where the bread went afterward.
+
+| SCALE | WHAT IT USUALLY IS | WHAT IT IS FOR |
+| --- | --- | --- |
+| **Garrison or road guard** | one troop or less | seat defense, tower watch, guarded ferry, hard toll post |
+| **Small host** | 1-2 troops | raid, escort, punitive march, border holding, quick relief |
+| **Field host** | 3-5 troops | decisive valley war, siege line, relief column, march on a rival seat |
+| **Great host** | 6 or more troops | rare campaign-defining war; usually split across two army rosters marching together |
+
+Most faction wars should stay at **Small host** or **Field host** scale. Save the **Great host** for Alderstone, Stonegarden, Zertorme at full call, or another struggle big enough to make the whole land lean and listen.
+
+### Reach and Separate Armies
+
+Keeping one host in motion is hard enough. Keeping two from arriving late, hungry, and misinformed is harder. Keeping three is the work of a realm whose roads, riders, and captains are already better than most.
+
+| REACH | ARMIES IT CAN KEEP MOVING CLEANLY |
+| --- | --- |
+| **1-2** | one field army beyond the seat |
+| **3-4** | two field armies, or one field army and several hard garrisons |
+| **5** | three field armies, or two and a web of moving escorts, reserves, and courier columns |
+
+If a faction keeps more field armies moving than its **Reach** can honestly carry, all **Army Travel**, **Provisions**, and **Maintenance** rolls for the excess armies take +1 difficulty.
+
+### The Army Roster
+
+Put every kept army on its own record.
+
+| ARMY RECORD | RECORD | ARMY RECORD | RECORD |
+| --- | --- | --- | --- |
+| Name |  | General or captain |  |
+| Base |  | Current position |  |
+| Current duty |  | Supply line |  |
+| Provision load |  | Pay load |  |
+| Weeks in the field |  | Unpaid weeks |  |
+| Hungry weeks |  | Quartering, burden, or notes |  |
+
+| TROOPS IN THE ARMY | SOURCE | BATTLE FORM | PRESENT STATE |
+| --- | --- | --- | --- |
+| 1. |  |  |  |
+| 2. |  |  |  |
+| 3. |  |  |  |
+| 4. |  |  |  |
+| 5. |  |  |  |
+| 6. |  |  |  |
+
+Write the troop in the form it will use in **BATTLES & SIEGES**: infantry, skirmishers, cavalry, monster, siege crew, or some other troop type already used there. Do the conversion here, not at the lip of battle. Then the handoff becomes quick and honest.
+
+Use **Present State** for the facts that matter right now: fresh, late, unpaid, understrength, mounted, zealot, winter-bitten, half-fed, or any other truth that will bite when the horn sounds.
+
+### Provision Load and Pay Load
+
+Do not count every sack in Chapter 11 unless the table enjoys it. Use the rough weekly weight below, then let **BATTLES & SIEGES** take exact control once battle or siege begins.
+
+| LOAD | WHAT IT USUALLY MEANS |
+| --- | --- |
+| **Light** | seat garrison, one road column, one troop close to home, or one small holy escort |
+| **Heavy** | 2-3 ordinary troops, one cavalry detachment, one hard field host, or one real siege task |
+| **Crushing** | 4 or more troops, a cavalry-heavy host, a long siege line, or any army trying to live off poor ground |
+
+If the truth on the map is obvious, do not argue the steward's count. If three ferries, two mills, and every grain cart on the road are already bent under the host, the load is **Crushing** whether anyone has written the number neatly or not.
+
+### Forming, Joining, and Dismissing Armies
+
+After a successful **Call Levy**, **Hire Mercenaries**, or reassignment of retainers, each contingent does one of three things.
+
+- it joins an existing army at the same base
+- it forms a new army roster
+- it remains a local garrison at its own holding
+
+An army is not fit to march until it has a commander, a base, and a named route or provision plan. If none of those can be stated, the force may still gather, but it is not yet an army. It is a crowd under arms.
+
+When an army is dismissed, cross off the troops that truly go home. Any **Unpaid Weeks**, **Hungry Weeks**, and local grievance remain behind in the fiction even when the roster clears.
+
+### Army Upkeep in the Turn
+
+After the ordinary work of any faction turn, run **Maintenance** for every army kept in being.
+
+In **Muster** and **Campaign**, and in any quieter mode where an army is away from base or living on the road, also run **Provisions** and **Army Travel** for that force.
+
+### Provisions
+
+Run this once per active army that is away from base, under siege, feeding itself from the countryside, or plainly eating more than the seat can hide. Roll **Hearth + Provision** or **Reach + Relay**.
+
+| DIFFICULTY | CONDITION |
+| --- | --- |
+| **0** | the army sits in its own base or winter quarters, and Stores are still sound |
+| **1** | one protected road, river, or ferry chain keeps it fed |
+| **2** | ordinary field service, mixed ground, or a **Heavy** provision load |
+| **3** | hostile country, winter roads, broken crossings, siege line, or a **Crushing** load |
+| **4** | the supply line is cut, the base is unsafe, or the army is trying to live off already-strained ground |
+
+On success, the army eats.
+
+With extra successes, choose one.
+
+- clear 1 **Hungry Week** from the roster
+- keep one week of carried reserve in hand
+- avoid worsening burden in one supplying settlement this week
+
+On failure, choose one result that fits.
+
+- **Stores** step down
+- one supplying settlement worsens one burden step
+- mark **Hungry Weeks +1** on the roster
+- the army halts, splits to forage, or arrives late enough to lose the next timing edge
+
+An army with **Hungry Weeks** is already carrying famine into the next fight. If it enters **BATTLES & SIEGES** with **one Hungry Week**, one troop begins the first day unfed. With **two or more Hungry Weeks**, two troops do, or the whole army if it is smaller than that.
+
+### Maintenance
+
+Run this once per army kept in being, even in **Peace** or **Pressure**. Use **Mandate + Discipline** when the real question is obedience, grievance, and whether the men still answer the same horn. Use **Hearth + Provision** when the real question is pay chests, remounts, spare harness, shoeing, and keeping hard men in usable order. **Treasury** may back the roll when coin is the real answer.
+
+| DIFFICULTY | CONDITION |
+| --- | --- |
+| **0** | seat garrison or one quiet week at base |
+| **1** | ordinary retainer service or the first week of levy in the field |
+| **2** | **Heavy** pay load, mounted troops, one mercenary band, or a second week of levy service |
+| **3** | late pay, recent defeat, winter quartering under strain, or a mixed army of levy and mercenaries |
+| **4** | an unpaid army, an army living by sack, or troops held together only by fear |
+
+On success, the army stays in hand. If the fiction supports it, clear 1 **Unpaid Week** or let one levy contingent stay one extra week without fresh local Standing loss.
+
+On failure, choose one result that fits.
+
+- **Treasury** steps down, or mark **Unpaid Weeks +1**
+- one levy contingent goes home at week's end
+- one troop loses one quality edge, or begins the next battle with 1 fewer morale point
+- **Mandate** or **Force** takes 1 damage
+
+If an army reaches **2 Unpaid Weeks** and fails again, use **When Payment Fails** in **BATTLES & SIEGES** or let the host answer first with looting, mutiny, or hard bargaining at spearpoint.
+
+### Army Travel
+
+When day-by-day movement matters, use the quarter-day travel rules in **JOURNEYS** and **BATTLES & SIEGES**. When only the week matters, use the summary below.
+
+A foot host on good ground can usually cover **10 hexes** in one campaign week. That assumes five hard travel days and two more lost to the work large bodies of men cannot escape: gathering stragglers, feeding beasts, mending harness, getting wagons over bad crossings, and making the whole host move as one thing instead of a broken string.
+
+| ARMY IN MOTION | CLEAR ROAD OR OPEN COUNTRY | ROUGH GROUND, BROKEN ROADS, OR HEAVY WOODS | WINTER, FLOOD, OR SIEGE TRAIN |
+| --- | --- | --- | --- |
+| **foot host, mixed host, or wagon column** | 10 hexes | 6 hexes | 4 hexes |
+| **all-mounted host with no wagons** | 20 hexes | 10 hexes | 6 hexes |
+| **any host dragging heavy engines, long baggage, or prisoners** | use the slower line above and worsen one step if the ground is bad |  |  |
+
+Use the army's slowest real element. If even one infantry troop, one siege train, or one line of baggage sets the pace, the horse rides only as fast as the carts can keep the host alive.
+
+Roll **Reach + Relay** when the real question is timed arrival, reserve concentration, or holding the baggage and stragglers together. Roll **Reach + Watch** when the real question is scouting, hiding the march, or crossing dangerous ground before the enemy closes.
+
+Make this roll only when timing, secrecy, or danger matters. On success, the army arrives as planned. On failure, choose one.
+
+- it arrives late
+- one troop straggles, splits, or is left behind
+- the next **Provisions** roll takes +1 difficulty
+- the enemy learns the line and gains a road-cut, ambush, or interception chance
 
 ---
 
@@ -1394,7 +1680,7 @@ Extra successes let you combine two of these results if the fiction allows it.
 
 The target may restore the line with **Reach + Relay**. If another faction is actively holding the cut, treat it as an opposed roll. Ties favor the line already in place.
 
-Once armies are truly in the field, use Chapter 12's exact supply rules.
+Once armies are truly in the field, use **BATTLES & SIEGES** for exact supply rules.
 
 Supply cutting should always be tied to a political failure, local grievance, or purchased betrayal. A convoy fails because scouts were bribed, because a ferryman chose kin over contract, because a village did not ring the warning bell, or because some widow pointed the raiders toward the right cart out of spite for last month's collector. Record the reason for the loss, because it tells the GM which wound in the countryside is now feeding the campaign.
 
@@ -1414,7 +1700,7 @@ Treat occupation as Campaign state even if no field army is moving. Occupation a
 
 Occupation holds only while the occupier can keep men fed, enforce routine fear, and secure enough local cooperation to keep daily life functioning. If those conditions fail, move quickly from quiet compliance to sabotage, refusal, flight, and open feud. No garrison is large enough to watch every path, oven, byre, and kin-contact for long.
 
-**Occupation modes.** Chapter 12 identifies three immediate ways a place is held after it falls:
+**Occupation modes.** **BATTLES & SIEGES** identifies three immediate ways a place is held after it falls:
 
 - **Oaths and hostages** — selected people are held as insurance. The settlement complies unless the hostages are freed or the oaths break. The first attempt at organized resistance, refusal, or smuggling in the next campaign week fails automatically unless the hostages are already freed.
 - **Garrison rule** — soldiers are quartered inside. Compliance is enforced by presence. Works while pay holds and the garrison is large enough to suppress organized resistance.
@@ -1450,7 +1736,7 @@ On failure, choose one:
 - A hostage is lost, escaped, or freed by someone inside the garrison
 - The settlement shifts from Occupied to active Feud — suppression now requires a military act, not a political one
 
-**Path of Terror, rank 2** provides one immunity per campaign: the first failed occupation check does not advance the settlement to active Feud. The failure result is still chosen from the list above; only the shift to open Feud is deferred that one time.
+**Legacy of the Dread Throne, rank 2** provides one immunity per campaign: the first failed occupation check does not advance the settlement to active Feud. The failure result is still chosen from the list above; only the shift to open Feud is deferred that one time.
 
 Treat a place as occupied until dues arrive without armed escort, routine work resumes without daily coercion, and local resistance no longer shapes every weekly check. Until then, keep the settlement under Occupied status even if no open battle is taking place.
 
@@ -1462,30 +1748,30 @@ To run occupation well, track where the occupier still depends on the people it 
 
 > _By the time the first shield wall locked, the road had already been lost twice in council, once in a priest's mouth, and once again in the barn ledger where Ash Mill's grain was crossed out in charcoal and not replaced._
 
-### When Chapter 12 Begins
+### When Battle Play Begins
 
 Move into **BATTLES & SIEGES** when two real armies are in position to fight, when a place is fully invested and the next question is wall, gate, or relief, when supply lines and quarter-day army movement matter more than faction acts, or when the PCs are acting as generals, champions, or officers inside a battle.
 
-A feud in the **Mustered War** state does not always mean Chapter 12 has begun. It means armies are gathered and war is openly intended. If both sides still maneuver, threaten, raid, negotiate, or try to break the other's support before committing, remain in Chapter 11. Move to Chapter 12 only when the matter is about to be decided by battle, siege, or relief in the field. When you cross that threshold, make the **Handoff** roll first.
+A feud in the **Mustered War** state does not always mean battle play has begun. It means armies are gathered and war is openly intended. If both sides still maneuver, threaten, raid, negotiate, or try to break the other's support before committing, remain in Chapter 11. Move to **BATTLES & SIEGES** only when the matter is about to be decided by battle, siege, or relief in the field. When you cross that threshold, make the **Handoff** roll first.
 
-Stay in Chapter 11 while the struggle is still being decided by oaths, roads, stores, hostages, and village obedience. Move to Chapter 12 once formed bodies in the field are about to decide the matter by battle, siege, or relief.
+Stay in Chapter 11 while the struggle is still being decided by oaths, roads, stores, hostages, and village obedience. Move to **BATTLES & SIEGES** once formed bodies in the field are about to decide the matter by battle, siege, or relief.
 
 ### What the Host Carries to War
 
-Before Chapter 12 begins, know these things. An army does not appear from nowhere, and two hosts with the same troop count can behave like entirely different forces if one is fed by willing towns and the other is dragging itself forward on frightened levy and late pay. Know who the general is, which named captains or officers are present, what contingents and troop types are fielded, what quality they are, what base feeds them, what line of supply connects base to army, whether nearby settlements are feeding willingly or under force, and whether the troops are levy, retainers, mercenaries, zealots, or monsters.
+Before **BATTLES & SIEGES** begins, know these things. An army does not appear from nowhere, and two hosts with the same troop count can behave like entirely different forces if one is fed by willing towns and the other is dragging itself forward on frightened levy and late pay. If you are using army rosters, these answers should already be written there. Know who the general is, which named captains or officers are present, what contingents and troop types are fielded, what quality they are, what base feeds them, what line of supply connects base to army, whether nearby settlements are feeding willingly or under force, and whether the troops are levy, retainers, mercenaries, zealots, or monsters.
 
 If any of those answers are missing, stop and settle them before battle begins, because the missing answer is usually the real weakness of the campaign.
 
 ### After the War
 
-When Chapter 12 ends, return here. Battle aftermath should change faction play because war in a pre-feudal land does not end at the field edge. It keeps moving through barns, kin groups, ferries, harvest schedules, and blood-price demands. Lost troops reduce levy and retainers. Pillaged villages change status and Standing. Unpaid armies turn into grievance, banditry, or mutiny. Broken roads damage **Reach**. Damaged walls and mills damage **Hearth**. A defeated ruler may lose **Mandate** without losing the seat immediately.
+When **BATTLES & SIEGES** ends, return here. Battle aftermath should change faction play because war in a pre-feudal land does not end at the field edge. It keeps moving through barns, kin groups, ferries, harvest schedules, and blood-price demands. Lost troops reduce levy and retainers. Pillaged villages change status and Standing. Unpaid armies turn into grievance, banditry, or mutiny. Broken roads damage **Reach**. Damaged walls and mills damage **Hearth**. A defeated ruler may lose **Mandate** without losing the seat immediately.
 
 **War Reckoning.** After any major battle, siege fall, or failed campaign, run this step before returning to normal faction turns. Apply each item that is true.
 
 | What happened | Faction damage |
 | --- | --- |
 | A contingent was destroyed or routed | Force −1 per destroyed major contingent |
-| Soldiers were not paid at campaign end | Mandate −1; see When Payment Fails in Chapter 12 |
+| Soldiers were not paid at campaign end | Mandate −1; see When Payment Fails in **BATTLES & SIEGES** |
 | Villages were pillaged, sacked, or burned | Hearth −1 per village lost; each becomes Occupied or worse |
 | A key road, bridge, or ford was cut or destroyed | Reach −1 |
 | Walls, mills, granaries, or foundries were damaged | Hearth −1 |
@@ -1509,26 +1795,70 @@ War eats next season first. Any settlement that was pillaged, burdened at **Crus
 | **2** | the settlement was pillaged, burned lightly, or held under hard burden |
 | **3** | the settlement was sacked, starved, or left with broken mills, dead draft animals, or lost seed |
 
-On success, the place limps through. On failure, reduce local output, worsen Standing by 1, and treat the first due collected there next season as one step harder. A second failed season in the same place damages **Hearth** for the ruling faction unless real relief, seed grain, or remitted dues are sent.
+On success, the place limps through. On failure, roll or choose on the table below.
+
+| D66 | HUNGRY GROUND FAILURE |
+| --- | --- |
+| 11-13 | The seed grain is gone. The first **Yield** or **Collect Due** act there next season takes +1 difficulty. |
+| 14-16 | One draft beast has been slaughtered, sold, or eaten. The first **Works** or **Provision** act there next season takes +1 difficulty. |
+| 21-23 | A granary has been opened by night. Standing falls by 1 and blame runs through the village like fire in thatch. |
+| 24-26 | Children, elders, or the sick begin dying first. Damage **Hearth** unless real relief is sent before the next turn ends. |
+| 31-33 | The reeve lies to save the village. False tallies, hidden sacks, and buried meal pits make the next collection there one step harder. |
+| 34-36 | One household marries a daughter badly, sells a son to service, or swears itself to another patron for bread. A rival gains quiet influence there. |
+| 41-43 | Labor thins. Young people slip away, or whole households leave before dawn. Tie up **Labor** there until relief or resettlement begins. |
+| 44-46 | Hunger turns mean. Knife-theft, barn raids, and desperate beatings erupt after dark. Standing falls by 1. |
+| 51-53 | The shrine stores are broken open or accused of being broken open. Either the local priesthood turns cold or Feud rises with anyone blamed. |
+| 54-56 | The village eats what should have been next season's start. The next failed Hungry Ground test here damages **Hearth** immediately. |
+| 61-63 | The burial ground is neglected. Corpses lie too shallow, dogs worry the edges, and fear spreads with the stink. Relief there takes +1 difficulty until it is answered. |
+| 64-66 | The settlement decides survival matters more than obedience. It withholds dues this turn and quietly seeks another protector. |
+
+Unless a result says otherwise, local output is reduced and Standing worsens by 1. A second failed Hungry Ground test in the same place during the same year damages **Hearth** for the ruling faction unless real relief, seed grain, or remitted dues are sent.
 
 #### Men Come Home Hard
 
 Soldiers do not walk back through the gate and become ploughmen by sunset. After any campaign that kept levy or retainers in the field for two weeks or more, test each heavily used ruled settlement with **Mandate + Accord** or **Force + Discipline**.
 
-On success, the men come home tired but governable. On failure, choose one:
+On success, the men come home tired but governable. On failure, roll or choose on the table below.
 
-- brawling, extortion, and knife-feuds break out among returning men
-- one band of veterans refuses ordinary labor and drifts toward outlaw life
-- one named captain, sergeant, or shrine-firebrand becomes a harder local power than before
-- the next levy call from that settlement takes +1 difficulty
+| D66 | MEN COME HOME HARD |
+| --- | --- |
+| 11-13 | Alehouse fights begin before the harness is even hung up. The first local judgment or peace-making act there takes +1 difficulty. |
+| 14-16 | Returning men begin extorting food, beds, or small silver from their own neighbors. Standing falls by 1. |
+| 21-23 | One band of veterans refuses ordinary labor and drifts toward outlaw life. Mark them as a named local danger. |
+| 24-26 | One captain, sergeant, or shrine-firebrand comes home with more followers than before and begins speaking like a lesser lord. |
+| 31-33 | A feud that should have stayed on campaign soil comes home with the survivors. Name the blood debt and the households bound into it. |
+| 34-36 | Weapons go missing from store, chapel, or hall. The next levy call from that settlement takes +1 difficulty. |
+| 41-43 | One household refuses to take a soldier back under its roof. The insult becomes public, and Mandate or Standing suffers by 1. |
+| 44-46 | One veteran begins gathering the bitter, the maimed, and the unpaid around him. Treat this as a new hard local power. |
+| 51-53 | A grave quarrel erupts over pay, plunder, or who ran first. One named retainer or village notable turns cold. |
+| 54-56 | The returning men shame the shrine, market, or moot with drunken violence. The next **Accord** or **Rite** act there takes +1 difficulty. |
+| 61-63 | The settlement tries to hide the men, disarm them, or turn them away. Feud advances by 1 if the ruler forces the matter. |
+| 64-66 | The soldiers come home as another faction waiting to happen. Choose two lesser results above, or one and immediate Standing -2. |
 
-If soldiers return unpaid, hungry, or ashamed after defeat, choose two instead.
+If soldiers return unpaid, hungry, or ashamed after defeat, roll twice and keep both results, or choose one and worsen it one step.
 
 #### Dear Markets and Thin Shelves
 
 War makes goods dear before the smoke is gone. In any district touched by siege, sack, heavy requisition, or broken roads, treat common availability as one step worse for one full season after the war. Iron, salt, draft beasts, wagon parts, and milling service are the first things to bite.
 
 If you prefer price to availability, raise ordinary prices by half in the damaged district instead. Use both only when the land is plainly broken and traders fear the road.
+
+Each time the player characters or faction agents enter such a settlement during that season, roll or choose on the table below.
+
+| D66 | DEAR MARKETS AND THIN SHELVES |
+| --- | --- |
+| 11-13 | Salt is gone. Meat is rotting on lines and everyone is bargaining for what little cure remains. |
+| 14-16 | The smith's yard is full of broken rivets, bent nails, and men waiting with cracked tools. No ordinary repair is done today without favor or silver. |
+| 21-23 | Draft beasts are worth more than men with swords. Cart hire, remounts, or plough teams cost half again as much. |
+| 24-26 | Flour is cut with husk, bark, or old bean meal. Bread fills the belly but leaves the village angry. |
+| 31-33 | Bowstrings, leather, and bootwork are scarce. Marching gear, tack, or missile upkeep counts one step harder to secure here. |
+| 34-36 | A trader has shuttered his stall rather than sell at knife-point. People crowd the door and curse his name. |
+| 41-43 | Coin is distrusted. The market wants iron, salt, lamp oil, or grain instead, and strangers are watched for hoarding. |
+| 44-46 | One woman, reeve, or teamster loudly accuses another of profiteering. The whole square leans toward a riot. |
+| 51-53 | The mill queue has stretched into the road. Hungry men sleep near the stones so no one can cut in ahead of them. |
+| 54-56 | Traders refuse to come inside the palisade without escort. Any buying worth more than a few coppers needs a guarantee or armed watch. |
+| 61-63 | A theft over food, tack, or iron has already spilled blood today. The first social scene in the market begins hot. |
+| 64-66 | The market has half-collapsed into panic: stalls overturned, prices shouted, and one useful good simply unavailable until order is restored. |
 
 #### Broken Works
 
@@ -1543,11 +1873,43 @@ Destroyed infrastructure keeps wounding the land until it is repaired.
 
 Repair does not happen by declaration. It needs **WORKS**, labor, material, and time.
 
+Each time the player characters or faction agents reach a place still marked by broken works, roll or choose on the table below.
+
+| D66 | BROKEN WORKS ENCOUNTER |
+| --- | --- |
+| 11-13 | The bridge deck is half gone. Carts back up on both banks and every crossing takes time, argument, or nerve. |
+| 14-16 | The ferry rope has snapped or been badly spliced. No one trusts the crossing in wind or after dark. |
+| 21-23 | The mill wheel stands still. Grain waits in sacks, tempers rise, and bread is already short. |
+| 24-26 | A granary roof leaks black rot into one corner. Men shovel spoiled grain away while pretending the loss is smaller than it is. |
+| 31-33 | The forge is cold or the bellows torn. No nails, shoeing, or honest metalwork can be had here today. |
+| 34-36 | The stable or byre is burned out. Remounts are thin, lame, or simply gone. |
+| 41-43 | A watchtower leans, blackened and cracked. The locals see less than they say they do. |
+| 44-46 | The gate hangs crooked or the wall is still breached. Any show of force here begins from weakness. |
+| 51-53 | Rubble, ditch spoil, or split timbers choke the road through the place. Heavy movement is delayed until hands clear it. |
+| 54-56 | Labor gangs are at each other's throats over pay, food, or whose roof gets fixed first. |
+| 61-63 | A child, carter, or old repair hand was crushed or maimed by the damage not three days ago. The work now carries fresh grief. |
+| 64-66 | Another piece gives way while the party is present. Someone screams, timber falls, and the harm is no longer an old story. |
+
 #### Tainted Ground
 
 War leaves places hungry for worse things. A battlefield thick with unburied dead, a burned village full of grief, a plague camp, or ground scorched by sorcery may begin drawing monsters, undead, or demons more readily than ordinary country.
 
-For one full season after a massacre, sack, demon-work, or openly corrupt war, the GM may treat the place as cursed ground for encounter purposes. Roll twice for local encounter pressure and keep the harsher result, or add one unnatural sign even if no creature appears: lights over graves, beasts born wrong, carrion that will not leave, dreams that spread from house to house, or whispers from ditch water after dark.
+For one full season after a massacre, sack, demon-work, or openly corrupt war, the GM may treat the place as cursed ground for encounter purposes. Roll twice for local encounter pressure and keep the harsher result, or roll or choose on the table below whenever player characters or faction agents enter the place.
+
+| D66 | TAINTED GROUND |
+| --- | --- |
+| 11-13 | Carrion birds refuse to leave one roof, tree, or cairn no matter how often they are driven off. |
+| 14-16 | Horses snort foam and dogs whine at empty ground. No animal wants to stable here after dusk. |
+| 21-23 | Pale lights drift over graves, ditches, or ruined walls once the sun goes red. |
+| 24-26 | Ditch water or marsh seep whispers a name spoken during the war, and not always the same one twice. |
+| 31-33 | The next sleep here brings dreams of battle, burial, or fire. No one wakes rested. |
+| 34-36 | One child, fool, drunk, or mourner speaks as though answering someone long dead. |
+| 41-43 | Something has fed here that should not have. Show spoor, torn carrion, drained blood, or a body half-buried by clawed hands. |
+| 44-46 | A restless dead figure is glimpsed where no living sentry stands. It does not attack yet. It only watches. |
+| 51-53 | Crops, reeds, or hedge growth have come up wrong: black-veined, pallid, or stinking of grave mold. |
+| 54-56 | The place has become a thing people speak around, not through. No local guide will stay after dusk without heavy payment or holy escort. |
+| 61-63 | A demon sign shows plain in the world: scorched hoofmarks, a circle of fused stone, skin hung on thorn, or air that tastes of blood and copper. |
+| 64-66 | Trouble steps forward at once. Roll immediately for an unnatural encounter, or use the harshest fitting creature already tied to the area. |
 
 Ground like this is quieted only by burial, cleansing rites, relief work, and time. A full quiet season may be enough. A place soaked in demon-work usually wants more.
 
@@ -1574,22 +1936,20 @@ Use these when you need a ready frame before assigning full numbers. Treat them 
 
 ## Premade Factions of the Forbidden Lands
 
-> _No power in the Ravenlands is alone long enough to stay clean. If it rules men, roads, shrines, or grain, it already owes something and is already owed in return._
+> _No power in the Forbidden Lands stands clean for long. Alderstone demands tribute, Amber's Peak gathers old enemies under one banner, Stonegarden watches from its height, and the forest still remembers whose dead were left unburied._
 
-Use the following factions as written or steal from them shamelessly.
+These entries are drawn from the great powers and grudges named in **HISTORY**, **GODS**, and **KIN**. Use them as ready faction sheets, then let them worsen, split, harden, or starve in play.
 
-Do not treat these entries as frozen specimens. Use them as starting frames, then update them whenever a feud rises, a road closes, a harvest fails, or a captain defects. The sheet is most useful when every important change can be traced back to visible events in play.
+### The Rust Brothers of Alderstone
 
-### Stonewall Lordship
+The Order holds Alderstone with ruins, undead, half-demons, and the promise that only submission keeps worse things out.
 
-A hard border lordship holding road, bridge, and granary country east of Ravenford.
-
-- **Seat:** Stonewall Keep
-- **Type:** Castle Lordship
-- **Basis of Rule:** Protection
+- **Seat:** Alderstone
+- **Type:** Militant Faith
+- **Basis of Rule:** Cult Sanction
 - **Current State:** Pressure
-- **Current Aim:** Break Fenwick's refusal and reopen the ford road before first frost
-- **Current Weakness:** Mandate is thinning in the river villages
+- **Current Aim:** Restore hard tribute in the western villages now that the Blood Mist no longer frightens men into obedience by itself
+- **Current Weakness:** The Mist has lifted, and fear no longer does the Order's work for free
 
 | PILLAR | RECORD |
 | --- | --- |
@@ -1598,190 +1958,257 @@ A hard border lordship holding road, bridge, and granary country east of Ravenfo
 | Reach | 3 |
 | Hearth | 3 |
 
-**Favored Practices:** Accord 3, Decree 3, Muster 3, Discipline 2, Traffic 2, Provision 2, Works 2, Claim 1
+**Favored Practices:** Rite 3, Decree 3, Assault 3, Provision 2, Intrigue 2, Watch 1, Relief 1
 
-**Legacies:** Path of Blood Right 2, Path of the War Muster 2, Path of Stone and Timber 1
+**Legacies:** Legacy of the Sacred Seat 3, Legacy of the Dread Throne 3, Legacy of the Tribute Throne 2
 
-**Holdings:** Stonewall Keep, Fenwick Ford (contested), Ash Mill granaries, Duskbridge toll road, one bridge, one shrine under uneasy support
+**Holdings:** Alderstone, the old effigies of Rust and Heme, sacrifice grounds, ruin quarters, charnel yards, tribute roads, outlying temple posts
 
-**Resources:** Treasury Sound, Stores Sound, Labor Working, Levy Ready, Retainers Company
+**Resources:** **Treasury** Sound, **Stores** Sound, **Labor** Working, **Levy** Ready, **Retainers** Strong Garrison
 
-**Forces:** one household infantry contingent, one levy contingent from the mill villages, one hired mercenary band under short retainer
+**Forces:** Iron Guard, Rust Brothers, Sisters of Heme, Misgrown raiders, undead servants, half-demonic war beasts
 
-**Standing:** Ash Mill +2, Duskbridge +1, Fenwick -1, Raven Sisters of the ford country -1
+**Armies at Disposal:**
 
-**Feud:** Fenwick at 2 (Pressure), the Red Hook road raiders at 1
+- **Alderstone Garrison** — 1 Iron Guard infantry troop, 1 Rust Brother infantry troop, 1 undead infantry troop, and 1 monster troop of chained war beasts held at the seat.
+- **Western Tithe Column** — 1 Rust Brother infantry troop, 1 skirmisher troop of shrine guards and bowmen, and 1 misgrown terror detail sent against cold villages, ferries, and grain roads.
 
-### The Raven Sisters of the Ford Country
+**Standing:** Rust-held villages +1, hidden Raven villages -2, Congregation of the Serpent -1, Alderstone zealots +2
 
-A scattered but influential religious power built on burial rights, oath witness, and the care of roads where the dead are often found.
+**Feud:** Raven Sisters 3, Golden Bough 3, Redrunners 3
 
-- **Seat:** The Black Birch Shrine
+### Zertorme at Amber's Peak
+
+Zertorme, son of Zygofer and Martea, has drawn exiles, riders, and bitter survivors eastward beneath a name that means chosen. Some follow him for vengeance, some for land, some because they would rather trust a haunted champion than bow to Alderstone.
+
+- **Seat:** Amber's Peak
+- **Type:** Oath Host
+- **Basis of Rule:** Oath Confederacy
+- **Current State:** Muster
+- **Current Aim:** Weld Quards, Galdanes, Margelda villages, and old Harga survivors into one host fit to march west
+- **Current Weakness:** His following is held by shared hatred and sworn need, not by one blood, one law, or one shrine
+
+| PILLAR | RECORD |
+| --- | --- |
+| Mandate | 3 |
+| Force | 4 |
+| Reach | 4 |
+| Hearth | 3 |
+
+**Favored Practices:** Accord 3, Muster 3, Discipline 3, Watch 2, Relay 2, Claim 2, Decree 1
+
+**Legacies:** Legacy of the Mustering Crown 3, Legacy of the Riding Lord 2, Legacy of the Claimant House 1
+
+**Holdings:** Amber's Peak, camps and halls in Margelda, rider roads, eastern village loyalties, land grants promised to sworn fighters
+
+**Resources:** **Treasury** Thin, **Stores** Sound, **Labor** Working, **Levy** Ready, **Retainers** Company
+
+**Forces:** Galdane riders, Quard households, eastern levy, survivors from Harga, hard captains bound by oath
+
+**Armies at Disposal:**
+
+- **Amber's Peak Host** — 2 infantry troops of Quards, Galdanes, and Harga survivors, 1 cavalry troop of sworn riders, and 1 skirmisher troop of eastern scouts.
+- **The Eastern Screen** — 1 light cavalry troop and 1 skirmisher troop ranging ahead of the main host, calling villages, watching roads, and screening the muster.
+
+**Standing:** Quards +1, Galdanes 0, eastern villages +1, Alderstone -3
+
+**Feud:** Alderstone 4, Rust Brothers 3
+
+### The Raven Sisters
+
+The Raven Sisters remain the hidden core of the Raven Church: healers, shapeshifters, herb-wives, oath witnesses, and hunted enemies of the Rust faith.
+
+- **Seat:** no fixed seat; shrine houses, burial roads, and hidden village sanctuaries
 - **Type:** Militant Faith
 - **Basis of Rule:** Cult Sanction
-- **Current State:** Peace
-- **Current Aim:** Keep lordly war off the burial roads and punish oath-breakers at the ford
-- **Current Weakness:** Little direct Force of their own
+- **Current State:** Pressure
+- **Current Aim:** Keep villages alive, preserve Raven worship, and strip the Rust Brothers of what tribute still clings to fear
+- **Current Weakness:** They are loved in many places and openly strong in few
 
 | PILLAR | RECORD |
 | --- | --- |
 | Mandate | 5 |
 | Force | 2 |
-| Reach | 3 |
+| Reach | 4 |
 | Hearth | 3 |
 
-**Favored Practices:** Rite 3, Accord 3, Relief 3, Watch 2, Intrigue 2, Claim 1
+**Favored Practices:** Rite 3, Accord 3, Relief 3, Watch 2, Intrigue 2, Yield 1
 
-**Legacies:** Path of the Shrine 3, Path of Hidden Knives 1
+**Legacies:** Legacy of the Sacred Seat 3, Legacy of the Veiled Court 2, Legacy of the Riding Lord 1
 
-**Holdings:** Black Birch Shrine, three grave roads, burial rights in five villages, one ferry blessed and watched by them
+**Holdings:** wandering sisters, burial roads, hidden shrines, healing houses, village hearths that still keep Raven's signs behind shutters
 
-**Resources:** Treasury Thin, Stores Thin, Labor Light, Levy Small, Retainers Handful
+**Resources:** **Treasury** Thin, **Stores** Thin, **Labor** Light, **Levy** Small, **Retainers** Handful
 
-**Forces:** shrine guards, oathbound escorts, a few zealous local men in crisis
+**Forces:** Raven Sisters, hidden escorts, village sympathizers, healers, shape-shifting messengers, a few sworn defenders
 
-**Standing:** among common villages +2, among predatory captains -2, with Stonewall Lordship -1
+**Armies at Disposal:**
 
-**Feud:** none open, but Grievance with any faction that hangs men without witness on their roads
+- **The Grave-Road Circle** — 1 infantry troop of shrine escorts and sworn defenders, with 1 light skirmisher troop raised from friendly villages when the roads turn hard.
+- **The Blackwing Escort** — a moving war-circle of messengers, healers, shapeshifters, and hidden bowfolk treated as 1 light skirmisher troop unless the whole countryside rises for it.
 
-### The Amber Road League
+**Standing:** Ailander villages +2, Raven-faith households +2, Elvenspring +1, Rust-held settlements -2
 
-A merchant league that does not rule land well but rules movement better than most lords.
+**Feud:** Rust Brothers 3, Reapenters 2
 
-- **Seat:** Amber Peak counting house and the wagon yards below it
-- **Type:** Merchant League
-- **Basis of Rule:** Wealth
+### The Golden Bough of Dankwood and Vivend
+
+The largest druid order left in the land, led by elves and worked in great part by Elvenspring who still believe nature is owed protection even when men have forgotten how to deserve it.
+
+- **Seat:** Dankwood and Vivend
+- **Type:** Druidic Order
+- **Basis of Rule:** Cult Sanction
 - **Current State:** Pressure
-- **Current Aim:** Secure a protected caravan corridor to the west without becoming a lord in truth
-- **Current Weakness:** Weak Mandate outside towns and market roads
+- **Current Aim:** Cut rot, demon-work, and ruby-hunting from forest edge and hidden glade alike
+- **Current Weakness:** They know how to preserve the land better than how to govern desperate humans living at its edge
 
 | PILLAR | RECORD |
 | --- | --- |
-| Mandate | 3 |
+| Mandate | 4 |
 | Force | 2 |
-| Reach | 5 |
+| Reach | 4 |
 | Hearth | 4 |
 
-**Favored Practices:** Traffic 3, Relay 3, Accord 3, Yield 2, Provision 2, Intrigue 2, Watch 1
+**Favored Practices:** Rite 3, Relief 3, Watch 3, Works 2, Accord 1, Intrigue 1, Provision 1
 
-**Legacies:** Path of the Caravan 3, Path of Hidden Knives 2
+**Legacies:** Legacy of the Sacred Seat 2, Legacy of the Riding Lord 2, Legacy of the Walled Seat 1
 
-**Holdings:** two market towns, three toll bridges by charter, several ferries by agreement, warehouses, convoy routes
+**Holdings:** hidden dwellings in Dankwood and Vivend, druid paths, clay shrines, ent glades, sacred growing places
 
-**Resources:** Treasury Deep, Stores Sound, Labor Working, Levy Small, Retainers Handful
+**Resources:** **Treasury** Thin, **Stores** Sound, **Labor** Working, **Levy** Small, **Retainers** Handful
 
-**Forces:** hired guards, convoy skirmishers, mercenary contracts, no heavy native levy
+**Forces:** older druids, Elvenspring bowmen, forest scouts, beast-guides, hidden wardens
 
-**Standing:** market towns +2, small villages 0, border lords variable, free companies +1 if paid on time
+**Armies at Disposal:**
 
-**Feud:** one open trade war with the Red Salt Ferry Syndic at 1, simmering pressure with several toll lords
+- **The Dankwood Ward** — 1 skirmisher troop of Elvenspring bowmen and 1 infantry troop of wardens and beast-guides guarding the inner wood.
+- **The Vivend Watch** — 1 light forest host built around scouts, shrine-keepers, and cutters of tainted ground; treat as 1 skirmisher troop unless the order has time to harden it.
 
-### The Skull Chain of Urhur
+**Standing:** Elvenspring +2, Raven Sisters +1, villages 0, Rust Brothers -3, wolfkin -2
 
-An orc confederacy that lives by old rights of passage, extortion, and the promise of sudden violence.
+**Feud:** Rust Brothers 3, wolfkin 2
 
-- **Seat:** no fixed hall; war camps and one hard valley stronghold
-- **Type:** Clan Confederacy
-- **Basis of Rule:** Oath Confederacy and Conquest
-- **Current State:** Muster
-- **Current Aim:** Break a Rust Brother outpost before winter seals the pass
-- **Current Weakness:** Hearth is always thinner than Force
+### The Redrunners
+
+These are the hard hands of the elves who chose not to sleep through loss. They move in smaller hunting bands, killing what should not live and recovering what should never have been taken.
+
+- **Seat:** no fixed seat; forest lodges, hidden roads, and field camps beneath the Red Wanderer
+- **Type:** War Order
+- **Basis of Rule:** Protection
+- **Current State:** Pressure
+- **Current Aim:** Recover stolen rubies, strike Zytera's creatures, and punish raiders who think the hidden forests belong to them
+- **Current Weakness:** They have long reach and little Hearth, and their contempt for stoneless kin keeps them thin in allies
 
 | PILLAR | RECORD |
 | --- | --- |
-| Mandate | 3 |
-| Force | 5 |
-| Reach | 4 |
+| Mandate | 2 |
+| Force | 4 |
+| Reach | 5 |
 | Hearth | 2 |
 
-**Favored Practices:** Muster 3, Assault 3, Discipline 2, Watch 2, Relay 2, Claim 1, Provision 1
+**Favored Practices:** Watch 3, Assault 3, Intrigue 2, Relay 2, Discipline 2, Claim 1
 
-**Legacies:** Path of the War Muster 3, Path of Horse and Hound 2, Path of Terror 1
+**Legacies:** Legacy of the Riding Lord 3, Legacy of the Veiled Court 2
 
-**Holdings:** one defended valley, several claimed passes, toll rights by force, winter camps, rough pasture
+**Holdings:** hidden lodges, spy routes, ruby caches, way signs known only to elves and trusted half-kin
 
-**Resources:** Treasury Bare, Stores Thin, Labor Light, Levy Heavy, Retainers Handful
+**Resources:** **Treasury** Bare, **Stores** Thin, **Labor** Light, **Levy** None, **Retainers** Company
 
-**Forces:** fierce clan levy, mounted outriders, household champions, captured supplies, occasional monsters or allied raiders
+**Forces:** mobile archer bands, swordsmen, spies, animal watchers, ruby hunters
 
-**Standing:** with subjected villages -2, with allied orc kin +1, with Rust Brothers -3
+**Armies at Disposal:**
 
-**Feud:** Rust Brother pass-fort at 3 (Armed Feud), two human toll villages at 2
+- **The Ruby Hunt** — 2 skirmisher troops of Redrunner archers and scouts, with 1 hard infantry troop for sudden killing at close ground.
+- **The Westward Hunt** — 1 skirmisher troop and 1 light infantry troop moving as a punitive trail force against raiders, ruby thieves, and Zytera's creatures.
 
-### The House of Red Salt
+**Standing:** Elvenspring +1, dwarves 0, villages -1, orcs -3
 
-A predatory ferry-and-river power grown rich enough to mistake extortion for lordship.
+**Feud:** Rust Brothers 3, Urhurs 2
 
-- **Seat:** Red Salt Hall at the ferry cut
-- **Type:** Hidden Society turned open Toll House
-- **Basis of Rule:** Wealth and Dread
+### The Iron Hounds of Stonegarden
+
+From their cliff-fast mountain, the Canides still claim they guard the land above. Whether that means saving it, using it, or waiting for it to bleed itself weaker is another matter.
+
+- **Seat:** Stonegarden
+- **Type:** Fortress Kingdom
+- **Basis of Rule:** Old Custom
 - **Current State:** Pressure
-- **Current Aim:** Turn three river villages from protected to tributary without open war
-- **Current Weakness:** everyone nearby hates them and knows why
+- **Current Aim:** Keep Stonegarden inviolate while the lowlands weaken and a better hour for dwarven war ripens
+- **Current Weakness:** Their hall is divided between proud isolation and nobles whispering of alliance with Urhur against the humans
 
 | PILLAR | RECORD |
 | --- | --- |
-| Mandate | 2 |
-| Force | 3 |
-| Reach | 4 |
-| Hearth | 4 |
-
-**Favored Practices:** Traffic 3, Intrigue 3, Yield 2, Decree 2, Assault 2, Provision 1
-
-**Legacies:** Path of Hidden Knives 3, Path of Tribute 2, Path of Terror 2
-
-**Holdings:** one ferry fortress, one river market, several bribed quay men, secret stores, two bought captains
-
-**Resources:** Treasury Deep, Stores Thin, Labor Working, Levy None, Retainers Company
-
-**Forces:** hired swords, bought guards, river lookouts, blackmail and knives more often than open levy
-
-**Standing:** river villages -2, market men +1 where coin is good, priesthoods -1
-
-**Feud:** Amber Road League at 2, one local elder circle at 1
-
-### The Grey Reliquary
-
-A dead cult holding a living valley through fear, relic worship, and the labor of people who no longer believe but still obey.
-
-- **Seat:** the Reliquary House beneath the old hill tombs
-- **Type:** Dark Dominion
-- **Basis of Rule:** Dread
-- **Current State:** Pressure
-- **Current Aim:** keep three tribute villages obedient while preparing one great funeral rite
-- **Current Weakness:** Reach is poor; distant pressure fails easily
-
-| PILLAR | RECORD |
-| --- | --- |
-| Mandate | 2 |
-| Force | 3 |
+| Mandate | 4 |
+| Force | 4 |
 | Reach | 2 |
 | Hearth | 4 |
 
-**Favored Practices:** Rite 3, Relief 2, Decree 2, Provision 2, Intrigue 2, Siegecraft 1
+**Favored Practices:** Works 3, Discipline 3, Watch 2, Claim 2, Decree 2, Provision 2
 
-**Legacies:** Path of Terror 3, Path of the Shrine 2
+**Legacies:** Legacy of the Walled Seat 3, Legacy of the Mustering Crown 2, Legacy of the Claimant House 1
 
-**Holdings:** tomb shrines, one ruined keep, three forced-tribute villages, relic store, burial pits
+**Holdings:** Stonegarden, cliff roads, cave halls, war hound kennels, dwarf forges, upland watch posts
 
-**Resources:** Treasury Thin, Stores Sound, Labor Heavy, Levy Small, Retainers Handful, unnatural servitors in place of many living men
+**Resources:** **Treasury** Sound, **Stores** Sound, **Labor** Heavy, **Levy** Ready, **Retainers** Strong Garrison
 
-**Forces:** fanatics, grave guards, coerced labor, a few horrors better counted under Chapter 12 monster rules
+**Forces:** Iron Hounds in black armor, armored war hounds, mountain garrisons, hard dwarf levies
 
-**Standing:** local villages -3, wandering priests -2, desperate peasants sometimes +1 if plague or famine strikes elsewhere and the cult alone offers order
+**Armies at Disposal:**
 
-**Feud:** no open war yet, but one neighboring lord has reached Grievance 2 after two caravans vanished on Reliquary ground
+- **Stonegarden Garrison** — 2 infantry troops of armored dwarves, 1 skirmisher troop of crossbowmen, and 1 war-hound troop held close to the seat.
+- **The Downslope Column** — 1 infantry troop, 1 skirmisher troop, and 1 hound-backed pursuit troop used to secure roads below Stonegarden and answer raids uphill.
+
+**Standing:** dwarf clans +1, elves 0, humans -1, Urhur envoys 0
+
+**Feud:** humans 2, Alderstone 2
+
+### The Urhur Clan of Emperor Hroka
+
+Hroka the First and the Greatest wants an empire badly enough to paint one into being if he must. The Urhurs rule from old elven ruins, dress ambition in purple, and demand that others take them as seriously as they take themselves.
+
+- **Seat:** the abandoned elven city held by Hroka's court
+- **Type:** Clan Confederacy
+- **Basis of Rule:** Conquest
+- **Current State:** Pressure
+- **Current Aim:** Turn the old elven city into an orc seat of power and wring tribute, gold, and respect from every neighboring foe
+- **Current Weakness:** Court splendor outruns stores, and Hroka's dream invites mockery, plots, and risky bargains
+
+| PILLAR | RECORD |
+| --- | --- |
+| Mandate | 3 |
+| Force | 4 |
+| Reach | 3 |
+| Hearth | 2 |
+
+**Favored Practices:** Assault 3, Decree 2, Muster 2, Claim 2, Accord 1, Yield 1, Watch 1
+
+**Legacies:** Legacy of the Mustering Crown 2, Legacy of the Tribute Throne 2, Legacy of the Dread Throne 1
+
+**Holdings:** Hroka's court in the old city, painted halls, tribute camps, shell trade from the marshes, growing ties to Stonegarden
+
+**Resources:** **Treasury** Thin, **Stores** Thin, **Labor** Working, **Levy** Ready, **Retainers** Handful
+
+**Forces:** Urhur warriors, court guards, drifter blades, flatterers from other kin, raiders hungry for purple, gold, and stories
+
+**Armies at Disposal:**
+
+- **Hroka's Purple Guard** — 3 infantry troops of Urhur warriors and court guards, with 1 skirmisher troop of raiders, flatterers, and camp knives.
+- **The Shell-Road Reavers** — 2 infantry troop and 1 skirmisher troop moving along marsh roads and tribute tracks where Hroka wants to be seen and feared.
+
+**Standing:** Urhur kin +2, nearby humans -2, elves -2, Stonegarden envoys 0
+
+**Feud:** neighboring humans 2, rival orc clans 1
 
 ### The Gristle's Company Under Retainer
 
-A mercenary band is not always a faction. Under long service, regular collection rights, and protected settlements, it can become one.
+Leave this one as a hook into **MERCENARIES OF THE FORBIDDEN LANDS** and **BATTLES & SIEGES**. A company under long retainer, collection rights, and winter quarters can become a faction almost by accident.
 
 - **Seat:** moving camp; winter hall if paid well enough
 - **Type:** Free Company in Service
 - **Basis of Rule:** Protection
 - **Current State:** Pressure
-- **Current Aim:** hold road reputation while not becoming another petty tyranny with a banner
-- **Current Weakness:** little true Hearth of its own
+- **Current Aim:** Keep its name good enough to earn the next contract without becoming another petty tyranny with a banner
+- **Current Weakness:** It has reach and blades, but almost no Hearth of its own
 
 | PILLAR | RECORD |
 | --- | --- |
@@ -1792,22 +2219,27 @@ A mercenary band is not always a faction. Under long service, regular collection
 
 **Favored Practices:** Discipline 3, Assault 3, Watch 2, Relay 2, Accord 2, Traffic 1
 
-**Legacies:** Path of Horse and Hound 2, Path of Hidden Knives 1
+**Legacies:** Legacy of the Riding Lord 2, Legacy of the Veiled Court 1
 
-**Holdings:** none fixed beyond a current retainer road and whatever settlements still trust the banner
+**Holdings:** none fixed beyond a current retainer road, winter quarter, and whatever settlements still trust the banner
 
-**Resources:** Treasury Thin, Stores Thin, Labor Light, Levy None, Retainers Company
+**Resources:** **Treasury** Thin, **Stores** Thin, **Labor** Light, **Levy** None, **Retainers** Company
 
-**Forces:** itself, plus any camp followers and hired specialists it can sustain
+**Forces:** the company itself, camp followers, hired specialists, and whatever local support coin can still buy
 
-**Standing:** varies by contract history; often better with lords than villages, which is a danger in itself
+**Armies at Disposal:**
 
-**Feud:** wherever a band's old work has not been paid for or forgiven
+- **The Company Proper** — 1 veteran infantry troop, 1 skirmisher troop, and whatever mounted troop the current purse can still keep horsed.
+- **The Wagon Guard** — when the company is wintered or escorting tax roads, one lighter reserve troop keeps the baggage, pay chest, and camp followers from becoming prey.
+
+**Standing:** varies by contract history; often better with lords than villages, which is a danger of its own
+
+**Feud:** wherever old service has not been paid for or forgiven
 
 ---
 
 ## Final Use
 
-Build the faction. Mark its seat, roads, food base, hostile neighbors, and dependent settlements. Then decide what goal it is willing to spend Mandate, Force, Reach, or Hearth to pursue.
+Build the faction. Mark its seat, roads, food base, hostile neighbors, dependent settlements, and any armies already kept in being. Then decide what goal it is willing to spend Mandate, Force, Reach, or Hearth to pursue.
 
-After that, decide which settlements pay for that aim, which roads become more dangerous, which levy answers reluctantly, and which rival gains room to act. Those answers tell you where to place the next roll, consequence, or adventure.
+After that, decide which settlements pay for that aim, which roads become more dangerous, which levy answers reluctantly, which army is eating too far from home, and which rival gains room to act. Those answers tell you where to place the next roll, consequence, or adventure.

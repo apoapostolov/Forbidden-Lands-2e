@@ -101,7 +101,7 @@ Evidence in Chapter 11:
 - Occupation is said to require men, food, pay, and an answer to resistance.
 - Occupation always creates Hard burden.
 - A bad occupation becomes Crushing fast.
-- `Path of Terror` rank 2 says: **"Occupied settlements do not test immediate revolt on the first week of occupation."**
+- `Legacy of the Dread Throne` rank 2 says: **"Occupied settlements do not test immediate revolt on the first week of occupation."**
 
 The problem is simple.
 
