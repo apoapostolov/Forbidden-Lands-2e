@@ -184,3 +184,105 @@ The wendigo wants to devour and consume everything
 alive. It is relentless once it has a victim in sight,
 but loses interest quickly if the prey escapes beyond
 immediate reach.
+
+---
+
+## Waddlerbird
+
+A large, ungainly seabird found along the entire Silver
+Coast. Grey-white feathers, heavy body, poor flier.
+Aggressive near nesting sites. Found wherever fish dry
+on racks, wherever whale carcasses lie on beaches, and
+in nesting colonies on cliff faces.
+
+Their shrieks carry far. The sound of waddlerbirds
+circling means a fresh kill or a drying rack is nearby.
+Children with long poles keep them off the fish in
+coastal settlements. Anyone who stumbles near a nesting
+colony is dive-bombed and soiled.
+
+**Silver eggs:** Waddlerbirds lay silver-tinted eggs in
+high nests on cliff faces. Orc shamans prize them as
+ritual items. Hoyra of the Frostwind Clan requires one
+as a gift from anyone seeking her audience.
+
+**As food:** Grilled waddlerbird and boiled waddlerbird
+eggs are served at coastal inns. Neither is good.
+
+**As a thief:** Waddlerbirds steal small shiny objects
+for their nests. Missing gear sometimes ends up in a
+colony half a hillside away.
+
+---
+
+## Seal Guardians
+
+Five creatures placed by Blaudewedd to guard the
+Seals of her curse. Each has rested at its post
+for three thousand years. All are bound by
+Blaudewedd's magic and cannot leave their post
+voluntarily.
+
+The guardians share a common trait: they are aware
+that they are trapped. They are not mindless monsters.
+Several can speak. All will warn before attacking
+anyone who has not yet threatened the Seal.
+
+### Mul
+
+Guardian of the Seal of Stars. A Frost Dragon of
+Scrana's lineage. Has spent three thousand years
+at the top of the Tower of the Farseers, reading
+the stars and scratching their positions into the
+tower floor.
+
+The Seal of Stars has been broken. Mul survived the
+encounter badly wounded.
+
+See `places.md` and `campaigns/bitter_reach.md`.
+
+### Gibil
+
+Guardian of the Seal of Fire. A dragon with a
+burning, molten body. Rests in a lava chamber beneath
+the Field of Swords, heating the stone above her and
+feeding a luminescent moss that grows thickest on
+the door to her chamber.
+
+Gibil hates the ice surrounding her and avoids the
+cave walls. She is bound to guard the Seal by
+Blaudewedd's magic, but in her own heart she is
+devoted to the Winter King. She speaks, and will
+listen to those who address her — but she attacks
+without hesitation if anyone approaches the Seal.
+
+See `places.md` and `campaigns/bitter_reach.md`.
+
+### Ninhursag
+
+Guardian of the Seal of Earth. Rests in a chamber
+beneath the Palace of the Ice Giants, where the
+footfalls of the Giants echo above. Said to have
+a thousand spawn. The orcs do not speak of her.
+
+See `places.md` and `campaigns/bitter_reach.md`.
+
+### Imdugud
+
+Guardian of the Seal of Wind. Bound to the winds
+in the valley behind Frostwind Hold. Legend says
+Imdugud dances on winds driven by traitorous
+servants. Nature not confirmed.
+
+See `places.md` and `campaigns/bitter_reach.md`.
+
+### Abzu
+
+Guardian of the Seal of Water. A Giant Squid that
+hunts from inside the flooded lighthouse of the
+Sunken City. Abzu sings — fishermen working the
+water above report hearing a low, resonant sound
+through ice and hull. Pikebeasts avoid the water
+closest to the lighthouse.
+
+See `places.md` and `campaigns/bitter_reach.md`.

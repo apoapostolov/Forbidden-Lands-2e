@@ -185,16 +185,26 @@ goes through the gates.
 - Fishing Wharf (10) — Where the catch comes in and
   outgoing boats launch; also the main arrival point
   for ships from the south
-- The Whaler Camp (11) — Rough camp outside the main
-  walls where whalers and hunters winter between runs
+- The Whaler Camp (11) — Rough camp on the black beach
+  outside the main walls. Bloody butchered Pikebeast
+  cadavers litter the sand; waddlerbirds and rats feast
+  on the remains. Whalers build their cabins from whale
+  bones and whale skin. Large cauldrons bubble with
+  rendered lard — the whale oil that heats and lights
+  Northfall. The whalers are rowdy. The town guards
+  push them back to the beach whenever they come up
+  into town. They look down on the fishermen they share
+  the beach with.
 - Ruins (13) — Ancient elven structures partially
   incorporated into the town; strange markings; locals
   do not discuss what lives in the lower sections at
   night
 - The Lighthouse of the Elves (12) — Old elven
   lighthouse outside the town, still operational by
-  no mechanism anyone has identified; the light sweeps
-  the sea on its own schedule
+  no mechanism anyone has identified. At night the
+  beacon emits a ghostly glow that shifts color like
+  the northern lights. Shadows of winter elf lighthouse
+  keepers move through the tower on certain nights.
 
 **Rumors (selection):**
 
@@ -329,6 +339,95 @@ requires a shout to open.
 - Ruins of the Winter Elves (8) — Partially stripped
   ruin on the edge of the village; the original
   reason the village exists; not yet fully exhausted
+
+### The Field of Swords
+
+**Type:** Gladiatorial arena — winter elven ruins
+**Location:** Variable; placed in Fallowmoor near the
+border of the Barren Hills; known by reputation
+throughout the Bitter Reach
+
+An ancient winter elven arena where prisoners were
+forced to fight for the elves' sport. The most skilled
+could win status in elven society but never freedom.
+Thirty years ago, the adventurer Kvaldor the Slayer
+discovered the ruins, found an amphitheater behind two
+immense gates, and spent years restoring it to active use.
+
+Today the Field of Swords is a functioning arena with
+permanent camps, a system of patron-backed fighters,
+formalized dueling rules, and an economy built on
+betting. Kvaldor takes a tenth of every wager. His
+authority over the site is absolute.
+
+Three types of combatants fight here: free fighters
+backed by wealthy patrons called Sword Nobles, chained
+fighters who are outlaws or slaves, and captured
+monsters used as arena beasts. The audience is reliably
+more bloodthirsty than the combatants.
+
+Most adventurers reach the Field of Swords through
+Northfall, where the innkeepers Cuss and Dang scout
+for capable fighters to recruit to the arena. The
+demon Wurda also visits here, directing treasure
+hunters toward the Seals.
+
+Sleeping at the Field of Swords causes shared
+nightmares among all who camp here — visions of a
+dragon and a locked stone door, growing more vivid
+after a battle in the arena.
+
+**Key locations:**
+
+- The Camp (1) — Open camp outside the arena walls;
+  Ailanders, exiled orcs, wolfkin adventurers, and
+  various rogues share the space with visible tension.
+  Smoke lies heavy over the camp. Small fires smolder.
+  The atmosphere is strained and unfriendly. Eyes
+  follow you between the tents.
+- The Pits (2) — Cells for chained fighters and
+  caged beasts; always guarded. The stench is
+  overwhelming. Chains rattle. Here and there you
+  hear moans and growls from the dark.
+- Chambers of the Esteemed (3) — Restored ruins
+  repurposed as lodgings for the Sword Nobles and
+  their guards; ten silver per night minimum.
+  Laughter and mirthful murmurs seep through the
+  doors. Heavily armed guards bar the way.
+- Gates of Battle (4) — Twin gates with betting odds
+  boards outside; opened only for celebrated bouts.
+  Behind the closed gates: shouts and screams from
+  an excited audience.
+- The Arena (5) — Enormous amphitheater cut from
+  stone; pillars decorated with winter elven battle
+  imagery; balconies for the Sword Nobles; Kvaldor's
+  private observation balcony above all of it.
+  Atmosphere always barbarous and loud. The audience
+  is more bloodthirsty than the combatants in the pit.
+  Rarely more than a hundred spectators today; thousands
+  filled it in the elven era.
+- The Cave of the Howler (6) — Surprisingly warm and
+  lit dimly by luminescent moss. A dark shape prowls
+  the far wall — Howler the captive Dire Wolf growls
+  at anyone who enters. A stone door at the back
+  conceals a staircase leading deeper underground.
+
+**Notable figures:**
+
+- **Kvaldor the Slayer** — Owner and ruler; immense,
+  gray-haired, always armored; broadsword on his belt;
+  knows about the underground chamber and what guards it
+- **Meldendre** — A Sword Noble; vain, testy, secretly
+  an Alderlander spy; believes Kvaldor's gold is hidden
+  in the cave behind the Howler
+- **Nalia the Nimble** — Popular summer elf fighter;
+  quick and skilled with two long daggers
+- **Vaina** — Fiery red hair, white eyes; secretly
+  possesses the ability to briefly see the future;
+  has fought here for five years; patron is Kvaldor
+
+See `campaigns/bitter_reach.md` for the Seal of Fire,
+its guardian Gibil, and what lies beneath the arena.
 
 ### Frostwind Hold
 

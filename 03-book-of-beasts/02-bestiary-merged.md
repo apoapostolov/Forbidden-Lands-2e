@@ -50,11 +50,17 @@ Villages near known Air Spirit ground keep their gibbets low or leave them unbui
 
 > _The hangman has gone home, but the rope is still taking names._
 
-A village used the old hill again after twenty quiet years and hanged two
-men for theft to calm a bad harvest. Now an Air Spirit walks the ridge.
-The dead men's widows want the rope cut and burned. The headman wants it
-left standing because fear has made the village orderly for the first
-time in years.
+The village of Halvard hanged two grain thieves on Keld's Hill last
+spring and counted themselves shrewd when the break-ins stopped. What
+they did not account for was the Air Spirit that settled on the gibbet
+rope by midsummer. Hordath, the headman, knows it is there. He has
+told no one, because the spirit takes strangers first and the village
+has not had a theft since. The widows of the hanged men — Elsa and Siv
+Kunn — want the rope burned and their husbands cut down for burial.
+They have come to the adventurers because the headman's watch will not
+let them near the hill. Burn the rope and the theft ring comes back
+before the month is out. Leave it and the spirit takes a local before
+frost.
 
 - **Terrain Types:** Hills, Plains
 
@@ -62,11 +68,18 @@ time in years.
 
 > _The ferry drifts back and forth across the narrow water though nobody is pulling the line._
 
-The ferryman's son bound an Air Spirit to keep the crossing moving after
-his father died. It works. It also throws one traveler in ten into the
-black water below when the spirit grows bored. If the adventurers break
-it, the crossing dies and the winter trade with the next village dies
-with it.
+Torvald Klink drowned in the ice-melt three springs ago and left the
+Brael crossing without a ferryman. His son Peder, then fifteen, had
+two younger sisters and a debt-rope on the landing post his father
+never settled. A reed-wisewoman sold him a binding for everything he
+owned. The rope pulls. The raft crosses. One traveler in eight goes
+into the channel — Peder cannot say which one the spirit will take,
+only that it must take one before sundown each day. He is eighteen now
+and has not slept through the night since the binding. The next valley
+depends on this crossing for its winter grain and will burn the landing
+post if service stops. Break the binding and the crossing dies and
+Peder's sisters go hungry. Leave it and the spirit takes someone before
+noon.
 
 - **Terrain Types:** Lake, Quagmire, Marshlands
 
@@ -140,11 +153,17 @@ Most villages do not know they have one. A healer who never loses a birth, a wis
 
 > _The mother knows the baby is not hers because the infant laughs when the marsh geese scream._
 
-A village has lived three winters under the blessing of a healer in the
-reed hut who never asks coin, only the right to wash the newborn first.
-Now one mother swears the healer gave her back the wrong child. If the
-adventurers expose the hag, the village loses the only midwife who kept
-three hard winters from turning into a grave year.
+Marta Vrek is the only midwife within two days' ride of the Dulse
+marshes and she has never lost a birth. She takes no coin — only the
+right to wash the newborn first. Eleven years of clean winters. Then
+Senna Rothe noticed that her daughter laughs when the marsh geese
+scream. The child is the right size, the right look. Senna knows her
+own daughter. The village healer says Senna is still milk-sick. The
+headman says Marta saved his own son last frost and he will not hear
+it. Exposing Marta means the village loses its only midwife, and three
+women in the village are within a month of their time. Not exposing
+her means whatever Marta is feeding on the marsh floor is getting
+fatter.
 
 - **Terrain Types:** Marshlands, Quagmire, Village
 
@@ -152,11 +171,17 @@ three hard winters from turning into a grave year.
 
 > _The bride's train drags marsh-water across the church floor._
 
-A bog hag has come to claim a groom who promised her his first daughter
-in exchange for curing his cattle of the red flux. He broke the bargain
-by taking a barren widow instead. Kill the hag and the widow's sons keep
-food through winter. Honor the bargain and the widow loses the only man
-who dared marry her.
+Oskar Hein promised his first daughter to the thing in the reed hut
+twenty years ago, when the red flux took his cattle and a cold-faced
+woman came to his gate in the rain and said she could fix it. The
+cattle recovered. He married a barren widow, Grethe, and counted the
+bargain dead. The hag arrived at the church door on the morning of his
+eldest son's wedding, claiming Grethe's stepdaughter — who is not
+Oskar's blood, but falls within the letter of the promise, as the hag
+reads it. The village priest is backing away from the altar. Break the
+hag and Oskar's remaining cattle will be dead by sundown — that was
+the secondary clause. Honor the bargain and Grethe loses the only
+daughter she raised.
 
 - **Terrain Types:** Village, Marshlands
 
@@ -233,11 +258,17 @@ Potters who deal in golem-work share that knowledge selectively and with strange
 
 > _The donation box has not been opened in nine years, but the priest still counts the coins each night._
 
-A poor village chapel keeps a Clay Golem in the crypt because the tithe
-silver under the altar buys winter grain from the next valley. The golem
-was bound with the soul of a murderer promised burial if he served. His
-widow has come to beg release now that the village is safe enough to risk
-hunger instead.
+The crypt beneath Varnel's Fork chapel holds three years of tithe
+silver — enough to buy winter grain for the whole valley. The Golem
+guarding it was built by a traveling mason named Aldric Brun and bound
+with the soul of a hanged man who was promised burial in consecrated
+ground after ten years of service. The ten years ended last winter.
+Brun died on the road and took the release word with him. The hanged
+man's widow, Orra, has come with what she believes is the right name,
+learned from a dream she has had three nights running. She may be
+wrong. A failed attempt wakes the Golem in full protection mode and
+seals the crypt. The silver feeds the valley. The soul in the clay
+has been waiting eleven years, not ten.
 
 - **Terrain Types:** Village, Hills, Ruins
 
@@ -245,11 +276,16 @@ hunger instead.
 
 > _The chest in the bridal chamber is lashed shut from the outside, not the in._
 
-A lord bound a Clay Golem to keep his daughter's dowry and the letters of
-the man she loved from leaving the room. The daughter is dead. The
-marriage contract the village now needs to avoid a feud is still inside
-the chest, and the golem kills anyone who touches the iron clasps. Break
-it and the dowry silver is gone. Leave it and the feud starts by dawn.
+Lord Emeric Vor sealed a chest in his daughter's chamber before he died:
+her dowry silver, her lover's letters, and the deed to the south pasture
+that his two sons have been disputing in court for four years. The
+daughter is three years dead. The Golem was given one command — let no
+one touch the iron clasps without the lord's seal ring, which was buried
+with the lord. The deed is the only thing that ends the brothers' feud
+before it becomes a blood feud and costs the village its own young men.
+One brother holds a wax impression of the ring and knows a smith who
+could copy it in iron in a day. If the Golem accepts the copy, the feud
+ends. If it does not, the smith's name will be known before morning.
 
 - **Terrain Types:** Hills, Ruins, Village
 
@@ -322,11 +358,18 @@ Villages that have one nearby tend to discover it through a pattern of deaths: n
 
 > _The village well bucket comes up with a silver chain in it and one finger-bone hooked through the links._
 
-A Death Magister hid its phylactery in the village well generations ago,
-and the village has unknowingly guarded it because the water never froze
-while it remained there. Now the magister's body has risen in the old
-schoolhouse above the square. Break the phylactery and the village loses
-its well in the first hard frost.
+Brant Vore, headman of Cress Hollow, found his great-grandmother's
+journal last autumn. The village well has never iced over because a
+Death Magister's phylactery has been sunk at the bottom for six
+generations — a fact the great-grandmother knew, kept, and passed
+through the family line in silence. The magister's body has risen in
+the old schoolhouse above the square. It wants the vessel raised; it
+cannot travel while the phylactery stays in the water. Destroying it
+ends the creature. It also ends the well, and the nearest water in
+hard winter is four hours on horseback. Brant cannot make this choice
+and keep the headman's seat afterward. He has come to the adventurers
+because a choice made by outsiders is one the village can survive
+having made.
 
 - **Terrain Types:** Village, Plains
 
@@ -334,11 +377,18 @@ its well in the first hard frost.
 
 > _The apprentice is carrying bread, lamp-oil, and a book wrapped in lambskin._
 
-The old master in the hill tomb is a Death Magister, and the apprentice
-still feeds him news because the tomb's library holds the cure for the
-apprentice's sister's wasting cough. Kill the master and the cure is
-lost in the collapse he prepared. Spare him and the next grave he opens
-will be in the village churchyard by choice, not need.
+The sealed tower on the Veld road has had a monthly visitor for two
+years: a young physician's assistant named Hann Drest, carrying salt
+fish, lamp-oil, and questions about nerve damage. His master is a
+Death Magister. Hann knows. The library inside holds every treatment
+text for the wasting sickness killing his sister, and the magister
+lets him read in exchange for silence. The requests have changed.
+The magister now asks for names of travelers, the night-ferry's route,
+how many guards the mill road carries on market days. Hann has come
+because he cannot refuse the magister and he cannot keep feeding it
+what it wants. His sister has three months left. The magister has
+prepared a collapse that will bury the library if the tower is
+forced.
 
 - **Terrain Types:** Hills, Ruins
 
@@ -413,11 +463,17 @@ Once fixed to a place, an Earth Spirit is nearly impossible to drive out. It has
 
 > _The cut face of the quarry is marked with old handprints in ochre under the fresh hammer scars._
 
-The quarry master knew the handprints were burial signs and cut anyway,
-because the village needed stone for a bridge before the river rose. Now
-an Earth Spirit stands in the cut and three workers are trapped behind
-it. Save the workers and the bridge never gets built. Finish the bridge
-and the trapped men go thirsty in the stone throat by evening.
+The Holt quarry master Daven Rak cut through the ochre handprints on
+the low face six months ago because the valley needed dressed stone for
+the mill bridge before the river rose. He knew what the marks were. He
+cut anyway and paid the masons extra for their silence. The Earth Spirit
+that woke now stands at the quarry mouth, and three masons are sealed
+in the stone pocket behind it with a water jug that lasts until
+evening. Daven wants the spirit broken and his workers freed. The
+bridge cannot be finished without those men. The masons cannot be
+reached without removing the spirit. Removing the spirit may seal the
+quarry face permanently, which means no stone, no bridge, and the west
+valley will stop trading across a bridge that was never finished.
 
 - **Terrain Types:** Hills, Mountains
 
@@ -425,11 +481,17 @@ and the trapped men go thirsty in the stone throat by evening.
 
 > _The new road is smoother than the old one because it runs straight over the old graves._
 
-A chieftain had the barrows flattened so wagons could pass in winter. The
-Earth Spirit that rose from the cut mound now blocks the road on market
-mornings only, when the need is greatest. The merchants want it broken.
-The families buried under the road want the barrows raised again and are
-quite willing to lose the trade.
+Chieftain Osral Mend had the old ridge barrows leveled three winters ago
+so heavy wagons could take the northern route in mud season. He paid the
+road-gang double and told them to move the grave-posts somewhere else.
+The Earth Spirit that rose from the cut mound blocks the road only on
+market mornings — the three days a week when the cattle drovers and
+grain carts need to move. Osral wants it broken. The barrow clans — six
+families who buried their dead on the ridge over two hundred years —
+want the mound rebuilt and their dead given back proper ground. The
+spirit will settle if the mound is restored. Restoring the mound means
+tearing up the road. Tearing up the road ends the northern trade and
+the agreement with the western market towns that keeps Osral's headship.
 
 - **Terrain Types:** Plains, Hills
 
@@ -503,11 +565,17 @@ Old temple grounds, abandoned quarries, and ruined outpost courts often have one
 
 > _The kiln has gone cold, but the ash around it is raked smooth each dawn._
 
-A kiln-owner has been feeding condemned prisoners to the scorpion in the
-pit under the kiln because its presence keeps thieves away from the lime
-store. Now his own nephew has been accused of theft and tied at the pit
-mouth. The owner wants the beast dead. The village wants the same beast
-left alive after it eats the right boy.
+Holger Brant's lime kiln sits above a pit where a Giant Scorpion nested
+eight years ago. Holger kept it: he fed it condemned men from the valley
+magistrate's list — six so far — and nobody has touched his lime stock
+since. The magistrate accommodated this arrangement because it saved him
+the cost of an executioner and the trouble of a grave. This morning
+Holger's nephew Rafe was accused of stealing grain weight on his scales.
+The magistrate has signed the order. Holger wants the scorpion cleared
+before the sentence is carried out. The magistrate wants it cleared only
+after. The village is beginning to ask whether the previous six men on
+the list were actually thieves, or whether the arrangement had its own
+uses beyond what the magistrate has admitted.
 
 - **Terrain Types:** Hills, Ruins
 
@@ -515,11 +583,17 @@ left alive after it eats the right boy.
 
 > _Every votive bowl on the shrine steps is full of live mice._
 
-A shepherd clan keeps a Giant Scorpion at an old roadside shrine because
-travelers who fear the beast leave better offerings than those who trust
-the gods. The beast has started breeding. If the adventurers kill it,
-the shrine's keepers lose their income and the next market season starves
-half the clan. If they leave it, the brood hatches before frost.
+The Veld family has tended the roadside shrine at Kord's Crossing for
+four generations. A Giant Scorpion nested in the altar chamber sixty
+years ago and the family kept it, because travelers terrified of the
+beast leave better offerings than those who trust the gods. The Velds
+take a cut, the beast takes a rat or a mouse, and the road stays open.
+This spring the scorpion bred. Seven young are in the sub-chamber below
+the altar and will hatch before frost. Kill the brood and the mother
+destroys the shrine. Let them hatch and seven scorpions work the road
+before autumn market season. The Velds want payment regardless of which
+outcome the adventurers choose, because they own the shrine and someone
+will owe them.
 
 - **Terrain Types:** Plains, Hills, Ruins
 
@@ -591,11 +665,18 @@ Villages with plague histories often have one in the old loft or the charnel cha
 
 > _The bell keeps ringing because the rope is tied to a dead man's ankle._
 
-The town sacristan rigged the plague bell to ring when the Grave Bat in
-the belfry fed, because the bell was the only warning the town had. Now
-nobody dares climb and cut the rope. If the bat is driven out, the town
-loses the warning and the next outbreak of dead rising in the crypt goes
-unheard.
+Wren Ashfield, the sacristan of Dorveld, rigged the plague bell twenty
+years ago to ring when the Grave Bat in the belfry fed. The bat feeds
+every third night. The bell rings. The town locks the crypts before
+the dead below rise — and the dead have risen at that same interval
+since the plague year, without fail. Nobody climbs to cut the rope
+because the town has come to depend on the alarm. Ashfield died in
+spring without passing on how the rig works. The bell has now been
+silent for two nights. The crypts beneath the church have begun to
+smell. The bat is still in the belfry, alive, and the rope is still
+tied to something that has not moved in two nights. Nobody in the
+town knows whether the problem is the bat or what the bat was
+responding to.
 
 - **Terrain Types:** Village, Ruins
 
@@ -603,10 +684,16 @@ unheard.
 
 > _Every child in the charcoal camp sleeps with soot on the teeth to keep from being taken first._
 
-A Grave Bat roosts in the coal loft over a woodland charcoal camp. The
-camp master knows it only feeds on the sick and has quietly kept the sick
-alive to draw it away from the healthy children. The fever finally broke
-this morning. The bat must eat from the healthy next.
+Skel Hadder, master of the Drenn charcoal camp, kept a fever-ridden man
+named Ton alive in the loft-shack for eleven days when a normal crew
+would have buried him by day three. The Grave Bat roosting in the
+smoke-loft above fed on Ton twice in that time and has not taken any of
+the children. Hadder knows what he did and has no way to frame it as
+mercy. Ton is conscious this morning and asking why he is still in the
+shack when the fever broke two days ago. The bat is roosting directly
+above. The answer Hadder gives Ton, in front of the rest of the crew,
+will either explain everything or cost him the camp. The bat has not
+eaten in three days and is circling lower each hour.
 
 - **Terrain Types:** Forest, Hills
 
@@ -682,10 +769,17 @@ They are rare because making one requires a master smith, a master sorcerer, and
 
 > _The forge has not been lit in a century, yet the iron giant inside is warm._
 
-A town wants the old foundry opened because raiders are coming and the
-last stock of spearheads lies within. The Iron Golem at the gate knows
-only the command not to let the forge wake again. Open the hall and the
-town arms itself. Leave it sealed and the raiders come to wooden walls.
+The foundry beneath Holt Strand has been sealed since the old war. The
+last owner gave the Iron Golem inside one command: the forge does not
+wake again. Raiders are working down the valley road and will reach the
+village in three days. The weapons stockpile inside — three hundred
+spearheads, forty axe blanks, iron for a score of helmets — would arm
+every able-bodied person in the village. The only way through the
+foundry gate is past the Golem. The only way to reach the weapons is to
+relight the forge to work the door-locks, which is the one thing the
+Golem was built to prevent. The town clerk has found notes suggesting
+the command carries a release phrase. He cannot read the language it is
+written in.
 
 - **Terrain Types:** Hills, Mountains, Ruins
 
@@ -693,11 +787,17 @@ town arms itself. Leave it sealed and the raiders come to wooden walls.
 
 > _Each key is being carried by a different cousin, and each cousin wants the others dead first._
 
-A dead lord's will left an Iron Golem over the family vault with three
-keys to rouse or dismiss it. The cousins have come with armed men, each
-claiming the others will squander the silver needed to keep the valley
-fed. The golem stands patient while the argument rots. If the wrong key
-order is tried, it kills everyone still in the chamber.
+Lord Keswick Vor left three iron keys to three feuding cousins, each key
+granting one step to opening the family vault where the estate silver
+and the debt ledgers are sealed. The vault door is guarded by an Iron
+Golem. The will requires all three keys used in proper sequence without
+pause. The sequence was in a letter the notary held. The notary has been
+dead for nine months. Each cousin believes their step comes first. Each
+cousin's armed escort has been blocking the vault corridor for four
+days. The Golem stands inside, patient, and does not care about the
+argument. One cousin has already drafted death certificates for the
+other two, contingent on what the vault contains. He has not shown them
+to anyone yet.
 
 - **Terrain Types:** Hills, Ruins
 
@@ -770,11 +870,16 @@ Old wives know two defenses: iron under the pillow slows the working, and a Nigh
 
 > _Two brides stand in the passage with the same veil and the same voice calling from under it._
 
-A groom's family knows one bride is a Night Bride because they invited
-her by mistake through a marriage bargain nobody read carefully. They do
-not know which one. If the adventurers choose wrong, the real bride dies.
-If they refuse to choose, the marriage pact fails and the two valleys go
-back to feud before winter.
+Two women stand in the passage before dawn, both wearing the same veil,
+both answering to the bride's name, both knowing the same answers. The
+groom's mother sent the marriage offer to two families by accident and
+both daughters arrived. One arrival is not a daughter. The groom cannot
+tell them apart. The mother cannot either. Asking the groom's father
+would mean admitting the mistake, which she will not do. If the
+adventurers choose wrong, the real woman dies the first night after the
+ceremony. If the ceremony fails, the insulted family's patriarch has
+already announced what he intends to do about it, and he brought armed
+men to the wedding to make his position clear.
 
 - **Terrain Types:** Village, Hills
 
@@ -782,11 +887,16 @@ back to feud before winter.
 
 > _The widow's bed has been made for two though she has lived alone nine years._
 
-A Night Bride has kept a widow warm and safe from raiders for three
-winters in exchange for one promise: the widow must name a man to the
-bed before the spring thaw. The widow chose the man who killed her first
-husband in a drunken ditch fight. The village wants the adventurers to
-stop the haunting. The widow wants the promise kept.
+Marta Grale has lived three winters with the doors barred and not gone
+hungry. The Night Bride that keeps her house asked for one thing: before
+the spring thaw Marta must name a man. The village knows Marta's house
+stays untouched when every other widow has lost stock, and they have
+sent the adventurers to drive the Bride out. Marta is not asking for
+help. She has already named the man — Dorveth, who killed her husband
+in a ditch fight nine years ago and inherited the south pasture when the
+verdict went his way. The Bride is already at his door. He does not
+know what answered his knock last night, and the Bride does not need to
+be in Marta's house anymore.
 
 - **Terrain Types:** Village, Forest, Hills
 
@@ -860,12 +970,17 @@ In old mine-country there is a custom so old no one remembers why it started: le
 
 > _A line of apples sits on the cave ledge, each one with a bite taken from it and set back in place._
 
-The villagers who live below the ridge have kept the Pale Apes quiet for
-three years by leaving fruit and offal at the cave mouth. This winter
-salt ran short, and the apes came down to take a girl instead. The
-villagers want her back, but only after the adventurers first promise to
-keep the cave-mouth tribute going through next winter from their own
-packs if need be.
+The village of Kael's Ridge has maintained the tribute post at the cave
+mouth for thirty years: fruit, salt, offal, left at dawn every third
+day. Three winters ago the salt crop failed and the offerings went thin.
+The Pale Apes came down and took a child named Sif Arnke. The village
+elders have not gone up after her because the last attempt to take
+something back from the caves cost three men and doubled the tribute
+requirement. They want the adventurers to retrieve Sif but have not
+mentioned that they will not provide guides, will not come along, and
+expect whoever does this to also commit to resuming the full tribute
+schedule after. The apes have been keeping Sif fed and warm. She has
+been there long enough to know where the young ones sleep.
 
 - **Terrain Types:** Hills, Mountains
 
@@ -873,12 +988,17 @@ packs if need be.
 
 > _The child tied to the mule is humming so the dark things know where she is._
 
-A father is leading his blind daughter up to an old silver adit because a
-Pale Ape carries her brother there but will only answer the girl's song.
-If the adventurers interfere, the ape will tear the brother apart before
-it yields the cave. If they let the father go on, the ape gives back the
-boy and keeps the girl. The father already decided which child he can
-carry home alive.
+Bern Vole is leading his blind daughter Ros up the adit path before
+dawn. A Pale Ape took his son three days ago and has been carrying the
+boy between cave chambers. The ape has been responding to Ros's singing
+— humming back from the cave mouth when she is within earshot, which
+she sometimes is when the wind is right. Bern believes the ape will
+yield the boy if Ros is brought close enough to sing to it. He believes
+this because he needs it to be true. If the adventurers force the cave,
+the ape kills the boy before it yields. If they let Bern continue, the
+ape will want something for the son, and the only thing it has shown any
+interest in is Ros. Bern has worked this out. He is still walking
+toward the cave.
 
 - **Terrain Types:** Hills, Mountains, Ruins
 
@@ -949,10 +1069,17 @@ Miners know the signs. A cave that smells faintly sweet and shows old bone in th
 
 > _The toll box is full, though no keeper sits by the span._
 
-A ruined stone bridge stays passable because the smugglers who use it pay
-meat and coin to the Rock-Hanger above the arch. The toll keeps the
-creature from dropping on their own men. Tonight a family with a fevered
-child needs the bridge and has no toll to pay.
+The Kolden bridge has been crumbling for thirty years but stays passable
+because Harric, a senior smuggler out of Dreveld, pays meat and copper
+to the Rock-Hanger above the arch on every market crossing. The
+arrangement keeps the creature from dropping on his crew and earns
+Harric a small toll from travelers who want a guided crossing. A family
+arrived before midnight: a man, his wife, their fevered child, and no
+coin for the toll. The child cannot survive the long road around. Harric
+is willing to discuss terms but his crew has standing orders not to let
+an unpaid crossing set precedent. The Rock-Hanger is not part of any
+discussion. It has been stationary for thirty hours and has been watching
+the family from above since they arrived at the bridge end.
 
 - **Terrain Types:** Hills, Mountains, Ruins
 
@@ -960,10 +1087,16 @@ child needs the bridge and has no toll to pay.
 
 > _Six lamps hang in a line down the shaft. None of them has a hand beneath it._
 
-A mining crew keeps losing men to the creature over the main haul shaft,
-but the ore vein below is the only silver in the valley. The mine owner
-already decided to keep sending debtors down with lamp chains to test
-whether the beast has fed enough. His own son now drew the next chain.
+Ore master Drem Volse has known about the Rock-Hanger over the main haul
+shaft for two months and has continued running shifts because the silver
+vein below is the only thing keeping the mine solvent through a bad year.
+He has been sending the men with the largest debt balances first — the
+ones who owe the mine store and cannot afford to refuse — to carry the
+lamp chains down. Seven men over two months. He has not told anyone the
+pattern. This morning the lot-draw came up with his son Kalder, who has
+no debt but drew the right colored stone. Volse wants the creature
+removed before the morning shift, without anyone asking how long he knew
+it was there, or why it always took the debtors.
 
 - **Terrain Types:** Hills, Mountains
 
@@ -1038,11 +1171,16 @@ Most petitioners leave satisfied. Those who arrive with weapons and intent to en
 
 > _Three children stand by the spring with wet hair and bare feet. None of them is breathing._
 
-A Snake Queen turned them while driving their mothers from the spring.
-The children can still be restored before nightfall if the Queen is
-broken and the spring is blessed. The mothers know which child stole the
-Queen's mirror and brought the curse on them all. They mean to save the
-other two first.
+Three children stand by the spring with wet hair and bare feet, none of
+them breathing. They have been stone since yesterday when their mothers
+came to draw water and a dispute over the spring order spilled into the
+grotto where the Snake Queen keeps her offerings. One child threw a stone
+at the idol. One child threw a stone at another child. The third did
+nothing and is stone the same as the others. The Queen will restore two
+before nightfall if the mothers name which child is at fault. Each of
+the three women knows exactly which one it was. All three are standing at
+the spring mouth. None of them will speak first, because speaking first
+means naming, and naming means one of them walks home with empty arms.
 
 - **Terrain Types:** Forest, Hills
 
@@ -1050,11 +1188,17 @@ other two first.
 
 > _The bridal veil hangs over a bronze mirror taller than a man._
 
-A valley lord means to wed his son to a woman he keeps veiled because she
-is a Snake Queen and the marriage secures the spring rights upriver. The
-son knows nothing. If the adventurers expose her, the marriage breaks and
-three downstream villages lose water rights by winter compact. If they
-stay silent, the son goes to stone on the first wedding night.
+Lord Kel Wester arranged his son's marriage to a veiled woman from the
+hill country who arrived with a spring-rights deed and a good silver
+dowry. Wester knows what she is. He arranged it anyway because three
+downstream villages are dying of drought and the deed solves that
+problem. His son Arvid knows only that his father seems relieved and
+the bride keeps to herself. The wedding is tomorrow. Arvid goes to stone
+the first night he sees her face in full light, unless someone warns him
+or the bride is removed. Remove the bride and the spring-rights deed is
+void, the downstream villages lose water by the winter compact, and
+Wester will do whatever it takes to silence whoever cost him that
+arrangement.
 
 - **Terrain Types:** Village, Hills, Ruins
 
@@ -1129,11 +1273,17 @@ Fighting one in a ruin means fighting on its preferred ground. The lesser eyes f
 
 > _The tower door is open for the first time in forty years, and every villager wants what lies on the top floor._
 
-A Star-Watcher opened the old watchtower when the Red Wanderer burned
-bright, and now the village elder insists the tower register belongs to
-her bloodline, while the Raven Sisters say it names the women burned to
-keep the tower sealed. The creature floats three floors up and will only
-attack once someone climbs the stairs with a lit charm or spell.
+The watchtower of Aldkeld has been sealed for forty years. It opened on
+the night the Red Wanderer burned bright, and a Star-Watcher now drifts
+between the third floor and the roof. The tower register — the bound
+record of land claims, debt rolls, and death orders of the old
+administration — is on the top shelf of the third-floor library. Village
+elder Sura Fend says the register proves her bloodline's right to the
+west pasture. The Raven Sisters say it names seven women burned to seal
+the tower and those names belong to them. The Star-Watcher will drift
+away from anyone ascending without a working sorcery. It will not drift
+away from anyone who lights one, and neither the elder nor the Sisters
+are willing to go in first.
 
 - **Terrain Types:** Hills, Ruins
 
@@ -1141,12 +1291,16 @@ attack once someone climbs the stairs with a lit charm or spell.
 
 > _The shepherd has nailed the lambs indoors and is watching the sky through a bronze bowl of water._
 
-A shepherd believes the Star-Watcher in the ridge ruin can tell him which
-child is marked to die before winter. The village has come behind him in
-silence because each household wants the answer and none wants to ask it
-first. If the adventurers drive the creature off, the village keeps its
-children and loses the certainty it came for. That uncertainty will not
-sit gently among them.
+Old Veld Haarne walked up to the ridge ruins two nights ago with a bronze
+bowl of water and a list of the village children written in charcoal. He
+believes the Star-Watcher in the tower can read fate in the sky-fire the
+way the old star-priests did. He did not tell anyone. He said he was
+checking the sheep. Half the village followed him in silence because
+three children died before winter last year and each family wants to know
+if theirs is next. If the adventurers drive the creature off, the village
+goes home with nothing. The families will find another way to determine
+which child is marked, and whatever they settle on will be worse than the
+question they arrived with.
 
 - **Terrain Types:** Hills, Mountains, Ruins
 
@@ -1218,11 +1372,16 @@ Some have been worshiped as oracles. The villages that kept the relationship del
 
 > _Every villager in line for the well carries a written question folded in waxed cloth._
 
-A drought village has been feeding written questions and the occasional
-thief to the Thought-Kraken in exchange for true answers about rain,
-disease, and raids. It works. The next question belongs to a mother who
-wants to know which child of hers survives the winter. The price named
-back to her is the other child.
+The village of Merren has fed the Thought-Kraken in the market well since
+the drought year, seventeen years ago: written questions in waxed cloth
+left at the wellhead at dusk, answered in the petitioner's own voice
+before morning. The village fed it three convicted thieves over those
+years to supplement the service. Every answer was correct. A woman named
+Dalta Ren is next in the queue. She wants to know which of her two
+children survives the sickness passing through the village. The price
+the Thought-Kraken has named back to her, in her own voice from the
+wellhead, is the other one. She has not yet answered. The rest of the
+village is watching from the well-yard to see what she does.
 
 - **Terrain Types:** Village, Plains, Ruins
 
@@ -1230,12 +1389,17 @@ back to her is the other child.
 
 > _The monks greet you with slates and chalk because none of them has spoken aloud in six years._
 
-The monastery above the cliff cistern survives by silence. A
-Thought-Kraken below them takes any voice carried down the shaft. The
-monks keep it fed with copied histories from their library. If the
-adventurers kill it, the monks regain speech and lose the only thing
-keeping raiders from using the cistern tunnel straight into their food
-stores.
+The monastery of Gell's Ridge has maintained silence for six years — not
+for devotion but because the Thought-Kraken in the cliff cistern below
+them takes any voice sent down the stone shaft. The monks write on
+slates. They have become expert at it. One of the younger brothers
+negotiated an arrangement under duress: the thing in the cistern receives
+copied manuscripts from the library and does not send raiders up the
+tunnel into the food stores. The arrangement has held. If the adventurers
+kill it, the brothers recover their voices. The tunnel to the food stores
+is open to anyone who knows to look for it, and no one can explain the
+defense arrangement because no one can speak loudly enough to be heard
+across the courtyard.
 
 - **Terrain Types:** Mountains, Ruins
 
@@ -1310,12 +1474,18 @@ Villages with Tunnelers under the road learn to sound the earth each morning bef
 
 > _The bucket rope jerks three times and goes slack._
 
-A village cistern has begun swallowing buckets, goats, and one child in
-three days. The headman offers silver to kill whatever is under it, but
-if the adventurers break the cistern floor they ruin the only clean
-water for forty souls until autumn rain. The village already decided to
-blame the widow whose yard sits nearest the collapse, because her dead
-husband dug the shaft.
+The village cistern at Kold's Yard has swallowed two buckets, two goats,
+and a child named Misa in three days. Headman Brot Veld is offering
+silver to kill whatever is below it. He has not mentioned that breaking
+the cistern floor ruins the only clean water for forty people until the
+autumn rain. He has also not mentioned that the village has already
+decided, in quiet conversation over the last two days, that the collapse
+is the fault of Seravit — the widow whose late husband dug the shaft
+twenty years ago. She has done nothing. If the adventurers clear the
+cistern by breaking the floor, the village loses its water and Seravit
+goes unblamed. If they leave without a solution, the cistern takes
+someone else by morning and the village acts on the conclusion it has
+already drawn.
 
 - **Terrain Types:** Village, Plains
 
@@ -1323,13 +1493,17 @@ husband dug the shaft.
 
 > _The toll post stands upright. The ox beside it is gone from the neck down._
 
-A petty toll-keeper has known about the Tunneler beneath the road for a
-full season and has used it to frighten merchants into paying double for
-his "safe crossing" boardwalk. Now the beast is large enough to start
-coming through the planks. If the adventurers kill it, the keeper is
-ruined and the nearby hamlet loses the silver that bought their winter
-salt. If they leave it alive, the next cart down the road will likely be
-full of children sent to temple service.
+Tobbe Gret has operated the Fenn Road toll post for three years with the
+assistance of a Tunneler he discovered beneath the road in his first
+season. He charges double for use of the planked boardwalk, which he
+claims protects against the soft spots. He keeps the beast fed with dead
+stock from the hamlet downstream and skims the difference from the
+merchants' fees. The hamlet depends on that silver for winter salt. The
+beast has grown large enough this spring to punch through the planks, and
+Tobbe has been patching at night. The last gap was wide enough for a
+wheel. The next cart through belongs to a temple driver carrying children
+to novice service. Tobbe is at the post, smiling, collecting the double
+fee.
 
 - **Terrain Types:** Plains, Hills
 
@@ -1403,12 +1577,18 @@ Some keep enough of themselves to chain their own doors on the worst nights. The
 
 > _The smokehouse is locked from the outside and something inside is trying not to answer the smell of blood._
 
-A farmer knows he is turning and has locked himself in the smokehouse
-through slaughter day so he does not butcher the children with the pigs.
-His wife wants him let out because the family needs his hands to finish
-curing meat before it spoils. The children want the adventurers to leave
-him chained because this is not the first winter he asked that door to be
-barred.
+Keld Maren locked himself in the smokehouse before sunrise. The pigs
+were slaughtered yesterday and the smell is still in the yard. Keld
+knows what the smell does to him by the third day. His wife Bret needs
+his hands to finish the curing before the meat turns — three days of
+work she cannot do alone with two young children. Their children, Siv
+and Holt, are eight and eleven. They know this is not the first November
+Keld has asked for the door to be barred. They have come to the
+adventurers specifically to prevent their mother from opening it, which
+she intends to do by midday because she has decided that Keld only half
+changed is better than losing the winter's food. She is probably right.
+The children know what happened the last time she opened it before the
+moon was finished.
 
 - **Terrain Types:** Village, Plains
 
@@ -1416,11 +1596,16 @@ barred.
 
 > _The accused sits at the head of the table because nobody else dares take the seat tonight._
 
-A village uses a cursed feast to test theft: whoever eats and then turns
-by moonrise is guilty in the eyes of the old law. This year the accused
-is innocent. The true thief is the headman's son, who means to let the
-curse take the stranger at the table and keep the village peace at the
-same time.
+The testing-feast of Vareld works like this: the accused eats the cursed
+meal, and whoever turns by moonrise is guilty under the old forest law.
+A wool merchant named Gert Rath is accused of stealing sealed grain
+weight, and the accusation came from Olan, the headman's son. Gert ate
+at the table and has not turned. Olan is arguing that the moon is not
+done. The headman is agreeing with his son. Gert's advocate says the
+law provides for secondary testing — the accuser sits at the table next,
+since the accused was cleared. Olan does not want to sit at the table.
+The headman has not yet ruled on the secondary test. The village is
+watching. Gert's advocate is watching. The moon is not done.
 
 - **Terrain Types:** Village, Forest, Hills
 
@@ -1495,11 +1680,16 @@ A werewolf that still comes back to the same house is not free of its human life
 
 > _The man in chains is walking willingly between his two sisters and the sisters are both carrying keys._
 
-They are taking their brother to the old lime pit where he changes away
-from the village on full-moon nights. One sister wants him kept alive.
-The other has brought a silver knife under her cloak because she is tired
-of burying strangers found on the road each month. Their brother knows
-which sister has the knife and keeps asking for the other one by name.
+Marte and Jael Kullen are escorting their brother Soren to the old lime
+pit on the hill, where he chains himself on full-moon nights. Marte
+carries the key to the chain-lock. Jael carries a silver knife under
+her cloak and has for three months. Soren is walking with his hands
+laced together in front of him, asking for Marte by name every few
+minutes. They both know this is how he tells which sister has the blade.
+Jael has been burying four strangers found on the road in the months
+Soren says the chain held, because their families were not close. Marte
+says four strangers is four fewer than the village. Soren has stopped
+asking for either of their names.
 
 - **Terrain Types:** Hills, Forest
 
@@ -1507,11 +1697,16 @@ which sister has the knife and keeps asking for the other one by name.
 
 > _Every door in the hamlet is barred except one. From that house comes singing._
 
-A hamlet has made terms with the werewolf that lives among them: one goat
-and one song every full moon, and the beast takes nothing human. Tonight
-there is no goat. The singer in the open house is the widow who lost her
-son to the same pact five winters ago. She is singing because she means
-the werewolf to take her instead of another child.
+The hamlet of Kel's Bottom has kept a werewolf satisfied for nine years:
+one live goat and one song on full-moon nights, and the wolf leaves the
+children alone. The old headman who brokered the arrangement is two
+winters dead. This year the goat herd failed. Every door in the hamlet
+is barred except one, and from that house comes a woman singing the
+wolf-call in the old dialect. The singer is Merse Gant. She lost her
+son to a prior, broken version of this same arrangement five winters ago.
+She has sent her remaining children to her sister's farm. She has been
+preparing for tonight since last month. If the adventurers stop her,
+they owe the hamlet a goat and someone who knows the old dialect.
 
 - **Terrain Types:** Village, Forest, Hills
 
@@ -1548,45 +1743,6 @@ the werewolf to take her instead of another child.
 
 ---
 
-## 5. Final Merge Notes for the Cheaper AI
-
-When folding this document into `02-bestiary.md`, the merge AI should:
-
-1. **Insert each kept entry** into the main bestiary in alphabetical
-   order, after the existing canonical entries and before the
-   `## Legends` section.
-2. **Use the draft text** from `02A-creatures-of-the-forbidden-lands.md`
-   and `02B-monsters-of-the-forbidden-lands.md` for the entry header,
-   epigraph, statblock bullets, Monster Attacks D6 table, prose
-   paragraph, Lore Roll D6 table, and Random Encounters.
-3. **Replace the draft RESOURCES block wholesale** with the uplifted
-   RESOURCES block in this document. For 02A creatures that lacked a
-   RESOURCES block, add the uplifted block at the end of the entry,
-   in canonical position (after the prose, before the next entry).
-4. **Skip humanoid bands' RESOURCES** — those entries take their
-   GEAR-as-loot line and no RESOURCES block. The humanoid Legends
-   epigraphs in section 3 still go into the `## Legends` section.
-5. **Append each kept entry's Legends epigraph** to the `## Legends`
-   section of `02-bestiary.md` in alphabetical order. Use the
-   `### Name` + blockquote format already established in canon.
-6. **Drop all NOT TO INCLUDE entries** without comment. Do not preserve
-   them in the merged file.
-7. **Update the D66 monster table** at the head of the canonical
-   bestiary to include the new entries. The kept count is 17 (02B) +
-   18 (02A creatures) + 9 (02A humanoid bands) = 44 new entries; the
-   table will need to be expanded to a D666 or split into a creatures
-   table and a monsters table at the merge AI's discretion. Suggested
-   split: monsters (full canonical entries) keep the D66 table and
-   are renumbered alphabetically; creatures (lesser foes and humanoid
-   bands) take a separate D66 lesser-foes table appended below.
-8. **Run markdownlint** on the merged file. The drafts and this
-   document are lint-clean; merge errors are most likely to come from
-   table-row alignment after renumbering.
-
-End of audit and merge instruction set.
-
----
-
 ## Creatures of the Forbidden Lands
 
 ### Ape-Man
@@ -1614,7 +1770,17 @@ Upland villages that have had Ape-Man problems more than once know the progressi
 
 > _The stone hammer by the forge is gone, and so is the apprentice who was using it at dawn._
 
-A smith's apprentice followed an Ape-Man that had been stealing tools from the forge yard, thinking he could track it back and recover the master's lost hatchet set. He has not come back. The ape has not come back either. The missing tools are probably in a cache somewhere in the ridge. Whether the apprentice is in the same cave, or whether he found the ape before the ape found him, is the question the master now needs answered.
+The smith Brek Holt's apprentice, a seventeen-year-old named Dunn,
+followed an Ape-Man up the ridge path this morning after the forge yard
+was stripped of a hatchet set, the spare mallet, and a copper fitting
+Holt had been saving for a commission. Dunn left a note saying he would
+return by midday with the tools. It is now late afternoon. The Ape-Man
+has not returned either, which Holt says is unusual — they normally loot
+at night and run when chased. If Dunn found the cache, the ape may have
+found Dunn. If Dunn is alive, he is somewhere in the ridge with the
+cached tools and no combat experience beyond the workshop. Holt wants
+his apprentice back and the tools recovered. He stated that order
+specifically.
 
 - **Terrain Types:** Hills, Mountains
 
@@ -1622,7 +1788,18 @@ A smith's apprentice followed an Ape-Man that had been stealing tools from the f
 
 > _Three apple cores sit on the doorstep, each one with a tool mark where no tool should reach._
 
-Something in the ravine has been watching the farm for a season. The farmer's wife knows because of the apple cores left by the step — the ape has been taking fruit from the tree and bringing back something each time, as if it understands the principle of trade and is trying to engage it. The farmer wants it killed before it decides fruit is no longer enough. His wife thinks destroying something that just learned how to make an offer is the kind of decision that follows a family for a generation.
+Three apple cores sit on the doorstep of Veld Arnke's farm, each with a
+cut mark on the base where no tool of this house has been. Arnke's wife
+Gert has been watching the ravine for a month: an Ape-Man has been
+taking one apple per visit and leaving something in exchange — first a
+stone, then a feather, then a carved bone. It is trying to work out what
+counts as trade. Arnke wants it killed before it decides the farm is
+territory it has negotiated access to. Gert says destroying something
+that has been bargaining in good faith is an act that comes back on a
+family. She has also started leaving something beside the apple tree in
+the mornings, because she wants to know what comes next. The Ape-Man
+has not come to the doorstep since she started leaving things. Arnke
+takes this as proof she is making it bold.
 
 - **Terrain Types:** Hills, Forest
 
@@ -1679,7 +1856,17 @@ Farmers who live near Bugbear country learn the seasonal pattern. Late autumn br
 
 > _The fence is cut, but nothing was taken. The goats are still in the pen._
 
-A Bugbear has been assessing a farming compound for two weeks. Last night it cut the fence without taking anything. The village elder says this means the Bugbear is counting: it knows what is here and is deciding whether to raid or move on. By his count, that decision comes in three days. The farmer wants watch posted. His neighbor thinks the fence-cut is already a message and wants to make an offering at the tree-line before the three days are up. Both may be right. Only one gets to be acted on first.
+A Bugbear has been circling Orval Dren's compound for two weeks. Last
+night it cut the fence post cleanly and took nothing. Village elder Sson
+says this is counting behavior — Bugbears from the Kelbridge forest do
+this before deciding to raid or move on, and by his reading the decision
+comes in two days. Orval wants watch posted and the fence reinforced.
+His neighbor Bred wants to make a food offering at the tree-line tonight,
+before the counting ends. Sson says both are reasonable but only one can
+go first: a posted watch changes what the Bugbear sees at the tree-line,
+and an offering changes what it expects at the fence. If Bred goes
+tonight and the Bugbear ignores it, Orval's watch will be in the wrong
+place when it does come.
 
 - **Terrain Types:** Forest, Plains
 
@@ -1687,7 +1874,17 @@ A Bugbear has been assessing a farming compound for two weeks. Last night it cut
 
 > _Every night this week the camp has heard something in the brush. Tonight the brush is quiet._
 
-A party of merchants is pinned at a roadside inn because Bugbears have been circling their camp for five nights without attacking. The merchant-master wants the adventurers to escort the convoy to the next town. The innkeeper knows the local Bugbear band and says they only circle like this when waiting for a specific target. One of the merchants is carrying something someone wants back. The innkeeper does not know what. The merchant-master does and is not saying.
+A wagon train has been pinned at the Dreveth road inn for five nights.
+Bugbears circle the camp each night without attacking. Innkeeper Wass
+Bren knows the local band and says they only wait this long when they
+want something specific. Merchant-master Holne Krel wants an escort to
+Dreveth. Bren says the escort won't help — Bugbears following a specific
+target follow it until they have it, not until a guard rotation stops
+them. One of Krel's six merchants is carrying something the band wants
+back. Bren does not know what. Krel does and is not saying. The six
+merchants have started asking why every stop on Krel's contracts runs
+long. One of them already knows. He has not told the others yet,
+because telling them means admitting what he took and where he took it.
 
 - **Terrain Types:** Forest, Plains, Hills
 
@@ -1743,7 +1940,17 @@ Upland pass-keepers track Carrion Wing activity the way flatland farmers track s
 
 > _A white feather stands point-down in the packed earth of the pass, like a marker someone left and did not come back to move._
 
-A merchant's pack animal went down on the high pass three days ago and the merchant kept going because the merchant could. The animal is still there, and so are the Carrion Wings that have been eating it, and so is the merchant's strongbox that slipped off the harness and is now under a dead mule and several very committed birds. The merchant wants the box recovered. The box contains the deed to a mill that three families in the valley have been arguing over for twenty years.
+Three days ago, merchant Corvin Hast's pack mule went down on a bad
+stone in the high pass and Hast kept moving because he could walk and
+the mule could not. The strongbox slipped from the harness when the
+animal fell and is pinned under it now, along with four Carrion Wings
+that have been working the carcass since day two. Hast wants the box
+recovered. He has not said what it contains until pressed: the deed to
+the Fern Mill, which three families in the valley have been contesting
+since his uncle died twenty years ago. The deed names Hast the owner.
+Two families will contest it. The third has a son who has run the mill
+for six years and considers it his. The birds are not interested in the
+box. They are interested in everything near it.
 
 - **Terrain Types:** Mountains, Hills
 
@@ -1751,7 +1958,17 @@ A merchant's pack animal went down on the high pass three days ago and the merch
 
 > _The pilgrim ahead on the path is sitting down. He has been sitting down for an hour. The birds above him are no longer banking._
 
-A group of pilgrims stopped for the night three hours short of the valley pass. One of their number has a bad leg and cannot continue without rest. The Carrion Wings above are tightening the spiral. The pilgrim-master wants to keep moving and leave the injured man with the group's mule. The injured man is the one who knows the route; without him the party takes the wrong fork and ends up two days from anywhere. The birds will be down well before dark.
+A column of twelve pilgrims stopped at the high-pass marker when old
+Sorn Rek's leg gave out an hour short of the pass cave. Pilgrim-master
+Deva wants to push the main group through before dark and leave Sorn
+with the pack mule. The Carrion Wings above have been narrowing their
+circle since Sorn sat down. Sorn holds the route in his memory from four
+prior pilgrimages; without him the column takes the wrong fork above the
+pass cave and spends two additional days on terrain the birds already
+own. Deva wants Sorn loaded on the mule. The mule is already behind the
+column's pace. The birds have stopped banking and are dropping altitude.
+Dark comes in two hours and the pass cave is not somewhere anyone wants
+to be after dark without knowing the way.
 
 - **Terrain Types:** Mountains, Hills, Plains
 
@@ -1809,7 +2026,17 @@ The most dangerous ones are those left too long without new instructions. They s
 
 > _The old town gate is braced shut from the outside and the stitching on the brace is not human work._
 
-A Corpse Ogre built during a siege a generation ago was given one instruction: keep the gate closed until relieved. The army that built it never came back. The gate now separates two halves of a village that grew up on both sides of the old wall, and every attempt to open it from the outside has ended in broken bones. The Ogre is not aggressive. It simply holds the gate closed and removes whatever it finds preventing that. The miller lives on one side. The mill is on the other.
+The west gate of Holden has been braced shut by a Corpse Ogre for
+thirty-one years. It was built during the Ardok siege with one
+instruction: keep the gate closed until the relief column arrived.
+The relief column did not arrive. The village grew up on both sides of
+the old wall. The Ogre is not aggressive. It removes whatever prevents
+the gate from closing and returns it to shut. It has broken fourteen
+attempts, most of them arms. Miller Gren Hosse lives on the eastern
+side. His mill is on the western side. He has been paying grain tax on
+a mill he cannot reach for twenty years because the guildmaster's
+records say he owns it. Gren wants the gate opened. The guildmaster
+wants his records to make sense.
 
 - **Terrain Types:** Village, Ruins
 
@@ -1817,7 +2044,17 @@ A Corpse Ogre built during a siege a generation ago was given one instruction: k
 
 > _The body at the road junction has been broken in a specific way that means something to anyone who has seen battlefield engineering._
 
-A Corpse Ogre has been ranging the road junction between three villages for two weeks, breaking bridges and warding approaches in a pattern consistent with old perimeter-defense instructions. One village is running out of grain and cannot resupply because the Ogre's patrol route covers the only road the supply cart can use. A sorcerer in the second village believes she can give the Ogre a new instruction, but the sequence requires touching the inscription band around its neck, and the last person who tried that lost the arm at the shoulder.
+A Corpse Ogre has been patrolling the Veld Fork road junction for
+sixteen days, breaking bridge planks and wedging approach stones in the
+old perimeter-defense pattern. The village of Merren is two days from
+running out of grain because the Ogre's route covers the only supply
+road from the east. Sorcerer Ilda Mers of the second village says she
+can write a new instruction that overrides the old one. The inscription
+band is around the Ogre's neck and requires contact to rewrite. The
+last person who touched it was a farmhand named Drost from the third
+village. He lost the arm at the shoulder. He is alive and available to
+describe what happened, and he is very specific about the order in
+which it happened.
 
 - **Terrain Types:** Plains, Village, Hills
 
@@ -1873,7 +2110,15 @@ Villages near old cemeteries that have been looted by practitioners occasionally
 
 > _Five scratches on the inside of the chest lid, still fresh._
 
-A merchant died in the inn three nights ago and was buried the next morning. His chest, locked and stamped with his trading company seal, is now in the hands of his partner. Last night something got into the chest and removed a specific letter. The partner is certain the merchant's widow sent the claw. The widow is certain the partner did. The letter is gone and the hand that took it is still in town, waiting for the instruction to deliver it, and neither party wants the adventurers to find out what the letter said.
+Merchant Keln Vosse died at the Dreveth inn three nights ago and was
+buried the next morning. His company chest, sealed and stamped, is now
+in the hands of his partner Ort Bress. Last night a Crawling Claw
+entered the chest and removed one letter. Bress says the widow sent it.
+The widow, Mavi Vosse, says Bress did. The claw is still in town — it
+will not deliver until given a secondary instruction, and whoever sent
+it will come to give that order. Both Bress and Mavi Vosse have asked
+the adventurers to watch the other one. Neither wants them to find out
+what the letter contained, which means the letter is worth finding.
 
 - **Terrain Types:** Village
 
@@ -1881,7 +2126,17 @@ A merchant died in the inn three nights ago and was buried the next morning. His
 
 > _The apprentice's thumb is missing. He says he was not wearing it when he came in._
 
-A sorcerer's workshop has been breaking its own security for three weeks. Tools misplaced, materials consumed, one apprentice bitten. The sorcerer believes a Crawling Claw is in the walls, sent by a rival for the workshop's formula records. The apprentice thinks the sorcerer made the claws herself and forgot about them, because he has found three preservation jars matching the claw's construction hidden in the eastern wall cavity. The sorcerer has not contradicted him directly.
+Sorcerer Melse Drak's workshop has been compromised for three weeks:
+tools displaced overnight, materials consumed from sealed containers,
+one apprentice bitten on the wrist. Drak believes a rival sent a
+Crawling Claw through the gutter-access for her formula records. Her
+apprentice, a young man named Torv, found three preservation jars in
+the eastern wall cavity that match the claw's construction method. He
+thinks Drak made them for a prior commission and forgot them. Drak has
+not directly contradicted him. Torv has not directly accused her. Drak
+wants the claws found and destroyed. Torv wants to know whether
+destroying them is actually her goal, or whether finding the records
+first is.
 
 - **Terrain Types:** Village, Ruins
 
@@ -1937,7 +2192,17 @@ Villages that have had one in residence for more than a season start to show it 
 
 > _The confession box at the old shrine has been used every night for the past two weeks. Nobody comes to mass._
 
-A Fear-Drinker has been posing as a confessor who keeps unusual hours. The villagers feel better after confessing; the Fear-Drinker feeds on the discharged shame and leaves a pleasant emptiness that keeps people coming back. The priest who should be serving the shrine is locked in the back room because he noticed. If the adventurers expose the Fear-Drinker, they also expose everyone who confessed to it, which is everyone in the village.
+The old shrine at Keld's Bottom has had a confessor keeping unusual
+hours for five weeks. The villagers feel lighter after confessing —
+the Fear-Drinker takes the discharged shame and leaves a quiet that
+keeps people returning. The legitimate priest, Father Ort, is locked
+in the back room of the shrine house. He has been there four days, fed
+bread once a day through the gap under the door. If the adventurers
+remove the Fear-Drinker, they will need to account for what the village
+confessed to it. Every adult in the village used the confession box.
+None of them know the confessor was not a priest. All of them believe
+their confessions were sealed. The priest, when released, will know
+what they confessed.
 
 - **Terrain Types:** Village, Ruins
 
@@ -1945,7 +2210,16 @@ A Fear-Drinker has been posing as a confessor who keeps unusual hours. The villa
 
 > _The village headman has been wrong about who did what to whom for three consecutive market days, and each time he has been wrong in the same direction._
 
-The headman is not corrupt. A Fear-Drinker is feeding on his private conviction that he is not fit for the job, taking a little more certainty from him after each session. His rulings are becoming worse. The family who has been winning all three disputed rulings knows about the Fear-Drinker and has been directing people to the headman at his worst moments. They are not feeding the thing. They are using its schedule.
+Headman Brek Veln of the Solmarsh district is not corrupt, but his
+last four market-day rulings have gone the same direction and the same
+family has benefited each time. The Arsten family knows about the
+Fear-Drinker that has been meeting Veln privately. They did not
+commission it or feed it, but they know its schedule. They present
+their disputes in the half-hour after Veln's sessions, when his
+certainty is lowest and his tolerance for argument is gone. Veln's
+rulings are worsening. He has started to believe a better man should
+have the seat. The Fear-Drinker takes certainty from him; the Arstens
+take cases. Neither is the same crime. Both are the same problem.
 
 - **Terrain Types:** Village, Plains
 
@@ -2002,7 +2276,16 @@ Cellarmasters and crypt-keepers learn to recognize the signs: the thin husks of 
 
 > _The grain vault has been locked for three days because something died in it, but the grain ran out a week ago and the village needs what remains._
 
-A winter-depleted grain store has a Giant Centipede nest in the lower section. The lock was thrown from inside; someone went in to check on the low stocks and did not come back out. The village needs the grain and needs to know what happened to the storekeeper. The nest is between the door and the grain. The storekeeper may be alive, paralyzed, in the back of the vault, or may be the smell that has been coming through the door seal for three days.
+The village grain vault at Fenn's Cross has been locked from the inside
+for three days. Storekeeper Pall Orn went in to check the winter stocks
+and did not come out. The village needs what grain remains — the stores
+ran out a week ago and the next cart is four days away. The bolt is
+thrown from inside and cannot be cleared from outside without breaking
+the door. A Giant Centipede nest is confirmed in the lower section; Orn
+knew about it and had been working around it for two seasons. The nest
+stands between the door and the grain. The smell through the door seal
+changed this morning. For two days it was damp soil. Since this
+morning it has been something else.
 
 - **Terrain Types:** Village, Ruins
 
@@ -2010,7 +2293,17 @@ A winter-depleted grain store has a Giant Centipede nest in the lower section. T
 
 > _The old drainage channel under the inn runs to the river. Nobody has maintained it in forty years. It is also the only way out of the inn that does not go through the main hall, where the road-wardens are waiting._
 
-A group of travelers needs the old undercroft drainage channel to avoid a constable they have complicated reasons to avoid. The channel is the fastest route, the only covert route, and home to a Giant Centipede nest of unknown size. The travelers have a lantern, a hand-length of dry rope, and approximately twelve minutes before the constable finds the stable empty and checks the cellars.
+Four travelers need the old undercroft drainage channel under the
+Westgate inn to avoid Road-Warden Seska Feld, who is in the common
+room with a sealed warrant naming two of them. The channel runs under
+the inn and exits at the river bank behind the tannery — the only
+covert exit that does not pass through the stable, which Feld has
+already checked and left a junior warden to watch. The channel has not
+been maintained in forty years and has been home to a Giant Centipede
+colony for at least two of them. Feld has twelve minutes before she
+checks the cellars. The travelers have a lantern, a hand of rope, and
+one of them has a bad leg. They are asking whether the channel is
+worse than the warrant.
 
 - **Terrain Types:** Village, Ruins
 
@@ -2066,7 +2359,16 @@ Granaries and mills with a Giant Rat problem are businesses with a political pro
 
 > _The rat-catcher left his things by the south gate four days ago. The things are still there._
 
-A professional rat-catcher was hired to clear a drowned mill that the owner wants to sell. The catcher took the contract, went in, and has not come out. The mill-owner wants the adventurers to find out what happened without going public, because the buyer is scheduled to inspect the property in two days. A rat-catcher good enough to take a mill contract is good enough that something stopped him, and the mill-owner is now wondering if the problem is larger than he quoted.
+Ratter Dore Selk was hired to clear a drowned mill three days before
+its sale inspection. She took the contract, went in the east door at
+dawn, and has not come out. The mill-owner, Ber Tronne, wants the
+adventurers to find out what happened without going public — the
+buyer's inspection is in two days and Tronne cannot afford to lose the
+sale. Selk is the most experienced ratter in the district. She has not
+come out, which means the colony is larger or older than Tronne quoted.
+He knew the nest was well established. He described it as minor. He is
+willing to double Selk's fee if the adventurers bring her out before
+the inspection, and he has not asked anyone to bring out the rats.
 
 - **Terrain Types:** Village, Quagmire
 
@@ -2074,7 +2376,17 @@ A professional rat-catcher was hired to clear a drowned mill that the owner want
 
 > _The supply wagon came through three days ago. The road master logged it through. The village that ordered the grain has not received it._
 
-A grain wagon arrived and was logged through the road post. The receiving village never got it. The wagon and the teamster are at neither end of the road. The route passes through old floodplain with a collapsed granary on the verge that has been used as a night camp for twenty years. The granary's Giant Rat colony has been growing for two seasons. The teamster made camp there.
+A grain wagon was logged through Road Post 7 three days ago. The
+village of Melden, which ordered the grain, has received nothing. The
+wagon and its driver, a teamster named Ols, are at neither end of the
+road and have not been reported at any intermediate post. The route
+passes through old floodplain beside a collapsed granary that travelers
+have used as a sheltered night camp for twenty years. The Giant Rat
+colony inside the granary walls has been growing for two seasons. Ols
+knew the granary by name and reputation and made camp there anyway
+because it was the scheduled stop on the road-master's route and he
+trusted the schedule. The wagon with its full grain load is still
+there. Ols may also still be there.
 
 - **Terrain Types:** Plains, Village
 
@@ -2126,7 +2438,17 @@ Wetland villages know the toad sign: the stretch of road near the pond where the
 
 > _The marker stone at the ford is the wrong shape this morning._
 
-A Giant Toad has displaced from its usual shallow-pond territory because the pond silted over in the spring floods. It has moved to a ford the entire valley uses as a seasonal market crossing. The ford is now impassable without passing within tongue-range of something the size of a merchant's horse. Market day is tomorrow. The valley road-master knew about the toad two weeks ago and did not file the report because he was hoping the problem would resolve itself.
+A Giant Toad displaced from the Fenwick silted-pond in the spring floods
+has settled into the main valley ford used for seasonal market crossing.
+The ford is now impassable without walking within tongue-range.
+Market day is tomorrow. Road-master Geln Voss knew about the toad two
+weeks ago and did not file the district report because he was hoping the
+problem would resolve itself, which is a phrase road-masters use when
+they mean they were hoping it would become someone else's problem. The
+market road is the valley's trading backbone: every vendor, cart, and
+buyer uses it. Voss is at the waypost with a nervous expression and
+will offer payment if the toad can be moved or killed before the first
+carts arrive at dawn.
 
 - **Terrain Types:** Quagmire, Marshlands, Plains
 
@@ -2134,7 +2456,16 @@ A Giant Toad has displaced from its usual shallow-pond territory because the pon
 
 > _The children have been throwing stones at the old gray lump by the mill pond for a week. Today one of the children did not come home._
 
-A Giant Toad has been sitting on the mill pond verge for three weeks. The miller considered it harmless because the stones the children threw at it never prompted a response. The toad was waiting: it needed the children to establish a routine before it moved. The missing child is alive — swallowed prey survives in the stomach for some hours. The miller knows this. He is at the pond with a long knife and a very specific plan that requires standing within tongue-range and going through with it.
+A Giant Toad has been sitting on the mill pond verge for three weeks.
+Miller Brek Orm thought it harmless — the stones the children threw at
+it never prompted a response. The toad was not sleeping. It was
+establishing routine. Tonight it took young Sera Orm when she came to
+the bank at the usual hour. Swallowed prey survives in the stomach for
+some hours. The miller knows this. He is at the pond edge with a long
+knife and a specific plan that requires standing within tongue-range and
+seeing it through. His wife is behind him telling him to wait for
+someone who knows what they are doing. He does not look like he is
+waiting.
 
 - **Terrain Types:** Quagmire, Village, Forest
 
@@ -2186,7 +2517,17 @@ The digestion is slow. Something that contacts a Glass Ooze is immobilized first
 
 > _Three torches are still lit in the tunnel, but the miners have not come back for two shifts._
 
-Three miners are suspended inside a Glass Ooze that formed in a drainage shaft in a copper mine. They are still alive. The ooze has been stationary in that shaft for at least a season and the mine-master did not know it was there, which is why three men were sent in to clear what looked like a blockage. The men are visible through the ooze's body. Killing the ooze dissolves it and may release them, or may accelerate the digestion. The mine-master does not know which, and neither does anyone in the valley.
+Three miners are suspended inside a Glass Ooze in the number-four
+drainage shaft of the Kelbridge copper mine. They are still alive. The
+ooze has been stationary in that shaft for at least a season, but
+mine-master Surl Dreveld did not know it was there — he sent the three
+men to clear what the shaft crew logged as a partial blockage. All
+three are visible through the ooze's body. Dreveld wants them out. He
+does not know whether killing the ooze releases them cleanly or
+accelerates the digestion. No one in the valley knows. He is offering
+full monthly wages plus a copper-weight bonus if the adventurers
+resolve it before the morning shift, when the rest of the crew expects
+those three men at their stations.
 
 - **Terrain Types:** Mountains, Hills
 
@@ -2194,7 +2535,16 @@ Three miners are suspended inside a Glass Ooze that formed in a drainage shaft i
 
 > _The coin pressed into the wax is clearly foreign, and the wax is clearly old. It came from somewhere sealed and is suggesting the seal is worth revisiting._
 
-A locksmith has found a way to melt the extracted contents out of dead Glass Oozes and sift for valuables. He has been doing this for two years and selling what he finds to an antiquarian who has been tracking the coinages. The antiquarian recently identified a sequence from a vault sealed three hundred years ago that has never been successfully opened. He wants partners for the recovery. The vault is reachable. The thing that sealed it is probably still there. The locksmith has not told the antiquarian about the current size of the ooze he found last month, because the antiquarian would withdraw the commission.
+Locksmith Vars Holt has been melting dead Glass Oozes and sifting for
+valuables for two years. He sells what he finds to antiquarian Melde
+Dran, who has been tracking the coinage sequences. Dran recently
+identified a vault sealed three hundred years ago from a run of coins
+that have appeared inside three separate oozes over the last six months.
+The vault has never been successfully opened. The thing that sealed it
+is probably still there. Dran wants partners for the recovery and is
+offering a quarter-share of contents. Holt has not told him about the
+size of the ooze he found last month in the vault approach tunnel,
+because Dran would withdraw the commission, and Holt needs the money.
 
 - **Terrain Types:** Mountains, Ruins, Hills
 
@@ -2250,7 +2600,16 @@ Individual goblins are often harmless. A goblin that wanders into a market town 
 
 > _The night tax collector's lockbox is in the strongroom. The strongroom key was in the tax collector's belt. The tax collector is now not in the inn._
 
-A goblin band has been living in the undercroft of a road inn for three months. Last night they took the tax collector from the best room, because the collector had a lockbox they could not open and they needed someone to explain it. The collector is alive in the undercroft, having a conversation about the box's contents. The innkeeper wants the situation resolved before the collector's armed escort arrives at dawn and finds an empty room.
+A goblin band has been in the undercroft of the Fenn Road inn for three
+months. Last night they took tax collector Deva Olt out of the best room
+through the underfloor, because she had a lockbox they could not open
+and they needed someone to explain the contents. Olt is alive in the
+undercroft, having what sounds through the floorboards like a genuine
+conversation. Innkeeper Morse Dern wants the situation resolved before
+Olt's armed escort arrives at dawn and finds an empty room. The escort
+will not ask questions before causing damage. Olt appears to be
+explaining the tax ledger to a goblin who can read. The goblin has not
+given the box back.
 
 - **Terrain Types:** Village, Ruins
 
@@ -2258,7 +2617,15 @@ A goblin band has been living in the undercroft of a road inn for three months. 
 
 > _The flour is gone. Every grain sack in the mill has been taken through a wall gap the size of a coat._
 
-A mill has been systematically stripped by a goblin band over two weeks. The miller thought it was rats until the third morning, when he found a small snare in the pantry and a note written in poor but legible common: *we need the flour more than you do.* A goblin-elder who can write is making a calculated appeal. The village is entering a cold season with no stores. The goblin warren below the mill is also running out of something it cannot take from a mill.
+Miller Tolf Gren's grain stores have been stripped over two weeks. He
+thought it was rats until the third morning, when he found a small snare
+in the pantry and a note in poor but legible common: _we need the flour
+more than you do._ A goblin-elder who can write is making a calculated
+appeal. The village is entering a cold season with reduced stores; the
+harvest came up short. The goblin warren below the mill is also running
+short of something it cannot take from a granary. The note implies a
+trade but does not name terms or what the goblins have to offer. Gren
+wants them gone. He also wants to know what they have.
 
 - **Terrain Types:** Village, Plains
 
@@ -2313,7 +2680,15 @@ The smell of cinders and wet hide carries far in cold weather. Villages with rea
 
 > _Two hounds, nose down on the main road, moving fast in the wrong direction._
 
-Two Hell Hounds are tracking someone down the road ahead. Their master is not visible. The person they are tracking crossed paths with the adventurers three days ago and left them with something to deliver to the next city. The adventurers may not know the two facts are connected. The hounds will confirm it when they stop following the tracks and start following the party.
+Two Hell Hounds are working the road ahead, nose to the surface, moving
+fast. Their master is not visible. The tracks they are following are
+three days old and run back through the last town, where a merchant
+named Seld Ort asked the adventurers to carry a sealed dispatch to the
+next district office. Ort did not explain why he could not send a
+courier. Whoever sent the hounds will be behind the adventurers before
+dark, following them. When the hounds stop tracking the old road and
+start tracking a moving party, the adventurers will understand the
+connection. That will be approximately thirty minutes from now.
 
 - **Terrain Types:** Forest, Plains, Hills
 
@@ -2321,7 +2696,17 @@ Two Hell Hounds are tracking someone down the road ahead. Their master is not vi
 
 > _The sorcerer's house on the edge of the village burned last week. The hound did not leave._
 
-A sorcerer died in a fire seven days ago. The Hell Hound bound to him is still on the property, waiting for an instruction from a person who is not going to give it one. The sorcerer's apprentice wants the hound. The sorcerer's creditors want the property. The village wants both of them gone. A Hell Hound with no live master is in a state the people who study these things call instructionless, and they have more than one opinion about what it will do next.
+Sorcerer Meln Vork died in a fire seven days ago. His Hell Hound is
+still in the scorched yard, sitting, waiting for an instruction from a
+man who is not coming. The apprentice, Jor, wants the hound — he says
+a Hell Hound in good service is worth more than everything else in the
+estate. The creditors want the property and say the hound is a
+liability preventing access. The village wants both gone from the
+boundary by market week. An instructionless Hell Hound will move toward
+whoever gives it a clear directive first. Jor does not have the
+training to bind one. The creditors will push the access issue before
+the end of the week. The hound has been watching the road since day
+three.
 
 - **Terrain Types:** Village, Ruins
 
@@ -2378,7 +2763,17 @@ Buildings with a gargoyle problem become identifiable over time. The upper stone
 
 > _The bell in the old tower has not been rung in a year, and the new bell-ringer will not say why after she came back down._
 
-A Little Gargoyle band has established territory in a town bell-tower. The bell-ringer went up to assess the situation and came back down without her left glove and without explanation. The bell has been silent since, which means the market-time signal and the curfew bell have both failed for a season. The town council is offering payment to resolve it. The bell-ringer knows exactly what is in the tower but will not explain to anyone who has not been up there, because she does not think the explanation will be believed.
+The great bell of Colven has been silent for a season. Bell-ringer
+Merte went up to assess a noise complaint three weeks ago and came back
+down without her left glove and without explanation. The town council
+is offering payment to resolve it. Merte knows what is in the tower but
+will not describe it to anyone who has not been up there, because she
+tried once and the council secretary wrote down her description and read
+it back to her with the word “rats” substituted throughout. The
+market-time signal and the curfew bell have both failed for eleven
+weeks. Merchants are presenting complaints about unpunctual
+transactions. The council wants the problem solved. Merte wants to go
+back up but not alone.
 
 - **Terrain Types:** Village, Ruins
 
@@ -2386,7 +2781,17 @@ A Little Gargoyle band has established territory in a town bell-tower. The bell-
 
 > _Three gargoyles, perched. One of them is watching the adventurers. The other two are watching the street below._
 
-A group of Little Gargoyles is coordinating an ambush on a moneylender who passes through this street every morning. He has been paying stonecutters to chip the decorative work off a building they occupy, which is being renovated for commercial use. The moneylender is unaware that the figures being removed have opinions about it. The mason he hired is very aware and is hoping someone else deals with this before his commission requires him to go back up.
+Moneylender Kel Sarre has been paying stonemason Brot to strip the
+decorative figures from a building he purchased for commercial
+conversion. Brot has known since the first morning that three of the
+figures are not decorative — one turned its head while he was setting
+up scaffold. He has been working other parts of the commission since.
+Sarre comes through the street every morning at the second bell. The
+three Little Gargoyles have been coordinating a roof-drop for four
+days. They are not waiting for Brot to go up. They are waiting for the
+man who gave Brot his commission to walk underneath. Brot is hoping
+someone resolves this before Sarre asks why the figures are still
+attached.
 
 - **Terrain Types:** Village, Ruins
 
@@ -2439,7 +2844,16 @@ Villages near shadow-hound territory learn to count. Three Night-Pups in the yar
 
 > _One pup, sitting in the middle of the road, watching. Behind the party, the road is empty._
 
-A single Night-Pup is visible in the road ahead. It is not attacking. It is watching and occasionally glancing left, into the tree-line. Two older shadow-hounds are in the wood to the left, waiting for the party to walk past the pup and into a flanked position. The pup keeps checking the tree-line to confirm the older animals are still there. They are. The party has approximately three rounds before the older animals decide the positioning is sufficient.
+A single Night-Pup sits in the middle of the road ahead. It is not
+attacking. It watches, and every few seconds it glances left into the
+tree-line. Two older shadow-hounds are waiting in the wood there,
+positioning to flank the road on both sides of the pup's location. The
+pup is not scouting — it has found what it was looking for and is
+coordinating. It checks the tree-line every few seconds to confirm the
+older animals are still in place. They are. The party has approximately
+three rounds before the older animals decide the positioning is
+sufficient. The road behind the party is empty. The tree-line to the
+right is quiet in a way that is worth noticing.
 
 - **Terrain Types:** Forest, Hills, Plains
 
@@ -2447,7 +2861,16 @@ A single Night-Pup is visible in the road ahead. It is not attacking. It is watc
 
 > _The child's hand is cold below the wrist and she cannot grip._
 
-A child was bitten by a Night-Pup six days ago while gathering water from the mill stream. The wound is closed and clean but the cold has not left the hand and she cannot close the fingers properly. The local herb-woman has tried everything she knows. A hunter who knows the shadow-hound territories says the cold from a pup-bite resolves if the biting animal is killed, but the pup is still in the area and is being watched over by at least one older hound. The child's father is planning to go into the wood tonight regardless.
+Mira Holst was bitten by a Night-Pup six days ago while drawing water
+from the mill stream. The wound is closed and clean but the cold in the
+hand has not lifted. She cannot close her fingers or grip. Herb-woman
+Veld has tried everything she knows. Hunter Brek Serren, who knows the
+shadow-hound territories above the mill, says the cold from a pup-bite
+resolves when the biting animal is killed — it is a working, not a
+wound. The pup is still in the area and is being watched over by at
+least one older hound. Mira's father, Geth, is going into the wood
+tonight. He has not asked Serren to come with him and Serren has not
+offered.
 
 - **Terrain Types:** Forest, Village, Hills
 
@@ -2498,7 +2921,17 @@ Ogre territories are identifiable by structural damage done in passing rather th
 
 > _The village gate is open and the gatekeeper is not in the booth. The big handprint on the inside of the gate is above where any gatekeeper could reach._
 
-An ogre has been collecting a toll from the village gate road for three weeks. It is not aggressive: it stands at the gate, holds out its hand, and waits. No one has been hurt. The gatekeeper agreed to the situation because the alternative presented was worse. The village council has not been told because the gatekeeper is afraid of the council's proposed solution. The ogre has specific reasons for wanting the money and specific reasons for choosing this village, and neither reason is greed.
+An ogre has been standing at the Fenn village gate for three weeks,
+collecting a toll. It is not aggressive: it stands in the road, holds
+out one hand, and waits. No one has been hurt. Gatekeeper Deld agreed
+to the arrangement on the first day because the alternative presented
+by the ogre's physical presence was worse. The village council has not
+been told. Deld is afraid of the council's proposed solution, which
+would involve the village guard and would not end with a live ogre and
+a working gate. The ogre comes back every morning and leaves by midday,
+taking exactly the same amount each day. It is saving for something
+specific and chose this village for a reason, and neither reason is
+greed.
 
 - **Terrain Types:** Village, Plains
 
@@ -2506,7 +2939,17 @@ An ogre has been collecting a toll from the village gate road for three weeks. I
 
 > _Something has been in the winter stores. Whatever it was, it stacked the empty crates neatly outside the door._
 
-An ogre has been taking food from a village's winter store for three weeks. The organized stacking of empty crates is its way of communicating that it is not hostile. The village headman is less reassured by this than the ogre expected. The ogre is willing to explain — it is feeding a litter of something in the old quarry — but it needs a translator who speaks both ogre and common, and the only person in the village who can do that is the one who originally sent the ogre to the quarry and has not told the headman that part.
+An ogre has been taking food from the Merden village winter store for
+three weeks. Each morning the empty crates are stacked neatly outside
+the south door. This is the ogre's way of communicating that it is not
+hostile. Headman Brok Veld is less reassured by the stacking than the
+ogre expected. The ogre is willing to explain what it is feeding in the
+old quarry north of the mill, but it needs a translator. The only
+person in the village who speaks both ogre and common is a woman named
+Selle, and Selle originally directed the ogre to the quarry two months
+ago and has not told Veld that part. Veld wants an explanation. Selle
+wants to give it herself, in her own order, before Veld asks the ogre
+directly.
 
 - **Terrain Types:** Village, Ruins, Hills
 
@@ -2559,7 +3002,16 @@ Tunnel Maw territory is identifiable to experienced spelunkers by what is absent
 
 > _The survey rope is still secured at the cave entrance. The surveyor is still attached to the other end of it._
 
-A mining survey team sent one man into a new shaft to take measurements. The rope went taut three hours ago and has not moved. The team cannot pull it back: it resists as though anchored, not snagged. The surveyor may be dead, may be held in the mouth, or may have wedged the rope around something solid while trying to free himself from a feeler. The shaft is the only passage to the vein the entire mine operation is staked on.
+A mining survey team sent one man, Ran Veld, into the new eastern shaft
+three hours ago to take depth measurements. The rope went taut and has
+not moved since. The team cannot pull it back — it resists as if
+anchored, not snagged. Veld may be dead, held in the Tunnel Maw's
+feelers, or have wedged the rope around something solid while trying to
+pull free. He is not calling out; the shaft geometry prevents it, or
+he has stopped. The shaft is the only known passage to the ore vein
+the entire mine operation is staked on. The team lead wants someone to
+go in. He has been willing to go himself for the last thirty minutes
+and has not yet gone.
 
 - **Terrain Types:** Mountains, Hills
 
@@ -2567,7 +3019,17 @@ A mining survey team sent one man into a new shaft to take measurements. The rop
 
 > _The merchants' bridge has been repaired three times this year. Nobody who crosses it alone makes it to the other side._
 
-A Tunnel Maw has positioned itself under the arch of a stone bridge on a major trade road. The bridge maintenance has been blamed on flood damage, cart weight, and sabotage. The actual problem is the merchant who knows about the maw and has been using it: caravans he guides personally cross safely; caravans that pass without his escort sometimes do not arrive at the next waypost. He is not feeding people to the maw intentionally. He simply knows the safe passage timing and has not told the road guild, because the road guild would seal the bridge and destroy his advantage.
+A Tunnel Maw has been under the Dren bridge arch on the Westmarch
+trade road for six months. The damage has been logged as flood wear,
+cart overloading, and twice as sabotage. The actual explanation is
+Merchant Keln Sors, who discovered the maw in spring and has been using
+the knowledge rather than reporting it: caravans he personally escorts
+cross in the safe window between the maw's feeding cycles. Caravans
+that pass without him sometimes do not arrive at the Westmarch waypost.
+Sors is not feeding people to the maw intentionally. He knows the
+timing and has not disclosed it, because the road guild would seal the
+bridge and end his advantage. The road guild has started asking
+questions about the failed-delivery pattern.
 
 - **Terrain Types:** Plains, Hills, Village
 
@@ -2624,7 +3086,16 @@ Villages near old battlefields, plague sites, and unmaintained cemeteries have p
 
 > _Seven people are missing from the eastern quarter. The doors to three of their houses are open. No one saw them leave._
 
-Seven people have not been seen since last night. Three doors were left open in the cold. The village herbwoman says the eastern quarter is downhill from the old field-burial site and the drainage runs toward it, and this autumn was very wet. The village headman wants the problem handled quietly before the autumn census. The herbwoman wants the site properly consecrated and will not leave the village until it is done. One of the missing seven is the headman's brother.
+Seven people from the eastern quarter of Solm village have not been
+seen since last night. Three of their doors were left open in the cold.
+Herbwoman Melde says the eastern quarter is downhill from the old
+field-burial site, the drainage runs toward the foundation stones, and
+this autumn was the wettest in fourteen years. She wants the site
+consecrated before anyone goes searching. Headman Bret Vorn wants the
+problem handled quietly before the autumn census, which is in four
+days. One of the missing seven is Vorn's brother Ols. Melde says the
+consecration comes first. Vorn wants to know if his brother is alive,
+which is a different question that consecration does not answer.
 
 - **Terrain Types:** Village, Marshlands, Plains
 
@@ -2632,7 +3103,16 @@ Seven people have not been seen since last night. Three doors were left open in 
 
 > _The road-wardens' checkpoint has not sent a report in three days. The road to it is clear._
 
-A remote road-warden post has gone silent. The post covers the junction near an old military burial pit left after a skirmish three seasons ago. A message-rider who attempted the road two days ago came back without the message and with the specific look that means she went far enough to see something and turned around. The warden post has twelve men assigned to it. The burial pit has no confirmed count.
+Road post fourteen on the North Fenn junction has been silent for three
+days. The post covers the road near an old military burial pit from a
+skirmish three seasons ago. Message-rider Dera Holst rode the road two
+days ago and returned without delivering her dispatch. She described
+the road as impassable and has a specific expression that people who
+have seen walking dead before recognize. The post has twelve wardens
+assigned to it. The burial pit was dug in haste; no one recorded how
+many went into it. The district captain wants a recovery mission. Holst
+has agreed to ride ahead on the condition that she is not sent in
+first.
 
 - **Terrain Types:** Plains, Hills, Village
 
@@ -2688,7 +3168,17 @@ Villages pray harder at the sound of a spellbook opening than at the howl of any
 
 > _The child the warlock took ten years ago came back last week. She is thirty years old._
 
-A warlock took a child as an apprentice ten years ago under a contract the parents signed in desperation. The child returned last week as a competent adult with a message: the contract is complete, she is released, she owes nothing. The village does not know what to do with this. The woman does. What she came back to do requires the village's cooperation. What the warlock sent her back to do requires her to ask for it. Both of those things involve explaining what happened in the tower, which she has not done yet.
+Ten years ago, Warlock Meln of the Black Ridge took a child, Vessa, as
+an apprentice under a contract the parents signed in a bad winter.
+Vessa returned last week, thirty years old by the look of her, with a
+message: the contract is complete, she is released, she owes nothing.
+The village does not know what to do with this. Vessa does. What she
+came back to accomplish requires the village's help. What the warlock
+sent her back to accomplish also requires the village to cooperate.
+Both goals are structured as requests she has not yet made. She arrived
+on a market day, ate at the inn, slept one night, and has been sitting
+at the south well since morning waiting for someone to ask what she is
+doing here.
 
 - **Terrain Types:** Village, Mountains, Hills
 
@@ -2696,7 +3186,17 @@ A warlock took a child as an apprentice ten years ago under a contract the paren
 
 > _The tax letter arrived at the warlock's tower and was returned with one word added to it. The word is not hostile. It is a number._
 
-A regional lord attempted to levy taxes on a warlock's tower and adjacent lands. The warlock returned the document with a single addition: the specific sum the lord owes the warlock for services rendered to his grandfather thirty years ago. The lord's steward was sent to negotiate. The steward reached the tower, was admitted, and has been inside for two days. The lord wants to know what is being discussed. The steward's family wants to know if the steward is still the steward.
+Lord Keln Vosse levied tax on Warlock Drest's tower and adjacent lands.
+The document was returned with one addition: the sum Vosse's
+grandfather failed to pay for services rendered thirty years ago, with
+compound interest. Vosse's steward, Taren, was sent to negotiate.
+Taren reached the tower, was admitted, and has been inside for two
+days. Vosse wants to know what is being discussed. Taren's family wants
+to know if he is still able to discuss things. Drest does not
+communicate through intermediaries as a general rule, but the note
+accompanying the returned tax document was written in a familiar hand.
+Someone in Vosse's household has been corresponding with the tower for
+some time, and that person is not the steward.
 
 - **Terrain Types:** Hills, Mountains, Village
 
@@ -2754,7 +3254,16 @@ They operate alone or in small cells. The black-fletch arrow left at a scene is 
 
 > _The merchant arrived at the inn with one black-fletched arrow lodged through his saddlebag, fletching-first, point away. He says he does not know what it means._
 
-The merchant is lying. The arrow is the standard fee-notice for a kill already commissioned and completed. Someone hired a Black-Fletch Archer to eliminate a business rival on the road ahead, and the merchant paid half in advance and is now being reminded that the second payment is due. The kill has already happened. The question is whether the adventurers are willing to serve as couriers for the second half, or whether they want to know whose body is waiting on the road ahead.
+Merchant Olan Vrek arrived at the Halfen inn with a black-fletched arrow
+lodged through his saddlebag, fletching-first, point away. He says he
+does not know what it means. He is lying. The arrow is the fee-notice
+for a contracted kill already completed, standard practice for the
+marker who uses this fletch — second payment is now due. Vrek paid
+half in advance to have a business rival removed from the Northmarch
+road, and the rival is on that road waiting to be found. The question
+is whether the adventurers are willing to carry the second payment
+north, or whether they want to know whose body they will pass on the
+way.
 
 - **Terrain Types:** Forest, Plains, Hills
 
@@ -2762,7 +3271,16 @@ The merchant is lying. The arrow is the standard fee-notice for a kill already c
 
 > _Three bodies in the clearing, all shot from the same angle, all through the gap in the right armpit where the arm rises to draw._
 
-A patrol was ambushed at this clearing. All three were shot from the north tree-line before they could respond. The patrol was carrying a sealed message tube. The tube is gone. A Black-Fletch Archer's pattern is to wait and reobserve after a kill to confirm the commission is complete. If the adventurers are identifiable as the patrol's allies, the archer is already watching them.
+Three patrol-men are dead in the clearing, all shot from the north
+tree-line in the same exchange, all hit through the gap in the right
+armpit where the arm rises to draw. The kills were clean; the patrol
+had no time to respond. They were carrying a sealed message tube and
+the tube is gone. The marker who uses black fletching holds a
+professional pattern: wait and reobserve after a kill, positioned to
+confirm the commission is complete before withdrawing. The clearing
+has not been clear long enough to be safe. If the adventurers are
+identifiable as connected to the patrol, the observation is already
+in progress.
 
 - **Terrain Types:** Forest, Hills
 
@@ -2789,7 +3307,15 @@ The beast is used to open the engagement: to flush, knock loose, isolate, or ter
 
 > _The wolf is alone on the road. It is not feral. It is waiting for something._
 
-A Clan Hunter's wolf is standing in the road, alone. The hunter is not visible. The wolf is not aggressive; it is oriented toward the wood to the right and waiting. The hunter is in that wood, injured, and has sent the wolf out to find or lead help back. The injury was caused by the quarry the hunter was hired to track, and the quarry is currently between the hunter and the road.
+A large wolf stands in the middle of the road alone. It has no
+aggression, no hackles, and it is oriented toward the east wood,
+waiting. The animal belongs to Hunter Brek Varan. Varan is in the east
+wood, injured, and sent the wolf out to find or lead help. The quarry
+Varan was hired to track — a man wanted alive by one party and dead by
+another — inflicted the injury two hours ago and is still somewhere
+between Varan and the road. The wolf will lead anyone who follows it.
+What they find on the way to Varan is not something the wolf was asked
+to account for.
 
 - **Terrain Types:** Forest, Hills, Plains
 
@@ -2797,7 +3323,16 @@ A Clan Hunter's wolf is standing in the road, alone. The hunter is not visible. 
 
 > _The hawk circles the village twice every morning, then returns to the old mill. Nobody hired it._
 
-A Clan Hunter died three weeks ago at the mill. The hawk she trained is still alive and still following its trained pattern. The hawk is in perfect condition and worth significant coin to the right buyer, but it is bonded and will attack anyone who approaches the mill without the specific whistle-command the hunter used. No one in the village knows the whistle. The hunter's clan, who have come looking for her, know the whistle but want something in exchange for the information.
+Hunter Dera Solm died three weeks ago at the Fern Mill and was buried
+without ceremony because no one knew who she was. The hawk she trained
+is still alive, still circling the mill twice every morning before
+returning to roost above the millstone. It is in perfect condition,
+worth thirty silver to any competent falconer, but bonded to a dead
+woman's whistle-command: anyone who approaches the mill on foot without
+the specific tone is hit across the wrist. No one in the village knows
+the tone. Solm's clansmen arrived two days ago looking for her. They
+know the tone and are willing to trade it for something they say will
+take less than one afternoon.
 
 - **Terrain Types:** Village, Plains, Forest
 
@@ -2824,7 +3359,16 @@ They prefer alleys, ferry queues, grain sheds, and crowded inns where a single s
 
 > _The purse is gone. So is the letter that was folded inside it. The coin can be replaced._
 
-A merchant had their purse lifted in the market crowd. The coin is a loss they can absorb. The letter inside the purse is not: it contains information about a trade deal that, in the wrong hands, ends the merchant's access to the northern supply route. A cutpurse working the market professionally would not know what they had taken. One working for a specific interest might. The merchant wants the letter back quietly; the cutpurse wants to know who is willing to pay more for it than the merchant.
+Merchant Arne Veld had his purse lifted in the Brenn market crowd this
+morning. The coin is a loss he can absorb. The letter folded inside the
+purse is not: it names the terms of a supply arrangement that, read by
+the wrong party, ends Veld's access to the northern grain route and
+possibly his position in the northern grain trade entirely. A cutter
+working the crowd for coin would not know what he had taken. A cutter
+working for a specific interest would have taken the purse for the
+letter and left the coin. The letter has not yet been offered for sale,
+which means either the cutter does not know what he is holding or has
+not finished deciding who to offer it to first.
 
 - **Terrain Types:** Village, Plains
 
@@ -2832,7 +3376,15 @@ A merchant had their purse lifted in the market crowd. The coin is a loss they c
 
 > _The ferry-queue has been moving normally all morning. The man ahead of the party in the queue just slid sideways into the water._
 
-A cutpurse working the ferry queue made a mistake in the approach and the mark responded badly. The cutpurse is now in the water and the mark is on the ferry, holding the recovered purse, and the ferryman is looking at the adventurers as if sorting this out is their problem. The cutpurse in the water is also in possession of two items lifted from people currently on the ferry who do not yet know they are missing something.
+Lenne, a cutter who works the Dren Crossing ferry queue, made a mistake
+in the approach and the mark responded badly. Lenne is in the water
+below the dock, conscious, still holding the recovered purse out of
+spite. The mark is on the ferry, loudly explaining what happened, and
+the ferryman is looking at the adventurers as if sorting this out is
+their problem. The mark's version of events is accurate but incomplete:
+Lenne is also in possession of a silver ring and a sealed letter lifted
+from two other passengers currently on the ferry who do not yet know
+anything is missing. The ferry is about to leave.
 
 - **Terrain Types:** Village, Quagmire, Plains
 
@@ -2858,7 +3410,15 @@ They stay moving, throw or shoot, and only close when the target is already off 
 
 > _Four Horse Warriors, riding parallel to the road from the ridge. They have been riding parallel for an hour._
 
-A Horse Warrior band is tracking someone in the party — or believes they are. They are not attacking yet because they are not certain the target is present. The parallel ride is reconnaissance-before-commitment. Someone in the party has something taken from a clan three seasons ago, or resembles someone who does, or is traveling to the settlement where that person was last seen. The band's elder will accept a parley before the commitment decision is made. After the decision it will be too late.
+Four riders have been paralleling the road from the ridge for the past
+hour at the same pace as the party, not closing. They are not attacking
+yet: the parallel ride is reconnaissance before commitment. The band's
+elder, a woman named Kerra, is watching for a specific face or a
+specific clan seal taken from a dead man on the Fenn road three seasons
+ago. Someone in the party has it, resembles the man who took it, or is
+traveling toward the settlement where that man was last seen. Kerra
+will accept a parley flag before she commits. She has been deciding for
+the past hour. After she decides, the riders will not be on the ridge.
 
 - **Terrain Types:** Plains, Hills
 
@@ -2866,7 +3426,16 @@ A Horse Warrior band is tracking someone in the party — or believes they are. 
 
 > _The pass is held. Three riders at the top, three at the bottom, and the road goes nowhere else for a day in either direction._
 
-A Horse Warrior band has sealed the pass as a toll road for three days, which is traditional in their clan's custom when moving a herd through. The toll is reasonable by their assessment. The merchant convoy waiting at the bottom disagrees, and one merchant has sent for a road-warden who will arrive with authorization from a lord the Horse Warriors do not recognize as having authority over this pass. The band's leader is aware of the incoming warden and is deciding whether to make an example or make a tactical withdrawal.
+A clan band has sealed the Fenn pass as a toll road for three days.
+By their custom this is the standard right when moving a herd through
+mountain passage. The toll they are asking is fair by their accounting.
+The merchant convoy bottled at the south approach disagrees, and
+Merchant Sors Veld dispatched a rider three hours ago for a road-warden
+with a written authorization from Lord Keln's office. Warden Teld will
+arrive by midmorning with a sealed writ that the clan's leader, Dur,
+does not recognize as having authority over this pass. Dur is deciding
+whether to stay, demonstrate the point, and deal with the political
+aftermath, or withdraw one day early and let Veld have his writ.
 
 - **Terrain Types:** Mountains, Hills, Plains
 
@@ -2892,7 +3461,16 @@ They know what their own mixtures do to flesh because they have tested them, in 
 
 > _The horse died in the night. The water is still in the trough._
 
-A Poisoner tested a trough at the waystation overnight, using a compound that kills large animals quickly and humans slowly. The dose is still in the water. The horse died at midnight. Anyone who has drunk from the trough since then has an accelerating problem. The Poisoner is half a day up the road, having learned what they needed about the compound's speed, and is now on their way to the person who commissioned the test — who is the same person the adventurers were hired to deliver a message to.
+Someone tested a compound in the waystation water trough overnight. It
+kills large animals in four hours and humans in less once the dose is
+sufficient, but the human symptoms begin slowly, which is what the
+tester was calibrating. The waystation horse died at midnight. The
+water looks clean and smells of nothing unusual. Anyone who has drunk
+from the trough since the previous evening has a problem that will not
+be obvious for another hour or two. The tester is half a day up the
+road, satisfied with the calibration results, and is now traveling to
+the client who commissioned the test — the same person the adventurers
+were hired to deliver a message to.
 
 - **Terrain Types:** Plains, Village
 
@@ -2900,7 +3478,16 @@ A Poisoner tested a trough at the waystation overnight, using a compound that ki
 
 > _The fog does not move the way weather moves. It sits in the road like a decision._
 
-A Poisoner has deployed a smoke compound in a road choke-point ahead. The smoke is not immediately lethal, but four minutes in it degrades concentration and coordination, and the Poisoner is in the treeline with a bow, waiting for targets that can no longer run straight. The smoke is targeted at a specific person who may or may not be in the party. The Poisoner is not interested in anyone else, but the smoke does not discriminate.
+A smoke compound has been deployed in the road choke-point at the
+Merford cut. Not weather, not morning mist: it sits too low, too still,
+too precisely at the narrows. Four minutes inside it degrades
+coordination and narrows the vision until straight lines are gone. The
+apothecary who mixed it, a man called Drav, is in the north tree-line
+with a bow, waiting for the smoke to finish the preparation work. The
+commission is for one specific person whose description Drav has in
+writing. He is not interested in anyone else in the party. The smoke
+does not know the difference, and Drav has decided that is an
+acceptable variable.
 
 - **Terrain Types:** Forest, Plains, Hills
 
@@ -2927,7 +3514,15 @@ They may be sell-sword, pilgrim, oath-breaker, or all three, and which one they 
 
 > _The figure sitting on the stone bridge does not move when the party approaches. It is not asleep._
 
-A Road Champion is waiting on the bridge for the employer who was supposed to arrive three days ago and has not. The contract has a clause: if the employer does not make contact by a specified date, the Champion is released from the obligation but also released from the non-interference clause covering the employer's rivals. The employer's rivals are the party's employer. The date is today.
+A figure sits on the stone bridge, not asleep, not moving as the party
+approaches. Sell-sword Keld Vorn has been waiting here for the employer
+who was supposed to make contact three days ago and has not. The
+contract has a release clause: if the employer fails to make contact by
+a specified date, Vorn is released from the commission but also
+released from the non-interference clause that covers the employer's
+rivals. The employer's rivals are the party's employer. The release
+date is today. Vorn has not gone anywhere. He is deciding whether to
+wait another hour or treat the clause as triggered.
 
 - **Terrain Types:** Plains, Hills
 
@@ -2935,7 +3530,16 @@ A Road Champion is waiting on the bridge for the employer who was supposed to ar
 
 > _The inn has one room. It is taken. The person who took it has not come out in two days._
 
-A Road Champion has locked themselves in the inn's single good room and will not come out. They are reading a contract they were given three weeks ago and have not been able to act on because every time they try, the situation changes. The contract is for the elimination of a specific person, and that person walked into the inn's common room this morning and sat down at the fire. The Road Champion is deciding whether the terms still apply, because the contract specifies the circumstances, and the circumstances now include witnesses.
+The inn has one room and it is taken. Sell-sword Maret Dol has been
+locked inside for two days, reading a contract she was given three
+weeks ago and has not been able to act on because every time she moves
+toward it, the situation shifts. The contract calls for the elimination
+of a specific person under specific circumstances. That person walked
+into the common room this morning and sat down at the fire. Dol is now
+determining whether the circumstances still hold, because the contract
+specifies them with some precision and the circumstances now include a
+room full of witnesses who are eating their breakfast and have no
+obligation to stay seated.
 
 - **Terrain Types:** Village, Plains
 
@@ -2962,7 +3566,16 @@ They are worth fearing in a gate, on a stair, or at the mouth of a bridge where 
 
 > _The gate is open. The Shield Knight standing in it is not blocking it; they are occupying it, which is different._
 
-A Shield Knight has been posted at the village gate on behalf of a landlord conducting an enforcement visit. The landlord's agent is inside reviewing account books that do not show the numbers the landlord was told. The Shield Knight is not stopping people from entering. They are stopping people from leaving before the accounting is finished. Two merchants with full carts and a tanner with hides are attempting to explain why their departures are routine and not suspicious.
+A Shield Knight has been posted at the village gate on behalf of a
+landlord conducting an enforcement visit. Guard-captain Brek stands in
+the gate opening — not blocking it, occupying it, which is different.
+The landlord's agent is inside reviewing account books that do not
+show the numbers the landlord was told. The knight is not stopping
+people from entering. He is stopping people from leaving before the
+accounting is finished. Two merchants with loaded carts and a tanner
+with a season's hides are each explaining why their departure is
+routine and not connected to the audit. Brek has heard this argument
+three times in the past hour and is now charging a patience fee.
 
 - **Terrain Types:** Village, Plains
 
@@ -2970,7 +3583,16 @@ A Shield Knight has been posted at the village gate on behalf of a landlord cond
 
 > _The staircase in the old tower is wide enough for one person. The Shield Knight at the bottom of it has been there since dawn._
 
-A Shield Knight has been hired to hold the ground floor of a contested tower while the client establishes occupancy above. The tower is disputed property: three parties have claims, none with current settlement. The Shield Knight is executing the contract without preference. One of the claimants is offering more than the original contract. The company's policy on mid-contract renegotiation is clear. The Shield Knight's personal view on the policy is not.
+The staircase in the old tower is wide enough for one person. Guard
+Veld has been at the base of it since dawn, executing a contract to
+hold the ground floor while the client establishes occupancy above.
+The tower is disputed property: three parties have claims, none with
+current legal settlement. One of the other claimants arrived an hour
+ago and is offering more than the original contract rate to stand
+aside. The company's policy on mid-contract renegotiation is clear and
+Veld knows the policy. What Veld has not yet communicated is his
+personal view of a policy written by men who have not held a staircase
+for eight hours.
 
 - **Terrain Types:** Ruins, Village, Hills
 
@@ -2998,7 +3620,16 @@ Most of them are less loyal than they sound and more frightened than they look. 
 
 > _Six guards at the gate. The gate is normally unguarded._
 
-Six Town Guards are posted at the gate that is normally open and unstaffed. The reason given is orders from the council. The guards are not sure what the order is about, because the sergeant explained it using a phrase that can be interpreted two ways and then left before questions were asked. Someone entering the town was just turned away, and they seem more relieved than upset about it, which is unusual.
+Six Town Guards are posted at the Brenn village gate that is normally
+open and unstaffed. The reason given to anyone who asks is orders from
+the council. Guard Seln is not sure what the order actually concerns,
+because the sergeant explained it using a phrase that can be read two
+ways and then left before questions were asked. A traveler who
+approached from the east road ten minutes ago was turned back without
+explanation, and the traveler seemed more relieved than upset about
+it. Seln has noticed this and is not sure what to make of it, but the
+something they are here to stop has clearly already been here and
+decided not to press the point.
 
 - **Terrain Types:** Village, Plains
 
@@ -3006,7 +3637,16 @@ Six Town Guards are posted at the gate that is normally open and unstaffed. The 
 
 > _The guard at the bridge post is awake, alert, and looking in the wrong direction._
 
-A Town Guard has been posted to watch for something specific coming from the south. He has not been told what, only that it is coming from the south and he should call out when he sees it. He is therefore watching south, which means he has not noticed the six armed travelers who came up from the east an hour ago and are camped under the bridge's north arch. The adventurers can see both the guard and the campers. The guard cannot see the campers. The campers have noticed the adventurers.
+Guard Olen is posted at the north arch of the Dren bridge, awake and
+alert and watching south, which is where he was told to watch. He has
+not noticed the six armed travelers who came up from the east an hour
+ago and are currently camped under the bridge's north arch below him.
+The adventurers can see both Olen and the campers. The campers have
+noticed the adventurers. Olen was told to watch south and call out
+when he sees something specific coming from that direction, and he has
+been conscientiously doing that. The campers under the arch are not his
+problem in any interpretation of his orders, and everyone in sight of
+this bridge can see that he intends to keep it that way.
 
 - **Terrain Types:** Village, Plains, Quagmire
 
@@ -3032,7 +3672,16 @@ The clever ones never stand in front of their own curses. They weaken the opposi
 
 > _The Wise-Hand at the crossroads is selling cures. Three people have died in the village this month and three more are sick. The Wise-Hand arrived eight days ago._
 
-The Wise-Hand is not causing the illness; she arrived after it started. But the timing is suspicious, the cures she sells have worked in two cases and failed in one, and the village elder is increasingly certain she knows what is actually causing the problem and is monetizing both the diagnosis and the treatment. The elder may be right. The Wise-Hand may also be the only person within three days' travel who can actually solve it.
+Wise-Hand Elra arrived at the Fenn crossroads eight days ago and has
+been selling cures since. Three people in the village have died this
+month from the same sickness and three more are declining. Two of
+Elra's cures have worked. One has not. Village elder Veld is
+increasingly certain she arrived knowing what was causing the sickness,
+has not shared the cause, and is monetizing the diagnosis alongside the
+treatment. Veld may be correct. Elra may also be the only person
+within three days' travel who can actually resolve it. Both of those
+things can be true at once and Veld has not yet found a way to act on
+one without needing the other.
 
 - **Terrain Types:** Village, Plains, Forest
 
@@ -3040,8 +3689,245 @@ The Wise-Hand is not causing the illness; she arrived after it started. But the 
 
 > _The warcry that stopped the ambush was not human. The person who made it is sitting quietly by the fire._
 
-The party's camp was approached by six armed men last night and the attack stopped before it reached them: something in the dark made a sound that caused three of the attackers to drop their weapons and run, and the other three to negotiate. The Wise-Hand who was sitting by the party's fire has not explained what she did. She has asked only if anyone needs healing. The attackers who ran have not come back, which is unusual — men who break in a panicked retreat usually recover within the hour.
+The party's camp was approached by six armed men last night and the
+attack stopped before it reached them: something in the dark made a
+sound that sent three attackers dropping their weapons and running, and
+caused the other three to negotiate. Wise-Hand Meld, who was sitting
+by the fire, has not explained what she did. She has asked whether
+anyone needs healing. The three who ran have not returned — men who
+break in a panic usually recover within the hour and come back
+different. They have not come back. Meld has been offered payment for
+what she did and has declined, which is either generosity or a
+statement that payment was not the point.
 
 - **Terrain Types:** Forest, Plains, Hills
 
 What they carry is what is left when they fall.
+
+---
+
+## Legends
+
+### Air Spirit
+
+> _The cliff shrines on the Aslene coast were built to keep the air spirits occupied — a shrine with incense needs tending, and a spirit tending a shrine has less time for shepherds. The priests who established the custom called it prayer. The shepherds who maintain it call it payment. Both are correct. The arrangement holds as long as the incense is fresh and the shrine-roof is sound. When the roof goes or the incense is left three days too long, the spirit notices and the shepherds learn how the arrangement looks from the other side._
+>
+> _Air spirits are not nature spirits of the road or the pasture. They are the wrathful kin of that gentler family, rooted to the headland and the high cliff and the gibbet-post where the wind turns without warning. The coastal clans call them the cliff-kin. The Raven Sisters call them the ones who watch where the mist meets the sky. Neither name is an invitation. An air spirit raised to anger does not pursue; it arrives. The difference is important because pursuit can be outrun and arrival cannot._
+>
+> _The old wives of the Aslene shepherd families keep a record of which shrines are current and which are overdue, and they share the record among their houses but not with outsiders. Travelers who ask about the cliff shrines and are refused an answer are being told something. The country between an unmaintained shrine and the next village is not a dangerous road. It is a dangerous sky, which is harder to map and harder to negotiate, and the spirit that waits in it does not accept apologies after the fact._
+
+### Ape-Man
+
+> _The hill-folk on the western slopes do not name the ape-men out loud, only point at the cave mouth and turn the face away. They are not kin, the old wives say, but they were once near enough to kin that the gods turned the world's back on them — and now they take tools because they remember what tools are for and not why. The smith who loses a hammer to the ape-men knows the hammer will not be used. It will be kept in a pile of other hammers in a cave nobody has mapped, each one with the marks of long fingers that understood grip and nothing else._
+>
+> _The progression is always the same in the valley settlements that have had Ape-Man trouble more than once: something is missing from the forge, then the camp, then the livestock pens. The ape is evaluating, not planning. That absence of planning is what makes the situation dangerous. There is no version of events where it decides the problem has gone far enough and stops. It is still in the evaluating phase when the first child disappears._
+>
+> _Upland hunters who know the country keep a watch on the cave mouths above the tree-line in late autumn, when the apes come down for the season's last stores. They do not engage them in the dark. In the dark the ape-man is faster, quieter, and at home in a way the hunter is not. The lamp the hunter carries is the difference between finding the ape and the ape finding the hunter first._
+
+### Bog Hag
+
+> _A bog hag is the marsh's apology for not having a midwife. The villages around Lake Varda know this and they act accordingly: when the labor is going badly and the village healer has done what the village healer can do, the old women know who to go looking for in the reed-beds at the marsh edge. They will not go past nightfall. They will not take a lamp. They call once in a voice the hag knows by custom, and either the hag comes or it does not, and the women come back either way._
+>
+> _Half the children in the Varda villages were caught in the hag's hands before they were caught in any human hands. The village pretends not to know which children — because to know which children would require knowing when the labor went wrong and the midwife went into the reeds, and that knowledge is nobody's business except the mother's. The children grow up knowing something of themselves that they cannot name, and the hag knows which of them it is._
+>
+> _The hag does not stay in the reed-beds for the pleasure of it. It stays because it is the marsh's continuation of a function the marsh has always had: the sorting of those who survive the crossing from those who do not. Childbirth is a threshold. The marsh keeps the threshold. The hag at the edge of the Varda villages is not an aberration in the marsh ecosystem. It is the oldest part of it._
+
+### Clay Golem
+
+> _A clay golem is what a temple builds when the temple has stopped trusting its own faithful. The dwarven word for it is the same word as the dwarven word for "promise broken at the altar." The dwarves do not build clay golems. They have a word for the concept because they watched other peoples build them and needed the word in order to express their opinion about the practice. The opinion has not changed in nine generations of observation._
+>
+> _The trouble with golems is not the making. The making is learnable craft: clay, kiln, inscription, the binding procedure that takes three days in the dark. The trouble is the command. A command given to a golem must be whole or the golem will interpret the gap. A golem told to guard the north door will guard the north door after the threshold has rotted through. A golem told to keep out unauthorized personnel will keep out the authorized ones when they lose their token. A golem told to protect the temple's contents will protect the contents of the room the temple has moved out of and abandoned. The clay does not recognize abandonment. The soul inside, if there is one, knows — but it cannot act on anything the command does not include._
+>
+> _The temples that use golems do not share their command sequences. A golem found standing in a sealed room is most dangerous to the person who opens the room without knowing what was commanded in it. The masons who work on old temple renovation have a saying: find the golem's door before you put your hand on any other door. The ones who are still practicing masons followed the saying._
+
+### Corpse Ogre
+
+> _A man named Ull paid a battlefield necromancer to raise his brother's body for one more season's labor on the family wall. The price was fair. The necromancer was competent. The brother's body rose and worked the wall for forty days and then something changed in it — something in the binding drifted — and when it walked off the field on the forty-first morning it was not headed toward the wall and it was not working within the terms of anyone's contract. Ull is in the wall now. The corpse ogre was last seen three days' walk south._
+>
+> _Corpse ogres are not the intended result of battlefield necromancy. They are the result of battlefield necromancy plus time plus a body that was bigger and stronger than the binding was designed for. The binding holds longest in small bodies. Ogre bodies have their own momentum. When the ogre's original will reasserts itself — and it always does, in pieces, over weeks — what comes back is not the ogre's old self but something between the ogre's appetite and the necromancer's instruction set. This combination has no mercy and no direction and very little to lose._
+>
+> _The villages that have had a corpse ogre pass through them tend to have a short conversation after about whose idea the original necromancy was and what they are going to do about the family that commissioned it. The conversations are short because the corpse ogre usually settles the question before the village has time to finish the meeting._
+
+### Crawling Claw
+
+> _The grave-warden in Margelda keeps a jar of severed fingers in lime by his door, and every village child knows why. He cuts them off the dead before he closes the cairn. He says he has lived to be old by knowing what a hand will do once a sorcerer has called it by name. The Raven Sisters who pass through Margelda think the practice is excessive. The Raven Sisters have not been in Margelda in thirty years. The warden has been in Margelda all thirty of those years._
+>
+> _A crawling claw is made from a severed hand that has been given a specific instruction and cannot carry it out. The instruction is always about a door: open it, close it, take something through it, keep something from passing. The hand is precise because the hand has always been precise. What it lacks is judgment about context — the instruction was given in one situation and the claw will pursue it into every other situation it encounters without adapting to the difference._
+>
+> _The warden's practice is not excessive. A hand walking under its own will through a village at night is visible and catchable. A hand walking through a village at night that has been given a specific name to find, or a specific lock to work, is neither of those things. It knows where it is going. It knows what it is looking for. The jar of lime by the warden's door is the record of forty years of decisions made before the hand ever had the chance to decide anything._
+
+### Death Magister
+
+> _The Raven Sisters do not name a death magister. They name the village that sheltered one and they do not pass through that village again. This is not punishment — the Sisters are not in the punishment business in the way people assume. It is precaution. A sister who has eaten the bread of a village where a magister was once housed has taken into herself something the magister left in the bread. The bread is the first thing a magister gives to the village: generously, freely, repeatedly, until the gift becomes custom and the custom becomes a kind of debt. A sister who carries that debt cannot close the magister._
+>
+> _The death magister operates at the seam between the village's public faith and the things the village does in the long months when the harvest was bad and the winter was long and the animals that got through were not enough. Every village that sheltered a magister sheltered one because there was a problem the legitimate priesthood could not solve. The magister could solve it, and the price was bread, and bread seemed reasonable at the time._
+>
+> _The Sisters keep a map of villages that have been named. It is not written down and not shared outside the order. The sisters who know it walk around those villages at a distance that unsettles the people inside, who can see them passing at the tree-line and can see where they do not go. The villages that are walked around understand the map is about them. They do not send letters of complaint. The Sisters would receive the letters at a distance._
+
+### Earth Spirit
+
+> _The dwarves of Stoneberg say the earth spirits are the stone's own grief. The stone has been cut and sold and shaped for an age; now and again the grief catches up. This is not an apology from the dwarves — the dwarves do not apologize for mining. It is a description. An earth spirit is what the mountain makes when enough of it has been taken away fast enough that the remainder notices the absence. The dwarves walk the long way around the places where earth spirits rise because they understand the mechanism, and because they would make the same choice as the stone would._
+>
+> _The spirit's grievance is specific and physical. It does not rise in a flourishing quarry or a well-managed mine. It rises in a quarry that has been stripped too fast, in a grave that was opened for gain and not respect, in a cairn that was broken for its stones after the body inside stopped mattering to anyone still living. The trigger is the gap between what the earth held and what was taken from it, measured in the stone's own time, which is longer than anyone who uses the stone tends to calculate._
+>
+> _The cairn-fragments from a settled earth spirit are among the most reliable building materials in the country, because the settling removes the grief. Builders who know this purchase the fragments and do not advertise the source. The mortared walls of the richest families in three Stoneberg settlements carry the compressed remains of every earth spirit the dwarven deep-guards have put down in the last century. The walls are excellent._
+
+### Fear-Drinker
+
+> _The Raven Sisters say the fear-drinkers are the cousins the vampyr houses do not invite to the funeral. Both drink from the living. The vampyr kills fast because it has some shame left. The fear-drinker lets the victim live three nights to keep the cup full. The vampyr has, over the centuries, accreted a culture, a lineage, and a code that manages its appetite into something that can coexist with a village. The fear-drinker has accreted nothing. It has only the preference._
+>
+> _The tell is the victim's expression after the first night. Not the wounds — the wounds are small, deliberate, placed where the victim will find them alone in the morning. The expression is the tell. A victim of a vampyr looks hollowed. A victim of a fear-drinker looks like they spent the night being watched from every corner of the room. By the second night the victim does not sleep at all. By the third night the victim is so thoroughly used up that the fear-drinker has to move on, because the fear that remains is not the sharp productive kind but the flat chronic kind, and the flat chronic kind does not satisfy._
+>
+> _The villages that have had fear-drinker problems tend to have them again. A fear-drinker that is driven off returns in a different season, in a different body, wearing different clothes, and the village is unlikely to recognize the problem until the second victim shows the same expression the first one had. The old women who tend the sick tend to notice first. They are rarely asked what they noticed until it is too late to use the information._
+
+### Giant Scorpion
+
+> _The masons of the Hollow Quarry kept a giant scorpion in the deep cut for a generation. They fed it the workers who stole, and their work cost less stone than any other quarry in the Marges. The arrangement was public knowledge. The quarry-masters were open about it: a man hired at the Hollow Quarry signed a paper that said three things, and the third thing was that theft was settled in the deep cut rather than at the magistrate's court. No court ever challenged the paper. The stone from that quarry built the Raven Sisters' west chapel in Margelda, and the Sisters have never commented on the source._
+>
+> _When the masons died of plague the scorpion ate the priest who came to bless the bodies. Nobody went back in after the priest. The quarry equipment rusted where it stood. The deep cut is still there, and the scorpion's descendants are still down in it, smaller than the original but sufficient for their purposes. The stone near the surface is accessible by anyone with a long rope, steady nerves, and an afternoon to get in and out before dark. The stone is the cheapest in the country by a wide margin. There is a reason for the margin._
+>
+> _The local stonemason's guild has a standard clause in its contracts that specifies the quarry of origin for any stone purchased. The Hollow Quarry is the only quarry in the region not on the approved list. The guild has never explained the omission. The explanation is available to anyone who asks why the stone is cheap._
+
+### Glass Ooze
+
+> _The miners on the Halberg shaft stopped carrying their dead up the long way after the third season underground. The ooze was there, in the east corridor, slow-moving and clear as old ice, and it kept whatever it held. They said the ooze kept the cousins better than any priest could have managed, which was true in one sense: no priest could hold a body for nine months in the cold without change. The ooze could. The miners told themselves the cousins were at peace in it._
+>
+> _They were less sure by the second year, after a cousin looked out of the corridor air at the new shift and the new shift reported the incident to the shift-boss who did not report it to anyone else. The corridor air is not the ooze, but the ooze and the corridor share the same cold, and a man dead long enough in the ooze seems to find his way back into the ambient dark of the space around it. The new shift was told not to wave. Most of them did not wave. The ones who waved did not go back to work after the cousin looked at them._
+>
+> _The Halberg shaft is now sealed and has been for thirty years. The seal is competent. The Glass Ooze is still in the east corridor, holding what it was given, and the cousins are still there in the air around it. The sealing company noted the structural integrity of the corridor and recommended against any reopening. The recommendation used technical language. The reason behind the recommendation was not technical._
+
+### Grave Bat
+
+> _The grave bats are the cousins the vampyr houses do not invite to the funeral and the wolfshadow packs do not invite to the hunt. They roost where the dead are stacked badly and they feed on the sick, the screaming, and the sleeping. The plague-criers of the Marges use them as their calendar: a grave bat colony over a village means the dying there has started, and the crier rings the bell at the colony's edge, not the village's edge, because the village is already inside the news and the crier is still outside it._
+>
+> _The bats are not the cause of what they follow. This point is understood intellectually by everyone and emotionally by nobody. A village that finds grave bats in its bell-tower has been dying for long enough that the bats found the smell, which is not the same as the bats causing the dying. The distinction does not comfort the people in the tower. The priest who tries to explain the distinction does not tend to be the same priest twice._
+>
+> _There is a secondary function the plague-criers use them for: a grove of grave bats that rises and relocates all in the same night means the dead in that location are no longer staying dead. The bats leave before the walkers start walking — a day, sometimes two. A crier who camps near a known bat-colony can have a day's lead on whatever is going wrong in the next village, which in a bad season is the difference between an alert settlement and a sealed one._
+
+### Hell Hound
+
+> _The Iron Guard hunts down a hell hound the way they hunt a heretic. Both leave a track only the wrong kind of priest can read, and the ground after a hell hound has been there will not take seed for three years and one feast day. The Guard's official position is that hell hounds are foreign matter from the demonic world and that their presence indicates unsanctioned sorcery in the vicinity. The Guard is not wrong. Where a hell hound is, a sorcerer has been, and the sorcerer has been there long enough to attract the wrong company._
+>
+> _Road-scouts and bounty hunters who work demon-adjacent territory keep a record of hell hound scent-traces the way cartographers keep a record of roads: a trail is directional, a trail has a start and an end, and the end of a hell hound's trail leads to whoever it is traveling with. The scent lasts longer in cold weather. A good nose can follow a two-day-old trail if the night was cold enough and the morning was not too wet. A scout who knows what they are doing can read the trail's age, the hound's size, and whether it was moving to or from its master. What the trail cannot tell them is what the master wants._
+>
+> _Hell hounds do not leave a location after the master is dead. They enter a state the people who study these things call instructionless: not hostile, not friendly, not anything except waiting for a command from someone who is not going to give it. An instructionless hell hound in a burned sorcerer's property is the most dangerous kind, because it will eventually decide that the lack of instruction is the instruction, and act accordingly._
+
+### Iron Golem
+
+> _The iron golems are the dwarves' apology to the elves for the cataclysm of the long forge. The dwarves do not call them an apology. The elves do not call them an apology either. The golems stand in the doorways of forges that neither dwarves nor elves have opened in three centuries. The doorways stay shut. This is the apology: not words but seals, not ceremony but containment, not forgiveness between the parties but an agreement that what is inside will not come out._
+>
+> _An iron golem is not made. It is grown: core iron, secondary iron, the furnace-heart built over eighteen months by a smith who must speak to the growing mass for every day of the process. What the smith says is not the command. The command is added at the end, in a different language, with different hands. The saying is the relationship; the command is the task. A golem whose smith has died before the command was fully spoken stands at attention with a relationship and no task, which is stranger than having neither._
+>
+> _The forge-doors sealed with iron golems are the oldest sealed spaces in the Forbidden Lands. Dwarven tradition says each one contains something from the long forge that could not be disposed of and was therefore secured. The tradition does not say what is inside. The golems do not need to know what they are guarding in order to guard it. They need only the door and the command to hold the door, and both of those have been in place long enough that the metal has settled permanently into the holding position._
+
+### Little Gargoyle
+
+> _The little gargoyles were carved by the cathedral-stonemen of Lochrann to keep the rain off the saints. The masons never agreed on what woke them. The older masters said it was the saints' patience running out: you sit on a ledge for two hundred years in all weather watching pilgrims argue about doctrine below and eventually you have opinions. The younger masons said it was the rain itself — the rain had listened to the masons speaking to their wives and apprentices during the carving, and the carved mouths remembered the tone._
+>
+> _The woken gargoyles did not leave Lochrann. They stayed on the building and stayed on the ledges, because they were made to be there and the making is hard to undo. What changed is that they became selective about what they spit the rain onto and what they kept dry. The pilgrims who were serious about their doctrine arrived wet. The pilgrims who came for the bread and the spectacle arrived dry. After forty years of this pattern the Lochrann priesthood and the gargoyles had reached an understanding about the function of the building that neither side had put into words._
+>
+> _Little gargoyles found outside cathedral contexts are always woken. A carved stone face in an alley or on a market lintel that has been there long enough to develop preferences has developed them. The street below it reflects the preferences over time: the vendors it watches are the ones still there, and the vendors it does not watch have moved on. This is not wisdom on the gargoyle's part. It is attention, and attention is what the carved stone was given the patience for._
+
+### Night Bride
+
+> _The night brides walk at the seam between bargain and want. The grandmothers of the Aslene clans say the night bride does not come uninvited. She comes when a household has stopped saying out loud what it does at night — when the thing the household wants is no longer the thing the household names in daylight. She takes what the household has stopped naming. The grandmothers say this and then they tell their granddaughters to leave the front door unlatched anyway, because the night bride who finds an open door does less damage than the night bride who has to make one._
+>
+> _What she takes is proportional to the gap between what the household wants and what it will admit to wanting. A household with a small gap loses something small: a kept letter, a remembered name, a night's sleep. A household with a large gap loses something structural. The bride does not take frivolously. She takes accurately, which is worse, because when the household discovers what is missing, it knows exactly what the taking meant._
+>
+> _The Aslene grandmothers maintain the custom of leaving the door unlatched for a reason that goes beyond hospitality: a bride who is not resisted learns less. The unlocked door says the household has no secrets it is guarding, which is never entirely true but is true enough that the bride finds less to take than she would find in a locked house. This is considered wisdom in the clan. Visitors from Alderlander families who lock everything consider it something else._
+
+### Night-Pup
+
+> _The night-pups are a pack-mother's first try. They come out undersized, shadow-marked, and short of the full wolfshadow they will eventually become — if they survive that long, and most do not. The hill folk in the Marges know them by the tracks: a print too small for a wolf, too dark to be left by anything that eats ordinary meat. They leave them in late winter when the pack-mother is beginning her long rest and the pups are first ranging alone. Finding pup-tracks in the snow means the pack is nearby and the pack has recently delivered._
+>
+> _The cold-meat offering at the cave-mouth is not hospitality. It is management. A pack that loses its litter early hunts replacement meat near the nearest warmth, and the nearest warmth in the upper Marges in late winter is the ice-well path that the children walk in the morning. The offering is given before first light. If the offering is gone by the time the children go to the well, the path is safe for the day. If the offering is still there, the children use the long way, and an adult with a lamp goes ahead of them._
+>
+> _A night-pup that reaches its second year is no longer a night-pup. The shadow that was partial hardens into something deliberate, the size increases, and what was a manageable nuisance becomes a wolfshadow problem, which is a different order of conversation. The hill folk who maintain the offering practice are maintaining it so that conversation never has to happen._
+
+### Pale Ape
+
+> _The Halberg miners know the Pale Apes by the smell before they know them by sight: something between wet stone and old meat, with a sweetness to it that is wrong in the way that cave-things with too many teeth are wrong. They come down from the high cracks in the limestone when the mine opens new passages close to their territory, and they take lamps first. The salt put out for them is the miners' way of saying we know you are here and we are not interested in conflict, and the apes' way of demonstrating acceptance is to take the salt and not take the lamps while the salt is fresh._
+>
+> _Pale Apes are what the old scholars call cave-clans gone feral, which means they are something that was once organized and is no longer — something that understood community and no longer practices it. They keep the shape of that old organization in their behavior. The lamp-taking is territorial claim, not consumption; the salt-acceptance is treaty-response. But the understanding behind the behavior has been gone for long enough that the behavior is now instinct rather than decision. They act as if they remember what they were doing without remembering why._
+>
+> _The mine-masters at Halberg maintain the salt practice and do not advertise it outside the mine, because the practice implies a level of proximity to the Pale Apes that would make outside labor hard to hire. The miners who work the deep levels know to keep a lamp burning and a hand free, and they know not to open new passages on the solstice, when the apes range furthest and the cold in the high cracks pushes them down._
+
+### Rock-Hanger
+
+> _The smugglers above the Halberg crossing pay the rock-hanger in goat and silver. The Iron Guard pays the smugglers in gallows. The rock-hanger pays neither and waits at the arch for whoever comes next. This is the arrangement. It has been the arrangement for longer than the Iron Guard has maintained a post at Halberg, and it will continue to be the arrangement after the post is reduced, as the post has been reduced twice in the last generation and will be reduced again._
+>
+> _The rock-hanger's territory is the arch. Any arch will do — a natural stone formation, a bridge span, a collapsed tunnel-mouth — as long as the space above the passageway is sufficient to hold the hanger's mass when it is fully extended. It hangs from the ceiling by its tendrils, inverted, with the legs folded against the body, and the posture is so exactly like the architecture of an old archway that travelers who do not have reason to look up carefully will not notice the difference until the difference closes around their shoulders._
+>
+> _The smugglers who service the Halberg arch have been doing so long enough that they know its habits: the hanger feeds when it has not been paid in five days, and it feeds preferentially on isolated travelers rather than groups, and it will not take from anyone carrying the smell of fresh goat. These are not facts the smugglers share with the Iron Guard. They share them with other smugglers, at cost, because a route with a living rock-hanger on it is safer than a route without one, and a route without one is any road the Guard can patrol without paying a toll first._
+
+### Snake Queen
+
+> _The serpent-cult of Wyrm hides snake queens in spring caves, shrine courts, and old bath-houses where the tile has gone to ruin. The cult says the queens are kin. The Iron Guard says the queens are abomination. The villages downstream from the spring caves say the water has never been cleaner, and they pay the cult's tithe and ask no other question. The water quality argument has been raised twice in front of circuit judges and dismissed both times for insufficient evidence. The dismissals are posted in the Margelda courthouse. The downstream villages have never read them._
+>
+> _A snake queen is large and patient and smells of clean water and old stone. The queens that the cult maintains are not wild — they are placed, tended, and named, and they have been in their locations long enough that the spring has adjusted to them. The serpent-cult keeps the precise relationship between a queen and her spring confidential, because the relationship is the cult's argument for why the queens should be permitted to remain, and the argument is only persuasive to people who need the water the spring provides._
+>
+> _The queens that are not maintained by the cult are the dangerous ones. A wild snake queen in a ruined bath-house or an abandoned spring-house has been waiting for the cult to return to her, and the wait has made her worse. She keeps the space clean and the water clear because that is what she does, not because anyone has asked her to. Travelers who find clean water in an abandoned building and a scale on the threshold should leave the water where it is and thank the road._
+
+### Star-Watcher
+
+> _The Star-Watchers are not kin, not demons, and not anything the Raven Sisters will name without being asked twice. The Sisters send their apprentices to study them rather than going themselves, which tells the apprentices something they remember for the rest of their training. A thing the senior Sisters study at one remove is either very dangerous or very old or both, and the apprentices who return from a Star-Watcher observation come back willing to study anything else._
+>
+> _They haunt high ruins: the remains of old observatories, collapsed towers that were built to watch a sky that no longer has the same things in it, broken platforms at passes where the old scholarship about the heavens was practiced before the Blood Mist ended that practice for ten generations. The Star-Watchers came back to these places when the Mist cleared, as if they had been waiting for the sky to reopen. What exactly they watch is not agreed upon. The eyes on their flanks watch in all directions. The central eye watches something that is not the horizon and not the ground._
+>
+> _The Raven Sisters' official position is that Star-Watchers are pre-Mist entities whose relationship to the current world is unstable and whose behavior cannot be reliably predicted from observation of fewer than three specimens over fewer than two years. This is correct. It is also the Sisters' way of saying that the things make their own rules and that anyone who tries to engage with them on human terms should expect the engagement to be brief._
+
+### Thought-Kraken
+
+> _The thought-krakens were old when the elves were young. The Raven Sisters say this without joy, because it means the thought-krakens have been here through the Mythic Past, through the Shift, through the Alder Wars, through the Blood Mist, and are still here now, occupying their places in the deep ruins and the high caverns and the sunken towers where the old scholarship about mind and matter was practiced. They have outlasted everything that tried to study them. They will outlast whatever tries to study them next._
+>
+> _A thought-kraken answers any question once. The cost is that the questioner becomes the answer's keeper for the rest of their life. This means the answer lives in the keeper, not in the kraken, and the keeper is responsible for ensuring the answer goes on living. A keeper who dies with the answer unfulfilled creates a vacancy the kraken will fill from the next questioner. This is why the Raven Sisters send their apprentices rather than going themselves: an apprentice's question is usually simpler, and a simple question creates a simpler keeper and a simpler responsibility._
+>
+> _The Sisters who have been keepers for a long time tend to specialize. Their magic takes on the character of the question they were sent to ask, and the question shapes their practice the way a river shapes a bank: slowly, completely, and in a direction that started before the shaping was noticed. The senior Sisters know which of their order carries a thought-kraken's answer. They do not ask what the question was. They ask, instead, what the keeper has become._
+
+### Tunnel Maw
+
+> _The quarry boys at Storfall hung a salt-bell on a rope above the loading yard. They said the maw could not stand the sound of salt. Twice a season the bell goes silent before the first scream comes up the road. The boys never replace the rope the same day: they wait until they have seen what comes back to the loading yard from the direction of the arch, and they count the ones who came back, and they replace the rope and ring it once for the ones who did not. This has been the practice for a generation. The loading yard is still operational. The arch is still under the cliff._
+>
+> _Tunnel maws do not pursue. They hold. A maw is not hunting when it hangs from a ceiling; it is occupying the passage between two places, the way a locked gate occupies the passage between two places. Travelers who know this know that the maw is always in the same arch, the same tunnel-mouth, the same collapsed bridge span, and that the way to avoid it is to avoid that passage. This is inconvenient when the passage is the only one for a day's walk in either direction, which in the Marges it sometimes is._
+>
+> _The merchants who use the Storfall arch regularly pay in information: they tell the quarry boys when a new merchant is coming through who does not know the bell practice. The boys ring the bell twice and wait. If the merchant comes back from the arch they sell him salt and tell him what the bell means. If the merchant does not come back from the arch they ring the bell once more and add the merchant's goods to the salvage account._
+
+### Tunneler
+
+> _The Stoneborn halls beneath Stoneberg have a wall the dwarves do not name. It runs for three hundred paces at the lowest occupied level, built of salvaged field-stone and mortar that is eight generations old, and it was built to cover what was there before the wall was there. The dwarves who built it did not leave a record of what was on the other side. The dwarves who maintain it do not open the maintenance hatch at the wall's base more than twice a year, and they do not open it alone. What the maintenance hatch shows when it is opened is a darkness below the lowest occupied level that is warm and smells of turned earth._
+>
+> _Tunnelers live beneath fields, roads, old mine cuts, and riverbanks — anywhere the soil is deep and the surface has enough activity to make the vibration pattern interesting. They do not burrow toward noise; they burrow toward the pattern that says there is something at the surface worth investigating. A field with a regular plow-pattern is interesting. A road with regular cart-traffic is interesting. A courtyard with two dozen soldiers drilling is, to a tunneler, an event._
+>
+> _The toll-keepers on the Stoneberg road have a standard contract clause requiring the road's surface to be walked and tapped at quarter-mile intervals during spring thaw, when the tunnelers rise closest to the surface. The tap-boys who do this walk are paid a bonus for every soft spot they find and a larger bonus for every cart-wheel that does not disappear. The bonus for the wheel has been paid twice in the last five years. Both times the tap-boy was not on the section that went soft._
+
+### Walking Dead
+
+> _The Aslene riders will not cross a field where a walking dead still stands. They say the field has not finished asking what was taken from it and is gathering the answer. The riders go around and pay the long-track tax in silence, which is a tax on the road that does not go through the field, levied by the village that owns the long road and spent on the village's own silence about what is in the field. This is economically reasonable. The alternative is cheaper in coin and more expensive in other ways._
+>
+> _A walking dead is not aggressive in the way that animated undead can be. It is persistent. It is looking for something it cannot find, or completing something it cannot finish, and the looking and the completing require proximity to wherever the incomplete thing lives. This is usually the place it died: the field, the house, the road, the doorstep. It comes back to the incomplete thing because the incomplete thing is the only thing it can still engage with. Everything else in the world has moved on and the walker has not._
+>
+> _The Rust Brothers do not purge walking dead as a matter of doctrine. They assess. A walker assessed to be a grandmother who does not know she is dead is handled differently from a walker assessed to be a man who died with a specific name in his mouth and is looking for the person attached to it. Both kinds need management. The grandmother kind needs a conversation she cannot have and a rest she does not know she needs. The man kind needs whatever he was looking for to be resolved, or removed from the area, or destroyed._
+
+### Warlock of the Black Tower
+
+> _A warlock of the Black Tower walked into Margelda one autumn, bought a hen from the priest's wife, paid in old coin, and walked out again. The hen laid black eggs for a week and then stopped laying for the rest of her life. The priest's wife still calls that the cheap year. The coin was Alder War silver, which circulates enough in the Marges that the wife would not have known what she was handling until the hen started laying. The hen laid black eggs because something in the old coin transferred to the hen when the warlock paid, and something in the warlock was present in the coin, and the hen could not pass either through her without showing it._
+>
+> _The warlocks of the Black Tower are sorcerers who have been practicing long enough that the practice has become structural. Magic is not a tool they use; it is the medium they inhabit. The tower they are associated with is not a building — or not necessarily a building — but a state of relationship to a body of sorcery that has been tended for long enough that it tends back. A warlock without a tower is a very dangerous sorcerer. A warlock with a tower is a location._
+>
+> _The priest whose wife sold the hen spent three winters trying to have the sale reversed through the Raven Sisters' dispute process. The Sisters' position was that the sale was complete, the coin was legal tender, and the hen's condition was a hen problem rather than a contract problem. The priest has not sold the Sisters any more bread._
+
+### Wereboar
+
+> _The wereboars are old farm gods that were never paid off. The villages around the Marges still leave salt and apples at certain stones in certain months, and they will not say which stones to a stranger. This is not the same thing as pagan worship, and the villages will tell you so clearly if you ask: they are not honoring the wereboar, they are managing a relationship that predates the village, predates the road through it, and predates anyone's ability to renegotiate the terms. The gods that sat in the stones before the gods the temple knows about are still in the stones. The stones have not been moved._
+>
+> _The change takes hold when appetite wins the argument over all other considerations. Over the winter stores. Over the livestock pens. Over the children who are in the pen and not in the stores. A wereboar that has not yet turned knows it is turning because the argument has been going on longer each time and is taking more to resolve. Some chain themselves before the worst nights. The ones who have already started chaining themselves know the moon is only part of the problem. The smell of meat in slaughter season and the smell of stored grain before winter are the other parts._
+>
+> _The villages that gave mercy to the last one do not tend to advertise it. The villages that did not tend to have one empty house in the family line, which over two or three generations becomes one empty house in the family row, which eventually becomes the edge of a smaller village than there used to be. Both approaches produce results. The results are different._
+
+### Werewolf
+
+> _The Howling Path tells the children of the Aslene clans that the first werewolf was a man who could not stop running after his own shadow under a moon that would not set. The story does not say whether he caught it. It says he was still running at sunrise and that his cousins see the print of his foot in the morning frost in certain valleys. The cousins do not follow the print. They have tried, in past generations, to follow the print, and the valleys where the print is freshest are the valleys without the cousins who tried to follow it._
+>
+> _The change is not a curse in the sense the temples use the word. It is a state of alignment — something in the person and something in the moon and something in the running have all reached the same point at the same time, and once that alignment has occurred once it recurs. Silver disrupts the alignment because silver is the metal of the moon's other face, the dark one, the one that pulls instead of showing. A silver weapon cuts across the alignment rather than the body. This is why a wound from an ordinary weapon heals on a werewolf and a wound from silver does not: the ordinary weapon touches the body, and the silver touches the condition._
+>
+> _A werewolf that still comes back to the same house is not free of its human life. It knows the house. It knows the door. It knows which window the children sleep near. Whether that knowing saves the household or damns it depends on whether the wolf's last connection to its human life is love or appetite, and that distinction is not visible from outside until after the distinction has been made._

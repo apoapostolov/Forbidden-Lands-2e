@@ -38,6 +38,12 @@ Ailanders — they want information and will engage
 travelers to get it. Easily identified by their garish
 southern clothes, completely unsuited to the climate.
 
+The running joke among Ailander natives: an Alderlander
+never dresses for the weather, only for the king. They
+arrive in fabrics from Alderlander merchants — bright,
+thin, and visibly unsuited to cold. The joke is made at
+their expense until a severe winter kills them.
+
 ### The South-farers
 
 People who generations ago traveled south from the
@@ -57,6 +63,16 @@ by Blaudewedd through the Stillmist. Led by the druid
 Marmena. Their mission is to locate and protect the
 remaining four Seals. They don't share this mission
 with outsiders.
+
+Marmena is a tall elf with flame-colored hair. She wears blue clothes
+embroidered with silver stars and carries a staff and an elven scimitar.
+She has made camp near the base of the Morma Glacier, close to the
+river Ised, and watches treasure hunters departing Northfall to judge
+who poses a risk to the Seals.
+
+She is contemptuous of most other kin. Earning her trust takes time
+and demonstrated restraint. She is openly hostile to anyone who has
+already broken a Seal.
 
 The Redrunners hide in ruins outside the settlements,
 watching treasure hunters who may be heading for the
@@ -187,6 +203,16 @@ even from other orcs. Live high in the Barren Hills
 and across the Morma Glacier. Hostile to settlers.
 Led by Hoyra, the most powerful shaman of any clan.
 
+Hoyra wears hooded skin clothes and a nanuik fur cloak. She carries
+the black staff Frenne — a magical artifact from before the curse —
+and wears bone amulets and protective cords. Her gaze is direct and
+steady. She radiates authority without effort.
+
+She has done what no orc leader managed before her: united all three
+clans to guard against treasure hunters who risk breaking the Seals.
+She mistrusts all outsiders and regards newcomers as ignorant children
+handling objects they cannot understand.
+
 **Cultural note:** Orc druids, especially those of
 the Frostwind Clan, hold the greatest knowledge of
 old legends in the Bitter Reach. They will share
@@ -209,6 +235,12 @@ and Dire Wolves as extended family. They mostly keep
 to themselves. Perpetual feud with the orcs. Humans
 regard them as bandits or beasts, so wolfkin rarely
 enter Northfall — and never alone.
+
+Their trade contacts are limited to a handful of
+peddlers who make the effort to seek out Wolvenhome.
+Wolfkin who do enter human settlements tend to move
+quickly, say little, and leave before trouble finds
+them — because it usually does.
 
 ## Halflings
 
@@ -234,3 +266,98 @@ Whiners, saurians, and ogres — known in Ravenland —
 have not been seen in the Bitter Reach settlements.
 Whether they are absent from this far north or have
 simply avoided detection is not known.
+
+---
+
+## Key Players
+
+The following individuals shape events across the Bitter
+Reach. Most are known by reputation throughout the region.
+
+### Ingmarg
+
+The dominant merchant of the Silver Coast. Came to the
+Bitter Reach as a peddler and built a small empire
+through decades of shrewd dealing. His stronghold in
+Northfall is the most prosperous building in the
+settlement.
+
+Large and heavy-set, always in expensive furs, rings of
+amber, whale bone, silver, and gold on every finger.
+Jovial in manner, ruthless in dealings. He is the only
+buyer in the Bitter Reach who pays real coin for what
+comes out of the elven ruins — never at a fair price.
+
+He tolerates the Alderlander army's arrival with visible
+reluctance. He is privately looking for a way to reassert
+control over Bitter Reach trade. See `places.md` for his
+stronghold in Northfall.
+
+### Baraggor
+
+Commander of the Alderlander expeditionary force. Arrived
+with four warships — Wyrm's Fist, Wyrm's Blade, Wyrm's
+Shield, and Wyrm's Hope — carrying over a thousand
+soldiers. Her standing orders are to claim the Bitter
+Reach for the king of Alderland.
+
+A grim soldier with a deep scar from forehead to jaw and
+a slight limp from an old wound. Always armored, always
+ready. Wears a purple mantle with a blood-red plume when
+she disembarks. Spends nights aboard Wyrm's Fist; visits
+Northfall to negotiate with local power brokers.
+
+Her soldiers operate aggressively. She expects results and
+does not wait. See `places.md` for Wyrm's Fist.
+
+### Alabastor
+
+General of the Misgrown army that broke through the
+Winding Ways from the south. Commands from a stone tower
+in the war camp in the foothills of the Southern Range.
+
+Thin and ghoul-shaped, with deep red glowing eyes,
+festering wounds, and bloody footprints wherever he walks.
+Three artifacts are fused permanently to his body: an
+executioner's hood sewn from an assassin's skin, armor of
+bones that deflects arrows, and a banner that speaks with
+the voices of the dead.
+
+He does not parley. His scouts range widely into the Bitter
+Reach. His objective is to conquer and enslave all kin he
+encounters.
+
+### Bele
+
+King of the Ice Giants. First created by Blaudewedd. More
+than five meters tall, shaped from ice and stone, arms
+like logs, hands like boulders. Eyes shine white. Voice a
+deep rumble. Speaks slowly — behind the slowness sits a
+sharp mind and three thousand years of knowledge of the
+Bitter Reach.
+
+Lives at the Palace of the Ice Giants, sitting on a throne
+of crystal. He has not left in years. His advisors Bor and
+Rym counsel him in opposite directions about the Ice
+Giants' continued purpose. The demon Wurda works to
+destabilize his court.
+
+Those who seek audience with the Ice Giants eventually deal
+with Bele. See `places.md` for the Palace of the Ice Giants.
+
+### Wurda
+
+A demon who operates under three guises: an old human
+woman, a black warg with enormous jaws, and the shape
+of the last creature it killed. Few in the Bitter Reach know that
+Wurda is a demon. Most encounter her as the old woman —
+an itinerant figure carrying scrolls of ancient text,
+offering legends, rumors, and directions to elven ruins.
+
+She frequents Northfall, the Field of Swords, and
+occasionally the Palace of the Ice Giants. The information
+she provides is always accurate. Treasure hunters trust
+her precisely because she has never given bad directions.
+
+What she never mentions: every ruin she points toward
+contains a Seal.

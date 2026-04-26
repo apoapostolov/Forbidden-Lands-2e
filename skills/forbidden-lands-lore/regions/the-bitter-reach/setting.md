@@ -20,6 +20,22 @@ The Morma Glacier recently began to melt — a consequence
 of the Seal of Stars being broken. Cracks are opening in
 the ice cap for the first time in millennia.
 
+Each Seal that breaks produces a visible omen:
+
+- **Seal of Stars (broken before campaign start):** Rain
+  of shooting stars over the ocean; northern lights pulse
+  through the night.
+- **Seal of Fire:** A red star falls over Fallowmoor.
+  A furious blizzard rages for several days; +2 to all
+  snowfall rolls during that period.
+- **Seal of Earth:** A yellow star falls across the
+  Morma Glacier. Cracks split open across the ice cap,
+  audible for miles.
+
+Locals interpret these signs as shifts in Blaudewedd's
+curse or bad weather. Only King Bele and the orc elders
+understand what they are.
+
 There is no Blood Mist here. The climate is what kept
 the region isolated and unexplored, not demonic sealing.
 
@@ -196,6 +212,12 @@ Exploration takes a Quarter Day and requires a Lead the
 Way roll. Success allows rolling on the Treasures Beneath
 the Ice table. Failure causes a mishap from the Beneath
 the Ice table.
+
+The orcs say: *the ice is alive, and it is the most
+dangerous beast in the Bitter Reach.* Passages that
+were open moments ago can close without warning,
+crushing whatever is inside. Sometimes the ice opens
+new passages instead.
 
 ## Magic Traditions
 

@@ -33,6 +33,21 @@ branches**. The alder tree is sacred; festival decoration uses its
 branches. Two emotional registers: melancholy for what was lost,
 and defiance to forget what was and build new.
 
+**Physical type:** Tall, lean to hardy. Ash-white pale complexion.
+Fair hair: straw, flaxen, ash-blond, mid-brown; worn long,
+simply dressed. Men bearded or close-cropped. Pale eyes: grey,
+ice-blue, blue-grey. Spare in expression, slow to gesture.
+Built for cold sustained work. _Real-world anchor: Icelandic /
+Swedish._
+
+**Culture/voice:** Hierarchy first — they find the senior person
+in any room before speaking. Written contracts over handshakes;
+you are what you have sworn, not what you feel. Measured speech;
+asks before answers; silence held without discomfort. Grief is
+private; they work harder rather than show it. The alder tree:
+survives wet ground that kills most other trees. They find this
+appropriate.
+
 **Typical Alderlander:**
 
 - STR 3, AGI 3, WIT 3, EMP 3
@@ -41,9 +56,23 @@ and defiance to forget what was and build new.
 
 **Subgroup — Ailanders:** First humans north into Ravenland,
 fled religious persecution 700 years ago. Worship the Protector
-as **Raven**. Led by **Raven Sisters**. Same physical appearance
-as Alderlanders. Pacifist tendency, equality-minded. **Koracia**
-is the rumored hidden village with a Raven shrine.
+as **Raven**. Led by **Raven Sisters**. Pacifist tendency,
+equality-minded. **Koracia** is the rumored hidden village with a
+Raven shrine.
+
+**Physical type (NOT Alderlander):** Short to medium, stocky,
+thick-wristed — farmer's and herder's build. Pale complexion.
+Hair straw-blond to light brown, sometimes near-white in childhood.
+Eyes blue, grey, or pale watery hazel. Plain earth-tone wool,
+nothing decorative. _Real-world anchor: Slavic._
+
+**Culture/voice:** No leaders — spokespeople, with community
+deciding. Acting without consensus costs standing regardless of
+outcome. Questions become stories; they explain everything.
+Share before claiming: hospitality is obligation, not generosity
+— strangers eat before business is spoken. Silence is dissent.
+Grievances are carried quietly for generations, not raised to the
+offender's face.
 
 **Typical Ailander:**
 
@@ -77,11 +106,24 @@ ignored them."
 
 ### Aslenes
 
-Colorful in dress and braid. Various skin tones with healthy
-luster; vibrant hair regardless of color; both sexes braid
-artfully. Earth-tone clothes patterned with color fields; gold
-and bronze jewelry preferred over silver. Shorter and stouter
-than Alderlanders. Worship **Horn**. Strong honor culture.
+Mongolic inner-Asian physical type. Medium height, lean, compact
+— horseman's build, strong through the thighs and core, low
+center of gravity. Light inner-Asian complexion: the warmer,
+lighter end of Mongolian coloring — not Nordic pale, not
+Mediterranean olive. Wide cheekbones, flat nasal bridge, strong
+jaw, dark brown eyes slightly tilted, light epicanthic fold.
+Hair black to very dark brown, straight and coarse; both sexes
+braid artfully. Earth-tone patterned clothing. Gold and bronze
+over silver. Worship **Horn**. Strong honor culture.
+_Real-world anchor: Mongolian / Kazakh northern steppe,
+lighter-skinned end._
+
+**Culture/voice:** Truth to the face — insults behind the back
+are cowardice. Measure people by how they handle horses. Music
+and recitation are serious crafts (poor performance insults
+the host). Laughter comes fast and stops completely. Gifts carry
+obligation — accept and give in return. Proverbs substitute for
+advice.
 
 **Typical Aslene:**
 
