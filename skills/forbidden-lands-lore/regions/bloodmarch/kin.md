@@ -25,6 +25,7 @@ held his position through careful neutrality during clan
 conflicts.
 
 **Cultural notes:**
+
 - Houn hospitality is deliberate and formal. Travelers
   are assessed before being invited in.
 - The Houns farm the black volcanic soil extensively.
@@ -46,6 +47,7 @@ boot, armored, knee-high. Current location unknown; no
 longer in Sabirian custody.
 
 **Cultural notes:**
+
 - The Sabirians are the fastest riders in the Bloodmarch.
   Their horses are bred specifically for the open grassland.
 - Sabirian culture is matriarchal. Women lead both
@@ -74,6 +76,7 @@ material, also called Serpent's Bane. Current location
 unknown; not in Caberian custody.
 
 **Cultural notes:**
+
 - Caberian towns are the most cosmopolitan in the Bloodmarch.
   Vasnians, dwarves, and halflings all have quarters in the
   larger Caberian settlements.
@@ -112,6 +115,7 @@ The Galdanes are internally fractured:
   and has begun eliminating those who resist. Wears all red.
 
 **Cultural notes:**
+
 - Galdane hospitality to outsiders is minimal and conditional.
   A Ravenlander who enters Galdane territory without invitation
   is likely to be turned around or killed.
@@ -133,6 +137,7 @@ man who runs a trading hub at the southern edge of the
 Bloodmarch.
 
 **Cultural notes:**
+
 - The Quards are the most relaxed of the horse clans.
   Their southern territory is less touched by Crimson
   Forests and farther from the volcano.

@@ -1602,9 +1602,29 @@ End of audit and merge instruction set.
 - **GEAR:** Bone club, teeth, stones
 - **TACTICS:** Knocks one foe down and lets the others pile on with fists, teeth, and wood.
 
-Ape-men are not kin. They are old hill-things of cave mouths, broken
-groves, and the wet black lip of ravines. They steal tools they do not
-understand and kill chiefly to keep the kill where they found it.
+An Ape-Man stands shorter than a tall man and wider than a broad one. The arms are long enough that it walks on knuckle and foot together at speed. The face is wrong in the way that faces are wrong when they are very close to the human shape but arrived at it by a different path: the eyes are placed correctly, the brow is heavy, the expressions are all present but slightly mistimed. They look at tools the way children look at objects they have been told are important but cannot quite use yet.
+
+They are old hill-things of cave mouths, broken groves, and the wet black lip of ravines. They claim ground by proximity and defend it by presence. There is rarely a plan more complex than: this is the place where I am, and you are coming toward it. They move between cave systems, hollow logs, and sandstone overhangs in upland country, following the movements of the animals they hunt and the humans they steal from.
+
+They steal tools they do not understand and kill chiefly to keep the kill where they found it. The tool theft is the stranger danger: a knife taken from a campsite, a hatchet from a split log, a spool of wire from a packframe. They carry these things for a day or two and abandon them, or keep them in a cache with other interesting objects. The cache is usually in the most defensible spot in their territory. Finding it is a reliable way to find the Ape-Man.
+
+Upland villages that have had Ape-Man problems more than once know the progression: something disappears from camp, then livestock start being investigated, then a child goes missing. The ape is evaluating, not planning. It does not know the difference, and that absence of planning is part of what makes the situation dangerous: there is no version of events in which it decides the situation has gone far enough and withdraws.
+
+#### Random Encounter: the Missing Apprentice
+
+> _The stone hammer by the forge is gone, and so is the apprentice who was using it at dawn._
+
+A smith's apprentice followed an Ape-Man that had been stealing tools from the forge yard, thinking he could track it back and recover the master's lost hatchet set. He has not come back. The ape has not come back either. The missing tools are probably in a cache somewhere in the ridge. Whether the apprentice is in the same cave, or whether he found the ape before the ape found him, is the question the master now needs answered.
+
+- **Terrain Types:** Hills, Mountains
+
+#### Random Encounter: the Apple-Core Offering
+
+> _Three apple cores sit on the doorstep, each one with a tool mark where no tool should reach._
+
+Something in the ravine has been watching the farm for a season. The farmer's wife knows because of the apple cores left by the step — the ape has been taking fruit from the tree and bringing back something each time, as if it understands the principle of trade and is trying to engage it. The farmer wants it killed before it decides fruit is no longer enough. His wife thinks destroying something that just learned how to make an offer is the kind of decision that follows a family for a generation.
+
+- **Terrain Types:** Hills, Forest
 
 > **RESOURCES**
 >
@@ -1647,10 +1667,29 @@ understand and kill chiefly to keep the kill where they found it.
 - **GEAR:** Heavy cudgel, axe, hide coat
 - **TACTICS:** Starts with a sneak attack, then hammers the fallen before the rest of the party can form.
 
-Bugbears are hairy raiders from the forest edge, broad as oxen through
-shoulder and chest and soft-footed as grave-thieves. They do not fight
-for land. They fight for meat, iron, and the pleasure of taking sleep
-away from smaller things.
+A Bugbear is broad as an ox through the shoulder and chest and soft-footed in the way that large animals are soft-footed when the weight is proportioned right. The face is wide and flat with a short jutting muzzle, covered in coarse dark hair that continues without obvious break across the arms and torso. The eyes catch light oddly at the edge of torchlight: flat, steady, patient. They do not run or charge. They appear.
+
+They come from the forest edge: the tree-line where planted fields thin and managed ground ends and old growth begins. They are not purely forest creatures and not purely creatures of open land, which is part of why they are effective at the boundary. In their own territory at night, they move through undergrowth without the crackling that most animals of their size make. They fight for meat, iron, and the pleasure of taking sleep from smaller things.
+
+The iron they accumulate is rarely put to use: it collects in middens and gets traded to other forest-edge peoples whose relationship with worked metal is similar — fascination without application. The sleep-taking is more calculated than it sounds. They start with noise and movement, night after night, before they ever touch anyone. A camp Bugbear-harassed for a week of cold nights makes poor decisions on the eighth day.
+
+Farmers who live near Bugbear country learn the seasonal pattern. Late autumn brings more raids, as the forest edge grows lean. Early spring, when growth is thick and prey is easy, often brings none. Villages near proven Bugbear territory have been known to maintain a quiet arrangement: outbuildings left unlocked, the second smokehouse predictably stocked. In exchange the raids fall on road travelers instead. This is morally uncomfortable and tends to work.
+
+#### Random Encounter: the Counted Fence
+
+> _The fence is cut, but nothing was taken. The goats are still in the pen._
+
+A Bugbear has been assessing a farming compound for two weeks. Last night it cut the fence without taking anything. The village elder says this means the Bugbear is counting: it knows what is here and is deciding whether to raid or move on. By his count, that decision comes in three days. The farmer wants watch posted. His neighbor thinks the fence-cut is already a message and wants to make an offering at the tree-line before the three days are up. Both may be right. Only one gets to be acted on first.
+
+- **Terrain Types:** Forest, Plains
+
+#### Random Encounter: the Circled Inn
+
+> _Every night this week the camp has heard something in the brush. Tonight the brush is quiet._
+
+A party of merchants is pinned at a roadside inn because Bugbears have been circling their camp for five nights without attacking. The merchant-master wants the adventurers to escort the convoy to the next town. The innkeeper knows the local Bugbear band and says they only circle like this when waiting for a specific target. One of the merchants is carrying something someone wants back. The innkeeper does not know what. The merchant-master does and is not saying.
+
+- **Terrain Types:** Forest, Plains, Hills
 
 > **RESOURCES**
 >
@@ -1692,9 +1731,29 @@ away from smaller things.
 - **GEAR:** Javelins, hooked spear
 - **TACTICS:** Circles at NEAR range, throws first, then dives past with a spear and climbs back into the air.
 
-These hard-winged scavengers haunt cliffs, dead roads, and upland ruins.
-They are bold against the lost, the wounded, and the overburdened. A
-Carrion Wing rarely lands where it means to kill.
+A Carrion Wing has a wingspan two body-lengths wide, hard-feathered and black-white like old bruising. The beak is hooked for tearing rather than piercing. The feet are too flexible for a bird — the grip is suited to carrying rather than perching. In flight the profile is broad and flat, with a lazy banking pattern that looks like simple soaring from below. The dives are not lazy.
+
+They haunt cliffs, dead roads, and upland ruins: anywhere that carrion accumulates. Battle aftermaths, plague fields, the stretches of trade road where merchants die in debt and no one bothers to collect the body. They circle high and descend when the opportunity is right. They are bold against the lost, the wounded, and the overburdened, and they have been following trade caravans long enough to learn the body language of an animal or person about to stop being a problem and start being a meal.
+
+A Carrion Wing rarely lands where it means to kill. The attack is aerial: a pass at SHORT range with the hooked spear, climbing back out of reach before the return swing. They prefer to wound and wait. A bleeding mule on a mountain pass is a mule they can return to in two hours without risk. Their calculation about safe targets has expanded over generations. They have started including the isolated, the overloaded, and the exhausted in the category of wounded.
+
+Upland pass-keepers track Carrion Wing activity the way flatland farmers track storm clouds: when the birds circle the high road in numbers, something is dying up there, or about to. The pass-keeper's job is to decide whether to send a recovery team or a warning first.
+
+#### Random Encounter: the Strongbox Under the Mule
+
+> _A white feather stands point-down in the packed earth of the pass, like a marker someone left and did not come back to move._
+
+A merchant's pack animal went down on the high pass three days ago and the merchant kept going because the merchant could. The animal is still there, and so are the Carrion Wings that have been eating it, and so is the merchant's strongbox that slipped off the harness and is now under a dead mule and several very committed birds. The merchant wants the box recovered. The box contains the deed to a mill that three families in the valley have been arguing over for twenty years.
+
+- **Terrain Types:** Mountains, Hills
+
+#### Random Encounter: the Pilgrim with the Bad Leg
+
+> _The pilgrim ahead on the path is sitting down. He has been sitting down for an hour. The birds above him are no longer banking._
+
+A group of pilgrims stopped for the night three hours short of the valley pass. One of their number has a bad leg and cannot continue without rest. The Carrion Wings above are tightening the spiral. The pilgrim-master wants to keep moving and leave the injured man with the group's mule. The injured man is the one who knows the route; without him the party takes the wrong fork and ends up two days from anywhere. The birds will be down well before dark.
+
+- **Terrain Types:** Mountains, Hills, Plains
 
 > **RESOURCES**
 >
@@ -1738,9 +1797,29 @@ Carrion Wing rarely lands where it means to kill.
 - **ROLE:** Brute
 - **TACTICS:** Uses reach and weight, then lets the stench and panic do work the dead hands cannot.
 
-Corpse Ogres are siege-labor turned battlefield carrion turned problem.
-They are rarely made for craft. They are made because someone needed a
-wall broken and had no patience left for mercy.
+A Corpse Ogre is as large as a real ogre but less coherent. The body is assembled rather than grown: sections of different origin, held together by cord, wire, iron staples, and the sorcery that bridges the seams. The stitching shows. The smell shows more. The face, when there is one, is a composite that no amount of looking at resolves into a single person. They are strong in the way siege engines are strong: not elegant, not fast, effective in specific circumstances and nowhere else.
+
+Someone made this because someone needed a wall broken and had no patience left for mercy. Fresh, a Corpse Ogre can open gates, clear barricades, and absorb extraordinary damage before it stops. Old, left to maintenance drift, it loses fine motor function and structural integrity but retains raw mass and the blind instruction set it was given at creation. The instruction set does not update. The circumstances do.
+
+They follow instructions the way water follows the path of least resistance: they go where they were built to go and do what they were built to do, whether or not the context that made the instruction sensible still exists. A Corpse Ogre built to hold a bridge will hold it when the war that created it ended three seasons ago. The bridge may now run through the middle of a village market. The instruction set does not address this.
+
+The most dangerous ones are those left too long without new instructions. They stop doing the specific thing they were built for and start doing the generalized version of it instead. The men who make these things have a phrase for this: it went independent. What they mean is: it stopped following orders and started doing what it was always built to do, without any of the original constraints.
+
+#### Random Encounter: the Gate That Won't Open
+
+> _The old town gate is braced shut from the outside and the stitching on the brace is not human work._
+
+A Corpse Ogre built during a siege a generation ago was given one instruction: keep the gate closed until relieved. The army that built it never came back. The gate now separates two halves of a village that grew up on both sides of the old wall, and every attempt to open it from the outside has ended in broken bones. The Ogre is not aggressive. It simply holds the gate closed and removes whatever it finds preventing that. The miller lives on one side. The mill is on the other.
+
+- **Terrain Types:** Village, Ruins
+
+#### Random Encounter: the Perimeter That Still Runs
+
+> _The body at the road junction has been broken in a specific way that means something to anyone who has seen battlefield engineering._
+
+A Corpse Ogre has been ranging the road junction between three villages for two weeks, breaking bridges and warding approaches in a pattern consistent with old perimeter-defense instructions. One village is running out of grain and cannot resupply because the Ogre's patrol route covers the only road the supply cart can use. A sorcerer in the second village believes she can give the Ogre a new instruction, but the sequence requires touching the inscription band around its neck, and the last person who tried that lost the arm at the shoulder.
+
+- **Terrain Types:** Plains, Village, Hills
 
 > **RESOURCES**
 >
@@ -1782,9 +1861,29 @@ wall broken and had no patience left for mercy.
 - **NUMBER APPEARING:** 3–10
 - **TACTICS:** Leaps for the throat, hair, or weapon-hand and tries to turn confusion into strangling.
 
-Crawling claws are grave-sorcery made cheap: severed hands sent after a
-name, a chest, or a locked box. They are common where the dead have been
-used as servants long enough that no one remembers the first outrage.
+A Crawling Claw is a severed hand that still works. The preservation method varies: wax, brine, salt-dry, thin sorcerous maintenance that keeps it functional long enough to complete the task. The fingers move with full articulation. The knuckles are discolored and the skin has changed texture from whatever process kept it usable. They move with the quick, scraping, purposeful motion of something that was once attached to a person who worked with their hands.
+
+They are grave-sorcery made cheap. The production cost is low enough that a journeyman with the right knowledge can make three or four from a single cemetery and assign each a different task. They are sent after names, chests, locked boxes, and specific people, with a single instruction clear enough to follow but complex enough to make the hand's residual memory useful. The residual memory is the point: a hand that belonged to a locksmith is a better lock-picker than one that belonged to a milkmaid, even in death.
+
+They are common where the dead have been used as servants long enough that no one remembers the first outrage, because that is where the production infrastructure exists and where the social pressure not to ask questions about the dead has been normalized. A Crawling Claw on task is single-minded. It works the lock, follows the scent, hauls itself under the door and through the gap under the wainscoting. The only way to stop it is to destroy it or destroy whatever it was assigned to find.
+
+Villages near old cemeteries that have been looted by practitioners occasionally find them in unexpected places: under a bed, in a grain sack, working at the latch of a cattle byre. The presence of one is always a symptom of something upstream. Someone made it and sent it. Finding who and why is usually more important than destroying the hand itself, because there are generally more where it came from.
+
+#### Random Encounter: the Missing Letter
+
+> _Five scratches on the inside of the chest lid, still fresh._
+
+A merchant died in the inn three nights ago and was buried the next morning. His chest, locked and stamped with his trading company seal, is now in the hands of his partner. Last night something got into the chest and removed a specific letter. The partner is certain the merchant's widow sent the claw. The widow is certain the partner did. The letter is gone and the hand that took it is still in town, waiting for the instruction to deliver it, and neither party wants the adventurers to find out what the letter said.
+
+- **Terrain Types:** Village
+
+#### Random Encounter: the Workshop Problem
+
+> _The apprentice's thumb is missing. He says he was not wearing it when he came in._
+
+A sorcerer's workshop has been breaking its own security for three weeks. Tools misplaced, materials consumed, one apprentice bitten. The sorcerer believes a Crawling Claw is in the walls, sent by a rival for the workshop's formula records. The apprentice thinks the sorcerer made the claws herself and forgot about them, because he has found three preservation jars matching the claw's construction hidden in the eastern wall cavity. The sorcerer has not contradicted him directly.
+
+- **Terrain Types:** Village, Ruins
 
 > **RESOURCES**
 >
@@ -1826,9 +1925,29 @@ used as servants long enough that no one remembers the first outrage.
 - **ROLE:** Trickster
 - **TACTICS:** Harrows the mind first, then feeds on those who can no longer trust their own sight.
 
-A Fear-Drinker is kin to the vampyrs, but thinner in body and meaner in
-appetite. It does not live by blood alone. It fattens itself on panic,
-shame, and the moment a brave face fails.
+A Fear-Drinker looks like a lean, gray-pallored person who has been ill for a long time and enjoys it. The features are sharp where they should be soft, the smile wider than the musculature controlling it should allow. They pass for human in poor light or at distance. Close up, the skin has a quality that is hard to name: slightly too cold for the ambient temperature, with a faint sheen that is not sweat.
+
+They are kin to vampyrs the way a poisoner is kin to a surgeon: same family of practice, different appetite. A vampyr takes blood. A Fear-Drinker takes the moment when someone's composure breaks — the instant a brave face fails, the second a certain look crosses a person's eyes. The blood is secondary. Some do not bother with it at all.
+
+They stalk the social landscape before the physical one. A Fear-Drinker working a village will spend weeks identifying who has something to be ashamed of, who carries unresolved guilt, who is one bad moment away from breaking. The feeding is easier if the target is already compromised. This makes them exceptionally patient and exceptionally well-informed about the people they hunt.
+
+Villages that have had one in residence for more than a season start to show it in a particular way. The social fabric strains. Old secrets surface. Marriages that were barely holding fail. The village elder who seemed confident starts to seem like something is wrong with him. The thing is not causing all of these problems — it is feeding on the ones that already existed — but the feeding accelerates the deterioration, and the deterioration produces more food.
+
+#### Random Encounter: the Confessor's Hours
+
+> _The confession box at the old shrine has been used every night for the past two weeks. Nobody comes to mass._
+
+A Fear-Drinker has been posing as a confessor who keeps unusual hours. The villagers feel better after confessing; the Fear-Drinker feeds on the discharged shame and leaves a pleasant emptiness that keeps people coming back. The priest who should be serving the shrine is locked in the back room because he noticed. If the adventurers expose the Fear-Drinker, they also expose everyone who confessed to it, which is everyone in the village.
+
+- **Terrain Types:** Village, Ruins
+
+#### Random Encounter: the Headman's Doubt
+
+> _The village headman has been wrong about who did what to whom for three consecutive market days, and each time he has been wrong in the same direction._
+
+The headman is not corrupt. A Fear-Drinker is feeding on his private conviction that he is not fit for the job, taking a little more certainty from him after each session. His rulings are becoming worse. The family who has been winning all three disputed rulings knows about the Fear-Drinker and has been directing people to the headman at his worst moments. They are not feeding the thing. They are using its schedule.
+
+- **Terrain Types:** Village, Plains
 
 > **RESOURCES**
 >
@@ -1871,9 +1990,29 @@ shame, and the moment a brave face fails.
 - **NUMBER APPEARING:** 2–8
 - **TACTICS:** Drops from ceilings, bites, then wraps and holds while the poison works.
 
-These hand-long tunnel vermin favor cellars, crypts, drains, and wet
-stone under old keeps. One alone is an ugly nuisance. A nest is how a
-campfire goes quiet without anyone first noticing why.
+A Giant Centipede is as long as a forearm, sometimes longer, with a body that carries too many legs for anything to move that smoothly. The coloration varies by substrate: red-brown in clay, black in wet stone, off-white in chalk. The head carries two forward-facing mandibles that deliver a paralyzing bite and two sensory antennae that detect movement through vibration better than through any other sense. They navigate dark well. Light is simply information they do not require.
+
+They favor cellars, crypts, drains, and wet stone under old keeps: anywhere with permanent moisture, poor ventilation, and infrequent human traffic. They require the infrequent traffic specifically. Too much and they relocate; too little and there is not enough accidental prey to support a colony. The ideal environment is the intersection of maintenance-neglect and occasional human use, which describes most of the Ravenlands.
+
+One alone is an ugly nuisance. A nest is how a campfire goes quiet without anyone first noticing why. They are not aggressive individually but they have collective thresholds: when a nest is disturbed, the response is total and comes from every surface at once. The venom is paralytic. A paralyzed man in a confined space with a dozen of them resolves in one direction.
+
+Cellarmasters and crypt-keepers learn to recognize the signs: the thin husks of molt-shells pressed into mortar cracks, the specific smell of fresh centipede molt (which is distinct and has no flattering description), and the particular quality of silence in a room where they have been disturbed recently. Those who know the signs live longer than those who decide the smell is satisfying enough as an explanation.
+
+#### Random Encounter: the Sealed Grain Vault
+
+> _The grain vault has been locked for three days because something died in it, but the grain ran out a week ago and the village needs what remains._
+
+A winter-depleted grain store has a Giant Centipede nest in the lower section. The lock was thrown from inside; someone went in to check on the low stocks and did not come back out. The village needs the grain and needs to know what happened to the storekeeper. The nest is between the door and the grain. The storekeeper may be alive, paralyzed, in the back of the vault, or may be the smell that has been coming through the door seal for three days.
+
+- **Terrain Types:** Village, Ruins
+
+#### Random Encounter: the Drainage Channel
+
+> _The old drainage channel under the inn runs to the river. Nobody has maintained it in forty years. It is also the only way out of the inn that does not go through the main hall, where the road-wardens are waiting._
+
+A group of travelers needs the old undercroft drainage channel to avoid a constable they have complicated reasons to avoid. The channel is the fastest route, the only covert route, and home to a Giant Centipede nest of unknown size. The travelers have a lantern, a hand-length of dry rope, and approximately twelve minutes before the constable finds the stable empty and checks the cellars.
+
+- **Terrain Types:** Village, Ruins
 
 > **RESOURCES**
 >
@@ -1915,9 +2054,29 @@ campfire goes quiet without anyone first noticing why.
 - **NUMBER APPEARING:** 6–18
 - **TACTICS:** Piles onto the same target until there is nowhere clean left to bite.
 
-Giant Rats haunt midden-heaps, drowned mills, collapsed granaries, and
-plague roads. Their real danger is not the tooth. It is what comes in
-through the wound after.
+A Giant Rat at full growth is the size of a fat cat and shares a cat's capacity for fitting through any gap it can get its skull through. The fur is brown-gray or black depending on habitat, matted at the throat and flanks from den-grease. The teeth are iron-hard and grow continuously; they gnaw on wood, leather, rope, bone, and soft iron not because they need to eat these things but because the teeth require it. A Giant Rat is always gnawing on something.
+
+They haunt midden-heaps, drowned mills, collapsed granaries, and plague roads: wherever humans put food and then stopped maintaining the area. They are not selective about what they eat, which is part of their danger. A colony feeding on stored grain is also feeding on anything left near the grain, including the things placed there to keep it safe.
+
+The real danger is not the tooth. It is what comes in through the wound after. Giant Rats carry disease with the efficiency of creatures that have evolved to thrive in exactly the environments that disease also thrives in. A bite that heals cleanly in three days is a bite that worked. A bite that does not heal cleanly is three weeks of fever and a fifty-percent chance of something worse. Veteran ratters clean a bite immediately and cauterize it if they can stand the pain.
+
+Granaries and mills with a Giant Rat problem are businesses with a political problem. If the rats are in the grain, the grain cannot be sold until the problem is solved, but solving it requires admitting it exists, and admitting it exists destroys the reputation that kept the contracts coming. The rats are frequently the second-worst thing happening to a business with this problem. The first-worst is the decision about whether to tell anyone.
+
+#### Random Encounter: the Missing Rat-Catcher
+
+> _The rat-catcher left his things by the south gate four days ago. The things are still there._
+
+A professional rat-catcher was hired to clear a drowned mill that the owner wants to sell. The catcher took the contract, went in, and has not come out. The mill-owner wants the adventurers to find out what happened without going public, because the buyer is scheduled to inspect the property in two days. A rat-catcher good enough to take a mill contract is good enough that something stopped him, and the mill-owner is now wondering if the problem is larger than he quoted.
+
+- **Terrain Types:** Village, Quagmire
+
+#### Random Encounter: the Missing Grain Wagon
+
+> _The supply wagon came through three days ago. The road master logged it through. The village that ordered the grain has not received it._
+
+A grain wagon arrived and was logged through the road post. The receiving village never got it. The wagon and the teamster are at neither end of the road. The route passes through old floodplain with a collapsed granary on the verge that has been used as a night camp for twenty years. The granary's Giant Rat colony has been growing for two seasons. The teamster made camp there.
+
+- **Terrain Types:** Plains, Village
 
 > **RESOURCES**
 >
@@ -1955,8 +2114,29 @@ through the wound after.
 - **ROLE:** Trickster
 - **TACTICS:** Drags prey close with the tongue and finishes the kill by weight, not speed.
 
-Giant Toads are lazy hunters and very good at it. A road by a pond often
-looks safer than one through a wood. The toad is counting on that.
+A Giant Toad fills the space between a large boulder and a small man. The body is wide, low, and cryptically patterned: gray-brown with darker mottling that matches wet stone, thick moss, and any roadside surface allowed to accumulate organic material for a few seasons. The tongue is the length of a tall man's arm. The strike is faster than the body suggests. The eyes are gold-irised and function in near-darkness.
+
+They favor pond margins, wet culverts, marsh-edge roads, and low bridges where the stone has accumulated algae and the toad's visual profile matches the sitting-stone that travelers rest on. They do not pursue. They position and wait. The road by a pond often looks safer than one through a wood. The toad is counting on that.
+
+They are lazy hunters and very good at it. The tongue strike is the whole kill if the target is small enough; for larger targets it seizes and drags close for the mouth. They swallow rather than tear. A Giant Toad that has eaten a man-sized meal will not need to hunt again for several days and will spend those days in the same position looking like something you could sit on.
+
+Wetland villages know the toad sign: the stretch of road near the pond where the verge has been cleared of vegetation in a specific oval shape from something large sitting there repeatedly. Good road-masters mark these stretches with a pole or pile of stones. Those who do not mark them argue that marking them keeps travelers paranoid. They are technically right and practically dangerous.
+
+#### Random Encounter: the Ford That Changed
+
+> _The marker stone at the ford is the wrong shape this morning._
+
+A Giant Toad has displaced from its usual shallow-pond territory because the pond silted over in the spring floods. It has moved to a ford the entire valley uses as a seasonal market crossing. The ford is now impassable without passing within tongue-range of something the size of a merchant's horse. Market day is tomorrow. The valley road-master knew about the toad two weeks ago and did not file the report because he was hoping the problem would resolve itself.
+
+- **Terrain Types:** Quagmire, Marshlands, Plains
+
+#### Random Encounter: the Children's Game
+
+> _The children have been throwing stones at the old gray lump by the mill pond for a week. Today one of the children did not come home._
+
+A Giant Toad has been sitting on the mill pond verge for three weeks. The miller considered it harmless because the stones the children threw at it never prompted a response. The toad was waiting: it needed the children to establish a routine before it moved. The missing child is alive — swallowed prey survives in the stomach for some hours. The miller knows this. He is at the pond with a long knife and a very specific plan that requires standing within tongue-range and going through with it.
+
+- **Terrain Types:** Quagmire, Village, Forest
 
 > **RESOURCES**
 >
@@ -1994,10 +2174,29 @@ looks safer than one through a wood. The toad is counting on that.
 - **ROLE:** Lurker
 - **TACTICS:** Waits motionless, lets prey walk into it, then smothers and digests.
 
-A Glass Ooze moves little because it does not need to. Corridors, mine
-cuts, and cave throats do the trapping for it. Rusted buckles, white
-knuckles, and coins suspended in its body are all the warning most folk
-ever get.
+A Glass Ooze in a corridor looks like a lens-distortion in the air: a bending of the torchlight that has no obvious source, a visual shimmer across the tunnel face that could be heat or water or exhaustion. Closer, the transparency is imperfect. The body is gelatinous, slightly prismatic, nearly invisible at one angle and reflective at another. That faint reflection of light from behind the person walking toward it is the last thing most people register before the first contact.
+
+They wait in corridors, mine cuts, and cave throats where the geometry ensures contact. Old dungeon corridors, the narrows of flooded vaults, drainage channels just wide enough for a man to squeeze through — these are ideal. A Glass Ooze finds a suitable choke point and stops moving entirely until something comes to it. It does not chase. The passage does the work.
+
+The objects suspended inside are archaeological in their own small way. Rusted buckles. White knuckles. Coins from dynasties that no longer exist. The occasional full piece of armor, distorted but still recognizable. An ooze that has been in one place for decades accumulates a record of everyone who passed through that corridor and did not make it out. The coins are often still legible.
+
+The digestion is slow. Something that contacts a Glass Ooze is immobilized first, as the outer layer sets around it, and then digested over hours. The miners who work near suspected Glass Ooze territory leave a specific prayer at the entrance for the ones who went in and are still in there, waiting. Some of them have been waiting a long time.
+
+#### Random Encounter: the Three Torches
+
+> _Three torches are still lit in the tunnel, but the miners have not come back for two shifts._
+
+Three miners are suspended inside a Glass Ooze that formed in a drainage shaft in a copper mine. They are still alive. The ooze has been stationary in that shaft for at least a season and the mine-master did not know it was there, which is why three men were sent in to clear what looked like a blockage. The men are visible through the ooze's body. Killing the ooze dissolves it and may release them, or may accelerate the digestion. The mine-master does not know which, and neither does anyone in the valley.
+
+- **Terrain Types:** Mountains, Hills
+
+#### Random Encounter: the Antiquarian's Commission
+
+> _The coin pressed into the wax is clearly foreign, and the wax is clearly old. It came from somewhere sealed and is suggesting the seal is worth revisiting._
+
+A locksmith has found a way to melt the extracted contents out of dead Glass Oozes and sift for valuables. He has been doing this for two years and selling what he finds to an antiquarian who has been tracking the coinages. The antiquarian recently identified a sequence from a vault sealed three hundred years ago that has never been successfully opened. He wants partners for the recovery. The vault is reachable. The thing that sealed it is probably still there. The locksmith has not told the antiquarian about the current size of the ooze he found last month, because the antiquarian would withdraw the commission.
+
+- **Terrain Types:** Mountains, Ruins, Hills
 
 > **RESOURCES**
 >
@@ -2039,9 +2238,29 @@ ever get.
 - **GEAR:** Short bow, knife, short spear
 - **TACTICS:** Helps one another, snuffs light, and cuts down whoever gets separated.
 
-Goblins thrive wherever bigger folk grow careless. They fight with help,
-noise, darkness, and nerve. If a goblin is facing you honestly, another
-one has already gone behind you.
+A goblin stands waist-high to a short man and moves in the compact way of animals that evolved in vertical spaces. The eyes are oversized for the face and function well in darkness: the pupils dilate to nearly fill the iris in low light. The teeth are small and sharp. The hands are dexterous. They make tools, traps, and improvised weapons with the quick confidence of things that grew up needing to.
+
+They thrive wherever bigger folk grow careless: the cellars of abandoned keeps, the back sections of old sewers, the rubble warrens under collapsed fortifications. They require human neglect the way other creatures require food and water. A goblin warren without a nearby human settlement to exploit is a warren that moves.
+
+They fight with help, noise, darkness, and nerve. If a goblin is facing you honestly, another one has already gone behind you. The group tactics are not complex but they are consistent: one makes noise or displays openly, the rest position. The group attacks a single target until it stops moving, then pivots to the next. They do not make last stands. They break, regroup, and come back later from a different angle.
+
+Individual goblins are often harmless. A goblin that wanders into a market town looking for scraps is a nuisance, not a threat. The danger is always in number and situation. A goblin band that has been living for a season in the undercroft of a working inn knows more about the inn's guests, schedules, and weaknesses than most thieves would learn in a month. They are not malicious in the abstract. They are opportunistic, and they are very patient.
+
+#### Random Encounter: the Tax Collector's Lockbox
+
+> _The night tax collector's lockbox is in the strongroom. The strongroom key was in the tax collector's belt. The tax collector is now not in the inn._
+
+A goblin band has been living in the undercroft of a road inn for three months. Last night they took the tax collector from the best room, because the collector had a lockbox they could not open and they needed someone to explain it. The collector is alive in the undercroft, having a conversation about the box's contents. The innkeeper wants the situation resolved before the collector's armed escort arrives at dawn and finds an empty room.
+
+- **Terrain Types:** Village, Ruins
+
+#### Random Encounter: the Flour Negotiations
+
+> _The flour is gone. Every grain sack in the mill has been taken through a wall gap the size of a coat._
+
+A mill has been systematically stripped by a goblin band over two weeks. The miller thought it was rats until the third morning, when he found a small snare in the pantry and a note written in poor but legible common: *we need the flour more than you do.* A goblin-elder who can write is making a calculated appeal. The village is entering a cold season with no stores. The goblin warren below the mill is also running out of something it cannot take from a mill.
+
+- **Terrain Types:** Village, Plains
 
 > **RESOURCES**
 >
@@ -2082,9 +2301,29 @@ one has already gone behind you.
 - **NUMBER APPEARING:** 1–3
 - **TACTICS:** Charges with teeth, then burns the ground where a retreat would be easiest.
 
-Hell Hounds are fire-bred curs of demon places, iron pits, and old
-sorcerers' roads. Their smell of cinders and wet hide carries far in
-cold weather. Their masters rarely need leashes.
+A Hell Hound is the size of a large hunting dog with the coloring of a banked fire: black fur with a deep orange or red cast at the flanks that is not hair-color but actual faint heat-glow from the internal organs. The breath is visible in warm air, not as moisture but as a thin shimmering displacement. Close up, the fur at the muzzle is scorched away from its own exhalation. The paws leave slight scorch marks on dry grass.
+
+They are fire-bred curs of demon places, iron pits, and old sorcerers' roads. Where exactly they breed in the natural world is unclear; most appear attached to people who have been doing sorcery long enough to attract the wrong company. They are not common enough to have a settled ecology. They turn up in ones and threes, always attached to someone, usually someone whose interests are narrow and whose methods are broad.
+
+Their masters rarely need leashes. A Hell Hound in service tracks its instructions without physical direction. It comes when summoned, follows when ordered, and attacks on command with the efficient ferocity of a creature that has no fear of the things that spook ordinary animals. Fire, blades, and loud noises do not unsettle them. They have been on fire before.
+
+The smell of cinders and wet hide carries far in cold weather. Villages with reason to know Hell Hound country check the morning air after a cold front. A Hell Hound that has traveled a night road leaves a scent trace that can be followed in the other direction to find who it is traveling with. This is useful to road-scouts, bounty-hunters, and the kind of temple physician who does more than medicine.
+
+#### Random Encounter: the Tracking Hounds
+
+> _Two hounds, nose down on the main road, moving fast in the wrong direction._
+
+Two Hell Hounds are tracking someone down the road ahead. Their master is not visible. The person they are tracking crossed paths with the adventurers three days ago and left them with something to deliver to the next city. The adventurers may not know the two facts are connected. The hounds will confirm it when they stop following the tracks and start following the party.
+
+- **Terrain Types:** Forest, Plains, Hills
+
+#### Random Encounter: the Instructionless Hound
+
+> _The sorcerer's house on the edge of the village burned last week. The hound did not leave._
+
+A sorcerer died in a fire seven days ago. The Hell Hound bound to him is still on the property, waiting for an instruction from a person who is not going to give it one. The sorcerer's apprentice wants the hound. The sorcerer's creditors want the property. The village wants both of them gone. A Hell Hound with no live master is in a state the people who study these things call instructionless, and they have more than one opinion about what it will do next.
+
+- **Terrain Types:** Village, Ruins
 
 > **RESOURCES**
 >
@@ -2127,9 +2366,29 @@ cold weather. Their masters rarely need leashes.
 - **NUMBER APPEARING:** 2–6
 - **TACTICS:** Spits acid to foul shields and helmets, then swarms a single victim.
 
-These spiteful little ruin-things cling to towers, crypts, and bridge
-saints worn smooth by rain. They are clever enough to bully the weak and
-stupid enough to come back for the same trick twice in one fight.
+A Little Gargoyle looks like a stone figure of something that was never quite anatomically correct. The carving is primitive: too many joints in the fingers, the wings vestigial rather than functional, the face caught in an expression that seems amused and focused at the same time. They are the size of a large cat. In stillness, in full daylight, they are very difficult to distinguish from the ornamental stonework they treat as territory.
+
+They cling to towers, crypts, and bridge saints worn smooth by rain: the high edges of any structure standing long enough to accumulate architectural detail. They prefer structures that still have human traffic in them, because human traffic means human inattention, and inattention is what they require. A building that is being actively maintained and watched is one they will eventually move on from.
+
+They are clever enough to bully the weak and stupid enough to come back for the same trick twice in one fight. The acid is not their primary strategic weapon: they use it to foul equipment before they swarm, targeting shields and helmets specifically. They understand that a man without his shield and with acid on his helm is a man covering his face instead of watching the approach. They have learned this from experience.
+
+Buildings with a gargoyle problem become identifiable over time. The upper stonework is clean in ways the lower structure is not, because gargoyles eat the organic material that settles into carved stone. A gargoyle-held building will not have pigeons. Stonemasons who work on old buildings check the lintel faces for claw marks before setting up scaffold, because working directly below gargoyle territory without preparation is the kind of mistake that ends a career at shoulder height.
+
+#### Random Encounter: the Bell-Tower
+
+> _The bell in the old tower has not been rung in a year, and the new bell-ringer will not say why after she came back down._
+
+A Little Gargoyle band has established territory in a town bell-tower. The bell-ringer went up to assess the situation and came back down without her left glove and without explanation. The bell has been silent since, which means the market-time signal and the curfew bell have both failed for a season. The town council is offering payment to resolve it. The bell-ringer knows exactly what is in the tower but will not explain to anyone who has not been up there, because she does not think the explanation will be believed.
+
+- **Terrain Types:** Village, Ruins
+
+#### Random Encounter: the Renovation Problem
+
+> _Three gargoyles, perched. One of them is watching the adventurers. The other two are watching the street below._
+
+A group of Little Gargoyles is coordinating an ambush on a moneylender who passes through this street every morning. He has been paying stonecutters to chip the decorative work off a building they occupy, which is being renovated for commercial use. The moneylender is unaware that the figures being removed have opinions about it. The mason he hired is very aware and is hoping someone else deals with this before his commission requires him to go back up.
+
+- **Terrain Types:** Village, Ruins
 
 > **RESOURCES**
 >
@@ -2168,9 +2427,29 @@ stupid enough to come back for the same trick twice in one fight.
 - **NUMBER APPEARING:** 2–8
 - **TACTICS:** Bites to hold, circles, and lets the older beast close for the throat.
 
-Night-Pups are young shadow-hounds, not yet strong enough to kill clean
-but already born to the pack's long patience. Their bite leaves a cold
-that clings past dawn.
+A Night-Pup is roughly the size of a young wolf and the color of a shadow cast wrong: not full black but the particular dark gray of sky just after full dark, which makes them difficult to fix on in motion. The fur is dense and does not reflect light the way normal pelts do. The eyes are the only thing that catches light from them, and the eyes are pale — near-white at the center, darkening at the edge. The bite leaves a cold that clings past dawn.
+
+They are young shadow-hounds, not yet strong enough to kill cleanly but already born to the pack's long patience. Shadow-hounds run in hierarchical packs where the youngest animals serve as scouts and distractors. A Night-Pup's role is to hold and circle, to turn a target into positions where the older animal can close safely. They understand their role before they understand their own strength.
+
+The bite is not the main danger in isolation. A Night-Pup bite is manageable, painful, and leaves a persistent cold in the wound-site through the next morning. The main danger is what the bite does to behavior: the cold suppresses movement willingness, makes the bitten reluctant to run or reposition, and the pup is trained to bite calves and hands rather than to kill. It is holding a target in place for something that has not yet arrived.
+
+Villages near shadow-hound territory learn to count. Three Night-Pups in the yard means at least two older animals in the tree-line. A pup working alone is young, separated, or scouting. A pup working in a coordinated three-way spread means a full pack, and a full shadow-hound pack changes the calculus of staying versus leaving.
+
+#### Random Encounter: the One in the Road
+
+> _One pup, sitting in the middle of the road, watching. Behind the party, the road is empty._
+
+A single Night-Pup is visible in the road ahead. It is not attacking. It is watching and occasionally glancing left, into the tree-line. Two older shadow-hounds are in the wood to the left, waiting for the party to walk past the pup and into a flanked position. The pup keeps checking the tree-line to confirm the older animals are still there. They are. The party has approximately three rounds before the older animals decide the positioning is sufficient.
+
+- **Terrain Types:** Forest, Hills, Plains
+
+#### Random Encounter: the Child's Cold Hand
+
+> _The child's hand is cold below the wrist and she cannot grip._
+
+A child was bitten by a Night-Pup six days ago while gathering water from the mill stream. The wound is closed and clean but the cold has not left the hand and she cannot close the fingers properly. The local herb-woman has tried everything she knows. A hunter who knows the shadow-hound territories says the cold from a pup-bite resolves if the biting animal is killed, but the pup is still in the area and is being watched over by at least one older hound. The child's father is planning to go into the wood tonight regardless.
+
+- **Terrain Types:** Forest, Village, Hills
 
 > **RESOURCES**
 >
@@ -2207,9 +2486,29 @@ that clings past dawn.
 - **ROLE:** Brute
 - **TACTICS:** Grabs first if it can, clubs second, and only bites when enraged or hungry.
 
-Ogres are large enough to mistake caution for weakness. They are not as
-stupid as their enemies hope. They understand doorways, ladders, and how
-long a man takes to stand again.
+An ogre stands a full head above the tallest man and is proportioned for weight rather than speed: wide through the shoulders, deep through the chest, the limbs heavy-boned in the way that suggests the skeleton is the structural constraint rather than the muscle. The face is wide and low-browed with a large flat nose that is clearly functional — ogres navigate by smell as readily as by sight in familiar territory. The hands are capable of more precise work than the body implies.
+
+They are large enough to mistake caution for weakness. When a man backs away from an ogre, the ogre reads it as the situation going as expected. They do not recalibrate when the opponent circles rather than retreats; circling is not in the social vocabulary they operate in. They understand doorways, ladders, and how long a man takes to stand again. These things have been demonstrated to them over a lifetime of interactions with structures and people built for smaller requirements.
+
+They are not as stupid as their enemies hope. They negotiate, hold grudges, make deals, and remember. A village that has been paying an ogre to keep wolves off the upper pasture has a business relationship, and the ogre understands the terms and will cite them if the payments stop. The problem is not intelligence. The problem is that their preferred resolution to any disputed term is physical and their proportions make the physics heavily one-sided.
+
+Ogre territories are identifiable by structural damage done in passing rather than aggression: doorframes punched wider, bridge rails snapped off, low-hanging branches cleared by someone walking upright at a height where branches should not be an issue. Villages that have ogres in the area for a generation develop architecture accordingly: wider market gates, taller stable doors, and the habit of building important conversations into open spaces where the structural damage from a misunderstanding is minimized.
+
+#### Random Encounter: the Gate Toll
+
+> _The village gate is open and the gatekeeper is not in the booth. The big handprint on the inside of the gate is above where any gatekeeper could reach._
+
+An ogre has been collecting a toll from the village gate road for three weeks. It is not aggressive: it stands at the gate, holds out its hand, and waits. No one has been hurt. The gatekeeper agreed to the situation because the alternative presented was worse. The village council has not been told because the gatekeeper is afraid of the council's proposed solution. The ogre has specific reasons for wanting the money and specific reasons for choosing this village, and neither reason is greed.
+
+- **Terrain Types:** Village, Plains
+
+#### Random Encounter: the Neatly Stacked Crates
+
+> _Something has been in the winter stores. Whatever it was, it stacked the empty crates neatly outside the door._
+
+An ogre has been taking food from a village's winter store for three weeks. The organized stacking of empty crates is its way of communicating that it is not hostile. The village headman is less reassured by this than the ogre expected. The ogre is willing to explain — it is feeding a litter of something in the old quarry — but it needs a translator who speaks both ogre and common, and the only person in the village who can do that is the one who originally sent the ogre to the quarry and has not told the headman that part.
+
+- **Terrain Types:** Village, Ruins, Hills
 
 > **RESOURCES**
 >
@@ -2248,9 +2547,29 @@ long a man takes to stand again.
 - **ROLE:** Lurker
 - **TACTICS:** Hides among stone folds, snatches with tentacles, then bites before the victim can get footing.
 
-A Tunnel Maw is all hunger from the neck down and all patience from the
-neck up. It clings to cave ceilings, quarry faces, and the under-lips of
-broken bridges where it can mistake a road for a throat.
+A Tunnel Maw from above is nearly invisible: the body is the same texture and color as its substrate, with a flexible grip that allows it to flatten itself to a cave ceiling or quarry wall until its profile is effectively that of a ledge. The four pale feelers hang down like wet roots or mineral formations. The mouth, when it opens, is wider than the body implies: the jaw dislocates downward and forward to accommodate what the tongue brings in.
+
+It clings to cave ceilings, quarry faces, and the under-lips of broken bridges where the road below looks like a throat. It requires specific geometry: a choke point or narrows that ensures close passage below it, with enough vertical clearance that the feelers reach something worth catching. Old mine shafts, drainage cuts, and the cave-sections of underground rivers are ideal. It finds a suitable choke point and stops moving until something comes to it.
+
+All hunger from the neck down and all patience from the neck up. The waiting can last days. The strike, when it comes, is the complete opposite of the waiting: total, fast, and involving all four feelers plus the immediate bite. Animals and people that understand cave architecture and look up when passing through narrows are the ones that have had experience with Tunnel Maws or been well-taught by someone who did.
+
+Tunnel Maw territory is identifiable to experienced spelunkers by what is absent: birds and bats that should be in a cave space, present by their dung on the floor but absent in the air, because they stopped flying that section some time ago. Also by the organic residue directly below the main ceiling — the dissolved remains of things the maw ate and dropped, or things that fell while struggling. A Tunnel Maw that has been in one spot for a season has a deposit layer that an experienced eye can read like a record.
+
+#### Random Encounter: the Survey Rope
+
+> _The survey rope is still secured at the cave entrance. The surveyor is still attached to the other end of it._
+
+A mining survey team sent one man into a new shaft to take measurements. The rope went taut three hours ago and has not moved. The team cannot pull it back: it resists as though anchored, not snagged. The surveyor may be dead, may be held in the mouth, or may have wedged the rope around something solid while trying to free himself from a feeler. The shaft is the only passage to the vein the entire mine operation is staked on.
+
+- **Terrain Types:** Mountains, Hills
+
+#### Random Encounter: the Bridge Monopoly
+
+> _The merchants' bridge has been repaired three times this year. Nobody who crosses it alone makes it to the other side._
+
+A Tunnel Maw has positioned itself under the arch of a stone bridge on a major trade road. The bridge maintenance has been blamed on flood damage, cart weight, and sabotage. The actual problem is the merchant who knows about the maw and has been using it: caravans he guides personally cross safely; caravans that pass without his escort sometimes do not arrive at the next waypost. He is not feeding people to the maw intentionally. He simply knows the safe passage timing and has not told the road guild, because the road guild would seal the bridge and destroy his advantage.
+
+- **Terrain Types:** Plains, Hills, Village
 
 > **RESOURCES**
 >
@@ -2293,9 +2612,29 @@ broken bridges where it can mistake a road for a throat.
 - **NUMBER APPEARING:** 2–12
 - **TACTICS:** Closes slowly, takes the blow, then wins by numbers and grip.
 
-A Walking Dead body is only one dead thing. A yard of them is when the
-living start making mistakes. They are common wherever proper rites were
-skipped because there was work yet to do.
+A walking dead body moves the way something moves when the thing animating it has no fine motor investment: limbs from the hip and shoulder, almost no wrist or ankle articulation, the head inclined toward the target without the small constant adjustments that give living movement its quality. The face is blank. Not empty — blank, as in the expression has been removed. The eyes are open and oriented but not tracking in the normal sense. They do not startle. They do not hesitate.
+
+They are common wherever proper rites were skipped because there was work yet to do. The body was left in the field, or buried wrong, or buried in the wrong place, or the prayer-words were rushed in cold weather, or the person who was supposed to say them was drunk, or there was a battle and there was not time. Every version of the origin comes back to the same root: someone took a shortcut with the dead.
+
+A walking dead body is only one dead thing. A yard of them is when the living start making mistakes. They are slow, they are predictable, and they are individually manageable. The danger is arithmetic: five walking dead are harder than five times one. Ten moving in the same direction at the same speed produce a kind of pressure that is not exactly a tactic but functions as one. People who have fought them in the open have different accounts of the experience than people who have fought them in a building.
+
+Villages near old battlefields, plague sites, and unmaintained cemeteries have practical arrangements for walking dead: a watch rotation, confirmed-effective barriers, a protocol for what to do when one is reported inside the settlement perimeter. These arrangements exist because someone learned they were necessary, and the learning was not pleasant. Villages without these arrangements are either new to the area or in the process of discovering they need them.
+
+#### Random Encounter: the Eastern Quarter
+
+> _Seven people are missing from the eastern quarter. The doors to three of their houses are open. No one saw them leave._
+
+Seven people have not been seen since last night. Three doors were left open in the cold. The village herbwoman says the eastern quarter is downhill from the old field-burial site and the drainage runs toward it, and this autumn was very wet. The village headman wants the problem handled quietly before the autumn census. The herbwoman wants the site properly consecrated and will not leave the village until it is done. One of the missing seven is the headman's brother.
+
+- **Terrain Types:** Village, Marshlands, Plains
+
+#### Random Encounter: the Quiet Checkpoint
+
+> _The road-wardens' checkpoint has not sent a report in three days. The road to it is clear._
+
+A remote road-warden post has gone silent. The post covers the junction near an old military burial pit left after a skirmish three seasons ago. A message-rider who attempted the road two days ago came back without the message and with the specific look that means she went far enough to see something and turned around. The warden post has twelve men assigned to it. The burial pit has no confirmed count.
+
+- **Terrain Types:** Plains, Hills, Village
 
 > **RESOURCES**
 >
@@ -2337,10 +2676,29 @@ skipped because there was work yet to do.
 - **GEAR:** Staff, knife, grimoire, bound familiar
 - **TACTICS:** Stays behind hired steel, blinds one foe, curses another, and leaves if the fight stops serving the bargain.
 
-This entry lifts the half-made wizard from the source notes into the
-shape of a Ravenlands sorcerer. The Warlock of the Black Tower is not a
-monster in the old sense, but many villages will pray harder at the
-sound of a spellbook opening than at the howl of any wolf.
+A Warlock of the Black Tower presents in variations on the same theme: solitary, unhurried, and possessed of the specific quality of attention of someone measuring you against a calculation you cannot see. The clothing is usually practical and dark-worn rather than dramatic; the dramatic version is for people who still need the theater of it. Those who have been practicing long enough have moved past needing to look the part.
+
+This is not a monster in the old sense. It is a person who has been practicing sorcery long enough that the practice has changed them in specific, observable ways, and who has arrived at a position of power that makes direct confrontation inadvisable for most. The Black Tower in the name is often literal — a retreated structure on defensible ground, chosen for sight-lines and inaccessibility — but it is also a category. The Warlock of the Black Tower is the sorcerer who has stopped pretending to be integrated into the village economy and started operating as an independent power.
+
+They stay behind hired steel, blind one foe, curse another, and leave if the fight stops serving the bargain. They rarely initiate violence directly. What they initiate are situations in which violence is the option their opponent chose and the warlock is prepared for. The grimoire and the familiar are the practical tools of that preparation: the familiar extends perception beyond the body, and the grimoire is the accumulated record of what that extended perception has learned over years.
+
+Villages pray harder at the sound of a spellbook opening than at the howl of any wolf. This is not superstition. A wolf can be killed and has only the interests a wolf has. A warlock can be killed, but the process is complicated by the hired steel, the familiar, the fortified structure, and the specific knowledge that someone who has been practicing sorcery for twenty years has generally made contingency arrangements. Villages that have a warlock in the area for more than a decade develop a working relationship: tribute, information, agreed prohibitions. The tribute is the price of the relationship. The problem is that the relationship only holds as long as the warlock's interests align with the village's continued existence.
+
+#### Random Encounter: the Returned Apprentice
+
+> _The child the warlock took ten years ago came back last week. She is thirty years old._
+
+A warlock took a child as an apprentice ten years ago under a contract the parents signed in desperation. The child returned last week as a competent adult with a message: the contract is complete, she is released, she owes nothing. The village does not know what to do with this. The woman does. What she came back to do requires the village's cooperation. What the warlock sent her back to do requires her to ask for it. Both of those things involve explaining what happened in the tower, which she has not done yet.
+
+- **Terrain Types:** Village, Mountains, Hills
+
+#### Random Encounter: the Tax Negotiation
+
+> _The tax letter arrived at the warlock's tower and was returned with one word added to it. The word is not hostile. It is a number._
+
+A regional lord attempted to levy taxes on a warlock's tower and adjacent lands. The warlock returned the document with a single addition: the specific sum the lord owes the warlock for services rendered to his grandfather thirty years ago. The lord's steward was sent to negotiate. The steward reached the tower, was admitted, and has been inside for two days. The lord wants to know what is being discussed. The steward's family wants to know if the steward is still the steward.
+
+- **Terrain Types:** Hills, Mountains, Village
 
 > **RESOURCES**
 >
@@ -2388,9 +2746,25 @@ sound of a spellbook opening than at the howl of any wolf.
 - **TALENTS:** Fast Shooter, Arrow, Executioner
 - **TACTICS:** Ambushes from cover, shoots twice, then moves before the return shot comes.
 
-Black-Fletch Archers are assassins, scouts, and border killers. Some are
-elf-trained. Some only wear the look. All of them know how long a man
-waits before he decides the arrow came from the wrong tree.
+Black-Fletch Archers are assassins, scouts, and border killers. The fletching is the mark: black, cut from the tail-feathers of specific birds, sometimes ritual, sometimes merely tradition, always a statement of professional identity. Some are elf-trained and have the patience that implies. Some only wear the look. All of them know how long a man waits before he decides the arrow came from the wrong tree, and they time their next shot to arrive before that decision is made.
+
+They operate alone or in small cells. The black-fletch arrow left at a scene is not always a threat; sometimes it is the fee-notice for a kill already completed, sent to the patron who commissioned it. The arrow in the ash is the invoice.
+
+#### Random Encounter: the Invoice
+
+> _The merchant arrived at the inn with one black-fletched arrow lodged through his saddlebag, fletching-first, point away. He says he does not know what it means._
+
+The merchant is lying. The arrow is the standard fee-notice for a kill already commissioned and completed. Someone hired a Black-Fletch Archer to eliminate a business rival on the road ahead, and the merchant paid half in advance and is now being reminded that the second payment is due. The kill has already happened. The question is whether the adventurers are willing to serve as couriers for the second half, or whether they want to know whose body is waiting on the road ahead.
+
+- **Terrain Types:** Forest, Plains, Hills
+
+#### Random Encounter: the Observation Window
+
+> _Three bodies in the clearing, all shot from the same angle, all through the gap in the right armpit where the arm rises to draw._
+
+A patrol was ambushed at this clearing. All three were shot from the north tree-line before they could respond. The patrol was carrying a sealed message tube. The tube is gone. A Black-Fletch Archer's pattern is to wait and reobserve after a kill to confirm the commission is complete. If the adventurers are identifiable as the patrol's allies, the archer is already watching them.
+
+- **Terrain Types:** Forest, Hills
 
 What they carry is what is left when they fall.
 
@@ -2407,9 +2781,25 @@ What they carry is what is left when they fall.
 - **TALENTS:** Beast
 - **TACTICS:** Uses the beast to knock a target loose from the line, then kills the isolated one.
 
-Clan Hunters live or die by the beast beside them. Hawk, hound, wolf, or
-lean bad-tempered boar, the animal is half their courage and most of
-their plan.
+Clan Hunters live or die by the beast beside them. The pairing is never incidental: a hunter and their animal are trained together and matched by disposition, and the specific animal is a statement of clan affiliation, skill type, and the country they work. A hound hunter is different from a hawk hunter in method and temperament, and a wolf-bonded hunter is different again.
+
+The beast is used to open the engagement: to flush, knock loose, isolate, or terrify the target before the hunter closes. The animal is half their courage and most of their plan, and killing the animal first is the most effective tactic and the most dangerous social move. A Clan Hunter whose beast has been killed is unpredictable in a specific way that is different from ordinary rage.
+
+#### Random Encounter: the Wolf in the Road
+
+> _The wolf is alone on the road. It is not feral. It is waiting for something._
+
+A Clan Hunter's wolf is standing in the road, alone. The hunter is not visible. The wolf is not aggressive; it is oriented toward the wood to the right and waiting. The hunter is in that wood, injured, and has sent the wolf out to find or lead help back. The injury was caused by the quarry the hunter was hired to track, and the quarry is currently between the hunter and the road.
+
+- **Terrain Types:** Forest, Hills, Plains
+
+#### Random Encounter: the Bonded Hawk
+
+> _The hawk circles the village twice every morning, then returns to the old mill. Nobody hired it._
+
+A Clan Hunter died three weeks ago at the mill. The hawk she trained is still alive and still following its trained pattern. The hawk is in perfect condition and worth significant coin to the right buyer, but it is bonded and will attack anyone who approaches the mill without the specific whistle-command the hunter used. No one in the village knows the whistle. The hunter's clan, who have come looking for her, know the whistle but want something in exchange for the information.
+
+- **Terrain Types:** Village, Plains, Forest
 
 What they carry is what is left when they fall.
 
@@ -2426,9 +2816,25 @@ What they carry is what is left when they fall.
 - **TALENTS:** Poison, Fast Footwork
 - **TACTICS:** Opens with a poisoned knife, retreats, and lets fear and venom finish the job.
 
-Cutpurses survive by choosing the wrong sort of fight for someone else.
-They prefer alleys, ferry queues, grain sheds, and crowded inns where a
-single scream can mean three different things at once.
+Cutpurses survive by choosing the wrong sort of fight for someone else. The knife is secondary to the positioning: a cutpurse who has to use the knife has already made an error in the approach. The preferred resolution is that the mark hands over the coin without quite knowing they have decided to, or hands it over knowing exactly what happens if they do not — both options managed in a way that produces no witnesses.
+
+They prefer alleys, ferry queues, grain sheds, and crowded inns where a single scream can mean three different things at once, because ambiguity is the working environment. In a space where everyone is a potential witness, the witness problem solves itself. The poisoned blade is the last resort of the cutpurse who has gotten themselves into a situation that requires resolution rather than extraction.
+
+#### Random Encounter: the Letter in the Purse
+
+> _The purse is gone. So is the letter that was folded inside it. The coin can be replaced._
+
+A merchant had their purse lifted in the market crowd. The coin is a loss they can absorb. The letter inside the purse is not: it contains information about a trade deal that, in the wrong hands, ends the merchant's access to the northern supply route. A cutpurse working the market professionally would not know what they had taken. One working for a specific interest might. The merchant wants the letter back quietly; the cutpurse wants to know who is willing to pay more for it than the merchant.
+
+- **Terrain Types:** Village, Plains
+
+#### Random Encounter: the Ferry Queue
+
+> _The ferry-queue has been moving normally all morning. The man ahead of the party in the queue just slid sideways into the water._
+
+A cutpurse working the ferry queue made a mistake in the approach and the mark responded badly. The cutpurse is now in the water and the mark is on the ferry, holding the recovered purse, and the ferryman is looking at the adventurers as if sorting this out is their problem. The cutpurse in the water is also in possession of two items lifted from people currently on the ferry who do not yet know they are missing something.
+
+- **Terrain Types:** Village, Quagmire, Plains
 
 What they carry is what is left when they fall.
 
@@ -2444,9 +2850,25 @@ What they carry is what is left when they fall.
 - **GEAR:** Short bow, spear, horse
 - **TACTICS:** Stays moving, throws or shoots, then only closes when the victim is off balance.
 
-Horse Warriors belong to open land, long sight, and clan grudges carried
-for generations. On cramped ground they are men. In the open they are a
-weather front.
+Horse Warriors belong to open land, long sight, and clan grudges carried for generations. The horse is not equipment; it is the other half of the fighter. A dismounted Horse Warrior is functional and can be dangerous, but a mounted one is a different order of problem: the speed allows engagement and disengagement without mutual choice, which means they control when the fight happens and when it stops.
+
+They stay moving, throw or shoot, and only close when the target is already off balance. The clan grudge in the name is not metaphor: Horse Warrior bands frequently enforce specific obligations, feuds, or territorial claims established two generations ago and still binding by their people's customs. Understanding what the grudge is about is sometimes the fastest way to understand why they are on this particular road.
+
+#### Random Encounter: the Parallel Riders
+
+> _Four Horse Warriors, riding parallel to the road from the ridge. They have been riding parallel for an hour._
+
+A Horse Warrior band is tracking someone in the party — or believes they are. They are not attacking yet because they are not certain the target is present. The parallel ride is reconnaissance-before-commitment. Someone in the party has something taken from a clan three seasons ago, or resembles someone who does, or is traveling to the settlement where that person was last seen. The band's elder will accept a parley before the commitment decision is made. After the decision it will be too late.
+
+- **Terrain Types:** Plains, Hills
+
+#### Random Encounter: the Sealed Pass
+
+> _The pass is held. Three riders at the top, three at the bottom, and the road goes nowhere else for a day in either direction._
+
+A Horse Warrior band has sealed the pass as a toll road for three days, which is traditional in their clan's custom when moving a herd through. The toll is reasonable by their assessment. The merchant convoy waiting at the bottom disagrees, and one merchant has sent for a road-warden who will arrive with authorization from a lord the Horse Warriors do not recognize as having authority over this pass. The band's leader is aware of the incoming warden and is deciding whether to make an example or make a tactical withdrawal.
+
+- **Terrain Types:** Mountains, Hills, Plains
 
 What they carry is what is left when they fall.
 
@@ -2462,8 +2884,25 @@ What they carry is what is left when they fall.
 - **GEAR:** Bow, dagger, poison phials, smoke pots
 - **TACTICS:** Fires once, blinds the ground, then runs while the poison works.
 
-Poisoners are hunters made mean or assassins made patient. They kill at
-a distance because they know what their own mixtures do to flesh.
+Poisoners are hunters made mean or assassins made patient. The bow and the dagger are secondary; the vial is the weapon. A Poisoner who goes into a fight has already applied the advantage before the first exchange — the question is only whether they can maintain distance long enough for the dosage to express itself.
+
+They know what their own mixtures do to flesh because they have tested them, in the workshop and in the field. The specific compounds vary: contact-fast agents for the arrowhead, slower systemic agents for the blade, smoke-compounds for the ground to cover the retreat. A Poisoner who is cornered becomes a chemistry problem rather than a combat problem.
+
+#### Random Encounter: the Tested Trough
+
+> _The horse died in the night. The water is still in the trough._
+
+A Poisoner tested a trough at the waystation overnight, using a compound that kills large animals quickly and humans slowly. The dose is still in the water. The horse died at midnight. Anyone who has drunk from the trough since then has an accelerating problem. The Poisoner is half a day up the road, having learned what they needed about the compound's speed, and is now on their way to the person who commissioned the test — who is the same person the adventurers were hired to deliver a message to.
+
+- **Terrain Types:** Plains, Village
+
+#### Random Encounter: the Stationary Fog
+
+> _The fog does not move the way weather moves. It sits in the road like a decision._
+
+A Poisoner has deployed a smoke compound in a road choke-point ahead. The smoke is not immediately lethal, but four minutes in it degrades concentration and coordination, and the Poisoner is in the treeline with a bow, waiting for targets that can no longer run straight. The smoke is targeted at a specific person who may or may not be in the party. The Poisoner is not interested in anyone else, but the smoke does not discriminate.
+
+- **Terrain Types:** Forest, Plains, Hills
 
 What they carry is what is left when they fall.
 
@@ -2480,9 +2919,25 @@ What they carry is what is left when they fall.
 - **TALENTS:** Blade, Shield, Charge
 - **TACTICS:** Holds a line, spends Willpower hard, and punishes anyone who assumes a wanderer is half-starved and soft.
 
-This is the hardened adventurer other folk fear meeting in a doorway: a
-veteran of roads, tombs, and losing friends one at a time. They may be
-sell-sword, pilgrim, oath-breaker, or all three.
+This is the hardened adventurer other folk fear meeting in a doorway. The gear shows it: mail repaired too many times to be proud of, a sword sharpened down past the original geometry, the particular economy of movement of someone who has learned that every motion costs something and is now selective about what they spend. Veteran of roads, tombs, and losing friends one at a time.
+
+They may be sell-sword, pilgrim, oath-breaker, or all three, and which one they currently are tends to determine how they approach the first conversation. A sell-sword wants to know who is paying. A pilgrim wants to know which direction the shrine is. An oath-breaker wants to know if anyone in the party is from the place they are running from. The answer to one of these questions is almost always complicated.
+
+#### Random Encounter: the Released Champion
+
+> _The figure sitting on the stone bridge does not move when the party approaches. It is not asleep._
+
+A Road Champion is waiting on the bridge for the employer who was supposed to arrive three days ago and has not. The contract has a clause: if the employer does not make contact by a specified date, the Champion is released from the obligation but also released from the non-interference clause covering the employer's rivals. The employer's rivals are the party's employer. The date is today.
+
+- **Terrain Types:** Plains, Hills
+
+#### Random Encounter: the Occupied Room
+
+> _The inn has one room. It is taken. The person who took it has not come out in two days._
+
+A Road Champion has locked themselves in the inn's single good room and will not come out. They are reading a contract they were given three weeks ago and have not been able to act on because every time they try, the situation changes. The contract is for the elimination of a specific person, and that person walked into the inn's common room this morning and sat down at the fire. The Road Champion is deciding whether the terms still apply, because the contract specifies the circumstances, and the circumstances now include witnesses.
+
+- **Terrain Types:** Village, Plains
 
 What they carry is what is left when they fall.
 
@@ -2499,9 +2954,25 @@ What they carry is what is left when they fall.
 - **TALENTS:** Defender, Shield Fighter
 - **TACTICS:** Baits attacks, shoves foes prone, and grinds down anyone who cannot get around the shield.
 
-A Shield Knight is a road-lord's wall made flesh. They are worth fearing
-in a gate, on a stair, or at the mouth of a bridge where there is no
-room to be clever.
+A Shield Knight is a road-lord's wall made flesh. The equipment is the job: the large shield is not a defensive tool that happens to be available, it is the primary weapon, used to shove, pin, brace, and funnel opponents into positions where the flail does its work without interference. The shield comes first. The man behind it after.
+
+They are worth fearing in a gate, on a stair, or at the mouth of a bridge where there is no room to be clever. On open ground, flanked and surrounded, they are difficult but can be gotten around. In any choke-point where the geometry forces opponents into single-file, a Shield Knight is effectively an obstacle, and obstacles require different tools than fighters do.
+
+#### Random Encounter: the Gate Accounting
+
+> _The gate is open. The Shield Knight standing in it is not blocking it; they are occupying it, which is different._
+
+A Shield Knight has been posted at the village gate on behalf of a landlord conducting an enforcement visit. The landlord's agent is inside reviewing account books that do not show the numbers the landlord was told. The Shield Knight is not stopping people from entering. They are stopping people from leaving before the accounting is finished. Two merchants with full carts and a tanner with hides are attempting to explain why their departures are routine and not suspicious.
+
+- **Terrain Types:** Village, Plains
+
+#### Random Encounter: the Tower Stairs
+
+> _The staircase in the old tower is wide enough for one person. The Shield Knight at the bottom of it has been there since dawn._
+
+A Shield Knight has been hired to hold the ground floor of a contested tower while the client establishes occupancy above. The tower is disputed property: three parties have claims, none with current settlement. The Shield Knight is executing the contract without preference. One of the claimants is offering more than the original contract. The company's policy on mid-contract renegotiation is clear. The Shield Knight's personal view on the policy is not.
+
+- **Terrain Types:** Ruins, Village, Hills
 
 What they carry is what is left when they fall.
 
@@ -2519,9 +2990,25 @@ What they carry is what is left when they fall.
 - **GEAR:** Short spear, small shield, studded leather
 - **TACTICS:** Works in pairs, shoves first, then pins with spear and shield together.
 
-Town Guards are seldom brave in the open. Behind a gate, on a wharf, or
-with ten of their own at heel, they are another matter. Most of them are
-less loyal than they sound and more frightened than they look.
+Town Guards are seldom brave in the open. An individual guard separated from the formation is a man in a leather coat with a spear he has not used this year. Ten of them at a gate with the sergeant watching is a different proposition. Their effectiveness scales with numbers and structure; remove either and the calculation changes.
+
+Most of them are less loyal than they sound and more frightened than they look. The standing orders make them sound resolute and the uniform makes them look official. What the uniform does not show is that most of them have a family in the town, earn what a laborer earns, and have not been paid for three weeks because the town treasurer has been in dispute with the garrison-master since last autumn. A guard who has not been paid and is being asked to enforce an order they do not understand will generally find a way to be somewhere else.
+
+#### Random Encounter: the Sealed Gate
+
+> _Six guards at the gate. The gate is normally unguarded._
+
+Six Town Guards are posted at the gate that is normally open and unstaffed. The reason given is orders from the council. The guards are not sure what the order is about, because the sergeant explained it using a phrase that can be interpreted two ways and then left before questions were asked. Someone entering the town was just turned away, and they seem more relieved than upset about it, which is unusual.
+
+- **Terrain Types:** Village, Plains
+
+#### Random Encounter: the Wrong Direction
+
+> _The guard at the bridge post is awake, alert, and looking in the wrong direction._
+
+A Town Guard has been posted to watch for something specific coming from the south. He has not been told what, only that it is coming from the south and he should call out when he sees it. He is therefore watching south, which means he has not noticed the six armed travelers who came up from the east an hour ago and are camped under the bridge's north arch. The adventurers can see both the guard and the campers. The guard cannot see the campers. The campers have noticed the adventurers.
+
+- **Terrain Types:** Village, Plains, Quagmire
 
 What they carry is what is left when they fall.
 
@@ -2537,8 +3024,24 @@ What they carry is what is left when they fall.
 - **GEAR:** Staff, herbs, charms
 - **TACTICS:** Weakens the party, heartens allies, and lets others do the killing.
 
-Wise-Hands are hedge priests, apprentice shamans, and spirit-speakers on
-the edge of real power. The clever ones never stand in front of their
-own curses.
+Wise-Hands are hedge priests, apprentice shamans, and spirit-speakers on the edge of real power. The distinction between a Wise-Hand and a village herbwoman is in what they will admit to knowing: the herbwoman heals and does not explain why; the Wise-Hand heals and explains more than is comfortable. The distinction between a Wise-Hand and a full practitioner is in how much the spirits listen, and that distinction narrows with time and practice.
+
+The clever ones never stand in front of their own curses. They weaken the opposition, hearten allies, and let others do the killing. The staff and the charms are real tools, not theater — the theater is for the people who need to see something in order to believe in it, and theater applied at the right moment to the right target is as effective as a weapon.
+
+#### Random Encounter: the Timely Arrival
+
+> _The Wise-Hand at the crossroads is selling cures. Three people have died in the village this month and three more are sick. The Wise-Hand arrived eight days ago._
+
+The Wise-Hand is not causing the illness; she arrived after it started. But the timing is suspicious, the cures she sells have worked in two cases and failed in one, and the village elder is increasingly certain she knows what is actually causing the problem and is monetizing both the diagnosis and the treatment. The elder may be right. The Wise-Hand may also be the only person within three days' travel who can actually solve it.
+
+- **Terrain Types:** Village, Plains, Forest
+
+#### Random Encounter: the Stopped Ambush
+
+> _The warcry that stopped the ambush was not human. The person who made it is sitting quietly by the fire._
+
+The party's camp was approached by six armed men last night and the attack stopped before it reached them: something in the dark made a sound that caused three of the attackers to drop their weapons and run, and the other three to negotiate. The Wise-Hand who was sitting by the party's fire has not explained what she did. She has asked only if anyone needs healing. The attackers who ran have not come back, which is unusual — men who break in a panicked retreat usually recover within the hour.
+
+- **Terrain Types:** Forest, Plains, Hills
 
 What they carry is what is left when they fall.

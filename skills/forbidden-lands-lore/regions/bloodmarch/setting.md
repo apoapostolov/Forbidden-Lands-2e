@@ -404,6 +404,7 @@ demons. Blue Tar combined with holy fire grants +2 total.
 Tar heated on Have's holy fire cures it completely.
 
 **Other uses:**
+
 - Makes Horn's Astra glow briefly when smeared on them.
 - Required to claim Astra ownership (see Blue Blood).
 - Fuels the mechanical horse Witherbeam.

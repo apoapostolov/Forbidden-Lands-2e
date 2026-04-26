@@ -43,15 +43,19 @@ Underground Caprid dwarf city under the Firelands. Built
 on basalt, heated from below, carved from volcanic rock.
 Surface access is through reinforced shafts with heavy
 gates. Visitors are processed at the gate and escorted.
-The Caprids do not let outsiders wander freely.
+The Caprids do not let outsiders wander freely. The city
+is hot enough year-round that surface travelers arriving
+in winter armor will be sweating before they reach the
+main residential level. See `kin.md` for physical detail.
 
 ### The Wailing
 
 A narrow canyon complex in the east. The wind through
-the canyon makes a constant sound. Wolfkin territories
-predominantly — several permanent Umbra observation posts
-along the canyon rim. The canyon has its own echo
-properties that make it navigable by sound alone at night.
+the canyon produces a low continuous moan, audible before
+the canyon is visible. Wolfkin territories predominantly —
+several permanent Umbra observation posts along the canyon
+rim. The canyon has its own echo properties that make it
+navigable by sound alone at night.
 
 ### Kreysel
 
@@ -155,6 +159,15 @@ and Jagra's — are openly run by different people but
 secretly controlled by the same man, Captain Brock, who
 profits from keeping them competing.
 
+The smell of Taregyll comes before the sight of it. The
+Stream of Galme carries sulfur out of the canyon; the
+coal mill and tar distilleries add their smoke on top.
+The town has no walls. It is a loose line of structures
+on either side of the Galme, growing back from the pass
+mouth as far as the land allows. The Silent Tower is
+the tallest structure and visible from every part of
+the settlement.
+
 Key locations: House of the Dead (Egressor Kurmena),
 Fire Temple of Have (Ansika), Horn priest Strunde's lava
 vent chapel, Father's Pocket (a banking and storage
@@ -188,6 +201,14 @@ continuously by three unnamed vazuls under the supervision
 of the high priests Liklaudos and Prunofilia. They do not
 charge for its use against genuine Crimson Sickness; they
 do charge for other uses.
+
+**The blue flame:** It does not change color regardless
+of what is added to it. Bodies, wood, tar, and metal all
+burn blue or do not catch at all. The blue tar smoke has
+tinted the inner temple's stone ceiling and upper walls
+a deep gray over the years. The smell penetrates clothing;
+visitors carry it out for days. The three vazuls who tend
+the flame do not speak during their watch.
 
 ### Salterstay
 
@@ -255,6 +276,17 @@ passageways. The mound holds tons of pure metallic gold.
 The settlement is now gripped by discord and forced calm
 — everyone maintains a strained normalcy to keep the
 secret from strangers. The atmosphere is tense.
+
+The guelder rose for which the settlement is named has
+had two years to spread into every gap in the stonework
+and run wild across the surrounding ground. The burial
+mound itself is large — sixty or seventy meters across
+the base, heavily overgrown. Long-house structures are
+built into its southern face using the mound's earth as
+wall insulation. A careful visitor will identify the
+hospitality as artificial: too precise, too offered,
+conversations that stop and restart when a stranger comes
+within earshot.
 
 **Elder Korlo** enforces strict secrecy; the penalty for
 stealing gold is the loss of a hand and the tongue.

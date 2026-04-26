@@ -151,6 +151,28 @@ The elders say you are the dark brothers of the halflings. Like you give a shit!
 
 ## PROFESSION
 
+### CHAMPION
+
+_You have given your sword to something greater than yourself. A vow binds you tighter than iron — tighter than sense. Where others weigh the odds and hesitate, you act. Where others break, you hold. The cause is everything. Faith, bloodline, a dying king's last command — the particulars differ. What matters is the oath. You swore, and you keep what you swear. You are a Champion._
+
+- **KEY ATTRIBUTE**: Strength
+- **SKILLS**: Melee, Might, Move, Endurance, Survival
+- **TYPICAL NICKNAMES**: Oathsworn, the Triumphant, Fate's Hand
+- **PRIDE**: Choose an option below or create your own:
+  - You never break a promise.
+  - You allow no one who mocks your god to go unpunished.
+  - You stand firm where others run.
+- **DARK SECRET**: Choose an option below or create your own:
+  - You once betrayed your vow and will not rest until you have made amends.
+  - You hold yourself to standards you know you will never meet.
+  - A nemesis challenged you to a duel. You fled, knowing you would lose.
+- **RELATIONSHIPS**: Choose an option below or create your own:
+  - ... needs your protection.
+  - ... must be shown the right path and drawn into the cause.
+  - ... stands in the way of your vow and must be moved.
+- **GEAR**: A one-handed weapon of your choice, studded leather armor, closed helmet, small shield, one item of your choice from the list of trade goods, 2D6 Copper.
+  - **Resource Dice**: Torches D6, Food D8, Water D8
+
 ### DRUID
 
 _Ever since the god Clay shaped the world, you and the brothers and sisters of your order have been tasked with safeguarding nature. You maintain the balance of the world. Your hand can be gentle or cruel, depending on what the situation requires, but you always act with respect and exercise judgment. You hold the forces of nature in your hands - the earth, the weather, the plants and the animals all listen to your voice. You are a Druid._

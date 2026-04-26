@@ -120,6 +120,7 @@ the condition is met. What it contains is the central
 mystery of the Legacy of Horn campaign.
 
 Public knowledge:
+
 - The Stonechest is described in all five clan traditions
   as a promised object.
 - Gathering the Astra is described as both a possibility
@@ -139,6 +140,7 @@ oldest book in Aslene, dating to the time the horse clans
 first arrived from the Drawn Lands.
 
 **Public knowledge:**
+
 - Believed to define the horse clans' founding mission.
 - Said to explain why the route back to the Drawn Lands
   is blocked by a fierce hurricane in Kreysel.
@@ -175,6 +177,7 @@ legendary by outsiders; the Caprids treat it as a known
 construction, if an extraordinary one.
 
 **Public knowledge:**
+
 - Witherbeam is real.
 - It runs on Blue Tar fuel.
 - It is of Caprid manufacture — the craftsmanship is
