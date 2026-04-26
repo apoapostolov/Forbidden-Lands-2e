@@ -1,0 +1,4 @@
+markdownlint-cli2 v0.22.1 (markdownlint v0.40.0)
+Finding: temp-work/ravens-purge/01. Raven's Purge.md temp-work/bitter-reach/03.1. The Bitter Reach.md temp-work/bloodmarch/05.1. The Bloodmarch.md
+Linting: 3 file(s)
+Summary: 0 error(s)

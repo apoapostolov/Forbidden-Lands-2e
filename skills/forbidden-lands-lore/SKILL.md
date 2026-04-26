@@ -152,6 +152,39 @@ Non-spoiler content (public legends, location descriptions,
 faction structures, geography) can be shared freely without
 asking.
 
+## Expansion Regions
+
+An expansion region is a neighboring country with its own kin,
+geography, religions, magic traditions, terrain rules, and
+creatures. Its content is **entirely self-contained** in its
+own campaign file — nothing from an expansion region merges
+into the `/references/` files. This is because most Forbidden
+Lands stories do not involve these regions; loading expansion
+content by default would pollute the core world reference.
+
+**Loading rule:** Load an expansion region file only when the
+user explicitly asks about that region, its creatures, its kin,
+or its campaign. Do not load it for general Forbidden Lands
+queries, Ravenlands lore checks, or Raven's Purge questions.
+
+**Spoiler rule:** Expansion region spoilers follow the same
+protocol as campaign spoilers above. Ask before reading any
+section marked ⚠️ SPOILER.
+
+- `campaigns/bloodmarch.md`
+  Full reference for **The Bloodmarch** (Aslene) by Erik
+  Granström. Scope: entirely new region west of Ravenland.
+  New kin (horse clans, Vasnians, Caprids, red elves, moon elves,
+  grargs), new terrain types (Ashlands, Firelands, Crimson
+  Forest), new magic traditions (Magma Song, Mentalism,
+  Oneiromancy, Magnetism), new creatures, new gods. Campaign:
+  **Legacy of Horn** — competing factions race to collect five
+  sacred Astra and determine who controls the Bloodmarch. Key
+  players: Selligar Horne, Poansa Moulter, Colonel Grudenstaal,
+  Fiena Fromelei, The Seventh, Vinhelm Kaal, Konana, Vaerefor
+  Van Reiben, the Dreamstress, Octomadria. Access via Shadowgate
+  Pass (opened after events of Raven's Purge).
+
 - `skills/forbidden-lands-bestiary/SKILL.md` — encounter design
   mandate, the seven encounter shapes, the Resources mandate,
   statblock format. **Load alongside this skill** when writing

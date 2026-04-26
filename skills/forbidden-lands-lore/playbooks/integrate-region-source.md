@@ -3,7 +3,9 @@
 Use this playbook whenever a new sourcebook, regional supplement,
 or campaign module is being absorbed into the lore skill's
 reference files. The Raven's Purge integration (pass 1–3 across
-two sessions) is the canonical example of this workflow.
+two sessions) is the canonical example for Ravenlands campaigns.
+The Bloodmarch integration is the canonical example for expansion
+regions.
 
 ---
 
@@ -13,24 +15,38 @@ two sessions) is the canonical example of this workflow.
 
 1. Does this source cover a new region not yet in `places.md`, or
    does it extend the existing core Ravenlands?
-2. Does it introduce a campaign with spoilable plot content, or
+2. **Is this an expansion region** — a neighboring country distinct
+   from the Ravenlands with its own kin, geography, gods, and magic?
+   Or is it a campaign set **within** the core Ravenlands?
+3. Does it introduce a campaign with spoilable plot content, or
    is it purely setting expansion?
-3. Is the text clean for reading, or is it an OCR scan / rough
+4. Is the text clean for reading, or is it an OCR scan / rough
    draft that requires interpretation?
 
+**This answer to question 2 determines the entire workflow.**
+If the source is an expansion region, follow the Expansion Region
+workflow below. If it is a Ravenlands campaign, follow the Core
+Ravenlands Campaign workflow.
+
 If the source contains a campaign (spoilable plot content),
-a campaign file is required. If it is purely setting expansion
-(new region, new kin detail, new historical period), reference
-files only.
+a campaign file is required regardless of type. If it is purely
+setting expansion with no plot secrets, reference files only.
 
 ---
 
-## Step 1 — Create the Campaign File (if applicable)
+## WORKFLOW A: Core Ravenlands Campaign
+
+Use when the source covers territory **within** the existing
+Ravenlands. Examples: Raven's Purge, any adventure site in
+Harga or Weatherstone.
+
+### A1 — Create the Campaign File (if applicable)
 
 Create `campaigns/<source_slug>.md` before reading the source.
 
-The campaign file is the spoiler container. Everything that would
-ruin discovery for a player goes here, never into `references/`.
+The campaign file is the **spoiler container**. Everything that
+would ruin discovery for a player goes here, never into
+`references/`.
 
 **Campaign file structure:**
 
@@ -75,21 +91,10 @@ in SKILL.md.]
 ### Campaign Outcome Paths
 ```
 
-Wire the campaign file into `SKILL.md` under the **Campaign Files**
-section using the same format as `ravens_purge.md`.
+Wire the campaign file into `SKILL.md` under **Campaign Files**
+using the same format as `ravens_purge.md`.
 
----
-
-## Step 2 — First Pass: Systematic Structural Extraction
-
-**Goal:** Get all major world-building content into the reference
-files. Work through the source in order, section by section.
-
-**Read method:** Read the source in chunks of 200–400 lines.
-After each chunk, write additions before moving to the next.
-Do not batch all reading before writing — context overflows.
-
-**Triage rule for every fact:**
+### A2 — Three Passes: Ravenlands Triage Destinations
 
 | Fact type | Destination |
 |---|---|
@@ -101,94 +106,11 @@ Do not batch all reading before writing — context overflows.
 | Monster origin, ecology, cultural integration | `references/bestiary.md` |
 | Setting facts (currency, factions, world state) | `references/setting.md` |
 | Artifact true powers, NPC secret agendas, plot twists | Campaign file SPOILER SECTION |
-| Campaign-specific mechanics or statblocks | Campaign file |
+| Campaign-specific mechanics or statblocks | Campaign file SPOILER SECTION |
 
-**Spoiler triage test:** Ask — *"Would knowing this fact before
-play ruin a discovery, a twist, or a reveal?"* If yes, it is a
-spoiler. If it reads like something a knowledgeable NPC might
-tell the players over beer, it is not a spoiler.
+### A3 — Wiring Audit
 
-**After the first pass:** Run a grep-audit to verify key proper
-nouns from the source now appear in the reference files. Spot-check
-five to ten names from each major section.
-
----
-
-## Step 3 — Second Pass: Lore Depth Audit
-
-**Goal:** Catch interesting world-building details missed in the
-structural pass — things that inspire new scenarios, deepen
-faction complexity, or add regional character.
-
-**What to look for:**
-
-- Named individuals with interesting roles not yet in `kin.md` or
-  `history.md`
-- Faction tensions, grudge structures, political angles not yet
-  in `places.md`
-- Ecological or environmental detail that makes a region feel
-  distinct
-- Creature behaviors and cultural relationships not yet in
-  `bestiary.md`
-- Artifact provenance gaps — physical description, current holder,
-  contested history
-- Historical events that reframe known facts
-
-**Method:** Re-read the source at higher speed with these
-categories in mind. When a missed detail is found, write it
-immediately into the appropriate reference file before continuing.
-Do not queue a list for later; write as you find.
-
-**After the second pass:** The reference files should now be dense
-enough to support scenario creation from scratch. A GM using only
-the skill (without the source) should be able to run a session in
-any named location without obvious gaps.
-
----
-
-## Step 4 — Third Pass: Small-Detail Texture Pass
-
-**Goal:** Capture small curiosities, cultural flavor, sensory
-material, village life texture, and atmospheric location detail
-that does not rise to the level of major lore but makes prose
-and worldbuilding feel lived-in.
-
-**What to look for:**
-
-- Morning routines, domestic customs, food habits
-- Specific insults, slang terms, named games or pastimes
-- Eccentric NPC behaviors that reveal character
-- Sensory anchors: what a location smells like, sounds like,
-  what is on the floor
-- Small rituals — what people do before a battle, at a shrine,
-  at a market
-- Ecological behaviors: how creatures hunt, court, feed, or rest
-- Workshop and craft details: what specific tools or materials
-  look like, how processes work
-- Architectural or environmental peculiarities that distinguish
-  one site from another
-
-**These details go into:**
-- `references/kin.md` — cultural texture under the relevant kin
-  or clan subsection
-- `references/places.md` — appended to the named location entry
-- `references/bestiary.md` — appended to the creature entry
-- `references/artifacts.md` — expanded into the mechanical hint
-  block for physical appearance
-
-**Anti-pattern:** Do not write third-pass texture into new
-top-level sections. Append to existing entries. The texture
-should be invisible — readers should feel the file got richer,
-not longer.
-
-**After the third pass:** The reference files should be capable
-of producing first-draft prose without consulting the source.
-
----
-
-## Step 5 — Wiring and Cross-Reference Audit
-
-1. Confirm the campaign file is listed in `SKILL.md`
+1. Confirm campaign file is listed in `SKILL.md`
 2. Confirm `references/places.md` has entries for every named
    location from the source
 3. Confirm `references/history.md` has entries for all new
@@ -196,10 +118,155 @@ of producing first-draft prose without consulting the source.
 4. Confirm all cross-references inside reference files that
    mention campaign content say *"See `campaigns/<slug>.md`"*
    for spoilable facts
-5. Run markdownlint on changed files:
-   ```
-   npx markdownlint-cli2 "skills/forbidden-lands-lore/**/*.md"
-   ```
+
+---
+
+## WORKFLOW B: Expansion Region
+
+Use when the source covers a **neighboring country distinct from
+the Ravenlands** with its own kin, geography, gods, and magic
+system. Examples: The Bloodmarch (Aslene), The Bitter Reach
+(northern tundra).
+
+**Core rule:** Nothing from an expansion region enters
+`references/`. The `/references/` files describe the Ravenlands
+only. All expansion region content lives under
+`regions/<slug>/`.
+
+### B1 — Create the File Structure
+
+Before reading the source, create two things:
+
+**1. The regions directory:**
+
+```
+regions/
+  <slug>/
+    setting.md    — world state, terrain, magic, drugs, potions
+    kin.md        — all kin native and immigrant to the region
+    history.md    — full chronology from prehistory to present
+    gods.md       — all gods, orders, and religious practices
+    bestiary.md   — creature lore, ecology, cultural integration
+    artifacts.md  — named artifacts (legend + public knowledge only)
+    places.md     — sub-regions, named locations, adventure sites
+```
+
+Canonical example: `regions/bloodmarch/`
+
+**2. The campaign file (if the source includes a campaign):**
+
+`campaigns/<slug>.md` — the **spoiler container only**.
+It should not repeat non-spoiler lore from `regions/<slug>/`.
+Its structure:
+
+```markdown
+# [Region Name] — Campaign File
+
+**Lead Writer:** [Author]
+**Campaign:** [Campaign name]
+**Type:** Expansion Region
+
+---
+
+## Region References
+
+Non-spoiler lore for [Region Name] is organized in
+`regions/<slug>/`. Load the appropriate file when the user
+asks about the region, its kin, its history, etc.
+
+- `regions/<slug>/setting.md` — [brief scope description]
+- `regions/<slug>/kin.md` — [brief scope description]
+- `regions/<slug>/history.md` — [brief scope description]
+- `regions/<slug>/gods.md` — [brief scope description]
+- `regions/<slug>/bestiary.md` — [brief scope description]
+- `regions/<slug>/artifacts.md` — [brief scope description]
+- `regions/<slug>/places.md` — [brief scope description]
+
+This file contains only spoiler content.
+
+---
+
+## Spoiler Handling Protocol
+
+[Standard gate — see SKILL.md]
+
+## ⚠️ SPOILER SECTION
+
+### True Powers and Mechanics of Campaign MacGuffins
+### Key Players — True Agendas and Secret Goals
+### Ancient History / World Revelation
+### Campaign Phases
+### Adventure Site Secrets
+### Campaign Outcomes
+```
+
+Wire the campaign file into `SKILL.md` under **Expansion Regions**
+(not under Campaign Files). Wire each `regions/<slug>/` file
+into the appropriate listing in SKILL.md.
+
+### B2 — Three Passes: Expansion Region Triage Destinations
+
+| Fact type | Destination |
+|---|---|
+| World state, climate, access routes, terrain mechanics | `regions/<slug>/setting.md` |
+| New terrain types and their journey rules | `regions/<slug>/setting.md` |
+| New magic traditions (full spell lists) | `regions/<slug>/setting.md` |
+| Drugs, potions, unique substances with mechanics | `regions/<slug>/setting.md` |
+| Kin culture, clan names, customs, named individuals | `regions/<slug>/kin.md` |
+| New kin or sub-kin native to the region | `regions/<slug>/kin.md` |
+| Historical events, named figures, dates | `regions/<slug>/history.md` |
+| Gods, religious orders, rituals | `regions/<slug>/gods.md` |
+| Named artifacts (public legend and location only) | `regions/<slug>/artifacts.md` |
+| Monster origin, ecology, cultural integration | `regions/<slug>/bestiary.md` |
+| Sub-regions, named locations, adventure site overviews | `regions/<slug>/places.md` |
+| Artifact true powers, NPC secret agendas, plot twists | `campaigns/<slug>.md` SPOILER SECTION |
+| Campaign mechanics, phase structure, outcome paths | `campaigns/<slug>.md` SPOILER SECTION |
+
+**Spoiler triage test:** Ask — *"Would knowing this fact before
+play ruin a discovery, a twist, or a reveal?"* If yes, it is a
+spoiler. If it reads like something a knowledgeable NPC might
+tell the players over beer, it is not a spoiler.
+
+### B3 — Three-Pass Execution
+
+Each pass applies to all seven `regions/<slug>/` files. Do not
+batch all reading before writing — context overflows. Write to
+the appropriate file after each read chunk.
+
+**Pass 1 — Structural Extraction:** Get all major world-building
+content into the appropriate region files. Work through the source
+in chunks of 200–400 lines. After each chunk, write before moving
+on. After the pass: grep-audit five to ten key proper nouns from
+each major section to verify coverage.
+
+**Pass 2 — Lore Depth Audit:** Re-read at higher speed looking
+for named individuals not yet in `kin.md`, faction tensions not
+yet in `places.md`, ecological detail not yet in `bestiary.md`,
+and artifact provenance gaps. Write immediately when found.
+After the pass: a GM using only the skill files should be able
+to run a session in any named location without obvious gaps.
+
+**Pass 3 — Texture Pass:** Capture cultural flavor, sensory
+anchors, domestic customs, eccentric NPC behaviors, ecological
+behaviors, and architectural peculiarities. Append to existing
+entries; do not create new top-level sections. After the pass:
+the files should be capable of producing first-draft prose without
+consulting the source.
+
+### B4 — Wiring and Cross-Contamination Audit
+
+1. Confirm all seven `regions/<slug>/` files are referenced in
+   `SKILL.md` under the correct expansion region entry
+2. Confirm `campaigns/<slug>.md` is listed under **Expansion
+   Regions** in `SKILL.md` (not under Campaign Files)
+3. Verify that no expansion-region content has leaked into any
+   `references/` file — run a grep for the region's key proper
+   nouns against all `/references/*.md` files
+4. Confirm all cross-references inside `regions/<slug>/` files
+   that touch spoilable facts say *"See `campaigns/<slug>.md`"*
+5. Run markdownlint on all new and changed files
+
+---
 
 ---
 
@@ -220,13 +287,142 @@ not committed to the repo.
 
 ---
 
+## Expansion Region vs. Core Ravenlands Campaign: The Critical Split
+
+The most important decision before absorbing any source is whether
+the material is a **core Ravenlands campaign** or an **expansion
+region**. The workflow is different and the files they touch are
+different.
+
+### Core Ravenlands Campaign
+
+A campaign set entirely within the existing Ravenlands geography.
+Examples: Raven's Purge, any adventure set in Harga, Weatherstone,
+or the Rift.
+
+- **Non-spoiler lore** (geography, kin detail, historical events)
+  flows into the standard `/references/` files.
+- **Spoiler content** (NPC true agendas, artifact powers, plot
+  twists, adventure site secrets) lives in the campaign file's
+  SPOILER SECTION.
+- The campaign file serves primarily as the spoiler container;
+  most world-building content belongs in `/references/`.
+
+### Expansion Region
+
+A campaign or source set in a neighboring country that is **not
+part of the core Ravenlands**. Examples: The Bloodmarch (Aslene),
+The Bitter Reach (northern tundra), Alderland.
+
+- **All content** — geography, kin, gods, magic traditions,
+  creatures, drugs, terrain types, adventure sites, and campaign
+  mechanics — lives **entirely in the campaign file**.
+- **Nothing from an expansion region** merges into the
+  `/references/` files. The references describe the Ravenlands
+  only.
+- The campaign file is self-contained: the full non-spoiler
+  region lore AND the spoiler campaign content are both here.
+- The file begins with a clear header identifying it as an
+  expansion region and defining when it should be loaded.
+
+**Expansion region file structure:**
+
+```markdown
+# [Region Name] — Expansion Region Reference
+
+**Lead Writer:** [Author]
+**Published:** [Publisher, year]
+**Region Type:** Expansion Region — [one-line geographic description]
+**Campaign:** [Campaign name]
+
+---
+
+## What Is an Expansion Region?
+
+[Define the region's relationship to the Ravenlands. Define
+when this file should be loaded vs. when it should not be loaded.]
+
+## Region Overview (non-spoiler)
+
+[History, geography, climate, access routes, current situation]
+
+## Terrain Types (non-spoiler)
+
+[Any new terrain types and their journey rules]
+
+## Regions (non-spoiler)
+
+[All named sub-regions]
+
+## Kin of the Region (non-spoiler)
+
+[All kin, native and immigrant, with cultural notes]
+
+## Gods and Religion (non-spoiler)
+
+[All gods and religious orders native to the region]
+
+## New Magic Traditions (non-spoiler)
+
+[Full spell lists with descriptions]
+
+## Drugs and Potions (non-spoiler)
+
+[Any unique substances with mechanics]
+
+## Bestiary (non-spoiler)
+
+[Lore for all creatures; their origins, behaviors, ecology]
+
+## Adventure Sites (non-spoiler overview)
+
+[What the sites are; what they look like from outside;
+what travelers know of them. No internal secrets.]
+
+## Campaign MacGuffin Overview (non-spoiler)
+
+[What the key campaign objects are, publicly. No true powers.]
+
+---
+
+## ⚠️ SPOILER SECTION
+
+[Full spoiler gate. Ask the user before proceeding.]
+
+### MacGuffin True Powers and Mechanics
+### Key Players — True Agendas and Secret Goals
+### Ancient History / World Revelation
+### Campaign Phases
+### Adventure Site Secrets
+### Campaign Outcomes
+```
+
+**Loading rule for expansion regions:**
+
+After creating the file, add it to `SKILL.md` under
+**Expansion Regions** (not under Campaign Files). The entry
+must specify that the file loads only when the user explicitly
+asks about that region.
+
+**Cross-contamination check:**
+
+After creating an expansion region file, verify that no
+expansion-region fact has been accidentally written into
+any `/references/` file. The skill should be able to answer
+a general Forbidden Lands question without pulling any
+expansion region content.
+
+---
+
 ## New Region vs. Campaign Overlap: Decision Points
 
 | Situation | Action |
 |---|---|
 | Source covers only new geography with no ongoing campaign plot | No campaign file needed; reference files only |
+| Source is an expansion region (new independent country) | Full content in expansion region campaign file; nothing in `/references/`; add under Expansion Regions in SKILL.md |
 | Source covers an area with intersecting campaign plot (e.g. Bitter Reach events affect Ravenlands) | Create campaign file; add geography to `references/places.md` under the appropriate region section |
-| Source introduces new kin or sub-kin | Add to `references/kin.md`; add statblock anchor |
+| Source introduces new kin or sub-kin **native to the Ravenlands** | Add to `references/kin.md`; add statblock anchor |
+| Source introduces new kin or sub-kin **native to an expansion region** | Add to expansion region campaign file only |
 | Source retcons or contradicts an existing reference file entry | Flag the conflict, note both versions with source attribution, do not silently overwrite |
 | Source covers history that predates the existing chronology | Insert into `references/history.md` in the correct date-ordered position |
 
@@ -237,6 +433,7 @@ not committed to the repo.
 `campaigns/<region-or-title-slug>.md`
 
 Examples:
+
 - `campaigns/ravens_purge.md` — Raven's Purge (Ravenlands)
 - `campaigns/bitter_reach.md` — The Bitter Reach expansion
 - `campaigns/bloodmarch.md` — The Bloodmarch supplement
