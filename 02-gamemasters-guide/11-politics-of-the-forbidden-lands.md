@@ -636,7 +636,7 @@ Most assets roll normal d6s. Their rating tells you how many dice they contribut
 | **2** | **2D6** | a fortified bridgehead, a trusted steward network, **Sound Treasury**, **Working Labor**, **Company Retainers**, or a good shrine whose word still bites |
 | **3** | **3D6** | a strong convoy system, a hard local garrison, **Deep Treasury**, **Heavy Labor**, **Strong Garrison**, or a well-kept chain of signal posts |
 | **4** | **4D6** | a sworn circle of spellcasters, a famed relic, a veteran mercenary company under paid retainer, or a fortress-complex that dominates a district |
-| **5** | **5D6** | the Crown of Five Elven Rubies, a captured monster kept as a weapon, a daemon gate under command, or some other campaign-defining instrument of rule |
+| **5** | **5D6** | a fortress-city treasury under one hand, a blood-sworn war host, a relic fleet that rules the only crossing, or some other campaign-defining instrument of rule |
 
 If an advantage is useful but not overwhelming, rate it at **1**. Ratings **4** and **5** should be rare and named. They are not background conveniences. They are reasons other powers change their plans.
 
@@ -652,6 +652,8 @@ When an act would benefit from Treasury or Stores alone, use these fallback rati
 ### Ascendancy Dice
 
 For overwhelming advantages that do more than add weight, use an **Ascendancy Die**. This replaces one d6 in the roll with a larger die. Use it for miracles, throne-claims backed by unquestioned symbols, world-defining relics, ancient gates, or any edge so large that ordinary asset dice undersell it.
+
+Good Ascendancy examples include the **Crown of Five Elven Rubies** when its sight alone can settle succession, a **captured monster kept as a weapon** and driven before the host, a relic that makes one bloodline incontestable, or a daemon gate that is truly held under command rather than merely discovered.
 
 An Ascendancy Die is not an asset. A faction may use both one asset source and one Ascendancy Die on the same roll. A named Ascendancy can be invoked only **once per Season Turn**.
 
@@ -690,7 +692,14 @@ Do not roll just because a faction exists. Roll when another will, another short
 
 Factions may push rolls when a ruler wants the result more than the health of the thing being spent to get it. When a faction pushes:
 
-**Banes on base dice** damage the relevant pillar. **Banes on asset dice** reduce that asset's rating by 1 instead: a bridge wrecked by haste, a priest alienated, a steward compromised, a hostage mishandled, a contract broken, a chained monster wounded, or a settlement turned cold. If an asset falls to **0**, it is no longer useful until it is repaired, renewed, recaptured, or replaced in the fiction.
+**Banes on base dice** follow the ordinary push rule and damage the relevant pillar only on a pushed roll.
+
+**Asset dice are narrower and harsher.** Reduce the chosen asset's rating by **1** if either of these is true:
+
+- the final resolved roll fails and one or more asset dice show bane
+- the roll was pushed and one or more asset dice show bane
+
+Ignore banes on asset dice on a successful roll that was not pushed. Reduce the asset only once per act, no matter how many asset banes were shown. The damage is concrete: a bridge wrecked by haste, a priest alienated, a steward compromised, a hostage mishandled, a contract broken, a chained monster wounded, or a settlement turned cold. If an asset falls to **0**, it is no longer useful until it is repaired, renewed, recaptured, or replaced in the fiction.
 
 Examples:
 
@@ -804,6 +813,16 @@ The faction's **Current State** is its present **Mode of Rule**. Use the mode be
 
 These procedures are not decorative summaries. Run them in order. The checks below are what move the faction sheet even before any major political act is chosen.
 
+### Decree Step
+
+When a mode procedure reaches **Decree**, the ruler may announce one decree or skip the step.
+
+A decree must be spoken as a real order that could be cried before witnesses or sent under seal: close Fenwick Ford to all wagons without the lord's mark, remit one spring due, outlaw Harvald Red-Hand and any house that shelters him, call all shrine grain to the seat, quarter the south garrison in Ash Mill, or suspend tolls for sworn allies until thaw.
+
+If players rule the faction, the players must decide the exact order. The GM then chooses the pillar and practice that truly carry it, based on whether the order rests on law, stores, roads, fear, faith, or armed enforcement. For an NPC faction, the GM does both.
+
+A decree is a **minor act** by type. In **Peace** or **Pressure**, issuing one uses the turn's minor act. In **Muster** or **Campaign**, the weekly decree step still exists because command does not wait for war to end, but it does not replace the week's single campaign act. Resolve the decree with **ISSUE DECREE** under **Political Acts** below.
+
 ### Peace Procedure
 
 Use this when the faction still rules mostly through acceptance, habit, and known dues.
@@ -818,8 +837,9 @@ Use this when the faction still rules mostly through acceptance, habit, and know
 4. **Prosperity** — roll **Hearth + Yield** or **Reach + Traffic**.
     - On success, one due comes in cleanly and, if the season supports it, **Treasury** or **Stores** may rise one step.
     - On failure, payment comes short, trade falters, or one paying settlement loses 1 Standing.
-5. **Acts** — take **one major act** and **one minor act**.
-6. **Fallout** — apply Standing shifts, Feud movement, status changes, and any damage caused by failure or overreach.
+5. **Decree** — the ruler may issue one decree.
+6. **Acts** — take **one major act** and **one minor act**.
+7. **Fallout** — apply Standing shifts, Feud movement, status changes, and any damage caused by failure or overreach.
 
 Peace is where rot first shows. A quiet season is never empty. It is the season where the barns tell the truth before the captains do.
 
@@ -837,8 +857,9 @@ Use this when the faction is leaning harder than custom allows, but has not yet 
 4. **Stockpile and Extraction** — roll **Hearth + Provision** or **Reach + Traffic**.
     - On success, the faction may raise **Treasury** or **Stores** one step if real seizure, collection, or convoy traffic supports it.
     - On failure, goods vanish into hiding, a route closes, or one supplying place grows cold and obstructive.
-5. **Acts** — take **one major act** and **one minor act**.
-6. **Fallout** — apply Feud, Standing, and status changes immediately. Pressure that is not paid for on the sheet is lying.
+5. **Decree** — the ruler may issue one decree.
+6. **Acts** — take **one major act** and **one minor act**.
+7. **Fallout** — apply Feud, Standing, and status changes immediately. Pressure that is not paid for on the sheet is lying.
 
 Pressure is unstable rule. It can succeed for a long time. It just stops feeling lawful while it does so.
 
@@ -858,8 +879,9 @@ Use this when levy is being called, carts gathered, roads watched, and the quest
 4. **Production** — roll **Hearth + Yield** or **Hearth + Provision**.
     - On success, food, draft animals, and basic war material hold together well enough that the first ordinary Stores strain from readiness this week is ignored.
     - On failure, **Stores** step down, or **Treasury** does if the shortfall is bought in haste.
-5. **Acts** — take **one campaign act**.
-6. **Burden** — apply the first real pull on settlements, ferries, mills, and labor.
+5. **Decree** — the ruler may issue one decree.
+6. **Acts** — take **one campaign act**.
+7. **Burden** — apply the first real pull on settlements, ferries, mills, and labor.
 
 Muster is where a realm learns whether it has soldiers or only names on a tally stick.
 
@@ -879,16 +901,19 @@ Use this when armies are already moving, a place is under investment, or the cou
 4. **Relief and Waste** — roll **Hearth + Relief** when plague, marsh, winter, siege filth, or refugees matter.
     - On success, sickness, burial failure, and camp rot do not spread this week.
     - On failure, damage **Hearth** or **Force**, whichever the neglect clearly harms most.
-5. **Acts** — take **one campaign act**.
-6. **Handoff** — if battle begins, go to **BATTLES & SIEGES**. If a place falls, run the relevant **Occupation** check before the week closes.
+5. **Decree** — the ruler may issue one decree.
+6. **Acts** — take **one campaign act**.
+7. **Handoff** — if battle begins, go to **BATTLES & SIEGES**. If a place falls, run the relevant **Occupation** check before the week closes.
 
 Campaign is arithmetic with corpses hanging from it. If the lines fail, the banners lie.
 
-### Acts and Player-Facing Play
+### Act Economy and Player-Facing Play
 
-In **Peace** and **Pressure**, a faction normally takes **one major act** and **one minor act**. In **Muster** and **Campaign**, it normally takes **one campaign act**. These limits matter because even a powerful ruler can only lean in so many directions at once before some other obligation is left to sour.
+In **Peace** and **Pressure**, a faction normally takes **one major act** and **one minor act**. If it issues a decree in those modes, the decree fills the minor slot. In **Muster** and **Campaign**, a faction normally takes **one campaign act**, but it may still use the weekly **Decree** step as described above.
 
-Minor acts are the small things that support rule: send gifts, dispatch riders, hear petitioners, shift a small garrison, issue safe-conduct, inspect a bridge, gather quiet dirt. Major acts change the political map: call levy, press claim, hire a band, grant protection, impose tribute, take hostages, occupy a place, settle or break a feud. If a faction clearly lacks the reach to do two things at once, do not let the turn economy lie for it.
+Minor acts keep rule working from turn to turn. They collect, announce, soothe, watch, bribe, warn, or quietly poison the ground for larger moves. Major acts change bonds, status, feud, or the map of obedience. Campaign acts decide where armed force gathers, what roads remain open, and which places are being starved, raided, or invested.
+
+These limits matter because even a powerful ruler can only lean in so many directions at once before some other obligation is left to sour. If a faction clearly lacks the reach to do two things at once, do not let the turn economy lie for it.
 
 If the player characters are the knife-edge of the act, let the faction roll set the field rather than settle every detail. A successful **Grant Protection** roll may mean the village is willing to hear terms at all, but the fellowship still has to escort the first grain carts through wolf-country. A failed **Call Council** roll may still leave one priest or widow willing to talk in private after dark. Use the faction rules to establish pressure, then resolve the dangerous and personal parts through ordinary play.
 
@@ -960,6 +985,46 @@ That naming matters because over-collection rarely breaks a realm all at once. I
 Use these acts as the main procedures of faction play.
 
 They do not replace scenes. They tell you what stands when the scene ends. Use them when the question is not whether the conversation happened, but whether the village yielded, whether the oath held, whether the hostage truly bought obedience, or whether the collector came back with sacks and bruises instead of excuses.
+
+### Act Scale
+
+Faction acts do not all work on the same level.
+
+| SCALE | WHAT IT DOES |
+| --- | --- |
+| **Minor act** | keeps rule working, supports an existing policy, or changes one local question without redrawing the whole political map |
+| **Major act** | changes bonds, status, feud, legitimacy, force posture, or another enduring part of rule |
+| **Campaign act** | acts directly inside live mustering or war and changes troops, supply, pressure, occupation, or the theater itself |
+
+Use the following default classifications.
+
+- **Minor acts:** **Issue Decree**, **Collect Due**, **Give Safe-Conduct**, **Call Council or Moot**, **Send Gift or Bride-Price**, **Spy or Suborn**
+- **Major acts:** **Grant Protection**, **Press a Claim**, **Swear Fealty**, **Take Hostage**, **Judge or Outlaw**, **Hire Mercenaries**, **Negotiate Truce or Peace**
+- **Campaign acts:** **Call Levy**, **Raid**, **Invest a Place**, plus any major act that is being taken directly inside an active **Muster** or **Campaign** state rather than in ordinary politics
+
+The GM may shift an act one scale up or down if the fiction plainly makes it larger or smaller than usual.
+
+### Issue Decree
+
+The ruler announces a law, mandate, exemption, ban, appointment, seizure order, quartering order, toll order, market rule, or other direct command. A decree is not vague intent. It must be stated in the words of rule.
+
+For a player-ruled faction, the players must say exactly what the order is. The GM then chooses the pillar and practice that truly back it. Most decrees use **Mandate + Decree**, but the GM may instead use another pairing if the order rests on armed enforcement, road control, stores, rites, or fear.
+
+On success, the decree takes hold. One success makes it stick in one place, over one question, or for one immediate purpose. Each extra success after the first widens or deepens the consequence by one step: one more settlement, one more week, one stricter enforcement, one more route, one more body of men, or one heavier concrete result of the same order.
+
+If the GM judges the decree's immediate consequences favorable to the faction, convert each extra success after the first into **one bonus die** instead of widening the result. These bonus dice may be applied only to **one** roll in the next faction turn of the **same length**. A Season Turn decree can help only the next **Season Turn**. A Campaign Week decree can help only the next **Campaign Week**. Record no more than **3** bonus dice from one decree.
+
+On failure, the decree is delayed, evaded, obeyed only on paper, or answered with resistance. Apply one fitting consequence: Standing falls by 1 where the order bit too hard, Feud advances by 1, one route or holding obstructs the order, or the faction must spend a major act later to make the decree real.
+
+Use decrees for things like these:
+
+- close a ford, bridge, or market to named enemies
+- remit one due so a village can recover and pay later
+- outlaw one household, captain, or smuggler ring
+- call specific grain, beasts, wagons, or labor to the seat
+- set quartering terms for one garrison or campaign route
+- suspend or impose tolls on one road, river, or ferry
+- name who now judges, escorts, commands, or collects in one district
 
 ### Grant Protection
 
