@@ -96,6 +96,31 @@ When you switch, read before and after the damaged span, compare the full sectio
 
 Rule of thumb: if you can write the fix as a repeatable transformation and prove it with a regression test, script it. If you need to understand what the text means before you can fix it, read first.
 
+## Visual reading and search
+
+Use this when a plain text search is not enough to prove the right edit.
+
+Fast protocol:
+
+1. Search the extracted markdown for anchor phrases, unique nouns, page numbers, heading fragments, and repeated footer text.
+2. If the hit is ambiguous, inspect the source PDF around the suspect span, not just the line that matched.
+3. Read one page before and one page after the damaged area so you can see what the document is trying to do.
+4. Compare the suspect page against the extracted markdown and the surrounding prose in the same pass.
+5. If the damage crosses a table, sidebar, caption, or two-column boundary, use meaning and page geometry before shape.
+6. If two readings are still plausible, stop and ask the user which interpretation is intended.
+
+Useful tools and moves:
+
+- `grep` or `rg` on the extracted markdown to find anchors fast
+- `python scripts/ocr_markdown_audit.py path/to/file.raw.md` to surface repeated noise and layout damage
+- `pdftotext -layout -f START -l END path/to/book.pdf -` to inspect a page window in reading order
+- `python scripts/pdf_debug_passes.py ...` to isolate which pass changes the suspect area
+- `python scripts/markdown_reflow.py --mode unwrap` only after the structure is stable
+
+Visual reading rule:
+
+If the fix depends on whether a paragraph belongs with a heading, table, sidebar, or illustration, read the page visually before editing. Do not guess from the broken line alone.
+
 ## Required Mindset
 
 Weaker agents fail OCR recovery in four ways:
@@ -227,24 +252,25 @@ RPG books need domain-aware repair, but keep it layered on top of the generic pi
 - See `references/repair.md` for the repair playbook.
 - See `references/issues.md` for the common artifact categories with examples and detection commands.
 - See `references/fixes.md` for safe high-confidence repairs.
-- Keep system-specific notes in `projects/` and keep the shared references agnostic.
+- Keep system-specific notes in `proposals/` and keep the shared references agnostic.
 
-## Module overlays
+## Project-specific overlays
 
-Use external JSON or YAML modules for project-specific corrections instead of hard-coding them into the shared scripts.
+If a fix is only safe for one PDF or one series of PDFs, keep it out of the shared scripts.
 
-Module overlays should carry the book-specific or campaign-specific fixes that are safe within one project but not general enough for the core bundle. Keep the core script generic and let it read overlay files from `projects/` or a sibling module directory.
+Use a proposal file to describe the rule, the matching clues, the data-only payload, and the regression test that proves it works.
 
-See `projects/module-overlay-proposal.md` for the schema draft and promotion policy.
+Start here:
 
-Promote a fix through this ladder:
+- `../../proposals/pdf-to-markdown-modular-overlays.md` — current proposal for lightweight module overlays
+- `../../proposals/pdf-to-markdown-cancelled-modules-2026-04-27/` — archived failed attempt kept for reference only
 
-1. local note in `projects/`
-2. project module overlay
+Promotion ladder:
+
+1. local note or proposal draft
+2. data-only overlay with a regression test in `scripts/tests/`
 3. shared reference note only if the pattern is generic across unrelated documents
 4. core script change only if the behavior is structural, well-tested, and not tied to any one setting
-
-Retire old project modules by marking them archived instead of deleting the history. That keeps the bundle from accumulating dead system logic.
 
 For layout ambiguity, compare visually:
 
@@ -303,7 +329,7 @@ python -m unittest discover -s scripts/tests
 - See `references/repair.md` for the repair playbook.
 - See `references/issues.md` for the common artifact categories with examples and detection commands.
 - See `references/fixes.md` for safe high-confidence repairs.
-- Keep system-specific notes in `projects/` and keep the shared references agnostic.
+- Keep system-specific notes in `proposals/` until they are proven safe, and keep the shared references agnostic.
 - Never treat one successful repair as globally safe.
 
 ## Repair Priorities (When Time Is Limited)
@@ -350,4 +376,4 @@ If the new pattern is only safe in one book, write it down as a local note inste
 
 If the pattern is general and repeatable, update the bundled scripts and references so the next run starts smarter.
 
-If the pattern is only safe in one project, encode it in the relevant module overlay instead of adding it to the shared code.
+If the pattern is only safe in one project, capture it as proposal data or a local note instead of adding it to the shared code.
