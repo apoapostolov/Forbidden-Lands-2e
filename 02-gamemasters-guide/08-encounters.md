@@ -633,3 +633,235 @@ Bluefeather will not be talked off the work. She is a professional. She has the 
 - **GEAR:** Studded leather, bow, sword
 
 **TERRAIN TYPES:** Ruins
+
+## Journeys
+
+In this section you will find random tables that can add more life and detail to the adventurers’ journeys in Ravenland and elsewhere.
+
+### Locations
+
+Whenever the adventurers reach a new hexagon on the map, you can roll on the tables below to get a feel for the area. Each terrain type has a separate table.
+
+**PLAINS**
+
+| D6 | THE NATURE OF THE LOCATION |
+| --- | --- |
+| 1 | The breeze is playing with the swaying grass |
+| 2 | Low-growing plants are holding on in the windswept landscape |
+| 3 | The fields lie open, with flowering plants thriving in gorges and crevices |
+| 4 | A stream winds its way through the landscape and feeds into smaller pools |
+| 5 | A ravine cuts through the landscape |
+| 6 | The wind sweeps over low-growing shrubs and defiant flowers |
+
+**FOREST**
+
+| D6 | THE NATURE OF THE LOCATION |
+| --- | --- |
+| 1 | Birds are chirping and bumble bees buzzing |
+| 2 | Slippery moss, strange mushrooms, and large insects |
+| 3 | An oppressive silence reigns |
+| 4 | Tall, straight tree trunks and waist-high ferns on the ground |
+| 5 | Rays of sunlight cut through the foliage and play along the meadows of purple flowers growing between the trees |
+| 6 | A stream winds its way through the landscape and the sunlight glitters off a small waterfall |
+
+**DARK FOREST**
+
+| D6 | THE NATURE OF THE LOCATION |
+| --- | --- |
+| 1 | The forest is dark and gloomy |
+| 2 | The sun cannot break through the dense crowns of the trees |
+| 3 | The tangled undergrowth forces the adventurers to hack their way through |
+| 4 | Fallen trees and mossy boulders slow the adventurers down |
+| 5 | Rustling in the bushes makes the journey more arduous |
+| 6 | Small, black ponds force the adventurers to take a more winding path |
+
+**HILLS**
+
+| D6 | THE NATURE OF THE LOCATION |
+| --- | --- |
+| 1 | The wind whips the hilltops, but calms down in the valleys between them |
+| 2 | The hills are steep and form narrow passages |
+| 3 | Shallow hills give an amazing view of the area |
+| 4 | Mist gathers between the hills |
+| 5 | The wind whispers between the hills |
+| 6 | The gravel of the hillside gives way to the adventurers’ weight and slides rattling down the slopes |
+
+**MOUNTAINS**
+
+| D6 | THE NATURE OF THE LOCATION |
+| --- | --- |
+| 1 | Strong winds grab at the adventurers |
+| 2 | Prayer flags flutter in the wind, placed there by long-lost pilgrims |
+| 3 | The clouds hang low and sweep into the mountain passes in a windy mist |
+| 4 | The mountain gives shelter from the wind and everything is remarkably still |
+| 5 | A roaring rapid forces the adventurers to take a detour |
+| 6 | Great boulders come crashing down the slopes, and the noise echoes between the mountains |
+
+**LAKE/RIVER**
+
+| D6 | THE NATURE OF THE LOCATION |
+| --- | --- |
+| 1 | The water is still like a mirror |
+| 2 | A breeze gently ripples the water |
+| 3 | Birds gather and dive into the water in the adventurers’ wake |
+| 4 | Gusts of wind whip up white foam on the waves |
+| 5 | Fast-flowing currents create whirlpools in the water |
+| 6 | Shoals of ghostly pale fish are moving in the deep |
+
+**QUAGMIRE**
+
+| D6 | THE NATURE OF THE LOCATION |
+| --- | --- |
+| 1 | Large ponds are separated by dense thickets |
+| 2 | Lakes thick with seaweed slow down all movement |
+| 3 | A fog creeps along the water, coiling around anything that moves |
+| 4 | Something big and slow is moving in the deep |
+| 5 | Pale faces are staring up from the water - fallen soldiers from some forgotten war |
+| 6 | Long-legged birds wade through the shallow water, fishing with their sharp beaks |
+
+**MARSHLANDS**
+
+| D6 | THE NATURE OF THE LOCATION |
+| --- | --- |
+| 1 | Swarms of insects dance in the sunlight |
+| 2 | A lone bird is dejectedly calling for its flock |
+| 3 | Unknown creatures have left watery trails on the ground |
+| 4 | There are low bushes rich with golden berries |
+| 5 | The monotonous landscape is broken by groves of slender trees |
+| 6 | Clusters of stagnant pools turn the hike into a winding journey |
+
+**RUINS**
+
+| D6 | THE NATURE OF THE LOCATION |
+| --- | --- |
+| 1 | The ground is covered in broken wall fragments |
+| 2 | Knocked-down pillars are lying over the place |
+| 3 | An overgrown garden forms a living maze |
+| 4 | The mossy remains of walls show where houses, roads, and courtyards once stood |
+| 5 | Broken pillars are standing in clusters, like groves of petrified trees |
+| 6 | The trees are dense and their roots have penetrated into already abandoned buildings |
+
+### Camps
+
+Listed below are descriptions of typical campsites for each terrain type. Roll on the tables when the adventurers make camp to see what they find.
+
+| D6 | THE NATURE OF THE CAMP |
+| --- | --- |
+| 1 | A shallow ravine offers good shelter from the wind |
+| 2 | A lone cliff provides shelter and a small spring to drink from |
+| 3 | A vast hollow provides shelter near the ground, enough for a night or two |
+| 4 | A stream flows slowly through the plains and you make camp in its reeds |
+| 5 | An abandoned leather tent can be repaired well enough to sleep in |
+| 6 | The plains offer nothing but hard ground and coarse grass, and you accept this fact |
+
+**FOREST**
+
+| D6 | THE NATURE OF THE CAMP |
+| --- | --- |
+| 1 | A glade with a large stone in its center makes for a good campsite |
+| 2 | A grove with thick moss provides good rest |
+| 3 | A murmuring brook is your company for the night |
+| 4 | A tree house sits high among the crowns of the forest, and you borrow it for a while |
+| 5 | A simple hut of twigs is standing in the grove, as if it was waiting for you |
+| 6 | A couple of dense trees are all the shelter you get tonight |
+
+**DARK FOREST**
+
+| D6 | THE NATURE OF THE CAMP |
+| --- | --- |
+| 1 | The interlacing branches of dense trees forms a roof over your heads |
+| 2 | A huge uprooted tree provides shelter and shade |
+| 3 | Several overturned trees leaning against each other form a natural chamber to rest in |
+| 4 | A great tree is fighting its own rot, and the adventurers spend the night crammed inside its hollow interior |
+| 5 | A hollow underneath some large boulders gives shelter for the night - provided that its previous owner does not return |
+| 6 | There is a long-abandoned wooden hut in the forest, and the adventurers occupy it |
+
+**HILLS**
+
+| D6 | THE NATURE OF THE CAMP |
+| --- | --- |
+| 1 | A ruin at the top of a hill provides both shelter and a good view of the area |
+| 2 | A small lake between the hills offers shelter and water |
+| 3 | A dilapidated shepherd’s hut can quickly be restored to habitable condition |
+| 4 | A burrow dug by some kind of beast is the best option available |
+| 5 | An abandoned wooden fort provides protection from the weather and potential attackers |
+| 6 | A raised stone table between some hills bears witness to ancient rites, and provides a roof over the adventurers’ heads |
+
+**MOUNTAINS**
+
+| D6 | THE NATURE OF THE CAMP |
+| --- | --- |
+| 1 | A bowl-shaped caldera provides concealment and shelter from the wind |
+| 2 | A large boulder leaning against the rock face forms a natural tunnel |
+| 3 | A rocky ridge offers some shelter from the wind, but not from the rain |
+| 4 | A cave accommodates the adventurers. Old bones on the ground suggest that it was once home to some kind of predator |
+| 5 | A snowdrift is dug into a snow cave to rest in |
+| 6 | The edge of a glacier offers a meltwater tunnel, and round little rocks become your bed for the night |
+
+**LAKE/RIVER**
+
+| D6 | THE NATURE OF THE CAMP |
+| --- | --- |
+| 1 | A small tributary becomes a good harbor to rest and hide in |
+| 2 | A wooded islet provides shelter from the wind and dry ground under the adventurers’ feet |
+| 3 | A half-sunken, overgrown boat will serve as a camp |
+| 4 | A grove of trees leans steeply over the water and creates a bower at the beach |
+| 5 | A damp sandbank will have to do as a camp |
+| 6 | A cliff rises from the water, and its flat top offers a good view of the area |
+
+**QUAGMIRE**
+
+| D6 | THE NATURE OF THE CAMP |
+| --- | --- |
+| 1 | A thicket supports the adventurers' weight as they rest above the murky water. |
+| 2 | A narrow strip of land becomes the adventurers' camp. |
+| 3 | An abandoned raft stuck in the quagmire makes a good resting place for weary travelers. |
+| 4 | An abandoned hut is standing on rickety stilts, but it is good enough for the adventurers. |
+| 5 | The skeleton of a giant lizard offers firm ground, and the skull makes a good fireplace. |
+| 6 | A single, dead tree sticks out of the black water. The adventurers moor to the tree and huddle together on their raft. |
+
+**MARSHLANDS**
+
+| D6 | THE NATURE OF THE CAMP |
+| --- | --- |
+| 1 | Natural drainage has dried the peat and gives the adventurers a nice place to rest. |
+| 2 | Dense tussocks of grass will have to do as the adventurers' camp. |
+| 3 | Fallen trees keep the ground stable enough to rest on. |
+| 4 | The adventurers find a patch of ground less wet than the surrounding area. It will have to do. |
+| 5 | A settler's cabin once stood here, but the marsh won. The adventurers rest inside the remains of the log house. |
+| 6 | There is no natural resting place to be found, but the adventurers make the ground firm and dry enough by gathering twigs. |
+
+**RUINS**
+
+| D6 | THE NATURE OF THE CAMP |
+| --- | --- |
+| 1 | Fallen, overgrown pillars offer shelter for the night. |
+| 2 | A looted crypt will have to do as a camp. |
+| 3 | A majestic statue has fallen over, and the adventurers find shelter and dry land in the bend of its arm. |
+| 4 | Heads of stone, tall as a grown man, form a circle that is easily defended. |
+| 5 | A collapsed dome forms a sheltered room among the ruins. |
+| 6 | A burned-out temple will have to do as a campsite. |
+
+## Weather
+
+Weather is an optional complication to the adventurers’ hikes. If these rules are used, make three rolls each morning to determine the weather of the day: one roll each for Wind, Rainfall, and Temperature.
+
+| D6 | WIND | EFFECT |
+| --- | --- | --- |
+| 1-2 | None | `MAKE CAMP` +1 |
+| 3-4 | Breeze | None |
+| 5 | Gales | `MAKE CAMP` -1 |
+| 6 | Storm | `MAKE CAMP` -2. For a Quarter Day, all player characters must succeed with an `ENDURANCE` roll to keep moving. |
+
+| D6 | RAINFALL | EFFECT |
+| --- | --- | --- |
+| 1 | Clear skies | `LEAD THE WAY` +1 |
+| 2-4 | None | None |
+| 5 | Drizzle | `LEAD THE WAY` -1 (rain or snow) |
+| 6 | Downpour | `LEAD THE WAY` -2 (rain or snow). For a Quarter Day, all player characters must succeed with an `ENDURANCE` roll to keep moving. In storms and downpours one roll is made, with a -2 modification. |
+
+| D6 | TEMPERATURE | EFFECT |
+| --- | --- | --- |
+| 1 | Hot | Each `HIKING` player character must succeed with an `ENDURANCE` roll every Quarter Day not to get `THIRSTY`. |
+| 2-5 | Pleasant | None |
+| 6 | Cool | All player characters who are not in a camp must succeed with an `ENDURANCE` roll every Quarter Day or become `COLD`. |

@@ -1333,7 +1333,7 @@ The cocoons are alive. The elder female that spun them is the one that has kept 
 >
 > An adventurer with the ALCHEMIST talent, with a HEALING roll, draws one of the following per ⚔️ rolled, player's choice: **venom (RARE)** or **black silk**, from a slain adult male or elder female. A swarm of hatchlings yields one **mandible-bundle** per point of STRENGTH the swarm possessed. The web of an elder female cut down whole and folded yields one **cocoon-bolt** regardless of dice rolled.
 >
-> **Giant spider's venom (RARE, canonical):** One phial is the bound alchemical ingredient for **Porridge of Prophecy** (see _Alchemical Potions_, _Gamemaster Tools_). A second use: one drop on a blade's edge holds a paralyzing poison of Potency 10 for one strike (lethal Potency 12 from an elder female). The Congregation of the Serpent will buy elder-female venom for double weight in silver and ask no questions about its origin.
+> **Giant spider's venom (RARE, canonical):** One phial is the bound alchemical ingredient for **Porridge of Prophecy** (see _Alchemical Potions_). A second use: one drop on a blade's edge holds a paralyzing poison of Potency 10 for one strike (lethal Potency 12 from an elder female). The Congregation of the Serpent will buy elder-female venom for double weight in silver and ask no questions about its origin.
 >
 > **Black silk:** Spun, twisted, and dried, a skein makes one bowstring that does not part in rain or fire and adds a D8 Artifact Die to one shot per Quarter Day. Worked by a TANNER into the lining of a cloak, it lets the wearer ignore the first damage from any falling or grappling attack each fight.
 >
@@ -1748,7 +1748,7 @@ The dwarf is Old Helgrim of the Tooth Hold, last of his line. The lockbox holds 
 >
 > A slain iron dragon yields, for an ALCHEMIST or SMITH with a HEALING or CRAFTING roll, one of the following per ⚔️ rolled, player's choice: **dragon's blood (RARE)**, **dragon's scale (RARE)**, or **dragon's tooth**. A SMITH with a CRAFTING roll over one Quarter Day strips 2D6 units of pure **dragon-iron** from the carcass.
 >
-> **Dragon's blood (RARE, canonical):** The bound alchemical ingredient for **Elixir of Life** (see _Alchemical Potions_, _Gamemaster Tools_). One phial of iron dragon's blood, drunk straight, restores D3 points to a single attribute of the drinker's choice and burns the drinker for one Quarter Day with a fever no fire warms. A second phial within the same week kills.
+> **Dragon's blood (RARE, canonical):** The bound alchemical ingredient for **Elixir of Life** (see _Alchemical Potions_). One phial of iron dragon's blood, drunk straight, restores D3 points to a single attribute of the drinker's choice and burns the drinker for one Quarter Day with a fever no fire warms. A second phial within the same week kills.
 >
 > **Dragon's scale (RARE, canonical):** The bound alchemical ingredient for the dwarves' **Tincture of Earth-Hide**. One lath stitched into a leather coat by a TANNER gives the wearer +2 Armor Rating. A lath worked into a shield by a SMITH gives the shield +1 Block Value and refuses to splinter. The Iron Guard will recognize the metal.
 >
@@ -1969,7 +1969,7 @@ The young man is Lord Avven, second son of the Wakehouse, on his way to the mire
 >
 > A slain mire drake yields, for an ALCHEMIST or SMITH with a HEALING or CRAFTING roll, one of the following per ⚔️ rolled, player's choice: **dragon's blood (RARE)**, **dragon's scale**, or **dragon's tooth**. The drake's **tongue** is a separate harvest, recovered intact regardless of dice rolled if cut before the body cools.
 >
-> **Dragon's blood (RARE, canonical):** The bound alchemical ingredient for **Elixir of Life** (see _Alchemical Potions_, _Gamemaster Tools_). One phial of mire drake's blood, drunk by a sorcerer with a successful HEALING roll, restores D3 points to one attribute and grants a D8 Artifact Die to the next MANIPULATION roll the drinker makes against a human. The drinker dreams of the drake's mussel-pool that night.
+> **Dragon's blood (RARE, canonical):** The bound alchemical ingredient for **Elixir of Life** (see _Alchemical Potions_). One phial of mire drake's blood, drunk by a sorcerer with a successful HEALING roll, restores D3 points to one attribute and grants a D8 Artifact Die to the next MANIPULATION roll the drinker makes against a human. The drinker dreams of the drake's mussel-pool that night.
 >
 > **Dragon's scale (canonical):** The bound alchemical ingredient for **Tincture of Earth-Hide**. A SMITH (level 2 or higher) with a CRAFTING roll over one Quarter Day forges a suit of dragon scale mail with Armor Rating 8 from a slain mire drake. The mail does not rust in fresh or salt water and lets the wearer ignore the first damage from any swimming or drowning attack each fight.
 >
@@ -2536,7 +2536,7 @@ The troll is not dead. It is paralyzed by sun and will wake at sundown. The Rust
 >
 > A slain rock troll yields, for an ALCHEMIST or SMITH with a HEALING or CRAFTING roll, one of the following per ⚔️ rolled, player's choice: **troll's blood**, **troll's gastric juice (RARE)**, or **troll's tooth**. A SMITH (level 2 or higher) with a separate CRAFTING roll over one Quarter Day extracts glittering stones worth one gold coin per ⚔️ from the body.
 >
-> **Troll's blood (canonical):** The bound alchemical ingredient for **Tincture of Earth-Hide** (see _Alchemical Potions_, _Gamemaster Tools_). One phial of rock-troll blood, drunk by a HEALER or DRUID, lets the drinker reroll one ENDURANCE roll per Quarter Day and ignore the COLD condition for one stretch. A second phial within the same Quarter Day turns the drinker's skin to a slow grey crust and they take a permanent loss of one point of Agility.
+> **Troll's blood (canonical):** The bound alchemical ingredient for **Tincture of Earth-Hide** (see _Alchemical Potions_). One phial of rock-troll blood, drunk by a HEALER or DRUID, lets the drinker reroll one ENDURANCE roll per Quarter Day and ignore the COLD condition for one stretch. A second phial within the same Quarter Day turns the drinker's skin to a slow grey crust and they take a permanent loss of one point of Agility.
 >
 > **Troll's gastric juice (RARE, canonical):** The bound alchemical ingredient for **Aqua Fortis of the Smiths**. One knot poured onto a locked door, a chained gate, or a weapon's haft eats through worked iron in one stretch. The reek can be smelt at NEAR range and brings hounds. The Iron Guard will hang anyone caught with a phial in the Bloodmarch.
 >

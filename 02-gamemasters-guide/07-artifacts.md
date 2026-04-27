@@ -377,3 +377,172 @@ The key is strangely shaped, but in itself insignificant. It consists of an old 
 ### Effects
 
 Wyrm’s Key gives a D12 Artifact Die to all attempts to pick locks using the SLEIGHT OF HAND skill. It is a TINY item.
+
+### Generating an Artifact
+
+The tables for “Carried Precious Finds” and “Precious Finds in a Lair” (the _Gamemaster’s Guide_, pages 190–192) both include an artifact (result #66). You may then choose a named artifact or use the following rules to roll one.
+
+The artifacts below are divided into two categories: Skill Artifacts and Combat Artifacts. Skill Artifacts add an artifact bonus to the skill in question. Combat Artifacts are weapons, armor, and shields.
+
+To roll an artifact, start by rolling its name. The name can refer to its creator or a famous previous owner. Then you roll to determine the item’s artifact bonus. After that you roll for what type of artifact is found. Finally, roll for the artifact’s oddities. Oddities only affect (or afflict) the bearer as long as they are in possession of the artifact.
+
+### The Artifact’s Name
+
+| D66 | PREFIX | D66 | PREFIX | D66 | PREFIX |
+| --- | --- | --- | --- | --- | --- |
+| 11–12 | Alur’s | 41–42 | Janalak’s | 55 | Syndamast’s |
+| 13–14 | Brambolg’s | 43 | Kondalf’s | 56 | Talg’s |
+| 15–16 | Caramir’s | 44 | Lumock’s | 61 | Ulfurbog’s |
+| 21–22 | Dohump’s | 45 | Moro’s | 62 | Virella’s |
+| 23–24 | Ellerind’s | 46 | Nimistra’s | 63 | Wangerman’s |
+| 25–26 | Fagaster’s | 51 | Opalug’s | 64 | Xyll’s |
+| 31–32 | Ganira’s | 52 | Paarea’s | 65 | Yanda’s |
+| 33–34 | Hanum’s | 53 | Quoor’s | 66 | Zofissima’s |
+| 35–36 | Irilia’s | 54 | Reli’s |  |  |
+
+### Artifact Bonus
+
+| D66 | BONUS |
+| --- | --- |
+| 11–46 | D8 |
+| 51–63 | D10 |
+| 64–66 | D12 |
+
+### Type of Artifact
+
+| D6 | TYPE |
+| --- | --- |
+| 1–3 | Skill Artifact |
+| 4–6 | Combat Artifact |
+
+### Combat Artifacts
+
+| D6 | ITEM |
+| --- | --- |
+| 1 | Armor |
+| 2–3 | One-handed weapon |
+| 4–5 | Two-handed weapon |
+| 6 | Ranged weapon |
+
+### Skill Artifacts
+
+| D66 | SKILL | ITEM |
+| --- | --- | --- |
+| 11–12 | Might | Belt |
+| 13–14 | Endurance | Boots |
+| 15–16 | Crafting | Sweatband |
+| 21–22 | Stealth | Cloak |
+| 23–24 | Sleight of Hand | Gloves |
+| 25–26 | Move | Tunic |
+| 31–32 | Scouting | Lens |
+| 33–34 | Lore | Book |
+| 35–36 | Survival | Compass |
+| 41–42 | Insight | Ring |
+| 43–44 | Manipulation | Crown |
+| 45–46 | Performance | Musical instrument (roll D6: 1–2 flute, 3 horn, 4 lyre, 5 harp, 6 drum) |
+| 51–52 | Healing | Lancet |
+| 53–54 | Animal Handling | Whip |
+| 55–66 | Roll again |  |
+
+### Armor
+
+| D66 | ITEM |
+| --- | --- |
+| 11–13 | Studded Leather Cap |
+| 14–21 | Open Helmet |
+| 22–25 | Closed helmet |
+| 26–34 | Great helm |
+| 35–41 | Leather |
+| 42–45 | Studded leather |
+| 46–53 | Chainmail |
+| 54–61 | Plate Armor |
+| 62–63 | Small shield |
+| 64–66 | Large shield |
+
+### Two-handed Weapons
+
+| D66 | ITEM |
+| --- | --- |
+| 11–14 | Staff |
+| 15–22 | Long Spear |
+| 23–26 | Pike |
+| 31–34 | Halberd |
+| 35–42 | Trident |
+| 43–46 | Large Wooden Club |
+| 51–54 | Heavy Warhammer |
+| 55–62 | Two-handed Axe |
+| 63–66 | Two-handed Sword |
+
+### One-handed Weapons
+
+| D66 | ITEM |
+| --- | --- |
+| 11–12 | Knife |
+| 13–14 | Dagger |
+| 15–16 | Falchion |
+| 21–22 | Short Sword |
+| 23–24 | Broadsword |
+| 25–31 | Longsword |
+| 32–34 | Scimitar |
+| 35–36 | Mace |
+| 41–42 | Morningstar |
+| 43–45 | Warhammer |
+| 46–52 | Flail |
+| 53–54 | Wooden Club |
+| 55–61 | Handaxe |
+| 62–64 | Battle Axe |
+| 65–66 | Short Spear |
+
+### Ranged Weapons
+
+| D66 | ITEM |
+| --- | --- |
+| 11–14 | Throwing Knife |
+| 15–22 | Throwing Axe |
+| 23–26 | Throwing Spear |
+| 31–34 | Sling |
+| 35–43 | Short Bow |
+| 44–52 | Longbow |
+| 53–61 | Light Crossbow |
+| 62–66 | Heavy Crossbow |
+
+### The Artifact’s Oddity
+
+| D66 | ODDITY |
+| --- | --- |
+| 11 | Demonic face on the artifact, its eyes are constantly following you |
+| 12 | Sleeps at night, during which time it counts as a normal item |
+| 13 | Whispers paranoid fantasies to its bearer |
+| 14 | Is always freezing cold |
+| 15 | Always becomes red-hot when used |
+| 16 | Anyone who touches the artifact with their bare hands experiences visions of their own death, the use of gloves is recommended |
+| 21 | Causes nightmares |
+| 22 | Emits a cold light in darkness (counts as a torch) |
+| 23 | Complains telepathically about the bearer whenever they fail a skill roll |
+| 24 | Is terrified of a certain type of creature and its Artifact Die decreases by one step (to a minimum of 1d6) in the presence of such creatures. Roll D6 to determine which type it is: elves, dwarves, orcs, dragons, demons, trolls. |
+| 25 | Hates a certain type of creature and its Artifact Die increases by one step (to a maximum of D12) when the artifact is used against such creatures. Roll D6 to determine which type it is: elves, dwarves, orcs, dragons, demons, trolls. |
+| 26 | Can be teleported to its bearer’s hand as a free action, from any location |
+| 31 | Constantly vigilant, warns of incoming danger; the bearer cannot be taken by surprise |
+| 32 | Can take any shape the bearer chooses, but retains its size and stats |
+| 33 | The artifact’s name is that of a tormented soul trapped inside the item, and the soul’s personality affects the bearer telepathically. Roll D6 for personality: bad morning mood, vindictive, jealous, melancholic, teasing, moralistic. |
+| 34 | Gives the wearer telepathic advice, based on the artifact’s agenda (decided by the GM) |
+| 35 | Telepathically spreads overly positive stories about the bearer’s deeds, Reputation +1 |
+| 36 | Telepathically spreads malicious caricatures of the bearer, Reputation +1 |
+| 41 | Makes the bearer less memorable, Reputation -1 |
+| 42 | The bearer always finds +D6 extra silver coins whenever they come across a find worth 10 silver or more |
+| 43 | The Artifact Die increases by one step (max D12) in villages, towns, or strongholds |
+| 44 | The Artifact Die increases by one step (max D12) in wilderness or ruins |
+| 45 | The bearer suffers one point of damage to Empathy every time they kill an enemy |
+| 46 | The bearer heals one point of lost damage to Strength every time they kill an enemy in combat |
+| 51 | Can be broken by the bearer to release a demon under the bearer’s control. The control lasts for one day. |
+| 52 | The bearer stops aging and cannot be aged by other effects |
+| 53 | The bearer is immune to disease |
+| 54 | The bearer is immune to poison |
+| 55 | The bearer does not feel hunger and cannot become HUNGRY |
+| 56 | The bearer is always warm and cannot become COLD |
+| 61 | The bearer does not need sleep and cannot become SLEEPLESS |
+| 62 | The bearer does not need to drink and cannot become THIRSTY |
+| 63 | Can discharge all its power in a single use. Roll the Artifact Die twice and choose the highest result. Then the item explodes, and the user suffers the amount of damage indicated by the die. |
+| 64 | The Artifact Die varies depending on the phases of the moon. New moon: -1 step (to a minimum of D6), waxing moon: no change, full moon: +1 step (to a maximum of D12), waning moon: no change. |
+| 65 | The Artifact Die varies depending on the season. Spring: no change, summer: +1 step (to a maximum of D12), autumn: no change, winter: -1 step (to a minimum of D6). |
+| 66 | The Artifact Die varies depending on the time of day. Morning: no change, day: +1 step (to a maximum of D12), evening: no change, night: -1 step (to a minimum of D6). |
