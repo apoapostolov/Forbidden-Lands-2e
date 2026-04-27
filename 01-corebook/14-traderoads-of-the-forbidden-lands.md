@@ -538,22 +538,6 @@ Return contracts are found through ASK AROUND or SEEK WORK at the destination. S
 
 ---
 
-## PATH OF THE CARAVAN Integration
-
-The PATH OF THE CARAVAN talent (Chapter 4) is designed for a world where caravans thrive. Here is how each rank interacts:
-
-| Rank   | Ability                                                                                             | Subsystem Interaction                                                                                                                                                |
-| ------ | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **R1** | Spend WP to deliver trade goods worth up to 1 silver/WP from ledger.                                | Suitable for personal-scale trade. No caravan assembly needed. The "ledger" is pre-purchased inventory.                                                              |
-| **R2** | Extend to weapons, 1D6 silver/WP per delivery. Establish a caravan cache.                           | The cache is a warehouse at a trading post. Costs 2D6 × 10 silver to establish (minus 2D6 per WP spent + a day of work). Holds up to 20 load units.                  |
-| **R3** | Each WP frees 2D6 silver of goods. Assign trusted factors. Passive income from absent trading legs. | Factors can manage a caravan without the PC. Uses the Market Roll at reduced skill (factor's MANIPULATION, typically 3 dice). Lose 1D6 silver per ☠️ per day absent. |
-| **R4** | Network covers heavy items, armor, shields, tools, raw materials.                                   | Unlocks Arms and Armor and Raw Materials cargo at full value. Pre-R4 caravans carry them physically but cannot leverage talent discounts.                            |
-| **R5** | Masterwork designation or doubled purchasing power.                                                 | Masterwork goods sell at +50% (specialty tier). Doubled WP covers 4D6 silver per point, enabling high-value specialty trade without full cash investment.            |
-
-A character without PATH OF THE CARAVAN can still run a caravan. The talent is not a gate — it is a force multiplier. Without it: no ledger deliveries, no cache, no factor management (must be present for all trade), no arms or armor network, no masterwork trade. The un-talented trader makes money by smart selling and willingness to haul cargo personally.
-
----
-
 ## Stronghold Functions and Trade
 
 Stronghold functions create lasting trade advantages. A fellowship that invests in infrastructure improves every future trade run on the affected routes.
