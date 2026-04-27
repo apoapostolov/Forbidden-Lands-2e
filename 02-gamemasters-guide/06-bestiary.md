@@ -76,6 +76,322 @@ A vanquished monster can be harvested for what the body holds. Each description 
 
 Resources marked **(RARE)** can only be taken on a roll of two or more **⚔️** total. With a single success, the item has been spoiled or destroyed in the fight and cannot be recovered. Some items are always recoverable regardless of the roll; these are noted as **intact regardless of dice rolled**.
 
+## Humanoid Bands
+
+### Black-Fletch Archer
+
+> _One black feather stands in the ash by the dead fire._
+
+- **ATTRIBUTES:** Strength 4, Agility 5, Wits 3, Empathy 2
+- **SKILLS:** Melee 3, Stealth 3, Move 4, Marksmanship 4, Manipulation 2
+- **ARMOR RATING:** 3
+- **DIFFICULTY:** High
+- **ROLE:** Lurker
+- **GEAR:** Longbow, knife, black-fletched arrows
+- **TALENTS:** Fast Shooter, Arrow, Executioner
+- **TACTICS:** Ambushes from cover, shoots twice, then moves before the return shot comes.
+
+Black-Fletch Archers are assassins, scouts, and border killers. The fletching is the mark: black, cut from the tail-feathers of specific birds, sometimes ritual, sometimes merely tradition, always a statement of professional identity. Some are elf-trained and have the patience that implies. Some only wear the look. All of them know how long a man waits before he decides the arrow came from the wrong tree, and they time their next shot to arrive before that decision is made.
+
+They operate alone or in small cells. The black-fletch arrow left at a scene is not always a threat; sometimes it is the fee-notice for a kill already completed, sent to the patron who commissioned it. The arrow in the ash is the invoice.
+
+#### Random Encounter: the Invoice
+
+> _The merchant arrived at the inn with one black-fletched arrow lodged through his saddlebag, fletching-first, point away. He says he does not know what it means._
+
+Merchant Olan Vrek arrived at the Halfen inn with a black-fletched arrow lodged through his saddlebag, fletching-first, point away. He says he does not know what it means. He is lying. The arrow is the fee-notice for a contracted kill already completed, standard practice for the marker who uses this fletch — second payment is now due. Vrek paid half in advance to have a business rival removed from the Northmarch road, and the rival is on that road waiting to be found. The question is whether the adventurers are willing to carry the second payment north, or whether they want to know whose body they will pass on the way.
+
+- **Terrain Types:** Forest, Plains, Hills
+
+#### Random Encounter: the Observation Window
+
+> _Three bodies in the clearing, all shot from the same angle, all through the gap in the right armpit where the arm rises to draw._
+
+Three patrol-men are dead in the clearing, all shot from the north tree-line in the same exchange, all hit through the gap in the right armpit where the arm rises to draw. The kills were clean; the patrol had no time to respond. They were carrying a sealed message tube and the tube is gone. The marker who uses black fletching holds a professional pattern: wait and reobserve after a kill, positioned to confirm the commission is complete before withdrawing. The clearing has not been clear long enough to be safe. If the adventurers are identifiable as connected to the patrol, the observation is already in progress.
+
+- **Terrain Types:** Forest, Hills
+
+What they carry is what is left when they fall.
+
+### Clan Hunter
+
+> _The dog does not bark. It only looks into the brush and whines._
+
+- **ATTRIBUTES:** Strength 3, Agility 3, Wits 2, Empathy 3
+- **SKILLS:** Melee 2, Stealth 3, Move 3, Marksmanship 2, Animal Handling 3
+- **ARMOR RATING:** 3
+- **DIFFICULTY:** Moderate
+- **ROLE:** Trickster
+- **GEAR:** Spear, bow, trained beast
+- **TALENTS:** Beast
+- **TACTICS:** Uses the beast to knock a target loose from the line, then kills the isolated one.
+
+Clan Hunters live or die by the beast beside them. The pairing is never incidental: a hunter and their animal are trained together and matched by disposition, and the specific animal is a statement of clan affiliation, skill type, and the country they work. A hound hunter is different from a hawk hunter in method and temperament, and a wolf-bonded hunter is different again.
+
+The beast is used to open the engagement: to flush, knock loose, isolate, or terrify the target before the hunter closes. The animal is half their courage and most of their plan, and killing the animal first is the most effective tactic and the most dangerous social move. A Clan Hunter whose beast has been killed is unpredictable in a specific way that is different from ordinary rage.
+
+#### Random Encounter: the Wolf in the Road
+
+> _The wolf is alone on the road. It is not feral. It is waiting for something._
+
+A large wolf stands in the middle of the road alone. It has no aggression, no hackles, and it is oriented toward the east wood, waiting. The animal belongs to Hunter Brek Varan. Varan is in the east wood, injured, and sent the wolf out to find or lead help. The quarry Varan was hired to track — a man wanted alive by one party and dead by another — inflicted the injury two hours ago and is still somewhere between Varan and the road. The wolf will lead anyone who follows it. What they find on the way to Varan is not something the wolf was asked to account for.
+
+- **Terrain Types:** Forest, Hills, Plains
+
+#### Random Encounter: the Bonded Hawk
+
+> _The hawk circles the village twice every morning, then returns to the old mill. Nobody hired it._
+
+Hunter Dera Solm died three weeks ago at the Fern Mill and was buried without ceremony because no one knew who she was. The hawk she trained is still alive, still circling the mill twice every morning before returning to roost above the millstone. It is in perfect condition, worth thirty silver to any competent falconer, but bonded to a dead woman's whistle-command: anyone who approaches the mill on foot without the specific tone is hit across the wrist. No one in the village knows the tone. Solm's clansmen arrived two days ago looking for her. They know the tone and are willing to trade it for something they say will take less than one afternoon.
+
+- **Terrain Types:** Village, Plains, Forest
+
+What they carry is what is left when they fall.
+
+### Cutpurse
+
+> _The man apologizes before the knife goes in._
+
+- **ATTRIBUTES:** Strength 3, Agility 3, Wits 3, Empathy 3
+- **SKILLS:** Melee 3, Sleight of Hand 2, Marksmanship 3, Move 2, Insight 3, Manipulation 2
+- **ARMOR RATING:** 3
+- **DIFFICULTY:** Moderate
+- **ROLE:** Lurker
+- **GEAR:** Throwing knives, poison, dagger
+- **TALENTS:** Poison, Fast Footwork
+- **TACTICS:** Opens with a poisoned knife, retreats, and lets fear and venom finish the job.
+
+Cutpurses survive by choosing the wrong sort of fight for someone else. The knife is secondary to the positioning: a cutpurse who has to use the knife has already made an error in the approach. The preferred resolution is that the mark hands over the coin without quite knowing they have decided to, or hands it over knowing exactly what happens if they do not — both options managed in a way that produces no witnesses.
+
+They prefer alleys, ferry queues, grain sheds, and crowded inns where a single scream can mean three different things at once, because ambiguity is the working environment. In a space where everyone is a potential witness, the witness problem solves itself. The poisoned blade is the last resort of the cutpurse who has gotten themselves into a situation that requires resolution rather than extraction.
+
+#### Random Encounter: the Letter in the Purse
+
+> _The purse is gone. So is the letter that was folded inside it. The coin can be replaced._
+
+Merchant Arne Veld had his purse lifted in the Brenn market crowd this morning. The coin is a loss he can absorb. The letter folded inside the purse is not: it names the terms of a supply arrangement that, read by the wrong party, ends Veld's access to the northern grain route and possibly his position in the northern grain trade entirely. A cutter working the crowd for coin would not know what he had taken. A cutter working for a specific interest would have taken the purse for the letter and left the coin. The letter has not yet been offered for sale, which means either the cutter does not know what he is holding or has not finished deciding who to offer it to first.
+
+- **Terrain Types:** Village, Plains
+
+#### Random Encounter: the Ferry Queue
+
+> _The ferry-queue has been moving normally all morning. The man ahead of the party in the queue just slid sideways into the water._
+
+Lenne, a cutter who works the Dren Crossing ferry queue, made a mistake in the approach and the mark responded badly. Lenne is in the water below the dock, conscious, still holding the recovered purse out of spite. The mark is on the ferry, loudly explaining what happened, and the ferryman is looking at the adventurers as if sorting this out is their problem. The mark's version of events is accurate but incomplete: Lenne is also in possession of a silver ring and a sealed letter lifted from two other passengers currently on the ferry who do not yet know anything is missing. The ferry is about to leave.
+
+- **Terrain Types:** Village, Quagmire, Plains
+
+What they carry is what is left when they fall.
+
+### Horse Warrior
+
+> _The rider is already past when the thrown spear arrives._
+
+- **ATTRIBUTES:** Strength 2, Agility 4, Wits 3, Empathy 3
+- **SKILLS:** Melee 2, Marksmanship 2, Move 2, Animal Handling 2
+- **ARMOR RATING:** 2
+- **DIFFICULTY:** Moderate
+- **ROLE:** Soldier
+- **GEAR:** Short bow, spear, horse
+- **TACTICS:** Stays moving, throws or shoots, then only closes when the victim is off balance.
+
+Horse Warriors belong to open land, long sight, and clan grudges carried for generations. The horse is not equipment; it is the other half of the fighter. A dismounted Horse Warrior is functional and can be dangerous, but a mounted one is a different order of problem: the speed allows engagement and disengagement without mutual choice, which means they control when the fight happens and when it stops.
+
+They stay moving, throw or shoot, and only close when the target is already off balance. The clan grudge in the name is not metaphor: Horse Warrior bands frequently enforce specific obligations, feuds, or territorial claims established two generations ago and still binding by their people's customs. Understanding what the grudge is about is sometimes the fastest way to understand why they are on this particular road.
+
+#### Random Encounter: the Parallel Riders
+
+> _Four Horse Warriors, riding parallel to the road from the ridge. They have been riding parallel for an hour._
+
+Four riders have been paralleling the road from the ridge for the past hour at the same pace as the party, not closing. They are not attacking yet: the parallel ride is reconnaissance before commitment. The band's elder, a woman named Kerra, is watching for a specific face or a specific clan seal taken from a dead man on the Fenn road three seasons ago. Someone in the party has it, resembles the man who took it, or is traveling toward the settlement where that man was last seen. Kerra will accept a parley flag before she commits. She has been deciding for the past hour. After she decides, the riders will not be on the ridge.
+
+- **Terrain Types:** Plains, Hills
+
+#### Random Encounter: the Sealed Pass
+
+> _The pass is held. Three riders at the top, three at the bottom, and the road goes nowhere else for a day in either direction._
+
+A clan band has sealed the Fenn pass as a toll road for three days. By their custom this is the standard right when moving a herd through mountain passage. The toll they are asking is fair by their accounting. The merchant convoy bottled at the south approach disagrees, and Merchant Sors Veld dispatched a rider three hours ago for a road-warden with a written authorization from Lord Keln's office. Warden Teld will arrive by midmorning with a sealed writ that the clan's leader, Dur, does not recognize as having authority over this pass. Dur is deciding whether to stay, demonstrate the point, and deal with the political aftermath, or withdraw one day early and let Veld have his writ.
+
+- **Terrain Types:** Mountains, Hills, Plains
+
+What they carry is what is left when they fall.
+
+### Poisoner
+
+> _The arrowhead is no broader than a thumbnail, and still the man dies frothing._
+
+- **ATTRIBUTES:** Strength 3, Agility 3, Wits 3, Empathy 3
+- **SKILLS:** Melee 1, Marksmanship 1, Move 2
+- **ARMOR RATING:** 0
+- **DIFFICULTY:** Moderate
+- **ROLE:** Lurker
+- **GEAR:** Bow, dagger, poison phials, smoke pots
+- **TALENTS:** Poison, Fast Footwork
+- **TACTICS:** Fires once, blinds the ground, then runs while the poison works.
+
+Poisoners are hunters made mean or assassins made patient. The bow and the dagger are secondary; the vial is the weapon. A Poisoner who goes into a fight has already applied the advantage before the first exchange — the question is only whether they can maintain distance long enough for the dosage to express itself.
+
+They know what their own mixtures do to flesh because they have tested them, in the workshop and in the field. The specific compounds vary: contact-fast agents for the arrowhead, slower systemic agents for the blade, smoke-compounds for the ground to cover the retreat. A Poisoner who is cornered becomes a chemistry problem rather than a combat problem.
+
+#### Random Encounter: the Tested Trough
+
+> _The horse died in the night. The water is still in the trough._
+
+Someone tested a compound in the waystation water trough overnight. It kills large animals in four hours and humans in less once the dose is sufficient, but the human symptoms begin slowly, which is what the tester was calibrating. The waystation horse died at midnight. The water looks clean and smells of nothing unusual. Anyone who has drunk from the trough since the previous evening has a problem that will not be obvious for another hour or two. The tester is half a day up the road, satisfied with the calibration results, and is now traveling to the client who commissioned the test — the same person the adventurers were hired to deliver a message to.
+
+- **Terrain Types:** Plains, Village
+
+#### Random Encounter: the Stationary Fog
+
+> _The fog does not move the way weather moves. It sits in the road like a decision._
+
+A smoke compound has been deployed in the road choke-point at the Merford cut. Not weather, not morning mist: it sits too low, too still, too precisely at the narrows. Four minutes inside it degrades coordination and narrows the vision until straight lines are gone. The apothecary who mixed it, a man called Drav, is in the north tree-line with a bow, waiting for the smoke to finish the preparation work. The commission is for one specific person whose description Drav has in writing. He is not interested in anyone else in the party. The smoke does not know the difference, and Drav has decided that is an acceptable variable.
+
+- **Terrain Types:** Forest, Plains, Hills
+
+What they carry is what is left when they fall.
+
+### Road Champion
+
+> _The mail shirt is patched three times and each patch is better than the first._
+
+- **ATTRIBUTES:** Strength 6, Agility 3, Wits 3, Empathy 3
+- **SKILLS:** Melee 5, Crafting 3, Scouting 3, Lore 3, Insight 1, Move 2
+- **ARMOR RATING:** 9
+- **DIFFICULTY:** High
+- **ROLE:** Soldier
+- **GEAR:** Long sword, shield, chainmail, open road experience
+- **TALENTS:** Blade, Shield, Charge
+- **TACTICS:** Holds a line, spends Willpower hard, and punishes anyone who assumes a wanderer is half-starved and soft.
+
+This is the hardened adventurer other folk fear meeting in a doorway. The gear shows it: mail repaired too many times to be proud of, a sword sharpened down past the original geometry, the particular economy of movement of someone who has learned that every motion costs something and is now selective about what they spend. Veteran of roads, tombs, and losing friends one at a time.
+
+They may be sell-sword, pilgrim, oath-breaker, or all three, and which one they currently are tends to determine how they approach the first conversation. A sell-sword wants to know who is paying. A pilgrim wants to know which direction the shrine is. An oath-breaker wants to know if anyone in the party is from the place they are running from. The answer to one of these questions is almost always complicated.
+
+#### Random Encounter: the Released Champion
+
+> _The figure sitting on the stone bridge does not move when the party approaches. It is not asleep._
+
+A figure sits on the stone bridge, not asleep, not moving as the party approaches. Sell-sword Keld Vorn has been waiting here for the employer who was supposed to make contact three days ago and has not. The contract has a release clause: if the employer fails to make contact by a specified date, Vorn is released from the commission but also released from the non-interference clause that covers the employer's rivals. The employer's rivals are the party's employer. The release date is today. Vorn has not gone anywhere. He is deciding whether to wait another hour or treat the clause as triggered.
+
+- **Terrain Types:** Plains, Hills
+
+#### Random Encounter: the Occupied Room
+
+> _The inn has one room. It is taken. The person who took it has not come out in two days._
+
+The inn has one room and it is taken. Sell-sword Maret Dol has been locked inside for two days, reading a contract she was given three weeks ago and has not been able to act on because every time she moves toward it, the situation shifts. The contract calls for the elimination of a specific person under specific circumstances. That person walked into the common room this morning and sat down at the fire. Dol is now determining whether the circumstances still hold, because the contract specifies them with some precision and the circumstances now include a room full of witnesses who are eating their breakfast and have no obligation to stay seated.
+
+- **Terrain Types:** Village, Plains
+
+What they carry is what is left when they fall.
+
+### Shield Knight
+
+> _The shield comes first. The man behind it after._
+
+- **ATTRIBUTES:** Strength 5, Agility 2, Wits 2, Empathy 3
+- **SKILLS:** Melee 3, Performance 1
+- **ARMOR RATING:** 9
+- **DIFFICULTY:** High
+- **ROLE:** Brute
+- **GEAR:** Flail, large shield, chainmail
+- **TALENTS:** Defender, Shield Fighter
+- **TACTICS:** Baits attacks, shoves foes prone, and grinds down anyone who cannot get around the shield.
+
+A Shield Knight is a road-lord's wall made flesh. The equipment is the job: the large shield is not a defensive tool that happens to be available, it is the primary weapon, used to shove, pin, brace, and funnel opponents into positions where the flail does its work without interference. The shield comes first. The man behind it after.
+
+They are worth fearing in a gate, on a stair, or at the mouth of a bridge where there is no room to be clever. On open ground, flanked and surrounded, they are difficult but can be gotten around. In any choke-point where the geometry forces opponents into single-file, a Shield Knight is effectively an obstacle, and obstacles require different tools than fighters do.
+
+#### Random Encounter: the Gate Accounting
+
+> _The gate is open. The Shield Knight standing in it is not blocking it; they are occupying it, which is different._
+
+A Shield Knight has been posted at the village gate on behalf of a landlord conducting an enforcement visit. Guard-captain Brek stands in the gate opening — not blocking it, occupying it, which is different. The landlord's agent is inside reviewing account books that do not show the numbers the landlord was told. The knight is not stopping people from entering. He is stopping people from leaving before the accounting is finished. Two merchants with loaded carts and a tanner with a season's hides are each explaining why their departure is routine and not connected to the audit. Brek has heard this argument three times in the past hour and is now charging a patience fee.
+
+- **Terrain Types:** Village, Plains
+
+#### Random Encounter: the Tower Stairs
+
+> _The staircase in the old tower is wide enough for one person. The Shield Knight at the bottom of it has been there since dawn._
+
+The staircase in the old tower is wide enough for one person. Guard Veld has been at the base of it since dawn, executing a contract to hold the ground floor while the client establishes occupancy above. The tower is disputed property: three parties have claims, none with current legal settlement. One of the other claimants arrived an hour ago and is offering more than the original contract rate to stand aside. The company's policy on mid-contract renegotiation is clear and Veld knows the policy. What Veld has not yet communicated is his personal view of a policy written by men who have not held a staircase for eight hours.
+
+- **Terrain Types:** Ruins, Village, Hills
+
+What they carry is what is left when they fall.
+
+### Town Guard
+
+> _The spear point trembles until the order comes. Then it does not._
+
+- **ATTRIBUTES:** Strength 3, Agility 3, Wits 2, Empathy 3
+- **SKILLS:** Melee 2, Insight 2
+- **ARMOR RATING:** 5
+- **DIFFICULTY:** Low
+- **ROLE:** Soldier
+- **MORALE:** 8
+- **NUMBER APPEARING:** 3–10
+- **GEAR:** Short spear, small shield, studded leather
+- **TACTICS:** Works in pairs, shoves first, then pins with spear and shield together.
+
+Town Guards are seldom brave in the open. An individual guard separated from the formation is a man in a leather coat with a spear he has not used this year. Ten of them at a gate with the sergeant watching is a different proposition. Their effectiveness scales with numbers and structure; remove either and the calculation changes.
+
+Most of them are less loyal than they sound and more frightened than they look. The standing orders make them sound resolute and the uniform makes them look official. What the uniform does not show is that most of them have a family in the town, earn what a laborer earns, and have not been paid for three weeks because the town treasurer has been in dispute with the garrison-master since last autumn. A guard who has not been paid and is being asked to enforce an order they do not understand will generally find a way to be somewhere else.
+
+#### Random Encounter: the Sealed Gate
+
+> _Six guards at the gate. The gate is normally unguarded._
+
+Six Town Guards are posted at the Brenn village gate that is normally open and unstaffed. The reason given to anyone who asks is orders from the council. Guard Seln is not sure what the order actually concerns, because the sergeant explained it using a phrase that can be read two ways and then left before questions were asked. A traveler who approached from the east road ten minutes ago was turned back without explanation, and the traveler seemed more relieved than upset about it. Seln has noticed this and is not sure what to make of it, but the something they are here to stop has clearly already been here and decided not to press the point.
+
+- **Terrain Types:** Village, Plains
+
+#### Random Encounter: the Wrong Direction
+
+> _The guard at the bridge post is awake, alert, and looking in the wrong direction._
+
+Guard Olen is posted at the north arch of the Dren bridge, awake and alert and watching south, which is where he was told to watch. He has not noticed the six armed travelers who came up from the east an hour ago and are currently camped under the bridge's north arch below him. The adventurers can see both Olen and the campers. The campers have noticed the adventurers. Olen was told to watch south and call out when he sees something specific coming from that direction, and he has been conscientiously doing that. The campers under the arch are not his problem in any interpretation of his orders, and everyone in sight of this bridge can see that he intends to keep it that way.
+
+- **Terrain Types:** Village, Plains, Quagmire
+
+What they carry is what is left when they fall.
+
+### Wise-Hand
+
+> _The old woman lifts her staff not to strike, but to mark where the ground will open._
+
+- **ATTRIBUTES:** Strength 3, Agility 3, Wits 4, Empathy 3
+- **SKILLS:** Melee 1, Move 1, Lore 2
+- **ARMOR RATING:** 2
+- **DIFFICULTY:** Moderate
+- **ROLE:** Trickster
+- **GEAR:** Staff, herbs, charms
+- **TACTICS:** Weakens the party, heartens allies, and lets others do the killing.
+
+Wise-Hands are hedge priests, apprentice shamans, and spirit-speakers on the edge of real power. The distinction between a Wise-Hand and a village herbwoman is in what they will admit to knowing: the herbwoman heals and does not explain why; the Wise-Hand heals and explains more than is comfortable. The distinction between a Wise-Hand and a full practitioner is in how much the spirits listen, and that distinction narrows with time and practice.
+
+The clever ones never stand in front of their own curses. They weaken the opposition, hearten allies, and let others do the killing. The staff and the charms are real tools, not theater — the theater is for the people who need to see something in order to believe in it, and theater applied at the right moment to the right target is as effective as a weapon.
+
+#### Random Encounter: the Timely Arrival
+
+> _The Wise-Hand at the crossroads is selling cures. Three people have died in the village this month and three more are sick. The Wise-Hand arrived eight days ago._
+
+Wise-Hand Elra arrived at the Fenn crossroads eight days ago and has been selling cures since. Three people in the village have died this month from the same sickness and three more are declining. Two of Elra's cures have worked. One has not. Village elder Veld is increasingly certain she arrived knowing what was causing the sickness, has not shared the cause, and is monetizing the diagnosis alongside the treatment. Veld may be correct. Elra may also be the only person within three days' travel who can actually resolve it. Both of those things can be true at once and Veld has not yet found a way to act on one without needing the other.
+
+- **Terrain Types:** Village, Plains, Forest
+
+#### Random Encounter: the Stopped Ambush
+
+> _The warcry that stopped the ambush was not human. The person who made it is sitting quietly by the fire._
+
+The party's camp was approached by six armed men last night and the attack stopped before it reached them: something in the dark made a sound that sent three attackers dropping their weapons and running, and caused the other three to negotiate. Wise-Hand Meld, who was sitting by the fire, has not explained what she did. She has asked whether anyone needs healing. The three who ran have not returned — men who break in a panic usually recover within the hour and come back different. They have not come back. Meld has been offered payment for what she did and has declined, which is either generosity or a statement that payment was not the point.
+
+- **Terrain Types:** Forest, Plains, Hills
+
+What they carry is what is left when they fall.
+
 ### Abyss Worm
 
 > _The field had been harrowed at dawn. By noon it had swallowed two oxen, a boy, and half the plow. The old woman by the gate spat into the dust and told the others not to stamp their feet._

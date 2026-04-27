@@ -12,7 +12,7 @@
 
 Welcome to the _Book of Beasts_. In these pages you will find no fewer than 28 new monsters, along with rules for using them and unique encounters and events for each and every one of them.
 
-After that, the book presents as many as 36 new random encounters that the adventurers might run into, followed by a battery of useful tools and tables for the Game master. At the end of the book is a rule set for playing _Forbidden Lands_ on your own, without a Game master.
+After that, the book continues with 36 new random encounters in `03-encounters.md` and a gallery of legends in `04-legends.md`.
 
 The _Book of Beasts_ is not tied to any particular campaign or part of the game world. It can be used just as well in the core game’s Ravenland as in the campaigns The Bitter Reach or Aslene – or in your own homebrew game world.
 
@@ -3627,6 +3627,7 @@ The swordsman is Brother Eldrik of the Howling Path, a willing wolfshadow who se
 >
 > **Wolfshadow's weapon:** Whatever the host was carrying when it fell. The weapon retains the wolfshadow's edge: a D10 Artifact Die to the wielder's first attack of any fight, but the wielder must succeed on an ENDURANCE roll after the fight or attract another wolfshadow within nine days. The weapon can be cleansed by a Druid or a Raven Sister at a forge over a Quarter Day; the cleansing strips the bonus and ends the threat. The Howling Path will pay forty silver for any wolfshadow's weapon brought to them; the Raven Sisters will burn anyone caught keeping one for hire.
 
+<!-- moved to `02-gamemasters-guide/06-bestiary.md`
 ## Humanoid Bands
 
 ### Black-Fletch Archer
@@ -3941,6 +3942,7 @@ The party's camp was approached by six armed men last night and the attack stopp
 - **Terrain Types:** Forest, Plains, Hills
 
 What they carry is what is left when they fall.
+-->
 
 ## Legends
 
