@@ -41,9 +41,10 @@ See `proposals_applied/` for band economy models and mercenary balancing work.
 
 ### PDF/Markdown Processing
 
-- `pdf_to_markdown.py` — Extract text from PDF source
+- `pdf_to_markdown.py` — Generic PDF → Markdown pipeline with modular cleanup passes (`1.0.0`)
 - `ocr_markdown_audit.py` — Quality check on OCR'd markdown
-- `repair_flattened_tables.py` — Fix table formatting issues
+- `repair_flattened_tables.py` — Compatibility wrapper for the shared flattened-table repair pass
+- `markdown_reflow.py` — Wrap or unwrap prose while preserving tables and lists
 
 ### Content Generation
 
@@ -72,6 +73,8 @@ python traderoads_sensitivity.py
 ```bash
 python analyze_corebook.py
 python ocr_markdown_audit.py
+python pdf_to_markdown.py path/to/book.pdf path/to/output-dir --list-passes
+python markdown_reflow.py path/to/file.md --mode unwrap --write
 ```
 
 ---
