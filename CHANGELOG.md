@@ -7,47 +7,71 @@ All notable changes to the Forbidden Lands Corebook will be documented in this f
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## [1.1.0] - 2026-04-27
 
 ### Added
 
-- **Gamemaster's Guide Chapter 11 — Politics of the Forbidden Lands.** Added the missing political layer between settlement play and mass combat. Introduces faction creation and play with the native pillars `Mandate`, `Force`, `Reach`, and `Hearth`; sixteen practices covering legitimacy, coercion, logistics, intrigue, and extraction; legacies; settlement bonds (ruled, protected, tributary, vassal, occupied, allied); feud escalation; seasonal faction turns and campaign weeks; tribute, burden, levy, retainer, mercenary, and supply-line rules; guidance for converting faction contingents into Chapter 12 troops; and six premade factions for campaign use.
+- **`/skills` folder.** Added the repo-owned skill bundle for Forbidden Lands work. It keeps the project-specific guidance in one place and leaves the generic skills out of the public book path. The purpose of these skills is to let AI and Game Masters cowork on Forbidden Lands supplements, new regions, new campaigns, new rules, and new monsters without scattering the guidance across the manuscript.
+
+- **`forbidden-lands-bestiary`.** Audits, writes, and rewrites bestiary entries so monsters, encounters, and salvage feel native to the book instead of bolted on. It keeps new creatures on the canonical format and design line.
+  - Shapes statblocks, Monster Attacks tables, Lore Roll tables, and random encounters.
+  - Rewrites RESOURCES blocks to fit the Book of Beasts salvage standard.
+  - Catches duplicate monsters, flat rewards, and template smell.
+  - Supports new entries, migrated first-edition monsters, and cleanup passes.
+
+- **`forbidden-lands-design`.** Explains and extends Forbidden Lands mechanics so new rules fit the existing engine instead of fighting it. It is the rules-side check for whether a subsystem actually works at the table.
+  - Traces rule loops, trigger points, consequences, and downstream state changes.
+  - Maps integration points across talents, spells, gear, journeys, and recovery.
+  - Audits proposals for mechanical coherence and playability.
+  - Helps turn vague subsystem ideas into usable game text.
+
+- **`forbidden-lands-lore`.** Checks setting authenticity, cultural detail, and world-state claims so prose stays rooted in the Ravenlands. It keeps names, peoples, and institutions in the right register.
+  - Verifies geography, kin, religions, artifacts, and historical references.
+  - Audits prose for anachronism, wrong-register tone, and basic-fantasy drift.
+  - Guides human nationality, cultural texture, and monster lore consistency.
+  - Protects encounter authenticity and setting-specific fact claims.
+
+- **`forbidden-lands-synergy-analysis`.** Stress-tests multi-rule combinations for dominant lines, loopholes, and campaign erosion. It is the safety check for builds and stacked mechanics that look clever but may be too clean.
+  - Runs the five-test analysis on suspicious combos and builds.
+  - Screens new rules against known danger zones and exploitation surfaces.
+  - Distinguishes healthy high-risk synergy from automatic dominance.
+  - Recommends caps, restructures, or separations when a loop is too strong.
+
+- **`forbidden-lands-writing-voice`.** Drafts and audits Forbidden Lands prose in both the writing voice and the rules voice. It keeps fiction, examples, and mechanics sounding like the same hard, practical book.
+  - Guides vignettes, epigraphs, flavor text, and example scenes.
+  - Covers talent, item, spell, and procedure prose in the rules register.
+  - Loads the anti-AI humanizer and author-line references for cleaner manuscript voice.
+  - Helps prose stay harsh, clear, and native to the manuscript.
+
+- **`forbidden-lands-medieval-authenticity`.** Grounds Forbidden Lands prose in practical medieval material reality, with a generic layer for survival work and a Bitter Reach layer for the north's harsher customs and pressures. It gives AI and Game Masters the lived detail needed to build supplements, regions, campaigns, rules, and monsters that feel physically true instead of invented on the page.
+  - Covers camp life, shelter, cold, travel, food, craft, barter, fear, maintenance, and bodily wear.
+  - Keeps The Bitter Reach's Norse-inflected customs, law, religion, trauma, and outlawry in a separate regional layer.
+  - Splits portable medieval truth from setting-specific truth so the rest of Forbidden Lands stays flexible.
+  - Pairs with lore and writing guidance so physical realism, setting truth, and manuscript voice stay aligned.
+
+- **Book 02 — Gamemaster's Guide**
+  - **Chapter 05 — Human peoples.** Added a new visual, psychological, and cultural profile for human peoples. Ailanders and Alderlanders are no longer treated as the same folk; they differ in appearance, customs, behavior, and social traditions.
+  - **Chapter 06 — Bestiary.** Added new monster-harvest rules for Alchemists and spellcasters. The base yield from a slain monster rises from 1 to 3 ingredients, and rare ingredients now require more than 1 success. Expanded the chapter with 9 humanoid enemy bands for wild encounters — Black-Fletch Archer, Clan Hunter, Cutpurse, Horse Warrior, Poisoner, Road Champion, Shield Knight, Town Guard, and Wise-Hand — plus more authentic and more dangerous random encounters built around moral conflict, hard choices, and physical consequence.
+  - **Chapters 07, 08, and 09 — Gamemaster Tools.** Folded the Book of Beasts tool material into Artifacts, Encounters, and Adventure Sites.
+  - **Faction play and politics.** Introduced a full system for faction play and medieval conquest. It gives the table a living map of influence, loyalty, resources, and territory, and it makes long campaigns bite back through explicit procedures instead of loose guidance.
+    - Rival claims now matter as much as blades, so the table can track who owes whom, who is weakening, and who is about to break.
+    - Settlement play, faction pressure, and campaign recovery all follow procedures the GM can actually run at the table.
+    - The system lets players bargain, scheme, and hold power without turning politics into pure narration.
+    - Losses and setbacks leave marks that change the next season instead of vanishing between sessions.
+    - The rules connect cleanly to strongholds, roads, tribute, and the wider shape of the Forbidden Lands.
+  - **Mass combat.** Introduced a mass combat system for wars, sieges, and field battles. It keeps large fights playable while still making them feel costly, dangerous, and worth planning for.
+    - Command and battle-line choices stay visible instead of disappearing into a single die roll.
+    - Supply, blockade, breach, and relief all matter, so an army can win by starving the other side rather than only by killing it.
+    - The system keeps armies tied to terrain, fortifications, and faction pressure.
+    - Each battle can leave scars on settlements, strongholds, and the people who survive it.
+    - The GM gets a way to resolve war without flattening the whole campaign into a summary.
 
 ### Changed
 
-- **Gamemaster's Guide Chapter 11 — Politics of the Forbidden Lands.** Added a persistent army layer between faction turns and `BATTLES & SIEGES`: the faction sheet now records `Armies at Disposal`; Chapter 11 now includes a separate army roster, army-scale guidance that keeps most Ravenlands wars at small-host or field-host size, `Reach` limits for how many separate armies a faction can keep moving cleanly, rough `Provision Load / Pay Load` bands, weekly `Provisions` and `Maintenance` procedures, and army-travel rules derived from the existing quarter-day movement engine rather than a new one. The `Call Levy`, `Hire Mercenaries`, and war handoff guidance now point into that roster layer, and every premade faction now includes ongoing named army rosters rather than only a loose force list.
+- **Book 01 — Corebook.** Polished Chapters 12 (Mercenaries) and 13 (Traderoads). Traderoads also gained added vignettes and narrative examples.
+- **Book 03 — Book of Beasts.** Doubled the bestiary with 44 new monsters overall, including the 9 humanoid enemy bands moved into the Gamemaster's Guide. The Book of Beasts itself now adds 35 non-humanoid monsters: Carrion Wing, Ape-Man, Bugbear, Giant Centipede, Crawling Claw, Little Gargoyle, Glass Ooze, Goblin, Tunnel Maw, Hell Hound, Night-Pup, Ogre, Giant Rat, Giant Toad, Fear-Drinker, Corpse Ogre, Walking Dead, Warlock of the Black Tower, Tunneler, Pale Ape, Star-Watcher, Air Spirit, Earth Spirit, Giant Scorpion, Clay Golem, Iron Golem, Bog Hag, Death Magister, Snake Queen, Thought-Kraken, Rock-Hanger, Night Bride, Grave Bat, Wereboar, and Werewolf. Each comes with 2 challenging and unconventional random encounters, a legend for players to learn, and 3 resources to collect.
 
-- **Gamemaster's Guide Chapter 11 — Politics of the Forbidden Lands.** Added explicit `Agents` and `Advisors` rules for named faction hands below army scale. Traveling agents now use ordinary adventurer attribute-and-skill rolls when the GM resolves a dangerous offstage undertaking, and only faction-changing achievements on the scale of a short campaign or greater can generate CP for the faction. Resident advisors now use ordinary adventurer rolls for seat intrigue, muster reckoning, envoy handling, counter-espionage, hostage management, and other hall-bound work; their successes grant stored bonus dice to later seat-based faction checks, and a truly exceptional difficulty-4 success can convert one of those into a `D8` Ascendancy Die instead.
-
-- **Gamemaster's Guide Chapter 11 — Politics of the Forbidden Lands.** Repositioned `Armies at Disposal` so the army roster layer now sits later in the chapter, after the political-act, burden, revenue, fallout, and levy material it depends on. The roster table now uses `BATTLE FORM` instead of `CHAPTER 12 FORM`, the surrounding prose now points to `BATTLES & SIEGES` by title rather than chapter number, and army travel is recalculated around a **10-hex** weekly pace for a foot host on good ground, with the rest of the movement table adjusted from that anchor.
-
-- **Gamemaster's Guide Chapter 11 — Politics of the Forbidden Lands.** Added faction **Campaign Points (CP)** advancement for practices, pillars, and legacies without any teacher requirement, with milestone awards keyed to minor gains, major successes, significant victories, and full conquest or absorption, plus pillar recovery tied to the kind of victory that earned the CP. Also revised Chapter 11 prose cadence across its framing, turn structure, and political procedures to reduce the chopped micro-paragraph feel and bring the rules exposition closer to the denser paragraph rhythm used elsewhere in the Gamemaster's Guide. The chapter now expands `Key Terms` into a fuller glossary, uses a table-based faction sheet with `RECORD` fields, renames the pillar set to `Mandate / Force / Reach / Hearth`, grounds Treasury by ready-silver benchmarks from the corebook economy, splits Labor / Levy / Retainers into separate working tables, gives Treasury, Stores, Labor, Levy, and Retainers direct procedural weight, and rewrites every legacy path in a Chapter 04-style rank presentation with stronger high-rank faction effects.
-
-- **Gamemaster's Guide Chapter 11 — Politics of the Forbidden Lands.** Refined the faction engine further: CP awards may now be spent immediately to heal damaged pillars instead of being banked; pillar healing uses a stepped CP cost table; assets now use rated **1–5 asset dice** with only the single highest relevant asset applying to a roll; overwhelming advantages may replace one base die with a once-per-season **Ascendancy Die**; passive faction recovery is reduced to **1 pillar point per Season Turn**; `Political Instruments` is expanded into more practical medieval guidance on oaths, hostages, charter rights, sanction, and outlawry; and the faction turn is rebuilt as four explicit **Modes of Rule** (`Peace`, `Pressure`, `Muster`, `Campaign`) with separate GM procedures for community control, development, prosperity, logistics, production, and campaign upkeep.
-
-- **Gamemaster's Guide Chapter 11 — Politics of the Forbidden Lands.** Clarified that asset banes reduce an asset only when the final roll fails or when the roll is pushed, never on a successful unpushed roll; moved campaign-defining named examples like the **Crown of Five Elven Rubies** and a **captured monster kept as a weapon** into the `Ascendancy Dice` guidance; added an explicit optional **Decree** step to every Mode of Rule; and defined the political action system more cleanly by separating **minor acts**, **major acts**, and **campaign acts**, with `Issue Decree` formalized as a minor act that can also generate limited carryover bonus dice for the next faction turn of the same length.
-
-- **Gamemaster's Guide Chapter 11 — Politics of the Forbidden Lands.** Renamed `Political Acts` to `Faction Acts`, alphabetized the act entries, added an explicit `**TYPE:**` line under every act heading, moved the old revenue/tribute/burden material to follow the acts, split it into separate `Fallout`, `Burden`, `Revenue`, and `Tribute` sections, and added `D66` tables for failed faction-act fallout and failed burden-linked outcomes.
-
-- **Gamemaster's Guide Chapter 11 — Politics of the Forbidden Lands.** Reworked the `Act Scale` presentation so default act scope now lives inside the table instead of a technical lead-in, added a new `Handoff` procedure with `D66` failed-transition outcomes for crossing from faction play into `BATTLES & SIEGES`, normalized stronghold function naming to fullcaps and troop-source bullets to the chapter's preferred bold-capitalized style, renamed the war-transition heading away from technical language, and greatly expanded `After the War` to cover hunger, veteran return, scarcity, broken infrastructure, and supernatural fallout in ravaged lands.
-
-- **Writing standards.** Updated both `WRITING_GUIDE.md` and the `forbidden-lands-writing` skill rules to state explicitly that rule voice must never slip into technical-document language, even when the prose is procedural and exact.
-
-- **Gamemaster's Guide Chapter 11 — Politics of the Forbidden Lands.** Expanded `After the War` again so each major aftermath track now produces concrete `D66` results: failed hunger recovery, failed veteran resettling, market scarcity scenes, broken-works encounter fallout, and tainted-ground manifestations. Also completely replaced the old generic premade faction roster with setting-rooted powers drawn from `History`, `Gods`, and `Kin`, including Alderstone's Rust Brothers, Zertorme at Amber's Peak, the Raven Sisters, the Golden Bough, the Redrunners, the Iron Hounds of Stonegarden, Emperor Hroka's Urhurs, and the Gristle's company as the surviving mercenary hook.
-
-- **Gamemaster's Guide Chapter 12 — Battles & Sieges second-pass war procedures.** Added an explicit morale-roll procedure for all existing morale checks; expanded siege play with leaky blockade, supply-run, surrender, parley, and bad-faith rules; added ransom negotiation procedure; sharpened unpaid-soldier consequences with weekly commander checks, desertion, and mutiny outcomes; added wartime coercion procedures for hostages, quartering, and exemplary violence when villages refuse contribution; and added post-assault mercy, ordered sack, open sack, and occupation-holding procedures so siege aftermath now models plunder, disease, discipline loss, reprisals, and the long cost of treachery.
-
-- **Gamemaster's Guide Chapter 12 — Battles & Sieges core battle clarity pass.** Added a short quickstart for running a battle from the chapter's core path; defined section adjacency; added explicit reserve-commitment and battle-turn-order procedures; corrected demoralization so unresolved base-die banes remove fleeing groups at troop scale instead of mixing exact soldier counts with base-die losses; clarified friendly-fire resolution for skirmishers shooting into allied melees; added a `Winning a Section` procedure for hold / pivot / pursue decisions; added a `Breach and Gate Fighting` transition for wall sections that stop functioning as walls; and added a `Relief of a Siege` procedure for the moment a field army reaches an invested fortress.
-- **Gamemaster's Guide Chapter 12 — Battles & Sieges troop-strength clarification.** Clarified that troops may still be recorded with exact musters, but battle tracks fighting groups by threshold rather than counting single bodies in the middle of the clash: one base die normally stands for twenty infantry or skirmishers, five cavalry, or one monster, with siege defenders using ten per die, and each point of unresolved damage removes one such full group.
-- **Gamemaster's Guide Chapter 12 — Battles & Sieges battle-pace refinement.** Slowed section collapse slightly so more battlefield decisions can matter before a line disappears: only one edge-spend option that inflicts direct damage may now be chosen per section per turn, protection that still catches part of the blow now preserves 1 morale point from that exchange, and a reserve already waiting behind a section may be thrown in immediately if the frontline troop is destroyed before it can answer.
-
-- **Gamemaster's Guide Chapter 12 — Battles & Sieges tactical completeness pass.** Added battlefield screening and picket rules before deployment; made siege-engine progress explicitly visible to defenders; clarified when blockade-running can bring reinforcements into a fortress; added counter-siege measures for burning towers and rams, countermine work, and deliberate withdrawal from an outer wall; added rear-area pressure rules for baggage raids, camp raids, and baggage guards; and added ferry, boat, landing, and waterside assault rules so crossings and water access matter more sharply in campaign war and siege play.
-
-- **Gamemaster's Guide Chapter 12 — Battles & Sieges advantage-edge expansion.** Expanded uncancelled advantage successes so they can now be spent on battlefield gains instead of only damage, including pressing a section back, pinning it in place, cutting down signalers, covering a withdrawal, opening gaps for adjacent troops, spoiling reserve relief, silencing standards, disordering shields, triggering panic, seizing key ground at gates and breaches, and riding through to baggage or engines when cavalry breaks the rear. The battle-roll flow now also states when weapon attack properties are applied, turns direct extra damage into explicit edge-spend choices, adds a costly 3-success option to inflict 2 damage at the price of being more exposed on the next turn, and places the local damage-resolution procedure next to the battle roll.
-
-- **Corebook — Prose quality improvements across eleven chapters.** Opening and framing prose revised in Chapters 1, 2, 3, 5, 7, 8, 9, 11, 12, and 13 (Front Matter, Your Adventurer, Skills, Combat & Damage, Magic, Journeys, The Stronghold, Appendix, Mercenaries of the Forbidden Lands, Lifepaths of the Forbidden Lands). Filler phrasing, rhetorical ornamentation, and over-articulated observations replaced with direct, physically-grounded prose. Key revisions: kin entry descriptions (Half-Elf, Orc, Rider) rewritten to open on behavior and physical circumstance; the Civilized/Uncivilized framing section tightened and the embedded narrator-apology sentence removed; LORE skill description revised to a single clear statement; Magic chapter opening replaced with concrete grounded language; Stronghold chapter intro's closing rhetorical question removed; Heroic Campaign section in the Appendix reframed to state its register directly; the Mercenaries chapter scope paragraph condensed; the Lifepaths intro and one descriptive bullet reworked to open on specific consequence. No rules content changed.
-
-## [1.1.0] - 2026-04-24
+## [1.0.8] - 2026-04-24
 
 ### Changed
 
