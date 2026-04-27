@@ -1,5 +1,23 @@
-/reader/
+# Ignore everything by default, then allow the repo content you want tracked.
+/*
+
+!.gitignore
+!/README
+!/README.*
+!/CHANGELOG
+!/CHANGELOG.*
+!/LICENSE
+!/LICENSE.*
+
+!/01-corebook/
+!/01-corebook/**
+!/02-*/
+!/02-*/**
+!/03-*/
+!/03-*/**
+!/skills/
+!/skills/**
+
+# Explicitly keep these out even if a parent rule changes later.
 /scripts/
-files/
-pdf-to-markdown/
-rpg-balance-analysis/
+/02-gamemasters-guide copy/
