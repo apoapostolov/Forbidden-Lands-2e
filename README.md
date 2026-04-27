@@ -58,7 +58,7 @@ This repository includes AI-assisted drafting and editing. If any part of this p
     - `08-journeys.md` - Travel and exploration
     - `09-the-stronghold.md` - Stronghold rules
     - `10-gear.md` - Equipment and gear
-    - `11-appendix.md` - Appendices and reference
+    - `11-heroic-play.md` - Heroic play and reference
   - **Assets**:
     - `00-cover.png` - Cover image
   - **Future Updates**: This corebook may receive errata updates for clarifications and balance adjustments, but represents the complete integrated ruleset.

@@ -148,12 +148,6 @@ A SCOUTING roll confirms three things: the branches move without wind; the bark 
 
 - **Terrain Types:** Forest, Dark Forest, Plains, Hills
 
-Adventurers who examine the great tree and succeed with a SCOUTING roll can make three interesting observations. First, the tree’s branches are constantly moving, even though there is no wind blowing in the area. Second, its trunk and leaves shimmer with a shade of golden red. Third, those who put their ears to the trunk can hear a faint humming. With a successful LORE roll the adventurers recognize a few elvish words, and a PC who spends a Quarter Day listening to the tree gets to hear a random legend.
-
-The humming is coming from an ancient stillelf, whose ruby is embedded inside the tree. The ruby is beyond the adventurers’ reach, but if you wish to develop this random encounter into a small adventure, the tree could come to life in the form of an ent (see the _Game master’s Guide_, page 92).
-
-- **Terrain Types:** Forest, Dark Forest, Plains, Hills
-
 ### **9** the Wild Hunt
 
 > _A young man in blood- splattered clothes suddenly jumps out onto the path in front of you. For a brief dramatic moment your eyes meet. Wild, panicking eyes are staring pleadingly into yours, before the man runs off into the terrain. A few breaths later come a group of savage orcs of a kind you have never seen before: big, imposing, and eerily humanlike, and all of them females. Armed with bows and hunting spears, they stare at you with glowing yellow eyes. Their leader – who has nine pearladorned fox tails hanging down her back – speaks to you in a deep but surprisingly articulate voice: “Strangers, we seek the human hare – have you seen it dance through here?”_

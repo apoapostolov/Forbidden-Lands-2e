@@ -130,7 +130,7 @@ Do not overfit to one chapter. The voice is stable across registers, not identic
 
 **Danger when imitating:** Catalog copy. "A fine blade crafted by master smiths" is not this chapter's voice. "A straight blade, an arm's length and a half, fitted for one hand or two" is.
 
-### `11-appendix.md`
+### `11-heroic-play.md`
 
 **Temperature:** Reference, compressed, minimal.
 

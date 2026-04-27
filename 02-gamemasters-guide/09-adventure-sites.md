@@ -676,6 +676,12 @@ Stats for different types of beings can be found in several locations in this bo
 | 54      | Rust Brother    | Suspicious               | Has doubts.                                                                          |
 | 55      | Shepherd        | Very beautiful           | Dreams of killing someone.                                                           |
 | 56      | Braggart        | Foppish                  | Likes to touch people as if old friends.                                             |
+| 61      | Cook            | Fat                      | A brilliant storyteller.                                                             |
+| 62      | Cultist         | Seducing                 | Will take over, one day.                                                             |
+| 63      | Guard           | Lazy                     | Craving for a mug of beer.                                                           |
+| 64      | Messenger       | Very tired               | Believes he or she is being followed.                                                |
+| 65      | Miner           | Wiry                     | Swears all the time.                                                                 |
+| 66      | Academic        | Unkempt eyebrows         | Has a theory about the world. Wants to tell everyone about it.                       |
 
 ### Rules for Strongholds
 
@@ -726,12 +732,6 @@ Roll three times to create more nuanced servants: once for the servant’s name 
 | 64 | Tsukalla (orc) | Vengeful | Killed the wrong person by mistake |
 | 65 | Fortula (goblin) | Impulsive | In debt to dangerous people |
 | 66 | Kelani (wolfkin) | Irritable | Wanted for assault in a nearby village |
-| 61      | Cook            | Fat                      | A brilliant storyteller.                                                             |
-| 62      | Cultist         | Seducing                 | Will take over, one day.                                                             |
-| 63      | Guard           | Lazy                     | Craving for a mug of beer.                                                           |
-| 64      | Messenger       | Very tired               | Believes he or she is being followed.                                                |
-| 65      | Miner           | Wiry                     | Swears all the time.                                                                 |
-| 66      | Academic        | Unkempt eyebrows         | Has a theory about the world. Wants to tell everyone about it.                       |
 
 ### Treasure and Finds
 
@@ -1490,7 +1490,7 @@ There are many different ways in which the adventurers can find Weatherstone. Th
 
 #### The Yellow-eyed Deer
 
-The adventurers suddenly get a glimpse of a mangificent creature, a deer with grand horns. It runs off with uncanny speed, only to then and again stop and look back at the adventurers, as if waiting for them to catch up. The deer is actually the trickster demon Merigall, trying to lure the adventurers to Weatherstone. The adventurers will lose sight of the creature just before they spot the castle of Weatherstone. The demon has then trans-
+The adventurers suddenly get a glimpse of a mangificent creature, a deer with grand horns. It runs off with uncanny speed, only to then and again stop and look back at the adventurers, as if waiting for them to catch up. The deer is actually the trickster demon Merigall, trying to lure the adventurers to Weatherstone. The adventurers will lose sight of the creature just before they spot the castle of Weatherstone. The demon has then transformed itself into the form of the old bard Dalb (see location #1).
 
 #### The Tired Treasure Hunter
 
@@ -1524,13 +1524,7 @@ Esgar Farthing and his men are indeed entering the stronghold. There is a demon 
 
 Dalb/Merigall has no further role in this adventure. He will leave the tower before the adventurers exit Weatherstone. But this won’t be the last time that he crosses path with the adventurers. More about that in the _Raven’s Purge_ campaign book.
 
-9 10 8 2
-
-6 7 5 3 4 1 WEATHERSTONE
-
 > _recently. They seek the weapon of king Algarod, the mighty sword Rustbite. Esgar is an impatient man and they left for the stronghold immediately. But there is something I never told them, something that you might find of interest…”_
-
-by the other treasure hunters’ attempts to free their comrade. Who was grabbed, and if they survived or not, is up to you as GM.
 
 #### 3. the House of Knights
 
@@ -1546,7 +1540,7 @@ Dalb inhales deeply from the pipe and looks at the adventurers over the cracklin
 
 A large, somewhat intact house close to the gate contains the main feast hall surrounded by an audience hall, guest quarters, kitchen and servant’s quarters. Each room is one zone for the purposes of combat. The soldiers’ corpses still have mummified flesh on them.
 
-A muddy moat runs around Weatherstone into which a foul creature from the laboratory has escaped. The drawbridge has collapsed, so the adventurers need to find acces through other means. Nearby, there are a few rotting logs that can be used to CRAFT a makeshift bridge or raft to cross the moat). Another option is to simply wade or swim. In any case, the adventurers will encounter problems in the form of the hungry beast in the water (see The Moat under Events below). The dark patch on the shore is blood from the creature – one of Esgar’s companions was attacked by the monster, which was injured
+A muddy moat runs around Weatherstone into which a foul creature from the laboratory has escaped. The drawbridge has collapsed, so the adventurers need to find acces through other means. Nearby, there are a few rotting logs that can be used to CRAFT a makeshift bridge or raft to cross the moat). Another option is to simply wade or swim. In any case, the adventurers will encounter problems in the form of the hungry beast in the water (see The Moat under Events below). The dark patch on the shore is blood from the creature – one of Esgar’s companions was attacked by the monster, which was injured by the other treasure hunters' attempts to free their comrade. Who was grabbed, and if they survived or not, is up to you as GM.
 
 #### When the Undead Have Risen
 
@@ -1823,19 +1817,17 @@ The one-eyed giant, Scrome, is the vale’s guardian. He used to keep the restle
 
 Zygofer visited the valley frequently with his wife Martea three-hundred years ago in order to learn more about necromancy, but earned the ire of Scrome and has not been welcome in the valley since that time. The ruins of Zygofer’s house and the remnants of his experiments still remain.
 
-could be the cure). The hunters might meet the adventurers early on, being companionable and wanting to team up with them, but they are completely unreliable and unscrupulous as they are only interested in their payday.
-
-#### The Stone Chantress and the Dwarves
-
-The stone chantress Oralda and her six dwarven henchmen want to meet the whiners in order to learn how the small-folk produces hollow-rock, but dare not approach the temple because of the orcs. Both the whiners and dwarves would benefit from working together, but the small-folk are suspicious in the extreme. It’s not unthinkable that the bounty hunters have ingratiated themselves with the dwarves to cloak their true motives.
-
 ### Getting Here
 
 There are many roads that lead to the Vale of the Dead. The adventurers can hear the story and the track down the valley. They can encounter it by chance on their journeys across the Forbidden Lands, or they can run into one of the following groups who all have their own reasons for travelling to the vale.
 
 #### The Bounty Hunters
 
-A party of eight bounty hunters that wants to capture a couple of whiners on behalf of a nobleman (his child has fallen ill, and he believes that the sweet-meat of the whiners
+A party of eight bounty hunters that wants to capture a couple of whiners on behalf of a nobleman (his child has fallen ill, and he believes that the sweet-meat of the whiners could be the cure). The hunters might meet the adventurers early on, being companionable and wanting to team up with them, but they are completely unreliable and unscrupulous as they are only interested in their payday.
+
+#### The Stone Chantress and the Dwarves
+
+The stone chantress Oralda and her six dwarven henchmen want to meet the whiners in order to learn how the small-folk produces hollow-rock, but dare not approach the temple because of the orcs. Both the whiners and dwarves would benefit from working together, but the small-folk are suspicious in the extreme. It’s not unthinkable that the bounty hunters have ingratiated themselves with the dwarves to cloak their true motives.
 
 #### Kalmax and the Riders
 
@@ -2159,9 +2151,9 @@ If Scrome gets the crumhorn back, he will thank the adventurers by granting them
 
 > _The Hollows… Have you ever been to that dump? It’s a village at the back of beyond. Cowards and milksops hid from the Blood Mist in that sorry excuse for a village, waiting for better times. They were unaware of one thing, however… that their peaceful village was built on a site of blood and death._
 
-WEATHERSTONE \_
+### Weatherstone
 
-> Ten generations before our time, the cruel king Algarod declared that Alderland had become overcrowded. He sought to expand his kingdom by leading an army across the mountains to Ravenland, where he fell in battle against the demonic hordes of the sorcerer Zygofer. As he was lost, so too was the sceptre Nekhaka, rumored to be the source of his power. However, the will of the king burned so fiercely that he refused to die and for ages stood watch in the stronghold of Weatherstone. Legend has it that Algarod will march again one day, to retrieve the spire of Nekhaka and complete his conquest of Ravenland. But the curse was suddenly broken and the undead king and his men finally went to their final rest. There are whispers that Algarod’s war chest remains in Weatherstone, forever guarded by evil spirits and the beasts of the sorcerer.\_
+> _Ten generations before our time, the cruel king Algarod declared that Alderland had become overcrowded. He sought to expand his kingdom by leading an army across the mountains to Ravenland, where he fell in battle against the demonic hordes of the sorcerer Zygofer. As he was lost, so too was the sceptre Nekhaka, rumored to be the source of his power. However, the will of the king burned so fiercely that he refused to die and for ages stood watch in the stronghold of Weatherstone. Legend has it that Algarod will march again one day, to retrieve the spire of Nekhaka and complete his conquest of Ravenland. But the curse was suddenly broken and the undead king and his men finally went to their final rest. There are whispers that Algarod’s war chest remains in Weatherstone, forever guarded by evil spirits and the beasts of the sorcerer._
 
 ### Vale of the Dead
 

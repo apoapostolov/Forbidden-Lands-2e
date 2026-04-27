@@ -311,7 +311,8 @@ Three apple cores sit on the doorstep of Veld Arnke's farm, each with a cut mark
 
 #### Monster Attacks
 
-| D6 | **ATTACK** || --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| D6 | **ATTACK** |
+| --- | --- |
 | 1 | **CLAW ATTACK!** The basilisk strikes with its fearsome claws against two adventures within NEAR range. Roll for the attack with seven Base Dice and Weapon Damage 2 (slash wound). |
 | 2 | **PECK ATTACK!** The beast darts its evil bird’s head forward and pecks a chosen adventurer with its razor-sharp beak. Roll for the attack with eight Base Dice and Weapon Damage 2 (slash wound). |
 | 3 | **CROWING ATTACK!** The basilisk raises its hideous bird’s head and lets out a cacophonous crow that pierces the adventurers and makes their ears bleed. All adventurers within NEAR range must make an ENDURANCE roll (not an action). On failure they are flung to the ground, unable to do anything but groan and cover their ears. The effect lasts until the same point in the next round’s initiative order, but it takes a quarter of an hour for affected adventurers to regain their hearing. |
@@ -474,12 +475,6 @@ The sword is a real artifact, an elven blade that some chieftain dropped here th
 > **Sacrificial coin:** A coin already given to the gods. Cast back into a still body of water with the giver's name spoken aloud, it turns the Bog men of that water aside from them for one Quarter Day. The water keeps the coin. The next person who takes it from the water without giving a name of their own is taken in their stead.
 
 **Adventure Site:** Village
-
-#### Random Encounter: Interfering Worshipers
-
-> _The terrain is becoming increasingly wet and boggy, and the virgin forest gradually gives way to hanging mangroves and strange bushes with serpentine root systems growing out of stinking ponds. Cold veils of mist float over the bog and you hear the call of a blackthroated loon coming from somewhere ahead of you._
-
-Bog men are highly attracted to valuable and magical items which they desperately want to drag down into the bog as offerings to the ever-demanding gods. In combat they always target the adventurer who carries the largest number of treasures or magical items. It could be gold or silver coins, magic weapons, and artifacts – whatever the GM deems most appropriate, but Bog men have a special fondness for shiny objects. In a crisis situation, the Bog men can always be lured away from a fight by throwing a shiny piece of treasure into the bog.
 
 ### Bugbear
 

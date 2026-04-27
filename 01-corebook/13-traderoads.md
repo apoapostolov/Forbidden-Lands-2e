@@ -1,7 +1,19 @@
+<!-- markdownlint-disable MD013 MD028 -->
+
 # Traderoads
 
 > "A silver coin becomes ten in the hands of a patient merchant. A fool with ten lets them slip away."
 > — Bartel the Ledger, factor to the Gristle's company
+
+> _Grimolt counted the lashings before dawn because Svolma would not. Three wraps on the spice crates, two on the cloth — the formula was not complicated, and the Ailander had been shown it twice. The third crate was wrong. He cut the cord himself and rewrapped it while Svolma held the torch and did not speak._
+>
+> _Four wagons. Two drovers. Two guards, one of whom had not arrived yet. The morning was cold enough that his breath made a small cloud over the cargo manifest. He had carried iron before. Timber. Grain. All of them ordinary. The spices were different. The spices were why he had not slept._
+>
+> _Eight loads of fine cloth, two of black pepper, one of saffron wrapped in oilskin and packed in dry straw. The saffron alone was worth more than the wagons. The saffron alone was what the run was for._
+>
+> _The second guard arrived at first light, smelling of an inn and saying nothing about it. Grimolt noted the hour. He said nothing either. There would be time for judgment after the road had told him whether the man was worth keeping._
+>
+> _He climbed to the seat of the lead wagon. The road south was still dark. The Blood Mist had been gone five years. The toll posts had gone back up before the frost._
 
 ## The Caravan
 
@@ -57,6 +69,18 @@ Loading a caravan is a quarter-day activity. One character supervises the work a
 Characters with PATH OF THE ARTISAN gain relevant bonuses. PATH OF THE CARAVAN R2+ characters roll for results even at the baseline and reduce the failure state to a -1 modifier instead of damage.
 
 ---
+
+> _The second ford on the Mire Road ran faster than the map said it should. Grimolt held the seat railing and felt the wagon lurch left at mid-channel — not violent, not the kind of lurch that ends a crossing badly, but wrong enough. He heard it: the low wooden knock of a crate sliding a hand-span._
+>
+> _He did not stop in the water. He got across, braked the wagon on the far bank, and climbed down while the second wagon was still mid-ford. He pulled back the canvas._
+>
+> _Three jars of black pepper. One cracked at the rim — still sealed, nothing lost — and one broken clean, the pepper mixing into the straw packing. He scooped what he could into a spare cloth. Svolma watched from the wagon seat._
+>
+> _"Two silvers," Grimolt said._
+>
+> _Svolma did not understand the remark. He was not meant to. Grimolt covered the crate again and walked to the rear wagon to check the saffron, which was fine, which was what he had climbed down for._
+>
+> _Two silvers was not the run. Two silvers was the tithe the road took to remind him that tying knots was not an optional skill._
 
 ## Cargo, Perishability, and Fragility
 
@@ -195,6 +219,18 @@ A loading roll that achieved 2+ ⚔️ negates the first breakage check of the j
 
 ---
 
+> _The innkeeper at the Brokenford stopping-house told him over bad ale that a Frailer had come through two days before with two wagons of pepper from the Aslene coast. Headed for the crossroads. Same market Grimolt was aimed at._
+>
+> _He drank the ale. Bad ale in this part of the road meant the innkeeper had been making it himself, which meant there was no real trade coming through and the man was bored enough to talk. The information was probably current._
+>
+> _Two wagons of pepper at the crossroads before him. His own two loads would land in a market that already had pepper. He refilled the cup and thought about the fine cloth._
+>
+> _Eight loads of fine cloth, origin price at two hundred silver, selling at a crossroads the map listed as a trade hub. He did not know what cloth was doing at the crossroads. He did not know whether the weaver in the lower town had died or was still working. The town had been shuttered under an old closure and had not yet decided what it wanted to be. It might have a weaver. It might not._
+>
+> _He had three days to find out before he arrived._
+>
+> _He went to bed thinking about cloth and woke up thinking about cloth and did not examine this too carefully._
+
 ## Regional Trade and Supply
 
 ### The Core Trade Principle
@@ -244,6 +280,20 @@ When a character uses ASK AROUND at a settlement with a MARKETPLACE or among car
 Trade rumors travel along caravan routes at the speed described in the **JOURNEYS** chapter (10+ hexes per season on well-traveled roads). They age — only as current as the last trader who passed through.
 
 ---
+
+> _The crossroads was six days on the post road. Four on the Mire Cut, which was not a road, strictly, but a drove path that had been used as a road by everyone who didn't want to pay the Kolvard toll station._
+>
+> _Grimolt studied the map. His scout, Pell, had ridden the Mire Cut twice and said it was passable in late summer provided the ford at the Neck ran below the old stone marker. In spring it would drown a wagon. This was not spring._
+>
+> _"And if it isn't below the marker?" Grimolt asked._
+>
+> _Pell thought about it. "Then we come back to the post road and lose two days."_
+>
+> _Grimolt folded the map. Two lost days on the detour, or one silver per wagon at the Kolvard station — four silver to someone who had set up a pole across a road and called it infrastructure. He did not voice his opinions about toll stations in front of employees._
+>
+> _"Mire Cut," he said. "Walk the lead wagon through the Neck ford before we commit the others."_
+>
+> _He climbed up. The sky was cloudless, flat and white above the tree line. He kept his hat brim down. He had been told the open sky was something a person got used to. He remained unconvinced._
 
 ## Route Planning and Travel
 
@@ -365,6 +415,20 @@ If a result does not fit the current scene (for example, no animals in a river c
 
 ---
 
+> _Margit ran the factor's house at the crossroads, which was a generous name for a room above a tanning yard that smelled of it. She wore a ledger under one arm the way a soldier wears a shield, and she had been in the trade longer than Grimolt had been on the surface roads._
+>
+> _She named a price for the fine cloth. He named a higher one. She said the weaver at the lower mill had died of the fever last winter and the town had a new one brought in from Ald-Gorheim who was already producing, so the shortage was not what it had been._
+>
+> _Grimolt had not known about the new weaver. He adjusted._
+>
+> _They settled on fair value: not the premium he had planned for, not the low offer she had opened with. The pepper sold at standard — the Frailer's two wagons had arrived first, and the market was soft for it._
+>
+> _He counted coin in the yard outside, because the tanning smell was very bad and he preferred fresh air he could also be robbed in. Three hundred and forty silver gross. Not three hundred and eighty. Not two hundred and sixty, which was the loss line._
+>
+> _Margit appeared at the yard door with a ledger page. "Same load next season, I'll buy the cloth at this price plus ten. Guaranteed."_
+>
+> _He said he would think about it. He had already thought about it._
+
 ## Profit and Loss
 
 ### The Accounting
@@ -435,6 +499,20 @@ Each day of caravan travel, the GM rolls for hazards using the standard journey 
 **Hazard frequency.** Larger caravans attract more attention: caravans of 4+ wagons add +1 to the encounter die; 8+ wagons add +2. Guarded caravans deter some threats: caravans with 3+ visible guards reduce bandit-related results by re-rolling them as the next entry down the D66 table. Bandits prefer easier targets. Season matters: winter adds +1 to weather-related hazard frequency; summer reduces animal trouble frequency (−1 to those rolls).
 
 ---
+
+> _Pell came back at a canter, which was not the pace Grimolt paid him for. He pulled up beside the lead wagon and said nothing for three seconds, looking back over his shoulder._
+>
+> _"Six riders. East ridge, above the birchline. They've been matching our pace for half a mile."_
+>
+> _Grimolt did not turn to look. Looking was what you did if you didn't know they were there. He passed the reins to Svolma and told him to keep the current pace — not faster, not enough to show concern, just enough. He walked back to the rear wagon and told the guards where to put themselves: not in the wagon bed, but walking at either side with weapons visible. Then he came back to the front._
+>
+> _The Kolvard gate was two miles. Pell had said six riders._
+>
+> _Two miles at current pace was forty minutes. Six riders who had watched the caravan's guard arrangement for half a mile already knew whether the arithmetic was in their favor._
+>
+> _He told Svolma they could increase pace now._
+>
+> _They made the gate with daylight to spare. The riders did not follow past the rise. Grimolt wrote six words in his manifest and moved on. Not the road's fault. Just the road._
 
 ## Caravan Reputation
 
@@ -518,6 +596,16 @@ Apply these to the base sell price after the supply multiplier:
 These stack with the supply multiplier. Grain that is Rare at a winter settlement sells at ×2.0 (supply) × ×2.0 (winter) = ×4.0 base price. That is how fortunes are made — and why bandits patrol the winter roads.
 
 ---
+
+> _The last column in the ledger read forty-eight silver net after wages, feed, tolls, and the two-silver pepper loss at the Neck ford. Forty-eight silver on a three-hundred-silver investment was not a fortune. It was a living wage and enough toward a second pair of axles if he was careful._
+>
+> _He had signed Margit's standing order the next morning. Fine cloth, eight loads, same time next season, at this price plus ten. It would bind him to the crossroads route until the leaves turned again — four months of road locked to one buyer. He did not like locked roads. He had signed it anyway._
+>
+> _The roads had reopened too recently for him to trust a buyer by face alone. Margit had included a written clause holding herself to the same terms if she defaulted. He had not met many buyers who offered their own liability first. He noted it._
+>
+> _He repacked the wagons for the return. There was no cargo worth carrying back — grain was plentiful, timber was everywhere, salt was cheap and the weight-to-value was poor on a long road. He took a passenger instead: a physician from somewhere east who needed to reach a village near the Ald-Gorheim road and had three silver and a sharp opinion on everything._
+>
+> _Fine. The road was long. A sharp opinion was almost company._
 
 ## Return Contracts and Passengers
 

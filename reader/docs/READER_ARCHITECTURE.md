@@ -33,7 +33,7 @@ This dual-layer approach is powerful but can create **phantom space bugs** if es
 01-front-matter.md ─┐
 02-your-adventurer  ├─► parse + estimate heights ─► assign to pages ─► book-data.json (337 pages)
 ...                 │
-11-appendix.md  ────┘
+11-heroic-play.md ────┘
 ```
 
 ### Layer 2: Runtime Renderer (`src/components/PageContent/`)

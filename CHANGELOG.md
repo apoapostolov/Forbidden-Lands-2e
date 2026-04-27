@@ -7,25 +7,63 @@ All notable changes to the Forbidden Lands Corebook will be documented in this f
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## [1.1.0] - 2026-04-27
 
 ### Added
 
-- **Player-facing: clearer character and solo play.** The opening parts of the book now give players a steadier way into the game, with the solo material folded into the corebook so it is easier to find when someone wants to play without a table.
+- **`/skills` folder.** Added the repo-owned skill bundle for Forbidden Lands work. It keeps the project-specific guidance in one place and leaves the generic skills out of the public book path. Introduces bestiary, design, lore, writing, and synergy guidance bundled with the repo.
 
-- **GM-facing: a fuller politics chapter.** The faction game now reaches farther into settlement life and campaign play, with clearer pressure around influence, loyalty, resources, and the long grind of holding power.
+- **`forbidden-lands-bestiary`.** Audits, writes, and rewrites bestiary entries so monsters, encounters, and salvage feel native to the book instead of bolted on. It keeps new creatures on the canonical format and design line.
+  - Shapes statblocks, Monster Attacks tables, Lore Roll tables, and random encounters.
+  - Rewrites RESOURCES blocks to fit the Book of Beasts salvage standard.
+  - Catches duplicate monsters, flat rewards, and template smell.
+  - Supports new entries, migrated first-edition monsters, and cleanup passes.
 
-- **GM-facing: stronger war and siege play.** Large fights now have more room for command, supply, blockades, breaches, relief, and the hard aftermath that follows when the dust settles.
+- **`forbidden-lands-design`.** Explains and extends Forbidden Lands mechanics so new rules fit the existing engine instead of fighting it. It is the rules-side check for whether a subsystem actually works at the table.
+  - Traces rule loops, trigger points, consequences, and downstream state changes.
+  - Maps integration points across talents, spells, gear, journeys, and recovery.
+  - Audits proposals for mechanical coherence and playability.
+  - Helps turn vague subsystem ideas into usable game text.
 
-- **GM-facing: cleaner bestiary flow.** Monster material, encounters, and legends are easier to browse and use, with the humanoid enemy material now sitting with the rest of the GM bestiary.
+- **`forbidden-lands-lore`.** Checks setting authenticity, cultural detail, and world-state claims so prose stays rooted in the Ravenlands. It keeps names, peoples, and institutions in the right register.
+  - Verifies geography, kin, religions, artifacts, and historical references.
+  - Audits prose for anachronism, wrong-register tone, and basic-fantasy drift.
+  - Guides human nationality, cultural texture, and monster lore consistency.
+  - Protects encounter authenticity and setting-specific fact claims.
+
+- **`forbidden-lands-synergy-analysis`.** Stress-tests multi-rule combinations for dominant lines, loopholes, and campaign erosion. It is the safety check for builds and stacked mechanics that look clever but may be too clean.
+  - Runs the five-test analysis on suspicious combos and builds.
+  - Screens new rules against known danger zones and exploitation surfaces.
+  - Distinguishes healthy high-risk synergy from automatic dominance.
+  - Recommends caps, restructures, or separations when a loop is too strong.
+
+- **`forbidden-lands-writing-voice`.** Drafts and audits Forbidden Lands prose in both the writing voice and the rules voice. It keeps fiction, examples, and mechanics sounding like the same hard, practical book.
+  - Guides vignettes, epigraphs, flavor text, and example scenes.
+  - Covers talent, item, spell, and procedure prose in the rules register.
+  - Loads the anti-AI humanizer and author-line references for cleaner manuscript voice.
+  - Helps prose stay harsh, clear, and native to the manuscript.
+
+- **Book 02 — Gamemaster's Guide**
+  - **Chapter 05 — Human peoples.** Added a new visual, psychological, and cultural profile for human peoples. Ailanders and Alderlanders are no longer treated as the same folk; they differ in appearance, customs, behavior, and social traditions.
+  - **Chapter 06 — Bestiary.** Added new monster-harvest rules for Alchemists and spellcasters. The base yield from a slain monster rises from 1 to 3 ingredients, and rare ingredients now require more than 1 success. Expanded the chapter with 9 humanoid enemy bands for wild encounters — Black-Fletch Archer, Clan Hunter, Cutpurse, Horse Warrior, Poisoner, Road Champion, Shield Knight, Town Guard, and Wise-Hand — plus more authentic and more dangerous random encounters built around moral conflict, hard choices, and physical consequence.
+  - **Chapters 07, 08, and 09 — Gamemaster Tools.** Folded the Book of Beasts tool material into Artifacts, Encounters, and Adventure Sites.
+  - **Faction play and politics.** Introduced a full system for faction play and medieval conquest. It gives the table a living map of influence, loyalty, resources, and territory, and it makes long campaigns bite back through explicit procedures instead of loose guidance.
+    - Rival claims now matter as much as blades, so the table can track who owes whom, who is weakening, and who is about to break.
+    - Settlement play, faction pressure, and campaign recovery all follow procedures the GM can actually run at the table.
+    - The system lets players bargain, scheme, and hold power without turning politics into pure narration.
+    - Losses and setbacks leave marks that change the next season instead of vanishing between sessions.
+    - The rules connect cleanly to strongholds, roads, tribute, and the wider shape of the Forbidden Lands.
+  - **Mass combat.** Introduced a mass combat system for wars, sieges, and field battles. It keeps large fights playable while still making them feel costly, dangerous, and worth planning for.
+    - Command and battle-line choices stay visible instead of disappearing into a single die roll.
+    - Supply, blockade, breach, and relief all matter, so an army can win by starving the other side rather than only by killing it.
+    - The system keeps armies tied to terrain, fortifications, and faction pressure.
+    - Each battle can leave scars on settlements, strongholds, and the people who survive it.
+    - The GM gets a way to resolve war without flattening the whole campaign into a summary.
 
 ### Changed
 
-- **The manuscript voice was smoothed out across the book.** A lot of chapter openings and rules passages were tightened so the text reads more like a real tabletop book and less like a stack of notes.
-
-- **The campaign chapters now connect more cleanly.** Politics, battles, settlement play, and creature material point at each other more naturally, which makes long-form play easier to run without hunting through the book.
-
-- **Creature-side material was polished for table use.** Encounters and salvage now feel more grounded and less templated, with the bestiary and Book of Beasts arranged so the right material is easier to grab in play.
+- **Book 01 — Corebook.** Polished Chapters 12 (Mercenaries) and 13 (Traderoads). Traderoads also gained added vignettes and narrative examples.
+- **Book 03 — Book of Beasts.** Doubled the bestiary with 44 new monsters overall, including the 9 humanoid enemy bands moved into the Gamemaster's Guide. The Book of Beasts itself now adds 35 non-humanoid monsters: Carrion Wing, Ape-Man, Bugbear, Giant Centipede, Crawling Claw, Little Gargoyle, Glass Ooze, Goblin, Tunnel Maw, Hell Hound, Night-Pup, Ogre, Giant Rat, Giant Toad, Fear-Drinker, Corpse Ogre, Walking Dead, Warlock of the Black Tower, Tunneler, Pale Ape, Star-Watcher, Air Spirit, Earth Spirit, Giant Scorpion, Clay Golem, Iron Golem, Bog Hag, Death Magister, Snake Queen, Thought-Kraken, Rock-Hanger, Night Bride, Grave Bat, Wereboar, and Werewolf. Each comes with 2 challenging and unconventional random encounters, a legend for players to learn, and 3 resources to collect.
 
 ## [1.0.8] - 2026-04-24
 

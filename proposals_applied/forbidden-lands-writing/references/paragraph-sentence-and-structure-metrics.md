@@ -24,7 +24,7 @@ Measured from prose paragraphs only, excluding headings, tables, and block quote
 | `08-journeys.md` | 147 | 42.1 | 3.0 |
 | `09-the-stronghold.md` | 459 | 44.2 | 2.5 |
 | `10-gear.md` | 202 | 51.7 | 3.1 |
-| `11-appendix.md` | 82 | 53.0 | 2.9 |
+| `11-heroic-play.md` | 82 | 53.0 | 2.9 |
 
 ## What The Numbers Reveal
 
