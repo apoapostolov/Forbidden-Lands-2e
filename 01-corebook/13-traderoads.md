@@ -5,13 +5,13 @@
 > "A silver coin becomes ten in the hands of a patient merchant. A fool with ten lets them slip away."
 > — Bartel the Ledger, factor to the Gristle's company
 
-> _Grimolt counted the lashings before dawn because Svolma would not. Three wraps on the spice crates, two on the cloth — the formula was not complicated, and the Ailander had been shown it twice. The third crate was wrong. He cut the cord himself and rewrapped it while Svolma held the torch and did not speak._
+> _Grimolt counted the lashings before dawn because Svolma liked to say rope looked tighter in moonlight and then laugh when asked to help. Three wraps on the spice crates, two on the cloth — a simple formula, if a man respected it. Svolma had been shown twice already. The third crate was still wrong. Grimolt cut the cord himself and rewrapped it while Svolma held the torch with red hands and muttered that the cold was a personal insult.
 >
-> _Four wagons. Two drovers. Two guards, one of whom had not arrived yet. The morning was cold enough that his breath made a small cloud over the cargo manifest. He had carried iron before. Timber. Grain. All of them ordinary. The spices were different. The spices were why he had not slept._
+> _Four wagons. Two drovers. Two guards, one of whom had not arrived yet. The morning was cold enough that his breath made a small cloud over the cargo manifest. He had carried iron before. Timber. Grain. All of them ordinary. The spices were different. The spices were why he had not slept.
 >
-> _Eight loads of fine cloth, two of black pepper, one of saffron wrapped in oilskin and packed in dry straw. The saffron alone was worth more than the wagons. The saffron alone was what the run was for._
+> _Eight loads of fine cloth, two of black pepper, one of saffron wrapped in oilskin and packed in dry straw. The saffron alone was worth more than the wagons. The saffron alone was what the run was for.
 >
-> _The second guard arrived at first light, smelling of an inn and saying nothing about it. Grimolt noted the hour. He said nothing either. There would be time for judgment after the road had told him whether the man was worth keeping._
+> _The second guard arrived at first light, smelling of smoke and sour ale, with a split lip he kept worrying with his tongue. Grimolt noted the hour. He said nothing either. There would be time for judgment after the road had told him whether the man was worth keeping.
 >
 > _He climbed to the seat of the lead wagon. The road south was still dark. The Blood Mist had been gone five years. The toll posts had gone back up before the frost._
 
@@ -283,15 +283,17 @@ Trade rumors travel along caravan routes at the speed described in the **JOURNEY
 
 > _The crossroads was six days on the post road. Four on the Mire Cut, which was not a road, strictly, but a drove path that had been used as a road by everyone who didn't want to pay the Kolvard toll station._
 >
-> _Grimolt studied the map. His scout, Pell, had ridden the Mire Cut twice and said it was passable in late summer provided the ford at the Neck ran below the old stone marker. In spring it would drown a wagon. This was not spring._
+> _Grimolt studied the map. His scout, Pell, had ridden the Mire Cut twice and said it was passable in late summer provided the ford at the Neck ran below the old stone marker. In spring it would drown a wagon. This was not spring.
 >
-> _"And if it isn't below the marker?" Grimolt asked._
+> _Pell had a reed whistle stuck behind one ear and mud on his boots from a ditch he swore was a shortcut. He tapped the map with one blunt finger and looked pleased with himself, which Grimolt had learned was usually a sign the man had found three ways to live and one way to complain.
 >
-> _Pell thought about it. "Then we come back to the post road and lose two days."_
+> _"And if it isn't below the marker?" Grimolt asked.
 >
-> _Grimolt folded the map. Two lost days on the detour, or one silver per wagon at the Kolvard station — four silver to someone who had set up a pole across a road and called it infrastructure. He did not voice his opinions about toll stations in front of employees._
+> _Pell thought about it. "Then we come back to the post road and lose two days."
 >
-> _"Mire Cut," he said. "Walk the lead wagon through the Neck ford before we commit the others."_
+> _Grimolt folded the map. Two lost days on the detour, or one silver per wagon at the Kolvard station — four silver to someone who had set up a pole across a road and called it infrastructure. He did not voice his opinions about toll stations in front of employees.
+>
+> _"Mire Cut," he said. "Walk the lead wagon through the Neck ford before we commit the others."
 >
 > _He climbed up. The sky was cloudless, flat and white above the tree line. He kept his hat brim down. He had been told the open sky was something a person got used to. He remained unconvinced._
 
@@ -415,17 +417,19 @@ If a result does not fit the current scene (for example, no animals in a river c
 
 ---
 
-> _Margit ran the factor's house at the crossroads, which was a generous name for a room above a tanning yard that smelled of it. She wore a ledger under one arm the way a soldier wears a shield, and she had been in the trade longer than Grimolt had been on the surface roads._
+> _Margit ran the factor's house at the crossroads, which was a generous name for a room above a tanning yard that smelled of it. She wore a ledger under one arm the way a soldier wears a shield, and she had been in the trade longer than Grimolt had been on the surface roads.
 >
-> _She named a price for the fine cloth. He named a higher one. She said the weaver at the lower mill had died of the fever last winter and the town had a new one brought in from Ald-Gorheim who was already producing, so the shortage was not what it had been._
+> _She had ink on one thumb, flour on the sleeve she had tried to brush clean, and a small silver brooch shaped like a fishhook at her throat. Her son — or nephew, Grimolt never asked which — was asleep on a bench behind her with a carving knife still in his belt.
 >
-> _Grimolt had not known about the new weaver. He adjusted._
+> _She named a price for the fine cloth. He named a higher one. She said the weaver at the lower mill had died of the fever last winter and the town had a new one brought in from Ald-Gorheim who was already producing, so the shortage was not what it had been.
 >
-> _They settled on fair value: not the premium he had planned for, not the low offer she had opened with. The pepper sold at standard — the Frailer's two wagons had arrived first, and the market was soft for it._
+> _Grimolt had not known about the new weaver. He adjusted.
 >
-> _He counted coin in the yard outside, because the tanning smell was very bad and he preferred fresh air he could also be robbed in. Three hundred and forty silver gross. Not three hundred and eighty. Not two hundred and sixty, which was the loss line._
+> _They settled on fair value: not the premium he had planned for, not the low offer she had opened with. The pepper sold at standard — the Frailer's two wagons had arrived first, and the market was soft for it.
 >
-> _Margit appeared at the yard door with a ledger page. "Same load next season, I'll buy the cloth at this price plus ten. Guaranteed."_
+> _He counted coin in the yard outside, because the tanning smell was very bad and he preferred fresh air he could also be robbed in. Three hundred and forty silver gross. Not three hundred and eighty. Not two hundred and sixty, which was the loss line.
+>
+> _Margit appeared at the yard door with a ledger page. "Same load next season, I'll buy the cloth at this price plus ten. Guaranteed."
 >
 > _He said he would think about it. He had already thought about it._
 
@@ -500,17 +504,17 @@ Each day of caravan travel, the GM rolls for hazards using the standard journey 
 
 ---
 
-> _Pell came back at a canter, which was not the pace Grimolt paid him for. He pulled up beside the lead wagon and said nothing for three seconds, looking back over his shoulder._
+> _Pell came back at a canter, which was not the pace Grimolt paid him for. He pulled up beside the lead wagon and said nothing for three seconds, looking back over his shoulder. His mare was lathered white along the neck, and he had a torn sprig of birch stuck in his beard like a joke the road had told him.
 >
-> _"Six riders. East ridge, above the birchline. They've been matching our pace for half a mile."_
+> _Grimolt did not turn to look. Looking was what you did if you didn't know they were there. He passed the reins to Svolma and told him to keep the current pace — not faster, not enough to show concern, just enough. He walked back to the rear wagon and told the guards where to put themselves: not in the wagon bed, but walking at either side with weapons visible. Then he came back to the front.
 >
-> _Grimolt did not turn to look. Looking was what you did if you didn't know they were there. He passed the reins to Svolma and told him to keep the current pace — not faster, not enough to show concern, just enough. He walked back to the rear wagon and told the guards where to put themselves: not in the wagon bed, but walking at either side with weapons visible. Then he came back to the front._
+> _The Kolvard gate was two miles. Pell had said six riders.
 >
-> _The Kolvard gate was two miles. Pell had said six riders._
+> _Two miles at current pace was forty minutes. Six riders who had watched the caravan's guard arrangement for half a mile already knew whether the arithmetic was in their favor.
 >
-> _Two miles at current pace was forty minutes. Six riders who had watched the caravan's guard arrangement for half a mile already knew whether the arithmetic was in their favor._
+> _He told Svolma they could increase pace now.
 >
-> _He told Svolma they could increase pace now._
+> _"You owe me hot broth at the next stop," Pell said, grinning through the mud on his face.
 >
 > _They made the gate with daylight to spare. The riders did not follow past the rise. Grimolt wrote six words in his manifest and moved on. Not the road's fault. Just the road._
 
@@ -597,13 +601,15 @@ These stack with the supply multiplier. Grain that is Rare at a winter settlemen
 
 ---
 
-> _The last column in the ledger read forty-eight silver net after wages, feed, tolls, and the two-silver pepper loss at the Neck ford. Forty-eight silver on a three-hundred-silver investment was not a fortune. It was a living wage and enough toward a second pair of axles if he was careful._
+> _The last column in the ledger read forty-eight silver net after wages, feed, tolls, and the two-silver pepper loss at the Neck ford. Forty-eight silver on a three-hundred-silver investment was not a fortune. It was a living wage and enough toward a second pair of axles if he was careful.
 >
-> _He had signed Margit's standing order the next morning. Fine cloth, eight loads, same time next season, at this price plus ten. It would bind him to the crossroads route until the leaves turned again — four months of road locked to one buyer. He did not like locked roads. He had signed it anyway._
+> _He had signed Margit's standing order the next morning. Fine cloth, eight loads, same time next season, at this price plus ten. It would bind him to the crossroads route until the leaves turned again — four months of road locked to one buyer. He did not like locked roads. He had signed it anyway.
 >
-> _The roads had reopened too recently for him to trust a buyer by face alone. Margit had included a written clause holding herself to the same terms if she defaulted. He had not met many buyers who offered their own liability first. He noted it._
+> _The physician he had carried back had paid with three silver, a promise to write a letter for an aunt in the south, and a joke about dwarf ledgers being more honest than human priests. Grimolt had not laughed, but he had kept the letter safe in the same box as the coin.
 >
-> _He repacked the wagons for the return. There was no cargo worth carrying back — grain was plentiful, timber was everywhere, salt was cheap and the weight-to-value was poor on a long road. He took a passenger instead: a physician from somewhere east who needed to reach a village near the Ald-Gorheim road and had three silver and a sharp opinion on everything._
+> _The roads had reopened too recently for him to trust a buyer by face alone. Margit had included a written clause holding herself to the same terms if she defaulted. He had not met many buyers who offered their own liability first. He noted it.
+>
+> _He repacked the wagons for the return. There was no cargo worth carrying back — grain was plentiful, timber was everywhere, salt was cheap and the weight-to-value was poor on a long road. He took a passenger instead: a physician from somewhere east who needed to reach a village near the Ald-Gorheim road and had three silver and a sharp opinion on everything.
 >
 > _Fine. The road was long. A sharp opinion was almost company._
 

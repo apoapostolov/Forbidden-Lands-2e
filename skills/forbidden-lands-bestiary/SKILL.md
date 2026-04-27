@@ -18,9 +18,65 @@ description: |
 This skill captures the full format standard, design mandate, and
 quality bar for bestiary entries in the Forbidden Lands 2E repo.
 
-Load it alongside `forbidden-lands-writing` for voice, and
-`forbidden-lands-lore` for setting facts. Load `forbidden-lands-design`
-when new mechanics need rules integration.
+Load it alongside `forbidden-lands-writing-voice` for voice,
+`forbidden-lands-lore` for setting facts, and
+`forbidden-lands-design` when new mechanics need rules integration.
+
+This skill now has two layers:
+
+- the **entry-construction layer** in this file
+- the **technical monster-engine layer** in `references/`
+
+If the task is about creating, auditing, or extending monster mechanics,
+load the reference library as well.
+
+---
+
+## When To Load This Skill
+
+Load this skill when the task involves any of the following:
+
+- writing or rewriting a bestiary entry
+- designing a new monster from scratch
+- migrating a first-edition monster into second-edition format
+- auditing monster attacks, passives, weaknesses, or special defenses
+- checking whether a monster's mechanics fit the current engine
+- proposing extensions to the bestiary subsystem itself
+
+If the task is mainly about combat balance across talents, spells, or
+cross-rule exploits, also load `forbidden-lands-synergy-analysis`.
+
+---
+
+## Technical Reference Library
+
+Use the following files depending on the job.
+
+### `references/monster-design-engine.md`
+
+Load when you need the design logic of the combined bestiary engine:
+
+- what monster attacks are doing systemically
+- how defenses, weak points, and passives are structured
+- how legends fit the monster pipeline and manuscript structure
+- what design constraints a new monster should respect
+
+### `references/monster-mechanics-taxonomy.md`
+
+Load when you need a fast catalog of existing mechanics:
+
+- attack families
+- targeting logic
+- ranges and damage bands
+- conditions, special effects, defenses, and weaknesses
+- structure templates for swarms, variants, anchors, and site monsters
+
+### `references/new-rules-repository.md`
+
+Load when the task is not just to create a monster, but to extend the
+monster engine itself. This repository covers compatible new mechanics
+that can appear in future monster statblocks in order to widen the design
+space without simply raising power.
 
 ---
 
@@ -142,7 +198,7 @@ directly after the ability bullet, before the next bullet:
 One or more prose paragraphs after the attacks table. This is the
 GM-facing description of the monster's ecology, behavior, origin
 rumors, and notable traits. Written in manuscript voice (see
-`forbidden-lands-writing`). No H-subheadings inside it.
+`forbidden-lands-writing-voice`). No H-subheadings inside it.
 
 ---
 
@@ -205,6 +261,20 @@ together should make a GM want to run the scene.
 ```
 
 See *Resources Design Mandate* below.
+
+---
+
+### 9. Legend (Optional but strongly preferred)
+
+If the manuscript has a dedicated Legends chapter, create the legend as a
+separate entry there.
+
+If the manuscript has no Legends chapter, place the legend directly after
+the monster entry, after the RESOURCES block.
+
+If the monster is important enough to shape regional memory, cult
+practice, taboo, or old road-lore, the entry should usually receive a
+legend.
 
 ---
 
@@ -386,18 +456,21 @@ When given a monster entry to rewrite:
    Attacks, Lore Roll, encounters, and resources.
 2. Load `forbidden-lands-lore` for any setting facts (kin, places,
    institutions, named NPCs) the encounter will reference.
-3. Draft the two new encounters. For each, identify which of the
+3. Load `references/monster-design-engine.md` and
+   `references/monster-mechanics-taxonomy.md` if the monster's attacks,
+   defenses, or weaknesses are being changed rather than merely restyled.
+4. Draft the two new encounters. For each, identify which of the
    seven design patterns applies. Confirm the epigraph shows a
    physical scene, not a summary.
-4. Draft the new RESOURCES block. Identify the one or two abilities
+5. Draft the new RESOURCES block. Identify the one or two abilities
    or physical facts that make this monster distinct. Build the
    mechanic from those facts up. Check the canonical potion table.
-5. Check the Lore Roll rows for format (three rows, LORE ROLL header,
+6. Check the Lore Roll rows for format (three rows, LORE ROLL header,
    correct spoiler graduation). Rewrite if they use INSIGHT or
    Results of Insight as the column name.
-6. Do not alter statblocks, Monster Attacks tables, or prose
+7. Do not alter statblocks, Monster Attacks tables, or prose
    descriptions unless those are explicitly in scope.
-7. Validate with markdownlint-cli2 before submitting.
+8. Validate with markdownlint-cli2 before submitting.
 
 ---
 
@@ -405,27 +478,40 @@ When given a monster entry to rewrite:
 
 1. Establish the monster's core mechanical identity: what it does
    that no other monster does. Write this down first.
-2. Write the statblock from the mechanic outward. Special abilities
+2. Read `references/monster-design-engine.md` before drafting rules,
+   and `references/monster-mechanics-taxonomy.md` if you need to check
+   whether the proposed attacks or defenses already exist in the corpus.
+3. Write the statblock from the mechanic outward. Special abilities
    must follow from the identity.
-3. Write six Monster Attacks. Each should feel physically distinct
+4. Write six Monster Attacks. Each should feel physically distinct
    from the others and should flow from how the creature moves and
    feeds.
-4. Write the prose description. Focus on ecology, behavior, and
+5. Write the prose description. Focus on ecology, behavior, and
    origin rumors. Do not repeat what the statblock already states.
-5. Write three Lore Roll rows. Start with public knowledge, graduate
+6. Write three Lore Roll rows. Start with public knowledge, graduate
    to strong hint, graduate to directional narrative hint.
-6. Write two encounters using the design mandate. Use two different
+7. Write two encounters using the design mandate. Use two different
    design patterns.
-7. Write the RESOURCES block. Derive from the monster's specific
+8. Write the RESOURCES block. Derive from the monster's specific
    abilities.
-8. Write the vignette last. One sentence. Physical. Shows the monster
+9. Write the vignette last. One sentence. Physical. Shows the monster
    already present.
+
+If the monster requires a new subsystem-side mechanic rather than a new
+combination of existing parts, consult
+`references/new-rules-repository.md` before inventing one.
+
+If the manuscript supports legends, also consult
+`references/monster-design-engine.md` for legend-placement and
+legend-construction rules.
 
 ---
 
 ## Related Skills
 
-- `forbidden-lands-writing` — voice, diction, anti-AI prose rules
+- `forbidden-lands-writing-voice` — voice, diction, anti-AI prose rules
 - `forbidden-lands-lore` — setting facts, kin, institutions, geography
 - `forbidden-lands-design` — rules integration, mechanic design
+- `forbidden-lands-synergy-analysis` — balance review for new monster
+   mechanics with combo or exploitation risk
 - `rpg-balance-analysis` — when new mechanics need balance audit
