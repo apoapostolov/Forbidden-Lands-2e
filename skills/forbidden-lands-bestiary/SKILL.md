@@ -22,6 +22,11 @@ Load it alongside `forbidden-lands-writing-voice` for voice,
 `forbidden-lands-lore` for setting facts, and
 `forbidden-lands-design` when new mechanics need rules integration.
 
+Descriptions, Lore Roll tables, Random Encounters, and Legends are
+**lore-bearing prose sections**. Treat them as setting text, not filler.
+If you draft or approve any of those sections without
+`forbidden-lands-lore`, you are skipping a mandatory companion skill.
+
 This skill now has two layers:
 
 - the **entry-construction layer** in this file
@@ -45,6 +50,159 @@ Load this skill when the task involves any of the following:
 
 If the task is mainly about combat balance across talents, spells, or
 cross-rule exploits, also load `forbidden-lands-synergy-analysis`.
+
+---
+
+## Mandatory Companion Flow
+
+The following flow is mandatory.
+
+These are not optional nice-to-haves.
+They are the load-bearing procedure for the sections that most often go
+wrong.
+
+### Hard rule
+
+If the task touches **Monster Description**, **Lore Roll**,
+**Random Encounters**, or **Legend**, load `forbidden-lands-lore`
+before drafting, rewriting, or approving the text.
+
+### Section-by-section flow
+
+| Section | Mandatory companion skill(s) | Mandatory reference(s) | Why | Recommended size |
+| --- | --- | --- | --- | --- |
+| H3 Heading | none beyond this skill | this file | keeps naming consistent and prevents article/epithet drift | n/a |
+| Flavor vignette | `forbidden-lands-writing-voice` | embedded calibration below | keeps the line physical and inside measured size limits | 14 words |
+| Statblock | `forbidden-lands-design` when creating or changing rules | `references/monster-design-engine.md`, `references/monster-mechanics-taxonomy.md` | keeps attributes, passives, defenses, and special lines native to the engine | n/a |
+| Monster Attacks table | `forbidden-lands-design` when creating or changing rules | `references/monster-design-engine.md`, `references/monster-mechanics-taxonomy.md`, embedded calibration below | keeps the six attacks mechanically distinct, correctly scaled, and long enough to carry real identity | 284 words total |
+| No Monster Attacks section | `forbidden-lands-design` when creating or changing rules | `references/monster-design-engine.md`, `references/monster-mechanics-taxonomy.md` | confirms the creature truly belongs to the no-monster-attacks model rather than being underbuilt | brief explanatory prose; no corpus average |
+| Monster Description | `forbidden-lands-lore`, `forbidden-lands-writing-voice` | embedded calibration below | descriptions almost always carry kin, place, cult, history, taboo, or settlement logic | 207 words |
+| Lore Roll | `forbidden-lands-lore` | `references/lore-roll-rules.md`, embedded calibration below | row 2 and row 3 are survival clues carried through world knowledge | Row 1: 12 words; Row 2: 28 words; Row 3: 32 words |
+| Random Encounters | `forbidden-lands-lore` | `references/random-encounter-design-rules.md`, embedded calibration below | encounters almost always depend on local practice, settlement truth, taboo, kin pressure, trade custom, or regional facts | 185 words total; body 156 words |
+| Resources blockquote | `forbidden-lands-design` | this file, `references/resources-design-guide.md`, `references/monster-design-engine.md` when mechanics shift | prevents generic +1 template junk and ties the harvest to anatomy, curse, or physiology | n/a |
+| Legend | `forbidden-lands-lore`, `forbidden-lands-writing-voice` | `references/monster-design-engine.md`, embedded calibration below | legends are inherited memory and setting-weight, not free-floating mood text | 211 words |
+
+Recommended sizes in the table are calculated as 110% of the measured corpus average, rounded up to a whole word. Nonprose structural elements are marked n/a.
+
+---
+
+## Workflow: Rewriting an Existing Entry
+
+When given a monster entry to rewrite:
+
+1. Read the entry in full. Note its existing statblock, Monster
+   Attacks, Lore Roll, encounters, and resources.
+2. Load `forbidden-lands-lore` before touching Description, Lore Roll,
+   Random Encounters, or Legend. Treat this as mandatory, not
+   conditional.
+3. Load `references/monster-design-engine.md` and
+   `references/monster-mechanics-taxonomy.md` if the monster's attacks,
+   defenses, or weaknesses are being changed rather than merely restyled.
+4. Check the mandatory calibration defaults in this file before
+   drafting any size-sensitive section.
+5. Draft the two new encounters. For each, identify which of the
+   seven design patterns applies. Confirm the epigraph shows a
+   physical scene, not a summary.
+6. Draft the new RESOURCES block. Identify the one or two abilities
+   or physical facts that make this monster distinct. Build the
+   mechanic from those facts up. Check the canonical potion table.
+7. Check the Lore Roll rows for format (three rows, LORE ROLL header,
+   correct spoiler graduation, and the mandatory row-2/row-3 hint law
+   when a hidden weakness is essential). Rewrite if they use INSIGHT or
+   Results of Insight as the column name. Consult
+   `references/lore-roll-rules.md`.
+8. Do not alter statblocks, Monster Attacks tables, or prose
+   descriptions unless those are explicitly in scope.
+9. Validate with markdownlint-cli2 before submitting.
+
+---
+
+## Workflow: Writing a New Entry from Scratch
+
+1. Establish the monster's core mechanical identity: what it does
+   that no other monster does. Write this down first.
+2. Load `forbidden-lands-lore` before drafting Description, Lore Roll,
+   Random Encounters, or Legend.
+3. Read `references/monster-design-engine.md` before drafting rules,
+   and `references/monster-mechanics-taxonomy.md` if you need to check
+   whether the proposed attacks or defenses already exist in the corpus.
+4. Write the statblock from the mechanic outward. Special abilities
+   must follow from the identity.
+5. Write six Monster Attacks. Each should feel physically distinct
+   from the others and should flow from how the creature moves and
+   feeds.
+6. Use the mandatory calibration defaults in this file while drafting so
+   the entry parts do not collapse below the measured floor or drift far
+   below the corpus averages.
+7. Write the prose description. Focus on ecology, behavior, and
+   origin rumors. Do not repeat what the statblock already states.
+8. Write three Lore Roll rows using `references/lore-roll-rules.md`.
+   Start with public knowledge, then a deductive non-spoiler hint, then
+   a stronger directional hint.
+9. Write two encounters using the design mandate and
+   `references/random-encounter-design-rules.md`. Use two different
+   pressure patterns.
+10. Write the RESOURCES block. Derive from the monster's specific
+   abilities.
+11. Write the vignette last. One sentence. Physical. Shows the monster
+   already present.
+
+If the monster requires a new subsystem-side mechanic rather than a new
+combination of existing parts, consult
+`references/new-rules-repository.md` before inventing one.
+
+If the manuscript supports legends, also consult
+`references/monster-design-engine.md` for legend-placement and
+legend-construction rules.
+
+If the monster should carry inherited memory, taboo, cult meaning, road
+warning, or old explanation, draft a Legend with `forbidden-lands-lore`
+already loaded. Do not treat Legend as detachable flavor.
+
+### Escalation rule for encounter realism
+
+If a random encounter depends on bodily ugliness, social cruelty,
+economic pressure, burial custom, atrocity weight, starvation,
+midwifery, punishment, or other pre-industrial material stress, also
+load the relevant `medieval-authenticity-reference` document.
+
+### Approval gate
+
+Do not approve a draft of Description, Lore Roll, Random Encounters, or
+Legend until all of the following are true:
+
+- `forbidden-lands-lore` was loaded and used
+- the size calibration in this file was checked
+- the Lore Roll law was checked if a Lore Roll exists
+- the random encounter law was checked if random encounters exist
+
+---
+
+## Mandatory Calibration Defaults
+
+These values are copied directly from the measured corpus and are
+**mandatory defaults**, not optional hints.
+
+Use them even if `references/entry-size-calibration.md` is not open.
+That reference remains the deeper explanation and methodology file, but
+the numbers below are already part of the core skill.
+
+| Element | Corpus average | Hard minimum | Default target | Healthy upper band |
+| --- | ---: | ---: | ---: | ---: |
+| Typical vignette | 12.3 | 11 | 12 | 14 |
+| Monster description | 187.8 | 97 | 188 | 279 |
+| Monster attacks table | 257.4 | 145 | 257 | 373 |
+| Lore Roll row 2 | 24.9 | 22 | 25 | 28 |
+| Lore Roll row 3 | 28.8 | 24 | 29 | 31 |
+| Random encounter total | 167.5 | 143 | 168 | 198 |
+| Random encounter body | 141.4 | 127 | 141 | 157 |
+| Monster legend | 191.8 | 112 | 192 | 270 |
+
+Interpretation:
+
+- **hard minimum** = do not go under this unless there is a deliberate and defensible reason
+- **default target** = the normal drafting aim
+- **healthy upper band** = room available before the section usually starts to bloat
 
 ---
 
@@ -78,6 +236,78 @@ monster engine itself. This repository covers compatible new mechanics
 that can appear in future monster statblocks in order to widen the design
 space without simply raising power.
 
+### `references/entry-size-calibration.md`
+
+The calibration values from this file are already embedded in this
+skill and are mandatory.
+
+Load the reference when assigning or auditing drafting length and you
+need the full methodology, sample notes, or failure explanations.
+
+This file provides measured Book of Beasts word-count floors for:
+
+- vignettes
+- monster descriptions
+- Monster Attacks tables
+- Lore Roll rows
+- random encounters
+- legends
+
+Use it whenever an AI draft risks becoming technically complete but too
+thin to carry scene weight, clue density, or usable attack identity.
+
+### `references/random-encounter-design-rules.md`
+
+Load whenever writing or auditing random encounters.
+This reference is mandatory whenever encounters are in scope.
+
+This is the strict encounter-law reference. It formalizes the manuscript's
+required encounter style:
+
+- medieval material reality
+- discomfort and pressure
+- unexpected realistic situations
+- moral or physical trade-offs
+- player-facing choices that should provoke argument, not easy consensus
+
+### `references/lore-roll-rules.md`
+
+Load whenever writing or auditing Lore Roll tables.
+This reference is mandatory whenever a Lore Roll is in scope.
+
+This file governs:
+
+- clue graduation across rows 1-3
+- measured row-size floors
+- spoiler discipline
+- the mandatory hint structure for monsters whose hidden weakness is the
+   only normal way to defeat them
+
+### `references/resources-design-guide.md`
+
+Load whenever writing or auditing RESOURCES blocks.
+
+This is the corpus-grounded reference for designing new monster resources.
+Use it alongside the Resources Design Mandate section of this file. It
+provides:
+
+- harvest mechanics syntax (verb selection, talent selection, skill selection)
+- material taxonomy (biological fluids, biological solids, supernatural
+  essences, intact artifacts)
+- effect type taxonomy with scale guidelines (Artifact Dice, Potency, flat
+  bonuses, attribute restoration)
+- consequence design patterns (duration, physical cost, social cost,
+  faction notice, ecological cost, double-dose penalty)
+- canonical potion ingredient table with full monster-ingredient-potion mapping
+- RARE designation rules
+- intact regardless rules
+- design decision checklist
+- a worked example of deriving resources from monster identity
+- forbidden patterns
+
+This reference supersedes the summary in the Resources Design Mandate
+section when in conflict; both should be consulted for any new RESOURCES block.
+
 ---
 
 ## Canonical Entry Format
@@ -107,6 +337,11 @@ not describe the monster directly. It shows a corner of a scene the
 monster already occupies — a locked fold with frost on the latch, a
 smell that reaches the village before the troll does, a hat drifting
 down before the screaming starts.
+
+**Measured size rule:** A typical vignette has a hard minimum of **11
+words**, a corpus average of **12.3**, a default target of **12**, and
+a healthy upper band around **14**. If it drops below 11 words, it
+usually stops making an image.
 
 **Forbidden in the vignette:**
 
@@ -182,6 +417,9 @@ directly after the ability bullet, before the next bullet:
 - Attack description states Base Dice, Weapon Damage, damage type
   (slash wound / blunt force), and any condition (GRAPPLED, prone,
   thrown to SHORT range, etc.).
+- The table has a hard minimum of **145 words total**, a target of
+   **257**, and a healthy upper band around **373**. If it falls well
+   below floor, the rows usually become repetitive or mechanically vague.
 - If the monster has no Monster Attacks (e.g. Undead, which fight as
   normal combatants), replace the table with:
 
@@ -199,6 +437,16 @@ One or more prose paragraphs after the attacks table. This is the
 GM-facing description of the monster's ecology, behavior, origin
 rumors, and notable traits. Written in manuscript voice (see
 `forbidden-lands-writing-voice`). No H-subheadings inside it.
+
+**Mandatory companion skill:** `forbidden-lands-lore`.
+Descriptions are lore-bearing prose. They should be checked for kin,
+geography, religion, institutions, post-Blood Mist logic, and local
+social practice even when no obvious proper noun appears at first glance.
+
+**Measured size rule:** The description has a corpus average of
+**187.8** words, a hard minimum of **97**, a default target of **188**,
+and a healthy upper band around **279**. Below floor, AI drafts usually
+repeat the statblock instead of adding ecology, habit, and world weight.
 
 ---
 
@@ -225,6 +473,20 @@ rumors, and notable traits. Written in manuscript voice (see
   mechanic words (no roll names, no stat names) or feel like spoilers.
   It can carry atmosphere — what the old woman said, what the archer-
   king's lore teaches, what the Rust Brothers found in the catacomb.
+- Use the measured row floors from
+   `references/entry-size-calibration.md`: **row 1 minimum 12 words**,
+   **row 2 minimum 22 words**, **row 3 minimum 24 words**. Row 2 has a
+   corpus average of **24.9** words; row 3 has a corpus average of
+   **28.8** words.
+- Use `references/lore-roll-rules.md` as the strict law.
+- **Mandatory companion skill:** `forbidden-lands-lore`.
+  Lore Roll rows are inherited world knowledge. They should be written
+  as setting-bearing clues, not generic hint text.
+- If a monster's hidden weakness is the only normal way to defeat it,
+   then **row 2 must contain a non-spoiler hint** and **row 3 must
+   contain a stronger flavorful hint**. This is mandatory. Row 2 should
+   still require deduction; row 3 should still sound like world-lore,
+   not rules text.
 
 ---
 
@@ -246,7 +508,22 @@ Body text. One or two paragraphs.
 object, smell, sound, or observed action. The title and epigraph
 together should make a GM want to run the scene.
 
-**Body text rules:** See *Encounter Design Mandate* below.
+**Body text rules:** See *Encounter Design Mandate* below and the full
+strict reference in `references/random-encounter-design-rules.md`.
+
+**Mandatory companion skill:** `forbidden-lands-lore`.
+Random encounters almost always rely on local beliefs, place logic,
+settlement practice, kin pressure, trade custom, taboo, or regional
+memory. Draft them with the lore skill loaded even when the scene looks
+"generic" at first.
+
+**Measured size rule:** Each encounter has a corpus average of
+**167.5** words total excluding `Terrain Types`, a hard minimum of
+**143**, a default target of **168**, and a healthy upper band around
+**198**. The body text itself has a corpus average of **141.4** words,
+with a hard minimum of **127** and a healthy upper band around **157**.
+Below floor, the encounter usually becomes a premise instead of a
+dilemma.
 
 **Terrain Types:** Bold prefix, comma-separated, no period.
 
@@ -276,17 +553,55 @@ If the monster is important enough to shape regional memory, cult
 practice, taboo, or old road-lore, the entry should usually receive a
 legend.
 
+**Mandatory companion skill:** `forbidden-lands-lore`.
+Legends are not optional flavor mist. They are setting memory. Use the
+lore skill to check place names, factions, cult practice, pre-Blood Mist
+logic, regional framing, and whether the belief sounds like the
+Ravenlands instead of generic dark fantasy.
+
+**Measured size rule:** A legend has a corpus average of **191.8**
+words, a hard minimum of **112**, a default target of **192**, and a
+healthy upper band around **270**.
+
 ---
 
 ## Encounter Design Mandate
 
 This is the hardest part to get right. Read every word.
 
+For the full mandatory rule set, load
+`references/random-encounter-design-rules.md`.
+The summary below is not a looser alternative. It is the short form of
+the same law.
+
 ### The Core Rule
 
 Every encounter must present an **unexpected moral or physical
 dilemma**. Not a fight prompt. Not a village in distress. Not a
 monster that needs to be killed.
+
+The encounter may be grim, uncomfortable, light-hearted, humorous, or
+faux-dangerous.
+If it is grim, it should usually center on **one dominant discomfort
+register**, not a heap of them.
+
+Common registers include:
+
+- material
+- bodily
+- social
+- moral
+- reputational
+- decisional
+
+The encounter must arise from a believable pre-industrial arrangement:
+
+- food, water, labor, toll, burial, kin, shrine, or road custom
+- a working compromise already under strain
+- a physical bind already in place before the adventurers arrive
+
+The monster should be a force inside that situation, not the whole
+scene by itself.
 
 If the encounter can be summarized as "monster is nearby, fight or
 flee," it fails the mandate.
@@ -454,23 +769,28 @@ When given a monster entry to rewrite:
 
 1. Read the entry in full. Note its existing statblock, Monster
    Attacks, Lore Roll, encounters, and resources.
-2. Load `forbidden-lands-lore` for any setting facts (kin, places,
-   institutions, named NPCs) the encounter will reference.
+2. Load `forbidden-lands-lore` before touching Description, Lore Roll,
+   Random Encounters, or Legend. Treat this as mandatory, not
+   conditional.
 3. Load `references/monster-design-engine.md` and
    `references/monster-mechanics-taxonomy.md` if the monster's attacks,
    defenses, or weaknesses are being changed rather than merely restyled.
-4. Draft the two new encounters. For each, identify which of the
+4. Check the mandatory calibration defaults in this file before
+   drafting any size-sensitive section.
+5. Draft the two new encounters. For each, identify which of the
    seven design patterns applies. Confirm the epigraph shows a
    physical scene, not a summary.
-5. Draft the new RESOURCES block. Identify the one or two abilities
+6. Draft the new RESOURCES block. Identify the one or two abilities
    or physical facts that make this monster distinct. Build the
    mechanic from those facts up. Check the canonical potion table.
-6. Check the Lore Roll rows for format (three rows, LORE ROLL header,
-   correct spoiler graduation). Rewrite if they use INSIGHT or
-   Results of Insight as the column name.
-7. Do not alter statblocks, Monster Attacks tables, or prose
+7. Check the Lore Roll rows for format (three rows, LORE ROLL header,
+   correct spoiler graduation, and the mandatory row-2/row-3 hint law
+   when a hidden weakness is essential). Rewrite if they use INSIGHT or
+   Results of Insight as the column name. Consult
+   `references/lore-roll-rules.md`.
+8. Do not alter statblocks, Monster Attacks tables, or prose
    descriptions unless those are explicitly in scope.
-8. Validate with markdownlint-cli2 before submitting.
+9. Validate with markdownlint-cli2 before submitting.
 
 ---
 
@@ -478,40 +798,15 @@ When given a monster entry to rewrite:
 
 1. Establish the monster's core mechanical identity: what it does
    that no other monster does. Write this down first.
-2. Read `references/monster-design-engine.md` before drafting rules,
+2. Load `forbidden-lands-lore` before drafting Description, Lore Roll,
+   Random Encounters, or Legend.
+3. Read `references/monster-design-engine.md` before drafting rules,
    and `references/monster-mechanics-taxonomy.md` if you need to check
    whether the proposed attacks or defenses already exist in the corpus.
-3. Write the statblock from the mechanic outward. Special abilities
+4. Write the statblock from the mechanic outward. Special abilities
    must follow from the identity.
-4. Write six Monster Attacks. Each should feel physically distinct
+5. Write six Monster Attacks. Each should feel physically distinct
    from the others and should flow from how the creature moves and
    feeds.
-5. Write the prose description. Focus on ecology, behavior, and
-   origin rumors. Do not repeat what the statblock already states.
-6. Write three Lore Roll rows. Start with public knowledge, graduate
-   to strong hint, graduate to directional narrative hint.
-7. Write two encounters using the design mandate. Use two different
-   design patterns.
-8. Write the RESOURCES block. Derive from the monster's specific
-   abilities.
-9. Write the vignette last. One sentence. Physical. Shows the monster
-   already present.
-
-If the monster requires a new subsystem-side mechanic rather than a new
-combination of existing parts, consult
-`references/new-rules-repository.md` before inventing one.
-
-If the manuscript supports legends, also consult
-`references/monster-design-engine.md` for legend-placement and
-legend-construction rules.
-
----
-
-## Related Skills
-
-- `forbidden-lands-writing-voice` — voice, diction, anti-AI prose rules
-- `forbidden-lands-lore` — setting facts, kin, institutions, geography
-- `forbidden-lands-design` — rules integration, mechanic design
-- `forbidden-lands-synergy-analysis` — balance review for new monster
-   mechanics with combo or exploitation risk
-- `rpg-balance-analysis` — when new mechanics need balance audit
+6. Use the mandatory calibration defaults in this file while drafting so
+   the entry parts do not collapse below the measured floor or drift far

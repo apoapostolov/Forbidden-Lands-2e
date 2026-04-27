@@ -11,7 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- **`/skills` folder.** Added the repo-owned skill bundle for Forbidden Lands work. It keeps the project-specific guidance in one place and leaves the generic skills out of the public book path. Introduces bestiary, design, lore, writing, and synergy guidance bundled with the repo.
+- **`/skills` folder.** Added the repo-owned skill bundle for Forbidden Lands work. It keeps the project-specific guidance in one place and leaves the generic skills out of the public book path. The purpose of these skills is to let AI and Game Masters cowork on Forbidden Lands supplements, new regions, new campaigns, new rules, and new monsters without scattering the guidance across the manuscript.
 
 - **`forbidden-lands-bestiary`.** Audits, writes, and rewrites bestiary entries so monsters, encounters, and salvage feel native to the book instead of bolted on. It keeps new creatures on the canonical format and design line.
   - Shapes statblocks, Monster Attacks tables, Lore Roll tables, and random encounters.
@@ -42,6 +42,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Covers talent, item, spell, and procedure prose in the rules register.
   - Loads the anti-AI humanizer and author-line references for cleaner manuscript voice.
   - Helps prose stay harsh, clear, and native to the manuscript.
+
+- **`forbidden-lands-medieval-authenticity`.** Grounds Forbidden Lands prose in practical medieval material reality, with a generic layer for survival work and a Bitter Reach layer for the north's harsher customs and pressures. It gives AI and Game Masters the lived detail needed to build supplements, regions, campaigns, rules, and monsters that feel physically true instead of invented on the page.
+  - Covers camp life, shelter, cold, travel, food, craft, barter, fear, maintenance, and bodily wear.
+  - Keeps The Bitter Reach's Norse-inflected customs, law, religion, trauma, and outlawry in a separate regional layer.
+  - Splits portable medieval truth from setting-specific truth so the rest of Forbidden Lands stays flexible.
+  - Pairs with lore and writing guidance so physical realism, setting truth, and manuscript voice stay aligned.
 
 - **Book 02 — Gamemaster's Guide**
   - **Chapter 05 — Human peoples.** Added a new visual, psychological, and cultural profile for human peoples. Ailanders and Alderlanders are no longer treated as the same folk; they differ in appearance, customs, behavior, and social traditions.

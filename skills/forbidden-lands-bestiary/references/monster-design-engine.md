@@ -48,6 +48,16 @@ This is a design-logic reference for:
 This is not the main prose-formatting guide.
 For entry order, encounter design, resources, and lore-roll formatting, use `skills/forbidden-lands-bestiary/SKILL.md`.
 
+Use the companion references for the stricter drafting layer:
+
+- `entry-size-calibration.md` for measured word-count floors
+- `random-encounter-design-rules.md` for full encounter law
+- `lore-roll-rules.md` for graduated clue design and hidden-weakness hint structure
+
+Descriptions, Lore Roll tables, Random Encounters, and Legends are
+lore-bearing sections. Draft or audit them with `forbidden-lands-lore`
+loaded, not as isolated prose fragments.
+
 ## Unified Bestiary Logic
 
 The bestiary should be treated as one engine, not as two competing rule families.
@@ -853,6 +863,15 @@ Good answers:
 
 Use this order when designing a new monster.
 
+### Companion-skill gate
+
+If the task includes Monster Description, Lore Roll, Random Encounters,
+or Legend, load `forbidden-lands-lore` before drafting or approving that
+material.
+
+If the task includes calibrated prose weight, use the calibration values
+embedded in `SKILL.md` and the deeper notes in `entry-size-calibration.md`.
+
 ### Step 1: define the monster's threat identity in one sentence
 
 Examples:
@@ -930,6 +949,10 @@ The corpus works best when:
 
 - the Lore Roll hints at how the monster really functions
 - the RESOURCES block proves the same anatomy or curse from the carcass side
+- the row-2 and row-3 hints escalate cleanly if the monster's hidden
+  weakness is necessary for survival
+
+Consult `lore-roll-rules.md` here rather than improvising the hint ladder.
 
 ### Step 8: decide whether the monster needs a legend
 
@@ -965,5 +988,7 @@ Use this before approving a new monster.
 - Does it have one real weakness or counterplay hook?
 - Does it avoid excessive triggered reactions or stacked counters?
 - Do Lore Roll and RESOURCES both point at the same anatomy, curse, or ecology?
+- If the monster has a hidden necessary weakness, do rows 2 and 3 hint
+  it in graduated form rather than concealing it completely?
 - If the monster has a legend, does that legend add memory, taboo, or old explanation rather than repeating present-tense description?
 - Would it still feel like Forbidden Lands if the prose were removed and only the rules remained?
