@@ -1,7 +1,7 @@
 # Army Muster, Maintenance, and Field Rosters Proposal
 
 **Status:** Proposal
-**Target:** `02-gamemasters-guide/11-politics-of-the-forbidden-lands.md`
+**Target:** `02-gamemasters-guide/11-politics.md`
 **Related chapter:** `02-gamemasters-guide/12-battles-and-sieges.md`
 
 ---

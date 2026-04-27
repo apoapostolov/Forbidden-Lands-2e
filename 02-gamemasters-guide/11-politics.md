@@ -30,7 +30,7 @@ Use this chapter to build a faction from scratch or give hard shape to one alrea
 
 Do not use these rules for every loud reeve or every village elder with six cousins and a cudgel. Use them when one hand can close a gate in Fenwick, demand grain in Ash Mill, and promise protection at Duskbridge in the same hungry week. If the same power can harm, reward, or command in more than one place at once, it is large enough to deserve a faction sheet.
 
-Use **JOURNEYS** for local standing, hospitality, rumor, and first arrival, **THE STRONGHOLD** for buildings, works, and local infrastructure, **MERCENARIES OF THE FORBIDDEN LANDS** for one company and its internal life, and **BATTLES & SIEGES** once armies are assembled and the matter is decided in open war.
+Use **JOURNEYS** for local standing, hospitality, rumor, and first arrival, **THE STRONGHOLD** for buildings, works, and local infrastructure, **MERCENARIES** for one company and its internal life, and **BATTLES & SIEGES** once armies are assembled and the matter is decided in open war.
 
 ---
 
@@ -1192,7 +1192,7 @@ On success, the settlement becomes **Protected**. With 2+ extra successes, it ma
 
 **TYPE:** Major act
 
-The faction buys force outside the ties of blood and custom. Roll with **Hearth + Provision** to see whether the faction can actually sustain the terms, then use the hiring rules in **MERCENARIES OF THE FORBIDDEN LANDS**. If the bargain is chiefly coin, let **Treasury** back the roll. If it is chiefly food, transport, or plunder-share, let **Stores** back it instead.
+The faction buys force outside the ties of blood and custom. Roll with **Hearth + Provision** to see whether the faction can actually sustain the terms, then use the hiring rules in **MERCENARIES**. If the bargain is chiefly coin, let **Treasury** back the roll. If it is chiefly food, transport, or plunder-share, let **Stores** back it instead.
 
 Write the band into the army roster it is joining as soon as terms are sworn. A company with no named base, no commander responsible for it, and no honest answer to who feeds it is only trouble waiting for dusk.
 
@@ -1447,7 +1447,7 @@ A faction fields force from five places. No pre-feudal power commands a clean st
 1. **Retainers** — permanent sworn fighters.
 2. **Levy** — temporary service drawn from settlements or kin groups.
 3. **Specialists** — riders, scouts, engineers, healers, shrine men, hunters.
-4. **Mercenaries** — hired companies from **MERCENARIES OF THE FORBIDDEN LANDS**.
+4. **Mercenaries** — hired companies from **MERCENARIES**.
 5. **Unnatural or Fanatical Forces** — cult zealots, thralls, undead, monstrous troops.
 
 ### What Settlements Can Provide
@@ -1517,7 +1517,7 @@ Those choices signal different things to the countryside. A one-task hire sugges
 - station a band as garrison support
 - fold a band into a host without owning its Loyalty
 
-Use **MERCENARIES OF THE FORBIDDEN LANDS** to build the band exactly. Use this chapter to decide why the faction hired them and what happens when the purse grows light.
+Use **MERCENARIES** to build the band exactly. Use this chapter to decide why the faction hired them and what happens when the purse grows light.
 
 A mercenary band changes local politics the moment it appears. Villages that would endure their lord's own men may balk at foreign boots in the yard. Rival powers may read the hire as weakness, ambition, or proof that war is now certain. Apply those reactions through Standing shifts, harder negotiations, or quicker feud escalation where appropriate.
 
@@ -2264,7 +2264,7 @@ Hroka the First and the Greatest wants an empire badly enough to paint one into 
 
 ### The Gristle's Company Under Retainer
 
-Leave this one as a hook into **MERCENARIES OF THE FORBIDDEN LANDS** and **BATTLES & SIEGES**. A company under long retainer, collection rights, and winter quarters can become a faction almost by accident.
+Leave this one as a hook into **MERCENARIES** and **BATTLES & SIEGES**. A company under long retainer, collection rights, and winter quarters can become a faction almost by accident.
 
 - **Seat:** moving camp; winter hall if paid well enough
 - **Type:** Free Company in Service

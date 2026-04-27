@@ -4,7 +4,7 @@
 
 This audit reviews the current handoff between:
 
-- `02-gamemasters-guide/11-politics-of-the-forbidden-lands.md`
+- `02-gamemasters-guide/11-politics.md`
 - `02-gamemasters-guide/12-battles-and-sieges.md`
 
 The focus is narrow.

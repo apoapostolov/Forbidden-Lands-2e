@@ -2,7 +2,7 @@
 
 ## Scope
 
-This audit examines the new `02-gamemasters-guide/11-politics-of-the-forbidden-lands.md` as the missing precursor layer for `02-gamemasters-guide/12-battles-and-sieges.md`.
+This audit examines the new `02-gamemasters-guide/11-politics.md` as the missing precursor layer for `02-gamemasters-guide/12-battles-and-sieges.md`.
 
 The question is not whether Chapter 11 is interesting by itself. The question is whether it does the work that Chapter 12 needed in front of it: turning roads, tribute, legitimacy, oaths, levy, and stored grain into armies that feel earned rather than conjured.
 

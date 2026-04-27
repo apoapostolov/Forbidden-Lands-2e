@@ -1,4 +1,4 @@
-# Traderoads of the Forbidden Lands
+# Traderoads
 
 > "A silver coin becomes ten in the hands of a patient merchant. A fool with ten lets them slip away."
 > — Bartel the Ledger, factor to the Gristle's company
@@ -11,7 +11,7 @@ A caravan is any organized trade expedition that moves goods between settlements
 
 ### Transport and Load Capacity
 
-Caravan capacity is measured in **load units**. One load unit equals approximately 10 Normal-weight items (100 units of weight using the carrying system described in Chapter 2). Animals and vehicles have load capacities:
+Caravan capacity is measured in **load units**. One load unit equals approximately 10 Normal-weight items (100 units of weight using the carrying system described in the **YOUR ADVENTURER** chapter). Animals and vehicles have load capacities:
 
 | Transport   | Capacity | Speed                                                     | Cost       | Terrain Limits              | Notes                                                             |
 | ----------- | -------- | --------------------------------------------------------- | ---------- | --------------------------- | ----------------------------------------------------------------- |
@@ -35,7 +35,7 @@ A caravan requires people to function — not every role must be filled, but a c
 | ------------------ | ------------------------------------------------------------- | -------------------------- | ------------------------------------------------------------------- |
 | **Caravan master** | Leads the expedition, decides routes, handles trade and sales | —                          | Usually a PC. If hired as an NPC, 2 silver/day.                     |
 | **Drover**         | Handles animals, loads and unloads cargo, maintains gear      | 5 copper                   | One per two wagons or four pack animals.                            |
-| **Guard**          | Defends the caravan from threat                               | 1 silver                   | Chapter 12's mercenary pay rates apply to larger escort forces.     |
+| **Guard**          | Defends the caravan from threat                               | 1 silver                   | the **MERCENARIES** chapter's mercenary pay rates apply to larger escort forces.     |
 | **Factor**         | Manages trade at the destination, negotiates with buyers      | 1 silver + 5% profit share | Requires PATH OF THE CARAVAN Rank 3 or an NPC with MANIPULATION 3+. |
 | **Scout**          | Rides ahead, watches for hazards, finds campsites             | 1 silver                   | Uses SCOUTING to provide advance warning of encounters.             |
 
@@ -241,7 +241,7 @@ When a character uses ASK AROUND at a settlement with a MARKETPLACE or among car
 - **Price rumor:** "Spices out of the Amber Crossing are double the normal rate since the pass closed." Price spike at a location.
 - **Competition rumor:** "Three caravans already left for Hollowford this week." Destination market may be saturated.
 
-Trade rumors travel along caravan routes at the speed described in Chapter 8 (10+ hexes per season on well-traveled roads). They age — only as current as the last trader who passed through.
+Trade rumors travel along caravan routes at the speed described in the **JOURNEYS** chapter (10+ hexes per season on well-traveled roads). They age — only as current as the last trader who passed through.
 
 ---
 
@@ -265,7 +265,7 @@ Before departure, the caravan master chooses a route. This is a planning decisio
 
 A caravan moves at the speed of its slowest transport. A wagon caravan on a road moves two hexes per day (one hex per hiking quarter day). Pack mule caravans move slightly faster on good terrain but cannot exceed three hexes per day.
 
-**Scout procedure.** A caravan with a scout can detect hazards one hex ahead. The scout spends a quarter day riding forward and uses SCOUTING against the terrain's base difficulty (Chapter 8). Scout success grants reaction time to hazards — ambushes can be seen, routes can be changed, bandits can be tracked.
+**Scout procedure.** A caravan with a scout can detect hazards one hex ahead. The scout spends a quarter day riding forward and uses SCOUTING against the terrain's base difficulty (the **JOURNEYS** chapter). Scout success grants reaction time to hazards — ambushes can be seen, routes can be changed, bandits can be tracked.
 
 **Camp.** Caravans follow the standard Make Camp procedure. Large caravans (4+ wagons) require extra setup — one quarter day instead of one action. The camp is larger, louder, and easier to spot. Random encounter checks gain +1 to the hazard die while the caravan camps.
 
@@ -409,7 +409,7 @@ Profit flows back into the system:
 
 ## Hazards on the Road
 
-Each day of caravan travel, the GM rolls for hazards using the standard journey encounter rules (Chapter 8). When a hazard result occurs, roll D66 on the following table:
+Each day of caravan travel, the GM rolls for hazards using the standard journey encounter rules (the **JOURNEYS** chapter). When a hazard result occurs, roll D66 on the following table:
 
 | D66   | Hazard                 | Effect                                                                                                                                                                                       |
 | ----- | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -458,7 +458,7 @@ Caravan Circle Reputation is a single score (0–11+) tracking how well known th
 | ------------------------------------------------------------- | --------------------------------------------------- |
 | Complete a trade run at profit                                | +1 at destination settlement                        |
 | Fulfill a standing order on time                              | +1 at that settlement                               |
-| Deliver goods during crisis (famine, siege, plague)           | +1 to +2 at that settlement and Chapter 8 Standing  |
+| Deliver goods during crisis (famine, siege, plague)           | +1 to +2 at that settlement and Standing in the **JOURNEYS** chapter |
 | Protect the route (clear bandits, repair bridges, mark roads) | +1 along the route (all settlements within 2 hexes) |
 | Donate goods or fund MARKETPLACE or INN                       | +1 Standing and Caravan Circle                      |
 | Cheat, short-change, or deliver spoiled goods                 | −1 to −2 Caravan Circle and Standing                |
@@ -484,7 +484,7 @@ The Forbidden Lands economy shifts with the seasons. Demand, supply, risk, and p
 
 A **season** is the market interval, not the length of a single trade run. Resolve each caravan run in days and weeks: travel, sale, costs, and hazards. Apply seasonal multipliers by the current season at the point of sale. At each season boundary, refresh market conditions, rumor age, and contract windows.
 
-One season is roughly three months (12 weeks), matching Chapter 9 cadence.
+One season is roughly three months (12 weeks), matching the cadence in **THE STRONGHOLD**.
 
 | Typical One-Way Route Length   | Typical Runs Per Season |
 | ------------------------------ | ----------------------- |

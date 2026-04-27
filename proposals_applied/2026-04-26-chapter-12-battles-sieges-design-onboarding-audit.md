@@ -17,7 +17,7 @@ This audit treats Chapter 11 and Chapter 12 as separate but linked jobs.
 
 ### Chapter 11 already owns
 
-The following should remain primarily in `11-politics-of-the-forbidden-lands.md`:
+The following should remain primarily in `11-politics.md`:
 
 - faction-scale war preparation
 - levy, retainers, and mercenary sourcing

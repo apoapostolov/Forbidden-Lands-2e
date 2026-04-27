@@ -1,7 +1,7 @@
 # Politics of the Forbidden Lands: Base Chapter Proposal
 
 **File status:** Proposal — not integrated into `02-gamemasters-guide/`
-**Target chapter:** `02-gamemasters-guide/11-politics-of-the-forbidden-lands.md`
+**Target chapter:** `02-gamemasters-guide/11-politics.md`
 **Date:** 2026
 **Adjacent chapters:**
 
@@ -972,4 +972,4 @@ That is exactly what Book 02, Chapter 11 should do.
 
 ---
 
-*Proposal prepared for Forbidden Lands 2E revision. None of the above is canonical until explicitly integrated into* `02-gamemasters-guide/11-politics-of-the-forbidden-lands.md` *and chapter references are updated.*
+*Proposal prepared for Forbidden Lands 2E revision. None of the above is canonical until explicitly integrated into* `02-gamemasters-guide/11-politics.md` *and chapter references are updated.*
