@@ -510,7 +510,7 @@ If your roll fails, your camp is less pleasant. You still set up a camp where yo
 
 #### WATCHES
 
-The Night is divided into watches as the group sees fit. Up to three adventurers can divide the Night between them and each take one watch. A single adventurer can stand more than one watch, but if they have not SLEPT during the last six Quarter Days of the day, they become SLEEPY at the end of the Night Quarter.
+The Night is divided into watches as the group sees fit. Up to three adventurers can divide the Night between them and each take one watch. A single adventurer can stand more than one watch, but if they have not SLEPT during the last six Quarter Days of the day, they become SLEEPY at the end of the Night Quarter. That adventurer can SLEEP during some other Quarter Day, usually the Evening.
 
 A normal campfire gives full fire and light through the first full watch after the camp is made. After that, it gives only half fire and half light distance through later watches unless someone tends it or an improvement says otherwise.
 
@@ -527,10 +527,6 @@ Each camp improvement lasts until you break camp.
 | Watch Post | You have chosen a proper sentry place with a clear approach. The lookout gets +1 to SCOUTING rolls while KEEPING WATCH over the camp. If a night threat is spotted, the party is awake in time and is not surprised. |
 | Quiet Camp | Firelight is low, gear is muffled, and the camp is tucked away. Ordinary camp noise such as talking, cooking, eating, tending gear, or light crafting does not by itself reduce the camp's concealment. Even loud, extended, or reckless campbound activity counts only as normal camp noise unless it would plainly be heard or seen at a distance. |
 | Animal Picket | Mounts and pack animals are secured and placed properly. They do not scatter from ordinary night fright, noise, or weather. The lookout also gets +1 to SCOUTING against threats approaching through the animals' side of camp. |
-
-#### STANDING GUARD
-
-The wilderness is a dangerous place and even while you are in your camp, you need a sentry to stay awake to _keep watch_ (see above). You need to choose who stands guard during the Night, and let this person _sleep_ during some other Quarter Day (usually the Evening).
 
 #### FAILED CAMP LIABILITIES
 
