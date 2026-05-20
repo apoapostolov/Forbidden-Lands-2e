@@ -506,7 +506,7 @@ Each additional ⚔️ success after the first provides the following:
 - The camp is well hidden from enemies trying to track the party down. The enemies must succeed at a SCOUTING roll and match or exceed the number of ⚔️ successes of the MAKE CAMP roll. If they do not, a camp encounter is averted.
 - Choose one camp improvement from the list below. The same improvement cannot be chosen more than once.
 
-If your roll fails, your camp is less pleasant. You still set up a camp where you can REST and SLEEP, but the GM makes a hidden roll on the mishap table below. The GM can spring this mishap on you anytime she wants while you are in the camp.
+If your roll fails, your camp is less pleasant. You still set up a camp where you can REST and SLEEP, but the GM makes a hidden roll on the failed camp table below. The result is a liability in the camp: a weakness that matters when the night is tested by cold, weather, watch duty, gear handling, food, water, or sudden danger.
 
 #### WATCHES
 
@@ -518,8 +518,8 @@ Each camp improvement lasts until you break camp.
 
 | IMPROVEMENT | EFFECT |
 | --- | --- |
-| Banked Fire | Your campfire is well built and shielded. A normal campfire gives full fire and light through the first watch, then only half fire and half light distance through later watches. A banked fire keeps full fire and light until the end of the REST. If the camp suffers **Fire Dies**, ignore that mishap and treat it as **Bad Campsite** instead. |
-| Dry Shelter | You have rigged branches, hides, or canvas against the weather. The camp counts as having a tent for the night. If the camp suffers **Downpour**, everyone still gets to **SLEEP**, though rolls against **COLD** are still made as normal. Clothes, bedding, and sensitive gear are not soaked by ordinary night rain or snow. |
+| Banked Fire | Your campfire is well built and shielded. A normal campfire gives full fire and light through the first watch, then only half fire and half light distance through later watches. A banked fire keeps full fire and light until the end of the REST. If the failed camp result is **Poor Fire**, ignore it. |
+| Dry Shelter | You have rigged branches, hides, or canvas against the weather. The camp counts as having a tent for the night. If the failed camp result is **Wet**, ignore it. Clothes, bedding, and sensitive gear are not soaked by ordinary night rain or snow. |
 | Raised Beds | You have kept the sleepers off the cold ground. Everyone in the camp gets +1 to ENDURANCE rolls made to avoid becoming COLD during SLEEP. In addition, one adventurer may recover 1 extra point of Strength or Agility from the REST. |
 | Cooking Place | Stones, fuel, and hanging space are laid out properly. A CHEF gets +1 when preserving meat or fish during camp. On a success, preserved meat or fish keeps for 1 extra day. If no CHEF is present, cooked fresh meat or fish keeps until the end of the next Day even in hot conditions. |
 | Watch Post | You have chosen a proper sentry place with a clear approach. The lookout gets +1 to SCOUTING rolls while KEEPING WATCH over the camp. If a night threat is spotted, the party is awake in time and is not surprised. |
@@ -530,22 +530,29 @@ Each camp improvement lasts until you break camp.
 
 The wilderness is a dangerous place and even while you are in your camp, you need a sentry to stay awake to _keep watch_ (see above). You need to choose who stands guard during the Night, and let this person _sleep_ during some other Quarter Day (usually the Evening).
 
-#### MAKING CAMP MISHAPS
+#### FAILED CAMP LIABILITIES
 
-| D66   | MISHAP         | EFFECT                                                                                                                                                                                                                                                                                                                                                |
-| ----- | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 11-13 | Spoiled Water  | The water you are carrying has spoiled. Everyone in the group must reduce their Resource Die for water by one step.                                                                                                                                                                                                                                   |
-| 14-16 | Rotten Food    | Your food has rotted or been infected by insects. Everyone in the group must reduce their Resource Die for food by one step.                                                                                                                                                                                                                          |
-| 21-25 | Bad Campsite   | Your campsite turns out to be very uncomfortable to sleep in. No one in the group gets any **SLEEP** at all until you have found a new campsite.                                                                                                                                                                                                      |
-| 26-32 | Downpour       | A massive rainfall starts in the middle of the night. The camp is flooded and everything gets soaking wet. All adventurers must roll for the effects of cold, and no one gets any **SLEEP** this night.                                                                                                                                               |
-| 33-36 | Fire Dies      | The firewood is wet, and your campfire goes out. Everyone in the group must roll for the effects of cold.                                                                                                                                                                                                                                             |
-| 41-42 | Fire!          | Suddenly, the flames from your campfire spread out of control. Your tents, sleeping furs and other gear catch fire. Each adventurer suffers an attack with five Base Dice (Weapon Damage 1). Each adventurer must also make a **MOVE** roll to save their gear. Failure means that one piece of equipment (the GM decides which) is lost in the fire. |
-| 43-45 | Ants           | Your camp sits in the middle of an ant road. You all suffer one point of damage to Agility and no one gets any _sleep_ here.                                                                                                                                                                                                                          |
-| 46-51 | Lice           | A randomly selected adventurer has caught lice. It itches horribly, and she gets a rash all over the body. The victim suffers one point of damage to Agility each day and cannot _sleep_. A successful **healing** roll stops the effect.                                                                                                             |
-| 52-54 | Mosquito Swarm | A large swarm of mosquitoes or gnats attacks the camp, driving everyone crazy with their bites and buzzing. They attack all adventurers with four Base Dice, causing damage to Empathy.                                                                                                                                                               |
-| 55-56 | Savage Animal  | A wolf, bear or other wild animal feels threatened, and attacks you. The GM chooses an animal.                                                                                                                                                                                                                                                        |
-| 61-63 | Lost Gear      | A randomly selected adventurer has lost a piece of gear. The GM decides what was lost, and if it can be found.                                                                                                                                                                                                                                        |
-| 64-66 | Broken Gear    | An item belonging to a randomly selected adventurer is broken. The GM decides what item it is. The item can be repaired with a **crafting** roll.                                                                                                                                                                                                     |
+| D66 | LIABILITY | EFFECT |
+| --- | --- | --- |
+| 11-16 | Exposed | The camp is open and badly placed. Enemies trying to find the camp get +2 to SCOUTING. |
+| 21-26 | Smoky | The fire sits badly and the smoke hangs low. Enemies trying to find the camp get +1 to SCOUTING, and the lookout gets -1 to SCOUTING against approaching threats. |
+| 31-36 | Wet | Weather turns to overnight rain or snowfall. Everyone in the camp must roll against COLD as normal for the weather. Clothes, bedding, and sensitive gear are soaked unless the camp has Dry Shelter. |
+| 41-46 | Disordered | The camp is cluttered and badly laid out. The first time an adventurer needs a specific item during the night, it takes one extra round to find and ready it. |
+| 51-54 | Poor Fire | The fire is weak or badly placed. It drops to half fire and half light distance immediately after the first watch. |
+| 55-56 | Bad Ground | The sleep is poor and the ground fights the body. No adventurer recovers Agility from the REST. |
+| 57-58 | Bad Hygiene | The camp is filthy and the sleepers wake with dirty dressings, inflamed cuts, and grime worked into every scrape. No adventurer recovers Strength from the REST. If you use the HYGIENE rules, each adventurer's Hygiene Die is reduced by one step. |
+| 61-63 | Vermin | Food, bedding, and skin are plagued by pests. Everyone in the camp must roll their food Resource Die twice during the night. If you use the HYGIENE rules, each adventurer's Hygiene Die is reduced by one step. |
+| 64-65 | Noisy | The camp carries in the dark. If a nearby threat has any reason to search for the party during the night, it gets +2 to SCOUTING and cannot be kept away by ordinary camp noise discipline. |
+| 66 | Trouble | The bad camp turns active. Roll on the Trouble at Camp table below. |
+
+#### TROUBLE AT CAMP
+
+| D66 | TROUBLE | EFFECT |
+| --- | --- | --- |
+| 11-24 | Savage Animal | A wolf, bear or other wild animal feels threatened, and attacks you. The GM chooses an animal. |
+| 25-36 | Lost Gear | A randomly selected adventurer has lost a piece of gear. The GM decides what was lost, and if it can be found. |
+| 41-52 | Broken Gear | An item belonging to a randomly selected adventurer is broken. The GM decides what item it is. The item can be repaired with a **CRAFTING** roll. |
+| 53-66 | Fire! | Suddenly, the flames from your campfire spread out of control. Tents, sleeping furs, or other nearby gear catch fire. Each adventurer suffers an attack with five Base Dice, Weapon Damage 1. Each adventurer must also make a **MOVE** roll to save their gear. Failure means that one piece of equipment, chosen by the GM, is lost in the fire. |
 
 ### REST
 
