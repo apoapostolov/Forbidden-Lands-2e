@@ -7,6 +7,12 @@ All notable changes to the Forbidden Lands Corebook will be documented in this f
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.1] - 2026-05-20
+
+### Changed
+
+- **Book 01 — Corebook, Journeys and recovery.** Reworked **MAKE CAMP** so one success now establishes only a basic camp, while additional successes after the first improve concealment, grant narrower overnight recovery, and buy one concrete camp improvement each. Added a compact camp-improvement list covering fire, shelter, bedding, cooking, watch, quiet work, and animal handling. Recovery in the wild was adjusted to match: making camp no longer restores the full number of rolled successes to every attribute.
+
 ## [1.1.0] - 2026-04-27
 
 ### Added

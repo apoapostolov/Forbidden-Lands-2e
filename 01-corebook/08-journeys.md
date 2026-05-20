@@ -496,14 +496,35 @@ You may not survey the lands while on an Ice Cap or Sea Ice tile. Rivers are sco
 
 When the journey of the day is over, it's time to make camp. Finding a good location for a camp, making a fire, and preparing where to SLEEP takes a whole Quarter Day – usually the Evening. Only one person rolls to MAKE CAMP, but others can help her.
 
-Make a SURVIVAL roll, modified by the QUARTERMASTER talent. If your roll succeeds, you find a sheltered and comfortable place to spend the night, where you can all rest up be fore the next day’s journey.
+Make a SURVIVAL roll, modified by the QUARTERMASTER talent. If your roll succeeds, you establish a basic camp. A basic camp is enough for a crude fire, rough bedding, and a place to keep your gear together. You can REST and SLEEP there, but it is still a poor camp. It gives no special benefit beyond counting as a camp.
 
-Additional ⚔️ successes after the first provide the following:
+One success buys you the night. The fire is lit and the ground is chosen, the gear is gathered, and the group has enough order to sleep without using the BARE GROUND rules. Nothing more is provided.
 
-- The party can recover additional points of damage from all their attributes (see Recover).
+Each additional ⚔️ success after the first provides the following:
+
+- Each adventurer can recover 1 additional point in one attribute of their choice when RESTING or SLEEPING in the camp.
 - The camp is well hidden from enemies trying to track the party down. The enemies must succeed at a SCOUTING roll and match or exceed the number of ⚔️ successes of the MAKE CAMP roll. If they do not, a camp encounter is averted.
+- Choose one camp improvement from the list below. The same improvement cannot be chosen more than once.
 
 If your roll fails, your camp is less pleasant. You still set up a camp where you can REST and SLEEP, but the GM makes a hidden roll on the mishap table below. The GM can spring this mishap on you anytime she wants while you are in the camp.
+
+#### WATCHES
+
+The Night is divided into watches as the group sees fit. A normal campfire gives full fire and light through the first full watch after the camp is made. After that, it gives only half fire and half light distance through later watches unless someone tends it or an improvement says otherwise.
+
+#### CAMP IMPROVEMENTS
+
+Each camp improvement lasts until you break camp.
+
+| IMPROVEMENT | EFFECT |
+| --- | --- |
+| Banked Fire | Your campfire is well built and shielded. A normal campfire gives full fire and light through the first watch, then only half fire and half light distance through later watches. A banked fire keeps full fire and light until the end of the REST. If the camp suffers **Fire Dies**, ignore that mishap and treat it as **Bad Campsite** instead. |
+| Dry Shelter | You have rigged branches, hides, or canvas against the weather. The camp counts as having a tent for the night. If the camp suffers **Downpour**, everyone still gets to **SLEEP**, though rolls against **COLD** are still made as normal. Clothes, bedding, and sensitive gear are not soaked by ordinary night rain or snow. |
+| Raised Beds | You have kept the sleepers off the cold ground. Everyone in the camp gets +1 to ENDURANCE rolls made to avoid becoming COLD during SLEEP. In addition, one adventurer may recover 1 extra point of Strength or Agility from the REST. |
+| Cooking Place | Stones, fuel, and hanging space are laid out properly. A CHEF gets +1 when preserving meat or fish during camp. On a success, preserved meat or fish keeps for 1 extra day. If no CHEF is present, cooked fresh meat or fish keeps until the end of the next Day even in hot conditions. |
+| Watch Post | You have chosen a proper sentry place with a clear approach. The lookout gets +1 to SCOUTING rolls while KEEPING WATCH over the camp. If a night threat is spotted, the party is awake in time and is not surprised. |
+| Quiet Camp | Firelight is low, gear is muffled, and the camp is tucked away. Ordinary camp noise such as talking, cooking, eating, tending gear, or light crafting does not by itself reduce the camp's concealment. Even loud, extended, or reckless campbound activity counts only as normal camp noise unless it would plainly be heard or seen at a distance. |
+| Animal Picket | Mounts and pack animals are secured and placed properly. They do not scatter from ordinary night fright, noise, or weather. The lookout also gets +1 to SCOUTING against threats approaching through the animals' side of camp. |
 
 #### STANDING GUARD
 

@@ -790,7 +790,7 @@ The fastest way to recover from being Broken is for someone else to treat you wi
 
 _RESTING_ or _SLEEPING_ restores all lost attribute points only when you rest in towns or strongholds in full comfort. You are allowed a single _REST_ in 24 hours (one Quarter Day), typically corresponding to a night of sleep. Talents may give you other ways to _REST_ while performing certain actions.
 
-When you _REST_ in the wilds, you recover 1 point in each attribute. If you made camp, you instead recover a number of points in each attribute equal to the successes of the **MAKE CAMP** roll.
+When you _REST_ in the wilds, you recover 1 point in each attribute. If you made camp, you still recover 1 point in each attribute. In addition, each ⚔️ success after the first on the **MAKE CAMP** roll lets each adventurer recover 1 additional point in one attribute of their choice.
 
 If you sleep in a comfortable, safe environment, such as a tavern in a town, you recover all attributes at the end of the rest. If you spend two or more consecutive nights in such comfort, your willpower born of survival starts to decay. On the second night and each consecutive night afterward, you lose 1 **WILLPOWER** if you have any.
 
