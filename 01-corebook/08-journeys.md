@@ -510,7 +510,9 @@ If your roll fails, your camp is less pleasant. You still set up a camp where yo
 
 #### WATCHES
 
-The Night is divided into watches as the group sees fit. A normal campfire gives full fire and light through the first full watch after the camp is made. After that, it gives only half fire and half light distance through later watches unless someone tends it or an improvement says otherwise.
+The Night is divided into watches as the group sees fit. Up to three adventurers can divide the Night between them and each take one watch. A single adventurer can stand more than one watch, but if they have not SLEPT during the last six Quarter Days of the day, they become SLEEPY at the end of the Night Quarter.
+
+A normal campfire gives full fire and light through the first full watch after the camp is made. After that, it gives only half fire and half light distance through later watches unless someone tends it or an improvement says otherwise.
 
 #### CAMP IMPROVEMENTS
 
@@ -518,10 +520,10 @@ Each camp improvement lasts until you break camp.
 
 | IMPROVEMENT | EFFECT |
 | --- | --- |
-| Banked Fire | Your campfire is well built and shielded. A normal campfire gives full fire and light through the first watch, then only half fire and half light distance through later watches. A banked fire keeps full fire and light until the end of the REST. If the failed camp result is **Poor Fire**, ignore it. |
-| Dry Shelter | You have rigged branches, hides, or canvas against the weather. The camp counts as having a tent for the night. If the failed camp result is **Wet**, ignore it. Clothes, bedding, and sensitive gear are not soaked by ordinary night rain or snow. |
-| Raised Beds | You have kept the sleepers off the cold ground. Everyone in the camp gets +1 to ENDURANCE rolls made to avoid becoming COLD during SLEEP. In addition, one adventurer may recover 1 extra point of Strength or Agility from the REST. |
-| Cooking Place | Stones, fuel, and hanging space are laid out properly. A CHEF gets +1 when preserving meat or fish during camp. On a success, preserved meat or fish keeps for 1 extra day. If no CHEF is present, cooked fresh meat or fish keeps until the end of the next Day even in hot conditions. |
+| Banked Fire | Your campfire is well built and shielded. A normal campfire gives full fire and light through the first watch, then only half fire and half light distance through later watches. A banked fire keeps full fire and light until the end of the REST. |
+| Dry Shelter | You have rigged branches, hides, or canvas against the weather. The camp counts as having a tent for the night. Clothes, bedding, and sensitive gear are not soaked by ordinary night rain or snow. |
+| Raised Beds | You have kept the sleepers off the cold ground. Everyone in the camp counts as having a sleeping fur during REST and SLEEP. |
+| Cooking Place | Stones, fuel, and hanging space are laid out properly. A CHEF gets +2 when preserving meat or fish during camp. If no CHEF is present, cooked fresh meat or fish keeps until the end of the next Day even in hot conditions. |
 | Watch Post | You have chosen a proper sentry place with a clear approach. The lookout gets +1 to SCOUTING rolls while KEEPING WATCH over the camp. If a night threat is spotted, the party is awake in time and is not surprised. |
 | Quiet Camp | Firelight is low, gear is muffled, and the camp is tucked away. Ordinary camp noise such as talking, cooking, eating, tending gear, or light crafting does not by itself reduce the camp's concealment. Even loud, extended, or reckless campbound activity counts only as normal camp noise unless it would plainly be heard or seen at a distance. |
 | Animal Picket | Mounts and pack animals are secured and placed properly. They do not scatter from ordinary night fright, noise, or weather. The lookout also gets +1 to SCOUTING against threats approaching through the animals' side of camp. |
