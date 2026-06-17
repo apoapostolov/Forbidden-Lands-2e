@@ -7,6 +7,12 @@ All notable changes to the Forbidden Lands Corebook will be documented in this f
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.2] - 2026-06-17
+
+### Changed
+
+- **Book 01 — Corebook, Fear and panic.** Clarified the panic rule for Wits-break: a panicked creature runs to a safe place, can try to shake off panic with an Empathy roll at the end of each turn, and returns to panic if it suffers another fear attack while Wits remain Broken.
+
 ## [1.1.1] - 2026-05-20
 
 ### Changed
