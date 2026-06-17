@@ -11,7 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- **Book 01 — Corebook, Fear and panic.** Clarified the panic rule for Wits-break: a panicked creature runs to a safe place, can try to shake off panic with an Empathy roll at the end of each turn, and returns to panic if it suffers another fear attack while Wits remain Broken.
+- **Book 01 — Corebook, Fear and panic.** Clarified the Wits-break panic sequence and how fear attacks retrigger it.
 
 ## [1.1.1] - 2026-05-20
 

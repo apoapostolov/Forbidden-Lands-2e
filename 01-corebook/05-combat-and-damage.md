@@ -760,9 +760,9 @@ If your Agility hits zero because you pushed a roll, you keep your feet but stra
 
 #### WITS
 
-You're paralyzed by fear or confusion. Roll for a critical injury on the horror table - _except_ if you Broke yourself by pushing a roll. If you remain conscious, you can _run_ to a safe place, but you can't perform any other actions or roll for any skills.
+You're paralyzed by fear or confusion. Roll for a critical injury on the horror table - _except_ if you Broke yourself by pushing a roll. If you remain conscious, you can do nothing but run to a safe place. You can't perform any other actions or roll for any skills. At the end of each turn, a paralyzed creature can make an Empathy roll. If it succeeds, it shakes off the panic and can act normally on its next turn.
 
-At the end of each turn, a panicked creature can make an Empathy roll. If it succeeds, it shakes off the panic and can act normally on its next turn. As long as its Wits remain Broken, any successful fear attack against it makes it panic again and run to a safe place.
+As long as its Wits remain Broken, any fear attack against it makes it panic again, even if the attack rolls no successes. Such a panicked creature must always run to a safe place until it shakes off the panic.
 
 ### EMPATHY
 
