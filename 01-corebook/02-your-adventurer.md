@@ -455,7 +455,7 @@ _Josie's character gets the PSYCHIC POWER kin talent and chooses the PATH OF BLO
 
 ### PRIDE
 
-Adventurers are not like other people. Leaving home and family to set out on the way of the sword requires both courage and the conviction that you are an individual beyond the norm. This is represented in the game by your Pride - the stubborn will that keeps you standing when you must protect yourself or someone else. You do not have to define it as a deed, vow, or phrase. If you want, you can note where it comes from, but the note is only color. Your profession gives you three example notes if you want one, but the rule does not depend on them.
+Adventurers are not like other people. Leaving home and family to set out on the way of the sword requires both courage and the conviction that you are an individual beyond the norm. This is represented in the game by your Pride - the stubborn will that keeps you standing when you must protect yourself or someone else. You do not have to define it as a deed, vow, or phrase. If you want, you can note where it comes from, but the note is only color. Your profession gives you three example notes if you want one, but the rule does not depend on them. If you later learn the Path of the Holy Vow, this changes: your Pride is no longer a loose note, but a vow or oath sworn to a very specific hard road, and the talent tells you how that path works.
 
 Once per game session you can activate your Pride after you fail a skill roll made to protect yourself or another person. When you activate your Pride, you get to roll a Pride die and include the result in the roll. Pride starts at D12. If the roll still fails, you lose your Pride for the next session. At the start of the session after that, it returns as a D8. If you use your Pride and do not lose it, or if you do not use Pride during a session, it improves by one step at the start of the next session, from D8 to D10 to D12.
 
@@ -692,7 +692,7 @@ Experience Points are not the only way to change your PC during the course of th
 
 #### CHANGE YOUR PRIDE
 
-If you activate your Pride in a skill roll made to protect yourself or another person, but still fail, you lose your Pride for the next session. At the start of the session after that, it returns as a D8. If you use Pride and do not lose it, or if you do not use Pride during a session, it improves by one step at the start of the next session, from D8 to D10 to D12. Read more on how you use your Pride in Chapter 3.
+If you activate your Pride in a skill roll made to protect yourself or another person, but still fail, you lose your Pride for the next session. At the start of the session after that, it returns as a D8. If you use Pride and do not lose it, or if you do not use Pride during a session, it improves by one step at the start of the next session, from D8 to D10 to D12. If you have the Path of the Holy Vow, your Pride is a vow or oath instead of a note, and the talent tells you how it is chosen and how it can be lost. Read more on how you use your Pride in Chapter 3.
 
 #### CHANGE YOUR DARK SECRET
 
@@ -731,7 +731,7 @@ This section lets you flesh out your player characters and give them unique back
 9. You are now Old. Lower an attribute of your choosing by one point. No attribute can go to zero.
 10. You may redistribute one attribute point of your choice, up to a maximum of 6 in the key attribute of your kin or profession.
 11. Roll once on the table How Did You Meet? to determine how you met the other adventurers in the group. Joined together, these events form a narrative of how your group was formed. One player does not roll.
-12. Optional: Roll a `D3` for Pride, Dark Secret, and relationships with other adventurers. Use the examples in the profession descriptions and count from the top.
+12. Optional: Roll a `D3` for Dark Secret and relationships with other adventurers. If you want a Pride note, use the examples in the profession descriptions and count from the top.
 13. Start the game with silver and Resource Dice according to your profession description.
 
 ### BACKSTORIES
