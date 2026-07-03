@@ -13,6 +13,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - **Pride.** Pride now returns after one blank session at D8, then rises to D10 and D12. A hard-won Tale or dangerous victory can also restore it.
 
+- **Chapter 05 — Slash and stab wording.** Clarified the close-combat language for slash and stab attacks and their interaction with dodge and parry, including the weapon and shield reference table.
+
 ## [1.1.2] - 2026-06-17
 
 ### Changed
@@ -88,6 +90,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - **Book 01 — Corebook.** Polished Chapters 12 (Mercenaries) and 13 (Traderoads). Traderoads also gained added vignettes and narrative examples.
 - **Book 03 — Book of Beasts.** Doubled the bestiary with 44 new monsters overall, including the 9 humanoid enemy bands moved into the Gamemaster's Guide. The Book of Beasts itself now adds 35 non-humanoid monsters: Carrion Wing, Ape-Man, Bugbear, Giant Centipede, Crawling Claw, Little Gargoyle, Glass Ooze, Goblin, Tunnel Maw, Hell Hound, Night-Pup, Ogre, Giant Rat, Giant Toad, Fear-Drinker, Corpse Ogre, Walking Dead, Warlock of the Black Tower, Tunneler, Pale Ape, Star-Watcher, Air Spirit, Earth Spirit, Giant Scorpion, Clay Golem, Iron Golem, Bog Hag, Death Magister, Snake Queen, Thought-Kraken, Rock-Hanger, Night Bride, Grave Bat, Wereboar, and Werewolf. Each comes with 2 challenging and unconventional random encounters, a legend for players to learn, and 3 resources to collect.
+
 
 ## [1.0.8] - 2026-04-24
 

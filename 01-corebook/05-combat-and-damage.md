@@ -286,9 +286,9 @@ Because reactive actions break the initiative order, it can be hard to keep trac
 
 #### SLOW ACTIONS
 
-**SLASH:** You swing your weapon at your opponent. Requires a weapon with the _edged_ or _blunt_ features. Roll _melee_ plus the weapon's Gear Bonus. Can be _dodged_ or _parried_. If your target _dodges_, they get a +2 bonus. If you hit, your opponent takes Weapon Damage 🩸 on their Strength. If you roll multiple ⚔️, the 🩸 increases by one for each additional ⚔️. If the enemy takes a critical injury, roll on the table for _slash wounds_ (for _edged_ weapons) or _blunt trauma_ (for _blunt_ weapons).
+**SLASH:** You swing your weapon in a broad cut to take the line and force your foe to give ground. Requires a weapon with the _edged_ or _blunt_ features. Roll _melee_ plus the weapon's Gear Bonus. A slash is easiest to answer by moving off the line or taking the blade aside: if the target _dodges_, they get a +2 bonus. If they _parry_ with a weapon, the roll is at -2 if the weapon lacks the _parrying_ feature; a parrying weapon handles the cut normally. A shield parries a slash normally. If you hit, your opponent takes Weapon Damage 🩸 on their Strength. If you roll multiple ⚔️, the 🩸 increases by one for each additional ⚔️. If the enemy takes a critical injury, roll on the table for _slash wounds_ (for _edged_ weapons) or _blunt trauma_ (for _blunt_ weapons).
 
-**STAB:** You attempt to impale your opponent. Requires a weapon with the _pointed_ feature. Roll _melee_ plus the weapon's Gear Bonus. Can be _dodged_ or _parried_. A target who _parries_ with a weapon gets a -2 penalty, while _parrying_ with a shield gives a +2 bonus. If you hit, your opponent takes Weapon Damage 🩸 on their Strength. If you roll multiple ⚔️, the 🩸 increases by one for each additional ⚔️. If the enemy suffers a critical injury, roll on the table for _stab wounds_.
+**STAB:** You attempt to impale your opponent with a straight thrust that seeks the centerline. Requires a weapon with the _pointed_ feature. Roll _melee_ plus the weapon's Gear Bonus. A stab is easiest to answer with a steady guard and a firm meeting of blades: if the target _dodges_, the roll is at -2. A shield parries a stab with a +2 bonus, while parrying with a weapon gives a -1 penalty if the weapon has the _parrying_ feature, or -2 if it does not. If you hit, your opponent takes Weapon Damage 🩸 on their Strength. If you roll multiple ⚔️, the 🩸 increases by one for each additional ⚔️. If the enemy suffers a critical injury, roll on the table for _stab wounds_.
 
 **PUNCH/KICK/BITE:** Does not require a weapon. Roll for _melee_. Can be _dodged_ or _parried_, and any attempt to _parry_ gets a +2 bonus. If you hit, your opponent takes 1 point of 🩸 to his Strength. If you roll multiple ⚔️, the 🩸 increases by one for each additional ⚔️. If the enemy suffers a critical injury, roll on the table for blunt force wounds (unless you have fangs - in that case, use the table for _slash wounds_).
 
@@ -296,20 +296,21 @@ Because reactive actions break the initiative order, it can be hard to keep trac
 
 ### FAST ACTIONS
 
-**DODGE:** You throw yourself out of the way of your opponent's attack. Reactive action. Roll _move_ (not _melee_). You cannot use a weapon. If the attacker _slashes_, you get a +2 bonus. Every ⚔️ you roll eliminates ⚔️ from the attacker's roll. Any excess ⚔️ have no effect. When you _dodge_, you fall prone. You can choose to remain standing, at the cost of a -2 penalty.
+**DODGE:** You throw yourself out of the way of your opponent's attack, turning the line or giving it up entirely. Reactive action. Roll _move_ (not _melee_). You cannot use a weapon. If the attacker _slashes_, you get a +2 bonus. If the attacker _stabs_, you get a -2 penalty. Every ⚔️ you roll eliminates ⚔️ from the attacker's roll. Any excess ⚔️ have no effect. When you _dodge_, you fall prone. You can choose to remain standing, at the cost of a -2 penalty.
 
-**PARRY:** You block your opponent's attack. Reactive action. Requires a shield or a weapon. Roll _melee_ and the Gear Bonus of the shield or weapon used. If you _parry_ with a weapon that lacks the _parrying_ feature, you get a -2 penalty. If the attacker _stabs_, you get a +2.
+**PARRY:** You meet your opponent's attack with steel, wood, or a hard line of defense. Reactive action. Requires a shield or a weapon. Roll _melee_ and the Gear Bonus of the shield or weapon used. If you _parry_ with a weapon that lacks the _parrying_ feature, you get a -2 penalty. A slash is rough on the guard and is easiest handled by a clean blade parry; a parrying weapon meets it normally, while a weapon without the feature is at -2. A stab is easier to meet with a shield, which gives +2. If the attacker _stabs_, a weapon parry is at -1 if the weapon has the _parrying_ feature, or -2 if it does not; a shield parry is at +2.
+
+If you want the short version, use this rule of thumb: slash is about line and movement, stab is about line and guard, and a shield is the safest answer to a point.
 
 #### ATTACK & DEFENSE
 
 | Action                        | SLASH | STAB | PUNCH/KICK |
 | ----------------------------- | ----- | ---- | ---------- |
-| Parry with weapon             | —     | —    | —          |
+| Parry with weapon             | —     | -1   | —          |
 | Parry with shield             | —     | +2   | +2         |
-| Dodge                         | +2    | —    | —          |
+| Dodge                         | +2    | -2   | —          |
 | Parry without parrying weapon | -2    | -2   | —          |
-| Dodge without going prone     | -2    | —    | —          |
-
+| Dodge without going prone     | -2    | -2   | —          |
 **DRAW WEAPON:** You draw a weapon from your belt or scabbard. No roll is required. This fast action can also be used to pick up a weapon or other item from the ground (within _arm's length_). Also see the **QUICKDRAW** talent.
 
 **SWING WEAPON:** You swing your melee weapon to make your upcoming strike more powerful. No roll is required, but this fast action requires a **HEAVY** weapon. Must be performed directly before a **SLASH** or **STAB**, in the same round. If the attack is successful, the damage dice increases by +1 🩸.
@@ -338,7 +339,7 @@ Because reactive actions break the initiative order, it can be hard to keep trac
 
 **FEINT:** You swap initiative segments with an opponent at _arm's length_ (or near, if your close combat weapon can reach that far). The new order takes effect the next round. No roll is required.
 
-**RETREAT:** This action must be used instead of **RUN** if you have an active enemy at _arm's length_. Brings you to _Near_ range. Roll for _move_. If you fail, you move but your enemy gets a free attack against you — a _slash_, _stab_ or _punch_ that doesn't count toward their actions in the round and which you can't _parry_ or _dodge_.
+**RETREAT:** This action must be used instead of **RUN** if you have an active enemy at _arm's length_. Brings you to _Near_ range. Roll for _move_. If you fail, you move but your enemy gets a free attack against you - a _slash_, _stab_ or _punch_ that doesn't count toward their actions in the round and which you can't _parry_ or _dodge_.
 
 **HARD SPRINT:** If you **RUN** twice in the same round, you suffer -2 dice to **PARRY** and **DODGE** until your next turn.
 
@@ -473,7 +474,7 @@ Fine weapons require a specialist and proper tools; crude weapons can be made wi
 
 **ARMOR RATING X2:** The target doubles their armor rating against this weapon.
 
-**BLUNT:** Enables SLASH attacks and uses the Blunt critical injury table. SLASH attacks grant the defender +2 to DODGE.
+**BLUNT:** Enables SLASH attacks and uses the Blunt critical injury table. SLASH attacks are easiest to dodge, but a weapon parry is rougher than normal.
 
 **BRITTLE/FRAGILE:** The item takes one point of item damage on any item die 💀, even if the attack wasn’t pushed or armor wasn’t pierced. Brittle items can’t be repaired. A character that breaks from a misfire takes the slash critical injury result 11–16.
 
@@ -483,7 +484,7 @@ Fine weapons require a specialist and proper tools; crude weapons can be made wi
 
 **FLEXIBLE:** When a target uses a shield to PARRY this weapon, reduce the shield bonus by 1, to a minimum of 0. This does not affect parries made with weapons.
 
-**EDGED:** Enables SLASH attacks and uses the Slash critical injury table. SLASH attacks grant the defender +2 to DODGE.
+**EDGED:** Enables SLASH attacks and uses the Slash critical injury table. SLASH attacks are easiest to dodge, and a weapon parry against them is rougher than normal.
 
 **HEAVY:** Counts as a heavy weapon for talents and other rules that reference heavy weapons.
 
@@ -513,7 +514,7 @@ Fine weapons require a specialist and proper tools; crude weapons can be made wi
 
 **PICK:** These weapons cause damage as if they were pointed STAB weapons, but the attack is still performed as a SLASH.
 
-**POINTED:** Enables STAB attacks and uses the Stab critical injury table. STAB attacks give the defender +2 to PARRY, while parrying with a weapon (not a shield) gives a -2 penalty.
+**POINTED:** Enables STAB attacks and uses the Stab critical injury table. STAB attacks are hardest to dodge, and shields are the safest answer to them.
 
 **POLEARM:** This tag is for haft weapons such as halberds, bills, and poleaxes. They keep enemies from the lower range bands at bay until they **CUT IN**. If an enemy gets inside _arm's length_, the point is dead and you fight with the haft, butt, or back of the shaft: roll _melee_ at -2, deal 0 damage, and use the blunt critical injury table. When attacking a mounted opponent, you ignore the -1 penalty and can also add your item gear dice when attempting to SHOVE a mounted opponent.
 
