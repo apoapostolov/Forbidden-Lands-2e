@@ -136,7 +136,7 @@ Your oath is a blade you can draw at will, but it also cuts you when you falter.
 - ✦ **RANK 2:** Add a second Anathema that sharpens your code, that the GM must agree on. When a roll clearly upholds your Vow you may spend 1 WP to add a D8 Artifact Die; if you refuse a beneficial opportunity because it would break an Anathema once per session, regain 1 special WP that doesn't count to your limit (you cannot gain another special WP until you spend it).
 - ✦ **RANK 3:** You may now invoke your Pride twice per session, and one of those uses can empower an ally who is actively pursuing or aiding you in your Vow. They roll your Pride die but you pay the cost and count the use.
 - ✦ **RANK 4:** Add a third Anathema that the GM must agree on. The GM may now set formal **Goals** tied to your Vow — short-term goals award you +2 XP when completed (and +1 XP to each ally who meaningfully helped), while long-term Goals award +4 XP to you and +2 XP to assisting allies. These Goals must be weighty challenges where you are the spearhead.
-- ✦ **RANK 5:** You can invoke Pride an additional time per session. Once per session, when you use Pride in direct service of a Goal, you also grant each assisting ally +1 die on their next roll until the end of their next turn and you regain 1 WP if the action succeeds.
+- ✦ **RANK 5:** You can invoke Pride an additional time per session, and this use can only benefit yourself. Once per session, when you use Pride in direct service of a Goal, you also grant each assisting ally +1 die on their next roll until the end of their next turn and you regain 1 WP if the action succeeds.
 
 ### PATH OF PROTECTION
 
