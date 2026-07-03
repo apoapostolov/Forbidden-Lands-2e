@@ -45,7 +45,7 @@ Even in Full Guided mode, you never pick freely from the whole table. Roll two r
 12. Choose your profession using the qualification rules in this section.
 13. Spend attribute points by age as normal. Your kin key attribute (from your kin entry) sets the cap at 5; if it overlaps with your profession key attribute, the cap is 6.
 14. Choose your profession talent and general talents by age. Mark your profession talent seed.
-15. Determine Pride, Dark Secret, and relationships. Use a Pride or Dark Secret claimed during the life generator, or choose from your profession entry.
+15. Determine Dark Secret and relationships. Use a Dark Secret claimed during the life generator, or choose from your profession entry.
 16. Set Reputation 6 and Standing +1 in your home settlement, modified by any Standing changes from the generator.
 17. Roll or choose on the How Did You Meet? table.
 
@@ -303,9 +303,9 @@ Early lessons come fast; later mastery comes slow. A character who spent most of
 
 #### PRIDE AND DARK SECRET
 
-Some events and mishaps carry an italic tag: _This may be your Pride_ or _This may be your Dark Secret._ These are not requirements. They are offers the life generator makes when an event carries the right weight — a triumph worth standing on, or a stain worth hiding.
+Some events and mishaps carry an italic tag: _This may be your Pride_ or _This may be your Dark Secret._ These are not requirements. They are offers the life generator makes when an event carries the right weight — a triumph worth remembering, or a stain worth hiding.
 
-If a character encounters one of these during generation, the player may claim it. Only one Pride and one Dark Secret may be claimed this way. A claimed Pride or Dark Secret replaces the profession's default suggestions. If no claim was made during the life generator, choose from the profession entry as normal.
+If a character encounters one of these during generation, the player may claim it as a note about where their Pride or Dark Secret comes from. Only one Dark Secret may be claimed this way. Pride itself is not chosen here; every adventurer has it. If no Dark Secret was claimed during the life generator, choose from the profession entry as normal.
 
 Not every event carries a tag. The ones that do are the kind of moments that mark a life — the kill that made your name, the order you should not have obeyed, the rite you will not speak of, the season you survived when no one else did.
 
@@ -1520,7 +1520,7 @@ Once your profession is set, continue with the profession rules in Chapter 2:
 - Choose your profession talent. Mark 1 tally toward your chosen profession talent. This is your **profession talent seed** — the life you lived before play earns you that first mark. If advancement benefits already granted marks in the same talent, add the seed mark to that total. Talent marks from the life generator convert to ranks using the same progression table as skills. If sustained focus pushed a talent to Rank 3, keep it — the narrowing taxes and lost breadth already paid for that concentration.
 - Choose your general talents by age.
 - Sorcerers and Druids who hold marks in a magical path talent (from the profession talent seed or from advancement benefits) begin play with access to the spells of that path at the granted rank level, following the normal rules in Chapter 7.
-- Determine Pride, Dark Secret, and relationships. If you claimed a Pride or Dark Secret during the life generator, use it. Otherwise choose from your profession entry.
+- Determine Dark Secret and relationships. If you claimed a Dark Secret during the life generator, use it. Otherwise choose from your profession entry.
 - Take Resource Dice from your profession entry as normal.
 - Use the gear and silver from the life generator (plus the gear floor) instead of adding the profession's ordinary starting gear and silver on top.
 - Your home region determines your home settlement. You start with Reputation 6 and Standing +1 there, modified by any Standing changes gained during the life generator.
@@ -1549,16 +1549,13 @@ The contacts, rivals, enemies, rumors, and scars accumulated during the life gen
 >
 > **Results.** Jorrh ends with 12 marks (2 from childhood, 10 from resolved turns). His marks cluster in Melee (4 marks — Rank 3), Survival (3 marks — Rank 3), Scouting (2 marks — Rank 2), Insight (2 marks — Rank 2), and Healing (1 mark — Rank 1). That is the shape of someone who fought, lost, walked hungry, and fought again. He has two scars, one enemy, one debt, one hidden shelter, and one old master who still believes in him.
 >
-> When he rolled First Blood in his first cycle, the event carried a tag: _This may be your Pride._ He takes it. His Pride is: "I have killed at arm's length and I am good at this bloody work." His Dark Secret comes from the Fighter profession entry.
+> When he rolled First Blood in his first cycle, the event carried a tag: _This may be your Pride._ He notes it as the place his Pride comes from. That note matters to the story, not to the rule. His Dark Secret comes from the Fighter profession entry.
 >
 > His Wear is 1 — only one pair of consecutive failures across three cycles. At 0–1 Wear he may choose either a Short Errand or a Life Quest for his unfinished business. He chooses a Life Quest. The man who left him in that ditch is still out there. His question: _Who buried me, and do they still walk free?_ That is worth 25 XP when the answer comes.
 >
 > He does not feel a made-up hero. He feels like a man who got knocked down twice and kept standing up, not because the world rewarded it but because he did not know how to do anything else.
 >
 > His profession is Fighter. He marks 1 tally toward Defender as his profession talent seed. The rest of the chapter takes him from here.
-
-> #### Torvin
->
 > Torvin is an Old Dwarf. Four completed cycles.
 >
 > He rolls **Smith's Apprentice** — Crafting 1 and Melee 1, Strength and Wits favored. He still owes loyalty to a forge and a dead master's memory.

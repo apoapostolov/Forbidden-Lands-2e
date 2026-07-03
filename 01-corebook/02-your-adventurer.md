@@ -22,7 +22,7 @@ Grab a character sheet, a pencil, and follow these steps:
 - Spend points on your attributes.
 - Spend points on your skills.
 - Choose your starting talents.
-- Determine your Pride.
+- Note your Pride.
 - Choose a Dark Secret.
 - Define your relationships to the other player characters.
 - Pick your gear.
@@ -455,12 +455,14 @@ _Josie's character gets the PSYCHIC POWER kin talent and chooses the PATH OF BLO
 
 ### PRIDE
 
-Adventurers are not like other people. Leaving home and family to set out on the way of the sword requires both courage and the conviction that you are an individual beyond the norm. This is represented in the game by your Pride - something specific that you are very proud of. It can be an ability, an event in your past, or something else. Your profession provides three suggestions, but you are free to make up your own Pride.
+Adventurers are not like other people. Leaving home and family to set out on the way of the sword requires both courage and the conviction that you are an individual beyond the norm. This is represented in the game by your Pride - the stubborn will that keeps you standing when you must protect yourself or someone else. You do not have to define it as a deed, vow, or phrase. If you want, you can note where it comes from, but the note is only color. Your profession gives you three example notes if you want one, but the rule does not depend on them.
 
-Once per game session you can activate your Pride, when you fail a skill roll in a situation where your Pride is relevant. The GM has the final say, but they should give you the benefit of the doubt. When activating your Pride, you get to roll an extra D12 and include the result in a dice roll. If you fail the roll despite this, you must remove your Pride. You then need to play one entire session without a Pride, before you get to choose a new Pride for your character. Read more on how you use your Pride in Chapter 3.
+Once per game session you can activate your Pride after you fail a skill roll made to protect yourself or another person. When you activate your Pride, you get to roll a Pride die and include the result in the roll. Pride starts at D12. If the roll still fails, you lose your Pride for the next session. At the start of the session after that, it returns as a D8. If you use your Pride and do not lose it, or if you do not use Pride during a session, it improves by one step at the start of the next session, from D8 to D10 to D12.
+
+At the end of a hard-won Tale or after a dangerous victory, the GM may grant a sense of achievement. A dungeon taken, a demon cast down, a siege broken, or some other feat that leaves the company bloodied and standing may count. If you have no Pride, it returns at D8. If you already have Pride at D8 or D10, it rises one step. Pride never rises above D12 this way. Read more on how you use your Pride in Chapter 3.
 
 **EXAMPLE**
-_Josie decides that her Sorcerer's Pride will be: "Nothing scares me, as I have seen the world behind the veil."_
+_Josie notes that her Pride comes from having seen the world behind the veil. It is the sort of thing that keeps her on her feet when others would break and run._
 
 ### DARK SECRET
 
@@ -690,7 +692,7 @@ Experience Points are not the only way to change your PC during the course of th
 
 #### CHANGE YOUR PRIDE
 
-If you activate your Pride in a skill roll, but still fail, you must immediately erase your Pride. You must then play one entire game session without a Pride, and after that you get to choose a new Pride for yourself. Read more on how you use your Pride in Chapter 3.
+If you activate your Pride in a skill roll made to protect yourself or another person, but still fail, you lose your Pride for the next session. At the start of the session after that, it returns as a D8. If you use Pride and do not lose it, or if you do not use Pride during a session, it improves by one step at the start of the next session, from D8 to D10 to D12. Read more on how you use your Pride in Chapter 3.
 
 #### CHANGE YOUR DARK SECRET
 

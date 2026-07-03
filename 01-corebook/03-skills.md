@@ -253,7 +253,9 @@ The _Forbidden Lands_ custom dice have the number of ⚔️ engraved directly on
 
 ### PRIDE
 
-Once per game session, you can use your Pride when you have failed a skill roll. When you use your Pride, roll a D12 and add
+Once per game session, you can use your Pride after you have failed a skill roll made to protect yourself or another person. When you use your Pride, roll your Pride die and add it to the roll. Pride starts at D12. If the roll still fails, you lose your Pride for the next session. At the start of the session after that, it returns as a D8. If you use Pride and do not lose it, or if you do not use Pride during a session, it improves by one step at the start of the next session, from D8 to D10 to D12.
+
+The GM may also grant a sense of achievement at the end of a hard-won Tale or a dangerous victory. A dungeon taken, a demon cast down, or some other feat that leaves the company bloodied and standing may count. If you have no Pride, it returns at D8. If you already have Pride at D8 or D10, it rises one step. Pride never rises above D12 this way.
 
 ### THE SKILLS
 
