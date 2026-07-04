@@ -303,7 +303,6 @@ Because reactive actions break the initiative order, it can be hard to keep trac
 If you want the short version, use this rule of thumb: slash is about line and movement, stab is about line and guard, and a shield is the safest answer to a point.
 
 #### ATTACK & DEFENSE
-
 | Action                        | SLASH | STAB | PUNCH/KICK |
 | ----------------------------- | ----- | ---- | ---------- |
 | Parry with weapon             | —     | -1   | —          |
@@ -350,6 +349,20 @@ The fight between the adventurers and the orcs begins. Orc 1 uses his two action
 He then proceeds to use his slow action to _slash_ the orc, who has already used up his actions in the round and can't _parry_ or _dodge_. Tyrgar rolls the following dice: four **Base Dice** for his _Strength_, two **Skill Dice** for his _melee skill_, one **Skill Die** for his _axe fighter_ talent, two **Gear Dice** for his axe's _Weapon Bonus_, and two bonus **Skill Dice** because his opponent is prone. He rolls three ⚔️. The first ⚔️ means he hits. The next two ⚔️, combined with his axe's _Weapon Damage_ of 2, results in 4 points of 🩸 to the orc, who is _Broken_.
 
 Nirmena's turn. She draws her sword (fast action) and tries to _stab_ Orc 2, but misses. Orc 3 runs to _arm's length_ from Tyrgar. Then the round is over.
+
+#### OPTIONAL: MASTER STRIKES
+
+If you want close combat to carry more pressure in line, space, and tempo, use master strikes.
+
+A master strike is a successful `SLASH` or `STAB` or a physical attack by a monster that still inflicts 3 or more points of damage after `DODGE` or `PARRY`, but before armor is rolled. Armor reduces the final damage as normal, but it does not cancel the master strike once it has been earned.
+
+When a master strike lands:
+
+- A master strike with `SLASH` forces the target to `BACK` if it can. If it cannot or will not, it suffers -2 to all `DODGE` attempts until the end of its next turn. If the target is a monster, its next physical attack loses -2 dice.
+- A master strike with `STAB` forces the target to `BACK` if it can. If it cannot or will not, it loses its next `FAST` action. If the target is a monster,
+- A monster master strike from a physical attack forces the target to `BACK` if it can. If it cannot or will not, it suffers -2 to its next attack rolls against the same monster until the end of its next turn.
+
+If the target cannot `BACK`, it suffers the effect automatically.
 
 ### RANGED COMBAT
 

@@ -15,6 +15,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - **Chapter 05 — Slash and stab wording.** Clarified the close-combat language for slash and stab attacks and their interaction with dodge and parry, including the weapon and shield reference table.
 
+- **Chapter 05 — Master strikes.** Added an optional close-combat module for 3+ success master strikes, with forced backing, dodge pressure, fast-action loss, and a matching monster rider.
+
 ## [1.1.2] - 2026-06-17
 
 ### Changed
