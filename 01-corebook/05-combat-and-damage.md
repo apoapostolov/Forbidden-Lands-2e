@@ -350,20 +350,6 @@ He then proceeds to use his slow action to _slash_ the orc, who has already used
 
 Nirmena's turn. She draws her sword (fast action) and tries to _stab_ Orc 2, but misses. Orc 3 runs to _arm's length_ from Tyrgar. Then the round is over.
 
-#### OPTIONAL: MASTER STRIKES
-
-If you want close combat to carry more pressure in line, space, and tempo, use master strikes.
-
-A master strike is a successful `SLASH` or `STAB` or a physical attack by a monster that still inflicts 3 or more points of damage after `DODGE` or `PARRY`, but before armor is rolled. Armor reduces the final damage as normal, but it does not cancel the master strike once it has been earned.
-
-When a master strike lands:
-
-- A master strike with `SLASH` forces the target to `BACK` if it can. If it cannot or will not, it suffers -2 to all `DODGE` attempts until the end of its next turn. If the target is a monster, its next physical attack loses -2 dice.
-- A master strike with `STAB` forces the target to `BACK` if it can. If it cannot or will not, it loses its next `FAST` action. If the target is a monster,
-- A monster master strike from a physical attack forces the target to `BACK` if it can. If it cannot or will not, it suffers -2 to its next attack rolls against the same monster until the end of its next turn.
-
-If the target cannot `BACK`, it suffers the effect automatically.
-
 ### RANGED COMBAT
 
 When you attack someone from a distance, you roll **MARKSMANSHIP**. You need a ranged weapon, even if it's simply something to throw. The table below describes various weapons and indicates the maximum range at which the weapon can be used.
