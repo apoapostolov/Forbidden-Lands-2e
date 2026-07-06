@@ -7,7 +7,15 @@ All notable changes to the Forbidden Lands Corebook will be documented in this f
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased] - 2026-07-04
+## [Unreleased] - 2026-07-06
+
+### Added
+
+- **`yze-design` — master Year Zero Engine design skill.** A comprehensive engine-agnostic design system for the Year Zero Engine (YZE) by Free League Publishing. Reverse-engineers Forbidden Lands 2E and Tales of the Old West 2E into a unified three-layer design toolkit:
+  - **UNDERSTAND** — core resolution, character, conflict, harm, power, travel, organizations, gear, GM procedures, philosophy, design dials, and a complete FL-vs-West divergence map.
+  - **INVENT** — 15 reusable mechanical primitives, a dual-use matrix showing how each primitive produces opposite player psychologies at different calibrations, and a 5-operator reinvention method for transplanting primitives into new systems (Domain Transfer, Inversion, Recalibration, Fusion, Abstraction-Climb).
+  - **VALIDATE** — an executable balance and synergy pipeline (expected-success math, attrition curves, exploit taxonomy, synergy stress-testing) plus a player-psychology layer (loss aversion, flow, perceived randomness, the abstraction-authenticity dial) and an integrating review protocol.
+  - Use it to build a new YZE game for any genre, invent rules from proven primitives, or stress-validate either for math and table feel.
 
 ### Changed
 

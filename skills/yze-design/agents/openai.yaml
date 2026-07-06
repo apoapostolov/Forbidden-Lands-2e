@@ -1,0 +1,8 @@
+interface:
+  display_name: "YZE Design"
+  short_description: "Design & validate Year Zero Engine games and rules"
+  brand_color: "#7C3AED"
+  default_prompt: "Use $yze-design to abstract this Year Zero Engine mechanic, map FL-vs-West divergence, and produce a genre-agnostic design with dials."
+
+policy:
+  allow_implicit_invocation: true

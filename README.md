@@ -81,11 +81,13 @@ Only carry over the *Forbidden Lands* skills you actually need:
 - `forbidden-lands-medieval-authenticity`
 - `forbidden-lands-synergy-analysis`
 - `forbidden-lands-writing-voice`
+- `yze-design`
 
 ### What each skill is for
 
 | Skill | Use it for |
 | --- | --- |
+| `yze-design` | Build a new Year Zero Engine game for any genre; invent, transplant, and stress-validate mechanics from proven YZE primitives |
 | `forbidden-lands-bestiary` | New monsters, encounter tables, Lore Rolls, Monster Attacks, and salvage design |
 | `forbidden-lands-design` | New rules, subsystems, procedures, and campaign mechanics |
 | `forbidden-lands-lore` | Setting truth, place names, kin, factions, religion, and regional consistency |
@@ -95,6 +97,7 @@ Only carry over the *Forbidden Lands* skills you actually need:
 
 ### Recommended skill stacks
 
+- **New YZE game for any genre:** `yze-design`
 - **New region or campaign frame:** `forbidden-lands-lore`, `forbidden-lands-writing-voice`, and `forbidden-lands-medieval-authenticity`
 - **New subsystem or house rule:** `forbidden-lands-design` and `forbidden-lands-synergy-analysis`
 - **New monster or enemy band:** `forbidden-lands-bestiary`, `forbidden-lands-lore`, and `forbidden-lands-medieval-authenticity`
@@ -122,7 +125,8 @@ my-forbidden-lands-campaign/
     ├── forbidden-lands-lore/
     ├── forbidden-lands-medieval-authenticity/
     ├── forbidden-lands-synergy-analysis/
-    └── forbidden-lands-writing-voice/
+    ├── forbidden-lands-writing-voice/
+    └── yze-design/
 ```
 
 That gives a GM a practical split between world facts, active prep, session history, and house material.
