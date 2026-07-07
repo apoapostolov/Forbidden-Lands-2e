@@ -39,26 +39,15 @@ Apply the **Reinvention Ladder** from `SKILL.md`:
 
 ## Module index
 
-> Each module is a single `.md` file, numbered `NN-`. The numbering is by cluster (politics/relationships/combat-extensions/abstract-systems), not priority.
+> Each module is a single `.md` file, numbered `01-` through `07-`. Each follows the structure in `00-module-template.md`: a genre-agnostic **generic design space** (§2, the bulk) including a **NEW CONCEPTS** subsection (§2b) flagging every mechanism that extends the core engine, and a **Mechanical reference** subsection (§2c) with the actual runnable tables, formulas, and procedures — followed by one **worked genre example** (§8).
 
-### Politics & power
-
-- `10-influence-and-political-power.md` — A political-capital system: convert fictional standing into a spendable influence pool (calibrated on the dual-use matrix). *Worked example: Renaissance Florence.*
-
-### Relationships & factions
-
-- `20-faction-relationship-web.md` — A multi-faction relationship tracker that models alliances, feuds, debts, and shifting standing as a graph the PCs steer. *Worked example: post-apoc warlords.*
-
-### Combat extensions
-
-- `30-social-combat-as-real-combat.md` — Treats social scenes as full tactical conflicts with the action economy, positioning, "attacks," and a Broken-equivalent — not a single opposed roll. *Worked example: Regency high society.*
-- `40-pursuit-and-chase.md` — A structured chase subsystem with track-position, the activity menu, and escalating stakes. *Worked example: 1920s spycraft.*
-
-### Abstract reusable systems
-
-- `50-investigation-and-clue-economy.md` — A clue-as-currency system: clues are a tracked resource that refuels the deductive push, gating revelations behind player-driven inquiry. *Worked example: noir / cosmic horror.*
-- `60-debt-and-obligation.md` — A debt tracker that turns favors, loans, and oaths into active pressure (an inverted metacurrency). *Worked example: corporate space opera.*
-- `70-corruption-and-taint.md` — A corruption spiral: using forbidden power refuels you but climbs a doom ladder (resource die + typed consequence families, inverted polarity). *Worked example: witch-hunting dark fantasy.*
+- `01-influence-and-political-power.md` — Political capital as a spendable, *decaying* pool with scandals as the bane-equivalent. *Worked example: Renaissance Florence.*
+- `02-faction-relationship-web.md` — A multi-faction relationship graph with a propagation rule: helping one faction shifts standing with its allies and enemies. *Worked example: post-apoc warlords.*
+- `03-social-combat-as-real-combat.md` — High-stakes social scenes as full tactical conflicts: the action economy, social-distance range bands, leverage as weapons, Composure as social HP. *Worked example: Regency high society.*
+- `04-pursuit-and-chase.md` — Structured chases with a shared track-position ladder, the activity menu at combat cadence, typed-D66 Hazards, and resource-die countdowns. *Worked example: 1920s spycraft.*
+- `05-investigation-and-clue-economy.md` — Clues as a capped metacurrency earned via an inquiry activity menu and spent on a revelation ladder; risky inferences use the push. *Worked example: noir / cosmic horror.*
+- `06-debt-and-obligation.md` — An *inverted* metacurrency: debts grow when you take favors and must be paid down; called debts are the GM's pressure valve. Unifies financial/social/moral/supernatural debt. *Worked example: corporate space opera.*
+- `07-corruption-and-taint.md` — A corruption spiral: forbidden power refuels you but grows a doom die up a 5-tier ladder; full milestone D66 tables and an atonement procedure. *Worked example: witch-hunting dark fantasy.*
 
 ## Module template
 

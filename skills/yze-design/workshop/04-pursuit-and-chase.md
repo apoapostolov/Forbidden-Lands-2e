@@ -7,7 +7,10 @@
 ## Contents
 
 1. Origin — how this was built
-2. The generic mechanism
+2. The generic design space
+   - 2a. Mechanism overview
+   - 2b. NEW CONCEPTS introduced
+   - 2c. Mechanical reference (tables & procedures)
 3. The pressure loop
 4. Dials
 5. Integration points
@@ -22,19 +25,38 @@
 - **Target psychology:** **Tactical / attritional** (`17` M6) crossed with **coordination-as-play** (`17` M4, the bridge-crew row). Produces *chases that matter as scenes* — as mechanically engaging as the fight they interrupt. The point is that a car chase, a starship pursuit, or a rooftop foot-chase gets the same table-wide tactical depth combat always had, instead of collapsing to one Driving roll.
 - **Problem solved:** in both source games, a chase is either a single opposed roll or a series of "did you catch up?" checks with no internal structure. That is fine for incidental pursuit, but it makes chase play *thin* — one roll where a fight would be a six-Round scene. For genres where pursuit *is* the action (heist getaway, spy thriller, monster hunt, starship combat), this is a real gap. This module closes it by treating the chase as a combat-equivalent: the same Round cadence, the same action economy, a track instead of a hit-location map.
 
-## 2. The generic mechanism
+## 2. The generic design space
 
-### When it triggers
+### 2a. Mechanism overview
+
+Pursuit becomes a **Chase** — a multi-Round conflict — when there are two sides in motion (a *hunter* and a *quarry*), a closing condition (a capture or escape threshold the scene is racing toward), and real consequence on the outcome (escape = freedom; capture = death or exposure). For incidental pursuit ("we tail him to the tavern"), a single Driving/Running roll (`03 §11`) is enough; reserve the chase loop for pursuits that earn the table time.
+
+The chase is fought over a shared **position ladder** — a short ordinal track representing the gap between hunter and quarry that *both sides occupy*. The ladder replaces combat's range bands (`03 §5`) with a single dimension, because in a chase relative distance is the only position that matters. Movement along the track is the *only* win/lose state — there is no separate HP to whittle. **The hunter wants to reach Caught (0); the quarry wants to reach Out-of-sight + one gain (escape).** Each Round, every participant picks **one** job from a fixed **activity menu** (DRIVE / NAVIGATE / SHOOT / REPAIR / JOCKEY), using the engine's action economy (1 slow + 1 fast, or 2 fast). The four critical demands of a chase — *move, navigate, threaten, keep going* — are **mutually exclusive**, so a crew is always short of hands: *who does what* is the tactic. Graded rolls (P3) read as position shifts on the track.
+
+A successful SHOOT/RAM triggers a **Hazard roll** — a typed-D66 consequence table (P4) that produces specific breakages (a shredded tire, a starred windshield): the chase's equivalent of a damage roll. Each vehicle/runner also tracks **resource dice** (P5) — Fuel, Stamina, Heat — that step down on hard use and, at depletion, force a shift against the depleted side: the countdown that makes a chase finite. The core decision each Round: *do I push for position, or repair and hold ground? Do I spend metacurrency on this DRIVE, or save it for the Hazard roll I know is coming?*
+
+This is the engine's standard conflict spine (`03 §7`) re-skinned: the menu is the action economy, the track is the range ladder reduced to one dimension, the Hazard table is the crit table, the resource die is the consumables clock. The mechanics barely change; the fiction transforms completely — which is the engine's core claim (`12 §12`).
+
+### 2b. NEW CONCEPTS introduced
+
+- **NEW CONCEPT — Track-position ladder:** Core chases are a single opposed Driving/Running roll (`03 §11`); core combat conflict is resolved across range bands or a hit-location map (`03 §5`). This module replaces both with a *5-rung shared position track that both sides occupy simultaneously* — the two-dimensional battlefield collapses to one ordinal dimension the whole scene races along, because in a chase the only position that matters is *how far apart they are.* *Extends the engine by introducing a one-dimensional, shared, bidirectional position track that neither combat's range bands nor the single-roll chase provides.*
+- **NEW CONCEPT — Chase activity menu at combat cadence:** P6's activity menu lives in *travel* at Quarter-Day cadence (`06 §5`). This module *compresses the same labor-distribution puzzle to Round cadence* — DRIVE / NAVIGATE / SHOOT / REPAIR / JOCKEY chosen every combat Round, not every Quarter-Day. The Domain Transfer of the menu is recombination of an existing primitive, but the *compression to combat speed* is a new application: no core system runs the travel menu at combat tempo. *Extends the engine by porting the coordination-puzzle menu into its fastest loop.*
+- **NEW CONCEPT — Hazard as typed-D66 chase consequence:** P4's typed D66 is used for combat crits (`04 §5`) and magic mishaps (`05 §7`). No core system applies it to *chase-specific breakage families* (Collision / Mechanical, expandable to Environmental, Pursuit-stress, Pedestrian). This module does — a Hazard roll on a successful SHOOT/RAM or a forced NAVIGATE wrong-turn yields a specific, memorable breakage (a shredded tire, an engine stutter) rather than generic "lose a shift." *Extends the engine by adding a chase-specific typed-consequence table family.*
+- **NEW CONCEPT — Role-reversibility:** No core conflict system lets the two sides swap mid-scene — attacker and defender, hunter and quarry are fixed for the conflict's duration. This module gates a **role flip** (hunter↔quarry) behind a crit NAVIGATE, modeling the cat-and-mouse where the hunted becomes the hunter. *Extends the engine's conflict model with a reversible-sides rule that no core conflict permits.*
+
+### 2c. Mechanical reference (tables & procedures)
+
+#### When it triggers
 
 Pursuit is **not** for every "follow them." It triggers when:
 
-1. There are **two sides** in motion — a *hunter* and a *quarry* (a chase may invert mid-scene).
+1. There are **two sides** in motion — a *hunter* and a *quarry* (a chase may invert mid-scene; see Role-reversibility).
 2. There is a **closing condition** — a destination, an escape threshold, or a capture threshold the scene is racing toward.
 3. The scene **deserves a scene** — the outcome is consequential (escape = freedom; capture = death or exposure).
 
 For incidental pursuit ("we tail him to the tavern"), use a single Driving/Running roll (`03 §11`). Reserve the chase loop for pursuits that earn the table time.
 
-### The track (the positioning layer)
+#### The position ladder (the track)
 
 The chase is fought over a shared **position ladder**, a short ordinal track that represents the gap between hunter and quarry. Both sides occupy a rung. The ladder replaces combat's range bands (`03 §5`) with a single dimension — *how far apart are they* — because in a chase, relative distance is the only position that matters.
 
@@ -48,25 +70,27 @@ The chase is fought over a shared **position ladder**, a short ordinal track tha
 
 A **shift** is ±1 rung, awarded by a graded chase roll (P3). The track is short on purpose: most chases should resolve in 3–6 shifts in either direction. Movement along the track is the *only* win/lose state — there is no separate HP to whittle. **The hunter wants to reach Caught (0); the quarry wants to reach Out-of-sight+one (escape).**
 
-### The activity menu (the spine — P6)
+#### The activity menu (the spine — P6)
 
 Each Round, every participant (PC or NPC) picks **one** chase job from a fixed menu. The menu is designed so that the four critical demands of a chase — *move, navigate, threaten, keep going* — are **mutually exclusive**. You cannot drive flat-out, pick the fast line, shoot, and nurse an overheating engine at the same time. This is P6's load-bearing constraint, transferred from travel (`06 §5`) to pursuit: the crew is always short of hands, so *who does what* is the tactic.
 
-| Job | Action type | What it does | Core roll |
-| --- | --- | --- | --- |
-| **DRIVE / RUN** (move) | Slow | Gain a position shift toward your goal (hunter→0, quarry→escape). The baseline offensive action. | Drive / Running / Piloting |
-| **NAVIGATE** (cut them off) | Slow | Pick a faster line through terrain/traffic; on a graded success, grant a shift *or* impose a shift on the opponent (a wrong turn forced). Solo job — one navigator per vehicle. | Survival / Navigation / Streetwise |
-| **SHOOT / RAM / FORCE** (threaten) | Slow or Fast | Apply pressure that degrades the opponent's next roll, or force a **Hazard roll** (see below). Cannot also DRIVE this Round. | Ranged / Melee / Drive (for ramming) |
-| **REPAIR / BRACE** (keep going) | Slow | Roll the **resource die** up (P5) — cool the engine, patch a tire — *or* cancel an incoming Hazard. The defensive/supply action. | Crafting / Mechanics / Composure |
-| **JOCKEY** (fast) | Fast | A quick feint/block/reroute — a fast-action mini-DRIVE for a half-shift, or a deflection (the chase's "dodge"). | Drive / Running |
+**DRIVE / RUN** is a SLOW action and the baseline offensive move — you move toward your goal, the hunter toward Caught, the quarry toward escape. Roll DRIVE, RUNNING, or PILOTING (whichever the vehicle or pursuit warrants). On a graded success, gain a position shift toward your goal — one rung closer to the threshold that ends the chase.
 
-**The exclusions are the mechanic.** A two-person crew must split DRIVE + NAVIGATE and give up SHOOT and REPAIR; a four-person crew can cover all four but someone is still not doing something. A lone driver must pick *one* and accept the others go undone — which is exactly why a lone fugitive is vulnerable and a crewed vehicle is powerful. This is the same constraint that makes FL travel a labor puzzle (`06 §5`), now operating at combat speed.
+**NAVIGATE** is a SLOW action and the route-picking job — you choose the faster line through terrain or traffic, or force the opponent down a bad one. It is a solo job: only one navigator per vehicle per Round. Roll SURVIVAL, NAVIGATION, or STREETWISE. On a graded success, you may either grant yourself a position shift or impose a shift on the opponent — a wrong turn forced, an alley they have to back out of. A critical success can do both. This is the distinguishing tactic of a chase: the chase is won by route choice, not raw speed.
 
-### Hazards (the consequence layer)
+**SHOOT / RAM / FORCE** is a SLOW or FAST action (your choice, set by the fiction — a shot from the hip is fast; a deliberate ram is slow) that applies pressure degrading the opponent's next roll, or forces a Hazard roll (see below). Roll RANGED, MELEE, or DRIVE (for ramming). You cannot also DRIVE this Round — you cannot shoot and drive flat-out at the same time.
+
+**REPAIR / BRACE** is a SLOW action and the defensive and supply move — you roll a resource die up (P5) to cool an overheating engine, patch a tire, or catch your breath, or you cancel an incoming Hazard. Roll CRAFTING, MECHANICS, or COMPOSURE. This is the action that keeps the chase going when the machine or the runner is failing — but it costs you a Round of ground, because you are not driving.
+
+**JOCKEY** is a FAST action — the chase's mini-move: a quick feint, a block, a reroute, or a deflection. It is the chase's "dodge." Roll DRIVE or RUNNING. On a success, gain a half-shift (round down — two JOCKEYs make one full shift), or cancel an opponent's shift. This is what you do when you have already spent your SLOW action and need to defend or press a small advantage.
+
+**The exclusions are the mechanic.** A two-person crew must split DRIVE and NAVIGATE and give up SHOOT and REPAIR. A four-person crew can cover all four jobs, but someone is still not doing something. A lone driver must pick one and accept that the others go undone — which is exactly why a lone fugitive is vulnerable and a crewed vehicle is powerful. This is the same constraint that makes travel a labor puzzle (`06 §5`), now operating at combat speed.
+
+#### Hazards (the consequence layer — typed D66)
 
 When a graded SHOOT/RAM/FORCE succeeds, or when NAVIGATE forces a wrong turn, the target makes a **Hazard roll** — the chase's equivalent of a damage roll. A Hazard is resolved as a **typed D66** (P4) consequence, but the *families* are chase-specific: a small table per hazard source the genre cares about. The `65`/`66` climax rows are "forced stop / catastrophic wreck" — the chase-ending outcomes that function like a Broken result. Hazards are the *cost* the track position does not already capture: you can be winning on position and still lose a tire. The family count is a density dial (`17` M3): two families for a pulp chase, four to six (add Environmental, Pursuit-stress, Pedestrian) for a tactical one.
 
-**Sample Hazard table (two families, genre-skinnable):**
+**Sample Hazard table (two families, genre-skinnable — build parallel families for Environmental / Pursuit-stress / Pedestrian as density requires):**
 
 | D66 | **Collision** (terrain/traffic/impact) | **Mechanical** (the machine failing) |
 | --- | --- | --- |
@@ -80,11 +104,11 @@ When a graded SHOOT/RAM/FORCE succeeds, or when NAVIGATE forces a wrong turn, th
 
 This is P4 doing for the chase exactly what it does for combat crits (`04 §5`) and magic mishaps (`05 §7`): turning a generic "you take damage" into a *specific, memorable* breakage. A "tire shredded" is a story beat; "−1 DRIVE" alone is not.
 
-### Resource die (the countdown — P5)
+#### Resource dice (the countdown — P5)
 
 Each vehicle/runner tracks one or two **resource dice** for the consumables that make a chase finite: **Fuel** for vehicles, **Stamina** for runners, **Heat** for engines/guns. Each DRIVE or SHOOT that pushes the machine rolls the relevant die; on 1–2 it steps down (D12→D10→…→D6). At D6+1–2 the resource is **depleted** — out of fuel, blown engine, leg-cramp — which usually forces a position shift *against* the depleted side. This is P5 doing exactly what it does for FL food (`06 §5`): turning consumption into a gamble so the supply thinning is *felt*, not bookkept.
 
-### The Round structure (identical to combat)
+#### The Round structure (identical to combat)
 
 Per Round, each participant gets **one slow + one fast, or two fast** (`03 §7`). Reactions (a JOCKEY deflection) draw from the same budget. Resolve in initiative order (the engine's existing initiative; chases often grant the *faster* side first turn — a chase-specific modifier). A chase ends when a side hits its threshold (Caught / Escape) or a Hazard forces a stop.
 
@@ -96,7 +120,7 @@ Per Round, each participant gets **one slow + one fast, or two fast** (`03 §7`)
 5. **Step resource dice (P5).** Any DRIVE/SHOOT that strained the machine rolls its Fuel/Heat die; 1–2 steps it down. REPAIR rolls a die *up* (max one rung).
 6. **Check thresholds.** Caught (0) → resolve into a fight or a grab; Escape (Out-of-sight + one gain) → quarry wins. Else, next Round.
 
-This is the engine's standard conflict spine (`03 §7`), re-skinned: the menu is the action economy, the track is the range ladder reduced to one dimension, the Hazard table is the crit table, the resource die is the consumables clock. The mechanics barely change; the fiction transforms completely — which is the engine's core claim (`12 §12`).
+This is the engine's standard conflict spine (`03 §7`), re-skinned: the menu is the action economy, the track is the range ladder reduced to one dimension, the Hazard table is the crit table, the resource die is the consumables clock.
 
 ## 3. The pressure loop
 
@@ -133,7 +157,7 @@ This is the engine's standard conflict spine (`03 §7`), re-skinned: the menu is
 - **The single-roll collapse.** If the menu is trimmed to "everyone DRIVEs," the chase reverts to a series of opposed rolls with no internal tactic (`19` FE1 false choice). **Fix:** keep at least DRIVE / NAVIGATE / REPAIR on the menu so the labor split is a real decision; the menu is the mechanic, not decoration.
 - **The bookkeeping drag.** A full menu + two resource dice + typed-D66 Hazards + a reversible track is a lot of state for a scene that should last ~5 Rounds. If each Round takes ten minutes, the chase outstays its welcome (`19` FE2 decision fatigue; `13` §7.3 GM burden). **Fix:** start light (3 rungs, Fuel-only, single-die Hazards) and add density only for chase-focused genres; cap chase length at the track's natural resolution.
 - **The driver monopoly.** If only the wheel-character can act, the rest of the table watches (`19` FE4 agency collapse). **Fix:** honor crew size (each PC = one menu slot) so the gunner, the navigator, and the mechanic all have a turn; if the party is solo in one vehicle, use JOCKEY (fast) to give secondary PCs mini-actions.
-- **The track-as-HP-bag.** If shifts are just damage on a track, the chase feels like combat-with-different-nouns. **Fix:** make NAVIGATE (the *line-picking* job) the distinguishing tactic — a good navigator shifts the track *and* imposes terrain that gates the opponent, so the chase is won by route choice, not raw speed. This is the analogue to social-combat's distance layer (`workshop/30`).
+- **The track-as-HP-bag.** If shifts are just damage on a track, the chase feels like combat-with-different-nouns. **Fix:** make NAVIGATE (the *line-picking* job) the distinguishing tactic — a good navigator shifts the track *and* imposes terrain that gates the opponent, so the chase is won by route choice, not raw speed. This is the analogue to social-combat's distance layer (`workshop/03`).
 - **Resource-die inflation.** If REPAIR can step a die up at will, the Fuel/Heat countdown never bites and the chase has no clock (`13` §5.4 free-resource generation). **Fix:** REPAIR costs a full slow action (so you give up a DRIVE — you lose ground to refuel) and a resource die can step up at most one rung per Round; some damage (a blown tire) is not repairable mid-chase.
 - **The GM-fiat hazard.** If Hazards land on GM whim, players feel the scene is rigged (`19` FE5). **Fix:** tie every Hazard to a defined trigger (a graded SHOOT/RAM, a forced NAVIGATE wrong-turn, a depleted resource die) and resolve it on the typed D66 in the open.
 - **Reversibility whiplash.** If roles flip too easily, the objective is unstable and players stop investing in it. **Fix:** gate role-reversal behind a crit NAVIGATE (rare) or a Caught-that-doesn't-end-the-scene; a flip should be a dramatic beat, not a coin-flip.
