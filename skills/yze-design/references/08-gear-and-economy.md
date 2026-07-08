@@ -17,7 +17,7 @@
 9. Artifact / legendary gear and the artifact die
 10. Consumables as resource dice
 11. Inventory, transport, and storage pressure
-12. Crafting, construction, and investment economics
+12. Crafting, construction, investment economics, trade routes, and gambling
 13. Divergence rows (FL vs West)
 14. Dials and instantiation recipe
 15. Design intent
@@ -1037,7 +1037,90 @@ Use this procedure when inventing a new function, feature, business asset, or in
 
 **Commercial route office.** Outcome family: market/transport + enterprise bonus. Source pole: FL Marketplace/Warehouse/Road + West business roll. Cost: warehouse/office, route contacts, transport. Effect ceiling: +1 to route/trade enterprise rolls or reduce transport friction. Upkeep: guards, tolls, animals/vehicles, staff. Failure: cargo delay, extortion, road damage, lost customer.
 
-### 12.10 Dials
+### 12.10 Trade routes, cargo, and gambling scenes
+
+FL's Traderoads chapter adds a complete medium-scale economy that sits between personal gear and seasonal enterprise: the **cargo run**. West adds a compact **gambling** procedure that turns money, reputation, cheating, and social reading into a scene economy. Both should be abstracted because they are reusable beyond their genres.
+
+#### Cargo run sheet
+
+Use this for caravans, freight lines, smugglers, riverboats, pack trains, starship haulers, courier routes, merchant houses, salvage runs, pilgrim roads, and medical supply lines.
+
+| Field | What it records | Why it matters |
+| --- | --- | --- |
+| Transport | wagons, pack animals, boats, rail, starship hold | hard capacity cap |
+| Load units | how much cargo each vehicle/animal carries | prevents invisible bulk |
+| Crew roles | master, scout, guard, driver, quartermaster, negotiator | gives PCs jobs |
+| Cargo category | staple, luxury, contraband, fragile, perishable, sacred, military | sets price and hazards |
+| Purchase price | cost at source | investment at risk |
+| Origin profile | surplus/ordinary/scarce source | buy-side modifier |
+| Destination profile | surplus/ordinary/scarce destination | sell-side modifier |
+| Perishability | none / days / route / season | clock against delay |
+| Fragility | none / rough road / combat / weather | hazard interface |
+| Route | distance, terrain, tolls, water, danger | travel interface |
+| Market intelligence | rumor, contact, false lead, old price | uncertainty source |
+| Reputation | caravan name, reliability, fear, scandal | future access and price |
+| Return load | contract, passenger, empty, backhaul cargo | stops one-way profit loops |
+
+#### Cargo run procedure
+
+1. **Choose a route thesis.** What are you moving, from where, to whom, and why is the price different?
+2. **Buy cargo.** Commit cash, Capital, credit, goods, favors, or stolen stock before knowing the final market result.
+3. **Load and expose.** Check capacity, crew, guards, animals/vehicles, stores, and legal cover. Excess cargo requires more transport or creates penalties.
+4. **Travel the route.** Use `06` for movement, camp, pursuit, weather, and hazards. Delay matters because perishability and opportunity cost are real.
+5. **Roll market.** At destination, roll trade/negotiation/merchant skill plus market intelligence, destination demand, reputation, cargo quality, and competition.
+6. **Spend successes.** Sell more units, raise margin, secure a return contract, avoid tariffs, find a passenger, improve reputation, or learn a new route rumor.
+7. **Handle unsold cargo.** Store it, dump it at loss, carry it onward, split it, convert it, or pledge it as collateral.
+8. **Account.** Subtract purchase price, wages, provisions, tolls, damage, bribes, debt interest, and repairs.
+9. **Reinvest or exit.** Buy better transport, warehouse space, guards, contacts, route rights, insurance, or market intelligence.
+10. **Write fallout.** Rival merchants, bandits, tax collectors, broken axle, spoiled cargo, false rumor, grateful settlement, unpaid guards, or a dangerous passenger.
+
+#### Market result ladder
+
+| Successes | Result |
+| --- | --- |
+| 0 | Bad market. Sell only at loss or carry cargo onward. Add a complication: spoilage, tariff, seizure, theft, rival undercuts, buyer defaults. |
+| 1 | Ordinary sale. Recover costs and modest margin if the route thesis was sound. No special opportunity. |
+| 2 | Good sale. Profit is meaningful; choose one: reputation +1, return contract, passenger, rumor, bulk buyer, avoided cost. |
+| 3+ | Breakout sale. Strong profit and two benefits; each extra success may increase margin, sell unsold cargo, or improve future market position. |
+
+#### Cargo dials
+
+| Dial | Low-detail pole | High-detail pole |
+| --- | --- | --- |
+| Capacity | one cargo slot per vehicle | load units by transport |
+| Price | fixed margin | buy/sell profiles + market roll |
+| Spoilage | ignored | perishability clock by weather/delay |
+| Fragility | ignored | hazard checks on rough travel/combat |
+| Reputation | none | modifies market, guards, contracts, law |
+| Return trip | handwaved | required backhaul/passenger/empty-cost decision |
+| Legality | ordinary trade | contraband, customs, seizure, Heat |
+
+**Validation:** cargo profit must not become safe compounding wealth. At least one of these must be active: capacity cap, purchase risk, route hazard, perishability, market uncertainty, debt, guard wages, legal exposure, rival pressure, or unsold cargo.
+
+#### Gambling scene procedure
+
+Use this for poker, dice, horse wagering, illegal fight books, speculative trading, courtly wagers, casino nights, starport games, magical auctions, and any scene where money and reputation are risked under social pressure.
+
+1. **Set the stake.** Cash, item, favor, information, debt, reputation, access, or ownership share.
+2. **Set the table.** Honest / sharp / fixed / desperate / watched by law / faction-owned / high society.
+3. **Choose approach.** Play straight, read opponents, bully, charm, cheat, count cards, collude, throw the game, or bait a mark.
+4. **Roll.** Use the best fitting social, insight, gambling, sleight, or profession skill. Oppose sharp opponents; use a static difficulty for ordinary games.
+5. **Resolve money.** Success wins or protects stake. Extra successes buy profit, read, contact, rumor, or reputation.
+6. **Resolve exposure.** Cheating, bullying, impossible luck, and big wins create suspicion. Trouble/banes can trigger accusation, duel, law, debt, or enemy.
+7. **Close the scene.** Decide who is richer, who is offended, who owes, who saw too much, and what rumor leaves the room first.
+
+| Extra success spend | Effect |
+| --- | --- |
+| Increase take | win an additional stake unit |
+| Read a player | learn motive, fear, tell, debt, hidden patron |
+| Build reputation | gain fame as lucky, dangerous, honest, or crooked |
+| Create contact | a player offers work, information, or patronage |
+| Hide method | reduce suspicion from cheating/collusion |
+| Trap a mark | target leaves owing money/favor |
+
+**Gambling validation:** gambling should create hooks as often as money. If the only output is profit, the optimal play becomes repetitive bankroll grinding. Always bind large wins to witnesses, reputation, debt, law, enemies, or social leverage.
+
+### 12.11 Dials
 
 | Dial | FL pole | West pole | Generic choice |
 | --- | --- | --- | --- |
@@ -1051,7 +1134,7 @@ Use this procedure when inventing a new function, feature, business asset, or in
 | Community growth | stronghold residents/reputation | town aspect tally/SP | base vs town |
 | Failure | flaw, decay, event, hireling trouble | debt, bust, Status loss, town decline | consequence family |
 
-### 12.11 Validation Worksheets
+### 12.12 Validation Worksheets
 
 #### Crafting Validation
 
@@ -1091,7 +1174,7 @@ Use this procedure when inventing a new function, feature, business asset, or in
 | No consequence | failed season only says "no money" | add debt, Reputation, Capital loss, employee trouble |
 | Double bill | same lifestyle/upkeep charged twice | choose one pressure grain |
 
-### 12.12 Instantiation Recipe
+### 12.13 Instantiation Recipe
 
 1. **Choose economy posture:** material-scarcity, cash-business, hybrid, or civic/domain.
 2. **Define cost units:** cash, Capital, raw materials, labor, stores, SP, project ticks.

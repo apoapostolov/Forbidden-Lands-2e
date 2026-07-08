@@ -10,7 +10,7 @@
 2. Abstraction target
 3. GM principles (the FL seven, de-flavored)
 4. The encounter engine (D66 tables, reoccurring encounters)
-5. Settlement / town generators (the settlement-as-character model)
+5. Settlement / town generators plus civic, legal, and reputation procedures
 6. NPC statblock grammar
 7. Solo-play engine
 8. Consequence / fortune / faction tracks
@@ -22,6 +22,8 @@
 ## Source provenance
 
 **Forbidden Lands 2E (FL):**
+- `01-corebook/08-journeys.md:686-1234` — Reputation, Standing, hospitality, first impressions, rumors, villages/towns, notice boards, seek work, petitioning authority, trade, carouse, healing, rest, training.
+- `01-corebook/08-journeys.md:1235-1445` — crime and punishment: offenses, detection, capture, judgment, defending, sentences, weregild, imprisonment, outlawry, sanctuary.
 - `02-gamemasters-guide/02-the-gamemaster.md:25-67` — the 7 Principles of the Game; `:69-78` first session; `:93-99` handling NPCs; `:101-121` NPCs/opposition; `:123-127` consumables; `:129-135` failure (fail forward); `:137-179` stronghold events (D66 table, Reputation-weighted D66 tens roll).
 - `02-gamemasters-guide/08-encounters.md:1-39` — scouting, the 9-column terrain-keyed D66 encounter matrix; `:41-48` reoccurring encounters; `:50-637` 44 numbered encounters (each: prose + statblock + terrain tags + branching outcomes).
 - `02-gamemasters-guide/10-villages.md` (~980 lines) — settlement history (seed+consequence `:18-75`), size/condition/density (`:86-112`), problem/peculiarity/government (`:114-203`), locations & resource-die economy (`:205-353`), character generator (`:360-572`), situations & event generator (`:588-823`), **vicissitudes** 3D6+variables (`:825-897`), **settlement turn** 2D6 (`:899-924`), **household ledger** Need/Heat (`:926-931`), stores & shortages (`:933-936`), route links (`:938-952`), justice & retaliation (`:965-976`).
@@ -105,6 +107,78 @@ Both games treat the home settlement as **a character with attributes, a state t
 
 **Generic abstraction — "the living settlement":** a settlement is a **character sheet for a place** with: (a) **attributes** that rate its capacity (FL: condition/locations/resources; West: six aspects), (b) a **state machine** that changes it between visits on a dice-plus-variables roll (FL vicissitudes 3D6; West fortune rolls), (c) **internal-faction pressure gauges** (FL Need/Heat; West Competition/Law modifiers), (d) a **resource economy** that degrades and recovers (FL resource dice; West tally points and aspect ranks), and (e) a **growth mechanism driven by player investment** (FL: the party builds functions/defends the stronghold; West: the party spends SP on amenities). **Layer: General** (the settlement-as-character model); the specific attribute set and growth mechanism are **core design dials**.
 
+### 5.5 Civic, legal, and reputation procedures
+
+FL's Journey chapter contains a second settlement layer beyond generation: how strangers are received, how public identity changes social odds, how work is found, how authorities are petitioned, how gossip moves, and how crime is judged. West carries the same concerns through Fame/Reputation, property Status, business Standing, town Law, and seasonal fortunes. Abstract this as the **civic procedure layer**: the rules that answer "what does the community do when the PCs enter, ask, offend, bargain, or break the law?"
+
+#### Public identity stack
+
+| Layer | What it answers | Mechanical expression |
+| --- | --- | --- |
+| Reputation / Fame | Have people heard of you? | modifies reaction, events, job offers, fear, prices |
+| Standing | What do locals think of you here? | local cooperation, hospitality, authority access |
+| Status / Property | What visible place do you occupy? | social modifier, lifestyle, eligibility |
+| Rumor | What story is moving ahead of you? | creates clue, bias, false lead, or public pressure |
+| Legal condition | Are you accused, wanted, outlawed, protected, pardoned? | gates shelter, law response, bounty, sanctuary |
+
+**Design rule:** never use one global reputation score for everything. Use at least two layers: broad fame and local standing. Fame opens doors and attracts trouble; Standing decides whether *this* place feeds, hides, hires, or denounces you.
+
+#### Settlement visit menu
+
+Use this as the default civic downtime menu when PCs spend a block in a village, town, station, port, court, monastery, guildhall, starport, school, hospital, or neighborhood.
+
+| Activity | Roll / gate | Success | Failure / complication |
+| --- | --- | --- | --- |
+| Ask Around | social, insight, lore, scouting | learn rumor, lead, price, person, danger | false lead, offended local, time lost, rumor about PCs |
+| Seek Work | social or profession; local demand | job offer, wage, bounty, patron | bad work, trap, insult, debt, rival takes it |
+| Petition Authority | Standing, Status, proof, gift | audience, permit, militia aid, judgment, commission | delay, bribe demand, public refusal, rival hearing |
+| Trade | availability + price + legality | buy/sell, find specialist, special order | scarcity markup, counterfeit, legal scrutiny |
+| Carouse | spend money/time | recover morale/WP/Faith, contact, gossip | debt, fight, scandal, theft, hangover |
+| Hire Help | pay + reputation | hireling, guide, guard, artisan | unreliable hire, inflated wage, divided loyalty |
+| Heal / Rest | clinic, healer, safe lodging | recover condition, treat injury | infection, bill, rumor, owed favor |
+| Train | teacher/access/time | advancement progress | no teacher, bad teacher, institutional gate |
+| Make Amends | payment, apology, service | Standing +1 or Heat −1 | rejected, costly demand, public humiliation |
+
+**Menu validation:** at least one activity should convert money into social position, at least one should convert reputation into opportunity, and at least one should create trouble even on a success. Otherwise the settlement is only a shop.
+
+#### Notice board / job table
+
+Use when the GM needs work in a settlement without preplanning.
+
+| D6 | Job family | Typical patron | Hidden pressure |
+| --- | --- | --- | --- |
+| 1 | Clearing | farmer, reeve, company, temple | threat has a claim or patron |
+| 2 | Escort | merchant, pilgrim, prisoner, witness | passenger is wanted or lying |
+| 3 | Delivery | guild, doctor, court, smuggler | package is illegal, fragile, or late |
+| 4 | Recovery | family, sheriff, scholar, fence | item/person does not want return |
+| 5 | Investigation | elder, paper, faction, church | culprit is protected |
+| 6 | Labor / Specialist | business, stronghold, mine, ranch | underpaid, dangerous, strike brewing |
+
+Pay can be flat, advance + bounty, share of proceeds, reputation, legal pardon, property right, or future favor. Strong jobs should state both **reward** and **who gets angry if the job succeeds**.
+
+#### Crime and punishment procedure
+
+Use this whenever PCs or important NPCs commit public offenses, are framed, protect criminals, violate taboo, break contract, owe blood price, or are pursued by law.
+
+1. **Name the offense.** Theft, assault, murder, oathbreaking, trespass, poaching, smuggling, fraud, blasphemy, desertion, debt, unlawful magic, harboring, treason.
+2. **Set visibility.** Secret, suspected, witnessed, public, confessed, magically/procedurally proven.
+3. **Set jurisdiction.** Household, village, guild, sheriff, temple, faction, army, company, crown, occupying force, mob.
+4. **Detect or accuse.** Roll scouting/investigation/social if uncertain; otherwise move directly to accusation.
+5. **Capture or summon.** Decide whether law asks, fines, seizes property, arrests, posts bounty, sends posse, or attacks.
+6. **Judge.** Authority rolls law/social/status vs defense, evidence, Standing, bribe, witness, champion, oath, or trial by ordeal.
+7. **Sentence.** Fine, weregild/blood price, restitution, public shame, labor, imprisonment, exile, outlawry, mutilation, execution, feud, forced oath.
+8. **Allow repair.** Pay, service, confession, pardon, sanctuary, duel, appeal, restitution, or a dangerous job.
+9. **Track aftermath.** Standing, Heat/Wanted, faction relations, witnesses, revenge, precedent.
+
+| Severity | Default consequence | Playable alternative |
+| --- | --- | --- |
+| Petty | fine, apology, restitution | service, public embarrassment, local debt |
+| Serious | large fine, jail, property seizure | dangerous job, sponsor oath, exile from district |
+| Blood offense | weregild, feud, outlawry, execution risk | ransom, hostage, duel, sanctuary, faction bargain |
+| Political offense | bounty, treason trial, occupation response | pardon mission, propaganda trial, hostage exchange |
+
+**Legal validation:** punishment should create playable pressure unless the campaign explicitly embraces character exit. Outlawry is a campaign mode, not a dead end: it removes ordinary civic protection and turns shelter, work, and travel into adventure problems.
+
 ## 6. NPC statblock grammar
 
 **The minimal format (both games):** attributes (4) + relevant skills + talents + gear. The engine deliberately keeps NPC sheets thin because "NPCs run on narrative, not full sheets" (§3) — only roll for NPC actions that attack or heal a PC.
@@ -185,6 +259,7 @@ The genius: **the settlement's attributes (§5) feed back into the fortune rolls
 | **Principles** | 7 explicit, GM-facing axioms (`02-the-gamemaster.md:25-67`) | Diffuse campaign-driver list (Ambitions, Vengeance, Justice… `08:13-51`) | Codified judgement vs. inspirational themes | FL-style when the GM wants a checklist; West-style for a looser, theme-driven table |
 | **Encounter table** | 44-entry D66 matrix, 9 terrain columns, situational entries (`08-encounters.md`) | Campaign seeds + adventure-embedded encounters; no master terrain matrix | Dense random-but-weighted engine vs. authored scenario encounters | FL-style for hex-sandbox; West-style for narrative/region campaign |
 | **Settlement model** | Village generator: history → present → locations → characters; **vicissitudes** 3D6+vars; **Need/Heat** ledger (`10-villages.md`) | **Your Town**: 6 Aspects (Farming/Mercantile/Natural Riches/Law/Civic/Welfare) + Prosperity; player-chosen amenities (`08:67-442`) | GM-side simulationist vs. player-facing advancement tree | FL for GM-authored living places; West for party-owned growing towns |
+| **Civic/legal layer** | Reputation, Standing, hospitality, notice boards, petitioning, crime, weregild, outlawry, sanctuary | Fame/Reputation, property Status, town Law, business/community Standing | granular communal law vs broader frontier reputation | Include whenever settlements do more than sell gear |
 | **Settlement state roll** | Vicissitudes 3D6 + variables (monthly) or settlement turn 2D6 (short form) | Turn of the Season: Business + Personal Fortune + Town Fortune D66 rolls (seasonal) | Gritty attrition sim vs. story-hook generator | FL for survival/decline pressure; West for character-driven hooks |
 | **NPC statblock** | Inline prose (4 attr + skills + talents + gear), procedurally generatable, attr ceiling 8 | 8-column table roster, hand-authored archetypes, fixed values | Embedded-in-encounter vs. quick-reference bestiary | FL for encounters-as-stories; West for a glanceable cast |
 | **Solo-play layer** | Full suite: companions, quarter-day procedure, card oracles (`04-solo-rules.md`) | Not present in core | GMless-capable vs. GM-required | Include for solo/co-op/zero-prep; omit for traditional GM-led |
@@ -208,10 +283,11 @@ Each dial has FL and West as two calibrated points.
 1. **Write 5–7 GM principles** (dial 1) — scarcity, cost-of-safety, death-as-story at minimum. These are the judgement rules where the dice are silent; without them the procedures below become mechanical.
 2. **Build the encounter engine** (dial 2): decide the selector (D66 or D6/D20), the context columns (terrain/district/faction/season), the no-encounter floor, and write 12–44 situational entries (not pure statblocks). Add the reoccurring rule.
 3. **Pick the settlement model** (dial 3) and decide whether it's GM-authored (FL) or player-owned (West). Define its attribute set, its state-machine roll, its internal-faction gauge, and its failure state.
-4. **Standardize the NPC statblock** (dial 4) — 4 attributes + relevant skills + 0–3 talents + gear + special tags.
-5. **Decide on the campaign-state tracker** (dial 6) — at minimum, one faction-standing or base-event track that throws consequences forward. Add more as the genre demands (political games want multiple faction tracks; survival games want a base-under-siege track).
-6. **Decide on solo-play** (dial 5) — include the oracle layer if solo/co-op/zero-prep is a goal.
-7. **Write one adventure site/region** (dial 7) in the chosen doctrine to validate the whole — locations+NPCs+events+legend, testable without a preset plot.
+4. **Add the civic/legal layer** if settlements are more than shops: public identity stack, visit menu, notice-board jobs, and crime procedure.
+5. **Standardize the NPC statblock** (dial 4) — 4 attributes + relevant skills + 0–3 talents + gear + special tags.
+6. **Decide on the campaign-state tracker** (dial 6) — at minimum, one faction-standing or base-event track that throws consequences forward. Add more as the genre demands (political games want multiple faction tracks; survival games want a base-under-siege track).
+7. **Decide on solo-play** (dial 5) — include the oracle layer if solo/co-op/zero-prep is a goal.
+8. **Write one adventure site/region** (dial 7) in the chosen doctrine to validate the whole — locations+NPCs+events+legend, testable without a preset plot.
 
 ## 12. Design intent
 

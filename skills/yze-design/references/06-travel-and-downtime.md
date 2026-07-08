@@ -11,7 +11,7 @@
 3. Travel model: hex (FL) vs pointcrawl (West) — the central dial
 4. The time block: Quarter-day / Shift
 5. The activity menu — the load-bearing structure
-6. Movement, navigation, and the forced-march pressure valve
+6. Movement, navigation, forced march, mounts, pursuit, manhunts, and traps
 7. Weather and environmental pressure
 8. Forage, hunt, fish — the food layer
 9. Making camp, watch, and the failed-camp liability
@@ -28,6 +28,7 @@
 
 **Tales of the Old West 2E (West):**
 - `01-corebook/06-life-in-the-old-west.md:1261-1345` — **pointcrawl** travel: Traveling Table (miles per **Shift** by method × terrain), pushing travel (+50%, MOVE/Animal Handlin' roll, Trouble halts progress), Making Camp (Nature roll, extra ⚔ = −1 to pursuers' HAWKEYE), Wildlife statblocks (bear/bison/wolf/snake/spider, Toughness), Animal Critical Effect Table, Traps (snares/bear trap/pit trap).
+- `01-corebook/06-life-in-the-old-west.md:982-1255` — horses as travel partners (traits, qualities/flaws, spooking, training), chases, manhunts, and tracking as frontier field procedures.
 - `02-the-1870s/11-frontier-survival-and-hunt.md:13-187` — water (daily need, sources, bad water, purification), weather as regional killers (blue norther/chinook/drought/haboob), fire, navigation, travel-speed table (miles/day by mode), regional terrain, "the country as antagonist."
 - `02-the-1870s/11-frontier-survival-and-hunt.md:191-470` — the Hunt as **professions** (buffalo hide hunter, market hunter, wolfer, sporting guide, contract hunter, trapper).
 - `02-the-1870s/15-competence-and-procedures.md:126-211` — camp & trail procedures (fire in wind/rain/snow; beans/biscuit/bacon/coffee; pitching & striking camp; picketing; night watches), survival procedures (finding/conserving water, river crossing, reading weather, blizzard, rattlesnake, shelter, tracking, snare, field-dressing).
@@ -111,9 +112,62 @@ Three design knobs: (1) **menu breadth** (FL = 14; West ≈ 6–8 implicit; trim
 
 **Generic abstraction — "movement + the over-exertion valve":** A base speed (tiles/block or miles/block) tagged by terrain class, plus a **navigation/rush procedure** that converts *wanting to go faster/farther* into a roll that can fail. The two instantiations sit at opposite ends of a dial:
 - **Per-tile navigation** (FL): every tile of unknown space costs a roll; failure = a mishap that costs progress or harm. High granularity, exploration-driven.
-- **Per-edge rush** (FL): one decision per block to over-exert; the cost is gated by Trouble (a narrative tax) rather than a tile mishap (a mechanical tax). Light, drama-driven.
+- **Per-edge rush** (West): one decision per block to over-exert; the cost is gated by Trouble (a narrative tax) rather than a tile mishap (a mechanical tax). Light, drama-driven.
 
 The **over-exertion valve** — a roll you take to exceed the safe daily travel — is shared and **General**: FL's forced-march (Endurance, damage on fail, sleep loss) and West's rush (MOVE/Animal Handlin', Trouble halts progress) are the same mechanic at two calibrations. The valve is what makes "push on or camp" a real decision: extra distance costs body/beasts/time. **Layer:** base speed + terrain tags = **General**; per-tile navigation = **Situational** (tile-crawl only); the over-exertion valve = **General**.
+
+### 6.5 Mounts, field pursuit, manhunts, and traps
+
+This is the key West travel material that hides outside the simple mileage table. FL mostly treats mounts as travel capacity and combat position. West makes the horse, the trail, and the pursuer into procedures. Abstract that as three portable modules: **mount-as-participant**, **field pursuit**, and **built traps**.
+
+#### Mount-as-participant
+
+| Layer | FL pole | West pole | Generic use |
+| --- | --- | --- | --- |
+| Mount role | transport/load, mounted-combat condition | named participant with traits, qualities, flaws, spooking, training | choose depth by genre centrality |
+| Mount risk | exhaustion, lame animal, combat fall | spooked state, handling roll, injury, theft, upkeep | makes the animal a fragile asset |
+| Mount growth | asset/gear | trained, calmed, improved, bonded | use when the mount is a co-star |
+| Mount economy | buy/feed/carry | buy/feed/train/quality/flaw | if horses matter, give them a mini-sheet |
+
+**Generic rule:** when mounts are central, do not model them as bonus inventory slots. Give each important mount (a) a load/speed role, (b) one positive quality, (c) one vulnerability or flaw, (d) a panic/spooked trigger, and (e) a training or bond procedure. If the mount has no risk or upkeep, it becomes invisible capacity.
+
+#### Field pursuit loop
+
+Use this loop for chases, manhunts, escaped prisoners, hunting dangerous animals, bounty work, monster tracking, and anyone trying to outrun a posse.
+
+1. **Name the quarry and hunter.** Decide who is fleeing, who is pursuing, and what happens if contact occurs.
+2. **Set the gap.** Use a 5-step track: Caught / Close / On the Trail / Fading Trail / Lost. Start by fiction.
+3. **Choose the travel grain.** Round for an immediate chase, Shift/Quarter Day for a manhunt, day/week for long pursuit.
+4. **Assign field jobs.** At minimum: tracker, scout/lookout, handler/driver, quartermaster, decoy/counter-tracker.
+5. **Roll the active side.** Hunter rolls tracking/scouting/animal handling; quarry rolls stealth/travel/counter-tracking. Use opposed rolls when both sides are active.
+6. **Spend successes.** Each net success shifts the gap one step, hides/exposes a clue, avoids/creates fatigue, or sets an ambush.
+7. **Apply pursuit pressure.** Fire, smoke, hoofprints, wounded animals, stolen supplies, bad weather, injured companions, and noisy camp all modify the next roll.
+8. **Resolve at an endpoint.** Caught starts a conflict, Close starts a standoff/ambush, Lost ends the pursuit, Fading Trail creates a last-chance clue.
+
+| Extra success spend | Hunter | Quarry |
+| --- | --- | --- |
+| Close/open gap | gap −1 | gap +1 |
+| Read terrain | learn route, numbers, mount condition | leave false trail or erase sign |
+| Manage animals | prevent spook/fatigue | calm mount, rotate horses |
+| Control camp | find camp smoke/fire | camp cold, hidden, or moving |
+| Force decision | drive quarry into bad ground | choose ambush ground |
+
+**Failure families:** lose the trail, blunder into wrong sign, exhaust a mount, split the party, trigger an animal threat, reveal your own camp, or arrive too late. Do not make failure "nothing happens"; field pursuit should always change the map, the gap, or the cost.
+
+#### Trap procedure
+
+West's traps have enough structure to generalize: a trap is a built hazard with strength, concealment, trigger, and maintenance.
+
+1. **Choose trap purpose:** catch food, delay pursuit, capture alive, wound, alarm, protect camp, deny a route.
+2. **Choose trap type:** snare, deadfall, pit, wire/noisemaker, stake field, net, poisoned bait, alarm line, mechanical lock, magical ward.
+3. **Set Strength:** attack dice or fixed damage; more successes on construction may increase it.
+4. **Set Concealment:** penalty to notice/avoid; more successes may increase it.
+5. **Set Trigger:** step, trip, bait, touch, pressure, timer, line-of-sight, command.
+6. **Set Reset/Maintenance:** one-use, resettable, weather-sensitive, bait-consuming, visible after triggered.
+7. **Resolve detection:** lookout/scouting/survival vs Concealment before entry; failure means the trigger fires.
+8. **Resolve effect:** damage, condition, captured, delayed, alarm, separated, resource loss.
+
+**Validation:** a trap that can kill a PC outright should either be telegraphed, avoidable by procedure, or reserved for explicit lethal-horror play. Most YZE traps should create injury, capture, delay, noise, loss, or a hard choice rather than instant exit.
 
 ## 7. Weather and environmental pressure
 
@@ -198,6 +252,9 @@ The food layer is wired into the **recovery economy** too: during a short break 
 | **Camp failure model** | Hidden Failed-Camp-Liability table (flaws) + Trouble at Camp | Condition on fail (Exhausted/Freezing) | Mechanical flaws vs condition tax | Liability table for rich camp play; condition for speed |
 | **Camp improvements** | Pick-list (Banked Fire, Dry Shelter, Watch Post…) | (none formal) | Rewards high roll / adds prep | Include for survival-craft depth; omit for lean play |
 | **Fire-vs-concealment** | Enemy Scouting must beat camp ⚔ | Fire = +3 to pursuers' HAWKEYE | Both encode the stealth/camp trade-off | General for any stealth-relevant game |
+| **Mount depth** | transport/load + mounted-combat condition | horse as participant with quality/flaw/spooked/training | simple capacity vs co-star asset | Use participant-depth when mounted life is genre-core |
+| **Field pursuit** | journey mishaps and scouting encounters | chases, manhunts, tracking, camps as clues | exploration pressure vs pursuit drama | Use the 5-step gap loop for bounty, monster, heist, cavalry, and hunt games |
+| **Trap depth** | journey mishaps / site hazards | built traps with Strength, Concealment, trigger | environmental surprise vs player-authored hazard | Include when hunting, frontier survival, dungeon security, or ambush play matters |
 | **Downtime architecture** | Formal settlement menu (Ask/Work/Petition/Trade/Carouse/Heal/Train) + notice board + Reputation | Profession/economics + procedural reference | Quarter-Day downtime economy vs job-as-campaign | Formal menu when settlement play matters; profession when the job is the campaign |
 | **Mishap model** | Extensive D6/D66 mishap tables per activity | Trouble system (narrative) | Mechanical tax vs narrative tax | Mishap tables for granularity; Trouble for speed (consistent with `00-engine-core.md` §6) |
 
@@ -218,8 +275,11 @@ Each dial has FL and West as two calibrated points. To build a new game's journe
 11. **Camp failure model** — hidden liability table / condition-on-fail / no-recovery / none. *(Rich camp play vs speed.)*
 12. **Camp improvements** — pick-list (fire/shelter/beds/watch post…) / none. *(Rewards high MAKE CAMP rolls.)*
 13. **Fire-vs-concealment trade-off** — on (fire exposes camp) / off. *(For any stealth-relevant game.)*
-14. **Downtime architecture** — formal settlement menu + notice board / profession-scale economics / none. *(A second activity-menu for "not on the road.")*
-15. **Mishap model** — D6/D66 mishap tables per activity / Trouble system / hybrid. *(Mechanical vs narrative failure tax — keep consistent with the core loop's push-cost model, `00-engine-core.md` §6.)*
+14. **Mount depth** — transport-only / participant mini-sheet. *(Whether animals are capacity or characters in the travel economy.)*
+15. **Field pursuit** — off / 5-step gap loop / full chase module. *(Whether the trail remembers quarry and hunter pressure.)*
+16. **Trap depth** — site hazard only / player-authored trap procedure. *(Whether traps are GM hazards or campaign tools.)*
+17. **Downtime architecture** — formal settlement menu + notice board / profession-scale economics / none. *(A second activity-menu for "not on the road.")*
+18. **Mishap model** — D6/D66 mishap tables per activity / Trouble system / hybrid. *(Mechanical vs narrative failure tax — keep consistent with the core loop's push-cost model, `00-engine-core.md` §6.)*
 
 **Instantiation recipe (any genre):**
 1. **Pick the spatial model (dial 1)** — this single choice does more to set the feel of travel than any other. Hex-crawl = exploration is the game; pointcrawl = traversal is connective tissue.
@@ -227,9 +287,11 @@ Each dial has FL and West as two calibrated points. To build a new game's journe
 3. **Choose the over-exertion valve (dial 6)** consistent with the core loop's cost model — body-tax (FL-style) pairs with bane-self-harm; progress-tax/Trouble (West-style) pairs with currency-spend. (`00-engine-core.md` §6.)
 4. **Set weather depth (dials 7–8)** to your survival emphasis — full weather table + HEAT/TEMP for hard-survival; reference + Trouble for dramatic.
 5. **Decide food tracking (dials 9–10)** — if survival is the genre, wire food to healing (FL); otherwise keep supply as scene pressure.
-6. **Set camp (dials 11–13)** and the **downtime architecture (dial 14)** — a downtime menu mirroring the travel menu turns settlements into a parallel economy.
-7. **Keep the mishap model (dial 15) consistent** with the failure-pressure layer of the core loop.
-8. **Validate** the labor puzzle: in a typical block, can a 3–4 PC party move, navigate, watch, *and* forage? If yes, the menu is too generous; tighten the solo tags or the stacks-with-HIKE list.
+6. **Set mount and field-pursuit depth** — transport-only for ordinary travel games; participant-depth plus the 5-step gap loop when riding, bounty work, monster hunting, or manhunts are genre pillars.
+7. **Decide trap depth** — site hazard only, or player-authored trap procedure with Strength/Concealment/Trigger.
+8. **Set camp (dials 11–13)** and the **downtime architecture (dial 17)** — a downtime menu mirroring the travel menu turns settlements into a parallel economy.
+9. **Keep the mishap model (dial 18) consistent** with the failure-pressure layer of the core loop.
+10. **Validate** the labor puzzle: in a typical block, can a 3–4 PC party move, navigate, watch, *and* forage? If yes, the menu is too generous; tighten the solo tags or the stacks-with-HIKE list.
 
 ## 13. Design intent
 

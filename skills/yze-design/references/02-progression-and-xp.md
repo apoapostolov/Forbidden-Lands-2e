@@ -11,13 +11,14 @@
 3. XP award models
 4. Training costs — teacher vs self-taught
 5. Talent rank ladders (5-rank FL vs 2-rank West)
-6. Milestones and session-based XP
-7. Downtime training
-8. Legacy / long-term XP
-9. The metacurrency→XP conversion (FL only)
-10. Divergence rows (FL vs West)
-11. Dials and instantiation recipe
-12. Design intent
+6. Talent effect grammar and design validation
+7. Milestones and session-based XP
+8. Downtime training
+9. Legacy / long-term XP
+10. The metacurrency→XP conversion (FL only)
+11. Divergence rows (FL vs West)
+12. Dials and instantiation recipe
+13. Design intent
 
 ## Source provenance
 
@@ -87,27 +88,85 @@ FL `02-your-adventurer.md:607-631`; West `02-your-player-character.md:127-148`. 
 
 **Layer:** General (talents advance); the ladder depth is a **core design dial**.
 
-## 6. Milestones and session-based XP
+## 6. Talent effect grammar and design validation
+
+The corebooks do not treat talents as loose perks. They are the engine's main way to **license exceptions** to normal play: who can attempt advanced work, who can compress an action, who can carry a social identity, who can turn risk into advantage, and who can make an NPC, mount, business, or spell behave differently. A YZE designer should write talents from effect families, not from cool names.
+
+| Talent family | FL expressions | West expressions | Generic use |
+| --- | --- | --- | --- |
+| Identity / origin | kin talents, profession Paths | Background talents | says "what kind of person you are" |
+| Skill amplifier | rank adds dice, rerolls, extra effect | Basic/Advanced ability support | makes a familiar roll better |
+| Permission gate | magic paths, crafting talents, taming/training | gunsmithing, doctoring, business, society access | lets you attempt advanced work at all |
+| Action unlock | combat maneuvers, mounted tricks, profession actions | dueling, shooting, riding, gambling, outlaw/law talents | adds a new action or scene option |
+| Action compression | do a slow thing faster, combine steps | fast draw, reload/fire support, business shortcuts | buys tempo, which is usually more valuable than dice |
+| Resource conversion | WP spend, gear/resource improvements | Faith/Trouble interaction, cash/business effects | turns one economy into another |
+| Risk protection | ignore penalty, reduce mishap, resist fear/poison | buy off Trouble, resist social/legal fallout | changes consequence probability |
+| Companion / roster | animal handling, taming, hireling support | Compadre/Pardner, horse talents, gang loyalty | improves an attached NPC or mount |
+| Asset / enterprise | stronghold/crafting support | business, property, congregation, outlaw band | links character growth to owned things |
+| Social/status | reputation, manipulation, court/authority | Fame, standing, society, preacher/lawman | changes access and reaction, not just rolls |
+| Power layer | magic Paths, spell ranks | none in grounded West | unlocks exceptional subsystems |
+
+### 6.1 Effect Shapes
+
+Use these shapes when creating new talents.
+
+| Shape | Rule form | Safe ceiling | Validation check |
+| --- | --- | --- | --- |
+| Narrow +1 | `+1 die to X in situation Y` | safe if X is specific | does it stack with gear/help? |
+| Broad +1 | `+1 die to X generally` | expensive, late, or identity-defining | does it erase skill investment? |
+| Reroll / ignore penalty | reroll one failed die, ignore darkness/range/etc. | once per scene/roll or narrow trigger | does it remove the genre's pressure? |
+| Extra stunt | spend surplus success for a new menu item | safe when menu-bound | does it require a success first? |
+| New action | adds a new move to a scene | safe if action still costs time | does it bypass another subsystem? |
+| Action compression | slow→fast, two steps→one | dangerous; price heavily | check `03` action economy thresholds |
+| Resource discount | cost 1 less WP/Faith/cash/material | safe with floor of 1 or per-session cap | can it make a loop free? |
+| Resource generation | gain WP/Faith/cash/material on trigger | dangerous; cap and require risk | can players farm it without danger? |
+| Consequence shield | reduce crit, Trouble, mishap, legal fallout | narrow or costly | does it make catastrophe impossible? |
+| NPC/asset upgrade | companion, mount, hireling, business, gang improves | safe if attached thing has upkeep/risk | can it be sold or stacked into passive profit? |
+
+### 6.2 Talent Writing Procedure
+
+1. **Name the fiction first.** A talent is an identity, trade, discipline, or exceptional method, not a floating bonus.
+2. **Choose one family** from the table above. Hybrid talents are allowed only when one half is clearly subordinate.
+3. **Choose one primary effect shape.** If it grants both dice and tempo, raise cost, rank, prerequisites, or risk.
+4. **Attach a gate.** Teacher, institution, tool, social circle, battlefield experience, wilderness season, business, mount, spell path, or faction.
+5. **State cadence.** Always-on, once per roll, once per scene, once per session, once per period, or when spending metacurrency.
+6. **State stacking.** Say whether it stacks with help, gear, quality, property, town aspects, spells, or other talents.
+7. **State failure interaction.** Does it change pushed rolls, Trouble, mishaps, critical injuries, or aftermath?
+8. **Validate against adjacent systems.** Action compression goes to `03`; harm protection to `04`; power talents to `05`; enterprise talents to `08`/`25`; roster talents to `07`.
+
+### 6.3 Signature Talent Test
+
+A talent is worth writing only if at least one is true:
+
+- it changes what the character can attempt;
+- it changes which risk the player chooses to accept;
+- it makes a neglected subsystem attractive;
+- it anchors a profession, kin, archetype, order, gang, school, or trade;
+- it creates a recurring table behavior other players notice.
+
+If the talent merely renames `+1 die sometimes`, fold it into gear, help, a scene modifier, or a broader talent.
+
+## 7. Milestones and session-based XP
 
 (See §3.) Both use minor (+2) / major (+4) milestones with near-identical trigger language — minor = "exposing a traitor, saving a homestead, securing an alliance"; major = "finishing a tale, toppling a major foe, founding a town, changing the balance of power." FL `02-your-adventurer.md:627-631`; West `02-your-player-character.md:139-148`. The milestone trigger examples are genre-reskinned but structurally identical. **Layer:** General.
 
-## 7. Downtime training
+## 8. Downtime training
 
 Advancement consumes the **time block** from `06-travel-and-downtime.md` — FL's Quarter Day, West's Shift. Training takes one Quarter/Shift per calendar day, only one lesson at a time, quarters need not be consecutive. FL `02-your-adventurer.md:633-635`; West `02-your-player-character.md:173-177`. This is what binds advancement to the travel/survival loop: you can't grind levels in a dungeon; you must *spend in-fiction time*, which the journey system taxes. **Layer:** General (ties to the downtime loop).
 
-## 8. Legacy / long-term XP
+## 9. Legacy / long-term XP
 
 **Identical rule in both games:** when a PC leaves play (dies/retires), count their sessions, take half (rounded up), add half their unspent XP (rounded down) → that's **Legacy XP** for the player's *next* character, spendable at creation. Both gate what Legacy can buy (FL: skill ≤3, talent ≤2; West: ability ≤3, talent ≤Basic). FL `02-your-adventurer.md:631`; West `02-your-player-character.md:145-147`.
 
 **Generic abstraction:** Legacy XP is the engine's "death doesn't waste the player's investment" valve — a transferable rule that softens lethality without removing it. **Layer:** General (strongly recommended for any lethal game).
 
-## 9. The metacurrency→XP conversion (FL only)
+## 10. The metacurrency→XP conversion (FL only)
 
 **FL-only:** at end of session, a character with ≥3 WP may siphon reserve for long-term growth — keep ≥2 WP, and every **10 WP surrendered across sessions = 1 XP.** FL `02-your-adventurer.md:404-408`. (Note: this is distinct from the optional *Surge of Willpower* rule, which converts XP→WP within a session; this is the reverse direction, WP→XP across sessions.)
 
 **Generic abstraction:** an Optional valve linking the short-term metacurrency economy to the long-term advancement economy. Use it if WP/Faith pools tend to cap out and you want unspent reserve to mean something. West has no equivalent. **Layer:** Optional.
 
-## 10. Divergence rows (FL vs West)
+## 11. Divergence rows (FL vs West)
 
 | Decision | FL option | West option | Trade-off | When to choose |
 | --- | --- | --- | --- | --- |
@@ -121,7 +180,7 @@ Advancement consumes the **time block** from `06-travel-and-downtime.md` — FL'
 | **Metacurrency→XP** | Yes (10 WP → 1 XP, optional) | No | Links short-term pool to long-term growth | Optional; use if pools cap out |
 | **NPC advancement parallel** | Named Men (mercenaries) | (none formalized) | NPCs grow alongside PCs | Add if you have long-term NPC allies (`07`) |
 
-## 11. Dials and instantiation recipe
+## 12. Dials and instantiation recipe
 
 To set advancement for a new YZE game:
 
@@ -130,14 +189,15 @@ To set advancement for a new YZE game:
 3. **Set the skill cost curve.** Use the engine default `(new rank × 3)` XP with teacher, ~×1.33 without, + scaling time cost + self-taught WITS roll. Cap at rank 5.
 4. **Set attribute cost + cap.** `(new value × 10)` XP, no teacher; cap at 4 or 5.
 5. **Pick the talent ladder depth** — the central choice: flat 2-rank (West) / deep 5-rank (FL) / hybrid. This single decision sets the advancement feel.
-6. **Write the talent cost curve** to match the ladder (flat = two steps; deep = rank×3).
-7. **Make narrative access gating explicit.** Group talents by function and tag each as self-taught-OK vs needs-teacher/workshop/institution. This is free in-fiction texture.
-8. **Add Legacy XP** (death/retirement → next PC) — strongly recommended for any lethal game.
-9. **(Optional) Add metacurrency→XP conversion** if short-term pools cap out.
-10. **(Optional) Add an NPC advancement parallel** if you have long-term NPC allies.
-11. **Validate against the math** (`13-balance-and-synergy.md`): how many sessions to reach rank-5 in a signature talent? Does the milestone rate support the desired arc length? Does downtime XP make the season-calendar meaningful?
+6. **Write the talent effect grammar** from §6 before writing individual talents.
+7. **Write the talent cost curve** to match the ladder (flat = two steps; deep = rank×3).
+8. **Make narrative access gating explicit.** Group talents by function and tag each as self-taught-OK vs needs-teacher/workshop/institution. This is free in-fiction texture.
+9. **Add Legacy XP** (death/retirement → next PC) — strongly recommended for any lethal game.
+10. **(Optional) Add metacurrency→XP conversion** if short-term pools cap out.
+11. **(Optional) Add an NPC advancement parallel** if you have long-term NPC allies.
+12. **Validate against the math** (`13-balance-and-synergy.md`): how many sessions to reach rank-5 in a signature talent? Does the milestone rate support the desired arc length? Does downtime XP make the season-calendar meaningful?
 
-## 12. Design intent
+## 13. Design intent
 
 Advancement in YZE is engineered to make **the character's arc visible** and to **gate power behind in-fiction time, not just XP:**
 

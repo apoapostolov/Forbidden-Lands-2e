@@ -10,8 +10,8 @@
 2. Abstraction target
 3. The shared pattern: founding → functions → upkeep → events → scale
 4. Stronghold (FL)
-5. Town, Property, and Outlaw Band (West)
-6. Mercenary Company (FL)
+5. Town, Property, and Outlaw Band (West), including outlaw operating sheet
+6. Mercenary Company (FL), including roster-org and host operating sheets
 7. Factions, Legacies, and the Faction Turn (FL)
 8. Mass combat and sieges (FL)
 9. The scale-escalation ladder
@@ -162,6 +162,37 @@ West runs the same five-beat lifecycle, but at personal/small-org scale and with
 
 **Generic abstraction:** The Outlaw Band is West's equivalent of FL's Mercenary Company — a **roster-and-cohesion org** where individual members are tracked and the org has a single morale stat. The structural parallel (Cohesion ↔ Morale, both 1-5; Hideout ↔ Stronghold; resources ↔ functions) is exact. The divergence is *ceiling*: West stops at Outfit, FL climbs to Host/Army/Faction. **Layer:** General (the roster-and-cohesion org is a universal rung); the cap is the genre dial.
 
+#### Outlaw band operating sheet
+
+Use this when creating a crime crew, rebel cell, pirate gang, smuggling ring, monster cult, resistance cadre, privateer ship, or any small illegal org.
+
+| Field | What it records | Source abstraction |
+| --- | --- | --- |
+| Scale | Crew / Gang / Outfit or equivalent headcount band | size changes dice and ambition |
+| Leader | who gives orders and who is blamed | founding predicate |
+| Hideout | where the band can rest, store loot, and be found | founding asset |
+| Cohesion | 1-5 shared morale | org health |
+| Notable Members | role, experience, loyalty, ambition, breaking point, leverage | roster pressure |
+| Refuge | who shelters the band and at what risk | social base |
+| Fence / Market | how stolen goods become useful value | economy valve |
+| Horsestock / Transport | how fast the band can move and escape | pursuit interface |
+| Provisions | resource die or upkeep stock | food/upkeep |
+| Wanted / Heat | external legal pressure | consequence clock |
+| Stash / Shares | loot, shares, hot goods, debt to members | payout and loyalty |
+
+**Band action check:** when the whole band acts off-screen or above PC scale, choose one domain (raid, intimidate, smuggle, gather information, lay low, recruit, move hideout, protect turf), roll the best fitting band pool, then apply a result family:
+
+| Result | Outcome |
+| --- | --- |
+| 0 successes | action fails; choose or roll trouble: Heat +1, Cohesion −1, member injured/captured, stash lost, hideout exposed |
+| 1 success | action succeeds with ordinary cost: provisions step down, Heat +1, or a notable member tests Loyalty |
+| 2 successes | clean success: gain the objective and one minor benefit |
+| 3+ successes | strong success: gain objective, benefit, and improve position (Refuge, Fence, Cohesion, Stash, or information) |
+
+**Score loop:** Plan target → choose approach → run PC-facing scenes for the dangerous beats → convert take into Stash/Shares → roll Heat/Wanted response → pay provisions and loyalty → choose hideout activity. If the score is resolved entirely off-screen, one band action check is enough; if PCs are present, the band sheet sets stakes and fallout rather than replacing play.
+
+**Collapse checks:** call for a Cohesion or Loyalty check when shares are unfair, provisions run out, a leader is captured, a member is abandoned, Wanted jumps, the hideout is exposed, or a score fails publicly. On failure, choose: desertion, informant, internal challenge, reckless revenge, splinter crew, or demand for a dangerous make-good job.
+
 ## 6. Mercenary Company (FL)
 
 The Mercenary Company is FL's **mid-scale org** and the structural bridge between the party (rung 1) and the faction (rung 5). It is also West's Outlaw Band's closest cousin.
@@ -177,6 +208,50 @@ The Mercenary Company is FL's **mid-scale org** and the structural bridge betwee
 - **Internal life:** Discipline (Minor/Serious/Capital offenses, Flogging, Duels), Arguments & Escalation (4 stages Words→Blood), Blood Oaths (Brotherhood/Bounty/Vengeance), Atrocities (reputation consequences). The band is a *society* with its own law. FL `12-mercenaries-of-forbidden-lands.md:1447-1488`, `:1604-1647`, `:1731-1761`.
 
 **Generic abstraction:** The Mercenary Company is the **roster-and-cohesion org at scale**: a tracked headcount, a single morale stat, a pay/feed upkeep cycle, and — critically — a **scale-tier system with an abstraction-collapse threshold** (Host Play). The abstraction-collapse mechanism is the design's answer to "how do you scale a roster org past the point where tracking individuals is fun?" Answer: you don't; you collapse the roster into a single ledger number and a single commander. This same move recurs at the faction/army rung. **Layer:** General (roster-and-cohesion org); the abstraction-collapse threshold (Host Play) is Optional but *strongly recommended* for any game whose roster org can grow past ~30-50 members.
+
+### Mercenary and roster-org operating sheet
+
+Use this sheet for mercenary companies, expedition crews, guard firms, campaign staffs, ship crews, caravan guards, military squads, adventuring companies, monster-hunter chapters, and any paid roster org.
+
+| Field | Mercenary expression | Generic expression |
+| --- | --- | --- |
+| Name / Captain | company name and leader | identity and command |
+| Scale tier | Skirmishers / Warband / Company / Host | headcount band |
+| Roster | common, veteran, elite, named men, specialists | bodies and capability |
+| Morale | 1-5, with grievances | willingness to obey and endure |
+| Pay model | retainer weekly vs mission daily | regular wage vs job pay |
+| Provisions | food by terrain/foragers/stores | upkeep stock |
+| Contract | patrol, escort, raid, garrison, intelligence, caster | purpose and payout |
+| Allegiance | unknown to sworn | who ultimately owns loyalty |
+| Discipline | offense ladder and punishments | internal law |
+| Feud / Reputation | settlement anger, atrocities, bounties | public consequence |
+| Hoard / Treasury | loot, ransom, goods, pay chest | reward and payroll |
+| Stronghold link | War Room, training grounds, garrison | base interface |
+
+#### Contract procedure
+
+1. **Find work.** Roll or choose employer, mission type, location, pay, advance, and hidden complication.
+2. **Negotiate terms.** Set pay, duration, loot rights, ransom rights, command authority, supplies, and breach penalty.
+3. **Muster roster.** Decide headcount, quality, named specialists, provisions, mounts/transport, and caster/expert support.
+4. **Run the mission.** Resolve PC-facing scenes normally. Use one company roll only for off-screen or scale-mismatched work.
+5. **Pay and divide.** Retainer/mission pay, loot share, ransom, and goods payment all test whether the company feels cheated.
+6. **Check morale.** Apply grievances: unpaid, unfed, overworked, insulted, high casualties, bad discipline, atrocities, impossible orders.
+7. **Write fallout.** Employer debt, settlement fear, feud, bounty, deserters, promotion, named member agenda, or allegiance shift.
+
+#### Host play / abstraction-collapse
+
+When the roster passes the table's useful tracking threshold, collapse it.
+
+| Threshold | Keep tracking | Collapse into |
+| --- | --- | --- |
+| 3-10 | individuals, named roles, loyalty | roster sheet |
+| 11-30 | squads, specialists, notable members | company sheet |
+| 31-50 | units, payroll, morale, contracts | company + few named faces |
+| 51+ | do not count every body | Host Ledger, Warmaster, Treasury, Supply, Rival Bands |
+
+**Host procedure:** assign a Warmaster → set Ledger −6 to +6 → set Treasury and Supply posture → name 2-4 rival bands or captains → each campaign week choose one host objective → roll only when the host's order meets uncertainty → translate the result into Ledger shift, casualty posture, supply strain, diplomacy, or inter-band rivalry.
+
+**Validation:** a roster org must never become a free army. Every increase in headcount must raise at least one of payroll, provisions, command friction, visibility, employer dependence, or atrocity risk.
 
 ## 7. Factions, Legacies, and the Faction Turn (FL)
 
