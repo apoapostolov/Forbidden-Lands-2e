@@ -301,6 +301,15 @@ Each archetype has its own dials (noted in §2c). The cross-cutting dials that a
 - **Replaces / extends:** `05`'s monolithic instance — this module exposes the *space* of systems FL is one point in. A game using FL's path/talent magic verbatim does not need this module; a game building its own magic uses this to pick the archetype, then `09` to design the spells.
 - **Cross-refs:** `05` (power layer — the host); `09-spell-forging.md` (individual spell design); `16` P2/P4/P5/P6/P8/P10/P13 (composed primitives); `17` (feel calibration); `12` (the divergence map as a model for *this* typology's grid); `workshop/01`, `06`, `07` (pact/folk/blood integration).
 
+## 5a. Interface
+
+- **Prerequisites:** decision to enable a power layer.
+- **Inputs:** acquisition mode, expression mode, fuel, cost, mishap family, rank/scope ladder.
+- **Outputs:** magic-system archetype, access rules, casting/failure identity.
+- **Touched systems:** powers, progression, metacurrency, harm, crafting, social.
+- **Replaces or stacks:** replaces default path/talent magic only if selected as the primary archetype; multiple archetypes may coexist if each has a distinct cost.
+- **Incompatibilities:** do not enable several archetypes with the same fuel/cost unless the setting wants magical abundance.
+
 ## 6. Failure modes & edge cases
 
 - **"The archetype feels like FL with the serial numbers filed off."** If a Vancian or pact or faith system plays identically to FL's path/talent magic, the archetype's distinctive mechanic (slots, debt, devotion) is not load-bearing. **Fix:** the NEW CONCEPT for each archetype (slot resource dies, pact debt, devotion gate, surrendered agency, etc.) must *mechanically* differ from a plain WP spend — if it doesn't, you haven't built the archetype, you've reskinned path/talent. (`19` FE1 — false choice: if the archetype is cosmetic, the "choice" of system is illusory.)

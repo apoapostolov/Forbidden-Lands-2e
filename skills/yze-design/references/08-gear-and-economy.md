@@ -2,7 +2,7 @@
 
 # Gear and Economy — Equipment, Crafting, Money
 
-> **STATUS: FILLED (Pass-1 extraction + Pass-2 abstraction complete).** This is the stuff layer — it assumes the dice grammar and Gear Dice of `00-engine-core.md` §3, the conflict action economy of `03-conflict-and-damage.md`, and the downtime/season loop of `06-travel-and-downtime.md`. The two central deliverables are the **Feature Grammar** (§6–7: weapons and armor are defined by *composable tags*, not stat lines) and the **Economy-Model dial** (§4: barter+silver vs cash+capital). A third portable artifact — the **Availability/Scarcity table** (§3) — is shared near-verbatim by both games.
+> **STATUS: FILLED (Pass-1 extraction + Pass-2 abstraction complete).** This is the stuff layer — it assumes the dice grammar and Gear Dice of `00-engine-core.md` §3, the conflict action economy of `03-conflict-and-combat.md`, and the downtime/season loop of `06-travel-and-downtime.md`. The central deliverables are the **Feature Grammar** (§6–7: weapons and armor are defined by *composable tags*, not stat lines), the **Economy-Model dial** (§4: barter+silver vs cash+capital), the **Inventory/Transport pressure layer** (§11), and the **Crafting/Construction/Investment translator** (§12). The **Availability/Scarcity table** (§3) is shared near-verbatim by both games.
 
 ## Contents
 
@@ -16,9 +16,11 @@
 8. Quality tiers and condition/degradation
 9. Artifact / legendary gear and the artifact die
 10. Consumables as resource dice
-11. Divergence rows (FL vs West)
-12. Dials and instantiation recipe
-13. Design intent
+11. Inventory, transport, and storage pressure
+12. Crafting, construction, and investment economics
+13. Divergence rows (FL vs West)
+14. Dials and instantiation recipe
+15. Design intent
 
 ## 1. Source provenance
 
@@ -100,6 +102,8 @@ FL `10-gear.md:27` ("increase the price by 50% to 200% based on local need"); We
 
 This is where FL and West diverge most sharply, because the two genres have *opposite relationships to money*. FL is a post-collapse survival setting where coin is scarce and most exchange is personal; West is a frontier-cash-economy setting where dollars flow, credit exists, and property is a game.
 
+**Deep economy handoff:** this section identifies the economy model. When the task is to price new functions, build property, translate FL stronghold construction into West-style Capital/property, validate investment payback, or design business/amenity cost bands, continue to §12 of this file. When the task is to run businesses, factions, families, settlements, or other owned entities across weeks/months/seasons, load `25-season-downtime-and-enterprises.md`.
+
 ### 4.1 The dial
 
 | | **FL — barter + commodity silver** (`10-gear.md:21-28`) | **West — cash + capital + credit + wages** (`06-life:11-125`) |
@@ -149,7 +153,7 @@ Both games gate *making things* behind the same four gates, in the same order: *
 | **Raw materials** | Every item lists exact **Raw Materials** (½ Iron, 1 Wood, 2 Leather…) with fractional units; materials themselves are craftable (Iron Ore→Iron, Pelts→Leather, Wood, Stone, Glass…) and have their own supply/shelf-life. `10-gear.md:652-682`. | Gear is bought, not built from units, but the *Specialized Gear* table notes when equipment is prerequisite to a business (Farming/Mining/Panning equipment). `06-life:596-614`. |
 | **Time** | Each item lists a **Time** (Quarter Day / One Day / Two Days / One Week…), assuming two Quarter Days of work per day; extra time = bonus to the roll. Large items (armor, crossbows, vehicles) need an **assistant**; each beyond the first shaves **25%** of time (min ½ at three). Armor needs **1–2 days fitting** (poor fit = −1 MOVE or −1 AR). **Seasonal work**: outdoor/heavy craft is +50% time in winter unless indoors. `10-gear.md:36, 50-54`. | Building property costs **seasons** of time (Status 3 = a season; Status 8 = four seasons). `06-life:232-242`. |
 
-**Generic mechanism — "the making gate."** To make an item, satisfy four independent prerequisites — **talent, workshop, materials, time** — each of which can independently *block* the craft, *slow* it, or *penalize* the roll. Assistants and extra time are the two dials that trade resources for speed/quality. **Layer:** General (the four-gate structure); the depth of the material simulation is a dial (FL's unit-economy vs West's buy-it-ready-made).
+**Generic mechanism — "the making gate."** To make an item, satisfy four independent prerequisites — **talent, workshop, materials, time** — each of which can independently *block* the craft, *slow* it, or *penalize* the roll. Assistants and extra time are the two dials that trade resources for speed/quality. **Layer:** General (the four-gate structure); the depth of the material simulation is a dial (FL's unit-economy vs West's buy-it-ready-made). For cost bands, function value, construction curves, payback checks, and persistent-bonus pricing, load `27`.
 
 ### 5.2 The material-quality ladder (FL innovation)
 
@@ -230,7 +234,7 @@ West splits the tag concept into three explicit, separable layers (`06-life:842-
 **The fixed architecture (port as-is):**
 1. **A weapon = a fixed column schema + a tag list.** The schema holds numbers (grip/action, attack bonus, damage, crit, range, ammo, cost, weight, supply). The tags hold *behavior*.
 2. **Tags are small, composable, and each does exactly one thing.** Name the *behavior* (Edged = enables SLASH + selects Slash crits), not the *weapon* ("sword-like").
-3. **Tags double as action prerequisites** where possible (FL's model): a tag *unlocks or gates a combat action* (Parrying → PARRY; Hook → SHOVE; Pointed → STAB). This binds the gear layer to the conflict layer (`03-conflict-and-damage.md`) and makes loadout a tactical choice.
+3. **Tags double as action prerequisites** where possible (FL's model): a tag *unlocks or gates a combat action* (Parrying → PARRY; Hook → SHOVE; Pointed → STAB). This binds the gear layer to the conflict layer (`03-conflict-and-combat.md`) and makes loadout a tactical choice.
 4. **Cap and trade off positive tags** (West's max-4, stack rule) so optimization has a ceiling and every weapon has a *profile* rather than "all the good tags."
 5. **Drive negative tags through the engine's existing failure layer** (FL: Gear-Die 💀 on push; West: Trouble), so degradation *reuses* the harm system rather than adding a new one. See §8.
 
@@ -329,9 +333,781 @@ West ships the same machinery as an **Optional Module** explicitly recommended f
 
 ### 10.2 Why it works — and when to default it
 
-**Generic mechanism:** a *single degrading die* replaces a unit-count for any consumable the genre wants to feel *scarce under pressure*. It converts "I have 14 arrows" into "my Arrow Die is D6, and every fight might shrink it." It is lighter than counting, more dramatic than tracking, and it makes *resupply* a meaningful event (stepping the die back up) rather than bookkeeping. **Layer:** Optional in West, default in FL — a **scope dial**. *Default it on* for survival/wilderness/expedition genres where logistics is a pillar; default it *off* (loose counting) for urban/cinematic genres where supply runs aren't the story. Either way, port the ladder as-is.
+**Generic mechanism:** a *single degrading die* replaces a unit-count for any consumable the genre wants to feel *scarce under pressure*. It converts "I have 14 arrows" into "my Arrow Die is D6, and every fight might shrink it." It is lighter than counting, more dramatic than tracking, and it makes *resupply* a meaningful event (stepping the die back up) rather than bookkeeping. **Layer:** Optional in West, default in FL — a **scope dial**. *Default it on* for survival/wilderness/expedition genres where logistics is a pillar; default it *off* (loose counting) for urban/cinematic genres where supply runs aren't the story. Either way, port the ladder as-is. For transport requirements, group stores, stockpiles, and the no-double-charge rule, load `26`.
 
-## 11. Divergence rows (FL vs West)
+## 11. Inventory, Transport, and Storage Pressure
+
+> This section consolidates the former standalone inventory/transport/storage chapter into the gear and economy chapter. Inventory is not a separate system in the architecture; it is the physical pressure layer of gear, consumables, transport, and stockpiles.
+
+### 11.1 The Core Thesis
+
+Inventory matters only when it changes decisions. YZE's carry system works because it is row-based, visible, and tied to exertion rather than arithmetic weight.
+
+**The invariant spine:**
+
+- one item row = one ordinary carried thing;
+- base carry = primary physical attribute x2;
+- heavy/light/tiny modify row use;
+- containers extend capacity but introduce access, hand, and stealth/movement costs;
+- over-carrying is allowed but taxed when the character acts under strain;
+- consumables can become Resource Dice when counting would become busywork;
+- stockpiles require transport or storage and should not fit invisibly in a backpack.
+
+**FL pole:** inventory is expedition pressure. Backpacks and sacks are explicit, consumables default to Resource Dice, raw materials have shelf lives and transport costs, and stronghold functions create storage infrastructure.
+
+**West pole:** inventory is frontier pragmatism. Base carry is still row-based, but ordinary town play counts loosely; Resource Dice are optional for hard-country pressure, and group stores are tied to pack animals, wagons, carts, and upkeep.
+
+### 11.2 The Personal Inventory Model
+
+#### 3.1 Row-Based Carry
+
+| Element | FL | West | Generic abstraction |
+| --- | --- | --- | --- |
+| Sheet rule | one item per row; if not listed, not carried | one item per row; horse/wagon sheet if carried for you | inventory is a written-state contract |
+| Base limit | Strength x2 | Grit x2 | primary physical attribute x2 |
+| Damage effect | use base Strength, not damaged current rating | use base Grit, not damaged current rating | carry capacity is stable during injury |
+| Heavy | counts as 2+ rows | counts as 2, 3, or 4 rows | heavy items consume multiple rows |
+| Light | half row | half row or quarter row | small useful items share rows |
+| Tiny | no encumbrance, still listed | no gear row, still listed elsewhere | tiny items must exist on sheet but do not tax carry |
+
+**Generic rule:** A character can carry normal items equal to **primary physical attribute x2** without strain. A Heavy item counts as 2 rows by default. A Light item counts as 1/2 row. A Tiny item does not count against the limit, but must still be listed if it matters.
+
+**Design intent:** row inventory is legible at the table. It makes "what did you bring?" a pre-adventure decision and prevents retrospective gear creation.
+
+#### 3.2 Inventory Grain
+
+Use three grains:
+
+| Grain | Use for | Example |
+| --- | --- | --- |
+| Personal row | gear a PC can use in a scene | sword, lantern, doctoring bag, rope |
+| Resource die | many small uses under pressure | arrows, food, water, feed, lamp oil, medical stores |
+| Stockpile/store | bulk goods needing transport/storage | wagon of grain, stone, timber, gang provisions, stronghold stores |
+
+**Rule:** Never track the same thing at two grains as a cost. If gang upkeep covers ordinary food, a Provisions die should model shortage under pressure, not another food bill. West states this explicitly for outlaw gangs.
+
+### 11.3 Container and Access Rules
+
+FL makes containers mechanical; West mostly lets horse/wagon carriage handle bulk. The FL container pattern is the stronger generic tool.
+
+| Container | Capacity effect | Access / hand cost | Penalty | Use when |
+| --- | --- | --- | --- | --- |
+| No container | base physical x2 | worn/wielded/belt items only | none | danger-ready loadout |
+| Travel backpack | capacity to x3 | worn; can remove or hold with two hands | -1 MOVE/STEALTH above x2 | expedition default |
+| Large backpack | capacity to x4 | worn; removing negates penalty | -1 above x2, -2 above x3 | heavy expedition, slow travel |
+| Sack | +2 rows | requires one free hand | -2 MOVE/STEALTH while carried | loot, temporary haul |
+| Large sack | +4 rows | requires two hands | -3 MOVE/STEALTH when full | bodies, bulky loot, desperate haul |
+| Saddle bags / pack saddle | mount storage | tied to animal | access requires mount | travel storage |
+| Cart/wagon/boat | party storage | needs vehicle/animal/water/road | mobility and concealment costs | bulk stores |
+| Stronghold storage | campaign storage | location-bound | vulnerable to events | stockpiles, wealth, materials |
+
+**Access rule:** A thing in hand, worn, or on the belt is combat-accessible. A thing in a backpack, saddle bag, wagon, or storage is carried but not instantly accessible unless the table spends time or an action.
+
+**Container design test:** every capacity increase must introduce one of: hand occupancy, action cost, stealth/movement penalty, transport dependency, or vulnerability to theft/loss.
+
+### 11.4 Over-Encumbrance and Exertion
+
+Both games allow characters to carry too much, but tax exertion.
+
+**Generic over-carry rule:** A character may temporarily exceed their normal limit. When they run, hike, walk a significant distance, climb, flee, fight under load, or do anything strenuous, roll the physical endurance skill.
+
+- On success: continue.
+- On failure: choose one:
+  - drop enough load to become legal;
+  - stop moving or fail to act;
+  - take 1 point of physical/mobility damage and continue.
+
+**FL calibration:** roll Endurance when running in combat or hiking for a Quarter Day; failure can deal 1 Agility damage.
+**West calibration:** roll Resilience when running, walking significant distance, or doing strenuous work; failure can deal 1 Shakes.
+
+**Design rule:** over-carrying should be allowed. The interesting decision is not "you cannot," but "you can, if you accept risk at the moment of strain."
+
+### 11.5 Mounts, Pack Animals, Carts, Wagons, and Boats
+
+#### 6.1 Transport Scale Ladder
+
+| Transport | Generic capacity role | Risk |
+| --- | --- | --- |
+| Riding mount | personal overflow; speed | injury, lameness, spooking, feed |
+| Led mount / pack animal | doubled animal carry; supplies | slower, vulnerable, needs handling |
+| Cart / handcart | low-cost bulk haul | roads/terrain, concealment, breakdown |
+| Wagon | party/group stores | draft animals, roads, pursuit burden |
+| Boat/canoe/rowboat | water-route cargo | route dependency, weather, portage |
+| Stronghold/warehouse/vault | long-term stockpile | theft, siege, events, distance |
+
+**Core rule:** Animals carry physical attribute x2, doubled when led rather than ridden. Use this as the personal-to-party transport bridge.
+
+#### 6.2 Group Stores and Transport Requirement
+
+West's outlaw Provisions table is the clearest YZE source for bulk consumables. Generalize it as follows:
+
+| Shared store die | Small party / crew | Gang / company | Large outfit |
+| --- | --- | --- | --- |
+| D6 | saddle bags, spare pack saddle | one pack animal or handcart | two pack animals or cart |
+| D8 | one pack animal | two pack animals or light wagon | four pack animals or wagon |
+| D10 | two pack animals or light cart | four pack animals or wagon | eight pack animals or two wagons |
+| D12 | three pack animals or wagon | six pack animals or two wagons | twelve pack animals or three wagons |
+
+If transport is lost, abandoned, stolen, lame, burned, or impossible to move through the terrain, the store die cannot stay high. Step it down immediately or at the next meaningful strain.
+
+**Design intent:** high supplies are not invisible. D10/D12 stores create safety but also create a footprint: pack animals, carts, wagons, roads, tracks, guards, and feed needs.
+
+### 11.6 Consumables as Resource Dice
+
+#### 7.1 The Ladder
+
+| Die | State |
+| --- | --- |
+| D12 | abundant |
+| D10 | sound |
+| D8 | running down |
+| D6 | low |
+| D4 | desperate |
+| exhausted | gone |
+
+**Rule:** Roll when the supply is meaningfully used. On 1-2, step down one die size. If D4 rolls 1-2, the supply is exhausted.
+
+#### 7.2 Roll Cadence
+
+| Consumable | FL-style cadence | West-style cadence | Use when |
+| --- | --- | --- | --- |
+| Food/water | daily journey checklist | hard journey / rough living | survival is active |
+| Arrows/ammo | after meaningful combat/use | scene of heavy firing | ammunition pressure matters |
+| Torches/oil | each turn / meaningful light use | day or scene of rough use | darkness matters |
+| Medical supplies | after hard use | day of rough doctoring | treatment resources matter |
+| Feed | daily travel / hard country | when grazing is poor or group is cut off | animals matter |
+| Tools | after hard use | after hard project | tool degradation matters |
+
+**Defaulting rule:** FL-style survival games default Resource Dice on. West-style town/cinematic games default them off until the table enters hard-country, outlaw-flight, military-patrol, expedition, winter, siege, or survival mode.
+
+#### 7.3 Resupply
+
+| Resupply | Effect |
+| --- | --- |
+| one purchased unit / small restock | step depleted die up one |
+| proper town resupply | step up two or restore D12 if ordinary |
+| wagon/pack train/strong refuge | restore D12 if transport is adequate |
+| forage/hunt/craft | step up by success, capped by terrain/season |
+
+**No double charge:** If a lifestyle/upkeep/seasonal expense already pays for ordinary food, do not also roll a Resource Die for ordinary meals. Roll the die only when scarcity is a scene pressure.
+
+### 11.7 Stockpiles, Stores, and Bulk Goods
+
+#### 8.1 When Personal Inventory Becomes Stores
+
+Convert to Stores when any of these are true:
+
+- it cannot be carried by one person in rows;
+- it is meant to last multiple days for a group;
+- it is raw material for construction/crafting;
+- it needs a wagon, pack animals, room, cellar, warehouse, vault, stable, granary, or similar function;
+- it is valuable enough that theft/security matters;
+- it has shelf life or spoilage.
+
+#### 8.2 Store Types
+
+| Store | Source calibration | Design use |
+| --- | --- | --- |
+| Food/feed | FL consumables, West Provisions | survival, animal upkeep, siege, winter |
+| Raw materials | FL wood/stone/iron/leather/cloth | crafting and building |
+| Trade goods | West pelts, gold, whiskey, gear | commerce and theft |
+| Secure valuables | FL Vault, West Strong Room | crime, robbery, investment |
+| Perishables | FL shelf life, cellar/granary | weather, season, spoilage |
+| Equipment pools | West farming/mining/panning equipment | business prerequisites |
+
+#### 8.3 Storage Functions
+
+| Function | Abstract effect |
+| --- | --- |
+| Granary / Root Cellar | extend shelf life; prevent spoilage |
+| Warehouse | hold trade goods and enable market access |
+| Vault / Strong Room | protect valuables from theft |
+| Stables / Barn | house animals, feed, tack, wagons |
+| Forge / Workshop / Tailor Shop | convert materials into crafted goods |
+| Field / Garden / Pasture / Mine / Quarry | produce recurring materials |
+
+**Design rule:** if a campaign cares about bulk materials, it must care about storage. Otherwise raw materials become weightless points.
+
+### 11.8 Crafting/Building Material Flow
+
+Use this flow for any game with crafting, construction, or enterprise supply:
+
+1. **Acquire:** buy, harvest, mine, hunt, loot, claim, trade, or produce.
+2. **Transport:** carry, mount, cart, wagon, boat, caravan.
+3. **Store:** personal rows, pack stores, warehouse, cellar, vault, field, stable.
+4. **Preserve:** shelf life, spoilage, weather, theft, rats, fire.
+5. **Convert:** craft item, build function, pay upkeep, resupply Resource Die.
+6. **Expose:** transport and storage create hooks: theft, damage, delay, inspection, siege, debt.
+
+**Source proof:** FL raw materials have shelf lives and production functions; FL stronghold functions store and convert them. West property/business equipment creates prerequisites and penalties; outlaw provisions require visible transport.
+
+### 11.9 Dials
+
+| Dial | FL pole | West pole | Generic choice |
+| --- | --- | --- | --- |
+| Inventory detail | strict rows + containers | strict rows but lighter container detail | row strictness |
+| Consumables | Resource Dice default | Resource Dice optional | survival default |
+| Container depth | backpack/sack thresholds | horse/wagon carriage | personal vs transport detail |
+| Over-carry tax | Endurance on run/hike | Resilience on strenuous action | trigger frequency |
+| Group stores | stockpiles/functions | provisions die + transport table | bulk abstraction |
+| Storage | stronghold functions | property/hideout/wagon | location-bound assets |
+| Spoilage | shelf life explicit | mostly event/lifestyle based | perishability depth |
+| Transport burden | mounts, animals, wagons | horses/wagons central | pursuit/concealment pressure |
+| Gear access | worn/wielded/container | listed on person/horse/wagon | action cost to retrieve |
+
+### 11.10 Resolution Checks
+
+Use these checks when designing a new inventory or logistics rule.
+
+#### Carry Check
+
+- What is the base carry formula?
+- What counts as Heavy, Light, Tiny?
+- Does the system require written rows?
+- What happens when the PC exceeds the limit?
+- Which action triggers the exertion roll?
+- What attribute damage/condition lands on failure?
+
+#### Container Check
+
+- How much capacity does the container add?
+- Does it occupy hands?
+- Does it impose MOVE/STEALTH or equivalent penalties?
+- Is gear inside accessible in combat?
+- Can it be dropped quickly?
+- Can it be damaged, stolen, or lost?
+
+#### Transport Check
+
+- What die/stockpile level does the party claim?
+- What animal/cart/wagon/boat infrastructure justifies it?
+- What terrain blocks or taxes that transport?
+- What happens when transport is lost?
+- Does transport create a footprint for pursuit, concealment, or events?
+
+#### Consumable Check
+
+- Is the consumable scene-pressure or lifestyle/upkeep?
+- If lifestyle/upkeep pays for it, do not also roll the die.
+- What is the roll cadence?
+- What restores one step?
+- What restores D12?
+- What happens at D6, D4, exhausted?
+
+#### Storage Check
+
+- Where is the stockpile?
+- Who guards it?
+- What preserves it?
+- What events threaten it?
+- What does it convert into?
+
+### 11.11 Validation and Failure Modes
+
+| Failure mode | Symptom | Fix |
+| --- | --- | --- |
+| Invisible bulk | players carry wagon-scale material in personal rows | require transport/storage threshold |
+| Double charging | same food paid by lifestyle and resource die | pick one pressure grain |
+| No access cost | backpack contains instant combat gear | define action/time to retrieve |
+| Container with no downside | capacity increase is always optimal | add penalty, hand cost, or theft risk |
+| Resource die spam | rolling every trivial use becomes noise | roll only on meaningful use/cadence |
+| Transport ignored | D12 provisions have no animals/wagons | require transport ladder |
+| Storage invulnerable | stockpiles cannot be stolen/spoil/burn | add events, guards, functions |
+| Inventory as punishment | load rules only say "no" | allow over-carry with exertion choice |
+
+### 11.12 Instantiation Recipe
+
+1. **Choose the physical attribute.** Strength, Grit, Body, Might, Load, Hull, etc.
+2. **Set base carry = attribute x2.** Change only if the game intentionally wants very light or heroic load.
+3. **Define Heavy/Light/Tiny.** Keep row math simple.
+4. **Choose container depth.** FL-style backpacks/sacks for expedition games; West-style horse/wagon carriage for frontier/cinematic games; both for logistics-heavy games.
+5. **Set the over-carry trigger.** Run/hike/strenuous work is the default.
+6. **Choose Resource Dice default.** Default on for survival; optional for town/cinematic play.
+7. **Write the transport ladder.** Say what supports D6/D8/D10/D12 group stores.
+8. **Define storage functions.** Cellar/granary/vault/warehouse/stable/workshop equivalents.
+9. **Map crafting materials to stores.** Personal rows are for tools and small inputs; bulk raw materials are stores.
+10. **Validate:** no invisible bulk, no double charge, no free capacity, no invulnerable stockpile.
+
+**Final acceptance test:** after preparing for an expedition or season, the players should know what is on their bodies, what is on the animals/vehicle, what is in storage, what can run out, and what must be protected.
+
+
+## 12. Crafting, Construction, and Investment Economics
+
+> This section consolidates the former standalone crafting/construction/investment chapter into the gear and economy chapter. Crafting, stronghold functions, property features, Capital, and business investment are the long-form economy of gear and assets. For period turns and enterprise management, use `25-season-downtime-and-enterprises.md`.
+
+### 12.1 The Core Thesis
+
+YZE economics are not about simulating a market. They are about making long-term choices carry forward.
+
+**FL says:** if you want a capability, you must find the place, materials, labor, time, and skilled hands to build it. The payoff is usually a function: crafting access, storage, food production, defense, recruitment, healing, travel, market access, or metacurrency support.
+
+**West says:** if you want position, you must tie money into assets and accept illiquidity, debt, reputation, business risk, and seasonal fortune. The payoff is cash flow, wages, dividends, property status, town growth, and social leverage.
+
+The agnostic YZE economy must therefore distinguish:
+
+1. **liquid spending** for gear and services;
+2. **bulk materials** for making/building;
+3. **illiquid investment** for assets and businesses;
+4. **period income/upkeep** for long-term play.
+
+If a design collapses these into one money pool, it loses the FL/West tension: scarcity vs investment.
+
+### 12.2 Four Economies, Not One
+
+| Economy | FL expression | West expression | Design use |
+| --- | --- | --- | --- |
+| Liquid cash | copper/silver; barter; gold ceremonial | dollars | gear, services, wages, lifestyle |
+| Bulk materials | wood, stone, iron, leather, food, raw materials | property/build costs abstracted into cash/Capital | crafting and construction |
+| Illiquid assets | stronghold functions and buildings | Capital, property Status, business stake | long-term ownership |
+| Period flow | weekly upkeep, function production, hireling pay | season wages, business rolls, loans, lifestyle, town fortune | campaign pressure |
+
+**Design rule:** choose which economy a cost belongs to before pricing it. A forge built from stone/iron/time is not the same design object as a $100 property feature named Forge, even though both unlock smithing play.
+
+### 12.3 Crafting Gates
+
+FL provides the cleanest crafting abstraction. Use its four gates as the default.
+
+| Gate | Source expression | Generic use |
+| --- | --- | --- |
+| Talent / expertise | simple vs advanced; specialists required for advanced work | who can attempt it |
+| Workshop / tools / function | forge, workshop, tailor shop, tannery, etc.; missing function = +50% time and -1 | where it can happen |
+| Materials | fractional units, bulk units, quality tiers, shelf life | what it consumes |
+| Time / labor | two Quarter Days/day; assistants reduce time; winter slows outdoor heavy work | how long the opportunity cost lasts |
+
+#### 4.1 Crafting Result Model
+
+Use this when abstracting new craftables:
+
+1. **Define the output:** item, repair, component, function, quality upgrade, stockpile conversion.
+2. **Assign complexity:** simple / advanced / masterwork / legendary.
+3. **Set required gate:** no talent / talent / rank floor / specialist / rare function.
+4. **Set material grain:** personal material / bulk store / rare ingredient / Capital-equivalent asset.
+5. **Set time:** scene / Quarter Day / day / week / month / season.
+6. **Set roll:** physical craft skill + tools/function + help.
+7. **On failure:** no retry until skill improves for major construction, or add flaw/delay/material loss for ordinary work.
+
+#### 4.2 Crafting Benchmark Table
+
+| Output | Gate | Time | Cost grain | Effect ceiling |
+| --- | --- | --- | --- | --- |
+| simple repair | tools | Turn/Shift/Quarter Day | minor materials/cash | restore function/item |
+| ordinary item | skill + tools | Quarter Day to day | row-scale materials | listed gear |
+| advanced item | talent + function | day to week | specific materials | gear bonus/tag |
+| large item | talent + assistant | week | bulk materials | vehicle/armor/crossbow |
+| masterwork | high talent + rare material + function | week+ | rare materials | +1 die/tag/social value |
+| function | Builder/craft + materials | days to month | bulk materials | persistent capability |
+| building | Builder + crew + tools | month to years | huge bulk materials | Housing/status/base |
+| magical/legendary item | power layer + artifact die/rare ingredient | project/season | rare resource + risk | escalating-success die/oddity |
+
+**Validation gate:** a persistent broad +1 die should require at least three gates: expertise, proper function, and meaningful cost/time. If it requires only cash, it should be narrow, temporary, or socially/economically rather than combat-useful.
+
+### 12.4 Construction and Function Value
+
+#### 5.1 FL Construction Curve
+
+FL buildings show a cost/time/labor scale:
+
+| Scale | FL examples | Materials/time/labor pattern | Generic meaning |
+| --- | --- | --- | --- |
+| Small dwelling | Cottage | hundreds of wood, two months, 2 builders | base shelter |
+| Defensive small site | Tower / Palisade | hundreds wood/stone, 1-3 months, 4-6 builders | defense/control |
+| Productive holding | Farm | hundreds wood, two months, 3 builders | production base |
+| Fortified base | Fort | 1,000 wood + stone, six months, 6 builders | serious party base |
+| Regional fortress | Fortress/Castle | thousands of stone, years, 10-20 builders | campaign/political asset |
+| Monumental palace | Palace | tens of thousands materials, decade, 30 builders | polity-scale prestige |
+
+The curve is not linear. Higher-tier construction adds political signal, storage, Housing, defense, and event gravity.
+
+#### 5.2 Function Value Families
+
+FL stronghold functions and West property features fall into repeatable value families:
+
+| Family | FL examples | West examples | Value |
+| --- | --- | --- | --- |
+| Prerequisite | Forge, Oven/Fireplace, Workshop, Tannery | Forge, Oven, Crop Field, Paddocks, Pasture, Machinery | unlocks business/crafting |
+| Production | Field, Garden, Pasture, Mine, Quarry, Apiary | Garden, Orchard, Animal Run | creates goods/cash |
+| Storage/preservation | Granary, Root Cellar, Warehouse, Vault | Root Cellar, Strong Room, Barn | protects/extends resources |
+| Defense/security | Ramparts, Guard Tower, Moat, Portcullis | Secure Fixings, Strong Room | reduces intrusion/loss |
+| Social/reputation | Theatre, Shrine, Temple, Monument, Marketplace | Kerosene Lamps, Porch/Balcony, Status property | reputation/social access |
+| Recovery | Infirmary, Fireplace, Temple | Open Fireplace, Well, Latrine | recovery/fortune/welfare |
+| Training/knowledge | Library, Scriptorium, Training Grounds, Shooting Range | Library | skill/research support |
+| Transport/market | Road, Pier, Marketplace, Warehouse | Stables, Barn, Railroad/Express amenities | access and logistics |
+
+#### 5.3 Function Pricing Heuristic
+
+Use this only after checking the source examples.
+
+| Function strength | Source calibration | Generic price |
+| --- | --- | --- |
+| Minor convenience | FL 1 day / 20-60 wood; West $25-$50 | small cash/materials, no roll or simple roll |
+| Prerequisite only | FL 2 days-1 week / 100-400 materials; West $50-$150 | modest cost, unlocks another rule |
+| Narrow +1 die | West $100 Barn/False Front; FL function + staff | cost + upkeep/staff or situational scope |
+| Broad +2 local bonus | FL Library/Laboratory +2 | function + staff/location-bound |
+| Production engine | FL Field/Garden/Mine; West seasonal cash feature | seasonal/weekly output + event/spoilage risk |
+| Security/defense | FL Ramparts/Guard Tower; West Strong Room | significant materials/cash, reduces intrusion |
+| Metacurrency/recovery | FL Stronghold WP; West Open Fireplace Faith | once/session/period cap + base vulnerability |
+| Scale/reputation | FL Fortress/Castle/Palace; West Status 6-8 | high asset cost + public attention |
+
+**Design rule:** a function's price is not only its cost. Its price is also time, staff, location, upkeep, event exposure, and opportunity cost.
+
+### 12.5 Property, Capital, and Rated Assets
+
+West gives the cleanest YZE asset economy.
+
+#### 6.1 Capital Rules to Preserve
+
+- Cash converts into Capital at a fixed rate.
+- Capital cannot buy ordinary gear unless liquidated.
+- Capital invested in a business remains your investment, but cannot transfer directly to another asset.
+- Liquidating Capital is risky and committed: roll for cash value after deciding.
+- Loans create seasonal interest, collateral, and foreclosure risk.
+- Business or property can go bust/forfeit if Capital reaches zero or debt cannot be covered.
+
+**Generic abstraction:** Illiquid investment should be easy to create, hard to move, risky to liquidate, and vulnerable to debt.
+
+#### 6.2 Property Status Curve
+
+West's property Status 0-8 creates a rated-asset ladder:
+
+| Status band | Meaning | Buy/build pattern | Social effect |
+| --- | --- | --- | --- |
+| 0-1 | no property / canvas | no meaningful asset | reputation penalty |
+| 2-3 | shack/basic dwelling/store | 1-2 Capital buy; cheaper build with weeks/season | barely respectable |
+| 4-5 | good homestead/saloon/large property | 5-8 Capital buy; build costs 3-6 Capital and 1-2 seasons | functional standing |
+| 6-7 | substantial / excellent property | 12-16 Capital buy; 9-12 build and 3 seasons | +1/+2 Reputation |
+| 8 | mansion/huge ranch | 20 Capital buy; 16 build and 4 seasons | +3 Reputation |
+
+**Build vs buy principle:** building costs less Capital but costs time. Buying costs more Capital but gives immediate access. The finished asset retains purchase value, not build cost.
+
+#### 6.3 Location Value
+
+Location is a separate asset layer. It controls availability, price, conflict, and business fit.
+
+**Generic location variables:**
+
+- centrality/access;
+- land quality/resources;
+- legal claim strength;
+- competition for the plot;
+- reputation of neighborhood;
+- exposure to violence, disease, weather, law, and faction pressure.
+
+### 12.6 Town Amenities and Civic Investment
+
+West town amenities are community-scale construction.
+
+#### 7.1 Amenity Rules to Preserve
+
+- Town has multiple aspects.
+- Each aspect has tally points and rank thresholds.
+- One amenity is chosen per season by default.
+- Extra amenities require Settlement Points earned through community-spirited play.
+- Amenities take one season and apply modifiers at the next Turn of the Season.
+- Some amenities have prerequisites or minimum Civic rank.
+- Amenities may boost some aspects while lowering others.
+- If any aspect falls below rank 1, the town fails and begins irreversible decline.
+
+#### 7.2 Amenity Value Families
+
+| Amenity value | Mechanical expression |
+| --- | --- |
+| aspect growth | +1 to +3 tally in one or more aspects |
+| trade access | makes goods/services easier to find |
+| law/safety | improves Law/Safety but may reduce vice/profit |
+| welfare/care | improves Fortune modifiers and survival |
+| civic capacity | unlocks higher-rank amenities |
+| resource extraction | boosts Natural Riches but may harm Law/Welfare |
+| settlement points | recurring civic growth currency |
+
+**Design rule:** civic improvements should change the community's future probability space, not only grant immediate bonuses.
+
+### 12.7 Business Income and Seasonal Returns
+
+West's Season Business Roll is the baseline YZE business-reckoning engine.
+
+#### 8.1 Business Roll Formula
+
+**Dice pool:** proprietor key ability + help from owners/employees/compadres (max +3) + Competition modifier (-2 to +2) + Law aspect modifier + relevant town aspect modifier + business features/equipment.
+
+**Roll rule:** cannot be pushed and does not trigger Trouble.
+
+**Results:**
+
+- **0 successes:** wages/running costs not covered; roll Business Penalty; owners cover debts or risk liquidation/loan/bust.
+- **1 success:** steady; wages and costs paid.
+- **2+ successes:** Business Bonus; each success beyond the first adds +1 to the Tens die of the D66 Bonus result.
+
+#### 8.2 Income Types
+
+| Income | Source | Risk profile |
+| --- | --- | --- |
+| salary | seasonal job; proprietor/employee wage | reliable if business succeeds |
+| dividends | 2+ success Business Bonus | only if business outperforms |
+| seasonal feature cash | Garden/Animal Run/Orchard-style features | small roll-based side income |
+| congregation donations | preacher roll x Prosperity | tied to town wealth and social support |
+| lifestyle effects | paid up-front | social modifier, not profit |
+| outlaw score | episodic take | high heat/cohesion risk |
+
+#### 8.3 Return Benchmarks
+
+| Investment type | Expected return posture | Pressure |
+| --- | --- | --- |
+| 1 Capital business stake | safety of stake + wage if working; dividend only on 2+ successes | failure can create debt/bust |
+| property feature $25-$50 | small fortune/lifestyle/resupply modifier | narrow, often personal |
+| property feature $100-$150 | +1 business roll or prerequisite | depends on business roll |
+| property Status | reputation, business/home eligibility | debt, maintenance, Fortune events |
+| town amenity | aspect rank / future Fortune | one season delay, community opportunity cost |
+| FL function | persistent capability | material/time/staff/upkeep/event exposure |
+
+**Design rule:** ordinary investment should not out-earn adventure safely. Its value is reliability, belonging, capability, and future hooks. High returns must attract competition, debt, attention, or event risk.
+
+### 12.8 Cost/Value Translator
+
+Use this translator to move between FL-style construction and West-style investment without pretending their currencies are identical.
+
+#### 9.1 Translate by Function, Not Price
+
+| If the source object does this... | FL expression | West expression | Generic output |
+| --- | --- | --- | --- |
+| unlocks crafting/business | Forge/Oven/Workshop function | Forge/Oven/Machinery feature | prerequisite function |
+| gives +1 to enterprise roll | staff/function support | $100 Barn/False Front/General Amenities | narrow enterprise bonus |
+| preserves supplies | Granary/Root Cellar | Root Cellar/Barn | storage function |
+| protects valuables | Vault | Strong Room | security function |
+| grants public standing | Fortress/Castle/Temple/Theatre | Status 6+, lamps, porch, property | reputation/status asset |
+| generates metacurrency/recovery | stronghold base effect, Shrine | Open Fireplace, church support | capped recovery/metacurrency source |
+| grows community | stronghold attracts residents | town amenity/aspect tally | civic improvement |
+
+#### 9.2 Cost Bands
+
+| Band | FL material/time example | West cash/Capital example | Generic use |
+| --- | --- | --- | --- |
+| Minor | 20-60 wood/stone; 1 QD-1 day | $25-$50 | small feature, comfort, narrow fortune |
+| Small function | 100-200 materials; 2 days-1 week | $50-$100 | prerequisite or narrow +1 |
+| Major function | 300-600 materials; 1-4 weeks | $100-$150 | +1 business, security, storage, production |
+| Building / Status 2-3 | 200-600 materials; 6 weeks-season | 1-2 Capital buy/build | home/store/basic base |
+| Serious property / Status 4-5 | hundreds+ materials; season+ | 5-8 Capital buy; 3-6 build | established business/home |
+| High status / Status 6-8 | thousands materials; seasons-years | 12-20 Capital buy | political/social asset |
+| Stronghold/polity | fortress/castle/palace | town/city-level amenities/assets | campaign-scale subject |
+
+#### 9.3 Time Bands
+
+| Time | Use for |
+| --- | --- |
+| scene / Turn | repair, emergency work, access, small services |
+| Quarter Day / Shift | simple craft, maintenance, training, treatment |
+| day | minor function, small construction, repair |
+| week | major function, specialist item, property feature |
+| month | field, mine, rampart, serious build |
+| season | West property build, town amenity, business reckoning |
+| year+ | fortress, castle, dynasty, major civic transformation |
+
+#### 9.4 Bonus Pricing Rule
+
+| Bonus | Allowed if |
+| --- | --- |
+| +1 narrow scene/location bonus | modest feature or tool; no upkeep needed if narrow |
+| +1 enterprise/season bonus | feature/function + cost + prerequisite or staff |
+| +2 local skill bonus | location-bound function and specific activity |
+| +2 broad bonus | rare; should be talent, artifact, or campaign-mode asset |
+| persistent broad +1 | requires upkeep, location lock, risk, or limited scope |
+
+#### 9.5 Outcome Economics
+
+Do not price an asset only by its name. Price the outcome it creates. FL functions and West property features show the reusable outcome families below.
+
+| Outcome | Source calibration | Allowed ceiling | Required brakes |
+| --- | --- | --- | --- |
+| Prerequisite unlock | FL Forge/Workshop/Tannery; West Forge/Oven/Machinery/Pasture | unlocks an activity or business, no direct profit by itself | location, cost, build time, sometimes staff/talent |
+| Batch conversion | FL Bakery/Forge/Tannery/Smokery convert up to 12 units per Quarter Day | converts stock into usable/sellable form | input stock, staff, work period, storage |
+| Seasonal production | FL Field 300/year; FL Garden 10/week in season; West Garden/Orchard/Animal Run 2D6 dollars x successes | resource/cash output in a defined season | seasonal timing, roll or labor, spoilage/storage, land |
+| Narrow +1 enterprise bonus | West Barn/False Front/General Amenities | +1 to one business family or period roll | property feature, cost, business scope |
+| Local +2 skill bonus | FL Library/Laboratory/Workshop-like functions; West Library | +2 to a specific skill/activity only while using the location | location lock, function cost, prerequisite materials/books/tools |
+| Fortune modifier | West Latrine/Root Cellar/Well add Units-die modifiers to Personal Fortune | improves event table posture, not direct cash | property-bound, period-limited |
+| Security penalty | West Secure Fixings -1, Strong Room -3; FL Vault/Guard Tower/Ramparts | penalizes intrusion or improves defense | fixed target, does not attack enemies by itself |
+| Storage preservation | FL Granary/Root Cellar x10 shelf life; West Root Cellar fortune help | extends shelf life or protects stock | stockpile still needs place, guard, transport |
+| Recovery/metacurrency | FL stronghold +1 WP/session at home; West Open Fireplace bonus Faith once/session | once/session or once/period recovery/refuel | base vulnerability, comfort/time requirement |
+| Reputation/status | FL Fortress/Castle/Palace; West Status 6-8/Kerosene Lamps | social modifier, recognition, access | public attention, cost, maintenance, rivalry |
+| Civic aspect growth | West town amenities | changes future town modifiers | one-season delay, aspect floor, SP/amenity limits |
+
+**Design rule:** an asset may combine two modest outcomes, but a three-outcome asset is a campaign-mode feature and needs higher cost, upkeep, public exposure, or a dedicated event table.
+
+#### 9.6 Source-Calibrated Pricing Bands by Outcome
+
+| New asset effect | Minimum source-backed price posture |
+| --- | --- |
+| Allows a business to exist | West $50-$150 property feature or FL 2 days-1 week function with tools/materials |
+| Gives +1 to a specific season business roll | West $100-ish feature, scoped to a business type |
+| Gives +1 to any enterprise roll | campaign-mode only; require upkeep, staff, and stacking cap |
+| Gives +2 to a skill | FL/West Library-like function, location-bound and narrow |
+| Produces small seasonal cash | West $25-$50 feature plus ability roll; payout 2D6 dollars x successes |
+| Produces bulk yearly stores | FL field/garden/pasture scale; requires land, season, labor, storage |
+| Protects valuables at -3 intrusion | West Strong Room / FL Vault scale; high feature/function cost |
+| Adds Fame/Reputation | visible property/status feature; invite attention and social consequences |
+| Adds metacurrency | once/session cap and requires rest/shift/day at owned safe place |
+| Improves settlement modifiers | one season delay and community aspect bookkeeping |
+
+#### 9.7 Business Bonus and Penalty Calibration
+
+West's Season Business Roll gives a usable economic envelope:
+
+- **0 successes:** no wages/running costs; roll Penalty and cover debts immediately or by adventure deadline.
+- **1 success:** wages and costs are covered; no investor dividend.
+- **2+ successes:** roll Bonus; each success beyond the first improves the D66 Tens die.
+
+Use these bands when designing new bonus/penalty tables:
+
+| Band | Bonus posture | Penalty posture |
+| --- | --- | --- |
+| Low | small cash windfall, about a few D6 | no extra loss or small debt |
+| Middle | cash x Capital, next-roll bonus, Competition shift, Fame/Reputation movement | D3 x small debt, Reputation hit, Competition worsens |
+| High | bonus Capital immediately liquidated, new helper, strong next-roll bonus | D6/2D6/3D6 x debt unit, employee quits, large reputation harm |
+| Extreme | half Capital pool equivalent liquidated as bonanza | Capital-pool-scaled debt, likely bust unless rescued |
+
+**Debt design rule:** failed business should not merely say "no profit." It should ask who pays, who goes unpaid, what gets liquidated, who loses trust, and what adventure can save it.
+
+### 12.9 Payback, Upkeep, and Pressure Checks
+
+#### 10.1 Payback Check
+
+For any income-producing asset:
+
+1. What is the up-front cost?
+2. How often can it pay out?
+3. What is the ordinary payout?
+4. What roll gates payout?
+5. What is the failure cost?
+6. How many successful periods repay the investment?
+7. What story pressure appears before payback?
+
+**Rule of thumb:** safe payback inside 1-2 periods is too generous unless the investment is very small. Major assets should need several successful periods or should pay in capability/status rather than cash.
+
+#### 10.2 Upkeep Check
+
+Every asset with persistent value needs at least one upkeep vector:
+
+| Asset | Upkeep vector |
+| --- | --- |
+| hireling/staff | wages or housing/food |
+| resident | housing + food/water |
+| function | maintenance/staff/materials |
+| business | season roll and wage coverage |
+| property | lifestyle, Fortune events, repairs |
+| town | aspect risk, amenities, Fortune |
+| gang | seasonal upkeep, Provisions, Cohesion |
+| vault/warehouse | guard/security/event exposure |
+
+#### 10.3 Pressure Equivalence
+
+When converting between FL and West:
+
+| FL pressure | West pressure |
+| --- | --- |
+| raw material scarcity | Capital scarcity |
+| crafting failure/flaw | build delay/debt/property dispute |
+| hireling non-payment | wage shortfall/debt/employee quits |
+| unguarded stronghold | robbery/foreclosure/contested property |
+| lacking upkeep | repair bill, Status loss, Fortune event |
+| stronghold Reputation event | Fame/Reputation/town attention |
+| function staff requirement | proprietor/employee/prerequisite equipment |
+
+#### 10.4 Costing New Assets Procedure
+
+Use this procedure when inventing a new function, feature, business asset, or investment from the source abstractions.
+
+1. **Choose the outcome family** from §9.5.
+2. **Choose the source pole:** FL material/function, West property/Capital, or hybrid.
+3. **Assign cost unit:** cash, Capital, raw materials, labor, stores, SP, or project ticks.
+4. **Assign time band:** day, week, month, season, year.
+5. **Assign gates:** talent, tools, function, location, specialist, staff, town aspect, legal claim.
+6. **Assign upkeep:** wages, food/water, repair check, lifestyle, debt interest, event exposure, stock input.
+7. **Assign failure:** no retry until skill improves, flaw, delay, debt, reputation loss, employee trouble, contested claim, function damage.
+8. **Check stacking:** if it adds dice, state whether it stacks with tools, help, town aspects, and investment.
+9. **Check payback:** calculate successful periods to recover cost if it produces cash.
+10. **Write rule prose:** name what characters do at the table, not only what the asset represents.
+
+#### 10.5 Example Abstractions
+
+**Clinic / infirmary.** Outcome family: recovery. Source pole: FL Infirmary + West Doctoring. Cost: major function or $150-ish feature plus trained staff. Effect ceiling: improved healing/doctoring at the location, not portable immunity to critical injuries. Upkeep: doctor wages, supplies, clean space. Failure: infection, supply shortage, malpractice rumor, or a patient obligation.
+
+**Printing office / rumor press.** Outcome family: reputation/status + batch conversion. Source pole: West Newspaper prerequisite property + FL Scriptorium. Cost: property, press/machinery, paper/ink, staff. Effect ceiling: +1 to public-facing reputation/propaganda enterprise moves or create rumor output. Upkeep: wages, paper, legal exposure. Failure: libel suit, mob, censor, rival editor, broken press.
+
+**Safehouse network.** Outcome family: security/storage + secrecy. Source pole: West Strong Room/Secure Fixings + FL several strongholds. Cost: multiple minor properties or Capital/contacts. Effect ceiling: reduce Heat/Exposure or protect one stockpile/person. Upkeep: bribes, caretakers, secrecy. Failure: one safehouse exposed, informant, stored goods seized.
+
+**Arcane laboratory / experimental shop.** Outcome family: local +2 skill bonus + project gate. Source pole: FL Laboratory/Library. Cost: function, rare tools, specialist, week/month build. Effect ceiling: +2 only to defined research/craft rolls performed there. Upkeep: ingredients, safety, patron suspicion. Failure: accident, corrupted result, damaged function.
+
+**Commercial route office.** Outcome family: market/transport + enterprise bonus. Source pole: FL Marketplace/Warehouse/Road + West business roll. Cost: warehouse/office, route contacts, transport. Effect ceiling: +1 to route/trade enterprise rolls or reduce transport friction. Upkeep: guards, tolls, animals/vehicles, staff. Failure: cargo delay, extortion, road damage, lost customer.
+
+### 12.10 Dials
+
+| Dial | FL pole | West pole | Generic choice |
+| --- | --- | --- | --- |
+| Cost unit | raw materials + labor | cash + Capital | material vs asset economy |
+| Construction resolution | Crafting roll; failure flaw/lockout | pay cost/time; haggling possible | roll-risk vs capital/time certainty |
+| Time scale | Quarter Day to years | season for property/amenity | active period |
+| Asset liquidity | function is fixed | Capital liquidates risky | resale/liquidation model |
+| Income | function production/capability | salary/dividend/business roll | cash vs capability |
+| Upkeep | weekly craft/guard/pay | seasonal wage/debt/lifestyle | cadence |
+| Bonus style | location function + staff | +1 business/fortune/reputation | scope |
+| Community growth | stronghold residents/reputation | town aspect tally/SP | base vs town |
+| Failure | flaw, decay, event, hireling trouble | debt, bust, Status loss, town decline | consequence family |
+
+### 12.11 Validation Worksheets
+
+#### Crafting Validation
+
+- Does the item require the correct gates for its power?
+- Does any +1 die require enough cost, scope, or upkeep?
+- Can players bypass scarcity by crafting too cheaply?
+- Is failure a real cost: material loss, flaw, delay, no retry, event?
+- Does the craft time compete with adventure/season time?
+
+#### Construction Validation
+
+- What cost band is it?
+- What time band is it?
+- How many workers/staff are required?
+- Does it need a prerequisite function/location?
+- Does it create Housing, storage, defense, production, reputation, or recovery?
+- What threatens it if unguarded/unmaintained?
+
+#### Investment Validation
+
+- Is the investment liquid or illiquid?
+- Can it be moved to another asset freely? If yes, why does Capital matter?
+- What is the expected payback period?
+- What happens on a failed season?
+- Can the asset go bust, be foreclosed, be contested, or lose status?
+- Does it out-earn adventuring without comparable risk?
+
+#### Economy Validation
+
+| Check | Fail sign | Fix |
+| --- | --- | --- |
+| Passive wealth | money grows without roll/risk/time | add season roll, upkeep, debt, event |
+| Safe liquidation | assets convert at full value anytime | add delay, discount, roll, buyer, risk |
+| Bonus stacking | property/features grant many +1s | cap feature bonuses or make them prerequisites |
+| Free staff | employees add dice without wages/housing | add wage/upkeep/loyalty |
+| Instant build | major functions appear between scenes | move to week/month/season |
+| No consequence | failed season only says "no money" | add debt, Reputation, Capital loss, employee trouble |
+| Double bill | same lifestyle/upkeep charged twice | choose one pressure grain |
+
+### 12.12 Instantiation Recipe
+
+1. **Choose economy posture:** material-scarcity, cash-business, hybrid, or civic/domain.
+2. **Define cost units:** cash, Capital, raw materials, labor, stores, SP, project ticks.
+3. **Define asset types:** item, function, building, property, amenity, enterprise, town.
+4. **Set cost bands:** minor, small function, major function, building, serious property, high-status asset.
+5. **Set time bands:** Quarter Day, day, week, month, season, year.
+6. **Write gate rules:** talent, tool/function, material, specialist, staff, location.
+7. **Write income/upkeep rules:** salary, dividends, production, feature output, lifestyle, debt, staff.
+8. **Write failure families:** flaw, debt, delay, loss, staff trouble, Reputation, event, collapse.
+9. **Write conversion rules:** personal cash -> investment, materials -> function, function -> bonus, asset -> storage/status.
+10. **Validate payback:** major assets should create hooks before they repay safely.
+
+**Final acceptance test:** a designer should be able to explain for every asset: what it costs, how long it takes, who must work it, where it exists, what it unlocks, how it pays out, what it consumes, and what goes wrong when neglected.
+
+
+## 13. Divergence rows (FL vs West)
 
 | Decision | FL option | West option | Trade-off | When to choose |
 | --- | --- | --- | --- | --- |
@@ -353,7 +1129,7 @@ West ships the same machinery as an **Optional Module** explicitly recommended f
 | **Crafting depth** | Full unit-economy (fractional raw materials, material ladder, masterwork) | Folded into Availability/Quality + business prerequisites | Deep simulation vs light resolution | FL depth when *crafting is a pillar*; West lightness otherwise |
 | **Material-quality ladder** | Iron→Wrought→Steel→Crucible→Dwarven (+1 to +3, talent-gated) | (not present — quality is a buyable grade, not a craftable material) | Make-it-better-by-being-better vs buy-it-better | Port the ladder for any genre where *crafting mastery* should scale output |
 
-## 12. Dials and instantiation recipe
+## 14. Dials and instantiation recipe
 
 Each dial has FL and West as two calibrated points. To build a new game's gear-and-economy layer, set each dial.
 
@@ -384,7 +1160,7 @@ Each dial has FL and West as two calibrated points. To build a new game's gear-a
 8. **Decide crafting depth (dial 15)** and, if deep, port the material-quality ladder (§5.2).
 9. **Validate against the math** (see `13-balance-and-synergy.md`): expected weapon damage per round, time-to-Broken, degradation rate vs repair cadence, resource-die exhaustion length for a typical expedition, salary-vs-lifestyle cash flow over a season.
 
-## 13. Design intent
+## 15. Design intent
 
 The gear-and-economy layer is engineered so that **what a character carries and what a character is worth are both load-bearing fiction**, not bookkeeping. Specifically:
 

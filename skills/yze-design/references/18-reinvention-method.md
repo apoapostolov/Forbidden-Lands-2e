@@ -11,6 +11,9 @@
 3. The core move — primitive transplantation
 4. The five reinvention operators
 5. The composition checklist
+   - 5a. Mechanic ideation matrix
+   - 5b. Forced comparison gate
+   - 5c. Signature mechanic test
 6. Worked examples (five full reinventions)
 7. Anti-patterns (what NOT to do)
 8. Design intent
@@ -123,6 +126,49 @@ Before shipping a reinvented mechanic, verify:
 - [ ] **Engine fit.** Does it use ⚔/💀, the success ladder, the push economy, the metacurrency? (If it introduces a new dice type or a parallel economy, justify it.)
 - [ ] **Validation passable.** Will it survive `13 §8`'s pipeline (intent → math → exploit → synergy → table → verdict)? Run the check.
 - [ ] **Anti-pattern scan.** Does it trigger any of `10 §10`'s Warning Signs or §7 below?
+
+## 5a. Mechanic ideation matrix
+
+When a request asks for invention, generate candidates before selecting. Cross the target domain with the primitive and the desired psychology.
+
+| Domain | Good primitive/composition starts | Psychology to target |
+| --- | --- | --- |
+| Body / mind / stress | P4, P5, P10, AC4 | dread, endurance, fragile control |
+| Attention / law / pursuit | P2 inverted, P14, AC1, AC5 | rising exposure, desperate cooldown |
+| Relationships / politics | P2, P4, P7, AC2, AC11 | obligation, reputation, leverage |
+| Vehicles / crews | P6, P7, P8, AC7, AC8 | coordination, trade-offs, shared risk |
+| Mystery / knowledge | P3, P6, AC3, AC12 | discovery, inference risk, momentum |
+| Territory / domain | P7, P9, P13, AC9 | stewardship, escalation, contested control |
+| Magic / powers | P2, P4, P5, P8, AC12 | temptation, scarcity, wonder, cost |
+
+Generation counts:
+
+- **3 candidates:** ordinary subsystem request.
+- **5 candidates:** broad design brief or unclear target psychology.
+- **10 candidates:** explicit exploration request or flagship/signature mechanic.
+
+Each candidate must state: primitive(s), operator, one-sentence rule, cost, state change, and expected feel.
+
+## 5b. Forced comparison gate
+
+Before selecting a candidate, compare three options:
+
+1. **Candidate mechanic:** the new mechanism.
+2. **Existing YZE primitive:** the smallest direct transplant that could solve it.
+3. **Lighter reskin:** no new subsystem, just rename an existing rule or add one tag.
+
+Select the candidate only if it changes actual table behavior. If the lighter reskin preserves the same decisions and costs, ship the reskin.
+
+## 5c. Signature mechanic test
+
+A new game may have 1-3 signature mechanics by default. A signature mechanic must pass all four tests:
+
+- **Behavioral:** players make a different decision because it exists.
+- **Loop-bound:** it feeds one of the five loops, not a side minigame.
+- **Costed:** it creates or redirects exposure.
+- **Memorable:** it expresses the game's thesis in table action.
+
+If it fails any test, demote it to Optional, fold it into an existing subsystem, or cut it.
 
 ## 6. Worked examples (five full reinventions)
 

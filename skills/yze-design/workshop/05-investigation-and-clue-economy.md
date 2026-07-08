@@ -35,7 +35,7 @@ The loop's signature beat is the **risky-inference push** (P1): when the party i
 
 Pressure comes from the **Threat Clock**: a rising track that advances each Investigation Phase while the party works, making investigation time finite. Every extra phase of clue-gathering costs the antagonist's-plan clock a tick; every push skips that cost but gambles correctness. The clock is what makes the safe path (earn more) and the fast path (push now) genuinely rival choices.
 
-The module triggers only for mysteries that deserve a scene — a hidden truth the PCs must uncover to act, finite time (the clock is rising), and real consequence for being wrong. For "do I find the key on the desk," use a single roll (`03 §11`); reserve the Clue Economy for mysteries with teeth — the engine's same gating instinct as Social Combat (`workshop/30`).
+The module triggers only for mysteries that deserve a scene — a hidden truth the PCs must uncover to act, finite time (the clock is rising), and real consequence for being wrong. For "do I find the key on the desk," use a single roll (`03 §11`); reserve the Clue Economy for mysteries with teeth — the engine's same gating instinct as Social Combat (`workshop/03`).
 
 ### 2b. NEW CONCEPTS introduced
 
@@ -131,7 +131,7 @@ A failed push rolls a **typed D66** (Domain Transfer of P4 from crits/mishaps to
 | 65 | **The culprit comes for you.** Knowing you're close (but wrong), they strike first. | A direct confrontation — roll for Harm (`04`). |
 | 66 | **The threat fires.** Your wrong inference was the last piece they needed. | The mystery becomes a crisis — the ritual completes / the killer strikes again. |
 
-**Mythic family** (cosmic horror — harm / Corruption cost): same D66 ranges, payload swapped to the doom spiral. Severity maps to Corruption (`workshop/70`): *minor* (11–31) = a glimpse — nightmares, −1 to one attribute next phase; *costly* (32–61) = 1 Corruption (a glimpsed rite, an echoed chant) or attribute damage; *severe* (62–64) = a deeper wound; **65** = a permanent Mythos touch; **66** = the ritual completes and the manifestation costs 1d3 Corruption to all present. Build the rows on the same spine (TIME → EVIDENCE → EXPOSURE) with mythic nouns.
+**Mythic family** (cosmic horror — harm / Corruption cost): same D66 ranges, payload swapped to the doom spiral. Severity maps to Corruption (`workshop/07`): *minor* (11–31) = a glimpse — nightmares, −1 to one attribute next phase; *costly* (32–61) = 1 Corruption (a glimpsed rite, an echoed chant) or attribute damage; *severe* (62–64) = a deeper wound; **65** = a permanent Mythos touch; **66** = the ritual completes and the manifestation costs 1d3 Corruption to all present. Build the rows on the same spine (TIME → EVIDENCE → EXPOSURE) with mythic nouns.
 
 *This is the same one-architecture-many-payloads trick as FL's crit families (`M3`): the kind of wrongness the genre cares about becomes the story.*
 
@@ -189,10 +189,19 @@ Roll when the clock fills. The severity column applies if this is a *second or l
 
 ## 5. Integration points
 
-- **Hooks into:** the social-conflict system (`03 §11`) — QUESTION is a social roll and can escalate into a full Social Combat (`workshop/30`) when an interview is high-stakes. Hooks into harm (`04`) — a harm-cost push (dial above) deals real damage; the Wrong Inference table (P4) is a sibling of the crit families. Hooks into travel/downtime (`06 §5`) — an Investigation Phase is structurally a Quarter Day and can nest inside one. Hooks into the faction web (`workshop/20`) — investigations *into* a faction shift Standing when concluded. Hooks into **Corruption** (`workshop/70`) — a mythic-cost push can climb the corruption ladder (the worked example uses this).
+- **Hooks into:** the social-conflict system (`03 §11`) — QUESTION is a social roll and can escalate into a full Social Combat (`workshop/03`) when an interview is high-stakes. Hooks into harm (`04`) — a harm-cost push (dial above) deals real damage; the Wrong Inference table (P4) is a sibling of the crit families. Hooks into travel/downtime (`06 §5`) — an Investigation Phase is structurally a Quarter Day and can nest inside one. Hooks into the faction web (`workshop/02`) — investigations *into* a faction shift Standing when concluded. Hooks into **Corruption** (`workshop/07`) — a mythic-cost push can climb the corruption ladder (the worked example uses this).
 - **Requires:** a defined hidden truth (the GM knows who/what/why); a Threat Clock; a set of clue sources (locations, witnesses, records) the menu activities can target.
 - **Replaces / extends:** the single "Insight"/"Investigation" roll — adds the economy and the push for mysteries that warrant a scene, leaving simple searches on the single roll.
 - **Cross-refs:** `16` P1/P2/P4/P6 (+ P5 optional); `17` M1 (action-refuel) and M2 (push-cost type); `13 §8` (validation pipeline); `19` FE1/FE4 (the two failures this is engineered around).
+
+## 5a. Interface
+
+- **Prerequisites:** inquiry scenes, time pressure, revelations or questions.
+- **Inputs:** clue cap, inquiry activities, spend menu, risky inference trigger.
+- **Outputs:** Clue pool, revelation ladder, inference procedure.
+- **Touched systems:** GM, downtime, social, powers, heat.
+- **Replaces or stacks:** replaces binary clue gates; stacks with `18-mystery-conspiracy-and-revelation.md` only if Clues buy inference rather than basic access.
+- **Incompatibilities:** do not charge both Clues and required-roll success for the same mandatory fact.
 
 ## 6. Failure modes & edge cases
 
@@ -207,12 +216,12 @@ Roll when the clock fills. The severity column applies if this is a *second or l
 
 - **Math (`13 §3` / `§8` Stage 1):** clue-earning rate vs revelation costs should be tuned so a typical mystery resolves in 3–5 Investigation Phases (mirroring a 3–5 Round combat). At graded earning (~2–3 clues/phase across a party of 3–4) and Connection/Conclusion/Conviction costs of 2/4/5, a party reaches a Conclusion in ~2 phases and a Conviction in ~3–4 — provided they secure the hard clue. If mysteries drag, lower costs or raise earning; if they collapse too fast, raise the hard-clue bar or speed the clock.
 - **Exploits (`13 §5` / Stage 2):** the brute-force risk is the main one — gated by the hard/soft split + Threat Clock + clue decay (three independent brakes, deliberately redundant). Push-spam is gated by clue-burn-on-fail + accumulating backlash. Verify a party cannot farm WATCH indefinitely (WATCH earns no clues, so it stalls deduction even as it slows the clock — a real tradeoff, not an exploit).
-- **Synergy (`13 §7` / Stage 3):** the module hooks cleanly because it reuses P1/P2/P6 — no new dice type, no parallel economy. The one synergy to watch: a harm-cost push stacking with Corruption (`workshop/70`) can spiral faster than either alone — recompute the doom curve if both are on.
+- **Synergy (`13 §7` / Stage 3):** the module hooks cleanly because it reuses P1/P2/P6 — no new dice type, no parallel economy. The one synergy to watch: a harm-cost push stacking with Corruption (`workshop/07`) can spiral faster than either alone — recompute the doom curve if both are on.
 - **Felt experience (`19` §7 Stage C):** the **push** is the key psychology — it turns "we lack evidence" into a *decision*, defeating FE4 (agency collapse / the brick wall). The **hard/soft split** defeats FE1 (false choice): if every conclusion were buyable with filler, deduction would be meaningless. The **failure-yields-a-lead** valve preserves C3 (flow channel) — there is always a next move. Wrong Inference tables should be telegraphed (C2 perceived randomness): the GM foreshadows that a theory is thin before the push, so a wrong result feels *earned*, not random.
 
 ## 8. Worked genre example — Noir / cosmic horror
 
-**The setting:** A gaslit 1920s city. Investigators pursue a cult of the Yellow Sign kidnapping victims for a summoning. Each phase the **Summoning Clock** (6 segments) advances; at 6, the King in Yellow manifests. Pushing a *wrong* inference doesn't just waste a raid — it exposes the pusher to mythic backlash (gaining **Corruption**, `workshop/70`).
+**The setting:** A gaslit 1920s city. Investigators pursue a cult of the Yellow Sign kidnapping victims for a summoning. Each phase the **Summoning Clock** (6 segments) advances; at 6, the King in Yellow manifests. Pushing a *wrong* inference doesn't just waste a raid — it exposes the pusher to mythic backlash (gaining **Corruption**, `workshop/07`).
 
 **Dials set:** party-shared pool cap 8; graded earning (1–3 by ⚔); **hard/soft split ON**; failure-yields-a-lead ON; push cost = **harm/Corruption** (Mythic Backlash table, P4); wrong-inference reveal **delayed** (you act on the false theory — the twist lands later); threat clock +1/phase.
 
@@ -223,13 +232,13 @@ Roll when the clock fills. The severity column applies if this is a *second or l
 - **Phase 1** (clock 0→1). The party distributes labor. **Eleanor** SEARCHes the latest crime scene — Wits 4 + Investigate 2 = 6 dice, 2⚔ → earns 2 soft clues *and* finds a **hard clue**: a yellow silk robe-fiber caught on a nail. **Marcus** QUESTIONS the night-watchman — Empathy 3 + Manipulation 2 = 5 dice, 1⚔ → 1 soft clue (the watchman recalls a theatrical carriage) + a lead to the livery. **Sven** SURVEILs the suspect boarding house — fails the roll, but still gets **1 soft clue** (a hunch: visitors arrive only after midnight). **Mira** WARDS — earns no clues, but holds the clock to +1 (now 1). Pool: **4 soft + 1 hard** (the fiber).
 - They spend 2 soft to buy the **Connection**: "the victims all attended the Castaigne Theatre." Confirmed. (Pool: 2 soft + 1 hard.)
 - **Phase 2** (clock 1→2; Mira wards again, holds to 2). Eleanor **ANALYZEs** the robe-fiber — cross-references theatrical costumers. Success → the fiber traces to Castaigne's private tailor; this *converts* to a second hard clue ("the robe is Castaigne's") + 1 soft. Now they could reach the **Conviction** "Castaigne is the cult leader; the rite is tonight" — cost 4 + the named hard clue. They have 3 soft + 2 hard, but the Conviction needs *4 soft* alongside the hard clue. They are one short.
-- **The push.** The clock is at 2 and rising; Marcus's player doesn't want to spend a Phase 3 earning one more clue. He **pushes the inference**: "It's Castaigne — we raid the theatre tonight." Roll the 1-clue gap: Wits 3 + Investigate 2 = 5 dice vs threshold 2... **fails.** He was wrong — or rather, *premature*. The Wrong Inference table (Mythic Backlash, P4) fires, delayed-reveal: the raid hits an empty theatre (Castaigne anticipated them), and in the dark Marcus glimpses the rite's reflection — gains **1 Corruption** (ties to `workshop/70`). The clock jumps +2 (now 4) as the real rite proceeds elsewhere, and the push **burns** 1 soft clue (the party's theory is now public and muddied). They must race the last two clock segments with a thinner pool — and now they *know* they were wrong, so the true Conviction is still in reach if they earn the final clue fast.
+- **The push.** The clock is at 2 and rising; Marcus's player doesn't want to spend a Phase 3 earning one more clue. He **pushes the inference**: "It's Castaigne — we raid the theatre tonight." Roll the 1-clue gap: Wits 3 + Investigate 2 = 5 dice vs threshold 2... **fails.** He was wrong — or rather, *premature*. The Wrong Inference table (Mythic Backlash, P4) fires, delayed-reveal: the raid hits an empty theatre (Castaigne anticipated them), and in the dark Marcus glimpses the rite's reflection — gains **1 Corruption** (ties to `workshop/07`). The clock jumps +2 (now 4) as the real rite proceeds elsewhere, and the push **burns** 1 soft clue (the party's theory is now public and muddied). They must race the last two clock segments with a thinner pool — and now they *know* they were wrong, so the true Conviction is still in reach if they earn the final clue fast.
 
 **Why this works in noir/cosmic horror:** the **hard/soft split** models the genre's core pleasure — the *specific damning detail* (the fiber, the tailor) is what cracks the case, not generic legwork. The **delayed wrong-inference reveal** produces the noir staple of the bad hunch that costs you. The **harm/Corruption push cost** ties investigation to the doom spiral: *thinking about the mythos hurts*, so pushing an inference is a literal bargain with ruin — exactly the cosmic-horror thesis that *knowledge has a price*. The Threat Clock makes every clue-earning phase a gamble against the summoning, so the push is always tempting and never safe.
 
 **Re-skin for your genre:**
 - **Procedural police drama:** drop the mythic cost; push cost = narrative (wrongful arrest, IA complaint, case closed); clock = the killer strikes again; hard clues = forensic evidence ANALYZE'd by the lab.
 - **Academic conspiracy thriller:** menu = ARCHIVE / INTERVIEW / TRANSLATE / FIELDWORK / CROSS-REFERENCE / SECURE FUNDING; clock = a rival team publishing first; push = a risky public claim that may be retracted.
-- **Monster-hunter (e.g., witch-hunting dark fantasy):** push cost = Corruption (`workshop/70`); RESEARCH reveals the creature's *type* (vulnerabilities); the conviction gates whether you bring the right bane to the fight.
+- **Monster-hunter (e.g., witch-hunting dark fantasy):** push cost = Corruption (`workshop/07`); RESEARCH reveals the creature's *type* (vulnerabilities); the conviction gates whether you bring the right bane to the fight.
 - **Espionage / counterintel:** menu = BUG / TURN / BREAK / TAIL / ANALYZE / RUN COVER; clock = the mole exfiltrates; hard clue = the documented dead-drop; push = acting on thin intel, burning an asset if wrong.
 - **Frontier mystery (Western):** menu = TRACK / ASK / RIDGE-SCOUT / CORRAL-WATCH; clock = the gang rides out at dawn; push = accusing the wrong homesteader (a hanging).

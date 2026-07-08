@@ -51,9 +51,9 @@ This is the file's core abstraction. Every org in both games — a cleared dunge
 
 **FL Faction:** Created through a 9-step sequence: seat → basis of rule → tier → four pillars → practices → legacy → holdings → resources (Treasury/Stores/Labor/Levy/Retainers) → aim → weakness. FL `11-politics-of-the-forbidden-lands.md:189-203`.
 
-**West Business/Property:** Founded by investing **Capital** (1 Capital = $250). A proprietor starts or buys a business from the Business Types Table; a landowner buys property (Homestead Act: $14 for 160 acres). FL `06-life-in-the-old-west.md:27-49`, `:157-186`, `:254-265`.
+**West Business/Property:** Founded by investing **Capital** (1 Capital = $250). A proprietor starts or buys a business from the Business Types Table; a landowner buys property (Homestead Act: $14 for 160 acres). West `06-life-in-the-old-west.md:27-49`, `:157-186`, `:254-265`.
 
-**West Outlaw Band:** Founded by a leader, a hideout, and **3+ outlaws**. The hideout is the founding asset — without it the band has no org status. FL `11-outlaws-of-the-old-west.md:23-34`.
+**West Outlaw Band:** Founded by a leader, a hideout, and **3+ outlaws**. The hideout is the founding asset — without it the band has no org status. West `11-outlaws-of-the-old-west.md:23-34`.
 
 **Generic abstraction — founding:** An org is founded by satisfying a small **founding predicate** (a cleared site / spent Capital / recruited minimum headcount / a seat + a basis of rule). The predicate is a gate: the org is not tracked until it is met. The founding roll (when one is required) carries a **failure tax** that produces a *permanent embedded flaw* — the org is born marked by the conditions of its birth. **Layer:** General (the predicate gate); the founding-flaw roll is Optional (a grit dial — West does not tax business-founding this way).
 
@@ -132,11 +132,11 @@ West runs the same five-beat lifecycle, but at personal/small-org scale and with
 ### Business & Property (West)
 
 **Source instance:**
-- **Cash vs Capital:** Two-currency model. **$250 = 1 Capital.** Cash is adventure currency; Capital is the *illiquid investment* that founds and grows orgs. Capital is gained by starting/investing in a business, buying property, or liquidating. FL `06-life-in-the-old-west.md:11-49`.
-- **Founding:** Proprietor (owns/operates), Employee (works for wage + skill access), or Investor (passive capital for share of profit). Business Types Table: 24 types each with a key ability and prerequisites. FL `06-life-in-the-old-west.md:133-186`.
-- **Functions:** The business's **key ability** is its function. **Property Features** (Barn, Forge, Garden, Library, Oven, Stables) are built improvements — directly analogous to Stronghold functions. **Property Status** (0-8) is a reputation modifier; **Location** (8 types) sets context. FL `06-life-in-the-old-west.md:230-242`, `:254-307`.
-- **Upkeep:** The **season Business Roll** (key ability + help +3 + Competition + Law + relevant aspect). Failure → Business Bonus/Penalty D66; sustained failure → **Going Bust**. Wages paid to employees. FL `08-campaigns-in-the-old-west.md:555-643`, `06-life-in-the-old-west.md:202-210`.
-- **Events:** Business Bonus/Penalty D66, Personal Fortunes D66 at the Turn of the Season. FL `08-campaigns-in-the-old-west.md:631-643`, `:706-742`.
+- **Cash vs Capital:** Two-currency model. **$250 = 1 Capital.** Cash is adventure currency; Capital is the *illiquid investment* that founds and grows orgs. Capital is gained by starting/investing in a business, buying property, or liquidating. West `06-life-in-the-old-west.md:11-49`.
+- **Founding:** Proprietor (owns/operates), Employee (works for wage + skill access), or Investor (passive capital for share of profit). Business Types Table: 24 types each with a key ability and prerequisites. West `06-life-in-the-old-west.md:133-186`.
+- **Functions:** The business's **key ability** is its function. **Property Features** (Barn, Forge, Garden, Library, Oven, Stables) are built improvements — directly analogous to Stronghold functions. **Property Status** (0-8) is a reputation modifier; **Location** (8 types) sets context. West `06-life-in-the-old-west.md:230-242`, `:254-307`.
+- **Upkeep:** The **season Business Roll** (key ability + help +3 + Competition + Law + relevant aspect). Failure → Business Bonus/Penalty D66; sustained failure → **Going Bust**. Wages paid to employees. West `08-campaigns-in-the-old-west.md:555-643`, `06-life-in-the-old-west.md:202-210`.
+- **Events:** Business Bonus/Penalty D66, Personal Fortunes D66 at the Turn of the Season. West `08-campaigns-in-the-old-west.md:631-643`, `:706-742`.
 
 **Generic abstraction:** West's **Capital** is the clean two-currency model of org-ownership: liquid adventure money vs illiquid org-founding money. This is the single best-expressed dial in the whole layer — FL has no equivalent (silver buys everything, functions are paid in materials/labor), which makes FL's base-building more *crafting-driven* and West's more *investment-driven*. **Layer:** General (a Capital-like illiquid currency is recommended for any West-style game); Optional for FL-style crafting-driven games.
 
@@ -254,7 +254,7 @@ Mass Combat is FL's **top rung** — the resolution engine for when org-scale co
 This is the file's second core deliverable. The five-beat lifecycle is *invariant* across rungs; what changes is the **turn scale, currency size, threat radius, and which subsystems are enabled.** Each rung is defined by: **what it owns, what turn it runs on, what it costs, what it threatens, and which subsystem it uses.**
 
 | Rung | Org | Turn scale | Currency | Threatens | Subsystem | FL instance | West instance |
-| --- | --- | --- | --- | --- | --- | --- | — |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | **Solo** | a lone PC | scene | WP / Faith | themselves | core loop | adventurer | gunslinger |
 | **Party** | the fellowship | session/adventure | shared WP, shared pride | a lair, a quest | core loop + journeys | the party | the posse |
 | **Band** | a small roster org | week | pay + provisions + cohesion | a hideout, a score | roster-and-cohesion | Mercenary Band (Skirmishers) | Outlaw Crew / Business |
@@ -333,6 +333,8 @@ Each dial has FL and West as two calibrated points. To build a new game's downti
 6. **If mass combat is enabled (dial 11), reuse the core dice grammar at unit scale and include the logistics layer (dial 12).** Do not invent a new combat system, and do not omit logistics — it is what makes wars feel like wars.
 7. **Choose the town model (dial 10)** to match whether the community is a protagonist (West) or a prize (FL).
 8. **Validate against the adventure layer:** ensure the base→metacurrency link, the Agent bridge (PCs as faction agents), and the CP/XP gate are all wired so the downtime layer *drives* adventure rather than replacing it.
+
+**Period-engine handoff:** this file identifies what kind of org exists, what rung it occupies, and how it fits the scale ladder. When the org must be run across **weeks, months, seasons, years, or generations**, load `25-season-downtime-and-enterprises.md` for the Period Turn, Investment Cycle, Enterprise Roll, business/family/faction/settlement sheets, hard-season rules, and management validation checks. When the task is to price functions, translate stronghold construction into property/Capital, set upkeep/payback, design materials/labor/cost bands, or handle stores, warehouses, provisions, animals, wagons, and bulk materials, load `08-gear-and-economy.md`.
 
 ## 12. Design intent
 

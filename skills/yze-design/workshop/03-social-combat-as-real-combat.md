@@ -214,7 +214,9 @@ Not every social roll should become a scene. Use this procedure to decide when t
 
 When a speaker hits 0 Composure, roll D66. The constituency family is the social context of the scene.
 
-**Court / elite family** (sample — build parallel families for Street / Diplomatic / Professional / Familial):
+Use the family matching the arena. If the arena crosses two contexts, use the family of the audience whose opinion matters most.
+
+**Court / elite family:**
 
 | D66 | Result | Mechanical effect |
 | --- | --- | --- |
@@ -228,7 +230,61 @@ When a speaker hits 0 Composure, roll D66. The constituency family is the social
 | 65 | **Breakdown.** Tears, a confession, a loss of face. | −3 Influence; a Dark Secret may be exposed (GM call); you cannot re-enter the scene. |
 | 66 | **Social destruction.** A ruinous exposure; you are finished in this constituency. | Influence drops to −3 (active hostility) with this constituency; the opponent becomes the constituency's favorite. |
 
-*Other families use the same D66 architecture with re-skinned rows: Street (dissed → marked), Diplomatic (rebuked → recalled), Professional (reprimanded → blacklisted), Familial (scolded → disowned).*
+**Street / underworld family:**
+
+| D66 | Result | Mechanical effect |
+| --- | --- | --- |
+| 11–14 | **Dissed.** You lose the rhythm of the exchange. | Concede the point; −1 Standing with onlookers. |
+| 15–22 | **Shown soft.** You hesitate when the room expected force. | Opponent gains +1 on their next social attack against you. |
+| 23–31 | **Name dragged.** A small insult sticks. | Gain a D6 Rumor against you; it can be spent once as leverage. |
+| 32–41 | **Crew doubts you.** Allies look away or go quiet. | One ally cannot assist you for the rest of the scene. |
+| 42–51 | **Favor owed.** You buy your way out with a promise. | Debt +1 to the opponent or their backer. |
+| 52–61 | **Marked.** The room agrees you can be pushed. | −2 Standing; first hostile act against you this session gains +1. |
+| 62–64 | **Challenge issued.** Words become a demand for proof. | Accept a duel/chase/job or lose another −1 Standing. |
+| 65 | **Public punking.** You are humiliated in front of the people who matter. | Standing drops to −3 with this crowd until you answer it in play. |
+| 66 | **Greenlit.** The room decides you are fair prey. | A rival gains permission to move against you; start a Heat or Threat clock at 2/6. |
+
+**Diplomatic / institutional family:**
+
+| D66 | Result | Mechanical effect |
+| --- | --- | --- |
+| 11–14 | **Corrected.** A procedural mistake weakens your point. | Concede the point; −1 Influence with the institution. |
+| 15–22 | **Rebuked.** The chair, host, or superior cuts you short. | You cannot make another attack until you spend a FAST action to regain the floor. |
+| 23–31 | **Recorded objection.** Your words enter the record badly. | Opponent gains a D6 document/leverage tag. |
+| 32–41 | **Access narrowed.** A door remains open, but only barely. | Future requests here cost +1 Influence or +1 Debt. |
+| 42–51 | **Concession drafted.** You accept formal language you dislike. | Add one binding clause or obligation to the agreement. |
+| 52–61 | **Sponsor embarrassed.** Your patron pays part of the price. | Patron Standing −1; they demand repayment before helping again. |
+| 62–64 | **Recalled / removed.** You are ordered away from the table. | Exit the scene; your side continues without your assistance. |
+| 65 | **Censure.** The institution formally condemns you. | Influence drops by 3; lose access to one institutional function. |
+| 66 | **Black mark.** Your name becomes a warning in the institution. | Influence drops to −3; future entry requires a quest, pardon, or replacement sponsor. |
+
+**Professional / craft family:**
+
+| D66 | Result | Mechanical effect |
+| --- | --- | --- |
+| 11–14 | **Minor correction.** A colleague catches an error. | Concede the point; −1 reputation in the trade. |
+| 15–22 | **Method questioned.** Your competence is doubted. | Next professional roll in this place is at −1 unless you prove yourself. |
+| 23–31 | **Client unsettled.** The work may continue, but confidence drops. | Payment or reward decreases one step. |
+| 32–41 | **Tools withheld.** Someone denies access to workspace or materials. | Need a favor, payment, or alternate workshop to proceed. |
+| 42–51 | **Blame assigned.** You absorb responsibility for a shared failure. | Debt +1 or lose one professional contact until repaired. |
+| 52–61 | **Contract lost.** The job goes to another. | Lose the current opportunity; rival gains +1 reputation. |
+| 62–64 | **Guild warning.** Your peers discuss sanctions. | Start a 4-segment Blacklist clock at 2. |
+| 65 | **Blacklisted.** You are cut out of the trade locally. | Cannot buy, sell, or practice through normal channels here. |
+| 66 | **Ruined name.** Your failure becomes the example everyone cites. | Reputation drops to −3 in this profession until a major public success restores it. |
+
+**Familial / intimate family:**
+
+| D66 | Result | Mechanical effect |
+| --- | --- | --- |
+| 11–14 | **Hurt silence.** Someone withdraws instead of answering. | Concede the point; relationship Standing −1. |
+| 15–22 | **Old wound reopened.** The argument finds history. | Opponent gains +1 on the next intimate or familial appeal. |
+| 23–31 | **Trust thinned.** A promise now sounds uncertain. | Future help from this person requires a concrete assurance. |
+| 32–41 | **Side taken.** Another family/community member is pulled in. | Add a new participant who begins aligned against you. |
+| 42–51 | **Promise extracted.** You agree to repair harm later. | Debt +1; ignoring it worsens Standing by another −1. |
+| 52–61 | **Private shame made visible.** The hurt becomes known. | Lose 2 Standing; gain a D6 Secret/Leverage against you. |
+| 62–64 | **Door closed.** You are sent away or shut out. | Exit the scene; cannot seek recovery here until you make amends. |
+| 65 | **Estrangement.** The relationship breaks for now. | Standing drops to −3; repair requires a dedicated project or sacrifice. |
+| 66 | **Disowned / severed.** A bond is formally cut. | Lose access to this family/community as a Base function until a campaign-scale reconciliation. |
 
 ## 3. The pressure loop
 
@@ -259,6 +315,15 @@ When a speaker hits 0 Composure, roll D66. The constituency family is the social
 - **Requires:** a Composure track per participant; defined leverage; a sense of the social context; an audience (real or implied).
 - **Replaces / extends:** the single social roll.
 - **Cross-refs:** `03 §7–§11`, `17` M6, `04 §5`.
+
+## 5a. Interface
+
+- **Prerequisites:** social skills, stakes, named opposition, consequence layer.
+- **Inputs:** Composure formula, social-distance names, leverage sources, fallout family.
+- **Outputs:** Composure, social actions, leverage dice, social fallout.
+- **Touched systems:** action economy, social, harm, influence, faction.
+- **Replaces or stacks:** replaces single social rolls only when stakes justify a scene; ordinary social rolls remain.
+- **Incompatibilities:** do not combine with another full social-HP system unless Composure is shared.
 
 ## 6. Failure modes & edge cases
 

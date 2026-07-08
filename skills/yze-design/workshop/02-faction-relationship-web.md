@@ -167,6 +167,15 @@ Run this at the end of each session (or season, per the event-frequency dial). I
 - **Replaces / extends:** flat Reputation trackers — adds the relational dimension.
 - **Cross-refs:** `07` (org lifecycle, faction turn), `09` (campaign-state trackers), `12` (faction divergence cluster).
 
+## 5a. Interface
+
+- **Prerequisites:** three or more factions or power centers.
+- **Inputs:** faction list, Bond scale, Debt scale, Standing scale, event cadence.
+- **Outputs:** relationship matrix, propagation rule, relationship events.
+- **Touched systems:** faction/base, reputation, debt, encounters, territory.
+- **Replaces or stacks:** replaces isolated faction ledgers; stacks with Influence as the PC-facing edge.
+- **Incompatibilities:** merge turn procedures if `15-territory-and-domain-play.md` is also active.
+
 ## 6. Failure modes & edge cases
 
 - **Graph explosion.** 7 factions = 21 edges × 2 = 42 numbers. **Fix:** cap at 4–5; abstract minor factions into a regional modifier.

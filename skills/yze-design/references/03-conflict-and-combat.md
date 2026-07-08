@@ -22,7 +22,8 @@
 14. Mounted combat
 15. Divergence rows (FL vs West)
 16. Dials and instantiation recipe
-17. Design intent
+17. Combat validation and resolution checks
+18. Design intent
 
 ## Source provenance
 
@@ -458,7 +459,275 @@ Each dial has FL and West as two calibrated points. To build a new game's confli
 9. **Turn on morale & rout** (dial 19) if NPC combat is frequent; pick the rating model by table-preference.
 10. **Validate the whole against the action-economy math**: with 2 actions/Round and reactions drawn from the budget, a combatant can do at most one decisive thing per Round while defending — confirm that damage, armor, and HP produce fights that last 3–6 Rounds (long enough for tactics, short enough to stay tense).
 
-## 17. Design intent
+## 17. Combat validation and resolution checks
+
+Use this section whenever changing attacks, defenses, damage, armor, cover, reload, reach, reactions, special attacks, duels, morale, or fight-ending states. It is not a separate design chapter; it is the proof harness for this combat chapter and the harm rules in `04-harm-and-consequences.md`.
+
+### 17.1 Combat validation thesis
+
+YZE combat is dangerous because decisive effects sit behind a small action budget, not because every roll is lethal. The engine's combat feel comes from five constraints:
+
+1. **Two actions per Round.** A combatant cannot attack, prepare, reposition, reload, and defend all at once.
+2. **Defense spends the same budget.** DODGE, PARRY, and BLOCK are not free shields; they are future action costs.
+3. **Damage attacks agency.** Harm reduces attributes or their equivalents; Broken removes action unless recovery intervenes.
+4. **Position changes legality.** Range, reach, prone, cover, grapple, and tussle states decide which actions are even possible.
+5. **A bad outcome creates play.** Broken, critical injury, debt of violence, morale, surrender, retreat, or recovery scenes continue the campaign unless the table chose character exit.
+
+A combat change is valid only if it preserves those constraints or deliberately replaces them with an equally strong pressure loop.
+
+### 17.2 Resolution object model
+
+Describe every combat rule with these fields before validating it.
+
+| Field | Question |
+| --- | --- |
+| Trigger | When can this rule be used? |
+| Actor | Who chooses it and who pays for it? |
+| Action cost | SLOW, FAST, both, reaction, full Round, scene, or no action |
+| Roll | Which attribute/skill/ability, gear dice, and modifiers? |
+| Defense | Can it be DODGED, PARRIED, BLOCKED, opposed, soaked, or avoided by position? |
+| Effect | Damage, position, action denial, state change, critical, morale, resource loss |
+| Success menu | What extra successes/stunts buy |
+| Failure | Miss, exposed state, lost action, ammo loss, bad position, counterattack, Trouble, event |
+| Repeat limit | Per Round, scene, target, weapon load, ammo, metacurrency, or no repeat limit |
+| Recovery | How the target exits the state |
+| Integration | Which existing actions, talents, gear features, and harm rules it replaces or stacks with |
+
+If any field is blank, the rule is not ready for publication.
+
+### 17.3 Action economy proof
+
+Both source games use the same chassis: one SLOW action and one FAST action, or two FAST actions, per Round. In FL, DODGE/PARRY are FAST reactive actions that count against that budget; immediate attacks outside the turn are capped at one per Round. In West, BLOCK/DODGE also cost FAST actions, Quick Shot turns a shot into a FAST action at -2, fanning consumes the entire Round, and overwatch requires saving the SLOW action.
+
+**Proof question:** after the new rule is added, how many fight-deciding rolls can an ordinary combatant make in one Round?
+
+| Result | Verdict |
+| --- | --- |
+| 0 decisive rolls | defensive/repositioning Round; valid if chosen |
+| 1 decisive roll | canonical YZE |
+| 2 decisive rolls | high-risk exception; needs cost, penalty, ammo, talent, or full-Round trade |
+| 3+ decisive rolls | usually invalid unless resolving a mook-clearing or vehicle/crew subsystem with shared costs |
+
+**Action-compression warnings:**
+
+| Change | Risk | Required counterweight |
+| --- | --- | --- |
+| SLOW attack becomes FAST | doubles possible attack tempo | -2 penalty, reload/ready cost, ammo drain, cannot Aim, or talent gate |
+| FAST setup becomes free | deletes tactical sequencing | narrower effect, per-scene cap, or replace another FAST action |
+| Reaction becomes free | defense inflation | once/Round cap, resource cost, fixed penalty, or weaker defense effect |
+| Extra attack outside turn | combo abuse | one immediate attack cap, trigger specificity, no chaining |
+| Full-Round action becomes SLOW | lets defense/aim stack with nova | lower damage, no stunts/critical, or exposes actor |
+| Reload/ready removed | ranged dominance | lower damage, scarce ammo, heat/jam, cover counterplay, or short range |
+
+**Pass condition:** no ordinary build should be able to make a high-damage attack, defend at full value, reposition freely, and preserve reload/ready state in the same Round.
+
+### 17.4 Attack and defense checks
+
+Use the source attack pattern:
+
+**Attack pool = governing combat skill/ability + weapon Gear Bonus + situational modifiers + talent/function bonuses.**
+
+Keep ordinary competent attacks in the 5-7 dice band after normal gear. Keep expert or heavily advantaged attacks in the 8-10 dice band. Anything above 10 dice should be momentary, costly, or limited to signature scenes.
+
+Both sources require defense to be declared before the attack roll. Preserve that timing unless changing the whole defense psychology.
+
+| Defense timing | Feel | Risk |
+| --- | --- | --- |
+| before attack roll | commitment under uncertainty; canonical | defender may spend action against a miss |
+| after attack success | tactical safety | too efficient; slows play |
+| after damage known | strong mitigation | often deletes lethality |
+| passive always-on | armor-like | should be priced as armor/cover, not action defense |
+
+FL defense cancels attacker successes. West defense spends successes to remove damage, with an optional counterattack effect. These are related but not identical.
+
+| Defense model | Source anchor | Use when | Watch for |
+| --- | --- | --- | --- |
+| cancel successes | FL DODGE/PARRY | clean hit/no-hit resolution, weapon-type matrix | high-defense whiffs |
+| reduce damage | West BLOCK/DODGE | grittier fights where hits can be blunted | low-damage attacks becoming harmless |
+| defense stunt menu | West counterattack | cinematic back-and-forth | counterattack chains |
+| soak after hit | armor/cover | equipment/terrain protection | stacking too many layers |
+
+**Pass condition:** a defender can meaningfully avoid harm, but cannot negate every attack without exhausting actions, position, armor, cover, or resources.
+
+### 17.5 Damage, armor, cover, and Broken checks
+
+FL uses weapon damage plus extra successes against attributes. West splits physical damage between Shakes and Hurts, and mental damage between Doubts and Vexes; stunts can add damage or trigger critical injuries if the weapon's Crit Rating is met.
+
+**Generic damage proof:**
+
+1. Identify the target's effective endurance pool: attribute value, split-attribute track, stress track, vehicle hull, or similar.
+2. Calculate ordinary hit damage: weapon base + expected extra successes after defense.
+3. Estimate hits-to-Broken: pool divided by ordinary hit damage.
+4. Check recovery: Turn, Shift, hour, camp, town comfort, first aid, doctoring, healing, motivation.
+
+| Hits to Broken | Feel |
+| --- | --- |
+| 1 | lethal/ambush/duel posture; use sparingly |
+| 2 | very dangerous; works for firearms, monsters, or critical scenes |
+| 3-5 | canonical tactical combat band |
+| 6+ | attritional grind; needs morale, objectives, or escalating stakes |
+
+FL armor and cover roll protection dice that reduce damage; armor degrades if damage penetrates and any protection successes were rolled. West cover both penalizes attacks and rolls protection dice. This creates two distinct levers:
+
+| Lever | Effect | Source pole |
+| --- | --- | --- |
+| attack penalty | fewer hits/extra successes | West cover |
+| protection dice | damage reduced after hit | FL armor/cover; West cover |
+| degradation | defense weakens over fight | FL armor |
+| access/action cost | must SEEK COVER or set shield | both via cover/shield actions |
+
+**Pass condition:** if a defense layer both penalizes the attack and soaks damage, it should usually require position, a FAST action, immobility, limited firing lane, degradation, or exposure to flanking.
+
+Broken must be clear: which attribute/track reached zero, what the target can still do, whether critical injury triggers now or only through extra damage/stunts, whether death requires a timer/stabilization or coup de grace, and who can restore action. The first catastrophic outcome should create a rescue/recovery/retreat choice unless the game explicitly chose character exit as part of its tone.
+
+### 17.6 Ranged weapons, reload, aim, and cover checks
+
+FL bows/slings need READY as a FAST action before SHOOT; AIM is FAST and must be same Round, so an ordinary archer cannot READY + AIM + SHOOT without a talent. Crossbows require a SLOW LOAD before each shot but can be carried loaded. West single-action and lever-action firearms need PREPARE as FAST; Quick Shot is FAST at -2; AIM is FAST for +2; reload is two cartridges per FAST action; bows also use PREPARE and lose readiness if doing anything else.
+
+| Weapon posture | Allowed tempo |
+| --- | --- |
+| slow accurate shot | prepare/ready + shoot, or aim + shoot if already ready |
+| fast risky shot | Quick Shot or talent-gated fast shooting with penalty |
+| high-volume shot | full-Round, ammo-emptying, accuracy penalty, weaker critical result |
+| overwatch/brace shot | saved action or narrow lane; lost if damaged or distracted |
+
+**Pass condition:** ranged combat must ask at least one of these questions: Did you prepare? Did you aim? Are you exposed? Do you have ammo? Is there cover? Can they close?
+
+Use West's firearms if range precision matters; use FL's simpler ranged bands for lower-tech games.
+
+| Band | FL modifier | West modifier |
+| --- | --- | --- |
+| Arm's Length, active target | -3 | -3 |
+| Arm's Length, defenseless/unwitting | +3 | +3 |
+| Near | 0 | +1 |
+| Short | -1 | 0 |
+| Medium | — | -1 |
+| Long | -2 | -2 |
+| Distant | -3 and requires AIM | -3 |
+
+Adding a new ranged weapon without range penalties, reload, ammo, or cover interaction usually makes it too clean for YZE.
+
+### 17.7 Reach, stance, and positional-control checks
+
+FL's reach subsystem proves melee can have depth without a grid. Long weapons attack from Near, tax CUT IN, and can BRACE/INTERCEPT. Short weapons must get inside but become dangerous once there. West keeps this lighter and shifts positional emphasis to cover, guns, lasso, tussle, and brace lanes.
+
+If using reach bands, answer:
+
+- What band does the weapon own?
+- What action moves inside/outside that band?
+- What roll and penalty applies against the longer weapon?
+- What penalty applies when the longer weapon is crowded?
+- What reaction punishes entry?
+- Can surprise bypass the reach dance?
+
+**Pass condition:** long reach must be strong before contact and awkward after being closed. Short reach must be weak before entry and dangerous after entry.
+
+Both games make engagement sticky. Prone costs a FAST action to stand and gives attackers +2. Retreat from close combat requires a roll; failure still moves the character but grants a free attack that cannot be defended against.
+
+**Pass condition:** disengaging under pressure should cost an action, a roll, a free attack, or a positional concession. Free disengage makes melee meaningless.
+
+### 17.8 Special attack checks
+
+**Called Strike / Called Shot.** West uses -3 for Called Strikes/Shots. If combined with All-Out/Aim, the bonus is reduced to +1 instead of +2. A successful effect-only called attack deals no damage; a damage called attack fixes critical location if a critical is inflicted. Precision should trade away either dice, damage, speed, or effect breadth.
+
+**Grapple.** FL's GRAPPLE drops both combatants prone, makes the target drop weapons, restricts movement, and shifts the target's options to BREAK FREE. West grapple begins as a stunt, then switches to opposed LABOR, with the initiator at +2 and both treated as prone to outsiders. A grapple should change the governing skill and action menu.
+
+**Burst / fanning / multi-target.** West fanning requires a single-action pistol, at least 4 bullets, both hands, all actions, no Aim, no Called Shot, -2 accuracy, extra -1 per added target, empties the weapon, and weakens critical severity by rolling twice and taking the lesser result. Multi-hit attacks need at least three brakes: full-Round cost, ammo/resource emptying, attack penalty, target cap, weaker critical, no aim/called shot, exposure, or talent gate.
+
+**Overwatch / Intercept.** FL INTERCEPT spends both actions and prevents later defense until the next turn. West overwatch is FAST to assume but requires saving the SLOW attack and is lost if the actor does anything else, is attacked in melee, or suffers damage. Preemptive attacks must reserve action budget and name a trigger or lane.
+
+### 17.9 Morale and fight-ending checks
+
+West explicitly checks morale for ordinary NPCs when leaders fall, half the group is down, the group is outmatched, or terror breaks the line. FL often ends fights through Broken, retreat, manipulation, and monster behavior. The generic lesson is the same: not every fight should be fought to extermination.
+
+| Morale trigger | Typical result |
+| --- | --- |
+| leader Broken/captured/killed | flee, surrender, scatter, freeze |
+| half down/out | retreat or morale roll |
+| clear mismatch | surrender, bargain, run |
+| terrifying display | freeze or rout |
+| objective lost | withdraw to preserve life |
+
+**Pass condition:** ordinary opponents should have a fight-ending procedure before the last body falls. This shortens fights, preserves consequence, and makes violence social.
+
+### 17.10 Threshold table
+
+| Change | Check | Default verdict |
+| --- | --- | --- |
+| +1 die to attack | compare 5->6 dice and 8->9 dice | safe if situational or paid |
+| +2 dice to attack | posture shift | needs FAST setup, Aim/All-Out, cost, or exposure |
+| +3 dice to attack | near-ambush edge | should be surprise, helpless target, rare setup, or strong talent |
+| +1 damage | reduces hits-to-Broken | price as weapon/talent/stunt, not casual bonus |
+| +2 damage | often one-hit threshold | major weapon, monster, spell, or severe cost |
+| free defense | action economy break | reject or cap once/Round with cost |
+| free attack | action economy break | reject or use immediate-attack cap and trigger |
+| SLOW->FAST attack | doubles tempo | require -2, ammo, no Aim, talent, or full trade |
+| reload removed | ranged dominance | add lower damage, scarce ammo, heat, jam, or cover counter |
+| armor + cover stack | high soak | require position/action and watch fight length |
+| persistent combat +1 | broad inflation | talent/gear rank only; avoid property/base sources |
+| consequence immunity | agency without cost | replace with mitigation, delay, or resource spend |
+
+### 17.11 Deterministic proof scenarios
+
+Run these with actual dice probabilities or deterministic expected successes before shipping a combat change.
+
+**Scenario A: competent attacker vs no defense.** Attacker 6 dice, weapon damage 2. Defender 4-point physical pool, no armor. Expected successes: 1. Expected damage on hit: 2 unless extra successes occur. The target should usually require 2 successful hits to Broken, or 1 strong hit with extra successes.
+
+**Scenario B: competent attacker vs active defense.** Attacker 6 dice. Defender 5 dice defense, FAST reaction spent. Defense should materially reduce harm but consume the defender's future options. If the defender can do this for free, the rule fails.
+
+**Scenario C: expert attacker with setup.** Attacker 8 dice +2 Aim/All-Out = 10 dice, weapon damage 2. Target has cover/armor or active defense. Setup should feel dangerous, but should have cost a FAST action, a lane, readiness, or exposure.
+
+**Scenario D: ranged weapon under cover.** Shooter 7 dice. Target has Good Cover (-2 in West) or Cover Rating 4-6. Cover should change behavior: flank, close, aim, suppress, wait, or force movement.
+
+**Scenario E: grapple/control move.** Initiator combat pool 6. Target defense pool 5 or opposed physical pool 5. Success should change position/action menu and create a break-free path.
+
+### 17.12 Combat validation worksheet
+
+Use this exact structure.
+
+- **Rule name:**
+- **Layer:** General / Situational / Optional / Campaign Mode
+- **Source analogue:** FL action / West action / armor / cover / duel / fanning / reach / morale / none
+- **Trigger:**
+- **Actor:**
+- **Action cost:**
+- **Roll:**
+- **Defense:**
+- **Effect:**
+- **Extra successes:**
+- **Failure:**
+- **Repeat limit:**
+- **Recovery:**
+- **Replaces or stacks with:**
+- **Decisive rolls per Round before/after:**
+- **Reaction budget changed?**
+- **Immediate attack cap preserved?**
+- **Reload/ready/aim tax preserved?**
+- **Baseline pool:**
+- **Modified pool:**
+- **P(>=1 success):**
+- **Expected damage/effect:**
+- **Hits-to-Broken:**
+- **Armor/cover interaction:**
+- **Exploit proof:** free attacks, free defenses, reload bypass, Aim/All-Out/Called Shot stacking, action denial without recovery, multi-target without full-Round/resource cost.
+- **Felt proof:** what choice it sharpens, what behavior it rewards, what the target can do next, whether the worst case creates play.
+- **Verdict:** Ship / Ship with cap / Revise cost / Revise defense / Revise damage / Reject
+
+### 17.13 Design recipe
+
+1. **Name the combat problem.** More dangerous guns, deeper melee, faster duels, scarier monsters, better cover, cinematic mook clearing, etc.
+2. **Pick the source analogue.** Use FL reach/stance if the problem is melee positioning; West cover/reload/duel if it is gunplay; armor/Broken if it is lethality.
+3. **Write the resolution object.**
+4. **Prove the action budget.** Count attacks, reactions, setup, reload, movement, defense.
+5. **Prove the damage curve.** Hits-to-Broken for competent and expert attackers.
+6. **Prove counterplay.** Defense, cover, range, morale, retreat, recovery, or resource depletion.
+7. **Classify the layer.** General combat changes have the highest burden; Optional set pieces can be more elaborate.
+8. **Write player-facing prose.** Use `20` and `21`; actions are bold ALL-CAPS paragraphs, not unexplained framework notes.
+9. **Run the worksheet.**
+
+**Final acceptance test:** after adding the rule, an ordinary combatant still faces a meaningful Round choice between attack, setup, movement, defense, reload/ready, and recovery.
+
+## 18. Design intent
 
 The conflict engine is engineered to make **combat a sequence of trade-offs, not a slugfest.** Specifically:
 

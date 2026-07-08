@@ -90,7 +90,7 @@ Each Round, every participant (PC or NPC) picks **one** chase job from a fixed m
 
 When a graded SHOOT/RAM/FORCE succeeds, or when NAVIGATE forces a wrong turn, the target makes a **Hazard roll** — the chase's equivalent of a damage roll. A Hazard is resolved as a **typed D66** (P4) consequence, but the *families* are chase-specific: a small table per hazard source the genre cares about. The `65`/`66` climax rows are "forced stop / catastrophic wreck" — the chase-ending outcomes that function like a Broken result. Hazards are the *cost* the track position does not already capture: you can be winning on position and still lose a tire. The family count is a density dial (`17` M3): two families for a pulp chase, four to six (add Environmental, Pursuit-stress, Pedestrian) for a tactical one.
 
-**Sample Hazard table (two families, genre-skinnable — build parallel families for Environmental / Pursuit-stress / Pedestrian as density requires):**
+**Hazard table (two complete default families):**
 
 | D66 | **Collision** (terrain/traffic/impact) | **Mechanical** (the machine failing) |
 | --- | --- | --- |
@@ -101,6 +101,8 @@ When a graded SHOOT/RAM/FORCE succeeds, or when NAVIGATE forces a wrong turn, th
 | 55–64 | Wreck against obstacle; forced stop unless REPAIR (slow) | Overheat/leak; resource die auto-steps |
 | 65 | Rollover; vehicle out, occupants roll harm (`04`) | Catastrophic failure; vehicle out |
 | 66 | Fatal crash / into the river; scene ends | Engine seizes / explodes; scene ends |
+
+**Family generator for higher-density games:** add Environmental, Pursuit-stress, or Pedestrian families by preserving the same severity bands. Rows 11-22 impose a next-roll penalty; 23-34 cost one shift; 35-44 cost one shift plus a resource step; 45-54 cost two shifts or a scene-long penalty; 55-64 threaten forced stop unless answered; 65 disables the vehicle/runner; 66 ends the chase or changes the scene into rescue/aftermath. The noun changes by family, but the severity spine stays fixed.
 
 This is P4 doing for the chase exactly what it does for combat crits (`04 §5`) and magic mishaps (`05 §7`): turning a generic "you take damage" into a *specific, memorable* breakage. A "tire shredded" is a story beat; "−1 DRIVE" alone is not.
 
@@ -151,6 +153,15 @@ This is the engine's standard conflict spine (`03 §7`), re-skinned: the menu is
 - **Requires:** a track (5 rungs); a defined menu; a closing condition (what counts as Caught / Escape); resource dice per participant; a Hazard table (typed D66, P4) — small, 2–4 families keyed to the genre's hazard sources.
 - **Replaces / extends:** the single opposed Driving/Running roll (`03 §11`) — adds the tactical layer when stakes warrant. Does *not* replace combat; it *feeds* combat when position hits Caught.
 - **Cross-refs:** `03 §5,§7,§11` (positioning, action economy, single-roll conflict), `06 §5` (the activity menu, P6's home), `04 §5` (typed D66, here as Hazards), `17` M2/M4/M6 (cost type, menu breadth, success-ladder calibration), `18` Worked 5 (the starship-bridge precedent for P6→combat transfer).
+
+## 5a. Interface
+
+- **Prerequisites:** movement skill, conflict rounds, position or range concept.
+- **Inputs:** chase track length, movement skills, hazard families, resource dice.
+- **Outputs:** position track, chase actions, hazards, fuel/stamina pressure.
+- **Touched systems:** conflict, travel, gear, harm, heat.
+- **Replaces or stacks:** replaces single-roll pursuit for set pieces; stacks with vehicle rules only by sharing resource dice.
+- **Incompatibilities:** if `12-vehicles-and-crews.md` is active, use its station actions for crewed vehicles and this module for the pursuit track/hazards.
 
 ## 6. Failure modes & edge cases
 

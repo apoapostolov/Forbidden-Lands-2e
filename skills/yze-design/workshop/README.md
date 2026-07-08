@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD013 -->
 
-# Workshop — Aagnostic Subsystem Library
+# Workshop — Agnostic Modular Extension Framework
 
 > **STATUS: ACTIVE.** This is the skill's generative **workbench** — a growing library of ready-to-use, engine-agnostic subsystems built by applying the Reinvention Method (`references/18-reinvention-method.md`) to the primitives in `references/16-mechanical-primitives.md`. Each module is a *new* mechanic (not a documentation of an existing one) — invented by transplanting proven patterns into fresh domains, calibrated for a target psychology, and stress-validated against the pipeline in `references/13-balance-and-synergy.md` and the felt-experience checks in `references/19-player-psychology-and-felt-experience.md`.
 
@@ -14,6 +14,20 @@ Every workshop module is:
 - **Genre-agnostic in its core.** Each module's bulk is the generic design space — the mechanism, its dials, its pressure loop, its failure modes. A genre example shows it *in use*, but the mechanism does not depend on the genre.
 - **Pre-validated.** Each module carries the Reinvention recipe (which operator, which primitives, what calibration), so a designer can see *how it was built* and adjust it rather than treat it as a black box.
 - **Drop-in.** Each module specifies its integration points (which engine systems it touches, what it requires, what it replaces) so a designer can install it without breaking the rest of the game.
+
+## Quality bar
+
+A workshop module is complete only when it includes:
+
+- A runnable procedure that a GM can use at the table.
+- A dial table with at least two calibrated settings.
+- An interface: prerequisites, inputs required from the host game, outputs the module creates, and systems touched.
+- Integration notes, incompatibilities, and replace/stack rules.
+- Failure modes and validation notes using `13`, `19`, and `24`.
+- At least one worked genre example.
+- Publication-ready rule text or a rule-text template.
+
+If a module provides a generator instead of full tables, the generator must be explicit enough to produce the table without designer invention.
 
 ## How to use a module
 
@@ -39,7 +53,7 @@ Apply the **Reinvention Ladder** from `SKILL.md`:
 
 ## Module index
 
-> Each module is a single `.md` file, numbered `01-` through `07-`. Each follows the structure in `00-module-template.md`: a genre-agnostic **generic design space** (§2, the bulk) including a **NEW CONCEPTS** subsection (§2b) flagging every mechanism that extends the core engine, and a **Mechanical reference** subsection (§2c) with the actual runnable tables, formulas, and procedures — followed by one **worked genre example** (§8).
+> Each module is a single `.md` file, numbered `01-` through `19-`. Each follows the structure in `00-module-template.md`: a genre-agnostic **generic design space** (§2, the bulk) including a **NEW CONCEPTS** subsection (§2b) flagging every mechanism that extends the core engine, a **Mechanical reference** subsection (§2c) with runnable procedures, and an **Interface** section that states prerequisites, inputs, outputs, touched systems, incompatibilities, and replace/stack rules.
 
 - `01-influence-and-political-power.md` — Political capital as a spendable, *decaying* pool with scandals as the bane-equivalent. *Worked example: Renaissance Florence.*
 - `02-faction-relationship-web.md` — A multi-faction relationship graph with a propagation rule: helping one faction shifts standing with its allies and enemies. *Worked example: post-apoc warlords.*
@@ -50,6 +64,23 @@ Apply the **Reinvention Ladder** from `SKILL.md`:
 - `07-corruption-and-taint.md` — A corruption spiral: forbidden power refuels you but grows a doom die up a 5-tier ladder; full milestone D66 tables and an atonement procedure. *Worked example: witch-hunting dark fantasy.*
 - `08-spell-systems.md` — A catalog of 12 magic-system archetypes (Vancian/book, spell-as-skill, path/talent, psionic, folk/hedge, pact/summoning, divine/faith, verb-noun/free-form, item/relic, blood/sacrifice, rune/glyph, channeling/possession), each built engine-natively from the power layer + the primitives. The system-level typology that sits *above* individual spell design.
 - `09-spell-forging.md` — Player-authored power design as a downtime project: a multi-day forging roll whose surplus ⚔ buy spell qualities from a player-authored Success Menu. Ships the rank/scope benchmarks, quality-cost table, the 10-check balance test, and reforging. *Worked example: high fantasy.*
+- `10-stress-fear-and-trauma.md` — Stress, fear, panic, trauma scars, and recovery.
+- `11-heat-wanted-and-exposure.md` — Law, surveillance, corporate attention, monster attention, and other escalating exposure.
+- `12-vehicles-and-crews.md` — Ships, starships, caravans, mechs, trains, and other crewed vehicles.
+- `13-rituals-projects-and-research.md` — Long-form projects: rituals, inventions, research, repairs, expeditions.
+- `14-reputation-renown-and-legend.md` — Public identity, fame, infamy, rumor propagation, and legend growth.
+- `15-territory-and-domain-play.md` — Turf, settlements, regional control, faction pressure, and seasonal turns.
+- `16-companions-bonds-and-community.md` — Companions, dependents, patrons, party bonds, crew morale, and community strain.
+- `17-monsters-threats-and-boss-architecture.md` — Boss/threat design from clocks, phases, tells, lairs, and consequence payloads.
+- `18-mystery-conspiracy-and-revelation.md` — Conspiracy webs, revelations, clue reliability, and mystery pressure.
+- `19-genre-signature-conflicts.md` — Duels, debates, trials, raids, dogfights, ritual contests, and other set-piece conflict scripts.
+
+## Composition guidance
+
+- **Clean combinations:** Influence + Debt; Faction Web + Reputation; Heat + Chase; Vehicles + Crew Bonds; Rituals + Mystery; Monsters + Territory.
+- **Requires shared caps:** Corruption + Spell Forging; Heat + Faction Web; Reputation + Influence; Stress + Powers; Vehicles + Boss Architecture.
+- **Potential conflicts:** Social Combat plus ordinary social rolls can over-mechanize conversation; Clue Economy plus Mystery Web can double-charge for information; Territory plus Faction Web can duplicate faction-turn bookkeeping.
+- **Default cap rule:** if two modules create the same kind of spendable pool, either merge them into one pool or make one a clock; do not let both independently refuel the same action.
 
 ## Module template
 

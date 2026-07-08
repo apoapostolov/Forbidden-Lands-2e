@@ -103,6 +103,8 @@ FL `02-your-adventurer.md:499-550`; West `02-your-player-character.md:89-103`.
 
 **Generic abstraction:** the "primary physical attribute × 2" carry limit, heavy/light/tiny tiers, the over-encumbrance Endurance tax, and mount-carrying are the transferable core. **Resource Dice for consumables** is a strongly-recommended optional module — it turns bookkeeping into a single die roll and naturally produces "running out" moments. **Layer:** General (the carry model); Resource Dice Optional.
 
+**Deep inventory handoff:** this file only owns the character-sheet part of encumbrance. When designing containers, pack animals, wagons, boats, stockpiles, storage functions, group Provisions, access costs, or the personal-inventory-to-enterprise-stores boundary, load `08-gear-and-economy.md`.
+
 ## 8. Character generation: kin/archetype vs lifepath
 
 **Both games offer TWO generation methods — one fast, one deep — and both tune the fast method to a genre-specific identity selector:**
@@ -151,7 +153,7 @@ To build the character model for a new YZE game:
 4. **Set the attribute range + ceiling** (e.g. 2–4 or 1–5) and the creation point budget by "age" or equivalent.
 5. **Pick the protected-dial model** (die-narrow / currency-broad / hybrid) and its identity load (a note vs a belief sentence). Wire it to the push-cost model chosen in `00-engine-core.md` §11.
 6. **Set the social anchor:** relationships + primary bond + home settlement minimum; add Big Dream + Compadres if desired.
-7. **Port the encumbrance model** (primary physical attribute × 2 + heavy/light/tiny + over-encumbrance tax). Adopt **Resource Dice** for consumables.
+7. **Port the encumbrance model** (primary physical attribute × 2 + heavy/light/tiny + over-encumbrance tax). Adopt **Resource Dice** for consumables, then load `26` if inventory pressure matters beyond personal rows.
 8. **Choose the identity selector** for fast gen (the genre's primary social/biological sorter).
 9. **Ship both fast and deep generation.** Make age (or equivalent) a sub-dial trading attributes for skills/talents.
 10. **(Optional) Add a Group Concept layer** for party-binding at session zero.

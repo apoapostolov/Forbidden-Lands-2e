@@ -133,6 +133,15 @@ Roll once per public, witnessed act that builds your name (the GM calls for the 
 - **Replaces / extends:** flat Reputation modifiers — a dynamic pool with a maintenance cost instead of a static +1.
 - **Cross-refs:** `00 §7` (metacurrency), `17` M1 (refuel psychology), `09` (settlement/faction standing).
 
+## 5a. Interface
+
+- **Prerequisites:** persistent constituencies, social access, and downtime or scene boundaries.
+- **Inputs:** constituency list, Influence cap, decay cadence, public-act triggers, scandal family.
+- **Outputs:** Influence pools, spend menu, decay procedure, scandal events.
+- **Touched systems:** social conflict, faction/base, GM encounters, reputation.
+- **Replaces or stacks:** replaces generic reputation bonuses; stacks with Debt only when Influence buys access and Debt records obligation.
+- **Incompatibilities:** merge with Reputation/Renown if both track the same public audience.
+
 ## 6. Failure modes & edge cases
 
 - **Influence-as-bribe-currency.** If spendable to bypass every obstacle, it trivializes other loops. **Fix:** Influence only works *within its constituency* and only for asks *within the NPC's power/values.* (`13 §5.5` action-economy abuse.)

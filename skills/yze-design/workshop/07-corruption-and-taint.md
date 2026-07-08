@@ -228,6 +228,15 @@ A normal resource die (P5) steps *down* — you have a long way to fall (D12→D
 - **Replaces / extends:** any flat "corruption point" tally — replaces it with a step-die that inherits P5's proven curve and P10's escalation logic.
 - **Cross-refs:** `05 §7` (magic mishaps — a sibling one-shot cost; this is the *chronic* cost), `04 §5` (typed D66, here as Corruption Milestones), `18 §6` Worked 4 (the Doom dial this extends), `16` P5/P10/P4/P2.
 
+## 5a. Interface
+
+- **Prerequisites:** forbidden power, contamination source, or moral/supernatural taboo.
+- **Inputs:** step-up trigger, refuel benefit, milestone family, atonement procedure.
+- **Outputs:** Corruption die, tells, milestone fallout, atonement project.
+- **Touched systems:** powers, recovery, social, harm, advancement.
+- **Replaces or stacks:** replaces generic corruption/sanity doom tracks; stacks with Stress only if Stress is immediate fear and Corruption is long transformation.
+- **Incompatibilities:** if another doom die exists, merge ladders or split triggers clearly.
+
 ## 6. Failure modes & edge cases
 
 - **"Players never use the forbidden power" (the wasted-subsystem failure).** If the temptation isn't real, players rationally stay clean and the whole module never triggers — the designer built a spiral no one enters. **Fix:** the *refuel* (P2) must be substantial and must answer a *real* need — make legitimate alternatives scarce or costly in the genre's pressure loops (a fight you can't win cleanly; a metacurrency pool that runs dry). The corruption must be the *easy* answer to a *hard* problem, not a marginal option. Tune the refuel amount up if the power goes unused.

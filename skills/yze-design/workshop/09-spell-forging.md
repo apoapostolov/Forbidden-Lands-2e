@@ -250,6 +250,15 @@ The forging procedure above assumes the **Path/Talent archetype** (`08` #3, FL's
 - **Replaces / extends:** FL's forging appendix — this module generalizes it and wires it to the Success Menu. A game using FL's forging verbatim does not need this module; a game building its own power layer from `05` uses this to add player-authored spells safely.
 - **Cross-refs:** `00 §4` (Success Menu — the spine); `05` (power layer — the host system); `16` P1/P3/P4/P6/P8 (the composed primitives); `17` (investment/authorship psychology); `13 §8` (validation pipeline); `19` FE1/FE4 (false-choice and agency-collapse — the two failures the menu + reforging are engineered against).
 
+## 5a. Interface
+
+- **Prerequisites:** power layer, rank/scope scale, downtime cadence.
+- **Inputs:** forging skill, project cadence, quality menu, mishap trigger, learning cost.
+- **Outputs:** forged spell template, banked successes, quality costs, RISKY tag, reforging procedure.
+- **Touched systems:** powers, progression, downtime, harm, corruption, crafting.
+- **Replaces or stacks:** replaces freeform spell invention; stacks with `13-rituals-projects-and-research.md` only by treating spells as this module's special case.
+- **Incompatibilities:** do not allow reforging plus uncapped empowerment plus no mishap; that creates signature-spell dominance.
+
 ## 6. Failure modes & edge cases
 
 - **"The spell solves everything" (the One-Spell Problem, check 2).** If a forged spell is always the right answer, it makes every other spell wrong — the caster's loadout collapses to one über-tool. **Fix:** the 10-check's One-Spell Problem check is the explicit gate; if the spell answers too many situations, narrow its target, add a hard limit, or raise its rank. The quality-cost table's high prices for "second major effect" (3 ⚔ + rank raise) and "permanent" (3 ⚔ + RISKY) are the upfront brakes. (`19` FE1 — false choice: a spell that is always right is not a choice.)

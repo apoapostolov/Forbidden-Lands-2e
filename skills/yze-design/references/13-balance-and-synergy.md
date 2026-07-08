@@ -359,7 +359,7 @@ Map the lens results to the audit verdict classes (`realism-audit-synergy-and-ch
 
 ## 8. The full validation pipeline (intent → math → exploit → synergy → table → verdict)
 
-This is the file's **key deliverable** — the end-to-end checklist any new rule passes through. It is the "validate a new rule" half of `14-recipes-new-game-new-rule.md` (Recipe B), restated here with the executable detail. Run the stages in order; a fail at any stage loops back to redesign at that stage.
+This is the file's **key deliverable** — the end-to-end checklist any new rule passes through. It is the "validate a new rule" half of `14-recipes-new-game-new-rule.md` (Recipe B), restated here with the executable detail. Run the stages in order; a fail at any stage loops back to redesign at that stage. For agent-run validation, use `24-validation-worksheets.md` as the form layer for Stages 1-4 and report in `24 §9` format.
 
 ### Stage 0 — Intent & source check (gate)
 - **What pressure / decision / loop does this rule serve?** If none, **reject** (subsystem inflation — one of the six forbidden anti-patterns). (`realism-audit-synergy-and-change-scenarios.md:92-99`.)
@@ -370,6 +370,7 @@ This is the file's **key deliverable** — the end-to-end checklist any new rule
 - Run §3. Compute the rule's effect on expected successes (does it change `p`, grant successes, add dice?). Recompute the §3.3/3.4 tables against the new values.
 - Run §4. Compute the breakpoint shift: does it move a typical pool across the 50% / 80% competence line? Is the shift gated?
 - Check the §3.7 sensitivity cases: per-die-rate shift, auto-success, action-cost change, recovery compression.
+- Fill `24 §1` and use the threshold warnings there for +1 die, +2 dice, auto-success, target-number shifts, and rerolls.
 
 ### Stage 2 — Exploit
 - Run §5. Tag the rule's mechanism (`new-content-screener.md:122-172`) and cross-reference the danger zones. Run the §5.9 pattern match. Run the §6 Step 8 red-flag keyword scan.
@@ -381,6 +382,7 @@ This is the file's **key deliverable** — the end-to-end checklist any new rule
 
 ### Stage 4 — Table
 - Run the §7 lenses. Score each OK/Caution/Fail. Pay special attention to: ambiguity (does it *say* replace-or-stack?), recoverability/permanence (is the worst case playable?), and GM burden (another timer?).
+- Fill `24 §6` and `24 §7`. A General rule that adds multiple persistent states is a Caution unless it is the game's signature mechanic.
 
 ### Stage 5 — Layer & voice
 - Classify the rule **General / Situational / Optional** and tag it.

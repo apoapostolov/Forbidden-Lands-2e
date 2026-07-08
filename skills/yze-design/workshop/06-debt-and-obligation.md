@@ -207,10 +207,19 @@ When a PC's Debt reaches **10**, they are **maxed out** — the "Broken" of this
 
 ## 5. Integration points
 
-- **Hooks into:** the **faction relationship web** (`workshop/20`) — a faction-to-faction or faction-to-PC Debt on that module's edge is *this* module's Debt at org scale; calling it is how the web exerts force (the warlord example in `20 §8` is a called debt). Hooks into **Influence** (`workshop/10`) — a called debt can be bought off by spending Influence with the creditor (or, inverted, *refusing* a called debt costs Influence via the scandal mechanic). Hooks into the **org layer** (`07`) — an org's upkeep obligation (P7) is a standing Debt the org owes its sponsors. Hooks into the **economy** (`08`) — West's loans become the *financial* debt type, with interest modeled as slow accrual (+1 Debt/season the loan is outstanding) rather than a separate balance sheet.
+- **Hooks into:** the **faction relationship web** (`workshop/02`) — a faction-to-faction or faction-to-PC Debt on that module's edge is *this* module's Debt at org scale; calling it is how the web exerts force (the warlord example in `02 §8` is a called debt). Hooks into **Influence** (`workshop/01`) — a called debt can be bought off by spending Influence with the creditor (or, inverted, *refusing* a called debt costs Influence via the scandal mechanic). Hooks into the **org layer** (`07`) — an org's upkeep obligation (P7) is a standing Debt the org owes its sponsors. Hooks into the **economy** (`08`) — West's loans become the *financial* debt type, with interest modeled as slow accrual (+1 Debt/season the loan is outstanding) rather than a separate balance sheet.
 - **Requires:** named **creditors** (who you owe), a sense of the **downtime cadence** (when calling/accrual fires), and agreement on which debt types are in play.
 - **Replaces / extends:** flat "you owe me a favor" fiction — adds a trackable, callable pressure. Replaces West's standalone loan rules with the unified track (a loan is just financial Debt).
 - **Cross-refs:** `00 §7` (P2 metacurrency, here inverted), `04 §5` + `16` P4 (typed D66, here as the Demand table), `16` P5 (optional resource-die granularity), `18 §4` Operator 2 (Inversion) + Operator 1 (Domain Transfer), `17` M1 (the refuel psychology being inverted).
+
+## 5a. Interface
+
+- **Prerequisites:** creditors, patrons, factions, or supernatural claimants.
+- **Inputs:** Debt scale, favor menu, call thresholds, repayment actions.
+- **Outputs:** Debt track, called-debt procedure, breach consequences.
+- **Touched systems:** economy, social, powers, faction, GM.
+- **Replaces or stacks:** replaces informal favors; stacks with Influence when Influence gets the favor and Debt records the cost.
+- **Incompatibilities:** merge with Pact or Oath mechanics if the same patron relationship fuels power.
 
 ## 6. Failure modes & edge cases
 

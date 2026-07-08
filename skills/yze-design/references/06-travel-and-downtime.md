@@ -180,6 +180,8 @@ The food layer is wired into the **recovery economy** too: during a short break 
 
 **Design knobs:** (1) **recovery currency** — supply-dice (FL) vs condition-clear (West) vs attribute-regen; (2) **bare-ground / no-camp penalty** — Optional pressure; (3) **formal downtime menu** (FL's settlement menu) — a strong, transferable structure that mirrors the travel menu; (4) **profession-scale downtime** (West's hunt economics) — for games where the character's *job* is the campaign. **Layer:** REST/SLEEP as recovery gate = **General**; the resource-die recovery loop = **Optional**; the settlement downtime menu = **General** (highly transferable); TRAIN/CRAFT/REPAIR = **General** menu rows.
 
+**Period-downtime handoff:** this file owns block-scale downtime: Quarter Days, Shifts, settlement activities, short work, recovery, and travel-adjacent jobs. When downtime becomes management across **weeks, months, seasons, years, or generations** — businesses, families, factions, settlements, routes, banks, herds, mines, or hard winters — hand off to `25-season-downtime-and-enterprises.md`. The two layers should connect cleanly: a week of CRAFT/REPAIR/TRAIN from this file can become a project tick, +1 die, a cleared flaw, or a prepared investment in `25`.
+
 ## 11. Divergence rows (FL vs West)
 
 | Decision | FL option | West option | Trade-off | When to choose |

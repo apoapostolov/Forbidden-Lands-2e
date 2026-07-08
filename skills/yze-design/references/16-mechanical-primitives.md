@@ -10,9 +10,10 @@
 2. Abstraction target
 3. What is a "primitive"?
 4. The primitive catalog (P1–P15)
-5. How primitives compose
-6. Invariant spine vs. composable surface
-7. Design intent
+5. Advanced compositions (AC1-AC12)
+6. How primitives compose
+7. Invariant spine vs. composable surface
+8. Design intent
 
 ## Source provenance
 
@@ -223,7 +224,28 @@ Each entry: **Name** · **One-line definition** · **Core tension it creates** �
 
 ---
 
-## 5. How primitives compose
+## 5. Advanced compositions (AC1-AC12)
+
+These are not new core primitives. They are repeatable 2-3 primitive fusions that occur often enough in new-game design that an agent should recognize them by name. Use them after choosing a core primitive, not before.
+
+| ID | Composition | Shape test | Use when | Do not use when | Parameters | Math/tempo notes | Example transplants |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **AC1** | Clocks/fronts | A threat advances in visible segments | Time pressure matters more than exact distance | The threat should be random, not telegraphed | Segment count, tick trigger, reveal level | 4-6 segments for scenes, 8-12 for arcs | monster hunt, siege, scandal, storm |
+| **AC2** | Relationship edges | The important state is between entities | Factions, patrons, crews, families matter | Only one reputation score matters | Edge scale, propagation, decay | Propagation should round toward zero | faction bonds, party trust, patron favor |
+| **AC3** | Revelation ladder | Information unlocks in ordered layers | Mysteries must progress under failed rolls | Players can solve by free conversation alone | clue cost, inference risk, false lead cost | Never gate mandatory progress behind one roll | conspiracies, research, ruins, diagnosis |
+| **AC4** | Stance track | Current posture changes legal actions | Tactics hinge on aggression/caution/cover | It only adds a passive bonus | stance count, switch cost, lock triggers | Switching as FAST is strong; free switching is suspect | duel guard, stealth exposure, social posture |
+| **AC5** | Heat/wanted pressure | Attention rises from risky action | Crime, rebellion, surveillance, monster scent | Consequences should be immediate only | cap, tick trigger, cooldown, thresholds | Heat should rise on success too | law attention, corp trace, divine wrath |
+| **AC6** | Vow/oath engine | A promise grants power and creates debt | Identity and obligation should bind mechanics | The promise is pure flavor | vow scope, breach trigger, atonement | Breach must cost play, not only narration | paladin oath, crew code, revolutionary cell |
+| **AC7** | Crew-role menu | A group asset needs simultaneous jobs | Ships, mechs, squads, heists, rituals | One specialist should own the scene | station list, unfilled-slot cost | No PC should cover two critical roles for free | bridge crew, siege team, surgery team |
+| **AC8** | Vehicle-as-character | A machine has stats, harm, upkeep, growth | Vehicle is a co-star | It is only transport | attributes, criticals, stations, repair | Damage must route back to crew/base | starship, mech, caravan, train |
+| **AC9** | Territory control | Map regions have pressure and ownership | Turf, domains, fronts, patrols matter | Location is only backdrop | region stats, turn length, contest action | Seasonal turns prevent bookkeeping flood | gang turf, kingdom, wasteland route |
+| **AC10** | Rumor economy | Public story spreads and mutates | Fame, fear, myths, propaganda matter | Private reputation is enough | rumor die, spread trigger, distortion table | Snowballing needs decay or backlash | outlaw legend, saint cult, celebrity |
+| **AC11** | Reputation propagation | One act affects connected groups | Social web should feel alive | Factions are isolated quest boards | bond scale, propagation formula, caps | Cap propagated shifts below direct shifts | politics, trade guilds, clans |
+| **AC12** | Ritual/project track | A long task accumulates progress and risk | Invention, research, magic, repair need scenes | A single roll is enough | threshold, roll cadence, mishap trigger | Too many rolls floods metacurrency | spell forging, cure research, fortress build |
+
+Each composition should still cite its core primitive parents. Example: Heat/wanted pressure is usually P2 inverted + P4 threshold fallout + AC1 clock behavior.
+
+## 6. How primitives compose
 
 Primitives are not meant to be used in isolation. The engine's systems are *compositions*:
 
@@ -235,7 +257,7 @@ Primitives are not meant to be used in isolation. The engine's systems are *comp
 
 **The composition move is the core of `18-reinvention-method.md`.** A "new system" is usually a new composition of existing primitives — not a new primitive. Before inventing a mechanism from scratch, scan this catalog and ask: *which composition of P1–P15 already does what I need?*
 
-## 6. Invariant spine vs. composable surface
+## 7. Invariant spine vs. composable surface
 
 The Divergence Map (`12 §12`) established that the engine is an **invariant spine + 5 dials**. This file reframes that finding for the *generative* layer:
 
@@ -244,7 +266,7 @@ The Divergence Map (`12 §12`) established that the engine is an **invariant spi
 
 **The genius-level move** (the subject of `18`) is recognizing that a primitive's *home system* is arbitrary. P4 (typed D66 tables) lives in "harm" in both books — but it works identically for *social* consequences, *research* backfires, *pilot* mishaps, *ritual* fallout. P6 (activity menu) lives in "travel" — but it powers *heist planning*, *starship crew actions*, *siege operations*. The primitive doesn't care what nouns you paste on it. **This is the engine's deepest kind of reuse, and it is what `17` and `18` are about.**
 
-## 7. Design intent
+## 8. Design intent
 
 This file exists because the engine systems (`00`–`15`), for all their completeness, answer the wrong first question for a *designer*. Those files say "here is the engine; configure it." A designer's actual first question is "what do I have to build with?" Without a named palette of proven-portable patterns, a designer (especially an AI) will either (a) reinvent primitive mechanics badly from scratch, or (b) copy a whole system verbatim when only one of its primitives was needed.
 
@@ -253,4 +275,4 @@ The primitives catalog solves both failure modes:
 - **It prevents reinvention.** "I need a way to track dwindling sanity" → reach for P5 (resource die), don't invent a new track. "I need ship combat to feel different from melee" → reach for P8 (feature grammar) with new tags, don't write a new combat system.
 - **It prevents over-cloning.** "I want magic in my sci-fi game" → reach for P4 (typed D66 tables, the mishap pattern) + P2 (metacurrency fuel), *not* the whole FL magic chapter. The primitive is the *transferable unit*, not the system.
 
-The 15 primitives below are not exhaustive — they are the ones the two source games *prove* port. A designer who internalizes this catalog and then applies `18`'s composition method can generate novel mechanics that nonetheless inherit the engine's hard-won balance and feel — which is what "genius-level designer, but reproducible" means.
+The 15 primitives below are not exhaustive — they are the ones the two source games *prove* port. The advanced compositions are the next layer up: common fusions that let an agent build genre-specific systems without inventing a parallel engine. A designer who internalizes both layers and then applies `18`'s composition method can generate novel mechanics that nonetheless inherit the engine's hard-won balance and feel — which is what "genius-level designer, but reproducible" means.

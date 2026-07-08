@@ -2,13 +2,13 @@
 
 # Recipes — New Game, New Rule
 
-> **STATUS: FILLED (Pass-2).** This is the SYNTHESIS file that makes the skill actionable end-to-end. Two cookbooks: Recipe A builds a new YZE game for any genre; Recipe B designs and validates a single new rule or subsystem. Both are step lists whose every step cites the reference file that owns the deep detail — this file owns the *go build one*, the siblings own the *how each system works*. Read alongside `10-design-philosophy.md` (the gate every step's output must pass) and `13-balance-and-synergy.md` (the validation engine both recipes end in).
+> **STATUS: FILLED (Pass-2, upgraded to complete-game package).** This is the SYNTHESIS file that makes the skill actionable end-to-end. Two cookbooks: Recipe A builds a complete YZE game package for any genre; Recipe B designs and validates a single new rule or subsystem. Both are step lists whose every step cites the reference file that owns the deep detail — this file owns the *go build one*, the siblings own the *how each system works*. Read alongside `22-design-orchestrator.md` (routing and deliverables), `10-design-philosophy.md` (the gate every step's output must pass), and `13-balance-and-synergy.md` / `24-validation-worksheets.md` (the validation engine both recipes end in).
 
 ## Contents
 
 1. Source provenance
 2. Abstraction target
-3. Recipe A — Build a new YZE game for any genre
+3. Recipe A — Build a complete YZE game package
 4. Recipe B — Design and validate a new rule/subsystem
 5. Worked examples
 6. Design intent
@@ -21,14 +21,14 @@ Synthesis file — draws on all of `00`–`13`. Primary evidence is the two core
 
 Two **cookbooks** that make the skill operational, not just descriptive:
 
-- **Recipe A — Build a new YZE game.** A 15-step procedure for going from "I want a YZE game in genre X" to a *playable skeleton*. Each step names the decision to make, gives the calibrated FL/West reference answer, points to the reference file + dial that owns the deep detail, and ends with a one-line "what you have when this step is done."
+- **Recipe A — Build a complete YZE game package.** A 15-step procedure for going from "I want a YZE game in genre X" to a playable game package: premise, loop proof, character model, core rules, subsystem inventory, starter scenario, examples of play, character-sheet fields, manuscript outline, and validation memo. Each step names the decision to make, gives the calibrated FL/West reference answer, points to the reference file + dial that owns the deep detail, and ends with a one-line "what you have when this step is done."
 - **Recipe B — Design + validate a new rule.** The end-to-end maker's pipeline (intent → math → exploit → synergy → table → layer → verdict), restated as a numbered checklist with worked stubs and the ship/revise/reject decision logic. Full detail in `13-balance-and-synergy.md` §8; this file restates it as the *go do it* list.
 
-Apply the Abstraction Ladder to: each step's decision, the two games' choices as reference answers, and the trade-offs. The recipes exist so a designer can start at Recipe A step 1 and reach a playable skeleton, or Recipe B step 1 and reach a validated rule, **using only this skill.**
+Apply the Abstraction Ladder to: each step's decision, the two games' choices as reference answers, and the trade-offs. The recipes exist so a designer can start at Recipe A step 1 and reach a complete quickstart-ready package, or Recipe B step 1 and reach a validated rule, **using only this skill.** For substantial work, load `22` first and use this file as the build sequence.
 
 ---
 
-## 3. Recipe A — Build a new YZE game for any genre
+## 3. Recipe A — Build a complete YZE game package
 
 > **How to use this recipe:** Run the steps in order. Each step is one design decision plus a pointer to where the deep work happens. Do not try to perfect a step before moving on — the recipe produces a *skeleton*; you validate the whole skeleton in step 15 and iterate. Steps 1–2 set the tone everything else inherits; steps 3–11 are parallel dial-settings (you can draft them in one pass); steps 12–14 are authoring; step 15 is the gate.
 
@@ -140,7 +140,7 @@ Apply the Abstraction Ladder to: each step's decision, the two games' choices as
 
 **The most transferable artifact:** the **activity-menu architecture** — distribute the party's labor across a fixed menu so every PC has a travel job, and *movement/navigation/security/supply are mutually exclusive demands*. Port the carry model (primary physical attribute × 2 + heavy/light/tiny) and adopt **Resource Dice** for consumables.
 
-**Detail lives in:** `06-travel-and-downtime.md` (spatial model §3, time block §4, activity menu §5, weather §7); `11` travel-spatial dial. **What you have when done:** a travel chapter skeleton — spatial model, time block, activity menu, weather depth, carry/resource-die rules. → `06`, `11`
+**Detail lives in:** `06-travel-and-downtime.md` (spatial model §3, time block §4, activity menu §5, weather §7); `25-season-downtime-and-enterprises.md` when "downtime" means weeks/months/seasons rather than settlement activities; `11` travel-spatial dial. **What you have when done:** a travel chapter skeleton — spatial model, time block, activity menu, weather depth, carry/resource-die rules — plus, if needed, a period-downtime skeleton. → `06`, `25`, `11`
 
 ### Step 10 — Pick the org model
 
@@ -150,9 +150,9 @@ Apply the Abstraction Ladder to: each step's decision, the two games' choices as
 - **FL:** full ladder — Stronghold (base org) + Mercenary Company (band org) + Factions/Legacies (high-scale org, with **Faction Turn**) + mass combat/sieges. Base loop = *primary.*
 - **West:** personal/small-org scale — Business/Property + Your Town (settlement-as-character) + Outlaw Band (band org). No faction turn, no mass combat. Base loop = secondary.
 
-**Every org runs the same five-beat lifecycle:** founding → functions → upkeep → events → scale escalation. Enable only the rungs the genre/campaign-length needs; a one-shot needs none, a hex-crawl campaign wants the base rung, a domain game wants them all.
+**Every org runs the same five-beat lifecycle:** founding → functions → upkeep → events → scale escalation. If the org is active across weeks, months, seasons, years, or generations, give it a period engine: Assess → Invest → Operate → Reckon → Reinvest. Enable only the rungs the genre/campaign-length needs; a one-shot needs none, a hex-crawl campaign wants the base rung, a domain game wants them all.
 
-**Detail lives in:** `07-base-faction-mass-scale.md` (the lifecycle pattern §3, scale ladder §9, instantiation recipe §11); `11` faction/mass-combat dial. **What you have when done:** a stated set of enabled org rungs + (if any) a base-org spec. → `07`, `11`
+**Detail lives in:** `07-base-faction-mass-scale.md` (the lifecycle pattern §3, scale ladder §9, instantiation recipe §11); `25-season-downtime-and-enterprises.md` (period turns, enterprise sheets, investment cycle, family/faction/settlement management); `11` faction/mass-combat dial. **What you have when done:** a stated set of enabled org rungs + (if any) a base-org spec + any period procedures needed for businesses, families, factions, or settlements. → `07`, `25`, `11`
 
 ### Step 11 — Pick the economy model
 
@@ -218,7 +218,27 @@ Apply the Abstraction Ladder to: each step's decision, the two games' choices as
 
 **Check:** does a starting character (≈4-die pool) sit on the 50% competence line? (It should.) Does the metacurrency loop stay symmetric (refuel earned from the same risk that spends it)? Does any rule cross the 50% or 80% breakpoint ungated? If a loop is decorative (no four-beat pressure), cut it or wire it.
 
-**Detail lives in:** `13-balance-and-synergy.md` §10 (set the dials), §4 (breakpoints), §8 (the full pipeline = Recipe B); `10-design-philosophy.md` §5 (the five loops), §4 (resource-at-risk model), §13 (the gate questions). **What you have when done:** a validated, playable skeleton — ready to author into a manuscript. → `13`
+**Detail lives in:** `13-balance-and-synergy.md` §10 (set the dials), §4 (breakpoints), §8 (the full pipeline = Recipe B); `24-validation-worksheets.md` (repeatable math/tempo worksheets); `10-design-philosophy.md` §5 (the five loops), §4 (resource-at-risk model), §13 (the gate questions). **What you have when done:** a validated core game — ready for the package pass below. → `13`, `24`
+
+### Step 16 — Produce the complete-game package
+
+**Decision:** Convert the validated skeleton into a playable package. Do not stop at dial choices; produce the artifacts a GM and player need.
+
+**Required artifacts:**
+
+1. **Game brief:** thesis, audience promise, profile from `23`, signature mechanics, assumptions.
+2. **Core rules sheet:** attributes, skills, damage names, push/metacurrency/failure, action economy, harm/recovery, advancement.
+3. **Five-loop proof:** Expedition, Conflict, Recovery, Metacurrency, Base each Active / Secondary / Collapsed, with reason.
+4. **Subsystem inventory:** General / Situational / Optional / Campaign Mode.
+5. **Character creation checklist:** steps, starting values, gear, relationships, protected dial, sheet fields.
+6. **Starter scenario:** premise, three scenes, three NPCs, one pressure clock/table, one consequence table, one reward.
+7. **Examples of play:** ordinary roll, pushed roll, signature subsystem.
+8. **Manuscript outline:** player chapters, GM chapters, optional modules, reference sheets.
+9. **Validation memo:** use `24 §9`.
+
+**Acceptance criteria:** a GM can run a one-shot, a player can build a character, and the designer can explain every major rule's pressure loop. If any artifact is missing, the game is a skeleton, not a complete package.
+
+**Detail lives in:** `22-design-orchestrator.md` §4 and §7; `20-publication-voice.md`; `21-manuscript-format.md`. **What you have when done:** a quickstart-ready game package. → `22`, `20`, `21`
 
 ---
 
@@ -395,7 +415,7 @@ Choose exactly one. **Reject *structurally*, not impressionistically** ("I disli
 
 ## 6. Design intent
 
-The recipes exist so that the skill's knowledge is **operational, not just descriptive.** A designer should be able to start at Recipe A step 1 and reach a *playable skeleton*, or start at Recipe B Stage 0 and reach a *validated rule*, using only this skill — loading the sibling reference files for the deep detail each step points to, but never needing to re-derive the procedure.
+The recipes exist so that the skill's knowledge is **operational, not just descriptive.** A designer should be able to start at Recipe A step 1 and reach a complete quickstart-ready package, or start at Recipe B Stage 0 and reach a *validated rule*, using only this skill — loading the sibling reference files for the deep detail each step points to, but never needing to re-derive the procedure.
 
 The two recipes are the two halves of the engine's design loop:
 
@@ -403,6 +423,6 @@ The two recipes are the two halves of the engine's design loop:
 
 - **Recipe B is the *validate* half.** It is the executable form of `13-balance-and-synergy.md` §8 and `10-design-philosophy.md` §13. Its discipline is that **no rule ships on vibes.** Intent gates out subsystem inflation and duplication before any math is done; math catches breakpoint crossings and per-die-rate shifts the eye can't see; exploit + synergy catch the *couplings* where the engine is fragile (metacurrency, recovery, power, travel-pressure); table catches the rules that are mathematically clean but unplayable, ambiguous, or GM-punishing; layer keeps the General core lean. The verdict ladder — Ship / Ship-w-simplification / Revise-Cap / Revise-Restructure / Hold / Reject — forces a *structural* judgment, not an impressionistic one, and every "revise" loops back to the specific stage that failed rather than restarting from scratch.
 
-The two recipes meet at **Recipe A step 15**: the whole-game skeleton is itself run through Recipe B, because a new game is just a large new rule whose every subsystem must cohere. And the test both recipes ultimately serve is the engine's own founding question (`13` §11, `10` §13): **does ambition still cost something after this lands?** If a step in Recipe A produces a loop where risk no longer refuels agency, or a stage in Recipe B finds a rule that lets a character get more for less, for free, forever, from one decision — the answer is no, and the recipe says exactly where to loop back to fix it.
+The two recipes meet at **Recipe A step 15**: the core game is itself run through Recipe B, because a new game is just a large new rule whose every subsystem must cohere. Step 16 then turns that validated core into a runnable package. And the test both recipes ultimately serve is the engine's own founding question (`13` §11, `10` §13): **does ambition still cost something after this lands?** If a step in Recipe A produces a loop where risk no longer refuels agency, or a stage in Recipe B finds a rule that lets a character get more for less, for free, forever, from one decision — the answer is no, and the recipe says exactly where to loop back to fix it.
 
-That is what makes the skill actionable end-to-end: a designer can enter at either recipe, follow the citations to the deep detail, and exit with either a playable skeleton or a validated rule — and in both cases the output is *defensible against the engine's own philosophy and math*, not merely authored.
+That is what makes the skill actionable end-to-end: a designer can enter at either recipe, follow the citations to the deep detail, and exit with either a complete game package or a validated rule — and in both cases the output is *defensible against the engine's own philosophy and math*, not merely authored.
