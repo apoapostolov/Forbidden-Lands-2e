@@ -39,6 +39,7 @@ Read each row as: *"the generic term (left) is what FL calls X (middle) and West
 | --- | --- | --- |
 | **attribute** | Strength / Agility / Wits / Empathy (STR/AGI/WIT/EMP) | Grit / Quick / Cunning / Docity |
 | **attribute (damage track)** | each attribute is a health track; reduced by 🩸 | each attribute is a health track; reduced by Hurts/Shakes/Vexes/Doubts |
+| **health track** (Optional — combined/flat/external; Coriolis-style) | (none — pure attribute-as-HP) | (none — pure attribute-as-HP) |
 | **named damage type** (per attribute) | (silent — damage typed by position) | **Hurts** (Grit) / **Shakes** (Quick) / **Vexes** (Cunning) / **Doubts** (Docity) |
 | **skill / ability** (the 16) | Skill (16, 4 per attribute) | Ability (16, 4 per attribute) |
 | **talent** (general advancement unit) | Talent (kin / profession-"Path" / general; ranks 1–5) | Talent (Background/Combat/Frontier/Social/Trade/Outlaw; Basic + Advanced, 2 ranks) |
@@ -76,6 +77,8 @@ Read each row as: *"the generic term (left) is what FL calls X (middle) and West
 | **success ladder (threshold model)** | Levels of Effort (Normal 1⚔ / Challenging 2⚔ Great / Difficult 3⚔ Critical) | Declared Effort (Standard/Bold/Desperate — 1/2/3 ⚔ thresholds) |
 | **success ladder (grade model)** | (surplus ⚔ = richer detail) | 0 Fail / 1 Limited / 2 Complete / 3+ Critical |
 | **surplus-success spend** | (extra ⚔ = detail/clues/positioning) | Stunts (+1 dmg / knockdown / grapple / crit) |
+| **carry-forward bonus** (Optional) | (not in FL core — implied by SWING WEAPON +1 to next attack) | (not in West core — implied by All-Out Prepare) |
+| **success menu** (Optional, downtime/long-process) | MAKE CAMP camp-improvement purchases (`08-journeys.md:503-529`); stronghold functions | (none — West camp rolls grant pursuit-evasion, not a menu) |
 | **escalating-success die** (legendary) | Artifact Die (D8 Mighty / D10 Epic / D12 Legendary) | (none) |
 | **heroic-moment die** (character's peak) | Pride (D8/D10/D12, once/session) | (none — Faith is currency, not a die) |
 | **opposed roll** | opposed (attacker ⚔ minus defender ⚔; only attacker pushes) | opposed (same spine) |
@@ -304,7 +307,7 @@ One-line definition of every engine system/subsystem, grouped by cluster. Each e
 
 | Term | Definition | Ref |
 | --- | --- | --- |
-| **Attribute-as-HP mapping** | The dial for how harm is recorded: single-attribute-per-source (FL) / paired split (West). | `04` §3 |
+| **Attribute-as-HP mapping** | The dial for how harm is recorded: single-attribute-per-source (FL) / paired split (West) / combined-attribute or flat-value health track (Coriolis-style, Optional). | `04` §3 |
 | **Critical-injury engine** | A D66 lookup converting "a really bad hit" into a named, narratively-loaded consequence; the engine's memory of harm. | `04` §5 |
 | **Typed crit family** | FL's innovation: one D66 family per damage *type* the genre cares about (Slash/Stab/Burn…); the set of families is a genre-commitment device. | `04` §5.2 |
 | **Lethality climax (65/66)** | The reusable top-of-table split: `65` = maiming threshold (survivable via rescue → Permanent table); `66` = final death. | `04` §5.1 |
@@ -421,6 +424,8 @@ For each generic term, the file + section where it is defined in depth. This is 
 | --- | --- |
 | Dice grammar, base/skill/gear die, ⚔/💀/🩸 | `00` §3 |
 | Success ladder (threshold + grade), surplus-success spend | `00` §4 |
+| Carry-Forward Bonus (+1 normal / +2 critical, banked for next roll; net successes in opposed rolls) | `00` §4 |
+| Success Menu (each surplus ⚔ on a downtime/long-process roll buys one player-declared quality from a menu; 2+ ⚔ to activate) | `00` §4; canonical instance `06` §9 (MAKE CAMP) |
 | Modification ladder, difficulty, help gating | `00` §5 |
 | Push, push-cost model (bane-self-harm / currency-spend / hybrid) | `00` §6, §11 |
 | Metacurrency (WP/Faith), refuel trigger, depletion state | `00` §7 |
@@ -464,7 +469,7 @@ For each generic term, the file + section where it is defined in depth. This is 
 
 | Term | File § |
 | --- | --- |
-| Attribute damage, Broken, Broken fiction | `04` §3 |
+| Attribute damage, Broken, Broken fiction, Health tracks (combined/flat/external) | `04` §3 |
 | Coup de grâce / merciful-killing test | `04` §4 |
 | Critical-injury engine (D66 architecture), typed crit family, lethality climax (65/66) | `04` §5 |
 | Conditions (starve/thirst/exhaust/freeze/heat/addicted) | `04` §6 |

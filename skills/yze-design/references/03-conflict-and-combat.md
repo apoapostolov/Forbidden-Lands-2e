@@ -244,7 +244,7 @@ Plus **GRAPPLE** (unarmed; both fall prone, opponent drops weapon, only BREAK FR
 
 **West — a single Melee attack verb with a stunt menu and modifier options:**
 - Roll FIGHTIN' (+ weapon gear mod); hit = weapon Damage as Shakes/Hurts (first point Shakes, then alternate). West `05-conflict-and-damage.md:148-149`.
-- **Stunts** per extra ⚔: +1 damage (repeatable) / knockdown-or-pushback / hold-in-Grapple / inflict a critical injury (if enough ⚔ to meet the weapon's Crit Rating). West `05-conflict-and-damage.md:151-156`.
+- **Stunts** per extra ⚔: +1 damage (repeatable) / knockdown-or-pushback / hold-in-Grapple / inflict a critical injury (if enough ⚔ to meet the weapon's Crit Rating) / **bank a Carry-Forward Bonus** (+1 on a normal success, +2 on a critical of 3+ net ⚔, to your next attack — see `00 §4`). West `05-conflict-and-damage.md:151-156`.
 - **All-Out Attack** — fast Prepare + slow attack for +2 (reduced to +1 with a Called Strike). West `05-conflict-and-damage.md:139`.
 - **Called Strikes** — −3 to target a location or cause a specific effect (disarm, trip); All-Out + Called = +1 not +2. West `05-conflict-and-damage.md:141-145`.
 - **Grappling** — initiated as a stunt; once locked, the key ability becomes **LABOR** not FIGHTIN'; instigator gets +2; both count as Prone vs others; resolve via opposed LABOR (subdue / break free / fight-over-weapon). West `05-conflict-and-damage.md:178-192`.
@@ -277,7 +277,7 @@ Plus **GRAPPLE** (unarmed; both fall prone, opponent drops weapon, only BREAK FR
 - **AIM** (fast) +2; lost if you do anything else or get hurt. **QUICK SHOT** (fast, −2) lets you shoot as a fast action. West `05-conflict-and-damage.md:253, 259`.
 - **CALLED SHOTS** −3 to hit a location or cause an effect (shoot a gun from their hand, wing them prone); Aim + Called = +1 not +2. West `05-conflict-and-damage.md:255-257`.
 - **Range mods:** Near +1, Short 0, Medium −1, Long −2, Distant −3, Arm's Length −3 (or +3 vs inactive); target size +2/−2; partial/good/heavy cover −1/−2/Called-only. West `05-conflict-and-damage.md:261-265`.
-- **Stunts** per extra ⚔: +1 damage / pin-down (1 Doubts) / knockback / crit (if ⚔ ≥ Crit Rating). West `05-combat-and-damage.md:269-274`.
+- **Stunts** per extra ⚔: +1 damage / pin-down (1 Doubts) / knockback / crit (if ⚔ ≥ Crit Rating) / **bank a Carry-Forward Bonus** (+1 normal / +2 critical of 3+ net ⚔, to your next shot — see `00 §4`). West `05-combat-and-damage.md:269-274`.
 - **FANNING** (single-action pistol, ≥4 bullets, two hands, whole Round): −2 (−1/extra target up to 3); first success = two bullet-hits; further successes add a third target or stunts; crit rolls twice take lesser; gun emptied. West `05-conflict-and-damage.md:327-348`.
 - **OVERWATCH** (fast, ranged weapon, no enemy at Arm's Length): cover a direction; between now and your next Round you may fire at a target in that lane, resolved before all other declared actions. Lost if you do anything but shoot that direction, are melee-attacked, or take damage. West `05-conflict-and-damage.md:350-366`.
 - **RELOAD** — 2 cartridges per fast action; a revolver takes 3 actions to fully reload, a double-barrel 1, a 15-round magazine 4 Rounds. West `05-conflict-and-damage.md:381-385`.

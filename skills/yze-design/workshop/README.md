@@ -48,6 +48,8 @@ Apply the **Reinvention Ladder** from `SKILL.md`:
 - `05-investigation-and-clue-economy.md` — Clues as a capped metacurrency earned via an inquiry activity menu and spent on a revelation ladder; risky inferences use the push. *Worked example: noir / cosmic horror.*
 - `06-debt-and-obligation.md` — An *inverted* metacurrency: debts grow when you take favors and must be paid down; called debts are the GM's pressure valve. Unifies financial/social/moral/supernatural debt. *Worked example: corporate space opera.*
 - `07-corruption-and-taint.md` — A corruption spiral: forbidden power refuels you but grows a doom die up a 5-tier ladder; full milestone D66 tables and an atonement procedure. *Worked example: witch-hunting dark fantasy.*
+- `08-spell-systems.md` — A catalog of 12 magic-system archetypes (Vancian/book, spell-as-skill, path/talent, psionic, folk/hedge, pact/summoning, divine/faith, verb-noun/free-form, item/relic, blood/sacrifice, rune/glyph, channeling/possession), each built engine-natively from the power layer + the primitives. The system-level typology that sits *above* individual spell design.
+- `09-spell-forging.md` — Player-authored power design as a downtime project: a multi-day forging roll whose surplus ⚔ buy spell qualities from a player-authored Success Menu. Ships the rank/scope benchmarks, quality-cost table, the 10-check balance test, and reforging. *Worked example: high fantasy.*
 
 ## Module template
 

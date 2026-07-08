@@ -73,7 +73,7 @@ Each entry: **Name** · **One-line definition** · **Core tension it creates** �
 
 **Core tension:** *settle for the safe win, or declare a bolder aim and risk getting nothing extra?*
 
-**Parameters:** (a) number of rungs (3 or 4); (b) what surplus successes buy (Stunts / damage / clues / positioning); (c) who sets the threshold (GM-side "Levels of Effort" FL / player-side "Declared Effort" West).
+**Parameters:** (a) number of rungs (3 or 4); (b) what surplus successes buy — Stunts / damage / clues / positioning / **carry-forward bonus** (+1 normal / +2 critical, banked for the next relevant roll, per `00 §4`) / **Success Menu entries** (each surplus ⚔ beyond the first buys one player-declared quality of a downtime or long-process output, per `00 §4`); (c) who sets the threshold (GM-side "Levels of Effort" FL / player-side "Declared Effort" West). *Note: Stunts (fixed, tactical, combat-speed) and the Success Menu (player-authored, generative, downtime-speed) are the two surplus-success spend modes — use Stunts for immediate opposed action, the Success Menu for authored long-process output, never both on the same roll.*
 
 **Powers:** every ability roll in both games; the Stunts subsystem; combat damage scaling. `00 §4`.
 
@@ -97,7 +97,7 @@ Each entry: **Name** · **One-line definition** · **Core tension it creates** �
 
 **Core tension:** *consumption is a gamble, not bookkeeping.* You don't count arrows; you roll the Arrows die and feel the supply thin.
 
-**Parameters:** (a) die range (D6–D12); (b) deplete range (1–2 standard, 1–4 for perishables like fresh meat); (c) what it models (FL default: food/water/arrows/torches; West optional module; *reusable for*: morale, faction strength, town prosperity, illness duration, sanity).
+**Parameters:** (a) die range (D6–D12); (b) **contraction (deplete) range** — 1–2 is the base default for most engine mechanics, but it is **not law**: a perishable or volatile supply contracts faster (FL's raw meat as food = 1–4; West's perishables similar). The contraction range is a **per-instance dial**: a more powerful or unstable resource can be set to 1–3, 1–4, even 1–5. *Interaction with die size:* a wider contraction range means the die steps down faster on each use, so a **larger starting die** is needed to retain the resource through multiple uses. Putting a powerful, fast-contracting resource in a small die guarantees it is spent after one use — sometimes desirable (a single-shot miracle), sometimes not. This interaction is load-bearing in the Vancian spell-slot pattern (`workshop/08` Archetype 1): a rank-1 spell in a D6 slot with contraction 1–2 depletes ~33% per cast; a rank-5 spell with contraction 1–4 in the same D6 slot is *certain* to be spent on first use, forcing the caster to invest in a larger slot die (D10–D12) to retain it. (c) what it models (FL default: food/water/arrows/torches; West optional module; *reusable for*: morale, faction strength, town prosperity, illness duration, sanity, **spell slots** per `workshop/08` #1).
 
 **Powers:** FL consumables (default), West consumables (optional), and — by reinvention — any depleting stock. `01 §7`, `08 §10`.
 

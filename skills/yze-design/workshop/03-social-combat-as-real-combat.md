@@ -43,6 +43,8 @@ When a social scene has high stakes, an opponent with an agenda, and real conseq
 - **Regen:** 1/scene by default; or 1/Round with a "compose yourself" fast action (faster dial).
 - **At 0:** socially Broken — lose the exchange, roll on the Social Fallout table (below).
 
+**Design note — Composure as a Health Track.** The Wits+Empathy pool above is an instance of the **combined-attribute health track** pattern (`04 §3`, the Coriolis-style third damage mapping). This is deliberate: social combat needs a *larger, less swingy* pool than a single attribute provides, so that an exchange lasts 3–5 Rounds rather than ending in one or two turns. The full health-track dial (`04 §3`) applies here — a designer can tune Composure to any point on the survivability spectrum: combined attributes (Wits+Empathy, the default), flat-value (e.g. 5+Empathy for a heroic floor), or a fixed external pool (6 per character, for uniformity across a cast of very different speakers). The further toward "flat/external," the longer social combats run and the less a single bad roll ends the scene.
+
 #### The Composure damage formula
 
 > **Damage = (successes on the attack roll) + (leverage die face, if leverage spent and rolls 6+)**
@@ -133,6 +135,8 @@ Reactions cost your fast action. You may react once per incoming attack. If you 
 Any ⚔ beyond the first on an attack may be spent on stunts, exactly as in physical combat (`03 §7`). Choose one stunt per surplus ⚔:
 
 **Extra damage.** +1 Composure damage. May be taken multiple times if you have multiple surplus ⚔.
+
+**Carry-Forward Bonus.** All banked bonuses and penalties in this module (from BUILD RAPPORT, GESTURE/PROPS, SMALL LIE, POINTED QUESTION, EXPOSE A TELL, etc.) scale by the grade of the success that earned them, per the core Carry-Forward Bonus rule (`00 §4`): a normal success (1⚔ or 1 net ⚔) grants ±1 to the next relevant roll; a critical (3+⚔ or 3+ net ⚔ after the opponent's DEFLECT/DODGE cancels successes) grants ±2 instead. A defender who DEFLECTS well can reduce a critical's carry-forward from ±2 to ±1, or eliminate it entirely.
 
 **Force a distance shift.** Move the opponent one band — toward Intimate to soften them, toward Public to expose them. They cannot resist; the shift is the cost of your success.
 
