@@ -2,39 +2,39 @@
 
 # Influence & Political Power — Spendable Standing
 
-> **STATUS: WORKSHOP MODULE.** A political-capital subsystem: fictional standing converted into a spendable, *decaying* influence pool with an attrition cost. *Core is generic; the worked example (Renaissance Florence) is illustrative.*
+> **STATUS: WORKSHOP MODULE.** A political-capital rule set: fictional standing converted into a spendable, *decaying* influence pool with an attrition cost. *Core is generic; the worked example (Renaissance Florence) is illustrative.*
 
 ## Contents
 
 1. Origin — how this was built
 2. The generic design space
 3. The pressure loop
-4. Dials
+4. Choices
 5. Integration points
 6. Failure modes & edge cases
-7. Validation notes
+7. Check notes
 8. Worked genre example — Renaissance Florence
 
 ## 1. Origin — how this was built
 
-- **Source primitive:** **P2 (capped metacurrency refueled by risk)** from `16`, fused with **P4 (typed D66)** for the scandal layer.
+- **Source pattern:** **P2 (capped pool refueled by risk)** from `16`, fused with **P4 (typed D66)** for the scandal layer.
 - **Reinvention operator:** **Domain Transfer + Inversion.** Domain-transfer P2 from "personal resolve" (WP/Faith) to "social standing." Then *invert*: where WP refuels when the character takes risks, Influence *refuels when the character demonstrates public virtue* — but *decays when unused*.
 - **Target psychology:** **Action-refuel + decay** (`17` M1) — an *investment loop* (cultivate, spend, scramble to rebuild). The decay valve makes Influence a resource you cannot hoard, only circulate.
 - **Problem solved:** RPG political play is usually either (a) a single roll with no texture, or (b) a heavy faction-turn sub-game above the players. This gives political capital the same dramatic rhythm the push economy gives combat — a pool that rises and falls *in play*, gated by player choices, with scandals as the bane-equivalent.
 
 ## 2. The generic design space
 
-### 2a. Mechanism overview
+### 2a. Rule overview
 
 **Influence** is a character-tracked pool (cap 10) representing current social/political capital — how much weight the character's name carries *right now* with a defined constituency (court, guild, senate, neighborhood, clan, board). It is spent to compel, gain access, absorb social failures, and shift decisions; it is earned by public witnessed acts; and it **decays** at each downtime boundary unless actively cultivated. Scandals (public failures, exposed secrets) deal Influence damage via a typed D66 roll.
 
 ### 2b. NEW CONCEPTS introduced
 
-- **NEW CONCEPT — Decay valve:** No core engine metacurrency (WP, Faith) decays when unused. Influence steps down by 1 at each downtime boundary unless the PC has actively cultivated it that cycle. This converts the pool from a savings account into a current — standing not maintained evaporates. *Extends the engine by adding a maintenance pressure the core pools do not have.*
+- **NEW CONCEPT — Decay valve:** No core engine Willpower/Faith (WP, Faith) decays when unused. Influence steps down by 1 at each downtime boundary unless the PC has actively cultivated it that cycle. This converts the pool from a savings account into a current — standing not maintained evaporates. *Extends the engine by adding a maintenance pressure the core pools do not have.*
 - **NEW CONCEPT — Constituency scoping:** Core reputation (FL) is local-settlement; core Faith is personal. Influence is *segmented by constituency* — a PC may have separate Influence pools with the Court, the Church, the Street, etc., and Influence spent in one does not transfer to another. *Extends the engine by making social capital a multi-track resource rather than a single modifier.*
 - **NEW CONCEPT — Scandal as bane-equivalent:** Core banes (💀) are a dice-face cost. Scandals are an *event-triggered* cost — a public failure or exposed secret rolls a typed D66 that deals Influence damage. *Extends P4 (typed D66) from harm/mishap domains to the political domain, with a distinct trigger model.*
 
-### 2c. Mechanical reference (tables & procedures)
+### 2c. Rules reference (tables & procedures)
 
 #### The Influence pool
 
@@ -77,7 +77,7 @@ Roll once per public, witnessed act that builds your name (the GM calls for the 
 
 #### The decay procedure
 
-1. **When it fires:** at each downtime boundary (end of session, or season turn if using slower pacing — see Dials).
+1. **When it fires:** at each downtime boundary (end of session, or season turn if using slower pacing — see Choices).
 2. **The cultivation test:** did the PC perform at least one public, constituency-appropriate act this cycle? (GM judgement — a single public action suffices; pure hoarding does not.)
 3. **If yes:** no decay. The PC maintained their profile.
 4. **If no:** Influence steps down by 1 (to a minimum of 0). Standing not maintained evaporates.
@@ -91,7 +91,7 @@ Roll once per public, witnessed act that builds your name (the GM calls for the 
 
 **Scandal Fallout table (D66) — Court / elite constituency family**
 
-| D66 | Result | Mechanical effect |
+| D66 | Result | Rule effect |
 | --- | --- | --- |
 | 11–14 | **Whisper campaign.** Snide remarks at the next gathering. | −1 Influence (in addition to the severity-die loss). |
 | 15–22 | **Cold shoulder.** Key figures refuse audiences for a session. | Cannot spend Influence on "access" for one session. |
@@ -113,9 +113,9 @@ Roll once per public, witnessed act that builds your name (the GM calls for the 
 - **State change:** your standing in the constituency shifts, opening/closing doors.
 - **Loop shape:** **cultivate → spend → scandalize/recover → cultivate.** Runs at session/season cadence — a *strategic* resource, not a tactical one.
 
-## 4. Dials
+## 4. Choices
 
-| Dial | Setting A | Setting B | Psychology |
+| Choice | Setting A | Setting B | Psychology |
 | --- | --- | --- | --- |
 | **Cap** | 10 (single constituency) | 5 × multiple constituencies (track separately) | Broad vs segmented power |
 | **Decay rate** | −1 per session (fast) | −1 per season (slow) | Maintenance pressure vs relaxed accumulation |
@@ -131,9 +131,9 @@ Roll once per public, witnessed act that builds your name (the GM calls for the 
 - **Hooks into:** social conflict (`03 §11`) — Influence substitutes for "negotiating position" or buys off a social failure. Org layer (`07`) — Influence with a faction gates what org functions you can request. Encounter engine (`09 §4`) — high Influence shifts encounter tables (allies seek you; rivals target you). Faction web (`workshop/02`) — Influence is the per-PC face of faction Standing.
 - **Requires:** a defined constituency and a downtime cadence.
 - **Replaces / extends:** flat Reputation modifiers — a dynamic pool with a maintenance cost instead of a static +1.
-- **Cross-refs:** `00 §7` (metacurrency), `17` M1 (refuel psychology), `09` (settlement/faction standing).
+- **Cross-refs:** `00 §7` (Willpower/Faith), `17` M1 (refuel psychology), `09` (settlement/faction standing).
 
-## 5a. Interface
+## 5a. Handshake
 
 - **Prerequisites:** persistent constituencies, social access, and downtime or scene boundaries.
 - **Inputs:** constituency list, Influence cap, decay cadence, public-act triggers, scandal family.
@@ -144,23 +144,23 @@ Roll once per public, witnessed act that builds your name (the GM calls for the 
 
 ## 6. Failure modes & edge cases
 
-- **Influence-as-bribe-currency.** If spendable to bypass every obstacle, it trivializes other loops. **Fix:** Influence only works *within its constituency* and only for asks *within the NPC's power/values.* (`13 §5.5` action-economy abuse.)
+- **Influence-as-bribe-currency.** If spendable to bypass every obstacle, it trivializes other loops. **Fix:** Influence only works *within its constituency* and only for asks *within the NPC's power/values.* (`13 §5.5` action-budget abuse.)
 - **Hoarding.** Without decay, players bank to 10 and sit. **Fix:** the decay valve is non-negotiable.
 - **Scandal farming.** If scandals are the only way to lose Influence, players avoid public action. **Fix:** ensure public action is also the primary *earn* vector — the risk is the point. (`19` FE3 — scandals must feel *earned*, not random.)
 - **Constituency explosion.** 5 pools per PC per faction is bookkeeping hell. **Fix:** cap at 1–2 active constituencies per PC.
 - **The GM-fiat scandal.** If scandals fire on GM whim, players feel targeted (`19` FE5). **Fix:** tie scandals to *exposed* secrets or *witnessed* failures, not GM mood.
 
-## 7. Validation notes
+## 7. Check notes
 
 - **Math (`13 §3`):** at −1/session with cap 10, a PC must earn ~1 Influence/session to hold steady — one public victory or two virtue displays. This matches the engine's XP cadence (`02 §3`), so it feels proportional. The Public Act table's expected value is ~+1.5 per roll (most results 23–46), so one public act per session roughly offsets decay.
-- **Exploits (`13 §5`):** universal-solvent risk gated by constituency-scope; cap-bypass via trivial cultivation gated by GM judgement + the constituency-specific dial.
+- **Abuses (`13 §5`):** universal-solvent risk gated by constituency-scope; cap-bypass via trivial cultivation gated by GM judgement + the constituency-specific choice.
 - **Felt experience (`19`):** the decay valve prevents hoarding-stagnation (C5 agency ledger). Scandals need telegraphing (C2 perceived randomness) — foreshadow that a secret is at risk before rolling.
 
 ## 8. Worked genre example — Renaissance Florence
 
 **Setting:** Florence, 1490s. PCs are minor nobles, merchants, and condottieri navigating the Medici court, the rival guilds, Savonarola's friars, and the street.
 
-**Dials set:** cap 10; decay −1/session; scandal = 💀 per die (1–4); four constituencies (Court / Guilds / Church / Street); cultivation requires a constituency-appropriate public act.
+**Settings chosen:** cap 10; decay −1/session; scandal = 💀 per die (1–4); four constituencies (Court / Guilds / Church / Street); cultivation requires a constituency-appropriate public act.
 
 **In use:**
 
@@ -168,9 +168,9 @@ Roll once per public, witnessed act that builds your name (the GM calls for the 
 - A rival exposes her secret atheism — GM calls for a Church Scandal Roll, severity 3 (grave for a pious constituency). She rolls 3D6: results 1, 3, 5 → one 💀 → −1 Church Influence (now 1). Then rolls on the Church Scandal Fallout table: a 62 (**Formal censure**) → −3 Influence → Church drops to −2 (active hostility); the friars denounce her. To recover she must publicly sponsor a chapel restoration (+1 Church via Public Act, slow rebuild).
 - **The spend-or-hoard decision:** Isabella considers spending 3 Court Influence to compel a Medici cousin to quash a lawsuit. She has 8 — spending 3 leaves 5, and decay at session-end takes her to 4 unless she cultivates. She judges the ask worth it. The Medici cousin intervenes. Next session she must find another public act or watch her Court standing wither.
 
-**Why Florence:** the decay valve models Renaissance political reality — *favour is a current, not a reservoir.* Scandals make secrets mechanically dangerous. Four constituencies create the cross-pressures Florentine politics is famous for (what pleases the Court offends the Church).
+**Why Florence:** the decay valve models Renaissance political reality — *favour is a current, not a reservoir.* Scandals make secrets dangerous in the rules. Four constituencies create the cross-pressures Florentine politics is famous for (what pleases the Court offends the Church).
 
 **Re-skin:**
-- **Corporate sci-fi:** constituencies = Board / Engineering / Sales / Regulators; scandals = leaked memos; cultivation = shipped products / PR wins.
+- **Corporate sci-fi:** constituencies = Board / Craft / Sales / Regulators; scandals = leaked memos; cultivation = shipped products / PR wins.
 - **Feudal Japan:** constituencies = Clan / Shogunate / Temple / Town; scandals = bushidō breaches; cultivation = duels won, poems composed.
 - **Modern political thriller:** constituencies = Party / Press / Donors / Voters; scandals = oppo hits; cultivation = news cycles won.

@@ -1,15 +1,15 @@
 <!-- markdownlint-disable MD013 MD024 MD041 MD060 -->
 
-# Design Dials and Variants — The Master Calibrated Options Catalog
+# Design Choices and Variants — The Master Calibrated Options Catalog
 
-> **STATUS: FILLED (roll-up of `00`–`10`).** This is the **configuration catalog** a designer consults when *setting* a new YZE game. It consolidates every calibrated choice identified across the engine-system files into one master list, with FL and West shown as the two named points on each dial, the trade-off stated, and *when-to-choose* guidance. It culminates in **combined preset archetypes** — named dial-sets that produce recognizable genre feels. It is a catalog, not a re-derivation: the *why* behind each dial lives in its owning system file (cited per dial); this file is the *what* and *which*.
+> **STATUS: FILLED (roll-up of `00`–`10`).** This is the **choices catalog** a designer consults when *setting* a new YZE game. It consolidates every calibrated choice identified across the engine-system files into one master list, with FL and West shown as the two named points on each choice, the trade-off stated, and *when-to-choose* guidance. It culminates in **combined preset archetypes** — named choice-sets that produce recognizable genre feels. It is a catalog, not a re-derivation: the *why* behind each choice lives in its owning system file (cited per choice); this file is the *what* and *which*.
 
 ## Contents
 
 1. Source provenance
 2. Abstraction target
-3. How to read a dial
-4. The master dial catalog (organized by system layer)
+3. How to read a choice
+4. The master choices catalog (organized by system layer)
    - 4.A Engine Core (`00`) — the resolution spine
    - 4.B Character Model (`01`)
    - 4.C Progression & XP (`02`)
@@ -21,30 +21,30 @@
    - 4.I Gear & Economy (`08`)
    - 4.J Design Philosophy (`10`)
 5. Dial-dependency map (which choices constrain which)
-6. Combined preset archetypes (genre dial-sets)
+6. Combined preset archetypes (genre choice-sets)
 7. Larger-Than-Life Play
-8. How to use this file (the configuration procedure)
+8. How to use this file
 
 ## 1. Source provenance
 
-This file rolls up the dials identified in the sibling reference files. Each dial entry cites both (a) the owning system file (e.g. `00 §6`) for the full derivation, and (b) the primary FL/West rulebook evidence (e.g. `FL 03-skills.md:59`). The two canonical calibrated instances:
+This file rolls up the choices identified in the sibling reference files. Each entry cites both (a) the owning system file (e.g. `00 §6`) for the full derivation, and (b) the primary FL/West rulebook evidence (e.g. `FL 03-skills.md:59`). The two canonical calibrated instances:
 
-- **Forbidden Lands 2E (FL)** — the *maximal/survival* instance: magic high, lethality high, metacurrency = WP (harm-refueled), failure = banes, travel = hex-crawl, economy = barter + commodity silver, faction ladder = full (through Polity), talent ladder = 5-rank, authenticity = inventive-within-tone.
-- **Tales of the Old West 2E (West)** — the *zero/personal* instance: magic none, lethality high (attritional), metacurrency = Faith (action-refueled), failure = Trouble, travel = pointcrawl, economy = cash + capital + loans + salaries, faction ladder = capped (Company/Town), talent ladder = 2-rank, authenticity = documentary-verify.
+- **Forbidden Lands 2E (FL)** — the *maximal/survival* instance: magic high, lethality high, Willpower = harm-refueled, failure = banes, travel = hex-crawl, economy = barter + commodity silver, faction ladder = full (through Polity), talent ladder = 5-rank, authenticity = inventive-within-tone.
+- **Tales of the Old West 2E (West)** — the *zero/personal* instance: magic none, lethality high (attritional), Faith = action-refueled, failure = Trouble, travel = pointcrawl, economy = cash + capital + loans + salaries, faction ladder = capped (Company/Town), talent ladder = 2-rank, authenticity = documentary-verify.
 
-The FL/West pair is the engine's proof-by-construction that **the same spine produces opposite tones by swapping the dials.** A new genre sets each dial; the presets in §6 bundle coherent settings.
+The FL/West pair is the engine's proof-by-construction that **the same spine produces opposite tones by swapping the choices.** A new genre sets each choice; the presets in §6 bundle coherent settings.
 
 ## 2. Abstraction target
 
-Produce the **master dial catalog** — every place the engine offers a calibrated choice — and the **preset archetypes** that bundle those choices into genre feels. A "dial" here means a design parameter with at least two calibrated instances (FL and West), a stated trade-off, and genre guidance. Dials are tagged by **Layer** (General / Situational / Optional) following `10 §9`.
+Produce the **master choices catalog** — every place the engine offers a calibrated choice — and the **preset archetypes** that bundle those choices into genre feels. A "choice" here means a rule fork with at least two calibrated instances (FL and West), a stated trade-off, and genre guidance. Choices are tagged by **Layer** (General / Situational / Optional) following `10 §9`.
 
-This file does not re-argue the dials — it indexes them. When a choice needs justification, follow the citation to the owning file.
+This file does not re-argue the choices — it indexes them. When a choice needs justification, follow the citation to the owning file.
 
-## 3. How to read a dial
+## 3. How to read a choice
 
-Every dial is written in a fixed six-field compact form:
+Every choice is written in a fixed six-field compact form:
 
-> **D# — Dial name** *(the parameter being tuned — one short phrase)*
+> **D# — Choice name** *(the rule being tuned — one short phrase)*
 > - **FL** — the FL calibrated point, with citation.
 > - **West** — the West calibrated point, with citation.
 > - **Trade-off** — what you gain and lose at each pole.
@@ -52,13 +52,13 @@ Every dial is written in a fixed six-field compact form:
 > - **Layer** — General / Situational / Optional.
 
 Conventions:
-- **Pole vs middle.** Most dials are continuous; FL and West are two named points. "Hybrid" or "middle" settings are noted in *Choose* where the sibling files recommend one.
+- **Pole vs middle.** Most choices are continuous; FL and West are two named points. "Hybrid" or "middle" settings are noted in *Choose* where the sibling files recommend one.
 - **Citations.** The system-file citation (e.g. `00 §6`) points to the full derivation; the rulebook citation (e.g. `FL 03-skills.md:59`) is primary evidence.
-- **Consistency rule.** Dials marked **⟷ must-align** must be set consistently with each other (see §5). Setting one independently breaks the engine's coherence.
+- **Consistency rule.** Choices marked **⟷ must-align** must be set consistently with each other (see §5). Setting one independently breaks the engine's coherence.
 
-## 4. The master dial catalog
+## 4. The master choices catalog
 
-Dials are numbered **D1–D113** continuously, grouped by owning system. Within a group they follow the order of the owning file's own "Dials" section.
+Choices are numbered **D1–D113** continuously, grouped by owning system. Within a group they follow the order of the owning file's own choices section.
 
 ### 4.A Engine Core — the resolution spine (`00`)
 
@@ -67,7 +67,7 @@ Dials are numbered **D1–D113** continuously, grouped by owning system. Within 
 - **West** — currency-spend: 1 Faith Point per push; no automatic harm to body or gear. (`West 03-rolling-the-bones.md:74-83`; `00 §6`)
 - **Trade-off** — gritty attrition (the body/gear *is* the currency) vs dramatic resource-management (belief is the currency).
 - **Choose** — FL-pole for survival/horror/attritional; West-pole for dramatic/character-driven; **hybrid** (small currency cost + light bane/Trouble) recommended for new games.
-- **Layer** — General (the push itself); the model is the core dial.
+- **Layer** — General (the push itself); the model is the core choice.
 
 **D2 — Cost-face trigger** *(when the latent cost face fires)* ⟷ D1, D10
 - **FL** — always-on-push: 💀 is baked into Base/Gear dice and activates every push. (`FL 03-skills.md:71-73`; `00 §3, §6`)
@@ -75,19 +75,19 @@ Dials are numbered **D1–D113** continuously, grouped by owning system. Within 
 - **Trade-off** — harm feels *inevitable* (endogenous) vs harm feels *chosen* (frame-gated).
 - **Choose** — banes-when-harm-should-be-inevitable; Trouble-when-harm-should-be-a-choice.
 
-**D3 — Metacurrency refuel trigger** *(what earns the pool)* ⟷ D4, D5
+**D3 — Willpower/Faith refuel trigger** *(what earns the pool)* ⟷ D4, D5
 - **FL** — harm-earned: 1 WP per 💀 on a Base Die when you push — taking harm generates agency. (`FL 03-skills.md:124`; `00 §7`)
 - **West** — action/success-earned: 1 Faith on a 3-⚔ un-pushed roll, or by performing rituals/actions (pray, avenge, save a life, rest). (`West 03-rolling-the-bones.md:273-296`; `00 §7`)
 - **Trade-off** — virtuous damage loop (aggression rewarded, if you survive) vs behavior-reward loop (agency decoupled from harm).
 - **Choose** — harm-refuel for attritional/survival; action/success-refuel for dramatic/character-driven; success-refuel for pulp.
 
-**D4 — Metacurrency cap + refresh** *(pool size and pacing)*
+**D4 — Willpower/Faith cap + refresh** *(pool size and pacing)*
 - **FL** — cap 10; earned in play; refreshed by stronghold rest. (`FL 03-skills.md:120`; `00 §7`)
 - **West** — cap 10; 4 per scenario; resets to 4 at Turn of the Season; may carry within a season. (`West 03-rolling-the-bones.md:84-88, 258`; `00 §7`)
 - **Trade-off** — slow-burn sandbox grit vs predictable per-arc budget.
 - **Choose** — refresh-per-arc for paced drama; earned-only for sandbox grit.
 
-**D5 — Metacurrency depletion** *(what hitting zero means)*
+**D5 — Willpower/Faith depletion** *(what hitting zero means)*
 - **FL** — no lockout (zero is just empty). (`00 §7`)
 - **West** — Shaken Faith at 0: cannot push, cannot gain Faith; restored by a 4-⚔ roll or end-of-adventure. (`West 03-rolling-the-bones.md:298-307`; `00 §7`)
 - **Trade-off** — no floor vs a despair story-beat.
@@ -95,7 +95,7 @@ Dials are numbered **D1–D113** continuously, grouped by owning system. Within 
 
 **D6 — Modification target** *(which dice mods touch)*
 - **FL** — colored: Skill Dice only (never Base/Gear); below-zero skill dice roll as negative dice (⚔ on a negative die cancels a real ⚔). (`FL 03-skills.md:152-162`; `00 §5`)
-- **West** — unified pool: mods add/subtract generic dice; no negative-dice subsystem. (`West 03-rolling-the-bones.md:176-182`; `00 §5`)
+- **West** — unified pool: mods add/subtract generic dice; no negative dice. (`West 03-rolling-the-bones.md:176-182`; `00 §5`)
 - **Trade-off** — colored precision (gear/attribute/skill separable, with pressure amplifier) vs speed and simplicity.
 - **Choose** — FL-style for tactical depth and clean gear/attribute separation; West-style for pace; negative dice Optional.
 
@@ -111,16 +111,16 @@ Dials are numbered **D1–D113** continuously, grouped by owning system. Within 
 - **Trade-off** — GM-sets-the-bar vs roll-reads-its-grade.
 - **Choose** — **hybrid (recommended):** read the grade, allow optional threshold-raising / Declared Effort.
 
-**D9 — Legendary-die subsystem** *(the power ceiling for single rolls)* ⟷ D85
+**D9 — Legendary die** *(the power ceiling for single rolls)* ⟷ D85
 - **FL** — on: artifact dice (D8/D10/D12, 6+ = ⚔, scaled, immune to wear) + Pride (once/session escalating heroic-moment die). (`FL 03-skills.md:232-258`; `00 §9`)
 - **West** — off: no equivalent (Faith is a currency, not a die). (`00 §9`)
 - **Trade-off** — high-tier escalation + heroic peaks vs flat power ceiling.
 - **Choose** — on for fantasy/pulp/epic; off for grounded/historical/low-power.
 
 **D10 — Failure-pressure layer** *(how failure taxes)* ⟷ D1, D2
-- **FL** — banes: mechanical tax on the dice (💀), always on push; failed push + ≥3💀 = severe setback. (`FL 03-skills.md:97-101`; `00 §6, §10`)
+- **FL** — banes: dice-facing tax (💀), always on push; failed push + ≥3💀 = severe setback. (`FL 03-skills.md:97-101`; `00 §6, §10`)
 - **West** — Trouble: narrative tables (Safe/Risky/Desperate exposure), frame-gated; failed push = +1 Trouble. (`West 03-rolling-the-bones.md:90-101`; `00 §6, §10`)
-- **Trade-off** — mechanical tax (precise, attritional) vs narrative tax (fictional, chosen).
+- **Trade-off** — dice tax (precise, attritional) vs story tax (fictional, chosen).
 - **Choose** — must be consistent with D1 (banes pair with bane-self-harm; Trouble pairs with currency-spend). Hybrid valid.
 
 ### 4.B Character Model (`01`)
@@ -143,13 +143,13 @@ Dials are numbered **D1–D113** continuously, grouped by owning system. Within 
 - **Trade-off** — narrow competent range vs wider curve.
 - **Choose** — match the desired power spread; 2–4 for gritty competence, 1–5 for wider differentiation.
 
-**D14 — Protected-dial model** *(the player's personal pressure-relief resource)* ⟷ D1, D3
+**D14 — Inner fire model** *(the player's personal pressure-relief resource)* ⟷ D1, D3
 - **FL** — Pride: a die (D8/D10/D12), narrow scope (protective rolls only), once/session, at-risk. (`FL 02-your-adventurer.md:456-462`; `01 §5`)
 - **West** — Faith: a currency, broad scope (whole push/trouble loop), per-scenario, depleted = Shaken. (`West 03-rolling-the-bones.md:84-88, 258-311`; `01 §5`)
 - **Trade-off** — peak moments (die) vs sustained agency (currency).
 - **Choose** — **hybrid (recommended):** small currency pool + escalating once/session die. Pride-style for lethal one-shots; Faith-style for dramatic arcs.
 
-**D15 — Protected-dial identity load** *(how heavy the resource's meaning is)*
+**D15 — Inner fire identity load** *(how heavy the resource's meaning is)*
 - **FL** — light: Pride is "stubborn will" (a note). (`01 §5`)
 - **West** — heavy: Faith is a one-sentence belief system ("the Lord is my shepherd"). (`West 03-rolling-the-bones.md:258`; `01 §5`)
 - **Trade-off** — minimal texture vs character-defining beat.
@@ -217,11 +217,11 @@ Dials are numbered **D1–D113** continuously, grouped by owning system. Within 
 - **Trade-off** — implicit vs fiction-gated.
 - **Choose** — **always make it explicit (West-style)** — free in-fiction texture.
 
-**D26 — XP pace dial** *(arc-length control)*
+**D26 — XP pace** *(arc-length control)*
 - **FL** — two paces: Tale (fast, short stories) vs Campaign (slow, multi-year). (`FL 02-your-adventurer.md:602-606`; `02 §3`)
 - **West** — single default pace. (`02 §3`)
 - **Trade-off** — adjustable arc length vs simplicity.
-- **Choose** — add a pace dial for flexible groups; both books converge on 1–3 XP/session + 2/4 milestones + 1/season downtime as the default budget.
+- **Choose** — add pace choices for flexible groups; both books converge on 1–3 XP/session + 2/4 milestones + 1/season downtime as the default budget.
 
 **D27 — Attribute training cap** *(max attribute via training)* ⟷ D13
 - **FL** — 4 (key attribute up to 6 at creation). (`FL 02-your-adventurer.md:637-645`; `02 §4`)
@@ -229,7 +229,7 @@ Dials are numbered **D1–D113** continuously, grouped by owning system. Within 
 - **Trade-off** — narrow ceiling vs wider.
 - **Choose** — match D13's creation ceiling.
 
-**D28 — Metacurrency → XP conversion** *(linking short-term pool to long-term growth)*
+**D28 — Willpower → XP conversion** *(linking short-term pool to long-term growth)*
 - **FL** — yes (Optional): 10 WP surrendered across sessions = 1 XP. (`FL 02-your-adventurer.md:404-408`; `02 §9`)
 - **West** — no. (`02 §9`)
 - **Trade-off** — pools-mean-something vs cleaner separation.
@@ -285,7 +285,7 @@ Dials are numbered **D1–D113** continuously, grouped by owning system. Within 
 - **Trade-off** — simpler vs the gold standard for firearms.
 - **Choose** — West's dual model for firearm genres; FL's soak-only for lower-tech.
 
-**D37 — Reach subsystem** *(weapon-length as positioning pressure)*
+**D37 — Reach rule** *(weapon-length as positioning pressure)*
 - **FL** — deep: Short/Normal/Long bands + CUT IN/BRACE/INTERCEPT/LOCK SHIELDS/FEINT/HALF-HAND. (`FL 05-combat-and-damage.md:249-339`; `03 §6`)
 - **West** — light: Brace for ranged only; melee reach implicit. (`West 05-conflict-and-damage.md:209-211`; `03 §6`)
 - **Trade-off** — melee tactical depth vs simplicity.
@@ -296,7 +296,7 @@ Dials are numbered **D1–D113** continuously, grouped by owning system. Within 
 - **Trade-off** — scarcity (the engine's balance assumption) vs flexibility.
 - **Choose** — **keep at 2.** Raise to 3 only for high-action pulp (requires rebalancing damage).
 
-**D39 — Reaction economy** *(what out-of-turn defense costs)*
+**D39 — Reaction budget** *(what out-of-turn defense costs)*
 - **FL / West** — reactions draw from the shared action budget (declared before the attack resolves). (`FL 05-combat-and-damage.md:271-273`; `West 05-conflict-and-damage.md:162-170`; `03 §8`)
 - **Trade-off** — prevents defense-bloat vs free infinite defense.
 - **Choose** — **never make reactions free** without rebalancing damage. This coupling is non-negotiable.
@@ -343,11 +343,11 @@ Dials are numbered **D1–D113** continuously, grouped by owning system. Within 
 - **Trade-off** — single ability vs circumstance-chosen + medium expansion.
 - **Choose** — map to your attribute array; add mail/telegram/radio variants for any genre with written comms.
 
-**D47 — Reputation integration** *(is social standing a tracked subsystem?)*
+**D47 — Reputation integration** *(is social standing tracked?)*
 - **FL** — explicit local-Reputation table (+1/+2, symmetric). (`FL 05-combat-and-damage.md:429-431`; `03 §11`)
 - **West** — folded into genre core, not a separate table. (`03 §11`)
 - **Trade-off** — explicit-table vs implicit.
-- **Choose** — FL-table when reputation is a tracked subsystem (D110).
+- **Choose** — FL-table when reputation is a tracked rule (D110).
 
 **D48 — Ceremonial conflict mode** *(the genre's signature scripted beat)*
 - **FL** — Ambush/sneak-attack: free pre-initiative action, target cannot react. (`FL 05-combat-and-damage.md:218-233`; `03 §12`)
@@ -364,7 +364,7 @@ Dials are numbered **D1–D113** continuously, grouped by owning system. Within 
 **D50 — Mount depth** *(how central mounts are)*
 - **FL** — condition: −1 vs mounted; polearm synergy. (`FL 05-combat-and-damage.md:135, 167`; `03 §14`)
 - **West** — participant: statted horse, ANIMAL HANDLIN', Spooked state, lasso, 8-dice fall risk. (`West 05-conflict-and-damage.md:110, 231-237`; `03 §14`)
-- **Trade-off** — tactical edge vs full subsystem.
+- **Trade-off** — tactical edge vs full rule set.
 - **Choose** — condition-depth for low-mount genres; participant-depth for mounted genres.
 
 ### 4.E Harm & Consequences (`04`)
@@ -439,7 +439,7 @@ Dials are numbered **D1–D113** continuously, grouped by owning system. Within 
 **D62 — Power layer on/off** *(the master switch)* — **single most important genre decision**
 - **FL** — ON: full apparatus (17 disciplines). (`FL 07-magic.md`; `05 §10`)
 - **West** — OFF: zero instance (proof the engine runs at full strength without it). (`West 03-rolling-the-bones.md:258-311`; `05 §10`)
-- **Trade-off** — maximal subsystem vs engine alone.
+- **Trade-off** — maximal rule set vs engine alone.
 - **Choose** — OFF for any genre where powers break the fiction (historical, western, war, mystery); ON when powers *are* the fiction.
 
 **D63 — Power density** *(how much of the FL apparatus to instantiate)* ⟷ D62
@@ -464,7 +464,7 @@ Dials are numbered **D1–D113** continuously, grouped by owning system. Within 
 - **FL** — core WP (the same pool as talents) + Burn (self-harm override: chosen quantity, random attribute) + refunds at high rank. (`FL 07-magic.md:73-131`; `05 §5`)
 - **West** — core Faith (fuels pushing/Trouble only, never new capabilities). (`05 §5`)
 - **Trade-off** — extended purchase scope vs core-scope only.
-- **Choose** — **always reuse the core metacurrency** (never invent a parallel one); add Burn for Medium+ if you want desperate casting; refunds only at High.
+- **Choose** — **always reuse the core Willpower/Faith pool** (never invent a parallel one); add Burn for Medium+ if you want desperate casting; refunds only at High.
 
 **D67 — Mishap layer** *(failure pressure for powers)* ⟷ D10, D52
 - **FL** — 17 typed D66 mishap families (one per discipline), count-modified (−10/+0/+10 by 💀 count). (`FL 07-magic.md:158-176`; `05 §7`)
@@ -504,7 +504,7 @@ Dials are numbered **D1–D113** continuously, grouped by owning system. Within 
 
 ### 4.G Travel & Downtime (`06`)
 
-**D73 — Spatial model** *(the central travel dial — what travel is about)*
+**D73 — Spatial model** *(the central travel choice — what travel is about)*
 - **FL** — hex-crawl: 10km tiles, per-tile navigation + mishaps, fog-of-war, terrain types. (`FL 08-journeys.md:7-42`; `06 §3`)
 - **West** — pointcrawl: miles/Shift between named points, rush roll, the "between" is attrition. (`West 06-life-in-the-old-west.md:1261-1345`; `06 §3`)
 - **Trade-off** — exploration depth (the map *is* play) vs prep/speed (the points are the story).
@@ -542,7 +542,7 @@ Dials are numbered **D1–D113** continuously, grouped by owning system. Within 
 
 **D79 — Food tracking** *(how supply is counted)* ⟷ D18
 - **FL** — Resource Dice (daily roll-down) + spoilage-by-HEAT + food-as-healing-currency (short break restores attributes via food/water). (`FL 08-journeys.md:307-430, 555-573`; `06 §8`)
-- **West** — scene-level scarcity + profession/trap subsystem. (`West 11-frontier-survival-and-hunt.md:191-470`; `06 §8`)
+- **West** — scene-level scarcity + profession/trap rules. (`West 11-frontier-survival-and-hunt.md:191-470`; `06 §8`)
 - **Trade-off** — mechanical attrition vs color + mechanics.
 - **Choose** — Resource Die when supply is load-bearing; profession when the hunt is the story; **wire food to healing (FL) for hard-survival games.**
 
@@ -561,7 +561,7 @@ Dials are numbered **D1–D113** continuously, grouped by owning system. Within 
 **D82 — Mishap model (travel)** *(how travel failure taxes)* ⟷ D10
 - **FL** — extensive D6/D66 mishap tables per activity. (`FL 08-journeys.md`; `06 §11`)
 - **West** — Trouble system (narrative). (`06 §11`)
-- **Trade-off** — mechanical tax vs narrative tax.
+- **Trade-off** — dice tax vs story tax.
 - **Choose** — keep consistent with the core loop's push-cost model (D1).
 
 ### 4.H Base / Faction / Mass-Scale (`07`)
@@ -578,9 +578,9 @@ Dials are numbered **D1–D113** continuously, grouped by owning system. Within 
 - **Trade-off** — crafting-driven vs investment-driven.
 - **Choose** — materials for survival/crafting games; Capital for economic games; hybrid valid.
 
-**D85 — Base → metacurrency link** *(does the base fuel adventure?)*
+**D85 — Base → Willpower link** *(does the base fuel adventure?)*
 - **FL** — on: Stronghold grants +1 WP/PC/session + undisturbed rest. (`FL 09-the-stronghold.md:55-58`; `07 §4`)
-- **West** — off (business grants coin/profit, not metacurrency). (`07 §5`)
+- **West** — off (business grants coin/profit, not Willpower/Faith). (`07 §5`)
 - **Trade-off** — base fuels adventure directly vs base fuels economy.
 - **Choose** — **FL link recommended** — it's the economic reason to want a base.
 
@@ -608,7 +608,7 @@ Dials are numbered **D1–D113** continuously, grouped by owning system. Within 
 - **Trade-off** — world-moves-while-PCs-do vs world-is-the-PCs'-work.
 - **Choose** — enable for political/strategic campaigns; omit for character/community games (saves enormous bookkeeping).
 
-**D90 — Faction-turn Mode dial** *(does turn length parameterize by war/peace?)*
+**D90 — Faction-turn mode** *(does turn length change by war/peace?)*
 - **FL** — on: Peace/Pressure = Season Turn; Muster/Campaign = Campaign Week. (`FL 11-politics-of-the-forbidden-lands.md:988-997`; `07 §7`)
 - **West** — N/A. (`07 §7`)
 - **Trade-off** — peaceful/warring factions run at different speeds vs fixed.
@@ -646,7 +646,7 @@ Dials are numbered **D1–D113** continuously, grouped by owning system. Within 
 
 ### 4.I Gear & Economy (`08`)
 
-**D96 — Economy model** *(what characters struggle for)* — **most tone-defining gear dial**
+**D96 — Economy model** *(what characters struggle for)* — **most tone-defining gear choice**
 - **FL** — barter + commodity silver; gold ceremonial (prestige, +lead time). (`FL 10-gear.md:21-28`; `08 §4`)
 - **West** — cash (dollars) + Capital ($250 = 1) + loans (5–10% interest) + salaries. (`West 06-life-in-the-old-west.md:11-125`; `08 §4`)
 - **Trade-off** — scarcity-as-story (starved of money) vs money-as-story (managed by money).
@@ -656,7 +656,7 @@ Dials are numbered **D1–D113** continuously, grouped by owning system. Within 
 - **FL** — ceremonial gold (static prestige). (`FL 10-gear.md:25`; `08 §4`)
 - **West** — investment Capital (liquidates D6 × $50 — easy in, risky out). (`West 06-life-in-the-old-west.md:21, 49`; `08 §4`)
 - **Trade-off** — static prestige vs liquidatable-but-risky assets.
-- **Choose** — Capital only if you want an asset/business subsystem (D84); ceremonial-gold is lighter.
+- **Choose** — Capital only if you want asset/business rules (D84); ceremonial-gold is lighter.
 
 **D98 — Credit / debt** *(is debt a lever?)*
 - **FL** — none. (`08 §4`)
@@ -692,7 +692,7 @@ Dials are numbered **D1–D113** continuously, grouped by owning system. Within 
 - **FL** — action-prerequisite tags (Parrying→PARRY, Hook→SHOVE, Edged→SLASH+Slash crits). (`FL 05-combat-and-damage.md:472-536`; `08 §6`)
 - **West** — three layers: Features (stats) / Qualities (positive, max 4, stack) / Conditions (negative, Trouble-driven). (`West 06-life-in-the-old-west.md:842-905`; `08 §6`)
 - **Trade-off** — unified action-gating tags vs separated good/bad stacks.
-- **Choose** — FL when loadout should unlock tactical options; West when you want clean positive/negative optimization. Port the architecture (schema + small composable tags) either way.
+- **Choose** — FL when loadout should unlock tactical options; West when you want clean positive/negative optimization. Port the write-up structure (small composable tags) either way.
 
 **D104 — Quality ladder** *(what "Fine" means)*
 - **FL** — 3-tier (Crude −1 breaks at 0 / Standard / Fine +1 Gear Die, ×2 cost); high-end = combat bonus + status. (`FL 05-combat-and-damage.md:462-470`; `08 §8`)
@@ -708,7 +708,7 @@ Dials are numbered **D1–D113** continuously, grouped by owning system. Within 
 
 **D106 — Legendary tier** *(escalating-success-die gear)* ⟷ D9
 - **FL** — on: artifact die (D8/D10/D12, 6+ = ⚔, scaled, immune to wear) + named + oddity table. (`FL 10-gear.md:922-1106`; `08 §9`)
-- **West** — off (nearest analogue: Faith metacurrency). (`08 §9`)
+- **West** — off (nearest analogue: Faith). (`08 §9`)
 - **Trade-off** — story-loaded top-tier items vs flat power ceiling.
 - **Choose** — on for fantasy/pulp; off for grounded/historical.
 
@@ -747,7 +747,7 @@ Dials are numbered **D1–D113** continuously, grouped by owning system. Within 
 **D112 — Optional-rule surface** *(how many variant levers the table gets)*
 - **FL** — large (heroic campaigns, artifact/Pride dice, Surge of Willpower, stronghold, expanded weather). (`10 §9, §11`)
 - **West** — lean (Fast Initiative, Consumables as Resource Dice). (`10 §9, §11`)
-- **Trade-off** — more dials vs leaner core.
+- **Trade-off** — more optional rules vs leaner core.
 - **Choose** — larger surface for high-fantasy/pulp; leaner for grounded/low-power. Governed by the General/Situational/Optional layering principle (`10 §9`).
 
 **D113 — Failure-pressure idiom** *(mechanical vs narrative tax)* ⟷ D1, D10
@@ -760,21 +760,21 @@ Dials are numbered **D1–D113** continuously, grouped by owning system. Within 
 
 ## 5. Dial-dependency map (which choices constrain which)
 
-Many dials are **not independent** — setting one constrains others. Setting them inconsistently is the most common cause of a game that "feels wrong." The engine's coherence rests on these alignment chains:
+Many choices are **not independent** — setting one constrains others. Setting them inconsistently is the most common cause of a game that "feels wrong." The engine's coherence rests on these alignment chains:
 
 **The push-cost alignment chain (the engine's spine):**
 > **D1 (push-cost)** ⟷ **D2 (cost-face trigger)** ⟷ **D10/D113 (failure-pressure idiom)** ⟷ **D102 (weapon stat)** ⟷ **D105 (degradation)** ⟷ **D77 (over-exertion valve)** ⟷ **D82 (travel mishap)**.
 
-Two coherent configurations:
-- **Bane configuration (FL-pole):** bane-self-harm + always-on-push banes + degrading Gear Dice + continuous-counter degradation + forced-march body-tax + D6/D66 mishap tables. *Body and gear are the currency.*
-- **Trouble configuration (West-pole):** currency-spend + exposure-gated 1s + flat weapon mods + discrete Conditions + rush progress-tax + Trouble travel mishap. *Belief is the currency.*
+Two coherent patterns:
+- **Bane pattern (FL-pole):** bane-self-harm + always-on-push banes + degrading Gear Dice + continuous-counter degradation + forced-march body-tax + D6/D66 mishap tables. *Body and gear are the currency.*
+- **Trouble pattern (West-pole):** Faith-spend + exposure-gated 1s + flat weapon mods + discrete Conditions + rush progress-tax + Trouble travel mishap. *Belief is the currency.*
 - **Hybrid:** mix deliberately, not accidentally.
 
 **The lethality/authenticity pair:** **D110 ⟷ D111** must agree — a documentary genre wants attrition-and-circumstance; an inventive genre can afford a cleaner breakpoint.
 
 **The harm-routing chain:** **D51 (attribute mapping) ⟷ D52 (crit architecture) ⟷ D12 (damage typing) ⟷ D56 (Broken fiction).** Single-attribute mapping pairs with typed crit families; paired-split pairs with a master table.
 
-**The power-density bundle:** **D62 (on/off) → D63 (density) → {D64-power tiers, D65 casting-risk, D66 fuel, D67 mishap, D68–69 gating, D70 ladder, D71 epic}.** Density sets all sub-dials by default.
+**The power-density bundle:** **D62 (on/off) → D63 (density) → {D64-power tiers, D65 casting-risk, D66 fuel, D67 mishap, D68–69 gating, D70 ladder, D71 epic}.** Density sets all linked choices by default.
 
 **The ladder-ceiling cascade:** **D83 (ceiling) → {D88 abstraction-collapse, D89 faction turn, D93 mass combat, D94 logistics}.** Only enable a rung the campaign's session count can sustain.
 
@@ -782,7 +782,7 @@ Two coherent configurations:
 
 ## 6. Combined preset archetypes
 
-Each preset is a **coherent dial-set for a genre** — a starting configuration, not a finished game. Pick the closest preset, then tune. Each lists: the thesis, the key dial settings (referenced by D#), the resulting feel, and the FL/West affinity.
+Each preset is a **coherent choice-set for a genre** — a starting configuration, not a finished game. Pick the closest preset, then tune. Each lists: the thesis, the key choices (referenced by D#), the resulting feel, and the FL/West affinity.
 
 ### Preset A — Grim Survival *(FL-like)*
 
@@ -792,7 +792,7 @@ Each preset is a **coherent dial-set for a genre** — a starting configuration,
 | --- | --- |
 | D1 Push-cost | Bane-self-harm |
 | D2 / D10 / D113 Failure pressure | Banes, always-on-push |
-| D3 / D4 / D5 Metacurrency | WP, harm-refueled, cap 10, no lockout |
+| D3 / D4 / D5 Willpower | WP, harm-refueled, cap 10, no lockout |
 | D108 / D110 / D111 Tone | Frontier survival; Broken-easy/death-hard; inventive-within-tone |
 | D62 / D63 Power | ON, High |
 | D73 / D74 / D75 Travel | Hex-crawl; Quarter-day + checklist; full 14-row menu |
@@ -813,7 +813,7 @@ Each preset is a **coherent dial-set for a genre** — a starting configuration,
 | --- | --- |
 | D1 Push-cost | Currency-spend (Faith) |
 | D2 / D10 / D113 Failure pressure | Trouble tables, exposure-gated |
-| D3 / D4 / D5 Metacurrency | Faith, action/success-refueled, 4/scenario, Shaken at 0 |
+| D3 / D4 / D5 Faith | Faith, action/success-refueled, 4/scenario, Shaken at 0 |
 | D108 / D110 / D111 Tone | Old West grit; attrition-and-circumstance; documentary-verify |
 | D62 Power | OFF (None) |
 | D73 / D74 / D75 Travel | Pointcrawl; Shift (loose); implicit menu + mounted labor |
@@ -836,7 +836,7 @@ Each preset is a **coherent dial-set for a genre** — a starting configuration,
 | --- | --- |
 | D1 Push-cost | Currency-spend or light hybrid |
 | D2 / D10 / D113 Failure pressure | Trouble (light narrative) or none |
-| D3 / D4 / D5 Metacurrency | Action/success-refueled; **larger cap (12–15)**; **no lockout** (forgiving) |
+| D3 / D4 / D5 Willpower | Action/success-refueled; **larger cap (12–15)**; **no lockout** (forgiving) |
 | D108 / D110 / D111 Tone | Heroic; **death very hard, fast recovery**; inventive-within-tone (loose) |
 | D62 / D63 Power | ON, Medium–High (magic/powers central) |
 | D9 / D106 Legendary | ON (artifact die + heroic-moment die) |
@@ -859,7 +859,7 @@ Each preset is a **coherent dial-set for a genre** — a starting configuration,
 | --- | --- |
 | D1 Push-cost | Bane-self-harm (attritional) |
 | D2 / D10 / D113 Failure pressure | Banes + Trouble (hybrid — rad-storms as Trouble, combat as banes) |
-| D3 / D4 / D5 Metacurrency | WP harm-refueled *or* action-refueled; cap 10; **Shaken-style lockout optional** (despair spiral) |
+| D3 / D4 / D5 Willpower | WP harm-refueled *or* action-refueled; cap 10; **Shaken-style lockout optional** (despair spiral) |
 | D108 / D110 / D111 Tone | Ruin survival; **high attrition**; inventive-within-tone |
 | D62 / D63 Power | None or Low (salvage "gadgets" / mutations as Standard-tier reskins) |
 | D73 / D74 / D75 Travel | Hex-crawl (exploration of ruin); Quarter-day + checklist; full menu |
@@ -880,10 +880,10 @@ Each preset is a **coherent dial-set for a genre** — a starting configuration,
 | --- | --- |
 | D1 Push-cost | Currency-spend or hybrid |
 | D2 / D10 Failure pressure | Trouble + banes (hybrid) |
-| D3 / D4 Metacurrency | Action/success-refueled or harm-refueled; cap 10 |
+| D3 / D4 Willpower | Action/success-refueled or harm-refueled; cap 10 |
 | D108 / D110 / D111 Tone | Mission/survival; medium lethality; inventive-but-grounded (tech must be coherent) |
 | D62 / D63 Power | Medium (psi / gadgets / cyber) — often universal, so lean Low if everyone has it |
-| D73 / D83 Travel/Base | Pointcrawl (star systems) **or** hex; ship-as-base (D85 base→metacurrency link on); life-support as attrition |
+| D73 / D83 Travel/Base | Pointcrawl (star systems) **or** hex; ship-as-base (D85 base→Willpower link on); life-support as attrition |
 | D96 Economy | Credits + capital (corp shares, ship mortgages → D98 debt) |
 | D89 Faction | Company/Faction (corps, fleets) |
 | D102 / D103 / D105 Gear | Three-layer grammar; **Energy/Ballistic tags, smart-link, recoil, overheating Conditions** |
@@ -901,7 +901,7 @@ Each preset is a **coherent dial-set for a genre** — a starting configuration,
 | --- | --- |
 | D1 Push-cost | Bane-self-harm (body **and mind** attrition — pushes hurt) |
 | D2 / D10 Failure pressure | Banes + Trouble (**madness/mishap tables** for the unknown) |
-| D3 / D4 / D5 Metacurrency | Small pool, harm-refueled; **Shaken-style lockout ON** (despair spiral when empty) |
+| D3 / D4 / D5 Willpower | Small pool, harm-refueled; **Shaken-style lockout ON** (despair spiral when empty) |
 | D108 / D110 / D111 Tone | Dread; **high lethality**; inventive but **tonally strict** (the unknown is never explained) |
 | D62 / D63 Power | None or Low — **the unknown is the power, not the PCs** (if magic, it corrupts: D71 corruption spiral) |
 | D73 Travel | Pointcrawl (investigation) **or confined** (the haunted house — no travel layer) |
@@ -940,9 +940,9 @@ This is not the default engine. It is a campaign-mode package for heroic fantasy
 | --- | --- | --- |
 | Vigor | derived from body attributes | damage hits a heroic buffer before attributes |
 | Resolve | derived from mind/social attributes | fear, doubt, pressure, and social harm hit a heroic buffer first |
-| Menace | GM pool starts near PC metacurrency | GM pressure becomes visible and spendable |
+| Menace | GM pool starts near PC Willpower/Faith | GM pressure becomes visible and spendable |
 | Extras | ordinary enemies simplified | heroes can defeat crowds without full stat tracking |
-| Champions | named foes get buffers and talents | major enemies stay dangerous |
+| Champions | named foes get shields and talents | major enemies stay dangerous |
 | Mobs | extras act as groups | crowds become fast to run |
 | Broken shields | sacrifice defense to avoid one blow | defense becomes cinematic and costly |
 | Show of force | frighten extras after a decisive kill/display | victory can cascade through morale |
@@ -950,18 +950,18 @@ This is not the default engine. It is a campaign-mode package for heroic fantasy
 
 ### 7.2 Vigor and Resolve
 
-Vigor and Resolve are short heroic buffers. They do not replace attribute damage forever; they delay it so the scene has room to breathe.
+Vigor and Resolve are short heroic shields. They do not replace attribute damage forever; they delay it so the scene has room to breathe.
 
 | Buffer | Derived from | Takes hits from | Recovers |
 | --- | --- | --- | --- |
-| Vigor | average of physical attributes, rounded up | weapons, falls, fire, poison, physical exhaustion | one rest scene, metacurrency spend, safe camp |
+| Vigor | average of physical attributes, rounded up | weapons, falls, fire, poison, physical exhaustion | one rest scene, Willpower/Faith spend, safe camp |
 | Resolve | average of mental/social attributes, rounded up | fear, horror, social defeat, despair, psychic strain | one rest scene, inspiration, faith, comfort |
 
 **Damage rule:** apply appropriate harm to Vigor or Resolve first. Only excess damage reaches attributes. Once the relevant buffer is empty, further harm works normally.
 
-**Recovery rule:** spending 1 metacurrency may restore 1 Vigor and 1 Resolve, or restore one buffer by 2 if the game wants a stronger heroic valve. A full safe rest restores both. A gritty heroic game restores only after a Turn/Shift; a pulp game restores after each scene.
+**Recovery rule:** spending 1 Willpower/Faith may restore 1 Vigor and 1 Resolve, or restore one shield by 2 if the game wants a stronger heroic valve. A full safe rest restores both. A gritty heroic game restores only after a Turn/Shift; a pulp game restores after each scene.
 
-**Validation:** if buffers refresh every round, the game stops being YZE. If they never refresh, they are only extra HP. The sweet spot is scene/rest recovery with occasional metacurrency recovery.
+**Playtest check:** if shields refresh every round, the game stops being YZE. If they never refresh, they are only extra HP. The sweet spot is scene/rest recovery with occasional Willpower/Faith recovery.
 
 ### 7.3 Menace
 
@@ -969,8 +969,8 @@ Menace is the GM's pressure pool. It rises when heroes push hard, flaunt power, 
 
 | Menace gain | Amount |
 | --- | --- |
-| Start of heroic adventure | equal to number of PCs or their starting metacurrency total, by tone |
-| PC spends major metacurrency for spectacle | +1 |
+| Start of heroic adventure | equal to number of PCs or their starting Willpower/Faith total, by tone |
+| PC spends major Willpower/Faith for spectacle | +1 |
 | PC uses Blood Price, taboo power, atrocity, or public illegal device | +1 to +3 |
 | Heroes ignore a known threat clock | +1 |
 | Major villain scene begins | +2 |
@@ -1033,17 +1033,17 @@ When Vigor or Resolve still has points, the character is battered, staggered, fr
 - Broken shields must cost a real object, charge, ally position, or repair burden.
 - Show of force should work mainly on extras and mobs, not on every named villain.
 
-## 8. How to use this file (the configuration procedure)
+## 8. How to use this file
 
 When configuring a new YZE game:
 
 1. **Pick a preset (§6)** closest to your genre — it bundles the hardest choices coherently. Note its affinity (FL-pole, West-pole, or hybrid) to know which sibling file is your deeper reference.
 2. **State the thesis (D108)** — fill "ambition = ___, exposure = ___" with physical, credible nouns. If you cannot, the genre is not ready.
-3. **Set the push-cost alignment chain (§5) first** — D1, D2, D10/D113, D102, D105, D77, D82. This single chain does more to set the *feel* than any other group of choices. Decide: bane-configuration, Trouble-configuration, or deliberate hybrid.
+3. **Set the push-cost alignment chain (§5) first** — D1, D2, D10/D113, D102, D105, D77, D82. This single chain does more to set the *feel* than any other group of choices. Decide: bane pattern, Trouble pattern, or deliberate hybrid.
 4. **Set the lethality/authenticity pair (D110 ⟷ D111)** together — they must agree.
-5. **Walk the catalog (D1–D113)** in layer order (Engine → Character → Conflict → Harm → Power → Travel → Faction → Gear), setting each dial. For each, the *Choose* field tells you when to take FL-pole, West-pole, or a hybrid.
-6. **Validate the dependency chains (§5)** — confirm every ⟷-marked dial is consistent with its partners.
+5. **Walk the catalog (D1–D113)** in layer order (Engine → Character → Conflict → Harm → Power → Travel → Faction → Gear), setting each choice. For each, the *Choose* field tells you when to take FL-pole, West-pole, or a hybrid.
+6. **Check the dependency chains (§5)** — confirm every ⟷-marked choice is consistent with its partners.
 7. **Validate against the math** (`13-balance-and-synergy.md`): default pool size, push rate, expected success, time-to-Broken, resource-die exhaustion, WP throughput, milestone rate vs arc length.
-8. **Run the Warning Signs** (`10 §10`): subsystem inflation, silent invalidation, false realism, vague enforcement, misleading survivability, setting-laden generic language, sibling-skill duplication. A dial setting that trips a warning sign is flagged for deeper review, not auto-rejected.
+8. **Run the Warning Signs** (`10 §10`): rule bloat, silent invalidation, false realism, vague enforcement, misleading survivability, wrong naming layer, sibling-skill duplication. A choice that trips a warning sign is flagged for deeper review, not auto-rejected.
 
-**The governing rule:** a new genre's job is to *find its currency and wire the cost model to it* (D1), *find its signature spatial pressure and ceremonial beat* (D35/D48), *find its relationship to money* (D96), *set its power ceiling* (D62/D63), and *set its campaign ceiling* (D83). Everything else is calibration. The same spine produces any genre by swapping the dials — that is the engine's proof, and this catalog is its controls.
+**The governing rule:** a new genre's job is to *find its currency and wire the cost model to it* (D1), *find its signature spatial pressure and ceremonial beat* (D35/D48), *find its relationship to money* (D96), *set its power ceiling* (D62/D63), and *set its campaign ceiling* (D83). Everything else is calibration. The same spine produces any genre by swapping the choices — that is the engine's proof, and this catalog is its control panel.

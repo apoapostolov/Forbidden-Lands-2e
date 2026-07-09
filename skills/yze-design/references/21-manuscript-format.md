@@ -2,7 +2,7 @@
 
 # Manuscript Format — Engine-Level Formatting Conventions
 
-> **STATUS: FILLED.** The formatting convention for all published YZE text — rulebook chapters, talent descriptions, maneuver lists, adventure text, examples of play. These rules are **engine-level**: they apply to any YZE game (FL, West, or a new genre), because both source books follow them. Game-specific chrome (FL's statblock table layout, West's 8-column NPC table) stays with the game-specific skills; this file owns the conventions that are true everywhere. Load alongside `20-publication-voice.md` (which handles jargon→prose *translation*; this file handles *formatting*).
+> **STATUS: FILLED.** The formatting convention for all published YZE text — rulebook chapters, talent descriptions, maneuver lists, adventure text, examples of play. These rules are **engine-level**: they apply to any YZE game (FL, West, or a new genre), because both source books follow them. Game-specific chrome (FL's statblock table layout, West's 8-column NPC table) stays with the game-specific skills; this file owns the conventions that are true everywhere. Load alongside `20-publication-voice.md` (which handles jargon→prose *translation*) and `26-naming-the-game.md` (which handles flavorful generic and genre-specific names). This file handles *formatting*.
 
 ## Contents
 
@@ -59,7 +59,7 @@ This matches both source books: FL bolds and ALL-CAPS its action names (`**SLASH
 
 This matches West's convention (FIGHTIN', SHOOTIN', MOVE, LABOR — always ALL-CAPS). FL uses _italics lowercase_ for skills in some contexts (_melee_, _move_), but the engine-level convention — what works for both — is ALL-CAPS. A game may adopt italics-lowercase as its own style choice (FL does), but the generic engine layer uses ALL-CAPS.
 
-**Generic vs game-specific names.** When writing engine-agnostic text, use the generic skill names from `15-glossary-and-taxonomy.md` (MANIPULATION, PERFORMANCE, INSIGHT, MELEE, MARKSMANSHIP, etc.). When writing for a specific game, use that game's names (FIGHTIN', SHOOTIN', PRESENCE, PERFORMIN').
+**Flavorful generic vs game-specific names.** When writing engine-agnostic text, use the flavorful generic names from `15-glossary-and-taxonomy.md` and `26-naming-the-game.md` (Race, Life Events, Willpower, Menace, Holdings and Territory). When writing for a specific game, use that game's names (FIGHTIN', SHOOTIN', PRESENCE, PERFORMIN', Faith, Heat, Nerve, or whatever the game has chosen).
 
 ## 5. Action type (SLOW / FAST)
 

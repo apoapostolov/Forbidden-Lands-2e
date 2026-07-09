@@ -6,7 +6,7 @@
 
 ## 1. Origin
 
-- **Source primitives:** P7, P9, P13, P14.
+- **Source patterns:** P7, P9, P13, P14.
 - **Operators:** Abstraction-Climb + Fusion.
 - **Target psychology:** owning ground creates obligations.
 - **Problem solved:** territory should be a living pressure map, not a static reward.
@@ -142,9 +142,9 @@ Roll when a domain action fails by 2+, a pressure hits 6, or a faction Strike la
 
 Claim -> upkeep/faction moves -> domain action -> event -> changed map.
 
-## 4. Dials
+## 4. Choices
 
-| Dial | Local | Domain | Psychology |
+| Choice | Local | Domain | Psychology |
 | --- | --- | --- | --- |
 | Turn length | session/week | season/year | turf drama vs kingdom play |
 | Ratings | 3 | 5+ | light vs strategic |
@@ -154,7 +154,7 @@ Claim -> upkeep/faction moves -> domain action -> event -> changed map.
 
 Hooks into base, faction web, reputation, heat, economy, travel, and mass conflict.
 
-## 6. Interface
+## 6. Handshake
 
 - **Prerequisites:** map or node list, factions or threats.
 - **Inputs:** territory ratings, faction list, turn length.
@@ -167,7 +167,7 @@ Hooks into base, faction web, reputation, heat, economy, travel, and mass confli
 
 Too many territories create spreadsheet play. Track only contested or player-owned places. Domain rewards must create upkeep, attention, or rivals.
 
-## 8. Validation notes
+## 8. Check notes
 
 Use `24 §6`. Domain play is Campaign Mode unless the whole game is about territory.
 

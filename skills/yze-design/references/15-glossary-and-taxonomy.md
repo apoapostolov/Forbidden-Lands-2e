@@ -426,6 +426,7 @@ One-line definition of every engine system/subsystem, grouped by cluster. Each e
 | **Synergy stress-test protocol** | The step-by-step interaction-analysis method: map touch surface → enumerate → "more than sum?" → gated? → Five Tests → verdict. | `13` §6 |
 | **Table-behavior lenses** | The nine playability checks (math/perceived/table-complexity/ambiguity/recoverability/agency/catastrophe/campaign/verdict). | `13` §7 |
 | **Validation pipeline** | The end-to-end checklist: intent → math → exploit → synergy → table → layer → verdict. | `13` §8 |
+| **Naming the Game** | The naming pass that converts analytical terms into flavorful generic names and then genre-specific game terms. | `26` |
 
 ## 5. Cross-reference index (term → file §)
 
@@ -585,6 +586,7 @@ For each generic term, the file + section where it is defined in depth. This is 
 | Synergy stress-test protocol (Five Tests) | `13` §6 |
 | Table-behavior lenses (9) | `13` §7 |
 | Validation pipeline (intent → math → exploit → synergy → table → verdict) | `13` §8 |
+| Naming the Game, forbidden blandness list, flavorful generic names, genre-specific naming procedure | `26` |
 
 ## 6. Design intent
 

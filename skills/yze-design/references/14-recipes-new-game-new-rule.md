@@ -2,14 +2,14 @@
 
 # Recipes — New Game, New Rule
 
-> **STATUS: FILLED (Pass-2, upgraded to complete-game package).** This is the SYNTHESIS file that makes the skill actionable end-to-end. Two cookbooks: Recipe A builds a complete YZE game package for any genre; Recipe B designs and validates a single new rule or subsystem. Both are step lists whose every step cites the reference file that owns the deep detail — this file owns the *go build one*, the siblings own the *how each system works*. Read alongside `22-design-orchestrator.md` (routing and deliverables), `10-design-philosophy.md` (the gate every step's output must pass), and `13-balance-and-synergy.md` / `24-validation-worksheets.md` (the validation engine both recipes end in).
+> **STATUS: FILLED (Pass-2, upgraded to complete-game package).** This is the SYNTHESIS file that makes the skill actionable end-to-end. Two cookbooks: Recipe A builds a complete YZE game package for any genre; Recipe B designs and validates a single new rule or rule set. Both are step lists whose every step cites the reference file that owns the deep detail — this file owns the *go build one*, the siblings own the *how each system works*. Read alongside `22-design-orchestrator.md` (routing and deliverables), `10-design-philosophy.md` (the gate every step's output must pass), `13-balance-and-synergy.md` / `24-validation-worksheets.md` (the validation engine both recipes end in), and `26-naming-the-game.md` (the naming pass that turns analysis into game terms).
 
 ## Contents
 
 1. Source provenance
 2. Abstraction target
 3. Recipe A — Build a complete YZE game package
-4. Recipe B — Design and validate a new rule/subsystem
+4. Recipe B — Design and validate a new rule or rule set
 5. Worked examples
 6. Design intent
 
@@ -21,8 +21,8 @@ Synthesis file — draws on all of `00`–`13`. Primary evidence is the two core
 
 Two **cookbooks** that make the skill operational, not just descriptive:
 
-- **Recipe A — Build a complete YZE game package.** A 15-step procedure for going from "I want a YZE game in genre X" to a playable game package: premise, loop proof, character model, core rules, subsystem inventory, starter scenario, examples of play, character-sheet fields, manuscript outline, and validation memo. Each step names the decision to make, gives the calibrated FL/West reference answer, points to the reference file + dial that owns the deep detail, and ends with a one-line "what you have when this step is done."
-- **Recipe B — Design + validate a new rule.** The end-to-end maker's pipeline (intent → math → exploit → synergy → table → layer → verdict), restated as a numbered checklist with worked stubs and the ship/revise/reject decision logic. Full detail in `13-balance-and-synergy.md` §8; this file restates it as the *go do it* list.
+- **Recipe A — Build a complete YZE game package.** A 16-step procedure for going from "I want a YZE game in genre X" to a playable game package: premise, loop proof, character model, core rules, rules inventory, naming sheet, starter scenario, examples of play, character-sheet fields, manuscript outline, and validation memo. Each step names the decision to make, gives the calibrated FL/West reference answer, points to the reference file + choice that owns the deep detail, and ends with a one-line "what you have when this step is done."
+- **Recipe B — Design + validate a new rule.** The end-to-end maker's pipeline (intent → math → abuse check → synergy → table → layer → name → verdict), restated as a numbered checklist with worked stubs and the ship/revise/reject decision logic. Full detail in `13-balance-and-synergy.md` §8 and `26-naming-the-game.md`; this file restates it as the *go do it* list.
 
 Apply the Abstraction Ladder to: each step's decision, the two games' choices as reference answers, and the trade-offs. The recipes exist so a designer can start at Recipe A step 1 and reach a complete quickstart-ready package, or Recipe B step 1 and reach a validated rule, **using only this skill.** For substantial work, load `22` first and use this file as the build sequence.
 
@@ -30,7 +30,7 @@ Apply the Abstraction Ladder to: each step's decision, the two games' choices as
 
 ## 3. Recipe A — Build a complete YZE game package
 
-> **How to use this recipe:** Run the steps in order. Each step is one design decision plus a pointer to where the deep work happens. Do not try to perfect a step before moving on — the recipe produces a *skeleton*; you validate the whole skeleton in step 15 and iterate. Steps 1–2 set the tone everything else inherits; steps 3–11 are parallel dial-settings (you can draft them in one pass); steps 12–14 are authoring; step 15 is the gate.
+> **How to use this recipe:** Run the steps in order. Each step is one design decision plus a pointer to where the deep work happens. Do not try to perfect a step before moving on — the recipe produces a *skeleton*; you validate the whole skeleton in step 15, name it in step 16, and iterate. Steps 1–2 set the tone everything else inherits; steps 3–11 are parallel rule choices (you can draft them in one pass); steps 12–14 are authoring; step 15 is the gate; step 16 turns it into a game package.
 
 ### Step 1 — State the thesis (ambition-to-exposure tension)
 
@@ -44,7 +44,7 @@ Apply the Abstraction Ladder to: each step's decision, the two games' choices as
 
 **If you cannot fill both blanks with physical nouns, the genre is not ready for the engine.** This single sentence governs every later step — any rule that doesn't serve the thesis doesn't belong in the game.
 
-**Detail lives in:** `10-design-philosophy.md` §3 (core identity), §12 instantiation recipe dial 1. **What you have when done:** a one-sentence thesis that will anchor every flavor and balance choice. → `10`
+**Detail lives in:** `10-design-philosophy.md` §3 (core identity), §12 instantiation recipe choice 1. **What you have when done:** a one-sentence thesis that will anchor every flavor and balance choice. → `10`
 
 ### Step 2 — Name four attributes expressing the genre's tension + damage types
 
@@ -70,17 +70,17 @@ Apply the Abstraction Ladder to: each step's decision, the two games' choices as
 
 **Detail lives in:** `01-character-model.md` §3, §10 step 3. **What you have when done:** a filled 4×4 grid (attribute → 4 skills). → `01`
 
-### Step 4 — Pick the metacurrency model
+### Step 4 — Pick the Willpower model
 
-**Decision:** Choose the push-cost model + the metacurrency refuel + the protected-dial model. This is the **single choice that sets tone more than any other.**
+**Decision:** Choose the push-cost model + the Willpower refuel + the Pride/Faith/inner-fire rule. This is the **single choice that sets tone more than any other.** "Willpower" is the flavorful generic name; rename it for the finished game if needed.
 
 **Reference answer:**
-- **FL:** **Bane-self-harm** push cost (body/gear pay, no currency spent to push) + **harm-refueled** metacurrency (Willpower Points, cap 10, +1 WP per 💀 on Base Dice when pushing) + **Pride** (a die, narrow scope, once/session).
-- **West:** **Currency-spend** push cost (1 Faith per push) + **action/success-refueled** metacurrency (Faith, cap 10, 4/scenario) + **Faith-as-currency** (broad scope, fuels the whole push/trouble loop).
+- **FL:** **Bane-self-harm** push cost (body/gear pay, no currency spent to push) + **harm-refueled** Willpower (Willpower Points, cap 10, +1 WP per 💀 on Base Dice when pushing) + **Pride** (a die, narrow scope, once/session).
+- **West:** **Currency-spend** push cost (1 Faith per push) + **action/success-refueled** Faith (cap 10, 4/scenario) + **Faith-as-currency** (broad scope, fuels the whole push/trouble loop).
 
 **Recommended for new games:** **hybrid** — a currency cost *plus* a lighter bane/Trouble trigger, so pushing always costs something visible but isn't always injurious; a small currency pool *plus* an escalating once-session die. Keep the **virtuous loop** intact (risk must refuel agency) — never sever refuel from the risk that earns it.
 
-**Detail lives in:** `00-engine-core.md` §6 (the two cost models), §7 (metacurrency abstraction), §11 dials 1–5; `01-character-model.md` §5 (Pride/Faith); `11-design-dials-and-variants.md` (metacurrency + failure dials). **What you have when done:** a one-paragraph metacurrency rule (cap, refuel trigger, what it buys) consistent with the push-cost model. → `00`, `11`
+**Detail lives in:** `00-engine-core.md` §6 (the two cost models), §7 (Willpower and Faith), §11 choices 1–5; `01-character-model.md` §5 (Pride/Faith); `11-design-dials-and-variants.md` (Willpower + failure choices); `26-naming-the-game.md` (rename Willpower for the genre). **What you have when done:** a one-paragraph Willpower rule (name, cap, refuel trigger, what it buys) consistent with the push-cost model. → `00`, `11`, `26`
 
 ### Step 5 — Pick the failure-pressure model
 
@@ -92,19 +92,19 @@ Apply the Abstraction Ladder to: each step's decision, the two games' choices as
 
 **Pairing rule:** bane-self-harm (step 4) pairs naturally with banes; currency-spend pairs with Trouble. Don't cross the streams without intent. A lighter option: Trouble + a bane-free pool (the lightest failure tax that still bites).
 
-**Detail lives in:** `00-engine-core.md` §10 dial 10 (failure-pressure layer), the divergence rows; `11` failure-pressure dial. **What you have when done:** a stated failure-pressure layer consistent with the push-cost model. → `00`, `11`
+**Detail lives in:** `00-engine-core.md` §10 choice 10 (failure-pressure layer), the divergence rows; `11` failure-pressure choice. **What you have when done:** a stated failure-pressure layer consistent with the push-cost model. → `00`, `11`
 
 ### Step 6 — Set the conflict model
 
 **Decision:** Set the action-economy engine: time units (Round/Turn/Shift), initiative method, positioning model, the slow/fast action budget, reactive-defense layer, conflict modes, and whether to include a *ceremonial* mode.
 
 **Reference answer:**
-- **FL:** Round (~15s)/Turn (~15 min)/Quarter Day; **rolled-sticky** initiative (AGILITY+WITS → segment, with delay); **zones + range bands + reach-band subsystem** (Short/Normal/Long reach); slow/fast = (1 slow + 1 fast) ∨ (2 fast); dodge (MOVE)/parry (MELEE); melee is *verb-rich* (Slash/Stab/Punch); ceremonial mode = **ambush/sneak-attack**.
+- **FL:** Round (~15s)/Turn (~15 min)/Quarter Day; **rolled-sticky** initiative (AGILITY+WITS → segment, with delay); **zones + range bands + reach bands** (Short/Normal/Long reach); slow/fast = (1 slow + 1 fast) ∨ (2 fast); dodge (MOVE)/parry (MELEE); melee is *verb-rich* (Slash/Stab/Punch); ceremonial mode = **ambush/sneak-attack**.
 - **West:** Round (5–10s)/Turn (5–10 min)/Shift (6h, 4/day); **card-draw** initiative (Aces high, redrawn each Round); **cover ratings + to-hit grades + 6 range bands**; same slow/fast budget; block/dodge with *counterattack*; melee is *modifier-rich* (single verb + All-Out/Called); ceremonial mode = **the Duel** (Face Off → Go for Your Guns → Shoot-off).
 
 **The load-bearing rule:** the **two-actions-per-Round budget** (1 slow + 1 fast, or 2 fast) — both games use it verbatim; keep it. Reactions draw from the same budget (no free infinite defense). **Include at least one ceremonial mode** for the genre's signature beat — it's optional but every genre benefits from one.
 
-**Detail lives in:** `03-conflict-and-combat.md` (entire file — time units §3, initiative §4, positioning §5, reach §6, action budget §7, reactions §8, melee §9, ranged §10, social §11, ceremonial §12); `11` action-economy dial. **What you have when done:** a conflict chapter skeleton — time units, initiative, range/zone model, action menu, defense verbs, ceremonial mode. → `03`
+**Detail lives in:** `03-conflict-and-combat.md` (entire file — time units §3, initiative §4, positioning §5, reach §6, action budget §7, reactions §8, melee §9, ranged §10, social §11, ceremonial §12); `11` action-budget choice. **What you have when done:** a conflict chapter skeleton — time units, initiative, range/zone model, action menu, defense verbs, ceremonial mode. → `03`
 
 ### Step 7 — Set the harm model
 
@@ -123,12 +123,12 @@ Apply the Abstraction Ladder to: each step's decision, the two games' choices as
 **Decision:** First, does the genre need powers at all? If no → **None** (you're done with this step; the engine is complete without it — West is your proof). If yes, pick a density and select taxonomy tiers, casting model, fuel, mishap layer, rank ladder, epic tier.
 
 **Reference answer:**
-- **FL:** **High** — all three taxonomy tiers (Spells/Power Words/Rituals), all three casting models (safe/chance/overcharge), metacurrency+Burn fuel, 17 per-discipline mishap families, rank 1–6, full epic-ingredient economy.
-- **West:** **None** — no power layer exists. The nearest analogue (Faith) is a *metacurrency*, not a power source.
+- **FL:** **High** — all three power families (Spells/Power Words/Rituals), all three casting models (safe/chance/overcharge), Willpower+Burn fuel, 17 per-discipline mishap families, rank 1–6, full epic-ingredient economy.
+- **West:** **None** — no power layer exists. The nearest analogue (Faith) is an inner reserve, not a power source.
 
-**The decision procedure:** None → specialist/universal → taxonomy tiers → casting models → fuel+cost → mishap layer → rank ladder → epic tier (in that order). Low = reskins (gadgets/psi/miracles); Medium = sword & sorcery / urban fantasy; High = mythic high fantasy. Fuel is *always* the core metacurrency — that's what binds the layer to the engine.
+**The decision procedure:** None → specialist/universal → power families → casting models → fuel+cost → mishap layer → rank ladder → epic tier (in that order). Low = reskins (gadgets/psi/miracles); Medium = sword & sorcery / urban fantasy; High = mythic high fantasy. Fuel is *always* the core Willpower/Faith pool — that's what binds the layer to the engine.
 
-**Detail lives in:** `05-power-layer.md` §10 (the density decision table — *this file's central deliverable*), §11 divergence; `11` power-density dial. **What you have when done:** either a clear "no power layer," or a power-layer spec (density, tiers, casting, fuel, mishap, ranks, epic y/n). → `05`, `11`
+**Detail lives in:** `05-power-layer.md` §10 (the density decision table — *this file's central deliverable*), §11 divergence; `11` power-density choice. **What you have when done:** either a clear "no power layer," or a Powers and Traditions spec (density, families, casting, fuel, mishap, ranks, epic y/n). → `05`, `11`
 
 ### Step 9 — Pick the travel model
 
@@ -140,7 +140,7 @@ Apply the Abstraction Ladder to: each step's decision, the two games' choices as
 
 **The most transferable artifact:** the **activity-menu architecture** — distribute the party's labor across a fixed menu so every PC has a travel job, and *movement/navigation/security/supply are mutually exclusive demands*. Port the carry model (primary physical attribute × 2 + heavy/light/tiny) and adopt **Resource Dice** for consumables.
 
-**Detail lives in:** `06-travel-and-downtime.md` (spatial model §3, time block §4, activity menu §5, weather §7); `25-season-downtime-and-enterprises.md` when "downtime" means weeks/months/seasons rather than settlement activities; `11` travel-spatial dial. **What you have when done:** a travel chapter skeleton — spatial model, time block, activity menu, weather depth, carry/resource-die rules — plus, if needed, a period-downtime skeleton. → `06`, `25`, `11`
+**Detail lives in:** `06-travel-and-downtime.md` (spatial model §3, time block §4, activity menu §5, weather §7); `25-season-downtime-and-enterprises.md` when "downtime" means weeks/months/seasons rather than settlement activities; `11` travel-spatial choice. **What you have when done:** a travel chapter skeleton — spatial model, time block, activity menu, weather depth, carry/resource-die rules — plus, if needed, a period-downtime skeleton. → `06`, `25`, `11`
 
 ### Step 10 — Pick the org model
 
@@ -152,7 +152,7 @@ Apply the Abstraction Ladder to: each step's decision, the two games' choices as
 
 **Every org runs the same five-beat lifecycle:** founding → functions → upkeep → events → scale escalation. If the org is active across weeks, months, seasons, years, or generations, give it a period engine: Assess → Invest → Operate → Reckon → Reinvest. Enable only the rungs the genre/campaign-length needs; a one-shot needs none, a hex-crawl campaign wants the base rung, a domain game wants them all.
 
-**Detail lives in:** `07-base-faction-mass-scale.md` (the lifecycle pattern §3, scale ladder §9, instantiation recipe §11); `25-season-downtime-and-enterprises.md` (period turns, enterprise sheets, investment cycle, family/faction/settlement management); `11` faction/mass-combat dial. **What you have when done:** a stated set of enabled org rungs + (if any) a base-org spec + any period procedures needed for businesses, families, factions, or settlements. → `07`, `25`, `11`
+**Detail lives in:** `07-base-faction-mass-scale.md` (the lifecycle pattern §3, scale ladder §9, instantiation recipe §11); `25-season-downtime-and-enterprises.md` (period turns, enterprise sheets, investment cycle, family/faction/settlement management); `11` faction/mass-combat choice. **What you have when done:** a stated set of enabled org rungs + (if any) a base-org spec + any period procedures needed for businesses, families, factions, or settlements. → `07`, `25`, `11`
 
 ### Step 11 — Pick the economy model
 
@@ -164,7 +164,7 @@ Apply the Abstraction Ladder to: each step's decision, the two games' choices as
 
 **The central reusable artifact:** the **Feature Grammar** — weapons/armor are defined by a small set of composable tags, not bespoke stat lines. The grammar is what lets two swords feel different without inflating numbers. Both games ship near-identical **Availability/Scarcity** tables — port as-is.
 
-**Detail lives in:** `08-gear-and-economy.md` (economy dial §4, feature grammar §6–7, crafting §5, quality/artifact §8–9); `11` economy dial. **What you have when done:** an economy + gear skeleton — money form, availability ladder, feature tag set, crafting gates, quality tiers. → `08`, `11`
+**Detail lives in:** `08-gear-and-economy.md` (economy choice §4, feature grammar §6–7, crafting §5, quality/artifact §8–9); `11` economy choice. **What you have when done:** an economy + gear skeleton — money form, availability ladder, feature tag set, crafting gates, quality tiers. → `08`, `11`
 
 ### Step 12 — Write the GM layer
 
@@ -180,11 +180,11 @@ Apply the Abstraction Ladder to: each step's decision, the two games' choices as
 
 ### Step 13 — Set advancement
 
-**Decision:** Set the XP-source mix, the talent-ladder depth (the central choice), the cost curves, narrative-access gating, Legacy XP, and (optional) metacurrency→XP.
+**Decision:** Set the XP-source mix, the talent-ladder depth (the central choice), the cost curves, narrative-access gating, Legacy XP, and (optional) Willpower→XP.
 
 **Reference answer:**
 - **FL:** 1–3 XP/session + lethal +1 / minor +2 / major +4 / downtime 1/season; **deep 5-rank talent trees** (rank × 3 XP with teacher, ×3 without, mentor required); magic paths 1–6; implicit teacher gating; WP→XP conversion (10 WP → 1 XP, optional); Legacy XP; Named Men (NPC parallel).
-- **West:** near-identical XP-source mix; **flat 2-rank (Basic/Advanced)** talents; **explicit narrative-access gating** (forge/society/institution); no metacurrency→XP; Legacy XP.
+- **West:** near-identical XP-source mix; **flat 2-rank (Basic/Advanced)** talents; **explicit narrative-access gating** (forge/society/institution); no Willpower→XP; Legacy XP.
 
 **The converged engine default:** skill cost `(new rank × 3)` XP with teacher, ~×1.33 without, + scaling time cost + self-taught WITS/learning roll. **Make narrative-access gating explicit** (group talents by function; tag self-taught-OK vs needs-teacher) — it's free in-fiction texture.
 
@@ -192,69 +192,70 @@ Apply the Abstraction Ladder to: each step's decision, the two games' choices as
 
 ### Step 14 — Pick optional rules (declare the optional surface)
 
-**Decision:** Explicitly declare which Optional rules are *in* the manuscript and which are out. The optional surface is itself a dial (FL = larger; West = leaner).
+**Decision:** Explicitly declare which Optional rules are *in* the manuscript and which are out. The optional surface is itself a major design choice (FL = larger; West = leaner).
 
 **Reference answer:**
 - **FL optional surface:** heroic campaigns, artifact/Pride dice, Surge of Willpower (1 XP → 1 WP), stronghold, lifepath book, Morale & Rout.
 - **West optional surface:** Fast Initiative, Consumables as Resource Dice, Group Concepts, Resource Die module.
 
-**The discipline:** a rule that *could* be Situational/Optional but is written as General is a **Warning Sign** (subsystem inflation). Tag every rule General/Situational/Optional explicitly. Keep the General layer small enough to hold in working memory.
+**The discipline:** a rule that *could* be Situational/Optional but is written as General is a **Warning Sign** (rule bloat). Tag every rule General/Situational/Optional explicitly. Keep the General layer small enough to hold in working memory.
 
-**Detail lives in:** `10-design-philosophy.md` §9 (the three-tier layering principle), §10a (subsystem inflation warning), §11 divergence (optional-rule surface); `11` optional-surface dial. **What you have when done:** an explicit in/out list of optional rules, each tagged. → `10`, `11`
+**Detail lives in:** `10-design-philosophy.md` §9 (the three-tier layering principle), §10a (rule bloat warning), §11 divergence (optional-rule surface); `11` optional-surface choice. **What you have when done:** an explicit in/out list of optional rules, each tagged. → `10`, `11`
 
-### Step 15 — Run the validation pipeline on the whole skeleton
+### Step 15 — Run the playtest checks on the whole skeleton
 
-**Decision:** Run the skeleton through Recipe B (below) as if it were one large rule. Confirm the **five loops all function** (Expedition/Conflict/Recovery/Metacurrency/Base — weight 2 as dominant), confirm every pressure source has a four-beat loop, confirm the thesis survives, and confirm the whole hits the **balance targets**.
+**Decision:** Run the skeleton through Recipe B (below) as if it were one large rule. Confirm the **five loops all function** (Expedition/Conflict/Recovery/Willpower/Base — weight 2 as dominant), confirm every pressure source has a four-beat loop, confirm the thesis survives, and confirm the whole hits the **balance targets**.
 
-**The balance targets to set first** (these become the dials every later rule validates against):
+**The balance targets to set first** (these become the choices every later rule checks against):
 1. **Default pool size** (competent-character baseline ≈ 4–6 dice).
 2. **Competence thresholds** — `T = 0.50` (competent usually succeeds), `T = 0.80` (expert reliably succeeds).
 3. **Push-cost model** (step 4) — sets the pushed-column per-die rate.
-4. **Metacurrency refuel model** (step 4).
+4. **Willpower refuel model** (step 4).
 5. **Failure-pressure layer** (step 5).
 6. **Lethality & recoverability posture** (step 7).
 7. **Power-layer on/off & ceiling** (step 8).
 8. **Action-economy granularity** (step 6).
 
-**Check:** does a starting character (≈4-die pool) sit on the 50% competence line? (It should.) Does the metacurrency loop stay symmetric (refuel earned from the same risk that spends it)? Does any rule cross the 50% or 80% breakpoint ungated? If a loop is decorative (no four-beat pressure), cut it or wire it.
+**Check:** does a starting character (≈4-die pool) sit on the 50% competence line? (It should.) Does the Willpower loop stay symmetric (refuel earned from the same risk that spends it)? Does any rule cross the 50% or 80% breakpoint ungated? If a loop is decorative (no four-beat pressure), cut it or wire it.
 
-**Detail lives in:** `13-balance-and-synergy.md` §10 (set the dials), §4 (breakpoints), §8 (the full pipeline = Recipe B); `24-validation-worksheets.md` (repeatable math/tempo worksheets); `10-design-philosophy.md` §5 (the five loops), §4 (resource-at-risk model), §13 (the gate questions). **What you have when done:** a validated core game — ready for the package pass below. → `13`, `24`
+**Detail lives in:** `13-balance-and-synergy.md` §10 (set the choices), §4 (breakpoints), §8 (the full review = Recipe B); `24-validation-worksheets.md` (repeatable math/tempo worksheets); `10-design-philosophy.md` §5 (the five loops), §4 (resource-at-risk model), §13 (the gate questions). **What you have when done:** a checked core game — ready for the package pass below. → `13`, `24`
 
-### Step 16 — Produce the complete-game package
+### Step 16 — Name the game and produce the complete-game package
 
-**Decision:** Convert the validated skeleton into a playable package. Do not stop at dial choices; produce the artifacts a GM and player need.
+**Decision:** Convert the validated skeleton into a playable package. Do not stop at design choices; name the game terms, then produce the artifacts a GM and player need.
 
 **Required artifacts:**
 
 1. **Game brief:** thesis, audience promise, profile from `23`, signature mechanics, assumptions.
-2. **Core rules sheet:** attributes, skills, damage names, push/metacurrency/failure, action economy, harm/recovery, advancement.
-3. **Five-loop proof:** Expedition, Conflict, Recovery, Metacurrency, Base each Active / Secondary / Collapsed, with reason.
-4. **Subsystem inventory:** General / Situational / Optional / Campaign Mode.
-5. **Character creation checklist:** steps, starting values, gear, relationships, protected dial, sheet fields.
-6. **Starter scenario:** premise, three scenes, three NPCs, one pressure clock/table, one consequence table, one reward.
-7. **Examples of play:** ordinary roll, pushed roll, signature subsystem.
-8. **Manuscript outline:** player chapters, GM chapters, optional modules, reference sheets.
-9. **Validation memo:** use `24 §9`.
+2. **Naming sheet:** analytical name → flavorful generic name → genre-specific name for attributes, damage, Race, Life Events, Willpower, Menace/Heat, holdings, powers, gear, and signature rules.
+3. **Core rules sheet:** attributes, skills, damage names, push/Willpower/failure, action budget, harm/recovery, advancement.
+4. **Five-loop proof:** Expedition, Conflict, Recovery, Willpower, Base each Active / Secondary / Collapsed, with reason.
+5. **Rules inventory:** General / Situational / Optional / Campaign Mode.
+6. **Character creation checklist:** steps, starting values, gear, relationships, Pride/Faith/inner-fire rule, sheet fields.
+7. **Starter scenario:** premise, three scenes, three NPCs, one pressure clock/table, one consequence table, one reward.
+8. **Examples of play:** ordinary roll, pushed roll, signature rule.
+9. **Manuscript outline:** player chapters, GM chapters, optional modules, reference sheets.
+10. **Validation memo:** use `24 §9`.
 
 **Acceptance criteria:** a GM can run a one-shot, a player can build a character, and the designer can explain every major rule's pressure loop. If any artifact is missing, the game is a skeleton, not a complete package.
 
-**Detail lives in:** `22-design-orchestrator.md` §4 and §7; `20-publication-voice.md`; `21-manuscript-format.md`. **What you have when done:** a quickstart-ready game package. → `22`, `20`, `21`
+**Detail lives in:** `22-design-orchestrator.md` §4 and §7; `26-naming-the-game.md`; `20-publication-voice.md`; `21-manuscript-format.md`. **What you have when done:** a quickstart-ready game package with names that sound like a game, not a design memo. → `22`, `26`, `20`, `21`
 
 ---
 
-## 4. Recipe B — Design and validate a new rule/subsystem
+## 4. Recipe B — Design and validate a new rule or rule set
 
-> **How to use this recipe:** Start at Stage 0. Run the stages in order. A fail at any stage loops back to *redesign at that stage* — don't push a failing rule forward hoping a later stage fixes it. End at Stage 6 with a verdict. This is the maker's-pipeline restatement of `13-balance-and-synergy.md` §8; the full executable detail (heuristics, fix templates, pattern catalog) lives there.
+> **How to use this recipe:** Start at Stage 0. Run the stages in order. A fail at any stage loops back to *redesign at that stage* — don't push a failing rule forward hoping a later stage fixes it. End at Stage 7 with a named rule and a verdict. This is the maker's-pipeline restatement of `13-balance-and-synergy.md` §8 plus the naming pass from `26-naming-the-game.md`; the full executable detail (heuristics, fix templates, pattern catalog, naming checks) lives there.
 
 ### Stage 0 — Intent & source check (the gate)
 
 **Do this first. If the rule fails here, stop — don't design it.**
 
-- **[ ] What pressure / decision / loop does this rule serve?** Name the engine loop it touches (Expedition/Conflict/Recovery/Metacurrency/Base) and the pressure source it puts at risk. **If none → REJECT** (subsystem inflation, Warning Sign §10a). A rule with no pressure to relieve and no decision to sharpen is decorative.
+- **[ ] What pressure / decision / loop does this rule serve?** Name the engine loop it touches (Expedition/Conflict/Recovery/Willpower/Base) and the pressure source it puts at risk. **If none → REJECT** (rule bloat, Warning Sign §10a). A rule with no pressure to relieve and no decision to sharpen is decorative.
 - **[ ] Does an existing rule already do this?** Search the sibling that owns the problem. **If yes → REJECT as duplication** or fold into the existing rule. Identify the *chapter that owns the problem* and the *rule type* — a Chapter-8 problem solved in Chapter-6 language, or a talent problem patched with a general rule, is a warning sign.
-- **[ ] Write the one-sentence mechanism summary** (strip all flavor): *"Grants 1 WP when the character takes Strength damage."* **If you can't summarize it in one sentence, it does too much — split it.**
+- **[ ] Write the one-sentence rule summary** (plain but not sterile): *"You gain 1 Willpower when a pushed roll hurts you."* **If you can't summarize it in one sentence, it does too much — split it.**
 
-**Detail:** `13` §8 Stage 0; `10-design-philosophy.md` §10a–b (subsystem inflation, silent invalidation). → `13`
+**Detail:** `13` §8 Stage 0; `10-design-philosophy.md` §10a–b (rule bloat, silent invalidation). → `13`
 
 ### Stage 1 — Math
 
@@ -264,9 +265,9 @@ Apply the Abstraction Ladder to: each step's decision, the two games' choices as
 
 **Detail:** `13` §3 (the probability core), §4 (breakpoints), §8 Stage 1. → `13`
 
-### Stage 2 — Exploit
+### Stage 2 — Abuse check
 
-- **[ ] Tag the rule's mechanism** and cross-reference the eight exploit categories (`13` §5): infinite-loop combos / cap-bypass / silent-stacking / free-resource generation / action-economy abuse / push-cost avoidance / mishap-avoidance / talent-invalidation.
+- **[ ] Tag the rule's pattern** and cross-reference the eight abuse categories (`13` §5): infinite-loop combos / cap-bypass / silent-stacking / free-resource generation / action-budget abuse / push-cost avoidance / mishap-avoidance / talent-invalidation.
 - **[ ] Run the detection heuristic** for each fired tag. The master first question for all of them: *does activating this require one easy decision or many hard ones?* (0–1 decisions + per-round activation = danger zone; 3+ decisions + per-use cost = sweet spot.)
 - **[ ] Run the §5.9 pattern match** — name the root pattern (A Free Refund / B Unscoped Amplifier / C Risk Bypass / D Self-Maintaining Zone / E One-Decision Build / F Invisible Attacker / G Stacking Gate). The pattern dictates the fix template.
 - **[ ] Run the red-flag keyword scan** (`13` §6 Step 8): "free action," "without rolling," "no mishap," "gain WP," "ignore armor," "per Power Level," "lasts until," "automatically succeed," "stack with," "in addition to," "all allies/enemies." **Two or more in one rule → run the full Five Tests (Stage 3).**
@@ -275,11 +276,11 @@ Apply the Abstraction Ladder to: each step's decision, the two games' choices as
 
 ### Stage 3 — Synergy
 
-- **[ ] Map the touch surface.** List every subsystem the rule touches (resolution, push, action-economy, damage-state, recovery, resource, travel-pressure, exception, advancement, economy/access). A rule touching **two or more** of {metacurrency, recovery, spell/power, travel pressure} is **system-level** — review it as such, never let it ship as "local."
+- **[ ] Map the touch surface.** List every rule set the rule touches (resolution, push, action budget, damage-state, recovery, resource, travel-pressure, exception, advancement, economy/access). A rule touching **two or more** of {Willpower, recovery, spell/power, travel pressure} is **system-level** — review it as such, never let it ship as "local."
 - **[ ] Enumerate the interactions** — the specific existing rules each touch-point connects to. Describe the chain: *which rule feeds which, what triggers what.*
 - **[ ] Apply the "more than the sum of parts?" test** — the three overlap questions: (A) does it make an existing danger *cheaper*? (B) does it *increase* an existing danger's output? (C) does it *remove* an existing brake? 0 yes → proceed; 1 yes on a light zone → Cap; 1 yes on a heavy zone → Restructure; 2+ yes → Reject or Separate.
 - **[ ] If "more than the sum," run the Five Tests**, scored Healthy/Borderline/Unhealthy: **Decision Cost / Risk Exposure / Opportunity Cost / Repeatability / Campaign Erosion.** **"More than the sum" AND failing the gating tests (cost/time/risk absent or cosmetic) = exploit.**
-- **[ ] Pressure-channel audit.** Name every channel the rule relieves (resource attrition, injury fear, action scarcity, metacurrency scarcity, time pressure, mishap risk, social resistance, environmental hostility). **A rule that *deletes* a channel (not temporarily relieves) breaks the campaign spine.**
+- **[ ] Pressure-channel audit.** Name every channel the rule relieves (resource attrition, injury fear, action scarcity, Willpower scarcity, time pressure, mishap risk, social resistance, environmental hostility). **A rule that *deletes* a channel (not temporarily relieves) breaks the campaign spine.**
 - **[ ] Baseline comparison.** What does a character *without* this rule look like in the same situation? Enormous gap with no cost = dominant.
 
 **Detail:** `13` §6 (the full protocol), §8 Stage 3. → `13`
@@ -300,12 +301,13 @@ Run the nine lenses (`13` §7). Score each **OK / Caution / Fail.**
 
 **Detail:** `13` §7 (the lenses), §8 Stage 4. → `13`
 
-### Stage 5 — Layer & voice
+### Stage 5 — Layer, naming, and voice
 
-- **[ ] Classify the rule General / Situational / Optional** and tag it. A rule that *could* be Situational/Optional but is written as General is subsystem inflation (Warning Sign §10a).
-- **[ ] Place the voice.** Design rationale stays in design docs; only native rulebook prose crosses into the corebook. Strip setting nouns from engine-agnostic text (Warning Sign §10f).
+- **[ ] Classify the rule General / Situational / Optional** and tag it. A rule that *could* be Situational/Optional but is written as General is rule bloat (Warning Sign §10a).
+- **[ ] Name the rule.** Use `26`: analytical name → flavorful generic name → genre-specific name. Reject names like "metacurrency subsystem," "domain control," "payload," or "resource loop" in final rules.
+- **[ ] Place the voice.** Design rationale stays in design docs; only native rulebook prose crosses into the corebook. Strip setting nouns from engine-agnostic text and strip sterile framework nouns from player-facing text (Warning Sign §10f).
 
-**Detail:** `13` §8 Stage 5; `10-design-philosophy.md` §9 (layering principle). → `13`
+**Detail:** `13` §8 Stage 5; `10-design-philosophy.md` §9 (layering principle); `26-naming-the-game.md`. → `13`, `26`
 
 ### Stage 6 — Verdict (ship / revise / reject)
 
@@ -315,12 +317,12 @@ Choose exactly one. **Reject *structurally*, not impressionistically** ("I disli
 | --- | --- | --- |
 | **Ship (Accept now)** | Passes math, exploit, synergy, table. | Add to manuscript. |
 | **Ship w/ simplification** | Passes but heavier than it needs to be. | Trim before adding. |
-| **Revise — Cap** | Fails one test moderately. | Apply a fix template (`13` §6 Step 7: per-round limit, per-QD limit, metacurrency-capped activation, non-refundable cost, re-roll-after-trigger, exclude-from-stacking, lock-to-scope, escalating cost, require-resistance). **Loop back to Stage 1.** |
+| **Revise — Cap** | Fails one test moderately. | Apply a fix template (`13` §6 Step 7: per-round limit, per-QD limit, Willpower-capped activation, non-refundable cost, re-roll-after-trigger, exclude-from-stacking, lock-to-scope, escalating cost, require-resistance). **Loop back to Stage 1.** |
 | **Revise — Restructure** | Fails the mechanism itself. | Redesign. **Loop back to Stage 0.** |
 | **Hold** | Depends on a broader rewrite not yet done. | Queue it. |
 | **Reject** | Wrong problem / wrong chapter / wrong rule type / too much system impact for too little gain. | Document the structural reason; do not ship. |
 
-**Pipeline output format** (`13` §8): Summary (one sentence) · Tags · Danger Zones Hit · Overlap answers (cheaper/stronger/brake-removed) · Red Flags · Five-Test results · Pattern Match · **Verdict** · Recommended Fix · (if Cap+) a catalog entry for the game-specific exploit catalog (goes to the sibling skill, **not** this file).
+**Pipeline output format** (`13` §8 + `26`): Summary (one sentence) · Naming sheet · Tags · Danger Zones Hit · Overlap answers (cheaper/stronger/brake-removed) · Red Flags · Five-Test results · Pattern Match · **Verdict** · Recommended Fix · (if Cap+) a catalog entry for the game-specific abuse catalog (goes to the sibling skill, **not** this file).
 
 **Detail:** `13` §8 Stage 6, the verdict ladder; §9 (division of labor — method here, instantiated findings in siblings). → `13`
 
@@ -328,7 +330,7 @@ Choose exactly one. **Reject *structurally*, not impressionistically** ("I disli
 
 ## 5. Worked examples
 
-> Three concrete walkthroughs showing the recipes in action on real subsystems. Each demonstrates a different combination: Recipe A (whole-game build), Recipe A + Recipe B (build then validate), and Recipe B alone (rule addition to an existing game).
+> Three concrete walkthroughs showing the recipes in action on real rule sets. Each demonstrates a different combination: Recipe A (whole-game build), Recipe A + Recipe B (build then check), and Recipe B alone (rule addition to an existing game).
 
 ### Worked Example 1 — "NEON/RAIN": a cyberpunk YZE reskin (Recipe A, abridged) + hacking-rule validation (Recipe B)
 
@@ -338,7 +340,7 @@ Choose exactly one. **Reject *structurally*, not impressionistically** ("I disli
 
 **16 skills (Step 3):** Chrome → *Brawl, Endure, Implant, Wrench*; Reflex → *Sneak, Drive, Move, Shoot*; Cortex → *Hack, Data-Splice, Deduce, Decrypt*; Edge → *Con, Lease, Fix, Medicine.* (Note *Hack* and *Data-Splice* — the genre's signature verbs — are now first-class skills, not a reskinned Lore.)
 
-**Metacurrency (Step 4):** **hybrid** — *Edge* pool (cap 10, action/success-refueled like West's Faith) pays for pushing (1/push) and buying off Trouble; plus a *Overclock* escalating die (once/session, D8→D12, at-risk like Pride) for peak moments. Push cost = currency + light Trouble (baneanemic, since chrome attrition is modeled as condition tracks, not banes).
+**Willpower (Step 4):** **hybrid** — *Edge* pool (cap 10, action/success-refueled like West's Faith) pays for pushing (1/push) and buying off Trouble; plus a *Overclock* escalating die (once/session, D8→D12, at-risk like Pride) for peak moments. Push cost = Edge + light Trouble (baneanemic, since chrome attrition is modeled as condition tracks, not banes).
 
 **Failure pressure (Step 5):** **Trouble** (Safe/Risky/Desperate exposure frames), West-style — the city taxes the *frame*, not the dice. Consistent with the currency-spend push model.
 
@@ -346,7 +348,7 @@ Choose exactly one. **Reject *structurally*, not impressionistically** ("I disli
 
 **Harm (Step 7):** paired-attribute split (Glitches/Strains; Crashes/Burns); **typed D66 families**: Ballistic, Energy, Cyber-psych, Toxic, Fall, *ICE-Burn* (net damage), Overclock-Strain. Port the `65`/`66` climax. Conditions: *Jacked-Out, Crashing, Overheating, Debt-Stressed, Addicted* (chrome withdrawal). Retirement path = "go flatline or go ghost" (become a fixer NPC).
 
-**Power layer (Step 8):** **Low-to-Medium** density. "Powers" = **cyberware** (reskinned as Standard powers, safe-only casting model — a ware either works or you're too low on Edge). Ritual tier = *Long intrusions* (multi-hour deck runs). Fuel = the Edge metacurrency + a *Heat* track (reskinned Burn: chosen quantity, random attribute — "you choose how hard to push, not where the bleed lands"). One generic mishap table per source (ICE-mishap for net; Glitch-table for chrome). Rank 1–3.
+**Power layer (Step 8):** **Low-to-Medium** density. "Powers" = **cyberware** (reskinned as Standard powers, safe-only casting model — a ware either works or you're too low on Edge). Ritual tier = *Long intrusions* (multi-hour deck runs). Fuel = Edge + a *Heat* track (reskinned Burn: chosen quantity, random attribute — "you choose how hard to push, not where the bleed lands"). One generic mishap table per source (ICE-mishap for net; Glitch-table for chrome). Rank 1–3.
 
 **Travel (Step 9):** **pointcrawl** (the sprawl as a graph of districts with mileage/heat-between-points); Shift = 6h; activity menu = *Transit / Navigate Grid / Keep Eyes / Scavenge / Fence / Lay Low / Crash / Repair / Train*; weather = *Smog, Acid Rain, Heat Dome, Surveillance Sweep*. Expedition loop = primary (the *run* is the expedition).
 
@@ -360,7 +362,7 @@ Choose exactly one. **Reject *structurally*, not impressionistically** ("I disli
 
 **Optional surface (Step 14):** in = Fast Initiative, Resource Dice (for ammo/charge), Group Concept (the Crew); out = full faction turn, epic-tier chrome.
 
-**Validation (Step 15):** Run Recipe B on the whole. The five loops function: Expedition (the run), Conflict (combat/net), Recovery (chromedoctor), Metacurrency (Edge loop), Base (Turf). Weight Expedition + Conflict as dominant. Breakpoint check: a starting decker with Hack 2 + Cortex 3 = 5 dice sits at P(≥1) ≈ 60% unpushed — a touch above the 50% line, which suits a competent-operator genre; an expert (8 dice) at 77%. ✓
+**Playtest check (Step 15):** Run Recipe B on the whole. The five loops function: Expedition (the run), Conflict (combat/net), Recovery (chromedoctor), Willpower (Edge loop), Base (Turf). Weight Expedition + Conflict as dominant. Breakpoint check: a starting decker with Hack 2 + Cortex 3 = 5 dice sits at P(>=1) roughly 60% unpushed — a touch above the 50% line, which suits a competent-operator genre; an expert (8 dice) at 77%.
 
 ---
 
@@ -368,15 +370,15 @@ Choose exactly one. **Reject *structurally*, not impressionistically** ("I disli
 
 *Proposed rule (one sentence):* "When hacking, spend 1 Edge to add your Overclock die (D8, escalating to D12) to the pool; if the roll still fails, lose Overclock for the session."
 
-- **Stage 0 (Intent):** Serves the Metacurrency + Conflict loops; puts Edge at risk for a peak moment. No existing rule does this (Pride is for protective rolls only). ✓ One-sentence summary clean. → proceed.
+- **Stage 0 (Intent):** Serves the Willpower + Conflict loops; puts Edge at risk for a peak moment. No existing rule does this (Pride is for protective rolls only). One-sentence summary clean. → proceed.
 - **Stage 1 (Math):** A D8 added to a pool is ≈ +1.33 expected successes on a 6+ read; on a typical 5-die pool it bumps P(≥2) from ~20% to ~38% — a real but gated bump (costs 1 Edge, once/session, at-risk). Does not cross the 80% breakpoint ungated. Auto-success? No. ✓
-- **Stage 2 (Exploit):** Tags = *exception/metacurrency-spend*. Red-flag scan: "gain" (Edge *spent*, not gained — clean), "per session" (frequency-limited — good). No infinite-loop (Edge spent ≠ Edge refunded). Pattern match: closest is **E One-Decision Build** — but it's per-session + at-risk, not always-on. ✓
-- **Stage 3 (Synergy):** Touch surface = resolution + metacurrency + power-layer (if hacking is a power). Two subsystems → system-level review. Overlap questions: (A) cheaper? — no, costs 1 Edge; (B) stronger? — yes, +a die, but gated; (C) brake removed? — no. 1 yes on a light zone → *Cap* candidate. Five Tests: Decision Cost = 2 (declare + spend) ✓; Risk Exposure = lose-the-die-for-session ✓; Opportunity Cost = 1 Edge not spent on a push ✓; Repeatability = once/session ✓; Campaign Erosion = doesn't delete a channel ✓. All Healthy/Borderline. ✓
+- **Stage 2 (Abuse):** Tags = *exception/Willpower-spend*. Red-flag scan: "gain" (Edge *spent*, not gained — clean), "per session" (frequency-limited — good). No infinite-loop (Edge spent is not Edge refunded). Pattern match: closest is **E One-Decision Build** — but it's per-session + at-risk, not always-on.
+- **Stage 3 (Synergy):** Touch surface = resolution + Willpower + power layer (if hacking is a power). Two rule sets → system-level review. Overlap questions: (A) cheaper? — no, costs 1 Edge; (B) stronger? — yes, +a die, but gated; (C) brake removed? — no. 1 yes on a light zone → *Cap* candidate. Five Tests: Decision Cost = 2 (declare + spend); Risk Exposure = lose-the-die-for-session; Opportunity Cost = 1 Edge not spent on a push; Repeatability = once/session; Campaign Erosion = doesn't delete a channel. All Healthy/Borderline.
 - **Stage 4 (Table):** Math OK; perceived = legible (you see the die, you know the risk); GM burden = one more thing to track per session (Caution); ambiguity = none ("add to pool," "if fail, lose"); recoverability = lose-for-session is playable; agency = adds a real choice; campaign = doesn't distort attrition. **One Caution (GM tracking).**
 - **Stage 5 (Layer):** Situational (only on hacking rolls). Voice: native rulebook prose.
 - **Stage 6 (Verdict):** **Ship with simplification** — it passes; trim by stating explicitly "does not stack with Edge-spent-to-push on the same roll" to close the only ambiguity. Catalog entry: this is a Pride-analog gated to hacking → goes in the game-specific exploit catalog noting the stacking boundary.
 
-### Worked Example 2 — A post-apoc scavenging economy (Recipe A, single subsystem focus, drawing on Steps 11 + 15)
+### Worked Example 2 — A post-apoc scavenging economy (Recipe A, single rule-set focus, drawing on Steps 11 + 15)
 
 **Goal:** Add a *scavenging* economy to a post-apoc YZE game whose thesis is *ambition = a working vehicle and a full canteen; exposure = the wasted land* (currency = *scrap and water*).
 
@@ -389,7 +391,7 @@ Choose exactly one. **Reject *structurally*, not impressionistically** ("I disli
 - **Stage 0:** Serves Expedition loop (scavenging *is* the expedition's payoff); puts time + Rad-risk on the line. Not duplicative (no existing "free material" rule). ✓
 - **Stage 1:** A D6–D12 step-down die has expected hard uses ≈ 18 before loss (`13` §4.4) — the engine's calibrated "meaningful but not annoying" depletion. ✓
 - **Stage 2:** Tags = *resource/economy*. Red-flag: "per use" stepdown is *not* a refund loop (the die depletes, doesn't refill from the same action). Pattern: **A Free Refund**? — trace the flow: Scavenge *produces* Scrap; Scrap is *spent* on crafting; spending Scrap doesn't trigger Scavenge. No loop. ✓
-- **Stage 3:** Touch surface = economy + travel-pressure + harm (Rad). Three subsystems → system-level. Overlap: does cheap Scrap remove the *scarcity* channel? **No** — Scrap is finite (stepdown) and gated behind time + Rad-risk. Campaign Erosion: a party that scavenges every ruin still faces Hot Zones and depletion. ✓
+- **Stage 3:** Touch surface = economy + travel-pressure + harm (Rad). Three rule sets → system-level. Overlap: does cheap Scrap remove the *scarcity* channel? **No** — Scrap is finite (stepdown) and gated behind time + Rad-risk. Campaign Erosion: a party that scavenges every ruin still faces Hot Zones and depletion.
 - **Stage 4:** Math OK; perceived = "I found a working alternator!" feels great; GM burden = one resource die per PC per trip (manageable); ambiguity = none; recoverability = Scrap is replaceable by more scavenging. ✓
 - **Stage 6:** **Ship.** Optional catalog note: watch for a talent that refunds Scrap on a craft roll — that *would* be a Free Refund (pattern A); flag it now.
 
@@ -404,7 +406,7 @@ Choose exactly one. **Reject *structurally*, not impressionistically** ("I disli
 - **Stage 0:** Serves the Conflict loop; puts the ship (a Base/org asset) and crew at risk. Is it duplicative? No — normal ship combat lacks the phased structure the genre's signature beat deserves. ✓ One-sentence summary clean.
 - **Stage 1:** Phased opposed rolls carry margins forward as *dice* (not auto-successes) — at each phase, +1 die per margin-success. Math: a 2-margin on Weather Gage = +2 dice on Maneuver = bumps a 5-die pool to P(≥1) 60%→67%. Gated, additive, no breakpoint deletion. ✓
 - **Stage 2:** Tags = *conflict/ceremonial*. Red-flag scan: "automatically" (no — rolled), "stack with" (the carry-forward dice stack *within the duel*, by design — this is the Duel pattern's core mechanism, not silent-stacking across separate sources). Pattern match: **D Self-Maintaining Zone**? — no, the effect ends when the duel ends (returns to normal combat). ✓
-- **Stage 3:** Touch surface = conflict + (if ship damage routes to the org layer) base. Two subsystems. Overlap: (A) cheaper broadside? — no, costs the phased setup; (B) stronger? — the winner gets a decisive opening, but *both* sides roll every phase; (C) brake removed? — no (still costs the ship's guns/crew on a loss). Five Tests: Decision Cost = 3+ (three phased rolls) ✓; Risk Exposure = the ship ✓; Opportunity Cost = a duel foregoes fleeing/ramming ✓; Repeatability = once per engagement ✓; Campaign Erosion = doesn't delete a channel. ✓
+- **Stage 3:** Touch surface = conflict + (if ship damage routes to the org layer) base. Two rule sets. Overlap: (A) cheaper broadside? — no, costs the phased setup; (B) stronger? — the winner gets a decisive opening, but *both* sides roll every phase; (C) brake removed? — no (still costs the ship's guns/crew on a loss). Five Tests: Decision Cost = 3+ (three phased rolls); Risk Exposure = the ship; Opportunity Cost = a duel foregoes fleeing/ramming; Repeatability = once per engagement; Campaign Erosion = doesn't delete a channel.
 - **Stage 4:** Math OK; perceived = three escalating rolls is dramatic and legible; GM burden = three opposed rolls then resume (manageable); ambiguity = *state the reaction-denial*: "on the Broadside, the loser cannot Brace/evade the opening salvo" (port this explicitly from the ambush/Duel pattern — it's what makes the opening decisive); recoverability = a lost duel damages the ship, which is recoverable via the org's upkeep/repair loop. ✓
 - **Stage 5:** Situational (only triggers on the weather-gage standoff fiction). Voice: native prose.
 - **Stage 6:** **Ship with simplification** — passes; the only required addition is the explicit reaction-denial clause on the Broadside (else the loser turtles and the duel stalls). Pattern provenance: this is a straight port of `03-conflict-and-combat.md` §12's ceremonial-scripted-conflict template (West's 3-phase carry-forward), so it inherits that pattern's validated shape. Catalog entry: note that a talent granting *auto-weather-gage* would be a Cap-bypass (pattern B) on this mode → flag.
@@ -419,10 +421,10 @@ The recipes exist so that the skill's knowledge is **operational, not just descr
 
 The two recipes are the two halves of the engine's design loop:
 
-- **Recipe A is the *build* half.** It walks from thesis → attribute grid → 16 skills → metacurrency → failure pressure → conflict → harm → power → travel → org → economy → GM layer → advancement → optional rules → validation. The order is not arbitrary: steps 1–2 set the tone everything else inherits (the thesis names the currency and the adversary; the attribute names express the tension); steps 3–11 are the parallel dial-settings that instantiate the five loops; steps 12–14 are authoring; step 15 is the gate that confirms the whole is *a YZE game* and not just a pile of dials. The recipe's discipline is that **every step cites the file that owns the detail** — so a designer never has to guess where to look, and the skill never duplicates what a sibling already holds.
+- **Recipe A is the *build* half.** It walks from thesis → attribute grid → 16 skills → Willpower → failure pressure → conflict → harm → power → travel → org → economy → GM layer → advancement → optional rules → playtest checks. The order is not arbitrary: steps 1–2 set the tone everything else inherits (the thesis names the currency and the adversary; the attribute names express the tension); steps 3–11 are the parallel choices that instantiate the five loops; steps 12–14 are authoring; step 15 is the gate that confirms the whole is *a YZE game* and not just a pile of disconnected options. The recipe's discipline is that **every step cites the file that owns the detail** — so a designer never has to guess where to look, and the skill never duplicates what a sibling already holds.
 
-- **Recipe B is the *validate* half.** It is the executable form of `13-balance-and-synergy.md` §8 and `10-design-philosophy.md` §13. Its discipline is that **no rule ships on vibes.** Intent gates out subsystem inflation and duplication before any math is done; math catches breakpoint crossings and per-die-rate shifts the eye can't see; exploit + synergy catch the *couplings* where the engine is fragile (metacurrency, recovery, power, travel-pressure); table catches the rules that are mathematically clean but unplayable, ambiguous, or GM-punishing; layer keeps the General core lean. The verdict ladder — Ship / Ship-w-simplification / Revise-Cap / Revise-Restructure / Hold / Reject — forces a *structural* judgment, not an impressionistic one, and every "revise" loops back to the specific stage that failed rather than restarting from scratch.
+- **Recipe B is the *check* half.** It is the executable form of `13-balance-and-synergy.md` §8 and `10-design-philosophy.md` §13. Its discipline is that **no rule ships on vibes.** Intent gates out rule bloat and duplication before any math is done; math catches breakpoint crossings and per-die-rate shifts the eye can't see; abuse + synergy catch the *couplings* where the engine is fragile (Willpower, recovery, power, travel-pressure); table checks catch the rules that are mathematically clean but unplayable, ambiguous, or GM-punishing; layer keeps the General core lean. The verdict ladder — Ship / Ship-w-simplification / Revise-Cap / Revise-Restructure / Hold / Reject — forces a *structural* judgment, not an impressionistic one, and every "revise" loops back to the specific stage that failed rather than restarting from scratch.
 
-The two recipes meet at **Recipe A step 15**: the core game is itself run through Recipe B, because a new game is just a large new rule whose every subsystem must cohere. Step 16 then turns that validated core into a runnable package. And the test both recipes ultimately serve is the engine's own founding question (`13` §11, `10` §13): **does ambition still cost something after this lands?** If a step in Recipe A produces a loop where risk no longer refuels agency, or a stage in Recipe B finds a rule that lets a character get more for less, for free, forever, from one decision — the answer is no, and the recipe says exactly where to loop back to fix it.
+The two recipes meet at **Recipe A step 15**: the core game is itself run through Recipe B, because a new game is just a large new rule whose every rule set must cohere. Step 16 then turns that checked core into a runnable package. And the test both recipes ultimately serve is the engine's own founding question (`13` §11, `10` §13): **does ambition still cost something after this lands?** If a step in Recipe A produces a loop where risk no longer refuels agency, or a stage in Recipe B finds a rule that lets a character get more for less, for free, forever, from one decision — the answer is no, and the recipe says exactly where to loop back to fix it.
 
 That is what makes the skill actionable end-to-end: a designer can enter at either recipe, follow the citations to the deep detail, and exit with either a complete game package or a validated rule — and in both cases the output is *defensible against the engine's own philosophy and math*, not merely authored.

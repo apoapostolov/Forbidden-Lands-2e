@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD013 -->
 
-# Engine Core — Resolution, Dice Grammar, Pushing, Metacurrency
+# Engine Core — Resolution, Dice Grammar, Pushing, Willpower
 
 > **STATUS: FILLED (Pass-1 extraction + Pass-2 abstraction complete).** This is the engine spine — every other reference file assumes this material.
 
@@ -12,11 +12,11 @@
 4. Success ladders (levels of effort)
 5. Difficulty and modifications
 6. Pushing rolls — the two cost models
-7. The metacurrency abstraction (Willpower Points / Faith)
+7. Willpower and Faith
 8. Opposed and group rolls
 9. Artifact / legendary dice
 10. Divergence rows (FL vs West)
-11. Dials and instantiation recipe
+11. Rule choices and instantiation recipe
 12. Design intent
 
 ## Source provenance
@@ -31,7 +31,7 @@
 
 ## Abstraction target
 
-Reverse-engineer the **core resolution loop** of YZE into a genre-agnostic procedure. The two games instantiate the same spine (D6 pool, sixes = success, push-once) but diverge sharply on **cost of pushing** (attribute damage vs. metacurrency spend) and on the **failure tax** (banes-on-dice vs. the Trouble system). Capture both as calibrated points on a single "failure pressure" dial, and produce a recipe for instantiating the core loop in any genre.
+Reverse-engineer the **core resolution loop** of YZE into a genre-agnostic procedure. The two games instantiate the same spine (D6 pool, sixes = success, push-once) but diverge sharply on **cost of pushing** (attribute damage vs. Faith/Willpower spend) and on the **failure tax** (banes-on-dice vs. the Trouble system). Capture both as calibrated points on a single failure-pressure choice, and produce a recipe for instantiating the core loop in any genre.
 
 ## 3. Dice grammar (base, skill, gear dice; success and bane symbols)
 
@@ -47,7 +47,7 @@ Reverse-engineer the **core resolution loop** of YZE into a genre-agnostic proce
 - Roll **ability level + current attribute** D6. There is no color distinction and no separate gear-die type in the core pool; gear enters as flat **modification dice**. West `03-rolling-the-bones.md:11-15`.
 - **Symbol semantics:** ⚔ = success. **1s** are *latent Trouble fuel* — but only counted on Risky/Desperate fails, and only *after* the roll resolves. There are no "banes" baked into the dice faces. West `03-rolling-the-bones.md:25-33, 90-101`.
 
-**Generic abstraction:** a pool of D6 where **6 = success**, a small graded success ladder, and a **latent cost face** (FL's 💀, West's 1) whose meaning is realized only on a *decision* the player makes (push) or a *frame* the GM sets (Trouble exposure). The cost face is the engine's pressure valve — its *trigger* is the dial.
+**Generic abstraction:** a pool of D6 where **6 = success**, a small graded success ladder, and a **latent cost face** (FL's 💀, West's 1) whose meaning is realized only on a *decision* the player makes (push) or a *frame* the GM sets (Trouble exposure). The cost face is the engine's pressure valve — its *trigger* is the rule choice.
 
 ## 4. Success ladders (levels of effort)
 
@@ -103,13 +103,13 @@ FL `03-skills.md:166-178`; West `03-rolling-the-bones.md:174-178, 198-206`. **Ca
 
 **A critical divergence in what modifications touch:**
 - **FL:** modifications affect **Skill Dice only** — never Base or Gear Dice. If skill dice go below zero, roll **negative dice** (any ⚔ on a negative die cancels a real ⚔). FL `03-skills.md:152-162`.
-- **West:** modifications add/subtract **generic dice** from the unified pool; there is no negative-dice subsystem. West `03-rolling-the-bones.md:176-182`.
+- **West:** modifications add/subtract **generic dice** from the unified pool; there are no negative dice. West `03-rolling-the-bones.md:176-182`.
 
 **Help from others (both):** up to 3 helpers, +1 each (max +3).
 - FL gates the *total help bonus* by the **lowest Empathy** in the group (a social-trust limit). FL `03-skills.md:182-190`.
 - West requires each helper to have ≥1 rank in the ability. West `03-rolling-the-bones.md:192-196`.
 
-**Generic abstraction:** a flat ±3-per-source, stack-without-cap modification model with a 7-step difficulty ladder. The **dial** is *which die type* modifications touch (colored skill-only vs unified) and *how* help is gated (social-stat cap vs ability-rank floor). FL's negative-dice subsystem is an optional pressure amplifier. **Layer:** General (the ladder + cap); the help-gate is a design choice.
+**Generic abstraction:** a flat ±3-per-source, stack-without-cap modification model with a 7-step difficulty ladder. The **choice** is *which die type* modifications touch (colored skill-only vs unified) and *how* help is gated (social-stat cap vs ability-rank floor). FL's negative dice are an optional pressure amplifier. **Layer:** General (the ladder + cap); the help gate is a design choice.
 
 ## 6. Pushing rolls — the two cost models
 
@@ -121,19 +121,19 @@ FL `03-skills.md:166-178`; West `03-rolling-the-bones.md:174-178, 198-206`. **Ca
 | --- | --- | --- |
 | **Cost trigger** | Pushing is *free* in currency; the cost is in the 💀 you already rolled. | Pushing costs **1 Faith Point** per push. |
 | **What you pay** | Each 💀 on a **Base Die** = 1🩸 damage to the rolled attribute. Each 💀 on a **Gear Die** = the gear bonus drops by 1 (degrades toward broken). Skill-Die ones are *inert*. | Faith is spent from a capped pool; **no automatic harm** to attribute or gear from the push itself. |
-| **Asymmetry** | Body and gear absorb the cost; the mind is untouched by the mechanic. | The metacurrency absorbs the cost; body/gear untouched unless Trouble says so. |
+| **Asymmetry** | Body and gear absorb the cost; the mind is untouched by the rule. | Faith/Willpower absorbs the cost; body/gear untouched unless Trouble says so. |
 | **Failure amplifier** | A failed push with ≥3 💀 = "severe setback" (critical wounds, lost opportunities, hostile attention). FL `03-skills.md:97-101`. | A failed push adds **+1 Trouble** on top of whatever Trouble the roll already generated. West `03-rolling-the-bones.md:99`. |
 
 FL `03-skills.md:59-101`; West `03-rolling-the-bones.md:74-83, 90-101`.
 
-**Generic abstraction — "the push":** a single, optional reroll of non-success dice that converts a *latent* cost face into an *active* cost. The **cost model** is the dial:
+**Generic abstraction — "the push":** a single, optional reroll of non-success dice that converts a *latent* cost face into an *active* cost. The **cost model** is the choice:
 - **Bane-self-harm** (FL): cost is *endogenous* — baked into the dice you already threw; you pay in body/gear. Produces gritty, attritional, physical pressure.
 - **Currency-spend** (West): cost is *exogenous* — paid from a separate pool; you pay in agency-fuel. Produces dramatic, resource-management pressure without mandatory harm.
 - **Hybrid** (recommended for new games): a currency cost *plus* a lighter bane or Trouble trigger, so pushing always costs *something* visible but isn't always injurious.
 
-**Layer:** General (the push itself); the cost model is a **core design dial** — see §11.
+**Layer:** General (the push itself); the cost model is a **core rule choice** — see §11.
 
-## 7. The metacurrency abstraction (Willpower Points / Faith)
+## 7. Willpower and Faith
 
 Both games feature a **capped pool that converts risk/failure into future agency.** This is the engine's signature economy.
 
@@ -148,11 +148,11 @@ Both games feature a **capped pool that converts risk/failure into future agency
 
 FL `03-skills.md:120-138`; West `03-rolling-the-bones.md:84-88, 258-311`.
 
-**Generic abstraction:** a metacurrency pool with four design knobs — (1) **cap size**, (2) **spend target** (powers / push / trouble-buyoff / all), (3) **refuel trigger** (harm-earned vs action-earned vs success-earned), (4) **depletion penalty** (none vs a "shaken" lockout). FL and West are the two canonical points:
+**Generic abstraction:** a Willpower-style pool with four design choices — (1) **cap size**, (2) **spend target** (powers / push / trouble-buyoff / all), (3) **refuel trigger** (harm-earned vs action-earned vs success-earned), (4) **depletion penalty** (none vs a "shaken" lockout). FL and West are the two canonical points:
 - **Harm-refueled** (FL): creates a virtuous damage loop — getting hurt fuels your comeback, but only if you survive. Favors aggressive, attritional play.
 - **Action/success-refueled** (West): decouples agency from harm; rewards in-fiction behavior (rituals, relationships, Big Dream). Favors dramatic, character-driven play.
 
-**Layer:** General (the pool exists); the refuel trigger is a **core design dial**. The FL **Surge of Willpower** optional rule (convert 1 XP → 1 WP, once/session) is an Optional pressure-relief valve for WP-poor campaigns. FL `03-skills.md:130-134`.
+**Layer:** General (the pool exists); the refuel trigger is a **core rule choice**. The FL **Surge of Willpower** optional rule (convert 1 XP → 1 WP, once/session) is an Optional pressure-relief valve for WP-poor campaigns. FL `03-skills.md:130-134`.
 
 ## 8. Opposed and group rolls
 
@@ -172,9 +172,9 @@ FL `03-skills.md:144-150`; West `03-rolling-the-bones.md:230-240`. FL adds expli
 
 **FL only — artifact dice:** Master-crafted/magic items grant a **D8 (Mighty), D10 (Epic), or D12 (Legendary)** in addition to normal Gear Dice. Result **6+ = ⚔**, scaled: a D12 can yield up to 4 ⚔ on a 12. Artifact dice are **never degraded by wear**. FL `03-skills.md:232-252`. **Pride** is a parallel once-per-session *attribute-like* die (D8/D10/D12) added to a failed protective roll; it grows when unused and shrinks when it fails. FL `03-skills.md:254-258`.
 
-**West:** no equivalent in the core pool. The nearest analogue is the Faith metacurrency (a player-side pressure-relief dial, not a success-scaling die).
+**West:** no equivalent in the core pool. The nearest analogue is Faith (a player-side pressure-relief pool, not a success-scaling die).
 
-**Generic abstraction:** an optional **escalating-success-die** subsystem for high-tier outcomes — a single larger die (D8/D10/D12) read as 6+ = ⚔ with scaled multi-successes, immune to the normal degradation economy. This is the engine's "legendary gear" / "heroic moment" dial. FL artifact dice = legendary gear; FL Pride = the character's heroic-moment die. **Layer:** Optional (genre-dependent — omit for grounded/low-power games).
+**Generic abstraction:** an optional **legendary die** rule for high-tier outcomes — a single larger die (D8/D10/D12) read as 6+ = ⚔ with scaled multi-successes, immune to the normal degradation economy. This is the engine's "legendary gear" / "heroic moment" choice. FL artifact dice = legendary gear; FL Pride = the character's heroic-moment die. **Layer:** Optional (genre-dependent — omit for grounded/low-power games).
 
 ## 10. Divergence rows (FL vs West)
 
@@ -183,36 +183,36 @@ FL `03-skills.md:144-150`; West `03-rolling-the-bones.md:230-240`. FL adds expli
 | **Push cost model** | Bane self-harm (body/gear) | Faith spend (currency) | Gritty attrition vs resource drama | FL-style for survival/horror; West-style for dramatic/character-driven |
 | **Cost face trigger** | 💀 on dice, always on push | 1s, only on Risky/Desperate fails | Endogenous vs frame-gated | Use banes when harm should feel inevitable; use Trouble when harm should feel *chosen* |
 | **Failure amplifier** | Failed push + ≥3💀 = severe setback | Failed push = +1 Trouble | Mechanical severity vs narrative severity | Match the genre's relationship to failure |
-| **Metacurrency refuel** | Harm-earned (1 WP/💀 on Base) | Action/success-earned | Virtuous damage loop vs behavior-reward loop | Harm-refuel for attritional games; action-refuel for dramatic games |
-| **Metacurrency starting model** | Earned in play + stronghold rest | 4/scenario + reset at season | Slow-burn vs predictable budget | Use refresh-per-arc for paced drama; earned for sandbox grit |
-| **Metacurrency depletion** | (no lockout) | Shaken Faith at 0 | No floor vs a despair beat | Add a lockout if you want a "hitting zero" story beat |
+| **Willpower/Faith refuel** | Harm-earned (1 WP/💀 on Base) | Action/success-earned | Virtuous damage loop vs behavior-reward loop | Harm-refuel for attritional games; action-refuel for dramatic games |
+| **Willpower/Faith starting model** | Earned in play + stronghold rest | 4/scenario + reset at season | Slow-burn vs predictable budget | Use refresh-per-arc for paced drama; earned for sandbox grit |
+| **Willpower/Faith depletion** | (no lockout) | Shaken Faith at 0 | No floor vs a despair beat | Add a lockout if you want a "hitting zero" story beat |
 | **Modification target** | Skill Dice only (+ negative dice) | Unified pool | Colored precision vs simplicity | FL-style if you want gear/attribute/skill cleanly separable; West-style for speed |
 | **Help gating** | Lowest Empathy caps bonus | Each helper needs ≥1 rank | Social-trust limit vs competence floor | Empathy-gate for relationship-heavy games; rank-gate for competence-focused |
 | **Success ladder default** | Threshold model (1⚔ default, raise to 2/3) | Grade model (0/1/2/3+ read) | GM-sets-bar vs roll-reads-grade | Hybrid: read the grade, allow optional threshold-raising |
-| **Legendary-die subsystem** | Artifact dice + Pride | None | High-tier escalation vs flat power | Include for fantasy/pulp; omit for grounded/historical |
+| **Legendary die** | Artifact dice + Pride | None | High-tier escalation vs flat power | Include for fantasy/pulp; omit for grounded/historical |
 | **Failure-pressure layer** | Banes (mechanical, on dice) | Trouble tables (narrative, by exposure) | Mechanical tax vs narrative tax | Both work; Trouble + a bane-free pool is the lighter option |
 
-## 11. Dials and instantiation recipe
+## 11. Rule choices and instantiation recipe
 
-Each dial has FL and West as two calibrated points. To build a new game, set each dial.
+Each rule choice has FL and West as two calibrated points. To build a new game, set each choice.
 
 1. **Push-cost model** — bane-self-harm / currency-spend / hybrid. *(Affects tone: attritional vs dramatic.)*
 2. **Cost-face trigger** — always-on-push / exposure-gated. *(Affects whether harm feels inevitable or chosen.)*
-3. **Metacurrency refuel** — harm-earned / action-earned / success-earned / hybrid. *(Affects the virtuous loop.)*
-4. **Metacurrency cap + refresh** — size; per-scenario reset vs earned-only. *(Affects pacing predictability.)*
-5. **Metacurrency depletion** — none / shaken-lockout. *(Adds a despair beat if wanted.)*
+3. **Willpower/Faith refuel** — harm-earned / action-earned / success-earned / hybrid. *(Affects the virtuous loop.)*
+4. **Willpower/Faith cap + refresh** — size; per-scenario reset vs earned-only. *(Affects pacing predictability.)*
+5. **Willpower/Faith depletion** — none / shaken-lockout. *(Adds a despair beat if wanted.)*
 6. **Modification target** — colored (skill-only + negatives) / unified. *(Precision vs speed.)*
 7. **Help gating** — social-stat cap / rank floor / both / none. *(What "helping" requires.)*
 8. **Success ladder** — grade-read / threshold-raise / both. *(How outcomes scale.)*
-9. **Legendary-die subsystem** — on/off + artifact + heroic-moment die. *(Power ceiling.)*
+9. **Legendary die** — on/off + artifact + heroic-moment die. *(Power ceiling.)*
 10. **Failure-pressure layer** — banes / Trouble tables / hybrid / none. *(How failure taxes.)*
 
 **Instantiation recipe (any genre):**
-1. Decide the push-cost model (dial 1) — this single choice does more to set tone than any other.
-2. Choose the failure-pressure layer (dial 10) to be *consistent* with dial 1 (e.g. bane-self-harm pairs naturally with banes; currency-spend pairs with Trouble).
-3. Pick the metacurrency refuel (dial 3) to create the virtuous loop you want.
-4. Set the modification model (dial 6) and help gate (dial 7) to your table's complexity tolerance.
-5. Decide the success ladder (dial 8) and the legendary tier (dial 9) based on the genre's power ceiling.
+1. Decide the push-cost model — this single choice does more to set tone than any other.
+2. Choose the failure-pressure layer to be *consistent* with the push cost (e.g. bane-self-harm pairs naturally with banes; Faith-spend pairs with Trouble).
+3. Pick the Willpower/Faith refuel to create the virtuous loop you want.
+4. Set the modification model and help gate to your table's complexity tolerance.
+5. Decide the success ladder and the legendary tier based on the genre's power ceiling.
 6. Validate the whole against the math (see `13-balance-and-synergy.md` §3): default pool size, push rate, expected success, breakpoint.
 
 ## 12. Design intent
@@ -221,7 +221,7 @@ The core loop is engineered to make **every roll a decision** and **every failur
 
 - **Push-once, pay-a-cost** turns "I failed" from a dead end into "do I accept this, or do I double down and pay?" — the engine's central dramatic beat.
 - **The latent cost face** (💀 / 1) means the *cost was already on the table* when you decided to push; you're not being punished, you're *cashing the check you wrote by rolling risky dice*.
-- **The metacurrency refuels from risk/failure** so that getting hurt or struggling is never *just* loss — it also stocks your comeback. This is what keeps attritional games from becoming death spirals.
+- **Willpower refuels from risk/failure** so that getting hurt or struggling is never *just* loss — it also stocks your comeback. This is what keeps attritional games from becoming death spirals.
 - **The "one chance" rule** makes the push decision load-bearing: you can't retry for free, so accepting a failure has weight.
 - **Don't roll too often** (both books, emphatic): the engine only works when rolls are *dramatic peaks*, because pushing/damage/WP generation only matters when stakes are real. FL `03-skills.md:55-57`; West `03-rolling-the-bones.md:70-72`. Rolling for trivial tasks floods the economy and flattens the drama.
 

@@ -6,7 +6,7 @@
 
 ## 1. Origin
 
-- **Source primitives:** P3, P4, P6, P7.
+- **Source patterns:** P3, P4, P6, P7.
 - **Operators:** Domain Transfer + Fusion.
 - **Target psychology:** progress is earned, delay is dangerous.
 - **Problem solved:** important work should be more than one roll, but less than freeform GM fiat.
@@ -63,7 +63,7 @@ Use 2-4 requirements for ordinary projects, 5+ only for campaign-defining work.
 
 ### Quality and flaw tags
 
-At completion, surplus successes buy qualities. Mishaps or rushed work add flaws. Use tags, not new subsystems.
+At completion, surplus successes buy qualities. Mishaps or rushed work add flaws. Use tags, not new rule sets.
 
 | Quality cost | Tag | Effect |
 | --- | --- | --- |
@@ -142,9 +142,9 @@ Use alongside progress when an antagonist, deadline, or unstable force is active
 
 Need -> time investment -> progress/mishap -> resource drain -> output with tags.
 
-## 4. Dials
+## 4. Choices
 
-| Dial | Fast | Slow | Psychology |
+| Choice | Fast | Slow | Psychology |
 | --- | --- | --- | --- |
 | Cadence | scene/Shift | week/season | montage vs campaign arc |
 | Mishap | only severe pushes | any failed push | generous vs dangerous |
@@ -154,7 +154,7 @@ Need -> time investment -> progress/mishap -> resource drain -> output with tags
 
 Hooks into crafting, magic, healing, investigation, vehicles, territory, and strongholds.
 
-## 6. Interface
+## 6. Handshake
 
 - **Prerequisites:** time units and skill rolls.
 - **Inputs:** project skill, rank scale, requirements.
@@ -165,9 +165,9 @@ Hooks into crafting, magic, healing, investigation, vehicles, territory, and str
 
 ## 7. Failure modes
 
-Too many rolls flood metacurrency and table time. Too few requirements make projects feel like shopping. Requirements should create choices, not scavenger hunts.
+Too many rolls flood Willpower/Faith and table time. Too few requirements make projects feel like shopping. Requirements should create choices, not scavenger hunts.
 
-## 8. Validation notes
+## 8. Check notes
 
 Use `24 §2` and `§6`. Check that progress cannot be farmed without time, risk, or cost.
 

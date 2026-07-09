@@ -2,7 +2,7 @@
 
 # Publication Voice — From Designer Jargon to Player Prose
 
-> **STATUS: FILLED.** This is the skill's **voice layer** — the translation bridge between the designer/AI vocabulary used inside `yze-design` (pressure loops, friction levers, deltas, propagation formulas, abstraction ladders) and the publication-ready prose a player or Gamemaster actually reads. Load this file whenever you are writing text that will be read by the audience below — rulebook chapters, talent descriptions, adventure text, GM guidance, examples of play. Do not load it for internal design notes, skill files, or private outlines.
+> **STATUS: FILLED.** This is the skill's **voice layer** — the translation bridge between the designer/AI vocabulary used inside `yze-design` (pressure loops, friction levers, deltas, propagation formulas, abstraction ladders) and the publication-ready prose a player or Gamemaster actually reads. Load this file whenever you are writing text that will be read by the audience below — rulebook chapters, talent descriptions, adventure text, GM guidance, examples of play. Load `26-naming-the-game.md` first when the task is to name a new game, rename engine terms for a genre, or choose terms like Race, Life Events, Willpower, Menace, Holdings, or Strange Devices. Do not load this file for internal design notes, skill files, or private outlines.
 
 ## Contents
 
@@ -26,6 +26,8 @@ This file is the translation layer. It does three things:
 1. **Defines the audience** and their reading level.
 2. **Gives a dictionary** mapping the skill's internal jargon to plain player-facing prose.
 3. **Gives rules and worked examples** for writing publication text that a player can run without a design degree.
+
+It does **not** own the naming of a new game. Use `26-naming-the-game.md` for the naming pass, then return here to make the chosen names read cleanly in rules prose.
 
 This file does **not** teach literary prose style. For fiction voice, period diction, anti-AI humanizing, and genre tone, use the sibling writing skills (`forbidden-lands-writing-voice`, `western-writing`). This file teaches *register* — the difference between talking to a designer and talking to a player.
 
@@ -73,7 +75,7 @@ The left column is the vocabulary this skill (and AI design reasoning generally)
 | calibration / calibrate | set, choose, adjust |
 | instantiate / instantiation | set up, version, example |
 | parameter / dial | choice, option, setting |
-| primitive (P1–P15) | (never mention — these are internal labels) |
+| primitive (P1–P15) | pattern, or never mention if writing final rules |
 | abstraction ladder | (never mention) |
 | reinvention operator | (never mention) |
 | domain transfer / inversion / fusion | (never mention — just present the result) |
@@ -91,14 +93,14 @@ The left column is the vocabulary this skill (and AI design reasoning generally)
 | --- | --- |
 | attribute-as-HP | "damage reduces your attributes; at zero you're Broken" |
 | named damage types | Hurts, Shakes, Vexes, Doubts (or your genre's names) — use them directly |
-| protected dial | your edge, your conviction, your faith (or your genre's name) |
+| protected dial | Pride, Faith, your edge, your conviction, your inner fire (or your genre's name) |
 | metacurrency | Willpower, Faith, Momentum, Heat — use the game's name |
 | refuel trigger | "you gain Willpower when you push a roll and roll a bane" |
 | decay valve | "your Influence drops by 1 each session unless you've done something public" |
 | depletion state | "at zero Faith you're Shaken — you can't push until you recover" |
 | talent ladder depth | "talents have five ranks" or "talents have two ranks: Basic and Advanced" |
 | narrative access gating | "you need a forge and a teacher to learn this" |
-| generation-depth dial | "quick start" vs "lifepath" |
+| generation-depth dial | "quick start" vs "Life Events" |
 
 ### Conflict & harm
 
@@ -156,6 +158,8 @@ The left column is the vocabulary this skill (and AI design reasoning generally)
 | faction turn | faction turn, season turn |
 | ladder ceiling | (don't name it — describe the scope: "this game is about your town, not about ruling a kingdom") |
 | settlement-as-character | "your town has stats, like a character" |
+| domain control | Holdings and Territory, or the game's own name for holdings/turf/realm |
+| resource extraction loop | Riches in the Land, or the game's own name for salvage, claims, scores, samples |
 | economy model | coins, barter, credit (or your game's currency) |
 | availability/scarcity table | availability table, supply table |
 | feature grammar | weapon tags, armor tags, gear qualities |
@@ -208,6 +212,8 @@ These are the AI/design-theory tells. If you find any of these in publication te
 - **calibrate, calibration** — set, choose, adjust
 - **instantiate, instantiation** — set up, example, version
 - **parameter** — choice, option, setting (or just name the thing)
+- **metacurrency** — use Willpower or the game's own name
+- **protected dial** — use Pride, Faith, inner fire, or the game's own name
 - **taxonomy, taxonomy of** — list, breakdown, kinds of
 - **matrix** (in the design sense — a 2D table of options) — table, grid (note: "matrix" is fine if the game itself calls something a matrix)
 - **primitive** (as a noun) — never; these are internal labels

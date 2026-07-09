@@ -2,48 +2,48 @@
 
 # Social Combat as Real Combat — Tactical Conversation
 
-> **STATUS: WORKSHOP MODULE.** High-stakes social scenes as full tactical conflicts: the action economy, social-distance "range bands," leverage as weapons, Composure as social HP, a Broken-equivalent. *Core is generic; the worked example (Regency high society) is illustrative.*
+> **STATUS: WORKSHOP MODULE.** High-stakes social scenes as full tactical conflicts: the action budget, social-distance "range bands," leverage as weapons, Composure as social HP, a Broken-equivalent. *Core is generic; the worked example (Regency high society) is illustrative.*
 
 ## Contents
 
 1. Origin — how this was built
 2. The generic design space
 3. The pressure loop
-4. Dials
+4. Choices
 5. Integration points
 6. Failure modes & edge cases
-7. Validation notes
+7. Check notes
 8. Worked genre example — Regency high society
 
 ## 1. Origin — how this was built
 
-- **Source primitives:** the **action economy** (`03 §7`) + **P3 (graded success + stunts)** + **P4 (typed D66, for social fallout)** + a domain transfer of the **range/positioning** model (`03 §5`).
+- **Source patterns:** the **action budget** (`03 §7`) + **P3 (graded success + stunts)** + **P4 (typed D66, for social fallout)** + a domain transfer of the **range/positioning** model (`03 §5`).
 - **Reinvention operator:** **Domain Transfer (full).** Take the combat engine's load-bearing structure — 2 actions/Round, slow+fast, positioning, attack vs defense, a Broken threshold — and re-skin every noun.
 - **Target psychology:** **Attritional / tactical** (`17` M6) — scenes that matter as much as fights. Social-focused characters get the depth of play combat characters always had.
 - **Problem solved:** social conflict in both source games is a single opposed roll or a short modifier. Fine for incidental persuasion; thin for genres where society *is* the battlefield. This closes the gap.
 
 ## 2. The generic design space
 
-### 2a. Mechanism overview
+### 2a. Rule overview
 
-When a social scene has high stakes, an opponent with an agenda, and real consequence on failure, it becomes a **Social Combat**: a multi-Round conflict using the engine's action economy (1 slow + 1 fast, or 2 fast, per Round). Each speaker has a **Composure** pool (social HP). Attacks deal Composure damage via a formula (leveraged pool + successes). **Social distance** (Intimate / Personal / Professional / Public) functions as range bands — moves that work at one distance fail at another. **Leverage** (secrets, favors, rank, witnesses) functions as weapons (consumable dice). At 0 Composure, a speaker is **socially Broken** and rolls on a typed D66 **Social Fallout** table.
+When a social scene has high stakes, an opponent with an agenda, and real consequence on failure, it becomes a **Social Combat**: a multi-Round conflict using the engine's action budget (1 slow + 1 fast, or 2 fast, per Round). Each speaker has a **Composure** pool (social HP). Attacks deal Composure damage via a formula (leveraged pool + successes). **Social distance** (Intimate / Personal / Professional / Public) functions as range bands — moves that work at one distance fail at another. **Leverage** (secrets, favors, rank, witnesses) functions as weapons (consumable dice). At 0 Composure, a speaker is **socially Broken** and rolls on a typed D66 **Social Fallout** table.
 
 ### 2b. NEW CONCEPTS introduced
 
 - **NEW CONCEPT — Social distance as range bands:** Core combat uses physical range bands (Arm's Length → Distant). Social Combat maps these to *relational* distance (Intimate → Public) where each band enables and forbids specific move types. *Extends the engine's positioning model into a non-physical domain.*
 - **NEW CONCEPT — Composure as parallel HP:** Core social conflict deals attribute damage (Empathy/Docity) or a binary comply-or-attack. Composure is a *dedicated social-HP pool* that depletes through a scene and recovers between scenes, parallel to but distinct from attribute-HP. *Extends the engine by adding a scene-scoped health track.*
 - **NEW CONCEPT — Leverage as consumable weapon-die:** Core weapons are persistent gear (Gear Dice). Leverage in Social Combat is *consumable* — a secret used is a secret spent; it grants a die for one attack, then is gone. *Extends the gear-as-dice model with a single-use weapon class.*
-- **NEW CONCEPT — Audience as a combatant (optional dial):** When enabled, the *room's opinion* is a tracked third-side that both speakers compete to shift — modeling performative debate where the audience is the real prize. *Extends the conflict model from dyadic to triadic.*
+- **NEW CONCEPT — Audience as a combatant (optional choice):** When enabled, the *room's opinion* is a tracked third-side that both speakers compete to shift — modeling performative debate where the audience is the real prize. *Extends the conflict model from dyadic to triadic.*
 
-### 2c. Mechanical reference (tables & procedures)
+### 2c. Rules reference (tables & procedures)
 
 #### Composure
 
 - **Pool:** Wits + Empathy (typical 4–8). Alternatively a fixed 6 per character for uniformity.
-- **Regen:** 1/scene by default; or 1/Round with a "compose yourself" fast action (faster dial).
+- **Regen:** 1/scene by default; or 1/Round with a "compose yourself" fast action (faster choice).
 - **At 0:** socially Broken — lose the exchange, roll on the Social Fallout table (below).
 
-**Design note — Composure as a Health Track.** The Wits+Empathy pool above is an instance of the **combined-attribute health track** pattern (`04 §3`, the Coriolis-style third damage mapping). This is deliberate: social combat needs a *larger, less swingy* pool than a single attribute provides, so that an exchange lasts 3–5 Rounds rather than ending in one or two turns. The full health-track dial (`04 §3`) applies here — a designer can tune Composure to any point on the survivability spectrum: combined attributes (Wits+Empathy, the default), flat-value (e.g. 5+Empathy for a heroic floor), or a fixed external pool (6 per character, for uniformity across a cast of very different speakers). The further toward "flat/external," the longer social combats run and the less a single bad roll ends the scene.
+**Design note — Composure as a Health Track.** The Wits+Empathy pool above is an instance of the **combined-attribute health track** pattern (`04 §3`, the Coriolis-style third damage mapping). This is deliberate: social combat needs a *larger, less swingy* pool than a single attribute provides, so that an exchange lasts 3–5 Rounds rather than ending in one or two turns. The full health-track choice (`04 §3`) applies here — a designer can tune Composure to any point on the survivability spectrum: combined attributes (Wits+Empathy, the default), flat-value (e.g. 5+Empathy for a heroic floor), or a fixed external pool (6 per character, for uniformity across a cast of very different speakers). The further toward "flat/external," the longer social combats run and the less a single bad roll ends the scene.
 
 #### The Composure damage formula
 
@@ -82,7 +82,7 @@ When a social scene has high stakes, an opponent with an agenda, and real conseq
 2. The opponent may **contest the move** with a reaction (a deflection) — success keeps the distance where it was; failure allows the move.
 3. Once at a distance, both speakers are at that distance until one moves. Attacks use the distance's enabled moves; mismatched leverage takes the −2 penalty.
 
-#### The action economy (identical to combat)
+#### The action budget (identical to combat)
 
 Per Round: **1 slow + 1 fast, OR 2 fast.** Reactions (deflections) draw from the same budget — a reaction costs your fast action. Below are the full action lists for Social Combat. Each is a reskin of the combat action tables (`03 §7`); the verbs change, the economy does not.
 
@@ -152,7 +152,7 @@ Any ⚔ beyond the first on an attack may be spent on stunts, exactly as in phys
 
 #### Crowd / audience modifiers
 
-When the **audience-as-modifier** dial is on, the scene has an **audience rating** — a number from −3 (hostile) to +3 (favorable) representing the room's current lean. It starts at the GM's call: often 0 for a neutral room, or set by the fiction (a rival's home turf starts at +1 toward the rival). The audience rating applies as a modifier to both speakers' attack rolls, but in opposite directions — a favorable audience adds to your attacks and subtracts from your opponent's.
+When the **audience-as-modifier** choice is on, the scene has an **audience rating** — a number from −3 (hostile) to +3 (favorable) representing the room's current lean. It starts at the GM's call: often 0 for a neutral room, or set by the fiction (a rival's home turf starts at +1 toward the rival). The audience rating applies as a modifier to both speakers' attack rolls, but in opposite directions — a favorable audience adds to your attacks and subtracts from your opponent's.
 
 **Hostile (−3).** The room is against you. You take −1 to your attacks; your opponent gains +1. The audience may interrupt — the GM rolls 1D6, and on a 1 a heckler disrupts your next action.
 
@@ -190,7 +190,7 @@ The setting of the social combat grants modifiers, exactly as terrain grants mod
 
 #### Multi-participant social combat
 
-Social Combat scales beyond 1v1. The action economy and distance rules still apply; the differences are in how turns are allocated and how damage flows.
+Social Combat scales beyond 1v1. The action budget and distance rules still apply; the differences are in how turns are allocated and how damage flows.
 
 **Two against one.** The lone speaker takes two full turns per Round — one against each opponent — but each turn is a separate slow+fast set. This is exhausting but not action-starved: the lone speaker is defending on two fronts. The pair may coordinate: one can set up (BUILD RAPPORT, POINTED QUESTION) while the other strikes. Coordination requires the fast action of the striker to receive the cue. The lone speaker may focus on one opponent per Round; the other gets a free QUIP — a fast jab, no roll needed, 1 damage on 2+ ⚔ — representing the ignored opponent pressing their advantage.
 
@@ -218,7 +218,7 @@ Use the family matching the arena. If the arena crosses two contexts, use the fa
 
 **Court / elite family:**
 
-| D66 | Result | Mechanical effect |
+| D66 | Result | Rule effect |
 | --- | --- | --- |
 | 11–14 | **Lost composure.** A stammer, a flushed face, a missed word. | The Broken speaker concedes the point; −1 Influence (`workshop/01`) with the audience. |
 | 15–22 | **Sharp retort fled.** The devastating line comes to you — an hour too late. | The opponent's point stands uncontested for the rest of the scene. |
@@ -232,7 +232,7 @@ Use the family matching the arena. If the arena crosses two contexts, use the fa
 
 **Street / underworld family:**
 
-| D66 | Result | Mechanical effect |
+| D66 | Result | Rule effect |
 | --- | --- | --- |
 | 11–14 | **Dissed.** You lose the rhythm of the exchange. | Concede the point; −1 Standing with onlookers. |
 | 15–22 | **Shown soft.** You hesitate when the room expected force. | Opponent gains +1 on their next social attack against you. |
@@ -246,7 +246,7 @@ Use the family matching the arena. If the arena crosses two contexts, use the fa
 
 **Diplomatic / institutional family:**
 
-| D66 | Result | Mechanical effect |
+| D66 | Result | Rule effect |
 | --- | --- | --- |
 | 11–14 | **Corrected.** A procedural mistake weakens your point. | Concede the point; −1 Influence with the institution. |
 | 15–22 | **Rebuked.** The chair, host, or superior cuts you short. | You cannot make another attack until you spend a FAST action to regain the floor. |
@@ -260,7 +260,7 @@ Use the family matching the arena. If the arena crosses two contexts, use the fa
 
 **Professional / craft family:**
 
-| D66 | Result | Mechanical effect |
+| D66 | Result | Rule effect |
 | --- | --- | --- |
 | 11–14 | **Minor correction.** A colleague catches an error. | Concede the point; −1 reputation in the trade. |
 | 15–22 | **Method questioned.** Your competence is doubted. | Next professional roll in this place is at −1 unless you prove yourself. |
@@ -274,7 +274,7 @@ Use the family matching the arena. If the arena crosses two contexts, use the fa
 
 **Familial / intimate family:**
 
-| D66 | Result | Mechanical effect |
+| D66 | Result | Rule effect |
 | --- | --- | --- |
 | 11–14 | **Hurt silence.** Someone withdraws instead of answering. | Concede the point; relationship Standing −1. |
 | 15–22 | **Old wound reopened.** The argument finds history. | Opponent gains +1 on the next intimate or familial appeal. |
@@ -294,16 +294,16 @@ Use the family matching the arena. If the arena crosses two contexts, use the fa
 - **State change:** the relationship between speakers, and their standing with witnesses, changes materially.
 - **Loop shape:** **position → attack/deflect → expose/spend → Break or concede.** Round cadence.
 
-## 4. Dials
+## 4. Choices
 
-| Dial | Setting A | Setting B | Psychology |
+| Choice | Setting A | Setting B | Psychology |
 | --- | --- | --- | --- |
 | **Composure pool** | Wits + Empathy (variable) | Fixed 6 | Build-dependent vs uniform |
 | **Regen** | 1/scene (slow) | 1/Round with "compose" fast action | Grueling vs forgiving |
 | **Damage scale** | 1–3 per hit | 1–2 per hit | Lethal social scenes vs prolonged |
 | **Leverage** | Consumable dice (D6–D12) | Flat +1/+2 modifiers | Resource-economy vs simple |
 | **Distance bands** | All 4 | 2 (Private / Public) | Rich positioning vs simple |
-| **Witnesses** | Audience modifier (defined up front) | Abstract (GM framing) | Mechanical vs narrative |
+| **Witnesses** | Audience modifier (defined up front) | Abstract (GM framing) | Rules-forward vs story-led |
 | **Broken state** | Forced capitulation + Fallout | Player chooses: concede OR take permanent Reputation hit to keep fighting | Hard floor vs last-stand |
 | **Audience as combatant** | Off | On (audience opinion is a track both compete over) | Duel vs debate |
 
@@ -316,34 +316,34 @@ Use the family matching the arena. If the arena crosses two contexts, use the fa
 - **Replaces / extends:** the single social roll.
 - **Cross-refs:** `03 §7–§11`, `17` M6, `04 §5`.
 
-## 5a. Interface
+## 5a. Handshake
 
 - **Prerequisites:** social skills, stakes, named opposition, consequence layer.
 - **Inputs:** Composure formula, social-distance names, leverage sources, fallout family.
 - **Outputs:** Composure, social actions, leverage dice, social fallout.
-- **Touched systems:** action economy, social, harm, influence, faction.
+- **Touched systems:** action budget, social, harm, influence, faction.
 - **Replaces or stacks:** replaces single social rolls only when stakes justify a scene; ordinary social rolls remain.
 - **Incompatibilities:** do not combine with another full social-HP system unless Composure is shared.
 
 ## 6. Failure modes & edge cases
 
 - **Using it for everything.** Social Combat is expensive (a 4-Round scene). **Fix:** reserve for the 3 triggers (high stakes, opposed agenda, real consequence). (`19` FE2.)
-- **The speaker-skill monopoly.** If only the "face" can participate, others watch. **Fix:** the audience-as-combatant dial; allow PCs to "help" with fast-action interruptions.
+- **The speaker-skill monopoly.** If only the "face" can participate, others watch. **Fix:** the audience-as-combatant choice; allow PCs to "help" with fast-action interruptions.
 - **Composure-bag-of-HP.** If Composure is just HP, it feels like combat-with-different-nouns. **Fix:** the *social distance* layer is the distinguishing tactic.
 - **Leverage inflation.** Stockpiling 5 black-mails and dumping them in one scene one-shots any opponent. **Fix:** leverage is consumable and distance-gated; one leverage per attack.
 - **The GM-fiat audience.** If the audience opinion is GM whim, it feels rigged (`19` FE5). **Fix:** define the audience modifier up front; shift only on defined triggers.
 
-## 7. Validation notes
+## 7. Check notes
 
 - **Math (`13 §3`):** at 1–3 damage and Wits+Empathy pools (4–8), a typical Social Combat resolves in 3–5 Rounds (like a real fight). At 2⚔ average per successful attack and ~5 Composure, ~3 hits to Break — consistent with combat's 3–5 Round target.
-- **Exploits (`13 §5`):** leverage-inflation gated by consumable + distance + one-per-attack. Two-fast-action quip-spam gated by GM ruling quips ineffective against serious slow attacks.
-- **Felt experience (`19`):** the *audience* dial is key psychology — performance scenes are about the room's opinion (C5). The distance layer prevents FE1 (false choice) by ensuring moves are situational.
+- **Abuses (`13 §5`):** leverage-inflation gated by consumable + distance + one-per-attack. Two-fast-action quip-spam gated by GM ruling quips ineffective against serious slow attacks.
+- **Felt experience (`19`):** the *audience* choice is key psychology — performance scenes are about the room's opinion (C5). The distance layer prevents FE1 (false choice) by ensuring moves are situational.
 
 ## 8. Worked genre example — Regency high society
 
 **Setting:** a country-house ball, 1813. The PCs seek the Duke's blessing for a marriage; the Duke's sister opposes; the Duchess's companion holds a ruinous secret.
 
-**Dials set:** Composure = Wits + Empathy; regen 1/scene; damage 1–3; consumable leverage dice; all 4 bands; audience-as-modifier (the room starts +1 toward the sister, the favored hostess).
+**Settings chosen:** Composure = Wits + Empathy; regen 1/scene; damage 1–3; consumable leverage dice; all 4 bands; audience-as-modifier (the room starts +1 toward the sister, the favored hostess).
 
 **Cast leverage:**
 - PC (Eleanor): D8 leverage = a letter proving the sister's own elopement (blackmail, consumable).
@@ -356,7 +356,7 @@ Use the family matching the arena. If the arena crosses two contexts, use the fa
 - Lady Caroline **reacts** (deflect, fast): a quip undermining the speech. Rolls Insight vs Eleanor's ⚔ count: 1⚔ — partial deflection, cancels 1 of Eleanor's 2 successes. **Damage reduced to 1.** She then takes her slow action: **moves the conversation to Personal** and deploys her rumor-leverage (D6). Pool: Wits 3 + Insight 2 + leverage D6 = 6 dice; rolls 1⚔; leverage die rolls a 3 (no bonus). **Damage = 1⚔ + 0 = 1**, minus Eleanor's Reputation armor (0) = 1 Composure to Eleanor.
 - **Round 2.** Eleanor **moves to Intimate** (a confidence, stepping to the window — fast action, uncontested) and **spends her leverage** (the letter, D8 — slow action). Pool: Empathy 3 + Manipulation 2 + leverage D8 = 5 dice + leverage; rolls 3⚔; leverage D8 rolls an 8 (= 2 successes). **Damage = 3⚔ + 2 = 5**, minus Caroline's Reputation armor (1) = **4 Composure damage.** Caroline (pool ~5) drops to ~1. A critical hit — Caroline rolls on the **Social Fallout table**: 62 (**Storming out**) — she flees the room. The audience modifier flips to +2 toward Eleanor. The Duke, seeing his sister flee, grants the blessing.
 
-**Why Regency:** the *audience* dial models drawing-room drama as performance — what matters is who the room thinks won. *Social distance* maps onto Regency etiquette (a whisper vs a public declaration are wildly different). Leverage as consumable dice makes secrets *spent*, not just known — which is how blackmail works.
+**Why Regency:** the *audience* choice models drawing-room drama as performance — what matters is who the room thinks won. *Social distance* maps onto Regency etiquette (a whisper vs a public declaration are wildly different). Leverage as consumable dice makes secrets *spent*, not just known — which is how blackmail works.
 
 **Re-skin:**
 - **Diplomacy:** distance = bilateral / small-group / plenary / communiqué; leverage = intelligence, guarantees; Broken = a walk-out.

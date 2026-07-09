@@ -1,35 +1,35 @@
 <!-- markdownlint-disable MD013 MD024 -->
 
-# Debt & Obligation — The Inverted Metacurrency
+# Debt & Obligation — The Inverted Favor
 
-> **STATUS: WORKSHOP MODULE.** Turns favors, loans, oaths, and pacts into *active pressure* — an **inverted metacurrency** where the pool *grows* when you accept help and must be *paid down*. Where Willpower/Faith refuels you, Debt depletes you. Every favor accepted is a hook the GM can pull; every oath is a constraint on the next choice. *Core is generic; the worked example (corporate space opera) is illustrative.*
+> **STATUS: WORKSHOP MODULE.** Turns favors, loans, oaths, and pacts into *active pressure* — an **inverted pool** where the pool *grows* when you accept help and must be *paid down*. Where Willpower and Faith restore agency, Debt takes it away. Every favor accepted is a hook the GM can pull; every oath is a constraint on the next choice. *Core is generic; the worked example (corporate space opera) is illustrative.*
 
 ## Contents
 
 1. Origin — how this was built
 2. The generic design space
-   - 2a. Mechanism overview
+   - 2a. Rule overview
    - 2b. NEW CONCEPTS introduced
-   - 2c. Mechanical reference (tables & procedures)
+   - 2c. Rules reference (tables & procedures)
 3. The pressure loop
-4. Dials
+4. Choices
 5. Integration points
 6. Failure modes & edge cases
-7. Validation notes
+7. Check notes
 8. Worked genre example — Corporate space opera
 
 ## 1. Origin — how this was built
 
-- **Source primitives:** **P2 (capped metacurrency refueled by risk)**, **inverted polarity**; **P4 (typed D66)** for what a creditor *demands* when the debt is called; **P5 (resource die)**, optional, for debts that have *size* rather than a flat cost.
+- **Source patterns:** **P2 (capped pool refueled by risk)**, **inverted polarity**; **P4 (typed D66)** for what a creditor *demands* when the debt is called; **P5 (resource die)**, optional, for debts that have *size* rather than a flat cost.
 - **Reinvention operator:** **Inversion (Operator 2) + Domain Transfer (Operator 1).** Take P2 — a cap-~10 pool you *spend down* and *refill by engaging risk* — and invert both its direction and its polarity. The Debt pool **grows when you accept a favor** (you accrue it; the refuel trigger is inverted from "risk refills" to "acceptance fills"). You **pay it down by settling** the obligation. You want it *low*, not high. Then Domain-Transfer the whole thing off the personal-pool substrate (WP/Faith track a character's resolve) onto a **relationship ledger** (Debt tracks what one party owes *another*). The inversion is what makes it feel new; the domain transfer is what makes it *relational* rather than internal.
 - **Target psychology:** **Entrapment / obligation** — the mirror-image of P2's refuel psychologies (`17` M1). Where harm-refuel produces *aggression* (pain = fuel, so push into danger) and action-refuel produces *investment* (drama = fuel), inverted-P2 produces **a weight that compounds**: every favor makes the next choice narrower. The player is always answering "what does this cost me *later*?"
 - **Problem solved:** both source games model obligation thinly. West has **loans** (`08 §4`) — 5–10% interest/season, collateral, foreclosure — but only *financial*, and only as a balance-sheet line, not active pressure. FL has oaths and favors as pure fiction with no teeth. Neither makes "I owe someone" a *trackable pressure that comes due in play.* For genres where entanglement is the engine of the plot (noir, corporate, heist, feudal, supernatural-pact), the absence is a real gap. This module closes it by unifying financial debt, social favors, moral oaths, and supernatural pacts onto one track — and giving the GM a lever ("call the debt") that turns past generosity into present constraint.
 
 ## 2. The generic design space
 
-### 2a. Mechanism overview
+### 2a. Rule overview
 
-When a PC accepts help they cannot pay for up front — a loan, a favor, an oath, a pact — they accrue **Debt** on a 0–10 track. Unlike the engine's other pools (Willpower, Faith), Debt is *bad*: it **grows when you accept** a favor and must be **paid down** by fulfilling the obligation. You do not choose to spend Debt; it is inflicted by need and removed by fulfillment. This is P2 (capped metacurrency) with its polarity **inverted** — a pool you want *low*, not high.
+When a PC accepts help they cannot pay for up front — a loan, a favor, an oath, a pact — they accrue **Debt** on a 0–10 track. Unlike the engine's other pools (Willpower, Faith), Debt is *bad*: it **grows when you accept** a favor and must be **paid down** by fulfilling the obligation. You do not choose to spend Debt; it is inflicted by need and removed by fulfillment. This is P2 (capped pool) with its polarity **inverted** — a pool you want *low*, not high.
 
 Every Debt is one of four **types** — **financial, social, moral, supernatural** — recorded as *(Type, Creditor, amount 1–3)* and summed to a capped total. The type determines how the debt accrues, how it is called, and what resists it. The cap (10) is the crisis threshold.
 
@@ -37,23 +37,23 @@ The core innovation is that debts are **callable**: at any moment the fiction wa
 
 ### 2b. NEW CONCEPTS introduced
 
-- **NEW CONCEPT — Inverted metacurrency polarity:** Core pools (WP, Faith) *deplete* on spend and *refuel* on risk — you want them high, you court danger to fill them. Debt is P2 (Operator 2, Inversion) with both directions flipped: it **GROWS when you take a favor** and must be **PAID DOWN** by settling. No core pool in the engine works this way (every other pool is a reservoir you draw from; Debt is a burden that accumulates). The inversion is load-bearing — it is what makes "I accepted help" feel like *encumbrance* rather than *recovery.*
-- **NEW CONCEPT — Callable deferred obligation:** Debts are not merely tracked (a ledger you read) nor merely settled (a bill you pay when convenient). A creditor can **pull a debt at a time of their choosing**, converting a past favor into a present demand. This *deferred-trigger* mechanism — where a past acceptance becomes a now-triggered scene — has no analogue in the core engine. Core triggers are immediate (a roll now, a cost now); this is the only mechanic where an action taken *sessions ago* reaches forward and constrains a choice *today.*
-- **NEW CONCEPT — Unified debt-type track:** Core obligation is fragmented: West models only **financial loans** (lightly, as a balance-sheet line); FL models oaths/favors as **toothless fiction**. Neither has a track, and neither covers social favors, moral oaths, or supernatural pacts as a mechanical pressure. This module puts **financial / social / moral / supernatural** debts on a *single 0–10 track*, each type with its own accrual rule, call procedure, and resistance — so a money-debt and a soul-pact are commensurable, can compound toward the same crisis, and resolve through the same Demand architecture.
+- **NEW CONCEPT — Inverted pool polarity:** Core pools (WP, Faith) *deplete* on spend and *refuel* on risk — you want them high, you court danger to fill them. Debt is P2 (Operator 2, Inversion) with both directions flipped: it **GROWS when you take a favor** and must be **PAID DOWN** by settling. No core pool in the engine works this way (every other pool is a reservoir you draw from; Debt is a burden that accumulates). The inversion is load-bearing — it is what makes "I accepted help" feel like *encumbrance* rather than *recovery.*
+- **NEW CONCEPT — Callable deferred obligation:** Debts are not merely tracked (a ledger you read) nor merely settled (a bill you pay when convenient). A creditor can **pull a debt at a time of their choosing**, converting a past favor into a present demand. This *deferred-trigger* rule pattern — where a past acceptance becomes a now-triggered scene — has no analogue in the core engine. Core triggers are immediate (a roll now, a cost now); this is the only rule where an action taken *sessions ago* reaches forward and constrains a choice *today.*
+- **NEW CONCEPT — Unified debt-type track:** Core obligation is fragmented: West models only **financial loans** (lightly, as a balance-sheet line); FL models oaths/favors as **toothless fiction**. Neither has a track, and neither covers social favors, moral oaths, or supernatural pacts as a rules pressure. This module puts **financial / social / moral / supernatural** debts on a *single 0–10 track*, each type with its own accrual rule, call procedure, and resistance — so a money-debt and a soul-pact are commensurable, can compound toward the same crisis, and resolve through the same Demand architecture.
 
-*Pure recombination of P4 (typed D66, here as the Demand table) and P5 (optional resource-die granularity) is NOT flagged — those are existing primitives reused. Only the three genuine engine extensions above are new.*
+*Pure recombination of P4 (typed D66, here as the Demand table) and P5 (optional resource-die granularity) is NOT flagged — those are existing patterns reused. Only the three genuine engine extensions above are new.*
 
-### 2c. Mechanical reference (tables & procedures)
+### 2c. Rules reference (tables & procedures)
 
 #### The Debt track
 
-- **Score:** 0–10 per PC (or per party, if the *party-shared* dial is on). **0 = unencumbered; 10 = maxed out (crisis).**
+- **Score:** 0–10 per PC (or per party, if the *party-shared* choice is on). **0 = unencumbered; 10 = maxed out (crisis).**
 - **Composition:** each individual debt is recorded as **(Type, Creditor, amount 1–3)**. The PC's total Debt = the sum of all outstanding debts, capped at 10.
 - **Polarity:** inverted from P2. You never "spend" Debt. It is **added** when you accept help; **subtracted** when you settle. You want it low.
 
 #### The four debt types
 
-A Debt is always one of four types. The type determines *how it is earned*, *how it is called*, and *what resists it*. (This is P4's family-set parameter, M3: one master track, four typed demand families.)
+A Debt is always one of four types. The type determines *how it is earned*, *how it is called*, and *what resists it*. (This is P4's family-set choice, M3: one master track, four typed demand families.)
 
 | Type | How it is **earned** (accrues when…) | How it is **called** | What **resists** it |
 | --- | --- | --- | --- |
@@ -175,11 +175,11 @@ When a PC's Debt reaches **10**, they are **maxed out** — the "Broken" of this
 
 1. **Lock new favors.** The PC can accept **no new favors** of any type until their Debt drops below 10. No creditor will extend more.
 2. **Declare the crisis.** The GM announces a Debt-10 crisis. This is a *dramatic* moment, not routine bookkeeping — frame it as such.
-3. **Choose the resolution mode** (per the *Debt 10* dial, §4):
+3. **Choose the resolution mode** (per the *Debt 10* choice, §4):
    - **(a) Foreclosure cascade** — the GM **calls every outstanding debt in a single scene.** Resolve each called debt in turn (settle now or roll Demand). The cascade continues until the total Debt drops below **7.**
    - **(b) Indenture** — the PC is **bound to their largest creditor** in service. They owe that creditor **one major uncompensated act** (typically the GM's next full session). Until that act is complete **and** total Debt is below 7: no Debt can pay down, and no new favors may be taken.
 4. **Resolve to under 7.** The crisis does not end at Debt 9 — it ends when the PC is brought **below 7**, giving breathing room before the next spiral.
-5. **Make it rare.** Debt 10 should be a *campaign beat*, not a weekly occurrence. If it triggers by session 3, the dials are off — raise the cap, lower favor amounts, or call more aggressively so Debt pays down (§7).
+5. **Make it rare.** Debt 10 should be a *campaign beat*, not a weekly occurrence. If it triggers by session 3, the choices are off — raise the cap, lower favor amounts, or call more aggressively so Debt pays down (§7).
 
 ## 3. The pressure loop
 
@@ -189,9 +189,9 @@ When a PC's Debt reaches **10**, they are **maxed out** — the "Broken" of this
 - **State change:** the PC's web of obligation shifts — some debts clear, new ones accrue, standing with creditors (and their faction allies, `20`) moves.
 - **Loop shape:** **accept → accrue → called → settle-or-refuse → accept.** Runs at session/downtime cadence (strategic, like Influence `10`), not Round cadence — though a *called* debt resolves in a single scene.
 
-## 4. Dials
+## 4. Choices
 
-| Dial | Setting A | Setting B | Psychology produced |
+| Choice | Setting A | Setting B | Psychology produced |
 | --- | --- | --- | --- |
 | **Debt types enabled** | Financial only (West-native) | All four (financial + social + moral + supernatural) | Narrow/economic vs full entanglement |
 | **Demand table** | One generic table | One typed family per enabled debt type (P4, M3) | "Debt is debt" vs "the *kind* of obligation is the story" |
@@ -207,19 +207,19 @@ When a PC's Debt reaches **10**, they are **maxed out** — the "Broken" of this
 
 ## 5. Integration points
 
-- **Hooks into:** the **faction relationship web** (`workshop/02`) — a faction-to-faction or faction-to-PC Debt on that module's edge is *this* module's Debt at org scale; calling it is how the web exerts force (the warlord example in `02 §8` is a called debt). Hooks into **Influence** (`workshop/01`) — a called debt can be bought off by spending Influence with the creditor (or, inverted, *refusing* a called debt costs Influence via the scandal mechanic). Hooks into the **org layer** (`07`) — an org's upkeep obligation (P7) is a standing Debt the org owes its sponsors. Hooks into the **economy** (`08`) — West's loans become the *financial* debt type, with interest modeled as slow accrual (+1 Debt/season the loan is outstanding) rather than a separate balance sheet.
+- **Hooks into:** the **faction relationship web** (`workshop/02`) — a faction-to-faction or faction-to-PC Debt on that module's edge is *this* module's Debt at org scale; calling it is how the web exerts force (the warlord example in `02 §8` is a called debt). Hooks into **Influence** (`workshop/01`) — a called debt can be bought off by spending Influence with the creditor (or, inverted, *refusing* a called debt costs Influence via the scandal rule). Hooks into the **org layer** (`07`) — an org's upkeep obligation (P7) is a standing Debt the org owes its sponsors. Hooks into the **economy** (`08`) — West's loans become the *financial* debt type, with interest modeled as slow accrual (+1 Debt/season the loan is outstanding) rather than a separate balance sheet.
 - **Requires:** named **creditors** (who you owe), a sense of the **downtime cadence** (when calling/accrual fires), and agreement on which debt types are in play.
 - **Replaces / extends:** flat "you owe me a favor" fiction — adds a trackable, callable pressure. Replaces West's standalone loan rules with the unified track (a loan is just financial Debt).
-- **Cross-refs:** `00 §7` (P2 metacurrency, here inverted), `04 §5` + `16` P4 (typed D66, here as the Demand table), `16` P5 (optional resource-die granularity), `18 §4` Operator 2 (Inversion) + Operator 1 (Domain Transfer), `17` M1 (the refuel psychology being inverted).
+- **Cross-refs:** `00 §7` (P2 capped pool, here inverted), `04 §5` + `16` P4 (typed D66, here as the Demand table), `16` P5 (optional resource-die granularity), `18 §4` Operator 2 (Inversion) + Operator 1 (Domain Transfer), `17` M1 (the refuel psychology being inverted).
 
-## 5a. Interface
+## 5a. Handshake
 
 - **Prerequisites:** creditors, patrons, factions, or supernatural claimants.
 - **Inputs:** Debt scale, favor menu, call thresholds, repayment actions.
 - **Outputs:** Debt track, called-debt procedure, breach consequences.
 - **Touched systems:** economy, social, powers, faction, GM.
 - **Replaces or stacks:** replaces informal favors; stacks with Influence when Influence gets the favor and Debt records the cost.
-- **Incompatibilities:** merge with Pact or Oath mechanics if the same patron relationship fuels power.
+- **Incompatibilities:** merge with Pact or Oath rules if the same patron relationship fuels power.
 
 ## 6. Failure modes & edge cases
 
@@ -228,19 +228,19 @@ When a PC's Debt reaches **10**, they are **maxed out** — the "Broken" of this
 - **Creditor amnesia.** If debts are never called, they are just bookkeeping — past favors with no teeth (the same trap the faction web's "debt amnesia" names, `20 §6`). **Fix:** the GM commits to calling ≥1 debt/session; an uncalled debt older than a full arc either auto-resolves or auto-escalates.
 - **Debt-as-universal-solvent.** If *every* problem is solvable by taking a favor, Debt becomes a bypass currency that trivializes the engine's other loops (`13 §5.5`). **Fix:** favors are gated by *creditor capability and willingness* — a creditor only lends what they have and what suits them; you cannot borrow your way past a problem no one wants to help with.
 - **Oath-paralysis.** If moral oaths are too broadly worded ("never lie"), every scene generates a Break risk and the PC is unplayable. **Fix:** oaths are *specific* (sworn to a named party, about a named subject, with a defined release condition); a too-broad oath is renegotiated or it is the kind of oath that *should* define the character.
-- **The GM-fiat call.** If calling is pure GM whim, players feel targeted (`19` FE5). **Fix:** call only debts that are *on the sheet* (never invent a debt retroactively), and tie escalation to fiction (a deadline, a creditor's need) the players can see coming. The dice-driven calling dial (above) is the fair-pressure fix for tables that want it.
+- **The GM-fiat call.** If calling is pure GM whim, players feel targeted (`19` FE5). **Fix:** call only debts that are *on the sheet* (never invent a debt retroactively), and tie escalation to fiction (a deadline, a creditor's need) the players can see coming. The dice-driven calling choice (above) is the fair-pressure fix for tables that want it.
 
-## 7. Validation notes
+## 7. Check notes
 
 - **Math (`13 §3`, with the inversion caveat from `18 §7`):** an inverted pool (grows on accrual, climax at cap) hits its crisis *faster* than a depleting pool hits empty, because accrual is player-driven and frequent. Recompute the breakpoints: at ~1–2 favors/session and 1+ call/session, a PC cycling between 3 and 7 Debt is healthy; a PC parked at 9–10 is in endgame. If Debt routinely hits 10 by session 3, either raise the cap, lower favor amounts, or call more aggressively so it pays down. The rule of thumb: **Debt should feel like it moves both ways every session.**
-- **Exploits (`13 §5`):** the main risks are debt-farming (taking favors to game a creditor relationship — gated by the cap and by creditor willingness) and the universal-solvent (above). The "call every debt at 10" cascade prevents hoarding-at-cap as a safe strategy. Player-driven calling (if enabled) is gated to one call/session per creditor to prevent the crew dumping all owed-favors at once.
-- **Felt experience (`19`):** the key psychology is that **Debt makes the past matter** — every favor accepted is a seed the GM can grow into a scene (C5 agency ledger: the player's *past* choices constrain their *present*). The price-named-up-front rule prevents FE1 (false choice) and FE5 (unfairness): players always know what they are getting into. The Demand table must feel *specific and memorable* (P4's core property) — "the creditor sells your debt to the syndicate" is a story beat, not "−2 standing." Validate by checking that called debts produce scenes, not arithmetic.
+- **Abuses (`13 §5`):** the main risks are debt-farming (taking favors to game a creditor relationship — gated by the cap and by creditor willingness) and the universal-solvent (above). The "call every debt at 10" cascade prevents hoarding-at-cap as a safe strategy. Player-driven calling (if enabled) is gated to one call/session per creditor to prevent the crew dumping all owed-favors at once.
+- **Felt experience (`19`):** the key psychology is that **Debt makes the past matter** — every favor accepted is a seed the GM can grow into a scene (C5 agency ledger: the player's *past* choices constrain their *present*). The price-named-up-front rule prevents FE1 (false choice) and FE5 (unfairness): players always know what they are getting into. The Demand table must feel *specific and memorable* (P4's core property) — "the creditor sells your debt to the syndicate" is a story beat, not "−2 standing." Check by checking that called debts produce scenes, not arithmetic.
 
 ## 8. Worked genre example — Corporate space opera
 
 **The setting:** A handful of PCs crew a freighter in the grip of **Vance-Meridian**, the mega-corp that funded their ship, installed their cybernetics, and forged the false identities they live under. They are not employees; they are *assets carrying a balance.* Every job is a payment; every favor from a fixer is another line on the ledger.
 
-**Dials set:** all four types enabled; one typed Demand family per type (financial / social / moral / supernatural — the last reskinned as "neuro-contract" clauses wired to their cybernetics); GM-driven calling, ≥1/session; Indenture at 10; cap 10; fixed points; **party-shared Debt pool** (the *ship* owes, and the crew is jointly liable); constraint-model oaths; player-driven calling **on** (the crew leans on favors *owed to them* as often as they are called).
+**Settings chosen:** all four types enabled; one typed Demand family per type (financial / social / moral / supernatural — the last reskinned as "neuro-contract" clauses wired to their cybernetics); GM-driven calling, ≥1/session; Indenture at 10; cap 10; fixed points; **party-shared Debt pool** (the *ship* owes, and the crew is jointly liable); constraint-model oaths; player-driven calling **on** (the crew leans on favors *owed to them* as often as they are called).
 
 **The crew's starting ledger (shared Debt 6/10):**
 - **Financial Debt 3** to Vance-Meridian — the ship mortgage + cybernetic installment (accrues +1/season it is unpaid).

@@ -6,7 +6,7 @@
 
 ## 1. Origin
 
-- **Source primitives:** P2, P4, P14, P15.
+- **Source patterns:** P2, P4, P14, P15.
 - **Operators:** Inversion + Fusion.
 - **Target psychology:** success makes the world notice.
 - **Problem solved:** risky action needs campaign memory beyond immediate failure.
@@ -128,7 +128,7 @@ Heat becomes more playable when the GM names evidence instead of abstract attent
 
 ### Heat spend and pressure menu
 
-Heat is usually bad, but it can be deliberately exploited. This is dangerous and should always leave evidence.
+Heat is usually bad, but it can be deliberately abuseed. This is dangerous and should always leave evidence.
 
 | Player move | Heat cost/gain | Effect |
 | --- | --- | --- |
@@ -155,9 +155,9 @@ At Heat 3 after a warehouse theft, the GM names a dockworker witness. At Heat 6 
 
 Action -> exposure -> attention event -> cooldown choice -> future constraint.
 
-## 4. Dials
+## 4. Choices
 
-| Dial | Low | High | Psychology |
+| Choice | Low | High | Psychology |
 | --- | --- | --- | --- |
 | Cap | 6 | 10+ | short fuse vs campaign pressure |
 | Trigger | only failures | successes and failures | stealthy vs paranoid |
@@ -167,7 +167,7 @@ Action -> exposure -> attention event -> cooldown choice -> future constraint.
 
 Pairs with chases, faction web, reputation, territory, social fallout, and mystery webs.
 
-## 6. Interface
+## 6. Handshake
 
 - **Prerequisites:** GM consequence engine and faction/threat source.
 - **Inputs:** Heat triggers, thresholds, cooldown actions.
@@ -180,7 +180,7 @@ Pairs with chases, faction web, reputation, territory, social fallout, and myste
 
 If Heat only punishes failure, players may become overcautious. If Heat cannot be reduced, it becomes doom. If cooldown is free, attention is cosmetic.
 
-## 8. Validation notes
+## 8. Check notes
 
 Use `24 §3` and `§5`. Watch for loops where characters farm Heat to trigger rewards.
 

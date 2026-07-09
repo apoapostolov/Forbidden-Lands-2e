@@ -8,7 +8,7 @@
 
 1. Source provenance
 2. Abstraction target
-3. Travel model: hex (FL) vs pointcrawl (West) — the central dial
+3. Travel model: hex (FL) vs pointcrawl (West) — the central choice
 4. The time block: Quarter-day / Shift
 5. The activity menu — the load-bearing structure
 6. Movement, navigation, forced march, mounts, pursuit, manhunts, and traps
@@ -17,7 +17,7 @@
 9. Making camp, watch, and the failed-camp liability
 10. Rest, sleep, recovery shifts, and downtime
 11. Divergence rows (FL vs West)
-12. Dials and instantiation recipe
+12. Rule Choices and Build Recipe
 13. Design intent
 
 ## Source provenance
@@ -37,9 +37,9 @@
 
 Reverse-engineer the **journey engine** as a genre-neutral travel/survival loop. The two games instantiate the *same spine* — a **time block** (Quarter-day / Shift), an **activity menu** (each PC takes one travel job per block), a **weather-pressure layer**, a **food layer**, and a **camp/recovery layer** — but diverge sharply on the **spatial model**: FL is a maximal **hex-crawl** (10 km tiles, terrain types, per-tile procedures, tile-by-tile mishaps); West is a **pointcrawl** (mileage-between-points, lighter, with depth pushed into survival reference prose and the Trouble system).
 
-The deliverable is the **activity-menu architecture** — the most transferable artifact: *distribute the party's labor across a fixed menu so every PC has a travel job* — and the **hex-vs-pointcrawl trade-off** recorded as the engine's central spatial dial.
+The deliverable is the **activity-menu architecture** — the most transferable artifact: *distribute the party's labor across a fixed menu so every PC has a travel job* — and the **hex-vs-pointcrawl trade-off** recorded as the engine's central spatial choice.
 
-## 3. Travel model: hex (FL) vs pointcrawl (West) — the central dial
+## 3. Travel model: hex (FL) vs pointcrawl (West) — the central choice
 
 **FL — hex-crawl (granular, exploratory):** The map is divided into hexagons, **one hexagon = 10 kilometers**. Each hex has a terrain type that governs movement difficulty and encounter tables. FL `08-journeys.md:7-42`. Movement is *tile-by-tile*: you enter a new hex, the pathfinder rolls to **LEAD THE WAY** (a Survival roll *per hex entered*), failure still moves you in but triggers a mishap roll. FL `08-journeys.md:175-198, 229-258`. Ten terrain types (Plains, Forest, Dark Forest, Hills, Mountains, High Mountains [impassable], Lake/River [boat], Marshlands [raft], Quagmire, Ruins) each tag movement (Open/Difficult/Impassable) *and* forage/hunt modifiers. FL `08-journeys.md:31-42`. The hex is the unit of exploration: unexplored hexes are the prize, terrain features are discovered hex-by-hex, and the GM rolls a random encounter **once per Quarter Day while HIKING, once per day if you stay put**. FL `08-journeys.md:281-284`.
 
@@ -55,11 +55,11 @@ The deliverable is the **activity-menu architecture** — the most transferable 
 | **Prep weight** | Heavy — terrain table, mishap tables, encounter tables, per-tile features. | Light — one mileage table + Trouble on the rush roll. |
 | **Best for** | Sandbox exploration, hex-crawl campaigns, "draw your own map." | Linear/point-to-point drama, trail and pursuit stories, faster pacing. |
 
-**Generic abstraction — "the spatial model":** a function that turns *intended movement* into *progress + pressure*. Two canonical points:
+**Abstract pattern — "the spatial model":** a function that turns *intended movement* into *progress + pressure*. Two canonical points:
 - **Tile-crawl** (FL): the world is a grid of unknown tiles; each tile entered is a procedure (enter → navigate → possibly mishap → possibly encounter). Favors exploration depth, fog-of-war, and "the map as treasure." Cost: prep and table-time per tile.
 - **Point-hop** (West): the world is a graph of named points with edge weights (miles × terrain class); a travel block advances you N miles along an edge, with pressure on the rush decision. Favors speed, pursuit/drama, and survival-as-attrition. Cost: less discovery, the "between" is flavor not play.
 
-**Layer:** the spatial model is a **core design dial** (see §12). Within either model, the **terrain-class tagging** (Open/Easy/Hard/Difficult/Impassable × forage/hunt modifiers) is **General** — both games attach movement and food modifiers to terrain type. FL `08-journeys.md:31-42`; West `06:1285-1290`. The per-tile mishap tables (FL) and the rush/Trouble gate (West) are the *pressure layer* and are **Situational** to the chosen spatial model.
+**Layer:** the spatial model is a **core design choice** (see §12). Within either model, the **terrain-class tagging** (Open/Easy/Hard/Difficult/Impassable × forage/hunt modifiers) is **General** — both games attach movement and food modifiers to terrain type. FL `08-journeys.md:31-42`; West `06:1285-1290`. The per-tile mishap tables (FL) and the rush/Trouble gate (West) are the *pressure layer* and are **Situational** to the chosen spatial model.
 
 ## 4. The time block: Quarter-day / Shift
 
@@ -69,7 +69,7 @@ The deliverable is the **activity-menu architecture** — the most transferable 
 
 **West — the Shift:** Travel speed is given as **miles per Shift**, cross-indexed by method and terrain. West `06-life-in-the-old-west.md:1283-1290`. Making Camp, watch, and rest occur over Shifts; pushing travel and the Trouble gate are per-Shift decisions. West `06:1263-1267, 1277-1281`. The Shift carries the same load as FL's Quarter Day — it is the travel-time budget — but West does not hard-codify a four-block day or a daily-roll checklist in the core travel section; its daily structure is implied by the travel table and camp sequence.
 
-**Generic abstraction — "the travel time unit":** a discrete block (¼-day / Shift / watch) that is the resolution unit for *all* travel procedures: movement, activities, weather, encounters, recovery, spoilage. Two knobs: (1) **blocks per day** (FL = 4 explicit Quarter Days; West = Shift, count loose), and (2) **whether the day opens with a deterministic checklist** (FL yes — resource dice, weather, calendar; West no formal checklist). **Layer:** the time block is **General**; the daily-roll checklist is **Optional** (a pacing/attrition dial — it makes the day feel like a series of costs, but it adds bookkeeping).
+**Abstract pattern — "the travel time unit":** a discrete block (¼-day / Shift / watch) that is the resolution unit for *all* travel procedures: movement, activities, weather, encounters, recovery, spoilage. Two knobs: (1) **blocks per day** (FL = 4 explicit Quarter Days; West = Shift, count loose), and (2) **whether the day opens with a deterministic checklist** (FL yes — resource dice, weather, calendar; West no formal checklist). **Layer:** the time block is **General**; the daily-roll checklist is **Optional** (a pacing/attrition choice — it makes the day feel like a series of costs, but it adds bookkeeping).
 
 ## 5. The activity menu — the load-bearing structure
 
@@ -98,7 +98,7 @@ The exclusions encode the labor trade-off: to **move** you spend HIKE; to **navi
 
 **West — a lighter, spirit-equivalent menu.** West does not publish a 14-row formal menu, but the same labor-distribution logic runs its travel: someone must **ride/drive** (the travel action, resolved by the Traveling Table), someone must **make camp** (Nature roll), someone must **stand watch** (night watches, two-hour turns), and the party makes **rush vs. safe** and **forage/hunt** decisions within the Shift budget. West `06:1263-1281`; camp/trail procedures in `15-competence-and-procedures.md:126-160` (pitching camp, picketing horses, night herders riding two-hour watches). The depth West *does* formalize that FL does not is **mounted/animal labor** and **trail procedure** (catching, saddling, hobbling, picketing, watering, shoeing, pacing a horse so it doesn't founder) — a travel-job layer tuned to its genre. West `15:24-82, 152-155`.
 
-**Generic abstraction — "the activity menu":** A fixed list of travel jobs; each block, each PC picks one; the menu is balanced so that *movement, navigation, security, and supply are mutually exclusive demands* — you cannot move, navigate, watch, and forage with the same character in the same block. The menu is what makes travel a **resource-allocation puzzle** rather than narration: the party is perpetually short of hands, so "do we push on or stop to forage?" is a real decision every block.
+**Abstract pattern — "the activity menu":** A fixed list of travel jobs; each block, each PC picks one; the menu is balanced so that *movement, navigation, security, and supply are mutually exclusive demands* — you cannot move, navigate, watch, and forage with the same character in the same block. The menu is what makes travel a **resource-allocation puzzle** rather than narration: the party is perpetually short of hands, so "do we push on or stop to forage?" is a real decision every block.
 
 Three design knobs: (1) **menu breadth** (FL = 14; West ≈ 6–8 implicit; trim to a mounted/survival/urban set as the genre demands); (2) **solo-vs-shared** tagging (which jobs one character monopolizes — pathfinder, lookout — which forces role assignment); (3) **what stacks with movement** (FL lets LEAD THE WAY and KEEP WATCH stack with HIKE; FORAGE/HUNT cannot — this is the key constraint that makes *stopping* costly). **Layer:** the menu architecture is **General**; the specific activity roster is **Situational** (genre-dependent); the daily-roll checklist that opens the day is **Optional**.
 
@@ -110,11 +110,11 @@ Three design knobs: (1) **menu breadth** (FL = 14; West ≈ 6–8 implicit; trim
 
 **West movement (per edge):** Miles per Shift by method × terrain class (foot/horse/cart/stagecoach × road/easy/hard). West `06:1283-1290`. **Navigation/rush = a single roll:** push for +50% with a MOVE (foot) or Animal Handlin' (mount/wagon) roll; failure = no extra progress + cumulative −1 to further rushes; **Trouble on the roll halts you at half distance** (sprained ankle, lame horse, thrown wheel). West `06:1263-1267`. Travel in heat/cold risks Freezing/Heatstroke. West `06:1269`.
 
-**Generic abstraction — "movement + the over-exertion valve":** A base speed (tiles/block or miles/block) tagged by terrain class, plus a **navigation/rush procedure** that converts *wanting to go faster/farther* into a roll that can fail. The two instantiations sit at opposite ends of a dial:
+**Abstract pattern — "movement + the over-exertion valve":** A base speed (tiles/block or miles/block) tagged by terrain class, plus a **navigation/rush procedure** that converts *wanting to go faster/farther* into a roll that can fail. The two builds sit at opposite ends of a choice:
 - **Per-tile navigation** (FL): every tile of unknown space costs a roll; failure = a mishap that costs progress or harm. High granularity, exploration-driven.
-- **Per-edge rush** (West): one decision per block to over-exert; the cost is gated by Trouble (a narrative tax) rather than a tile mishap (a mechanical tax). Light, drama-driven.
+- **Per-edge rush** (West): one decision per block to over-exert; the cost is gated by Trouble (a story tax) rather than a tile mishap (a dice tax). Light, drama-driven.
 
-The **over-exertion valve** — a roll you take to exceed the safe daily travel — is shared and **General**: FL's forced-march (Endurance, damage on fail, sleep loss) and West's rush (MOVE/Animal Handlin', Trouble halts progress) are the same mechanic at two calibrations. The valve is what makes "push on or camp" a real decision: extra distance costs body/beasts/time. **Layer:** base speed + terrain tags = **General**; per-tile navigation = **Situational** (tile-crawl only); the over-exertion valve = **General**.
+The **over-exertion valve** — a roll you take to exceed the safe daily travel — is shared and **General**: FL's forced-march (Endurance, damage on fail, sleep loss) and West's rush (MOVE/Animal Handlin', Trouble halts progress) are the same rule at two calibrations. The valve is what makes "push on or camp" a real decision: extra distance costs body/beasts/time. **Layer:** base speed + terrain tags = **General**; per-tile navigation = **Situational** (tile-crawl only); the over-exertion valve = **General**.
 
 ### 6.5 Mounts, field pursuit, manhunts, and traps
 
@@ -159,7 +159,7 @@ Use this loop for chases, manhunts, escaped prisoners, hunting dangerous animals
 West's traps have enough structure to generalize: a trap is a built hazard with strength, concealment, trigger, and maintenance.
 
 1. **Choose trap purpose:** catch food, delay pursuit, capture alive, wound, alarm, protect camp, deny a route.
-2. **Choose trap type:** snare, deadfall, pit, wire/noisemaker, stake field, net, poisoned bait, alarm line, mechanical lock, magical ward.
+2. **Choose trap type:** snare, deadfall, pit, wire/noisemaker, stake field, net, poisoned bait, alarm line, clockwork lock, magical ward.
 3. **Set Strength:** attack dice or fixed damage; more successes on construction may increase it.
 4. **Set Concealment:** penalty to notice/avoid; more successes may increase it.
 5. **Set Trigger:** step, trip, bait, touch, pressure, timer, line-of-sight, command.
@@ -171,7 +171,7 @@ West's traps have enough structure to generalize: a trap is a built hazard with 
 
 ## 7. Weather and environmental pressure
 
-**FL — weather as a mechanical system ("attrition by table"):** Optional, but when on, the GM rolls **three D6 each morning** — Wind, Rainfall, Temperature — and each result hands out modifiers to travel activities and triggers Endurance rolls. FL `08-journeys.md:51-79`, mirrored at `03-gamemaster-tools.md:347-379`.
+**FL — weather as a rules system ("attrition by table"):** Optional, but when on, the GM rolls **three D6 each morning** — Wind, Rainfall, Temperature — and each result hands out modifiers to travel activities and triggers Endurance rolls. FL `08-journeys.md:51-79`, mirrored at `03-gamemaster-tools.md:347-379`.
 
 - **Wind** (None/Breeze/Gales/Storm): modifies MAKE CAMP (−0/−1/−2); Storm forces an Endurance roll from everyone to keep moving for a Quarter Day. FL `08:55-62`.
 - **Rainfall** (Clear/None/Drizzle/Downpour): modifies LEAD THE WAY (+1 clear to −2 downpour); Downpour forces a group Endurance roll to keep moving. FL `08:64-71`.
@@ -179,31 +179,31 @@ West's traps have enough structure to generalize: a trap is a built hazard with 
 
 **FL Expanded Weather (HEAT/TEMP, seasonal, clothes):** A deeper optional layer. **HEAT** is *felt* temperature (skin), **TEMP** is *actual* temperature; convert between them. Start from a **seasonal base** (Summer 2 / Spring·Fall 1 / Winter 0 / Mountains −1). HEAT on a ladder (−2 to +4) sets *how often* you must roll Endurance to avoid COLD: at HEAT 0 it's every Quarter Day; at −1 every hour; at −2 every 15 minutes — i.e., cold scales from "unpleasant" to "you die in an hour." FL `08-journeys.md:81-108`. **Clothes** (Soaked −2 / Bare minimum −1 / Normal 0 / Winter +1) and **sleeping gear** (campfire up to +2; tent +2 MAKE CAMP and rain protection; no blanket −1; sleeping fur +1) convert TEMP→HEAT and gate whether sleeping on bare ground makes you COLD. FL `08:127-147`. Snowfall at ≤0 HEAT modifies LEAD THE WAY and FORCED MARCH; rain at positive HEAT drops HEAT by 1 and can ruin moisture-sensitive gear (roll item dice, ⚔ = damage). FL `08:121-125`.
 
-**West — weather as setting + attrition reference ("the country as antagonist"):** West does not give a morning weather table in the core travel rules; instead it renders weather as **regional killers** — concrete, lethal, prose-grounded: the *blue norther* (temp drops 50°F in two hours), the *chinook*, hailstorm, tornado, lightning, drought, the Hard Winter of 1886–87; desert *heat*, *cold nights* (50°F drop after sundown), *haboob*, *flash flood*, *sandstorm*; mountain snow/avalanche/altitude sickness/hypothermia. West `11-frontier-survival-and-hunt.md:39-82`. The mechanical pressure enters through the **Trouble system** and through explicit conditions: rushing travel in hot/cold weather risks **Freezing / Heatstroke**. West `06:1269`. The procedural layer (`15:177-185`) gives *reading the weather* (mares' tails = front in 12 h; halo around the moon = rain inside a day) and *surviving a blizzard/thunderstorm* as concrete procedures. The fiction load is enormous: "The land in the West does not care. It is the central fact and the central terror." West `11:185-187`.
+**West — weather as setting + attrition reference ("the country as antagonist"):** West does not give a morning weather table in the core travel rules; instead it renders weather as **regional killers** — concrete, lethal, prose-grounded: the *blue norther* (temp drops 50°F in two hours), the *chinook*, hailstorm, tornado, lightning, drought, the Hard Winter of 1886–87; desert *heat*, *cold nights* (50°F drop after sundown), *haboob*, *flash flood*, *sandstorm*; mountain snow/avalanche/altitude sickness/hypothermia. West `11-frontier-survival-and-hunt.md:39-82`. The rules pressure enters through the **Trouble system** and through explicit conditions: rushing travel in hot/cold weather risks **Freezing / Heatstroke**. West `06:1269`. The procedural layer (`15:177-185`) gives *reading the weather* (mares' tails = front in 12 h; halo around the moon = rain inside a day) and *surviving a blizzard/thunderstorm* as concrete procedures. The fiction load is enormous: "The land in the West does not care. It is the central fact and the central terror." West `11:185-187`.
 
-**Generic abstraction — "weather as attrition":** A pressure layer that converts *the environment* into *condition damage and lost actions*. Two calibrated points:
+**Abstract pattern — "weather as attrition":** A pressure layer that converts *the environment* into *condition damage and lost actions*. Two calibrated points:
 - **Mechanical/weather-table** (FL): a deterministic morning roll produces modifiers to travel activities and triggers Endurance rolls that inflict conditions (THIRSTY/COLD). Predictable, table-driven, integrates with gear (clothes/sleeping gear as HEAT modifiers) and the food/water economy. Produces a *grind* — every day the weather taxes you.
-- **Reference/Trouble-gated** (West): weather is a *setting fact* that sets scene stakes and enters mechanics through the Trouble system + condition triggers (Freezing/Heatstroke) when you over-exert. Produces *dramatic* weather — storms are scenes, not die rolls.
+- **Reference/Trouble-gated** (West): weather is a *setting fact* that sets scene stakes and enters rules through the Trouble system + condition triggers (Freezing/Heatstroke) when you over-exert. Produces *dramatic* weather — storms are scenes, not die rolls.
 
-**Design knobs:** (1) **random-table vs GM-discretion** weather generation; (2) **felt-vs-actual temperature split** (FL's HEAT/TEMP) — adds realism, costs bookkeeping; (3) **gear-as-weather-modifier** (clothes, sleeping gear, fire, tent) — makes equipment loadout a survival decision; (4) **condition currency** — does weather deal attribute damage, conditions, or Trouble? **Layer:** a weather-pressure layer is **General** (the engine expects attrition from the environment); the morning-roll table is **Optional**; the HEAT/TEMP expanded system is **Optional** (a depth dial).
+**Design knobs:** (1) **random-table vs GM-discretion** weather generation; (2) **felt-vs-actual temperature split** (FL's HEAT/TEMP) — adds realism, costs bookkeeping; (3) **gear-as-weather-modifier** (clothes, sleeping gear, fire, tent) — makes equipment loadout a survival decision; (4) **condition currency** — does weather deal attribute damage, conditions, or Trouble? **Layer:** a weather-pressure layer is **General** (the engine expects attrition from the environment); the morning-roll table is **Optional**; the HEAT/TEMP expanded system is **Optional** (a depth choice).
 
 ## 8. Forage, hunt, fish — the food layer
 
-**FL — formalized food-supply subsystem.** Food and water are **tracked resources** (Resource Dice) consumed daily; the daily checklist rolls them down. FL `08-journeys.md:44-49`. When supplies run low, three travel activities replenish them, all gated by **Survival** and modified by **terrain + season**:
+**FL — formalized food-supply rule set.** Food and water are **tracked resources** (Resource Dice) consumed daily; the daily checklist rolls them down. FL `08-journeys.md:44-49`. When supplies run low, three travel activities replenish them, all gated by **Survival** and modified by **terrain + season**:
 
 - **FORAGE** (stop; Survival; food *or* water): success = X units of VEGETABLES (X = ⚔ rolled) or a full waterskin refill to D12; failure = a mishap (Poisonous, Leeches, Sprained Ankle, Torn Clothes, Savage/Persistent Animal). Terrain mods (+1 Forest/Marshland; −1 Plains/Dark Forest/Quagmire; −2 Mountains/Ruins) and season mods (+1 Spring/Autumn; −2 Winter, for food). FL `08-journeys.md:307-352`.
 - **HUNT** (stop; Survival find + Marksman/Survival kill): small game (1 Quarter) or large (2 Quarters); an animal table (Squirrel→Deer/Boar) with difficulty, meat, and pelts; failure = mishap (Sprained Ankle, Lost gear, Trap, Savage Animal, Sick Prey). Weather/season/terrain mods **stack** (e.g., autumn-rain-forest = +1; spring-downpour-mountains = −5, "almost certainly a failure, which is the point — nobody hunts in a spring mountain storm"). FL `08-journeys.md:354-413`. **Spoilage** ties food to weather: raw MEAT/FISH spoils within the Quarter Day at HEAT 3+, one day normal, D3 days at HEAT 0 or below; a Chef roll during MAKE CAMP extends it a day. FL `08:386`.
 - **FISH** (needs water hex; Survival): X = ⚔ FISH caught; failure = mishap (Snagged Hook, Hook in Finger, Broken Gear, Mosquito Swarm, Splash!, Attacked). FL `08-journeys.md:414-430`.
 
-The food layer is wired into the **recovery economy** too: during a short break you restore Strength by rolling the *food* resource die, Agility by *water*, etc. — so food is not just "don't starve," it is *the currency of healing on the road*. FL `08-journeys.md:555-573`. Herbs (forage variant for Herbalists) feed the potions/poisons subsystem. FL `03-gamemaster-tools.md:424-427`.
+The food layer is wired into the **recovery economy** too: during a short break you restore Strength by rolling the *food* resource die, Agility by *water*, etc. — so food is not just "don't starve," it is *the currency of healing on the road*. FL `08-journeys.md:555-573`. Herbs (forage variant for Herbalists) feed the potions/poisons rule set. FL `03-gamemaster-tools.md:424-427`.
 
-**West — food as profession + survival reference.** West's food layer is lighter in the *core travel* rules (no daily Resource Die checklist in the travel section) but far deeper as **setting**: an entire chapter on the **Hunt as professions** — buffalo hide hunter (the "stand," the Sharps, the skinners, the economics), market hunter, wolfer (strychnine bait), sporting guide, contract hunter, trapper. West `11-frontier-survival-and-hunt.md:191-470`. Trapping is mechanically formalized: lay a trap with a Nature roll; traps have Strength (attack dice), Concealment (HAWKEYE penalty), and method (snare/bear trap/pit); extra ⚔ boost Strength or Concealment. West `06-life-in-the-old-west.md:1347-1377`. Cooking/field-dressing is *procedural reference* (beans, sourdough biscuit, bacon/beef, coffee; field-dressing a deer, butchering a beef). West `15:140-145, 207-211`.
+**West — food as profession + survival reference.** West's food layer is lighter in the *core travel* rules (no daily Resource Die checklist in the travel section) but far deeper as **setting**: an entire chapter on the **Hunt as professions** — buffalo hide hunter (the "stand," the Sharps, the skinners, the economics), market hunter, wolfer (strychnine bait), sporting guide, contract hunter, trapper. West `11-frontier-survival-and-hunt.md:191-470`. Trapping has a full procedure: lay a trap with a Nature roll; traps have Strength (attack dice), Concealment (HAWKEYE penalty), and method (snare/bear trap/pit); extra ⚔ boost Strength or Concealment. West `06-life-in-the-old-west.md:1347-1377`. Cooking/field-dressing is *procedural reference* (beans, sourdough biscuit, bacon/beef, coffee; field-dressing a deer, butchering a beef). West `15:140-145, 207-211`.
 
-**Generic abstraction — "the food layer":** A supply subsystem where **food/water are consumed daily and replenished by travel activities gated by Survival/Nature rolls, modified by terrain and season, with spoilage tying perishables to weather.** Two calibrations:
-- **Resource-die + activity-roll** (FL): food/water are dice you roll down daily and restore via FORAGE/HUNT/FISH; spoilage + the recovery tie-in make food *the healing currency*. Tight, mechanical, attritional.
-- **Profession + trap/procedure** (West): hunting is a *vocation* with gear, economics, and consequence; trapping is a roll-built trap subsystem; cooking/processing is procedural reference. Color-rich, drama-driven.
+**Abstract pattern — "the food layer":** A supply rule set where **food/water are consumed daily and replenished by travel activities gated by Survival/Nature rolls, modified by terrain and season, with spoilage tying perishables to weather.** Two calibrations:
+- **Resource-die + activity-roll** (FL): food/water are dice you roll down daily and restore via FORAGE/HUNT/FISH; spoilage + the recovery tie-in make food *the healing currency*. Tight, rules-forward, attritional.
+- **Profession + trap/procedure** (West): hunting is a *vocation* with gear, economics, and consequence; trapping is a roll-built trap rule set; cooking/processing is procedural reference. Color-rich, drama-driven.
 
-**Design knobs:** (1) **food tracking** — Resource Die (FL) vs scene-level scarcity (West) vs none; (2) **season/terrain modifiers** on the supply roll (both have these — General); (3) **spoilage tied to weather** (FL) — Optional depth; (4) **food-as-healing-currency** (FL's short-break restore) — a strong dial that makes supply *load-bearing* for survival. **Layer:** a daily-consumption pressure is **General**; the FORAGE/HUNT/FISH activity trio is **General** (the menu needs a supply row); season/terrain modifiers = **General**; the Resource-Die economy and spoilage = **Optional**.
+**Design knobs:** (1) **food tracking** — Resource Die (FL) vs scene-level scarcity (West) vs none; (2) **season/terrain modifiers** on the supply roll (both have these — General); (3) **spoilage tied to weather** (FL) — Optional depth; (4) **food-as-healing-currency** (FL's short-break restore) — a strong choice that makes supply *load-bearing* for survival. **Layer:** a daily-consumption pressure is **General**; the FORAGE/HUNT/FISH activity trio is **General** (the menu needs a supply row); season/terrain modifiers = **General**; the Resource-Die economy and spoilage = **Optional**.
 
 ## 9. Making camp, watch, and the failed-camp liability
 
@@ -216,9 +216,9 @@ The food layer is wired into the **recovery economy** too: during a short break 
 
 **West — Making Camp as a single Nature roll with a pursuit-evasion use.** To find a sheltered, safe, hidden camp takes a **Nature roll** (can be a Group roll with help). Extra ⚔ beyond the first give **−1 to pursuers' HAWKEYE** to find the camp — but **a fire (for warmth/cooking) gives pursuers +3 to HAWKEYE**, a sharp trade-off. Failure means anyone relying on the camp for rest suffers: no sleep → **Exhausted**, or too cold → **Freezing**, or both (GM's call). West `06-life-in-the-old-west.md:1277-1281`. Watch is procedural: night herders ride two-hour watches, singing to keep stock calm, listening for the wrong sound. West `15:152-155`.
 
-**Generic abstraction — "the camp procedure":** The recovery point of the day, gated by a Survival/Nature roll, with a **success ladder** (basic camp → bonus recovery/concealment/improvements) and a **failure cost** (bad camp = lost recovery or hidden liability). Three shared elements: (1) camp as the *healing gate* — you recover here, not on the march; (2) camp as *concealment* — a good camp hides you; a fire exposes you (West's +3 HAWKEYE, FL's enemy-Scouting-vs-camp-⚔); (3) camp as *watch obligation* — someone must trade sleep for security.
+**Abstract pattern — "the camp procedure":** The recovery point of the day, gated by a Survival/Nature roll, with a **success ladder** (basic camp → bonus recovery/concealment/improvements) and a **failure cost** (bad camp = lost recovery or hidden liability). Three shared elements: (1) camp as the *healing gate* — you recover here, not on the march; (2) camp as *concealment* — a good camp hides you; a fire exposes you (West's +3 HAWKEYE, FL's enemy-Scouting-vs-camp-⚔); (3) camp as *watch obligation* — someone must trade sleep for security.
 
-**Design knobs:** (1) **failure model** — FL's hidden-liability table (mechanical, produces bad-camp *flaws*) vs West's condition-on-fail (Exhausted/Freezing) vs a simple "no recovery"; (2) **camp improvements** (FL's pick-list) — Optional depth that rewards a high roll; (3) **fire-vs-concealment trade-off** — both encode it (General for stealth-heavy games). **Layer:** a camp-as-recovery-gate roll is **General**; the improvement pick-list and the hidden-liability table are **Optional** (depth dials).
+**Design knobs:** (1) **failure model** — FL's hidden-liability table (rules-forward, produces bad-camp *flaws*) vs West's condition-on-fail (Exhausted/Freezing) vs a simple "no recovery"; (2) **camp improvements** (FL's pick-list) — Optional depth that rewards a high roll; (3) **fire-vs-concealment trade-off** — both encode it (General for stealth-heavy games). **Layer:** a camp-as-recovery-gate roll is **General**; the improvement pick-list and the hidden-liability table are **Optional** (depth choices).
 
 ## 10. Rest, sleep, recovery shifts, and downtime
 
@@ -228,7 +228,7 @@ The food layer is wired into the **recovery economy** too: during a short break 
 
 **West — rest and the downtime rhythm.** West's rest is lighter in the core travel rules (Making Camp failure → Exhausted/Freezing; a decent camp enables a night's rest), and its downtime weight sits in **procedural reference** (the order of camp work: fire, beans/biscuit/bacon/coffee, pitching/striking camp, picketing, watch) and in the **competence** framing — a working hand *does* these things every day, and the procedure is the texture. West `15:126-160`. Hunting-as-profession (Chapter 11) functions as a downtime/economic activity: the hide hunter's season, the market hunter's weekly take, the trapper's line — these are *campaign-scale* downtime with economics rather than per-block rolls. West `11:199-308, 393-453`.
 
-**Generic abstraction — "recovery + downtime":** Two layers:
+**Abstract pattern — "recovery + downtime":** Two layers:
 - **Recovery (per block):** REST/SLEEP as the healing gate; the **currency of recovery** is the design choice — FL makes it *supply* (food/water restore attributes via resource dice), West makes it *conditions/competence* (a good camp clears Exhausted/Freezing). The over-exertion valve (§6) and the recovery loop are mirror images: pushing costs body; resting + supply restores it.
 - **Downtime (per settlement/season):** a *second* activity-menu architecture for "not on the road" — info, work, trade, craft, carouse, train, petition. FL formalizes this as a Quarter-Day menu identical in structure to the travel menu; West leans on profession/economics and procedure.
 
@@ -240,14 +240,14 @@ The food layer is wired into the **recovery economy** too: during a short break 
 
 | Decision | FL option | West option | Trade-off | When to choose |
 | --- | --- | --- | --- | --- |
-| **Spatial model** (central dial) | Hex-crawl (10 km tiles, per-tile navigation + mishaps) | Pointcrawl (miles/Shift between points, rush roll) | Exploration depth vs prep/speed | Hex for sandbox exploration & fog-of-war; pointcrawl for trail/pursuit drama & fast pacing |
+| **Spatial model** (central choice) | Hex-crawl (10 km tiles, per-tile navigation + mishaps) | Pointcrawl (miles/Shift between points, rush roll) | Exploration depth vs prep/speed | Hex for sandbox exploration & fog-of-war; pointcrawl for trail/pursuit drama & fast pacing |
 | **Time block** | 4 Quarter Days (Morning/Day/Evening/Night) + daily checklist | Shift (count loose) | Structured attritional day vs flexible block | Quarter Day when the *day* should feel like a series of costs; Shift for lighter pacing |
 | **Activity-menu formality** | 14-row formal menu, solo/shared tagged | ~6–8 implicit jobs + mounted/animal labor | Tight labor puzzle vs genre-textured jobs | Formal menu when travel is the game; implicit when travel is connective tissue |
 | **Navigation cost** | Survival roll **per hex entered**; fail = mishap table | One rush roll/block; Trouble halts progress | Mechanical per-tile tax vs narrative per-block tax | Per-tile for exploration; per-block for drama |
 | **Over-exertion valve** | Forced march: Endurance, Agility damage + SLEEPY | Rush: MOVE/Animal Handlin', +50% or Trouble halt | Body-tax vs progress-tax | Match the harm model (FL body, West Trouble) |
 | **Weather system** | Morning D6 table (Wind/Rain/Temp) + HEAT/TEMP expanded + clothes/gear | Regional-killer reference + Trouble/condition triggers | Mechanical grind vs dramatic scenes | Table for attritional survival; reference for dramatic, GM-discretion weather |
 | **Felt-vs-actual temperature** | HEAT/TEMP split + seasonal base + clothes/sleeping-gear modifiers | Implicit (heat/cold → Freezing/Heatstroke) | Realism + bookkeeping vs simplicity | HEAT/TEMP only for survival-focused games; omit otherwise |
-| **Food tracking** | Resource Dice, daily roll-down, spoilage-by-HEAT | Scene-level scarcity + profession/trap subsystem | Mechanical attrition vs color + mechanics | Resource Die when supply is load-bearing; profession when the hunt is the story |
+| **Food tracking** | Resource Dice, daily roll-down, spoilage-by-HEAT | Scene-level scarcity + profession/trap rule set | Mechanical attrition vs color + rules | Resource Die when supply is load-bearing; profession when the hunt is the story |
 | **Food-as-healing-currency** | Yes — short break restores attributes via food/water/etc. | No (recovery via camp clearing conditions) | Supply = survival vs supply = flavor | Wire food to healing for hard-survival games |
 | **Camp failure model** | Hidden Failed-Camp-Liability table (flaws) + Trouble at Camp | Condition on fail (Exhausted/Freezing) | Mechanical flaws vs condition tax | Liability table for rich camp play; condition for speed |
 | **Camp improvements** | Pick-list (Banked Fire, Dry Shelter, Watch Post…) | (none formal) | Rewards high roll / adds prep | Include for survival-craft depth; omit for lean play |
@@ -256,11 +256,11 @@ The food layer is wired into the **recovery economy** too: during a short break 
 | **Field pursuit** | journey mishaps and scouting encounters | chases, manhunts, tracking, camps as clues | exploration pressure vs pursuit drama | Use the 5-step gap loop for bounty, monster, heist, cavalry, and hunt games |
 | **Trap depth** | journey mishaps / site hazards | built traps with Strength, Concealment, trigger | environmental surprise vs player-authored hazard | Include when hunting, frontier survival, dungeon security, or ambush play matters |
 | **Downtime architecture** | Formal settlement menu (Ask/Work/Petition/Trade/Carouse/Heal/Train) + notice board + Reputation | Profession/economics + procedural reference | Quarter-Day downtime economy vs job-as-campaign | Formal menu when settlement play matters; profession when the job is the campaign |
-| **Mishap model** | Extensive D6/D66 mishap tables per activity | Trouble system (narrative) | Mechanical tax vs narrative tax | Mishap tables for granularity; Trouble for speed (consistent with `00-engine-core.md` §6) |
+| **Mishap model** | Extensive D6/D66 mishap tables per activity | Trouble system (narrative) | Dice tax vs story tax | Mishap tables for granularity; Trouble for speed (consistent with `00-engine-core.md` §6) |
 
-## 12. Dials and instantiation recipe
+## 12. Rule Choices and Build Recipe
 
-Each dial has FL and West as two calibrated points. To build a new game's journey engine, set each dial.
+Each choice has FL and West as two calibrated points. To build a new game's journey engine, set each choice.
 
 1. **Spatial model** — hex-crawl / pointcrawl / hybrid (named points on a hex map). *(Sets exploration depth vs pacing. The single most consequential travel decision.)*
 2. **Time block** — Quarter-day (4/day + checklist) / Shift (loose) / watch. *(Sets how granular the attritional day feels.)*
@@ -282,15 +282,15 @@ Each dial has FL and West as two calibrated points. To build a new game's journe
 18. **Mishap model** — D6/D66 mishap tables per activity / Trouble system / hybrid. *(Mechanical vs narrative failure tax — keep consistent with the core loop's push-cost model, `00-engine-core.md` §6.)*
 
 **Instantiation recipe (any genre):**
-1. **Pick the spatial model (dial 1)** — this single choice does more to set the feel of travel than any other. Hex-crawl = exploration is the game; pointcrawl = traversal is connective tissue.
-2. **Set the time block (dial 2) and build the activity menu (dials 3–4)** — the menu is the load-bearing structure; define movement, navigation, security, supply, and recovery jobs, and tag which are solo. Ensure movement, navigation, watch, and forage are *mutually exclusive* so the party is always short of hands.
-3. **Choose the over-exertion valve (dial 6)** consistent with the core loop's cost model — body-tax (FL-style) pairs with bane-self-harm; progress-tax/Trouble (West-style) pairs with currency-spend. (`00-engine-core.md` §6.)
-4. **Set weather depth (dials 7–8)** to your survival emphasis — full weather table + HEAT/TEMP for hard-survival; reference + Trouble for dramatic.
-5. **Decide food tracking (dials 9–10)** — if survival is the genre, wire food to healing (FL); otherwise keep supply as scene pressure.
+1. **Pick the spatial model (choice 1)** — this single choice does more to set the feel of travel than any other. Hex-crawl = exploration is the game; pointcrawl = traversal is connective tissue.
+2. **Set the time block (choice 2) and build the activity menu (choices 3–4)** — the menu is the load-bearing structure; define movement, navigation, security, supply, and recovery jobs, and tag which are solo. Ensure movement, navigation, watch, and forage are *mutually exclusive* so the party is always short of hands.
+3. **Choose the over-exertion valve (choice 6)** consistent with the core loop's cost model — body-tax (FL-style) pairs with bane-self-harm; progress-tax/Trouble (West-style) pairs with currency-spend. (`00-engine-core.md` §6.)
+4. **Set weather depth (choices 7–8)** to your survival emphasis — full weather table + HEAT/TEMP for hard-survival; reference + Trouble for dramatic.
+5. **Decide food tracking (choices 9–10)** — if survival is the genre, wire food to healing (FL); otherwise keep supply as scene pressure.
 6. **Set mount and field-pursuit depth** — transport-only for ordinary travel games; participant-depth plus the 5-step gap loop when riding, bounty work, monster hunting, or manhunts are genre pillars.
 7. **Decide trap depth** — site hazard only, or player-authored trap procedure with Strength/Concealment/Trigger.
-8. **Set camp (dials 11–13)** and the **downtime architecture (dial 17)** — a downtime menu mirroring the travel menu turns settlements into a parallel economy.
-9. **Keep the mishap model (dial 18) consistent** with the failure-pressure layer of the core loop.
+8. **Set camp (choices 11–13)** and the **downtime architecture (choice 17)** — a downtime menu mirroring the travel menu turns settlements into a parallel economy.
+9. **Keep the mishap model (choice 18) consistent** with the failure-pressure layer of the core loop.
 10. **Validate** the labor puzzle: in a typical block, can a 3–4 PC party move, navigate, watch, *and* forage? If yes, the menu is too generous; tighten the solo tags or the stacks-with-HIKE list.
 
 ## 13. Design intent
@@ -300,6 +300,6 @@ The journey engine exists to make **logistics a form of play.** Specifically:
 - **The activity menu distributes the party's labor** so that *every PC has a travel job* and the party is perpetually short of hands. Because movement, navigation, watch, and supply are mutually exclusive demands, "do we push on or stop to forage?" is not flavor — it is a resource-allocation decision made every block. This is the most transferable artifact: a fixed menu of jobs, one per PC per block, balanced so the party can never do everything at once.
 - **The over-exertion valve + the recovery loop are mirror images** — pushing on costs body/beasts/time, and resting restores it (in FL, *via the supply you foraged*). This is what keeps travel from being a death spiral: you can always trade distance for recovery, and recovery is gated by supply, which is gated by the forage/hunt activities you sacrificed movement to take.
 - **Weather + food turn movement into attrition**, which makes "do we push on or camp" a real decision rather than narration. The environment, not just enemies, is a source of pressure — FL by a morning table that taxes every activity; West by rendering the country as an indifferent antagonist whose weather kills.
-- **The spatial model is the central dial** because it determines *what travel is about*: in a hex-crawl, travel is the *discovery of unknown space* (the map is treasure); in a pointcrawl, travel is the *traversal of a known route under attrition* (the points are the story). Same spine, opposite feel — the engine's proof, again, that **the same loop produces opposite tones by swapping one dial.** FL's hex-crawl makes a game where *the wilderness itself* is the dungeon; West's pointcrawl makes a game where *the distance between waters* is the antagonist.
+- **The spatial model is the central choice** because it determines *what travel is about*: in a hex-crawl, travel is the *discovery of unknown space* (the map is treasure); in a pointcrawl, travel is the *traversal of a known route under attrition* (the points are the story). Same spine, opposite feel — the engine's proof, again, that **the same loop produces opposite tones by swapping one choice.** FL's hex-crawl makes a game where *the wilderness itself* is the dungeon; West's pointcrawl makes a game where *the distance between waters* is the antagonist.
 - **Don't roll for trivial travel** (both books, by structure): the engine only earns its attrition when the journey has stakes — when cold, hunger, pursuit, or the unknown make each block matter. A journey with no pressure should be summarized, not crawled, or the activity menu and weather table flood the session with bookkeeping without drama.
 - **The downtime menu mirrors the travel menu** — settlements get their own pick-one-activity-per-block architecture (info, work, trade, craft, carouse, train, petition), so "not on the road" is still structured play, not a cut-scene. This parallel is what lets a campaign breathe between expeditions without losing the engine's rhythm.

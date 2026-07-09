@@ -6,7 +6,7 @@
 
 ## 1. Origin
 
-- **Source primitives:** P3, P6, P14, P15.
+- **Source patterns:** P3, P6, P14, P15.
 - **Operators:** Domain Transfer + Fusion.
 - **Target psychology:** progress with uncertainty.
 - **Problem solved:** mysteries need failed rolls to complicate truth, not halt play.
@@ -143,9 +143,9 @@ For each Revelation, write one from each row.
 
 Question -> Lead -> inference -> pressure/clarity -> new question.
 
-## 4. Dials
+## 4. Choices
 
-| Dial | Procedural | Conspiracy | Psychology |
+| Choice | Procedural | Conspiracy | Psychology |
 | --- | --- | --- | --- |
 | Revelations | linear | webbed | casework vs paranoia |
 | Failure | time cost | hostile move | investigation vs thriller |
@@ -155,7 +155,7 @@ Question -> Lead -> inference -> pressure/clarity -> new question.
 
 Extends `05-investigation-and-clue-economy.md`; pairs with Heat, Faction Web, Reputation, and Projects.
 
-## 6. Interface
+## 6. Handshake
 
 - **Prerequisites:** inquiry rolls or clue economy.
 - **Inputs:** revelations, lead types, pressure trigger.
@@ -168,7 +168,7 @@ Extends `05-investigation-and-clue-economy.md`; pairs with Heat, Faction Web, Re
 
 Hard clue gates stall play. Too many red herrings make players stop trusting the game. Every false lead should teach something or reveal pressure.
 
-## 8. Validation notes
+## 8. Check notes
 
 Use `24 §3` and `§7`. Mandatory progress must survive failed rolls.
 

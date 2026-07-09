@@ -1,46 +1,46 @@
 <!-- markdownlint-disable MD013 MD024 -->
 
-# Dual-Use Matrix — One Mechanism, Many Psychologies
+# Dual-Use Matrix — One Pattern, Many Psychologies
 
-> This is the **calibration** layer of the generative method. `16` gave the palette of primitives; this file shows that each primitive *changes what the game is about* depending on how its dials are set — proven empirically by FL and West, which are the same engine producing opposite tones. Read this when you need to choose *what a mechanism should feel like*, not just *which mechanism to use*.
+> This is the **calibration** layer of the generative method. `16` gave the palette of patterns; this file shows that each pattern *changes what the game is about* depending on how its choices are set — proven empirically by FL and West, which are the same engine producing opposite tones. Read this when you need to choose *what a rule pattern should feel like*, not just *which pattern to use*.
 
 ## Contents
 
 1. Source provenance
 2. Abstraction target
 3. What "dual-use" means here
-4. The matrix (primitive × calibration × psychology)
-5. Case studies — five mechanisms, opposite psychologies
+4. The matrix (pattern × calibration × psychology)
+5. Case studies — five patterns, opposite psychologies
 6. The calibration principles
 7. Design intent
 
 ## Source provenance
 
-This file is the **direct intellectual consequence** of `12-divergence-map.md`. The Divergence Map proved that FL and West are the same spine with five dials turned to opposite ends — which *is* the dual-use finding. This file extracts the method behind that finding: *how* to set a primitive's dials to produce a target psychology.
+This file is the **direct intellectual consequence** of `12-divergence-map.md`. The Divergence Map proved that FL and West are the same spine with five choices turned to opposite ends — which *is* the dual-use finding. This file extracts the method behind that finding: *how* to set a pattern's choices to produce a target psychology.
 
-Every claim below is grounded in the calibrated points FL and West already provide. The "psychology" column is the new contribution — naming *what the mechanism feels like* at each calibration, so a designer can choose a tone deliberately rather than discovering it by accident.
+Every claim below is grounded in the calibrated points FL and West already provide. The "psychology" column is the new contribution — naming *what the pattern feels like* at each calibration, so a designer can choose a tone deliberately rather than discovering it by accident.
 
 ## Abstraction target
 
-The design-dials layer says: "set dial 1 (push-cost model) and the tone follows." This file makes that claim *actionable and exhaustive* across the primitives. The deliverable is a **matrix** showing, for each load-bearing primitive, the different psychologies it produces at different calibrations — with FL and West as two proven points and the genre-guidance for hitting each psychology in a new game.
+The design-choices layer says: "set choice 1 (push-cost model) and the tone follows." This file makes that claim *actionable and exhaustive* across the patterns. The deliverable is a **matrix** showing, for each load-bearing pattern, the different psychologies it produces at different calibrations — with FL and West as two proven points and the genre-guidance for hitting each psychology in a new game.
 
-**The core claim:** *there are no "good" or "bad" calibrations of a primitive — only calibrations that produce the psychology you want and calibrations that don't.* A mechanism that produces "aggression" in one game produces "caution" in another, *with the mechanism unchanged.* Genius-level design is knowing which calibration produces which psychology, and choosing deliberately.
+**The core claim:** *there are no "good" or "bad" calibrations of a pattern — only calibrations that produce the psychology you want and calibrations that don't.* A pattern that produces "aggression" in one game produces "caution" in another, *with the rule pattern unchanged.* Genius-level design is knowing which calibration produces which psychology, and choosing deliberately.
 
 ## 3. What "dual-use" means here
 
-**Dual-use** = the same primitive, at different parameter settings, serves *opposite* design purposes or produces *opposite* player psychologies. This is not abstraction-for-its-own-scope; it is the engine's most powerful design move, and the two source games are a worked example of it:
+**Dual-use** = the same pattern, at different choice settings, serves *opposite* design purposes or produces *opposite* player psychologies. This is not abstraction-for-its-own-scope; it is the engine's most powerful design move, and the two source games are a worked example of it:
 
-- FL and West run the **same core loop** (D6 pool, push-once, metacurrency). FL feels *gritty and attritional*; West feels *dramatic and character-driven*. The difference is *one dial* (push-cost model: harm vs currency), not a different engine.
+- FL and West run the **same core loop** (D6 pool, push-once, Willpower/Faith). FL feels *gritty and attritional*; West feels *dramatic and character-driven*. The difference is *one choice* (push-cost model: harm vs currency), not a different engine.
 - The **same D66 table architecture** (P4) produces "specific memorable harm" (FL crit families) *or* "punchy location-based results" (West master table) *or* "magical backlash spirals" (FL mishap families) *or* "faction events" — depending on what you put in the cells and how many families you build.
 - The **same activity menu** (P6) produces "survival labor puzzle" (FL travel) *or* "heist crew coordination" (reinvention) *or* "starship bridge actions" (reinvention).
 
 The matrix below names the **psychology** each calibration produces, so a designer can target a feel.
 
-## 4. The matrix (primitive × calibration × psychology)
+## 4. The matrix (pattern × calibration × psychology)
 
-For each primitive (from `16`), the FL calibration, the West calibration, the psychology each produces, and the genre guidance.
+For each pattern (from `16`), the FL calibration, the West calibration, the psychology each produces, and the genre guidance.
 
-### M1 — Metacurrency refuel (P2)
+### M1 — Willpower/Faith refuel (P2)
 
 | Calibration | Refuel trigger | Psychology produced | Genre fit | Source |
 | --- | --- | --- | --- | --- |
@@ -49,7 +49,7 @@ For each primitive (from `16`), the FL calibration, the West calibration, the ps
 | **Action/ritual-earned** (West) | Faith from rituals, relationships, Big Dream actions | **Drama loop / investment.** Fuel comes from *being the character* — praying, avenging, resting with a lover. Players pursue story beats because the story pays out. | Character-driven, dramatic, relational | West Faith |
 | **Hybrid** | Two triggers | **Balanced.** Pain and drama both fuel; neither dominates. | Default for new games | (recommended) |
 
-**The dual-use insight:** "a metacurrency refueled by X" produces a game *about X.* Harm-refuel makes a game about damage; success-refuel makes a game about skill; action-refuel makes a game about character. Choose the refuel trigger to choose the game's *subject.* `00 §7`.
+**The dual-use insight:** "a Willpower/Faith refueled by X" produces a game *about X.* Harm-refuel makes a game about damage; success-refuel makes a game about skill; action-refuel makes a game about character. Choose the refuel trigger to choose the game's *subject.* `00 §7`.
 
 ### M2 — Push cost (P1)
 
@@ -60,7 +60,7 @@ For each primitive (from `16`), the FL calibration, the West calibration, the ps
 | **Narrative (Trouble)** (West, layered) | Trouble on Risky/Desperate fails | **Consequentialist / fictional.** Pushing makes the *story* worse, not the body. | Narrative, scandal, investigation |
 | **Hybrid** | Currency + light harm/Trouble | **Visible-cost-without-mandatory-injury.** Pushing always costs *something,* rarely cripples. | Default for new games |
 
-**The dual-use insight:** the cost type *is* the genre's currency. FL's body-as-currency and West's belief-as-currency are the same mechanism expressing opposite theses about what matters. A new genre's job is to name its currency. `00 §6`.
+**The dual-use insight:** the cost type *is* the genre's currency. FL's body-as-currency and West's belief-as-currency are the same pattern expressing opposite theses about what matters. A new genre's job is to name its currency. `00 §6`.
 
 ### M3 — Typed consequence table (P4)
 
@@ -71,7 +71,7 @@ For each primitive (from `16`), the FL calibration, the West calibration, the ps
 | **Per-discipline families** (FL mishaps) | 17 families, one per magic discipline | **Source-specific / flavorful.** Magic feels dangerous and *specific* — a Healing mishap is septic, a Stone Song mishap is geological. | High fantasy, kitchen-sink magic |
 | **Count-modified gradient** (FL) | D66 roll shifts ±10 per 💀 | **Escalating doom.** More banes doesn't mean more damage — it means *sliding toward character-ending rows.* | Horror, grimdark |
 
-**The dual-use insight:** *the number of tables is the depth of genre flavor.* One table = "harm is harm." Many tables = "the *type* of harm is the story." Same architecture, opposite payload. A designer chooses the family count to set how much the *kind* of failure matters. `04 §5`, `05 §7`.
+**The dual-use insight:** *the number of tables is the depth of genre flavor.* One table = "harm is harm." Many tables = "the *type* of harm is the story." Same architecture, opposite effect. A designer chooses the family count to set how much the *kind* of failure matters. `04 §5`, `05 §7`.
 
 ### M4 — Activity menu breadth (P6)
 
@@ -84,7 +84,7 @@ For each primitive (from `16`), the FL calibration, the West calibration, the ps
 
 **The dual-use insight:** the activity menu's *content* sets what the game is *about doing together.* FL's menu makes the game about surviving a landscape; a heist menu makes it about executing a plan; a bridge menu makes it about running a ship. Same pattern, opposite subject. `06 §5`.
 
-### M5 — Org ladder ceiling (P9, the meta-dial)
+### M5 — Org ladder ceiling (P9, the meta-choice)
 
 | Calibration | Ceiling | Psychology produced | Genre fit |
 | --- | --- | --- | --- |
@@ -104,7 +104,7 @@ For each primitive (from `16`), the FL calibration, the West calibration, the ps
 
 **The dual-use insight:** who sets the difficulty (GM vs roll vs player) sets *who authors the fiction.* Threshold = GM-authored world; Grade = roll-authored fiction; Declared Effort = player-authored ambition. Same dice, different authority. `00 §4`.
 
-### M7 — Protected dial (P10)
+### M7 — Inner fire (P10)
 
 | Calibration | Form + scope | Psychology produced | Genre fit |
 | --- | --- | --- | --- |
@@ -121,26 +121,26 @@ For each primitive (from `16`), the FL calibration, the West calibration, the ps
 | **Mechanical simulationism** (FL) | Hex-crawl; D66 weather; Resource-die food; typed crit families; vicissitude tables | **Deterministic / systemic.** The world simulates itself; the dice are the world. | Sandbox, survival, wargame-adjacent |
 | **Narrative dramatism** (West) | Pointcrawl; prose weather-killers; profession-based hunting; Trouble halts; Fortune rolls | **Scenic / authorial.** The GM dramatizes the world; the dice dramatize the scene. | Narrative, dramatic, episodic |
 
-**The dual-use insight:** this is degree-of-freedom 3 from `12 §12`. *Does the world simulate itself, or does the GM dramatize it?* Same pressures, opposite expression. A genre picks its register to set how much *machinery* sits between player and fiction.
+**The dual-use insight:** this is choice axis 3 from `12 §12`. *Does the world simulate itself, or does the GM dramatize it?* Same pressures, opposite expression. A genre picks its register to set how much *machinery* sits between player and fiction.
 
-## 5. Case studies — five mechanisms, opposite psychologies
+## 5. Case studies — five patterns, opposite psychologies
 
-These are the cleanest examples of dual-use in the engine. Each shows *one mechanism, two calibrations, two opposite psychologies, both proven.*
+These are the cleanest examples of dual-use in the engine. Each shows *one rule pattern, two calibrations, two opposite psychologies, both proven.*
 
 ### Case 1 — The push, in two registers
 
-**Same mechanism:** reroll non-successes once.
+**Same pattern:** reroll non-successes once.
 - **FL:** the reroll is free; you pay in 💀 already on the dice → *the body is the stakes; aggression is rational.*
 - **West:** the reroll costs 1 Faith → *belief is the stakes; budgeting is the skill.*
 **Both are "the push."** Neither is the "real" version. The choice of cost type *is* the choice of genre.
 
-### Case 2 — The D66 table, in three payloads
+### Case 2 — The D66 table, in three fallout styles
 
 **Same architecture:** D66, Tens/Units, `65`/`66` climax.
 - **West crits:** one anatomical table → *where you got hit is the story.*
 - **FL crits:** 8 typed families → *what kind of wound is the story.*
 - **FL mishaps:** 17 per-discipline families → *what went wrong with your magic is the story.*
-**Same table.** The payload (one vs many families) sets whether the *type* of consequence matters.
+**Same table.** The effect (one vs many families) sets whether the *type* of consequence matters.
 
 ### Case 3 — The activity menu, in two subjects
 
@@ -156,7 +156,7 @@ These are the cleanest examples of dual-use in the engine. Each shows *one mecha
 - **West, capped:** the org is a saloon or town → *the campaign is about building a life.*
 **Same lifecycle.** The ceiling sets the campaign's scope and subject.
 
-### Case 5 — The metacurrency, refueled three ways
+### Case 5 — The Willpower/Faith, refueled three ways
 
 **Same pool:** cap 10, spends on agency.
 - **Harm-refuel (FL):** pain stocks your comeback → *aggression.*
@@ -184,14 +184,14 @@ One consequence table = "harm is harm." Many typed tables = "the *kind* of harm 
 
 How high the org ladder climbs determines whether the campaign is about individuals, communities, or power. A cap is a focus statement, not a limitation. (`M5`.)
 
-### Meta-principle — Every primitive is a dial, not a verdict.
+### Meta-principle — Every pattern is a choice, not a verdict.
 
-There are no "right" calibrations. FL and West prove that opposite calibrations of the same primitive both produce excellent games. The designer's job is *not* to find the correct setting; it is to *choose deliberately* the psychology each primitive produces, and to ensure the choices are *consistent* (the consistency rules are the subject of `18`).
+There are no "right" calibrations. FL and West prove that opposite calibrations of the same pattern both produce excellent games. The designer's job is *not* to find the correct setting; it is to *choose deliberately* the psychology each pattern produces, and to ensure the choices are *consistent* (the consistency rules are the subject of `18`).
 
 ## 7. Design intent
 
-This file exists because the engine systems documented the dials but did not name what they *do to the player.* A designer reading `00 §11` learns that "push-cost model" is a dial with two points — but not that those two points produce *opposite psychologies* (aggression vs caution), or that the choice *is* the choice of genre.
+This file exists because the engine systems documented the choices but did not name what they *do to the player.* A designer reading `00 §11` learns that "push-cost model" is a choice with two points — but not that those two points produce *opposite psychologies* (aggression vs caution), or that the choice *is* the choice of genre.
 
-The dual-use matrix makes the engine's most important property — *that the same mechanism produces opposite games at opposite calibrations* — into a *lookup table* rather than an insight you have to rediscover each time. With this file, a designer who wants "a game about the cost of ambition" can scan M1–M2 and see exactly which refuel and cost calibrations produce it, with FL or West as proof it works.
+The dual-use matrix makes the engine's most important property — *that the same pattern produces opposite games at opposite calibrations* — into a *lookup table* rather than an insight you have to rediscover each time. With this file, a designer who wants "a game about the cost of ambition" can scan M1–M2 and see exactly which refuel and cost calibrations produce it, with FL or West as proof it works.
 
-This is the **second** of the three generative layers. `16` gave the palette; this file gives the calibration map. `18` teaches the final move: *composition* — taking primitives from their home systems and re-purposing them in foreign systems to invent genuinely new mechanics, which is what "genius-level designer, reproducible" ultimately means.
+This is the **second** of the three generative layers. `16` gave the palette; this file gives the calibration map. `18` teaches the final move: *composition* — taking patterns from their home systems and re-purposing them in foreign systems to invent genuinely new rules, which is what "genius-level designer, reproducible" ultimately means.

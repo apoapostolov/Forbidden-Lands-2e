@@ -9,22 +9,22 @@
 1. Origin — how this was built
 2. The generic design space
 3. The pressure loop
-4. Dials
+4. Choices
 5. Integration points
 6. Failure modes & edge cases
-7. Validation notes
+7. Check notes
 8. Worked genre example — Post-apoc warlords
 
 ## 1. Origin — how this was built
 
-- **Source primitives:** **P14 (encounter engine with memory)** + **P4 (typed D66)** + a domain transfer of **P10 (protected dial, inverted)** for the bond tracks.
+- **Source patterns:** **P14 (encounter engine with memory)** + **P4 (typed D66)** + a domain transfer of **P10 (inner fire, inverted)** for the bond tracks.
 - **Reinvention operator:** **Fusion + Domain Transfer.** Fuse P14 (world-with-memory) with P4 (typed consequence) to model relationship *events*. Domain-transfer P10: a bond between two factions is a track that grows when cultivated and shrinks when stressed — like Pride, but bidirectional and shared.
 - **Target psychology:** **Investment + entanglement** — a web the PCs cannot escape. Every action helps one faction and hurts another; neutrality is a position with costs.
 - **Problem solved:** most RPG faction systems track "standing with Faction X" as an isolated number, producing siloed reputation grind. This module makes the *edges between factions* as tracked as the nodes — so helping A propagates through A's alliances to warm A's allies and chill A's enemies.
 
 ## 2. The generic design space
 
-### 2a. Mechanism overview
+### 2a. Rule overview
 
 A campaign has 3–7 factions. Each pair has a relationship scored on two axes: **Bond** (emotional/practical, −5 to +5) and **Debt** (directional, −3 to +3). The party has a **Standing** (−5 to +5) with each faction. When the party's Standing with A changes, it **propagates** through A's bonds to shift the party's Standing with A's allies and enemies. At each downtime, a D66 **Relationship Event** rolls to shift the graph under the party. Factions owed debts can **call them in** — the web's primary pressure valve.
 
@@ -32,9 +32,9 @@ A campaign has 3–7 factions. Each pair has a relationship scored on two axes: 
 
 - **NEW CONCEPT — Propagation rule:** No core engine system propagates a standing change through a relationship graph. The propagation formula (§2c) makes the party's reputation with each faction a *function of its reputation with that faction's allies and enemies.* *Extends the engine by making reputation relational rather than siloed.*
 - **NEW CONCEPT — Bidirectional Bond track:** Core reputation is a single party→faction vector. A Bond is a *faction↔faction* edge, tracked separately from the party's standing with either. *Extends the engine by adding a second layer of tracked relationship (between NPCs/factions, not just party↔faction).*
-- **NEW CONCEPT — Directional Debt:** Debts are asymmetric (A owes B ≠ B owes A) and *callable* — a creditor can pull a future obligation. *Extends the engine by introducing a deferred-obligation mechanism with a defined call procedure (§2c).*
+- **NEW CONCEPT — Directional Debt:** Debts are asymmetric (A owes B ≠ B owes A) and *callable* — a creditor can pull a future obligation. *Extends the engine by introducing a deferred-obligation rule pattern with a defined call procedure (§2c).*
 
-### 2c. Mechanical reference (tables & procedures)
+### 2c. Rules reference (tables & procedures)
 
 #### The graph
 
@@ -53,15 +53,15 @@ When the party's Standing with Faction A changes by **Δ** (positive or negative
 Worked examples:
 - Party helps A, **Δ = +2**. Faction B has Bond[A,B] = +4 (allies). ΔStanding_party[B] = floor(2 × 4 / 5) = floor(1.6) = **+1**. B warms to the party.
 - Same Δ = +2, but Faction C has Bond[A,C] = −3 (enemies). ΔStanding_party[C] = floor(2 × −3 / 5) = floor(−1.2) = **−1**. C cools to the party.
-- Faction D has Bond[A,D] = +1 (cordial). ΔStanding_party[D] = floor(2 × 1 / 5) = floor(0.4) = **0**. No shift — the bond is too weak to propagate.
+- Faction D has Bond[A,D] = +1 (corchoice). ΔStanding_party[D] = floor(2 × 1 / 5) = floor(0.4) = **0**. No shift — the bond is too weak to propagate.
 
-**Propagation does not cascade:** only the *direct* allies/enemies of A shift. A's allies' *other* allies are not affected (this prevents graph-flip and keeps the math bounded). If using the "full propagation" dial (§4), allow one extra hop at half strength.
+**Propagation does not cascade:** only the *direct* allies/enemies of A shift. A's allies' *other* allies are not affected (this prevents graph-flip and keeps the math bounded). If using the "full propagation" choice (§4), allow one extra hop at half strength.
 
 #### The Relationship Event table (full D66)
 
-At each downtime boundary, roll D66 and apply. Roll twice if the dial is set to "1/session" cadence with a busy campaign.
+At each downtime boundary, roll D66 and apply. Roll twice if the choice is set to "1/session" cadence with a busy campaign.
 
-| D66 | Event | Mechanical effect |
+| D66 | Event | Rule effect |
 | --- | --- | --- |
 | 11 | **Friction.** Two factions with Bond ≥ +2 bicker over a minor issue. | Bond between them −1. |
 | 12 | **Trade dispute.** Two trading partners (Bond ≥ 0) quarrel. | Bond −1; one assumes Debt +1 to the other (unpaid goods). |
@@ -129,7 +129,7 @@ The propagation formula needs inputs: what player actions are worth ±1, ±2, or
 
 #### The faction turn at the table — procedure
 
-Run this at the end of each session (or season, per the event-frequency dial). It takes 5–10 minutes.
+Run this at the end of each session (or season, per the event-frequency choice). It takes 5–10 minutes.
 
 1. **Apply the session's Standing shifts.** Go around the table: name each faction the party affected this session, and the shift (from the trigger table above). Update the Standing tracks. Propagate each shift through the graph (the propagation formula). Tell the players the results — "helping the Coil dropped you with the Banner."
 2. **Step any called debts.** If a faction intends to call a debt next session, set up the fiction now (an envoy arrives, a letter is delivered). Don't spring it cold.
@@ -147,9 +147,9 @@ Run this at the end of each session (or season, per the event-frequency dial). I
 - **State change:** the campaign's political landscape is a living thing the PCs steered.
 - **Loop shape:** **act → propagate → debt/event → realign → act.** Session/season cadence.
 
-## 4. Dials
+## 4. Choices
 
-| Dial | Setting A | Setting B | Psychology |
+| Choice | Setting A | Setting B | Psychology |
 | --- | --- | --- | --- |
 | **Faction count** | 3–4 (manageable) | 6–7 (dense web) | Clear choices vs rich entanglement |
 | **Propagation strength** | Half (formula as written) | Full (×2 before rounding) + 1 extra hop at half | Volatile vs stable |
@@ -167,7 +167,7 @@ Run this at the end of each session (or season, per the event-frequency dial). I
 - **Replaces / extends:** flat Reputation trackers — adds the relational dimension.
 - **Cross-refs:** `07` (org lifecycle, faction turn), `09` (campaign-state trackers), `12` (faction divergence cluster).
 
-## 5a. Interface
+## 5a. Handshake
 
 - **Prerequisites:** three or more factions or power centers.
 - **Inputs:** faction list, Bond scale, Debt scale, Standing scale, event cadence.
@@ -182,12 +182,12 @@ Run this at the end of each session (or season, per the event-frequency dial). I
 - **Propagation cascade.** Full propagation + wide range can flip the graph in a session. **Fix:** half propagation (default); cap single-action Standing shifts at ±2.
 - **The irrelevance trap.** If the party can ignore factions cost-free, the web is scenery. **Fix:** tie something the party *needs* to each faction.
 - **Debt amnesia.** If debts are never called, they're bookkeeping. **Fix:** roll on the event table each session — rows 51–52 force a call; the GM should call at least one debt per session otherwise.
-- **Neutrality dominance.** If neutrality is free and safe, rational players never take sides. **Fix:** the costly-neutrality dial, or make every session's event demand a response.
+- **Neutrality dominance.** If neutrality is free and safe, rational players never take sides. **Fix:** the costly-neutrality choice, or make every session's event demand a response.
 
-## 7. Validation notes
+## 7. Check notes
 
 - **Math:** propagation is bounded by Bond range (±5); worst-case single action propagates ±Δ through direct edges only. With 4 factions, max cascade depth is 1 hop (no cascade by default). The formula's `/5` divisor ensures weak bonds (±1) rarely propagate — only strong relationships (±3+) reliably shift the party's standing elsewhere.
-- **Exploits (`13 §5`):** **debt-farming** (party calls every debt owed to them in one session). Gated by the one-call-per-session-per-faction limit. **Propagation-engineering** (party helps A specifically to anger A's enemy B, then helps B to anger A) — this is *intended* play (the web's cross-pressure), not an exploit, but if it becomes a treadmill, add the costly-neutrality dial.
+- **Abuses (`13 §5`):** **debt-farming** (party calls every debt owed to them in one session). Gated by the one-call-per-session-per-faction limit. **Propagation-craft** (party helps A specifically to anger A's enemy B, then helps B to anger A) — this is *intended* play (the web's cross-pressure), not an abuse, but if it becomes a treadmill, add the costly-neutrality choice.
 - **Felt experience (`19`):** propagation makes the world *feel reactive* (C5). Cognitive load (FE2) is the cost — cap factions to control it. Costly neutrality produces strong forced-choice feel (good for political genres, exhausting for others).
 
 ## 8. Worked genre example — Post-apoc warlords

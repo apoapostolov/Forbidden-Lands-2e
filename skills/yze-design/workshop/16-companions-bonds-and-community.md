@@ -2,14 +2,14 @@
 
 # Companions, Bonds & Community — People as Pressure
 
-> **STATUS: WORKSHOP MODULE.** Bonds, dependents, patrons, companions, crews, morale, communities, and shared recovery. Built from P10 protected dials, P13 settlement-as-character, AC2 relationship edges, and P7 upkeep.
+> **STATUS: WORKSHOP MODULE.** Bonds, dependents, patrons, companions, crews, morale, communities, and shared recovery. Built from P10 inner fire, P13 settlement-as-character, AC2 relationship edges, and P7 upkeep.
 
 ## 1. Origin
 
-- **Source primitives:** P7, P10, P13, P15.
+- **Source patterns:** P7, P10, P13, P15.
 - **Operators:** Domain Transfer + Fusion.
 - **Target psychology:** attachment grants strength and creates risk.
-- **Problem solved:** relationships should matter mechanically without becoming simple buffs.
+- **Problem solved:** relationships should matter in the rules without becoming simple buffs.
 
 ## 2. Generic design space
 
@@ -147,9 +147,9 @@ For a community-as-Bond, use:
 
 Need -> invoke relationship -> Strain -> help/neglect -> fallout or deeper Trust.
 
-## 4. Dials
+## 4. Choices
 
-| Dial | Soft | Hard | Psychology |
+| Choice | Soft | Hard | Psychology |
 | --- | --- | --- | --- |
 | Invoke | once/session | any time with Strain | warmth vs temptation |
 | Fallout | mostly requests | severe danger/betrayal | drama vs tragedy |
@@ -159,7 +159,7 @@ Need -> invoke relationship -> Strain -> help/neglect -> fallout or deeper Trust
 
 Pairs with stress recovery, reputation, social combat, territory, and base play.
 
-## 6. Interface
+## 6. Handshake
 
 - **Prerequisites:** named NPCs or community.
 - **Inputs:** invoke benefit, recovery method, fallout severity.
@@ -172,7 +172,7 @@ Pairs with stress recovery, reputation, social combat, territory, and base play.
 
 Do not punish players for caring every time. Bonds need reliable benefits as well as vulnerability.
 
-## 8. Validation notes
+## 8. Check notes
 
 Use `24 §7`. The worst case should create a rescue, reconciliation, or loss scene, not invisible penalty.
 

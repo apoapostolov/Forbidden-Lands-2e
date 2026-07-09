@@ -8,28 +8,28 @@
 
 1. Origin — how this was built
 2. The generic design space
-   - 2a. Mechanism overview
+   - 2a. Rule overview
    - 2b. NEW CONCEPTS introduced
-   - 2c. Mechanical reference (tables & procedures)
+   - 2c. Rules reference (tables & procedures)
 3. The pressure loop
-4. Dials
+4. Choices
 5. Integration points
 6. Failure modes & edge cases
-7. Validation notes
+7. Check notes
 8. Worked genre example — Noir / cosmic horror
 
 ## 1. Origin — how this was built
 
-- **Source primitives:** **P2 (capped metacurrency refueled by risk)** — clues as the spendable pool; **P6 (activity menu)** — the investigation activities that *earn* the pool; **P1 (push-and-pay)** — the risky inference that *spends* the pool on a gamble; **P4 (typed D66)** — what a wrong inference costs (the backlash / fallout table). Optionally **P5 (resource die)** as an alternative pool model (see Dials).
-- **Reinvention operator:** **Domain Transfer (P2) + Fusion.** Domain-transfer P2 from "personal resolve" (WP/Faith) to "evidence gathered" — clues *are* a capped pool that spends on agency (here: the agency to *act on a conclusion*) and refuels from engaging the system's risk mechanics. Then **fuse** P6 + P2 + P1: the activity menu *earns* the pool; spending the pool *unlocks* certainty; the push *spends* the pool on a gamble when certainty is short. The fusion produces a loop none of the primitives makes alone — mystery-solving as resource management.
+- **Source patterns:** **P2 (capped pool refueled by risk)** — clues as the spendable pool; **P6 (activity menu)** — the investigation activities that *earn* the pool; **P1 (push-and-pay)** — the risky inference that *spends* the pool on a gamble; **P4 (typed D66)** — what a wrong inference costs (the backlash / fallout table). Optionally **P5 (resource die)** as an alternative pool model (see Choices).
+- **Reinvention operator:** **Domain Transfer (P2) + Fusion.** Domain-transfer P2 from "personal resolve" (WP/Faith) to "evidence gathered" — clues *are* a capped pool that spends on agency (here: the agency to *act on a conclusion*) and refuels from engaging the system's risk rules. Then **fuse** P6 + P2 + P1: the activity menu *earns* the pool; spending the pool *unlocks* certainty; the push *spends* the pool on a gamble when certainty is short. The fusion produces a loop none of the patterns makes alone — mystery-solving as resource management.
 - **Target psychology:** **Action-refuel** (`17` M1, action-earned column) — fuel comes from *doing the investigation*, so the game becomes *about* investigating. The push cost is **narrative/Trouble** (`17` M2) by default — a wrong inference makes the *story* worse (a false accusation, a contaminated scene), not the body — recalibrable to **harm/corruption** for horror.
 - **Problem solved:** investigation in most RPGs is either (a) a single "Insight" or "Investigation" roll that hands the player the answer (no process, no texture, and a failed roll bricks the mystery — the classic brick-wall failure), or (b) pure GM-narrated deduction where the rules offer nothing and "finding the clue" is down to whether the player phrases the right question. This module gives deduction the same dramatic rhythm the push economy gives combat: a pool that fills from *what the players choose to do*, spends on *confidence to act*, and can be *gambled* when time runs short — so that "we don't know yet" is a *decision*, not a dead stop.
 
 ## 2. The generic design space
 
-### 2a. Mechanism overview
+### 2a. Rule overview
 
-The Clue Economy turns deduction into a resource loop. A party-shared **Clue pool** (a capped metacurrency, P2) fills from *what the players choose to do* — an **investigation activity menu** (P6) whose mutually-exclusive demands make labor distribution the core tactic. The pool **spends on certainty**: revelations (a Connection, a Conclusion, a Conviction) have a clue cost, and meeting it converts evidence into a confirmed conclusion the GM ratifies as true.
+The Clue Economy turns deduction into a resource loop. A party-shared **Clue pool** (a capped pool, P2) fills from *what the players choose to do* — an **investigation activity menu** (P6) whose mutually-exclusive demands make labor distribution the core tactic. The pool **spends on certainty**: revelations (a Connection, a Conclusion, a Conviction) have a clue cost, and meeting it converts evidence into a confirmed conclusion the GM ratifies as true.
 
 The loop's signature beat is the **risky-inference push** (P1): when the party is short of a revelation's cost and time is running out, any PC may *gamble* — declare a conclusion beyond the evidence and roll the gap. Success confirms it for free; failure commits them to a false conclusion and fires a **Wrong Inference** backlash (P4, typed D66). So "we don't know yet" becomes a *priced decision*, not a dead stop — the same beat the push economy gives combat.
 
@@ -39,17 +39,17 @@ The module triggers only for mysteries that deserve a scene — a hidden truth t
 
 ### 2b. NEW CONCEPTS introduced
 
-- **NEW CONCEPT — Clue pool as metacurrency:** Core engine's capped metacurrency (P2: WP/Faith) is *personal resolve* that spends on re-rolls and stunts. Here the pool is **domain-transferred to evidence**: clues are gathered facts that spend on *certainty to act on a conclusion*. The currency (P2) is recombination; the *application* — a clue economy where evidence buys revelations — is new: no core system treats gathered information as a spendable pool. *Extends the engine by making deduction a resource-management loop.*
+- **NEW CONCEPT — Clue pool as gathered proof:** Core engine's capped pool (P2: WP/Faith) is *personal resolve* that spends on re-rolls and stunts. Here the pool is **domain-transferred to evidence**: clues are gathered facts that spend on *certainty to act on a conclusion*. The currency (P2) is recombination; the *application* — a clue economy where evidence buys revelations — is new: no core system treats gathered information as a spendable pool. *Extends the engine by making deduction a resource-management loop.*
 - **NEW CONCEPT — Hard / soft clue split:** Core resources are single-tier (WP is WP; a Gear Die is a Gear Die). This module splits the clue pool into two tiers — **soft clues** (interchangeable, count toward any cost) and **hard clues** (specific, *named*, required for the highest revelations). No core resource has this dual-tier structure where a subset is type-locked. *Extends the resource model with a required-specific tier that defeats brute-force spending.*
-- **NEW CONCEPT — Risky inference push (P1 applied to deduction):** The push (P1: re-roll by paying a cost) is core to attribute rolls and combat. Here it is **domain-transferred to deduction**: push a *conclusion beyond the evidence* — gamble that your intuition spans the clue-gap. The mechanic is recombination; the *application* — pushing a hypothesis, not a die — is new. *Extends the push from "try the action harder" to "act on less than you know."*
+- **NEW CONCEPT — Risky inference push (P1 applied to deduction):** The push (P1: re-roll by paying a cost) is core to attribute rolls and combat. Here it is **domain-transferred to deduction**: push a *conclusion beyond the evidence* — gamble that your intuition spans the clue-gap. The rule is recombination; the *application* — pushing a hypothesis, not a die — is new. *Extends the push from "try the action harder" to "act on less than you know."*
 - **NEW CONCEPT — Threat Clock (rising investigation-pressure track):** Core time pressure is *random* (encounter tables, random rolls) or *binary* (a single deadline). The Threat Clock is a **deterministic rising track** that advances on a fixed trigger (+1 per Investigation Phase) and fires at a threshold — making investigation time finite and *knowable*, not random. No core system has a deterministic pressure clock tuned to an investigation cadence. *Extends the engine with a rising (not random) pressure source.*
 
-### 2c. Mechanical reference (tables & procedures)
+### 2c. Rules reference (tables & procedures)
 
 #### The Clue pool (P2 — counted form)
 
 - **What it is:** a party-shared pool of solid evidence — fictional facts the table has named ("the robe fiber," "the gardener's alibi gap"), not abstract points.
-- **Cap:** ~8 (dial: 4–5 for scarcity).
+- **Cap:** ~8 (choice: 4–5 for scarcity).
 - **Two tiers:**
   - **Soft clues** — ordinary evidence. Interchangeable: any soft clue counts toward any revelation's cost.
   - **Hard clues** — specific, *named*, required evidence. Some revelations demand a named hard clue, not just N clues (see *Buying certainty*).
@@ -84,7 +84,7 @@ The mystery is investigated in **Investigation Phases** — structured time bloc
 **Activity resolution procedure:**
 
 1. Roll a core ability pool (P1, `00 §3`) for the chosen activity; read on the success ladder (P3).
-2. ⚔ earned scales clue yield (graded ~1 clue per ⚔, or flat 1/phase per the Earning dial).
+2. ⚔ earned scales clue yield (graded ~1 clue per ⚔, or flat 1/phase per the Earning choice).
 3. **Failure still yields one soft clue** (a hunch, a lead) — the menu never returns nothing (anti-brick-wall, §6).
 4. **Core clues** — evidence the plot *requires* to advance — auto-succeed: never gate a must-have behind a roll.
 
@@ -115,11 +115,11 @@ When the party is short of a revelation's cost and wants to act *now* (the Threa
 
 #### The Wrong Inference table (P4, typed D66)
 
-A failed push rolls a **typed D66** (Domain Transfer of P4 from crits/mishaps to *deductive error*). Tens = the axis of the error; Units = severity. The **Procedural** family (narrative cost) is built out in full below; the **Mythic** family (harm/Corruption cost, for cosmic horror) uses the same D66 ranges with swapped payloads.
+A failed push rolls a **typed D66** (Domain Transfer of P4 from crits/mishaps to *deductive error*). Tens = the axis of the error; Units = severity. The **Procedural** family (narrative cost) is built out in full below; the **Mythic** family (harm/Corruption cost, for cosmic horror) uses the same D66 ranges with swapped effects.
 
 **Procedural family** (noir / procedural — narrative cost):
 
-| D66 | Result | Mechanical effect |
+| D66 | Result | Rule effect |
 | --- | --- | --- |
 | 11–14 | **Wasted raid.** The false theory sends you to the wrong place at the wrong time. | Lose a phase; the Threat Clock still advanced. |
 | 15–22 | **Stale lead.** A hunch you chased hard goes cold. | −1 soft clue; one source is spent. |
@@ -131,16 +131,16 @@ A failed push rolls a **typed D66** (Domain Transfer of P4 from crits/mishaps to
 | 65 | **The culprit comes for you.** Knowing you're close (but wrong), they strike first. | A direct confrontation — roll for Harm (`04`). |
 | 66 | **The threat fires.** Your wrong inference was the last piece they needed. | The mystery becomes a crisis — the ritual completes / the killer strikes again. |
 
-**Mythic family** (cosmic horror — harm / Corruption cost): same D66 ranges, payload swapped to the doom spiral. Severity maps to Corruption (`workshop/07`): *minor* (11–31) = a glimpse — nightmares, −1 to one attribute next phase; *costly* (32–61) = 1 Corruption (a glimpsed rite, an echoed chant) or attribute damage; *severe* (62–64) = a deeper wound; **65** = a permanent Mythos touch; **66** = the ritual completes and the manifestation costs 1d3 Corruption to all present. Build the rows on the same spine (TIME → EVIDENCE → EXPOSURE) with mythic nouns.
+**Mythic family** (cosmic horror — harm / Corruption cost): same D66 ranges, effect swapped to the doom spiral. Severity maps to Corruption (`workshop/07`): *minor* (11–31) = a glimpse — nightmares, −1 to one attribute next phase; *costly* (32–61) = 1 Corruption (a glimpsed rite, an echoed chant) or attribute damage; *severe* (62–64) = a deeper wound; **65** = a permanent Mythos touch; **66** = the ritual completes and the manifestation costs 1d3 Corruption to all present. Build the rows on the same spine (TIME → EVIDENCE → EXPOSURE) with mythic nouns.
 
-*This is the same one-architecture-many-payloads trick as FL's crit families (`M3`): the kind of wrongness the genre cares about becomes the story.*
+*This is the same one-architecture-many-effects trick as FL's crit families (`M3`): the kind of wrongness the genre cares about becomes the story.*
 
 #### The Threat Clock (P14 analog — numbered procedure)
 
 The mystery runs against a **Threat Clock**: a track (typically **6 segments**) representing the antagonist's advancing plan. It is the pressure source that makes *earning* clues costly (it costs time) and the *push* tempting (it costs no time but gambles correctness).
 
 1. **When it ticks.** The clock ticks once per **Investigation Phase** — after every PC has resolved their activity for the phase. This is a *defined* trigger, not GM mood.
-2. **How much it ticks.** **+1 segment** per phase by default (the Threat-Clock-speed dial: +1/phase = pressure-cooker; +1/session = relaxed). Two modifiers:
+2. **How much it ticks.** **+1 segment** per phase by default (the Threat-Clock-speed choice: +1/phase = pressure-cooker; +1/session = relaxed). Two modifiers:
    - A **WATCH / COVER** activity taken this phase **reduces** the tick by 1 (minimum 0) — the pressure-relief valve, bought at the cost of earning no clues that phase.
    - A failed push's **Wrong Inference** result can **add** ticks (per the table: several rows advance the clock +1 or +2).
 3. **What happens at threshold.** When the clock fills (all segments marked), the threat **fires**: the ritual completes, the killer strikes again, the trail goes cold, the mole exfiltrates. The mystery becomes a *crisis* — the consequences are now in play and must be dealt with, not prevented. Roll on the **Threat Consequence** table below (or choose the row that fits the fiction).
@@ -170,9 +170,9 @@ Roll when the clock fills. The severity column applies if this is a *second or l
 - **State change:** the hidden truth narrows; the antagonist's plan advances; the party's evidence and exposure both shift.
 - **Loop shape:** **investigate → accumulate → conclude (spend) or push (gamble) → backlash/reward → act.** Runs at Phase cadence (slower than a Round; faster than a session) — a *strategic-deductive* resource.
 
-## 4. Dials
+## 4. Choices
 
-| Dial | Setting A | Setting B | Psychology produced |
+| Choice | Setting A | Setting B | Psychology produced |
 | --- | --- | --- | --- |
 | **Pool scope** | Party-shared (one pool) | Per-investigator (each tracks own) | Collaborative deduction vs specialist competition |
 | **Pool cap** | 8 (generous) | 4–5 (scarce) | Comfortable sleuthing vs tense scarcity |
@@ -189,12 +189,12 @@ Roll when the clock fills. The severity column applies if this is a *second or l
 
 ## 5. Integration points
 
-- **Hooks into:** the social-conflict system (`03 §11`) — QUESTION is a social roll and can escalate into a full Social Combat (`workshop/03`) when an interview is high-stakes. Hooks into harm (`04`) — a harm-cost push (dial above) deals real damage; the Wrong Inference table (P4) is a sibling of the crit families. Hooks into travel/downtime (`06 §5`) — an Investigation Phase is structurally a Quarter Day and can nest inside one. Hooks into the faction web (`workshop/02`) — investigations *into* a faction shift Standing when concluded. Hooks into **Corruption** (`workshop/07`) — a mythic-cost push can climb the corruption ladder (the worked example uses this).
+- **Hooks into:** the social-conflict system (`03 §11`) — QUESTION is a social roll and can escalate into a full Social Combat (`workshop/03`) when an interview is high-stakes. Hooks into harm (`04`) — a harm-cost push (choice above) deals real damage; the Wrong Inference table (P4) is a sibling of the crit families. Hooks into travel/downtime (`06 §5`) — an Investigation Phase is structurally a Quarter Day and can nest inside one. Hooks into the faction web (`workshop/02`) — investigations *into* a faction shift Standing when concluded. Hooks into **Corruption** (`workshop/07`) — a mythic-cost push can climb the corruption ladder (the worked example uses this).
 - **Requires:** a defined hidden truth (the GM knows who/what/why); a Threat Clock; a set of clue sources (locations, witnesses, records) the menu activities can target.
 - **Replaces / extends:** the single "Insight"/"Investigation" roll — adds the economy and the push for mysteries that warrant a scene, leaving simple searches on the single roll.
-- **Cross-refs:** `16` P1/P2/P4/P6 (+ P5 optional); `17` M1 (action-refuel) and M2 (push-cost type); `13 §8` (validation pipeline); `19` FE1/FE4 (the two failures this is engineered around).
+- **Cross-refs:** `16` P1/P2/P4/P6 (+ P5 optional); `17` M1 (action-refuel) and M2 (push-cost type); `13 §8` (review path); `19` FE1/FE4 (the two failures this is engineered around).
 
-## 5a. Interface
+## 5a. Handshake
 
 - **Prerequisites:** inquiry scenes, time pressure, revelations or questions.
 - **Inputs:** clue cap, inquiry activities, spend menu, risky inference trigger.
@@ -205,17 +205,17 @@ Roll when the clock fills. The severity column applies if this is a *second or l
 
 ## 6. Failure modes & edge cases
 
-- **"The mystery is now solvable by brute force."** *(The critical investigation-design failure.)* If clues are too easy to farm, players grind activities to cap and buy the answer — deduction collapses into a resource tally, and the mystery has no teeth. **Fix (three layers):** (a) the **Threat Clock** makes every extra phase cost time the antagonist uses — grinding is not free. (b) **Clue decay:** witnesses go cold, scenes get contaminated — soft clues earned more than ~2 phases ago can't be spent (the GM marks them stale). (c) The **hard/soft split**: Convictions require a *named* hard clue, which cannot be brute-forced — you can't buy "who did it" with filler, you must *find the specific damning fact* (and ANALYZE it). (`13 §5.5` action-economy-abuse variant; `19` FE1 — if everything is buyable, the deduction is a false choice.)
+- **"The mystery is now solvable by brute force."** *(The critical investigation-design failure.)* If clues are too easy to farm, players grind activities to cap and buy the answer — deduction collapses into a resource tally, and the mystery has no teeth. **Fix (three layers):** (a) the **Threat Clock** makes every extra phase cost time the antagonist uses — grinding is not free. (b) **Clue decay:** witnesses go cold, scenes get contaminated — soft clues earned more than ~2 phases ago can't be spent (the GM marks them stale). (c) The **hard/soft split**: Convictions require a *named* hard clue, which cannot be brute-forced — you can't buy "who did it" with filler, you must *find the specific damning fact* (and ANALYZE it). (`13 §5.5` action-budget-abuse variant; `19` FE1 — if everything is buyable, the deduction is a false choice.)
 - **"Players stuck with no clues."** *(The other critical investigation-design failure — the brick wall.)* If rolls fail and clues run dry, the party hits a dead end with nothing to spend and no way forward. **Fix (the module's built-in escape valves):** (a) the **push exists precisely for this** — you can always gamble an inference with zero clues; "stuck" is never terminal, it's a *priced decision*. (b) **Failure yields a lead:** a failed activity still produces one soft clue (a hunch, a new direction) — the menu never returns nothing. (c) **Core clues auto-succeed** — plot-critical evidence is never gated behind a roll. (`19` FE4 agency-collapse: a rule that removes the player from meaningful play; C3 flow channel — preserve a recovery/re-engagement valve.)
 - **The face monopolizes.** If only the high-Insight/high-social PC earns clues, the rest watch. **Fix:** the activity menu is the cure by construction — P6's labor distribution guarantees every PC an investigation job (the muscle SURVEILs, the scholar RESEARCHes, the tough guards via WATCH). Ensure no activity is always-optimal.
 - **"The push is always wrong" (or always right).** If pushing is reliably punished, players never gamble and the signature beat never fires; if reliably safe, it replaces earning. **Fix:** the push's success chance must be *real* (recompute the gap; a 1–2 clue gap should be rollable, not hopeless), and the cost *proportional* — not catastrophic-by-default. One push per conclusion prevents push-spam.
 - **Brute-forcing the push.** Players push every inference to skip earning. **Fix:** failed pushes **burn clues** (you've muddied the evidence by committing to a theory) and the Wrong Inference costs *accumulate* (false accusations compound; mythic backlash stacks toward Corruption). Pushing is for when you *must* act short — not a free substitute for legwork.
 - **The GM-fiat threat.** If the Threat Clock advances on GM whim, the pressure feels rigged (`19` FE5 "too unfair"). **Fix:** the clock ticks on a *defined* trigger (+1 per phase, full stop) and WATCH reduces it on a *defined* roll — never on mood.
 
-## 7. Validation notes
+## 7. Check notes
 
 - **Math (`13 §3` / `§8` Stage 1):** clue-earning rate vs revelation costs should be tuned so a typical mystery resolves in 3–5 Investigation Phases (mirroring a 3–5 Round combat). At graded earning (~2–3 clues/phase across a party of 3–4) and Connection/Conclusion/Conviction costs of 2/4/5, a party reaches a Conclusion in ~2 phases and a Conviction in ~3–4 — provided they secure the hard clue. If mysteries drag, lower costs or raise earning; if they collapse too fast, raise the hard-clue bar or speed the clock.
-- **Exploits (`13 §5` / Stage 2):** the brute-force risk is the main one — gated by the hard/soft split + Threat Clock + clue decay (three independent brakes, deliberately redundant). Push-spam is gated by clue-burn-on-fail + accumulating backlash. Verify a party cannot farm WATCH indefinitely (WATCH earns no clues, so it stalls deduction even as it slows the clock — a real tradeoff, not an exploit).
+- **Abuses (`13 §5` / Stage 2):** the brute-force risk is the main one — gated by the hard/soft split + Threat Clock + clue decay (three independent brakes, deliberately redundant). Push-spam is gated by clue-burn-on-fail + accumulating backlash. Verify a party cannot farm WATCH indefinitely (WATCH earns no clues, so it stalls deduction even as it slows the clock — a real tradeoff, not an abuse).
 - **Synergy (`13 §7` / Stage 3):** the module hooks cleanly because it reuses P1/P2/P6 — no new dice type, no parallel economy. The one synergy to watch: a harm-cost push stacking with Corruption (`workshop/07`) can spiral faster than either alone — recompute the doom curve if both are on.
 - **Felt experience (`19` §7 Stage C):** the **push** is the key psychology — it turns "we lack evidence" into a *decision*, defeating FE4 (agency collapse / the brick wall). The **hard/soft split** defeats FE1 (false choice): if every conclusion were buyable with filler, deduction would be meaningless. The **failure-yields-a-lead** valve preserves C3 (flow channel) — there is always a next move. Wrong Inference tables should be telegraphed (C2 perceived randomness): the GM foreshadows that a theory is thin before the push, so a wrong result feels *earned*, not random.
 
@@ -223,7 +223,7 @@ Roll when the clock fills. The severity column applies if this is a *second or l
 
 **The setting:** A gaslit 1920s city. Investigators pursue a cult of the Yellow Sign kidnapping victims for a summoning. Each phase the **Summoning Clock** (6 segments) advances; at 6, the King in Yellow manifests. Pushing a *wrong* inference doesn't just waste a raid — it exposes the pusher to mythic backlash (gaining **Corruption**, `workshop/07`).
 
-**Dials set:** party-shared pool cap 8; graded earning (1–3 by ⚔); **hard/soft split ON**; failure-yields-a-lead ON; push cost = **harm/Corruption** (Mythic Backlash table, P4); wrong-inference reveal **delayed** (you act on the false theory — the twist lands later); threat clock +1/phase.
+**Settings chosen:** party-shared pool cap 8; graded earning (1–3 by ⚔); **hard/soft split ON**; failure-yields-a-lead ON; push cost = **harm/Corruption** (Mythic Backlash table, P4); wrong-inference reveal **delayed** (you act on the false theory — the twist lands later); threat clock +1/phase.
 
 **The menu:** SEARCH / QUESTION / RESEARCH / SURVEIL / ANALYZE / **WARD** (the WATCH equivalent — wards the party against mythic attention, −1 clock tick, no clues).
 

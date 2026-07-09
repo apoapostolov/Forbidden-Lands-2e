@@ -2,14 +2,14 @@
 
 # Gear and Economy — Equipment, Crafting, Money
 
-> **STATUS: FILLED (Pass-1 extraction + Pass-2 abstraction complete).** This is the stuff layer — it assumes the dice grammar and Gear Dice of `00-engine-core.md` §3, the conflict action economy of `03-conflict-and-combat.md`, and the downtime/season loop of `06-travel-and-downtime.md`. The central deliverables are the **Feature Grammar** (§6–7: weapons and armor are defined by *composable tags*, not stat lines), the **Economy-Model dial** (§4: barter+silver vs cash+capital), the **Inventory/Transport pressure layer** (§11), and the **Crafting/Construction/Investment translator** (§12). The **Availability/Scarcity table** (§3) is shared near-verbatim by both games.
+> **STATUS: FILLED (Pass-1 extraction + Pass-2 abstraction complete).** This is the stuff layer — it assumes the dice grammar and Gear Dice of `00-engine-core.md` §3, the conflict action budget of `03-conflict-and-combat.md`, and the downtime/season loop of `06-travel-and-downtime.md`. The central deliverables are the **Feature Grammar** (§6–7: weapons and armor are defined by *composable tags*, not stat lines), the **Economy-Model choice** (§4: barter+silver vs cash+capital), the **Inventory/Transport pressure layer** (§11), and the **Crafting/Construction/Investment translator** (§12). The **Availability/Scarcity table** (§3) is shared near-verbatim by both games.
 
 ## Contents
 
 1. Source provenance
 2. Abstraction target
 3. Supply / scarcity / availability tables — **shared near-verbatim**
-4. Economy models: the economy dial (barter+silver / cash+capital+loans+salaries)
+4. Economy models: the economy choice (barter+silver / cash+capital+loans+salaries)
 5. Crafting — the making layer (talent-gated, workshop-gated, time-gated, material-gated)
 6. Weapon feature grammar — **the central reusable artifact**
 7. Armor feature grammar
@@ -20,7 +20,7 @@
 12. Crafting, construction, investment economics, trade routes, and gambling
 13. Strange Devices
 14. Divergence rows (FL vs West)
-15. Dials and instantiation recipe
+15. Rule Choices and Build Recipe
 16. Design intent
 
 ## 1. Source provenance
@@ -48,7 +48,7 @@
 
 ## 2. Abstraction target
 
-Abstract **gear and economy** as a genre-neutral system of *five separable layers*, each a design dial, with FL and West as two calibrated points:
+Abstract **gear and economy** as a genre-neutral system of *five separable layers*, each a design choice, with FL and West as two calibrated points:
 
 1. **Availability / Scarcity** (§3) — a rating that controls *whether* an item can be found in a given settlement, and a price-adjustment table for *how the market bends the cost*. Both games ship near-identical machinery here.
 2. **Economy model** (§4) — the *form money takes*: barter+commodity-currency (FL) vs cash+capital with credit and wages (West). This is the file's **central divergence**.
@@ -56,7 +56,7 @@ Abstract **gear and economy** as a genre-neutral system of *five separable layer
 4. **Feature grammar** (§6–7) — **the central reusable artifact.** Weapons and armor are defined by a *small set of composable tags* (Edged, Pointed, Polearm, Parrying, Pierce Armor… / CALIBRATED, RELIABLE, PIERCING…) rather than by bespoke stat lines. The grammar is what lets two swords feel different without inflating numbers.
 5. **Quality / condition / legendary tiers** (§8–9) — the *degradation and escalation* layers: quality tiers (Crude/Standard/Fine), condition tracks (Worn→broken), and the artifact/legendary die for gear so fine it has its own dice.
 
-A sixth, cross-cutting mechanism — **consumables as resource dice** (§10) — replaces item-counting with a single degrading die, and is the engine's preferred way to track *ammo, torches, food, tools* under pressure.
+A sixth, cross-cutting rule pattern — **consumables as resource dice** (§10) — replaces item-counting with a single degrading die, and is the engine's preferred way to track *ammo, torches, food, tools* under pressure.
 
 ## 3. Supply / scarcity / availability tables — **shared near-verbatim**
 
@@ -71,7 +71,7 @@ Both games solve the same problem — *not everything is for sale everywhere* �
 | **Rare** | **Rare** | FL: D6 **6 only**, single unit, weekly. West: only in strong markets or via a named contact. |
 | **Extremely Rare** | **Very Rare** | FL: D66 **65–66 only**, single unit, weekly. West: needs a major town, special amenity, mail order, or its own scenario. |
 
-**Generic mechanism:** a 4-step ladder (Common → Uncommon → Rare → Very Rare) where each step *narrows where the item can be found* and *lowers the quantity restocked*. The resolution can be a die roll (FL's per-item D6/D66 with weekly restock) or a settlement-quality judgment (West's "does this town have the right amenity / Mercantile rank?"). **Layer:** General.
+**Common pattern:** a 4-step ladder (Common → Uncommon → Rare → Very Rare) where each step *narrows where the item can be found* and *lowers the quantity restocked*. The resolution can be a die roll (FL's per-item D6/D66 with weekly restock) or a settlement-quality judgment (West's "does this town have the right amenity / Mercantile rank?"). **Layer:** General.
 
 ### 3.2 Settlement modifiers — availability shifts with place
 
@@ -81,7 +81,7 @@ Both games solve the same problem — *not everything is for sale everywhere* �
 
 **West's "Strong Market" definition** (`06-life:526-541`): Mercantile 5–6, *or* Mercantile 4 + a Railroad/Express/major-trade advantage. In a strong market, Rare legal goods are openly buyable, one Very Rare good can at least be *located/ordered* without a side-adventure, and the buyer chooses ordinary price *or* immediate access (immediate = +one scarcity step). Strong markets are also *bounded*: two Rare purchases of one kind per week, one Very Rare, before the shelves thin and further same-kind purchases step harder.
 
-**Generic mechanism:** the settlement is itself a *rated supplier*. A small set of tags (trade rank, transport link, specialist amenity, law level, welfare level) each shift availability by one step and *stack*. A "strong market" threshold unlocks Rare/Very Rare access but is rate-limited per buyer per week. **Layer:** General (the modifier concept); the specific tag set is genre work.
+**Common pattern:** the settlement is itself a *rated supplier*. A small set of tags (trade rank, transport link, specialist amenity, law level, welfare level) each shift availability by one step and *stack*. A "strong market" threshold unlocks Rare/Very Rare access but is rate-limited per buyer per week. **Layer:** General (the modifier concept); the specific tag set is genre work.
 
 ### 3.3 The scarcity → price table
 
@@ -97,15 +97,15 @@ Once an item is *found*, both games bend the price by market condition. The two 
 
 FL `10-gear.md:27` ("increase the price by 50% to 200% based on local need"); West `06-life:547-553`. West adds the explicit *downward* leg (−25% surplus) and the granularity of one-step-vs-two-steps; FL states only the upward range but permits barter-at-face-value or a service obligation as a non-cash substitute (`:26`).
 
-**Generic mechanism:** a 5-row price-adjustment table keyed to *how hard it was to find* (surplus → panic), applied after the availability roll succeeds. **Layer:** General. *Recommended port:* West's version (it includes the downward leg, which makes trade feel two-sided).
+**Common pattern:** a 5-row price-adjustment table keyed to *how hard it was to find* (surplus → panic), applied after the availability roll succeeds. **Layer:** General. *Recommended port:* West's version (it includes the downward leg, which makes trade feel two-sided).
 
-## 4. Economy models: the economy dial — **the central divergence**
+## 4. Economy models: the economy choice — **the central divergence**
 
 This is where FL and West diverge most sharply, because the two genres have *opposite relationships to money*. FL is a post-collapse survival setting where coin is scarce and most exchange is personal; West is a frontier-cash-economy setting where dollars flow, credit exists, and property is a game.
 
 **Deep economy handoff:** this section identifies the economy model. When the task is to price new functions, build property, translate FL stronghold construction into West-style Capital/property, validate investment payback, or design business/amenity cost bands, continue to §12 of this file. When the task is to run businesses, factions, families, settlements, or other owned entities across weeks/months/seasons, load `25-season-downtime-and-enterprises.md`.
 
-### 4.1 The dial
+### 4.1 The choice
 
 | | **FL — barter + commodity silver** (`10-gear.md:21-28`) | **West — cash + capital + credit + wages** (`06-life:11-125`) |
 | --- | --- | --- |
@@ -114,10 +114,10 @@ This is where FL and West diverge most sharply, because the two genres have *opp
 | **Liquidation** | (implicit: spend the silver, swap the barter) | **Liquidating Capital** is risky and committed: roll D6 × $50 = $50–$300, decided once rolled, lose the underlying asset. |
 | **Credit / debt** | (none — no banking layer) | **Loans**: 5%–10% interest per season, ≥1-year term, collateralized (land/home/farm/business), foreclosure on default; banks are fragile (fraud, robbery). |
 | **Income** | (earned ad hoc: looting, favors, strongholds) | **Salaries** per season (table, $65–$300); −25% if board included. Plus **business/season rolls** and **hired-hands** day-wages. |
-| **Property / stronghold** | Stronghold building (raw materials + labor + time, `10-gear.md:700-714`). | **Property Status 0–8** (Capital-priced), **Location Types**, **Property Features**, buying/selling/auction mechanics (`06-life:214-351`). |
+| **Property / stronghold** | Stronghold building (raw materials + labor + time, `10-gear.md:700-714`). | **Property Status 0–8** (Capital-priced), **Location Types**, **Property Features**, buying/selling/auction rules (`06-life:214-351`). |
 | **Thematic load** | *Scarcity is the story.* Geography and isolation decide what you can have. | *Money is the story.* Cash flow, debt, investment, and reputation-through-property drive play. |
 
-**Generic mechanism — the economy dial.** A setting picks, from a small menu, *which forms of value exist and how they convert*:
+**Common pattern — the economy choice.** A setting picks, from a small menu, *which forms of value exist and how they convert*:
 
 1. **Medium of daily exchange** — barter / commodity coin / fiat cash / scrip.
 2. **Prestige or large-denomination store** — ceremonial gold (FL) / investment Capital (West) / none.
@@ -125,7 +125,7 @@ This is where FL and West diverge most sharply, because the two genres have *opp
 4. **Income stream** — ad hoc looting / seasonal salaries / business rolls / rents.
 5. **Property model** — stronghold-as-craft-project (FL) / property-as-rated-asset-with-Status (West) / none.
 
-Each is independently toggleable. **Layer:** the dial is **core**; each sub-dial is a design choice.
+Each is independently toggleable. **Layer:** the choice is **core**; each sub-choice is a design choice.
 
 **Design intent:** The economy model is not flavour — it *is* the genre's statement about what characters are struggling for. FL's barter+ceremonial-gold says "you will mostly not have money, and the things you want will be gated by *who you know and where you are*." West's cash+capital+loans says "money is available, but it comes with *obligations* — debt, investment risk, reputation — that are themselves the drama." A new genre's job is to decide whether its characters are *starved* of money (use the FL pole) or *managed* by money (use the West pole).
 
@@ -139,7 +139,7 @@ West is the only one of the two with a full *asset-and-business* simulation, and
 - **Property is a Status ladder (0–8)**, each step a Capital price, with build-cheaper-than-buy (but build costs *time*), Location Types controlling availability/cost, and a Features table (Forge, Oven, Stables, Library, Strong Room…) that gates business types and grants rolling bonuses. `06-life:230-307`.
 - **Buying/selling is a haggle**: opposed PERFORMIN' vs INSIGHT, ±1 Capital per net success (min ½, max +50%); competitive bidding can overshoot value and the excess is *lost*. `06-life:332-350`.
 
-**Generic abstraction — "the asset layer."** A subsystem where (a) a large-denomination currency converts in at a fixed rate and out at a random rate, (b) assets are rated by a linked ability and pay out on seasonal rolls, (c) owning property is a Status ladder with build-vs-buy trade-offs and prerequisite-gating features, and (d) transactions are haggle-able. **Layer:** Optional — include only in genres where *property and business* are intended to be a pillar of play. FL deliberately omits this entire layer (its "stronghold" is a craft project, not a financial instrument).
+**Abstract pattern — "the asset layer."** A rule set where (a) a large-denomination currency converts in at a fixed rate and out at a random rate, (b) assets are rated by a linked ability and pay out on seasonal rolls, (c) owning property is a Status ladder with build-vs-buy trade-offs and prerequisite-gating features, and (d) transactions are haggle-able. **Layer:** Optional — include only in genres where *property and business* are intended to be a pillar of play. FL deliberately omits this entire layer (its "stronghold" is a craft project, not a financial instrument).
 
 ## 5. Crafting — the making layer
 
@@ -154,11 +154,11 @@ Both games gate *making things* behind the same four gates, in the same order: *
 | **Raw materials** | Every item lists exact **Raw Materials** (½ Iron, 1 Wood, 2 Leather…) with fractional units; materials themselves are craftable (Iron Ore→Iron, Pelts→Leather, Wood, Stone, Glass…) and have their own supply/shelf-life. `10-gear.md:652-682`. | Gear is bought, not built from units, but the *Specialized Gear* table notes when equipment is prerequisite to a business (Farming/Mining/Panning equipment). `06-life:596-614`. |
 | **Time** | Each item lists a **Time** (Quarter Day / One Day / Two Days / One Week…), assuming two Quarter Days of work per day; extra time = bonus to the roll. Large items (armor, crossbows, vehicles) need an **assistant**; each beyond the first shaves **25%** of time (min ½ at three). Armor needs **1–2 days fitting** (poor fit = −1 MOVE or −1 AR). **Seasonal work**: outdoor/heavy craft is +50% time in winter unless indoors. `10-gear.md:36, 50-54`. | Building property costs **seasons** of time (Status 3 = a season; Status 8 = four seasons). `06-life:232-242`. |
 
-**Generic mechanism — "the making gate."** To make an item, satisfy four independent prerequisites — **talent, workshop, materials, time** — each of which can independently *block* the craft, *slow* it, or *penalize* the roll. Assistants and extra time are the two dials that trade resources for speed/quality. **Layer:** General (the four-gate structure); the depth of the material simulation is a dial (FL's unit-economy vs West's buy-it-ready-made). For cost bands, function value, construction curves, payback checks, and persistent-bonus pricing, load `27`.
+**Common pattern — "the making gate."** To make an item, satisfy four independent prerequisites — **talent, workshop, materials, time** — each of which can independently *block* the craft, *slow* it, or *penalize* the roll. Assistants and extra time are the two choices that trade resources for speed/quality. **Layer:** General (the four-gate structure); the depth of the material simulation is a choice (FL's unit-economy vs West's buy-it-ready-made). For cost bands, function value, construction curves, payback checks, and persistent-bonus pricing, load `27`.
 
 ### 5.2 The material-quality ladder (FL innovation)
 
-FL alone makes *the material you make it from* a first-class dial. The metallurgy ladder (`10-gear.md:802-822`) is exemplary and generalizes: each step up the material ladder adds **+1 Weapon Bonus / Armor Rating** at the cost of a harder crafting roll (−2 to −6, halved by sufficient talent rank) and rarer supply:
+FL alone makes *the material you make it from* a first-class choice. The metallurgy ladder (`10-gear.md:802-822`) is exemplary and generalizes: each step up the material ladder adds **+1 Weapon Bonus / Armor Rating** at the cost of a harder crafting roll (−2 to −6, halved by sufficient talent rank) and rarer supply:
 
 | Material | Craft penalty | Effect | Talent floor |
 | --- | --- | --- | --- |
@@ -171,7 +171,7 @@ FL alone makes *the material you make it from* a first-class dial. The metallurg
 
 The same pattern repeats for leather/cloth (Buckskin / Wax-hardened / Glue-hardened / Glass-composite leather; Wool / Linen / Oilcloth / Silk / Silk-wool) and for alternative weapon materials (Bone = fragile; Flint = +1 damage). `10-gear.md:836-921`.
 
-**Generic abstraction:** a *material ladder* where each tier trades crafting difficulty and scarcity for a +1 bonus, with a talent rank that halves the penalty — so *being a better craftsman literally lets you work better materials*. **Layer:** Optional (genre-dependent; include where *crafting depth* is a pillar — alchemy, cybernetics, starship components).
+**Abstract pattern:** a *material ladder* where each tier trades crafting difficulty and scarcity for a +1 bonus, with a talent rank that halves the penalty — so *being a better craftsman literally lets you work better materials*. **Layer:** Optional (genre-dependent; include where *crafting depth* is a pillar — alchemy, cybernetics, starship components).
 
 ## 6. Weapon feature grammar — **the central reusable artifact**
 
@@ -179,7 +179,7 @@ The same pattern repeats for leather/cloth (Buckskin / Wax-hardened / Glue-harde
 
 ### 6.1 The shared stat skeleton
 
-Both games describe a weapon with a *fixed column schema* plus a *free-form tag list*. The schema holds the numbers; the tags hold the *feel*.
+Both games describe a weapon with a *fixed column write-up* plus a *free-form tag list*. The write-up holds the numbers; the tags hold the *feel*.
 
 | Column | FL (`05-combat:449-461`) | West (`06-life:715-735`) |
 | --- | --- | --- |
@@ -192,7 +192,7 @@ Both games describe a weapon with a *fixed column schema* plus a *free-form tag 
 | **Cost / Weight / Supply** | COST (silver) / WEIGHT / SUPPLY | COST ($) / WEIGHT / RARITY |
 | **FEATURES / QUALITIES** | the tag list | the tag list (max 4, stack) |
 
-The two schemas are nearly isomorphic. The one structural difference: FL's BONUS is a pool of **Gear Dice** that *degrade when pushed* (a pushed roll drops the weapon's bonus by 1 per 💀 on a Gear Die, breaking it at 0) — so the weapon's potency is itself a depletable resource. West's ATTACK MOD is a flat modifier with no push-degradation; instead, weapons degrade via the **Condition** tables (§8) driven by Trouble. This mirrors the engine's core push-cost divergence (`00-engine-core.md` §6): FL's gear *is* the cost face; West's gear is taxed by a separate Trouble layer.
+The two write-ups are nearly isomorphic. The one structural difference: FL's BONUS is a pool of **Gear Dice** that *degrade when pushed* (a pushed roll drops the weapon's bonus by 1 per 💀 on a Gear Die, breaking it at 0) — so the weapon's potency is itself a depletable resource. West's ATTACK MOD is a flat modifier with no push-degradation; instead, weapons degrade via the **Condition** tables (§8) driven by Trouble. This mirrors the engine's core push-cost divergence (`00-engine-core.md` §6): FL's gear *is* the cost face; West's gear is taxed by a separate Trouble layer.
 
 ### 6.2 FL's feature set — the combat-action grammar
 
@@ -208,7 +208,7 @@ FL's tags are unusually well-designed because they **double as the action-prereq
 | **Defense-piercing** | **Chained** (−2 to PARRY), **Flexible** (−1 to shield parry), **High-Velocity** (−2 to DODGE, melee-only parry). `:482-490`. |
 | **Special damage** | **Burning** (3⚔ → target catches fire, 1 dmg/turn until MOVE roll), **Pick** (deals Stab damage on a Slash action). `:480, 514`. |
 | **Size / handling flags** | **Light**, **Heavy**, **Tiny**, **Unarmed** | Reference flags for talents and rules (e.g. CRAMPED zones penalize Heavy; Heavy enables SWING WEAPON for +1🩸). `:488, 494, 530, 534`. |
-| **Ranged-specific** | **Load / Load x2**, **Ready**, **Windlass**, **Ranged (Blunt/Pointed)**, **Melee/Ranged**, **Loud**, **Misfire**, **High-Velocity**, **Shield-breaker** | Reload action economy, the pre-shot READY action, crit-table selector for ranged, thrown-melee hybrids, animal-fright, the misfire self-damage risk. `:498-524, 536`. |
+| **Ranged-specific** | **Load / Load x2**, **Ready**, **Windlass**, **Ranged (Blunt/Pointed)**, **Melee/Ranged**, **Loud**, **Misfire**, **High-Velocity**, **Shield-breaker** | Reload action budget, the pre-shot READY action, crit-table selector for ranged, thrown-melee hybrids, animal-fright, the misfire self-damage risk. `:498-524, 536`. |
 | **Durability** | **Brittle/Fragile** (item damage on any item-die 💀, even un-pushed; un-repairable), **TOUGH** (soaks the first damage, checkbox repairable). `05-combat:478, 540`. |
 
 **The composability proof.** Compare three FL weapons from the same table (`05-combat:544-583`):
@@ -226,20 +226,20 @@ West splits the tag concept into three explicit, separable layers (`06-life:842-
 2. **Qualities** — *positive* tags a skilled maker can add or that come built-in; **max four, bonuses stack**. Split by weapon class: `:848-868` Ranged (CALIBRATED, CONCEALABLE, FANNING, FAST DRAW, HEAVY, HIDDEN, HOT LOADER, LIGHT, LONG BARREL, SHORT BARREL, SIGHTS, SAWN-OFF + the Any-cross-cut BALANCED/MAINTAINED/PIERCING/POWERFUL/RELIABLE); `:874-883` Melee (BALANCED, FORGIVING, MOUNTED, PIERCING, SHARPENED, SLEEK, TOUGHENED, WEIGHTED). Each is a one-line effect (CALIBRATED = +1 Attack; RELIABLE = Trouble −1 min 1; MOUNTED = free second push on horseback; TOUGHENED = can't be broken by Trouble).
 3. **Conditions** — *negative* tags applied by Trouble, repairable. Ranged D6 (DIRTY, DAMAGED BORE, HARD TO LOAD, GREASY, MISALIGNED, WEAK HAMMER) and Melee D6 (BLUNT, LOOSE HANDLE, BENT, HARD TO HOLD, CHIPPED, WEAKENED). `:885-905`. The last row of each is the *break* threshold (WEAK HAMMER / WEAKENED: a second Trouble in the scene breaks it beyond repair).
 
-**Generic mechanism — the three-layer tag model.** A weapon = (a) a **fixed stat block** + (b) a **stack of positive Qualities** (capped, trade-off-laden, maker-addable) + (c) a **stack of negative Conditions** (Trouble-driven, repairable, escalating to "broken"). This cleanly separates *what the weapon is* (stats), *what's good about it* (qualities), and *what's wrong with it right now* (conditions) — three things FL conflates into the single degrading Gear Bonus.
+**Common pattern — the three-layer tag model.** A weapon = (a) a **fixed stat block** + (b) a **stack of positive Qualities** (capped, trade-off-laden, maker-addable) + (c) a **stack of negative Conditions** (Trouble-driven, repairable, escalating to "broken"). This cleanly separates *what the weapon is* (stats), *what's good about it* (qualities), and *what's wrong with it right now* (conditions) — three things FL conflates into the single degrading Gear Bonus.
 
 ### 6.4 Generalizing the feature grammar — the recipe
 
 > **Port this.** The grammar is more reusable than any stat line in either book.
 
 **The fixed architecture (port as-is):**
-1. **A weapon = a fixed column schema + a tag list.** The schema holds numbers (grip/action, attack bonus, damage, crit, range, ammo, cost, weight, supply). The tags hold *behavior*.
+1. **A weapon = a fixed column write-up + a tag list.** The write-up holds numbers (grip/action, attack bonus, damage, crit, range, ammo, cost, weight, supply). The tags hold *behavior*.
 2. **Tags are small, composable, and each does exactly one thing.** Name the *behavior* (Edged = enables SLASH + selects Slash crits), not the *weapon* ("sword-like").
 3. **Tags double as action prerequisites** where possible (FL's model): a tag *unlocks or gates a combat action* (Parrying → PARRY; Hook → SHOVE; Pointed → STAB). This binds the gear layer to the conflict layer (`03-conflict-and-combat.md`) and makes loadout a tactical choice.
 4. **Cap and trade off positive tags** (West's max-4, stack rule) so optimization has a ceiling and every weapon has a *profile* rather than "all the good tags."
 5. **Drive negative tags through the engine's existing failure layer** (FL: Gear-Die 💀 on push; West: Trouble), so degradation *reuses* the harm system rather than adding a new one. See §8.
 
-**The genre dial — choosing the tag set:**
+**The genre choice — choosing the tag set:**
 | Genre | Recommended tag families |
 | --- | --- |
 | **Dark fantasy / survival** (FL) | Damage-type (Edged/Pointed/Blunt), reach (Short/Long/Polearm/Half-Hand), defensive (Parrying), maneuver (Hook/Trapping), anti-armor (Pierce/Smashing), special (Burning), durability (Brittle/TOUGH). |
@@ -261,7 +261,7 @@ Armor "features" in FL are mostly **stat annotations** rather than a separate ta
 
 West's harm model (`04-harm`) doesn't use a rolling AR; armor functions through the weapon Qualities/Conditions and the Hurts/Shakes damage split. Armor appears mainly as *protective gear* and *specialized equipment* in the gear tables, and the same Quality-Grade ladder (Poor/Worn/Standard/Fine) applies to it as to any goods. The degradation grammar is the Conditions layer (§8).
 
-**Generic mechanism — "armor-as-tag-set."** Armor = (a) a **protection value** that either *rolls dice* against damage (FL) or *grants flat reduction/modifiers* (West), (b) a small set of **feature tags** for weight class, mobility cost, sense penalty, and special protection (cover, half-rating-vs-X), and (c) a **degradation rule** tied to the engine's harm layer. **Layer:** General. *Recommended port:* FL's rolling-AR-with-degradation is the more tactically interesting model and pairs naturally with the push-cost loop (a pushed attack can shred armor); use West's flat-reduction model for faster, lighter combat.
+**Common pattern — "armor-as-tag-set."** Armor = (a) a **protection value** that either *rolls dice* against damage (FL) or *grants flat reduction/modifiers* (West), (b) a small set of **feature tags** for weight class, mobility cost, sense penalty, and special protection (cover, half-rating-vs-X), and (c) a **degradation rule** tied to the engine's harm layer. **Layer:** General. *Recommended port:* FL's rolling-AR-with-degradation is the more tactically interesting model and pairs naturally with the push-cost loop (a pushed attack can shred armor); use West's flat-reduction model for faster, lighter combat.
 
 ## 8. Quality tiers and condition/degradation
 
@@ -275,15 +275,15 @@ Both games layer a **quality** axis and a **condition/degradation** axis on top 
 | **Standard** | **Standard**: table as written. | **Standard**: listed price, solid frontier quality. |
 | **High** | **Fine/Masterwork**: +1 BONUS, ×2+ cost, supply one step rarer; +1 MANIPULATION as a displayed status symbol; needs a specialist + proper tools. | **Fine** (+50%): better made/looking/resellable; counts as the one applicable +1 gear bonus *or* ignores the first Worn result from hard use (chosen when bought). |
 
-The ladders align almost perfectly: Crude↔Poor, Standard↔Standard, Fine↔Fine. FL's Fine is *mechanically* stronger (+1 Gear Die, which is a real combat bonus); West's Fine is more *socially/economically* loaded (resale, the one-gear-bonus cap). West uniquely splits the low tier into **Poor** (badly made) and **Worn** (used hard) — distinguishing *origin* quality from *acquired* wear.
+The ladders align almost perfectly: Crude↔Poor, Standard↔Standard, Fine↔Fine. FL's Fine is in the rules stronger (+1 Gear Die, which is a real combat bonus); West's Fine is more *socially/economically* loaded (resale, the one-gear-bonus cap). West uniquely splits the low tier into **Poor** (badly made) and **Worn** (used hard) — distinguishing *origin* quality from *acquired* wear.
 
 FL also applies quality to **rope and textile** separately (`10-gear.md:146-156`): Rough (½ lifespan, −25%, damages on 2💀/tears on 3💀) / Standard / Fine (double lifespan, +50%, doesn't wear from normal strain) — a model for any *consumable-adjacent* gear where lifespan, not performance, is the axis.
 
-**Generic mechanism:** a 3-tier (or 4-tier) quality ladder where the low tier *breaks or fails first*, the high tier *adds a bonus and costs more + is rarer*, and the high tier optionally carries *social* value (MANIPULATION/resale/Fame). **Layer:** General (the ladder); whether the high tier grants a *combat* bonus (FL) or a *social/economic* one (West) is a dial.
+**Common pattern:** a 3-tier (or 4-tier) quality ladder where the low tier *breaks or fails first*, the high tier *adds a bonus and costs more + is rarer*, and the high tier optionally carries *social* value (MANIPULATION/resale/Fame). **Layer:** General (the ladder); whether the high tier grants a *combat* bonus (FL) or a *social/economic* one (West) is a choice.
 
 ### 8.2 The condition/degradation engine
 
-This is where the two games diverge in *mechanism* while agreeing in *effect* — and the divergence tracks the core push-cost split (`00-engine-core.md` §6):
+This is where the two games diverge in *rule pattern* while agreeing in *effect* — and the divergence tracks the core push-cost split (`00-engine-core.md` §6):
 
 | | **FL — gear-as-cost-face** | **West — Trouble-driven Conditions** |
 | --- | --- | --- |
@@ -294,11 +294,11 @@ This is where the two games diverge in *mechanism* while agreeing in *effect* �
 
 FL `05-combat:456, 654-656`; West `06-life:846, 885-905`.
 
-**Generic mechanism — "the degradation layer."** A rule that *using gear under pressure makes it worse*, wired into the engine's existing failure mechanic (push-cost in FL, Trouble in West) so no new subsystem is needed. Choose **continuous-counter** (FL: bonus ticks down, repairs restore it) for granular, attritional pressure where gear *is* a resource pool; choose **discrete-tag** (West: named Conditions from a table, each a fixed penalty) for lighter bookkeeping and more *narrative* breakage ("the bore's damaged, it's low-powered"). **Layer:** General (some degradation rule); the mechanism is a dial tied to the push-cost model.
+**Common pattern — "the degradation layer."** A rule that *using gear under pressure makes it worse*, wired into the engine's existing failure rule (push-cost in FL, Trouble in West) so no new rule set is needed. Choose **continuous-counter** (FL: bonus ticks down, repairs restore it) for granular, attritional pressure where gear *is* a resource pool; choose **discrete-tag** (West: named Conditions from a table, each a fixed penalty) for lighter bookkeeping and more *narrative* breakage ("the bore's damaged, it's low-powered"). **Layer:** General (some degradation rule); the rule pattern is a choice tied to the push-cost model.
 
 ## 9. Artifact / legendary gear and the artifact die
 
-FL alone has a **legendary tier** — gear so fine it doesn't roll normal Gear Dice, it rolls its *own* larger die. This is the gear-layer instance of the engine's escalating-success-die subsystem (`00-engine-core.md` §9).
+FL alone has a **legendary tier** — gear so fine it doesn't roll normal Gear Dice, it rolls its *own* larger die. This is the gear-layer instance of the engine's escalating-success-die rule set (`00-engine-core.md` §9).
 
 ### 9.1 The artifact die
 
@@ -308,7 +308,7 @@ FL artifacts grant a **D8 (Mighty) / D10 (Epic) / D12 (Legendary)** in addition 
 
 FL artifacts are not just "a +2 sword." They are **named** (D66 prefix table: "Alur's…", "Brambolo's…"), **typed** (Skill artifact = adds the die to a skill; Combat artifact = weapon/armor/shield), and **oddity-laden** — every artifact carries a D66 **Oddity** that afflicts or aids the bearer only while possessed (`10-gear.md:1067-1106`): demonic faces that watch you, paranoid whispers, always-freezing cold, nightmares, telepathic complaint, the die that *varies by moon/season/time-of-day* (rows 64–66), the soul trapped inside whose personality bleeds into the bearer (row 33), the "discharge all power once, then explode" self-destruct (row 63).
 
-**Generic abstraction — "the legendary tier."** An optional top tier of gear that (a) uses the **escalating-success-die** (D8/D10/D12, 6+ = ⚔, scaled, immune to degradation), (b) is **named and typed** rather than generic, and (c) carries a **quirk/oddity table** that makes possession itself a story — the item is *wanted and feared*, not just powerful. **Layer:** Optional — omit for grounded/low-power genres (West has no equivalent; its nearest analogue is the Faith metacurrency, a player-side pressure-relief dial, not a success-scaling die). Cross-ref `05-power-layer.md` (artifact dice as magic-item ingredient) and `00-engine-core.md §9` (the die itself).
+**Abstract pattern — "the legendary tier."** An optional top tier of gear that (a) uses the **escalating-success-die** (D8/D10/D12, 6+ = ⚔, scaled, immune to degradation), (b) is **named and typed** rather than generic, and (c) carries a **quirk/oddity table** that makes possession itself a story — the item is *wanted and feared*, not just powerful. **Layer:** Optional — omit for grounded/low-power genres (West has no equivalent; its nearest analogue is the Faith, a player-side pressure-relief choice, not a success-scaling die). Cross-ref `05-power-layer.md` (artifact dice as magic-item ingredient) and `00-engine-core.md §9` (the die itself).
 
 ## 10. Consumables as resource dice
 
@@ -334,7 +334,7 @@ West ships the same machinery as an **Optional Module** explicitly recommended f
 
 ### 10.2 Why it works — and when to default it
 
-**Generic mechanism:** a *single degrading die* replaces a unit-count for any consumable the genre wants to feel *scarce under pressure*. It converts "I have 14 arrows" into "my Arrow Die is D6, and every fight might shrink it." It is lighter than counting, more dramatic than tracking, and it makes *resupply* a meaningful event (stepping the die back up) rather than bookkeeping. **Layer:** Optional in West, default in FL — a **scope dial**. *Default it on* for survival/wilderness/expedition genres where logistics is a pillar; default it *off* (loose counting) for urban/cinematic genres where supply runs aren't the story. Either way, port the ladder as-is. For transport requirements, group stores, stockpiles, and the no-double-charge rule, load `26`.
+**Common pattern:** a *single degrading die* replaces a unit-count for any consumable the genre wants to feel *scarce under pressure*. It converts "I have 14 arrows" into "my Arrow Die is D6, and every fight might shrink it." It is lighter than counting, more dramatic than tracking, and it makes *resupply* a meaningful event (stepping the die back up) rather than bookkeeping. **Layer:** Optional in West, default in FL — a **scope choice**. *Default it on* for survival/wilderness/expedition genres where logistics is a pillar; default it *off* (loose counting) for urban/cinematic genres where supply runs aren't the story. Either way, port the ladder as-is. For transport requirements, group stores, stockpiles, and the no-double-charge rule, load `26`.
 
 ## 11. Inventory, Transport, and Storage Pressure
 
@@ -362,7 +362,7 @@ Inventory matters only when it changes decisions. YZE's carry system works becau
 
 #### 3.1 Row-Based Carry
 
-| Element | FL | West | Generic abstraction |
+| Element | FL | West | Abstract pattern |
 | --- | --- | --- | --- |
 | Sheet rule | one item per row; if not listed, not carried | one item per row; horse/wagon sheet if carried for you | inventory is a written-state contract |
 | Base limit | Strength x2 | Grit x2 | primary physical attribute x2 |
@@ -389,7 +389,7 @@ Use three grains:
 
 ### 11.3 Container and Access Rules
 
-FL makes containers mechanical; West mostly lets horse/wagon carriage handle bulk. The FL container pattern is the stronger generic tool.
+FL makes containers matter in the rules; West mostly lets horse/wagon carriage handle bulk. The FL container pattern is the stronger generic tool.
 
 | Container | Capacity effect | Access / hand cost | Penalty | Use when |
 | --- | --- | --- | --- | --- |
@@ -542,9 +542,9 @@ Use this flow for any game with crafting, construction, or enterprise supply:
 
 **Source proof:** FL raw materials have shelf lives and production functions; FL stronghold functions store and convert them. West property/business equipment creates prerequisites and penalties; outlaw provisions require visible transport.
 
-### 11.9 Dials
+### 11.9 Rule choices
 
-| Dial | FL pole | West pole | Generic choice |
+| Choice | FL pole | West pole | Generic choice |
 | --- | --- | --- | --- |
 | Inventory detail | strict rows + containers | strict rows but lighter container detail | row strictness |
 | Consumables | Resource Dice default | Resource Dice optional | survival default |
@@ -640,7 +640,7 @@ Use these checks when designing a new inventory or logistics rule.
 
 YZE economics are not about simulating a market. They are about making long-term choices carry forward.
 
-**FL says:** if you want a capability, you must find the place, materials, labor, time, and skilled hands to build it. The payoff is usually a function: crafting access, storage, food production, defense, recruitment, healing, travel, market access, or metacurrency support.
+**FL says:** if you want a capability, you must find the place, materials, labor, time, and skilled hands to build it. The payoff is usually a function: crafting access, storage, food production, defense, recruitment, healing, travel, market access, or Willpower/Faith support.
 
 **West says:** if you want position, you must tie money into assets and accept illiquidity, debt, reputation, business risk, and seasonal fortune. The payoff is cash flow, wages, dividends, property status, town growth, and social leverage.
 
@@ -746,7 +746,7 @@ Use this only after checking the source examples.
 | Broad +2 local bonus | FL Library/Laboratory +2 | function + staff/location-bound |
 | Production engine | FL Field/Garden/Mine; West seasonal cash feature | seasonal/weekly output + event/spoilage risk |
 | Security/defense | FL Ramparts/Guard Tower; West Strong Room | significant materials/cash, reduces intrusion |
-| Metacurrency/recovery | FL Stronghold WP; West Open Fireplace Faith | once/session/period cap + base vulnerability |
+| Willpower/Faith/recovery | FL Stronghold WP; West Open Fireplace Faith | once/session/period cap + base vulnerability |
 | Scale/reputation | FL Fortress/Castle/Palace; West Status 6-8 | high asset cost + public attention |
 
 **Design rule:** a function's price is not only its cost. Its price is also time, staff, location, upkeep, event exposure, and opportunity cost.
@@ -764,7 +764,7 @@ West gives the cleanest YZE asset economy.
 - Loans create seasonal interest, collateral, and foreclosure risk.
 - Business or property can go bust/forfeit if Capital reaches zero or debt cannot be covered.
 
-**Generic abstraction:** Illiquid investment should be easy to create, hard to move, risky to liquidate, and vulnerable to debt.
+**Abstract pattern:** Illiquid investment should be easy to create, hard to move, risky to liquidate, and vulnerable to debt.
 
 #### 6.2 Property Status Curve
 
@@ -875,7 +875,7 @@ Use this translator to move between FL-style construction and West-style investm
 | preserves supplies | Granary/Root Cellar | Root Cellar/Barn | storage function |
 | protects valuables | Vault | Strong Room | security function |
 | grants public standing | Fortress/Castle/Temple/Theatre | Status 6+, lamps, porch, property | reputation/status asset |
-| generates metacurrency/recovery | stronghold base effect, Shrine | Open Fireplace, church support | capped recovery/metacurrency source |
+| generates Willpower/Faith/recovery | stronghold base effect, Shrine | Open Fireplace, church support | capped recovery/Willpower/Faith source |
 | grows community | stronghold attracts residents | town amenity/aspect tally | civic improvement |
 
 #### 9.2 Cost Bands
@@ -926,7 +926,7 @@ Do not price an asset only by its name. Price the outcome it creates. FL functio
 | Fortune modifier | West Latrine/Root Cellar/Well add Units-die modifiers to Personal Fortune | improves event table posture, not direct cash | property-bound, period-limited |
 | Security penalty | West Secure Fixings -1, Strong Room -3; FL Vault/Guard Tower/Ramparts | penalizes intrusion or improves defense | fixed target, does not attack enemies by itself |
 | Storage preservation | FL Granary/Root Cellar x10 shelf life; West Root Cellar fortune help | extends shelf life or protects stock | stockpile still needs place, guard, transport |
-| Recovery/metacurrency | FL stronghold +1 WP/session at home; West Open Fireplace bonus Faith once/session | once/session or once/period recovery/refuel | base vulnerability, comfort/time requirement |
+| Recovery/Willpower/Faith | FL stronghold +1 WP/session at home; West Open Fireplace bonus Faith once/session | once/session or once/period recovery/refuel | base vulnerability, comfort/time requirement |
 | Reputation/status | FL Fortress/Castle/Palace; West Status 6-8/Kerosene Lamps | social modifier, recognition, access | public attention, cost, maintenance, rivalry |
 | Civic aspect growth | West town amenities | changes future town modifiers | one-season delay, aspect floor, SP/amenity limits |
 
@@ -944,7 +944,7 @@ Do not price an asset only by its name. Price the outcome it creates. FL functio
 | Produces bulk yearly stores | FL field/garden/pasture scale; requires land, season, labor, storage |
 | Protects valuables at -3 intrusion | West Strong Room / FL Vault scale; high feature/function cost |
 | Adds Fame/Reputation | visible property/status feature; invite attention and social consequences |
-| Adds metacurrency | once/session cap and requires rest/shift/day at owned safe place |
+| Adds Willpower/Faith | once/session cap and requires rest/shift/day at owned safe place |
 | Improves settlement modifiers | one season delay and community aspect bookkeeping |
 
 #### 9.7 Business Bonus and Penalty Calibration
@@ -1056,8 +1056,8 @@ Use this for caravans, freight lines, smugglers, riverboats, pack trains, starsh
 | Origin profile | surplus/ordinary/scarce source | buy-side modifier |
 | Destination profile | surplus/ordinary/scarce destination | sell-side modifier |
 | Perishability | none / days / route / season | clock against delay |
-| Fragility | none / rough road / combat / weather | hazard interface |
-| Route | distance, terrain, tolls, water, danger | travel interface |
+| Fragility | none / rough road / combat / weather | hazard handshake |
+| Route | distance, terrain, tolls, water, danger | travel handshake |
 | Market intelligence | rumor, contact, false lead, old price | uncertainty source |
 | Reputation | caravan name, reliability, fear, scandal | future access and price |
 | Return load | contract, passenger, empty, backhaul cargo | stops one-way profit loops |
@@ -1084,9 +1084,9 @@ Use this for caravans, freight lines, smugglers, riverboats, pack trains, starsh
 | 2 | Good sale. Profit is meaningful; choose one: reputation +1, return contract, passenger, rumor, bulk buyer, avoided cost. |
 | 3+ | Breakout sale. Strong profit and two benefits; each extra success may increase margin, sell unsold cargo, or improve future market position. |
 
-#### Cargo dials
+#### Cargo choices
 
-| Dial | Low-detail pole | High-detail pole |
+| Choice | Low-detail pole | High-detail pole |
 | --- | --- | --- |
 | Capacity | one cargo slot per vehicle | load units by transport |
 | Price | fixed margin | buy/sell profiles + market roll |
@@ -1121,9 +1121,9 @@ Use this for poker, dice, horse wagering, illegal fight books, speculative tradi
 
 **Gambling validation:** gambling should create hooks as often as money. If the only output is profit, the optimal play becomes repetitive bankroll grinding. Always bind large wins to witnesses, reputation, debt, law, enemies, or social leverage.
 
-### 12.11 Dials
+### 12.11 Rule choices
 
-| Dial | FL pole | West pole | Generic choice |
+| Choice | FL pole | West pole | Generic choice |
 | --- | --- | --- | --- |
 | Cost unit | raw materials + labor | cash + Capital | material vs asset economy |
 | Construction resolution | Crafting roll; failure flaw/lockout | pay cost/time; haggling possible | roll-risk vs capital/time certainty |
@@ -1275,9 +1275,9 @@ Roll or choose when the device is pushed, overused, badly maintained, activated 
 | 61-63 | runaway: effect continues one round/turn longer than wanted |
 | 64-66 | catastrophe: explosion, possession, fatal flaw, public disaster, or permanent break |
 
-### 13.6 Payload menu
+### 13.6 Effect menu
 
-| Payload | Low effect | Strong effect | Required brake |
+| Effect | Low effect | Strong effect | Required brake |
 | --- | --- | --- | --- |
 | Blast | area noise, knockdown | area damage | loud, rare charge, friendly fire |
 | Acid/corrosion | weaken lock/armor | destroy barrier/gear | dangerous storage, splash |
@@ -1314,7 +1314,7 @@ Roll or choose when the device is pushed, overused, badly maintained, activated 
 | Decision | FL option | West option | Trade-off | When to choose |
 | --- | --- | --- | --- | --- |
 | **Economy model** | Barter + commodity silver; gold ceremonial | Cash (dollars) + Capital + loans + salaries | Scarcity-as-story vs money-as-story | FL pole for survival/post-collapse; West pole for any genre where property, debt, or business is a pillar |
-| **Large-denomination store** | Ceremonial gold (prestige, +lead time) | Investment Capital ($250=1; liquidates D6×$50) | Static prestige vs liquidatable-but-risky assets | Use Capital only if you want an *asset/business* subsystem; otherwise ceremonial-gold is lighter |
+| **Large-denomination store** | Ceremonial gold (prestige, +lead time) | Investment Capital ($250=1; liquidates D6×$50) | Static prestige vs liquidatable-but-risky assets | Use Capital only if you want an *asset/business* rule set; otherwise ceremonial-gold is lighter |
 | **Credit / debt** | None | Seasonal-interest loans (5–10%), collateral, foreclosure | No debt drama vs default-as-story-beat | Include loans when debt should be a lever NPCs and PCs pull on each other |
 | **Income stream** | Ad hoc (loot, favors, stronghold) | Salaries table + business rolls + hired-hands day-wages | Found money vs predictable budget | Salaries for settled/working characters; ad hoc for drifters/raiders |
 | **Property model** | Stronghold = craft project (materials + labor + time) | Property Status 0–8 (Capital-priced) + Location + Features | Build-it-yourself vs buy/haggle/auction | West model when *owning* is the game; FL model when *building* is the game |
@@ -1325,18 +1325,18 @@ Roll or choose when the device is pushed, overused, badly maintained, activated 
 | **Feature grammar shape** | Tags double as action-prerequisites (Parrying→PARRY, Hook→SHOVE) | Three layers: Features (stats) / Qualities (pos, max 4, stack) / Conditions (neg, Trouble-driven) | Unified action-gating tags vs separated good/bad stacks | FL model when loadout should drive *tactical options*; West model when you want clean positive/negative optimization |
 | **Quality tier high-end effect** | +1 Gear Die (combat bonus) + status | +1 gear bonus (one-cap) *or* ignore first Worn + resale/social | Mechanical power vs social/economic load | FL for lethal games where Fine must *hit harder*; West for games where Fine is about *standing* |
 | **Low quality split** | Crude (breaks at 0) | Poor (badly made) + Worn (used hard) — two distinct low tiers | One low tier vs origin-quality vs acquired-wear | West's split is more expressive; use it when *provenance* of gear matters |
-| **Degradation mechanism** | Continuous counter (Bonus ticks down on push 💀/penetration) | Discrete Conditions (named tags from D6 table, Trouble-driven) | Granular attrition vs narrative breakage | FL's counter when gear is a resource pool; West's tags for lighter bookkeeping |
-| **Legendary tier** | Artifact die (D8/D10/D12) + named + oddity table | None (nearest analogue: Faith metacurrency) | Escalating-success-die + story-loaded items vs flat power ceiling | Include for fantasy/pulp; omit for grounded/historical |
+| **Degradation rule pattern** | Continuous counter (Bonus ticks down on push 💀/penetration) | Discrete Conditions (named tags from D6 table, Trouble-driven) | Granular attrition vs narrative breakage | FL's counter when gear is a resource pool; West's tags for lighter bookkeeping |
+| **Legendary tier** | Artifact die (D8/D10/D12) + named + oddity table | None (nearest analogue: Faith) | Escalating-success-die + story-loaded items vs flat power ceiling | Include for fantasy/pulp; omit for grounded/historical |
 | **Consumables tracking** | Resource dice as default (Arrows/Torches/Food/Tools) | Resource dice as Optional Module; loose counting default | Always-on logistics pressure vs opt-in survival mode | Default-on for wilderness/survival; default-off for urban/cinematic |
 | **Crafting depth** | Full unit-economy (fractional raw materials, material ladder, masterwork) | Folded into Availability/Quality + business prerequisites | Deep simulation vs light resolution | FL depth when *crafting is a pillar*; West lightness otherwise |
 | **Material-quality ladder** | Iron→Wrought→Steel→Crucible→Dwarven (+1 to +3, talent-gated) | (not present — quality is a buyable grade, not a craftable material) | Make-it-better-by-being-better vs buy-it-better | Port the ladder for any genre where *crafting mastery* should scale output |
 
-## 15. Dials and instantiation recipe
+## 15. Rule Choices and Build Recipe
 
-Each dial has FL and West as two calibrated points. To build a new game's gear-and-economy layer, set each dial.
+Each choice has FL and West as two calibrated points. To build a new game's gear-and-economy layer, set each choice.
 
-1. **Economy model** — barter+commodity / cash / cash+capital / multi-currency. *(Sets what characters struggle for. The single most tone-defining gear dial.)*
-2. **Large-denomination store** — ceremonial prestige-gold / liquidatable Capital / none. *(Whether an asset-and-business subsystem exists.)*
+1. **Economy model** — barter+commodity / cash / cash+capital / multi-currency. *(Sets what characters struggle for. The single most tone-defining gear choice.)*
+2. **Large-denomination store** — ceremonial prestige-gold / liquidatable Capital / none. *(Whether an asset-and-business rule set exists.)*
 3. **Credit** — none / seasonal-interest loans with collateral / full banking. *(Whether debt is a lever.)*
 4. **Income stream** — ad hoc / seasonal salaries / business rolls / rents. *(How characters get money.)*
 5. **Property model** — none / craft-project stronghold / rated-asset Status ladder. *(Whether owning things is a pillar.)*
@@ -1346,22 +1346,22 @@ Each dial has FL and West as two calibrated points. To build a new game's gear-a
 9. **Weapon stat model** — degrading Gear Dice (weapon-as-resource) / flat modifiers. *(Whether gear is itself a cost face.)*
 10. **Feature grammar shape** — action-prerequisite tags (FL) / three-layer stats+qualities+conditions (West). *(How loadout drives play.)*
 11. **Quality ladder** — 3-tier / 4-tier (split low); high-end = combat bonus (FL) / social bonus (West). *(What "Fine" means.)*
-12. **Degradation mechanism** — continuous counter (FL) / discrete Conditions (West). *(How gear gets worse — must match dial 9 and the push-cost model from `00 §6`.)*
+12. **Degradation rule pattern** — continuous counter (FL) / discrete Conditions (West). *(How gear gets worse — must match choice 9 and the push-cost model from `00 §6`.)*
 13. **Legendary tier** — on (artifact die + oddities) / off. *(Power ceiling; omit for grounded genres.)*
 14. **Consumables tracking** — resource dice default-on / default-off (loose counting). *(Whether logistics is always-on or opt-in.)*
 15. **Crafting depth** — full unit-economy + material ladder / folded into availability. *(Whether making things is a pillar.)*
 16. **Strange Devices** — off / ordinary gear tags / contraptions with charges + misfires / power-adjacent prototypes. *(Whether unstable inventions are a pillar.)*
 
 **Instantiation recipe (any genre):**
-1. **Set the economy model (dial 1)** first — it does more to set the *feel* of gear than any other choice. Decide whether your characters are *starved* of money (FL pole) or *managed* by it (West pole).
-2. **Decide the property/asset layer (dials 2–5)** as a block: include Capital+loans+salaries+property *only* if owning/business/debt is intended to be a pillar. Otherwise strip it all (FL).
-3. **Port the availability/scarcity table (dials 6–8)** near-verbatim from §3 — it is shared machinery. Default to West's settlement-tag + two-sided-price version.
-4. **Choose the feature grammar shape (dial 10)** — this is the central design decision for *gear feel*. Use FL's action-prerequisite tags if loadout should unlock tactical options; use West's three-layer model if you want clean positive/negative optimization. In either case, port §6.4's architecture.
-5. **Align the weapon-stat, degradation, and push-cost models (dials 9, 12, and `00 §6`)** — these *must* be consistent: degrading Gear Dice pair with bane-self-harm; flat mods + Conditions pair with currency-spend + Trouble.
-6. **Set quality + condition + legendary (dials 11, 13)** to the genre's power ceiling and grit level.
-7. **Set consumables tracking (dial 14)** to the genre's logistics appetite (default-on for survival, default-off for cinematic).
-8. **Decide crafting depth (dial 15)** and, if deep, port the material-quality ladder (§5.2).
-9. **Decide Strange Devices (dial 16)** if inventions, alchemy, gadgets, occult tools, prototypes, or alien devices need more than ordinary gear tags.
+1. **Set the economy model (choice 1)** first — it does more to set the *feel* of gear than any other choice. Decide whether your characters are *starved* of money (FL pole) or *managed* by it (West pole).
+2. **Decide the property/asset layer (choices 2–5)** as a block: include Capital+loans+salaries+property *only* if owning/business/debt is intended to be a pillar. Otherwise strip it all (FL).
+3. **Port the availability/scarcity table (choices 6–8)** near-verbatim from §3 — it is shared machinery. Default to West's settlement-tag + two-sided-price version.
+4. **Choose the feature grammar shape (choice 10)** — this is the central design decision for *gear feel*. Use FL's action-prerequisite tags if loadout should unlock tactical options; use West's three-layer model if you want clean positive/negative optimization. In either case, port §6.4's architecture.
+5. **Align the weapon-stat, degradation, and push-cost models (choices 9, 12, and `00 §6`)** — these *must* be consistent: degrading Gear Dice pair with bane-self-harm; flat mods + Conditions pair with currency-spend + Trouble.
+6. **Set quality + condition + legendary (choices 11, 13)** to the genre's power ceiling and grit level.
+7. **Set consumables tracking (choice 14)** to the genre's logistics appetite (default-on for survival, default-off for cinematic).
+8. **Decide crafting depth (choice 15)** and, if deep, port the material-quality ladder (§5.2).
+9. **Decide Strange Devices (choice 16)** if inventions, alchemy, gadgets, occult tools, prototypes, or alien devices need more than ordinary gear tags.
 10. **Validate against the math** (see `13-balance-and-synergy.md`): expected weapon damage per round, time-to-Broken, degradation rate vs repair cadence, resource-die exhaustion length for a typical expedition, salary-vs-lifestyle cash flow over a season, and Strange Device charge/misfire cadence.
 
 ## 16. Design intent
@@ -1370,10 +1370,10 @@ The gear-and-economy layer is engineered so that **what a character carries and 
 
 - **The feature grammar makes gear *feel* different, not just numerically different.** A dagger and a shortsword have the same Damage and Bonus; what separates them is `Short-reach, no Parrying` vs `Parrying, Tough`. Tags carry *meaning* — and because tags double as action-prerequisites (FL) or stack into a profile (West), loadout becomes a *tactical and expressive* choice rather than a DPS optimization. This is why the grammar is the file's central deliverable: it is the part of the system that survives any reskin.
 - **The availability table makes *geography* matter.** Scarcity is not a price modifier tacked on at the end — it is the rule that *decides whether the item exists at all* in this settlement, and the settlement's tags (Mercantile, Law, amenities, railroad) make the world's map a gear-gating surface. You can't get a fine rifle in a town with no gunsmith; you can't get illicit goods openly where Law is 5–6. The world *is* the shop.
-- **The economy model *is* the genre's statement about value.** FL's barter+ceremonial-gold says scarcity and isolation are the story; West's cash+capital+loans says money, debt, and reputation are the story. The same engine produces opposite tones by swapping the currency — exactly as the core loop does by swapping the push-cost model (`00 §12`). A new genre must find *its* relationship to money and wire the dial to it.
+- **The economy model *is* the genre's statement about value.** FL's barter+ceremonial-gold says scarcity and isolation are the story; West's cash+capital+loans says money, debt, and reputation are the story. The same engine produces opposite tones by swapping the currency — exactly as the core loop does by swapping the push-cost model (`00 §12`). A new genre must find *its* relationship to money and wire the choice to it.
 - **Crafting takes in-fiction time and gates**, so it ties into the downtime/season loop (`06-travel-and-downtime.md`) rather than being a between-combat menu. The four gates (talent, workshop, materials, time) and the material ladder mean *being a better craftsman literally produces better goods* — mastery has a material payoff.
 - **Quality + condition + degradation make gear a *lived* object.** A Fine sword that you've kept Fine, a Standard one now Worn, a Crude club about to snap — these tell the character's history. And because degradation is wired to the engine's existing failure layer (push 💀 / Trouble), *gear wears out for the same reason characters get hurt*, unifying the pressure.
 - **The legendary tier (artifact die + oddities) makes top-tier gear *wanted and feared*, not just owned.** A +2 sword is forgettable; "Alur's Cloak, which whispers paranoid fantasies and grows stronger in the wilderness" is not. The oddity table is the proof that *a magic item is a story, not a stat*.
 - **Consumables-as-resource-dice convert logistics into drama.** "I have 14 arrows" is bookkeeping; "my Arrow Die is D6 and every fight might cost me a step" is a gamble. It is the consumables analogue of the push: each use is a small decision with a real downside, and resupply becomes an event rather than a line item.
 
-The divergence between FL and West is the engine's proof that **the same availability table, feature grammar, and quality ladder support opposite genres by changing the economy dial and the degradation mechanism.** FL's degrading Gear Dice and barter economy make a game where *your body and your axe are the same kind of scarce*; West's flat mods, Conditions, and cash+capital make a game where *your gun and your wallet degrade by different logics*. A new genre's job is to choose, for each dial, which logic its world runs on — and the grammar, the table, and the ladder will port unchanged.
+The divergence between FL and West is the engine's proof that **the same availability table, feature grammar, and quality ladder support opposite genres by changing the economy choice and the degradation rule pattern.** FL's degrading Gear Dice and barter economy make a game where *your body and your axe are the same kind of scarce*; West's flat mods, Conditions, and cash+capital make a game where *your gun and your wallet degrade by different logics*. A new genre's job is to choose, for each choice, which logic its world runs on — and the grammar, the table, and the ladder will port unchanged.

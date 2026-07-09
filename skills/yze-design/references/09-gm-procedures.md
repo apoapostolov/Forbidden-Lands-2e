@@ -16,7 +16,7 @@
 8. Consequence / fortune / faction tracks
 9. Adventure-site structure
 10. Divergence rows (FL vs West)
-11. Dials and instantiation recipe
+11. Rule Choices and Build Recipe
 12. Design intent
 
 ## Source provenance
@@ -51,7 +51,7 @@ FL states seven explicit principles to "help you create the right feeling in the
 | **3. The Adventurers Make Their Own Fate** (`:41-45`) — no assigned missions; build on player choices; ask questions | **Say-yes-to-player-agenda / ask-and-build** — the GM listens, asks follow-up questions, and writes challenges that answer the players' stated wants. No pure good/evil; the table decides what's right. | Mine character creation for hooks; never override a declared PC intent with plot armor. |
 | **4. Nothing Is for Free** (`:47-51`) — the more they want, the more they fight; struggle for necessities; hold back rewards | **Scarcity / cost-of-safety** — desire indexes price; safety, food, water, treasure are all under pressure; "never let them feel content for more than a second." | Gate every gain behind a roll, a cost, or a risk; see `10-design-philosophy.md` §6. |
 | **5. Them That's Got Shall Lose** (`:53-57`) — riches attract predators; a stronghold must be defended | **Acquisition-as-target / the tall-flower axiom** — every pile of loot or base the party builds becomes a magnet for rivals, siege, and intrigue. | Convert PC wealth into NPC motive; turn the base into a defended asset (see §8 tracks, `07-base-faction-mass-scale.md`). |
-| **6. Death Is Part of the Story** (`:59-63`) — easy to break, hard to die; never kill a defenseless PC; mark the tomb and journey on | **Lethality-as-story / no execution of the helpless** — death is possible and meaningful; the GM protects *narrative* death over *mechanical* death, but does not make PCs immortal. | Allow death at real stakes; never execute a helpless PC when a more interesting fate exists; ritualize the loss (tombstone on the map). Cross-ref `04-harm-and-consequences.md`. |
+| **6. Death Is Part of the Story** (`:59-63`) — easy to break, hard to die; never kill a defenseless PC; mark the tomb and journey on | **Lethality-as-story / no execution of the helpless** — death is possible and meaningful; the GM protects *story* death over *rules* death, but does not make PCs immortal. | Allow death at real stakes; never execute a helpless PC when a more interesting fate exists; ritualize the loss (tombstone on the map). Cross-ref `04-harm-and-consequences.md`. |
 | **7. The End Is Never Set** (`:65-67`) — never predetermine the finale; the climax is the *choices*, not the battle | **Emergent finale** — even scripted campaign modules offer only a *suggested* climax; the decisive moment is the players' choice, not the GM's set-piece. | Frame endings around decision points, not set battles; let the finale be what the accumulated choices make it. |
 
 **Supporting procedures (FL, generalized):**
@@ -76,9 +76,9 @@ FL states seven explicit principles to "help you create the right feeling in the
 
 The signature trait: **encounters are situations, not statblocks.** Most can be resolved without combat; many *should* be. Slavers (`:124-143`), bandits (`:202-221`), bounty hunters (`:630-636`) each carry a named leader, a reason they are here, and a fork the party's choices determine. **Layer: General.**
 
-**Reoccurring encounters (`:41-48`):** when the same entry is rolled again, choose one: (a) **continue** — the same people/creature return, changed by the last meeting; (b) **change** — a similar but different entity; (c) **re-roll.** This is the engine's *memory* mechanic — it turns a flat random table into a *growing cast*. FL's standout example is the Demon Baker (`:288-301`), whose three documented return-states (cottage → 70 loaves → march on the village) model how a reoccurring encounter *escalates on a clock of its own*. **Layer: General.**
+**Reoccurring encounters (`:41-48`):** when the same entry is rolled again, choose one: (a) **continue** — the same people/creature return, changed by the last meeting; (b) **change** — a similar but different entity; (c) **re-roll.** This is the engine's *memory* rule — it turns a flat random table into a *growing cast*. FL's standout example is the Demon Baker (`:288-301`), whose three documented return-states (cottage → 70 loaves → march on the village) model how a reoccurring encounter *escalates on a clock of its own*. **Layer: General.**
 
-**Generic abstraction — "the random-but-weighted table":** a D66 selector whose result is *remapped by a context column* (terrain, district, faction territory, season), plus a reoccurring rule that gives the table memory. The **dials** are: (1) the number of context columns, (2) the "no-encounter" floor (how much of the table is safe), (3) the density of named/situational entries vs. pure-combat entries, (4) whether reoccurring encounters escalate on a track. FL is the high-density, high-situation pole; a lighter game might use a D6 table with one column and pure-statblock entries.
+**Abstract pattern — "the random-but-weighted table":** a D66 selector whose result is *remapped by a context column* (terrain, district, faction territory, season), plus a reoccurring rule that gives the table memory. The **choices** are: (1) the number of context columns, (2) the "no-encounter" floor (how much of the table is safe), (3) the density of named/situational entries vs. pure-combat entries, (4) whether reoccurring encounters escalate on a track. FL is the high-density, high-situation pole; a lighter game might use a D6 table with one column and pure-statblock entries.
 
 ## 5. Settlement / town generators (the settlement-as-character model)
 
@@ -102,10 +102,10 @@ Both games treat the home settlement as **a character with attributes, a state t
 **West — Your Town (`08-campaigns-in-the-old-west.md:67-442`):** the same model, formalized and player-facing.
 - **Six Aspects** (`:67-110`): Farming, Mercantile, Natural Riches, Law, Civic, Welfare — each ranked 1–6, advanced by **tally points** (`:73-84`).
 - **Prosperity** (`:112-126`): the sum of aspect ranks (6–36), which sets the town's size tier (Trading Post→City) and the modifier on the Town Fortune roll.
-- **Amenities** (`:128-442`): the player-driven growth mechanism — each Turn of the Season the group chooses one amenity to build (a church, gallows, wells, saloons, railroad station…); each modifies aspect tallies, sometimes trading one aspect down to boost another (Gold Rush: Mercantile +2, Law −1). Prerequisites and min-Civic-rank gates create a tech-tree feel. Extra amenities cost **Settlement Points** (5 SP each), earned by community-spirited play (`:146-154`).
+- **Amenities** (`:128-442`): the player-driven growth rule pattern — each Turn of the Season the group chooses one amenity to build (a church, gallows, wells, saloons, railroad station…); each modifies aspect tallies, sometimes trading one aspect down to boost another (Gold Rush: Mercantile +2, Law −1). Prerequisites and min-Civic-rank gates create a tech-tree feel. Extra amenities cost **Settlement Points** (5 SP each), earned by community-spirited play (`:146-154`).
 - **Failure state** (`:522-535`): if any aspect drops below rank 1, the town fails — no new amenities, all aspects decay one rank per season, people leave. "The town is finished."
 
-**Generic abstraction — "the living settlement":** a settlement is a **character sheet for a place** with: (a) **attributes** that rate its capacity (FL: condition/locations/resources; West: six aspects), (b) a **state machine** that changes it between visits on a dice-plus-variables roll (FL vicissitudes 3D6; West fortune rolls), (c) **internal-faction pressure gauges** (FL Need/Heat; West Competition/Law modifiers), (d) a **resource economy** that degrades and recovers (FL resource dice; West tally points and aspect ranks), and (e) a **growth mechanism driven by player investment** (FL: the party builds functions/defends the stronghold; West: the party spends SP on amenities). **Layer: General** (the settlement-as-character model); the specific attribute set and growth mechanism are **core design dials**.
+**Abstract pattern — "the living settlement":** a settlement is a **character sheet for a place** with: (a) **attributes** that rate its capacity (FL: condition/locations/resources; West: six aspects), (b) a **state machine** that changes it between visits on a dice-plus-variables roll (FL vicissitudes 3D6; West fortune rolls), (c) **internal-faction pressure gauges** (FL Need/Heat; West Competition/Law modifiers), (d) a **resource economy** that degrades and recovers (FL resource dice; West tally points and aspect ranks), and (e) a **growth rule pattern driven by player investment** (FL: the party builds functions/defends the stronghold; West: the party spends SP on amenities). **Layer: General** (the settlement-as-character model); the specific attribute set and growth rule pattern are **core design choices**.
 
 ### 5.5 Civic, legal, and reputation procedures
 
@@ -203,7 +203,7 @@ Gear: Revolver, rifle, length of rope.
 ```
 Each entry has a one-line characterization + 3 suggested talents (Basic rank) + suggested gear. The 8 "columns" are: Name | 4 attributes | skills (grouped) | talents | gear — a glanceable roster, not a full sheet.
 
-**Generic abstraction — "the minimal statblock":** **4 attributes + 1–4 skills (only those that matter) + 0–3 talents + gear (weapon/armor/coin).** Add **special tags** only when the NPC breaks a core rule (SLOW, INVULNERABLE, armor-as-static-rating, etc.). The **dials** are: (1) layout (FL's inline prose for embedded encounters vs. West's table-row roster for a quick-reference bestiary), (2) whether to generate procedurally (FL village generator) or hand-author (West archetypes), (3) the attribute ceiling for "named" NPCs (FL allows 8 vs. PC 6). **Layer: General.**
+**Abstract pattern — "the minimal statblock":** **4 attributes + 1–4 skills (only those that matter) + 0–3 talents + gear (weapon/armor/coin).** Add **special tags** only when the NPC breaks a core rule (SLOW, INVULNERABLE, armor-as-static-rating, etc.). The **choices** are: (1) layout (FL's inline prose for embedded encounters vs. West's table-row roster for a quick-reference bestiary), (2) whether to generate procedurally (FL village generator) or hand-author (West archetypes), (3) the attribute ceiling for "named" NPCs (FL allows 8 vs. PC 6). **Layer: General.**
 
 ## 7. Solo-play engine (the GMless layer)
 
@@ -219,20 +219,20 @@ Each entry has a one-line characterization + 3 suggested talents (Basic rank) + 
   - **Theme oracle** (`:206-224`): a 4-suit × 13-value table of dramatic themes (Balance, Loss, Conflict, Failure…) to interpret ambiguous situations.
   - Plus **Wilderness** (location flavor), **Kin**, **Kin Names**, and **Traits** oracles for on-the-fly generation.
 
-**Generic abstraction — "the GMless layer":** for each GM function (scene framing, NPC behaviour, hidden information, "does something happen," "is this NPC friendly"), substitute a **draw-and-interpret oracle** with a built-in bias dial (Likely/Unlikely draw counts). Add a **turn procedure** that structures time (the quarter-day/shift loop) and a **companion/sidekick** rule so a single PC can survive. The bias dial is what keeps solo play from feeling like coin-flips — "Likely" draws two-take-best, modeling the GM's sense that the fiction leans a certain way. **Layer: Optional.**
+**Abstract pattern — "the GMless layer":** for each GM function (scene framing, NPC behaviour, hidden information, "does something happen," "is this NPC friendly"), substitute a **draw-and-interpret oracle** with a built-in bias choice (Likely/Unlikely draw counts). Add a **turn procedure** that structures time (the quarter-day/shift loop) and a **companion/sidekick** rule so a single PC can survive. The bias choice is what keeps solo play from feeling like coin-flips — "Likely" draws two-take-best, modeling the GM's sense that the fiction leans a certain way. **Layer: Optional.**
 
 ## 8. Consequence / fortune / faction tracks (the campaign-state tracker)
 
-This is the engine's mechanism for making the campaign **remember** — turning one-off choices into accumulating state. Three instantiations, all variations on **a tracked score that translates choices into forward-thrown consequences.**
+This is the engine's rule pattern for making the campaign **remember** — turning one-off choices into accumulating state. Three builds, all variations on **a tracked score that translates choices into forward-thrown consequences.**
 
 **A. The seasonal fortune roll (West — Turn of the Season, `08-campaigns-in-the-old-west.md:537-839`):** at each season turn, three rolls resolve off-screen time:
 - **Season Business Roll** (`:555-644`): the proprietor rolls their key ability + helpers (+3 max) + competition modifier (−2 to +2) + town's Law aspect + business-relevant aspect. 0 successes = business loses money (roll on the Business Penalty table); 1 = steady; 2+ = bonus (roll on the Business Bonus table, +1 to tens die per extra success). **Cannot be pushed; no Trouble** — this is a resolution roll, not a dramatic one.
 - **Personal Fortune Roll** (`:706-766`): each PC rolls D66 (modified by the town's Welfare aspect) on a table of 50+ personal events — deaths, scandals, legacies, romance, new enemies, windfalls. "Jackpot" (66) and "Calamity" (11) always count regardless of modifier. This is the engine generating character-driven adventure hooks *for the GM.*
 - **Town Fortune Roll** (`:768-839`): D66 (modified by Prosperity) producing town-scale events (disease, wildfires, cattle drives, boom times) that modify aspects and generate the next season's pressure.
 
-The genius: **the settlement's attributes (§5) feed back into the fortune rolls**, so a well-developed town makes its residents richer and safer, and a neglected one makes them poorer and endangered. Player investment in the town is mechanically rewarded across seasons.
+The genius: **the settlement's attributes (§5) feed back into the fortune rolls**, so a well-developed town makes its residents richer and safer, and a neglected one makes them poorer and endangered. Player investment in the town is rewarded by the rules across seasons.
 
-**B. The faction-standing ledger (West — Quiet Title, `03-adventures/01-quiet-title.md:211-226`):** track the party's standing with four groups on a 0+ scale — `Comunidad Trust`, `Company Pressure`, `Gold Camp Standing`, `Mountain Trust`. Each major choice moves one or more tracks ±1. Each track **throws visible consequences forward** at thresholds: high Comunidad Trust opens doors and hides witnesses; low Comunidad Trust closes the plaza and turns the acequia away. `Company Pressure` runs inverse — *high* pressure means the Company has leverage (blackmail, a warrant) over the party. This makes faction relations *mechanical*, not just flavor.
+**B. The faction-standing ledger (West — Quiet Title, `03-adventures/01-quiet-title.md:211-226`):** track the party's standing with four groups on a 0+ scale — `Comunidad Trust`, `Company Pressure`, `Gold Camp Standing`, `Mountain Trust`. Each major choice moves one or more tracks ±1. Each track **throws visible consequences forward** at thresholds: high Comunidad Trust opens doors and hides witnesses; low Comunidad Trust closes the plaza and turns the acequia away. `Company Pressure` runs inverse — *high* pressure means the Company has leverage (blackmail, a warrant) over the party. This makes faction relations *rules-facing*, not just flavor.
 
 **C. The week-ticked faction clock (West — Quiet Title, `:304-321`):** a table where each row is a week and each column is a faction; the entry in each cell is what that faction *does* that week if the party hasn't slowed the clock. Five clocks (Company, Gold Camp, Plaza, Mountain, Witness) tick simultaneously; when two fire the same week, "that is a real session." The party's choices **slow or speed** each clock (`:323-343`): burn a survey wagon to slow Company Pressure; frighten the witness to speed his flight. The hearing at week 12 is the convergence point. **This is the engine's "the world advances on its own terms" doctrine made operational.**
 
@@ -242,7 +242,7 @@ The genius: **the settlement's attributes (§5) feed back into the fortune rolls
 - **Justice & retaliation** (`:965-976`): a 6-step escalation procedure that is, in effect, a Heat track the party can raise and pay down.
 - **Vicissitudes variables** (`:845-857`): each unresolved problem −1, each solved problem +1, agitator −1, firm authority +1 — the settlement's state is itself a track of the party's stewardship.
 
-**Generic abstraction — "the campaign-state tracker":** a small number of **named scores** (faction standing, settlement aspects, household Heat, a faction clock) that (1) **move on player choices**, (2) **throw consequences forward at thresholds**, and (3) **feed back into the resolution economy** (settlement aspects modify fortune rolls; Reputation weights the event roll; faction standing gates NPC cooperation). The **dials** are: (a) granularity (West's 6 aspects × 6 ranks vs. FL's condition/locations), (b) who rolls (West's player-facing fortune rolls vs. FL's GM-rolled event tables), (c) the clock model (West's simultaneous week-tick vs. FL's monthly vicissitudes), (d) whether tracks are player-visible (West Your Town) or GM-hidden (FL stronghold events). **Layer: General** for "the campaign tracks something"; the specific model is a **core design dial**.
+**Abstract pattern — "the campaign-state tracker":** a small number of **named scores** (faction standing, settlement aspects, household Heat, a faction clock) that (1) **move on player choices**, (2) **throw consequences forward at thresholds**, and (3) **feed back into the resolution economy** (settlement aspects modify fortune rolls; Reputation weights the event roll; faction standing gates NPC cooperation). The **choices** are: (a) granularity (West's 6 aspects × 6 ranks vs. FL's condition/locations), (b) who rolls (West's player-facing fortune rolls vs. FL's GM-rolled event tables), (c) the clock model (West's simultaneous week-tick vs. FL's monthly vicissitudes), (d) whether tracks are player-visible (West Your Town) or GM-hidden (FL stronghold events). **Layer: General** for "the campaign tracks something"; the specific model is a **core design choice**.
 
 ## 9. Adventure-site structure
 
@@ -250,7 +250,7 @@ The genius: **the settlement's attributes (§5) feed back into the fortune rolls
 
 **West — the sandbox adventure (`03-adventures/01-quiet-title.md`):** a site/region presented as "a working country, arranged so the GM always has a live scene ready no matter where the party turns" (`:291-301`). Three rules: (1) the obvious route (the field book) is clearest, not only — list multiple roads through; (2) **factions keep their own time** (the clocks in §8C); (3) **let the party feel the weight of its own competence** — reward shortcuts with the next true trouble they create, never with a reset (`:296-301`, `:463+`).
 
-**Generic abstraction — "the site-as-dungeon":** a location built from **locations + NPCs + events + a legend**, with **no preset narrative** — the party's approach determines the shape of play. The **turn** is the exploration clock. Cross-ref the `adventure-writing` sibling skill for prose/craft; here we capture only the *structural* pattern. **Layer: General.**
+**Abstract pattern — "the site-as-dungeon":** a location built from **locations + NPCs + events + a legend**, with **no preset narrative** — the party's approach determines the shape of play. The **turn** is the exploration clock. Cross-ref the `adventure-writing` sibling skill for prose/craft; here we capture only the *structural* pattern. **Layer: General.**
 
 ## 10. Divergence rows (FL vs West)
 
@@ -267,35 +267,35 @@ The genius: **the settlement's attributes (§5) feed back into the fortune rolls
 | **Adventure-site doctrine** | Site-as-dungeon: locations+NPCs+events, no narrative, 15-min turn, legend handouts | Sandbox country: multiple roads through, factions on their own clocks, shortcut-positive | Hexcrawl-site vs. region-sandbox | FL for pointcrawled sites; West for open political country |
 | **Failure / forward motion** | Fail-forward (GM judgement) + reoccurring-encounter memory | Sandbox "country answers back" + faction clocks | GM-adjudicated vs. clock-driven | FL when GM wants authority over pace; West when the table wants the world self-driving |
 
-## 11. Dials and instantiation recipe
+## 11. Rule Choices and Build Recipe
 
-Each dial has FL and West as two calibrated points.
+Each choice has FL and West as two calibrated points.
 
 1. **Principles** — codify 5–7 GM axioms (scarcity, cost-of-safety, death-as-story, emergent-finale, say-yes-to-player-agenda). *(Sets the table's operating tone.)*
 2. **Encounter engine** — D66 selector + N context columns + no-encounter floor + situational-entry density + reoccurring rule (continue/change/re-roll, with optional escalation track). *(How random the world feels.)*
-3. **Settlement model** — attribute set (FL condition/locations vs. West 6 aspects), state-machine roll (vicissitudes 3D6 vs. fortune D66), internal-faction gauge (Need/Heat vs. Competition/Law), growth mechanism (stronghold functions vs. amenity SP), failure state (location collapse vs. aspect-to-zero town failure). *(How the home place lives and dies.)*
+3. **Settlement model** — attribute set (FL condition/locations vs. West 6 aspects), state-machine roll (vicissitudes 3D6 vs. fortune D66), internal-faction gauge (Need/Heat vs. Competition/Law), growth rule pattern (stronghold functions vs. amenity SP), failure state (location collapse vs. aspect-to-zero town failure). *(How the home place lives and dies.)*
 4. **NPC statblock** — layout (inline prose vs. table row), generation (procedural vs. archetype), attribute ceiling for named NPCs. *(Prep speed vs. bestiary reference value.)*
 5. **Solo-play layer** — include/exclude; if included, define the turn procedure, companion rule, and oracle set (yes/no, hostile, theme). *(GMless capability.)*
-6. **Campaign-state tracker** — granularity, roller (GM-hidden vs. player-facing), clock model (simultaneous tick vs. monthly), visibility (hidden vs. tracked on sheet). *(How mechanically the campaign remembers.)*
+6. **Campaign-state tracker** — granularity, roller (GM-hidden vs. player-facing), clock model (simultaneous tick vs. monthly), visibility (hidden vs. tracked on sheet). *(How strongly the campaign remembers.)*
 7. **Adventure-site doctrine** — site-as-dungeon (locations+NPCs+events, no narrative, turn clock) vs. region-sandbox (multiple roads, faction clocks, shortcut-positive). *(Structure of a playable place.)*
 
 **Instantiation recipe (any genre):**
-1. **Write 5–7 GM principles** (dial 1) — scarcity, cost-of-safety, death-as-story at minimum. These are the judgement rules where the dice are silent; without them the procedures below become mechanical.
-2. **Build the encounter engine** (dial 2): decide the selector (D66 or D6/D20), the context columns (terrain/district/faction/season), the no-encounter floor, and write 12–44 situational entries (not pure statblocks). Add the reoccurring rule.
-3. **Pick the settlement model** (dial 3) and decide whether it's GM-authored (FL) or player-owned (West). Define its attribute set, its state-machine roll, its internal-faction gauge, and its failure state.
+1. **Write 5–7 GM principles** (choice 1) — scarcity, cost-of-safety, death-as-story at minimum. These are the judgement rules where the dice are silent; without them the procedures below become rote.
+2. **Build the encounter engine** (choice 2): decide the selector (D66 or D6/D20), the context columns (terrain/district/faction/season), the no-encounter floor, and write 12–44 situational entries (not pure statblocks). Add the reoccurring rule.
+3. **Pick the settlement model** (choice 3) and decide whether it's GM-authored (FL) or player-owned (West). Define its attribute set, its state-machine roll, its internal-faction gauge, and its failure state.
 4. **Add the civic/legal layer** if settlements are more than shops: public identity stack, visit menu, notice-board jobs, and crime procedure.
-5. **Standardize the NPC statblock** (dial 4) — 4 attributes + relevant skills + 0–3 talents + gear + special tags.
-6. **Decide on the campaign-state tracker** (dial 6) — at minimum, one faction-standing or base-event track that throws consequences forward. Add more as the genre demands (political games want multiple faction tracks; survival games want a base-under-siege track).
-7. **Decide on solo-play** (dial 5) — include the oracle layer if solo/co-op/zero-prep is a goal.
-8. **Write one adventure site/region** (dial 7) in the chosen doctrine to validate the whole — locations+NPCs+events+legend, testable without a preset plot.
+5. **Standardize the NPC statblock** (choice 4) — 4 attributes + relevant skills + 0–3 talents + gear + special tags.
+6. **Decide on the campaign-state tracker** (choice 6) — at minimum, one faction-standing or base-event track that throws consequences forward. Add more as the genre demands (political games want multiple faction tracks; survival games want a base-under-siege track).
+7. **Decide on solo-play** (choice 5) — include the oracle layer if solo/co-op/zero-prep is a goal.
+8. **Write one adventure site/region** (choice 7) in the chosen doctrine to validate the whole — locations+NPCs+events+legend, testable without a preset plot.
 
 ## 12. Design intent
 
 The GM-procedures layer exists to make the engine **runnable with minimal prep and honest at the table.** Specifically:
 
-- **The principles are the load-bearing structure.** The dice and tables handle *resolution*; the principles handle *judgement* — every moment the rules are silent, the GM falls back on "nothing is for free," "death is part of the story," "the end is never set." Without these, the procedures below collapse into mechanical simulation. This is why FL foregrounds them as Chapter 2's first section.
+- **The principles are the load-bearing structure.** The dice and tables handle *resolution*; the principles handle *judgement* — every moment the rules are silent, the GM falls back on "nothing is for free," "death is part of the story," "the end is never set." Without these, the procedures below collapse into rote simulation. This is why FL foregrounds them as Chapter 2's first section.
 - **The encounter engine makes the world feel alive without scripted plot.** The terrain-keyed D66 matrix + the reoccurring rule turn a flat random table into a *growing, weighted cast* — the party meets the same demon baker twice and the second time he has an army. This is how a sandbox delivers story *without* a pre-written arc.
-- **The settlement-as-character model makes the home place matter.** By giving the settlement attributes, a state machine, internal-faction pressure, and a growth mechanism tied to player investment, both games make "where you live" a participating character in the campaign — one that can prosper, decline, feud, and fail. This is the engine's strongest transferable procedure.
+- **The settlement-as-character model makes the home place matter.** By giving the settlement attributes, a state machine, internal-faction pressure, and a growth rule pattern tied to player investment, both games make "where you live" a participating character in the campaign — one that can prosper, decline, feud, and fail. This is the engine's strongest transferable procedure.
 - **The campaign-state trackers make the campaign remember.** Faction standing, household Heat, aspect ranks, and faction clocks convert one-off choices into accumulating state that *throws consequences forward.* A party that sides with the plaza in week 2 is still living with that choice in week 12. This is what separates a sandbox from a sequence of unconnected episodes.
 - **The minimal statblock and the "NPCs run on narrative" rule keep prep under 30 minutes.** FL is explicit (`02-the-gamemaster.md:97`): "15–30 minutes of preparation is plenty most of the time. Trust the players and the game itself to create action and drama." The procedures exist so the GM can *play* the engine, not *prepare* it forever.
 - **The principles and the settlement model are the most transferable deliverables.** A new genre can swap the encounter table, the statblock nouns, and the tracker names, but the seven axioms (de-flavored) and the settlement-as-character architecture port directly — they are the engine's GM-facing spine.

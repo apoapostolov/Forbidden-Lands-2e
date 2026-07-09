@@ -6,7 +6,7 @@
 
 ## 1. Origin
 
-- **Source primitives:** P6, P7, P8, P9.
+- **Source patterns:** P6, P7, P8, P9.
 - **Operators:** Domain Transfer + Abstraction-Climb.
 - **Target psychology:** coordination under shared risk.
 - **Problem solved:** vehicle play should involve the whole table, not only the pilot.
@@ -19,7 +19,7 @@ A vehicle is a small org with attributes, stations, tags, damage, upkeep, and ro
 
 - **Frame:** light / standard / heavy / colossal.
 - **Attributes:** Hull, Handling, Power, Systems.
-- **Stations:** Helm, Weapons, Engineering, Sensors/Comms, Support.
+- **Stations:** Helm, Weapons, Craft, Sensors/Comms, Support.
 - **Tags:** ARMORED, FAST, FRAGILE, CARGO, STEALTH, LONG-RANGE, TEMPERAMENTAL.
 - **Tracks:** Damage, Stress, Supply, Heat.
 
@@ -39,10 +39,10 @@ Each station can be crewed by one PC. A station may be uncrewed, but if the vehi
 | --- | --- | --- | --- |
 | **HELM** | Maneuver, evade, close, break away | Jink: cancel 1 incoming shift | gain position, impose −1, clear hazard, set range |
 | **WEAPONS** | Fire, lock, ram, suppress | Snap shot: low damage / force reaction | damage, disable tag, pin target, trigger crit |
-| **ENGINEERING** | Repair, reroute, overcharge | Brace: reduce incoming damage by 1 | restore track, add Power, clear tag, prevent crit |
+| **SYSTEMS** | Repair, reroute, overcharge | Brace: reduce incoming damage by 1 | restore track, add Power, clear tag, prevent crit |
 | **SENSORS/COMMS** | Scan, jam, spoof, hail | Mark: give ally +1 | reveal weakness, block signal, create leverage |
 | **SUPPORT** | Treat crew, coordinate, load cargo, handle passengers | Assist station at +1 | clear Stress, move crew, protect asset, recover supply |
-| **COMMAND** (optional) | Issue plan, rally, change objective | Spend metacurrency for team +1 | let two stations share a tag, clear confusion |
+| **COMMAND** (optional) | Issue plan, rally, change objective | Spend Willpower or Faith for team +1 | let two stations share a tag, clear confusion |
 
 ### Vehicle resolution checks
 
@@ -50,7 +50,7 @@ Use this order when the machine is in danger.
 
 1. **Position:** did HELM win, lose, or hold relative position?
 2. **Effect:** did WEAPONS or a hazard create damage?
-3. **Systems:** did ENGINEERING prevent, repair, or overcharge?
+3. **Systems:** did SYSTEMS prevent, repair, or overcharge?
 4. **Information:** did SENSORS/COMMS reveal or conceal?
 5. **Crew:** did SUPPORT prevent Stress, injury, or passenger loss?
 6. **Vulnerability:** any uncrewed critical station under pressure advances its clock.
@@ -62,7 +62,7 @@ Vehicle Damage is a 0-6 track by default. At 3, the vehicle is **Compromised**; 
 | D66 | Critical | Effect |
 | --- | --- | --- |
 | 11-16 | **Shaken frame.** | −1 HELM until repaired. |
-| 21-26 | **Weapon jam / cargo shift.** | WEAPONS or cargo function offline until ENGINEERING succeeds. |
+| 21-26 | **Weapon jam / cargo shift.** | WEAPONS or cargo function offline until SYSTEMS succeeds. |
 | 31-36 | **Power drop.** | Lose one FAST station action next Round. |
 | 41-46 | **Crew hit.** | One station crew takes 1 damage or Stress. |
 | 51-56 | **Exposed system.** | Next hit deals +1 Damage unless braced. |
@@ -119,7 +119,7 @@ Use this to create a vehicle in five minutes.
 | **LOUD** | Heat +1 when overcharging or entering scene |
 | **HUNGRY** | Supply/Power die steps on 1-3 |
 | **SLUGGISH** | −1 HELM in tight spaces |
-| **TEMPERAMENTAL** | pushed ENGINEERING failure triggers critical |
+| **TEMPERAMENTAL** | pushed SYSTEMS failure triggers critical |
 | **EXPOSED CREW** | crew hit criticals affect two stations |
 
 ### Crew complication table
@@ -137,7 +137,7 @@ Roll when Support is unfilled during a critical, passengers panic, or crew Stres
 
 ### Installation examples
 
-**Starship:** Hull, Maneuver, Reactor, Sensors. Stations: Helm, Tactical, Engineering, Comms, Medical. Stress die is Reactor. Criticals can vent atmosphere, fry jump drive, or injure crew.
+**Starship:** Hull, Maneuver, Reactor, Sensors. Stations: Helm, Tactical, Craft, Comms, Medical. Stress die is Reactor. Criticals can vent atmosphere, fry jump drive, or injure crew.
 
 **Mecha:** Hull, Agility, Reactor, Targeting. Stations collapse into pilot actions for solo mechs: Maneuver, Strike, Vent, Scan, Guard. Overcharge is central; pilot takes Stress when Reactor contracts.
 
@@ -147,9 +147,9 @@ Roll when Support is unfilled during a critical, passengers panic, or crew Stres
 
 Mission -> station choices -> shared machine risk -> damage/upkeep -> base/project pressure.
 
-## 4. Dials
+## 4. Choices
 
-| Dial | Light | Heavy | Psychology |
+| Choice | Light | Heavy | Psychology |
 | --- | --- | --- | --- |
 | Stations | 3 | 5-7 | fast scenes vs crew drama |
 | Damage | single track | typed criticals | cinematic vs technical |
@@ -159,20 +159,20 @@ Mission -> station choices -> shared machine risk -> damage/upkeep -> base/proje
 
 Uses conflict, gear tags, repair/crafting, base upkeep, chase rules, and signature conflicts.
 
-## 6. Interface
+## 6. Handshake
 
-- **Prerequisites:** action economy and repair/recovery.
+- **Prerequisites:** action budget and repair/recovery.
 - **Inputs:** vehicle scale, station skills, damage rules.
 - **Outputs:** vehicle sheet, station actions, damage/upkeep.
 - **Touched systems:** conflict, gear, travel, base, economy.
 - **Replaces or stacks:** replaces single-pilot vehicle rolls for major scenes.
-- **Incompatibilities:** do not run a full vehicle subsystem for trivial travel.
+- **Incompatibilities:** do not run a full vehicle rule set for trivial travel.
 
 ## 7. Failure modes
 
-Avoid station imbalance. Helm and Weapons are obvious; Engineering, Comms, and Support need equally decisive actions. Vehicle harm must affect crew choices, not become separate bookkeeping.
+Avoid station imbalance. Helm and Weapons are obvious; Craft, Comms, and Support need equally decisive actions. Vehicle harm must affect crew choices, not become separate bookkeeping.
 
-## 8. Validation notes
+## 8. Check notes
 
 Use `24 §4`. One PC filling two critical stations for free collapses the crew puzzle.
 

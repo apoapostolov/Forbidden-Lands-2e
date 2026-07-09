@@ -6,7 +6,7 @@
 
 ## 1. Origin
 
-- **Source primitives:** P3, P6, P8, P15.
+- **Source patterns:** P3, P6, P8, P15.
 - **Operators:** Abstraction-Climb + Recalibration.
 - **Target psychology:** the genre's iconic scene gets its own rhythm.
 - **Problem solved:** a signature scene should not collapse into one generic roll.
@@ -100,7 +100,7 @@ To create a new signature conflict:
 | --- | --- | --- |
 | Read | opponent gets +1 carry | false read; final phase starts at −1 |
 | Position | lose range/audience/route | exposed to immediate attack/fallout |
-| Resource | spend extra supply/proof/metacurrency | asset disabled or evidence ruined |
+| Resource | spend extra supply, proof, or Willpower/Faith | asset disabled or evidence ruined |
 | Nerve | mark Shaken/Strain | Panic/social fallout |
 | Commitment | stake lost | stake lost plus fallout |
 
@@ -138,9 +138,9 @@ Winning a signature conflict should grant a specific fiction-changing result.
 
 Stake -> phased commitments -> carry-forward advantage -> decisive final roll -> fallout.
 
-## 4. Dials
+## 4. Choices
 
-| Dial | Light | Heavy | Psychology |
+| Choice | Light | Heavy | Psychology |
 | --- | --- | --- | --- |
 | Phases | 2 | 3-5 | quick drama vs ceremony |
 | Carry-forward | +1 cap | +2/tag cap | grounded vs decisive |
@@ -150,7 +150,7 @@ Stake -> phased commitments -> carry-forward advantage -> decisive final roll ->
 
 Hooks into combat, social combat, chases, vehicles, magic, territory, and reputation.
 
-## 6. Interface
+## 6. Handshake
 
 - **Prerequisites:** opposed rolls and stakes.
 - **Inputs:** signature scene, three skills/pressures, fallout.
@@ -163,7 +163,7 @@ Hooks into combat, social combat, chases, vehicles, magic, territory, and reputa
 
 If used too often, ceremony becomes drag. If carry-forward is uncapped, Phase 1 decides everything. If the final stake is unclear, players cannot consent to risk.
 
-## 8. Validation notes
+## 8. Check notes
 
 Use `24 §1`, `§4`, and `§7`. Carry-forward dice are strong; cap them and keep phases distinct.
 

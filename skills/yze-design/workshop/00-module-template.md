@@ -2,7 +2,7 @@
 
 # [Module Name] — [One-line description]
 
-> **STATUS: WORKSHOP MODULE.** A workshop module is not an essay, a pitch, or a list of intentions. It is a runnable, modular subsystem built from YZE primitives: procedures, rolls, costs, menus, tables, dials, integration contracts, validation notes, and a worked reskin. A designer should be able to drop the module into a host game, rename the nouns, set the dials, and run a table scene without inventing the missing rules.
+> **STATUS: WORKSHOP MODULE.** A workshop module is not an essay, a pitch, or a list of intentions. It is a runnable, modular rule set built from YZE patterns: procedures, rolls, costs, menus, tables, choices, integration contracts, check notes, and a worked reskin. A designer should be able to drop the module into a host game, rename the nouns, set the choices, and run a table scene without inventing the missing rules.
 
 ## The Workshop Quality Bar
 
@@ -12,15 +12,15 @@ A complete module must pass this bar before it belongs in the workshop:
 2. **Concrete state:** named tracks, pools, clocks, dice, tags, edges, or sheet fields. The module must say where the state lives and who updates it.
 3. **Resolution checks:** explicit roll formulas, target numbers or success interpretation, push/Trouble behavior, failure results, and consequences for 0 / 1 / 2+ successes where relevant.
 4. **Menus:** at least one action, investment, spend, move, or project menu with enough options to run varied play. A menu is written as bolded ALL-CAPS move names with rule paragraphs, not as vague bullets.
-5. **Tables:** at least one event/fallout/opportunity table and one reference/dial table. If the module uses a D66 family, ship the family or ship a generator procedure precise enough to create every missing entry.
-6. **Pressure loop:** the subsystem must create a recurring decision under scarcity. If it only grants benefits, it is not a YZE subsystem yet.
+5. **Tables:** at least one event/fallout/opportunity table and one reference/choice table. If the module uses a D66 family, ship the family or ship a generator procedure precise enough to create every missing entry.
+6. **Pressure loop:** the rule set must create a recurring decision under scarcity. If it only grants benefits, it is not a YZE rule set yet.
 7. **Integration contract:** state whether the module replaces or stacks with host rules, what inputs it needs, what outputs it creates, and what caps prevent collisions.
-8. **Failure modes:** name exploit risks, pacing risks, table-burden risks, and tone risks, with fixes.
-9. **Validation:** include math/tempo checks, attrition checks, action-economy checks, and felt-experience checks.
-10. **Worked reskin:** include one concrete genre implementation with terms mapped, dials set, a short play example, and a note on what would change in a second genre.
+8. **Failure modes:** name abuse risks, pacing risks, table-burden risks, and tone risks, with fixes.
+9. **Checks:** include math/tempo checks, attrition checks, action-budget checks, and felt-experience checks.
+10. **Worked reskin:** include one concrete genre implementation with terms mapped, settings, a short play example, and a note on what would change in a second genre.
 11. **Publication handoff:** include player-facing rule text, GM-facing procedure text, quick-reference entries, and character/base/sheet fields.
 
-**Minimum density test:** a major module normally needs 150+ lines, 3+ tables or table-equivalent lists, 1+ numbered procedure, 1+ move menu, 1+ consequence engine, 1+ dial table, and 1+ worked example. A short module can be smaller only if the mechanism is deliberately narrow and still runnable.
+**Minimum density test:** a major module normally needs 150+ lines, 3+ tables or table-equivalent lists, 1+ numbered procedure, 1+ move menu, 1+ consequence engine, 1+ choice table, and 1+ worked example. A short module can be smaller only if the rule pattern is deliberately narrow and still runnable.
 
 **Forbidden shallow patterns:**
 
@@ -30,15 +30,15 @@ A complete module must pass this bar before it belongs in the workshop:
 - "Build parallel families" without at least one complete family and a method for the rest.
 - A new pool that only gives bonuses and has no upkeep, cap, risk, expiry, or hard choice.
 - A scene type that names roles but never says what a round looks like.
-- A subsystem with no sheet fields, no state change, and no ending condition.
-- A reskin example that only swaps nouns and does not set dials or show play.
+- A rule set with no sheet fields, no state change, and no ending condition.
+- A reskin example that only swaps nouns and does not set choices or show play.
 
 ## Contents
 
 1. Origin — how this was built
 2. Drop-in summary
 3. The generic design space
-   - 3a. Mechanism overview
+   - 3a. Rule overview
    - 3b. NEW CONCEPTS introduced
    - 3c. Core state
    - 3d. Setup procedure
@@ -47,24 +47,24 @@ A complete module must pass this bar before it belongs in the workshop:
    - 3g. Menus
    - 3h. Tables and generators
 4. The pressure loop
-5. Dials
+5. Choices
 6. Integration points
-7. Interface
+7. Handshake
 8. Module composition
 9. Failure modes & edge cases
-10. Validation notes
+10. Check notes
 11. Publication handoff
 12. Worked genre example — [Genre]
 13. Module audit checklist
 
 ## 1. Origin — how this was built
 
-- **Source primitive(s):** P# from `16-mechanical-primitives.md` (e.g. P2 capped metacurrency, P4 typed D66, P5 resource die, P6 activity menu, P7 org lifecycle).
+- **Source pattern(s):** P# from `16-mechanical-primitives.md` (e.g. P2 capped pool, P4 typed D66, P5 resource die, P6 activity menu, P7 org lifecycle).
 - **Advanced composition(s):** one or more of `16`'s clocks/fronts, relationship edges, revelation ladders, heat pressure, crew-role menus, vehicle-as-character, rumor economies, project tracks, etc.
 - **Reinvention operator:** Domain Transfer / Inversion / Recalibration / Fusion / Abstraction-Climb from `18 §4`.
 - **Target psychology:** one cell from `17`'s dual-use matrix, stated as behavior: caution, desperation, ambition, paranoia, teamwork, rivalry, stewardship, etc.
-- **Host problem:** the recurring table problem this subsystem solves.
-- **Signature test:** if this is a signature mechanic, name the play behavior it changes. If it does not change behavior, downgrade it to a reskin of an existing primitive.
+- **Host problem:** the recurring table problem this rule set solves.
+- **Signature test:** if this is a signature rule, name the play behavior it changes. If it does not change behavior, downgrade it to a reskin of an existing pattern.
 
 ## 2. Drop-in summary
 
@@ -72,7 +72,7 @@ This section is the one-page GM handoff.
 
 - **Use when:** [campaign situations, genres, and scene types where this module earns its table time.]
 - **Do not use when:** [campaigns where this adds bookkeeping without pressure.]
-- **Requires:** [host-game inputs: time unit, skill, attribute, harm model, metacurrency, faction layer, travel layer, base layer.]
+- **Requires:** [host-game inputs: time unit, skill, attribute, harm model, Willpower/Faith, faction layer, travel layer, base layer.]
 - **Creates:** [new tracks, pools, actions, sheet fields, GM tables, event procedures.]
 - **Primary loop:** [one sentence: players spend/choose/risk X to gain Y while Z worsens.]
 - **Resolution grammar:** [attribute + skill + gear + module modifier; or opposed roll; or resource die; or D66 table.]
@@ -81,19 +81,19 @@ This section is the one-page GM handoff.
 
 ## 3. The Generic Design Space
 
-### 3a. Mechanism overview
+### 3a. Rule overview
 
-Write 2-4 paragraphs that strip away genre nouns and explain the subsystem as an abstract machine. Name the resource, the loop, and the core decision.
+Write 2-4 paragraphs that strip away genre nouns and explain the rule set as an abstract machine. Name the resource, the loop, and the core decision.
 
-The overview is not enough by itself. It is the conceptual handle. The runnable content starts in §3c and must contain the actual mechanics.
+The overview is not enough by itself. It is the conceptual handle. The runnable content starts in §3c and must contain the actual rules.
 
 ### 3b. NEW CONCEPTS introduced
 
-Every mechanism that does **not** already exist in the core engine (`references/00`-`15`) is flagged here.
+Every rule pattern that does **not** already exist in the core engine (`references/00`-`15`) is flagged here.
 
-- **NEW CONCEPT — [name]:** [one-line definition, why it extends the engine, and which primitive/operator produced it.]
+- **NEW CONCEPT — [name]:** [one-line definition, why it extends the engine, and which pattern/operator produced it.]
 
-Pure recombination of existing primitives is not flagged. If a concept is an application of an operator, name the operator but flag only the new application.
+Pure recombination of existing patterns is not flagged. If a concept is an application of an operator, name the operator but flag only the new application.
 
 ### 3c. Core state
 
@@ -106,17 +106,17 @@ Define every persistent state object.
 | [Die] | D6-D12 resource die | D8 | rolled on use | yes | party sheet |
 | [Edge] | -3 to +3 relation | 0 | faction move | maybe | faction web |
 
-State must change in play. A module with no state change is normally an encounter procedure, not a subsystem.
+State must change in play. A module with no state change is normally an encounter procedure, not a rule set.
 
 ### 3d. Setup procedure
 
 Use a numbered list. A GM must be able to install the module from this section alone.
 
 1. **Choose the host layer:** PC scene, travel block, downtime period, faction turn, base turn, or campaign season.
-2. **Map the host terms:** choose the governing ATTRIBUTE, SKILL, time unit, harm family, metacurrency, and existing consequence table.
+2. **Map the host terms:** choose the governing ATTRIBUTE, SKILL, time unit, harm family, Willpower/Faith, and existing consequence table.
 3. **Create the state:** add the tracks/pools/dice/edges from §3c to the appropriate sheet.
 4. **Set the starting values:** give default starts and campaign-start alternatives.
-5. **Choose the dial pack:** low / standard / high intensity from §5.
+5. **Choose the choice pack:** low / standard / high intensity from §5.
 6. **Install limits:** caps, once-per-period rules, stacking limits, no-free-refund rules.
 7. **Seed pressure:** add the first event, rival, clock segment, debt call, omen, project obstacle, or shortage.
 
@@ -139,7 +139,7 @@ Ship the active play loop. Pick the template that fits and fill it in.
 
 1. **Look back:** apply upkeep, wounds, debts, weather, market shifts, faction moves, or previous consequences.
 2. **Assess:** reveal the current risk/opportunity picture with one roll or table.
-3. **Choose strategy:** pick a stance, dial, route, posture, project focus, or investment.
+3. **Choose strategy:** pick a stance, choice, route, posture, project focus, or investment.
 4. **Commit resources:** pay costs before the roll when the pressure is about risk; after the roll only when the module is about opportunity.
 5. **Operate:** resolve weekly/monthly/seasonal activities.
 6. **Reckon:** make the core roll or resource-die check.
@@ -176,7 +176,7 @@ Every menu option must say trigger, cost, roll if any, effect, and consequence. 
 
 | Family | Options to include | Pressure it creates |
 | --- | --- | --- |
-| Action menu | attack, defend, maneuver, assist, recover, exploit, retreat | action scarcity |
+| Action menu | attack, defend, maneuver, assist, recover, abuse, retreat | action scarcity |
 | Spend menu | boost roll, avoid harm, buy clue, reduce heat, call favor, seize tempo | capped-resource scarcity |
 | Investment menu | safety, output, growth, secrecy, staff, reserves, reputation | future-vs-present scarcity |
 | Fallout menu | harm, debt, exposure, loss, rivalry, delay, flaw, obligation | consequences with teeth |
@@ -205,7 +205,7 @@ If you use a generator instead of a full table, it must include:
 
 1. a roll grammar;
 2. result bands;
-3. 6+ noun lists or payload lists;
+3. 6+ noun lists or effect lists;
 4. consequence severity;
 5. a worked generated result;
 6. a rule for repeating or escalating old results.
@@ -225,13 +225,13 @@ Name the loop's shape and write it as state transitions.
 | Consequence | [who absorbs it] | [table/check] | [harm/heat/debt/etc.] | [recovery needed] |
 | Recovery | [repair or push on] | [time/resource] | [pressure relieved or banked] | [loop restarts] |
 
-**Five-loop proof:** say whether the module touches Expedition, Conflict, Recovery, Metacurrency, and Base. If a loop is inactive, explicitly collapse it with a reason.
+**Five-loop proof:** say whether the module touches Expedition, Conflict, Recovery, Willpower/Faith, and Base. If a loop is inactive, explicitly collapse it with a reason.
 
-## 5. Dials
+## 5. Choices
 
-Each dial must include effects, not just adjectives.
+Each choice must include effects, not just adjectives.
 
-| Dial | Low | Standard | High | Warning |
+| Choice | Low | Standard | High | Warning |
 | --- | --- | --- | --- | --- |
 | Intensity | trigger once/session | trigger once/adventure or period | trigger every scene/turn | high intensity can crowd the host loop |
 | Lethality / collapse | consequence is delay or cost | consequence injures state | consequence can remove actor/org | high collapse needs recovery rules |
@@ -241,7 +241,7 @@ Each dial must include effects, not just adjectives.
 | Bonus size | +1 die narrow | +1 die broad or +2 narrow | +2 broad / persistent | persistent broad bonuses need cost/cap/risk |
 | GM load | one track + one table | 2-3 tracks + table family | map/web + several tables | high load needs reference sheet |
 
-Every module should also include one genre-specific dial pack:
+Every module should also include one genre-specific choice pack:
 
 | Pack | Use for | Starting state | Event cadence | Recovery | Tone |
 | --- | --- | --- | --- | --- | --- |
@@ -257,21 +257,21 @@ State what the module touches and how hard.
 | --- | --- | --- | --- |
 | Core resolution | [replace/stack] | [modifier cap] | [e.g. uses normal dice pool] |
 | Push / Trouble | [replace/stack] | [once per roll] | [push creates X] |
-| Metacurrency | [replace/stack] | [cap] | [avoid two currencies doing same job] |
+| Willpower/Faith | [replace/stack] | [cap] | [avoid two currencies doing same job] |
 | Harm / recovery | [replace/stack] | [healing limit] | [critical table family] |
-| Action economy | [replace/stack] | [slow/fast/free limit] | [free actions are dangerous] |
+| Action budget | [replace/stack] | [slow/fast/free limit] | [free actions are dangerous] |
 | Travel / downtime | [replace/stack] | [time unit] | [when it fires] |
 | Base / faction | [replace/stack] | [turn cadence] | [org state changed] |
 | Advancement | [replace/stack] | [XP gate] | [new talents or unlocks] |
 
-**Replace vs stack rule:** if a host game already has a mechanic that answers the same table question, replace it or merge them. Do not stack two full systems that both tax the same attention, harm, heat, social standing, or downtime period unless the module ships a shared cap.
+**Replace vs stack rule:** if a host game already has a rule that answers the same table question, replace it or merge them. Do not stack two full systems that both tax the same attention, harm, heat, social standing, or downtime period unless the module ships a shared cap.
 
-## 7. Interface
+## 7. Handshake
 
 - **Prerequisites:** [systems the host game must already have.]
-- **Inputs:** [host-game terms to map: skill, attribute, metacurrency, time unit, consequence family, faction standing, travel scale, base scale.]
+- **Inputs:** [host-game terms to map: skill, attribute, Willpower/Faith, time unit, consequence family, faction standing, travel scale, base scale.]
 - **Outputs:** [new pools, tracks, actions, tables, sheet fields, GM procedures.]
-- **Touched systems:** [resolution, push, metacurrency, harm, recovery, action economy, travel, base, powers, advancement.]
+- **Touched systems:** [resolution, push, Willpower/Faith, harm, recovery, action budget, travel, base, powers, advancement.]
 - **Replaces or stacks:** [explicit replace/stack rule.]
 - **Incompatibilities:** [modules or host rules that need caps or merging.]
 - **Sheet fields:** [character sheet, party sheet, org sheet, map, faction web, GM clock.]
@@ -288,7 +288,7 @@ Every module must say how it combines with other workshop modules.
 
 **Composition rules of thumb**
 
-- If two modules both create a metacurrency, either merge the pools or make one a spend menu inside the other.
+- If two modules both create a spendable pool, either merge the pools or make one a spend menu inside the other.
 - If two modules both create end-of-period events, alternate them or combine into one D66 table.
 - If two modules both grant persistent +1 dice, cap total broad persistent bonuses at +2.
 - If two modules both create social standing, decide which one owns public identity and which one owns private obligation.
@@ -302,22 +302,22 @@ Run the module against `13 §5` and `19 §4`.
 | --- | --- | --- |
 | Free-resource engine | players can loop actions for net gain | add cap, cost, event trigger, or once-per-period limit |
 | Broad permanent bonus | one choice dominates all rolls | narrow scope, require upkeep, or make it spendable |
-| Action-economy leak | free/fast option becomes mandatory | limit to once/round, add cost, or make it replace an action |
+| Action-budget leak | free/fast option becomes mandatory | limit to once/round, add cost, or make it replace an action |
 | Agency collapse | failure removes meaningful choices | add concession, retreat, recovery, or partial success |
 | Death spiral | bad result makes recovery impossible | create relief valve or floor |
 | Bookkeeping drag | state updates exceed drama | collapse tracks, reduce event cadence, or move to period play |
-| Noun-only reskin | setting words change but behavior does not | alter dials, costs, consequence family, or loop weight |
+| Noun-only reskin | setting words change but behavior does not | alter choices, costs, consequence family, or loop weight |
 | GM fiat gap | procedure says "decide" too often | add table, cost ladder, or decision tree |
 
-## 10. Validation Notes
+## 10. Check Notes
 
-Use `24-validation-worksheets.md`.
+Use `24-checks-worksheets.md`.
 
 - **Dice math:** does a competent actor sit near the intended success band? If not, state the intended genre posture.
 - **Attrition:** how many scenes/periods before the key resource depletes under ordinary use?
 - **Resource loop:** where does the resource enter, leave, cap, expire, and become risky?
-- **Action economy:** does any option grant a free action, extra action, or persistent modifier?
-- **Exploit surface:** can players farm resources, avoid consequences, stack bonuses, or reset clocks?
+- **Action budget:** does any option grant a free action, extra action, or persistent modifier?
+- **Abuse surface:** can players farm resources, avoid consequences, stack bonuses, or reset clocks?
 - **Table burden:** how many things must players and GM track at once?
 - **Felt experience:** does the module create the target psychology without creating false choices or despair?
 - **Playability after catastrophe:** after the worst ordinary result, what can players still do?
@@ -343,9 +343,9 @@ This must be concrete enough that another AI can reskin from it.
 | --- | --- | --- |
 | [Pressure] | [e.g. Heat, Fear, Suspicion] | [existing rule/table] |
 
-### Dials set
+### Settings chosen
 
-| Dial | Setting | Reason |
+| Choice | Setting | Reason |
 | --- | --- | --- |
 | Intensity | Standard | [why] |
 
@@ -369,7 +369,7 @@ Write a short 1-2 turn/scene example:
 
 ### Second-genre reskin note
 
-Explain what changes when the same module is used in a different genre: not only nouns, but dials, consequence family, event cadence, and recovery speed.
+Explain what changes when the same module is used in a different genre: not only nouns, but choices, consequence family, event cadence, and recovery speed.
 
 ## 13. Module Audit Checklist
 
@@ -382,11 +382,11 @@ Before shipping, answer yes to every item:
 - [ ] Push/Trouble behavior is explicit.
 - [ ] There is at least one full menu with costs and consequences.
 - [ ] There is at least one event/fallout/opportunity table or a complete generator.
-- [ ] Dials have mechanical effects, not just tone labels.
+- [ ] Choices have rules effects, not just tone labels.
 - [ ] The pressure loop has a cost, cap, risk, or expiry.
 - [ ] The module states replace/stack behavior for host systems.
 - [ ] The module includes incompatibilities and composition caps.
-- [ ] Failure modes name both exploit risks and felt-experience risks.
-- [ ] Validation includes math, attrition, resource loop, action economy, exploit, table burden, and felt checks.
+- [ ] Failure modes name both abuse risks and felt-experience risks.
+- [ ] Checks includes math, attrition, resource loop, action budget, abuse, table burden, and felt checks.
 - [ ] Publication handoff includes player rule, GM procedure, quick reference, and sheet fields.
-- [ ] Worked example maps terms, sets dials, shows play, and explains at least one alternate reskin.
+- [ ] Worked example maps terms, sets choices, shows play, and explains at least one alternate reskin.

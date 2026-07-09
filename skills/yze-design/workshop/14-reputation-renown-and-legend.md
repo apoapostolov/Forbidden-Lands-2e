@@ -2,11 +2,11 @@
 
 # Reputation, Renown & Legend — Public Identity as Currency
 
-> **STATUS: WORKSHOP MODULE.** Fame, infamy, rumor, awe, and public identity. Built from P2 metacurrency, P14 memory, AC10 rumor economy, and AC11 propagation.
+> **STATUS: WORKSHOP MODULE.** Fame, infamy, rumor, awe, and public identity. Built from P2 capped pool, P14 memory, AC10 rumor economy, and AC11 propagation.
 
 ## 1. Origin
 
-- **Source primitives:** P2, P4, P10, P14.
+- **Source patterns:** P2, P4, P10, P14.
 - **Operators:** Recalibration + Fusion.
 - **Target psychology:** public action echoes.
 - **Problem solved:** reputation should do more than add a generic social modifier.
@@ -149,19 +149,19 @@ When PCs deliberately act for reputation:
 
 Public deed -> Renown/Rumor -> access or backlash -> propagation -> new obligations.
 
-## 4. Dials
+## 4. Choices
 
-| Dial | Grounded | Mythic | Psychology |
+| Choice | Grounded | Mythic | Psychology |
 | --- | --- | --- | --- |
 | Scope | local audience | broad culture | reputation vs legend |
-| Spend | access only | mechanical awe | social realism vs epic |
+| Spend | access only | rules awe | social realism vs epic |
 | Mutation | rare | frequent | stable name vs wild story |
 
 ## 5. Integration points
 
 Pairs with Influence, Heat, Faction Web, Territory, and Companions.
 
-## 6. Interface
+## 6. Handshake
 
 - **Prerequisites:** social standing or factions.
 - **Inputs:** audiences, public deed triggers, spend menu.
@@ -174,7 +174,7 @@ Pairs with Influence, Heat, Faction Web, Territory, and Companions.
 
 Universal reputation becomes a social solvent. Scope it by audience. Spending Renown must reduce the pool or create obligation.
 
-## 8. Validation notes
+## 8. Check notes
 
 Use `24 §3` and `§5`. Watch for free access that bypasses economy, faction, or travel pressure.
 

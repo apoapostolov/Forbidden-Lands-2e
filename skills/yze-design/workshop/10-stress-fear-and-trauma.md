@@ -2,11 +2,11 @@
 
 # Stress, Fear & Trauma — Pressure on the Self
 
-> **STATUS: WORKSHOP MODULE.** A modular stress/fear subsystem for horror, war, survival, occult, and high-pressure drama. Built from P5 resource dice, P4 fallout tables, P10 protected dials, and AC1 clocks.
+> **STATUS: WORKSHOP MODULE.** A modular stress/fear rule set for horror, war, survival, occult, and high-pressure drama. Built from P5 resource dice, P4 fallout tables, P10 inner fire, and AC1 clocks.
 
 ## 1. Origin
 
-- **Source primitives:** P5, P4, P10, P15.
+- **Source patterns:** P5, P4, P10, P15.
 - **Operators:** Domain Transfer + Fusion.
 - **Target psychology:** mounting dread with recoverable scars.
 - **Problem solved:** fear should pressure action without routinely removing the player from play.
@@ -112,7 +112,7 @@ Use when Panic would be too small for the moment: a character hit D6 contraction
 | 35-36 | **Contagious fear.** | one nearby ally marks Shaken. | group rally clears both. |
 | 41-42 | **Avoidance.** | gain Scar hook tied to a place, sound, person, or symbol. | confront it in safety. |
 | 43-44 | **Mistrust.** | one Bond gains Strain +1. | repair with confession or sacrifice. |
-| 45-46 | **Numbness.** | cannot spend metacurrency for empathy/protection this scene. | accept help without paying it back. |
+| 45-46 | **Numbness.** | cannot spend Willpower/Faith for empathy/protection this scene. | accept help without paying it back. |
 | 51-52 | **Night terrors.** | next rest does not recover one chosen track. | safe shelter or watchful ally. |
 | 53-54 | **Obsession.** | must pursue one answer/threat before full recovery. | discover a useful truth. |
 | 55-56 | **Somatic mark.** | one attribute recovery is blocked until treated. | healer, ritual, therapy, or time. |
@@ -143,9 +143,9 @@ Use when Panic would be too small for the moment: a character hit D6 contraction
 
 Threat -> Stress roll -> narrowed agency -> Panic/Scar -> recovery scene or future trigger.
 
-## 4. Dials
+## 4. Choices
 
-| Dial | Gentle | Harsh | Psychology |
+| Choice | Gentle | Harsh | Psychology |
 | --- | --- | --- | --- |
 | Contraction | 1 on Risky, 1-2 Terrible | 1-2 Risky, 1-3 Terrible | unease vs terror |
 | Recovery | one safe scene | downtime project | cinematic vs grinding |
@@ -155,12 +155,12 @@ Threat -> Stress roll -> narrowed agency -> Panic/Scar -> recovery scene or futu
 
 Hooks into harm, recovery, powers, monsters, and bonds. Pairs with `17` and `18`; shares caps with corruption if both exist.
 
-## 6. Interface
+## 6. Handshake
 
 - **Prerequisites:** core rolls, recovery time, at least one social/bond or safety concept.
 - **Inputs:** fear skill/attribute, recovery action, exposure scale.
 - **Outputs:** Stress die, Panic results, Scars, optional sheet fields.
-- **Touched systems:** harm, recovery, metacurrency, GM threats.
+- **Touched systems:** harm, recovery, Willpower/Faith, GM threats.
 - **Replaces or stacks:** replaces generic fear penalties; does not stack with a second panic table.
 - **Incompatibilities:** merge with corruption or sanity systems if they use the same triggers.
 
@@ -168,7 +168,7 @@ Hooks into harm, recovery, powers, monsters, and bonds. Pairs with `17` and `18`
 
 Agency collapse is the main risk. Panic should change what a player can do, not make them sit out. Stress that never recovers becomes slow character death; Stress that always recovers becomes fake pressure.
 
-## 8. Validation notes
+## 8. Check notes
 
 Use `24 §2`, `§6`, and `§7`. Worst case must remain playable unless the host game explicitly supports character exit.
 

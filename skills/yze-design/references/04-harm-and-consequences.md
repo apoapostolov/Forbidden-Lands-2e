@@ -2,7 +2,7 @@
 
 # Harm and Consequences — Damage, Injury, Environment
 
-> **STATUS: FILLED (Pass-1 extraction + Pass-2 abstraction complete).** This is the consequences layer — it assumes the damage-generation side of conflict (`03-conflict-and-combat.md`) and the metacurrency/push loop (`00-engine-core.md`). The central deliverable is the **Critical-Injury Table Engine** (§5), a reusable D66 architecture that recurs in magic mishaps (`05-power-layer.md`).
+> **STATUS: FILLED (Pass-1 extraction + Pass-2 abstraction complete).** This is the consequences layer — it assumes the damage-generation side of conflict (`03-conflict-and-combat.md`) and the Willpower/Faith/push loop (`00-engine-core.md`). The central deliverable is the **Critical-Injury Table Engine** (§5), a reusable D66 architecture that recurs in magic mishaps (`05-power-layer.md`).
 
 ## Contents
 
@@ -17,7 +17,7 @@
 9. Healing and recovery
 10. Permanent injury and retirement ("When the Road Ends")
 11. Divergence rows (FL vs West)
-12. Dials and instantiation recipe
+12. Rule Choices and Build Recipe
 13. Design intent
 
 ## 1. Source provenance
@@ -30,7 +30,7 @@
 
 ## 2. Abstraction target
 
-Abstract **harm** as a genre-neutral *layered cascade*. Damage is not a single HP pool — it flows through discrete layers, each of which is a separable design dial:
+Abstract **harm** as a genre-neutral *layered cascade*. Damage is not a single HP pool — it flows through discrete layers, each of which is a separable design choice:
 
 1. **Attribute damage → Broken** (the immediate-crisis layer): harm maps to a named attribute; at 0 the actor is Broken.
 2. **Critical-Injury Table Engine** (the lasting-consequence layer): a D66 lookup producing location × severity, immediate + long-term effects, healing time, and lethality. **This is the engine's signature reusable artifact** — identical architecture in both games.
@@ -48,18 +48,18 @@ Both books converge remarkably across all seven layers. The one structural diver
 
 **Source instance (West):** Damage is *split* across a paired attribute, point-for-point, with a fixed alternation: physical damage is **Hurts→Grit then Shakes→Quick, Shakes first**; mental damage is **Doubts→Docity then Vexes→Cunning, Doubts first**. West `05-conflict-and-damage.md:443`. When any attribute hits 0 you are Broken, with a *flavored* helplessness per attribute: Grit-Broken = collapse/unconscious; Quick-Broken = too drained to act; Cunning-Broken = violent outburst or sullen withdrawal; Docity-Broken = panic/despair/meek compliance (can only flee or follow). West `:445-451`.
 
-**Generic mechanism:** Harm reduces a **named attribute**; reaching zero in that attribute produces a state of **helplessness** (Broken) whose *fiction* is keyed to which attribute fell. There is no separate "HP" — the attribute *is* the HP for the kind of harm it absorbs. **Layer:** General.
+**Common pattern:** Harm reduces a **named attribute**; reaching zero in that attribute produces a state of **helplessness** (Broken) whose *fiction* is keyed to which attribute fell. There is no separate "HP" — the attribute *is* the HP for the kind of harm it absorbs. **Layer:** General.
 
 **Health Tracks — the third mapping (engine-family pattern, not in FL or West core).** FL and West both use *small* attribute-tracks (typical 2–5 points each), which makes harm swingy: one or two good hits can Break an attribute, ending a fight fast. Other YZE-family games — notably **Coriolis** — use a different mapping that produces **larger, less swingy health pools** for heroic or pulp genres. Two constructions, combinable:
 
 - **Combined-attribute track:** the health pool is the **sum of two attributes** (e.g. Strength + Agility). This roughly doubles the pool and smooths variance — a character is Broken only when the *combined* track hits zero, not when either attribute does. Coriolis applies this to its general damage track.
 - **Flat-value bonus:** add a fixed number to an attribute to form the track (e.g. **5 + Strength**). The flat portion absorbs the swinginess of a low attribute, guaranteeing a survivable floor; the attribute portion still rewards high stats. This shifts the genre toward heroic survivability — the average pool roughly doubles, and a starting character cannot be one-shot by a single strong hit.
 
-A health track may use **both** (combined + flat bonus) for the most heroic feel, or be an **external track not tied to an attribute at all** (a fixed pool per character, like D&D HP) — the extreme of the "less swingy" dial, at the cost of losing attribute-as-HP's *specificity* (a Strength hit and a Wits hit become fungible). **Layer:** Optional — adopt when the genre wants survivability and longer conflicts; omit (use pure attribute-as-HP) for gritty, swingy, lethal tone.
+A health track may use **both** (combined + flat bonus) for the most heroic feel, or be an **external track not tied to an attribute at all** (a fixed pool per character, like D&D HP) — the extreme of the "less swingy" choice, at the cost of losing attribute-as-HP's *specificity* (a Strength hit and a Wits hit become fungible). **Layer:** Optional — adopt when the genre wants survivability and longer conflicts; omit (use pure attribute-as-HP) for gritty, swingy, lethal tone.
 
-**Design intent:** Attribute-as-HP makes harm *specific* rather than abstract. A blow that Breaks your Strength tells a different story (you're bleeding out) than one that Breaks your Wits (you're mad with fear). This lets the damage type *select its own consequences* (see §5) and means different harm vectors threaten different parts of the character — a fear attack can't be "healed" with a bandage. The Health Track variant *trades specificity for survivability* — it is the dial a designer reaches for when the genre needs longer, less swingy conflicts (social combat, pulp action, boss fights) more than it needs the "which attribute fell?" story beat.
+**Design intent:** Attribute-as-HP makes harm *specific* rather than abstract. A blow that Breaks your Strength tells a different story (you're bleeding out) than one that Breaks your Wits (you're mad with fear). This lets the damage type *select its own consequences* (see §5) and means different harm vectors threaten different parts of the character — a fear attack can't be "healed" with a bandage. The Health Track variant *trades specificity for survivability* — it is the choice a designer reaches for when the genre needs longer, less swingy conflicts (social combat, pulp action, boss fights) more than it needs the "which attribute fell?" story beat.
 
-**Dials & instantiation recipe:**
+**Rule Choices & Build Recipe:**
 - **Damage-to-attribute mapping** — *single-attribute-per-source* (FL: each source names its target attribute) / *paired-attribute split* (West: physical damage alternates Grit/Quick, mental alternates Docity/Cunning) / *combined-attribute health track* (Coriolis: sum of two attributes, e.g. Strength+Agility) / *flat-value track* (e.g. 5+Strength) / *external fixed pool* (attribute-agnostic HP). FL `06-critical-injuries.md`; West `:443`; Coriolis (engine-family). *Choose paired-split for two-axis attrition; choose single for clean consequence routing; choose combined/flat/external for larger, less swingy, more heroic pools. The further down this list, the longer a conflict takes to resolve and the lower the lethality.*
 - **Broken flavor** — *one generic helplessness* (FL) vs *per-attribute helplessness fiction* (West `:445-451`). *The per-attribute flavor makes Broken a story beat, not just a number reaching zero. Note: combined/flat/external tracks lose per-attribute flavor by construction — if you adopt a health track, Broken becomes a single generic state unless you track which attribute the *last* point came from.*
 - **Self-Broken safety** — FL exempts self-push-Broken from critical injury (`06-critical-injuries.md:47-49`); West has no equivalent carve-out because Broken routes through the master table on *subsequent* damage, not on the break itself. *Include the FL carve-out if you want pushing to be risky but not suicidal.*
@@ -70,22 +70,22 @@ A health track may use **both** (combined + flat bonus) for the most heroic feel
 
 **Source instance (FL):** No parallel "moral-cost test" for finishing a helpless foe in the harm chapter; a Broken foe is simply killable. The moral weight is instead distributed — the Horror table's `32 Honorable` result (FL `06-critical-injuries.md:500`) *removes* the willingness to perform a coup de grace as a lasting psychological injury, and the Cold-blooded talent is the opposite (the capacity to do it cleanly). So FL models mercy-cost as a *character trait / injury outcome*, not a per-act test.
 
-**Generic mechanism:** A rule that **finishing a helpless foe is gated by a cost** — either a per-act moral test (must *fail* a conscience roll) or a character-capacity trait (you can't, unless trained/tainted). **Layer:** Optional (present in West as a test; in FL only as a trait/injury). Strongly recommended for any genre where killing should feel like it *costs the killer something*.
+**Common pattern:** A rule that **finishing a helpless foe is gated by a cost** — either a per-act moral test (must *fail* a conscience roll) or a character-capacity trait (you can't, unless trained/tainted). **Layer:** Optional (present in West as a test; in FL only as a trait/injury). Strongly recommended for any genre where killing should feel like it *costs the killer something*.
 
-**Design intent:** The coup-de-grâce test prevents Broken from being a trivial "loot the body" state. It makes mercy and ruthlessness *mechanically asymmetric*: the merciful character keeps their Docity, the ruthless one pays Doubts each time. It also gives the *victim's* allies a reason to reach a Broken companion before the enemy resolves the kill.
+**Design intent:** The coup-de-grâce test prevents Broken from being a trivial "loot the body" state. It makes mercy and ruthlessness *asymmetric in the rules*: the merciful character keeps their Docity, the ruthless one pays Doubts each time. It also gives the *victim's* allies a reason to reach a Broken companion before the enemy resolves the kill.
 
-**Dials & instantiation recipe:**
+**Rule Choices & Build Recipe:**
 - **Gate type** — *per-act conscience test* (West: fail a no-ability, no-push roll) / *character trait* (FL: Cold-blooded talent allows it; Honorable injury forbids it) / *automatic* (no gate; Broken = dead on demand). West `:453-455`; FL `06-critical-injuries.md:500`.
 - **Cost on attempt** — *always 1 Doubts whether or not you go through* (West `:455`) / *cost only on success* / *no cost*. *Always-pay makes even the attempt morally taxing.*
 - **Test direction** — West's "must *fail* (zero successes)" is unusual and deliberate: high Docity makes you *less* able to kill, inverting the usual "good stat = good outcome." *Use the inverted test when conscience should be a brake, not a skill.*
 
 ## 5. The Critical-Injury table engine (D66 location × severity) — **the central reusable artifact**
 
-This is the engine's signature consequence mechanic and the most directly portable artifact in the whole system. Both games use **the same D66 architecture**; they diverge only on *how many tables* and *how they're indexed*.
+This is the engine's signature consequence rule and the most directly portable artifact in the whole system. Both games use **the same D66 architecture**; they diverge only on *how many tables* and *how they're indexed*.
 
 ### 5.1 The shared D66 architecture
 
-**Source instance (both):** When a critical injury is triggered, roll **D66** (two D6, one Tens, one Units). The result is read against a table whose rows are the 36 outcomes `11`–`66`. Each row carries a fixed column schema:
+**Source instance (both):** When a critical injury is triggered, roll **D66** (two D6, one Tens, one Units). The result is read against a table whose rows are the 36 outcomes `11`–`66`. Each row carries a fixed column write-up:
 
 | Column | Meaning |
 | --- | --- |
@@ -97,17 +97,17 @@ This is the engine's signature consequence mechanic and the most directly portab
 | **Long-term / permanent effect** | What lingers *after* healing time (often preventable by a healing roll). |
 | **Healing time** | D6/2D6/3D6 days or weeks; or "Permanent." |
 
-FL `06-critical-injuries.md:188-211` (Slash, canonical schema); West `05-conflict-and-damage.md:521-560` (master table, columns: Roll / Location / Injury / Fatal / Healing Time / Immediate Effect / Long-term Effect).
+FL `06-critical-injuries.md:188-211` (Slash, canonical write-up); West `05-conflict-and-damage.md:521-560` (master table, columns: Roll / Location / Injury / Fatal / Healing Time / Immediate Effect / Long-term Effect).
 
 **The Tens/Units encoding — the core trick:** In West the **Tens die = body location** (1=Lower Leg, 2=Upper Leg, 3=Arm, 4=Gut, 5=Chest, 6=Head) and the **Units die = severity** (low = minor, high = catastrophic), so the table is literally a *6×6 location×severity grid* read top-to-bottom, left-to-right. West `:476`. FL uses the same Tens/Units geometry but indexes by *wound kind* within each typed family rather than a single location axis. A **Called Shot** that produces a critical fixes the Tens (location) die and rolls only the Units die for severity — West `:478`; FL has no called-shot variant in the harm chapter.
 
-**The `65` / `66` climax row:** Both engines reserve the top of the table for the worst outcomes. FL's rule is explicit and elegant: a **`65`** = "should kill you, but if someone saves you in time, roll on the matching **Permanent Injuries** table instead" — so `65` is the *maiming* threshold, survivable but scarring. A **`66`** = final, body destroyed beyond rescue ("Decapitation," "Crushed skull," "Burnt to a crisp"). FL `06-critical-injuries.md:22-27, 209-210, 256-257, 358-359`. West's master table has `66` as instant death ("Terrible hit to the head — You are very dead") and `65` as a survivable-but-grim throat wound; West `:559-560`. The `65`/`66` split is a **reusable lethality dial** (see §5.4).
+**The `65` / `66` climax row:** Both engines reserve the top of the table for the worst outcomes. FL's rule is explicit and elegant: a **`65`** = "should kill you, but if someone saves you in time, roll on the matching **Permanent Injuries** table instead" — so `65` is the *maiming* threshold, survivable but scarring. A **`66`** = final, body destroyed beyond rescue ("Decapitation," "Crushed skull," "Burnt to a crisp"). FL `06-critical-injuries.md:22-27, 209-210, 256-257, 358-359`. West's master table has `66` as instant death ("Terrible hit to the head — You are very dead") and `65` as a survivable-but-grim throat wound; West `:559-560`. The `65`/`66` split is a **reusable lethality choice** (see §5.4).
 
 **Two trigger paths (both):**
 1. **Surplus-success / Crit-Rating path:** spend enough stunts/extra successes to buy a crit (West: each weapon has a **Crit Rating** = stunts needed; FL `03-skills.md` Stunts). West `:469`.
 2. **Broken-takes-more-damage path:** a character already Broken who takes more damage to the Broken attribute auto-triggers a critical injury. West `:470`; FL routes Strength/Wits-Broken to the relevant table (`06-critical-injuries.md:5`).
 
-**Generic mechanism:** a **D66 lookup** that converts "a really bad hit" into a *specific, named, narratively-loaded consequence* with a lethal flag, a countdown, an immediate penalty, a healing time, and a possible permanent effect. The table is the engine's *memory of harm* — it replaces generic HP loss with injury that *means something*. **Layer:** General (the architecture); the table *contents* are genre work (§5.4).
+**Common pattern:** a **D66 lookup** that converts "a really bad hit" into a *specific, named, narratively-loaded consequence* with a lethal flag, a countdown, an immediate penalty, a healing time, and a possible permanent effect. The table is the engine's *memory of harm* — it replaces generic HP loss with injury that *means something*. **Layer:** General (the architecture); the table *contents* are genre work (§5.4).
 
 ### 5.2 FL's innovation — the family of typed tables
 
@@ -121,7 +121,7 @@ FL `06-critical-injuries.md:188-211` (Slash, canonical schema); West `05-conflic
 
 ### 5.4 Generalizing "typed critical-injury families" — the recipe
 
-> **This is the file's central reusable deliverable.** The recipe: *for each damage type your genre cares about, build a D66 family.* The architecture is fixed; the *set of families* is the genre dial.
+> **This is the file's central reusable deliverable.** The recipe: *for each damage type your genre cares about, build a D66 family.* The architecture is fixed; the *set of families* is the genre choice.
 
 **The fixed architecture (port as-is):**
 1. **Roll D66.** Tens = one axis (location, or wound-site); Units = severity (low→high).
@@ -130,7 +130,7 @@ FL `06-critical-injuries.md:188-211` (Slash, canonical schema); West `05-conflic
 4. **Reserve `65` = maiming threshold** (survivable only via timely rescue → roll on Permanent table) and **`66` = final death** (body destroyed). This `65`/`66` split is the engine's reusable *lethality climax*.
 5. **`11`–`~25` = cosmetic/minor** (no penalty or trivial); **`~31`–`~46` = debilitating but survivable** (penalties, slowed); **`51`+ = lethal** (countdown to death).
 
-**The genre dial — choosing the family set:**
+**The genre choice — choosing the family set:**
 | Genre | Recommended typed families |
 | --- | --- |
 | **Dark fantasy / survival** (FL) | Slash, Stab, Blunt Force, Burn, Acid, Cold, Swallow, Horror — *8 families.* |
@@ -147,7 +147,7 @@ FL `06-critical-injuries.md:188-211` (Slash, canonical schema); West `05-conflic
 5. Build the matching Permanent Injuries table (for survivors of `65`) if the genre wants lasting scars; omit it for pulp.
 6. Decide the `66`: make it *final and evocative* ("Decapitation," "Burnt to a crisp," "Your head leaves your body").
 
-**Cross-link — this pattern recurs in magic mishaps:** FL's per-discipline spell mishap tables use the identical "one typed table per thing that can go wrong" architecture. See `05-power-layer.md` §5 (mishaps). **Treat "typed D66 family" as a cross-cutting engine primitive:** anywhere the game needs *specific, memorable, genre-flavored* consequences for a *category* of bad outcome (combat harm, magic failure, social ruin, vehicle crash), build a typed D66 family. Flag in `14-recipes-new-game-new-rule.md`.
+**Cross-link — this pattern recurs in magic mishaps:** FL's per-discipline spell mishap tables use the identical "one typed table per thing that can go wrong" architecture. See `05-power-layer.md` §5 (mishaps). **Treat "typed D66 family" as a cross-cutting engine pattern:** anywhere the game needs *specific, memorable, genre-flavored* consequences for a *category* of bad outcome (combat harm, magic failure, social ruin, vehicle crash), build a typed D66 family. Flag in `14-recipes-new-game-new-rule.md`.
 
 **Layer:** General (the D66 architecture + the `65`/`66` climax + the typed-family *pattern*); Situational (each specific family's contents are genre work); Optional (the Permanent Injuries sub-table — omit for low-lethality games).
 
@@ -157,22 +157,22 @@ FL `06-critical-injuries.md:188-211` (Slash, canonical schema); West `05-conflic
 
 **Source instance (West):** Five conditions — **Starving, Dehydrated, Exhausted, Freezing, Heatstroke** — structurally identical to FL's, mapped onto the paired attributes (Starving→Grit, Dehydrated→all attributes, Exhausted→Docity/Cunning, Freezing→Grit/Cunning, Heatstroke→all). West `05-conflict-and-damage.md:509-597`. West adds the Freezing *interval ladder* (above freezing = roll/day; sub-zero = roll/Shift; extreme = roll/Turn) and a Heatstroke rule that **imposes Trouble on all rolls** (not just pushed) — tying conditions to the failure-pressure layer. West `:589, 594`.
 
-**Generic mechanism — the deprivation layer:** a set of states, each defined by (1) a **trigger** (skip a need for one interval), (2) a **recovery block** (can't heal attribute X), (3) an **attrition tick** (lose N to attribute X per interval), (4) a **lethal breakpoint** (if X Breaks, death after one more interval), and (5) a **clear condition** (resume the need). **Layer:** General (the pattern); the *specific conditions* are genre work (FL's Addicted has no West equivalent; West's Heatstroke has no FL equivalent). Tie to `06-travel-and-downtime.md` (conditions are primarily a *travel* pressure).
+**Common pattern — the deprivation layer:** a set of states, each defined by (1) a **trigger** (skip a need for one interval), (2) a **recovery block** (can't heal attribute X), (3) an **attrition tick** (lose N to attribute X per interval), (4) a **lethal breakpoint** (if X Breaks, death after one more interval), and (5) a **clear condition** (resume the need). **Layer:** General (the pattern); the *specific conditions* are genre work (FL's Addicted has no West equivalent; West's Heatstroke has no FL equivalent). Tie to `06-travel-and-downtime.md` (conditions are primarily a *travel* pressure).
 
-**Design intent:** Conditions are the engine's **slow clock**. Where combat damage is acute, conditions are *chronic* — they make the passage of time itself a threat. They also make **basic survival logistics** (food, water, sleep, shelter, warmth) mechanically load-bearing, which is why they cluster in the travel chapter. The recovery-block is the cruel part: you can't heal *while* starving, so deprivation compounds rather than merely wounds.
+**Design intent:** Conditions are the engine's **slow clock**. Where combat damage is acute, conditions are *chronic* — they make the passage of time itself a threat. They also make **basic survival logistics** (food, water, sleep, shelter, warmth) load-bearing in the rules, which is why they cluster in the travel chapter. The recovery-block is the cruel part: you can't heal *while* starving, so deprivation compounds rather than merely wounds.
 
-**Dials & instantiation recipe:**
-| Dial | FL | West | Choice |
+**Rule Choices & Build Recipe:**
+| Choice | FL | West | Choice |
 | --- | --- | --- | --- |
 | **Condition set** | Hungry, Thirsty, Sleepy, Cold, Addicted | Starving, Dehydrated, Exhausted, Freezing, Heatstroke | Pick the 4–6 deprivations your setting's *travel* threatens. |
 | **Recovery block scope** | One attribute each (Strength / all / Wits / Str+Wits / Empathy) | Mapped to paired attrs (Grit / all / Docity+Cunning / Grit+Cunning / all) | Single-attr = clean routing to crit tables; paired = attritional spread. |
 | **Lethal breakpoint** | Die after one more interval when tied attr Breaks | Make a Death roll, then repeat per interval | FL = deterministic grimness; West = a fighting chance each interval. |
 | **Interaction with failure layer** | (none direct) | Heatstroke imposes Trouble on *all* rolls | Borrow the West trick to make a condition *feel* debilitating at the dice. |
-| **Interval granularity** | Endurance rolls at GM-set frequency (winter = hourly) | Ladder: day/Shift/Turn by severity | Use a ladder when you want cold/heat to *escalate* mechanically. |
+| **Interval granularity** | Endurance rolls at GM-set frequency (winter = hourly) | Ladder: day/Shift/Turn by severity | Use a ladder when you want cold/heat to *escalate in the rules. |
 
 ## 7. Environmental harm (fire / blast / fall / drown / poison / disease / darkness)
 
-Both games treat environmental hazards as **rated pressures** — each hazard has a single numeric rating that drives an opposed or flat roll, and damage scales with successes. The *rating* is the reusable abstraction; the specific hazard is genre instantiation.
+Both games treat environmental hazards as **rated pressures** — each hazard has a single numeric rating that drives an opposed or flat roll, and damage scales with successes. The *rating* is the reusable abstraction; the specific hazard is genre build.
 
 ### 7.1 Fire — Intensity
 **FL:** not given a standalone Intensity rule in the harm chapter; fire routes through the **Burn critical-injury table** when Broken. FL `06-critical-injuries.md:29, 327-359`.
@@ -186,7 +186,7 @@ Both games treat environmental hazards as **rated pressures** — each hazard ha
 ### 7.3 Falling
 **FL:** 0.5 damage/meter (round up). Reduce by MOVE successes, −1 more for a controlled jump (fast action). May take −2 on MOVE to try to land standing (only if no crit). Metal armor gives no protection. FL `:118-119`.
 **West:** damage = height(m) ÷ 2 (round down). Controlled jump: MOVE roll, each success −1 damage. GM may call a crit. Falling from a horse = 8-dice attack (damage 1, Crit 2), halved by a MOVE roll. West `:617-623`.
-**Generic:** fall damage = **linear in height**; mitigated by a movement/agility roll; optional crit trigger. **Layer:** General. Both converge on height÷2; the horse-fall-as-attack is a nice West instantiation of "animal throws you = an attack."
+**Generic:** fall damage = **linear in height**; mitigated by a movement/agility roll; optional crit trigger. **Layer:** General. Both converge on height÷2; the horse-fall-as-attack is a nice West build of "animal throws you = an attack."
 
 ### 7.4 Drowning
 **FL:** Swim assumed. In water: ENDURANCE/Turn to stay afloat; if sunk, ENDURANCE/round to hold breath; fail = drown, 1 Strength damage/round; Broken-while-drowning = die in D6 minutes. FL `:115, 121-123`.
@@ -196,7 +196,7 @@ Both games treat environmental hazards as **rated pressures** — each hazard ha
 ### 7.5 Poison / Venom — Potency
 **FL:** Potency as an **opposed roll** — GM rolls Potency Base Dice vs your ENDURANCE. Win = full effect, lose = limited effect. Four types: **Lethal (Str), Paralyzing (Agi), Sleeping (Wits), Hallucinogenic (Emp)** — each deals 1 damage/round to its attribute until Broken (antidote halts). FL `:125-151`.
 **West:** Potency **1–3** (rarely 4+). You roll RESILIENCE; need successes ≥ Potency. Fail = full, pass = limited. Same four types mapped to West's pairs: **Lethal (Hurts), Paralyzing (Shakes), Sleeping (Vexes), Hallucinogenic (Doubts)**. West `:629-665`.
-**Generic — poison as a rated opposed/threshold pressure:** a poison has (1) a **Potency rating** (the dice or the threshold), (2) a **speed** (Round/Turn/Shift), (3) a **target attribute** per type, (4) **full vs limited effect** gated by a resist roll, (5) an **antidote/healing halt**. The *four-type taxonomy* (lethal/paralyzing/sleeping/hallucinogenic → body/agility/mind/soul) is itself reusable. **Layer:** General (the model + the four-type taxonomy).
+**Generic — poison as a rated opposed/threshold pressure:** a poison has (1) a **Potency rating** (the dice or the threshold), (2) a **speed** (Round/Turn/Shift), (3) a **target attribute** per type, (4) **full vs limited effect** gated by a resist roll, (5) an **antidote/healing halt**. The *four-type families* (lethal/paralyzing/sleeping/hallucinogenic → body/agility/mind/soul) is itself reusable. **Layer:** General (the model + the four-type families).
 
 ### 7.6 Disease — Virulence
 **FL:** Virulence (typical 3, higher exists). Opposed ENDURANCE vs Virulence to resist; fail = Sick. Next day: 1 damage to the disease's attribute (Str or Agi by nature); can't recover it while sick; daily sickness roll, each fail = +1 damage; recover after successes = Virulence (non-consecutive); each failed roll = cumulative −1 (min 1 die). Str-Broken-sick = die next day; Agi-Broken-sick = bedridden, fail = die. FL `:153-170`.
@@ -208,7 +208,7 @@ Both games treat environmental hazards as **rated pressures** — each hazard ha
 **West:** In total darkness, MOVE to run (fail ≥1 damage). Melee at Arm's Length OK but must HAWKEYE (free action) to locate first. Ranged: HAWKEYE to attempt, then −3, and range mods doubled. West `:682-688`.
 **Generic — darkness as a sensory-deprivation pressure:** running/moving blind = damage risk; attacking blind = locate-first gate + severe penalty + range compression. **Layer:** Situational (only where light scarcity matters).
 
-**Design intent (environmental harm, overall):** Every environmental hazard is a **number you can dial** (Intensity, Blast Power, Potency, Virulence, height, depth, darkness-level). This makes hazards *scalable and combinable* — a "Potency 6 venom in a Freezing storm" is two rated pressures stacking. The opposed/threshold resist roll means hazard damage is *earned through the dice*, not just declared, which keeps players engaged with the threat rather than passively taking damage. **Layer:** General (the rated-pressure model); specific hazards Situational.
+**Design intent (environmental harm, overall):** Every environmental hazard is a **number you can choice** (Intensity, Blast Power, Potency, Virulence, height, depth, darkness-level). This makes hazards *scalable and combinable* — a "Potency 6 venom in a Freezing storm" is two rated pressures stacking. The opposed/threshold resist roll means hazard damage is *earned through the dice*, not just declared, which keeps players engaged with the threat rather than passively taking damage. **Layer:** General (the rated-pressure model); specific hazards Situational.
 
 ## 8. Stabilization and death rolls
 
@@ -216,11 +216,11 @@ Both games treat environmental hazards as **rated pressures** — each hazard ha
 
 **Source instance (West):** If a critical injury is **Fatal**, you must be **Stabilized** (a DOCTORIN' roll, sometimes with a severity modifier) or you die. Until Stabilized, each time the listed duration passes you make a **Death roll**: roll RESILIENCE using your **full Grit** (not current), **cannot push**. Fail = die; succeed = linger, roll again next interval. A few injuries are **Instant Death**. West `:499-503`. West cleanly separates the two healing jobs: one DOCTORIN' roll to **Stabilize** (save your life), another to **get you up** (restore points), optionally a third to **prevent the long-term effect**. West `:489`.
 
-**Generic mechanism — the death threshold:** Lethal injuries start a **countdown** (the Time Limit). To survive, you need a **stabilization roll** from a healer (one attempt each; sometimes penalized by severity). If the countdown expires unstabilized, you're in **death-roll territory**: FL resolves it as "time's up, you die unless healed in time"; West adds an explicit **periodic un-pushable Death roll** that buys you another interval on a success. Instant-death results bypass all of this. **Layer:** General (the countdown + stabilization); the explicit periodic Death roll is Optional (West's model gives more dramatic "lingering" beats; FL's is cleaner/faster).
+**Common pattern — the death threshold:** Lethal injuries start a **countdown** (the Time Limit). To survive, you need a **stabilization roll** from a healer (one attempt each; sometimes penalized by severity). If the countdown expires unstabilized, you're in **death-roll territory**: FL resolves it as "time's up, you die unless healed in time"; West adds an explicit **periodic un-pushable Death roll** that buys you another interval on a success. Instant-death results bypass all of this. **Layer:** General (the countdown + stabilization); the explicit periodic Death roll is Optional (West's model gives more dramatic "lingering" beats; FL's is cleaner/faster).
 
-**Design intent:** The death threshold exists so that **Broken ≠ dead** — it creates a *rescue window* and a role for healers/doctors. The un-pushable Death roll (West) or the hard time limit (FL) means you can't metacurrency your way out of a mortal wound; only another character's competence (or luck) saves you. This makes the party's medic load-bearing and gives every lethal hit a *ticking clock* the table can rally around.
+**Design intent:** The death threshold exists so that **Broken ≠ dead** — it creates a *rescue window* and a role for healers/doctors. The un-pushable Death roll (West) or the hard time limit (FL) means you can't Willpower/Faith your way out of a mortal wound; only another character's competence (or luck) saves you. This makes the party's medic load-bearing and gives every lethal hit a *ticking clock* the table can rally around.
 
-**Dials & instantiation recipe:**
+**Rule Choices & Build Recipe:**
 - **Death model** — *hard time limit* (FL: die when time's up unless healed) / *periodic death roll* (West: RESILIENCE/full-attribute, un-pushable, each interval). FL `:7-13`; West `:499-503`. *Use periodic rolls when you want the dying character's player to keep rolling (engagement); use the hard limit when you want urgency and GM pacing control.*
 - **Stabilization gate** — *healing roll, one attempt each* (FL) / *DOCTORIN' roll with severity modifier* (West). *Severity modifiers make harder wounds harder to save.*
 - **Self-heal penalty** — FL: −2 to heal yourself (`:9`). *Include if you want self-rescue to be desperate, not reliable.*
@@ -231,27 +231,27 @@ Both games treat environmental hazards as **rated pressures** — each hazard ha
 
 **Source instance (West):** Resting recovers **1 attribute point per Turn** (5–10 min); you choose the order across damaged attributes. The fastest way up from Broken is another's **DOCTORIN'** roll — recover points = successes rolled (one attempt each, further attempts no effect). Immediate crit effects heal only with time (expire at healing time); long-term effects are preventable by a DOCTORIN' roll *during* the healing time. West `:457-491`.
 
-**Generic mechanism — the bounce-back layer:** Two recovery axes: **(a) attribute points** regenerate on a fixed cadence per rest unit (Turn/Shift/Quarter-Day), faster with a healer's roll; **(b) critical-injury effects** heal on the row's healing-time clock, accelerated by a healing roll, with long-term effects gated behind a preventive heal. Conditions block (a) until cleared (§6). **Layer:** General. Tie to `06-travel-and-downtime.md` (the rest cadence lives in the travel system) and `02-progression-and-xp.md` (training as recovery-adjacent downtime).
+**Common pattern — the bounce-back layer:** Two recovery axes: **(a) attribute points** regenerate on a fixed cadence per rest unit (Turn/Shift/Quarter-Day), faster with a healer's roll; **(b) critical-injury effects** heal on the row's healing-time clock, accelerated by a healing roll, with long-term effects gated behind a preventive heal. Conditions block (a) until cleared (§6). **Layer:** General. Tie to `06-travel-and-downtime.md` (the rest cadence lives in the travel system) and `02-progression-and-xp.md` (training as recovery-adjacent downtime).
 
 **Design intent:** Healing is deliberately **two-tracked and unequal**: attribute points bounce back fast (you're back in the fight soon), but *injury effects* linger on their own clock (the gut wound still hurts for 2D6 days even after your Strength returns). This is what makes critical injuries *matter* — they outlast the combat that caused them and bleed into the travel/downtime loop. The healer/doctor is the single biggest lever on both clocks.
 
-**Dials & instantiation recipe:**
+**Rule Choices & Build Recipe:**
 - **Attribute recovery cadence** — *1/Turn* (West, fast) / *per Quarter-Day or shift* (FL, slow, in travel). *Fast = action-game tempo; slow = survival attrition.*
 - **Healer acceleration** — *halves remaining injury healing time* (FL) / *restores N attribute points = successes, one attempt* (West). FL `:17`; West `:463`. *Both make the medic valuable; FL's model is better for injury pacing, West's for combat re-entry.*
 - **Long-term-effect prevention** — *DOCTORIN' during healing time prevents it* (West `:485`). *Include a preventive-heal window if you want permanent scars to be avoidable-but-costly rather than fated.*
 
 ## 10. Permanent injury and retirement ("When the Road Ends")
 
-**Source instance (FL):** Two mechanisms. (a) **Permanent Injuries tables** — when a physical crit rolls **`65`** and someone saves you, you instead roll on the matching Permanent Injuries table; results range from "−1 to ENDURANCE" scarring to "Strength and Agility permanently reduced to 1; retirement is the default." FL `06-critical-injuries.md:22-27, 212-233, 259-280, 304-325, 361-382, 402-415, 435-448, 468-481`. (b) **"When the Road Ends"** — an explicit, *dignified* retirement path: when a survivor is too broken to adventure but still alive, the player may let them "step away from the danger without shame." They become a **follower/retainer NPC** (quartermaster, healer's hand, counselor) and keep earning 1 XP/session as a hireling, or are settled somewhere safe. "Such a one has not failed. They have survived." FL `:33-39`. Magic (Lucky rank 4, Physician rank 3, Mend Wounds, Regeneration) can downgrade a permanent injury — so even maiming is sometimes reversible with enough power and speed. FL `:27`.
+**Source instance (FL):** Two rule patterns. (a) **Permanent Injuries tables** — when a physical crit rolls **`65`** and someone saves you, you instead roll on the matching Permanent Injuries table; results range from "−1 to ENDURANCE" scarring to "Strength and Agility permanently reduced to 1; retirement is the default." FL `06-critical-injuries.md:22-27, 212-233, 259-280, 304-325, 361-382, 402-415, 435-448, 468-481`. (b) **"When the Road Ends"** — an explicit, *dignified* retirement path: when a survivor is too broken to adventure but still alive, the player may let them "step away from the danger without shame." They become a **follower/retainer NPC** (quartermaster, healer's hand, counselor) and keep earning 1 XP/session as a hireling, or are settled somewhere safe. "Such a one has not failed. They have survived." FL `:33-39`. Magic (Lucky rank 4, Physician rank 3, Mend Wounds, Regeneration) can downgrade a permanent injury — so even maiming is sometimes reversible with enough power and speed. FL `:27`.
 
 **Source instance (West):** Permanent effects live in the master table's **Long-term Effect** column — preventable by a timely DOCTORIN' roll, otherwise permanent (limp, lost limb, blindness, vocal impairment, −1 to an ability). West `:521-560`. There is **no explicit retirement prose**: a permanently maimed PC is simply played with their lasting effects, or (by implication) replaced. The graceful-exit *beat* that FL makes explicit is left to the table in West.
 
-**Generic mechanism — the graceful-exit layer:** When harm makes a PC **unplayable** (stats floor-capped, limb lost, mind gone), the system offers (1) a **permanent-injury resolution** (roll on a Permanent table instead of dying), and (2) a **retirement path** that converts the PC into an NPC asset rather than a dead sheet. The exit is framed as a *story beat and a survival*, not a failure. **Layer:** General (permanent-injury tables); the *retirement-as-NPC* path is Optional but **strongly recommended** — it preserves player investment and seeds the party with supporting cast.
+**Common pattern — the graceful-exit layer:** When harm makes a PC **unplayable** (stats floor-capped, limb lost, mind gone), the system offers (1) a **permanent-injury resolution** (roll on a Permanent table instead of dying), and (2) a **retirement path** that converts the PC into an NPC asset rather than a dead sheet. The exit is framed as a *story beat and a survival*, not a failure. **Layer:** General (permanent-injury tables); the *retirement-as-NPC* path is Optional but **strongly recommended** — it preserves player investment and seeds the party with supporting cast.
 
 **Design intent:** This layer exists to answer the hardest question in a lethal RPG: *what happens when a character is too broken to play but too loved to discard?* FL's answer is the genre's most graceful: the survivor doesn't "lose" — they *change role*. This (a) keeps the character in the fiction, (b) rewards the player's survival with continued relevance, and (c) gives the party a non-combat resource (a healer's hand, a counselor) that emerges *from loss*. The permanent-injury tables make maiming **specific and memorable** (a lost eye, a ruined liver) rather than a generic stat penalty — so the retired NPC *carries their story in their body*.
 
-**Dials & instantiation recipe:**
-- **Permanent-injury resolution** — *dedicated Permanent tables per family* (FL) / *Long-term Effect column on the master table, preventable by heal* (West). *Use dedicated tables when you want maiming to be a rich sub-system; use the inline column when you want parsimony.*
+**Rule Choices & Build Recipe:**
+- **Permanent-injury resolution** — *dedicated Permanent tables per family* (FL) / *Long-term Effect column on the master table, preventable by heal* (West). *Use dedicated tables when you want maiming to be a rich rule set; use the inline column when you want parsimony.*
 - **Reversibility** — *high-tier magic/talent can downgrade* (FL: Lucky 4, Physician 3, Regeneration) / *preventable only during healing window, then fixed* (West). FL `:27`. *Reversibility ceiling = how forgiving your world is.*
 - **Retirement path** — *explicit "become a retainer NPC, keep XP"* (FL) / *implicit* (West). *Include the explicit path; it's nearly free and transforms the experience of character loss.*
 
@@ -262,7 +262,7 @@ Both games treat environmental hazards as **rated pressures** — each hazard ha
 | **Critical-injury architecture** | **Family of typed tables** (8 families: Slash/Blunt/Stab/Burn/Acid/Cold/Swallow/Horror) | **Single master table** indexed by location (Tens) × severity (Units) | Damage-type specificity vs anatomical parsimony | Typed families when the genre has *meaningfully different* harm types; master table when all weapon hits are basically "a wound somewhere" |
 | **Damage→attribute mapping** | Single named attribute per source | Paired split (Hurts/Shakes; Doubts/Vexes), alternating | Clean routing vs two-axis attrition | Single when damage type must route to a table; split when physical/mental harm should spread across two stats |
 | **Broken fiction** | Generic helplessness | Per-attribute helplessness flavor (collapse / drained / outburst / panic) | One state vs four story-beats | Per-attribute when Broken should be a narrative event, not just a number |
-| **Permanent injury** | Dedicated Permanent table per family (on `65`) | Inline Long-term Effect column (preventable by heal) | Rich maiming sub-system vs parsimony | Dedicated tables for survival/ horror; inline for action |
+| **Permanent injury** | Dedicated Permanent table per family (on `65`) | Inline Long-term Effect column (preventable by heal) | Rich maiming rule set vs parsimony | Dedicated tables for survival/ horror; inline for action |
 | **Death model** | Hard time limit (die when up unless healed) | Periodic un-pushable Death roll (full Grit) each interval | Urgency/pacing vs player engagement | Hard limit for GM-paced grit; death rolls to keep the dying player rolling |
 | **Stabilization** | healing roll, one each, self at −2 | DOCTORIN' with severity modifier; separate stabilize/revive/prevent rolls | Simple vs layered healer roles | Layered (West) when the medic should have distinct jobs; simple (FL) for speed |
 | **Conditions** | 5 (incl. Addicted); single-attr recovery block | 5 (incl. Heatstroke); paired-attr; Heatstroke imposes Trouble | Trait-flavored vs attritional-spread + dice-pressure | FL-style for clean routing; West-style (esp. Trouble-on-all-rolls) when conditions should *feel* bad at the dice |
@@ -273,9 +273,9 @@ Both games treat environmental hazards as **rated pressures** — each hazard ha
 | **Retirement path** | Explicit "retainer NPC, keep XP," dignified prose | Implicit | Story-beat exit vs table-decides | Always consider FL's explicit path; it's high-value, low-cost |
 | **Called-shot crits** | (none in harm chapter) | Fix Tens (location), roll only Units for severity | — | Include when called shots should guarantee a hit *location* |
 
-## 12. Dials and instantiation recipe
+## 12. Rule Choices and Build Recipe
 
-Each dial has FL and West as two calibrated points. To build the harm layer for a new game, set each dial — **in this order**, because earlier choices constrain later ones.
+Each choice has FL and West as two calibrated points. To build the harm layer for a new game, set each choice — **in this order**, because earlier choices constrain later ones.
 
 1. **Attribute-as-HP mapping** — single-attribute-per-source (FL) / paired split (West) / combined-attribute or flat-value health track (Coriolis-style, §3). *Sets how harm is recorded, how many "wound tracks" exist, and how swingy/lethal damage feels. Health tracks trade specificity for survivability.*
 2. **Critical-injury architecture** — typed family set (FL) / single master table (West) / hybrid. ***The signature choice.*** *Decide which damage types your genre cares about — that list becomes your typed families (§5.4).*
@@ -290,12 +290,12 @@ Each dial has FL and West as two calibrated points. To build the harm layer for 
 
 **Instantiation recipe (any genre):**
 1. **List the harm types your genre cares about.** This list is your design commitment. (FL: edge/pierce/blunt/fire/acid/cold/swallow/madness. West: anatomical hits + fire/cold/starvation.) → becomes either typed families or confirms a single master table suffices.
-2. **Set the attribute-as-HP mapping** (dial 1) — this determines how damage routes to consequences.
-3. **Build the D66 architecture** (dial 2–3): port the schema, set the `65`/`66` climax, write rows by severity tier. If typed families, build one per harm type from step 1.
-4. **Decide permanence and death** (dials 4–5): how often do injuries scar, and how do people die?
-5. **Wire the healer** (dial 6): what rolls save lives, restore points, prevent scars?
-6. **Lay in the slow clock and world pressure** (dials 7–8): conditions + rated hazards.
-7. **Set recovery tempo and the exit path** (dials 9–10): how fast do PCs bounce back, and what happens when they can't?
+2. **Set the attribute-as-HP mapping** (choice 1) — this determines how damage routes to consequences.
+3. **Build the D66 architecture** (choice 2–3): port the write-up, set the `65`/`66` climax, write rows by severity tier. If typed families, build one per harm type from step 1.
+4. **Decide permanence and death** (choices 4–5): how often do injuries scar, and how do people die?
+5. **Wire the healer** (choice 6): what rolls save lives, restore points, prevent scars?
+6. **Lay in the slow clock and world pressure** (choices 7–8): conditions + rated hazards.
+7. **Set recovery tempo and the exit path** (choices 9–10): how fast do PCs bounce back, and what happens when they can't?
 8. **Validate against the math** (see `13-balance-and-synergy.md`): expected damage per round, time-to-Broken, rescue-window length, condition attrition rate. Confirm the lethality climax (`65`/`66`) triggers at the intended frequency given your crit-trigger path (Crit Rating / Broken-takes-damage).
 
 ## 13. Design intent
@@ -308,7 +308,7 @@ The harm layer is engineered to make **damage stick in memory, not just on the s
 - **The typed-family pattern (FL's innovation)** turns "what kinds of harm matter?" into a first-class design decision. The set of tables *is* a portrait of the genre's threats — and the pattern is reusable for any category of bad outcome (magic mishaps, social ruin, vehicle crashes). See §5.4 and `05-power-layer.md`.
 - **Conditions are the slow clock** that makes the *passage of time* a threat, tying harm to the travel loop (`06-travel-and-downtime.md`) and making survival logistics load-bearing.
 - **Rated environmental hazards** (Intensity/Potency/Virulence/Blast Power) make the world *scalable and combinable* — pressures stack, and damage is earned through resist rolls, not declared.
-- **The death threshold + stabilization window** keeps Broken ≠ dead, creates a ticking clock the party rallies around, and makes the medic load-bearing. The un-pushable death roll (West) or hard time limit (FL) ensures metacurrency can't cheat a mortal wound — only competence or luck saves you.
+- **The death threshold + stabilization window** keeps Broken ≠ dead, creates a ticking clock the party rallies around, and makes the medic load-bearing. The un-pushable death roll (West) or hard time limit (FL) ensures Willpower/Faith can't cheat a mortal wound — only competence or luck saves you.
 - **The graceful-exit / retirement path** answers the hardest question in a lethal game — *what happens when a PC is too broken to play but too loved to discard?* — by converting loss into a story beat and a party asset. "Such a one has not failed. They have survived." FL `06-critical-injuries.md:37`.
 
 The divergence between FL and West is the engine's proof that **the same D66 architecture supports opposite tones by changing the table's *shape***: FL's eight typed families produce a game where *the kind of wound is the story*; West's single anatomical master table produces a game where *where you got hit is the story*. A new genre's job is to decide *what about a wound its players should remember* — and build the table family that makes that legible.

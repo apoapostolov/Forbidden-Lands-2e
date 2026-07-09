@@ -2,18 +2,18 @@
 
 # Monsters, Threats & Boss Architecture — Danger Without Stat Inflation
 
-> **STATUS: WORKSHOP MODULE.** A threat-design framework using phases, tells, clocks, lairs, typed consequences, and pressure payloads instead of bigger numbers. Built from P4, P8, P14, AC1, and AC4.
+> **STATUS: WORKSHOP MODULE.** A threat-design framework using phases, tells, clocks, lairs, typed consequences, and pressure effects instead of bigger numbers. Built from P4, P8, P14, AC1, and AC4.
 
 ## 1. Origin
 
-- **Source primitives:** P4, P8, P14, P15.
+- **Source patterns:** P4, P8, P14, P15.
 - **Operators:** Recalibration + Fusion.
 - **Target psychology:** learn the threat or be punished by it.
 - **Problem solved:** major threats should feel distinct without inflating dice pools beyond the engine's math.
 
 ## 2. Generic design space
 
-A major threat has motives, tells, phases, pressure clocks, environment tags, and consequence payloads. It changes mode when hurt, exposed, fed, angered, or delayed.
+A major threat has motives, tells, phases, pressure clocks, environment tags, and consequence effects. It changes mode when hurt, exposed, fed, angered, or delayed.
 
 ### Threat sheet
 
@@ -22,7 +22,7 @@ A major threat has motives, tells, phases, pressure clocks, environment tags, an
 - **Pressure clock:** 4/6/8 segments.
 - **Phases:** 2-4 modes with different actions.
 - **Lair tags:** terrain or social advantages.
-- **Payload:** harm, stress, corruption, heat, debt, separation, resource loss.
+- **Effect:** harm, stress, corruption, heat, debt, separation, resource loss.
 
 ### Procedure
 
@@ -30,13 +30,13 @@ A major threat has motives, tells, phases, pressure clocks, environment tags, an
 2. Let players answer with positioning, preparation, or sacrifice.
 3. Advance clock on ignored tells or failed counters.
 4. Shift phase when clock fills or threshold is hit.
-5. Use typed payloads, not only damage.
+5. Use typed effects, not only damage.
 
 ### Threat construction menu
 
 Build a major threat by choosing one entry from each column.
 
-| Drive | Tell | Pressure clock | Payload | Weak answer |
+| Drive | Tell | Pressure clock | Effect | Weak answer |
 | --- | --- | --- | --- | --- |
 | feed | smell, silence, tracks | Hunger 4 | harm/resource loss | bait, fire, distance |
 | guard | boundary sign | Trespass 6 | separation/ambush | respect, bargain, route |
@@ -49,10 +49,10 @@ Build a major threat by choosing one entry from each column.
 
 Use 2 phases for a serious encounter, 3 for a boss, 4 for a campaign nemesis.
 
-| Phase | Trigger | Behavior | Mechanical change |
+| Phase | Trigger | Behavior | Rule change |
 | --- | --- | --- | --- |
 | **Stalking** | scene begins | tests, separates, learns | low damage, high positioning |
-| **Revealed** | first wound / clock 2 | uses signature attack | normal damage + payload |
+| **Revealed** | first wound / clock 2 | uses signature attack | normal damage + effect |
 | **Desperate** | half track / clock full | risks itself for goal | +1 die, exposes weakness |
 | **Mythic** | final threshold | changes rules of scene | terrain/lair becomes active |
 
@@ -66,11 +66,11 @@ Use 2 phases for a serious encounter, 3 for a boss, 4 for a campaign nemesis.
 | **MARK PREY** | threat will return | Heat/Threat +1 against one PC |
 | **SHIFT TERRAIN** | lair matters | create obstacle, cover, hazard |
 | **OFFER BARGAIN** | intelligent/eldritch threat | avoid harm by taking Debt/Corruption |
-| **ESCALATE PHASE** | clock fills | change menu and payload |
+| **ESCALATE PHASE** | clock fills | change menu and effect |
 
-### Payload table
+### Effect table
 
-| D6 | Payload | Use for |
+| D6 | Effect | Use for |
 | --- | --- | --- |
 | 1 | Attribute damage | physical monsters |
 | 2 | Stress/Panic | horror threats |
@@ -83,12 +83,12 @@ Use 2 phases for a serious encounter, 3 for a boss, 4 for a campaign nemesis.
 
 - **Tell check:** every hard move has a readable warning.
 - **Counter check:** at least two PC approaches can answer the tell.
-- **Math check:** keep dice normal; make danger from payloads, phases, and clocks.
+- **Math check:** keep dice normal; make danger from effects, phases, and clocks.
 - **Exit check:** if the threat cannot be defeated now, state what survival/win condition exists.
 
 ### Threat archetypes
 
-| Archetype | Core loop | Best payloads | Weakness style | Use for |
+| Archetype | Core loop | Best effects | Weakness style | Use for |
 | --- | --- | --- | --- | --- |
 | **Predator** | stalk -> isolate -> strike | harm, separation, resource | bait, terrain, fire, pack logic | beasts, assassins |
 | **Possessor** | tempt -> inhabit -> reveal | Stress, corruption, social fallout | name, ritual, host bond | ghosts, demons, parasites |
@@ -114,7 +114,7 @@ Use 2 phases for a serious encounter, 3 for a boss, 4 for a campaign nemesis.
 1. First exposure shows a Tell but not the weakness.
 2. Successful READ/RESEARCH/SCOUT reveals a category: material, behavior, place, name, timing, relationship.
 3. A second success or risky experiment reveals the specific weakness.
-4. Using the weakness does not auto-win; it unlocks normal harm, cancels a payload, or forces a phase shift.
+4. Using the weakness does not auto-win; it unlocks normal harm, cancels a effect, or forces a phase shift.
 
 | Weakness category | Examples |
 | --- | --- |
@@ -140,28 +140,28 @@ Roll or choose when the threat controls the location.
 
 ### Worked mini-build
 
-**Bridge Wyrm:** Drive guard/pass toll; Tell coins vibrating on stone; Clock Trespass 6; Phases Stalking under bridge, Revealed on the span, Desperate in river, Mythic when bridge cracks. Payloads: separation, gear loss, territory damage. Weakness: cannot attack someone who pays with a true secret. Lair pressures: fog maze, drowning hazard, trapped travelers.
+**Bridge Wyrm:** Drive guard/pass toll; Tell coins vibrating on stone; Clock Trespass 6; Phases Stalking under bridge, Revealed on the span, Desperate in river, Mythic when bridge cracks. Effects: separation, gear loss, territory damage. Weakness: cannot attack someone who pays with a true secret. Lair pressures: fog maze, drowning hazard, trapped travelers.
 
 ## 3. Pressure loop
 
-Tell -> player response -> clock/payload -> phase shift -> changed tactic.
+Tell -> player response -> clock/effect -> phase shift -> changed tactic.
 
-## 4. Dials
+## 4. Choices
 
-| Dial | Creature | Nemesis | Psychology |
+| Choice | Creature | Nemesis | Psychology |
 | --- | --- | --- | --- |
 | Phases | 1-2 | 3-4 | encounter vs arc villain |
 | Tells | obvious | cryptic but fair | tactical vs mystery |
-| Payload | harm | mixed consequences | fight vs scenario threat |
+| Effect | harm | mixed consequences | fight vs scenario threat |
 
 ## 5. Integration points
 
 Hooks into combat, harm, stress, corruption, territory, mystery, and GM encounters.
 
-## 6. Interface
+## 6. Handshake
 
-- **Prerequisites:** conflict rules and consequence payload.
-- **Inputs:** drive, tell, phase trigger, payload type.
+- **Prerequisites:** conflict rules and consequence effect.
+- **Inputs:** drive, tell, phase trigger, effect type.
 - **Outputs:** threat sheet, clock, phase actions.
 - **Touched systems:** conflict, harm, GM, travel/base if lair matters.
 - **Replaces or stacks:** replaces raw stat inflation for boss design.
@@ -171,13 +171,13 @@ Hooks into combat, harm, stress, corruption, territory, mystery, and GM encounte
 
 Hidden unbeatable moves feel unfair. Tells must be actionable. Phase shifts must change decisions, not only add HP.
 
-## 8. Validation notes
+## 8. Check notes
 
-Use `24 §1`, `§4`, and `§7`. Keep dice pools near normal; make danger from payload, positioning, clocks, and consequences.
+Use `24 §1`, `§4`, and `§7`. Keep dice pools near normal; make danger from effect, positioning, clocks, and consequences.
 
 ## 9. Publication handoff
 
-**GM procedure:** Name the tell before the strongest move. If the players ignore or fail to answer it, advance the threat clock or fire the payload.
+**GM procedure:** Name the tell before the strongest move. If the players ignore or fail to answer it, advance the threat clock or fire the effect.
 
 ## 10. Worked example — Monster hunt
 
