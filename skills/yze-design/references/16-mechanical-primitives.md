@@ -224,7 +224,7 @@ Each entry: **Name** · **One-line definition** · **Core tension it creates** �
 
 ---
 
-## 5. Advanced compositions (AC1-AC12)
+## 5. Advanced compositions (AC1-AC17)
 
 These are not new core primitives. They are repeatable 2-3 primitive fusions that occur often enough in new-game design that an agent should recognize them by name. Use them after choosing a core primitive, not before.
 
@@ -242,6 +242,11 @@ These are not new core primitives. They are repeatable 2-3 primitive fusions tha
 | **AC10** | Rumor economy | Public story spreads and mutates | Fame, fear, myths, propaganda matter | Private reputation is enough | rumor die, spread trigger, distortion table | Snowballing needs decay or backlash | outlaw legend, saint cult, celebrity |
 | **AC11** | Reputation propagation | One act affects connected groups | Social web should feel alive | Factions are isolated quest boards | bond scale, propagation formula, caps | Cap propagated shifts below direct shifts | politics, trade guilds, clans |
 | **AC12** | Ritual/project track | A long task accumulates progress and risk | Invention, research, magic, repair need scenes | A single roll is enough | threshold, roll cadence, mishap trigger | Too many rolls floods metacurrency | spell forging, cure research, fortress build |
+| **AC13** | Life Events | A character's past is generated as gains, scars, debts, and unfinished business | Backstory should produce rules-facing hooks | Background should be pure player-authored color | turn count, mark thresholds, Wear, mustering out | Deep and fast generation must produce equal power | war record, academy years, prison stretch |
+| **AC14** | Menace pool | GM pressure is a visible spendable pool | Heroic play needs dramatic counterpressure | The GM should act only through hidden fiction | starting pool, gain triggers, spend menu, cap | Menace should buy pressure, not cancel success | villain budget, divine wrath, corp response |
+| **AC15** | Holdings and Territory | Claims on a map/social space have control, labor, routes, and contest | Owning land/turf should create play | The base is only a rest spot | Control score, claim state, worker units, road/watch bonuses | Run monthly/seasonally to avoid bookkeeping flood | gang turf, colony, estate, ship network |
+| **AC16** | Riches in the Land | A find has a deposit die, yield, hauling, depletion, and recovery | Resources should be worked over time | Loot should be one-and-done | deposit die, yield type, depletion trigger, hauling risk | Heavy exploitation rolls depletion twice | mine, salvage field, data vault, herb grove |
+| **AC17** | Strange Devices | A crafted object has charges, upkeep, misfire, rare parts, and repair | Gear should feel wondrous but unsafe | It is just a normal weapon tag | charge model, misfire table, repair gate, legality | Strong/reliable/cheap/discreet/easy: pick two | alchemy, gadget, alien tool, prototype |
 
 Each composition should still cite its core primitive parents. Example: Heat/wanted pressure is usually P2 inverted + P4 threshold fallout + AC1 clock behavior.
 

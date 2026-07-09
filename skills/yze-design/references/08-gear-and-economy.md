@@ -18,9 +18,10 @@
 10. Consumables as resource dice
 11. Inventory, transport, and storage pressure
 12. Crafting, construction, investment economics, trade routes, and gambling
-13. Divergence rows (FL vs West)
-14. Dials and instantiation recipe
-15. Design intent
+13. Strange Devices
+14. Divergence rows (FL vs West)
+15. Dials and instantiation recipe
+16. Design intent
 
 ## 1. Source provenance
 
@@ -1190,7 +1191,125 @@ Use this for poker, dice, horse wagering, illegal fight books, speculative tradi
 **Final acceptance test:** a designer should be able to explain for every asset: what it costs, how long it takes, who must work it, where it exists, what it unlocks, how it pays out, what it consumes, and what goes wrong when neglected.
 
 
-## 13. Divergence rows (FL vs West)
+## 13. Strange Devices
+
+Strange Devices are the generic version of inventions, contraptions, unstable gear, alchemy, alien tools, occult apparatus, prototype machines, black-market weapons, siege tricks, cybernetics, and other crafted objects that bend ordinary gear rules without becoming full powers.
+
+Use this section when an item is more than a weapon tag but less than a spell tradition. A Strange Device should feel tempting, useful, and a little unsafe.
+
+### 13.1 Device sheet
+
+| Field | Required answer |
+| --- | --- |
+| Name | a flavorful object name |
+| Kind | contraption, invention, alchemy, gadget, relic, cybernetic, prototype, occult tool |
+| Function | what it lets the user do that ordinary gear cannot |
+| Activation | SLOW, FAST, Turn, Shift, period, or passive |
+| Charges/fuel | uses, resource die, battery, reagent, heat, crew attention, rare parts |
+| Build gate | talent, workshop, teacher, plan, rare material, power tradition, license |
+| Upkeep | what must be repaired, cooled, cleaned, fed, tuned, recharged |
+| Misfire | what happens on banes, Trouble, failed activation, or overuse |
+| Bulk | row count, mount/vehicle need, fixed emplacement, hidden item |
+| Legality | ordinary, restricted, scandalous, illegal, heretical, classified |
+| Repair | skill, time, parts, workshop, specialist |
+| Reskin | at least two genre skins using the same rules |
+
+### 13.2 Device roles
+
+| Role | What it does | Examples |
+| --- | --- | --- |
+| Breacher | opens armor, doors, walls, wards | acid charge, shaped explosive, rune drill, plasma cutter |
+| Shelter | protects from environment or attack | smoke bomb, ward lantern, pressure suit, portable barricade |
+| Sense | reveals hidden things | spirit lens, radio scanner, bloodhound engine, microscope |
+| Motion | moves people or cargo strangely | grapnel, jump rig, levitation disk, mule drone |
+| Control | binds, stuns, lures, frightens | flash powder, shock prod, charm bell, riot foam |
+| Conversion | turns one resource into another | still, generator, blood battery, recycler, forge engine |
+| Treatment | heals, purges, preserves, revives | injector, field kit, alchemical poultice, surgery rig |
+| Signal | sends, hides, jams, records | cipher box, beacon, ghost radio, drone relay |
+| Ruin | damages an area or creates hazard | fire pot, gas shell, swarm jar, unstable reactor |
+
+### 13.3 Charges and upkeep
+
+| Charge model | Use when | Rule |
+| --- | --- | --- |
+| Fixed charges | the device has discrete uses | mark 1 use per activation; reload in downtime |
+| Resource die | uncertainty is more fun than counting | roll after use; 1-2 steps die down |
+| Heat | repeated use is tempting | each use adds Heat; at threshold roll misfire |
+| Rare part | activation consumes scarce input | each use spends a named part/reagent |
+| Crew attention | device is big or dangerous | a helper must spend an action/station |
+| Debt/legal risk | device is socially costly | each use creates heat, witness, favor, or Menace |
+
+**Upkeep rule:** a Strange Device with a strong effect must have at least one active upkeep pressure: rare fuel, noisy use, slow reload, fragile condition, legal danger, repair burden, visible sign, or specialist maintenance.
+
+### 13.4 Building and repairing
+
+**BUILD A STRANGE DEVICE.** Choose a role, write the device sheet, gather gates, and treat construction as a project from `12` or `workshop/13-rituals-projects-and-research.md`. Roll Craft, Lore, Power, or a profession skill at each project interval. Success adds progress. Extra successes may lower charge cost, reduce bulk, add a narrow safety, or improve quality. Failure adds flaw, delay, lost material, debt, injury, or attention.
+
+**REPAIR A STRANGE DEVICE.** Repair requires the right tools and one of: plan, teacher, rare part, workshop, or matching talent. Simple repair takes a Turn/Shift; serious repair takes a period. Failure does not merely say "no": add Worn, Unstable, Leaking, Loud, Hungry, Illegal Mark, or a hidden flaw.
+
+| Build strength | Required gates |
+| --- | --- |
+| Minor trick | tools + common parts + skill |
+| Reliable scene device | talent or plan + workshop + parts |
+| Strong combat/escape device | talent + rare part + misfire + upkeep |
+| Broad utility device | specialist + project + cost + legal/social exposure |
+| Power-adjacent device | power tradition or rare source + backlash table |
+| Campaign-changing device | season project + faction attention + irreplaceable part |
+
+### 13.5 Misfire table
+
+Roll or choose when the device is pushed, overused, badly maintained, activated on a failure, hit in combat, or fed poor parts.
+
+| D66 | Misfire |
+| --- | --- |
+| 11-13 | sputter: effect is delayed until the end of the round/turn |
+| 14-16 | hungry: spend one extra charge, part, or fuel step |
+| 21-23 | loud: nearby enemies, law, spirits, sensors, or rivals notice |
+| 24-26 | hot: user takes 1 damage/condition or must drop it |
+| 31-33 | crooked: effect hits the wrong target, place, or quality |
+| 34-36 | jammed: device cannot be used again until repaired |
+| 41-43 | leaking: creates smoke, acid, sparks, magic residue, data trace, poison, radiation |
+| 44-46 | backlash: user suffers the device's own effect in lesser form |
+| 51-53 | broken part: lose a rare part or step quality down |
+| 54-56 | witness mark: use creates legal heat, rumor, scandal, or Menace |
+| 61-63 | runaway: effect continues one round/turn longer than wanted |
+| 64-66 | catastrophe: explosion, possession, fatal flaw, public disaster, or permanent break |
+
+### 13.6 Payload menu
+
+| Payload | Low effect | Strong effect | Required brake |
+| --- | --- | --- | --- |
+| Blast | area noise, knockdown | area damage | loud, rare charge, friendly fire |
+| Acid/corrosion | weaken lock/armor | destroy barrier/gear | dangerous storage, splash |
+| Fire | light, smoke, panic | burn area/foe | spread risk, weather, witness |
+| Smoke/dark | conceal escape | blind zone | affects allies, wind, limited duration |
+| Light/signal | reveal, communicate | stun, expose hidden | visible to everyone |
+| Shock/stun | cost action | disable briefly | charge limit, armor/insulation |
+| Binding | slow, restrain | hold monster/vehicle | setup, escape roll |
+| Pierce/breach | ignore part armor | open strong barrier | single-use, noise, specialist |
+| Medicine | heal condition | prevent lasting harm | rare dose, side effect |
+| Sensor | clue/track | reveal hidden system | false positive, trace |
+
+### 13.7 Genre skins
+
+| Same device role | Fantasy | Western | Sci-fi | Horror / occult |
+| --- | --- | --- | --- | --- |
+| Breacher | troll-acid vial | nitro charge | plasma cutter | saint-bone corrosive |
+| Shelter | witch-smoke jar | canvas fire screen | hardlight shield | salt-circle lantern |
+| Sense | spirit lens | prospector's assay rig | alien scanner | dead man's camera |
+| Motion | goblin grapnel | rope gun | jump pack | possessed harness |
+| Treatment | druidic poultice press | patent medicine injector | trauma foam | blood transfuser |
+
+### 13.8 Strange Devices validation
+
+- A device may be strong, reliable, cheap, discreet, and easy to repair in any two ways; never all five.
+- If it grants a broad +1 or replaces a skill, make it a talent, artifact, or power instead.
+- If it produces repeated area damage, add rare charges, misfire, noise, and legal attention.
+- If it solves travel, hauling, healing, or locks, make its fuel and repair matter in those same loops.
+- If everyone should own one, make it ordinary gear with tags instead of a Strange Device.
+- If only one character can build or safely use it, write the needed talent/path gate in `02`.
+
+## 14. Divergence rows (FL vs West)
 
 | Decision | FL option | West option | Trade-off | When to choose |
 | --- | --- | --- | --- | --- |
@@ -1212,7 +1331,7 @@ Use this for poker, dice, horse wagering, illegal fight books, speculative tradi
 | **Crafting depth** | Full unit-economy (fractional raw materials, material ladder, masterwork) | Folded into Availability/Quality + business prerequisites | Deep simulation vs light resolution | FL depth when *crafting is a pillar*; West lightness otherwise |
 | **Material-quality ladder** | Iron→Wrought→Steel→Crucible→Dwarven (+1 to +3, talent-gated) | (not present — quality is a buyable grade, not a craftable material) | Make-it-better-by-being-better vs buy-it-better | Port the ladder for any genre where *crafting mastery* should scale output |
 
-## 14. Dials and instantiation recipe
+## 15. Dials and instantiation recipe
 
 Each dial has FL and West as two calibrated points. To build a new game's gear-and-economy layer, set each dial.
 
@@ -1231,6 +1350,7 @@ Each dial has FL and West as two calibrated points. To build a new game's gear-a
 13. **Legendary tier** — on (artifact die + oddities) / off. *(Power ceiling; omit for grounded genres.)*
 14. **Consumables tracking** — resource dice default-on / default-off (loose counting). *(Whether logistics is always-on or opt-in.)*
 15. **Crafting depth** — full unit-economy + material ladder / folded into availability. *(Whether making things is a pillar.)*
+16. **Strange Devices** — off / ordinary gear tags / contraptions with charges + misfires / power-adjacent prototypes. *(Whether unstable inventions are a pillar.)*
 
 **Instantiation recipe (any genre):**
 1. **Set the economy model (dial 1)** first — it does more to set the *feel* of gear than any other choice. Decide whether your characters are *starved* of money (FL pole) or *managed* by it (West pole).
@@ -1241,9 +1361,10 @@ Each dial has FL and West as two calibrated points. To build a new game's gear-a
 6. **Set quality + condition + legendary (dials 11, 13)** to the genre's power ceiling and grit level.
 7. **Set consumables tracking (dial 14)** to the genre's logistics appetite (default-on for survival, default-off for cinematic).
 8. **Decide crafting depth (dial 15)** and, if deep, port the material-quality ladder (§5.2).
-9. **Validate against the math** (see `13-balance-and-synergy.md`): expected weapon damage per round, time-to-Broken, degradation rate vs repair cadence, resource-die exhaustion length for a typical expedition, salary-vs-lifestyle cash flow over a season.
+9. **Decide Strange Devices (dial 16)** if inventions, alchemy, gadgets, occult tools, prototypes, or alien devices need more than ordinary gear tags.
+10. **Validate against the math** (see `13-balance-and-synergy.md`): expected weapon damage per round, time-to-Broken, degradation rate vs repair cadence, resource-die exhaustion length for a typical expedition, salary-vs-lifestyle cash flow over a season, and Strange Device charge/misfire cadence.
 
-## 15. Design intent
+## 16. Design intent
 
 The gear-and-economy layer is engineered so that **what a character carries and what a character is worth are both load-bearing fiction**, not bookkeeping. Specifically:
 

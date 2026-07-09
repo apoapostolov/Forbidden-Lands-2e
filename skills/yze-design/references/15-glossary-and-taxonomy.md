@@ -42,11 +42,12 @@ Read each row as: *"the generic term (left) is what FL calls X (middle) and West
 | **health track** (Optional — combined/flat/external; Coriolis-style) | (none — pure attribute-as-HP) | (none — pure attribute-as-HP) |
 | **named damage type** (per attribute) | (silent — damage typed by position) | **Hurts** (Grit) / **Shakes** (Quick) / **Vexes** (Cunning) / **Doubts** (Docity) |
 | **skill / ability** (the 16) | Skill (16, 4 per attribute) | Ability (16, 4 per attribute) |
-| **talent** (general advancement unit) | Talent (kin / profession-"Path" / general; ranks 1–5) | Talent (Background/Combat/Frontier/Social/Trade/Outlaw; Basic + Advanced, 2 ranks) |
-| **kin / ancestry** (fantasy identity selector) | Kin (8: human/elf/half-elf/dwarf/halfling/wolfkin/orc/goblin) | (none — uses Archetype) |
+| **talent** (general advancement unit) | Talent (Race / profession-"Path" / general; ranks 1–5) | Talent (Background/Combat/Frontier/Social/Trade/Outlaw; Basic + Advanced, 2 ranks) |
+| **Race** (classic RPG people-category / fantasy identity selector) | Kin (8: human/elf/half-elf/dwarf/halfling/wolfkin/orc/goblin) | (none — uses Archetype) |
 | **profession / archetype** (social identity selector) | Profession (9: Champion/Druid/Fighter/Hunter/Minstrel/Peddler/Rider/Rogue/Sorcerer) | Archetype (10: Gentlefolk/Grifter/Homesteader/Laborer/Lawman/Outlaw/Prospector/Ranch Hand/Tracker/Trader) |
-| **fast generation method** | Kin + Profession + age | Archetype + age |
-| **deep generation method** (lifepath) | Life Generator / Lifepaths of the Forbidden Lands | "Your Tale Begins" lifepath |
+| **fast generation method** | Race + Profession + age | Archetype + age |
+| **Life Events** (deep generation method) | Life Generator / Lifepaths of the Forbidden Lands | "Your Tale Begins" lifepath |
+| **What Skills Do** | skill roll triggers, success outputs, failure costs, trouble families | ability roll triggers and outcomes |
 | **party-identity layer** (optional shared start) | (none formalized) | Group Concepts (7) |
 | **Broken** (attribute-at-zero helpless state) | Broken | Broken (flavored per attribute: collapse / drained / outburst / panic) |
 | **age dial** (young=raw/old=skilled) | Young (15) / Adult (14) / Old (13) attr points | Greenhorn (6) / Tested (5) / Old-timer (4) attr points |
@@ -152,6 +153,7 @@ Read each row as: *"the generic term (left) is what FL calls X (middle) and West
 | Generic | FL | West |
 | --- | --- | --- |
 | **power layer** (on/off) | **ON** — full apparatus (17 disciplines) | **OFF** — zero instance |
+| **Powers and Traditions** | magical disciplines, spell types, rarity/secrecy, mishaps | (none — zero instance) |
 | **power taxonomy: standard (slow)** | Spell (slow action, default) | (none) |
 | **power taxonomy: reactive (fast)** | Power Word (fast, out-of-turn, parry/dodge slot) | (none) |
 | **power taxonomy: dramatic (long)** | Ritual (one Turn / Quarter Day / longer) | (none) |
@@ -161,6 +163,8 @@ Read each row as: *"the generic term (left) is what FL calls X (middle) and West
 | **casting-risk model: overcharge** | Overcharge (roll WP dice; ⚔=+PL, 💀=mishap; no push) | (none) |
 | **power fuel** | core WP (capped 10, harm-refueled) | (none — Faith is metacurrency only) |
 | **self-harm override (Burn)** | Burn (chosen quantity, random attribute, temporary WP) | (none) |
+| **Blood Price** | sacrifice / epic ingredients / ritual sacrifice | (none) |
+| **Circle of Power** | cabals / linked casters / allied spellcaster epic ingredient | (none) |
 | **material gating (ingredient)** | Ingredient (+1 PL, consumed; required for some) | (none) |
 | **knowledge gating (grimoire)** | Grimoire (−1 rank); teacher; secrecy tables | (none) |
 | **power failure pressure** | typed D66 mishap families (17, count-modified) | (none — uses core Trouble) |
@@ -192,6 +196,8 @@ Read each row as: *"the generic term (left) is what FL calls X (middle) and West
 | --- | --- | --- |
 | **org lifecycle** (founding→functions→upkeep→events→scale) | (the invariant pattern) | (the invariant pattern) |
 | **base / home org** (rung-1, place-bound) | **Stronghold** | Property + Business |
+| **Holdings and Territory** | Control of the Land: claims, territory, roads, watchtowers, families, control checks | property/town/outlaw territory equivalents |
+| **Riches in the Land** | Prospecting and Resource Extraction: deposits, extraction, depletion, hauling | mines, ranches, businesses, natural riches equivalents |
 | **settlement-as-character** (org = stat block) | Village (GM-side generator: vicissitudes, Need/Heat) | **Your Town** (6 Aspects, Prosperity, Amenities, player-owned) |
 | **band org** (roster-and-cohesion) | **Mercenary Band** (Skirmishers/Warband/Company/Host) | **Outlaw Band** (Crew/Gang/Outfit) |
 | **roster morale stat** | Morale 1–5 (Broken→Keen) + Grievance Difficulty + Feud Track | Cohesion 1–5 + Loyalty 1–3 + Wanted |
@@ -227,6 +233,7 @@ Read each row as: *"the generic term (left) is what FL calls X (middle) and West
 | **consumables tracking** | Resource Dice (default; Arrows/Torches/Food/Tools) | Resource Dice (Optional Module; loose counting default) |
 | **resource die ladder** | D12→D10→D8→D6 (deplete on 1–2) | D12→D10→D8→D6→D4 (deplete on 1–2) |
 | **crafting gates** | Talent + Workshop/Tools + Raw Materials + Time (4 gates) | folded into Availability/Quality + business prerequisites |
+| **Strange Devices** | inventor-style items, alchemy, odd contraptions, unstable gear | gadgets, property machinery, patent devices |
 
 ### 3.11 GM procedures / meta
 
@@ -274,8 +281,8 @@ One-line definition of every engine system/subsystem, grouped by cluster. Each e
 | **Talent** | The advancement unit beyond skills; a ranked ability with a cost curve and access gating. | `01` §5; `02` §5 |
 | **Protected dial** | The player's personal pressure-relief resource: a die (Pride, narrow) or currency (Faith, broad) tied to identity. | `01` §5; `00` §7 |
 | **Broken** | The helpless state when an attribute reaches 0; no separate HP exists. | `01` §4; `04` §3 |
-| **Identity selector** | The fast-generation first choice: kin (fantasy species) or archetype (social profession). | `01` §8 |
-| **Lifepath** | The deep-generation method producing emergent backstory; equivalent power to fast gen. | `01` §8 |
+| **Identity selector** | The fast-generation first choice: Race (fantasy peoples/species) or archetype (social profession). | `01` §8 |
+| **Life Events** | The deep-generation method producing emergent backstory; equivalent power to fast gen. | `01` §9 |
 | **Age dial** | A sub-dial trading raw attributes (young) for skills/talents (old). | `01` §8 |
 | **Social tether** | The PC's anchor: intra-party bonds + primary bond + NPC home + (optional) ally layer + authored drive. | `01` §6 |
 | **Big Dream** | A player-authored long-term goal that drives XP awards (the character's through-line). | `01` §6 |
@@ -322,7 +329,8 @@ One-line definition of every engine system/subsystem, grouped by cluster. Each e
 
 | Term | Definition | Ref |
 | --- | --- | --- |
-| **Power layer** | The engine's largest optional subsystem; a plug-in that West proves is purely additive (remove it, nothing breaks). | `05` §10 |
+| **Power layer** | The engine's largest optional subsystem; a plug-in that West proves is purely additive (remove it, nothing breaks). | `05` §11 |
+| **Powers and Traditions** | The flavorful tradition sheet for exceptional practices: source, signs, verbs, limits, rites, tools, forbidden acts, backlash, and teachers. | `05` §10 |
 | **Power taxonomy** | A three-tier effect-speed frame: Standard (slow) / Reactive (fast, out-of-turn) / Dramatic (long, ceremonial). | `05` §3 |
 | **Casting-risk model** | The dial for casting variance: safe (guaranteed-costly) / chance (rolled, failure-locked) / overcharge (pushed-for-scale). | `05` §4 |
 | **Power fuel** | The core metacurrency spent to cast; binds the power layer downstream of the risk loop (never a parallel currency). | `05` §5 |
@@ -332,6 +340,8 @@ One-line definition of every engine system/subsystem, grouped by cluster. Each e
 | **Mishap table** | The failure-pressure layer for powers; structurally identical to the typed-crit-family pattern, one D66 family per discipline. | `05` §7 |
 | **Power rank ladder** | A tall ladder (1–6) taller than the talent cap, scaling power across a long campaign. | `05` §8 |
 | **Epic / high-tier magic** | The ceiling gated not by fuel but by irreplaceable fiction costs (permanent attributes, sacrifice, place); corruption spiral. | `05` §9 |
+| **Blood Price** | Sacrifice-based power that buys reach with a visible stain: harm, scandal, Menace, corruption, debt, or permanent loss. | `05` §10 |
+| **Circle of Power** | Linked casting/team rites where helpers add scale, safety, or reach while sharing backlash. | `05` §10 |
 | **Density dial** | The four-point on/off+depth dial: none (West) / low / medium / high (FL). | `05` §10 |
 
 ### 4.6 Travel cluster — journey, survival, downtime
@@ -355,16 +365,18 @@ One-line definition of every engine system/subsystem, grouped by cluster. Each e
 | --- | --- | --- |
 | **Org lifecycle** | The invariant five-beat pattern every org runs: founding → functions → upkeep → events → scale. | `07` §3 |
 | **Base / home org** | Rung-1: a place-bound, player-owned capability hub that banks downtime labor and generates metacurrency. | `07` §4 |
-| **Settlement-as-character** | A settlement modeled as a stat block with attributes, a state machine, internal-faction gauges, and a growth mechanism. | `07` §5; `09` §5 |
-| **Band org** | Rung-2/3: a roster-and-cohesion org with tracked headcount, a single morale stat, and a pay/feed cycle. | `07` §5, §6 |
-| **Abstraction-collapse threshold** | The mechanism (Host Play/Ledger) that collapses a roster past ~50 bodies into a single trackable number. | `07` §6 |
-| **High-scale org / faction** | Rung-5: a polity-scale org with a four-stat block, practices, legacies, and a procedural turn layer. | `07` §7 |
-| **Faction turn** | A procedural turn layer running on its own clock that resolves org-vs-org pressure through a stat+skill+asset roll. | `07` §7 |
-| **Mass combat** | Rung-top: the resolution engine for org-scale violence, reusing the core dice grammar at unit scale. | `07` §8 |
-| **Logistics layer** | The supply/disease/march rules that decide most campaigns by arithmetic, not tactics. | `07` §8 |
-| **Scale-escalation ladder** | The rung ladder (solo→party→band→company→faction→army→polity) whose ceiling is the campaign-design dial. | `07` §9 |
-| **Org-founding currency** | The dial for what founds orgs: materials+labor (FL) / Capital illiquid investment (West). | `07` §11 |
-| **Base → metacurrency link** | The economic keystone binding the downtime layer to adventure (base grants WP/Faith). | `07` §4, §12 |
+| **Holdings and Territory** | Claim, develop, defend, feed, staff, and contest the land or social space around a holding. | `07` §5 |
+| **Riches in the Land** | Survey, find, work, haul, deplete, and recover resource deposits, caches, fields, salvage, or data. | `07` §6 |
+| **Settlement-as-character** | A settlement modeled as a stat block with attributes, a state machine, internal-faction gauges, and a growth mechanism. | `07` §7; `09` §5 |
+| **Band org** | Rung-2/3: a roster-and-cohesion org with tracked headcount, a single morale stat, and a pay/feed cycle. | `07` §7, §8 |
+| **Abstraction-collapse threshold** | The mechanism (Host Play/Ledger) that collapses a roster past ~50 bodies into a single trackable number. | `07` §8 |
+| **High-scale org / faction** | Rung-5: a polity-scale org with a four-stat block, practices, legacies, and a procedural turn layer. | `07` §9 |
+| **Faction turn** | A procedural turn layer running on its own clock that resolves org-vs-org pressure through a stat+skill+asset roll. | `07` §9 |
+| **Mass combat** | Rung-top: the resolution engine for org-scale violence, reusing the core dice grammar at unit scale. | `07` §10 |
+| **Logistics layer** | The supply/disease/march rules that decide most campaigns by arithmetic, not tactics. | `07` §10 |
+| **Scale-escalation ladder** | The rung ladder (solo→party→band→company→faction→army→polity) whose ceiling is the campaign-design dial. | `07` §11 |
+| **Org-founding currency** | The dial for what founds orgs: materials+labor (FL) / Capital illiquid investment (West). | `07` §13 |
+| **Base → metacurrency link** | The economic keystone binding the downtime layer to adventure (base grants WP/Faith). | `07` §4, §14 |
 
 ### 4.8 Gear cluster — equipment, economy, crafting
 
@@ -381,6 +393,7 @@ One-line definition of every engine system/subsystem, grouped by cluster. Each e
 | **Degradation mechanism** | The dial for how gear worsens: continuous counter (FL, Gear Die 💀) / discrete Conditions (West, Trouble-driven). | `08` §8 |
 | **Legendary tier (artifact)** | An optional top tier using the escalating-success-die, named/typed, carrying an oddity table. | `08` §9 |
 | **Consumables-as-resource-dice** | A single degrading die replacing unit-counts; the consumables analogue of the push. | `08` §10 |
+| **Strange Devices** | Contraptions, inventions, alchemy, gadgets, relics, and prototypes with charges, upkeep, misfires, rare parts, and repair burdens. | `08` §13 |
 
 ### 4.9 GM cluster — procedures, encounters, settlements, solo
 
@@ -443,8 +456,10 @@ For each generic term, the file + section where it is defined in depth. This is 
 | Protected dial (Pride/Faith), protected-dial identity | `01` §5; `00` §7 |
 | Social tether, Big Dream, Pardner, Compadres | `01` §6 |
 | Encumbrance, resource die (consumables) | `01` §7 |
-| Identity selector (kin/archetype), lifepath, age dial, group concept | `01` §8 |
-| Skill/ability, talent (ranks) | `01` §3; `02` §5 |
+| Identity selector (Race/archetype), age dial, group concept | `01` §8 |
+| Life Events | `01` §9 |
+| What Skills Do | `01` §10 |
+| Skill/ability, talent (ranks), Talents and Paths | `01` §3; `02` §5 |
 | Broken | `01` §4; `04` §3 |
 | XP award models, training costs, talent rank ladder, milestones, downtime training, Legacy XP, metacurrency→XP | `02` §3–9 |
 
@@ -489,7 +504,8 @@ For each generic term, the file + section where it is defined in depth. This is 
 | Mishap table (per-discipline D66 family) | `05` §7 |
 | Power rank ladder, learning economy, forging appendix | `05` §8 |
 | Epic/high-tier magic, epic ingredients, corruption | `05` §9 |
-| Density dial (none/low/medium/high), on/off switch | `05` §10 |
+| Powers and Traditions, Blood Price, Circle of Power | `05` §10 |
+| Density dial (none/low/medium/high), on/off switch | `05` §11 |
 
 ### Travel terms (`06-travel-and-downtime.md`)
 
@@ -509,17 +525,19 @@ For each generic term, the file + section where it is defined in depth. This is 
 | Term | File § |
 | --- | --- |
 | Org lifecycle (5-beat pattern) | `07` §3 |
-| Base/home org (Stronghold, Property+Business) | `07` §4, §5 |
-| Settlement-as-character (Village, Your Town) | `07` §5 |
-| Band org (Mercenary Band, Outlaw Band), roster morale | `07` §5, §6 |
-| Abstraction-collapse threshold (Host Play) | `07` §6 |
-| High-scale org/faction (Pillars/Practices/Legacies) | `07` §7 |
-| Faction turn (Mode of Rule, acts, fallout) | `07` §7 |
-| Mass combat (troop dice, battle sequence) | `07` §8 |
-| Logistics layer (supply/disease/march) | `07` §8 |
-| Scale-escalation ladder (solo→polity), ceiling dial | `07` §9 |
-| Org-founding currency (materials / Capital) | `07` §11 |
-| Base → metacurrency link | `07` §4, §12 |
+| Base/home org (Stronghold, Property+Business) | `07` §4, §7 |
+| Holdings and Territory | `07` §5 |
+| Riches in the Land | `07` §6 |
+| Settlement-as-character (Village, Your Town) | `07` §7 |
+| Band org (Mercenary Band, Outlaw Band), roster morale | `07` §7, §8 |
+| Abstraction-collapse threshold (Host Play) | `07` §8 |
+| High-scale org/faction (Pillars/Practices/Legacies) | `07` §9 |
+| Faction turn (Mode of Rule, acts, fallout) | `07` §9 |
+| Mass combat (troop dice, battle sequence) | `07` §10 |
+| Logistics layer (supply/disease/march) | `07` §10 |
+| Scale-escalation ladder (solo→polity), ceiling dial | `07` §11 |
+| Org-founding currency (materials / Capital) | `07` §13 |
+| Base → metacurrency link | `07` §4, §14 |
 
 ### Gear terms (`08-gear-and-economy.md`)
 
@@ -535,6 +553,7 @@ For each generic term, the file + section where it is defined in depth. This is 
 | Degradation mechanism (Gear Die 💀 / Conditions) | `08` §8 |
 | Legendary tier (artifact die, oddity) | `08` §9 |
 | Consumables-as-resource-dice | `08` §10 |
+| Strange Devices | `08` §13 |
 
 ### GM terms (`09-gm-procedures.md`)
 

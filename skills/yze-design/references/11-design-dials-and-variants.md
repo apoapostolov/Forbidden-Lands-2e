@@ -22,7 +22,8 @@
    - 4.J Design Philosophy (`10`)
 5. Dial-dependency map (which choices constrain which)
 6. Combined preset archetypes (genre dial-sets)
-7. How to use this file (the configuration procedure)
+7. Larger-Than-Life Play
+8. How to use this file (the configuration procedure)
 
 ## 1. Source provenance
 
@@ -927,7 +928,112 @@ Each preset is a **coherent dial-set for a genre** — a starting configuration,
 | **E Sci-fi** | Ship, gear, and corp debt | Currency/hybrid | Low–Med | Pointcrawl/hex | Credits+capital | Medium |
 | **F Horror** | Survival is pyrrhic | Bane-self-harm (mind) | None/Low | Confined/pointcrawl | Minimal | High (madness) |
 
-## 7. How to use this file (the configuration procedure)
+## 7. Larger-Than-Life Play
+
+Larger-Than-Life Play is the generic version of FL's Heroic Campaign appendix. Use it when the game still wants YZE pressure, wounds, and consequence, but the protagonists should cut through extras, survive longer, stare down mobs, and give the GM a visible pool for dramatic counterpressure.
+
+This is not the default engine. It is a campaign-mode package for heroic fantasy, pulp action, space opera, action horror, cinematic westerns, war epics, superheroic survival, mythic rebellion, and other genres where the PCs are still mortal but clearly larger than ordinary people.
+
+### 7.1 Package switches
+
+| Switch | Default heroic setting | What it changes |
+| --- | --- | --- |
+| Vigor | derived from body attributes | damage hits a heroic buffer before attributes |
+| Resolve | derived from mind/social attributes | fear, doubt, pressure, and social harm hit a heroic buffer first |
+| Menace | GM pool starts near PC metacurrency | GM pressure becomes visible and spendable |
+| Extras | ordinary enemies simplified | heroes can defeat crowds without full stat tracking |
+| Champions | named foes get buffers and talents | major enemies stay dangerous |
+| Mobs | extras act as groups | crowds become fast to run |
+| Broken shields | sacrifice defense to avoid one blow | defense becomes cinematic and costly |
+| Show of force | frighten extras after a decisive kill/display | victory can cascade through morale |
+| Heroic criticals | critical injuries are less random until truly broken | PCs are battered before maimed |
+
+### 7.2 Vigor and Resolve
+
+Vigor and Resolve are short heroic buffers. They do not replace attribute damage forever; they delay it so the scene has room to breathe.
+
+| Buffer | Derived from | Takes hits from | Recovers |
+| --- | --- | --- | --- |
+| Vigor | average of physical attributes, rounded up | weapons, falls, fire, poison, physical exhaustion | one rest scene, metacurrency spend, safe camp |
+| Resolve | average of mental/social attributes, rounded up | fear, horror, social defeat, despair, psychic strain | one rest scene, inspiration, faith, comfort |
+
+**Damage rule:** apply appropriate harm to Vigor or Resolve first. Only excess damage reaches attributes. Once the relevant buffer is empty, further harm works normally.
+
+**Recovery rule:** spending 1 metacurrency may restore 1 Vigor and 1 Resolve, or restore one buffer by 2 if the game wants a stronger heroic valve. A full safe rest restores both. A gritty heroic game restores only after a Turn/Shift; a pulp game restores after each scene.
+
+**Validation:** if buffers refresh every round, the game stops being YZE. If they never refresh, they are only extra HP. The sweet spot is scene/rest recovery with occasional metacurrency recovery.
+
+### 7.3 Menace
+
+Menace is the GM's pressure pool. It rises when heroes push hard, flaunt power, use forbidden methods, create public chaos, or begin a major scene with high confidence. It gives the GM a rules-visible way to make the world push back.
+
+| Menace gain | Amount |
+| --- | --- |
+| Start of heroic adventure | equal to number of PCs or their starting metacurrency total, by tone |
+| PC spends major metacurrency for spectacle | +1 |
+| PC uses Blood Price, taboo power, atrocity, or public illegal device | +1 to +3 |
+| Heroes ignore a known threat clock | +1 |
+| Major villain scene begins | +2 |
+
+| Menace spend | Cost | Effect |
+| --- | --- | --- |
+| Harder enemy roll | 1-3 | add up to +3 dice to one NPC roll |
+| Fuel champion trick | 1+ | pay for a foe talent, spell, device, or stunt |
+| Bring extras | 1 | add a small group of extras or restore a mob |
+| Minor complication | 1 | blocked route, lost gear, witness, smoke, reinforcements |
+| Medium complication | 2 | ally endangered, terrain changes, time clock jumps |
+| Major complication | 3+ | villain escapes, monster phase, public disaster, siege breach |
+
+**Menace validation:** Menace should buy pressure, not GM victory. It should create decisions, not erase player success. Do not use Menace to cancel a player achievement unless the cost is high and the fiction was prepared.
+
+### 7.4 Extras, Champions, Monsters, and Mobs
+
+| Enemy kind | Rules load | Use for | Defining rule |
+| --- | --- | --- | --- |
+| Extras | tiny stat block, no buffers, no deep talents | guards, cultists, minions, soldiers, drones | one or two solid hits remove them |
+| Champions | PC-like stats, Vigor/Resolve, talents | named duelists, officers, sorcerers, pilots | spend Menace for signature moves |
+| Monsters | custom attack list, high threat | beasts, kaiju, demons, war machines | may act more than once if outnumbered |
+| Mobs | group of extras as one actor | crowds, squads, swarms, boarding parties | extra bodies add dice; damage removes bodies |
+
+**Mob procedure:**
+
+1. Pick mob size, usually 4 extras.
+2. The mob takes one action as one actor.
+3. Add +1 die for each extra beyond the first.
+4. Damage removes one extra per meaningful hit or per 2 damage in gritty calibration.
+5. Area attacks, fear, traps, and show of force can remove extra bodies faster.
+6. Spending Menace can reinforce, rally, or split the mob.
+
+### 7.5 Broken shields and show of force
+
+**BROKEN SHIELD.** After a successful parry, block, dodge-cover, emergency ward, armor interpose, mecha shield, riot barrier, or bodyguard move, the defender may destroy or exhaust the defensive item to reduce the incoming damage to zero. The object is gone, broken, jammed, cracked, discharged, disgraced, or otherwise unavailable until repaired/replaced.
+
+**SHOW OF FORCE.** After the hero drops at least two extras, destroys a visible threat, reveals overwhelming power, or wins a duel in sight of lesser foes, they may take a FAST action to roll Might, Command, Performance, or another fitting skill against the mob's nerve. Each success makes one extra flee, freeze, surrender, or lose action; 3+ successes may break a whole weak mob.
+
+### 7.6 Heroic criticals
+
+When Vigor or Resolve still has points, the character is battered, staggered, frightened, shamed, or dazed, but not yet taking the worst injuries. Once the relevant buffer is empty, critical injuries return.
+
+| State | Critical handling |
+| --- | --- |
+| Buffer remains | no critical unless the attack is monstrous, named, or expressly lethal |
+| Buffer just emptied | optional minor critical, scar, or condition |
+| Attribute damage after buffer empty | roll critical normally |
+| Broken and hit again | roll critical harshly |
+
+**Merciful D66 option:** for heroic play, when a character is not Broken, read a D66 critical with the lower die as tens and higher die as units. When Broken, read the higher die as tens and lower as units. This keeps early injuries survivable while making Broken genuinely terrifying.
+
+### 7.7 Larger-Than-Life validation
+
+- Use the whole package or state exactly which switches are on; partial heroic rules can make combat incoherent.
+- Buffers must not make armor, cover, healing, or caution irrelevant.
+- Menace must be visible enough that players understand why trouble is escalating.
+- Extras must be fast to run; if they need full sheets, they are Champions.
+- Mobs must lose bodies when heroes hit hard; otherwise the mode stops feeling heroic.
+- Broken shields must cost a real object, charge, ally position, or repair burden.
+- Show of force should work mainly on extras and mobs, not on every named villain.
+
+## 8. How to use this file (the configuration procedure)
 
 When configuring a new YZE game:
 

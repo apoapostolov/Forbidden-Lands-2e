@@ -10,19 +10,22 @@
 2. Abstraction target
 3. The shared pattern: founding → functions → upkeep → events → scale
 4. Stronghold (FL)
-5. Town, Property, and Outlaw Band (West), including outlaw operating sheet
-6. Mercenary Company (FL), including roster-org and host operating sheets
-7. Factions, Legacies, and the Faction Turn (FL)
-8. Mass combat and sieges (FL)
-9. The scale-escalation ladder
-10. Divergence rows (FL vs West)
-11. Dials and instantiation recipe
-12. Design intent
+5. Holdings and Territory
+6. Riches in the Land
+7. Town, Property, and Outlaw Band (West), including outlaw operating sheet
+8. Mercenary Company (FL), including roster-org and host operating sheets
+9. Factions, Legacies, and the Faction Turn (FL)
+10. Mass combat and sieges (FL)
+11. The scale-escalation ladder
+12. Divergence rows (FL vs West)
+13. Dials and instantiation recipe
+14. Design intent
 
 ## Source provenance
 
 **Forbidden Lands 2E:**
 - `01-corebook/09-the-stronghold.md` (~2,470 lines) — establishing, housing/HOUSING score, stronghold sheet, base effects (rest + WP), flaws, random events, functions, hirelings, upkeep.
+- `01-corebook/09-the-stronghold.md` — **Control of the Land** and **Prospecting and Resource Extraction**: territory, settlements, families, food support, claims, developed land, roads, watchtowers, outposts, control checks, prospecting, deposit dice, depletion, recovery, extraction, hauling.
 - `01-corebook/12-mercenaries-of-forbidden-lands.md` (~4,890 lines) — mercenary company system: bands, size tiers, Morale, recruitment, pay/provisions, village extortion/tribute, contracts/bounties/kidnapping, campaign life (DRILL/camp/discipline), Named Men, Hired Casters, wanted men, atrocities, War Room function, Host Play, 7 premade bands.
 - `01-corebook/14-traderoads-of-the-forbidden-lands.md` — caravan/traderoad economy, Warehouse function.
 - `02-gamemasters-guide/11-politics-of-the-forbidden-lands.md` (~2,310 lines) — faction engine: creation/tiers/sheet, Treasury/Stores/Labor/Levy/Retainers, Pillars (Mandate/Force/Reach/Hearth) + Practices, 9 Legacies, Campaign Points, Agents & Advisors, faction rolls, Settlement bonds, Faction Turn, faction acts, fallout, burden, handoff, revenue, tribute, retainers/levy/mercenaries, armies, logistics, politics-to-war, premade factions.
@@ -125,7 +128,275 @@ The Stronghold is FL's canonical "base" — the party's home, workshop, and the 
 
 **Generic abstraction:** The Stronghold is the **rung-1 org**: a place-bound, player-owned capability hub whose entire purpose is to (a) bank downtime labor as permanent functions, (b) generate the metacurrency that powers adventure, and (c) be *threatened* by three independent upkeep vectors so that "going home" is never free. The **base-effects-grant-metacurrency** link is the design's keystone — it binds the downtime layer to the adventure layer economically. **Layer:** General (the rung-1 org pattern); the three-independent-upkeep-vectors model is Optional (a granularity dial — West collapses payroll and resourcing into one Business Roll).
 
-## 5. Town, Property, and Outlaw Band (West)
+## 5. Holdings and Territory
+
+Holdings and Territory is the generic name for FL's Control of the Land rules. It turns the land around a base into a playable map of claims, families, workers, stores, roads, watchtowers, contested ground, and settlement support. It should be used whenever the campaign is not only about owning a base, but about **making that base matter to the surrounding world**.
+
+The same rules can skin as a frontier holding, noble estate, ranch, gang turf, headquarters, ship network, colony, temple precinct, military base, corporate district, salvage zone, family holdings, or occult lodge. The nouns change; the loop does not.
+
+### 5.1 The holding sheet
+
+| Field | What to record | Examples |
+| --- | --- | --- |
+| Holding | the central owned place | stronghold, ranch, carrier, headquarters, lodge, colony |
+| Territory | the surrounding map or social space | hexes, streets, routes, districts, moons, departments |
+| Control | 0-6 rating for how firmly the holding governs nearby ground | fear, law, patrol, legitimacy, logistics, sensors |
+| Claims | places the holding says are "ours" | fields, mines, routes, docks, alleys, asteroid claims |
+| Families | settled households or attached dependents | families, workers, tenants, crew households, cult cells |
+| Workers | people available for labor | farmers, guards, mechanics, staff, pilgrims, drones |
+| Stores | food, materials, wages, fuel, medicine, parts | see `08` for storage/economy |
+| Roads | safe links between claims | roads, patrol routes, shipping lanes, tunnels, VPN paths |
+| Watchtowers | warning/control points | towers, outposts, cameras, informants, buoys, listening posts |
+| Contested ground | places with rival claim or dangerous absence | feud, monster lair, cartel turf, haunted wing, enemy sensors |
+
+### 5.2 Territory states
+
+| State | Meaning | What players can do there | What can go wrong |
+| --- | --- | --- | --- |
+| Wild | unclaimed, unknown, or ungoverned | explore, survey, hunt, hide, establish first contact | hazard, ambush, rival arrives first |
+| Claimed | publicly marked as yours | collect light yield, patrol, build simple post | rival contests, workers refuse, claim mocked |
+| Developed | worked and supported | produce, house families, support functions, raise defense | upkeep, sabotage, depletion, taxes |
+| Contested | two or more powers can enforce a claim | negotiate, fight, spy, pay, fortify | feud, raid, lawsuit, blockade |
+| Ruined | cannot produce until restored | scavenge, cleanse, rebuild, abandon | disease, curse, collapse, squatters |
+
+**State rule:** claims do not become real because players write them down. A claim becomes real when the holding can feed it, reach it, watch it, and answer a challenge there.
+
+### 5.3 Control score
+
+| Control | Fiction | Mechanical posture |
+| --- | --- | --- |
+| 0 | no one believes the claim | cannot collect yield; rivals act freely |
+| 1 | name on a post | can attempt claim checks, but all challenges are hard |
+| 2 | occasional patrol or local respect | small yields; one active contested point at a time |
+| 3 | ordinary control | default score for a serious holding |
+| 4 | roads, watch, families, and reputation align | +1 to control checks in linked claims |
+| 5 | firm rule | rivals need a plan, patron, or force to contest |
+| 6 | unquestioned authority | only major event, betrayal, disaster, or army can break it |
+
+**Control check:** roll Command, Survival, Craft, Persuasion, Lore, or another fitting skill when a claim is challenged. Add roads/watch/families/stores/help. On success, the holding keeps control. Extra successes may reduce cost, expose the rival, reassure families, or improve the claim. On failure, choose or roll trouble.
+
+| Failed control check | Trouble |
+| --- | --- |
+| 1 | workers refuse, flee, strike, or demand protection |
+| 2 | rival marks the claim and lowers Control by 1 until answered |
+| 3 | stores are lost, spoiled, seized, or redirected |
+| 4 | road/link is unsafe until patrolled or repaired |
+| 5 | family loss, hostage, lawsuit, feud, scandal, or betrayal |
+| 6 | claim becomes Contested or Ruined |
+
+### 5.4 Claiming and developing
+
+**CLAIM LAND.** To claim a place, spend one period scouting, marking, negotiating, or intimidating. Roll the fitting skill. On success, mark it Claimed and name the visible sign of ownership. Extra successes may add a contact, reduce first upkeep, find a resource, or learn a rival's weakness. On failure, the claim is known but not respected; mark a rival, hazard, or debt.
+
+**DEVELOP LAND.** To develop a claim, assign workers/families, spend stores/materials, and spend a period. Roll Craft, Command, Survival, or the local profession skill. On success, mark it Developed and choose one yield: food, material, watch, road support, housing, reputation, market, or special resource. On failure, progress exists but gains a flaw: bad drainage, corrupt foreman, angry locals, poor soil, weak signal, hidden tunnel, legal dispute.
+
+**BUILD A ROAD.** A road is any reliable link: trail, bridge, patrol route, rail, shipping lane, tunnel, courier line, comm relay, smuggling route. It connects two places and lets control, trade, messages, workers, and rescue move. Building requires a route survey, labor, materials, and a period. On failure, the road exists but is slow, exposed, toll-bound, seasonal, or dangerous.
+
+**RAISE A WATCHTOWER.** A watchtower is any warning and authority post: tower, outpost, listening station, camera net, ranger cabin, shrine, beacon, buoy, informant house. It makes challenges visible sooner. On success, add +1 to control checks in nearby linked claims. On failure, it is blind in one direction, corrupt, poorly supplied, publicly hated, or easy to sabotage.
+
+### 5.5 Families, workers, and stores
+
+FL's families are a portable unit: not only relatives, but any attached households or dependents who make a holding real. In other genres, use workers, families, tenants, cells, crew households, pilgrims, staff, settlers, refugees, or citizens.
+
+| Unit | What it gives | What it needs | What threatens it |
+| --- | --- | --- | --- |
+| Family | food production, local legitimacy, labor pool | food, protection, justice, shelter | hunger, raids, disease, grief |
+| Specialist | unlocks a function or bonus | wage, workshop, status, safety | poaching, insult, better offer |
+| Guard | control, watch, defense | pay, food, morale, leadership | non-payment, fear, corruption |
+| Tenant/worker | production and upkeep | wage/share, tools, fair treatment | strike, flight, sabotage |
+| Dependent | story gravity and moral stakes | care, medicine, shelter | hostage, illness, scandal |
+
+**Family commitment rule:** a family or worker assigned to one claim cannot also staff another function that period. Labor allocation must bite.
+
+### 5.6 Availability and settlement support
+
+A holding surrounded by people can buy, hire, learn, and repair more easily. Treat settlement support as a die or score from D6 to D12, or 1-6 if the game avoids step dice.
+
+| Support | Place | What is available |
+| --- | --- | --- |
+| D6 / 1-2 | hamlet, small crew, poor district | common goods, 1-2 workers, rumors |
+| D8 / 3 | village, ship section, neighborhood | common goods, basic specialists, mounts/vehicles |
+| D10 / 4-5 | town, station, major base | uncommon goods, tutors, mercenaries, repairs |
+| D12 / 6 | city, capital, fleet hub | rare goods, masters, legal cover, large hires |
+
+**Availability check:** when looking for goods, tutors, workers, mercenaries, legal help, rare parts, or patrons, roll the support die or rating. Success means the thing exists at ordinary cost. Failure means delay, price increase, rival claim, inferior quality, or a favor owed. Cross-load `08-gear-and-economy.md` when pricing matters.
+
+### 5.7 Holdings and Territory turn
+
+Run this once per month/season or whenever the holding matters.
+
+1. **Weather the holding.** Pay upkeep: food, wages, stores, fuel, maintenance, justice, or public patience.
+2. **Assign families and workers.** Each unit works one claim, function, road, watch, project, or defense.
+3. **Choose one claim action.** Claim, develop, build road, raise watchtower, patrol, repair, negotiate, extract, recruit, relocate, or abandon.
+4. **Check contested ground.** Each Contested claim triggers a control check or a negotiated concession.
+5. **Collect yields.** Developed claims produce food, materials, coin, information, reputation, safety, recruits, or access.
+6. **Roll event if pressure is high.** Trigger on low stores, unpaid workers, nearby rivals, failed checks, over-extraction, or long peace.
+7. **Update the map.** Mark new states, roads, watch, families, rival moves, depleted sites, and hooks.
+
+### 5.8 Holdings event table
+
+| D66 | Event |
+| --- | --- |
+| 11-13 | A family asks for judgment between neighbors; unfair ruling costs Control. |
+| 14-16 | Workers find something useful and dangerous while developing land. |
+| 21-23 | A rival marks one of your claims and dares you to answer. |
+| 24-26 | Stores spoil, burn, vanish, or are sold by a desperate worker. |
+| 31-33 | A road fails: bridge out, patrol missing, courier killed, comms jammed. |
+| 34-36 | A specialist offers service for a favor, protection, or rare tool. |
+| 41-43 | Families threaten to leave unless food, justice, or safety improves. |
+| 44-46 | A claim produces a windfall; choose profit now or invest in lasting growth. |
+| 51-53 | Hidden occupants contest ownership: squatters, ghosts, gang, beast, old law. |
+| 54-56 | The watch catches a threat early; act now for advantage or ignore at cost. |
+| 61-63 | A public scandal, accident, or cruelty lowers Control by 1 until repaired. |
+| 64-66 | A major power recognizes, taxes, attacks, blesses, or annexes the holding. |
+
+### 5.9 Holdings validation
+
+- A holding must need food/stores, labor, control, and routes; if one is missing, the system becomes free real estate.
+- Claims must create both yield and responsibility.
+- Roads and watchtowers must change the map, not just add passive bonuses.
+- Families/workers must be useful enough to matter and vulnerable enough to protect.
+- Control 6 should not mean invulnerable; it means only serious threats can move the score.
+- Every non-fantasy skin must still answer: Who works here? Who believes this claim? Who contests it? What must be hauled?
+
+## 6. Riches in the Land
+
+Riches in the Land is the generic name for FL's prospecting and resource extraction rules. It handles veins, deposits, caches, fields, salvage, data vaults, fuel pockets, research samples, monster nests, relic sites, black-market stock, sacred groves, and any other find that can be harvested over time.
+
+The loop is: **survey → find → size → work → yield → hauling → depletion → recovery or exhaustion.**
+
+### 6.1 Survey procedure
+
+**SURVEY.** Spend one travel block or downtime period searching a place for a specific kind of wealth. Roll the fitting skill: Survival for land, Lore for records/data, Craft for built materials, Scouting for surface signs, Persuasion for market rumors, Beast Handling for herds, Power skill for strange sources.
+
+| Successes | Find |
+| --- | --- |
+| 0 | no useful find; mark false lead, hazard, rival, or lost time |
+| 1 | common find; small deposit/cache/field, easy to work |
+| 2 | significant find; useful for a holding or trade route |
+| 3+ | rich find; valuable enough to attract rivals, law, monsters, claimants |
+
+**Deep survey:** a second survey may be attempted only with new tool, better map, specialist, power, season change, or deeper access. Apply -1 unless the new method is clearly better. Failure creates attention or danger, not another blank.
+
+### 6.2 Find types
+
+| Find | Fantasy skin | Modern / sci-fi / other skins | Common skill |
+| --- | --- | --- | --- |
+| Stone/ore | quarry, iron, gems, old ruin | metals, rare earth, hull scrap | Craft / Survival |
+| Fuel | coal, peat, pitch | oil, reactor fuel, batteries, oxygen | Survival / Lore |
+| Food | field, herd, fishery, orchard | hydroponics, ration stock, protein vats | Survival / Beast Handling |
+| Wood/fiber | forest, reeds, flax | polymers, cloth stock, ship timber | Survival / Craft |
+| Relic | tomb, shrine, battlefield | alien ruin, archive, crime evidence | Lore / Scouting |
+| Information | old map, witness, library | data vault, blackmail, research set | Lore / Insight |
+| Influence | sacred ground, noble right | legal title, media access, patron list | Persuasion / Command |
+| Living resource | monster nest, herbs, spirits | samples, organs, microbes, AI seed | Survival / Power |
+
+### 6.3 Deposit die
+
+Use a deposit die to show how much a find can yield before it is exhausted.
+
+| Deposit die | Size | Campaign meaning |
+| --- | --- | --- |
+| D6 | small | one job, one project, one short route |
+| D8 | useful | several periods; worth guarding |
+| D10 | rich | holding-scale resource; rivals notice |
+| D12 | great | campaign asset; politics forms around it |
+
+**Sizing rule:** one success gives D6, two successes D8, three successes D10, four or more D12 unless the terrain/source cannot plausibly support it. Rare finds may start one die lower but be worth more per yield.
+
+### 6.4 Working the find
+
+| Method | Needs | Yield | Risk |
+| --- | --- | --- | --- |
+| Hand gathering | 1-3 workers, simple tools | low but quick | injury, weather, theft |
+| Camp | workers, shelter, guard, tools | steady | upkeep, morale, claim dispute |
+| Mine/quarry/lab | specialist, function, weeks/months | high | collapse, contamination, sabotage |
+| Herd/field | families/workers, season, protection | seasonal | disease, drought, predators |
+| Salvage | transport, tools, guards | variable | sharp debris, old defenses, rivals |
+| Data dig | access, expert, storage | information yield | trace, corruption, legal heat |
+| Sacred/strange harvest | rite, power, taboo handling | potent | mishap, Blood Price, guardian |
+
+**Work roll:** once per period, roll the fitting skill plus workers, tools, roads, watch, and specialist help. Success produces yield. Extra successes may increase yield, reduce depletion, avoid hazard, improve quality, hide the operation, or learn a new lead. Failure produces less yield and trouble.
+
+### 6.5 Yield menu
+
+| Yield | Use |
+| --- | --- |
+| Food stores | feed families/workers, heal, trade |
+| Material stores | craft, build, repair, sell |
+| Fuel stores | travel, machines, heat, power |
+| Coin/cash | liquid profit |
+| Rare part | gate Strange Devices, vehicles, powers |
+| Ingredient | +1 level, required rite, medicine, poison |
+| Information | clue, map, blackmail, research progress |
+| Claim strength | +1 to a future control check |
+| Reputation | holding becomes known for this wealth |
+
+### 6.6 Depletion and recovery
+
+At the end of each season or after heavy exploitation, roll the deposit die.
+
+| Roll | Result |
+| --- | --- |
+| 1-2 | step the deposit die down one size |
+| 3-5 | stable; no change |
+| 6+ | stable and reveals a lead, quality pocket, or recovery sign |
+
+**Heavy exploitation:** if the find was worked by double labor, unsafe methods, forced workers, magic, machines beyond local capacity, or desperate wartime extraction, roll depletion twice and keep the worse result.
+
+**Light touch:** if the find was worked only briefly, ceremonially, sustainably, or with expert care, skip the depletion roll once or roll with +1.
+
+**Exhausted:** when a D6 steps down, the find is exhausted. It may still leave a ruin, scar, flooded mine, empty vault, poisoned field, angry families, or valuable infrastructure.
+
+| Resource | Recovery possibility |
+| --- | --- |
+| stone/ore/relic | usually none without deeper survey |
+| forest/fiber/food | recovers after seasons/years if protected |
+| herds/living samples | recovers if breeding grounds survive |
+| data/influence | recovers only through new access or changed politics |
+| strange source | recovers by rite, sacrifice, alignment, or not at all |
+
+### 6.7 Hauling
+
+A find is not wealth until it can be moved, guarded, stored, or used in place.
+
+| Hauling question | If no |
+| --- | --- |
+| Is there a road/link? | slower transport, more mishaps, lower yield |
+| Is there capacity? | yield stays on site or must be abandoned |
+| Is there storage? | spoilage, theft, weather, corruption |
+| Is there guard? | rivals, monsters, law, workers steal |
+| Is there buyer/use? | price falls, stockpiles clog, debt rises |
+
+**Hauling check:** roll when moving bulk through danger. Success gets the yield home. Extra successes reduce loss, avoid notice, improve price, or find return cargo. Failure costs a share of yield and creates a road, guard, vehicle, or rival problem. Cross-load `08` for transport ladders and cargo.
+
+### 6.8 Riches event table
+
+| D66 | Event |
+| --- | --- |
+| 11-13 | The find is poorer than believed; step die down or accept lower yield. |
+| 14-16 | Workers discover a side chamber, witness, fossil, relic, body, or clue. |
+| 21-23 | Rival claimants arrive with law, family story, gang force, or sacred right. |
+| 24-26 | Accident: cave-in, fire, contamination, beast attack, equipment break. |
+| 31-33 | The haul spoils, leaks, corrodes, corrupts, or attracts predators. |
+| 34-36 | A worker vanishes with a sample, map, secret, or rare part. |
+| 41-43 | A buyer offers a rich price with ugly conditions. |
+| 44-46 | The operation reveals a road, ruin, vein, password, or hidden patron. |
+| 51-53 | Heavy work damages the surrounding holding; lose Control unless repaired. |
+| 54-56 | The find is taboo, illegal, cursed, classified, or owned on paper. |
+| 61-63 | A rich pocket appears; increase yield now but roll depletion twice. |
+| 64-66 | The find changes the campaign map; a faction, army, church, corp, or monster moves. |
+
+### 6.9 Riches validation
+
+- Finds must require surveying, working, hauling, and depletion; skipping any step makes free wealth.
+- Rich finds must attract attention.
+- Heavy exploitation must be tempting and dangerous.
+- The deposit die should create uncertainty without requiring unit-count accounting.
+- A find that produces rare parts, ingredients, or information should gate other systems rather than simply print money.
+- If the operation out-earns adventuring safely, add rivals, depletion, storage, guards, law, disaster, or debt.
+
+## 7. Town, Property, and Outlaw Band (West)
 
 West runs the same five-beat lifecycle, but at personal/small-org scale and with the rungs above "town" deliberately absent.
 
@@ -193,7 +464,7 @@ Use this when creating a crime crew, rebel cell, pirate gang, smuggling ring, mo
 
 **Collapse checks:** call for a Cohesion or Loyalty check when shares are unfair, provisions run out, a leader is captured, a member is abandoned, Wanted jumps, the hideout is exposed, or a score fails publicly. On failure, choose: desertion, informant, internal challenge, reckless revenge, splinter crew, or demand for a dangerous make-good job.
 
-## 6. Mercenary Company (FL)
+## 8. Mercenary Company (FL)
 
 The Mercenary Company is FL's **mid-scale org** and the structural bridge between the party (rung 1) and the faction (rung 5). It is also West's Outlaw Band's closest cousin.
 
@@ -253,7 +524,7 @@ When the roster passes the table's useful tracking threshold, collapse it.
 
 **Validation:** a roster org must never become a free army. Every increase in headcount must raise at least one of payroll, provisions, command friction, visibility, employer dependence, or atrocity risk.
 
-## 7. Factions, Legacies, and the Faction Turn (FL)
+## 9. Factions, Legacies, and the Faction Turn (FL)
 
 The Faction is FL's **high-scale org** and the only place in either game where a full **board-game-style turn layer** runs *above* the players' adventure play. It is the rung where "the world moves while the PCs do."
 
@@ -290,7 +561,7 @@ This is the central procedural engine of the high-scale rung.
 
 **Generic abstraction:** CP is the faction's **XP**, gated by *fictional consequence* rather than session count. Agents/Advisors are the **bridge between the faction turn and PC play** — they are the mechanism by which "the faction wants X" becomes "the players go do X at the table." This bridge is what prevents the faction layer from becoming a dissociated board game. **Layer:** General (an XP-equivalent gated by world-change); the Agent-as-PC bridge is **essential** for any campaign that wants the faction layer to drive adventure rather than replace it.
 
-## 8. Mass combat and sieges (FL)
+## 10. Mass combat and sieges (FL)
 
 Mass Combat is FL's **top rung** — the resolution engine for when org-scale conflict produces open violence. It is the only place the engine *replaces* individual conflict with an abstraction over it.
 
@@ -324,7 +595,7 @@ Mass Combat is FL's **top rung** — the resolution engine for when org-scale co
 
 **Generic abstraction:** The mass-combat layer's *true* engine is **logistics, not tactics.** The battle sequence is dramatic, but the supplies/disease/march rules are what actually decide most campaigns: an army is a *metabolism* with a daily consumption rate, a depletion-curve for foraging, a stacking demoralization penalty for every skipped maintenance quarter-day, and a disease subsystem that punishes crowding. The design intent is unmistakable: **most wars are lost by arithmetic, not by the battle roll.** The siege doubling of disease, the foraging depletion, the "accumulated demoralization stacks 1→4" rule — all encode the same thesis: *the org that cannot feed and shelter itself loses before swords are drawn.* **Layer:** Situational (logistics rules only matter when the campaign sustains multi-week field operations); but when mass combat is enabled, **the logistics layer is more important than the battle sequence** — omit it and wars become board-game pieces; include it and wars become the attritional nightmares that decide real campaigns.
 
-## 9. The scale-escalation ladder
+## 11. The scale-escalation ladder
 
 This is the file's second core deliverable. The five-beat lifecycle is *invariant* across rungs; what changes is the **turn scale, currency size, threat radius, and which subsystems are enabled.** Each rung is defined by: **what it owns, what turn it runs on, what it costs, what it threatens, and which subsystem it uses.**
 
@@ -363,7 +634,7 @@ This is the central practical output of the ladder.
 
 **The dial:** a new game chooses its *ceiling rung* first, then enables every rung up to it. The ceiling is the single most consequential campaign-design decision in the downtime layer — it determines session count viability, bookkeeping load, and whether the game is "about" individuals, communities, or power. **Layer:** General (the ladder is universal); the ceiling is a **core design dial** (see §11).
 
-## 10. Divergence rows (FL vs West)
+## 12. Divergence rows (FL vs West)
 
 | Decision | FL option | West option | Trade-off | When to choose |
 | --- | --- | --- | --- | --- |
@@ -380,7 +651,7 @@ This is the central practical output of the ladder.
 | **Generational play** | (via Faction + Dynasty-of-house legacies) | Dynasty: Legacy XP, play a family member | Polity-scale dynasties vs family-scale dynasty | West Dynasty is the cleaner model for family sagas |
 | **Random-event source** | D6 tables (Stronghold, Non-Payment, Unguarded, Upkeep) + Faction Fallout D66 | Season Fortune rolls (Business, Personal, Town) | Discrete-threat tables vs seasonal-fortune rolls | D6 tables for grit; Fortune rolls for dramatic pacing |
 
-## 11. Dials and instantiation recipe
+## 13. Dials and instantiation recipe
 
 Each dial has FL and West as two calibrated points. To build a new game's downtime layer, set each dial.
 
@@ -411,7 +682,7 @@ Each dial has FL and West as two calibrated points. To build a new game's downti
 
 **Period-engine handoff:** this file identifies what kind of org exists, what rung it occupies, and how it fits the scale ladder. When the org must be run across **weeks, months, seasons, years, or generations**, load `25-season-downtime-and-enterprises.md` for the Period Turn, Investment Cycle, Enterprise Roll, business/family/faction/settlement sheets, hard-season rules, and management validation checks. When the task is to price functions, translate stronghold construction into property/Capital, set upkeep/payback, design materials/labor/cost bands, or handle stores, warehouses, provisions, animals, wagons, and bulk materials, load `08-gear-and-economy.md`.
 
-## 12. Design intent
+## 14. Design intent
 
 The downtime org layer is engineered to turn **one-shots into campaigns** by giving players *something that grows and is threatened*. Specifically:
 

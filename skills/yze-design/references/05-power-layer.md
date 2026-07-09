@@ -15,10 +15,11 @@
 7. Mishap tables
 8. Power ranks and learning access
 9. Epic / high-tier magic
-10. The on/off dial and genre-fit guidance
-11. Divergence rows (FL vs West)
-12. Dials and instantiation recipe
-13. Design intent
+10. Powers and Traditions
+11. The on/off dial and genre-fit guidance
+12. Divergence rows (FL vs West)
+13. Dials and instantiation recipe
+14. Design intent
 
 ## Source provenance
 
@@ -208,7 +209,125 @@ FL's epic tier is the engine's answer to "what does the most powerful effect in 
 
 **Generic mechanism — the high-end ceiling:** the most powerful effects are gated not by *more fuel* (which a rich character could trivially spend) but by **irreplaceable, fiction-bound costs** — permanent attributes, unique monster parts, significant sacrifices, world-shaping locations. This is the engine's anti-trivialization design: at the ceiling, the limit is *what you are willing to lose or do*, not *what you have banked*. Corruption (a tracked, escalating downside) is the secondary brake — it lets a caster reach further at the cost of a doom spiral (Demonic: corruption > Empathy → demon whispers, demon targeting, +10 to mishap rolls; FL `07-magic.md:5009`). **Layer:** the epic tier is **Optional** — it exists only for genres whose power ceiling includes world-changing acts. A low/medium-density game stops at rank 3–4 and omits epic ingredients entirely.
 
-## 10. The on/off dial and genre-fit guidance
+## 10. Powers and Traditions
+
+A power tradition is a taught, feared, inherited, stolen, or improvised way of doing impossible things. FL's seventeen magical disciplines are the high-density fantasy instance; the portable rule is broader: every tradition needs a source, signs, limits, rites, tools, forbidden acts, backlash, and a place in society.
+
+Use **Powers and Traditions** whenever a game needs wizard schools, miracle paths, psychic disciplines, martial ki, alien technology, weird science, occult rites, superhero gifts, biotech procedures, songs of command, hacker daemons, or any other exceptional layer.
+
+### 10.1 Tradition sheet
+
+| Field | Required answer |
+| --- | --- |
+| Tradition | what the practice is called in the setting |
+| Source | blood, oath, study, spirit, machine, drug, god, place, memory, monster, math, song |
+| Signs | what witnesses see, hear, smell, feel, or fear |
+| Verbs | 5-8 things the tradition does: heal, bind, reveal, move, break, summon, hide, ward |
+| Limits | 3-5 things it cannot do safely |
+| Ranks | what rank 1, 3, and 5/6 look like |
+| Cost | metacurrency, Burn, ingredient, time, debt, exposure, oath, condition |
+| Tools | book, focus, weapon, lab, altar, drug, engine, animal, mask, relic |
+| Forbidden acts | what grants power but stains the user |
+| Backlash | the mishap family or Trouble table it uses |
+| Teachers | who can teach it and what they demand |
+| Public reaction | ordinary, strange, disturbing, illegal, holy, classified, fashionable |
+| Adventure hooks | where its ingredients, teachers, enemies, and ruins enter play |
+
+### 10.2 Tradition verb menu
+
+| Verb | Rank 1 expression | Rank 3 expression | Rank 5/6 expression |
+| --- | --- | --- | --- |
+| Heal | restore one attribute, close a wound | cleanse poison, prevent a lasting harm | return the dying, rewrite a scar |
+| Harm | deal ordinary damage | area, armor-bypass, condition | kill at range, curse a bloodline, ruin a place |
+| Ward | +1 defense, block one type | protect a zone, shield a group | seal a fortress, banish a host |
+| Reveal | sense nearby truth | question dead/machines/spirits, see hidden paths | read a season, expose a conspiracy |
+| Bind | restrain a target | command a creature, oath, machine, crowd | bind a monster, ruler, spirit, weather |
+| Move | leap, glide, pass a barrier | fly, teleport short, move cargo/crew | cross worlds, move a settlement, bend roads |
+| Shape | alter material, body, emotion, signal | transform creature/object/terrain briefly | permanent change with epic cost |
+| Summon | call a minor helper | call dangerous ally or tool | bargain with a great power |
+| Hide | conceal signs, memories, tracks | hide a group, lair, ship, sin | erase a place from maps or minds |
+| Command | bolster, frighten, rally | rule a mob or beast | sway an army, court, hive, or city |
+
+**Design rule:** a tradition should have 3-5 strong verbs and 2-4 weak verbs. If it can do every verb equally, it is not a tradition; it is the whole power layer.
+
+### 10.3 Rites and tools
+
+| Rite or tool | What it buys | What it costs |
+| --- | --- | --- |
+| Spoken word | speed, reaction, surprise | narrow effect, obvious sign |
+| Hand sign / focus | control, precision | bound hands, visible tell |
+| Ingredient | +1 Power Level or special permission | consumed, rare, illegal, perishable |
+| Book / pattern | lower rank or safer method | hand occupied, must be found/protected |
+| Place | larger scale or lower cost | travel, exposure, enemy claim |
+| Circle | shared strength | shared backlash, time, trust |
+| Sacrifice | immediate reach beyond fuel | moral cost, Menace, corruption, public horror |
+| Machine / apparatus | stable repeatable effect | bulk, repair, fuel, noise, theft |
+| Vow | reliable access | breach consequence |
+
+### 10.4 Blood Price
+
+Blood Price is the broad name for sacrifice-based power. It may be literal blood magic, psychic strain, machine overheat, crew casualties, burnt memories, oath-breaking, donated years of life, illegal fuel, or killing a prepared victim. It is calibrated from FL's ritual sacrifice and epic ingredients, but it should be written in the language of the new game.
+
+**Blood Price procedure:**
+
+1. **Name what is paid.** Blood, years, memories, crew, reputation, innocence, oxygen, rare fuel, body parts, faith, legal safety.
+2. **Name who pays.** The caster, a willing helper, an unwilling victim, a community, a machine, the land, an enemy, a bound spirit.
+3. **Set the gain.** Default: +1 Power Level, double fuel, one rank permission, one extra target band, one scene of duration, or one impossible casting attempt.
+4. **Set the stain.** Corruption, Menace, wanted heat, relationship loss, permanent injury, public horror, machine flaw, ghost, lawsuit, debt, omen.
+5. **Resolve the act.** If the payment is unwilling, prepared, public, or taboo, add a backlash roll or raise the mishap table. If it is willing and costly, reduce the social stain but keep the loss.
+6. **Record witness.** Someone or something must know: a god, ghost, camera, faction, beast, child, rival, ancestor, AI, local rumor.
+
+| Blood Price | Gain | Stain |
+| --- | --- | --- |
+| Self-wound | temporary fuel or +1 level | attribute damage, scar, exhaustion |
+| Willing helper | shared fuel or extra target | relationship strain, helper harm |
+| Unwilling victim | doubled fuel or major level boost | Menace, corruption, law, revenge |
+| Rare life | epic permission | grief, debt, impossible witness |
+| Place scar | area/rank increase | haunted land, faction claim, future mishap |
+| Memory | safe cast or hidden sign | lost bond, false memory, vulnerability |
+| Machine burn | instant power surge | broken device, noise, fire, rare parts |
+| Public taboo | fear and obedience | wanted heat, scandal, social exile |
+
+**Blood Price validation:** this rule must never become "free power if you are cruel." The stain must be strong enough that the table hesitates. If the payment can be repeated safely, it is too cheap.
+
+### 10.5 Circle of Power
+
+Circle of Power is the broad name for linked casting, shared rites, psychic choirs, hacker teams, synchronized pilots, cult circles, choir miracles, machine clusters, medical teams, or any exceptional act that becomes stronger because several participants act as one.
+
+**Circle procedure:**
+
+1. **Gather the circle.** Set the minimum helpers, required tradition/rank, tools, place, and time.
+2. **Name the leader.** One character makes the final casting or command roll.
+3. **Choose helper roles.** Anchor, fuel, ward, witness, singer, surgeon, engineer, lookout, victim, scribe, pilot.
+4. **Add strength.** Each qualified helper adds +1 die, +1 fuel, +1 level, one protected target, or one project tick. Pick one currency for the circle.
+5. **Share danger.** If the rite mishaps, every helper suffers a lesser fallout or one chosen helper takes the leader's full fallout.
+6. **Break the circle.** If a member is Broken, panics, betrays, or is removed, the circle tests for backlash.
+7. **Close the rite.** Record who now knows, who is bound, what debt exists, and what mark remains on the place.
+
+| Circle role | Adds | If it fails |
+| --- | --- | --- |
+| Anchor | stabilizes mishap, lowers backlash | leader takes +1 mishap severity |
+| Fuel | adds metacurrency or level | helper takes attribute damage or condition |
+| Ward | protects circle from interruption | external threat enters the rite |
+| Witness | makes effect legal, holy, binding, or public | scandal, broken oath, disputed claim |
+| Scribe | preserves rite for later learning | flawed book, false formula, stolen copy |
+| Singer | extends range, area, morale | panic spreads through circle |
+| Engineer | keeps apparatus stable | strange device breaks or misfires |
+| Lookout | prevents ambush/interruption | enemy arrives at worst moment |
+
+**Circle of Power validation:** circles may increase scale, safety, or reach, but not all three at once. Shared casting must create shared vulnerability; otherwise the best play is always to pile on helpers.
+
+### 10.6 Tradition examples without fantasy nouns
+
+| Game frame | Tradition | Source | Signs | Backlash |
+| --- | --- | --- | --- | --- |
+| Space opera | Black Signal | alien math and forbidden relays | cold lights, delayed voices, static blood | ghosts in comms, ship systems lie |
+| Medical drama | Last-Ditch Procedure | trauma medicine and experimental drugs | alarms, shaking hands, legal forms | malpractice, organ failure, addiction |
+| Court intrigue | The Red Etiquette | secret oaths and noble bloodlines | silence, gloves, witnesses bowing | scandal, duel, exile |
+| Mecha | Synchrony | pilot bond and machine resonance | nosebleeds, echo voices, glowing frame | feedback, cockpit fire, identity bleed |
+| Crime | Saint's Luck | favors, superstition, relics, betrayal | candles, cards, old prayers | heat, debt, crew suspicion |
+
+## 11. The on/off dial and genre-fit guidance
 
 **This is the file's central deliverable.** The power layer is the engine's largest *optional* subsystem, and the single most important genre-setting decision a designer makes is **whether to turn it on, and how dense to make it.** West proves the engine runs at full strength with it off; FL proves how far the engine scales when it is on.
 
@@ -243,7 +362,7 @@ FL's epic tier is the engine's answer to "what does the most powerful effect in 
 
 **Layer:** the on/off switch is **General** (a core genre decision); the density dial is **General** once on; the specific tier/model/fuel/mishap choices are the per-genre dials below.
 
-## 11. Divergence rows (FL vs West)
+## 12. Divergence rows (FL vs West)
 
 This file's central divergence is the cleanest in the entire engine: **FL has the full power layer; West has none.** That *is* the row. Recording it as the canonical "magic on/off" proof:
 
@@ -265,7 +384,7 @@ This file's central divergence is the cleanest in the entire engine: **FL has th
 
 **The meta-point:** every "West option" in this table is *the absence of the subsystem*, and the engine works anyway. That is the proof that the power layer is a **plug-in**, not a load-bearing wall.
 
-## 12. Dials and instantiation recipe
+## 13. Dials and instantiation recipe
 
 Each dial has FL (High) and West (None) as the two calibrated endpoints; Low/Medium map the middle.
 
@@ -293,7 +412,7 @@ Each dial has FL (High) and West (None) as the two calibrated endpoints; Low/Med
 8. **Set the rank ladder (dial 9) and epic tier (dial 10)** to the campaign's power ceiling.
 9. **Validate the whole** against the math (`13-balance-and-synergy.md`): WP throughput vs spell costs, mishap rate at each 💀 count, overcharge ceiling at max rank + Empower Spell, and the permanent-effect cap (forging appendix's Permanence/Empower checks, FL `07-magic.md:5444, 5446`).
 
-## 13. Design intent
+## 14. Design intent
 
 The power layer is **optional *because* the engine's pressure loop works without it** — West is the proof. The core loop (push-once-pay-a-cost, latent cost face, metacurrency refueled by risk, one-chance rule) generates drama on its own; magic is not required to make a roll meaningful. When the layer *is* present, three principles govern it:
 
