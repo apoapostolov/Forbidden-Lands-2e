@@ -69,7 +69,7 @@ This module is mostly **recombination** — the engine's power layer (`05`) plus
 - **NEW CONCEPT — Free-form composition menu (Archetype 8, Verb-Noun):** The engine's **Success Menu** (`00 §4`) fires once per downtime roll. Verb-noun casting needs a *combat-speed* composition: pick a verb + a noun + spend Power Level, resolve immediately. This is the Success Menu domain-transferred from downtime to tactical time, with the menu being the verb/noun lists and the PL cost being the "price." *Extends the Success Menu from slow authorship to fast tactical composition.*
 - **NEW CONCEPT — Advancing relic (Archetype 9, Item/Relic):** FL's artifact dice (`00 §9`) are *fixed* magic items. An advancing relic grows new tags over time as its wielder invests in it — it is a **settlement-as-character** (`16` P13) scaled to an item: the relic has a "lifecycle" (founding→functions→upkeep→events→scale) like an org (`07`). No core gear system models an item that levels up. *Extends P13/P7 from settlements/orgs to personal artifacts.*
 
-*Everything else is pure recombination: spell-as-skill uses the core skill roll; path/talent IS FL's model; psionics uses the core pool; faith uses P10 (inner fire); blood magic uses the Burn override (`05 §5`); runes use the inscribed-symbols rule set (`05 §6` Gate D); channeling uses possession + P4 consequences. Only the five rule patterns above are genuine engine extensions, and each is flagged at its archetype.*
+*Everything else is pure recombination: spell-as-skill uses the core skill roll; path/talent IS FL's model; psionics uses Willpower/Faith; faith uses P10 (inner fire); blood magic uses the Burn override (`05 §5`); runes use the inscribed-symbols rule set (`05 §6` Gate D); channeling uses possession + P4 consequences. Only the five rule patterns above are genuine engine extensions, and each is flagged at its archetype.*
 
 ### 2c. The 12 archetype builds
 
@@ -133,7 +133,7 @@ Each archetype: a one-line definition, its grid cell, what it borrows from the e
 
 **Grid cell:** Innate × Slot.
 
-**Engine borrow:** P2 (capped pool) — the power-point pool is the core pool, recolored as "psionic focus" or "mental strain." The casting-risk choice (`05 §4`) — but **default to safe-cast only** (psionics is reliable; the variance is in the pool, not the roll). The talent ladder (`05 §8`) — but advancement is **practice/maturation**, not study (no grimoires, no teachers).
+**Engine borrow:** P2 (capped pool) — the power-point pool is Willpower/Faith, recolored as "psionic focus" or "mental strain." The casting-risk choice (`05 §4`) — but **default to safe-cast only** (psionics is reliable; the variance is in the pool, not the roll). The talent ladder (`05 §8`) — but advancement is **practice/maturation**, not study (no grimoires, no teachers).
 
 **What's new:** the **mental-strain cost model** — a calibration of the push cost (`00 §6`). Where FL's push costs body (attribute damage) and West's costs currency (Faith), psionics' push costs **a mental attribute specifically** (Wits/Empathy) and carries a **strain track**: each push beyond the pool marks strain; at strain ≥ rank, the psion is **Burned Out** (cannot use powers until a full rest). This is a push-cost variant, not a new pattern — but it produces the distinctly "psionic" feel (overextension = headache, nosebleed, collapse).
 
@@ -296,7 +296,7 @@ Each archetype has its own choices (noted in §2c). The cross-cutting choices th
 
 ## 5. Integration points
 
-- **Hooks into:** the entire power layer (`05`) — every archetype is a build of `05` with its settings. Hooks into `09-spell-forging.md` for designing individual spells *within* a chosen archetype. Hooks into `workshop/07` (corruption) for blood, pact, and channeling consequences. Hooks into `workshop/01` (influence) and `workshop/06` (debt) for pact and folk-magic community-standing. Hooks into the crafting layer (`08 §5`) for relics and rune-inscription. Hooks into the base/org layer (`07`) for summoning and advancing relics.
+- **Hooks into:** the entire power layer (`05`) — every archetype is a build of `05` with its settings chosen. Hooks into `09-spell-forging.md` for designing individual spells *within* a chosen archetype. Hooks into `workshop/07` (corruption) for blood, pact, and channeling consequences. Hooks into `workshop/01` (influence) and `workshop/06` (debt) for pact and folk-magic community-standing. Hooks into the crafting layer (`08 §5`) for relics and rune-inscription. Hooks into the base/org layer (`07`) for summoning and advancing relics.
 - **Requires:** a power layer turned **on** (`05 §10`), except for the zero-instance West. The acquisition/expression choice is made *before* designing individual spells.
 - **Replaces / extends:** `05`'s monolithic instance — this module exposes the *space* of systems FL is one point in. A game using FL's path/talent magic verbatim does not need this module; a game building its own magic uses this to pick the archetype, then `09` to design the spells.
 - **Cross-refs:** `05` (power layer — the host); `09-spell-forging.md` (individual spell design); `16` P2/P4/P5/P6/P8/P10/P13 (composed patterns); `17` (feel calibration); `12` (the divergence map as a model for *this* typology's grid); `workshop/01`, `06`, `07` (pact/folk/blood integration).

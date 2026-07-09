@@ -2,7 +2,7 @@
 
 # Workshop — Agnostic Modular Extension Framework
 
-> **STATUS: ACTIVE.** This is the skill's generative **workbench** — a growing library of ready-to-use, engine-agnostic rule sets built by applying the Reinvention Method (`references/18-reinvention-method.md`) to the patterns in `references/16-mechanical-primitives.md`. Each module is a *new* rule (not a documentation of an existing one) — invented by transplanting proven patterns into fresh domains, calibrated for a target psychology, and stress-checked against the review path in `references/13-balance-and-synergy.md` and the felt-experience checks in `references/19-player-psychology-and-felt-experience.md`.
+> **STATUS: ACTIVE.** This is the skill's generative **workbench** — a growing library of ready-to-use, engine-agnostic rule sets built by applying the Reinvention Method (`references/18-reinvention-method.md`) to the patterns in `references/16-mechanical-primitives.md`. Each module is a *new* rule (not documentation of an existing one) — invented by transplanting proven patterns into fresh domains, calibrated for a target psychology, and stress-checked against the review path in `references/13-balance-and-synergy.md` and the felt-experience checks in `references/19-player-psychology-and-felt-experience.md`.
 
 ## What this folder is
 
@@ -10,7 +10,7 @@ The `references/` folder documents *what the Year Zero Engine is.* This folder e
 
 Every workshop module is:
 
-- **Engine-native.** Uses ⚔/💀, the push economy, the core pool, the success ladder, the activity menu, the typed D66, or another pattern from `16`. It fits the engine by construction — you will not need to invent a new dice type or parallel economy.
+- **Engine-native.** Uses ⚔/💀, the push economy, Willpower/Faith, the success ladder, the activity menu, the typed D66, or another pattern from `16`. It fits the engine by construction — you will not need to invent a new dice type or parallel economy.
 - **Genre-agnostic in its core.** Each module's bulk is the generic design space — the rule pattern, its choices, its pressure loop, its failure modes. A genre example shows it *in use*, but the rule pattern does not depend on the genre.
 - **Pre-checked.** Each module carries the Reinvention recipe (which operator, which patterns, what calibration), so a designer can see *how it was built* and adjust it rather than treat it as a black box.
 - **Drop-in.** Each module specifies its integration points (which engine systems it touches, what it requires, what it replaces) so a designer can install it without breaking the rest of the game.
@@ -42,7 +42,7 @@ If a module provides a generator instead of full tables, the generator must be e
 The workshop is meant to grow. A new module should follow the **module template** (see `00-module-template.md`):
 
 1. **Generic Design Space** (the bulk) — the rule pattern abstracted away from any genre, with: the source patterns, the reinvention operator, the pressure loop it creates, the choices, the failure modes, and the integration points.
-2. **Worked Genre Example** (a slice) — one concrete build in a chosen genre, showing the settings, the nouns skinned, and a brief play example.
+2. **Worked Genre Example** (a slice) — one concrete build in a chosen genre, showing the settings chosen, the nouns skinned, and a brief play example.
 3. **Check notes** — how it passed the `13`/`19` checks, and known edge cases.
 
 Apply the **Reinvention Ladder** from `SKILL.md`:
@@ -53,7 +53,7 @@ Apply the **Reinvention Ladder** from `SKILL.md`:
 
 ## Module index
 
-> Each module is a single `.md` file, numbered `01-` through `19-`. Each follows the structure in `00-module-template.md`: a genre-agnostic **generic design space** (§2, the bulk) including a **NEW CONCEPTS** subsection (§2b) flagging every rule pattern that extends the core engine, a **Rules reference** subsection (§2c) with runnable procedures, and an **Handshake** section that states prerequisites, inputs, outputs, touched systems, incompatibilities, and replace/stack rules.
+> Each module is a single `.md` file, numbered `01-` through `19-`. Each follows the structure in `00-module-template.md`: a genre-agnostic **generic design space** (§2, the bulk) including a **NEW CONCEPTS** subsection (§2b) flagging every rule pattern that extends the core engine, a **Rules reference** subsection (§2c) with runnable procedures, and a **Handshake** section that states prerequisites, inputs, outputs, touched systems, incompatibilities, and replace/stack rules.
 
 - `01-influence-and-political-power.md` — Political capital as a spendable, *decaying* pool with scandals as the bane-equivalent. *Worked example: Renaissance Florence.*
 - `02-faction-relationship-web.md` — A multi-faction relationship graph with a propagation rule: helping one faction shifts standing with its allies and enemies. *Worked example: post-apoc warlords.*

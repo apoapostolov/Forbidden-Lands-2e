@@ -17,7 +17,7 @@ A complete module must pass this bar before it belongs in the workshop:
 7. **Integration contract:** state whether the module replaces or stacks with host rules, what inputs it needs, what outputs it creates, and what caps prevent collisions.
 8. **Failure modes:** name abuse risks, pacing risks, table-burden risks, and tone risks, with fixes.
 9. **Checks:** include math/tempo checks, attrition checks, action-budget checks, and felt-experience checks.
-10. **Worked reskin:** include one concrete genre implementation with terms mapped, settings, a short play example, and a note on what would change in a second genre.
+10. **Worked reskin:** include one concrete genre implementation with terms mapped, settings chosen, a short play example, and a note on what would change in a second genre.
 11. **Publication handoff:** include player-facing rule text, GM-facing procedure text, quick-reference entries, and character/base/sheet fields.
 
 **Minimum density test:** a major module normally needs 150+ lines, 3+ tables or table-equivalent lists, 1+ numbered procedure, 1+ move menu, 1+ consequence engine, 1+ choice table, and 1+ worked example. A short module can be smaller only if the rule pattern is deliberately narrow and still runnable.
