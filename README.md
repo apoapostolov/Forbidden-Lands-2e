@@ -39,6 +39,7 @@ From `1.0.0` through `1.1.0`, this edition adds the best of the best additions t
 
 - A complete three-book manuscript set: Corebook, Gamemaster's Guide, and Book of Beasts.
 - Optional Linked Rolls for carrying exceptional or failed results forward through complex plans and coordinated actions.
+- Clear party procedures for stealth, surprise, and chases, with better-defined result quality and modifiers.
 - A bundled *Forbidden Lands* skill suite for AI and Game Master coworking.
 - A larger bestiary with new monsters, humanoid enemy bands, encounters, legends, and salvage.
 - Full faction play and political campaign rules with territory, pressure, recovery, and long-term consequences.

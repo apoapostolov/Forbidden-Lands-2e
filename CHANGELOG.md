@@ -21,6 +21,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+- **Book 01 — Corebook, skill resolution.** Clarified higher-result thresholds, negative modifiers, group stealth, Insight results, and the timing of Linked Rolls. Added defined procedures for surprise ratings, partial surprise, and chases.
+
 - **Pride.** Pride now returns after one blank session at D8, then rises to D10 and D12. A hard-won Tale or dangerous victory can also restore it.
 
 - **Chapter 05 — Slash and stab wording.** Clarified the close-combat language for slash and stab attacks and their interaction with dodge and parry, including the weapon and shield reference table.

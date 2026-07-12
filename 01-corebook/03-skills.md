@@ -18,7 +18,9 @@ To succeed with your action, you must roll at least one six. A six is called a s
 
 #### LEVELS OF EFFORT
 
-Most rolls only need a single ⚔️ to succeed, but the Gamemaster can raise the bar when the task is especially demanding or when you ask for a bigger payoff. A **Challenging** action needs two ⚔️, while a **Formidable** one needs three ⚔️. Players can volunteer for these tougher rolls if they want to finish a normal task faster, deliver exceptional craftsmanship, or secure an extra benefit. If you fall short of the required number of ⚔️ but still roll at least one, you earn the normal result—no time or resources are lost, you simply don’t gain the extra perk. Any ⚔️ beyond what was required can be treated as a Great or even Critical success, letting the GM add richer detail, better positioning, or fresh clues.
+Most rolls only need a single ⚔️ to succeed. When an action can produce a better result, the GM can set a higher result before the dice are rolled. Players can ask for one, but the GM decides whether the situation allows it. A **Challenging** result needs two ⚔️, while a **Formidable** result needs three.
+
+These are soft thresholds, not additional penalties. If you roll at least one ⚔️ but fall short of the higher result, you get the normal result. The extra benefit is lost, but no time or resources are lost unless the action itself says otherwise. A higher result can mean better timing, exceptional craftsmanship, a stronger position, or some other concrete benefit established before the roll.
 
 | Difficulty  | Result           | ⚔️ Needed |
 | ----------- | ---------------- | --------- |
@@ -175,7 +177,7 @@ Modifications only ever affect Skill Dice - never Base Dice or Gear Dice.
 
 Several modifications can apply to the same roll - add them together. A modification of +2 and one of -1 add up to +1.
 
-NEGATIVE DICE: If, after modifications, you end up with exactly zero Skill Dice, you just roll your Base Dice (and any applicable Gear Dice). If you go below zero, you must roll this negative number of Skill Dice. These dice are called negative dice. Any ⚔️ on negative dice eliminate an equal number of ⚔️ on Base or Gear Dice. If you push your roll you must reroll negative Skill Dice too (except the ones showing ⚔️ of course).
+NEGATIVE DICE: A negative modification first removes Skill Dice. If it removes more dice than you have Skill Dice, remove the remainder from your Base Dice or Gear Dice. Artifact Dice are not removed while any other die remains in your pool. If the negative modification still has dice left to remove after all other dice are gone, it removes Artifact Dice as well. You never roll negative dice. For example, four ordinary dice and a D8 Artifact Die become two ordinary dice and a D8 at -2. Two ordinary dice and a D8 become no dice at -3.
 
 You can get modifications in several different ways: through talents, through the difficulty of the action itself, and through help from others.
 
@@ -192,6 +194,8 @@ Normally, the GM doesn't assess how difficult an action is. You only roll dice i
 | Demanding  | -1           |
 | Hard       | -2           |
 | Formidable | -3           |
+
+These modifications describe the conditions of the action. They do not set the number of ⚔️ needed for a higher result. A Formidable condition gives a -3 modification; a Formidable result still needs three ⚔️ only if the GM has established a concrete extra benefit for it.
 
 There are also cases when modifications are imposed by the rules, like when you aim carefully with a ranged weapon, shoot at long distance, or if you're in a bad bargaining position when you attempt to _MANIPULATE_ someone. Some talents can also give you a positive modification in certain situations.
 
@@ -342,7 +346,11 @@ It is often wise to avoid combat and sneak past the enemy instead. Roll an oppos
 
 ##### GROUP STEALTH
 
-When you all attempt to stay hidden together, everyone rolls _STEALTH_. To succeed as a party you must tally at least one ⚔️ per character involved, plus a number of ⚔️ equal to the watchers' _SCOUTING_ roll if the enemy is actively searching. Anyone who rolls zero ⚔️ is spotted first, while characters who match or beat the opposition’s total remain hidden until the alarm spreads.
+Use this rule when the group moves or remains hidden together. It does not apply to a combat ambush, which uses the ambush rule in Chapter 5.
+
+Everyone rolls _STEALTH_. To remain hidden, the party must tally one ⚔️ per adventurer involved. If the watchers are actively searching, add the ⚔️ from one _SCOUTING_ roll to this total. Extra successes from one adventurer can cover another who rolled no ⚔️.
+
+If the party reaches the total, it remains hidden. If it falls short and one or more adventurers rolled no ⚔️, those adventurers are spotted first. If no one rolled zero, the watchers become suspicious but have not yet seen anyone; the group must withdraw, change its approach, or deal with the watchers before it can press on unseen.
 
 #### MOVE (AGILITY)
 
@@ -350,7 +358,13 @@ When you are going to jump, climb, move fast, or perform any other action that r
 
 ##### CHASES
 
-Resolving a chase takes a few rounds. Every runner rolls _MOVE_ each round and compares their best roll to the fastest opponent’s _MOVE_. You must meet or beat that top enemy result to hold your ground; anyone who falls short begins to lag. Allies with two or more ⚔️ can spend one immediately to drag a slower friend along this round, reserve it to boost that friend’s roll next round, or bank it toward ending the chase altogether. Once the party banks extra ⚔️ equal to twice the number of participating PCs—and keeps pace with the pursuers—they narrate how they shake pursuit. Simple chases usually last about three rounds and especially grueling pursuits can go as long as five to seven. After the first round, the GM can change up the terrain or add events; making smart snap-decisions about the environment can grant up to ±2 dice on the next round’s rolls. See the Carrying Helpless Characters rule in Chapter 12 if you are hauling someone who can’t keep up.
+Resolving a chase takes a few rounds. At the start of the chase, set the party’s Escape Points to zero. The party needs Escape Points equal to twice the number of runners to shake pursuit.
+
+Each round, every runner and pursuer rolls _MOVE_. The highest number of ⚔️ rolled by a pursuer is the pace for the round. A runner who rolls no ⚔️ gains one Lag. Otherwise, a runner keeps pace by meeting or beating the pace; a runner who falls short gains one Lag for every ⚔️ short of it.
+
+A runner who keeps pace can spend each ⚔️ above the pace to clear one Lag from a nearby ally or to bank one Escape Point. If any runner still has Lag after these spends, no Escape Points can be banked that round. A runner with two Lag is caught; the chase ends for that runner and the GM resolves the capture or begins combat.
+
+When the party reaches its Escape Point target and no runner has Lag, it shakes pursuit. Describe how the runners break line of sight, lose the trail, or force the pursuers to give up. After the first round, the GM can change the terrain or add events; a smart snap-decision can grant up to +2 or -2 dice on the next round’s rolls. See the Carrying Helpless Characters rule in Chapter 12 if you are hauling someone who can’t keep up.
 
 #### SLEIGHT OF HAND (AGILITY)
 
@@ -372,7 +386,11 @@ The _SCOUTING_ skill is not used to find hidden things like secret doors or hidd
 
 ##### GROUP SCOUTING
 
-Every adventurer rolls _SCOUTING_ when avoiding ambushes. Add up all ⚔️ rolled by the party; you must meet or exceed the encounter’s Surprise rating (three ⚔️ is typical, but devious plans or harsh conditions can raise the target). If you miss the total, any character who rolled zero ⚔️ is completely unaware of the threat, while everyone else realizes what’s happening—but just a moment too late to warn the group.
+When an ambush or other hidden danger might catch the party unaware, the GM assigns it a Surprise Rating: 1 for an obvious or hastily arranged threat, 2 for a concealed threat, 3 for a prepared ambush, or 4 for a masterfully prepared trap or supernatural concealment. If no reasonable precaution could reveal the danger, do not roll—the surprise is part of the situation.
+
+Every adventurer rolls _SCOUTING_. Add the party’s ⚔️ and compare the total to the Surprise Rating. If the party meets or exceeds it, the adventurers notice the threat in time to choose their response. If it falls short but no adventurer rolled zero, they receive only a last-moment warning; the encounter begins normally, but they cannot avoid it or set an ambush of their own.
+
+If the total falls short and one or more adventurers rolled zero, those adventurers are surprised. If everyone rolled zero, the whole party is surprised. Apply the surprise rules in Chapter 5.
 
 #### LORE (WITS)
 
