@@ -18,13 +18,27 @@ To succeed with your action, you must roll at least one six. A six is called a s
 
 #### LEVELS OF EFFORT
 
-Most rolls only need a single ⚔️ to succeed, but the Gamemaster can raise the bar when the task is especially demanding or when you ask for a bigger payoff. A **Challenging** action needs two ⚔️, while a **Difficult** one needs three ⚔️. Players can volunteer for these tougher rolls if they want to finish a normal task faster, deliver exceptional craftsmanship, or secure an extra benefit. If you fall short of the required number of ⚔️ but still roll at least one, you earn the normal result—no time or resources are lost, you simply don’t gain the extra perk. Any ⚔️ beyond what was required can be treated as a Great or even Critical success, letting the GM add richer detail, better positioning, or fresh clues.
+Most rolls only need a single ⚔️ to succeed, but the Gamemaster can raise the bar when the task is especially demanding or when you ask for a bigger payoff. A **Challenging** action needs two ⚔️, while a **Formidable** one needs three ⚔️. Players can volunteer for these tougher rolls if they want to finish a normal task faster, deliver exceptional craftsmanship, or secure an extra benefit. If you fall short of the required number of ⚔️ but still roll at least one, you earn the normal result—no time or resources are lost, you simply don’t gain the extra perk. Any ⚔️ beyond what was required can be treated as a Great or even Critical success, letting the GM add richer detail, better positioning, or fresh clues.
 
 | Difficulty  | Result           | ⚔️ Needed |
 | ----------- | ---------------- | --------- |
 | Normal      | Normal Success   | 1         |
 | Challenging | Great Success    | 2         |
-| Difficult   | Critical Success | 3         |
+| Formidable  | Critical Success | 3         |
+
+#### OPTIONAL RULE: LINKED ROLLS
+
+When several actions form one plan, the GM can link their rolls. A linked roll can represent one adventurer preparing the way for another, or one step in a longer undertaking such as a heist, an ambush, or a scheme of manipulation. The GM decides which rolls are linked and in what order before the first roll is made.
+
+The result of each roll modifies the next linked roll. Two ⚔️ give a +1 modification, while three or more ⚔️ give a +2 modification. One ⚔️ gives no modification—the action succeeds, but creates no further advantage.
+
+If the preceding action needed to succeed for the next one to work, rolling no ⚔️ instead gives a -2 modification to the next linked roll. If success was helpful but not necessary, failure gives no modification. A result modifies only the next roll in the chain.
+
+Do not use linked rolls merely to divide a single action into several rolls. Each roll must settle a distinct danger or uncertainty and change the situation that follows.
+
+**EXAMPLE**
+
+_Nirmena studies the watch from a nearby rooftop before Tyrgar slips into the guildhall. Her SCOUTING roll and his STEALTH roll are linked. Nirmena rolls two ⚔️ and spots the moment when both sentries turn away, giving Tyrgar a +1 modification. Had she rolled no ⚔️, Tyrgar would instead have suffered a -2 modification—the timing of the sentries was necessary to the plan._
 
 #### ONES WEAR YOU DOWN
 

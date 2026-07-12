@@ -11,6 +11,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- **Book 01 — Corebook, Linked Rolls.** Added an optional rule for chaining distinct rolls in complex plans and coordinated actions. Two successes give the next linked roll +1, three or more give +2, and a failed action that was necessary for the next step gives -2.
+
 - **`yze-design` — master Year Zero Engine design skill.** A comprehensive engine-agnostic design system for the Year Zero Engine (YZE) by Free League Publishing. Reverse-engineers Forbidden Lands 2E and Tales of the Old West 2E into a unified three-layer design toolkit:
   - **UNDERSTAND** — core resolution, character, conflict, harm, power, travel, organizations, gear, GM procedures, philosophy, design dials, and a complete FL-vs-West divergence map.
   - **INVENT** — 15 reusable mechanical primitives, a dual-use matrix showing how each primitive produces opposite player psychologies at different calibrations, and a 5-operator reinvention method for transplanting primitives into new systems (Domain Transfer, Inversion, Recalibration, Fusion, Abstraction-Climb).

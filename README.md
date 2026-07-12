@@ -38,6 +38,7 @@ The Book of Beasts is no longer just a creature list. It is a creature, encounte
 From `1.0.0` through `1.1.0`, this edition adds the best of the best additions that turn the project into a full second-edition line:
 
 - A complete three-book manuscript set: Corebook, Gamemaster's Guide, and Book of Beasts.
+- Optional Linked Rolls for carrying exceptional or failed results forward through complex plans and coordinated actions.
 - A bundled *Forbidden Lands* skill suite for AI and Game Master coworking.
 - A larger bestiary with new monsters, humanoid enemy bands, encounters, legends, and salvage.
 - Full faction play and political campaign rules with territory, pressure, recovery, and long-term consequences.
