@@ -34,6 +34,8 @@ The result of each roll modifies the next linked roll. Two ⚔️ give a +1 modi
 
 If the preceding action needed to succeed for the next one to work, rolling no ⚔️ instead gives a -2 modification to the next linked roll. If success was helpful but not necessary, failure gives no modification. A result modifies only the next roll in the chain.
 
+Use the final result after any push to determine the modification. The usual consequences of failure still apply.
+
 Do not use linked rolls merely to divide a single action into several rolls. Each roll must settle a distinct danger or uncertainty and change the situation that follows.
 
 **EXAMPLE**
@@ -157,11 +159,11 @@ As a rule, you only have one chance to succeed with any action. Once you have ro
 
 ### GROUP ROLLS
 
-When you face a challenge with your fellow adventurers, you don't roll dice separately. Instead, you choose who among you is best suited to take on this challenge. You decide who this is. The others may help them (see below) if it's relevant to the situation. If the roll fails, it counts as a failure for all of you - you are not allowed to try one time each. If you are trying to sneak past enemies with _STEALTH_, the one most likely to fail, usually the character with the lowest _STEALTH_ skill, makes the roll instead.
+When you face a challenge with your fellow adventurers, you don't roll dice separately. Instead, you choose who among you is best suited to take on this challenge. You decide who this is. The others may help them (see below) if it's relevant to the situation. If the roll fails, it counts as a failure for all of you - you are not allowed to try one time each.
 
 This rule does not apply in combat, where each adventurer is free to attack any enemy they like.
 
-When all PCs must succeed at the same task (such as a group climb or staying hidden together), everyone rolls. Each ⚔️ beyond the first rolled by a character may be spent to cover one teammate who rolled no ⚔️. Describe how those extra successes help: a helping hand, a warning gesture, a sudden distraction. If the group cannot cover everyone, those left uncovered fail. If you are sneaking past enemies with _STEALTH_, use the rule above instead.
+When all PCs must succeed at the same task, such as a group climb, everyone rolls. Each ⚔️ beyond the first rolled by a character may be spent to cover one teammate who rolled no ⚔️. Describe how those extra successes help: a helping hand, a warning gesture, a sudden distraction. If the group cannot cover everyone, those left uncovered fail. When the group tries to stay hidden together, use the GROUP STEALTH rule below instead.
 
 ### MODIFICATION
 
@@ -231,7 +233,7 @@ To increase your chance of success, you can use gear. Gear can take the form of 
 
 Useful gear gives you Gear Dice. This is called the Gear Bonus. When it comes to weapons, the terms commonly used are Weapon Dice and Weapons Bonus. You roll Gear Dice together with Base Dice and Skill Dice, and they are counted the same way: sixes equal ⚔️.
 
-Only the single highest item bonus applies to any roll. Other tools can still add narrative benefits or special effects, but bonuses never stack—you need at least one ⚔️ on the roll before an item can add extra ⚔️ afterward. The only exception is magic: magical bonuses can stack with one tool bonus and with help from others. For example, a Tent (+2) and Protective Netting (+1) do not combine for +3; you take the Tent’s +2 and treat the netting as flavor or a source of special rulings if the GM allows.
+Only the single highest Gear Bonus applies to any roll. Other tools can still add narrative benefits or special effects, but their Gear Bonuses never stack. The only exception is magic: magical bonuses can stack with one tool bonus and with help from others. For example, a Tent (+2) and Protective Netting (+1) do not combine for +3; you take the Tent’s +2 and treat the netting as flavor or a source of special rulings if the GM allows.
 
 #### GEAR GETS WORN
 
@@ -384,7 +386,9 @@ The Forbidden Lands are dangerous ground, where wild beasts roam the land. The i
 
 Being able to read other people and see through lies and deceit can be an important ability for an adventurer. Roll _INSIGHT_ when someone is trying to _MANIPULATE YOU_ (opposed roll).
 
-When you study a person, object, or locale—whether it’s a static roll or opposed by _MANIPULATION_—one ⚔️ (or merely matching the opposing roll) just tells you that something is off. Scoring one additional ⚔️ beyond the target or opposition gives you a concrete clue about why it feels wrong. Beating the target by two or more ⚔️ reveals the exact discrepancy, the hidden compartment, or the confirmed lie.
+When you study a person, object, or locale, one ⚔️ on a static roll tells you that something is off. Two ⚔️ give you a concrete clue about why it feels wrong, while three or more reveal the exact discrepancy, hidden compartment, or confirmed lie.
+
+In an opposed _INSIGHT_ roll, a tie does not win the roll, but it does tell you that something is off. If you beat the opposition by one ⚔️, you gain a concrete clue. If you beat it by two or more, you learn the exact discrepancy or confirmed lie.
 
 You can also use this skill to determine an NPC's state of mind. You must be close to the NPC and spend a few minutes observing him. If your roll is successful, the GM must tell you which is the NPC's strongest emotion right now - for example hate, fear, contempt, or love.
 
