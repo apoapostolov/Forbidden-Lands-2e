@@ -453,7 +453,7 @@ What keeps Teramalda walking is a magical iron spike, driven through the breastp
 - **TALENTS:** –
 - **GEAR:** Two-handed sword
 - **SLOW:** RUN is a SLOW action for Teramalda.
-- **INVULNERABLE:** Teramalda is immune to all forms of damage. The only way to kill her is to remove the magical iron spike that has been driven through her chest. This requires GRAPPLING or immobilizing her in some other way, and then make a Formidable (–3) MIGHT roll (slow action).
+- **INVULNERABLE:** Teramalda is immune to all forms of damage. The only way to kill her is to remove the magical iron spike that has been driven through her chest. This requires GRAPPLING or immobilizing her in some other way, and then make an Extreme (–3) MIGHT roll (slow action).
 
 **TERRAIN TYPES:** Plains, Dark Forest, Marshlands, Quagmire, Ruins
 

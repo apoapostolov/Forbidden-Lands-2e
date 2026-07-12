@@ -180,7 +180,7 @@ A troop that has survived 3 or more engagements intact — not rebuilt, not fold
 
 **First morale check immunity.** Veterans automatically pass the first morale check they would otherwise make each engagement. They have seen worse. After the first check, morale loss applies as normal.
 
-**Commander loss.** When a Veterans troop's Important Character is killed or removed from the field, the troop must make a Formidable morale check. These soldiers knew that officer. The loss is not just tactical.
+**Commander loss.** When a Veterans troop's Important Character is killed or removed from the field, the troop must make an Extreme morale check. These soldiers knew that officer. The loss is not just tactical.
 
 **Earned, not purchased.** Veterans cannot be recruited as a starting quality. They must be earned through play. The GM tracks which allied troops have reached Veterans status and when they last saw battle.
 
@@ -1783,7 +1783,7 @@ If the character takes damage from their advantage die result (showing a 1) duri
 | 43–44 | Allies carry a pot of boiling water to pour on the enemy, but they're panicking. PERFORMANCE to coordinate them properly. Failure: the water is wasted; the troop loses 1 advantage die on the next roll |
 | 45–46 | The troop commander is wounded, losing 1D6 Strength (minimum 1), and must be carried to safety. PERFORMANCE to direct companions or MIGHT to carry them personally. Failure: the troop loses 1D6 morale points and the enemy gains 1 advantage die on the next roll |
 | 51–52 | Grappling hooks catch the parapet. Three MELEE or MIGHT rolls to cut them, or a Hard PERFORMANCE to alert soldiers through the noise. Failure: the enemy troop gains 2 advantage dice on the next roll |
-| 53–54 | A fallen ally drops a lit torch toward a pot of boiling oil carried by soldiers below. Divert the torch with a Formidable MARKSMANSHIP or Hard MOVE, or warn the soldiers with a Demanding PERFORMANCE. Failure: oil ignites; the troop loses 1D6 morale and Attacks Second on the next roll |
+| 53–54 | A fallen ally drops a lit torch toward a pot of boiling oil carried by soldiers below. Divert the torch with an Extreme MARKSMANSHIP or Hard MOVE, or warn the soldiers with a Demanding PERFORMANCE. Failure: oil ignites; the troop loses 1D6 morale and Attacks Second on the next roll |
 | 55–56 | A grievously wounded messenger arrives with critical orders but cannot speak them. Interpret his signals with Demanding INSIGHT or reach him in time with Hard MOVE. Failure: the enemy gains 2 bonus dice on the next roll |
 | 61–63 | Attackers have scaled the wall and are at the top. Remove the ladder and throw it down with MIGHT — but first defeat the enemies already up (1D3 climbers, plus 1D3 more each turn; 1D6 allies assist). The event ends when the ladder falls, the character is Broken, or they flee. If the ladder is not removed, the wall loses its advantage dice on the next roll |
 | 64–66 | A skilled enemy is about to kill the defending troop's commander. Prevent it with a Hard MARKSMANSHIP or push the commander aside with Hard MIGHT or MOVE. Failure: the commander is Broken; the enemy gains 2 advantage dice |

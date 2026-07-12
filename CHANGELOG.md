@@ -21,7 +21,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- **Book 01 — Corebook, skill resolution.** Clarified higher-result thresholds, negative modifiers, group stealth, Insight results, and the timing of Linked Rolls. Added defined procedures for surprise ratings, partial surprise, and chases.
+- **Book 01 — Corebook, skill resolution.** Clarified higher-result thresholds, negative modifiers, group stealth, Insight results, and the timing of Linked Rolls. Added defined procedures for surprise ratings, partial surprise, and chases. Renamed the -3 condition tier to **Extreme**, reserving **Formidable** for three-success results.
 
 - **Pride.** Pride now returns after one blank session at D8, then rises to D10 and D12. A hard-won Tale or dangerous victory can also restore it.
 

@@ -20,7 +20,7 @@ To succeed with your action, you must roll at least one six. A six is called a s
 
 Most rolls only need a single ⚔️ to succeed. When an action can produce a better result, the GM can set a higher result before the dice are rolled. Players can ask for one, but the GM decides whether the situation allows it. A **Challenging** result needs two ⚔️, while a **Formidable** result needs three.
 
-These are soft thresholds, not additional penalties. If you roll at least one ⚔️ but fall short of the higher result, you get the normal result. The extra benefit is lost, but no time or resources are lost unless the action itself says otherwise. A higher result can mean better timing, exceptional craftsmanship, a stronger position, or some other concrete benefit established before the roll.
+If you roll at least one ⚔️ but fall short of the higher result, you get the normal result. The extra benefit is lost, but no time or resources are lost unless the action itself says otherwise. A higher result can mean better timing, exceptional craftsmanship, a stronger position, or some other concrete benefit established before the roll.
 
 | Difficulty  | Result           | ⚔️ Needed |
 | ----------- | ---------------- | --------- |
@@ -193,9 +193,9 @@ Normally, the GM doesn't assess how difficult an action is. You only roll dice i
 | Average    | 0            |
 | Demanding  | -1           |
 | Hard       | -2           |
-| Formidable | -3           |
+| Extreme    | -3           |
 
-These modifications describe the conditions of the action. They do not set the number of ⚔️ needed for a higher result. A Formidable condition gives a -3 modification; a Formidable result still needs three ⚔️ only if the GM has established a concrete extra benefit for it.
+These modifications describe the conditions of the action. They do not set the number of ⚔️ needed for a higher result. An Extreme condition gives a -3 modification; a Formidable result still needs three ⚔️ only if the GM has established a concrete extra benefit for it.
 
 There are also cases when modifications are imposed by the rules, like when you aim carefully with a ranged weapon, shoot at long distance, or if you're in a bad bargaining position when you attempt to _MANIPULATE_ someone. Some talents can also give you a positive modification in certain situations.
 
