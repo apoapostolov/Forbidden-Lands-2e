@@ -177,7 +177,7 @@ Modifications only ever affect Skill Dice - never Base Dice or Gear Dice.
 
 Several modifications can apply to the same roll - add them together. A modification of +2 and one of -1 add up to +1.
 
-NEGATIVE DICE: A negative modification first removes Skill Dice. If it removes more dice than you have Skill Dice, remove the remainder from your Base Dice or Gear Dice. Artifact Dice are not removed while any other die remains in your pool. If the negative modification still has dice left to remove after all other dice are gone, it removes Artifact Dice as well. You never roll negative dice. For example, four ordinary dice and a D8 Artifact Die become two ordinary dice and a D8 at -2. Two ordinary dice and a D8 become no dice at -3.
+NEGATIVE DICE: A negative modification first removes Skill Dice. If it removes more dice than you have Skill Dice, remove the remainder from your Base Dice. Gear Dice are never removed by negative modifications. Artifact Dice are not removed while any other die remains in your pool. If the negative modification still has dice left to remove after all Skill Dice and Base Dice are gone, and no Gear Dice remain, it removes Artifact Dice as well. You never roll negative dice. For example, four ordinary dice and a D8 Artifact Die become two ordinary dice and a D8 at -2. Two ordinary dice and a D8 become no dice at -3.
 
 You can get modifications in several different ways: through talents, through the difficulty of the action itself, and through help from others.
 
@@ -258,6 +258,8 @@ Usually, gear only adds extra D6 to your roll. However, there are master crafted
 - D12: Legendary
 
 When you roll an Artifact Die, any result of 6 or higher counts as ⚔️. Really high results count as several ⚔️. See the table below.
+
+A result of 1 on an Artifact Die is a 💀. It is not rerolled when you push, and it counts whenever a rule cares about the number of 💀 rolled. Artifact Dice are never degraded by 💀.
 
 | RESULT | D8    | D10      | D12         |
 | ------ | ----- | -------- | ----------- |
