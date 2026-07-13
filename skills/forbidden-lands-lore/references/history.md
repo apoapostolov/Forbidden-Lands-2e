@@ -8,22 +8,22 @@ for any manuscript prose unless explicitly stated otherwise.
 
 Eight phases of the year, each roughly six weeks:
 
-| # | Phase | Season-feel |
-|---|---|---|
-| 1 | Springrise | Thaw, mud, lambing |
-| 2 | Springwane | Late spring, planting |
-| 3 | Summerrise | Long days, early warmth |
-| 4 | Summerwane | Hay, dust, drought-risk |
-| 5 | Fallrise | Harvest |
-| 6 | Fallwane | Slaughter, salting |
-| 7 | Winterrise | First snow, fires lit |
-| 8 | Winterwane | Hunger, ice, wolves |
+| # | Festival boundary | Phase | Season-feel |
+|---|---|---|---|
+| 1 | Awakening Day | Springrise | Thaw, mud, lambing |
+| 2 | Springturn | Springwane | Late spring, planting |
+| 3 | Lushday | Summerrise | Long days, early warmth |
+| 4 | Midsummer | Summerwane | Hay, dust, drought-risk |
+| 5 | Harvest Day | Fallrise | Harvest |
+| 6 | Fallturn | Fallwane | Slaughter, salting |
+| 7 | Rotday | Winterrise | First snow, fires lit; the dead remembered |
+| 8 | Midwinter | Winterwane | Hunger, ice, wolves |
 
-**Festivals:** Awakening Day (start of Springrise), Lushday
-(midsummer green), Harvest Day (Fallrise), Rotday (Fallwane,
-when the dead are remembered), Midwinter, Midsummer. **Springturn**
-and **Fallturn** mark equinoxes. Most villages keep at least
-Awakening, Harvest, Midwinter, and Rotday.
+The order is **Springrise → Springwane → Summerrise → Summerwane →
+Fallrise → Fallwane → Winterrise → Winterwane**, then back to
+Springrise. Each festival boundary above opens its corresponding
+phase. Most villages keep at least Awakening Day, Harvest Day,
+Rotday, and Midwinter.
 
 Use these names in prose. Never write "spring" or "autumn"
 generically.

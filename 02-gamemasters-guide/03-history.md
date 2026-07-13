@@ -266,7 +266,6 @@ In the calendar used by the humans of the Forbidden Lands, the year is divided i
 
 Every phase is 45 or 46 days long. During the Midwinter celebration, the most prominent servants of the gods decree when the different festivals will be celebrated during the year. Since the Forbidden Lands have several religions and the commandments about the festivals do not reach every part of the land, they are often celebrated on different days in different places.
 
-- **PHASE NAMES:** Springrise, Summerrise, Fallrise, Winterrise, Springwane, Summerwane, Fallwane, Winterwane.
-- **FESTIVAL NAMES:** Awakening Day, Lushday, Harvest Day, Rotday, Midwinter, Midsummer.
-- **SEASONAL TURN NAMES ALSO IN USE:** Springturn and Fallturn.
-- **MERGED CALENDAR ORDER (FROM THE IMAGE):** Springturn → Springrise → Awakening Day → Summerrise → Midsummer → Summerwane → Lushday → Springwane → Fallturn → Fallrise → Harvest Day → Winterrise → Midwinter → Winterwane → Rotday → Fallwane → (back to Springturn).
+- **PHASE ORDER:** Springrise → Springwane → Summerrise → Summerwane → Fallrise → Fallwane → Winterrise → Winterwane → (back to Springrise).
+- **FESTIVAL ORDER:** Awakening Day → Springturn → Lushday → Midsummer → Harvest Day → Fallturn → Rotday → Midwinter → (back to Awakening Day).
+- **FULL CALENDAR ORDER:** Awakening Day → Springrise → Springturn → Springwane → Lushday → Summerrise → Midsummer → Summerwane → Harvest Day → Fallrise → Fallturn → Fallwane → Rotday → Winterrise → Midwinter → Winterwane → (back to Awakening Day).

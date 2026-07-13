@@ -341,8 +341,10 @@ When auditing prose for setting authenticity, check:
       components (food, water, defense, shrine, burial, authority,
       grudge) in the first 200 words.
 - [ ] **Time** is anchored by the eight phases (Springrise →
-      Winterwane) or named festivals (Awakening Day, Lushday,
-      Harvest Day, Rotday, Midwinter, Midsummer), not "spring,"
+      Springwane → Summerrise → Summerwane → Fallrise → Fallwane →
+      Winterrise → Winterwane) or named festival boundaries
+      (Awakening Day, Springturn, Lushday, Midsummer, Harvest Day,
+      Fallturn, Rotday, Midwinter), not "spring,"
       "autumn," "next year."
 - [ ] **Calendar dates** are in AS (After the Shift) only when an
       old object, person, or grievance forces them into the scene.

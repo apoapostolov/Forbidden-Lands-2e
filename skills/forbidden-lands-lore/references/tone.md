@@ -313,7 +313,9 @@ or its proposals, prioritize the following:
 - A single proverb or song-fragment per scene, attributed to a
   named song or a named singer when possible (`gamemaster-tools`
   in Book of Beasts has a list).
-- Time-anchors via the eight phases (Springrise → Winterwane) and
+- Time-anchors via the eight phases (Springrise → Springwane →
+  Summerrise → Summerwane → Fallrise → Fallwane → Winterrise →
+  Winterwane) and
   named festivals (Awakening Day, Lushday, Harvest Day, Rotday,
   Midwinter, Midsummer). Not "spring."
 
