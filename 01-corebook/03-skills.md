@@ -494,10 +494,9 @@ Some texts were written to conceal their truths rather than pass them on. If a M
 
 Myths already known can help unravel such a source. Add the highest Myth Die that bears directly on its language, symbols, authors, or subject to the WITS roll. This is an exception to the normal rule that Myth Dice augment skill rolls. You must still be able to read the language beneath the cipher. A sage with **Teacher** Rank 1 removes this roll only if the sage already knows the hidden Myth and teaches it from their own understanding; simply helping with an undeciphered text is not enough.
 
-| Successful Quarters | Myth Die | Typical Sage Fee for That Quarter |
+| Successful Quarters | Myth Die | Typical Sage Fee for Each Quarter |
 | --- | --- | --- |
 | 1 | D6 | 1 silver |
 | 2 | D8 | 3 silver |
 | 3 | D10 | - |
 | 4 | D12 | - |
-A Myth cannot rise above D12. A sage with **Teacher** Rank 1 removes the WITS roll, as for ordinary training. The faster training provided by higher ranks of **Teacher** does not reduce the number of days needed to improve a Myth; its secrets must be absorbed one day at a time. Sages who teach for profit commonly charge three times the normal fee for a skill teacher, reflected in the table above. Learning a Myth costs no XP; finding a source willing and able to teach it is the true price.
