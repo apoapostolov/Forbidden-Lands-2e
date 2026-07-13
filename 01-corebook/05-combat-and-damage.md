@@ -26,6 +26,8 @@ If a new combatant enters the fight, they roll initiative when they arrive, then
 
 If you perform an attack that the GM deems surprising, every member of the surprising side adds +3 dice to their initiative roll in the first round. The surprised side does not roll initiative that round and uses only unmodified **AGILITY** for their segment.
 
+If only some combatants are surprised, the surprising side still adds +3 dice to its initiative rolls. Only the surprised combatants use their unmodified **AGILITY** for their segment; everyone else rolls initiative normally.
+
 #### ROUNDS & TURNS
 
 In the game, a round can represent any period from ten seconds up to a minute, depending on circumstances and the skills used.

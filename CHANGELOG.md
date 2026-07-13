@@ -7,9 +7,11 @@ All notable changes to the Forbidden Lands Corebook will be documented in this f
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased] - 2026-07-06
+## [Unreleased] - 2026-07-12
 
 ### Added
+
+- **Book 01 — Corebook, Linked Rolls.** Added an optional rule for chaining distinct rolls in complex plans and coordinated actions. Two successes give the next linked roll +1, three or more give +2, and a failed action that was necessary for the next step gives -2.
 
 - **`yze-design` — master Year Zero Engine design skill.** A comprehensive engine-agnostic design system for the Year Zero Engine (YZE) by Free League Publishing. Reverse-engineers Forbidden Lands 2E and Tales of the Old West 2E into a unified three-layer design toolkit:
   - **UNDERSTAND** — core resolution, character, conflict, harm, power, travel, organizations, gear, GM procedures, philosophy, design dials, and a complete FL-vs-West divergence map.
@@ -18,6 +20,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Use it to build a new YZE game for any genre, invent rules from proven primitives, or stress-validate either for math and table feel.
 
 ### Changed
+
+- **Book 01 — Corebook, skill resolution.** Clarified higher-result thresholds, negative modifiers, group stealth, Insight results, and the timing of Linked Rolls. Added defined procedures for surprise ratings, partial surprise, and chases. Renamed the -3 condition tier to **Extreme**, reserving **Formidable** for three-success results.
 
 - **Pride.** Pride now returns after one blank session at D8, then rises to D10 and D12. A hard-won Tale or dangerous victory can also restore it.
 
