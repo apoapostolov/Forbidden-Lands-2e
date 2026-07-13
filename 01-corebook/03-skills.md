@@ -273,6 +273,31 @@ A result of 1 on an Artifact Die is a 💀. It is not rerolled when you push, an
 
 The _Forbidden Lands_ custom dice have the number of ⚔️ engraved directly on the dice.
 
+### WISDOMS
+
+The oldest truths of the Forbidden Lands are not taught in village schools. They survive in the keeping of sages, in grimoires chained beneath ruined temples, and in worm-eaten tomes recovered from libraries thought lost. Each **Wisdom** is a narrow body of secret knowledge, such as the Secrets of Churmog, the burial rites of a forgotten dynasty, or the true names recorded by a dead order of sorcerers.
+
+A Wisdom is recorded by name together with a **Wisdom Die**: D6, D8, D10, or D12. When you make a skill roll and your Wisdom bears directly on the action, you may add its die to the roll. The same Wisdom might aid _LORE_ to recall where demons enter this world, _INSIGHT_ to recognize the signs of possession, or _MANIPULATION_ to bargain with a Churmog cultist. Explain how the knowledge helps before you roll. The GM decides whether it applies.
+
+Only one Wisdom Die can be added to a roll. If several Wisdoms apply, use the highest die. A Wisdom can reveal a possible course of action, but it does not replace a required talent, spell, language, tool, or firsthand investigation.
+
+Roll a D6 Wisdom Die as a Skill Die. For a D8, D10, or D12, count ⚔️ as shown in the Artifact Dice table. Wisdom Dice are not Artifact Dice, however: a result of 1 is not a 💀, and the die can be rerolled when you push unless it shows one or more ⚔️.
+
+#### LEARNING A WISDOM
+
+You can learn a Wisdom from a sage who knows it or from a tome, grimoire, or other complete source. To study a written source, you must be able to read its language. A sage can translate and explain a text instead, provided that you share a language.
+
+Studying takes one Quarter Day and uses the same daily allotment as training: you may spend no more than one Quarter Day per day on training or learning, in total. At the end of the Quarter Day, roll WITS. This roll cannot be pushed. If you succeed, mark one successful Quarter of study. If you fail, the time is spent but the Wisdom does not improve. Successful Quarters need not be consecutive, but you must have access to a suitable source for each one.
+
+| Successful Quarters | Wisdom Die | Typical Sage Fee for That Quarter |
+| ------------------- | ---------- | --------------------------------- |
+| 1                   | D6         | 6 copper                          |
+| 2                   | D8         | 12 copper                         |
+| 3                   | D10        | 15 copper                         |
+| 4                   | D12        | 3 silver                          |
+
+A Wisdom cannot rise above D12. A sage with **Teacher** Rank 1 removes the WITS roll, as for ordinary training. The faster training provided by higher ranks of **Teacher** does not reduce the number of days needed to improve a Wisdom; its secrets must be absorbed one day at a time. Sages who teach for profit commonly charge three times the normal fee for a skill teacher, reflected in the table above. Learning a Wisdom costs no XP; finding a source willing and able to teach it is the true price.
+
 ### PRIDE
 
 Once per game session, you can use your Pride after you have failed a skill roll made to protect yourself or another person. When you use your Pride, roll your Pride die and add it to the roll. Pride starts at D12. If the roll still fails, you lose your Pride for the next session. At the start of the session after that, it returns as a D8. If you use Pride and do not lose it, or if you do not use Pride during a session, it improves by one step at the start of the next session, from D8 to D10 to D12.
@@ -396,7 +421,7 @@ If the total falls short and one or more adventurers rolled zero, those adventur
 
 #### LORE (WITS)
 
-Myths and legends carry vital knowledge about the Forbidden Lands, passed down through generations. Roll for _LORE_ when you want to know more about an adventure site, an important NPC, or an artifact. If you succeed, you will remember a legend about it. Some legends are available as premade handouts.
+Myths and legends carry vital knowledge about the Forbidden Lands, passed down through generations. Roll for _LORE_ when you want to know more about an adventure site, an important NPC, or an artifact. If you succeed, you will remember a legend about it. Some legends are available as premade handouts. A relevant Wisdom can add its Wisdom Die to this roll, but is not itself a rank in _LORE_ or any other skill.
 
 #### SURVIVAL (WITS)
 

@@ -632,7 +632,7 @@ These numbers are guidelines; the GM can nudge them if an evening runs unusually
 
 ### TRAINING AND ADVANCEMENT
 
-XP buys potential; only time, sweat, and silver turn it into expertise. Training usually takes one Quarter Day per calendar day, and you may focus on only one lesson at a time. Without a trainer, each such Quarter ends with a WITS roll. Failure means the time was spent but the lesson didn’t stick—continue the next day. Trainers with the **Teacher** Rank 1 talent remove those rolls or let you add their WITS dice at higher ranks. Training quarters need not be consecutive; you gain the new rank only after every Quarter and roll is complete.
+XP buys potential; only time, sweat, and silver turn it into expertise. Training usually takes one Quarter Day per calendar day, and you may focus on only one lesson at a time. Studying a Wisdom (see Chapter 3) uses this same allowance—you cannot train for one Quarter Day and study for another on the same day. Without a trainer, each such Quarter ends with a WITS roll. Failure means the time was spent but the lesson didn’t stick—continue the next day. Trainers with the **Teacher** Rank 1 talent remove those rolls or let you add their WITS dice at higher ranks. Training quarters need not be consecutive; you gain the new rank only after every Quarter and roll is complete.
 
 #### RAISING ATTRIBUTES
 
