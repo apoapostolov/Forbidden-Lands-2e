@@ -238,7 +238,7 @@ Members of the order visited neighboring villages to demand obedience and tribut
 
 Sometimes confused villagers joined the Brotherhood, who had been given control of the city Alderstone with its ruins, undead and half-demons. Their leader was called the Rust Prince. The Rust Brothers preached that the humans of the Forbidden Lands should be grateful that the powerful Zytera protected their land from the incursions of demonic hordes, and that this difficult task demanded submission and sacrifice.
 
-### 900-1200 AS — Era of the Blood Mist
+### 900-1160 AS — Era of the Blood Mist
 
 The nexus in Shadowgate Pass had not been fully closed, so demonic creatures made their way through regularly into the Forbidden Lands from places beyond. Among all these strange beings, no one had noticed the large red dust cloud that had leaked from the nexus during the final phase of the war, a cloud that soon scattered on the winds. The dust was actually spores from gaseous demons called bloodlings. Now a blood red mist rose from the ground during the night across all of the Forbidden Lands. The mist grew thicker and covered more ground as the bloodlings spread. Almost everyone entering the mist at night disappeared.
 

@@ -34,15 +34,15 @@ Player-facing material repeatedly announces that history has become myth. Its in
 
 ## Confirmed inconsistencies
 
-### 1. The Blood Mist era ends after the present year
+### 1. Resolved: the Blood Mist era ended after the present year
 
-**Severity:** High chronology error.
+**Status:** Resolved.
 
 The History chapter labels the period `900–1200 AS — Era of the Blood Mist` (`03-history.md:241`), but the same chapter says the Mist lifts in 1160 AS (`03-history.md:253`) and establishes the present as 1165 AS (`03-history.md:259`). The heading therefore extends the Blood Mist thirty-five years beyond the present and forty years beyond its stated lifting.
 
 The repeated phrase “three centuries” is acceptable as a rounded description of roughly 260 years. The endpoint `1200 AS` is not.
 
-**Recommended resolution:** Change the heading to `900–1160 AS — Era of the Blood Mist`. Retain “roughly three centuries” or “ten generations” in prose.
+**Resolution:** The heading now reads `900–1160 AS — Era of the Blood Mist`. “Roughly three centuries” and “ten generations” remain rounded descriptions of the period.
 
 ### 2. The lifting of the Blood Mist is both an event and a multi-year process
 
@@ -292,7 +292,7 @@ Wyrm, Raven, and Rust/Heme traditions interpret the raven-and-serpent image diff
 1. Correct the Ailander origin and human migration sequence in `references/setting.md`.
 2. Correct the Vond Wall, Lumra, Algarod, Zytera, and Vond entries in `references/history.md`.
 3. Remove Algarod's supposed burial beneath The Hollows from `references/history.md` and `references/places.md`.
-4. Correct the Blood Mist date heading and define what happened in 1160 AS.
+4. Define what happened in 1160 AS.
 5. Correct the Quard ancestry statement and the Falender and Wailer's Hold dates.
 6. Normalize historical names and typographical variants.
 
@@ -302,7 +302,7 @@ Track these items as the source files are corrected. A checked item has been
 resolved in the manuscript or reference layer; an unchecked item remains an
 open continuity task.
 
-- [ ] 1. Correct the Blood Mist era heading (`900–1160 AS`).
+- [x] 1. Correct the Blood Mist era heading (`900–1160 AS`).
 - [ ] 2. Define whether the 1160 AS lifting is the start or completion of the thinning process.
 - [ ] 3. Restore the Ailander origin as Alderland refugee migration.
 - [ ] 4. Correct the human migration sequence in the setting reference.
