@@ -463,7 +463,7 @@ Please note that you cannot tame monsters, only animals.
 
 ## MYTHS
 
-The oldest truths of the Forbidden Lands are not taught in village schools. They survive in the keeping of sages, in grimoires chained beneath ruined temples, and in worm-eaten tomes recovered from libraries thought lost. Each **Myth** is a narrow body of secret knowledge, such as the burial rites of a forgotten dynasty, the signs used by a vanished guild, or the properties of a rare and dangerous herb.
+The oldest truths of the Forbidden Lands are not taught in village schools. They survive in the keeping of sages, in grimoires chained beneath ruined temples, and in worm-eaten tomes recovered from libraries thought lost. Each **Myth** is a narrow body of secret knowledge, such as the proper rites at an ancient grave mound, the trail signs of an isolated clan, or the properties of a rare herb found only in the deep forest.
 
 A Myth is recorded by name together with a **Myth Die**: D6, D8, D10, or D12. When you make a skill roll and your Myth bears directly on the action, you may add its die to the roll. A Myth concerning forgotten burial rites might aid _LORE_ to identify who raised an ancient tomb, _INSIGHT_ to recognize a ceremonial gesture, or _MANIPULATION_ to address a guardian according to the proper custom. The GM decides whether it applies.
 
