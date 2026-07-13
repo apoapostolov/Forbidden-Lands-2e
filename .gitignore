@@ -20,5 +20,3 @@
 
 # Explicitly keep these out even if a parent rule changes later.
 /.codex
-/scripts/
-/02-gamemasters-guide copy/
