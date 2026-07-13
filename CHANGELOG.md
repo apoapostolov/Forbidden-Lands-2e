@@ -11,7 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- **Book 01 — Corebook, Wisdoms.** Added rare fields of learned knowledge found in the teachings of sages and in recovered tomes and grimoires. A Wisdom develops from D6 to D12 through successful study and can augment any directly relevant skill without becoming another skill rank.
+- **Book 01 — Corebook, Myths.** Added rare fields of learned knowledge found in the teachings of sages and in recovered tomes and grimoires. Myths develop from D6 to D12 through successful study and can help decipher deliberately hidden knowledge. When several Myths apply, only the highest Myth Die is added. Each source limits how deeply its secrets can be learned.
 
 - **Book 01 — Corebook, Linked Rolls.** Added an optional rule for chaining distinct rolls in complex plans and coordinated actions. Two successes give the next linked roll +1, three or more give +2, and a failed action that was necessary for the next step gives -2.
 

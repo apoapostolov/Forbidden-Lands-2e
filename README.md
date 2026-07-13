@@ -38,7 +38,7 @@ The Book of Beasts is no longer just a creature list. It is a creature, encounte
 From `1.0.0` through `1.1.0`, this edition adds the best of the best additions that turn the project into a full second-edition line:
 
 - A complete three-book manuscript set: Corebook, Gamemaster's Guide, and Book of Beasts.
-- Wisdoms learned from sages, lost tomes, and grimoires, granting a growing die for narrow fields of secret knowledge.
+- Myths learned from sages, lost tomes, and grimoires, granting a growing Myth Die for narrow fields of secret knowledge.
 - Optional Linked Rolls for carrying exceptional or failed results forward through complex plans and coordinated actions.
 - Clear party procedures for stealth, surprise, and chases, with better-defined result quality and modifiers.
 - A bundled *Forbidden Lands* skill suite for AI and Game Master coworking.

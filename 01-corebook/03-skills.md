@@ -273,31 +273,6 @@ A result of 1 on an Artifact Die is a 💀. It is not rerolled when you push, an
 
 The _Forbidden Lands_ custom dice have the number of ⚔️ engraved directly on the dice.
 
-### WISDOMS
-
-The oldest truths of the Forbidden Lands are not taught in village schools. They survive in the keeping of sages, in grimoires chained beneath ruined temples, and in worm-eaten tomes recovered from libraries thought lost. Each **Wisdom** is a narrow body of secret knowledge, such as the Secrets of Churmog, the burial rites of a forgotten dynasty, or the true names recorded by a dead order of sorcerers.
-
-A Wisdom is recorded by name together with a **Wisdom Die**: D6, D8, D10, or D12. When you make a skill roll and your Wisdom bears directly on the action, you may add its die to the roll. The same Wisdom might aid _LORE_ to recall where demons enter this world, _INSIGHT_ to recognize the signs of possession, or _MANIPULATION_ to bargain with a Churmog cultist. Explain how the knowledge helps before you roll. The GM decides whether it applies.
-
-Only one Wisdom Die can be added to a roll. If several Wisdoms apply, use the highest die. A Wisdom can reveal a possible course of action, but it does not replace a required talent, spell, language, tool, or firsthand investigation.
-
-Roll a D6 Wisdom Die as a Skill Die. For a D8, D10, or D12, count ⚔️ as shown in the Artifact Dice table. Wisdom Dice are not Artifact Dice, however: a result of 1 is not a 💀, and the die can be rerolled when you push unless it shows one or more ⚔️.
-
-#### LEARNING A WISDOM
-
-You can learn a Wisdom from a sage who knows it or from a tome, grimoire, or other complete source. To study a written source, you must be able to read its language. A sage can translate and explain a text instead, provided that you share a language.
-
-Studying takes one Quarter Day and uses the same daily allotment as training: you may spend no more than one Quarter Day per day on training or learning, in total. At the end of the Quarter Day, roll WITS. This roll cannot be pushed. If you succeed, mark one successful Quarter of study. If you fail, the time is spent but the Wisdom does not improve. Successful Quarters need not be consecutive, but you must have access to a suitable source for each one.
-
-| Successful Quarters | Wisdom Die | Typical Sage Fee for That Quarter |
-| ------------------- | ---------- | --------------------------------- |
-| 1                   | D6         | 6 copper                          |
-| 2                   | D8         | 12 copper                         |
-| 3                   | D10        | 15 copper                         |
-| 4                   | D12        | 3 silver                          |
-
-A Wisdom cannot rise above D12. A sage with **Teacher** Rank 1 removes the WITS roll, as for ordinary training. The faster training provided by higher ranks of **Teacher** does not reduce the number of days needed to improve a Wisdom; its secrets must be absorbed one day at a time. Sages who teach for profit commonly charge three times the normal fee for a skill teacher, reflected in the table above. Learning a Wisdom costs no XP; finding a source willing and able to teach it is the true price.
-
 ### PRIDE
 
 Once per game session, you can use your Pride after you have failed a skill roll made to protect yourself or another person. When you use your Pride, roll your Pride die and add it to the roll. Pride starts at D12. If the roll still fails, you lose your Pride for the next session. At the start of the session after that, it returns as a D8. If you use Pride and do not lose it, or if you do not use Pride during a session, it improves by one step at the start of the next session, from D8 to D10 to D12.
@@ -421,7 +396,7 @@ If the total falls short and one or more adventurers rolled zero, those adventur
 
 #### LORE (WITS)
 
-Myths and legends carry vital knowledge about the Forbidden Lands, passed down through generations. Roll for _LORE_ when you want to know more about an adventure site, an important NPC, or an artifact. If you succeed, you will remember a legend about it. Some legends are available as premade handouts. A relevant Wisdom can add its Wisdom Die to this roll, but is not itself a rank in _LORE_ or any other skill.
+Myths and legends carry vital knowledge about the Forbidden Lands, passed down through generations. Roll for _LORE_ when you want to know more about an adventure site, an important NPC, or an artifact. If you succeed, you will remember a legend about it. Some legends are available as premade handouts. A relevant Myth can add its Myth Die to this roll, but is not itself a rank in _LORE_ or any other skill.
 
 #### SURVIVAL (WITS)
 
@@ -485,3 +460,45 @@ TAME WILD ANIMALS: When you encounter a wild animal, you can attempt to discoura
 Through a longer period of work, you can also use _ANIMAL HANDLING_ to tame a wild animal. The animal must be caught, and to successfully tame it you must use _ANIMAL HANDLING_ successfully as many times as the animal's _STRENGTH_, spread out over an equal number of days. You must spend a Quarter Day every day taming the animal, or the process begins anew.
 
 Please note that you cannot tame monsters, only animals.
+
+## MYTHS
+
+The oldest truths of the Forbidden Lands are not taught in village schools. They survive in the keeping of sages, in grimoires chained beneath ruined temples, and in worm-eaten tomes recovered from libraries thought lost. Each **Myth** is a narrow body of secret knowledge, such as the burial rites of a forgotten dynasty, the signs used by a vanished guild, or the properties of a rare and dangerous herb.
+
+A Myth is recorded by name together with a **Myth Die**: D6, D8, D10, or D12. When you make a skill roll and your Myth bears directly on the action, you may add its die to the roll. A Myth concerning forgotten burial rites might aid _LORE_ to identify who raised an ancient tomb, _INSIGHT_ to recognize a ceremonial gesture, or _MANIPULATION_ to address a guardian according to the proper custom. Explain how the knowledge helps before you roll. The GM decides whether it applies.
+
+Only one Myth Die can be added to a roll. If several Myths bear directly on the action, use the highest relevant die. Explain how the knowledge helps before you roll; merely knowing many secrets is not enough if they have no bearing on the problem at hand. A Myth can reveal a possible course of action, but it does not replace a required talent, spell, language, tool, or firsthand investigation.
+
+Roll a D6 Myth Die as a Skill Die. For a D8, D10, or D12, count ⚔️ as shown in the Artifact Dice table. Myth Dice are not Artifact Dice, however: a result of 1 is not a 💀, and the die can be rerolled when you push unless it shows one or more ⚔️.
+
+### LEARNING A MYTH
+
+You can learn a Myth from a sage who knows it or from a tome, grimoire, or other source. To study a written source, you must be able to read its language. A sage can translate and explain a text instead, provided that you share a language.
+
+Every source has a **Myth Limit**: the highest Myth Die that can be learned from it. A source with a D8 limit can teach the Myth at D6 and D8, but can reveal nothing further. Successful Quarters already marked are not lost when you reach this limit; to continue, you must find a source with deeper knowledge of the same Myth.
+
+| Source                                       | Typical Myth Limit |
+| -------------------------------------------- | ------------------ |
+| Fragment, inscription, or incomplete notes   | D6                 |
+| Traveling sage or sound scholarly tome       | D8                 |
+| Rare, largely complete tome                  | D10                |
+| Hidden and treasured grimoire                | D12                |
+
+These are guidelines. The GM sets the limit when the source is discovered. Most sages who travel the Forbidden Lands know their Myths no further than D8. The darkest truths are more often preserved in grimoires whose owners buried, chained, or killed to protect them.
+
+Studying takes one Quarter Day and uses the same daily allotment as training: you may spend no more than one Quarter Day per day on training or learning, in total. At the end of the Quarter Day, roll WITS. This roll cannot be pushed. If you succeed, mark one successful Quarter of study. If you fail, the time is spent but the Myth does not improve. Successful Quarters need not be consecutive, but you must have access to a suitable source for each one.
+
+### HIDDEN MYTHS
+
+Some texts were written to conceal their truths rather than pass them on. If a Myth is hidden behind a cipher, mysterious notation, or deliberately veiled writing, each WITS roll to study it requires two ⚔️ instead of one. Rolling only one ⚔️ means that the Quarter Day is spent without progress.
+
+Myths already known can help unravel such a source. Add the highest Myth Die that bears directly on its language, symbols, authors, or subject to the WITS roll. This is an exception to the normal rule that Myth Dice augment skill rolls. You must still be able to read the language beneath the cipher. A sage with **Teacher** Rank 1 removes this roll only if the sage already knows the hidden Myth and teaches it from their own understanding; simply helping with an undeciphered text is not enough.
+
+| Successful Quarters | Myth Die | Typical Sage Fee for That Quarter |
+| ------------------- | -------- | --------------------------------- |
+| 1                   | D6       | 6 copper                          |
+| 2                   | D8       | 12 copper                         |
+| 3                   | D10      | 15 copper                         |
+| 4                   | D12      | 3 silver                          |
+
+A Myth cannot rise above D12. A sage with **Teacher** Rank 1 removes the WITS roll, as for ordinary training. The faster training provided by higher ranks of **Teacher** does not reduce the number of days needed to improve a Myth; its secrets must be absorbed one day at a time. Sages who teach for profit commonly charge three times the normal fee for a skill teacher, reflected in the table above. Learning a Myth costs no XP; finding a source willing and able to teach it is the true price.
