@@ -1971,7 +1971,7 @@ When a decision is not made beforehand, the GM can use the **SETTLEMENT** level 
 
 **Skills:** When a player asks if a town has a tutor who knows a skill's rank, make a **SETTLEMENT** check. A tutor for Rank 1 is available even if the roll fails and has no 💀. Each ⚔️ increases the tutor's rank by 1, to a maximum of 5.
 
-**Talents:** When a player asks if a town has a tutor who knows a talent, make a **SETTLEMENT** check. If the roll has at least one ⚔️ and fewer than three 💀, a tutor for Rank 1 is available. Spellcasting talents require two ⚔️. Each additional ⚔️ increases the talent's rank by 1, to a maximum of 3 (or 4 for spellcasting talents).
+**Talents:** When a player asks if a town has a tutor who knows a talent, make a **SETTLEMENT** check. If the roll has at least one ⚔️ and fewer than three 💀, a tutor for Rank 1 is available. Spellcasting talents require two ⚔️. Each additional ⚔️ beyond the requirement increases the tutor's rank by 1, to a maximum of 5.
 
 **Equipment:** When a player asks if a town has a specific item, make a **SETTLEMENT** check. For each two ⚔️, shift the item's Supply one step easier (Rare -> Uncommon -> Common). Never shift Extremely Rare without a story hook. Then roll availability, as normal. If the item is available, you may use another **SETTLEMENT** check to set quantity: 0 ⚔️ means one item, 1-2 ⚔️ means small stock (up to a dozen), 3+ ⚔️ means plentiful (up to a hundred). Individual quantities raise asking price by 25%, while plentiful items allow the seller to provide discounts about 10% to buyers of high REPUTATION or when buying bulk. The GM should note the result and keep it for a month or two before rerolling.
 

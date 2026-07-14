@@ -38,17 +38,17 @@ Not all disciplines are equal in the eyes of the world. Some are known and toler
 | Oneiromancy     | Disturbing | Journey       |
 | Magnetism       | Disturbing | Journey       |
 
-These classifications carry no mechanical weight. They are a guide for the GM when deciding how townsfolk react to witnessed magic, how hard it is to locate a teacher, and what consequences follow when a caster is careless about who sees them work.
+These classifications carry no mechanical importance. They are a guide for the GM when deciding how townsfolk react to witnessed magic, how hard it is to locate a teacher, and what consequences follow when a caster is careless about who sees them work.
 
 ### LEARNING MAGIC
 
 To learn a new discipline, or increase your rank in a discipline you already know, you should find a master with a higher rank than you in the magic talent and who is ready to share their secrets with you. This can require both persuasion and substantial compensation. Without a teacher, the cost in XP for increasing the rank in a magical talent or learning a new one is tripled.
 
-**MAGICAL TALENT RANKS:** Magical talents are not limited to rank 3 like other talents. Many disciplines contain spells at rank 4, 5, and 6. The talent can be increased to match.
+**MAGICAL PATH RANKS:** Every magical Path talent has five ranks. Rank 5 is the absolute maximum. Rank 6 refers only to spells; there is no Rank 6 magical Path talent.
 
 **FREE SPELLS:** When you increase a magical talent, you learn 2 spells of that rank or lower for free. These are the spells your teacher imparted, or the ones you grasped through solitary study.
 
-**LEARNING ADDITIONAL SPELLS:** Any spell within your disciplines and at or below your talent rank can be learned by paying XP equal to the spell's rank and spending one Quarter Day in meditation and focused practice. You do not need a teacher or grimoire for non-ritual spells. Rituals and epic magic are different — the exacting structure of a ritual cannot be reconstructed from intuition alone, and the forces bound into epic spells are too vast and too dangerous to grope toward in the dark. To learn a ritual or an epic spell, you must either find a teacher who knows it or study a grimoire that contains it. The XP cost and one Quarter Day of study still apply, but the teacher or grimoire is required.
+**LEARNING ADDITIONAL SPELLS:** Any spell within your disciplines and at or below your talent rank can be learned by paying XP equal to the spell's rank and spending one Quarter Day in meditation and focused practice. At Rank 5, you may also learn Rank 6 spells in that discipline. You do not need a teacher or grimoire for non-ritual spells. Rituals and epic magic are different — the exacting structure of a ritual cannot be reconstructed from intuition alone, and the forces bound into epic spells are too vast and too dangerous to grope toward in the dark. To learn a ritual or an epic spell, you must either find a teacher who knows it or study a grimoire that contains it. The XP cost and one Quarter Day of study still apply, but the teacher or grimoire is required.
 
 ### SPELLS
 
@@ -56,9 +56,15 @@ Your attempts to use magic to impose your will on the world are called _spells_.
 
 #### SPELL RANKS
 
-All spells in this chapter are rated in ranks ranging from 1 to 3. There can be spells of even higher rank. As a magic user, you can cast all spells that are at a rank equal to or lower than your rank in the related magical talent. For example, if you have rank 2 in the _PATH OF BLOOD_ talent, you can cast all spells at rank 1 and 2 in the Blood Magic discipline.
+Spells in this chapter have ranks from 1 to 6. As a magic user, you can cast all spells with a rank equal to or lower than your rank in the related magical talent. For example, if you have rank 2 in the _PATH OF BLOOD_ talent, you can cast all rank 1 and rank 2 Blood Magic spells.
 
 **CHANCE CASTING:** If you really want to, you can cast a spell at one rank above the rank of your magical talent. However, this comes at a great risk, as you will _automatically_ suffer a random magic mishap in this case. You can never cast a spell that is two ranks or more above your talent rank.
+
+**RANK 6 SPELLS:** Only a caster with Rank 5 in the spell's discipline can attempt a Rank 6 spell. The spell is always chance cast and can never be cast normally or safely. This cannot be changed by a grimoire, rank reduction, or any other effect. A Rank 6 ritual must still be performed as a ritual, but its casting is always a chance casting and causes a guaranteed magic mishap.
+
+**VOLUNTARY CHANCE CASTING:** You may chance cast a spell even if its rank does not exceed your rank in the discipline. The spell is resolved normally, but you are guaranteed to suffer a magic mishap. If the spell has a **CHANCE CASTING** effect in its description, that effect applies whether chance casting was voluntary or required by the spell's rank.
+
+**CHANCE-CAST MISHAPS:** A chance-cast spell causes one magic mishap. If the casting roll shows one or more 💀, use the number rolled to resolve the mishap normally. If the roll shows no 💀, resolve the mishap as if one 💀 had been rolled. A chance cast never causes a second mishap in addition to one already triggered by the casting roll.
 
 ### CASTING A SPELL
 
@@ -81,6 +87,10 @@ Casting a spell requires a great deal of mental exertion and requires that you s
 **MAGIC MISHAP:** If you roll one or several 💀 when you cast a spell, you have unleashed powerful forces but are unable to control them and you suffer a magic mishap. Roll D66 on the mishap table for the discipline used to cast the spell, applying the modifier based on how many 💀 you rolled.
 
 **SAFE CASTING:** If you cast a spell at a lower rank than your talent rank for the discipline, you may opt to roll one less die for every point of difference. This reduces the risk of a magic mishap, but also makes the spell less likely to overcharge. If the result is zero dice or less, don't roll at all - the spell simply works as intended.
+
+A spell counts as safely cast only if safe casting removes at least one casting die. If the spell has a **SAFE CASTING** limitation in its description, that limitation applies to the entire effect. A spell cannot be both chance cast and safely cast.
+
+**CASTING MODE:** Before spending WP, declare whether the spell is cast normally, chance cast, or safely cast. Apply any limitations to range, targets, or effects before rolling. Resolve the spell's normal effect first, then its chance-casting effect, and finally any magic mishap. A specific mishap can still alter or undo the spell if its description says so.
 
 **MAGIC DICE TO ROLL:** Use the table below to determine how many Base Dice you roll when casting spells. This is a quick reference; apply the additional notes after the table.
 
@@ -107,7 +117,7 @@ Also note:
 
 ### GRIMOIRES
 
-You don't need your spells written down to cast them, but it makes it easier to get it right. Grimoires are highly sought-after artifacts among sorcerers. If you cast a spell from a book or a scroll, its rank is considered one step lower than usual. In combat, you must spend a fast action readying your grimoire before you can cast the spell.
+You don't need your spells written down to cast them, but it makes it easier to get it right. Grimoires are highly sought-after artifacts among sorcerers. If you cast a spell from a book or a scroll, its rank is considered one step lower than usual. A grimoire never removes the required chance casting from a Rank 6 spell. In combat, you must spend a fast action readying your grimoire before you can cast the spell.
 
 Writing down a spell requires you to first cast it once (chance casting doesn't count). Then, you must spend a Quarter Day with quill in hand and make a LORE roll. Writing down a ritual takes two Quarter Days.
 
@@ -164,6 +174,8 @@ When a spell mishaps, use the table of the path that powered it.
 - A Healing spell uses the Healing mishap table.
 - A Blood Magic spell uses the Blood Magic mishap table.
 - A general spell uses the General Spells mishap table.
+
+**DELAYED MISHAPS:** Some mishaps take effect the next time a particular event occurs. Unless the mishap states another time limit, that event must occur within one turn (15 minutes). If it does not, the mishap ends without further effect.
 
 **MAGIC MISHAP MODIFIERS:** Apply the following modifier to the D66 mishap roll, depending on how many 💀 you rolled.
 
@@ -224,6 +236,8 @@ The magic disciplines differ, but there are certain effects and spells that all 
 
 You reach into another caster's spell at the moment of its release and feed it with your own will. As a fast action, you increase the Power Level of one allied spell being cast this round by 1. Your Empower Spell's Power Level must match or exceed the target spell's current Power Level. This spell is reactive and breaks initiative order — you may cast it in direct response to an ally's spell.
 
+**CHANCE CASTING:** The allied spell may use your position as its point of origin for range and line of sight if you are within NEAR range of its caster.
+
 #### MAGICAL SEAL
 
 ✦ **RANK** 1, **RITUAL**
@@ -232,6 +246,8 @@ You reach into another caster's spell at the moment of its release and feed it w
 ✦ **INGREDIENT**: Piece of chalk
 
 Using this spell, you protect a person or a location (no bigger than a human) from magic. The Power Level of any spells cast against that person or place during the Quarter Day is decreased by the Power Level of the **MAGICAL SEAL**.
+
+**CHANCE CASTING:** The first time the seal reduces a hostile spell, its protected subject and the seal's caster learn the spell's discipline and the exact position from which it was cast. They retain this knowledge even if the source was unseen or the caster is elsewhere.
 
 #### PASS MAGICAL RESILIENCE
 
@@ -256,6 +272,8 @@ You perform a minor trick. The trick can give a bonus equal to the Power Level t
 - **Sight**: Create some dancing lights, you may fit the completely white or a spot on your forehead start to glow.
 - **Ice**: Chill a beverage or create a small rain of snowflakes.
 
+**SAFE CASTING:** The trick can affect only you, your voice, and objects you carry; it cannot directly alter another creature or its perceptions.
+
 #### SENSE MAGIC
 
 ✦ **RANK** 1
@@ -264,6 +282,8 @@ You perform a minor trick. The trick can give a bonus equal to the Power Level t
 ✦ **INGREDIENT**: Divining rod
 
 As a sorcerer or druid, you automatically sense whenever someone uses magic within SHORT range or if an item you hold is charged with magical power. If you want to know more about what kind of magic is involved, you must cast the **SENSE MAGIC** spell. Using this spell is also required to detect **OBSCURED** magic (see below) - your Power Level must then be equal to or higher than the Power Level of the **OBSCURE MAGIC** spell.
+
+**SAFE CASTING:** Range becomes NEAR, and the spell cannot detect magic protected by OBSCURE MAGIC.
 
 #### COPY MAGIC
 
@@ -280,6 +300,8 @@ If you ever fulfill all criteria for permanently knowing the spell, during its d
 
 Copy Magic cannot be used to copy monster abilities, even if they are spell like.
 
+**CHANCE CASTING:** When the spell is copied, learn one required ingredient, target restriction, or other concrete limitation of the copied spell.
+
 #### DISPEL MAGIC
 
 ✦ **RANK** 2, **POWER WORD**
@@ -288,6 +310,8 @@ Copy Magic cannot be used to copy monster abilities, even if they are spell like
 ✦ **INGREDIENT**: Iron filings
 
 You can interfere with the spells cast by other magic users. This spell is reactive and breaks the initiative order of combat in the round. You decrease the Power Level of your opponent's spell with the Power Level of your _dispel_. If the result is zero or less, your opponent's spell has no effect at all. You must both roll for overcharge and mishaps, as with any other spell. You must decide how many WP you spend on your _dispel_ before you both roll.
+
+**CHANCE CASTING:** If the opposing spell is reduced to Power Level 0, its collapsing magic marks its caster for one turn (15 minutes). You know the marked caster's direction while within SHORT range, and the mark negates visual concealment against you.
 
 #### EXTEND MAGIC
 
@@ -312,6 +336,8 @@ You can concentrate to hold on to the fleeting power of another spell. This incr
 **FROM TURNS:** You increase a spell's duration from turns to Quarter Days, but you must now spend a fast action each round to keep concentration.
 
 **FROM QUARTER DAYS:** You increase a spell's duration from Quarter Days to until you go to sleep, but then you must now spend a free action each round to keep concentration.
+
+**CHANCE CASTING:** If damage breaks your concentration, the held spell persists for one turn (15 minutes) before ending. You need not spend actions to maintain it during that turn, but you cannot resume or further extend it.
 
 #### OBSCURE MAGIC
 
@@ -343,6 +369,8 @@ You can bind the spell in whatever manner you wish. You decide how the spell is 
 ✦ **INGREDIENT**: Parchment
 
 You prepare a specific spell you know, so that the next time you use it, you will cast it as _power word_. You cannot prepare rituals in advance. When cast, you can have a maximum of Power Levels amount of prepared spell, any more than that will become lost. The same spell cannot be prepared multiple times.
+
+**CHANCE CASTING:** If the prepared spell expires unused, recover 1 WP committed to it; no more than 1 WP can be recovered this way.
 
 #### STABILIZE MAGIC ZONE
 
@@ -452,6 +480,8 @@ This ritual allows you to read the magical energy imprint from the skull taken f
 The spellcaster need not have been on good terms with you, you are not actually contacting the dead, merely reading years of magical imprints. You get to understand all that you can learn from using this ritual, before you begin it.
 
 You need to cast this at a Power Level at least equaling the rank of the paths or spells you want to read.
+
+**CHANCE CASTING:** You also learn whether the unearthed residue was chiefly protective, harmful, controlling, or transformative, and whether it was used within the last day.
 
 #### ABSORB MAGICAL RESIDUE
 
@@ -604,6 +634,8 @@ The true calling of the Druid is to further nature's cause and to heal its wound
 
 You can focus the forces of nature to enlighten dark souls. You immediately heal a number of Wits or Empathy points equal to the Power Level of your spell. You cannot heal yourself.
 
+**CHANCE CASTING:** After healing, the target cannot suffer further Wits or Empathy damage from the same creature, spell, or fear effect for one turn (15 minutes). This protection ends after it prevents damage once.
+
 #### HEALING HANDS
 
 ✦ **RANK** 1
@@ -612,6 +644,8 @@ You can focus the forces of nature to enlighten dark souls. You immediately heal
 ✦ **INGREDIENT**: Clay
 
 You can heal damage to Strength or Agility by laying your hands on the wounded. You immediately heal a number of points equal to the Power Level. This spell does not affect critical injuries. You cannot heal yourself.
+
+**CHANCE CASTING:** You suspend the effect and time limit of one lethal critical injury affecting the target for one turn (15 minutes). The injury is not healed, and its lethal clock resumes when the turn ends.
 
 #### NATURE'S CURE
 
@@ -622,6 +656,8 @@ You can heal damage to Strength or Agility by laying your hands on the wounded. 
 
 You heal a sickness or cure the effects of poison in yourself or someone else. The Power Level of your spell must be equal to or higher than the Virulence or Potency rating divided by 3. Round down.
 
+**CHANCE CASTING:** You identify the poison or disease, its current Potency or Virulence, and the most likely route by which the target contracted it.
+
 #### PRESERVE
 
 ✦ **RANK** 1
@@ -630,6 +666,8 @@ You heal a sickness or cure the effects of poison in yourself or someone else. T
 ✦ **INGREDIENT**: A sprinkle of salt
 
 An amount of material up to the size of a heavy item is prevented from spoiling for a week. For an additional Power Level, you may target a humanoid in size and for 3 WP you can target a whole wagon load. If the spell targets a living subject, they can if they want to, succumb into a deep sleep while the spell lasts. If so the spell halts, but does no nullify, any effects from conditions (hunger, thirst, cold, etc.), critical injuries, bleeding, poison and disease. The target can still die from coup de grace or other instant death critical injuries if attacked during the duration. You can end the spell at will.
+
+**SAFE CASTING:** The spell can affect only non-living material and cannot suspend a living creature.
 
 #### RINSE
 
@@ -649,6 +687,8 @@ The touched source, up to a humanoid in size, becomes cleaner. If it would infli
 
 Demonic creatures from other worlds have been released into the Forbidden Lands and are defiling it. You know the art of driving these abominations back to where they belong. This spell inflicts damage to Strength equal to the Power Level on a demonic target. This includes demons that do not suffer damage from physical weapons. The spell has no effect on demon-tainted creatures, only on true demons. Read more about demons in the bestiary.
 
+**CHANCE CASTING:** After the spell inflicts its Strength damage, a true demon that remains unbroken is banished if its current Strength is no greater than the damage just suffered. The demon's wounded substance tears open a rift that drags it back to the world from which it came. The rift then closes.
+
 #### IMMUNITY
 
 ✦ **RANK** 2
@@ -657,6 +697,8 @@ Demonic creatures from other worlds have been released into the Forbidden Lands 
 ✦ **INGREDIENT**: Fang from a snake.
 
 The target reduces the potency of all poison and disease suffered during the upcoming Quarter Day by 3 per Power Level. You can also spend Power Levels to add another target to the spell. It does not affect any poisons or diseases that the target may have already contracted, before the spell was cast.
+
+**SAFE CASTING:** The spell affects only one target. Choose poison or disease when you cast it. The spell protects against the chosen category, not both.
 
 #### MEND SELF
 
@@ -676,6 +718,8 @@ You heal 1 point of Strength, Agility, Wits and Empathy when this Quarter Day en
 
 You can use magic to heal broken bones and bleeding wounds. This spell immediately heals a critical injury. A lethal injury requires Power Level 2. Lost limbs cannot be regrown, however.
 
+**CHANCE CASTING:** Before the end of the next round, the target may GET UP once without spending a fast action.
+
 #### PURGE UNDEAD
 
 ✧ **RANK** 2
@@ -685,6 +729,8 @@ You can use magic to heal broken bones and bleeding wounds. This spell immediate
 
 Dead rising from their graves is a violation of the order of nature and they must be stopped. This spell inflicts damage to Strength equal to the Power Level on one undead target.
 
+**CHANCE CASTING:** An unbroken undead whose remaining Strength is no greater than the damage just suffered falls prone and loses its next fast action.
+
 #### CALM EMOTIONS
 
 ✦ **RANK** 3
@@ -693,6 +739,8 @@ Dead rising from their graves is a violation of the order of nature and they mus
 ✦ **INGREDIENT**: Herbs thrown into the air
 
 All targets, except you, within the radius or engaged with someone within the radius stops for a second to contemplate their actions. Spending all their upcoming actions for one round to defend, negotiate or disengage only. If the targets actions were stirred by emotions, those are now gone and the targets can be reasoned with again. Gain a +1 bonus to any **MANIPULATON** roll taken during this time per Power Level. Any new hostile actions will end the effect. No effect on monsters.
+
+**CHANCE CASTING:** Choose one affected creature. One ongoing fear, rage, coercion, or supernatural agitation affecting it remains suppressed for one turn (15 minutes), even if a new hostile action ends the spell for everyone else. The suppressed effect returns afterward if its duration has not expired.
 
 #### INVIGORATE
 
@@ -914,6 +962,8 @@ Druids are closely connected to nature, and the shapeshifters are even more so i
 
 This spell allows you to speak with a mammal. You can ask a number of questions equal to the Power Level of the spell. The animal can tell you what it has seen, heard, or smelled - but they do not perceive the world as humanoids do, so their answers are often hard to interpret. The main advantage is that they never lie.
 
+**CHANCE CASTING:** After answering the normal questions, the animal volunteers one urgent sensory impression concerning danger, food, young, or territory.
+
 #### BEFRIEND ANIMAL
 
 ✦ **RANK** 1
@@ -941,6 +991,8 @@ You can meld your mind with the spirit of the cat, and move without a sound. You
 
 You can meld your mind with that of a hawk and gain its inhuman sight. You can see the details of anything within DISTANT range, everything from horizon to horizon. You see all details and can identify specific people.
 
+**CHANCE CASTING:** The first SCOUTING roll made through the enhanced sight gains one automatic ⚔️. Declare the roll before the spell ends.
+
 #### NATURE'S WATCH
 
 ✦ **RANK** 1
@@ -949,6 +1001,8 @@ You can meld your mind with that of a hawk and gain its inhuman sight. You can s
 ✦ **INGREDIENT**: A tame animal (not consumed)
 
 You will be alerted if anyone trespasses within an area, even while you sleep, as long as there are animals in the area that can observe the intruder. If anyone enters roll animal handling as your scout roll, and also add one automatic ⚔️. You may give some basic criteria, like only warn me if the size is at least that of a wolf. Extra Power Levels can be used to increase range or double the duration.
+
+**CHANCE CASTING:** On its first alarm, the watching animals reveal the intruders' number, direction, broad size, and whether they bear visible weapons. You learn this even if the SCOUTING roll gains no additional ⚔️.
 
 #### BEAR'S CLAW
 
@@ -959,6 +1013,8 @@ You will be alerted if anyone trespasses within an area, even while you sleep, a
 
 You can strike your enemy with the force of a great bear. You hit automatically and cause damage equal to the Power Level. The attack cannot be parried or dodged, but armor has normal effect.
 
+**CHANCE CASTING:** If the strike inflicts damage, the target is also subjected to a SHOVE with one ⚔️.
+
 #### BEASTMASTER
 
 ✦ **RANK** 2
@@ -967,6 +1023,8 @@ You can strike your enemy with the force of a great bear. You hit automatically 
 ✦ **INGREDIENT**: Claw or tooth
 
 You can bend animals, both wild and tame, to your will. The animal can, for example, break off an attack, track down an enemy, run to where you want it to and deliver a message, allow you to ride on it, or even attack your opponents. You cannot control an animal with a Strength higher than twice the Power Level. The Power Level must be one step higher if the animal is agitated, scared or in combat. If you force an animal to act in a way that is out side its normal behavior - like make it perform tricks, for example - the Power Level needs to be one step higher. You can only control one animal at a time. This spell cannot be used against monsters.
+
+**SAFE CASTING:** The spell affects only a calm or unthreatened animal and cannot order it to attack, enter obvious danger, or abandon its young.
 
 #### DEER'S DASH
 
@@ -995,6 +1053,8 @@ You, or one ally per Power Level, automatically succeed any swim actions for 1 Q
 
 You can use this spell as a reaction when someone falls. You, or one ally per Power Level, clothes extends and forms into wings when falling and while you do not have the Strength to fly, all fall damage will be negated. It can be used as a Reaction and/or as a Power Word for one extra Power Level respectively.
 
+**CHANCE CASTING:** You may bring one falling creature or LIGHT carried object within ARM'S LENGTH down safely with you.
+
 #### ANIMAL FORM
 
 ✦ **RANK** 3
@@ -1003,6 +1063,8 @@ You can use this spell as a reaction when someone falls. You, or one ally per Po
 ✦ **INGREDIENT**: Claw or tooth
 
 You can shapeshift completely, and take the form of an animal. Choose an animal from the animal table. You cannot choose an animal with a Strength higher than twice the Power Level. You get the Strength and Agility of the animal while you are in animal form. The downside is that you lose your ability to speak and a part of your mental capacity, with the consequence that your Wits and Empathy drop to 1 each while in animal form. You also get access to the animal’s natural attacks. Shifting back to your normal form requires that you cast the spell again.
+
+**SAFE CASTING:** You may assume only the form of an animal you have personally observed for at least a Quarter Day.
 
 #### BAT'S CLAWS
 
@@ -1039,6 +1101,8 @@ You can awaken primal emotions in the minds of others. The Power Level must be e
 ✦ **INGREDIENT**: Wolf's claw
 
 When you cast this spell, you can follow the sent any target has left for one day per Power Level. In order to track a target, you must be able to have smelled it, or something that belongs to it, or tracks it has made.
+
+**CHANCE CASTING:** You can distinguish one particular individual's trail from other members of the same kin or species without an additional roll.
 
 #### ANIMAL ANIMOSITY
 
@@ -1205,6 +1269,8 @@ You summon a bright light that dispels all shadows within NEAR range, i.e., in t
 
 You can use this spell to allow yourself or someone in range to get a perfect recall of its memories from the past day for 15 minutes. The ability to recall into the past is increased with additional Power Levels from a day, to a week, to a month, to a year, and finally to more. Any bring up or discussed memories are retained when the spell ends, up to the characters' normal capability of remembering things, but any details not openly discussed will no longer be accessible.
 
+**CHANCE CASTING:** The target can recover one sensory fragment from a memory erased, magically altered, or normally inaccessible through trauma. The spell also reveals that the memory was interfered with, but does not undo the alteration.
+
 #### TRUE SIGHT
 
 ✦ **RANK** 1
@@ -1213,6 +1279,8 @@ You can use this spell to allow yourself or someone in range to get a perfect re
 ✦ **INGREDIENT** Magnifying glass
 
 You can enhance your vision to be unnaturally sharp and see details at Distant range as if you stood right next to the object in question. True Sight also lets you see in darkness, through smoke and fog, and automatically see through any kind of disguise or shapeshift. You must have a clear line of sight to whatever you want to look at.
+
+**CHANCE CASTING:** Choose one creature or object examined during the spell. You learn whether magic currently disguises, transforms, or controls it and, if so, the discipline and Power Level of that effect.
 
 #### TRUE STRIKE
 
@@ -1232,6 +1300,8 @@ You can use this spell to foresee your next attack. Add 3 dice per Power Level t
 
 You can enhance your hearing magically and hear specific sounds up to _distant_ range as clearly as if you stood right where they emanate from. You must see the place to which you direct your hearing.
 
+**CHANCE CASTING:** You may isolate one known voice or recurring sound from surrounding noise even when several sounds overlap.
+
 #### SPEAK TO THE WIND
 
 ✦ **RANK** 2
@@ -1244,6 +1314,8 @@ You picture one person whom you have observed long enough to remember as a livin
 Speak a message of no more than two long sentences, using no more than two breaths. The wind carries the words in your voice and delivers them to the imagined person's ears. The recipient hears the message if they are conscious, able to hear, and in the same world as you. No one else hears the carried voice. The spell does not tell you where the recipient is, whether the message arrived, or what they did after hearing it.
 
 The recipient cannot answer through this spell. To answer at a distance, they must cast SPEAK TO THE WIND themselves and must separately meet its familiarity requirement for you.
+
+**SAFE CASTING:** The recipient must be somewhere within your current map hex.
 
 #### COMPEL TRUTH
 
@@ -1262,6 +1334,8 @@ You can use this ritual to make a subject unable to speak a lie for a turn (15 m
 ✦ **INGREDIENT**: Map
 
 You can let your inner eye wander across vast distances, over oceans and land, mountains, and valleys, and see what is happening there right now. _FARSIGHT_ does not help you find a place - you must know where it is located to be able to see it. Power Level 1 lets you view a place at _LONG_ range. Power Level 2 reaches across the same map key where you are. Further away requires Power Level 3. Viewing a location that you haven't been to before increases the required Power Level by 2. Your visions are often fragmented and cryptic - the GM decides exactly what you can see.
+
+**SAFE CASTING:** You may view only a place you have personally visited; Power Levels cannot overcome lack of first-hand familiarity.
 
 #### PORTENT
 
@@ -1330,6 +1404,8 @@ You can read the surface thoughts of another person for a few minutes. Digging d
 
 You can also use this spell to send your own thoughts to another person. In that case, the range of the spell is _LONG_ if you know the target well. By sending thoughts of pain and suffering, you can inflict damage to Wits or Empathy equal to the Power Level. No effect on monsters.
 
+**CHANCE CASTING:** Ask one direct yes-or-no question while reading a mind. You hear the target's first instinctive answer before they can deliberately suppress or reframe it.
+
 #### TONGUES
 
 ✦ **RANK** 3
@@ -1386,6 +1462,8 @@ Lasts 1 turn per Power Level, or until you have rerolled an amount of throws equ
 
 You can get the current hex of anyone object or person as long as they are within 3 hexes from your current location. Each extra Power Level doubles this range. If you are in the same hex as the thing you are trying to locate, extra Power Levels can instead reveal the direction to it, and/or give you a feeling of the actual distance to it.
 
+**CHANCE CASTING:** You also learn the direction in which the target most recently moved. If the target is stationary, you sense that instead.
+
 #### TIME SENDING
 
 ✦ **RANK** 5
@@ -1421,6 +1499,8 @@ You press a fragment of the beast against your skin and your own senses go dark.
 ✦ **INGREDIENT**: Animal bone
 
 You read the threads of intent that run ahead of action. For the duration, choose one enemy you can see each round. The GM must tell you that enemy's intended action — attack, movement, spell, or retreat — before you declare your own. This does not prevent the enemy from acting; it only ensures you are never surprised by what they choose. Each additional Power Level beyond the first lets you read one additional enemy per round.
+
+**CHANCE CASTING:** You also learn the target, route, or destination the enemy currently means to use.
 
 #### AWARENESS MISHAPS
 
@@ -1499,6 +1579,8 @@ You can use this ritual to attribute to something, but you can only be attuned t
 
 The symbol lures the victim, who must make an _INSIGHT_ roll with a negative modification equal to the Power Level. If the roll fails, the victim must _RUN_ to within _ARM'S LENGTH_ of the symbol, spending all their normal actions to do so (bonus actions from talents can still be used normally). When the victim reaches the symbol, or if the symbol is moved, the effect is broken. No effect on monsters.
 
+**CHANCE CASTING:** Before moving toward the symbol, the victim drops one LIGHT or TINY object held in a hand of the caster's choice.
+
 #### HORRIFY
 
 ✦ **RANK** 1
@@ -1506,6 +1588,8 @@ The symbol lures the victim, who must make an _INSIGHT_ roll with a negative mod
 ✦ **DURATION**: Immediate
 
 The symbol awakens a deep fear in the victim, who suffers damage to Wits equal to the Power Level. No effect on monsters.
+
+**CHANCE CASTING:** A victim suffering Wits damage cannot willingly move closer to the symbol until the end of its next turn.
 
 #### INSCRIBE
 
@@ -1515,6 +1599,8 @@ The symbol awakens a deep fear in the victim, who suffers damage to Wits equal t
 
 You use this spell to be able to write symbols or text onto any surface you touch straight from your mind. 5 pages or magical symbols can be inscribed per turn (15 minutes). If used on skin, it becomes a tattoo. Each limb can count as two grimoire pages or hold up to 10 symbols, but you cannot actively use them if or while they are covered by cloth or armor. Added Power Levels can be used to add colors, be able to erase symbols or text or double the duration.
 
+**CHANCE CASTING:** One page or symbol may remain invisible except to one named observer until the next dawn.
+
 #### PARALYZE
 
 ✦ **RANK** 1
@@ -1522,6 +1608,8 @@ You use this spell to be able to write symbols or text onto any surface you touc
 ✦ **DURATION**: Immediate
 
 The hypnotizing power of the symbol mesmerizes your opponent. At Power Level 1, the victim loses their fast action in the round, or in the next round if they have already used it. At Power Level 2, they lose their slow action. At Power Level 3, they lose both actions, and at Power Level 4, they also lose any bonus actions from talents. The spell has no effect on monsters.
+
+**CHANCE CASTING:** An affected victim also cannot take reactive actions until its next turn in the initiative order.
 
 #### BLIND
 
@@ -1546,6 +1634,8 @@ You can make your magic look like something else, even to _sense magic_. This re
 ✧ **DURATION**: One turn (15 minutes)
 
 You make the victim see or hear something that isn't there, or hide something that otherwise would be seen. A small item requires a Power Level of 1, while an object of humanoid size requires Power Level 2, and an illusion the size of a house requires Power Level 3. Only one person is affected. The victim can see through the illusion with an _INSIGHT_ roll, but gets a penalty equal to the Power Level. This spell has no effect on monsters.
+
+**SAFE CASTING:** The illusion must be motionless and cannot produce speech, changing sounds, or a moving concealment.
 
 #### MIND TRICK
 
@@ -1572,6 +1662,8 @@ You drain the will to stay awake from your targets. Each Power Level causes 1 po
 This powerful ritual tears a hole in the veil between worlds and opens a path between them. This is a very risky undertaking, since you run the risk of running into all sorts of demons and other malevolent creatures on the other side - perhaps you can use them for your own purposes, but it is just as likely they will attempt to use you for their own. Or perhaps devour you. The spell **BIND DEMON** (see blood magic) is very useful here. The details are up to the GM.
 
 Another use for this spell is creating a new portal on the other side, which can lead you anywhere you want in the Forbidden Lands.
+
+**CHANCE CASTING:** Until the first creature passes through, the far side of the portal is invisible and makes no sound to observers there.
 
 #### POWER RUNE
 
@@ -1705,6 +1797,8 @@ If it is used on a magical spell that you saw in action during the past turn, or
 
 You inscribe a symbol across a threshold — a doorway, a path between two trees, the mouth of a cave. For the duration, whenever a creature crosses that boundary, you are alerted. The warning comes as a sharp pulse in the back of your skull, unmistakable and immediate, regardless of distance. It tells you something crossed, but not what. You can maintain one Warning per Power Level.
 
+**CHANCE CASTING:** When triggered, the symbol conveys the direction of the danger and whether it is one creature, a group, or an environmental event.
+
 #### ANIMATE OBJECT
 
 ✦ **RANK** 4
@@ -1713,6 +1807,8 @@ You inscribe a symbol across a threshold — a doorway, a path between two trees
 ✦ **INGREDIENT**: A piece of the object's material
 
 You breathe a symbol of motion into a lifeless thing and it obeys. The object rises, moves, and follows your verbal commands for the duration. Its Strength and Agility depend on its size and weight, at the GM's discretion — a chair might have Strength 2 and Agility 3, a stone statue Strength 6 and Agility 1. The object has no mind, no judgment, and no initiative. It does exactly what you say, nothing more. If destroyed, it collapses into its original components.
+
+**SAFE CASTING:** The object can perform only one simple repeated action chosen when cast and cannot interpret new instructions.
 
 #### SYMBOLISM MISHAPS
 
@@ -1781,6 +1877,8 @@ Stone singing originated among the dwarves, and helps them shape the bedrock of 
 
 The spell blows a thick cloud of rock dust from the ground to cover the Zone you are in. The dust blocks sight through the Zone and lets you flee combat without rolling for move. This spell can only be used in the mountain terrain type or inside a cave.
 
+**CHANCE CASTING:** While inside the dust, you can hear the direction of moving creatures within NEAR range even though you cannot see them.
+
 #### REINFORCE
 
 ✦ **RANK** 1
@@ -1789,6 +1887,8 @@ The spell blows a thick cloud of rock dust from the ground to cover the Zone you
 ✦ **INGREDIENT**: Chunk of iron
 
 You reinforce a wall or door with the toughness of the earth. A door cannot longer be opened or picked during the duration, and the targeted object doubles its armor rating. The effect lasts for a turn at Power Level 1. At Power Level 2 it lasts for a Quarter Day and at Power Level 3 it lasts for a week.
+
+**CHANCE CASTING:** If the reinforced barrier would be destroyed, breached, or forced open, it remains standing and impassable until the end of the next round, then collapses. This delay occurs only once.
 
 #### STONE FIST
 
@@ -1817,6 +1917,8 @@ Your mighty voice is so strong that people around you are stunned. Your song cau
 
 You can speak to the mountain and listen to its words. The mountain can answer simple questions about what has happened at the location before (events over the last day require Power Level 1, events one year back in time require Power Level 2 and events even further back in time require Power Level 3) or what is happening in the area right now (SHORT range requires Power Level 1, LONG range Power Level 2, anything within the map hex Power Level 3). Unfortunately, the mountain speaks very slowly and therefore this spell works like a ritual. This spell can only be used in the MOUNTAIN terrain type or inside a CAVE.
 
+**SAFE CASTING:** The mountain can answer only about the present and events within the last day, regardless of Power Level.
+
 #### OPEN
 
 ✦ **RANK** 2
@@ -1825,6 +1927,8 @@ You can speak to the mountain and listen to its words. The mountain can answer s
 ✦ **INGREDIENT**: Key
 
 A normal sized door you touch opens as if you had succeeded a _might_ roll to push it open or a _sleight of hand_ roll to pick its lock. Either way, the action is very noisy and not very delicate, triggering any traps. If a door cannot be picked or would apply a penalty to a _might_ roll, you must add one Power Level for each negative modifier. Each added Power Level can also counter one level of the _reinforce_ spell.
+
+**CHANCE CASTING:** The opening is quiet. Any trap the spell would trigger is delayed until the end of the next round, giving those present time to withdraw, block it, or attempt to disarm it.
 
 #### PASS CRACK
 
@@ -1844,6 +1948,8 @@ You can bend your body passing into small spaces just as if you were half of you
 
 Your song can move rocks so fast that you can hurl stones and rocks at an enemy in combat. The damage (to Strength) from your attack is equal to the Power Level. Armor works normally. This spell can only be used where there are loose stones for you to throw.
 
+**CHANCE CASTING:** Loose stone remains churned at the target's position, making that immediate area ROUGH until the end of the next round.
+
 #### STONSMITH
 
 ✦ **RANK** 2, **RITUAL**
@@ -1852,6 +1958,8 @@ Your song can move rocks so fast that you can hurl stones and rocks at an enemy 
 ✦ **INGREDIENT**: Lyre
 
 Your song can shape stone according to your will. This spell lets you create a wall, build a bridge, or raise a staircase from the ground. You can only create crude constructions. Power Level 1 will summon a construction in the same Zone as you. Every Power Level beyond that allows you to create something that stretches into one more neighboring Zone. For example, Power Level 4 lets you summon a construction reaching across four Zones.
+
+**SAFE CASTING:** The construction must be crude, stationary, and load-bearing; it cannot contain moving parts, traps, or fine sealed mechanisms.
 
 #### WITHER
 
@@ -1870,6 +1978,8 @@ Your song can wither stone, allowing you to break down walls and fortifications 
 ✦ **INGREDIENT**: Drum
 
 Your song is charged with so much power that you make the very ground shake and tear. You can use the spell to tear down a wall or fortifications or inflict damage on a victim. The damage caused (to Strength) is equal to the Power Level.
+
+**CHANCE CASTING:** If the spell tears down a wall or fortification, you choose the direction in which the rubble falls. The breach is left passable instead of becoming ROUGH.
 
 #### IRON SONG
 
@@ -1927,6 +2037,8 @@ This spell can only be used in the terrain type _MOUNTAIN_ or in a _CAVE_.
 ✦ **INGREDIENT**: Lyre
 
 A weapon you touch becomes animated and floats in the air. While animated you can spend _fast_ actions to make it take any _slow_ or _fast_ action, it can also take the _charge_ action even if you do not have that talent. It uses your attributes just as if you were holding it, but gains a Strength score equal to twice the Power Level for mitigating damage. If its Strength breaks, the weapon does not break, simply your hold over it. It does its item dice as its armor rating. If the weapon breaks from having no item dice, it drops to the ground and you must spend a _fast_ action to reanimate it. If an enemy pick it up while it lies on the ground, the only _fast_ action you can have it take is the _break free_ action.
+
+**CHANCE CASTING:** Once during the duration, the weapon may take one fast action without costing you an action, following your most recent command.
 
 #### CALL METEOR
 
@@ -2085,6 +2197,8 @@ You bind a subject to do something for you. The target must accept it though, or
 
 The spell ends if the task is completed, the duration runs out, or if the contract is destroyed. If no contract was written, it instead ends if the one who cast the spell dies.
 
+**CHANCE CASTING:** When the subject first knowingly acts against the oath, you sense that the oath was breached and the direction to the subject, but not the distance.
+
 #### BLOOD TAP
 
 ✦ **RANK** 1, **POWER WORD**
@@ -2094,6 +2208,8 @@ The spell ends if the task is completed, the duration runs out, or if the contra
 
 You can drain your own blood to power your magic. Suffer Strength damage equal to the Power Level. Add these Power Levels to the next spell you cast within one round. If you do not cast a spell within a round, the extra Power Levels are lost.
 
+**CHANCE CASTING:** If no spell uses the granted Power Levels during the normal one-round window, retain 1 of them for one turn (15 minutes). The remaining granted Power Levels are lost normally.
+
 #### FIREWALKER
 
 ✦ **RANK** 1
@@ -2102,6 +2218,8 @@ You can drain your own blood to power your magic. Suffer Strength damage equal t
 ✦ **INGREDIENT**: Drop of blood
 
 You can make yourself completely immune to heat and cold. You take no damage from fire.
+
+**SAFE CASTING:** Choose heat or cold when cast. The spell grants immunity only to the chosen extreme.
 
 #### HEROISM
 
@@ -2121,6 +2239,8 @@ You can manipulate the hormone levels that affects fear in the targets blood. Th
 
 Using this spell, you stir your victim's blood and bring out strong emotions such as lust, fear or rage. The victim must give in to these emotions in some way - exactly how depends on the individual and the situation. The GM determines the details. The spell has no effect in combat and cannot be used against monsters.
 
+**CHANCE CASTING:** Choose whether the spell brings out lust, fear, or rage instead of leaving the dominant emotion to the GM. The GM still determines how the victim expresses it.
+
 #### BIND DEMON
 
 ✦ **RANK** 2
@@ -2129,6 +2249,8 @@ Using this spell, you stir your victim's blood and bring out strong emotions suc
 ✦ **INGREDIENT**: Pentagram
 
 This spell allows you to bend demonic creatures from other worlds to your will. The demon can resist the spell with a successful INSIGHT roll with a negative modification equal to the Power Level. Keep in mind that demons rarely react well to magicians' attempts to BIND them, so be ready for any consequences.
+
+**CHANCE CASTING:** A demon that successfully resists still cannot cross the pentagram or approach within ARM'S LENGTH of it for one turn (15 minutes). Attacking the demon from inside this boundary ends the protection.
 
 #### BLOOD BOND
 
@@ -2139,6 +2261,8 @@ This spell allows you to bend demonic creatures from other worlds to your will. 
 
 You can transfer blood, and the inherent energy of it, to or from another being of the same kin as yourself. You can transfer a number of attribute points (of any attribute) equal to the Power Level to or from the target. The starting attribute rating cannot be surpassed. Attribute points lost in this way can be recovered normally. An unwilling victim can make an IN-SIGHT roll, with a negative modification equal to the Power Level, to resist the spell. The spell can be used to get a Broken person up on their feet, but it has no effect on critical injuries.
 
+**CHANCE CASTING:** Before choosing the transfer, you learn whether either participant carries a blood-borne poison, disease, or supernatural contamination.
+
 #### DARKVISION
 
 ✦ **RANK** 2
@@ -2147,6 +2271,8 @@ You can transfer blood, and the inherent energy of it, to or from another being 
 ✦ **INGREDIENT**: Blood
 
 You gain the ability to see unhindered in darkness for one turn per Power Level.
+
+**SAFE CASTING:** The sight works only in natural darkness and cannot penetrate magical darkness, supernatural fog, or deliberate magical concealment.
 
 #### HAND OF BLOOD
 
@@ -2165,6 +2291,8 @@ You smear blood over your hand, and can form that form a hand print of blood flo
 ✦ **INGREDIENT**: Torch or open fire
 
 You can heat up your victim's blood to the point where they literally burst into flames. The spell inflicts damage to Strength equal to the Power Level and keeps inflicting one point of damage per round until the victim puts the fire out with a successful MOVE roll (slow action). Armor does not protect against this spell.
+
+**CHANCE CASTING:** A burning target sheds bright light and cannot benefit from darkness or visual concealment until the flames are extinguished.
 
 #### BIND SOUL
 
@@ -2398,6 +2526,8 @@ You can let death and decay seep into food. You can _befoul_ a unit of food per 
 
 You let the unrelenting cold of death seep into your victim. The victim becomes _cold_, immediately suffering 1 point of damage to both Strength and Wits as a result. The victim continues to suffer 1 point of damage to these attributes each round, until the total amount of damage (to each attribute) equals the Power Level. The spell has no effect on monsters.
 
+**CHANCE CASTING:** One TINY or LIGHT exposed object carried by the victim freezes to its hand, clothing, or nearby surface until freed with a fast action.
+
 #### CONTAMINATE
 
 ✦ **RANK** 1
@@ -2417,6 +2547,8 @@ You can create horrid contagions with which to torment your enemies. Your victim
 You or up to one willing target per Power Level falls limp to the ground. Their heartbeat becomes so faint so it is undetectable and they become temporarily cold to the touch. They can only slightly hear what is going on around them, and can wake up at will over D6 rounds or when the duration ends.
 
 The spell also pauses any effects of poison and critical effects on any subject it affects.
+
+**SAFE CASTING:** The spell can affect only the caster.
 
 #### GHOULISH GLARE
 
@@ -2454,6 +2586,8 @@ A Broken creature within arm's length is immediately killed as if you performed 
 
 You can claw your way to your victim's heart magically and squeeze the life from him. This spell inflicts 🩸 to Strength equal to the Power Level. You can extend the range to SHORT if you spend an extra WP (this does not count towards the Power Level). This spell can only be used against living humanoids.
 
+**CHANCE CASTING:** A target suffering damage cannot speak or shout until the end of its next turn.
+
 #### RAISE THE DEAD
 
 ✦ **RANK** 2, **RITUAL**
@@ -2488,6 +2622,8 @@ You can speak with the dead. You must be within NEAR range of where the victim d
 
 If the victim's remains are reasonably intact you can speak directly with the corpse, otherwise you hear the dead as a disembodied ghost voice in your head. This spell cannot be used against undead.
 
+**CHANCE CASTING:** Before answering questions, the dead involuntarily yields one sensory fragment from the final minute of its life.
+
 #### CURSE OF UNDEATH
 
 ✦ **RANK** 3
@@ -2505,6 +2641,8 @@ You curse a creature to haunt the lands as a restless dead a few weeks after its
 ✦ **INGREDIENT**: A black piece of cloth
 
 All light sources within Long range stop to radiate light. However, nothing hinders light from outside the targeted area to shine in, and light can be reflected within the area, just not created. And while a fire may stop to radiate heat, it will still transfer heat by conduction and convection, probably at a slightly increased rate to compensate. If no light can enter the area, everyone inside is practically blind.
+
+**SAFE CASTING:** Range becomes NEAR, and the spell suppresses only nonmagical light sources.
 
 #### STEAL LIFE
 
@@ -2524,6 +2662,8 @@ You can suck the life from living plants and animals around you. You gain a numb
 
 You can instill a horrible, unbearable fear in your victim, whose mind is flooded by images of their own aging and death. The victim suffers damage to both Wits and Empathy equal to the Power Level. This spell only works on living humanoids.
 
+**CHANCE CASTING:** A victim Broken by the spell must flee from you by the safest available route for one turn (15 minutes) or until prevented from fleeing. The compulsion ends early if you or an ally attacks that victim again.
+
 #### WEIGHT OF AGES
 
 ✦ **RANK** 3
@@ -2532,6 +2672,8 @@ You can instill a horrible, unbearable fear in your victim, whose mind is floode
 ✦ **INGREDIENT**: Scalp with white hair
 
 You can speed up the aging process of a living being. The victim immediately ages 10 years per Power Level. If the victim as a result of this changes their age category, they permanently lose one point in an attribute of their choice. If the victim ages past twice the maximum age for an Adult (for example, 100 years for a human), they wither and die. This spell has no effect on elves or monsters.
+
+**CHANCE CASTING:** If the aging makes the victim lose an attribute point, you choose the affected attribute instead of the victim.
 
 #### CLOUD OF DEATH
 
@@ -2690,6 +2832,8 @@ Multi-element spells use the bonus from whichever element the caster chose for t
 
 Manipulating the element of fire, you make any non-living object suddenly burst into flame. If used against a held item, the target must drop the item or suffer one point of damage. If used against clothes or armor, the victim suffers an attack rolled with a number of Base Dice equal to twice the Power Level (Weapon Damage 1, non-typical). The victim catches fire and suffers another point of damage at the start of every round until a MOVE roll (slow action) is made to extinguish the flames. Armor has no effect.
 
+**CHANCE CASTING:** Choose the direction of the first smoke plume; until the next round it obscures one border adjacent to the burning object.
+
 #### FLAMING BLADE
 
 ✦ **RANK** 1
@@ -2707,6 +2851,8 @@ You enchant a melee weapon to deal 1 extra point of fire damage per attack. The 
 ✦ **INGREDIENT**: The object to be sundered
 
 Breaking the invisible bonds holding physical matter together, you split apart any object. Using this spell, you can break any non-living and non-magical object. For each Power Level, the item loses one point of Gear Bonus or suffers ten points of damage. Armor has no effect.
+
+**CHANCE CASTING:** If the object is part of a larger barrier, mechanism, or structure, the damage also exposes a breach, access point, or disabled joint. The next MIGHT or CRAFTING roll made to pass through or sabotage the structure gains two Base Dice.
 
 #### SUFFOCATE
 
@@ -2726,6 +2872,8 @@ Commanding the element of wind, you suffocate a victim by literally pulling the 
 
 You grant yourself or a creature you touch the ability to breathe water as if it was air, eliminating the danger of drowning. Each Power Level increases the number of creatures you can affect by one or increases the duration by one turn. These extra effects can be combined.
 
+**SAFE CASTING:** The spell affects only the caster and cannot add targets.
+
 #### FLIGHT
 
 ✦ **RANK** 2
@@ -2734,6 +2882,8 @@ You grant yourself or a creature you touch the ability to breathe water as if it
 ✦ **INGREDIENT**: Wind
 
 Controlling the air around you, you create a small whirlwind that propels you into the air. Using the spell, you can fly instead of RUN for one round, with a Movement Rate of 2. The casting of the spell does not count as an action in itself. For each additional Power Level, you can fly for an additional round or bring another person with you.
+
+**SAFE CASTING:** The spell affects only the caster, Movement Rate is 1, and the caster must land at the end of the round.
 
 #### HEAT OF THE MOMENT
 
@@ -2771,6 +2921,8 @@ Manipulating the element of earth, you hurl stones and rocks at an enemy in comb
 
 You strike an area of 9x9 meters with a blast of air. Those within the area are hit by a short-range shove attack with a base pool of dice equal to 5 + the Power Level. If the targets stand their ground, they take 1 damage to Agility.
 
+**CHANCE CASTING:** Each target moved by the blast drops one held TINY or LIGHT object of your choice. The objects land one zone downwind from their bearers.
+
 #### ELEMENTAL SHIELD
 
 ✦ **RANK** 3
@@ -2794,6 +2946,8 @@ The chosen element forms and swirls around you.
 
 You hurl a ball of fire which explodes upon hitting the target, incinerating a large area. The main target of your attack suffers damage equal to the Power Level. Also, roll for an attack against everyone within NEAR range of the main target (in the same zone) with a number of Base Dice equal to the Power Level. Anyone who suffers damage from the attack (including the main target), catches fire and suffers another point of damage at the start of every round until a MOVE roll (slow action) is made to extinguish the flames.
 
+**CHANCE CASTING:** Choose one creature or ARM'S-LENGTH patch within the secondary blast area that the flames curl around and do not attack.
+
 #### FLOOD WAVE
 
 ✦ **RANK** 3
@@ -2802,6 +2956,8 @@ You hurl a ball of fire which explodes upon hitting the target, incinerating a l
 ✦ **INGREDIENT**: Water
 
 Forcing any nearby source of water or snow to do your bidding, you unleash a flood wave or small avalanche against your victims. The targets suffer a total amount of damage equal to the Power Level - you can distribute the damage as you see fit. All victims who take damage are thrown to the ground, and, if you use snow, they also become COLD.
+
+**CHANCE CASTING:** The wave also extinguishes ordinary fires in its path. Choose one victim that takes damage. Before knocking the victim prone, the wave carries them one zone toward an edge or exit you choose.
 
 #### STONESKIN
 
@@ -2933,6 +3089,8 @@ You can fully control the chosen element within short range. This control follow
 
 You snap a syllable and the air answers. As a fast action, you deflect one incoming ranged attack against you or an ally within Arm's Length. The projectile veers wide and misses. Each additional Power Level deflects one additional ranged attack in the same round. This spell is reactive and breaks initiative order. It cannot deflect siege weapons or spells.
 
+**CHANCE CASTING:** Redirect the projectile against another creature within ARM'S LENGTH of its original target. Resolve the original attack roll against the new target, who may DODGE or PARRY normally.
+
 #### DENSE FOG
 
 ✦ **RANK** 2
@@ -2968,6 +3126,8 @@ You harness a gust of sustained wind behind yourself or an ally within range. Th
 ✦ **INGREDIENT**: Water
 
 You draw water from the ground, from the air, or from a nearby source and compress it into a single concentrated stream that strikes one target. The jet deals damage equal to the Power Level. Armor applies. The target must make a MIGHT roll or be knocked prone. Against wooden structures and barricades, the jet deals double damage.
+
+**CHANCE CASTING:** The struck position remains flooded or slick and counts as ROUGH until the end of the next round.
 
 #### ELEMENTAL MAGIC MISHAPS
 
@@ -3029,6 +3189,8 @@ Druids in the Bitter Reach often dedicate themselves to the discipline of Ice Af
 
 You create a batch of compact ice arrows or quarrels/bolts. These count as a resource die of arrows of the wooden headed type, except that the arrows only last indefinitely in sub-zero temperatures. They melt in a Quarter Day in Spring/Fall temperatures and within a turn (15 minutes) in Summer temperatures. Extra Power Levels can either create additional resource dice, or further harden the arrows, causing them to count as metal headed arrows.
 
+**CHANCE CASTING:** The first arrow that hits leaves a visible frost mark, granting +1 die to track that target until the next Quarter Day.
+
 #### WINTER GRIP
 
 ✦ **RANK** 1
@@ -3036,6 +3198,8 @@ You create a batch of compact ice arrows or quarrels/bolts. These count as a res
 ✦ **DURATION**: Quarter Day
 
 Your target can walk on ice and loose snow as if it was hard ground and suffers no added penalty from climbing on sheer ice as long as the material can hold their weight. Each Power Level can add one target or double the duration.
+
+**CHANCE CASTING:** Affected targets leave no tracks on snow or ice for the full duration unless they choose to.
 
 #### CONDENSE WATER
 
@@ -3045,6 +3209,8 @@ Your target can walk on ice and loose snow as if it was hard ground and suffers 
 
 By manipulating the temperature, you are able to condense water vapor in the air, and make it fill nearby containers, restoring 1 resource die of water per Power Level. The spell requires double the Power Level if you are in a desert area, where you normally cannot forage for water.
 
+**CHANCE CASTING:** Ignore the doubled Power Level requirement in desert terrain. The condensed water is cool and potable even when drawn from foul air, smoke, or salt spray.
+
 #### ZONE OF COLD
 
 ✦ **RANK** 2
@@ -3052,6 +3218,8 @@ By manipulating the temperature, you are able to condense water vapor in the air
 ✦ **DURATION**: Quarter Day
 
 The temperature within the range drops one step per Power Level. From Summer temperature, to Spring/Fall, to Winter and even colder. If you enter Winter temperatures, the sudden temperature drop will form frost on all surfaces as long as the air is not especially dry. If you further reduce the temperature all non-running water in the area will freeze over a turn (15 minutes).
+
+**SAFE CASTING:** The temperature change affects only one NEAR-sized zone within range.
 
 #### ARMOR OF ICE
 
@@ -3092,6 +3260,8 @@ Target must succeed a MIGHT roll with a penalty equal to the spell level, or the
 ✦ **DURATION**: One turn per Power Level
 
 You can shape snow and ice with your hands. While quite handy for quickly making ice sculptures, this allows you to create a tunnel through ice at your walking speed. The ability to mold snow and ice lasts 1 turn (15 minutes) per Power Level.
+
+**SAFE CASTING:** The ice can form only simple stationary shapes without moving parts, sealed locks, or fine mechanisms.
 
 #### WALL OF ICE
 
@@ -3170,6 +3340,8 @@ You freeze a path across water, mud, swamp, or any unstable terrain. The path is
 
 You reach into something already gripped by cold and break it apart. The target must be affected by a cold or ice condition — frozen, encased, or standing on natural ice or in a Zone of Cold. The spell deals damage equal to twice the Power Level. Armor applies. Against ice-encased objects and structures, Shatter ignores Armor Rating entirely. This spell has no effect on targets that are not already cold-afflicted.
 
+**CHANCE CASTING:** A creature damaged by the spell remains supernaturally brittle until the end of the next round. The first physical attack that damages it during that time ignores its Armor Rating.
+
 #### ICE AFFINITY MISHAPS
 
 | D66   | EFFECT                                                                                                                                                                                   |
@@ -3231,6 +3403,8 @@ Nature magic is the old faith of the green world, whispered by roots and answere
 
 You stimulate and quicken plant growth in a small area. This can yield Power Level units of vegetables, as long as the land can produce edible plants, or speed up the natural progress of vegetation growth in the area by 1 year per Power Level.
 
+**CHANCE CASTING:** The new growth visibly reveals poisoned soil, plant disease, or a place where vegetation has been unnaturally suppressed.
+
 #### TRACELESSNESS
 
 ✦ **RANK** 1
@@ -3239,6 +3413,8 @@ You stimulate and quicken plant growth in a small area. This can yield Power Lev
 ✦ **INGREDIENT**: A handful of dry leaves
 
 Wherever you go, the land around you absorbs your tracks and masks your scent. It also reduces sounds from sneaking and therefore grants a +2 modifier to _stealth_ rolls, as long as you are outdoors. Affects one ally per Power Level.
+
+**CHANCE CASTING:** For one turn, leave a single false trail departing in a direction chosen at casting before the land erases the true trail.
 
 #### BLOCKING BRANCH
 
@@ -3273,6 +3449,8 @@ One way of reducing this is to give the electricity something more conductive to
 
 A fog drapes the outdoor areas around you. It is not very thick at first, but after a turn (15 minutes), it heavily obscures vision and then lasts for 1 turn per Power Level. Ranged attacks into a zone with fog are modified by -2 and can't pass through the zone, at least not with any real chance of hitting anything.
 
+**CHANCE CASTING:** Choose one creature per Power Level when casting. Those creatures can see within the fog without its ranged-attack or visibility penalties for the spell's full duration.
+
 #### GLADE
 
 ✦ **RANK** 2
@@ -3290,6 +3468,8 @@ As long as you are in a hex mostly filled with green vegetation, you can roll fo
 ✦ **INGREDIENT**: A unit of herbs
 
 As long as you travel by foot, you and a party of up to 10 people, as long as they stay within short range of you, can travel one extra hex per Quarter Day, for one Quarter Day per Power Level.
+
+**SAFE CASTING:** Only the caster gains the increased travel rate; companions must travel normally.
 
 #### BARK SKIN
 
@@ -3327,6 +3507,8 @@ By holding pieces of a wooden object together, you can mend it restoring 1 item 
 
 You can send a message to a person within the same forest by whispering it to a tree. The recipient will hear the message from a tree close to them and can for the duration send messages back. Each Power Level can add a recipient.
 
+**CHANCE CASTING:** When the first message is sent, the trees also convey the direction of the nearest fire, mass felling, or immediate threat to the forest.
+
 #### CHAIN LIGHTNING
 
 ✦ **RANK** 4
@@ -3344,6 +3526,8 @@ You can send forth a stream of lightning from your hands, striking a person in s
 ✦ **INGREDIENT**: Wooden staff
 
 You may use an overturned tree as a way of transport from one hex in a forest to another hex in the same forest. The door accepts up to one person to walk through per Power Level.
+
+**CHANCE CASTING:** The door remains ajar until the end of the next round, allowing one additional creature to follow without counting against Power Level.
 
 #### NATURE'S POWER
 
@@ -3506,6 +3690,8 @@ Create one swarm of fireflies per Power Level. They can once per round, during y
 
 Any one swarm of fireflies can at any time, during your round, be dismissed to create a blanket of insects.
 
+**CHANCE CASTING:** One swarm can settle on a visible target, outlining it and denying visual concealment for one turn (15 minutes) or until the target spends a slow action scattering the swarm.
+
 #### HARASS
 
 ✦ **RANK** 1
@@ -3520,6 +3706,8 @@ Non-living targets are immune, it only affects monsters for one round per Power 
 
 This spell can at any-time, during your round, be dismissed to create a blanket of insects.
 
+**CHANCE CASTING:** The insects leave a distinctive scent on the target for one Quarter Day, even if the spell ends early. Attempts to track the target by scent gain two Base Dice.
+
 #### HIVEMIND
 
 ✦ **RANK** 1
@@ -3531,6 +3719,8 @@ During the duration, if there is any blanket of insects available, it will grant
 The spell lasts a Quarter Day per Power Level, and during this time you also gain a bonus to scouting equaling the Power Level, as long as there are insects near whatever you could notice with the roll.
 
 This spell creates a blanket of insects upon casting it.
+
+**CHANCE CASTING:** Once during the duration, learn the direction of the largest nearby concentration of living creatures detected by the insects.
 
 #### INFEST
 
@@ -3550,6 +3740,8 @@ You open your mouth and vomit forth a stream of insects. This counts as a fear a
 
 This spell creates a blanket of insects upon casting it.
 
+**CHANCE CASTING:** A target suffering Wits damage cannot speak clearly until the end of its next turn.
+
 #### WORM FOOD
 
 ✦ **RANK** 1
@@ -3565,6 +3757,8 @@ Your swarm turns into edible pupae, mealworms, etc. The spell creates one unit o
 ✦ **DURATION**: Quarter Day
 
 Insects form a protective barrier around you. Ignore the next Power Levels of Strength damage you would receive. It will not protect against damage from pushing rolls.
+
+**CHANCE CASTING:** You may shed the carapace to ignore one successful SHOVE or forced-movement effect; doing so ends the spell.
 
 #### ELYTRA
 
@@ -3589,6 +3783,8 @@ You and up to one party member per added Power Level will not be attacked by ins
 This spell can have limited effects on humanoids too, it grants a +1 bonus to Manipulation per Power Level for the duration, but a pro tip is to, at the same time, just maybe avoid having insects crawling all around.
 
 This spell does NOT create any blanket of insects.
+
+**SAFE CASTING:** The spell affects insects only and grants no bonus to MANIPULATION against humanoids.
 
 #### STINK BUG SERENADE
 
@@ -3664,6 +3860,8 @@ You can give some initial directions, like try to explore to the east, but it is
 
 This spell creates a blanket of insects when it ends.
 
+**SAFE CASTING:** The insects explore only one location per Power Level and cannot continue past a dead end to find replacements.
+
 #### CONSUME
 
 ✦ **RANK** 4
@@ -3707,6 +3905,8 @@ This spell can be dodged. If so, the target rolls to dodge with a negative modif
 The webs can also be made to target an area, and then the victim becomes the first one that passes through. If so, they get to roll _scouting_ to notice it before they get stuck, but do not get any dodge roll. They succeed automatically if they saw you when you cast the spell. Monsters are immune to 1 Power Level per 10 points of Strength, and the only effect the web can then have is to reduce the monster's movement rate to 0, during its upcoming initiative.
 
 This spell does NOT create any blanket of insects.
+
+**CHANCE CASTING:** Until the web is destroyed, you sense the direction and rough size of any creature touching or struggling against it.
 
 #### EVOLVE
 
@@ -3833,6 +4033,8 @@ As long as the ground where you stand can support plant life, it will after the 
 
 For the duration of the spell, you become immune to all forms of fire, including dragon fire and lava. For each Power Level another person in your vicinity can become fire's friend too. However, the spell does not protect equipment or clothes.
 
+**SAFE CASTING:** The spell protects only the caster and cannot add further targets.
+
 #### HEARTH
 
 ✦ **RANK** 1
@@ -3844,6 +4046,8 @@ As long as you are on solid ground not made out of sandstone, limestone or marbl
 
 Lasts for 1 Quarter Day per Power Level.
 
+**CHANCE CASTING:** Wet clothing, bedrolls, and ordinary fuel within NEAR range become dry enough for immediate use.
+
 #### MOLD STONE
 
 ✦ **RANK** 1
@@ -3853,6 +4057,8 @@ Lasts for 1 Quarter Day per Power Level.
 
 You can make hot, liquid stone or metal shape itself and solidify in any rough-cut form you want. Up to one cubic meter of material can be shaped per Power Level. The molded mass remembers and retains the desired shape when it cools and becomes solid. More precise shapes require a CRAFTING roll and molding weapons requires the SMITH talent. You can use this spell to form ten balls of stone for the spell MAGMA CASCADE.
 
+**SAFE CASTING:** The material can form only rough, non-mechanical shapes and cannot produce weapons, fine tools, or sealed containers.
+
 #### FIRE MEMORY
 
 ✦ **RANK** 2
@@ -3861,6 +4067,8 @@ You can make hot, liquid stone or metal shape itself and solidify in any rough-c
 ✦ **INGREDIENT**: A fistful of sand thrown at the stone
 
 You can instantly melt stone into lava. Up to a cubic meter of stone can be melted per Power Level. FIRE MEMORY only affects stone that was once lava - not marble or other kinds of limestone.
+
+**CHANCE CASTING:** After stone melts, its exposed flow lines reveal one nearby crack, hollow, or structural weakness.
 
 #### MEND THE CRACKS
 
@@ -3883,6 +4091,8 @@ You heat up your own armor, as long as it is made out of iron or stone. Anyone t
 While you will be immune to the heat and fire caused by this spell. Most things you carry will not, so no backpacks, belts, pouches or satchels will over the duration likely burn up.
 
 Each Power Level doubles the duration.
+
+**CHANCE CASTING:** The first metal weapon that strikes the armor suffers 1 point of item damage after resolving the attack.
 
 #### STEAM FLIGHT
 
@@ -3982,6 +4192,8 @@ The target takes 1 point of damage from the heat per Power Level and each Power 
 
 Anyone within arm's length of the target suffers a 2-die attack per Power Level, each rolled ⚔️ both deals damage and counts as a shove as above.
 
+**CHANCE CASTING:** Steam obscures the target's zone until the end of the next round after the geyser resolves.
+
 #### MAGMA TUNNELING
 
 ✦ **RANK** 4
@@ -3992,6 +4204,8 @@ Anyone within arm's length of the target suffers a 2-die attack per Power Level,
 You can form and direct any flows of lava and magma. Making it tunnel through a bedrock at a rate of 1 meter per round, or 100 meters per turn, or 3500 meters per Quarter Day.
 
 At Power Level 1 it lasts for 1 round. At Power Level 2 it lasts a turn (15 minutes). At Power Level 3 it lasts a Quarter Day. And finally at Power Level 4 it lasts a whole day.
+
+**CHANCE CASTING:** The passage leaves one stable handhold, shelf, or air gap per zone crossed, chosen as the tunnel forms.
 
 #### MOLTEN SEAT
 
@@ -4147,6 +4361,8 @@ When you become Broken in Strength or Agility, you may on your upcoming initiati
 
 Any trace of you and one other person or creature per Power Level is completely altered for the duration of the spell. You do not become invisible, but your appearance, voice, body language, scent, and other personal traits change so that even a trained bloodhound immediately loses your trail. You cannot control how others perceive you - that is randomized or decided by the GM.
 
+**SAFE CASTING:** The spell alters only the caster and cannot include additional people or creatures.
+
 #### WORDPLAY
 
 ✦ **RANK** 1
@@ -4155,6 +4371,8 @@ Any trace of you and one other person or creature per Power Level is completely 
 
 You can make one person per Power Level reinterpret what is said by using an ambiguous or homonymous word - i.e. a word or phrase that sounds the same but means something else. Example: "So you will give me this animal?" when you are negotiating to buy a ewe, after which the farmer gives you the animal for free.
 
+**CHANCE CASTING:** The target immediately reveals, through a word or gesture, which interpretation it accepted.
+
 #### AMNESIA
 
 ✦ **RANK** 2
@@ -4162,6 +4380,8 @@ You can make one person per Power Level reinterpret what is said by using an amb
 ✦ **DURATION**: Permanent
 
 You can make one intelligent person per Power Level forget what happened during the previous turn. The victim must make an INSIGHT roll (not an action) with a negative modification equal to the Power Level to resist the spell. The roll cannot be pushed. An affected person is not changed in any other way, but must reassess the situation.
+
+**CHANCE CASTING:** Until someone presents clear contradictory evidence, the victim does not notice that time or memory is missing.
 
 #### CONFUSION
 
@@ -4180,6 +4400,8 @@ You can briefly reduce another person's Wits to zero, which renders them Broken 
 
 A target takes Power Level damage to Wits and Strength, reduced by a roll for INSIGHT. Monsters are immune to the Wits damage.
 
+**CHANCE CASTING:** A target suffering Wits damage cannot take reactive actions until its next turn in the initiative order.
+
 #### MIRROR IMAGES
 
 ✦ **RANK** 2, **POWER WORD**
@@ -4191,6 +4413,8 @@ Anyone looking at you sees a blur of multiple copies of you within arm's length 
 
 You gain one mirror image per Power Level.
 
+**CHANCE CASTING:** The first attacker to destroy an image must direct its next single-target attack against another remaining image, if one remains in its reach or range.
+
 #### TRUTH SENSE
 
 ✦ **RANK** 2
@@ -4199,6 +4423,8 @@ You gain one mirror image per Power Level.
 ✦ **INGREDIENT**: A nut
 
 The spell lets you tell if someone is lying, see through illusions, and understand what something hidden or distorted really is. For each Power Level the GM reveals something significant about the thing's true nature.
+
+**CHANCE CASTING:** You gain one additional revelation beyond those granted by Power Level. It identifies what the subject most urgently wants hidden about the matter being examined.
 
 #### BREAK MIND
 
@@ -4227,6 +4453,8 @@ You can change your own appearance, voice, and smell into those of another livin
 
 You can create an illusion and control it with your mind. The illusion looks and acts according to your will, but is completely immaterial, has no scent, and leaves no trace. Everyone who sees the illusion can make an INSIGHT roll to understand that it is an illusion. Each additional Power Level adds -1 to the roll. Anyone who touches the illusion immediately sees through it. In order to maintain the illusion, the caster must concentrate on it and cannot perform any other actions. More complex illusions require a higher Power Level. A motionless illusion of a wall requires Power Level 1, but creating a convincing illusion of a person running around the corner of a house might require Power Level 3. The GM determines the Power Level required based on the description of the illusion.
 
+**SAFE CASTING:** The illusion must be motionless and silent and cannot react to observers.
+
 #### GEAS
 
 ✦ **RANK** 3
@@ -4235,6 +4463,8 @@ You can create an illusion and control it with your mind. The illusion looks and
 ✦ **INGREDIENT**: An item from the creature
 
 Geas forces a creature to perform an action of your choosing. The creature must be able to understand you for the spell to work. The spell can make the creature perform almost any action, but you cannot force it to commit suicide or act in a way that leads to its death. The victim must make an INSIGHT roll (not an action) with a negative modification equal to the Power Level. On a failure, the creature remains enchanted until the action is carried out, no matter how long it takes. If the action proves impossible to carry out, the spell is canceled after one day per Power Level.
+
+**CHANCE CASTING:** Before the compulsion begins, the target must state aloud how it literally understands the required action.
 
 #### TIME STOP
 
@@ -4442,6 +4672,8 @@ This spell is considered heretic by most oneiromancers. It is only taught by ren
 
 You can affect the sleep of one or multiple living creatures by injecting nightmares into their minds. The victims suffer damage to Wits equal to the Power Level. A victim that has its Wits reduced to zero suffers a critical fear injury. For every two additional Power Levels another victim is affected. The nightmares also render the creature SLEEPLESS for the next day. The spell has no effect on monsters.
 
+**CHANCE CASTING:** If the spell Breaks a victim's Wits, roll twice for that victim's critical fear injury and choose which result applies.
+
 #### PREMONITION
 
 ✦ **RANK** 1, **RITUAL**
@@ -4449,6 +4681,8 @@ You can affect the sleep of one or multiple living creatures by injecting nightm
 ✦ **DURATION**: The day after a night's sleep
 
 Once per Power Level, you can make a skill roll for an action and only once you have seen the outcome of that action decide whether you actually went through with it or chose not to, since you knew beforehand that it would turn out badly. With Power Level 2 and higher, premonitions can also apply to your allies' skill rolls, but it only works if they have slept next to you. You do not have to reveal the outcome, and the person in question decides whether or not the action is performed. Premonitioned rolls cannot be pushed or re-rolled after backing out.
+
+**CHANCE CASTING:** When a premonitioned action is abandoned, receive one sensory omen indicating its immediate cause of failure, not the full hidden situation.
 
 #### QUICKENED DREAMS
 
@@ -4462,6 +4696,8 @@ Up to one target per Power Level only needs a one turn (15 minutes) power nap, t
 This sleep does not count as rest and cannot be used to, at the same time, perform any other Oneiromancy magic.
 
 This spell is considered heretic by most oneiromancers. It is only taught by renegade daydreamers.
+
+**CHANCE CASTING:** During the power nap, affected sleepers wake immediately if a hostile creature enters NEAR range or violence begins there. They cannot be surprised by that threat.
 
 #### RESTORATIVE SLEEP
 
@@ -4479,6 +4715,8 @@ After a night of restorative dreams you can increase one attribute or skill leve
 
 In your sleep you can travel to any place that you have previously visited, invisibly watching and hearing what is going on there. An additional Power Level allows you to appear before and communicate with people in that place, but not act physically.
 
+**SAFE CASTING:** You observe from one fixed vantage point chosen on arrival. Additional Power Levels cannot be spent to communicate.
+
 #### LULLABY
 
 ✦ **RANK** 2
@@ -4486,6 +4724,8 @@ In your sleep you can travel to any place that you have previously visited, invi
 ✦ **DURATION**: Takes effect in one turn. Sleep lasts a Quarter Day unless the sleeper is woken up.
 
 You sing a quiet lullaby that makes humanoid creatures within range fall into a deep slumber unless they succeed with an INSIGHT roll (not an action) with a negative modification equal to the Power Level. The sleepers can be woken up, but will stay asleep if left alone. The lullaby also affects allies unless they somehow plug their ears.
+
+**SAFE CASTING:** Range becomes NEAR, and you must sing without interruption for the full turn before the sleep takes effect.
 
 #### MARA
 
@@ -4502,6 +4742,8 @@ You can summon a mara and force it to haunt a victim. For attributes and attacks
 ✦ **DURATION**: One turn (15 minutes)
 
 Must be cast on a sleeping target within range. They must then succeed on an INSIGHT roll with a penalty equal to the Power Level or you can ask them up to Power Level questions that they must answer truthfully, each question taking up 15 minutes of your time, as you probe their mind in their dreams. Questions can also be exchanged for what-if scenarios, like "If you would gain unattended access to our vault, what would you do?" and test those scenarios thoroughly in the dream.
+
+**CHANCE CASTING:** After one answer, ask one immediate clarifying question that does not count against the spell's Power Level limit or require another turn (15 minutes).
 
 #### SLEEPWALKER
 
@@ -4531,6 +4773,8 @@ Extra Power Levels can extend the contagious dreams to adjacent hexes.
 
 You can then enter the dreams of anyone you have encountered, as long as they too are sleeping. They are allowed to make an INSIGHT roll with a negative modification equal to the Power Level to shake you out if they want to. During the dream you can discern their location in the world. You may also communicate to the recipient, but they can choose to ignore you if they do not want this. You can also turn the dream into a nightmare; this makes the target unable to benefit from sleep during that Quarter Day. If done over a period of days equaling the target's Wits, they are likely to go insane, if so, you can roll on the horror injury table, to see the effect.
 
+**CHANCE CASTING:** If the intended target is awake when the ritual begins, the spell waits for their next sleep for up to one day and enters the first dream they have. You know whether the link is waiting, established, or expired.
+
 #### DREAM TRAVEL
 
 ✦ **RANK** 3, **RITUAL**
@@ -4556,6 +4800,8 @@ You can conjure or repair a non-magical item of moderate value during a night of
 ✦ **INGREDIENT**: A handful of fine sand
 
 By throwing a handful of sand around yourself, you render all living, warm-blooded creatures of human size or smaller within NEAR range unconscious. Resisting the spell requires a successful INSIGHT roll (not an action) with a negative modification equal to the Power Level. Only you can wake them up while the spell is in effect. The spell also affects nearby allies.
+
+**CHANCE CASTING:** Choose one affected creature that may be awakened normally by touch instead of only by you.
 
 #### DREAM PALACE
 
@@ -4759,6 +5005,8 @@ Magnetism is a form of iron-based magic developed within the Rust Church's warri
 
 You can manipulate objects that contain metal; locking or unlocking shackles, unlocking doors without a key, make someone's sword temporarily stick in its sheath or shield, and so on - provided that the components contain metal. At Power Level 1 you can open or lock simple locks and manipulate light items. At Power Level 2 you can manipulate normal-sized items, and Power Level 3 allows you to manipulate large, heavy items. The GM determines which Power Level is required for heavy items.
 
+**SAFE CASTING:** The spell can manipulate only unattended metal and locks or mechanisms no creature is actively holding or resisting.
+
 #### MAGNETIC MAP
 
 ✦ **RANK** 1
@@ -4766,6 +5014,8 @@ You can manipulate objects that contain metal; locking or unlocking shackles, un
 ✦ **DURATION**: One session
 
 You can perfectly sense the magnetic fields of the land and build an internal map using it. Gain a +2 bonus per Power Level to _survival_ when you survey the lands, lead the way or otherwise navigate, like a maze or so, for the rest of the session.
+
+**CHANCE CASTING:** You also sense the direction of the nearest major magnetic anomaly, large iron deposit, or strongly magnetized structure.
 
 #### MAGNETIZE
 
@@ -4776,6 +5026,8 @@ You can perfectly sense the magnetic fields of the land and build an internal ma
 You can permanently turn a unit of iron, or object containing up to a unit of iron, into a standard dipole magnet.
 
 Additional Power Levels can either affect more units of iron, or make them into a strong magnet, requiring a MIGHT roll to remove any object that it attaches to.
+
+**CHANCE CASTING:** For one day, you can sense the direction to the magnet while within the same hex.
 
 #### PATH OF IRON
 
@@ -4821,6 +5073,8 @@ Any extra ⚔️ than needed can be used to fling the weapon away a zone from ar
 
 If the item is flung, it can also be used to try to hit someone, roll MARKSMANSHIP, it has a base damage of 1 per zone it could have been flung, but will then land near that target on a miss or within arm's reach on a hit.
 
+**CHANCE CASTING:** A flung weapon sticks to the nearest suitable iron surface at its landing point and requires a fast action to pull free.
+
 #### LAUNCH WEAPON
 
 ✦ **RANK** 2
@@ -4830,6 +5084,8 @@ If the item is flung, it can also be used to try to hit someone, roll MARKSMANSH
 You throw away a held melee weapon containing iron towards an opponent. It counts as a ranged ⚔️ hit dealing 2 damage. The target is allowed to parry or dodge the attack as if it were a melee attack. Armor rating can also protect against the damage.
 
 An extra Power Level can be used to have the weapon return to your hand. Power Levels can also be spent to add extra hit ⚔️, or to add targets the attack bounces to (and is repeated against).
+
+**CHANCE CASTING:** If the attack is parried with a metal weapon or shield, the launched weapon sticks to it. The defender must drop that item or spend a fast action pulling the two apart.
 
 #### REPEL
 
@@ -4871,6 +5127,8 @@ A target wearing iron armor is subjected to a shove attempt with one ⚔️ per 
 
 Any extra ⚔️ than needed can be used to fling the target away a zone. They can also be flung into a large object like a wall, and if that lowers the number of zones they moved through, then they take 1 blunt damage for each such reduction in amount of zones not flung through. Armor does not protect against this damage.
 
+**CHANCE CASTING:** Before moving the target, choose one unsecured TINY or LIGHT metal object they carry. It is torn free and lands where the target stood.
+
 #### MAGNETIC FLIGHT
 
 ✦ **RANK** 3
@@ -4886,6 +5144,8 @@ You can temporarily reverse the gravity of a metal object you touch, caused by a
 ✦ **DURATION**: One turn per Power Level
 
 You can sense all metal objects in your vicinity for 1 turn per Power Level. This could help you find hidden treasure, and hidden levers, but you also gain the equivalent of darkvision towards any living beings within the given range around you, as you can see the magnetic fields from their blood. This also includes non-living things carrying items made out of metal. Non-metal walls do not hinder you from sensing metal on their other side.
+
+**SAFE CASTING:** The spell detects metal objects only and grants no vision of creatures through iron in their blood.
 
 #### BLADE SPHERE
 
@@ -4948,6 +5208,8 @@ Affect up to Power Level metal items, so that they constantly want to reshape in
 This makes the items, for the duration of the spell, ignore all item damage and damage to Armor Rating. It does not protect the items from receiving more damage, but it allows the use of said items, even if they become completely broken.
 
 A completely broken melee weapon will even gain one zone worth of increased reach, as its parts will partially extend from one another, before returning to its wanted form, during attacks.
+
+**CHANCE CASTING:** When the spell ends, each affected item repairs 1 point of item damage or lost Armor Rating that it suffered while the spell was active. Completely destroyed or missing material cannot be restored.
 
 #### MOLD GRAVITY
 
@@ -5054,6 +5316,8 @@ Prolonged mog exposure is dangerous. Any creature splashed with raw mog and not 
 
 You channel mog through your hand and press it against a target. The contact deals damage to Strength equal to the Power Level. Armor applies, but the mog eats through it: reduce the target's Armor Rating by 1 for each hit, permanently, as the substance chews into leather, mail, or plate. Against bare skin the damage is terrible — blistering, smoking flesh that scars even after healing.
 
+**CHANCE CASTING:** The corroded point remains visibly weak for one turn (15 minutes). The first physical attack directed at that point gains two Base Dice and ignores 1 point of Armor Rating.
+
 #### GENERATE MOG
 
 ✦ **RANK** 1, **RITUAL**
@@ -5072,6 +5336,8 @@ You open a hairline crack between this world and Churmog, just wide enough for t
 
 You taste the air with demon-tuned senses. For one round you can detect the presence and approximate direction of demons, mog, misgrown creatures, dimensional tears, and sources of corruption within range. You do not learn their exact nature or strength — only that something tainted is there. Each additional Power Level extends the range by one Near increment.
 
+**SAFE CASTING:** Range is limited to NEAR and the spell reveals presence only, not direction.
+
 #### DEMON TONGUE
 
 ✦ **RANK** 2
@@ -5081,6 +5347,8 @@ You taste the air with demon-tuned senses. For one round you can detect the pres
 
 You coat your throat and tongue with mog. For the duration, you can speak and understand the language of demons. This does not make demons friendly or cooperative — only comprehensible. You can ask questions, issue threats, propose bargains, and understand the answers. The demon's willingness to talk depends on its temperament and your leverage. While the spell lasts, your voice carries a grating harmonic that unnerves anyone nearby — all MANIPULATION rolls against non-demons are at -1.
 
+**CHANCE CASTING:** While conversing with a demon, learn its dominant present appetite. The first MANIPULATION roll during the spell that offers, threatens, or exploits that appetite gains two Base Dice. This does not reveal whether the demon lies.
+
 #### DISSOLVE
 
 ✦ **RANK** 2
@@ -5089,6 +5357,8 @@ You coat your throat and tongue with mog. For the duration, you can speak and un
 ✦ **INGREDIENT**: Mog (consumed)
 
 You press concentrated mog against a non-living surface — wood, stone, metal, bone. The substance eats through a volume roughly the size of a fist per Power Level. Iron and steel resist longer than wood or leather, but nothing holds forever. A lock, a chain, a barred door, a sealed chest — all succumb given enough Power Levels. This spell does not work on living flesh (use Corrosive Touch for that) or on magical barriers.
+
+**CHANCE CASTING:** The dissolving surface briefly outlines adjoining hollows, seams, and mechanisms within ARM'S LENGTH before collapsing.
 
 #### MOG BLADE
 
@@ -5144,6 +5414,8 @@ You bond demon-tissue to a willing or restrained humanoid target. The ritual tak
 
 You hurl a spray of mog in a cone reaching Near range. Every creature in the cone takes Strength damage equal to the Power Level. Armor applies, but is reduced by 1 permanently for each target struck, as the mog eats into it. The spray leaves smoking residue on the ground that remains corrosive for one round — anyone crossing it barefoot or falling into it takes 1 additional point of Strength damage.
 
+**CHANCE CASTING:** Choose one narrow route through the sprayed area where the residue does not settle until the end of the next round.
+
 #### COMPEL DEMON
 
 ✦ **RANK** 4
@@ -5152,6 +5424,8 @@ You hurl a spray of mog in a cone reaching Near range. Every creature in the con
 ✦ **INGREDIENT**: Mog (consumed)
 
 You exert your will over a demon within range. The demon resists with a roll using its Wits against your Power Level as a negative modifier. If it fails, it must obey your commands for the duration — but only the literal words. Demons are cunning and will twist loose instructions to their advantage. Commands that would destroy the demon automatically break the compulsion. If the demon's Wits exceed your Power Level, the spell fails and the demon knows you tried. A compelled demon that is harmed by the caster or the caster's allies may attempt to break free again, rolling Wits once per round.
+
+**CHANCE CASTING:** Before obeying, the demon must state one literal ambiguity or loophole it perceives in the command.
 
 #### DEMON LIMB
 
@@ -5170,6 +5444,8 @@ You graft an additional functioning limb onto your body — a third arm, a tail 
 ✦ **INGREDIENT**: Mog (consumed)
 
 You flood your body with mog and reshape it for a specific task. Choose one: increase your Strength by the Power Level (maximum doubled), increase your Agility by the Power Level (maximum doubled), grow gills to breathe underwater, grow thick hide (Armor Rating equal to half the Power Level, rounded up), or compress your body to fit through any gap wider than a fist. When the spell ends your body snaps back, and the strain deals 1 point of Strength damage. If you push the casting roll, each skull rolled deals an additional point of corruption as the mog seeps deeper.
+
+**SAFE CASTING:** You can choose only gills or bodily compression. The spell cannot increase your attributes or create armor.
 
 #### TEAR THE VEIL
 

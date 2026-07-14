@@ -11,51 +11,91 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- **Forbidden Lands design intelligence.** Added dedicated references for
-  player psychology and table experience, sandbox and freeform campaign design,
-  supplement architecture, and evidence-based playtest and balance protocols.
-  The design workflow now audits agency, fairness, mastery, spotlight,
-  information, faction response, failure continuity, and campaign-scale
-  consequences alongside engine mathematics.
+- **Book 01 — Corebook, casting modes.** Added voluntary chance casting and
+  spell-specific risk-and-reward effects across every magical discipline.
+  Players can invite a guaranteed mishap for a situational advantage, while
+  selected high-use spells impose a defined limitation when safely cast. The
+  chapter gives GMs an explicit order for choosing a mode and resolving its
+  effects.
 
-- **Bestiary design corpus.** Restored the missing monster design engine,
-  mechanics taxonomy, Lore Roll rules, random-encounter rules, experimental
-  rule repository, and corpus calibration references. Monster work now has
-  complete guidance for attack roles, hard control, readable counterplay,
-  ecological consequences, sandbox encounters, and unique resources.
+- **Book 01 — Corebook, Speak to the Wind.** Added **SPEAK TO THE WIND**,
+  a Rank 2 Awareness spell for sending a brief one-way message to a person the
+  caster knows by sight. It reveals neither the recipient's location nor
+  whether the message arrived, and safe casting restricts delivery to the
+  caster's current hex.
 
-- **Medieval-authenticity skill.** Restored the advertised
-  `forbidden-lands-medieval-authenticity` capability as a focused,
-  high-signal skill. New references cover material life and logistics,
-  settlements and customary law, violence and care, research discipline,
-  setting counterfactuals, and the boundary between useful realism and
-  punitive bookkeeping.
+- **`/forbidden-lands-bestiary` — adversary construction.** Expanded support
+  for human enemies, beasts, monsters, and demons, with role-based attacks,
+  readable counterplay, ecological consequences, and rewards that create
+  further play.
 
-- **Skill interface metadata.** Added discoverable names, concise descriptions,
-  and invocation prompts for every Forbidden Lands skill.
+- **`/forbidden-lands-bestiary` — minions, troops, and command.** Added
+  scalable procedures for running minions, bands, troops, and larger hosts
+  without resolving every combatant separately, including group actions,
+  command, morale, surrender, and rout.
+
+- **`/forbidden-lands-bestiary` — bosses and changing combat states.** Added
+  multi-phase encounters, linked attack tables, Strength-banded attacks,
+  charged actions, visible intent, and broken-part or objective phases. Major
+  foes can change tactics and lose capabilities as the fight develops instead
+  of merely absorbing damage.
+
+- **`/forbidden-lands-bestiary` — knowledge and encounter situations.** Added
+  structured Lore Roll clues, discoverable weaknesses, and random-encounter
+  procedures built around local pressures, dilemmas, and lasting consequences
+  rather than isolated fights.
+
+- **`/forbidden-lands-design` — player experience.** Added practical checks for
+  agency, competence, fairness, discovery, spotlight, risk, loss, onboarding,
+  and decision load when creating rules or campaign material.
+
+- **`/forbidden-lands-design` — sandbox and freeform campaigns.** Added
+  procedures for active factions, pressure tracks, rumors, information states,
+  non-railroad hooks, persistent consequences, and failures that keep the
+  campaign moving.
+
+- **`/forbidden-lands-design` — supplement development and playtesting.** Added
+  end-to-end guidance for structuring supplements, setting testable balance
+  claims, stress-testing builds, and validating rules from a single roll
+  through campaign-scale play.
+
+- **`/forbidden-lands-medieval-authenticity` — survival and material life.**
+  Added detailed references for shelter, cold, food, travel, navigation,
+  scouting, equipment care, crafts, production, trade, and the practical limits
+  of tools and labor.
+
+- **`/forbidden-lands-medieval-authenticity` — society and psychology.** Added
+  references for households, barter, customary law, religion, leadership,
+  fear, trauma, violence, care, outlawry, and Bitter Reach social life,
+  including difficult realities useful to grounded play.
 
 ### Changed
 
-- **Forbidden Lands skill quality audit.** Rebuilt all six skill entry points
-  around current repository paths, progressive reference loading, explicit
-  sources of authority, complete design loops, validation gates, and
-  cross-skill routing. Removed stale references to deleted skills, documents,
-  and directories.
+- **Book 01 — Corebook, magical advancement.** Fixed magical Path progression
+  at five talent ranks. Rank 6 remains a spell rank only: only Rank 5 casters
+  may learn those spells, every attempt is chance cast, and neither safe
+  casting nor grimoires can bypass the guaranteed mishap. Settlement tutors
+  can now teach talents through Rank 5.
 
-- **Balance and synergy review.** Expanded the former five-test combo audit to
-  include counterplay, niche and spotlight protection, perceived fairness,
-  party-level interactions, sandbox authority, full access and renewal tracing,
-  and regression testing at use, scene, session, and campaign scales.
+- **Book 01 — Corebook, delayed mishaps.** Mishaps that wait for the next
+  occurrence but state no time limit now expire after one turn (15 minutes).
+  A limit stated by the mishap still takes precedence, preventing dormant
+  effects from being carried indefinitely.
 
-- **Lore and writing workflows.** Added playable-lore classification,
-  contradiction handling, faction truth, sandbox conversion, unresolved
-  situation prose, information-state discipline, operational GM guidance, and
-  ambiguity-solving rules examples. Corrected legacy cross-reference names
-  throughout the supporting lore and prose corpus.
+- **`/forbidden-lands-synergy-analysis` — campaign-scale interactions.**
+  Expanded balance checks to cover counterplay, niche and spotlight protection,
+  party-level combinations, narrative authority, access and renewal loops, and
+  consequences that emerge across sessions or whole campaigns.
 
-- **Project overview.** Expanded the README's skill documentation, recommended
-  stacks, and edition summary to describe the audited supplement-design
-  capabilities.
+- **`/forbidden-lands-lore` — playable setting knowledge.** Expanded support
+  for contradictions, faction truth, information states, regional continuity,
+  and converting setting facts into rumors, choices, and consequences at the
+  table.
+
+- **`/forbidden-lands-writing-voice` — rules and GM-facing situations.**
+  Expanded guidance for concise procedures, ambiguity-solving examples,
+  operational GM advice, and unresolved situations that preserve player
+  choice.
 
 ## [1.1.3] - 2026-07-14
 

@@ -4,6 +4,7 @@
 !.gitignore
 !/README
 !/README.*
+!/AGENTS.md
 !/CHANGELOG
 !/CHANGELOG.*
 !/LICENSE

@@ -4,7 +4,7 @@
 
 ## Status
 
-**Review document only. No ribbon in this document has been implemented in 01-corebook/07-magic.md.**
+**Implemented in `01-corebook/07-magic.md`.** This document is retained as the allocation and design audit. The corebook chapter is authoritative where its final wording differs from this record.
 
 This audit assigns every spell in the chapter one of three decisions:
 
@@ -31,7 +31,7 @@ Thus exactly one spell in three receives a ribbon, and exactly three ribboned sp
 - Prefer information, movement, timing, setup, rescue, and conditional finishers over raw damage.
 - Make every CHANCE effect worth considering but not worth a guaranteed mishap on every casting.
 - Require every CHANCE effect to create a concrete option, alter a consequential roll, preserve a resource, or reveal information that can change a decision.
-- Let an effect last at least one Turn when it is meant to support later action. A round-long effect is acceptable only when it can be exploited immediately in combat.
+- Let an effect last at least one turn (15 minutes) when it is meant to support later action. A round-long effect is acceptable only when it can be exploited immediately in combat.
 - Do not count atmospheric detail, information already supplied by the base spell, delayed failure without time to intervene, or convenience already purchasable with Power Level as a reward.
 - Reserve SAFE limitations for broad spells that remain useful after being narrowed.
 - Do not add SAFE limitations merely to tax mastery.
@@ -77,9 +77,9 @@ During implementation, insert selected text under a **CHANCE CASTING:** or **SAF
 | Prestidigitation | 1 | SAFE | The trick can affect only you, your voice, and objects you carry; it cannot directly alter another creature or its perceptions. |
 | Sense Magic | 1 | SAFE | Range becomes NEAR, and the spell cannot detect magic protected by OBSCURE MAGIC. |
 | Copy Magic | 2 | CHANCE | When the spell is copied, learn one required ingredient, target restriction, or other concrete limitation of the copied spell. |
-| Dispel Magic | 2 | CHANCE | If the opposing spell is reduced to Power Level 0, its collapsing magic marks its caster for one Turn. You know the marked caster's direction while within SHORT range, and the mark negates visual concealment against you. |
+| Dispel Magic | 2 | CHANCE | If the opposing spell is reduced to Power Level 0, its collapsing magic marks its caster for one turn (15 minutes). You know the marked caster's direction while within SHORT range, and the mark negates visual concealment against you. |
 | Extend Magic | 2 | NONE | — |
-| Hold Magic | 2 | CHANCE | If damage breaks your concentration, the held spell persists for one Turn before ending. You need not spend actions to maintain it during that Turn, but you cannot resume or further extend it. |
+| Hold Magic | 2 | CHANCE | If damage breaks your concentration, the held spell persists for one turn (15 minutes) before ending. You need not spend actions to maintain it during that turn, but you cannot resume or further extend it. |
 | Obscure Magic | 2 | NONE | — |
 | Bind Magic | 3 | NONE | — |
 | Contain Spell | 3 | NONE | — |
@@ -91,7 +91,7 @@ During implementation, insert selected text under a **CHANCE CASTING:** or **SAF
 | Living Spell | 4 | NONE | — |
 | Mass Spell | 4 | NONE | — |
 | Quicken Ritual | 4 | NONE | — |
-| Unearth Magic | 4 | CHANCE | Also learn whether the unearthed residue was chiefly protective, harmful, controlling, or transformative and whether it was used within the last day. |
+| Unearth Magic | 4 | CHANCE | You also learn whether the unearthed residue was chiefly protective, harmful, controlling, or transformative, and whether it was used within the last day. |
 | Absorb Magical Residue | 5 | NONE | — |
 | Create Artifact | 5 | NONE | — |
 | Anti-Magic Zone | 6 | NONE | — |
@@ -102,19 +102,19 @@ During implementation, insert selected text under a **CHANCE CASTING:** or **SAF
 
 | Spell | Rank | Decision | Proposed Ribbon or Limitation |
 | --- | ---: | --- | --- |
-| Cleanse Spirit | 1 | CHANCE | After healing, the target cannot suffer further Wits or Empathy damage from the same creature, spell, or fear effect for one Turn. This protection ends after it prevents damage once. |
-| Healing Hands | 1 | CHANCE | Suspend the effect and time limit of one lethal critical injury affecting the target for one Turn. The injury is not healed, but its lethal clock resumes only after that Turn ends. |
+| Cleanse Spirit | 1 | CHANCE | After healing, the target cannot suffer further Wits or Empathy damage from the same creature, spell, or fear effect for one turn (15 minutes). This protection ends after it prevents damage once. |
+| Healing Hands | 1 | CHANCE | You suspend the effect and time limit of one lethal critical injury affecting the target for one turn (15 minutes). The injury is not healed, and its lethal clock resumes when the turn ends. |
 | Nature's Cure | 1 | CHANCE | You identify the poison or disease, its current Potency or Virulence, and the most likely route by which the target contracted it. |
 | Preserve | 1 | SAFE | The spell can affect only non-living material and cannot suspend a living creature. |
 | Relieve Condition | 1 | NONE | — |
 | Rinse | 1 | NONE | — |
-| Banish Demon | 2 | CHANCE | After taking damage, an unbroken true demon is banished if its remaining Strength is no greater than the damage it just suffered. |
-| Immunity | 2 | SAFE | Affect one target only and choose poison or disease; the spell protects against the chosen category, not both. |
+| Banish Demon | 2 | CHANCE | After the spell inflicts its Strength damage, a true demon that remains unbroken is banished if its current Strength is no greater than the damage just suffered. The demon's wounded substance tears open a rift that drags it back to the world from which it came. The rift then closes. |
+| Immunity | 2 | SAFE | The spell affects only one target. Choose poison or disease when you cast it. The spell protects against the chosen category, not both. |
 | Mend Self | 2 | NONE | — |
 | Mend Wounds | 2 | CHANCE | Before the end of the next round, the target may GET UP once without spending a fast action. |
 | Purge Undead | 2 | CHANCE | An unbroken undead whose remaining Strength is no greater than the damage just suffered falls prone and loses its next fast action. |
 | Bend Demon | 3 | NONE | — |
-| Calm Emotions | 3 | CHANCE | Choose one affected creature. One ongoing fear, rage, coercion, or supernatural agitation affecting it remains suppressed for one Turn, even if new hostility ends the spell's normal restraint. The effect returns afterward if its duration has not expired. |
+| Calm Emotions | 3 | CHANCE | Choose one affected creature. One ongoing fear, rage, coercion, or supernatural agitation affecting it remains suppressed for one turn (15 minutes), even if a new hostile action ends the spell for everyone else. The suppressed effect returns afterward if its duration has not expired. |
 | Invigorate | 3 | NONE | — |
 | Lift Curse | 3 | NONE | — |
 | Rejuvenation | 3 | NONE | — |
@@ -138,8 +138,8 @@ During implementation, insert selected text under a **CHANCE CASTING:** or **SAF
 | Befriend Animal | 1 | NONE | — |
 | Cat's Paw | 1 | NONE | — |
 | Hawk's Eye | 1 | CHANCE | The first SCOUTING roll made through the enhanced sight gains one automatic ⚔️. Declare the roll before the spell ends. |
-| Nature's Watch | 1 | CHANCE | On its first alarm, the watching animals reveal the intruders' number, direction, broad size, and whether they bear visible weapons. This information does not depend on extra ⚔️ from the SCOUTING roll. |
-| Bear's Claw | 2 | CHANCE | If the strike inflicts damage, it also makes a one-success SHOVE attempt against the target. |
+| Nature's Watch | 1 | CHANCE | On its first alarm, the watching animals reveal the intruders' number, direction, broad size, and whether they bear visible weapons. You learn this even if the SCOUTING roll gains no additional ⚔️. |
+| Bear's Claw | 2 | CHANCE | If the strike inflicts damage, the target is also subjected to a SHOVE with one ⚔️. |
 | Beastmaster | 2 | SAFE | The spell affects only a calm or unthreatened animal and cannot order it to attack, enter obvious danger, or abandon its young. |
 | Deer's Dash | 2 | NONE | — |
 | Dolphin's Dive | 2 | NONE | — |
@@ -172,7 +172,7 @@ During implementation, insert selected text under a **CHANCE CASTING:** or **SAF
 | Compel Truth | 2 | NONE | — |
 | Farsight | 2 | SAFE | You may view only a place you have personally visited; Power Levels cannot overcome lack of first-hand familiarity. |
 | Portent | 2 | NONE | — |
-| Predict Moves | 2 | CHANCE | In addition to the intended action, learn the target, route, or destination the enemy currently means to use. |
+| Predict Moves | 2 | CHANCE | You also learn the target, route, or destination the enemy currently means to use. |
 | Speak to the Wind | 2 | SAFE | The recipient must be somewhere within your current map hex. |
 | True Path | 2 | NONE | — |
 | Visions of the Past | 2 | NONE | — |
@@ -185,7 +185,7 @@ During implementation, insert selected text under a **CHANCE CASTING:** or **SAF
 | Mind Focus | 4 | NONE | — |
 | Mold Memory | 4 | NONE | — |
 | Fate Weaving | 5 | NONE | — |
-| Locate | 5 | CHANCE | Also learn the direction in which the target most recently moved; if stationary, you sense that instead. |
+| Locate | 5 | CHANCE | You also learn the direction in which the target most recently moved. If the target is stationary, you sense that instead. |
 | Time Sending | 5 | NONE | — |
 | Undo | 6 | NONE | — |
 
@@ -232,7 +232,7 @@ During implementation, insert selected text under a **CHANCE CASTING:** or **SAF
 | Stone Storm | 2 | CHANCE | Loose stone remains churned at the target's position, making that immediate area ROUGH until the end of the next round. |
 | Stonesmith | 2 | SAFE | The construction must be crude, stationary, and load-bearing; it cannot contain moving parts, traps, or fine sealed mechanisms. |
 | Wither | 2 | NONE | — |
-| Earthquake | 3 | CHANCE | Choose one NEAR-sized patch inside the affected area that remains stable and does not suffer the earthquake's positional effects. |
+| Earthquake | 3 | CHANCE | If the spell tears down a wall or fortification, you choose the direction in which the rubble falls. The breach is left passable instead of becoming ROUGH. |
 | Iron Song | 3 | NONE | — |
 | Mountains' Blessing | 3 | NONE | — |
 | Petrify | 3 | NONE | — |
@@ -251,11 +251,11 @@ During implementation, insert selected text under a **CHANCE CASTING:** or **SAF
 | Spell | Rank | Decision | Proposed Ribbon or Limitation |
 | --- | ---: | --- | --- |
 | Blood Oath | 1 | CHANCE | When the subject first knowingly acts against the oath, you sense that the oath was breached and the direction to the subject, but not the distance. |
-| Blood Tap | 1 | CHANCE | If no spell uses the granted Power Levels during the normal one-round window, retain 1 of them for one Turn. The remaining granted Power Levels are lost normally. |
+| Blood Tap | 1 | CHANCE | If no spell uses the granted Power Levels during the normal one-round window, retain 1 of them for one turn (15 minutes). The remaining granted Power Levels are lost normally. |
 | Firewalker | 1 | SAFE | Choose heat or cold when cast. The spell grants immunity only to the chosen extreme. |
 | Heroism | 1 | NONE | — |
 | Stir the Blood | 1 | CHANCE | Choose whether the spell brings out lust, fear, or rage instead of leaving the dominant emotion to the GM. The GM still determines how the victim expresses it. |
-| Bind Demon | 2 | CHANCE | A demon that successfully resists still cannot cross the pentagram or approach within ARM'S LENGTH of it for one Turn. Attacking the demon from inside this boundary ends the protection. |
+| Bind Demon | 2 | CHANCE | A demon that successfully resists still cannot cross the pentagram or approach within ARM'S LENGTH of it for one turn (15 minutes). Attacking the demon from inside this boundary ends the protection. |
 | Blood Bond | 2 | CHANCE | Before choosing the transfer, you learn whether either participant carries a blood-borne poison, disease, or supernatural contamination. |
 | Darkvision | 2 | SAFE | The sight works only in natural darkness and cannot penetrate magical darkness, supernatural fog, or deliberate magical concealment. |
 | Hand of Blood | 2 | NONE | — |
@@ -292,7 +292,7 @@ During implementation, insert selected text under a **CHANCE CASTING:** or **SAF
 | Curse of Undeath | 3 | NONE | — |
 | Darkness | 3 | SAFE | Range becomes NEAR, and the spell suppresses only nonmagical light sources. |
 | Steal Life | 3 | NONE | — |
-| Terror | 3 | CHANCE | A victim Broken by the spell must flee from you by the safest available route for one Turn or until prevented from fleeing. The compulsion ends early if you or an ally attacks that victim again. |
+| Terror | 3 | CHANCE | A victim Broken by the spell must flee from you by the safest available route for one turn (15 minutes) or until prevented from fleeing. The compulsion ends early if you or an ally attacks that victim again. |
 | Weight of Ages | 3 | CHANCE | If the aging makes the victim lose an attribute point, you choose the affected attribute instead of the victim. |
 | Cloud of Death | 4 | NONE | — |
 | Disintegrate | 4 | NONE | — |
@@ -310,7 +310,7 @@ During implementation, insert selected text under a **CHANCE CASTING:** or **SAF
 | Combustion | 1 | CHANCE | Choose the direction of the first smoke plume; until the next round it obscures one border adjacent to the burning object. |
 | Deviation | 1 | CHANCE | Redirect the projectile against another creature within ARM'S LENGTH of its original target. Resolve the original attack roll against the new target, who may DODGE or PARRY normally. |
 | Flaming Blade | 1 | NONE | — |
-| Sunder | 1 | CHANCE | If the object is part of a larger barrier, mechanism, or structure, the damage also exposes a usable breach, access point, or disabled joint large enough to materially aid passage or sabotage. The GM determines its exact form. |
+| Sunder | 1 | CHANCE | If the object is part of a larger barrier, mechanism, or structure, the damage also exposes a breach, access point, or disabled joint. The next MIGHT or CRAFTING roll made to pass through or sabotage the structure gains two Base Dice. |
 | Suffocate | 1 | NONE | — |
 | Water Breathing | 1 | SAFE | The spell affects only the caster and cannot add targets. |
 | Dense Fog | 2 | NONE | — |
@@ -323,7 +323,7 @@ During implementation, insert selected text under a **CHANCE CASTING:** or **SAF
 | Wind Blast | 2 | CHANCE | Each target moved by the blast drops one held TINY or LIGHT object of your choice. The objects land one zone downwind from their bearers. |
 | Elemental Shield | 3 | NONE | — |
 | Fireball | 3 | CHANCE | Choose one creature or ARM'S-LENGTH patch within the secondary blast area that the flames curl around and do not attack. |
-| Flood Wave | 3 | CHANCE | The wave extinguishes ordinary fires in its path. In addition, choose one victim that takes damage; the wave carries that victim one zone toward an edge or exit you choose before knocking them prone. |
+| Flood Wave | 3 | CHANCE | The wave also extinguishes ordinary fires in its path. Choose one victim that takes damage. Before knocking the victim prone, the wave carries them one zone toward an edge or exit you choose. |
 | Pressure Jet | 3 | CHANCE | The struck position remains flooded or slick and counts as ROUGH until the end of the next round. |
 | Stoneskin | 3 | NONE | — |
 | Tornado | 3 | NONE | — |
@@ -385,7 +385,7 @@ During implementation, insert selected text under a **CHANCE CASTING:** or **SAF
 
 | Spell | Rank | Decision | Proposed Ribbon or Limitation |
 | --- | ---: | --- | --- |
-| Fireflies | 1 | CHANCE | One swarm can settle on a visible target, outlining it and denying visual concealment for one Turn or until the target spends a slow action scattering the swarm. |
+| Fireflies | 1 | CHANCE | One swarm can settle on a visible target, outlining it and denying visual concealment for one turn (15 minutes) or until the target spends a slow action scattering the swarm. |
 | Harass | 1 | CHANCE | The insects leave a distinctive scent on the target for one Quarter Day, even if the spell ends early. Attempts to track the target by scent gain two Base Dice. |
 | Hivemind | 1 | CHANCE | Once during the duration, learn the direction of the largest nearby concentration of living creatures detected by the insects. |
 | Infest | 1 | NONE | — |
@@ -451,7 +451,7 @@ During implementation, insert selected text under a **CHANCE CASTING:** or **SAF
 | Mind Blast | 2 | CHANCE | A target suffering Wits damage cannot take reactive actions until its next turn in the initiative order. |
 | Mind Shield | 2 | NONE | — |
 | Mirror Images | 2 | CHANCE | The first attacker to destroy an image must direct its next single-target attack against another remaining image, if one remains in its reach or range. |
-| Truth Sense | 2 | CHANCE | Gain one additional revelation, beyond those granted by Power Level, identifying what the subject most urgently wants hidden about the matter being examined. |
+| Truth Sense | 2 | CHANCE | You gain one additional revelation beyond those granted by Power Level. It identifies what the subject most urgently wants hidden about the matter being examined. |
 | Break Mind | 3 | NONE | — |
 | False Shape | 3 | NONE | — |
 | Fata Morgana | 3 | SAFE | The illusion must be motionless and silent and cannot react to observers. |
@@ -476,10 +476,10 @@ During implementation, insert selected text under a **CHANCE CASTING:** or **SAF
 | Premonition | 1 | CHANCE | When a premonitioned action is abandoned, receive one sensory omen indicating its immediate cause of failure, not the full hidden situation. |
 | Quickened Dreams | 1 | CHANCE | During the power nap, affected sleepers wake immediately if a hostile creature enters NEAR range or violence begins there. They cannot be surprised by that threat. |
 | Restorative Sleep | 1 | NONE | — |
-| Dream Visit | 2 | SAFE | Observation is fixed to one vantage point chosen on arrival, and additional Power Levels cannot permit communication. |
+| Dream Visit | 2 | SAFE | You observe from one fixed vantage point chosen on arrival. Additional Power Levels cannot be spent to communicate. |
 | Lullaby | 2 | SAFE | Range becomes NEAR, and you must sing without interruption for the full turn before the sleep takes effect. |
 | Mara | 2 | NONE | — |
-| Probe Dream | 2 | CHANCE | After one answer, ask one immediate clarifying question that does not count against the spell's Power Level limit or require another Turn. |
+| Probe Dream | 2 | CHANCE | After one answer, ask one immediate clarifying question that does not count against the spell's Power Level limit or require another turn (15 minutes). |
 | Sleepwalker | 2 | NONE | — |
 | Contagious Dreams | 3 | NONE | — |
 | Dream Link | 3 | CHANCE | If the intended target is awake when the ritual begins, the spell waits for their next sleep for up to one day and enters the first dream they have. You know whether the link is waiting, established, or expired. |
@@ -527,7 +527,7 @@ During implementation, insert selected text under a **CHANCE CASTING:** or **SAF
 
 | Spell | Rank | Decision | Proposed Ribbon or Limitation |
 | --- | ---: | --- | --- |
-| Corrosive Touch | 1 | CHANCE | The corroded point remains visibly weak for one Turn. The first physical attack directed at that point gains two Base Dice and ignores 1 point of Armor Rating. |
+| Corrosive Touch | 1 | CHANCE | The corroded point remains visibly weak for one turn (15 minutes). The first physical attack directed at that point gains two Base Dice and ignores 1 point of Armor Rating. |
 | Generate Mog | 1 | NONE | — |
 | Sense Corruption | 1 | SAFE | Range is limited to NEAR and the spell reveals presence only, not direction. |
 | Demon Tongue | 2 | CHANCE | While conversing with a demon, learn its dominant present appetite. The first MANIPULATION roll during the spell that offers, threatens, or exploits that appetite gains two Base Dice. This does not reveal whether the demon lies. |
@@ -540,7 +540,7 @@ During implementation, insert selected text under a **CHANCE CASTING:** or **SAF
 | Mog Spray | 3 | CHANCE | Choose one narrow route through the sprayed area where the residue does not settle until the end of the next round. |
 | Compel Demon | 4 | CHANCE | Before obeying, the demon must state one literal ambiguity or loophole it perceives in the command. |
 | Demon Limb | 4 | NONE | — |
-| Reshape Body | 4 | SAFE | Choose only gills or bodily compression; safe casting cannot increase attributes or create armor. |
+| Reshape Body | 4 | SAFE | You can choose only gills or bodily compression. The spell cannot increase your attributes or create armor. |
 | Tear the Veil | 4 | NONE | — |
 | Flesh Abomination | 5 ✦ | NONE | — |
 | Mog Flood | 5 | NONE | — |
@@ -548,15 +548,13 @@ During implementation, insert selected text under a **CHANCE CASTING:** or **SAF
 | Apotheosis | 6 | NONE | — |
 | Churmog Gate | 6 | NONE | — |
 
-## Implementation Order
+## Playtest and Maintenance Order
 
-1. Approve the global allocation and the CHANCE/SAFE procedure before editing spell entries.
-2. Implement one low-rank CHANCE example, one combat-control CHANCE example, one information CHANCE example, and one SAFE example.
-3. Playtest whether players remember the mode text and whether guaranteed mishaps remain exceptional choices.
-4. Revise any ribbon that is always correct, never chosen, duplicates Power Level scaling, or exceeds a normal action's value.
-5. Implement the remaining approved rows by discipline, validating each against its full spell text and mishap table.
-6. Recount after spell additions or removals; preserve approximately one-third coverage and the three-to-one CHANCE-to-SAFE ratio rather than treating 99 and 33 as permanent sacred numbers.
+1. Playtest one low-rank CHANCE effect, one combat-control CHANCE effect, one information CHANCE effect, and one SAFE limitation before testing the more unusual cases.
+2. Check whether players remember the mode text and whether guaranteed mishaps remain exceptional choices.
+3. Revise any effect that is always correct, never chosen, duplicates Power Level scaling, or exceeds a normal action's value.
+4. Recount after adding or removing spells. Preserve approximately one-third coverage and the three-to-one CHANCE-to-SAFE ratio rather than treating 99 and 33 as permanent numbers.
 
-## Approval Boundary
+## Maintenance Boundary
 
-Approval of this document should not automatically authorize every sentence unchanged. It approves the portfolio and candidate direction. During implementation, any interaction discovered to alter action economy, bypass a spell's defining limit, or contradict a discipline rule should be returned for focused review rather than silently rewritten.
+Future revisions should preserve the portfolio unless play reveals a problem. Any change that alters action economy, bypasses a spell's defining limit, or contradicts a discipline rule should receive focused review rather than being treated as a wording correction.

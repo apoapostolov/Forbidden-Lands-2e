@@ -2,12 +2,23 @@
 
 Master cross-reference for all reference documents.
 
+## Ravenlands-Specific Content
+
+Use these references when the task concerns the core Forbidden Lands setting.
+They apply the generic corpus to the history, peoples, religions, supernatural
+conditions, and social development described in Book 02.
+
+| Document | Lines | Focus |
+| --- | ---: | --- |
+| [society-religion-and-daily-life.md](ravenlands/society-religion-and-daily-life.md) | 776 | Households, villages, authority, law, hospitality, kin, faith, burial, festivals |
+| [psychology-and-social-character.md](ravenlands/psychology-and-social-character.md) | 742 | Blood Mist conditioning, trust, identity, grief, trauma, magic, recovery |
+
 ## Generic Medieval Content
 
 Universal pre-industrial northern European knowledge.
 
 | Document | Lines | Focus |
-| -------------------------------------------------------------------------- | ----: | ------------------------------------------------------------- |
+| --- | ---: | --- |
 | [campcraft-and-shelter.md](generic/campcraft-and-shelter.md) | 986 | Fire, camp setup, woodcraft, shelter construction, fortification |
 | [cold-and-winter-survival.md](generic/cold-and-winter-survival.md) | 586 | Hypothermia, frostbite, cold-water immersion, winter march, snow shelter |
 | [crafts-and-production.md](generic/crafts-and-production.md) | 1032 | Smithing, bone/leather/rope work, woodcarving, pottery, chemistry |
@@ -31,7 +42,7 @@ Universal pre-industrial northern European knowledge.
 Customs, law, religion, and culture kept for the Norse-inflected frozen north.
 
 | Document | Lines | Focus |
-| ---------------------------------------------------------------------- | ----: | ------------------------------------------------------------- |
+| --- | ---: | --- |
 | [culture-religion-daily-life.md](the-bitter-reach/culture-religion-daily-life.md) | 467 | Games, storytelling, watch duty, camp routine, animal husbandry, burial |
 | [social-customs-and-law.md](the-bitter-reach/social-customs-and-law.md) | 361 | Trade, guest law, local authority, honor codes, drinking customs, obligations |
 | [psychological-trauma.md](the-bitter-reach/psychological-trauma.md) | 268 | Soul-model framing, regional coping, spiritual interpretation of damage |
@@ -64,6 +75,8 @@ Maximum 1800 lines per document. Current status:
 - `psychological-trauma.md` (The Bitter Reach): 268 lines (15%)
 - `uncomfortable-realities.md` (The Bitter Reach): 619 lines (34%)
 - `outlawry.md` (The Bitter Reach): 785 lines (44%)
+- `society-religion-and-daily-life.md` (Ravenlands): 776 lines (43%)
+- `psychology-and-social-character.md` (Ravenlands): 742 lines (41%)
 
 ## Companion Skills
 

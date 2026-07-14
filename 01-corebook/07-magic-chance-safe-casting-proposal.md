@@ -4,7 +4,7 @@
 
 ## Status
 
-**Draft for review. Not implemented in `01-corebook/07-magic.md`.**
+**Implemented in `01-corebook/07-magic.md`.** This document is retained as the design record for the casting-mode procedure. The complete spell-by-spell allocation is recorded in `01-corebook/07-magic-ribbon-audit-proposal.md`; the corebook chapter is authoritative where its final wording differs from this proposal.
 
 This proposal has two parts:
 

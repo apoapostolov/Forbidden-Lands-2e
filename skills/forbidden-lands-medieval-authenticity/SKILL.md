@@ -29,10 +29,12 @@ change real-world patterns. Trace those changes instead of ignoring them.
 
 | Need | Reference |
 | --- | --- |
-| Food, water, fire, shelter, clothing, tools, roads, animals, work | `references/material-life-and-logistics.md` |
-| Households, villages, obligation, authority, markets, custom, law | `references/settlements-law-and-obligation.md` |
-| Weapons, armor, fatigue, morale, wounds, care, aftermath | `references/violence-injury-and-care.md` |
-| Research discipline, realism dials, magic consequences, audit method | `references/authenticity-method-and-boundaries.md` |
+| Full corpus and topic routing | `references/INDEX.md` |
+| Ravenlands households, villages, authority, custom, religion, law, and daily life | `references/ravenlands/society-religion-and-daily-life.md` |
+| Ravenlands social character, Blood Mist conditioning, grief, trauma, magic, and recovery | `references/ravenlands/psychology-and-social-character.md` |
+| Food, water, shelter, clothing, roads, animals, crafts, and work | The matching document under `references/generic/` listed in `references/INDEX.md` |
+| Bitter Reach custom, law, religion, trauma, outlawry, and difficult realities | The matching document under `references/the-bitter-reach/` listed in `references/INDEX.md` |
+| Research discipline, realism dials, magic consequences, and claim boundaries | The relevant sections of this `SKILL.md` |
 
 Load only the references the scene or rule needs.
 
