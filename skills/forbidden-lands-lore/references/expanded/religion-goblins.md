@@ -549,14 +549,16 @@ morning. Some performers take the pay. Others use the allowed theft to recover
 objects passed from a cradle family.
 
 Years of settled worship can accumulate property that Eor never forbade. A
-shrine built through use can be lost to one landlord's key. Bands may strip every portable
-object and leave only a crescent cut where the next tenant will find it.
+shrine built through use can be lost to one landlord's key. Bands may strip
+every portable object and leave only a crescent cut where the next tenant will
+find it.
 
 ## Kin, Gender, and Chosen Parentage
 
 Cradle exchange separates visible half-kin, while later relations still grow. A
-goblin can have birth ties, foster parents, wolf-kinship, band elders, halfling
-connections, and children acquired through rescue or adoption.
+goblin can have birth ties and foster parents. Wolf-kinship or band elders may
+provide other bonds, alongside halfling connections and children acquired
+through rescue or adoption.
 
 At **Naming the Carriers**, a young person identifies who carried them from the
 cradle, through sickness, on the first journey, and back after the first failure.

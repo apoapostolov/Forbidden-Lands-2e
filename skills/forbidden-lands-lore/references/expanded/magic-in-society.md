@@ -705,8 +705,8 @@ safety.
 
 ### Titles
 
-Titles such as master, sister, singer, wise one, dreamer, or ironbrow may name
-lineage and office without revealing exact rank.
+Master, sister, and singer are titles that may name lineage or office without
+revealing exact rank. So may wise one, dreamer, or ironbrow.
 
 A self-awarded title invites scrutiny. A title spoken by former students carries
 different weight from one painted on a door.

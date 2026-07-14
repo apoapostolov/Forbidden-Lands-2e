@@ -250,8 +250,9 @@ Show at least one such act before war. Its failure gives conflict shape.
 
 ### The Call
 
-Muster travels by messenger, horn call, beacon, priest, market proclamation,
-clan word, written order, and household relay.
+Muster travels by messenger, horn call, or beacon. A priest may carry the call,
+or it may pass through a market proclamation. Clan word, written order, and
+household relay carry it farther.
 
 The form establishes legitimacy. A forged horn call can move bodies before
 truth catches it.
@@ -344,19 +345,19 @@ Their loyalty attaches to household and pay as much as to a banner.
 
 ### Mercenaries
 
-Mercenaries sell organized competence. Their contract, company name, internal
-discipline, camp household, and expectation of pay distinguish them from an
-armed crowd.
+Mercenaries sell organized competence. Their contract and company name
+distinguish them from an armed crowd. So do internal discipline, a camp
+household, and the expectation of pay.
 
 Late pay shifts their relation from service toward self-payment.
 
 ### Mixed Hosts
 
-Most substantial armies mix sources of force. Retainers hold a line, levy adds
-numbers, riders screen, scouts guide, specialists manage engines, and mercenaries
-cover gaps.
+Most substantial armies mix sources of force. Retainers hold a line, while levy
+adds numbers. Riders screen and scouts guide. Specialists manage engines, while
+mercenaries cover gaps.
 
-Different expectations of pay, plunder, honor, and service produce internal
+Different expectations of pay and plunder, honor and service, produce internal
 politics.
 
 ### Veterans among Levy
@@ -571,9 +572,9 @@ Routine is a form of morale.
 
 ### Camp Fire
 
-Fire cooks, warms, lights, dries, signals, and spreads. Fire discipline sets
-where a fire may burn, how large it may grow, who watches it, and when it is put
-out.
+Fire cooks and warms. It gives light, dries wet gear, and carries signals. It
+also spreads. Fire discipline sets where a fire may burn and how large it may
+grow. It names who watches the flame and when it is put out.
 
 Hidden camps eat cold or use screened flame.
 
@@ -586,8 +587,8 @@ Night access must be safe enough that soldiers do not foul nearer ground.
 
 ### Animals
 
-Animals need picket lines, guards, water sequence, fodder, grooming, and space
-away from panic or disease.
+Animals need picket lines and guards. They need an order for watering, enough
+fodder, and daily grooming. They also need space away from panic or disease.
 
 One frightened animal can wake and injure a camp.
 
@@ -721,8 +722,9 @@ The best approach can be useless if driven animals cannot follow it back.
 
 ### Breach
 
-Raiders enter through surprise, help from within, threat of fire, a weak gate, a
-climbed wall, or violence concentrated before defenders gather.
+Raiders may enter by surprise or with help from within. They may threaten fire,
+break a weak gate, or climb a wall. Others concentrate violence before
+defenders gather.
 
 Delay converts raid into battle.
 
@@ -1329,9 +1331,9 @@ Glory that leaves it abandoned is command failure.
 
 ### Baggage
 
-Wagons, stores, followers, wounded, prisoners, and animals slow retreat.
-Abandoning them may save fighters while destroying the army's future and moral
-cohesion.
+Wagons and stores slow retreat. So do followers and wounded people, prisoners
+and animals. Abandoning them may save fighters while destroying the army's
+future and moral cohesion.
 
 The decision should have a named author.
 
@@ -1482,8 +1484,9 @@ spreads burden and surveillance.
 
 ### Curfew
 
-Curfew simplifies watch. It makes birth, illness, fire response, animal care,
-secret worship, and ordinary movement grounds for arrest.
+Curfew simplifies watch. It turns birth and illness into grounds for arrest.
+Fire response and animal care become suspect as well, alongside secret worship
+or ordinary movement.
 
 Permits turn clerks into gatekeepers of necessity.
 
@@ -1694,8 +1697,9 @@ Celebration can exhaust someone still living inside alarm.
 
 ### Bodily Injury
 
-A missing limb, damaged joint, scar, chronic pain, impaired sight or hearing,
-internal injury, and weakness change work and status.
+A missing limb or damaged joint changes work and status. So do chronic pain and
+impaired sight or hearing. Scars, internal injuries, and weakness change work
+and status in other ways.
 
 Households adapt tools, tasks, space, and expectations.
 

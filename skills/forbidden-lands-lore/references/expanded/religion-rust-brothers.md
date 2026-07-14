@@ -70,7 +70,7 @@ Keep the following levels separate in description and play.
   only marked flesh can approach corruption without being deceived by it.
 - **GM information:** The order searches battle sites and demon lairs for the
   matter left by demonic manifestation, injury, or death. It carries
-  this matter to secure houses and ultimately to its central authorities. The
+  this matter to secure houses and then to its central authorities. The
   authorities examine and store it. They use what they learn while denying that
   knowledge to everyone else.
 

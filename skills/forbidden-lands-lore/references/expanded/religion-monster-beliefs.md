@@ -20,8 +20,8 @@ merely to complete a pantheon.
 Observable practice centers on water level and communal feasting ponds. Dams,
 crocodiles, and winter fat enter those practices. Trade platforms keep a strict
 peace. Saurian religion distinguishes water where outsiders may stand under
-protection from water where anything alive may be prey. The difference is marked
-with posts, smell, cut reeds, and spoken warning, not an abstract border.
+protection from water where anything alive may be prey. Posts and cut reeds mark
+the difference. So do smell and spoken warning, not an abstract border.
 
 At a **Bank Closing**, saurians inspect a dam before winter. Each family presses
 mud into one weak place and leaves a scent mark. A collapse later reveals which
@@ -532,9 +532,9 @@ Rust church reads marked bodies as election when useful and contamination when
 disobedient. Raven Sisters may see a patient and victim. Druids may see imposed
 form with living claims. Villagers may see danger before personhood.
 
-Misgrown religious life begins with jurisdiction over the body. Who may name
-it? Who may touch it, heal it, display it, recruit it, or decide that change has
-become identity? A private rite may consist only of covering a feature the
+Misgrown religious life begins with jurisdiction over the body. Who may name or
+touch it? Who may heal it or put it on display? Who may recruit the person or
+decide that change has become identity? A private rite may consist only of covering a feature the
 church demands be shown, or giving an altered limb a household name rather than
 a doctrinal one.
 
@@ -578,12 +578,14 @@ The watcher records what occurred and wakes the sleeper before making a religiou
 judgment.
 
 Scarce care gives the carer power. The only person willing to clean a hidden
-wound may demand secrecy, loyalty, sex, coin, or obedience. Fellowship law
-treats such demands as taking payment from a door no one else will open.
+wound may demand secrecy or loyalty. They may demand sex, coin, or obedience.
+Fellowship law treats such demands as taking payment from a door no one else
+will open.
 
-Medicines are shared with origin attached. Rust remedy, druidic salve, whiner
-flesh, demonic secretion, and ordinary boiled cloth do not become equivalent
-because all help. A recipient needs enough truth to choose the danger.
+Medicines are shared with origin attached. Rust remedy and druidic salve are not
+equivalent merely because both help. Whiner flesh, demonic secretion, and
+ordinary boiled cloth also remain distinct. A recipient needs enough truth to
+choose the danger.
 
 Marks can make ordinary work impossible and other work uniquely easy. A second
 arm may lift, a claw may cut, night eyes may guide. Fellowship teachers resist

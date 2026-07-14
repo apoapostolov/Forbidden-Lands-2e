@@ -630,8 +630,8 @@ as thieves. The custodians remembered every winter in which no elf came.
 
 At **Joining the Broken Survey**, two keepers walk from opposite ends of a route
 and meet where their records first disagree. They inspect the cause of the
-divergence rather than average the accounts: Mist, felling, settlement, flood,
-disease, or deliberate concealment.
+divergence rather than average the accounts. Mist or felling may have changed
+the route. So may settlement, flood, disease, or deliberate concealment.
 
 Orders reopened claims to forests that mortal villages had maintained throughout
 isolation. A Golden Bough tablet may prove an older duty without proving that

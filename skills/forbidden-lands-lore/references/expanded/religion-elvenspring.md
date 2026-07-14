@@ -143,15 +143,16 @@ gift. This disagreement has divided houses without producing a final doctrine.
 
 ### Wind, Weather, and Unheld Things
 
-Wail is the air goddess, honored by Raven Sisters, elves, Elvenspring, sailors,
-herders, millers, and any household whose roof must survive a storm. In Raven
-teaching she is the Protector's wife and bears birds through the sky. Other
-traditions make her older than the human gods and indifferent to their
+Wail is the air goddess. Raven Sisters, elves, and Elvenspring honor her. So do
+sailors and herders, millers and any household whose roof must survive a storm.
+In Raven teaching she is the Protector's wife and bears birds through the sky.
+Other traditions make her older than the human gods and indifferent to their
 marriages.
 
-Wind cannot be stored, fenced, or ordered to return. Wail governs movement
-without ownership: weather, breath, rumor, migrating birds, scent, song carried
-beyond its singer, and words sent where the speaker cannot follow.
+Wind cannot be stored, fenced, or ordered to return. Wail governs weather and
+breath without owning either. Rumor and migrating birds belong to the same
+movement, as do scent and song carried beyond its singer. So do words sent where
+the speaker cannot follow.
 Her faithful distrust claims that something moving can be possessed merely
 because it crossed one's land.
 

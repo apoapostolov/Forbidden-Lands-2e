@@ -725,17 +725,16 @@ and obedient function rather than a miniature soul.
 The master knows that identity can be extended but not multiplied without
 conflict. Rank 6 Life Bond forces several bodies to settle injury as one system.
 It must be chance cast because no boundary can fully reconcile different
-histories of pain, healing, consent, and critical injury. The bond distributes
+histories of pain and healing, consent and critical injury. The bond distributes
 damage cleanly only by creating an uncontrolled answer to the question of who
 the participants have become.
 
 ## Death Magic: The Doctrine of Severance and Remainder
 
 Death magicians teach that death severs the relations by which life maintained
-itself, rather than entering the world as a substance. Cold, decay, silence,
-age, corpse,
-ghost, and absence are different remainders of that severance. The path gains
-power by making those remainders active.
+itself, rather than entering the world as a substance. Cold and decay are
+remainders of that severance. So are silence and age, the corpse and the ghost.
+Absence is another. The path gains power by making those remainders active.
 
 ### Rank 1 — Ending Leaves Usable Conditions
 

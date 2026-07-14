@@ -362,8 +362,8 @@ matter it is allowed to remain coherent. A demon deprived of it must spend
 mog, identity, sacrifice, or local attachments to keep its body from becoming
 several incompatible things.
 
-Names, contracts, offspring, hosts, and places can act as anchors under this
-model. Starvation first produces slips of form and memory. A demon loses a
+Names and contracts can act as anchors under this model. So can offspring,
+hosts, or places. Starvation first produces slips of form and memory. A demon loses a
 borrowed voice, then a limb, then the distinction between itself and the bodies
 it consumed. This model ties Merigall's continuity mechanisms and Krasylla's
 accumulation of matter to their political value.
@@ -1678,8 +1678,8 @@ Put evidence of the burden into the scene before it matters.
 ### Emotion as Food and Craft
 
 Canon says Merigall feeds on feelings and spectacle. The appetite concerns the
-structure of emotion, whose qualities the demon can sense, compare, preserve,
-and shape.
+structure of emotion. The demon can sense and compare its qualities, then
+preserve or shape them.
 
 Merigall prefers an emotion with:
 

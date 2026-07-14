@@ -654,9 +654,9 @@ The third is the least visible and the hardest to repair.
 ### A Weekly Stronghold Rhythm
 
 The daily attention and weekly CRAFTING check required for upkeep cover many
-small acts: clearing gutters, replacing pegs, sweeping chimneys, checking
-hinges, turning stores, patching roofs, scouring vessels, carrying ash, watching
-for rot, and listening for water where no water should be. A HANDYMAN does not
+small acts. People clear gutters, replace pegs, and sweep chimneys. They check
+hinges and turn stores. They patch roofs, scour vessels, and carry ash while
+watching for rot or listening for water where none should be. A HANDYMAN does not
 perform all of this alone. The handyman notices, assigns, reminds, and finishes
 what everyone else hoped would wait.
 
@@ -728,16 +728,17 @@ continual repointing make it a public work that may outlive the authority that
 ordered it.
 
 **Fort.** A fort joins several households and a guardable perimeter. Its daily
-problem is coordination: gates, watch, fuel, sanitation, stores, and repair must
-answer to one schedule.
+problem is coordination. Gates and watches must answer to the same schedule as
+fuel, sanitation, stores, and repair.
 
 **Fortress.** A fortress consumes food and labor from beyond its walls. Empty
-rooms do not defend themselves. Each gate, stair, roof, cistern, and wall walk
-adds inspection and another place where divided authority can hide neglect.
+rooms do not defend themselves. Each gate and stair adds an inspection. So does
+each roof, cistern, or wall walk. Divided authority can hide neglect in any of
+them.
 
 **Castle.** A castle is a settlement under one defensive design. Kitchens,
-stables, housing, craft, worship, storage, waste, and command all compete for
-space. Its walls advertise a claim large enough to attract siege, tribute,
+stables, and housing compete for space. So do craft and worship, storage and
+waste, and the needs of command. Its walls advertise a claim large enough to attract siege, tribute,
 petition, and inheritance dispute.
 
 **Palace.** A palace converts surplus into ceremony, access, hospitality, and
@@ -761,15 +762,16 @@ and who was beneath it when it fell.
 
 ## The Stronghold Functions in Lived Use
 
-Book 01 supplies each function's requirements, materials, times, staff, yields,
-and effects. The entries below retain those values. Their construction crews
+Book 01 supplies each function's requirements, materials, and times. It also
+sets staff, yields, and effects. The entries below retain those values. Their construction crews
 are campaign estimates for imagining the work. They neither shorten the listed
 time nor grant extra CRAFTING rolls. Each crew includes the builder or
-responsible specialist. The other hands haul, dig, lift, and prepare.
+responsible specialist. The other hands haul and dig. They also lift and prepare.
 
 The **keep** line names the people required for the function to remain useful.
 This is separate from general stronghold upkeep. A HANDYMAN can patch a roof or
-reset a hinge, but cannot serve as miller, healer, herder, smith, or priest.
+reset a hinge, but cannot replace a miller or healer. Nor can one stand in for a
+herder, smith, or priest.
 Seasonal helpers need not be permanent hirelings. They are often residents
 called through wages, household duty, reciprocal labor, or the promise of food.
 
