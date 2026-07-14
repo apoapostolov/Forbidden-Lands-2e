@@ -11,6 +11,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- **`/forbidden-lands-lore` — demons, mog, and Churmog.** Added a
+  full-spoiler GM study of demonic metaphysics, ether, nexuses, demon bodies,
+  hierarchy, concealment, inter-demon politics, investigation, mog countercraft,
+  bargains, contracts, binding, banishment, and discoverable weaknesses. It
+  distinguishes manuscript facts from inference and community theories, and
+  gives Merigall a detailed campaign profile for psychology, mannerisms, first
+  impressions, restrained appearances, plot roles, parley, manipulation,
+  investigation, public exposure, pursuit, and multiple forms of defeat.
+
 - **Book 01 — Corebook, casting modes.** Added voluntary chance casting and
   spell-specific risk-and-reward effects across every magical discipline.
   Players can invite a guaranteed mishap for a situational advantage, while
@@ -64,14 +73,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   scouting, equipment care, crafts, production, trade, and the practical limits
   of tools and labor.
 
-- **`/forbidden-lands-medieval-authenticity` — society and psychology.** Added
-  references for households, barter, customary law, religion, leadership,
-  fear, trauma, violence, care, and outlawry across the Ravenlands and Bitter
-  Reach. A dedicated Ravenlands religion reference develops Raven and Wyrm
-  duality, the Older Gods, kin faiths, ceremonies, dogmas, and anathemas. GMs
-  can also portray Rust and Heme rule through cult ranks, ordination, coerced
+- **`/forbidden-lands-lore` — Ravenlands society, psychology, and religion.**
+  Added an expanded campaign-lore corpus for households, customary law,
+  religion, leadership, fear, trauma, violence, care, and social life. Separate
+  religion references give every core kin full treatment of
+  authority, daily observance, life-cycle rites, death, internal disputes,
+  dogmas, anathemas, and visible evidence for play; monster beliefs remain
+  grouped with clear limits on outsider knowledge. Halfling religion now
+  grounds marriage pressure and childhood training in the divided cradle,
+  while wolfkin religion treats pack life as the defense against hunt-madness
+  after isolation or pack death. Dwarven culture now includes Stonegarden's
+  five-day clan gathering held once every two years, with religious
+  observances, competitive games, inter-kin peace rites, an all-clan bazaar,
+  and permanent annals. GMs can
+  also portray Rust and Heme rule through cult ranks, ordination, coerced
   household practice, religious law, selective punishment, knowledge seizure,
   and demonic secrecy.
+
+- **`/forbidden-lands-medieval-authenticity` — Bitter Reach society and
+  custom.** Added references for daily life, trade, guest law, religion,
+  trauma, violence, care, thralldom, and outlawry in the frozen north.
 
 ### Changed
 

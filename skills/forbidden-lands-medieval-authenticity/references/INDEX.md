@@ -2,18 +2,13 @@
 
 Master cross-reference for all reference documents.
 
-## Ravenlands-Specific Content
+## Ravenlands Campaign Lore
 
-Use these references when the task concerns the core Forbidden Lands setting.
-They apply the generic corpus to the history, peoples, religions, supernatural
-conditions, and social development described in Book 02.
-
-| Document | Lines | Focus |
-| --- | ---: | --- |
-| [society-religion-and-daily-life.md](ravenlands/society-religion-and-daily-life.md) | 798 | Households, villages, authority, law, hospitality, kin, faith, burial, festivals |
-| [religions-rites-beliefs-and-anathemas.md](ravenlands/religions-rites-beliefs-and-anathemas.md) | 1474 | Protector duality, gods, kin faiths, rites, dogmas, and anathemas |
-| [psychology-and-social-character.md](ravenlands/psychology-and-social-character.md) | 751 | Blood Mist conditioning, trust, identity, grief, trauma, magic, recovery |
-| [rust-brothers-fear-doctrine-and-control.md](ravenlands/rust-brothers-fear-doctrine-and-control.md) | 1739 | Rust and Heme ranks, rites, doctrine, anathemas, terror, and demonic secrecy |
+Ravenlands society, psychology, religion, kin custom, and personal campaign
+lore now belong to `forbidden-lands-lore`. Load the
+[Ravenlands Campaign Lore Index](../../forbidden-lands-lore/references/ravenlands/INDEX.md)
+for the complete corpus and topic routing. Use this skill's generic references
+only when the Ravenlands task requires a historical or material baseline.
 
 ## Generic Medieval Content
 
@@ -77,10 +72,6 @@ Maximum 1800 lines per document. Current status:
 - `psychological-trauma.md` (The Bitter Reach): 268 lines (15%)
 - `uncomfortable-realities.md` (The Bitter Reach): 619 lines (34%)
 - `outlawry.md` (The Bitter Reach): 785 lines (44%)
-- `society-religion-and-daily-life.md` (Ravenlands): 798 lines (44%)
-- `religions-rites-beliefs-and-anathemas.md` (Ravenlands): 1474 lines (82%)
-- `psychology-and-social-character.md` (Ravenlands): 751 lines (42%)
-- `rust-brothers-fear-doctrine-and-control.md` (Ravenlands): 1739 lines (97%)
 
 ## Companion Skills
 

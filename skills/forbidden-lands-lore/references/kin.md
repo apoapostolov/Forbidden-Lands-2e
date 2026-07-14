@@ -364,6 +364,15 @@ Bitch"**, both great warriors. Black armor; heavy axes; armored
 **war hounds**. Some Canide nobles in Stonegarden are secretly
 contacting the **Urhur orc clan** for an anti-human alliance.
 
+Once every two years the Canides host a five-day **Veneration of
+the Earth** in the Stone Gardens. The Belderranians, Meromannians,
+Canides, and Crombes send several contestants to games of craft,
+combat, art, and sung wit, then each elects one champion for two
+semifinals and a final. The gathering also holds an all-clan
+bazaar, settles interclan obligations, renews peace with invited
+leaders of other kin, and adds a full annal to the Stonegarden
+libraries. Elven leaders are frequent guests.
+
 **Typical Canide:**
 
 - STR 5, AGI 3, WIT 2, EMP 2

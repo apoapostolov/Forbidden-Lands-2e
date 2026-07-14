@@ -32,14 +32,14 @@ repeatedly rewarded, punished, and made possible.
 
 ## See Also
 
-- [Society, Religion, and Daily Life](society-religion-and-daily-life.md)
-- [Rust Brothers: Fear, Doctrine, and Control](rust-brothers-fear-doctrine-and-control.md)
-- [Generic Psychological Trauma](../generic/psychological-trauma.md)
-- [Morale, Fear, and Leadership](../generic/morale-fear-leadership.md)
-- [Equipment and Health Maintenance](../generic/equipment-health-maintenance.md)
-- [Forbidden Lands Lore — History](../../../forbidden-lands-lore/references/history.md)
-- [Forbidden Lands Lore — Gods](../../../forbidden-lands-lore/references/gods.md)
-- [Forbidden Lands Lore — Kin](../../../forbidden-lands-lore/references/kin.md)
+- [Society and Daily Life](society-and-daily-life.md)
+- [Rust Brothers: Fear, Doctrine, and Control](religion-rust-brothers.md)
+- [Generic Psychological Trauma](../../../forbidden-lands-medieval-authenticity/references/generic/psychological-trauma.md)
+- [Morale, Fear, and Leadership](../../../forbidden-lands-medieval-authenticity/references/generic/morale-fear-leadership.md)
+- [Equipment and Health Maintenance](../../../forbidden-lands-medieval-authenticity/references/generic/equipment-health-maintenance.md)
+- [Forbidden Lands Lore — History](../history.md)
+- [Forbidden Lands Lore — Gods](../gods.md)
+- [Forbidden Lands Lore — Kin](../kin.md)
 
 ---
 
@@ -200,7 +200,7 @@ The church exploits that ambivalence through selective terror. It preserves the
 village, chooses a victim whose punishment will be widely felt, and leaves the
 survivors to enforce the new order. People then fear one another's testimony,
 their own past compromises, and the sound of iron on the road. See [Rust
-Brothers: Fear, Doctrine, and Control](rust-brothers-fear-doctrine-and-control.md)
+Brothers: Fear, Doctrine, and Control](religion-rust-brothers.md)
 for the order's cultivated strangeness, recruitment of marked bodies, demonic
 secrecy, and psychology of disciplined cruelty.
 
@@ -469,6 +469,32 @@ birth threatens parentage, household status, religious teaching, and the safety
 of a cradle. Characters may sincerely love relatives whose existence they deny
 in public.
 
+Halfling marriage doctrine turns that secrecy toward the future. Families
+believe the right joining guarantees a halfling child and spares them the goblin
+birth that must be carried away. Their evidence consists of public lineages
+from which every contrary birth has been removed. Success confirms the match;
+failure proves that someone lied, neglected a rite, or chose badly.
+
+This belief makes childhood a household project. A promising child receives
+tutors, guarded companions, measured meals, rehearsed conversation, and years
+of correction intended to win a favored spouse. The care can be loving and
+still consume the child. Parents describe lost play, privacy, friendship, and
+choice as sacrifices made for descendants. The child is expected to repay them
+by accepting the marriage those sacrifices purchased.
+
+Strain appears through overprepared behavior. A young halfling answers ordinary
+questions as though elders were scoring the reply, hides scratches that might
+start gossip, or asks permission before taking food in their own house. Another
+becomes expert at maintaining two courtships, three stories, and no honest
+confidence. A sibling judged a poor prospect may be neglected while every
+resource goes to the child who can raise the household's standing.
+
+Parental ambition has a social field in which to act. Matchmakers sell access
+while calling it advice. Tutors accept exclusive seasons. Grandparents trade
+old accusations. Rival households damage a child's name and then offer a less
+favorable union as rescue. Cruelty can remain exceptional within a system that
+rewards the parent willing to go farther than the neighbors.
+
 ### Wolfkin: Forest Safety and Open-Space Fear
 
 Wolfkin could move through forest Mist but not across open ground. Agoraphobia
@@ -476,10 +502,44 @@ therefore has both direct supernatural history and learned transmission. A
 wolfkin can be fearless in close forest and visibly distressed on a treeless
 plain without inconsistency.
 
-Pack music, hunting ritual, scent, and shared movement regulate group emotion.
-Separation from the pack can remove those stabilizing structures. Settled people
-may interpret the resulting agitation as proof of savagery rather than loss of
-the wolfkin's ordinary social environment.
+Pack music, hunting ritual, scent, and shared movement preserve more than group
+emotion. Wolfkin judgment is reciprocal. Others answer the name, correct the
+track, divide the kill, interrupt the chase, and remember the person outside
+the present scent. Prolonged separation removes each of these supports.
+
+The first danger is liminal. A solitary wolfkin does not experience the forest
+as shelter merely because trees surround them. Without a known voice or scent,
+the path ceases to have a social direction. Clearings feel wider than their
+measured span. The canopy opens into exposure, while the repeating trunks offer
+too many ways forward and no witnessed way home. Some hide under brush. Others
+run because movement gives the body a boundary that place no longer provides.
+
+Early descent into hunt-madness can look like stubborn ritual. The wolfkin lays
+food for absent companions, calls names into empty trees, follows a weak track
+past good judgment, or ties their bedding to a companion newly met. These acts
+are efforts to preserve the missing pack. Ridicule, confinement, or renewed
+isolation tears away what remains.
+
+When the descent becomes complete, attention narrows to quarry. Skill remains,
+including memory of terrain and the habits of former kin, but conscience,
+future need, oath, and mutual recognition no longer restrain pursuit. A kill
+and feast bring only a short pause before another scent takes hold. The
+hunt-mad usually die against armed prey or terrain their former judgment would
+have refused.
+
+Wolfkin treat this as shame and bereavement, never as the proud unveiling of a
+truer beast. Families may conceal the early signs because they fear outsiders
+will confirm their worst stories about the kin. That concealment can cost the
+brief period in which pack contact still helps. Once recognition is gone, a
+former pack may have to hunt the body with every private route and childhood
+call it once trusted them to know.
+
+Pack death creates immediate psychological and social danger. A sole survivor
+is placed inside another pack's food circle, watch, sleep, and evening call even
+when the packs were enemies. Refusal is remembered as abandonment because the
+refusing pack knew what solitude would make. Human captors who isolate a
+wolfkin and then display the resulting frenzy repeat the same cruelty while
+claiming to have discovered a natural beast.
 
 ---
 

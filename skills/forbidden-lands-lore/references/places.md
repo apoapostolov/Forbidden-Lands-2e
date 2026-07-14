@@ -303,8 +303,12 @@ west.
   beneath. Site of a secret Canide-Urhur diplomatic channel.
   The **Stone Gardens** are gem-lit cave promenades open to
   pilgrims during the **Veneration of the Earth** festival —
-  the dwarves' annual celebration of their origin-place, attended
-  by all clans except the Crombe. Below the catacombs, a gate
+  a five-day gathering of the four surface clans held once every two
+  years. It combines worship of Huge, interclan judgments, two days
+  of games, a bazaar of dwarven work, foreign diplomacy, and the
+  keeping of a new annal in the Stonegarden libraries. Leaders of
+  other kin are often invited, especially elves when an old peace
+  must be repaired. Below the catacombs, a gate
   leads to the **deep structures**: elder underground layers
   1000m or more below the surface, home of the dwelvers, the
   imprisoned dragon Scarne, and sun caves filled with rolling

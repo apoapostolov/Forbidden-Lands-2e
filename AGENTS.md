@@ -18,10 +18,11 @@
   combine, stack, renew resources, alter authority, or affect campaign play.
 - Monsters, human enemies, beasts, demons, encounters, Lore Rolls, salvage:
   `/forbidden-lands-bestiary`.
-- Canon, chronology, places, kin, factions, religion, and regional continuity:
+- Canon, chronology, places, kin, factions, religion, regional continuity, and
+  Ravenlands-specific society, psychology, custom, or personal campaign lore:
   `/forbidden-lands-lore`.
-- Premodern survival, work, material culture, custom, faith, violence, care, or
-  psychology: `/forbidden-lands-medieval-authenticity`.
+- Generic premodern survival, work, material culture, historical custom,
+  violence, care, or psychology: `/forbidden-lands-medieval-authenticity`.
 - Final manuscript wording, rules voice, examples, and GM-facing situations:
   `/forbidden-lands-writing-voice`.
 - Engine-independent YZE construction or comparison: `/yze-design`.

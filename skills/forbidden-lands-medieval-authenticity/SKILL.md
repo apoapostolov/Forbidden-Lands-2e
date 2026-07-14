@@ -30,10 +30,7 @@ change real-world patterns. Trace those changes instead of ignoring them.
 | Need | Reference |
 | --- | --- |
 | Full corpus and topic routing | `references/INDEX.md` |
-| Ravenlands households, villages, authority, custom, religion, law, and daily life | `references/ravenlands/society-religion-and-daily-life.md` |
-| Ravenlands gods, Raven and Wyrm duality, kin faiths, rites, dogmas, and anathemas | `references/ravenlands/religions-rites-beliefs-and-anathemas.md` |
-| Ravenlands social character, Blood Mist conditioning, grief, trauma, magic, and recovery | `references/ravenlands/psychology-and-social-character.md` |
-| Rust Brothers, Rust and Heme doctrine, selective terror, demonic secrecy, and settlement fear | `references/ravenlands/rust-brothers-fear-doctrine-and-control.md` |
+| Ravenlands society, psychology, religions, kin customs, and personal campaign lore | Load `forbidden-lands-lore` and `../forbidden-lands-lore/references/ravenlands/INDEX.md` |
 | Food, water, shelter, clothing, roads, animals, crafts, and work | The matching document under `references/generic/` listed in `references/INDEX.md` |
 | Bitter Reach custom, law, religion, trauma, outlawry, and difficult realities | The matching document under `references/the-bitter-reach/` listed in `references/INDEX.md` |
 | Research discipline, realism dials, magic consequences, and claim boundaries | The relevant sections of this `SKILL.md` |

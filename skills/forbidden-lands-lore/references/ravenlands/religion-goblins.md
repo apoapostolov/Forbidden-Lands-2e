@@ -1,0 +1,294 @@
+<!-- markdownlint-disable MD013 MD024 -->
+
+# Goblin Religion of the Ravenlands
+
+This reference develops goblin worship of Eor through moonlit movement, theft, hunting, cradles, halfling kinship, deception, and resistance to Penita reunion. Eor, the divided kin, and cradle customs are manuscript facts. Detailed rites are grounded setting inference.
+
+---
+
+## Eor
+
+### Moon, Deception, and the Divided Kin
+
+Eor is the moon goddess of lies, hidden meanings, jealousy, and shame. Her blue
+moonstones gave rise to the beings later divided into halflings and goblins.
+She turns her face away each month. Both halves worship her: goblins openly,
+halflings behind domestic respectability.
+
+Eor's faithful do not teach that every lie is holy. A useful lie reveals which
+truths are dangerous, who claims the right to know, and what the speaker will
+risk to preserve. Goblins praise deception that secures freedom, prey, or kin.
+Halflings often bless the lie that keeps the cradle and the household facade
+apart. Penita priests call both practices symptoms of a division that must end.
+
+The moon's change gives the cult its moral grammar. No face is complete at all
+times. What is hidden still shapes what is shown. Shame can protect a boundary,
+but shame fed too long becomes cruelty toward the person who exposes it.
+
+### Cradle Faith and Daily Practice
+
+The hidden cradles are the strongest Eor institutions. Halfling and goblin
+mothers, earth mothers, and shamans cooperate where public custom insists the
+half-kin remain separate. Fathers guard outside and accept children without
+certainty of descent. The rite makes social parenthood stronger than proof of
+blood while concealing the fact from much of daily life.
+
+Halfling households keep harmless-looking lunar customs: round loaves cut only
+after moonrise, shutters closed during certain births, blue stones hidden in
+garden walls, and a cup left under the table rather than on it. Goblins turn
+similar acts outward with moon-painted masks, stolen silver, and sacrifices
+made where the sky is visible.
+
+An object taken by a goblin may be shown to Eor before use. The thief names who
+believed they owned it and how the taking was done. A dull theft from someone
+unable to resist brings little honor. A theft that exposes hoarding, false
+security, or a broken bargain becomes a story.
+
+### Rites and Ceremonies
+
+**The Cradle Exchange** transfers newborns to mothers of their visible half-kin.
+No public record names the biological mother. Witnesses remember health,
+feeding, and obligations instead. The secrecy protects the children and gives
+cradle keepers immense power over identity.
+
+**The Two Faces** occurs at full and dark moon. At full moon, a person states a
+public reputation they must maintain. At dark moon, before a smaller trusted
+circle, they name what the reputation conceals. The second statement does not
+automatically excuse the first.
+
+**Eor's Misrule** permits a bounded night of exchanged clothing, false names,
+borrowed offices, riddling judgment, and thefts that must be returned by dawn.
+The rite exposes resentment without promising safety. A powerful halfling may
+learn what the village says when the speaker's face is hidden.
+
+**Penita Seeking** sends moon-priests after the lost blue stones. Before leaving,
+a seeker names which present kinship they are willing to undo for restoration.
+Many cannot answer. Goblins oppose the quest because reunion defined by Penita
+may erase the lives the divided kin have built.
+
+### Anathemas
+
+Eor worship condemns betraying a cradle to outsiders, claiming certainty of
+fatherhood to seize a child, using a protected confession from the dark-moon
+rite as common gossip, and telling a lie that places all risk on someone who did
+not consent to carry it.
+
+Halfling orthodoxy may treat public admission of goblin kinship as dangerous
+indecency. Goblins treat denial of a halfling in mortal danger as the worse
+offense. Penita condemn deliberate destruction of a moonstone or refusal even
+to consider reunion. The three positions cannot all govern the same crisis.
+
+---
+
+## Eor beneath the Open Sky
+
+Goblins do not hide Eor. They paint masks, raise stolen silver to moonlight,
+give sacrifices where the sky can see them, and schedule movement by the pain
+daylight causes their eyes. Concealment remains holy, but concealment is a tool
+rather than a public virtue.
+
+Eor's monthly turning teaches that possession, face, camp, and advantage change.
+A thing held now may have another claimant tomorrow. Goblins distrust laws that
+freeze one person's good fortune into permanent right.
+
+This does not abolish ownership. Wolves, weapons, stored food, routes, sleeping
+places, and promises all have recognized claims. Goblin ownership depends upon
+use, defense, exchange, memory, and the ability to answer another claimant. A
+locked chest left untouched for twenty years proves a lock, not a moral truth.
+
+## Religious Authority
+
+Bands recognize moon-shamans, cradle keepers, hunt leaders, wolf handlers,
+story keepers, and people skilled at dividing stolen goods without dividing
+the band. Authority changes with the task.
+
+A shaman who reads Eor but cannot find shelter before dawn is incomplete. A
+hunter who brings prey but starts a feud no one can escape is judged through
+the cost. Goblin religion respects successful cunning and remains alert to the
+trickster who lets companions pay for the success.
+
+Cradle shamans cross band boundaries. Their safe passage depends on halfling
+cooperation, remembered exchanges, and the shared fear that outsiders might
+find a cradle. A band may rob a rival and still guard its pregnant traveler.
+
+## Moon, Night, and Camp Order
+
+Camp wakes before sunset. Eyes, wolf tack, weapons, water, and escape paths are
+checked while light remains tolerable. The first moon-view belongs to whoever
+stood the day watch, an uncomfortable post that brings poor sleep and physical
+pain.
+
+At **Opening the Night**, that watcher reports tracks, smoke, voices, birds,
+weather, and every object moved while others slept. The band then decides what
+face it presents: hunter, courier, trader, raider, pilgrim, or absence.
+
+Dark moon favors concealment, full moon distance and fast movement. Neither is
+automatically lucky. Full light reveals the rider to prey. No moon conceals the
+ditch as well as the hunter.
+
+Goblins mark sleeping places lightly. A camp meant for return receives a hidden
+blue stone or crescent cut below eye height. A camp abandoned under threat is
+left with a false trail and one truthful warning for kin.
+
+## Theft, Gift, and Proof
+
+Before using a taken object, a goblin may tell Eor its former claimant and the
+method of taking. The story lets listeners judge whether the act exposed
+hoarding, defeated vigilance, broke guest law, or merely preyed on someone
+helpless.
+
+At **The Third Claim**, valuable spoils receive three accounts: the taker's,
+the former holder's if known, and the band's. A shaman may assign use without
+declaring final ownership. A stolen healing tool can be returned after it saves
+a goblin life, sold, or held as compensation for another wrong.
+
+Theft from a guest, cradle, shared water, or person under surrender is usually
+condemned because the act destroys a relation more useful than the object.
+Bands that ignore these limits soon find every meeting armed.
+
+Staged theft carries goods between goblins and halflings. Everyone may know the
+medicine was left deliberately. Naming it a theft protects the halfling's public
+face and the goblin's refusal of charity.
+
+## Hunting and Intelligent Prey
+
+Goblins hunt animals and may hunt speaking kin. Religion places limits through
+status rather than species. A named guest, messenger, cradle traveler, sworn
+ally, or person under exchange cannot become prey without a declared breach.
+
+At **Naming the Quarry**, the hunt leader states what is being hunted and why.
+“Meat” is insufficient when the quarry can speak. The leader must name injury,
+need, war, ransom, or appetite. The requirement does not make the hunt just. It
+makes the purpose available for challenge.
+
+Some bands forbid eating people whose names they know. Others hold that a name
+creates obligation only when exchanged freely. Hungry goblins are skilled at
+not asking.
+
+Waste after a kill insults Eor because it exposes a failed deception: the band
+claimed need and hunted for excitement. Hide, sinew, bone, teeth, fat, and
+equipment must be assigned before boasting begins.
+
+## Wolves and the Moon Road
+
+Riding wolves are companions, breeding stock, weapons, and hungry dependents.
+They are not interchangeable mounts. Handlers keep descent, temperament,
+injury, and who may approach each animal.
+
+At **Sharing the Shadow**, a young goblin walks beside a chosen wolf for three
+nights before riding. Food and pace are shared. If the wolf refuses the goblin
+at the end, another pairing is attempted. Chiefs who force valuable animals
+under unsuitable heirs lose wolves and riders together.
+
+Dead wolves may be skinned, buried, eaten, or left according to band practice.
+Wearing a companion's hide can be honor or theft. The handler's claim is heard
+before the pelt is cut.
+
+## Birth and the Cradle
+
+Goblins enter hidden cradles under the same law as halflings. Inside, public
+distinction falls away. A goblin mother may bear a halfling child and leave with
+a goblin infant born to someone she never meets again outside the sanctuary.
+
+Fathers guard the approaches without demanding proof. A goblin who breaks the
+rule can expose several bands, villages, and children. Suspicion is endured
+because certainty costs too much.
+
+At **Moon Receiving**, a returned parent shows the infant to direct moonlight
+when health permits. The parent names the people who guarded the route rather
+than naming biological descent. Kinship begins with who carried risk.
+
+Children showing halfling habits are teased, protected, or sent toward village
+life depending on the band. The choice can save a child from hunger and teach
+the child that belonging was conditional.
+
+## Names and Adult Standing
+
+Goblins collect names for different dealings. A camp name must be easy to call.
+A trade name protects the band. A cradle name may reveal connection to a
+halfling line. A stolen title mocks someone who thought rank could not be taken.
+
+At **The Name Returned**, an adolescent uses a false name during a bounded
+journey, bargain, or hunt. On return, the band names which acts belong to the
+person despite the mask. The rite teaches that deception changes evidence but
+does not erase responsibility.
+
+Adult standing requires bringing something back: food, news, a living companion,
+a route, an object, or a warning. A raid that returns with loot and no account
+of the enemies made is unfinished.
+
+## Partnership and Band Loyalty
+
+Partnership is witnessed through shared route and divided danger. Partners may
+exchange one useful object, then spend a month using the other's. Damage must
+be reported before it is discovered.
+
+Band loyalty does not require permanent residence. Couriers, scouts, and cradle
+travelers leave often. It requires maintaining the route by which one can be
+found and naming dangers drawn toward the band.
+
+Jealousy is attributed to Eor but not excused by her. A lover who steals a
+partner's wolf, weapon, or path to prevent departure has confused relation with
+possession.
+
+## Death and Hidden Continuity
+
+The dead are searched by two people. One lists property and visible wounds.
+The other records hidden pockets, false names, messages, and obligations that
+could endanger the band. Looting before this account is grave theft.
+
+At **The Last Theft**, one small object belonging to the dead is placed where a
+stranger will find it. The finder unknowingly carries the dead person's trace
+into another story. Bands disagree over whether a stolen object may be used;
+some insist the final gift must have been honestly owned.
+
+A dead goblin's halfling connections are warned indirectly. A tool appears on
+a sill. A tavern sign is turned. A cradle keeper receives half a blue bead.
+Public mourning would expose the relation the warning protects.
+
+## Penita and the Threat of Reunion
+
+Goblins usually oppose Penita. Restoration of the moonstones promises to join
+the divided kin, but no priest can state whose body, habits, memories, villages,
+or night sight would survive the joining.
+
+To goblins, the Penita error is treating origin as ownership. The lost being
+may explain both kin without having a right to consume them. A moonstone seeker
+can still earn goblin aid when the stone threatens a cradle or an enemy would
+use it first.
+
+Some goblins desire reunion privately. They may be tired of daylight pain,
+hunger, pursuit, or halfling denial. Their hope is real. So is the suspicion
+that Penita will call every present goblin trait a stain removed by healing.
+
+## Fault, Repair, and Anathema
+
+Repair requires returning the object, replacing its use, warning those exposed,
+sharing the danger created, or telling the corrected story before the same
+listeners who praised the first.
+
+Grave breaches include betraying a cradle, hunting a protected guest, stealing
+the band's means of escape, claiming another's wolf through rank alone, denying
+a halfling in mortal danger solely to preserve public contempt, and telling a
+lie whose cost falls entirely on someone denied the truth.
+
+Goblins admire deception enough to understand its workmanship. A bad lie is
+not sinful because it failed. It is sinful when the liar never planned how the
+band would survive discovery.
+
+## Evidence at the Table
+
+Show goblin worship through a stolen cup raised to moonlight before use, a wolf
+pairing delayed because the animal refused, three competing claims spoken over
+one knife, a trade parcel arranged to look stolen, or a day watcher whose first
+words at dusk determine the band's route.
+
+Religious conflict should concern the status of prey, a betrayed cradle, a
+moonstone that may erase the divided kin, or a theft that exposed hoarding and
+also broke guest law.
+
+## See Also
+
+- [Halfling Religion](religion-halflings.md)
+- [Religion Reference Index](religions-rites-beliefs-and-anathemas.md)
+- [Forbidden Lands Lore — Kin](../kin.md)

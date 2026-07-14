@@ -1,6 +1,6 @@
 ---
 name: forbidden-lands-lore
-description: Verify, organize, or extend Forbidden Lands 2E setting truth. Use for geography, chronology, peoples, kin, gods, cults, magic traditions, monsters, artifacts, settlements, named characters, regional identity, campaign public lore, tone, anachronisms, and sandbox-facing rumors or factions. Trigger whenever prose or game content makes a factual claim about the Ravenlands, Bloodmarch, or Bitter Reach.
+description: Verify, organize, or extend published and campaign-created Forbidden Lands 2E lore. Use for geography, chronology, peoples, kin, gods, cults, religions, psychology, society, customs, magic traditions, monsters, artifacts, settlements, named characters, regional identity, personal campaign truths, tone, and sandbox-facing rumors or factions. Trigger whenever prose or game content makes a factual or campaign-lore claim about the Ravenlands, Bloodmarch, or Bitter Reach.
 ---
 
 # Forbidden Lands Lore
@@ -88,6 +88,62 @@ author decisions.
   adventure site locations (Vond, Eye of the Rose, Pelagia,
   Stoneloom Mines, Haggler's House, Ravenhole, Grindbone).
 
+## Ravenlands Campaign Lore
+
+The Ravenlands library in `references/ravenlands/` is the user's expanded
+campaign corpus. It was created by a professional Game Master preparing and
+running an enlarged Forbidden Lands campaign. The files mix published canon,
+manuscript facts, grounded setting inference, local or contested belief,
+historical models, community theory, and personal campaign lore.
+
+Treat established personal lore as authoritative for this campaign without
+calling it Free League canon. Preserve its depth, detail, and writing voice.
+Do not replace it with summaries, generic templates, cleaned-up approximations,
+or a canon-only rewrite. When provenance affects an answer, state which claim
+level applies.
+
+- `references/ravenlands/INDEX.md`
+  Authority notice and complete topic routing for the Ravenlands campaign
+  corpus. Load it when a request spans several kin, religions, or social
+  systems.
+- `references/ravenlands/society-and-daily-life.md`
+  Households, villages, authority, law, hospitality, kin, burial, labor, and
+  festivals.
+- `references/ravenlands/psychology-and-social-character.md`
+  Blood Mist conditioning, trust, kin identity, grief, trauma, magic, and
+  recovery.
+- `references/ravenlands/religions-rites-beliefs-and-anathemas.md`
+  Cross-kin religion routing, claim levels, common questions, and the
+  equal-depth standard.
+- `references/ravenlands/religion-humans.md`
+  Raven and Wyrm, human churches and heresies, Older Gods, rites, dogmas, and
+  anathemas.
+- `references/ravenlands/religion-elves.md`
+  Red Wanderer, rubies, restoration, Clay, druidic orders, and long memory.
+- `references/ravenlands/religion-elvenspring.md`
+  Mixed descent, mortal time, Clay, Shardmaiden, orders, Frailers, and memorial
+  practice.
+- `references/ravenlands/religion-dwarves.md`
+  Huge, World Expansion, Stonegarden gatherings, reincarnation, maintenance,
+  and clan readings.
+- `references/ravenlands/religion-orcs.md`
+  Abandonment, the Unabandoned, command, women's authority, trial, clan
+  practice, and enslavement.
+- `references/ravenlands/religion-halflings.md`
+  Eor, cradles, marriage doctrine, childhood training, protected secrecy, and
+  Penita.
+- `references/ravenlands/religion-goblins.md`
+  Eor, moon travel, changing claims, theft law, hunting status, wolves, and
+  cradles.
+- `references/ravenlands/religion-wolfkin.md`
+  Huntress worship, pack law, forest refuge, hunt-madness, foster claim, blood,
+  and music.
+- `references/ravenlands/religion-monster-beliefs.md`
+  Saurian, ogre, whiner, and Misgrown beliefs with limits on outsider claims.
+- `references/ravenlands/religion-rust-brothers.md`
+  Rust and Heme ranks, rites, doctrine, anathemas, selective terror,
+  information control, settlement fear, and demonic secrecy.
+
 ## Campaign Files
 
 Bundled campaign references live in `campaigns/`. Each campaign
@@ -105,6 +161,17 @@ artifact powers, and outcome paths.
   Ravenhole, Amber's Peak, Eye of the Rose, Pelagia, Stonegarden,
   Stoneloom Mines, Haggler's House, Vond), all four campaign
   artifacts, and the full range of campaign outcomes.
+
+- `campaigns/demons-mog-churmog-and-merigall.md`
+  Full-spoiler GM study of demons across Books 01–03 and
+  **Raven's Purge**. Covers mog and Churmog metaphysics,
+  ether and nexuses, demon families, hierarchy, concealment,
+  inter-demon politics, field investigation, parley, contracts,
+  binding, banishment, discoverable weaknesses, community theories,
+  and an extensive operational profile of Merigall covering psychology,
+  mannerisms, bounded appearances, campaign roles, public exposure,
+  counterplay, and defeat. Load it for demonology, demonic magic, mog,
+  Churmog, the Demon Flood, or Merigall.
 
 ### Spoiler Handling Protocol
 

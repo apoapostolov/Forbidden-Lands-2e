@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD013 -->
 
-# Rust Brothers: Fear, Doctrine, and Control
+# Religion of the Rust Brothers: Fear, Doctrine, and Control
 
 **Category:** Ravenlands-specific — institutional religion, selective terror,
 demonic secrecy, and the social consequences of Rust and Heme rule.
@@ -42,14 +42,14 @@ subjects through consequence and witness. Graphic detail is seldom needed.
 
 ## See Also
 
-- [Society, Religion, and Daily Life](society-religion-and-daily-life.md)
-- [Religions: Rites, Beliefs, and Anathemas](religions-rites-beliefs-and-anathemas.md)
+- [Society and Daily Life](society-and-daily-life.md)
+- [Religion Reference Index](religions-rites-beliefs-and-anathemas.md)
 - [Psychology and Social Character](psychology-and-social-character.md)
-- [Equipment and Health Maintenance](../generic/equipment-health-maintenance.md)
-- [Morale, Fear, and Leadership](../generic/morale-fear-leadership.md)
-- [Uncomfortable Realities](../generic/uncomfortable-realities.md)
-- [Forbidden Lands Lore — Gods](../../../forbidden-lands-lore/references/gods.md)
-- [Forbidden Lands Lore — History](../../../forbidden-lands-lore/references/history.md)
+- [Equipment and Health Maintenance](../../../forbidden-lands-medieval-authenticity/references/generic/equipment-health-maintenance.md)
+- [Morale, Fear, and Leadership](../../../forbidden-lands-medieval-authenticity/references/generic/morale-fear-leadership.md)
+- [Uncomfortable Realities](../../../forbidden-lands-medieval-authenticity/references/generic/uncomfortable-realities.md)
+- [Forbidden Lands Lore — Gods](../gods.md)
+- [Forbidden Lands Lore — History](../history.md)
 
 ---
 

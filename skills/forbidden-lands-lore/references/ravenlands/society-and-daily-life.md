@@ -1,20 +1,20 @@
-# Ravenlands Society, Religion, and Daily Life
+# Ravenlands Society and Daily Life
 
 **Category:** Ravenlands-specific — combines the social conditions of the
-Forbidden Lands with credible pre-industrial household, village, legal, and
-religious patterns.
+Forbidden Lands with credible pre-industrial household, village, and legal
+patterns.
 
-This is an authenticity reference for AI and Game Masters. It is not a claim
-that the Ravenlands reproduce one historical European society. The setting has
+This is a campaign-lore reference for AI and Game Masters. It uses historical
+authenticity without claiming that the Ravenlands reproduce one European
+society. The setting has
 several human migrations, non-human kin, working magic, active gods, restless
 dead, demonic incursions, and ten generations of isolation under the Blood
 Mist. Those facts alter any historical analogue.
 
 Use this document to answer practical questions: who has authority, who owes
-labor, how strangers are received, why a custom survives, what religion does
-for a household, and what evidence adventurers can see. Do not use it to turn
-ordinary village life into continuous penalties or to make every settlement
-identical.
+labor, how strangers are received, why a custom survives, how households divide
+work, and what evidence adventurers can see. Do not use it to turn ordinary
+village life into continuous penalties or to make every settlement identical.
 
 ## Contents
 
@@ -28,7 +28,6 @@ identical.
 - [Children, Elders, and Succession](#children-elders-and-succession)
 - [Human Social Traditions](#human-social-traditions)
 - [Non-Human Social Orders](#non-human-social-orders)
-- [Religion as Daily Institution](#religion-as-daily-institution)
 - [Death, Burial, and the Restless Dead](#death-burial-and-the-restless-dead)
 - [The Calendar and Collective Time](#the-calendar-and-collective-time)
 - [The Reopened Land](#the-reopened-land)
@@ -36,15 +35,15 @@ identical.
 
 ## See Also
 
-- [Religions: Rites, Beliefs, and Anathemas](religions-rites-beliefs-and-anathemas.md)
+- [Religion Reference Index](religions-rites-beliefs-and-anathemas.md)
 - [Psychology and Social Character](psychology-and-social-character.md)
-- [Rust Brothers: Fear, Doctrine, and Control](rust-brothers-fear-doctrine-and-control.md)
-- [Village Economy and Barter](../generic/village-economy-and-barter.md)
-- [Psychological Trauma](../generic/psychological-trauma.md)
-- [Uncomfortable Realities](../generic/uncomfortable-realities.md)
-- [Forbidden Lands Lore — History](../../../forbidden-lands-lore/references/history.md)
-- [Forbidden Lands Lore — Gods](../../../forbidden-lands-lore/references/gods.md)
-- [Forbidden Lands Lore — Kin](../../../forbidden-lands-lore/references/kin.md)
+- [Rust Brothers: Fear, Doctrine, and Control](religion-rust-brothers.md)
+- [Village Economy and Barter](../../../forbidden-lands-medieval-authenticity/references/generic/village-economy-and-barter.md)
+- [Psychological Trauma](../../../forbidden-lands-medieval-authenticity/references/generic/psychological-trauma.md)
+- [Uncomfortable Realities](../../../forbidden-lands-medieval-authenticity/references/generic/uncomfortable-realities.md)
+- [Forbidden Lands Lore — History](../history.md)
+- [Forbidden Lands Lore — Gods](../gods.md)
+- [Forbidden Lands Lore — Kin](../kin.md)
 
 ---
 
@@ -511,15 +510,29 @@ their entire line.
 
 ### Dwarves
 
-Dwarven society joins clan, merit, craft, and cosmological labor. Competence is
-not merely economic; building participates in Huge's work. A quarrel over a
-mine, road, support, or method can therefore be a theological dispute about the
-world's proper construction.
+Dwarven society joins clan, merit, and craft. Demonstrated competence confers
+practical and moral standing, while construction and maintenance organize
+offices, obligations, and claims. A quarrel over a mine, road, support, or
+method can therefore concern rank and jurisdiction as much as the work itself.
 
 Clan memory reaches across human generations. Lost places such as Wailer's Hold
-remain current political injuries. Reincarnation as Huge's tools can dignify
-labor and sacrifice, but it can also make failed work, idleness, or exile feel
-like damage to identity beyond one lifetime.
+remain current political injuries. The failure, abandonment, or seizure of
+shared work can damage identity and standing long after the original builders
+are dead.
+
+Once every two years the four surface clans gather for five days in the Stone
+Gardens of the Canides. The Veneration of the Earth combines worship, interclan
+judgment, public games, foreign diplomacy, commissions, and a bazaar of dwarven
+work. Multiple contestants represent each clan in craft, combat, art, and sung
+wit. Each clan finally elects one champion; two semifinals and a final produce
+the Bearer of the Four Measures until the clans meet again.
+
+The gathering converts reputation into obligations that survive the feast.
+Prizes are tools, material, access, or commissions. Elven peace is renewed by
+joint maintenance of a planted stone course. Every judgment, refusal, price,
+death, and unsettled duty enters the Stonegarden annals. Canide hospitality is
+costly, but control of stalls, measures, safe-conduct, and visiting delegations
+gives the hosts knowledge no toll could purchase openly.
 
 ### Orcs
 
@@ -543,108 +556,51 @@ that facade are opposite responses to the same concealed bond.
 
 Birth, custody, and parentage cannot follow ordinary human assumptions. A
 mother may return with a child of her visible kin who is not biologically hers,
-while fathers are deliberately denied certainty. The cradle is a religious,
-reproductive, and political institution whose secrecy protects both halves.
+while fathers are deliberately denied certainty. The cradle is a reproductive,
+custodial, and political institution whose secrecy protects both halves.
+
+Halfling households commonly believe a sufficiently well-chosen marriage will
+guarantee a halfling child. Matchmakers compare public birth histories from which
+goblin births have already been removed. The belief therefore survives every
+failure. A goblin child passes into the cradle network while one spouse, one
+grandparent, or one neglected observance receives the blame.
+
+Marriage preparation can consume childhood. Ambitious parents buy tutors,
+manage food and friendships, rehearse table manners, suppress rough play, and
+guard every rumor that might lower a child's value to another house. The result
+may be an accomplished young halfling who can keep accounts and charm a feast,
+yet has never chosen an afternoon without supervision. Competition for a
+favored match is fought through debts, invitations, apprenticeship, and altered
+birth records. Violence remains rare enough to scandalize and common enough
+that matchmakers know which disappearances should not be entered in a book.
 
 ### Wolfkin and Saurians
 
 Wolfkin pack life is shaped by forest mobility, hostility toward settled
-civilization, Heme as Huntress, and remembered freedom under the Blood Mist.
-Open land may carry both practical exposure and inherited terror. Their complex
-music and group ritual are social technologies, not contradictions to a hunting
-life.
+civilization, and remembered freedom under the Blood Mist. Open land may carry
+both practical exposure and inherited terror. Their complex music and group
+ritual are social technologies, not contradictions to a hunting life.
+
+Pack life also preserves wolfkin judgment and identity. A wolfkin left alone
+too long can become hunt-mad: speech narrows, social recognition fails, and the
+whole mind contracts around pursuit. The condition is feared as a loss of the
+person rather than admired as wild freedom. Pack calls, shared meals, known
+scent, mutual watch, and repeated routes are therefore necessities as well as
+customs.
+
+The death of a pack places duties on strangers. Another pack must shelter the
+sole survivor before solitude finishes what bereavement began. This can force
+enemies to share food and sleeping ground. A pack that refuses may save stores
+for a few days and leave every nearby trail exposed to the predator the
+survivor becomes. Exile practices reveal the same moral fault line: removal
+from territory can be lawful, while expulsion into solitary forest is often a
+death sentence disguised as freedom.
 
 Saurian society is least known to outsiders. What is observable is territorial
 control of marsh water, strict peace at designated trading platforms, practical
 interest in meat and metal, and indifference to silver. Do not fill gaps with a
 human village model. Their trade station proves they can separate protected
 exchange from ordinary predation; it does not reveal the whole social order.
-
----
-
-## Religion as Daily Institution
-
-For the full treatment of Raven and Wyrm duality, the Protector churches, the
-Older Gods, kin traditions, ceremonies, dogmas, and anathemas, see [Religions
-of the Ravenlands](religions-rites-beliefs-and-anathemas.md). The sections below
-show how those faiths operate inside settlement society.
-
-### Religion Separates and Connects
-
-The three faces of the Protector—Wyrm, Raven, and Rust—are not harmless names
-for the same god. Their disagreement has justified migration, persecution,
-conquest, and execution. At the same time, ordinary households may honor older
-gods beneath whichever institution dominates locally.
-
-Religious identity answers practical questions: who can witness an oath, bless
-a marriage, interpret a misgrowth, tend a birth, settle a restless dead person,
-read a sign, preserve a document, or call allies. A priest's authority comes
-from doing these things as well as from doctrine.
-
-### Congregation of the Serpent
-
-The Congregation preserves continuity, letters, and learning through institutions
-such as the library at Farhaven. In the Ravenlands it often survives quietly,
-avoiding direct conflict with stronger local faiths. Its social strength lies
-in records, trained clergy, and connection to a tradition beyond one village.
-
-That same continuity can make it appear foreign or politically suspect. A local
-Psychopomp may be valued for literacy and burial knowledge while the village
-refuses the Congregation's larger claims.
-
-### Raven Church and Raven Sisters
-
-The Raven Church is joined to Ailander refuge, healing, shapeshifting, farming,
-hunting, childbirth, love, and resistance to Rust persecution. Raven Sisters
-gain trust because their work enters households at moments of vulnerability.
-Their mobility and secrecy also create networks that secular village leaders
-cannot easily see.
-
-A hidden Raven practice leaves material signs: herbs stored by someone who is
-not the healer, animal behavior treated as counsel, a childbirth charm concealed
-inside a Rust figurine, or a household that knows when a traveling sister will
-arrive but denies sending word.
-
-### Rust and Heme
-
-Rust theology turns material transformation into moral language. Iron is worked,
-purified, and tempered; people are described in the same terms. Heresy becomes
-slag. Heme joins life, disease, wood, blood, hunt, fertility, and sacrifice.
-This vocabulary makes coercion appear as necessary refinement.
-
-The church also provides real organization: armed Iron Guard, tribute routes,
-ritual authority, protection, and management of undead. These services do not
-moderate its evil. They make coercion durable. A settlement that depends on the
-Guard for a road or on a Brother to remove its dead can be punished without
-being destroyed.
-
-Rust rule prefers selective terror to ruin. One household is investigated,
-one respected person is tortured or executed, and every neighbor is made to
-witness, testify, or profit. The fields remain planted. The punishment continues
-through altered offices, divided property, and the fear that private knowledge
-has already reached the priory.
-
-The order also searches demon sites, seizes written accounts, and removes
-dangerous remains in sealed vessels. It may destroy a copy in public after
-preserving the information for its superiors. Its doctrine calls this mercy:
-ordinary people must remain ignorant because knowledge of demonic weakness is
-believed to invite demonic reprisal. See [Rust Brothers: Fear, Doctrine, and
-Control](rust-brothers-fear-doctrine-and-control.md) for the full institutional
-and settlement profile.
-
-### Older Gods and Work
-
-The older gods inhabit work and environment. Huge gives dwarven construction a
-cosmic purpose. Clay joins making, life, and druidic teaching. Wail belongs to
-wind and weather. Flow belongs to water and purification. Horn makes fire both
-destructive and fertile. Eor gives hidden kinship, deception, moon change, and
-shame a divine frame. Nightwalker names the uncontrolled night and the breaking
-of ordinary order.
-
-These gods should appear through acts: the first clean water poured aside, a
-clay tablet fired, a forge task dedicated, a fire enlarged at a feast, a moon
-birth remembered, or smoke watched for an omen. A list of divine portfolios is
-less authentic than one repeated practice with a social consequence.
 
 ---
 
@@ -660,7 +616,7 @@ prevent them from returning inside the settlement.
 This changes grief. A bereaved household may have continuing contact without
 resolution. The dead may repeat fragments of memory, challenge inheritance,
 reveal secrets without context, or simply require patient care. Burial duty is
-therefore emotional, religious, and defensive labor.
+therefore emotional, customary, and defensive labor.
 
 ### Treatment Reveals Authority
 
