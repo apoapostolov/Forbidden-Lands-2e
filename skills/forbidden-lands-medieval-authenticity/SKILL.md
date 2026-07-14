@@ -30,7 +30,7 @@ change real-world patterns. Trace those changes instead of ignoring them.
 | Need | Reference |
 | --- | --- |
 | Full corpus and topic routing | `references/INDEX.md` |
-| Ravenlands society, psychology, religions, kin customs, and personal campaign lore | Load `forbidden-lands-lore` and `../forbidden-lands-lore/references/ravenlands/INDEX.md` |
+| Ravenlands society, psychology, religions, kin customs, and personal campaign lore | Load `forbidden-lands-lore` and `../forbidden-lands-lore/references/expanded/INDEX.md` |
 | Food, water, shelter, clothing, roads, animals, crafts, and work | The matching document under `references/generic/` listed in `references/INDEX.md` |
 | Bitter Reach custom, law, religion, trauma, outlawry, and difficult realities | The matching document under `references/the-bitter-reach/` listed in `references/INDEX.md` |
 | Research discipline, realism dials, magic consequences, and claim boundaries | The relevant sections of this `SKILL.md` |

@@ -6,7 +6,7 @@ Master cross-reference for all reference documents.
 
 Ravenlands society, psychology, religion, kin custom, and personal campaign
 lore now belong to `forbidden-lands-lore`. Load the
-[Ravenlands Campaign Lore Index](../../forbidden-lands-lore/references/ravenlands/INDEX.md)
+[Ravenlands Campaign Lore Index](../../forbidden-lands-lore/references/expanded/INDEX.md)
 for the complete corpus and topic routing. Use this skill's generic references
 only when the Ravenlands task requires a historical or material baseline.
 

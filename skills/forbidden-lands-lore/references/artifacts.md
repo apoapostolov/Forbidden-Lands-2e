@@ -396,7 +396,7 @@ and the theft. The full history of the stones is a matter of
 serious contest. The crown's powers beyond the legend are not
 publicly known.
 
-_Full provenance and powers contested. See `campaigns/ravens_purge.md`._
+_Full provenance and powers contested. See `references/campaigns/ravens_purge.md`._
 
 **Mechanical hint:** A crown of bright dwarven metal with six
 ruby sockets; three stones set and three empty in the version
@@ -429,7 +429,7 @@ is a question the scholarly traditions of Stonegarden and
 Farhaven disagree on. The sword itself has been sighted in
 multiple locations over the centuries, never held for long.
 
-_Full provenance and powers contested. See `campaigns/ravens_purge.md`._
+_Full provenance and powers contested. See `references/campaigns/ravens_purge.md`._
 
 **Mechanical hint:** A longsword with a copper-twined grip and
 a gold crossguard bearing a single large emerald. Old accounts
@@ -460,7 +460,7 @@ influence over the Algarian dynasty through the scepter is
 documented in Raven Church records. The scepter's loss during
 the Demon Flood is historically accepted.
 
-_Full provenance and powers contested. See `campaigns/ravens_purge.md`._
+_Full provenance and powers contested. See `references/campaigns/ravens_purge.md`._
 
 **Mechanical hint:** A shepherd's crook of dark alderwood, the
 wood still supple despite centuries. The crown is carved in
@@ -494,7 +494,7 @@ history or a later romanticization is debated. The clasp itself
 is described identically in documents from human, orc, and
 elven sources.
 
-_Full provenance and powers contested. See `campaigns/ravens_purge.md`._
+_Full provenance and powers contested. See `references/campaigns/ravens_purge.md`._
 
 **Mechanical hint:** A round copper-base clasp with a golden
 tree motif and an elven ruby at center. The elf within

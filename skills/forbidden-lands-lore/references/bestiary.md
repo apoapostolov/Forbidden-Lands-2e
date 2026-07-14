@@ -530,7 +530,7 @@ flesh."** Encountered by **Shieldmaiden Armanda** in legend.
 ## Raven's Purge Creatures
 
 The following entries originate from the Raven's Purge source.
-Statblocks are in `campaigns/ravens_purge.md`; these entries hold
+Statblocks are in `references/campaigns/ravens_purge.md`; these entries hold
 the lore and ecology.
 
 ## Calydone

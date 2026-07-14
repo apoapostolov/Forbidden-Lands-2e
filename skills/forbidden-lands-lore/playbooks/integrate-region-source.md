@@ -42,7 +42,7 @@ Harga or Weatherstone.
 
 ### A1 — Create the Campaign File (if applicable)
 
-Create `campaigns/<source_slug>.md` before reading the source.
+Create `references/campaigns/<source_slug>.md` before reading the source.
 
 The campaign file is the **spoiler container**. Everything that
 would ruin discovery for a player goes here, never into
@@ -92,7 +92,7 @@ in SKILL.md.]
 ```
 
 Wire the campaign file into `SKILL.md` under **Campaign Files**
-using the same format as `campaigns/ravens_purge.md`.
+using the same format as `references/campaigns/ravens_purge.md`.
 
 ### A2 — Three Passes: Ravenlands Triage Destinations
 
@@ -116,7 +116,7 @@ using the same format as `campaigns/ravens_purge.md`.
 3. Confirm `references/history.md` has entries for all new
    historical events and named figures
 4. Confirm all cross-references inside reference files that
-   mention campaign content say *"See `campaigns/<slug>.md`"*
+   mention campaign content say *"See `references/campaigns/<slug>.md`"*
    for spoilable facts
 
 ---
@@ -128,10 +128,9 @@ the Ravenlands** with its own kin, geography, gods, and magic
 system. Examples: The Bloodmarch (Aslene), The Bitter Reach
 (northern tundra).
 
-**Core rule:** Nothing from an expansion region enters
-`references/`. The `/references/` files describe the Ravenlands
-only. All expansion region content lives under
-`regions/<slug>/`.
+**Core rule:** Nothing from an expansion region enters the core Markdown files
+directly under `references/`. Those files describe the Ravenlands only. All
+expansion-region content lives under `references/regions/<slug>/`.
 
 ### B1 — Create the File Structure
 
@@ -140,7 +139,7 @@ Before reading the source, create two things:
 **1. The regions directory:**
 
 ```
-regions/
+references/regions/
   <slug>/
     setting.md    — world state, terrain, magic, drugs, potions
     kin.md        — all kin native and immigrant to the region
@@ -151,12 +150,12 @@ regions/
     places.md     — sub-regions, named locations, adventure sites
 ```
 
-Canonical example: `regions/bloodmarch/`
+Canonical example: `references/regions/bloodmarch/`
 
 **2. The campaign file (if the source includes a campaign):**
 
-`campaigns/<slug>.md` — the **spoiler container only**.
-It should not repeat non-spoiler lore from `regions/<slug>/`.
+`references/campaigns/<slug>.md` — the **spoiler container only**.
+It should not repeat non-spoiler lore from `references/regions/<slug>/`.
 Its structure:
 
 ```markdown
@@ -171,16 +170,16 @@ Its structure:
 ## Region References
 
 Non-spoiler lore for [Region Name] is organized in
-`regions/<slug>/`. Load the appropriate file when the user
+`references/regions/<slug>/`. Load the appropriate file when the user
 asks about the region, its kin, its history, etc.
 
-- `regions/<slug>/setting.md` — [brief scope description]
-- `regions/<slug>/kin.md` — [brief scope description]
-- `regions/<slug>/history.md` — [brief scope description]
-- `regions/<slug>/gods.md` — [brief scope description]
-- `regions/<slug>/bestiary.md` — [brief scope description]
-- `regions/<slug>/artifacts.md` — [brief scope description]
-- `regions/<slug>/places.md` — [brief scope description]
+- `references/regions/<slug>/setting.md` — [brief scope description]
+- `references/regions/<slug>/kin.md` — [brief scope description]
+- `references/regions/<slug>/history.md` — [brief scope description]
+- `references/regions/<slug>/gods.md` — [brief scope description]
+- `references/regions/<slug>/bestiary.md` — [brief scope description]
+- `references/regions/<slug>/artifacts.md` — [brief scope description]
+- `references/regions/<slug>/places.md` — [brief scope description]
 
 This file contains only spoiler content.
 
@@ -201,26 +200,26 @@ This file contains only spoiler content.
 ```
 
 Wire the campaign file into `SKILL.md` under **Expansion Regions**
-(not under Campaign Files). Wire each `regions/<slug>/` file
+(not under Campaign Files). Wire each `references/regions/<slug>/` file
 into the appropriate listing in SKILL.md.
 
 ### B2 — Three Passes: Expansion Region Triage Destinations
 
 | Fact type | Destination |
 |---|---|
-| World state, climate, access routes, terrain mechanics | `regions/<slug>/setting.md` |
-| New terrain types and their journey rules | `regions/<slug>/setting.md` |
-| New magic traditions (full spell lists) | `regions/<slug>/setting.md` |
-| Drugs, potions, unique substances with mechanics | `regions/<slug>/setting.md` |
-| Kin culture, clan names, customs, named individuals | `regions/<slug>/kin.md` |
-| New kin or sub-kin native to the region | `regions/<slug>/kin.md` |
-| Historical events, named figures, dates | `regions/<slug>/history.md` |
-| Gods, religious orders, rituals | `regions/<slug>/gods.md` |
-| Named artifacts (public legend and location only) | `regions/<slug>/artifacts.md` |
-| Monster origin, ecology, cultural integration | `regions/<slug>/bestiary.md` |
-| Sub-regions, named locations, adventure site overviews | `regions/<slug>/places.md` |
-| Artifact true powers, NPC secret agendas, plot twists | `campaigns/<slug>.md` SPOILER SECTION |
-| Campaign mechanics, phase structure, outcome paths | `campaigns/<slug>.md` SPOILER SECTION |
+| World state, climate, access routes, terrain mechanics | `references/regions/<slug>/setting.md` |
+| New terrain types and their journey rules | `references/regions/<slug>/setting.md` |
+| New magic traditions (full spell lists) | `references/regions/<slug>/setting.md` |
+| Drugs, potions, unique substances with mechanics | `references/regions/<slug>/setting.md` |
+| Kin culture, clan names, customs, named individuals | `references/regions/<slug>/kin.md` |
+| New kin or sub-kin native to the region | `references/regions/<slug>/kin.md` |
+| Historical events, named figures, dates | `references/regions/<slug>/history.md` |
+| Gods, religious orders, rituals | `references/regions/<slug>/gods.md` |
+| Named artifacts (public legend and location only) | `references/regions/<slug>/artifacts.md` |
+| Monster origin, ecology, cultural integration | `references/regions/<slug>/bestiary.md` |
+| Sub-regions, named locations, adventure site overviews | `references/regions/<slug>/places.md` |
+| Artifact true powers, NPC secret agendas, plot twists | `references/campaigns/<slug>.md` SPOILER SECTION |
+| Campaign mechanics, phase structure, outcome paths | `references/campaigns/<slug>.md` SPOILER SECTION |
 
 **Spoiler triage test:** Ask — *"Would knowing this fact before
 play ruin a discovery, a twist, or a reveal?"* If yes, it is a
@@ -229,7 +228,7 @@ tell the players over beer, it is not a spoiler.
 
 ### B3 — Three-Pass Execution
 
-Each pass applies to all seven `regions/<slug>/` files. Do not
+Each pass applies to all seven `references/regions/<slug>/` files. Do not
 batch all reading before writing — context overflows. Write to
 the appropriate file after each read chunk.
 
@@ -256,15 +255,14 @@ consulting the source.
 
 ### B4 — Wiring and Cross-Contamination Audit
 
-1. Confirm all seven `regions/<slug>/` files are referenced in
+1. Confirm all seven `references/regions/<slug>/` files are referenced in
    `SKILL.md` under the correct expansion region entry
-2. Confirm `campaigns/<slug>.md` is listed under **Expansion
+2. Confirm `references/campaigns/<slug>.md` is listed under **Expansion
    Regions** in `SKILL.md` (not under Campaign Files)
-3. Verify that no expansion-region content has leaked into any
-   `references/` file — run a grep for the region's key proper
-   nouns against all `/references/*.md` files
-4. Confirm all cross-references inside `regions/<slug>/` files
-   that touch spoilable facts say *"See `campaigns/<slug>.md`"*
+3. Verify that no expansion-region content has leaked into any core file — run
+   a grep for the region's key proper nouns against `references/*.md`
+4. Confirm all cross-references inside `references/regions/<slug>/` files
+   that touch spoilable facts say *"See `references/campaigns/<slug>.md`"*
 5. Run markdownlint on all new and changed files
 
 ---
@@ -292,39 +290,39 @@ not committed to the repo.
 | Situation | Action |
 |---|---|
 | Source covers only new geography within Ravenlands, no campaign | No campaign file; reference files only |
-| Source is a Ravenlands campaign | Workflow A; content → `references/`; spoilers → `campaigns/<slug>.md` |
-| Source is an expansion region (neighboring country) | Workflow B; content → `regions/<slug>/`; spoilers → `campaigns/<slug>.md` |
+| Source is a Ravenlands campaign | Workflow A; content → `references/`; spoilers → `references/campaigns/<slug>.md` |
+| Source is an expansion region (neighboring country) | Workflow B; content → `references/regions/<slug>/`; spoilers → `references/campaigns/<slug>.md` |
 | Source introduces kin native to the Ravenlands | `references/kin.md` |
-| Source introduces kin native to an expansion region | `regions/<slug>/kin.md` |
+| Source introduces kin native to an expansion region | `references/regions/<slug>/kin.md` |
 | Source retcons or contradicts an existing file entry | Flag conflict; record both versions with source attribution; do not silently overwrite |
 | Source covers history that predates the existing chronology | Insert in date order into the appropriate history file |
-| Source contains region that intersects both Ravenlands and an expansion region | Write the Ravenlands-side content to `references/`; write the expansion-region-side content to `regions/<slug>/`; note the cross-border connection in both |
+| Source contains region that intersects both Ravenlands and an expansion region | Write the Ravenlands-side content to `references/`; write the expansion-region-side content to `references/regions/<slug>/`; note the cross-border connection in both |
 
 ---
 
 ## File and Folder Naming Conventions
 
 **Ravenlands campaign file:**
-`campaigns/<title-slug>.md`
+`references/campaigns/<title-slug>.md`
 
 **Expansion region directory:**
-`regions/<slug>/`
-— with files: `regions/<slug>/setting.md`, `regions/<slug>/kin.md`,
-`regions/<slug>/history.md`, `regions/<slug>/gods.md`,
-`regions/<slug>/bestiary.md`, `regions/<slug>/artifacts.md`, and
-`regions/<slug>/places.md`
+`references/regions/<slug>/`
+— with files: `references/regions/<slug>/setting.md`, `references/regions/<slug>/kin.md`,
+`references/regions/<slug>/history.md`, `references/regions/<slug>/gods.md`,
+`references/regions/<slug>/bestiary.md`, `references/regions/<slug>/artifacts.md`, and
+`references/regions/<slug>/places.md`
 
 **Expansion region campaign file:**
-`campaigns/<slug>.md`
+`references/campaigns/<slug>.md`
 
 **Slug format:** lowercase kebab-case, matching the source material's title
-closely enough to be unambiguous. `campaigns/ravens_purge.md` is a legacy
+closely enough to be unambiguous. `references/campaigns/ravens_purge.md` is a legacy
 filename; do not copy its underscore style for new files.
 
 Examples:
 
-- `campaigns/ravens_purge.md` — Raven's Purge (Ravenlands)
-- `campaigns/bloodmarch.md` — The Bloodmarch spoilers
+- `references/campaigns/ravens_purge.md` — Raven's Purge (Ravenlands)
+- `references/campaigns/bloodmarch.md` — The Bloodmarch spoilers
 - The Bitter Reach campaign spoiler file is not bundled in this repository
-- `regions/bloodmarch/` — The Bloodmarch non-spoiler reference
-- `regions/the-bitter-reach/` — The Bitter Reach non-spoiler reference
+- `references/regions/bloodmarch/` — The Bloodmarch non-spoiler reference
+- `references/regions/the-bitter-reach/` — The Bitter Reach non-spoiler reference

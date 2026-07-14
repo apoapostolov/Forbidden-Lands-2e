@@ -789,7 +789,7 @@ ally).
 
 The following NPCs originate in the Raven's Purge source material
 and are listed here for lore-level identification. Statblocks and
-scenario mechanics are in `campaigns/ravens_purge.md`.
+scenario mechanics are in `references/campaigns/ravens_purge.md`.
 
 **Klotinda** — an elven woman who loved the first elf **Iridne**.
 She helped Iridne re-assume flesh after Iridne's ruby was removed

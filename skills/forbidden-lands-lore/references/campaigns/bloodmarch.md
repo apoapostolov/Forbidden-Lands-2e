@@ -9,31 +9,31 @@
 ## Region References
 
 Non-spoiler lore for the Bloodmarch is organized in
-`regions/bloodmarch/`. Load the appropriate file when the
+`references/regions/bloodmarch/`. Load the appropriate file when the
 user asks about the region, its kin, its history, etc.
 
-- `regions/bloodmarch/setting.md` — world state, climate,
+- `references/regions/bloodmarch/setting.md` — world state, climate,
   access routes, terrain types (Ashlands, Firelands, Crimson
   Forest with journey rules), magic traditions (Magma Song,
   Mentalism, Oneiromancy, Magnetism), drugs and potions
-- `regions/bloodmarch/kin.md` — the five horse clans, Vasnians,
+- `references/regions/bloodmarch/kin.md` — the five horse clans, Vasnians,
   red elves, Caprid dwarves, Aslene orcs, wolfkin, moon elves,
   halflings and goblins
-- `regions/bloodmarch/history.md` — Vasnian age through horse
+- `references/regions/bloodmarch/history.md` — Vasnian age through horse
   clan arrival, Sella the Liberator, the Demon Flood (875 AS),
   three centuries of isolation, Shadowgate reopening (1165 AS)
-- `regions/bloodmarch/gods.md` — Horn, Have, the Pyrolytes,
+- `references/regions/bloodmarch/gods.md` — Horn, Have, the Pyrolytes,
   Volitia, the Sisterhood of Viraga, Nightwalker/Ranghöge,
   Order of Egression, Eor, Rubor and Kolor, Rust Church
-- `regions/bloodmarch/bestiary.md` — Smolderer, Bloodbeech,
+- `references/regions/bloodmarch/bestiary.md` — Smolderer, Bloodbeech,
   Prune, Wingsteed, Fraege, Grave Lily, Kton/Fire Wyrm, Mecha,
   Salamander, Sarcoptes, Forest Star, Slime Snail, Slithernet,
   Sporewalker, Hoverfrog, Pearlyveine
-- `regions/bloodmarch/artifacts.md` — Horn's Astra (public
+- `references/regions/bloodmarch/artifacts.md` — Horn's Astra (public
   knowledge: Goblet Staff of Have, Helm of Horn, Sella's
   Dragonboot, Glasstooth, Arrows of the Fire Wyrm, Stonechest
   of Horn), Witherbeam public description
-- `regions/bloodmarch/places.md` — all eleven sub-regions,
+- `references/regions/bloodmarch/places.md` — all eleven sub-regions,
   Horn volcano, Shadowgate Pass, Gander's Pass, adventure
   site public overviews (Taregyll, Ashenstead, Salterstay,
   Oxengelder, Bann Guelder, Watch of the Sisters, Tribolia of

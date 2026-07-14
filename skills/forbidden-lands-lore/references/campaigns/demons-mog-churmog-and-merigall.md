@@ -2954,7 +2954,7 @@ learn enough.
   Possessors, Rat Kings, Twisted Ents, and demon-adjacent ecologies.
 - `03-book-of-beasts/03-gamemaster-tools.md`: demon grimoires, artifacts,
   and generated demon pressures.
-- `campaigns/ravens_purge.md`: full campaign truths for Merigall, Krasylla,
+- `references/campaigns/ravens_purge.md`: full campaign truths for Merigall, Krasylla,
   Zytera, Vond, the Protonexus, Stanengist, and the Mogarium.
 
 ### Community Sources

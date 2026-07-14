@@ -13,6 +13,11 @@ author decisions.
 
 ## Bundled References
 
+- `references/INDEX.md`
+  The authority and routing index for the complete reference corpus. Load it
+  first when a request crosses core lore, custom expansions, campaigns, or
+  expansion regions.
+
 - `references/setting.md`
   The master setting document. Contains:
   - World state (post-Blood Mist, broken infrastructure)
@@ -88,13 +93,15 @@ author decisions.
   adventure site locations (Vond, Eye of the Rose, Pelagia,
   Stoneloom Mines, Haggler's House, Ravenhole, Grindbone).
 
-## Ravenlands Campaign Lore
+## Custom Expanded Lore
 
-The Ravenlands library in `references/ravenlands/` is the user's expanded
-campaign corpus. It was created by a professional Game Master preparing and
-running an enlarged Forbidden Lands campaign. The files mix published canon,
-manuscript facts, grounded setting inference, local or contested belief,
-historical models, community theory, and personal campaign lore.
+The library in `references/expanded/` is the user's generic, custom-expanded
+lore corpus. It was created by a professional Game Master preparing and running
+an enlarged Forbidden Lands campaign. It is not limited to a single published
+campaign, even where inherited document titles refer to the Ravenlands. The
+files mix published canon, manuscript facts, grounded setting inference, local
+or contested belief, historical models, community theory, and personal
+campaign lore.
 
 Treat established personal lore as authoritative for this campaign without
 calling it Free League canon. Preserve its depth, detail, and writing voice.
@@ -102,56 +109,55 @@ Do not replace it with summaries, generic templates, cleaned-up approximations,
 or a canon-only rewrite. When provenance affects an answer, state which claim
 level applies.
 
-- `references/ravenlands/INDEX.md`
-  Authority notice and complete topic routing for the Ravenlands campaign
-  corpus. Load it when a request spans several kin, religions, or social
-  systems.
-- `references/ravenlands/society-and-daily-life.md`
+- `references/expanded/INDEX.md`
+  Authority notice and complete topic routing for the custom expanded corpus.
+  Load it when a request spans several kin, religions, or social systems.
+- `references/expanded/society-and-daily-life.md`
   Households, villages, authority, law, hospitality, kin, burial, labor, and
   festivals.
-- `references/ravenlands/psychology-and-social-character.md`
+- `references/expanded/psychology-and-social-character.md`
   Blood Mist conditioning, trust, kin identity, grief, trauma, magic, and
   recovery.
-- `references/ravenlands/religions-rites-beliefs-and-anathemas.md`
+- `references/expanded/religions-rites-beliefs-and-anathemas.md`
   Cross-kin religion routing, claim levels, common questions, and the
   equal-depth standard.
-- `references/ravenlands/religion-humans.md`
+- `references/expanded/religion-humans.md`
   Raven and Wyrm, human churches and heresies, Older Gods, rites, dogmas, and
   anathemas.
-- `references/ravenlands/religion-elves.md`
+- `references/expanded/religion-elves.md`
   Red Wanderer, rubies, restoration, Clay, druidic orders, and long memory.
-- `references/ravenlands/religion-elvenspring.md`
+- `references/expanded/religion-elvenspring.md`
   Mixed descent, mortal time, Clay, Shardmaiden, orders, Frailers, and memorial
   practice.
-- `references/ravenlands/religion-dwarves.md`
+- `references/expanded/religion-dwarves.md`
   Huge, World Expansion, Stonegarden gatherings, reincarnation, maintenance,
   and clan readings.
-- `references/ravenlands/religion-orcs.md`
+- `references/expanded/religion-orcs.md`
   Abandonment, the Unabandoned, command, women's authority, trial, clan
   practice, and enslavement.
-- `references/ravenlands/religion-halflings.md`
+- `references/expanded/religion-halflings.md`
   Eor, cradles, marriage doctrine, childhood training, protected secrecy, and
   Penita.
-- `references/ravenlands/religion-goblins.md`
+- `references/expanded/religion-goblins.md`
   Eor, moon travel, changing claims, theft law, hunting status, wolves, and
   cradles.
-- `references/ravenlands/religion-wolfkin.md`
+- `references/expanded/religion-wolfkin.md`
   Huntress worship, pack law, forest refuge, hunt-madness, foster claim, blood,
   and music.
-- `references/ravenlands/religion-monster-beliefs.md`
+- `references/expanded/religion-monster-beliefs.md`
   Saurian, ogre, whiner, and Misgrown beliefs with limits on outsider claims.
-- `references/ravenlands/religion-rust-brothers.md`
+- `references/expanded/religion-rust-brothers.md`
   Rust and Heme ranks, rites, doctrine, anathemas, selective terror,
   information control, settlement fear, and demonic secrecy.
 
 ## Campaign Files
 
-Bundled campaign references live in `campaigns/`. Each campaign
+Bundled campaign references live in `references/campaigns/`. Each campaign
 file contains both **non-spoiler** public lore and a
 **SPOILER SECTION** with plot secrets, NPC true agendas,
 artifact powers, and outcome paths.
 
-- `campaigns/ravens_purge.md`
+- `references/campaigns/ravens_purge.md`
   Full reference for the **Raven's Purge** campaign by Erik
   Granström. Scope: entirely within the core Ravenlands.
   Central conflict: Stanengist (the elven crown) and who controls
@@ -162,7 +168,7 @@ artifact powers, and outcome paths.
   Stoneloom Mines, Haggler's House, Vond), all four campaign
   artifacts, and the full range of campaign outcomes.
 
-- `campaigns/demons-mog-churmog-and-merigall.md`
+- `references/campaigns/demons-mog-churmog-and-merigall.md`
   Full-spoiler GM study of demons across Books 01–03 and
   **Raven's Purge**. Covers mog and Churmog metaphysics,
   ether and nexuses, demon families, hierarchy, concealment,
@@ -197,11 +203,11 @@ asking.
 
 An expansion region is a neighboring country with its own kin,
 geography, religions, magic traditions, terrain rules, and
-creatures. Its content lives in a dedicated `regions/<slug>/`
-directory — nothing from an expansion region merges into the
-`/references/` files. The references describe the Ravenlands
-only. Campaign spoilers for an expansion region live in the
-matching `campaigns/<slug>.md` file.
+creatures. Its content lives in a dedicated `references/regions/<slug>/`
+directory. Nothing from an expansion region merges into the core Markdown
+files directly under `references/`; those files describe the Ravenlands.
+Campaign spoilers for an expansion region live in the
+matching `references/campaigns/<slug>.md` file.
 
 **Loading rule:** Load expansion region files only when the user
 explicitly asks about that region, its creatures, its kin, its
@@ -220,33 +226,33 @@ section marked ⚠️ SPOILER.
 
 Non-spoiler reference files:
 
-- `regions/bloodmarch/setting.md` — world state, climate, access
+- `references/regions/bloodmarch/setting.md` — world state, climate, access
   routes, terrain types (Ashlands, Firelands, Crimson Forest
   with full journey rules and Crimson Sickness 9-stage table),
   magic traditions (Magma Song, Mentalism, Oneiromancy, Magnetism
   with full spell lists), drugs and potions (Blue Tar, Blue Blood,
   Dense Water, Crimson Ooze, Lycopodium Powder)
-- `regions/bloodmarch/kin.md` — the five horse clans (Houns/
+- `references/regions/bloodmarch/kin.md` — the five horse clans (Houns/
   Selligar Horne, Sabirians/Mommodar, Caberians/Merdekai,
   Ash), Vasnians, red elves, Caprid dwarves (Firestead, kulli/
   baas kulli, abolished clans), Aslene orcs (Étosh, Sisterhood
   of Viraga), wolfkin (Ranghöge, grargs), moon elves (moonstone
   not ruby, Mentalism), halflings and goblins (Penite pilgrims)
-- `regions/bloodmarch/history.md` — Vasnian age, horse clan
+- `references/regions/bloodmarch/history.md` — Vasnian age, horse clan
   arrival, Sella the Liberator, the Demon Flood (875 AS),
   three centuries of isolation, Shadowgate reopening (1165 AS)
-- `regions/bloodmarch/gods.md` — Horn, Have, Pyrolytes, Volitia,
+- `references/regions/bloodmarch/gods.md` — Horn, Have, Pyrolytes, Volitia,
   Sisterhood of Viraga, Nightwalker/Ranghöge, Order of Egression,
   Eor, Rubor and Kolor, Rust Church/Ironbrows
-- `regions/bloodmarch/bestiary.md` — Smolderer, Bloodbeech, Prune,
+- `references/regions/bloodmarch/bestiary.md` — Smolderer, Bloodbeech, Prune,
   Wingsteed, Fraege, Grave Lily, Kton/Fire Wyrm, Mecha, Salamander,
   Sarcoptes, Forest Star, Slime Snail, Slithernet, Sporewalker,
   Hoverfrog, Pearlyveine
-- `regions/bloodmarch/artifacts.md` — Horn's Astra public knowledge
+- `references/regions/bloodmarch/artifacts.md` — Horn's Astra public knowledge
   (Goblet Staff of Have, Helm of Horn, Sella's Dragonboot,
   Glasstooth, Arrows of the Fire Wyrm, Stonechest), Witherbeam
   public description (no true powers here)
-- `regions/bloodmarch/places.md` — eleven sub-regions (Ashenvale,
+- `references/regions/bloodmarch/places.md` — eleven sub-regions (Ashenvale,
   The Black, Vasnia, Havenmark, Firestead, The Wailing, Kreysel,
   Strilling, Druma, Varina, Hadruma), Horn volcano, Shadowgate
   Pass, Gander's Pass, adventure site overviews (Taregyll,
@@ -255,7 +261,7 @@ Non-spoiler reference files:
 
 Spoiler-only file:
 
-- `campaigns/bloodmarch.md` — load only with explicit user
+- `references/campaigns/bloodmarch.md` — load only with explicit user
   consent; contains true powers of the Astra, Witherbeam's full
   capabilities, NPC true agendas, ancient world history, campaign
   phases, adventure site secrets, and campaign outcomes
