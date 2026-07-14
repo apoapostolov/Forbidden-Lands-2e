@@ -4,7 +4,8 @@ This document collects confirmed setting facts about the Forbidden Lands world,
 focusing on geography, the three human cultures, and the physical and cultural
 details that are useful when writing manuscript-facing prose.
 
-Sources: corebook `02-your-adventurer.md`, `01-front-matter.md`, community
+Sources: `01-corebook/02-your-adventurer.md`,
+`01-corebook/01-front-matter.md`, community
 canon from the Fria Ligan official forums, and designer commentary from
 Erik Granström.
 

@@ -1083,7 +1083,7 @@ middle of something that was already happening.
 
 Forbidden Lands application: See the Village-
 as-System model in
-`skills/forbidden-lands-lore/references/places-villages-adventure-sites.md`.
+`skills/forbidden-lands-lore/references/places.md`.
 
 Author model: Le Guin. Her villages are
 complete economies that exist independently
@@ -1155,7 +1155,7 @@ manuscript is specific, small, and earned
 through specific action. It is not narrative
 consolation. See the Swedish tone section
 in
-`skills/forbidden-lands-lore/references/tone-and-encounter-design.md`.
+`skills/forbidden-lands-lore/references/tone.md`.
 
 Author model: Cook. The Company does not
 have warming endings. The fire goes out.

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Forbidden Lands Lore"
+  short_description: "Verify canon and build playable setting lore"
+  default_prompt: "Use $forbidden-lands-lore to verify this material and make its setting facts useful in play."

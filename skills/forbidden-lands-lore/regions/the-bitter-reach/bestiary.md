@@ -239,7 +239,8 @@ tower floor.
 The Seal of Stars has been broken. Mul survived the
 encounter badly wounded.
 
-See `places.md` and `campaigns/bitter_reach.md`.
+See `places.md`; the campaign implications are spoiler content in the
+unbundled _Wake of the Winter King_ source.
 
 ### Gibil
 
@@ -256,7 +257,8 @@ devoted to the Winter King. She speaks, and will
 listen to those who address her — but she attacks
 without hesitation if anyone approaches the Seal.
 
-See `places.md` and `campaigns/bitter_reach.md`.
+See `places.md`; the campaign implications are spoiler content in the
+unbundled _Wake of the Winter King_ source.
 
 ### Ninhursag
 
@@ -265,7 +267,8 @@ beneath the Palace of the Ice Giants, where the
 footfalls of the Giants echo above. Said to have
 a thousand spawn. The orcs do not speak of her.
 
-See `places.md` and `campaigns/bitter_reach.md`.
+See `places.md`; the campaign implications are spoiler content in the
+unbundled _Wake of the Winter King_ source.
 
 ### Imdugud
 
@@ -274,7 +277,8 @@ in the valley behind Frostwind Hold. Legend says
 Imdugud dances on winds driven by traitorous
 servants. Nature not confirmed.
 
-See `places.md` and `campaigns/bitter_reach.md`.
+See `places.md`; the campaign implications are spoiler content in the
+unbundled _Wake of the Winter King_ source.
 
 ### Abzu
 
@@ -285,4 +289,5 @@ water above report hearing a low, resonant sound
 through ice and hull. Pikebeasts avoid the water
 closest to the lighthouse.
 
-See `places.md` and `campaigns/bitter_reach.md`.
+See `places.md`; the campaign implications are spoiler content in the
+unbundled _Wake of the Winter King_ source.

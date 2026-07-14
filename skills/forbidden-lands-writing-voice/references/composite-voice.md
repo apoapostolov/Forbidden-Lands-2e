@@ -188,7 +188,7 @@ follows from their institutional needs.
 **Avoid: Generic good-vs-evil framing.** This is the most
 dangerous register error in this tradition. See the
 Encounter Anti-Trope Catalog in
-`skills/forbidden-lands-lore/references/tone-and-encounter-design.md`.
+`skills/forbidden-lands-lore/references/tone.md`.
 
 ### Vignette, epigraph, poetic worldbuilding
 

@@ -1,23 +1,6 @@
 ---
 name: forbidden-lands-lore
-description: |
-  Use when checking, auditing, or enforcing Forbidden Lands setting
-  authenticity, and when classifying tone or designing encounters
-  for the Forbidden Lands 2E manuscript. Covers geography, the three
-  human peoples, non-human kin, magic paths, the full pantheon and
-  religious orders, the canonical chronology and named historical
-  figures, the bestiary lore (origin myths, ecology, encounter
-  shapes), the canonical artifacts, and the village-as-system model
-  (The Hollows reference, Heat and Need, named geography). Also the
-  authority for genre register: re-feudal medieval survival fantasy
-  with Swedish tone, realistic village authenticity, soft
-  Tolkienesque worldbuilding, and the encounter anti-trope catalog.
-  Load this skill whenever writing or reviewing prose that involves
-  place names, character nationality, kin identity, cultural detail,
-  monster lore, religious factions, artifacts, named NPCs, village
-  texture, or any fact claim about the Ravenlands setting. Also use
-  when auditing existing text for setting errors, anachronisms,
-  basic-fantasy tropes, or wrong-register tone.
+description: Verify, organize, or extend Forbidden Lands 2E setting truth. Use for geography, chronology, peoples, kin, gods, cults, magic traditions, monsters, artifacts, settlements, named characters, regional identity, campaign public lore, tone, anachronisms, and sandbox-facing rumors or factions. Trigger whenever prose or game content makes a factual claim about the Ravenlands, Bloodmarch, or Bitter Reach.
 ---
 
 # Forbidden Lands Lore
@@ -27,16 +10,6 @@ Lands 2E repo. It ensures that every proper noun, cultural detail,
 geographic reference, kin trait, and world-state claim in the
 manuscript is consistent with established canon and approved
 author decisions.
-
-## When To Load This Skill
-
-- Writing or revising fiction that names places, peoples, or kin
-- Auditing existing prose for setting errors
-- Creating new characters with nationality or kin identity
-- Checking whether a place name is canonical or invented
-- Verifying magic path details or religious faction references
-- Any task where the `forbidden-lands-writing` skill says
-  "load the setting reference"
 
 ## Bundled References
 
@@ -138,11 +111,12 @@ artifact powers, and outcome paths.
 **Before reading any section marked ⚠️ SPOILER or SPOILER SECTION
 in a campaign file, stop and ask the user:**
 
-> *"This content contains major campaign spoilers for [Campaign
-> Name]. Do you want me to proceed with spoiler content?"*
+> _"This content contains major campaign spoilers for [Campaign
+> Name]. Do you want me to proceed with spoiler content?"_
 
 Wait for explicit confirmation before continuing. This applies
 to:
+
 - True natures and secret agendas of named NPCs
 - Artifact full powers and true histories
 - Adventure site secrets and dungeon contents
@@ -187,7 +161,6 @@ Non-spoiler reference files:
   Dense Water, Crimson Ooze, Lycopodium Powder)
 - `regions/bloodmarch/kin.md` — the five horse clans (Houns/
   Selligar Horne, Sabirians/Mommodar, Caberians/Merdekai,
-  Galdanes/Kormella Mira + Trandesso Haveman, Quards/Jorgundos
   Ash), Vasnians, red elves, Caprid dwarves (Firestead, kulli/
   baas kulli, abolished clans), Aslene orcs (Étosh, Sisterhood
   of Viraga), wolfkin (Ranghöge, grargs), moon elves (moonstone
@@ -224,7 +197,7 @@ Spoiler-only file:
   mandate, the seven encounter shapes, the Resources mandate,
   statblock format. **Load alongside this skill** when writing
   any monster encounter or bestiary entry.
-- `skills/forbidden-lands-writing/SKILL.md` — sentence-level prose
+- `skills/forbidden-lands-writing-voice/SKILL.md` — sentence-level prose
   technique and the Worldbuilding Voice section. **Load alongside
   this skill** when drafting manuscript or proposal prose.
 - `skills/forbidden-lands-design/SKILL.md` — mechanics and rules
@@ -241,6 +214,69 @@ Operational workflows for expanding the skill live in `playbooks/`.
   depth audit, small-detail texture pass), spoiler triage, campaign
   file creation, wiring, cross-reference audit, and multi-session
   handoff. Use this whenever a new source is being added.
+
+## Make Lore Playable
+
+Classify every fact by what players can know:
+
+- **Public:** common names, visible customs, broad history, roads, rulers,
+  festivals, and widely repeated stories.
+- **Local:** knowledge held by a settlement, profession, kin, cult, or region.
+- **Contested:** several groups hold incompatible accounts; record each source
+  and what the disagreement changes.
+- **Hidden:** discoverable secrets that create leverage or danger.
+- **GM truth:** causal facts needed to run consequences consistently.
+- **Campaign spoiler:** protected material loaded only under the spoiler
+  protocol.
+
+Do not expose GM truth merely because a reference file contains it. Convert lore
+into signs, claims, rites, prices, ruins, grudges, routes, and behavior that
+players can encounter.
+
+### Sandbox conversion
+
+For any substantial lore element, identify:
+
+1. who believes it
+2. who disputes or benefits from it
+3. what physical evidence exists
+4. what practice or institution it sustains
+5. what choice it changes
+6. what happens if the players reveal, disprove, exploit, or ignore it
+
+A fact with no present consequence is background. Keep it brief or connect it
+to play.
+
+### Faction truth
+
+Describe factions through aims, assets, constraints, methods, internal fault
+lines, visible signs, and offers. Do not reduce them to moral alignment. A
+faction may be cruel or benevolent, but it still needs material interests,
+relationships, and limits that players can manipulate.
+
+### Contradictions
+
+When sources conflict:
+
+1. record both claims and their sources
+2. distinguish authorial contradiction from intentional in-world disagreement
+3. preserve ambiguity when it creates play
+4. choose a manuscript ruling only when procedures or continuity require one
+5. document the ruling and update all dependent references
+
+Do not silently harmonize contradictions by inventing unsupported history.
+
+## Lore Design Workflow
+
+1. Define region and spoiler boundary.
+2. Search the manuscript and the narrowest relevant reference.
+3. Separate confirmed fact, inference, public belief, and secret.
+4. Check chronology, geography, kin, religion, magic, and institutions.
+5. Convert new facts into present practices and visible consequences.
+6. Provide at least two routes by which players could learn actionable lore.
+7. Test how the world changes if the fact becomes known or false.
+8. Cross-link every affected reference and manuscript passage.
+9. Load the writing-voice skill for final prose.
 
 ## Hard Rules
 

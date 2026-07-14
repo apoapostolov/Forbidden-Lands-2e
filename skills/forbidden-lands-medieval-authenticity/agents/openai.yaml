@@ -1,0 +1,4 @@
+interface:
+  display_name: "Forbidden Lands Medieval Authenticity"
+  short_description: "Ground fantasy in practical pre-industrial life"
+  default_prompt: "Use $forbidden-lands-medieval-authenticity to make this Forbidden Lands material physically and socially credible."

@@ -91,7 +91,7 @@ Some create lower-risk access.
 
 ### Spend profile in talents
 
-`corebook/04-talents.md` is heavily WP-driven.
+`01-corebook/04-talents.md` is heavily WP-driven.
 
 Observed manuscript facts:
 

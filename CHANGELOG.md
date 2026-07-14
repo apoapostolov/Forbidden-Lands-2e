@@ -9,6 +9,54 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- **Forbidden Lands design intelligence.** Added dedicated references for
+  player psychology and table experience, sandbox and freeform campaign design,
+  supplement architecture, and evidence-based playtest and balance protocols.
+  The design workflow now audits agency, fairness, mastery, spotlight,
+  information, faction response, failure continuity, and campaign-scale
+  consequences alongside engine mathematics.
+
+- **Bestiary design corpus.** Restored the missing monster design engine,
+  mechanics taxonomy, Lore Roll rules, random-encounter rules, experimental
+  rule repository, and corpus calibration references. Monster work now has
+  complete guidance for attack roles, hard control, readable counterplay,
+  ecological consequences, sandbox encounters, and unique resources.
+
+- **Medieval-authenticity skill.** Restored the advertised
+  `forbidden-lands-medieval-authenticity` capability as a focused,
+  high-signal skill. New references cover material life and logistics,
+  settlements and customary law, violence and care, research discipline,
+  setting counterfactuals, and the boundary between useful realism and
+  punitive bookkeeping.
+
+- **Skill interface metadata.** Added discoverable names, concise descriptions,
+  and invocation prompts for every Forbidden Lands skill.
+
+### Changed
+
+- **Forbidden Lands skill quality audit.** Rebuilt all six skill entry points
+  around current repository paths, progressive reference loading, explicit
+  sources of authority, complete design loops, validation gates, and
+  cross-skill routing. Removed stale references to deleted skills, documents,
+  and directories.
+
+- **Balance and synergy review.** Expanded the former five-test combo audit to
+  include counterplay, niche and spotlight protection, perceived fairness,
+  party-level interactions, sandbox authority, full access and renewal tracing,
+  and regression testing at use, scene, session, and campaign scales.
+
+- **Lore and writing workflows.** Added playable-lore classification,
+  contradiction handling, faction truth, sandbox conversion, unresolved
+  situation prose, information-state discipline, operational GM guidance, and
+  ambiguity-solving rules examples. Corrected legacy cross-reference names
+  throughout the supporting lore and prose corpus.
+
+- **Project overview.** Expanded the README's skill documentation, recommended
+  stacks, and edition summary to describe the audited supplement-design
+  capabilities.
+
 ## [1.1.3] - 2026-07-14
 
 ### Added
@@ -110,7 +158,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - **Book 01 — Corebook.** Polished Chapters 12 (Mercenaries) and 13 (Traderoads). Traderoads also gained added vignettes and narrative examples.
 - **Book 03 — Book of Beasts.** Doubled the bestiary with 44 new monsters overall, including the 9 humanoid enemy bands moved into the Gamemaster's Guide. The Book of Beasts itself now adds 35 non-humanoid monsters: Carrion Wing, Ape-Man, Bugbear, Giant Centipede, Crawling Claw, Little Gargoyle, Glass Ooze, Goblin, Tunnel Maw, Hell Hound, Night-Pup, Ogre, Giant Rat, Giant Toad, Fear-Drinker, Corpse Ogre, Walking Dead, Warlock of the Black Tower, Tunneler, Pale Ape, Star-Watcher, Air Spirit, Earth Spirit, Giant Scorpion, Clay Golem, Iron Golem, Bog Hag, Death Magister, Snake Queen, Thought-Kraken, Rock-Hanger, Night Bride, Grave Bat, Wereboar, and Werewolf. Each comes with 2 challenging and unconventional random encounters, a legend for players to learn, and 3 resources to collect.
-
 
 ## [1.0.8] - 2026-04-24
 

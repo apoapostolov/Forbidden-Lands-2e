@@ -1,0 +1,4 @@
+interface:
+  display_name: "Forbidden Lands Synergy Analysis"
+  short_description: "Stress-test builds, stacking, and exploits"
+  default_prompt: "Use $forbidden-lands-synergy-analysis to find dominant combinations, spotlight problems, and campaign-pressure bypasses."

@@ -1,207 +1,299 @@
 ---
 name: forbidden-lands-synergy-analysis
-description: Use when auditing talent combinations, spell stacking, kin+profession builds, or any multi-rule interaction in Forbidden Lands 2E for balance-breaking potential. Triggers on questions like "is this combo broken", "what are the strongest builds", "does this talent stack with that spell", "can players exploit this", or any request to stress-test a rule interaction. Also use when designing new talents or spells that might create unintended synergy with existing content. This skill distinguishes between creative high-risk play (healthy) and one-decision dominant lines (unhealthy).
+description: Stress-test Forbidden Lands 2E talents, spells, kin abilities, professions, gear, artifacts, lifepaths, party builds, and new rules for unintended combinations. Use for broken combos, strongest builds, stacking questions, dominant strategies, niche protection, spotlight imbalance, campaign-pressure bypasses, and adversarial review before playtest.
 ---
 
 # Forbidden Lands Synergy Analysis
 
-The Forbidden Lands engine encourages players to combine talents, spells, kin abilities, gear, and conditions in creative ways that tip dangerous situations in their favor. That is the game working as intended. The problem this skill exists to catch is different: combinations that require only a single obvious character-creation or advancement decision, carry no meaningful risk or tradeoff, and then quietly dominate the game from that point forward.
+Reward clever preparation and cooperation. Prevent combinations that turn one
+advancement choice into a permanent answer, erase pressure, monopolize
+spotlight, or force all informed players toward the same build.
+
+## Establish Authority
+
+Read the relevant rules in:
+
+- `01-corebook/02-your-adventurer.md`
+- `01-corebook/03-skills.md`
+- `01-corebook/04-talents.md`
+- `01-corebook/05-combat-and-damage.md`
+- `01-corebook/07-magic.md`
+- `01-corebook/08-journeys.md`
+- `01-corebook/09-the-stronghold.md`
+- `01-corebook/10-gear.md`
+- `01-corebook/13-lifepaths-of-the-forbidden-lands.md`, when access matters
 
-## When To Use It
+Search for every component and defined term. State assumptions where timing,
+stacking, targets, or “once” limits are ambiguous.
 
-- Auditing a proposed talent or spell for unintended interactions with existing rules.
-- Stress-testing a character build for dominant lines.
-- Reviewing a new rule or subsystem for synergy risk before it enters the manuscript.
-- Answering player or designer questions about whether a specific combo is broken.
-- Scanning the talent and spell chapters for systemic exploitation surfaces.
-- Screening new spells, talents, gear effects, or magic item properties against the known Danger Zones using the **New Content Screener** (see Bundled References).
-- Designing new rules from scratch using the screener's decision tree to ensure the draft is safe before it reaches playtest.
+## Route the Task
 
-For new content review, always run the New Content Screener decision tree before or alongside full five-test analysis. The screener covers design identity, mechanism tagging, danger zone cross-reference, overlap analysis, red flag scanning, fix templates, and the seven abstract synergy patterns.
+- For new or revised content, start with
+  `references/new-content-screener.md`.
+- For known interaction patterns and worked examples, consult
+  `references/exploitation-surface-catalog.md` and only the relevant nested
+  category files it routes to.
+- For pressure economy and system intent, use
+  `../forbidden-lands-design/references/design-manual.md`.
+- For player psychology and spotlight, use
+  `../forbidden-lands-design/references/player-psychology-and-table-experience.md`.
+- For testing and regression, use
+  `../forbidden-lands-design/references/playtest-and-balance-protocol.md`.
 
-## Source Of Truth
+## Classify the Interaction
 
-Always ground analysis in the actual manuscript:
+Separate:
 
-- `corebook/04-talents.md` — all talent paths, kin talents, general talents
-- `corebook/07-magic.md` — all spells, casting rules, mishap tables, spell design rules
-- `corebook/05-combat-and-damage.md` — action economy, stunts, initiative, armor
-- `corebook/02-your-adventurer.md` — kin choice, profession choice, starting conditions, WP rules
-- `corebook/03-skills.md` — skill rolls, pushing, opposed rolls
-- `corebook/10-gear.md` — weapon properties, armor, crafting, poisons
+- **Additive:** bonuses or effects accumulate.
+- **Multiplicative:** one effect increases the value or frequency of another.
+- **Recursive:** output becomes input to the same loop.
+- **Substitutive:** one rule replaces another rule's cost or failure.
+- **Permission:** one option removes an access restriction.
+- **Compression:** several actions, rolls, resources, or campaign steps become
+  one.
+- **Coverage:** one build solves several roles or problem classes.
+- **Authority:** one ability controls information, NPC response, scene framing,
+  or world state beyond its apparent numerical value.
 
-Read the relevant sections before making claims. Do not argue from memory alone.
+Multiplicative, recursive, compression, coverage, and authority interactions
+deserve the deepest review.
 
-## Bundled References
+## Distinguish Mastery from Dominance
 
-Read on demand:
+### Healthy mastery
 
-- `skills/forbidden-lands-synergy-analysis/references/new-content-screener.md` — **start here for any new rule creation or review.** Professional decision tree: design identity check, mechanism tagging (37 tags), 13 danger zone cross-references, overlap analysis, red flag keywords (24), five-test analysis, 11 fix templates, 7 abstract synergy patterns, 9 guardrail sections, and a structured verdict report format.
-- `skills/forbidden-lands-synergy-analysis/references/exploitation-surface-catalog.md` — 151 worked synergy examples with five-test results and verdicts. Organized by exploitation surface category across 35+ sections.
-- `skills/forbidden-lands-design/references/design-manual.md` — pressure economy, WP economy, synergy framework, expansion framework
-- `skills/rpg-balance-analysis/references/action-economy-synergy-and-campaign-scale.md` — action economy value, game-theory taxonomy, campaign-scale tests
+- requires repeated in-play judgment
+- exposes risk or consumes scarce resources
+- depends on positioning, timing, information, or cooperation
+- has counters and situations where another approach is better
+- produces a visible, earned payoff
+- leaves other characters meaningful decisions
 
-## The Core Distinction
+### Unhealthy dominance
 
-Healthy synergy and unhealthy synergy look similar in output but differ in input cost.
+- follows from one obvious creation or advancement choice
+- is passive or always on
+- pays or refunds its own cost
+- is broadly useful across ordinary situations
+- repeats without changed judgment
+- absorbs another role or makes baseline play feel foolish
+- requires the GM to redesign opposition around it
 
-### Healthy synergy
+High output is not sufficient evidence of a problem. Low decision density,
+breadth, reliability, and repeatability often matter more.
 
-The combo requires:
+## Trace the Complete Chain
 
-- deliberate setup in play (positioning, timing, resource spend)
-- risk exposure (pushing, WP drain, mishap chance, condition vulnerability)
-- coordination between multiple players or multiple turns
-- a tradeoff that closes off other options
+Write:
 
-The payoff is dramatic and memorable because the cost was visible.
+`access → setup → trigger → cost → resolution → effect → duration → recovery → reuse`
 
-### Unhealthy synergy
+For each component record:
 
-The combo requires:
+- rank and XP
+- kin or profession gate
+- action and timing
+- range and target
+- WP, item, condition, or opportunity cost
+- roll and push permissions
+- stacking wording
+- duration and removal
+- uses per round, scene, session, and Quarter Day
+- party support required
+- counterplay
 
-- a single character-creation or advancement decision
-- no ongoing risk, setup, or meaningful tradeoff
-- no coordination — it works every time, automatically
-- nothing stops a player from choosing it once they know about it
+Do not evaluate a combo from its final number alone.
 
-The payoff is routine and dominant because the cost was invisible or absent.
+## The Eight Tests
 
-## The Five Tests
+Rate each **healthy**, **borderline**, or **unhealthy**.
 
-Apply these sequentially to any suspected synergy. If a combo fails even one test, it needs correction.
+### 1. Decision cost
 
-### 1. Decision Cost Test
+How many meaningful, context-sensitive decisions activate the line? Character
+creation and advancement choices count once, not every later use.
 
-How many meaningful decisions does the player need to make to activate this combo?
+### 2. Risk exposure
 
-- **Healthy:** Multiple decisions across play — positioning, resource spend, timing, risk acceptance.
-- **Unhealthy:** One decision at character creation or advancement. The combo activates automatically from that point.
+What can be lost: WP, attributes, gear, position, time, secrecy, reputation, or
+future opportunity? A cost refunded by the same loop is not a cost.
 
-Count the decisions. If the answer is one, the combo is suspect.
+### 3. Opportunity cost
 
-### 2. Risk Exposure Test
+Which strong alternatives, roles, actions, talents, spell paths, gear choices,
+or campaign opportunities become unavailable?
 
-What does the player risk when they use this combo?
+### 4. Repeatability
 
-- **Healthy:** WP drain, pushing banes, mishap exposure, condition vulnerability, positional danger.
-- **Unhealthy:** Nothing meaningful. The combo either avoids all risk channels or refunds its own cost.
+How often can it fire, and what restores it? Multiply moderate power by expected
+frequency. Test recovery loops and downtime.
 
-Trace the WP flow. If WP spent comes back through the same loop, the risk is cosmetic.
+### 5. Counterplay
 
-### 3. Opportunity Cost Test
+Can opponents or circumstances respond without using a contrived hard counter?
+Can the players themselves vary the line, or is repetition automatic?
 
-What does the player give up by committing to this build?
+### 6. Niche and spotlight
 
-- **Healthy:** Other strong talents, different kin abilities, alternative spell paths, gear flexibility.
-- **Unhealthy:** Nothing important. The build still has access to most of what matters.
+Does the combo solve another profession's signature problems, take most scene
+actions, require long solo resolution, or make support players spectators?
 
-Check whether the combo leaves adjacent niches intact. If it also covers what other builds specialize in, it is too broad.
+### 7. Campaign erosion
 
-### 4. Repeatability Test
+Does it permanently remove travel attrition, injury fear, scarcity, action
+limits, spell risk, social resistance, investigation, or faction consequence?
 
-How often can the combo fire per session, per encounter, per Quarter Day?
+### 8. Perceived fairness
 
-- **Healthy:** Once or twice per encounter, with setup required each time.
-- **Unhealthy:** Every round, automatically, with no cooldown or re-setup cost.
+Would informed players regard not taking it as self-sabotage? Can everyone
+understand why it works? Would its use against a player feel legible and
+answerable?
 
-Multiply the per-use power by expected frequency. A moderate effect used every round is stronger than a devastating effect used once per session.
+A failure in tests 6–8 can block a combo even when its expected numerical output
+is ordinary.
 
-### 5. Campaign Erosion Test
+## Exploitation Surfaces
 
-Does the combo hollow out a pressure channel the campaign depends on?
+Always check:
 
-- **Healthy:** The combo solves one problem well but leaves other pressures intact.
-- **Unhealthy:** The combo removes an entire category of challenge — resource attrition, travel danger, injury fear, social opposition, action economy limits.
+1. WP generation, refund, transfer, and safe spending
+2. extra actions and action-cost reduction
+3. armor bypass, damage multiplication, and area scaling
+4. defense layers, miss forcing, and immunity
+5. healing, condition removal, care, and recovery compression
+6. safe casting, grimoires, rank reduction, and mishap avoidance
+7. travel, camp, weather, food, mount, and resource bypass
+8. social bonuses, reputation, disguise, attitude, and compelled response
+9. information, lore, divination, and mystery compression
+10. hirelings, animals, summons, and extra bodies
+11. crafting, trade, stronghold, and self-funding loops
+12. lifepath access, rare professions, and early-rank acceleration
+13. party-wide auras, commands, and turn multiplication
 
-Name the pressure channel. If the combo deletes it rather than temporarily relieving it, the campaign will flatten.
+## Quantify at Four Scales
 
-## Exploitation Surface Categories
+### Use
 
-These are the structural areas where FL2E is most vulnerable to synergy abuse. Each one is detailed in the reference catalog.
+Calculate success probability, effect size, expected Banes, actions, WP, and
+other costs.
 
-1. **WP Economy Loops** — combinations that generate, refund, or multiply WP faster than the push-bane throttle intends.
-2. **Action Compression Stacking** — talents or spells that grant extra actions, combined with effects that make those actions premium.
-3. **Armor Bypass Chains** — stacking armor-ignore effects so that damage flows unimpeded every round.
-4. **Recovery Collapse** — healing, attribute restoration, or condition removal that outpaces the attrition the campaign assumes.
-5. **Defense Stacking** — layering dodge bonuses, damage reduction, and miss-forcing effects until the character is functionally invulnerable.
-6. **Safe Casting Compression** — reducing spell risk (grimoire + safe casting + high rank) until magic becomes riskless universal problem-solving.
-7. **Travel Pressure Bypass** — combining camp, shelter, food, and weather talents until the expedition loop stops mattering.
-8. **Social Domination** — stacking manipulation bonuses, artifact dice, reputation leverage, and attitude-shifting effects until all NPC interactions collapse into auto-success.
+### Scene
 
-## Analysis Method
+Compare rounds, targets, prevented damage, denied actions, and spotlight against
+ordinary and specialist baselines.
 
-For any suspected combo, follow this procedure:
+### Session
 
-### Step 1 — Identify the components
+Estimate actual uses, renewal, repeated optimal lines, and problem coverage.
 
-List every talent rank, spell, kin ability, gear property, and condition involved.
+### Campaign
 
-### Step 2 — Trace the interaction
+Trace advancement efficiency, wealth, attrition, recovery, travel range,
+information authority, and GM adaptation.
 
-Describe exactly how the pieces connect. Which rule feeds into which? What triggers what?
+Use strict, expected, and permissive interpretations when wording is disputed.
 
-### Step 3 — Apply the five tests
+## Party-Level Analysis
 
-Run the decision cost, risk exposure, opportunity cost, repeatability, and campaign erosion tests. Score each as healthy, borderline, or unhealthy.
+Test the combination in a full group. Ask:
 
-### Step 4 — Check the pressure stack
+- Does one specialist enable several characters or multiply one dominant carry?
+- Does coordination require choices from each participant?
+- Who pays resources and who receives the payoff?
+- Does the line work if one member is absent, Broken, or opposed?
+- Does the group still need scouting, care, negotiation, craft, and logistics?
+- Does the same tactic answer every encounter?
 
-Using the design manual's pressure economy framework, name which pressure channels the combo relieves and which it leaves intact.
+Party synergy is healthiest when different players own different decisions and
+the plan can fail in several understandable ways.
 
-### Step 5 — Compare to baselines
+## Sandbox and Authority Analysis
 
-What does a character without this combo look like in the same situation? If the gap is enormous with no corresponding cost, the combo is dominant.
+Some combinations dominate through fictional authority rather than dice.
+Measure whether they:
 
-### Step 6 — Recommend
+- reveal all useful information with one roll
+- force NPC cooperation without new obligations
+- bypass travel and access distinctions
+- neutralize faction clocks or legal consequences
+- manufacture scarce goods without market response
+- let one character decide the party's destination or alliances
+- compel the GM to hide information or invent immunities
 
-One of:
+Treat broad narrative permissions as high-value effects even when no bonus is
+listed.
 
-- **Clean** — the combo is strong but earned. No action needed.
-- **Monitor** — the combo is borderline. Flag for GM awareness but do not change rules.
-- **Cap** — add a frequency limit, WP ceiling, or cooldown to one component.
-- **Restructure** — one component needs a redesign to close the loop.
-- **Separate** — the components should not be available to the same character without a significant gate.
+## Fix Strategy
 
-## Output Format
+Use the smallest fix that restores decisions:
 
-When reporting a synergy analysis, use this structure:
+1. clarify scope, trigger, timing, or stacking
+2. restore an action or resource cost
+3. limit frequency or renewal
+4. require fictional position, setup, or coordination
+5. add ordinary counterplay
+6. narrow targets or problem coverage
+7. move access to a later rank or rarer gate
+8. replace passive certainty with a choice
+9. reduce numerical effect
+10. redesign one component
 
-```
-## [Combo Name]
+Do not punish the entire party, inflate every enemy, or rely on secret GM
+exceptions. Preserve the combo's intended fantasy where possible.
 
-**Components:** [list of talents, spells, kin, gear involved]
-**Build cost:** [what character creation and advancement decisions are required]
-**Activation cost:** [what the player spends each time they use it in play]
+## Verdicts
 
-### How it works
-[Describe the interaction chain]
+- **Clean:** strong, legible, and earned.
+- **Monitor:** no clear failure, but repetition or table culture may expose one.
+- **Clarify:** ambiguity creates materially different power.
+- **Cap:** frequency or scaling is the main problem.
+- **Narrow:** breadth or niche coverage is the main problem.
+- **Restructure:** the loop needs a decision, cost, or counter.
+- **Separate:** access to the components needs a meaningful gate.
 
-### Five-test results
-| Test | Result | Reasoning |
-|------|--------|-----------|
-| Decision cost | Healthy/Borderline/Unhealthy | ... |
+## Report Format
+
+### [Combination]
+
+**Components and sources:** [list]
+
+**Access and build cost:** [cost]
+
+**Activation chain:** [chain]
+
+**Assumptions:**
+
+| Test | Rating | Evidence |
+| --- | --- | --- |
+| Decision cost | ... | ... |
 | Risk exposure | ... | ... |
 | Opportunity cost | ... | ... |
 | Repeatability | ... | ... |
+| Counterplay | ... | ... |
+| Niche and spotlight | ... | ... |
 | Campaign erosion | ... | ... |
+| Perceived fairness | ... | ... |
 
-### Pressure channels affected
-[Which pressures does this relieve or delete?]
+**Baseline comparison:** [comparison]
 
-### Baseline comparison
-[What does the same situation look like without this combo?]
+**Strongest interpretation:** [interpretation]
 
-### Verdict
-[Clean / Monitor / Cap / Restructure / Separate]
+**Party and sandbox impact:** [impact]
 
-### Recommended correction
-[If needed, what specific change fixes it?]
-```
+**Verdict:** [verdict]
 
-## What This Skill Does Not Do
+**Smallest effective correction:** [correction]
 
-- It does not replace the `forbidden-lands-design` skill for general rules design.
-- It does not replace the `rpg-balance-analysis` skill for broad balance evaluation.
-- It focuses specifically on multi-rule interactions and their exploitation potential.
-- It assumes the individual rules are already well-designed; it tests what happens when they meet.
+**Regression cases:**
+
+## Final Quality Gate
+
+- [ ] Every component was verified in the current manuscript.
+- [ ] Access, setup, cost, effect, duration, and renewal were traced.
+- [ ] Strict and permissive wording were tested.
+- [ ] Ordinary, specialist, and optimized baselines were compared.
+- [ ] Repetition was measured at scene, session, and campaign scale.
+- [ ] Niche, spotlight, narrative authority, and fairness were audited.
+- [ ] Full-party and depleted-state cases were tested.
+- [ ] The correction preserves the intended fantasy.
+- [ ] Regression tests cover adjacent options and pressure channels.

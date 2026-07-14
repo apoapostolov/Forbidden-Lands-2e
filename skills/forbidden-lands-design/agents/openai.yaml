@@ -1,0 +1,4 @@
+interface:
+  display_name: "Forbidden Lands Design"
+  short_description: "Design balanced rules and supplements"
+  default_prompt: "Use $forbidden-lands-design to turn this idea into a balanced, integrated, player-centered Forbidden Lands rule."

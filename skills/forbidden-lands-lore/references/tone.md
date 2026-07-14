@@ -2,7 +2,7 @@
 
 This is the lore-side authority for **what the world feels like** and
 **what kinds of situations are authentic to it**. The companion skill
-`forbidden-lands-writing` owns sentence-level prose technique. This
+`forbidden-lands-writing-voice` owns sentence-level prose technique. This
 file owns the setting-grounded answer to: _is this scenario in the
 right register for Forbidden Lands?_
 
@@ -348,5 +348,5 @@ acknowledged, even if none is resolved.
   geography
 - `skills/forbidden-lands-bestiary/SKILL.md` — the seven
   encounter shapes and the Resources mandate
-- `skills/forbidden-lands-writing/SKILL.md` — sentence-level
+- `skills/forbidden-lands-writing-voice/SKILL.md` — sentence-level
   voice and the worldbuilding prose techniques

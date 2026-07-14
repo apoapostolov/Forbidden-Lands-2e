@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD013 MD024 MD033 -->
+
 # Forbidden Lands 2E
 
 <div style="display: flex; width: 90%; gap: 1%; align-items: flex-start;">
@@ -41,7 +43,11 @@ From `1.0.0` through `1.1.3`, this edition brings together the additions that tu
 - Myths learned from sages, lost tomes, and grimoires, granting a growing Myth Die for narrow fields of secret knowledge.
 - Optional Linked Rolls for carrying exceptional or failed results forward through complex plans and coordinated actions.
 - Clear party procedures for stealth, surprise, and chases, with better-defined result quality and modifiers.
-- A bundled *Forbidden Lands* skill suite for AI and Game Master coworking.
+- A deeply audited *Forbidden Lands* skill suite for AI and Game Master
+  coworking, with explicit methods for player psychology, sandbox and freeform
+  campaign design, supplement architecture, adversarial balance testing,
+  medieval authenticity, lore continuity, manuscript voice, and monster-driven
+  situations.
 - A larger bestiary with new monsters, humanoid enemy bands, encounters, legends, and salvage.
 - Full faction play and political campaign rules with territory, pressure, recovery, and long-term consequences.
 - A mass combat system for wars, field battles, sieges, blockade, breach, and relief.
@@ -92,20 +98,25 @@ Only carry over the *Forbidden Lands* skills you actually need:
 | Skill | Use it for |
 | --- | --- |
 | `yze-design` | Build a new Year Zero Engine game for any genre; invent, transplant, and stress-validate mechanics from proven YZE primitives |
-| `forbidden-lands-bestiary` | New monsters, encounter tables, Lore Rolls, Monster Attacks, and salvage design |
-| `forbidden-lands-design` | New rules, subsystems, procedures, and campaign mechanics |
-| `forbidden-lands-lore` | Setting truth, place names, kin, factions, religion, and regional consistency |
-| `forbidden-lands-medieval-authenticity` | Camp life, survival work, barter, bodily strain, and Bitter Reach material reality |
-| `forbidden-lands-synergy-analysis` | Balance stress-testing, dominant combos, loopholes, and exploit surfaces |
-| `forbidden-lands-writing-voice` | Final prose, rules voice, examples, flavor, and manuscript register |
+| `forbidden-lands-bestiary` | Mechanically native monsters, discoverable weaknesses, Lore Rolls, encounter situations, legends, ecology, and salvage |
+| `forbidden-lands-design` | Integrated rules and supplements, player psychology, sandbox procedures, freeform play, playtesting, and campaign mechanics |
+| `forbidden-lands-lore` | Canon, chronology, places, kin, factions, religion, regional consistency, and playable information |
+| `forbidden-lands-medieval-authenticity` | Material life, logistics, settlements, customary law, violence, care, barter, labor, and responsible realism |
+| `forbidden-lands-synergy-analysis` | Dominant builds, stacking, narrative authority, spotlight, niche protection, loopholes, and campaign-pressure bypasses |
+| `forbidden-lands-writing-voice` | Clear rules, usable GM guidance, examples, unresolved sandbox situations, fiction, and manuscript register |
 
 ### Recommended skill stacks
 
 - **New YZE game for any genre:** `yze-design`
-- **New region or campaign frame:** `forbidden-lands-lore`, `forbidden-lands-writing-voice`, and `forbidden-lands-medieval-authenticity`
-- **New subsystem or house rule:** `forbidden-lands-design` and `forbidden-lands-synergy-analysis`
+- **New region or campaign frame:** `forbidden-lands-design`,
+  `forbidden-lands-lore`, `forbidden-lands-writing-voice`, and
+  `forbidden-lands-medieval-authenticity`
+- **New subsystem, profession, or house rule:** `forbidden-lands-design` and
+  `forbidden-lands-synergy-analysis`
 - **New monster or enemy band:** `forbidden-lands-bestiary`, `forbidden-lands-lore`, and `forbidden-lands-medieval-authenticity`
 - **Campaign handouts and local color:** `forbidden-lands-writing-voice` and `forbidden-lands-lore`
+- **Full supplement quality pass:** all six `forbidden-lands-*` skills, with
+  `yze-design` added only when engine-independent construction is needed
 
 ### Set up a local campaign repository
 
@@ -139,9 +150,13 @@ Useful workflow:
 
 1. Keep regional truth, factions, and place names in the campaign repo.
 2. Use `forbidden-lands-lore` to stop continuity drift.
-3. Use `forbidden-lands-design` before committing a new rule or subsystem.
+3. Use `forbidden-lands-design` before committing a new rule, subsystem,
+   sandbox procedure, profession, or supplement chapter.
 4. Use `forbidden-lands-bestiary` when a location needs new creatures, salvage, or wilderness pressure.
-5. Use `forbidden-lands-writing-voice` and `forbidden-lands-medieval-authenticity` for letters, rumors, village color, legends, expedition notes, and Bitter Reach material.
+5. Use `forbidden-lands-writing-voice` and
+   `forbidden-lands-medieval-authenticity` for rules examples, letters,
+   rumors, village situations, customary law, legends, expedition notes, and
+   grounded material detail.
 6. Track campaign changes in your own changelog so setting drift stays visible.
 
 ## Back matter and support files

@@ -7,8 +7,9 @@ into prose practice. It answers not "what are the correct names"
 but "how do characters use those names in speech, in writing,
 and in thought."
 
-Sources: `skills/forbidden-lands-lore/references/kin-deep-dive.md`,
-`gods-and-religions.md`, and `setting-ravenland-and-human-peoples.md`.
+Sources: `skills/forbidden-lands-lore/references/kin.md`,
+`skills/forbidden-lands-lore/references/gods.md`, and
+`skills/forbidden-lands-lore/references/setting.md`.
 
 ---
 

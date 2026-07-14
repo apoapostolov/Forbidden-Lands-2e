@@ -1,0 +1,4 @@
+interface:
+  display_name: "Forbidden Lands Writing Voice"
+  short_description: "Write clear rules and vivid setting prose"
+  default_prompt: "Use $forbidden-lands-writing-voice to revise this passage into clear, concrete, setting-native manuscript prose."

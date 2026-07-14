@@ -13,7 +13,7 @@ regions.
 
 **Confirm the scope of the source material:**
 
-1. Does this source cover a new region not yet in `places.md`, or
+1. Does this source cover a new region not yet in `references/places.md`, or
    does it extend the existing core Ravenlands?
 2. **Is this an expansion region** — a neighboring country distinct
    from the Ravenlands with its own kin, geography, gods, and magic?
@@ -92,7 +92,7 @@ in SKILL.md.]
 ```
 
 Wire the campaign file into `SKILL.md` under **Campaign Files**
-using the same format as `ravens_purge.md`.
+using the same format as `campaigns/ravens_purge.md`.
 
 ### A2 — Three Passes: Ravenlands Triage Destinations
 
@@ -240,8 +240,9 @@ on. After the pass: grep-audit five to ten key proper nouns from
 each major section to verify coverage.
 
 **Pass 2 — Lore Depth Audit:** Re-read at higher speed looking
-for named individuals not yet in `kin.md`, faction tensions not
-yet in `places.md`, ecological detail not yet in `bestiary.md`,
+for named individuals not yet in `references/kin.md`, faction tensions not
+yet in `references/places.md`, ecological detail not yet in
+`references/bestiary.md`,
 and artifact provenance gaps. Write immediately when found.
 After the pass: a GM using only the skill files should be able
 to run a session in any named location without obvious gaps.
@@ -308,20 +309,22 @@ not committed to the repo.
 
 **Expansion region directory:**
 `regions/<slug>/`
-— with files: `setting.md`, `kin.md`, `history.md`, `gods.md`,
-`bestiary.md`, `artifacts.md`, `places.md`
+— with files: `regions/<slug>/setting.md`, `regions/<slug>/kin.md`,
+`regions/<slug>/history.md`, `regions/<slug>/gods.md`,
+`regions/<slug>/bestiary.md`, `regions/<slug>/artifacts.md`, and
+`regions/<slug>/places.md`
 
 **Expansion region campaign file:**
 `campaigns/<slug>.md`
 
-**Slug format:** lowercase, words separated by underscores,
-matching the source material's title closely enough to be
-unambiguous.
+**Slug format:** lowercase kebab-case, matching the source material's title
+closely enough to be unambiguous. `campaigns/ravens_purge.md` is a legacy
+filename; do not copy its underscore style for new files.
 
 Examples:
 
 - `campaigns/ravens_purge.md` — Raven's Purge (Ravenlands)
 - `campaigns/bloodmarch.md` — The Bloodmarch spoilers
-- `campaigns/bitter_reach.md` — The Bitter Reach spoilers
+- The Bitter Reach campaign spoiler file is not bundled in this repository
 - `regions/bloodmarch/` — The Bloodmarch non-spoiler reference
-- `regions/bitter_reach/` — The Bitter Reach non-spoiler reference
+- `regions/the-bitter-reach/` — The Bitter Reach non-spoiler reference

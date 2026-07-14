@@ -1,18 +1,9 @@
 ---
 name: forbidden-lands-writing-voice
-description: |
-  Use when drafting, revising, or auditing any prose for the Forbidden
-  Lands 2E manuscript. Covers two distinct voice modes: the Writing Voice
-  (fiction vignettes, epigraphs, novella-style worldbuilding, flavor
-  exposition) and the Rules Voice (talent and skill definitions, combat
-  procedures, item entries, spell descriptions, game example scenes, and
-  any rules text in the corebook or supplements). Includes eight author
-  deep-dives, the 43-pattern anti-AI humanizer, composite voice synthesis,
-  rules-voice game-designer register, sentence architecture, dialogue
-  mechanics, sensory vocabulary, rewrite calibration examples, and the
-  voice test protocol. Load when writing or auditing any manuscript prose
-  — fiction or rules — where generic AI output would be detected.
+description: Draft, revise, or audit Forbidden Lands 2E manuscript prose. Use for rules, examples, tables, vignettes, epigraphs, legends, NPCs, locations, encounters, and GM guidance that must be clear, concrete, setting-native, playable, and free of generic AI style. Covers concise rules voice, physical dark-fantasy fiction, dialogue, sensory detail, register control, and sandbox-facing situation writing.
 ---
+
+<!-- markdownlint-disable MD013 MD060 -->
 
 # Forbidden Lands Writing Voice
 
@@ -21,9 +12,9 @@ for the Forbidden Lands 2E manuscript. It defines two voice modes that
 must coexist in the book, names the authors whose techniques define the
 fiction mode, and gives the operational rules for the rules mode.
 
-For the complete combined skill that adds sentence rules, manuscript
-register system, worldbuilding voice patterns, and rewrite calibration
-on top of this layer, load `skills/forbidden-lands-writing/` instead.
+Use this skill as the complete prose router. Load only the references required
+for the passage and pair it with `forbidden-lands-lore` whenever the prose
+makes setting claims.
 
 ## The Two Voices
 
@@ -91,13 +82,11 @@ submission checklist.
 
 ## The Literary Tradition
 
-This voice sits at the intersection of six modern literary lineages.
-The Abercrombie-Cook line covers the mercenary company fiction voice
-specifically — contracted violence, company hierarchy, band-of-brothers
-register. See `skills/forbidden-lands-writing/references/fiction-voice-abercrombie-cook.md`
-when writing mercenary band fiction.
+This voice draws technique from eight modern literary lineages. Use the
+techniques to solve sentence and scene problems; do not mimic a living author's
+distinctive voice or reproduce recognizable passages.
 
-The six authors analyzed in this skill define the general manuscript
+The authors analyzed in this skill define the general manuscript
 registers the project requires:
 
 | Author | Primary Contribution |
@@ -128,13 +117,10 @@ Load by scene type, not by preference:
   `references/author-abercrombie.md` for violence in claustrophobic
   detail and aftermath)
 - **Grief, long memory, sacred place** → Kay + Gwynne
-- **Economic pressure, craft, survival mechanics** → Parker + Cornwell
-  - Le Guin
+- **Economic pressure, craft, survival mechanics** → Parker + Cornwell +
+  Le Guin
 - **Mercenary company, contracted violence, hired sword** →
   `references/author-abercrombie.md` + `references/author-glen-cook.md`
-  For the vignette synthesis of how both authors combine into one
-  operational fiction voice, load
-  `skills/forbidden-lands-writing/references/fiction-voice-abercrombie-cook.md`
 - **Vignette or epigraph** → Kay + Sapkowski
 - **Rules prose, game example scenes, chapter structure** →
   `references/rules-voice.md`
@@ -255,6 +241,83 @@ Load by scene type, not by preference:
   thresholds), Author Lens Check (per-register positive and negative
   signals). Use as the final gate before integrating prose.
 
+## Write for Play
+
+Manuscript prose must help someone decide, imagine, or act. Give each passage a
+job:
+
+- teach a procedure
+- reveal a usable fact
+- establish a concrete situation
+- distinguish a person, place, object, or threat
+- present a cost, opportunity, or uncertainty
+- show the consequence of a rule
+
+Cut lore summary, atmosphere, or design commentary that performs none of these
+jobs.
+
+### Sandbox-facing prose
+
+Write situations with unresolved pressure. Present:
+
+- what is visibly happening
+- what each actor wants
+- what constrains them
+- what can be learned or changed
+- what worsens with time
+
+Do not predict player choices, name the correct moral answer, protect a planned
+scene, or state that the adventurers “must” act unless a rule literally compels
+them.
+
+Write GM-facing secrets as causes and response logic, not as plot beats. Prefer:
+
+> If the miller is exposed, Yawim closes the east road and offers the grain to
+> the Rust Brothers.
+
+Avoid:
+
+> After the adventurers expose the miller, they will confront Yawim in the
+> climactic scene.
+
+### Information prose
+
+Separate:
+
+- observable fact
+- common belief
+- speaker's claim
+- GM truth
+- mechanical effect
+
+Do not let omniscient narration erase uncertainty intended for play. Rumors
+should identify a source and a concrete claim. Clues should suggest a preparation
+or question without announcing the hidden mechanic.
+
+### Rules examples
+
+An example should settle a real ambiguity. Include:
+
+1. fictional position
+2. player intent
+3. rule invoked
+4. dice or cost
+5. outcome
+6. changed situation
+
+Do not make the example merely repeat the preceding rule with names attached.
+
+### GM guidance
+
+Give criteria and an operation:
+
+> When another Myth could clarify the text's language, symbols, author, or
+> subject, the GM may let it help; add only the highest directly relevant Myth
+> Die.
+
+Avoid vague permission such as “the GM may adjust this as needed” unless the text
+also names the relevant factors and limits.
+
 ## Hard Rules
 
 1. **Load the anti-AI humanizer before submitting any draft.** Run
@@ -272,27 +335,18 @@ Load by scene type, not by preference:
 4. **The monster is a contract. The relic has a price. The faction
    is partly right.** These are structural constraints inherited from
    the literary tradition and built into the lore. See
-   `skills/forbidden-lands-lore/references/tone-and-encounter-design.md`.
+   `skills/forbidden-lands-lore/references/tone.md`.
 
-5. **For manuscript drafting, load `skills/forbidden-lands-writing/`**
-   which combines this author-technique layer with sentence rules,
-   register system, rewrite calibration, and worldbuilding voice
-   patterns.
-
-6. **Abercrombie and Cook are the mercenary company voice.**
+5. **Abercrombie and Cook techniques suit the mercenary company voice.**
    For individual author technique: `references/author-abercrombie.md`
-   and `references/author-glen-cook.md`. For the vignette synthesis
-   (how the 25 Band Life vignettes combine both authors into one
-   operational voice), load
-   `skills/forbidden-lands-writing/references/fiction-voice-abercrombie-cook.md`.
+   and `references/author-glen-cook.md`.
    Neither is the general manuscript voice.
 
 ## Companion Skills
 
-- `skills/forbidden-lands-writing/SKILL.md` — complete combined skill:
-  author techniques (this skill), sentence rules, register system,
-  anti-AI patterns, worldbuilding voice, rewrite calibration
 - `skills/forbidden-lands-lore/SKILL.md` — setting authenticity,
   tonal classification, encounter anti-tropes
 - `skills/forbidden-lands-bestiary/SKILL.md` — encounter design
-  mandate, the seven encounter shapes
+  and monster construction
+- `skills/forbidden-lands-design/SKILL.md` — mechanics, player
+  experience, sandbox procedures, and supplement architecture

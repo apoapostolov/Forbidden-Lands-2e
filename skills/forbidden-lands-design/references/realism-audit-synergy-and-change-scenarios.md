@@ -167,7 +167,7 @@ Separate:
 - final manuscript rule text
 
 Proposal logic belongs in proposals.
-Only native rulebook prose should cross into `corebook/`.
+Only native rulebook prose should cross into `01-corebook/`.
 
 ### Audit verdict classes
 

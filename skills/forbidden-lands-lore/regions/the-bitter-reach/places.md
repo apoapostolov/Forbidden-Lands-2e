@@ -63,8 +63,8 @@ land three thousand years ago.
 The glacier is melting. The cause is the breaking of
 the Seal of Stars — the first of Blaudewedd's five
 locks. As the other Seals break, the melt will
-accelerate. See `campaigns/bitter_reach.md` for the
-implications of each Seal's destruction.
+accelerate. The implications of each Seal's destruction are
+spoiler content in the unbundled _Wake of the Winter King_ source.
 
 ### Icemoor
 
@@ -248,9 +248,8 @@ badly wounded.
 The breaking was marked by a shower of shooting stars
 visible across the Bitter Reach on the night it happened.
 
-See `campaigns/bitter_reach.md` for the consequences
-of the first Seal's destruction and what remains
-in the tower.
+The consequences of the first Seal's destruction and what remains
+in the tower are spoiler content in the unbundled campaign source.
 
 ### Bleakness Keep
 
@@ -283,9 +282,8 @@ tomb. Two named artifacts — Headsbane and Night-and-day
 — are in the armory. See `artifacts.md` for their
 legends.
 
-See `campaigns/bitter_reach.md` for what Namtarel's
-status is during the campaign and what happens when
-his tomb is disturbed.
+Namtarel's campaign status and the consequences of disturbing
+his tomb are spoiler content in the unbundled campaign source.
 
 ### Hope's Last Rest
 
@@ -426,8 +424,8 @@ after a battle in the arena.
   possesses the ability to briefly see the future;
   has fought here for five years; patron is Kvaldor
 
-See `campaigns/bitter_reach.md` for the Seal of Fire,
-its guardian Gibil, and what lies beneath the arena.
+The Seal of Fire, its guardian Gibil, and what lies beneath the
+arena are spoiler content in the unbundled campaign source.
 
 ### Frostwind Hold
 
@@ -492,8 +490,8 @@ earned genuine trust. See `kin.md` for more on Hoyra.
   shelter cut into the rock; deeper passages
   lead toward the old winter elven tower
 
-See `campaigns/bitter_reach.md` for the Seal of Wind
-and what happens if it is threatened or destroyed.
+What happens if the Seal of Wind is threatened or destroyed is
+spoiler content in the unbundled campaign source.
 
 ### Palace of the Ice Giants
 
@@ -540,9 +538,8 @@ stumbling into it during a storm or a pursuit.
   across the Bitter Reach; Ice Giants use them
   as watch posts
 
-See `campaigns/bitter_reach.md` for the Seal of
-Earth, the conflict between Bor and Rym, and what
-Wurda's involvement means for the campaign.
+The Seal of Earth, the conflict between Bor and Rym, and Wurda's
+campaign role are spoiler content in the unbundled campaign source.
 
 ### Wyrm's Fist (Alderlander Flagship)
 
@@ -599,8 +596,8 @@ public goals.
 - The Bilge access also connects to the cells
   via a maintenance hatch
 
-See `campaigns/bitter_reach.md` for Baraggor's
-true mission and Versipel's role in the campaign.
+Baraggor's true mission and Versipel's campaign role are spoiler
+content in the unbundled campaign source.
 
 ### The Sunken City (Harbor of Dreams)
 
@@ -651,9 +648,8 @@ defends the surrounding waters.
   structure; mostly submerged; the Seal of Water
   is inside
 
-See `campaigns/bitter_reach.md` for the Seal of
-Water, Abzu, and what the Misgrown presence here
-means.
+The Seal of Water, Abzu, and the meaning of the Misgrown presence
+are spoiler content in the unbundled campaign source.
 
 ### Palace of the Winter King
 
@@ -713,9 +709,8 @@ she stirs alongside him.
   be destroyed by mortal force until the Seals
   are broken; Scrana is imprisoned nearby
 
-See `campaigns/bitter_reach.md` for the five-stage
-awakening of the palace, the endgame confrontation,
-and the three armies' competing offers to the PCs.
+The palace's awakening, the endgame confrontation, and the three
+armies' offers are spoiler content in the unbundled campaign source.
 
 ---
 

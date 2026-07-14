@@ -518,17 +518,17 @@ west.
 
 ## Cross-References
 
-- `setting-ravenland-and-human-peoples.md` — peoples and broad
+- `setting.md` — peoples and broad
   geography
-- `tone-and-encounter-design.md` — village tonal authenticity
+- `tone.md` — village tonal authenticity
   and the anti-tropes
-- `gods-and-religions.md` — shrine deities and religious
+- `gods.md` — shrine deities and religious
   presence by region
-- `kin-deep-dive.md` — clan-by-clan hold detail (Belderand,
+- `kin.md` — clan-by-clan hold detail (Belderand,
   Stonegarden, Scarnehall, Feulenmark)
-- `bestiary-creatures-and-monsters.md` — creatures linked to
+- `bestiary.md` — creatures linked to
   named places (Menkaura, Erinya, mire drake of the Blush,
   Scarda's serpents)
-- `artifacts-and-named-relics.md` — artifacts associated with
+- `artifacts.md` — artifacts associated with
   named places (Wail's Horn at Belderand, Tezaur in Dankwood,
   Tvedra's Ring at Falender, Phantom Dagger in The Hollows)
