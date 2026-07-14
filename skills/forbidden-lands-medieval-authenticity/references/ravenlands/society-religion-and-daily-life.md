@@ -36,7 +36,9 @@ identical.
 
 ## See Also
 
+- [Religions: Rites, Beliefs, and Anathemas](religions-rites-beliefs-and-anathemas.md)
 - [Psychology and Social Character](psychology-and-social-character.md)
+- [Rust Brothers: Fear, Doctrine, and Control](rust-brothers-fear-doctrine-and-control.md)
 - [Village Economy and Barter](../generic/village-economy-and-barter.md)
 - [Psychological Trauma](../generic/psychological-trauma.md)
 - [Uncomfortable Realities](../generic/uncomfortable-realities.md)
@@ -562,6 +564,11 @@ exchange from ordinary predation; it does not reveal the whole social order.
 
 ## Religion as Daily Institution
 
+For the full treatment of Raven and Wyrm duality, the Protector churches, the
+Older Gods, kin traditions, ceremonies, dogmas, and anathemas, see [Religions
+of the Ravenlands](religions-rites-beliefs-and-anathemas.md). The sections below
+show how those faiths operate inside settlement society.
+
 ### Religion Separates and Connects
 
 The three faces of the Protector—Wyrm, Raven, and Rust—are not harmless names
@@ -606,9 +613,24 @@ slag. Heme joins life, disease, wood, blood, hunt, fertility, and sacrifice.
 This vocabulary makes coercion appear as necessary refinement.
 
 The church also provides real organization: armed Iron Guard, tribute routes,
-ritual authority, protection, and management of undead. Its followers need not
-be fools. Some have received protection, food, office, or a persuasive account
-of why their village survived. Others submit because refusal is fatal.
+ritual authority, protection, and management of undead. These services do not
+moderate its evil. They make coercion durable. A settlement that depends on the
+Guard for a road or on a Brother to remove its dead can be punished without
+being destroyed.
+
+Rust rule prefers selective terror to ruin. One household is investigated,
+one respected person is tortured or executed, and every neighbor is made to
+witness, testify, or profit. The fields remain planted. The punishment continues
+through altered offices, divided property, and the fear that private knowledge
+has already reached the priory.
+
+The order also searches demon sites, seizes written accounts, and removes
+dangerous remains in sealed vessels. It may destroy a copy in public after
+preserving the information for its superiors. Its doctrine calls this mercy:
+ordinary people must remain ignorant because knowledge of demonic weakness is
+believed to invite demonic reprisal. See [Rust Brothers: Fear, Doctrine, and
+Control](rust-brothers-fear-doctrine-and-control.md) for the full institutional
+and settlement profile.
 
 ### Older Gods and Work
 

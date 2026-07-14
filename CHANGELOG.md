@@ -66,8 +66,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - **`/forbidden-lands-medieval-authenticity` — society and psychology.** Added
   references for households, barter, customary law, religion, leadership,
-  fear, trauma, violence, care, outlawry, and Bitter Reach social life,
-  including difficult realities useful to grounded play.
+  fear, trauma, violence, care, and outlawry across the Ravenlands and Bitter
+  Reach. A dedicated Ravenlands religion reference develops Raven and Wyrm
+  duality, the Older Gods, kin faiths, ceremonies, dogmas, and anathemas. GMs
+  can also portray Rust and Heme rule through cult ranks, ordination, coerced
+  household practice, religious law, selective punishment, knowledge seizure,
+  and demonic secrecy.
 
 ### Changed
 

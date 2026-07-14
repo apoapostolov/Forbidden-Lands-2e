@@ -10,8 +10,10 @@ conditions, and social development described in Book 02.
 
 | Document | Lines | Focus |
 | --- | ---: | --- |
-| [society-religion-and-daily-life.md](ravenlands/society-religion-and-daily-life.md) | 776 | Households, villages, authority, law, hospitality, kin, faith, burial, festivals |
-| [psychology-and-social-character.md](ravenlands/psychology-and-social-character.md) | 742 | Blood Mist conditioning, trust, identity, grief, trauma, magic, recovery |
+| [society-religion-and-daily-life.md](ravenlands/society-religion-and-daily-life.md) | 798 | Households, villages, authority, law, hospitality, kin, faith, burial, festivals |
+| [religions-rites-beliefs-and-anathemas.md](ravenlands/religions-rites-beliefs-and-anathemas.md) | 1474 | Protector duality, gods, kin faiths, rites, dogmas, and anathemas |
+| [psychology-and-social-character.md](ravenlands/psychology-and-social-character.md) | 751 | Blood Mist conditioning, trust, identity, grief, trauma, magic, recovery |
+| [rust-brothers-fear-doctrine-and-control.md](ravenlands/rust-brothers-fear-doctrine-and-control.md) | 1739 | Rust and Heme ranks, rites, doctrine, anathemas, terror, and demonic secrecy |
 
 ## Generic Medieval Content
 
@@ -75,8 +77,10 @@ Maximum 1800 lines per document. Current status:
 - `psychological-trauma.md` (The Bitter Reach): 268 lines (15%)
 - `uncomfortable-realities.md` (The Bitter Reach): 619 lines (34%)
 - `outlawry.md` (The Bitter Reach): 785 lines (44%)
-- `society-religion-and-daily-life.md` (Ravenlands): 776 lines (43%)
-- `psychology-and-social-character.md` (Ravenlands): 742 lines (41%)
+- `society-religion-and-daily-life.md` (Ravenlands): 798 lines (44%)
+- `religions-rites-beliefs-and-anathemas.md` (Ravenlands): 1474 lines (82%)
+- `psychology-and-social-character.md` (Ravenlands): 751 lines (42%)
+- `rust-brothers-fear-doctrine-and-control.md` (Ravenlands): 1739 lines (97%)
 
 ## Companion Skills
 

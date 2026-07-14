@@ -33,6 +33,7 @@ repeatedly rewarded, punished, and made possible.
 ## See Also
 
 - [Society, Religion, and Daily Life](society-religion-and-daily-life.md)
+- [Rust Brothers: Fear, Doctrine, and Control](rust-brothers-fear-doctrine-and-control.md)
 - [Generic Psychological Trauma](../generic/psychological-trauma.md)
 - [Morale, Fear, and Leadership](../generic/morale-fear-leadership.md)
 - [Equipment and Health Maintenance](../generic/equipment-health-maintenance.md)
@@ -194,6 +195,14 @@ A person may reject Rust doctrine and still experience the sight of Rust colors
 as relief because those colors once meant someone could carry a message beyond
 the village. Another may be devout and panic because the same colors preceded a
 collection or purge. Religion is encoded in bodily memory as well as argument.
+
+The church exploits that ambivalence through selective terror. It preserves the
+village, chooses a victim whose punishment will be widely felt, and leaves the
+survivors to enforce the new order. People then fear one another's testimony,
+their own past compromises, and the sound of iron on the road. See [Rust
+Brothers: Fear, Doctrine, and Control](rust-brothers-fear-doctrine-and-control.md)
+for the order's cultivated strangeness, recruitment of marked bodies, demonic
+secrecy, and psychology of disciplined cruelty.
 
 ---
 
