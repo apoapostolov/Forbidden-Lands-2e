@@ -156,9 +156,9 @@ Soil names an agricultural future. Thin upland ground favors grazing and hardy
 crops. Deep river soil rewards labor and attracts claims. Acid forest earth can
 support one pattern while resisting another.
 
-Plant cover reveals use. Coppiced stems, pollarded trees, old hedge lines,
-orchard ghosts, and nettles around vanished walls show human history to a trained
-eye.
+Plant cover reveals use. Coppiced stems and pollarded trees show repeated
+cutting. Old hedge lines preserve boundaries. Orchard ghosts and nettles around
+vanished walls mark habitation to a trained eye.
 
 ### Wind
 
@@ -171,8 +171,9 @@ door side marks himself before speaking.
 
 ### Distance
 
-Map distance becomes lived distance through surface, slope, weather, load,
-animals, ferries, legal passage, and daylight.
+Surface, slope, and weather determine the effort behind map distance. Load and
+animals set the pace. Ferries, legal passage, and daylight decide how much of
+the route is usable.
 
 Residents speak of “a short road” that may be longer in miles than a dangerous
 direct track.
@@ -187,9 +188,9 @@ Prepare every important route in at least two seasons.
 
 ### Memory
 
-Landscape carries named events. The bend where raiders were stopped, the field
-where nobody plants, the oak that witnessed a peace, and the road abandoned
-during the Blood Mist alter present movement.
+Landscape carries named events. Raiders were stopped at one bend. One field is
+left unplanted. An oak witnessed a peace, while a road keeps the memory of its
+abandonment during the Blood Mist. Each place alters present movement.
 
 Memory can preserve a hazard after its material cause has gone or invite danger
 where an old warning is dismissed too soon.
@@ -200,25 +201,28 @@ where an old warning is dismissed too soon.
 
 ### The Year Is Unequal
 
-Seasons divide labor, food, movement, violence, illness, ritual, and the forms
-of social contact available.
+Season decides when people can work or travel and changes the food at hand.
+Violence and illness follow their own seasonal pressures. So do rites and the
+meetings that sustain them.
 
 People do not experience four equal painted quarters. One spring may remain mud
 for weeks. One summer may be a brief opening between late frost and early rain.
 
 ### Household Calendars
 
-Each household keeps several calendars at once: crop, herd, forest, religious,
-debt, market, kin, and repair.
+Each household keeps several calendars at once. Crop, herd, and forest set the
+terms of subsistence. Religious observance keeps its own dates. Debt and market
+set others. Kin obligations claim time, while repairs claim labor.
 
 A smith's busiest weeks differ from a shepherd's. A ferryman watches water
 height while a beekeeper watches blossom.
 
 ### Regional Calendars
 
-The west may date travel by patrol and tribute circuit. Central crossings by
-ferry water and market days. Eastern uplands by horse movement and pass weather.
-Northern country by freeze, thaw, fish, and forest access.
+The west may date travel by patrol and tribute circuit. At central crossings,
+ferry water and market days keep the count. Eastern uplands use horse movement
+and pass weather. In northern country, freeze and thaw mark one count. Fish and
+forest access mark another.
 
 The shared year remains locally accented.
 
@@ -227,8 +231,8 @@ The shared year remains locally accented.
 Hunger often comes before new food is ready, not at winter's dramatic middle.
 Old stores have thinned while spring labor increases bodily need.
 
-Regional life should show which plants, fish, preserved foods, credit, or travel
-bridge that gap.
+Local plants, fish, or preserved foods may bridge that gap. Credit or travel may
+do the same.
 
 ### Repair Time
 
@@ -240,8 +244,8 @@ wait because every other task depends upon crossing.
 
 ### Violence and Season
 
-Raids favor moments when goods are concentrated, roads passable, defenders
-absent, or animals easy to drive.
+Raids favor concentrated goods and passable roads. Absent defenders or animals
+easy to drive create other openings.
 
 Campaigns consume the same weather and fodder ordinary life needs. A politically
 good month for war may be the worst month for the households supplying it.
@@ -252,23 +256,24 @@ good month for war may be the worst month for the households supplying it.
 
 ### Thaw
 
-Thaw exposes what winter covered: dead animals, broken fences, collapsed roofs,
-shallow graves, lost tools, and tracks emerging from old snow.
+Thaw exposes what winter covered. Dead animals and shallow graves return to
+sight. Broken fences and collapsed roofs show where structures failed. Lost
+tools and tracks emerge from old snow.
 
 Frozen roads become mud before firming. The route that carried sledges safely
 may no longer carry an empty cart.
 
 ### Flood
 
-Snowmelt and rain fill ditches, cellars, fords, marshes, and low fields. Ferries
-strain at ropes. Bridges catch branches and whole trees.
+Snowmelt and rain fill ditches and cellars. Fords, marshes, and low fields take
+the same water. Ferries strain at ropes. Bridges catch branches and whole trees.
 
 Floodwater makes upstream neglect visible downstream.
 
 ### Sowing
 
-Households need seed, draft power, repaired tools, and enough people healthy at
-the same moment. Delay narrows the year.
+Households need seed and draft power. Tools must be repaired, and enough people
+must be healthy at the same moment. Delay narrows the year.
 
 Visitors asking for labor during sowing ask for future food, even if they offer
 silver.
@@ -282,8 +287,8 @@ Predators and monsters learn where weak young gather.
 
 ### Spring Roads
 
-Spring travelers seek ridges, stone causeways, old foundations, and local guides
-who know which apparently dry ground floats over mud.
+Spring travelers seek ridges, stone causeways, and old foundations. Local guides
+know which apparently dry ground floats over mud.
 
 A spring road is recognized by drainage labor more than width.
 
@@ -296,16 +301,16 @@ Hospitality becomes morally expensive during the lean weeks.
 
 ### Sound and Smell
 
-Spring smells of wet ash, opened earth, dung cleared from winter shelter, rot,
-smoke from hedge burning, and cold water.
+Wet ash and opened earth give spring its smells. Winter shelters yield cleared
+dung and rot. Hedge-burning smoke crosses the smell of cold water.
 
-Sound travels through leafless woodland: axes, birds, swollen streams, calling
-animals, and distant work parties.
+Sound travels through leafless woodland. Axes and distant work parties carry
+far. So do birds, calling animals, and swollen streams.
 
 ### Spring Custom
 
-Boundary walking, ditch clearing, seed blessing, bridge inspection, and the
-renewal of grazing agreements belong naturally here.
+People walk boundaries and renew grazing agreements. They clear ditches and
+inspect bridges. Seed blessing belongs to the same season.
 
 Disputes emerge because winter postponed enforcement and spring makes property
 usable again.
@@ -316,8 +321,9 @@ usable again.
 
 ### Long Labor
 
-Summer gives light and takes sleep. Weeding, hay, herding, building, travel,
-charcoal, fishing, gathering, and repair compete for bodies.
+Summer gives light and takes sleep. Field work takes bodies for weeding, hay,
+and herding. Building, repair, and charcoal making need the same long days.
+Travel, fishing, and gathering compete with both.
 
 The household meal moves with the work rather than gathering everyone at one
 table.
@@ -332,21 +338,22 @@ future.
 
 ### Heat and Water
 
-Wells fall, shallow streams warm, waste smells, insects thicken, and food spoils
-quickly.
+Wells fall and shallow streams warm. Waste smells, insects thicken, and food
+spoils quickly.
 
 Settlements enforce water order more sharply in heat.
 
 ### Building
 
-Dry weather favors roofing, wall repair, earthwork, timber seasoning, lime,
-brick, road work, and the transport of materials.
+Dry weather favors roofing and wall repair. Earthwork and road work use the firm
+ground. It also favors timber seasoning and work with lime or brick. Material
+transport becomes easier.
 
 Every summer project competes with food production.
 
 ### Travel
 
-Routes open, markets grow, teachers visit, pilgrims move, and distant factions
+Routes open and markets grow. Teachers visit and pilgrims move. Distant factions
 learn which settlements recovered from winter.
 
 Long light permits greater distance and gives outlaws less darkness near
@@ -357,21 +364,21 @@ inhabited roads.
 Leaves close sight and soften distant sound. Tracks dry hard. Underwood catches
 clothing. Insects and ticks become constant companions.
 
-People travel by remembered turn, slope, water noise, and tree form rather than
-view.
+People travel by remembered turns and slope rather than view. Water noise and
+tree form supply other bearings.
 
 ### Storm
 
-Summer storm can flatten grain, ignite dry ground, break trees, and turn a ford
-within an hour.
+A summer storm can flatten grain and break trees. It may ignite dry ground or
+turn a ford within an hour.
 
 Thunder also carries religious and magical meaning according to local path and
 faith.
 
 ### Feast and Courtship
 
-Work gatherings create courtship, song, competition, and exchange among
-households that winter kept apart.
+Work gatherings create courtship and exchange among households that winter kept
+apart. They also create song and competition.
 
 Joy is fitted between labor rather than placed outside necessity.
 
@@ -381,8 +388,8 @@ Joy is fitted between labor rather than placed outside necessity.
 
 ### Harvest
 
-Harvest concentrates value in field, cart, threshing floor, granary, and tired
-bodies.
+Harvest moves value from field to cart, from cart to threshing floor, and from
+there to granary. Tired bodies carry it through every stage.
 
 Every delay matters. So does rain. A ruler collecting too early seizes food
 before loss can be measured. Collecting too late finds it hidden or already
@@ -390,23 +397,25 @@ owed.
 
 ### Slaughter
 
-Animals that cannot be fed through winter are killed, preserved, shared, or
-sold. Fat, hide, horn, bone, blood, and offal all enter household and magical
-use.
+Animals that cannot be fed through winter are slaughtered or sold. Meat from
+slaughter is preserved, shared, or sold. Fat, blood, and offal enter household
+and magical use. Hide, horn, and bone enter the same uses.
 
-Slaughter makes prosperity smell of blood, smoke, salt, and work.
+Slaughter makes prosperity smell of blood and smoke. Salt marks the preserving
+work.
 
 ### Storage
 
-Roofs, bins, pits, jars, barrels, racks, lofts, and cellars are inspected while
-there is still time to repair them.
+Roofs and lofts are inspected while there is still time to repair them. So are
+bins and pits, jars and barrels, racks and cellars.
 
 The difference between plenty and rot may be one leaking corner.
 
 ### Debt and Due
 
-Autumn makes payment possible. Grain, animals, cloth, labor promises, rents,
-temple shares, and political dues come into account.
+Autumn makes payment possible. Grain, animals, and cloth can now be delivered.
+Labor promises and rents come into account beside temple shares and political
+dues.
 
 Settlements judge power by what it collects and what it leaves for winter.
 
@@ -425,8 +434,8 @@ Marriage gifts display the year's true result.
 
 ### Autumn Hunting
 
-Autumn hunting supplies meat, hide, fat, and status while competing with final
-field work.
+Autumn hunting supplies meat, hide, and fat while competing with final field
+work. A successful hunt also brings status.
 
 Game routes may cross claimed crop and sacred ground, turning one hunt into
 several legal questions.
@@ -452,31 +461,34 @@ The lifted Mist made travel possible. Weather keeps possibility costly.
 
 ### Heat
 
-Fuel governs the household. Cutting, drying, stacking, carrying, and rationing
-wood or other fuel occupy the year before the fire is lit.
+Fuel governs the household. Wood or other fuel must be cut, dried, stacked,
+carried, and rationed. The work occupies the year before the fire is lit.
 
 One poorly drawing chimney fills a room with smoke and consumes more fuel for
 less warmth.
 
 ### Animals Indoors
 
-Livestock may share roofs, walls, or close yards for warmth and protection.
-Dung, moisture, breath, fodder, vermin, and disease become daily management.
+Livestock may share roofs, walls, or close yards for warmth and protection. Dung,
+moisture, and breath alter the shelter. Fodder requires daily handling. Vermin
+and disease require watch.
 
 The healthy smell of animals can turn sour before people recognize illness.
 
 ### Food
 
-Winter meals repeat. Grain, dried peas, roots, preserved fish, smoked meat,
-cheese, sour drink, and whatever stores survived pests determine mood as well as
-health.
+Winter meals repeat. Grain, dried peas, and roots make up the plant stores.
+Preserved fish, smoked meat, and cheese supply much of the rest. Sour drink
+belongs to the winter stores. Whatever combination survived pests determines
+mood as well as health.
 
 Spice, fresh greens, and a different fat can become remembered luxuries.
 
 ### Indoor Work
 
-Repair of tools, spinning, weaving, carving, net making, leather work, story,
-teaching, and account fill darkness.
+Tool repair fills part of the darkness. Hands turn to spinning and weaving,
+carving and net making, or leather work. Story, teaching, and account continue
+beside them.
 
 Winter is productive where light, material, and health permit.
 
@@ -485,28 +497,30 @@ Winter is productive where light, material, and health permit.
 Firm snow and frozen wetland can open routes impossible in summer. Sledges move
 loads with less friction than wheels.
 
-Thaw, hidden water, drift, and lost landmarks can close the same route within a
-day.
+Thaw and hidden water can break the surface. Drift and lost landmarks can close
+the same route within a day.
 
 ### Illness
 
-Close air, smoke, crowding, poor diet, and prolonged cold spread cough, fever,
-skin trouble, and exhaustion.
+Close air and smoke contribute to winter illness. So do crowding, poor diet,
+and prolonged cold. Cough and fever follow. Skin trouble and exhaustion do as
+well.
 
 The healer's house receives people when travel is hardest.
 
 ### Social Pressure
 
-People who avoided one another in summer now share rooms. Old grievances,
-courtship, teaching, gaming, prayer, planning, and violence all intensify.
+People who avoided one another in summer now share rooms. Courtship and gaming
+intensify beside teaching, prayer, and planning. Old grievances and violence do
+the same.
 
 Household discipline includes ways to create privacy where there is little
 space.
 
 ### Winter Politics
 
-Rulers quarter fighters, hear cases, plan campaigns, negotiate marriages, and
-consume stored dues.
+Rulers quarter fighters and consume stored dues. They hear cases, negotiate
+marriages, and plan campaigns.
 
 A winter guest who stays beyond welcome becomes an economic and political fact.
 
@@ -516,8 +530,8 @@ Night lengthens every sound beyond the wall. Animals approach settlements.
 Tracks appear before dawn. A person missing at dusk may not be searched for until
 weather permits.
 
-Fear is answered through watch, shared sleeping, dogs, lamps, stories, rites,
-and the practical rule that nobody goes alone.
+Watch, dogs, and lamps answer part of that fear. Shared sleeping, stories, and
+rites answer another part. The practical rule is that nobody goes alone.
 
 ---
 
@@ -525,56 +539,59 @@ and the practical rule that nobody goes alone.
 
 ### Forest Is Worked Country
 
-Woodland supplies fuel, building timber, browse, mast, mushrooms, berries,
-medicines, bark, resin, charcoal, game, shade, and hidden travel.
+Woodland supplies fuel, building timber, and charcoal. Browse and mast feed
+animals. Mushrooms, berries, and game feed people. Medicines, bark, and resin
+come from the same woods. They also offer shade and hidden travel.
 
 Rights can be divided by product and season. The person allowed fallen wood may
 not cut living timber. The household with pig mast may not hunt deer.
 
 ### Woodland Layers
 
-Canopy, underwood, ground cover, soil, water, deadwood, and clearing each support
-different work and danger.
+Canopy and underwood create one set of work and danger. Ground cover, soil, and
+water create another. Deadwood and clearings support work and danger of their
+own.
 
-A forester reads recent cutting, browsing height, fungus, insect activity,
-windthrow, and the absence of expected birds.
+A forester reads recent cutting, browsing height, and windthrow in the trees.
+Fungus, insect activity, and the absence of expected birds provide other signs.
 
 ### Coppice and Pollard
 
-Repeated cutting at planned height produces renewable rods, poles, fuel, and
-leaf fodder. The pattern looks wild to an outsider who expects straight planted
-rows.
+Repeated cutting at planned height produces renewable rods and poles. The same
+work supplies fuel and leaf fodder. The pattern looks wild to an outsider who
+expects straight planted rows.
 
 Cutting the wrong stool at the wrong age destroys years of future material.
 
 ### Charcoal Ground
 
 Charcoal burners work where wood is abundant and transport of lighter fuel is
-worth the labor. Their platforms, huts, ash, and blackened paths remain after
-the firing moves.
+worth the labor. Platforms and huts remain after the firing moves. So do ash and
+blackened paths.
 
 They know remote traffic and may see fugitives, monsters, and secret patrols
 before settled people do.
 
 ### Forest Pasture
 
-Pigs, goats, cattle, and other animals browse forest edges and clearings under
-customary limits.
+Livestock browse forest edges and clearings under customary limits. Common stock
+includes pigs, goats, and cattle.
 
 Overuse removes young growth and makes the forest older, open, and less capable
 of renewal.
 
 ### Hunting
 
-Hunting depends upon track, wind, drive, blind, dog, season, and knowledge of
-where animals feed rather than merely weapon skill.
+Hunters need track and knowledge of feeding ground to find game. Wind and season
+condition the hunt. Drive, blind, and dog shape how they take it. Weapon skill
+alone is not enough.
 
 Large hunts are political assemblies with meat at their end.
 
 ### Forest Boundaries
 
-Boundary trees, streams, stones, ridges, cuts, shrines, and remembered walks
-mark rights.
+Trees, streams, and ridges mark rights through the land itself. Stones, cuts,
+and shrines make other markers. Some rights are marked by remembered walks.
 
 Fallen trees and changed water create dispute because the marker was part of a
 living landscape.
@@ -582,14 +599,16 @@ living landscape.
 ### Deep Forest
 
 Beyond frequent work, paths narrow and human sound thins. Deep forest can still
-hold elven routes, monster ranges, ruins, old camps, and sacred prohibitions.
+hold elven routes and monster ranges. Ruins and old camps remain there. Sacred
+prohibitions may remain as well.
 
 Calling it empty announces ignorance.
 
 ### Fire
 
-Fire clears, renews, cooks charcoal, destroys, and escapes. Controlled burning
-requires season, wind, labor, boundary, and watch through the last hidden ember.
+Fire clears and renews ground, and it cooks charcoal. It also destroys and
+escapes. Controlled burning requires the right season and wind. It also requires
+labor and a boundary. Watch continues through the last hidden ember.
 
 Magic can enlarge the act without replacing those requirements.
 
@@ -603,8 +622,8 @@ than a central street.
 
 ### Forest Sensation
 
-Light arrives green or broken. Air holds leaf mold, resin, damp bark, fungus,
-smoke, and animal musk. Distance is heard before seen.
+Light arrives green or broken. Air holds leaf mold, damp bark, and fungus. Resin
+mixes with smoke. Animal musk crosses both. Distance is heard before seen.
 
 The forest changes intimacy: a person twenty paces away can be hidden and close
 enough to hear breathing.
@@ -615,31 +634,33 @@ enough to hear breathing.
 
 ### Plains Are Made and Maintained
 
-Open country may result from soil, grazing, flood, fire, old cultivation, war,
-or repeated cutting. Without maintenance, many fields return through scrub
-toward woodland.
+Soil and flood can keep country open. Grazing, fire, and repeated cutting also
+produce or maintain it. Old cultivation and war leave other open ground behind.
+Without maintenance, many fields return through scrub toward woodland.
 
 An abandoned field is a process, not a static ruin.
 
 ### Sight
 
-Open ground reveals smoke, riders, animals, weather, and settlement from far
-away. It also displays the traveler.
+Open ground reveals smoke and settlement from far away. Riders and animals show
+against it, as does approaching weather. The same ground displays the traveler.
 
-People learn to read movement by silhouette, dust, bird response, and whether a
-group holds together like drovers, soldiers, or frightened refugees.
+People learn to read silhouette and dust. Bird response offers another sign.
+The way a group holds together distinguishes drovers, soldiers, and frightened
+refugees.
 
 ### Wind and Shelter
 
-Hedges, walls, banks, ditches, tree belts, haystacks, and folds in ground provide
-critical shelter.
+Hedges, walls, and banks provide critical shelter. So do ditches and tree belts.
+Even a haystack or fold in the ground may serve.
 
 A farmstead placed without regard to winter wind spends fuel forever correcting
 the mistake.
 
 ### Fields
 
-Field shape reveals plowing method, inheritance, drainage, and old boundaries.
+Field shape reveals plowing method and drainage. It also reveals inheritance
+and old boundaries.
 Long strips may join many households in one open area. Enclosed plots concentrate
 control and maintenance.
 
@@ -647,16 +668,16 @@ Travel across a field is travel across someone's future food.
 
 ### Pasture
 
-Pasture quality changes through moisture, season, species, grazing pressure, and
-rest.
+Pasture quality changes with moisture and season. Species, grazing pressure,
+and rest matter as well.
 
 Herders know which grass fills an animal, which merely looks lush, and where
 poisonous plants appear after disturbance.
 
 ### Old Orchards
 
-Ruined settlements leave fruit trees whose yield attracts travelers, animals,
-claimants, and monsters.
+Ruined settlements leave fruit trees whose yield attracts travelers and
+claimants. Animals and monsters also come.
 
 Pruning can revive an orchard and also announce that somebody intends to stay.
 
@@ -670,15 +691,15 @@ by vegetation.
 
 ### Grass Fire
 
-Dry grass carries fire rapidly under wind. Low flame can outrun a person and
-turn hedges, roofs, and stored hay into separate sources.
+Dry grass carries fire rapidly under wind. Low flame can outrun a person. Hedges
+and roofs become new sources, and stored hay becomes another.
 
 Firebreaks require labor before the threatening day.
 
 ### Open-Country Fear
 
-Danger can be seen coming and still be impossible to escape. Riders, storm,
-swarm, and smoke occupy the whole horizon.
+Danger can be seen coming and still be impossible to escape. Riders or a swarm
+move across the horizon. Storm and smoke can occupy the whole of it.
 
 The absence of cover makes small buildings feel like islands.
 
@@ -691,79 +712,87 @@ The absence of cover makes small buildings feel like islands.
 A river carries people and goods along its length while obstructing movement
 across it.
 
-Bridges, ferries, fords, ice crossings, and boats create political points where
-otherwise scattered travelers must negotiate.
+Bridges and ferries create political points. Fords and ice crossings do the
+same when usable. Boats concentrate travelers where they embark and land. At
+each point, otherwise scattered people must negotiate.
 
 ### River Knowledge
 
-Residents read color, floating debris, sound, bank wetness, eddies, animal
-behavior, and upstream weather.
+Residents read color and floating debris. Bank wetness and eddies provide other
+signs. Sound carries further information, as do animal behavior and upstream
+weather.
 
 A ford safe yesterday can kill today without appearing dramatically changed.
 
 ### Ferries
 
-Ferries require craft, rope or practiced current, landing maintenance, boats,
-and somebody present on the needed bank.
+A ferry needs a boat and maintained landings. The crossing requires craft, with
+a rope or practiced use of the current. Somebody must be present on the needed
+bank.
 
 The ferryman holds local intelligence because every stranger must wait in view.
 
 ### Mills and Dams
 
-Water power concentrates grain, timber, cloth, mining, and dispute. Dams alter
-fish, flood, silt, downstream flow, and neighboring rights.
+Water power concentrates work in grain and timber. Cloth work and mining gather
+around it as well. The concentration creates disputes. Dams alter fish. They
+change flood, silt, and downstream flow. Neighboring rights change with the
+water.
 
-A millpond can be wealth, mosquito ground, defensive obstacle, and dangerous ice
-within one year.
+A millpond can yield wealth and form a defensive obstacle. In warm weather it
+can breed mosquitoes. In cold weather it becomes dangerous ice.
 
 ### Lakes
 
-Lakes support fish, reeds, boats, ice routes, water birds, and weather that turns
-more quickly than a shore traveler expects.
+Lakes support fish, reeds, and water birds. Boats use them in open water. Ice
+routes open when the surface holds. Their weather turns more quickly than a
+shore traveler expects.
 
 Opposite banks may be socially close by boat in summer and distant during
 breakup.
 
 ### Marshes
 
-Marsh provides fish, fowl, reeds, peat, grazing, medicinal plants, concealment,
-and routes legible only through experience.
+Marsh provides fish and fowl. Reeds, peat, and medicinal plants come from the
+same ground, which may also serve as grazing. Concealment and routes legible only
+through experience make movement a local competence.
 
 Draining wet ground creates field while moving water and loss elsewhere.
 
 ### Reed Work
 
-Reeds become thatch, mat, screen, bedding, basket, float, and fuel of limited
-quality.
+Reeds become thatch and screen. They are worked into mats, bedding, and baskets.
+They can also make a float or fuel of limited quality.
 
 Cutting season affects durability and the survival of nesting animals.
 
 ### Wetland Disease and Health
 
-Standing water, insects, damp shelter, poor drainage, and contaminated wells
-create recurring illness. Wetlands can also provide abundant food and clean
-water where managed competently.
+Standing water and insects create recurring illness. Damp shelter and poor
+drainage sustain it. Contaminated wells bring another danger. Wetlands can
+also provide abundant food and clean water where managed competently.
 
 Do not make marsh residents helpless before their own country.
 
 ### Islands
 
-Islands offer refuge, pasture, shrine, prison, fishing base, and store protected
-by water.
+Islands offer refuge, shrine, or prison. They also support pasture and a fishing
+base. A store there is protected by water.
 
 Their security depends upon boats. A stolen hull can be a siege.
 
 ### Floodplain Settlement
 
-Floodplain residents build on rises, store high, keep boats, mark prior water,
-and accept that fertile soil arrives with risk.
+Floodplain residents build on rises and store high. They keep boats and mark
+prior water. Fertile soil arrives with risk, and residents accept both.
 
 The outsider who asks why they do not move has not priced the land above flood.
 
 ### Water Sensation
 
-Wet country sounds through frogs, insects, birds, reeds, rope, hull, and water
-against roots. Smell changes with depth, heat, rot, and flow.
+Frogs, insects, and birds fill wet country with sound. Reeds, rope, and hull add
+their own sounds. Water works against roots. Depth and flow change smell. Heat
+and rot change it again.
 
 Fog shortens the known world to a boat's length.
 
@@ -773,31 +802,34 @@ Fog shortens the known world to a boat's length.
 
 ### Upland Routes
 
-Upland paths follow water, saddle, ledge, stable slope, and places where animals
-can turn under load.
+Upland paths follow water, cross saddles, or run along ledges. They keep to
+stable slopes and widen where loaded animals must turn.
 
 A straight climb wastes strength. Local routes appear indirect because they
-remember knees, hooves, ice, and falling stone.
+remember the strain on knees and hooves. They bend around winter ice and slopes
+where stone falls.
 
 ### Valley Settlement
 
-Valleys concentrate soil, water, road, cold air, flood, and movement. Houses may
-stand above the best field while barns and mills approach the valley floor.
+Valleys gather soil, water, roads, and movement in the same low ground. Cold air
+settles there, and floodwater reaches it first. Houses may stand above the best
+field while barns and mills approach the valley floor.
 
 Controlling one narrow passage can control exchange without governing the upper
 slopes.
 
 ### Terraces
 
-Terraces create usable ground through walls, drainage, soil movement, and
-continuous repair.
+Terrace walls hold soil moved onto the slope. Drains keep that ground usable,
+provided someone returns for continuous repair.
 
 One collapsed section spills more than its own field.
 
 ### Pastoral Movement
 
-Herds move between low winter shelter and high summer grazing. Seasonal camps,
-rights, salt, dogs, and route agreements hold the system together.
+Herds move between low winter shelter and high summer grazing. Camps and salt
+sustain that movement. Dogs manage the animals, while grazing rights and route
+agreements govern where they may pass.
 
 A border closed in summer may strand animals where winter fodder does not grow.
 
@@ -808,18 +840,19 @@ Ore wealth can conceal immediate hunger.
 
 Spoil and smoke mark the ground around a mine. Its appetite for timber reaches
 farther into the woods. Drainage carries the work outward again, sometimes as
-contaminated water; injury marks the households that depend upon it.
+contaminated water. Injury marks the households that depend upon it.
 
 ### Quarry
 
-Quarries create roads, dust, waste stone, skilled labor, and dangerous faces.
-Abandoned workings fill with water, shelter animals, or expose passages nobody
-intended to open.
+Quarry roads carry skilled labor toward the working face and waste stone away
+from it. Dust settles over both, while the cut face remains dangerous. Abandoned
+workings may fill with water. Animals shelter in others. A working may also
+expose passages nobody intended to open.
 
 ### Snow and Avalanche
 
-Upland snow is moved by wind. A shallow path can lie beside a loaded slope.
-Sound, warmth, new weight, and weather change stability.
+Wind moves upland snow, leaving a shallow path beside a loaded slope. Sound or
+new weight may disturb it. Warmth and changing weather alter the whole slope.
 
 Residents remember avalanche tracks even when summer grass makes them inviting.
 
@@ -828,12 +861,14 @@ Residents remember avalanche tracks even when summer grass makes them inviting.
 Sound travels strangely among slopes. A voice can seem near from across a gorge.
 Smoke can be hidden below and visible from miles away above.
 
-Watch systems use peak, horn, mirror, fire, and known echo.
+Watchers observe from peaks. Horns and known echoes carry warning through broken
+ground, while mirrors and fires carry it across visible distance.
 
 ### Mountain Strongholds
 
-Defended height requires cistern, fuel, store, latrine, hauling system, lower
-fields, and a road kept open enough for life.
+Defended height needs a cistern and food store. Fuel must be hauled up, and a
+latrine must keep waste from living space. Hauling systems connect the height to
+lower fields. A road must remain open enough for life.
 
 Walls do not feed their garrison.
 
@@ -850,22 +885,26 @@ Distance appears small across clear air and grows underfoot.
 
 ### The Shoreline Moves
 
-Tide, storm, erosion, river mouth, ice, and deposited sand alter landing places.
-A remembered harbor can become shallow or exposed.
+Tide and storm alter a landing from one day to the next. Erosion shifts the
+shore, while river mouths and deposited sand change its depth. Ice can close it
+altogether. A remembered harbor may become shallow or exposed.
 
 Coastal knowledge is a calendar of water as much as land.
 
 ### Fishing Settlements
 
-Fishers require boats, nets, hooks, lines, salt, smoke, drying racks, bait,
-weather knowledge, and people ashore who process a catch quickly.
+Fishers need boats and weather knowledge to reach the catch. They bait hooks and
+lines or set nets to take it. Salt, smoke, and drying racks preserve what people
+ashore must process quickly.
 
-The village smells of tar, fish oil, smoke, weed, wet rope, and gulls.
+Tar and wet rope scent the boats. Fish oil and smoke hang over the racks. Weed
+lines the shore, and gulls circle above.
 
 ### Boatbuilding
 
-Boat timber demands chosen trees, seasoning, shaping, fastenings, pitch, fiber,
-space, and a skilled eye for curves not visible in a finished hull.
+Boatbuilding begins with chosen trees and room to season and shape them. The
+hull then needs fastenings, pitch, and fiber. A skilled eye judges the curves
+hidden in the finished vessel.
 
 Launching is communal because one household cannot safely move the work alone.
 
@@ -874,26 +913,28 @@ Launching is communal because one household cannot safely move the work alone.
 Storm closes sea roads and attacks buildings from a direction inland custom may
 not expect.
 
-Wreck creates salvage, burial, legal claims, strangers, and tempting cargo.
+A wreck creates burial work and brings strangers. Salvage and tempting cargo
+draw competing legal claims.
 
 ### Coastal Islands
 
-Island communities balance dependence upon boats with strong internal storage
-and repair. Kin relations cross water through scheduled movement.
+Island communities depend upon boats, so they keep strong stores and repair
+capacity ashore. Kin relations cross water through scheduled movement.
 
 A winter island can be secure and trapped in the same weather.
 
 ### Coastal Trade
 
 Water moves heavy goods efficiently where vessels and safe landings exist.
-Ports therefore gather foreign measures, speech, disease, faith, and information.
+Cargo brings foreign measures. Crews bring foreign speech, faith, and
+information. Disease travels with both.
 
 The port's inland road may matter more than its harbor depth once goods land.
 
 ### Sea Fear
 
-People accustomed to sea do not lack fear. They distinguish workable fear from
-conditions in which pride kills crews.
+Experienced sailors carry fear with them. They distinguish fear that sharpens
+their work from conditions in which pride kills crews.
 
 Refusing to sail can be professional judgment rather than cowardice.
 
@@ -903,16 +944,18 @@ Refusing to sail can be professional judgment rather than cowardice.
 
 ### Ruins Are Material Deposits
 
-Ruins provide dressed stone, timber remnants, metal, cellars, walls, wells,
-roads, glass, brick, defensible corners, and dangerous voids.
+Ruins offer dressed stone and brick for new masonry. Metal, glass, and surviving
+timber can also be taken for reuse. Old walls and cellars spare new building.
+Wells spare digging, and roads spare clearing. Defensible corners stand beside
+dangerous voids.
 
 Settlements live within older works because rebuilding from nothing is wasteful.
 
 ### Ruin Towns
 
 A Ravenlands town may occupy a few repaired streets inside the bones of a much
-larger place. Gardens, pens, refuse, shrines, and workshops fill spaces once used
-for other purposes.
+larger place. Gardens and pens fill open ground. Workshops and shrines take over
+old rooms, while refuse gathers in spaces abandoned to it.
 
 The inhabited boundary shifts with confidence and population.
 
@@ -925,40 +968,43 @@ Salvage law appears as soon as valuable ruins become reachable after the Mist.
 
 ### Structural Danger
 
-Walls fail after freeze, root, water, fire, undermining, and careless removal of
-supporting stone.
+Freeze and roots prise walls apart. Water and fire weaken what remains.
+Undermining or the careless removal of supporting stone can bring it down.
 
 The obvious tower may be safer than a turf-covered cellar whose roof has thinned
 unseen.
 
 ### Water and Waste
 
-Old drains can carry clean water, sewage, rats, poison, or nothing. Reopening one
-channel may flood another quarter.
+An old drain may still carry clean water or sewage. Rats and poison may move
+through it instead, or the channel may stand empty. Reopening one can flood
+another quarter.
 
 Ruin settlement requires learning an infrastructure nobody alive built.
 
 ### Memory and Claim
 
-People attach stories to visible remnants. A doorway becomes royal, dwarven,
-elven, demonic, or sacred according to local history.
+People attach stories to visible remnants. Local history may call a doorway
+royal, dwarven, or elven. Other stories call it demonic or sacred.
 
 Material investigation may contradict the story without removing its political
 use.
 
 ### Ruin Ecology
 
-Birds, bats, insects, snakes, roots, fungi, monsters, and fugitives occupy
-abandoned structures. Clearing one resident opens room for another.
+Birds and bats roost in abandoned structures, while insects and snakes enter the
+cracks. Roots and fungi work upon the fabric. Monsters and fugitives use whatever
+shelter remains. Clearing one resident opens room for another.
 
-The ruin has become habitat, not empty architecture.
+The ruin has become habitat as much as architecture.
 
 ### Night in Ruins
 
 Sound reflects without revealing distance. Temperature drops in sunken rooms.
 Wind passes through unseen gaps. Old floors conceal holes.
 
-Residents know which noises are ordinary. Adventurers do not.
+Residents know which noises are ordinary. Adventurers hear them without that
+knowledge.
 
 ---
 
@@ -966,25 +1012,28 @@ Residents know which noises are ordinary. Adventurers do not.
 
 ### Political Weather
 
-Western country bears the long material and psychological reach of Alderstone,
-the Rust faith, Misgrown violence, tribute roads, hidden Raven practice, and
-settlements trained to survive inspection.
+Western country bears the long material and psychological reach of Alderstone.
+The Rust faith and Misgrown violence shape the same country. Tribute roads,
+hidden Raven practice, and settlements trained to survive inspection show how
+people live under that reach.
 
-The region should feel watched before a patrol appears. A repaired road may
-signal care, collection, or both.
+Make the region feel watched before a patrol appears. A repaired road may signal
+care, collection, or both.
 
 ### Western Settlement Form
 
-Villages favor defensible clusters, concealed stores, short access to field and
-wood, and more than one route of flight known to residents.
+Villages cluster for defense and conceal their stores. Field and wood remain
+close enough for daily work, while residents keep more than one route of flight.
 
 Ruins can be occupied selectively, with exposed grand streets abandoned for
 smaller courts that are easier to watch.
 
 ### Metal
 
-Iron has religious, military, and sensory presence. Rusted surfaces, heavy
-fittings, censers, chains, gates, and collected scrap make authority visible.
+Iron carries religious and military authority, but it also works upon the
+senses. Rusted surfaces and heavy fittings mark ordinary structures. Censers
+give ritual its weight. Chains and gates make rule visible, as do heaps of
+collected scrap.
 
 Ordinary smiths must work inside this symbolism while still repairing plows and
 hinges.
@@ -1000,9 +1049,9 @@ goods leave ordinary houses.
 
 ### Concealment Traditions
 
-Western households develop double storage, movable shrines, coded hospitality,
-children trained not to recognize visitors in public, and routes that appear to
-end at poor ground.
+Western households divide their stores and keep shrines movable. Hospitality
+uses codes, while children learn to deny recognition in public. Some routes
+appear to end at poor ground.
 
 Concealment consumes space and trust. A family may not know what its neighbor
 hides, only how not to notice.
@@ -1013,21 +1062,21 @@ Where Misgrown bands, bodies, or reputations shape the land, settlements clear
 long sight near approaches, keep animals close, and treat unfamiliar physical
 signs with fear sharpened by doctrine.
 
-This fear can make people cruel to harmless difference. It can also contain
-accurate memory of raids.
+Doctrine can sharpen this fear until people become cruel to harmless difference.
+The same fear may also contain accurate memory of raids.
 
 ### Food and Work
 
-Fields near power must feed both residents and dues. Woodland, hidden gardens,
-small livestock, foraging, and dispersed caches provide food less visible to
-collectors.
+Fields near power must feed both residents and dues. Hidden gardens and small
+livestock keep some production from easy view. Woodland and foraging offer food
+beyond the field, while dispersed caches keep part of it from collectors.
 
 Work parties double as watch networks.
 
 ### Western Hospitality
 
-Hosts ask where the traveler last slept, which road was used, who saw the party,
-and whether any officer expects them.
+Hosts trace a traveler's route: where the party slept, which road they used, and
+who saw them. They also ask whether any officer expects the party.
 
 Hospitality may begin cold because admitting a stranger creates evidence.
 Generosity appears after the door closes.
@@ -1041,8 +1090,8 @@ Silence is an acquired public skill.
 
 ### Western Contrasts
 
-Do not make the whole west one prison. Markets, marriages, field labor, jokes,
-Raven rites, skilled craft, and fierce local loyalties persist.
+Markets and marriages persist across the west. Field labor and skilled craft
+continue, with jokes and Raven rites among them. Local loyalties remain fierce.
 
 Oppression is disturbing because ordinary life keeps growing beneath it.
 
@@ -1052,40 +1101,43 @@ Oppression is disturbing because ordinary life keeps growing beneath it.
 
 ### Country of Crossings
 
-Central country is shaped by routes meeting: river crossings, ruin roads,
-markets, mixed settlements, woodland edges, faction messengers, and people who
-translate among customs.
+Central country forms where river crossings meet ruin roads and woodland edges.
+Markets and mixed settlements stand at many of these junctions. Faction
+messengers pass through, alongside people who translate among customs.
 
 Control is less complete and negotiation more visible.
 
 ### Central Settlement Form
 
-Villages gather around ford, bridge, ferry, mill, market space, defensible ruin,
-or the junction between field and forest.
+Villages gather where a ford, bridge, or ferry controls passage. Mills and market
+spaces draw another kind of traffic. Elsewhere a defensible ruin or the meeting
+of field and forest determines the site.
 
 Buildings may face the road more openly because passing traffic is livelihood.
 
 ### Mixed Kin
 
-Central settlements are plausible places for several kin to maintain adjacent
-quarters, work traditions, shrines, and legal interfaces.
+Several kin may keep adjacent quarters within a central settlement. Each brings
+its work traditions and shrines. Legal customs govern dealings across the
+boundaries.
 
 Mixture produces competence and friction. A market measure accepted by humans
 may not settle a dwarven material claim or a goblin witnessed obligation.
 
 ### Information
 
-News travels quickly and changes through every teller. Innkeepers, ferrymen,
-millers, healers, caravan hands, and shrine keepers become regional memory.
+News travels quickly and changes through every teller. Innkeepers, ferrymen, and
+millers become regional memory. Healers, caravan hands, and shrine keepers do
+the same.
 
 A central rumor may be recent and inaccurate because it moved faster than
 verification.
 
 ### Market Rhythm
 
-Market days draw dispersed households. The approach roads fill before stalls
-open. Sleeping space, animal water, dung, theft, judgment, and measurement become
-the market's brief government.
+Market days draw dispersed households, and the approach roads fill before the
+stalls open. The market's brief government assigns sleeping space and water for
+animals. It clears dung, judges theft, and enforces measures.
 
 The empty market field afterward shows trampled ground and the things nobody
 could sell.
@@ -1100,30 +1152,33 @@ cross after dark.
 
 ### Central Food
 
-Exchange broadens diet where roads remain open. Grain, fish, forest products,
-garden produce, dairy, imported salt, and seasonal livestock meet.
+Exchange broadens diet where roads remain open. Grain and garden produce arrive
+from worked ground, fish and forest products from the margins. Dairy and
+seasonal livestock come from herds. Imported salt comes from farther off.
 
 Road closure is tasted quickly as meals become narrower.
 
 ### Central Hospitality
 
-Hosts are practiced at assessing strangers and may offer graded service: public
-bench, common sleeping floor, private room, stable corner, introduction, or
-household table.
+Hosts are practiced at assessing strangers. A public bench and common sleeping
+floor provide basic shelter. A private room or stable corner answers different
+needs. An introduction or place at the household table carries greater trust.
 
-Payment does not purchase every degree of trust.
+Payment buys service, not every degree of trust.
 
 ### Central Danger
 
-Crossings attract toll collectors, thieves, recruiters, spies, displaced people,
-and monsters that learn where prey concentrates.
+Crossings attract toll collectors and thieves who profit from traffic. Recruiters
+and spies seek the people moving through it. Displaced households gather there,
+as do monsters that learn where prey concentrates.
 
 Safety requires coordination among people who do not fully trust one another.
 
 ### Central Sensation
 
-Wheel ruts, animal smell, river damp, cooking from several customs, shouted
-measure, and repaired fragments of old road create a country of human movement.
+Wheel ruts and repaired fragments of old road mark the traffic. Animal smell and
+river damp cling to it. Cooking from several customs mingles with shouted measure
+where people gather.
 
 One day's walk away, the noise can disappear into forest.
 
@@ -1133,76 +1188,82 @@ One day's walk away, the noise can disappear into forest.
 
 ### Open Reach and Broken Height
 
-Eastern country can combine horse movement, wider sight, upland stone, old
-claims, eastern hosts, Quard and Galdane relations, Harga memory, and routes
-toward lands beyond the immediate Ravenlands.
+Eastern country can combine horse movement across wide sightlines with upland
+stone and old claims. Eastern hosts and relations between Quards and Galdanes
+belong to the same country. Harga memory lies across it, while roads lead toward
+lands beyond the immediate Ravenlands.
 
 Distance is visible and still expensive.
 
 ### Eastern Settlement Form
 
-Farmsteads and villages arrange for animals, watch, and travelers. Yards are
-larger where herds and riding animals matter. Defended heights overlook routes
-rather than hiding from them.
+Farmsteads and villages give animals room and watchers a clear approach. They
+also make provision for travelers. Yards are larger where herds and riding
+animals matter. Defended heights overlook routes rather than hiding from them.
 
-Ruins may be used as courts, corrals, stores, and landmarks across open ground.
+Ruins offer walls for courts and corrals, shelter for stores, and landmarks
+across open ground.
 
 ### Horses
 
-Horse culture requires pasture, hay, breeding, shoeing or hoof care, tack,
-grooms, water, shelter, and the social knowledge of who may ride which animal.
+Horse culture depends on pasture, hay, and water. Breeding and hoof care sustain
+the animals, while shelter and tack keep them fit for work. Grooms must also know
+who may ride each animal.
 
 A splendid mounted host rests upon many people walking with fodder.
 
 ### Oath Hosts
 
-Eastern politics gathers mobile people through vengeance, claim, protection,
-and promised land. Camps become temporary towns with courts, smiths, traders,
-healers, dependents, and rival campfires.
+Eastern politics gathers mobile people around vengeance or claim, and around
+promises of protection and land. Their camps become temporary towns. Courts
+judge them, smiths and healers keep them moving, and traders provision them.
+Dependents sleep among rival campfires.
 
 Local households judge hosts by grazing damage and payment before grand aim.
 
 ### Stone and Learning
 
-Upland seats, old ruins, religious places, and routes toward distant traditions
-make the east a plausible meeting ground for teachers and claimants.
+Upland seats, old ruins, and religious places make plausible meeting grounds for
+teachers and claimants. Routes toward distant traditions bring other customs
+into those meetings.
 
 Knowledge arrives with foreign habit. Local people decide what can be adopted
 without surrendering authority to the traveler who brought it.
 
 ### Food and Movement
 
-Herd products, grain where soil permits, preserved meat, dairy, and goods carried
-along riding roads shape diet.
+Herds supply meat and dairy, including preserved meat for the road. Grain grows
+where soil permits. Other goods arrive along riding routes.
 
 Mobile groups can strip a small district of fodder even when they pay honestly.
 
 ### Eastern Hospitality
 
-Hospitality assesses animal condition, banner, oath, and the likelihood that one
-guest is an advance sign of a larger host.
+Hosts inspect an animal's condition and read the rider's banner and oath. They
+also judge whether one guest heralds a larger host.
 
 Water and fodder may be offered outside before strangers enter the household.
 
 ### Eastern Weather
 
-Wind has room to gather. Storms can be seen approaching, heat dries exposed
-ground, and winter drift erases the road while leaving landmarks visible above
-it.
+Wind has room to gather. Storms can be seen approaching. Heat dries exposed
+ground. Winter drift erases the road while leaving landmarks visible above it.
 
 Shelter placement is regional wisdom.
 
 ### Eastern Fear
 
-Smoke on the horizon can mean camp, settlement, burned field, signal, or raid.
-Residents learn the difference by color, duration, and accompanying movement.
+Smoke may rise from a camp or settlement, or from a burned field. Someone may
+have lit it as a signal. It may also mark a raid. Residents judge by color,
+duration, and accompanying movement.
 
 Open sight increases warning and the time spent imagining what is coming.
 
 ### Eastern Sensation
 
-Leather, horse sweat, dry grass, stone dust, broad sky, distant bells, and wind
-through ruins mark the region.
+Leather and horse sweat mark the traveled ground. Dry grass and stone dust move
+beneath a broad sky. Distant bells carry on the same wind that passes through
+ruins.
 
 Night feels larger because fires can be seen far away.
 
@@ -1212,19 +1273,21 @@ Night feels larger because fires can be seen far away.
 
 ### Water, Forest, and Cold
 
-Northern country is shaped by forest, lakes, rivers, marsh, longer winter,
-freeze routes, fish, timber, and settlements whose economic map changes between
-ice and open water.
+Forest shapes work on firm ground. Lakes and rivers open water routes, while
+marsh complicates passage. Winter holds the country longer and opens routes
+across the freeze. Fish and timber sustain settlements whose economic map
+changes between ice and open water.
 
 Cold is a working condition before it is an adventure hazard.
 
 ### Northern Settlement Form
 
-Settlements choose sheltered shore, river rise, forest edge, and dry ground near
-several resource zones.
+Settlements seek a sheltered shore or a rise above the river. At the forest edge,
+dry ground can still lie near several resource zones.
 
-Buildings emphasize roof pitch, wind protection, fuel storage, covered work,
-and room for wet clothing and gear.
+Steep roofs shed weather, while walls and entrances turn the wind. Buildings
+hold ample fuel, covered room for work, and space where wet clothing and gear can
+dry.
 
 ### Boats and Sledges
 
@@ -1235,53 +1298,58 @@ Breakup and first ice create weeks when neither system is trustworthy.
 
 ### Forest Work
 
-Timber, fuel, tar, resin, bark, game, berries, fungi, and craft material occupy
-seasonal crews.
+Seasonal crews cut timber and fuel. They also draw tar, resin, and bark from the
+woods. Hunters follow game while gatherers collect berries and fungi for food,
+along with other material for craft.
 
 Winter cutting uses firm ground and sled transport. Summer work follows water.
 
 ### Fishing
 
-Net, trap, hook, spear, weir, ice hole, smoke, salt, drying, and boat repair
-spread fishing across the year.
+A weir or trap can work the water while fishers use nets, hooks, and spears.
+Ice holes extend the catch into winter. Smoke, salt, and drying preserve it, and
+boat repair prepares the return of open water.
 
-A failed run is regional hunger, not one fisher's disappointment.
+A failed run brings regional hunger, far beyond one fisher's disappointment.
 
 ### Northern Storage
 
-Cold aids preservation and destroys carelessly frozen goods. Raised stores,
-ventilation, smoke, ice houses, dry containers, and protection from animals
-matter.
+Cold aids preservation and destroys carelessly frozen goods. Raised stores and
+dry containers protect what they hold. Ventilation and smoke preserve other
+foods, while ice houses hold what must remain cold. All require protection from
+animals.
 
 Thaw can spoil what winter seemed to keep indefinitely.
 
 ### Northern Hospitality
 
-Refusing shelter in dangerous cold may amount to killing. Hosts can therefore
-admit strangers under strict weapon, sleeping, watch, and departure rules.
+Refusing shelter in dangerous cold may amount to killing. Hosts who admit
+strangers set rules for weapons and sleeping places. They assign the watch and
+name the hour and manner of departure.
 
 Hospitality is generous because conditions demand it and formal because risk is
 shared indoors.
 
 ### Winter Light
 
-Short days compress outdoor work. Moon, snow, stars, fire, and practiced routes
-extend movement.
+Short days compress outdoor work. Moon and stars provide what light they can,
+reflected by snow or supplemented with fire. Practiced routes extend movement
+beyond sight alone.
 
 Indoor social and craft life acquires greater seasonal weight.
 
 ### Northern Fear
 
-Thin ice, white weather, lost route, failed fire, silent forest, and a companion
-who begins making poor decisions are immediate terrors.
+Thin ice threatens from below and white weather closes sight around the traveler.
+A lost route or failed fire is urgent too. So is a silent forest, or a companion
+who begins making poor decisions.
 
-Monsters enter a danger system residents already manage rather than replacing
-it.
+Monsters enter a danger system residents already manage.
 
 ### Northern Sensation
 
-Pine smoke, fish, wet wool, cold iron, resin, snow light, lake fog, and the crack
-of ice under changing temperature define arrival.
+Pine smoke carries over fish, wet wool, and cold iron. Resin scents the work.
+Snow light and lake fog alter sight, while ice cracks under changing temperature.
 
 Sound can travel astonishing distance over frozen water.
 
@@ -1291,32 +1359,35 @@ Sound can travel astonishing distance over frozen water.
 
 ### Ecological Borders
 
-Forest thins into field, upland breaks into valley, river spreads into marsh,
-and coast becomes inland by degrees.
+Forest thins into field while upland breaks into valley. Rivers spread into marsh,
+and the coast becomes inland by degrees.
 
-Transition zones often hold more species, mixed work, and disputed use than the
-country on either side.
+Transition zones often support more species than the country on either side.
+Work mixes there, and use is more often disputed.
 
 ### Political Borders
 
-A border may be a patrolled road, tribute limit, shrine jurisdiction, bridge,
-ridge, marriage network, or the last household that still recognizes a seal.
+A patrolled road or bridge can mark a border in movement. A ridge marks it in the
+land, while tribute limits and shrine jurisdictions mark competing authority.
+Marriage networks define another kind of limit. Elsewhere the border is the last
+household that still recognizes a seal.
 
 Borders can overlap. One faction judges theft while another collects toll and a
 third claims religious authority.
 
 ### Kin Borders
 
-Kin settlement patterns meet through market, intermarriage, seasonal work,
-hunting ground, and old injury.
+Kin meet at markets and through intermarriage. Seasonal work and shared hunting
+ground create other crossings, while old injuries travel across them.
 
 Border people develop translation and are distrusted by centers that prefer
 clean difference.
 
 ### Mist Borders
 
-Former Blood Mist limits may remain in memory, building orientation, abandoned
-roads, burial, and stories of where travel once stopped.
+Former Blood Mist limits remain in memory and in stories of where travel once
+stopped. Building orientation still records them. Abandoned roads and burial
+customs give the vanished boundary material form.
 
 The invisible wall is gone. Social geography keeps its scar.
 
@@ -1329,9 +1400,9 @@ Beyond them, travelers change load, formation, and expectations.
 
 ### The Border Market
 
-Border markets need interpreters, agreed measures, hostage custom, neutral
-ground, animal separation, and ways to settle disputes without importing every
-feud.
+Border markets need interpreters and measures both sides accept. Neutral ground
+and separate space for animals limit immediate friction. Hostage custom may
+support peace. Local judgment settles disputes without importing every feud.
 
 Their mixed goods make them prosperous and politically fragile.
 
@@ -1348,24 +1419,27 @@ When war comes, each center suspects them first and needs them most.
 
 ### Seasonal Camp
 
-A seasonal camp exists for fish, hunt, herd, gathering, charcoal, logging,
-pilgrimage, quarry, or another concentrated work.
+A seasonal camp may serve fishing, hunting, herding, or gathering. Others
+support charcoal burning or logging. Pilgrimage, quarrying, and other
+concentrated work may establish one as well.
 
-Its light structures, waste system, water source, storage, and route are designed
-for expected duration. Staying longer turns adequacy into squalor.
+Its structures remain light. A waste system, water source, storage, and route
+are designed for the expected duration. Staying longer turns adequacy into
+squalor.
 
 ### Isolated Farmstead
 
-The farmstead combines dwelling, byre, store, yard, garden, field, water, fuel,
-and access to neighbors within signaling or walking distance.
+The farmstead joins dwelling to byre, store, and yard. Garden and field meet
+daily needs, along with water and fuel. Neighbors remain within signaling or
+walking distance.
 
-Isolation is relative. Work, marriage, worship, milling, and emergency bind it
-to a wider settlement.
+Isolation is relative. Work and emergency bind the farmstead to a wider
+settlement. So do marriage, worship, and milling.
 
 ### Hamlet
 
-A hamlet gathers several households around water, kin, shared field, landing,
-mill, shrine, or craft.
+Several households form a hamlet around shared water, field, or kin. A landing,
+mill, shrine, or craft can give the cluster its center.
 
 It may lack a full public office while possessing clear informal authority.
 
@@ -1374,11 +1448,13 @@ It may lack a full public office while possessing clear informal authority.
 Clustered buildings save defensible perimeter, well distance, and social contact
 while requiring travel to fields.
 
-Fire, waste, disease, noise, and animal movement become communal problems.
+Fire and waste become communal hazards. Disease, noise, and animal movement
+also become shared problems.
 
 ### Linear Village
 
-A road, river, dike, shore, or valley can stretch settlement into a line.
+A road or dike can stretch settlement into a line. So can a river, shore, or
+valley.
 
 Ends develop separate interests. The middle controls common crossing and news.
 
@@ -1391,8 +1467,9 @@ Expansion is salvage and archaeology together.
 
 ### Market Village
 
-A periodic market requires open space, measures, judgment, animal water,
-temporary shelter, waste, and storage.
+A periodic market needs open space and common measures. Judgment must be
+available. Animal water and temporary shelter serve the visiting crowd. Waste
+handling and storage do as well.
 
 On nonmarket days it may look too large for its population.
 
@@ -1401,14 +1478,14 @@ On nonmarket days it may look too large for its population.
 Pilgrimage, burial, healing, teaching, or sacred obligation supports residents
 who serve visitors.
 
-Religious calendar produces sudden crowding and long quiet.
+The religious calendar produces sudden crowding and long quiet.
 
 ### Fortified Settlement
 
 Ditch, bank, wall, gate, refuge hall, tower, and cleared approach express local
 danger and labor capacity.
 
-Fortification changes movement every peaceful day, not only during attack.
+Fortification governs movement during peace and attack alike.
 
 ### Stronghold Community
 
@@ -1420,16 +1497,18 @@ fact.
 
 ### Ruin Town
 
-A town concentrates several trades, markets, religious houses, factions, and
-quarters within the remains of older urban scale.
+A town concentrates several trades and markets within the remains of older
+urban scale. Religious houses, factions, and quarters share that inherited
+space.
 
 A ruin town occupies only part of the former city. Large empty or dangerous
 zones remain inside or near the inhabited fabric.
 
 ### Abandoned Settlement
 
-Abandonment leaves wells, fruit, graves, salvage, boundaries, spirits, vermin,
-and claims. The site continues affecting nearby life.
+Wells, fruit, and salvage remain materially useful after abandonment. Graves
+and boundaries preserve old claims. Spirits and vermin remain as well. The site
+continues affecting nearby life.
 
 Resettlement must answer why prior residents left.
 
@@ -1450,7 +1529,7 @@ Restoration claims often attach to ruins and old fields.
 Elven relations to landscape can extend across human generations. A grove left
 uncut for a century may still be under active custodianship.
 
-Human categories of unused land and abandoned claim therefore fail dangerously.
+Human categories of unused land and abandoned claim fail dangerously here.
 
 ### Elvenspring
 
@@ -1458,57 +1537,60 @@ Elvenspring communities often interpret between elven duration and human need.
 They maintain forest paths, healing places, mixed settlements, and customs whose
 authority comes from repeated care.
 
-Their landscapes show negotiated use rather than separation of people and wood.
+Their landscapes show people and wood joined through negotiated use.
 
 ### Dwarves
 
-Dwarven country is legible through completed and unfinished work: road grade,
-drainage, fitted stone, mine, archive, bridge, retaining wall, and measured
-boundary.
+Dwarven country is legible through completed and unfinished work. Road grade
+and drainage mark the routes. Fitted stone, mine, archive, bridge, retaining
+wall, and measured boundary mark the wider country.
 
 Maintenance can be religious and political fidelity to those who began the
 work.
 
 ### Orcs
 
-Orc bands and settlements make free use of ruins, grazing, camps, old military
-roads, and lands from which others once excluded them.
+Orc bands and settlements make free use of ruins and old military roads. They
+graze and camp upon lands from which others once excluded them.
 
 Claim may rest upon liberation, present defense, burial, or the labor of making
 an unwanted place habitable.
 
 ### Halflings
 
-Halfling landscapes emphasize fertile enclosure, garden, orchard, comfortable
-threshold, family proximity, and public evidence of good household order.
+Halfling landscapes emphasize fertile enclosure, garden, and orchard. They also
+favor comfortable thresholds, family proximity, and public evidence of good
+household order.
 
 The pleasant surface can conceal severe pressure around marriage, descent, and
 the children sent away.
 
 ### Goblins
 
-Goblins favor routes, edges, hidden camps, marginal resources, and places made
-usable through mobility and group knowledge rather than heavy construction.
+Goblins favor routes and edges. Hidden camps and marginal resources suit them as
+well. Mobility and group knowledge make other places usable without heavy
+construction.
 
 What halfling maps omit may be the social center of goblin life.
 
 ### Wolfkin
 
-Wolfkin landscapes are pack landscapes: shared routes, sleeping places, scent
-marks, hunting boundaries, calling points, and refuges where a solitary member
-can be brought back among persons.
+Wolfkin landscapes are pack landscapes. Shared routes and sleeping places bind
+their movement. Scent marks, hunting boundaries, and calling points make the
+pack perceptible, while refuges allow a solitary member to be brought back among
+persons.
 
 Open forest without social sign can become psychological danger after loss.
 
 ### Ogres and Other Kin
 
-Large bodies alter door, bed, tool, carrying capacity, food, and the material
-scale of hospitality. Settlements that include ogres design ordinary space
-accordingly rather than treating every visit as a spectacle.
+Large bodies alter doors, beds, and tools. They also change carrying capacity,
+food needs, and the material scale of hospitality. Settlements that include
+ogres design ordinary space accordingly. An ogre's visit is no spectacle there.
 
 Saurian, whiner, and other communities should receive landscape practice tied
-to their published ecology and social facts, not borrowed human village form by
-default.
+to their published ecology and social facts. A generic human village form is a
+poor default.
 
 ### Mixed Practice
 
@@ -1523,8 +1605,9 @@ Conflict comes at the joins and so does resilience.
 
 ### A Road Is Maintained Passage
 
-Width alone does not make a road. Drainage, cleared obstruction, surface,
-bridge, ford, markers, legal protection, and repeated use do.
+Width alone does not make a road. Drainage and a cleared surface keep it
+passable. Bridges and fords carry it over water. Markers make it legible, legal
+protection governs it, and repeated use sustains it.
 
 An overgrown built road may carry a cart better than a muddy current track until
 one hidden culvert fails.
@@ -1538,15 +1621,16 @@ Each has different users and rights.
 
 ### Wayfinding
 
-Travelers follow sun, stars, slope, water, vegetation, landmarks, tracks, road
-construction, local signs, and remembered sequence.
+Travelers take direction from sun and stars, slope and water, vegetation and
+landmarks. Tracks and road construction keep them on the route. Local signs and
+remembered sequence do the same.
 
 Direction is only one part. Knowing where passage is allowed matters equally.
 
 ### Road Maintenance
 
-Residents clear drains, fill holes, lay brush or stone, repair bridges, cut
-growth, mark danger, and remove fallen trees.
+Residents clear drains and fill holes. They lay brush or stone and repair
+bridges. They cut growth, mark danger, and remove fallen trees.
 
 The benefited ruler or market may organize work. Otherwise the nearest
 households bear a public burden.
@@ -1569,24 +1653,26 @@ by strangers invites injury and suspicion.
 
 ### Arrival Signs
 
-Before seeing a settlement, travelers encounter cut wood, dung, field, sound,
-smoke, dogs, shrine marks, boundary stones, tracks, and the place where roads
-begin to be repaired.
+Before seeing a settlement, travelers find land use in cut wood, dung, fields,
+and tracks. Sound, smoke, and dogs reveal habitation. The settlement's outward
+reach appears in shrine marks, boundary stones, and the place where roads begin
+to be repaired.
 
 Arrival should occur in stages.
 
 ### Entering
 
-Gate, bridge, ferry, yard edge, watch post, or first house creates a social
-threshold.
+Gate, bridge, or ferry may create the social threshold. Elsewhere it lies at a
+yard edge, watch post, or first house.
 
 Travelers slow, cover weapons, announce themselves, wait for dogs to be secured,
 and accept that local people need time to assess them.
 
 ### Leaving
 
-Departure includes water, directions, warnings, food, road tokens, messages, and
-the knowledge that the party carries the settlement's reputation onward.
+Departure provisions include water, food, and road tokens. Directions and
+warnings accompany them. Messages may go with the party, which also carries the
+settlement's reputation onward.
 
 A host may walk guests to the boundary for honor, safety, or certainty that they
 passed beyond it.
@@ -1611,8 +1697,9 @@ Answers are compared with gear and behavior.
 
 ### The Stranger's Competence
 
-A good guest notices footwear rules, animal placement, meal order, sleeping
-arrangement, water scarcity, and which subject closes conversation.
+A good guest notices footwear rules and animal placement. Meal order, sleeping
+arrangement, and water scarcity also matter. The guest notices which subject
+closes conversation.
 
 Offering useful labor can be more persuasive than offering silver.
 
@@ -1626,8 +1713,9 @@ These are patterns, not universal personalities.
 
 ### Inns
 
-An inn is a household specialized in strangers. It requires fodder, drink, food,
-sleeping surfaces, locks or watched storage, waste, water, fire, and relations
+An inn is a household specialized in strangers. It needs fodder, drink, and
+food. Water, fire, and sleeping surfaces support its guests. Waste must be
+handled. Locks or watched storage protect goods. It also depends on relations
 with local authority.
 
 Its keeper is broker, witness, and reputational judge.
@@ -1642,7 +1730,7 @@ The adventurers may be separated according to available space and trust.
 ### Dangerous Guests
 
 Visible injury, strange kin, magical signs, monster trophies, faction colors,
-and too much coin require negotiation rather than automatic refusal.
+and too much coin call for negotiation. They do not demand automatic refusal.
 
 Residents may want the party's aid and fear the enemies that aid will bring.
 
@@ -1667,8 +1755,9 @@ Its power may be magical, religious, social, or all three.
 
 ### Groves
 
-Groves can preserve old trees, burial, meeting, healing, boundary, and seasonal
-rite. Deadwood and undergrowth may be deliberately retained.
+Groves can preserve old trees and burial ground. They may also support meeting,
+healing, boundary, and seasonal rite. Deadwood and undergrowth may be
+deliberately retained.
 
 An outsider calling the grove neglected can reveal dangerous ignorance.
 
@@ -1682,8 +1771,9 @@ draws first.
 
 ### Stones and Heights
 
-Standing stones, exposed rock, peaks, and overlooks become witness places,
-boundaries, astronomical markers, burial, or magical sites.
+Standing stones, exposed rock, peaks, and overlooks take many roles. Any may
+become a witness place or boundary. They also serve as astronomical markers,
+burial places, or magical sites.
 
 Their visibility gives rites a political audience.
 
@@ -1710,16 +1800,16 @@ Avoidance can keep danger contained or let it grow unwatched.
 
 ### Custodians
 
-Custodians clear paths, receive offerings, tell rules, perform rites, bury the
-unknown, watch changes, and negotiate necessary use.
+Custodians clear paths and receive offerings. They bury the unknown and watch
+changes. They tell rules, perform rites, and negotiate necessary use.
 
 Their modest dwelling may be the only institution connecting a remote site to
 society.
 
 ### Desecration
 
-Damage to a sacred place injures material, relation, memory, and political
-standing. Repair needs more than replacing the broken object.
+Damage to a sacred place injures material and relation. Memory and political
+standing suffer with them. Repair needs more than replacing the broken object.
 
 The offender may need to restore access, serve custodians, confess, compensate,
 and learn the rule violated.
@@ -1730,10 +1820,11 @@ and learn the rule violated.
 
 ### Speech
 
-Regional speech differs in rhythm, borrowed words, landscape vocabulary,
-greetings, kin terms, measures, and the things speakers leave implicit.
+Regional speech differs in rhythm and borrowed words. Landscape vocabulary and
+greetings vary as well, along with kin terms and measures. Speakers also differ
+in what they leave implicit.
 
-Use a few recurring choices rather than phonetic caricature.
+Use a few recurring choices. Avoid phonetic caricature.
 
 ### Landscape Vocabulary
 
@@ -1744,15 +1835,18 @@ One precise local word can establish competence better than a heavy accent.
 
 ### Clothing
 
-Dress answers material and weather: wool weight, linen, leather, fur, waterproof
-treatment, head covering, footwear, layering, fastenings, and room to work.
+Wool weight and waterproof treatment answer the weather. Linen, leather, and fur
+depend on available material. Head covering and footwear protect the body, while
+layering, fastenings, and room in the cut let it work.
 
-Regional identity appears in cut, dye, trim, repair, and inherited ornament.
+Regional identity appears in cut, dye, and trim. Repair and inherited ornament
+reveal it as well.
 
 ### Footwear
 
-Footwear reveals country. Marsh, stone, snow, riding, field, and ruin demand
-different sole, height, binding, and maintenance.
+Footwear reveals country. Marsh, stone, and snow make different demands. So do
+riding, fieldwork, and ruin travel. Sole, height, binding, and maintenance
+answer them.
 
 Travelers wearing the wrong footwear are judged before their story.
 
@@ -1780,10 +1874,10 @@ Individuals can use or resist the reputation.
 
 ### Recognition
 
-Accent, knot, knife shape, cloak fastening, prayer phrase, horse gear, basket,
-and road habit can reveal region imperfectly.
+Accent and prayer phrase can hint at region. So can knot, knife shape, cloak
+fastening, horse gear, and basket. Road habit offers another imperfect clue.
 
-People migrate, imitate, marry, and inherit foreign objects.
+People migrate and marry. They imitate and inherit foreign objects.
 
 ---
 
@@ -1847,7 +1941,7 @@ Respecting this competence makes cooperation valuable.
 Choose one outside belief about the region that is partly true and materially
 wrong.
 
-Revelation should change decisions rather than merely supply lore.
+A useful revelation changes decisions. Lore alone is insufficient.
 
 ### Add a Price of Adaptation
 
@@ -1875,8 +1969,8 @@ Beauty can emerge from a world being lived in.
 
 ### Let Weather Change Plans
 
-Weather should alter route, labor, visibility, comfort, and social opportunity.
-It need not deal damage every time to matter.
+Weather should alter route, labor, and visibility. It should change comfort and
+social opportunity as well. It need not deal damage every time to matter.
 
 A rain that postpones roofing is already consequential.
 
@@ -1892,7 +1986,7 @@ Competence makes advice worth hearing.
 Begin with land use, then sound or smoke, then outlying work, boundary, dogs or
 watch, and only then the social center.
 
-Arrival becomes a readable sequence rather than a scene cut.
+Arrival becomes a readable sequence. Do not cut directly to the social center.
 
 ### Make Departure Different
 
