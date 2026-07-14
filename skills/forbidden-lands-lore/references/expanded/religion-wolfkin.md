@@ -2,7 +2,12 @@
 
 # Wolfkin Religion of the Ravenlands
 
-This reference develops worship of Heme as the Huntress through pack law, forest, blood, breeding, seasonal movement, music, prey, hunt-madness, and the remembered protection of the Blood Mist. Canon distinguishes the Huntress from the Rust Church. Wolfkin regression under prolonged isolation is an established campaign truth. Detailed rites are grounded setting inference.
+This reference begins with Heme as the Huntress in pack law and forest. Blood
+and breeding bind the pack through seasonal movement. Music orders the taking
+of prey, while hunt-madness shadows the remembered protection of the Blood
+Mist. Canon distinguishes the Huntress from the Rust Church. Wolfkin regression
+under prolonged isolation is an established campaign truth. Detailed rites are
+grounded setting inference.
 
 ---
 
@@ -49,8 +54,9 @@ people who will clear it.
 
 ## Religious Authority
 
-Wolfkin have ritual specialists, singers, mushroom keepers, trail readers, and
-elders, but no office corresponding neatly to a human priest. Authority follows
+Wolfkin have ritual specialists and singers. Mushroom keepers and trail readers
+hold narrower knowledge. Elders may judge all of them, but no office corresponds
+neatly to a human priest. Authority follows
 the matter at hand. The hunter who knows a herd speaks before pursuit. The
 keeper who dried the mushrooms controls the dose. A nursing parent can overrule
 a hunt leader on the food needed by cubs.
@@ -96,7 +102,8 @@ At departure, bedding and waste are scattered or buried according to the
 pack's purpose. Concealment protects the route. A deliberate scent mark claims
 return. Confusing the two can start a territorial dispute.
 
-Moon, weather, and season affect movement, prey, breeding, and sound. Wolfkin
+Moon, weather, and season affect movement and prey. They also shape breeding and
+the distance over which sound carries. Wolfkin
 do not need a separate theology for each. The Huntress is known in how living
 bodies meet those conditions.
 

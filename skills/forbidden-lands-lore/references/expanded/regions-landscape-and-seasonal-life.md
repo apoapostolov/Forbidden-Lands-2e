@@ -2,16 +2,16 @@
 
 # Regions, Landscape, and Seasonal Life in the Ravenlands
 
-The Ravenlands is crossed at boot height. A traveler knows it through wet wool,
-the taste of one valley's water, a road sunk beneath alder roots, the moment a
-horse begins to shorten its step, and the roofs people build where snow arrives
-sideways. This reference turns the map into lived country without fixing every
+The Ravenlands is crossed at boot height. A traveler knows it first through wet
+wool and the taste of one valley's water. A road sunk beneath alder roots changes
+the horse's step. Roofs lean from the quarter where snow arrives sideways. This
+reference turns the map into lived country without fixing every
 hex into a modern district.
 
 Named places and published geography remain in the core places reference.
-Economy has its own volume. Here landscape joins season, movement, settlement,
-custom, and memory so that arrival somewhere new changes more than the name read
-from a map.
+Economy has its own volume. Here landscape governs season and movement. It
+shapes settlement, custom, and memory, so arrival somewhere new changes more
+than the name read from a map.
 
 ## Contents
 
@@ -58,18 +58,19 @@ from a map.
 
 ### Claim Levels
 
-**Published canon** controls named geography, settlements, kin, history, and
-campaign facts stated in published material.
+**Published canon** controls named geography and settlements. It also controls
+published kin, history, and campaign facts.
 
 **Manuscript fact** includes the geography and settlement material already
 present in this edition's core and gamemaster chapters.
 
-**Historical model** supplies seasonal labor, vernacular building, route use,
-wetland practice, upland settlement, woodland rights, and premodern travel.
+**Historical model** supplies seasonal labor and vernacular building. It also
+supplies models for route use and premodern travel, wetland practice, upland
+settlement, and woodland rights.
 
 **Setting inference** asks what published features require in daily life. A
-fortress road requires drainage, fodder, repair, watch, and neighboring people
-who decide whether travelers pass.
+fortress road requires drainage and repair. Fodder keeps traffic moving; a watch
+and neighboring people decide whether travelers pass.
 
 **Personal campaign lore** gives Apostol Apostolov's expanded Ravenlands
 regional depth. It may be altered to fit events at the table.
@@ -80,8 +81,8 @@ A region here is a pattern of connected conditions rather than a bordered
 province. Soil, drainage, route, market, danger, kin custom, religious place,
 and remembered rule can hold together across several settlements.
 
-Two villages a day's walk apart may belong to different lived regions if a
-ridge, river, feud, or forest law makes their relations turn elsewhere.
+Two villages a day's walk apart may belong to different lived regions. A ridge
+or river may turn their relations elsewhere; so may a feud or forest law.
 
 ### Avoiding the Gazetteer Trap
 
@@ -93,12 +94,13 @@ way. The answer can differ from its neighbor without making either implausible.
 
 ### Landscape Has Agents
 
-People shape land through burning, grazing, cutting, ditching, damming, quarrying,
-planting, burial, and road work. Beasts, monsters, weather, magic, and abandoned
-works shape it as well.
+Fire and grazing reshape vegetation. Ditches and dams redirect water. Quarries,
+planting, burial, and road work leave other marks. Beasts and monsters shape the
+land as well; so do weather, magic, and abandoned works.
 
-“Wilderness” can contain old fields, seasonal rights, sacred paths, charcoal
-platforms, forgotten boundary stones, and somebody's claim.
+“Wilderness” can contain old fields under seasonal rights. A sacred path may
+cross charcoal platforms and forgotten boundary stones. Somebody still claims
+them.
 
 ---
 
@@ -106,8 +108,9 @@ platforms, forgotten boundary stones, and somebody's claim.
 
 ### Ground
 
-Ground determines whether feet sink, wheels break, water stands, seed takes,
-walls settle, and graves remain dry.
+Ground decides whether feet sink or wheels break. It decides where water
+stands and seed takes. Walls settle by the same ground; graves remain dry or do
+not.
 
 People know ground by work. They distinguish soil that holds spring water from
 soil that merely looks dark, stone that splits clean from stone that drinks
@@ -132,8 +135,8 @@ play, and people gathering materials they have no right to take.
 
 ### Exposure
 
-Open ground gives wind, sun, distance, stars, mounted movement, and early sight
-of danger. It also removes shelter.
+Open ground gives wind and sun. Distance and stars make travel legible; mounted
+movement gains speed and sees danger early. The same ground removes shelter.
 
 People raised in forest may find a plain unnerving because every direction is
 visible and no edge promises concealment. Wolfkin alone after losing a pack can
@@ -141,8 +144,8 @@ experience such openness as the first space of hunt-mad dissolution.
 
 ### Height
 
-Height grants drainage, wind, lookout, defense, colder nights, hard transport,
-and a claim visible from below.
+Height grants drainage, lookout, and defense. Exposure makes nights colder and
+transport harder. A claim on the height remains visible from below.
 
 Upland residents measure distance by descent and return. A place geographically
 near may cost a full day because every load must be carried back upward.
@@ -159,8 +162,9 @@ eye.
 
 ### Wind
 
-Wind dries hay, drives smoke, strips heat, turns sails, spreads fire, carries
-sound, and decides which side of a house remains habitable in storm.
+Wind dries hay and drives smoke. It strips heat, turns sails, and spreads fire.
+It also carries sound and decides which side of a house remains habitable in
+storm.
 
 Local building faces away from habitual weather. A traveler choosing the wrong
 door side marks himself before speaking.
@@ -175,8 +179,8 @@ direct track.
 
 ### Season
 
-No region has one permanent form. Marsh freezes. rivers flood. forest canopy
-closes sight. upland grass disappears. ruin cellars become cool stores in summer
+No region has one permanent form. Marsh freezes. Rivers flood. Forest canopy
+closes sight. Upland grass disappears. Ruin cellars become cool stores in summer
 and drowning traps in spring.
 
 Prepare every important route in at least two seasons.
@@ -351,7 +355,7 @@ inhabited roads.
 ### Forest Canopy
 
 Leaves close sight and soften distant sound. Tracks dry hard. Underwood catches
-clothing. insects and ticks become constant companions.
+clothing. Insects and ticks become constant companions.
 
 People travel by remembered turn, slope, water noise, and tree form rather than
 view.
@@ -802,8 +806,9 @@ A border closed in summer may strand animals where winter fodder does not grow.
 Mining settlements depend upon food imported from beyond the ground they work.
 Ore wealth can conceal immediate hunger.
 
-Spoil, smoke, timber demand, drainage, injury, and contaminated water mark the
-region around a mine.
+Spoil and smoke mark the ground around a mine. Its appetite for timber reaches
+farther into the woods. Drainage carries the work outward again, sometimes as
+contaminated water; injury marks the households that depend upon it.
 
 ### Quarry
 
@@ -1080,7 +1085,7 @@ verification.
 
 Market days draw dispersed households. The approach roads fill before stalls
 open. Sleeping space, animal water, dung, theft, judgment, and measurement become
-temporary government.
+the market's brief government.
 
 The empty market field afterward shows trampled ground and the things nobody
 could sell.
@@ -1559,8 +1564,8 @@ news.
 Darkness removes surface detail, changes animal behavior, and makes every light
 a decision about visibility.
 
-Residents know short night routes between familiar thresholds. Long strangers'
-travel invites injury and suspicion.
+Residents know short night routes between familiar thresholds. Long night travel
+by strangers invites injury and suspicion.
 
 ### Arrival Signs
 
@@ -1793,8 +1798,8 @@ Then decide how residents answer it competently.
 
 ### Add a Seasonal Reversal
 
-Choose one feature that changes meaning by season. Marsh becomes road. river
-becomes wall. forest becomes open to sound. upland becomes inaccessible. harbor
+Choose one feature that changes meaning by season. Marsh becomes road. River
+becomes wall. Forest becomes open to sound. Upland becomes inaccessible. Harbor
 becomes exposed.
 
 The reversal prevents static geography.

@@ -11,6 +11,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- **`/forbidden-lands-writing-voice` — prose quality control.** Added a
+  researched enumeration standard and expanded diagnostic for flat comma chains,
+  adjective piles, pseudo-inventories, mixed categories, and false completeness.
+  It distinguishes these from legitimate inventories, procedures, rituals, and
+  ordered catalogues, with register-specific repairs and a final audit pass.
+
 - **`/forbidden-lands-lore` — magical metaphysics and path doctrine.** Added a
   coherent model of Willpower as intention forged through suffering, with
   practical laws for ingredients, grimoires, rituals, overcharge, mishaps,

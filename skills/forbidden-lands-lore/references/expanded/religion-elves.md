@@ -2,7 +2,12 @@
 
 # Elven Religions of the Ravenlands
 
-This reference develops elven religion through the Red Wanderer, Clay, the Shardmaiden, Wail, Flow, ruby personhood, druidic orders, and the different duties claimed by Stillelves, Unruly, Ents, Melders, Watchers, and Redrunners. Named powers and orders are manuscript facts. Detailed rites are grounded setting inference unless identified as local practice.
+This reference begins with the Red Wanderer and Clay, then follows the
+Shardmaiden into Wail and Flow. Ruby personhood gives druidic orders their most
+difficult duties. The later sections distinguish Stillelves and Unruly, then
+Ents, Melders, Watchers, and Redrunners. Named powers and orders are manuscript
+facts. Detailed rites are grounded setting inference unless identified as local
+practice.
 
 ---
 
@@ -18,7 +23,7 @@ when knowledge passes between unlike beings.
 Elves and Elvenspring tend to honor Clay as a master teacher rather than a
 sovereign. The world was shaped, then left capable of further shaping. Life is
 therefore neither untouched purity nor raw material without claims. A druid may
-prune, cull, graft, heal, move, and sometimes kill, but must understand the
+prune or cull, graft or heal, and sometimes move or kill, but must understand the
 living relation altered by the act.
 
 Clay doctrine holds that form carries memory. A scar shows adaptation. A path
@@ -109,8 +114,9 @@ missing thing changes every other taste. The rite teaches loss through the
 body, not a speech.
 
 **Walking the Bough** is a Golden Bough survey. Druids follow a set path through
-forest and settlement, recording births, disease, predation, felling, water,
-and fire. The same route repeated over years lets change become evidence. A
+forest and settlement. They record births and disease, predation and felling,
+and changes in water or fire. The same route repeated
+over years lets change become evidence. A
 missing fox litter or new charcoal pit matters more than an omen invented at
 the shrine.
 
@@ -140,15 +146,17 @@ gift. This disagreement has divided houses without producing a final doctrine.
 
 ### Wind, Weather, and Unheld Things
 
-Wail is the air goddess, honored by Raven Sisters, elves, Elvenspring, sailors,
-herders, millers, and any household whose roof must survive a storm. In Raven
+Wail is the air goddess. Raven Sisters honor her, as do elves and Elvenspring.
+Sailors and herders appeal to her in their work. So do millers and households
+with a roof to keep. In Raven
 teaching she is the Protector's wife and bears birds through the sky. Other
 traditions make her older than the human gods and indifferent to their
 marriages.
 
 Wind cannot be stored, fenced, or ordered to return. Wail therefore governs
-movement without ownership: weather, breath, rumor, migrating birds, scent,
-song carried beyond its singer, and words sent where the speaker cannot follow.
+movement without ownership. Weather and breath are hers. Rumor travels like
+migrating birds; scent and song pass beyond their source. Words sent where the
+speaker cannot follow belong to her as well.
 Her faithful distrust claims that something moving can be possessed merely
 because it crossed one's land.
 
@@ -158,8 +166,9 @@ from a god is rarely a restoration of the earlier state.
 
 ### Practice and Ceremony
 
-People give Wail things light enough to move: wool fibers, chaff, feather down,
-wood shavings, breath through a horn, and strips cut from worn cloth. Good cloth
+People give Wail things light enough to move. Wool fibers and chaff catch the
+air; feather down and wood shavings rise with it. Breath through a horn carries
+farther. Strips cut from worn cloth remember the giver. Good cloth
 is not hung casually. A visible prayer on a pass tells travelers that someone
 paid material for the wind's attention.
 

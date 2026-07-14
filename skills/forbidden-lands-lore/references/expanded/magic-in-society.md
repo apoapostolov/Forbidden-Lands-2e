@@ -2,17 +2,18 @@
 
 # Magic in Ravenlands Society
 
-Magic leaves heat in the palms, blood beneath the nails, words in a dead
-teacher's hand, and neighbors who remember which roof burned after the miracle.
-This reference concerns the society around spellcraft: how talent is noticed,
-teachers are found, ingredients change hands, grimoires become inheritances,
-services are priced, harm is judged, and each discipline enters ordinary life.
+Magic leaves heat in the palms and blood beneath the nails. Sometimes it leaves
+words in a dead teacher's hand. Neighbors remember which roof burned after the
+miracle. This reference begins where talent is noticed and a teacher must be
+found. It follows ingredients into trade and grimoires into inheritance. It
+also explains the price of service, the judgment of harm, and the place each
+discipline takes in ordinary life.
 
 The workings beneath magic belong in [Magic Metaphysics and Path
 Doctrines](magic-metaphysics-and-path-doctrines.md). The rules for learning and
 casting belong in Chapter 7. Here the question is what those truths do to a
-household, a market, a shrine, and a settlement that must live with a caster
-after the spell is over.
+household or market, and how the shrine and the wider settlement answer the
+caster after the spell is over.
 
 ## Contents
 
@@ -55,23 +56,24 @@ after the spell is over.
 
 ### Claim Levels
 
-**Published canon** governs named peoples, places, faiths, histories, and magical
-traditions taken from published Forbidden Lands material.
+**Published canon** governs named peoples and places. It also governs published
+faiths, histories, and magical traditions.
 
-**Manuscript fact** governs the current Chapter 7 rules: seventeen disciplines,
-teacher access, five Path ranks, rank 6 spells, grimoires, ingredients, burn,
-rituals, casting modes, and mishaps.
+**Manuscript fact** governs the current Chapter 7 rules. These include seventeen
+disciplines and access to teachers. Five Path ranks govern learning; rank 6
+spells remain possible only through chance casting. The chapter also controls
+grimoires, ingredients, burn, rituals, casting modes, and mishaps.
 
 **Setting inference** draws social consequences from those rules. If grimoires
-reduce casting difficulty, people will steal, inherit, authenticate, conceal,
-and bargain over them.
+reduce casting difficulty, people will steal or inherit them. Owners must
+authenticate and conceal them before they can bargain.
 
-**Historical model** supplies workshop practice, apprenticeship, household
-labor, customary judgment, manuscript production, patronage, and market
-relations suited to a fragmented premodern world.
+**Historical model** supplies workshop practice and apprenticeship. Household
+labor supports manuscript production; customary judgment governs disputes.
+Patronage and market relations suit a fragmented premodern world.
 
 **Personal campaign lore** extends Ravenlands society for Apostol Apostolov's
-campaign. It should remain available for adoption, alteration, or rejection.
+campaign. A table may adopt it, alter it, or reject it.
 
 ### What This Reference Does Not Do
 
@@ -82,11 +84,12 @@ It does not assume that every settlement has a resident caster. Rarity and
 secrecy in Chapter 7 remain the controlling guide.
 
 It does not make common folk ignorant. People may misunderstand causes while
-possessing exact knowledge of signs, prices, dangers, and reputations.
+possessing exact knowledge of signs and prices. They remember dangers and
+reputations.
 
 It does not make every accusation false or every caster persecuted. Magic can
-heal a child, compel a mind, poison a well, raise a corpse, mend a wall, and
-bring something through the world's skin. Fear has objects.
+heal a child or mend a wall. It can compel a mind, poison a well, or raise a
+corpse. It can also bring something through the world's skin. Fear has objects.
 
 ### Social Knowledge and Path Knowledge
 
@@ -96,9 +99,9 @@ knowing how Healing doctrine describes the body's remembered shape.
 A ferryman may recognize the smell after an Elemental mishap without knowing a
 single spell.
 
-A ranked caster knows doctrine, technique, and consequence through study. A
-community knows magic through experience, story, warning, and the behavior of
-people who survived it.
+A ranked caster learns doctrine through study, then tests technique against
+consequence. A community knows magic through experience and warning. Its
+stories preserve the behavior of people who survived it.
 
 These forms of knowledge should meet in play without one automatically
 invalidating the other.
@@ -110,8 +113,9 @@ invalidating the other.
 ### Magic Is Rare and Recurrent
 
 Magic is rare enough to acquire reputation and recurrent enough to shape
-custom. Most people cannot cast. Many have known somebody healed, cursed,
-searched by ritual, frightened by a sign, or cheated by a person claiming power.
+custom. Most people cannot cast. Many have known somebody healed or cursed.
+Others have seen a ritual search, taken fright at a sign, or been cheated by a
+person claiming power.
 
 Distance changes the story. A witnessed working has details: who stood where,
 what was spent, what the air smelled like, and what happened afterward. Three
@@ -119,8 +123,9 @@ villages away, the same event becomes proof for a doctrine.
 
 ### Magic Is Work
 
-Casting consumes willpower, preparation, ingredients, attention, and risk.
-Learning consumes years, favors, travel, secrecy, and expensive mistakes.
+Casting consumes Willpower and ingredients. Preparation demands attention, and
+risk remains. Learning consumes years. Favors and travel secure instruction;
+secrecy and expensive mistakes consume more.
 
 The caster who performs one spell has also gathered what it requires, kept
 knowledge alive, judged the circumstance, and accepted responsibility for an
@@ -136,8 +141,8 @@ Households remember it. Teachers answer for it. Rivals describe it. Authorities
 ask whether it was permitted. Priests ask what was invited. Heirs inherit its
 objects and enemies.
 
-A private casting can have public consequence when the result changes kinship,
-memory, health, weather, property, or the credibility of testimony.
+A private casting can have public consequence. It may change kinship or memory,
+health or weather. It may alter property, or the credibility of testimony.
 
 ### Magic Marks Time
 
@@ -151,10 +156,11 @@ before and after.
 ### Magic and Unequal Dependence
 
 Scarce competence creates dependence. A settlement may hate its resident caster
-and still require her for childbirth, monster signs, water, walls, or messages.
+and still require her at childbirth. The same caster may read monster signs,
+find water, strengthen walls, or send messages.
 
-The caster also depends upon the settlement for food, ingredients, witnesses,
-protection, and people willing to report early signs rather than hide them.
+The caster also depends upon the settlement for food and ingredients. Witnesses
+and protection matter as much as people willing to report early signs.
 
 Healthy relations make the exchange visible. Predatory relations keep one side
 permanently afraid that refusal means abandonment.
@@ -171,12 +177,14 @@ without its caster.
 
 ### Public and Hidden Practice
 
-Known disciplines acquire customary spaces: healer's room, druid grove, quarry
-ledge, winter shrine, or fenced ritual yard.
+Known disciplines acquire customary spaces. A healer keeps a room; a druid uses
+a grove. Quarry ledges, winter shrines, and fenced ritual yards serve other
+paths.
 
 Strange disciplines are shown selectively. Disturbing disciplines are concealed
-or practiced under powerful protection. Prohibited disciplines require hidden
-teachers, false professions, remote work, or patrons willing to silence inquiry.
+or practiced under powerful protection. Prohibited disciplines require a
+hidden teacher and false profession. Remote work helps; so does a patron willing
+to silence inquiry.
 
 Secrecy changes technique. A hidden caster cannot gather openly, store every
 ingredient nearby, or ask witnesses to report small mistakes.
@@ -581,8 +589,9 @@ survivors unable to use what they risked to preserve.
 
 ### Romance, Marriage, and Household Formation
 
-Apprentices live close under stress. Affection can become partnership, rivalry,
-favoritism, pregnancy, jealousy, or a new teaching household.
+Apprentices live close under stress. Affection can become partnership or
+rivalry. Favoritism and jealousy enter the school with it. Pregnancy may bind
+the pair to a household or lead them to form a new teaching household.
 
 A master who controls marriage or intimacy controls succession. Such authority
 requires scrutiny rather than doctrine used as excuse.
@@ -845,8 +854,10 @@ knowledge and ignorance.
 
 ### Ingredients Are Relations
 
-An ingredient arrives through soil, season, animal, craft, trade, grave,
-household, or dangerous place. Even common materials have gatherers and claims.
+An ingredient comes from a place and through someone's work. Soil and season
+shape what can be gathered; animals and crafts shape what can be prepared.
+Trade, household stores, graves, and dangerous places all place claims upon the
+final object. Even common materials have gatherers and owners.
 
 The caster who names only the final object forgets the person who climbed,
 butchered, stole, grew, dried, carried, or preserved it.
@@ -1194,8 +1205,9 @@ caster feels normal after seconds.
 
 ### First Response
 
-Stop secondary harm. Move people from fire, unstable stone, poisoned air,
-panicked animals, hostile dead, or the altered caster.
+Stop secondary harm. Move people away from fire or unstable stone before either
+spreads the mishap. Poisoned air and panicked animals require different exits.
+The hostile dead or the altered caster may require guards as well as rescue.
 
 Do not begin blame while somebody remains beneath a beam.
 
@@ -1334,7 +1346,7 @@ recklessness invites justified anger.
 Travel into cursed ground, use of disturbing disciplines, public exposure,
 chance casting, and hostile political attention justify additional payment.
 
-The premium should fund preparation and aftercare, not merely reward bravado.
+The premium should fund preparation and aftercare. Bravado earns nothing by itself.
 
 ### Magical Monopolies
 
@@ -1489,8 +1501,9 @@ village for life.
 
 ### Druids
 
-Druids are commonly associated with living cycles, healing, animals, weather,
-dream, place, and religious service.
+Druids are commonly associated with living cycles and the healing of bodies.
+Their dealings with animals and weather tie them to particular places. Dream
+and religious service give those dealings a public meaning.
 
 Public acceptance can hide real danger. Known status does not make every druidic
 working harmless or consensual.
@@ -1744,7 +1757,8 @@ skilled investigator learns the difference without assuming either path harmless
 
 Magma Song is disturbing, native to the Bloodmarches, and learned through a
 journey. Its doctrine hears matter's memory and unrealized possibility through
-poetry, heat, stone, ash, steam, and volcanic force.
+poetry. Its practitioners read heat and stone by what they remember. Ash and
+steam are the nearer voices of volcanic force.
 
 Magma singers support forges, hot water, stone repair, fertility through ash,
 mining, tunneling, transport, and war.
@@ -1901,8 +1915,8 @@ Office can create accountability or protect abuse from outside examination.
 People may call an unexplained mercy a miracle and a hated spell a fraud even
 when both used known magic.
 
-Religious meaning concerns relation and interpretation, not merely whether a
-caster can reconstruct the technique.
+Religious meaning concerns relation and interpretation. Reconstructing the
+technique answers a narrower question.
 
 ### Anathema
 
@@ -2045,9 +2059,9 @@ neighbors suspicious of foreign correction.
 
 ### Ruins
 
-Reopened ruins contain grimoires, ritual spaces, persistent effects, ingredients,
-failed experiments, and claims from heirs who could not reach them during the
-Mist.
+Reopened ruins may contain grimoires beside spaces built for ritual. Persistent
+effects and failed experiments make their recovery dangerous. Ingredients left
+inside may also be claimed by heirs who could not reach them during the Mist.
 
 Recovery is scholarship, salvage, hazard, and politics.
 
@@ -2349,7 +2363,8 @@ because useful power had permitted itself to be limited.
 
 ### Closing Principle
 
-Magic becomes part of society through repeated arrangements around danger:
-teaching, witness, payment, storage, consent, repair, and memory. The spell is
+Magic becomes part of society through repeated arrangements around danger.
+Teaching and witness govern who may act; payment and storage govern what the
+working consumes. Consent must be remembered when repair begins. The spell is
 the bright moment. The discipline survives in the hands that prepare for it and
 the households that remain afterward.

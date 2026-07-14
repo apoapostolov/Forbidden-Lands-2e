@@ -6,9 +6,10 @@
 churches, heresies, household observances, and sacred disputes.
 
 Religion in the Ravenlands is not a list of divine concerns. It determines who
-may witness an oath, whose calendar governs work, how a body is buried, which
-knowledge may be kept, what a household owes after a death, and whether an
-unusual child is blessed, hidden, or claimed. A rite without such consequences
+may witness an oath and whose calendar governs work. It tells people how to
+bury a body and which knowledge may be kept. After a death it defines what a
+household owes. It also decides whether an unusual child is blessed, hidden, or
+claimed. A rite without such consequences
 is decoration.
 
 This document develops the practices implied by the manuscript. The named gods,
@@ -67,9 +68,9 @@ agreement.
 
 ### Canon, Inference, and Local Invention
 
-The three faces of the Protector, the Raven Sisters, the Reapenters, the Rust
-and Heme Church, the Vampyr heresy, and human worship of the Older Gods are
-manuscript facts.
+The three faces of the Protector are manuscript facts, as are the Raven Sisters
+and Reapenters. The Rust and Heme Church and the Vampyr heresy belong to the
+same layer. So does human worship of the Older Gods.
 
 The Feather-and-Coil theology below is an old household synthesis built from
 Raven and Wyrm traditions. It does not erase the institutional schism. Some
@@ -127,8 +128,9 @@ Iron dedicated to Huge cannot be melted for a knife without answering the
 smith who witnessed the dedication. A cord tied for an oath remains evidence
 after the people who tied it disagree.
 
-Small offerings dominate daily practice: a mouthful, a shaving of wood, the
-first coal, a bent pin, a twist of wool, a spoken name, a period of labor. Large
+Small offerings dominate daily practice. One person gives a mouthful or a
+shaving of wood; another gives the first coal or a bent pin. A twist of wool, a
+spoken name, or a period of labor can serve the same ritual purpose. Large
 offerings appear when danger, guilt, or political display requires them. Rank
 often decides whose food, animal, blood, or life can be substituted by silver.
 
@@ -147,8 +149,9 @@ other people hear the speaker's standing.
 
 An anathema is more than conduct a god dislikes. It places a person or act
 outside the relationships a religion knows how to repair. Most faults can be
-answered through restitution, changed conduct, fasting, service, public words,
-or another rite. Anathema threatens the faith's basic account of the world.
+answered through restitution or changed conduct. Fasting and service answer
+others. Public words or another rite complete the repair. Anathema threatens
+the faith's basic account of the world.
 
 One tradition may forbid what another requires. Raven oath-keepers condemn
 false witness; Eor's priests may regard a lie that protects the cradle as holy.
@@ -175,9 +178,10 @@ that a duty is fair. The bird asks whether it was yours and whether you carried
 it.
 
 Wyrm holds the feminine half of the pair. This is the old language of the
-tradition, not a claim that only women embody it. Wyrm governs gestation,
-continuity, bodily knowledge, household memory, adaptation, healing, concealed
-counsel, and the preservation of life through change. Raven keeps a word in
+tradition, not a claim that only women embody it. Wyrm governs gestation and the
+continuity of living bodies. Bodily knowledge and household memory belong to
+this face. Adaptation and healing preserve life through change; concealed
+counsel protects the process. Raven keeps a word in
 public. Wyrm remembers the conditions under which it was given and the mouths
 that depended upon it.
 
@@ -255,10 +259,10 @@ still folding into itself. A surviving child is later carried outdoors and
 named to Raven before the household. The delay may be a few days or a season,
 depending on infant danger and local custom.
 
-At the first adult oath, the young person chooses or accepts a duty: a share of
-watch, care of an elder, maintenance of a path, service to a shrine, or a trade
-obligation. The choice need not determine a profession. It announces that the
-person's word can now cause others to act.
+At the first adult oath, the young person chooses or accepts a duty. It may be a
+share of the watch or care of an elder. Others maintain a path, serve a shrine,
+or take on a trade obligation. The choice need not determine a profession. It announces
+that the person's word can now cause others to act.
 
 A youth who refuses is not necessarily expelled. They may remain unnamed in
 public agreements, unable to witness or stand surety until some duty is taken.
@@ -327,9 +331,10 @@ carrier. Its ouroboros shows continuity through destruction: the end feeds the
 beginning, memory passes through death, and a law survives by being renewed
 rather than merely repeated.
 
-Psychopomps guide transitions. They tend the dying, interpret inheritance,
-record births and marriages, preserve letters, reconcile old terms with new
-conditions, and conduct the dead toward whatever follows. The library at
+Psychopomps guide transitions. They tend the dying and interpret inheritance.
+They record births and marriages. They also preserve letters that outlive both.
+They reconcile old terms with new conditions and conduct the dead toward
+whatever follows. The library at
 Farhaven gives the order an authority rare in the Ravenlands: it can compare a
 village memory with a text copied before the Mist.
 

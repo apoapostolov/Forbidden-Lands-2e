@@ -2,7 +2,12 @@
 
 # Dwarven Religion of the Ravenlands
 
-This reference develops the worship of Huge as dwarves live it through work, clan, reincarnation, maintenance, judgment, the Stonegarden gatherings, and the World Expansion. Named gods, clans, and cosmology are manuscript facts. The gathering of the clans once every two years is an established campaign truth. Detailed rites are grounded setting inference unless marked as local practice.
+This reference begins with the worship of Huge through work and clan. It follows
+reincarnation into the duties of maintenance and judgment. The Stonegarden
+gatherings then place those duties inside the World Expansion. Named gods,
+clans, and cosmology are manuscript facts. The gathering of the clans once every
+two years is an established campaign truth. Detailed rites are grounded setting
+inference unless marked as local practice.
 
 ---
 
@@ -136,9 +141,10 @@ enough for delegations to cross the longest roads after the thaw and return
 before ice closes them.
 
 The gathering lasts five days. Travel may take a season, and some delegations
-arrive with wagons of work meant for the bazaar. The Canides provide halls,
-water, fuel, guards, measured stalls, kennels, and safe-conduct from the foot
-of the plateau. The expense grants them precedence as hosts but no additional
+arrive with wagons of work meant for the bazaar. The Canides provide halls and
+water. Fuel and guards keep them usable; measured stalls and kennels order the
+gathering. Safe-conduct begins at the foot of the plateau. The expense grants
+them precedence as hosts but no additional
 vote in clan judgment. Canide rulers have tested that distinction more than
 once.
 
@@ -192,9 +198,9 @@ whose echo conceals a void. The contestant must state what can be completed in
 the allotted time and what must remain undone. Promising an impossible repair
 is judged more harshly than finishing little.
 
-The arts trials include carving, metal relief, shaped crystal, instrument
-making, patterned armor, and work-songs composed for a particular object or
-crew. Beauty without sound construction is treated as painted rot. Sound work
+The arts trials include carving and metal relief. Shaped crystal and instrument
+making test other hands. Patterned armor is judged beside work-songs composed
+for a particular object or crew. Beauty without sound construction is treated as painted rot. Sound work
 without a thought beyond use may win a buyer and still lose the judges.
 
 Dwarven wit is tested through song. One singer begins an account from an older
@@ -244,9 +250,9 @@ delay a war, expose a failing bridge, or ruin a king's prepared speech.
 ### The Fourth Day: Accounts between Peoples
 
 Clan rulers, guild elders, priests, creditors, and maintainers meet on the
-fourth day. They divide shared work, hear compensation claims, recognize
-apprenticeships, exchange hostages or fosterlings, settle passage, and decide
-which abandoned structure remains a duty. Contest victories add standing but
+fourth day. They divide shared work and hear compensation claims. They recognize
+apprenticeships and exchange hostages or fosterlings where peace requires it.
+They settle passage and decide which abandoned structure remains a duty. Contest victories add standing but
 never prove a claim. The best singer in Stonegarden still needs witnesses to a
 debt.
 
@@ -276,8 +282,9 @@ recorded beside consent.
 ### The Fifth Day: Closing the Annal
 
 On the fifth morning, four clan annalists and the Canide keeper compare their
-records. They enter contest results, judgments, prices, commissions, deaths,
-peace terms, declared failures, and obligations due at the next gathering. A
+records. They enter contest results and judgments. The annals preserve prices,
+commissions, deaths, and peace terms as well. Declared failures remain beside
+obligations due at the next gathering. A
 speaker may correct a name or measure before the record closes. They may not
 erase an accusation that was heard. The answer is entered beside it.
 

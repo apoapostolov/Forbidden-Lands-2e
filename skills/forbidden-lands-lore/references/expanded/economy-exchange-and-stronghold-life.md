@@ -6,16 +6,17 @@
 campaign. This reference combines manuscript rules and setting facts with
 grounded pre-industrial economic models and setting inference.
 
-This document explains how people obtain food, preserve a surplus, exchange
-work and goods, use old silver, inhabit the shells of lost towns, and turn an
-adventurers' stronghold into a working community. It is written for AI and Game
-Masters. Use it to answer what people do, what a place can support, why a price
-changes, who controls a store, and what the stronghold smells and sounds like
-when its functions are actually being used.
+Food comes first: who raises or finds it, who preserves it, and who keeps the
+store. Barter and old silver follow from those facts. So do the few inhabited
+shells of lost towns. The later sections treat an adventurers' stronghold as a
+working community. AI and Game Masters can use the reference to decide what
+people do, what a place can support, why a price changes, and who controls the
+store. Smell and noise reveal whether a stronghold function is in use.
 
-The rules for prices, function costs, yields, staffing, construction, and
-stronghold battles remain in Books 01 and 02. The material below explains the
-lived world around those rules. It adds no compulsory maintenance rolls.
+The rules for prices and function costs remain in Books 01 and 02. Those books
+also govern yields, staffing, construction, and stronghold battles. The
+material below explains the lived world around those rules. It adds no
+compulsory maintenance rolls.
 
 ## Contents
 
@@ -54,21 +55,23 @@ lived world around those rules. It adds no compulsory maintenance rolls.
   only beginning to recover in 1165 AS. Silver and copper circulate, stronghold
   functions produce defined resources, and towns are uncommon.
 - **Established campaign lore:** Ravenland has no known operating silver mine.
-  Its silver is old Alder War money, worn, clipped, hoarded, lost, and found
-  again. Apostol Apostolov's campaign treats this as the ordinary source of
-  circulating silver.
-- **Historical model:** Household production, mixed subsistence, witnessed
-  measures, payment in kind, reciprocal labor, seasonal markets, and stores
-  held under personal authority are plausible answers to pre-industrial needs.
+  Its silver is old Alder War money. Coins return to circulation worn or
+  clipped; others are hoarded, lost, and found again. Apostol Apostolov's
+  campaign treats this as the ordinary source of circulating silver.
+- **Historical model:** Household production and mixed subsistence answer most
+  needs close to home. Witnessed measures and payment in kind support exchange;
+  reciprocal labor and seasonal markets extend it. Stores remain under personal
+  authority.
 - **Setting inference:** Ten generations without dependable travel make local
-  measures, local debts, salvage rights, and household memory unusually strong.
-  Five years of open roads make strangers, tolls, portable coin, and market
-  information unusually disruptive.
+  measures and household memory unusually strong. Local debts and salvage
+  rights depend upon both. Five years of open roads have made strangers and
+  tolls disruptive; portable coin and distant market information disturb old
+  bargains as well.
 
 The settlement tables can produce a silver mine. In Ravenland, treat that
-result as an exhausted old working, a false assay, a lost shaft, or a discovery
-important enough to alter regional politics. A new producing silver mine is an
-authorial decision, not ordinary scenery.
+result as an exhausted old working or false assay. A lost shaft might instead
+be a discovery important enough to alter regional politics. A new producing
+silver mine is an authorial decision, not ordinary scenery.
 
 ### The Economic Constraint Chain
 
@@ -84,11 +87,11 @@ other households to count sacks through the wall.
 
 ### Ordinary Competence
 
-People who have survived the Blood Mist know how to mend a fence, dry damp
-grain, salt fish, stack firewood clear of the ground, judge a thin animal, and
-find one more meal in familiar land. Summarize that work. Bring it forward when
-weather, missing tools, absent labor, bad storage, or disputed ownership changes
-a choice.
+People who survived the Blood Mist mend fences and dry damp grain without
+thinking themselves exceptional. They salt fish, keep firewood off the ground,
+and judge whether a thin animal will live. Familiar land usually yields one more
+meal. Summarize such work until weather or missing tools change a choice. Bring
+it forward when labor is absent, storage has failed, or ownership is disputed.
 
 ---
 
@@ -96,14 +99,18 @@ a choice.
 
 ### The Household Is the First Treasury
 
-The working economic unit is the household, not the solitary wage earner. A
-household joins mouths, hands, animals, land use, tools, seed, stored food,
-reputation, and liability. Its wealth may be a sound roof, two daughters old
-enough to keep sheep, a ploughshare, six sealed grain jars, and the remembered
-fact that the miller's father owes it help at harvest.
+Count the mouths eating from one store and the hands answerable for it. That is
+the working unit: the household, not the solitary wage earner. Animals and
+rights to land make those hands more productive, provided the household has
+tools, seed, and stored food. Everyone who eats from the store shares its
+reputation and liability. Wealth may lie in a sound roof or ploughshare, in two
+daughters old enough to keep sheep, or in six sealed grain jars. The remembered
+fact that the miller's father owes help at harvest belongs to the household as
+well.
 
 Very little household wealth is idle. The axe preserves next winter's heat.
-The cow turns summer grass into milk, dung, calves, hide, and meat. A bronze
+The cow turns summer grass into milk and dung. Calves follow; hide and meat come
+later. A bronze
 cauldron saves fuel because it hangs properly over the fire. Selling any of
 these for silver may solve today's debt by cutting into next season's work.
 
@@ -116,17 +123,17 @@ green ones. Ravenland wealth is therefore counted by usable stores:
 
 - seed grain that no one should eat
 - eating grain and flour
-- salt, smoke, vessels, and cool space for preservation
+- salt and smoke for preservation, with sound vessels and cool space
 - fodder and sheltered space for winter stock
-- dry firewood, charcoal, and peat
-- sound iron edges, spare handles, cord, leather, and nails
+- dry firewood, charcoal, or peat
+- sound iron edges and spare handles; cord, leather, and nails
 - labor owed and labor still healthy enough to answer
 
-The four settlement steps, **Bare**, **Thin**, **Adequate**, and **Full**, are
-best understood physically. Bare means the bin can be swept. Thin means someone
-has begun measuring portions in private. Adequate means the next season can be
-met if nothing serious happens. Full means there is enough to trade, feast,
-lend, tax, or steal.
+The four settlement steps, **Bare**, **Thin**, **Adequate**, and **Full**, have
+physical signs. Bare means the bin can be swept. Thin means someone has begun
+measuring portions in private. Adequate means the next season can be met if
+nothing serious happens. Full leaves enough to trade or lend. It can support a
+feast, attract a tax, or reward a thief.
 
 ### The Work Year
 
@@ -156,16 +163,18 @@ the barns.
 
 ### Three Economic Distances
 
-**Within call:** Household exchange, shared tools, child care, grazing help,
-harvest labor, and small food gifts. Value is remembered rather than priced.
+**Within call:** Households exchange small food gifts and remember value rather
+than price. They share tools, watch children, and help with grazing or harvest.
 
-**Within a day's return:** Marriage kin, a mill, a smith, a ferry, a shrine,
-seasonal pasture, a fishing station, and neighboring settlements. Agreements
-can still be enforced through reputation and repeated contact.
+**Within a day's return:** Marriage kin and neighboring settlements remain
+close enough for repeated contact. A mill, smith, ferry, or shrine draws the
+route between them. Seasonal pasture and fishing stations extend the same web.
+Reputation can still enforce agreements.
 
-**Beyond a safe return:** Strangers, caravans, old roads, river traffic, distant
-priests, mercenaries, and rare crafts. Portable silver, hostages, written marks,
-witnesses, advance payment, and guarded cargo matter here.
+**Beyond a safe return:** Strangers and caravans use old roads or river traffic.
+Distant priests, mercenaries, and rare crafts belong to this range. Portable
+silver becomes useful. Hostages or written marks support trust; witnesses,
+advance payment, and guarded cargo support it further.
 
 The Blood Mist almost destroyed the third distance. Its return is the great
 economic disturbance of the present day.
@@ -181,10 +190,10 @@ it spoils.
 
 ### Hunters, Gatherers, and Seasonal Camps
 
-Hunting and gathering are skilled land tenure, not wandering poverty. A group
-knows where elk cross after the first frost, which sedge beds hold bread root,
-when a fish weir must be repaired, where hazel bears well, and which bog island
-stays dry. Knowledge of a place is property even when no fence marks it.
+A trap line and a sedge bed can be held as firmly in memory as a fenced field.
+A group knows where elk cross after the first frost, which sedge beds hold bread
+root, when a fish weir must be repaired, where hazel bears well, and which bog
+island stays dry. Knowledge of a place is property even when no fence marks it.
 
 Large game brings feast and risk. Small game, nets, traps, fish, shellfish,
 roots, berries, nuts, greens, fungi, honey, and insects provide steadier return.
@@ -271,8 +280,8 @@ stores, plunder, or a future promise.
 
 ## The Economic Geography of Ravenland
 
-The entries below are economic readings of known places. They are examples,
-not a complete trade map.
+Each place below shows goods, labor, or authority concentrating for a different
+reason. Other roads and exchanges remain beyond this list.
 
 ### Western Fortresses and Tribute Roads
 
@@ -286,7 +295,7 @@ blessing, tribute, pilgrims, camps, guards, animals, and offerings concentrate
 goods that villages cannot easily refuse to surrender. The road to a holy
 place is also a tax road.
 
-**Weatherstone** represents a common smaller pattern: a defensible tower with a
+**Weatherstone** shows a common smaller pattern: a defensible tower with a
 village economy attached. The tower lends protection and status. The fields,
 herds, water, and workers below keep the tower inhabited.
 
@@ -297,10 +306,11 @@ economic landmark generations after its last useful stone was cut.
 
 ### Central Crossings and Mixed Markets
 
-**The Hollows** lives from divided authority, a bridge, inns, brewing, craft,
-goats, storage, and trade moving through old graves. New silver enters through
-Yawim's commercial ties. Old households answer with custom, hospitality, and
-claims that silver cannot settle cleanly.
+**The Hollows** lives from divided authority around a bridge. Its inns and
+brewers serve trade moving through old graves, while goats and local crafts
+support households between market days. New silver enters through Yawim's
+commercial ties. Old households answer with custom, hospitality, and claims
+that silver cannot settle cleanly.
 
 **Moldena** is an old town on a trade route with dwarven presence. Such places
 make natural exchange points for stonework, metal, food, lodging, animals, and
@@ -537,7 +547,8 @@ Resources become wealth only when the next link exists.
   for those who eat it heavily salted.
 - Wool needs washing, sorting, spinning, weaving, fulling, dye, cutting, and
   sewing.
-- Hide needs prompt cleaning, tannin, water, foul space, time, and skilled hands.
+- Hide must be cleaned before it spoils, then worked with tannin and water. The
+  process demands time, skilled hands, and a foul space away from ordinary work.
 - Ore needs timber supports, miners, transport, fuel, furnace, forge, and smith.
 - Timber needs access, felling, hauling, seasoning or green-wood knowledge,
   sawing, joinery, and protection from damp.
@@ -704,9 +715,10 @@ building alone.
 close, braced, and joined into a quick claim of safety; from then on the
 settlement watches fire and the hidden rot where wood enters soil.
 
-**Reinforced palisade.** More timber, earth, bracing, hides, walks, and gate work
-turn the first enclosure into a defensible system. The stronger wall takes more
-people from fields and woods whenever weather or attack opens it.
+**Reinforced palisade.** More timber and earth deepen the first enclosure.
+Bracing, fighting walks, and a worked gate turn it into a defensible system;
+hides may shield exposed timber. The stronger wall takes more people from
+fields and woods whenever weather or attack opens it.
 
 **Stone wall.** The wall begins at quarry and cart road long before a mason lays
 its face. Foundation, drainage, rubble core, scaffolds, mortar, parapet, and
@@ -1046,9 +1058,10 @@ called through wages, household duty, reciprocal labor, or the promise of food.
 - **Keep:** One butcher can operate it, with two to four helpers on a slaughter
   day. Iron must remain sharp. Surfaces are scrubbed at once, drains cleared,
   and dogs kept from blood and offal.
-- **Working day:** Animals arrive calm and early. Killing, bleeding, skinning,
-  opening, jointing, and cooling follow without pause. Fat, hide, horn, bone,
-  guts, blood, and edible offal leave by separate hands before heat spoils them.
+- **Working day:** Animals arrive calm and early. The butcher kills and bleeds
+  each one before skinning it, opening the carcass, and dividing the joints for
+  cooling. Other hands carry away the hide and usable offal. Fat, horn, bone,
+  guts, and blood must also reach their proper workers before heat spoils them.
 - **Ravenland:** Fall slaughter is a settlement event, not private butchery.
   Families watch the apportionment because a missing hide or disputed liver can
   reopen a debt that began when the animal was born.
@@ -1449,8 +1462,9 @@ called through wages, household duty, reciprocal labor, or the promise of food.
   block for the function's four prisoners. The drain and barred door deserve as
   much attention as thick walls.
 - **Keep:** One jailer staffs the dungeon, with a guard relieving sleep and
-  escorting prisoners. Food, water, waste, lamp fuel, restraints, keys, and
-  sickness create a daily cost even when no sentence is being carried out.
+  escorting prisoners. Every day consumes food and water, while waste and
+  sickness demand attention. Lamp fuel, sound restraints, and controlled keys
+  cost money even when no sentence is being carried out.
 - **Working day:** The jailer counts prisoners and keys, removes waste, brings
   water and food, checks bars and restraints, and listens for illness or digging.
   Prisoners observe the routine with equal care.
@@ -1694,8 +1708,9 @@ called through wages, household duty, reciprocal labor, or the promise of food.
   chests, reading boards, shutters, and a secure door over the listed week. A mason
   checks hearth and damp. The scribe arranges the collection before it grows.
 - **Keep:** One scribe or librarian can care for the room, with a copyist added
-  if books are used heavily. Dust, vermin, damp, fire, loose bindings, loans,
-  and unauthorized rearrangement require continual attention.
+  if books are used heavily. The keeper guards against dust and vermin, then
+  checks continually for damp or fire. Loose bindings need repair. Loans and
+  unauthorized rearrangement threaten the collection in quieter ways.
 - **Working day:** The keeper opens shutters only in fair light, checks for
   moisture and gnawing, returns books to known places, supervises readers, and
   copies a fading title or index before darkness makes lamps necessary.
@@ -1851,9 +1866,10 @@ it.
 - The warehouse is full, but the bridge has gone downstream.
 - The stronghold has coin for wages and no grain anyone will sell.
 
-Each situation gives players several responses: repair, substitute, bargain,
-reroute, ration, borrow, steal, invoke obligation, or change who controls the
-bottleneck.
+Each situation gives players several kinds of response. They may repair the
+broken link or find a substitute. They can bargain, borrow, or invoke an old
+obligation; when time closes those paths, they may ration what remains, steal
+what is needed, reroute the supply, or change who controls the bottleneck.
 
 ### Sensory Evidence
 

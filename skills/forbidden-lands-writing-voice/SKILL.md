@@ -129,7 +129,7 @@ Load by scene type, not by preference:
 ## Bundled References
 
 - `references/anti-ai-humanizer.md`
-  43 named AI writing patterns, each with AI example, human fix,
+  55 named AI writing patterns, each with AI example, human fix,
   and Forbidden Lands application. Also contains the 7-layer
   failure taxonomy, author-specific evasion techniques, the
   full diagnostic checklist, and the revision protocol. **Load
@@ -236,8 +236,8 @@ Load by scene type, not by preference:
   Place names. Register rules by culture. Forbidden vocabulary.
 
 - `references/voice-test-protocol.md`
-  Three tests: Quick Scan (13 highest-frequency patterns, binary,
-  under 2 minutes), Full Pass (all 43 patterns with scoring
+  Three tests: Quick Scan (14 highest-frequency patterns, binary,
+  under 2 minutes), Full Pass (all 55 patterns with scoring
   thresholds), Author Lens Check (per-register positive and negative
   signals). Use as the final gate before integrating prose.
 
@@ -321,7 +321,7 @@ also names the relevant factors and limits.
 ## Hard Rules
 
 1. **Load the anti-AI humanizer before submitting any draft.** Run
-   the 43-pattern diagnostic. Not a suggestion.
+   the 55-pattern diagnostic. Not a suggestion.
 
 2. **Choose an author register for each scene.** Name it before
    writing: "This scene is Cornwell-primary with Le Guin texture."

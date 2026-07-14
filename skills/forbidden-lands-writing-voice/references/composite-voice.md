@@ -38,7 +38,7 @@ See the Register Map below. Each scene type has a primary author
 whose technique should lead. Secondary authors provide texture.
 
 **3. Anti-AI rules override author preference.**
-If applying an author technique produces a pattern on the 43-pattern
+If applying an author technique produces a pattern on the 55-pattern
 catalog, revise the technique, not the catalog. The humanizer
 is non-negotiable.
 

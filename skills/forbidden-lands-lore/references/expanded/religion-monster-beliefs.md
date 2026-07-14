@@ -2,7 +2,11 @@
 
 # Monster Beliefs of the Ravenlands
 
-This reference groups the poorly documented beliefs of saurians, ogres, whiners, and Misgrown. It distinguishes observed conduct and manuscript fact from outsider claim and GM inference. These peoples do not share a religion; they share the danger of being described by hunters, captors, priests, and scholars who profit from misunderstanding them.
+This reference groups the poorly documented beliefs of saurians, ogres,
+whiners, and Misgrown. It distinguishes observed conduct and manuscript fact
+from outsider claim and GM inference. These peoples do not share a religion.
+They share the danger of description by hunters or captors, and by priests or
+scholars who profit from misunderstanding them.
 
 ---
 
@@ -13,8 +17,9 @@ Marshes. They do not know whether these are gods, ancestors, great animals,
 living places, or offices held by different bodies. Do not settle the question
 merely to complete a pantheon.
 
-Observable practice centers on water level, communal feasting ponds, dams,
-crocodiles, winter fat, and the strict peace of trade platforms. Saurian
+Observable practice centers on water level and communal feasting ponds. Dams,
+crocodiles, and winter fat enter those practices. Trade platforms keep a strict
+peace. Saurian
 religion distinguishes water where outsiders may stand under protection from
 water where anything alive may be prey. The difference is marked with posts,
 smell, cut reeds, and spoken warning, not an abstract border.
@@ -35,10 +40,10 @@ dangerous kin-neighbors, and famine food. Killing one when other food remains
 may require replacement, public feeding of its keepers, or surrender of metal.
 No one who has only watched from a boat knows which remedy applies.
 
-Likely anathemas include violence on a marked trade platform, breaching a dam
-during cold season, hiding disease in a feast pond, wasting metal received for
-communal use, and speaking as if one had understood a marsh presence seen only
-at the surface. Treat these as local inference until a saurian community shows
+Likely anathemas include violence on a marked trade platform or breach of a dam
+during cold season. Hiding disease in a feast pond threatens the whole
+community. Wasting shared metal is another offense. So is claiming to understand
+a marsh presence seen only at the surface. Treat these as local inference until a saurian community shows
 otherwise.
 
 ### Presence, Depth, and the Unnamed Marsh
@@ -53,14 +58,15 @@ across generations, a body used by the marsh, an ancestor made immense through
 feeding, or a place surfacing long enough to look back.
 
 At **Waiting below Speech**, witnesses submerge until only eyes and nostrils
-remain. They watch water, insects, reeds, birds, and distant disturbance without
-addressing it. The first person to claim a sight must also name what ordinary
+remain. They watch water and insects, reeds and birds. Distant disturbance
+enters the account without being addressed. The first person to claim a sight
+must also name what ordinary
 animal or current could have caused it.
 
 Saurians distinguish surface knowledge from depth knowledge. Surface can be
-traded: weather, safe platform, visible channel, fish movement. Depth knowledge
-concerns winter hollows, egg places, submerged entrances, and the paths of the
-presences. Asking for it under trade peace is still an attempt to enter another
+traded: weather and safe platform, visible channel and fish movement. Depth
+knowledge concerns winter hollows and egg places. Submerged entrances lead to
+the paths of the presences. Asking for it under trade peace is still an attempt to enter another
 jurisdiction.
 
 ### Authority and the Long Harangue
@@ -71,7 +77,8 @@ animals. Trade speakers remember prices, insults, and the exact protection
 declared at each platform.
 
 Saurian speech sounds rambling to outsiders because a public statement locates
-water, season, witnesses, prior use, and exceptions before naming the demand.
+itself in water and season. It names witnesses, prior use, and exceptions before
+the demand.
 Cutting the account short can change a temporary passage into a permanent right.
 
 At **The Repeated Bank**, another speaker repeats a judgment from a different
@@ -85,8 +92,8 @@ command a family whose winter pond the keeper has never entered.
 
 ### Household, Eggs, and Young
 
-Saurian households form around warm water, stored fat, feeding ponds, platforms,
-and the labor needed to keep channels open. Human ideas of one house under one
+Saurian households form around warm water and stored fat. Feeding ponds and
+platforms require labor to keep channels open. Human ideas of one house under one
 roof fit poorly. Several sleeping hollows may share one dam and one winter duty.
 
 At **Warming the Clutch**, adults bring rotting plant matter, mud, and watched
@@ -108,12 +115,13 @@ acts before any interpretation of unusual markings on the shell.
 
 ### Food, Fermentation, and Distribution
 
-Saurians cannot chew. Bodies, roots, and fish must be torn small or softened.
-Fermentation is cooking by time, water, and guarded decay. A feast pond is a
-kitchen whose walls move.
+Saurians cannot chew. Bodies and roots must be torn small or softened; so must
+fish. Fermentation cooks by time and water while the household guards the food
+through its decay. A feast pond is a kitchen whose walls move.
 
-At **Opening the Pond**, the feast keeper tests smell, surface, gas, insect life,
-and the firmness of several pieces. A portion is removed for the sick and young
+At **Opening the Pond**, the feast keeper first tests smell and surface. Gas and
+insect life reveal the deeper condition; several pieces are tested for firmness.
+A portion is removed for the sick and young
 before the strongest enter. Outsiders invited to watch are placed upwind and
 told exactly where not to step.
 

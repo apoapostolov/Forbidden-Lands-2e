@@ -2,7 +2,10 @@
 
 # Elvenspring Religions of the Ravenlands
 
-This reference develops Elvenspring religion through Clay, the Shardmaiden, Wail, Flow, Raven, land gods, mixed descent, and mortal time. Named powers, orders, and kin history are manuscript facts. Detailed rites are grounded setting inference unless identified as local practice.
+This reference begins with Clay and the Shardmaiden. It follows Wail and Flow
+into Raven worship and the land gods. Mixed descent and mortal time shape the
+rest. Named powers, orders, and kin history are manuscript facts. Detailed
+rites are grounded setting inference unless identified as local practice.
 
 ---
 
@@ -18,7 +21,7 @@ when knowledge passes between unlike beings.
 Elves and Elvenspring tend to honor Clay as a master teacher rather than a
 sovereign. The world was shaped, then left capable of further shaping. Life is
 therefore neither untouched purity nor raw material without claims. A druid may
-prune, cull, graft, heal, move, and sometimes kill, but must understand the
+prune or cull, graft or heal, and sometimes move or kill, but must understand the
 living relation altered by the act.
 
 Clay doctrine holds that form carries memory. A scar shows adaptation. A path
@@ -109,8 +112,9 @@ missing thing changes every other taste. The rite teaches loss through the
 body, not a speech.
 
 **Walking the Bough** is a Golden Bough survey. Druids follow a set path through
-forest and settlement, recording births, disease, predation, felling, water,
-and fire. The same route repeated over years lets change become evidence. A
+forest and settlement. They record births and disease, predation and felling,
+and changes in water or fire. The same route repeated
+over years lets change become evidence. A
 missing fox litter or new charcoal pit matters more than an omen invented at
 the shrine.
 

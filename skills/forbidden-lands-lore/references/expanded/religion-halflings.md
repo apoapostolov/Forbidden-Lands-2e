@@ -2,7 +2,12 @@
 
 # Halfling Religion of the Ravenlands
 
-This reference develops halfling worship of Eor through the public village face, concealed moon practice, cradles, exchanged children, marriage, childhood training, Penita repentance, hospitality, intoxicants, shame, and protected lies. Eor, the divided kin, and cradle customs are manuscript facts. Halfling belief in the child-making power of a proper match is an established campaign truth. Detailed rites are grounded setting inference.
+This reference begins with Eor's public village face and the moon practice
+concealed beneath it. Cradles and exchanged children lead into marriage and
+childhood training. Penita repentance reshapes hospitality; intoxicants and
+shame protect the lies beneath it. Eor, the divided kin, and cradle customs are
+manuscript facts. Halfling belief in the child-making power of a proper match is
+an established campaign truth. Detailed rites are grounded setting inference.
 
 ---
 
@@ -105,8 +110,9 @@ table order, distribute gifts, and decide which embarrassment becomes a joke
 rather than a charge. Their authority appears informal because hospitality is
 its instrument.
 
-Cradle keepers hold the harder power. They coordinate births, fosterage,
-health, travel, exchanged infants, and the silence of fathers. A keeper may
+Cradle keepers hold the harder power. They coordinate births and fosterage.
+Health determines when travel is possible; exchanged infants make the route
+sacred. The silence of fathers protects it. A keeper may
 know the living connections between several villages and goblin bands. No
 ordinary elder can replace that knowledge quickly.
 
@@ -138,8 +144,8 @@ else prepared. The innkeeper learns who cannot safely visit whom.
 
 ## Intoxication and the Quaint Vice
 
-Tobacco, ale, spirits, and narcotic plants are presented as comfort, hospitality,
-and village charm. This presentation lets dependence hide in plain sight. A
+Tobacco and ale are presented as comfort. Spirits and narcotic plants are
+presented as hospitality or village charm. This lets dependence hide in plain sight. A
 person who drinks at every feast can be called sociable until stores, work, or
 children suffer.
 
@@ -177,9 +183,10 @@ the child becomes an aunt in every matter that keeps the child alive.
 ## Marriage, Matchmaking, and the Desired Child
 
 Halflings commonly believe that a properly chosen marriage guarantees the birth
-of a halfling child. Temper, household reputation, health, occupation, lunar date,
-the conduct of grandparents, and the visible children born to related couples
-all enter the calculation. The theories disagree, yet they share one promise:
+of a halfling child. Matchmakers consider temper, health, and occupation. They
+weigh household reputation against the conduct of grandparents. The lunar date
+and the visible children born to related couples also enter the calculation.
+The theories disagree, yet they share one promise:
 the right families can keep goblin birth from their own cradle.
 
 Cradle secrecy protects the promise from evidence. A goblin child is carried to
@@ -192,9 +199,10 @@ expose living children and break the institution that moves them to safety.
 ### The Counting of Houses
 
 Serious courtship begins with household histories rather than the wishes of the
-prospective partners. Matchmakers keep private books of births, illnesses,
-broken engagements, debts, fosterage, and the supposed success of earlier
-unions. A family unable to show a book may recite its account before witnesses.
+prospective partners. Matchmakers keep private books of births and illnesses.
+Broken engagements and debts explain failed negotiations. Fosterage is recorded
+beside the supposed success of earlier unions. A family unable to show a book
+may recite its account before witnesses.
 Every halfling child strengthens the line. A goblin child leaves no mark except
 an unexplained confinement, a paid journey, or a season in which the midwife
 refuses questions.

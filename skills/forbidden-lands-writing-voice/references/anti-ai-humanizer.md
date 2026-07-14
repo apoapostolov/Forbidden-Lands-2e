@@ -1,9 +1,9 @@
-<!-- markdownlint-disable MD013 -->
+<!-- markdownlint-disable MD013 MD036 MD060 -->
 
 # Anti-AI Humanizer
 
 This document is the master catalog of AI writing patterns that
-appear when a language model drafts prose. It covers 43 named
+appear when a language model drafts prose. It covers 55 named
 patterns organized into seven failure layers. Each pattern includes:
 
 - What the pattern is
@@ -13,8 +13,9 @@ patterns organized into seven failure layers. Each pattern includes:
   this manuscript and what the correct replacement looks like)
 - The author model (which author in the tradition never does this)
 
-After the catalog: the 7-layer failure taxonomy, the diagnostic
-checklist, and the revision protocol.
+After the catalog: the 7-layer failure taxonomy, a practical
+standard for enumeration, the diagnostic checklist, and the revision
+protocol.
 
 ---
 
@@ -34,7 +35,9 @@ noise. They describe nothing. They suppress the specific noun.
 certain rhetorical patterns from large corpora of published text
 and produces them automatically. Em-dash clusters, rule-of-three,
 negative-then-positive clarification, copula avoidance, elegant
-variation. These patterns feel smooth; they read as generated.
+variation. It also uses flat comma chains to imitate richness without
+choosing what matters. These patterns feel smooth; they read as
+generated.
 
 **Layer 3 — Paragraph-Structure Tells.** The AI writes every
 paragraph the same way: topic sentence, elaboration, smooth
@@ -63,7 +66,7 @@ editorial closings. Real scenes end on weight, not consolation.
 
 ---
 
-## The 43 Patterns
+## The 55 Patterns
 
 ### Layer 1: Vocabulary Tells
 
@@ -462,6 +465,462 @@ Forbidden Lands application: Cut. Every instance.
 
 Author model: Le Guin. She never uses this structure. She
 presents the thing and trusts the reader to locate its meaning.
+
+---
+
+### Layer 2B: Enumeration, Compression, and List Tells
+
+The following patterns are not a ban on lists. A provisioner really
+does count supplies. A ritual really does have stages. A rules text
+really may need a condition set. The failure is a *flat inline
+catalogue*: several adjacent words or phrases, joined by commas or
+`and`, which do not create an image, a procedure, or a decision.
+
+In ordinary narrative and explanatory prose, select one detail. Add a
+second when it changes the first. A third needs a job: escalation,
+contrast, ritual cadence, or a genuine set the reader must retain.
+Four or more inline units require an affirmative reason and an evident
+order. If the reader must consult every member independently, make a
+vertical list or a table instead.
+
+This is a project standard, not a claim that English prose may never
+contain a long series. Editorial guidance supports the underlying
+tests: list members should be parallel and a complex series should be
+given a structure the reader can scan. See the [MLA guidance on serial
+lists](https://style.mla.org/serial-commas-and-semicolons/), the [MLA
+guidance on vertical lists](https://style.mla.org/vertical-lists-in-mla-style/),
+and the [US Web Design System guidance on when prose should become a
+list](https://designsystem.digital.gov/components/list/). The stricter
+limits below exist because this manuscript needs chosen observation,
+not generic coverage.
+
+---
+
+#### Pattern 44 — Flat Comma Chain
+
+The AI places four or more equal-looking nouns, verbs, or adjectives
+in one sentence because a catalogue resembles detail. The units have
+no rank, sequence, or pressure. The reader receives the count but not
+the thing.
+
+AI: *The lane was lined with mud, ash, broken carts, frightened
+faces, shuttered homes, dead animals, and the smell of smoke.*
+
+Human fix: Choose the detail that explains the condition. "A cart had
+gone over in the lane. Its wheel had cut the mud to the axle, and no
+one had come out to help the driver." The shut doors can appear when
+they matter.
+
+Forbidden Lands application: A settlement description should not try
+to establish weather, poverty, danger, history, and mood in one
+breath. Give the GM one usable fact, then the consequence of that
+fact.
+
+Exception: A catalogue is earned when its members are a real,
+contiguous set: the tools on a bench, the wounds after a fight, or the
+contents of a search. Even then, arrange it by handling order, place,
+or function.
+
+Author model: Cook can list equipment, but the list belongs to a
+quartermaster's eye. It tells the reader what the company can do next.
+
+---
+
+#### Pattern 45 — Adjective Barrage
+
+The AI stacks descriptors before a noun: *a cold, dark, ancient,
+foreboding, mist-shrouded forest*. None selects a species, a shape, or
+an effect. The pile asks the reader to supply the image.
+
+AI: *They entered a bleak, ruined, haunted, wind-scoured, forgotten
+keep.*
+
+Human fix: "The keep had no roof. Wind went through the arrow slits
+and lifted the old straw in the yard." Two facts do more work than
+five labels.
+
+Forbidden Lands application: Keep one classifier when it is needed
+for play: *iron-shod door*, *one-eyed giant*, *salt-marsh track*.
+Put atmosphere in what the thing does to bodies, tools, or plans.
+
+Exception: Two modifiers may be necessary when they classify along
+different axes, as in *a cracked iron kettle* or *a soaked wolf-skin
+cloak*. Add a third only when its removal would change the object at
+the table.
+
+Author model: Cornwell uses material and damage. He does not decorate
+the object with mood.
+
+---
+
+#### Pattern 46 — Pseudo-Inventory
+
+The AI names things that could exist in a place to prove that it has
+imagined the place. The reader gets a census of props rather than a
+scene or an operational fact.
+
+AI: *The smithy held hammers, tongs, bellows, horseshoes, nails,
+chains, tools, scraps of iron, and racks of weapons.*
+
+Human fix: "The bellows were patched with rawhide. Each pull gave the
+forge one breath before smoke came through the seam." The smithy's
+capacity, condition, and likely problem are now clear.
+
+Forbidden Lands application: In a location entry, name equipment only
+when it determines what can be made, repaired, stolen, or used as a
+weapon. A kit is a capability, not scenery.
+
+Exception: A search result, market stock, treasure cache, or loadout
+may need a full inventory. Put it in a list, give quantities where
+they matter, and separate unlike kinds of goods.
+
+Author model: Parker makes objects carry labour. A nail means a roof,
+not an opportunity to name seven more objects.
+
+---
+
+#### Pattern 47 — Category Drift
+
+The AI begins a list of one kind and ends with another: people,
+objects, abstractions, consequences, and themes all treated as equal
+members. This is often where a sentence becomes vague despite its
+length.
+
+AI: *The raid left burned homes, wounded people, hunger, suspicion,
+and a lasting change in the village.*
+
+Human fix: "The raiders burned six roofs. By noon, the families under
+them were arguing over the grain store." Material loss first;
+social consequence second.
+
+Forbidden Lands application: Do not place a game effect beside its
+fictional cause in the same flat series. State the cause, then state
+the rule or consequence in its own sentence.
+
+Exception: A deliberately mixed list can work in a speaker's voice
+when the disorder reveals panic, resentment, or intoxication. The
+disorder must belong to the speaker, not to neutral narration.
+
+Author model: Sapkowski lets categories collide in dialogue, where a
+character has an interest in the collision. His narration sorts them.
+
+---
+
+#### Pattern 48 — Unordered Causal Pile
+
+The AI names several causes or results without explaining which comes
+first, which is strongest, or which the characters can affect.
+
+AI: *The famine came from poor harvests, banditry, bad weather,
+mismanagement, fear, and the collapse of trade.*
+
+Human fix: "The rain ruined the barley. When the grain boats stopped,
+the reeve locked the storehouse. That was when the thefts began." The
+reader can follow the pressure and intervene in it.
+
+Forbidden Lands application: Sandbox lore needs causal order. A GM
+can make play from a chain; they cannot make play from a sack of
+causes.
+
+Exception: A court record or a hostile witness may make a blame-list.
+Mark it as a claim, and let its omissions matter.
+
+Author model: Le Guin makes social systems legible through the act
+that follows from them.
+
+---
+
+#### Pattern 49 — Example Dump
+
+The AI offers a long run of examples where one representative example
+and a rule would be clearer. It mistakes breadth for authority.
+
+AI: *Travellers may meet traders, hunters, pilgrims, deserters,
+healers, messengers, refugees, mercenaries, and wandering priests.*
+
+Human fix: "Most people on this road are carrying something they
+cannot afford to lose. Ask what it is before you ask their name."
+
+Forbidden Lands application: When a table needs encounter categories,
+use the categories. When prose needs to establish a social truth,
+choose a person whose conduct proves it.
+
+Exception: A reference document may give representative examples if
+it labels them as examples and groups them by function. Do not imply
+that an open-ended category is exhaustive.
+
+Author model: Abercrombie gives one person a bad habit. The habit does
+more character work than a parade of occupations.
+
+---
+
+#### Pattern 50 — Headless Modifier Train
+
+The AI lets multiple modifiers accumulate before the reader reaches
+the noun or action. The sentence asks the reader to hold a fog of
+qualification in working memory.
+
+AI: *The old, half-remembered, locally feared, mist-bound stories of
+the ruined watchtower shaped the villagers' behaviour.*
+
+Human fix: "No one slept in the watchtower. The oldest people said
+the mist had voices; the younger ones said the stairs were unsafe."
+
+Forbidden Lands application: Put the noun early. Move history and
+qualification into the next sentence, where they can become a source,
+a rumour, or a disagreement.
+
+Exception: A compound term that players must learn may keep its
+modifiers: *safe casting*, *Rank 6 spell*, *iron-shod gate*. It should
+remain a stable game term, not a temporary literary ornament.
+
+Author model: Gwynne moves from object to action before he supplies
+the old grievance.
+
+---
+
+#### Pattern 51 — Serial Verb Chain
+
+The AI strings several interior or observational verbs together to
+simulate deliberation: *he watched, listened, considered, remembered,
+and understood*. Time does not pass and no choice occurs.
+
+AI: *She watched the gate, listened to the wind, considered the
+danger, remembered the dead, and decided to go inside.*
+
+Human fix: "She put her ear to the gate. Something on the other side
+was breathing through its teeth. She left the road." The choice is
+visible in the body.
+
+Forbidden Lands application: A GM does not need a chain of mental
+states. State the clue, then the creature's action, then the result
+that changes the situation.
+
+Exception: A compressed sequence is useful when its speed is the
+point. It needs a terminal action that changes the scene, not a final
+abstract conclusion.
+
+Author model: Cornwell's combat verbs alter position. The last verb
+does not merely report a thought.
+
+---
+
+#### Pattern 52 — Decorative And-Chain
+
+Repeated `and` can carry labour, panic, ceremony, or excess. Without
+one of those pressures, it is merely a longer comma chain wearing a
+different coat.
+
+AI: *The rain came down and the road flooded and the horses slipped
+and the men shouted and the wagon began to sink.*
+
+Human fix: "Rain filled the ruts. The lead horse slipped. By the time
+the men reached the wagon, one wheel was under water." The action has
+stages and a point of failure.
+
+Forbidden Lands application: Preserve an and-chain only if the GM or
+player should feel that events are arriving too quickly to sort. End
+it on the thing that must be answered now.
+
+Exception: Ritual text, a child's report, a drunk's complaint, or a
+character in flight may use repeated `and` as a voice decision. Read
+it aloud. If it does not change breath or pressure, cut it.
+
+Author model: Kay uses accumulation sparingly; the last image turns
+the sequence rather than completing a grammatical pattern.
+
+---
+
+#### Pattern 53 — Parenthetical List Inflation
+
+The AI hides a second catalogue in brackets, an em dash, or a
+parenthesis after making its main point. The addition reads as a
+disclaimer that the writer could not choose what to omit.
+
+AI: *The village has several defences (a ditch, palisade, watchtower,
+gatehouse, traps, guards, and warning bells) against attack.*
+
+Human fix: "A ditch rings the south side. The north gate has a bell,
+but no one on watch after midnight." The defence is now a situation.
+
+Forbidden Lands application: Parentheses should give a necessary
+rule reference, a measured exception, or a precise term. They are
+not storage for a withheld paragraph.
+
+Exception: In a table-facing rule, a parenthesis can contain a short,
+closed example. If it exceeds one small thought, give it a sentence or
+a bullet.
+
+Author model: The manuscript's strongest rules put exceptions after
+the procedure, not inside it.
+
+---
+
+#### Pattern 54 — List as Paragraph Substitute
+
+The AI writes a sentence or bullet that contains several independent
+procedures, conditions, and outcomes because it has not decided which
+relationship governs them.
+
+AI: *To prepare a journey, gather food, check the weather, repair your
+gear, choose a route, appoint a scout, discuss dangers, and make camp
+plans.*
+
+Human fix: Give the reader a sequence. "Choose the route first. Then
+pack for its terrain. Appoint the scout before the group leaves the
+road." If the steps must be retained, use a numbered list.
+
+Forbidden Lands application: A rule paragraph answers one question.
+When it must answer several, separate preparation, resolution, and
+consequence. A bullet is not an excuse to put a paragraph behind a
+single marker.
+
+Exception: A true checklist may be terse. Each line must be a single,
+testable action at the table.
+
+Author model: Good rules prose is procedural. It does not ask the
+reader to excavate a procedure from a sentence.
+
+---
+
+#### Pattern 55 — False Completeness
+
+The AI signals mastery with words such as *all*, *every*, *many
+aspects*, or an unnecessarily comprehensive series. The text claims
+to cover a field when it has only named pieces of it.
+
+AI: *This chapter explores every aspect of village life: family,
+religion, trade, law, food, warfare, culture, politics, and more.*
+
+Human fix: State the actual promise. "This chapter explains who keeps
+the grain, who judges a theft, and why a stranger eats last." The
+reader can judge whether those facts are useful.
+
+Forbidden Lands application: Never introduce a lore entry with a
+coverage claim. Begin with its scope, its source, or the pressure it
+helps a GM run.
+
+Exception: A closed game rule may use *all* when its boundary is
+real: "All members of this band make the same Fear Roll." The word
+must name a defined set.
+
+Author model: Le Guin permits the world to exceed the page. The text
+does not pretend to have netted it whole.
+
+---
+
+### The Enumeration Standard
+
+Use this standard in every draft. It is deliberately stricter for
+new prose than for preserved source material or a quoted in-world
+document.
+
+| Form | Default | Review point | Usually better repair |
+| --- | --- | --- | --- |
+| Narrative or flavour prose | One chosen detail; a second that alters it | Three parallel units | Cut, sequence, or let one detail cause the next sentence |
+| Lore and GM guidance | One fact plus consequence | Three examples or causes | Group by function, explain the causal chain, or make a table |
+| Rules procedure | One operation per sentence | Three conditions, steps, or outcomes | Number the sequence or split trigger, effect, and exception |
+| Item, kit, treasure, or market stock | A useful functional group | Four unlike objects inline | Use a list; arrange by tool, owner, value, or handling order |
+| Dialogue or first-person testimony | What that speaker would notice | More than three units without a breath or purpose | Keep only the disorder that reveals the speaker's state |
+
+An inline series of four or more is permitted only when all five
+questions have an answer:
+
+1. Is this a real set rather than adjacent examples?
+2. Do all members share one grammatical and conceptual kind?
+3. Can the reader see its order: time, place, size, danger, cost,
+   dependency, ownership, or use?
+4. Would removing any member alter an immediate image, decision, or
+   rule?
+5. Is inline prose genuinely clearer than a vertical list or table?
+
+If one answer is no, revise. Do not keep a long chain because each
+word is individually defensible. The chain is the unit being judged.
+
+### Earned Catalogues
+
+An earned catalogue gives the reader a new kind of attention. It
+often has a named observer, a physical route, and a final member that
+changes the reading of what came before.
+
+**Inventory with use.** "A hand pick, two wedges, and a pry-iron lay
+beside the blocked shaft. Someone meant to open it, not shore it up."
+The list is short, material, and diagnostic.
+
+**Sequence with consequence.** "First the dogs stopped. Then the
+horses leaned into their tethers. When the bell began, nobody went to
+the gate." The units are ordered and the last changes the choice.
+
+**Ritual or legal formula.** "The witness gives her name, names her
+mother, and touches the oath-stone." The parallelism is memorable
+because the rite requires the words in that order.
+
+**Sensory saturation.** A rare moment may accumulate sound or damage
+to put the reader inside a body under strain. It needs an endpoint:
+"Tin screamed, a horse went down, and the shield rim struck his
+teeth." Do not follow it with another catalogue. The release is the
+point.
+
+**Reference taxonomy.** When a GM must compare several things, a
+table is not bureaucratic. It is mercy. Label the category and sort
+the entries by the decision they support.
+
+### Repairs That Preserve Information
+
+Do not solve a flat list by deleting facts until the passage becomes
+thin. Change the relationship between the facts.
+
+| Failure | Repair | Example |
+| --- | --- | --- |
+| Several atmosphere adjectives | Choose material plus effect | "a bleak, cold, broken hall" → "Rain came through the broken roof." |
+| Several objects in a room | Give one object a use or owner | "tools, weapons, chains" → "The chain was warm from someone's hand." |
+| Several causes | Put them in order | "rain, fear, theft, hunger" → "The rain ruined the crop; hunger made theft ordinary." |
+| Several social types | Name the pressure shared by them | "traders, pilgrims, deserters" → "Everyone on the road was hiding something from a toll-keeper." |
+| Several rules conditions | Separate trigger from outcome | "If X, Y, and Z..." → "When X happens, do Y. Z is the exception." |
+| Several choices | Present the decision and its costs | "fight, flee, bargain, hide" → "You can flee before dark, but the captive stays." |
+
+### Enumeration Audit
+
+Run this pass after factual revision and before line editing.
+
+1. Circle every inline series, including adjectives, nouns, verbs,
+   and phrases joined by `and`.
+2. Label it: **inventory**, **sequence**, **condition set**,
+   **ritual**, **voice**, **taxonomy**, or **padding**.
+3. Cut padding. For every other label, state the ordering logic in a
+   margin. If you cannot name one, the series is probably flat.
+4. Convert a complex condition set, comparison, or procedure into
+   bullets, steps, or a table. Keep prose for interpretation.
+5. Read the repaired paragraph aloud. Its sentences should change
+   pace because the thought changes, not because a quota demands a
+   short sentence after a long one.
+
+A text search can find candidates but cannot pass this audit. Search
+for sentences with three or more commas, repeated `and`, or several
+adjectives before one noun. Then inspect the sentence in context.
+Commas can mark clauses, dates, names, quotations, and legitimate
+lists; raw punctuation counts are a flagging screen, never a quality
+score.
+
+### Research Notes: Why This Rule Exists
+
+Style authorities do not impose a universal maximum list length. They
+instead require readers to be able to identify a list's members and
+relationship. MLA's advice on [colons](https://style.mla.org/colons-how-to-use-them/)
+and [serial commas](https://style.mla.org/serial-commas-and-semicolons/)
+centres clarity; its advice on [vertical lists](https://style.mla.org/vertical-lists-in-mla-style/)
+centres parallel construction. Public-language guides reach the same
+practical conclusion: use a list when a reader must scan a set, and
+do not leave a long narrative sentence to carry it. See the
+[GOV.UK writing style guide](https://www.gov.uk/government/publications/handbook-for-standard-managers/functional-standards-writing-style-guide)
+and the [US Web Design System list guidance](https://designsystem.digital.gov/components/list/).
+
+That research answers how to make a necessary series legible. The
+Forbidden Lands rule answers a different editorial question: whether
+the series should exist at all. In this voice, selection carries more
+authority than accumulation. The exception is material truth: a
+person loading a sled, counting wounds, or naming the terms of an
+oath may need every item. Let the form show why.
 
 ---
 
@@ -1292,7 +1751,7 @@ statement could.
 
 ## Author-Specific Evasion Techniques
 
-Each author in the tradition avoids the 43
+Each author in the tradition avoids the 55
 patterns through specific techniques:
 
 **Sapkowski evades** by grounding every scene
@@ -1360,7 +1819,16 @@ submitting or integrating.
 ### Sentence-Structure Pass
 
 - [ ] Count em-dashes: more than one per page needs review
-- [ ] Search for three-element lists: reduce to one or two
+- [ ] Mark every inline series. One detail is the prose default;
+      two need a relationship; a third needs a job.
+- [ ] Review every series of four or more against the Enumeration
+      Standard. Give it a visible order or change its form.
+- [ ] Check adjective runs separately: retain only modifiers that
+      classify material, damage, scale, or a table-facing term.
+- [ ] Check `and`-chains: retain only a chain that carries labour,
+      panic, ritual, or a speaker's deliberate voice.
+- [ ] Separate mixed categories: a person, object, cause, and theme
+      do not belong in one flat list.
 - [ ] Search for "It is not X. It is Y.": collapse every
       instance
 - [ ] Search for "not just X, but Y": cut every instance
@@ -1430,30 +1898,38 @@ replace every "serves as" and "functions as." This pass
 takes ten minutes on a typical draft and immediately
 raises the quality by removing the most visible layer.
 
-**Step 2 — Break the sentence symmetry.** Read the draft
-aloud. Find the even-rhythm paragraphs. Deliberately vary
-the sentence length in each paragraph: one sentence should
-be short (under 10 words), one should be long (20-30
-words), and neither should end on an abstract noun.
+**Step 2 — Audit selection and enumeration.** Read the draft
+aloud. Mark every chain of adjacent descriptors, objects,
+causes, or actions. Keep only the lists with a real set and
+an evident order. Turn procedures into steps and comparisons
+into tables. Where a chain remains, make its final member
+change the image, action, or rule.
 
-**Step 3 — Collapse the clarification patterns.** Search
+**Step 3 — Restore natural sentence movement.** Read the
+repaired draft aloud. Change pace when the thought changes:
+use a short sentence for impact, a longer sentence for a
+connected observation, and a break when one clause no longer
+belongs to the next. Do not manufacture rhythm by meeting a
+sentence-length quota.
+
+**Step 4 — Collapse the clarification patterns.** Search
 for all instances of "It is not X. It is Y." and collapse
 them. Search for "not just X, but Y" and cut them.
 
-**Step 4 — Ground the emotion.** Find every emotion
+**Step 5 — Ground the emotion.** Find every emotion
 announcement and replace it with the physical experience
 the character is having.
 
-**Step 5 — Fix the dialogue.** Change every non-"said"
+**Step 6 — Fix the dialogue.** Change every non-"said"
 tag to "said" or an action beat. Find every backstory-
 delivery conversation and cut or rewrite.
 
-**Step 6 — Audit the endings.** Every scene ending
+**Step 7 — Audit the endings.** Every scene ending
 that consoles, balances, or restates the theme must
 be rewritten to end on a specific physical image or
 fact.
 
-**Step 7 — Apply the author lens.** Name the author
+**Step 8 — Apply the author lens.** Name the author
 whose register this scene should match. Re-read three
 paragraphs of that author. Return to the draft and
 apply their specific technique.
@@ -1468,7 +1944,7 @@ only standard.
 
 This section is manuscript-specific. It documents the word fields,
 verb choices, and diction rules observed in the Forbidden Lands
-original text. Use it alongside the 43-pattern catalog when drafting
+original text. Use it alongside the 55-pattern catalog when drafting
 or auditing prose for this project specifically.
 
 ---

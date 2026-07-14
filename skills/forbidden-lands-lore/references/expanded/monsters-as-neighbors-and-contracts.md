@@ -3,16 +3,17 @@
 # Monsters as Neighbors, Claimants, and Parties to Contracts
 
 A monster may attack once and die. A neighboring monster changes where children
-gather berries, which roof receives the first fish, how a ferryman speaks after
-dark, and what a village calls justice when the other party cannot enter its
-hall. This reference develops the continuing arrangements between settlements
-and nonhuman powers: boundaries, tribute, service, taboo, mediation, predation,
-coexistence, exploitation, succession, breach, and the vacancy left when
-adventurers remove something that had occupied a place in local life.
+gather berries and which roof receives the first fish. It changes how a ferryman
+speaks after dark. It may even change what a village calls justice when the
+other party cannot enter its hall. This reference begins with boundaries and
+tribute between settlements and nonhuman powers. Service may harden into taboo;
+mediation may conceal predation or coexistence. Exploitation creates succession
+and breach. The final sections examine the vacancy left when adventurers remove
+something that occupied a place in local life.
 
 The bestiary supplies creatures and combat. The bestiary skill supplies design
 procedure. This volume concerns relationships around them. It does not make
-every monster reasonable, safe, or secretly human. It gives intelligent play
+every monster a human mind or a safe disposition. It gives intelligent play
 more actions than immediate extermination and makes extermination alter the
 country when chosen.
 
@@ -64,27 +65,28 @@ country when chosen.
 
 ### Claim Levels
 
-**Published canon** governs named creatures, kin, places, histories, abilities,
-and facts in the Forbidden Lands bestiary and campaigns.
+**Published canon** governs named creatures and kin. It also governs places,
+histories, and abilities stated in the Forbidden Lands bestiary and campaigns.
 
-**Manuscript fact** governs current stat blocks, Lore rows, encounter rules, and
-monster design structures.
+**Manuscript fact** governs current stat blocks and Lore rows. Encounter rules
+and monster design structures belong to the same layer.
 
 **Setting inference** asks what repeated creature behavior does to settlement
-life. A monster requiring seasonal food creates gathering, storage, secrecy,
-and a calendar of fear.
+life. A monster requiring seasonal food changes gathering and storage. Secrecy
+grows around both, along with a calendar of fear.
 
-**Historical and folkloric model** supplies predator coexistence, tribute,
-boundary custom, dangerous hospitality, taboo, beast drives, salvage, and
-relations with feared nonstate powers.
+**Historical and folkloric model** supplies predator coexistence and tribute.
+Boundary custom makes dangerous hospitality possible. Taboo and beast drives
+shape local response; salvage shapes relations with feared nonstate powers.
 
 **Personal campaign lore** gives Apostol Apostolov's Ravenlands additional
-arrangements that can be used, altered, or refused.
+arrangements that a table may use, alter, or refuse.
 
 ### Monster Is a Game Category
 
 “Monster” groups beings handled through bestiary rules. It does not declare that
-all share origin, mind, society, appetite, or moral responsibility.
+all share an origin or kind of mind. Society and appetite differ, as does moral
+responsibility.
 
 Some reason and bargain. Some learn patterns without language. Some repeat a
 curse. Some are persons denied recognition. Some are hunger with a body.
@@ -93,9 +95,10 @@ Begin with the specific creature's published nature.
 
 ### Contract Is a Broad Term
 
-A contract here includes spoken bargain, repeated exchange, boundary truce,
-tribute, taboo, ritual compact, trained behavior, hostage relation, magical
-binding, and one-sided rule enforced through fear.
+A contract here may begin as a spoken bargain or repeated exchange. A boundary
+truce can become tribute or taboo. Ritual compacts, trained behavior, and hostage
+relations create other expectations. Magical binding is a contract of force;
+one-sided rule enforced through fear is the broadest and cruelest use of the term.
 
 These are not morally equivalent. The broad category helps the GM compare how
 expectation is made and what happens when it fails.
@@ -110,8 +113,8 @@ Depth comes from accurate consequence, not compulsory sympathy.
 
 ### Spoiler Control
 
-Do not reveal a hidden weakness, true identity, campaign agenda, or demon
-metaphysic through general lore.
+Do not reveal hidden weakness or true identity through general lore. Campaign
+agendas and demon metaphysics remain behind their spoiler boundaries.
 
 Use the bestiary's three Lore rows: public knowledge, partial directional hint,
 and strong directional hint. Necessary counterplay must be discoverable without
@@ -123,63 +126,72 @@ giving away the answer before inquiry.
 
 ### Repetition Makes Custom
 
-One attack creates alarm. Repeated presence creates routes, warnings, duties,
-payments, stories, specialists, and people who profit from the danger.
+One attack creates alarm. Repeated presence creates routes and warnings. Duties
+and payments follow; stories preserve them. Specialists emerge, including
+people who profit from the danger.
 
 A settlement living near a monster is adapted to it, damaged by it, or both.
 
 ### The Arrangement Already Exists
 
-When adventurers arrive, assume locals have tried flight, watch, trap, offering,
-appeal, concealment, hunting, bargaining, and avoidance according to their means.
+When adventurers arrive, assume locals have already fled or kept watch. They
+may have tried traps and offerings, then appealed to a stronger power. Others
+conceal the danger. Hunting, bargaining, and avoidance remain according to their
+means.
 
 The current arrangement survived those attempts. Ask why.
 
 ### Monster Time
 
-Creatures follow hunger, sleep, migration, weather, moon, breeding, ritual,
-memory, curse, or a time sense unlike human calendars.
+Some creatures follow hunger and sleep. Others move with weather or migration,
+the moon or breeding. Ritual, memory, curse, or a time sense unlike human
+calendars may govern stranger beings.
 
 Local people translate that pattern into practical dates.
 
 ### Signs
 
-Signs include spoor, damaged growth, altered animal behavior, missing sound,
-smell, remains, changed water, disturbed objects, ritual marks, dreams, and the
-human acts performed in anticipation.
+Spoor and damaged growth are direct signs. Altered animal behavior may be
+clearer than a missing sound or unfamiliar smell. Remains, changed water, and
+disturbed objects record contact. Ritual marks and dreams require interpretation.
+The human acts performed in anticipation are often clearest of all.
 
 The last category is often most visible. A locked pasture tells a story before a
 track is found.
 
 ### Range
 
-A monster's range is the area within which it feeds, travels, watches, claims,
-or can be expected to answer disturbance.
+A monster's range is the area in which it feeds and travels. It may watch or
+claim a wider country, and answer disturbance there.
 
 Ranges overlap settlement land, other monsters, and faction routes. Boundary is
 therefore political ecology.
 
 ### Lair
 
-Lair provides rest, reproduction, storage, concealment, anchor, host, ritual
-site, or access to the creature's unusual needs.
+A lair provides rest and concealment. It may support reproduction or storage.
+For stranger creatures it can be an anchor, a host, or a ritual site with
+access to needs unavailable elsewhere.
 
-Destroying a lair may kill, displace, weaken, awaken, scatter, or free the
-monster. Determine which before treating lair as treasure room.
+Destroying a lair may kill or displace the monster. It may instead weaken or
+awaken it. A distributed creature might scatter; a bound one might go free.
+Determine which before treating the lair as a treasure room.
 
 ### Local Specialists
 
-Shepherds, hunters, grave tenders, ferrymen, herbalists, charcoal burners,
-children, outlaws, priests, and tribute carriers may know more than titled
-monster hunters.
+Shepherds and hunters may know more than titled monster hunters. Grave tenders
+and ferrymen notice other signs. Herbalists or charcoal burners work where
+officials seldom go; children and outlaws see what adults hide. Priests and
+tribute carriers know the terms people dare repeat.
 
 Their knowledge is practical and tied to specific country.
 
 ### Beneficiaries
 
-A monster may suppress lesser predators, guard a boundary, keep ruins closed,
-consume dangerous waste, attract trade, provide material, frighten raiders, or
-justify a protector's tribute.
+A monster may suppress lesser predators or guard a boundary. Its presence can
+keep a ruin closed and consume what the settlement cannot safely discard.
+Others attract trade, provide rare material, or frighten raiders away. A
+protector may also exaggerate these benefits to justify tribute.
 
 Beneficiaries can oppose removal without loving the creature.
 
@@ -472,8 +484,8 @@ Calling it tradition does not change the power relation.
 
 ### Service Exchange
 
-Monster and settlement exchange protection, guidance, labor, knowledge, prey,
-materials, or access.
+Monster and settlement may trade protection or guidance. Labor and knowledge
+can enter the bargain, as can prey, materials, or access.
 
 Mutual usefulness creates stronger incentive to repair breach.
 
@@ -655,8 +667,9 @@ Do not rely upon “three” until the monster demonstrates three.
 
 ### Personal Terms
 
-Names, faces, scent, bloodline, worn token, voice, dream, or carried object can
-identify protected people.
+A monster may recognize protected people by name or face. Another trusts scent,
+voice, or bloodline. Worn tokens and carried objects allow recognition to be
+transferred, while dreams may identify someone no waking witness has met.
 
 Every method risks exclusion when appearance or household changes.
 
@@ -947,8 +960,12 @@ None alone establishes author and intent.
 
 ### Investigation
 
-Preserve tracks, residue, witness order, weather, time, boundary condition,
-payment record, and changes in other creature behavior.
+Preserve the scene before interpretation begins:
+
+- record tracks and residue before weather changes them;
+- establish the order of witnesses and the likely time;
+- inspect the boundary and the payment record; and
+- note changes in the behavior of other creatures.
 
 Ask who benefits if the compact ends.
 
@@ -1222,8 +1239,9 @@ Human succession appears as rapid replacement and convenient forgetting.
 
 ### Hoard as Institution
 
-A hoard can be archive, identity, nest, magical anchor, status, treasury, and
-record of tribute.
+A hoard can preserve memory as an archive or record of tribute. It may also be
+the monster's nest and an extension of its identity. Treasury and status draw
+human attention; a magical anchor makes interference more dangerous still.
 
 Removing one object may alter more than wealth.
 
@@ -1511,8 +1529,10 @@ The arrangement can be precise despite incomplete metaphysics.
 
 ### Trigger
 
-Entry, blood, fire, noise, excavation, theft, sleep, moon, spoken name, or
-disturbance of an object may activate the site.
+The site may answer simple trespass: entry, blood, fire, or noise. Deeper acts
+such as excavation and theft can wake what ordinary passage leaves still. Sleep,
+a phase of the moon, a spoken name, or the disturbance of one object may form a
+narrower trigger.
 
 Trigger should leave a discoverable pattern.
 
@@ -1760,8 +1780,9 @@ faction, with creature-specific means.
 
 ### Cult
 
-Worship can arise from awe, gratitude, fear, revelation, benefit, coercion, or
-the creature's own demand.
+Worship can arise from awe or gratitude; another cult begins in fear.
+Revelation and material benefit sustain some. Others begin in coercion or the
+creature's own demand.
 
 Cult members may interpret the monster more generously than its behavior
 supports or restrain it through rite outsiders misunderstand.
@@ -2001,8 +2022,10 @@ Combat need not erase parlay or investigation.
 
 ### Let the Monster Learn
 
-Repeated distraction, fire, shield formation, bait, range, or retreat teaches an
-intelligent or trainable creature.
+An intelligent or trainable creature learns from repeated tactics. Distraction
+and bait teach it what the party wants it to pursue. Fire and shield formations
+teach it which approach hurts. Range and retreat teach it when the party means
+to escape.
 
 Change behavior honestly rather than increasing numbers without fiction.
 

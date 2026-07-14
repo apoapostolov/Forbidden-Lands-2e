@@ -2,23 +2,25 @@
 
 # Religion of the Rust Brothers: Fear, Doctrine, and Control
 
-**Category:** Ravenlands-specific — institutional religion, selective terror,
-demonic secrecy, and the social consequences of Rust and Heme rule.
+**Category:** Ravenlands-specific — institutional religion under selective
+terror, with demonic secrecy and the social consequences of Rust and Heme rule.
 
-This reference is written for AI and Game Masters. It explains how the Rust
-Brothers look to a settlement, how their violence governs people who are not
-being punished, and how their theology turns fear into a duty. It also separates
-what villagers can observe from information that belongs behind the GM's screen.
+This AI and Game Master reference begins at the village gate: what people hear
+before a Rust procession arrives, what its officers count, and how one person's
+punishment governs every witness. Theology appears where it does its work,
+turning fear into duty. Observable signs remain separate from information kept
+behind the GM's screen.
 
 The order described here is evil without qualification. Its members may speak
-truthfully about demons, protect a road, or spare a village, but each useful act
-is made part of a system that denies ordinary people knowledge, judgment, and
-the right to refuse. Understanding that system should make the Rust Brothers
-more disturbing, never secretly innocent.
+truthfully about demons. They may protect a road or spare a village. Each useful
+act becomes part of a system that denies ordinary people knowledge. It claims
+judgment for the initiated and removes the right to refuse. Understanding that
+system should make the Rust Brothers more disturbing, never secretly innocent.
 
-**Content note:** This document discusses torture, execution, bodily alteration,
-religious persecution, child recruitment, and coercive control. Render these
-subjects through consequence and witness. Graphic detail is seldom needed.
+**Content note:** This document discusses torture and execution. It also covers
+bodily alteration, religious persecution, child recruitment, and coercive
+control. Render these subjects through consequence and witness. Graphic detail
+is seldom needed.
 
 ## Contents
 
@@ -59,18 +61,18 @@ subjects through consequence and witness. Graphic detail is seldom needed.
 
 Keep the following levels separate in description and play.
 
-- **Observable fact:** Rust Brothers wear iron, cultivate rust on its visible
-  surfaces, carry coal-filled chain weapons, collect tribute, punish heresy,
-  and take demon-tainted objects or remains into their custody.
-- **Settlement belief:** Brothers are born under demon signs, receive spouses
-  in the Mist, cannot be surprised, and can smell a lie through iron.
+- **Observable fact:** Rust Brothers wear iron and cultivate rust on its visible
+  surfaces. They carry coal-filled chain weapons, collect tribute, and punish
+  heresy. Demon-tainted objects or remains pass into their custody.
+- **Settlement belief:** Brothers are born under demon signs and receive spouses
+  in the Mist. They cannot be surprised. Iron lets them smell a lie.
 - **Church claim:** Rust chooses bodies already touched by the enemy because
   only marked flesh can approach corruption without being deceived by it.
-- **GM information:** the order searches battle sites and demon lairs for the
-  matter left by demonic manifestation, injury, or death. It carries this matter
-  to secure houses and ultimately to its central authorities, who examine it,
-  store it, and use what they learn while denying that knowledge to everyone
-  else.
+- **GM information:** The order searches battle sites and demon lairs for the
+  matter left by demonic manifestation, injury, or death. It carries
+  this matter to secure houses and ultimately to its central authorities. The
+  authorities examine and store it. They use what they learn while denying that
+  knowledge to everyone else.
 
 The last point should appear to players as a pattern before it appears as an
 answer. A Brother arrives after a demon is killed. The corpse is stripped of
@@ -80,12 +82,13 @@ was taken is questioned about where the witness learned to ask.
 
 ### Canon, Inference, and Local Variation
 
-The Rust Brothers' tribute, forced conversion, persecution, Misgrown priesthood,
-Iron Guard, coal-filled chain weapons, and use of rusty iron against demons are
-manuscript facts. Their detailed routines of investigation and settlement rule
-are setting inferences built from those facts and from credible methods of
-pre-industrial coercive government. A named office, rite, or punishment may be
-local unless the manuscript states otherwise.
+The Rust Brothers' tribute, forced conversion, and persecution are manuscript
+facts. The Misgrown priesthood and Iron Guard belong to the same layer, as do
+coal-filled chain weapons and the use of rusty iron against demons. Their
+detailed routines of investigation and settlement rule are setting inferences.
+They follow from those facts and from credible methods of premodern coercive
+government. Treat a named office, rite, or punishment as local unless the
+manuscript states otherwise.
 
 Do not make every priory identical. One prior rules through hostages, another
 through debt records, a third through the only armed riders within two days'
@@ -103,7 +106,7 @@ against breastbones. A censer chain drags when its bearer wants it to drag. The
 sound gives a village time to hide a book, send a child into the reeds, or decide
 which household will answer the gate.
 
-This warning is deliberate. Sudden raiders catch people unprepared; rulers want
+This warning is deliberate. Sudden raiders catch people unprepared. Rulers want
 preparation directed toward submission. By the time the Iron Guard reaches the
 palisade, the headwoman has put on her good cloak, the tribute sacks stand in
 the yard, and every absence has become visible.
@@ -153,16 +156,16 @@ one speaks until the elder has spoken.
 
 ### Sacramental Rust Is Maintained Rust
 
-Iron left deeply corroded becomes unreliable. Mail rings thin, rivets loosen,
+Iron corroded through becomes unreliable. Mail rings thin, rivets loosen,
 and plate pits at the places that must turn a blow. An experienced Rust armorer
 does not confuse decay with devotion. Bearing surfaces, edges, buckles, and the
 inside of mail are cleaned and greased. Outer plates, pendants, masks, and the
 heads of ritual weapons are allowed to redden or are deliberately browned.
 
-This distinction matters. A poor village imitator may wear a genuinely ruined
-mail shirt. An Iron Guard veteran wears armor that looks diseased and still
-closes properly at every strap. The order has made corrosion into a controlled
-finish. Even rot must obey.
+A poor village imitator may wear a genuinely ruined mail shirt. An Iron Guard
+veteran wears armor that looks diseased and still closes properly at every
+strap. The order has made corrosion into a controlled finish. Even rot must
+obey.
 
 Visible rust leaves marks. Red dust gathers in beard stubble and collar folds.
 Rain cuts orange lines down yellow cloth. The smell is wet iron, old grease,
@@ -219,33 +222,39 @@ present before combat rather than granting every censer every advantage.
 
 ### Unusual Bodies Are Recruited as Evidence
 
-The church seeks people whose bodies can be interpreted as signs: unusual
-height, a gaunt face, fused fingers, an extra digit, extensive birthmarks,
-asymmetry, unfamiliar eyes, or a visible misgrowth. Some were born this way.
-Some bear scars from disease or hunger. Some are Misgrown or have been altered
-through the church's alliance with demonic powers.
+The church seeks bodies it can interpret as signs. Its recruiters record:
+
+- unusual height or a gaunt face
+- fused fingers or an extra digit
+- extensive birthmarks or asymmetry
+- unfamiliar eyes
+- visible misgrowth
+
+Some recruits were born this way. Others bear scars from disease or hunger.
+Some are Misgrown or have been altered through the church's alliance with
+demonic powers.
 
 Rust teaching erases these distinctions. Every marked body is said to have been
 found first by the enemy and claimed afterward by Rust. The person is offered
 status at the price of agreeing that their body belongs to the doctrine.
 
-This recruitment has a double cruelty. It gives a stigmatized person food,
-weapons, and rank, then trains that person to enforce the system that made
-ordinary life unsafe for them. The recruit is taught that villagers would have
+The bargain cuts twice. A stigmatized person receives food, weapons, and rank,
+then learns to enforce the system that made ordinary life unsafe for them. The
+recruit is taught that villagers would have
 mocked, exposed, or killed them without the church. Sometimes this is true.
 The church makes sure it remains true.
 
 ### The Order Cultivates Strangeness
 
-Not every Brother is visibly altered. Ordinary recruits learn stillness,
-restricted speech, fixed eye contact, and indifference to discomfort. Food may
-be limited before public rites so faces appear hollow. Hair is shaved to expose
-scars. Masks conceal some differences and imply worse ones.
+Visible alteration is not required. Ordinary recruits learn stillness and
+restricted speech. They hold eye contact and refuse to acknowledge discomfort.
+Food may be limited before public rites so faces appear hollow. Hair is shaved
+to expose scars. Masks conceal some differences and imply worse ones.
 
-The result is an institutional appearance rather than a single kind of body.
+The order manufactures a family resemblance without requiring one kind of body.
 Villagers remember that the Brothers stood too straight, blinked too little,
-and did not warm their hands at the fire. These behaviors can be trained. Their
-effect does not depend on supernatural cause.
+and did not warm their hands at the fire. Training produces these behaviors.
+Their effect does not depend on supernatural cause.
 
 Avoid calling every Rust Brother a psychopath. The order selects for callousness
 and disciplines away visible hesitation. Some members enjoy suffering. Others
@@ -281,8 +290,8 @@ The church uses the rumor without settling it. Marriage makes its intimacy with
 demons sound lawful and sacramental. The enemy becomes an affinal power: feared,
 consulted, and bound by terms that common people are forbidden to know.
 
-The rite also explains why a church that claims to defend humanity accepts
-demonic alteration among its highest ranks. The altered priest is presented as
+The name of marriage lets a church that claims to defend humanity accept demonic
+alteration among its highest ranks. The altered priest is presented as
 one who entered danger on behalf of lesser people. The actual relationship is
 closer to collaboration, acquisition, and dependence.
 
@@ -292,8 +301,8 @@ closer to collaboration, acquisition, and dependence.
 
 ### One Church, Several Bodies
 
-The Rust and Heme Church is a priesthood, an armed order, a tribute system,
-and a chain of guarded knowledge. These bodies overlap without becoming one.
+The Rust and Heme Church joins four institutions without making them one: a
+priesthood, an armed order, a tribute system, and a chain of guarded knowledge.
 A Rust Brother may command a village rite but have no authority over an Iron
 Guard patrol. A Sister of Heme may overrule both during a difficult birth, then
 be made to stand behind them at the public feast.
@@ -303,11 +312,11 @@ the person performs today. Command answers who can use force. The Rust Lord
 keeps the three chains joined by appointing superiors, moving guards between
 priories, and reserving certain knowledge to Alderstone.
 
-The Blood Mist weakened uniform administration. Titles survived because they
-were carried on bodies and objects: a number of iron links, a colored hem, a
-mask, or the right to hold a censer by its inner chain. Pronunciation and local
-duties vary. A rank recognized at Vond may be called by another name in a forest
-priory, but the iron signs are read the same way.
+The Blood Mist weakened uniform administration. Titles survived on bodies and
+objects. Rank could be read from the number of iron links, the color of a hem,
+a mask, or the right to hold a censer by its inner chain. Pronunciation and
+local duties vary. A rank recognized at Vond may be called by another name in a
+forest priory, but the iron signs are read the same way.
 
 ### The Vowed Ranks
 
@@ -425,9 +434,9 @@ great local power and no authority outside her valley.
 
 ### How a Recruit Enters
 
-The order receives recruits through petition, family offering, punishment,
-or seizure. Voluntary petitioners often come hungry, stigmatized, landless, or
-eager for authority. Family offerings settle debts or seek protection for a
+Petition, family offering, punishment, and seizure all bring recruits to the
+order. Voluntary petitioners often come hungry or landless. Some bear a stigma.
+Others want authority. Family offerings settle debts or seek protection for a
 child whose body has drawn dangerous attention. A sentence into service turns
 punishment into labor.
 
@@ -437,9 +446,9 @@ beneath false writing." The new account belongs to the church and follows the
 recruit longer than the old name.
 
 Every recruit needs a sponsor. The sponsor supplies clothing and answers for
-early failures. In return, the recruit becomes a dependent, informant, and later
-ally within the priory. Rank is therefore never only personal merit. It is a
-chain of people who expect repayment.
+early failures. In return, the recruit becomes a dependent and informant, then
+later an ally within the priory. Rank is therefore never only
+personal merit. It is a chain of people who expect repayment.
 
 ### The Time of Offering
 
@@ -530,11 +539,16 @@ then receives the iron sigil against bare skin.
 
 ### Tempering and Promotion
 
-A Brother becomes Tempered through appointment. Age alone grants nothing. The candidate
-must complete a circuit of villages, reconcile two sets of records, lead a rite,
-and deliver a sealed object without violating its handling instructions. One
-task tests doctrine. The rest test whether the church can trust the person with
-routes and discrepancies.
+A Brother becomes Tempered through appointment. Age alone grants nothing. The
+candidate must complete four tests:
+
+1. Complete a circuit of villages.
+2. Reconcile two sets of records.
+3. Lead a rite.
+4. Deliver a sealed object without violating its handling instructions.
+
+One test concerns doctrine. The others show whether the church can trust the
+person with routes and discrepancies.
 
 Promotion requires a superior's sponsorship and a vacancy or new source of
 income. A priory cannot create another senior mouth without another tithe,
@@ -561,7 +575,8 @@ as a heavier burden and hidden from anyone who might call it failure.
 
 Settlement stories say the Ferrale takes a demon spouse in the Mist. The church
 lets the story stand because marriage makes collaboration sound governed. Inner
-records are colder: date, witnesses, material used, physical result, survival.
+records are colder: date and witnesses; material used and physical result;
+whether the candidate survived.
 
 Ferrales ordained after the Mist compete fiercely over authentic sites, old
 instructions, and access to altered beings. A candidate may spend years gathering
@@ -642,7 +657,7 @@ Rust idols are made from iron allowed to redden. Heme figurines are cut from
 wood with few strokes. Fine detail insults the gods because perfection is said
 to exist in substance, not in a human carver's image.
 
-The rule also gives clergy control over acceptable craft. A beautiful household
+Clergy also gain control over acceptable craft. A beautiful household
 figure can be condemned as pride or concealed Raven worship. A crude official
 idol cannot be criticized for poor workmanship because roughness proves
 orthodoxy.
@@ -654,7 +669,7 @@ decides which decay is revelation and which is a servant's failure.
 
 ### Rust and Heme Are a Marriage of Rule
 
-Rust is named husband and protector; Heme is wife, growth, disease, hunt, and
+Rust is named husband and protector. Heme is wife, growth, disease, hunt, and
 sacrifice. Their marriage makes force and reproduction one order. Rust claims
 the right to direct what Heme produces. Heme supplies the living bodies, crops,
 and herds on which Rust's protection depends.
@@ -673,13 +688,12 @@ order.
 ### Humanity as Material
 
 Rust doctrine compares the uninitiated to raw ore. Discipline is the furnace,
-pain the hammer, and confession the removal of scale. Heretics are slag. These
-are not decorative metaphors. They remove moral standing from the person being
-worked.
+pain the hammer, and confession the removal of scale. Heretics are slag. The
+comparison removes moral standing from the person being worked.
 
 Ore does not consent to the forge. Slag has no claim on the smith. Once the
 comparison is accepted, coercion becomes proof of the church's office. A person
-who breaks under torture was impure; a person who endures required a stronger
+who breaks under torture was impure. A person who endures required a stronger
 hammer.
 
 The doctrine cannot be disproved by its victims because every response confirms
@@ -706,8 +720,8 @@ possesses an inquisition's raw material.
 ### Ignorance as Protection
 
 The church teaches that demons punish populations that learn how to oppose them.
-A known weakness invites retaliation;
-a copied instruction may condemn every settlement through which it passes.
+A known weakness invites retaliation. A copied instruction may condemn every
+settlement through which it passes.
 Humanity survives, in this account, by remaining beneath demonic notice and
 placing dangerous knowledge in the hands of people already marked to bear it.
 
@@ -729,7 +743,7 @@ widely to gather that knowledge. They claim demonic contact corrupts. Their
 leaders display alteration as authority. They claim sacrifice preserves the
 people. The sacrificed are always drawn from those denied a voice in the choice.
 
-These contradictions do not weaken the institution. They define rank. What is
+The contradictions define rank instead of weakening the institution. What is
 sin in a villager becomes burden in a priest and necessity in a superior. The
 right to survive hypocrisy is one of the church's privileges.
 
@@ -756,7 +770,7 @@ the church's jurisdiction.
 
 Faithful status belongs to the household more than the solitary person. One
 member's heresy can stain the rest. One member's service can purchase lenience.
-The church thereby turns kin pressure into enforcement.
+Kin pressure then performs the work of enforcement.
 
 ### The Household Shrine
 
@@ -765,10 +779,10 @@ of rusted iron above the principal door. The objects are cheap enough that
 poverty does not excuse their absence. Their placement tells an inspector who
 controls the stores and which entrance the household acknowledges as public.
 
-The iron is not expected to protect by itself. It declares that the household
-stands within Rust's claim. The wooden figure is checked for deliberate detail,
-hidden hollows, and foreign marks. A carved face is dangerous. A hollow back is
-worse because paper or herbs can be concealed inside it.
+The iron declares that the household stands within Rust's claim. No one expects
+the object to protect by itself. The wooden figure is checked for deliberate
+detail, hidden hollows, and foreign marks. A carved face is dangerous. A hollow
+back is worse because paper or herbs can be concealed inside it.
 
 Many households keep older practices beneath these objects. Water is still
 poured for Flow. A Raven feather lies under the roof ridge. The Heme figure may
@@ -831,7 +845,7 @@ Material competence therefore carries religious safety. A skilled farmer can
 appear orthodox through order. A sick, exhausted, or impoverished household
 looks morally suspect because its maintenance fails first.
 
-The church benefits from the confusion. It can call poverty impurity, seize the
+The confusion profits the church. It can call poverty impurity, seize the
 failing holding, and give it to a more productive adherent. The new harvest then
 proves the judgment.
 
@@ -926,7 +940,7 @@ cloth, livestock cords, keys, or bowls. A Sister inspects the living exchange.
 A Brother records who commands the new household's tribute.
 
 The rite teaches the marriage of Rust and Heme through unequal duties. One
-partner is named keeper of boundary and debt; the other keeper of stores,
+partner is named keeper of boundary and debt. The other keeps stores,
 birth, illness, and continuity. Local custom and material competence influence
 who receives which role, though male priests usually press the first toward men
 and the second toward women.
@@ -1008,12 +1022,12 @@ of alteration is brought under restraint. The rite seeks a bodily sign that can
 be interpreted as union.
 
 Lower clergy hear the chain, the censer, and whatever voice answers from inside.
-They do not see the procedure. At dawn they receive the candidate or prepare a
-sealed account of failure. Both outcomes are preached as acceptance of weight.
+The procedure remains hidden from them. At dawn they receive the candidate or
+prepare a sealed account of failure. Both outcomes are preached as acceptance
+of weight.
 
-The rite is a theological center of the cult's corruption. Demonic intimacy is
-forbidden to villagers, cultivated in leaders, and renamed sacrifice when it
-produces authority.
+At the cult's theological center, demonic intimacy is forbidden to villagers,
+cultivated in leaders, and renamed sacrifice when it produces authority.
 
 ### The Church Year
 
@@ -1160,16 +1174,15 @@ depends on relatives continuing the sentence.
 
 ### Absolution Is Conditional
 
-The church does not declare a person clean in an inward sense. It declares the
-account settled and the person usable again. A prior can reopen the case if new
-information changes the measure.
+The church declares the account settled and the person usable again, never clean
+in an inward sense. A prior can reopen the case if new information changes the
+measure.
 
 Written absolution names witnesses, payment, and surety. Where writing is rare,
 the corrected person carries a broken link bound with red thread. Another priory
 may honor it, question it, or claim the issuing priest lacked rank.
 
-The uncertainty keeps the absolved dependent on the same institution that
-punished them.
+An absolved person remains dependent on the institution that punished them.
 
 ### Declaring Anathema
 
@@ -1199,14 +1212,14 @@ shows that authority acted.
 
 ### Care Opens the Door
 
-The Sisters of Heme know births, wounds, fevers, spoiled milk, and the signs
-that a body is failing. Much of this knowledge is sound. A Sister may save a
-mother whom no one else can help, set the child's breathing right, and remain
-until both can drink. She also counts the household beds, asks who shares them,
-examines every birthmark, and enters the child's future obligations before she
-leaves.
+The Sisters of Heme know what to do at births and wounds. They recognize fever,
+spoiled milk, and the signs of a failing body. Much of this knowledge is sound.
+A Sister may save a mother whom no one else can help, set the child's breathing
+right, and remain until both can drink. Before leaving, she also counts the
+household beds and asks who shares them. She examines every birthmark and enters
+the child's future obligations.
 
-This makes refusal costly. A household that bars the Sister keeps its secrets
+Refusal has a price. A household that bars the Sister keeps its secrets
 and loses the best healer within a day's walk. One that admits her receives
 care under inspection. Rust rule does not need to invent every dependence. It
 places a church witness inside the dependencies that already exist.
@@ -1274,12 +1287,12 @@ the church a recruit who has been taught that ordinary kin wanted them dead.
 
 The rescued person is renamed, separated from letters and visitors, and shown
 the old accusation whenever loyalty falters. A yearly family meeting may be
-permitted under supervision. The novice arrives fed, armed, and composed; the
+permitted under supervision. The novice arrives fed, armed, and composed. The
 family must thank the order before speaking. If the novice denounces the
 household, advancement follows. If the novice embraces a parent without leave,
 the next visit is canceled.
 
-This practice supplies the order with sincere defenders. They remember a real
+Sincere defenders emerge from this practice. They remember a real
 danger and credit the institution that turned the danger into lifelong debt.
 
 ### The Dead Continue to Owe
@@ -1332,10 +1345,11 @@ Selection need not follow guilt. It follows usefulness. The accused may have
 committed an offense, concealed another person's offense, or merely occupy the
 right place in the settlement's web of dependence.
 
-The charge is often narrow enough to sound credible: withholding a page, giving
-water to a Raven Sister, failing to report a birth sign, keeping tissue from a
-demon kill, or repeating a protective charm. Narrow charges make neighbors
-search their memories for lesser versions of the same act.
+The charge is often narrow enough to sound credible. One person withheld a
+page. Another gave water to a Raven Sister. A household failed to report a birth
+sign. A hunter kept tissue from a demon kill. A child repeated a protective
+charm. Such charges make neighbors search their memories for lesser versions of
+the same act.
 
 ### Torture Produces Submission, Not Truth
 
@@ -1383,7 +1397,7 @@ leave animals untended, and create fugitives with nothing left to lose. A capabl
 prior knows which household performs which work and does not execute the only
 millwright before harvest unless a replacement arrives with the Guard.
 
-This calculation explains apparent mercy without softening it. A Brother may
+Apparent mercy follows the same calculation without softening it. A Brother may
 release a healer because three children have fever. The healer understands that
 her skill, rather than her person, was spared.
 
@@ -1400,10 +1414,11 @@ her skill, rather than her person, was spared.
 
 ### Before Arrival
 
-The order gathers knowledge through tollkeepers, peddlers, minor clergy,
-disappointed heirs, and people previously spared. Informants report unusual
-births, forbidden visitors, demon sightings, missing tribute, old books, and
-households that have acquired unexplained silver.
+The order gathers knowledge through tollkeepers and peddlers, as well as reports
+from minor clergy. Disappointed heirs bring household secrets.
+People previously spared bring names. Informants report unusual births,
+forbidden visitors, and demon sightings. They also report missing tribute, old
+books, and households that have acquired unexplained silver.
 
 The report need not be formal. A Brother remembers who offered news at the last
 market. A priory servant marks a door sign on a tally stick. A captured traveler
@@ -1458,8 +1473,8 @@ council, a new keeper of the shrine, a child pledged to service, a sealed chest,
 or a household made responsible for the next tithe. The village performs the
 punishment after the soldiers leave.
 
-This is the final economy of selective terror. The church spends a few days and
-one victim. The settlement supplies the remaining years.
+The church spends a few days and one victim. The settlement supplies the
+remaining years. That is the economy of selective terror.
 
 ---
 
@@ -1467,10 +1482,16 @@ one victim. The settlement supplies the remaining years.
 
 ### The Traveling Search
 
-Rust parties do more than preach and collect tribute. They seek demon tracks,
-altered animals, failed summonings, old laboratories, battle remains, witnesses,
-and texts. They ask who touched the corpse first and what changed afterward.
-They measure what common people are told not to examine.
+Rust parties preach and collect tribute on the road. Their search has other
+objects:
+
+- demon tracks and altered animals
+- failed summonings and old laboratories
+- battle remains
+- witnesses and texts
+
+They ask who touched the corpse first and what changed afterward. They measure
+what common people are forbidden to examine.
 
 These parties may include a priest, armed escorts, a scribe or memorist, and a
 handler equipped for dangerous remains. The church presents the work as removal
@@ -1490,8 +1511,8 @@ The Brothers do not burn every dangerous text immediately. A prior first asks
 whether the church possesses the information. A page absent from church holdings is copied, carried
 away, or committed to trained memory. A duplicate may be destroyed in public.
 
-This order of operations exposes the monopoly. The sin lies in possession by
-the wrong person, not in the knowledge itself. A book condemned as a threat to
+The order of operations exposes the monopoly. The sin lies in possession by the
+wrong person, not in the knowledge itself. A book condemned as a threat to
 humanity may reappear behind an iron-bound library door with its owner's name
 scraped away.
 
@@ -1507,26 +1528,26 @@ but not why it matters. A traveling examiner knows safe handling but not the
 whole use. A superior receives reports from several routes and can compare them.
 Knowledge rises through the church while commands descend.
 
-This protects leaders from rivals and lets subordinates deny what they help do.
-The Brother who sealed the flask can say truthfully that he never saw it opened.
+Leaders gain protection from rivals. Subordinates gain deniability about the
+work they help perform. The Brother who sealed the flask can say truthfully that
+he never saw it opened.
 The guard who burned the notes can say he never read them. Compartmentalization
 becomes a religious virtue.
 
 ### The Hidden Bargain
 
 The church teaches that demons will destroy humanity if their enemies circulate
-too much knowledge of them. Its answer is not to abandon demon study. It is to
-concentrate study among people already bound to demonic power and protected by
-armed secrecy.
+too much knowledge of them. It therefore concentrates demon study among people
+already bound to demonic power and protected by armed secrecy.
 
 The arrangement creates dependence on the danger it claims to contain. The more
 the order learns, the more dangerous uncontrolled witnesses become. The more
 residue it gathers, the more it needs secure routes and compliant settlements.
 Every discovery produces a reason for wider authority.
 
-This is why a Rust party may arrive quickly after a demon's death but slowly
-when a village needs protection. Collection is central work. Protection is the
-price used to justify it.
+Collection brings a Rust party quickly after a demon's death. A village asking
+for protection may wait. Collection is central work. Protection is the price
+used to justify it.
 
 ---
 
@@ -1534,17 +1555,17 @@ price used to justify it.
 
 ### Fear Enters Ordinary Maintenance
 
-People under Rust rule do not spend every day trembling. They grind grain, mend
-fences, court, quarrel, and laugh. The terror lies in which ordinary acts have
-acquired a second meaning.
+Most days under Rust rule are spent grinding grain, mending fences, courting,
+quarreling, and laughing. Terror lies in which ordinary acts have acquired a
+second meaning.
 
 A missing cup may show that a fugitive was fed. Extra lamp oil may imply secret
 reading. A child's question about a scar may repeat forbidden knowledge. A
 newly sharpened spade may be a tool, a hidden weapon, or evidence that someone
 dug after curfew.
 
-This doubled meaning exhausts people. Work must be done and also made to look
-innocent.
+Every task must be completed and made to look innocent. The second labor leaves
+no repaired fence and fills no grain bin.
 
 ### The Church Colonizes Anticipation
 
@@ -1593,8 +1614,8 @@ The order has converted prejudice into recruitment.
   an aunt follows, then tools disappear. The household escapes without declaring
   itself fugitive.
 
-No response is morally clean. That is one of the church's achievements. It
-makes survival consume trust even when no Brother enters the gate.
+Each response spends someone else's safety or trust. The church arranged that
+price long before a Brother next enters the gate.
 
 > **The coal bell:** The people of Lornstead used a cracked pot as an alarm.
 > One strike meant fire, two meant wolves, and a slow uneven ringing meant iron
@@ -1613,12 +1634,13 @@ stand under weight, eat after superiors, keep a hand near heat, and receive pain
 without asking an observer for pity. The exercise produces endurance and a
 public contempt for ordinary limits.
 
-The aim is not freedom from fear. It is fear redirected upward. A Brother must
-fear doctrinal failure, demonic retaliation, and superiors more than cold,
-hunger, or the suffering of a villager.
+Discipline redirects fear upward. A Brother must fear doctrinal failure, demonic
+retaliation, and superiors more than cold, hunger, or the suffering of a
+villager.
 
-This creates the famous stillness. The face remains quiet because expression
-can be reported. The zeal appears in what the person will do while quiet.
+The famous stillness is trained in this way. The face remains quiet because
+expression can be reported. Zeal appears in what the person will do while
+quiet.
 
 ### Hatred Is Made into Rank
 
@@ -1628,11 +1650,11 @@ and unworthy of knowledge. Personal injury is enlarged into contempt for the
 class of people from which the recruit came.
 
 Advancement rewards the contempt. The Brother who still identifies with a
-victim hesitates; the one who calls the victim ore demonstrates formation.
+victim hesitates. The one who calls the victim ore demonstrates formation.
 Cruelty becomes evidence that the recruit has escaped common softness.
 
-The order does not heal old humiliation. It preserves the wound and supplies
-uniform, weapon, and doctrine so the bearer can inflict it downward.
+The order preserves old humiliation as a wound. It supplies uniform, weapon,
+and doctrine so the bearer can inflict it downward.
 
 ### Zeal and Calculation Coexist
 
@@ -1645,7 +1667,7 @@ Their competence makes them more dangerous. A frothing zealot may be avoided.
 A quiet examiner who understands grain storage can remain for twenty years.
 
 Some members enjoy the power openly. Others describe every cruelty as necessity.
-The institution has work for both. Sadism supplies energy; procedure supplies
+The institution has work for both. Sadism supplies energy. Procedure supplies
 permission.
 
 ### Misunderstood Does Not Mean Redeemable
@@ -1669,10 +1691,14 @@ the institution. They do not reveal a hidden goodness within its design.
 
 ### Present Consequence Before Explanation
 
-Open with what the adventurers can touch or hear: orange dust on a guest bed,
-a meeting house emptied during planting, a shrine whose wooden figure has been
-cut open to search for pages, or a child who knows the tribute weights by heart.
-Let doctrine arrive through the choices these facts force.
+Open with one thing the adventurers can touch or hear:
+
+- orange dust on a guest bed
+- a meeting house emptied during planting
+- a shrine figure cut open in a search for pages
+- a child who knows the tribute weights by heart
+
+Let doctrine arrive through the choices that evidence forces.
 
 Do not begin with a lecture about Rust theology. A Brother calls a prisoner
 "ore" while checking whether the prisoner's hands can still work. The word then

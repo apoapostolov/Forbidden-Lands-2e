@@ -1,20 +1,21 @@
 # Ravenlands Society and Daily Life
 
 **Category:** Ravenlands-specific — combines the social conditions of the
-Forbidden Lands with credible pre-industrial household, village, and legal
-patterns.
+Forbidden Lands with credible pre-industrial households and villages. Its legal
+patterns grow from those communities.
 
-This is a campaign-lore reference for AI and Game Masters. It uses historical
-authenticity without claiming that the Ravenlands reproduce one European
-society. The setting has
-several human migrations, non-human kin, working magic, active gods, restless
-dead, demonic incursions, and ten generations of isolation under the Blood
-Mist. Those facts alter any historical analogue.
+This campaign-lore reference is written for AI and Game Masters. Historical
+comparison grounds the work without making the Ravenlands a copy of one
+European society. Ailander, Aslene, and Alderlander arrivals laid different
+claims upon land already known to non-human kin. Working magic and active gods
+give belief material consequences. Restless dead, demonic incursions, and ten
+generations beneath the Blood Mist have changed the historical analogues used
+here.
 
-Use this document to answer practical questions: who has authority, who owes
-labor, how strangers are received, why a custom survives, how households divide
-work, and what evidence adventurers can see. Do not use it to turn ordinary
-village life into continuous penalties or to make every settlement identical.
+Use this document to find who has authority and who owes labor. It also explains
+how a household receives strangers, why a custom survives, and what evidence an
+adventurer can see. Do not turn ordinary village life into continuous penalties
+or make every settlement identical.
 
 ## Contents
 
@@ -52,10 +53,10 @@ village life into continuous penalties or to make every settlement identical.
 
 ### Sources of Truth
 
-The manuscript's History, Gods, Kin, Villages and Towns, and Politics chapters
-are the authority for the setting. Historical comparison may explain how a
-household economy, feud, oath, levy, shrine, or patronage relationship could
-function, but it cannot erase a manuscript fact.
+The manuscript chapters on History, Gods, and Kin are setting authorities. So
+are Villages and Towns and the chapter on Politics. Historical comparison may
+explain a household economy or feud. It may also clarify an oath, levy, shrine,
+or patronage relationship, but it cannot erase a manuscript fact.
 
 Distinguish four kinds of statement while designing:
 
@@ -68,9 +69,9 @@ Distinguish four kinds of statement while designing:
 - **Local invention:** a custom belonging to one settlement, household, kin
   group, or cult and not automatically true elsewhere.
 
-The most dangerous error is to turn a plausible inference into universal
-canon. The Ravenlands are fractured. A custom can be old in one valley,
-forbidden across the river, and unknown two hexes away.
+Never turn a plausible inference into universal canon. The Ravenlands are
+fractured. A custom can be old in one valley, forbidden across the river, and
+unknown two hexes away.
 
 ### The Social Constraint Chain
 
@@ -85,8 +86,8 @@ and refuge became reciprocal duties → elders remember who answered old alarms
 → horn codes and guest benches remain → adventurers may earn protection, owe
 service, or discover that one household was deliberately excluded`
 
-This is more authentic than attaching picturesque customs to people without
-explaining what keeps those customs alive.
+The chain keeps a custom attached to the need, authority, and choice that
+sustain it. Without those pressures, custom becomes scenery.
 
 ---
 
@@ -95,35 +96,35 @@ explaining what keeps those customs alive.
 ### Layered Settlement, Not One People
 
 Ravenlands society is a deposit of successive occupations. Elves and dwarves
-claim ancient responsibilities for the land. Orcs remember service and
+claim responsibilities older than human settlement. Orcs remember service and
 abandonment. Ailanders entered as refugees and accepted the Law of the Land.
 Aslene riders entered through Shadowgate Pass and brought horses, clan
 hierarchy, strongholds, song, and a different religious inheritance.
 Alderlander armies arrived through conquest, religious violence, settlement,
 and administrative rule. Their descendants remained when the Iron Lock closed.
 
-These origins are not remote antiquarian facts. They determine who considers a
-field granted, occupied, stolen, inherited, or held only on sufferance. A stone
-boundary may preserve an Ailander settlement agreement, an Aslene grazing
-claim, an Alderlander military allotment, and a dwarven objection at the same
-time. None of those claims needs to be fraudulent for them to be incompatible.
+These origins still determine who considers a field granted or inherited.
+Others call the same field occupied, stolen, or held only on sufferance. A
+stone boundary may preserve an Ailander settlement agreement beside an Aslene
+grazing claim. An Alderlander military allotment and a dwarven objection may
+cover the same ground. Honest claims can remain incompatible.
 
 ### War and Purge
 
-The Alder Wars did more than reduce population. They changed the social value
-of walls, priests, armed retainers, and ancestry. Families associated with a
-victorious army may have obtained land and office. Families associated with a
-defeated faith may preserve their rites privately. A village burned during a
-purge does not merely remember the dead; it remembers who opened the gate, who
-hid the priestess, who accepted seized land, and who later married into the
-offending household.
+The Alder Wars reduced the population and altered the value of walls, armed
+retainers, priests, and ancestry. Families associated with a victorious army
+may have obtained land and office. Families associated with a defeated faith
+may preserve their rites privately. A village burned during a purge remembers
+who opened the gate and who hid the priestess. It remembers the family that
+accepted seized land, then married into the offending household. The dead
+remain part of the accounting.
 
 The demonic wars made ordinary categories unstable. A person may be human by
-birth, Misgrown by alteration, undead in service, or suspected of carrying
-demonic inheritance. This makes bodily difference politically dangerous. It
-also makes expertise valuable: a healer, Raven Sister, Rust Brother, or old
-soldier who can distinguish disease from misgrowth possesses authority even
-when disliked.
+birth or Misgrown by alteration. Another may be undead in service, or suspected
+of carrying demonic inheritance. This makes bodily difference politically
+dangerous. It also makes expertise valuable: a healer, Raven Sister, Rust
+Brother, or old soldier who can distinguish disease from misgrowth possesses
+authority even when disliked.
 
 ### Ten Generations of Blood Mist
 
@@ -134,25 +135,26 @@ became memories. Distant rulers became stories. Local rites diverged because no
 priestly center could enforce uniform observance.
 
 This isolation favors institutions that can reproduce themselves locally:
-households, work groups, shrines, remembered boundaries, fosterage, marriage,
-and personal oath. It weakens institutions that require frequent inspection,
-written circulation, standardized judgment, or a dependable transport network.
-The Rust Brothers are exceptional because some could cross the Mist and turn
-that mobility into tribute, religious authority, and fear.
+households and work groups. Shrines and remembered boundaries can do the same,
+as can fosterage, marriage, and personal oath. It weakens institutions that
+require frequent inspection or written circulation. Standardized judgment and
+dependable transport fail for the same reason. The Rust Brothers are
+exceptional because some could cross the Mist. They turned that mobility into
+tribute, religious authority, and fear.
 
 ### Five Years of Reopening
 
-The Mist lifted in 1160 AS. By 1165, reopened movement has not created a modern
-territorial state. It has exposed old settlements to merchants, priests,
-adventurers, claimants, raiders, refugees, and news faster than their customs
-can absorb them. Authority is being renegotiated in public.
+The Mist lifted in 1160 AS. Five years of reopened movement have exposed old
+settlements to merchants, priests, adventurers, and claimants without creating
+a modern territorial state. Raiders and refugees travel the same roads, with
+news close behind. Authority is being renegotiated in public.
 
-The first people to control a reopened ford, safe road, ferry, market, or source
-of salt may become powerful without noble ancestry. The first distant claimant
-to arrive with an old seal may discover that the village remembers another
-compact. The first armed fellowship to offer reliable protection may receive
-dues that once went to a Rust priory. This is the social condition of the
-campaign: institutions are local, but the horizon has suddenly widened.
+Control of a reopened ford, safe road, ferry, market, or source of salt can
+raise a household without noble ancestry. A distant claimant who arrives with
+an old seal may find that the village remembers another compact. An armed
+fellowship that offers reliable protection may receive dues once paid to a Rust
+priory. Local institutions now face people who can leave, return, and compare
+one valley's claims with the next.
 
 ---
 
@@ -160,12 +162,13 @@ campaign: institutions are local, but the horizon has suddenly widened.
 
 ### More Than a Married Pair
 
-A pre-industrial household is a unit of production, consumption, care, and
-liability. It may contain a married pair, children, unmarried siblings, an
-elderly parent, fosterlings, hired hands, apprentices, refugees, servants, and
-someone whose exact relation is tactfully left unstated. Membership is shown by
-eating from the stores, sleeping under the roof, working the household's land,
-and being represented in disputes.
+A pre-industrial household produces and consumes together. It also carries care
+and liability. A married pair may share its roof with children, unmarried
+siblings, and an elderly parent. Fosterlings and hired hands belong to the
+working household; so may apprentices, refugees, or servants. One resident's
+exact relation may be tactfully left unstated. Membership is shown at meals and
+in work, but also in public disputes: a member eats from the stores, sleeps
+under the roof, works the household's land, and is represented by it.
 
 The household is accountable for its members because a weak settlement cannot
 maintain an impersonal apparatus for every offense. If a youth damages a boat,
@@ -176,9 +179,10 @@ for him, surrender him, or publicly break the bond.
 ### Stores and Keys
 
 Authority begins with access to stores. Grain, seed, salt, smoked meat,
-firewood, fodder, cloth, tools, and preserved seed are not scenery. The person
-who carries the granary key, measures meal, decides which animal is slaughtered,
-or releases iron for repair holds practical power.
+firewood, fodder, cloth, tools, and preserved seed are work already done and
+days that the household may yet survive. The person who carries the granary
+key, measures meal, decides which animal is slaughtered, or releases iron for
+repair holds practical power.
 
 This power need not follow the public title. A household may be spoken for by
 an elder while its surviving competence rests with a widow, a miller, a
@@ -187,14 +191,15 @@ between ceremonial precedence and operational control.
 
 ### Privacy Is Limited
 
-Crowded dwellings and shared labor reduce privacy. Illness, quarrels, sexual
-relationships, pregnancy, drinking, religious observance, and food consumption
-are difficult to conceal from everyone. Secrecy is achieved by controlling who
-may interpret what they have seen, not by assuming nobody saw it.
+Crowded dwellings and shared labor reduce privacy. Illness and quarrels become
+visible. So do pregnancy, drinking, and changes in food consumption. Sexual
+relationships or religious observance may remain unspoken, but seldom unseen.
+Secrecy is achieved by controlling who may interpret what they have seen, not
+by assuming nobody saw it.
 
-A household secret therefore has social architecture. Someone knows, someone
-benefits from silence, someone supplies the hidden person, and someone has been
-told a more acceptable explanation. Adventurers uncover such secrets through
+A household secret has social architecture. One person knows. Another benefits
+from silence. Someone supplies the hidden person, while someone else has been
+given a more acceptable explanation. Adventurers uncover such secrets through
 missing portions, unusual sleeping arrangements, a tool kept in the wrong
 house, or a person who answers a question meant for the household head.
 
@@ -204,17 +209,24 @@ house, or a person who answers a question meant for the household head.
 
 ### A Knot of Households
 
-A village is not one political mind. It is a coalition of households, shrine
-keepers, craft specialists, armed families, debtors, dependents, and people who
-control necessary places. Cooperation is unavoidable because wells, mills,
-gates, herds, walls, woodland, ferries, and watches exceed one household's
-capacity. Conflict is equally unavoidable because those shared systems do not
+A village speaks with several mouths. Households, shrine keepers, craft
+specialists, armed families, debtors, dependents, and people who control
+necessary places form its coalition. One household cannot keep the well and
+mill while also tending the gate, herds, walls, woodland, ferries, and watches.
+Cooperation is unavoidable. So is conflict, because those shared systems do not
 benefit everyone equally.
 
-The smallest useful social map names three to five power holders and answers:
-who controls food, who can mobilize violence, who interprets custom, who speaks
-to the gods, and who connects the settlement to outsiders. One person may fill
-several roles in a hamlet. In a town, the roles may belong to competing groups.
+The smallest useful social map names three to five power holders. For each
+settlement, answer:
+
+- Who controls food?
+- Who can mobilize violence?
+- Who interprets custom?
+- Who speaks to the gods?
+- Who connects the settlement to outsiders?
+
+One person may fill several roles in a hamlet. In a town, the roles may belong
+to competing groups.
 
 ### Commons and Boundaries
 
@@ -253,13 +265,21 @@ institutions.
 
 Ravenlands government ranges from communal speakers and clan chiefs to nobles,
 merchant councils, priests, and oath-lords. A title is only one claim. Effective
-authority depends on repeated acts: settling quarrels, opening stores, calling
-watch, maintaining walls, organizing labor, receiving strangers, and providing
-armed response.
+authority is visible in repeated acts:
 
-A ruler who cannot perform those acts becomes ceremonial. A person who can
-perform them may rule without the title. This is why a reeve, priest, miller,
-captain, or granary keeper can displace an inherited elder during crisis.
+- settling quarrels
+- opening stores
+- calling the watch
+- maintaining walls
+- organizing labor
+- receiving strangers
+- providing armed response
+
+These acts reveal which title still has force behind it.
+
+A ruler who cannot perform those acts becomes ceremonial. A reeve, priest,
+miller, captain, or granary keeper who can perform them may displace an
+inherited elder during crisis without ever receiving the title.
 
 ### Witness Before Document
 
@@ -275,17 +295,17 @@ capable of enforcing it is evidence, not power.
 
 ### Compensation, Feud, and Retaliation
 
-Where central force is unreliable, an injury is attached to people, not only to
-an abstract law. Theft deprives a household. Insult changes standing. Murder
-creates bereaved kin with both grief and a security problem. Compensation can
-end a quarrel because it acknowledges harm and transfers real value. A merely
+Where central force is unreliable, injury remains attached to people as well as
+law. Theft deprives a household. Insult changes standing. Murder creates
+bereaved kin with both grief and a security problem. Compensation can end a
+quarrel because it acknowledges harm and transfers real value. A merely
 symbolic apology seldom settles a material loss.
 
-Feud is not constant uncontrolled murder. It is a condition in which an injury
-has not been credibly settled and each side must consider retaliation. It may
-produce avoidance, denied trade, watched roads, damaged animals, demands for
-surety, or selective violence before open killing. The settlement's task is to
-prevent private injury from consuming shared labor and defense.
+Feud names the condition in which an injury has not been credibly settled and
+each side must consider retaliation. It does not require constant uncontrolled
+murder. It may produce avoidance, denied trade, watched roads, damaged animals,
+demands for surety, or selective violence before open killing. The settlement's
+task is to prevent private injury from consuming shared labor and defense.
 
 ### Protection and Tribute
 
@@ -324,10 +344,10 @@ that conditioning. A stranger is assessed at a boundary: gate, ferry, bridge,
 field edge, or outer fire. Weapons, animals, companions, religious marks,
 language, wounds, and manner of arrival are read before biography.
 
-Suspicion does not mean strangers are always rejected. A newly opened world
-makes outsiders valuable. They bring salt, iron, healing, news, marriage
-possibilities, specialist knowledge, and warnings. The same village can be
-eager for what the strangers carry and afraid of what follows them.
+Suspicion can coexist with appetite for what strangers carry. A newly opened
+world makes outsiders valuable. They bring salt and iron, but also healing,
+news, possible marriages, specialist knowledge, and warnings. The same village
+can be eager for the load on a stranger's mule and afraid of what follows it.
 
 ### Hospitality Creates a Temporary Bond
 
@@ -336,10 +356,15 @@ admits a guest, it becomes responsible for the guest's conduct and safety to a
 degree determined by local custom. The guest owes restraint, news, and often
 labor or a gift. Neither side treats the exchange as costless generosity.
 
-Hospitality should be concrete. Who offers the first cup? Are weapons kept at
-the door? Does the guest eat with the household or at a separate bench? Is the
-animal stabled? Who remains awake? These decisions show the degree of trust
-without a speech about trust.
+Hospitality should be concrete. Ask:
+
+- Who offers the first cup?
+- Are weapons kept at the door?
+- Does the guest eat with the household or at a separate bench?
+- Is the animal stabled?
+- Who remains awake?
+
+The answers show the degree of trust without a speech about trust.
 
 ### News Has Ownership
 
@@ -364,10 +389,10 @@ a wound, set a wheel, calm a horse, keep seed dry, remember a boundary, or stand
 watch without sleeping. Reliability in ordinary work becomes evidence of
 character because survival repeatedly tests it.
 
-This does not mean every competent person has high status. A despised kin,
-heretic, servant, or outsider may be necessary and excluded at the same time.
-Dependency can produce gratitude, fear, attempts at control, or accusations
-designed to seize the specialist's knowledge or property.
+Competence does not guarantee high status. A despised kin, heretic, servant, or
+outsider may be necessary and excluded at the same time. Dependency may bring
+gratitude or fear. It may also provoke attempts to control the specialist, even
+an accusation meant to seize the specialist's knowledge or property.
 
 ### Work Is Socially Distributed
 
@@ -384,15 +409,16 @@ and a nominal household head depends on a spouse's kin for seed.
 ### Dependency Has a Price
 
 The injured, elderly, orphaned, enslaved, indebted, or displaced depend on
-others for food and protection. Care can be affectionate, customary, reluctant,
-or exploitative. The person providing food acquires leverage over movement,
-marriage, labor, and testimony.
+others for food and protection. Care can be affectionate or customary. It can
+also be reluctant or exploitative. The person providing food acquires leverage
+over movement, marriage, labor, and testimony.
 
 The manuscript states that some human villages kill people who can no longer
-contribute, regarding it as terrible necessity. Treat this as an uncomfortable
-setting fact, not a universal or casual practice. It implies acute resource
-pressure, a public or concealed decision process, grief, dissent, and memory.
-It should never appear as a flavorless sign that everyone in the past was cruel.
+contribute, regarding it as terrible necessity. This uncomfortable setting fact
+is neither universal nor casual. It implies acute resource pressure. The
+decision may be public or concealed, but it leaves grief, dissent, and memory.
+Its use in play must show those pressures and the people who remember the
+decision; it cannot be a flavorless claim that everyone in the past was cruel.
 
 ---
 
@@ -412,10 +438,10 @@ speaking when someone enters.
 
 ### Elders Hold Memory, Not Automatic Power
 
-Long memory has exceptional value after isolation. Elders preserve genealogies,
-work methods, religious variants, land use, past bargains, and knowledge of who
-failed during earlier crises. This can give them authority even when they no
-longer perform heavy labor.
+Long memory has exceptional value after isolation. Elders preserve genealogies
+and work methods. They remember religious variants, land use, past bargains,
+and who failed during earlier crises. This can give them authority even when
+they no longer perform heavy labor.
 
 Memory is also partial and interested. An elder can mistake repetition for
 truth, conceal their household's advantage, or remember the moral of an event
@@ -444,9 +470,9 @@ third as keeper of stores.
 
 Ailander settlement began as refugee settlement under the Law of the Land and
 the Raven Sisters. Their social ideal favors peaceful cultivation, shared
-deliberation, hospitality, and spokespeople rather than permanent command. This
-does not make them without hierarchy. Reputation, age, religious standing,
-control of land, and ability to hold consensus still matter.
+deliberation, hospitality, and spokespeople rather than permanent command.
+Hierarchy persists through reputation and age, religious standing, control of
+land, and the ability to hold consensus.
 
 Open coercion is likely to be distrusted, while indirect sanction can be strong.
 Silence, withheld cooperation, exclusion from shared work, and refusal to speak
@@ -488,8 +514,8 @@ as the price of local support. A Rust-dominated village may still call a Raven
 Sister for birth or healing.
 
 When combining customs, identify who gains from the compromise and what remains
-unresolved. Mixture produces new local tradition; it does not automatically
-produce tolerance.
+unresolved. Mixture produces new local tradition. Tolerance must still be
+bargained and defended.
 
 ---
 
@@ -500,8 +526,12 @@ produce tolerance.
 Elven status follows age, knowledge, skill, and chosen purpose rather than
 human household descent. The ruby makes bodily death and kinship unlike human
 experience. A destroyed body can be restored if the ruby survives; a shattered
-ruby is final. Custody of a ruby is therefore simultaneously care, captivity,
-inheritance, and political power.
+ruby is final. Custody of a ruby bears four meanings at once:
+
+- care
+- captivity
+- inheritance
+- political power
 
 Long life changes urgency. Stillelves may accept delay that is intolerable to a
 human village. Unruly elves and Elvenspring act within mortal time and can be
@@ -514,7 +544,7 @@ their entire line.
 Dwarven society joins clan, merit, and craft. Demonstrated competence confers
 practical and moral standing, while construction and maintenance organize
 offices, obligations, and claims. A quarrel over a mine, road, support, or
-method can therefore concern rank and jurisdiction as much as the work itself.
+method may concern rank and jurisdiction as much as the work itself.
 
 Clan memory reaches across human generations. Lost places such as Wailer's Hold
 remain current political injuries. The failure, abandonment, or seizure of
@@ -561,10 +591,10 @@ while fathers are deliberately denied certainty. The cradle is a reproductive,
 custodial, and political institution whose secrecy protects both halves.
 
 Halfling households commonly believe a sufficiently well-chosen marriage will
-guarantee a halfling child. Matchmakers compare public birth histories from which
-goblin births have already been removed. The belief therefore survives every
-failure. A goblin child passes into the cradle network while one spouse, one
-grandparent, or one neglected observance receives the blame.
+guarantee a halfling child. Matchmakers compare public birth histories from
+which goblin births have already been removed. Every failure can then be laid
+upon one spouse, one grandparent, or one neglected observance. The goblin child
+passes into the cradle network, and the belief survives.
 
 Marriage preparation can consume childhood. Ambitious parents buy tutors,
 manage food and friendships, rehearse table manners, suppress rough play, and
@@ -586,8 +616,7 @@ Pack life also preserves wolfkin judgment and identity. A wolfkin left alone
 too long can become hunt-mad: speech narrows, social recognition fails, and the
 whole mind contracts around pursuit. The condition is feared as a loss of the
 person rather than admired as wild freedom. Pack calls, shared meals, known
-scent, mutual watch, and repeated routes are therefore necessities as well as
-customs.
+scent, mutual watch, and repeated routes remain necessities as well as customs.
 
 The death of a pack places duties on strangers. Another pack must shelter the
 sole survivor before solitude finishes what bereavement began. This can force
@@ -609,27 +638,33 @@ exchange from ordinary predation; it does not reveal the whole social order.
 
 ### The Dead Remain Social Persons
 
-Restless dead are a known condition, not an abstract belief. Human burial
-grounds are separated and enclosed because a dead person may remain confused,
-sorrowful, and active. Villagers speak and sing to them, maintain distance, and
-prevent them from returning inside the settlement.
+Restless dead are a known condition. Human burial grounds are separated and
+enclosed because a dead person may remain confused, sorrowful, and active.
+Villagers speak and sing to them. They also maintain distance and prevent them
+from returning inside the settlement. Burial follows practical knowledge as
+well as belief.
 
-This changes grief. A bereaved household may have continuing contact without
-resolution. The dead may repeat fragments of memory, challenge inheritance,
-reveal secrets without context, or simply require patient care. Burial duty is
-therefore emotional, customary, and defensive labor.
+Grief can continue as contact without becoming resolution. The dead may repeat
+fragments of memory, challenge inheritance, reveal secrets without context, or
+simply require patient care. Burial duty joins mourning to customary and
+defensive labor.
 
 ### Treatment Reveals Authority
 
-Who may decide that a walker has become dangerous? Who owns objects buried with
-the dead? Who can remove a corpse from the burial ground? Raven Sisters, local
-priests, Rust Brothers, kin, and armed authorities may offer different answers.
+Treatment of the dead raises three questions:
+
+- Who may decide that a walker has become dangerous?
+- Who owns objects buried with the dead?
+- Who can remove a corpse from the burial ground?
+
+Raven Sisters, local priests, Rust Brothers, kin, and armed authorities may
+offer different answers.
 
 The Rust Brothers' removal and weaponization of the dead transforms mourning
 into political conflict. A family may hate the practice and still permit it to
 avoid a ghoul. Another may accuse the church of creating the danger it claims
-to control. The corpse is not merely a monster resource; it remains attached to
-living claims.
+to control. The corpse remains attached to living claims even when someone
+treats it as a monster resource.
 
 ### Memory after Catastrophe
 
@@ -647,9 +682,9 @@ bringing coin.
 
 The human year is divided into eight phases and eight festival boundaries.
 Because commands from religious centers did not circulate reliably, the same
-festival may be observed on different days. This is not mere error. Local
-calendars coordinate planting, slaughter, storage, marriage, debt, worship, and
-the memory of earlier disasters.
+festival may be observed on different days. The difference belongs to local
+authority as often as to error. Local calendars coordinate planting, slaughter,
+storage, marriage, debt, worship, and the memory of earlier disasters.
 
 Awakening Day, Springturn, Lushday, Midsummer, Harvest Day, Fallturn, Rotday,
 and Midwinter should be connected to what a settlement must do. A festival is
@@ -680,10 +715,9 @@ ground to ferrymen, traders, guides, and people with outside kin. Young adults
 can leave. Religious minorities can contact allies. Exiles can return with
 weapons or documents.
 
-The result is not immediate liberation. Mobility also permits raiding, forced
-collection, disease transmission, slaving, and the revival of distant claims.
-A settlement may close its gate not from ignorance but from an informed memory
-that contact has costs.
+Mobility gives predators the same roads. It permits raiding, forced collection,
+disease transmission, slaving, and the revival of distant claims. A settlement
+may close its gate from an informed memory of contact rather than ignorance.
 
 ### Old Claims Meet Living Custom
 
@@ -691,12 +725,12 @@ The campaign begins where documentary, genealogical, sacred, military, and
 customary claims collide. A dwarf remembers a road before humans lived beside
 it. A human family has maintained that road for ten generations. A Rust priory
 holds a tribute list. A Raven Sister remembers which names were entered under
-torture. No single evidence type automatically settles the matter.
+torture. No single kind of evidence settles the matter by itself.
 
 The GM should decide what each claimant can prove, what force they can mobilize,
 and what settlement arrangement currently keeps people alive. The adventurers'
-intervention should change relationships and obligations, not merely identify a
-correct owner from outside the social world.
+intervention should change relationships and obligations. Identifying a correct
+owner from outside the social world does not settle them.
 
 ---
 

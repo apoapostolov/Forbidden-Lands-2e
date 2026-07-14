@@ -2,19 +2,26 @@
 
 # Ravenlands Campaign Lore Index
 
-This library supports an expanded Forbidden Lands campaign prepared and run by
-professional Game Master Apostol Apostolov. It mixes published canon,
-manuscript facts, historical models, setting inference, local custom, community
-theory, and personal campaign lore. It is a working setting corpus, not a claim
-that every detail appears in the published books.
+Professional Game Master Apostol Apostolov prepared this library for his
+expanded Forbidden Lands campaign. Published canon and manuscript facts form
+the base. Historical models and setting inference extend it. Local custom,
+community theory, and personal lore record decisions made for Apostol's table.
+They carry campaign authority without becoming claims about the published
+books.
 
-Preserve that mixture. Do not silently promote personal campaign lore to
-published canon, and do not remove, summarize, normalize, or rewrite it merely
-because a detail is unsupported by the books. When authority matters, identify
-the claim as **published canon**, **manuscript fact**, **setting inference**,
-**local or contested belief**, or **personal campaign lore**. An established
-campaign truth remains authoritative for this campaign even when it is not
-Free League canon.
+Preserve both the material and its authority. Never promote personal campaign
+lore to published canon without saying so. Lack of support in the books is not
+permission to remove, summarize, normalize, or rewrite a campaign decision.
+When provenance changes an answer, name one of five claim levels:
+
+- **published canon**
+- **manuscript fact**
+- **setting inference**
+- **local or contested belief**
+- **personal campaign lore**
+
+An established campaign truth remains authoritative for this campaign even
+when it is not Free League canon.
 
 ## Routing
 
@@ -44,13 +51,18 @@ Free League canon.
 
 ## Use with Other References
 
-Load the narrowest Ravenlands file that answers the task. Pair it with the
-top-level lore references for published chronology, gods, kin, places, and
-artifacts. Load `forbidden-lands-medieval-authenticity` only when a claim
-depends on generic pre-industrial survival, work, craft, food, trade, violence,
-care, or material conditions.
+Load the narrowest Ravenlands file that answers the task. Add the top-level lore
+reference that controls the claim: chronology, religion, kin, place, or
+artifact.
 
-When a Ravenlands file links back to a generic authenticity reference, the
-generic file supplies the historical or practical baseline. The Ravenlands file
-decides how Blood Mist isolation, magic, monsters, religion, kin, and Apostol
-Apostolov's campaign truths alter that baseline.
+Load `forbidden-lands-medieval-authenticity` when a claim depends on generic
+premodern conditions. Its references establish the practical baseline for:
+
+- survival and work
+- craft and food
+- trade and violence
+- care under material constraint
+
+The Ravenlands file then applies the Blood Mist and working magic. It decides
+where kin practice, religion, monsters, or Apostol Apostolov's campaign truths
+break from that baseline.

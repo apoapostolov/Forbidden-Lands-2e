@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD013 -->
+<!-- markdownlint-disable MD013 MD036 MD060 -->
 
 # Voice Test Protocol
 
@@ -11,7 +11,7 @@ consistency.
 
 ## Test 1 — Quick Scan (under 2 minutes)
 
-Checks the 13 highest-frequency AI tells. Binary only.
+Checks the 14 highest-frequency AI tells. Binary only.
 Mark each item **PRESENT** or **ABSENT**.
 
 A passage **passes** the Quick Scan if it has no more than
@@ -22,7 +22,7 @@ Proceed to the Full Pass to locate and count specific violations.
 
 ---
 
-### The 13-Item Quick Checklist
+### The 14-Item Quick Checklist
 
 **Vocabulary**
 
@@ -42,8 +42,14 @@ Proceed to the Full Pass to locate and count specific violations.
 **Sentence structure**
 
 - [ ] **P8 — Rule-of-Three:** Does any sentence contain a
-  three-item list? Count lists across the whole passage. More than
-  one three-item list: PRESENT.
+  three-item list with no escalation, contrast, ritual function, or
+  table-facing necessity? Count lists across the whole passage. More
+  than one unearned three-item list: PRESENT.
+
+- [ ] **P44 — Flat Comma Chain:** Does any prose sentence contain four
+  or more adjacent units without a real set, visible order, or reason
+  to remain inline? If yes: PRESENT. Actual inventories, sequences,
+  and closed rule sets must still be parallel and ordered.
 
 - [ ] **P16 — Not-Just-X-But-Y:** Does any sentence use the
   construction "not just [downplayed thing], but [elevated truth]"
@@ -138,7 +144,7 @@ Count occurrences per pattern. Score at end.
 
 ---
 
-### Layer 2 — Sentence Structure (Patterns 7–16)
+### Layer 2 — Sentence Structure and Enumeration (Patterns 7–16, 44–55)
 
 - **P7 Em-Dash Cluster** — occurrences: ___
   Count em-dashes in the passage. More than one per 300 words:
@@ -178,6 +184,54 @@ Count occurrences per pattern. Score at end.
 
 - **P16 Not-Just-X-But-Y** — occurrences: ___
   Search for: "not just," "not merely," "more than just."
+
+- **P44 Flat Comma Chain** — occurrences: ___
+  Review inline series of four or more units. Flag any without a real
+  set, a visible order, and a reason not to use a list or table.
+
+- **P45 Adjective Barrage** — occurrences: ___
+  Search for two or more mood adjectives before one noun. Retain only
+  material, damage, scale, or game-term classifiers.
+
+- **P46 Pseudo-Inventory** — occurrences: ___
+  Search location descriptions for lists of objects that establish no
+  use, owner, capability, or pressure.
+
+- **P47 Category Drift** — occurrences: ___
+  Flag a series that mixes people, objects, abstractions, effects, or
+  themes as equal members.
+
+- **P48 Unordered Causal Pile** — occurrences: ___
+  Flag several causes or results named without order, relative weight,
+  or an actionable link.
+
+- **P49 Example Dump** — occurrences: ___
+  Flag long sets of examples where one representative case plus the
+  governing rule would communicate more.
+
+- **P50 Headless Modifier Train** — occurrences: ___
+  Flag a long string of qualifications before the main noun or action.
+  Move history, hearsay, and context into the next sentence.
+
+- **P51 Serial Verb Chain** — occurrences: ___
+  Flag consecutive observation or interior verbs that do not produce a
+  visible choice, action, or changed situation.
+
+- **P52 Decorative And-Chain** — occurrences: ___
+  Flag repeated `and` without the pressure of labour, panic, ritual,
+  or a character's intentional voice.
+
+- **P53 Parenthetical List Inflation** — occurrences: ___
+  Flag an aside that contains a catalogue rather than one necessary
+  rule reference or closed example.
+
+- **P54 List as Paragraph Substitute** — occurrences: ___
+  Flag a sentence or bullet that conceals multiple independent steps,
+  conditions, or outcomes.
+
+- **P55 False Completeness** — occurrences: ___
+  Flag coverage claims or comprehensive series that do not name a
+  real, bounded set.
 
 **Layer 2 subtotal:** ___
 
@@ -617,7 +671,7 @@ and should not fail its own Lens Check's Negative Signals list.
 | Layer | Patterns | Names |
 |---|---|---|
 | 1 Vocabulary | 1–6 | Significance Inflation, Fantasy-Register Drift, Corporate Register, Modern Psychological, Promotional Language, Abstract Noun |
-| 2 Sentence | 7–16 | Em-Dash Cluster, Rule-of-Three, Negative-Then-Positive, Copula Avoidance, Elegant Variation, Hedging Stack, Gerund Opening, Balanced Compound Conclusion, Trailing Qualifier, Not-Just-X-But-Y |
+| 2 Sentence and enumeration | 7–16, 44–55 | Em-Dash Cluster, Rule-of-Three, Negative-Then-Positive, Copula Avoidance, Elegant Variation, Hedging Stack, Gerund Opening, Balanced Compound Conclusion, Trailing Qualifier, Not-Just-X-But-Y; Flat Comma Chain, Adjective Barrage, Pseudo-Inventory, Category Drift, Unordered Causal Pile, Example Dump, Headless Modifier Train, Serial Verb Chain, Decorative And-Chain, Parenthetical List Inflation, List as Paragraph Substitute, False Completeness |
 | 3 Paragraph | 17–22 | Topic-Sentence Paragraph, Continuity Bridge, Thematic Restatement, Even-Rhythm, Signposting, Backstory Dump |
 | 4 POV | 23–27 | Emotion Announcement, Sympathetic Narrator Insert, Over-Explained Motivation, Analytical Self-Awareness, Memory Flashback |
 | 5 Dialogue | 28–32 | Expressive Tag, Backstory Dialogue, Perfect Grammar, Emotion Tag, Character Summarizes |

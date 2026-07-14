@@ -1,18 +1,19 @@
 # Ravenlands Psychology and Social Character
 
-**Category:** Ravenlands-specific — extends the generic psychological and
-trauma references with the social mind produced by Blood Mist isolation,
-religious conflict, working magic, non-human kin, and the reopening of the land.
+**Category:** Ravenlands-specific reference extending the generic psychological
+and trauma references with the social mind produced by Blood Mist isolation and
+religious conflict. Working magic and non-human kin reshape that mind again now
+that the land has reopened.
 
-This document is written for AI and Game Masters. It describes pressures,
-learned habits, culturally available explanations, and visible behavior. It
-does not assign a single personality to every member of a kin or diagnose
-characters with modern clinical labels.
+This document gives AI and Game Masters learned habits, culturally available
+explanations, and visible behavior with which to portray social pressure. Kin
+does not determine a single personality, and modern clinical labels do not
+stand in for characterization.
 
-The people of the Ravenlands possess the same human capacities for attachment,
-fear, grief, calculation, cruelty, courage, recovery, and contradiction as
-people elsewhere. Their distinctive psychology comes from what their world has
-repeatedly rewarded, punished, and made possible.
+The people of the Ravenlands form attachments and feel fear or grief as people
+elsewhere do. They calculate. They can be cruel or courageous, recover from
+harm, and remain contradictory. What their world has repeatedly rewarded,
+punished, and made possible gives these familiar capacities a local character.
 
 ## Contents
 
@@ -33,7 +34,7 @@ repeatedly rewarded, punished, and made possible.
 ## See Also
 
 - [Society and Daily Life](society-and-daily-life.md)
-- [Rust Brothers: Fear, Doctrine, and Control](religion-rust-brothers.md)
+- [Religion of the Rust Brothers](religion-rust-brothers.md)
 - [Generic Psychological Trauma](../../../forbidden-lands-medieval-authenticity/references/generic/psychological-trauma.md)
 - [Morale, Fear, and Leadership](../../../forbidden-lands-medieval-authenticity/references/generic/morale-fear-leadership.md)
 - [Equipment and Health Maintenance](../../../forbidden-lands-medieval-authenticity/references/generic/equipment-health-maintenance.md)
@@ -47,11 +48,12 @@ repeatedly rewarded, punished, and made possible.
 
 ### Describe Adaptation, Not Essence
 
-A cultural profile should explain what people learn to notice, conceal, value,
-or fear. It should not claim blood determines character. Ailander consensus,
-Alderlander hierarchy, and Aslene directness are social expectations maintained
-by households, stories, rewards, and sanctions. Individuals may conform,
-exploit, reject, or combine them.
+A cultural profile should explain what people learn to notice and conceal, then
+show what they value or fear without making blood the author of character.
+Ailander consensus, Alderlander hierarchy, and Aslene directness are social
+expectations. Households teach them. Stories supply precedents, while reward and
+sanction keep the lessons public. Individuals may conform to those scripts,
+exploit them, reject them, or combine them.
 
 Use three levels of statement:
 
@@ -67,30 +69,29 @@ it for opposite ends.
 ### The Setting Is Supernaturally True
 
 Modern materialist assumptions are unsafe in the Ravenlands. Demons possess,
-the dead walk, magical influence alters thought, gods answer through real
-powers, and a person's form can be transformed. A voice heard by one person may
-be grief, poison, a ghost, Mentalism, a god, or a demon. Authentic behavior is
-therefore not blind superstition; it is cautious interpretation under genuine
-uncertainty.
+the dead walk, magic alters thought, gods answer through real powers, and a
+person's form can be transformed. A voice heard by one person may come from
+grief or poison. A ghost, Mentalism, a god, or a demon may also speak. People
+must interpret such signs cautiously because the uncertainty is genuine.
 
 Do not resolve that uncertainty by making villagers uniformly correct or
-uniformly foolish. They possess accumulated local methods, prejudices, false
-correlations, and hard-won expertise. A healer may recognize fever while a
+uniformly foolish. They possess accumulated local methods and prejudices. False
+correlations sit beside hard-won expertise. A healer may recognize fever while a
 priest recognizes possession, and both may be partly right about a magically
 infected wound.
 
 ### Psychology Is Socially Visible
 
-In crowded households and work groups, changes in sleep, appetite, speech,
-maintenance, drinking, sexuality, worship, and willingness to stand watch are
-noticed. People may lack clinical language, but they know baselines. They know
-who stopped singing, who checks the gate twice, who no longer tends a blade,
-and who has begun taking food into the loft.
+In crowded households, changes in sleep and appetite are noticed. Work groups
+hear altered speech and see neglected maintenance. Drinking and worship have
+known patterns, as do sexuality and willingness to stand watch. People may lack
+clinical language, but they know who stopped singing, who checks the gate twice,
+who no longer tends a blade, and who has begun taking food into the loft.
 
 The question asked is rarely "What condition does this person have?" It is
-"Can they work, be trusted, keep an oath, care for a child, stand watch, or be
-left alone with a weapon?" This practical framing can produce support, concealment,
-punishment, exploitation, or all four.
+"Can they work and be trusted? Can they keep an oath, care for a child, or stand
+watch? Can they be left alone with a weapon?" This practical framing may bring
+support or concealment. It can as readily bring punishment and exploitation.
 
 ---
 
@@ -100,22 +101,21 @@ punishment, exploitation, or all four.
 
 For ten generations, survival depended on knowing one home range: which door
 would open before nightfall, which path returned in time, which household had
-space, and which boundary the Mist respected. Knowledge tied to known people
-and repeated places therefore carries more emotional weight than distant
-principle.
+space, and which boundary the Mist respected. Tested people and familiar places
+carry more emotional weight than any distant principle.
 
-A villager may accept a local contradiction that an outsider finds irrational:
-the Rust Brother in this priory is trusted though the order is feared; the
-walker in this graveyard is safe though undead are dangerous; this goblin may
-enter though goblins steal. Such distinctions are not failure to generalize.
-They are a survival system based on tested exceptions.
+A villager may accept a local contradiction that an outsider finds irrational.
+The Rust Brother in this priory is trusted though the order is feared. The
+walker in this graveyard is safe though undead are dangerous. This goblin may
+enter though goblins steal. Tested exceptions form a survival system more
+reliable than the outsider's general rule.
 
 ### Competence Is Reassurance
 
 Skill calms because competent action makes danger legible. A person who knows
-how to close a gate, judge weather, calm livestock, set a wound, or identify
-tracks reduces uncertainty for everyone nearby. This creates strong emotional
-attachment to useful people, even when their faith, kin, or manners are disliked.
+how to close a gate or judge weather reduces uncertainty. Calming livestock,
+setting a wound, and identifying tracks do the same. Useful people inspire
+strong attachment even when their faith, kin, or manners are disliked.
 
 Conversely, unexplained incompetence alarms. A traveler with fine weapons who
 loads an animal badly may be judged more dangerous than a ragged traveler who
@@ -125,26 +125,28 @@ knowledge do not agree.
 ### Restraint Is Not Calm
 
 Survival in a small group rewards the ability to delay open conflict. Many
-Ravenlands people learn to mask fear and anger until allies, witnesses, or
-resources are ready. Silence, formal courtesy, work, prayer, and indirect
-obstruction can all contain hostility without resolving it.
+Ravenlands people learn to mask fear and anger until allies or witnesses are
+ready. Some wait for material advantage. Silence and formal courtesy can
+contain hostility. Work, prayer, or quiet obstruction can do the same without
+resolving it.
 
-Do not mistake quiet settlements for emotionally simple ones. A room can be
-orderly because everyone agrees, because one household dominates, because a
-feud is under compensation, or because the last person who objected disappeared.
-The same behavior has different psychological causes.
+Quiet settlements need not be emotionally simple. A room may be orderly because
+everyone agrees or because one household dominates. A feud may be under
+compensation. The last person who objected may have disappeared. The same
+behavior can grow from different pressures.
 
 ### Memory Is a Social Weapon
 
 Local standing is accumulated memory. People remember who gave grain during a
-lean phase, who failed at the palisade, whose parent informed for the Rust
-Brothers, and whose household took in an orphan. A person inherits some of this
-memory without being morally identical to their predecessors.
+lean phase and who failed at the palisade. People also remember whose parent
+informed for the Rust Brothers, and whose household took in an orphan. A person
+inherits some of this memory without being morally identical to their
+predecessors.
 
-This produces both continuity and captivity. A trustworthy name opens doors.
+Memory grants continuity and becomes captivity. A trustworthy name opens doors.
 A hated name can make innocence irrelevant. The reopening of travel introduces
-people who do not know local reputations, allowing escape, reinvention, fraud,
-and conflict over whose account should travel.
+people who do not know local reputations, allowing escape or reinvention. Fraud
+follows, along with conflict over whose account should travel.
 
 ---
 
@@ -153,9 +155,10 @@ and conflict over whose account should travel.
 ### Home Was a Survival Category
 
 The Blood Mist attacked strangers and those away from their familiar place
-while leaving many people safe at home. Home was therefore not only comfort,
-property, or kinship. It was a condition the world itself appeared to recognize.
-Leaving the home range carried bodily terror with supernatural confirmation.
+while leaving many people safe at home. Comfort, property, and kinship made a
+home, but the world itself also appeared to recognize it as a protective
+condition. Leaving the home range carried bodily terror with supernatural
+confirmation.
 
 Repeated across generations, this favors intense attachment to known paths,
 thresholds, household routines, and return times. A person can be bold within
@@ -169,15 +172,16 @@ injury, lost animals, or another person's need threatened the whole group. This
 makes punctual return morally charged. Someone who delays companions may be
 judged selfish even when the Mist is gone.
 
-Evening behaviors survive: counting people, checking latches, closing shutters,
-bringing animals inside, listening for the last horn, and noticing whose place
-at the fire remains empty. These are both habits and memorial acts.
+Evening behaviors survive. People count those still outside and bring the
+animals in. They close shutters, check latches, and listen for the last horn.
+The empty place at the fire turns habit into memorial.
 
 ### Strangeness Became Contagious
 
-Under the Mist, the unfamiliar person was not only socially unknown. Their very
-presence suggested distance, impossible travel, Rust protection, wolfkin
-mobility, deceit, or supernatural exception. Curiosity and alarm became linked.
+Under the Mist, an unfamiliar person carried a danger beyond ordinary social
+uncertainty. Their very presence suggested impossible travel. Rust protection,
+wolfkin mobility, deceit, or supernatural exception might explain it. Curiosity
+and alarm became linked.
 
 The lifted Mist permits strangers to be ordinary again, but the emotional
 association remains. A newcomer may be welcomed for news and watched through
@@ -187,9 +191,9 @@ may ask where they slept before asking their name.
 ### Rust Mobility Produced Ambivalence
 
 Rust Brothers who crossed the Mist possessed proof of sacred or demonic
-exception. To isolated villagers, their arrival could mean medicine, judgment,
-tribute, punishment, recruitment, or protection. This produces a form of
-dependence in which hatred and belief are not opposites.
+exception. To isolated villagers, their arrival could mean medicine or
+protection. It could as easily mean judgment, tribute, punishment, or
+recruitment. Hatred and belief can coexist inside the resulting dependence.
 
 A person may reject Rust doctrine and still experience the sight of Rust colors
 as relief because those colors once meant someone could carry a message beyond
@@ -200,7 +204,7 @@ The church exploits that ambivalence through selective terror. It preserves the
 village, chooses a victim whose punishment will be widely felt, and leaves the
 survivors to enforce the new order. People then fear one another's testimony,
 their own past compromises, and the sound of iron on the road. See [Rust
-Brothers: Fear, Doctrine, and Control](religion-rust-brothers.md)
+Brothers](religion-rust-brothers.md)
 for the order's cultivated strangeness, recruitment of marked bodies, demonic
 secrecy, and psychology of disciplined cruelty.
 
@@ -215,10 +219,10 @@ markets, teachers, spouses, shrines, revenge, and abandoned property. They can
 also be found by creditors, enemies, churches, former lords, and descendants of
 people their ancestors dispossessed.
 
-Hope therefore produces anxiety. A road reopening is not simply good news. It
-changes prices, marriage prospects, authority, access to flight, and exposure
-to claims. The person most excited by the road and the person most afraid of it
-may both understand its consequences accurately.
+Hope arrives with anxiety. A reopened road changes prices, marriage prospects,
+authority, access to flight, and exposure to claims. The person most excited by
+it and the person most afraid of it may both understand its consequences
+accurately.
 
 ### Generations Respond Differently
 
@@ -235,7 +239,7 @@ when movement becomes possible.
 ### Return Is Not Restoration
 
 Exiles, veterans, descendants, and religious agents return to places that
-continued without them. Their memories preserve an earlier social order; local
+continued without them. Their memories preserve an earlier social order. Local
 people preserve the order that survived. Both may experience the other as
 betrayal.
 
@@ -261,23 +265,21 @@ random foolishness.
 
 ### Trust Is Task-Specific
 
-People do not simply trust or distrust. They trust someone with a horse but not
-silver, with children but not drink, with a secret but not an oath, on the road
-but not inside a feud. Repeated competence builds narrow trust faster than
-charm.
+Trust follows the task. Someone may be trusted with a horse but not silver,
+with children but not drink, with a secret but not an oath, or on the road but
+not inside a feud. Repeated competence builds narrow trust faster than charm.
 
-This is especially important across kin boundaries. A dwarf may distrust human
-land claims and trust one human smith's judgment. An Ailander may hate Rust rule
-and trust a particular Iron Guard captain to keep terms. Such limited bonds are
-the material of sandbox politics.
+Across kin boundaries, task-specific trust becomes especially important. A
+dwarf may distrust human land claims and trust one human smith's judgment. An
+Ailander may hate Rust rule and trust a particular Iron Guard captain to keep
+terms. Such limited bonds are the material of sandbox politics.
 
 ### Reputation Reduces Uncertainty
 
 Where institutions are local and enforcement personal, reputation predicts who
 will answer later. It affects credit, hospitality, testimony, marriage,
 employment, and whether an apology will be believed. Public shame is severe
-because it removes future cooperation, not merely because people dislike being
-talked about.
+because it removes future cooperation. Dislike of gossip is the smaller cost.
 
 People defend reputation by performance: returning borrowed tools, arriving
 for shared labor, paying compensation, maintaining dependents, and behaving
@@ -291,16 +293,15 @@ person may care for an elder because of love, custom, fear of judgment, expected
 inheritance, or all at once. A shield companion may be both a friend and the
 person whose reliability keeps one alive.
 
-Do not demand that characters identify a single pure motive. Premodern social
-life often binds emotion to function. Breaking the function can feel like
-personal rejection even when the affection remains.
+Characters need not identify a single pure motive. Premodern social life often
+binds emotion to function. Breaking the function can feel like personal
+rejection even when the affection remains.
 
 ### Betrayal Damages the World Model
 
-An oath-breaker does more than injure one person. They make future cooperation
-less rational for everyone who relied on the bond. Betrayal therefore produces
-hypervigilance, hoarding, refusal of dependence, and demands for stronger
-guarantees.
+An oath-breaker injures one person and makes future cooperation less rational
+for everyone who relied on the bond. After betrayal, people watch without rest,
+hoard what they once shared, refuse dependence, and demand stronger guarantees.
 
 The setting magnifies this wound. Orcs remember abandonment by elves and
 dwarves. Ailanders remember religious persecution. Galdanes remember demonic
@@ -321,10 +322,9 @@ through care, animal relationship, cultivation, and resistance to corruption.
 Wyrm tradition emphasizes continuity, lawful transmission, and the guiding
 Protector.
 
-These are not merely private beliefs. Each explanation directs behavior. A
-village that calls a misgrowth impurity may isolate or sacrifice. One that calls
-it injury may seek healing. One that calls it demonic evidence may summon armed
-religious specialists.
+These beliefs direct public behavior. A village that calls a misgrowth impurity
+may isolate or sacrifice. One that calls it injury may seek healing. One that
+calls it demonic evidence may summon armed religious specialists.
 
 ### Ritual Restores Agency
 
@@ -359,14 +359,14 @@ frames can sustain recovery or trap a person inside an impossible ideal.
 ### Alderlander Restraint and Rank
 
 Alderlander social training favors identifying rank, speaking deliberately,
-keeping grief private, and treating sworn terms as identity. In its admired
-form, this produces endurance, predictability, and the ability to continue work
-under loss. In its damaged form, it produces emotional concealment, obedience
-to failed offices, and catastrophic collapse after long suppression.
+keeping grief private, and treating sworn terms as identity. At its best, the
+training sustains endurance, predictability, and work under loss. Under harsher
+pressure, the same training conceals emotion, preserves obedience to failed
+offices, and delays collapse until it becomes catastrophic.
 
 An Alderlander who disagrees may ask procedural questions rather than state
 emotion. One who grieves may repair, march, or organize until exhaustion. A
-person who openly weeps is not necessarily weak; they may be rejecting a social
+person who openly weeps is not necessarily weak. They may be rejecting a social
 mask that has become impossible to maintain.
 
 ### Ailander Consensus and Indirect Sanction
@@ -391,13 +391,13 @@ chance to answer.
 Honor provides social predictability but makes public humiliation dangerous. A
 gift can express affection, establish rank, create debt, or test whether the
 recipient understands the relationship. A person who refuses may believe they
-avoid obligation; the giver may understand refusal as rejection of the bond.
+avoid obligation. The giver may understand refusal as rejection of the bond.
 
 ### Mixed and Displaced Identities
 
 Most human settlements contain mixed ancestry and borrowed practice. A person
 may use Alderlander restraint before a reeve, Ailander consensus at home, and
-Aslene gift exchange with a horse clan. This is not cultural incoherence. It is
+Aslene gift exchange with a horse clan. Moving among these customs shows
 competence across social settings.
 
 Displaced people often intensify selected customs because those customs remain
@@ -412,38 +412,38 @@ custom may become stricter abroad than it was at home.
 ### Elves: Continuity without Human Urgency
 
 Elven rubies make the body renewable and final death dependent on the stone.
-This can weaken attachment to a particular bodily form while intensifying
+Bodily renewal can weaken attachment to a particular form while intensifying
 attachment to ruby custody, long projects, and oaths between kin. Human urgency
-may appear wasteful; human mortality may appear tragic, fascinating, or
+may appear wasteful. Human mortality may appear tragic, fascinating, or
 convenient.
 
-Stillelf withdrawal is not simple laziness. It can be exhaustion with repeated
-cycles, loss of novelty, or a different valuation of time. Unruly action can be
-a refusal of that withdrawal and a demand that long life still produce meaning.
+Stillelf withdrawal cannot be reduced to laziness. It may follow exhaustion
+with repeated cycles, loss of novelty, or a different valuation of time. Unruly
+action may refuse that withdrawal and demand that long life still produce
+meaning.
 
 ### Elvenspring and Frailers: Mortal Urgency under Long Shadows
 
 Both groups live longer than humans but remain mortal beside elves. Ambition
 and impatience arise partly from seeing possibilities their lifespan cannot
 fully contain. Elvenspring culture channels this into duty toward life and the
-land; Frailer traditions more often legitimate acquisition of power and
+land. Frailer traditions more often legitimate acquisition of power and
 knowledge.
 
-These are cultural tendencies, not moral biology. The psychological pressure is
-shared: each is judged by an immortal parent culture while knowing that delay
-has a cost immortals may not feel.
+These cultural tendencies carry no moral verdict in the blood. Both groups face
+the same psychological pressure: judgment by an immortal parent culture while
+delay exacts a cost those immortals may never feel.
 
 ### Dwarves: Work, Reincarnation, and Clan Memory
 
 Dwarven identity rests strongly on competence and contribution to Huge's work.
-Failure can therefore injure moral worth as well as pride. Exile from a clan or
-loss of a workshop removes the setting in which a dwarf's skills make cosmic
-sense.
+Failure can injure moral worth as well as pride. Exile from a clan or loss of a
+workshop removes the setting in which a dwarf's skills make cosmic sense.
 
-Long clan memory keeps defeats active. The loss of Wailer's Hold is not ancient
-background to Meromannians; it is an unfinished social wound. Drink, narcotic
-mushrooms, martial preparation, and restoration plans are different responses
-to the same displacement.
+Long clan memory keeps defeats active. For Meromannians, the loss of Wailer's
+Hold remains an unfinished social wound rather than ancient background. Drink,
+narcotic mushrooms, martial preparation, and restoration plans answer the same
+displacement in different ways.
 
 ### Orcs: Rank after Enslavement and Abandonment
 
@@ -464,7 +464,7 @@ rejects. Halfling cheerfulness and concealment protect respectability but create
 constant fear of exposure. Goblin openness rejects shame yet preserves reluctant
 responsibility toward halflings.
 
-Secrecy is institutional rather than merely personal. A revelation about one
+Secrecy belongs to institutions as well as individuals. A revelation about one
 birth threatens parentage, household status, religious teaching, and the safety
 of a cradle. Characters may sincerely love relatives whose existence they deny
 in public.
@@ -472,8 +472,8 @@ in public.
 Halfling marriage doctrine turns that secrecy toward the future. Families
 believe the right joining guarantees a halfling child and spares them the goblin
 birth that must be carried away. Their evidence consists of public lineages
-from which every contrary birth has been removed. Success confirms the match;
-failure proves that someone lied, neglected a rite, or chose badly.
+from which every contrary birth has been removed. Success confirms the match.
+Failure proves that someone lied, neglected a rite, or chose badly.
 
 This belief makes childhood a household project. A promising child receives
 tutors, guarded companions, measured meals, rehearsed conversation, and years
@@ -497,20 +497,20 @@ rewards the parent willing to go farther than the neighbors.
 
 ### Wolfkin: Forest Safety and Open-Space Fear
 
-Wolfkin could move through forest Mist but not across open ground. Agoraphobia
-therefore has both direct supernatural history and learned transmission. A
+Wolfkin could move through forest Mist but not across open ground. Their
+agoraphobia has both direct supernatural history and learned transmission. A
 wolfkin can be fearless in close forest and visibly distressed on a treeless
 plain without inconsistency.
 
-Pack music, hunting ritual, scent, and shared movement preserve more than group
-emotion. Wolfkin judgment is reciprocal. Others answer the name, correct the
+Pack music, hunting ritual, scent, and shared movement preserve group feeling
+and the reciprocal practice of judgment. Others answer the name, correct the
 track, divide the kill, interrupt the chase, and remember the person outside
 the present scent. Prolonged separation removes each of these supports.
 
-The first danger is liminal. A solitary wolfkin does not experience the forest
-as shelter merely because trees surround them. Without a known voice or scent,
-the path ceases to have a social direction. Clearings feel wider than their
-measured span. The canopy opens into exposure, while the repeating trunks offer
+The first danger is liminal. Trees alone do not make the forest feel like
+shelter to a solitary wolfkin. Without a known voice or scent, the path ceases
+to have a social direction. Clearings feel wider than their measured span. The
+canopy opens into exposure, while the repeating trunks offer
 too many ways forward and no witnessed way home. Some hide under brush. Others
 run because movement gives the body a boundary that place no longer provides.
 
@@ -527,8 +527,9 @@ and feast bring only a short pause before another scent takes hold. The
 hunt-mad usually die against armed prey or terrain their former judgment would
 have refused.
 
-Wolfkin treat this as shame and bereavement, never as the proud unveiling of a
-truer beast. Families may conceal the early signs because they fear outsiders
+Wolfkin treat this as shame and bereavement. They find no pride in the unveiling
+of a supposedly truer beast. Families may conceal the early signs because they
+fear outsiders
 will confirm their worst stories about the kin. That concealment can cost the
 brief period in which pack contact still helps. Once recognition is gone, a
 former pack may have to hunt the body with every private route and childhood
@@ -551,8 +552,8 @@ People admit danger more readily than fear. They check straps, sharpen tools,
 assign watches, pray, recount precedent, and criticize someone else's
 preparation. This converts internal alarm into socially useful action.
 
-Task can contain fear, but it can also conceal collapse. A person who cannot
-stop preparing after the danger is past may be using work to avoid stillness.
+Task can contain fear and conceal collapse. A person who cannot stop preparing
+after the danger is past may be using work to avoid stillness.
 Show the shift through excess: the latch checked six times, the blade sharpened
 past usefulness, the route recited after everyone knows it.
 
@@ -572,7 +573,7 @@ ending.
 
 Shame concerns what an act reveals about fitness for relationship: cowardice,
 failed hospitality, inability to provide, broken oath, exposed dependence, or
-polluted faith. It is not merely an internal feeling. Other people may withdraw
+polluted faith. Other people make it public when they withdraw
 credit, testimony, marriage, shelter, or command.
 
 Different groups shame different failures. Alderlander loss of composure,
@@ -609,9 +610,9 @@ setting's distinctive injuries:
 - carrying inherited hatred for an abandonment no living human committed
 - experiencing Mentalism, possession, or magical loss of agency
 
-These injuries combine bodily fear with damage to meaning. A survivor may not
-only fear a road; they may believe home rejected them, a god judged them, or
-their own thoughts can no longer be trusted.
+These injuries combine bodily fear with damage to meaning. A survivor may fear
+a road and believe that home rejected them, a god judged them, or their own
+thoughts can no longer be trusted.
 
 ### Mist-Loss
 
@@ -645,8 +646,8 @@ authorities judge acts performed under closed conditions.
 
 The survivor may defend the act, deny it, ritualize it, seek punishment, or
 repeat it because admitting wrong would make earlier sacrifice meaningless.
-Do not resolve this automatically through confession. The social consequences
-and the person's need for a livable account are both real.
+Confession cannot automatically resolve this. The social consequences and the
+person's need for a livable account are both real.
 
 ---
 
@@ -658,9 +659,9 @@ Feeding animals, repairing a roof, grinding grain, tending a fire, preparing a
 body, and walking a known boundary restore predictable cause and effect. This
 can stabilize a person whose experience destroyed predictability.
 
-Work is not an automatic cure. Forced labor, exhaustion, and dangerous duty can
-compound damage. The useful distinction is whether the work is bounded,
-competent, socially recognized, and connected to a future the person values.
+Work heals nothing by itself. Forced labor, exhaustion, and dangerous duty can
+compound damage. Work helps when it is bounded, competent, socially recognized,
+and connected to a future the person values.
 
 ### The Household Provides Witness
 
@@ -669,9 +670,9 @@ contact without demanding an account. Food placed nearby, shared maintenance,
 a reassigned watch, or a companion sleeping within reach can support without
 modern therapeutic speech.
 
-The household can also conceal abuse or enforce silence. Presence is protective
-only when it reduces danger and isolation. A person trapped with the cause of
-harm does not recover merely because they remain among kin.
+The household can also conceal abuse or enforce silence. Presence protects when
+it reduces danger and isolation. Remaining among kin offers no recovery to a
+person trapped with the cause of harm.
 
 ### Story Gives Form
 
@@ -709,15 +710,15 @@ accepting a gift whose return cannot be immediate.
 
 ## Magic, Possession, and Mental Disturbance
 
-### Do Not Collapse Every Symptom into Magic
+### Separate Mundane and Magical Causes
 
 Night terrors, grief, poison, fever, starvation, head injury, drink withdrawal,
 and chronic fear can produce altered behavior without supernatural cause.
 Villagers may know these patterns through experience even if they explain them
 through soul, god, or spirit.
 
-Likewise, do not collapse real magic into metaphor. Mentalism can invade will.
-Demons can possess. The dead can speak. A correct supernatural diagnosis may
+Real magic must also retain its substance. Mentalism can invade will. Demons can
+possess. The dead can speak. A correct supernatural diagnosis may
 become an excuse for cruelty, while a false mundane diagnosis may leave a real
 entity unopposed.
 
@@ -731,8 +732,8 @@ Credible communities test explanations through observation:
 - Does ordinary sleep, food, warmth, and safety improve function?
 - Who benefits if the condition is declared possession, heresy, or weakness?
 
-These are not modern diagnostics. They are structured local empiricism. The
-answers can remain ambiguous until play produces stronger evidence.
+This is structured local empiricism rather than modern diagnosis. The answers
+can remain ambiguous until play produces stronger evidence.
 
 ### Loss of Agency Has Special Weight
 
@@ -740,7 +741,7 @@ Cultures built on oath and responsibility struggle with acts committed under
 magical control. If the body acted but the will did not, who owes compensation?
 Who can prove compulsion? Can the victim trust their own intention afterward?
 
-This should affect law and relationship, not only spell resolution. A person
+The consequences reach law and relationship beyond spell resolution. A person
 released from control may face suspicion, self-doubt, demands for surety, or
 religious cleansing even when companions believe them.
 
@@ -775,8 +776,8 @@ distinguish them.
 
 A person can be hospitable and suspicious, devout and coercive, brave and
 avoidant, loving and exploitative, traumatized and dangerous, oppressed and
-capable of oppression. Authentic psychology does not tidy these tensions into
-one trait.
+capable of oppression. Authentic psychology leaves these tensions in the same
+person.
 
 The strongest Ravenlands character usually has one adaptation that helped them
 survive and now creates a problem in the reopened world: secrecy that blocks
@@ -797,8 +798,7 @@ Before assigning a reaction, answer:
 7. What choice can the adventurers make that changes the person's conditions
    rather than merely persuading them to feel differently?
 
-If a reaction can be explained only by a kin stereotype, it is not ready for
-use.
+A reaction supported only by a kin stereotype is too thin for use.
 
 <!-- Extension rules:
 - Maximum 1800 lines per document. Split by subtopic before exceeding it.

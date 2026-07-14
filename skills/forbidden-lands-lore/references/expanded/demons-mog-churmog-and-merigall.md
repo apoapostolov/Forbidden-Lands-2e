@@ -15,12 +15,14 @@ campaign reference, and the best community theorycraft found on Reddit, the
 Free League forum, and long-form fan analysis. Its purpose is practical.
 After reading it, a GM should be able to answer four questions at the table:
 
-1. What evidence distinguishes a true demon from a beast, undead, Misgrown,
-   possessed host, or foreign creature?
+1. What evidence distinguishes a true demon from a beast, the undead, or a
+   Misgrown creature? What distinguishes it from a possessed host or another
+   foreign being?
 2. What does this demon need, and what arrangement keeps it here?
-3. Which observations reveal its body, appetite, binding, and weakness?
-4. What can clever adventurers bargain for, interrupt, steal, falsify, poison,
-   sever, or turn against it?
+3. Which observations reveal its body and appetite? Which reveal the binding or
+   weakness?
+4. What can clever adventurers bargain for or interrupt? What can they steal,
+   falsify, or poison? What bond can they sever or turn against it?
 
 ## Evidence Marks
 
@@ -34,9 +36,9 @@ Every difficult claim carries one of four marks.
 - **DESIGN EXTENSION:** New material for this reference. Use it when deeper
   demonology will improve play.
 
-These marks matter most around Churmog. The books give hard facts about mog,
-nexuses, ether starvation, and named demons. They give almost no direct
-description of Churmog's land, ordinary life, or laws. A red world of living
+These marks matter most around Churmog. The books give hard facts about mog and
+nexuses. They also establish ether starvation and named demons. They give almost
+no direct description of Churmog's land, ordinary life, or laws. A red world of living
 matter is a strong model. It remains a model.
 
 ## The Short Working Doctrine
@@ -48,17 +50,20 @@ Write these seven lines on the inside cover of a demonologist's grimoire.
 - **Churmog is one foreign world.** Merigall, Krasylla, Goder, and other beings
   made of mog come from it. Bloodlings and other outsiders can come from
   elsewhere.
-- **Mog is living matter.** It binds incompatible flesh, holds foreign bodies
-  together, corrodes Ravenland matter, and accepts imposed shape.
-- **A body is an arrangement.** A demon can be a host, a colony, a graft, a
-  mist, a stored essence, or several bodies joined by a continuing bond.
-- **Presence has a supply line.** Ether, mog, sacrifice, a host, a gate, an
-  offspring, a contract, or a local appetite keeps the demon viable.
-- **Every demon has a specific failure.** Copper, light, music, a name, an
-  artifact, a broken contract, a severed host, or another odd condition can
-  matter more than damage.
-- **Knowledge should change the encounter.** A clue that does not alter a
-  preparation, target, route, bargain, or retreat is decoration.
+- **Mog is living matter.** It binds incompatible flesh and holds foreign bodies
+  together. It corrodes Ravenland matter, yet accepts imposed shape.
+- **A body is an arrangement.** A demon may inhabit a host or live as a colony.
+  It may persist as graft, mist, or stored essence. A continuing bond can join
+  several bodies.
+- **Presence has a supply line.** Ether or mog may sustain a demon. Sacrifice,
+  host, or gate can do the same. Other demons depend upon offspring, contract,
+  or a local appetite.
+- **Every demon has a specific failure.** Copper, light, or music may matter
+  more than damage. So may a name or artifact. Another demon fails when a
+  contract breaks or its host is severed.
+- **Knowledge should change the encounter.** A clue must alter preparation or
+  target. It may instead change the route, bargain, or retreat. Otherwise it is
+  decoration.
 
 ## Terminology and the Spelling Problem
 
@@ -113,17 +118,18 @@ the transformation, not a universal life cycle for every Churmog being.
 ### What a Demon Is
 
 **CANON:** Any creature foreign to the world can be called a demon. It may have
-been summoned by a spell, crossed through a nexus, reproduced after arrival, or
-been fused with local flesh. There is no required shape, morality, intelligence,
-or ecology.
+been summoned by a spell or crossed through a nexus. Others reproduced after
+arrival or fused with local flesh. There is no required shape or morality;
+intelligence and ecology vary as widely.
 
-**CANON:** Every generated demon is unique. The Book 02 tables separate form,
-visible ability, attacks, special ability, and weakness. A beautiful humanoid
+**CANON:** Every generated demon is unique. The Book 02 tables separate form
+from visible ability. Attacks, special ability, and weakness are generated
+apart. A beautiful humanoid
 may be immune to weapons and weak to a child's lullaby. A fog may carry a heavy
 weapon. The mismatch is part of the creature's nature.
 
-**INFERENCE:** Taxonomy should begin with provenance and function, not anatomy.
-Horns prove nothing. A gatekeeper can have demon skin while killing demons on
+**INFERENCE:** Taxonomy should begin with provenance and function rather than
+anatomy. Horns prove nothing. A gatekeeper can have demon skin while killing demons on
 sight. A horned Misgrown can be native flesh altered in a laboratory. An
 ordinary-looking bard can consist entirely of mog.
 
@@ -140,22 +146,24 @@ The books show mog doing six distinct jobs.
    residue. Do not grant the same immortality to every demon without evidence.
 4. **Corrosion:** Raw mog burns living flesh, eats leather and metal, blackens
    soil, and can leave land sterile for a year.
-5. **Contagion:** Mog in blood causes corruption. Long exposure stains fingers,
-   darkens veins, hardens skin, changes dreams, and makes a caster legible to
-   demons.
-6. **Conduction:** Demonic Magic uses mog to sense, call, compel, summon, graft,
-   reshape, and open breaches. Mog is material and medium at once.
+5. **Contagion:** Mog in blood causes corruption. Long exposure may stain
+   fingers, darken veins, harden skin, or change dreams. The caster also becomes
+   legible to demons.
+6. **Conduction:** Demonic Magic uses mog to sense and call. It compels or
+   summons through the same medium. Grafting, reshaping, and opening a breach
+   treat mog as material and medium at once.
 
 **INFERENCE:** “Living glue” is useful but incomplete. Glue joins two finished
 things. Mog can also replace tissue, transmit intent, retain form, and grow.
 A better workshop term is **obedient foreign flesh**. It obeys a shape or bond
-until another appetite, stronger will, chemical attack, or dimensional pressure
-changes the instruction.
+until another appetite changes the instruction. A stronger will may do the
+same; so may chemical attack or dimensional pressure.
 
 ### Mog as Material
 
 Raw mog is lilac-green and smells of bile and hot copper. One unit occupies one
-inventory slot and must be sealed in glass, ceramic, waxed wood, or demon-hide.
+inventory slot and must be sealed in glass or ceramic. Waxed wood and demon-hide
+may also hold it.
 It corrodes unsealed cloth and leather within one turn and bare metal within a
 Quarter Day. Skin splashed with it takes Strength damage if the mog is not
 cleaned within a round. Mog entering the blood causes corruption.
@@ -2305,7 +2313,7 @@ the stolen body, or the lie that established the judgment in the first place.
 | Churmog remembers Merigall as a traitor | a lesser demon refuses parley, calls the bard gate-strangler, or attacks a child instead of the present body | Merigall is a credible ally against another Demon Flood | betrayal of Churmog did not make Merigall a friend of mortals |
 | Merigall helped Martea and Marga escape | Martea identifies a route, phrase, or borrowed face; Marga remembers the hand that opened the passage | one act of aid cost Merigall safety and opposed Zygofer directly | the rescue may also preserve witnesses and weapons useful against Zytera |
 | A child knows Merigall as an absent but loving parent | the fellowship meets the child first, sees years of unwanted gifts, then watches Merigall arrive at illness or death | the demon's love is specific, inconvenient, and open to refusal | the child remains a road, witness, and possible body in Merigall's plans |
-| Viridia may have betrayed Merigall to the Redrunners | acid records contain knowledge only Gall-Eye possessed; the ruby changes Merigall's shape and speaks against it | the long search contains dread of judgment, not merely possession | Merigall still proposes to put Viridia into another person's flesh |
+| Viridia may have betrayed Merigall to the Redrunners | acid records contain knowledge only Gall-Eye possessed; the ruby changes Merigall's shape and speaks against it | the long search holds dread of judgment as well as possession | Merigall still proposes to put Viridia into another person's flesh |
 | Merigall could seize a body for Viridia but has refused the available ones | a prepared body remains untouched; a captive elf is released; a child reports an argument about consent | the demon may want Viridia's answer more than an obedient imitation | refusal can be fear, vanity, or calculation rather than mercy |
 | Merigall does not want the throne | it declines Vond, gives away a title, or helps two enemies survive the same victory | alliance need not create another king or demon prince | a land kept divided supplies more stories, bargains, and grief |
 

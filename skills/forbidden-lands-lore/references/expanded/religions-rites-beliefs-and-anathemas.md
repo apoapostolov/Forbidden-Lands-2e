@@ -2,15 +2,15 @@
 
 # Religion Reference Index for the Ravenlands
 
-Religion is divided by kin because cosmology, body, time, household, death, and
-authority do not mean the same thing to every people. Use the narrowest file
-that matches the people in the scene. Load two or more when a household,
-settlement, marriage, shrine, or dispute crosses kin.
+Religion is divided by kin because cosmology, body, and time do not mean the
+same thing to every people. Neither do household, death, or authority. Use the
+narrowest file that matches the people in
+the scene. Load another when kin meet under one roof, before one shrine, or
+across the same dispute.
 
-The files preserve manuscript fact, grounded setting inference, local custom,
-and contested doctrine as different kinds of claim. Detailed rites extend the
-setting for use by an AI or GM; they do not turn every local practice into a
-universal law.
+The files keep manuscript fact apart from grounded setting inference. They also
+mark local custom and contested doctrine. Their rites give an AI or GM material
+for play. No valley's practice thereby becomes universal law.
 
 ## Core Kin References
 
@@ -27,11 +27,11 @@ universal law.
 
 ## Separate and Grouped References
 
-- [Rust Brothers: Fear, Doctrine, and Control](religion-rust-brothers.md)
+- [Religion of the Rust Brothers](religion-rust-brothers.md)
   is deliberately longer than the other religion files. Rust and Heme doctrine
-  supports an armed church, a state cult, demonic secrecy, information control,
-  selective terror, ordination through bodily alteration, and a settlement-wide
-  psychology of coerced submission.
+  supports an armed church that behaves as a state cult. Demonic secrecy
+  requires information control. Selective terror and ordination through bodily
+  alteration spread coerced submission through whole settlements.
 - [Monster Beliefs](religion-monster-beliefs.md) groups saurians, ogres,
   whiners, and Misgrown. These peoples do not share a faith. They share poor
   documentation and the danger of being described by hunters, captors, priests,
@@ -52,8 +52,8 @@ the same answers:
 7. Which faults can be repaired, and what must restitution replace?
 8. Which acts lie beyond ordinary repair within the tradition?
 9. Which internal disagreement prevents the kin from becoming a single voice?
-10. What object, mark, route, body, account, or repeated act lets players
-    encounter the belief before receiving an explanation?
+10. What lets players encounter the belief before receiving an explanation?
+    Choose an object or bodily mark, a route or account, or one repeated act.
 
 Equal depth does not require equal length. Human religion needs room for hostile
 churches and heresies. Elven religion must explain ruby personhood and changing
@@ -71,9 +71,10 @@ the kill before the striker eats.
 
 ### Local Custom
 
-A household, valley, clan, pack, hall, band, or teacher maintains the practice.
-Another community of the same kin may reject it. Local rites need causes,
-witnesses, and consequences rather than claims of forgotten antiquity.
+A household or valley may maintain the practice. Elsewhere, its keeper may be a
+clan, pack, hall, band, or single teacher. Another community of the
+same kin may reject it. Give a local rite a cause, a witness, and a consequence.
+Forgotten antiquity explains nothing by itself.
 
 ### Contested Doctrine
 
@@ -84,9 +85,9 @@ position authorizes.
 
 ### Hidden Knowledge
 
-The belief is protected by office, cradle, order, gender, craft, route, or
-danger. Hidden knowledge should leave evidence. A secret with no physical or
-social consequence cannot be investigated.
+Office may protect the belief. So may a cradle, an order, gender, craft, a
+guarded route, or the danger of knowing. Hidden knowledge must leave evidence.
+A secret without physical or social consequence cannot be investigated.
 
 ### GM Inference
 
@@ -96,7 +97,7 @@ Do not present it as the only custom of the kin.
 
 ## Religion as an Institution
 
-A durable religion handles ordinary work:
+A durable religion must answer ordinary work:
 
 - naming children and recognizing households
 - witnessing promises and preserving reliance
@@ -107,20 +108,22 @@ A durable religion handles ordinary work:
 - coordinating calendars, travel, feast, hunt, work, and mourning
 
 A god who appears only in a song will lose authority to the keeper who knows
-the stores, births, graves, measures, routes, or debts. A ritual gains weight
+the stores and measures. Births and graves carry another authority. Routes and
+debts carry a third. A ritual gains weight
 when someone must supply material, stop work, accept risk, surrender evidence,
 or recognize another person's claim.
 
 ## Offerings and Prayer
 
-An offering transfers something out of ordinary use: food, iron, cloth, water,
-ash, labor, blood, a tool, a name, a route, or a period of service. Ask who
-could otherwise use it and who controls the offered material afterward.
+An offering takes something out of ordinary use. The material may be food,
+iron, cloth, water, ash, blood, or a tool. A worshipper may instead give labor,
+a name, a route, or a period of service. Ask who has lost its use. Then ask who
+controls what was offered.
 
 Prayer is often work. A smith inspects the tool before naming Huge. A Flow
 keeper examines the water. A wolfkin circles the sleeping ground downwind. A
-halfling host prepares the room in which a protected lie can be told. Skill does
-not weaken devotion; it is usually the evidence offered.
+halfling host prepares the room in which a protected lie can be told. Skill
+usually supplies the evidence of devotion.
 
 ## Fault, Repair, and Anathema
 
@@ -131,8 +134,8 @@ risk. Rebuild the safe route. Accept a limit while trust is tested.
 Anathema marks an act the tradition cannot repair through ordinary means because
 it attacks the relation that makes repair possible. Betraying a cradle destroys
 protected birth. Shattering an elven ruby destroys the continuing person.
-Concealing a structural fault makes later work unknowable. Selling an orc into
-hereditary service repeats the claimed creation of a slave kin.
+A concealed structural fault makes later work unknowable. Selling an orc into
+hereditary service repeats the enslavement claimed in orc origins.
 
 Do not use anathema as a generic list of sins. Name the damaged relation and why
 the institution lacks a normal remedy.
@@ -154,9 +157,14 @@ The same named power changes across kin and institution:
 
 ## Mixed Settlements and Households
 
-Mixed worship becomes visible through jurisdiction. Ask who witnesses the
-marriage, keeps the cradle, restores the ruby, inherits the forge, names the
-dead, controls the well, recognizes the cub, or decides that a command ended.
+Mixed worship becomes visible through jurisdiction. Ask one question at the
+point where authority is disputed:
+
+- Who witnesses the marriage or keeps the cradle?
+- Who restores the ruby or inherits the forge?
+- Who names the dead or controls the well?
+- Who recognizes the cub?
+- Who decides that a command has ended?
 
 Conversion changes these obligations before it changes every private belief.
 A convert may need release from an oath, protection from former kin, a new
@@ -170,9 +178,21 @@ meaning.
 
 ## Rendering Religion for Play
 
-Begin with handled evidence: cord, feather, repair mark, wrapped ruby, fox hair,
-moon token, scent boundary, shard, water vessel, cradle path, unfinished board,
-or blood ledger.
+Begin with one piece of handled evidence. Choose the object that exposes the
+claim under pressure:
+
+- cord
+- feather
+- repair mark
+- wrapped ruby
+- fox hair
+- moon token
+- scent boundary
+- shard
+- water vessel
+- cradle path
+- unfinished board
+- blood ledger
 
 Then answer:
 

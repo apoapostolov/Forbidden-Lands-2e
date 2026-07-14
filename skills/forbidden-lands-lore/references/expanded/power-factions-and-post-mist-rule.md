@@ -2,12 +2,13 @@
 
 # Power, Factions, and Post-Mist Rule in the Ravenlands
 
-This reference explains how rule is lived, remembered, resisted, and repaired
+This reference explains how rule is lived and remembered. It also shows how it
+is resisted, then repaired
 in Apostol Apostolov's expanded Ravenlands campaign. Book 02 supplies the
 faction procedures. This document supplies the people beneath those procedures:
-the households that surrender grain, the ferrymen who decide whether a seal is
-still feared, the hostages who make an oath costly, and the retainers who must
-choose whether an unpaid order remains an order.
+the households that surrender grain and the ferrymen who decide whether a seal
+is still feared. Hostages make an oath costly. Retainers must decide whether an
+unpaid order remains an order.
 
 Power in the Ravenlands seldom begins with a border. It begins with a claim
 that can reach a road, a storehouse, or a body. A ruler is real where someone
@@ -65,21 +66,26 @@ weight.
 
 This document uses five levels of authority.
 
-**Published canon** names people, factions, places, histories, religions, and
-relations stated in the published setting material. A canon name does not make
+**Published canon** names people and factions. It also governs published places,
+histories, religions, and relations. A canon name does not make
 every consequence drawn from it canon.
 
 **Manuscript fact** comes from the current second-edition rules and setting
-chapters. Faction terms such as Mandate, Force, Reach, Hearth, Ruled,
-Protected, Tributary, Vassal, Occupied, and Allied belong to this layer.
+chapters. Faction terms belong to this layer:
 
-**Historical model** supplies credible pre-feudal ways of organizing land,
-service, compensation, witness, household authority, hospitality, and war.
+- Mandate, Force, Reach, and Hearth
+- Ruled, Protected, Tributary, and Vassal
+- Occupied and Allied
+
+**Historical model** supplies credible pre-feudal ways of organizing land and
+service. Compensation and witness support judgment. Household authority and
+hospitality persist into war.
 Such models are tools. The Ravenlands are not a displaced earthly kingdom.
 
 **Setting inference** follows from canon under the conditions created by ten
-generations of Blood Mist, broken roads, living non-human kin, real gods,
-magic, walkers, and monsters. An inference should answer a practical question
+generations of Blood Mist and broken roads. Living non-human kin remember older
+claims. Real gods and magic share the land with walkers and monsters. An
+inference should answer a practical question
 left open by the books.
 
 **Personal campaign lore** is Apostol Apostolov's established answer for this
@@ -103,8 +109,8 @@ refuses its repair days. The keeper closes the bridge to its carts, or fails to
 do so and reveals that the office has become hollow.
 
 The chain prevents power from becoming fog. A lord who claims a valley must
-name what the valley gives, what the lord returns, who carries each demand, and
-what happens when one side fails. Without those answers there is only a title
+name what the valley gives and what the lord returns. Someone must carry each
+demand; failure must have a known consequence. Without those answers there is only a title
 spoken beside a fire.
 
 ### Politics Is a Distribution Problem
@@ -121,16 +127,18 @@ Every political act changes at least one distribution. Remitting a due leaves
 grain in one village and removes it from a garrison. Granting sanctuary protects
 one fugitive and transfers danger to the household that shelters them. Calling
 levy moves strong backs from fields to roads. Declaring an heir changes who may
-marry, inherit keys, command retainers, and receive hostages.
+marry or inherit keys. It also changes who commands retainers and receives
+hostages.
 
-The declared reason may be faith, honor, blood, necessity, or revenge. The GM
-should still trace the sacks, bodies, witnesses, and gates.
+Faith and honor are common declarations. Blood, necessity, and revenge are
+others. The GM should still trace the sacks and bodies, then the witnesses and
+gates.
 
 ### Institutions Must Be Worked
 
-A court exists because people sweep its floor, heat the hall, carry summons,
-remember procedure, feed guests, restrain angry kin, and repeat judgments after
-the ruler has left. A faction with a grand title and no such workers rules only
+A court exists because people sweep its floor and heat the hall. Others carry
+summons or remember procedure. Guests must be fed; angry kin must be restrained,
+and judgments repeated after the ruler has left. A faction with a grand title and no such workers rules only
 while its armed party remains within reach.
 
 Institutions survive through repeated small acts. The steward opens the tally
@@ -144,8 +152,8 @@ Break enough repetitions and the institution dies before anyone announces it.
 
 No observer sees the whole faction.
 
-A lord sees promises, reports, and missing revenue. A steward sees labor,
-stores, and false measures. A village elder sees which households can still
+A lord sees promises and reports, especially missing revenue. A steward sees
+labor and stores, including false measures. A village elder sees which households can still
 pay. A hostage sees the temper of the hall. A groom sees night rides. A priest
 sees who refuses public witness. A servant sees who eats after a failed levy.
 
@@ -166,8 +174,9 @@ Every substantial political element should answer six questions.
 
 A faction with no interruptible acts cannot be played against. A grievance with
 no substitute settlement becomes a scripted war. Political lore earns its place
-when players can bargain, expose, delay, redirect, support, or break something
-whose consequences can be read in advance.
+when players can bargain with an institution or expose it. They may delay or
+redirect its work, then choose whether to support or break something whose
+consequences can be read in advance.
 
 ---
 
@@ -958,8 +967,9 @@ and enough connection to care. A dependent servant may have seen everything
 and still carry little public weight. A rival priest may be believed precisely
 because the judgment harms an ally.
 
-Objects help memory. Rings, cut sticks, cords, feathers, stones, shared cups,
-and marked weapons give the oath a body that can be shown later.
+Objects help memory. Rings and cut sticks give an oath a body that can be shown
+later. Cords or feathers travel more easily; stones remain in place. Shared cups
+and marked weapons carry the witness of use.
 
 #### Confederated Rule
 
@@ -1988,7 +1998,8 @@ Forging safe-conduct attacks Reach and Mandate together.
 
 ### Convoy Politics
 
-Convoys need guards, carts, animals, repair, fodder, lodging, and information.
+Convoys need guards and carts. Animals require fodder and repair keeps both
+moving. Lodging and information must be secured ahead of them.
 Their route distributes income and burden. Settlements passed over may sabotage
 or lobby. Settlements chosen for overnight stops gain trade while feeding
 strangers.
@@ -2414,8 +2425,9 @@ weapons, absent captains, and retainers doing work levy should have answered.
 Force is damaged by casualties, desertion, unpaid service, officer conflict,
 lost arms, broken morale, or repeated use against the faction's own supporters.
 
-It recovers through rest, pay, replacement, drill, successful defense, and the
-return of fighters whose households still welcome them.
+It recovers through rest and pay. Replacement and drill rebuild capacity;
+a successful defense restores trust. Fighters recover fully only where their
+households still welcome them.
 
 ### Reach
 
@@ -2768,8 +2780,9 @@ rite, hire an orc guard, and seek elven healing without considering itself
 inconsistent. Survival taught layered allegiance.
 
 Human rulers often claim restoration. The word is politically useful because
-every listener restores a different past: a lost crown, a free village, an old
-faith, safe roads, lawful markets, or the years before a hated family rose.
+every listener restores a different past. One hears a lost crown; another, a
+free village or old faith. Others hear safe roads and lawful markets, or the
+years before a hated family rose.
 
 The dangerous human talent is converting emergency into office. A war leader,
 grain keeper, or shrine defender remains in charge because the next emergency
@@ -3329,9 +3342,9 @@ They can become a faction before acquiring a place.
 
 ### Camp Followers
 
-Moving forces draw a settlement behind them. Camp followers repair, feed,
-trade, nurse, carry, bury, entertain, inform, steal, and raise children inside
-the host's shadow.
+Moving forces draw a settlement behind them. Camp followers repair and feed the
+host. They trade and nurse, then carry or bury those who cannot march. Some
+entertain or inform; others steal. Children are raised inside the host's shadow.
 
 Commanders who deny their existence lose control of prices, waste, disease,
 intelligence, and movement.
@@ -3403,9 +3416,8 @@ Feud law constrains legitimate targets. Kin, oath companions, officeholders,
 property, herds, and named champions may stand within or outside the permitted
 circle.
 
-Violating these limits widens participation. Killing a messenger or child does
-not merely add a victim. It tells neutral people that restraint offers no
-protection.
+Violating these limits widens participation. Killing a messenger or child adds
+a victim. It also tells neutral people that restraint offers no protection.
 
 ### Compensation
 
@@ -3673,7 +3685,9 @@ These acts remain politically ambiguous enough to survive inquiry.
 
 ### Concealment
 
-Households hide grain, weapons, people, books, icons, letters, and lineages.
+Households hide grain and weapons. People disappear into other roofs;
+books and icons go into walls. Letters and lineages may be entrusted farther
+away.
 Effective concealment uses ordinary architecture and habits rather than a single
 clever compartment.
 
@@ -3848,7 +3862,7 @@ Titles grant access and duties. A sheriff must hear unpleasant cases. A warden
 must answer raids during poor weather. A court magician inherits blame for magic
 he did not cast.
 
-Office should change the adventures offered, not merely add status.
+An office that adds status but changes no adventure remains decorative.
 
 ### Being Used as a Sign
 
@@ -3942,9 +3956,9 @@ interests can structure a district.
 
 ### Advance Consequences by Season
 
-Return after sowing, harvest, winter, or thaw. The same decree has become hunger,
-new office, repaired road, abandoned house, altered marriage, or remembered
-grievance.
+Return after sowing, harvest, winter, or thaw. The same decree may become hunger
+or a new office. Elsewhere it repairs a road and empties a house. A marriage
+changes; a grievance remains.
 
 Seasonal return gives political acts weight without forcing every consequence
 into the next scene.

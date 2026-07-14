@@ -2,7 +2,11 @@
 
 # Orc Religions of the Ravenlands
 
-This reference develops orc religion through abandonment by the elder kin, clan continuity, obedience and refusal, trial, knowledge, ancestry, and the authority of women. The clan histories and practices named in Book 02 are manuscript facts. The Unabandoned and detailed ceremonies are grounded setting inference.
+This reference begins with abandonment by the elder kin and the orc answer of
+clan continuity. Obedience and refusal are tested in trial. Knowledge and
+ancestry lead to the authority of women. The clan histories and practices named
+in Book 02 are manuscript facts. The Unabandoned and detailed ceremonies are
+grounded setting inference.
 
 ---
 
@@ -53,14 +57,16 @@ itself is shameful or only action ruled by fear.
 
 ## Sources and Authority
 
-Orc religion survives in clan practice, challenge formula, women's genealogies,
-camp law, initiation scars, burial places, and the commands people still argue
-about after the commander is dead. No central priesthood can declare one creed.
+Orc religion survives in clan practice and the challenge formula. Women's
+genealogies support camp law; initiation scars and burial places make it
+visible. It also survives in commands people still dispute after the commander
+is dead. No central priesthood can declare one creed.
 An outsider asking for the orc god may be asking the wrong question.
 
-Religious authority is divided. Public leaders judge courage, obedience,
-tribute, and war. Female authorities judge descent, adoption, marriage, hidden
-routes, stores, and whether a victory left a clan capable of another winter.
+Religious authority is divided. Public leaders judge courage and obedience,
+tribute and war. Female authorities judge descent, adoption, and marriage. They
+guard hidden routes and stores. They also decide whether a
+victory left a clan capable of another winter.
 Trial survivors carry bodily proof. Elders remember which splendid command
 nearly ended the clan.
 
@@ -271,8 +277,8 @@ is part of the rite. It discloses who expected whose calendar to rule.
 
 ## The Women's Account
 
-The genealogy is not a recital of male descent. It is an account of who was
-fed, carried, adopted, exchanged, hidden, or left behind. Female keepers may
+The genealogy is not a recital of male descent. It records who was fed or
+carried. It also names those adopted, exchanged, hidden, or left behind. Female keepers may
 record it in knotted cords, scars on horn, arrangements of teeth, painted hides,
 or memories divided among several women. No single object is allowed to expose
 every refuge line if captured.

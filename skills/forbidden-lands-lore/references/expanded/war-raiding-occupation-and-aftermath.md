@@ -2,17 +2,17 @@
 
 # War, Raiding, Occupation, and Aftermath in the Ravenlands
 
-War reaches a village before the first spear. It arrives as a messenger asking
-how many bodies can leave the harvest, a buyer taking every sound horse, a
-stranger measuring the bridge, or a widow learning that the promised pay exists
-only on a captain's board. It remains after the banners leave as bad sleep,
-unplanted ground, disputed plunder, children who learned new silences, and a
-road every faction now knows how to use.
+War reaches a village before the first spear. A messenger asks how many bodies
+can leave the harvest. A buyer takes every sound horse; a stranger measures the
+bridge. Somewhere, a widow learns that the promised pay exists only on a
+captain's board. After the banners leave, bad sleep and unplanted ground remain.
+So do disputed plunder and children who learned new silences. Every faction now
+knows the road.
 
 Chapter 12 resolves battles and sieges. Chapter 11 moves factions into campaign.
 The medieval-authenticity references explain generic tactics and human strain.
-This volume joins those systems to Ravenlands society before, around, and after
-organized violence.
+This volume joins those systems to Ravenlands society before organized
+violence, during a campaign, and through its aftermath.
 
 ## Contents
 
@@ -62,18 +62,18 @@ organized violence.
 
 ### Claim Levels
 
-**Published canon** governs named factions, kin, places, conflicts, and setting
-history.
+**Published canon** governs named factions and kin. It also governs places,
+conflicts, and setting history.
 
-**Manuscript fact** governs current faction, army, battle, siege, supply,
-disease, and aftermath procedures.
+**Manuscript fact** governs current faction and army procedure. Battle and siege
+rules belong to it, as do supply, disease, and aftermath.
 
-**Historical model** supplies premodern levy, camp, logistics, raiding, ransom,
-occupation, household strain, and reconstruction.
+**Historical model** supplies the premodern levy and camp. It also supplies
+logistics, raiding, ransom, occupation, household strain, and reconstruction.
 
 **Setting inference** draws lived consequences from rules. An army consuming
-provisions must gather those provisions from stores, carts, animals, and people
-who expected to eat them.
+provisions must take them from stores and carts. Animals carry some; people who
+expected to eat them lose the rest.
 
 **Personal campaign lore** expands Apostol Apostolov's Ravenlands campaign
 without claiming every custom appears in published material.
@@ -83,12 +83,14 @@ without claiming every custom appears in published material.
 Battle rules aggregate people into troops. This document moves between that
 scale and the persons within it.
 
-One lost troop may include dead, wounded, missing, captured, scattered, and
-people who fled home. Do not translate every mechanical loss into death.
+One lost troop may include dead and wounded members. Others are missing or
+captured; some scattered, while some fled home. Do not translate every mechanical loss
+into death.
 
 ### Violence with Purpose
 
-Use violence to reveal objective, institution, cost, and changed relation. Do
+Use violence to reveal its objective and institution. Show the cost and changed
+relation. Do
 not linger upon bodily suffering merely to make a scene seem serious.
 
 Hard truth needs consequence, not ornament.
@@ -96,8 +98,9 @@ Hard truth needs consequence, not ornament.
 ### No Clean Rear
 
 Premodern war has no separate civilian supply world untouched by campaign.
-Fields, mills, carts, boats, animals, workshops, healers, roads, and households
-form the army's rear.
+Fields and mills form the army's rear. Carts and boats connect them to the
+force. Animals, workshops, and healers keep it moving; roads and households bear
+the cost.
 
 The rear can be distant from battle and still be inside the war.
 
@@ -107,61 +110,65 @@ The rear can be distant from battle and still be inside the war.
 
 ### Inventory
 
-Rulers preparing war count grain, animals, carts, weapons, bridges, smiths,
-healers, boats, and households capable of service.
+Rulers preparing war count grain and animals. They count carts and boats
+against the bridges. Weapons require smiths; casualties require healers. Last
+comes the count of households capable of service.
 
 The count itself alarms residents. A survey of horses tells every owner that
 future need has entered the stable.
 
 ### Road Questions
 
-Scouts ask which bridges bear wagons, where water lies, how quickly a ford rises,
-which woods hide movement, and whose permission opens a gate.
+Scouts ask which bridges bear wagons and where water lies. They measure how
+quickly a ford rises and note which woods hide movement. They also discover
+whose permission opens a gate.
 
 Road repair can be evidence of peace or preparation.
 
 ### Purchase
 
-Agents buy food, leather, iron, cloth, salt, rope, animals, and medicine. Early
-purchases may enrich producers. Continued demand strips ordinary markets.
+Agents buy food and animals. Leather and iron equip the force; cloth and rope
+keep it supplied. Salt preserves what must travel, while medicine follows the
+injured. Early purchases may enrich producers. Continued demand strips ordinary markets.
 
 Price rise warns people before official proclamation.
 
 ### Rumor
 
-Rumor assembles from separate facts: a captain recalled, a marriage delayed,
-smiths working at night, grain not released, foreigners given quarters, a
-faction's messenger changing horses twice.
+Rumor assembles from separate facts. A captain is recalled and a marriage
+delayed. Smiths work at night while grain remains locked away. Foreigners receive
+quarters; a faction's messenger changes horses twice.
 
 Nobody needs the whole plan to know peace is thinning.
 
 ### Training
 
-Musters, weapon inspection, watch drills, horn practice, and contests can
-prepare defense while appearing customary.
+Musters and weapon inspections can appear customary. So can watch drills or
+horn practice. Contests hide preparation inside celebration.
 
 The difference lies in frequency, attendance, and whether absent households are
 punished.
 
 ### Debt
 
-War requires credit before plunder, tribute, or victory can repay it. Merchants,
-temples, wealthy households, and mercenary captains advance goods against future
-collection.
+War requires credit before plunder or tribute can repay it. Victory may never
+come. Merchants and temples advance goods against future collection; wealthy
+households and mercenary captains may do the same.
 
 The creditor acquires an interest in continued campaign success.
 
 ### Diplomatic Closure
 
-Safe-conducts narrow, markets exclude certain traders, hostages are requested,
-and ambiguous border incidents receive harsher interpretation.
+Safe-conducts narrow and markets exclude certain traders. Rulers request
+hostages. Ambiguous border incidents receive harsher interpretation.
 
 The social space in which mistakes can be repaired begins to close.
 
 ### Household Anticipation
 
-Families hide valuables, accelerate marriages, move animals, finish roofs,
-preserve extra food, recall travelers, or send vulnerable people away.
+Families hide valuables and move animals. Some accelerate marriages or finish
+roofs. Others preserve extra food, recall travelers, or send vulnerable people
+away.
 
 Such preparation can be accused of disloyalty by a ruler who wanted the same
 resources.
@@ -172,9 +179,10 @@ resources.
 
 ### Claim
 
-A ruler claims land, office, inheritance, road, mine, shrine, tribute, or right
-of protection. War begins when enforcement seems more useful than continued
-ambiguity.
+A ruler may claim land or office. Inheritance can justify either. Another claim
+concerns a road, mine, or shrine and the tribute drawn from it. A promise of protection
+can become a claim of rule. War begins when enforcement seems more useful than
+continued ambiguity.
 
 Claims need people willing to bear their cost.
 
@@ -472,8 +480,9 @@ Every carrier also consumes.
 
 ### Fodder
 
-Mounted force magnifies reach and supply. Horses and draft animals need grass,
-hay, grain, water, rest, hoof care, and replacement.
+Mounted force magnifies reach and supply. Horses and draft animals need water
+and rest each day. Grass may sustain them in good country; hay and grain must
+follow them when grazing fails. Hooves need care, and losses demand replacement.
 
 A district can feed people longer than it can feed a large concentration of
 animals.
@@ -696,8 +705,9 @@ The objective determines speed and acceptable risk.
 
 ### Preparation
 
-Raiders study watch rhythm, animal location, moon, weather, route, gates,
-household divisions, and where goods can be moved quickly.
+Raiders study the watch and the households likely to aid or betray it.
+They learn where animals and portable goods are kept. Moon and weather govern
+the approach; gates and escape routes govern the leaving.
 
 Local complicity often matters more than stealth at the last wall.
 
@@ -949,8 +959,9 @@ Signals must be authenticated.
 
 ### Siege End
 
-After surrender or relief come burial, fire control, disease, food, property,
-disarmament, prisoner release, and the question of who keeps the gate tonight.
+After surrender or relief, the living must bury the dead and contain any fire.
+Food and disease cannot wait for a settlement of property. Disarmament and the
+release of prisoners lead to the immediate question: who keeps the gate tonight?
 
 The wall's ownership changes faster than the life within it.
 
@@ -1021,7 +1032,7 @@ Leaders require verification procedures that do not paralyze every order.
 Prohibited disciplines offer rulers coercive power, terror, expendable bodies,
 and weapons whose consequences exceed the campaign.
 
-Use should create political and moral aftermath, not merely a stronger troop.
+Use should create political and moral aftermath. A stronger troop is not enough.
 
 ### Monsters as Troops
 
@@ -1290,8 +1301,10 @@ Punishing one low-ranking perpetrator cannot answer policy.
 State the nature and consequence of atrocity without dwelling upon exploitative
 detail. Center the people harmed as persons with relations and futures.
 
-Give players actionable choices: prevent, shelter, document, extract, heal,
-expose, judge, or repair.
+Give players choices that can change what happens next. They may prevent harm,
+shelter those threatened, or extract people already trapped. They can document
+the crime, expose its perpetrators, and seek judgment. Healing and repair answer
+what the judgment cannot restore.
 
 ---
 
@@ -1617,8 +1630,9 @@ Military traffic may deny them priority.
 
 ### Arrival
 
-Host settlements assess disease, food, space, labor, kin ties, faction danger,
-and duration.
+Host settlements fear disease and ask whether food and space will last.
+They seek kin ties or useful labor that might absorb the arrivals. Factional
+danger grows with every sign that the stay will be long.
 
 Emergency hospitality becomes politics if return remains impossible.
 
@@ -1889,15 +1903,17 @@ The count must include people with weak political voice.
 
 ### Stabilize
 
-Immediate work clears fire, secures water, roofs occupied space, buries dead,
-protects food, restores sanitation, and organizes watch.
+Immediate work contains fire and secures water. Survivors roof the spaces still
+occupied, bury their dead, and protect what food remains. Sanitation and an
+organized watch keep the first losses from multiplying.
 
 Monuments can wait.
 
 ### Repair Order
 
-Bridge, mill, well, store, byre, house, shrine, wall, and market compete for
-labor and material.
+The well, store, byre, and occupied houses compete for labor and material.
+Bridge and mill may decide whether the settlement survives the next season;
+shrine, wall, and market make claims of their own.
 
 Priority reveals who the new peace serves.
 
@@ -2084,8 +2100,12 @@ These debts generate the next season's politics.
 
 ### After Every Battle
 
-Answer security, wounded, dead, captives, pursuit, supply, command, ground, and
-news.
+After every battle, answer these questions:
+
+- Is the ground secure, and will there be a pursuit?
+- Who is wounded, dead, or captive?
+- What remains of supply and command?
+- What news leaves the field?
 
 Victory is incomplete until those are addressed.
 

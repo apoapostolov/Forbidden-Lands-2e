@@ -378,7 +378,9 @@ the highest-frequency patterns before submission:
 - [ ] Any adjectives that inflate without specifying?
   *(ancient, primal, vast, profound, sacred, immense)* — Pattern 1
 - [ ] More than one em-dash per page? — Pattern 7
-- [ ] Any three-item lists? Reduce to one specific. — Pattern 8
+- [ ] Any flat inline list of three or more units? Keep it only if the
+      third has a job; use the Enumeration Standard for four or more.
+      — Patterns 8 and 44–55
 - [ ] Any "It is not X, it is Y" pairs? Collapse. — Pattern 9
 - [ ] Paragraphs that open with topic sentences?
   *(The village's relationship was..., The situation was...)* — Pattern 17

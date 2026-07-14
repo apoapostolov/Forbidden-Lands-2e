@@ -4,10 +4,10 @@
 
 This reference describes the metaphysics taught, tested, and disputed by
 magicians in Apostol Apostolov's expanded Forbidden Lands campaign. It begins
-with laws that repeated practice makes difficult to deny, then records the
+with laws that repeated practice makes difficult to deny. It then records the
 truths available to practitioners of each rank. It is not a catechism shared by
-all magicians. A blood sorcerer, an oneiromancer, and a stone singer can each
-give a coherent account of the same event and disagree about what, in the
+all magicians. A blood sorcerer may explain an event one way; an oneiromancer or
+stone singer may give another coherent account. They disagree about what, in the
 deepest sense, happened.
 
 The distinction is deliberate. **Observed law** names a result that can be
@@ -23,30 +23,32 @@ accurate where they touch it and dangerous where they claim too much.
 
 Magic is fueled by Willpower, but ordinary desire is not Willpower. A wish may
 be sincere and still possess no magical weight. Willpower is kindled where the
-world and the self come into conflict: intention made fierce by struggle, pain,
-suffering, and the burning away of hope. As the world consumes the body's
+world and the self come into conflict: intention made fierce by struggle and
+pain, even by the burning away of hope. As the world consumes the body's
 strength, it can leave the survivor with something else—the power to insist,
 even then, *I still choose*.
 
-When an adventurer pushes beyond fear, pain, exhaustion, doubt, or social
-collapse, the world gives evidence that the intended act should stop. The body
-weakens, judgment frays, confidence fails, or fellowship is wounded. If the
+When an adventurer pushes beyond fear or pain, the world gives evidence that
+the intended act should stop. Exhaustion and doubt press the same command;
+social collapse may make action pointless. The body weakens and judgment frays.
+Confidence fails, or fellowship is wounded. If the
 person nevertheless continues, two incompatible conditions are held within one
 life: *I am being overcome* and *I still choose*. That unresolved interval is
-Willpower. It is not pain itself. Unchosen suffering, helpless misery, and the
-torment of another do not automatically empower a witness. The force lies in
-surviving an imposed limit while retaining authorship of the next act.
+Willpower. It is not pain itself. Unchosen suffering does not automatically
+empower a witness. Neither does helpless misery or the torment of another. The
+force lies in surviving an imposed limit while retaining authorship of the next
+act.
 
 This is no substance hidden in the blood or soul. Those who spend Willpower
 often—magicians, seasoned adventurers, and others long acquainted with
-hardship—feel it plainly enough: a warmth behind the breastbone, an eagerness in
-weary limbs, a presence that remains when bodily strength is gone. It does not
-restore what the world has taken. It gives intent somewhere to stand after
+hardship—feel it plainly enough. It is a warmth behind the breastbone, an
+eagerness in weary limbs, and a presence that remains when bodily strength is
+gone. It does not restore what the world has taken. It gives intent somewhere to stand after
 stamina has failed, provided the mind remains sound enough to know it is there.
 
-This is why protected comfort produces poor magicians, why ordeal without
-purpose often produces only injury, and why deliberate self-harm is an
-unreliable substitute for danger. The caster must possess both sides of the
+Protected comfort therefore produces poor magicians. Ordeal without purpose
+often produces only injury; deliberate self-harm is an unreliable substitute
+for danger. The caster must possess both sides of the
 contradiction: a real loss and a continuing intention. Burn is the brutal
 exception that proves the law. The caster deliberately offers the world a
 fresh injury and holds the spell's intended conclusion against it. The caster
@@ -54,21 +56,21 @@ chooses how much to risk; the world chooses where the harm falls.
 
 ### The World Has Settled Shape
 
-Every thing and relation has a degree of settlement. A door has the shape in
-which it was made, a body the continuity by which it remains the same living
-person, an oath the witnesses and conduct that give it standing, a forest the
-long exchange among soil, rain, root, animal, and decay. Settlement is not a
-single substance. It is the accumulated fact that the world has already been
+Every thing and relation has a degree of settlement. A door keeps the shape in
+which it was made. A body keeps the continuity by which it remains one living
+person. Witnesses and conduct give an oath standing. In a forest, rain enters
+soil, roots feed animals, and decay returns them to one another. Settlement is
+not a single substance. It is the accumulated fact that the world has already been
 one way and has learned to continue being so.
 
 Magic does not defeat this continuity with raw energy. The caster presents a
 contradiction strong enough that another state can be made to stand. A brief
-flame, borrowed sight, or momentary command needs only a narrow claim. A new
+flame or borrowed sight needs only a narrow claim; so does a momentary command. A new
 mountain, an immortal body, or a gate between worlds must be established
-against innumerable existing relations. Such work needs permanent witnesses:
-lost attributes, surrendered purposes, places marked by events, elven rubies,
-great sacrifices, artifacts, or the aid of beings whose claims upon reality
-are already immense.
+against innumerable existing relations. Such work needs permanent witnesses. A
+lost attribute or surrendered purpose can bear witness. So can a place marked
+by events, an elven ruby, or a great sacrifice. Artifacts and beings with
+immense claims upon reality can bear more.
 
 ### The Five Parts of a Working
 
@@ -114,8 +116,8 @@ the caster.
 Rank is not a reservoir of force. It is the number and subtlety of boundaries a
 magician can maintain without conscious effort. Safe casting removes exposure
 because superior understanding supplies constraints internally. Its limitation
-is metaphysical, not merely cautious: by closing every uncertain relation, the
-caster must accept a narrower answer.
+is metaphysical. Closing every uncertain relation makes the answer safer by
+making it narrower.
 
 Chance casting does the opposite. The caster attempts a pattern whose
 boundaries they cannot fully state, or deliberately leaves one boundary porous.
@@ -244,8 +246,8 @@ permanent witnesses to renew itself across generations. God Spell suggests that
 divine intervention is not exempt from magical structure, although no agreement
 exists on whether gods answer the claim or are themselves enduring workings of
 immense scope. Transcendence and Anti-Magic disclose the outer problem: a magician
-can alter the conditions under which magic is possible, not merely cast within
-them.
+can cast within the conditions that make magic possible, then alter those
+conditions.
 
 The master knows that no common grammar is neutral. To suppress all magic is to
 make a colossal magical claim about what the world may answer. To transcend a
@@ -633,7 +635,7 @@ buried listener.
 
 Raise Land, Repurpose, and Way of the Mountain teach that terrain and artifact
 are structures of regional scale whose settlements include travel, water, ownership,
-burial, and memory. Raising a hex does not merely move soil. It changes every
+burial, and memory. Raising a hex moves soil and changes every
 future path and watershed that will treat the elevation as fact. Instability is
 the land continuing to remember the former load.
 
@@ -882,7 +884,7 @@ commanded and cannot place themselves wholly outside the system.
 
 ## Ice Affinity: The Doctrine of Arrested Motion
 
-Ice druids teach that winter is not merely absent heat. It is the world's power
+Ice druids teach that winter is the world's power
 to slow negotiation, preserve unfinished states, and make boundaries visible.
 Crystal, frost, and snow reveal motion by arresting it into structure.
 
@@ -1336,7 +1338,7 @@ the discarded future that now knows it was refused.
 
 ## Magnetism: The Doctrine of Directional Obligation
 
-Magnetists teach that objects do not merely possess location. They stand in
+Magnetists teach that location is only one property of an object. Objects stand in
 fields of preferred direction and relation: iron to pole, weight to ground,
 blood to body, weapon to hand, spell to target. Magnetism begins with iron
 because its obligations are strong and legible, then learns to address
@@ -1461,7 +1463,7 @@ strong enough to guarantee ownership.
 ### Rank 4 — A Caster Can Negotiate at the Veil
 
 Compel Demon, Demon Limb, Reshape Body, and Tear the Veil let the practitioner
-use Churmog not merely as material but as a counterparty. Literal commands work
+address Churmog as material and as a counterparty. Literal commands work
 because compulsion supplies force while the demon retains authorship of
 interpretation. Reshaping works quickly because mog recognizes no sacred prior
 form; the body's violent return shows that local continuity does.

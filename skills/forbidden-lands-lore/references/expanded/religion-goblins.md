@@ -2,7 +2,11 @@
 
 # Goblin Religion of the Ravenlands
 
-This reference develops goblin worship of Eor through moonlit movement, theft, hunting, cradles, halfling kinship, deception, and resistance to Penita reunion. Eor, the divided kin, and cradle customs are manuscript facts. Detailed rites are grounded setting inference.
+This reference begins with Eor in moonlit movement, theft, and hunting. Cradles
+bind that worship to halfling kinship. Deception protects both, while resistance
+to Penita reunion gives the faith its public edge. Eor, the divided kin, and
+cradle customs are manuscript facts. Detailed rites are grounded setting
+inference.
 
 ---
 
@@ -91,16 +95,18 @@ Eor's monthly turning teaches that possession, face, camp, and advantage change.
 A thing held now may have another claimant tomorrow. Goblins distrust laws that
 freeze one person's good fortune into permanent right.
 
-This does not abolish ownership. Wolves, weapons, stored food, routes, sleeping
-places, and promises all have recognized claims. Goblin ownership depends upon
-use, defense, exchange, memory, and the ability to answer another claimant. A
+This does not abolish ownership. Wolves and weapons have recognized claims. So
+do stored food and routes. Sleeping places carry claims because promises were
+made over them. Goblin ownership depends upon use and defense, exchange and
+memory, and the ability to answer another claimant. A
 locked chest left untouched for twenty years proves a lock, not a moral truth.
 
 ## Religious Authority
 
-Bands recognize moon-shamans, cradle keepers, hunt leaders, wolf handlers,
-story keepers, and people skilled at dividing stolen goods without dividing
-the band. Authority changes with the task.
+Bands recognize moon-shamans and cradle keepers. Hunt leaders work beside wolf
+handlers; story keepers preserve their claims. A person who can divide stolen
+goods without dividing the band holds another kind of authority. Authority
+changes with the task.
 
 A shaman who reads Eor but cannot find shelter before dawn is incomplete. A
 hunter who brings prey but starts a feud no one can escape is judged through
@@ -118,8 +124,9 @@ checked while light remains tolerable. The first moon-view belongs to whoever
 stood the day watch, an uncomfortable post that brings poor sleep and physical
 pain.
 
-At **Opening the Night**, that watcher reports tracks, smoke, voices, birds,
-weather, and every object moved while others slept. The band then decides what
+At **Opening the Night**, that watcher reports tracks and smoke. Voices or
+disturbed birds reveal movement; weather explains some signs. The watcher then
+names every object moved while others slept. The band then decides what
 face it presents: hunter, courier, trader, raider, pilgrim, or absence.
 
 Dark moon favors concealment, full moon distance and fast movement. Neither is
