@@ -11,6 +11,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- **`/forbidden-lands-lore` — magical metaphysics and path doctrine.** Added a
+  coherent model of Willpower as intention forged through suffering, with
+  practical laws for ingredients, grimoires, rituals, overcharge, mishaps,
+  corruption, and Epic Magic. Players and GMs now have Rank 1–5 knowledge for
+  Common Spellcraft and every magical path, including the tested truths,
+  consequences, and doctrinal contradictions revealed by greater mastery.
+
 - **`/forbidden-lands-lore` — demons, mog, and Churmog.** Added a
   full-spoiler GM study of demonic metaphysics, ether, nexuses, demon bodies,
   hierarchy, concealment, inter-demon politics, investigation, mog countercraft,

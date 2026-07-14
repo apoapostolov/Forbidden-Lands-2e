@@ -22,6 +22,7 @@ Free League canon.
 | --- | --- |
 | Households, villages, authority, law, hospitality, kin, burial, labor, and festivals | [Society and Daily Life](society-and-daily-life.md) |
 | Blood Mist conditioning, trust, kin identity, grief, trauma, magic, and recovery | [Psychology and Social Character](psychology-and-social-character.md) |
+| Willpower, suffering, casting metaphysics, and Rank 1–5 doctrine for every magical path | [Magic, Suffering, and the Doctrines of the Paths](magic-metaphysics-and-path-doctrines.md) |
 | Demons, mog, Churmog, binding, parley, countercraft, and Merigall's full GM profile | [Demons, Mog, Churmog, and Merigall](demons-mog-churmog-and-merigall.md) — **full campaign spoilers; apply the lore-skill spoiler gate before loading** |
 | Religion routing, claim levels, shared powers, and cross-kin practice | [Religion Reference Index](religions-rites-beliefs-and-anathemas.md) |
 | Raven and Wyrm, human churches and heresies, Older Gods, rites, dogmas, and anathemas | [Human Religions](religion-humans.md) |

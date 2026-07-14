@@ -21,13 +21,14 @@ They are the default sources for general Ravenlands questions:
 ## Custom Expanded Lore
 
 `expanded/` contains Apostol Apostolov's generic, campaign-created expansions
-to Forbidden Lands society, psychology, religion, and culture. These references
-may combine published canon, grounded inference, local belief, historical
-models, community theory, and established personal campaign lore. They are not
-limited to a single published campaign even where their inherited titles refer
-to the Ravenlands. Start with `expanded/INDEX.md` for topic routing and claim
-levels. The full-spoiler demonology and Merigall study also lives in this layer;
-apply the spoiler gate in `../SKILL.md` before loading it.
+to Forbidden Lands society, psychology, religion, culture, and magical
+metaphysics. These references may combine published canon, grounded inference,
+local belief, historical models, community theory, and established personal
+campaign lore. They are not limited to a single published campaign even where
+their inherited titles refer to the Ravenlands. Start with `expanded/INDEX.md`
+for topic routing and claim levels. The path-by-path magic doctrine is
+non-spoiler expanded lore. The full-spoiler demonology and Merigall study also
+lives in this layer; apply the spoiler gate in `../SKILL.md` before loading it.
 
 Preserve this corpus at full depth and in its existing academic-for-AI voice.
 Do not summarize, normalize, or silently replace personal lore with canon-only

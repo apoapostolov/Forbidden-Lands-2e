@@ -118,6 +118,13 @@ level applies.
 - `references/expanded/psychology-and-social-character.md`
   Blood Mist conditioning, trust, kin identity, grief, trauma, magic, and
   recovery.
+- `references/expanded/magic-metaphysics-and-path-doctrines.md`
+  Non-spoiler magical metaphysics grounded in Chapter 07: Willpower as intention
+  that survives suffering, the shared structure of a working, ingredients,
+  grimoires, rituals, overcharge, mishaps, corruption, Epic Magic, and Rank 1–5
+  knowledge for Common Spellcraft and every named magical path. Load it when a
+  task asks how magic works in the world, what practitioners understand at a
+  given rank, or how path doctrines agree and contradict one another.
 - `references/expanded/demons-mog-churmog-and-merigall.md`
   Full-spoiler GM study of demons across Books 01–03 and **Raven's Purge**.
   Covers mog and Churmog metaphysics, ether and nexuses, demon families,
