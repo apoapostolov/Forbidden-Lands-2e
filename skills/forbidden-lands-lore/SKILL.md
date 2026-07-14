@@ -123,6 +123,17 @@ level applies.
 - `references/expanded/psychology-and-social-character.md`
   Blood Mist conditioning, trust, kin identity, grief, trauma, magic, and
   recovery.
+- `references/expanded/power-factions-and-post-mist-rule.md`
+  The lived institutions beneath faction procedure: households and villages as
+  political bodies, eight grounds of rule, seats, oaths, tribute, hostages,
+  charters, judgment, information, faction forms, kin political traditions,
+  succession, feud, occupation, resistance, and adventurers inside political
+  life.
+- `references/expanded/magic-in-society.md`
+  The social life surrounding every magical discipline: discovery of talent,
+  teachers, apprenticeship, ranks, grimoires, ingredient supply, Willpower,
+  casting modes, mishap responsibility, magical labor, consent, law, religious
+  and political authority, post-Mist transmission, and caster households.
 - `references/expanded/magic-metaphysics-and-path-doctrines.md`
   Non-spoiler magical metaphysics grounded in Chapter 07: Willpower as intention
   that survives suffering, the shared structure of a working, ingredients,
@@ -130,6 +141,22 @@ level applies.
   knowledge for Common Spellcraft and every named magical path. Load it when a
   task asks how magic works in the world, what practitioners understand at a
   given rank, or how path doctrines agree and contradict one another.
+- `references/expanded/regions-landscape-and-seasonal-life.md`
+  A non-gazetteer regional model joining ground, water, route, season, labor,
+  memory, settlement form, kin practice, sacred geography, and hospitality.
+  Covers spring through winter, major landscape families, broad western,
+  central, eastern, and northern Ravenlands patterns, border country, and a
+  procedure for building lived regions.
+- `references/expanded/war-raiding-occupation-and-aftermath.md`
+  The social and material world beneath faction and battle procedure: campaign
+  preparation, muster, military households, supply, camps, scouts, raids,
+  sieges, magical warfare, surrender, plunder, restraint, occupation,
+  displacement, veterans, burial, hunger, broken works, and reconstruction.
+- `references/expanded/monsters-as-neighbors-and-contracts.md`
+  Long-term relations with creatures beyond isolated combat: territory,
+  appetite, Lore, offerings, tribute, contracts, mediation, enforcement,
+  breach, creature-specific forms of coexistence, monster economies,
+  exploitation, protection, rule, removal, and the vacancy left afterward.
 - `references/expanded/demons-mog-churmog-and-merigall.md`
   Full-spoiler GM study of demons across Books 01–03 and **Raven's Purge**.
   Covers mog and Churmog metaphysics, ether and nexuses, demon families,

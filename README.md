@@ -48,6 +48,10 @@ From `1.0.0` through `1.1.3`, this edition brings together the additions that tu
   campaign design, supplement architecture, adversarial balance testing,
   medieval authenticity, lore continuity, manuscript voice, and monster-driven
   situations.
+- Apostol Apostolov's expanded Ravenlands setting library, with full-scale
+  references for political rule, magical institutions, seasonal regional life,
+  war and reconstruction, and long-term contracts or conflicts between
+  settlements and monsters.
 - A larger bestiary with new monsters, humanoid enemy bands, encounters, legends, and salvage.
 - Full faction play and political campaign rules with territory, pressure, recovery, and long-term consequences.
 - A mass combat system for wars, field battles, sieges, blockade, breach, and relief.
@@ -100,7 +104,7 @@ Only carry over the *Forbidden Lands* skills you actually need:
 | `yze-design` | Build a new Year Zero Engine game for any genre; invent, transplant, and stress-validate mechanics from proven YZE primitives |
 | `forbidden-lands-bestiary` | Mechanically native monsters, discoverable weaknesses, Lore Rolls, encounter situations, legends, ecology, and salvage |
 | `forbidden-lands-design` | Integrated rules and supplements, player psychology, sandbox procedures, freeform play, playtesting, and campaign mechanics |
-| `forbidden-lands-lore` | Canon, chronology, places, kin, factions, religion, regional consistency, and playable information |
+| `forbidden-lands-lore` | Canon, chronology, places, kin, factions, religion, regional life, magical institutions, war, monster relations, and playable information |
 | `forbidden-lands-medieval-authenticity` | Material life, logistics, settlements, customary law, violence, care, barter, labor, and responsible realism |
 | `forbidden-lands-synergy-analysis` | Dominant builds, stacking, narrative authority, spotlight, niche protection, loopholes, and campaign-pressure bypasses |
 | `forbidden-lands-writing-voice` | Clear rules, usable GM guidance, examples, unresolved sandbox situations, fiction, and manuscript register |

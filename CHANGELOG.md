@@ -97,6 +97,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   household practice, religious law, selective punishment, knowledge seizure,
   and demonic secrecy.
 
+- **`/forbidden-lands-lore` — lived Ravenlands campaign systems.** Added
+  full-depth references for post-Mist rule and faction life, magic as a social
+  institution, regional and seasonal identity, war through occupation and
+  reconstruction, and the bargains, tribute, ecology, and political vacancies
+  created by monsters living beside settlements. Players and GMs can now trace
+  these systems through households, roads, work, law, memory, and lasting
+  sandbox consequences rather than treating them as isolated encounters.
+
 - **`/forbidden-lands-medieval-authenticity` — Bitter Reach society and
   custom.** Added references for daily life, trade, guest law, religion,
   trauma, violence, care, thralldom, and outlawry in the frozen north.

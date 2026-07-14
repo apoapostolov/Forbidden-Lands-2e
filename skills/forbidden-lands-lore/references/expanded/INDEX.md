@@ -24,6 +24,11 @@ Free League canon.
 | Subsistence, farmsteads, villages, ruin-towns, barter, old silver, trade, stronghold communities, and the lived use of every stronghold function | [Economy, Exchange, and Stronghold Life](economy-exchange-and-stronghold-life.md) |
 | Blood Mist conditioning, trust, kin identity, grief, trauma, magic, and recovery | [Psychology and Social Character](psychology-and-social-character.md) |
 | Willpower, suffering, casting metaphysics, and Rank 1–5 doctrine for every magical path | [Magic, Suffering, and the Doctrines of the Paths](magic-metaphysics-and-path-doctrines.md) |
+| Households under rule, grounds of authority, faction forms, kin politics, succession, feud, occupation, resistance, and political play | [Power, Factions, and Post-Mist Rule](power-factions-and-post-mist-rule.md) |
+| Magical talent, teachers, apprenticeship, ranks, grimoires, ingredients, payment, consent, mishaps, law, and the social place of every discipline | [Magic in Ravenlands Society](magic-in-society.md) |
+| Seasonal life, forests, waters, uplands, coasts, ruins, western through northern regional patterns, settlement forms, routes, and hospitality | [Regions, Landscape, and Seasonal Life](regions-landscape-and-seasonal-life.md) |
+| Muster, levy, logistics, camps, raiding, battle, siege, magical war, surrender, occupation, displacement, veterans, famine, and reconstruction | [War, Raiding, Occupation, and Aftermath](war-raiding-occupation-and-aftermath.md) |
+| Monster territories, appetites, bargains, tribute, witnesses, breach, creature-specific relations, monster economies, rule, removal, and ecological vacancy | [Monsters as Neighbors, Claimants, and Parties to Contracts](monsters-as-neighbors-and-contracts.md) |
 | Demons, mog, Churmog, binding, parley, countercraft, and Merigall's full GM profile | [Demons, Mog, Churmog, and Merigall](demons-mog-churmog-and-merigall.md) — **full campaign spoilers; apply the lore-skill spoiler gate before loading** |
 | Religion routing, claim levels, shared powers, and cross-kin practice | [Religion Reference Index](religions-rites-beliefs-and-anathemas.md) |
 | Raven and Wyrm, human churches and heresies, Older Gods, rites, dogmas, and anathemas | [Human Religions](religion-humans.md) |
