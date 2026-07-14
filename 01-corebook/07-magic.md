@@ -1171,6 +1171,7 @@ Druids who practice Awareness can see what others cannot see, hear what others c
 | Farsight            | 2    |
 | Portent             | 2    |
 | Predict Moves       | 2    |
+| Speak to the Wind   | 2    |
 | True Path           | 2    |
 | Visions of the Past | 2    |
 | Divination          | 3    |
@@ -1230,6 +1231,19 @@ You can use this spell to foresee your next attack. Add 3 dice per Power Level t
 ✦ **INGREDIENT**: Funnel or sea shell
 
 You can enhance your hearing magically and hear specific sounds up to _distant_ range as clearly as if you stood right where they emanate from. You must see the place to which you direct your hearing.
+
+#### SPEAK TO THE WIND
+
+✦ **RANK** 2
+✦ **RANGE**: Unlimited, within the same world
+✦ **DURATION**: Immediate
+✦ **INGREDIENT**: A feather released into the air
+
+You picture one person whom you have observed long enough to remember as a living presence. About one hour of direct observation is normally sufficient. If the view was intermittent, obscured, disguised, or otherwise uncertain, the GM may require that you have observed the person for up to a Quarter Day. You do not need to know the person's name.
+
+Speak a message of no more than two long sentences, using no more than two breaths. The wind carries the words in your voice and delivers them to the imagined person's ears. The recipient hears the message if they are conscious, able to hear, and in the same world as you. No one else hears the carried voice. The spell does not tell you where the recipient is, whether the message arrived, or what they did after hearing it.
+
+The recipient cannot answer through this spell. To answer at a distance, they must cast SPEAK TO THE WIND themselves and must separately meet its familiarity requirement for you.
 
 #### COMPEL TRUTH
 
