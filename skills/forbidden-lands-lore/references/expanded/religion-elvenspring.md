@@ -2,9 +2,9 @@
 
 # Elvenspring Religions of the Ravenlands
 
-This reference begins with Clay and the Shardmaiden. It follows Wail and Flow
-into Raven worship and the land gods. Mixed descent and mortal time shape the
-rest. Named powers, orders, and kin history are manuscript facts. Detailed
+Clay and the Shardmaiden, Wail and Flow, Raven worship, and land gods all enter
+Elvenspring religious life. Mixed descent and mortal time shape how those powers
+are served. Named powers, orders, and kin history are manuscript facts. Detailed
 rites are grounded setting inference unless identified as local practice.
 
 ---
@@ -26,8 +26,8 @@ living relation altered by the act.
 
 Clay doctrine holds that form carries memory. A scar shows adaptation. A path
 shows repeated feet. A worked field holds human intention and the soil's answer.
-The dogma can produce care or arrogance. Druids who believe they read the true
-form of a place may ignore the people living there.
+The same dogma may make a careful steward or an arrogant one. Druids who believe
+they read the true form of a place may ignore the people living there.
 
 ### Clay, Soil, and Maha
 
@@ -54,8 +54,8 @@ would imply no room for learning.
 
 **Returning the Shape** accompanies death, release, and the end of a living
 arrangement. An unfired likeness is softened in water and pressed into soil.
-The rite does not claim that the person vanishes. It returns fixed likeness to
-materials other lives can use.
+The rite returns fixed likeness to materials other lives can use without
+claiming that the person vanishes.
 
 **The Necessary Cut** authorizes culling. The druid names the population,
 disease, hunger, or imbalance requiring death, then kills the selected animal
@@ -113,10 +113,9 @@ body, not a speech.
 
 **Walking the Bough** is a Golden Bough survey. Druids follow a set path through
 forest and settlement. They record births and disease, predation and felling,
-and changes in water or fire. The same route repeated
-over years lets change become evidence. A
-missing fox litter or new charcoal pit matters more than an omen invented at
-the shrine.
+and changes in water or fire. The same route repeated over years lets change
+become evidence. A missing fox litter or new charcoal pit matters more than an
+omen invented at the shrine.
 
 **The Green Judgment** hears accusations that a druidic act injured the land or
 people under care. Non-druids may testify. Elves sometimes delay judgment long
@@ -150,9 +149,9 @@ teaching she is the Protector's wife and bears birds through the sky. Other
 traditions make her older than the human gods and indifferent to their
 marriages.
 
-Wind cannot be stored, fenced, or ordered to return. Wail therefore governs
-movement without ownership: weather, breath, rumor, migrating birds, scent,
-song carried beyond its singer, and words sent where the speaker cannot follow.
+Wind cannot be stored, fenced, or ordered to return. Wail governs movement
+without ownership: weather, breath, rumor, migrating birds, scent, song carried
+beyond its singer, and words sent where the speaker cannot follow.
 Her faithful distrust claims that something moving can be possessed merely
 because it crossed one's land.
 
@@ -205,15 +204,15 @@ and goblins who cross such water know that a human prayer to Flow may be a poor
 substitute for a pole.
 
 Flow is honored by elves, Elvenspring, villages, and the Raven Church. Her faith
-joins practical water care to purification. Cleanliness is not mere moral
-symbol. A fouled well kills. A blocked channel floods seed. A spring controlled
-by one household can govern a village.
+joins practical water care to purification. Cleanliness carries bodily
+consequence as well as moral meaning. A fouled well kills. A blocked channel
+floods seed. A spring controlled by one household can govern a village.
 
 ### Daily Faith
 
 The first drawn water is inspected before it is offered. Smell, color, insects,
 sediment, and the behavior of animals matter. Pouring bad water at a shrine does
-not make it pure; it shows that the worshipper has failed to attend.
+not make it pure. It shows that the worshipper has failed to attend.
 
 Households set aside different vessels for drinking, washing wounds, brewing,
 and unclean work where resources permit. The distinction is preached as Flow's
@@ -262,14 +261,14 @@ by assuming one god has sole jurisdiction.
 ## Duty within Mortal Time
 
 Elvenspring worship Clay and the Shardmaiden, honor land gods, and often respect
-Raven. Their religious problem is time. They live longer than humans and die
-far sooner than elves. Every tradition offers them a different measure of when
-work is finished.
+Raven. Their faith must answer time. They live longer than humans and die far
+sooner than elves. Every tradition offers them a different measure of when work
+is finished.
 
 An Elvenspring household may keep a three-part memorial: clay for what the dead
 made, a feather for promises carried among humans, and a seed or green branch
-for duties left to druids. None is a complete account. The combination states
-that mixed descent creates obligations rather than spiritual impurity.
+for duties left to druids. No one part gives a complete account. Together they
+state that mixed descent creates obligations rather than spiritual impurity.
 
 The common anathema is abandonment disguised as patience. An Elvenspring who
 delays a mortal need because an elf considers a decade brief is judged to have
@@ -281,8 +280,8 @@ either sermon cleanly.
 
 Elvenspring can remember several human generations and still know that an elf
 may outlive every body of their line. Their religion cannot borrow human urgency
-or elven patience without cost. Time is the condition under which every vow is
-interpreted.
+or elven patience without cost. Every vow is heard against those unequal
+lifetimes.
 
 A promise to guard a place “until the danger passes” may consume an Elvenspring
 life and remain brief to the elf who requested it. A human office passed from
@@ -409,8 +408,8 @@ answer that long-lived orders hoard power until mortal needs have passed.
 
 Their religious practice often treats one life as the only honest measure.
 Blood proves a cost paid now. The dead are witnesses who cannot be postponed
-through elven procedure. This doctrine can expose complacency and justify
-using bodies, descendants, or spirits as resources.
+through elven procedure. The doctrine can expose complacency. It can also
+justify using bodies, descendants, or spirits as resources.
 
 A Frailer household may keep no unfired figures. Claims are written, scarred,
 buried, or bound into durable objects. Reversibility is treated as weakness.
@@ -562,10 +561,10 @@ creates work future keepers may refuse. Every judgment therefore names who may
 end or alter it.
 
 Mixed jurisdiction can protect the weak by giving them another authority to
-approach. It can also let every authority send them elsewhere. A pregnant human
-at a druidic shrine, an orc apprentice under Raven oath, or a Misgrown patient in
-a Maiden camp may discover that everyone claims principle and no one supplies a
-bed.
+approach. The same division can let every authority send them elsewhere. A
+pregnant human at a druidic shrine, an orc apprentice under Raven oath, or a
+Misgrown patient in a Maiden camp may discover that everyone claims principle
+and no one supplies a bed.
 
 ## Property, Gifts, and the Work of Stewardship
 
@@ -633,10 +632,10 @@ people whose consent was obtained under immediate need.
 
 ## Evidence at the Table
 
-Show Elvenspring belief through damp clay beside a fired tablet, a vow carrying
-three different time limits, an elf's delayed answer arriving after a funeral,
-or a Maiden whose demon hunt left a village druid maintaining every ordinary
-duty she set aside.
+At the table, show Elvenspring belief through damp clay beside a fired tablet, a
+vow carrying three different time limits, an elf's delayed answer arriving after
+a funeral, or a Maiden whose demon hunt left a village druid maintaining every
+ordinary duty she set aside.
 
 Religious conflict should concern time, custody, mixed authority, the cost of
 change, and who bears the interval between an immortal decision and a mortal

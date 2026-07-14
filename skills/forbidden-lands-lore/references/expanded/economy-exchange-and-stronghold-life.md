@@ -56,16 +56,16 @@ compulsory maintenance rolls.
   functions produce defined resources, and towns are uncommon.
 - **Established campaign lore:** Ravenland has no known operating silver mine.
   Its silver is old Alder War money. Coins return to circulation worn or
-  clipped; others are hoarded, lost, and found again. Apostol Apostolov's
+  clipped. Others are hoarded, lost, and found again. Apostol Apostolov's
   campaign treats this as the ordinary source of circulating silver.
 - **Historical model:** Household production and mixed subsistence answer most
-  needs close to home. Witnessed measures and payment in kind support exchange;
-  reciprocal labor and seasonal markets extend it. Stores remain under personal
+  needs close to home. Witnessed measures and payment in kind support exchange.
+  Reciprocal labor and seasonal markets extend it. Stores remain under personal
   authority.
 - **Setting inference:** Ten generations without dependable travel make local
   measures and household memory unusually strong. Local debts and salvage
   rights depend upon both. Five years of open roads have made strangers and
-  tolls disruptive; portable coin and distant market information disturb old
+  tolls disruptive. Portable coin and distant market information disturb old
   bargains as well.
 
 The settlement tables can produce a silver mine. In Ravenland, treat that
@@ -109,7 +109,7 @@ fact that the miller's father owes help at harvest belongs to the household as
 well.
 
 Very little household wealth is idle. The axe preserves next winter's heat.
-The cow turns summer grass into milk and dung. Calves follow; hide and meat come
+The cow turns summer grass into milk and dung. Calves follow. Hide and meat come
 later. A bronze
 cauldron saves fuel because it hangs properly over the fire. Selling any of
 these for silver may solve today's debt by cutting into next season's work.
@@ -144,7 +144,7 @@ Economic time follows the eight phases rather than an abstract annual account.
 - **Springwane:** Plough and sow. Move stock onto grazing. Fish runs, greens,
   eggs, and the first milk loosen the last hunger of winter.
 - **Summerrise:** Weed, hay, build, quarry, cut timber, burn charcoal, travel,
-  and repair roads. Daylight is long; so is the list of work.
+  and repair roads. Daylight is long. So is the list of work.
 - **Summerwane:** Store hay and firewood. Shear, preserve, brew, and finish work
   that must dry before rain. Traders move while tracks still hold.
 - **Fallrise:** Harvest grain, flax, fruit, roots, and nuts. Every able hand is
@@ -173,7 +173,7 @@ Reputation can still enforce agreements.
 
 **Beyond a safe return:** Strangers and caravans use old roads or river traffic.
 Distant priests, mercenaries, and rare crafts belong to this range. Portable
-silver becomes useful. Hostages or written marks support trust; witnesses,
+silver becomes useful. Hostages or written marks support trust. Witnesses,
 advance payment, and guarded cargo support it further.
 
 The Blood Mist almost destroyed the third distance. Its return is the great
@@ -231,10 +231,10 @@ available tomorrow.
 
 A hamlet coordinates work that one household cannot sustain. A village can
 keep a mill, smith, shrine, communal store, ferry, palisade, or specialist
-craft. This creates efficiency and dependency together. The mill saves days of
-hand grinding, so whoever controls it can demand a share. A common bull improves
-stock, so its owner has a voice in breeding arrangements. A well saves labor,
-so poisoning or monopolizing it threatens every roof.
+craft. Shared work saves labor and binds households to whoever controls it. The
+mill saves days of hand grinding, so its keeper can demand a share. A common
+bull improves stock, so its owner has a voice in breeding arrangements. A well
+saves labor, so poisoning or monopolizing it threatens every roof.
 
 Village exchange runs through recurring relationships. The carpenter repairs a
 door now because the household will help lift his roof beam later. A widow's
@@ -368,9 +368,9 @@ would command high prices. Access, relationship, memory, and permission are the
 scarce goods.
 
 **Grindbone** is a market built around coercion, theft, milling, brewing, and
-captivity. People are priced there. That does not make the trade ordinary or
-morally neutral; it means every cheap product may conceal stolen labor, and
-every skilled stranger has reason to fear being appraised.
+captivity. People are priced there. Its trade remains coercive and morally
+corrupt: every cheap product may conceal stolen labor, and every skilled
+stranger has reason to fear being appraised.
 
 ---
 
@@ -378,11 +378,12 @@ every skilled stranger has reason to fear being appraised.
 
 ### Barter Is Rarely a Single Swap
 
-Direct barter works when both sides want what the other has at the same time.
-More often, exchange is delayed. A household gives grain now and receives help
-with a roof later. A smith repairs a plough because the farmer supplies
-charcoal, food, and a son to work the bellows. An innkeeper accepts a pelt from
-a known hunter because the tanner will take it after market day.
+A household gives grain now and receives help with a roof later. Most exchange
+is delayed in this way. A single direct barter works only when both sides want
+what the other has at the same time. A smith repairs a plough because the
+farmer supplies charcoal, food, and a son to work the bellows. An innkeeper
+accepts a pelt from a known hunter because the tanner will take it after market
+day.
 
 Such exchange needs memory and witnesses. People remember quantity, quality,
 urgency, and conduct. A sack given in famine is not equal to a sack returned
@@ -421,8 +422,8 @@ obligation may hear the coin placed on the table as a refusal of kinship.
 Most Ravenland silver predates the Blood Mist or descends from caches made
 before and during the Alder Wars. The coins bear rulers, beasts, temples, and
 inscriptions no living human administration reliably guarantees. Faces wear
-flat. Edges are clipped. Some pieces have been cut to make smaller payments;
-some have plugs, solder, or suspicious color beneath the surface.
+flat. Edges are clipped. Some pieces have been cut to make smaller payments.
+Others have plugs, solder, or suspicious color beneath the surface.
 
 People therefore judge three things:
 
@@ -463,7 +464,7 @@ expects the goat and the farm.
 ### Cultural Tendencies
 
 **Alderlander practice** favors written tallies, named prices, tolls, fines,
-measures, and explicit debt. The paper never enforces itself; witnesses, armed
+measures, and explicit debt. The paper never enforces itself. Witnesses, armed
 authority, and repeated access give it force.
 
 **Aslene practice** often reckons wealth through horses, herds, riding gear,
@@ -487,10 +488,10 @@ Never make one human village custom the economy of every kin.
 ### A Market Is a Time and a Guarantee
 
 A market can be a row of stalls, a cleared yard, a bridge approach, or the open
-space before a shrine. Its deeper function is agreement: weapons remain bound,
-measures can be challenged before witnesses, stolen goods may be identified,
-and outsiders know whom to approach. The authority that keeps market peace
-earns fees, reputation, and enemies.
+space before a shrine. For the hours it remains open, people accept the same
+peace: weapons stay bound, witnesses hear challenges to measures, stolen goods
+can be identified, and outsiders know whom to approach. The authority that
+keeps this peace earns fees, reputation, and enemies.
 
 Market day gathers what is otherwise dispersed. Farmers bring a small surplus.
 Craftspeople take orders. Hawkers compare shortages. Priests collect. Suitors
@@ -555,9 +556,10 @@ Resources become wealth only when the next link exists.
 - Clay needs digging, temper, shaping, drying, fuel, and a firing that may ruin
   the whole batch.
 
-The most valuable stronghold improvement is often the missing middle. A dairy
-does not create more cows; it stops today's milk from becoming tonight's loss.
-A granary does not grow grain; it keeps the harvest alive until it is needed.
+The most valuable stronghold improvement is often the missing middle. The herd
+sets the milk yield. A dairy stops today's milk from becoming tonight's loss.
+The harvest sets the grain yield. A granary keeps that harvest alive until it
+is needed.
 
 ### Who Owns the Surplus
 
@@ -651,12 +653,12 @@ The third is the least visible and the hardest to repair.
 
 ### A Weekly Stronghold Rhythm
 
-The rule that upkeep consumes daily attention and a weekly CRAFTING check
-represents many small acts: clearing gutters, replacing pegs, sweeping chimneys,
-checking hinges, turning stores, patching roofs, scouring vessels, carrying ash,
-watching for rot, and listening for water where no water should be. A HANDYMAN
-does not perform all of this alone. The handyman notices, assigns, reminds, and
-finishes what everyone else hoped would wait.
+The daily attention and weekly CRAFTING check required for upkeep cover many
+small acts: clearing gutters, replacing pegs, sweeping chimneys, checking
+hinges, turning stores, patching roofs, scouring vessels, carrying ash, watching
+for rot, and listening for water where no water should be. A HANDYMAN does not
+perform all of this alone. The handyman notices, assigns, reminds, and finishes
+what everyone else hoped would wait.
 
 When upkeep fails, use one physical sign before applying a consequence. A roof
 drips onto flour. Rats leave black grains beside the candles. A gate binds in
@@ -677,7 +679,7 @@ right joint before the lifting crew arrives, the right drainage before rain.
 
 Every project has an opportunity cost. Quarry workers on a road are absent from
 the quarry. Oxen hauling stone are not ploughing. A forge making nails is not
-repairing weapons. The Game Master need not count each lost hour; show the
+repairing weapons. The Game Master need not count each lost hour. Show the
 choice when it becomes politically or seasonally important.
 
 ### Materials Remember Their Source
@@ -700,7 +702,7 @@ whether it remains habitable. Maintenance is intimate: every leak lands on
 someone's bedding or stores.
 
 **Tower.** A tower concentrates defense, status, stairs, smoke, and damp into a
-small footprint. Building requires skilled lifting and sound foundation; living
+small footprint. Building requires skilled lifting and sound foundation. Living
 there means carrying water and fuel upward and waste downward.
 
 **Stone house.** The walls last longer than the roof, doors, shutters, and
@@ -712,12 +714,12 @@ and access routes. Maintenance follows animals and season rather than the
 building alone.
 
 **Rough palisade.** Felling and hauling dominate the work. Wet posts are driven
-close, braced, and joined into a quick claim of safety; from then on the
+close, braced, and joined into a quick claim of safety. From then on the
 settlement watches fire and the hidden rot where wood enters soil.
 
 **Reinforced palisade.** More timber and earth deepen the first enclosure.
-Bracing, fighting walks, and a worked gate turn it into a defensible system;
-hides may shield exposed timber. The stronger wall takes more people from
+Bracing, fighting walks, and a worked gate turn it into a defensible system.
+Hides may shield exposed timber. The stronger wall takes more people from
 fields and woods whenever weather or attack opens it.
 
 **Stone wall.** The wall begins at quarry and cart road long before a mason lays
@@ -730,7 +732,7 @@ problem is coordination: gates, watch, fuel, sanitation, stores, and repair must
 answer to one schedule.
 
 **Fortress.** A fortress consumes food and labor from beyond its walls. Empty
-rooms do not defend themselves; each gate, stair, roof, cistern, and wall walk
+rooms do not defend themselves. Each gate, stair, roof, cistern, and wall walk
 adds inspection and another place where divided authority can hide neglect.
 
 **Castle.** A castle is a settlement under one defensive design. Kitchens,
@@ -751,7 +753,7 @@ bridge can look serviceable until a loaded cart finds the one member no one
 inspected.
 
 When repair fails beyond recovery, salvage what can be used. Stone and iron
-often return to stock after labor. Sound timber returns as timber; rotten or
+often return to stock after labor. Sound timber returns as timber. Rotten or
 badly broken wood becomes fuel. People remember who argued for the cheap repair
 and who was beneath it when it fell.
 
@@ -759,12 +761,11 @@ and who was beneath it when it fell.
 
 ## The Stronghold Functions in Lived Use
 
-The entries follow the function names in Book 01. They do not replace the
-listed requirements, materials, times, staff, yields, or effects. Construction
-crews below are campaign estimates for imagining the work. They do not shorten
-the listed construction time or grant extra CRAFTING rolls. A crew assumes the
-function's builder or responsible specialist, with the remaining hands doing
-ordinary hauling, digging, lifting, and preparation.
+Book 01 supplies each function's requirements, materials, times, staff, yields,
+and effects. The entries below retain those values. Their construction crews
+are campaign estimates for imagining the work. They neither shorten the listed
+time nor grant extra CRAFTING rolls. Each crew includes the builder or
+responsible specialist. The other hands haul, dig, lift, and prepare.
 
 The **keep** line names the people required for the function to remain useful.
 This is separate from general stronghold upkeep. A HANDYMAN can patch a roof or
@@ -849,7 +850,7 @@ called through wages, household duty, reciprocal labor, or the promise of food.
   then churned or set, pressed, salted, drained, and carried to cool storage.
   Cloths and vessels are scrubbed before evening milk begins the work again.
 - **Ravenland:** Cheese turns a herd's brief summer plenty into winter food and
-  travel provision. Whey may feed children, servants, or pigs; who receives it
+  travel provision. Whey may feed children, servants, or pigs. Who receives it
   reveals more about the household than its table manners.
 
 #### Field
@@ -864,7 +865,7 @@ called through wages, household duty, reciprocal labor, or the promise of food.
   moisture. At harvest, adults cut and bind while children glean and carry.
   Everyone watches the sky because one wet week can undo a season.
 - **Ravenland:** A field is a declaration that the Blood Mist will not return
-  and drive everyone indoors. It also binds the stronghold to Fallrise; leaving
+  and drive everyone indoors. It also binds the stronghold to Fallrise. Leaving
   for an expedition then means hiring hands or accepting loss.
 
 #### Garden
@@ -965,7 +966,7 @@ called through wages, household duty, reciprocal labor, or the promise of food.
   an orchard over the listed week. Fencing and tree guards may take longer than the
   planting. Fruit worth counting comes years later.
 - **Keep:** One farmer prunes, grafts, mulches, and watches disease. Two helpers
-  are useful for pruning; many baskets and hands are needed when fruit ripens
+  are useful for pruning. Many baskets and hands are needed when fruit ripens
   together. Young trees need winter guards against deer and hare.
 - **Working day:** Most days are inspection rather than harvest. The keeper
   checks bark, ties a graft, clears grass around roots, props a laden branch,
@@ -1040,7 +1041,7 @@ called through wages, household duty, reciprocal labor, or the promise of food.
   Stone country takes longer to gather but gives a fold that needs fewer new
   posts each spring.
 - **Keep:** One herder tends twelve sheep under the function's scale. Lambing
-  needs a second watcher; shearing brings four to six practiced hands for a
+  needs a second watcher. Shearing brings four to six practiced hands for a
   short, exhausting spell.
 - **Working day:** Sheep leave the fold at first light. The herder chooses
   grazing, checks eyes and feet, keeps the flock moving together, and returns
@@ -1243,7 +1244,7 @@ called through wages, household duty, reciprocal labor, or the promise of food.
   where long work can pass without striking a wall.
 - **Keep:** One bowyer or carpenter runs the function. An apprentice can prepare
   stock and maintain tools. Benches, clamps, edges, dry timber, glue, and the
-  stove need daily care; seasoned wood needs months of patience.
+  stove need daily care. Seasoned wood needs months of patience.
 - **Working day:** The craftsperson selects stock before cutting, roughs work in
   good light, and leaves glue or bent wood under pressure while repairing small
   tools. Closing means sweeping shavings away from flame and restoring each
@@ -1257,8 +1258,8 @@ called through wages, household duty, reciprocal labor, or the promise of food.
 #### Bridge
 
 - **Build:** One master carpenter or mason and eight to twelve laborers can
-  build a modest span. Foundations, abutments, and lifting need the full crew;
-  a long or flood-prone crossing can absorb every available cart and rope.
+  build a modest span. Foundations, abutments, and lifting need the full crew.
+  A long or flood-prone crossing can absorb every available cart and rope.
 - **Keep:** Two people should inspect after flood, thaw, and heavy traffic. One
   carpenter can replace deck boards, but scour beneath a pier or cracked
   masonry calls the original trade back with several laborers.
@@ -1307,7 +1308,7 @@ called through wages, household duty, reciprocal labor, or the promise of food.
   the ground before the first declared market day.
 - **Keep:** One market reeve or respected trader can oversee ordinary use. Two
   guards and two cleaners are prudent on market days. Sellers staff their own
-  stalls; the stronghold provides measures, order, and a place to settle fees.
+  stalls. The stronghold provides measures, order, and a place to settle fees.
 - **Working day:** Before dawn, stalls are assigned and standard measures set
   out. The reeve hears disputes while guards watch tethered beasts and purses.
   After closing, spoiled food and dung must leave before they poison the well.
@@ -1493,7 +1494,7 @@ called through wages, household duty, reciprocal labor, or the promise of food.
   in a day. A smith may fit brackets. The approach and viewing ground are part
   of the design because the structure exists to be seen.
 - **Keep:** No full-time staff is required. One executioner maintains rope and
-  mechanism; two guards keep the site on the day of sentence. Continued upkeep
+  mechanism. Two guards keep the site on the day of sentence. Continued upkeep
   means choosing to leave the gallows visible when unused.
 - **Working day:** Before an execution, the beam, knot, drop, platform, and route
   are tested in private. Afterward, the body and crowd must be dealt with, and
@@ -1508,13 +1509,13 @@ called through wages, household duty, reciprocal labor, or the promise of food.
   Foundations, stairs, roof, shutters, signal gear, and a clear field of view
   must all be completed before height becomes useful.
 - **Keep:** A tower needs at least three guards to cover day and night without
-  immediate exhaustion; four allow proper relief and sickness. The Handyman
+  immediate exhaustion. Four allow proper relief and sickness. The Handyman
   tends structure, but the guard captain maintains the watch schedule.
 - **Working day:** Each watch receives the horizon, gate state, signal method,
   and recent sightings from the last. Guards clear shutters, test horn or fire,
   scan known approaches, and record changes rather than merely staring outward.
 - **Ravenland:** Wind and rain attack the tower while repetition attacks the
-  guard. Its true maintenance is keeping an alarm credible after a hundred
+  guard. The captain's harder task is keeping an alarm credible after a hundred
   quiet nights and one joke sounded at the wrong hour.
 
 #### Moat
@@ -1527,7 +1528,7 @@ called through wages, household duty, reciprocal labor, or the promise of food.
   Mosquitoes and rot make neglect visible before the defense fails.
 - **Working day:** Workers clear inflow and outflow, cut reeds, pull rubbish,
   inspect banks for burrows, and measure where silt is rising. Dry moats need
-  reshaping; wet ones need moving water rather than a stagnant skin.
+  reshaping. Wet ones need moving water rather than a stagnant skin.
 - **Ravenland:** A neglected moat becomes either a sickness ditch or an easier
   road. Children, pigs, and desperate gardeners will also find uses for its
   edges unless the stronghold agrees what the water is for.
@@ -1543,7 +1544,7 @@ called through wages, household duty, reciprocal labor, or the promise of food.
 - **Working day:** Inspectors sound posts near the earth, look for fresh soil,
   tighten braces, and clear dead growth. Replacement begins before a post leans,
   because removing one forces the neighboring wall to carry it.
-- **Ravenland:** A palisade offers rapid safety and a yearly hunger for timber.
+- **Ravenland:** A palisade gives rapid safety and a yearly hunger for timber.
   Its gate separates resident from outsider, yet its repair rota shows which
   households are accepted as part of the defense.
 
@@ -1643,7 +1644,7 @@ called through wages, household duty, reciprocal labor, or the promise of food.
 - **Build:** One mason, one smith, and six laborers can build the enclosure,
   iron-bound door, dry floor, and difficult approach. Fewer people should know
   the final lock and key arrangement than know the stonework.
-- **Keep:** One steward controls inventory and keys; two guards provide watch
+- **Keep:** One steward controls inventory and keys. Two guards provide watch
   when the vault holds serious wealth. A second witness should attend every
   opening. Hinges, damp, seals, locks, and divided access need regular checks.
 - **Working day:** Most days the vault remains shut. On an opening day, witnesses
@@ -1679,8 +1680,8 @@ called through wages, household duty, reciprocal labor, or the promise of food.
   bearers from the household, and whoever performs the rite. Drains, markers,
   fence, paths, and signs of disturbed earth need inspection.
 - **Working day:** The caretaker cuts growth, resets names, walks the boundary,
-  and notes settling soil. Before burial, the grave is measured and witnessed;
-  afterward, earth is mounded because it will sink.
+  and notes settling soil. Before burial, the grave is measured and witnessed.
+  Afterward, earth is mounded because it will sink.
 - **Ravenland:** Burial also maintains peace with walkers and the wronged dead.
   A graveyard is an archive held in names, kin memory, and soil. Moving it
   without testimony can turn old uncertainty into present fear.
@@ -1691,7 +1692,7 @@ called through wages, household duty, reciprocal labor, or the promise of food.
   light room with washable beds, clean water access, a waste route, and secure
   stores. The healer chooses the layout to keep fever away from wounds.
 - **Keep:** One physician operates the function. One orderly is needed when
-  more than one patient cannot rise; serious outbreaks may consume four or more
+  more than one patient cannot rise. Serious outbreaks may consume four or more
   attendants. Laundry, fuel, broth, water, herbs, waste, and night watch never
   appear in the healer's hands by themselves.
 - **Working day:** The healer observes before touching, then cleans wounds,
@@ -1736,7 +1737,7 @@ called through wages, household duty, reciprocal labor, or the promise of food.
 #### Scriptorium
 
 - **Build:** One carpenter and the scribe can fit the room over the listed week. Desks
-  must meet daylight without glare; parchment and ink need dry storage; the
+  must meet daylight without glare. Parchment and ink need dry storage. The
   stove and lamps must remain far from loose sheets.
 - **Keep:** One scribe operates the function. An apprentice prepares quills,
   ink, ruling, and skins. In winter, heat must prevent frozen ink without
@@ -1745,7 +1746,7 @@ called through wages, household duty, reciprocal labor, or the promise of food.
   lines, compares them with the exemplar, and scrapes errors before they spread.
   Hands are rested before fatigue turns one wrong word into a doctrine.
 - **Ravenland:** Copying turns weeks of food, lamp oil, trained sight, and
-  silence into one more book. A patron often wants permanence; the scribe knows
+  silence into one more book. A patron often wants permanence. The scribe knows
   that every copy also creates a chance for alteration.
 
 #### Shelter (Barracks)
@@ -1766,9 +1767,9 @@ called through wages, household duty, reciprocal labor, or the promise of food.
 #### Shrine
 
 - **Build:** Two builders and a priest, elder, or custodian can raise a modest
-  shrine over the listed week. The sacred object or place governs the work; some traditions
-  need a roof and altar, while others need a marked tree, spring, or standing
-  stone left largely untouched.
+  shrine over the listed week. The sacred object or place governs the work.
+  Some traditions need a roof and altar, while others need a marked tree,
+  spring, or standing stone left largely untouched.
 - **Keep:** One caretaker visits daily or before each customary rite. No
   permanent priest is required by the function. Flame, offering place, path,
   paint, cloth, living plant, or carved sign is maintained according to faith.
@@ -1835,7 +1836,7 @@ called through wages, household duty, reciprocal labor, or the promise of food.
   secure chest, and messenger access. Residents often supply benches and labor.
 - **Keep:** One mayor or lord presides, but a clerk and messenger make daily
   administration possible. Two guards serve on crowded hearing days. The
-  Handyman keeps roof and hearth; the clerk keeps decisions from vanishing.
+  Handyman keeps roof and hearth. The clerk keeps decisions from vanishing.
 - **Working day:** Petitions are heard at a declared hour. The clerk calls names,
   records witnesses and obligations, and sends messages while claimants wait,
   trade news, and try to speak privately before judgment.
@@ -1868,12 +1869,12 @@ it.
 
 Each situation gives players several kinds of response. They may repair the
 broken link or find a substitute. They can bargain, borrow, or invoke an old
-obligation; when time closes those paths, they may ration what remains, steal
+obligation. When time closes those paths, they may ration what remains, steal
 what is needed, reroute the supply, or change who controls the bottleneck.
 
 ### Sensory Evidence
 
-- Full grain sounds dull beneath a probing stick; damp grain smells warm.
+- Full grain sounds dull beneath a probing stick. Damp grain smells warm.
 - A working mill is felt through the floor before it is heard clearly.
 - A tannery announces the downwind edge of a settlement.
 - A forge roof holds soot even after rain.
@@ -1901,6 +1902,6 @@ decision matters: the season is closing, labor is divided, stores are disputed,
 transport is threatened, or a new source of wealth has changed who can command
 whom.
 
-The aim is a stronghold whose people remember why each wall was raised, whose
-stores carry both food and authority, and whose smoke can be seen from a road
-that did not exist five years ago.
+Judge the stronghold by what its residents remember. Each wall had builders.
+Each store has a key. Smoke rises beside a road that did not exist five years
+ago.

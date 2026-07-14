@@ -83,15 +83,14 @@ without claiming every custom appears in published material.
 Battle rules aggregate people into troops. This document moves between that
 scale and the persons within it.
 
-One lost troop may include dead and wounded members. Others are missing or
-captured; some scattered, while some fled home. Do not translate every mechanical loss
-into death.
+One lost troop may include dead, wounded, missing, and captured members. Some
+scattered. Others fled home. Do not translate every mechanical loss into death.
 
 ### Violence with Purpose
 
-Use violence to reveal its objective and institution. Show the cost and changed
-relation. Do
-not linger upon bodily suffering merely to make a scene seem serious.
+Use violence to reveal its objective and institution. Show what it costs and
+which relations it changes. Do not linger upon bodily suffering merely to make
+a scene seem serious.
 
 Hard truth needs consequence, not ornament.
 
@@ -129,9 +128,10 @@ Road repair can be evidence of peace or preparation.
 
 Agents buy food and animals. Leather and iron equip the force; cloth and rope
 keep it supplied. Salt preserves what must travel, while medicine follows the
-injured. Early purchases may enrich producers. Continued demand strips ordinary markets.
+injured. Early purchases may enrich producers. Continued demand strips ordinary
+markets.
 
-Price rise warns people before official proclamation.
+A price rise warns people before official proclamation.
 
 ### Rumor
 
@@ -180,9 +180,9 @@ resources.
 ### Claim
 
 A ruler may claim land or office. Inheritance can justify either. Another claim
-concerns a road, mine, or shrine and the tribute drawn from it. A promise of protection
-can become a claim of rule. War begins when enforcement seems more useful than
-continued ambiguity.
+concerns a road, mine, or shrine and the tribute drawn from it. A promise of
+protection can become a claim of rule. War begins when enforcement seems more
+useful than continued ambiguity.
 
 Claims need people willing to bear their cost.
 
@@ -250,8 +250,8 @@ Show at least one such act before war. Its failure gives conflict shape.
 
 ### The Call
 
-Muster travels by messenger, horn, beacon, priest, market proclamation, clan
-word, written order, and household relay.
+Muster travels by messenger, horn call, beacon, priest, market proclamation,
+clan word, written order, and household relay.
 
 The form establishes legitimacy. A forged horn call can move bodies before
 truth catches it.
@@ -340,7 +340,7 @@ Retainers receive continuing maintenance, status, equipment, and closeness to a
 lord or institution. They train, guard, enforce, and provide the core around
 which levy can gather.
 
-Their loyalty attaches to household and pay as much as banner.
+Their loyalty attaches to household and pay as much as to a banner.
 
 ### Mercenaries
 
@@ -353,7 +353,7 @@ Late pay shifts their relation from service toward self-payment.
 ### Mixed Hosts
 
 Most substantial armies mix sources of force. Retainers hold a line, levy adds
-number, riders screen, scouts guide, specialists manage engines, and mercenaries
+numbers, riders screen, scouts guide, specialists manage engines, and mercenaries
 cover gaps.
 
 Different expectations of pay, plunder, honor, and service produce internal
@@ -571,8 +571,9 @@ Routine is a form of morale.
 
 ### Camp Fire
 
-Fire cooks, warms, lights, dries, signals, and spreads. Fire discipline names
-where, how large, under whose watch, and when extinguished.
+Fire cooks, warms, lights, dries, signals, and spreads. Fire discipline sets
+where a fire may burn, how large it may grow, who watches it, and when it is put
+out.
 
 Hidden camps eat cold or use screened flame.
 
@@ -585,8 +586,8 @@ Night access must be safe enough that soldiers do not foul nearer ground.
 
 ### Animals
 
-Animals need picket, guard, water sequence, fodder, grooming, and space away from
-panic or disease.
+Animals need picket lines, guards, water sequence, fodder, grooming, and space
+away from panic or disease.
 
 One frightened animal can wake and injure a camp.
 
@@ -656,7 +657,7 @@ Coerced guides can obey literally and still ruin a campaign.
 Residents report from loyalty, money, fear, revenge, coercion, or the hope of
 directing violence elsewhere.
 
-Information should be assessed with motive and access.
+Commanders weigh each report against motive and access.
 
 ### Interrogation
 
@@ -720,8 +721,8 @@ The best approach can be useless if driven animals cannot follow it back.
 
 ### Breach
 
-Raiders enter through surprise, insider, fire threat, weak gate, climbed wall,
-or violence concentrated before defenders gather.
+Raiders enter through surprise, help from within, threat of fire, a weak gate, a
+climbed wall, or violence concentrated before defenders gather.
 
 Delay converts raid into battle.
 
@@ -870,7 +871,7 @@ Rationing begins with inventory and an argument about need. Fighters, workers,
 children, pregnant people, sick people, animals, officers, and wealthy households
 all claim priority.
 
-Unequal ration may preserve capacity or expose privilege.
+Unequal rations may preserve capacity or expose privilege.
 
 ### Siege Water
 
@@ -1032,7 +1033,8 @@ Leaders require verification procedures that do not paralyze every order.
 Prohibited disciplines offer rulers coercive power, terror, expendable bodies,
 and weapons whose consequences exceed the campaign.
 
-Use should create political and moral aftermath. A stronger troop is not enough.
+Their use should create political and moral aftermath. A stronger troop is not
+enough.
 
 ### Monsters as Troops
 
@@ -1069,8 +1071,8 @@ The practice depends upon credible expectation that surrender preserves life.
 
 ### Yielding
 
-Yield may be signaled by dropped weapon, raised empty hands, named words, kneeling,
-withdrawal to a place, or an officer's formal act.
+Surrender may be signaled by dropped weapon, raised empty hands, named words,
+kneeling, withdrawal to a place, or an officer's formal act.
 
 Different traditions can misread one another at deadly speed.
 
@@ -1327,8 +1329,9 @@ Glory that leaves it abandoned is command failure.
 
 ### Baggage
 
-Wagons, stores, followers, wounded, prisoners, and animals slow retreat. Abandoning
-them may save fighters while destroying the army's future and moral cohesion.
+Wagons, stores, followers, wounded, prisoners, and animals slow retreat.
+Abandoning them may save fighters while destroying the army's future and moral
+cohesion.
 
 The decision should have a named author.
 
@@ -1479,8 +1482,8 @@ spreads burden and surveillance.
 
 ### Curfew
 
-Curfew simplifies watch while criminalizing birth, illness, fire response,
-animal care, secret worship, and ordinary movement.
+Curfew simplifies watch. It makes birth, illness, fire response, animal care,
+secret worship, and ordinary movement grounds for arrest.
 
 Permits turn clerks into gatekeepers of necessity.
 
@@ -1691,7 +1694,7 @@ Celebration can exhaust someone still living inside alarm.
 
 ### Bodily Injury
 
-Missing limb, damaged joint, scar, chronic pain, impaired sight or hearing,
+A missing limb, damaged joint, scar, chronic pain, impaired sight or hearing,
 internal injury, and weakness change work and status.
 
 Households adapt tools, tasks, space, and expectations.
@@ -1761,8 +1764,8 @@ The next generation inherits memory before it inherits explanation.
 
 ### Notification
 
-The messenger names the dead, manner if known, location, witnesses, possessions,
-and whether a body can return.
+The messenger names the dead, the manner of death if known, the location,
+witnesses, possessions, and whether a body can return.
 
 Uncertain information should remain uncertain.
 

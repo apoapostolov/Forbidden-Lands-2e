@@ -2,16 +2,16 @@
 
 # Regions, Landscape, and Seasonal Life in the Ravenlands
 
-The Ravenlands is crossed at boot height. A traveler knows it first through wet
-wool and the taste of one valley's water. A road sunk beneath alder roots changes
-the horse's step. Roofs lean from the quarter where snow arrives sideways. This
-reference turns the map into lived country without fixing every
-hex into a modern district.
+The Ravenlands is crossed at boot height. A traveler knows it through wet wool
+and the taste of one valley's water. Alder roots sink a road until the horse
+shortens its step. People angle their roofs against the quarter where snow
+arrives sideways. This reference turns the map into lived country without
+fixing every hex into a modern district.
 
 Named places and published geography remain in the core places reference.
-Economy has its own volume. Here landscape governs season and movement. It
-shapes settlement, custom, and memory, so arrival somewhere new changes more
-than the name read from a map.
+Economy has its own volume. Here landscape joins season, movement, settlement,
+custom, and memory so that arrival somewhere new changes more than the name read
+from a map.
 
 ## Contents
 
@@ -94,13 +94,13 @@ way. The answer can differ from its neighbor without making either implausible.
 
 ### Landscape Has Agents
 
-Fire and grazing reshape vegetation. Ditches and dams redirect water. Quarries,
-planting, burial, and road work leave other marks. Beasts and monsters shape the
-land as well; so do weather, magic, and abandoned works.
+People shape land by burning, grazing, and cutting it. Ditches and dams redirect
+water. Quarries, planting, burial, and road work leave marks of another kind.
+Beasts and monsters shape the same ground; so do weather, magic, and abandoned
+works.
 
-“Wilderness” can contain old fields under seasonal rights. A sacred path may
-cross charcoal platforms and forgotten boundary stones. Somebody still claims
-them.
+“Wilderness” can contain old fields under seasonal rights. Sacred paths cross
+charcoal platforms and forgotten boundary stones. Somebody still claims them.
 
 ---
 
@@ -144,8 +144,8 @@ experience such openness as the first space of hunt-mad dissolution.
 
 ### Height
 
-Height grants drainage, lookout, and defense. Exposure makes nights colder and
-transport harder. A claim on the height remains visible from below.
+Height grants drainage and lookout. It can strengthen a defense and make a claim
+visible from below. Wind makes the nights colder and transport harder.
 
 Upland residents measure distance by descent and return. A place geographically
 near may cost a full day because every load must be carried back upward.
@@ -1802,15 +1802,15 @@ Choose one feature that changes meaning by season. Marsh becomes road. River
 becomes wall. Forest becomes open to sound. Upland becomes inaccessible. Harbor
 becomes exposed.
 
-The reversal prevents static geography.
+Seasonal reversal keeps geography from standing still.
 
 ### Add a Production Chain
 
 Name one resource, the labor that gathers it, the craft that transforms it, the
 route that moves it, and the person who claims a share.
 
-This gives strangers a reason to arrive and residents a reason to care about
-weather.
+The production chain gives strangers a reason to arrive and residents a reason
+to care about weather.
 
 ### Add a Social Interface
 

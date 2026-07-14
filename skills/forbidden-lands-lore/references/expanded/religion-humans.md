@@ -9,8 +9,7 @@ Religion in the Ravenlands is not a list of divine concerns. It determines who
 may witness an oath and whose calendar governs work. It tells people how to
 bury a body and which knowledge may be kept. After a death it defines what a
 household owes. It also decides whether an unusual child is blessed, hidden, or
-claimed. A rite without such consequences
-is decoration.
+claimed. A rite without such consequences is decoration.
 
 This document develops the practices implied by the manuscript. The named gods,
 orders, migrations, and kin beliefs are setting facts. Detailed prayers, local
@@ -181,19 +180,18 @@ Wyrm holds the feminine half of the pair. This is the old language of the
 tradition, not a claim that only women embody it. Wyrm governs gestation and the
 continuity of living bodies. Bodily knowledge and household memory belong to
 this face. Adaptation and healing preserve life through change; concealed
-counsel protects the process. Raven keeps a word in
-public. Wyrm remembers the conditions under which it was given and the mouths
-that depended upon it.
+counsel protects the process. Raven keeps a word in public. Wyrm remembers the
+conditions under which it was given and the mouths that depended upon it.
 
 Most old households place Wyrm's offices in women's hands: the keys to food and
 cloth, knowledge of births, the private terms of marriages, care of the sick,
-and memory of which kin can be asked for help. This gives women authority over
-continuity while making them answer for every failure of fertility, health, or
-domestic peace. A man may carry the same offices after death, injury, aptitude,
-or necessity. Some communities call him Wyrm-wise. Others use the title to
-belittle him while depending on his work.
+and memory of which kin can be asked for help. These offices give women authority
+over continuity while making them answer for every failure of fertility, health,
+or domestic peace. A man may carry the same offices after death, injury,
+aptitude, or necessity. Some communities call him Wyrm-wise. Others use the
+title to belittle him while depending on his work.
 
-The feminine side is therefore neither gentleness nor obedience. Wyrm can hide,
+The feminine side is neither gentleness nor obedience. Wyrm can hide,
 constrict, poison, shed, and survive underground. Her virtues include patience,
 indirection, bodily competence, remembered grievance, and refusal to let public
 honor consume the next generation. Those virtues can preserve a household or
@@ -215,8 +213,7 @@ that later people must live within.
 A spoken promise enters wyrd because another person changes conduct in reliance
 on it. The wrong in oath-breaking lies partly in the broken sentence and partly
 in the work, journey, marriage, or risk undertaken because the sentence was
-believed. Compensation must therefore address reliance rather than insult
-alone.
+believed. Compensation must address reliance rather than insult alone.
 
 Raven witnesses the word. Wyrm witnesses what grew around it.
 
@@ -261,8 +258,8 @@ depending on infant danger and local custom.
 
 At the first adult oath, the young person chooses or accepts a duty. It may be a
 share of the watch or care of an elder. Others maintain a path, serve a shrine,
-or take on a trade obligation. The choice need not determine a profession. It announces
-that the person's word can now cause others to act.
+or take on a trade obligation. The choice need not determine a profession. It
+announces that the person's word can now cause others to act.
 
 A youth who refuses is not necessarily expelled. They may remain unnamed in
 public agreements, unable to witness or stand surety until some duty is taken.
@@ -334,9 +331,9 @@ rather than merely repeated.
 Psychopomps guide transitions. They tend the dying and interpret inheritance.
 They record births and marriages. They also preserve letters that outlive both.
 They reconcile old terms with new conditions and conduct the dead toward
-whatever follows. The library at
-Farhaven gives the order an authority rare in the Ravenlands: it can compare a
-village memory with a text copied before the Mist.
+whatever follows. The library at Farhaven gives the order an authority rare in
+the Ravenlands: it can compare a village memory with a text copied before the
+Mist.
 
 The church values preservation, but preservation does not mean refusal to
 change. A rule may shed its outer wording if its purpose is kept. This doctrine
@@ -487,7 +484,7 @@ Their doctrine takes Raven's public duty and removes every reciprocal limit.
 The cult member owes truth and protection to the chosen remnant, nothing to the
 people marked for removal. Murder becomes migration enforced upon the unwilling.
 
-Reapenters can therefore live quietly among intended victims. The next death is
+Reapenters can live quietly among intended victims. The next death is
 weighed against access to a later gathering, road, store, or household. Their
 patience is religious, not merciful.
 
@@ -524,10 +521,10 @@ it cowardice.
 ## Rust and Heme
 
 Rust and Heme receive a full treatment in [Rust Brothers: Fear, Doctrine, and
-Control](religion-rust-brothers.md). The church worships iron
-and wood as the Protector's divine gifts, treats humanity as material to be
-worked, joins fertility to disease and sacrifice, collects tribute, disciplines
-knowledge, and governs through selective terror.
+Control](religion-rust-brothers.md). The church worships iron and wood as the
+Protector's divine gifts, treats humanity as material to be worked, joins
+fertility to disease and sacrifice, collects tribute, disciplines knowledge,
+and governs through selective terror.
 
 Its central rites include the Censer Circuit, the Great Measure, the Joining of
 Iron and Wood, the Last Weighing, the Burning of the Copy, ordination under

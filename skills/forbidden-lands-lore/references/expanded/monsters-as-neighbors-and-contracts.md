@@ -5,16 +5,16 @@
 A monster may attack once and die. A neighboring monster changes where children
 gather berries and which roof receives the first fish. It changes how a ferryman
 speaks after dark. It may even change what a village calls justice when the
-other party cannot enter its hall. This reference begins with boundaries and
-tribute between settlements and nonhuman powers. Service may harden into taboo;
-mediation may conceal predation or coexistence. Exploitation creates succession
-and breach. The final sections examine the vacancy left when adventurers remove
-something that occupied a place in local life.
+other party cannot enter its hall. Boundaries and tribute bind settlements to
+nonhuman powers. Service may harden into taboo. Mediation may conceal predation
+or coexistence. Exploitation creates succession and breach. When adventurers
+remove something that held a place in local life, the vacancy has its own
+claimants.
 
-The bestiary supplies creatures and combat. The bestiary skill supplies design
-procedure. This volume concerns relationships around them. It does not make
-every monster a human mind or a safe disposition. It gives intelligent play
-more actions than immediate extermination and makes extermination alter the
+Creatures and combat come from the bestiary. Design procedure comes from the
+bestiary skill. The concern here is the relationships around them. It does not
+make every monster a human mind or a safe disposition. It gives intelligent
+play choices beyond immediate extermination and makes extermination alter the
 country when chosen.
 
 ## Contents
@@ -77,7 +77,7 @@ grows around both, along with a calendar of fear.
 
 **Historical and folkloric model** supplies predator coexistence and tribute.
 Boundary custom makes dangerous hospitality possible. Taboo and beast drives
-shape local response; salvage shapes relations with feared nonstate powers.
+shape local response. Salvage shapes relations with feared nonstate powers.
 
 **Personal campaign lore** gives Apostol Apostolov's Ravenlands additional
 arrangements that a table may use, alter, or refuse.
@@ -97,8 +97,8 @@ Begin with the specific creature's published nature.
 
 A contract here may begin as a spoken bargain or repeated exchange. A boundary
 truce can become tribute or taboo. Ritual compacts, trained behavior, and hostage
-relations create other expectations. Magical binding is a contract of force;
-one-sided rule enforced through fear is the broadest and cruelest use of the term.
+relations create other expectations. Magical binding is a contract of force.
+One-sided rule enforced through fear is the broadest and cruelest use of the term.
 
 These are not morally equivalent. The broad category helps the GM compare how
 expectation is made and what happens when it fails.
@@ -127,7 +127,7 @@ giving away the answer before inquiry.
 ### Repetition Makes Custom
 
 One attack creates alarm. Repeated presence creates routes and warnings. Duties
-and payments follow; stories preserve them. Specialists emerge, including
+and payments follow. Stories preserve them. Specialists emerge, including
 people who profit from the danger.
 
 A settlement living near a monster is adapted to it, damaged by it, or both.
@@ -164,8 +164,8 @@ track is found.
 A monster's range is the area in which it feeds and travels. It may watch or
 claim a wider country, and answer disturbance there.
 
-Ranges overlap settlement land, other monsters, and faction routes. Boundary is
-therefore political ecology.
+Ranges overlap settlement land, other monsters, and faction routes. Their
+boundaries belong to local politics as much as ecology.
 
 ### Lair
 
@@ -181,7 +181,7 @@ Determine which before treating the lair as a treasure room.
 
 Shepherds and hunters may know more than titled monster hunters. Grave tenders
 and ferrymen notice other signs. Herbalists or charcoal burners work where
-officials seldom go; children and outlaws see what adults hide. Priests and
+officials seldom go. Children and outlaws see what adults hide. Priests and
 tribute carriers know the terms people dare repeat.
 
 Their knowledge is practical and tied to specific country.
@@ -259,8 +259,8 @@ The contradiction may reveal condition rather than error.
 
 ### Missing People
 
-Survivorship shapes lore. People who attempted one approach may be absent from
-the tradition that declares it useless.
+The missing leave gaps in local lore. People who attempted one approach may be
+absent from the tradition that declares it useless.
 
 Recovering a journal, body position, tool, or changed survivor can reopen
 knowledge.
@@ -432,7 +432,8 @@ killing each responding body.
 Human feeding can habituate a beast, enlarge a brood, create dependence, and
 move natural fear thresholds.
 
-The first easy offering may be cheaper than the tenth and responsible for it.
+The first easy offering may cost less than the tenth and still be the reason the
+tenth is demanded.
 
 ### Substitution
 
@@ -444,7 +445,7 @@ ecological chain.
 
 ### Unsatisfiable Appetite
 
-Some appetites increase through feeding or require human destruction. Bargain
+Some appetites increase through feeding or require human destruction. A bargain
 can buy time without producing coexistence.
 
 Say when the contract is containment pending another solution.
@@ -700,7 +701,7 @@ The monster may recognize material more reliably than craftsmanship.
 A creature may distinguish prey, pack, maker, singer, buried, burning, mounted,
 or another category unrelated to human kin.
 
-Contract language must bridge classification rather than assume it.
+Contract language must use categories both sides can recognize.
 
 ---
 
@@ -1012,7 +1013,8 @@ Renegotiation follows ecological change, settlement growth, monster injury,
 offspring, new faction, failed harvest, altered route, or discovery that one
 term meant different things.
 
-Durability comes from revision, not frozen wording.
+Revision keeps the compact fitted to the conditions and parties that must
+observe it.
 
 ### Human Succession
 
@@ -1067,7 +1069,7 @@ Dogs, watch, enclosure, bells, fire, human presence, seasonal movement, carcass
 disposal, and removal of sick animals alter predation.
 
 Killing every predator is one strategy among many and can open territory to
-younger less predictable animals.
+younger, less predictable animals.
 
 ### Individual Recognition
 
@@ -1142,7 +1144,7 @@ Negotiation begins by learning the claim's basis.
 Monster societies may judge through dominance, memory, oath, exchange, ritual,
 maker's command, challenge, or categories unfamiliar to human courts.
 
-A shared case requires an interface rather than one side assuming jurisdiction.
+A shared case needs a hearing whose forms both sides can recognize.
 
 ### Internal Factions
 
@@ -1180,7 +1182,7 @@ Office binds the creature to expectations beyond appetite.
 ### Scale
 
 Large bodies require large food, space, structures, routes, and tolerances. An
-ordinary bridge may be unusable; an ordinary animal payment negligible.
+ordinary bridge may be unusable. An ordinary animal payment may be negligible.
 
 Scale changes contract logistics.
 
@@ -1241,7 +1243,7 @@ Human succession appears as rapid replacement and convenient forgetting.
 
 A hoard can preserve memory as an archive or record of tribute. It may also be
 the monster's nest and an extension of its identity. Treasury and status draw
-human attention; a magical anchor makes interference more dangerous still.
+human attention. A magical anchor makes interference more dangerous still.
 
 Removing one object may alter more than wealth.
 
@@ -1574,7 +1576,7 @@ Demons are dangerous, varied, deceptive, and tied to corruption and knowledge
 powerful institutions may seek to control. Some can speak, bargain, hide, serve,
 rule, or prey through relations as readily as through force.
 
-That is enough for a nonspoiler reference.
+Nothing further should cross that spoiler boundary here.
 
 ### Do Not Generalize One Demon
 
@@ -1865,16 +1867,16 @@ The first arrival can become the next ruler.
 
 ### Ecological Cascade
 
-Predator removal increases prey. Swarm removal reduces pollination. carrion
-cleaner removal spreads rot. territorial monster removal permits lesser threats
+Predator removal increases prey. Swarm removal reduces pollination. Carrion
+cleaner removal spreads rot. Territorial monster removal permits lesser threats
 to overlap.
 
 Choose one plausible cascade rather than punishing every victory.
 
 ### Social Cascade
 
-Tribute collectors lose office. hunters lose status. protected outlaws become
-visible. victims seek restitution. former collaborators rewrite memory.
+Tribute collectors lose office. Hunters lose status. Protected outlaws become
+visible. Victims seek restitution. Former collaborators rewrite memory.
 
 The monster's death does not settle human accounts.
 
@@ -2133,6 +2135,6 @@ boundary to many moving ones.
 ### Closing Principle
 
 A monster becomes a neighbor when its repeated presence enters work, boundary,
-payment, fear, and memory. Treat that relationship with the same precision as a
-faction or road. Then combat, parlay, and removal all become choices about the
-country players will inhabit afterward.
+payment, fear, and memory. Give that relationship the same precision as a
+faction or road. Combat, parlay, and removal are then choices about the country
+the adventurers will inhabit afterward.

@@ -5,9 +5,9 @@
 This reference describes the metaphysics taught, tested, and disputed by
 magicians in Apostol Apostolov's expanded Forbidden Lands campaign. It begins
 with laws that repeated practice makes difficult to deny. It then records the
-truths available to practitioners of each rank. It is not a catechism shared by
-all magicians. A blood sorcerer may explain an event one way; an oneiromancer or
-stone singer may give another coherent account. They disagree about what, in the
+truths available to practitioners of each rank. No catechism is shared by all
+magicians. A blood sorcerer may explain an event one way. A oneiromancer or stone
+singer may give another coherent account. They disagree about what, in the
 deepest sense, happened.
 
 The distinction is deliberate. **Observed law** names a result that can be
@@ -29,10 +29,10 @@ strength, it can leave the survivor with something else—the power to insist,
 even then, *I still choose*.
 
 When an adventurer pushes beyond fear or pain, the world gives evidence that
-the intended act should stop. Exhaustion and doubt press the same command;
-social collapse may make action pointless. The body weakens and judgment frays.
-Confidence fails, or fellowship is wounded. If the
-person nevertheless continues, two incompatible conditions are held within one
+the intended act should stop. Exhaustion and doubt press the same command.
+Social collapse may make action pointless. The body weakens and judgment frays.
+Confidence fails, or fellowship is wounded. If the person nevertheless
+continues, two incompatible conditions are held within one
 life: *I am being overcome* and *I still choose*. That unresolved interval is
 Willpower. It is not pain itself. Unchosen suffering does not automatically
 empower a witness. Neither does helpless misery or the torment of another. The
@@ -43,30 +43,31 @@ This is no substance hidden in the blood or soul. Those who spend Willpower
 often—magicians, seasoned adventurers, and others long acquainted with
 hardship—feel it plainly enough. It is a warmth behind the breastbone, an
 eagerness in weary limbs, and a presence that remains when bodily strength is
-gone. It does not restore what the world has taken. It gives intent somewhere to stand after
-stamina has failed, provided the mind remains sound enough to know it is there.
+gone. It does not restore what the world has taken. It gives intent somewhere
+to stand after stamina has failed, provided the mind remains sound enough to
+know it is there.
 
-Protected comfort therefore produces poor magicians. Ordeal without purpose
-often produces only injury; deliberate self-harm is an unreliable substitute
-for danger. The caster must possess both sides of the
-contradiction: a real loss and a continuing intention. Burn is the brutal
+Protected comfort produces poor magicians. Ordeal without purpose often
+produces only injury. Deliberate self-harm is an unreliable substitute for
+danger. The caster must possess both sides of the contradiction: a real loss
+and a continuing intention. Burn is the brutal
 exception that proves the law. The caster deliberately offers the world a
 fresh injury and holds the spell's intended conclusion against it. The caster
-chooses how much to risk; the world chooses where the harm falls.
+chooses how much to risk. The world chooses where the harm falls.
 
 ### The World Has Settled Shape
 
 Every thing and relation has a degree of settlement. A door keeps the shape in
 which it was made. A body keeps the continuity by which it remains one living
 person. Witnesses and conduct give an oath standing. In a forest, rain enters
-soil, roots feed animals, and decay returns them to one another. Settlement is
-not a single substance. It is the accumulated fact that the world has already been
-one way and has learned to continue being so.
+soil, roots feed animals, and decay returns them to one another. Settlement
+names the accumulated fact that the world has already been one way and has
+learned to continue being so, rather than a single substance.
 
 Magic does not defeat this continuity with raw energy. The caster presents a
 contradiction strong enough that another state can be made to stand. A brief
-flame or borrowed sight needs only a narrow claim; so does a momentary command. A new
-mountain, an immortal body, or a gate between worlds must be established
+flame or borrowed sight needs only a narrow claim. So does a momentary command.
+A new mountain, an immortal body, or a gate between worlds must be established
 against innumerable existing relations. Such work needs permanent witnesses. A
 lost attribute or surrendered purpose can bear witness. So can a place marked
 by events, an elven ruby, or a great sacrifice. Artifacts and beings with
@@ -97,24 +98,25 @@ rules.
 
 The Willpower spent on a spell determines the intended depth of its claim. Its
 Power Level measures how much contradiction the working successfully makes the
-world bear. Magic therefore does not simply fail. Once genuine Willpower has
-been committed through a learned pattern, the minimum claim has already gained
-standing.
+world bear. Once genuine Willpower has been committed through a learned pattern,
+the minimum claim has already gained standing. Magic has already done more than
+simply fail.
 
 The casting dice measure exposure, not accuracy. A sword means the addressed
 layer answered with more force than the boundary required: overcharge. A skull
 means it answered outside one or more boundaries: mishap. The mishap is not a
 random punishment placed upon magic. It is the uncontrolled reciprocity of the
-path. Healing restores what should have remained ended; Shapeshifting permits
-the beast to retain a claim; Awareness lets an observer or false certainty look
-back; Stone Song wakes weight, fracture, and buried attention. The worst
+path. Healing restores what should have remained ended. Shapeshifting permits
+the beast to retain a claim. Awareness lets an observer or false certainty look
+back. Stone Song wakes weight, fracture, and buried attention. The worst
 mishaps weaken the distinction between caster and address until the path keeps
 the caster.
 
 ### Mastery, Safe Casting, and Chance Casting
 
-Rank is not a reservoir of force. It is the number and subtlety of boundaries a
-magician can maintain without conscious effort. Safe casting removes exposure
+Rank measures the number and subtlety of boundaries a magician can maintain
+without conscious effort, not a reservoir of force. Safe casting removes
+exposure
 because superior understanding supplies constraints internally. Its limitation
 is metaphysical. Closing every uncertain relation makes the answer safer by
 making it narrower.
@@ -129,9 +131,9 @@ the desired change and an uncontrolled answer enter the world together.
 
 ### Ingredients, Grimoires, and Rituals
 
-An ingredient is not generic fuel. It is an anchor whose existing relations
-give specificity to a claim. A claw addresses predation and animal form; blood
-addresses living identity; a map addresses place as represented knowledge; ash
+An ingredient is an anchor whose existing relations give specificity to a
+claim, not generic fuel. A claw addresses predation and animal form. Blood
+addresses living identity. A map addresses place as represented knowledge. Ash
 addresses matter after life and flame have withdrawn their former claims. An
 ingredient is consumed when the spell spends the relation that made it useful.
 Reusable instruments endure because they locate or measure the relation rather
@@ -154,8 +156,8 @@ learned.
 
 ### Residue, Corruption, and Epic Settlement
 
-Temporary magic usually allows settled shape to return. It never returns
-perfectly. Attention has been drawn, matter displaced, witnesses changed, and
+Temporary magic usually allows settled shape to return, though never perfectly.
+Attention has been drawn, matter displaced, witnesses changed, and
 the addressed layer taught that another state was possible. This remainder is
 magical residue. Repeated workings make a place easier for similar changes and
 less hospitable to incompatible ones. Great residue acquires behavior of its
@@ -165,8 +167,8 @@ Corruption is a permanent working whose objection remains active. It results
 when an unwilling life, an alien law, an unstable shortcut, or a deliberately
 unsettled ingredient is made to support an enduring effect. The change works,
 but part of its foundation continues to resist being part of this world. A
-corrupted place therefore behaves less like a damaged object than a bad
-argument that reality is forced to repeat.
+corrupted place behaves less like a damaged object than a bad argument that
+reality is forced to repeat.
 
 Epic Magic replaces local settlement with historical settlement. Its
 ingredients possess standing beyond their material mass: a life's governing
@@ -178,8 +180,8 @@ new source of history.
 
 ## Common Spellcraft: The Grammar Between Paths
 
-General Spells are not usually regarded as a separate faith. They are the
-comparative grammar by which magicians alter other workings. Their practitioners
+Most traditions regard General Spells as the comparative grammar by which
+magicians alter other workings, not as a separate faith. Their practitioners
 call the common object beneath all path doctrines the **working**: a bounded
 claim held by Willpower until it settles.
 
@@ -189,8 +191,8 @@ The student learns to detect active magic as a pressure between intended and
 settled shape. They can strengthen a claim, leave a seal that reports
 interference, pass a narrow magical resilience, and perform tiny changes too
 weak to establish lasting settlement. The first hard truth is that spell rank
-and Power Level describe different things: rank is structural complexity;
-Power Level is how far the structure is driven.
+and Power Level describe different things. Rank is structural complexity. Power
+Level is how far the structure is driven.
 
 At this rank, Sense Magic reveals presence and broad discipline because the
 address colors the residue. It does not grant full explanation. The common
@@ -201,10 +203,10 @@ leave different stresses in the same world.
 ### Rank 2 — Boundaries Can Be Edited
 
 The adept learns that duration, concealment, storage, copying, and dispelling
-are not afterthoughts. They are boundaries susceptible to another working.
-Copying does not reproduce a caster's will; it gives a witnessed pattern a new
-claimant. Dispelling does not annihilate energy; it removes enough standing that
-settled shape reasserts itself. Extending or holding a spell sustains the old
+are boundaries susceptible to another working, not afterthoughts. Copying gives
+a witnessed pattern a new claimant without reproducing a caster's will.
+Dispelling removes enough standing for settled shape to reassert itself.
+Extending or holding a spell sustains the old
 claim and inherits its unresolved consequences.
 
 This rank teaches the practical law of provenance. A copied, obscured, or
@@ -216,13 +218,13 @@ it may inherit attention from whatever answered the first caster.
 Preparation, containment, transfer, and stabilization reveal that a working
 can persist apart from the instant of casting. Residue may be unearthed because
 the world remembers the pressure of the old claim. A stable magical zone is a
-place trained to keep repeating one boundary; an unstable one is a place where
+place trained to keep repeating one boundary. An unstable one is a place where
 the address keeps renegotiating it.
 
 The rank 3 magician stops calling mishaps accidents. They can identify which
 part of a working escaped its boundary, though not always why. They also
 understand that moving a spell transfers obligations as well as benefits. A
-curse handed to another target is not cleansed; its settlement has been made
+curse handed to another target remains uncleansed. Its settlement has been made
 someone else's problem.
 
 ### Rank 4 — Workings Can Acquire Agency
@@ -231,8 +233,8 @@ Familiars, living spells, mass workings, and quickened rituals prove that a
 pattern can hold choices not made at the moment of casting. What looks like
 agency arises when a working is given a continuing address, a means of reading
 conditions, and permission to renew its claim. Whether this is true life is a
-matter of bitter dispute. Symbolists say it is syntax reacting to signs;
-oneiromancers call it a small dream; blood sorcerers ask what living bond was
+matter of bitter dispute. Symbolists say it is syntax reacting to signs.
+Oneiromancers call it a small dream. Blood sorcerers ask what living bond was
 quietly used.
 
 At this rank, the magician learns the ethics of delegated magic. A working that
@@ -265,9 +267,9 @@ that route until the body can occupy it.
 ### Rank 1 — The Body Remembers Wholeness
 
 The novice learns to distinguish damage from ending. A wound, poison, sickness,
-or disturbed spirit is not simply a quantity to remove; each interferes with a
-different part of the body's effort to continue. Healing Hands strengthens the
-body's most recent viable pattern. Nature's Cure helps it recognize what is
+or disturbed spirit cannot be treated as a single quantity to remove. Each
+interferes with a different part of the body's effort to continue. Healing Hands
+strengthens the body's most recent viable pattern. Nature's Cure helps it recognize what is
 foreign. Preserve prevents a present condition from becoming history.
 
 The target must still possess a living claim. This is why simple healing cannot
@@ -286,7 +288,7 @@ Mend Wounds restore relations the body can identify but no longer repair alone.
 Banishing works because a demon, curse, or undead force lacks the same standing
 in the living continuity as the person it occupies.
 
-Healing can therefore harm. To purge an intruder is to tear away every living
+Healing can harm. To purge an intruder is to tear away every living
 relation by which it has attached itself. A long possession, a cherished curse,
 or a graft may have become entangled with identity. A healer who promises that
 all cleansing leaves the patient unchanged either lies or has not practiced
@@ -297,7 +299,7 @@ long enough.
 At rank 3, the healer learns that there is no single former state called
 “whole.” Rejuvenation restores bodily years but may remove the experience,
 skills, and talents acquired in them. Resurrection reaches across the veil only
-while the dead person's relations remain sufficiently near and coherent; the
+while the dead person's relations remain sufficiently near and coherent. The
 Empathy it costs is the shock of making the living self contain knowledge of
 its own ending.
 
@@ -341,8 +343,8 @@ voice, and the restored body that remembers somewhere else.
 
 Shapeshifters teach that no living body is singular. It is a treaty among
 ancestry, appetite, learned movement, habitat, and the innumerable forms life
-could have taken. Animals are not costumes. They are stable solutions to needs
-the shapeshifter also carries.
+could have taken. Animals are stable solutions to needs the shapeshifter also
+carries, never costumes.
 
 ### Rank 1 — A Trait Is a Relationship
 
@@ -352,7 +354,7 @@ ordering of scent and danger. An ingredient locates a real lineage and prevents
 the caster from inventing an animal out of human expectation.
 
 Animal speech teaches the first correction to anthropomorphism. The spell does
-not give an animal a humanoid mind; it makes unlike senses mutually legible.
+not give an animal a humanoid mind. It makes unlike senses mutually legible.
 Animals do not lie because the working translates present perception, not
 because beasts possess moral purity. Misreading territory, young, food, or
 threat as human motive is the novice's common failure.
@@ -367,7 +369,7 @@ agitation, terror, combat, unnatural orders, and protection of young demand
 greater Power Level.
 
 The adept learns that every borrowed capacity carries a preference. A body
-prepared to flee becomes more alert to pursuit; one prepared to strike reads
+prepared to flee becomes more alert to pursuit. One prepared to strike reads
 more things as rivals. Most effects end before this preference becomes conduct,
 but mishaps show the unpaid remainder as chase, feed, defend, or flight.
 
@@ -382,8 +384,9 @@ retains veto over acts that would annihilate its nature.
 
 Primal Soul and Call Animal expose a shared grammar beneath individual beasts.
 It is broad, emotional, and ecological rather than verbal. At this rank the
-shapeshifter learns that the “beast within” is not a buried monster. It is the
-sum of useful impulses civilization continually asks a person not to become.
+shapeshifter learns that the “beast within” names the sum of useful impulses
+civilization continually asks a person not to become, rather than a buried
+monster.
 
 ### Rank 4 — Identity Is Maintained by Return
 
@@ -394,16 +397,16 @@ and returns with its chosen purpose intact. Animal Animosity works by marking a
 target as an ecological contradiction, something local beasts read as wrong
 before they know why.
 
-The rank 4 practitioner keeps deliberate return practices—name, speech,
-clothing, shared food, remembered obligations. These are not sentimental
-customs. They are anchors of human or kin identity. A shapeshifter who treats
+The rank 4 practitioner keeps deliberate return practices: name, speech,
+clothing, shared food, remembered obligations. These customs anchor human or
+kin identity, whatever sentiment they also carry. A shapeshifter who treats
 return as automatic eventually discovers that the borrowed form has also been
 practicing the caster.
 
 ### Rank 5 — The Body Can Lie More Completely Than the Mind
 
 Humanoid and monstrous forms prove that bodily identity can be rewritten beyond
-ancestral kinship. A specific likeness needs witnessed detail; a monster form
+ancestral kinship. A specific likeness needs witnessed detail. A monster form
 needs encountered substance and steadily erodes Empathy because its capacities
 organize perception around a non-humanoid life. Rat's Reflexes shows how far an
 isolated bodily rule can be intensified before ordinary action loses its old
@@ -433,7 +436,7 @@ witness while the caster's own body loses its ordinary claim upon sensation.
 
 Recall Memory does not retrieve a perfect archive. It strengthens paths by
 which the mind can reconstruct a prior witness. Discussed details remain because
-they are newly witnessed; unattended details become inaccessible again. This is
+they are newly witnessed. Unattended details become inaccessible again. This is
 the first sign that knowledge changes the trace it reads.
 
 ### Rank 2 — Intention Precedes Action, but Does Not Determine It
@@ -447,7 +450,7 @@ probability, not completed facts.
 Compel Truth restricts false statement, not silence, evasion, error, or private
 meaning. True Path gives the wisest judgment available to the Game Master's
 whole situation, not an infallible moral command. Speak to the Wind uses a
-remembered living presence as address; a name is unnecessary because names are
+remembered living presence as address. A name is unnecessary because names are
 symbols, while sustained observation supplies a denser witness.
 
 ### Rank 3 — Truth Depends Upon the Questioning Mind
@@ -473,17 +476,17 @@ it.
 
 The rank 4 seer learns the path's central danger: observation is reciprocal.
 Unseen watchers, spirits, rivals, and the subjects of prophecy may notice the
-opened relation. A secret learned is not a possession removed from its owner;
-it is a new bond between knower and known. Awareness mishaps give the bond to
+opened relation. A secret learned becomes a new bond between knower and known,
+not a possession removed from its owner. Awareness mishaps give the bond to
 the wrong witness or let private intention become public weather.
 
 ### Rank 5 — Fixed Facts Bound the Possible
 
-Fate Weaving changes which unrealized outcome settles; Locate follows the
-continuing trace of a known object or person; Time Sending inserts an instruction
+Fate Weaving changes which unrealized outcome settles. Locate follows the
+continuing trace of a known object or person. Time Sending inserts an instruction
 into a past that still contains room for it. None can contradict an event the
-caster has already witnessed as settled. Knowledge is therefore both power and
-constraint. To inspect every corner of a possibility is to deprive it of places
+caster has already witnessed as settled. Knowledge is both power and constraint.
+To inspect every corner of a possibility is to deprive it of places
 where magic may later enter.
 
 The master suspects that prophecy does not look forward. It looks sideways at
@@ -504,14 +507,14 @@ with a visible boundary.
 
 Arcane marks, warnings, enticements, fear signs, and paralysis teach that a
 symbol does not contain power like a jar. It tells power what counts. A
-threshold rune defines crossing; an attunement mark defines ownership or
-proximity; an enticing sign defines approach as the action in which the victim
+threshold rune defines crossing. An attunement mark defines ownership or
+proximity. An enticing sign defines approach as the action in which the victim
 should complete the pattern.
 
 Drawing or carving improves the working because matter continues to witness the
 definition after the caster's attention moves on. An inscribed trigger succeeds
 only as well as its condition distinguishes an event. A novice who writes
-“enemy” has not made the world understand enmity; they have hidden an undefined
+“enemy” has not made the world understand enmity. They have hidden an undefined
 term inside a weapon.
 
 ### Rank 2 — Recognition Can Be Falsified
@@ -532,8 +535,8 @@ who flees an unreal fire may still fall from a real cliff.
 Power Runes prove that Willpower can be attached to a stable instruction and
 claimed later. Portals and Vanish redefine which places are adjacent. Puppeteer
 defines another body as the instrument through which the caster's action is
-recognized. Such workings are not exceptions to distance or agency; they alter
-the signs by which distance and agency are settled.
+recognized. Such workings alter the signs by which distance and agency are
+settled, rather than making exceptions to either.
 
 At this rank, the symbolist discovers that a rune is also legible to hostile
 readers. Another trained magician can use, copy, falsify, or invert a sign whose
@@ -562,8 +565,8 @@ supersede ordinary form. Bend Reality establishes new rules for interior size,
 passage, light, danger, and demonic influence by furnishing them with epic
 witnesses.
 
-The master no longer says symbols merely represent the world. Under sufficient
-standing, representation becomes one of the means by which the world knows
+The master knows that symbols represent the world and, under sufficient
+standing, become one of the means by which the world knows
 what it is. Yet the symbol is never the whole referent. Rank 6 Runweaver's Gift
 attempts to read a working as a god might and re-express it in runes. Chance
 casting is unavoidable because the reader must choose which truths to omit,
@@ -572,8 +575,8 @@ and omitted truths do not cease to answer.
 ## Stone Song: The Doctrine of Load and Memory
 
 Stone singers hold that matter remembers every pressure it has borne and every
-form in which it has carried weight. Song is not decoration. Rhythm lets many
-small pressures arrive as one intelligible instruction, much as blows and heat
+form in which it has carried weight. The rhythm of song lets many small
+pressures arrive as one intelligible instruction, much as blows and heat
 teach raw material to become a tool.
 
 ### Rank 1 — Stone Is Slow, Not Silent
@@ -586,7 +589,7 @@ distributed through a mass larger and older than the questioner.
 
 A mountain does not see like a person. It knows footsteps as loading, fire as
 expansion, excavation as release, blood as warmth and salt entering cracks.
-Answers translated into speech are therefore approximations. Safe casting
+Answers translated into speech are approximations. Safe casting
 confines the question to recent, present stresses before old strata and older
 inhabitants begin answering too.
 
@@ -599,7 +602,7 @@ given a new path for bearing itself. Stone withers when fractures are persuaded
 to become the principal truth of the object.
 
 The adept learns why crude work is safer than fine machinery. A bridge can be
-defined by support and span; a lock must preserve many moving tolerances whose
+defined by support and span. A lock must preserve many moving tolerances whose
 loads change from moment to moment. The song can shape either, but every
 unstated stress becomes a place where the mountain completes the design.
 
@@ -621,7 +624,7 @@ load and a voice to renew it.
 
 Animated weapons and machine souls place continuing instructions into worked
 matter. Earthen pillars and meteors alter the scale at which load is resolved.
-The meteor is feared because the singer does not create or fully aim it; they
+The meteor is feared because the singer does not create or fully aim it. They
 establish a relation between ground and a falling body whose prior course has
 enormous standing.
 
@@ -634,8 +637,8 @@ buried listener.
 ### Rank 5 — Land Is Architecture on a Historical Scale
 
 Raise Land, Repurpose, and Way of the Mountain teach that terrain and artifact
-are structures of regional scale whose settlements include travel, water, ownership,
-burial, and memory. Raising a hex moves soil and changes every
+are structures of regional scale whose settlements include travel, water,
+ownership, burial, and memory. Raising a hex moves soil and changes every
 future path and watershed that will treat the elevation as fact. Instability is
 the land continuing to remember the former load.
 
@@ -687,8 +690,8 @@ Bind Soul demonstrates that a person's living unity can be taken apart because
 blood ordinarily keeps body, consciousness, and identity mutually addressed.
 Blood Curse follows a severed part back to the continuing whole. Blood Warrior
 forces damaged tissue to act according to its undiminished claim. Meld Flesh
-uses mog because ordinary blood recognizes incompatible bodies as foreign;
-alien substance compels a false common boundary.
+uses mog because ordinary blood recognizes incompatible bodies as foreign.
+Alien substance compels a false common boundary.
 
 The practitioner now understands sacrifice. A victim is not valuable as a
 quantity of blood. The magical weight comes from ending or redirecting an
@@ -715,9 +718,9 @@ whose suffering counts and whose intention is served.
 Clone, Create Bloodling, Redirecting Barrier, and Demonic Pact show that living
 claim may be distributed among bodies, constructs, territories, and contracts.
 A clone receives consciousness because it has been prepared as a sufficiently
-exact continuation; horror persists because death was actually witnessed even
-when bodily interruption is repaired. A bloodling is not a miniature soul but
-a delegated sensory and obedient function.
+exact continuation. Horror persists because death was actually witnessed even
+when bodily interruption is repaired. A bloodling carries a delegated sensory
+and obedient function rather than a miniature soul.
 
 The master knows that identity can be extended but not multiplied without
 conflict. Rank 6 Life Bond forces several bodies to settle injury as one system.
@@ -728,8 +731,9 @@ the participants have become.
 
 ## Death Magic: The Doctrine of Severance and Remainder
 
-Death magicians teach that death is not a substance. It is the severing of
-relations by which life maintained itself. Cold, decay, silence, age, corpse,
+Death magicians teach that death severs the relations by which life maintained
+itself, rather than entering the world as a substance. Cold, decay, silence,
+age, corpse,
 ghost, and absence are different remainders of that severance. The path gains
 power by making those remainders active.
 
@@ -738,7 +742,7 @@ power by making those remainders active.
 Befoul, Contaminate, Chill of the Grave, Feign Death, and Ghoulish Glare teach
 the novice to reproduce parts of ending: loss of warmth, failed renewal,
 unresponsive flesh, social horror, and biological succession. Feign Death does
-not bring the target near an afterlife; it suspends the signals by which body
+not bring the target near an afterlife. It suspends the signals by which body
 and observer recognize ongoing life, and thereby pauses processes that require
 active circulation.
 
@@ -757,8 +761,9 @@ place and remains still witness the ending.
 
 Death's Mercy and Hand of Doom accelerate a severance already made possible by
 Broken flesh. Bane Blade removes a supernatural exception that prevents a
-weapon from participating in ending. The adept learns never to ask merely
-whether “the dead” are present, but which remainder is answering and what it
+weapon from participating in ending. The adept learns to ask which remainder is
+answering and what it still believes it owns, instead of merely whether “the
+dead” are present.
 still believes it owns.
 
 ### Rank 3 — Unfinished Relations Produce Undeath
@@ -785,8 +790,8 @@ there is no coherent settlement to which the person can return.
 
 The rank 4 necromancer learns that emptiness is never neutral for long. A vacant
 body, unclaimed grave, broken oath to the dead, or place of mass dying invites
-new claimants. Death mishaps do not summon arbitrary horrors; they expose an
-absence and allow the nearest hunger, memory, or severed will to answer it.
+new claimants. Death mishaps expose an absence and allow the nearest hunger,
+memory, or severed will to answer it, rather than summoning arbitrary horrors.
 
 ### Rank 5 — Immortality Is the Management of What Has Been Lost
 
@@ -814,8 +819,8 @@ process, not an imagined category.
 ### Rank 1 — The Element Must Already Be Present
 
 Combustion, Flaming Blade, Sunder, Suffocate, Water Breathing, and Deviation
-teach direct redirection. Fire is moved into a new fuel relation; air is removed
-from lungs or deflects a course; water participates in breath; cohesion is
+teach direct redirection. Fire is moved into a new fuel relation. Air is removed
+from lungs or deflects a course. Water participates in breath. Cohesion is
 broken along an object's existing bonds. The required element does not add
 ordinary ingredient power because it is the field of operation itself.
 
@@ -843,7 +848,7 @@ unplanned destination of a real transfer.
 
 Elemental shields, fireballs, flood waves, pressure jets, stoneskin, and
 tornadoes organize a process into a temporary boundary with chosen behavior.
-The shape is not a creature or symbol; it is a maintained flow. Fire continues
+The shape remains a maintained flow, never a creature or symbol. Fire continues
 to consume, water seeks level and exit, wind equalizes pressure, earth bears
 load. Clever casting works with those tendencies instead of wasting Willpower
 pretending they are absent.
@@ -861,16 +866,16 @@ elementals are self-renewing knots of process given a simple responsive form.
 Schools dispute whether these beings are created, invited, or merely made
 visible. All agree that their behavior remains elemental even under command.
 
-The practitioner learns that mixed elements do not simply stack. Each process
-changes the conditions of another: water carries heat, fire drives pressure,
+The practitioner learns that mixed elements change one another rather than
+stacking unchanged: water carries heat, fire drives pressure,
 air feeds flame, earth channels water. A working must choose a governing
 address or become an uncontrolled system whose most forceful relation decides
 the outcome.
 
 ### Rank 5 — Elements Can Be Made Into Local Laws
 
-Elemental Bolts display precise differentiated transfers; Ward makes a chosen
-process govern how several bodies receive danger; Liquid Form replaces a
+Elemental Bolts display precise differentiated transfers. Ward makes a chosen
+process govern how several bodies receive danger. Liquid Form replaces a
 person's material cohesion with flow while preserving intentional continuity.
 These feats reveal that “element” names a lawful behavior rather than matter
 alone.
@@ -884,8 +889,8 @@ commanded and cannot place themselves wholly outside the system.
 
 ## Ice Affinity: The Doctrine of Arrested Motion
 
-Ice druids teach that winter is the world's power
-to slow negotiation, preserve unfinished states, and make boundaries visible.
+Ice druids teach that winter is the world's power to slow negotiation, preserve
+unfinished states, and make boundaries visible.
 Crystal, frost, and snow reveal motion by arresting it into structure.
 
 ### Rank 1 — Cold Makes Passage Legible
@@ -897,7 +902,7 @@ weight through that agreement and lets the caster move without breaking it.
 
 The novice learns to read frost as evidence. Tracks, breath, condensation,
 stress cracks, and melt show where heat and motion have passed. Leaving no
-tracks does not erase passage; it prevents the surface from being allowed to
+tracks does not erase passage. It prevents the surface from being allowed to
 record the pressure in its usual way.
 
 ### Rank 2 — Cold Is a Boundary Against Change
@@ -918,8 +923,8 @@ path has repaired it.
 Armor of Ice makes a brittle material reliable by continually renewing its
 arrested pattern. Winter's Call converts a whole region's change of state into
 Willpower because the druid remains the governing intention through a long,
-difficult transition. The land pays no tribute; the caster occupies
-the contradiction between its former season and imposed winter.
+difficult transition. The land pays no tribute. The caster occupies the
+contradiction between its former season and imposed winter.
 
 At this rank, an ice druid recognizes preservation's moral ambiguity. To keep a
 wound, body, city, or grief unchanged may save it from immediate destruction
@@ -930,7 +935,7 @@ promising life.
 
 Crystalize, Encase, Mold Ice, Shatter, and Wall of Ice permit arrested form to
 be strengthened, sculpted, or catastrophically released. Crystalized ice is
-not warm glass; its phase boundary has been made independent of ordinary
+unlike warm glass. Its phase boundary has been made independent of ordinary
 temperature until fracture breaks the settlement. Shatter turns stored stress
 into sudden separation, which is why a cold-afflicted target is necessary.
 
@@ -942,13 +947,13 @@ arriving all at once.
 ### Rank 5 — Stasis Can Become Architecture and Rule
 
 Citadels, hailstorms, and Glacial Snap scale winter from object to polity and
-battlefield. A citadel is permanent as magic but conditional as ice; its
+battlefield. A citadel is permanent as magic but conditional as ice. Its
 builders must maintain the climate or accept that architecture has become a
 seasonal thing. Glacial Snap briefly makes arrest the dominant local law,
 fixing bodies to ground and turning movement into fracture.
 
-The master rejects the simple claim that ice is death. Death severs relations;
-ice prevents them from completing. Rank 6 Boreal Slave freezes a person's
+The master rejects the simple claim that ice is death. Death severs relations.
+Ice prevents them from completing. Rank 6 Boreal Slave freezes a person's
 capacity to revise conduct and makes obedience persist until fire restores
 change. It must be chance cast because no mortal can arrest every route by
 which will, memory, warmth, and outside aid might re-enter a living self.
@@ -957,8 +962,8 @@ which will, memory, warmth, and outside aid might re-enter a living self.
 
 Nature druids teach that no organism lives alone. Forest, field, storm, soil,
 fungus, prey, predator, rot, and water are exchanges that have acquired local
-memory. Nature Magic changes participation in those exchanges; it does not
-command a single benevolent being called Nature.
+memory. Nature Magic changes participation in those exchanges without
+commanding a single benevolent being called Nature.
 
 ### Rank 1 — Growth Is Borrowed From Conditions
 
@@ -978,7 +983,7 @@ stewardship, not from an automatic goodness in the address.
 Blocking Branch, Call Lightning, Fog, Glade, and Strider work because a living
 land already moves water, charge, travelers, shelter, and warning. The caster
 aligns several local participants toward one immediate use. A tree parries with
-its existing strength; a glade becomes camp because drainage, cover, soil, and
+its existing strength. A glade becomes camp because drainage, cover, soil, and
 living signals are briefly made legible together.
 
 The adept learns that every favor changes later relations. Fast travel leaves
@@ -991,7 +996,7 @@ combat scale.
 
 Bark Skin, Break Wood, Mend Wood, and Voice of the Forest teach that wood
 remains part of living exchange after cutting, but with diminishing connections.
-A living plant can supply the pattern by which a worked object repairs; mixed
+A living plant can supply the pattern by which a worked object repairs. Mixed
 materials resist because iron, glue, leather, and wood no longer share one
 growth history. The forest carries speech by passing disturbance through many
 living witnesses.
@@ -1016,8 +1021,8 @@ and what arrives to feed upon every abundance they create.
 
 ### Rank 5 — A Region Can Be Given a New Succession
 
-Animate Tree turns long-stored structure into temporary movement; Nature's
-Blessing lets outdoor exchange perform some work of rest; Wonder permanently
+Animate Tree turns long-stored structure into temporary movement. Nature's
+Blessing lets outdoor exchange perform some work of rest. Wonder permanently
 alters which climate, species, hazards, and harvests a hex will reproduce. A
 wonder is not a static enchantment. It begins a new succession whose later
 forms the caster cannot wholly design.
@@ -1043,8 +1048,8 @@ insects is both material and prepared relationship: idle enough to answer,
 near enough to assemble, numerous enough that loss of individuals does not end
 the pattern.
 
-The novice learns to communicate through gradients—light, scent, vibration,
-heat, food, danger—not sentences. Hivemind sight is broad and alien because no
+The novice learns to communicate through gradients of light, scent, vibration,
+heat, food, and danger, never sentences. Hivemind sight is broad and alien because no
 single insect provides the picture. The caster's mind assembles countless poor
 witnesses into useful certainty and may inherit their errors.
 
@@ -1056,7 +1061,7 @@ less precisely, humanoids. Stink and continual harassment demonstrate that
 control often comes from saturating attention rather than overpowering will.
 
 The adept learns why elemental damage is especially dangerous. A weapon kills
-members; fire, cold, acid, or lightning destroys the medium through which the
+members. Fire, cold, acid, or lightning destroys the medium through which the
 colony coordinates. They also learn that using living creatures as expendable
 parts is not made innocent by their smallness. Swarm schools disagree sharply
 on breeding, release, invasive species, and whether a created blanket is ally,
@@ -1067,7 +1072,7 @@ livestock, sacrament, or ammunition.
 Brain Parasite, Create Hive, Insect Swarm, Lord of Flies, and Probe Area show
 that distributed life can occupy a host, establish lasting habitat, harvest
 injury, or return a composite report. A parasite does not issue perfect
-commands; it weights thoughts within the host's existing nature. Scouts report
+commands. It weights thoughts within the host's existing nature. Scouts report
 what insect senses can distinguish, not what the caster hoped to ask.
 
 At this rank, the practitioner recognizes a hive as a political body. Queens,
@@ -1085,8 +1090,8 @@ the distributed form cannot carry unaided.
 
 The rank 4 magician learns to fear host-and-throne mishaps. When coordination
 becomes dense enough, the colony may use the caster as its organ rather than
-the reverse. The resulting will is neither an invading individual nor the old
-caster gone mad; it is a new political body formed without consent.
+the reverse. The resulting will is a new political body formed without consent,
+neither an invading individual nor the old caster gone mad.
 
 ### Rank 5 — Evolution Is Directed Memory With a Price
 
@@ -1097,17 +1102,17 @@ institutional collapse part of one working. At this scale, “target” is an
 ecology rather than a creature.
 
 The master understands that adaptation always has context. Resistance to cold
-may reduce heat tolerance; larger bodies need different food and reproduction;
-plague populations remain after commands end unless deliberately settled.
+may reduce heat tolerance. Larger bodies need different food and reproduction.
+Plague populations remain after commands end unless deliberately settled.
 Rank 6 Everswarm makes the caster a permanent source and refuge for colony.
 Chance casting is required because becoming habitat gives the swarm an
 unbounded claim upon body, travel, descendants, and place.
 
 ## Magma Song: The Doctrine of Remembered Potential
 
-Magma singers teach that matter remembers not only what it has been, but what
-its history makes it capable of becoming. Volcanic stone remembers liquidity;
-water remembers vapor and ice; a fracture remembers the heat by which it can
+Magma singers teach that matter remembers what it has been and what its history
+makes it capable of becoming. Volcanic stone remembers liquidity. Water
+remembers vapor and ice. A fracture remembers the heat by which it can
 close. Poetry matters because metaphor trains the mind to recognize identity
 across transformation without treating every resemblance as fact.
 
@@ -1133,7 +1138,7 @@ because its present standing belongs to Blood and living continuity more
 strongly than to free phase-change.
 
 The adept learns that potential is directional. Melting releases stored
-structure; refreezing does not automatically restore the former object.
+structure. Refreezing does not automatically restore the former object.
 Repairing stone requires attention to every crack as the object passes through
 a softened state. Heat used as transport, armor, or craft continues to burn
 unprotected gear and surroundings because remembered potential is not obedient
@@ -1145,7 +1150,7 @@ Absorb Lava, Firestorm, Firewall, Magma Cascade, and the Fire Wyrm draw upon
 large reservoirs of geologic change. Cooling lava to gain Willpower occupies
 the contradiction between its moving, incandescent history and its forced
 solid future. A summoned wyrm is volcanic violence given a temporary route, not
-a tame animal; it spares its caller but attacks according to its awakened
+a tame animal. It spares its caller but attacks according to its awakened
 nature.
 
 At this rank, the singer hears pressure as part of memory. Buried heat, gas,
@@ -1171,7 +1176,7 @@ not provide somewhere safe to go.
 Molten Seat creates enduring habitation by negotiating an exception within a
 dangerous geologic system. Volcanic Transportation treats magma streams as
 connected circulation. Volcanic Eruption makes buried potential settle as a
-surface catastrophe. None creates energy; all decide where an immense existing
+surface catastrophe. None creates energy. All decide where an immense existing
 history becomes present.
 
 The master knows why empathy belongs in this tradition. To understand a thing's
@@ -1185,7 +1190,7 @@ survives its completion.
 
 Mentalists teach that a person acts within a model of the world assembled from
 attention, memory, language, expectation, and bodily feeling. To alter that
-model is not always to alter external matter, but conduct based upon it produces
+model may leave external matter untouched, but conduct based upon it produces
 real history. The path's deepest claim is that the self is also such a model,
 continuously authored rather than indivisible.
 
@@ -1197,16 +1202,16 @@ meaning, object, threat, or interpretation easier to complete than its rivals.
 The target supplies most of the result from habits already present.
 
 This is why a subtle command works better when plausible, and why an impossible
-one exposes the spell. Mental resistance is not a wall around the skull. It is
-the target's ability to notice contradiction, retain an alternative account,
-and refuse to author the offered meaning as their own.
+one exposes the spell. Mental resistance lies in the target's ability to notice
+contradiction, retain an alternative account, and refuse to author the offered
+meaning as their own, rather than in a wall around the skull.
 
 ### Rank 2 — Memory and Interpretation Can Be Cut or Redirected
 
 Amnesia, Confusion, Mind Blast, Mirror Images, Mind Shield, and Truth Sense
 separate mental functions that ordinary life experiences as one. Memory can be
-removed while personality remains; rational integration can break while sense
-continues; images can multiply the target's candidate realities; focused will
+removed while personality remains. Rational integration can break while sense
+continues. Images can multiply the target's candidate realities. Focused will
 can deny an intruding claim standing.
 
 The adept learns that “truth” in this path often means coherence under
@@ -1251,7 +1256,7 @@ at a different rate or carries its historical continuity elsewhere.
 
 The master knows that consent is a structural safeguard as well as an ethic.
 A willing mind supplies correction when transferred knowledge meets lived
-context; an unwilling one becomes a field of hidden resistance. Rank 6 Mind
+context. An unwilling one becomes a field of hidden resistance. Rank 6 Mind
 Seed permanently rewrites the authorship by which a person revises themselves.
 It must be chance cast because the caster cannot know every memory and relation
 that will answer the replacement, nor prove which continuing speaker is now the
@@ -1259,9 +1264,9 @@ person.
 
 ## Oneiromancy: The Doctrine of Unsettled Worlds
 
-Oneiromancers teach that a dream is not a meaningless picture shown to a
-sleeping brain. It is a working model allowed to develop without being forced
-to agree with the settled world at every moment. Dreams contain memory, fear,
+Oneiromancers teach that a dream is a working model allowed to develop without
+being forced to agree with the settled world at every moment, not a meaningless
+picture shown to a sleeping brain. Dreams contain memory, fear,
 desire, bodily signal, and unrealized possibility in relations too fluid for
 waking life.
 
@@ -1282,9 +1287,9 @@ and physical hazards.
 ### Rank 2 — Dreams Can Admit Other Minds
 
 Dream Visit, Lullaby, Mara, Probe Dream, and Sleepwalker reveal that sleep is
-private by habit, not absolute law. A familiar place or person provides an
+private by habit, without the force of absolute law. A familiar place or person provides an
 address into an unsettled model. Questions work because the sleeping subject
-cannot revise an answer through as many social defenses; scenarios work because
+cannot revise an answer through as many social defenses. Scenarios work because
 the dream lets intention be tested without external consequence.
 
 The adept learns that dream truth is dispositional. It shows what a subject can
@@ -1314,8 +1319,8 @@ undisturbed quarter day's reconciliation into Willpower. Manifest Dream gives
 an imagined structure or beast enough shared boundaries to persist through the
 next waking day.
 
-The rank 4 oneiromancer knows that manifestation is not creation without cost.
-The dream supplies design and temporary history; waking matter accepts the form
+The rank 4 oneiromancer knows that manifestation carries the cost of creation.
+The dream supplies design and temporary history. Waking matter accepts the form
 only while the dream's scheduled settlement remains active. Repeated refuge in
 a palace can make ordinary time feel false and turn voluntary return into the
 most difficult boundary of the spell.
@@ -1329,17 +1334,17 @@ comes from Willpower and, for great changes, the surrendered history of an
 artifact. Repeating a wish corrupts it because the first alternative has become
 part of settlement and the same wording no longer addresses the same absence.
 
-The master learns that dreams are not another dimension containing every
-desired object. They are the world's capacity to entertain arrangements before
-history closes around one. Rank 6 Future Dream attempts to choose a fully
+The master learns that dreams express the world's capacity to entertain
+arrangements before history closes around one. They do not form another
+dimension containing every desired object. Rank 6 Future Dream attempts to choose a fully
 developed future and wake inside it. Chance casting is unavoidable because the
 dreamer cannot include every other person's choice, every unobserved cause, or
 the discarded future that now knows it was refused.
 
 ## Magnetism: The Doctrine of Directional Obligation
 
-Magnetists teach that location is only one property of an object. Objects stand in
-fields of preferred direction and relation: iron to pole, weight to ground,
+Magnetists teach that location is only one property of an object. Objects stand
+in fields of preferred direction and relation: iron to pole, weight to ground,
 blood to body, weapon to hand, spell to target. Magnetism begins with iron
 because its obligations are strong and legible, then learns to address
 direction itself.
@@ -1354,14 +1359,14 @@ through which a wound's outward direction may be opposed.
 
 The novice learns that magnetism is not attraction alone. Every pull defines a
 counter-pull, every north a south, and every fixed object a reference frame. A
-spell that does not specify what bears the answering force has merely hidden
-its most dangerous target.
+spell that does not specify what bears the answering force has hidden its most
+dangerous target.
 
 ### Rank 2 — Polarity Can Reassign Combat Relations
 
 Attract, Deflect Metal, Disarm, Launch Weapon, and Repel make weapons and armor
-prefer or refuse particular courses. They do not remove momentum; they bend the
-relation by which momentum reaches its target. A returning weapon uses the
+prefer or refuse particular courses. They bend the relation by which momentum
+reaches its target without removing it. A returning weapon uses the
 caster's held field as its destination. A parried blade may stick because its
 remaining motion finds a new local settlement.
 
@@ -1375,11 +1380,11 @@ often choosing the small piece whose movement has the largest consequence.
 Arrow Storm, Bloodshock, Fling, Magnetic Flight, and Sense Metal extend the
 field from object manipulation to bodies and apparent gravity. Bloodshock works
 through iron-bearing circulation but produces unconsciousness by disturbing
-the body's directional and rhythmic agreement. Magnetic Flight does not erase
-mass; it creates a sustained repulsion between burden and ground.
+the body's directional and rhythmic agreement. Magnetic Flight creates a
+sustained repulsion between burden and ground without erasing mass.
 
-At this rank, magnetists debate whether gravity is governed by magnetism. The practical
-answer is that both can be addressed as directional obligation, although iron
+At this rank, magnetists debate whether gravity is governed by magnetism. The
+practical answer is that both can be addressed as directional obligation, although iron
 provides the safer anchor. Sense Metal perceives living bodies through their
 minute fields, proving that an address may be weak in each part and decisive in
 aggregate.
@@ -1416,8 +1421,8 @@ direction, and every boundary neither magician designed to coexist.
 
 Demonic magicians work from the one fact other paths prefer to treat as an
 exception: the world is not closed. Churmog possesses laws and living forms not
-settled by this world's history. Mog is those foreign laws made physical—matter
-that continues to insist it belongs to another order while present here.
+settled by this world's history. Mog is those foreign laws made physical:
+matter that continues to insist it belongs to another order while present here.
 
 ### Rank 1 — Mog Is Material Contradiction
 
@@ -1441,7 +1446,7 @@ boundary where mog is instructed to answer outward, but the body beneath
 remains its nearest alternative host.
 
 The adept learns that demons and mog are related but not interchangeable. Mog
-is raw possibility under Churmog's conditions; a demon is mog that has acquired
+is raw possibility under Churmog's conditions. A demon is mog that has acquired
 form, appetite, memory, and strategy. Understanding its language reveals its
 present appetite, not honest intention. Foreign intelligibility is not shared
 morality.
@@ -1455,8 +1460,8 @@ mog continually insists that incompatible tissue belongs within one body. Each
 additional graft increases the number of objections that living continuity must
 be prevented from settling.
 
-Corruption is therefore not a stain measured only by appearance. It is foreign
-standing accumulated inside identity. When it exceeds Empathy, demons recognize
+Corruption is foreign standing accumulated inside identity, not a stain
+measured only by appearance. When it exceeds Empathy, demons recognize
 the person as contested territory whose local relationships are no longer
 strong enough to guarantee ownership.
 
@@ -1466,11 +1471,11 @@ Compel Demon, Demon Limb, Reshape Body, and Tear the Veil let the practitioner
 address Churmog as material and as a counterparty. Literal commands work
 because compulsion supplies force while the demon retains authorship of
 interpretation. Reshaping works quickly because mog recognizes no sacred prior
-form; the body's violent return shows that local continuity does.
+form. The body's violent return shows that local continuity does.
 
-The rank 4 magician learns that a veil is not a wall in space. It is the
-incompatibility that prevents two worlds from treating one another's contents
-as local. Every tear teaches both sides a route. Closing the visible opening
+The rank 4 magician learns that a veil is the incompatibility preventing two
+worlds from treating one another's contents as local, not a wall in space. Every
+tear teaches both sides a route. Closing the visible opening
 does not erase what noticed, crossed, smelled, named, or learned the caster.
 
 ### Rank 5 — Foreign Settlement Can Colonize the World
@@ -1486,7 +1491,7 @@ The master reaches the path's disputed conclusion: Demonic Magic may not be a
 native path at all. It uses mortal Willpower to invite an external metaphysics
 to do what local settlement resists. Rank 6 Apotheosis and Churmog Gate make the
 caster or place part of that external address. Chance casting is necessary but
-almost a euphemism; the uncontrolled answer is the central purpose of the act,
+almost a euphemism. The uncontrolled answer is the central purpose of the act,
 and the person or land that began it cannot remain wholly theirs.
 
 ## Contradictions a Master Is Expected to Carry
@@ -1508,10 +1513,10 @@ magician enough evidence to state the disagreements precisely.
 - **Symbolism and Stone Song:** Symbolism says recognized definition makes
   relation portable. Stone Song says no definition escapes the material history
   that bears it. An artifact is the argument made permanent between them.
-- **Elemental Magic and Magma Song:** Elementalists describe present process;
-  magma singers address historical potential. The former asks what matter is
+- **Elemental Magic and Magma Song:** Elementalists describe present process.
+  Magma singers address historical potential. The former asks what matter is
   doing, the latter what its actual past permits it to become.
-- **Nature and Swarm:** Nature emphasizes reciprocal system; Swarm shows that
+- **Nature and Swarm:** Nature emphasizes reciprocal system. Swarm shows that
   systems can acquire centers, appetites, and politics. Each can expose the
   other's romanticism.
 - **Blood and Magnetism:** Blood names living identity as the carrier of bodily

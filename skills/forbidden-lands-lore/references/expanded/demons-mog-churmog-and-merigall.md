@@ -11,8 +11,8 @@
 > lore without removing those truths.
 
 This study gathers the demon material in Books 01–03, the Raven's Purge
-campaign reference, and the best community theorycraft found on Reddit, the
-Free League forum, and long-form fan analysis. Its purpose is practical.
+campaign reference, and community theorycraft found on Reddit, the Free League
+forum, and long-form fan analysis. Its purpose is practical.
 After reading it, a GM should be able to answer four questions at the table:
 
 1. What evidence distinguishes a true demon from a beast, the undead, or a
@@ -32,14 +32,14 @@ Every difficult claim carries one of four marks.
 - **INFERENCE:** A conclusion that joins two or more canon facts. It should
   remain true unless the GM chooses another explanation.
 - **COMMUNITY THEORY:** A useful interpretation proposed by players or GMs.
-  It is not official setting truth.
+  Published material does not establish it as setting truth.
 - **DESIGN EXTENSION:** New material for this reference. Use it when deeper
   demonology will improve play.
 
 These marks matter most around Churmog. The books give hard facts about mog and
 nexuses. They also establish ether starvation and named demons. They give almost
 no direct description of Churmog's land, ordinary life, or laws. A red world of living
-matter is a strong model. It remains a model.
+matter fits those facts. It remains a model.
 
 ## The Short Working Doctrine
 
@@ -74,8 +74,8 @@ variants unless a campaign deliberately makes them different places.
 **Mog** is the living substance associated with Churmog. The similarity of
 the names supports a relation but gives no grammar. Erik Granström has said
 that he chose the sound of *mog* and did not derive it from the older demon
-name Sathmog. A folk etymology can still exist in play; it is not authorial
-canon.
+name Sathmog. A folk etymology can still exist in play. It remains outside
+authorial canon.
 
 **Demon** has two useful senses:
 
@@ -87,10 +87,10 @@ The broad sense explains why Bloodlings count as demons even if their substance
 and home differ from Merigall's. The narrow sense explains why a test for mog
 can identify Merigall while failing on a Bloodling.
 
-**Misgrown** are local creatures altered, joined, or made through demonic work.
-They are not automatically true demons. Healing magic distinguishes them:
-BANISH DEMON harms true demons but has no effect on merely demon-tainted
-creatures; BEND DEMON harms Misgrown at reduced strength.
+**Misgrown** are local creatures altered, joined, or made through demonic work,
+without automatically becoming true demons. Healing magic distinguishes them.
+BANISH DEMON harms true demons but has no effect on demon-tainted creatures.
+BEND DEMON harms Misgrown at reduced strength.
 
 **Demon-tainted** describes a local creature carrying foreign influence without
 settling its taxonomy. Zertorme is tainted through Brinhelda. A Twisted Ent is
@@ -119,18 +119,18 @@ the transformation, not a universal life cycle for every Churmog being.
 
 **CANON:** Any creature foreign to the world can be called a demon. It may have
 been summoned by a spell or crossed through a nexus. Others reproduced after
-arrival or fused with local flesh. There is no required shape or morality;
-intelligence and ecology vary as widely.
+arrival or fused with local flesh. No shape or morality is required.
+Intelligence and ecology vary as widely.
 
 **CANON:** Every generated demon is unique. The Book 02 tables separate form
 from visible ability. Attacks, special ability, and weakness are generated
-apart. A beautiful humanoid
-may be immune to weapons and weak to a child's lullaby. A fog may carry a heavy
+apart. A beautiful humanoid may be immune to weapons and weak to a child's
+lullaby. A fog may carry a heavy
 weapon. The mismatch is part of the creature's nature.
 
 **INFERENCE:** Taxonomy should begin with provenance and function rather than
-anatomy. Horns prove nothing. A gatekeeper can have demon skin while killing demons on
-sight. A horned Misgrown can be native flesh altered in a laboratory. An
+anatomy. Horns prove nothing. A gatekeeper can have demon skin while killing
+demons on sight. A horned Misgrown can be native flesh altered in a laboratory. An
 ordinary-looking bard can consist entirely of mog.
 
 ### What Mog Does
@@ -157,7 +157,7 @@ The books show mog doing six distinct jobs.
 things. Mog can also replace tissue, transmit intent, retain form, and grow.
 A better workshop term is **obedient foreign flesh**. It obeys a shape or bond
 until another appetite changes the instruction. A stronger will may do the
-same; so may chemical attack or dimensional pressure.
+same. Chemical attack or dimensional pressure may also alter it.
 
 ### Mog as Material
 
@@ -175,8 +175,8 @@ Those facts create ordinary handling practice:
 - Stopper glass with wax over cork. Mog that reaches cork alone finds the seam.
 - Keep lye, alcohol, water, wooden tongs, and a spare outer wrap in another
   pack. Never store the cleaning kit beside the mog.
-- Mark contaminated tools by cutting two notches in the haft. Ink disappears;
-  the notch remains.
+- Mark contaminated tools by cutting two notches in the haft. Ink disappears.
+  The notch remains.
 - Put no sample in a metal strongbox. The box hides the leak until the hinge
   fails.
 - Do not taste it. Demonologists write this because demonologists have tasted
@@ -191,8 +191,8 @@ two grades worth distinguishing in play:
 - **Gate mog** is newly drawn and less instructed. It is better for wards,
   shaping, or controlled experiments.
 
-That distinction is a **DESIGN EXTENSION**. It gives investigators a reason to
-care where a sample came from.
+The two grades are a **DESIGN EXTENSION** that makes a sample's provenance
+matter to investigators.
 
 ### Mog under Experiment
 
@@ -229,8 +229,8 @@ make the substance harmless.
   corrode, seek compatible flesh, repeat the last motion of its donor, or creep
   toward a breach.
 
-These are laboratory terms, not species. A sample can pass through several
-states in one round.
+The terms describe laboratory states, not species. A sample can pass through
+several in one round.
 
 #### The Split-Vial Method
 
@@ -278,16 +278,15 @@ person or learned a name can enter that person's dreams at any distance.
 Cleaning skin and tools removes matter. It may not remove the route learned by
 the foreign substance.
 
-A laboratory therefore keeps names out of the workroom. Assistants use task
+A laboratory keeps names out of the workroom. Assistants use task
 names, samples use cut marks, and written ledgers remain outside the chamber.
 Burning the ledger afterward is theater if the demon heard the names spoken.
 
 ### Uses of Mog That Do Not Require a New Spell
 
-The following are **DESIGN EXTENSIONS**. They are investigations, traps, and
-materials, not automatic powers. Require a relevant skill roll, enough time,
-and a real sample. Failure should reveal the investigator, spread corruption,
-or destroy the evidence.
+Treat these **DESIGN EXTENSIONS** as investigations, traps, and materials. Each
+requires a relevant skill roll, enough time, and a real sample. Failure should
+reveal the investigator, spread corruption, or destroy the evidence.
 
 | Operation | Procedure | Use | Failure |
 | --- | --- | --- | --- |
@@ -304,16 +303,16 @@ or destroy the evidence.
 | Contract blot | Touch a written demonic compact with mog harvested from one signatory | Reveals clauses or marks that carry bodily force | The contact counts as the signatory touching or accepting an amendment |
 | Dead instruction | Starve keyed mog of every valid target while preserving its container | Lets the investigator observe what the instruction does when it cannot finish | The instruction widens its definition until the investigator qualifies |
 
-Mog craft works best when the party knows one variable and risks learning a
-second. If every operation answers every question, demons become chemistry
-problems with horns.
+Mog craft works when the party knows one variable and risks learning a second.
+If every operation answers every question, demons become chemistry problems
+with horns.
 
 ### Counterfeit Mog and Adulteration
 
-Raw mog is rare, illegal, and valuable. A market will acquire fraud. Dyed bile,
-verdigris suspended in glue, spoiled lamp oil, and animal fat mixed with acid
-can imitate color, smell, or corrosion. Some frauds are safer than the genuine
-article. Others kill the buyer before a demon becomes involved.
+Raw mog is rare, illegal, and valuable. A market will acquire fraud. Dyed bile
+or verdigris suspended in glue can imitate the color. Spoiled lamp oil or animal
+fat mixed with acid supplies smell and corrosion. Some frauds are safer than the
+genuine article. Others kill the buyer before a demon becomes involved.
 
 **DESIGN EXTENSION:** A more dangerous adulteration mixes two real samples.
 The buyer receives working mog with conflicting addresses. A spell succeeds,
@@ -341,10 +340,10 @@ Three models fit the facts.
 could not process Ravenland air. A few could convert local matter into ether or
 carry organs that did so.
 
-Use this model when demon lairs should have physical weather. A lair replaces
-air with something thin, sweet, or metallic. Lamps gutter. Milk foams. Kin tire
-while the demon grows quick. Breaking the ether organ turns the lair breathable
-and the demon sluggish.
+Under this model, a demon lair has physical weather. It replaces air with
+something thin, sweet, or metallic. Lamps gutter. Milk foams. Kin tire while the
+demon grows quick. Breaking the ether organ turns the lair breathable and the
+demon sluggish.
 
 #### Ether as Food
 
@@ -352,10 +351,9 @@ and the demon sluggish.
 summoned predators can live off local substitutes; armies cannot invade without
 a reliable flow. The nexus supplied a beachhead. Closing it starved the host.
 
-Use this model when demon war should be logistical. Stores, feeder organisms,
-supply demons, and gate schedules matter. A small demon can be bribed with a
-sealed jar of ether. A prince can be defeated by burning the organisms that
-feed its court.
+This turns demon war into logistics. Stores, feeder organisms, supply demons,
+and gate schedules matter. A small demon can be bribed with a sealed jar of
+ether. A prince can be defeated by burning the organisms that feed its court.
 
 #### Ether as Permission
 
@@ -364,11 +362,11 @@ matter it is allowed to remain coherent. A demon deprived of it must spend
 mog, identity, sacrifice, or local attachments to keep its body from becoming
 several incompatible things.
 
-Use this model when names, contracts, offspring, hosts, and places act as
-anchors. Starvation first produces slips of form and memory. A demon loses a
+Names, contracts, offspring, hosts, and places can act as anchors under this
+model. Starvation first produces slips of form and memory. A demon loses a
 borrowed voice, then a limb, then the distinction between itself and the bodies
-it consumed. This model best explains why Merigall's continuity mechanisms and
-Krasylla's accumulation of matter are politically valuable.
+it consumed. This model ties Merigall's continuity mechanisms and Krasylla's
+accumulation of matter to their political value.
 
 No campaign needs to choose only one. Ether can be air to one species, food to
 another, and permission to a being assembled from many selves.
@@ -394,8 +392,8 @@ Everything beyond those points needs a mark.
 weather, animals, and cities are tissues of one red medium. Demons bud from it,
 join it, and eat one another without a clean border between citizen and land.
 
-This model explains Merigall's delight in Ravenland colors. It also makes the
-word *body* local rather than universal. A Churmog “house” could be a dormant
+Merigall's delight in Ravenland colors follows from this model. The word *body*
+also becomes local rather than universal. A Churmog “house” could be a dormant
 organ. A road could digest the weak. A prince's border could be the distance at
 which the ground remembers that prince's pulse.
 
@@ -405,10 +403,10 @@ which the ground remembers that prince's pulse.
 lesser organisms, stored persons, tools, and appetites. Plant, animal, building,
 and weapon are poor categories there.
 
-This model explains random demon construction, Krasylla's growth through
-consumption, Marga and Martea manifesting devoured faces, and Merigall's mutable
-body. It gives investigators a useful question: which part of the demon is
-making the decision?
+Random demon construction and Krasylla's growth through consumption fit this
+model, as do the devoured faces manifested by Marga and Martea. Merigall's
+mutable body fits it as well. Investigators can then ask which part of the demon
+makes the decision.
 
 #### The Feudal Flesh Model
 
@@ -426,11 +424,11 @@ sentence.
 
 **CANON and DESIGN EXTENSION:** Churmog is one foreign world among many. Forum
 discussion with a game author supports unstable nexuses whose far ends can flip
-between worlds. The Dreamstress comes from Eoni; other campaign demons come
-from Harachne; Bloodlings may have another home.
+between worlds. The Dreamstress comes from Eoni. Other campaign demons come
+from Harachne. Bloodlings may have another home.
 
-This prevents demonology from collapsing into Churmog studies. A copper blade
-that cuts a Bloodling and a blade treated with Gatekeeper ichor can both be
+The many-world model keeps demonology broader than Churmog studies. A copper
+blade that cuts a Bloodling and a blade treated with Gatekeeper ichor can both be
 “anti-demon” tools while working on different foreign substances.
 
 ### Nexuses and Breaches
@@ -463,7 +461,7 @@ that assumption.
 
 - Blood Mist and Bloodlings may be network and temporary body.
 - A Possessor is mist until it inhabits a host.
-- Marga has an immense body and a child-shaped heart-avatar.
+- Marga's body fills the Stoneloom Mines and has a child-shaped heart-avatar.
 - Martea is human will, Abyss Worm body, and stored victim faces.
 - Zytera combines Zygofer, Therania, and a spider demon.
 - Krasylla consumes bodies and moves toward sarmog.
@@ -496,7 +494,7 @@ The books show hierarchy without explaining a constitution.
 - Krasylla returned to the sealed nexus with remaining servants. The servants
   survived defeat as a group and followed their captain into a worse position.
 - Krasylla butchers demons that emerge from the unstable nexus. Control of
-  entry is therefore enforced against other outsiders, not only mortals.
+  entry is enforced against other outsiders as well as mortals.
 - Pox Yersinia sends Rat Kings ahead of her. They alter local ecology, gather
   names, and prepare passage for a stronger being.
 - Bloodlings devour one another when made homesick. A few fearful gas demons
@@ -506,7 +504,7 @@ The books show hierarchy without explaining a constitution.
 
 **INFERENCE:** Strength among demons is the ability to take another being's
 body, supply, route, or continuity and make it part of one's own. Fear of a
-greater demon is therefore concrete. The greater demon can eat the lesser,
+greater demon has a concrete object. The greater demon can eat the lesser,
 rekey its mog, seize its host, expose its weakness, or deny the ether that keeps
 it coherent.
 
@@ -534,8 +532,8 @@ rank differently under each measure.
 Krasylla holds incorporation, dependents, and a strategic address at Vond.
 Zytera holds address and secrets but has poor internal coherence. Merigall holds
 mobility, dependents, and secrets while another being possesses its essence.
-None is simply “higher level” than the others. Their holdings explain why each
-needs the other alive.
+None stands above the others in every holding. Their holdings explain why each
+needs the others alive.
 
 ### Patronage as Borrowed Body
 
@@ -664,7 +662,7 @@ A demon seeking such standing needs witnesses. It may keep a road safe, marry
 into a household, accept a local weakness, bury bodies, and refuse a route home.
 Another demon calls this camouflage or desertion. A druid may call it nature
 repairing an intrusion. BANISH DEMON still answers the rules question set by the
-GM; village recognition answers who will hide the target from the caster.
+GM. Village recognition answers who will hide the target from the caster.
 
 Krasylla's possible wish to become a local demon becomes more than affection for
 Ravenland. Local standing could make Goder's claim weaker, alter the meaning of
@@ -751,11 +749,11 @@ with Zytera must decide which voice can bind the whole.
 parts of her body. She practices invasion through proxies and can plausibly
 claim that no treaty at Vond binds her.
 
-**The remaining gas demons** have the best information about predation because
+**The remaining gas demons** have the most direct knowledge of predation because
 they survive by avoiding stronger brethren. They possess little force and high
 value as guides, witnesses, and defectors.
 
-These positions create transactions without friendship. Krasylla buys the
+Their positions create transactions without friendship. Krasylla buys the
 location of an emerging rival. Merigall sells the warning and tells the rival
 where to hide. Zytera offers the rival a body that quietly reports to the
 Mogarium. A gas demon tells all three different routes and leaves before dawn.
@@ -765,7 +763,7 @@ Mogarium. A gas demon tells all three different routes and leaves before dawn.
 Reddit theorycraft treats a reopened Protonexus as the beginning of demon civil
 war rather than one unified invasion. Minor beings cross first because they fit,
 scout, or are expendable. Larger bodies follow once the near side provides
-ether, hosts, and space. Old rivals recognize Krasylla. Some attack; others offer
+ether, hosts, and space. Old rivals recognize Krasylla. Some attack. Others offer
 the matter needed for sarmog in exchange for passage or office.
 
 **DESIGN EXTENSION:** Run the flood through four arrivals.
@@ -785,10 +783,10 @@ urgent. It need not be the only action that matters.
 
 ## Demonic Magic as Experimental Evidence
 
-Demonic Magic is not only a list of powers. It is the most repeatable body of
-evidence about Churmog available in Ravenland. Every spell is a procedure that
-does the same thing often enough for another practitioner to test it. Read the
-discipline as a dangerous natural philosophy.
+The spells of Demonic Magic form Ravenland's most repeatable body of evidence
+about Churmog. Every spell is a procedure that does the same thing often enough
+for another practitioner to test it. Read the discipline as a dangerous natural
+philosophy.
 
 | Working | What the working demonstrates | What an investigator can do with that knowledge |
 | --- | --- | --- |
@@ -809,7 +807,7 @@ discipline as a dangerous natural philosophy.
 | TEAR THE VEIL | A temporary mouth has a detectable far side, passes mog, and attracts nearby attention in Churmog | Open no test tear without a receiving vessel, a kill ground, a timed withdrawal, and a record of what notices first |
 | FLESH ABOMINATION | Enough mog can replace speech, empathy, and initiative with durable imposed function | Attack the command relation and range before the body; preserve evidence of the original creature if reversal is sought through Epic Magic |
 | MOG FLOOD | Churmog matter can briefly overwrite terrain and leave a year-long ecological wound after evaporation | Sample the center and rim separately, map runoff before rain, and quarantine seed, wells, grazing animals, and scavengers |
-| SUMMON DEMON | A living sacrifice, an address, and sufficient power can seize a foreign body without first securing its consent | Prepare language, leverage, boundaries, and an exit before arrival; the summoning circle is a delivery point, not a prison |
+| SUMMON DEMON | A living sacrifice, an address, and sufficient power can seize a foreign body without first securing its consent | Prepare language, bargaining power, boundaries, and an exit before arrival; the summoning circle is a delivery point, not a prison |
 | APOTHEOSIS | Mog can preserve memory while replacing kin, aging, healing, empathy, and bodily category | Decide whether testimony, debts, names, and contracts attach to memory, body, or kin before the transformation occurs |
 | CHURMOG GATE | A permanent mouth corrupts an entire hex, creates an ecology, and depends on a chosen anchor or the caster's life | Find the anchor before attacking the caster; plan for refugees, blackened land, Misgrown succession, and demons already in transit |
 
@@ -824,7 +822,7 @@ The older disciplines supply a second set of controls:
   can temporarily dominate a demon whose physical strength would make capture
   impossible.
 - **CALL DEMON** distinguishes summoning a demon already in the hex from
-  pulling one across worlds. A failed search is therefore evidence about local
+  pulling one across worlds. A failed search supplies evidence about local
   presence, not about Churmog's population.
 - **DEMONIC PACT** proves that service, restraint, and banishment can persist as
   a magical relation. Krasylla's written compact shows why practitioners also
@@ -934,7 +932,7 @@ in a glazed bowl. Never pour a sample into a well.
 
 #### Lye and Acid
 
-Acid dissolved Merigall's body; lye can destroy the recovered essence. Each can
+Acid dissolved Merigall's body. Lye can destroy the recovered essence. Each can
 also ruin local tissue and evidence. Use them only after separating body, bond,
 and essence.
 
@@ -996,8 +994,9 @@ Common appetites include:
 - novelty, grief, spectacle, worship, silence, or exact obedience
 - a route home that does not deliver it to a rival
 
-An appetite is leverage only when the adventurers can meter it. A promise of
-food is weak. A stoppered vessel opened one finger-width at a time is a bargain.
+An appetite matters in a bargain only when the adventurers can meter it. A
+promise of food is weak. A stoppered vessel opened one finger-width at a time is
+a bargain.
 
 ### The Four Prices
 
@@ -1052,7 +1051,7 @@ than freedom.
 ### Parley with a Lesser Demon
 
 A lesser demon often fears its own side more than the adventurers. Threatening
-its body repeats the patron's leverage. Offer something the patron cannot give:
+its body repeats the patron's hold. Offer something the patron cannot give:
 a death that leaves no recoverable mog, a native identity, a hidden route, a
 replacement organ, or proof that the servant has already been abandoned.
 
@@ -1094,7 +1093,7 @@ tested by someone else.
 Approach through an office rather than appetite. Krasylla can be addressed as
 keeper of Vond, eater of intruders, captain of the stranded host, or claimant to
 sarmog. Each office accepts different evidence and creates a different bargain.
-Calling a prince merely “demon” discards useful distinctions.
+Calling a prince only “demon” discards useful distinctions.
 
 A greater demon also needs deniability. Offer a result that can be blamed on a
 servant, mortal faction, unstable gate, or old contract. The payment may be the
@@ -1134,8 +1133,8 @@ roll from evidence already in play.
 - Binding the **essence** follows the being through shapes. It requires access
   to the essence, name, or collateral that proves continuity.
 
-This distinction should reward investigation, never invalidate a successful
-spell after the fact. If the party had evidence that the yellow-eyed bard was
+Investigation should refine later attempts, never invalidate a successful spell
+after the fact. If the party had evidence that the yellow-eyed bard was
 the whole target, binding the body binds Merigall for the spell's duration. New
 knowledge changes later attempts.
 
@@ -1166,8 +1165,8 @@ new object of custody and a new political problem.
 
 ### Creative Commands That Produce Knowledge
 
-Commands need not order violence. The following uses preserve more agency and
-often reveal more leverage.
+Commands need not order violence. These uses preserve more agency and often
+reveal more bargaining power.
 
 - “Place one hand on the part of this body that belongs to another.”
 - “Name the next being that can compel you after I release you.”
@@ -1201,9 +1200,9 @@ the exchange around incompatible aims.
 - A Gatekeeper denies passage to a named outsider; the party proves the outsider
   crossed under another name.
 
-The best compact gives each enemy a reason to perform while preserving one
-piece of leverage after performance. A bargain that ends with a fully informed,
-fully supplied demon and no remaining collateral is a gift.
+A compact should give each enemy a reason to perform while preserving one piece
+of advantage afterward. A bargain that ends with a fully informed, fully
+supplied demon and no remaining collateral is a gift.
 
 ## Defeat and Control
 
@@ -1283,8 +1282,8 @@ flee, bargain, or kill the archer.
 the first three adds Wits damage. Four or more stones thrown into the Protonexus
 seal it and destroy the crown.
 
-Artifacts are leverage because demons know their stories. Concealing an artifact
-can matter more than drawing it.
+Artifacts matter because demons know their stories. Concealing one can matter
+more than drawing it.
 
 ### Defeat through Demonic Society
 
@@ -1316,8 +1315,8 @@ split its body, or let the rival speak from inside it.
 
 ### Mog Countercraft
 
-These operations are **DESIGN EXTENSIONS**. They require prior tests on the
-target's mog. Never reveal them as universal recipes.
+Prior tests on the target's mog are required for each **DESIGN EXTENSION** below.
+Never reveal them as universal recipes.
 
 #### Instruction Collision
 
@@ -1378,7 +1377,7 @@ one enemy.
 
 ### Nine Unusual Victories
 
-Use these as outcomes after enough evidence has been gathered.
+Grant one of these outcomes after the adventurers gather enough evidence.
 
 1. **False death:** The demon's patron accepts a destroyed body and stops
    searching. The hidden demon now owes the people who maintain the lie.
@@ -1408,7 +1407,7 @@ holds the sample, who keeps the vessel intact, and which rival learns the news.
 
 **CANON:** Bloodlings are gaseous demons that form red mist and condense into
 predatory bodies. Mist form ignores physical attacks. Strong light disperses
-them. Copper harms a manifested Bloodling normally; other weapons do half
+them. Copper harms a manifested Bloodling normally. Other weapons do half
 damage. They read emotion. In their home, they cull sick or unhappy creatures.
 In Ravenland they read fear and estrangement as a wish to die.
 
@@ -1422,8 +1421,9 @@ network learned crude rules: safe at home, prey on the road, fear means cull.
 Individual Bloodlings that remained separate could gain identity, regret, or a
 private section of the network.
 
-Use this theory to make Bloodling investigation cumulative. Marks cut into bark,
-repeated dreams, changes in who the Mist spares, and local nodes become memory.
+Under this theory, Bloodling investigation becomes cumulative. Marks cut into
+bark and repeated dreams become memory, as do changes in who the Mist spares or
+where local nodes appear.
 A Bloodling can be parleyed with by giving it a healthier definition of mercy.
 It can be defeated by feeding false information into its local network. It can
 be controlled by isolating a node before another Bloodling merges with it.
@@ -1447,9 +1447,10 @@ Mist form is immune to attacks except bright light. A Possessor takes normal
 damage in a host and dies if the host dies before it escapes. It prefers
 humanoids and reshapes them with flayed flesh and spiked armor.
 
-The host is leverage. Lure the Possessor into a body it cannot abandon quickly,
-into a body marked by healing magic, or into a restrained animal surrounded by
-light. A captured host may still know what the Possessor saw between bodies.
+The host gives captors a weakness to use. Lure the Possessor into a body it
+cannot abandon quickly, a body marked by healing magic, or a restrained animal
+surrounded by light. A captured host may still know what the Possessor saw
+between bodies.
 
 ### Gatekeepers
 
@@ -1466,8 +1467,8 @@ it.
 ### Hell Hounds and Imps
 
 Hell Hounds gather around long-practicing sorcerers and leave ground sterile.
-Their trail points toward a master. Hunting the hound is therefore less useful
-than reading the direction and age of its scent.
+Their trail points toward a master. The direction and age of its scent reveal
+more than hunting the hound.
 
 Imps may be demons, failed spells given bodies, or souls of dead sorcerers from
 another world. They steal Willpower and attack spellcasters. Powerful sorcerers
@@ -1481,9 +1482,10 @@ Rat Kings are demonic agents of Pox Yersinia, a demon lord of disease who has
 long sought entry through Shadowgate Pass. Their flutes are carved from her
 body. They spread plague, command vermin, and prepare a world for their mistress.
 
-This is invasion by ecology. Destroying a Rat King removes one agent. Seizing
-the flute gives control over vectors, evidence of bodily sympathy with Pox
-Yersinia, and a line along which she can dream of the bearer.
+The Rat Kings advance the invasion through ecology. Destroying one removes one
+agent. Seizing the flute gives control over vectors and evidence of bodily
+sympathy with Pox Yersinia. It also opens a line along which she can dream of the
+bearer.
 
 ### Twisted Ents
 
@@ -1500,7 +1502,7 @@ can still choose.
 
 Marga absorbed mog as a child and became a body filling the Stoneloom Mines.
 Her child-avatar is her heart. Destroying the surrounding mass does not kill
-her; the avatar must be impaled through the heart. She makes smaller creatures,
+her. The avatar must be impaled through the heart. She makes smaller creatures,
 reaches through tunnels, and treats killing as play.
 
 Parley requires rules of play she accepts and cannot silently change. Defeat
@@ -1538,13 +1540,13 @@ invasion it caused.
 
 Asina can split the halves. Stanengist can drive the whole mad. Zygofer's hair in
 the Protonexus calls aggrieved demons. Killing Zytera without sealing the gate
-releases a new flood. The correct target depends on what the adventurers can do
-with the gate five minutes later.
+releases a new flood. What the adventurers can do with the gate five minutes
+later determines the correct target.
 
 ### Krasylla
 
 Krasylla is a Churmog prince and Demon Flood war captain. Merigall diverted the
-host into Aslene; Zygofer then cut ether and forced Krasylla into a contract.
+host into Aslene. Zygofer then cut ether and forced Krasylla into a contract.
 Krasylla guards Vond, receives sacrifices, devours intruding demons, and grows
 toward sarmog.
 
@@ -1582,11 +1584,11 @@ shaping stone, and old enough to have stolen three rubies from Stanengist before
 human arrival.
 
 It feeds on feeling and spectacle. Novelty matters. It has worked beside
-Zygofer, Therania, and Zytera; negotiated with Demon Flood princes; helped seal
-the nexus; shaped Zytera's joined body; understood Bloodlings; and ended the
-Mist by turning homesickness into self-slaughter.
+Zygofer, Therania, and Zytera. It negotiated with Demon Flood princes, helped
+seal the nexus, shaped Zytera's joined body, and understood Bloodlings. It ended
+the Mist by turning homesickness into self-slaughter.
 
-It is also captive. The Redrunners once dissolved its body in acid and poured
+It remains captive. The Redrunners once dissolved its body in acid and poured
 the residue into Lake Harga. Zygofer recovered and reshaped Merigall but kept
 its life essence in a statue in the Mogarium. That collateral binds Merigall to
 Zytera.
@@ -1620,7 +1622,8 @@ failures.
 **COMMUNITY THEORY:** Merigall may be a natural practitioner rather than a
 careful theoretician. It knows mog as a fish knows water. Zygofer learned it as
 an adult learns a foreign craft and surpassed the native speaker in analysis.
-This explains why Merigall can perform wonders and still fail at long projects.
+The difference explains how Merigall performs wonders and still fails at long
+projects.
 
 ### Body
 
@@ -1634,9 +1637,9 @@ readings are useful:
   deception allowed one fair clue.
 
 The signature reading supports a **COMMUNITY THEORY** that demons observe a code
-of fair weakness. A scheme is honorable if a precise counter exists, however
-unlikely anyone is to discover it. This is a good GM principle even when it is
-not metaphysical truth.
+of fair weakness. Under this code, a precise counter makes a scheme honorable
+even when discovery is unlikely. For the GM, the code can govern demon conduct
+while remaining community theory.
 
 When Merigall sleeps, it puts a snare around the body's neck to keep the body
 from wandering while the mind travels. That detail suggests that shape and will
@@ -1674,9 +1677,9 @@ Put evidence of the burden into the scene before it matters.
 
 ### Emotion as Food and Craft
 
-Canon says Merigall feeds on feelings and spectacle. Treat that as more than
-liking drama. Emotion has qualities the demon can sense, compare, preserve, and
-shape.
+Canon says Merigall feeds on feelings and spectacle. The appetite concerns the
+structure of emotion, whose qualities the demon can sense, compare, preserve,
+and shape.
 
 Merigall prefers an emotion with:
 
@@ -1713,8 +1716,8 @@ Three facts complicate the romance:
 destroyed. If true, Merigall's failure to build her a body is partly fear of the
 answer she will give once she can speak freely.
 
-Do not treat reunion as Merigall's redemption. It is a negotiation between an
-abductor-lover, an altered elf-ruby, and the owner of the body chosen for her.
+Reunion brings an abductor-lover, an altered elf-ruby, and the owner of the body
+chosen for her into negotiation. The old crimes remain.
 The body is a person unless the campaign has already made a corpse of it. Ask
 who consents, what survives insertion, and which memories Gall-Eye has eaten.
 
@@ -1758,7 +1761,7 @@ Keep body, essence, and network separate:
 
 - Destroying a current body triggers return beside an offspring.
 - Killing offspring removes return points.
-- Taking the statue gives leverage over freedom and final death.
+- Taking the statue gives power over freedom and final death.
 - Treating the essence with the correct destructive procedure can kill what
   ordinary wounds cannot.
 
@@ -1791,8 +1794,7 @@ It does not automatically know:
 - the exact result of killing Zytera before sealing the Protonexus
 - which child still welcomes an arrival
 
-This boundary keeps Merigall useful without turning it into the GM's answer
-mouth.
+Keep those limits so Merigall cannot become the GM's answer mouth.
 
 ### Merigall among Demons
 
@@ -1834,7 +1836,7 @@ true and insufficient. If forced to name an anchor, it names the nearest child
 who has already moved. If forced to swear by its body, it changes shape before
 the last witness leaves.
 
-This is not automatic success. A greater demon can threaten Viridia, seize a
+These evasions can fail. A greater demon can threaten Viridia, seize a
 child, demand custody of a garment left by teleportation, or ask why Zytera's
 prisoner speaks as though free.
 
@@ -1874,7 +1876,7 @@ forced into one body. None of those comparisons is complete.
 - **The parent** loves its children as people while also depending on them as
   roads, refuges, and second bodies.
 
-That last contradiction should remain painful. Merigall can cross half the
+The last contradiction should remain painful. Merigall can cross half the
 Ravenlands to sit beside a dying daughter, then ask her household which road
 the adventurers took. Both acts are sincere. The second does not cancel the
 first, and the first does not excuse the second.
@@ -1891,7 +1893,7 @@ the scene. The lower wants explain what Merigall neglects.
 | --- | --- | --- | --- |
 | Freedom | The life essence and an end to Zytera's custody | identities, favors, servants, court standing | the last credible road to the essence |
 | Viridia | Gall-Eye, a body, and an answer postponed for centuries | artifacts, peace with elves, dangerous honesty | the hope that Viridia can be restored |
-| Children | their survival, affection, and continued welcome | time, revenge, secrecy, bodily safety | a child merely to win a scene |
+| Children | their survival, affection, and continued welcome | time, revenge, secrecy, bodily safety | a child for the sake of winning one scene |
 | Composition | rare feeling, spectacle, reversal, and novelty | coin, information, temporary aid | the right to watch the result |
 | Continuance | an open Ravenland where Merigall can move and make new lives | rulers, churches, old bargains | permanent order under any one master |
 
@@ -1919,7 +1921,7 @@ failure into another hidden success.
 | Make the children politically expensive to harm | settles children in households, crafts, courts, and orders where their disappearance would be noticed | loved children survive longer when a clan, village, or priesthood claims them as its own | spare clothing, old gifts, a yellow-eyed name in several household books, visits that ask no service |
 | Give Viridia the power to answer | seeks Gall-Eye, an elf-compatible body, and witnesses strong enough to prevent either lover from controlling the meeting | restoration without Viridia's judgment would repeat the theft that began the pursuit | Merigall refuses an easy captive body, asks who heard the ruby speak, or leaves a Redrunner witness alive |
 | End Zygofer's claim on escaped family | protects Martea, Marga, or evidence of their escape when exposure would cost an identity | they are living proof of Zygofer's private cruelties and useful allies against Zytera; Merigall may also keep an old debt | a passage shaped for Marga rather than Merigall, a warning delivered without payment, Zytera's order to find the helper |
-| Make freedom hard to steal again | arranges public witnesses, divided custody, and retaliation instructions before drinking the essence | private possession merely exchanges Zytera for another jailer | copies of the destructive procedure in hostile hands, children given sealed letters, three factions invited to the same bargain |
+| Make freedom hard to steal again | arranges public witnesses, divided custody, and retaliation instructions before drinking the essence | private possession exchanges Zytera for another jailer | copies of the destructive procedure in hostile hands, children given sealed letters, three factions invited to the same bargain |
 
 The Reddit table reports produce one useful distinction. Merigall may want a
 stable successor without wanting a sovereign. Roads need toll-keepers. Vond
@@ -1927,7 +1929,7 @@ needs someone to keep hungry things below it. Villages need a season in which
 seed can be sown. Merigall can support those offices while breaking any ruler
 who claims the whole Ravenland.
 
-That distinction keeps political aid from becoming random chaos. Merigall
+The distinction keeps political aid from becoming random chaos. Merigall
 helps Zertorme gather a force capable of reaching Vond, then keeps Stanengist
 off Zertorme's head. It lets the adventurers learn a hidden entrance, then
 ensures another faction knows who went inside. The demon wants the fortress
@@ -1952,7 +1954,7 @@ Merigall's failures need causes. Do not let every mistake be a deeper plan.
 - It believes a fair clue makes a deception fair. Most mortals disagree after
   the burial.
 
-These errors give the adventurers purchase. A blunt person can become difficult
+The errors give the adventurers purchase. A blunt person can become difficult
 to compose. A promise kept without audience gives Merigall little to feed on.
 A witness who records dates and names can defeat a perfect performance with an
 ugly ledger.
@@ -1974,8 +1976,8 @@ want.
 
 Grief can be honest and still dangerous. At a child's death Merigall may wash
 the body, learn every mourner's name, and leave without making an offer. If the
-adventurers caused the death, it remembers who proposed the act and who merely
-failed to stop it. The reckoning need not come in the same season.
+adventurers caused the death, it remembers who proposed the act and who failed
+to stop it. The reckoning need not come in the same season.
 
 #### State Tells
 
@@ -1995,8 +1997,8 @@ routine performance.
 
 ### First Impressions
 
-**DESIGN EXTENSION:** The following procedure limits the first meeting to
-evidence, aid, and trespass the players can answer.
+**DESIGN EXTENSION:** Limit the first meeting to evidence, aid, and trespass the
+players can answer.
 
 The first scene should prove three things: Merigall notices too much, can help,
 and does not recognize a boundary that ordinary people recognize. Do this with
@@ -2082,8 +2084,8 @@ Use short lines. Give the players room to answer.
 
 Avoid riddles that conceal information the players have already earned. Merigall
 can withhold a fact because it wants payment, fears Zytera, or needs the players
-to act without understanding. It should not speak obscurely merely to sound
-important.
+to act without understanding. It should not speak obscurely for the sake of
+sounding important.
 
 ### Presenting Gender, Beauty, and Desire
 
@@ -2115,12 +2117,12 @@ allowed to flood, and rivals kept from using Stanengist against Merigall.
 
 Merigall offers real information, a route, temporary protection, a disguised
 body, an artifact, or an introduction. It avoids offering lasting obedience.
-The best bargain gives the adventurers something they can verify before they
+The bargain should give the adventurers something they can verify before they
 pay.
 
 ### Parlaying with Merigall
 
-Good leverage:
+Strong bargaining positions:
 
 - news or possession of Gall-Eye
 - a credible route to the life essence
@@ -2130,7 +2132,7 @@ Good leverage:
 - a means to separate Zygofer and Therania without opening the gate
 - proof that another demon understands Merigall's weakness
 
-Weak leverage:
+Weak bargaining positions:
 
 - threats against a current body
 - moral condemnation without a price
@@ -2222,7 +2224,7 @@ use the matching mode.
 A yellow-eyed traveler knows one detail no stranger should know. It helps with
 a small problem and leaves before payment. The help changes who owes whom.
 
-Use this mode while the players are curious. Keep the appearances short. A
+While the players remain curious, keep the appearances short. A
 stranger scene ends when the players have one useful fact and one reason to
 doubt the form that gave it.
 
@@ -2250,13 +2252,13 @@ changed methods, not immunity to defeat.
 #### Captive Power
 
 The adventurers hold the life essence or can reach it. Merigall becomes precise
-and frightened enough to stop performing. Count who learns of the leverage.
+and frightened enough to stop performing. Count who learns of the advantage.
 Krasylla, Zertorme, Zytera, elves, and the Rust Church all have reasons to
 intervene.
 
-This mode should feel less grand than the others. Merigall asks where the vessel
-is, how many guards stand there, and what happens if the holder dies. The demon
-has become a person with one throat under a knife.
+Strip away the grandeur in this mode. Merigall asks where the vessel is, how
+many guards stand there, and what happens if the holder dies. The demon has
+become a person with one throat under a knife.
 
 #### When Players Avoid Merigall
 
@@ -2345,10 +2347,10 @@ Use this sequence across several sessions.
 7. **Allow an unpunished refusal.** Merigall withdraws and acts elsewhere. The
    refusal changes access and warmth, not the validity of player choice.
 
-The strongest sympathy scenes in community reports involve a child. Use them
-with restraint. The fellowship should care about the child before learning the
-parentage. Merigall's grief then confirms a relationship the players already
-value. Killing or tormenting a child merely to soften the demon turns the
+The strongest sympathy scenes in community reports involve a child. Use such
+scenes with restraint. The fellowship should care about the child before
+learning the parentage. Merigall's grief then confirms a relationship the
+players already value. Killing or tormenting a child to soften the demon turns the
 child into a prop and makes the manipulation visible.
 
 Do not reclaim every kindness as a trick. One kept promise earns more trust
@@ -2369,8 +2371,8 @@ Write five lines before the offer:
 - the collateral each side can lose
 - the hour, place, or event that ends the compact
 
-Merigall should volunteer one restriction the fellowship did not demand. This
-is calculated trust-building and a real concession. The demon might promise
+Merigall should volunteer one restriction the fellowship did not demand. The
+offer is calculated, but the concession is real. The demon might promise
 not to wear a companion's face, not to arrive through a named child, or not to
 touch Gall-Eye until Viridia answers before witnesses. Once spoken, keep the
 restriction. Let later danger come from the narrowness of the agreement and the
@@ -2388,18 +2390,18 @@ NPC and the campaign.
 At Weatherstone, Merigall can draw the adventurers toward Nekhaka while
 withholding its own name and full interest. The published Dalb encounter works
 because the bard departs before the fellowship leaves the ruin. Keep that
-departure. Merigall has made contact and learned how the group treats power; it
+departure. Merigall has made contact and learned how the group treats power. It
 has not enrolled as their guide.
 
-The first purpose is observation. Who accepts a demand from the dead king? Who
-touches the scepter? Who keeps a promise after the witness leaves? Merigall can
+The first meeting lets Merigall observe. Who accepts a demand from the dead
+king? Who touches the scepter? Who keeps a promise after the witness leaves? Merigall can
 use the answers later, and the players can discover that the “chance” meeting
 was an interview.
 
 #### Author of Reputation
 
-Between sites, Merigall can spread songs and accounts of the fellowship. This
-is powerful without requiring a direct appearance. A true deed reaches the
+Between sites, Merigall can spread songs and accounts of the fellowship. The
+song can do its work without a direct appearance. A true deed reaches the
 wrong court. A lie about a slain giant earns respect from someone who expects
 the heroes to repeat it. A careful party finds that strangers know the weapon
 they tried to hide.
@@ -2437,7 +2439,7 @@ a method under pressure, not proof that every outcome was intended.
 
 Merigall negotiated with Churmog princes, helped choke the ether, built bodies,
 and watched the Bloodlings fail. It can identify what old demon agreements still
-bind Vond. It also has the best reasons to revise the record.
+bind Vond. It also has the strongest incentive to revise the record.
 
 Give each historical disclosure a corroborating trace: a contract phrase in
 DEMON TONGUE, a shaped wall with Merigall's repeated hand, a Bloodling reaction
@@ -2459,8 +2461,7 @@ can appear and reform. A child who closes the road changes the endgame.
 When Gall-Eye enters the campaign, Merigall's composure should fail once. A
 community play report proposes that contact with the ruby briefly forces
 Merigall's shape toward Viridia while the angry stone speaks. This is a
-**COMMUNITY THEORY** and an effective revelation if the players can act during
-it.
+**COMMUNITY THEORY**. It reveals the dependency while the players can still act.
 
 The scene must give Viridia her own voice. She can accuse Merigall, refuse a
 body, demand a particular body, lie from centuries of anger, or ask the
@@ -2677,7 +2678,7 @@ Brother may seize the evidence and torture the witness instead of helping.
 | Krasylla | Merigall's Churmog address, captive status, and route network | demand tribute, eat a body for knowledge, or expose Merigall to Zytera |
 | Merigall's children | evidence of how the roads are used | refuse arrival, warn one another, or choose the parent despite the cost |
 
-The Rust Church is never a safe authority merely because the target is a demon.
+A demonic target does not make the Rust Church a safe authority.
 Its priests can agree with the accusation and still destroy every copy that
 teaches common folk how demons are recognized.
 
@@ -2768,7 +2769,7 @@ the questions.
 
 #### Coercion through the Life Essence
 
-Possession of the statue or true vessel gives leverage over freedom and death.
+Possession of the statue or true vessel gives power over freedom and death.
 It also gives every major power a reason to hunt the holder. The safest custody
 divides power: one faction guards the vessel, another knows the procedure, and
 a third holds instructions that become public if either acts alone.
@@ -2794,7 +2795,7 @@ way to exhaust the network.
 destroy it with a great quantity of salt water or with acid and lye. This route
 attacks Merigall's stored continuity directly. Decide in advance whether the
 current body falls at once, begins to come apart over a turn, or remains a last
-body that can die once. The last two timings are **DESIGN EXTENSIONS**; the GM
+body that can die once. The last two timings are **DESIGN EXTENSIONS**. The GM
 must reveal the chosen signs before the procedure is completed.
 
 Stanengist can drive Merigall mad, but Merigall knows the danger and avoids
@@ -2806,8 +2807,8 @@ stages through Redrunner accounts, Zytera's safeguards, chemical records,
 offspring testimony, damage to a body, or a demonologist's notes. No final death
 should depend on a single unforeshadowed roll.
 
-**COMMUNITY THEORY:** The published statue is too accessible to serve as
-Zytera's strongest hostage. Alternate campaigns can place false vessels in the
+**COMMUNITY THEORY:** The published statue is too accessible to be Zytera's
+strongest hostage. Alternate campaigns can place false vessels in the
 Mogarium and the true essence in a coastal reliquary, inside Zytera near prepared
 reagents, or with a community ordered to empty it into the sea on a dead
 master's signal. Decide the arrangement before the fellowship reaches Vond.
@@ -2842,7 +2843,7 @@ Merigall resists cages and seeks stages. Control the stage.
 - Require performance bonds: an artifact, a route, a named ally, or a copied
   confession lost if the promise breaks.
 
-Do not call this friendship unless the campaign earns the word. It is an
+Call this friendship only if the campaign earns the word. Until then, it is an
 arrangement with a demon that remembers how Zytera made captivity look like
 alliance.
 
@@ -2850,15 +2851,13 @@ alliance.
 
 **DESIGN EXTENSION:** Match the consequence to the layer actually defeated.
 
-Choose the consequence from the defeated layer.
-
 | Lost layer | Merigall's likely response | Campaign consequence |
 | --- | --- | --- |
 | Scene or reputation | abandons the form, studies the witnesses, changes method | the players gain standing and a recognizable enemy |
 | Artifact or objective | bargains elsewhere and lets another faction bear the next risk | pressure moves rather than disappears |
 | Child road | visits in person if possible or sends another child to learn why | offspring politics become visible |
 | Current body | reforms disoriented beside a permitted child | gear and immediate intelligence remain with the victors |
-| Freedom bargain | obeys the letter, preserves leverage, tests the witnesses | a public compact becomes a campaign institution |
+| Freedom bargain | obeys the letter, preserves an advantage, tests the witnesses | a public compact becomes a campaign institution |
 | Viridia | loses ornament and pursues the stone's decision | elves and children judge what follows |
 | Life essence | treats every hour as immediate danger | every faction near the vessel is forced to choose |
 
@@ -2910,8 +2909,8 @@ Before ending a Merigall scene, check the following.
 - Merigall's gender or beauty was not used as proof of corruption.
 - The next adventure does not require another Merigall appearance.
 
-The best Merigall scene leaves a hard fact, a useful bargain, and an empty
-chair. Let the players decide whether to seek the demon again.
+A Merigall scene should leave both a hard fact and a useful bargain behind. The
+chair should stand empty. Let the players decide whether to seek the demon again.
 
 ## Community Theory Classification
 
@@ -2969,9 +2968,8 @@ detective play.
 **Shapeshifting erodes memory or identity.** It explains Merigall's slow plans
 and creates counterplay. It is a substantial limitation absent from canon.
 
-**Teleportation leaves gear behind.** It explains old travel choices and
-creates excellent physical clues. Decide it before Merigall must escape with an
-artifact.
+**Teleportation leaves gear behind.** It explains old travel choices and leaves
+physical clues. Decide it before Merigall must escape with an artifact.
 
 **Sarmog escapes an old contract by becoming a new person.** This gives
 Krasylla's transformation political purpose. It requires contracts to bind
@@ -2983,7 +2981,7 @@ rebellion into replacement of an organ, address, or weakness rather than a
 change of allegiance declared in speech.
 
 **Human disguise conceals demons from demons.** Canon establishes weaker beings
-hiding from stronger brethren; the use of native flesh as political camouflage
+hiding from stronger brethren. The use of native flesh as political camouflage
 is an extension. It makes a secret demon's apparently protective conduct
 ambiguous without making every helpful stranger a demon.
 
@@ -3021,15 +3019,15 @@ campaign.
 or tattoo create a continuing custody problem. This is useful homebrew, not a
 power granted by the spell unless the GM adopts it.
 
-### Tier C: Brilliant Alternate Cosmologies
+### Tier C: Speculative Alternate Cosmologies
 
-**Churmog is itself a god or post-catastrophe living world.** Excellent for a
-cosmic campaign, unsupported as ordinary Raven's Purge truth.
+**Churmog is itself a god or post-catastrophe living world.** It can support a
+cosmic campaign but lacks support as ordinary Raven's Purge truth.
 
 **Ravenland is a constructed pocket world and mog is weaponized matter from the
 outer reality.** A Free League forum theory turns gods into guardian
-intelligences and magic into changes to a constructed world. Coherent, rich,
-and far beyond canon.
+intelligences and magic into changes to a constructed world. The theory is
+coherent and reaches far beyond canon.
 
 **Bloodlings are Churmog's waste cleaners.** This joins their home function to
 conglomerate demon biology. Useful, but their home world is not confirmed as
@@ -3046,8 +3044,8 @@ cleanly and changes Churmog more than any published fact requires.
 
 **A demon's weakness is a legal declaration.** The weakness-as-morality theory
 can become a Churmog court custom in which concealed flaws are deposited with a
-patron and used as hostage collateral. Excellent for investigative campaigns;
-too orderly for every world or demon family.
+patron and used as hostage collateral. This suits an investigative campaign but
+is too orderly for every world or demon family.
 
 ## Research Program for Player Characters
 
@@ -3128,8 +3126,8 @@ entry from each row.
 
 Use multiple attack tables when the body changes state. A demon that spends a
 round withdrawing and charging should visibly gather mog, steal heat, or call
-its parts home. A weakened table should expose the layer underneath rather than
-merely roll fewer dice.
+its parts home. A weakened table should expose the layer underneath through its
+attacks and behavior.
 
 Examples:
 
@@ -3137,7 +3135,7 @@ Examples:
   naming moves it to **Unmasked Body**.
 - **Unmasked Body:** claws, mog spray, and escape. Taking acid damage moves it
   to **Essence Flight**.
-- **Essence Flight:** no ordinary attacks; it moves toward host or anchor. The
+- **Essence Flight:** no ordinary attacks. It moves toward host or anchor. The
   encounter becomes containment.
 
 The players should be able to cause each transition intentionally after they
@@ -3268,5 +3266,5 @@ Before placing a demon, answer these questions in one sentence each:
 - Who inherits its servants, body parts, contracts, and feeding rights?
 - What happens to the village, road, faction, or gate if it dies?
 
-If the last answer is “nothing,” the demon is still an encounter. It is not yet
-part of the Forbidden Lands.
+If the last answer is “nothing,” the demon remains an encounter rather than part
+of the Forbidden Lands.

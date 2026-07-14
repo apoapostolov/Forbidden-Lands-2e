@@ -4,10 +4,10 @@
 
 Magic leaves heat in the palms and blood beneath the nails. Sometimes it leaves
 words in a dead teacher's hand. Neighbors remember which roof burned after the
-miracle. This reference begins where talent is noticed and a teacher must be
-found. It follows ingredients into trade and grimoires into inheritance. It
-also explains the price of service, the judgment of harm, and the place each
-discipline takes in ordinary life.
+miracle. Talent must be noticed before a teacher can be found. Ingredients
+pass through gatherers and traders. Grimoires pass through copyists, thieves,
+and heirs. Around them grow prices for service, customs for judging harm, and a
+place for each discipline in ordinary life.
 
 The workings beneath magic belong in [Magic Metaphysics and Path
 Doctrines](magic-metaphysics-and-path-doctrines.md). The rules for learning and
@@ -60,7 +60,7 @@ caster after the spell is over.
 faiths, histories, and magical traditions.
 
 **Manuscript fact** governs the current Chapter 7 rules. These include seventeen
-disciplines and access to teachers. Five Path ranks govern learning; rank 6
+disciplines and access to teachers. Five Path ranks govern learning. Rank 6
 spells remain possible only through chance casting. The chapter also controls
 grimoires, ingredients, burn, rituals, casting modes, and mishaps.
 
@@ -69,7 +69,7 @@ reduce casting difficulty, people will steal or inherit them. Owners must
 authenticate and conceal them before they can bargain.
 
 **Historical model** supplies workshop practice and apprenticeship. Household
-labor supports manuscript production; customary judgment governs disputes.
+labor supports manuscript production. Customary judgment governs disputes.
 Patronage and market relations suit a fragmented premodern world.
 
 **Personal campaign lore** extends Ravenlands society for Apostol Apostolov's
@@ -124,8 +124,8 @@ villages away, the same event becomes proof for a doctrine.
 ### Magic Is Work
 
 Casting consumes Willpower and ingredients. Preparation demands attention, and
-risk remains. Learning consumes years. Favors and travel secure instruction;
-secrecy and expensive mistakes consume more.
+risk remains. Learning consumes years. Favors and travel secure instruction.
+Secrecy and expensive mistakes consume more.
 
 The caster who performs one spell has also gathered what it requires, kept
 knowledge alive, judged the circumstance, and accepted responsibility for an
@@ -177,13 +177,13 @@ without its caster.
 
 ### Public and Hidden Practice
 
-Known disciplines acquire customary spaces. A healer keeps a room; a druid uses
-a grove. Quarry ledges, winter shrines, and fenced ritual yards serve other
-paths.
+Known disciplines acquire customary spaces. A healer keeps a room. A druid uses
+a grove. Other paths claim quarry ledges, winter shrines, and fenced ritual
+yards.
 
 Strange disciplines are shown selectively. Disturbing disciplines are concealed
 or practiced under powerful protection. Prohibited disciplines require a
-hidden teacher and false profession. Remote work helps; so does a patron willing
+hidden teacher and false profession. Distance helps, as does a patron willing
 to silence inquiry.
 
 Secrecy changes technique. A hidden caster cannot gather openly, store every
@@ -238,7 +238,7 @@ A stone shifts when grief and danger meet. A wound closes badly. A pursued child
 cannot be found though tracks enter the room. Every dog in the yard looks toward
 the same empty corner.
 
-The effect supplies a hook for instruction, not a free talent rank.
+Such an effect may lead to a teacher. It does not grant a talent rank.
 
 ### Community Examiners
 
@@ -258,8 +258,8 @@ Families sometimes declare talent because they desire status, fear a child,
 need an explanation for illness, or want a distant master to take an unwanted
 dependent.
 
-Institutions may identify a “marked” child because the child's body or behavior
-fits doctrine rather than because magic is present.
+Institutions may identify a “marked” child when the child's body or behavior
+fits doctrine even though no magic is present.
 
 The harm of false recognition can include exile, forced apprenticeship,
 dangerous testing, or a lifetime spent interpreting ordinary distress as
@@ -472,8 +472,8 @@ provides a tower may begin deciding who receives lessons.
 ### Teaching across Kin
 
 Kin differ in lifespan, body, memory, ritual obligation, and assumptions about
-property. A method suited to one may require translation rather than simple
-repetition.
+property. A method suited to one may need translation before another kin can
+use it.
 
 Cross-kin teaching creates intellectual fertility and accusations of theft.
 
@@ -593,8 +593,8 @@ Apprentices live close under stress. Affection can become partnership or
 rivalry. Favoritism and jealousy enter the school with it. Pregnancy may bind
 the pair to a household or lead them to form a new teaching household.
 
-A master who controls marriage or intimacy controls succession. Such authority
-requires scrutiny rather than doctrine used as excuse.
+A master who controls marriage or intimacy controls succession. Doctrine does
+not excuse such authority from scrutiny.
 
 ### Leaving Early
 
@@ -705,8 +705,8 @@ safety.
 
 ### Titles
 
-Titles such as master, sister, singer, wise one, dreamer, or ironbrow may reflect
-lineage and office rather than exact rank.
+Titles such as master, sister, singer, wise one, dreamer, or ironbrow may name
+lineage and office without revealing exact rank.
 
 A self-awarded title invites scrutiny. A title spoken by former students carries
 different weight from one painted on a door.
@@ -793,7 +793,7 @@ Copying permission can be more valuable than ownership.
 A lent grimoire travels with conditions: named spell, duration, escort,
 collateral, prohibition on copying, and responsibility for damage.
 
-Borrowers may leave a hostage or another book rather than silver.
+Borrowers may leave another book or a hostage in place of silver.
 
 The lender must judge whether withholding knowledge creates greater danger than
 losing control of it.
@@ -845,8 +845,8 @@ Destruction may prevent misuse and erase the only surviving method of repair.
 Burning is dramatic. Separating key leaves, drowning ink, grinding tablets, or
 altering one fatal measure may be quieter and crueler.
 
-The decision to destroy belongs in politics, not in a simple contest between
-knowledge and ignorance.
+Destroying a grimoire is a political choice between dangerous use and
+irreplaceable loss.
 
 ---
 
@@ -855,7 +855,7 @@ knowledge and ignorance.
 ### Ingredients Are Relations
 
 An ingredient comes from a place and through someone's work. Soil and season
-shape what can be gathered; animals and crafts shape what can be prepared.
+shape what can be gathered. Animals and crafts shape what can be prepared.
 Trade, household stores, graves, and dangerous places all place claims upon the
 final object. Even common materials have gatherers and owners.
 
@@ -956,8 +956,8 @@ Lineages preserve substitutions for famine, winter, travel, and persecution.
 These may be less effective, differently dangerous, or unacceptable under local
 doctrine.
 
-Substitution is a field of competence, not permission to treat any evocative
-object as equivalent.
+Substitution requires its own competence. Resemblance or suggestive meaning does
+not make one object equivalent to another.
 
 ### Ingredient Brokers
 
@@ -1003,9 +1003,9 @@ Anyone transporting mog participates in demonic practice whether or not that
 person can cast. Carriers therefore demand high payment, coercion, or an account
 of the work persuasive enough to outweigh terror.
 
-This reference keeps demon metaphysics behind the campaign-spoiler boundary.
-The social truth is sufficient: mog commerce brings contamination, secrecy,
-blackmail, and powerful hunters.
+Demon metaphysics remains behind the campaign-spoiler boundary. The social
+truth is sufficient: mog commerce brings contamination, secrecy, blackmail, and
+powerful hunters.
 
 ---
 
@@ -1346,7 +1346,8 @@ recklessness invites justified anger.
 Travel into cursed ground, use of disturbing disciplines, public exposure,
 chance casting, and hostile political attention justify additional payment.
 
-The premium should fund preparation and aftercare. Bravado earns nothing by itself.
+The premium should fund preparation and aftercare. Bravado earns nothing by
+itself.
 
 ### Magical Monopolies
 
@@ -1408,7 +1409,7 @@ witnesses cannot observe the act directly.
 Communities may require a sworn purpose, limited question, independent caster,
 and record made immediately afterward.
 
-The examiner's claim should not be self-authenticating.
+The examiner's word cannot prove itself.
 
 ### Shapeshifting and Identity
 
@@ -1496,8 +1497,8 @@ Sorcerers are commonly associated with learned imposition, grimoires, private
 masters, difficult arts, and powers whose legitimacy rests upon competence or
 patronage rather than communal rite.
 
-This association is broad, not universal. A sorcerer may be embedded in one
-village for life.
+These associations are common rather than universal. A sorcerer may remain
+rooted in one village for life.
 
 ### Druids
 
@@ -1541,8 +1542,9 @@ necromancer.
 General spellcraft appears in travel, communication, protection, practical
 alteration, and the small necessities around larger work.
 
-Its danger is assumed familiarity. People may treat a broadly known effect as
-socially neutral when context makes it spying, trespass, fraud, or threat.
+Familiarity hides its danger. People may treat a broadly known effect as
+socially neutral when the same working amounts to spying, trespass, fraud, or
+threat in its present use.
 
 ### Healing
 
@@ -1700,8 +1702,8 @@ household downstream.
 
 ### Ice Affinity
 
-Ice Affinity is strange, initiated in its native northern context, and difficult
-to sustain in warm regions where snow and ice become seasonal cargo.
+Ice Affinity is strange and taught by initiation in the north. It is difficult
+to sustain in warm regions, where snow and ice become seasonal cargo.
 
 Its casters support travel, preservation, water supply, defense, shelter, and
 the reading of frozen country.
@@ -1767,8 +1769,9 @@ Their work demands knowledge of material history. Limestone and sandstone do
 not answer as stone born from magma does. Builders need such distinctions before
 promising results.
 
-Poetry is a technical and religious competence in the path. Patrons who treat it
-as ornament misunderstand the means by which the singer attends to matter.
+Poetry is both technical competence and religious practice within the path.
+Patrons who hear only ornament have misunderstood how the singer attends to
+matter.
 
 Every large working raises downstream questions: ash on fields, steam in rooms,
 fractured watercourses, opened mineral, and heat remaining after the singer
@@ -1837,9 +1840,10 @@ political defection as well as magical transmission.
 Demonic Magic is prohibited, journey-guarded, and hunted. It works through mog,
 corruption, altered flesh, demons, and breaches toward Churmog.
 
-Its social world contains clandestine laboratories, resistant vessels,
-contaminated carriers, blackmail, mutilated assistants, collectors of forbidden
-knowledge, and patrons who believe they alone can control the consequences.
+Its hidden practice occupies clandestine laboratories and requires resistant
+vessels and contaminated carriers. It breeds blackmail, mutilated assistants,
+collectors of forbidden knowledge, and patrons convinced that they alone can
+control the consequences.
 
 Some practitioners seek weapons against demons. That purpose does not make mog
 safe, remove corruption, or guarantee that the institution hunting them will
@@ -1959,8 +1963,8 @@ personal recommendation.
 Factions value casters for communication, intelligence, healing, fortification,
 weather, terror, concealment, transport, and legitimacy.
 
-One caster rarely sustains all these demands. Political sheets should record the
-household and ingredients that make magical service repeatable.
+One caster rarely sustains all these demands. A GM's faction notes should record
+the household and ingredients that make magical service repeatable.
 
 ### Magical Decrees
 
@@ -2255,7 +2259,7 @@ can still create debt, envy, precedent, and ecological change.
 Record one service the caster performs reliably, one work refused, one mishap
 remembered locally, and one relationship that makes practice possible.
 
-These facts create a person rather than a spell list.
+Together they show the person who must live with the spell list.
 
 ### Give a Community Competence
 
@@ -2363,8 +2367,8 @@ because useful power had permitted itself to be limited.
 
 ### Closing Principle
 
-Magic becomes part of society through repeated arrangements around danger.
-Teaching and witness govern who may act; payment and storage govern what the
-working consumes. Consent must be remembered when repair begins. The spell is
-the bright moment. The discipline survives in the hands that prepare for it and
-the households that remain afterward.
+Magic becomes part of society through customs repeated around its dangers.
+Teaching and witness govern who may act. Payment and storage reveal what the
+working consumes. Consent must still be remembered when repair begins. A spell
+may last only a moment. The discipline survives in prepared hands and in the
+households left to live with what happened.

@@ -3,8 +3,8 @@
 # Elven Religions of the Ravenlands
 
 This reference begins with the Red Wanderer and Clay, then follows the
-Shardmaiden into Wail and Flow. Ruby personhood gives druidic orders their most
-difficult duties. The later sections distinguish Stillelves and Unruly, then
+Shardmaiden into Wail and Flow. Ruby personhood places restoration and custody
+under druidic duty. The later sections distinguish Stillelves and Unruly, then
 Ents, Melders, Watchers, and Redrunners. Named powers and orders are manuscript
 facts. Detailed rites are grounded setting inference unless identified as local
 practice.
@@ -22,9 +22,9 @@ when knowledge passes between unlike beings.
 
 Elves and Elvenspring tend to honor Clay as a master teacher rather than a
 sovereign. The world was shaped, then left capable of further shaping. Life is
-therefore neither untouched purity nor raw material without claims. A druid may
-prune or cull, graft or heal, and sometimes move or kill, but must understand the
-living relation altered by the act.
+open to change without becoming raw material stripped of claims. A druid may
+prune or cull, graft or heal, and sometimes move or kill, but must understand
+the living relation altered by the act.
 
 Clay doctrine holds that form carries memory. A scar shows adaptation. A path
 shows repeated feet. A worked field holds human intention and the soil's answer.
@@ -34,8 +34,8 @@ form of a place may ignore the people living there.
 ### Clay, Soil, and Maha
 
 Clay worship uses unfired figures for conditions still open to change and fired
-tablets for statements meant to endure. Maha pictograms do not converse. They
-state something about reality or, through magic, press reality toward the
+tablets for statements meant to endure. Maha pictograms state something about
+reality rather than converse. Through magic, they press reality toward the
 statement.
 
 A household figure may receive a wound, seed, animal hair, or impression of a
@@ -43,9 +43,9 @@ missing tool. It is kept damp while treatment, search, or repair continues.
 When the matter ends, the figure is returned to mud. Firing it would make the
 temporary condition into a claim of permanence.
 
-Druids test soil with fingers, smell, water, and plant response before ritual.
-The ceremony follows diagnosis. Clay handled without knowledge is piety without
-craft, which most orders distrust.
+Druids handle the soil and smell it. Water and the response of plants complete
+the test before ritual. The ceremony follows diagnosis. Clay handled without
+knowledge is piety without craft, which most orders distrust.
 
 ### Rites and Ceremonies
 
@@ -56,8 +56,8 @@ would imply no room for learning.
 
 **Returning the Shape** accompanies death, release, and the end of a living
 arrangement. An unfired likeness is softened in water and pressed into soil.
-The rite does not claim that the person vanishes. It returns fixed likeness to
-materials other lives can use.
+The rite returns fixed likeness to materials other lives can use without
+claiming that the person vanishes.
 
 **The Necessary Cut** authorizes culling. The druid names the population,
 disease, hunger, or imbalance requiring death, then kills the selected animal
@@ -71,7 +71,7 @@ Some temples keep failed tablets in walls where students can see the cracks.
 ### Anathemas
 
 Clay traditions condemn creation abandoned without provision, shaping a living
-being merely to display power, fixing a temporary suffering into identity,
+being for display, fixing a temporary suffering into identity,
 sterilizing useful soil without necessity, concealing a failed magical creation,
 and writing Maha about a person or place one has refused to study.
 
@@ -92,9 +92,9 @@ act is understood as gift, wounding, multiplication, or continuing personhood,
 depending on the order.
 
 Her followers hold that knowledge may be divided without becoming ownerless.
-Every bearer receives power and an obligation to the source. This gives the
-orders a strong doctrine of stewardship. It also gives senior bearers a reason
-to control access, travel, marriage, and dangerous inquiry.
+Every bearer receives power and an obligation to the source. The orders call
+the bond stewardship. Senior bearers also use it to control access, travel,
+marriage, and dangerous inquiry.
 
 The Order of Maidens directs the inheritance toward struggle against demonic
 evil and Rust. The Golden Bough directs it toward the long health of forests,
@@ -110,19 +110,18 @@ before witnesses who must tend any failure of the joining.
 
 **The Remembered Absence** honors Morander and other dead companions. A meal is
 prepared with one necessary ingredient omitted. Participants name how the
-missing thing changes every other taste. The rite teaches loss through the
-body, not a speech.
+missing thing changes every other taste. The missing taste is the lesson. No
+speech follows.
 
 **Walking the Bough** is a Golden Bough survey. Druids follow a set path through
 forest and settlement. They record births and disease, predation and felling,
-and changes in water or fire. The same route repeated
-over years lets change become evidence. A
-missing fox litter or new charcoal pit matters more than an omen invented at
-the shrine.
+and changes in water or fire. The same route repeated over years lets change
+become evidence. A missing fox litter or new charcoal pit matters more than an
+omen invented at the shrine.
 
 **The Green Judgment** hears accusations that a druidic act injured the land or
 people under care. Non-druids may testify. Elves sometimes delay judgment long
-enough that mortal claimants die; Elvenspring insist this is itself a verdict
+enough that mortal claimants die. Elvenspring insist this is itself a verdict
 made by power.
 
 ### Dogmas and Anathemas
@@ -134,7 +133,7 @@ nature includes its hunger and violence. They do not promise harmlessness.
 Anathemas include selling a shard, using its authority for private coercion,
 destroying an elven ruby to distribute power, abandoning a creature changed by
 one's own magic, falsifying a survey to protect an ally, and treating mortal
-communities as weeds merely because they live quickly.
+communities as weeds because they live quickly.
 
 Some Maidens forbid intimate partnership that competes with the order. Others
 cite the Shardmaiden's love for Morander as proof that attachment created the
@@ -148,17 +147,16 @@ gift. This disagreement has divided houses without producing a final doctrine.
 
 Wail is the air goddess. Raven Sisters honor her, as do elves and Elvenspring.
 Sailors and herders appeal to her in their work. So do millers and households
-with a roof to keep. In Raven
-teaching she is the Protector's wife and bears birds through the sky. Other
+with a roof to keep. In Raven teaching she is the Protector's wife and bears
+birds through the sky. Other
 traditions make her older than the human gods and indifferent to their
 marriages.
 
-Wind cannot be stored, fenced, or ordered to return. Wail therefore governs
-movement without ownership. Weather and breath are hers. Rumor travels like
-migrating birds; scent and song pass beyond their source. Words sent where the
-speaker cannot follow belong to her as well.
-Her faithful distrust claims that something moving can be possessed merely
-because it crossed one's land.
+Wind cannot be stored, fenced, or ordered to return. Wail governs movement
+without ownership. Weather and breath are hers. Rumor travels like migrating
+birds. Scent and song pass beyond their source. Words sent where the speaker
+cannot follow belong to her as well. Her faithful distrust claims of possession
+founded only on something moving across one's land.
 
 The myth of the sea holding Wail and the toothed fish throwing her free teaches
 that rescue changes rescuer and rescued. The fish received size and air. A gift
@@ -167,7 +165,7 @@ from a god is rarely a restoration of the earlier state.
 ### Practice and Ceremony
 
 People give Wail things light enough to move. Wool fibers and chaff catch the
-air; feather down and wood shavings rise with it. Breath through a horn carries
+air. Feather down and wood shavings rise with it. Breath through a horn carries
 farther. Strips cut from worn cloth remember the giver. Good cloth
 is not hung casually. A visible prayer on a pass tells travelers that someone
 paid material for the wind's attention.
@@ -195,7 +193,7 @@ the windward path or migrating flock.
 
 Whistling into a gale is forbidden in some valleys and required in others.
 Both customs descend from the claim that Wail answers challenge. One community
-wants her to hear courage; the other has buried the people who tried.
+wants her to hear courage. The other has buried the people who tried.
 
 ---
 
@@ -203,22 +201,22 @@ wants her to hear courage; the other has buried the people who tried.
 
 ### Water with Direction
 
-Flow governs springs, rivers, lakes, cleansing, and water that moves with a
-course. She named rivers so they could hold together and have will. Marshes,
+Flow governs water with a course, from springs and rivers to lakes. Cleansing
+also belongs to her. She named rivers so they could hold together and have will. Marshes,
 left unnamed and undirected, fall outside much of her ordinary cult. Saurians
 and goblins who cross such water know that a human prayer to Flow may be a poor
 substitute for a pole.
 
 Flow is honored by elves, Elvenspring, villages, and the Raven Church. Her faith
-joins practical water care to purification. Cleanliness is not mere moral
-symbol. A fouled well kills. A blocked channel floods seed. A spring controlled
-by one household can govern a village.
+joins practical water care to purification. Cleanliness carries material and
+moral weight. A fouled well kills. A blocked channel floods seed. A spring
+controlled by one household can govern a village.
 
 ### Daily Faith
 
 The first drawn water is inspected before it is offered. Smell, color, insects,
 sediment, and the behavior of animals matter. Pouring bad water at a shrine does
-not make it pure; it shows that the worshipper has failed to attend.
+not make it pure. It shows that the worshipper has failed to attend.
 
 Households set aside different vessels for drinking, washing wounds, brewing,
 and unclean work where resources permit. The distinction is preached as Flow's
@@ -278,7 +276,7 @@ lost and grown again. Shape can change. Blood descent carries less weight than
 memory, teaching, and the custody of a ruby. Final death comes when the stone is
 shattered, not when a body stops breathing.
 
-The star's wandering also prevents a simple homeland myth. Elves did not descend
+The star's wandering also prevents a fixed homeland myth. Elves did not descend
 from a fixed northern mountain or promised valley. They came from something
 that still moves. Stillelves read this as permission to withdraw from temporary
 claims. Redrunners read it as command to remain in motion and recover what was
@@ -310,16 +308,15 @@ nor trivial. It is the first form for which the young elf accepts social
 recognition.
 
 **Keeping the Stone** follows bodily death. Companions clean and inspect the
-ruby, recount what happened to the body, and decide whether immediate
-restoration, travel to the Stillmist, or watchful delay best honors the elf.
+ruby, recount what happened to the body, and decide which course honors the elf:
+immediate restoration, travel to the Stillmist, or watchful delay.
 Custody is recorded through witnesses because affectionate possession can still
 be captivity.
 
 **The Long Rooting** accompanies an elf joining ruby to tree and becoming an
 Ent. The chosen ground is watched through several seasons. Soil, water, nearby
 settlement, and obligations to younger elves are settled before the joining.
-A withdrawal that destroys everyone else's claim is not called wisdom merely
-because it takes centuries.
+Centuries do not make a withdrawal wise when it destroys everyone else's claim.
 
 **The Red Run** is kept by militant elves. A recovered ruby, flower, dried sea
 thing, or red-star token is carried between known shelters without sleeping in
@@ -336,7 +333,7 @@ found.
 There is no agreement on voluntary shattering. Some call it the final freedom
 of an immortal person. Others hold that the ruby contains obligations and
 memories not owned by one moment's despair. The Shardmaiden's act makes any
-simple prohibition impossible.
+absolute prohibition impossible.
 
 ---
 
@@ -348,25 +345,25 @@ the ability to restore or teach another elf. These claims overlap without
 forming a clean hierarchy.
 
 An elf who witnessed an event carries evidence no archive can replace. The same
-longevity can harden a private recollection into public law. Memory changes with
-every body, grief, alliance, and century. Elves know this in theory and still
-ask the oldest witness to decide.
+longevity can harden a private recollection into public law. Each body changes
+memory. So do grief, alliances, and the passing centuries. Elves know this in
+theory and still ask the oldest witness to decide.
 
 Druidic orders counter memory with repeated survey, Maha records, shard
 inheritance, and judgment. Their records can outlast the mortal communities
 described in them. A human village may be classified as temporary growth by an
 order whose youngest member remembers its founding six generations ago.
 
-Religious hearings therefore ask two questions: who remembers, and who has
-borne the consequence since? The first favors old elves. The second admits
+Religious hearings ask two questions: who remembers, and who has borne the
+consequence since? The first favors old elves. The second admits
 Elvenspring, humans, orcs, and younger elves whom the decision kept in place.
 
 ## The Ruby and the Person
 
 The ruby is body-root, memory vessel, and continuing person. Flesh gives
-location, sensation, expression, and capacity. Destruction of flesh is injury
-and displacement rather than final death, but repeated restoration is not
-trivial.
+location and sensation. It also gives expression and capacity. Destruction of
+flesh is injury and displacement rather than final death, but repeated
+restoration is not trivial.
 
 Every restoration chooses material, age, sexed form, marks, voice, strength,
 and relation to the prior body. The elf may direct these choices when conscious.
@@ -398,7 +395,7 @@ distinguish restoration from imitation or possession.
 Teachers can impose taste while claiming guidance. Stillelves favor forms that
 fit long forest life. Redrunners value speed and inconspicuous travel. Unruly
 teachers may praise dramatic difference. The young elf's choice is never made
-outside culture merely because flesh is changeable.
+outside culture. Changeable flesh still carries culture's influence.
 
 At **Leaving the Teacher's Shape**, the young elf alters one feature the teacher
 selected. The change may be small. Its purpose is to establish that instruction
@@ -428,8 +425,8 @@ Neither practice guarantees fidelity.
 ## Death, Shattering, and the Limits of Restoration
 
 Bodily death begins Keeping the Stone. Final death begins with ruby destruction,
-loss beyond recovery, or a disputed decision not to restore. Elves therefore
-distinguish mourning the body from mourning the person.
+loss beyond recovery, or a disputed decision not to restore. Elves distinguish
+mourning the body from mourning the person.
 
 A destroyed body can still carry social loss: a face known to children, scars
 earned with companions, a voice tied to songs, or the strength needed for an
@@ -481,8 +478,8 @@ received it rejects the purpose imposed upon them.
 
 Watchers make vigilance an inherited office. They observe borders, ruins,
 demons, and human expansion. A watch kept after its object changed becomes a
-ritual without information. The best Watchers periodically state what evidence
-would end the duty.
+ritual without information. Watchers periodically state what evidence would end
+the duty.
 
 ### Redrunners
 
@@ -498,7 +495,7 @@ morality. Flow and Wail are approached through water, weather, migration, and
 care rather than conversion.
 
 Dwarven Huge doctrine disputes elven origin. Dwarves say the world and its
-matter belong within construction; elves say rubies came from the moving star.
+matter belong within construction. Elves say rubies came from the moving star.
 The argument becomes dangerous where a dwarf claims an embedded ruby as found
 material.
 
@@ -508,8 +505,8 @@ begins by requiring orcs to accept elven creation has already preserved the
 master's version.
 
 Rust threatens rubies through seizure, experiment, doctrine, and the practical
-power to hold a stone after destroying its body. Elven hostility is therefore
-theological and immediate.
+power to hold a stone after destroying its body. Elven hostility is theological
+and immediate.
 
 ## Sacred Time, Return, and the Moving Star
 
@@ -579,8 +576,8 @@ delay can harden power more quietly.
 
 Memory testimony is given with the body in which the event was experienced when
 possible. An elf restored in another form names the gap. Smell, height, hearing,
-and bodily danger change what a witness noticed. This does not invalidate the
-memory. It places edges around it.
+and bodily danger change what a witness noticed. The memory remains evidence,
+with edges set by the changed senses.
 
 At **The Contrary Walk**, a council visits the place with a guide who opposes
 the expected judgment. The guide chooses the route and what evidence receives
@@ -589,8 +586,8 @@ part of the decision.
 
 An elf can abstain for decades. Property, custody, and vulnerable bodies cannot.
 When no consensus forms, the people maintaining the disputed thing gain authority
-by continued work. Philosophical patience may therefore transfer a shrine,
-forest, or ruby chamber to its keepers without any vote.
+by continued work. Philosophical patience may transfer a shrine, forest, or ruby
+chamber to its keepers without any vote.
 
 ## Teaching, Adoption, and Outsiders inside Elven Practice
 
@@ -632,16 +629,16 @@ Redrunners arrived after the lifting, they sometimes treated those custodians
 as thieves. The custodians remembered every winter in which no elf came.
 
 At **Joining the Broken Survey**, two keepers walk from opposite ends of a route
-and meet where their records first disagree. They do not average the accounts.
-They inspect what caused the divergence: Mist, felling, settlement, flood,
+and meet where their records first disagree. They inspect the cause of the
+divergence rather than average the accounts: Mist, felling, settlement, flood,
 disease, or deliberate concealment.
 
 Orders reopened claims to forests that mortal villages had maintained throughout
-isolation. A Golden Bough tablet may prove an older duty. It does not prove that
-the people who performed the duty without support owe immediate surrender.
+isolation. A Golden Bough tablet may prove an older duty without proving that
+the people who performed it without support owe immediate surrender.
 
-The lifted Mist is therefore a religious crisis of return. Elves can recover
-stones, teachers, paths, and places. They cannot recover the authority that
+The lifted Mist leaves a religious crisis of return. Elves can recover stones,
+teachers, paths, and places. They cannot recover the authority that
 absence allowed others to build without asking what that authority protected.
 
 ## Fault, Repair, and Anathema
@@ -664,10 +661,12 @@ bounded punishment to the judge and an entire human history to everyone else.
 
 ## Evidence at the Table
 
-Show elven religion through a wrapped ruby given a place-name at every halt, a
-restoration account listing each chosen feature, a survey path walked again
-after thirty years, or a mortal petition whose original speakers are all dead
-before the hearing begins.
+Show elven religion through evidence the adventurers can handle:
+
+- a wrapped ruby given a place-name at every halt
+- a restoration account listing each chosen feature
+- a survey path walked again after thirty years
+- a mortal petition whose original speakers all died before the hearing began
 
 Religious conflict should concern custody, consent, restoration, altered form,
 the authority of memory, or the price other kin pay while elves take time to

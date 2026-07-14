@@ -2,13 +2,12 @@
 
 # Power, Factions, and Post-Mist Rule in the Ravenlands
 
-This reference explains how rule is lived and remembered. It also shows how it
-is resisted, then repaired
-in Apostol Apostolov's expanded Ravenlands campaign. Book 02 supplies the
-faction procedures. This document supplies the people beneath those procedures:
-the households that surrender grain and the ferrymen who decide whether a seal
-is still feared. Hostages make an oath costly. Retainers must decide whether an
-unpaid order remains an order.
+In Apostol Apostolov's expanded Ravenlands campaign, people live under rule,
+remember it, resist it, and repair it. Book 02 supplies the faction procedures.
+Here those procedures reach the people beneath them: the households that
+surrender grain and the ferrymen who decide whether a seal is still feared.
+Hostages make an oath costly. Retainers must decide whether an unpaid order
+remains an order.
 
 Power in the Ravenlands seldom begins with a border. It begins with a claim
 that can reach a road, a storehouse, or a body. A ruler is real where someone
@@ -64,11 +63,11 @@ weight.
 
 ### Claim Levels
 
-This document uses five levels of authority.
+Claims in this reference use five levels of authority.
 
 **Published canon** names people and factions. It also governs published places,
-histories, religions, and relations. A canon name does not make
-every consequence drawn from it canon.
+histories, religions, and relations. A canon name does not make every consequence
+drawn from it canon.
 
 **Manuscript fact** comes from the current second-edition rules and setting
 chapters. Faction terms belong to this layer:
@@ -79,14 +78,13 @@ chapters. Faction terms belong to this layer:
 
 **Historical model** supplies credible pre-feudal ways of organizing land and
 service. Compensation and witness support judgment. Household authority and
-hospitality persist into war.
-Such models are tools. The Ravenlands are not a displaced earthly kingdom.
+hospitality persist into war. Such models are tools. The Ravenlands are not a
+displaced earthly kingdom.
 
 **Setting inference** follows from canon under the conditions created by ten
 generations of Blood Mist and broken roads. Living non-human kin remember older
 claims. Real gods and magic share the land with walkers and monsters. An
-inference should answer a practical question
-left open by the books.
+inference should answer a practical question left open by the books.
 
 **Personal campaign lore** is Apostol Apostolov's established answer for this
 campaign. It remains authoritative here without being presented as published
@@ -110,8 +108,8 @@ do so and reveals that the office has become hollow.
 
 The chain prevents power from becoming fog. A lord who claims a valley must
 name what the valley gives and what the lord returns. Someone must carry each
-demand; failure must have a known consequence. Without those answers there is only a title
-spoken beside a fire.
+demand; failure must have a known consequence. Without those answers, the claim
+is only a title spoken beside a fire.
 
 ### Politics Is a Distribution Problem
 
@@ -138,8 +136,8 @@ gates.
 
 A court exists because people sweep its floor and heat the hall. Others carry
 summons or remember procedure. Guests must be fed; angry kin must be restrained,
-and judgments repeated after the ruler has left. A faction with a grand title and no such workers rules only
-while its armed party remains within reach.
+and judgments repeated after the ruler has left. A faction with a grand title
+and no such workers rules only while its armed party remains within reach.
 
 Institutions survive through repeated small acts. The steward opens the tally
 chest before witnesses. The hostage keeper shows a child alive at the expected
@@ -153,9 +151,10 @@ Break enough repetitions and the institution dies before anyone announces it.
 No observer sees the whole faction.
 
 A lord sees promises and reports, especially missing revenue. A steward sees
-labor and stores, including false measures. A village elder sees which households can still
-pay. A hostage sees the temper of the hall. A groom sees night rides. A priest
-sees who refuses public witness. A servant sees who eats after a failed levy.
+labor and stores, including false measures. A village elder sees which households
+can still pay. A hostage sees the temper of the hall. A groom sees night rides.
+A priest sees who refuses public witness. A servant sees who eats after a failed
+levy.
 
 Treat political truth as an assembly of positioned accounts. Contradiction is
 evidence. If the steward calls a village disloyal and the miller calls it empty,
@@ -280,7 +279,7 @@ One village may hear from:
 Each may hold a fragment of truth. The village cannot satisfy every fragment
 without giving away the same grain, labor, or road several times.
 
-Post-Mist politics is therefore full of overlapping legitimacy. The strongest
+Post-Mist politics is full of overlapping legitimacy. The strongest
 claim is often the one that bundles proof with protection, marriage, useful
 work, or armed presence.
 
@@ -543,10 +542,10 @@ tally. Burning the mill punishes both sides and feeds neither.
 
 ### The Smith
 
-The smith repairs plough iron and weapons in the same fire. This gives the forge
-political information. A rush of spear repairs reveals a hidden muster. Missing
-nails delay a palisade. Refusal to shoe a collector's horse can be explained as
-fuel shortage until the third refusal.
+The smith repairs plough iron and weapons in the same fire. The work gives the
+smith political information. A rush of spear repairs reveals a hidden muster.
+Missing nails delay a palisade. Refusal to shoe a collector's horse can be
+explained as fuel shortage until the third refusal.
 
 Smiths are difficult to coerce beyond a point. Killing one may win an afternoon
 and lose the next year.
@@ -715,7 +714,7 @@ One payment is a bargain. Repeated payment under public memory can become due.
 One act of mercy is personal. Repeated remission during crop failure can become
 a ruler's obligation.
 
-Custom therefore grows at the edge of ambiguity. Powerful people describe
+Custom grows at the edge of ambiguity. Powerful people describe
 exceptional concessions as gifts. Dependents describe them as precedent. Each
 side knows that the word chosen this year may govern the next famine.
 
@@ -1022,9 +1021,9 @@ People under dread prepare before demands arrive. Tribute is measured early.
 Questionable objects disappear. Misgrown children are hidden or surrendered.
 Road news is controlled. Compliance consumes labor even when no officer visits.
 
-This makes dread appear efficient from the seat. The hidden cost accumulates in
-flight, false information, damaged trust, and the loss of initiative among
-people afraid to act without permission.
+From the seat, dread appears efficient. The hidden cost accumulates in flight,
+false information, damaged trust, and the loss of initiative among people afraid
+to act without permission.
 
 #### The Price of Dread Rule
 
@@ -1305,7 +1304,7 @@ Bodily evidence is never self-explanatory. A scar proves injury, not lawful
 cause. A resemblance suggests descent, not consent. A mark called demonic may
 be birth, disease, craft injury, or something that knows how accusation works.
 
-The authority to interpret bodies is therefore political.
+The authority to interpret bodies is political.
 
 ### Objects as Witnesses
 
@@ -1377,7 +1376,7 @@ placed inside a family boundary can establish belonging after death. An empty
 grave may preserve the claim of someone missing. A marker turned face down can
 signal judgment without disturbing dangerous remains.
 
-Exhumation is therefore political and religious work. Moving bones can alter
+Exhumation is political and religious work. Moving bones can alter
 the evidence on which land, inheritance, or grievance rests.
 
 Walkers make careless revision physically dangerous.
@@ -1569,7 +1568,7 @@ The collector learns population, stores, illness, new buildings, missing
 households, weapons, road news, and local divisions. Tribute routes are
 intelligence routes.
 
-Settlements therefore stage appearances. Healthy animals are hidden. Empty bins
+Settlements stage appearances. Healthy animals are hidden. Empty bins
 are displayed. A sick elder remains at the head of the table to conceal
 succession. Children are sent to distant kin before household counts.
 
@@ -1844,7 +1843,7 @@ during training.
 Political marriage links households rather than merely rulers. It reallocates
 inheritance, residence, labor, protection, and future children.
 
-Negotiations therefore involve people whose names do not appear in the formal
+Negotiations involve people whose names do not appear in the formal
 compact: siblings displaced from rooms, elders losing care, apprentices losing
 a teacher, and servants moving with stores.
 
@@ -2163,7 +2162,7 @@ The sentence reaches only as far as recognition. An outlaw in one lordship may
 be a useful scout in another. Religious sanctuary may suspend pursuit. Kin may
 feed the outlaw while denying knowledge.
 
-Outlawry is therefore a test of Reach and Mandate as much as Decree.
+Outlawry is a test of Reach and Mandate as much as Decree.
 
 ### Degrees of Exclusion
 
@@ -2224,7 +2223,7 @@ News is valuable before it becomes common. The first person to learn that a road
 is open, an heir is sick, a levy failed, or a monster moved can trade, flee,
 prepare, accuse, or buy before others act.
 
-People therefore ask who told a fact, who was meant to hear it, and why it
+People ask who told a fact, who was meant to hear it, and why it
 arrived now.
 
 ### The Information Chain
@@ -2704,7 +2703,7 @@ The company lives between contract and appetite. Discipline preserves its sale
 value. Plunder supplements irregular pay. These needs pull in opposite
 directions whenever a patron delays.
 
-Camp followers are part of the institution: armorers, cooks, launders,
+Camp followers are part of the institution: armorers, cooks, launderers,
 prostitutes, drovers, healers, sutlers, children, partners, creditors, and
 prisoners. A captain who counts only fighters misunderstands what keeps the
 banner moving.
@@ -2773,7 +2772,7 @@ the faction's internal politics.
 
 Human authority in the Ravenlands carries the memory of settlement, conquest,
 plague, religious domination, and long enclosure by the Blood Mist. Human
-villages therefore recognize many incompatible grounds of rule at once.
+villages recognize many incompatible grounds of rule at once.
 
 A family may honor an old royal claim, obey a Rust collector, conceal a Raven
 rite, hire an orc guard, and seek elven healing without considering itself
@@ -2923,7 +2922,7 @@ Prolonged isolation carries the feared possibility of becoming hunt-mad: the
 self narrows toward quarry, pursuit, killing, and feeding until social identity
 is no longer reachable.
 
-Pack discipline therefore has psychological weight. Shared sleep, grooming,
+Pack discipline has psychological weight. Shared sleep, grooming,
 argument, scent, work, and repeated response to a known voice keep a wolfkin
 located among persons.
 
@@ -3133,8 +3132,8 @@ touch the dead are early votes in the succession.
 ### Minority and Regency
 
 A child heir concentrates Mandate while lacking the practical capacities to
-exercise it. The regent governs in another person's name and therefore has both
-authority and an approaching end date.
+exercise it. The regent governs in another person's name and has both authority
+and an approaching end date.
 
 Good regents preserve the heir's future household, educate the child, maintain
 relationships, and leave records clear enough to surrender power.
@@ -3199,8 +3198,8 @@ Claimants promise lavishly because future authority seems able to pay. Victory
 arrives with offices pledged twice, land granted before survey, remissions that
 empty stores, and fighters expecting immediate reward.
 
-The first year of a new rule is therefore a test of disappointment management.
-Punishing former supporters may restore the treasury and destroy Mandate.
+A new ruler spends the first year managing disappointed promises. Punishing
+former supporters may restore the treasury and destroy Mandate.
 
 ### Divided Houses
 
@@ -3685,11 +3684,10 @@ These acts remain politically ambiguous enough to survive inquiry.
 
 ### Concealment
 
-Households hide grain and weapons. People disappear into other roofs;
-books and icons go into walls. Letters and lineages may be entrusted farther
-away.
-Effective concealment uses ordinary architecture and habits rather than a single
-clever compartment.
+Households hide grain and weapons. People disappear into other households. Books
+and icons go into walls. Letters and lineages may be entrusted to people farther
+away. Effective concealment uses ordinary architecture and habits rather than a
+single clever compartment.
 
 A secret known by every villager is protected through mutual dependence, not
 ignorance.
@@ -3910,7 +3908,7 @@ Removing it then creates work rather than automatic relief.
 
 ### Give Every Power a Price
 
-Protection consumes labor. Justice favors a social order. roads channel tolls.
+Protection consumes labor. Justice favors a social order. Roads channel tolls.
 Relief creates dependence. Sacred certainty excludes somebody.
 
 Name who pays and when.
