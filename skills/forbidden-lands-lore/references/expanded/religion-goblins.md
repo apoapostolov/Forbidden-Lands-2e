@@ -2,11 +2,10 @@
 
 # Goblin Religion of the Ravenlands
 
-This reference begins with Eor in moonlit movement, theft, and hunting. Cradles
-bind that worship to halfling kinship. Deception protects both, while resistance
-to Penita reunion gives the faith its public edge. Eor, the divided kin, and
-cradle customs are manuscript facts. Detailed rites are grounded setting
-inference.
+Eor governs moonlit movement, theft, and hunting. Cradles bind her worship to
+halfling kinship. Deception protects both, while resistance to Penita reunion
+gives the faith its public edge. Eor, the divided kin, and cradle customs are
+manuscript facts. Detailed rites are grounded setting inference.
 
 ---
 
@@ -19,23 +18,24 @@ moonstones gave rise to the beings later divided into halflings and goblins.
 She turns her face away each month. Both halves worship her: goblins openly,
 halflings behind domestic respectability.
 
-Eor's faithful do not teach that every lie is holy. A useful lie reveals which
-truths are dangerous, who claims the right to know, and what the speaker will
-risk to preserve. Goblins praise deception that secures freedom, prey, or kin.
+Eor's faithful distinguish a holy lie from common falsehood. A useful lie
+reveals which truths are dangerous, who claims the right to know, and what the
+speaker will risk to preserve. Goblins praise deception that secures freedom,
+prey, or kin.
 Halflings often bless the lie that keeps the cradle and the household facade
 apart. Penita priests call both practices symptoms of a division that must end.
 
-The moon's change gives the cult its moral grammar. No face is complete at all
-times. What is hidden still shapes what is shown. Shame can protect a boundary,
-but shame fed too long becomes cruelty toward the person who exposes it.
+The cult reads duty in the moon's changing face. No face is complete at all
+times, and what is hidden still shapes what is shown. Shame can guard a
+boundary. Fed too long, it becomes cruelty toward the person who exposes it.
 
 ### Cradle Faith and Daily Practice
 
-The hidden cradles are the strongest Eor institutions. Halfling and goblin
-mothers, earth mothers, and shamans cooperate where public custom insists the
-half-kin remain separate. Fathers guard outside and accept children without
-certainty of descent. The rite makes social parenthood stronger than proof of
-blood while concealing the fact from much of daily life.
+Hidden cradles are the chief institutions of Eor. Halfling and goblin mothers,
+earth mothers, and shamans cooperate where public custom insists the half-kin
+remain separate. Fathers guard outside and accept children without certainty
+of descent. The rite places social parenthood above proof of blood while
+concealing the fact from much of daily life.
 
 Halfling households keep harmless-looking lunar customs: round loaves cut only
 after moonrise, shutters closed during certain births, blue stones hidden in
@@ -53,12 +53,12 @@ security, or a broken bargain becomes a story.
 **The Cradle Exchange** transfers newborns to mothers of their visible half-kin.
 No public record names the biological mother. Witnesses remember health,
 feeding, and obligations instead. The secrecy protects the children and gives
-cradle keepers immense power over identity.
+cradle keepers power over identity.
 
 **The Two Faces** occurs at full and dark moon. At full moon, a person states a
 public reputation they must maintain. At dark moon, before a smaller trusted
-circle, they name what the reputation conceals. The second statement does not
-automatically excuse the first.
+circle, they name what the reputation conceals. Confession leaves the public
+act to be answered for.
 
 **Eor's Misrule** permits a bounded night of exchanged clothing, false names,
 borrowed offices, riddling judgment, and thefts that must be returned by dawn.
@@ -86,7 +86,7 @@ to consider reunion. The three positions cannot all govern the same crisis.
 
 ## Eor beneath the Open Sky
 
-Goblins do not hide Eor. They paint masks, raise stolen silver to moonlight,
+Goblins worship Eor openly. They paint masks, raise stolen silver to moonlight,
 give sacrifices where the sky can see them, and schedule movement by the pain
 daylight causes their eyes. Concealment remains holy, but concealment is a tool
 rather than a public virtue.
@@ -95,18 +95,18 @@ Eor's monthly turning teaches that possession, face, camp, and advantage change.
 A thing held now may have another claimant tomorrow. Goblins distrust laws that
 freeze one person's good fortune into permanent right.
 
-This does not abolish ownership. Wolves and weapons have recognized claims. So
-do stored food and routes. Sleeping places carry claims because promises were
-made over them. Goblin ownership depends upon use and defense, exchange and
-memory, and the ability to answer another claimant. A
-locked chest left untouched for twenty years proves a lock, not a moral truth.
+Ownership remains. Wolves, weapons, stored food, and routes have recognized
+claims. Sleeping places carry claims because promises were made over them.
+Goblin ownership depends upon use and defense, exchange and memory, and the
+ability to answer another claimant. A locked chest left untouched for twenty
+years proves a lock, not a moral truth.
 
 ## Religious Authority
 
 Bands recognize moon-shamans and cradle keepers. Hunt leaders work beside wolf
-handlers; story keepers preserve their claims. A person who can divide stolen
-goods without dividing the band holds another kind of authority. Authority
-changes with the task.
+handlers. Story keepers preserve claims. A person who can divide stolen goods
+without dividing the band holds another kind of authority. Authority changes
+with the task.
 
 A shaman who reads Eor but cannot find shelter before dawn is incomplete. A
 hunter who brings prey but starts a feud no one can escape is judged through
@@ -124,9 +124,9 @@ checked while light remains tolerable. The first moon-view belongs to whoever
 stood the day watch, an uncomfortable post that brings poor sleep and physical
 pain.
 
-At **Opening the Night**, that watcher reports tracks and smoke. Voices or
-disturbed birds reveal movement; weather explains some signs. The watcher then
-names every object moved while others slept. The band then decides what
+At **Opening the Night**, that watcher reports tracks and smoke. Voices and
+disturbed birds may reveal movement, while weather explains other signs. The
+watcher names every object moved while others slept. The band then decides what
 face it presents: hunter, courier, trader, raider, pilgrim, or absence.
 
 Dark moon favors concealment, full moon distance and fast movement. Neither is
@@ -141,8 +141,7 @@ left with a false trail and one truthful warning for kin.
 
 Before using a taken object, a goblin may tell Eor its former claimant and the
 method of taking. The story lets listeners judge whether the act exposed
-hoarding, defeated vigilance, broke guest law, or merely preyed on someone
-helpless.
+hoarding, defeated vigilance, broke guest law, or exploited someone helpless.
 
 At **The Third Claim**, valuable spoils receive three accounts: the taker's,
 the former holder's if known, and the band's. A shaman may assign use without
@@ -165,8 +164,8 @@ ally, or person under exchange cannot become prey without a declared breach.
 
 At **Naming the Quarry**, the hunt leader states what is being hunted and why.
 “Meat” is insufficient when the quarry can speak. The leader must name injury,
-need, war, ransom, or appetite. The requirement does not make the hunt just. It
-makes the purpose available for challenge.
+need, war, ransom, or appetite. Naming the purpose leaves it open to challenge
+without making the hunt just.
 
 Some bands forbid eating people whose names they know. Others hold that a name
 creates obligation only when exchanged freely. Hungry goblins are skilled at
@@ -179,8 +178,8 @@ equipment must be assigned before boasting begins.
 ## Wolves and the Moon Road
 
 Riding wolves are companions, breeding stock, weapons, and hungry dependents.
-They are not interchangeable mounts. Handlers keep descent, temperament,
-injury, and who may approach each animal.
+Handlers treat each wolf as an individual, keeping its descent, temperament,
+injuries, and the names of those allowed to approach it.
 
 At **Sharing the Shadow**, a young goblin walks beside a chosen wolf for three
 nights before riding. Food and pace are shared. If the wolf refuses the goblin
@@ -217,8 +216,8 @@ halfling line. A stolen title mocks someone who thought rank could not be taken.
 
 At **The Name Returned**, an adolescent uses a false name during a bounded
 journey, bargain, or hunt. On return, the band names which acts belong to the
-person despite the mask. The rite teaches that deception changes evidence but
-does not erase responsibility.
+person despite the mask. Deception may change the evidence, yet responsibility
+stays with the person.
 
 Adult standing requires bringing something back: food, news, a living companion,
 a route, an object, or a warning. A raid that returns with loot and no account
@@ -230,9 +229,9 @@ Partnership is witnessed through shared route and divided danger. Partners may
 exchange one useful object, then spend a month using the other's. Damage must
 be reported before it is discovered.
 
-Band loyalty does not require permanent residence. Couriers, scouts, and cradle
-travelers leave often. It requires maintaining the route by which one can be
-found and naming dangers drawn toward the band.
+Band loyalty permits long absences. Couriers, scouts, and cradle travelers leave
+often, provided they maintain the route by which they can be found and name any
+danger drawn toward the band.
 
 Jealousy is attributed to Eor but not excused by her. A lover who steals a
 partner's wolf, weapon, or path to prevent departure has confused relation with
@@ -246,8 +245,8 @@ could endanger the band. Looting before this account is grave theft.
 
 At **The Last Theft**, one small object belonging to the dead is placed where a
 stranger will find it. The finder unknowingly carries the dead person's trace
-into another story. Bands disagree over whether a stolen object may be used;
-some insist the final gift must have been honestly owned.
+into another story. Bands disagree over whether a stolen object may be used.
+Some insist the final gift must have been honestly owned.
 
 A dead goblin's halfling connections are warned indirectly. A tool appears on
 a sill. A tavern sign is turned. A cradle keeper receives half a blue bead.
@@ -297,8 +296,8 @@ Eor is given no portion. The goddess has the moon. The hungry need the meat.
 
 ## Daylight, Shelter, and the Pain of Exposure
 
-Sunlight hurts goblin eyes. Religion begins with this bodily fact before it
-becomes a symbol of persecution or hidden truth. A sound camp has shade that
+Sunlight hurts goblin eyes. Goblin religion begins with that pain, before
+persecution or hidden truth gives it further meaning. A sound camp has shade that
 can be reached by a blinded runner, water close enough for a child, and more
 than one exit if fire reaches the cover.
 
@@ -310,7 +309,7 @@ pain buys everyone else's rest and earns first hearing at dusk.
 Forcing a goblin into full sun is punishment, torture, and sometimes execution.
 Bands may still use it against prisoners or their own condemned members. The
 custom is defended as Eor's judgment because the moon cannot be seen. Critics
-answer that a captor is doing the judging and merely borrowing the sky.
+answer that the captor passes sentence and borrows the sky to lend it authority.
 
 Travel by day is possible beneath heavy hoods, forest cover, cloud, or wagon
 cloth. A companion who leads a covered goblin accepts the duty of sight. False
@@ -331,7 +330,8 @@ food, or fear has not yet earned divine authority.
 An apprentice keeps **The Crooked Account** for one moon. Each night they tell
 the band one false statement about a harmless matter. Before the moon turns,
 they must reveal every falsehood and show who changed behavior because of it.
-The lesson is reliance. Even a small lie grows limbs once other people move.
+The exercise reveals reliance: even a small lie grows limbs once other people
+move.
 
 Dreams seen under moonlight are reported with sleeping place, food, drugs,
 illness, and noises heard on waking. The shaman may interpret afterward. A
@@ -339,10 +339,10 @@ chief who demands the omen first is looking for permission rather than
 knowledge.
 
 Shamans wear little that cannot be abandoned. Blue stone, polished shell,
-silver scrap, wolf tooth, and a mask may mark office, but a shaman unable to
-move without a chest of sacred goods has mistaken cargo for power.
+silver scrap, wolf tooth, and a mask may mark office. A shaman unable to move
+without a chest of sacred goods has mistaken cargo for power.
 
-The office has no immunity from theft. Taking a shaman's ritual object can be
+The office offers no immunity from theft. Taking a shaman's ritual object can be
 a challenge to prove its protection. Using it to expose a cradle, poison a
 patient, or forge a protected message remains anathema because the damage falls
 beyond the contest.
@@ -351,12 +351,12 @@ beyond the contest.
 
 Goblins carry medicine in grease, dried leaf, bitter root, fungus, clean cloth,
 and the remembered location of water. A cure is judged by recovery and cost.
-Its origin in human, druidic, or stolen knowledge does not make it impure.
+Human, druidic, or stolen origins do not taint it.
 
 At **Naming the Bite**, a sick person or companion states what entered the body:
 tooth, insect, bad meat, smoke, cold, drug, spell, or ignorance. “Eor willed it”
 is accepted only after ordinary causes have been examined. The goddess may hide
-meaning; she does not excuse a filthy knife.
+meaning. She does not excuse a filthy knife.
 
 Treatment creates a claim bounded by what was given. A healer who uses one
 night's care to demand lifelong service is a thief who keeps stealing after the
@@ -365,8 +365,8 @@ choose distance.
 
 Wounded wolves are treated before trophies are divided. Handlers know that an
 animal may bite through pain and use rope, forked wood, and familiar scent. A
-prayer spoken while three goblins hold the jaw is no less sacred for being
-practical.
+prayer spoken while three goblins hold the jaw remains sacred work, as practical
+as the ropes.
 
 Whiner flesh, demonic remedies, and Rust medicine divide bands. Need can justify
 use without settling the manner in which the material was obtained. Some
@@ -376,8 +376,8 @@ Others ask after the patient can stand.
 ## Feasting, Sacrifice, and What Is Given Away
 
 A goblin offering must leave someone's use. Stolen silver placed under moonlight
-and recovered at dawn has been shown, not given. The boast may still please Eor,
-but the band does not call it sacrifice.
+and recovered at dawn has been shown rather than given. The boast may still
+please Eor, though the band will not call it sacrifice.
 
 Common offerings are meat left where scavengers can take it, a route withheld
 for one night, a useful lie retired before discovery, or a taken object returned
@@ -400,7 +400,7 @@ demands such waste must name the danger worth it.
 
 ## Dispute, Compensation, and the Moon Hearing
 
-Goblins expect claims to move, but movement needs witnesses. A person who loses
+Claims may move, but movement needs witnesses. A person who loses
 an object through better stealth may still claim its use when a child, patient,
 or shared route depends on it.
 
@@ -411,8 +411,8 @@ shared, exchanged, or deliberately left unassigned until the next moon.
 
 Compensation answers use before pride. A stolen cooking pot costs the meals that
 could not be made. A wolf injured through borrowed tack costs care, lost travel,
-and the handler's time. Public humiliation may follow, but it does not cook or
-heal anything.
+and the handler's time. Public humiliation may follow. It cooks no meal and
+heals no wound.
 
 Feuds are marked by **The Uncrossed Track**. Each side cuts its sign on opposite
 sides of a known route and names people who may still cross: cradle keepers,
@@ -440,7 +440,7 @@ A closed archive is another locked chest. A goblin who steals a birth list to
 protect a cradle may save the children and expose every name while carrying it.
 
 Clay druids condemn hunting and careless felling. Goblins answer that a druid
-who protects a fox litter beside a starving camp has chosen the foxes. The best
+who protects a fox litter beside a starving camp has chosen the foxes. Durable
 agreements name prey, season, nesting ground, and the number of mouths on both
 sides.
 
@@ -450,8 +450,7 @@ A goblin handler may regard the accusation as a prelude to stealing the animal.
 
 Rust Brothers dislike every protected lie they do not control. Goblin bands
 trade them information, mislead their patrols, rescue prisoners, and sometimes
-sell rivals into their hands. No common persecution has made the bands morally
-united.
+sell rivals into their hands. Persecution has not made the bands morally united.
 
 ## The Blood Mist and the Returned Distance
 
@@ -463,7 +462,7 @@ leading the Mist toward an opening or reaching bare ground too late.
 Some bands call those generations Eor's Long Face: the goddess hid the roads
 from rulers and made despised kin necessary. Others remember lost camps, failed
 cradles, and wolves killed when a planned shelter had burned. Privilege within
-a disaster does not make the disaster holy.
+a disaster never makes that disaster holy.
 
 The lifted Mist opened longer routes and weakened goblin control of secret
 distance. Human wagons now reach markets once served by moon couriers. Old
@@ -478,8 +477,8 @@ bargain.
 ## Masks, Story, and the Ownership of a Face
 
 Goblin masks protect eyes, break recognition, mock authority, and let one speaker
-carry several roles. A mask is not a second person by itself. Responsibility
-follows the acts witnesses can attach to the wearer.
+carry several roles. The mask creates no second person. Responsibility follows
+the acts witnesses can attach to the wearer.
 
 At **Passing the Face**, a mask used in judgment, trade, or ritual is handed to
 another band member. The new wearer repeats one earlier decision and may reject
@@ -491,7 +490,8 @@ person before their kin is a grave challenge unless the family invited the act.
 
 Stories are told with claim attached. The speaker names whether they saw, heard,
 stole, guessed, or inherited the account. A good performance may blur these
-origins for pleasure. A route or cradle decision cannot.
+origins for pleasure. Decisions about routes and cradles demand the claim
+plainly.
 
 At **The Missing Boast**, listeners stop a returning hunter before the greatest
 deed. Another person describes the cost: arrow spent, wolf lamed, enemy warned,
@@ -508,9 +508,9 @@ elsewhere. A spell that saves the band may still have marked a route, summoned a
 debt, or spent something the caster did not own.
 
 At **Showing the Empty Hand**, a sorcerer states what was used, what remains, and
-what sign may indicate an unseen cost. The band does not demand every secret of
-the craft. It demands enough warning to choose whether the caster sleeps inside
-the circle.
+what sign may indicate an unseen cost. The band asks enough warning to choose
+whether the caster sleeps inside the circle, without demanding every secret of
+the craft.
 
 Demons understand desire and deception without sharing goblin limits. A demon
 may keep the words of a bargain while placing every consequence on people who
@@ -544,24 +544,24 @@ the settlement from surprise and the goblins from being called thieves for
 following the route they were given.
 
 Human festivals sometimes hire goblins to perform Eor's Misrule while denying
-real goblin kinship. The mask is welcome; the person must leave before morning.
-Some performers take the pay. Others use the allowed theft to recover objects
-passed from a cradle family.
+real goblin kinship. They welcome the mask and send the person away before
+morning. Some performers take the pay. Others use the allowed theft to recover
+objects passed from a cradle family.
 
-Settled worship creates property Eor did not forbid. A shrine accumulated through
-years of use can be lost to one landlord's key. Bands may strip every portable
+Years of settled worship can accumulate property that Eor never forbade. A
+shrine built through use can be lost to one landlord's key. Bands may strip every portable
 object and leave only a crescent cut where the next tenant will find it.
 
 ## Kin, Gender, and Chosen Parentage
 
-Cradle exchange separates visible half-kin, not all later relation. A goblin can
-have birth ties, foster parents, wolf-kinship, band elders, halfling connections,
-and children acquired through rescue or adoption.
+Cradle exchange separates visible half-kin, while later relations still grow. A
+goblin can have birth ties, foster parents, wolf-kinship, band elders, halfling
+connections, and children acquired through rescue or adoption.
 
 At **Naming the Carriers**, a young person identifies who carried them from the
 cradle, through sickness, on the first journey, and back after the first failure.
-The names may include people no longer in the band. Parenthood is demonstrated
-without demanding certainty the cradle was built to deny.
+The names may include people no longer in the band. Parenthood rests on proven
+care without demanding the certainty the cradle was built to deny.
 
 Band roles are less fixed by gender than halfling marriage tables, but pregnancy,
 nursing, daylight watch, and travel impose unequal bodily cost. A leader who
@@ -583,8 +583,9 @@ and objects whose former owners still care where they went. A band can leave a
 camp without leaving its whole relation to Eor behind.
 
 At **Choosing the Burden**, members decide which sacred objects deserve space
-when flight requires lighter packs. The shaman does not choose alone. A healer's
-pot or child's blanket may carry more present obligation than an old silver mask.
+when flight requires lighter packs. The choice does not belong to the shaman
+alone. A healer's pot or child's blanket may carry more present obligation than
+an old silver mask.
 
 An object left behind is placed where finder and band will tell different
 stories about it. The finder may call it treasure. The band remembers what had
@@ -609,8 +610,8 @@ the band's means of escape, claiming another's wolf through rank alone, denying
 a halfling in mortal danger solely to preserve public contempt, and telling a
 lie whose cost falls entirely on someone denied the truth.
 
-Goblins admire deception enough to understand its workmanship. A bad lie is
-not sinful because it failed. It is sinful when the liar never planned how the
+Goblins admire deception enough to understand its workmanship. A failed lie may
+be clumsy without being sinful. Sin begins when the liar never planned how the
 band would survive discovery.
 
 ## Evidence at the Table
@@ -620,7 +621,7 @@ pairing delayed because the animal refused, three competing claims spoken over
 one knife, a trade parcel arranged to look stolen, or a day watcher whose first
 words at dusk determine the band's route.
 
-Religious conflict should concern the status of prey, a betrayed cradle, a
+Build religious conflict around the status of prey, a betrayed cradle, a
 moonstone that may erase the divided kin, or a theft that exposed hoarding and
 also broke guest law.
 

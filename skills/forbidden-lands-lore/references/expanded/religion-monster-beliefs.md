@@ -2,11 +2,11 @@
 
 # Monster Beliefs of the Ravenlands
 
-This reference groups the poorly documented beliefs of saurians, ogres,
-whiners, and Misgrown. It distinguishes observed conduct and manuscript fact
-from outsider claim and GM inference. These peoples do not share a religion.
-They share the danger of description by hunters or captors, and by priests or
-scholars who profit from misunderstanding them.
+The beliefs of saurians, ogres, whiners, and Misgrown are poorly documented.
+Observed conduct and manuscript fact must be kept apart from outsider claim and
+GM inference. These peoples do not share a religion. They share the danger of
+description by hunters or captors, and by priests or scholars who profit from
+misunderstanding them.
 
 ---
 
@@ -19,10 +19,9 @@ merely to complete a pantheon.
 
 Observable practice centers on water level and communal feasting ponds. Dams,
 crocodiles, and winter fat enter those practices. Trade platforms keep a strict
-peace. Saurian
-religion distinguishes water where outsiders may stand under protection from
-water where anything alive may be prey. The difference is marked with posts,
-smell, cut reeds, and spoken warning, not an abstract border.
+peace. Saurian religion distinguishes water where outsiders may stand under
+protection from water where anything alive may be prey. The difference is marked
+with posts, smell, cut reeds, and spoken warning, not an abstract border.
 
 At a **Bank Closing**, saurians inspect a dam before winter. Each family presses
 mud into one weak place and leaves a scent mark. A collapse later reveals which
@@ -43,8 +42,8 @@ No one who has only watched from a boat knows which remedy applies.
 Likely anathemas include violence on a marked trade platform or breach of a dam
 during cold season. Hiding disease in a feast pond threatens the whole
 community. Wasting shared metal is another offense. So is claiming to understand
-a marsh presence seen only at the surface. Treat these as local inference until a saurian community shows
-otherwise.
+a marsh presence seen only at the surface. Treat these as local inference until
+a saurian community shows otherwise.
 
 ### Presence, Depth, and the Unnamed Marsh
 
@@ -60,14 +59,13 @@ feeding, or a place surfacing long enough to look back.
 At **Waiting below Speech**, witnesses submerge until only eyes and nostrils
 remain. They watch water and insects, reeds and birds. Distant disturbance
 enters the account without being addressed. The first person to claim a sight
-must also name what ordinary
-animal or current could have caused it.
+must also name what ordinary animal or current could have caused it.
 
 Saurians distinguish surface knowledge from depth knowledge. Surface can be
 traded: weather and safe platform, visible channel and fish movement. Depth
 knowledge concerns winter hollows and egg places. Submerged entrances lead to
-the paths of the presences. Asking for it under trade peace is still an attempt to enter another
-jurisdiction.
+the paths of the presences. Asking for it under trade peace is still an attempt
+to enter another jurisdiction.
 
 ### Authority and the Long Harangue
 
@@ -78,8 +76,8 @@ declared at each platform.
 
 Saurian speech sounds rambling to outsiders because a public statement locates
 itself in water and season. It names witnesses, prior use, and exceptions before
-the demand.
-Cutting the account short can change a temporary passage into a permanent right.
+the demand. Cutting the account short can change a temporary passage into a
+permanent right.
 
 At **The Repeated Bank**, another speaker repeats a judgment from a different
 place on the platform. The second voice changes any word that depends on where
@@ -121,9 +119,9 @@ through its decay. A feast pond is a kitchen whose walls move.
 
 At **Opening the Pond**, the feast keeper first tests smell and surface. Gas and
 insect life reveal the deeper condition; several pieces are tested for firmness.
-A portion is removed for the sick and young
-before the strongest enter. Outsiders invited to watch are placed upwind and
-told exactly where not to step.
+A portion is removed for the sick and young before the strongest enter.
+Outsiders invited to watch are placed upwind and told exactly where not to
+step.
 
 Waste carries a different meaning in a marsh. Bone, hide, offal, and spoiled
 material feed water or become tools. The offense lies in concentrating rot where
@@ -199,9 +197,9 @@ an outsider claims to have named after one sighting from a boat.
 
 ## Ogres: Thunder, Mark, and Chosen Kin
 
-Religion matters little to many ogres in the institutional sense. No common
-priesthood records a creed. Their thunder gatherings, body marks, violent music,
-and chosen attachments nevertheless carry sacred force.
+Many ogres care little for religion as an institution. No common priesthood
+records a creed. Their thunder gatherings, body marks, violent music, and chosen
+attachments nevertheless carry sacred force.
 
 When thunder begins, ogres howl, strike wood and metal, and search for a rhythm
 loud enough to enter the storm. The practice recognizes a world greater than
@@ -418,8 +416,9 @@ and voice. No individual needs the whole message. A hunter who captures the
 first caller has not silenced the hollow.
 
 Some large individuals may lay eggs while others feed, tend, carry, or defend.
-This division can create sacred dependence and coercion. Protecting a reproductive
-body does not prove that body rules or consents to every use made of it.
+This division can create sacred dependence and coercion. Protecting a
+reproductive body does not prove that body rules or consents to every use made
+of it.
 
 Whiners questioned under threat may confirm whatever colony tale keeps captors
 away from the real chamber. Contradictory accounts are evidence of danger, not
@@ -533,9 +532,9 @@ Rust church reads marked bodies as election when useful and contamination when
 disobedient. Raven Sisters may see a patient and victim. Druids may see imposed
 form with living claims. Villagers may see danger before personhood.
 
-Misgrown religious life therefore begins with jurisdiction. Who may name the
-body? Who may touch it, heal it, display it, recruit it, or decide that change
-has become identity? A private rite may consist only of covering a feature the
+Misgrown religious life begins with jurisdiction over the body. Who may name
+it? Who may touch it, heal it, display it, recruit it, or decide that change has
+become identity? A private rite may consist only of covering a feature the
 church demands be shown, or giving an altered limb a household name rather than
 a doctrinal one.
 
@@ -578,9 +577,9 @@ changes during rest, draws predators, speaks, or acts without full waking contro
 The watcher records what occurred and wakes the sleeper before making a religious
 judgment.
 
-Care creates difficult power. The only person willing to clean a hidden wound
-may demand secrecy, loyalty, sex, coin, or obedience. Fellowship law treats such
-demands as taking payment from a door no one else will open.
+Scarce care gives the carer power. The only person willing to clean a hidden
+wound may demand secrecy, loyalty, sex, coin, or obedience. Fellowship law
+treats such demands as taking payment from a door no one else will open.
 
 Medicines are shared with origin attached. Rust remedy, druidic salve, whiner
 flesh, demonic secretion, and ordinary boiled cloth do not become equivalent
@@ -603,7 +602,7 @@ person whom later alteration affects. It prevents the first visible difference
 from becoming the whole name.
 
 Parents may hide harmless traits to keep a child outside church custody. Hiding
-a dangerous need can kill the child or caregiver. The decision belongs under
+a dangerous need can kill the child or caregiver. They make that decision under
 pressure from institutions that punish either disclosure or concealment.
 
 Some Misgrown cannot bear children or reproduce through unfamiliar processes.
@@ -622,9 +621,9 @@ bodies are assigned tasks that fit doctrine and anatomy: guard, laborer, tracker
 executioner, vessel, omen, breeder. Refusal is described as material resisting
 its maker.
 
-At **Refusing the Use**, a fellowship records one task the person will not perform
-merely because their body can. The refusal may cost food or shelter. Another
-member witnesses it so later coercion cannot be rewritten as vocation.
+At **Refusing the Use**, a fellowship records one task the person will not
+perform merely because their body can. The refusal may cost food or shelter.
+Another member witnesses it so later coercion cannot be rewritten as vocation.
 
 Settlements outside Rust rule also exploit altered capacity. A village that
 hides a Misgrown laborer from priests may expect unpaid night work in exchange.
@@ -720,9 +719,9 @@ want.
 
 ## Using Outsider Accounts
 
-Monster religion reaches most tables through hostile witnesses. Hunters describe
-prey. Priests describe error. Traders describe the parts of a people that enter
-price. Captives describe whatever might open the cage.
+Accounts of monster religion usually reach the table through hostile witnesses.
+Hunters describe prey. Priests describe error. Traders describe the parts of a
+people that enter price. Captives describe whatever might open the cage.
 
 Keep each claim attached to access. A bargeman saw the top of a saurian presence.
 A druid entered one whiner chamber. A Rust register named an altered child. An

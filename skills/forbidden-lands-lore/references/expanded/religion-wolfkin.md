@@ -2,11 +2,11 @@
 
 # Wolfkin Religion of the Ravenlands
 
-This reference begins with Heme as the Huntress in pack law and forest. Blood
-and breeding bind the pack through seasonal movement. Music orders the taking
-of prey, while hunt-madness shadows the remembered protection of the Blood
-Mist. Canon distinguishes the Huntress from the Rust Church. Wolfkin regression
-under prolonged isolation is an established campaign truth. Detailed rites are
+Heme the Huntress stands in pack law and forest. Blood and breeding bind the
+pack through seasonal movement. Music orders the taking of prey, while
+hunt-madness shadows the remembered protection of the Blood Mist. Canon
+distinguishes the Huntress from the Rust Church. Wolfkin regression under
+prolonged isolation is an established campaign truth. Detailed rites are
 grounded setting inference.
 
 ---
@@ -56,10 +56,9 @@ people who will clear it.
 
 Wolfkin have ritual specialists and singers. Mushroom keepers and trail readers
 hold narrower knowledge. Elders may judge all of them, but no office corresponds
-neatly to a human priest. Authority follows
-the matter at hand. The hunter who knows a herd speaks before pursuit. The
-keeper who dried the mushrooms controls the dose. A nursing parent can overrule
-a hunt leader on the food needed by cubs.
+neatly to a human priest. Authority follows the matter at hand. The hunter who
+knows a herd speaks before pursuit. The keeper who dried the mushrooms controls
+the dose. A nursing parent can overrule a hunt leader on the food needed by cubs.
 
 Pack leaders claim broad authority because every activity touches safety. This
 claim is strongest during movement and weakest after food has been divided. A
@@ -103,9 +102,8 @@ pack's purpose. Concealment protects the route. A deliberate scent mark claims
 return. Confusing the two can start a territorial dispute.
 
 Moon, weather, and season affect movement and prey. They also shape breeding and
-the distance over which sound carries. Wolfkin
-do not need a separate theology for each. The Huntress is known in how living
-bodies meet those conditions.
+the distance over which sound carries. Wolfkin do not need a separate theology
+for each. The Huntress is known in how living bodies meet those conditions.
 
 ## The Pack as Shelter of the Mind
 
@@ -139,7 +137,7 @@ and follows tracks that would normally be dismissed. They may demand constant
 speech from companions, tie a cord between sleeping places, or refuse to cross
 a quiet clearing until someone answers a call from the other side.
 
-These acts still belong to a person trying to remain present. Mockery and
+A wolfkin who does these things is still trying to remain present. Mockery and
 punishment worsen the danger. A pack responds with touch, known food, repeated
 routes, call and answer, shared watch, and work that requires another member to
 complete it. No one recovering from isolation sleeps beyond hearing.
@@ -251,8 +249,8 @@ religious failure because it proves the hunt served excitement more than need.
 Eating intelligent prey divides packs. Some distinguish no sacred boundary
 between speaking and other meat. Others refuse kin flesh because remembered
 words remain inside the eater. Packs that hunt humans may still observe guest
-law toward a named traveler. The contradiction is maintained through threshold,
-scent, and declared status.
+law toward a named traveler. Threshold, scent, and declared status carry the
+contradiction.
 
 ## Ecstasy, Mushroom, and Music
 
@@ -416,9 +414,10 @@ the church.
 
 ## Refuge, Territory, and the Right to Pass
 
-Territory is not one claim. A pack may own sleeping ground, share water, guard a
-birthing hollow, reserve a mushroom patch, and permit another pack to follow
-prey through the same trees. One scent mark cannot explain all these rights.
+Territory holds several claims. A pack may own sleeping ground, share water,
+guard a birthing hollow, reserve a mushroom patch, and permit another pack to
+follow prey through the same trees. One scent mark cannot explain all these
+rights.
 
 At **Reading the Boundary**, neighboring packs walk opposite sides of a marked
 route. Each renews only the signs it can still defend and names paths left open
@@ -442,9 +441,9 @@ because they treat access and record as the same gift.
 ## Trade, Tools, and Furless Work
 
 Wolfkin use iron, cloth, rope, pottery, salt, medicine, and other settled craft
-while condemning the life that produces much of it. The contradiction is
-managed through trade, theft, salvage, and the claim that a tool can be taken
-without taking human ways.
+while condemning the life that produces much of it. Packs live with the
+contradiction through trade, theft, salvage, and the claim that a tool can be
+taken without taking human ways.
 
 A spearhead is judged by balance and edge. Praise goes to the smith only when a
 continuing relation exists. Packs otherwise name the trader, raid, corpse, or
@@ -606,12 +605,12 @@ ordeal instead is choosing spectacle over repair.
 
 ## Evidence at the Table
 
-Show Huntress worship through a downwind circuit worn into the leaves, portions
-laid aside before the hunter eats, a boundary marked for refuge rather than
-ownership, or a complex howl that stops the instant one supporting note fails.
-A lone traveler who asks companions to keep talking, a sleeping cord tied to
-another wrist, or a foster pack reciting one non-hunting memory at dusk shows
-what the pack protects.
+At the table, show Huntress worship through a downwind circuit worn into the
+leaves, portions laid aside before the hunter eats, a boundary marked for refuge
+rather than ownership, or a complex howl that stops the instant one supporting
+note fails. A lone traveler who asks companions to keep talking, a sleeping cord
+tied to another wrist, or a foster pack reciting one non-hunting memory at dusk
+shows what the pack protects.
 
 A useful religious conflict concerns who receives food, whether the Mist should
 return, which forest remains refuge, whether a cub has been acknowledged, or

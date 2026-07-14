@@ -2,12 +2,12 @@
 
 # Dwarven Religion of the Ravenlands
 
-This reference begins with the worship of Huge through work and clan. It follows
-reincarnation into the duties of maintenance and judgment. The Stonegarden
-gatherings then place those duties inside the World Expansion. Named gods,
-clans, and cosmology are manuscript facts. The gathering of the clans once every
-two years is an established campaign truth. Detailed rites are grounded setting
-inference unless marked as local practice.
+Dwarves worship Huge through work and clan. Reincarnation returns the dead to
+duties of maintenance and judgment. The Stonegarden gatherings place those
+duties inside the World Expansion. Named gods, clans, and cosmology are
+manuscript facts. The gathering of the clans once every two years is an
+established campaign truth. Detailed rites are grounded setting inference unless
+marked as local practice.
 
 ---
 
@@ -17,14 +17,14 @@ inference unless marked as local practice.
 
 Huge made the dwarves to fill the void with matter. The world is a sphere still
 under construction, the sun is Huge's Hearth, and the stars are Outer Forges
-that await the builders after they reach him. Dwarven labor is therefore
-cosmological. A retaining wall, mine stair, road bed, and apparently useless
+that await the builders after they reach him. Dwarven labor is cosmological. A
+retaining wall, mine stair, road bed, and apparently useless
 foundation can all extend the made world against emptiness.
 
 Huge judges skill, knowledge, and duty more readily than inward virtue. The
 dead rest and train in a parallel workshop until the god reshapes them for
 another shift. A new body may reward service or correct a badly used talent.
-This belief dignifies ordinary work and permits brutal judgments about those
+The belief dignifies ordinary work and permits brutal judgments about those
 declared idle, incompetent, or misplaced.
 
 Dwarven sects disagree over the next layer. Belderranians emphasize royal
@@ -144,9 +144,8 @@ The gathering lasts five days. Travel may take a season, and some delegations
 arrive with wagons of work meant for the bazaar. The Canides provide halls and
 water. Fuel and guards keep them usable; measured stalls and kennels order the
 gathering. Safe-conduct begins at the foot of the plateau. The expense grants
-them precedence as hosts but no additional
-vote in clan judgment. Canide rulers have tested that distinction more than
-once.
+them precedence as hosts but no additional vote in clan judgment. Canide rulers
+have tested that distinction more than once.
 
 Belderranians bring plans bearing royal seals and works chosen to show how one
 part belongs inside a greater design. Meromannians bring recovered objects,
@@ -200,8 +199,9 @@ is judged more harshly than finishing little.
 
 The arts trials include carving and metal relief. Shaped crystal and instrument
 making test other hands. Patterned armor is judged beside work-songs composed
-for a particular object or crew. Beauty without sound construction is treated as painted rot. Sound work
-without a thought beyond use may win a buyer and still lose the judges.
+for a particular object or crew. Beauty without sound construction is treated
+as painted rot. Sound work without a thought beyond use may win a buyer and
+still lose the judges.
 
 Dwarven wit is tested through song. One singer begins an account from an older
 gathering, then stops at a disputed decision. The contestant must continue in
@@ -252,9 +252,9 @@ delay a war, expose a failing bridge, or ruin a king's prepared speech.
 Clan rulers, guild elders, priests, creditors, and maintainers meet on the
 fourth day. They divide shared work and hear compensation claims. They recognize
 apprenticeships and exchange hostages or fosterlings where peace requires it.
-They settle passage and decide which abandoned structure remains a duty. Contest victories add standing but
-never prove a claim. The best singer in Stonegarden still needs witnesses to a
-debt.
+They settle passage and decide which abandoned structure remains a duty. Contest
+victories add standing but never prove a claim. The best singer in Stonegarden
+still needs witnesses to a debt.
 
 Leaders of other kin are often invited. Elven guests receive particular
 attention because the quarrel between dwarven construction and elven growth
@@ -284,9 +284,9 @@ recorded beside consent.
 On the fifth morning, four clan annalists and the Canide keeper compare their
 records. They enter contest results and judgments. The annals preserve prices,
 commissions, deaths, and peace terms as well. Declared failures remain beside
-obligations due at the next gathering. A
-speaker may correct a name or measure before the record closes. They may not
-erase an accusation that was heard. The answer is entered beside it.
+obligations due at the next gathering. A speaker may correct a name or measure
+before the record closes. They may not erase an accusation that was heard. The
+answer is entered beside it.
 
 The master annal is cut on thin slate leaves and bound at the spine. Working
 copies use parchment where it can be obtained. Each clan receives a copy or a
@@ -410,7 +410,7 @@ hearing asks which division leaves the least false work behind.
 ## Death, Rest, and Return
 
 The dead enter Huge's parallel workshop to rest, train, and await reshaping.
-Funeral speech therefore sounds like a shift account. It names work accepted,
+Funeral speech sounds like a shift account. It names work accepted,
 work finished, faults admitted, people taught, and maintenance transferred.
 Praise without evidence is considered noise before a god of craft.
 
@@ -482,7 +482,7 @@ has been absent too long.
 
 Dwelvers belong to elder work beneath current clan claims. Other dwarves treat
 their withdrawals as divine caution, political secrecy, or contempt. Entering
-a barred elder layer can therefore be sacrilege, trespass, rescue, or necessary
+a barred elder layer can be sacrilege, trespass, rescue, or necessary
 inspection depending on who tells the account.
 
 ## Relations with Other Faiths

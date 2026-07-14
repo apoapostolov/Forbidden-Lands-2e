@@ -14,9 +14,9 @@ grounded setting inference.
 
 Orcs possess no single public church. Elves and dwarves say Clay made them as
 servants. Many orcs reject the story because it turns enslavement into creation
-and obedience into nature. Their strongest religious memory is therefore an
-absence: elder masters sent them against human invaders, withdrew, and left
-them to hold a war already lost.
+and obedience into nature. Their religious memory is an absence: elder masters
+sent them against human invaders, withdrew, and left them to hold a war already
+lost.
 
 Some clans honor **the Unabandoned**, ancestors and living leaders who remained
 when flight was possible. Their names are recited with the work, fighters, and
@@ -24,15 +24,15 @@ dependents they kept together. A glorious death that leaves the clan helpless
 earns less honor than an ugly survival that carries others out.
 
 Female clan authorities tend genealogies and living continuity even where male
-rank dominates public ritual. Males duel for standing; females decide which
+rank dominates public ritual. Males duel for standing. Females decide which
 victories may become marriage, succession, alliance, or exile. Outsiders who
 hear only the challenge songs miss the religious judgment that follows them.
 
 **The Stone That Stayed** is a Roka rite. A monolith or smaller upright stone is
 surrounded while commands from a past battle are recited. One order that should
-have been disobeyed is named with the others. The lesson is uncomfortable for a
-clan built on obedience: leaders must be obeyed, and leaders who spend the clan
-without purpose become traitors to those who stayed.
+have been disobeyed is named with the others. For a clan built on obedience, the
+lesson bites: leaders must be obeyed, and leaders who spend the clan without
+purpose become traitors to those who stayed.
 
 Urhur ceremony borrows freely from human and elven courts. Once repeated, an
 invented rite can become binding because people organized gifts, rank, and
@@ -45,9 +45,9 @@ Survivors carry religious authority in their altered saliva and split tongues.
 A leader who tests only followers and never risks poison loses standing.
 
 Viraga rites use fox tokens, holy plants, secrecy, and the hunt. Their deepest
-dogma is that the kin must gain knowledge the former masters denied them. This
-can justify theft, abduction, and sacrifice. It also makes destruction of useful
-knowledge within the clan an anathema greater than lying to male rulers.
+dogma is that the kin must gain knowledge the former masters denied them. The
+dogma can justify theft, abduction, and sacrifice. Within the clan, destroying
+useful knowledge is a greater anathema than lying to male rulers.
 
 Across clans, grave offenses include selling orcs into elder-kin service,
 abandoning dependents during retreat, using surrender law to enslave someone
@@ -58,7 +58,7 @@ itself is shameful or only action ruled by fear.
 ## Sources and Authority
 
 Orc religion survives in clan practice and the challenge formula. Women's
-genealogies support camp law; initiation scars and burial places make it
+genealogies support camp law. Initiation scars and burial places make it
 visible. It also survives in commands people still dispute after the commander
 is dead. No central priesthood can declare one creed.
 An outsider asking for the orc god may be asking the wrong question.
@@ -79,8 +79,8 @@ the line.
 ## Creation, Service, and the Elder Kin
 
 Elves and dwarves say Clay made orcs to serve them. Many orcs hear a master's
-claim hidden inside the creation story: we made you, therefore your freedom is
-theft. Some reject Clay entirely. Others answer that a maker who abandons a
+claim hidden inside the creation story: we made you, so your freedom is theft.
+Some reject Clay entirely. Others answer that a maker who abandons a
 living work loses authority over it. A few clans retain Clay rites but name the
 first free orc, rather than Clay, as the founder of their moral world.
 
@@ -108,8 +108,8 @@ its obligation is theft even when the owner is dead.
 
 Commands are repeated back in altered words. Human observers mistake this for
 poor discipline. The repetition proves that the hearer understood purpose as
-well as sound. Roka officers formalize it; Isir leaders often punish it; Drifter
-bands survive by insisting upon it.
+well as sound. Roka officers formalize it. Isir leaders often punish it.
+Drifter bands survive by insisting upon it.
 
 Women keep the routes by which children, wounded people, stores, and knowledge
 leave a failing camp. These paths are seldom sung publicly. Markers may be a
@@ -130,7 +130,7 @@ and one kept inside the clan.
 Adoption is common enough to need law. A rescued or captured child can become
 kin through feeding, defense, and placement in a genealogy. The rite cannot
 erase the circumstances of capture. Some clans keep a witness from the child's
-first people; others make ignorance part of belonging. That difference decides
+first people. Others make ignorance part of belonging. That difference decides
 whether adoption repairs war or preserves its theft.
 
 ## Trial and Adult Standing
@@ -159,8 +159,8 @@ settle these terms.
 
 Fertility carries clan weight but does not exhaust female standing. Barren orcs
 often join Viraga, where separation from ordinary descent can produce wider
-authority. Calling this mere compensation misses the political fact: a Viraga
-may know the skills, weaknesses, and marriage secrets of several clans.
+authority. A Viraga may know the skills, weaknesses, and marriage secrets of
+several clans. Calling her service compensation ignores that power.
 
 Female judgment after a male contest decides whether victory changes succession
 or only reputation. The loser may retain household authority. The winner may
@@ -170,8 +170,8 @@ can discover that no one follows him after the feast.
 ## Death and the Last Command
 
 Orc funerals distinguish the body from the command that outlived it. Weapons,
-food, teeth, stones, or fox tokens vary by clan. The difficult work is naming
-which orders remain binding.
+food, teeth, stones, or fox tokens vary by clan. The funeral must name which
+orders remain binding.
 
 At **The Last Command**, followers repeat one order from the dead leader. They
 then state whether it ended with death, passes to a successor, or must never be
@@ -189,8 +189,8 @@ matters less than recovering the truth of who was abandoned.
 Urhur ceremony makes rule visible through feast, costume, title, and public
 invention. Emperor Hroka's newest rite can become binding once gifts and
 marriages rely on it. The religious question is reliance, not age. This makes
-Urhur adaptable and vulnerable to a ruler who changes custom faster than people
-can settle its costs.
+Urhur ceremony adaptable, but also leaves it vulnerable to a ruler who changes
+custom faster than people can settle its costs.
 
 ### Roka
 
@@ -225,9 +225,8 @@ A prisoner may owe labor, ransom, exchange, or a bounded term. Turning capture
 into hereditary ownership repeats the elder claim most clans condemn.
 
 Practice often violates doctrine. Orc raiders take slaves. Viraga abduct
-teachers. Isir bands kill surrendering enemies. The uncomfortable truth is not
-that orcs forgot enslavement. It is that a people can name an old injury clearly
-and reproduce it when power changes hands.
+teachers. Isir bands kill surrendering enemies. Orcs remember enslavement
+clearly and can reproduce it when power changes hands.
 
 A captive seeking standing should be given a term that can be completed and a
 witness who survives completion. Without both, service is slavery with ritual
@@ -261,8 +260,8 @@ A chief who calls the road shameful may still be forced to supply the work.
 The **Empty Pot Night** comes when the last winter store is deliberately opened.
 Every household reports what remains before the food is combined. Hidden food
 discovered afterward belongs first to those who went hungry while it was
-concealed. Wealthy females sometimes keep a second reserve outside the count;
-they defend the practice as provision against a lying chief.
+concealed. Wealthy females sometimes keep a second reserve outside the count.
+They defend the practice as provision against a lying chief.
 
 At the first large hunt after winter, no victory song is permitted until the
 butchery is finished and the return road marked. Isir hunters often ignore the
@@ -277,11 +276,11 @@ is part of the rite. It discloses who expected whose calendar to rule.
 
 ## The Women's Account
 
-The genealogy is not a recital of male descent. It records who was fed or
-carried. It also names those adopted, exchanged, hidden, or left behind. Female keepers may
-record it in knotted cords, scars on horn, arrangements of teeth, painted hides,
-or memories divided among several women. No single object is allowed to expose
-every refuge line if captured.
+The genealogy records who was fed or carried rather than reciting male descent.
+It also names those adopted, exchanged, hidden, or left behind. Female keepers
+may record it in knotted cords, scars on horn, arrangements of teeth, painted
+hides, or memories divided among several women. No single object is allowed to
+expose every refuge line if captured.
 
 At **Joining the Names**, two keepers meet without the chiefs and compare only
 the people affected by a proposed alliance. They ask which children would move,
@@ -295,10 +294,10 @@ enslaved orcs admitted by a keeper, and chosen witnesses may speak without
 issuing a public challenge. The hearing can remove a marriage claim, prepare a
 camp flight, or decide that a victorious warrior will receive no descendants.
 
-This authority does not make female rule gentle. A keeper can erase an adoption,
-trade a young woman between clans, preserve an enslaved labor line, or conceal a
-child's origin to hold the mother obedient. Viraga recruit from women injured
-by such decisions and from those who learned to make them.
+Female rule can be cruel. A keeper can erase an adoption, trade a young woman
+between clans, preserve an enslaved labor line, or conceal a child's origin to
+hold the mother obedient. Viraga recruit from women injured by such decisions
+and from those who learned to make them.
 
 Killing a genealogy keeper destroys knowledge required for marriage, ransom,
 adoption, and refuge. Even enemy clans prefer capture and exchange. A ruler who
@@ -327,7 +326,7 @@ leader's gaze while grasping a live stinging insect or cut thorn. Endurance give
 the objection a hearing but says nothing about whether it is wise. Older Isir
 women use the rule to make reckless males listen for the length of the pain.
 
-Drifters keep the plainest law. A leader who cannot state where a command ends
+Drifters keep a plain law. A leader who cannot state where a command ends
 has asked for ownership, not aid. Bands formed from several clans repeat this
 often because their members disagree about nearly everything else.
 
@@ -390,7 +389,7 @@ call it treason even when the knowledge gained saves another clan.
 ## Knowledge, Craft, and the Debt of Teaching
 
 Orcs remember being denied writing, high craft, and the reasons behind commands.
-Knowledge therefore carries the smell of stolen property. The person who learns
+Knowledge carries the smell of stolen property. The person who learns
 from an enemy is praised for recovery and watched for attachment to the teacher.
 
 At **Opening the Hand**, a teacher places a tool, mark, plant, map, or written
@@ -411,8 +410,8 @@ Others keep the teacher until death and praise the useful knowledge as liberated
 
 Writing remains suspect but necessary. Urhur scribes use human letters. Roka
 prefer marked stones and recited commands. Viraga steal books and train readers
-in secret. Destroying a text no one present can read is condemned by many clans;
-keeping it beside people forbidden to learn is another form of destruction.
+in secret. Destroying a text no one present can read is condemned by many clans.
+Keeping it beside people forbidden to learn is another form of destruction.
 
 ## Shrines, Relics, and Places That Remain
 
@@ -455,7 +454,7 @@ to ancestors.
 The open roads let separated genealogies meet. They also bring claims that
 cannot all be true. Two households may carry the same ancestor, weapon duty, or
 right to a refuge. Female keepers compare who maintained the obligation during
-isolation. Mere possession of the older name does not settle it.
+isolation. The older name alone does not settle it.
 
 Return to an elder-kin ruin can look like pilgrimage or occupation. Orcs may
 find the chamber from which their ancestors were commanded and use it as a
@@ -525,8 +524,8 @@ enslaved workers often keep the missing verse.
 
 At **Singing the Other Place**, a performer repeats a known battle song from the
 position of the rear guard, camp keeper, captive, or abandoned wounded. The
-alternate voice may not change the outcome. It changes whose labor made the
-victory possible.
+alternate voice changes whose labor made the victory possible even when the
+outcome remains the same.
 
 Dreams carry authority unevenly. Hroka follows dreams shaped through an elven
 ruby without knowing it. Roka distrust a command received in sleep because no
@@ -546,7 +545,7 @@ benefits from the message. The dead are difficult to question and easy to recrui
 
 Orcs travel to battle stones, abandoned camps, poison grounds, fox paths, and
 fortresses taken from elder kin. No destination belongs equally to all clans.
-Pilgrimage can therefore create encounter without creating unity.
+Pilgrimage can bring clans into contact without uniting them.
 
 At **The Four Campfires**, visiting groups keep separate fires around one neutral
 ground. Each brings food it can afford to lose and one unresolved command. The
@@ -576,9 +575,9 @@ warned, fed, challenged, and called from danger. The name lasts for the visit.
 Taking it into mockery or debt afterward exceeds the permission.
 
 Female interpreters often carry the foreign words public men claim to despise.
-This gives them power over treaty and insult. A chief may punish an accurate
-translation because it exposes his ignorance, then discover that no one else can
-read the reply.
+Their command of foreign words gives them power over treaty and insult. A chief
+may punish an accurate translation because it exposes his ignorance, then
+discover that no one else can read the reply.
 
 Written agreements are sounded by more than one mouth. The second reader should
 come from a different interest: keeper against chief, slave against owner, or
@@ -602,7 +601,7 @@ only that the offender can suffer.
 Acts beyond ordinary repair include selling kin into permanent service,
 revealing refuge roads for personal safety, arranging defeat to claim surrender
 rights, destroying knowledge needed by the clan, and giving an order meant to
-kill followers merely to remove rivals.
+kill followers as a way to remove rivals.
 
 The worst leaders make followers bear an ordeal that the leader names holy and
 will not share. Orc religion contains enough memory of abandonment to recognize
@@ -610,13 +609,14 @@ the pattern. Recognition does not guarantee resistance.
 
 ## Evidence at the Table
 
-Show orc belief through a command repeated back with one crucial word changed,
-a fox hair beneath bark, a genealogy no male chief may touch, an upright stone
-carrying a condemned order, or a feast portion assigned to someone absent.
+Show orc belief through a command repeated back with one crucial word changed or
+a fox hair hidden beneath bark. A genealogy no male chief may touch can do the
+same, as can an upright stone carrying a condemned order or a feast portion
+assigned to someone absent.
 
-Useful disputes concern who remained, who was carried out, whether a command
-still binds, who may teach captured knowledge, and when service becomes the
-slavery every clan claims to hate.
+Religious disputes ask who remained and who was carried out. They test whether a
+command still binds, who may teach captured knowledge, and when service becomes
+the slavery every clan claims to hate.
 
 ## See Also
 

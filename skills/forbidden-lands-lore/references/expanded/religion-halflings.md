@@ -2,12 +2,12 @@
 
 # Halfling Religion of the Ravenlands
 
-This reference begins with Eor's public village face and the moon practice
-concealed beneath it. Cradles and exchanged children lead into marriage and
-childhood training. Penita repentance reshapes hospitality; intoxicants and
-shame protect the lies beneath it. Eor, the divided kin, and cradle customs are
-manuscript facts. Halfling belief in the child-making power of a proper match is
-an established campaign truth. Detailed rites are grounded setting inference.
+Halflings show Eor a public village face and keep her moon practice concealed
+beneath it. Cradles and exchanged children shape marriage and childhood training.
+Penita repentance reshapes hospitality; intoxicants and shame protect the lies
+beneath it. Eor, the divided kin, and cradle customs are manuscript facts.
+Halfling belief in the child-making power of a proper match is an established
+campaign truth. Detailed rites are grounded setting inference.
 
 ---
 
@@ -100,8 +100,8 @@ truth everyone relies upon.
 
 Eor is approached through concealment because the halflings believe exposure
 can destroy what truth alone cannot protect. Their central religious question
-is therefore jurisdiction: who has a right to know? The answer is seldom
-“everyone,” even when secrecy enables harm.
+is jurisdiction: who has a right to know? The answer is seldom “everyone,” even
+when secrecy enables harm.
 
 ## Religious Authority
 
@@ -112,9 +112,9 @@ its instrument.
 
 Cradle keepers hold the harder power. They coordinate births and fosterage.
 Health determines when travel is possible; exchanged infants make the route
-sacred. The silence of fathers protects it. A keeper may
-know the living connections between several villages and goblin bands. No
-ordinary elder can replace that knowledge quickly.
+sacred. The silence of fathers protects it. A keeper may know the living
+connections between several villages and goblin bands. No ordinary elder can
+replace that knowledge quickly.
 
 Moon-priests interpret Eor's phases, protected lies, and rites of disclosure.
 Penita priests form a visible or concealed reform movement. They seek the lost
@@ -124,7 +124,7 @@ present halfling and goblin lives are wounds to heal or identities to erase.
 ## Daily Household Practice
 
 The front room receives guests. The back room keeps what guests should not see.
-This practical division becomes religious architecture. A household without a
+The division becomes religious architecture. A household without a
 private space may use a locked chest, false floor, neighboring burrow, or a
 trusted tavern room.
 
@@ -145,9 +145,9 @@ else prepared. The innkeeper learns who cannot safely visit whom.
 ## Intoxication and the Quaint Vice
 
 Tobacco and ale are presented as comfort. Spirits and narcotic plants are
-presented as hospitality or village charm. This lets dependence hide in plain sight. A
-person who drinks at every feast can be called sociable until stores, work, or
-children suffer.
+presented as hospitality or village charm. Under those names, dependence hides
+in plain sight. A person who drinks at every feast can be called sociable until
+stores, work, or children suffer.
 
 Eor's **Soft Cup** allows a person to refuse alcohol without naming illness,
 pregnancy, oath, or recovery. The host fills an opaque cup with water or thin
@@ -186,8 +186,8 @@ Halflings commonly believe that a properly chosen marriage guarantees the birth
 of a halfling child. Matchmakers consider temper, health, and occupation. They
 weigh household reputation against the conduct of grandparents. The lunar date
 and the visible children born to related couples also enter the calculation.
-The theories disagree, yet they share one promise:
-the right families can keep goblin birth from their own cradle.
+The theories disagree, yet they share one promise: the right families can keep
+goblin birth from their own cradle.
 
 Cradle secrecy protects the promise from evidence. A goblin child is carried to
 goblin kin, the public account records a loss or a different birth, and the next
@@ -203,6 +203,7 @@ prospective partners. Matchmakers keep private books of births and illnesses.
 Broken engagements and debts explain failed negotiations. Fosterage is recorded
 beside the supposed success of earlier unions. A family unable to show a book
 may recite its account before witnesses.
+
 Every halfling child strengthens the line. A goblin child leaves no mark except
 an unexplained confinement, a paid journey, or a season in which the midwife
 refuses questions.
@@ -328,7 +329,7 @@ side upward and once with the worn underside upward. Claims unresolved in the
 second account determine who receives hidden objects and who must warn the
 cradle network.
 
-A respectable burial can therefore be false without being empty. The public
+A respectable burial can be false without being empty. The public
 account may protect living children. It may also protect an abuser whose victims
 are told that speaking would endanger the cradle. Eor offers no easy rule that
 makes secrecy innocent.

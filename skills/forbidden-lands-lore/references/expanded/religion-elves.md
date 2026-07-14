@@ -43,9 +43,9 @@ missing tool. It is kept damp while treatment, search, or repair continues.
 When the matter ends, the figure is returned to mud. Firing it would make the
 temporary condition into a claim of permanence.
 
-Druids handle the soil and smell it. Water and the response of plants complete
-the test before ritual. The ceremony follows diagnosis. Clay handled without
-knowledge is piety without craft, which most orders distrust.
+Druids test soil with their fingers and smell it. Water and the response of
+plants complete the test before ritual. The ceremony follows diagnosis. Clay
+handled without knowledge is piety without craft, which most orders distrust.
 
 ### Rites and Ceremonies
 
@@ -110,8 +110,8 @@ before witnesses who must tend any failure of the joining.
 
 **The Remembered Absence** honors Morander and other dead companions. A meal is
 prepared with one necessary ingredient omitted. Participants name how the
-missing thing changes every other taste. The missing taste is the lesson. No
-speech follows.
+missing thing changes every other taste. The rite teaches loss through the body
+rather than through a speech.
 
 **Walking the Bough** is a Golden Bough survey. Druids follow a set path through
 forest and settlement. They record births and disease, predation and felling,
@@ -155,8 +155,8 @@ marriages.
 Wind cannot be stored, fenced, or ordered to return. Wail governs movement
 without ownership. Weather and breath are hers. Rumor travels like migrating
 birds. Scent and song pass beyond their source. Words sent where the speaker
-cannot follow belong to her as well. Her faithful distrust claims of possession
-founded only on something moving across one's land.
+cannot follow belong to her as well. Her faithful distrust any claim of
+possession based only on something moving across one's land.
 
 The myth of the sea holding Wail and the toothed fish throwing her free teaches
 that rescue changes rescuer and rescued. The fish received size and air. A gift
@@ -201,11 +201,11 @@ wants her to hear courage. The other has buried the people who tried.
 
 ### Water with Direction
 
-Flow governs water with a course, from springs and rivers to lakes. Cleansing
-also belongs to her. She named rivers so they could hold together and have will. Marshes,
-left unnamed and undirected, fall outside much of her ordinary cult. Saurians
-and goblins who cross such water know that a human prayer to Flow may be a poor
-substitute for a pole.
+Flow governs springs, rivers, and lakes. Cleansing also belongs to her, along
+with water that moves with a course. She named rivers so they could hold
+together and have will. Marshes, left unnamed and undirected, fall outside much
+of her ordinary cult. Saurians and goblins who cross such water know that a
+human prayer to Flow may be a poor substitute for a pole.
 
 Flow is honored by elves, Elvenspring, villages, and the Raven Church. Her faith
 joins practical water care to purification. Cleanliness carries material and
@@ -661,12 +661,10 @@ bounded punishment to the judge and an entire human history to everyone else.
 
 ## Evidence at the Table
 
-Show elven religion through evidence the adventurers can handle:
-
-- a wrapped ruby given a place-name at every halt
-- a restoration account listing each chosen feature
-- a survey path walked again after thirty years
-- a mortal petition whose original speakers all died before the hearing began
+Show elven religion through a wrapped ruby given a place-name at every halt or a
+restoration account listing each chosen feature. A survey path walked again
+after thirty years can do the same, as can a mortal petition whose original
+speakers all died before the hearing began.
 
 Religious conflict should concern custody, consent, restoration, altered form,
 the authority of memory, or the price other kin pay while elves take time to
