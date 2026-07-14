@@ -40,7 +40,7 @@ Even in Full Guided mode, you never pick freely from the whole table. Roll two r
 7. For each resolved turn, make the path's turn test. On success, mark 1 skill from the path's normal list and roll the turn event. On failure, mark 1 skill from the hard-lesson list and roll a mishap. Marks convert to final ranks using the progression table under Skill Ranks and Marks.
 8. At the end of each cycle, roll advancement or departure.
 9. After the last cycle, roll on the mustering-out table for your final path. The number of rolls equals the turns you completed in that path (maximum 3). Choose one result.
-10. Check the starting gear floor — fill any gaps in weapon, armor, mount, instrument, silver, waterskin, or backpack.
+10. Check the starting gear floor — fill any gaps in weapon, armor, mount, instrument, coins, waterskin, or backpack.
 11. Choose one piece of unfinished business from your life's accumulated fiction.
 12. Choose your profession using the qualification rules in this section.
 13. Spend attribute points by age as normal. Your kin key attribute (from your kin entry) sets the cap at 5; if it overlaps with your profession key attribute, the cap is 6.
@@ -318,6 +318,7 @@ Some paths assume training, access, or recognized standing before a character ma
 | Path                                                       | Threshold                                                                                   |
 | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | Fighter, Rogue, Hunter, Drifter, Laborer, Outcast, Captive | None                                                                                        |
+| Champion                                                   | One completed Fighter or Champion cycle and a named oath, cause, charge, or sworn patron    |
 | Druid                                                      | Lore 1 or Healing 1, or a shrine, grove, teacher, or sacred duty in the story               |
 | Sorcerer                                                   | Lore 1, or an occult contact, teacher, grimoire fragment, or marked sign in the story       |
 | Minstrel                                                   | Performance 1 or Manipulation 1, or a patron, troupe, or hall that would take you in        |
@@ -325,6 +326,8 @@ Some paths assume training, access, or recognized standing before a character ma
 | Rider                                                      | Animal Handling 1 or Move 1, or access to a herd, mount, or riding household in the story   |
 
 If a character does not meet a path's threshold, choose another path for that cycle. If no other path makes sense, the character falls into one of the crisis paths — Drifter, Laborer, Outcast, or Captive — whichever best fits the event that broke the old life.
+
+**The Champion's Calling.** Champion is not an ordinary childhood path. A rare few are chosen before their martial life has truly begun. If you enter the Fighter path for your first cycle, roll a D6 before resolving its Third Turn — your first resolved turn in that path. On a 5–6, a temple, household, war leader, surviving oathbound, or other cause recognizes something in you and offers a charge. You may accept and replace Fighter with Champion for that cycle, waiving the normal requirement to have completed a Fighter cycle. Name the oath, cause, charge, or sworn patron with the GM before resolving the turn. On a 1–4, or if you refuse the offer, continue in Fighter as normal. The GM may instead create a formative event that offers access to the Champion path. If it occurs before your first resolved Fighter turn and you accept its charge, replace Fighter with Champion for the current cycle. If it occurs later in a Fighter cycle, accepting it qualifies you to enter Champion in your next cycle. Refusing the charge leaves you a Fighter. The calling grants no extra skill mark or benefit beyond those stated by the formative event.
 
 **Childhood.** If your childhood foundation lists a Suggested Path and that path has a threshold, the childhood waives it. You enter that path for your first cycle without meeting the skill or story requirement. Growing up inside a way of life counts as the threshold — the household, the trade, the mark on the land. This exception applies only to the first cycle. Thresholds apply normally when entering the same path again in a later cycle, because by then you are choosing it rather than being shaped by it.
 
@@ -379,7 +382,7 @@ When this happens, choose the next path from the event that caused the break. If
 | 5      | Crop failure, plague, winter hunger, or herd-loss             | Laborer or Drifter |
 | 6      | Scandal, sorcerous stain, shrine curse, or broken oath        | Outcast or Druid   |
 
-Choose the path that best fits the break. If both fit, the player chooses.
+Choose the path that best fits the break. If more than one fits, the player chooses.
 
 Prison, slavery, hostage-taking, and bond-service now have their own crisis path: Captive. Use it whenever the story puts a character in chains, behind bars, or under another person's control against their will. After the captivity ends, the character may return to a profession path if they meet its threshold — or fall into another crisis path if the damage was too deep.
 
@@ -387,7 +390,93 @@ Prison, slavery, hostage-taking, and bond-service now have their own crisis path
 
 Each profession path below represents a trade, calling, or way of life an adventurer followed between childhood and the day they took to the road. Every path has a turn test, a normal skill list, a hard-lesson skill list, four turn event tables, a mishap table, an advancement table, and a mustering-out table.
 
-Profession paths lead toward one of the chapter's eight professions: Druid, Fighter, Hunter, Minstrel, Peddler, Rider, Rogue, and Sorcerer. A character who completes a cycle in a profession path has taken a real step toward that calling — learning the skills, building the contacts, and earning the scars that shape a working life.
+Profession paths lead toward one of the chapter's nine professions: Champion, Druid, Fighter, Hunter, Minstrel, Peddler, Rider, Rogue, and Sorcerer. A character who completes a cycle in a profession path has taken a real step toward that calling — learning the skills, building the contacts, and earning the scars that shape a working life.
+
+#### CHAMPION
+
+_You put a promise above comfort, coin, and sometimes mercy. The cause gave your sword direction; the oath made turning back a kind of death._
+
+**Turn Test:** Melee or Endurance.
+**Normal Skills:** Melee, Might, Endurance, Move, Survival, Insight.
+**Hard-Lesson Skills:** Endurance, Insight, Melee.
+
+##### Champion First Turn: Cause, Oath, and First Charge
+
+| **D6** | **Event**                                                                                                                                 |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | **Words Before Witnesses.** You swore yourself to a cause before folk who will remember. Gain Insight or Melee. Gain one sworn contact.   |
+| 2      | **Weapon Vigil.** Drill, prayer, and bruises taught your hands what conviction could not. Gain Melee or Might.                            |
+| 3      | **Shield Duty.** You stood between danger and someone who could not face it alone. Gain Endurance or Melee.                               |
+| 4      | **Road of Devotion.** Your cause sent you across bad country with little comfort. Gain Move or Survival.                                  |
+| 5      | **Keeper of the Code.** A priest, elder, veteran, or exile taught you the demands behind the words. Gain Lore or Insight.                 |
+| 6      | **First Charge.** You were trusted with a person, relic, boundary, or message that could not be lost. Gain Survival or Scouting.          |
+
+##### Champion Second Turn: The Cost of Duty
+
+| **D6** | **Event**                                                                                                                                             |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | **Public Provocation.** Someone mocked your cause to test whether your oath ruled you or your temper did. Gain Insight or Melee. Gain one rival.      |
+| 2      | **Hard Escort.** You brought your charge through hunger, pursuit, or foul weather. Gain Move or Survival.                                             |
+| 3      | **Unworthy Order.** A patron demanded obedience where your conscience demanded refusal. Gain Manipulation or Insight. _This may be your Dark Secret._ |
+| 4      | **Lean Vigil.** You kept watch while others slept and went without while others ate. Gain Endurance or Survival.                                      |
+| 5      | **The Accused.** Duty and justice pointed in different directions. Gain Insight or Manipulation.                                                      |
+| 6      | **Price of Loyalty.** Coin, safety, or affection was offered for one small betrayal. Gain Might or Insight.                                           |
+
+##### Champion Third Turn: Deed and Doubt
+
+| **D6** | **Event**                                                                                                                                                                 |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | **Held the Gate.** You stood where others broke and bought their lives with blood. Gain Melee or Might. _This may be your Pride._                                         |
+| 2      | **Rescue Under Fire.** You crossed danger to bring someone back. Gain Move or Endurance.                                                                                  |
+| 3      | **Nemesis Named.** An enemy made your cause personal and promised to finish the quarrel. Gain Melee or Insight. Gain one rival.                                           |
+| 4      | **Sign of the Cause.** A relic, omen, bloodline, or old account gave your oath deeper roots. Gain Lore or Survival. Gain one rumor.                                       |
+| 5      | **Promise Failed.** You arrived too late, chose wrongly, or lacked the strength to keep your word. Gain Healing or Insight. Add one Wear. _This may be your Dark Secret._ |
+| 6      | **Rallied the Fearful.** Others found courage because you refused to yield. Gain Manipulation or Endurance. Gain one grateful contact.                                    |
+
+##### Champion Fourth Turn: Fulfillment, Breaking, or Renewal
+
+| **D6** | **Event**                                                                                                                                                                                    |
+| ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | **Cause Destroyed.** Your patron fell, shrine burned, bloodline ended, or order broke apart. Gain Survival or Insight. You must change path next cycle unless you give the cause a new form. |
+| 2      | **Oath Fulfilled.** Against cost and doubt, you kept the promise that made you. Gain Melee or Insight. Gain +1 Standing among those who know the deed.                                       |
+| 3      | **Costly Mercy.** You spared someone your cause named as an enemy and accepted the consequences. Gain Healing or Endurance. Gain one contact or one rival.                                   |
+| 4      | **Deed Proclaimed.** Witnesses carried the story of your stand farther than you did. Gain Melee or Manipulation. _This may be your Pride._                                                   |
+| 5      | **Named Oathbreaker.** Whether the charge was true or false, people believed it. Gain Insight or Move. Gain one enemy and lower Standing by 1 in one settlement.                             |
+| 6      | **Vow Renewed.** Trial stripped your promise down to what you truly meant. Gain Endurance or Lore. You may take one Champion advancement benefit even if your later advancement roll fails.  |
+
+##### Champion Mishaps
+
+| **D6** | **Mishap**                                                                                                                                                                                   |
+| ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | You broke your word when keeping it mattered most. Gain one dark secret and one witness who remembers. _This may be your Dark Secret._                                                       |
+| 2      | Someone under your protection died. Gain one grieving contact or one enemy who holds you responsible.                                                                                        |
+| 3      | Zeal made you cruel, blind, or easy to use. Lower Standing by 1 in one settlement.                                                                                                           |
+| 4      | A rival defeated and marked you. Gain one scar and one nemesis.                                                                                                                              |
+| 5      | Your patron betrayed the cause while demanding your loyalty. Turn one former contact into an enemy or begin play owing a dangerous service.                                                  |
+| 6      | The cause demanded something you could not do. Your next cycle must change path unless you take one Wear and remain to confront it.                                                          |
+| 7      | Your failure shattered the oath in public and brought ruin to those who trusted it. Gain one scar, one enemy, and lower Standing by 1 in two settlements. Your next cycle must change path.  |
+
+##### Champion Advancement Benefits
+
+| **D6** | **Benefit**                                                                    |
+| ------ | ------------------------------------------------------------------------------ |
+| 1      | Rank 1 in Fearless                                                             |
+| 2      | Rank 1 in Defender                                                             |
+| 3      | Rank 1 in Incorruptible or Leader                                              |
+| 4      | One sworn ally, patron, shrine-keeper, or household contact                    |
+| 5      | One-handed weapon, studded leather armor, and shield                           |
+| 6      | One rumor about a lost relic, hidden heir, oathbound enemy, or abandoned cause |
+
+##### Champion Mustering-Out
+
+| **D6** | **Result**                                                                           |
+| ------ | ------------------------------------------------------------------------------------ |
+| 1      | One good one-handed weapon and a serviceable shield                                  |
+| 2      | Studded leather armor and a closed helmet                                            |
+| 3      | One sworn contact and one enemy of the cause                                         |
+| 4      | 2D6 copper and one duty that cannot be settled with coin                             |
+| 5      | An oath-token, seal, relic fragment, or badge that opens one door and closes another |
+| 6      | One rumor about a lost charge, hidden sanctuary, nemesis, or unfinished vow          |
 
 #### DRUID
 
@@ -1465,9 +1554,10 @@ The life generator may leave you with nothing but scars and stories. After muste
 
 - Every character starts with a waterskin and a travel backpack regardless of rolls.
 - If the generator did not provide a weapon, take the cheapest weapon listed in your profession's starting gear.
-- If your profession's standard starting gear includes armor (Fighter: studded leather), and the generator did not provide any, take that armor.
+- If your profession's standard starting gear includes armor (Champion and Fighter: studded leather), and the generator did not provide any, take that armor.
+- If you are a Champion, take a closed helmet if the generator did not provide one, and a small shield if the generator did not provide one.
 - If your profession's standard starting gear includes a mount (Rider) or instrument (Minstrel), and the generator did not provide one, you start with that item. The road left you with at least this much.
-- If the generator did not grant you any silver at all, roll your profession's starting silver die once. This is the last coin from the last job.
+- If the generator did not grant you any coins at all, roll your profession's starting coin dice once. This is the last money from the last job.
 
 Keep everything the dice gave you on top of the floor. The gear floor exists to prevent a character from walking into session one unarmed and broke — it does not replace the generator's results.
 
@@ -1515,14 +1605,17 @@ Use these rules:
 - If you completed only one profession path across your whole history, you must use that profession.
 - If no profession path was ever completed, choose the profession tied to the skill family in which you hold the most ranks.
 
+Champion and Fighter draw on much of the same skill family, but Champion is not a fallback profession. You may choose Champion only if you completed a Champion path. When these rules otherwise leave the choice between them, choose Fighter.
+
 Once your profession is set, continue with the profession rules in Chapter 2:
 
 - Choose your profession talent. Mark 1 tally toward your chosen profession talent. This is your **profession talent seed** — the life you lived before play earns you that first mark. If advancement benefits already granted marks in the same talent, add the seed mark to that total. Talent marks from the life generator convert to ranks using the same progression table as skills. If sustained focus pushed a talent to Rank 3, keep it — the narrowing taxes and lost breadth already paid for that concentration.
+- A Champion who chooses Path of the Holy Vow should build its Vow or Oath from the named oath, cause, charge, or patron established during the life generator whenever possible.
 - Choose your general talents by age.
 - Sorcerers and Druids who hold marks in a magical path talent (from the profession talent seed or from advancement benefits) begin play with access to the spells of that path at the granted rank level, following the normal rules in Chapter 7.
 - Determine Dark Secret and relationships. If you claimed a Dark Secret during the life generator, use it. Otherwise choose from your profession entry.
 - Take Resource Dice from your profession entry as normal.
-- Use the gear and silver from the life generator (plus the gear floor) instead of adding the profession's ordinary starting gear and silver on top.
+- Use the gear and coins from the life generator (plus the gear floor) instead of adding the profession's ordinary starting gear and coins on top.
 - Your home region determines your home settlement. You start with Reputation 6 and Standing +1 there, modified by any Standing changes gained during the life generator.
 
 Languages, Willpower, appearance, and name follow the rest of Chapter 2 without change.

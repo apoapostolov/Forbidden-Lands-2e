@@ -732,7 +732,7 @@ This section lets you flesh out your player characters and give them unique back
 10. You may redistribute one attribute point of your choice, up to a maximum of 6 in the key attribute of your kin or profession.
 11. Roll once on the table How Did You Meet? to determine how you met the other adventurers in the group. Joined together, these events form a narrative of how your group was formed. One player does not roll.
 12. Optional: Roll a `D3` for Dark Secret and relationships with other adventurers. If you want a Pride note, use the examples in the profession descriptions and count from the top.
-13. Start the game with silver and Resource Dice according to your profession description.
+13. Start the game with coins and Resource Dice according to your profession description.
 
 ### BACKSTORIES
 
@@ -900,6 +900,8 @@ You may also, at the Gamemaster's discretion, use some of the tables below but n
 | 55–62   | Rogue          |
 | 63–66   | Sorcerer       |
 
+**The Champion's Calling.** If you roll or choose Fighter, roll a D6 before choosing a profession talent or resolving a formative event. On a 5–6, a temple, household, war leader, surviving oathbound, or other cause offers you a charge. You may accept and become a Champion instead. Name the oath, cause, charge, or sworn patron with the GM, then use the Champion profession-talent and formative-event tables. On a 1–4, or if you refuse, continue as a Fighter. The GM may also create a formative event that offers access to Champion. If you accept its charge, become a Champion and resolve that event in place of a Fighter formative event. If you refuse, remain a Fighter. If you choose Fighter specifically because you want to play a Champion, the calling roll or a GM-created formative event is still required.
+
 #### PROFESSION TALENT
 
 | **Profession Talent** | **1–2**               | **3–4**                 | **5–6**            |
@@ -912,9 +914,21 @@ You may also, at the Gamemaster's discretion, use some of the tables below but n
 | Rider                 | Path of the Companion | Path of the Knight      | Path of the Plains |
 | Rogue                 | Path of the Face      | Path of the Poison      | Path of the Killer |
 
-| **Profession Talent** | **1–2**       | **3–4**       | **5–6**       | **7–8**       |
-| --------------------- | ------------- | ------------- | ------------- | ------------- |
-| Sorcerer              | Path of Signs | Path of Stone | Path of Blood | Path of Death |
+| **Profession Talent** | **1–2**       | **3–4**              | **5–6**            | **7–8**       |
+| --------------------- | ------------- | -------------------- | ------------------ | ------------- |
+| Champion              | Path of Fate  | Path of the Holy Vow | Path of Protection | Path of Valor |
+| Sorcerer              | Path of Signs | Path of Stone        | Path of Blood      | Path of Death |
+
+#### FORMATIVE EVENTS, CHAMPION
+
+| **D6** | **Formative Event**                                                                                                                                                                                                                                                                                                               | **Skills**              | **Talent**     |
+| ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | -------------- |
+| 1      | **Swore a Sacred Oath.** Before a shrine, standing stone, or fallen liege, you bound yourself to a cause that still directs your steps. Receive a closed helmet and a small shield.                                                                                                                                               | Melee 1, Lore 1         | Incorruptible  |
+| 2      | **Held the Line.** You defended a gate, bridge, or narrow pass while others escaped behind you. The place may still bear the marks of that stand. Receive a broadsword and a large shield.                                                                                                                                        | Might 1, Endurance 1    | Defender       |
+| 3      | **Protected the Helpless.** You led refugees, pilgrims, or wounded companions across dangerous country and refused to abandon them when the road turned bad. Receive studded leather armor, a waterskin, and a torch.                                                                                                             | Move 1, Survival 1      | Fearless       |
+| 4      | **Faced a Nemesis.** A rival challenged your cause, your honor, or your right to bear arms. The duel settled nothing, and your enemy may still be searching for you. Receive a longsword.                                                                                                                                         | Melee 2                 | Sword Fighter  |
+| 5      | **Served a Worthy Cause.** You entered the service of a temple, household, war band, or claimant whose purpose seemed greater than your own life. Something ended that service, but not your loyalty. Receive chainmail armor and a closed helmet.                                                                                | Melee 1, Insight 1      | Leader         |
+| 6      | **Broke Your Vow.** You failed to keep a promise when it mattered most. Since then, hardship and remorse have driven you toward atonement. Receive a small tent, a blanket, and a cauldron.                                                                                                                                       | Endurance 1, Survival 1 | Pain Resistant |
 
 #### FORMATIVE EVENTS, DRUID
 

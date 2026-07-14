@@ -7,9 +7,11 @@ All notable changes to the Forbidden Lands Corebook will be documented in this f
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased] - 2026-07-12
+## [Unreleased] - 2026-07-14
 
 ### Added
+
+- **Book 01 — Corebook, Champion lifepaths.** Added Champion profession talents and formative events to the standard life generator, plus a complete Champion path for the advanced lifepath system with turn events, mishaps, advancement benefits, and mustering-out results. Champion remains a secondary calling reached from Fighter: a first-cycle Fighter receives the offer on a 5–6, or the GM may introduce a formative event that grants access if its charge is accepted.
 
 - **Book 01 — Corebook, Myths.** Added rare fields of learned knowledge found in the teachings of sages and in recovered tomes and grimoires. Myths develop from D6 to D12 through successful study and can help decipher deliberately hidden knowledge. When several Myths apply, only the highest Myth Die is added. Each source limits how deeply its secrets can be learned.
 
