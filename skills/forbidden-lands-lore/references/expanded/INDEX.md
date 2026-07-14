@@ -21,6 +21,7 @@ Free League canon.
 | Need | Reference |
 | --- | --- |
 | Households, villages, authority, law, hospitality, kin, burial, labor, and festivals | [Society and Daily Life](society-and-daily-life.md) |
+| Subsistence, farmsteads, villages, ruin-towns, barter, old silver, trade, stronghold communities, and the lived use of every stronghold function | [Economy, Exchange, and Stronghold Life](economy-exchange-and-stronghold-life.md) |
 | Blood Mist conditioning, trust, kin identity, grief, trauma, magic, and recovery | [Psychology and Social Character](psychology-and-social-character.md) |
 | Willpower, suffering, casting metaphysics, and Rank 1–5 doctrine for every magical path | [Magic, Suffering, and the Doctrines of the Paths](magic-metaphysics-and-path-doctrines.md) |
 | Demons, mog, Churmog, binding, parley, countercraft, and Merigall's full GM profile | [Demons, Mog, Churmog, and Merigall](demons-mog-churmog-and-merigall.md) — **full campaign spoilers; apply the lore-skill spoiler gate before loading** |

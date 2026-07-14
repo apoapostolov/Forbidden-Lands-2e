@@ -35,6 +35,7 @@ village life into continuous penalties or to make every settlement identical.
 
 ## See Also
 
+- [Economy, Exchange, and Stronghold Life](economy-exchange-and-stronghold-life.md)
 - [Religion Reference Index](religions-rites-beliefs-and-anathemas.md)
 - [Psychology and Social Character](psychology-and-social-character.md)
 - [Rust Brothers: Fear, Doctrine, and Control](religion-rust-brothers.md)

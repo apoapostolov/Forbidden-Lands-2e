@@ -115,6 +115,11 @@ level applies.
 - `references/expanded/society-and-daily-life.md`
   Households, villages, authority, law, hospitality, kin, burial, labor, and
   festivals.
+- `references/expanded/economy-exchange-and-stronghold-life.md`
+  Hunter-gatherer and mixed subsistence, farmsteads, villages, inhabited urban
+  ruins, barter, old Alder War silver, trade geography, surplus and storage,
+  stronghold communities, construction, maintenance, and the lived operation
+  of every stronghold function.
 - `references/expanded/psychology-and-social-character.md`
   Blood Mist conditioning, trust, kin identity, grief, trauma, magic, and
   recovery.
