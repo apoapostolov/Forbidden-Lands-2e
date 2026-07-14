@@ -58,6 +58,8 @@ It does not cover:
 - encounter-writing logic
 - RESOURCES formatting rules
 - voice or prose style
+- expanded phase, command, troop, intent, or damage-state architectures; use
+  the dedicated tactical references for those experimental extensions
 
 ## Reading The Taxonomy
 
@@ -656,6 +658,26 @@ Examples:
 ### Multi-part boss
 
 **Use when:** sub-targets, lesser eyes, tail organs, or layered kill conditions matter.
+
+For multiple phases, telegraphed apex attacks, reactions, and Strength-band
+attack tables, use `boss-phases-intent-and-attrition.md`.
+
+### Linked-table state monster
+
+**Use when:** individual attacks change the monster's stance, heat, locomotion,
+manifestation, appetite, formation, or other active combat state.
+
+Each table represents one state. An attack may end with `move to Table B`; the
+current attack resolves completely, then the destination table supplies the
+next attack. Use `boss-phases-intent-and-attrition.md` for transition timing,
+state-network shapes, probability, external transitions, and audit rules.
+
+### Minion, band, or troop force
+
+**Use when:** enemy numbers should create frontage, formation, morale, command,
+or objective pressure without resolving a separate full turn for every body.
+
+Use `minions-troops-and-command.md` to choose the correct abstraction.
 
 ### Site-bound horror
 

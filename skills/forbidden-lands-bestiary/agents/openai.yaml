@@ -1,4 +1,4 @@
 interface:
   display_name: "Forbidden Lands Bestiary"
-  short_description: "Design playable monsters and encounters"
-  default_prompt: "Use $forbidden-lands-bestiary to design or audit this monster as a fair, discoverable sandbox threat."
+  short_description: "Design tactical adversaries and encounters"
+  default_prompt: "Use $forbidden-lands-bestiary to design or audit this adversary as a fair, discoverable, tactically deep sandbox threat."

@@ -1,6 +1,6 @@
 ---
 name: forbidden-lands-bestiary
-description: Create, rewrite, audit, or balance Forbidden Lands 2E monsters, legends, lore clues, encounters, attacks, weaknesses, and harvestable resources. Use whenever a bestiary entry or monster-driven sandbox situation must be mechanically native, discoverable, fair, evocative, and ready to run.
+description: Create, rewrite, audit, or balance Forbidden Lands 2E human adversaries, beasts, monsters, demons, enemy forces, bosses, legends, lore clues, encounters, attacks, weaknesses, and harvestable resources. Use whenever a bestiary entry or adversary-driven sandbox situation must be mechanically native, tactically deep, discoverable, fair, evocative, and ready to run.
 ---
 
 <!-- markdownlint-disable MD013 -->
@@ -31,6 +31,9 @@ manuscript establishes a different rule or identity.
 | Complete mechanical construction and audit | `references/monster-design-engine.md` |
 | Existing attack, defense, condition, structure, and weakness patterns | `references/monster-mechanics-taxonomy.md` |
 | Reusable experimental mechanisms and dangerous pairings | `references/new-rules-repository.md` |
+| Human, beast, monster, and demon roles; position, intent, objectives, and tactical composition | `references/tactical-adversary-architecture.md` |
+| Boss phases, linked attack-table states, telegraphs, stored-power attacks, reactions, anatomy, and Strength-band dice | `references/boss-phases-intent-and-attrition.md` |
+| Minions, bands, troops, formations, orders, morale, and mass attacks | `references/minions-troops-and-command.md` |
 | Three-stage clues and hidden-weakness spoiler control | `references/lore-roll-rules.md` |
 | Encounter situations, dilemmas, aftermath, and anti-tropes | `references/random-encounter-design-rules.md` |
 | Corpus-based section length floors and targets | `references/entry-size-calibration.md` |
@@ -76,6 +79,23 @@ Examples:
 Secondary mechanics should reinforce the primary engine. Avoid six unrelated
 spectacles.
 
+### Choose tactical architecture only when needed
+
+For an ordinary monster, the primary engine and six attacks are sufficient. For
+a set piece, coordinated force, or recurring enemy, select one additional
+architecture:
+
+- intent and setup across rounds
+- damage-state or phase change
+- linked attack tables for changing stances, bodies, or behavior states
+- command, formation, or troop scale
+- targetable anatomy or anchors
+- objective pressure
+- category-specific hunt, doctrine, manifestation, or morale logic
+
+Use the tactical references for costs, tells, counterplay, and bookkeeping
+limits. Do not stack the full allowances of several modules onto one enemy.
+
 ### Build a readable threat
 
 Use this sequence:
@@ -98,6 +118,12 @@ Across six Monster Attacks, vary purpose:
 - signature climax, vulnerability, or behavior
 
 Not every attack must deal damage. Every result must change a decision.
+
+If an attack gathers power, mark its target or geometry and let setup consume
+real tempo. If an attack moves to another state table, resolve it fully before
+changing the active table for the next attack. If current Strength changes
+attack access, place core behavior on low results and intact-body or
+formation-dependent behavior on high results.
 
 ### Preserve agency
 
@@ -214,14 +240,18 @@ not a substitute for quality. Do not pad an entry to meet an average.
 1. Write the monster contract.
 2. Select a structure model and one primary engine.
 3. Search the taxonomy for overlap and native precedents.
-4. Draft signs, behavior, and counterplay before numeric attacks.
-5. Set attributes, Armor Rating, movement, and special abilities.
-6. Draft six attacks by function.
-7. Write Lore Roll clues that teach the same counterplay.
-8. Add two encounter situations with different pressures.
-9. Derive resources from the creature's body and campaign relationships.
-10. Decide whether it warrants a legend.
-11. Run mechanical, player-agency, lore, voice, and sandbox audits.
+4. If needed, choose one tactical architecture and state its cost, tell, and
+   counterplay.
+5. Draft signs, behavior, morale or appetite, and counterplay before numeric
+   attacks.
+6. Set attributes, Armor Rating, movement, and special abilities.
+7. Draft six attacks by function, a justified wider Strength-band table, or a
+   small linked network of state tables whose transitions are explicit.
+8. Write Lore Roll clues that teach the same counterplay.
+9. Add two encounter situations with different pressures.
+10. Derive resources from the creature's body and campaign relationships.
+11. Decide whether it warrants a legend.
+12. Run mechanical, player-agency, lore, voice, sandbox, and handling audits.
 
 ## Rewrite Workflow
 
@@ -248,6 +278,10 @@ Rate each **clean**, **watch**, or **revise**:
 | Counterplay | Can choices and preparation change the encounter? |
 | Agency | Do control and immunity preserve participation? |
 | Variety | Do attacks create different decisions? |
+| Time | Do setup, phase, and cooldown rules create answerable windows? |
+| State tables | Are the active state, transition timing, tells, and destination tables unambiguous? |
+| Organization | Do numbers create formation, morale, or objective play rather than excess turns? |
+| State | Do injury and disruption change behavior where the fiction demands it? |
 | Balance | Does power match access, clarity, and frequency? |
 | Ecology | Does the monster alter a real place or practice? |
 | Sandbox value | Can it produce several situations and outcomes? |
@@ -261,6 +295,14 @@ Rate each **clean**, **watch**, or **revise**:
 - [ ] The first sign and core threat are clear.
 - [ ] Anatomy, curse, appetite, or habitat explains the mechanics.
 - [ ] Six attacks have distinct tactical or fictional jobs.
+- [ ] Any phase, troop, intent, reaction, or attrition rule has one clear state
+      marker and a visible fictional cause.
+- [ ] Linked attack tables change genuine capabilities, resolve transitions
+      after the current attack, and never smuggle in extra actions.
+- [ ] Setup attacks spend tempo, declare useful information, and have practical
+      counterplay.
+- [ ] Human, beast, monster, and demon behavior arises from the correct kind of
+      intelligence, body, organization, appetite, or metaphysical dependency.
 - [ ] The strongest control effect preserves meaningful participation.
 - [ ] Necessary counterplay is discoverable through several paths.
 - [ ] Encounters support more than fight or flee.

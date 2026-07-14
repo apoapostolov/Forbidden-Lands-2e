@@ -45,6 +45,20 @@ When creating a new monster:
 4. Use at most one repository rule on most monsters.
 5. Use two only for major set-piece monsters, and only if the combination remains easy to run.
 
+This repository contains compact rules for individual entries. When the design
+needs an encounter architecture rather than one special line, use the dedicated
+modules instead:
+
+- `tactical-adversary-architecture.md` for roles, objectives, position, and
+  category-specific behavior
+- `boss-phases-intent-and-attrition.md` for phase changes, linked attack-table
+  states, telegraphs, multi-round power, reactions, and degrading attack tables
+- `minions-troops-and-command.md` for force scale, formations, orders, morale,
+  and mass attacks
+
+Do not import both a full architecture and several unrelated repository rules.
+Treat the architecture as the monster's primary experimental rule.
+
 A repository rule should appear in the statblock exactly like any other special line:
 
 - `PASSIVE`
@@ -110,6 +124,23 @@ encounter structures that still feel native to Forbidden Lands.
 **Use when:** the monster is huge, ritualized, slow to commit, or should feel inevitable before it lands.
 
 **Counterplay / warnings:** Give one clear interruption path. Do not stack several wind-ups on a normal monster.
+
+#### TABLE SHIFT
+
+**Design job:** Let an attack change the state that supplies the monster's next
+attack, creating a stance, heat, locomotion, appetite, or manifestation cycle.
+
+**Statblock form:** End the triggering result with `After resolving this attack,
+move to Table B: [State].` Resolve the next attack from that table. Results on
+the destination table may remain there or move to any other named table.
+
+**Use when:** the monster's own actions materially change its body, permission,
+defense, behavior, or available counterplay.
+
+**Counterplay / warnings:** Mark the active table visibly. A transition grants
+no extra attack. Use the full procedure in
+`boss-phases-intent-and-attrition.md`; do not create several cosmetic tables or
+claim random transition odds while selecting results freely.
 
 #### FALSE KILL
 
@@ -454,6 +485,8 @@ encounter structures that still feel native to Forbidden Lands.
 These combinations tend to create new behavior without bloating the fight.
 
 - `WIND-UP` + called-shot weakness
+- `TABLE SHIFT` + `WIND-UP`
+- `TABLE SHIFT` + `BREAKABLE`
 - `FALSE KILL` + `RUNE INTERRUPT`
 - `BREAKABLE` + heavy weapon ecology
 - `SHED` + `MOLT FRENZY`

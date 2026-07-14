@@ -53,6 +53,13 @@ Use the companion references for the stricter drafting layer:
 - `entry-size-calibration.md` for measured word-count floors
 - `random-encounter-design-rules.md` for full encounter law
 - `lore-roll-rules.md` for graduated clue design and hidden-weakness hint structure
+- `tactical-adversary-architecture.md` for enemy roles, objectives, positional
+  logic, and distinct human, beast, monster, and demon behavior
+- `boss-phases-intent-and-attrition.md` for telegraphed set pieces, changing
+  phases, linked attack-table states, stored power, reactions, and
+  Strength-band attack tables
+- `minions-troops-and-command.md` for minions, bands, troops, formations,
+  morale, and command
 
 Descriptions, Lore Roll tables, Random Encounters, and Legends are
 lore-bearing sections. Draft or audit them with `forbidden-lands-lore`
@@ -895,6 +902,12 @@ Pick one:
 - variant ladder family
 - procedural generator template
 
+For a named set piece, add at most one architecture from the tactical companion
+references: phase boss, linked-table state machine, command force, troop
+encounter, hunt-state beast, or manifestation-state demon. This architecture
+refines the chosen structure model; it does not replace the monster's primary
+pressure identity.
+
 ### Step 3: choose the durability package
 
 Pick one main defense and at most one support defense.
@@ -929,6 +942,16 @@ A reliable distribution is:
 - 1 control or hold attack
 - 1 fear or supernatural pressure attack
 - 1 apex or identity-defining attack
+
+Use a wider table only when current Strength deliberately controls attack
+access. In that exception, keep core behavior on results 1-6 and place intact
+anatomy, formation, or apex behavior on the higher results. Follow
+`boss-phases-intent-and-attrition.md` rather than improvising thresholds.
+
+Use linked tables only when attacks themselves change a concrete state. Resolve
+an attack before applying its `move to Table X` statement, and use the
+destination table on the next attack. Keep the active state visible and do not
+treat a transition as an additional attack.
 
 ### Step 6: assign a discoverable weakness
 
