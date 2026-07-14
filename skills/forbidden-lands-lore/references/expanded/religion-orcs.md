@@ -239,6 +239,223 @@ accepted trial. A Misgrown limb imposed by a human master records assault. A
 demonic gift accepted to save the clan may earn honor and permanent suspicion.
 Appearance alone cannot settle the account.
 
+## Sacred Time and the Camp Year
+
+Orc calendars begin with needs rather than numbered months. The first safe
+movement after thaw, the return of biting insects, the time when stored meat
+must be eaten, and the last week in which young can cross exposed ground all
+carry names. A fixed date matters less than the leader who notices the change
+soon enough to act.
+
+At **Opening the Old Road**, scouts walk the route by which the clan escaped its
+last failed camp. They repair markers, clear deadfall, and move any store that
+has become obvious. The ceremony honors survival by keeping retreat possible.
+A chief who calls the road shameful may still be forced to supply the work.
+
+The **Empty Pot Night** comes when the last winter store is deliberately opened.
+Every household reports what remains before the food is combined. Hidden food
+discovered afterward belongs first to those who went hungry while it was
+concealed. Wealthy females sometimes keep a second reserve outside the count;
+they defend the practice as provision against a lying chief.
+
+At the first large hunt after winter, no victory song is permitted until the
+butchery is finished and the return road marked. Isir hunters often ignore the
+rule. Roka elders recite the names of bands that sang beside cooling meat and
+lost it to rain, wolves, or an enemy patrol.
+
+There is no kin-wide holy year. Urhur dates follow the emperor's court. Roka
+count from campaigns and winters under particular generals. Isir remember
+swarm and venom seasons. Viraga travel by plant, moon, and the private needs of
+women moving between clans. When several clans meet, disagreement over the date
+is part of the rite. It discloses who expected whose calendar to rule.
+
+## The Women's Account
+
+The genealogy is not a recital of male descent. It is an account of who was
+fed, carried, adopted, exchanged, hidden, or left behind. Female keepers may
+record it in knotted cords, scars on horn, arrangements of teeth, painted hides,
+or memories divided among several women. No single object is allowed to expose
+every refuge line if captured.
+
+At **Joining the Names**, two keepers meet without the chiefs and compare only
+the people affected by a proposed alliance. They ask which children would move,
+which injured relatives need food, who knows the refuge paths, and which old
+killing remains unsettled. A feast announced before this meeting can be
+cancelled without dishonor. The chief has promised what was not his to give.
+
+The **Closed Fire** hears matters that male rank cannot settle safely. The fire
+is dug below ground and covered enough to hide its light. Women, young people,
+enslaved orcs admitted by a keeper, and chosen witnesses may speak without
+issuing a public challenge. The hearing can remove a marriage claim, prepare a
+camp flight, or decide that a victorious warrior will receive no descendants.
+
+This authority does not make female rule gentle. A keeper can erase an adoption,
+trade a young woman between clans, preserve an enslaved labor line, or conceal a
+child's origin to hold the mother obedient. Viraga recruit from women injured
+by such decisions and from those who learned to make them.
+
+Killing a genealogy keeper destroys knowledge required for marriage, ransom,
+adoption, and refuge. Even enemy clans prefer capture and exchange. A ruler who
+kills one to suppress an inconvenient descent claim may win the dispute and
+leave the clan unable to tell which households can safely join.
+
+## Command, Counsel, and Refusal
+
+An order becomes binding through speaker, hearer, purpose, and limit. A command
+to hold a gate until the young pass ends when they pass. A commander who later
+claims it required death has changed the order after relying on obedience.
+
+At a Roka **Hearing of the Word**, the officer gives an order once. Three ranks
+repeat what they believe must be achieved, what loss is permitted, and what sign
+ends the duty. Differences are settled before movement. The practice slows an
+ambush and prevents a proud officer from hiding behind exact words afterward.
+
+Urhur court command relies on witnesses and costume. A sash, staff, stool, or
+borrowed human title can give an absurd instruction the weight of office. Once
+households have paid tribute or arranged marriage around it, Hranga Gala's joke
+has become a real burden. Removing it requires a second public performance and
+an account of those who relied on the first.
+
+Isir teaching allows refusal only through ordeal. The challenger must hold the
+leader's gaze while grasping a live stinging insect or cut thorn. Endurance gives
+the objection a hearing but says nothing about whether it is wise. Older Isir
+women use the rule to make reckless males listen for the length of the pain.
+
+Drifters keep the plainest law. A leader who cannot state where a command ends
+has asked for ownership, not aid. Bands formed from several clans repeat this
+often because their members disagree about nearly everything else.
+
+## Peace, Guest Right, and the Ground between Camps
+
+Orc hospitality begins before food. A guest is shown the sleeping boundary,
+water place, waste ground, weapon rule, and alarm call. A host who hides a known
+danger cannot later accuse the guest of cowardice for retreating from it.
+
+At **Ground between Spears**, two parties set their spear butts into a strip of
+earth neither claims. Each names the people allowed to cross and the acts that
+end protection. The spears remain upright while talks continue. Removing one's
+own spear declares departure. Pulling the other party's spear is an attack on
+their right to leave.
+
+Food given under guest right creates a short obligation. The guest may not map
+the camp, recruit an enslaved orc, court a protected person, or count the stores
+without permission. The host may not take the guest's weapon, demand a duel, or
+use the meal to create a permanent service claim.
+
+Peace with elder kin carries a second ceremony. The elf or dwarf must name one
+act of abandonment without correcting the orc account while it is spoken. The
+orc speaker then names one present claim that does not descend from the old war.
+Neither admission cancels debt. It prevents every new bargain from pretending
+the first betrayal never happened.
+
+Human envoys often offer written terms. Orcs may accept the marks while insisting
+that a woman or learned captive read them aloud in a second language. A document
+that cannot survive another voice is treated as a concealed weapon.
+
+## War, Spoils, and the Duty to Return
+
+Before a raid, each fighter names one thing that must come back besides loot:
+news, an injured companion, seed, a tool, a captive sought for exchange, or the
+location of a safe ford. The promise limits how victory is judged. A cart of
+silver does not answer for a lost healer.
+
+At **Dividing the Taking**, portable goods are laid out before private seizure.
+Weapons go first to present defense. Food answers hunger. Tools may be assigned
+to the person who can use them rather than the warrior who took them. Ornament
+and coin follow rank after needs have been named. Every clan violates this order
+when powerful fighters can get away with it.
+
+Captives are declared by status before they enter camp: ransom, exchange,
+bounded labor, adopted dependent, accused enemy, or enslaved person. The last
+category exposes the kin's central hypocrisy. Some keepers refuse to enter a
+hereditary slave in the genealogy. Others record the line precisely so no owner
+can pretend the captivity began lawfully.
+
+Retreat has its own honors. The rear guard receives food before the spear that
+made the first breach. A person who carried clan records may outrank a fighter
+who carried three heads. Roka observe this most openly, though their songs still
+favor the fighter.
+
+The worst war theft is a concealed road. Revealing one can place unborn children
+under an enemy's reach. A Viraga who uses a refuge path to move abducted teachers
+may defend the act as service to all orcs. The keeper whose route is exposed may
+call it treason even when the knowledge gained saves another clan.
+
+## Knowledge, Craft, and the Debt of Teaching
+
+Orcs remember being denied writing, high craft, and the reasons behind commands.
+Knowledge therefore carries the smell of stolen property. The person who learns
+from an enemy is praised for recovery and watched for attachment to the teacher.
+
+At **Opening the Hand**, a teacher places a tool, mark, plant, map, or written
+page where learners can inspect it. The teacher must name one danger and one
+thing still unknown. Claiming complete mastery is an attempt to make dependence
+permanent.
+
+Viraga schools divide knowledge. One woman learns the route, another the human
+name used at its end. A third holds the drug or signal that makes contact safe.
+The division protects the network and ensures no member can leave with her whole
+craft. Religious language calls this shared custody. A woman seeking escape may
+call it a leash.
+
+Captured craftspeople create a dispute no clan has resolved. Their teaching may
+save orc lives. Their confinement repeats the elder claim that a capable being
+was made to serve. Some camps offer a bounded teaching term and safe return.
+Others keep the teacher until death and praise the useful knowledge as liberated.
+
+Writing remains suspect but necessary. Urhur scribes use human letters. Roka
+prefer marked stones and recited commands. Viraga steal books and train readers
+in secret. Destroying a text no one present can read is condemned by many clans;
+keeping it beside people forbidden to learn is another form of destruction.
+
+## Shrines, Relics, and Places That Remain
+
+Orc shrines are often evidence of survival: a stone that covered a retreat, a
+tree under which litters were hidden, a broken gate held after its fortress was
+lost, or a cooking pit used through a siege. The place is maintained because an
+act occurred there, not because a god is believed to live in the material.
+
+Weapons of the Unabandoned may be carried, but their obligations travel with
+them. A spear that guarded children cannot be used to threaten a child without
+public contradiction. Owners sometimes rename a relic to escape such limits.
+Elders keep the older name alive.
+
+Fox fur under Viraga custody identifies route, office, and protected knowledge.
+It is not a general charm. Taking a token from a dead Viraga can summon aid,
+accusation, or a hunter sent to learn why the wrong person carries it.
+
+Roka monoliths are inspected for new cuts. Names carved by relatives may turn a
+military marker into a grievance record. An officer who orders the marks ground
+away has made the stone smoother and the dispute harder.
+
+Urhur shrines accumulate gifts copied from foreign courts. A bent Raven feather,
+dwarven measure, elven vessel, and human saint-board may stand together because
+the emperor accepted each in public. Priests invent explanations after the fact.
+Reliance gives the collection weight even when its theology is nonsense.
+
+## The Blood Mist and the Opening Roads
+
+The Blood Mist fixed camps within smaller territories and made old refuge routes
+deadly after dusk. Clans preserved road knowledge as fragments: a day's march,
+a dry cave, a stream crossing, a name remembered without a face. The lifting of
+the Mist turned fragments back into competing claims.
+
+At **Walking the Missing Distance**, an elder leads young adults along a route
+known only from recital. Every mismatch is marked. A bridge has gone, a human
+village occupies the water, or the stone named in the song lies on the other
+side of a new ravine. Correcting the recital is an act of fidelity, not insult
+to ancestors.
+
+The open roads let separated genealogies meet. They also bring claims that
+cannot all be true. Two households may carry the same ancestor, weapon duty, or
+right to a refuge. Female keepers compare who maintained the obligation during
+isolation. Mere possession of the older name does not settle it.
+
+Return to an elder-kin ruin can look like pilgrimage or occupation. Orcs may
+find the chamber from which their ancestors were commanded and use it as a
+court. Elves may call the same place stolen heritage. The religious issue is
+whose labor and loss kept the place meaningful while its builders were absent.
+
 ## Fault, Repair, and Anathema
 
 An orc who fails a duty can repair standing through replacement labor, public

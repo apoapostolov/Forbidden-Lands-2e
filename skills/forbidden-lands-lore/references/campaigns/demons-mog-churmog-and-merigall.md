@@ -1891,6 +1891,40 @@ Freedom commonly comes first near Vond. Viridia rules whenever Gall-Eye is
 present. A threatened child can displace both. Composition rules only while the
 harder wants appear safe.
 
+#### Compatible Secondary Agendas from Other Tables
+
+**COMMUNITY THEORY AND DESIGN EXTENSION:** GMs often give Merigall one or two
+plans beneath freedom and Viridia. The useful plans explain why the demon needs
+mortal agents and why apparently generous help can remain sincere without
+becoming altruism.
+
+Do not use every agenda below. Choose one political agenda and one private
+agenda. More makes each Merigall appearance explain the last one and turns
+failure into another hidden success.
+
+| Secondary agenda | Conduct it produces | Why it fits the fixed motives | Evidence before disclosure |
+| --- | --- | --- | --- |
+| Break Vond through unbound hands | tests Zertorme, the fellowship, Redrunners, and other claimants; gives each a different part of the approach | Merigall cannot safely seize the essence while Zytera's commands and wards recognize it | conflicting gate instructions, a secret escape left open, gifts useful only inside Vond |
+| Keep Stanengist from every claimant's brow | encourages several factions to assemble the stones but prevents any one ruler from wearing the crown | the completed crown threatens Merigall and must remain available to control or seal the Protonexus | a true warning about one stone, a false rumor about the crown's use, orders that keep two bearers apart |
+| Prevent a second Demon Flood | helps destroy Zytera and frustrates Krasylla while insisting that the Protonexus be sealed before the last defender falls | an invasion would kill children, close roads, and place Ravenland under foreign appetites stronger than Merigall | Churmog enemies call Merigall traitor; old contract marks show who strangled the ether |
+| Leave several powers standing | saves a rival after weakening it, exposes one claimant to another, and refuses a throne offered in gratitude | no single church, kin, or demon can close Merigall's playground or take the life essence again | the same identity has aided enemies years apart; a victory song omits the winning ruler |
+| Make the children politically expensive to harm | settles children in households, crafts, courts, and orders where their disappearance would be noticed | loved children survive longer when a clan, village, or priesthood claims them as its own | spare clothing, old gifts, a yellow-eyed name in several household books, visits that ask no service |
+| Give Viridia the power to answer | seeks Gall-Eye, an elf-compatible body, and witnesses strong enough to prevent either lover from controlling the meeting | restoration without Viridia's judgment would repeat the theft that began the pursuit | Merigall refuses an easy captive body, asks who heard the ruby speak, or leaves a Redrunner witness alive |
+| End Zygofer's claim on escaped family | protects Martea, Marga, or evidence of their escape when exposure would cost an identity | they are living proof of Zygofer's private cruelties and useful allies against Zytera; Merigall may also keep an old debt | a passage shaped for Marga rather than Merigall, a warning delivered without payment, Zytera's order to find the helper |
+| Make freedom hard to steal again | arranges public witnesses, divided custody, and retaliation instructions before drinking the essence | private possession merely exchanges Zytera for another jailer | copies of the destructive procedure in hostile hands, children given sealed letters, three factions invited to the same bargain |
+
+The Reddit table reports produce one useful distinction. Merigall may want a
+stable successor without wanting a sovereign. Roads need toll-keepers. Vond
+needs someone to keep hungry things below it. Villages need a season in which
+seed can be sown. Merigall can support those offices while breaking any ruler
+who claims the whole Ravenland.
+
+That distinction keeps political aid from becoming random chaos. Merigall
+helps Zertorme gather a force capable of reaching Vond, then keeps Stanengist
+off Zertorme's head. It lets the adventurers learn a hidden entrance, then
+ensures another faction knows who went inside. The demon wants the fortress
+opened once. It does not want the person who opens it to own every door.
+
 #### What Merigall Mistakes
 
 **DESIGN EXTENSION:** These errors give Merigall a fair and repeatable failure
@@ -2258,6 +2292,82 @@ Flood through other factions. Merigall can remain a dangerous power at Vond
 without becoming the fellowship's personal antagonist. Indifference is useful
 information from the table.
 
+### Revelations That Can Change the Fellowship's Judgment
+
+**CANON, COMMUNITY THEORY, AND DESIGN EXTENSION:** A sympathetic revelation
+should complicate an established judgment. It should not erase the corpse,
+the stolen body, or the lie that established the judgment in the first place.
+
+| Revelation | How the fellowship learns it | What may change | What remains dangerous |
+| --- | --- | --- | --- |
+| Merigall ended the Blood Mist | a bloodling recognizes the old song; Rust records describe the Mist thinning wherever its verses spread | the demon has already saved every kin from another demon plague | it did so by teaching homesick creatures to eat one another and because the quiet bored it |
+| Zytera owns Merigall's continued existence | a command stops Merigall at a threshold; the statue answers when Zytera speaks; Mogarium records name the collateral | service at Vond becomes captivity rather than proof of loyalty | Merigall helped build Zytera before Zytera became its jailer |
+| Churmog remembers Merigall as a traitor | a lesser demon refuses parley, calls the bard gate-strangler, or attacks a child instead of the present body | Merigall is a credible ally against another Demon Flood | betrayal of Churmog did not make Merigall a friend of mortals |
+| Merigall helped Martea and Marga escape | Martea identifies a route, phrase, or borrowed face; Marga remembers the hand that opened the passage | one act of aid cost Merigall safety and opposed Zygofer directly | the rescue may also preserve witnesses and weapons useful against Zytera |
+| A child knows Merigall as an absent but loving parent | the fellowship meets the child first, sees years of unwanted gifts, then watches Merigall arrive at illness or death | the demon's love is specific, inconvenient, and open to refusal | the child remains a road, witness, and possible body in Merigall's plans |
+| Viridia may have betrayed Merigall to the Redrunners | acid records contain knowledge only Gall-Eye possessed; the ruby changes Merigall's shape and speaks against it | the long search contains dread of judgment, not merely possession | Merigall still proposes to put Viridia into another person's flesh |
+| Merigall could seize a body for Viridia but has refused the available ones | a prepared body remains untouched; a captive elf is released; a child reports an argument about consent | the demon may want Viridia's answer more than an obedient imitation | refusal can be fear, vanity, or calculation rather than mercy |
+| Merigall does not want the throne | it declines Vond, gives away a title, or helps two enemies survive the same victory | alliance need not create another king or demon prince | a land kept divided supplies more stories, bargains, and grief |
+
+#### Making Sympathy before Asking for Alliance
+
+The GM can manipulate attention and sympathy. The GM should not manipulate the
+players' decision. Put favorable evidence where the players can test it, let
+Merigall pay before asking, and leave refusal intact.
+
+Use this sequence across several sessions.
+
+1. **Let the benefit arrive without Merigall.** A gate is unbarred, a patrol
+   takes the wrong road, or a healer receives a reagent. The party owes no
+   spoken bargain.
+2. **Give the benefit an independent witness.** Martea, a child, a Redrunner,
+   or a frightened servant identifies the cost Merigall accepted. Do not let
+   Merigall narrate its own sacrifice.
+3. **Show one need the demon cannot perform away.** A threshold rejects the
+   body. Viridia speaks and Merigall cannot answer. A child closes the door.
+   The hands go still and the sentences shorten.
+4. **Let Merigall keep one bounded promise.** The promised door opens at the
+   named hour. The demon does not add a hidden rescue, demand, or lesson.
+5. **Make the alliance request smaller than the campaign.** “Carry this brass
+   vessel out of the Mogarium and place it on the marked stone” can be judged.
+   “Trust me against Zytera” cannot.
+6. **Give the fellowship collateral.** An artifact, a child's witnessed oath,
+   a route, or part of the essence remains in their hands until Merigall
+   performs.
+7. **Allow an unpunished refusal.** Merigall withdraws and acts elsewhere. The
+   refusal changes access and warmth, not the validity of player choice.
+
+The strongest sympathy scenes in community reports involve a child. Use them
+with restraint. The fellowship should care about the child before learning the
+parentage. Merigall's grief then confirms a relationship the players already
+value. Killing or tormenting a child merely to soften the demon turns the
+child into a prop and makes the manipulation visible.
+
+Do not reclaim every kindness as a trick. One kept promise earns more trust
+than three speeches, and trust becomes useful only while betrayal remains
+possible. Merigall may save a companion because it loves the child traveling
+with them, needs the bearer of Gall-Eye alive, or refuses to let Zytera choose
+the manner of death. The life remains saved.
+
+#### The Alliance Compact
+
+An alliance with Merigall needs terms that survive charm.
+
+Write five lines before the offer:
+
+- the act Merigall will perform
+- the act the fellowship will perform
+- the fact each side may verify first
+- the collateral each side can lose
+- the hour, place, or event that ends the compact
+
+Merigall should volunteer one restriction the fellowship did not demand. This
+is calculated trust-building and a real concession. The demon might promise
+not to wear a companion's face, not to arrive through a named child, or not to
+touch Gall-Eye until Viridia answers before witnesses. Once spoken, keep the
+restriction. Let later danger come from the narrowness of the agreement and the
+other powers reacting to it.
+
 ### Merigall's Roles in Raven's Purge
 
 **INFERENCE AND DESIGN EXTENSION:** Merigall joins many campaign threads because
@@ -2373,6 +2483,74 @@ Ask four questions before Vond:
 
 Those answers determine conduct in the final rooms. Merigall does not receive a
 scripted redemption or betrayal.
+
+### If Merigall Wins
+
+**DESIGN EXTENSION:** Merigall's complete victory means that the life essence
+is recovered, Zytera can no longer command it, the Protonexus does not disgorge
+a second Demon Flood, the surviving children remain available as family and
+roads, and Viridia is brought to a point where she can answer. Viridia's love
+cannot be won as an objective. Her answer decides whether the victory holds.
+
+Merigall does not sit in Vond and collect grain. Its power lies in names, songs,
+old rooms, children, and favors owed by people who deny owing them. The likely
+result is a divided Ravenland with several working powers and no uncontested
+master.
+
+| Realm or power | Consequence of Merigall's victory |
+| --- | --- |
+| Vond and the Protonexus | Zytera's court breaks. The gate is sealed, throttled, or placed under divided custody. Merigall opposes any claimant who tries to wear Stanengist and command both fortress and nexus. |
+| Ravenland settlements | The Blood Mist stays broken and the roads remain open. No central army protects them. Local rulers, clan courts, and churches bargain for abandoned Rust stores and Misgrown labor while old Vond servants sell what they know. |
+| The Rust Church | Loss of Zytera's authority splits the church. Some priests declare Merigall the deceiver who murdered Rust's prophet. Others hide records, bargain for survival, or follow a surviving half of Zytera. Inquisitions become local and less coordinated, not harmless. |
+| Raven Sisters and human rulers | They gain room to break Rust control and reopen old congregations. Merigall supports rulers who keep roads and markets open, then exposes any one ruler who gathers the crown, Vond, and the old Alderlander claim together. |
+| Elves and Redrunners | Viridia and the stolen stones divide them. A willing restoration may create a party that treats Merigall as a foreign power under judgment. A refusal renews the hunt. If Stanengist seals the gate, elves must decide whether saving Ravenland justified the loss or transformation of their crown. |
+| Dwarven clans | Vond becomes a claim older than the human occupation and newer than several clan grudges. Merigall can provide true but incompatible records to more than one clan. Dwarves may recover the fortress, but the demon works against any settlement that gives one clan sole control of the pass and gate. |
+| Orcs | The fall of Vond does not settle the old debt with elves or dwarves. Orc rulers gain bargaining room around the Eye of the Rose and the elven stones. Merigall aids any settlement that keeps Gall-Eye in play and frustrates one that buries it beyond reach. |
+| Halflings, goblins, and wolfkin | Distant children and old disguises make these kin part of the new information roads. They gain patrons and enemies without receiving seats in every great council. A yellow-eyed household can become an embassy, a shrine, a hostage, or a reason for a village to bar strangers. |
+| Demons in Ravenland | Krasylla loses the easiest path to supremacy. Lesser demons face a broker who knows Churmog addresses and has already starved one invasion. Some offer service. Others hunt the children or tell mortal courts what Merigall did during the Flood. |
+| Merigall's children | They become visible after centuries of rumor. Protection by the parent brings petitions, cults, assassins, and people seeking a road to Merigall. Children who refuse arrival can become political powers precisely because the refusal has value. |
+| The fellowship | Songs and witnesses name them among the powers that broke Vond. Merigall owes them under the compact, but rival factions suspect that every victory was purchased by a demon. Their strongest evidence is the collateral and the promises they made public. |
+
+#### Which Want Survives Victory
+
+Freedom leaves an empty place at the top of Merigall's governing wants. Choose
+what rises into it.
+
+| Highest remaining want | Post-victory conduct | Ravenland drift |
+| --- | --- | --- |
+| Viridia | gathers bodies, elf lore, and witnesses; abandons lesser bargains when Gall-Eye moves | conflict narrows around elven sovereignty, consent, and the stolen stones |
+| Children | establishes safe houses, marriages, crafts, and offices around the offspring | a yellow-eyed kin network becomes the nearest thing Merigall has to a state |
+| Composition | engineers reversals after the first peace becomes predictable | rulers fall publicly, alliances sour beautifully, and villages pay for the spectacle |
+| Continuance | keeps several powers strong enough to resist conquest and weak enough to need a broker | roads stay open under an unstable balance of courts, churches, clans, and adventurers |
+
+Community discussion most often favors **Continuance**. Merigall wants someone
+capable of keeping the granaries counted and the pass watched, but not someone
+capable of closing the Ravenland into one law. This is the most durable allied
+ending. It is also a peace in which the demon keeps every faction's spare key.
+
+#### Viridia's Answer
+
+Resolve Viridia separately from Vond.
+
+- **Viridia accepts restoration and Merigall.** The pair leave court for a
+  season or a year. Their absence creates the political vacuum. When they
+  return, Viridia has her own claims against elves, Merigall, and the body that
+  carries her.
+- **Viridia accepts a body and rejects Merigall.** Merigall keeps freedom but
+  loses the story that justified centuries of pursuit. It may honor the compact
+  from exhaustion, turn toward the children, or ruin one beautiful thing before
+  leaving.
+- **Viridia refuses embodiment.** Gall-Eye remains a person in stone. Merigall
+  must bargain with the bearer and cannot complete victory by force without
+  proving every accusation true.
+- **The body rejects Viridia.** Restoration creates illness, divided memory, or
+  a new being who claims neither name. Merigall has won the object of the plan
+  and lost the person it expected.
+
+Do not let Merigall's victory close the campaign by explanation. Leave one
+visible institution behind: divided custody at Vond, a child who bars the road,
+an elf court hearing Viridia's accusation, or a village that has begun charging
+pilgrims to see the room where Merigall kept a promise.
 
 ### Adventure-Site Integration
 
@@ -2766,6 +2944,11 @@ susceptibility, scholarly taxonomy, and village belonging.
 **Merigall's power is bounded by failure.** The campaign gives centuries of
 unfinished goals. This reading makes the NPC more credible and easier to run.
 
+**Merigall needs a mortal breach force at Vond.** The life essence is held by
+the power that commands Merigall, inside defenses prepared with knowledge of
+its bodies and methods. The exact prohibition is open, but proxy action follows
+from the hostage arrangement and explains the campaign bargain.
+
 ### Tier B: Supported but Campaign-Defining
 
 **Blood Mist is a learning network.** It explains inconsistent targeting and
@@ -2800,6 +2983,26 @@ ambiguous without making every helpful stranger a demon.
 emotion as nourishment that can charge power or yield insight. Canon establishes
 the appetite, not the conversion rate. Use it to explain preparation and fatigue,
 never unlimited omniscience.
+
+**Zytera's pact forbids direct recovery of the essence.** Reddit GMs use a
+literal prohibition on entering the guardian room, touching the vessel, or
+describing its defenses. This repairs the apparent ease of the published theft
+but adds a command the campaign does not state.
+
+**The offspring are embassies as well as roads.** Children placed in courts,
+orders, villages, and clans give Merigall news and safe arrival while acquiring
+claims of their own. Canon establishes love and travel. The diplomatic network
+is a community expansion.
+
+**Merigall wants stable plurality.** This reading joins the appetite for change
+to the practical need for roads, witnesses, children, and protected settlements.
+It supports several local powers while opposing one master of Vond, Stanengist,
+and the Protonexus. The campaign establishes no post-victory constitution.
+
+**Fear of Viridia's answer delays restoration.** Viridia may have taught the
+Redrunners how to dissolve Merigall, and the demon may refuse an easy body
+because embodiment permits a final rejection. This preserves the fixed search
+while turning delay into fear rather than incompetence.
 
 **A second flood begins as rival claims.** Community theory expects minor
 demons, then larger rivals, followed by combat, combination, and Krasylla's bid
@@ -3001,8 +3204,15 @@ learn enough.
   inside a composite can be reached without binding the whole.
 - [Merigall's weakness](https://forum.frialigan.se/viewtopic.php?t=12786)
   audits the placement and security of the life essence.
+- [Why hasn't Merigall acquired its life essence?](https://www.reddit.com/r/ForbiddenLands/comments/wljp2d/)
+  proposes direct-action restrictions, anti-demon wards, proxy assaults on
+  Vond, and the need to keep Stanengist away from Zertorme while still using it
+  against the Protonexus.
 - [Merigall's children](https://www.reddit.com/r/ForbiddenLands/comments/1jarl2v/)
   provides campaign placements and social uses for the offspring network.
+- [PC as Merigall's offspring](https://www.reddit.com/r/ForbiddenLands/comments/1i2w44l/)
+  tests parental favor and neglect, children as mortal people, suspicion around
+  yellow eyes, and a child's use as an unwitting road or prospective body.
 - [Merigall: love or hate?](https://www.reddit.com/r/ForbiddenLands/comments/1fxghsl/)
   reports table responses to limited appearances, ambiguous aid, a child's
   death, genuine grief, temptation, and sustained distrust.
@@ -3018,6 +3228,12 @@ learn enough.
 - [Repairing an early Raven's Purge start](https://www.reddit.com/r/ForbiddenLands/comments/1r188yg/)
   gives a play example in which Gall-Eye disrupts Merigall's shape and lets
   Viridia speak, and reinforces routing the campaign through sandbox choices.
+- [Starting the players in Vond](https://www.reddit.com/r/ForbiddenLands/comments/1guxprm/)
+  develops Merigall's use of a secret escape that aids the party while creating
+  agents capable of returning through defenses tightened after their flight.
+- [Update on My Raven's Purge Campaign](https://www.reddit.com/r/ForbiddenLands/comments/1ha0bxl/)
+  gives a table bargain in which Merigall trades artifact intelligence for a
+  dangerous identity needed to approach the prize.
 - [Travel to offspring](https://www.reddit.com/r/ForbiddenLands/comments/1mnrux5/)
   develops the gearless-teleport theory.
 - [Raven's Purge campaign tips](https://forum.frialigan.se/viewtopic.php?t=15889)

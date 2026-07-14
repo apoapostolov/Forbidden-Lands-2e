@@ -261,6 +261,213 @@ Some goblins desire reunion privately. They may be tired of daylight pain,
 hunger, pursuit, or halfling denial. Their hope is real. So is the suspicion
 that Penita will call every present goblin trait a stain removed by healing.
 
+## The Night Year and the Moving Camp
+
+Goblin sacred time follows usable darkness. Winter offers long travel and poor
+food. Summer offers prey, plants, and nights too short to cross exposed ground.
+Bands count the year by what can be reached between sunset and dawn.
+
+At **Measuring the Night**, the day watcher places two stakes at the horizon
+points of sunset and sunrise. Scouts name the water, shelter, and enemy ground
+within that arc. The band then decides whether to stay, divide, or travel. A
+shaman who reads the moon without hearing the scouts is reciting above an empty
+map.
+
+The first spring night with insects is **Thin-Hide Night**. Bedrolls are aired,
+wolf coats searched, smoked meat inspected, and the youngest members taught
+which bites swell badly. The work is accompanied by rude songs about Eor making
+small creatures because large enemies were too easy to notice.
+
+During the shortest nights, neighboring bands sometimes share a shaded camp.
+Routes, prey, and old thefts are discussed while no one has enough darkness for
+a profitable raid. The truce ends when a shaman can hold a hand at arm's length
+after sunset and no longer distinguish the fingers.
+
+Autumn brings **Counting the Mouths**. Every person, wolf, captive, and expected
+guest is matched to stored food. A band that cannot feed everyone must trade,
+split, release dependents, or name who will take the dangerous winter route.
+Eor is given no portion. The goddess has the moon. The hungry need the meat.
+
+## Daylight, Shelter, and the Pain of Exposure
+
+Sunlight hurts goblin eyes. Religion begins with this bodily fact before it
+becomes a symbol of persecution or hidden truth. A sound camp has shade that
+can be reached by a blinded runner, water close enough for a child, and more
+than one exit if fire reaches the cover.
+
+At **Closing the Eye**, the last goblin to sleep checks the seams of hide,
+thatch, stone, and leaf cover. Small light holes are plugged from inside. The
+day watcher then opens one narrow view toward the likeliest approach. Their
+pain buys everyone else's rest and earns first hearing at dusk.
+
+Forcing a goblin into full sun is punishment, torture, and sometimes execution.
+Bands may still use it against prisoners or their own condemned members. The
+custom is defended as Eor's judgment because the moon cannot be seen. Critics
+answer that a captor is doing the judging and merely borrowing the sky.
+
+Travel by day is possible beneath heavy hoods, forest cover, cloud, or wagon
+cloth. A companion who leads a covered goblin accepts the duty of sight. False
+warning, deliberate collision, or abandonment in open ground violates the bond
+even if the travelers never exchanged names.
+
+Some goblins choose surface settlements and learn to endure short exposure.
+They may be praised as useful couriers and mocked as squinters who sold the
+night. Their knowledge of human hours can save a band from an ambush arranged
+for noon.
+
+## Shamans, Dreams, and the Discipline of Deception
+
+Moon-shamans learn weather, medicine, routes, sleep, story, bargaining, and how
+different lies fail. A vision that cannot be distinguished from fever, spoiled
+food, or fear has not yet earned divine authority.
+
+An apprentice keeps **The Crooked Account** for one moon. Each night they tell
+the band one false statement about a harmless matter. Before the moon turns,
+they must reveal every falsehood and show who changed behavior because of it.
+The lesson is reliance. Even a small lie grows limbs once other people move.
+
+Dreams seen under moonlight are reported with sleeping place, food, drugs,
+illness, and noises heard on waking. The shaman may interpret afterward. A
+chief who demands the omen first is looking for permission rather than
+knowledge.
+
+Shamans wear little that cannot be abandoned. Blue stone, polished shell,
+silver scrap, wolf tooth, and a mask may mark office, but a shaman unable to
+move without a chest of sacred goods has mistaken cargo for power.
+
+The office has no immunity from theft. Taking a shaman's ritual object can be
+a challenge to prove its protection. Using it to expose a cradle, poison a
+patient, or forge a protected message remains anathema because the damage falls
+beyond the contest.
+
+## Healing, Illness, and the Shared Body
+
+Goblins carry medicine in grease, dried leaf, bitter root, fungus, clean cloth,
+and the remembered location of water. A cure is judged by recovery and cost.
+Its origin in human, druidic, or stolen knowledge does not make it impure.
+
+At **Naming the Bite**, a sick person or companion states what entered the body:
+tooth, insect, bad meat, smoke, cold, drug, spell, or ignorance. “Eor willed it”
+is accepted only after ordinary causes have been examined. The goddess may hide
+meaning; she does not excuse a filthy knife.
+
+Treatment creates a claim bounded by what was given. A healer who uses one
+night's care to demand lifelong service is a thief who keeps stealing after the
+object is gone. A patient who hides contagion has stolen the band's ability to
+choose distance.
+
+Wounded wolves are treated before trophies are divided. Handlers know that an
+animal may bite through pain and use rope, forked wood, and familiar scent. A
+prayer spoken while three goblins hold the jaw is no less sacred for being
+practical.
+
+Whiner flesh, demonic remedies, and Rust medicine divide bands. Need can justify
+use without settling the manner in which the material was obtained. Some
+shamans demand the name of the captive, corpse, or bargain behind every cure.
+Others ask after the patient can stand.
+
+## Feasting, Sacrifice, and What Is Given Away
+
+A goblin offering must leave someone's use. Stolen silver placed under moonlight
+and recovered at dawn has been shown, not given. The boast may still please Eor,
+but the band does not call it sacrifice.
+
+Common offerings are meat left where scavengers can take it, a route withheld
+for one night, a useful lie retired before discovery, or a taken object returned
+without claiming gratitude. The cost lies in surrendered advantage.
+
+At **The Feast of Wrong Owners**, each household brings food acquired under a
+different claim: hunted, traded, found, stolen, owed, or gifted. Before eating,
+the providers tell enough of the acquisition for objections to be raised. The
+meal can expose a theft from guests or discover that three hunters sold the
+same carcass.
+
+The first portion goes to the day watcher and the wolves that guarded the camp.
+Children eat before adult boasting. Captives under exchange receive the portion
+promised at capture. A leader who gives lavishly to visitors from food already
+assigned to dependents is displaying generosity with another stomach.
+
+Goblin sacrifice rarely destroys tools. A knife can cut for years. Leaving it
+to rust gives Eor one dramatic night and the band many cold meals. A shaman who
+demands such waste must name the danger worth it.
+
+## Dispute, Compensation, and the Moon Hearing
+
+Goblins expect claims to move, but movement needs witnesses. A person who loses
+an object through better stealth may still claim its use when a child, patient,
+or shared route depends on it.
+
+At **The Moon Hearing**, the disputed thing lies where all parties can see its
+shadow. The taker tells how it was acquired. The prior holder states its use.
+The band names the danger created by either judgment. The object may be returned,
+shared, exchanged, or deliberately left unassigned until the next moon.
+
+Compensation answers use before pride. A stolen cooking pot costs the meals that
+could not be made. A wolf injured through borrowed tack costs care, lost travel,
+and the handler's time. Public humiliation may follow, but it does not cook or
+heal anything.
+
+Feuds are marked by **The Uncrossed Track**. Each side cuts its sign on opposite
+sides of a known route and names people who may still cross: cradle keepers,
+children, messengers, or healers. Killing one of these travelers changes a feud
+into band treachery.
+
+A shaman can declare a lie spent. The liar then repeats the corrected account
+to every reachable person who relied on it. Those who profited from the old
+story often resist correction more fiercely than the original speaker.
+
+## Relations with Other Faiths
+
+Halfling Eor worship shares the cradle and denies the market kin. Goblins mock
+the clean table while protecting the birth road that makes it possible. Their
+anger is sharpened by dependence: destroying halfling respectability too
+carelessly can expose goblin children as well.
+
+Raven duty is respected when it makes a human keep a stated road, payment, or
+guest term. Goblins distrust Raven judgment that assumes public speech is more
+truthful than a hidden bargain. The person who can afford witnesses usually
+looks honest in daylight.
+
+Wyrm keepers preserve records goblins may need and claims they may want dead.
+A closed archive is another locked chest. A goblin who steals a birth list to
+protect a cradle may save the children and expose every name while carrying it.
+
+Clay druids condemn hunting and careless felling. Goblins answer that a druid
+who protects a fox litter beside a starving camp has chosen the foxes. The best
+agreements name prey, season, nesting ground, and the number of mouths on both
+sides.
+
+Huntress packs understand nocturnal routes and animal bonds but do not share
+goblin ideas of ownership. A wolfkin may regard a riding wolf as dominated kin.
+A goblin handler may regard the accusation as a prelude to stealing the animal.
+
+Rust Brothers dislike every protected lie they do not control. Goblin bands
+trade them information, mislead their patrols, rescue prisoners, and sometimes
+sell rivals into their hands. No common persecution has made the bands morally
+united.
+
+## The Blood Mist and the Returned Distance
+
+Under the Blood Mist, short night journeys and forest cover gave goblins more
+movement than many settled kin possessed. Bands became couriers between places
+that could not exchange a human messenger. Every route carried the risk of
+leading the Mist toward an opening or reaching bare ground too late.
+
+Some bands call those generations Eor's Long Face: the goddess hid the roads
+from rulers and made despised kin necessary. Others remember lost camps, failed
+cradles, and wolves killed when a planned shelter had burned. Privilege within
+a disaster does not make the disaster holy.
+
+The lifted Mist opened longer routes and weakened goblin control of secret
+distance. Human wagons now reach markets once served by moon couriers. Old
+clients call the goblin price robbery now that a road is safe at noon.
+
+At **Returning the Far Sign**, a band visits a marker left beyond its living
+memory. Whoever maintained the destination may answer the old claim. A halfling
+village may have built a wall over it. An orc clan may use it as a refuge sign.
+The goblins must decide whether return restores ownership or begins a new
+bargain.
+
 ## Fault, Repair, and Anathema
 
 Repair requires returning the object, replacing its use, warning those exposed,

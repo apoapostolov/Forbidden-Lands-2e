@@ -319,6 +319,197 @@ The sharpest dispute concerns the Blood Mist. Rust wants control over its
 return. Returner packs want its cover. Neither can assume the restored Mist
 would obey the bargain or spare the same bodies twice.
 
+## Sacred Time and Seasonal Packs
+
+Wolfkin count sacred time by body and prey. The first lean litter, the week when
+deer shed velvet, mushroom fruiting after warm rain, ice strong enough to carry
+a hunter, and the night migratory birds cease calling all require different
+work. A calendar kept without scent or tracks is only another human board.
+
+At **Loosening the Winter Circle**, packs inspect every sleeper, store, boundary,
+and remembered grievance before they divide for spring. People who carried one
+another through hunger may discover that warmer weather restores an old feud.
+The rite names which bonds survive the season of need.
+
+The long summer gathering is held where several packs can hear without sharing
+one sleeping ground. Songs cross the distance. Courtship, fosterage, disputed
+cubs, refuge claims, and winter routes are answered through messengers moving
+between the circles. Bringing every pack under one fire would make hospitality
+look too much like submission.
+
+Autumn's **First Empty Track** marks the departure of a herd or flock. Hunters
+walk the abandoned route and collect dung, hair, feather, broken browse, and the
+signs of predators following it. The ceremony teaches absence as evidence. A
+young hunter who calls the animals gone without finding where they went has
+named ignorance, not season.
+
+Winter rites are quiet. Breath reveals location. Snow carries tracks farther
+than scent. Pack prayer moves into maintenance of hides, paws, weapons, dried
+food, and the sleeping ring. Hunger makes every distribution judgment religious.
+
+## Pack Formation, Division, and Succession
+
+A pack is made through repeated dependence. One hunt or mating does not create
+it. People must share sleep, food, danger, young, and the right to interrupt
+another member's anger before the bond earns recognition.
+
+At **Making the Circle**, each prospective member places bedding at the edge of
+the common ground. Over several nights the circle is tightened. Anyone may stop
+the movement and name the scent, habit, enemy, or injury that prevents closer
+sleep. The objection must be answered before bodies are pressed together.
+
+Pack division is not automatically failure. Too many adults can exhaust prey,
+turn every pairing into rivalry, and leave young under constant challenge. At
+**Taking the Second Path**, the departing group receives fire, a route warning,
+and portions from the last shared kill. Boundary and foster duties are stated
+before the scents separate.
+
+Succession begins when others stop answering the leader's first call. A leader
+may yield hunt command while keeping standing in songs, foster decisions, or
+refuge law. Human observers often mistake a single defeated challenge for a
+change of every office.
+
+At **The Voice behind the Voice**, a proposed leader gives route, danger, and
+purpose. Another wolfkin repeats the call from beyond sight. If the pack follows
+only when it hears the first person's throat, the order rests on dominance. If
+the repeated information moves them, the command can survive the leader.
+
+A pack that loses several adults may join another without surrendering its dead.
+The smaller circle keeps one song, sleeping place, or distribution claim until
+the first cub it raises to adult standing. Then the joined pack decides whether
+the old name remains useful.
+
+## Sickness, Injury, and Contagion
+
+Scent makes sickness public early and stigma difficult to hide. Fever, infected
+wound, spoiled digestion, fear, pregnancy, and demonic change can alter a known
+person's smell before they speak. Pack members are expected to report the change
+without claiming to know its cause.
+
+At **The Separate Fire**, a sick member sleeps downwind but within hearing. Food
+and water are delivered by the same few attendants. The distance protects the
+pack without abandoning the person to silence. No patient is left beyond call
+unless their illness makes answering dangerous.
+
+Wound licking is limited by experience. Saliva cleans some dirt and carries
+other sickness. Healers use boiled water, cloth, pressure, splints, mushrooms,
+and human tools when useful. A singer who forbids a sound treatment because it
+looks furless may be asked to keep the wound with prayer alone.
+
+Rage complicates care. A wounded wolfkin may strike before recognizing touch.
+Forked poles, nets, shields, and familiar bedding can restrain without a cage.
+The people holding them must speak continuously. Silent restraint resembles
+predation and can drive the patient deeper into it.
+
+Demonic alteration is judged by relation. Does the person still answer names,
+respect the feeding order, and recognize the boundary stated before a hunt? A
+changed body may remain kin. A familiar body that no longer recognizes any
+claim may be lost. Rust doctrine reverses this test whenever appearance benefits
+the church.
+
+## Refuge, Territory, and the Right to Pass
+
+Territory is not one claim. A pack may own sleeping ground, share water, guard a
+birthing hollow, reserve a mushroom patch, and permit another pack to follow
+prey through the same trees. One scent mark cannot explain all these rights.
+
+At **Reading the Boundary**, neighboring packs walk opposite sides of a marked
+route. Each renews only the signs it can still defend and names paths left open
+for fire, flood, wounded prey, foster duty, or a sole survivor. A boundary with
+no emergency crossing is a trap waiting for weather.
+
+A refuge is held against more than enemies. Felling, smoke, repeated carts,
+poisoned bait, loud mining, and too many strangers can break the layered cover
+that made it safe. Compensation may require moving a road rather than paying
+silver.
+
+Guest scent is made by rubbing a visitor's cloth with ash, bedding, or gland
+scent accepted by the pack. It grants passage to named places for a stated
+time. Wearing the mark after protection ends is deception. Copying it to enter
+a birthing hollow is anathema.
+
+Wolfkin guides often refuse to name a refuge on a human map. They may lead the
+same traveler there blindfolded in genuine trust. Humans call this contradiction
+because they treat access and record as the same gift.
+
+## Trade, Tools, and Furless Work
+
+Wolfkin use iron, cloth, rope, pottery, salt, medicine, and other settled craft
+while condemning the life that produces much of it. The contradiction is
+managed through trade, theft, salvage, and the claim that a tool can be taken
+without taking human ways.
+
+A spearhead is judged by balance and edge. Praise goes to the smith only when a
+continuing relation exists. Packs otherwise name the trader, raid, corpse, or
+ruin from which it came. Human makers resent seeing their best work enter a song
+as something found beside a road.
+
+At **The Unfamiliar Hand**, a new tool is used first on a task that can fail
+without killing anyone. A trap is set without a spring, a pot boiled with water,
+or a metal hook loaded with stones. Testing before dependence is devotion to
+living bodies.
+
+Permanent stores trouble Huntress teaching because stored wealth attracts walls,
+guards, and rank. Winter food remains necessary. Packs distinguish food intended
+for named mouths from surplus kept to command strangers. Leaders blur the line
+when they want tribute.
+
+Coin has scent but no obvious use. Many packs punch it, string it, hammer it into
+small plates, or trade it quickly. A mercenary who keeps silver may become the
+pack's bridge to settlements or the person who starts measuring kin by wages.
+
+## Relations with Other Kin and Their Gods
+
+Goblins share night travel and bonds with riding wolves. Packs judge goblin
+breeding as control over animals whose refusal should matter. Goblins answer
+that a hungry wolf chooses the handler who feeds it and that Huntress sermons
+often conceal ownership behind kinship words.
+
+Elves and druids condemn wolfkin origin, hunting, altered states, and treatment
+of prey. Wolfkin remember druids who protected a forest by excluding the pack
+that knew its paths. A Golden Bough survey can still become common ground when
+it records prey, felling, fire, and winter refuge rather than declaring the
+forest untouched.
+
+Raven guest law is useful because it makes a promise audible. Raven judgment
+becomes hostile when a human settlement treats all forest beyond its fence as
+unclaimed. Flow keepers can protect water and then deny that blood, wallow, and
+carcass belong in living streams.
+
+Orcs understand abandonment and the price of carrying dependents through a
+retreat. They also enslave and raid. Wolfkin respect the orc who brings the
+injured home and despise rank contests that spend food needed by the camp.
+
+Halfling hospitality offers full bowls and rooms heavy with concealed fear. A
+pack may trade safely for years without being invited past the front room. The
+wolfkin nose knows who sleeps below the floor. Naming them can rescue a hidden
+person or destroy the only shelter they have.
+
+## After the Blood Mist
+
+The Mist gave forest wolfkin movement denied to many enemies. Packs carried
+messages, hunted close to trapped villages, and treated open ground as a wall.
+Some elders remember those years as proof that the Huntress chose their form.
+
+The same Mist killed wolfkin who followed prey beyond cover, trapped divided
+packs on opposite sides of a clearing, and made foster duty impossible across
+short distances. Cubs learned that the visible sky could consume a person.
+Calling the whole age a blessing makes these dead into doctrinal inconvenience.
+
+When the Mist lifted, the open ground remained in the body. Packs tested it by
+placing singers at the forest edge, stretching scent lines across grass, and
+crossing only while every traveler could hear a known call. Some routes took
+years to become ordinary.
+
+Returners seek the old cover and believe preparation can correct its cost.
+Keepers ask who controls the border of the restored Mist and which pack will be
+cut off when it settles differently. Outlaws value the open land because a
+tracker can now sell skill beyond the trees.
+
+At **The First Uncovered Sleep**, a pack camps where no canopy stands. Watches
+overlap. Bedding is placed close enough to touch. No one is mocked for returning
+to the tree line before dawn. Success gives a route, not a cure.
+
 ## Anathema and Repair
 
 Repair begins with restoring what the act removed: food, safe route, shelter,

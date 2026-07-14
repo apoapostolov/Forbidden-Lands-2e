@@ -18,6 +18,7 @@
 !/03-*/**
 !/skills/
 !/skills/**
+!/docs/
 
 # Explicitly keep these out even if a parent rule changes later.
 /.codex
