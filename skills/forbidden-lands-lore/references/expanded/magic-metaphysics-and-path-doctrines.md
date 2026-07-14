@@ -22,8 +22,11 @@ accurate where they touch it and dangerous where they claim too much.
 ### Willpower Is Scarred Intention
 
 Magic is fueled by Willpower, but ordinary desire is not Willpower. A wish may
-be sincere and still possess no magical weight. Willpower is intention that has
-survived contradiction.
+be sincere and still possess no magical weight. Willpower is kindled where the
+world and the self come into conflict: intention made fierce by struggle, pain,
+suffering, and the burning away of hope. As the world consumes the body's
+strength, it can leave the survivor with something else—the power to insist,
+even then, *I still choose*.
 
 When an adventurer pushes beyond fear, pain, exhaustion, doubt, or social
 collapse, the world gives evidence that the intended act should stop. The body
@@ -33,6 +36,13 @@ life: *I am being overcome* and *I still choose*. That unresolved interval is
 Willpower. It is not pain itself. Unchosen suffering, helpless misery, and the
 torment of another do not automatically empower a witness. The force lies in
 surviving an imposed limit while retaining authorship of the next act.
+
+This is no substance hidden in the blood or soul. Those who spend Willpower
+often—magicians, seasoned adventurers, and others long acquainted with
+hardship—feel it plainly enough: a warmth behind the breastbone, an eagerness in
+weary limbs, a presence that remains when bodily strength is gone. It does not
+restore what the world has taken. It gives intent somewhere to stand after
+stamina has failed, provided the mind remains sound enough to know it is there.
 
 This is why protected comfort produces poor magicians, why ordeal without
 purpose often produces only injury, and why deliberate self-harm is an

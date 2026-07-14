@@ -188,7 +188,7 @@ Your body remembers every paw-print you ever followed.
 
 - ✦ **RANK 1:** You can cast rank 1 Shapeshifting spells. You may mimic familiar animal calls, and for 1 WP they become perfect.
 - ✦ **RANK 2:** Rank 2 spells become available. Spend 1 WP to alter small features—eyes, teeth, claws, ear shape—for up to an hour; showing this trick lets other shapeshifters know you are an Adept of the Path of Shifting Shapes.
-- ✦ **RANK 3:** Rank 3 spells become available. Concentration reveals another creature’s mental pain. Spend 2 WP to carry an animal musk for a turn; clothing keeps the scent for a day.
+- ✦ **RANK 3:** Rank 3 spells become available. Concentration reveals another creature’s pain. Spend 2 WP to carry an animal musk for a turn; clothing keeps the scent for a day.
 - ✦ **RANK 4:** Rank 4 spells become available. Choose a totem animal; your features echo it, shaping how others see you.
 - ✦ **RANK 5:** Rank 5 spells become available. Animals of your totem treat you as uncanny kin—still wary if they must be, but never dismissive.
 
