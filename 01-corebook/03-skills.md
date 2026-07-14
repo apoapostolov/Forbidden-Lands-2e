@@ -488,15 +488,15 @@ These are guidelines. The GM sets the limit when the source is discovered. Most 
 
 Studying takes one Quarter Day and uses the same daily allotment as training: you may spend no more than one Quarter Day per day on training or learning, in total. At the end of the Quarter Day, roll WITS. This roll cannot be pushed. If you succeed, mark one successful Quarter of study. If you fail, the time is spent but the Myth does not improve. Successful Quarters need not be consecutive, but you must have access to a suitable source for each one.
 
-### HIDDEN MYTHS
-
-Some texts were written to conceal their truths rather than pass them on. If a Myth is hidden behind a cipher, mysterious notation, or deliberately veiled writing, each WITS roll to study it requires two ⚔️ instead of one. Rolling only one ⚔️ means that the Quarter Day is spent without progress.
-
-Myths already known can help unravel such a source. Add the highest Myth Die that bears directly on its language, symbols, authors, or subject to the WITS roll. This is an exception to the normal rule that Myth Dice augment skill rolls. You must still be able to read the language beneath the cipher. A sage with **Teacher** Rank 1 removes this roll only if the sage already knows the hidden Myth and teaches it from their own understanding; simply helping with an undeciphered text is not enough.
-
 | Successful Quarters | Myth Die | Typical Sage Fee for Each Quarter |
 | --- | --- | --- |
 | 1 | D6 | 1 silver |
 | 2 | D8 | 3 silver |
 | 3 | D10 | - |
 | 4 | D12 | - |
+
+### HIDDEN MYTHS
+
+Some texts were written to conceal their truths rather than pass them on. If a Myth is hidden behind a cipher, mysterious notation, or deliberately veiled writing, each WITS roll to study it requires two ⚔️ instead of one. Rolling only one ⚔️ means that the Quarter Day is spent without progress.
+
+Myths already known can help unravel such a source. Add the highest Myth Die that bears directly on its language, symbols, authors, or subject to the WITS roll. This is an exception to the normal rule that Myth Dice augment skill rolls. You must still be able to read the language beneath the cipher. A sage with **Teacher** Rank 1 removes this roll only if the sage already knows the hidden Myth and teaches it from their own understanding; simply helping with an undeciphered text is not enough.
