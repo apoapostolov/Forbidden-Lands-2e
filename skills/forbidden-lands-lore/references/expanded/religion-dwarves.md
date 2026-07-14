@@ -491,6 +491,140 @@ depend on fixed measures. Rust Brothers imitate the language of iron while
 neglecting sound metal. Dwarves notice that rust removes material. Calling the
 loss holy does not restore the section.
 
+## Temple Stores, Tithes, and the Price of Sound Work
+
+A shrine to Huge consumes tools, fuel, light, shelf space, trained inspection,
+and time taken from other work. These costs are entered openly. A priest who
+calls maintenance devotion while leaving another crew to supply it has made
+their worship compulsory.
+
+Tithes are commonly paid in measured labor, usable scrap, lamp fuel, records,
+or access to a skilled hand. Coin is accepted where it can purchase material.
+An ornamental gift that cannot be used or sold may be returned with its weight
+and the name of the task that weight could have supplied.
+
+At **Opening the Store**, keepers place a sample from each class of material on
+the bench and read the quantity held behind it. Guild and household witnesses
+may inspect the scales. Sacred property hidden from count attracts exactly the
+theft and favoritism its holiness is supposed to prevent.
+
+Shrine loans carry a repair mark. A household may borrow a tool, brace, lamp, or
+reserve of iron and return use rather than the same object. If the loan saved a
+roof, the household owes work on another roof. Interest that grows while a
+borrower performs necessary maintenance is condemned as a measure detached from
+load.
+
+The poorest dwarves often give the most expensive tithe because they contribute
+their own shifts. Wealthy masters donate surplus material and retain their time.
+Reformers demand that every clan count fatigue, injury, and lost household work
+beside stone and metal.
+
+## Law, Contract, and the Inspection of Power
+
+Dwarven contracts name material, measure, delivery, maintenance, acceptable
+fault, witness, and the condition that closes the work. Affection and honor may
+support the promise. They do not replace the section that tells a widow who must
+repair the wall.
+
+At **Reading against the Grain**, a contract is read by someone expected to
+oppose it: a rival guild, future maintainer, downstream household, or clan that
+must cross the structure. The reader looks for a load assigned to a person who
+never consented.
+
+Kings command large works and can hide political desire inside Huge's plan. A
+road to a royal mine may be preached as World Expansion while village drains
+collapse. The crews maintaining both are the first religious opposition. Their
+refusal stops matter from moving.
+
+Guild secrecy protects dangerous craft and guild price. The two motives are
+often mixed. At **The Sealed Limit**, a master withholding a method must disclose
+what kind of failure the missing knowledge prevents. The listener receives no
+technique, but can challenge a secret whose only named danger is competition.
+
+A judgment is considered unfinished until an inspector can find it in the work.
+Compensation paid without a repair mark settles property and leaves future hands
+ignorant. A public sentence without supplied material is a speech beside a crack.
+
+## Stone Singing, Golems, and the Loose Tongue
+
+Stone Singers work where religion, craft, and sorcery cannot be separated. They
+hear faults, shape rock, read buried spaces, and preserve techniques ordinary
+masons cannot test. Their authority is strongest underground and most dangerous
+where no second singer can dispute the hearing.
+
+At **Answering the Wall**, one singer describes what the stone says. A second
+names the tool marks, moisture, weight, and ordinary cause that could produce
+the same sign. Magic is accepted after craft has had its hearing.
+
+Greater golems bear the old rune for traitor and recall Belial the Loose-Tongued.
+To make a body into permanent guard is punishment, construction, and warning.
+Dwarven theologians dispute whether the continuing mind serves Huge, suffers
+without end, or has become an office no longer identical with the condemned
+person.
+
+At a golem station, the keeper records every command attempted and every change
+in response. A silent guardian is still a worker under load. Treating it as an
+object lets rulers alter instructions without accepting liability for the dead
+at the gate.
+
+The story of Belial is used to forbid teaching humans and elves. It is also used
+against apprentices, foreign-born dwarves, and rival clans. Critics point out
+that a secret locked so tightly no living craftsperson can repair the work has
+already served the Iron Dragon.
+
+## Outsiders, Adoption, and Work under Huge
+
+Huge made dwarves for the World Expansion. Whether another kin can enter that
+calling remains disputed. Most halls let outsiders work, fewer let them witness
+measure, and fewer still let them dedicate a foundation.
+
+At **Taking a Foreign Tool**, a non-dwarf presents one completed work and one
+failure. Dwarven judges inspect both without asking which god the worker named.
+Acceptance grants standing within that craft and site, not a claim of dwarven
+rebirth.
+
+Human and ogre children raised in dwarven halls expose the limits of reincarnation
+doctrine. A gifted child may be called a returning dwarf when the claim secures
+labor or inheritance. The same hall may call an injured child foreign when care
+becomes expensive.
+
+Orc work carries the old history of service. A contract cannot be called free
+when the orc's only alternative is hunger inside dwarven territory. Some guilds
+require an orc witness and a stated release date. Others preserve slavery through
+apprenticeship terms no one expects to end.
+
+Elven makers approach form through living change rather than fixed measure. Joint
+work requires agreement about what may grow. A dwarven support that allows no
+root movement and an elven planting that lifts every course are both refusals to
+share maintenance.
+
+## The Blood Mist and the Interrupted Expansion
+
+The Blood Mist isolated surface works from holds, quarries, guild courts, and
+the crews named to maintain them. Canides carried duties no underground ruler
+could inspect. Meromannians lost roads to already lost works. Crombe custody
+hardened because every sealed gate could hide death after dusk.
+
+At **Reopening the Account**, a returning clan does not begin with title. It
+inspects who cleared drains, replaced stone, guarded tools, buried workers, and
+fed the keepers during isolation. Earlier ownership is then read beside performed
+maintenance.
+
+Many useless foundations gained new uses. Humans built on them. Wolfkin marked
+refuge beside them. Roots split and stabilized different courses. A dwarf may
+call the alteration damage and still need the current inhabitants to explain why
+the wall remains standing.
+
+The Mist also interrupted reincarnation claims. Children born in isolated halls
+were identified without distant singers or clan records. When the roads opened,
+several adults discovered that another hold had assigned the same returning
+ancestor to someone else. Political office could not pass to both.
+
+At **Joining the Broken Shift**, crews from both sides of a reopened route place
+their last separate repair marks beside the first joint one. The older plan is
+read aloud. Any part no longer useful remains in the record rather than being
+obeyed out of embarrassment.
+
 ## Evidence at the Table
 
 Show dwarven belief through a plumb line hung beside a shrine, a repair dated

@@ -456,6 +456,136 @@ find the chamber from which their ancestors were commanded and use it as a
 court. Elves may call the same place stolen heritage. The religious issue is
 whose labor and loss kept the place meaningful while its builders were absent.
 
+## Enslaved Orcs and Religion beneath Command
+
+Half the male population may live under slave status in clans that define fear
+or surrender as permanent loss of standing. Their religion cannot be read only
+from the chiefs who own their labor.
+
+Enslaved orcs keep small accounts in work rhythm, tool placement, scars covered
+by clothing, and portions shared after the recognized distribution. A master may
+own the public song and remain unable to tell why every slave strikes the third
+blow softly.
+
+At **The Hand Still Held**, an enslaved person names one duty that did not end
+with status: a child, wounded companion, dead sibling, hidden teacher, or refuge
+warning. Another person accepts witness. The act preserves moral standing where
+clan law has removed public standing.
+
+Self-gelding may be used to quiet male rank and accept slavery. The act can end
+challenge and reduce violence. It can also make mutilation look like consent to
+a status imposed under defeat. Female keepers disagree over whether the person
+enters another social category or remains a wronged male denied return.
+
+Release requires more than a master's word. A weapon, food share, sleeping place,
+and right to refuse challenge must be recognized before witnesses. An orc freed
+at the camp edge without these protections can be enslaved again at the first
+insult.
+
+Some Viraga free useful people and recruit them. Others exploit the absence of
+male standing to gain informants no chief will notice. Rescue can become a new
+secret command.
+
+## Children, Discipline, and the First Tusks
+
+Young male orcs can pronounce sounds their adult tusks will later obstruct. Many
+clans punish them for speaking human words, fearing softness, mockery, or foreign
+influence. The beating teaches kin speech and destroys knowledge the clan may
+later abduct a translator to recover.
+
+At **The Changing Mouth**, the child says their household name before the tusks
+settle, then chooses a form companions can call afterward. A keeper records any
+foreign name the adult may need but does not force it into public use.
+
+Female children are few and heavily guarded. Protection brings better food,
+teaching, and constant political attention. A girl's preference can be treated
+as clan property before she understands the alliances arranged around her.
+
+Litters produce harsh judgments about strength. Weak infants may be killed where
+resources and custom permit. Other clans foster, trade, or devote them to guarded
+work. Religion supplies arguments to every practice: mercy to the clan, respect
+for life that stayed, or refusal to waste food on a body unlikely to carry duty.
+
+Children witness duel and rank early. At **Stopping the Blow**, an adult teaching
+with blunt weapons must end the exercise when the child gives the agreed sign.
+Ignoring it teaches that surrender has no law and makes every later contest a
+fight to death.
+
+## Song, Dream, and the Unreliable Ancestor
+
+Orc song preserves command, insult, route, defeat, and the names public leaders
+wish remembered. A song's survival proves repetition, not accuracy. Women and
+enslaved workers often keep the missing verse.
+
+At **Singing the Other Place**, a performer repeats a known battle song from the
+position of the rear guard, camp keeper, captive, or abandoned wounded. The
+alternate voice may not change the outcome. It changes whose labor made the
+victory possible.
+
+Dreams carry authority unevenly. Hroka follows dreams shaped through an elven
+ruby without knowing it. Roka distrust a command received in sleep because no
+subordinate could repeat it back. Isir accept dreams after venom trials and
+often confuse bodily poison with proof.
+
+Viraga cultivate dreams through plants, suggestion, and controlled information.
+They know that a dream can guide a ruler more safely than an order spoken by a
+woman he refuses to obey. Their success makes the ruler's inner life another
+place held by the network.
+
+An ancestor appearing in dream must name an act not already known to the sleeper
+before receiving ritual weight. Even then, elders inspect whether a living person
+benefits from the message. The dead are difficult to question and easy to recruit.
+
+## Internal Pilgrimage and the Meeting of Clans
+
+Orcs travel to battle stones, abandoned camps, poison grounds, fox paths, and
+fortresses taken from elder kin. No destination belongs equally to all clans.
+Pilgrimage can therefore create encounter without creating unity.
+
+At **The Four Campfires**, visiting groups keep separate fires around one neutral
+ground. Each brings food it can afford to lose and one unresolved command. The
+commands are heard before challenge. A fight afterward does not erase what the
+other clans learned.
+
+Urhur delegations arrive with titles and gifts. Roka inspect exits and count
+armed people. Isir test the surrounding ground for prey and insult. Viraga may
+have arranged the meeting while appearing only as wives, healers, or captives.
+
+Drifters use gatherings to request return, find relatives, sell routes, and learn
+which chiefs intend to call them traitors. Their band-made ancestors offend clan
+keepers because they prove continued choice can compete with birth.
+
+A pilgrimage site controlled by one clan becomes toll, hostage ground, and
+source of doctrine. The best-known sites retain several approaches so no single
+gatekeeper can turn remembrance into ownership.
+
+## Speech, Translation, and Names before Strangers
+
+Adult male tusks limit some human sounds. A visitor who offers only a name the
+speaker cannot pronounce has made every later address a small humiliation. Orc
+hosts may shorten it without asking. Wise envoys offer a usable form themselves.
+
+At **Giving the Camp Name**, a foreigner states the name by which they can be
+warned, fed, challenged, and called from danger. The name lasts for the visit.
+Taking it into mockery or debt afterward exceeds the permission.
+
+Female interpreters often carry the foreign words public men claim to despise.
+This gives them power over treaty and insult. A chief may punish an accurate
+translation because it exposes his ignorance, then discover that no one else can
+read the reply.
+
+Written agreements are sounded by more than one mouth. The second reader should
+come from a different interest: keeper against chief, slave against owner, or
+host against guest. Agreement in marks does not prove agreement in terms.
+
+An ancestor's name may become impossible to pronounce after injury or tusk
+growth. Changing its spoken form does not change the act attached to it. Orc
+religion protects the carried duty more strongly than the exact foreign sound.
+
+Viraga names containing forbidden sounds make hidden authority audible among
+women and difficult for males to repeat. The practice resists male control and
+can exclude the very workers expected to obey an order they cannot name.
+
 ## Fault, Repair, and Anathema
 
 An orc who fails a duty can repair standing through replacement labor, public

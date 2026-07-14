@@ -455,6 +455,162 @@ Orcs remember service imposed by elves and dwarves. An Elvenspring envoy who
 speaks for elder kin inherits that suspicion. Claiming mixed descent as proof
 of neutrality avoids the history rather than answering it.
 
+## Land Powers and the Places between Churches
+
+Elvenspring venerate local powers that have no order, scripture, or agreed body.
+A hill that turns wind, a spring used in difficult births, a stand of trees that
+survived the Mist, or an animal returning at the same season may receive duty
+before anyone decides whether a god inhabits it.
+
+At **Learning the Place**, a newcomer spends one season doing the work attached
+to the site before offering interpretation. They clear the spring, watch the
+flood, tend the path, or count the returning animals. A priest who names the
+spirit on arrival has described their own education.
+
+Offerings answer use. Water is carried away from a flooded path. A cut tree is
+replaced where it can live. The first fruit may be left for seed or animals. A
+gift that makes the place poorer in order to impress it is regarded as confused.
+
+Local powers create narrow jurisdictions. A ford-keeper may settle passage and
+have no standing over marriage. A birth spring may protect a laboring stranger
+without giving its keeper a claim to the child. Human churches often attempt to
+join these small offices under one priest. Druidic orders may do the same under
+one survey.
+
+When a place changes beyond recognition, worship can end. At **Releasing the
+Site**, keepers name what relation has ceased, remove objects still useful to the
+living, and leave one mark of the old practice. Continuing every rite after the
+spring is dry turns memory into a claim on absent water.
+
+## Sacred Time and the Three Calendars
+
+Elvenspring households live by mortal work, druidic season, and elven return.
+The first counts days until sowing or rent. The second follows growth, migration,
+water, and culling. The third may wait for a star, remembered visitor, or body
+restored after decades.
+
+At **Laying the Three Measures**, the household places a perishable object, a
+seasonal object, and a durable mark together. Each receives one present duty.
+When the first decays, its work must be done or reassigned. The tablet cannot be
+used to postpone the bread.
+
+Orders keep long surveys. Villages keep short weather and food accounts. An
+Elvenspring mediator compares them at each seasonal turn. The work catches slow
+soil loss that a farmer cannot see and immediate hunger that a century map does
+not show.
+
+Birthdays carry more weight among Elvenspring than elves because aging cannot
+be restored. Some orders disdain the count as human vanity. Families answer that
+the body has kept a true account even if an immortal teacher finds the number
+small.
+
+The Red Wanderer's passage may be marked with elven kin. The Elvenspring adds
+the names of people who died since the last observation. An elf may remember the
+prior sky. The list records what changed beneath it.
+
+## Healing, Birth, and Changed Bodies
+
+Elvenspring healers combine plant craft, clean water, splint, stitch, prayer,
+shifting magic, and household knowledge. No method receives trust merely because
+it is natural. Poison grows. Infection is natural. Skill is shown in outcome and
+in the risks named beforehand.
+
+At **The Open Figure**, an unfired clay body receives marks for the known wound
+and gaps for what remains uncertain. Patient, healer, and household witness can
+add a mark. The figure is kept damp until treatment ends. Firing it without the
+patient's consent turns a working record into a permanent story about their body.
+
+Birth joins Clay's shaping to Raven witness and local women who know the actual
+work. Orders sometimes claim a gifted child before the parent has recovered.
+Village practice delays any religious placement until the person who gave birth
+can sit, eat, and answer without a senior druid in the room.
+
+Shifting magic creates hard consent. A dying patient may accept a form they would
+refuse under less need. The healer records which changes were necessary, which
+were chosen, and which can be reversed. Gratitude does not transfer authorship of
+the surviving body.
+
+Misgrown people expose the orders' limits. Maidens recognize hostile demonic
+work and may still speak over the person living inside it. Village druids are
+more likely to ask which limb hurts, what work remains possible, and whom the
+marked person trusts near sleep.
+
+## Mediation, Witness, and Divided Jurisdiction
+
+Elvenspring are often asked to translate human urgency into elven hearing. The
+role brings access and blame. If the council delays, the village calls the
+mediator an elf. If the council acts quickly and errs, elves call them governed
+by mortal panic.
+
+At **The Two Accounts**, each party states the same dispute in the time of the
+other. The elf must name what happens before one human winter. The human must
+name what descendants inherit after the present need. The mediator then records
+where each account remains unable to answer the other.
+
+Witnesses are chosen for consequence as well as sight. A woodcutter who did not
+see the old vow may know what the closed grove costs now. An elf who heard the
+vow may not have visited since. A ruling that hears only origin gives memory
+ownership of the present.
+
+Elvenspring judges prefer remedies with several dates: immediate food or safety,
+a seasonal repair, and a later inspection. This fits their religious measure and
+creates work future keepers may refuse. Every judgment therefore names who may
+end or alter it.
+
+Mixed jurisdiction can protect the weak by giving them another authority to
+approach. It can also let every authority send them elsewhere. A pregnant human
+at a druidic shrine, an orc apprentice under Raven oath, or a Misgrown patient in
+a Maiden camp may discover that everyone claims principle and no one supplies a
+bed.
+
+## Property, Gifts, and the Work of Stewardship
+
+Orders rarely call land property. They speak of custody, survey, protection, and
+living claim. Mortal households notice that these words still decide who may cut
+wood, graze animals, build, inherit, and remain.
+
+At **Handing the Care**, the outgoing keeper gives the successor tools, records,
+known dangers, and the names of people relying on the place. A title without
+these burdens is ceremonial theft. The recipient may refuse after inspecting
+the condition.
+
+Gifts from elves can exceed mortal ability to repay. A rare seed, living tool,
+or century of instruction may create dependence disguised as generosity. The
+Elvenspring recipient asks what the giver expects before witnesses die.
+
+Human coin is accepted where labor, medicine, travel, or supplies require it.
+Golden Bough teachers may condemn payment while depending on village food. A
+clear wage can protect both parties better than noble talk about shared purpose.
+
+Shard, Maha tablet, healer's kit, survey, and sacred vessel belong to different
+claims. An order may own the shard's custody, a village the vessel it supplied,
+an apprentice the tools personally made, and a patient the record of their body.
+Calling everything temple property erases those hands.
+
+## The Blood Mist and the Reopening of Duties
+
+The Blood Mist cut teachers from students, orders from village circles, and
+elven parents from mortal descendants. Local druids acquired full authority
+because distant correction could not arrive before dark. Some kept communities
+alive. Some made preference into doctrine.
+
+Long survey routes collapsed into short loops. Records continued at both ends
+and described different forests under the same name. When the Mist lifted, each
+order called its own line continuous. The trees did not settle the dispute.
+
+At **Splicing the Years**, keepers place the separated records side by side.
+Contradictory entries remain visible. People who performed the work during
+isolation speak before the order that preserved the older title.
+
+Elvenspring who crossed reopened roads often met elven relatives unchanged in
+body and unchanged in expectation. The mortal descendant had inherited debts,
+offices, and graves the elf still considered temporary. Reunion could resemble
+an inspection.
+
+The open land also strengthened Frailers. They offered quick power, messages,
+and protection before formal orders rebuilt their reach. Condemning the bargain
+afterward does not answer why desperate settlements found the Frailer first.
+
 ## Fault, Repair, and Anathema
 
 Repair must fit the injured party's time. Replanting a tree is insufficient if

@@ -70,7 +70,7 @@ From `1.0.0` through `1.1.3`, this edition brings together the additions that tu
 
 ## AI and campaign work
 
-This repository is built so a GM, designer, or AI agent can do more than read it. The `forbidden-lands-*` skills are meant to help you understand the line, create new material in the same register, and keep your own campaign repository consistent.
+This repository is built so a GM, designer, or AI agent can do more than read it. The `forbidden-lands-*` skills are meant to help you understand the line, create new material in the same register, and keep your own campaign repository consistent. The lore skill also preserves Apostol Apostolov's custom-expanded campaign corpus while distinguishing it from published canon.
 
 ### Install the Forbidden Lands skills in another repository
 

@@ -502,6 +502,139 @@ Rust threatens rubies through seizure, experiment, doctrine, and the practical
 power to hold a stone after destroying its body. Elven hostility is therefore
 theological and immediate.
 
+## Sacred Time, Return, and the Moving Star
+
+Elves keep several calendars without forcing them into one cycle. Trees, birds,
+water, mortal settlements, restored bodies, and the Red Wanderer each change at
+a different rate. A date matters through the thing observed and the witness who
+can recognize its return.
+
+At **Marking the Red Passage**, observers record the Wanderer's position against
+branch, ridge, tower, or cut stone. The next observation includes every change
+in the marker. A tree grew. A tower fell. The star moved. The rite refuses to
+make the sky the only stable party.
+
+Stillelves may celebrate one flowering after decades of silence. Redrunners
+keep shorter rendezvous because routes and enemies cannot wait upon elven mood.
+Melders follow hatchings, fruit, pigment, and the emergence of insects. None of
+these observances becomes a kin-wide holy day unless enough elves choose to
+arrive.
+
+At **The Returning Body**, an elf restored after long disembodiment revisits a
+place known in the former flesh. Companions name changes before the elf touches
+old property or resumes office. Restoration returns a person, not every claim
+that continued in their absence.
+
+The Blood Mist made mortal seasons more authoritative. An elf who could once
+return after twenty years found roads cut, villages isolated, and witnesses
+dead. Some learned to keep appointments by harvest and thaw. Others withdrew
+and called the loss temporary until the Mist lifted generations later.
+
+## Sacred Materials, Gifts, and Custody
+
+Ruby, living wood, clay, water, feathers, seeds, and worked bodies can all carry
+religious claims. Elves distrust sacrifice that destroys a useful living thing
+for display. They accept costly gifts when the recipient, place, or future work
+can use them.
+
+An offering to an Ent may be soil carried from a damaged grove, a tool left for
+mortal keepers, or labor clearing water from roots. Flowers placed without
+asking can introduce disease or seed. Reverence does not excuse poor botany.
+
+At **The Gift That Can Refuse**, a living plant, animal, student, or transformed
+body is never presented as an object. The giver states what was prepared. The
+receiver states whether care is accepted. The being at the center retains its
+own refusal where it can express one.
+
+Recovered rubies are held under witnessed custody rather than awarded as spoil.
+A Redrunner who carried a stone through danger has a claim to hearing and
+compensation, not ownership of the elf within. Human courts often misread this
+distinction because rescue usually creates debt.
+
+Druidic orders accumulate gardens, paths, Maha tablets, remedies, safe houses,
+and hidden rubies. Stewardship gives them real costs and real power. An order
+can call refusal to surrender property protection of life. Its opponents can
+ask why the same custodians have held the object for two hundred years.
+
+## Council, Testimony, and Decisions That Take Too Long
+
+Elven council begins when people with relevant memory, craft, custody, and
+consequence agree to remain in one place. There is no fixed number. Gathering
+the perfect witnesses can delay judgment until the question has changed.
+
+At **The Short Hearing**, a mortal claimant may demand that the council decide
+what must happen before the next harvest, birth, winter, or military movement.
+The judgment is provisional but binding for that interval. Older elves dislike
+the procedure because urgency can harden error. Elvenspring defend it because
+delay can harden power more quietly.
+
+Memory testimony is given with the body in which the event was experienced when
+possible. An elf restored in another form names the gap. Smell, height, hearing,
+and bodily danger change what a witness noticed. This does not invalidate the
+memory. It places edges around it.
+
+At **The Contrary Walk**, a council visits the place with a guide who opposes
+the expected judgment. The guide chooses the route and what evidence receives
+attention. Councillors need not agree afterward. Refusal to walk is entered as
+part of the decision.
+
+An elf can abstain for decades. Property, custody, and vulnerable bodies cannot.
+When no consensus forms, the people maintaining the disputed thing gain authority
+by continued work. Philosophical patience may therefore transfer a shrine,
+forest, or ruby chamber to its keepers without any vote.
+
+## Teaching, Adoption, and Outsiders inside Elven Practice
+
+Elven teaching is long, intimate, and easy to confuse with ownership. A teacher
+may remember every form a student wore and still fail to notice that the student
+has outgrown the relation.
+
+At **Breaking the Lesson**, the student rejects one instruction before witnesses
+and demonstrates the alternative. The teacher must name the danger rather than
+invoke age. Failure may prove the old method sound. It may also prove that
+permission to disagree was only ceremonial.
+
+Humans, orcs, dwarves, and wolfkin can enter particular practices without
+becoming elven. A human may keep a survey route. An orc may witness the return
+of a ruby taken from an elder fort. A dwarf may build a chamber whose stone does
+not claim ownership of what it holds. These relations remain political.
+
+Adoption by an elf provides teaching, shelter, and a witness who may outlive
+every earlier relation. It can also freeze the adopted person's childhood. At
+**Naming the Mortal Measure**, the adoptee states which kin's law governs adult
+standing, partnership, property, and burial. The elven teacher cannot postpone
+those transitions by saying the student remains young.
+
+Knowledge given to outsiders is judged by capacity and consequence. Belial's
+story teaches dwarves that disclosure itself may betray. Elves more often ask
+whether the recipient can care for what follows. Both traditions are tempted to
+use responsibility as a reason never to share power.
+
+## The Mist, Isolation, and Religious Recovery
+
+The Blood Mist divided routes, druidic surveys, ruby recovery, and the slow
+conversations by which elves maintained relation across distance. Immortal
+memory did not replace current information. It preserved obsolete paths with
+unusual confidence.
+
+Some rubies lay within a day's travel and remained unreachable after dusk. Their
+custodians developed local restoration or kept watch for generations. When
+Redrunners arrived after the lifting, they sometimes treated those custodians
+as thieves. The custodians remembered every winter in which no elf came.
+
+At **Joining the Broken Survey**, two keepers walk from opposite ends of a route
+and meet where their records first disagree. They do not average the accounts.
+They inspect what caused the divergence: Mist, felling, settlement, flood,
+disease, or deliberate concealment.
+
+Orders reopened claims to forests that mortal villages had maintained throughout
+isolation. A Golden Bough tablet may prove an older duty. It does not prove that
+the people who performed the duty without support owe immediate surrender.
+
+The lifted Mist is therefore a religious crisis of return. Elves can recover
+stones, teachers, paths, and places. They cannot recover the authority that
+absence allowed others to build without asking what that authority protected.
+
 ## Fault, Repair, and Anathema
 
 Repair must restore agency as well as material. Return the ruby. Disclose every

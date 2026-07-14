@@ -95,13 +95,13 @@ author decisions.
 
 ## Custom Expanded Lore
 
-The library in `references/expanded/` is the user's generic, custom-expanded
-lore corpus. It was created by a professional Game Master preparing and running
-an enlarged Forbidden Lands campaign. It is not limited to a single published
-campaign, even where inherited document titles refer to the Ravenlands. The
-files mix published canon, manuscript facts, grounded setting inference, local
-or contested belief, historical models, community theory, and personal
-campaign lore.
+The library in `references/expanded/` is Apostol Apostolov's generic,
+custom-expanded lore corpus. It was created by Apostol Apostolov as a
+professional Game Master preparing and running an enlarged Forbidden Lands
+campaign. It is not limited to a single published campaign, even where inherited
+document titles refer to the Ravenlands. The files mix published canon,
+manuscript facts, grounded setting inference, local or contested belief,
+historical models, community theory, and personal campaign lore.
 
 Treat established personal lore as authoritative for this campaign without
 calling it Free League canon. Preserve its depth, detail, and writing voice.
@@ -118,6 +118,13 @@ level applies.
 - `references/expanded/psychology-and-social-character.md`
   Blood Mist conditioning, trust, kin identity, grief, trauma, magic, and
   recovery.
+- `references/expanded/demons-mog-churmog-and-merigall.md`
+  Full-spoiler GM study of demons across Books 01–03 and **Raven's Purge**.
+  Covers mog and Churmog metaphysics, ether and nexuses, demon families,
+  hierarchy, concealment, inter-demon politics, field investigation, parley,
+  contracts, binding, banishment, discoverable weaknesses, community theories,
+  and an extensive operational profile of Merigall. Apply the spoiler gate
+  before loading or revealing it.
 - `references/expanded/religions-rites-beliefs-and-anathemas.md`
   Cross-kin religion routing, claim levels, common questions, and the
   equal-depth standard.
@@ -168,21 +175,11 @@ artifact powers, and outcome paths.
   Stoneloom Mines, Haggler's House, Vond), all four campaign
   artifacts, and the full range of campaign outcomes.
 
-- `references/campaigns/demons-mog-churmog-and-merigall.md`
-  Full-spoiler GM study of demons across Books 01–03 and
-  **Raven's Purge**. Covers mog and Churmog metaphysics,
-  ether and nexuses, demon families, hierarchy, concealment,
-  inter-demon politics, field investigation, parley, contracts,
-  binding, banishment, discoverable weaknesses, community theories,
-  and an extensive operational profile of Merigall covering psychology,
-  mannerisms, bounded appearances, campaign roles, public exposure,
-  counterplay, and defeat. Load it for demonology, demonic magic, mog,
-  Churmog, the Demon Flood, or Merigall.
-
 ### Spoiler Handling Protocol
 
 **Before reading any section marked ⚠️ SPOILER or SPOILER SECTION
-in a campaign file, stop and ask the user:**
+in a campaign file, or before loading the expanded demonology study, stop and
+ask the user:**
 
 > _"This content contains major campaign spoilers for [Campaign
 > Name]. Do you want me to proceed with spoiler content?"_

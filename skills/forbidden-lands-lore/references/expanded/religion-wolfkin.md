@@ -510,6 +510,76 @@ At **The First Uncovered Sleep**, a pack camps where no canopy stands. Watches
 overlap. Bedding is placed close enough to touch. No one is mocked for returning
 to the tree line before dawn. Success gives a route, not a cure.
 
+## Dream, Scent Memory, and False Quarry
+
+Wolfkin dreams are judged after waking movement. The sleeper walks the camp
+boundary, smells familiar people, drinks, and reports what remains. A dream that
+vanishes under known scent receives no hunt.
+
+At **The Waking Track**, another member lays a short path containing one true
+sign and one misleading sign. The dreamer follows until they can name which is
+which. The test prevents a vivid night image from becoming immediate command.
+
+Mushrooms, fever, blood loss, solitude, and demonic influence can make a quarry
+feel chosen. Pack law requires a second nose before pursuit across a boundary.
+A leader who exempts their own visions has made appetite into revelation.
+
+The dead may appear through remembered scent before image. Packs do not assume
+every such dream is a visitor. Grief repeats bedding, wound, smoke, and last food
+with great accuracy. The distinction matters less when the dream asks only for a
+grave path repaired. It matters greatly when it names someone to kill.
+
+Rust Sisters sometimes offer interpretation of Heme dreams. Their knowledge of
+drug, disease, and blood can be useful. Their conclusion usually moves authority
+toward the church. Packs let them examine the sleeper and keep them away from
+the boundary decision.
+
+## Strangers, Fostered Outsiders, and Pack Speech
+
+Another kin can live with a pack without becoming wolfkin. Acceptance concerns
+sleep, food, warning, boundary, and the right to be sought when missing. Body
+does not need to change for these duties to become real.
+
+At **Learning the Answer**, the outsider is given a call distinct from alarm,
+prey, and challenge. They must answer from beyond sight and recognize the pack's
+reply. A person who cannot howl may use whistle, horn, struck wood, or a spoken
+name.
+
+Outsiders rarely read scent well enough to know when a private warning has been
+given. The pack must translate boundaries it expects the guest to obey. Punishing
+an unsmelled violation preserves superiority rather than safety.
+
+Humans fostered after childhood may value walls and solitary sleep. Forcing them
+into the common ring can make pack care resemble captivity. A small sleeping
+distance is permitted when sound and watch still connect it.
+
+An outsider who leaves may retain foster claim for one winter, route, or stated
+danger. Keeping it forever would let every former guest enter a birthing refuge.
+Ending it requires a final food division and return of the guest scent.
+
+## Judgment without a Court
+
+Pack judgment happens where consequence can be smelled and shown. Spoiled meat,
+broken cover, frightened cub, false boundary, and an absent member are brought
+before speech whenever possible.
+
+At **Walking the Harm**, offender and injured members follow the route of the
+act. They stop where another choice remained possible. The pack then assigns
+repair from that point rather than demanding pain at the final scene.
+
+Challenge settles standing only when standing caused the dispute. It cannot
+replace food, restore a refuge, heal a cub, or call back someone driven into
+solitude. Strong leaders prefer challenge because they can win it once and avoid
+a season of work.
+
+Expulsion requires another pack, escorted route, or an explicit judgment that
+the sentence risks hunt-madness. Naming the danger does not make the sentence
+just. It prevents later claim that the pack merely asked the offender to leave.
+
+Forgiveness is shown by resumed proximity. The repaired member receives food
+inside the circle, a watch partner, or permission to answer the pack call. A
+speech of pardon without these acts leaves the exclusion intact.
+
 ## Anathema and Repair
 
 Repair begins with restoring what the act removed: food, safe route, shelter,

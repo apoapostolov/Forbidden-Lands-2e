@@ -468,6 +468,129 @@ village may have built a wall over it. An orc clan may use it as a refuge sign.
 The goblins must decide whether return restores ownership or begins a new
 bargain.
 
+## Masks, Story, and the Ownership of a Face
+
+Goblin masks protect eyes, break recognition, mock authority, and let one speaker
+carry several roles. A mask is not a second person by itself. Responsibility
+follows the acts witnesses can attach to the wearer.
+
+At **Passing the Face**, a mask used in judgment, trade, or ritual is handed to
+another band member. The new wearer repeats one earlier decision and may reject
+one. Office continues without pretending that every mouth beneath it agrees.
+
+Some masks copy human, halfling, or orc features. The imitation can ridicule the
+powerful or prepare a courier to deceive them. Wearing the face of a known dead
+person before their kin is a grave challenge unless the family invited the act.
+
+Stories are told with claim attached. The speaker names whether they saw, heard,
+stole, guessed, or inherited the account. A good performance may blur these
+origins for pleasure. A route or cradle decision cannot.
+
+At **The Missing Boast**, listeners stop a returning hunter before the greatest
+deed. Another person describes the cost: arrow spent, wolf lamed, enemy warned,
+friend left behind. The hunter then completes the story with that cost inside it.
+
+Children learn deception by finding which part of a familiar tale has changed.
+The teacher must reveal the change before sleep. Leaving a child to act on a
+dangerous falsehood turns instruction into abandonment.
+
+## Sorcery, Demons, and Bargains with Things That Lie Better
+
+Goblins respect effective magic and distrust anyone who claims its price fell
+elsewhere. A spell that saves the band may still have marked a route, summoned a
+debt, or spent something the caster did not own.
+
+At **Showing the Empty Hand**, a sorcerer states what was used, what remains, and
+what sign may indicate an unseen cost. The band does not demand every secret of
+the craft. It demands enough warning to choose whether the caster sleeps inside
+the circle.
+
+Demons understand desire and deception without sharing goblin limits. A demon
+may keep the words of a bargain while placing every consequence on people who
+never heard it. Goblins say such a being tells a straight lie: polished, narrow,
+and made to pass through armor.
+
+Moon-shamans use false names and changing camps against demonic pursuit. The
+methods can delay a creature and expose strangers whose names were borrowed. A
+protective lie that redirects danger to an uninvolved household violates Eor's
+law as the band understands it.
+
+Demonic objects are shown to moonlight, watched in darkness, and kept away from
+wolves until their scent and effects are known. Destroying one immediately may
+release what the object held. Keeping it because it looks valuable can make the
+whole camp its wrapping.
+
+## Goblins in Settlements and Settled Worship
+
+Couriers, trackers, laborers, thieves, and wolf handlers sometimes live beside
+human or orc settlements. Their worship moves into lofts, sheds, wall gaps,
+kennels, and tavern yards where the moon can be seen without inviting a crowd.
+
+A settled goblin may keep a door claim through use rather than title. Repairing
+the hinge, sleeping beside it, and warning of danger creates standing even when
+the landlord calls the room temporary. Eviction under daylight can be a death
+sentence.
+
+At **Opening the Borrowed Night**, goblins and hosts agree which gates, roofs,
+fields, and livestock paths may be used after others sleep. The terms protect
+the settlement from surprise and the goblins from being called thieves for
+following the route they were given.
+
+Human festivals sometimes hire goblins to perform Eor's Misrule while denying
+real goblin kinship. The mask is welcome; the person must leave before morning.
+Some performers take the pay. Others use the allowed theft to recover objects
+passed from a cradle family.
+
+Settled worship creates property Eor did not forbid. A shrine accumulated through
+years of use can be lost to one landlord's key. Bands may strip every portable
+object and leave only a crescent cut where the next tenant will find it.
+
+## Kin, Gender, and Chosen Parentage
+
+Cradle exchange separates visible half-kin, not all later relation. A goblin can
+have birth ties, foster parents, wolf-kinship, band elders, halfling connections,
+and children acquired through rescue or adoption.
+
+At **Naming the Carriers**, a young person identifies who carried them from the
+cradle, through sickness, on the first journey, and back after the first failure.
+The names may include people no longer in the band. Parenthood is demonstrated
+without demanding certainty the cradle was built to deny.
+
+Band roles are less fixed by gender than halfling marriage tables, but pregnancy,
+nursing, daylight watch, and travel impose unequal bodily cost. A leader who
+calls all members free while assigning every dangerous cradle road to the same
+women has hidden hierarchy inside movement.
+
+Partnership may be brief and parenthood lasting. A departed lover can still owe
+food or route warning to a child. Jealousy under Eor does not transfer that duty
+to the new partner.
+
+A halfling parent who privately claims a goblin child can offer useful protection
+and impossible secrecy. The child may receive gifts while being denied a name in
+daylight. Goblin elders ask whether hidden affection changes the public harm.
+
+## Sacred Objects That Must Keep Moving
+
+Goblin shrines travel in masks, blue chips, stolen cups, wolf tack, story tokens,
+and objects whose former owners still care where they went. A band can leave a
+camp without leaving its whole relation to Eor behind.
+
+At **Choosing the Burden**, members decide which sacred objects deserve space
+when flight requires lighter packs. The shaman does not choose alone. A healer's
+pot or child's blanket may carry more present obligation than an old silver mask.
+
+An object left behind is placed where finder and band will tell different
+stories about it. The finder may call it treasure. The band remembers what had
+to be saved instead. Returning later does not guarantee the former claim.
+
+Fixed shrines arise at cradles and recurring camps. Their permanence is guarded
+through misleading paths rather than walls. A wall announces that something
+behind it is worth taking.
+
+Breaking a sacred object can release a claim rather than insult Eor. The pieces
+are divided among people who relied on it. Selling every piece to one collector
+recreates the ownership the breaking was meant to end.
+
 ## Fault, Repair, and Anathema
 
 Repair requires returning the object, replacing its use, warning those exposed,

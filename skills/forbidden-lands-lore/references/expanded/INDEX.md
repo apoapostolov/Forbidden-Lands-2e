@@ -3,10 +3,10 @@
 # Ravenlands Campaign Lore Index
 
 This library supports an expanded Forbidden Lands campaign prepared and run by
-the user as a professional Game Master. It mixes published canon, manuscript
-facts, historical models, setting inference, local custom, community theory,
-and personal campaign lore. It is a working setting corpus, not a claim that
-every detail appears in the published books.
+professional Game Master Apostol Apostolov. It mixes published canon,
+manuscript facts, historical models, setting inference, local custom, community
+theory, and personal campaign lore. It is a working setting corpus, not a claim
+that every detail appears in the published books.
 
 Preserve that mixture. Do not silently promote personal campaign lore to
 published canon, and do not remove, summarize, normalize, or rewrite it merely
@@ -22,6 +22,7 @@ Free League canon.
 | --- | --- |
 | Households, villages, authority, law, hospitality, kin, burial, labor, and festivals | [Society and Daily Life](society-and-daily-life.md) |
 | Blood Mist conditioning, trust, kin identity, grief, trauma, magic, and recovery | [Psychology and Social Character](psychology-and-social-character.md) |
+| Demons, mog, Churmog, binding, parley, countercraft, and Merigall's full GM profile | [Demons, Mog, Churmog, and Merigall](demons-mog-churmog-and-merigall.md) — **full campaign spoilers; apply the lore-skill spoiler gate before loading** |
 | Religion routing, claim levels, shared powers, and cross-kin practice | [Religion Reference Index](religions-rites-beliefs-and-anathemas.md) |
 | Raven and Wyrm, human churches and heresies, Older Gods, rites, dogmas, and anathemas | [Human Religions](religion-humans.md) |
 | Red Wanderer, rubies, restoration, Clay, druidic orders, and long memory | [Elven Religions](religion-elves.md) |
@@ -44,5 +45,5 @@ care, or material conditions.
 
 When a Ravenlands file links back to a generic authenticity reference, the
 generic file supplies the historical or practical baseline. The Ravenlands file
-decides how Blood Mist isolation, magic, monsters, religion, kin, and the user's
-campaign truths alter that baseline.
+decides how Blood Mist isolation, magic, monsters, religion, kin, and Apostol
+Apostolov's campaign truths alter that baseline.
