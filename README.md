@@ -35,7 +35,7 @@ The Book of Beasts is no longer just a creature list. It is a creature, encounte
 
 ## What this edition brings
 
-From `1.0.0` through `1.1.0`, this edition adds the best of the best additions that turn the project into a full second-edition line:
+From `1.0.0` through `1.1.3`, this edition brings together the additions that turn the project into a full second-edition line:
 
 - A complete three-book manuscript set: Corebook, Gamemaster's Guide, and Book of Beasts.
 - Myths learned from sages, lost tomes, and grimoires, granting a growing Myth Die for narrow fields of secret knowledge.
@@ -49,7 +49,8 @@ From `1.0.0` through `1.1.0`, this edition adds the best of the best additions t
 - A crime and punishment chapter with investigation, ordeals, sentencing, weregild, sanctuary, and outlawry.
 - A traderoad and caravan economy with cargo, markets, hazards, and route play.
 - A mercenary company system covering bands, Named Men, contracts, loyalty, camp life, and multi-band Hosts.
-- A lifepath generator that replaces thin backstory with a full pre-campaign life system.
+- A lifepath generator that replaces thin backstory with a full pre-campaign life system of childhood foundations, profession and crisis paths, advancement, wear, and unfinished business.
+- The Champion as a secondary martial calling reached through Fighter: selected on a 5–6 calling roll or offered through a GM-created formative event, with complete profession talents, formative events, and advanced lifepath tables.
 - A seventeenth magical discipline, Demonic Magic, plus new spells across the wider magic engine.
 - Path-based magical mishaps and broader magic integration clean-up.
 - Expanded tactical combat with cut-in range play, brace options, shield pressure, morale, and monster reach.
@@ -147,7 +148,7 @@ Useful workflow:
 
 The repository also includes the root support documents that make the line usable as a working reference:
 
-- `CHANGELOG.md` for the development record from `1.0.0` to `1.1.0`
+- `CHANGELOG.md` for the development record from `1.0.0` to `1.1.3`
 - `LICENSE.md` for the legal and rights framing of this unofficial repo
 - Front matter and cover files for all three books
 - Encounter, legend, and reference chapters integrated into the books themselves rather than parked in loose working notes
