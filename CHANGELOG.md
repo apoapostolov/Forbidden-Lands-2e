@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+_Nothing yet._
+
+## [1.1.4] - 2026-07-15 — "The Skills Update"
+
 ### Added
 
 - **`/forbidden-lands-writing-voice` — prose quality control.** Added a
