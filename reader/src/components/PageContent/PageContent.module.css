@@ -81,7 +81,7 @@
    Selector targets the fiction wrap as the sibling after the heading wrap
    inside the outer spanAllWrap container. */
 .spanAllWrap > .headingWrap:first-child + * {
-  margin-top: 31px;
+  margin-top: 45px;
 }
 
 .fictionAfterH2Wrap {
@@ -138,6 +138,14 @@
 .frontMatterCreditsPage :global(.body-text) {
   text-align: center;
   hyphens: none;
+}
+
+/* Page 1 is a curated two-column credits layout. Use explicit tracks so its
+   editorial split remains stable regardless of the columns' content height. */
+.frontMatterCreditsPage .columns {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-content: start;
 }
 
 /* Credits page only: push columns below the H2 decorative frame.

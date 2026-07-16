@@ -24,5 +24,11 @@ export default defineConfig({
     // Accessible on LAN for tablet testing
     host: true,
     port: 5173,
+    // Native file events are unreliable for repositories mounted through
+    // WSL at /mnt/c. Polling keeps HMR synchronized with source edits.
+    watch: {
+      usePolling: true,
+      interval: 250,
+    },
   },
 })

@@ -24,6 +24,7 @@ export interface BookReaderHandle {
 const BookReader = forwardRef<BookReaderHandle, BookReaderProps>(
   ({ bookData, currentPage, onPageChange }, ref) => {
     const { scale, singlePage } = useViewportScale()
+    const pageStep = singlePage ? 1 : 2
 
     const goToPage = useCallback(
       (page: number) => {
@@ -33,8 +34,17 @@ const BookReader = forwardRef<BookReaderHandle, BookReaderProps>(
     )
 
     const changePage = useCallback(
-      (delta: number) => goToPage(currentPage + delta),
-      [currentPage, goToPage],
+      (direction: -1 | 1) => {
+        // The cover is outside the numbered page sequence, so entering the
+        // book always begins at page 1. Once inside, advance by the number of
+        // pages currently displayed: one page or one two-page spread.
+        const nextPage =
+          currentPage < 0 && direction === 1
+            ? 0
+            : currentPage + direction * pageStep
+        goToPage(nextPage)
+      },
+      [currentPage, goToPage, pageStep],
     )
 
     useImperativeHandle(

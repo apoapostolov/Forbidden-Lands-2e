@@ -68,6 +68,10 @@ const LIST_WORDS_PER_COL_LINE = 7 // balanced safety for indented bullet lists
 const LIST_ITEM_EXTRA_PT = 2 // account for li spacing + marker rendering
 const LIST_BLOCK_EXTRA_PT = 6 // account for ul/ol margins and wrap variance
 const RENDER_SAFETY_PT = 36 // keep strict reserve without over-fragmenting pages
+// H2 artwork and optional chapter fiction span the full page width. Reserve
+// their rendered height from both columns instead of charging only the left.
+const SECTION_HEADING_RESERVE_PT = 145
+const SECTION_FICTION_MIN_RESERVE_PT = 48
 const MIN_SPLIT_LINES = 1
 const MIN_SPLIT_HEIGHT_PT = LINE_HEIGHT_PT * MIN_SPLIT_LINES
 const MIN_PARAGRAPH_ROOM_AFTER_HEADING_PT = MIN_SPLIT_HEIGHT_PT + PARA_MARGIN_PT
@@ -435,6 +439,7 @@ function paginate(chapters: { title: string; index: number; segments: Segment[] 
   let pageNumber = 1
   let colFill = 0 // pt filled in current column
   let colNum = 0 // 0 = left, 1 = right
+  let pageSpanReservePt = 0
   let currentPage: BookPage = newPage(pageNumber, chapters[0].title, 0)
 
   function flush() {
@@ -444,6 +449,7 @@ function paginate(chapters: { title: string; index: number; segments: Segment[] 
     pageNumber++
     colFill = 0
     colNum = 0
+    pageSpanReservePt = 0
   }
 
   function nextColumn() {
@@ -461,7 +467,10 @@ function paginate(chapters: { title: string; index: number; segments: Segment[] 
   }
 
   function addSegment(seg: Segment, chTitle: string, chIdx: number, nextSeg?: Segment) {
-    const effectiveColumnHeight = Math.max(0, COLUMN_HEIGHT_PT - RENDER_SAFETY_PT)
+    const effectiveColumnHeight = Math.max(
+      0,
+      COLUMN_HEIGHT_PT - RENDER_SAFETY_PT - pageSpanReservePt,
+    )
     const segGuardPt = segmentGuardPt(seg)
     const segBudgetPt = seg.heightPt + segGuardPt
 
@@ -482,6 +491,27 @@ function paginate(chapters: { title: string; index: number; segments: Segment[] 
       }
       colFill = 0
       colNum = 0
+      pageSpanReservePt = SECTION_HEADING_RESERVE_PT
+      currentPage.segments.push(seg)
+      return
+    }
+
+    // Fiction immediately following an H2 also spans both columns. Its source
+    // height is estimated at column width, so reduce it for the full-width
+    // rendering while retaining a minimum reserve for line-height and margins.
+    const previousSegment = currentPage.segments.at(-1)
+    if (
+      seg.type === 'blockquote' &&
+      previousSegment?.type === 'heading' &&
+      (previousSegment as HeadingSegment).level === 2
+    ) {
+      const fictionReservePt = Math.max(
+        SECTION_FICTION_MIN_RESERVE_PT,
+        Math.ceil(seg.heightPt * 0.58),
+      )
+      pageSpanReservePt += fictionReservePt
+      currentPage.segments.push(seg)
+      return
     }
 
     // Front-matter layout rule:
@@ -518,6 +548,20 @@ function paginate(chapters: { title: string; index: number; segments: Segment[] 
       currentPage = newPage(pageNumber, chTitle, chIdx)
       colFill = 0
       colNum = 0
+    }
+
+    // Page 1 has a curated credits spread rather than a height-driven split.
+    // Keep the production credits in the left column and begin the artwork
+    // credits in the right column, matching the intended two-column design.
+    if (
+      chIdx === 0 &&
+      pageNumber === 1 &&
+      colNum === 0 &&
+      seg.type === 'heading' &&
+      (seg as HeadingSegment).level === 3 &&
+      (seg as HeadingSegment).text === 'ILLUSTRATIONS & GRAPHICS'
+    ) {
+      nextColumn()
     }
 
     const headingFollowReservationPt =

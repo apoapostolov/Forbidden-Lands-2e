@@ -30,4 +30,19 @@ describe('generated book data', () => {
       ),
     ).toBe(true)
   })
+
+  it('starts the second credits column with the artwork credits', () => {
+    const creditsPage = bookData.pages[0]
+    const columnBreakIndex = creditsPage.segments.findIndex(
+      (segment) => segment.id === '__column_break__',
+    )
+    const secondColumnStart = creditsPage.segments[columnBreakIndex + 1]
+
+    expect(columnBreakIndex).toBeGreaterThan(0)
+    expect(secondColumnStart).toMatchObject({
+      type: 'heading',
+      level: 3,
+      text: 'ILLUSTRATIONS & GRAPHICS',
+    })
+  })
 })
