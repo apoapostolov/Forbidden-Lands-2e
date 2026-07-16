@@ -115,6 +115,38 @@ level applies.
 - `references/expanded/society-and-daily-life.md`
   Households, villages, authority, law, hospitality, kin, burial, labor, and
   festivals.
+- `references/expanded/culture-humans.md`
+  Human oath, marriage, naming, and adult duty under the Feather-and-Coil
+  tradition.
+- `references/expanded/culture-elves.md`
+  Elven birth, partnership, custody, traditions, council, teaching, and
+  adoption under ruby continuity.
+- `references/expanded/culture-elvenspring.md`
+  Mixed lifetimes, households, descent, apprenticeship, partnership, healing,
+  mediation, stewardship, and relations with other kin.
+- `references/expanded/culture-dwarves.md`
+  Stonegarden exchange, household and clan standing, apprenticeship,
+  inheritance, contract, adoption, and reopened works.
+- `references/expanded/culture-orcs.md`
+  Orc strength, weakness, lifelong muscle growth, painful aging, male sexual
+  display, indoctrination, public male rule, concealed female power, kinship,
+  adulthood, work, slavery, law, clan differences, trade and tribute,
+  individual change, and the Urhur imperial court.
+- `references/expanded/culture-halflings.md`
+  Household secrecy, intoxicants, cradle fosterage, marriage, reputation,
+  charity, old age, goblin relations, and the closed village.
+- `references/expanded/culture-goblins.md`
+  Night camps, theft law, hunting, wolves, names, partnership, healing,
+  dispute, settlement life, gender, and chosen parentage.
+- `references/expanded/culture-wolfkin.md`
+  Pack personhood, cubs, teaching, pairing, food, altered states, exile,
+  succession, territory, trade, fosterage, and judgment.
+- `references/expanded/culture-monster-kin.md`
+  Saurian, ogre, whiner, and Misgrown households, work, trade, kinship,
+  authority, captivity, care, and outsider misdescription.
+- `references/expanded/culture-rust-brothers.md`
+  Rust Brother ranks, recruitment, advancement, household occupation,
+  inquisition, selective terror, information control, and trained character.
 - `references/expanded/economy-exchange-and-stronghold-life.md`
   Hunter-gatherer and mixed subsistence, farmsteads, villages, inhabited urban
   ruins, barter, old Alder War silver, trade geography, surplus and storage,
@@ -171,30 +203,31 @@ level applies.
   Raven and Wyrm, human churches and heresies, Older Gods, rites, dogmas, and
   anathemas.
 - `references/expanded/religion-elves.md`
-  Red Wanderer, rubies, restoration, Clay, druidic orders, and long memory.
+  Red Wanderer, rubies, restoration, Clay, druidic orders, sacred time, death,
+  and anathema.
 - `references/expanded/religion-elvenspring.md`
-  Mixed descent, mortal time, Clay, Shardmaiden, orders, Frailers, and memorial
-  practice.
+  Clay, Shardmaiden, Wail, Flow, land powers, orders, Frailers, sacred time,
+  memorial practice, and anathema.
 - `references/expanded/religion-dwarves.md`
-  Huge, World Expansion, Stonegarden gatherings, reincarnation, maintenance,
-  and clan readings.
+  Huge, World Expansion, sacred work, Stonegarden observance, reincarnation,
+  clan readings, death, and anathema.
 - `references/expanded/religion-orcs.md`
-  Abandonment, the Unabandoned, command, women's authority, trial, clan
-  practice, and enslavement.
+  Abandonment, the Unabandoned, sacred command, clan practice, surrender,
+  death, shrines, song, pilgrimage, and anathema.
 - `references/expanded/religion-halflings.md`
-  Eor, cradles, marriage doctrine, childhood training, protected secrecy, and
-  Penita.
+  Eor, concealed moon practice, Penita, sacred time, death, shrines, omens,
+  and anathema.
 - `references/expanded/religion-goblins.md`
-  Eor, moon travel, changing claims, theft law, hunting status, wolves, and
-  cradles.
+  Eor, cradle faith, Penita, shamans, sacrifice, sacred objects, death,
+  dangerous bargains, and anathema.
 - `references/expanded/religion-wolfkin.md`
-  Huntress worship, pack law, forest refuge, hunt-madness, foster claim, blood,
-  and music.
+  Huntress worship, religious authority, daily observance, sacred time, death,
+  dreams, other gods, and anathema.
 - `references/expanded/religion-monster-beliefs.md`
   Saurian, ogre, whiner, and Misgrown beliefs with limits on outsider claims.
 - `references/expanded/religion-rust-brothers.md`
-  Rust and Heme ranks, rites, doctrine, anathemas, selective terror,
-  information control, settlement fear, and demonic secrecy.
+  Rust and Heme doctrine, sacramental iron, daily worship, rites, protected
+  religious knowledge, sin, penance, and anathema.
 
 ## Campaign Files
 

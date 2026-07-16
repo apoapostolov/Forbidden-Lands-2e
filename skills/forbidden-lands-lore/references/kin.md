@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD013 -->
+
 # Kin Deep Dive
 
 This file extends `setting.md` with the
@@ -478,9 +480,13 @@ Then the elves and dwarves abandoned them.
 
 Of every eight newborns, one is female and seven are male, on
 average. Half the male orcs die before maturity from internal
-violence. **Females rule the clans** because the males have poor
-judgement; this is uncontroversial within orc society and not
-advertised outside it.
+violence. **Females rule the clans**, but this campaign makes that
+rule wholly covert. Public office, command, judgment, and military
+rank belong to males, most of whom sincerely believe they rule.
+Women shape male decisions through counsel, ritual, access, and
+genealogy. A woman who exposes that power makes it challengeable
+and is chastised by other women. See [Orc Culture of the
+Ravenlands](expanded/culture-orcs.md).
 
 Rank is everything to males. Insults demand satisfaction. Scars
 are beautiful. Defeat is not dishonorable, but **surrender or
@@ -498,6 +504,12 @@ eyes** and **six to eight nipples** (the top pair largest). Anatomy
 gives strongest offspring an advantage at birth in three-to-five
 litters; weak ones are killed. Females never become slaves; they
 are killed for severe transgression.
+
+In this campaign, orcs continue gaining muscle after maturity,
+especially males. Size is sexual display and rank among younger
+males, but accumulated mass, overtraining, and old injuries make
+later life painful through damaged knees, tendons, and spines. See
+[Orc Culture of the Ravenlands](expanded/culture-orcs.md).
 
 ### Orc Language
 
@@ -535,7 +547,15 @@ Hranga Gala invented every piece of Urhur court ceremonial on the spot, telling 
 
 Hroka holds court at night in the open courtyard, only the far raised end roofed — the throne end. He extracts marrowbone with his fingers at the start of every session, wipes his hands on whatever cloth is near, then hears civil cases, watches duels, expects human jesters. His ladies-in-waiting are trained Viraga assassins. Guards on night duty nap standing. Yellow-eyed Urhur warriors hum hunting tunes through the corridors at any hour.
 
-**Hroka's exploitable weaknesses:** uncontrollable temper when contradicted in front of witnesses; absolute susceptibility to flattery; inability to endure criticism before an audience. He receives most of his political ideas from his dreams — Soria guides those dreams through the Iridne ruby without his knowledge.
+**Hroka's exploitable weakness:** chronic illness has wasted the muscle that
+should have increased with age. He is gaunt, stiff-kneed, and physically weak,
+but hides his limitations through court staging. Intelligence, cunning,
+accumulated clients, and the remembered extremity of his youthful cruelty keep
+him in power. Illness has mellowed his manner: he now uses selective pardon and
+calculated leniency where younger Hroka used spectacular punishment. He permits
+Soria to display limited control because presenting her authority as his gift
+makes the concession appear to prove his dominance. Soria continues to guide
+his dreams through the Iridne ruby without his knowledge.
 
 Isir orcs and Drifters mock the Urhur as soft. The standard insult is **'leavened bread'** — something that rises and takes its shape from what others put into it. The companion rumor, which the Isir believe and use as evidence, is that Soria is a planted human agent who passed as orc and took Hroka's ear. The rumor is false.
 The name "Urhur" comes from "purple" (a word orcs cannot

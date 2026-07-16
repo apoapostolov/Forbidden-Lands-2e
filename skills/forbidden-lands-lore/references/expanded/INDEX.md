@@ -28,6 +28,16 @@ when it is not Free League canon.
 | Need | Reference |
 | --- | --- |
 | Households, villages, authority, law, hospitality, kin, burial, labor, and festivals | [Society and Daily Life](society-and-daily-life.md) |
+| Human oath, marriage, naming, and adult duty under Feather and Coil | [Human Culture under Feather and Coil](culture-humans.md) |
+| Elven birth, partnership, traditions, council, teaching, and adoption | [Elven Culture](culture-elves.md) |
+| Elvenspring households, mixed lifetimes, descent, apprenticeship, healing, mediation, and stewardship | [Elvenspring Culture](culture-elvenspring.md) |
+| Dwarven household and clan standing, apprenticeship, inheritance, contract, adoption, and exchange | [Dwarven Culture](culture-dwarves.md) |
+| Orc strength, weakness, lifelong muscle growth, painful aging, male sexual display, indoctrination, public male rule, concealed female power, work, slavery, law, clan differences, trade, tribute, personal change, and Hroka's court and illness | [Orc Culture](culture-orcs.md) |
+| Halfling household secrecy, cradle fosterage, marriage, reputation, charity, old age, and goblin relations | [Halfling Culture](culture-halflings.md) |
+| Goblin night camps, theft law, hunting, wolves, kinship, healing, dispute, and settlement life | [Goblin Culture](culture-goblins.md) |
+| Wolfkin pack personhood, cubs, teaching, pairing, food, succession, territory, trade, and judgment | [Wolfkin Culture](culture-wolfkin.md) |
+| Saurian, ogre, whiner, and Misgrown households, work, trade, kinship, authority, captivity, and care | [Monster-Kin Cultures](culture-monster-kin.md) |
+| Rust Brother ranks, recruitment, household occupation, inquisition, selective terror, and information control | [Culture of the Rust Brothers](culture-rust-brothers.md) |
 | Subsistence, farmsteads, villages, ruin-towns, barter, old silver, trade, stronghold communities, and the lived use of every stronghold function | [Economy, Exchange, and Stronghold Life](economy-exchange-and-stronghold-life.md) |
 | Blood Mist conditioning, trust, kin identity, grief, trauma, magic, and recovery | [Psychology and Social Character](psychology-and-social-character.md) |
 | Willpower, suffering, casting metaphysics, and Rank 1–5 doctrine for every magical path | [Magic, Suffering, and the Doctrines of the Paths](magic-metaphysics-and-path-doctrines.md) |
@@ -40,14 +50,14 @@ when it is not Free League canon.
 | Religion routing, claim levels, shared powers, and cross-kin practice | [Religion Reference Index](religions-rites-beliefs-and-anathemas.md) |
 | Raven and Wyrm, human churches and heresies, Older Gods, rites, dogmas, and anathemas | [Human Religions](religion-humans.md) |
 | Red Wanderer, rubies, restoration, Clay, druidic orders, and long memory | [Elven Religions](religion-elves.md) |
-| Mixed descent, mortal time, Clay, Shardmaiden, orders, Frailers, and memorial practice | [Elvenspring Religions](religion-elvenspring.md) |
-| Huge, World Expansion, Stonegarden gatherings, reincarnation, maintenance, and clan readings | [Dwarven Religion](religion-dwarves.md) |
-| Abandonment, the Unabandoned, command, women's authority, trial, clan practice, and enslavement | [Orc Religions](religion-orcs.md) |
-| Eor, cradles, marriage doctrine, childhood training, protected secrecy, and Penita | [Halfling Religion](religion-halflings.md) |
-| Eor, moon travel, changing claims, theft law, hunting status, wolves, and cradles | [Goblin Religion](religion-goblins.md) |
-| Huntress worship, pack law, forest refuge, hunt-madness, foster claim, blood, and music | [Wolfkin Religion](religion-wolfkin.md) |
+| Clay, Shardmaiden, Wail, Flow, land powers, orders, Frailers, sacred time, memorials, and anathema | [Elvenspring Religions](religion-elvenspring.md) |
+| Huge, World Expansion, sacred work, Stonegarden observance, reincarnation, clan readings, and anathema | [Dwarven Religion](religion-dwarves.md) |
+| Abandonment, the Unabandoned, sacred command, surrender, death, shrines, song, and pilgrimage | [Orc Religions](religion-orcs.md) |
+| Eor, concealed moon practice, Penita, sacred time, death, shrines, omens, and anathema | [Halfling Religion](religion-halflings.md) |
+| Eor, cradle faith, Penita, shamans, sacrifice, sacred objects, dangerous bargains, and anathema | [Goblin Religion](religion-goblins.md) |
+| Huntress worship, religious authority, sacred time, death, dreams, other gods, and anathema | [Wolfkin Religion](religion-wolfkin.md) |
 | Saurian, ogre, whiner, and Misgrown beliefs with outsider-knowledge limits | [Monster Beliefs](religion-monster-beliefs.md) |
-| Rust and Heme ranks, rites, doctrine, anathemas, terror, information control, and demonic secrecy | [Religion of the Rust Brothers](religion-rust-brothers.md) |
+| Rust and Heme doctrine, sacramental iron, worship, rites, sin, penance, and anathema | [Religion of the Rust Brothers](religion-rust-brothers.md) |
 
 ## Use with Other References
 

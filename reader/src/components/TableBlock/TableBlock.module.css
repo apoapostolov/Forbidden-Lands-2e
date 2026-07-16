@@ -144,6 +144,7 @@
 
 .table {
   width: 100%;
+  table-layout: fixed;
   border-collapse: collapse;
   background-color: #ffffff;
   position: relative;
@@ -168,6 +169,8 @@
   font-size: var(--text-xs);
   color: var(--text-primary);
   vertical-align: top;
+  overflow-wrap: anywhere;
+  hyphens: auto;
 }
 
 .rowEven {
@@ -177,6 +180,17 @@
 .rowOdd {
   background-color: #f9f9f9;
 }
+
+/* A very tall source row may be split by cell text across table fragments.
+   Dashed inner rules make the continuation visible without implying a new row. */
+.rowContinuesFromPrevious .td {
+  border-top: 1px dashed color-mix(in srgb, var(--rule-color) 55%, transparent);
+}
+
+.rowContinuesOnNext .td {
+  border-bottom: 1px dashed color-mix(in srgb, var(--rule-color) 55%, transparent);
+}
+
 .visuallyHidden {
   position: absolute;
   width: 1px;

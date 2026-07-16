@@ -58,8 +58,26 @@ function splitByColumnBreak(segments: Segment[]): {
       continue
     }
 
+    // A heading carried with a full-width table spans with that table.
+    if (seg.type === 'heading' && (seg as HeadingSegment).spanAll) {
+      spanAll.push(seg)
+      i++
+      continue
+    }
+
     // Fiction paragraphs span
     if (seg.type === 'paragraph' && (seg as ParagraphSegment).isFiction) {
+      spanAll.push(seg)
+      i++
+      continue
+    }
+
+    // Long chapter fiction may continue at full width on following pages.
+    if (
+      seg.type === 'blockquote' &&
+      ((seg as BlockquoteSegment & { spanAll?: boolean }).spanAll ||
+        (seg as BlockquoteSegment & { isFiction?: boolean }).isFiction)
+    ) {
       spanAll.push(seg)
       i++
       continue
@@ -117,8 +135,9 @@ function renderSegment(
   // Chapter fiction is ONLY the blockquote directly after an H2 section heading.
   const isChapterFictionAfterH2 =
     seg.type === 'blockquote' &&
-    previousSegment?.type === 'heading' &&
-    (previousSegment as HeadingSegment).level === 2
+    ((previousSegment?.type === 'heading' &&
+      (previousSegment as HeadingSegment).level === 2) ||
+      !!(seg as BlockquoteSegment & { isFiction?: boolean }).isFiction)
 
   // First prose paragraph after chapter fiction gets chapter-opener treatment.
   const isFirstParagraphAfterChapterFiction =
@@ -183,6 +202,9 @@ function renderSegment(
             headers={t.headers}
             rows={t.rows}
             spanAll={t.spanAll}
+            columnLineWidthsEm={t.columnLineWidthsEm}
+            rowContinuesFromPrevious={t.rowContinuesFromPrevious}
+            rowContinuesOnNext={t.rowContinuesOnNext}
           />
         )
       }
@@ -212,13 +234,17 @@ function renderSegment(
   if (element && seg.type !== 'hr') {
     const isSpanAll =
       (seg.type === 'heading' && (seg as HeadingSegment).level === 2) ||
+      (seg.type === 'heading' && !!(seg as HeadingSegment).spanAll) ||
       isChapterFictionAfterH2 ||
+      (seg.type === 'blockquote' &&
+        !!(seg as BlockquoteSegment & { spanAll?: boolean }).spanAll) ||
       (seg.type === 'table' && !!(seg as TableSegment).spanAll)
 
     return (
       <div
         key={seg.uid}
         data-segment-id={seg.uid}
+        data-segment-type={seg.type}
         className={`${styles.segmentWrap} ${isHeading ? styles.headingWrap : ''} ${isSpanAll ? styles.spanAllWrap : ''} ${isChapterFictionAfterH2 ? styles.fictionAfterH2Wrap : ''} ${isMarkedFrontMatterFiction ? styles.frontMatterFictionWrap : ''}`}
       >
         {element}
@@ -271,13 +297,16 @@ export default function PageContent({
     <div
       className={`${sectionHeadingPage ? styles.sectionHeadingPage : ''} ${isFrontMatterCreditsPage ? styles.frontMatterCreditsPage : ''}`}
       style={{ flex: 1, minHeight: 0, display: 'flex', flexDirection: 'column' }}
+      data-flow-root
       // Stop pointer events from reaching the flip library
       onMouseDown={(e) => e.stopPropagation()}
       onClick={(e) => e.stopPropagation()}
     >
       {/* Span-all content: H2 banners, fiction, chapter titles */}
       {spanAllRendered.length > 0 && (
-        <div className={styles.spanAllWrap}>{spanAllRendered}</div>
+        <div className={styles.spanAllWrap} data-flow-region="top-span">
+          {spanAllRendered}
+        </div>
       )}
 
       {/* Spacer to push columns below H2 decorative frame overhang */}
@@ -285,13 +314,19 @@ export default function PageContent({
 
       {/* Two explicit columns */}
       <div className={styles.columns}>
-        <div className={styles.column}>{leftRendered}</div>
-        <div className={styles.column}>{rightRendered}</div>
+        <div className={styles.column} data-flow-region="column-1">
+          {leftRendered}
+        </div>
+        <div className={styles.column} data-flow-region="column-2">
+          {rightRendered}
+        </div>
       </div>
 
       {/* Bottom-span content: tables placed below columns at full width */}
       {bottomSpanRendered.length > 0 && (
-        <div className={styles.spanAllWrap}>{bottomSpanRendered}</div>
+        <div className={styles.spanAllWrap} data-flow-region="bottom-span">
+          {bottomSpanRendered}
+        </div>
       )}
     </div>
   )

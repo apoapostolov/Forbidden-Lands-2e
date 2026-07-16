@@ -25,6 +25,7 @@
 # Reader dependencies and generated build output.
 /reader/node_modules/
 /reader/dist/
+/reader/test-results/
 
 # Explicitly keep these out even if a parent rule changes later.
 /.codex

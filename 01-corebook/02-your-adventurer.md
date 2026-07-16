@@ -653,6 +653,14 @@ Pushing an attribute from one tier to the next costs `(new attribute value × 10
 | 3 → 4      | 12            | 16             | 2 Quarters      | 4 Quarters       | 1 silver            |
 | 4 → 5      | 15            | 20             | 3 Quarters      | 5 Quarters       | 1½ silver           |
 
+> **TRAIN NOW, PAY LATER**
+>
+> The GM should be lenient about requiring training and XP at the same time. An
+> adventurer may complete all required Quarters of training before they have
+> enough XP. Record the completed training; when the adventurer has the XP and
+> pays the full cost, they immediately learn the skill or talent. They gain no
+> benefit from it until the XP is paid.
+
 #### RAISING TALENTS
 
 Talents demand mentors. With a teacher, XP cost is `desired rank × 3`. Without guidance you cannot learn Rank 1 at all, and higher ranks cost three times the XP and time.

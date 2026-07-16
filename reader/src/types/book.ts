@@ -21,6 +21,7 @@ export interface HeadingSegment extends BaseSegment {
   type: 'heading'
   level: 1 | 2 | 3 | 4
   text: string
+  spanAll?: boolean
 }
 
 export interface ParagraphSegment extends BaseSegment {
@@ -28,11 +29,21 @@ export interface ParagraphSegment extends BaseSegment {
   html: string
   isChapterOpener?: boolean
   isFiction?: boolean
+  isListSegment?: boolean
+  itemLiHtmls?: string[]
+  itemHeights?: number[]
+  listTag?: 'ul' | 'ol'
+  continuesFromPrevious?: boolean
+  continuesOnNext?: boolean
 }
 
 export interface BlockquoteSegment extends BaseSegment {
   type: 'blockquote'
   html: string
+  spanAll?: boolean
+  isFiction?: boolean
+  continuesFromPrevious?: boolean
+  continuesOnNext?: boolean
 }
 
 export interface TableSegment extends BaseSegment {
@@ -41,6 +52,20 @@ export interface TableSegment extends BaseSegment {
   rows: string[][]
   /** Wide table should span both columns. */
   spanAll?: boolean
+  layoutReason?:
+    | 'column-count'
+    | 'intrinsic-width'
+    | 'row-height'
+    | 'table-height'
+    | 'column-fit'
+    | 'runtime-overflow'
+  columnLineWidthsEm?: number[]
+  rowHeights?: number[]
+  headerHeightPt?: number
+  rowContinuesFromPrevious?: boolean[]
+  rowContinuesOnNext?: boolean[]
+  continuesFromPrevious?: boolean
+  continuesOnNext?: boolean
 }
 
 export interface HRSegment extends BaseSegment {

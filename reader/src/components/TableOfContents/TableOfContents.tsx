@@ -72,7 +72,7 @@ export default function TableOfContents({
                 (nextEntry ? nextEntry.page > currentPage + 1 : true)
               return (
                 <li
-                  key={`${entry.level}-${entry.title}-${entry.page}`}
+                  key={`${entry.level}-${entry.title}-${entry.page}-${entryIndex}`}
                   className={`${styles.item} ${levelClass(entry.level)} ${
                     isActive ? styles.active : ''
                   }`}

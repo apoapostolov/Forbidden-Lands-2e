@@ -34,7 +34,7 @@ punished, and made possible gives these familiar capacities a local character.
 ## See Also
 
 - [Society and Daily Life](society-and-daily-life.md)
-- [Religion of the Rust Brothers](religion-rust-brothers.md)
+- [Culture of the Rust Brothers](culture-rust-brothers.md)
 - [Generic Psychological Trauma](../../../forbidden-lands-medieval-authenticity/references/generic/psychological-trauma.md)
 - [Morale, Fear, and Leadership](../../../forbidden-lands-medieval-authenticity/references/generic/morale-fear-leadership.md)
 - [Equipment and Health Maintenance](../../../forbidden-lands-medieval-authenticity/references/generic/equipment-health-maintenance.md)
@@ -204,7 +204,7 @@ The church exploits that ambivalence through selective terror. It preserves the
 village, chooses a victim whose punishment will be widely felt, and leaves the
 survivors to enforce the new order. People then fear one another's testimony,
 their own past compromises, and the sound of iron on the road. See [Rust
-Brothers](religion-rust-brothers.md)
+Brothers](culture-rust-brothers.md)
 for the order's cultivated strangeness, recruitment of marked bodies, demonic
 secrecy, and psychology of disciplined cruelty.
 

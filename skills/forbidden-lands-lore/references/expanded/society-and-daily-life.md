@@ -39,7 +39,7 @@ or make every settlement identical.
 - [Economy, Exchange, and Stronghold Life](economy-exchange-and-stronghold-life.md)
 - [Religion Reference Index](religions-rites-beliefs-and-anathemas.md)
 - [Psychology and Social Character](psychology-and-social-character.md)
-- [Rust Brothers: Fear, Doctrine, and Control](religion-rust-brothers.md)
+- [Culture of the Rust Brothers](culture-rust-brothers.md)
 - [Village Economy and Barter](../../../forbidden-lands-medieval-authenticity/references/generic/village-economy-and-barter.md)
 - [Psychological Trauma](../../../forbidden-lands-medieval-authenticity/references/generic/psychological-trauma.md)
 - [Uncomfortable Realities](../../../forbidden-lands-medieval-authenticity/references/generic/uncomfortable-realities.md)

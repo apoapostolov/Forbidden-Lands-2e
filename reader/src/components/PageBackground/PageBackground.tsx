@@ -16,8 +16,11 @@ export default function PageBackground({
     <article
       className={`${styles.page} ${side === 'left' ? styles.left : styles.right}`}
       aria-label={pageNumber ? `Book page ${pageNumber}` : 'Book cover'}
+      data-book-page={pageNumber}
     >
-      <div className={styles.content}>{children}</div>
+      <div className={styles.content} data-page-content-shell>
+        {children}
+      </div>
     </article>
   )
 }

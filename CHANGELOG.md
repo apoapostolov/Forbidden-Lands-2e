@@ -9,11 +9,30 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- **`/forbidden-lands-lore` — orc culture.** Added a campaign-ready model of
+  orc strength, lifelong muscle growth, painful aging, male sexual competition,
+  indoctrination, public male rule, concealed female power, slavery, work, law,
+  clan differences, trade, tribute, and individual change, with a detailed Urhur
+  imperial court and an illness-wasted Hroka ruling through cunning, reputation,
+  and calculated leniency.
+
 ### Changed
+
+- **`/forbidden-lands-lore` — culture and religion routing.** Separated kinship,
+  household, adulthood, inheritance, labor, law, diplomacy, settlement behavior,
+  and institutional control from the religion references into parallel cultural
+  references for humans, elves, Elvenspring, dwarves, orcs, halflings, goblins,
+  wolfkin, monster kin, and the Rust Brothers.
 
 - **Book 01 — Corebook, survival cooking.** Adventurers can now learn CHEF
   Rank 1 without a teacher by cooking to survive, for 3 XP and three Quarter
   Days of training.
+
+- **Book 01 — Corebook, advancement timing.** Adventurers can now complete
+  required Quarter Days of training before they have enough XP, then learn the
+  skill or talent when they pay the full cost.
 
 ### Fixed
 

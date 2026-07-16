@@ -3,39 +3,40 @@
 # Religion Reference Index for the Ravenlands
 
 Religion is divided by kin because cosmology, body, and time do not mean the
-same thing to every people. Neither do household, death, or authority. Use the
-narrowest file that matches the people in
-the scene. Load another when kin meet under one roof, before one shrine, or
-across the same dispute.
+same thing to every people. Use the narrowest file that matches the people in
+the scene. Load its cultural counterpart when the question concerns household,
+kinship, work, law, property, diplomacy, or ordinary behavior.
 
 The files keep manuscript fact apart from grounded setting inference. They also
 mark local custom and contested doctrine. Their rites give an AI or GM material
-for play. No valley's practice thereby becomes universal law.
+for play. The `culture-*` files hold the social institutions that religion may
+justify but does not wholly contain. No valley's practice thereby becomes
+universal law.
 
 ## Core Kin References
 
-| Kin | Reference | Religious center |
-| --- | --- | --- |
-| Humans | [Human Religions](religion-humans.md) | Raven and Wyrm, the Congregation, Raven Church, Reapenters, Rust and Heme, Vampyrs, and human worship of the Older Gods |
-| Elves | [Elven Religions](religion-elves.md) | Red Wanderer, rubies, Clay, the Shardmaiden, druidic orders, restoration, and long memory |
-| Half-elves | [Elvenspring Religions](religion-elvenspring.md) | Clay, the Shardmaiden, Raven, land gods, mixed descent, mortal time, Maidens, Golden Bough, and Frailers |
-| Dwarves | [Dwarven Religion](religion-dwarves.md) | Huge, World Expansion, measured work, reincarnation, maintenance, clan jurisdiction, and the Outer Forges |
-| Orcs | [Orc Religions](religion-orcs.md) | Abandonment by the elder kin, the Unabandoned, command and refusal, women's authority, clan trial, and knowledge |
-| Halflings | [Halfling Religion](religion-halflings.md) | Eor, the respectable village face, concealed moon practice, cradles, fosterage, shame, and Penita |
-| Goblins | [Goblin Religion](religion-goblins.md) | Eor, moonlit movement, changing claims, theft law, wolves, hunting status, cradles, and opposition to Penita reunion |
-| Wolfkin | [Wolfkin Religion](religion-wolfkin.md) | Heme as the Huntress, pack law, forest refuge, blood, breeding, kill distribution, ecstatic music, and the Blood Mist |
+| Kin | Religion | Culture | Religious center |
+| --- | --- | --- | --- |
+| Humans | [Human Religions](religion-humans.md) | [Feather-and-Coil Culture](culture-humans.md) | Raven and Wyrm, human churches and heresies, and the Older Gods |
+| Elves | [Elven Religions](religion-elves.md) | [Elven Culture](culture-elves.md) | Red Wanderer, rubies, Clay, Shardmaiden orders, restoration, and long memory |
+| Half-elves | [Elvenspring Religions](religion-elvenspring.md) | [Elvenspring Culture](culture-elvenspring.md) | Clay, Shardmaiden, Wail, Flow, Raven, land gods, orders, and Frailers |
+| Dwarves | [Dwarven Religion](religion-dwarves.md) | [Dwarven Culture](culture-dwarves.md) | Huge, World Expansion, sacred work, reincarnation, and the Outer Forges |
+| Orcs | [Orc Religions](religion-orcs.md) | [Orc Culture](culture-orcs.md) | Abandonment, the Unabandoned, sacred command, surrender, shrines, song, and pilgrimage |
+| Halflings | [Halfling Religion](religion-halflings.md) | [Halfling Culture](culture-halflings.md) | Eor, concealed moon practice, sacred time, Penita, shrines, and omens |
+| Goblins | [Goblin Religion](religion-goblins.md) | [Goblin Culture](culture-goblins.md) | Eor, cradle faith, Penita, shamans, sacrifice, and sacred objects |
+| Wolfkin | [Wolfkin Religion](religion-wolfkin.md) | [Wolfkin Culture](culture-wolfkin.md) | Heme as the Huntress, sacred time, death, dreams, and relations with other gods |
 
 ## Separate and Grouped References
 
-- [Religion of the Rust Brothers](religion-rust-brothers.md)
-  is deliberately longer than the other religion files. Rust and Heme doctrine
-  supports an armed church that behaves as a state cult. Demonic secrecy
-  requires information control. Selective terror and ordination through bodily
-  alteration spread coerced submission through whole settlements.
+- [Religion of the Rust Brothers](religion-rust-brothers.md) holds doctrine,
+  worship, rite, sin, and anathema. [Culture of the Rust
+  Brothers](culture-rust-brothers.md) holds ranks, recruitment, settlement
+  control, selective terror, and the order's trained behavior.
 - [Monster Beliefs](religion-monster-beliefs.md) groups saurians, ogres,
   whiners, and Misgrown. These peoples do not share a faith. They share poor
   documentation and the danger of being described by hunters, captors, priests,
-  and scholars who profit from misunderstanding them.
+  and scholars who profit from misunderstanding them. [Monster-Kin
+  Cultures](culture-monster-kin.md) holds their social practices.
 
 ## Equal-Depth Standard
 
@@ -43,23 +44,21 @@ Every core-kin reference answers the same kinds of questions without forcing
 the same answers:
 
 1. Which manuscript facts establish gods, origins, orders, or sacred history?
-2. Who can speak, witness, interpret, teach, or exclude?
-3. Which acts place religion inside food, work, shelter, travel, and property?
-4. How are birth, naming, adoption, and adult standing recognized?
-5. How do partnership, descent, household, and dependency become obligations?
-6. What happens at bodily death, social death, restoration, or remembered
-   return?
-7. Which faults can be repaired, and what must restitution replace?
-8. Which acts lie beyond ordinary repair within the tradition?
-9. Which internal disagreement prevents the kin from becoming a single voice?
-10. What lets players encounter the belief before receiving an explanation?
+2. Who may interpret, teach, witness, initiate, absolve, or exclude?
+3. Which offerings, prayers, rites, and sacred times make belief visible?
+4. How does religion recognize birth, transformation, death, or return?
+5. Which magic, object, place, or bodily sign carries religious authority?
+6. Which faults can be repaired through worship, penance, or restitution?
+7. Which acts lie beyond ordinary repair within the tradition?
+8. Which internal disagreement prevents the kin from becoming a single voice?
+9. What lets players encounter the belief before receiving an explanation?
     Choose an object or bodily mark, a route or account, or one repeated act.
 
 Equal depth does not require equal length. Human religion needs room for hostile
-churches and heresies. Elven religion must explain ruby personhood and changing
-bodies. Dwarven religion places more weight on work and reincarnation. Orc
-religion varies by clan. Halfling and goblin religion shares an origin and
-cradle system while producing opposed public lives.
+churches and heresies. Elven religion must explain ruby personhood. Dwarven
+religion places more weight on sacred work and reincarnation. Orc religion
+varies by clan. Halfling and goblin religions share an origin while producing
+opposed worship.
 
 ## Levels of Religious Knowledge
 

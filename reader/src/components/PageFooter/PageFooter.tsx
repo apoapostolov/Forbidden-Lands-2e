@@ -12,6 +12,7 @@ export default function PageFooter({ pageNumber, side, chapterTitle }: PageFoote
   return (
     <footer
       className={`${styles.footer} ${side === 'left' ? styles.left : styles.right}`}
+      data-page-footer
     >
       {/* Decorative skull separator with text overlaid in the image areas */}
       <div className={styles.ornamentWrap}>
