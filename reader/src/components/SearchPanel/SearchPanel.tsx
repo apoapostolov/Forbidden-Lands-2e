@@ -1,116 +1,96 @@
-import type { SearchMatch } from '@utils/search'
-import { useCallback, useEffect, useRef, useState } from 'react'
+import { MAX_SEARCH_RESULTS, type SearchMatch } from '@utils/search'
+import { useEffect, useRef, useState } from 'react'
 import styles from './SearchPanel.module.css'
 
 interface SearchPanelProps {
   matches: SearchMatch[]
+  query: string
   isOpen: boolean
-  onNavigate: (pageIdx: number) => void
+  onNavigate: (match: SearchMatch) => void
   currentPage: number
 }
 
 export default function SearchPanel({
   matches,
+  query,
   isOpen,
   onNavigate,
   currentPage,
 }: SearchPanelProps) {
-  const [hoveredMatch, setHoveredMatch] = useState<number | null>(null)
-  const [previousPage, setPreviousPage] = useState<number>(currentPage)
+  const [activeSegmentUid, setActiveSegmentUid] = useState<string | null>(null)
   const highlightedElementRef = useRef<HTMLElement | null>(null)
 
-  // Track when we hover to enable preview navigation
-  const handleMouseEnter = useCallback(
-    (match: SearchMatch, idx: number) => {
-      setPreviousPage(currentPage)
-      setHoveredMatch(idx)
-      onNavigate(match.pageIdx)
+  useEffect(() => {
+    highlightedElementRef.current?.classList.remove(styles.highlightedParagraph)
+    highlightedElementRef.current = null
 
-      // Apply pulse effect to the matching paragraph
-      setTimeout(() => {
-        applyHighlight(match)
-      }, 300)
-    },
-    [currentPage, onNavigate],
-  )
+    if (!activeSegmentUid) return
+    const frame = requestAnimationFrame(() => {
+      const element = document.querySelector<HTMLElement>(
+        `[data-segment-id="${CSS.escape(activeSegmentUid)}"]`,
+      )
+      if (!element) return
+      element.classList.add(styles.highlightedParagraph)
+      highlightedElementRef.current = element
+      element.scrollIntoView({ behavior: 'smooth', block: 'center' })
+    })
 
-  // Return to previous page when hover ends
-  const handleMouseLeave = useCallback(() => {
-    setHoveredMatch(null)
-    removeHighlight()
-    if (previousPage !== currentPage) {
-      onNavigate(previousPage)
-    }
-  }, [previousPage, currentPage, onNavigate])
-
-  // Find and highlight the matching paragraph
-  function applyHighlight(match: SearchMatch) {
-    removeHighlight()
-
-    // Find the segment elements on the current page
-    const segments = document.querySelectorAll('[data-segment-idx]')
-    for (const elem of segments) {
-      const segmentIdx = parseInt(elem.getAttribute('data-segment-idx') || '-1', 10)
-      if (segmentIdx === match.segmentIdx && elem instanceof HTMLElement) {
-        elem.classList.add(styles.highlightedParagraph)
-        highlightedElementRef.current = elem
-        elem.scrollIntoView({ behavior: 'smooth', block: 'center' })
-        break
-      }
-    }
-  }
-
-  function removeHighlight() {
-    if (highlightedElementRef.current) {
-      highlightedElementRef.current.classList.remove(styles.highlightedParagraph)
-      highlightedElementRef.current = null
-    }
-  }
+    return () => cancelAnimationFrame(frame)
+  }, [activeSegmentUid, currentPage])
 
   useEffect(() => {
-    if (!isOpen) {
-      setHoveredMatch(null)
-      removeHighlight()
-    }
+    if (!isOpen) setActiveSegmentUid(null)
   }, [isOpen])
 
-  if (!isOpen || matches.length === 0) {
-    return null
-  }
+  useEffect(() => {
+    setActiveSegmentUid(null)
+  }, [query])
+
+  if (!isOpen) return null
+
+  const resultLabel =
+    matches.length >= MAX_SEARCH_RESULTS
+      ? `First ${MAX_SEARCH_RESULTS} results`
+      : `${matches.length} result${matches.length === 1 ? '' : 's'}`
 
   return (
-    <div className={styles.panel}>
+    <aside className={styles.panel} aria-labelledby="search-results-title">
       <div className={styles.header}>
-        <h3 className={styles.title}>
-          {matches.length} result{matches.length !== 1 ? 's' : ''}
-        </h3>
+        <h2 id="search-results-title" className={styles.title}>
+          Search results
+        </h2>
+        <p className={styles.resultCount} role="status" aria-live="polite">
+          {resultLabel} for “{query.trim()}”
+        </p>
       </div>
 
-      <div className={styles.results}>
-        {matches.map((match, idx) => (
-          <button
-            key={`${match.pageIdx}-${match.segmentIdx}-${match.matchStart}`}
-            className={`${styles.result} ${
-              match.pageIdx === currentPage ? styles.current : ''
-            } ${hoveredMatch === idx ? styles.hovered : ''}`}
-            onClick={() => {
-              onNavigate(match.pageIdx)
-              setHoveredMatch(null)
-              removeHighlight()
-            }}
-            onMouseEnter={() => handleMouseEnter(match, idx)}
-            onMouseLeave={handleMouseLeave}
-            title={`Go to page ${match.pageNumber}`}
-          >
-            <div className={styles.page}>Page {match.pageNumber}</div>
-            <div className={styles.context}>
-              <span className={styles.before}>{match.contextBefore}</span>
-              <span className={styles.match}>{match.matchText}</span>
-              <span className={styles.after}>{match.contextAfter}</span>
-            </div>
-          </button>
-        ))}
-      </div>
-    </div>
+      {matches.length === 0 ? (
+        <p className={styles.empty}>No matching rules found.</p>
+      ) : (
+        <div className={styles.results}>
+          {matches.map((match) => (
+            <button
+              type="button"
+              key={`${match.segmentUid}-${match.matchStart}`}
+              className={`${styles.result} ${
+                match.pageIdx === currentPage ? styles.current : ''
+              }`}
+              onClick={() => {
+                setActiveSegmentUid(match.segmentUid)
+                onNavigate(match)
+              }}
+              aria-label={`Page ${match.pageNumber}: ${match.matchText}`}
+            >
+              <span className={styles.page}>Page {match.pageNumber}</span>
+              <span className={styles.context}>
+                <span className={styles.before}>{match.contextBefore}</span>
+                <mark className={styles.match}>{match.matchText}</mark>
+                <span className={styles.after}>{match.contextAfter}</span>
+              </span>
+            </button>
+          ))}
+        </div>
+      )}
+    </aside>
   )
 }

@@ -1,17 +1,40 @@
-.app {
+.appShell {
   min-height: 100dvh;
-  background-color: var(--color-bg-deep);
-  display: flex;
-  align-items: flex-start;
-  justify-content: center;
-  padding: 40px;
-  overflow: auto;
+  background: var(--color-bg-deep);
 }
 
-/* 2×2 page preview grid for Phase 3/4 static testing */
-.spreadGrid {
+.loadingState {
+  min-height: 100dvh;
+  padding: 2rem;
   display: grid;
-  grid-template-columns: var(--page-width) var(--page-width);
-  grid-template-rows: auto auto;
-  gap: 4px 0;
+  place-items: center;
+  background: var(--color-bg-deep);
+  color: rgba(245, 237, 224, 0.9);
+  font-family: var(--font-body);
+  text-align: center;
+}
+
+.skipLink {
+  position: fixed;
+  top: 0.75rem;
+  left: 0.75rem;
+  z-index: calc(var(--z-toc) + 1);
+  padding: 0.6rem 0.85rem;
+  border: 2px solid var(--accent-gold-light);
+  border-radius: 0.25rem;
+  background: #1a0f06;
+  color: #fff;
+  font-family: var(--font-label);
+  transform: translateY(-200%);
+  transition: transform 120ms ease;
+}
+
+.skipLink:focus {
+  transform: translateY(0);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .skipLink {
+    transition: none;
+  }
 }

@@ -13,6 +13,8 @@ export interface BaseSegment {
   /** Estimated height in pt for pagination */
   heightPt: number
   id?: string
+  /** Stable identifier assigned after pagination for search and focus targeting. */
+  uid: string
 }
 
 export interface HeadingSegment extends BaseSegment {
@@ -37,7 +39,7 @@ export interface TableSegment extends BaseSegment {
   type: 'table'
   headers: string[]
   rows: string[][]
-  /** Set by flow engine: table should span both columns */
+  /** Wide table should span both columns. */
   spanAll?: boolean
 }
 

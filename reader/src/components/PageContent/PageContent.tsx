@@ -1,10 +1,10 @@
 import type {
-    BlockquoteSegment,
-    HeadingSegment,
-    ImageRefSegment,
-    ParagraphSegment,
-    Segment,
-    TableSegment,
+  BlockquoteSegment,
+  HeadingSegment,
+  ImageRefSegment,
+  ParagraphSegment,
+  Segment,
+  TableSegment,
 } from '@app-types/book'
 import ImageBlock from '@components/ImageBlock/ImageBlock'
 import TableBlock from '@components/TableBlock/TableBlock'
@@ -147,7 +147,7 @@ function renderSegment(
           h.level - 1
         ]
         return (
-          <Tag key={idx} id={h.id} className={cls}>
+          <Tag key={seg.uid} id={h.id} className={cls}>
             {h.text}
           </Tag>
         )
@@ -156,7 +156,7 @@ function renderSegment(
         const p = seg as ParagraphSegment
         return (
           <TextBlock
-            key={idx}
+            key={seg.uid}
             html={p.html}
             isChapterOpener={!!p.isChapterOpener || isFirstParagraphAfterChapterFiction}
             isFiction={isMarkedFrontMatterFiction}
@@ -168,7 +168,7 @@ function renderSegment(
         const bq = seg as BlockquoteSegment
         return (
           <TextBlock
-            key={idx}
+            key={seg.uid}
             html={bq.html}
             variant="blockquote"
             isFiction={isChapterFictionAfterH2}
@@ -178,18 +178,23 @@ function renderSegment(
       case 'table': {
         const t = seg as TableSegment
         return (
-          <TableBlock key={idx} headers={t.headers} rows={t.rows} spanAll={t.spanAll} />
+          <TableBlock
+            key={seg.uid}
+            headers={t.headers}
+            rows={t.rows}
+            spanAll={t.spanAll}
+          />
         )
       }
       case 'hr':
         // Skip column break markers
         if (seg.id === '__column_break__') return null
-        return <hr key={idx} className="gold-rule" />
+        return <hr key={seg.uid} className="gold-rule" />
       case 'image-ref': {
         const img = seg as ImageRefSegment
         return (
           <ImageBlock
-            key={idx}
+            key={seg.uid}
             filename={img.filename}
             width={img.width}
             height={img.height}
@@ -212,8 +217,8 @@ function renderSegment(
 
     return (
       <div
-        key={idx}
-        data-segment-idx={idx}
+        key={seg.uid}
+        data-segment-id={seg.uid}
         className={`${styles.segmentWrap} ${isHeading ? styles.headingWrap : ''} ${isSpanAll ? styles.spanAllWrap : ''} ${isChapterFictionAfterH2 ? styles.fictionAfterH2Wrap : ''} ${isMarkedFrontMatterFiction ? styles.frontMatterFictionWrap : ''}`}
       >
         {element}
@@ -263,10 +268,8 @@ export default function PageContent({
   )
 
   return (
-    <main
+    <div
       className={`${sectionHeadingPage ? styles.sectionHeadingPage : ''} ${isFrontMatterCreditsPage ? styles.frontMatterCreditsPage : ''}`}
-      role="region"
-      aria-label="Page content"
       style={{ flex: 1, minHeight: 0, display: 'flex', flexDirection: 'column' }}
       // Stop pointer events from reaching the flip library
       onMouseDown={(e) => e.stopPropagation()}
@@ -290,6 +293,6 @@ export default function PageContent({
       {bottomSpanRendered.length > 0 && (
         <div className={styles.spanAllWrap}>{bottomSpanRendered}</div>
       )}
-    </main>
+    </div>
   )
 }

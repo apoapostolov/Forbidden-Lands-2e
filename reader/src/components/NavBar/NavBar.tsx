@@ -1,4 +1,4 @@
-import { FormEvent, useEffect, useRef, useState } from 'react'
+import { type FormEvent, useEffect, useRef, useState } from 'react'
 import styles from './NavBar.module.css'
 
 interface NavBarProps {
@@ -14,10 +14,6 @@ interface NavBarProps {
   onSearchChange: (value: string) => void
 }
 
-function isFullscreen() {
-  return !!document.fullscreenElement
-}
-
 export default function NavBar({
   currentPage,
   totalPages,
@@ -31,164 +27,125 @@ export default function NavBar({
   onSearchChange,
 }: NavBarProps) {
   const [jumpValue, setJumpValue] = useState('')
-  const [fs, setFs] = useState(isFullscreen)
+  const [fullscreen, setFullscreen] = useState(() => Boolean(document.fullscreenElement))
   const inputRef = useRef<HTMLInputElement>(null)
-  const searchRef = useRef<HTMLInputElement>(null)
   const holdTimerRef = useRef<number | null>(null)
   const holdIntervalRef = useRef<number | null>(null)
-  const isHoldingRef = useRef(false)
   const suppressClickRef = useRef(false)
-  const lastPrevClickAtRef = useRef(0)
-  const lastNextClickAtRef = useRef(0)
-
-  const MULTI_CLICK_WINDOW_MS = 650
 
   function clearHoldTimers() {
-    if (holdTimerRef.current) {
-      window.clearTimeout(holdTimerRef.current)
-      holdTimerRef.current = null
-    }
-    if (holdIntervalRef.current) {
-      window.clearInterval(holdIntervalRef.current)
-      holdIntervalRef.current = null
-    }
+    if (holdTimerRef.current !== null) window.clearTimeout(holdTimerRef.current)
+    if (holdIntervalRef.current !== null) window.clearInterval(holdIntervalRef.current)
+    holdTimerRef.current = null
+    holdIntervalRef.current = null
   }
 
   function startHold(direction: 'prev' | 'next') {
     clearHoldTimers()
-    isHoldingRef.current = false
-
-    const step = () => {
-      if (direction === 'prev') onPrevInstant()
-      else onNextInstant()
-    }
-
+    const step = direction === 'prev' ? onPrevInstant : onNextInstant
     holdTimerRef.current = window.setTimeout(() => {
-      isHoldingRef.current = true
       suppressClickRef.current = true
       step()
-      holdIntervalRef.current = window.setInterval(step, 85)
-    }, 180)
+      holdIntervalRef.current = window.setInterval(step, 120)
+    }, 350)
   }
 
   function stopHold() {
-    if (isHoldingRef.current) {
-      suppressClickRef.current = true
-    }
-    isHoldingRef.current = false
     clearHoldTimers()
   }
 
-  function onPrevClick() {
+  function handleClick(action: () => void) {
     if (suppressClickRef.current) {
       suppressClickRef.current = false
       return
     }
-
-    const now = Date.now()
-    const isMultiClick = now - lastPrevClickAtRef.current <= MULTI_CLICK_WINDOW_MS
-    lastPrevClickAtRef.current = now
-
-    if (isMultiClick) {
-      onPrevInstant()
-      return
-    }
-
-    onPrev()
+    action()
   }
 
-  function onNextClick() {
-    if (suppressClickRef.current) {
-      suppressClickRef.current = false
-      return
-    }
-
-    const now = Date.now()
-    const isMultiClick = now - lastNextClickAtRef.current <= MULTI_CLICK_WINDOW_MS
-    lastNextClickAtRef.current = now
-
-    if (isMultiClick) {
-      onNextInstant()
-      return
-    }
-
-    onNext()
-  }
-
-  function handleJump(e: FormEvent) {
-    e.preventDefault()
-    const n = parseInt(jumpValue, 10)
-    if (!isNaN(n) && n >= 1 && n <= totalPages) {
-      onGoToInstant(n - 1) // book-data pages are 0-indexed in react-pageflip
+  function handleJump(event: FormEvent) {
+    event.preventDefault()
+    const pageNumber = Number.parseInt(jumpValue, 10)
+    if (Number.isFinite(pageNumber) && pageNumber >= 1 && pageNumber <= totalPages) {
+      onGoToInstant(pageNumber - 1)
       setJumpValue('')
       inputRef.current?.blur()
     }
   }
 
-  function toggleFullscreen() {
-    if (!document.fullscreenElement) {
-      document.documentElement.requestFullscreen().then(() => setFs(true))
-    } else {
-      document.exitFullscreen().then(() => setFs(false))
+  async function toggleFullscreen() {
+    try {
+      if (document.fullscreenElement) await document.exitFullscreen()
+      else await document.documentElement.requestFullscreen()
+    } catch (error) {
+      console.error('Fullscreen request failed:', error)
     }
   }
 
   useEffect(() => {
+    const syncFullscreen = () => setFullscreen(Boolean(document.fullscreenElement))
+    document.addEventListener('fullscreenchange', syncFullscreen)
     return () => {
       clearHoldTimers()
+      document.removeEventListener('fullscreenchange', syncFullscreen)
     }
   }, [])
 
   return (
     <nav className={styles.bar} aria-label="Book navigation">
       <button
+        type="button"
         className={styles.btn}
         onClick={onTocOpen}
         aria-label="Open table of contents"
+        aria-haspopup="dialog"
         title="Table of contents (T)"
       >
         ☰
       </button>
 
       <button
+        type="button"
         className={styles.btn}
-        onMouseDown={() => startHold('prev')}
-        onMouseUp={stopHold}
-        onMouseLeave={stopHold}
-        onTouchStart={() => startHold('prev')}
-        onTouchEnd={stopHold}
-        onTouchCancel={stopHold}
-        onClick={onPrevClick}
-        aria-label="Previous page (←)"
+        onPointerDown={() => startHold('prev')}
+        onPointerUp={stopHold}
+        onPointerCancel={stopHold}
+        onPointerLeave={stopHold}
+        onClick={() => handleClick(onPrev)}
+        disabled={currentPage <= -1}
+        aria-label="Previous page"
         title="Previous page"
       >
         ‹
       </button>
 
       <form className={styles.pageForm} onSubmit={handleJump}>
+        <label className={styles.visuallyHidden} htmlFor="page-jump">
+          Jump to page
+        </label>
         <input
+          id="page-jump"
           ref={inputRef}
           className={styles.pageInput}
           value={jumpValue}
-          onChange={(e) => setJumpValue(e.target.value)}
+          onChange={(event) => setJumpValue(event.target.value)}
           placeholder={currentPage < 0 ? 'Cover' : String(currentPage + 1)}
-          aria-label="Jump to page"
           inputMode="numeric"
           pattern="[0-9]*"
+          autoComplete="off"
         />
         <span className={styles.pageTotal}> / {totalPages}</span>
       </form>
 
       <button
+        type="button"
         className={styles.btn}
-        onMouseDown={() => startHold('next')}
-        onMouseUp={stopHold}
-        onMouseLeave={stopHold}
-        onTouchStart={() => startHold('next')}
-        onTouchEnd={stopHold}
-        onTouchCancel={stopHold}
-        onClick={onNextClick}
-        aria-label="Next page (→)"
+        onPointerDown={() => startHold('next')}
+        onPointerUp={stopHold}
+        onPointerCancel={stopHold}
+        onPointerLeave={stopHold}
+        onClick={() => handleClick(onNext)}
+        disabled={currentPage >= totalPages - 1}
+        aria-label="Next page"
         title="Next page"
       >
         ›
@@ -196,26 +153,38 @@ export default function NavBar({
 
       <div className={styles.spacer} />
 
-      <form className={styles.searchForm}>
+      <form
+        className={styles.searchForm}
+        role="search"
+        onSubmit={(event) => event.preventDefault()}
+      >
+        <label className={styles.visuallyHidden} htmlFor="book-search">
+          Search book
+        </label>
         <input
-          ref={searchRef}
+          id="book-search"
           className={styles.searchInput}
-          type="text"
+          type="search"
           value={searchValue}
-          onChange={(e) => onSearchChange(e.target.value)}
-          placeholder="Search..."
-          aria-label="Search book"
+          onChange={(event) => onSearchChange(event.target.value)}
+          placeholder="Search…"
+          autoComplete="off"
+          spellCheck="false"
         />
-        <span className={styles.searchIcon}>🔍</span>
+        <span className={styles.searchIcon} aria-hidden="true">
+          🔍
+        </span>
       </form>
 
       <button
+        type="button"
         className={`${styles.btn} ${styles.fsBtn}`}
         onClick={toggleFullscreen}
-        aria-label={fs ? 'Exit fullscreen' : 'Enter fullscreen'}
-        title={fs ? 'Exit fullscreen (F11)' : 'Fullscreen'}
+        aria-label={fullscreen ? 'Exit fullscreen' : 'Enter fullscreen'}
+        aria-pressed={fullscreen}
+        title={fullscreen ? 'Exit fullscreen' : 'Enter fullscreen'}
       >
-        {fs ? '⛶' : '⛶'}
+        ⛶
       </button>
     </nav>
   )

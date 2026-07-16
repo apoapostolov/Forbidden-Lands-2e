@@ -1,102 +1,95 @@
-import type { BookData, Segment } from '@app-types/book'
-import BookReader, { BookReaderHandle } from '@components/BookReader/BookReader'
+import type { BookData } from '@app-types/book'
+import BookReader, { type BookReaderHandle } from '@components/BookReader/BookReader'
 import NavBar from '@components/NavBar/NavBar'
 import SearchPanel from '@components/SearchPanel/SearchPanel'
 import TableOfContents from '@components/TableOfContents/TableOfContents'
-import bookDataRaw from '@data/book-data.json'
-import { PAGE_METRICS, useFlowPagination } from '@hooks/useFlowPagination'
-import { searchBook } from '@utils/search'
-import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
+import { isEditableTarget } from '@utils/keyboard'
+import { buildSearchIndex, searchBook, type SearchMatch } from '@utils/search'
+import {
+  useCallback,
+  useDeferredValue,
+  useEffect,
+  useMemo,
+  useRef,
+  useState,
+} from 'react'
+import styles from './App.module.css'
 
-/**
- * Extract chapters from the preprocessor output for the flow engine.
- * The preprocessor now produces a flat segment list per chapter;
- * the flow engine handles all pagination at runtime.
- */
-function extractChapters(data: BookData): Array<{
-  title: string
-  index: number
-  segments: Segment[]
-}> {
-  // Group pages by chapter to extract segments
-  const chapterMap = new Map<number, { title: string; segments: Segment[] }>()
-
-  for (const page of data.pages) {
-    const existing = chapterMap.get(page.chapterIndex)
-    if (existing) {
-      existing.segments.push(...page.segments)
-    } else {
-      chapterMap.set(page.chapterIndex, {
-        title: page.chapterTitle,
-        segments: [...page.segments],
-      })
-    }
-  }
-
-  return Array.from(chapterMap.entries())
-    .sort(([a], [b]) => a - b)
-    .map(([index, { title, segments }]) => ({ title, index, segments }))
-}
-
-const rawData = bookDataRaw as BookData
-const chapters = extractChapters(rawData)
-
-/** Read initial page from URL hash synchronously before first render. */
 function readHashPage(totalPages: number): number {
-  const m = window.location.hash.match(/^#page\/(\d+)$/)
-  if (!m) return -1
-  const n = parseInt(m[1], 10)
-  if (isNaN(n)) return -1
-  const logical = n - 1
-  return Math.min(Math.max(0, logical), totalPages - 1)
+  const match = window.location.hash.match(/^#page\/(\d+)$/u)
+  if (!match) return -1
+  const pageNumber = Number.parseInt(match[1], 10)
+  if (!Number.isFinite(pageNumber)) return -1
+  return Math.min(Math.max(0, pageNumber - 1), totalPages - 1)
 }
 
 export default function App() {
   const readerRef = useRef<BookReaderHandle>(null)
+  const [bookData, setBookData] = useState<BookData | null>(null)
+  const [loadError, setLoadError] = useState<string | null>(null)
   const [tocOpen, setTocOpen] = useState(false)
   const [searchValue, setSearchValue] = useState('')
-
-  // Run the flow engine to paginate content using real DOM measurements
-  const { bookData, isReady, error } = useFlowPagination({
-    chapters,
-    tocEntries: rawData.toc,
-    columnWidth: PAGE_METRICS.columnWidth,
-    contentWidth: PAGE_METRICS.contentWidth,
-    columnHeight: PAGE_METRICS.contentHeight,
-    sectionHeadingColumnHeight: PAGE_METRICS.sectionHeadingContentHeight,
-  })
-
   const [currentPage, setCurrentPage] = useState(-1)
+  const deferredSearchValue = useDeferredValue(searchValue)
+  const searchIndex = useMemo(
+    () => (bookData ? buildSearchIndex(bookData) : []),
+    [bookData],
+  )
+  const searchResults = useMemo(
+    () => searchBook(searchIndex, deferredSearchValue),
+    [deferredSearchValue, searchIndex],
+  )
 
-  // Set initial page once flow engine completes
-  useEffect(() => {
-    if (isReady && bookData) {
-      const initial = readHashPage(bookData.totalPages)
-      setCurrentPage(initial)
-    }
-  }, [isReady, bookData])
-
-  // Compute search results
-  const searchResults = useMemo(() => {
-    if (!bookData) return []
-    return searchBook(bookData, searchValue)
-  }, [bookData, searchValue])
-
-  /** Called by BookReader whenever a page flip completes. */
   const handlePageChange = useCallback((page: number) => {
     setCurrentPage(page)
-    if (page < 0) {
-      history.replaceState(null, '', '#')
-      return
-    }
-    history.replaceState(null, '', `#page/${page + 1}`)
+    history.replaceState(null, '', page < 0 ? '#' : `#page/${page + 1}`)
   }, [])
 
-  /** 'T' key toggles the TOC panel. */
+  const navigateToSearchMatch = useCallback((match: SearchMatch) => {
+    readerRef.current?.goToPage(match.pageIdx)
+  }, [])
+
+  const closeToc = useCallback(() => setTocOpen(false), [])
+  const navigateFromToc = useCallback((page: number) => {
+    readerRef.current?.goToPageInstant(page)
+  }, [])
+
   useEffect(() => {
-    function onKey(e: KeyboardEvent) {
-      const tag = (e.target as HTMLElement).tagName
-      if ((e.key === 't' || e.key === 'T') && tag !== 'INPUT' && tag !== 'TEXTAREA') {
+    const controller = new AbortController()
+    fetch('/book-data.json', { signal: controller.signal })
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error(`Book data request failed (${response.status})`)
+        }
+        return response.json() as Promise<BookData>
+      })
+      .then((data) => {
+        if (!Array.isArray(data.pages) || data.pages.length === 0) {
+          throw new Error('Book data contains no pages')
+        }
+        setBookData(data)
+        setCurrentPage(readHashPage(data.totalPages))
+      })
+      .catch((error: unknown) => {
+        if (error instanceof DOMException && error.name === 'AbortError') return
+        setLoadError(error instanceof Error ? error.message : String(error))
+      })
+    return () => controller.abort()
+  }, [])
+
+  useEffect(() => {
+    function onKey(event: KeyboardEvent) {
+      if (
+        event.defaultPrevented ||
+        event.ctrlKey ||
+        event.metaKey ||
+        event.altKey ||
+        isEditableTarget(event.target)
+      ) {
+        return
+      }
+      if (event.key.toLocaleLowerCase() === 't') {
+        event.preventDefault()
         setTocOpen((open) => !open)
       }
     }
@@ -104,46 +97,38 @@ export default function App() {
     return () => window.removeEventListener('keydown', onKey)
   }, [])
 
-  // Show loading state while flow engine runs
-  if (!isReady || !bookData) {
+  if (!bookData) {
     return (
-      <div
-        style={{
-          display: 'flex',
-          alignItems: 'center',
-          justifyContent: 'center',
-          height: '100vh',
-          color: '#8b7355',
-          fontFamily: 'var(--font-body)',
-          fontSize: '18px',
-          background: '#1c1c1c',
-        }}
-      >
-        {error ? (
-          <div style={{ color: '#cc4444', textAlign: 'center' }}>
-            <p>Flow engine error:</p>
-            <p style={{ fontSize: '14px', opacity: 0.7 }}>{error}</p>
+      <main className={styles.loadingState} aria-busy={!loadError}>
+        {loadError ? (
+          <div role="alert">
+            <h1>Reader unavailable</h1>
+            <p>{loadError}</p>
           </div>
         ) : (
-          <p>Paginating…</p>
+          <p>Loading the Forbidden Lands…</p>
         )}
-      </div>
+      </main>
     )
   }
 
   return (
-    <>
+    <div className={styles.appShell}>
+      <a className={styles.skipLink} href="#reader-content">
+        Skip to book content
+      </a>
+
       <BookReader
         ref={readerRef}
         bookData={bookData}
-        initialPage={currentPage}
+        currentPage={currentPage}
         onPageChange={handlePageChange}
       />
 
       <NavBar
         currentPage={currentPage}
         totalPages={bookData.totalPages}
-        onGoToInstant={(p) => readerRef.current?.goToPageInstant(p)}
+        onGoToInstant={(page) => readerRef.current?.goToPageInstant(page)}
         onPrev={() => readerRef.current?.prevPage()}
         onPrevInstant={() => readerRef.current?.prevPageInstant()}
         onNext={() => readerRef.current?.nextPage()}
@@ -155,12 +140,9 @@ export default function App() {
 
       <SearchPanel
         matches={searchResults}
-        isOpen={searchValue.length > 0}
-        onNavigate={(p) => {
-          readerRef.current?.goToPage(p)
-          setCurrentPage(p)
-          history.replaceState(null, '', `#page/${p + 1}`)
-        }}
+        query={deferredSearchValue}
+        isOpen={searchValue.trim().length > 0}
+        onNavigate={navigateToSearchMatch}
         currentPage={currentPage}
       />
 
@@ -168,13 +150,9 @@ export default function App() {
         entries={bookData.toc}
         currentPage={currentPage}
         isOpen={tocOpen}
-        onClose={() => setTocOpen(false)}
-        onNavigate={(p) => {
-          readerRef.current?.goToPageInstant(p)
-          setCurrentPage(p)
-          history.replaceState(null, '', `#page/${p + 1}`)
-        }}
+        onClose={closeToc}
+        onNavigate={navigateFromToc}
       />
-    </>
+    </div>
   )
 }

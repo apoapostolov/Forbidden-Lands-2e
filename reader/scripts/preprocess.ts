@@ -2,7 +2,7 @@
 /**
  * Forbidden Lands Reader — Content Pre-processor
  *
- * Reads all corebook/*.md files, parses them into segment objects,
+ * Reads all 01-corebook/*.md files, parses them into segment objects,
  * paginates using estimated heights, and writes src/data/book-data.json.
  *
  * Usage:
@@ -13,7 +13,6 @@
 import { existsSync, readFileSync, writeFileSync } from 'fs'
 import type {
   Heading,
-  Image,
   List,
   ListItem,
   Root as MdastRoot,
@@ -28,16 +27,16 @@ import remarkGfm from 'remark-gfm'
 import remarkParse from 'remark-parse'
 import remarkRehype from 'remark-rehype'
 import { unified } from 'unified'
-import { visit } from 'unist-util-visit'
 import { fileURLToPath } from 'url'
 
 // ── Paths ─────────────────────────────────────────────────────────────────────
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const READER_DIR = resolve(__dirname, '..')
-const COREBOOK_DIR = resolve(READER_DIR, '..', 'corebook')
+const COREBOOK_DIR = resolve(READER_DIR, '..', '01-corebook')
+const IMAGES_DIR = resolve(READER_DIR, 'public', 'images')
 const MANIFEST = resolve(READER_DIR, 'src', 'data', 'image_manifest.json')
 const TOC_FILE = resolve(READER_DIR, 'src', 'data', 'toc.json')
-const OUTPUT = resolve(READER_DIR, 'src', 'data', 'book-data.json')
+const OUTPUT = resolve(READER_DIR, 'public', 'book-data.json')
 
 // ── Chapter files in order ────────────────────────────────────────────────────
 const CHAPTER_FILES = [
@@ -70,14 +69,8 @@ const LIST_ITEM_EXTRA_PT = 2 // account for li spacing + marker rendering
 const LIST_BLOCK_EXTRA_PT = 6 // account for ul/ol margins and wrap variance
 const RENDER_SAFETY_PT = 36 // keep strict reserve without over-fragmenting pages
 const MIN_SPLIT_LINES = 1
-const MIN_SPLIT_TAIL_LINES_SAME_PAGE = 1
-const MIN_SPLIT_TAIL_LINES_NEXT_PAGE = 1
-const SPLIT_FIT_SAFETY_PT = 0
-const MAX_SPLIT_HEAD_REMAINDER_PT = LINE_HEIGHT_PT * 0.35
-const ENABLE_ROUTINE_PARAGRAPH_SPLIT = false
 const MIN_SPLIT_HEIGHT_PT = LINE_HEIGHT_PT * MIN_SPLIT_LINES
 const MIN_PARAGRAPH_ROOM_AFTER_HEADING_PT = MIN_SPLIT_HEIGHT_PT + PARA_MARGIN_PT
-const ENABLE_HEADING_FOLLOW_SPLIT = true
 const MIN_H4_FOLLOW_PREVIEW_PT =
   MIN_PARAGRAPH_ROOM_AFTER_HEADING_PT +
   segmentGuardPt({ type: 'paragraph', html: '', heightPt: 0 })
@@ -91,6 +84,7 @@ interface BaseSegment {
   type: string
   heightPt: number
   id?: string
+  uid?: string
 }
 interface HeadingSegment extends BaseSegment {
   type: 'heading'
@@ -117,6 +111,7 @@ interface TableSegment extends BaseSegment {
   type: 'table'
   headers: string[]
   rows: string[][]
+  spanAll?: boolean
 }
 interface HRSegment extends BaseSegment {
   type: 'hr'
@@ -236,51 +231,12 @@ function textHeightPt(str: string, wordsPerLine = WORDS_PER_COL_LINE): number {
   return lines * LINE_HEIGHT_PT + PARA_MARGIN_PT
 }
 
-function escapeHtmlText(str: string): string {
-  return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
-}
-
-function isSentenceBoundaryWord(word: string): boolean {
-  return /[.!?]["')\]]*$/.test(word)
-}
-
-function isAwkwardSplitEnding(word: string): boolean {
-  const cleaned = word.toLowerCase().replace(/[^a-z]/g, '')
-  return new Set([
-    'and',
-    'or',
-    'but',
-    'that',
-    'which',
-    'who',
-    'whom',
-    'whose',
-    'to',
-    'of',
-    'in',
-    'on',
-    'at',
-    'for',
-    'from',
-    'with',
-    'by',
-    'as',
-    'if',
-    'than',
-    'then',
-    'a',
-    'an',
-    'the',
-  ]).has(cleaned)
-}
-
 /** Convert a single MDAST node to an HTML string via unified pipeline */
 function nodeToHtml(node: Node): string {
   const root: MdastRoot = { type: 'root', children: [node as MdastRoot['children'][0]] }
   // We already have an MDAST tree — use runSync to transform to HAST, then stringify
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const processor = unified()
-    .use(remarkRehype as any, { allowDangerousHtml: false })
+    .use(remarkRehype, { allowDangerousHtml: false })
     .use(rehypeSanitize)
     .use(rehypeStringify)
   const hast = processor.runSync(root as Parameters<typeof processor.runSync>[0])
@@ -298,8 +254,14 @@ function loadManifest(): Map<string, ManifestEntry[]> {
     return new Map()
   }
   const raw: ManifestEntry[] = JSON.parse(readFileSync(MANIFEST, 'utf8'))
+  const available = raw.filter((entry) => existsSync(join(IMAGES_DIR, entry.filename)))
+  if (available.length !== raw.length) {
+    console.warn(
+      `[!] ${raw.length - available.length} manifest images are unavailable in ${IMAGES_DIR} — skipping them`,
+    )
+  }
   const map = new Map<string, ManifestEntry[]>()
-  for (const entry of raw) {
+  for (const entry of available) {
     for (const ch of entry.chapters) {
       if (!map.has(ch)) map.set(ch, [])
       map.get(ch)!.push(entry)
@@ -327,12 +289,6 @@ function parseChapter(
   let pendingFiction = false
   let fictionBlock = false
   const segments: Segment[] = []
-
-  // Inline markdown images are rare in this corpus; they're handled via the
-  // manifest injection loop below. The visit call is kept for future use.
-  visit(tree, 'image', (node: Image) => {
-    void node
-  })
 
   // Walk top-level nodes
   for (const node of tree.children) {
@@ -399,6 +355,7 @@ function parseChapter(
         type: 'table',
         headers,
         rows,
+        spanAll: headers.length > 3,
         heightPt: (rows.length + 1.5) * LINE_HEIGHT_PT + 8,
       })
     } else if (node.type === 'thematicBreak') {
@@ -491,127 +448,16 @@ function paginate(chapters: { title: string; index: number; segments: Segment[] 
 
   function nextColumn() {
     if (colNum === 0) {
+      currentPage.segments.push({
+        type: 'hr',
+        heightPt: 0,
+        id: '__column_break__',
+      })
       colNum = 1
       colFill = 0
     } else {
       flush()
     }
-  }
-
-  function stripHtmlText(html: string): string {
-    return html
-      .replace(/<[^>]+>/g, ' ')
-      .replace(/\s+/g, ' ')
-      .trim()
-  }
-
-  function splitParagraphByAvailableHeight(
-    seg: ParagraphSegment,
-    availablePt: number,
-    minTailLines = MIN_SPLIT_TAIL_LINES_SAME_PAGE,
-  ): [ParagraphSegment, ParagraphSegment] | null {
-    const totalText = stripHtmlText(seg.html)
-    if (!totalText) return null
-
-    const words = totalText.split(/\s+/).filter(Boolean)
-    if (words.length < 6) return null
-
-    const totalLines = Math.max(
-      1,
-      Math.ceil((seg.heightPt - PARA_MARGIN_PT) / LINE_HEIGHT_PT),
-    )
-    // Do not split short paragraphs; one-line tails/heads look broken.
-    if (totalLines <= 3) return null
-    const adjustedAvailablePt = Math.max(0, availablePt - SPLIT_FIT_SAFETY_PT)
-    const availableLines = Math.floor(
-      Math.max(0, adjustedAvailablePt - PARA_MARGIN_PT) / LINE_HEIGHT_PT,
-    )
-
-    // Allow split if current column can show at least 2 lines and next
-    // column/page can carry at least 1 line of continuation.
-    if (availableLines < MIN_SPLIT_LINES) return null
-    if (totalLines - availableLines < minTailLines) return null
-
-    let splitIdx = Math.floor((words.length * availableLines) / totalLines)
-    if (splitIdx < 3 || words.length - splitIdx < 3) return null
-
-    // Prefer a nearby sentence boundary if it still leaves a meaningful tail.
-    // This keeps breaks less jarring while preserving page flow.
-    const boundaryLookBack = 14
-    const boundaryLookAhead = 8
-    let boundaryIdx = -1
-    for (let i = splitIdx - 1; i >= Math.max(2, splitIdx - boundaryLookBack); i--) {
-      if (isSentenceBoundaryWord(words[i])) {
-        boundaryIdx = i + 1
-        break
-      }
-    }
-    if (boundaryIdx < 0) {
-      for (
-        let i = splitIdx;
-        i < Math.min(words.length - 3, splitIdx + boundaryLookAhead);
-        i++
-      ) {
-        if (isSentenceBoundaryWord(words[i])) {
-          boundaryIdx = i + 1
-          break
-        }
-      }
-    }
-    if (boundaryIdx >= 3 && words.length - boundaryIdx >= 8) {
-      const tailWordCount = words.length - boundaryIdx
-      if (tailWordCount <= 16) {
-        splitIdx = boundaryIdx
-      }
-    }
-
-    // Back off split point until the head truly fits the remaining space.
-    // This avoids visual spill under footer/header caused by rough word/line
-    // estimation when line lengths vary.
-    let headText = words.slice(0, splitIdx).join(' ').trim()
-    let tailText = words.slice(splitIdx).join(' ').trim()
-    while (splitIdx >= 3) {
-      const headHeight = textHeightPt(headText)
-      const headRemainderPt = adjustedAvailablePt - headHeight
-      const tailLines = Math.max(
-        1,
-        Math.ceil((textHeightPt(tailText) - PARA_MARGIN_PT) / LINE_HEIGHT_PT),
-      )
-      if (
-        headHeight <= adjustedAvailablePt &&
-        tailLines >= minTailLines &&
-        headRemainderPt <= MAX_SPLIT_HEAD_REMAINDER_PT
-      ) {
-        const endingWord = words[splitIdx - 1] ?? ''
-        if (isAwkwardSplitEnding(endingWord) && splitIdx - 1 >= 3) {
-          splitIdx -= 1
-          if (splitIdx < 3 || words.length - splitIdx < 3) return null
-          headText = words.slice(0, splitIdx).join(' ').trim()
-          tailText = words.slice(splitIdx).join(' ').trim()
-          continue
-        }
-        break
-      }
-      splitIdx -= 1
-      if (splitIdx < 3 || words.length - splitIdx < 3) return null
-      headText = words.slice(0, splitIdx).join(' ').trim()
-      tailText = words.slice(splitIdx).join(' ').trim()
-    }
-    if (!headText || !tailText) return null
-    if (tailText.split(/\s+/).filter(Boolean).length < 6) return null
-
-    const head: ParagraphSegment = {
-      ...seg,
-      html: `<p>${escapeHtmlText(headText)}</p>`,
-      heightPt: textHeightPt(headText),
-    }
-    const tail: ParagraphSegment = {
-      ...seg,
-      html: `<p>${escapeHtmlText(tailText)}</p>`,
-      heightPt: textHeightPt(tailText),
-      isChapterOpener: false,
-    }
-    return [head, tail]
   }
 
   function addSegment(seg: Segment, chTitle: string, chIdx: number, nextSeg?: Segment) {
@@ -718,8 +564,6 @@ function paginate(chapters: { title: string; index: number; segments: Segment[] 
       colFill + segBudgetPt > effectiveColumnHeight || headingNeedsNextColumn
 
     if (willOverflow) {
-      const availablePt = effectiveColumnHeight - colFill - segGuardPt
-
       // Paragraph continuation logic:
       // - left column: allow paragraph to continue into right column if both sides
       //   can hold at least 2 lines.
@@ -776,51 +620,8 @@ function paginate(chapters: { title: string; index: number; segments: Segment[] 
           // Not enough items fit — fall through to normal overflow (move whole list)
         }
 
-        // ── Regular paragraph: text-level word split ──────────────────────────
-        const prevSeg =
-          currentPage.segments.length > 0
-            ? currentPage.segments[currentPage.segments.length - 1]
-            : null
-        const followsHeading = prevSeg?.type === 'heading'
-        const canSplitParagraph =
-          !pSeg.isListSegment &&
-          (ENABLE_ROUTINE_PARAGRAPH_SPLIT ||
-            (ENABLE_HEADING_FOLLOW_SPLIT && followsHeading))
-
-        if (canSplitParagraph) {
-          if (colNum === 0) {
-            const split = splitParagraphByAvailableHeight(
-              pSeg,
-              availablePt,
-              MIN_SPLIT_TAIL_LINES_SAME_PAGE,
-            )
-            if (split) {
-              const [head, tail] = split
-              currentPage.segments.push(head)
-              nextColumn()
-              addSegment(tail, chTitle, chIdx)
-              return
-            }
-          }
-
-          if (colNum === 1) {
-            const split = splitParagraphByAvailableHeight(
-              pSeg,
-              availablePt,
-              MIN_SPLIT_TAIL_LINES_NEXT_PAGE,
-            )
-            if (split) {
-              const [head, tail] = split
-              currentPage.segments.push(head)
-              flush()
-              currentPage = newPage(pageNumber, chTitle, chIdx)
-              colFill = 0
-              colNum = 0
-              addSegment(tail, chTitle, chIdx)
-              return
-            }
-          }
-        }
+        // Preserve complete paragraph HTML. Moving the whole segment avoids
+        // dropping inline markup such as emphasis, links, and game symbols.
       }
 
       if (seg.type === 'heading') {
@@ -850,7 +651,7 @@ function paginate(chapters: { title: string; index: number; segments: Segment[] 
     // Record chapter start page
     const startPage =
       colFill === 0 && colNum === 0 ? pageNumber : pageNumber + (colNum === 1 ? 1 : 0)
-    let chStart = startPage
+    const chStart = startPage
 
     for (let i = 0; i < ch.segments.length; i++) {
       const seg = ch.segments[i]
@@ -886,6 +687,15 @@ function newPage(num: number, chapterTitle: string, chapterIndex: number): BookP
 function main() {
   console.log('[…] Forbidden Lands — content pre-processor')
 
+  const missingChapters = CHAPTER_FILES.filter(
+    (chapterFile) => !existsSync(join(COREBOOK_DIR, chapterFile)),
+  )
+  if (missingChapters.length > 0) {
+    throw new Error(
+      `Missing required corebook chapters in ${COREBOOK_DIR}: ${missingChapters.join(', ')}`,
+    )
+  }
+
   const imageMap = loadManifest()
   console.log(`[…] Image manifest: ${imageMap.size} chapters with images`)
 
@@ -893,10 +703,6 @@ function main() {
 
   for (let i = 0; i < CHAPTER_FILES.length; i++) {
     const file = join(COREBOOK_DIR, CHAPTER_FILES[i])
-    if (!existsSync(file)) {
-      console.warn(`[!] Missing: ${file} — skipping`)
-      continue
-    }
     process.stdout.write(`[…] Parsing ${CHAPTER_FILES[i]} …`)
     const { title, segments } = parseChapter(file, i, imageMap)
     chapters.push({ title, index: i, segments })
@@ -905,6 +711,17 @@ function main() {
 
   console.log('[…] Paginating …')
   const { pages, chapterIndex } = paginate(chapters)
+  if (chapters.length !== CHAPTER_FILES.length || pages.length === 0) {
+    throw new Error(
+      `Preprocessing produced invalid output: ${chapters.length} chapters and ${pages.length} pages`,
+    )
+  }
+
+  for (const page of pages) {
+    page.segments.forEach((segment, segmentIndex) => {
+      segment.uid = `page-${page.pageNumber}-segment-${segmentIndex}`
+    })
+  }
 
   const headingPageMap = buildHeadingPageMap(pages)
 
@@ -941,7 +758,7 @@ function main() {
   // Summary
   const totalSegments = pages.reduce((n, p) => n + p.segments.length, 0)
   console.log(`[✓] Total segments across all pages: ${totalSegments}`)
-  console.log(`[✓] Expected pages (plan): 180–220. Got: ${pages.length}`)
+  console.log(`[✓] Generated pages: ${pages.length}`)
 }
 
 main()

@@ -26,7 +26,24 @@ body {
   font-size: var(--text-base);
   line-height: var(--leading-body);
   min-height: 100dvh;
-  overflow: hidden; /* page flip handles scroll */
+  overflow: auto;
+}
+
+@media (max-width: 900px), (orientation: portrait) {
+  body {
+    font-size: 1rem;
+  }
+
+  .body-text {
+    font-size: 1rem;
+    line-height: 1.55;
+    text-wrap: pretty;
+  }
+
+  .bold-label,
+  .subsection {
+    font-size: 1rem;
+  }
 }
 
 #root {

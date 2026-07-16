@@ -25,11 +25,12 @@ export default function TableBlock({ headers, rows, spanAll }: TableBlockProps) 
     >
       <div className={styles.dressTop} />
       <table className={styles.table}>
+        <caption className={styles.visuallyHidden}>Rules reference table</caption>
         {headers.length > 0 && (
           <thead>
             <tr>
               {headers.map((h, i) => (
-                <th key={i} className={`${styles.th} bold-label`}>
+                <th key={i} scope="col" className={`${styles.th} bold-label`}>
                   {renderFixedInline(h)}
                 </th>
               ))}

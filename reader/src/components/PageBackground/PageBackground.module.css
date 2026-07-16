@@ -42,3 +42,23 @@
   display: flex;
   flex-direction: column;
 }
+
+@media (max-width: 900px), (orientation: portrait) {
+  .page {
+    width: 100%;
+    height: auto;
+    min-height: 100dvh;
+    overflow: visible;
+  }
+
+  .left::after,
+  .right::after {
+    display: none;
+  }
+
+  .content {
+    height: auto;
+    min-height: 100dvh;
+    padding: clamp(1.25rem, 5vw, 2.5rem);
+  }
+}

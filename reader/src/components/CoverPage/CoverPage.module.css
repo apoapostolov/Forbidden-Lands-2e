@@ -11,3 +11,11 @@
   display: block;
   object-fit: cover;
 }
+
+@media (max-width: 900px), (orientation: portrait) {
+  .cover {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 642 / 907;
+  }
+}

@@ -199,6 +199,27 @@
   widows: 2;
 }
 
+@media (max-width: 900px), (orientation: portrait) {
+  .columns {
+    display: block;
+    min-height: auto;
+  }
+
+  .column + .column {
+    margin-top: 0.75rem;
+  }
+
+  .sectionHeadingPage {
+    width: 100%;
+    margin-inline: 0;
+  }
+
+  .spanAllWrap :global(.fiction-intro),
+  .frontMatterFictionWrap :global(.fiction-intro) {
+    font-size: 1rem;
+  }
+}
+
 /* ── Layout control classes ────────────── */
 /* In explicit two-column layout, these are handled by the flow engine.
    CSS break properties are not needed. */

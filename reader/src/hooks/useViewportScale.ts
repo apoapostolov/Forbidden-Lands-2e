@@ -1,66 +1,66 @@
 import { useEffect, useState } from 'react'
 
-// Base page dimensions in px (482pt × 680pt, 1pt = 1.333px)
-const BASE_PAGE_W = 642
-const BASE_PAGE_H = 907
-// Spread is two pages wide + small gap
-const BASE_SPREAD_W = BASE_PAGE_W * 2 + 4
+const BASE_PAGE_WIDTH = 642
+const BASE_PAGE_HEIGHT = 907
+const BASE_SPREAD_WIDTH = BASE_PAGE_WIDTH * 2 + 4
+const SINGLE_PAGE_QUERY = '(max-width: 900px), (orientation: portrait)'
 
 interface ViewportScale {
   scale: number
-  pageWidth: number
-  pageHeight: number
+  singlePage: boolean
 }
 
-/**
- * Calculates the CSS scale factor so the two-page spread fills the viewport.
- * Respects both width and height constraints.
- */
+function getSinglePagePreference(): boolean {
+  return window.matchMedia(SINGLE_PAGE_QUERY).matches
+}
+
 export function useViewportScale(): ViewportScale {
-  const [scale, setScale] = useState(1)
+  const [viewport, setViewport] = useState<ViewportScale>(() => ({
+    scale: 1,
+    singlePage: getSinglePagePreference(),
+  }))
 
   useEffect(() => {
-    function update() {
-      const vw = window.innerWidth - 32 // 16px padding each side
-      // Reserve vertical room using ACTUAL nav position/size so we avoid
-      // first-render clipping when nav mounts a moment after the reader.
-      const nav = document.querySelector(
-        'nav[aria-label="Book navigation"]',
-      ) as HTMLElement | null
-      const navRect = nav?.getBoundingClientRect()
+    const media = window.matchMedia(SINGLE_PAGE_QUERY)
+    const nav = document.querySelector<HTMLElement>('nav[aria-label="Book navigation"]')
 
-      const topReserve = 16
+    function update() {
+      const singlePage = media.matches
+      if (singlePage) {
+        setViewport({ scale: 1, singlePage: true })
+        return
+      }
+
+      const navRect = nav?.getBoundingClientRect()
+      const availableWidth = window.innerWidth - 32
       const bottomReserve = navRect
         ? Math.max(24, window.innerHeight - navRect.top + 12)
         : 96
-
-      const vh = Math.max(240, window.innerHeight - topReserve - bottomReserve)
-      const scaleH = vh / BASE_PAGE_H
-      const scaleW = vw / BASE_SPREAD_W
-      const rawScale = Math.min(scaleH, scaleW, 1)
-      const safeScale = rawScale * 0.98
-      setScale(safeScale)
+      const availableHeight = Math.max(240, window.innerHeight - 16 - bottomReserve)
+      const scale = Math.min(
+        availableHeight / BASE_PAGE_HEIGHT,
+        availableWidth / BASE_SPREAD_WIDTH,
+        1,
+      )
+      setViewport({ scale: scale * 0.98, singlePage: false })
     }
 
     update()
-    // Re-run after first paint + shortly after mount to capture late nav layout.
-    const raf1 = requestAnimationFrame(update)
-    const raf2 = requestAnimationFrame(update)
-    const t1 = window.setTimeout(update, 120)
-    const t2 = window.setTimeout(update, 420)
-
+    const frame = requestAnimationFrame(update)
+    const observer = nav ? new ResizeObserver(update) : null
+    observer?.observe(nav as HTMLElement)
+    media.addEventListener('change', update)
     window.addEventListener('resize', update)
     window.addEventListener('fullscreenchange', update)
 
     return () => {
-      cancelAnimationFrame(raf1)
-      cancelAnimationFrame(raf2)
-      window.clearTimeout(t1)
-      window.clearTimeout(t2)
+      cancelAnimationFrame(frame)
+      observer?.disconnect()
+      media.removeEventListener('change', update)
       window.removeEventListener('resize', update)
       window.removeEventListener('fullscreenchange', update)
     }
   }, [])
 
-  return { scale, pageWidth: BASE_PAGE_W, pageHeight: BASE_PAGE_H }
+  return viewport
 }

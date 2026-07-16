@@ -25,7 +25,7 @@ export default function PageSpread({ page, side }: PageSpreadProps) {
   )
 
   return (
-    <PageBackground side={side}>
+    <PageBackground side={side} pageNumber={page.pageNumber}>
       {/* PageHeader removed — using PageHeaderBanner for book-accurate layout */}
       {!hasSectionHeading && <PageHeaderBanner showChapterOverlay={hasChapterHeading} />}
       <PageContent
