@@ -19,6 +19,12 @@
 !/skills/
 !/skills/**
 !/docs/
+!/reader/
+!/reader/**
+
+# Reader dependencies and generated build output.
+/reader/node_modules/
+/reader/dist/
 
 # Explicitly keep these out even if a parent rule changes later.
 /.codex

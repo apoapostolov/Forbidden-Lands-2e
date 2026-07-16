@@ -1,0 +1,152 @@
+.block {
+  /* Inherits .body-text or .flavour-text from global typography */
+  break-inside: auto;
+  page-break-inside: auto;
+}
+
+/* Ensure list-heavy blocks can continue across column/page boundaries. */
+.block :global(ul),
+.block :global(ol),
+.block :global(li) {
+  break-inside: auto;
+  page-break-inside: auto;
+}
+
+/* Inline elements inside text blocks */
+.block :global(strong) {
+  font-family: var(--font-label);
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.block :global(em) {
+  font-style: italic;
+  color: var(--text-primary);
+}
+
+/* Unordered lists: use diamond bullet (✦) instead of default */
+.block :global(ul) {
+  padding-left: 0.62em;
+  margin-bottom: 0.5em;
+  list-style: none;
+}
+
+.block :global(ul li) {
+  margin-bottom: 0.25em;
+  /* Hanging indent: diamond ✦ protrudes left of wrapped text by ~half its glyph width */
+  padding-left: 0.3em;
+  text-indent: -0.3em;
+}
+
+/* Diamond bullet via ::before pseudo-element */
+/* Exclude .diamond-list items — they already contain a .diamond-marker span */
+/* Use > (direct child) so deeply-nested .diamond-bullet items inside a
+  regular <ul> wrapper do not get a second ✦ from this rule. */
+.block :global(ul:not(.diamond-list) > li)::before {
+  content: '✦';
+  margin-right: 0.12em;
+  color: var(--text-primary);
+  font-weight: 400;
+}
+
+/* Normalize malformed nested diamond lists so all items align uniformly */
+.block :global(.diamond-list) {
+  margin-left: 0.1em;
+  padding-left: 0;
+}
+
+.block :global(.diamond-list .diamond-list) {
+  margin: 0;
+  padding-left: 0;
+}
+
+.block :global(.diamond-list .diamond-bullet) {
+  margin-left: 0;
+  padding-left: 0.55em;
+  text-indent: -0.7em;
+}
+
+.block :global(ol) {
+  padding-left: 0.9em;
+  margin-bottom: 0.5em;
+}
+
+.block :global(ol li) {
+  margin-bottom: 0.25em;
+}
+
+/* Links */
+.block :global(a) {
+  color: var(--text-primary);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+/* Code blocks */
+.block :global(code) {
+  font-family: 'Courier New', monospace;
+  font-size: 0.9em;
+  background: rgba(0, 0, 0, 0.05);
+  padding: 0 2px;
+  border-radius: 2px;
+}
+
+/* Force monochrome/greyscale on all emoji via filter */
+.block :global(p),
+.block :global(li),
+.block :global(strong) {
+  filter: brightness(1);
+}
+
+/* ── Decorative sidebar for non-fiction blockquotes ──────────── */
+.sidebar {
+  position: relative;
+  margin: 0.5em 0;
+  padding: 0;
+}
+
+/* Left and right borders connecting the top/bottom decorative images.
+   Matches the scratchy lines visible at the edges of blockquote-top/bottom.
+   Color sampled from the images: dark brown-charcoal ~#3a3028, ~1.5px wide. */
+.sidebar::before,
+.sidebar::after {
+  content: '';
+  position: absolute;
+  top: 18px;
+  bottom: 12px;
+  width: 2.5px;
+  background: #3a3028;
+  opacity: 0.55;
+  pointer-events: none;
+}
+.sidebar::before {
+  left: 0;
+}
+.sidebar::after {
+  right: 0;
+}
+
+.sidebarTop {
+  height: 26px;
+  margin-bottom: 0;
+  background: url('/assets/decorations/blockquote-top.png') no-repeat center top;
+  background-size: 100% auto;
+  pointer-events: none;
+}
+
+.sidebarBottom {
+  height: 26px;
+  margin-top: -12px; /* lift 3/4 of a line so frame closes flush */
+  margin-left: -5px; /* ~4% wider than text area to match border edges */
+  width: calc(100% + 10px);
+  background: url('/assets/decorations/blockquote-bottom.png') no-repeat center bottom;
+  background-size: 100% auto;
+  pointer-events: none;
+}
+
+/* Text inside the sidebar frame sits inset from the borders */
+.sidebar > .block {
+  padding-left: 10px;
+  padding-right: 10px;
+}

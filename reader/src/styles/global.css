@@ -1,0 +1,153 @@
+/* ============================================================
+   Forbidden Lands Reader — Global Reset + Base Styles
+   ============================================================ */
+@import './variables.css';
+@import './typography.css';
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  background-color: var(--color-bg-deep);
+  color: var(--text-primary);
+  font-family: var(--font-body);
+  font-size: var(--text-base);
+  line-height: var(--leading-body);
+  min-height: 100dvh;
+  overflow: hidden; /* page flip handles scroll */
+}
+
+#root {
+  height: 100dvh;
+  display: contents;
+}
+
+/* ── Focus styles ──────────────────────────────────────────── */
+:focus-visible {
+  outline: 2px solid var(--rule-color);
+  outline-offset: 2px;
+}
+
+/* ── Selection ─────────────────────────────────────────────── */
+::selection {
+  background: rgba(100, 100, 100, 0.3);
+  color: var(--text-heading);
+}
+
+/* ── Inline symbol glyphs (Font Awesome) ─────────────────────────────── */
+.fl-symbol {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 0.08em;
+  padding: 0;
+  font-size: 0.95em;
+  font-weight: 700;
+  line-height: 1;
+  vertical-align: text-bottom;
+  color: var(--text-primary) !important;
+  font-variant-ligatures: none;
+  font-feature-settings:
+    'liga' 0,
+    'clig' 0,
+    'dlig' 0;
+}
+
+.fl-symbol-fa {
+  font-family: 'Font Awesome 7 Free' !important;
+  font-style: normal;
+  font-weight: 900;
+  speak: none;
+}
+
+.fl-symbol-skull,
+.fl-symbol-sword,
+.fl-symbol-blood {
+  color: var(--text-primary) !important;
+  font-weight: 700;
+}
+
+.fl-symbol-sword {
+  font-family: var(--font-body), 'Segoe UI Symbol', 'Apple Color Emoji', sans-serif;
+}
+
+.fl-symbol-skull,
+.fl-symbol-blood {
+  color: #0d0d0d !important;
+}
+
+/* ── Diamond Bullet Styling (✦ from spell attribute lists) ─── */
+.diamond-list {
+  list-style: none;
+  /* Keep only a gentle indent from the column edge. */
+  padding-left: 0;
+  margin: 0.5em 0;
+  margin-left: 0.2em;
+}
+
+.diamond-bullet {
+  margin-bottom: 0.2em;
+  display: list-item;
+  list-style: none;
+  /* Gentle hanging indent: minimal offset and very small marker gap. */
+  padding-left: 0.55em;
+  text-indent: -0.7em;
+}
+
+.diamond-marker {
+  /* Tight marker box to avoid oversized marker-to-text distance. */
+  display: inline-block;
+  width: 0.55em;
+  margin-right: 0.15em;
+  color: var(--text-primary);
+  font-weight: 400;
+  text-align: center;
+}
+
+/* ── Flow Engine measurement overrides ─────────────────────────
+   The TextBlock CSS module (.block) overrides the base .body-text
+   list styles with tighter custom bullets.  The off-screen
+   measurement container can't load CSS modules, so these global
+   rules replicate the .block list overrides so measured heights
+   match rendered heights.  Without them, per-item margin drift
+   (0.15em vs 0.25em) accumulates to ~30px overflow on dense
+   list pages. ──────────────────────────────────────────────── */
+.flow-measure-text ul {
+  padding-left: 0.62em;
+  margin-bottom: 0.5em;
+  list-style: none;
+}
+
+.flow-measure-text ul li {
+  margin-bottom: 0.25em;
+  padding-left: 0.3em;
+  text-indent: -0.3em;
+}
+
+.flow-measure-text ul:not(.diamond-list) > li::before {
+  content: '✦';
+  margin-right: 0.12em;
+  color: var(--text-primary);
+  font-weight: 400;
+}
+
+.flow-measure-text ol {
+  padding-left: 0.9em;
+  margin-bottom: 0.5em;
+}
+
+.flow-measure-text ol li {
+  margin-bottom: 0.25em;
+}
