@@ -857,6 +857,10 @@ You are a skilled engineer and can build advanced constructions in your strongho
 
 You know how to cook using simple things, even while on a journey through the wilderness. Your CHEF talent also allows you to brew alcoholic beverages like beer, ale, mead, and wine. However, you cannot distill them into Liquor.
 
+You can learn CHEF Rank 1 without a teacher by cooking to survive. This costs
+3 XP but takes three Quarter Days of training. Make the normal WITS roll after
+each Quarter Day.
+
 - **✦ RANK 1:** You can turn up to D6 units of VEGETABLES, MEAT, or FISH into FOOD (see Chapter 7). Cooking requires a fire and takes a Quarter Day. You can cook up to a dozen units of FOOD in a proper kitchen in a Quarter Day.
 - **✦ RANK 2:** When you cook for a Quarter Day, you create an extra FOOD unit.
 - **✦ RANK 3:** The food you cook is so delicious that whoever eats it immediately recovers a point of lost Empathy. Rank 3 now also applies to brewed alcoholic beverages, so they are considered a masterwork and restore Empathy.

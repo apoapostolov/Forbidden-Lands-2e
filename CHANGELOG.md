@@ -9,7 +9,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-_Nothing yet._
+### Changed
+
+- **Book 01 — Corebook, survival cooking.** Adventurers can now learn CHEF
+  Rank 1 without a teacher by cooking to survive, for 3 XP and three Quarter
+  Days of training.
+
+### Fixed
+
+- **Book 01 — Corebook, mounted archery.** Clarified that shooting a short bow
+  or sling while riding requires HORSEBACK FIGHTER Rank 2 and an OPEN zone.
 
 ## [1.1.4] - 2026-07-15 — "The Skills Update"
 

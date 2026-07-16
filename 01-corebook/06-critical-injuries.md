@@ -181,7 +181,10 @@ To be able to use its full Movement Rate, any zones the animal moves through mus
 
 **CLOSE COMBAT:** You can fight from a mount, but only with one-handed weapons. Opponents attacking you must decide if they attack you or the mount. Attacks against a mounted rider suffer a -1 penalty.
 
-**ARCHERY:** To shoot a bow from a mount requires the _HORSEBACK FIGHTER_ talent, otherwise you can't use a ranged weapon while riding. Opponents shooting at you must decide if they attack you or the mount.
+**ARCHERY:** You need _HORSEBACK FIGHTER_ Rank 2 and an OPEN zone to shoot a
+short bow or sling while riding a mount. Without it, you cannot use a ranged
+weapon while riding. Opponents shooting at you must decide if they attack you
+or the mount.
 
 **DAMAGE:** Your animal can suffer damage, just like you can, through attacks or by pushing rolls when you are using the animal's attribute score. Animals recover damage just like adventurers. An animal that has its Strength reduced to zero does not suffer a critical injury, instead it is considered dying. An _ANIMAL HANDLING_ roll must be made within an hour to save the animal. Animals generally don't have Wits or Empathy.
 

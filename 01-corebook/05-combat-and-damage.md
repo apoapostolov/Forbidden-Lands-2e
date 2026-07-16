@@ -356,6 +356,9 @@ Nirmena's turn. She draws her sword (fast action) and tries to _stab_ Orc 2, but
 
 When you attack someone from a distance, you roll **MARKSMANSHIP**. You need a ranged weapon, even if it's simply something to throw. The table below describes various weapons and indicates the maximum range at which the weapon can be used.
 
+You need HORSEBACK FIGHTER Rank 2 and an OPEN zone to shoot a short bow or sling
+while riding a mount.
+
 #### RANGE
 
 When you shoot at someone, it is harder to hit your target the further away they are. At SHORT range, you get a –1 penalty, and at LONG range it’s a –2. At ARM’S LENGTH, you get –3 since it’s very hard to draw a bead on an opponent that close to you. This does not apply if you are shooting at a defenseless or completely oblivious opponent at ARM’S LENGTH – in that case, you get a +3 bonus instead.
