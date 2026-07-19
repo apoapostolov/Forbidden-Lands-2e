@@ -40,9 +40,10 @@ If the target cannot BACK, or if backing is impossible or clearly
 prohibitive, the consequence applies automatically.
 
 You cannot BACK from a master strike if you are engaged by five or more
-opponents. The GM can also rule that a wall, barrier, or similar obstacle
-leaves you no room to give ground. You never have to BACK into an obvious
-hazard, such as fire or a chasm; treat this as being unable to BACK.
+opponents that cover every direction in which you could withdraw; the GM
+adjudicates whether they do. The GM can also rule that a wall, barrier, or
+similar obstacle leaves you no room to give ground. You never have to BACK into
+an obvious hazard, such as fire or a chasm; treat this as being unable to BACK.
 
 BACK from a master strike costs no action and normally succeeds automatically.
 If you BACK while in difficult terrain or enter difficult terrain by BACKING,
