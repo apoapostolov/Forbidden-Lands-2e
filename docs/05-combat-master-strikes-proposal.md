@@ -39,6 +39,22 @@ If a master strike occurs, the target must choose one of the following:
 If the target cannot BACK, or if backing is impossible or clearly
 prohibitive, the consequence applies automatically.
 
+You cannot BACK from a master strike if you are engaged by five or more
+opponents. The GM can also rule that a wall, barrier, or similar obstacle
+leaves you no room to give ground. You never have to BACK into an obvious
+hazard, such as fire or a chasm; treat this as being unable to BACK.
+
+BACK from a master strike costs no action and normally succeeds automatically.
+If you BACK while in difficult terrain or enter difficult terrain by BACKING,
+make a MOVE roll. If you fail, you fall prone instead of BACKING and suffer the
+listed consequence.
+
+When a target BACKS from a master strike, the attacker can immediately follow
+into the space the target gave up. This costs no action, does not require a
+roll, and does not trigger BRACE or INTERCEPT. If the attacker follows, the
+combatants remain engaged at the same distance band. The attacker can decline
+to follow.
+
 ## Proposed Strike Types
 
 ### SLASH
@@ -74,15 +90,19 @@ adding forced space control.
 It does not simply add damage. Instead, it creates a choice that matters in the
 moment:
 
-- step back and lose ground
+- give ground while the attacker keeps the pressure
 - stay engaged and accept a tempo cost
 
-That choice is especially strong in a system where position, reach, and action
-economy already matter.
+The attacker chooses whether to follow. This matters when a fighter with a
+short weapon has closed inside the reach of a spear or polearm: backing away
+does not automatically let the long-reach fighter recover its preferred
+distance.
 
 ## Design Notes
 
 - The rule is strongest when BACK actually changes weapon reach or engagement.
+- Following keeps the established distance band instead of treating BACK as a
+  universal benefit to the defender.
 - The threshold is deliberately high enough that master strikes feel earned.
 - SLASH and STAB should remain different from each other.
 - Monster attacks need their own wording because not every monster strike fits
