@@ -192,6 +192,7 @@ The dragged man is a tenant whose ox went down into the furrow first. The man ho
 
 **TYPICAL AMPHIBIAN WARRIOR**
 
+- **ATTRIBUTES:** Strength 4, Agility 4, Wits 3, Empathy 1
 - **MOVEMENT:** 2 in water, 1 on land
 - **SKILLS:** Endurance 2, Melee 3, Scouting 3, Survival 3
 - **TALENTS:** –
@@ -305,6 +306,7 @@ Three apple cores sit on the doorstep of Veld Arnke's farm, each with a cut mark
 
 > _The psychopomps of the Congregation of the Serpent claim that the god Wyrm made the basilisk king of all reptiles. As the Protector’s representative, it would watch over snakes, lizards, frogs, and other creatures that crawl across the earth. For that purpose, it was endowed with divine powers – the power to both give and take life with its mere breath, and to create and recreate with its commanding gaze. But the basilisk used its god- given powers for evil, killing and consuming rather than guarding and protecting. That is why it is considered a vile abomination to this day: a bitter anomaly hiding in the shadows, awaiting the day when it will reclaim its rightful place as Wyrm’s right hand._
 
+- **ATTRIBUTES:** Strength 24, Agility 6, Wits 2, Empathy 0
 - **MOVEMENT:** 2
 - **ARMOR RATING:** 8
 - **Bound Life Force:** Every basilisk is bound to the cockerel’s egg from which it once hatched. These large eggs, which are normally intact except for a small opening at the top, are always kept in the basilisk’s lair. They are coated with a lethal toad poison with Potency 7 that is transferred through touch, but otherwise they are easily destroyed. When the egg is crushed, the basilisk loses its magic powers and shrinks into a grumpy but basically harmless viper ( STRENGTH 1, bite with Weapon Damage 1 and a sleeping poison with Potency 4).
