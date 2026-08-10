@@ -128,7 +128,7 @@ to attacks. Campsites can be secured by pouring lamp oil on the ground, which th
 
 An Alderlander stead of forty souls has fed through the Mist years because an Abyss Worm lives under its long field and breaks the ground the plow cannot. Every spring, at first plowing, the worm takes one villager. By old lot, the lot falls on someone past work. This spring the lot fell wrong: a young widow with two small children. Her dead husband’s uncle, who holds the drawn straw, waits at the party’s fire and asks them to lead her away before sunrise. He does not want to be the sacrifice instead. He wants the children not to know the name of who was meant to go.
 
-- **Terrain Types:** Plains, Forest, Hills
+- **TERRAIN TYPES:** Plains, Forest, Hills
 
 #### Random Encounter: the Drum and the Jar
 
@@ -136,7 +136,7 @@ An Alderlander stead of forty souls has fed through the Mist years because an Ab
 
 A charcoal-burner’s widow has walked three days to the ruined stead where her husband was taken by an Abyss Worm. She means to drum until the worm answers and then open the sealed jar in its mouth. She will not say what is in the jar. She has paid three silver for the adventurers to keep her mule alive and carry a letter of her daughter’s inheritance to a Raven Sister two days east. The mule is worth more than three silver. The drum is already calling.
 
-- **Terrain Types:** Plains, Forest, Hills, Ruins
+- **TERRAIN TYPES:** Plains, Forest, Hills, Ruins
 
 > **RESOURCES**
 >
@@ -193,7 +193,7 @@ The mist as such seems to be immune to attacks, but it is said to disperse in br
 
 A travelling midwife tends a dying alderlander matron whose nightmares draw a bloodling each dusk to the guest door of the village inn. Her three grown sons want the thing gone so their mother can sleep. The midwife wants the old woman to name, before she dies, who poisoned her first husband in the Mist years. The matron will only speak the name if the red mist is at the window one more time. Drive the bloodling off and the wrong stays buried. Let it come and the mother dies before sunrise. There is one copper kettle in the house, one copper mirror, and no more copper than that.
 
-- **Terrain Types:** Plains, Forest, Marshlands
+- **TERRAIN TYPES:** Plains, Forest, Marshlands
 
 #### Random Encounter: the Red Calf
 
@@ -201,7 +201,7 @@ A travelling midwife tends a dying alderlander matron whose nightmares draw a bl
 
 A farmer’s calf was born three weeks ago with its throat full of red mist. It has not died. It does not eat and does not grow, but at night a red vapor gathers about it and the farmer’s crops thrive as nothing else in the valley does. A priestess of the Raven Church two villages over will pay silver for the calf’s head and witness. The farmer will pay silver to keep the calf alive through harvest. A Rust Brother journeyman, just arrived at the inn, will pay in other ways if he learns of it first.
 
-- **Terrain Types:** All
+- **TERRAIN TYPES:** All
 
 > **RESOURCES**
 >
@@ -334,7 +334,7 @@ Demons can be completely impervious to cuts and strikes, fire or cold. Most of t
 
 A small, quiet demon lives bound in an old oak at the edge of a marsh village. For nineteen years the village has kept the peace: no traveler sleeps more than one night in sight of its branches, no blade is whetted beneath its crown. In return, the fever that killed three generations of children has not returned. A Raven Sister has arrived with orders from the Congregation to cut the oak down. The village will not refuse a Sister. They will also not see the next winter’s first week if the peace breaks. The novice has been told the tree holds a demon. She has not been told the rest.
 
-- **Terrain Types:** Plains, Forest, Marshlands
+- **TERRAIN TYPES:** Plains, Forest, Marshlands
 
 #### Random Encounter: the Father Who Paid
 
@@ -342,7 +342,7 @@ A small, quiet demon lives bound in an old oak at the edge of a marsh village. F
 
 During the Alder Wars the fisherman bought his firstborn son’s life from a minor demon by promising the demon could take the boy back when his beard came in full. The boy’s beard is now three fingers long. The fisherman asks the adventurers to kill him — the father — before morning, so the contract dies with the signer. He wants it done after his wife has gone to sleep and before his son comes back from the net. He has two silver in his hand and the rest under his bed. He cannot raise a knife to himself; he has tried, and the demon keeps his hands steady.
 
-- **Terrain Types:** All
+- **TERRAIN TYPES:** All
 
 > **RESOURCES**
 >
@@ -392,7 +392,7 @@ It is whispered that Death Knights regularly need to devour certain parts of hum
 
 A Death Knight of the Alder Wars has risen with a parchment roll of three hundred names his dead king swore to. Each night he visits the nearest living descendant of a name on the roll and calls for renewed oath. The descendants are a weaver, two farmhands, a half-elf midwife, a child of nine, a Rust Brother cook. Refusal is death; oath is to march with him on first frost. One descendant, a poor fletcher, has already gone willingly and walks a half step behind the horse. He still answers to his own name. He asks the adventurers to take his knife back to his daughter and tell her he has not been captured.
 
-- **Terrain Types:** Plains, Forest, Ruins
+- **TERRAIN TYPES:** Plains, Forest, Ruins
 
 #### Random Encounter: the Salt Merchant on the Eastroad
 
@@ -400,7 +400,7 @@ A Death Knight of the Alder Wars has risen with a parchment roll of three hundre
 
 A salt-merchant on the road tells the adventurers that he is in fact the condemned criminal his home village pays in annual tithe to a Death Knight. He bought execution-right from the village court with his last coin, rode out a freeman, and does not mean to return. If the adventurers escort him past the Knight’s range the village will be taken in full within the month. If they turn him in, he offers his full wagon of salt — a working season’s wages for a stronghold — and the silver hidden in the axle. He wept once already, at dawn; he will not weep again.
 
-- **Terrain Types:** All
+- **TERRAIN TYPES:** All
 
 > **RESOURCES**
 >
@@ -460,7 +460,7 @@ By “small” dragons, one refers to those who weigh no more than four oxen. Ev
 
 A small dragon has taken eleven sheep from one flock in six months. The absent lord pays the shepherd for the loss and now sends Iron Guard to “inspect the claim.” The shepherd knows the dragon eats eleven sheep and no more, because his grandfather struck a bargain with a nesting pair during the Mist years. Exposing the bargain ruins him. Upholding it means the Iron Guard climbs the crag and kills whatever they find. A pair of flightless chicks sleeps behind the shepherd’s barn. His daughter feeds them at dusk and has named them.
 
-- **Terrain Types:** Plains, Hills, Mountains
+- **TERRAIN TYPES:** Plains, Hills, Mountains
 
 #### Random Encounter: the Scale in the Road
 
@@ -468,7 +468,7 @@ A small dragon has taken eleven sheep from one flock in six months. The absent l
 
 The Crombe dwarves have dug a scale belonging to a large dragon still alive. Two of them want to carry it home and bind it in stone. The third, who wants it destroyed, knows that the scale is how dragons of Scarne’s line find each other — and that the dwarves are not all of a mind on what they mean to do once found. He will finish his argument before he dies. If the adventurers speak, the shadow above them pauses. It has heard everything so far.
 
-- **Terrain Types:** Mountains, Ruins, Hills
+- **TERRAIN TYPES:** Mountains, Ruins, Hills
 
 > **RESOURCES**
 >
@@ -521,7 +521,7 @@ A Drakewyrm can’t stand competing with anyone when it comes to its brilliance,
 
 A merchant’s daughter is two days from her wedding in a hill village when a drakewyrm decides her dowry — the polished copper and the silver mirror — belongs to it. The merchant wants the beast killed before the ceremony. The bride, sitting quietly among the wagons, wants it to take the dowry in full. If the adventurers ask her why, she will not answer, but she writes well and hands one of them a folded scrap. The scrap is in a tongue the merchant cannot read.
 
-- **Terrain Types:** Hills, Mountains, Plains
+- **TERRAIN TYPES:** Hills, Mountains, Plains
 
 #### Random Encounter: the Song Taught Wrong
 
@@ -529,7 +529,7 @@ A merchant’s daughter is two days from her wedding in a hill village when a dr
 
 The bard was fed as an orphan by a drakewyrm in trade for song. She is returning now because the drakewyrm who raised her is dying. She wants to teach one village child one last verse before the beast passes, so the song she was given is not lost. The child’s parents do not want their son anywhere near a dying drakewyrm, and the bard pays silver and will pay more. The death-rattle is expected to last three days. A Rust Brother priory lies a day’s ride east. The bard has not slept in four nights.
 
-- **Terrain Types:** Hills, Mountains, Forest
+- **TERRAIN TYPES:** Hills, Mountains, Forest
 
 > **RESOURCES**
 >
@@ -583,7 +583,7 @@ The elves still honor these very old tree herders in the deep forests and when t
 
 An Ent has stood at the edge of an Alderlander logging camp for four days. It is judging. The loggers are tenants on a lord’s timber tax and cannot stop work. The girl does not know what the Ent is or that her father was one of the men who burned its grove during the Mist years. When the Ent decides, it will take one thing from the camp: the tree the girl hides behind when she plays, the girl’s father, or the girl herself. She is the only person in the camp who has ever shown it kindness.
 
-- **Terrain Types:** Forest, Dark Forest
+- **TERRAIN TYPES:** Forest, Dark Forest
 
 #### Random Encounter: the Grove Sold
 
@@ -591,7 +591,7 @@ An Ent has stood at the edge of an Alderlander logging camp for four days. It is
 
 The last tree of a sold grove is an Ent, though no villager knows. Last evening it spoke to the oldest woman of the stead in the elven tongue and told her what it means to do at dawn. She has not told the others. She has packed a bag and sat down at the road’s edge to wait for travellers. She will tell the adventurers the whole story only if they agree first to take her back to her sister’s house, six days off. She will not warn the village. She owes the village nothing.
 
-- **Terrain Types:** Forest, Dark Forest, Ruins
+- **TERRAIN TYPES:** Forest, Dark Forest, Ruins
 
 > **RESOURCES**
 >
@@ -642,7 +642,7 @@ Sometimes, ghosts possess statues or other inanimate objects, bringing them to l
 
 A ghost of an Alder War veteran haunts a small chapel a half day from the road. The Sister has come to banish him. The sexton — the veteran’s son, grown old himself — is hiding inside. His mother died in childbirth; the ghost raised him through moved tools and cold spots for forty years, one father speaking through a house. He does not want the banishing. The Sister cannot perform the purging if the son is present to refuse. If he hides while the rite is read, she will cut the ghost without knowing. If he shows himself, she must attempt a harder rite and may fail. Either way he loses. He asks the adventurers for nothing; he has a lantern of his own and has not eaten today.
 
-- **Terrain Types:** Ruins, Plains
+- **TERRAIN TYPES:** Ruins, Plains
 
 #### Random Encounter: the Cheap Room
 
@@ -650,7 +650,7 @@ A ghost of an Alder War veteran haunts a small chapel a half day from the road. 
 
 An innkeeper on a lonely road rents a back room that is always cold. His daughter died there six winters back. Since then her ghost has sat at the foot of the bed each night, mending the same shirt she was mending when she died. She does not harm any sleeper. She does not leave. The innkeeper has rented the room eighty-three times, in small silver. He tells himself he is giving his daughter eighty-three last faces. His wife left him four summers ago for the same reason. Tonight’s guest is the adventurers. He would rather they stayed.
 
-- **Terrain Types:** All
+- **TERRAIN TYPES:** All
 
 > **RESOURCES**
 >
@@ -703,7 +703,7 @@ Giants are said to be one of the original kin and to live very long lives. They 
 
 An Alderlander stead’s old jarl died this spring and, before he died, broke open a barrow for its cut masonry. The giant’s own mother is buried in that barrow. The jarl’s son has offered wergild in cattle and daughters, as the old law allows. The son’s wife is pregnant and will not give up a daughter to the hill country. The giant does not want cattle. He has waited four days for the right answer to walk out of the gate. If none walks out before dawn, he will decide for himself which stone of the stead’s wall is his mother’s.
 
-- **Terrain Types:** Plains, Hills
+- **TERRAIN TYPES:** Plains, Hills
 
 #### Random Encounter: the Climb without Orders
 
@@ -711,7 +711,7 @@ An Alderlander stead’s old jarl died this spring and, before he died, broke op
 
 Ten hirelings from a nearby stronghold are camped below a sleeping giant. Their lord paid a purse to climb and strike the crown shot; the crag’s giant has taken no village’s kin and kills only those who come for it. Their captain has a month-old letter from her daughter saying the stronghold is failing, the steward has cut rations, and no pay will come. She is telling the adventurers this because she wants them to take the purse and make the climb while her men look the other way — or she wants them to refuse and bear witness when she leaves in the morning. She has not decided which, and is waiting to see who the adventurers are.
 
-- **Terrain Types:** Hills, Mountains
+- **TERRAIN TYPES:** Hills, Mountains
 
 > **RESOURCES**
 >
@@ -764,7 +764,7 @@ Grown squid can exude a black mist that completely darkens their surroundings so
 
 An old dwarven miner offers the adventurers D10 silver — not coin, bullion — to descend into a flooded lower chamber of his family’s old claim and bring out a sealed brass box. He will not come. His brother drowned in that chamber eight winters back. He will not tell the adventurers that a giant squid has colonized the water, and he knows it has, and that is why he did not pay his own brother’s son to go. The box does contain what he says: his father’s pressed maps. Opening the box on the way out, or not opening it, is the other question.
 
-- **Terrain Types:** Mountains, Ruins
+- **TERRAIN TYPES:** Mountains, Ruins
 
 #### Random Encounter: the Dark Cistern
 
@@ -772,7 +772,7 @@ An old dwarven miner offers the adventurers D10 silver — not coin, bullion —
 
 A squid has crawled through the cracks into the village cistern. It died there, no one knows when, and its ink still colors the water. The villagers are drinking anyway because the dark keeps them from seeing what else has sunk to the bottom of the cistern — a body, bodies, no one will say. A girl of eleven asks the adventurers quietly to bring a torch down the shaft. She wants to know what happened to her sister. She does not know what she is asking for.
 
-- **Terrain Types:** Ruins, Mountains, Plains
+- **TERRAIN TYPES:** Ruins, Mountains, Plains
 
 > **RESOURCES**
 >
@@ -825,7 +825,7 @@ entire hunting party except for two brothers who lived to tell of the beast. Eve
 
 For nine winters, a widow has kept her dead husband’s ridge hut standing because a Gray Bear takes one child from the valley village each winter. The widow believes the bear comes for the hut’s children — hers, long dead — and not for the village’s. The village lost one last winter and two this winter, and the reeve has led the village men up the trail to burn the hut and turn out the widow. The bear is two hills off, watching. The widow knows all of it and is packing. She is slow. She will not make it before the reeve arrives, and she knows this also.
 
-- **Terrain Types:** Forest, Dark Forest, Hills
+- **TERRAIN TYPES:** Forest, Dark Forest, Hills
 
 #### Random Encounter: the Paw on the Road
 
@@ -833,7 +833,7 @@ For nine winters, a widow has kept her dead husband’s ridge hut standing becau
 
 A Raven Sister carries a Gray Bear’s severed paw, wrapped in oilcloth, toward a distant shrine for a blessing. The paw is said to belong to the bear that killed her predecessor, a woman she loved before her vows. A younger monk of the same order follows at fifty paces. He has orders to take the paw and destroy it before it reaches the shrine; his Sister Superior called it an obscene relic the day the elder Sister left. The elder Sister cannot fight. The younger will not, unless he is ordered. The road the adventurers are travelling lies between them.
 
-- **Terrain Types:** Forest, Hills, Plains
+- **TERRAIN TYPES:** Forest, Hills, Plains
 
 > **RESOURCES**
 >
@@ -885,7 +885,7 @@ Gryphons hunt anything that moves within their territory and can become a great 
 
 A horse-merchant hires the adventurers to take his sister and four horses over a pass. His sister is not his sister — she is his wife, fled. The four horses are not his. A gryphon pair nests above the pass and will take one horse when the party crosses; he has been planning this crossing for months. The question is which horse, which rider, and whether he can choose without the wife noticing. She has a knife in her boot and has noticed most of it already.
 
-- **Terrain Types:** Hills, Mountains, Plains
+- **TERRAIN TYPES:** Hills, Mountains, Plains
 
 #### Random Encounter: the Iron Saddle
 
@@ -893,7 +893,7 @@ A horse-merchant hires the adventurers to take his sister and four horses over a
 
 An Iron Guard rider fell from this crag at the end of the Alder Wars and his bones weathered here. A fledgling gryphon has taken to sleeping inside his armored saddle. The mother gryphon has not come back for three days. A bandit chief from a nearby hill-fort has decided to raise the fledgling as a mount and has offered good silver for the saddle, the fledgling, or both, delivered alive. The bandit has sent two of his own men, already halfway up the crag by another path.
 
-- **Terrain Types:** Hills, Mountains, Ruins
+- **TERRAIN TYPES:** Hills, Mountains, Ruins
 
 > **RESOURCES**
 >
@@ -949,7 +949,7 @@ The creature has been joined with the demon substance mog. Harpies aren’t very
 
 An Alderlander village elder lies dying. Her three grown daughters are gone — one married into a hill-clan, one took Raven vows, one drowned at Scarda two summers back. For six nights a flock of harpies has watched the longhouse from the eaves. The elder believes the harpies are her daughters, finally come in the only shape grief allowed them. She has left her shutter open. The death-writ, witnessed at noon, leaves the stead to whatever comes in at the window. The reeve has asked the adventurers to enter the house and kill the flock before she dies. She has pulled her curtain and will not see anyone without a daughter’s face.
 
-- **Terrain Types:** Plains, Forest
+- **TERRAIN TYPES:** Plains, Forest
 
 #### Random Encounter: the Beggar-Mothers
 
@@ -957,7 +957,7 @@ An Alderlander village elder lies dying. Her three grown daughters are gone — 
 
 Six harpies, clipped of wing, walk the road toward a roadside shrine of Heme four days ahead. They have renounced the flock. They are, as they have always been, desperately hungry, and have eaten only what is freely given. A Rust Brother priory lies two days back along the road; delivering them there fills a purse and buys them a burning. Feeding them tonight means they will follow the adventurers for as long as there is bread. The adventurers pass them at midday and one of the women, without looking up, asks a question in a half-human voice that the others do not seem to hear.
 
-- **Terrain Types:** Plains, Forest, Ruins
+- **TERRAIN TYPES:** Plains, Forest, Ruins
 
 > **RESOURCES**
 >
@@ -1012,7 +1012,7 @@ Most agree that the Hydra is a demonological experiment that has run amok and es
 
 A half-elf coppersmith outside a small village has run, for eleven years, a flat iron oven hot enough to sear the stump of a severed hydra head. Each year the village pays her and she walks down to the pond to earn her fee. This year the village could not raise the coin. The smith is closing her shop. The villagers stand at her door with coins they pretended not to have, asking her to come down to the pond one more time. The hydra has grown. The smith has not yet said yes or no. When she does, the adventurers will be expected to help one side or the other — or walk on.
 
-- **Terrain Types:** Plains, Marshlands
+- **TERRAIN TYPES:** Plains, Marshlands
 
 #### Random Encounter: the Birth in the Reeds
 
@@ -1020,7 +1020,7 @@ A half-elf coppersmith outside a small village has run, for eleven years, a flat
 
 A six-headed hydra in a shallow lake is dividing. A small party of Rust Brother acolytes — none ordained — watches from the shore with writing boards, torches, and a pile of dry firewood. They are paid in advance to witness the split and report, and they have promised the adventurers silver to escort them home safely once the division is finished. The split will take D3 hours. Anything that enters the water in those hours becomes first meal to the newborn pair and sets the Rust Brothers’ report badly on fire. A horse-hauler from the next village is approaching the water now with a cart and a sick child to drown. She does not know about the acolytes.
 
-- **Terrain Types:** Marshlands, Quagmire, Forest
+- **TERRAIN TYPES:** Marshlands, Quagmire, Forest
 
 > **RESOURCES**
 >
@@ -1081,7 +1081,7 @@ The rules for monsters in combat don’t apply to Insectoids. Instead, they act 
 
 A half-elf scribe has lived alone in a shed a day from an insectoid mound for twelve years. She has learned a crude trade-language with the workers, exchanges salvaged iron for honey, wax, and larvae that brew a strong drink. A neighbouring lord’s reeve is coming to burn the shed. She can carry the warning to the queen and live, but a warning buys the colony room to spread into the valley. If she does not warn the queen, she is dead by sundown and the mound shrinks for a generation. She will not run. She asks the adventurers to choose which errand to ride.
 
-- **Terrain Types:** Plains, Hills, Forest
+- **TERRAIN TYPES:** Plains, Hills, Forest
 
 #### Random Encounter: the Worker-Boy
 
@@ -1089,7 +1089,7 @@ A half-elf scribe has lived alone in a shed a day from an insectoid mound for tw
 
 A farm-boy sits at the entrance of a new insectoid mound with a jar of his grandmother’s ashes in his lap. His grandmother asked him to do it; she claimed to be Mazmer’s great-granddaughter and believed the queens remember what their workers told them. The boy is waiting to be eaten. He is not frightened. He has done this once before, with a dead goat’s ashes for practice, and the queen sent him back. He thinks today is different. Two soldiers watch from inside the mound and have not moved. No one has come looking for him.
 
-- **Terrain Types:** Forest, Hills, Mountains, Ruins
+- **TERRAIN TYPES:** Forest, Hills, Mountains, Ruins
 
 > **RESOURCES**
 >
@@ -1142,7 +1142,7 @@ The scholars of the Forbidden Lands believe that the first Manticores were demon
 
 A Rust Brother apothecary hunts manticore barbs with bow and poniard. He needs three more in two days to brew the paralyzing salve that keeps his senior — a dying old priest who raised him from an orphan — alive through one more winter. He offers silver, a small boat, or a first-call debt from his priory. A village on the same road pleads that the manticore has taken six children this season and the villagers need it dead, not milked for barbs. The apothecary will not kill a breeding manticore and will not say why.
 
-- **Terrain Types:** Plains, Forest, Ruins
+- **TERRAIN TYPES:** Plains, Forest, Ruins
 
 #### Random Encounter: the Boy and the Cub
 
@@ -1150,7 +1150,7 @@ A Rust Brother apothecary hunts manticore barbs with bow and poniard. He needs t
 
 A barefoot Alderlander boy found a manticore cub abandoned in a cave three weeks back. He has been feeding it strips of his family’s mutton ration. The cage, stolen from a priory wagon, is Rust Brother work and marks the cub as descended from their old breeding stock. His father has not yet noticed either the cage or the missing mutton. The cub has begun to speak in a small child’s voice — not the boy’s voice, a different one — and is asking the boy questions it should not ask. The boy wants the adventurers to teach him how to care for it. The nearest priory is three days off and the boy has never left his valley.
 
-- **Terrain Types:** Forest, Hills, Ruins
+- **TERRAIN TYPES:** Forest, Hills, Ruins
 
 > **RESOURCES**
 >
@@ -1201,7 +1201,7 @@ Some say that the whisperer Zygofer as a youthful hermit received his first unsp
 
 A herd boy from a small Alderlander hamlet has found a minotaur calf in the coppice. He has named it. His aunt, the hamlet’s cheese-keeper, recognizes the signs: her own sister bore a minotaur thirty years back and the village killed it with stones in the dry bed of the creek. She has not told the boy. She tells the adventurers she will kill the calf herself tonight with a rock and a wet sack, but she wants them in the hamlet when the boy wakes and finds it gone. She will pay in hard cheese: one round each, a half-winter’s ration. She has been crying where no one can see.
 
-- **Terrain Types:** Plains, Forest, Hills
+- **TERRAIN TYPES:** Plains, Forest, Hills
 
 #### Random Encounter: the Bandit’s Heir
 
@@ -1209,7 +1209,7 @@ A herd boy from a small Alderlander hamlet has found a minotaur calf in the copp
 
 A minotaur in patched Alderlander armor is the last living member of a dead robber chief’s gang. The gang kept him for fighting and for amusement; after the chief fell, the minotaur inherited what was left by being the only survivor the others still feared. He is walking to the chief’s mother’s village to return the ring and apologize. He cannot read the inside of the ring and does not know what the mother will ask of him. He is also still a minotaur, and the village will see him coming across a mile of open barley.
 
-- **Terrain Types:** Plains, Forest, Ruins
+- **TERRAIN TYPES:** Plains, Forest, Ruins
 
 > **RESOURCES**
 >
@@ -1260,7 +1260,7 @@ Ever since, Nightwargs have appeared across the Forbidden Lands, even in cities 
 
 A farmer’s old sheepdog came home yesterday morning after a nightwarg attack. Eyes pale as full moons, body cold, uninjured. The dog no longer eats. It no longer answers to its name. It still works the sheep. The farmer knows what has happened. His daughter, ten years old, does not. She is sleeping on the hearthrug with the dog beside her. The farmer has three copper coins on the table. The nearest Nightwalker shrine is two days off, half-ruined, and its last priest dead. He has not told his wife about the coins. He wants it done before the girl wakes.
 
-- **Terrain Types:** Plains, Forest
+- **TERRAIN TYPES:** Plains, Forest
 
 #### Random Encounter: the Survivor
 
@@ -1268,7 +1268,7 @@ A farmer’s old sheepdog came home yesterday morning after a nightwarg attack. 
 
 A half-elf survivor of a nightwarg attack sits at the fire and speaks slowly. Every night since the attack, nightwargs have come within sight of him and not struck. He will not explain why. He is walking home to say goodbye to his mother and asks the adventurers not to follow. If they escort him anyway, on the second night something comes to the firelight and sits at the edge — a nightwarg he knows, a different nightwarg, or something else — and waits there until the half-elf goes to sleep and then walks away with him.
 
-- **Terrain Types:** Forest, Dark Forest, Ruins
+- **TERRAIN TYPES:** Forest, Dark Forest, Ruins
 
 > **RESOURCES**
 >
@@ -1320,7 +1320,7 @@ Legends tell of how the pirate Scarda was attacked by three Sea Serpents but man
 
 A small fishing boat works a coastal bay near the road. On the third day, one fisherman’s pregnant wife ties herself to the mast with her own shawl. Her husband was taken by the serpent three weeks ago; she intends the serpent take her too, and the weight of what she carries in her belly with her. If the adventurers pull her off, her husband’s body never comes home. If they leave her, her unborn child dies with her and the serpent feeds on her and the child together. She does not know which of the two she wants, only that she will not take the choice back to shore. The other two fishermen have been drinking for six hours and will not row.
 
-- **Terrain Types:** Lake, Quagmire
+- **TERRAIN TYPES:** Lake, Quagmire
 
 #### Random Encounter: Scarda’s Teeth
 
@@ -1328,7 +1328,7 @@ A small fishing boat works a coastal bay near the road. On the third day, one fi
 
 A halfling storyteller has been paid by a wealthy Alderlander merchant to steal the Scarda tooth-ring from the bay shrine and deliver it inland to a private collector. The halfling has no nerve for the work. He has paid the adventurers in full silver, no questions. A rival storyteller, from the same fishing village, is in the tavern tonight telling the tale of Scarda in a voice loud enough to be heard from the shore. Tonight is the full moon, the traditional night of offering. If the ring leaves the shore before dawn the fishing fails for a generation, and the village knows it.
 
-- **Terrain Types:** Lake, Ruins
+- **TERRAIN TYPES:** Lake, Ruins
 
 > **RESOURCES**
 >
@@ -1377,7 +1377,7 @@ The vines drag the dead prey to the trunk, which extends growths similar to suct
 
 A charcoal-burner found a Strangling Vine seedling in his woodpile two winters back. He has kept it in a barrel, fed it old mice and beggars’ fingers, and taught it to obey his humming. He has come to the adventurers with a plain offer: his vine will strangle any person they name, anywhere a seed can be planted inside a house, for twenty silver and one horse. He asks no return except help moving the barrel over the ridge to the hill town where his buyer waits. He is neither mad nor desperate. He is tired.
 
-- **Terrain Types:** Forest, Dark Forest, Plains
+- **TERRAIN TYPES:** Forest, Dark Forest, Plains
 
 #### Random Encounter: the Moving Garden
 
@@ -1385,7 +1385,7 @@ A charcoal-burner found a Strangling Vine seedling in his woodpile two winters b
 
 A small Alderlander village has noticed, in quiet, that its common vegetable plot has moved six paces north each spring for seven springs. No one has spoken of it. Yields have fed them through three Mist winters. This spring a child of the village fell into the plot and did not come out. Tonight the village council meets in the chapel. The adventurers, passing through, are asked — not as outsiders, but as the only people present who are not themselves eating from the plot — to decide whether it is uprooted. Whatever they decide, the village will honor; whatever they decide, they will be remembered by their names.
 
-- **Terrain Types:** Forest, Marshlands, Plains
+- **TERRAIN TYPES:** Forest, Marshlands, Plains
 
 > **RESOURCES**
 >
@@ -1442,7 +1442,7 @@ Some Trolls gorge themselves until they are so large and round that they more of
 
 A troll waits quietly at a crossroads. A dwarven merchant from a nearby stead has been bringing it, once a week for nine years, the particular rotten thing it prefers — no one asks what it is; the merchant was discreet. The merchant died two days back of a fall. The troll is patient and does not understand why the merchant is late. The merchant’s son is in the tavern two villages off, weeping because the last promise he made his father was to continue the delivery, and he does not know where the troll is or what the troll eats. He will pay the adventurers silver to stand in his place if they learn what it eats; he will pay more silver if they don’t ask him how it started.
 
-- **Terrain Types:** Hills, Forest
+- **TERRAIN TYPES:** Hills, Forest
 
 #### Random Encounter: the Dwarf with the Flute
 
@@ -1450,7 +1450,7 @@ A troll waits quietly at a crossroads. A dwarven merchant from a nearby stead ha
 
 A dwarven herder is leading a swollen troll toward a human settlement in the next valley. She is not cruel; her own hold has run out of the mineral that only forms when a troll has eaten human flesh, and the hold’s old pump-wheel has broken. Thirty miners are trapped below the water table and will drown in a season without the mineral. She has brought the flute and a ledger of what she intends to take after the troll has fed. She will show the adventurers the ledger if asked. She will not be turned back by argument; she will be turned back by force, or by an alternative none of the human villages she has already considered can offer.
 
-- **Terrain Types:** Hills, Mountains
+- **TERRAIN TYPES:** Hills, Mountains
 
 > **RESOURCES**
 >
@@ -1507,7 +1507,7 @@ The rules for monsters in combat don’t apply to Undead. Instead, they act like
 
 A restless dead grandmother milks the goats of a small farm. She has done so for eight years without wearing out or speaking. Her daughter-in-law, newly converted to the rigorous Raven strain, has reported the corpse to the nearest priory, and a Rust Brother purger is expected before sundown. The grandmother’s five-year-old grandson hides behind the milking stool every morning to listen to the dead woman hum. He has never known her any other way. The daughter-in-law has asked the adventurers to take the boy away for the day. She will not watch.
 
-- **Terrain Types:** Plains, Forest
+- **TERRAIN TYPES:** Plains, Forest
 
 #### Random Encounter: the Millrace
 
@@ -1515,7 +1515,7 @@ A restless dead grandmother milks the goats of a small farm. She has done so for
 
 An Alderlander miller has buried the bodies of his dead workers in the millrace for twenty years, for no darker reason than that the ground near the mill is stone. The Mist years covered the practice. This winter the race ran backwards one night and a ghoul has since moved into the lower wheel, eating what rises to it. The miller will not admit the cause. His daughter of seventeen has worked it out on her own. She has packed her brother’s clothes and stacked dry straw under the millhouse; she means to burn it tonight with her father inside. She asks the adventurers to leave the valley before midnight and tells them why.
 
-- **Terrain Types:** Ruins, Forest, Plains
+- **TERRAIN TYPES:** Ruins, Forest, Plains
 
 > **RESOURCES**
 >
@@ -1571,7 +1571,7 @@ The Wyverns have a very thin but energy-laden layer of blubber under their skin 
 
 A tailor lives beyond a marsh village, stitching warm winter cloaks. He married a hill-country woman four summers back; she is a wyvern-hunter by trade and has been climbing to the nest crag above the village, quietly, to kill fledglings for his best cloaks. The flock has finally traced the scent. She is leaving tomorrow with a full cart of unfinished hides. Before she goes, she asks the adventurers to carry a single finished hide to her sister in a village five days off, no questions. The hide is unusually warm. The tailor, who loves his wife, does not yet know any of it. The flock will come for the cottage at dusk.
 
-- **Terrain Types:** Marshlands, Hills, Forest
+- **TERRAIN TYPES:** Marshlands, Hills, Forest
 
 #### Random Encounter: the Empty Village
 
@@ -1579,7 +1579,7 @@ A tailor lives beyond a marsh village, stitching warm winter cloaks. He married 
 
 A village of twelve houses stands empty. Doors open, fires cold, a meal half on the table. A single wyvern sits on the roof of the largest house. It is too old to fly, and clearly not the beast that frightened the villagers off, who now stand a mile off on the far side of the marsh and will not come home while the wyvern is there. The wyvern did not empty the village. It is dying where it sits and is waiting for the adventurers to decide. The villagers’ children are hungry. The wyvern does not want to be killed. It will not leave either, and does not have the strength to be moved without shame.
 
-- **Terrain Types:** Marshlands, Hills, Forest
+- **TERRAIN TYPES:** Marshlands, Hills, Forest
 
 > **RESOURCES**
 >

@@ -1946,7 +1946,7 @@ Named Men are veteran fighters with individual stats, names, personalities, and 
 Assign each of the following. For personality, roll or choose from **Named Man Personalities** below.
 
 - **Tier:** Veteran or Elite (determines stats, see below)
-- **Role:** Their fighting specialty (Line, Skirmisher, or Brute — shapes attributes and skill emphasis)
+- **ROLE:** Their fighting specialty (Line, Skirmisher, or Brute — shapes attributes and skill emphasis)
 - **Loyalty:** 1, 2, or 3
 - **Trigger:** The thing that will break their Loyalty
 - **Agenda:** What they want beyond pay

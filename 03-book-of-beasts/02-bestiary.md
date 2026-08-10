@@ -113,7 +113,7 @@ Villages near known Air Spirit ground keep their gibbets low or leave them unbui
 
 The village of Halvard hanged two grain thieves on Keld's Hill last spring and counted themselves shrewd when the break-ins stopped. What they did not account for was the Air Spirit that settled on the gibbet rope by midsummer. Hordath, the headman, knows it is there. He has told no one, because the spirit takes strangers first and the village has not had a theft since. The widows of the hanged men — Elsa and Siv Kunn — want the rope burned and their husbands cut down for burial. They have come to the adventurers because the headman's watch will not let them near the hill. Burn the rope and the theft ring comes back before the month is out. Leave it and the spirit takes a local before frost.
 
-- **Terrain Types:** Hills, Plains
+- **TERRAIN TYPES:** Hills, Plains
 
 #### Random Encounter: the Ferry Without Oars
 
@@ -121,7 +121,7 @@ The village of Halvard hanged two grain thieves on Keld's Hill last spring and c
 
 Torvald Klink drowned in the ice-melt three springs ago and left the Brael crossing without a ferryman. His son Peder, then fifteen, had two younger sisters and a debt-rope on the landing post his father never settled. A reed-wisewoman sold him a binding for everything he owned. The rope pulls. The raft crosses. One traveler in eight goes into the channel — Peder cannot say which one the spirit will take, only that it must take one before sundown each day. He is eighteen now and has not slept through the night since the binding. The next valley depends on this crossing for its winter grain and will burn the landing post if service stops. Break the binding and the crossing dies and Peder's sisters go hungry. Leave it and the spirit takes someone before noon.
 
-- **Terrain Types:** Lake, Quagmire, Marshlands
+- **TERRAIN TYPES:** Lake, Quagmire, Marshlands
 
 > **RESOURCES**
 >
@@ -157,7 +157,7 @@ Amoebas are primitive predators that feed by absorbing other creatures into thei
 
 The village's only sweet-water cistern sits in the square, sealed under a pitch-coated lid. Three winters ago the council drowned a Rust Brother who had asked too many questions and pitched the lid down on top of him. They now know what has formed inside. Their children dream wet dreams, then sicken, then are taken to the church. The headman pulls the adventurers aside before sundown and offers a season's grain to burn the thing out. Cracking the seal will release the amoeba into the square. The village has no other water until snowmelt. The Rust Brother's brass medallion is still inside, and when the alkaline gut bursts, it will roll out across the cobbles where everyone can see it.
 
-- **Terrain Types:** Village, Plains
+- **TERRAIN TYPES:** Village, Plains
 
 #### Random Encounter: the Plough Field
 
@@ -165,7 +165,7 @@ The village's only sweet-water cistern sits in the square, sealed under a pitch-
 
 The dragged man is a tenant whose ox went down into the furrow first. The man holding him is a lord's outrider who came over the ridge ten breaths ago. The thing beneath the field is an amoeba grown for forty years on knight-bone from an unburied battle, and the lord has known about it since his father's time. The fattest grain in the district comes from this acre. The outrider will let the farmer go all the way down rather than let him speak of it in the next village. He has counted only four adventurers, and is willing to count six bodies if it comes to that.
 
-- **Terrain Types:** Plains, Forest
+- **TERRAIN TYPES:** Plains, Forest
 
 > **RESOURCES**
 >
@@ -196,7 +196,7 @@ The dragged man is a tenant whose ox went down into the furrow first. The man ho
 - **SKILLS:** Endurance 2, Melee 3, Scouting 3, Survival 3
 - **TALENTS:** –
 - **GEAR:** Leister or harpoon, dagger, fish bone amulet bearing the mark of the goddess Flow.
-- **ARMOR:** 2 (thick frog skin)
+- **ARMOR RATING:** 2 (thick frog skin)
 - **DROWNING ATTACK:** In water, the Amphibians primarily attack by pulling their victims beneath the surface and drowning them. The attacks are often performed collectively, with multiple Amphibians GRAP - PLING a chosen victim together (page 92 of the _Player’s Handbook_ ). If the attack succeeds, the victim is pulled beneath the surface and must make an ENDURANCE roll each round not to start drowning (page 113 of the _Player’s Handbook_ ).
 - **COLLECTIVE RAMMING ATTACK:** Amphibians occasionally perform sneaky ramming attacks against fishing boats and other floating vessels. Their reason for doing so is unclear. Perhaps the boats simply come too close to their spawn, or maybe they are protecting the entrances to the underwater realm of the goddess Flow. Whatever the case, the ramming attack is an extremely unpleasant and often fatal experience. The Amphibians attack the vessel from below, always as a group, swimming at full speed and crashing headfirst into the hull.
 
@@ -216,7 +216,7 @@ Amphibians are large, froglike humanoids capable of breathing air as well as wat
 
 A reed stake stands knee-deep in the shallows ahead. A girl no older than eight is tied to it, rope at her chest, water at her ribs. She has been there since first light. Three Amphibian sentinels wait beneath the surface a few strokes off, harpoons across their thighs. Her village paid this tithe every spring since the spring beneath their temple ran dry; one child, until Flow returns the water. The sentinels will not rise unless the adventurers cut the rope. If they cut it, the patrol will ram the vessel as soon as it leaves the shallows. If they sail past, the girl will be dead by sundown, and the next village downriver will name them the boat that did not stop. The girl does not cry. She has been told not to.
 
-- **Terrain Types:** Lake, Quagmire
+- **TERRAIN TYPES:** Lake, Quagmire
 
 #### Random Encounter: All That Glitters Is Not Eggs
 
@@ -224,7 +224,7 @@ A reed stake stands knee-deep in the shallows ahead. A girl no older than eight 
 
 Three things happen before a breath is drawn. The bundle in the adventurer's hands is oversized frog spawn — tadpoles with bulging eyes turning in the cloudy fluid. A market patrol with halberds and heavy crossbows is already shouldering through the stalls, led by a merchant in a purple beret pointing an accusing finger at the bundle. Then D6 Amphibian warriors haul themselves over the planking, leister-tips dripping, the female who handed over the eggs at their head. The patrol believes the eggs are stolen market property. The Amphibians believe the patrol stole them first. Whoever the adventurers hand the bundle to becomes their enemy in this town. Whoever they refuse becomes their pursuer on this river.
 
-- **Terrain Types:** Village, Lake
+- **TERRAIN TYPES:** Village, Lake
 
 #### Lore Roll
 
@@ -281,7 +281,7 @@ Upland villages that have had Ape-Man problems more than once know the progressi
 
 The smith Brek Holt's apprentice, a seventeen-year-old named Dunn, followed an Ape-Man up the ridge path this morning after the forge yard was stripped of a hatchet set, the spare mallet, and a copper fitting Holt had been saving for a commission. Dunn left a note saying he would return by midday with the tools. It is now late afternoon. The Ape-Man has not returned either, which Holt says is unusual — they normally loot at night and run when chased. If Dunn found the cache, the ape may have found Dunn. If Dunn is alive, he is somewhere in the ridge with the cached tools and no combat experience beyond the workshop. Holt wants his apprentice back and the tools recovered. He stated that order specifically.
 
-- **Terrain Types:** Hills, Mountains
+- **TERRAIN TYPES:** Hills, Mountains
 
 #### Random Encounter: the Apple-Core Offering
 
@@ -289,7 +289,7 @@ The smith Brek Holt's apprentice, a seventeen-year-old named Dunn, followed an A
 
 Three apple cores sit on the doorstep of Veld Arnke's farm, each with a cut mark on the base where no tool of this house has been. Arnke's wife Gert has been watching the ravine for a month: an Ape-Man has been taking one apple per visit and leaving something in exchange — first a stone, then a feather, then a carved bone. It is trying to work out what counts as trade. Arnke wants it killed before it decides the farm is territory it has negotiated access to. Gert says destroying something that has been bargaining in good faith is an act that comes back on a family. She has also started leaving something beside the apple tree in the mornings, because she wants to know what comes next. The Ape-Man has not come to the doorstep since she started leaving things. Arnke takes this as proof she is making it bold.
 
-- **Terrain Types:** Hills, Forest
+- **TERRAIN TYPES:** Hills, Forest
 
 > **RESOURCES**
 >
@@ -305,8 +305,8 @@ Three apple cores sit on the doorstep of Veld Arnke's farm, each with a cut mark
 
 > _The psychopomps of the Congregation of the Serpent claim that the god Wyrm made the basilisk king of all reptiles. As the Protector’s representative, it would watch over snakes, lizards, frogs, and other creatures that crawl across the earth. For that purpose, it was endowed with divine powers – the power to both give and take life with its mere breath, and to create and recreate with its commanding gaze. But the basilisk used its god- given powers for evil, killing and consuming rather than guarding and protecting. That is why it is considered a vile abomination to this day: a bitter anomaly hiding in the shadows, awaiting the day when it will reclaim its rightful place as Wyrm’s right hand._
 
-- **Movement:** 2
-- **Armor Rating:** 8
+- **MOVEMENT:** 2
+- **ARMOR RATING:** 8
 - **Bound Life Force:** Every basilisk is bound to the cockerel’s egg from which it once hatched. These large eggs, which are normally intact except for a small opening at the top, are always kept in the basilisk’s lair. They are coated with a lethal toad poison with Potency 7 that is transferred through touch, but otherwise they are easily destroyed. When the egg is crushed, the basilisk loses its magic powers and shrinks into a grumpy but basically harmless viper ( STRENGTH 1, bite with Weapon Damage 1 and a sleeping poison with Potency 4).
 
 #### Monster Attacks
@@ -335,7 +335,7 @@ Basilisks are large, semiintelligent reptiles with great predatory claws. They a
 
 Dominik of House Viperion, sworn knight of the Congregation of the Serpent in Alderland, has been taken alive by the men of the village he was sent to convert. The villagers fear his god more than they fear the basilisk that has nested in the old well outside their walls. Wyrm's right hand, they call it. Sleeping for them. They will not unbind his eyes unless the basilisk is dead, and they will not let him live if it is, since a freed knight will return with steel and oil. Dominik will say nothing of his order or his mission. The bandage is from when he saw the beast and went down beside his men. He will fight blind beside the adventurers if cut loose. The villagers will hunt them after.
 
-- **Terrain Types:** Village, Forest
+- **TERRAIN TYPES:** Village, Forest
 
 #### Random Encounter: the Stone Children
 
@@ -343,7 +343,7 @@ Dominik of House Viperion, sworn knight of the Congregation of the Serpent in Al
 
 The figures are dust-grey and cool to the touch. They were seven children playing the Wyrm-and-Egg game on a warm spring morning when the basilisk came up out of the spring. Four ran. The mother of the smallest is sitting against a tree with her back to the trunk and her hands folded in her lap. She has not moved since first light. She is alive. She is waiting for the basilisk to come back so she can join them. The basilisk lairs in the spring's mouth, and the cockerel-egg sits on a moss-shelf above the water, almost within her reach. The petrification can be reversed within the day if a HEALING HANDS spell or a successful ENDURANCE roll is made on a child while still alive — but the adventurers cannot tell which children are still alive without touching the stone. The mother knows. She will not say.
 
-- **Terrain Types:** Forest, Hills
+- **TERRAIN TYPES:** Forest, Hills
 
 > **RESOURCES**
 >
@@ -397,7 +397,7 @@ Most villages do not know they have one. A healer who never loses a birth, a wis
 
 Marta Vrek is the only midwife within two days' ride of the Dulse marshes and she has never lost a birth. She takes no coin — only the right to wash the newborn first. Eleven years of clean winters. Then Senna Rothe noticed that her daughter laughs when the marsh geese scream. The child is the right size, the right look. Senna knows her own daughter. The village healer says Senna is still milk-sick. The headman says Marta saved his own son last frost and he will not hear it. Exposing Marta means the village loses its only midwife, and three women in the village are within a month of their time. Not exposing her means whatever Marta is feeding on the marsh floor is getting fatter.
 
-- **Terrain Types:** Marshlands, Quagmire, Village
+- **TERRAIN TYPES:** Marshlands, Quagmire, Village
 
 #### Random Encounter: the Reed Bride
 
@@ -405,7 +405,7 @@ Marta Vrek is the only midwife within two days' ride of the Dulse marshes and sh
 
 Oskar Hein promised his first daughter to the thing in the reed hut twenty years ago, when the red flux took his cattle and a cold-faced woman came to his gate in the rain and said she could fix it. The cattle recovered. He married a barren widow, Grethe, and counted the bargain dead. The hag arrived at the church door on the morning of his eldest son's wedding, claiming Grethe's stepdaughter — who is not Oskar's blood, but falls within the letter of the promise, as the hag reads it. The village priest is backing away from the altar. Break the hag and Oskar's remaining cattle will be dead by sundown — that was the secondary clause. Honor the bargain and Grethe loses the only daughter she raised.
 
-- **Terrain Types:** Village, Marshlands
+- **TERRAIN TYPES:** Village, Marshlands
 
 > **RESOURCES**
 >
@@ -453,7 +453,7 @@ Bog men are the greedy and vengeful ghosts of slaves, prisoners of war, and othe
 
 She is twenty. The village's wells went sour after the cooper's daughter was taken by the Mist three winters back, and an old woman read the omens at Midsummer. The villagers will not let her step back onto the bank. Her husband-to-be is on the bank watching, holding her ring in his closed fist; he is the cooper's son, and he asked for her name to be drawn. If she goes under, three Bog men will rise around the punt and the omen will be answered. She will not call out. She is asking the adventurers, with her eyes only, to push her under faster.
 
-- **Terrain Types:** Marshlands, Village
+- **TERRAIN TYPES:** Marshlands, Village
 
 #### Random Encounter: the Greedy Drowned
 
@@ -461,7 +461,7 @@ She is twenty. The village's wells went sour after the cooper's daughter was tak
 
 The sword is a real artifact, an elven blade that some chieftain dropped here three centuries ago, lodged hilt-up in the peat. The cutter, an old widower, saw the silver and grabbed it. The bog has begun to take him. Black roots crawl up his arms, and a Bog man stands waist-deep behind him. The Bog man is willing to trade. If the adventurers throw two artifacts of equal weight into the bog, the man may be released. If they pull, the Bog man drags both man and sword down. If they cut the man's hands free of the sword at the wrist, the Bog man will accept the loss and let the rest go.
 
-- **Terrain Types:** Marshlands, Quagmire
+- **TERRAIN TYPES:** Marshlands, Quagmire
 
 > **RESOURCES**
 >
@@ -509,7 +509,7 @@ Farmers who live near Bugbear country learn the seasonal pattern. Late autumn br
 
 A Bugbear has been circling Orval Dren's compound for two weeks. Last night it cut the fence post cleanly and took nothing. Village elder Sson says this is counting behavior — Bugbears from the Kelbridge forest do this before deciding to raid or move on, and by his reading the decision comes in two days. Orval wants watch posted and the fence reinforced. His neighbor Bred wants to make a food offering at the tree-line tonight, before the counting ends. Sson says both are reasonable but only one can go first: a posted watch changes what the Bugbear sees at the tree-line, and an offering changes what it expects at the fence. If Bred goes tonight and the Bugbear ignores it, Orval's watch will be in the wrong place when it does come.
 
-- **Terrain Types:** Forest, Plains
+- **TERRAIN TYPES:** Forest, Plains
 
 #### Random Encounter: the Circled Inn
 
@@ -517,7 +517,7 @@ A Bugbear has been circling Orval Dren's compound for two weeks. Last night it c
 
 A wagon train has been pinned at the Dreveth road inn for five nights. Bugbears circle the camp each night without attacking. Innkeeper Wass Bren knows the local band and says they only wait this long when they want something specific. Merchant-master Holne Krel wants an escort to Dreveth. Bren says the escort won't help — Bugbears following a specific target follow it until they have it, not until a guard rotation stops them. One of Krel's six merchants is carrying something the band wants back. Bren does not know what. Krel does and is not saying. The six merchants have started asking why every stop on Krel's contracts runs long. One of them already knows. He has not told the others yet, because telling them means admitting what he took and where he took it.
 
-- **Terrain Types:** Forest, Plains, Hills
+- **TERRAIN TYPES:** Forest, Plains, Hills
 
 > **RESOURCES**
 >
@@ -556,7 +556,7 @@ Upland pass-keepers track Carrion Wing activity the way flatland farmers track s
 
 Three days ago, merchant Corvin Hast's pack mule went down on a bad stone in the high pass and Hast kept moving because he could walk and the mule could not. The strongbox slipped from the harness when the animal fell and is pinned under it now, along with four Carrion Wings that have been working the carcass since day two. Hast wants the box recovered. He has not said what it contains until pressed: the deed to the Fern Mill, which three families in the valley have been contesting since his uncle died twenty years ago. The deed names Hast the owner. Two families will contest it. The third has a son who has run the mill for six years and considers it his. The birds are not interested in the box. They are interested in everything near it.
 
-- **Terrain Types:** Mountains, Hills
+- **TERRAIN TYPES:** Mountains, Hills
 
 #### Random Encounter: the Pilgrim with the Bad Leg
 
@@ -564,7 +564,7 @@ Three days ago, merchant Corvin Hast's pack mule went down on a bad stone in the
 
 A column of twelve pilgrims stopped at the high-pass marker when old Sorn Rek's leg gave out an hour short of the pass cave. Pilgrim-master Deva wants to push the main group through before dark and leave Sorn with the pack mule. The Carrion Wings above have been narrowing their circle since Sorn sat down. Sorn holds the route in his memory from four prior pilgrimages; without him the column takes the wrong fork above the pass cave and spends two additional days on terrain the birds already own. Deva wants Sorn loaded on the mule. The mule is already behind the column's pace. The birds have stopped banking and are dropping altitude. Dark comes in two hours and the pass cave is not somewhere anyone wants to be after dark without knowing the way.
 
-- **Terrain Types:** Mountains, Hills, Plains
+- **TERRAIN TYPES:** Mountains, Hills, Plains
 
 > **RESOURCES**
 >
@@ -619,7 +619,7 @@ Potters who deal in golem-work share that knowledge selectively and with strange
 
 The crypt beneath Varnel's Fork chapel holds three years of tithe silver — enough to buy winter grain for the whole valley. The Golem guarding it was built by a traveling mason named Aldric Brun and bound with the soul of a hanged man who was promised burial in consecrated ground after ten years of service. The ten years ended last winter. Brun died on the road and took the release word with him. The hanged man's widow, Orra, has come with what she believes is the right name, learned from a dream she has had three nights running. She may be wrong. A failed attempt wakes the Golem in full protection mode and seals the crypt. The silver feeds the valley. The soul in the clay has been waiting eleven years, not ten.
 
-- **Terrain Types:** Village, Hills, Ruins
+- **TERRAIN TYPES:** Village, Hills, Ruins
 
 #### Random Encounter: the Sealed Bride Chest
 
@@ -627,7 +627,7 @@ The crypt beneath Varnel's Fork chapel holds three years of tithe silver — eno
 
 Lord Emeric Vor sealed a chest in his daughter's chamber before he died: her dowry silver, her lover's letters, and the deed to the south pasture that his two sons have been disputing in court for four years. The daughter is three years dead. The Golem was given one command — let no one touch the iron clasps without the lord's seal ring, which was buried with the lord. The deed is the only thing that ends the brothers' feud before it becomes a blood feud and costs the village its own young men. One brother holds a wax impression of the ring and knows a smith who could copy it in iron in a day. If the Golem accepts the copy, the feud ends. If it does not, the smith's name will be known before morning.
 
-- **Terrain Types:** Hills, Ruins, Village
+- **TERRAIN TYPES:** Hills, Ruins, Village
 
 > **RESOURCES**
 >
@@ -664,7 +664,7 @@ The most dangerous ones are those left too long without new instructions. They s
 
 The west gate of Holden has been braced shut by a Corpse Ogre for thirty-one years. It was built during the Ardok siege with one instruction: keep the gate closed until the relief column arrived. The relief column did not arrive. The village grew up on both sides of the old wall. The Ogre is not aggressive. It removes whatever prevents the gate from closing and returns it to shut. It has broken fourteen attempts, most of them arms. Miller Gren Hosse lives on the eastern side. His mill is on the western side. He has been paying grain tax on a mill he cannot reach for twenty years because the guildmaster's records say he owns it. Gren wants the gate opened. The guildmaster wants his records to make sense.
 
-- **Terrain Types:** Village, Ruins
+- **TERRAIN TYPES:** Village, Ruins
 
 #### Random Encounter: the Perimeter That Still Runs
 
@@ -672,7 +672,7 @@ The west gate of Holden has been braced shut by a Corpse Ogre for thirty-one yea
 
 A Corpse Ogre has been patrolling the Veld Fork road junction for sixteen days, breaking bridge planks and wedging approach stones in the old perimeter-defense pattern. The village of Merren is two days from running out of grain because the Ogre's route covers the only supply road from the east. Sorcerer Ilda Mers of the second village says she can write a new instruction that overrides the old one. The inscription band is around the Ogre's neck and requires contact to rewrite. The last person who touched it was a farmhand named Drost from the third village. He lost the arm at the shoulder. He is alive and available to describe what happened, and he is very specific about the order in which it happened.
 
-- **Terrain Types:** Plains, Village, Hills
+- **TERRAIN TYPES:** Plains, Village, Hills
 
 > **RESOURCES**
 >
@@ -710,7 +710,7 @@ Villages near old cemeteries that have been looted by practitioners occasionally
 
 Merchant Keln Vosse died at the Dreveth inn three nights ago and was buried the next morning. His company chest, sealed and stamped, is now in the hands of his partner Ort Bress. Last night a Crawling Claw entered the chest and removed one letter. Bress says the widow sent it. The widow, Mavi Vosse, says Bress did. The claw is still in town — it will not deliver until given a secondary instruction, and whoever sent it will come to give that order. Both Bress and Mavi Vosse have asked the adventurers to watch the other one. Neither wants them to find out what the letter contained, which means the letter is worth finding.
 
-- **Terrain Types:** Village
+- **TERRAIN TYPES:** Village
 
 #### Random Encounter: the Workshop Problem
 
@@ -718,7 +718,7 @@ Merchant Keln Vosse died at the Dreveth inn three nights ago and was buried the 
 
 Sorcerer Melse Drak's workshop has been compromised for three weeks: tools displaced overnight, materials consumed from sealed containers, one apprentice bitten on the wrist. Drak believes a rival sent a Crawling Claw through the gutter-access for her formula records. Her apprentice, a young man named Torv, found three preservation jars in the eastern wall cavity that match the claw's construction method. He thinks Drak made them for a prior commission and forgot them. Drak has not directly contradicted him. Torv has not directly accused her. Drak wants the claws found and destroyed. Torv wants to know whether destroying them is actually her goal, or whether finding the records first is.
 
-- **Terrain Types:** Village, Ruins
+- **TERRAIN TYPES:** Village, Ruins
 
 > **RESOURCES**
 >
@@ -772,7 +772,7 @@ Villages that have one nearby tend to discover it through a pattern of deaths: n
 
 Brant Vore, headman of Cress Hollow, found his great-grandmother's journal last autumn. The village well has never iced over because a Death Magister's phylactery has been sunk at the bottom for six generations — a fact the great-grandmother knew, kept, and passed through the family line in silence. The magister's body has risen in the old schoolhouse above the square. It wants the vessel raised; it cannot travel while the phylactery stays in the water. Destroying it ends the creature. It also ends the well, and the nearest water in hard winter is four hours on horseback. Brant cannot make this choice and keep the headman's seat afterward. He has come to the adventurers because a choice made by outsiders is one the village can survive having made.
 
-- **Terrain Types:** Village, Plains
+- **TERRAIN TYPES:** Village, Plains
 
 #### Random Encounter: the Last Apprentice
 
@@ -780,7 +780,7 @@ Brant Vore, headman of Cress Hollow, found his great-grandmother's journal last 
 
 The sealed tower on the Veld road has had a monthly visitor for two years: a young physician's assistant named Hann Drest, carrying salt fish, lamp-oil, and questions about nerve damage. His master is a Death Magister. Hann knows. The library inside holds every treatment text for the wasting sickness killing his sister, and the magister lets him read in exchange for silence. The requests have changed. The magister now asks for names of travelers, the night-ferry's route, how many guards the mill road carries on market days. Hann has come because he cannot refuse the magister and he cannot keep feeding it what it wants. His sister has three months left. The magister has prepared a collapse that will bury the library if the tower is forced.
 
-- **Terrain Types:** Hills, Ruins
+- **TERRAIN TYPES:** Hills, Ruins
 
 > **RESOURCES**
 >
@@ -797,8 +797,8 @@ The sealed tower on the Veld road has had a monthly visitor for two years: a you
 _All the Bloodmarch rider clans test their young by sending them to the nest of a dread raptor. That is where they are hardened into riders and acquire their rider names. If they bring back some of the hunger bird’s feathers – and not only survive the ordeal – they have also earned the right to carry bow and arrow. For the Aslenes see the dread raptor as more than just a beast. It is the eternal enemy of horses and the bane of riders, created and molded by the fire god Horn the moment that the first horses sprung into the world with their flaming manes. It is part of the cosmic balance and the key to the Aslenes’ ambition and indomitable courage._
 
 - **ATTRIBUTES:** Strength 14, Agility 5, Wits 1
-- **Movement:** 3
-- **Armor Rating:** 3 (feathers)
+- **MOVEMENT:** 3
+- **ARMOR RATING:** 3 (feathers)
 - **EASILY FOOLED:** The dread raptor is an instinctdriven, unintelligent killer that has difficulty handling complex situation and sudden changes. That makes it relatively easy to fool, as long as one keeps a cool head. Suddenly changing direction and running the opposite way is a classic trick that many Aslenes use to shake off hungry dread raptors. Zigzagging or simply diving behind a bush might also be enough to confuse the beast. The GM assesses the chances of success on a casebycase basis, but a successful SURVIVAL roll can help the adventurers out of a tough spot.
 
 #### Monster Attacks
@@ -828,7 +828,7 @@ The aggressive dread raptor is a giant carnivorous bird that is mostly found in 
 
 The foal was his. He hobbled it himself, two days ago, in front of a dread raptor's nest east of the spring. The bird ate the foal whole this morning, vomited the bones, and walked back to the nest. The boy is from the Galdane clan and is here to take three feathers from the bird's tail and a name. He cannot leave with the adventurers if they come, cannot accept their bow, cannot let them kill the bird. Killing the bird makes him a man without a name, and a Galdane without a name does not ride. The bird will scent the adventurers' horses within the stretch and will come for them, not the boy. He will watch.
 
-- **Terrain Types:** Plains, Hills
+- **TERRAIN TYPES:** Plains, Hills
 
 #### Random Encounter: the Tethered Horse
 
@@ -836,7 +836,7 @@ The foal was his. He hobbled it himself, two days ago, in front of a dread rapto
 
 Farmers from a settlement two valleys over set this trap three sundowns ago for the dread raptor that ate their breeding stock. The farmers were eaten yesterday, and their bodies are in the bushes the adventurers will pass through to reach the horse. The horse has not stopped screaming since first light. The dread raptor is half a stretch off and closing. Cutting the rope releases the horse to bolt; the bird will run it down within two stretches and the adventurers can ride away while it feeds. Leaving the horse tethered means the bird will eat it in front of them and then come for them, slow and full. The horse is a Galdane warmare, branded with the running flame of Horn. Selling the brand to the wrong village hangs them.
 
-- **Terrain Types:** Plains, Hills, Forest
+- **TERRAIN TYPES:** Plains, Hills, Forest
 
 > **RESOURCES**
 >
@@ -890,7 +890,7 @@ Once fixed to a place, an Earth Spirit is nearly impossible to drive out. It has
 
 The Holt quarry master Daven Rak cut through the ochre handprints on the low face six months ago because the valley needed dressed stone for the mill bridge before the river rose. He knew what the marks were. He cut anyway and paid the masons extra for their silence. The Earth Spirit that woke now stands at the quarry mouth, and three masons are sealed in the stone pocket behind it with a water jug that lasts until evening. Daven wants the spirit broken and his workers freed. The bridge cannot be finished without those men. The masons cannot be reached without removing the spirit. Removing the spirit may seal the quarry face permanently, which means no stone, no bridge, and the west valley will stop trading across a bridge that was never finished.
 
-- **Terrain Types:** Hills, Mountains
+- **TERRAIN TYPES:** Hills, Mountains
 
 #### Random Encounter: the Open Barrow Road
 
@@ -898,7 +898,7 @@ The Holt quarry master Daven Rak cut through the ochre handprints on the low fac
 
 Chieftain Osral Mend had the old ridge barrows leveled three winters ago so heavy wagons could take the northern route in mud season. He paid the road-gang double and told them to move the grave-posts somewhere else. The Earth Spirit that rose from the cut mound blocks the road only on market mornings — the three days a week when the cattle drovers and grain carts need to move. Osral wants it broken. The barrow clans — six families who buried their dead on the ridge over two hundred years — want the mound rebuilt and their dead given back proper ground. The spirit will settle if the mound is restored. Restoring the mound means tearing up the road. Tearing up the road ends the northern trade and the agreement with the western market towns that keeps Osral's headship.
 
-- **Terrain Types:** Plains, Hills
+- **TERRAIN TYPES:** Plains, Hills
 
 > **RESOURCES**
 >
@@ -935,7 +935,7 @@ Villages that have had one in residence for more than a season start to show it 
 
 The old shrine at Keld's Bottom has had a confessor keeping unusual hours for five weeks. The villagers feel lighter after confessing — the Fear-Drinker takes the discharged shame and leaves a quiet that keeps people returning. The legitimate priest, Father Ort, is locked in the back room of the shrine house. He has been there four days, fed bread once a day through the gap under the door. If the adventurers remove the Fear-Drinker, they will need to account for what the village confessed to it. Every adult in the village used the confession box. None of them know the confessor was not a priest. All of them believe their confessions were sealed. The priest, when released, will know what they confessed.
 
-- **Terrain Types:** Village, Ruins
+- **TERRAIN TYPES:** Village, Ruins
 
 #### Random Encounter: the Headman's Doubt
 
@@ -943,7 +943,7 @@ The old shrine at Keld's Bottom has had a confessor keeping unusual hours for fi
 
 Headman Brek Veln of the Solmarsh district is not corrupt, but his last four market-day rulings have gone the same direction and the same family has benefited each time. The Arsten family knows about the Fear-Drinker that has been meeting Veln privately. They did not commission it or feed it, but they know its schedule. They present their disputes in the half-hour after Veln's sessions, when his certainty is lowest and his tolerance for argument is gone. Veln's rulings are worsening. He has started to believe a better man should have the seat. The Fear-Drinker takes certainty from him; the Arstens take cases. Neither is the same crime. Both are the same problem.
 
-- **Terrain Types:** Village, Plains
+- **TERRAIN TYPES:** Village, Plains
 
 > **RESOURCES**
 >
@@ -992,7 +992,7 @@ Gatekeepers are extradimensional creatures who for reasons unknown have come to 
 
 Sir Alvund of the Iron Lock came through with his nine knights yesterday at dusk. They answered the riddle and went through. The Vale of the Dead does not want them. They came back, and his brothers are dead. The gatekeeper is bound to keep him here until he answers a different riddle, the one that lets him go home, and Alvund cannot solve it because he no longer remembers what home was. He will offer the adventurers his sword, his name, and the Iron Lock's seal if they will solve the riddle for him so the gatekeeper may release him. He has been weeping since dawn because the gatekeeper showed him, in pictures, that on the other side of his riddle is the man he was when he came over the wall thirty years ago, and he has only this one chance to walk back into that man.
 
-- **Terrain Types:** Plains, Forest, Hills, Ruins
+- **TERRAIN TYPES:** Plains, Forest, Hills, Ruins
 
 #### Random Encounter: the Pass That Was Open Yesterday
 
@@ -1000,7 +1000,7 @@ Sir Alvund of the Iron Lock came through with his nine knights yesterday at dusk
 
 The gatekeeper arrived in the pass at first light and is bound to it now. Behind the train, two days back, an avalanche has closed the lower road. The pass must be crossed before the next snowfall or the children will die of cold under the wagons. The merchant has been at the gatekeeper's riddle since first light and is no nearer the answer; his teamster's eldest is sitting beside him crying because the merchant is now down to the wits of a frightened old man. The riddle takes the answer from the strongest mind that tries it. If the adventurers' best mind tries and fails, that adventurer loses one point of permanent Wits to the trial. If they walk past, the train and the children remain. The gatekeeper cannot leave the pass. The cold can.
 
-- **Terrain Types:** Mountains
+- **TERRAIN TYPES:** Mountains
 
 > **RESOURCES**
 >
@@ -1039,7 +1039,7 @@ Cellarmasters and crypt-keepers learn to recognize the signs: the thin husks of 
 
 The village grain vault at Fenn's Cross has been locked from the inside for three days. Storekeeper Pall Orn went in to check the winter stocks and did not come out. The village needs what grain remains — the stores ran out a week ago and the next cart is four days away. The bolt is thrown from inside and cannot be cleared from outside without breaking the door. A Giant Centipede nest is confirmed in the lower section; Orn knew about it and had been working around it for two seasons. The nest stands between the door and the grain. The smell through the door seal changed this morning. For two days it was damp soil. Since this morning it has been something else.
 
-- **Terrain Types:** Village, Ruins
+- **TERRAIN TYPES:** Village, Ruins
 
 #### Random Encounter: the Drainage Channel
 
@@ -1047,7 +1047,7 @@ The village grain vault at Fenn's Cross has been locked from the inside for thre
 
 Four travelers need the old undercroft drainage channel under the Westgate inn to avoid Road-Warden Seska Feld, who is in the common room with a sealed warrant naming two of them. The channel runs under the inn and exits at the river bank behind the tannery — the only covert exit that does not pass through the stable, which Feld has already checked and left a junior warden to watch. The channel has not been maintained in forty years and has been home to a Giant Centipede colony for at least two of them. Feld has twelve minutes before she checks the cellars. The travelers have a lantern, a hand of rope, and one of them has a bad leg. They are asking whether the channel is worse than the warrant.
 
-- **Terrain Types:** Village, Ruins
+- **TERRAIN TYPES:** Village, Ruins
 
 > **RESOURCES**
 >
@@ -1086,7 +1086,7 @@ Granaries and mills with a Giant Rat problem are businesses with a political pro
 
 Ratter Dore Selk was hired to clear a drowned mill three days before its sale inspection. She took the contract, went in the east door at dawn, and has not come out. The mill-owner, Ber Tronne, wants the adventurers to find out what happened without going public — the buyer's inspection is in two days and Tronne cannot afford to lose the sale. Selk is the most experienced ratter in the district. She has not come out, which means the colony is larger or older than Tronne quoted. He knew the nest was well established. He described it as minor. He is willing to double Selk's fee if the adventurers bring her out before the inspection, and he has not asked anyone to bring out the rats.
 
-- **Terrain Types:** Village, Quagmire
+- **TERRAIN TYPES:** Village, Quagmire
 
 #### Random Encounter: the Missing Grain Wagon
 
@@ -1094,7 +1094,7 @@ Ratter Dore Selk was hired to clear a drowned mill three days before its sale in
 
 A grain wagon was logged through Road Post 7 three days ago. The village of Melden, which ordered the grain, has received nothing. The wagon and its driver, a teamster named Ols, are at neither end of the road and have not been reported at any intermediate post. The route passes through old floodplain beside a collapsed granary that travelers have used as a sheltered night camp for twenty years. The Giant Rat colony inside the granary walls has been growing for two seasons. Ols knew the granary by name and reputation and made camp there anyway because it was the scheduled stop on the road-master's route and he trusted the schedule. The wagon with its full grain load is still there. Ols may also still be there.
 
-- **Terrain Types:** Plains, Village
+- **TERRAIN TYPES:** Plains, Village
 
 > **RESOURCES**
 >
@@ -1148,7 +1148,7 @@ Old temple grounds, abandoned quarries, and ruined outpost courts often have one
 
 Holger Brant's lime kiln sits above a pit where a Giant Scorpion nested eight years ago. Holger kept it: he fed it condemned men from the valley magistrate's list — six so far — and nobody has touched his lime stock since. The magistrate accommodated this arrangement because it saved him the cost of an executioner and the trouble of a grave. This morning Holger's nephew Rafe was accused of stealing grain weight on his scales. The magistrate has signed the order. Holger wants the scorpion cleared before the sentence is carried out. The magistrate wants it cleared only after. The village is beginning to ask whether the previous six men on the list were actually thieves, or whether the arrangement had its own uses beyond what the magistrate has admitted.
 
-- **Terrain Types:** Hills, Ruins
+- **TERRAIN TYPES:** Hills, Ruins
 
 #### Random Encounter: the Warm Shrine
 
@@ -1156,7 +1156,7 @@ Holger Brant's lime kiln sits above a pit where a Giant Scorpion nested eight ye
 
 The Veld family has tended the roadside shrine at Kord's Crossing for four generations. A Giant Scorpion nested in the altar chamber sixty years ago and the family kept it, because travelers terrified of the beast leave better offerings than those who trust the gods. The Velds take a cut, the beast takes a rat or a mouse, and the road stays open. This spring the scorpion bred. Seven young are in the sub-chamber below the altar and will hatch before frost. Kill the brood and the mother destroys the shrine. Let them hatch and seven scorpions work the road before autumn market season. The Velds want payment regardless of which outcome the adventurers choose, because they own the shrine and someone will owe them.
 
-- **Terrain Types:** Plains, Hills, Ruins
+- **TERRAIN TYPES:** Plains, Hills, Ruins
 
 > **RESOURCES**
 >
@@ -1210,7 +1210,7 @@ Giant specters are the departed souls of ancient titans, who have a strange conn
 
 The man is Brother Petrek, a former lay-priest of the Iron Guard who left the order to study the heavens. The Red Wanderer killed his apprentice three nights ago when a giant specter came down out of the trees and the boy stepped between Petrek and it. The specter let Petrek live so he could carry the answer home: the Red Wanderer is moving toward conjunction, and when it burns bright next month every one of his calculations will be ash. The specter is at MEDIUM range, watching. It has not moved in three days. If Petrek lives until the conjunction, the specter will kill him. Petrek will refuse to leave; his apprentice's body is in the ground at his feet, and he is finishing the work the boy died for. The adventurers can carry him by force, kill the specter (it returns at the next Quarter Day), or sit with him and watch the sky.
 
-- **Terrain Types:** Forest, Dark Forest
+- **TERRAIN TYPES:** Forest, Dark Forest
 
 #### Random Encounter: the Elf Who Will Not Speak
 
@@ -1218,7 +1218,7 @@ The man is Brother Petrek, a former lay-priest of the Iron Guard who left the or
 
 The elf is Aelainne of the Long Watch. She has been sitting at this skull since the Bloodmist lifted, drawing on her arms what the giant specter inside the skull tells her at sundown each day. She speaks no human tongue. The skull is not a relic; the specter is bound to it and will rise from it tonight when the Red Wanderer clears the ridge. Aelainne is the only living thing the specter will not kill, because she is listening, and what she has been told is the location of an elven artifact buried somewhere on the campaign map (the GM places it on a hex of their choice, three days' travel away). The drawing is the map. Aelainne will not give it. She will not stop the specter from killing the adventurers when it rises. If the adventurers kill her, the drawing on her body becomes legible to the reader at the cost of one permanent point of Empathy.
 
-- **Terrain Types:** Forest, Dark Forest, Hills
+- **TERRAIN TYPES:** Forest, Dark Forest, Hills
 
 > **RESOURCES**
 >
@@ -1250,7 +1250,7 @@ Giant spiders are aggressive predators hunting for prey in the forests of the Fo
 
 The adventurers are attacked by a pack of giant spider hatchlings, directed by a proud and protective adult male. The older spider leads the charge like an airborne warlord with a strategic overview of the battle, which gives the hatchlings a +1 bonus to all attacks while the male is alive. But if the male is killed, the hatchlings suffer a –1 penalty instead, since they still lack experience as independent killers.
 
-- **Terrain Types:** Forest, Dark Forest, Ruins
+- **TERRAIN TYPES:** Forest, Dark Forest, Ruins
 
 #### Random Encounter: the Temple of the Spider God
 
@@ -1258,7 +1258,7 @@ The adventurers are attacked by a pack of giant spider hatchlings, directed by a
 
 This crumbled and overgrown temple is dedicated to an incarnation of the Nightwalker worshiped by the giant spiders of the Forbidden Lands. The archway is adorned with runes, and an adventurer who succeeds with a LORE roll recognizes the largest one as the mark of the Nightwalker. But the adventurer also notes that the symbol is strange, almost spiderlike, in its design. The temple area is inhabited by a colony of giant spiders, ruled by an ancient female. She notices the adventurers as they step through the archway, but is too heavy to hunt them down herself. Instead, she sends a pack of hatchlings led by two adult males to bring the food to her chamber in the vast burrow under the courtyard.
 
-- **Terrain Types:** Forest, Dark Forest, Hills, Mountains, Marshlands, Ruins
+- **TERRAIN TYPES:** Forest, Dark Forest, Hills, Mountains, Marshlands, Ruins
 
 #### Giant Spider, Hatchling
 
@@ -1319,7 +1319,7 @@ This crumbled and overgrown temple is dedicated to an incarnation of the Nightwa
 
 The woman is Hela Karsdotter, widow, of a holding two valleys back. The brood is the offspring of an elder female that took her husband on the road from the spring market and left her his teeth and his ring. She has been raising the brood for two summers. The hatchlings sleep in the rafters and bring her hares and once a child from the forest road that she buried decent. She has fed eight winters' worth of grain to keep them tame. They obey her voice. She will not let the adventurers kill them. The elder female mother is a day's travel away in the deep forest and has not returned. If the adventurers explain that the mother is hunting them now, Hela will offer to call the brood off the trail in exchange for one of the adventurers' horses and a blood oath that the brood will be left alone after. The hatchlings cannot be tamed by anyone but Hela, and after her death they will revert. She is forty.
 
-- **Terrain Types:** Forest, Hills
+- **TERRAIN TYPES:** Forest, Hills
 
 #### Random Encounter: the Spinner's Bargain
 
@@ -1327,7 +1327,7 @@ The woman is Hela Karsdotter, widow, of a holding two valleys back. The brood is
 
 The cocoons are alive. The elder female that spun them is the one that has kept the village of Otterleg fed for nine winters: each spring the village offers her three of their condemned in exchange for a bucket of her venom, which the village alchemist brews into Porridge of Prophecy and sells along the trade road. The spider has eaten her side of the bargain only once, the year the village offered a child instead of a thief. She is in her web above. She remembers the smell of the alchemist who feeds her. The cocoons are not yet drained; she keeps them alive on a slow drip, draining them across the year. Eight of them are condemned thieves and murderers. Six of them are the rivals of the alderman who chose them. Three of them are the alderman's enemies' children. Three of them are villagers who saw too much and were offered to the spider on a quiet night. The cocoons cannot be told apart. The villagers will be on the road behind the adventurers within the stretch.
 
-- **Terrain Types:** Forest, Dark Forest, Marshlands
+- **TERRAIN TYPES:** Forest, Dark Forest, Marshlands
 
 > **RESOURCES**
 >
@@ -1366,7 +1366,7 @@ Wetland villages know the toad sign: the stretch of road near the pond where the
 
 A Giant Toad displaced from the Fenwick silted-pond in the spring floods has settled into the main valley ford used for seasonal market crossing. The ford is now impassable without walking within tongue-range. Market day is tomorrow. Road-master Geln Voss knew about the toad two weeks ago and did not file the district report because he was hoping the problem would resolve itself, which is a phrase road-masters use when they mean they were hoping it would become someone else's problem. The market road is the valley's trading backbone: every vendor, cart, and buyer uses it. Voss is at the waypost with a nervous expression and will offer payment if the toad can be moved or killed before the first carts arrive at dawn.
 
-- **Terrain Types:** Quagmire, Marshlands, Plains
+- **TERRAIN TYPES:** Quagmire, Marshlands, Plains
 
 #### Random Encounter: the Children's Game
 
@@ -1374,7 +1374,7 @@ A Giant Toad displaced from the Fenwick silted-pond in the spring floods has set
 
 A Giant Toad has been sitting on the mill pond verge for three weeks. Miller Brek Orm thought it harmless — the stones the children threw at it never prompted a response. The toad was not sleeping. It was establishing routine. Tonight it took young Sera Orm when she came to the bank at the usual hour. Swallowed prey survives in the stomach for some hours. The miller knows this. He is at the pond edge with a long knife and a specific plan that requires standing within tongue-range and seeing it through. His wife is behind him telling him to wait for someone who knows what they are doing. He does not look like he is waiting.
 
-- **Terrain Types:** Quagmire, Village, Forest
+- **TERRAIN TYPES:** Quagmire, Village, Forest
 
 > **RESOURCES**
 >
@@ -1410,7 +1410,7 @@ The digestion is slow. Something that contacts a Glass Ooze is immobilized first
 
 Three miners are suspended inside a Glass Ooze in the number-four drainage shaft of the Kelbridge copper mine. They are still alive. The ooze has been stationary in that shaft for at least a season, but mine-master Surl Dreveld did not know it was there — he sent the three men to clear what the shaft crew logged as a partial blockage. All three are visible through the ooze's body. Dreveld wants them out. He does not know whether killing the ooze releases them cleanly or accelerates the digestion. No one in the valley knows. He is offering full monthly wages plus a copper-weight bonus if the adventurers resolve it before the morning shift, when the rest of the crew expects those three men at their stations.
 
-- **Terrain Types:** Mountains, Hills
+- **TERRAIN TYPES:** Mountains, Hills
 
 #### Random Encounter: the Antiquarian's Commission
 
@@ -1418,7 +1418,7 @@ Three miners are suspended inside a Glass Ooze in the number-four drainage shaft
 
 Locksmith Vars Holt has been melting dead Glass Oozes and sifting for valuables for two years. He sells what he finds to antiquarian Melde Dran, who has been tracking the coinage sequences. Dran recently identified a vault sealed three hundred years ago from a run of coins that have appeared inside three separate oozes over the last six months. The vault has never been successfully opened. The thing that sealed it is probably still there. Dran wants partners for the recovery and is offering a quarter-share of contents. Holt has not told him about the size of the ooze he found last month in the vault approach tunnel, because Dran would withdraw the commission, and Holt needs the money.
 
-- **Terrain Types:** Mountains, Ruins, Hills
+- **TERRAIN TYPES:** Mountains, Ruins, Hills
 
 > **RESOURCES**
 >
@@ -1457,7 +1457,7 @@ Individual goblins are often harmless. A goblin that wanders into a market town 
 
 A goblin band has been in the undercroft of the Fenn Road inn for three months. Last night they took tax collector Deva Olt out of the best room through the underfloor, because she had a lockbox they could not open and they needed someone to explain the contents. Olt is alive in the undercroft, having what sounds through the floorboards like a genuine conversation. Innkeeper Morse Dern wants the situation resolved before Olt's armed escort arrives at dawn and finds an empty room. The escort will not ask questions before causing damage. Olt appears to be explaining the tax ledger to a goblin who can read. The goblin has not given the box back.
 
-- **Terrain Types:** Village, Ruins
+- **TERRAIN TYPES:** Village, Ruins
 
 #### Random Encounter: the Flour Negotiations
 
@@ -1465,7 +1465,7 @@ A goblin band has been in the undercroft of the Fenn Road inn for three months. 
 
 Miller Tolf Gren's grain stores have been stripped over two weeks. He thought it was rats until the third morning, when he found a small snare in the pantry and a note in poor but legible common: _we need the flour more than you do._ A goblin-elder who can write is making a calculated appeal. The village is entering a cold season with reduced stores; the harvest came up short. The goblin warren below the mill is also running short of something it cannot take from a granary. The note implies a trade but does not name terms or what the goblins have to offer. Gren wants them gone. He also wants to know what they have.
 
-- **Terrain Types:** Village, Plains
+- **TERRAIN TYPES:** Village, Plains
 
 > **RESOURCES**
 >
@@ -1519,7 +1519,7 @@ Villages with plague histories often have one in the old loft or the charnel cha
 
 Wren Ashfield, the sacristan of Dorveld, rigged the plague bell twenty years ago to ring when the Grave Bat in the belfry fed. The bat feeds every third night. The bell rings. The town locks the crypts before the dead below rise — and the dead have risen at that same interval since the plague year, without fail. Nobody climbs to cut the rope because the town has come to depend on the alarm. Ashfield died in spring without passing on how the rig works. The bell has now been silent for two nights. The crypts beneath the church have begun to smell. The bat is still in the belfry, alive, and the rope is still tied to something that has not moved in two nights. Nobody in the town knows whether the problem is the bat or what the bat was responding to.
 
-- **Terrain Types:** Village, Ruins
+- **TERRAIN TYPES:** Village, Ruins
 
 #### Random Encounter: the Charcoal Loft
 
@@ -1527,7 +1527,7 @@ Wren Ashfield, the sacristan of Dorveld, rigged the plague bell twenty years ago
 
 Skel Hadder, master of the Drenn charcoal camp, kept a fever-ridden man named Ton alive in the loft-shack for eleven days when a normal crew would have buried him by day three. The Grave Bat roosting in the smoke-loft above fed on Ton twice in that time and has not taken any of the children. Hadder knows what he did and has no way to frame it as mercy. Ton is conscious this morning and asking why he is still in the shack when the fever broke two days ago. The bat is roosting directly above. The answer Hadder gives Ton, in front of the rest of the crew, will either explain everything or cost him the camp. The bat has not eaten in three days and is circling lower each hour.
 
-- **Terrain Types:** Forest, Hills
+- **TERRAIN TYPES:** Forest, Hills
 
 > **RESOURCES**
 >
@@ -1575,7 +1575,7 @@ A greater golem is a humanoid and often very roughly cut creature of stone, insi
 
 The dwarf is Thrudd Ironvein, last of a clan that mined this slope before the Bloodmist. She has come back, alone, to read the binding-rune on the golem's brow because the soul bound inside is her great-grandmother. The binding can be undone here, today, with the words on the slate; the golem will then collapse into rock and the great-grandmother's soul will pass on. The crypt behind it holds the bones and gold of three centuries of Ironveins. The moment Thrudd reads the words, the crypt is unguarded forever, and the surface families have wanted in for a long time. Thrudd cannot read the rune through tears. She will ask the adventurers to read it for her so she can stand witness without breaking. After, she will ask them to leave the crypt unopened. The Iron Guard will be along the road within two days; word travels.
 
-- **Terrain Types:** Mountains, Hills, Ruins
+- **TERRAIN TYPES:** Mountains, Hills, Ruins
 
 #### Random Encounter: the Loaned Stone
 
@@ -1583,7 +1583,7 @@ The dwarf is Thrudd Ironvein, last of a clan that mined this slope before the Bl
 
 The brothers stripped the binding-rune off this golem two days ago in a crypt north of here, and they are now binding the soul of one of their own dying brothers into the stone. Brother Aelmar is sixty-three and has the wasting cough; he asked for the binding so he could keep walking. The work is half-done. If left to finish, the brothers will walk away with a fresh greater golem under their command and the wasted body of Aelmar buried under the road. If interrupted at the wrong moment, the binding takes a different soul; the nearest soul in range goes into the stone, and that means an adventurer. The Rust Brothers know the timing. They will not bargain. They will buy the adventurers' silence with one of three things: an artifact one of them carries, a name on the trade road, or a vial of dragon's blood from their stores. They will hunt anyone who refuses the trade.
 
-- **Terrain Types:** Plains, Hills, Mountains, Ruins
+- **TERRAIN TYPES:** Plains, Hills, Mountains, Ruins
 
 > **RESOURCES**
 >
@@ -1621,7 +1621,7 @@ The smell of cinders and wet hide carries far in cold weather. Villages with rea
 
 Two Hell Hounds are working the road ahead, nose to the surface, moving fast. Their master is not visible. The tracks they are following are three days old and run back through the last town, where a merchant named Seld Ort asked the adventurers to carry a sealed dispatch to the next district office. Ort did not explain why he could not send a courier. Whoever sent the hounds will be behind the adventurers before dark, following them. When the hounds stop tracking the old road and start tracking a moving party, the adventurers will understand the connection. That will be approximately thirty minutes from now.
 
-- **Terrain Types:** Forest, Plains, Hills
+- **TERRAIN TYPES:** Forest, Plains, Hills
 
 #### Random Encounter: the Instructionless Hound
 
@@ -1629,7 +1629,7 @@ Two Hell Hounds are working the road ahead, nose to the surface, moving fast. Th
 
 Sorcerer Meln Vork died in a fire seven days ago. His Hell Hound is still in the scorched yard, sitting, waiting for an instruction from a man who is not coming. The apprentice, Jor, wants the hound — he says a Hell Hound in good service is worth more than everything else in the estate. The creditors want the property and say the hound is a liability preventing access. The village wants both gone from the boundary by market week. An instructionless Hell Hound will move toward whoever gives it a clear directive first. Jor does not have the training to bind one. The creditors will push the access issue before the end of the week. The hound has been watching the road since day three.
 
-- **Terrain Types:** Village, Ruins
+- **TERRAIN TYPES:** Village, Ruins
 
 > **RESOURCES**
 >
@@ -1677,7 +1677,7 @@ Imps are magical beings of unknown origins – small, humanoid creatures that mo
 
 The sorcerer is Master Ottenbar, formerly of the school at Vaesen. The thin spell is a binding-spell on his own daughter, who lies on the slab beside him, eight years old, dying of a wasting fever. The binding will lock her soul to her body and keep her alive. He has been casting since dawn, and every time the spell rises the imps catch a thread of it and the spell weakens. He cannot stop. The imps cannot leave. The cycle has gone six hours and the daughter has another three. The imps will tear apart any sorcerer who joins the circle. They will not touch the adventurers if they keep no spells on them. If a non-sorcerer adventurer carries the daughter out of the circle, the binding breaks and she dies in their arms within the stretch. If they kill an imp, the rest scatter for one Quarter Day and Ottenbar finishes the binding; the daughter lives, the spell takes her hair and her voice forever, and Ottenbar offers the adventurers his name and his school's seal in payment.
 
-- **Terrain Types:** Plains, Forest, Hills, Ruins
+- **TERRAIN TYPES:** Plains, Forest, Hills, Ruins
 
 #### Random Encounter: the Iron Cage
 
@@ -1685,7 +1685,7 @@ The sorcerer is Master Ottenbar, formerly of the school at Vaesen. The thin spel
 
 The imp is what is left of Master Nicodemus's familiar, the one the song speaks of. Nicodemus is dead twenty years; his apprentice took the imp and used it as a battery until the apprentice died last winter. The cage held the imp in dormancy. The lock came undone at first thaw. The imp's wings are broken from the cage door. The imp will not flee; it has been bound so long it cannot remember how. It will, in clear human speech, offer to bind itself as familiar to whichever of the adventurers has the highest Wits, granting the +1 Power Level on every spell. The first time that adventurer fails a spell roll, the imp eats the failed spell and the caster's voice with it: the caster takes one permanent point of Empathy in damage and cannot speak for one Quarter Day. The imp will not warn them. The next sorcerer the imp serves will not know it remembers the last one.
 
-- **Terrain Types:** Forest, Dark Forest, Hills
+- **TERRAIN TYPES:** Forest, Dark Forest, Hills
 
 > **RESOURCES**
 >
@@ -1734,7 +1734,7 @@ Iron dragons are huge, wingless dragons that live deep underground. Unlike their
 
 The stronghold is Falconwatch, the holding of Lady Cosgren, fourth daughter of an Alderlander house, sworn to the trade road. She has fifty-three souls inside the walls and a fortnight of stores. The iron dragon is below the stronghold, gnawing the roots of the rock the foundations rest on. The eastern wall sank a finger's breadth this morning. Within ten days the stronghold goes into the earth with everyone inside. Lady Cosgren has a smith and his apprentice working a great spear of cold-forged iron, and an old soldier who has seen the wound-spot on a dragon's throat once. She needs three of the adventurers to go down into the new tunnels with the spear, drive the spear into the gill-slit, and come back. She offers her stronghold's name on her seal. She does not say that the smith is her brother and that he will not survive the descent. She is forty-one and has been holding this place since she was nineteen.
 
-- **Terrain Types:** Hills, Mountains, Ruins
+- **TERRAIN TYPES:** Hills, Mountains, Ruins
 
 #### Random Encounter: the Dwarf Who Will Not Surface
 
@@ -1742,7 +1742,7 @@ The stronghold is Falconwatch, the holding of Lady Cosgren, fourth daughter of a
 
 The dwarf is Old Helgrim of the Tooth Hold, last of his line. The lockbox holds his clan's bones, sixteen of them, gathered from a hold that an iron dragon ate three years ago in the Blackpeak. He has been hunting the same dragon since. He found it. He has it pinned, spear-wedged in a narrow crevice a half-stretch into the tunnel, and he is forging a chain to drag the carcass out so he can render the metal and recast his clan's hammers from the iron. He cannot do the rendering alone. He will offer the adventurers a third of the iron, by weight, in exchange for their work. He will not tell them that the dragon is not yet dead, only stuck, and that the spear will hold for one more Quarter Day. After, he means to go down with the chain and finish it himself if they do not come. He is two hundred years old and his eyes are clouding.
 
-- **Terrain Types:** Hills, Mountains, Ruins
+- **TERRAIN TYPES:** Hills, Mountains, Ruins
 
 > **RESOURCES**
 >
@@ -1799,7 +1799,7 @@ They are rare because making one requires a master smith, a master sorcerer, and
 
 The foundry beneath Holt Strand has been sealed since the old war. The last owner gave the Iron Golem inside one command: the forge does not wake again. Raiders are working down the valley road and will reach the village in three days. The weapons stockpile inside — three hundred spearheads, forty axe blanks, iron for a score of helmets — would arm every able-bodied person in the village. The only way through the foundry gate is past the Golem. The only way to reach the weapons is to relight the forge to work the door-locks, which is the one thing the Golem was built to prevent. The town clerk has found notes suggesting the command carries a release phrase. He cannot read the language it is written in.
 
-- **Terrain Types:** Hills, Mountains, Ruins
+- **TERRAIN TYPES:** Hills, Mountains, Ruins
 
 #### Random Encounter: the Three Keys
 
@@ -1807,7 +1807,7 @@ The foundry beneath Holt Strand has been sealed since the old war. The last owne
 
 Lord Keswick Vor left three iron keys to three feuding cousins, each key granting one step to opening the family vault where the estate silver and the debt ledgers are sealed. The vault door is guarded by an Iron Golem. The will requires all three keys used in proper sequence without pause. The sequence was in a letter the notary held. The notary has been dead for nine months. Each cousin believes their step comes first. Each cousin's armed escort has been blocking the vault corridor for four days. The Golem stands inside, patient, and does not care about the argument. One cousin has already drafted death certificates for the other two, contingent on what the vault contains. He has not shown them to anyone yet.
 
-- **Terrain Types:** Hills, Ruins
+- **TERRAIN TYPES:** Hills, Ruins
 
 > **RESOURCES**
 >
@@ -1845,7 +1845,7 @@ Buildings with a gargoyle problem become identifiable over time. The upper stone
 
 The great bell of Colven has been silent for a season. Bell-ringer Merte went up to assess a noise complaint three weeks ago and came back down without her left glove and without explanation. The town council is offering payment to resolve it. Merte knows what is in the tower but will not describe it to anyone who has not been up there, because she tried once and the council secretary wrote down her description and read it back to her with the word “rats” substituted throughout. The market-time signal and the curfew bell have both failed for eleven weeks. Merchants are presenting complaints about unpunctual transactions. The council wants the problem solved. Merte wants to go back up but not alone.
 
-- **Terrain Types:** Village, Ruins
+- **TERRAIN TYPES:** Village, Ruins
 
 #### Random Encounter: the Renovation Problem
 
@@ -1853,7 +1853,7 @@ The great bell of Colven has been silent for a season. Bell-ringer Merte went up
 
 Moneylender Kel Sarre has been paying stonemason Brot to strip the decorative figures from a building he purchased for commercial conversion. Brot has known since the first morning that three of the figures are not decorative — one turned its head while he was setting up scaffold. He has been working other parts of the commission since. Sarre comes through the street every morning at the second bell. The three Little Gargoyles have been coordinating a roof-drop for four days. They are not waiting for Brot to go up. They are waiting for the man who gave Brot his commission to walk underneath. Brot is hoping someone resolves this before Sarre asks why the figures are still attached.
 
-- **Terrain Types:** Village, Ruins
+- **TERRAIN TYPES:** Village, Ruins
 
 > **RESOURCES**
 >
@@ -1901,7 +1901,7 @@ The mara is a magical being that haunts humanoid creatures in their sleep. Linke
 
 The mara wears the features of an Aslene dream-sorcerer named Brenna of the Tall Salt, who has paid an old man in the river-village of Otterleg to summon it. Brenna is the mother of a girl one of the adventurers killed three years ago in a road-fight (the GM picks the player and the killing). She has been saving for the binding for two years. The mara comes every night that the adventurers REST in the open. Each night it picks a different sleeper at random; each night the chosen sleeper wakes the next morning with one less point of Empathy until they recover the loss with a Quarter Day in a settlement. The dream cannot be ended by killing the mara: kill one, and three come the next night. The only ways out are to ride three days to Brenna's holding and confront her (she will offer to call the mara off in exchange for the killer's right hand or the killer's name burned onto a tablet thrown into Lake Varda), or to hand over the killer to her village's justice. She is forty-eight, blind in her left eye from grief, and was kind to her daughter.
 
-- **Terrain Types:** All
+- **TERRAIN TYPES:** All
 
 #### Random Encounter: the Borrowed Dream
 
@@ -1909,7 +1909,7 @@ The mara wears the features of an Aslene dream-sorcerer named Brenna of the Tall
 
 The mara has been the bound dream-companion of an old wisewoman in a peat-village called Myrkfen. The wisewoman died at sundown, and the mara is now loose in the world for the first time in forty years. It has chosen this campfire to attach itself. It will, in clear and quiet voice, offer to bind itself to the adventurer with the highest Empathy: that adventurer thereafter dreams the dreams of every sleeper within NEAR range of their camp each night, gaining one Willpower Point per Quarter Day from the dreams of others, but losing one point of Empathy each Quarter Day until they cannot bear the dreams of strangers anymore. The wisewoman's village will come for the mara within a week; she had three daughters who learned the binding and want what the mother left them.
 
-- **Terrain Types:** All
+- **TERRAIN TYPES:** All
 
 > **RESOURCES**
 >
@@ -1955,7 +1955,7 @@ Mire drakes are strange, amphibian predators living in lakes, rivers, and quagmi
 
 The village of Three Stakes pays the mire drake one child every spring in exchange for the season's mussel-bed prophecies. The drake speaks fluently and has been correct on storms, sickness, and the year of the bad ice. The boy is the eldest of the village's headwoman; she had two children, and she is here because last year's tithe was a stranger and the year before that was a thief, and this year is theirs by oath. She is not weeping. She is asking the drake whether the boy will speak to her after he has been swallowed, the way the last child reportedly spoke to her aunt for a stretch from inside the beast's belly. The drake has answered yes. If the adventurers kill the drake, the village's mussel-beds fail this year and the village starves; the women on the boat will tell the villages downriver who did this. If they do nothing, the drake calls the boy to the rock at the next stretch.
 
-- **Terrain Types:** Lake, Quagmire, Marshlands
+- **TERRAIN TYPES:** Lake, Quagmire, Marshlands
 
 #### Random Encounter: the Tribute Runner
 
@@ -1963,7 +1963,7 @@ The village of Three Stakes pays the mire drake one child every spring in exchan
 
 The young man is Lord Avven, second son of the Wakehouse, on his way to the mire drake's nest in the central pool. He is to be the spring's tribute. The old man is the village hetman, paid by the Wakehouse's headmother (Avven's mother) to deliver him. Avven was caught last winter with a Raven Sister; the headmother chose the drake over the burning. The drake will appear within the stretch when the boat reaches the pool. If the adventurers stop the boat, the village will rise the next morning to recover Avven and burn the adventurers in his place; if they let the boat through, Avven will be eaten alive while watching the old man pole away. If the adventurers free Avven and kill the drake, Avven offers them the seal of the Wakehouse and a road home; the headmother will hunt them by every road in the Forbidden Lands. The Raven Sister Avven was caught with is in the village still, and is six months gone with child.
 
-- **Terrain Types:** Lake, Quagmire, Marshlands
+- **TERRAIN TYPES:** Lake, Quagmire, Marshlands
 
 > **RESOURCES**
 >
@@ -2015,7 +2015,7 @@ Mummies are the embalmed remains of ancient lords and great warriors. They are a
 
 The woman is Cael of the Long Fen, last living heir of a chieftain-line that died out three centuries ago when the Bloodmist came down. She has come home with the crown the family carried into exile. To set the crown back on her grandmother's mummy is to bind the Long Fen's old land to her name and her line. The villagers of the valley below worked the land for three centuries while the Long Fen were gone; setting the crown wakes the mummy, and the mummy's first act after waking is to walk down to the valley and reclaim what is owed in blood. Cael has been sitting at the cairn since first light. She has not yet set the crown. She is asking the adventurers what to do. Below in the valley are eighty souls. Behind her in the cairn is her name. The mummy will rise within the stretch if the crown touches the brow.
 
-- **Terrain Types:** Plains, Hills, Mountains, Ruins
+- **TERRAIN TYPES:** Plains, Hills, Mountains, Ruins
 
 #### Random Encounter: the Coffin in the River
 
@@ -2023,7 +2023,7 @@ The woman is Cael of the Long Fen, last living heir of a chieftain-line that die
 
 The coffin is a Mero burial-stone of the old Aslene chieftains, washed loose by spring flooding. Inside is a mummy that has been dreaming under twenty feet of river-mud for two centuries. The peasants want the gold on its arms; their headman wants the body for the village's reliquary. They have been fighting since dawn and have settled on opening it on the bank, here, with axes. If the adventurers warn them off, the headman will accuse them of trying to claim the body for themselves and call the village down. If they help open it, the mummy steps out onto the bank holding the gold of three centuries and chooses, by some old judgment, the adventurer with the highest Empathy as the one most worthy to receive its grave-goods, before attacking. The river behind them carries six more coffins downstream from the same flooded barrow.
 
-- **Terrain Types:** Lake, Marshlands, Plains, Hills
+- **TERRAIN TYPES:** Lake, Marshlands, Plains, Hills
 
 > **RESOURCES**
 >
@@ -2071,7 +2071,7 @@ Nature spirits are partially immaterial, parasitic creatures that have developed
 
 The woman is Astra, the headman's younger sister. She has been the village's spirit-bride for three winters; the nature spirit in the idol takes her at first frost, returns her at the spring sowing, and the village eats well on the back of it. She is twenty-four. The previous bride lasted seven winters before she was returned for good, blind and unable to speak. Astra knows. She has volunteered for a fourth winter because her brother's twins are too young to take her place and the village will starve without the harvest. The spirit is in the idol now, listening. The villagers will not let the adventurers cut her down. If the adventurers kill the spirit, the field rots from the roots within ten days and the village dies before midwinter; the headman, on his knees, will offer them his sister's place in the contract if they take her with them. Astra will not go. Her smile has not moved since dawn.
 
-- **Terrain Types:** Plains, Forest, Hills
+- **TERRAIN TYPES:** Plains, Forest, Hills
 
 #### Random Encounter: the Crossroad Crown
 
@@ -2079,7 +2079,7 @@ The woman is Astra, the headman's younger sister. She has been the village's spi
 
 The child is Hess, the only daughter of a peat-village two days back. The village's own offerings ran thin this autumn and the village wisewoman gave the spirit the child instead, with the village's silent permission. The spirit took her three days ago and has been feeding from her since; she is now half-drained, breathing once a stretch, will not last another night. The spirit will fight to keep the child. The villagers will hunt the adventurers if Hess is brought back: she was given. If the adventurers kill the spirit and walk away with Hess, she lives but loses the use of her legs and her speech. If the adventurers leave her, the spirit will release her at first thaw, blind, and the village will eat well. The wisewoman is at the cairn within the next Quarter Day to retrieve the child's bones. She has done this twice before.
 
-- **Terrain Types:** Forest, Dark Forest, Hills
+- **TERRAIN TYPES:** Forest, Dark Forest, Hills
 
 > **RESOURCES**
 >
@@ -2133,7 +2133,7 @@ Old wives know two defenses: iron under the pillow slows the working, and a Nigh
 
 Two women stand in the passage before dawn, both wearing the same veil, both answering to the bride's name, both knowing the same answers. The groom's mother sent the marriage offer to two families by accident and both daughters arrived. One arrival is not a daughter. The groom cannot tell them apart. The mother cannot either. Asking the groom's father would mean admitting the mistake, which she will not do. If the adventurers choose wrong, the real woman dies the first night after the ceremony. If the ceremony fails, the insulted family's patriarch has already announced what he intends to do about it, and he brought armed men to the wedding to make his position clear.
 
-- **Terrain Types:** Village, Hills
+- **TERRAIN TYPES:** Village, Hills
 
 #### Random Encounter: the Widow's Promise
 
@@ -2141,7 +2141,7 @@ Two women stand in the passage before dawn, both wearing the same veil, both ans
 
 Marta Grale has lived three winters with the doors barred and not gone hungry. The Night Bride that keeps her house asked for one thing: before the spring thaw Marta must name a man. The village knows Marta's house stays untouched when every other widow has lost stock, and they have sent the adventurers to drive the Bride out. Marta is not asking for help. She has already named the man — Dorveth, who killed her husband in a ditch fight nine years ago and inherited the south pasture when the verdict went his way. The Bride is already at his door. He does not know what answered his knock last night, and the Bride does not need to be in Marta's house anymore.
 
-- **Terrain Types:** Village, Forest, Hills
+- **TERRAIN TYPES:** Village, Forest, Hills
 
 > **RESOURCES**
 >
@@ -2179,7 +2179,7 @@ Villages near shadow-hound territory learn to count. Three Night-Pups in the yar
 
 A single Night-Pup sits in the middle of the road ahead. It is not attacking. It watches, and every few seconds it glances left into the tree-line. Two older shadow-hounds are waiting in the wood there, positioning to flank the road on both sides of the pup's location. The pup is not scouting — it has found what it was looking for and is coordinating. It checks the tree-line every few seconds to confirm the older animals are still in place. They are. The party has approximately three rounds before the older animals decide the positioning is sufficient. The road behind the party is empty. The tree-line to the right is quiet in a way that is worth noticing.
 
-- **Terrain Types:** Forest, Hills, Plains
+- **TERRAIN TYPES:** Forest, Hills, Plains
 
 #### Random Encounter: the Child's Cold Hand
 
@@ -2187,7 +2187,7 @@ A single Night-Pup sits in the middle of the road ahead. It is not attacking. It
 
 Mira Holst was bitten by a Night-Pup six days ago while drawing water from the mill stream. The wound is closed and clean but the cold in the hand has not lifted. She cannot close her fingers or grip. Herb-woman Veld has tried everything she knows. Hunter Brek Serren, who knows the shadow-hound territories above the mill, says the cold from a pup-bite resolves when the biting animal is killed — it is a working, not a wound. The pup is still in the area and is being watched over by at least one older hound. Mira's father, Geth, is going into the wood tonight. He has not asked Serren to come with him and Serren has not offered.
 
-- **Terrain Types:** Forest, Village, Hills
+- **TERRAIN TYPES:** Forest, Village, Hills
 
 > **RESOURCES**
 >
@@ -2224,7 +2224,7 @@ Ogre territories are identifiable by structural damage done in passing rather th
 
 An ogre has been standing at the Fenn village gate for three weeks, collecting a toll. It is not aggressive: it stands in the road, holds out one hand, and waits. No one has been hurt. Gatekeeper Deld agreed to the arrangement on the first day because the alternative presented by the ogre's physical presence was worse. The village council has not been told. Deld is afraid of the council's proposed solution, which would involve the village guard and would not end with a live ogre and a working gate. The ogre comes back every morning and leaves by midday, taking exactly the same amount each day. It is saving for something specific and chose this village for a reason, and neither reason is greed.
 
-- **Terrain Types:** Village, Plains
+- **TERRAIN TYPES:** Village, Plains
 
 #### Random Encounter: the Neatly Stacked Crates
 
@@ -2232,7 +2232,7 @@ An ogre has been standing at the Fenn village gate for three weeks, collecting a
 
 An ogre has been taking food from the Merden village winter store for three weeks. Each morning the empty crates are stacked neatly outside the south door. This is the ogre's way of communicating that it is not hostile. Headman Brok Veld is less reassured by the stacking than the ogre expected. The ogre is willing to explain what it is feeding in the old quarry north of the mill, but it needs a translator. The only person in the village who speaks both ogre and common is a woman named Selle, and Selle originally directed the ogre to the quarry two months ago and has not told Veld that part. Veld wants an explanation. Selle wants to give it herself, in her own order, before Veld asks the ogre directly.
 
-- **Terrain Types:** Village, Ruins, Hills
+- **TERRAIN TYPES:** Village, Ruins, Hills
 
 > **RESOURCES**
 >
@@ -2286,7 +2286,7 @@ In old mine-country there is a custom so old no one remembers why it started: le
 
 The village of Kael's Ridge has maintained the tribute post at the cave mouth for thirty years: fruit, salt, offal, left at dawn every third day. Three winters ago the salt crop failed and the offerings went thin. The Pale Apes came down and took a child named Sif Arnke. The village elders have not gone up after her because the last attempt to take something back from the caves cost three men and doubled the tribute requirement. They want the adventurers to retrieve Sif but have not mentioned that they will not provide guides, will not come along, and expect whoever does this to also commit to resuming the full tribute schedule after. The apes have been keeping Sif fed and warm. She has been there long enough to know where the young ones sleep.
 
-- **Terrain Types:** Hills, Mountains
+- **TERRAIN TYPES:** Hills, Mountains
 
 #### Random Encounter: the Blind Singer
 
@@ -2294,7 +2294,7 @@ The village of Kael's Ridge has maintained the tribute post at the cave mouth fo
 
 Bern Vole is leading his blind daughter Ros up the adit path before dawn. A Pale Ape took his son three days ago and has been carrying the boy between cave chambers. The ape has been responding to Ros's singing — humming back from the cave mouth when she is within earshot, which she sometimes is when the wind is right. Bern believes the ape will yield the boy if Ros is brought close enough to sing to it. He believes this because he needs it to be true. If the adventurers force the cave, the ape kills the boy before it yields. If they let Bern continue, the ape will want something for the son, and the only thing it has shown any interest in is Ros. Bern has worked this out. He is still walking toward the cave.
 
-- **Terrain Types:** Hills, Mountains, Ruins
+- **TERRAIN TYPES:** Hills, Mountains, Ruins
 
 > **RESOURCES**
 >
@@ -2344,7 +2344,7 @@ Possessors are sheets of blood mist that take physical form by possessing other 
 
 The farmer is Ulver Strawhand, missing eight months on a salt-run. The possessor took him three days back at a way-stop and walked the rest of the road home. The wife is twenty-six. The boys are six and four. The wife knows her husband well enough to know this is not him; she has been watching him eat for an hour and has not yet said anything because the boys are at the table. The possessor will leave the body if attacked, jump to the closest hot mouth (likely a child), and the body of Ulver will fall dead with his story half-told. If the wife sees this happen in front of the boys, she will not survive the winter. She will, before the meal is over, ask the adventurers to take her husband out into the yard and kill him there, where the boys cannot see, and then to lie to the boys about it. She has decided. The possessor knows she has decided.
 
-- **Terrain Types:** Village, Plains, Hills
+- **TERRAIN TYPES:** Village, Plains, Hills
 
 #### Random Encounter: the Long-Held Breath
 
@@ -2352,7 +2352,7 @@ The farmer is Ulver Strawhand, missing eight months on a salt-run. The possessor
 
 The man is Brother Aelmar, formerly of the Iron Guard, hermit forty years. The possessor came down with the river-fog yesterday and entered him at dawn; he is half-possessed, fighting it with his lungs. He cannot speak. He has tied a cord around the door of the hut to mark the path inside; on the door is written, in soot, _THE SECOND POT FROM THE LEFT_. Inside the hut is a clay pot full of charcoal and salt. If the pot is broken over the man's mouth as he exhales, the mist is bound in the salt and the man lives. If the pot is broken too soon, the mist takes the breaker. If it is broken too late, the man is gone. Aelmar's lungs will give out within the stretch. The closest hot mouth in the clearing, after Aelmar, is whoever is reading the door.
 
-- **Terrain Types:** Forest, Dark Forest, Hills
+- **TERRAIN TYPES:** Forest, Dark Forest, Hills
 
 > **RESOURCES**
 >
@@ -2400,7 +2400,7 @@ Rat kings are demonic creatures sent by Pox Yersinia, a demon lord associated wi
 
 The woman is Magdane, the village's only Druid. The Blue Plague came in with the rat king nine days ago. Twelve are dead. Eighteen are sick. Magdane has been keeping the rest alive by going from house to house with broth and HEALING HANDS, and she has not slept in four days. The rat king is in the village's bell-tower, watching her, waiting; the demon's pact requires that the village die in full, and Magdane is the only one keeping them. Magdane will not leave. She will ask the adventurers to take the village's nine children, who are not yet sick, out the south road to the next village. The next village will not let plague-children in; the headman there will turn them back at the gate. If the adventurers leave the children with Magdane, they die with her. If the adventurers kill the rat king, the plague does not stop, and Magdane works herself dead in three more days. If they take her with them, the village's sick die in their cups within the stretch.
 
-- **Terrain Types:** Plains, Forest, Hills, Mountains, Village
+- **TERRAIN TYPES:** Plains, Forest, Hills, Mountains, Village
 
 #### Random Encounter: the Pied Piper's Toll
 
@@ -2408,7 +2408,7 @@ The woman is Magdane, the village's only Druid. The Blue Plague came in with the
 
 The children are from a village called Rye Bottom, two days' walk back. The rat king came in three days ago and killed every adult who would not pay; the surviving adults paid in their children, and the rat king is leading the column to a chasm in the hills where Pox Yersinia's bone-altar is buried, to feed her with eighteen names. The flute compels the children. They are not sick. If the flute breaks or the rat king dies, the children wake on the road and weep, and the rat king's plague-mist (Virulence 5) is released into the air across NEAR range. If the adventurers play the flute themselves with a successful PERFORMANCE roll, the children obey them instead. The rat king will not fight to keep the children if the adventurers walk past; it has eighteen, it can collect more.
 
-- **Terrain Types:** Plains, Forest, Dark Forest, Hills, Mountains
+- **TERRAIN TYPES:** Plains, Forest, Dark Forest, Hills, Mountains
 
 > **RESOURCES**
 >
@@ -2462,7 +2462,7 @@ Miners know the signs. A cave that smells faintly sweet and shows old bone in th
 
 The Kolden bridge has been crumbling for thirty years but stays passable because Harric, a senior smuggler out of Dreveld, pays meat and copper to the Rock-Hanger above the arch on every market crossing. The arrangement keeps the creature from dropping on his crew and earns Harric a small toll from travelers who want a guided crossing. A family arrived before midnight: a man, his wife, their fevered child, and no coin for the toll. The child cannot survive the long road around. Harric is willing to discuss terms but his crew has standing orders not to let an unpaid crossing set precedent. The Rock-Hanger is not part of any discussion. It has been stationary for thirty hours and has been watching the family from above since they arrived at the bridge end.
 
-- **Terrain Types:** Hills, Mountains, Ruins
+- **TERRAIN TYPES:** Hills, Mountains, Ruins
 
 #### Random Encounter: the Miner's Lamp Chain
 
@@ -2470,7 +2470,7 @@ The Kolden bridge has been crumbling for thirty years but stays passable because
 
 Ore master Drem Volse has known about the Rock-Hanger over the main haul shaft for two months and has continued running shifts because the silver vein below is the only thing keeping the mine solvent through a bad year. He has been sending the men with the largest debt balances first — the ones who owe the mine store and cannot afford to refuse — to carry the lamp chains down. Seven men over two months. He has not told anyone the pattern. This morning the lot-draw came up with his son Kalder, who has no debt but drew the right colored stone. Volse wants the creature removed before the morning shift, without anyone asking how long he knew it was there, or why it always took the debtors.
 
-- **Terrain Types:** Hills, Mountains
+- **TERRAIN TYPES:** Hills, Mountains
 
 > **RESOURCES**
 >
@@ -2522,7 +2522,7 @@ Rock trolls are trolls that have partially turned and, because of their old age 
 
 The Meromannians are running a rock-troll husbandry. They have been fattening this troll for nine winters in a cave behind the clearing, feeding it stolen calves and, twice now, kidnapped travellers from the trade road. The troll is twice the weight of an old rock troll and dense with gold and copper. The dwarves plan to slaughter it next spring, when the smell of human meat in its body has had a winter to set. The cattle are to be the last feeding before the slaughter. The clan that owns these cattle is the village of Three Stakes, two days back, who lost them to the dwarves last week and are following the dwarves' wagon-tracks here. The villagers will be in the clearing within the stretch. The troll smells the cattle now and is coming up out of the cave. The dwarves will offer the adventurers a one-tenth share in the slaughter to keep them quiet. They will pay anyone who walks away with stories. They will kill anyone who reaches the village.
 
-- **Terrain Types:** Forest, Dark Forest, Hills, Mountains
+- **TERRAIN TYPES:** Forest, Dark Forest, Hills, Mountains
 
 #### Random Encounter: the Sunlit Hour
 
@@ -2530,7 +2530,7 @@ The Meromannians are running a rock-troll husbandry. They have been fattening th
 
 The troll is not dead. It is paralyzed by sun and will wake at sundown. The Rust Brothers are here to harvest the troll's gallstones for the troll's-blood draught their order brews against the Bloodmist's lingering effects. Brother Tomek wants to cut the troll open while it is paralyzed; Brother Saren wants to wait until it is dead, because cutting a living troll is a sin against the Protector. They have been arguing since dawn. Sundown is one stretch off. If the adventurers help cut the troll open before sundown, Saren will not forget; the Rust Brothers' order keeps long memories. If they wait, the troll wakes and kills the brothers and any adventurer who has not retreated to the treeline. The troll's blood is needed in the village of Three Stakes for a Druid named Magdane, who is dying of the Blue Plague the rat king brought.
 
-- **Terrain Types:** Forest, Hills, Mountains
+- **TERRAIN TYPES:** Forest, Hills, Mountains
 
 > **RESOURCES**
 >
@@ -2578,7 +2578,7 @@ The shapeshifter is a creature that is hard to classify, capable of transforming
 
 The wife is Astrid Ronesdotter, taken by the shapeshifter on the salt-road in midwinter. The thing wearing her face has been in the village since this morning. The husband knows. He noticed at midday that the wife does not remember the names of their two grown children, who are at the inn now and have not yet been alone with her. He has not told them. He has been sitting beside the thing for eight hours because he wants the rest of the day with what looks like his wife. The shapeshifter intends to take him and the children tonight. The husband will, if approached privately, ask the adventurers to wait until morning to act, so he can say goodbye. He will pay them with the only gold his wife and he ever saved, hidden under the well. The children will not believe the adventurers if told before the husband says so. The shapeshifter has not eaten since first thaw and is on the edge of failing.
 
-- **Terrain Types:** Plains, Forest, Hills, Village
+- **TERRAIN TYPES:** Plains, Forest, Hills, Village
 
 #### Random Encounter: the Trail of Slime
 
@@ -2586,7 +2586,7 @@ The wife is Astrid Ronesdotter, taken by the shapeshifter on the salt-road in mi
 
 The shapeshifter ate one of the four men an hour ago and stepped into his place. The other two have been eating bread with what they think is their friend for half a stretch. The shapeshifter has not yet decided whom to take next. A LORE roll picks out the slime-trail leading from the camp behind the men into the brush at NEAR range, where the half-eaten body of the original woodcutter lies. The two living men carry no weapons. If the adventurers point out the impostor, the impostor will say one of the others is the shapeshifter and the wood-cutters will draw knives on each other. If the adventurers cut down all three, two innocent men die. If the adventurers walk past, the impostor takes one of the others before the next stretch and walks back to the village wearing whichever face suits the road. The village is half a day off and contains the shapeshifter's daughter, the impostor knows.
 
-- **Terrain Types:** Forest, Dark Forest, Hills
+- **TERRAIN TYPES:** Forest, Dark Forest, Hills
 
 > **RESOURCES**
 >
@@ -2634,7 +2634,7 @@ Skolopendras are primitive predators living in the damp, nearsurface parts of un
 
 The man is Olav, a peat-cutter. A skolopendra impregnated him eight days ago in the cuts. The wife, Inge, sent for the village's only HEALER yesterday and the HEALER cut Olav's belly open this morning, found nine larvae each the length of a finger, took her fee, and left because she said the eggs were too many to take and she would not waste her draughts. Inge has been sitting with the knife since dawn. Olav wants Inge to cut his throat before the larvae eat their way out (one stretch off, by the look of him). Inge cannot. The adventurers are passing through. The skolopendra that did it is in the cuts at NEAR range, drawn back by the smell of the wound; it will attack any large body that moves. A successful HEALING roll lets one adventurer cut the larvae out before they hatch; failure costs Olav his bowels and he dies in the cut. If the adventurers leave him for Inge to do, Inge does not do it.
 
-- **Terrain Types:** Plains, Marsh, Forest, Hills
+- **TERRAIN TYPES:** Plains, Marsh, Forest, Hills
 
 #### Random Encounter: Lord of the Hole
 
@@ -2642,7 +2642,7 @@ The man is Olav, a peat-cutter. A skolopendra impregnated him eight days ago in 
 
 The woman is Hild, a Bloodmarch rider taken in a Meromannian raid two days back. The dwarves have been opening this gallery for a copper seam and broke through into the skolopendra's nest. The skolopendra will not move from its eggs unless given a body large enough to take more. Hild is the body. The dwarven foreman, Thorgrid, will offer the adventurers Hild's horse and tack to walk on. Hild's horse is a fine warhorse worth eight gold pieces. Hild's clan, the Riders of the Black Banner, are camped one day off and will pay better for her safe return; they will also burn this gallery and the dwarves in it if they learn what was done. The skolopendra's nest holds two hundred eggs in a single cluster; if the dwarves are killed and the gallery left open, the eggs hatch in three days and the larvae fan out through the underground passages of the whole hill country.
 
-- **Terrain Types:** Hills, Mountains, Dungeon
+- **TERRAIN TYPES:** Hills, Mountains, Dungeon
 
 > **RESOURCES**
 >
@@ -2696,7 +2696,7 @@ Most petitioners leave satisfied. Those who arrive with weapons and intent to en
 
 Three children stand by the spring with wet hair and bare feet, none of them breathing. They have been stone since yesterday when their mothers came to draw water and a dispute over the spring order spilled into the grotto where the Snake Queen keeps her offerings. One child threw a stone at the idol. One child threw a stone at another child. The third did nothing and is stone the same as the others. The Queen will restore two before nightfall if the mothers name which child is at fault. Each of the three women knows exactly which one it was. All three are standing at the spring mouth. None of them will speak first, because speaking first means naming, and naming means one of them walks home with empty arms.
 
-- **Terrain Types:** Forest, Hills
+- **TERRAIN TYPES:** Forest, Hills
 
 #### Random Encounter: the Bridal Crown
 
@@ -2704,7 +2704,7 @@ Three children stand by the spring with wet hair and bare feet, none of them bre
 
 Lord Kel Wester arranged his son's marriage to a veiled woman from the hill country who arrived with a spring-rights deed and a good silver dowry. Wester knows what she is. He arranged it anyway because three downstream villages are dying of drought and the deed solves that problem. His son Arvid knows only that his father seems relieved and the bride keeps to herself. The wedding is tomorrow. Arvid goes to stone the first night he sees her face in full light, unless someone warns him or the bride is removed. Remove the bride and the spring-rights deed is void, the downstream villages lose water by the winter compact, and Wester will do whatever it takes to silence whoever cost him that arrangement.
 
-- **Terrain Types:** Village, Hills, Ruins
+- **TERRAIN TYPES:** Village, Hills, Ruins
 
 > **RESOURCES**
 >
@@ -2759,7 +2759,7 @@ Fighting one in a ruin means fighting on its preferred ground. The lesser eyes f
 
 The watchtower of Aldkeld has been sealed for forty years. It opened on the night the Red Wanderer burned bright, and a Star-Watcher now drifts between the third floor and the roof. The tower register — the bound record of land claims, debt rolls, and death orders of the old administration — is on the top shelf of the third-floor library. Village elder Sura Fend says the register proves her bloodline's right to the west pasture. The Raven Sisters say it names seven women burned to seal the tower and those names belong to them. The Star-Watcher will drift away from anyone ascending without a working sorcery. It will not drift away from anyone who lights one, and neither the elder nor the Sisters are willing to go in first.
 
-- **Terrain Types:** Hills, Ruins
+- **TERRAIN TYPES:** Hills, Ruins
 
 #### Random Encounter: the Wrong Star
 
@@ -2767,7 +2767,7 @@ The watchtower of Aldkeld has been sealed for forty years. It opened on the nigh
 
 Old Veld Haarne walked up to the ridge ruins two nights ago with a bronze bowl of water and a list of the village children written in charcoal. He believes the Star-Watcher in the tower can read fate in the sky-fire the way the old star-priests did. He did not tell anyone. He said he was checking the sheep. Half the village followed him in silence because three children died before winter last year and each family wants to know if theirs is next. If the adventurers drive the creature off, the village goes home with nothing. The families will find another way to determine which child is marked, and whatever they settle on will be worse than the question they arrived with.
 
-- **Terrain Types:** Hills, Mountains, Ruins
+- **TERRAIN TYPES:** Hills, Mountains, Ruins
 
 > **RESOURCES**
 >
@@ -2815,7 +2815,7 @@ The swarming death is an allconsuming cloud of flesheating locusts and other ins
 
 The village's whole year of barley is in this field. The headman, Saren Bytefiel, knows the swarm will be on them within the stretch and has put every able body on the scything. The swarm will eat what is uncut. Saren will offer the adventurers a sack of last year's barley apiece if they cut alongside; he will offer the same to anyone who burns a firebreak across the western edge. The firebreak takes the village's whole oil-store and one of the village's three milch-cows for a smoke-pyre, and if it is lit, the swarm bends north and falls instead on the village of Eikholm, two leagues off, who do not know it is coming. Eikholm has eight children. If the firebreak is not lit, Three Stakes loses the field and a third of the village starves come midwinter. If both villages are warned, the swarm finds them anyway and both lose their fields.
 
-- **Terrain Types:** Plains, Hills
+- **TERRAIN TYPES:** Plains, Hills
 
 #### Random Encounter: the Tower Mage
 
@@ -2823,7 +2823,7 @@ The village's whole year of barley is in this field. The headman, Saren Bytefiel
 
 The young woman is Yala. The old man is her teacher, the blood mage Kreven. Kreven called the swarm three days ago to drive a Wyrm warband off this plain; the warband died, and so did three villages downwind that Kreven did not account for. Kreven cut his own throat at sunup. Yala stayed. She is sixteen, her hands are shaking, and she has the spellbook in her satchel. She will tell the adventurers what was done if they ask. The Iron Guard will pay forty silver for any blood mage delivered alive; the Rust Brothers will pay sixty for the spellbook and burn the mage. The book contains the calling of the swarming death; if the adventurers leave it on the road, someone else will find it. The swarm itself is not yet gone; it has settled in the next valley over and is finishing the last of the wild deer.
 
-- **Terrain Types:** Plains, Hills, Mountains, Ruins
+- **TERRAIN TYPES:** Plains, Hills, Mountains, Ruins
 
 > **RESOURCES**
 >
@@ -2877,7 +2877,7 @@ Some have been worshiped as oracles. The villages that kept the relationship del
 
 The village of Merren has fed the Thought-Kraken in the market well since the drought year, seventeen years ago: written questions in waxed cloth left at the wellhead at dusk, answered in the petitioner's own voice before morning. The village fed it three convicted thieves over those years to supplement the service. Every answer was correct. A woman named Dalta Ren is next in the queue. She wants to know which of her two children survives the sickness passing through the village. The price the Thought-Kraken has named back to her, in her own voice from the wellhead, is the other one. She has not yet answered. The rest of the village is watching from the well-yard to see what she does.
 
-- **Terrain Types:** Village, Plains, Ruins
+- **TERRAIN TYPES:** Village, Plains, Ruins
 
 #### Random Encounter: the Silent Monastery
 
@@ -2885,7 +2885,7 @@ The village of Merren has fed the Thought-Kraken in the market well since the dr
 
 The monastery of Gell's Ridge has maintained silence for six years — not for devotion but because the Thought-Kraken in the cliff cistern below them takes any voice sent down the stone shaft. The monks write on slates. They have become expert at it. One of the younger brothers negotiated an arrangement under duress: the thing in the cistern receives copied manuscripts from the library and does not send raiders up the tunnel into the food stores. The arrangement has held. If the adventurers kill it, the brothers recover their voices. The tunnel to the food stores is open to anyone who knows to look for it, and no one can explain the defense arrangement because no one can speak loudly enough to be heard across the courtyard.
 
-- **Terrain Types:** Mountains, Ruins
+- **TERRAIN TYPES:** Mountains, Ruins
 
 > **RESOURCES**
 >
@@ -2922,7 +2922,7 @@ Tunnel Maw territory is identifiable to experienced spelunkers by what is absent
 
 A mining survey team sent one man, Ran Veld, into the new eastern shaft three hours ago to take depth measurements. The rope went taut and has not moved since. The team cannot pull it back — it resists as if anchored, not snagged. Veld may be dead, held in the Tunnel Maw's feelers, or have wedged the rope around something solid while trying to pull free. He is not calling out; the shaft geometry prevents it, or he has stopped. The shaft is the only known passage to the ore vein the entire mine operation is staked on. The team lead wants someone to go in. He has been willing to go himself for the last thirty minutes and has not yet gone.
 
-- **Terrain Types:** Mountains, Hills
+- **TERRAIN TYPES:** Mountains, Hills
 
 #### Random Encounter: the Bridge Monopoly
 
@@ -2930,7 +2930,7 @@ A mining survey team sent one man, Ran Veld, into the new eastern shaft three ho
 
 A Tunnel Maw has been under the Dren bridge arch on the Westmarch trade road for six months. The damage has been logged as flood wear, cart overloading, and twice as sabotage. The actual explanation is Merchant Keln Sors, who discovered the maw in spring and has been using the knowledge rather than reporting it: caravans he personally escorts cross in the safe window between the maw's feeding cycles. Caravans that pass without him sometimes do not arrive at the Westmarch waypost. Sors is not feeding people to the maw intentionally. He knows the timing and has not disclosed it, because the road guild would seal the bridge and end his advantage. The road guild has started asking questions about the failed-delivery pattern.
 
-- **Terrain Types:** Plains, Hills, Village
+- **TERRAIN TYPES:** Plains, Hills, Village
 
 > **RESOURCES**
 >
@@ -2985,7 +2985,7 @@ Villages with Tunnelers under the road learn to sound the earth each morning bef
 
 The village cistern at Kold's Yard has swallowed two buckets, two goats, and a child named Misa in three days. Headman Brot Veld is offering silver to kill whatever is below it. He has not mentioned that breaking the cistern floor ruins the only clean water for forty people until the autumn rain. He has also not mentioned that the village has already decided, in quiet conversation over the last two days, that the collapse is the fault of Seravit — the widow whose late husband dug the shaft twenty years ago. She has done nothing. If the adventurers clear the cistern by breaking the floor, the village loses its water and Seravit goes unblamed. If they leave without a solution, the cistern takes someone else by morning and the village acts on the conclusion it has already drawn.
 
-- **Terrain Types:** Village, Plains
+- **TERRAIN TYPES:** Village, Plains
 
 #### Random Encounter: the Toll Road Furrow
 
@@ -2993,7 +2993,7 @@ The village cistern at Kold's Yard has swallowed two buckets, two goats, and a c
 
 Tobbe Gret has operated the Fenn Road toll post for three years with the assistance of a Tunneler he discovered beneath the road in his first season. He charges double for use of the planked boardwalk, which he claims protects against the soft spots. He keeps the beast fed with dead stock from the hamlet downstream and skims the difference from the merchants' fees. The hamlet depends on that silver for winter salt. The beast has grown large enough this spring to punch through the planks, and Tobbe has been patching at night. The last gap was wide enough for a wheel. The next cart through belongs to a temple driver carrying children to novice service. Tobbe is at the post, smiling, collecting the double fee.
 
-- **Terrain Types:** Plains, Hills
+- **TERRAIN TYPES:** Plains, Hills
 
 > **RESOURCES**
 >
@@ -3041,7 +3041,7 @@ Tupilaqs are merged from parts of corpses and carcasses that have been risen fro
 
 The tupilaq was set on Halvar nine days ago by a Sorcerer named Naren of the Silent. Halvar paid Naren forty silver to send a tupilaq after Halvar's brother in a quarrel over their father's land. Naren took the silver and named Halvar instead, because Naren was paid sixty silver by Halvar's brother on the same day. The tupilaq does not know it was misnamed; it knows only the name. It will not leave until Halvar is dead and his body is in pieces. Halvar's wife and three children are inside the forge with him. Halvar will, if approached through the back door, confess what he tried to have done; he will offer the adventurers the forge and his trade if they end the tupilaq. The brother is two villages over and will, if found, confirm the story. Naren is on the road to Vajenden and will not be caught.
 
-- **Terrain Types:** Plains, Forest, Hills, Village
+- **TERRAIN TYPES:** Plains, Forest, Hills, Village
 
 #### Random Encounter: the Patient Vagrant
 
@@ -3049,7 +3049,7 @@ The tupilaq was set on Halvar nine days ago by a Sorcerer named Naren of the Sil
 
 The figure is a tupilaq waiting for its target. Its target is a peddler named Leski Vinde who passes this inn every fortnight on his salt-route. Leski is due in two days. Leski's offense was to bed the daughter of a sorcerer of the Silent in a town three years past; the daughter died of the bedding-fever and the sorcerer set the tupilaq on him. Leski does not know any of this. Astri has noticed the figure does not breathe and is afraid; she will pay the adventurers her late husband's silver belt to send the thing away. If the adventurers wait for Leski and ask, Leski will swear by the Protector that he has done nothing; the daughter's name was Mara and Leski did know her. If the tupilaq is destroyed before Leski arrives, the sorcerer is alerted by the breaking of the binding and will, in time, send another. If Leski is delivered to the tupilaq, the matter is finished and Astri keeps her belt.
 
-- **Terrain Types:** Plains, Forest, Hills
+- **TERRAIN TYPES:** Plains, Forest, Hills
 
 > **RESOURCES**
 >
@@ -3098,7 +3098,7 @@ Twisted ents are demonic tree creatures that have heeded the wicked call of the 
 
 The elf is Salinde Whitebough. The Rust Brothers caught her three days ago and are using her to keep the ent calm on the march; her music is the only thing that holds it. The ent was, six hundred years ago, her brother. Salinde knows the song to wake him for one short stretch into himself; she also knows that the wakening kills what is left of him. The Rust Brothers' commander, Brother Halric, has worked out the same and is waiting for Salinde to finish the journey to the Wyrm cult's grove at Three Stakes; once there, the ent is to be turned loose on the village and Salinde is to be hanged. Salinde will, if approached, ask the adventurers to cut her hands free and let her play the wakening song; the ent will turn on Halric for one stretch and then collapse to wood, and Salinde herself will not survive the song. She is six hundred years old and would like to end with her brother. If the adventurers refuse the song, Salinde will play whatever the Rust Brothers want and the village will burn.
 
-- **Terrain Types:** Forest, Dark Forest, Hills, Ruins
+- **TERRAIN TYPES:** Forest, Dark Forest, Hills, Ruins
 
 #### Random Encounter: the Old Path
 
@@ -3106,7 +3106,7 @@ The elf is Salinde Whitebough. The Rust Brothers caught her three days ago and a
 
 The old woman is Maire Bolesdotter, a wandering goose-herd who once, sixty years ago, was an apprentice with the elves of Alderstone before the Bloodmist. She knows two of the elven songs. She has been holding the ent in place for half a stretch by humming. The cart's axle is cracked and will not move without the village smith, who is two days off. Maire is eighty-four winters old and her voice will fail before sundown. The children are her grandchildren and not hers to leave. A PERFORMANCE roll on a passing adventurer who hears the tune lets the adventurer take up the humming after Maire fails; failure on the song wakes the ent. The Rust Brothers have a patrol on this road and will, in time, find the cart; if they find it before the ent moves, they take the ent in chains and the children are left to walk. If the ent is killed, Maire weeps for it as for a man.
 
-- **Terrain Types:** Forest, Dark Forest, Hills
+- **TERRAIN TYPES:** Forest, Dark Forest, Hills
 
 > **RESOURCES**
 >
@@ -3155,7 +3155,7 @@ Undead dragons are vicious carrioneaters that haunt burial sites, old battlefiel
 
 The young man is Halvor, an apprentice scribe from Vajenden. The dragon, who calls itself Lord Anselbrim, has been here for nine years and has Halvor's twin sister chained at the next stone over; if Halvor stops reading, the dragon eats the sister. Halvor has been reading without sleep for three days. The book is almost finished. Lord Anselbrim has the bones of nine villages buried under this field and will not move from this seat. He will, if approached, offer the adventurers their pick of his court treasury (D3 rolls on Valuable Finds) for a fresh book of poems and a fresh reader; he will eat both Halvor and the sister at sunup regardless. If the adventurers fight, the twenty Bog Men rise. If they bring a poet, the dragon takes the poet's tongue when the book ends. If they leave, both twins die at sunup. Halvor is twenty-three winters old.
 
-- **Terrain Types:** Plains, Hills, Marshlands, Ruins
+- **TERRAIN TYPES:** Plains, Hills, Marshlands, Ruins
 
 #### Random Encounter: the Iron Cages
 
@@ -3163,7 +3163,7 @@ The young man is Halvor, an apprentice scribe from Vajenden. The dragon, who cal
 
 The Rust Brothers were carting forty restless dead from villages along the Bloodmarch to a corpse-pit at Three Stakes. The dragon, who calls itself Lord Vyrasen, fell on the wagons at sunset, ate eight Rust Brothers, and let the rest die fighting his risen dead. The forty restless dead are scattered through the surrounding forest, mindless, and will reach Three Stakes by dawn. The Iron Guard's commander, an Aslene named Captain Halrid, is among the dying; he has the cage-key and the names of the villages the dead came from in his belt-pouch. Lord Vyrasen has eaten his fill and is willing, with a MANIPULATION roll, to listen to a parley; he will agree, for one tribute of a fresh corpse, to call the forty dead back to him so they do not reach Three Stakes. The corpse he wants is Captain Halrid, who is still breathing. If the adventurers refuse and fight, the dragon raises Halrid as another mouth.
 
-- **Terrain Types:** Plains, Forest, Dark Forest, Hills, Mountains, Ruins
+- **TERRAIN TYPES:** Plains, Forest, Dark Forest, Hills, Mountains, Ruins
 
 > **RESOURCES**
 >
@@ -3216,7 +3216,7 @@ Vampyrs are ancient humanlike predators that feed on the blood of humanoid creat
 
 The vampyr is Sir Avven, who has been here nine months. He calls himself a messenger of Rust and is cleansing the village of "unclean blood" by draining one villager every third night into the trough. The trough holds the blood of nineteen villagers and is what keeps the mass hypnosis on the rest. The girl tonight is Inge Kaarsdotter, the headman's youngest daughter, and Inge's mother Astri is the only villager not under the hypnosis; she is in her own house, gagged by her hypnotised husband, awaiting Avven's return. Avven is on his ninth month of cleansing because the village is the only one between Vajenden and the Bloodmarch where the Iron Guard does not patrol. The Rust Brothers are camped one day off and have come to kill Avven; they will arrive at sundown tomorrow. If the adventurers kill Avven now, the hypnotised villagers wake the next morning and find what they have stood by, and four hang themselves before the week is out. If they wait for the Rust Brothers, Inge dies tonight. If Avven dies and his blood-trough is burnt, the village becomes a Rust Brothers' garrison; if the trough is preserved, the Order of the Silent will pay for it.
 
-- **Terrain Types:** Plains, Forest, Hills, Village
+- **TERRAIN TYPES:** Plains, Forest, Hills, Village
 
 #### Random Encounter: the Starving Lord
 
@@ -3224,7 +3224,7 @@ The vampyr is Sir Avven, who has been here nine months. He calls himself a messe
 
 The vampyr is Lord Halric the Just, six hundred years old, the last vampyr of his hold. He has been refusing blood for nine days because he has, after six centuries, stopped being able to tell the difference between the blood of an unjust man and the blood of a child; he has been killing both. The young apprentice is his great-great-great-granddaughter, Ylva, who tracked him here through the Rust Brothers' archives and has come to give him her blood and her life. Ylva believes Halric will recover his judgement if he feeds on willing kin-blood. The Rust Brothers, who think Halric is a heretic and Ylva a runaway, have sent a fast band of six to bring her back; the band is half a stretch off. If the adventurers let Halric drink, Ylva dies and Halric does or does not recover; the GM rolls. If the adventurers stop her, Halric dies of thirst within the stretch. If the Rust Brothers arrive, they take Halric's chainmail and Ylva's tongue.
 
-- **Terrain Types:** Plains, Forest, Hills, Mountains, Ruins
+- **TERRAIN TYPES:** Plains, Forest, Hills, Mountains, Ruins
 
 > **RESOURCES**
 >
@@ -3262,7 +3262,7 @@ Villages near old battlefields, plague sites, and unmaintained cemeteries have p
 
 Seven people from the eastern quarter of Solm village have not been seen since last night. Three of their doors were left open in the cold. Herbwoman Melde says the eastern quarter is downhill from the old field-burial site, the drainage runs toward the foundation stones, and this autumn was the wettest in fourteen years. She wants the site consecrated before anyone goes searching. Headman Bret Vorn wants the problem handled quietly before the autumn census, which is in four days. One of the missing seven is Vorn's brother Ols. Melde says the consecration comes first. Vorn wants to know if his brother is alive, which is a different question that consecration does not answer.
 
-- **Terrain Types:** Village, Marshlands, Plains
+- **TERRAIN TYPES:** Village, Marshlands, Plains
 
 #### Random Encounter: the Quiet Checkpoint
 
@@ -3270,7 +3270,7 @@ Seven people from the eastern quarter of Solm village have not been seen since l
 
 Road post fourteen on the North Fenn junction has been silent for three days. The post covers the road near an old military burial pit from a skirmish three seasons ago. Message-rider Dera Holst rode the road two days ago and returned without delivering her dispatch. She described the road as impassable and has a specific expression that people who have seen walking dead before recognize. The post has twelve wardens assigned to it. The burial pit was dug in haste; no one recorded how many went into it. The district captain wants a recovery mission. Holst has agreed to ride ahead on the condition that she is not sent in first.
 
-- **Terrain Types:** Plains, Hills, Village
+- **TERRAIN TYPES:** Plains, Hills, Village
 
 > **RESOURCES**
 >
@@ -3308,7 +3308,7 @@ Villages pray harder at the sound of a spellbook opening than at the howl of any
 
 Ten years ago, Warlock Meln of the Black Ridge took a child, Vessa, as an apprentice under a contract the parents signed in a bad winter. Vessa returned last week, thirty years old by the look of her, with a message: the contract is complete, she is released, she owes nothing. The village does not know what to do with this. Vessa does. What she came back to accomplish requires the village's help. What the warlock sent her back to accomplish also requires the village to cooperate. Both goals are structured as requests she has not yet made. She arrived on a market day, ate at the inn, slept one night, and has been sitting at the south well since morning waiting for someone to ask what she is doing here.
 
-- **Terrain Types:** Village, Mountains, Hills
+- **TERRAIN TYPES:** Village, Mountains, Hills
 
 #### Random Encounter: the Tax Negotiation
 
@@ -3316,7 +3316,7 @@ Ten years ago, Warlock Meln of the Black Ridge took a child, Vessa, as an appren
 
 Lord Keln Vosse levied tax on Warlock Drest's tower and adjacent lands. The document was returned with one addition: the sum Vosse's grandfather failed to pay for services rendered thirty years ago, with compound interest. Vosse's steward, Taren, was sent to negotiate. Taren reached the tower, was admitted, and has been inside for two days. Vosse wants to know what is being discussed. Taren's family wants to know if he is still able to discuss things. Drest does not communicate through intermediaries as a general rule, but the note accompanying the returned tax document was written in a familiar hand. Someone in Vosse's household has been corresponding with the tower for some time, and that person is not the steward.
 
-- **Terrain Types:** Hills, Mountains, Village
+- **TERRAIN TYPES:** Hills, Mountains, Village
 
 > **RESOURCES**
 >
@@ -3367,7 +3367,7 @@ Water trolls are an offshoot of the troll species that has evolved to live in wa
 
 The bridge has stood for two hundred years. Three generations back, the village paid a water troll a yearly tithe of pork through this shaft and the troll left their children alone. The tithe stopped twenty winters ago when the village joined the Protector's church. Last spring the troll, called Old Brackish, took two children from the riverbank and one washerwoman; the village has been losing six head of pork a year ever since to keep the rest. Halge's groom, Saren, refused to pay tithe on his wedding-day because he is now a Rust Brother and the Rust Brothers do not pay troll-tithes. Saren is on the far side of the bridge with his fellow Brothers, watching. Halge is paying the tithe anyway because her sister was one of the children Old Brackish took. If the adventurers stop the tithe, the troll will rise from the shaft within the stretch and take Halge or Saren or any nearer body; if they let it pass, Saren will renounce Halge before the village. The Rust Brothers expect the adventurers to back the new faith.
 
-- **Terrain Types:** Plains, Lake, Marshlands, Village
+- **TERRAIN TYPES:** Plains, Lake, Marshlands, Village
 
 #### Random Encounter: the Tooth-Carver's Stones
 
@@ -3375,7 +3375,7 @@ The bridge has stood for two hundred years. Three generations back, the village 
 
 The girl is Sigrid, daughter of the river-witch Liva. Liva died of fever last winter and Sigrid has been keeping the troll-pact alone for three seasons. The runes are an old Aslene tongue and they tell Old Mossback, the water troll of this pond, the names of the year's drowned (the troll eats only the named dead, not the living, while the runes are kept fresh). Sigrid has run out of names; she has been carving the names of the still-living one by one to keep the pact going, and seven villagers along the river have died of fever in their beds in the last fortnight, each of them on the night their name was carved. The troll is coming up out of the pond at sundown to read the new names. Sigrid is thirteen, alone, and out of names; the next name she will carve is her own. The Iron Guard has heard rumours of the river-witch and is one day off, hunting. If the troll is killed, the pact ends and the village downstream loses its drowned-protection and its yearly grain-tithe.
 
-- **Terrain Types:** Forest, Dark Forest, Lake, Quagmire, Marshlands
+- **TERRAIN TYPES:** Forest, Dark Forest, Lake, Quagmire, Marshlands
 
 > **RESOURCES**
 >
@@ -3430,7 +3430,7 @@ Some keep enough of themselves to chain their own doors on the worst nights. The
 
 Keld Maren locked himself in the smokehouse before sunrise. The pigs were slaughtered yesterday and the smell is still in the yard. Keld knows what the smell does to him by the third day. His wife Bret needs his hands to finish the curing before the meat turns — three days of work she cannot do alone with two young children. Their children, Siv and Holt, are eight and eleven. They know this is not the first November Keld has asked for the door to be barred. They have come to the adventurers specifically to prevent their mother from opening it, which she intends to do by midday because she has decided that Keld only half changed is better than losing the winter's food. She is probably right. The children know what happened the last time she opened it before the moon was finished.
 
-- **Terrain Types:** Village, Plains
+- **TERRAIN TYPES:** Village, Plains
 
 #### Random Encounter: the Trial Feast
 
@@ -3438,7 +3438,7 @@ Keld Maren locked himself in the smokehouse before sunrise. The pigs were slaugh
 
 The testing-feast of Vareld works like this: the accused eats the cursed meal, and whoever turns by moonrise is guilty under the old forest law. A wool merchant named Gert Rath is accused of stealing sealed grain weight, and the accusation came from Olan, the headman's son. Gert ate at the table and has not turned. Olan is arguing that the moon is not done. The headman is agreeing with his son. Gert's advocate says the law provides for secondary testing — the accuser sits at the table next, since the accused was cleared. Olan does not want to sit at the table. The headman has not yet ruled on the secondary test. The village is watching. Gert's advocate is watching. The moon is not done.
 
-- **Terrain Types:** Village, Forest, Hills
+- **TERRAIN TYPES:** Village, Forest, Hills
 
 > **RESOURCES**
 >
@@ -3492,7 +3492,7 @@ A werewolf that still comes back to the same house is not free of its human life
 
 Marte and Jael Kullen are escorting their brother Soren to the old lime pit on the hill, where he chains himself on full-moon nights. Marte carries the key to the chain-lock. Jael carries a silver knife under her cloak and has for three months. Soren is walking with his hands laced together in front of him, asking for Marte by name every few minutes. They both know this is how he tells which sister has the blade. Jael has been burying four strangers found on the road in the months Soren says the chain held, because their families were not close. Marte says four strangers is four fewer than the village. Soren has stopped asking for either of their names.
 
-- **Terrain Types:** Hills, Forest
+- **TERRAIN TYPES:** Hills, Forest
 
 #### Random Encounter: the Pack's House
 
@@ -3500,7 +3500,7 @@ Marte and Jael Kullen are escorting their brother Soren to the old lime pit on t
 
 The hamlet of Kel's Bottom has kept a werewolf satisfied for nine years: one live goat and one song on full-moon nights, and the wolf leaves the children alone. The old headman who brokered the arrangement is two winters dead. This year the goat herd failed. Every door in the hamlet is barred except one, and from that house comes a woman singing the wolf-call in the old dialect. The singer is Merse Gant. She lost her son to a prior, broken version of this same arrangement five winters ago. She has sent her remaining children to her sister's farm. She has been preparing for tonight since last month. If the adventurers stop her, they owe the hamlet a goat and someone who knows the old dialect.
 
-- **Terrain Types:** Village, Forest, Hills
+- **TERRAIN TYPES:** Village, Forest, Hills
 
 > **RESOURCES**
 >
@@ -3548,7 +3548,7 @@ Willo’-thewisps are said to be the ghosts of druids, Raven Sisters, and other 
 
 The wisp is the ghost of a Raven Sister named Hild Whitecuff, burned at this stake forty winters ago by Brother Halric of the Rust order. The villagers, then Rust Brothers' converts, lit the pyre. Their grandchildren have been keeping the dusk-vigil since the wisp first appeared, ten years on, because the wisp leaves anyone in prayer alone and burns alive any villager out of the ring. Six villagers have died over the years to the wisp's flame. The headman, Ola Jonsson, has been told by a passing Druid that the stake itself is the dwelling and that burning it ends the wisp. Ola will not burn it; the stake is the village's only relic of the old faith and the only reason the Raven Sisters have not yet come to burn the village in turn. A young woman, Inge, who has converted back to the old faith, will offer the adventurers her dead mother's silver brooch (worth two gold pieces) to chop down the stake at dawn while the wisp sleeps. Halfway through the chopping, the village's Rust Brothers' priest will arrive with three Iron Guards.
 
-- **Terrain Types:** Plains, Forest, Hills, Village
+- **TERRAIN TYPES:** Plains, Forest, Hills, Village
 
 #### Random Encounter: the Lantern of the Drowned
 
@@ -3556,7 +3556,7 @@ The wisp is the ghost of a Raven Sister named Hild Whitecuff, burned at this sta
 
 The wisp's dwelling is a charred yew lantern hanging from the eaves of the hut, lit by Olav's grandfather forty years ago and never put out. Olav has known the wisp all his life; it has led nine drowned bodies home through the mire, including Olav's wife three years ago. It has also lured eleven travellers off the safe paths to drown. The wisp keeps the mire's footing safe for Olav's family alone. Olav's leg, smashed under a peat-sled, will kill him within the night without a Druid; the nearest Druid is across the mire, two leagues. Tomas can be led across the mire by the wisp because the wisp knows him; no one else can cross safely without a SURVIVAL roll, and any failure drowns. If the wisp's lantern is broken, the wisp ends and the mire-paths come open to anyone, but Olav dies tonight because Tomas cannot cross without it. If Tomas is sent across with the wisp, he comes back at dawn with a Druid and the wisp takes one of the Druid's apprentices on the return. If the adventurers cross the mire with Tomas, the wisp kills one of them on the way.
 
-- **Terrain Types:** Forest, Dark Forest, Marshlands, Quagmire
+- **TERRAIN TYPES:** Forest, Dark Forest, Marshlands, Quagmire
 
 > **RESOURCES**
 >
@@ -3607,7 +3607,7 @@ The wolfshadow is an immaterial being that possesses humanoid creatures and grad
 
 The knight is Sir Halric of Ravenholt, possessed by a wolfshadow nine months ago in a battle on the Bloodmarch. Sir Halric has been keeping the wolfshadow chained by refusing all combat for nine months, but yesterday he was set upon by three Iron Guardsmen on this road and the wolfshadow took him; the squire was the third body of the day. Sir Halric knows the rite of single combat under the full moon with a blade consecrated to the Nightwalker; the moon is full tomorrow night and he carries the consecrated blade in a wrapped bundle. He cannot fight himself; the wolfshadow turns the blade. He will, if approached, ask one of the adventurers to fight him at moonrise tomorrow. He warns: the wolfshadow takes whichever fighter loses control of their wrath first, and the chosen adventurer must keep their head, or wake possessed in his place. The squire's family is in the village two days off and have not yet been told. The Iron Guard has noticed three of their men missing and a patrol is one day behind.
 
-- **Terrain Types:** Plains, Forest, Hills
+- **TERRAIN TYPES:** Plains, Forest, Hills
 
 #### Random Encounter: the Wolves' Convert
 
@@ -3615,7 +3615,7 @@ The knight is Sir Halric of Ravenholt, possessed by a wolfshadow nine months ago
 
 The swordsman is Brother Eldrik of the Howling Path, a willing wolfshadow who serves the Nightwalker as missionary. He has been working this stretch of road for six seasons and has converted three villages. The young man on the altar is Ragnar, the headman's son of the village of Grevsdal. Ragnar has come to the conversion willingly because his sister was taken by the Blue Plague last spring and the Nightwalker's rite is the only path he was offered to power enough to stop another plague-summer. The twelve villagers around the altar are Ragnar's neighbours and friends, all converted in the last three nights. Eldrik will, if interrupted, offer the adventurers their own conversion or their lives; he has the patience of his kind. If the adventurers stop the rite, Ragnar's sister stays unavenged and Ragnar weeps for it; if they let it complete, Grevsdal becomes a wolfshadow village by midwinter and the next plague-summer is broken before it begins. The Iron Guard has heard of the village and has sent a Captain named Halrid to settle the matter; he is camped one day off with twenty Iron Guards and twelve Rust Brothers and intends to burn the whole village.
 
-- **Terrain Types:** Forest, Dark Forest, Hills, Village
+- **TERRAIN TYPES:** Forest, Dark Forest, Hills, Village
 
 > **RESOURCES**
 >
@@ -3652,7 +3652,7 @@ They operate alone or in small cells. The black-fletch arrow left at a scene is 
 
 Merchant Olan Vrek arrived at the Halfen inn with a black-fletched arrow lodged through his saddlebag, fletching-first, point away. He says he does not know what it means. He is lying. The arrow is the fee-notice for a contracted kill already completed, standard practice for the marker who uses this fletch — second payment is now due. Vrek paid half in advance to have a business rival removed from the Northmarch road, and the rival is on that road waiting to be found. The question is whether the adventurers are willing to carry the second payment north, or whether they want to know whose body they will pass on the way.
 
-- **Terrain Types:** Forest, Plains, Hills
+- **TERRAIN TYPES:** Forest, Plains, Hills
 
 #### Random Encounter: the Observation Window
 
@@ -3660,7 +3660,7 @@ Merchant Olan Vrek arrived at the Halfen inn with a black-fletched arrow lodged 
 
 Three patrol-men are dead in the clearing, all shot from the north tree-line in the same exchange, all hit through the gap in the right armpit where the arm rises to draw. The kills were clean; the patrol had no time to respond. They were carrying a sealed message tube and the tube is gone. The marker who uses black fletching holds a professional pattern: wait and reobserve after a kill, positioned to confirm the commission is complete before withdrawing. The clearing has not been clear long enough to be safe. If the adventurers are identifiable as connected to the patrol, the observation is already in progress.
 
-- **Terrain Types:** Forest, Hills
+- **TERRAIN TYPES:** Forest, Hills
 
 What they carry is what is left when they fall.
 
@@ -3687,7 +3687,7 @@ The beast is used to open the engagement: to flush, knock loose, isolate, or ter
 
 A large wolf stands in the middle of the road alone. It has no aggression, no hackles, and it is oriented toward the east wood, waiting. The animal belongs to Hunter Brek Varan. Varan is in the east wood, injured, and sent the wolf out to find or lead help. The quarry Varan was hired to track — a man wanted alive by one party and dead by another — inflicted the injury two hours ago and is still somewhere between Varan and the road. The wolf will lead anyone who follows it. What they find on the way to Varan is not something the wolf was asked to account for.
 
-- **Terrain Types:** Forest, Hills, Plains
+- **TERRAIN TYPES:** Forest, Hills, Plains
 
 #### Random Encounter: the Bonded Hawk
 
@@ -3695,7 +3695,7 @@ A large wolf stands in the middle of the road alone. It has no aggression, no ha
 
 Hunter Dera Solm died three weeks ago at the Fern Mill and was buried without ceremony because no one knew who she was. The hawk she trained is still alive, still circling the mill twice every morning before returning to roost above the millstone. It is in perfect condition, worth thirty silver to any competent falconer, but bonded to a dead woman's whistle-command: anyone who approaches the mill on foot without the specific tone is hit across the wrist. No one in the village knows the tone. Solm's clansmen arrived two days ago looking for her. They know the tone and are willing to trade it for something they say will take less than one afternoon.
 
-- **Terrain Types:** Village, Plains, Forest
+- **TERRAIN TYPES:** Village, Plains, Forest
 
 What they carry is what is left when they fall.
 
@@ -3722,7 +3722,7 @@ They prefer alleys, ferry queues, grain sheds, and crowded inns where a single s
 
 Merchant Arne Veld had his purse lifted in the Brenn market crowd this morning. The coin is a loss he can absorb. The letter folded inside the purse is not: it names the terms of a supply arrangement that, read by the wrong party, ends Veld's access to the northern grain route and possibly his position in the northern grain trade entirely. A cutter working the crowd for coin would not know what he had taken. A cutter working for a specific interest would have taken the purse for the letter and left the coin. The letter has not yet been offered for sale, which means either the cutter does not know what he is holding or has not finished deciding who to offer it to first.
 
-- **Terrain Types:** Village, Plains
+- **TERRAIN TYPES:** Village, Plains
 
 #### Random Encounter: the Ferry Queue
 
@@ -3730,7 +3730,7 @@ Merchant Arne Veld had his purse lifted in the Brenn market crowd this morning. 
 
 Lenne, a cutter who works the Dren Crossing ferry queue, made a mistake in the approach and the mark responded badly. Lenne is in the water below the dock, conscious, still holding the recovered purse out of spite. The mark is on the ferry, loudly explaining what happened, and the ferryman is looking at the adventurers as if sorting this out is their problem. The mark's version of events is accurate but incomplete: Lenne is also in possession of a silver ring and a sealed letter lifted from two other passengers currently on the ferry who do not yet know anything is missing. The ferry is about to leave.
 
-- **Terrain Types:** Village, Quagmire, Plains
+- **TERRAIN TYPES:** Village, Quagmire, Plains
 
 What they carry is what is left when they fall.
 
@@ -3756,7 +3756,7 @@ They stay moving, throw or shoot, and only close when the target is already off 
 
 Four riders have been paralleling the road from the ridge for the past hour at the same pace as the party, not closing. They are not attacking yet: the parallel ride is reconnaissance before commitment. The band's elder, a woman named Kerra, is watching for a specific face or a specific clan seal taken from a dead man on the Fenn road three seasons ago. Someone in the party has it, resembles the man who took it, or is traveling toward the settlement where that man was last seen. Kerra will accept a parley flag before she commits. She has been deciding for the past hour. After she decides, the riders will not be on the ridge.
 
-- **Terrain Types:** Plains, Hills
+- **TERRAIN TYPES:** Plains, Hills
 
 #### Random Encounter: the Sealed Pass
 
@@ -3764,7 +3764,7 @@ Four riders have been paralleling the road from the ridge for the past hour at t
 
 A clan band has sealed the Fenn pass as a toll road for three days. By their custom this is the standard right when moving a herd through mountain passage. The toll they are asking is fair by their accounting. The merchant convoy bottled at the south approach disagrees, and Merchant Sors Veld dispatched a rider three hours ago for a road-warden with a written authorization from Lord Keln's office. Warden Teld will arrive by midmorning with a sealed writ that the clan's leader, Dur, does not recognize as having authority over this pass. Dur is deciding whether to stay, demonstrate the point, and deal with the political aftermath, or withdraw one day early and let Veld have his writ.
 
-- **Terrain Types:** Mountains, Hills, Plains
+- **TERRAIN TYPES:** Mountains, Hills, Plains
 
 What they carry is what is left when they fall.
 
@@ -3790,7 +3790,7 @@ They know what their own mixtures do to flesh because they have tested them, in 
 
 Someone tested a compound in the waystation water trough overnight. It kills large animals in four hours and humans in less once the dose is sufficient, but the human symptoms begin slowly, which is what the tester was calibrating. The waystation horse died at midnight. The water looks clean and smells of nothing unusual. Anyone who has drunk from the trough since the previous evening has a problem that will not be obvious for another hour or two. The tester is half a day up the road, satisfied with the calibration results, and is now traveling to the client who commissioned the test — the same person the adventurers were hired to deliver a message to.
 
-- **Terrain Types:** Plains, Village
+- **TERRAIN TYPES:** Plains, Village
 
 #### Random Encounter: the Stationary Fog
 
@@ -3798,7 +3798,7 @@ Someone tested a compound in the waystation water trough overnight. It kills lar
 
 A smoke compound has been deployed in the road choke-point at the Merford cut. Not weather, not morning mist: it sits too low, too still, too precisely at the narrows. Four minutes inside it degrades coordination and narrows the vision until straight lines are gone. The apothecary who mixed it, a man called Drav, is in the north tree-line with a bow, waiting for the smoke to finish the preparation work. The commission is for one specific person whose description Drav has in writing. He is not interested in anyone else in the party. The smoke does not know the difference, and Drav has decided that is an acceptable variable.
 
-- **Terrain Types:** Forest, Plains, Hills
+- **TERRAIN TYPES:** Forest, Plains, Hills
 
 What they carry is what is left when they fall.
 
@@ -3825,7 +3825,7 @@ They may be sell-sword, pilgrim, oath-breaker, or all three, and which one they 
 
 A figure sits on the stone bridge, not asleep, not moving as the party approaches. Sell-sword Keld Vorn has been waiting here for the employer who was supposed to make contact three days ago and has not. The contract has a release clause: if the employer fails to make contact by a specified date, Vorn is released from the commission but also released from the non-interference clause that covers the employer's rivals. The employer's rivals are the party's employer. The release date is today. Vorn has not gone anywhere. He is deciding whether to wait another hour or treat the clause as triggered.
 
-- **Terrain Types:** Plains, Hills
+- **TERRAIN TYPES:** Plains, Hills
 
 #### Random Encounter: the Occupied Room
 
@@ -3833,7 +3833,7 @@ A figure sits on the stone bridge, not asleep, not moving as the party approache
 
 The inn has one room and it is taken. Sell-sword Maret Dol has been locked inside for two days, reading a contract she was given three weeks ago and has not been able to act on because every time she moves toward it, the situation shifts. The contract calls for the elimination of a specific person under specific circumstances. That person walked into the common room this morning and sat down at the fire. Dol is now determining whether the circumstances still hold, because the contract specifies them with some precision and the circumstances now include a room full of witnesses who are eating their breakfast and have no obligation to stay seated.
 
-- **Terrain Types:** Village, Plains
+- **TERRAIN TYPES:** Village, Plains
 
 What they carry is what is left when they fall.
 
@@ -3860,7 +3860,7 @@ They are worth fearing in a gate, on a stair, or at the mouth of a bridge where 
 
 A Shield Knight has been posted at the village gate on behalf of a landlord conducting an enforcement visit. Guard-captain Brek stands in the gate opening — not blocking it, occupying it, which is different. The landlord's agent is inside reviewing account books that do not show the numbers the landlord was told. The knight is not stopping people from entering. He is stopping people from leaving before the accounting is finished. Two merchants with loaded carts and a tanner with a season's hides are each explaining why their departure is routine and not connected to the audit. Brek has heard this argument three times in the past hour and is now charging a patience fee.
 
-- **Terrain Types:** Village, Plains
+- **TERRAIN TYPES:** Village, Plains
 
 #### Random Encounter: the Tower Stairs
 
@@ -3868,7 +3868,7 @@ A Shield Knight has been posted at the village gate on behalf of a landlord cond
 
 The staircase in the old tower is wide enough for one person. Guard Veld has been at the base of it since dawn, executing a contract to hold the ground floor while the client establishes occupancy above. The tower is disputed property: three parties have claims, none with current legal settlement. One of the other claimants arrived an hour ago and is offering more than the original contract rate to stand aside. The company's policy on mid-contract renegotiation is clear and Veld knows the policy. What Veld has not yet communicated is his personal view of a policy written by men who have not held a staircase for eight hours.
 
-- **Terrain Types:** Ruins, Village, Hills
+- **TERRAIN TYPES:** Ruins, Village, Hills
 
 What they carry is what is left when they fall.
 
@@ -3896,7 +3896,7 @@ Most of them are less loyal than they sound and more frightened than they look. 
 
 Six Town Guards are posted at the Brenn village gate that is normally open and unstaffed. The reason given to anyone who asks is orders from the council. Guard Seln is not sure what the order actually concerns, because the sergeant explained it using a phrase that can be read two ways and then left before questions were asked. A traveler who approached from the east road ten minutes ago was turned back without explanation, and the traveler seemed more relieved than upset about it. Seln has noticed this and is not sure what to make of it, but the something they are here to stop has clearly already been here and decided not to press the point.
 
-- **Terrain Types:** Village, Plains
+- **TERRAIN TYPES:** Village, Plains
 
 #### Random Encounter: the Wrong Direction
 
@@ -3904,7 +3904,7 @@ Six Town Guards are posted at the Brenn village gate that is normally open and u
 
 Guard Olen is posted at the north arch of the Dren bridge, awake and alert and watching south, which is where he was told to watch. He has not noticed the six armed travelers who came up from the east an hour ago and are currently camped under the bridge's north arch below him. The adventurers can see both Olen and the campers. The campers have noticed the adventurers. Olen was told to watch south and call out when he sees something specific coming from that direction, and he has been conscientiously doing that. The campers under the arch are not his problem in any interpretation of his orders, and everyone in sight of this bridge can see that he intends to keep it that way.
 
-- **Terrain Types:** Village, Plains, Quagmire
+- **TERRAIN TYPES:** Village, Plains, Quagmire
 
 What they carry is what is left when they fall.
 
@@ -3930,7 +3930,7 @@ The clever ones never stand in front of their own curses. They weaken the opposi
 
 Wise-Hand Elra arrived at the Fenn crossroads eight days ago and has been selling cures since. Three people in the village have died this month from the same sickness and three more are declining. Two of Elra's cures have worked. One has not. Village elder Veld is increasingly certain she arrived knowing what was causing the sickness, has not shared the cause, and is monetizing the diagnosis alongside the treatment. Veld may be correct. Elra may also be the only person within three days' travel who can actually resolve it. Both of those things can be true at once and Veld has not yet found a way to act on one without needing the other.
 
-- **Terrain Types:** Village, Plains, Forest
+- **TERRAIN TYPES:** Village, Plains, Forest
 
 #### Random Encounter: the Stopped Ambush
 
@@ -3938,7 +3938,7 @@ Wise-Hand Elra arrived at the Fenn crossroads eight days ago and has been sellin
 
 The party's camp was approached by six armed men last night and the attack stopped before it reached them: something in the dark made a sound that sent three attackers dropping their weapons and running, and caused the other three to negotiate. Wise-Hand Meld, who was sitting by the fire, has not explained what she did. She has asked whether anyone needs healing. The three who ran have not returned — men who break in a panic usually recover within the hour and come back different. They have not come back. Meld has been offered payment for what she did and has declined, which is either generosity or a statement that payment was not the point.
 
-- **Terrain Types:** Forest, Plains, Hills
+- **TERRAIN TYPES:** Forest, Plains, Hills
 
 What they carry is what is left when they fall.
 
@@ -4347,7 +4347,7 @@ The bellows are coming from a female manticore giving birth to a litter of monst
 
 With a successful SURVIVAL roll the adventurers recall that manticores always hunt in pairs. Unfortunately, this case is no exception. An overprotective male is lurking in the vegetation outside the lair. He spots the adventurers just as they discover the lair. He will pounce on them in D6 rounds, and unless someone in the group succeeds with an opposed roll for SCOUTING versus the male manticore’s STEALTH (skill level 4) the attack counts as a Sneak Attack (Player’s Handbook, page 90). For the manticore’s stats, see page 111 in the Game master's Guide.
 
-- **Terrain Types:** Forest, Dark Forest, Plains, Marshlands
+- **TERRAIN TYPES:** Forest, Dark Forest, Plains, Marshlands
 
 ### **2** the Dead Pigeon
 
@@ -4357,7 +4357,7 @@ A successful ANIMAL HANDLING roll identifies the bird as a pigeon, probably of t
 
 The capsule is locked, but can be opened with a SLEIGHT OF HAND roll. Inside is a rolled-up piece of parchment covered in minute letters. The text is encrypted with a classic Algavardian code, which means that the letters of the hidden message have been shifted four steps to the right (A = D, B = E, etc.): ABXO PFPQBO QEB YIRB CIXJB EXP XTXHBKBA YBTXOB FQP TOXQE YOLQEBO KFDEQ ("Dear sister/The blue flame has awakened/Beware its wrath/Brother night"). If it takes time for the players to break the code, the GM can let them make a LORE roll to understand the logic behind it and access the secret message. It’s up to the GM to decide what the message actually means.
 
-- **Terrain Types:** Forest, Dark Forest, Plains, Marshlands, Hills, Ruins
+- **TERRAIN TYPES:** Forest, Dark Forest, Plains, Marshlands, Hills, Ruins
 
 ### **3** the Man in the Iron Cage
 
@@ -4367,14 +4367,14 @@ The man is Ambrosius Klack, who introduces himself as the finest and most handso
 
 If the adventurers pick the lock (SLEIGHT OF HAND) and free him, he leads them to a hollow tree nearby where he has stashed a cache of valuables. Roll once on the table Valuable Finds in a Lair. Ambrosius will also, if not discouraged, attach himself to the party. The lord's men are two hexes away with a warrant carrying his description, which becomes the party's problem the moment anyone sees them with him.
 
-- **Terrain Types:** Forest, Dark Forest, Plains, Hills
+- **TERRAIN TYPES:** Forest, Dark Forest, Plains, Hills
 
 **AMBROSIUS KLACK, BOASTFUL SWORDSMAN**
 
 - **STRENGTH:** 4, AGILITY 3, WITS 3, EMPATHY 3
-- **Skills:** Melee 3, Move 3, Stealth 2, Survival 2, Performance 1
-- **Talents:** Sword Fighter 2, Quickdraw 2
-- **Gear:** None at the moment, but has several weapons caches and hidden treasures stashed away in different locations around Ravenland.
+- **SKILLS:** Melee 3, Move 3, Stealth 2, Survival 2, Performance 1
+- **TALENTS:** Sword Fighter 2, Quickdraw 2
+- **GEAR:** None at the moment, but has several weapons caches and hidden treasures stashed away in different locations around Ravenland.
 
 ### **4** Garmar’s Wall
 
@@ -4404,7 +4404,7 @@ A successful ANIMAL HANDLING roll identifies it as the egg of a large reptile, n
 
 If the party lingers, the egg cracks a Quarter Day after it is found — the shell heats and fractures from inside, and from somewhere in the terrain a hissing call rises, answered at once by a deeper version of the same sound, closer and moving closer. The mother. The party has until the answering call stops moving before it arrives. The GM chooses: a dragon, drakewyrm, or hydra.
 
-- **Terrain Types:** Forest, Dark Forest, Plains, Hills, Marshlands
+- **TERRAIN TYPES:** Forest, Dark Forest, Plains, Hills, Marshlands
 
 ### **6** Rock Carvings
 
@@ -4420,7 +4420,7 @@ A successful LORE roll places the symbols — old gods of the Ravenlands, ravens
 
 A successful LORE roll names the face: Harm, an insectoid god ancient even to the druids, worshiped as a capricious and untameable aspect of the omnipresent Nightwalker. The statue has been maintained. The stone face is clean of moss that should have spread across it decades ago; the scraping is recent. Someone still comes here. Someone may be watching the party look at it.
 
-- **Terrain Types:** Mountains, Hills
+- **TERRAIN TYPES:** Mountains, Hills
 
 ### **8** the Living Tree
 
@@ -4428,13 +4428,13 @@ A successful LORE roll names the face: Harm, an insectoid god ancient even to th
 
 A SCOUTING roll confirms three things: the branches move without wind; the bark shimmers faintly in gold-red; and the hum in the trunk contains elvish words, audible to anyone who presses an ear to the wood. A character who spends a Quarter Day listening gets to hear a random legend from the stillelf whose ruby is embedded inside the tree. The ruby is the stillelf. It is beyond reach. If the GM wishes to develop this encounter into a small adventure, the tree can come to life as an Ent (see the _Game master's Guide_, page 92).
 
-- **Terrain Types:** Forest, Dark Forest, Plains, Hills
+- **TERRAIN TYPES:** Forest, Dark Forest, Plains, Hills
 
 Adventurers who examine the great tree and succeed with a SCOUTING roll can make three interesting observations. First, the tree’s branches are constantly moving, even though there is no wind blowing in the area. Second, its trunk and leaves shimmer with a shade of golden red. Third, those who put their ears to the trunk can hear a faint humming. With a successful LORE roll the adventurers recognize a few elvish words, and a PC who spends a Quarter Day listening to the tree gets to hear a random legend.
 
 The humming is coming from an ancient stillelf, whose ruby is embedded inside the tree. The ruby is beyond the adventurers’ reach, but if you wish to develop this random encounter into a small adventure, the tree could come to life in the form of an ent (see the _Game master’s Guide_, page 92).
 
-- **Terrain Types:** Forest, Dark Forest, Plains, Hills
+- **TERRAIN TYPES:** Forest, Dark Forest, Plains, Hills
 
 ### **9** the Wild Hunt
 
@@ -4446,7 +4446,7 @@ The prey is a promising alchemist whom the Viraga have abducted from a nearby st
 
 For the Viraga’s stats, see the _Game master’s Guide_, page 66.
 
-- **Terrain Types:** Forest, Dark Forest, Plains, Hills, Marshlands
+- **TERRAIN TYPES:** Forest, Dark Forest, Plains, Hills, Marshlands
 
 ### **10** a Guard of Stone
 
@@ -4456,7 +4456,7 @@ It is a statue of a female warrior, not eroded at the face — good stone, cut b
 
 A successful LORE roll names the hilt-symbol as a mark of the Congregation of the Serpent. Two ⚔️ on the roll surfaces the old story: shieldmaidens who guarded King Algarod against the demonic hordes of Zygofer during the retreat to Alderstone at the end of the fourth Alder War. The statue was placed here and then the world grew over it.
 
-- **Terrain Types:** Forest, Dark Forest
+- **TERRAIN TYPES:** Forest, Dark Forest
 
 ### **11** Dwarven Runestone
 
@@ -4466,7 +4466,7 @@ A successful LORE roll reads the runes: “Tyrmyr son of Grundhir lord of the Gr
 
 Dwarven adventurers who spend one turn at the stone have all their attributes restored to full if they have sustained any kind of damage. The effect only applies once. Whoever left the offerings is not far off.
 
-- **Terrain Types:** Forest, Dark Forest, Plains, Hills, Marshlands, Quagmire
+- **TERRAIN TYPES:** Forest, Dark Forest, Plains, Hills, Marshlands, Quagmire
 
 ### **12** Overgrown Battlefield
 
@@ -4474,7 +4474,7 @@ Dwarven adventurers who spend one turn at the stone have all their attributes re
 
 Orcs, elves, dwarves, and humans all fought and died here; you can tell by the skulls. Adventurers who spend a Quarter Day EXPLORING the battlefield may roll once on the table of Carried Valuable Finds. They also find D66 coins of various denominations. Roll a D6 for every unit of ten coins: 1–3 gives copper; 4–5 silver; 6 gold.
 
-- **Terrain Types:** Forest, Plains, Hills
+- **TERRAIN TYPES:** Forest, Plains, Hills
 
 ### **13** Slime Trails in the Vegetation
 
@@ -4482,7 +4482,7 @@ Orcs, elves, dwarves, and humans all fought and died here; you can tell by the s
 
 A SURVIVAL roll identifies the source as a basilisk in heat. The slime is a paralyzing contact poison, Potency 6, strong enough to stop the strongest adventurer cold. With thick gloves it can be collected in bottles: 2D6 doses, suitable for application to weapons or sale to anyone who knows what they have. The basilisk itself is not visible, but the trail is fresh and the secretion is still warm.
 
-- **Terrain Types:** Forest, Dark Forest, Plains
+- **TERRAIN TYPES:** Forest, Dark Forest, Plains
 
 ### **14** the Skeleton in the Tree
 
@@ -4500,7 +4500,7 @@ Mortelius has stats as a Ghost (see the _Game master’s Guide_, page 95), but w
 
 The walls are slippery. Climbing down to the bottom (four meters) requires a MOVE roll to avoid a fall and its damage (_Player’s Handbook_, page 113). At the bottom: bone fragments from animals that tumbled in over the years. Adventurers who actively explore roll once on the table for Simple Finds in a Lair.
 
-- **Terrain Types:** Forest, Dark Forest
+- **TERRAIN TYPES:** Forest, Dark Forest
 
 ### **16** the Stone Table of the Gods
 
@@ -4508,7 +4508,7 @@ The walls are slippery. Climbing down to the bottom (four meters) requires a MOV
 
 Archaic symbols mark seating positions around the tabletop. A successful LORE roll identifies a handful as the signs of the old gods of Ravenland: the Nightwalker at the head, Wail, Flow, Clay, and Huge along the sides, and several gods whose names are gone. The offerings at three seats are fresh. Who set them is not apparent.
 
-- **Terrain Types:** Forest, Dark Forest
+- **TERRAIN TYPES:** Forest, Dark Forest
 
 ### **17** an Orcish Delicacy
 
@@ -4516,7 +4516,7 @@ Archaic symbols mark seating positions around the tabletop. A successful LORE ro
 
 A SURVIVAL roll identifies them as Glowing Green Caps. Raw, they are lethal to any kin except orcs — Potency 7. Dried in the sun, the poison leaves entirely and they become excellent trail food: light, durable, nutritious. Among orcs they are a delicacy commanding D10 silver per unit, useful in any negotiation at an orc-controlled market.
 
-- **Terrain Types:** Forest, Dark Forest, Plains, Hills
+- **TERRAIN TYPES:** Forest, Dark Forest, Plains, Hills
 
 ### **18** the Miserable Brewmaster
 
@@ -4530,7 +4530,7 @@ Payment on return: one keg of beer and Humla's gratitude. Escort him back to his
 
 For the bandits' stats, see page 183 in the _Game master's Guide_.
 
-- **Terrain Types:** Forest, Dark Forest, Plains, Hills, Marshlands, Ruins
+- **TERRAIN TYPES:** Forest, Dark Forest, Plains, Hills, Marshlands, Ruins
 
 ### **19** Old Root Cellar
 
@@ -4538,7 +4538,7 @@ For the bandits' stats, see page 183 in the _Game master's Guide_.
 
 The wooden door can be opened with a successful SLEIGHT OF HAND roll. Behind it is a short flight of stairs leading down to a cool cellar with large crates, jars, and other vessels. It is mostly empty and covered with cobwebs, but a few amphorae at the back of the room turn out to contain four liters of mature and exceptionally delicious wine. However, the wine is so potent that it can be used as a sedative (sleeping poison, Potency 6).
 
-- **Terrain Types:** Forest, Dark Forest
+- **TERRAIN TYPES:** Forest, Dark Forest
 
 ### **20** Old Stone Bridge
 
@@ -4548,7 +4548,7 @@ A successful CRAFTING roll reveals that the construction is simple and definitel
 
 Failure means that the person causes a minor collapse and plunges into the stream below (a three-meter fall, see page 113 in the _Player’s Handbook_ for falling damage). Beneath the middle arch, the adventurers find bones from a large humanoid creature, probably an ogre or a troll. Roll twice on the table for Simple Finds in a Lair if they explore the space under the bridge.
 
-- **Terrain Types:** Forest, Dark Forest, Plains, Hills, Marshlands
+- **TERRAIN TYPES:** Forest, Dark Forest, Plains, Hills, Marshlands
 
 ### **21** the Living Rock
 
@@ -4560,7 +4560,7 @@ Adventurers who instead decide to follow the sorcerer and his creation will see 
 
 If they examine the rock wall, they find carved symbols which a successful LORE roll reveals to be a mixture of dwarven runes and orcish scribbles. The meaning of the runes is unclear, but a few symbols suggest that some form of massacre took place there – and that the mountain is haunted by restless spirits.
 
-- **Terrain Types:** Mountains, Hills
+- **TERRAIN TYPES:** Mountains, Hills
 
 **SUMMONED GOLEM**
 
@@ -4575,7 +4575,7 @@ It soon becomes clear to the adventurers that the menacing shadow is harmless, a
 
 Scattered on the ground around it are the bones of several unfortunate enemies, as well as their rusted weapons. Adventurers who look around will find D6 silver coins and possibly a weapon of excellent quality that is relatively unscathed by time.
 
-- **Terrain Types:** Forest, Dark Forest, Plains, Hills, Marshlands
+- **TERRAIN TYPES:** Forest, Dark Forest, Plains, Hills, Marshlands
 
 ### **23** Parts of a Gondian Road
 
@@ -4583,7 +4583,7 @@ Scattered on the ground around it are the bones of several unfortunate enemies, 
 
 With a successful LORE roll, the adventurers realize that they are looking at a fragment of the intricate road system that the dwarf king Gonder had built in the time before the Alder Wars. If the adventurers EXPLORE the cracks for a Quarter Day, you can let them roll once on the table for Valuable Finds in a Lair.
 
-- **Terrain Types:** Forest, Dark Forest, Plains, Hills, Marshlands
+- **TERRAIN TYPES:** Forest, Dark Forest, Plains, Hills, Marshlands
 
 ### **24** Monster Droppings
 
@@ -4593,7 +4593,7 @@ With a successful SURVIVAL or ANIMAL HANDLING roll, the adventurers conclude tha
 
 Should the adventurers dig around in the excrement, you can let them roll once on the table for Carried Valuable Finds (a possession that belonged to an unfortunate individual who became the beast’s breakfast). However, the beast’s dung is corrosive and works as a lethal poison with Potency 6.
 
-- **Terrain Types:** Forest, Dark Forest, Plains, Hills, Marshlands, Quagmire
+- **TERRAIN TYPES:** Forest, Dark Forest, Plains, Hills, Marshlands, Quagmire
 
 ### **25** Great Serpent
 
@@ -4609,7 +4609,7 @@ Unless the youngster plunges into the water within D10 rounds of the adventurers
 
 For the sea serpent’s stats, see the _Gamemaster’s Guide_, pages 116–117.
 
-- **Terrain Types:** Lake, Quagmire
+- **TERRAIN TYPES:** Lake, Quagmire
 
 **SERPENT-WORSHIPING FISHERMEN**
 
@@ -4623,7 +4623,7 @@ For the sea serpent’s stats, see the _Gamemaster’s Guide_, pages 116–117.
 
 Adventurers who succeed with a SURVIVAL roll notice large quantities of Stonefreeze growing in the meadow: a plant whose spores have a paralyzing effect. With another successful SURVIVAL roll, the plants can be distilled into a transportable poison and applied to weapons (D10 doses). Adventurers moving through the flowery meadow without protecting their airways are exposed to a poison attack (paralyzing poison, Potency 7).
 
-- **Terrain Types:** Forest, Plains, Hills, Marshlands
+- **TERRAIN TYPES:** Forest, Plains, Hills, Marshlands
 
 ### **27** Giant Bird’s Nest
 
@@ -4633,7 +4633,7 @@ If the adventurers climb to the top of the tree, which requires a successful MOV
 
 Half-moldered scraps of clothing, a broken meerschaum pipe, and a rusty but still deadly short sword can also be seen among the remains. If the adventurers rifle through the mess, roll once on the table for Valuable Finds in a Lair.
 
-- **Terrain Types:** Forest, Dark Forest
+- **TERRAIN TYPES:** Forest, Dark Forest
 
 ### **28** a Bridge of Bones
 
@@ -4641,7 +4641,7 @@ Half-moldered scraps of clothing, a broken meerschaum pipe, and a rusty but stil
 
 The two-meter-high ribs prevent the adventurers from plunging into the chasm below, and once on the other side they come out through the gigantic skull and its gaping jaws. The beast’s bones are extremely durable and can be shaped by a skilled craftsman into some form of weapon. An excellent bow or blade can be crafted with the CRAFTING skill and the BOWYER or TANNER talent (rank 3). The weapon gets a D8 Artifact Die.
 
-- **Terrain Types:** Forest, Dark Forest, Plains, Hills, Mountains
+- **TERRAIN TYPES:** Forest, Dark Forest, Plains, Hills, Mountains
 
 ### **29** the Raven
 
@@ -4653,14 +4653,14 @@ As long as the adventurers do not give her concrete reason to doubt their intent
 
 As a member of the Raven Sisters, Ravlunda has built an impressive personal network in many of the nearby villages. She could prove to be a useful ally if the adventurers ever find themselves in a critical situation in the area.
 
-- **Terrain Types:** Forest, Dark Forest, Plains, Hills
+- **TERRAIN TYPES:** Forest, Dark Forest, Plains, Hills
 
 **SISTER RAVLUNDA, RAVEN SISTER**
 
-- **Attributes:** Strength 2, Agility 3, Wits 5, Empathy 4
-- **Skills:** Healing 3, Lore 3, Marksmanship 3, Melee 2, Survival 1
-- **Talents:** Path of Healing 3, Path of Shifting Shapes 3
-- **Gear:** Short bow, dagger, quiver of arrows (D6 Resource Die), bottle of healing potion which like the spell MEND WOUNDS heals broken bones and bleeding wounds, Power Level 2 (four doses)
+- **ATTRIBUTES:** Strength 2, Agility 3, Wits 5, Empathy 4
+- **SKILLS:** Healing 3, Lore 3, Marksmanship 3, Melee 2, Survival 1
+- **TALENTS:** Path of Healing 3, Path of Shifting Shapes 3
+- **GEAR:** Short bow, dagger, quiver of arrows (D6 Resource Die), bottle of healing potion which like the spell MEND WOUNDS heals broken bones and bleeding wounds, Power Level 2 (four doses)
 
 ### **30** the Demon Trap
 
@@ -4674,7 +4674,7 @@ The trapped Misgrown is an escaped experiment from one of Zytera’s demonologic
 
 For the Maiden Druids’ stats, see the _Gamemaster’s Guide_, page 51.
 
-- **Terrain Types:** Forest, Dark Forest
+- **TERRAIN TYPES:** Forest, Dark Forest
 
 #### ESCAPED EXPERIMENT
 
@@ -4682,8 +4682,8 @@ The snared creature has a terrifying appearance with hornlike spikes all over it
 
 **ESCAPED EXPERIMENT**
 
-- **Attributes:** Strength 4, Agility 4, Wits 2, Empathy 1
-- **Armor Rating:** 4 (spiked natural armor)
+- **ATTRIBUTES:** Strength 4, Agility 4, Wits 2, Empathy 1
+- **ARMOR RATING:** 4 (spiked natural armor)
 - **Attacks:** Teeth (for damage, see page 82 in the _Game master’s Guide_ ).
 - **DEMONIC WEAKNESS:** Suffers double damage from all magic, including healing magic (which inflicts damage on the escaped experiment rather than healing it).
 
@@ -4695,7 +4695,7 @@ Adventurers who touch the burning bush can feel an intense heat, but are not har
 
 With a successful LORE roll, the adventurers can recall legends of old, partially forgotten nature gods that present themselves in the form of burning bushes or carcasses.
 
-- **Terrain Types:** Forest, Dark Forest, Plains
+- **TERRAIN TYPES:** Forest, Dark Forest, Plains
 
 ### **32** Magical Glade
 
@@ -4703,7 +4703,7 @@ With a successful LORE roll, the adventurers can recall legends of old, partiall
 
 A successful LORE roll identifies the symbols as druidic Maha runes, and sorcerous adventurers can instinctively feel ancient magic radiating from the glade. Each adventurer who spends the night in the glade gains an extra Willpower Point.
 
-- **Terrain Types:** Forest, Dark Forest, Hills
+- **TERRAIN TYPES:** Forest, Dark Forest, Hills
 
 ### **33** the Possessed Stone Throne
 
@@ -4715,7 +4715,7 @@ But the undead’s anger subsides if they move away from the throne. With a bit 
 
 Stats for Ghost are found in the _Gamemaster’s Guide_, pages 94–95.
 
-- **Terrain Types:** Forest, Dark Forest, Plains, Hills, Mountains, Marshlands, Ruins
+- **TERRAIN TYPES:** Forest, Dark Forest, Plains, Hills, Mountains, Marshlands, Ruins
 
 ### **34** the Jolly Gravediggers
 
@@ -4729,13 +4729,13 @@ If attacked, the siblings fight dirty. They have done this before too.
 
 The finger gives its bearer the necromantic ability to communicate with the dead (as the spell Speak to the Dead, _Player’s Handbook_, page 142). Works with undead as well. Once per Quarter Day, costs one Willpower Point per use.
 
-- **Terrain Types:** Forest, Dark Forest
+- **TERRAIN TYPES:** Forest, Dark Forest
 **PLUMP, KOLK AND HEKATE**
 
-- **Attributes:** Strength 2, Agility 4, Wits 3, Empathy 2
-- **Skills:** Move 3, Melee 3, Survival 2, Sleight of Hand 2, Insight 2, Lore 1
-- **Talents:** Nocturnal, Path of the Killer 2
-- **Gear:** D6 copper coins per person, food (D6), water (D6), spades, three short swords, three daggers, mummified finger with necromantic powers. Hekate has a vial of lethal poison (five doses, Potency 6) which she applies to her weapons in the event of combat.
+- **ATTRIBUTES:** Strength 2, Agility 4, Wits 3, Empathy 2
+- **SKILLS:** Move 3, Melee 3, Survival 2, Sleight of Hand 2, Insight 2, Lore 1
+- **TALENTS:** Nocturnal, Path of the Killer 2
+- **GEAR:** D6 copper coins per person, food (D6), water (D6), spades, three short swords, three daggers, mummified finger with necromantic powers. Hekate has a vial of lethal poison (five doses, Potency 6) which she applies to her weapons in the event of combat.
 
 ### **35** the Ferocious Battle
 
@@ -4751,7 +4751,7 @@ If the adventurers search the corpses on the outskirts of the battlefield, you c
 
 Stats for Meromannians and Isirs can be found in the _Game master’s Guide_, pages 59 and 66, respectively.
 
-- **Terrain Types:** Forest, Dark Forest, Plains, Hills
+- **TERRAIN TYPES:** Forest, Dark Forest, Plains, Hills
 
 ### **36** the Castaway
 
@@ -4765,4 +4765,4 @@ If the adventurers rescue master Permodius, he will let them keep all the barrel
 
 Master Permodius is tight-lipped about the exact purpose of his diplomatic mission, but he does mention the dwarf king Turik of Belder and the importance of an alliance against “the demonic rabble.” He is highly educated and well-versed in the legends of Ravenland.
 
-- **Terrain Types:** Lake
+- **TERRAIN TYPES:** Lake
