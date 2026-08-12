@@ -37,7 +37,7 @@ The Book of Beasts is no longer just a creature list. It is a creature, encounte
 
 ## What this edition brings
 
-From `1.0.0` through `1.1.4`, this edition brings together the additions that turn the project into a full second-edition line:
+From `1.0.0` through `1.1.5`, this edition brings together the additions that turn the project into a full second-edition line:
 
 - A complete three-book manuscript set: Corebook, Gamemaster's Guide, and Book of Beasts.
 - Myths learned from sages, lost tomes, and grimoires, granting a growing Myth Die for narrow fields of secret knowledge.
@@ -167,7 +167,7 @@ Useful workflow:
 
 The repository also includes the root support documents that make the line usable as a working reference:
 
-- `CHANGELOG.md` for the development record from `1.0.0` to `1.1.4`
+- `CHANGELOG.md` for the development record from `1.0.0` to `1.1.5`
 - `LICENSE.md` for the legal and rights framing of this unofficial repo
 - Front matter and cover files for all three books
 - Encounter, legend, and reference chapters integrated into the books themselves rather than parked in loose working notes
