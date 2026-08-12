@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.5] — 2026-08-12
+
 ### Added
 
 - **`/forbidden-lands-lore` — orc culture.** Added a campaign-ready model of
@@ -38,10 +40,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - **Book 01 — Corebook, mounted archery.** Clarified that shooting a short bow
   or sling while riding requires HORSEBACK FIGHTER Rank 2 and an OPEN zone.
-
-## [1.1.5] — 2026-08-12
-
-### Fixed
 
 - **Book 01 — Corebook, weather and HEAT.** Clarified that Expanded Weather
   replaces the basic three-roll procedure for a day; TEMP converts roughly as
