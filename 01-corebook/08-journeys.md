@@ -50,7 +50,9 @@ The Forbidden Lands are divided into ten types of terrain. Each hexagon on the m
 
 ### WEATHER
 
-Weather is an optional complication to the adventurers' hikes. If these rules are used, make three rolls each morning to determine the weather of the day: one roll each for Wind, Rainfall, and Temperature.
+Weather is an optional complication to the adventurers' hikes. There are two ways to use it: the **basic** three-roll procedure below, or **Expanded Weather** later in this chapter. **Use one or the other for a given day — do not stack both.** Expanded Weather replaces the basic Wind, Rainfall, and Temperature rolls when it is in use.
+
+If the basic rules are used, make three rolls each morning to determine the weather of the day: one roll each for Wind, Rainfall, and Temperature.
 
 **WIND**
 
@@ -61,6 +63,8 @@ Weather is an optional complication to the adventurers' hikes. If these rules ar
 | 5   | Gales  | MAKE CAMP -1                                                                                               |
 | 6   | Storm  | MAKE CAMP -2. For a Quarter Day, all player characters must succeed with an ENDURANCE roll to keep moving. |
 
+Gales and Expanded Weather **Strong Winds** are the same band for skill modifiers (MAKE CAMP -1, and HEAT -1 when cold).
+
 **RAINFALL**
 
 | D6  | RAINFALL                | EFFECT                                                                                                                                                                          |
@@ -70,6 +74,10 @@ Weather is an optional complication to the adventurers' hikes. If these rules ar
 | 5   | Drizzle (rain or snow)  | LEAD THE WAY -1                                                                                                                                                                 |
 | 6   | Downpour (rain or snow) | LEAD THE WAY -2. For a Quarter Day, all player characters must succeed with an ENDURANCE roll to keep moving. In storms and downpours one roll is made, with a -2 modification. |
 
+Drizzle and downpour may fall as **rain** or **snow**. When HEAT is zero or lower, treat the precipitation as snow (see Expanded Weather). LEAD THE WAY uses precip intensity (-1 drizzle, -2 downpour). Snow does **not** add a second LEAD THE WAY -1 on top of that; instead, snow also applies FORCED MARCH -1 (see below).
+
+**ENDURANCE to keep moving:** Storm alone requires an ENDURANCE roll (no skill modifier). Downpour alone requires an ENDURANCE roll (no skill modifier). When a **storm and a downpour** both apply in the same Quarter Day, make **one** ENDURANCE roll at **-2**.
+
 **TEMPERATURE**
 
 | D6  | TEMPERATURE | EFFECT                                                                                                           |
@@ -78,15 +86,27 @@ Weather is an optional complication to the adventurers' hikes. If these rules ar
 | 2-5 | Pleasant    | None                                                                                                             |
 | 6   | Cool        | All player characters who are not in a camp must succeed with an ENDURANCE roll every Quarter Day or become COLD |
 
+When Expanded Weather is in use, ignore the basic Hot and Cool lines. Use the HEAT table instead for thirst, cold cadence, and related effects.
+
 ### EXPANDED WEATHER
 
 Each morning, make a D6 roll on the table below. Each effect stacks with the last rolled effect, and the result normally affects the weather for two days in a row. You can never feel safe for long - sudden changes can still strike because of a mishap, a random encounter, or whenever the GM deems it appropriate.
 
+**Expanded Weather replaces the basic Wind / Rainfall / Temperature procedure** for that day. Do not also apply Clear skies LEAD THE WAY +1 on top of Sun/Moon/Stars LEAD THE WAY +1, or Gales MAKE CAMP -1 on top of Strong Winds MAKE CAMP -1, for the same weather.
+
 #### HEAT EFFECTS
 
-HEAT represents how the air feels on the skin, not the thermometer. Start with the seasonal TEMP, then apply the weather result to adjust it. Convert TEMP into HEAT and apply modifiers from clothing, sleeping gear, fires, and exposure. Use HEAT to determine how often you must roll **ENDURANCE**, when cold sets in, and how thirst, hygiene, and sleep are affected.
+HEAT represents how the air feels on the skin, not the thermometer. Build HEAT in this order:
 
-TEMP is the actual temperature. Around TEMP X is +/- 5 degrees Celsius or TEMP X x 20 +/- 10 degrees Fahrenheit. HEAT is instead what living warm-blooded beings feel as the temperature. Convert TEMP bonuses vs COLD to half that amount as bonus HEAT.
+1. Start from the **seasonal base** (table below).
+2. Apply **weather** adjustments (rain when warm, strong winds when cold, and so on).
+3. Apply **clothes**, then **sleeping gear and fire** when resting or sleeping.
+
+Use the final HEAT value to determine how often you must roll **ENDURANCE**, when cold sets in, and how thirst, hygiene, and sleep are affected.
+
+**TEMP** is a coarse temperature step for rules text. When converting a real-world thermometer reading, **TEMP ≈ round(°C / 5)** (or roughly TEMP × 20 ± 10 °F). Displaying degrees is flavor; **mechanical cold, thirst, and cadence always use HEAT**, not the thermometer alone.
+
+**TEMP bonuses vs COLD** from gear or talents (not the seasonal base table) convert to half that amount as bonus HEAT. The seasonal base itself applies 1:1 as starting HEAT before clothes.
 
 #### SEASONAL TEMP
 
@@ -96,6 +116,8 @@ TEMP is the actual temperature. Around TEMP X is +/- 5 degrees Celsius or TEMP X
 | Spring, Fall | 1                |
 | Winter       | 0                |
 | Mountains    | -1               |
+
+Mountains is an additional -1 on top of the season (for example Winter in the mountains starts at HEAT -1 before weather and clothes).
 
 | HEAT | EFFECT                                                                                                                                                          |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -107,14 +129,20 @@ TEMP is the actual temperature. Around TEMP X is +/- 5 degrees Celsius or TEMP X
 | -1   | Roll ENDURANCE every hour to not become COLD.                                                                                                                   |
 | -2   | Roll ENDURANCE every 15 minutes to not become COLD.                                                                                                             |
 
+Hiking thirst at high heat (HEAT 3 or higher, or a heat wave): each HIKING player character must succeed with an ENDURANCE roll every Quarter Day not to get THIRSTY. This replaces the basic "Hot" temperature line when Expanded Weather is used.
+
 #### TEMP MODIFIERS
 
-| D6  | CONVERT TO             | EFFECT                                                                                                 |
+| D6  | RESULT TO             | EFFECT                                                                                                 |
 | --- | ---------------------- | ------------------------------------------------------------------------------------------------------ |
 | 1-3 | Sun/Moon/Stars         | LEAD THE WAY +1. HIKING IN DARKNESS +1. If it replaces rain, the next Light Quarter Day is Fog.        |
 | 4   | Clouds                 | +1 TEMP if also Sun/Moon/Stars.                                                                        |
 | 5   | Strong Winds           | If TEMP is 0 or less, HEAT -1. MAKE CAMP -1. Weather changes faster; roll again after one Quarter Day. |
 | 6+  | Risk for Rain/Snowfall | Add +1 to the next day's weather roll. Each Risk stacks. Next day, roll D6 + the total Risk.           |
+
+Sun/Moon/Stars is the expanded fair-weather result. It is the same LEAD THE WAY +1 idea as basic Clear skies — apply that bonus once, not twice. HIKING IN DARKNESS +1 applies only under true clear/fair sky (Sun/Moon/Stars).
+
+Strong Winds is the same MAKE CAMP -1 band as basic Gales.
 
 Terrain affects the actual chance of precipitation. In mountains or near a coast, it can be 100%. In a desert, it might still be no rain.
 
@@ -122,7 +150,7 @@ Terrain affects the actual chance of precipitation. In mountains or near a coast
 
 **If positive HEAT, then rain:** HEAT -1 (does not stack). Moisture can ruin sensitive items. If items vulnerable to moisture are exposed for at least 15 minutes, once per day roll item dice to see if they are damaged (each ⚔️ deals damage).
 
-**At zero or negative HEAT, then snowfall:** LEAD THE WAY -1 and FORCED MARCH -1.
+**Precipitation as snow:** When HEAT is zero or lower, drizzle or downpour falls as snow rather than rain. LEAD THE WAY still uses precip intensity (-1 drizzle, -2 downpour). In addition, apply FORCED MARCH -1. Do **not** stack an extra LEAD THE WAY -1 from "snowfall" on top of the precip intensity already applied. (If HEAT is positive, precipitation is rain, not snow.)
 
 #### CLOTHES
 
@@ -234,10 +262,11 @@ Every time you enter a new hexagon on the map, the pathfinder makes a **survival
 
 Apply the following modifiers when relevant:
 
-- +1 in Sun/Moon/Stars weather.
+- +1 in Sun/Moon/Stars weather (or basic Clear skies — the same fair-weather bonus once).
 - -1 in Darkness unless you have night vision.
 - -1 in Fog.
-- -1 during Snowfall.
+- -1 during precipitation of drizzle intensity, or -2 during downpour intensity (rain or snow).
+- During snow (HEAT 0 or lower): also FORCED MARCH -1. Do not stack an extra LEAD THE WAY -1 from snowfall if precip intensity already applied LEAD THE WAY.
 - -1 per Strong Wind when traveling by sea. If you roll a mishap at sea during Strong Wind, capsize on a failed roll.
 
 #### LEADING THE WAY MISHAPS
