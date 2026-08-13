@@ -429,6 +429,54 @@ _\* Boars attack you if you fail._
 
 _† Partridge, pigeon, dove, or similar. In Marshlands or next to a lake or river, treat this result as waterfowl (duck, coot, heron) with the same stats._
 
+#### Catch (Prey) — Expanded (Ravenlands)
+
+Optional D66 table for northern temperate Ravenlands game. The tens digit
+matches the simple HUNT table size-class (1 squirrel-class through 6 large
+game / apex). Units pick a specific animal of that class. Animals marked \*
+may fight; use the matching beast statistics or the GM’s choice of similar
+strength. Each row lists **Difficulty**, **requirement**, **MEAT**, and
+**PELTS** for that animal.
+
+| D66 | PREY | DIFFICULTY | REQUIREMENT | MEAT | PELTS |
+| --- | ---- | ---------- | ----------- | ---- | ----- |
+| 11 | Red squirrel | +1 | Weapon or trap | 1 | 1 |
+| 12 | Bank vole (string of) | +1 | Trap | 1 | — |
+| 13 | Wood mouse (string of) | +1 | Trap | 1 | — |
+| 14 | Dormouse | +1 | Trap | 1 | 1 |
+| 15 | Pine vole | +1 | Trap | 1 | — |
+| 16 | Weasel | 0 | Weapon or trap | 1 | 1 |
+| 21 | Grey partridge | +1 | Weapon or trap | 1 | — |
+| 22 | Wood pigeon | +1 | Weapon or trap | 1 | — |
+| 23 | Woodcock | +1 | Weapon | 1 | — |
+| 24 | Hazel grouse | +1 | Weapon | 1 | — |
+| 25 | Black grouse | 0 | Weapon | 2 | — |
+| 26 | Mallard (waterfowl) | +1 | Weapon | 2 | — |
+| 31 | Brown hare | +1 | Weapon or trap | 2 | 1 |
+| 32 | Mountain hare | +1 | Weapon or trap | 2 | 1 |
+| 33 | European rabbit | +1 | Trap | 2 | 1 |
+| 34 | Stoat (ermine) | 0 | Weapon or trap | 1 | 2 |
+| 35 | Polecat | 0 | Weapon or trap | 1 | 1 |
+| 36 | Young fox kit | +1 | Trap | 1 | 1 |
+| 41 | Red fox | 0 | Weapon or trap | 2 | 2 |
+| 42 | Eurasian badger | −1 | Weapon | 3 | 2 |
+| 43 | Pine marten | 0 | Weapon or trap | 1 | 2 |
+| 44 | European otter | −1 | Weapon | 2 | 2 |
+| 45 | European beaver | −1 | Weapon | 3 | 2 |
+| 46 | European wildcat | −1 | Weapon | 2 | 2 |
+| 51 | Wild boar\* | −2 | Weapon | 5 | 2 |
+| 52 | Fallow deer (doe) | −1 | Weapon | 4 | 2 |
+| 53 | Yearling red deer | −1 | Weapon | 5 | 2 |
+| 54 | Large wild boar sow\* | −2 | Weapon | 6 | 3 |
+| 55 | Lynx\* | −2 | Weapon | 3 | 3 |
+| 56 | Wolf\* | −2 | Weapon | 3 | 2 |
+| 61 | Roe deer | −1 | Weapon | 4 | 2 |
+| 62 | Red deer stag | −1 | Weapon | 6 | 3 |
+| 63 | Elk (moose)\* | −2 | Weapon | 8 | 4 |
+| 64 | Gray bear\* | −3 | Weapon | 8 | 5 |
+| 65 | Dire wolf\* | −3 | Weapon | 5 | 3 |
+| 66 | Wolverine\* | −2 | Weapon | 3 | 3 |
+
 #### HUNTING MISHAPS
 
 | D6  | MISHAP           | EFFECT                                                                                                                                                                                                |
@@ -457,6 +505,66 @@ Success means you catch a number of units of FISH equal to the number of ⚔️ 
 | 4   | Mosquito Swarm      | A large swarm of mosquitoes or gnats attacks you, driving you crazy with their bites and buzzing. They attack with four Base Dice, causing damage to _Empathy_. |
 | 5   | Splash!             | You lose your balance and fall into the water. See rules for swimming and drowning.                                                                             |
 | 6   | Attacked            | A vicious fish or eel attacks you, causing a nasty bleeding wound. You suffer one point of damage to _Strength_.                                                |
+
+#### Catch (Fish) — Simple
+
+Optional colour for a successful FISH roll in Ravenlands waters. FISH units
+still equal the number of ⚔️ rolled unless the GM prefers this table for type
+and approximate yield.
+
+| D6 | CATCH | DIFFICULTY | FISH |
+| -- | ----- | ---------- | ---- |
+| 1 | Small fry (roach, rudd, bleak) | +1 | 1 |
+| 2 | Perch or ruffe | +1 | 1–2 |
+| 3 | Trout or grayling | 0 | 2 |
+| 4 | Bream or ide | 0 | 2–3 |
+| 5 | Pike or zander | −1 | 3–4 |
+| 6 | Dangerous catch\* (giant pike, wels, thrashing eel) | −2 | 4–5 or fight |
+
+#### Catch (Fish) — Expanded (Ravenlands)
+
+Optional D66 table for Ravenlands rivers, lakes, and coasts. Tens digit =
+simple catch class; units = specific fish. \* may thrash or force a fight.
+Each row lists **Difficulty** and **FISH** yield for that catch.
+
+| D66 | FISH | DIFFICULTY | FISH YIELD |
+| --- | ---- | ---------- | ---------- |
+| 11 | Bleak (string) | +1 | 1 |
+| 12 | Roach | +1 | 1 |
+| 13 | Rudd | +1 | 1 |
+| 14 | Gudgeon (string) | +1 | 1 |
+| 15 | Minnow (string) | +1 | 1 |
+| 16 | Stickleback swarm (net) | +1 | 1 |
+| 21 | European perch | +1 | 1–2 |
+| 22 | Ruffe | +1 | 1 |
+| 23 | Young bream | +1 | 2 |
+| 24 | Whitefish | 0 | 2 |
+| 25 | Smelt (string) | +1 | 1–2 |
+| 26 | Vendace | 0 | 2 |
+| 31 | Brown trout | 0 | 2 |
+| 32 | Grayling | 0 | 2 |
+| 33 | Arctic char (cold lake) | 0 | 2 |
+| 34 | Burbot (cold water) | 0 | 2 |
+| 35 | Brook trout | 0 | 2 |
+| 36 | Sea trout (estuary) | −1 | 3 |
+| 41 | Common bream | 0 | 2–3 |
+| 42 | Ide | 0 | 2–3 |
+| 43 | Tench | 0 | 2–3 |
+| 44 | Chub | 0 | 2 |
+| 45 | Barbel | −1 | 3 |
+| 46 | Carp (still water) | −1 | 3–4 |
+| 51 | Northern pike | −1 | 3–4 |
+| 52 | Zander (pike-perch) | −1 | 3–4 |
+| 53 | Large perch | −1 | 3 |
+| 54 | Asp | −1 | 3 |
+| 55 | Atlantic salmon (run) | −2 | 4–5 |
+| 56 | Huchen (river salmon) | −2 | 4–5 |
+| 61 | Giant pike\* | −2 | 5 or fight |
+| 62 | Wels catfish\* | −3 | 6 or fight |
+| 63 | European eel (large)\* | −2 | 3 (may bite) |
+| 64 | Lamprey swarm\* | −1 | 2 (1 damage if mishandled) |
+| 65 | Sturgeon (rare river)\* | −2 | 5 |
+| 66 | Vicious bottom-biter\* | −2 | fight as giant pike (−1 Strength) |
 
 ### SURVEY THE LANDS
 
