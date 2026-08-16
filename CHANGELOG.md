@@ -17,6 +17,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   and FISH tables so GMs can name specific animals and dangerous water
   catches without leaving the journeys chapter.
 
+### Changed
+
+- **Book 01 — Corebook, Bind Magic.** A forever binding that can be triggered
+  once per day now costs the spell's rank plus five WP. The binder may buy
+  extra Power Level at 1 WP per +1 for a single use the wearer chooses, or
+  2 WP per +1 on every use. The user pays 1 WP to trigger it. One-day and
+  one-shot forever bindings are unchanged.
+
 ## [1.1.5] — 2026-08-12
 
 ### Added

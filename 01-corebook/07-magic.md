@@ -357,7 +357,18 @@ If you want to cast a spell unnoticed, you must _obscure_ your magic. This requi
 
 Skilled Sorcerers and Druids can _bind_ spells to dead objects to create magical traps or powerful magical artifacts. You cast the spell like any other and choose how many WP to spend, but you must also spend extra WP to bind your spell to an object instead of unleashing its power immediately. Rituals cannot be _bound_.
 
-Roll for any overcharge and mishap when the spell is _bound_. The extra WP do affect this roll, but don't count toward the Power Level. If you spend one additional WP, the magic lingers for one day, or until the spell is triggered. If you spend two additional WP, the magic lingers forever, but dissipates when the spell is triggered. Spending five additional WP binds the spell to the object forever and it can be triggered once per day, at a cost in WP equal to the Power Level.
+Roll for any overcharge and mishap when the spell is _bound_. The extra WP spent only to bind the spell do affect this roll, but don't count toward the Power Level.
+
+If you spend one additional WP, the magic lingers for one day, or until the spell is triggered. If you spend two additional WP, the magic lingers forever, but diss Spending five additional WP, plus WP equal to the bound spell's rank, binds the spell to the object forever and it can be triggered once per day.
+
+You may spend further WP when you bind it, at one of two rates:
+
+- **Once:** 1 WP per +1 Power Level. The user may add any amount of this bank to a single triggering. Those points are then spent.
+- **Every time:** 2 WP per +1 Power Level. That bonus applies to every triggering.
+
+The caster who bound the spell must pay these WP when the binding is made. The user of the bound item does not spend them. Each use of a once-per-day binding costs the user 1 WP.
+
+The Power Level of a once-per-day binding is the spell's rank, plus any every-time bonus, plus any once-bank the user spends on that triggering.
 
 You can bind the spell in whatever manner you wish. You decide how the spell is triggered. Common methods include a certain phrase being uttered or that the object is opened, broken or thrown to the ground. Once the spell is triggered, it has the same effect as if it had been cast normally.
 
