@@ -12,7 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - **Book 01 — Corebook, hunting and fishing catch.** Optional simple catch
-  colour for FISH and D66 expanded Catch (Prey) and Catch (Fish) tables for
+  for FISH and D66 expanded Catch (Prey) and Catch (Fish) tables for
   Ravenlands northern temperate game and fish, placed after the simple HUNT
   and FISH tables so GMs can name specific animals and dangerous water
   catches without leaving the journeys chapter.
