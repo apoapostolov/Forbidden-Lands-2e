@@ -172,6 +172,14 @@ The repository also includes the root support documents that make the line usabl
 - Front matter and cover files for all three books
 - Encounter, legend, and reference chapters integrated into the books themselves rather than parked in loose working notes
 
+## Other Forbidden Lands 2nd Edition Modules
+
+| Name | Description |
+| --- | --- |
+| [Forbidden Lands 2E manuscript](https://github.com/apoapostolov/Forbidden-Lands-2e) | Unofficial Forbidden Lands 2E rulebooks in Markdown (corebook, GM guide, Book of Beasts). |
+| [Forbidden Lands 2nd Edition](https://github.com/apoapostolov/Forbidden-Lands-2e-for-Foundry-VTT) | INSTALL FIRST. Forbidden Lands 2nd Edition game system for Foundry VTT. |
+| [Forbidden Lands 2E — Core Rules + Campaigns](https://github.com/apoapostolov/Forbidden-Lands-Core-Game-2nd-Edition-for-Foundry-VTT) | Core rules books plus three campaigns as Foundry Adventure packs. |
+
 ## License and notice
 
 Free League published the official [Forbidden Lands Third-Party Tabletop Module License v1.0, dated March 31, 2026](https://freeleaguepublishing.com/wp-content/uploads/2026/03/Forbidden-Lands-License-Agreement-version-1.0.pdf).
