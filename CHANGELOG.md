@@ -27,6 +27,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.1.5] — 2026-08-12
 
+This release gives players a survival route into CHEF and lets training
+finish before the XP is paid. It also clarifies mounted archery and weather
+at the table, while the lore tools gain deeper kin-culture guidance.
+
 ### Added
 
 - **`/forbidden-lands-lore` — orc culture.** Added a campaign-ready model of

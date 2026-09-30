@@ -10,7 +10,10 @@
 
 *A finished unofficial three-book Forbidden Lands line for harsher journeys, long campaigns, and wilderness that fights back.*
 
-This is Apostol Apostolov’s fan-made second-edition manuscript set: Corebook, Gamemaster’s Guide, and Book of Beasts, plus a skill suite for GMs and AI coworkers who want to expand the line in the same register. It is not an official Free League release.
+This is Apostol Apostolov’s fan-made second-edition manuscript set: Corebook,
+Gamemaster’s Guide, and Book of Beasts. Use the books to run longer, harsher
+journeys in the Ravenlands; use the skill suite when you want to write new
+material in the same register. It is not an official Free League release.
 
 ## What’s New in 1.1.5
 
@@ -23,7 +26,8 @@ See the full [changelog](./CHANGELOG.md).
 
 ## Highlights
 
-Ordered the way the Corebook reads. These are the systems this edition actually built out or rebuilt hard — not a chapter list.
+These are the rules that change how a journey, fight, or settlement plays at
+the table. Pick what your campaign needs; the books supply the full procedures.
 
 - **Expanded Skill Uses.** Resolution now has clearer stakes for hard results, group stealth, surprise, and chases. Optional Linked Rolls let a strong beat (or a necessary failure) change the next roll in a coordinated action. Myths add a growing die of secret knowledge earned from sages and recovered books, used when that narrow field actually matters.
 
