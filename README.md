@@ -1,6 +1,19 @@
 <!-- markdownlint-disable MD013 MD024 MD033 -->
 
-# Forbidden Lands 2E
+<div align="center">
+
+  <h1>Forbidden Lands 2E</h1>
+
+  <p>Run harsher journeys and longer campaigns with a complete three-book fan-made rules line.</p>
+
+  <p>
+    <a href="#readme"><img src="https://img.shields.io/badge/Type-RPG%20rules-555" alt="Type: RPG rules"></a>
+    <a href="#readme"><img src="https://img.shields.io/badge/Format-Markdown-555" alt="Format: Markdown"></a>
+    <a href="https://github.com/apoapostolov/Forbidden-Lands-2e/releases/latest"><img src="https://img.shields.io/github/v/release/apoapostolov/Forbidden-Lands-2e" alt="Latest stable release version"></a>
+    <a href="https://github.com/apoapostolov/Forbidden-Lands-2e/releases/latest"><img src="https://img.shields.io/github/release-date/apoapostolov/Forbidden-Lands-2e?display_date=published_at&amp;label=last%20release" alt="Published date of latest stable release"></a>
+  </p>
+
+</div>
 
 <div style="display: flex; width: 90%; gap: 1%; align-items: flex-start;">
   <img src="01-corebook/00-cover.png" alt="Forbidden Lands 2E corebook cover" style="display: block; width: 31%; max-width: 31%; min-width: 0; height: auto;">
