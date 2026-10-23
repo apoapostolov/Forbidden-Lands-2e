@@ -84,7 +84,7 @@ Casting a spell requires a great deal of mental exertion and requires that you s
 
 **OVERCHARGING:** When you cast a spell, every ⚔️ you roll increases its Power Level by one. For example, if you spend 2 WP to cast a spell and roll two ⚔️, its Power Level is increased to 4.
 
-**MAGIC MISHAP:** If you roll one or several 💀 when you cast a spell, you have unleashed powerful forces but are unable to control them and you suffer a magic mishap. Roll D66 on the mishap table for the discipline used to cast the spell, applying the modifier based on how many 💀 you rolled.
+**MAGIC MISHAP:** If you roll one or several 💀 when you cast a spell, you have unleashed powerful forces but are unable to control them and you suffer a magic mishap. Roll D66 on the mishap table for the discipline used to cast the spell, applying the modifier based on how many 💀 you rolled. A [stave of power](#staves-of-power) can absorb 💀 before you determine the mishap.
 
 **SAFE CASTING:** If you cast a spell at a lower rank than your talent rank for the discipline, you may opt to roll one less die for every point of difference. This reduces the risk of a magic mishap, but also makes the spell less likely to overcharge. If the result is zero dice or less, don't roll at all - the spell simply works as intended.
 
@@ -122,6 +122,66 @@ You don't need your spells written down to cast them, but it makes it easier to 
 Writing down a spell requires you to first cast it once (chance casting doesn't count). Then, you must spend a Quarter Day with quill in hand and make a LORE roll. Writing down a ritual takes two Quarter Days.
 
 **SPELL ACTION ECONOMY:** Drawing a grimoire is a fast action if it is easily accessible. Using a grimoire is a free action and requires that you hold it with at least one hand.
+
+### STAVES OF POWER
+
+The mages of old cast through staves of power, steadying their Willpower through wood and iron prepared to bear the strain. Few of these artifacts remain unshattered. A stave recovered from a grave or a ruined tower can still absorb the force that would otherwise turn upon you, but something within it wakes when it does. Within the Halls of Vond, it is whispered that Zygofer tried to empower a mythic stave by binding a demon's ego into it, and that the failed pact caused the rupture that opened the nexus between the two worlds.
+
+**CASTING THROUGH A STAVE:** Before rolling, declare that you cast through a stave of power held in one hand. While still, an ordinary stave absorbs the first 💀 rolled. Ignore that result when determining whether you suffer a magic mishap and its modifier. Any remaining 💀 cause a mishap as normal. An awakened stave cannot absorb or ignore any 💀 until it is stilled. The stave does not remove casting dice or affect overcharge. You can use only one stave per casting.
+
+**AWAKENING:** When a still stave absorbs one or more 💀, its personality and curse awaken. It absorbs all the results it can from that casting before awakening. The awakening takes effect after the spell, before any magic mishap. Each stave has its own awakening, usually a benefit coupled with a harmful effect. Its description gives the effects and their duration. The stave remains awake until stilled, even after a timed effect ends or it changes hands. Casting through an already awakened stave does not trigger another awakening.
+
+_Nirmena casts through a stave that absorbs one 💀. She rolls one ⚔️ and one 💀. Her spell overcharges as normal, and the stave absorbs the 💀, preventing a mishap. The wood begins speaking in a voice she has never heard._
+
+**GREATER STAVES:** While still, legendary staves absorb the first two 💀 rolled, and mythic staves absorb the first three. All absorbed results belong to the same awakening, regardless of how many the stave absorbs in that casting. Any unused protection is lost until the stave is stilled.
+
+| Stave     | 💀 Absorbed While Still | 💀 Rolled to Shatter |
+| --------- | ----------------------- | -------------------- |
+| Ordinary  | 1                       | 3 or more            |
+| Legendary | 2                       | 4 or more            |
+| Mythic    | 3                       | 5 or more            |
+
+**SHATTERING:** If you roll enough 💀 to reach the stave's shattering threshold in the table, it shatters. Count the 💀 before absorption; the threshold is the same whether the stave is still or awake. A still stave absorbs its normal number and awakens before shattering. An awakened stave absorbs none. Shattering adds one 💀 to those remaining. Use the final total to determine the mishap modifier. This increases the severity of the mishap; it does not cause a separate D66 roll. The shattered stave loses its powers, and ordinary repairs cannot restore them.
+
+_Later, after spending a turn and 1 WP to still the stave, Nirmena rolls three 💀 through it. It absorbs one, awakens, and splits in her hand. Two 💀 remain, and the shattering adds a third. She rolls once on her discipline's mishap table with a +10 modifier._
+
+**OTHER CASTING RULES:** Apply safe casting, grimoires, and STABILIZE SPELL before rolling; the stave absorbs results from the dice you actually roll. Chance casting still guarantees a mishap: if no 💀 remain after absorption, resolve it as one 💀. This guaranteed result cannot be absorbed and does not awaken or shatter the stave. Effects from an earlier, delayed mishap still apply; the stave can absorb 💀 rolled on the new casting, but cannot cancel an effect already imposed.
+
+**HIDDEN PROPERTIES:** Finding a stave does not reveal its awakening. SENSE MAGIC can reveal that it is magical, but its sleeping personality and curse remain hidden until it first absorbs a 💀. A stave might contain its former owner's soul, lay a curse upon you, or announce your whereabouts to something that wants it returned. The GM determines these properties before the stave enters play.
+
+**STILLING A STAVE:** Spend one turn (15 minutes) holding an awakened stave and pay 1 WP to still it. No roll is required. Some staves demand an additional cost, listed under **STILLING** in their description; pay this cost when you complete the stilling. A stave becomes still only when all its costs are paid.
+
+Stilling puts the stave's personality to sleep and ends its ongoing awakening benefits and drawbacks. It does not undo damage already suffered or information already revealed. A still stave can absorb 💀 again and awakens the next time it does so. Waiting for a timed effect to end does not still the stave.
+
+#### LOST STAVES OF POWER
+
+The following staves are examples for the GM. Their awakenings are hidden from the adventurers until triggered.
+
+##### THE ASH TUTOR
+
+This ordinary stave has a brass cap and cramped writing cut along its ash shaft. Its former owner bound his soul into the wood to finish a book. He no longer remembers which book it was.
+
+**PROTECTION:** While still, absorbs one 💀 from a casting, then awakens.
+
+**AWAKENING:** For one turn, the tutor reads over your shoulder, granting +2 to LORE rolls to interpret magical writing while you hold it. It also speaks through your mouth, correcting every word you say. You suffer -2 to STEALTH rolls during that turn, even if you put the stave down. Its advice grants no spells or magical talent ranks.
+
+##### THE WINTER CROOK
+
+A shepherd's crook of birch, bound with iron wire. Its grip stays warm beneath frost. When it wakes, the crook presses against your palm as though trying to lead you toward a hearth.
+
+**PROTECTION:** While still, this legendary stave absorbs up to two 💀 from a casting, then awakens.
+
+**AWAKENING:** For one turn, you need not roll ENDURANCE against cold while holding the crook. This protection does not remove an existing COLD condition. While the crook is awake and you hold it, your rank in Elemental Magic counts as one higher, to a maximum of Rank 5, provided you already know the discipline. This bonus teaches you no spells. The crook complains in a child's voice whenever you turn away from a fire. While it is awake and you carry it within NEAR range of an open fire, its cries fail your STEALTH rolls.
+
+**STILLING:** In addition to the 1 WP, you suffer 1 point of Strength damage as the iron draws heat from your flesh. This cost is paid when you still the crook.
+
+##### THE BRASS DOOR
+
+Two strips of brass enclose a black wooden shaft. Near the grip is a keyhole with no lock behind it. The stave pulls toward doors left ajar; a finger laid across the keyhole feels breath from the other side.
+
+**PROTECTION:** While still, this mythic stave absorbs up to three 💀 from a casting, then awakens.
+
+**AWAKENING:** Once per Quarter Day, when the stave awakens, your next spell cast through it within one turn gains +1 Power Level after rolling. This adds no casting dice. Every awakening also reveals your current hex and appearance to a demon that claims the stave. The demon remembers each sighting and sends servants to recover its property. Before introducing the stave, the GM chooses an existing greater demon and the servants it can call upon. Closing or covering the keyhole does not prevent the sightings.
 
 ### INGREDIENTS
 

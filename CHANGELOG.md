@@ -25,6 +25,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   2 WP per +1 on every use. The user pays 1 WP to trigger it. One-day and
   one-shot forever bindings are unchanged.
 
+## [1.1.6] — 2026-10-23
+
+### Added
+
+- **Book 01 — Corebook, staves of power.** Cast through rare recovered staves
+  to absorb mishap skulls, awaken hidden powers and curses, and risk
+  shattering under greater strain. Awakened staves cannot absorb skulls
+  until stilled by spending one turn, 1 WP, and any additional cost they
+  demand. Includes three lost staves, an Elemental Magic rank bonus from
+  the Winter Crook, and a rumor about Zygofer.
+
 ## [1.1.5] — 2026-08-12
 
 This release gives players a survival route into CHEF and lets training

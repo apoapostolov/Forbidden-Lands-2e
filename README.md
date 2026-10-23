@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD013 MD024 MD033 -->
+<!-- markdownlint-disable MD013 MD024 MD033 MD041 -->
 
 <div align="center">
 
@@ -28,12 +28,12 @@ Gamemaster’s Guide, and Book of Beasts. Use the books to run longer, harsher
 journeys in the Ravenlands; use the skill suite when you want to write new
 material in the same register. It is not an official Free League release.
 
-## What’s New in 1.1.5
+## What’s New in 1.1.6
 
-- Learn **CHEF** Rank 1 by surviving in the wild (XP + Quarter Days), without a teacher.
-- Finish training Quarter Days before you can afford the XP, then learn the skill or talent when you pay.
-- Clearer mounted archery and weather / HEAT rules in the Corebook.
-- Deeper lore tooling for kin culture (including orc society) kept separate from religion references.
+- Cast through rare staves of power that absorb mishap skulls, awaken hidden
+  powers and curses, and may shatter under strain.
+- Find three lost staves, including the Winter Crook's cold protection and
+  Elemental Magic bonus.
 
 See the full [changelog](./CHANGELOG.md).
 
