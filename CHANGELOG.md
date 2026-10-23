@@ -11,6 +11,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- **Book 01 — Corebook, Dread Rod of the Rust Brothers.** Adds a stave whose
+  demon binds priests and willing oath-takers, then stalks anyone who breaks
+  their oath. Its oaths last for life unless given a term of dissolution;
+  shattering the rod releases the demon. Still it at your peril.
+
 - **Book 01 — Corebook, hunting and fishing catch.** Optional simple catch
   for FISH and D66 expanded Catch (Prey) and Catch (Fish) tables for
   Ravenlands northern temperate game and fish, placed after the simple HUNT

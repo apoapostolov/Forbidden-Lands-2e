@@ -183,6 +183,18 @@ Two strips of brass enclose a black wooden shaft. Near the grip is a keyhole wit
 
 **AWAKENING:** Once per Quarter Day, when the stave awakens, your next spell cast through it within one turn gains +1 Power Level after rolling. This adds no casting dice. Every awakening also reveals your current hex and appearance to a demon that claims the stave. The demon remembers each sighting and sends servants to recover its property. Before introducing the stave, the GM chooses an existing greater demon and the servants it can call upon. Closing or covering the keyhole does not prevent the sightings.
 
+##### THE DREAD ROD OF THE RUST BROTHERS
+
+Rust Brother priests present this ironwood rod to initiates and outsiders alike, demanding a frightening oath of nonaggression or servitude. The speaker feels a presence just behind their back as the words leave their mouth. It remains there for the oath's duration whenever the speaker is in the same hex as the rod. When the stave awakens, the demon inside it holds its priest to the oath sworn at initiation. Anyone who willingly speaks an oath to the rod is bound by it, along with the priest and everyone who knowingly agrees to the terms. Merely hearing the oath does not bind you.
+
+**PROTECTION:** The rod is either an ordinary stave that absorbs one 💀 while still, or a greater, legendary stave that absorbs up to two. It awakens after absorbing 💀 as normal.
+
+**AWAKENING:** The demon enforces the priest's initiation oath and any other oath sworn to the rod. Unless the priest names a term of dissolution when the oath is sworn, it binds for life. Breaking an oath does not end it: the demon stalks the oathbreaker until they die. It does not make ordinary attacks against them. Instead, it haunts and terrorizes them when fortune turns, using its fear attack when it manifests and letting misfortune close around them until the GM can bring about a death that fits the oath they broke. The GM designs the demon: it typically has Strength 12–18, or Strength 20 or higher if it is a greater demon. In either case, give it at least one fear attack.
+
+**STILLING:** Spend the normal turn and 1 WP, then make a MANIPULATION roll. You need at least three ⚔️ to still the rod. If you fail, the turn and WP are spent, the rod remains awakened, and the demon hunts you as though you had broken your initiation oath. A Rust priest is expected to keep the rod awakened while it serves them.
+
+**SHATTERING:** When the rod shatters, the demon inside is unleashed and the oaths it bound end. It still recognizes those who swore them as parties to its pacts and does not treat the rod's destruction as a breach. It is free to attack, haunt, or otherwise torment anyone nearby who is not party to one of its pacts. The GM decides how it acts once free.
+
 ### INGREDIENTS
 
 Most spells in this chapter list ingredients or objects required to cast them. Once the spell is cast, the ingredient has been spent and cannot be used again to cast spells, unless listed otherwise.
